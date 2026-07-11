@@ -5,6 +5,8 @@ import { QuartzEmitterPlugin } from "../types"
 import spaRouterScript from "../../components/scripts/spa.inline"
 // @ts-ignore
 import popoverScript from "../../components/scripts/popover.inline"
+// @ts-ignore
+import analyticsScript from "../../components/scripts/analytics.inline"
 import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
@@ -87,25 +89,7 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
 
   if (cfg.analytics?.provider === "google") {
     const tagId = cfg.analytics.tagId
-    componentResources.afterDOMLoaded.push(`
-      const gtagScript = document.createElement('script');
-      gtagScript.src = 'https://www.googletagmanager.com/gtag/js?id=${tagId}';
-      gtagScript.defer = true;
-      gtagScript.onload = () => {
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag('js', new Date());
-        gtag('config', '${tagId}', { send_page_view: false });
-        gtag('event', 'page_view', { page_title: document.title, page_location: location.href });
-        document.addEventListener('nav', () => {
-          gtag('event', 'page_view', { page_title: document.title, page_location: location.href });
-        });
-      };
-      
-      document.head.appendChild(gtagScript);
-    `)
+    componentResources.afterDOMLoaded.push(analyticsScript.replaceAll("__LI_GA4_TAG_ID__", tagId))
   } else if (cfg.analytics?.provider === "plausible") {
     const plausibleHost = cfg.analytics.host ?? "https://plausible.io"
     componentResources.afterDOMLoaded.push(`
