@@ -59,7 +59,7 @@ Narbutas Ežiagulį aiškina kaip dievą, kurio šauktasi per šventę, ir spėj
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 384"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 384."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 384."
   citata_originali: |
     Mūsų mitologas sako, kad per šią šventę šauk­
     davosi dievo Ežiagulio; ankstesniame straipsnyje išsiaiškino­

@@ -61,7 +61,7 @@ Dusburgietis teigia, kad siek tiek toliau jis priduria (1 Mak 2. 67—68): „..
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     Siek tiek toliau jis priduria (1 Mak 2. 67—68): „...atkeršykite priešams
     už savo tautą. Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo

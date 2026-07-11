@@ -84,7 +84,7 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 - id: c-09764
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Karės vyresnieji tie buvo: atmonas, nuo žodžio atmonyti, dešimtininkas, šimtininkas, arba pulkorius, nuo žodžio pulti, ir karūžasis, kuriuos viršiau minavojau; buvo dar vytūnas, kurs visą kariauną vedė į karę nesant atmono, sargūnas, kursai rūpinos kariaunos mitalu ir pavojumu^1308 , abažūnas, kurs priegule^1309 kariaunos rūpinos. Lygia dalia pilies vyras, arba pilies ponas, turėjo sau pripadėtoją vyresnįjį, anginu vadinamą, kurs angas pilies saugojo ir uždarius jų raktus pas save laikė, be jo žinios, karei esant, niekas negalėjo įeiti į pilį nei išeiti.
   statusas: verified

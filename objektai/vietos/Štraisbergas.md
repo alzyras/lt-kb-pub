@@ -73,7 +73,7 @@ Dusburgietis teigia, kad slupas) Šternbergas Štraisbergas (Straisbergk; vėlia
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 319"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
   citata_originali: |
     Šilinė
     Šipenas

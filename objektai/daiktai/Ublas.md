@@ -72,7 +72,7 @@ Nenurodyta
 - id: c-10298
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Dešimtasis trobesys vadinos ublas^246 , taip vadinamas smalos pečius, kuriame dervą, arba
         smalą ir degutą degė.

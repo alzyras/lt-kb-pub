@@ -86,7 +86,7 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Wespats lietuvių kalba reiškia poną. Sirvydo žodyne (p. 240)
     rašoma tiksliau — visagalis ponas, nes pats žodis, jei jis vartojamas

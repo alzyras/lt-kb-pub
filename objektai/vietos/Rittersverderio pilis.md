@@ -63,7 +63,7 @@ Jokūbą, vėl išsiruošė ana­ pus Nemuno ir, dar nesulaukęs savo raitelių,
 - id: c-82209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Visa tai vyko žiemos pabaigo­
     je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­

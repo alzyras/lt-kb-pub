@@ -138,7 +138,7 @@ Nenurodyta
 - id: c-82999
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gedimini) fines Christianorum
     69
@@ -163,7 +163,7 @@ Nenurodyta
 - id: c-83000
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     336, byloja Dip­
     lomą Biskupa Eberharda Warmińskie­

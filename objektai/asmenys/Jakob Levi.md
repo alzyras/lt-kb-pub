@@ -68,7 +68,7 @@ Jakob Levi, iš Vilniaus, 1427 m. rašė hebrajiškas knygas ir turėjo Moreno, 
 - id: c-83676
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jau Vytauto laikais Vil­
     niaus žydai ne tik ištekliais, bet ir

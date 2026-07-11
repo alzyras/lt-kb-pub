@@ -76,7 +76,7 @@ Juo sunkiau buvo įveikiami lenkai, juo kautynės darėsi žiauresnės; įkirši
 - id: c-82842
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  •  —
     125

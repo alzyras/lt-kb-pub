@@ -154,7 +154,7 @@ Nenurodyta
 - id: c-83208
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų
     data, kuria, karaliui Vladislovui Jogailai sutikus ir leidus,
@@ -206,7 +206,7 @@ Nenurodyta
 - id: c-83209
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šioje privile­
     gijoje Vytautas aiškiai nurodo: ...et

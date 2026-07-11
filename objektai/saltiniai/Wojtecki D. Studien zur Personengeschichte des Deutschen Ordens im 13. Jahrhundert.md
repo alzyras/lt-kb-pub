@@ -62,7 +62,7 @@ Dusburgietis teigia, kad wojtecki D.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wojtecki D. Studien zur Personengeschichte des Deutschen Ordens im 13. Jahrhundert
     —Wiesbaden, 1971.

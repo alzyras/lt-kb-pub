@@ -61,7 +61,7 @@ Narbutas Lenkijos Plikąjį kalną prie Sandomiro įvardijo kaip garsų kalną, 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 261"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
   citata_originali: |
     Tenai Ku-
     polės šventės (Kupalnica) naktį senės -  jagos, kerėtojos, raga­

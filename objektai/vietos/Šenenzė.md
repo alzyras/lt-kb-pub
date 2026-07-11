@@ -63,7 +63,7 @@ Dusburgietis teigia, kad sarkis, Sareka) Šaumburgas Šenenbergas, Šenburgas, �
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 318-319"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318-319."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 318-319."
   citata_originali: |
     Šalčininkai (Salsenicka, Salsenîken)
     Šaltuona, u.

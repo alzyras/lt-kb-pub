@@ -59,7 +59,7 @@ Dusburgietis teigia, kad baueris86. Dusburgietis teigia, kad 95—119; Bauer H.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 20"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
   citata_originali: |
     Vėliau pasirodžiusios kitų Prūsijos kronikų, Ordino statutų, dokumentų publikacijos leido
     M. Perlbachui atskleisti kronikos šaltinius ir tiksliau suvokti šio veikalo struktūrą. XX a.

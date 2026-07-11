@@ -63,7 +63,7 @@ Dusburgietis teigia, kad švabija, švabai Švandenas Švarcburgas Švedija Šve
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 319"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 319."
   citata_originali: |
     Brodnica)
     Štumas (žr. Stuma)

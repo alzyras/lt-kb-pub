@@ -84,7 +84,7 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 240"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 240."
   citata_originali: |
     Įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė Mahometas, imperatorius Heraklijus
     patraukė į karą prieš Chosrovą, persų karalių, jį nugalėjo, o viešpaties kryžiaus dalį, kurią

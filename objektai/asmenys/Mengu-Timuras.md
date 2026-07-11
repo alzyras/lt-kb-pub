@@ -71,7 +71,7 @@ media_all_json: |-
 - id: c-174325
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     1276 metais Hipčiakų kanas Mengu-Ti-
     muras surengė žygį prieš įazigus, jotvingių tautą, kuri

@@ -80,7 +80,7 @@ Nenurodyta
 - id: c-70129
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     vokiečių ordinas per daug buvo užsisklendęs savo siauruose sieki­
     muose. Tad Gediminui politinės aplinkybės krikštui tapo gana

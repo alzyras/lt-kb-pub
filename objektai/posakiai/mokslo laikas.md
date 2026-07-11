@@ -82,7 +82,7 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 - id: c-28611
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ketveri metai ordino
     žemėse buvo naudingai praleistas « mokslo laikas ». Tad Vytautas
@@ -98,7 +98,7 @@ Ketveri metai ordino žemėse buvo naudingai praleistas « mokslo laikas ».
 - id: c-167730
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš visų
     Lietuvos valdovų Vytautas su Vakarais buvo daugiausia turėjęs

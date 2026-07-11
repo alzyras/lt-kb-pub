@@ -63,7 +63,7 @@ Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalbo
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 198"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 198."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 198."
   citata_originali: |
     Tuo­
     met šis mokytas vyras gal būtų apsiribojęs savo pirmu

@@ -60,7 +60,7 @@ Narbutas burtininkais vadino lietuvių dainius, apdainuodavusius tautos istorijo
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 102"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 102."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 102."
   citata_originali: |
     Tolesnį šito patvirtinimą rasime žemiau,
     straipsnyje „Laima“.

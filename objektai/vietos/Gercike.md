@@ -60,7 +60,7 @@ Tuo keliu nuėjo ne tik Dauguvos pilys, kaip Gercike, Kukenois, bet ir pats Polo
 - id: c-33849
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Todėl pasirinko
     _bendradarbiavimo_ kelią. Tuo keliu nuėjo ne tik Dauguvos pilys,

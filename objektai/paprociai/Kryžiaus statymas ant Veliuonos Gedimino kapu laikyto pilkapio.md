@@ -91,7 +91,7 @@ Nenurodyta
 - id: c-83254
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šalimais to Pilies kalno iš rytų pusės dunkso kitas kalnas,
     viršūnė tarsi kaugės, vadinamas Gedimino, o jo viršuje iš

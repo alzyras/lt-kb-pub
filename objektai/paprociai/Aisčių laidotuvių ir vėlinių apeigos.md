@@ -269,7 +269,7 @@ Nenurodyta
 - id: c-05407
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Įdomiai Wulfstanas pasakojo apie prūsų laidojimo papročius.
     «Aisčiai» moką išlaikyti užšaldytus lavonus net vasaros karščių
@@ -329,7 +329,7 @@ Nenurodyta
 - id: c-174967
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Patobulėjo ginklų, įrankių ir papuošalų formos.
     Mirusiųjų kapai ėmė darytis žymiai turtingesni. Išpuošiami net
@@ -346,7 +346,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 341"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 341."
   citata_originali: |
     Taigi aiškinama be dirbtinumo, jog Olegas nugalėjo
     su krivičiais, o ne krivičių Smolenską, nes iš daugelio

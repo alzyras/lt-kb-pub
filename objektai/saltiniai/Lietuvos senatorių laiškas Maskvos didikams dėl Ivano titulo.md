@@ -65,7 +65,7 @@ Lietuvos senatoriai laišku ragino Maskvos didikus neleisti Ivanui Vasiljevičiu
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 544"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 544."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 544."
   citata_originali: |
     Nieko nepasiekę, pasiun­
     tiniai grįžo namo: mat Vasiljevičius tarė, kad visokia

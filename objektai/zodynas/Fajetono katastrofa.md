@@ -96,7 +96,7 @@ Vartojama kaip mitologinis ar analoginis žymuo geologinei hipotezei aiškinti.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 401"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 401."
   citata_originali: |
     Visi sutinka su nuomone, jog, ištirpus ledynams, pas
     mus atplaukė ir tos Siaurės uotų nuolaužos, — jas atpluk­

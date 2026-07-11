@@ -58,7 +58,7 @@ Narbutas rašė, kad 450 m. Atila su hunais ir sąjungininkais persikėlė per R
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 310"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 310."
   citata_originali: |
     Taigi Atila pasinaudojo tuo: neva
     jam nebuvo leista vesti imperatoriaus sesers. 450 me­

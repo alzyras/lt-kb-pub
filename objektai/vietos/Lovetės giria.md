@@ -65,7 +65,7 @@ Narbutas Lovetės, arba Loweten, girią mini kaip garsią Pamedės girią tarp k
 - id: c-175652
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Tokia sala buvo Kvidzinas, Qui-
     dino, taip pat Zantiro, Berno ir kitos, ligi šiol egzistuo­

@@ -62,7 +62,7 @@ Kojelavičius Jogailos vestuvių nepritarimą ir pralaimėjimą Rusioje aiškino
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 393"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 393."
   citata_originali: |
     Kai Edigejus siaubė
     Rusią kalaviju bei ugnimi, Jogaila susituokė Sanoke su

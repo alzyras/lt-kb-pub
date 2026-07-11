@@ -154,7 +154,7 @@ Nenurodyta
 - id: c-30988
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Plačiai ir nuosekliai išžvalgius šaltinius, yra prieita išvadų,
     jog jau XIII amž. Lietuvoje buvo daug turto. Kunigaikščiai turėjo
@@ -172,7 +172,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 290"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
   citata_originali: |
     Pas tuos žynius (kaip aiškiai liudija 1. F. R. kronika) bu­
     vusi laikoma viešojo iždo ir privačių asmenų nuosavybė. Mat

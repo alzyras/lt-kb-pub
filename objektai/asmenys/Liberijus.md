@@ -66,7 +66,7 @@ Romėnas Liberijus, Narbuto apibūdintas kaip dorybingas ministras, rėmė Odoak
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Odoakras ne­
     trukus perleido šią provinciją visigotų karaliui Evarikui,

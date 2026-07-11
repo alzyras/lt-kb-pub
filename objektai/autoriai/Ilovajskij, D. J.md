@@ -63,7 +63,7 @@ B., Ilovajskij, D.
 - id: c-29399
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Antonovič, V. B., Ilovajskij,
     D. J. : _Istorija Vel. Kn. Litovskogo do upadku udel'noj sistemy v litovskoj

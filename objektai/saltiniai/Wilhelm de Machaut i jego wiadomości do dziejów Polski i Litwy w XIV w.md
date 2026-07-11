@@ -61,7 +61,7 @@ media_all_json: |-
 - id: c-31881
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) _Wilhelm de Machaut i jego wiadomości do dziejów Polski i Litwy
     w XIV w.,_ KH, t. 43, 1929, 217-228 p.

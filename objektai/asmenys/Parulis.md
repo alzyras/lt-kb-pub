@@ -68,7 +68,7 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
 - id: c-83905
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1632. Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo
     mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą,

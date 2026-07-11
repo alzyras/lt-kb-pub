@@ -63,7 +63,7 @@ AUPL = Akta unii Polski z Litwą 1385-1791, išl.
 - id: c-29609
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     AUPL = Akta unii Polski z Litwą 1385-1791, išl. St. Kutrzeba ir
     Wl. Semkowicz, Krokuva 1932.

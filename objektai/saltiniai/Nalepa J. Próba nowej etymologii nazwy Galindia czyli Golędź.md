@@ -62,7 +62,7 @@ Dusburgietis teigia, kad nalepa J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nalepa J. Próba nowej etymologii nazwy Galindia czyli Golędź.— ABS, Wrocław—
     Warszawa—Kraków—Gdańsk, 1976, 9, s. 191—209.

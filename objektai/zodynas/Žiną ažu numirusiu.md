@@ -59,7 +59,7 @@ Tai yra išmalda už mirusiuosius (Žiną ažu numirusiu).
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 385"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 385."
   citata_originali: |
     Susėdę prie stalo, dar kalba maldas, geria
     skirdami pirmąją gėrimo taurę mirusiųjų vėlių dievybėms (ge­

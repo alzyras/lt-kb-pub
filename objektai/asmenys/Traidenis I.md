@@ -68,7 +68,7 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 - id: c-32814
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš garsiosios Haličo-Volinijos Riurikaičių
     giminės, su kuria XIII amžiaus Lietuva buvo tiek daug turėjusi

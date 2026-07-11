@@ -92,7 +92,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 238"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238."
   citata_originali: |
     Apie Martyną IV, popiežių, karalių Rudolfą ir baisingą jūrų žuvį bei daugybės pran­
                              cūzų [Gallicorum] žūtį Sicilijoje

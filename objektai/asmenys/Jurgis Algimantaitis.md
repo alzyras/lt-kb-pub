@@ -67,7 +67,7 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 466"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
   citata_originali: |
     Kiti
     manė, kad karaliaus išrinkimas didžiuoju kunigaikščiu

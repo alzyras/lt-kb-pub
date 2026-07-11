@@ -70,7 +70,7 @@ Vartojamos formos: `vyrgalve`, `vyrgulda`, `vyrišką galvą`.
 - id: c-09640
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“
   citata_rodoma: "Jei viens antrą užmušė, tad užmuštojo gentims valna buvo senovėj užmušti patį užmušėją ar jo visų artimąjį gentį, kaip viršiau minavojau; jei užmušėjas juos numaldė, tad jis užmuštojo gentims turėjo atguldyti^1122 pinigais už užmuštojo galvą, kurie pinigai, arba mokesnis, vadinos vyrgalve, arba vyrgulda, kursai žodis paeina nuo vyro ir galvos arba nuo vyro ir žodžio guldyti, arba nuo žodžio vokiško geld – pinigai, beje, mokesnis už vyrišką galvą, nesgi senovėj vyriška galva daug didžiau buvo branginama, nekaip motriškos, kaipo patarlė, viršiau minavota, šiandien dar tą rodo: „Ožka, – sako, – ne gyvulys, merga ne šeimyna.“"

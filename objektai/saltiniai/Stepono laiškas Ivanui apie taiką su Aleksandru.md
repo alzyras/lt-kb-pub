@@ -88,7 +88,7 @@ Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai l
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 550"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 550."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 550."
   citata_originali: |
     Pakvietė dėtis į są­
     jungą prieš bendrą krikščionių priešą kryžiuočius ir
@@ -111,7 +111,7 @@ Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai l
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 549"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 549."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 549."
   citata_originali: |
     Motinai išvykus, Aleksandras
     su žmona ir žymiausiais didikais aplankė Rusią ir įsa­

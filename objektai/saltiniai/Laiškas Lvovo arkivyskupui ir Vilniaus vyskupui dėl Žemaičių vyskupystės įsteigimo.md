@@ -73,7 +73,7 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 392"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     Vy­
     tautas priėmė Jogailą, kaip

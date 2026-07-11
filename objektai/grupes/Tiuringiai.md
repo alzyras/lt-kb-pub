@@ -61,7 +61,7 @@ Narbutas mini tiuringius tarp germanų genčių, kurios didžiojo kraustymosi me
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     Jų net pa­
     daugėjo atvykus tautiečiams tiesiai iš gimtų lietuvių že­

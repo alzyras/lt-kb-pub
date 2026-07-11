@@ -71,7 +71,7 @@ Kunigaikščiai Boratinskiai su didžiulėmis tėvonijomis perėjo į Maskvos pu
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 535"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
   citata_originali: |
     Tuo tarpu
     Maskvos valdovas stiprino savo pajėgas, darydamas

@@ -129,7 +129,7 @@ media_all_json: |-
 - id: c-169484
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Juos nesunku paveikti gerumu, paskyrus į se­
     niūnus žmogų, kurį žemaičiai mielai priimtų ir kuriam

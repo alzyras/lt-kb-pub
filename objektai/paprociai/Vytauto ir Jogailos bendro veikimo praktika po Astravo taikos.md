@@ -115,7 +115,7 @@ Nenurodyta
 - id: c-28833
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Nuo Astravo taikos metų Vytautas
     ir Jogaila, savo tėvų pavyzdžiu, per 36 metus bendrai veikė (iki
@@ -134,7 +134,7 @@ Nenurodyta
 - id: c-167719
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1382 metų pabėgėlis iš kalėjimo išsikovojo ne tiktai savo tėviš­
     kę, bet ir visą Kunigaikšiją. Nuo Astravo taikos metų Vytautas

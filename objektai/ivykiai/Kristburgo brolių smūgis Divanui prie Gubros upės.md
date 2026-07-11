@@ -102,7 +102,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 137-138"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137-138."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 137-138."
   citata_originali: |
     Vis dėlto Kristburgo ir Elbingo broliai, pasitikėdami tuo, kurio galybės remiamas
     vienas karys išgali persekioti tūkstantį, o du išvaiko dešimt tūkstančių, priartėjo su

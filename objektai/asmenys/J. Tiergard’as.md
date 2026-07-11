@@ -61,7 +61,7 @@ Tiergard’as reiškė tą pačią nuomonę.
 - id: c-32740
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jeigu Vytautas gautų Klaipėdą — skundėsi ma­
     gistras, — Prūsų ir Livonijos žemės liktų perskirtos, ir tai reikštų

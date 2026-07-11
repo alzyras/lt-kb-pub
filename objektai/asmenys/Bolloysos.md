@@ -55,7 +55,7 @@ Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kur
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 432"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 432."
   citata_originali: |
     Kritikui visai ne pagal skonį tų vyriausiųjų žynių vardai,
     todėl jam kelia įtarimą. Pavyzdžiui, iš kur atsirado Marco Ro-

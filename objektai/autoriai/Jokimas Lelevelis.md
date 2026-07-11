@@ -88,7 +88,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - id: c-29110
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių
     savo gyvenimo metų (1861) emigracijoje nepaleido plunksnos iš
@@ -107,7 +107,7 @@ Savo gausiuose veikaluose Lelevelis, kuris iki pat paskutinių savo gyvenimo met
 - id: c-167721
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     2,
     1972, 41-53 p).**

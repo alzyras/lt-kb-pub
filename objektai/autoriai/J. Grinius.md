@@ -64,7 +64,7 @@ Grinius, Veidai ir problemos lietuvių literatūroje, I t., XII-406 psl., Roma 1
 - id: c-32964
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     14 dol.
     J. Grinius, Veidai ir problemos lietuvių literatūroje, II t.,

@@ -59,7 +59,7 @@ Vėliau sutinkama gausi valstiečių grupė, vad. «judrioji » (« pochožije �
 - id: c-34131
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Priešistorinių laikų gale skaičius laisvųjų
     ūkininkų buvo nepalyginamai gausesnis negu didžiųjų kunigaikščių

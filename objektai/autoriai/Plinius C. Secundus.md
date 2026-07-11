@@ -62,7 +62,7 @@ Dusburgietis teigia, kad romos imperatorius Gajus Julijus Cezaris Germanikas, pr
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 48"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Cezario vardas tapo pirmųjų Romos imperatorių garbės vardu, nuo II a. virto sosto
     įpėdinių, vėliau — Romos imperatorių titulu. Romos imperatorius Gajus Julijus Cezaris

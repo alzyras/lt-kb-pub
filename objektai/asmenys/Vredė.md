@@ -70,7 +70,7 @@ Vredė buvo Karaliaučiuje miręs profesorius, kurio pastabas Narbutas pridėjo 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 351"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 351."
   citata_originali: |
     Pagaliau iš šios sutarties reikia daryti prielaidą,
     jog čia paminėtas toje didelėje saloje buvęs miestas (Ci-

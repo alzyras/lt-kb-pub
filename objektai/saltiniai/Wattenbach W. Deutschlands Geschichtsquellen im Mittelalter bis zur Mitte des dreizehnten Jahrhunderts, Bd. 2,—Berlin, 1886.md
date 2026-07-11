@@ -64,7 +64,7 @@ Dusburgietis teigia, kad wattenbach W.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des
     dreizehnten Jahrhunderts, Bd. 2,—Berlin, 1886.

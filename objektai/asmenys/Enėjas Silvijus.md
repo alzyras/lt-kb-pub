@@ -57,7 +57,7 @@ Anot Enėjo Silvijaus liudijimo, Zantiro šventyklos aptvare buvo šventas ąžu
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 267"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 267."
   citata_originali: |
     Kryžiuočiai paėmė šią šventyklą pirmu puolimu,
     pastatė ten stiprią pilį ir anais laikais ten įkūrė ordino sostinę.

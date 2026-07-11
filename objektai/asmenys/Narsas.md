@@ -58,7 +58,7 @@ Narso gretose, Narbuto pasakojimu, kariai ne sykį triuškino priešus ir prisid
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 324."
   citata_originali: |
     Netrukus pasitaikė tokia galimybė, kai jie, Belizari-
     jaus vadovaujami, pradėjo kariauti. Vėliau, kariaudami

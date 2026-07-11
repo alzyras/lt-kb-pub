@@ -21,18 +21,19 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '2'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'painting_of'
+media_primary_json: |-
+  {"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-11T15:34:28.859327+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi raudono vaško antspaudas su heraldiniu skydu, figūriniais ženklais ir išlikusiomis virvelėmis.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad tai Kazimiero Jogailaičio / Casimir IV Jagiellon antspaudas, pridėtas prie 1470 m. dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus objektas aiškiai identifikuotas kaip Kazimiero Jogailaičio valdovo antspaudas, todėl ryšys su target tiesioginis.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-4317c3d5ed25c8bd49e21347","title":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","caption":"Kazimiero Jogailaičio antkapio figūros atvaizdas Vavelio katedroje, XIX a. litografija.","originalTitle":"Tombstone of Kazimieras Jogailaitis in the Wawel Cathedral in Krakow, 1855-1858 (effigy).jpg","creator":"Aleksander Narcyz Przezdziecki (1814–1871)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Przeździecki, Aleksander. Wzory sztuki średniowiecznej i z epoki odrodzenia po koniec wieku XVII w dawnej Polsce . Ser. 2. Page 64.","dateDisplay":"1855-1858","dateStart":null,"dateEnd":null,"width":2389,"height":3037,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg/1920px-Tombstone_of_Kazimieras_Jogailaitis_in_the_Wawel_Cathedral_in_Krakow%2C_1855-1858_%28effigy%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis","itemType":"asmuo","relationType":"painting_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:51.548315+03:00","reviewedAt":"2026-07-11T15:34:34.923533+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi karūnuoto valdovo antkapinė figūra su regalijomis, skydu ir aplinkiniais kapo kompozicijos elementais; apačioje įrašas mini Kazimierą Jogailaitį.","metadataEvidence":"Pavadinimas ir aprašas nurodo Kazimiero Jogailaičio antkapį Vavelio katedroje Krokuvoje ir jo effigiją, nutapytą / publikuotą 1855–1858 m.","confidenceLevel":"high","relationType":"painting_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai aiškiai įvardytas Kazimiero Jogailaičio antkapinės effigijos istorinis atvaizdas, todėl priimtinas kaip tiesioginis target atvaizdas.","isPrimary":1},{"mediaId":"m-4e44e5206640d67a8846ec82","title":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","caption":"Kazimiero Jogailaičio antspaudas su Lenkijos ereliu ir Lietuvos Vyčiu, 1470 m.","originalTitle":"Seal of Kazimieras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1470.jpg","creator":"Seal belong to Casimir IV Jagiellon (the former King of Poland and Grand Duke of Lithuania)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"This file was provided to Wikimedia Commons by the Polish Central Archives of Historical Records as part of a cooperation project with Association \"Archivum Patriae\" and Wikimedia Polska .","dateDisplay":"1470","dateStart":null,"dateEnd":null,"width":605,"height":711,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Seal_of_Kazimieras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1470.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lenkija","label":"lenkija","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Kazimieras Jogailaitis.md","title":"Kazimieras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T15:33:38.006157+03:00","reviewedAt":"2026-07-11T15:34:28.859327+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi raudono vaško antspaudas su heraldiniu skydu, figūriniais ženklais ir išlikusiomis virvelėmis.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad tai Kazimiero Jogailaičio / Casimir IV Jagiellon antspaudas, pridėtas prie 1470 m. dokumento.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus objektas aiškiai identifikuotas kaip Kazimiero Jogailaičio valdovo antspaudas, todėl ryšys su target tiesioginis.","isPrimary":0}]
 ---
 # Kazimieras Jogailaitis
 
@@ -615,7 +616,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-78976
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kadangi pilietinis karas po Vytauto Didžiojo mir­
     ties ir žiauri Žygimanto valdžia buvo Vilniaus miesto
@@ -649,7 +650,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-78977
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vėliau jo pamaldumą pripažino
     Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
@@ -713,7 +714,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-78982
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dar būdamas
     didžiuoju kunigaikščiu, Kazimieras tais pačiais metais atlei­
@@ -771,7 +772,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-78985
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Garbingosios
     Mergelės Marijos gimimo dieną
@@ -844,7 +845,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 468"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 468."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 468."
   citata_originali: |
     Patekęs į tokią ne­
     aiškią padėtį, jis, be galo išsi­
@@ -878,7 +879,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-168111
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lenkams prieš­
     taraujant, lietuviai nė nemanė garsinti savo sumanymo,
@@ -908,7 +909,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 472"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 472."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 472."
   citata_originali: |
     Nepakęsda­
     mas atidėliojimo, pats patraukė į Smolenską, nors kar­
@@ -929,7 +930,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 - id: c-168113
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     K ol visi lau k ė šio susitikim o, tu rė ju sio  įv y k ti g e­
     gužės pabaigoje, Mykolas su
@@ -967,7 +968,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 532"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
   citata_originali: |
     Tverė turėjo labai galingas karo
     jėgas, ji galėjo išvesti į kovos lauką ligi penkiasdešim­
@@ -989,7 +990,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 533"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
   citata_originali: |
     Štai
     todėl pasirūpino, kad popiežius Inocentas paskelbtų

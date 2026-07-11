@@ -108,7 +108,7 @@ Nenurodyta
 - id: c-05238
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
     Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais

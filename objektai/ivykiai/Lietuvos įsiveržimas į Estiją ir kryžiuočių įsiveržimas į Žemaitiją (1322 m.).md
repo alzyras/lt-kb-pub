@@ -79,7 +79,7 @@ Nenurodyta
 - id: c-28749
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuviams užteko jėgos ne tik gintis, bet ir priešą puldinėti
     Prūsuose ir Livonijoje (1318-19). 1322 m. jie įsiveržė Estijon. Lie­

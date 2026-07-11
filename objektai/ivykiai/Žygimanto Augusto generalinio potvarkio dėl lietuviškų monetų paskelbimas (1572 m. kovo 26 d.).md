@@ -143,7 +143,7 @@ Nenurodyta
 - id: c-82912
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šiuo mūsų įsakymu norime, kad visi bendrai
     445
@@ -175,7 +175,7 @@ Nenurodyta
 - id: c-82913
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     —  369-
     (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)

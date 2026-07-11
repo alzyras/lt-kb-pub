@@ -68,7 +68,7 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 589"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 589."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 589."
   citata_originali: |
     Ne ge­
     riau sekėsi ir tiems, kurie anksčiau spėjo pasprukti iš

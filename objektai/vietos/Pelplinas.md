@@ -127,7 +127,7 @@ media_all_json: |-
 - id: c-82008
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     2) Kurį laiką buvo manoma, kad Gediminas
     iš tiesų tuos laiškus rašęs. Pavyzdžiui, abatai iš Olivos ir Pel-
@@ -152,7 +152,7 @@ media_all_json: |-
 - id: c-82009
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Mažesniųjų brolių laiškas, rašytas in
     Culmine [Kulme], datuotas fl. d. 1323

@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie Galindos žemės nuniokojimą Pagausėjo galindų,
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     4. Apie Galindos žemės nuniokojimą
 

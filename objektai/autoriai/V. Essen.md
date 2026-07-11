@@ -71,7 +71,7 @@ Essen, V.: Die länd­ lichen Siedlungen in Litauen, SBRiga, 1934.
 - id: c-33168
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     -—-
     (”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł

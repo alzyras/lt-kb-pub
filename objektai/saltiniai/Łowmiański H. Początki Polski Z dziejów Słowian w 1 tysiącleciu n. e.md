@@ -64,7 +64,7 @@ Dusburgietis teigia, kad łowmiański H.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 267"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 267."
   citata_originali: |
     Łowmiański H. Początki Polski: Z dziejów Słowian w 1 tysiącleciu n. e.—T. 1, 4, 5.—
     Warszawa, 1963, 1970, 1973.

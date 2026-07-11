@@ -77,7 +77,7 @@ Dusburgietis teigia, kad apie daugybės miestų bei pilių pastatymą 1325 vieš
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 222"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 222."
   citata_originali: |
     360 (353). Apie daugybės miestų bei pilių pastatymą
 

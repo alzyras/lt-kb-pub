@@ -86,7 +86,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-83565
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
     kove prie 20 lietuviškų kapų pridėjo 2 flor. 20 grašių. Slups-
@@ -103,7 +103,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
 - id: c-83566
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Die 5 Augusti [rugpjūčio 5 dieną] per Turčiną, kai jo kara­
     liškajai didenybei pinigus nuvežė į Leipcigą, pakeisdamas

@@ -517,7 +517,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 95"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
   citata_originali: |
     Stenderis (latvių kalbos gramatikos autorius) straipsnyje
     apie tos tautos mitologiją aiškina mitologinių terminų kilmę
@@ -540,7 +540,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
 - id: c-173149
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Latviai, matyt, vaizdavo jį baisų ir nepatrauklų, ka­
     dangi dar dabar, norėdami pagąsdinti vaikus, jiems sako: „At­
@@ -568,7 +568,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 113"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
   citata_originali: |
     28 Ponas Adomas Borovskis*.
     1
@@ -588,7 +588,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 117"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 117."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 117."
   citata_originali: |
     Šaukiama tuo pačiu vardu, ji buvo moterų
     globėja visuose jų gyvenimo nutikimuose, kaip romėnų Dia­
@@ -609,7 +609,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Beje, labai gali būti,
     kad vėlesniais laikais ir stabmeldystei išnykus liaudis klydo api­
@@ -630,7 +630,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 131"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 131."
   citata_originali: |
     Pergrubė (Pergrubie)
     Pavasario, gėlių, daržų, žmogaus pastangomis gausinamų
@@ -650,7 +650,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
 - id: c-173156
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lygičius ir Derintojas
     (Ligiczus i Derfintos)
@@ -674,7 +674,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Jiems nusilenkdavo pats Pušaitis, prašydamas
     kaimiečių vardu, idant markopoliai sulaikytų savo garbinto­
@@ -694,7 +694,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 205"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 205."
   citata_originali: |
     Latviai tas rupūžes vadino Pieno motinomis
     (Peenu mahtes), pieno deivėmis. Jų mitologijoje buvo kažko­
@@ -713,7 +713,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 299"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
   citata_originali: |
     Tokie žyniai, mo­
     kantys pagarsėti, pritraukia lengvatikius iš tolimesnių ir arti­
@@ -733,7 +733,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 324"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 324."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 324."
   citata_originali: |
     Latviai ištikimiau išsaugojo senųjų mėnesių atminimą pa­
     gal skaičiavimą nuo jauno iki jauno mėnulio. Todėl jų mėne­
@@ -751,7 +751,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 90"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
   citata_originali: |
     Šio dievo garbei buvo švenčiama šventė apie gruodžio 25
     1 Stender. Lettische Grammatik*. Tačiau tai klaidinga išvada, ka­
@@ -769,7 +769,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 121"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 121."
   citata_originali: |
     Tą vakarą nė
     viena neverpia bijodama, kad lauke neužderės linai arba kad
@@ -788,7 +788,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 139"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 139."
   citata_originali: |
     Ties Prienais, kur Nemunas daro pusračio vingį,
     pastebėjau pil i a k ai n Į Krono-kilpinie, tai yra Kruonio kilpą (Luk
@@ -806,7 +806,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Latviai vadina Leetons arba Leetowens -  „vaiduokliu, vy­
     riškos lyties dvasia, kuri paprastai tarytum smėlio maišas už­
@@ -824,7 +824,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 177"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 177."
   citata_originali: |
     Šitaip ap­
     leidus dalyką, pradėjo atsirasti dievaičių, vadintų aitvarais (Suc-
@@ -843,7 +843,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
 - id: c-177055
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Pušaitis (Puschajtis)
     Požemio dievaitis, engiamų vargšų gynėjas, nykštukų,
@@ -864,7 +864,7 @@ Narbutas vertino Stenderio latvių mitologijos straipsnio etimologijas kaip klai
 - id: c-177056
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šito liekanas pastebime lietuvių mitologijoje. Tiesa,
     kronikininkai, aprašinėjantys lietuvių genties tautų religiją, ko­

@@ -96,7 +96,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 79-80"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79-80."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 79-80."
   citata_originali: |
     Apie tai, kaip buvo pastatytas ir išgriautas malūnas
 

@@ -76,7 +76,7 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 192"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 192."
   citata_originali: |
     Naujojo Malūno pilį.552 Šioje kovoje vienas prūsas iš Sembos stovėjo ir klojo priešus
     taip, kaip Karalių knygoje skaitome apie Ahohietį (2 Kar 23, 9 ir toliau): „Kolei jo rankos

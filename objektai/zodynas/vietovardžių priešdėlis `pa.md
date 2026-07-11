@@ -71,7 +71,7 @@ Lietuvoj labai paplitęs pa­ protys gyvenvietes prie upių vadin­ ti, pridėju
 - id: c-82604
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ta
     privilegija buvo patvirtinta Žygi­

@@ -64,7 +64,7 @@ Dusburgietis teigia, kad valikonytė J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Valikonytė  J. Dviguba išpirka už moterį Lietuvos Didžiojoje Kunigaikštystėje XVI
     amžiaus pirmojoje pusėje — Istorija, V., 1977, 17, sąs. 2, p. 51—64.

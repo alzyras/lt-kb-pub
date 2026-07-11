@@ -143,7 +143,7 @@ Nenurodyta.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 23"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 23."
   citata_originali: |
     Naudojamų šaltinių atranka ir vertinimu T. Narbutas irgi
     mažai kuo tesiskyrė nuo savo pirmtakų. Kaip buvo įprasta, jis
@@ -178,7 +178,7 @@ Nenurodyta.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 85"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 85."
   citata_originali: |
     Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek
     buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra­

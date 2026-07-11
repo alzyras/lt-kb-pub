@@ -86,7 +86,7 @@ Nenurodyta
 - id: c-172604
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
     prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­

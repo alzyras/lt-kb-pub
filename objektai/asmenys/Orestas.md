@@ -122,7 +122,7 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
 - id: c-169604
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl niekas neturėtų piktintis, jeigu aš rašydamas
     nuklysiu už Lietuvos ribų ir truputį paliesiu įvykius,
@@ -159,7 +159,7 @@ Odoakras, užėmęs Ticiną, įkalino imperatoriaus Augustulo tėvą Orestą. Or
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     Sis
     naujasis vadas tuojau pat išskubėjo iš Panonijos, vesda­

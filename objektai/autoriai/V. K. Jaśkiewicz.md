@@ -66,7 +66,7 @@ Jaśkiewicz : A Study in Lithuanian Mythologie.
 - id: c-33172
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^40) **V. Maciūnas :** **_Stanevičius S. T.,_** **LE, t. 28, 430-434 p.**
     (^41) **Simonas Stanevičius,** **_Raštai_** **, paruošė J. Lebedys, Vilnius 1967,

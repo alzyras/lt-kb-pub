@@ -59,7 +59,7 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 71"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
   citata_originali: |
     Savo entuziazmu T. Narbutas pasidalijo ir su
     S. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­

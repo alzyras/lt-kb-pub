@@ -61,7 +61,7 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
 - id: c-82504
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lu-
     kove prie 20 lietuviškų kapų pridėjo 2 flor. 20 grašių. Slups-

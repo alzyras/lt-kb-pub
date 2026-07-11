@@ -101,7 +101,7 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 97."
   citata_originali: |
     Šio pavadinimo šaltinis glūdi senovės Šiaurės Eu­
     ropos tautų kalbų žodyje Unda, išlikusiame lietuvių kal­
@@ -134,7 +134,7 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 99."
   citata_originali: |
     manų genčių“. Sis lygumų, lėkštų plotų ir klampių pel­
     kynų kupinas kraštas tikrai galėjo vadintis Venedija, o

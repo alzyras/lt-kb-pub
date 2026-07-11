@@ -70,7 +70,7 @@ Narbutas, remdamasis Herodotu, rašo, kad Artabanas veltui stengėsi atkalbėti 
 - id: c-174136
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Antra vertus, persų karalius, pasak Herodoto, savo
     dvariškių pataikavimų suklaidintas, iš neapdairaus įkarš­

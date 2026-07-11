@@ -66,7 +66,7 @@ Dusburgietis teigia, kad urkundenbuch des Bisthums Samland / Herausgegeben von C
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Urkundenbuch des Bisthums Samland / Herausgegeben von C. P. Woelky und H.
     Mendthai.—Leipzig.—H. 1, 1891; H. 2, 1898 (Neues Preussisches Urkundenbuch.

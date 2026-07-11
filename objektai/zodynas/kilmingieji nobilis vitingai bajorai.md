@@ -71,7 +71,7 @@ Dusburgietis teigia, kad prūsai tikėjo, kad kūnas prisikelia iš numirusiųj�
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     207 D. nobilis, Jer.— di hêren. Kilmingųjų (t. y. garsios giminės vyrų — viros preclaros
     genere — III, 100) terminu D. apibūdina to meto prūsų ir lietuvių visuomenės socialines

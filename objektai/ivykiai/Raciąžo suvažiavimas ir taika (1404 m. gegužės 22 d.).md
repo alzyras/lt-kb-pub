@@ -85,7 +85,7 @@ Nenurodyta
 - id: c-93983
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Be to, pajutę Maskvos Vasiliaus priešingumą uošviui, ėmė
     šiauštis eilė didžiojo Lietuvos kunigaikščio priklausomybėje esančių

@@ -63,7 +63,7 @@ Narbutas nurodo Majevskio studiją apie Indijos budinų hierarchiją, paskelbtą
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 279"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
   citata_originali: |
     5 Skaityk pono Majevskio studiją apie Indijos budinu hierarchiją
     (Zbior rozpraw. -  T. I. -  Cz. I. -  Warszawa, 1827)*.

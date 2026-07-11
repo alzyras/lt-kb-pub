@@ -63,7 +63,7 @@ Dusburgietis teigia, kad lietuvos archeologijos bruožai / P.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos archeologijos bruožai / P. Kulikauskas, R. Kulikauskienė, A. Tautavičius.—V.,
     1961.

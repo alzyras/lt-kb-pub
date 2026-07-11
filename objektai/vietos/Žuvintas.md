@@ -101,7 +101,7 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 323"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 323."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 323."
   citata_originali: |
     Nekrasovas), v., p.
       Žirgupė

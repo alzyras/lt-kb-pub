@@ -62,7 +62,7 @@ Dusburgietis teigia, kad kučinskas A.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kučinskas A. Kęstutis lietuvių tautos gynėjas.—Marijampolė, 1938.
   statusas: verified

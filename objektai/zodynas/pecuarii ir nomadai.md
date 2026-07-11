@@ -135,7 +135,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 54"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 54."
   citata_originali: |
     Taip pat nėra
     pagrindo neigti, kad šiandien Arklių Vandenimis vadina­
@@ -162,7 +162,7 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 70"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 70."
   citata_originali: |
     Tas pats orientalistas mano, kad
     Ross Biblijoje ir Korane reiškia tą patį, arba tiesiog tai

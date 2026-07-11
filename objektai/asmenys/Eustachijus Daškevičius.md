@@ -63,7 +63,7 @@ Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stov
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 607"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
   citata_originali: |
     Šitokie žmonės taip ilgai esti klusnūs, kaip
     ilgai klausosi šeimininko prijaukinti žvėrys, žodžiu sa­

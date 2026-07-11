@@ -161,7 +161,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 511"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 511."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 511."
   citata_originali: |
     Tuo tarpu vienas netikėtas įvy­
     kis sukėlė dar didesnį abipusį įtarumą ir nepasitikėjimą.
@@ -187,7 +187,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 602"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 602."
   citata_originali: |
     Tuo tarpu Glinskis su savo ir maskvėnų pulkais už­
     puolė Minską, bet visos jo pastangos nuėjo perniek,
@@ -214,7 +214,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 617"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 617."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 617."
   citata_originali: |
     Šis tau­
     rus ginčas nutrūko ne todėl, kad buvo susitarta, bet

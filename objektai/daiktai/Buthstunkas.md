@@ -89,7 +89,7 @@ Nenurodyta
 - id: c-172561
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Symbolum jurisdictionis Flamenis, Krewe-
     Kreweyto, sive baculus sacerdotalis, vulgari ser­

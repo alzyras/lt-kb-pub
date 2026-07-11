@@ -64,7 +64,7 @@ Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno s
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 628"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 628."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 628."
   citata_originali: |
     Štai todėl Glinskis vėl
     atgavo laisvę ir ankstesnę pagarbą, o ateityje susilau­

@@ -62,7 +62,7 @@ Dusburgietis teigia, kad nalepa J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nalepa J. [Dėl A. Vanago pranešimoj.— ABS, 1976, 9, p. 81—86.
       Nalepa J..

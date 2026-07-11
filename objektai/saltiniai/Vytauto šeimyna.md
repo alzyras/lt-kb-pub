@@ -94,7 +94,7 @@ Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp. iš Praeiti
 - id: c-33750
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     «Gal šitas kritiškumas trukdė Jonynui paskelbti daugiau savo
     tyrinėjimų vaisių »^82.

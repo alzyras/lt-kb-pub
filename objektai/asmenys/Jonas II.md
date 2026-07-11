@@ -75,7 +75,7 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
 - id: c-83697
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos
     ir Nesvyžiaus kunigaikštis, su šiuo pasauliu atsisveikino

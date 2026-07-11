@@ -72,7 +72,7 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 63"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 63."
   citata_originali: |
     Apie Galindos žemės nuniokojimą
 

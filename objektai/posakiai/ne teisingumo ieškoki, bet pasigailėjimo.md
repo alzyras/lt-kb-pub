@@ -83,7 +83,7 @@ Dusburgietis teigia, kad valdovas Henrikas, turėdamas galvoje, kad kiekvienas p
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 99"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 99."
   citata_originali: |
     Apie įvairias Sventopelko derybas ir sutartis
 

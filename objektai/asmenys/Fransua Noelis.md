@@ -58,7 +58,7 @@ Narbutas perteikia F. Noelio nuomonę, kad Kabirai anksčiausiai pradėti garbin
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 111"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
   citata_originali: |
     Romėnai tuos pačius dievus vadino Diipotentes,
     Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­

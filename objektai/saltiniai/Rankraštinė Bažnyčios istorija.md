@@ -75,7 +75,7 @@ Narbutas aprašė privačioje bibliotekoje saugotą rankraštinę Bažnyčios is
 - id: c-173403
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     IV priedas
     Apie aukštųjų žynių ženklus

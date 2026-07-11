@@ -63,7 +63,7 @@ LMS = Litovskaja Metrika.
 - id: c-29822
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     LMS = Litovskaja Metrika. Knigi sudnich del, išl. P. A. Hil’tebrant
     (Russkaja Istoričeskaja Biblioteka, t. 20), Petrapilis 1903.

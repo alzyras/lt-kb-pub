@@ -68,7 +68,7 @@ Jakovas Zachariničius kartu su Andrejumi Možaiskiu ir Andrejumi Šemiačičium
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 560"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
   citata_originali: |
     Kodėl vėliau Aleksandras su kariuomene patraukė
     link Polocko, nei kur parašyta radau, nei pats atspėti

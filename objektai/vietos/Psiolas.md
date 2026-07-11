@@ -62,7 +62,7 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 355"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
   citata_originali: |
     Leidęsi iš čia Skitijos
     kryptimi, pulkai, žengdami

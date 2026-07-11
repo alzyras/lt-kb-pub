@@ -78,7 +78,7 @@ Vartojama pejoratyviai apibūdinti Lietuvos ir Lenkijos santvarkos suirimui.
 - id: c-175028
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kalbant apie istorinius seno­
     vės šaltinius, negalima nepaminėti naujesnių, bet ir

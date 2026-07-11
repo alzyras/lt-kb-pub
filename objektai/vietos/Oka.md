@@ -75,7 +75,7 @@ Vytauto kariuomenė išdegino kraštą prie Okos upių. Oka šiame gabale rodoma
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 367"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 367."
   citata_originali: |
     Sutartą dieną ten atvyko
     Rumbaudas, Lietuvos maršalas, atsivedęs lietuvius ir že­

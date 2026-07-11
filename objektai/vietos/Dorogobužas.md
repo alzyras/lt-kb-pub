@@ -71,7 +71,7 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 604"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Dėl žymiau­
     siųjų didikų nesutarimų, o ypač dėl to, kad kai kas

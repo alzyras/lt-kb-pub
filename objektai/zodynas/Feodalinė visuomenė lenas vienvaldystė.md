@@ -64,7 +64,7 @@ media_all_json: |-
 - id: c-82559
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Algirdui užleidus sostą, jo sūnus jaunasis Jogaila (Ja-
     gaytto)27, dar tėvui gyvam esant, paėmė į savo rankas aukš­

@@ -104,7 +104,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 207"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 207."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 207."
   citata_originali: |
     Maždaug apie 80 metus prieš Kristaus ¡gimimą ¡sarma­
     tai kartu su kitomis Pavolgio tautomis taip pradėjo plūsti

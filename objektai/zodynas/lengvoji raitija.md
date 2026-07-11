@@ -62,7 +62,7 @@ Prieš pagrindinių jėgų susidūrimą kovėsi abiejų pusių lengvosios raitij
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 629"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 629."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 629."
   citata_originali: |
     Ka­
     ralius, prie Borisovo pasilikęs keturis tūkstančius karių,

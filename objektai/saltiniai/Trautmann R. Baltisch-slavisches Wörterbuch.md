@@ -61,7 +61,7 @@ Dusburgietis teigia, kad trautmann R.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Trautmann R. Baltisch-slavisches Wörterbuch.— Göttingen, 1923.
   statusas: verified

@@ -66,7 +66,7 @@ Dusburgietis teigia, kad sembritzki J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Sembritzki J. Geschichte der Königlich Preussischen See- und Handelsstadt Memel.—
     Memel, 1926.

@@ -68,7 +68,7 @@ Dusburgietis teigia, kad hiršas mano, kad čia esanti rašybos klaida (turėtų
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 57"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 57."
   citata_originali: |
     Vygandas Marburgietis XIV a. 9-ame dešimtmetyje (1382, 1384 m.) Lietuvoje, Neries
     žemupyje, mini villa Culmen, terra Culmense (Bornbachas — Kolmische land; SRP, 2,

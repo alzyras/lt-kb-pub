@@ -57,7 +57,7 @@ Dusburgietis teigia, kad ašeradė) Akmena (Jūros intakas), u.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 298"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
   citata_originali: |
     Aizkrauklė (buv. Ašeradė)
       Akmena (Jūros intakas), u.

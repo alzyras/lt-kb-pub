@@ -69,7 +69,7 @@ Włodarski, B.
 - id: c-32906
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) _O Bałtach i Slavianach v oblasti verchnego podne-
     provja,_ ABaSl, VI, 1969, 117-127 p. — Varakauskas, R.: _Lietuvos vals­

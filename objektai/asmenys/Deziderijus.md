@@ -63,7 +63,7 @@ Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl prad�
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 55"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 55."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 55."
   citata_originali: |
     Vis dėlto po popiežiaus Stepono mirties lango­
     bardai, nebijodami galų, sugrįžo prie senųjų polinkių.

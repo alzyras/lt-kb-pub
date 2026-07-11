@@ -57,7 +57,7 @@ Tik graikų matematikas-geografas Klaudios Ptolemaios (a.
 - id: c-33005
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Čia Tacitas galėjęs minėti prūsus. Tik graikų
     matematikas-geografas Klaudios Ptolemaios (a. 100 - a. 178 po Kr.)

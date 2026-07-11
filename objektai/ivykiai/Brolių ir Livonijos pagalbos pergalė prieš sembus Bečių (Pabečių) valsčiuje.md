@@ -82,7 +82,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 123"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
   citata_originali: |
     atvykę į sutartą vietą, Livonijos kariams dar neatėjus, pradėjo siaubti minėtąjį valsčių,
     grobdami ir degindami. įniršę sembai susibūrė, smarkiai užgriuvo brolių kariuomenę ir

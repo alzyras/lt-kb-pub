@@ -111,7 +111,7 @@ Tai buvo žmogus, kurį dar Algirdas dėl didelių gabumų iš kepėjo sūnaus i
 - id: c-82616
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     33
 

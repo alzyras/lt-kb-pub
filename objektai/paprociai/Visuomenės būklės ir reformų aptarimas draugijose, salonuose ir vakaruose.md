@@ -119,7 +119,7 @@ Nenurodyta
 - id: c-55754
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Po Napoleono sutriuškinimo Rusijoje kurį laiką pastebimas
     visuomeninio gyvenimo pagyvėjimas. Buvo kuriamos legalios
@@ -136,7 +136,7 @@ Nenurodyta
 - id: c-78413
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vilniaus universitetas tapo svarbiausiu
     VI

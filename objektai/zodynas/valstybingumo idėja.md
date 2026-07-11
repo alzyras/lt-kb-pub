@@ -188,7 +188,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - id: c-05598
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šitoks nuo XIX amžiaus pirmos pusės išpuoselėtas savo praei­
     ties idealizavimas lietuvių tautoje yra jau atlikęs sau skirtą vaid­
@@ -211,7 +211,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - id: c-05599
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bandydami _kritiškai_ ir, kiek žmogiškai prigimčiai nustatytos
     ribos leidžia, _objektyviai_ eiti į lietuvių tautos išgyventus šimtme­
@@ -232,7 +232,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - id: c-05600
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet jų periodizacija yra svetima
     lietuvių tautos istorijos faktams. Ji net užtenkamai neatsižvelgia
@@ -254,7 +254,7 @@ Autorius aiškina, kad lietuvių tautos istoriją visame veikale sutelkia apie v
 - id: c-05601
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Galima sutikti, kad šitoji periodizacija yra vienašališkai po­
     litinė. Ji težiūri tik pačios valstybės politinės raidos, ji yra

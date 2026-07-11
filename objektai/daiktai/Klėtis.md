@@ -104,7 +104,7 @@ Nenurodyta
 - id: c-10253
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Trečiasis trobesys buvo vadinamas klėtis, nuo žodžio klėsti^216 , nuo žemės per uolektį ar
         pusantros pakeltas ant trinkų ar didelių akmenų, grįstas ir lubotas lentomis dėl sausumo, kurioje
@@ -122,7 +122,7 @@ Nenurodyta
 - id: c-10254
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Visi tie kambariai, kaip sakiau, buvo luboti, ant tų lubų viskos^218 , kame laikė
         džiūvusią mėsą, ant aksčių^219 suvertą, žiemą ir vasarą; tarp tų kambarių viename buvo laikomi

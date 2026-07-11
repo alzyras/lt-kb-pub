@@ -61,7 +61,7 @@ Bogdanas iš Ivanicos naktį išžvalgė lenkų stovyklą ir patarė Vladimire a
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 237"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 237."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 237."
   citata_originali: |
     To pat karo
     metu Vladimire apsuptas Liubartas išvengė lenkų ne­

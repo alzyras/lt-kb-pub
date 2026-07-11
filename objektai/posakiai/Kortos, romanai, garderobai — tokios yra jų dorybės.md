@@ -64,7 +64,7 @@ I. Onacevičius laiške T. Narbutui moralizuoja apie lietuvių abejingumą kraš
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 452"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 452."
   citata_originali: |
     1836 metų kovo 19 dieną jis rašė T. Narbutui: „Mažai
     yra Žemės rutulyje kraštų, panašių į Lietuvą, kur žmonės

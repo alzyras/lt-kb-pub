@@ -68,7 +68,7 @@ Papildomos aiškios formos neišskirtos.
 - id: c-09678
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     po kairės tos angos buvusi gaspada^773 keleiviams, atėjusiems dievų maldyti.
   statusas: verified

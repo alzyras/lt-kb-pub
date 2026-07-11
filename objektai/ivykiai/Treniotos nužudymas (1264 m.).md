@@ -79,7 +79,7 @@ Nenurodyta
 - id: c-28774
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet ir _Treniotos_ valdymas tebuvo trumpas (1263-1264 m.). Jo
     elgesys su krikščionimis buvo iššaukęs šių nepasitenkinimą. Tur būt,

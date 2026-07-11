@@ -87,7 +87,7 @@ Nenurodyta
 - id: c-09942
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Mirus pačiam kūrėjų kūrėjui, tie kunigai
         pakėlė tarp savęs vieną į senojo vietą, taip pat senelį, 70 ar 80 metų turintį, ir į tą jų darbą svietas
@@ -103,7 +103,7 @@ Nenurodyta
 - id: c-09944
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tuos jo tarnus
         svietas paprastai žyniais, arba kunigais, vadino, tarp kurių vienus pats kūrėjų kūrėjas sau skyrė, kitus

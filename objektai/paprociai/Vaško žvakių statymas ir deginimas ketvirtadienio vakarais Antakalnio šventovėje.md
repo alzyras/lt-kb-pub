@@ -134,7 +134,7 @@ Nenurodyta
 - id: c-55747
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     „Buvo dar didžiulė menė, arba
     šventovė, Antakalnyje, visų dievų,
@@ -161,7 +161,7 @@ Nenurodyta
 - id: c-78411
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gausu buvo pagonių šventyklų, nes, be tų, ku­
     rias pilies teritorijoje buvus patyrėme, viena šventa vietovė

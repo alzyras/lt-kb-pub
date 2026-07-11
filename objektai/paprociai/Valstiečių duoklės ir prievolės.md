@@ -142,7 +142,7 @@ Nenurodyta
 - id: c-05435
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tiesa, tas įstatymas reiškė didelę reformą ir žymią pažangą
     žemės ūkio srityje. Juk ir pati žemė buvo išrūšiuota. Valstiečio

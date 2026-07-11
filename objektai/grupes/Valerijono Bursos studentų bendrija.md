@@ -235,7 +235,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - id: c-55889
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kad Geriausias Didžiausias Dievas ne už kokius nors
     mūsų nuopelnus, o savo išskirtine malone mielaširdingai
@@ -269,7 +269,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - id: c-55890
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     studentų, nesvarbu, kokios tautybės jie būtų, laisvam gyve­
@@ -312,7 +312,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - id: c-55891
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     nuo pačios Bursos ir tęsiasi iki pat Pilies gatvės. Tad didžiai
@@ -335,7 +335,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - id: c-78239
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Praeterea ut iidem studiosi, qui
     pro tempore in Bursa supra nominata habitabunt, aliquod

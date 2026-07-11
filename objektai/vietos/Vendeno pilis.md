@@ -62,7 +62,7 @@ Narbutas rašė, kad Dangerutis buvo Livonijos riterių suimtas ir surakintas Ve
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Tose pačiose pastabose dar yra užuomina apie vie­
     ną lietuvių vadą ar kunigaikštį, vardu Dangerutis; ten sako­

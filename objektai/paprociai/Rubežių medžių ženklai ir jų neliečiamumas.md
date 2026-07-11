@@ -70,7 +70,7 @@ Nenurodyta
 - id: c-09959
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     dar žinoma yra, jog dideli ir seni medžiai senovėj buvo ženklais rubežių grumtuose, kuriuos
         saugojo kaipo šventus, nesgi už pakušinimą^821 rubežių ženklų buvo visų smarkiausia koronę^822 ,

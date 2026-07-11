@@ -61,7 +61,7 @@ Narbutas, remdamasis Čackiu, teigė, kad XVI amžiuje daugiausia raganų būdav
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 302"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 302."
   citata_originali: |
     O XVI amžiuje, kaip moksliškai
     įrodo Čackis36, kai tamsumas ėmė vyrauti tautos švietime, dau­

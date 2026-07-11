@@ -61,7 +61,7 @@ Narbutas mini Milano bibliotekoje saugotą labai sena laikytą geografijos ištr
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 278"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 278."
   citata_originali: |
     Senovės
     geografai nemini šio, šiek tiek vėlesnio negu kitos provin­

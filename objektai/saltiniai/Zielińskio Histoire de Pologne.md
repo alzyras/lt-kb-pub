@@ -60,7 +60,7 @@ Narbutas Zielińskio „Histoire de Pologne“ I tomo 166 puslapį cituoja prie 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 247"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 247."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 247."
   citata_originali: |
     Dar iki XV amžiaus daugelį Europos tautų gaubė barba- 1
     1 Histoire de Pologne par Zielinski. Paris, 1830. T. 1. P. 166.

@@ -64,7 +64,7 @@ Komentare aiškinama, kad Narbutas turėjo omenyje Georgo Brauno didžiųjų pas
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 517"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 517."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 517."
   citata_originali: |
     Tekstas, kuriuo autorius papildė paragrafą, rengdamas spaudai ant­
     rąjį leidimą (PEĮ. L, 310). T. Narbutas turi omenyje geografo ir

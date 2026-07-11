@@ -60,7 +60,7 @@ Livonijos magistras Burchardas Harenas su ordino riteriais ir kariais išsireng�
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 231"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 231."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 231."
   citata_originali: |
     Atvyko į
     pagalbą danai, vedami senų karo vadų. Išsirengė į ka­

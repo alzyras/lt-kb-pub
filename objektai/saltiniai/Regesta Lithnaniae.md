@@ -74,7 +74,7 @@ media_all_json: |-
 - id: c-33702
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Belaruskaja Akademija Navuk,
     VIII, 1929, 1-20 p. — Lowmiański, H. : _Studja nad początkami społe­

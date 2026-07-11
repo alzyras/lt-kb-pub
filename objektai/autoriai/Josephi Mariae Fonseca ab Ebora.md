@@ -70,7 +70,7 @@ opera et studio Rmi Patris Josephi Mariae Fonseca ab Ebora etc.
 - id: c-84049
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žr.
     Annales Minorum seu trium ordinum

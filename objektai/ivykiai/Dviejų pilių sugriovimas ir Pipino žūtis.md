@@ -154,7 +154,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 71-72"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71-72."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 71-72."
   citata_originali: |
     Apie dviejų pilių sugriovimą ir Pipino žūtį
 
@@ -207,7 +207,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 72"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 72."
   citata_originali: |
     221 Pipino nukankinimas vaizduojamas tendencingai (žr. įvadą).
       222  Žr. D. III. 84.

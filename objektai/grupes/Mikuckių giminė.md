@@ -60,7 +60,7 @@ Narbutas Simonaitę įvardija kaip moteriškos giminės fetišą, kurį garbino 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 206"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 206."
   citata_originali: |
     Kaimiečiai tų šliužų nelai­
     ko kenksmingais ir dabar nedaro jiems nieko bloga; priešin­

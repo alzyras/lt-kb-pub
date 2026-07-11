@@ -65,7 +65,7 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 625"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 625."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 625."
   citata_originali: |
     Tokių kalbų paskatinti
     ryžtingesni vyrai viešai pareikalavo, kad įgulos virši­

@@ -135,7 +135,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-84019
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     M. Balinskį, kurios autorius - Lietuvos lenkas. Savotiškai isto­
     riko biografijos vingių ir ano meto istorinių realijų analizei skir­
@@ -153,7 +153,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-84020
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     1  N a run i ec R. Michał Baliński jako mecenas polsko-litewskich więzi kul­
     turowych. Warszawa, 1995; Griškaitė R. Mykolas Balinskis: kova dėl
@@ -171,7 +171,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 - id: c-173671
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Taigi T. Narbutas, nors gerai
     išmanė savo profesijos paslaptis, puikiai valdė plunksną

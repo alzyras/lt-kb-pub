@@ -64,7 +64,7 @@ Narbuto cituotame pasakojime šv. Severinas atpažino persirengusį Odoakrą ir 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 317"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
   citata_originali: |
     Čia pateiksime mūsų Lietuvos istorijos tyrinėtojo ištrau­
     ką: „Kai Odoakras su savo kariuomene žygiavo per Pa-

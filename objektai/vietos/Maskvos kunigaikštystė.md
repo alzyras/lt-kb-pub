@@ -93,7 +93,7 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 601"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 601."
   citata_originali: |
     Toliau skverbtis nedrįso sužinojęs, jog atžygiuoja ka­
     raliaus kariuomenė. Pasiun-
@@ -118,7 +118,7 @@ PasiunP erein a į M a sk v o s tęs į Maskvos kunigaikštysk u n ig a ik š ty
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 604"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
   citata_originali: |
     Štai todėl pulkai patraukė į Oršą; be didelio
     vargo atgavus pilį, visos jėgos pasuko link Smolens­

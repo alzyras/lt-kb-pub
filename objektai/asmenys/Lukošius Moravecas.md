@@ -65,7 +65,7 @@ Lukošius Moravecas prie Slučės upės su dviem šimtais pėstininkų užpuolė
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 607"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 607."
   citata_originali: |
     Nio­
     kotojus sėkmingai išsklaidė Ostrogiškis ir išvarė iš vi­

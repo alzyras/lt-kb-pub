@@ -65,7 +65,7 @@ Kočubinskij), jog prieš­ istoriniais laikais baltai yra gyvenę žymiai tolia
 - id: c-32872
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Archeologiniai radiniai, kalbiniai duomens (ypač žemės vardy­
     nas) ir šykščios metraščių užuominos padeda šiek tiek apibrėžti

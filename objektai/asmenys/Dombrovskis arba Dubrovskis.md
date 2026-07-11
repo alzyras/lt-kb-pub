@@ -64,7 +64,7 @@ Jis pateikė man daug paaiškinimų apie šiuos dalykus, be to, rodė nuora šą
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 383"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 383."
   citata_originali: |
     Tačiau tuos, kurie ką nors
     rasdavo, ištikdavo nelaimės, be to, tokių radinių saugo­

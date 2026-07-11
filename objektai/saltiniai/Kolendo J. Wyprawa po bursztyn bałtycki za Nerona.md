@@ -62,7 +62,7 @@ Dusburgietis teigia, kad kolendo J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kolendo J. Wyprawa po bursztyn bałtycki za Nerona.— Pomorania antiqua, Wrocław—
     Warszawa—Kraków—Gdańsk— Łódź, 1981, t. 10, s. 25—62.

@@ -58,7 +58,7 @@ Vestfalijos vėliavininkas Degenhartas atleido savo priešininkams, nužudžiusi
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Pagaliau pats Konradas, puotos kėlėjas, dėl to, kad iš
     meilės teutonų ordinui buvo metęs jauną nepaprasto

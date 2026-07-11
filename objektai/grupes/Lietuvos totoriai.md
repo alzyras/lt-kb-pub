@@ -290,7 +290,7 @@ media_all_json: |-
 - id: c-171181
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šių dievaičių atminimas neišnyko iki šiol; jei žinoma ne
     pati reikalo esmė, tai bent iš pasakojimų aišku, kas jie tokie.

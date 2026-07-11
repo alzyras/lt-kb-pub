@@ -77,7 +77,7 @@ Springmann, K.
 - id: c-55078
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — Prochaska, A. : Na soborze w
     Konstancyi , RAU, t. 35, 1898, 1-100 p. — Semkowicz, W. : Pierwsze

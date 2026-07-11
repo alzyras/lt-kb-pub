@@ -120,7 +120,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 157"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
   citata_originali: |
     Šitai
     išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
@@ -146,7 +146,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 156"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
   citata_originali: |
     186 (181). Apie tai, kaip norėta išduoti brolius
 
@@ -166,7 +166,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 156-157"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156-157."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156-157."
   citata_originali: |
     474 D. — que tangit lerram Lethowie. Lietuvos žeme Dusburgietis čia vadina Karšuvą
 

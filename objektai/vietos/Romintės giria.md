@@ -66,7 +66,7 @@ Dusburgietis teigia, kad nadruvos pietryčiuose, Pisos intako Romintės (dab.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 65"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 65."
   citata_originali: |
     Turime pagrindo manyti, kad Nadruvoje buvusi ne viena vieta, susijusi su pagonišku
     kultu. Nadruvos  pietryčiuose,  Pisos  intako Romintės (dab. Krasnaja) aukštupyje,

@@ -84,7 +84,7 @@ Nenurodyta
 - id: c-31380
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Surinkęs Žemaičiuose gausų būrį kovotojų (yra minimi 3.000),
     Kęstutaitis kartu su magistru Zollneriu traukė per Lietuvą prie

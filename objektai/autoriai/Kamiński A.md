@@ -60,7 +60,7 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 168"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
   citata_originali: |
     baltai gyveno  į šiaurę nuo Narevo  ir, matyt, Bebro
     upių; Zilijos valsčius tuo metu greičiausiai buvo  į šiaurę nuo Bebro—Elko santakos, jis

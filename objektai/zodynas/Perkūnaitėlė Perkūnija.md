@@ -115,7 +115,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
   citata_originali: |
     Perkūnaitėlė (Perkunatele)
     „Ji yra žaibo ir griausmo motina, kuri saulę, nuvargusią ir
@@ -135,7 +135,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 124"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
   citata_originali: |
     Ką paliko Lasickis ir ką čia ką tik pasakėme, to teisingumą
     patvirtina tyrimai. Žemdirbiai garbino šią deivę kaip oro per­
@@ -155,7 +155,7 @@ Narbutas, remdamasis Lasickiu, Perkūnaitėlę vadino žaibo ir griausmo motina,
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 125"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
   citata_originali: |
     Jeigu šis paminklas nėra iš stabmeldystės lai­
     kų, tai -  kaip reiktų manyti -  ar jis nepriklauso XV amžiaus

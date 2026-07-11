@@ -64,7 +64,7 @@ Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 564"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 564."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 564."
   citata_originali: |
     Maskvėnai dėl to pasijuto
     smarkiai užgauti, ir Jakovas Zachariničius Ivano var­

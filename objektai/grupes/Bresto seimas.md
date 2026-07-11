@@ -61,7 +61,7 @@ Pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo viską prane
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 734"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
   citata_originali: |
     K adangi šios sąlygos turinčios
     laid u o ti ir saug o ti lietu v ių  v alsty b ės b ei tau to s orum ą,

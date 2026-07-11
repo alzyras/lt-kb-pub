@@ -64,7 +64,7 @@ Jie buvo pasiekę Nalšėnų žemę^144.
 - id: c-33963
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tolimesni smūgiai totorių tačiau iš kri­
     vičių plotų, t. y. būsimų gudų sričių buvo taikyti Lietuvai. Ipati­

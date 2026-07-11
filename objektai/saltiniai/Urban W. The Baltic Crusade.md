@@ -62,7 +62,7 @@ Dusburgietis teigia, kad urban W.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Urban W. The Baltic Crusade.—Northern Illinois University Press De Kalb, 1975.
       Urkundenbuch des Bisthums Culm / Bearbeitet von C. P. Woelky.

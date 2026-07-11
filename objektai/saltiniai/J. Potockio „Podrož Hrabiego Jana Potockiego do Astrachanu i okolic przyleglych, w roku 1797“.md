@@ -64,7 +64,7 @@ Jano Potockio kelionės į Astrachanę ir apylinkes 1797 m. aprašymas buvo publ
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 475"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     Sį kartą istorikas turėjo omenyje
     straipsnį: Podrož Hrabiego Jana Potockiego do Astrachanu i okolic

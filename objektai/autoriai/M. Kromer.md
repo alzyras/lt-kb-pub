@@ -60,7 +60,7 @@ Kromerio kronikos.
 - id: c-33055
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Laikydama pagrindu Lietuvos valstybės žemes, ji
     apžvelgė per kelioliką šimtmečių didelį rytų Europos plotą. Ji buvo

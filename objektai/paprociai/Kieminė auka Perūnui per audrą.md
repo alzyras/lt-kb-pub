@@ -92,7 +92,7 @@ Nenurodyta
 - id: c-09939
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kieminę auką pats namų gaspadorius atlaikęs tokiu pragumu: ūkiantis ar žaibuojant ir iš tolo
         krušai kriokiant^951 ar kitai kokiai baisiai nočiai gorinant, šeimininkas, paėmęs visų skanųjį valgį,
@@ -110,7 +110,7 @@ Nenurodyta
 - id: c-09940
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Audrai praėjus, gaspadorius linksmindamos pakėlęs namiškiams
         puotą, arba gėrynę, jog jį Perūnas nuo tos nelaimės paglemžti^954 teikės, todėl šis, jam

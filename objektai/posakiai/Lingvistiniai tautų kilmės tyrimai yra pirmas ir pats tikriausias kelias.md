@@ -64,7 +64,7 @@ Narbutas kalbotyrą pateikia kaip patikimiausią tautų kilmės tyrimo kelią ir
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 193"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 193."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 193."
   citata_originali: |
     nėra buvę jų šiandienėje tėvynėje, pavyzdžiui: Lutas,
     Kupranugaris, Bezdejona, Auxus, kvepiantys smilkalų sa­

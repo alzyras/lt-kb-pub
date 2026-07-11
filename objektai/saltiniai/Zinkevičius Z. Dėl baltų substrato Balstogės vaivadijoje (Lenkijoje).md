@@ -63,7 +63,7 @@ Dusburgietis teigia, kad zinkevičius Z.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Zinkevičius Z. Dėl baltų substrato Balstogės vaivadijoje (Lenkijoje).—Baltistica, 1975,
     11(2), p. 149—153.

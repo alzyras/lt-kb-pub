@@ -104,7 +104,7 @@ Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva i
 - id: c-169660
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Be to, išskyrė pinigų dvejų metų karo išlaidoms pa­
     dengti. Seimo darbe dalyvavo ir ordino magistras Ket-
@@ -137,7 +137,7 @@ Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva i
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 702"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 702."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 702."
   citata_originali: |
     Jeigu Livonijai pavyksią su­
     sitarti su maskvėnais be lietuvių karinės ir piniginės

@@ -62,7 +62,7 @@ Dusburgietis teigia, kad [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kr
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     [Powierski J.] Warmia.— SSS, Wrocław—Warszawa—Kraków—Gdańsk, 1980, t. VI, cz.
     2, s. 329—332.

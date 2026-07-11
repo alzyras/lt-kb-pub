@@ -64,7 +64,7 @@ LAM = Lietuvių Katalikų Mokslo Akademijos Metraštis, t.
 - id: c-33623
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     : Mūsų Lietuva, t. 1-4, Boston, Mass. (J. A. V.),
     1964-68.

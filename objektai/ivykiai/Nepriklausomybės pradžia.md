@@ -98,7 +98,7 @@ Nenurodyta
 - id: c-33420
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuvos istorijos periodizacija ir jos reikšmingieji etapai**
         Į klausimą, kokiais svarbiausiais etapais reikėtų išskirstyti visą

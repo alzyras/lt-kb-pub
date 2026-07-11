@@ -62,7 +62,7 @@ Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus n
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 691"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 691."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 691."
   citata_originali: |
     Persekiotojai nusivijo bėglius ir viename miestelyje per
     šešias mylias nuo Prahos juos užklupo: papirkę namo

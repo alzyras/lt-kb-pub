@@ -192,7 +192,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - id: c-10484
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Antrapus Daugavos lietuvius gyvenančius lig upei Gaujai vadino latviais iš
         pagadinto vardo latuviai, jų kraštą Latvija. Dar juo į rytus vadino kraštą Letgalija, tai yra –
@@ -209,7 +209,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - id: c-177462
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Abu jie niokojo
     kraštą ir liejo jiems nepalankių gyventojų kraują. Švitrigai­
@@ -232,7 +232,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - id: c-177463
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš tokio
     trijų skirtingų kilmių gyventojų maišymosi ir samplaikos
@@ -260,7 +260,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - id: c-177464
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tokios gynybos sistemos globoje atsivėrė ke­
     liai naudotis gausių manufaktūrų, paplitusių Flandrijoje ir
@@ -280,7 +280,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
 - id: c-177465
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta
     venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos

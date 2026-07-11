@@ -61,7 +61,7 @@ Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį ja
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 691"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 691."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 691."
   citata_originali: |
     Kai teismas
     karaliaus vardu priėmė šitokį sprendimą, išsiuntė ne­

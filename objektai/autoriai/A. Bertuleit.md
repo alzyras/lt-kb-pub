@@ -63,7 +63,7 @@ Bertuleit, A.
 - id: c-32863
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     — (”) _Tautosaka apie dangų,_ Sodus, Mich. 1951. — Ber-
     tuleit, A. : _Das Religionswesen der alten Preussen mit lettisch-litauischen

@@ -60,7 +60,7 @@ media_all_json: |-
 - id: c-34020
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Senoje jotvingių žemėje siena ėjo pradedant nuo « Akmenų
     Brastos » (« Kamienny Brod ») Luko (Lycko) aukštupyje, aukščiau

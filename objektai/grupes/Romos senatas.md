@@ -96,7 +96,7 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 314"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 314."
   citata_originali: |
     318
     Išsigandę italai nė nedrįso priešintis, visi iškart len­
@@ -118,7 +118,7 @@ Romos senatas patvirtino Romulo Augustulo pašalinimą iš imperatoriaus posto. 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 315"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 315."
   citata_originali: |
     Odoakras,
     kuriam buvo gerai žinoma Rytų imperatoriaus mintys ir

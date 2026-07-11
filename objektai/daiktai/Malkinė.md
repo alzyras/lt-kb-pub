@@ -100,7 +100,7 @@ Nenurodyta
 - id: c-10258
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     palipus ir Vaidovyčiui, seneliui rykiui, ant tos pačios malkinės, liepęs Brutenis uždegti ją. Tad vėl ėmęs
         pats svietui sakyti: „Dievai mudu pakvietė į puotą linksmintis antrame gyvenime su mudviejų
@@ -116,7 +116,7 @@ Nenurodyta
 - id: c-10259
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Tad abudu
         seneliu susikibusiu, pragydusiu ir giedodamu lygiai su malkine sugruzdėjusiu. Nes visa tas, ką čia

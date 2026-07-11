@@ -58,7 +58,7 @@ Dusburgietis teigia, kad šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 205"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 205."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 205."
   citata_originali: |
     564  Žr. dar SRP, 2, p. 456. Šiuo epizodu Vytenis ragina lietuvius ir pavergtuosius
     prūsus laikytis senosios tėvų religijos  ir kovoti prieš Ordino agresiją (Barzdaitis  J.,

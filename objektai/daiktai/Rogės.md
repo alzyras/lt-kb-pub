@@ -116,7 +116,7 @@ Nenurodyta
 - id: c-10279
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Žiemos laiku, kaip sakiau, važiavo važiuose, taip vadinamose rogėse, nuo žodžio važiuoti, šunį įkinkę dėl to, jog šuo per visų didžiausias tankmes galėjo
         perlįsti, o grįžtant namus atsekti; jei ką vežė, tad rogėse ir šlajose.

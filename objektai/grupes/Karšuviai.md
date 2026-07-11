@@ -75,7 +75,7 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 200-201"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200-201."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 200-201."
   citata_originali: |
     297 (290). Apie Karšuvos žemės nusiaubimą 1307 metais
 

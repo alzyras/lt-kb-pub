@@ -59,7 +59,7 @@ Kad Viduržemio jūros pakrančių gyventojai palaikė prekybinius ry šius su P
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Reikėtų surasti vidurį tarp tų dviejų
     kraštutinumų.

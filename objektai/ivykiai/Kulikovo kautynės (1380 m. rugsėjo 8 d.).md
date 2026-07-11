@@ -107,7 +107,7 @@ Nenurodyta
 - id: c-33408
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kulikovo laimėjimas sujudino Lietuvai priklausančią Rusią.
     Prieš Polockan Jogailos paskirtą Skirgailą Andriaus partija sukėlė
@@ -125,7 +125,7 @@ Nenurodyta
 - id: c-167709
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lieka paslaptis, kodėl Jogaila uždelsė žygį į
     kautynes, kurios reiškė pradinį Maskvos pasisekimą, laisvinantis iš

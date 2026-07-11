@@ -73,7 +73,7 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 - id: c-10061
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių.
   citata_rodoma: "Kas didžiau, po jūrą mauriojantys, ir jų vienų žemėj gintarai tesantys randami; laukai jų ir dirvos, sako, ne sodomis yra, bet kame kurs apsigyvenęs girioj pradyrė sau žemės lopelį, tas to sau ponu buvo ir turėjo gynioti jį nuo neprietelių."
@@ -87,7 +87,7 @@ Aušrėnai šiame fragmente yra istorinis žemaičių vardas.
 - id: c-10062
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Antras rašytojas, gyvenąs pirmajame amžiuje gimus Kristui, savo garbingame rašte „Girionų
         būdas“ sako, tarp visų girionų žemaičiai, arba aušrėnai (aestii), orę testeigę, kitiems slinkaujant^1173 ,

@@ -62,7 +62,7 @@ Narbutas rašė, kad Skilakas spėjo apie prie Kaspijos gyvenusius gelonus, kuri
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 78"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 78."
   citata_originali: |
     Senovės
     geografai nurodo tris gelonų kolonijas: viena prie Meo-

@@ -75,7 +75,7 @@ media_all_json: |-
 - id: c-83849
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     C
     D r e y e r, Specimen jur. pubi p. 184, lavas, Mazovijos kunigaikštis]. Ar

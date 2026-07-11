@@ -88,7 +88,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 - id: c-84243
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tyrinėtoja parodo M. Balinskio kritiką T.
     Narbuto istorijos atžvilgiu, kurią galima vertinti kaip romantinės istori­
@@ -105,7 +105,7 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 - id: c-84244
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyvoje Balinskio
     kūryboje galima rasti tik romantinei istoriografijai būdingų bruožų, o

@@ -68,7 +68,7 @@ Dusburgietis teigia, kad scriptores rerum Prussicarum / T.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Scriptores rerum Prussicarum / T. Hirsch, M. Toppen, E. Strehlke: 5 Bd.— 1861 —1874
     —Leipzig.—Bd. 1, 1861; Bd. 2, 1863; Bd. 3, 1866; Bd. 4, 1870; Bd. 5, 1874.

@@ -61,7 +61,7 @@ Dusburgietis teigia, kad šapoka A.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Šapoka A. Přanyslo (Ottakaro) II žygiai į Prūsus.—Praeitis, K., 1939, t. 3, p. 1—35.
   statusas: verified

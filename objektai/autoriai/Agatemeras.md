@@ -71,7 +71,7 @@ Narbutas Agatemerą mini tarp senovės graikų rašytojų, maniusių, kad žemė
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Senovės graikų rašytojai, pavyzdžiui, Agatemeras2,
     manė esant žemę apvalią, o jos viduryje buvus Graikiją.

@@ -80,7 +80,7 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 77"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
   citata_originali: |
     Tačiau, skirstant tautas į šias grupes, dėmesys kreipiamas ne tik
     į veido bruožus, bet ir į lingvistinius bei istorinius skirtumus, kurie,

@@ -68,7 +68,7 @@ media_all_json: |-
 - id: c-84480
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Napierskio  veikale, aukščiau
     ne sykį cituotame Index Codicis Hist.

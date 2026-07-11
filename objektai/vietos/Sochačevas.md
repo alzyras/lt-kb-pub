@@ -81,7 +81,7 @@ Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį suna
 - id: c-168691
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuviai, kelerius metus vengę niokoti to­
     limesnius Mazovijos pakraščius, dabar, be kliūčių kaip

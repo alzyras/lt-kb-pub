@@ -107,7 +107,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - id: c-33180
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     : _Polska i Litwa
     na przełomie wieków średnich_ , I, Krokuva 1904. — Pašuto, V. : _Cho-
@@ -126,7 +126,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - id: c-33181
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^133) **Lietuvos Metrika yra šiuose tomuose : 20 t., 1903 ; 27 t., 1910 ; 30 t.,
     1914 ; 33 t., 1915; žr. Z. Ivinskis :** **_Lietuvos Metrika,_** **LE 16, 135-137 p.**

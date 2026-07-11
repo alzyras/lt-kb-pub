@@ -70,7 +70,7 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 77"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
   citata_originali: |
     Elbingo pilis
     buvusi apie dab. Služevskos g-vę (plačiau žr. Massalski R., Zamek Elbląski..., p. 39—41,

@@ -63,7 +63,7 @@ Dusburgietis teigia, kad pakarklis P.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Pakarklis P. Mažoji Lietuva vokiečių mokslo šviesoje.— K., 1935.
        Pakarklis P. Lietuvių kova prieš kalavijuočius — Panevėžys, 1945.

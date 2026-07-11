@@ -24,13 +24,13 @@ media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMotiejus
 media_primary_directness: 'direct'
 media_primary_relation_type: 'portrait_of'
 media_primary_json: |-
-  {"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}
+  {"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}]
+  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}]
+  [{"mediaId":"m-0b53f05e9fce5ac194bca12f","title":"Motiejus Strijkovskis.jpg","caption":"Motiejaus Strijkovskio portretas jo Kronikoje","originalTitle":"Motiejus Strijkovskis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"https://www.vle.lt/straipsnis/motiejus-strijkovskis/","dateDisplay":"2021-11-16 01:23:54","dateStart":null,"dateEnd":null,"width":733,"height":981,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMotiejus_Strijkovskis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Motiejus_Strijkovskis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"kronika","label":"kronika","facetKind":"tema","confidence":0.95},{"code":"metraštininkas","label":"metraštininkas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/M. Strijkovskis.md","title":"Motiejus Strijkovskis (kronikininkas)","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:41:08.873948+03:00","reviewedAt":"2026-07-11T02:41:21.520867+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi senovinis spausdintas portretas su užrašu viršuje „MATTIAS STRII...“ ir figūra istoriniu drabužiu; apačioje yra tekstas su Strijkovskio pavarde.","metadataEvidence":"Failo pavadinimas „Motiejus Strijkovskis.jpg“, aprašas nurodo „Motiejus Strijkovskis (nežinomo dailininko portretas jo Kronikoje)“, o deterministic_match susieja su aliasu „Motiejus Strijkovskis“ kaip portrait_of.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja tą patį target: Motiejų Strijkovskį, pateiktą kaip jo Kronikos portretą.","isPrimary":1}]
 ---
 # Motiejus Strijkovskis (kronikininkas)
 
@@ -1641,7 +1641,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157240
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Prancūzams ir kitiems kariams vadovavo narsusis
     riteris Boucicaut24. Prie Kauno su jais susijungė, be Žemai-
@@ -1671,7 +1671,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157241
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vytautas, žlugus viltims, vėl buvo priverstas ieškoti
     19
@@ -1708,7 +1708,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157242
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo
     pačiu aktu Vilniaus vyskupas savo
@@ -1744,7 +1744,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 19"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
   citata_originali: |
     Sis tekstas rodo, jog
     tuo metu Rotundas Dusburgiečio rankraščio arba dar nebuvo turėjęs, arba jo plačiau
@@ -1763,7 +1763,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Strikowski M. Kronika polska, litewska, żmodzka i wszystkiej Rusi.— Królewiec, 1582.
       Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi.
@@ -1778,7 +1778,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157245
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gedimi­
     nas narsiai gynėsi, bet krito pakirstas kryžiuočio Tilemanno
@@ -1803,7 +1803,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157248
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Dabartinis
     iš tiesų visiškai skiriasi nuo pirmes-
@@ -1846,7 +1846,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157250
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Petro bažnyčia, buvo iš­
     kilusi medinė šventovė, visiems lietuvių dievams pašvęsta6.
@@ -1883,7 +1883,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Stryjkowski M. Kronika polska, litewska, żmódzka i wszystkiej Rusi. T. L—Warszawa,
     1846.
@@ -1897,7 +1897,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-157267
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šitaip Kryžiuočių ordino kruvina politika
     34
@@ -1963,7 +1963,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 272."
   citata_originali: |
     Altana buvo tikrasis
     Adytum, joje visuomet turėjo būti ne tik Perkūnas, bet ir dau­
@@ -1982,7 +1982,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 280"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 280."
   citata_originali: |
     Iš istorikų Dusburgietis pirmasis užsimena prūsus turėjus
     vyriausiąjį žynį. Vėlesnieji kronikininkai nė kiek neabejoja šiuo
@@ -2001,7 +2001,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 319"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 319."
   citata_originali: |
     Išpažintis
     Prie apeigų, atliekamų per atnašavimą, dar priklauso iš­
@@ -2021,7 +2021,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 326"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 326."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 326."
   citata_originali: |
     Paskui viename iš namų jos randa paruoštas
     vaišes; ten susirinkęs jaunimas ilgai linksminasi. Strijkovskis,
@@ -2039,7 +2039,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-171337
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šitie pastebėjimai rodo, kad ši šventė su šiek tiek skirtin­
     gomis apeigomis ir aukomis buvo švenčiama ne tik visoje Lie­
@@ -2066,7 +2066,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 335"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 335."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 335."
   citata_originali: |
     Tą
     patį daro su gėrimais ir pakartoja užkalbėjimą. Linksmai vai­
@@ -2087,7 +2087,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-171339
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     13
     13 Džami -  persiškai -  paveikslėliai.
@@ -2111,7 +2111,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 91"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 91."
   citata_originali: |
     Jų nuomonės nėra nepagrįstos, nes tai buvo
     suasmeninta aukščiausiojo dievo savybė, kaip ir daugelis kitų
@@ -2133,7 +2133,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 95"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 95."
   citata_originali: |
     Kovas (Kawas)
     Karo dievas. Lietuviai kovu (Kawas) vadina mėnesį, kurį
@@ -2155,7 +2155,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 126"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
   citata_originali: |
     Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
     rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
@@ -2171,7 +2171,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 155."
   citata_originali: |
     Au­
     kuras ir apeigos išliko ilgiau už visas kitas stabmeldystės lieka­
@@ -2192,7 +2192,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 162"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 162."
   citata_originali: |
     Pasak Strijkovskio, senovės laikais kelių dievaičiui auko­
     davo baltas vištas. Aukoj antys ir besimeldžiantys būdavo tary­
@@ -2210,7 +2210,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Paukštinis (Swieczpa uksztynis)
     Dievaitis -  visų rūšių paukščių, naminių ir laukinių, valdo­
@@ -2228,7 +2228,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Atnašaudavo alaus, duonos
     ir įvairių valgių, kuriuos padėdavo nakčiai po alyvų krūmais.
@@ -2247,7 +2247,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 179"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
   citata_originali: |
     Kitose vietose
     vadinosi pursčiai (Puršcie). Netoli Lydos yra taip vadinamas
@@ -2263,7 +2263,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173519
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     180
 
@@ -2290,7 +2290,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 201"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
   citata_originali: |
     Gyvatė (Giwojte)
     Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
@@ -2310,7 +2310,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Kronikos vienur rašė, kad romėnai arba kurie nors pana­
     šūs į juos piliečiai atvykę į Lietuvą apie 48 metus prieš Kristų,
@@ -2332,7 +2332,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 220"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 220."
   citata_originali: |
     Lietuvoje
     gyveno panašiai besivadinanti bajorų giminė; turim rankoje
@@ -2353,7 +2353,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 234"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 234."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 234."
   citata_originali: |
     ALYVA, Sambe . Anot aiškaus Strijkovskio liudijimo, tas
     medis pirmavo tarp kitų šventųjų. Mat po jo kelmu gyvenąs
@@ -2368,7 +2368,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173524
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Skulptorių ir dailininkų stoką atstojo vaiz­
     243
@@ -2389,7 +2389,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 259"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 259."
   citata_originali: |
     Lietuviams buvo žinomas dievinamų asmenų stabų staty­
     mas. Tai aiškiai liudija Strijkovskis, kuris mini, kad Kukovai-
@@ -2406,7 +2406,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 266."
   citata_originali: |
     Plačios lygumos, užliejamos dvie­
     jų upių, viduryje augo stebuklingas, žiemą vasarą žaliuojantis,
@@ -2423,7 +2423,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173527
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     402
 
@@ -2447,7 +2447,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173528
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jau ir šiaip žinome, ir anksčiau sakėme, kad
     kažką panašaus turėjo ir stabmeldžiai lietuviai. Pono Rėzos8
@@ -2474,7 +2474,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Baigtos istorijos negalime rasti1;
     kronikos ir istorijos žinių rinkiniai, pasirodę vos nuo­
@@ -2498,7 +2498,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Užsikrovęs šią ne pagal savo jėgas
     naštą, mūsų garbingasis pirmtakas skubėjo be menkiau­
@@ -2517,7 +2517,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173647
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     115
     Strijkovskis savo amžiuje dar girdėjo apie likučius
@@ -2541,7 +2541,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-173648
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     121
 
@@ -2563,7 +2563,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 135"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 135."
   citata_originali: |
     Kruvina šio Ordino
     politika numatė padaryti Sūduvą visiškai negyvenamą,
@@ -2585,7 +2585,7 @@ M. Strijkovskis šiame leidinyje minimas kaip kronikininkas ir istorikas, kurio 
 - id: c-176261
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Šią teisinę ir politinę situaciją keitė LDK elito lenkėjimas. Nors egzis-
     tavo rusėniškasis, lotyniškasis ir lietuviškasis kalbiniai kultūros modeliai,

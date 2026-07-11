@@ -61,7 +61,7 @@ Sadauskaitė rašė apie Kairėnu, Sei- (^95) Pvz.
 - id: c-93861
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Be jų,
     R. Jablonskytė - Rimantienė pateikė duomenų apie

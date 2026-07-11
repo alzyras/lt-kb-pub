@@ -160,7 +160,7 @@ Nenurodyta
 - id: c-70118
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     ... slaptai sužinojome ..., kad broliai Prū­
     sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių

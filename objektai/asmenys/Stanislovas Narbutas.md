@@ -63,7 +63,7 @@ Stanislovas Narbutas Aleksandro buvo pasiųstas į Maskvą parodyti, kad Aleksan
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 561"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 561."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 561."
   citata_originali: |
     Broliai karaliai visaip
     stengėsi padėti Aleksandrui, Vladislovas — per Motie­

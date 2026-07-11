@@ -65,7 +65,7 @@ Konstantinas Karigaila, Jogailos brolis, žuvo Vytautui įsakius jam nukirsti ga
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 317"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 317."
   citata_originali: |
     Kas liks
     pilyje, turės žūti nuo ugnies, kas veršis iš pilies, kris

@@ -64,7 +64,7 @@ Dusburgietis teigia, kad volkaitė-Kulikauskienė R.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Volkaitė-Kulikauskienė  R.  Lietuva  valstybės  susidarymo  išvakarėse.—  Lietuvių
     materialinė kultūra IX—XIII amžiuje, V., 1978, 1, p. 4—13.

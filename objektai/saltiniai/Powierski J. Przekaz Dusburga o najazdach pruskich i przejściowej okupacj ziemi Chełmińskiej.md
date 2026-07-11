@@ -63,7 +63,7 @@ Dusburgietis teigia, kad powierski J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Powierski J. Przekaz Dusburga o najazdach pruskich  i przejściowej okupacj  ziemi
     Chełmińskiej.—Komunikaty mazursko-warmińskie, Olsztyn, 1971, Nr. 4 (114), s. 379—

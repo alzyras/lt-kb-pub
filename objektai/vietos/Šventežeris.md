@@ -60,7 +60,7 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 229"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
   citata_originali: |
     Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
     namas Romanovu (Romanowo), kuris primena šventąjį Ro-

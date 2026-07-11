@@ -59,7 +59,7 @@ Narbuto apibūdinimu Hartnumdas Grumbachas buvo ūmus, griežtas ir piktas, bet 
 - id: c-174159
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     ## Puslapis 132
 

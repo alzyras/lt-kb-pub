@@ -69,7 +69,7 @@ Narbutas mini nežinomo jėzuito sukompiliuotą rankraštinę Bažnyčios istori
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 426"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 426."
   citata_originali: |
     Tai pačiai deivei, arba Laimai, priklausė ir Laumės (Lau-
     ma) vardas, nors kai kurie jį skiria ir laiko visiškai priešingu,

@@ -62,7 +62,7 @@ Dusburgietis teigia, kad leyding G.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Leyding  G.  Słownik  nazw  miejscowych  okręgu  mazurskiego.—Cz.  2: Nazwy
     fizjograficzne (zlokalizowane).—Poznań, 1959.

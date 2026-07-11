@@ -65,7 +65,7 @@ Dusburgietis teigia, kad pasare) Sicilija Sidabro kalnas (netoli Gumbinės) Sido
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 317"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 317."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 317."
   citata_originali: |
     Pasare)
     Sicilija

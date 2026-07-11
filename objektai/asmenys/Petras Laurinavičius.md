@@ -63,7 +63,7 @@ media_all_json: |-
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 493"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 493."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 493."
   citata_originali: |
     17a Žygimanto Senojo privilegija, duota Petrui Laurinavičiui,
     Viln/iaus/ piliečiui, kuria patvirtinami įvairūs pirkimai (Piotrko-

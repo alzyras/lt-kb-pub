@@ -84,7 +84,7 @@ Antikinės prekybos ir kolonizacijos istorijos terminas.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 52"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 52."
   citata_originali: |
     Jau labai senais laikais graikai užmezgė santykius su
     Juodosios jūros pakrančių skitais. Sakoma, kad Neopto-

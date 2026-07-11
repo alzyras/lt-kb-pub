@@ -74,7 +74,7 @@ Vasilijus Žemutinio Naugardo kunigaikštystėje įsirengė vadavietę ir asmeni
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 649"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 649."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 649."
   citata_originali: |
     Gal juokais, gal
     iš rimtųjų metraštininkai šitaip parašė, to aš nežinau,

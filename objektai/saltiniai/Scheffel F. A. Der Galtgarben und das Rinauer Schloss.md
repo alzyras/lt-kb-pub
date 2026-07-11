@@ -62,7 +62,7 @@ Dusburgietis teigia, kad scheffel F.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Scheffel F. A. Der Galtgarben und das Rinauer Schloss.— Mitteilungen des Vereins für
     die Geschichte von Ost- u. West-pr., 1934, Bd. 9, S. 8—11.

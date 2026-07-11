@@ -57,7 +57,7 @@ Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir varda
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
   citata_originali: |
     Reikia atminti, kad Antikos žmonės saulę laikė
     ugnies šaltiniu ir garbino ją kaip to elemento dievybę, vadin­

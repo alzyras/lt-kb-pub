@@ -71,7 +71,7 @@ Gimbutienė (Gimbutas), Marija : Lietuvos proistorė, LE, t.
 - id: c-33645
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1937. — Gimbutienė (Gimbutas), Marija : _Lietuvos proistorė,_ LE, t. 15,
     269-291 p. — (”) GiB ; šios knygos ital. vertimas : _I Baltici,_ Milano 1967.

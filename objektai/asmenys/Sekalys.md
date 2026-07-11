@@ -90,7 +90,7 @@ Kunigaikščio Sekalio vedami polovcai keliais iš eilės antpuoliais smarkiai n
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 63"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 63."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 63."
   citata_originali: |
     Polovcai, veda­
     mi kunigaikščio Sekalio, keliais iš eilės antpuoliais

@@ -81,7 +81,7 @@ Miechovita, Bielskis, o ypač Strijkovskis savo metraščiuose, su­ pykę už k
 - id: c-84431
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     46
     Aleksandras iš Balino Balinskis, Kro­

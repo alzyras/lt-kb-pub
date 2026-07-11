@@ -155,7 +155,7 @@ media_all_json: |-
 - id: c-83425
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Lenkijos miestai, jau
     Kazimiero Didžiojo laikais turėję
@@ -186,7 +186,7 @@ media_all_json: |-
 - id: c-83426
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     IV KNYGA
     duonos formos miesto tarnams ir pareigūnams grasino kal­
@@ -221,7 +221,7 @@ media_all_json: |-
 - id: c-83427
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nusilpęs, nesėkmių pribaigtas prūsas lio­
     vėsi kliudęs Lietuvos ryšiams bei svarbiems šios valstybės

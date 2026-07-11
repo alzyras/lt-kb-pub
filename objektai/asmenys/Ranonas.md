@@ -58,7 +58,7 @@ Teodoro Narbuto perteiktoje Danijos istorijos žinioje rusų karvedys Ranonas ž
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 239"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 239."
   citata_originali: |
     Senovės Danijos istorijoje randame ži­
     nių, jog karalius Protonas I su stipriu laivynu nuplaukė

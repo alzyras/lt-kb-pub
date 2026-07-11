@@ -74,7 +74,7 @@ Nemę Polocko girias su keliais tūks tančiais Livonijos karių, užVytautui to
 - id: c-176164
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Tad Švitrigaila, būdamas tikras, jog ru­
     sai jam pasiduos, tyliai pa-

@@ -78,7 +78,7 @@ Nenurodyta
 - id: c-10278
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     kaipogi senovėj kalnėnai ir žemaičiai taip didžiai mylėjo savo žirgus, jog, pačiam mirus, lygiai degino ant rogo^1187 su
         pačiu jo žirgą, paskiau, krikščionimis jau tapę, garsūs kareiviai sirgdami liepė savo karės žirgą pas

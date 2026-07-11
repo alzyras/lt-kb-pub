@@ -62,7 +62,7 @@ media_all_json: |-
 - id: c-03538
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     **ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
     gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).

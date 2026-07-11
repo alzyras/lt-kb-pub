@@ -81,7 +81,7 @@ Nenurodyta
 - id: c-33447
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet jokie pralaimėjimai kryžiuočių nesulaikė nuo toli­
     mesnių puolimų. Paminėtinas yra 1322 m. žygis, kai riteriai su

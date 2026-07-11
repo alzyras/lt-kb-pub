@@ -67,7 +67,7 @@ Piastų giminės karaliai bene energingiausiai prie to prisidėjo.
 - id: c-82795
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     [O savo Martinas Callas apie Boleslovą,
     6

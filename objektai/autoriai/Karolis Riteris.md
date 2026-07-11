@@ -144,7 +144,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 387"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 387."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 387."
   citata_originali: |
     Čia plyti vešlios žolės
     turtingos Padonės pievos, supančios Dono žiotis į Azovo
@@ -166,7 +166,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 394"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 394."
   citata_originali: |
     Pateiktos šiai pataisai paremti geografinės prielaidos vi­
     siškai nebūtų vertos dėmesio, jeigu nebūtų labai papli­
@@ -193,7 +193,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 396"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
   citata_originali: |
     Tad sauromatų vardą reikėtų versti į klaidžio­
     jantys, klajokliai matai.
@@ -215,7 +215,7 @@ Karolio Riterio veikalo ištraukoje Padonės pievos aprašomos kaip vešlios pie
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 396"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 396."
   citata_originali: |
     Prie pačių keisčiausių išvadų, nepaisant slaviško
     skambėjimo panašumo, labai artimo esmei, derėtų pri­

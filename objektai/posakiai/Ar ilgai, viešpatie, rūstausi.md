@@ -75,7 +75,7 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 102"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 102."
   citata_originali: |
     Štai kaip viešpats kalaviju išskyrė savo tautą, kurios kraują netikėliai liejo nelyginant
     vandenį po visą žemę, ir nebuvo matyti, kas juos laidos, o jų kūnai bus palikti žemės

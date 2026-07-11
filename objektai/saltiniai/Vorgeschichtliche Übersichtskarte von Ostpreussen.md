@@ -57,7 +57,7 @@ Dusburgietis teigia, kad [Hollack E.] Vorgeschichtliche Übersichtskarte von Ost
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
   citata_originali: |
     [Hollack E.] Vorgeschichtliche Übersichtskarte von Ostpreussen / Im Auftrage des
     ostpreussischen Provinzial-Verbandes entworfen und gezeichnet von Emil Hollack.

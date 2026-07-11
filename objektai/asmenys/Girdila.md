@@ -82,7 +82,7 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 174"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
   citata_originali: |
     226 (221). Apie išdavystę, per kurią žuvo šimtas krikščionių
 

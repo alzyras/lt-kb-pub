@@ -72,7 +72,7 @@ Dusburgietis teigia, kad senuoju prūsišku vardu vadino pilį ir kryžiuočiai 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 98"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 98."
   citata_originali: |
     Prūsų kalboje šis vardas tikriausiai skambėjo *Kirsapilis, t. y. ’Viršpilis’ (plg. Kirsmemela
     ir pan., III, 315 paaiškinimą. Elementą kirsa, tik su protetinius — turi Skirsnemunė (:

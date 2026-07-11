@@ -70,7 +70,7 @@ Narbutas rašo, kad Kamerotos vyskupo Petro rankraštį pirmą kartą pristatė 
 - id: c-173187
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Kad gyvu­
     lių sielos tokios ir netobulos, apie tai pilna liaudies pasakoji­

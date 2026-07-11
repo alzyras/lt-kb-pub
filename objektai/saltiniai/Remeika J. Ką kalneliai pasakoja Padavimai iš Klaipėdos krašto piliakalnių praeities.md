@@ -63,7 +63,7 @@ Dusburgietis teigia, kad remeika J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 270"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
   citata_originali: |
     Remeika J. Ką kalneliai pasakoja: Padavimai iš Klaipėdos krašto piliakalnių praeities.—
     Klaipėda, 1938.

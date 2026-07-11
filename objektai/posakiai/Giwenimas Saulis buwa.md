@@ -102,7 +102,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - id: c-172460
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     (1. Sauliaus riimai aukšti su remiančiom dangų kolonom
     Žalvario degė liepsnom ir auksu žėrėjo iš tolo.
@@ -129,7 +129,7 @@ Fragmento vertime Saulės rūmai vaizduojami aukšti, su dangų remiančiomis ko
 - id: c-177091
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     —
      u  u

@@ -67,7 +67,7 @@ Narbutas aiškina, kad senieji katalikų rašytojai manichėjiečiais galėjo va
 - id: c-172344
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     O kad keturių
     elementų supainiojimas išaugo iš Dievo prigimties įvairovės,

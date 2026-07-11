@@ -66,7 +66,7 @@ Nuo XII amž. antros pusės, kai lietuviai išvystė gausius puolimus į rusų �
 - id: c-33619
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ar ne per arti vienas prie kito
     buvo paminėti ir Jaroslavo žygiai į Lietuvą (1040 ir 1044 m.)?

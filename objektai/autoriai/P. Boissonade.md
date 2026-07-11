@@ -79,7 +79,7 @@ Boissonade, P.
 - id: c-33087
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
     sudarė plačią zoną, lietuviai nebeliesdavo. Per jas lietuviai atlik­

@@ -97,7 +97,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 87-88"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87-88."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 87-88."
   citata_originali: |
     Apie tai, kaip pasidavė Naklo pilis ir buvo apiplėšta Pomeranijos žemė
 

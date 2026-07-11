@@ -59,7 +59,7 @@ Narbutas kaukų garbintojams priskiria paprotį nakčiai padėti maisto ir iš j
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 182"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 182."
   citata_originali: |
     Siu kaukų garbintojai nakčiai tam tikrose vietose padėda­
     vo jiems maisto; iš jo suvalgymo pranašaudavo panašiai kaip

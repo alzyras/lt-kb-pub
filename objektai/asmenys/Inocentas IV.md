@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto pasiuntinį Tuo metu popiež
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 84-85"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84-85."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84-85."
   citata_originali: |
     Apie apaštališkojo sosto pasiuntinį
 

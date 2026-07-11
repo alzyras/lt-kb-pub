@@ -58,7 +58,7 @@ Rodo paties Narbuto etimologinę pastabą ir originalią formuluotę.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 428"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 428."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 428."
   citata_originali: |
     Tekstas, be jokios abejonės, atsirado jau
     po nekartą minėtos P. Safaržyko publikaci­

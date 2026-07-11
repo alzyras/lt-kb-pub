@@ -121,7 +121,7 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Be to, Rusijos valstybės vakarinėse vokiečių gubernijose
     steigiasi draugijos, pluša mokslininkai, žadėdami naujų
@@ -148,7 +148,7 @@ Tai retas vertinamasis posakis; viešame įraše reikėtų jį aiškinti kaip š
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 31"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 31."
   citata_originali: |
     Taip pat dar daug rei­
     kia nuveikti tiriant lietuvių tautos istoriją, ypač epochas,

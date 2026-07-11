@@ -115,7 +115,7 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 - id: c-55616
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kry­
     žiaus bažnyčios, sodyboje, vėliau ta­
@@ -141,7 +141,7 @@ Annales Minorum Balińskio tekste yra Mažesniųjų brolių ordino analų rinkin
 - id: c-55617
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Waddyngas,  Mažesniųjų brolių
     ordino istorijos autorius, ir jo komen­

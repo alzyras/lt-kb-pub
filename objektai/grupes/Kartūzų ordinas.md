@@ -67,7 +67,7 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 227"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
   citata_originali: |
     Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
       Cistersų ordinas — 1097 viešpaties metais.

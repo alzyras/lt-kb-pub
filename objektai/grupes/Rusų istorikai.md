@@ -70,7 +70,7 @@ Daškevič : Političeskije zamyśli Vitovta, Kiivskije UniversitetsLIETUVOS IST
 - id: c-33352
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Užtat rusų istorikai davė ir Lietuvai pavadinimą «Litovsko —
     russkoje gosudarstvo» (Lietuviu ir rusu valstybė). Jiems rūpėjo

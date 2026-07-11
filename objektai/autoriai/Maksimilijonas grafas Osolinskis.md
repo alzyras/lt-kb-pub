@@ -59,7 +59,7 @@ Tų budinu kolonijų išsidėstymo vietas deramai nusta tė šiuolaikiniai senov
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 72"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 72."
   citata_originali: |
     58
     Tų budinu kolonijų išsidėstymo vietas deramai nusta­

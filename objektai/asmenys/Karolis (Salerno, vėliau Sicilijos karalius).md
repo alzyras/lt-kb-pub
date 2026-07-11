@@ -84,7 +84,7 @@ Dusburgietis teigia, kad apie palaimintosios Marijos Magdalietės palaikų atide
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 237-238"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237-238."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 237-238."
   citata_originali: |
     Apie palaimintosios Marijos Magdalietės palaikų atidengimą
 

@@ -73,7 +73,7 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 433"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 433."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 433."
   citata_originali: |
     Karo audra pamažėle artėjo prie
     Lucko, nes niekas nedrįso su ginklu rankose užstoti Bo­

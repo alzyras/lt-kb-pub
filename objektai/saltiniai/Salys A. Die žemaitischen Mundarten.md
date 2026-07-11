@@ -63,7 +63,7 @@ Dusburgietis teigia, kad die žemaitischen Mundarten.— Teil 1: Geschichte des 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 271"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 271."
   citata_originali: |
     Salys  A.  Die  žemaitischen Mundarten.—  Teil  1:  Geschichte des  žemaitischen
     Sprachgebiets.—Tauta ir žodis, K., 1930, kn. 6, p. 173—314.

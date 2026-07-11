@@ -59,7 +59,7 @@ Narbutas, remdamasis Ksaveru Bogušu, rašo, kad Meklenburgo dalyje dar turėtų
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 328"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 328."
   citata_originali: |
     Tai įrodo Ksaveras Bogušas3. To­
     je Meklenburgo dalyje ligi šiol turėtų būti kaimiečių,

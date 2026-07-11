@@ -62,7 +62,7 @@ Dusburgietis teigia, kad тихвинский C.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 277"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 277."
   citata_originali: |
     Тихвинский C. Л., Тишков В. A. XV международный конгресс исторических наук.
     — ВИ, 1980, № 12, с. 3—23.

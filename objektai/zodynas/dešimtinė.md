@@ -123,7 +123,7 @@ media_all_json: |-
 - id: c-157349
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žemdirbiams, kurie norėtų
     pas mus atsikelti ir įsikurti, duodame dešimties metų lai­
@@ -152,7 +152,7 @@ media_all_json: |-
 - id: c-157351
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     3 baigiamas
     tokiais žodžiais: Cupientes igitur, ut

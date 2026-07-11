@@ -57,7 +57,7 @@ Narbutas nurodo, kad Ciceronas žodį „Soter“ aiškino kaip išganytoją.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 99"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 99."
   citata_originali: |
     Santvaras (Sotvaras, Sotwaros)
     Dienos šviesos, poetų, gydytojų dievas. Atrodo, tas pava­

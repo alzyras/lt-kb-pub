@@ -63,7 +63,7 @@ Antspaudą pridėjo Tumkelis (Tumkiel) 1528 metais.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 405"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 405."
   citata_originali: |
     IV lentelė, 25-asis piešinys. Atidarytas narvelis, iš kurio
     tiesiai į viršų išlekia plaštakė. Antspaudą pridėjo Tumkelis

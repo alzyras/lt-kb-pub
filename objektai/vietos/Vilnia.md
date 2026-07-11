@@ -19,18 +19,19 @@ tags:
   - valdovas
 amziai:
   - 'XV'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'depicts'
+media_primary_json: |-
+  {"mediaId":"m-69dcbde54f8711be4b5c4232","title":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","caption":"Vilnios (Vilnelės) upės atkarpa Bernardinų sode Vilniuje.","originalTitle":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","creator":"August5221","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2025-10-08 17:13:47","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnia.md","title":"Vilnia","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:05:17.532113+03:00","reviewedAt":"2026-07-11T14:05:37.883538+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma tekanti upė, vandens paviršius su saulės atspindžiais, krantų augmenija ir medžių šakos aplink kadrą.","metadataEvidence":"Failo pavadinimas ir aprašas aiškiai nurodo, kad tai Vilnios upės atkarpa Bernardinų sode Vilniuje; apraše taip pat sutapatinama su Vilnele.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Target apraše Vilnia siejama su Vilnios/Vilnelės srove, o kandidato metaduomenys ir vaizdas aiškiai dokumentuoja tą pačią upę konkrečioje Vilniaus vietoje.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-69dcbde54f8711be4b5c4232","title":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","caption":"Vilnios (Vilnelės) upės atkarpa Bernardinų sode Vilniuje.","originalTitle":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","creator":"August5221","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2025-10-08 17:13:47","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnia.md","title":"Vilnia","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:05:17.532113+03:00","reviewedAt":"2026-07-11T14:05:37.883538+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma tekanti upė, vandens paviršius su saulės atspindžiais, krantų augmenija ir medžių šakos aplink kadrą.","metadataEvidence":"Failo pavadinimas ir aprašas aiškiai nurodo, kad tai Vilnios upės atkarpa Bernardinų sode Vilniuje; apraše taip pat sutapatinama su Vilnele.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Target apraše Vilnia siejama su Vilnios/Vilnelės srove, o kandidato metaduomenys ir vaizdas aiškiai dokumentuoja tą pačią upę konkrečioje Vilniaus vietoje.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-69dcbde54f8711be4b5c4232","title":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","caption":"Vilnios (Vilnelės) upės atkarpa Bernardinų sode Vilniuje.","originalTitle":"Vilnios upės atkarpa Bernardinų sode Vilniuje.jpg","creator":"August5221","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC0","rightsNote":"Creative Commons Zero, Public Domain Dedication","licenseUrl":"http://creativecommons.org/publicdomain/zero/1.0/deed.en","attribution":"Own work","dateDisplay":"2025-10-08 17:13:47","dateStart":null,"dateEnd":null,"width":4032,"height":3024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg/1920px-Vilnios_up%C4%97s_atkarpa_Bernardin%C5%B3_sode_Vilniuje.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"upė","label":"upė","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnia.md","title":"Vilnia","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T14:05:17.532113+03:00","reviewedAt":"2026-07-11T14:05:37.883538+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma tekanti upė, vandens paviršius su saulės atspindžiais, krantų augmenija ir medžių šakos aplink kadrą.","metadataEvidence":"Failo pavadinimas ir aprašas aiškiai nurodo, kad tai Vilnios upės atkarpa Bernardinų sode Vilniuje; apraše taip pat sutapatinama su Vilnele.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Target apraše Vilnia siejama su Vilnios/Vilnelės srove, o kandidato metaduomenys ir vaizdas aiškiai dokumentuoja tą pačią upę konkrečioje Vilniaus vietoje.","isPrimary":1}]
 ---
 # Vilnia
 
@@ -620,7 +621,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158384
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taigi ta vietovė, žinia, jei ji buvo parinkta to­
     kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
@@ -648,7 +649,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158385
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Bet labai tikėtina, kad nuo
     seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
@@ -672,7 +673,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158386
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­
     konams ir dominikonams, prie Vilniaus pilies pastatydino
@@ -707,7 +708,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158387
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu poreikis turėti savą gynybą ir per ne­
     paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
@@ -732,7 +733,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158388
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     48
 
@@ -778,7 +779,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158390
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Karaliaus pavedimu, kad neofitai įsi­
     tvirtintų krikščionių tikėjime, 1469 metais į Vilnių buvo pa­
@@ -833,7 +834,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-158391
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     17
 
@@ -861,7 +862,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Iš to žodžio paimtas pa­
     vadinimas turėtų būti taikomas Vilniai, arba Vilnelei, prie Vil­
@@ -880,7 +881,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 151"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 151."
   citata_originali: |
     Darant to­
     pografinę apžvalgą, nesunku pastebėti, kad tų upių vandens
@@ -903,7 +904,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-171742
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     304
 
@@ -930,7 +931,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-171743
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Lietuvos didžiojo kunigaikščio Gedimino kapas yra
     prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
@@ -956,7 +957,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 225"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
   citata_originali: |
     Kol jis pats gyveno
     Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
@@ -983,7 +984,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-176154
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Todėl, neilgai laukęs, nutarė pulti
     priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
@@ -1008,7 +1009,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 - id: c-176855
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Man atrodo, kad jei Lietuvo­
     je buvo keletas tokių šventų vieto­

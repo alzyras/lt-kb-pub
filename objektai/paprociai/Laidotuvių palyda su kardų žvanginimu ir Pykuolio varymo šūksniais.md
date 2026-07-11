@@ -73,7 +73,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 362"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 362."
   citata_originali: |
     Mirusįjį, vežamą į laidotuvių vietą, lydi raiti ginkluoti gi­
     minaičiai ir bičiuliai, kurie šalia vežimo, ant kurio guli miru­

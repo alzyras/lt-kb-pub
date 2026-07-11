@@ -63,7 +63,7 @@ Vienok jo istorija yra trumpa ir daug dar trūksta, užvis toje daly, kurioj apr
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 29"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 29."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 29."
   citata_originali: |
     Vienok jo istorija yra trumpa ir
     daug dar trūksta, užvis toje daly, kurioj aprašo darbus

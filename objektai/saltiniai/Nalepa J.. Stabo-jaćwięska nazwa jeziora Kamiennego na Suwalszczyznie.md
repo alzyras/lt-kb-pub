@@ -62,7 +62,7 @@ Dusburgietis teigia, kad nalepa J..
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 268"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 268."
   citata_originali: |
     Nalepa J.. Stabo-jaćwięska nazwa jeziora Kamiennego na Suwalszczyznie.— Rocznik
     Białostocki, Warszawa, 1981, t. 15, s. 141—149.

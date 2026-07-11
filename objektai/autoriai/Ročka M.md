@@ -61,7 +61,7 @@ Dusburgietis teigia, kad vad., ir čia ryški tendencija susieti savo tautos pra
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 48"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
   citata_originali: |
     Viduramžių tradicijai artima humanizmo epochos versija, radusi atgarsio Kazimiero
     Jogailaičio pasiuntinio pas popiežių Jono Ostrorogo kalboje apie senovės lenkų bei lietuvių

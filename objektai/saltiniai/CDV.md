@@ -70,7 +70,7 @@ Lotynišką krikštą pa­ darant lietuviams privalomu ir draudžiant mišrias m
 - id: c-33547
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^18) **CDV, I, 29-30 (nr. 16).**
     (^19) **_Zbiór praw litewskich_** **, Poznań 1841, 1-2.**

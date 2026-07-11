@@ -71,7 +71,7 @@ Nuo XIII amž. pabaigos ordino kronikininkai jau laikė Nevėžį Žemaičių ir
 - id: c-34124
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Todėl pats
     Vytautas 1420 m. imperatoriui Zigmantni įrodinėjo, jog Žemaičiai

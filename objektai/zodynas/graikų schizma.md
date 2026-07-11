@@ -68,7 +68,7 @@ Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos 
 - id: c-168747
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Mat rusų vyskupams tais metais atvirai
     prisidėjus prie graikų schizmos, Konstantinas, išpažin­

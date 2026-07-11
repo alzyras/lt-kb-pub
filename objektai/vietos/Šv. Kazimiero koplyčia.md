@@ -68,7 +68,7 @@ Koplyčia minima kaip Vilniaus katedros aplinkos vieta.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 201"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
   citata_originali: |
     Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
     no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,

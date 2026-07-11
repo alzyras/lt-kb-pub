@@ -86,7 +86,7 @@ media_all_json: |-
 - id: c-33497
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Lietuviai negalėjo tuoktis ar moterystėje gy­
     venti su rusais ir nekatalikais, kol antroji pusė nebus priėmusi
@@ -105,7 +105,7 @@ media_all_json: |-
 - id: c-167733
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Įsakyme buvo įsakmiai pažymėta : jeigu kas
     butų anksčiau vedęs rusę, ar moteris ištekėjusi už ruso, «turi sekti

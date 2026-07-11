@@ -62,7 +62,7 @@ Dusburgietis teigia, kad wunder H.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Wunder H. Siedlungs- und Bevölkerungsgeschichte der Komturei Christburg 13.-16,
     Jahrhundert.— Wiesbaden, 1968.

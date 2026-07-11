@@ -104,7 +104,7 @@ Data: 1795 m.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 16"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 16."
   citata_originali: |
     Sis judėjimas su­
     stiprino domėjimąsi kalbotyra ir tiesiog pagimdė etnologijos

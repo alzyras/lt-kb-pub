@@ -70,7 +70,7 @@ Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitan
 - id: c-168663
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kaip
     atlyginimą už išdavystę, prisiekdamas visomis švente­

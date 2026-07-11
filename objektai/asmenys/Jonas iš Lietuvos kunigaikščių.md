@@ -78,7 +78,7 @@ Be to, sinodas kuo įsakmiausiai įsako vi­ siems klebonams miestuose ir kai­ 
 - id: c-83410
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Be to,
     sinodas kuo įsakmiausiai įsako vi­

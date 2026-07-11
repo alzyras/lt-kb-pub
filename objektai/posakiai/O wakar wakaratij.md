@@ -67,7 +67,7 @@ Narbutas posakį „O wakar wakaratij“ pateikia kaip Rėzos rinkinio dainos pr
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 190"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 190."
   citata_originali: |
     Būtina įdėti dar vieną dainą iš pono Rėzos dainų rinkinio
     Naujosios Prūsijos, arba Prūsų Lietuvos, tarme:

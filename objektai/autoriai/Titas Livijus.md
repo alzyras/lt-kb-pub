@@ -61,7 +61,7 @@ Albertas Vijūkas-Kojelavičius sekė antikiniais istorikais, ypač Titu Livijum
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 22"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 22."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 22."
   citata_originali: |
     Būtų buvę ne­
     susipratimas rašyti klasikine kalba barokiniu stiliumi

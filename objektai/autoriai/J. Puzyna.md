@@ -73,7 +73,7 @@ Puzyna, autorius disertacijos apie Švitrigailą, davė eilę studijų genealogi
 - id: c-32977
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ivinskis, Z. : Liubartas Gediminaitis , LE, t. 16, 318-320 p. — Kra­
     sauskas, R. : Manivydas , LE, t. 17, 242 p. — Ljubavskij, M. : Obrazo-

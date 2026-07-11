@@ -93,7 +93,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 497"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 497."
   citata_originali: |
     Tai buvo akivaizdus aukojimo puotų li­
     kutis. Vėliau piktnaudžiavimas stipriaisiais gėrimais, kuriuos tik­

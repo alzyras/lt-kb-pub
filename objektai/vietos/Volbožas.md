@@ -106,7 +106,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 372"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Karalius Jogaila, matydamas tokią
     kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti

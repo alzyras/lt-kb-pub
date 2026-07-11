@@ -75,7 +75,7 @@ Vis dėlto šį reikalą teko atidėti, nes dėl kry žiuočių, kaip rašo kai 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 392"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 392."
   citata_originali: |
     S k ita i n io k o ja  R usią
     Tuo metu sugrįžo iš baž­

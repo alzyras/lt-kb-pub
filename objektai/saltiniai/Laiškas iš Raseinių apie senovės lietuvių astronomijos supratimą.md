@@ -70,7 +70,7 @@ Narbutas antrajam LTI leidimui skyrių papildė iš Raseinių gauto laiško frag
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 479"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
   citata_originali: |
     1 Laiško,
     gauto

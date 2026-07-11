@@ -56,7 +56,7 @@ Karalius priėmė kovos ženklą ir pasakė, kad priešas pats parūpino kalavij
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 377"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 377."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 377."
   citata_originali: |
     Ramiai karalius išklausė
     tų žodžių. „Gerai,— tarė,— mielai priimu šį kovos ženk­

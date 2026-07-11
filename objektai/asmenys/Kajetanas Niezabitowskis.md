@@ -65,7 +65,7 @@ Kajetanas Niezabitowskis parašė straipsnį apie senovinius radinius Dionizo Po
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 505"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 505."
   citata_originali: |
     T. Narbutas turėjo omenyje straipsnj:
     Krotki spis niektorych starožytnych zabytkow, znajdujących się w

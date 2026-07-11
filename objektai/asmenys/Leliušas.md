@@ -108,7 +108,7 @@ Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
 - id: c-169421
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Daugiausia kaltinimų susilaukė
     senatoriai Daugirdas ir Leliu-

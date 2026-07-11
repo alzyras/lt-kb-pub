@@ -108,7 +108,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
   citata_originali: |
     Magistrato
     valdininkas Pulokolovskis, valydamas tuos griuvėsius, rado ten
@@ -130,7 +130,7 @@ Mokslo draugija, šaltinyje aptariama tautinės kultūros programos ir archeolog
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 244"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 244."
   citata_originali: |
     Trys
     žuvys tikriausiai simbolizavo tris pro Kauną arba netoli jo te­

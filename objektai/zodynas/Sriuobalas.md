@@ -66,7 +66,7 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 - id: c-09741
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Valgė visi vasarą ant žemės pablaka ar išsitiesę, kaip šiandien dar tebdaro šienuodamies, ant
         plikos vejos, dembliais ar meškenomis pasikloję, sriuobalą^345 srėbė, su duona pasikąsdami, iš

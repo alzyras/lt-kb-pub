@@ -91,7 +91,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - id: c-09754
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jei netyčiomis jis tenai pavirstų, atsikelti ir stotis, sako, nevalna^102 yra, nes turi ant pilvo išsiristi. Visi tie prietarai ant to eina, sako toliau, jog nuo ten prasidėjusi jų tauta, kame esąs visų valdymieras dievas, kurio kiti visi klausą ir tarnaują. Laimė žemaičių tą tvirtinanti.
   statusas: verified
@@ -104,7 +104,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
 - id: c-09756
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     nesgi anie tankiai regėjo per prityrimą, jog valdymierai tautų dėl to vien kartais įveda svetimus parėdymus^710 į savo ūkę, idant per tą galėtų padidinti savo valdžią ir svietą nuvergti.
   statusas: verified

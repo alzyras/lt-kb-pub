@@ -83,7 +83,7 @@ Nenurodyta
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 249-250"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249-250."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249-250."
   citata_originali: |
     121. Apie vieną stebuklą
 

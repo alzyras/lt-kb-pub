@@ -62,7 +62,7 @@ Narbutas, atmesdamas mitinius gintaro kilmės aiškinimus, mini formulę apie Mu
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 146"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 146."
   citata_originali: |
     150
     Kocebus teisingai vadina gintarą saulės akmeniu, se­

@@ -75,7 +75,7 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
 - id: c-83783
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tokie kalnų pavadinimai,
     pirmtakų duoti, iki šiol išlikę, iš senovės laikų perimta tra­

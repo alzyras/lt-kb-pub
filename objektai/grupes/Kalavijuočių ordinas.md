@@ -28,18 +28,19 @@ tags:
 amziai:
   - 'XII'
   - 'XXI'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'seal_of'
+media_primary_json: |-
+  {"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-11T12:28:32.030578+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas viduramžiškas ovalus antspaudas su lotynišku įrašu pakraštyje, centre pavaizduotas kryžius ir ilgas kalavijas, apsupti ornamentų.","metadataEvidence":"Failo aprašas tiesiogiai identifikuoja vaizdą kaip „Seal of the Livonian Brothers of Sword, medieval Livonia“, data nurodyta XIII a.; pavadinimas „Kalavijuociai.jpg“ sutampa su target Kalavijuočių ordinu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdo turinys aiškiai rodo konkretų Kalavijuočių ordino istorinį antspaudą, todėl ryšys su target yra tiesioginis.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-11T12:28:32.030578+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas viduramžiškas ovalus antspaudas su lotynišku įrašu pakraštyje, centre pavaizduotas kryžius ir ilgas kalavijas, apsupti ornamentų.","metadataEvidence":"Failo aprašas tiesiogiai identifikuoja vaizdą kaip „Seal of the Livonian Brothers of Sword, medieval Livonia“, data nurodyta XIII a.; pavadinimas „Kalavijuociai.jpg“ sutampa su target Kalavijuočių ordinu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdo turinys aiškiai rodo konkretų Kalavijuočių ordino istorinį antspaudą, todėl ryšys su target yra tiesioginis.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-baf2b4c9fe464b86a6d4ddb8","title":"Kalavijuociai.jpg","caption":"Kalavijuočių ordino antspaudas, XIII a.","originalTitle":"Kalavijuociai.jpg","creator":"","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Kalavijuočių ordino antspaudas (Kurlovičs G., Tomašūns A. Latvijas vēsture vidusskolai. 1. sēj. Rīga, 1999. 68. lpp.)","dateDisplay":"13 th century date QS:P,+1250-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":374,"height":523,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AKalavijuociai.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/23/Kalavijuociai.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"grupe","label":"grupe","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"ordinas","label":"ordinas","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/grupes/Kalavijuočių ordinas.md","title":"Kalavijuočių ordinas","itemType":"grupe","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T12:28:07.222668+03:00","reviewedAt":"2026-07-11T12:28:32.030578+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas viduramžiškas ovalus antspaudas su lotynišku įrašu pakraštyje, centre pavaizduotas kryžius ir ilgas kalavijas, apsupti ornamentų.","metadataEvidence":"Failo aprašas tiesiogiai identifikuoja vaizdą kaip „Seal of the Livonian Brothers of Sword, medieval Livonia“, data nurodyta XIII a.; pavadinimas „Kalavijuociai.jpg“ sutampa su target Kalavijuočių ordinu.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys ir vaizdo turinys aiškiai rodo konkretų Kalavijuočių ordino istorinį antspaudą, todėl ryšys su target yra tiesioginis.","isPrimary":1}]
 ---
 # Kalavijuočių ordinas
 
@@ -880,7 +881,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-05799
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Pirmiausia prie Dauguvos krantų ėmė stiprintis kalavijuočių
     ordinas^69. Visby salos ir Liubeko pirkliams ėmus lankyti Dauguvos
@@ -898,7 +899,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-05800
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet jam neužteko kasmet atsikviečiamu kryžininkų būrių
     pastoviai kovoti su priešiškais vietos pagonimis. Pagal Palestinoje
@@ -960,7 +961,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
     šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
@@ -979,7 +980,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 10"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 10."
   citata_originali: |
     Lietuvos  ir Jotvingių jėgos puolė vieną  iš minėtos antiprūsiškosios
     koalicijos dalyvių — Lenkiją25. Taigi plačiu mastu atremiant katalikiškųjų vakarų kryžininkų
@@ -996,7 +997,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-159651
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ponas ir tėvonis. Šiuo raštu skelbiame vi­
     siems, kam dera žinoti, kad Maskvos ginklų įveiktas ir su­
@@ -1021,7 +1022,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-159652
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Karaliui, turinčiam tokias dide­
     les karinės amunicijos atsargas, nesunku buvo apginkluoti
@@ -1046,7 +1047,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-159654
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Vienydamas Lietuvą, Mindaugas negalėjo nekreipti dėmesio į tokią
     faktų grandinę: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordi-
@@ -1089,7 +1090,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 307"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 307."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 307."
   citata_originali: |
     Kristaus karių ordinas, Dobrynės broliai
       Kristaus karių ordinas Livonijos žemėje
@@ -1109,7 +1110,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-159658
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Apsirūpinus ar­
     tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
@@ -1162,7 +1163,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     28. Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
 
@@ -1201,7 +1202,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 83"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 83."
   citata_originali: |
     į jo šventenybę popiežių. Kaip tik tuo metu iš Livonijos buvo atvykęs ir brolis Gerlachas
     Rudasis, kuris pranešė, kad magistras Folkvinas, daug brolių, maldininkų ir šiaip dievo
@@ -1225,7 +1226,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 131"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
   citata_originali: |
     Vis dėl­
     to markgrafas, nenorėdamas, kad atrodytų, jog jis vel­
@@ -1247,7 +1248,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-167924
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Padrąsėjo širdys, ir užvi­
     rė atkaklus mūšis, lietuvius apėmė toks kovos įkarštis,
@@ -1274,7 +1275,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 209"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 209."
   citata_originali: |
     Kai šitaip klostėsi reikalai
     Prūsijos pasienyje, Livonija,
@@ -1302,7 +1303,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 695"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 695."
   citata_originali: |
     Tos pačios priežastys sukėlė neramumus Livonijoje.
     Į Liuterio sektą perėjo Livo-
@@ -1350,7 +1351,7 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 - id: c-176219
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Nors žemaičiai Saulės mūšyje 1236 m. šį žygį
     Vokiečių ordino riteris pagrobia vaiką.

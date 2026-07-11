@@ -59,7 +59,7 @@ Narbutas rėmėsi Karlo Riterio veikalu aiškindamas, kad kolchai giminiavosi su
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Pernelyg išsiplėstume, jei įsigilintume į kolchų, beje,
     mums artimą gentį, tad remkimės tik moksliniu ir kruopš­

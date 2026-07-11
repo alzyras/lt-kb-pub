@@ -185,7 +185,7 @@ Nenurodyta
 - id: c-04980
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Žymiau­
     sia kova dėl įtakos tarp Vilniaus ir Maskvos prasidėjo Tverės ku­
@@ -209,7 +209,7 @@ Nenurodyta
 - id: c-04981
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Todėl, prastovėjęs prie Maskvos mūrų «tris dienas ir tris naktis »
     ir nuteriojęs apylinkę, jis grįžo atgal^17. Iki tol niekados lietuviai

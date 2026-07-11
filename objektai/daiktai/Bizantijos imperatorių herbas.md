@@ -98,7 +98,7 @@ Nenurodyta
 - id: c-30986
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
     taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.

@@ -73,7 +73,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 251"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 251."
   citata_originali: |
     Iki šiol negalėjau gauti užrašų paaiškinimo, nors stengiau­
     si ir siunčiau piešinius įvairiems mokovams, lyginau su įvai­

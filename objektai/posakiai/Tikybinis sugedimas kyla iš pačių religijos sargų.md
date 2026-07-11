@@ -61,7 +61,7 @@ Narbutas tikybinį sugedimą aiškino kaip kylantį iš pačių religijos sargų
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 83"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 83."
   citata_originali: |
     Savo ruožtu romėnai -  kuo jie darėsi galingesni ir labiau
     apsišvietę, tuo labiau grimzdo į daugiadievystės chaosą. Žy­

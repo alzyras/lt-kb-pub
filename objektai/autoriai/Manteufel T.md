@@ -69,7 +69,7 @@ Dusburgietis teigia, kad kristaus brolių ordinas, kaip vyskupo Kristijono karia
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 44"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
   citata_originali: |
     Daugelis Ordino brolių paėjo iš Meklenburgo, spėjamosios Kristijono
     gimtinės, riterijos. Kristaus brolių ordinas, kaip vyskupo Kristijono kariai, negalėjo būti

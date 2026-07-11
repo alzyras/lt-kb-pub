@@ -60,7 +60,7 @@ Narbutas teigia, kad tose pačiose pastabose dar yra užuomina apie vie ną liet
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 97"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 97."
   citata_originali: |
     Anot
     autoriaus, tai buvęs šios tautos karo šūkis, arba kreipinys į jų

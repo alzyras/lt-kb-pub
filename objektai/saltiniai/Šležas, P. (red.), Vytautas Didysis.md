@@ -61,7 +61,7 @@ media_all_json: |-
 - id: c-33776
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Buches der Historia Poloniae des Johannes
     Długosz. Witold und Polen in den Jahren 1427-1430_ , AM, t. 30, 1893.

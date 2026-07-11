@@ -65,7 +65,7 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
 - id: c-84454
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vytautas užkirto tam ke­
     lią, nutraukdamas iš karto visus ry­

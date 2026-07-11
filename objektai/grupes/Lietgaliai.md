@@ -115,7 +115,7 @@ media_all_json: |-
 - id: c-31173
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais. Net ir
     pas vienkiemius pamėgusius lietgalius yra atrasta kuopinių kaimų.
@@ -132,7 +132,7 @@ media_all_json: |-
 - id: c-33309
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     tine prasme, nes jie, prisiėmę vyriausiųjų savo srities dvasininkų
     pareigas, atlikdavo aukojimus. Tokiu atskirų sričių kunigų istorijos
@@ -150,7 +150,7 @@ media_all_json: |-
 - id: c-167701
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Galėjo tas pat būti ir Lietuvoje, kai gyventojai iš sunkiau apgi­
     namų vietų ordino karų laikais vis labiau traukėsi į uždarų sodybų

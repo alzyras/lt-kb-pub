@@ -56,7 +56,7 @@ Narbutas Javinę (Jawine) aiškina kaip su javais susijusį deivės vardą ir si
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 425"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 425."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 425."
   citata_originali: |
     JAVINĖ (JAWINE). Nuo Jawu. Daugiskaita -  Jawoi. Tas
     pavadinimas, matyt, susijęs su ta pačia deive, kurią aprašėme

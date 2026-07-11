@@ -67,7 +67,7 @@ Anglų keliautojas mokslininkas Bleikas nurodė Baltojo Himalajų kalno aukštį
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 39"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 39."
   citata_originali: |
     Šios dvi tautos, gal ir
     skirtingos kilmės, turėjo artimų tarpusavio santykių ir

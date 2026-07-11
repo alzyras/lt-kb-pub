@@ -62,7 +62,7 @@ Narbutas remiasi Teokritu Scholastu teigdamas, kad varpai priklausė slaptoms Ka
 - id: c-173098
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
     skirtų tam tikroms religinėms apeigoms. Scholastas Teokritas

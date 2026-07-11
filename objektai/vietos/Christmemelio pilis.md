@@ -65,7 +65,7 @@ Kryžiuočiai puolė Christmemelio pilį, daužė jos sienas taranais ir sužeid
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 191"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 191."
   citata_originali: |
     Kryžiuočių kariai, atskubėję iš
     iš tos kariuomenės, kuri traukė iš Prūsijos, sudarė nau­

@@ -65,7 +65,7 @@ media_all_json: |-
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 41."
   citata_originali: |
     Pozityvistų įdiegtas lietuvių mitologijos supratimas išsilai­
     kė vos ne iki pat šių dienų, o T. Narbuto autoritetas beveik

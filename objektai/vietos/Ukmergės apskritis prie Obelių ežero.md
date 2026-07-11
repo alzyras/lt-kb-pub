@@ -57,7 +57,7 @@ Ukmergės apskrityje prie Obelių ežero degintiniame kape buvo rasti 2–5 coli
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 350"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 350."
   citata_originali: |
     Ištirti mord­
     vių ir lietuvių giminystę yra labai svarbus dalykas. Ukmergės apskrity­

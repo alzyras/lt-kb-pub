@@ -112,7 +112,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Kokiu gi kitu būdu galėjo suformuoti bajoriją tautos, ne­
     žinojusios jokių kitų pajamų, o tik gautas iš žemdirbys­
@@ -136,7 +136,7 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 355"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 355."
   citata_originali: |
     Vadinasi, krašto ba­
     jorai buvo turtingi žemvaldžiai, plačių valsčių ponai, at­

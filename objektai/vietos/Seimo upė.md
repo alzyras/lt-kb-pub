@@ -61,7 +61,7 @@ Narbutas teigė, kad Hipakyris dabar vadinamas Seimo upe, o nerastą Herodoto up
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 53"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 53."
   citata_originali: |
     Herodotas
     teigia, kad iki šio krašto nuo Dnepro žiočių reikia plauk­

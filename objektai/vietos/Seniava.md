@@ -63,7 +63,7 @@ Narbutas aiškino, kad prie Rosės upės esanti Seniava kilusi iš žodžio „S
 - id: c-175668
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Pati Rosės upė, kaip gerai žinome, reiškia lie­
     286

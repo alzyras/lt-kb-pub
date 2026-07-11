@@ -85,7 +85,7 @@ Nenurodyta
 - id: c-83096
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Taip pat jeigu žydas žydą
     sužeistų, privalo savo teisėjui pagal mūsų žemės paprotį su­

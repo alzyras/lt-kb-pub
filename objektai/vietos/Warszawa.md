@@ -60,7 +60,7 @@ Stowko о bogach Litewskich // Biblioteka Warszawska.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 37"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 37."
   citata_originali: |
     25 Akielewicz М. Stowko о bogach Litewskich // Biblioteka Wars-
     zawska. -  Warszawa, 1858. -  T. 3. -  S. 192-195.

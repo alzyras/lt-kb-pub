@@ -58,7 +58,7 @@ Grafas Hildermidas buvo škotas, kurio tėvas paaukojo gyvybę gelbėdamas karal
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Greta jo įsitai­
     sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos

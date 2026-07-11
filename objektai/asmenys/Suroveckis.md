@@ -104,7 +104,7 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 - id: c-174205
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     255
 
@@ -130,7 +130,7 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 - id: c-174865
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Žymusis mūsų
     senovės tyrinėtojas ponas Suroveckis2 labai gerai aiškina,

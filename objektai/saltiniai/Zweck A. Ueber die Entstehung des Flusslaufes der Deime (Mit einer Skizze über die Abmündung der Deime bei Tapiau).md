@@ -64,7 +64,7 @@ Dusburgietis teigia, kad zweck A.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.

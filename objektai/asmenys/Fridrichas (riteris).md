@@ -56,7 +56,7 @@ Riteris Fridrichas vykdė reikalavimus, pateiktus šv. Grigaliaus vardu.
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Vestfalijos vėliavininkas Degenhar-
     tas, atleidęs kaltes savo priešininkams, nužudžiusiems

@@ -88,7 +88,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 - id: c-171036
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Žavėjimasis paprastų žmonių buitimi, papro­
     čiais, tikėjimais, dainomis, padavimais, netgi burtais ir prieta­

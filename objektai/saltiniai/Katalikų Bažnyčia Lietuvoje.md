@@ -67,7 +67,7 @@ Aleknos «Katalikų Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šalt
 - id: c-33606
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jau 1911 m. jis išleido «Lietuvos istoriją»,
     jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas

@@ -59,7 +59,7 @@ Bailambero vadovaujamų hunų Europos užpuolimą Narbutas, remdamasis Naruševi
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 62"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 62."
   citata_originali: |
     Vis dėlto ne­
     aišku, kada ir kaip iš ten pasitraukėi.

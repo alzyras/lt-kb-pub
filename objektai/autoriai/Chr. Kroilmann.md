@@ -66,7 +66,7 @@ Kroilmann : Politische Geschichte des Deutschen Ornens in Preussen, Königsberg 
 - id: c-32908
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^1) **PfiW, 132 p.**
     (^2) **Plg. KrSO, 178 p. 1 išn. ; Chr. Kroilmann :** **_Politische Geschichte des

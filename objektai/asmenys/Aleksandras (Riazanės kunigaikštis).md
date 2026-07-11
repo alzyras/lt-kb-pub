@@ -89,7 +89,7 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
 - id: c-83882
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kad ir kaip paskendęs karo rūpesčiuose, bet kartą ryžęsis
     priimti Romos tikėjimą, didysis kunigaikštis, ištikimai jo lai­

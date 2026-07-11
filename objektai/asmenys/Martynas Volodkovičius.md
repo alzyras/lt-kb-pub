@@ -60,7 +60,7 @@ Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 703"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
   citata_originali: |
     Maskvėnai atsakė, kad jų valdovas kol kas nėra nie­
     ko pikta karaliui nei padaręs, nei ketinęs daryti, tačiau

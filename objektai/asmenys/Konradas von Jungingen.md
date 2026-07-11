@@ -65,7 +65,7 @@ media_all_json: |-
 - id: c-32776
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jogailos jam pavestą valdyti Lietuvą. 1394 m.
     vasarą pats vyriausias magistras Konradas von Jungingen su gau­

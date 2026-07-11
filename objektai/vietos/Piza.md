@@ -65,7 +65,7 @@ Dusburgietis teigia, kad apie Henriko, imperatoriaus, mirtį Tais pačiais metai
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 248"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 248."
   citata_originali: |
     113. Apie Henriko, imperatoriaus, mirtį
 

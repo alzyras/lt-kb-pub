@@ -90,7 +90,7 @@ Nenurodyta
 - id: c-83102
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Abi tos vietovės pagonims buvo labai svarbios, juk čia sto­
     vėjo Romuva (Perkūno šventykla ir vyriausiojo vaidilos Kri­

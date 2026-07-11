@@ -126,7 +126,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 155"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 155."
   citata_originali: |
     Tuo metu Masilija pradėjo rungtyniauti su
     Kartagina; masiliečių laivai plaukdavo iki Tarteso tų pa­
@@ -148,7 +148,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 158"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 158."
   citata_originali: |
     Pagaliau kurui kaip
     malkas vartojamą gintarą, kurio senovės Sembos gyven­
@@ -176,7 +176,7 @@ Masiliečių laivai, Masilijai pradėjus rungtyniauti su Kartagina, plaukdavo ik
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 166"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 166."
   citata_originali: |
     Tuo keliu prekes
     gabeno ir masiliečiai, Nėra nė mažiausių abejonių, jog ger­

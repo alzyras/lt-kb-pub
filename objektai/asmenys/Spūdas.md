@@ -65,7 +65,7 @@ Pūtvės pilies seniūnas Spūdas išdavė pilį ir su tėvu, vaikais bei visa �
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 185"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 185."
   citata_originali: |
     Vėliau, ir tais pačiais,
     ir kitais metais, kryžiuočiai taip nusiaubė Žemaitijo­

@@ -68,7 +68,7 @@ Narbutas rašė, kad 1618 m. Livonijoje nekrikštyti suaugusieji garbino didžiu
 - id: c-172165
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Netgi Li­
     vonijoje, Rezeknės, Daugpilio ir kitose apylinkėse, tais pačiais,

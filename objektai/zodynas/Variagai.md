@@ -192,7 +192,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - id: c-55820
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
     liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
@@ -218,7 +218,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - id: c-78599
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Nors ir patogio­
     je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
@@ -249,7 +249,7 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
 - id: c-78600
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     2
     Apie Lietuvos ir Žemaitijos tapatu­

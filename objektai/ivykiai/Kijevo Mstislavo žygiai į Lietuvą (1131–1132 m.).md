@@ -115,7 +115,7 @@ Nenurodyta
 - id: c-33404
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     1131 m. jis esąs grįžęs su daug belaisvių,
     o 1132 m. padarytas jo žygis baigėsi nelaimingai: jis išsiruošęs su
@@ -137,7 +137,7 @@ Nenurodyta
 - id: c-33405
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
     Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą

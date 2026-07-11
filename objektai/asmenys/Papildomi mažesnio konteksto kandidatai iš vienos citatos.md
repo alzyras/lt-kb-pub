@@ -68,7 +68,7 @@ Papildomi mažesnio konteksto kandidatai iš vienos citatos nevertas būti pavyz
 - id: c-83903
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     „Taip
     pat žemaičių - lietuvių literatūrai nusipelnė savo paskutiniais

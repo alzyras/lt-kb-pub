@@ -123,7 +123,7 @@ media_all_json: |-
 - id: c-166277
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Taip kronikose vėl atsi­
     rado keliatūkstantiniai priešų aukų skaičiai^21. Kad lietuvių nuosto­

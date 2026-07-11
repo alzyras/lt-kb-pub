@@ -109,7 +109,7 @@ Nenurodyta
 - id: c-30993
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Iš žymiai pigesnės geležies tada
     buvo galima pasigaminti ginklų (iečių, kirvių) bei įrankių (dalgių,
@@ -125,7 +125,7 @@ Nenurodyta
 - id: c-50206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tai patvirtina ne tik kapinynų inventoriai, kuriuose vis
     dažniau, šalia papuošalų, randami ginklai, bet ir naujo tipo pilia­

@@ -76,7 +76,7 @@ reikšmė čia gana tiesioginė, bet viešame įraše derėtų rodyti, kad tai N
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 277"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 277."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 277."
   citata_originali: |
     Vadinasi, galėjo
     būti, jog šis lietuvių kunigaikštis, gyvenęs X amžiuje,

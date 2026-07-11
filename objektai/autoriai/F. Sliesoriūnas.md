@@ -68,7 +68,7 @@ Sliesoriūno straipsniai^117.
 - id: c-32923
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^80) ĮVADAS
     vickis (IstV, t. 7, 1965, 161-165 p.). R. Strazdūnaitė:

@@ -60,7 +60,7 @@ Narbutas Lėlių ir Lėlę laikė dvyniais, pamirštos deivės vaikais, kuriuos 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 101"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 101."
   citata_originali: |
     Visa tai paaiškina dar mažai ištirtus Siaurės mitologijos mi­
     tus. Iš lietuvių mitologijos tyrimų pastebima, kad Lėlius (Lelus)

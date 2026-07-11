@@ -61,7 +61,7 @@ Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nut
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 396"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 396."
   citata_originali: |
     Pa­
     sirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o

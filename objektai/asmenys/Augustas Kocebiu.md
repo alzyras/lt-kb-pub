@@ -66,7 +66,7 @@ Narbutas rašo, kad Augustas Kocebiu Neapolyje įsigijo rankraštį ir 1809 m. R
 - id: c-173015
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Turbūt tai vienas iš neišspausdintų veikalų kardinolo Petro
     d’Ailli, gyvenusio tarp 1350 ir 1419 metų, arba, kaip kiti nori, iki

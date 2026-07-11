@@ -81,7 +81,7 @@ Nenurodyta
 - id: c-172625
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Jį taip pat vadino Tiimpus,
     lik jis visai nesusijęs su Atrimpos, kaip norėtų Stenderis, tai

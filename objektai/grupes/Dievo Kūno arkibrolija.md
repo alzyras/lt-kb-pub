@@ -101,7 +101,7 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 - id: c-55859
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Išlikę
     dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais

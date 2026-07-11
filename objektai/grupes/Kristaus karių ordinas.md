@@ -72,7 +72,7 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 301"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 301."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 301."
   citata_originali: |
     Diewenns
     Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)

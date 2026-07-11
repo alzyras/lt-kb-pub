@@ -70,7 +70,7 @@ Dusburgietis teigia, kad apie Inocentą V, popiežių, ir Rudolfą, Romos karali
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 236"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 236."
   citata_originali: |
     58. Apie Inocentą V, popiežių, ir Rudolfą, Romos karalių
 

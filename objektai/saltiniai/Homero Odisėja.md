@@ -84,7 +84,7 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 35"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 35."
   citata_originali: |
     Apolonas ir Diana į Graikiją, Ozyris į Egiptą
     atvyko neva iš Siaurės. Saturnas, Borėjas, palaimintoji
@@ -105,7 +105,7 @@ Teodoras Narbutas Homero „Odisėjoje“ apdainuotą Elisiejų siejo su Šiaur�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 145"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 145."
   citata_originali: |
     Iš čia kilo lotyniškas Glacies, ledas, vokiškas
     Glass, Glcintz „stiklas“, „blizgesys“, slaviškas Gtaz „akis“

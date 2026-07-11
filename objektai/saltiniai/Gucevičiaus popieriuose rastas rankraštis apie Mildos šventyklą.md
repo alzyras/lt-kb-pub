@@ -58,7 +58,7 @@ Pasak Narbuto, Šulcas Gucevičiaus popieriuose aptiko rankraštį, patvirtinus�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 134"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 134."
   citata_originali: |
     Buvęs Vilniaus universi­
     teto architektūros profesorius ponas Šulcas tarp mirusio ar­

@@ -67,7 +67,7 @@ Kojelavičius spėjo, kad iš Italijos galėjo pasitraukti žmonės, nugalėjusi
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 57"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 57."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 57."
   citata_originali: |
     Taigi iš tiesų galėjo ši-
     908 m e ta i

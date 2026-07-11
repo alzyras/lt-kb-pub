@@ -90,7 +90,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 - id: c-163256
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šitomis trumpomis nuorodomis plačią Lietuvos istorijos sritį liečiančių
     bibliografijų sąrašai nėra užbaigti. Įvairių kitų bendrai rytų Europą lie­
@@ -106,7 +106,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
 - id: c-163258
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Varšuvoje išleistoji**
     **_Bibliografia Historii Polski_** **kiek mažiau dėmesio beparodo Lietuvos istorijai.

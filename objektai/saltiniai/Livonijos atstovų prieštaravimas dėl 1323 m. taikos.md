@@ -112,7 +112,7 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 186-187"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186-187."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186-187."
   citata_originali: |
     Livonijos atstovų prieštaravimo originale rašoma: van
     des koninges wegene van Lettowen dat lant do Ousteyten und Sameyten, Plessekowe
@@ -145,7 +145,7 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 186"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 186."
   citata_originali: |
     Skirti aukštaičius nuo lietuvių paskatino
     J. Otrembskio mintis, kad 1322 m. Gedimino sutartyje Lietuva dar neturėjusi vėlesnės

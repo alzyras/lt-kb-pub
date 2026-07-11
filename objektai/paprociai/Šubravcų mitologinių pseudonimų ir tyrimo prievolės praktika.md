@@ -86,7 +86,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 17"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 17."
   citata_originali: |
     Lietuvių mitologija šiuo metu domėjosi ne tik mokslininkai,
     rašytojai, bet ir visa apsišvietusioji visuomenė, akademinis jau­

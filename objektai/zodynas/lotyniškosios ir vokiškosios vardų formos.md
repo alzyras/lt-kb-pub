@@ -61,7 +61,7 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 279"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 279."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 279."
   citata_originali: |
     Agota
       Ahohietis

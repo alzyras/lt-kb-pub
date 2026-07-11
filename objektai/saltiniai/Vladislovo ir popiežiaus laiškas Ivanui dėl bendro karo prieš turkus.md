@@ -74,7 +74,7 @@ Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laiš
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 570"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 570."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 570."
   citata_originali: |
     Šiam sumanymui įgyvendinti, po­
     piežiaus galva, labiausiai trukdė rengimasis kariau­

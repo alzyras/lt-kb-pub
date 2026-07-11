@@ -105,7 +105,7 @@ Nenurodyta
 - id: c-84261
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ten pat dalyvaujant Vilniaus vyskupui di­
     džiai gerbiamam Kristuje tėvui ponui Albertui ir didingie­

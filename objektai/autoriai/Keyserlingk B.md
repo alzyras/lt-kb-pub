@@ -69,7 +69,7 @@ Dusburgietis teigia, kad 33—73; Springborn M, Herkus Monte.— Berlin, 1897; t
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 115"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 115."
   citata_originali: |
     33—73; Springborn M,
     Herkus Monte.— Berlin, 1897; to paties, Paskutinis prūsų sukilėlis Herkus Mantas.— K,

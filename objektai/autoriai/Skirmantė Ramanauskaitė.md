@@ -116,7 +116,7 @@ Skirmantė Ramanauskaitė nurodyta kaip 2007 m. „Vilniaus miesto istorijos“ 
 - id: c-78481
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     UDK 947.45
     Ba237

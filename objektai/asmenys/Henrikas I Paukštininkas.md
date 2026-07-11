@@ -69,7 +69,7 @@ Vokietijos miestai, iki Ka­ rolio Didžiojo beveik nežinomi, vėliau, X amžiu
 - id: c-83667
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Šitaip nusikračius feodalinės priespaudos pančių Lombar­
     dijoje ir Prancūzijoje, miestų iškilimas šiuose kraštuose davė

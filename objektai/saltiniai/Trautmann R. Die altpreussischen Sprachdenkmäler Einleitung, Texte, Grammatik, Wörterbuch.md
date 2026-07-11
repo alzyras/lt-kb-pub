@@ -65,7 +65,7 @@ Dusburgietis teigia, kad trautmann R.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 272"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
   citata_originali: |
     Trautmann R. Die altpreussischen Sprachdenkmäler: Einleitung, Texte, Grammatik,
     Wörterbuch.— Göttingen, 1910.

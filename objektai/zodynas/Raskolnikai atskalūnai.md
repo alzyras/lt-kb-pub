@@ -62,7 +62,7 @@ Narbutas rašo, kad sektantai nuo seno vadinti raskolnikais, tai yra atskalūnai
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 396"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
   citata_originali: |
     Tuo tarpu yra tik­
     ras dalykas, jog Rusijoje, taip pat besiribojančiuose su ja kraš­

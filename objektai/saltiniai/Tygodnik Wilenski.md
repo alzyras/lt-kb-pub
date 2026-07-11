@@ -123,7 +123,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
 - id: c-173377
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Luka-
     nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
@@ -146,7 +146,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 136"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 136."
   citata_originali: |
     Istoriniai tyrinėjimai byloja, jog Vladislovas Lokietka, ap-
     1 Leidinyje „Tygodnik Wilenski“ (1817. T. IV. P. 59—64, 78—
@@ -164,7 +164,7 @@ Narbutas mini, kad straipsnį apie aptariamą klausimą buvo paskelbęs viename 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 380"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 380."
   citata_originali: |
     Tokia surinkta pradinės Kijevo istorijos medžiaga, ku­
     ria remdamasis, išmanantis istoriją ir turintis noro galės

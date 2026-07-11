@@ -71,7 +71,7 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 381"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 381."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 381."
   citata_originali: |
     Dėdama­
     sis, jog jam be galo rūpi išsaugoti draugystę ir paša­

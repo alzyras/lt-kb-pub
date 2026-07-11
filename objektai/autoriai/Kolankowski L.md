@@ -65,7 +65,7 @@ Dusburgietis teigia, kad kolankowski L.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 265"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
   citata_originali: |
     Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
     polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.

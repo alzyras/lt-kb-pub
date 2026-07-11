@@ -93,7 +93,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 616"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 616."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 616."
   citata_originali: |
     Kai žinia apie šį
     S k ita i su m u ša m i Ru-
@@ -119,7 +119,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 617"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 617."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 617."
   citata_originali: |
     Konstantinas su savaisiais įsitaisė dešiniajame
     sparne, o kairiajame — Mikalojus Kameneckis, rikiuo­

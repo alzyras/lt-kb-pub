@@ -69,7 +69,7 @@ Narbutas, remdamasis senųjų amžių padavimais, hiperborėjais vadina graikams
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 37"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 37."
   citata_originali: |
     Apie šį sausumos iškilimą
     dar kalbėsime ir pateiksime kai kurių įrodymų; čia tik

@@ -68,7 +68,7 @@ Kauno pilį ir miestą gynė stambios lietuvių bei lenkų samdytinių įgulos.
 - id: c-168773
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Kadangi Kaunas Neries ir
     N e s ė k m in g a i m ė g in a

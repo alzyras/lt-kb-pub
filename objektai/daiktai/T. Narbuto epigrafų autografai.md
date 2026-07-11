@@ -76,7 +76,7 @@ Nenurodyta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 77"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 77."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 77."
   citata_originali: |
     Autografas epigrafo, kuriuo Teodoras Narbutas papildė tekstą,
     rengdamas spaudai antrąjį LTIIV tomo leidimą

@@ -58,7 +58,7 @@ Narbuto vertinimu Hasės mažai žinoma knyga rodė, kad iš žodžių nagrinėj
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 334."
   citata_originali: |
     Nuo
     Ebro upės atkeliavo hebrajai, o rusai yra roussis par

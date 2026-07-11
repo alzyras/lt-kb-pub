@@ -134,7 +134,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 125"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
   citata_originali: |
     D.— Waistotepila (castrum Waistotepilam), Jer.— Waistotenpil; Vaistotpilis (Vaistoto
     pilis — GAO, p. 192)—sena prūsų pilis, kurioje įsitvirtino Ordinas (Ewald A.
@@ -149,7 +149,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 125"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
   citata_originali: |
     Apie tai, kaip buvo palikta Vaistotpilio pilis
 
@@ -176,7 +176,7 @@ Dusburgietis teigia, kad apie 6 brolių ir daugybės krikščionių žūtį Vais
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 125"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 125."
   citata_originali: |
     Apie 6 brolių ir daugybės krikščionių žūtį Vaistotpilio pilyje
 

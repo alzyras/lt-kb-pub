@@ -72,7 +72,7 @@ Dusburgietis teigia, kad sitai sužinojęs, Herkus, pasiėmęs daug ginklaneši�
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 146"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 146."
   citata_originali: |
     Apie prūsų, mokančių vokiečių kalbą, niekšiškumą
 

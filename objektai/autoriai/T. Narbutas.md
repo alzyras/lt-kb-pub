@@ -15,18 +15,19 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-71204c2ec3e8dbe2f6930e64","title":"TeodorNarbutStJohnsChurch.jpg","caption":"Teodoro Narbuto portretas Šv. Jonų bažnyčioje Vilniuje.","originalTitle":"TeodorNarbutStJohnsChurch.jpg","creator":"Alma Pater","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Own work","dateDisplay":"2007-06","dateStart":null,"dateEnd":null,"width":2304,"height":3072,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ATeodorNarbutStJohnsChurch.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/d9/TeodorNarbutStJohnsChurch.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TeodorNarbutStJohnsChurch.jpg/1920px-TeodorNarbutStJohnsChurch.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"autorius","label":"autorius","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/autoriai/T. Narbutas.md","title":"Teodoras Narbutas","itemType":"autorius","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T16:56:08.169999+03:00","reviewedAt":"2026-07-11T16:56:48.316132+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas įrėmintas tapytas vyro portretas; vyras pavaizduotas laikantis dokumentus ar pergamentus su antspaudais, apačioje yra informacinė lentelė.","metadataEvidence":"Failo pavadinimas „TeodorNarbutStJohnsChurch.jpg“, aprašymas nurodo „Portrait of Teodor Narbutt, Polish historian & writer, Church of St. Johns, Vilno (Vilnius)“. Tai atitinka target Teodorą Narbutą.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimta, nes metaduomenys aiškiai identifikuoja vaizdą kaip Teodoro Narbuto portretą, o pats vaizdas rodo istorinį portretą.","isPrimary":1}]
 ---
 # Teodoras Narbutas
 
@@ -613,7 +614,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-169653
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Lietuvos istorija
 
@@ -634,7 +635,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 34"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 34."
   citata_originali: |
     Panašiai T. Narbutas elgiasi ir su daugeliu kitų senųjų ra­
     šytinių šaltinių -  praplečia jų informaciją, sukonkretina, per­
@@ -655,7 +656,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 5"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 5."
   citata_originali: |
     T. Narbutas, kaip ir daugelis to meto žmonių, bodėjosi vie-
     nakryptės veiklos. Jis daug vertė, rašė eilėraščius, domėjosi
@@ -673,7 +674,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 7"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 7."
   citata_originali: |
     T. Narbuto darbštumas ir interesų įvairovė stebina šiuo­
     laikinį žmogų. 1830 m. jis išleido „Čigonų liaudies istorijos
@@ -691,7 +692,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-171370
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     49
     i
@@ -719,7 +720,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 63"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
   citata_originali: |
     Tituliniame lape rusų kalba parašyta: „Lietuvių mitolo­
     gija. Iš lenkų kalbos išvertė pats autorius“. Deja, pastaruoju
@@ -738,7 +739,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 75"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 75."
   citata_originali: |
     Vietoj pabaigos. Taigi T. Narbuto paieškos lietuvių mito­
     logijos tyrinėjimų srityje buvo atkaklesnės ir tragiškesnės, ne­
@@ -756,7 +757,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 507"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 507."
   citata_originali: |
     P. 383***** _ Kronika Niemiecka J. F. R. (Z rękopismu au-
     tentycznego, objašnil, tlómaczenie polskie doląc-
@@ -773,7 +774,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 4"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 4."
   citata_originali: |
     Lietuvių kilmės teorijos, kurių atsiradimą reikėtų sie­
     ti dar su Renesanso laikotarpiu, buvo puikiai žinomos
@@ -799,7 +800,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 439"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 439."
   citata_originali: |
     Sumanymas. „Aš nerašau lietuvių tautos istorijos
     < ...> “ — tokia iš pirmo žvilgsnio šokiruojančia dekla­
@@ -816,7 +817,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 475"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 475."
   citata_originali: |
     44 /Ten pat,
     (28)
@@ -835,7 +836,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 386"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 386."
   citata_originali: |
     Ten, kur jis nukrito, mes nepastebė­
     jome nė jokio drėgmės pėdsako, neužuodėme nė jokio
@@ -855,7 +856,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-176264
   autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
   šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
-  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
   citata_originali: |
     Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų
     kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo in-
@@ -892,7 +893,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-176810
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai­
     čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių
@@ -911,7 +912,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
 - id: c-176811
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tuo metu Lietu­
     voje populiarus T. Narbutas susilaukė rūsčios jo kritikos. „Kas

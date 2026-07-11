@@ -59,7 +59,7 @@ Narbutas teigia, kad matydamas, jog ta tauta meldžiasi kažkokia nesuprantama j
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 446"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
   citata_originali: |
     Matydamas, jog ta tauta meldžiasi kažkokia nesuprantama jiems
     kalba, atminimui, dėl originalumo perrašė jų Dievo maldą ir įdėjo į

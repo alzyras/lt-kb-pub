@@ -60,7 +60,7 @@ Biorntelis, Narbuto vadinamas švedų autoriumi, manė, kad prie Veronos ir Tren
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 49"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 49."
   citata_originali: |
     Italijoje, netoli Veronos, slėnyje tarp
     Veronos ir Trento, lig šiol turėtų gyventi ainiai tų pačių

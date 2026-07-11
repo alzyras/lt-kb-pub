@@ -65,7 +65,7 @@ Narbutas spėja, kad Lela-Upė galėjo būti viena iš upių, įtekančių į En
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Taip pat yra senovės geogra­
     fo, žinomo kaip Ravenos geografas2, IX amžiaus infor­

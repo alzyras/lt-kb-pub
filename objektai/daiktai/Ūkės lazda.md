@@ -115,7 +115,7 @@ Nenurodyta
 - id: c-10314
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Jo įsakymai buvo svietui kaip dievo žodžiais, kuriuos skelbė jam savo lazda, kurią kožnas pamatęs jo siuntinio rankoje tuojau klausė, kas
         buvo įsakyta, it būt gromatą, jo ranka rašytą, perskaitęs. Nuo ko kalnėnai ir žemaičiai iki šiai dienai
@@ -133,7 +133,7 @@ Nenurodyta
 - id: c-10315
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs.
   citata_rodoma: "Prašaleičiai vadino jį krive krivaičiu, būk nuo jo kreivos lazdos, kuria jis svietui įsakymus davęs."
@@ -147,7 +147,7 @@ Nenurodyta
 - id: c-56406
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     o kūrėjų kūrėjas paėmė vėl ūkės lazdą ir vienas pats valdė tautą, kaip jei
         pirm.

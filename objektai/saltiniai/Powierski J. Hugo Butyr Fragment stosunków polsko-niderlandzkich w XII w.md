@@ -62,7 +62,7 @@ Dusburgietis teigia, kad powierski J.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 269"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 269."
   citata_originali: |
     Powierski J. Hugo Butyr: Fragment stosunków polsko-niderlandzkich w XII w.—ZHPB,
     Warszawa—Poznań, 1972, t. 37, z. 2, s. 9—43.

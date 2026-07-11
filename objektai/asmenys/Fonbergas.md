@@ -62,7 +62,7 @@ Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande nį.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 374"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
   citata_originali: |
     -  Ponas profesorius Fonbergas tiksliai ištyrė ir aprašė tą vande­
     nį. (Wizerunki i Roztrząsania Naukowe. -  R. 1835. -  Cz. XI) *.

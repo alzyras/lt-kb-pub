@@ -72,7 +72,7 @@ media_all_json: |-
 - id: c-33680
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Izvestija, IX, 1901) ;** **_Litovskie evreii_** **(ŽMNPr, I, 1885),
     ir kt. —Žr. LE, t. 34, 439 p.**

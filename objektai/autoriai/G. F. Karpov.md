@@ -63,7 +63,7 @@ Karpov, 1892) ir t.
 - id: c-29380
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     SbRIO = Sbornik Russkogo Imperatorskogo Istoričeskogo Obščestva,
     St. Petersburgas. Iš 148 rinkinio tomų čia panaudota : t. 35

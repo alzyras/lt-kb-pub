@@ -70,7 +70,7 @@ Narbutas samojedus laikė paskutiniais Šiaurės Europos stabmeldžiais ir raš�
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 184"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 184."
   citata_originali: |
     O
     čia surinksime visokias išlikusias žinias apie dangaus kūnų su­

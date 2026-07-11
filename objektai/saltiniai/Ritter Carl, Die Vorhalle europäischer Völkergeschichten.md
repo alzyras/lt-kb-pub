@@ -64,7 +64,7 @@ Carlas Ritteris veikale „Die Vorhalle europäischer Völkergeschichten“ mini
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 41"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 41."
   citata_originali: |
     Kadangi tie kolchai turėjo santykių su egiptiečiais ar
     priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar

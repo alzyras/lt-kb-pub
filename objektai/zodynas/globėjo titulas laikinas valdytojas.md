@@ -72,7 +72,7 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 133"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 133."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 133."
   citata_originali: |
     Karas prasi­
     dėjo dėl Daugpilio pilies, ku-

@@ -61,7 +61,7 @@ St. Peterburgo kodekse Narbutas nurodė skaitęs formą „Galindam“.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 100"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 100."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 100."
   citata_originali: |
     Mažesnės Sarmatijos gentys
     gyvena prie Vyslos (tiksliau — jos žemupyje), venedų

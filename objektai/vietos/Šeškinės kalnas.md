@@ -67,7 +67,7 @@ Dar tarp Verkių ir Šeškinės kalno įsiplieskė kitas įnir­ tingas mūšis,
 - id: c-82252
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Kad neįsiveltų į neaiškios lemties
     mūšį atvirame lauke, Ordino didysis maršalas su rinktinių

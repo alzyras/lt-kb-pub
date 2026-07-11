@@ -67,7 +67,7 @@ Vilniaus vyskupas Andrius buvo kilęs iš Vilniaus ir garsėjo šventųjų moksl
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 539"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 539."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 539."
   citata_originali: |
     Didžiausias palaido
     sanguliavimo priešas, ištiki-

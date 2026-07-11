@@ -71,7 +71,7 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
 - id: c-33609
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^137) **Šioje vietoje nutrūksta Prof. Z. Ivinskio paruošto** **_Įvado_** **mašinraštis.
     Žemiau šiek tiek užpildoma likusi spraga.**

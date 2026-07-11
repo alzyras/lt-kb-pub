@@ -81,7 +81,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 - id: c-28467
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Ne mažesnės svarbos turi trečias klausimas, būtent, kur buvo
     Mindaugo sostinė. Jo «sostapilio» jieškota net keliose Žemaičių
@@ -97,7 +97,7 @@ Jo «sostapilio» jieškota net keliose Žemaičių vietose.
 - id: c-167728
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Taip pat neaišku, ar Mindaugas teturėjo
     tik dvi dukteris, kurių viena tapo antrąja žmona Haličo Danieliaus,

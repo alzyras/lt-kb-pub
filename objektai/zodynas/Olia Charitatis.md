@@ -73,7 +73,7 @@ Iš Joniškio - neturtingiems studentams kasdien Olia Charitatis [labdaringi pie
 - id: c-82580
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­
     demija neturi, išskyrus tai, kad nuo kai kurių kolegijai užra­

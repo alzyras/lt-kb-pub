@@ -120,7 +120,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     D C fere M. passum, a Carnunto Pannoniae
     abest littus Germaniae, ex quo invehitur (succinum) per cognitum
@@ -143,7 +143,7 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 167"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 167."
   citata_originali: |
     nojo šį kelią, nors jie patys retai juo keliavo, tik Karnunte
     gaudavo prekių iš antrų rankų. Kelio ilgis sutampa su

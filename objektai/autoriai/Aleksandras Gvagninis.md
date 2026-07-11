@@ -102,7 +102,7 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 5"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
   citata_originali: |
     Antverpene.
     A. Gvagninio „Sarmatų Europos aprašymas" iki XVII
@@ -120,7 +120,7 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 3"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 3."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 3."
   citata_originali: |
     A. KOJELAVIČIAUS
     „LIETUVOS ISTORIJA" IR JOS REIKŠMĖ

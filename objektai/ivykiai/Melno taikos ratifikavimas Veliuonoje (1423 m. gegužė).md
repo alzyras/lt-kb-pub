@@ -80,7 +80,7 @@ Nenurodyta
 - id: c-163155
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Priversti susivažiuoti Veliuonoje su Vytautu ir Jogailos atsto­
     vais (1423.V.), didysis magistras ir Livonijos magistras ieškojo

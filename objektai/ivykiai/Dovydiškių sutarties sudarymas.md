@@ -204,7 +204,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 - id: c-66735
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Dovydiškių sutartis palieka svarbių neatsakytų klausimų. Jeigu
     Vytautas žinojo, kas buvo dokumente surašyta, tad ir jis drauge
@@ -224,7 +224,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 - id: c-66736
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Savo sunkią padėtį Jogaila stengėsi lengvinti trimis naujomis
     sutartimis. Tęsdamas tėvo prieš Maskvą nukreiptą politiką, jis su­
@@ -260,7 +260,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 - id: c-66738
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
     pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais

@@ -63,7 +63,7 @@ Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su V
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 627"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
   citata_originali: |
     Vasilijus, nie­
     kam nieko aiškiai nesakydamas, paliepė budriau sau­

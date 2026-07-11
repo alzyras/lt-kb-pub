@@ -90,7 +90,7 @@ Nenurodyta
 - id: c-31028
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Jau viduriniame geležies amžiuje žemės darbui buvo imta
     naudoti gyvulio traukiamoji jėga, pirmoje eilėje jaučių jungas. Bet

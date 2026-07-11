@@ -59,7 +59,7 @@ Grafas Rupertas atsisakė Romos imperijos sosto, į kurį buvo kviečiamas.
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 334"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
   citata_originali: |
     Toliau ■— grafas
     Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­

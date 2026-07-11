@@ -94,7 +94,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 - id: c-32930
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Tow. Nauk w Toruniu,
     t. 17, 1910, 1-378 p. — Rhode, G. : _Polemiken um die Schlacht von
@@ -114,7 +114,7 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 - id: c-32931
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     (^20) **Plačiai apie tas kovas su gausia bibliogr. rašo G. Rhode : RhOP,
     172-206 p.; A. Kučinskas:** **_Kęstutis,_** **87-118 p.**

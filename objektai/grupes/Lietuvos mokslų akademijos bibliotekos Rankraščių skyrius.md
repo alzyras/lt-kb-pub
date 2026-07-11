@@ -59,7 +59,7 @@ Didelės apimties 862 lapų rankraštis saugomas Lietuvos mokslų akademijos bib
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 63"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 63."
   citata_originali: |
     Nesėkmės prie­
     žasčių galėtų būti įvairių, tačiau šiandien faktografinė medžiaga

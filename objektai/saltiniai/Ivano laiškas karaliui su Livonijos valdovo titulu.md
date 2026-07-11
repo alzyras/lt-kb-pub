@@ -66,7 +66,7 @@ Laiške karaliui Ivanas pasirašė nauju Livonijos valdovo titulu.
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 700"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 700."
   citata_originali: |
     Antra vertus, be reikalo Augustas imąsis rūpintis
     Livonijos gyventojais: jie — Maskvos kunigaikštystės

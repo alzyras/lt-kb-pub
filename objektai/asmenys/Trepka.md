@@ -65,7 +65,7 @@ Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Gli
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 627"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
   citata_originali: |
     Tuo metu popiežiaus
     legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­

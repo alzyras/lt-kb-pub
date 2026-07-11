@@ -144,7 +144,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 217"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 217."
   citata_originali: |
     Tas, mūsų
     akimis, neturintis priežasties šv. Kristupo panaudojimas her­
@@ -162,7 +162,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 407"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     Rašy­
     tas ant storo, lygaus ir gražaus skudurinio popieriaus; antspau­
@@ -184,7 +184,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 407"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 407."
   citata_originali: |
     Ketvirta­
     me skyde -  visu ūgiu stovintis šarvuotas riteris su smailiaviršiu
@@ -205,7 +205,7 @@ Narbutas spėja, kad Vilniaus herbe iš pradžių galėjo būti senovės milžin
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 406"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
   citata_originali: |
     VI lentelė, 40-asis piešinys. Senasis Vilniaus miesto her­
     bas. Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau

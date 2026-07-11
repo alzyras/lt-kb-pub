@@ -75,7 +75,7 @@ Taip pat šį perrašytą testamentą mes kartą ir antrą, ir dar keliolika kar
 - id: c-82620
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tai mūsų paskutinioji valia, bet gana
     plačiai aprašyta ir aiškiai išreikšta, kad būtų svarbi ir tvirta,

@@ -58,7 +58,7 @@ Dusburgietis teigia, kad anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kit
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 171"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 171."
   citata_originali: |
     Anksčiau pažymėta, kad Stalupėnų, Darkiemio ir kitų vėlesnių
     apskričių lietuviai buvo nusiaubto krašto senųjų gyventojų palikuonys (Kurschat A., Zur

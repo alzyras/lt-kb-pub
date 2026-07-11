@@ -59,7 +59,7 @@ Narbutas nurodo, kad įrašas į Londono „Sylloge“ pateko per Čemberleno pe
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 446"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 446."
   citata_originali: |
     Gal būtų pradingus
     toji istorija, o kartu su ja ir tas brangus paminklas, jeigu ne mokslo

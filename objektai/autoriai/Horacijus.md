@@ -63,7 +63,7 @@ Narbutas mini Horacijaus 28-ąją odę kaip tekstą, kuriame kalbama apie filoso
 - id: c-173275
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Visa tai praverčia neži­
     nomo nelaimingojo vėlei nuraminti. Šis laužas, be abejo, gy­

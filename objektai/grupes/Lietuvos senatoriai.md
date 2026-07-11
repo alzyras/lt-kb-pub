@@ -80,7 +80,7 @@ Iš antrojo laiško, rašyto tik vienam Radvilai iš Torunės 1576 metų gruodž
 - id: c-82740
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     V-rae Aegestati aerarii totum id imputent [Tačiau, jeigu
     kas sienų saugumui atsitiktų, visa tai jūsų šviesybės priskirs

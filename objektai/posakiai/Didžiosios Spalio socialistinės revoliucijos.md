@@ -67,7 +67,7 @@ To tomo uždavinys yra parodyti, kaip «Didžiosios Spalio socialistinės revoli
 - id: c-33470
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet ji
     pasidaro pati reikšmingiausia lietuvių tautai. To tomo uždavinys

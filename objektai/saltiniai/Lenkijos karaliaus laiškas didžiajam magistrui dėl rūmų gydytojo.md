@@ -79,7 +79,7 @@ media_all_json: |-
 - id: c-84420
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     F o i g t a s savo Marienburgo miesto
     ir pilies istorijoje (Geschichte Marien-

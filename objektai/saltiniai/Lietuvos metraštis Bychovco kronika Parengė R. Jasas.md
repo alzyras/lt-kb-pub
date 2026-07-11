@@ -61,7 +61,7 @@ Dusburgietis teigia, kad lietuvos metraštis: Bychovco kronika / Parengė R.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 266"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
   citata_originali: |
     Lietuvos metraštis: Bychovco kronika / Parengė R. Jasas.— V., 1971.
   statusas: verified

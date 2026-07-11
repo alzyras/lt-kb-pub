@@ -75,7 +75,7 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 515"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 515."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 515."
   citata_originali: |
     Po to, beveik netrukdomi pasi­
     rengę lemiamam antpuoliui, iš arti visa jėga užgriuvo

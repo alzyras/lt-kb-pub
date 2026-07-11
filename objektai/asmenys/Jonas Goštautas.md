@@ -302,7 +302,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - id: c-169341
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Daugirdas, turėjęs galy-
     k u s
@@ -336,7 +336,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 478"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 478."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 478."
   citata_originali: |
     Neilgai džiaugėsi šiomis per­
     galėmis. Mat Jono Goštauto vedama kariuomenė jį iš­
@@ -355,7 +355,7 @@ o buvęs Kazimiero globėjas Jonas Goštautas (†1488) pasidarė opozicijos vad
 - id: c-176187
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     N e s ė k m in g a s  ž y g is  į
     P rūsiją

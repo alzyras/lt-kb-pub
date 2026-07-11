@@ -60,7 +60,7 @@ Paulius Varnefrydas, diako nas, rašantis apie langobardų praeitį, sako, kad p
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Kur tik buvo tos giminės žmonių, ten ma­
     tyta juos plačiai auginant linus. Paulius Varnefrydas, diako­

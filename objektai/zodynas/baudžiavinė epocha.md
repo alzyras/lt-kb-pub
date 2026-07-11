@@ -72,7 +72,7 @@ Uždrausdamas bajoro valstiečiams išsikelti, perduo­ damas juos ir teismo at�
 - id: c-34141
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Šalia stambiųjų didikų bei kunigaikš­
     čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį,

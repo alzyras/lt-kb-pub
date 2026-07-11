@@ -92,7 +92,7 @@ Liubavskij). Liubavskij, M.
 - id: c-33056
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     —
     Liubavskij, M. : _Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.,_
@@ -110,7 +110,7 @@ Liubavskij). Liubavskij, M.
 - id: c-33057
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Yra bandyta aiškinti, jog rusų kunigaikščiai esą XI-XII amž.
     tolimus ir sunkius karo žygius į Lietuvą darę ekonominiais sume­

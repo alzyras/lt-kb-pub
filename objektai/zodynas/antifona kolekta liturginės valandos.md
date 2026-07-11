@@ -73,7 +73,7 @@ Dusburgietis teigia, kad todėl tas pats brolis Zigfridas, magistras, nutarė, k
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 203"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 203."
   citata_originali: |
     Apie [giesmę] „Sveika, Marija“
 

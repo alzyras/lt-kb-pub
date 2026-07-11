@@ -103,7 +103,7 @@ Nenurodyta
 - id: c-10004
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Kad jau visi buvo susirinkę į vieną vietą ir rangūs prieš neprietelių traukti, tad pirma teiravos ir
         jautojos per savo žynius, arba kunigus, kokią laimę turėsiantys toje karėj, nesgi garbingą įprotį turėjo
@@ -122,7 +122,7 @@ Nenurodyta
 - id: c-10005
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Lygia dalia traukdami į karę kad išvydo žaltį, slenkantį per kelią, taip pat
         tarės laimėsiantys.

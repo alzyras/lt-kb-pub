@@ -75,7 +75,7 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
 - id: c-83878
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Ta­
     čiau 1484 metai tapo Vilniui ir visai Lietuvai dar labiau įsi­

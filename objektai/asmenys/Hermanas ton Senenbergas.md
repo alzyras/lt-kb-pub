@@ -65,7 +65,7 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 125"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 125."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 125."
   citata_originali: |
     Pirmiausia jie užpuolė Kulmo
     kraštą; kadangi ne tiek grobio troškimas, kaip baimės

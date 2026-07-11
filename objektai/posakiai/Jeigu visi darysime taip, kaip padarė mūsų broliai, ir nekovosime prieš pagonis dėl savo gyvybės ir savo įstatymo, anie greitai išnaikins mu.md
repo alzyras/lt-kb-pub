@@ -64,7 +64,7 @@ Dusburgietis teigia, kad o kitoje vietoje, kai žuvo tie, kurie susirado mirtį 
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 255"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 255."
   citata_originali: |
     Atsilyginkite savo priešams, ką jie užsipelnė”. O kitoje vietoje, kai žuvo
     tie, kurie susirado mirtį dėl savo patiklumo, nes nekovojo su priešais, vienas vyras

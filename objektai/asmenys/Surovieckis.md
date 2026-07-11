@@ -60,7 +60,7 @@ Teodoro Narbuto vertinimu, Surovieckis teisingai pastebėjo, kad senovės geogra
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 237"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 237."
   citata_originali: |
     Apie juos mes dar kalbėsime chro­
     nologine mūsų pasakojimo tvarka. Čia tik pateikiame

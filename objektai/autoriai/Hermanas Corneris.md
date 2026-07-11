@@ -96,7 +96,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - id: c-55544
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     4) Vėlesni kronikininkai: A 1 b.
     K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
@@ -113,7 +113,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 - id: c-55545
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Žr. Hermano C  o  r  neri o,
     dominikono, Kroniką, Naruševi­

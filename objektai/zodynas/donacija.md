@@ -67,7 +67,7 @@ Mindaugo pergamentai kryžiuočiams teteikė formalią teisę į jiems užrašyt
 - id: c-34147
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Betarpiškame ryšyje su Georgenburgo įkūrimu
     reikia sieti 1259-1260 m. žiemą Žiemgaloje pastatymą stiprios pilies

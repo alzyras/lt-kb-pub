@@ -246,7 +246,7 @@ Nenurodyta
 - id: c-84177
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Gi tuo laiku
     Viešpats Dievas savo apsilankymu ir prisilietimu netikėtai
@@ -305,7 +305,7 @@ Nenurodyta
 - id: c-84178
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Norėdami, kad šis mūsų valios pareiški­
     mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­
@@ -344,7 +344,7 @@ Nenurodyta
 - id: c-84179
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Tačiau į tai dėmesio nekreip­
     damas, dvaras primygtinai reikalavo penkių ketvirtadalių
@@ -388,7 +388,7 @@ Nenurodyta
 - id: c-84180
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Pareiškiame Jūsų Malonybei apie mus visus ištikusį ben­
     drą sielvartą, Viešpačiui leidus mūsų Respubliką palikti naš­

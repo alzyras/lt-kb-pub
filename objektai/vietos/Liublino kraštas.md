@@ -65,7 +65,7 @@ Po Liublino žemių nuniokojimo priešas siaubė Sandomiro kraštą.
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 134"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
   citata_originali: |
     Boleslovo Droviojo sos-
     (mat priešai dažniausiai pradeda karus, kai prie val­

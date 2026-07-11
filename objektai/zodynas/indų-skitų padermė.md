@@ -92,7 +92,7 @@ Tai Narbuto lyginamoji rasinė / etnologinė schema, o ne neutralus šiuolaikini
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 77"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 77."
   citata_originali: |
     Pirmykščiais laikais, esant vienai, t. y.
     kaukaziečių-europiečių tautų genčiai, kalbos skirtumai ne­

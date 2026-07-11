@@ -59,7 +59,7 @@ Teodoras Narbutas Kvidziną, arba Quidino, mini kaip Vyslos pasienio salą, vėl
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 356"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 356."
   citata_originali: |
     Tą patį įrodo ir vietovardžiai, kurie pietuose ir ry­
     tuose daugiausia yra senovės prūsų, o šiaurėje — beveik

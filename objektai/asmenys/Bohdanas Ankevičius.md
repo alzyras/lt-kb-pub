@@ -66,7 +66,7 @@ List Radzcy Wileńskomu Bohdanu Onkieiviczu, na wybranie jemu winnych peneźy z 
 - id: c-83614
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     List Radzcy Wileńskomu Bohdanu On-
     kieiviczu, na wybranie jemu winnych

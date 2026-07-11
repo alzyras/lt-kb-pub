@@ -59,7 +59,7 @@ Teodoras Narbutas spėjo, kad Uppeleela buvo miestas prie nežinomos upės, galb
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 288"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 288."
   citata_originali: |
     Tačiau, nepaisant latviško pavadinimo,
     ši upė, tiesą sakant, šiandien mums nežinoma, bet ma­

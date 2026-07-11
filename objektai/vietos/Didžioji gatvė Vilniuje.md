@@ -73,7 +73,7 @@ Pisan w miestie Wileńskom, roku 1507 dnia Igo Maja [Kuris stovėjo Vilniaus mie
 - id: c-177466
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Przedający
     przyciskają pieczęc ojca swego. Pisan w

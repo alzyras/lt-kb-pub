@@ -65,7 +65,7 @@ Kol ieškojo valčių ir plaustų, iš kurių ketino pastatyti tiltą pėstinink
 - id: c-176165
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Ostrogiškis, ryžtingai jį persekio­
     damas, pirmiausia patraukė į Oršą, ketindamas ten

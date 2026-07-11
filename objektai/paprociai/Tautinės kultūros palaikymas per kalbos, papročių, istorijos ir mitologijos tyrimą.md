@@ -87,7 +87,7 @@ Nenurodyta.
 - id: c-170783
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Šviesiausi Lenkijos ir
     Lietuvos protai suvokė, kad dar ne viskas prarasta ir, gelbstint

@@ -71,7 +71,7 @@ Anglijos istori­ joje yra išlikusių pėdsakų, kad anuomet žymus tos tautos 
 - id: c-83887
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     86
     Vytautui nebuvo svetimi ir moks­

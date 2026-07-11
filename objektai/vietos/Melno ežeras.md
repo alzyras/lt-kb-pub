@@ -115,7 +115,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - id: c-68206
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Kryžiuočiams laikantis savo, kunigaikštis suti­
     ko «taikos labui » (« propter bonum pacis ») atsisakyti nuo Klai­

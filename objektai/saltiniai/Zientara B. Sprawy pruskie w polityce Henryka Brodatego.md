@@ -62,7 +62,7 @@ Dusburgietis teigia, kad zientara B.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 274"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
   citata_originali: |
     Zientara B. Sprawy pruskie w polityce Henryka Brodatego.— ZHPB, Warszawa—
     Poznań—Toruń, 1976, t. 41, z. 4, s. 27—42.

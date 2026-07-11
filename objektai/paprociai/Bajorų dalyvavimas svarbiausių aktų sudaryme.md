@@ -183,7 +183,7 @@ Nenurodyta
 - id: c-05408
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Vilniaus susitarimuose (1401) pirmą kartą Lietuvos ir Lenkijos
     unijų istorijoje buvo surašytas Lietuvos bajorų aktas. Ten mini­

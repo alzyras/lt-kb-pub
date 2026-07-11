@@ -66,7 +66,7 @@ Koppebs.
 - id: c-33097
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Juan Lasicki’s Samogitian Gods,_ Studi Bal-
     tici, IX, 1952, 65-106 p. (kritiškas išaiškinimas «dievais » laikytų žo­

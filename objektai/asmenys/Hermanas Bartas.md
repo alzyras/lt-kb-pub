@@ -75,7 +75,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 40"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
   citata_originali: |
     4. Apie brolį Hermaną, trečią magistrą
 

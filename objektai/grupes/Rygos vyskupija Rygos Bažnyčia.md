@@ -74,7 +74,7 @@ Pirmiausia kalbėjęs arkivyskupas savo skundą kryžiuo­ čiais trumpai užbai
 - id: c-82763
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Italų kalbos mokėjimas leido jam sakyti kalbą be vertė­
     jo, tad jis, stojęs prieš popiežių ir kardinolus, kalbėjo taip iškal­

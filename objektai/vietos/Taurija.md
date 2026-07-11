@@ -80,7 +80,7 @@ media_all_json: |-
 - id: c-82221
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Rašyta Vilniu­
     je liepos 5 dieną, 2-me indikte, su

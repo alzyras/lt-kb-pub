@@ -62,7 +62,7 @@ O jeigu koks žirgas pas žydą pasirodytų vogtas ir pas kokį krikš­ čionį
 - id: c-82832
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     O jeigu jo liudininkai minėti ir jo
     nekaltumą atskleistų, krikščionis bausmę, kurią turėjo žy­

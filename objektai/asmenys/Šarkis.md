@@ -61,7 +61,7 @@ Narbutas Šarkį apibūdina kaip galingą ir narsų karžygį, gyvenusį Sarkais
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 369"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 369."
   citata_originali: |
     Ponas Foigtas rado Berlyno rankraštyje vietovardį
     Raganita, ir tai žinomas pats tikriausias pavadinimas, nes

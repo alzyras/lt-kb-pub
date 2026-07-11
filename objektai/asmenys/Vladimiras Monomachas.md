@@ -69,7 +69,7 @@ Tik 1101 metais Vladimiras Monomachas laimėjo didelę pergalę prieš polovieč
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 106"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 106."
   citata_originali: |
     Ne sy­
     kį jie buvo smarkiai sutriuškinti, tačiau nebuvo taip pa­

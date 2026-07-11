@@ -60,7 +60,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 - id: c-09672
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     šiandien dar lenkai tyčiodamies sako: „Licwiaki bocwiaki“ – lietuvėliai batvinėliai – iš apmaudo, jog niekados negalėjo jų nuveikti; kartais, ir užmušę lietuvį, nieko pas jį nerado, kaip batvinių maišelį, bet, ir tą patį lig jam atimant, reikėjo pirma dvi tris žmogaus galvas padėti.
   statusas: verified

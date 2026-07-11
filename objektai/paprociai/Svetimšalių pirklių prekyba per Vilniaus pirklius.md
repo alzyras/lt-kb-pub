@@ -158,7 +158,7 @@ Nenurodyta
 - id: c-83281
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Maskvos, totorių ir valakų
     pirkliai, kaskart vis gausiau atvykstantys į Vilnių, išskyrus

@@ -116,7 +116,7 @@ Bet Ho­ rodlės unija šį klausimą, kaip žinom, nutyli; buvo tik pripažinta
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 542"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 542."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 542."
   citata_originali: |
     Antra vertus, Jono
     valdingas būdas ir nesėkmingi jo žygiai Vengrijoje

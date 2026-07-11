@@ -96,7 +96,7 @@ terminas pateiktas tik viename sakinyje, todėl viešame įraše reikės aiškia
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 279"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 279."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 279."
   citata_originali: |
     Nuo deši­
     niosios Nemuno pakrantės kiek aukščiau Ratnyčios upės

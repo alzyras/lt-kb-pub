@@ -67,7 +67,7 @@ Dusburgietis teigia, kad hollack E.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
   citata_originali: |
     Hollack E. Erläuterungen zur vorgeschichtlichen Übersichtskarte von Ostpreussen.—
     Glogau—Berlin, 1908.

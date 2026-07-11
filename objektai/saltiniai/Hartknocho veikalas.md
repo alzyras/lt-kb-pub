@@ -64,7 +64,7 @@ Hartknocho veikalas pateikė lietuvių kalbos, vartotos Prūsijoje Nemuno žemup
 - id: c-173374
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Musa dieniszku mausu dod mums szoden, unpedod muns
     musu paradus, ka mes pedodam musum paradukam; un ne wed

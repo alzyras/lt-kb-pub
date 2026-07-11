@@ -65,7 +65,7 @@ Dusburgietis teigia, kad jäger E.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 264"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 264."
   citata_originali: |
     Jäger E. Prussia-Karten. 1542—1810: Geschichte der kartographischen Darstellung
     Ostpreußens vom 16. bis zum 19. Jahrhundert —A. H. Konrad Verlag, 1982.

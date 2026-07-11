@@ -80,7 +80,7 @@ media_all_json: |-
 - id: c-31442
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Bet savo politiniame veikime Vytautas nepriklausė
     tokiems, kurie nuo savo linijos nuolaidžiai trauktųsi. Tai rodo jo

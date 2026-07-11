@@ -113,7 +113,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 363"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 363."
   citata_originali: |
     Raite­
     liai nuo tam tikros vietos leidžiasi lenktynių stulpelio link; tas,
@@ -133,7 +133,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 367"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 367."
   citata_originali: |
     Apie tai bus straipsnyje „Kapai“.
     Pirmiau, straipsnyje „Kabirai“, sakėme, kad kai kurios lie­
@@ -149,7 +149,7 @@ Narbutas raitelių lenktynes prie laidotuvių vietos laikė triznos papročio da
 - id: c-172071
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     368
 

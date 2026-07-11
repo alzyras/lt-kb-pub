@@ -70,7 +70,7 @@ Narbutas aiškina, kad kronikininkų tyla apie krivį nestebina, nes krivio veik
 - id: c-172042
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
   citata_originali: |
     Ar svetimšalis, prekiaudamas krašte, matydavo
     vyriausiąjį žynį, kuris net tautiečiams retai pasirodydavo, o nuo­

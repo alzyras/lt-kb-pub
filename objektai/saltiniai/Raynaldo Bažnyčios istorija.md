@@ -67,7 +67,7 @@ Pagaliau Raynoldo Bažny­ čios istorija ir paskesni vėliau Lietu­ voje vieš
 - id: c-84307
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Juk jei ir būtų Rygos
     arkivyskupas išsiuntinėjęs tuos laiš­

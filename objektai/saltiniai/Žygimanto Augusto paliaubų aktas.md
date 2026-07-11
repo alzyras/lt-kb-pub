@@ -77,7 +77,7 @@ Kojelavičiaus vertinimu, Žygimanto Augusto paliaubų aktas galutinai pakirto L
 - id: c-169710
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
   citata_originali: |
     Užėmęs
     miestą, Vasiljevičius įsakė aikštėje nukirsdinti tris šim­

@@ -65,7 +65,7 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 - id: c-32940
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     _Pagoniškųjų laidojimo papročių nykimas rytų Lietuvoje),_ AkMD, t. 48,
     1974, 77-90 p. ; (2. _Pagonybės liekanos Pakalniškiuose XVI-XVII am­

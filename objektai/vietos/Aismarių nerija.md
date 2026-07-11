@@ -93,7 +93,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 298"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
   citata_originali: |
     Aismarės (Vulfstano Estmere; vėliau Frische Haff, Vyslos įlanka) (žr. Gėlo vandens
     marios)
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 298"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 298."
   citata_originali: |
     Abenda (žr. Pabečiai)
       Achenas

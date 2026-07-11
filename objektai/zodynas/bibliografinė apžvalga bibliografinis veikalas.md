@@ -66,7 +66,7 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
 - id: c-34145
   autorius: "Zenonas Ivinskis"
   šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
-  indeksas: "Zenonas Ivinskis, Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
   citata_originali: |
     Varšuvoje išleistoji**
     **_Bibliografia Historii Polski_** **kiek mažiau dėmesio beparodo Lietuvos istorijai.

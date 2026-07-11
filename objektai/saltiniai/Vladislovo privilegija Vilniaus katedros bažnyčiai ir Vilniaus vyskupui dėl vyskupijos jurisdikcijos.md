@@ -71,7 +71,7 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
 - id: c-84331
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     ## Puslapis 455
 

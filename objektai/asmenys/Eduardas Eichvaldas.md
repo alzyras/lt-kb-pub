@@ -109,7 +109,7 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 57"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 57."
   citata_originali: |
     Ko
     gero, remdami Skitijos kolonistus graikus, persai palaikė
@@ -143,7 +143,7 @@ Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, His
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 410"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 410."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 410."
   citata_originali: |
     — Išnaša, kuria autorius papildė paragrafą, reng­
     damas antrąjį leidimą (PEĮ. P. 32—33). T.

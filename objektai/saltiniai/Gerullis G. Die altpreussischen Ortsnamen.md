@@ -62,7 +62,7 @@ Dusburgietis teigia, kad gerullis G.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 263"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
   citata_originali: |
     Gerullis G. Die altpreussischen Ortsnamen — Berlin—Leipzig, 1922.
       Gierszewski S. Elbląg: Przeszłość i teraźniejszość.— Gdańsk, 1970.

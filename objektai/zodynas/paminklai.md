@@ -183,7 +183,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 29"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Buvo sudaužytos gimtųjų dievų statulos, su­
     griautos šventyklos, iškirsti šventieji šilai, įvesta kita
@@ -212,7 +212,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 29"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 29."
   citata_originali: |
     Ginkluoti krikštyto­
     jai, turėdami laukines širdis ir atlikdami baisius darbus,
@@ -241,7 +241,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Tačiau jis nesuskubo įgyvendin­
     ti visų savo ketinimų. Iš tikrųjų jis negailėjo darbo, bet
@@ -260,7 +260,7 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 30"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 30."
   citata_originali: |
     Iš tikrųjų jis negailėjo darbo, bet
     nemokėjo juo laimingai naudotis. Prūsų kronikininkai pa­

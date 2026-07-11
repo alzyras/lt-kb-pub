@@ -75,7 +75,7 @@ Nenurodyta
 - id: c-56399
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Pas
         neturtinguosius toje duoboj pėrės, nesgi ant kakalio buvo krosnis^ sukrauta. Pitėjas, garsus

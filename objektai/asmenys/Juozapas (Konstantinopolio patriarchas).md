@@ -82,7 +82,7 @@ Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 537"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
   citata_originali: |
     Beje, d a r vienas dalykas užgavo jiems širdis:
     k a raliu s mat buvo išleidęs

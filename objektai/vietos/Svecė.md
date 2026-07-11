@@ -59,7 +59,7 @@ Prie Bidgoščiaus kariuomenė gavo žinią, kad kryžiuočių pulkai artėja pr
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 372"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
   citata_originali: |
     Prie Radzejovo susijungusi kariuomenė pa­
     traukė link Bidgoščiaus. Ten jie gavo žinią, kad kryžiuo­

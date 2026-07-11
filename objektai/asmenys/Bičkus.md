@@ -65,7 +65,7 @@ Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko pieš
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 404"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 404."
   citata_originali: |
     Gal tai fetišas Regie-
     ziowan, kurį Lasickis priskiria Kęsgailų giminei.

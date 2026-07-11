@@ -63,7 +63,7 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 - id: c-10074
   autorius: "Simonas Daukantas"
   šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
-  indeksas: "Simonas Daukantas, Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
   citata_originali: |
     Čia gana bus tiktai priminti narsybę Naujapilės Lotriškųjų. Kad metuose 1276 meldžionų vokiečiai, gudai ir Lotoriai susitarę visą Lietuvą ir Žemaičius taip nusiaubė, jog plėnys vienos ant degėsių tyruose jau lakstė, vienok, ir tuo dar nesikakindami, norėjo į Naujapilę įsilaužti, bet tenai motriškosios,
         nenusiminusios ta rūsta diena savo ūkės, artinantis neprieteliams pilin, liepė savo vyrams iš pilies

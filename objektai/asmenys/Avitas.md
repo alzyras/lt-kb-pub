@@ -63,7 +63,7 @@ Narbutas Avitą vaizduoja kaip visigotų išrinktą imperatorių, kuris 457 m., 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 312"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 312."
   citata_originali: |
     315
     Dabar panagrinėkime tai, kaip sekėsi romėnams Va­

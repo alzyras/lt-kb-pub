@@ -82,7 +82,7 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 266"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 266."
   citata_originali: |
     Natangija (Natangia). Mokslininkai tyrinėtojai nesu­
     taria dėl šio pavadinimo kilmės; manoma, kad tai reiš­

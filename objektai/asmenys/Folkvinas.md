@@ -75,7 +75,7 @@ Dusburgietis teigia, kad kaip Teutonų namų ordino broliams atiteko Livonijos �
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 82"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
   citata_originali: |
     Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
 

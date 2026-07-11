@@ -68,7 +68,7 @@ Mikalojus Radvila ir Eustachijus Valavičius laiške Maskvos didikams pareiškė
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 703"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 703."
   citata_originali: |
     Štai dėl to jis ir prašąs, kad, paisydamas
     paliaubų, kurios ligi šiol išsaugojo tarp jų šalių san­

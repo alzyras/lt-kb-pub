@@ -81,7 +81,7 @@ Dusburgietis teigia, kad baiga) Vurungenas Zalca Zalfeldas Zangershauzenas Zelio
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 322"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
   citata_originali: |
     Vištytis, miestelis
     Vitchendorfas, k. Saksonijoje

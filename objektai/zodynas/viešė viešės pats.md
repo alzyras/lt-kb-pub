@@ -63,7 +63,7 @@ Dusburgietis teigia, kad kunigaikštis valdė keletą ar daugiau kaimų, ten tur
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 68"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
   citata_originali: |
     Kunigaikštis valdė keletą ar daugiau kaimų, ten turėjo savo šeimynos žmonių (vergų
     ir baudžiauninkų), be to, jis dar buvo ir viešės (žemdirbių gyvenvietės) valdovas (viešės

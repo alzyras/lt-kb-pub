@@ -64,7 +64,7 @@ Stanislovo Sarnickio veikalas „Annales, sive de origine et rebus gestis Polono
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 496"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 496."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 496."
   citata_originali: |
     P. 269** -  Turimas omenyje Stanislovo Sarnickio (1532-1597)
     veikalas (Stanislai Sarnicii. Annales, sive de origi-

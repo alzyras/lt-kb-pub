@@ -61,7 +61,7 @@ Antro LTI tomo parankiniame egzemplioriuje suskaičiuota apie tris šimtus patie
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 13"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 13."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 13."
   citata_originali: |
     Ta1-
     čiau likimas lėmė, jog išliko darbinis, vadinamasis pa­

@@ -69,7 +69,7 @@ Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino k
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 273."
   citata_originali: |
     Maldyklą panaikino apie 1331 metus, įsakius Julijonai, Vitebs­
     ko kunigaikščio dukteriai, šlovingo ir švento atminimo valdo­

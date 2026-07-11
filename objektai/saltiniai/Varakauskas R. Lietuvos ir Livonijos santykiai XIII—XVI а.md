@@ -63,7 +63,7 @@ Dusburgietis teigia, kad varakauskas R.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 273"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
   citata_originali: |
     Varakauskas R. Lietuvos ir Livonijos santykiai XIII—XVI а.—V., 1982.
       Wattenbach W. Deutschlands Geschichtsquellen im Mittelalter bis zur Mitte des

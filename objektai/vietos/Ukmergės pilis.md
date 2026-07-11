@@ -63,7 +63,7 @@ Kelias suko į šiaurės pusę, kelto per Viliją link, nuo ten, išsišakojęs 
 - id: c-82088
   autorius: "Michał Baliński"
   šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
-  indeksas: "Michał Baliński, Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
   citata_originali: |
     Iš Žemutinės pilies vakarinių var­
     tų vedė kelias per du tiltus, nutiestus per Vilnios upę ir Ving­

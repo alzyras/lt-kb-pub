@@ -61,7 +61,7 @@ Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona 
   autorius: "Albertas Vijūkas-Kojelavičius"
   šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
   puslapiai: "PDF 548"
-  indeksas: "Albertas Vijūkas-Kojelavičius, Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 548."
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 548."
   citata_originali: |
     Ko pasiekė ši pasiuntinybė, metraštininkai ne­
     sako. Tačiau pasklidę gandai apie Krymo chano Meng-

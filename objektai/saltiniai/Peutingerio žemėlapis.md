@@ -57,7 +57,7 @@ Narbutas rašo, kad Peutingerio žemėlapis prie Juodosios jūros buvusią antų
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 96"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 96."
   citata_originali: |
     Italijoje būta venetų prie
     Adrijos jūros; jie kildinami iš trojėnų1. Prie Juodosios

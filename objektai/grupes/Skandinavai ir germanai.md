@@ -58,7 +58,7 @@ Narbutas rašo, kad skandinavai ir germanai alų vadino Ael arba Al, o prūsai, 
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 307"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
   citata_originali: |
     Iš tikrųjų turime įrody­
     mų, kad mūsų šiaurės šalių gyventojai alaus darymo būdą ži­

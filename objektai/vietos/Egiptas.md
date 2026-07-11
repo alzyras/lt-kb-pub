@@ -127,7 +127,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
   puslapiai: "PDF 170"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 170."
   citata_originali: |
     Apie tai
     žiūrėk straipsnyje „Vaižganto šventė“.
@@ -147,7 +147,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
 - id: c-175424
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)."
   citata_originali: |
     Kadangi tie kolchai turėjo santykių su egiptiečiais ar
     priiminėjo juos, jų kolonijų ar tik pastatyto miesto ar
@@ -171,7 +171,7 @@ Narbutas liną siejo su laukiniu augimu Egipte ir teigė, kad Lietuvos žemė ta
   autorius: "Teodoras Narbutas"
   šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
   puslapiai: "PDF 149"
-  indeksas: "Teodoras Narbutas, Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 149."
   citata_originali: |
     Seniau į
     daugelį vaistų būdavo dedama skysto gintaro medžiagų,

@@ -58,7 +58,7 @@ Dusburgietis teigia, kad atlanto vandenynas Atmata, u.
   autorius: "Petras Dusburgietis"
   šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
   puslapiai: "PDF 299"
-  indeksas: "Petras Dusburgietis, Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 299."
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 299."
   citata_originali: |
     Ašvena, u.
     Atlanto vandenynas
