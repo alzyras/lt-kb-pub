@@ -1,5 +1,9 @@
-const SITE_LANGUAGES = ["lt", "en", "pl", "lv", "et", "be", "ru", "uk", "de", "yi", "he"] as const
-type SiteLanguage = (typeof SITE_LANGUAGES)[number]
+import {
+  isSiteLanguage,
+  localizedUrl,
+  resolvePreferredLanguage,
+  type SiteLanguage,
+} from "./google-translate-state"
 
 const LANGUAGE_NAMES: Record<SiteLanguage, string> = {
   lt: "lietuvių",
@@ -20,40 +24,31 @@ const TRANSLATE_SCRIPT_ID = "google-translate-script"
 const TRANSLATE_SCRIPT_URL =
   "https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"
 const RETRY_DELAYS = [0, 100, 250, 500, 1000, 2000]
+let activeApplyRequest = 0
+let activeLanguage: SiteLanguage = "lt"
 
 function translateRoot() {
   return document.querySelector<HTMLElement>("[data-google-translate]")
-}
-
-function isSiteLanguage(language: string | null): language is SiteLanguage {
-  return SITE_LANGUAGES.includes(language as SiteLanguage)
 }
 
 function widgetLanguage(language: SiteLanguage): string {
   return language === "he" ? "iw" : language
 }
 
-function preferredLanguage(): SiteLanguage {
-  const urlLanguage = new URLSearchParams(window.location.search).get("lang")
-  if (isSiteLanguage(urlLanguage)) return urlLanguage
-
+function storedLanguage(): string | null {
   try {
-    const storedLanguage = localStorage.getItem(TRANSLATE_STORAGE_KEY)
-    return isSiteLanguage(storedLanguage) ? storedLanguage : "lt"
+    return localStorage.getItem(TRANSLATE_STORAGE_KEY)
   } catch {
-    return "lt"
+    return null
   }
 }
 
-function syncLanguageUrl(language: SiteLanguage) {
-  const url = new URL(window.location.href)
-  if (language !== "lt") {
-    url.searchParams.set("lang", language)
-  } else {
-    url.searchParams.delete("lang")
-  }
+function preferredLanguage() {
+  return resolvePreferredLanguage(window.location.search, storedLanguage())
+}
 
-  const nextUrl = `${url.pathname}${url.search}${url.hash}`
+function syncLanguageUrl(language: SiteLanguage) {
+  const nextUrl = localizedUrl(window.location.href, language)
   const currentUrl = `${window.location.pathname}${window.location.search}${window.location.hash}`
   if (nextUrl !== currentUrl) {
     window.history.replaceState(window.history.state, "", nextUrl)
@@ -69,16 +64,20 @@ function rememberLanguage(language: SiteLanguage) {
 }
 
 function setTranslationCookie(language: SiteLanguage) {
+  const domainCookie =
+    window.location.hostname === "lietuvosistorija.eu" ||
+    window.location.hostname.endsWith(".lietuvosistorija.eu")
+
   if (language !== "lt") {
-    document.cookie = `googtrans=/lt/${widgetLanguage(language)}; path=/; SameSite=Lax`
+    const cookie = `googtrans=/lt/${widgetLanguage(language)}; path=/; SameSite=Lax`
+    document.cookie = cookie
+    if (domainCookie) document.cookie = `${cookie}; domain=.lietuvosistorija.eu`
     return
   }
 
   const expired = "googtrans=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/"
   document.cookie = expired
-  if (window.location.hostname) {
-    document.cookie = `${expired}; domain=${window.location.hostname}`
-  }
+  if (domainCookie) document.cookie = `${expired}; domain=.lietuvosistorija.eu`
 }
 
 function updateControls(language: SiteLanguage, unavailable = false) {
@@ -107,7 +106,9 @@ function widgetSelect() {
   return document.querySelector<HTMLSelectElement>(".goog-te-combo")
 }
 
-function applyLanguage(language: SiteLanguage, attempt = 0) {
+function applyLanguage(language: SiteLanguage, attempt = 0, request = activeApplyRequest) {
+  if (request !== activeApplyRequest) return
+
   updateControls(language)
   document.documentElement.lang = language
   setTranslationCookie(language)
@@ -125,8 +126,14 @@ function applyLanguage(language: SiteLanguage, attempt = 0) {
 
   const nextDelay = RETRY_DELAYS[attempt]
   if (nextDelay !== undefined) {
-    window.setTimeout(() => applyLanguage(language, attempt + 1), nextDelay)
+    window.setTimeout(() => applyLanguage(language, attempt + 1, request), nextDelay)
   }
+}
+
+function requestLanguage(language: SiteLanguage) {
+  activeLanguage = language
+  activeApplyRequest += 1
+  applyLanguage(language, 0, activeApplyRequest)
 }
 
 function selectLanguage(language: SiteLanguage) {
@@ -141,7 +148,7 @@ function selectLanguage(language: SiteLanguage) {
     return
   }
 
-  applyLanguage(language)
+  requestLanguage(language)
 }
 
 function initializeGoogleWidget() {
@@ -172,7 +179,7 @@ function initializeGoogleWidget() {
     "google_translate_element",
   )
   root.dataset.widgetReady = "true"
-  applyLanguage(preferredLanguage())
+  requestLanguage(activeLanguage)
 }
 
 function loadGoogleTranslate() {
@@ -198,7 +205,9 @@ function setupGoogleTranslate() {
   const root = translateRoot()
   if (!root) return
 
-  const language = preferredLanguage()
+  const preference = preferredLanguage()
+  const language = preference.language
+  if (preference.fromUrl) rememberLanguage(language)
   updateControls(language)
 
   if (!document.documentElement.dataset.translateControlsBound) {
@@ -214,7 +223,7 @@ function setupGoogleTranslate() {
   }
 
   loadGoogleTranslate()
-  applyLanguage(language)
+  requestLanguage(language)
 }
 
 document.addEventListener("DOMContentLoaded", setupGoogleTranslate)
