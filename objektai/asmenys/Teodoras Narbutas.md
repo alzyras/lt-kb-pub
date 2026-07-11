@@ -727,7 +727,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
-  patikimumo_saltinis: tiesioginė-citata
+  patikimumo_saltinis: ai
   pagrindžia:
     - t-010
 

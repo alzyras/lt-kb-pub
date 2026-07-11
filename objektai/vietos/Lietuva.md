@@ -15097,7 +15097,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     plaikos kilo mitologija, kurią imamės išdėstyti.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15303,7 +15303,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     Pietų Lietuvos.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15365,7 +15365,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     mę*.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15409,7 +15409,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     laikė juos veikiau stabmeldžiais negu krikščionimis“.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15433,7 +15433,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     buvo žinomos, išdėstėme anksčiau įvairiuose straipsniuose.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15461,7 +15461,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     paplisti Lietuvoje, ir gausėjo krikščionybės išpažinėjų.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -15485,7 +15485,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     liau Žemaitijoje.
   citata_rodoma: ''
   statusas: verified
-  teiginio_tipas: saltinio_teiginys
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
