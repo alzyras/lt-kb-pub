@@ -7,6 +7,11 @@ import {
   parseEvidenceSections,
   type EvidenceEntry,
 } from "../util/citationFilter"
+import {
+  selectHomeCollectionCandidates,
+  type HomeCollectionCandidate,
+} from "../util/homeCollectionSelection"
+import { cleanText, displayCaption, objectMediaSet, type MediaEntry } from "../util/objectMedia"
 import { FullSlug, resolveRelative } from "../util/path"
 import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
@@ -32,6 +37,12 @@ type ObjectCard = {
   relationCount: number
   summary: string
 }
+
+type MediaObjectCard = ObjectCard &
+  HomeCollectionCandidate & {
+    image: MediaEntry
+    imageAlt: string
+  }
 
 type SpotlightClaim = {
   id: string
@@ -439,35 +450,77 @@ function countByType(allFiles: QuartzPluginData[]): Map<string, number> {
   return counts
 }
 
-function topCards(cards: ObjectCard[], limit: number): ObjectCard[] {
-  const score = (card: ObjectCard) => card.claimCount * 2 + card.quoteCount * 3 + card.relationCount
-  const ranked = [...cards].sort(
-    (a, b) => score(b) - score(a) || a.title.localeCompare(b.title, "lt"),
-  )
-  const selected: ObjectCard[] = []
-  const typeUse = new Map<string, number>()
+function mediaIdentity(entry: MediaEntry): string {
+  return cleanText(entry.mediaId) || cleanText(entry.sourceUrl) || cleanText(entry.thumbUrl)
+}
 
-  for (const card of ranked) {
-    if ((typeUse.get(card.type) ?? 0) >= 2) {
-      continue
-    }
-    selected.push(card)
-    typeUse.set(card.type, (typeUse.get(card.type) ?? 0) + 1)
-    if (selected.length >= limit) {
-      return selected
-    }
-  }
+function mediaUrl(entry: MediaEntry): string {
+  return cleanText(entry.thumbUrl) || cleanText(entry.sourceUrl)
+}
 
-  for (const card of ranked) {
-    if (!selected.includes(card)) {
-      selected.push(card)
-    }
-    if (selected.length >= limit) {
-      return selected
-    }
-  }
+function preferredDirectMedia(page: QuartzPluginData): MediaEntry | undefined {
+  const media = objectMediaSet(page.frontmatter)
+  const primaryId = mediaIdentity(media.primary ?? {})
+  const candidates = [media.primary, ...media.direct]
+    .filter((entry): entry is MediaEntry => Boolean(entry))
+    .filter(
+      (entry) =>
+        entry.reviewStatus === "accepted" && entry.directness === "direct" && mediaUrl(entry),
+    )
 
-  return selected
+  return [...new Map(candidates.map((entry) => [mediaIdentity(entry), entry])).values()].sort(
+    (a, b) => {
+      const primaryDifference =
+        Number(mediaIdentity(b) === primaryId) - Number(mediaIdentity(a) === primaryId)
+      if (primaryDifference) return primaryDifference
+      const markedDifference = Number(b.isPrimary ?? 0) - Number(a.isPrimary ?? 0)
+      if (markedDifference) return markedDifference
+      const confidenceDifference = Number(b.confidence ?? 0) - Number(a.confidence ?? 0)
+      if (confidenceDifference) return confidenceDifference
+      return (
+        Number(b.width ?? 0) * Number(b.height ?? 0) - Number(a.width ?? 0) * Number(a.height ?? 0)
+      )
+    },
+  )[0]
+}
+
+function mediaCards(
+  allFiles: QuartzPluginData[],
+  cards: ObjectCard[],
+  limit: number,
+): MediaObjectCard[] {
+  const cardsBySlug = new Map(cards.map((card) => [card.slug, card]))
+  const candidates = allFiles
+    .filter(isObjectPage)
+    .map((page): MediaObjectCard | undefined => {
+      const slug = page.slug as FullSlug
+      const card = cardsBySlug.get(slug)
+      const image = preferredDirectMedia(page)
+      if (!card || !image) return undefined
+
+      const imageKey = mediaIdentity(image)
+      const imageUrl = mediaUrl(image)
+      const contentRank = card.claimCount * 2 + card.quoteCount * 3 + card.relationCount
+      const imageRank =
+        Number(image.isPrimary ?? 0) * 5_000 +
+        Number(image.confidence ?? 0) * 1_000 +
+        Math.min(Number(image.width ?? 0) * Number(image.height ?? 0), 12_000_000) / 100_000
+
+      return {
+        ...card,
+        slug,
+        image,
+        imageKey,
+        imageUrl,
+        imageAlt: displayCaption(image),
+        reviewStatus: cleanText(image.reviewStatus),
+        directness: cleanText(image.directness),
+        rank: imageRank + contentRank,
+      }
+    })
+    .filter((card): card is MediaObjectCard => Boolean(card))
+
+  return selectHomeCollectionCandidates(candidates, limit)
 }
 
 function linkFromPage(page: QuartzPluginData, meta?: string): BrowseLink {
@@ -586,19 +639,10 @@ function browseGroups(
   return groups.filter((group) => group.links.length > 0)
 }
 
-function sourceCards(cards: ObjectCard[], limit: number): ObjectCard[] {
-  return [...cards]
-    .filter((card) => card.type === "saltinis")
-    .sort((a, b) => b.quoteCount + b.claimCount - (a.quoteCount + a.claimCount))
-    .slice(0, limit)
-}
-
 const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponentProps) => {
   const typeCounts = countByType(allFiles)
   const cards = objectCards(allFiles)
-  const highlights = topCards(cards, 9)
-  const [featuredHighlight, ...secondaryHighlights] = highlights
-  const sources = sourceCards(cards, 4)
+  const highlights = mediaCards(allFiles, cards, 8)
   const groups = browseGroups(allFiles, typeCounts)
   const spotlight = spotlightObjects(allFiles)
   const objectTotal = [...typeCounts.values()].reduce((sum, count) => sum + count, 0)
@@ -766,16 +810,36 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
       </section>
 
       <section class="collection-about-band" aria-labelledby="collection-about-title">
-        <div class="collection-about-copy">
+        <div class="collection-about-intro">
           <p class="collection-kicker">Apie svetainę</p>
           <h2 id="collection-about-title" class="collection-about-brand-title">
             <BrandLockup showTagline />
           </h2>
-          <p>
-            Čia asmenys, vietos, įvykiai, šaltiniai, temos ir laikotarpiai sujungti per teiginius,
-            citatas ir ryšius. Pradėk nuo objekto arba paieškos, atsiversk jo teiginius, patikrink
-            citavimo kontekstą ir toliau sek susijusias temas, laikotarpius arba ryšių žemėlapį.
-          </p>
+        </div>
+        <div class="collection-about-methodology">
+          <article>
+            <h3>Metodas</h3>
+            <p>
+              Istorijos šaltiniai skaidomi į atskirus teiginius. Jie siejami su citatomis,
+              asmenimis, vietomis, įvykiais, temomis ir laikotarpiais, išsaugant kelią atgal į
+              pirminį šaltinį ir jo kontekstą.
+            </p>
+          </article>
+          <article>
+            <h3>Klaidos ir auditas</h3>
+            <p>
+              Automatinio apdorojimo, vardų sutapatinimo, datavimo ar interpretavimo klaidų gali
+              pasitaikyti. Todėl tikrinama citatų aprėptis, dublikatai, dviprasmės tapatybės,
+              objektų ryšiai ir vaizdų atitikimas.
+            </p>
+          </article>
+          <article>
+            <h3>Nuolatinis darbas</h3>
+            <p>
+              Audituose rasti netikslumai taisomi, įrašai papildomai pagrindžiami ir peržiūrimi iš
+              naujo. Kolekcija nėra baigtinis leidinys: ji nuolat pildoma, tikslinama ir tobulinama.
+            </p>
+          </article>
         </div>
         <nav class="collection-about-actions" aria-label="Pradėti naršyti">
           <a href={resolveRelative(currentSlug, "objektai" as FullSlug)}>Objektai</a>
@@ -794,80 +858,32 @@ const HomeCollection: QuartzComponent = ({ fileData, allFiles }: QuartzComponent
           <div>
             <h2 id="collection-highlights-title">Objektai, nuo kurių verta pradėti</h2>
             <p class="collection-section-lead">
-              Atrinkta pagal teiginių, citatų ir tiesioginių ryšių kiekį, paliekant skirtingus
-              objektų tipus.
+              Skirtingi kolekcijos keliai per asmenis, vietas, grupes, autorius ir šaltinius.
             </p>
           </div>
         </div>
-        {featuredHighlight && (
-          <div class="collection-featured-object-grid">
+        <div class="collection-object-mosaic">
+          {highlights.map((card, index) => (
             <a
-              class="collection-featured-object"
-              href={resolveRelative(currentSlug, featuredHighlight.slug)}
+              class={`collection-object-tile${index === 0 ? " collection-object-tile-featured" : ""}`}
+              href={resolveRelative(currentSlug, card.slug)}
             >
-              <span class="collection-type-label">
-                {typeLabels.get(featuredHighlight.type) ?? featuredHighlight.type}
-              </span>
-              <h3>{featuredHighlight.title}</h3>
-              {featuredHighlight.summary && <p>{featuredHighlight.summary}</p>}
-              <dl class="collection-object-stats">
-                <div>
-                  <dt>Teiginiai</dt>
-                  <dd>{featuredHighlight.claimCount.toLocaleString("lt-LT")}</dd>
-                </div>
-                <div>
-                  <dt>Citatos</dt>
-                  <dd>{featuredHighlight.quoteCount.toLocaleString("lt-LT")}</dd>
-                </div>
-                <div>
-                  <dt>Ryšiai</dt>
-                  <dd>{featuredHighlight.relationCount.toLocaleString("lt-LT")}</dd>
-                </div>
-              </dl>
-              <span class="collection-object-cta">
-                Atidaryti objektą <span aria-hidden="true">&gt;</span>
-              </span>
-            </a>
-            <div class="collection-highlight-list">
-              {secondaryHighlights.map((card, index) => (
-                <a class="collection-highlight-row" href={resolveRelative(currentSlug, card.slug)}>
-                  <span class="collection-highlight-index">
-                    {String(index + 2).padStart(2, "0")}
-                  </span>
-                  <span class="collection-highlight-main">
-                    <span class="collection-type-label">
-                      {typeLabels.get(card.type) ?? card.type}
-                    </span>
-                    <strong>{card.title}</strong>
-                    {card.summary && <small>{card.summary}</small>}
-                  </span>
-                  <span class="collection-highlight-stats">
-                    <span>{card.claimCount.toLocaleString("lt-LT")} teig.</span>
-                    <span>{card.quoteCount.toLocaleString("lt-LT")} cit.</span>
-                    <span>{card.relationCount.toLocaleString("lt-LT")} ryš.</span>
-                  </span>
-                </a>
-              ))}
-            </div>
-          </div>
-        )}
-      </section>
-
-      <section
-        class="collection-section collection-sources"
-        aria-labelledby="collection-sources-title"
-      >
-        <div class="collection-section-heading">
-          <p>Šaltiniai</p>
-          <h2 id="collection-sources-title">Kolekcijos šaltiniai</h2>
-        </div>
-        <div class="collection-source-grid">
-          {sources.map((source) => (
-            <a class="collection-source-card" href={resolveRelative(currentSlug, source.slug)}>
-              <h3>{source.title}</h3>
-              <span>
-                {source.claimCount.toLocaleString("lt-LT")} teig. /{" "}
-                {source.quoteCount.toLocaleString("lt-LT")} cit.
+              <img
+                src={card.imageUrl}
+                alt={card.imageAlt}
+                width={card.image.width || undefined}
+                height={card.image.height || undefined}
+                loading="lazy"
+                decoding="async"
+              />
+              <span class="collection-object-tile-shade" aria-hidden="true" />
+              <span class="collection-object-tile-copy">
+                <span class="collection-type-label">{typeLabels.get(card.type) ?? card.type}</span>
+                <strong>{card.title}</strong>
+                {index === 0 && card.summary && <small>{card.summary}</small>}
+                <span class="collection-object-tile-meta">
+                  {card.claimCount.toLocaleString("lt-LT")} teiginių
+                </span>
               </span>
             </a>
           ))}
