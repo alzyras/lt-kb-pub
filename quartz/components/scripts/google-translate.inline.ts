@@ -10,7 +10,14 @@ function translateRoot() {
   return document.querySelector<HTMLElement>("[data-google-translate]")
 }
 
+function isLithuanianOnlyPage(): boolean {
+  const slug = document.body?.dataset.slug ?? ""
+  return slug === "galerija" || slug.endsWith("/galerija")
+}
+
 function preferredLanguage(): SiteLanguage {
+  if (isLithuanianOnlyPage()) return "lt"
+
   const urlLanguage = new URLSearchParams(window.location.search).get("lang")
   if (urlLanguage === "en") return "en"
 
@@ -107,6 +114,12 @@ function applyLanguage(language: SiteLanguage, attempt = 0) {
 }
 
 function selectLanguage(language: SiteLanguage) {
+  if (language === "en" && isLithuanianOnlyPage()) {
+    rememberLanguage("lt")
+    applyLanguage("lt")
+    return
+  }
+
   rememberLanguage(language)
 
   if (language === "lt" && widgetSelect()?.value === "en") {
