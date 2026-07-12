@@ -14,6 +14,7 @@ import { collectCitationMetadata, collectClaimCount, isObjectPage } from "../uti
 import { styleText } from "util"
 import { buildAssetVersion } from "../util/buildVersion"
 import { graphVisualRegistry } from "../util/graphVisualRegistry"
+import { classifyAnalyticsPage } from "../util/analytics"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -329,9 +330,13 @@ export function renderPage(
     filePath && isObjectPage(relativePath)
       ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
       : citationFilter
-  const currentQuoteCount = Number(fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0)
+  const currentQuoteCount = Number(
+    fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0,
+  )
   const currentClaimCount =
-    filePath && isObjectPage(relativePath) ? collectClaimCount(fs.readFileSync(filePath, "utf8")) : 0
+    filePath && isObjectPage(relativePath)
+      ? collectClaimCount(fs.readFileSync(filePath, "utf8"))
+      : 0
   const rawSourceIds = Array.isArray(fileCitationFilter?.sourceIds)
     ? fileCitationFilter.sourceIds
     : frontmatter?.citatu_saltiniu_id
@@ -340,13 +345,21 @@ export function renderPage(
     : []
   const currentCitationFilterable = Boolean(
     String(slug).startsWith("objektai/") &&
-      (fileCitationFilter || currentQuoteCount > 0 || currentSourceIds.length > 0),
+    (fileCitationFilter || currentQuoteCount > 0 || currentSourceIds.length > 0),
+  )
+  const analyticsPage = classifyAnalyticsPage(
+    String(slug),
+    componentData.fileData.frontmatter?.tipas,
+    String(slug) === "404",
   )
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body
         data-slug={slug}
+        data-content-id={analyticsPage.contentId}
+        data-content-type={analyticsPage.contentType}
+        data-page-type={analyticsPage.pageType}
         data-citation-filterable={currentCitationFilterable ? "true" : "false"}
         data-quote-count={`${currentQuoteCount}`}
         data-claim-count={`${currentClaimCount}`}

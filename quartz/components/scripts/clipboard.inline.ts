@@ -21,6 +21,11 @@ document.addEventListener("nav", () => {
           () => {
             button.blur()
             button.innerHTML = svgCheck
+            document.dispatchEvent(
+              new CustomEvent("analyticsfeature", {
+                detail: { name: "clipboard", action: "copy_success" },
+              }),
+            )
             setTimeout(() => {
               button.innerHTML = svgCopy
               button.style.borderColor = ""

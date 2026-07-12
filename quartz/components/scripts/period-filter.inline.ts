@@ -160,14 +160,41 @@ function initPeriodFilters() {
 
     const onStart = () => updateFilter(refs, "start", true)
     const onEnd = () => updateFilter(refs, "end", true)
-    const onUnknown = () => updateFilter(refs, "end", true)
+    const commit = () => {
+      document.dispatchEvent(
+        new CustomEvent("periodfiltercommit", {
+          detail: {
+            start: Number(refs.minInput.value),
+            end: Number(refs.maxInput.value),
+            includeUnknown: refs.unknownInput.checked,
+          },
+        }),
+      )
+      document.dispatchEvent(
+        new CustomEvent("analyticsfeature", {
+          detail: {
+            name: "period_filter",
+            action: "commit",
+            value: `${refs.minInput.value}-${refs.maxInput.value}-${refs.unknownInput.checked ? "with_unknown" : "dated_only"}`,
+          },
+        }),
+      )
+    }
+    const onUnknown = () => {
+      updateFilter(refs, "end", true)
+      commit()
+    }
 
     refs.minInput.addEventListener("input", onStart)
     refs.maxInput.addEventListener("input", onEnd)
+    refs.minInput.addEventListener("change", commit)
+    refs.maxInput.addEventListener("change", commit)
     refs.unknownInput.addEventListener("change", onUnknown)
     if (typeof window.addCleanup === "function") {
       window.addCleanup(() => refs.minInput.removeEventListener("input", onStart))
       window.addCleanup(() => refs.maxInput.removeEventListener("input", onEnd))
+      window.addCleanup(() => refs.minInput.removeEventListener("change", commit))
+      window.addCleanup(() => refs.maxInput.removeEventListener("change", commit))
       window.addCleanup(() => refs.unknownInput.removeEventListener("change", onUnknown))
     }
 

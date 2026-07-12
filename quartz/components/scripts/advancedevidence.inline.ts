@@ -64,6 +64,11 @@ document.addEventListener("nav", () => {
       writeSettingsState(settings, catalog)
       dispatchSettingsChange()
     })
+    document.dispatchEvent(
+      new CustomEvent("analyticsfeature", {
+        detail: { name: "evidence_mode", action: mode === "on" ? "enable" : "disable" },
+      }),
+    )
   }
 
   for (const button of document.getElementsByClassName("advanced-evidence-toggle")) {
@@ -87,12 +92,13 @@ document.addEventListener("nav", () => {
     return null
   }
 
-  const setClaimOpen = (row: HTMLElement, open: boolean) => {
+  const setClaimOpen = (row: HTMLElement, open: boolean, userInitiated = false) => {
     const detail = detailForRow(row)
     if (!detail) {
       return
     }
 
+    const wasHidden = detail.hidden
     if (open) {
       const content = detail.querySelector<HTMLElement>("[data-claim-detail-content]")
       const payload = detail.querySelector<HTMLScriptElement>("[data-claim-detail-payload]")
@@ -113,6 +119,15 @@ document.addEventListener("nav", () => {
     for (const toggle of row.querySelectorAll<HTMLElement>("[data-claim-toggle]")) {
       toggle.setAttribute("aria-expanded", String(open))
     }
+    if (open && wasHidden && userInitiated) {
+      const citationKey =
+        row.dataset.supportingIds || row.dataset.globalClaimId || row.dataset.claimId || "evidence"
+      document.dispatchEvent(
+        new CustomEvent("citationopen", {
+          detail: { citationKey, sourceKind: "embedded_evidence" },
+        }),
+      )
+    }
   }
 
   const toggleClaim = (target: EventTarget | null) => {
@@ -122,7 +137,7 @@ document.addEventListener("nav", () => {
       return
     }
     const detail = detailForRow(row)
-    setClaimOpen(row, Boolean(detail?.hidden))
+    setClaimOpen(row, Boolean(detail?.hidden), true)
   }
 
   const onClick = (event: MouseEvent) => {

@@ -117,7 +117,8 @@ function stateFromUrl(
     allTypes,
   )
   const requestedFocus = state.focus ? simplifySlug(state.focus as FullSlug) : ""
-  const mappedFocus = slugMap.publicToGraph[requestedFocus] ?? slugMap.aliases?.[requestedFocus] ?? requestedFocus
+  const mappedFocus =
+    slugMap.publicToGraph[requestedFocus] ?? slugMap.aliases?.[requestedFocus] ?? requestedFocus
   state.focus = slugMap.aliases?.[mappedFocus] ?? mappedFocus
   return state
 }
@@ -131,8 +132,9 @@ function resolveTopologyFocus(topology: GraphTopology, focus: string): string {
   const normalized = simplified.normalize("NFC").toLocaleLowerCase("lt-LT")
   const matches = topology.nodes.filter(
     (node) =>
-      simplifySlug(node.slug as FullSlug).normalize("NFC").toLocaleLowerCase("lt-LT") ===
-      normalized,
+      simplifySlug(node.slug as FullSlug)
+        .normalize("NFC")
+        .toLocaleLowerCase("lt-LT") === normalized,
   )
   return matches.length === 1 ? simplifySlug(matches[0].slug as FullSlug) : focus
 }
@@ -742,7 +744,8 @@ function renderCanvasFallback(
       context.beginPath()
       context.moveTo(edge.source.px, edge.source.py)
       context.lineTo(edge.target.px, edge.target.py)
-      const edgeColor = edge.layer === "semantic" ? graphVisual.edgeSemantic : graphVisual.edgeExplicit
+      const edgeColor =
+        edge.layer === "semantic" ? graphVisual.edgeSemantic : graphVisual.edgeExplicit
       context.strokeStyle = `rgba(${(edgeColor >> 16) & 255},${(edgeColor >> 8) & 255},${edgeColor & 255},${alpha})`
       context.lineWidth = Math.min(2.1, 0.35 + Math.log1p(edge.evidenceCount) * 0.28)
       context.stroke()
@@ -754,7 +757,9 @@ function renderCanvasFallback(
       context.fillStyle = `#${(typeColors[node.type] ?? graphVisual.fallbackNode).toString(16).padStart(6, "0")}`
       context.fill()
       context.lineWidth = focus ? 4 : 1.1
-      context.strokeStyle = focus ? `#${graphVisual.focus.toString(16).padStart(6, "0")}` : "#fffaf1"
+      context.strokeStyle = focus
+        ? `#${graphVisual.focus.toString(16).padStart(6, "0")}`
+        : "#fffaf1"
       context.stroke()
       if ((transform.k >= 0.65 && important.has(node.id)) || focus) {
         context.save()
@@ -987,6 +992,22 @@ async function setup(root: HTMLElement) {
   }
   let state = stateFromUrl(defaults.relations, defaults.types, graphSlugMap)
   state.focus = resolveTopologyFocus(topology, state.focus)
+  const emitGraphFeature = (action: string, value = "") =>
+    document.dispatchEvent(
+      new CustomEvent("analyticsfeature", {
+        detail: { name: "graph", action, ...(value ? { value } : {}) },
+      }),
+    )
+  const onGraphFilterChange = (event: Event) => {
+    const control =
+      event.target instanceof HTMLInputElement || event.target instanceof HTMLSelectElement
+        ? event.target
+        : null
+    if (!control) return
+    const value = control.name || control.dataset.relation || control.dataset.type || "filter"
+    emitGraphFeature("filter_change", value)
+  }
+  root.addEventListener("change", onGraphFilterChange)
   let allEdges = [...topology.edges]
   let renderer: Renderer | null = null
   const worker = createLayoutWorker()
@@ -1051,6 +1072,7 @@ async function setup(root: HTMLElement) {
           panel: state.panel === "hidden" ? "details" : state.panel,
         }
         commit()
+        emitGraphFeature("focus", slug)
         sync()
         void rerender()
       },
@@ -1205,6 +1227,7 @@ async function setup(root: HTMLElement) {
       panel: state.panel === "hidden" ? "details" : state.panel,
     }
     commit()
+    emitGraphFeature("focus", slug)
     sync()
     void rerender()
   }
@@ -1367,6 +1390,7 @@ async function setup(root: HTMLElement) {
     status.hidden = true
   }
   window.addCleanup?.(() => {
+    root.removeEventListener("change", onGraphFilterChange)
     renderer?.destroy()
     worker.terminate()
     document.body.classList.remove("graph-explorer-active")

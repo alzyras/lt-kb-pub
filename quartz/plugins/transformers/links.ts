@@ -60,6 +60,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 const classes = (node.properties.className ?? []) as string[]
                 const isExternal = isAbsoluteUrl(dest, { httpOnly: false })
                 classes.push(isExternal ? "external" : "internal")
+                if (isExternal) {
+                  node.properties["data-analytics-resource"] = true
+                }
 
                 if (isExternal && opts.externalLinkIcon) {
                   node.children.push({
@@ -123,6 +126,11 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
                   node.properties["data-slug"] = full
+                  if (simple.startsWith("objektai/saltiniai/")) {
+                    node.properties["data-analytics-evidence"] = true
+                    node.properties["data-source-kind"] = "internal_source"
+                    node.properties["data-destination-type"] = "saltinis"
+                  }
 
                   const targetExists =
                     ctx.allSlugs.includes(full) ||

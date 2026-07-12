@@ -1,7 +1,24 @@
+import {
+  ANALYTICS_EVENT_NAMES,
+  ANALYTICS_SCHEMA_VERSION,
+  AnalyticsEventName,
+  ExplorationState,
+  advanceExploration,
+  analyticsDedupeKey,
+  emptyExplorationState,
+  normalizeSearchTerm,
+  searchTermContainsPotentialPii,
+} from "../../util/analytics"
+
 type AnalyticsParams = Record<string, string | number | boolean>
+type DedupeScope = "none" | "page" | "session"
 
 type AnalyticsRuntime = {
-  track: (name: string, params?: AnalyticsParams) => void
+  track: (
+    name: AnalyticsEventName,
+    params?: AnalyticsParams,
+    options?: { dedupeScope?: DedupeScope; dedupeKey?: string },
+  ) => void
   pageView: () => void
 }
 
@@ -11,11 +28,12 @@ type AnalyticsWindow = Window & {
 }
 
 const analyticsWindow = window as AnalyticsWindow
-
 const TAG_ID = "__LI_GA4_TAG_ID__"
 const DISABLED_KEY = "li.analytics.disabled"
-const EXPLORATION_KEY = "li.analytics.exploration"
+const EXPLORATION_KEY = `li.analytics.exploration.${ANALYTICS_SCHEMA_VERSION}`
+const SESSION_DEDUPE_KEY = `li.analytics.dedupe.${ANALYTICS_SCHEMA_VERSION}`
 const PRODUCTION_HOSTS = new Set(["lietuvosistorija.eu", "www.lietuvosistorija.eu"])
+const EVENT_ALLOWLIST = new Set<string>(ANALYTICS_EVENT_NAMES)
 
 function analyticsEnabled(): boolean {
   if (!PRODUCTION_HOSTS.has(location.hostname) || navigator.webdriver) return false
@@ -31,65 +49,89 @@ function siteLanguage(): string {
   return (language || "lt").toLowerCase().slice(0, 8)
 }
 
-function contentType(pathname = location.pathname): string {
-  const parts = pathname.split("/").filter(Boolean)
-  if (parts[0] !== "objektai") return parts[0] || "home"
-  return parts[1] || "objects"
-}
-
-function interactionContext(surface: string): AnalyticsParams {
+function pageMetadata() {
   return {
-    content_type: contentType(),
-    site_language: siteLanguage(),
-    interaction_surface: surface,
+    content_id: document.body.dataset.contentId || "index",
+    content_type: document.body.dataset.contentType || "none",
+    page_type: document.body.dataset.pageType || "folder",
   }
 }
 
-function readExploration(): { paths: string[]; interacted: boolean; sent: boolean } {
+function commonParams(interactionContext: string): AnalyticsParams {
+  return {
+    tracking_schema_version: ANALYTICS_SCHEMA_VERSION,
+    ...pageMetadata(),
+    interaction_context: interactionContext,
+    site_language: siteLanguage(),
+  }
+}
+
+function readStringSet(key: string): Set<string> {
+  try {
+    const value = JSON.parse(sessionStorage.getItem(key) || "[]")
+    return new Set(Array.isArray(value) ? value.filter((item) => typeof item === "string") : [])
+  } catch {
+    return new Set()
+  }
+}
+
+function writeStringSet(key: string, values: Set<string>) {
+  try {
+    sessionStorage.setItem(key, JSON.stringify([...values].slice(-1000)))
+  } catch {
+    // Analytics storage must never affect navigation.
+  }
+}
+
+function readExploration(): ExplorationState {
   try {
     const value = JSON.parse(sessionStorage.getItem(EXPLORATION_KEY) || "{}")
     return {
-      paths: Array.isArray(value.paths)
-        ? value.paths.filter((item: unknown) => typeof item === "string")
+      objectIds: Array.isArray(value.objectIds)
+        ? value.objectIds.filter((item: unknown) => typeof item === "string")
         : [],
-      interacted: value.interacted === true,
+      citationKeys: Array.isArray(value.citationKeys)
+        ? value.citationKeys.filter((item: unknown) => typeof item === "string")
+        : [],
       sent: value.sent === true,
     }
   } catch {
-    return { paths: [], interacted: false, sent: false }
+    return emptyExplorationState()
   }
 }
 
-function writeExploration(value: { paths: string[]; interacted: boolean; sent: boolean }) {
+function writeExploration(value: ExplorationState) {
   try {
     sessionStorage.setItem(EXPLORATION_KEY, JSON.stringify(value))
   } catch {
-    // Analytics must never interfere with site behavior.
+    // Analytics storage must never affect navigation.
   }
 }
 
-function markExploration(track: AnalyticsRuntime["track"], interacted = false) {
-  const state = readExploration()
-  if (location.pathname.startsWith("/objektai/") && !state.paths.includes(location.pathname)) {
-    state.paths.push(location.pathname)
+function destinationType(href: string): string {
+  try {
+    const url = new URL(href, location.href)
+    const parts = url.pathname.split("/").filter(Boolean)
+    if (parts[0] === "objektai") return parts[1] || "objects"
+    if (parts[0] === "tags") return "tag"
+    if (parts[0] === "laikotarpiai") return "period"
+    if (parts[0] === "tyrimai") return "research"
+    return parts[0] || "home"
+  } catch {
+    return "unknown"
   }
-  state.interacted ||= interacted
-  if (!state.sent && state.paths.length >= 3 && state.interacted) {
-    state.sent = true
-    track("deep_exploration", {
-      ...interactionContext("session"),
-      object_pages: state.paths.length,
-    })
-  }
-  writeExploration(state)
 }
 
-function queryFingerprint(value: string): number {
-  let hash = 0
-  for (let index = 0; index < value.length; index += 1) {
-    hash = (hash * 31 + value.charCodeAt(index)) | 0
-  }
-  return hash
+function navigationMethod(link: HTMLAnchorElement): string {
+  if (link.closest(".breadcrumb-container, [aria-label='breadcrumbs']")) return "breadcrumb"
+  if (link.closest(".tags")) return "tag"
+  if (link.closest(".explorer")) return "explorer"
+  if (link.closest(".backlinks")) return "backlink"
+  if (link.closest(".recent-notes")) return "recent"
+  if (link.closest(".toc, .toc-content")) return "toc"
+  if (link.closest("[data-graph-explorer], .graph-explorer, [data-object-map-cta]")) return "graph"
+  if (link.closest("li.section-li, .section-ul")) return "list"
+  return "article"
 }
 
 function installAnalytics() {
@@ -97,29 +139,72 @@ function installAnalytics() {
 
   analyticsWindow.dataLayer = analyticsWindow.dataLayer || []
   const gtag = (...args: unknown[]) => analyticsWindow.dataLayer!.push(args)
-  let previousLocation = ""
+  const sessionKeys = readStringSet(SESSION_DEDUPE_KEY)
+  let pageKeys = new Set<string>()
   let lastPageLocation = ""
+  let previousLocation = ""
+  let searchTimer = 0
+  let lastSearch = { query: "", outcome: "", resultCount: 0, followedZero: false }
+  let popoverTimer = 0
 
-  const track: AnalyticsRuntime["track"] = (name, params = {}) => {
+  const track: AnalyticsRuntime["track"] = (name, params = {}, options = {}) => {
+    if (!EVENT_ALLOWLIST.has(name)) return
+    const scope = options.dedupeScope ?? "none"
+    const key = options.dedupeKey ? `${name}|${options.dedupeKey}` : ""
+    if (key && scope === "page" && pageKeys.has(key)) return
+    if (key && scope === "session" && sessionKeys.has(key)) return
+    if (key && scope === "page") pageKeys.add(key)
+    if (key && scope === "session") {
+      sessionKeys.add(key)
+      writeStringSet(SESSION_DEDUPE_KEY, sessionKeys)
+    }
     gtag("event", name, params)
+  }
+
+  const updateExploration = (update: { objectId?: string; citationKey?: string }) => {
+    const result = advanceExploration(readExploration(), update)
+    writeExploration(result.state)
+    if (!result.qualified) return
+    track(
+      "deep_exploration",
+      {
+        ...commonParams("session"),
+        object_count: result.state.objectIds.length,
+        citation_count: result.state.citationKeys.length,
+      },
+      { dedupeScope: "session", dedupeKey: "qualified" },
+    )
   }
 
   const pageView = () => {
     const pageLocation = location.href.split("#")[0]
     if (pageLocation === lastPageLocation) return
+    pageKeys = new Set()
     const params: AnalyticsParams = {
       page_title: document.title,
       page_location: pageLocation,
-      ...interactionContext("page"),
+      ...commonParams("page"),
     }
     if (previousLocation) params.page_referrer = previousLocation
     track("page_view", params)
-    if (location.pathname.startsWith("/objektai/")) {
-      track("object_view", interactionContext("page"))
+    const metadata = pageMetadata()
+    if (metadata.page_type === "object") {
+      track("object_view", { ...commonParams("page") })
+      updateExploration({ objectId: metadata.content_id })
     }
     previousLocation = pageLocation
     lastPageLocation = pageLocation
-    markExploration(track)
+  }
+
+  const trackCitation = (citationKey: string, params: AnalyticsParams) => {
+    const origin = pageMetadata().content_id
+    const dedupeKey = analyticsDedupeKey([origin, citationKey])
+    track(
+      "citation_open",
+      { ...commonParams("evidence"), ...params },
+      { dedupeScope: "session", dedupeKey },
+    )
+    updateExploration({ citationKey: dedupeKey })
   }
 
   analyticsWindow.liAnalytics = { track, pageView }
@@ -128,74 +213,192 @@ function installAnalytics() {
   pageView()
   document.addEventListener("nav", pageView)
 
-  let searchTimer = 0
-  let lastSearchSignature = ""
   document.addEventListener("input", (event) => {
     const input = (event.target as Element | null)?.closest<HTMLInputElement>(".search-bar")
     if (!input) return
     window.clearTimeout(searchTimer)
-    const value = input.value.trim()
-    if (value.length < 2) return
+    const query = normalizeSearchTerm(input.value)
+    if (query.length < 2) return
     searchTimer = window.setTimeout(() => {
       const resultCount = document.querySelectorAll(
-        ".results-container .result-card:not(.no-match)",
+        ".results-container a.result-card:not(.no-match)",
       ).length
-      const signature = `${location.pathname}:${queryFingerprint(value)}:${resultCount}`
-      if (signature === lastSearchSignature) return
-      lastSearchSignature = signature
-      track("search", {
-        ...interactionContext("search"),
-        term_length: value.length,
+      const outcome = resultCount > 0 ? "results" : "zero_results"
+      const followedZero = lastSearch.outcome === "zero_results" && lastSearch.query !== query
+      const signature = analyticsDedupeKey([pageMetadata().content_id, query, outcome])
+      const params: AnalyticsParams = {
+        ...commonParams("search"),
+        search_outcome: outcome,
         result_count: resultCount,
-      })
-    }, 700)
+        term_length: query.length,
+      }
+      if (!searchTermContainsPotentialPii(query)) params.search_term = query.slice(0, 100)
+      track("search", params, { dedupeScope: "page", dedupeKey: signature })
+      lastSearch = { query, outcome, resultCount, followedZero }
+    }, 750)
+  })
+
+  document.addEventListener("citationopen", (event) => {
+    const detail = (event as CustomEvent<{ citationKey?: string; sourceKind?: string }>).detail
+    if (!detail?.citationKey) return
+    trackCitation(detail.citationKey, {
+      source_kind: detail.sourceKind || "embedded_evidence",
+      destination_type: "evidence_detail",
+    })
+  })
+
+  document.addEventListener("analyticsfeature", (event) => {
+    const detail = (event as CustomEvent<{ name?: string; action?: string; value?: string }>).detail
+    if (!detail?.name || !detail.action) return
+    const dedupeKey = analyticsDedupeKey([
+      pageMetadata().content_id,
+      detail.name,
+      detail.action,
+      detail.value,
+    ])
+    track(
+      "feature_use",
+      {
+        ...commonParams(detail.name),
+        feature_name: detail.name,
+        feature_action: detail.action,
+        ...(detail.value ? { feature_value: detail.value.slice(0, 100) } : {}),
+      },
+      { dedupeScope: "page", dedupeKey },
+    )
+  })
+
+  document.addEventListener("themechange", (event) => {
+    const theme = (event as CustomEvent<{ theme: string }>).detail?.theme || "unknown"
+    document.dispatchEvent(
+      new CustomEvent("analyticsfeature", {
+        detail: { name: "dark_mode", action: theme === "dark" ? "enable" : "disable" },
+      }),
+    )
+  })
+  document.addEventListener("readermodechange", (event) => {
+    const mode = (event as CustomEvent<{ mode: string }>).detail?.mode || "off"
+    document.dispatchEvent(
+      new CustomEvent("analyticsfeature", {
+        detail: { name: "reader_mode", action: mode === "on" ? "enable" : "disable" },
+      }),
+    )
   })
 
   document.addEventListener("click", (event) => {
     const target = event.target as Element | null
     if (!target) return
 
-    const result = target.closest<HTMLAnchorElement>(".results-container .result-card[href]")
+    const diagramExpand = target.closest<HTMLElement>(".expand-button")
+    const diagramContainer = diagramExpand?.closest("pre, .mermaid, [data-diagram]")
+    if (
+      diagramContainer &&
+      (diagramContainer.matches(".mermaid, [data-diagram]") ||
+        diagramContainer.querySelector("code.mermaid"))
+    ) {
+      document.dispatchEvent(
+        new CustomEvent("analyticsfeature", {
+          detail: { name: "diagram", action: "expand" },
+        }),
+      )
+    }
+
+    const result = target.closest<HTMLAnchorElement>(".results-container a.result-card[href]")
     if (result) {
-      const cards = [...document.querySelectorAll(".results-container .result-card[href]")]
-      track("select_content", {
-        ...interactionContext("search"),
-        content_type: "search_result",
-        result_rank: Math.max(1, cards.indexOf(result) + 1),
+      const cards = [...document.querySelectorAll(".results-container a.result-card[href]")]
+      track("search_result_select", {
+        ...commonParams("search"),
+        destination_type: destinationType(result.href),
+        result_position: Math.max(1, cards.indexOf(result) + 1),
+        followed_zero_result_reformulation: lastSearch.followedZero,
       })
       return
     }
 
-    const citation = target.closest("[data-citation-entry], [data-claim-row] a, a[href^='#c-']")
-    if (citation) {
-      track("citation_open", interactionContext("evidence"))
-      markExploration(track, true)
+    const evidence = target.closest<HTMLAnchorElement>(
+      "a[data-analytics-evidence='true'], .claim-citation-card a.external",
+    )
+    if (evidence) {
+      trackCitation(evidence.href || evidence.hash, {
+        source_kind:
+          evidence.dataset.sourceKind ||
+          (evidence.classList.contains("external") ? "external_evidence" : "internal_source"),
+        destination_type: evidence.dataset.destinationType || destinationType(evidence.href),
+      })
       return
     }
 
-    const media = target.closest("[data-media-id], .media-gallery-card, [data-media-card]")
-    if (media) {
-      track("media_view", interactionContext("gallery"))
-      markExploration(track, true)
+    const link = target.closest<HTMLAnchorElement>("a[href]")
+    if (!link) return
+    const url = new URL(link.href, location.href)
+    if (url.origin !== location.origin) {
+      if (link.dataset.analyticsResource === "true") {
+        track("outbound_source_open", {
+          ...commonParams("outbound"),
+          destination_domain: url.hostname.toLowerCase().slice(0, 100),
+        })
+      }
       return
     }
 
-    const graph = target.closest("[data-graph-explorer], .graph-explorer")
-    if (graph) {
-      track("graph_explore", interactionContext("graph"))
-      markExploration(track, true)
+    const method = navigationMethod(link)
+    track(
+      "knowledge_navigation",
+      {
+        ...commonParams(method),
+        navigation_method: method,
+        destination_type: destinationType(link.href),
+      },
+      {
+        dedupeScope: "page",
+        dedupeKey: analyticsDedupeKey([
+          pageMetadata().content_id,
+          url.pathname,
+          url.search,
+          url.hash,
+        ]),
+      },
+    )
+    if (method === "graph") {
+      document.dispatchEvent(
+        new CustomEvent("analyticsfeature", {
+          detail: { name: "graph", action: "open" },
+        }),
+      )
     }
   })
 
-  document.addEventListener("change", (event) => {
-    const select = (event.target as Element | null)?.closest<HTMLSelectElement>(
-      "[data-translate-language]",
-    )
-    if (!select) return
-    track("language_change", {
-      ...interactionContext("language"),
-      selected_language: select.value.slice(0, 8),
-    })
+  document.addEventListener(
+    "toggle",
+    (event) => {
+      const details = event.target instanceof HTMLDetailsElement ? event.target : null
+      if (!details?.open) return
+      const name = details.closest(".callout")
+        ? "callout"
+        : details.closest(".mermaid, [data-diagram]")
+          ? "diagram"
+          : ""
+      if (!name) return
+      document.dispatchEvent(
+        new CustomEvent("analyticsfeature", { detail: { name, action: "expand" } }),
+      )
+    },
+    true,
+  )
+
+  document.addEventListener("pointerover", (event) => {
+    const link = (event.target as Element | null)?.closest<HTMLAnchorElement>("a.internal")
+    if (!link || link.dataset.noPopover === "true") return
+    window.clearTimeout(popoverTimer)
+    popoverTimer = window.setTimeout(() => {
+      const active = document.querySelector(".popover.active-popover")
+      if (!active || !link.matches(":hover")) return
+      document.dispatchEvent(
+        new CustomEvent("analyticsfeature", {
+          detail: { name: "popover_preview", action: "view", value: link.dataset.slug || "" },
+        }),
+      )
+    }, 1000)
   })
 
   const script = document.createElement("script")
