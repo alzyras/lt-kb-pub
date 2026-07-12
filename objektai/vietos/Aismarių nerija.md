@@ -29,14 +29,14 @@ Dusburgietis teigia, kad gėlo vandens marios) Aismarių nerija (Neria) Aista, A
 ## Teiginiai
 
 <a id="claim-t-90276"></a>
-- t-002
+- t-001
   global_id: t-90276
   teiginys: "Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“."
   pagrindžia:
     - c-86142
 
 <a id="claim-t-90277"></a>
-- t-001
+- t-002
   global_id: t-90277
   teiginys: "Aismarių nerija šaltinio rodyklėje nurodyta pavadinimu „Neria“."
   pagrindžia:

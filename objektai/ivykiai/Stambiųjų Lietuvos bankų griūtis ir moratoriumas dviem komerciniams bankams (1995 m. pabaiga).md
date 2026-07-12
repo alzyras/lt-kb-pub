@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66908"></a>
-- t-002
+- t-001
   global_id: t-66908
   teiginys: "1995 m. pabaigos bankų krizė sustiprino Lietuvos bankų sektorių, sumažino blogų paskolų portfelį ir sustiprino bankų priežiūrą."
   pagrindžia:

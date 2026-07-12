@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - reforma
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,28 +38,28 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
 ## Teiginiai
 
 <a id="claim-t-70093"></a>
-- t-002
+- t-001
   global_id: t-70093
   teiginys: "Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms."
   pagrindžia:
     - c-69194
 
 <a id="claim-t-70094"></a>
-- t-001
+- t-002
   global_id: t-70094
   teiginys: "Pirmojo pasaulinio karo metais Vilniuje susibūręs lietuvių politikos centras nusivylė, kad nei Rusija, nei Vokietija nežadėjo Lietuvai autonomijos."
   pagrindžia:
     - c-69196
 
 <a id="claim-t-70095"></a>
-- t-004
+- t-003
   global_id: t-70095
   teiginys: "Vilnijos kantono autonomijos svarstyme keltas klausimas, ar Varšuva nebūtų diktavusi vietos lenkams savo politikos."
   pagrindžia:
     - c-69197
 
 <a id="claim-t-70096"></a>
-- t-003
+- t-004
   global_id: t-70096
   teiginys: "1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą."
   pagrindžia:

@@ -142,6 +142,8 @@ Nenurodyta
 - susijęs iš Šventosios Trejybės prieglauda Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
 - susijęs iš [[objektai/zodynas/Nomadžiai.md#claim-t-07634|nomadžiai]]: Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose.
 - susijęs iš [[objektai/zodynas/fogtas.md#claim-t-184612|fogtas]]: Sembos fogto vedami kryžiuočiai, negalėdami pasivyti namo traukiančio Kęstučio, nusiaubė Ariogalos žemes.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
+- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
 - susijęs iš Pilies kalnas: Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Protasevičius nupirko jėzuitams mūrinį namą netoli Šv. Jono bažnyčios ir pritaikė jį jiems gyventi.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
@@ -342,6 +344,9 @@ Nenurodyta
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89585|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192078|Ietis]]: Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195396|Kūčių dienos ir vakarienės apeigos]]: Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms.
+- susijęs iš Bogušo miškas: Bogušo miškas minimas kaip vieta, iš kurios šiemet buvo samdoma.
+- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
 - susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.

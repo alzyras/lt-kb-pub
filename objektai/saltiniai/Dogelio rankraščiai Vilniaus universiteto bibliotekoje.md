@@ -14,7 +14,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - privilegija
+  - saltinis
 amziai:
   - 'XVI'
 media_total_count: '0'

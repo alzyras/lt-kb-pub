@@ -38,7 +38,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-170419"></a>
-- t-009
+- t-001
   global_id: t-170419
   teiginys: "XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė."
   pagrindžia:

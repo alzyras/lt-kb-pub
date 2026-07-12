@@ -53,28 +53,28 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 <a id="claim-t-08500"></a>
-- t-005
+- t-001
   global_id: t-08500
   teiginys: "Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus."
   pagrindžia:
     - c-10491
 
 <a id="claim-t-08501"></a>
-- t-006
+- t-002
   global_id: t-08501
   teiginys: "Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra."
   pagrindžia:
     - c-10492
 
 <a id="claim-t-08502"></a>
-- t-007
+- t-003
   global_id: t-08502
   teiginys: "Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra."
   pagrindžia:
     - c-10493
 
 <a id="claim-t-193185"></a>
-- t-008
+- t-004
   global_id: t-193185
   teiginys: "Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buvo pasiekiama net Juodoji jūra, tolimi vakarinės Azijos kraštai ir Viduržemio pajūris."
   pagrindžia:

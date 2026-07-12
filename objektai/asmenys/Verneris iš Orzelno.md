@@ -44,28 +44,28 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
 ## Teiginiai
 
 <a id="claim-t-64221"></a>
-- t-011
+- t-001
   global_id: t-64221
   teiginys: "Dusburgietis nurodo, kad Verneris iš Orzelno Ordino magistru buvo išrinktas 1324 m. liepos 6 d."
   pagrindžia:
     - c-65034
 
 <a id="claim-t-64222"></a>
-- t-009
+- t-002
   global_id: t-64222
   teiginys: "Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai."
   pagrindžia:
     - c-65040
 
 <a id="claim-t-64223"></a>
-- t-006
+- t-003
   global_id: t-64223
   teiginys: "Generalinėje kapituloje Verneris nustatė kunigams kasdien po sumos skaityti evangeliją „Pradžioje buvo žodis“ ir nurodė broliams klauptis ties žodžiais „Ir žodis tapo kūnu“."
   pagrindžia:
     - c-65041
 
 <a id="claim-t-64225"></a>
-- t-005
+- t-004
   global_id: t-64225
   teiginys: "Verneriui iš Orzelno kronikos reikėjo Ordinui keltiems priekaištams atremti ir vidaus reformai įgyvendinti."
   pagrindžia:
@@ -79,98 +79,98 @@ Verneris iš Orzelno minimas kaip Kryžiuočių ordino magistras, kuriam Petras 
     - c-56089
 
 <a id="claim-t-64226"></a>
-- t-012
+- t-006
   global_id: t-64226
   teiginys: "Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru."
   pagrindžia:
     - c-65037
 
 <a id="claim-t-64227"></a>
-- t-014
+- t-007
   global_id: t-64227
   teiginys: "Didysis magistras Verneris generalinėje kapituloje nutarė, kad kunigai kasdien po sumos skaitytų evangeliją."
   pagrindžia:
     - c-65041
 
 <a id="claim-t-64228"></a>
-- t-002
+- t-008
   global_id: t-64228
   teiginys: "1326 m. Petras iš Dusburgo užbaigtą „Prūsijos žemės kroniką“ įteikė Verneriui iš Orzelno."
   pagrindžia:
     - c-56086
 
 <a id="claim-t-64229"></a>
-- t-016
+- t-009
   global_id: t-64229
   teiginys: "1330 m. lapkričio 18 d. Teutonų ordino brolis Jonas iš Endorfo nužudė didįjį magistrą Vernerį."
   pagrindžia:
     - c-65036
 
 <a id="claim-t-64230"></a>
-- t-008
+- t-010
   global_id: t-64230
   teiginys: "„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti."
   pagrindžia:
     - c-65038
 
 <a id="claim-t-64231"></a>
-- t-015
+- t-011
   global_id: t-64231
   teiginys: "1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį."
   pagrindžia:
     - c-65035
 
 <a id="claim-t-64232"></a>
-- t-004
+- t-012
   global_id: t-64232
   teiginys: "Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną."
   pagrindžia:
     - c-65040
 
 <a id="claim-t-64233"></a>
-- t-003
+- t-013
   global_id: t-64233
   teiginys: "„Prūsijos žemės kronika“ buvo įteikta didžiajam magistrui Verneriui iš Orzelno peržiūrėti ir pataisyti."
   pagrindžia:
     - c-56087
 
 <a id="claim-t-64234"></a>
-- t-007
+- t-014
   global_id: t-64234
   teiginys: "1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno."
   pagrindžia:
     - c-65039
 
 <a id="claim-t-64235"></a>
-- t-013
+- t-015
   global_id: t-64235
   teiginys: "Verneris iš Orzelno 1324 m. liepos 6 d. Marienburge buvo išrinktas keturioliktuoju didžiuoju magistru."
   pagrindžia:
     - c-65043
 
 <a id="claim-t-64226"></a>
-- t-012
+- t-016
   global_id: t-64226
   teiginys: "Petras iš Dusburgo dedikacijoje Vernerį iš Orzelno vadino Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistru."
   pagrindžia:
     - c-65037
 
 <a id="claim-t-64231"></a>
-- t-015
+- t-017
   global_id: t-64231
   teiginys: "1329 m. Verneris su 200 brolių ir 18 tūkstančių karių patraukė į Lietuvą ir apsupo Medvėgalio pilį."
   pagrindžia:
     - c-65035
 
 <a id="claim-t-194524"></a>
-- t-019
+- t-018
   global_id: t-194524
   teiginys: "PRŪSIJOS ŽEMĖS KRONIKA Dedikacija Gerbiamam vyrui ir Kristuje pasišventusiam broliui Verneriui iš Orzelno, Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistrui, deramą klusnumą sveikindamas reiškia brolis Petras iš Dusburgo, tų pačių šventųjų įžadų."
   pagrindžia:
     - c-65037
 
 <a id="claim-t-194525"></a>
-- t-020
+- t-019
   global_id: t-194525
   teiginys: "Su šiais visais patraukė link Lietuvos brolis Verneris, 200 brolių ir 18 tūkstančių karių, neskaitant pėstijos, ir grabnyčių išvakarėse apsupo Medvėgalio pilį601, kuri po ilgų kovų pasidavė krikščionių tikėjimui, o šeši tūkstančiai šios pilies žmonių tapo."
   pagrindžia:

@@ -32,14 +32,14 @@ Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos. Tuo metu Čartoriskiai pa
 ## Teiginiai
 
 <a id="claim-t-64086"></a>
-- t-002
+- t-001
   global_id: t-64086
   teiginys: "Augusto III valdymo pabaigoje Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
   pagrindžia:
     - c-64938
 
 <a id="claim-t-64088"></a>
-- t-001
+- t-002
   global_id: t-64088
   teiginys: "Stanislovo Augusto išrinkimas ir tarpuvaldžio kovos."
   pagrindžia:

@@ -45,77 +45,77 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
 ## Teiginiai
 
 <a id="claim-t-174165"></a>
-- t-040
+- t-001
   global_id: t-174165
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   pagrindžia:
     - c-158381
 
 <a id="claim-t-174166"></a>
-- t-036
+- t-002
   global_id: t-174166
   teiginys: "Vingrių šaltinis slėnyje įtekėjo į Viliją prie Totorių vartų."
   pagrindžia:
     - c-158377
 
 <a id="claim-t-174167"></a>
-- t-042
+- t-003
   global_id: t-174167
   teiginys: "Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos nuo 1556 metų tapo reformacijos šalininkų prieglobsčiu ir mokykla."
   pagrindžia:
     - c-158375
 
 <a id="claim-t-174168"></a>
-- t-041
+- t-004
   global_id: t-174168
   teiginys: "1547 m. Paleckio liejyklai skirtas sklypas buvo prie Vilniaus miesto, už Vilijos upės."
   pagrindžia:
     - c-158378
 
 <a id="claim-t-174169"></a>
-- t-035
+- t-005
   global_id: t-174169
   teiginys: "Dabartinių Lukiškių ir Antakalnio užuomazgos buvo išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   pagrindžia:
     - c-158383
 
 <a id="claim-t-174170"></a>
-- t-039
+- t-006
   global_id: t-174170
   teiginys: "Vilniaus pirklių laivams, vadintiems vytinėmis, buvo leista laisvai plaukioti Vilijos upe."
   pagrindžia:
     - c-158382
 
 <a id="claim-t-174171"></a>
-- t-037
+- t-007
   global_id: t-174171
   teiginys: "Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   pagrindžia:
     - c-158380
 
 <a id="claim-t-174172"></a>
-- t-034
+- t-008
   global_id: t-174172
   teiginys: "Vingrių upokšnis šalia Vilnios įtekėjo į Viliją."
   pagrindžia:
     - c-158376
 
 <a id="claim-t-174174"></a>
-- t-038
+- t-009
   global_id: t-174174
   teiginys: "Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos."
   pagrindžia:
     - c-158374
 
 <a id="claim-t-183873"></a>
-- t-043
+- t-010
   global_id: t-183873
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
   pagrindžia:
     - c-167258
 
 <a id="claim-t-183874"></a>
-- t-044
+- t-011
   global_id: t-183874
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo prie Vilnelės žiočių į Viliją."
   pagrindžia:

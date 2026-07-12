@@ -40,119 +40,119 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
 ## Teiginiai
 
 <a id="claim-t-182749"></a>
-- t-062
+- t-001
   global_id: t-182749
   teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
   pagrindžia:
     - c-166162
 
 <a id="claim-t-183581"></a>
-- t-063
+- t-002
   global_id: t-183581
   teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
   pagrindžia:
     - c-166974
 
 <a id="claim-t-183582"></a>
-- t-064
+- t-003
   global_id: t-183582
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
   pagrindžia:
     - c-166975
 
 <a id="claim-t-183845"></a>
-- t-065
+- t-004
   global_id: t-183845
   teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
   pagrindžia:
     - c-167230
 
 <a id="claim-t-183846"></a>
-- t-066
+- t-005
   global_id: t-183846
   teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   pagrindžia:
     - c-167231
 
 <a id="claim-t-183847"></a>
-- t-067
+- t-006
   global_id: t-183847
   teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
   pagrindžia:
     - c-167232
 
 <a id="claim-t-183848"></a>
-- t-068
+- t-007
   global_id: t-183848
   teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
   pagrindžia:
     - c-167233
 
 <a id="claim-t-183849"></a>
-- t-069
+- t-008
   global_id: t-183849
   teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
   pagrindžia:
     - c-167234
 
 <a id="claim-t-183850"></a>
-- t-070
+- t-009
   global_id: t-183850
   teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
   pagrindžia:
     - c-167235
 
 <a id="claim-t-183851"></a>
-- t-071
+- t-010
   global_id: t-183851
   teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
   pagrindžia:
     - c-167236
 
 <a id="claim-t-183852"></a>
-- t-072
+- t-011
   global_id: t-183852
   teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
   pagrindžia:
     - c-167237
 
 <a id="claim-t-183853"></a>
-- t-073
+- t-012
   global_id: t-183853
   teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
   pagrindžia:
     - c-167238
 
 <a id="claim-t-183854"></a>
-- t-074
+- t-013
   global_id: t-183854
   teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
   pagrindžia:
     - c-167239
 
 <a id="claim-t-184910"></a>
-- t-075
+- t-014
   global_id: t-184910
   teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
   pagrindžia:
     - c-168271
 
 <a id="claim-t-184911"></a>
-- t-076
+- t-015
   global_id: t-184911
   teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
   pagrindžia:
     - c-168272
 
 <a id="claim-t-184912"></a>
-- t-077
+- t-016
   global_id: t-184912
   teiginys: "Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei."
   pagrindžia:
     - c-168273
 
 <a id="claim-t-184913"></a>
-- t-078
+- t-017
   global_id: t-184913
   teiginys: "Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį."
   pagrindžia:
@@ -173,7 +173,7 @@ Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai raš
     - c-171547
 
 <a id="claim-t-194728"></a>
-- t-079
+- t-020
   global_id: t-194728
   teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
   pagrindžia:

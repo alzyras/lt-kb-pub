@@ -39,14 +39,14 @@ media_all_json: |-
     - c-82419
 
 <a id="claim-t-86439"></a>
-- t-003
+- t-002
   global_id: t-86439
   teiginys: "Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė."
   pagrindžia:
     - c-82417
 
 <a id="claim-t-86440"></a>
-- t-002
+- t-003
   global_id: t-86440
   teiginys: "Didesniąją Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai."
   pagrindžia:

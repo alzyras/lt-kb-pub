@@ -55,7 +55,7 @@ Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­ lies, per mylią nuo Vel
     - c-177436
 
 <a id="claim-t-195054"></a>
-- t-003
+- t-002
   global_id: t-195054
   teiginys: "Bajerburgas vėliau vadintas Raudone, nes pilies sienos buvo sumūrytos iš raudonų plytų."
   pagrindžia:

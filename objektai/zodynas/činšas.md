@@ -45,14 +45,14 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
 ## Teiginiai
 
 <a id="claim-t-82131"></a>
-- t-006
+- t-001
   global_id: t-82131
   teiginys: "Činšininkas citatoje aiškinamas kaip duoklininkas, tai yra duoklę mokantis valstietis."
   pagrindžia:
     - c-78623
 
 <a id="claim-t-82132"></a>
-- t-005
+- t-002
   global_id: t-82132
   teiginys: "Vytautas ir Ordinas pasižadėjo iš kito krašto nepriiminėti činšą mokančių valstiečių."
   pagrindžia:
@@ -60,28 +60,28 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     - c-78626
 
 <a id="claim-t-82133"></a>
-- t-011
+- t-003
   global_id: t-82133
   teiginys: "1632 m. Akademijos rektorius Frizijus Valerijono bursai mokėjo 400 auksinų iš 800 auksinų metinio činšo."
   pagrindžia:
     - c-78620
 
 <a id="claim-t-82135"></a>
-- t-009
+- t-004
   global_id: t-82135
   teiginys: "1632 m. Akademijos rektorius Frizijus iš 800 auksinų metinio činšo Valerijono bursai mokėjo 400 auksinų."
   pagrindžia:
     - c-78620
 
 <a id="claim-t-82136"></a>
-- t-010
+- t-005
   global_id: t-82136
   teiginys: "Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu."
   pagrindžia:
     - c-78627
 
 <a id="claim-t-82137"></a>
-- t-008
+- t-006
   global_id: t-82137
   teiginys: "Karalienė teigė, kad Lietuva jai turi mokėti činšą, nes Jogaila kraštą jai atidavė kaip vestuvinę dovaną."
   pagrindžia:
@@ -95,14 +95,14 @@ Valdžia, norėdama sudaryti krašte carui atsidavusį visuomenės sluoksnį, t�
     - c-166389
 
 <a id="claim-t-183837"></a>
-- t-013
+- t-008
   global_id: t-183837
   teiginys: "Filipovo namo činšas buvo mokamas vienuolika metų, vėliau jo mokėjimas nutrūko ir kapitula pradėjo teismo procesą su kunigaikščiu Kristupu."
   pagrindžia:
     - c-167222
 
 <a id="claim-t-193167"></a>
-- t-014
+- t-009
   global_id: t-193167
   teiginys: "Valstiečiai čia taip pat buvo geresnėje būklėje; daugelis jų iki pat rusų valdymo pradžios tebebuvo činšininkai, o ne baudžiauninkai."
   pagrindžia:

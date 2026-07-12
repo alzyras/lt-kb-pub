@@ -38,14 +38,14 @@ Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, dr
 ## Teiginiai
 
 <a id="claim-t-65314"></a>
-- t-002
+- t-001
   global_id: t-65314
   teiginys: "1935 m. „Pienocentras“ tris kartus sumažino iš valstiečių supirkinėtų pieno produktų kainas."
   pagrindžia:
     - c-65735
 
 <a id="claim-t-65315"></a>
-- t-001
+- t-002
   global_id: t-65315
   teiginys: "Tūbelio veikla stiprino kapitalistinius santykius Lietuvoje, o kooperacijos, draugijų palaikymas sustambino lietuvių kooperacines bendroves „Lietūkis“, „Pienocentras“, „Maistas“."
   pagrindžia:

@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - valstybė
 amziai:
   - 'XX'
@@ -39,14 +40,14 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
 ## Teiginiai
 
 <a id="claim-t-79103"></a>
-- t-003
+- t-001
   global_id: t-79103
   teiginys: "M. Sleževičius buvo Lietuvių draugijos nukentėjusiems dėl karo šelpti Centro komiteto narys."
   pagrindžia:
     - c-76194
 
 <a id="claim-t-79104"></a>
-- t-004
+- t-002
   global_id: t-79104
   teiginys: "1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską."
   pagrindžia:

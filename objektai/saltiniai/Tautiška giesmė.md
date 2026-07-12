@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - tauta
+  - šventė
 amziai:
   - 'XIX'
   - 'XX'
@@ -38,14 +39,14 @@ Kudirka rašė poeziją, sukūrė eilėraštį „Tautiška giesmė“ ir jam me
 ## Teiginiai
 
 <a id="claim-t-21278"></a>
-- t-002
+- t-001
   global_id: t-21278
   teiginys: "1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“."
   pagrindžia:
     - c-23978
 
 <a id="claim-t-21279"></a>
-- t-001
+- t-002
   global_id: t-21279
   teiginys: "Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu."
   pagrindžia:

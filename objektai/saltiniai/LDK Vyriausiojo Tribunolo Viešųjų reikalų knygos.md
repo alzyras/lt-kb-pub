@@ -14,7 +14,7 @@ tags:
   - karalius
   - kunigas
   - miestas
-  - privilegija
+  - saltinis
 amziai:
   - 'XV'
   - 'XVIII'

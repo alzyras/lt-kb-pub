@@ -58,28 +58,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86996"></a>
-- t-004
+- t-001
   global_id: t-86996
   teiginys: "Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos."
   pagrindžia:
     - c-82977
 
 <a id="claim-t-86997"></a>
-- t-003
+- t-002
   global_id: t-86997
   teiginys: "Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius."
   pagrindžia:
     - c-82978
 
 <a id="claim-t-86998"></a>
-- t-002
+- t-003
   global_id: t-86998
   teiginys: "Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus."
   pagrindžia:
     - c-82975
 
 <a id="claim-t-86999"></a>
-- t-001
+- t-004
   global_id: t-86999
   teiginys: "1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti."
   pagrindžia:

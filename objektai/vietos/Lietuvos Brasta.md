@@ -50,35 +50,35 @@ media_all_json: |-
     - c-76604
 
 <a id="claim-t-79641"></a>
-- t-005
+- t-002
   global_id: t-79641
   teiginys: "Remiantis S. Zabielos raportais, Lietuvos kariuomenė per Lietuvos Brastos mūšį neteko apie 300 karių."
   pagrindžia:
     - c-43588
 
 <a id="claim-t-79642"></a>
-- t-002
+- t-003
   global_id: t-79642
   teiginys: "1657 m. švedų apsiausta Lietuvos Brasta galiausiai pasidavė priešui ir buvo gerokai suniokota."
   pagrindžia:
     - c-43585
 
 <a id="claim-t-79643"></a>
-- t-006
+- t-004
   global_id: t-79643
   teiginys: "Remiantis S. Zabielos raportais, prie Lietuvos Brastos Lietuvos kariuomenė neteko apie 300 karių."
   pagrindžia:
     - c-43588
 
 <a id="claim-t-79645"></a>
-- t-007
+- t-005
   global_id: t-79645
   teiginys: "1432 m. pradžioje Švitrigaila su kryžiuočių atstovais buvo Brastoje, kai strigo lenkų ir lietuvių derybos."
   pagrindžia:
     - c-76605
 
 <a id="claim-t-79646"></a>
-- t-003
+- t-006
   global_id: t-79646
   teiginys: "Vienas paskutinių svarbių gynybos taškų liko Lietuvos Brastos miestas, prie kurio nutarta pabandyti sustabdyti Rusijos kariuomenės veržimąsi į vakarus."
   pagrindžia:

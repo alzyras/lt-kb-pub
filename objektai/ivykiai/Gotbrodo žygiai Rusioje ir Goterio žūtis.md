@@ -43,21 +43,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192033"></a>
-- t-003
+- t-001
   global_id: t-192033
   teiginys: "Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui."
   pagrindžia:
     - c-174909
 
 <a id="claim-t-192034"></a>
-- t-001
+- t-002
   global_id: t-192034
   teiginys: "Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje."
   pagrindžia:
     - c-174909
 
 <a id="claim-t-192035"></a>
-- t-002
+- t-003
   global_id: t-192035
   teiginys: "Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį."
   pagrindžia:

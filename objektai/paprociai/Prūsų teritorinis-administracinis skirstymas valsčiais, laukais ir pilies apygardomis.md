@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59729"></a>
-- t-004
+- t-001
   global_id: t-59729
   teiginys: "Kronikos lotyniškas terminas „territorium castri“ reiškia pilies apygardą."
   pagrindžia:
     - c-60364
 
 <a id="claim-t-59730"></a>
-- t-001
+- t-002
   global_id: t-59730
   teiginys: "Prūsų žemė kronikoje skirstoma į mažesnes teritorijas, kurioms istoriografijoje taikomas valsčiaus terminas."
   pagrindžia:
@@ -74,7 +74,7 @@ Nenurodyta
     - c-60363
 
 <a id="claim-t-59732"></a>
-- t-002
+- t-004
   global_id: t-59732
   teiginys: "Prūsų valsčių sudarė pilis, dideli laukų, pievų ir miškelių plotai, bajorų sodybos-kaimai ir žemdirbių sodžiai."
   pagrindžia:

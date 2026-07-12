@@ -66,7 +66,7 @@ Nenurodyta
     - c-174951
 
 <a id="claim-t-192082"></a>
-- t-003
+- t-002
   global_id: t-192082
   teiginys: "Narbutas nurodė: 1841 m. prie Druskininkų kapavietėje rasta labai plona ir apgadinta moneta, kurios vienoje pusėje pavaizduoti Gedimino šeimos Stulpai."
   pagrindžia:

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - institucija
   - ivykis
   - tauta
 amziai:
@@ -53,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41311"></a>
-- t-003
+- t-001
   global_id: t-41311
   teiginys: "Partizanų karinėje teritorinėje struktūroje skyriai jungėsi į būrius, būriai į rinktines, rinktinės į apygardas, o kelios apygardos sudarė sritį."
   pagrindžia:
     - c-43082
 
 <a id="claim-t-41312"></a>
-- t-001
+- t-002
   global_id: t-41312
   teiginys: "1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį."
   pagrindžia:
     - c-44912
 
 <a id="claim-t-41313"></a>
-- t-002
+- t-003
   global_id: t-41313
   teiginys: "1949 m. vasario 16 d. LLKS tarybos patvirtinta deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos raidos gaires."
   pagrindžia:

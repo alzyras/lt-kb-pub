@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87079"></a>
-- t-002
+- t-001
   global_id: t-87079
   teiginys: "Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje."
   pagrindžia:
     - c-83059
 
 <a id="claim-t-87080"></a>
-- t-001
+- t-002
   global_id: t-87080
   teiginys: "Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis."
   pagrindžia:

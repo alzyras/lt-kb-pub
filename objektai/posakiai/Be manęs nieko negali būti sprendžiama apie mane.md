@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06868"></a>
-- t-002
+- t-001
   global_id: t-06868
   teiginys: "Posakis „Be manęs nieko negali būti sprendžiama apie mane“ buvo laikomas bajorų laisvės dėsniu."
   pagrindžia:

@@ -57,28 +57,28 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
     - c-36807
 
 <a id="claim-t-71640"></a>
-- t-005
+- t-003
   global_id: t-71640
   teiginys: "Po pergalės ties Prostkais samdiniai totoriai dėl konflikto su lietuviais dėl belaisvių pasitraukė iš Lietuvos pajėgų."
   pagrindžia:
     - c-42714
 
 <a id="claim-t-71641"></a>
-- t-006
+- t-004
   global_id: t-71641
   teiginys: "1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių."
   pagrindžia:
     - c-36807
 
 <a id="claim-t-71642"></a>
-- t-003
+- t-005
   global_id: t-71642
   teiginys: "Lietuvos pajėgas sudarė apie 10 tūkst. lietuvių ir 2 tūkst. Krymo totorių samdinių."
   pagrindžia:
     - c-42713
 
 <a id="claim-t-71643"></a>
-- t-004
+- t-006
   global_id: t-71643
   teiginys: "Šiauriau Prostkų per upę besikeliantiems totoriams sulaikyti G. Valdekas pasiuntė B. Radvilos kavaleriją."
   pagrindžia:

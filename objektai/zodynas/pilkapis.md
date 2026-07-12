@@ -44,42 +44,42 @@ Vartojama kaip istorinis ir archeologinis terminas, šaltinyje susiejamas su rus
 ## Teiginiai
 
 <a id="claim-t-192276"></a>
-- t-010
+- t-001
   global_id: t-192276
   teiginys: "Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams."
   pagrindžia:
     - c-175101
 
 <a id="claim-t-192277"></a>
-- t-004
+- t-002
   global_id: t-192277
   teiginys: "Teodoras Narbutas baltarusių pilkapių horizontalų pjūvį apibūdina kaip šiek tiek suplotos elipsės formą."
   pagrindžia:
     - c-175100
 
 <a id="claim-t-192278"></a>
-- t-001
+- t-003
   global_id: t-192278
   teiginys: "Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany."
   pagrindžia:
     - c-175102
 
 <a id="claim-t-192279"></a>
-- t-008
+- t-004
   global_id: t-192279
   teiginys: "Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais."
   pagrindžia:
     - c-175101
 
 <a id="claim-t-192281"></a>
-- t-002
+- t-005
   global_id: t-192281
   teiginys: "Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany."
   pagrindžia:
     - c-175102
 
 <a id="claim-t-192282"></a>
-- t-009
+- t-006
   global_id: t-192282
   teiginys: "Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai."
   pagrindžia:

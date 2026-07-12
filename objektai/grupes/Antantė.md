@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - ginklas
   - grupe
+  - institucija
   - valstybė
 amziai:
   - 'XX'
@@ -47,7 +48,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - c-22338
 
 <a id="claim-t-19635"></a>
-- t-004
+- t-002
   global_id: t-19635
   teiginys: "1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure."
   pagrindžia:
@@ -61,7 +62,7 @@ Vokietija pateikė ginklų kuriamiems Lietuvos kariuomenės daliniams ir, Antant
     - c-22340
 
 <a id="claim-t-19637"></a>
-- t-002
+- t-004
   global_id: t-19637
   teiginys: "Antantė pripažino, kad Lietuvos Taryba iškėlė nepriklausomybės klausimą ir išsivadavo iš Vokietijos politikos diktato."
   pagrindžia:

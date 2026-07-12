@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ginklas
   - pilis
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -46,14 +47,14 @@ Dusburgietis teigia, kad jie, priėję šią pilį, nužudė brolį Liudviką, v
     - c-60638
 
 <a id="claim-t-60005"></a>
-- t-003
+- t-002
   global_id: t-60005
   teiginys: "1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo."
   pagrindžia:
     - c-60637
 
 <a id="claim-t-60006"></a>
-- t-002
+- t-003
   global_id: t-60006
   teiginys: "Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių."
   pagrindžia:

@@ -37,7 +37,7 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
     - c-167455
 
 <a id="claim-t-60287"></a>
-- t-001
+- t-002
   global_id: t-60287
   teiginys: "Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį."
   pagrindžia:

@@ -41,42 +41,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-126076"></a>
-- t-012
+- t-001
   global_id: t-126076
   teiginys: "Po 1843 m. pertvarkos caro valdžia Vilniaus guberniją priskyrė prie baltarusiškų, nors jos vakarinėje dalyje tebevyravo lietuviškai kalbantieji."
   pagrindžia:
     - c-115219
 
 <a id="claim-t-126077"></a>
-- t-013
+- t-002
   global_id: t-126077
   teiginys: "1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
   pagrindžia:
     - c-115220
 
 <a id="claim-t-126078"></a>
-- t-014
+- t-003
   global_id: t-126078
   teiginys: "Minėtų grupuočių teritorinės aspiracijos apėmė istorines etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose."
   pagrindžia:
     - c-115218
 
 <a id="claim-t-126079"></a>
-- t-015
+- t-004
   global_id: t-126079
   teiginys: "1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis."
   pagrindžia:
     - c-115221
 
 <a id="claim-t-126080"></a>
-- t-011
+- t-005
   global_id: t-126080
   teiginys: "Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene."
   pagrindžia:
     - c-115219
 
 <a id="claim-t-126081"></a>
-- t-016
+- t-006
   global_id: t-126081
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
   pagrindžia:

@@ -35,14 +35,14 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 ## Teiginiai
 
 <a id="claim-t-78425"></a>
-- t-002
+- t-001
   global_id: t-78425
   teiginys: "Lietuviams puolant Vilnių balandžio 23 d., rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
   pagrindžia:
     - c-75714
 
 <a id="claim-t-78426"></a>
-- t-001
+- t-002
   global_id: t-78426
   teiginys: "Vilniaus rusų įguloje buvo du Pskovo muškietininkų pulko batalionai."
   pagrindžia:

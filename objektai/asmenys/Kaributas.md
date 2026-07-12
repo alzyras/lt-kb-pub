@@ -43,49 +43,49 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 ## Teiginiai
 
 <a id="claim-t-97455"></a>
-- t-003
+- t-001
   global_id: t-97455
   teiginys: "Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir Vytautas."
   pagrindžia:
     - c-91950
 
 <a id="claim-t-97456"></a>
-- t-008
+- t-002
   global_id: t-97456
   teiginys: "Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas."
   pagrindžia:
     - c-91949
 
 <a id="claim-t-97457"></a>
-- t-007
+- t-003
   global_id: t-97457
   teiginys: "Kaributas, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
   pagrindžia:
     - c-91950
 
 <a id="claim-t-97458"></a>
-- t-006
+- t-004
   global_id: t-97458
   teiginys: "Kaributas pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
   pagrindžia:
     - c-91945
 
 <a id="claim-t-97459"></a>
-- t-009
+- t-005
   global_id: t-97459
   teiginys: "Kaributas, Jogailos brolis ir Naugardo Sieversko kunigaikštis, sukilo prieš Kęstutį, kai šis buvo apgulęs Jurbarką."
   pagrindžia:
     - c-91951
 
 <a id="claim-t-97460"></a>
-- t-004
+- t-006
   global_id: t-97460
   teiginys: "Kaributas, valdęs Seversko kunigaikštystę, sukėlė maištus Rusioje ir nepripažino Kęstučio viršenybės."
   pagrindžia:
     - c-91944
 
 <a id="claim-t-97461"></a>
-- t-005
+- t-007
   global_id: t-97461
   teiginys: "Karalių Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
   pagrindžia:

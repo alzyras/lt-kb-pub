@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187793"></a>
-- t-002
+- t-001
   global_id: t-187793
   teiginys: "E. Aleksandravičius buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   pagrindžia:

@@ -47,7 +47,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
 ## Teiginiai
 
 <a id="claim-t-175106"></a>
-- t-009
+- t-001
   global_id: t-175106
   teiginys: "Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje."
   pagrindžia:
@@ -55,35 +55,35 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159276
 
 <a id="claim-t-175107"></a>
-- t-029
+- t-002
   global_id: t-175107
   teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
   pagrindžia:
     - c-159274
 
 <a id="claim-t-175108"></a>
-- t-017
+- t-003
   global_id: t-175108
   teiginys: "Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
   pagrindžia:
     - c-159286
 
 <a id="claim-t-175110"></a>
-- t-016
+- t-004
   global_id: t-175110
   teiginys: "Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę."
   pagrindžia:
     - c-159268
 
 <a id="claim-t-175111"></a>
-- t-002
+- t-005
   global_id: t-175111
   teiginys: "Komentarinėje pastaboje nurodoma, kad Dusburgietis Sūduvos vardu vadina sūduvių, arba jotvingių, gyvenamą kraštą XIII a."
   pagrindžia:
     - c-159264
 
 <a id="claim-t-175112"></a>
-- t-026
+- t-006
   global_id: t-175112
   teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
   pagrindžia:
@@ -91,7 +91,7 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159260
 
 <a id="claim-t-175113"></a>
-- t-027
+- t-007
   global_id: t-175113
   teiginys: "Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę."
   pagrindžia:
@@ -100,91 +100,91 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159280
 
 <a id="claim-t-175114"></a>
-- t-006
+- t-008
   global_id: t-175114
   teiginys: "Kazio Būgos nuomone, jotvingiai kalbėjo prūsų kalbos tarme."
   pagrindžia:
     - c-159287
 
 <a id="claim-t-175115"></a>
-- t-005
+- t-009
   global_id: t-175115
   teiginys: "Stipri prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį."
   pagrindžia:
     - c-159252
 
 <a id="claim-t-175116"></a>
-- t-008
+- t-010
   global_id: t-175116
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
   pagrindžia:
     - c-159257
 
 <a id="claim-t-175117"></a>
-- t-031
+- t-011
   global_id: t-175117
   teiginys: "Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį."
   pagrindžia:
     - c-159262
 
 <a id="claim-t-175118"></a>
-- t-024
+- t-012
   global_id: t-175118
   teiginys: "Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi."
   pagrindžia:
     - c-159266
 
 <a id="claim-t-175119"></a>
-- t-036
+- t-013
   global_id: t-175119
   teiginys: "Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių."
   pagrindžia:
     - c-159288
 
 <a id="claim-t-175120"></a>
-- t-025
+- t-014
   global_id: t-175120
   teiginys: "Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis."
   pagrindžia:
     - c-159288
 
 <a id="claim-t-175122"></a>
-- t-028
+- t-015
   global_id: t-175122
   teiginys: "Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą."
   pagrindžia:
     - c-159280
 
 <a id="claim-t-175123"></a>
-- t-003
+- t-016
   global_id: t-175123
   teiginys: "Sūduviai pranoko kitus kilnumu, turtais ir galybe ir turėjo šešis tūkstančius raitelių bei daug kitokių karių."
   pagrindžia:
     - c-159265
 
 <a id="claim-t-175124"></a>
-- t-004
+- t-017
   global_id: t-175124
   teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
   pagrindžia:
     - c-159258
 
 <a id="claim-t-175125"></a>
-- t-015
+- t-018
   global_id: t-175125
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė."
   pagrindžia:
     - c-159252
 
 <a id="claim-t-175126"></a>
-- t-012
+- t-019
   global_id: t-175126
   teiginys: "Dusburgietis sūduvius apibūdina kaip tauriausius, kitus pranokusius papročių kilnumu, turtais ir galybe."
   pagrindžia:
     - c-159271
 
 <a id="claim-t-175128"></a>
-- t-021
+- t-020
   global_id: t-175128
   teiginys: "Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę."
   pagrindžia:
@@ -193,63 +193,63 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159282
 
 <a id="claim-t-175129"></a>
-- t-011
+- t-021
   global_id: t-175129
   teiginys: "Dusburgietis Sūduva vadina XIII a. sūduvių, arba jotvingių, gyvenamą kraštą."
   pagrindžia:
     - c-159264
 
 <a id="claim-t-175130"></a>
-- t-023
+- t-022
   global_id: t-175130
   teiginys: "Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį."
   pagrindžia:
     - c-159267
 
 <a id="claim-t-175131"></a>
-- t-019
+- t-023
   global_id: t-175131
   teiginys: "Skomantas su sūduviais įsibrovė į Kulmo žemę ir padalijo kariuomenę į dvi dalis, nukreiptas prieš Torunę ir Kulmo miestą."
   pagrindžia:
     - c-159253
 
 <a id="claim-t-175132"></a>
-- t-013
+- t-024
   global_id: t-175132
   teiginys: "Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį."
   pagrindžia:
     - c-159289
 
 <a id="claim-t-175133"></a>
-- t-020
+- t-025
   global_id: t-175133
   teiginys: "Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
   pagrindžia:
     - c-159290
 
 <a id="claim-t-175134"></a>
-- t-007
+- t-026
   global_id: t-175134
   teiginys: "Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais."
   pagrindžia:
     - c-159270
 
 <a id="claim-t-175135"></a>
-- t-022
+- t-027
   global_id: t-175135
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino."
   pagrindžia:
     - c-159254
 
 <a id="claim-t-175136"></a>
-- t-014
+- t-028
   global_id: t-175136
   teiginys: "Kariuomenė iš Sūduvos ir kitų žemių prie Valevonos pilies apiplėšė aplinkinius valsčius ir pasitraukė."
   pagrindžia:
     - c-159291
 
 <a id="claim-t-175137"></a>
-- t-018
+- t-029
   global_id: t-175137
   teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
   pagrindžia:
@@ -263,49 +263,49 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - c-159272
 
 <a id="claim-t-175137"></a>
-- t-018
+- t-031
   global_id: t-175137
   teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
   pagrindžia:
     - c-159260
 
 <a id="claim-t-183903"></a>
-- t-038
+- t-032
   global_id: t-183903
   teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
   pagrindžia:
     - c-159259
 
 <a id="claim-t-175107"></a>
-- t-029
+- t-033
   global_id: t-175107
   teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
   pagrindžia:
     - c-159274
 
 <a id="claim-t-194367"></a>
-- t-040
+- t-034
   global_id: t-194367
   teiginys: "Apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami."
   pagrindžia:
     - c-159252
 
 <a id="claim-t-194368"></a>
-- t-041
+- t-035
   global_id: t-194368
   teiginys: "Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos pilies bei miesto sugriovimą Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei."
   pagrindžia:
     - c-159260
 
 <a id="claim-t-194369"></a>
-- t-042
+- t-036
   global_id: t-194369
   teiginys: "Apie sūduvių pabėgimą Tuo pat metu sūduviai, norėdami atkeršyti už tai, kas aukščiau minėta, įsibrovė su palyginti nedidele kariuomene į Notangos žemę ir, apiplėšę nežymią jos dalį, pasitraukė."
   pagrindžia:
     - c-159259
 
 <a id="claim-t-194370"></a>
-- t-043
+- t-037
   global_id: t-194370
   teiginys: "Jį, paimtą į nelaisvę, atidavė Skomantui, kuris jį labai pamėgo, nes šis buvo toks pat drąsus, kaip ir jis pats, todėl kartą jį, belaisvį, nusivedė ten, kur Sūduvos žemės galingesnieji buvo susirinkę puotauti."
   pagrindžia:

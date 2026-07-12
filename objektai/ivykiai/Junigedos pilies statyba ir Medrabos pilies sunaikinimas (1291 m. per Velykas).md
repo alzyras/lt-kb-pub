@@ -52,21 +52,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66575"></a>
-- t-002
+- t-001
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
   pagrindžia:
     - c-167311
 
 <a id="claim-t-66576"></a>
-- t-001
+- t-002
   global_id: t-66576
   teiginys: "1291 m. per Velykas lietuviai Junigedos valsčiuje pastatė pilį ir pavadino ją tuo pačiu vardu."
   pagrindžia:
     - c-66782
 
 <a id="claim-t-66575"></a>
-- t-002
+- t-003
   global_id: t-66575
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti Junigedos pilies statybai, o paskui sudegino Medrabos pilį."
   pagrindžia:

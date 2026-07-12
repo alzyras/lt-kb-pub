@@ -47,14 +47,14 @@ Dusburgietis teigia, kad vargu ar kas galėtų nuodugniai papasakoti, kokie nuos
     - c-85833
 
 <a id="claim-t-89923"></a>
-- t-003
+- t-002
   global_id: t-89923
   teiginys: "Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje."
   pagrindžia:
     - c-85834
 
 <a id="claim-t-89924"></a>
-- t-002
+- t-003
   global_id: t-89924
   teiginys: "Karaliaučiaus komtūras paskyrė Konradą, pravarde Velnias, Pelužio bendru keršto žygyje."
   pagrindžia:

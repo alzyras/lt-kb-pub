@@ -12,7 +12,7 @@ tags:
   - autorius
   - kunigas
   - mokslininkas
-  - privilegija
+  - vyskupas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

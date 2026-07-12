@@ -11,10 +11,10 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - sąvoka
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -39,14 +39,14 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
 ## Teiginiai
 
 <a id="claim-t-86476"></a>
-- t-002
+- t-001
   global_id: t-86476
   teiginys: "1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus už 164 auksinus ir 36 grašius."
   pagrindžia:
     - c-82457
 
 <a id="claim-t-86477"></a>
-- t-001
+- t-002
   global_id: t-86477
   teiginys: "1570 m. sudarytas nuostolių sąrašas fiksavo lietuviškų monetų keitimą į lenkiškus pinigus."
   pagrindžia:

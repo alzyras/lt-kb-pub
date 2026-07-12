@@ -35,14 +35,14 @@ istorinis venedų vardo ir krašto pavadinimas, aiškinamas per vardų formas, e
 ## Teiginiai
 
 <a id="claim-t-192163"></a>
-- t-002
+- t-001
   global_id: t-192163
   teiginys: "Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand."
   pagrindžia:
     - c-175039
 
 <a id="claim-t-192164"></a>
-- t-003
+- t-002
   global_id: t-192164
   teiginys: "Teodoro Narbuto aiškinimu, lygumų ir klampių pelkynų kraštas galėjo vadintis Venedija, o nuo jo slavai vadinti venedų tauta."
   pagrindžia:

@@ -38,14 +38,14 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 ## Teiginiai
 
 <a id="claim-t-42414"></a>
-- t-002
+- t-001
   global_id: t-42414
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   pagrindžia:
     - c-45488
 
 <a id="claim-t-42415"></a>
-- t-001
+- t-002
   global_id: t-42415
   teiginys: "Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai."
   pagrindžia:

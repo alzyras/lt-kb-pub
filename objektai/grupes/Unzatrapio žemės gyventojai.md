@@ -9,6 +9,7 @@ tags:
   - grupe
   - pilis
   - sutartis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,7 +32,7 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
 ## Teiginiai
 
 <a id="claim-t-63281"></a>
-- t-002
+- t-001
   global_id: t-63281
   teiginys: "Unzatrapio žemės vyrai kartu su komtūro kariuomene įsiveržė į Notangos pakraštį ir jį nuniokojo plėšdami bei degindami."
   pagrindžia:

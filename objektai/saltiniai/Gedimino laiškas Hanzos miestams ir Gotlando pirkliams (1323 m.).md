@@ -38,28 +38,28 @@ Jei jie [se­ noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi
 ## Teiginiai
 
 <a id="claim-t-88119"></a>
-- t-004
+- t-001
   global_id: t-88119
   teiginys: "Gedimino laiške antspaudo niekintojai pasmerkiami kaip tikėjimo ardytojai, eretikai, melagiai ir garbės neturintys žmonės."
   pagrindžia:
     - c-84099
 
 <a id="claim-t-88120"></a>
-- t-001
+- t-002
   global_id: t-88120
   teiginys: "Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia."
   pagrindžia:
     - c-84098
 
 <a id="claim-t-88121"></a>
-- t-002
+- t-003
   global_id: t-88121
   teiginys: "Gedimino laiške skelbiama, kad jo žemė pirkliams, riteriams ir vasalams yra laisva nuo muitų ir kelio prievolių."
   pagrindžia:
     - c-84101
 
 <a id="claim-t-88122"></a>
-- t-003
+- t-004
   global_id: t-88122
   teiginys: "Gediminas žemdirbiams, atvykstantiems į jo karalystę, žadėjo žemę ir dešimt metų laisvo bei nemokamo jos dirbimo."
   pagrindžia:

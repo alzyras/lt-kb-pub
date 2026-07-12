@@ -53,7 +53,7 @@ Nenurodyta
     - c-167342
 
 <a id="claim-t-62899"></a>
-- t-001
+- t-002
   global_id: t-62899
   teiginys: "Pobravas su notangais ir variniais puolė Balgos lauką, pagrobė brolių gyvulius ir buvo nužudytas Gerhardo iš Reino būrio."
   pagrindžia:

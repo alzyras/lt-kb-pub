@@ -39,21 +39,21 @@ Bet Vytautas ir dabar, kaip ir 1410 m., ėmė greit rodyti norą grįžti į Lie
 ## Teiginiai
 
 <a id="claim-t-34342"></a>
-- t-002
+- t-001
   global_id: t-34342
   teiginys: "Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai."
   pagrindžia:
     - c-35568
 
 <a id="claim-t-34343"></a>
-- t-001
+- t-002
   global_id: t-34343
   teiginys: "Didžlenkiai priešinosi Vytauto norui grįžti į Lietuvą, nes buvo ypač suinteresuoti žygio pasisekimu."
   pagrindžia:
     - c-35567
 
 <a id="claim-t-34342"></a>
-- t-002
+- t-003
   global_id: t-34342
   teiginys: "Jogailai vedus trečią žmoną, kai kurie didikai, ypač didžlenkiai, pasipriešino jos karūnacijai, remdamiesi priesaika Jadvygai."
   pagrindžia:

@@ -38,21 +38,21 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Teiginiai
 
 <a id="claim-t-68917"></a>
-- t-003
+- t-001
   global_id: t-68917
   teiginys: "Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį."
   pagrindžia:
     - c-68373
 
 <a id="claim-t-68918"></a>
-- t-003
+- t-002
   global_id: t-68918
   teiginys: "1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas."
   pagrindžia:
     - c-32322
 
 <a id="claim-t-183072"></a>
-- t-004
+- t-003
   global_id: t-183072
   teiginys: "Augusto III karaliavimo pabaigoje Čartoriskiai partijų kovose rėmėsi artimais ryšiais su Petrapilio rūmais."
   pagrindžia:

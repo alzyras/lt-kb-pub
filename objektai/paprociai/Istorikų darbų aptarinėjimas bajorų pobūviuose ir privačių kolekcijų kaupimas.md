@@ -10,7 +10,8 @@ date_start: '1835'
 date_end: '1836'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 amziai:
   - 'XIX'
 media_total_count: '0'

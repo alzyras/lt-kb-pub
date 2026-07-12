@@ -36,14 +36,14 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 ## Teiginiai
 
 <a id="claim-t-22156"></a>
-- t-002
+- t-001
   global_id: t-22156
   teiginys: "Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją."
   pagrindžia:
     - c-24843
 
 <a id="claim-t-22157"></a>
-- t-001
+- t-002
   global_id: t-22157
   teiginys: "Rusijos imperijos vietinio valdymo grandyje gubernijas valdė caro skiriami gubernatoriai, o gubernijos buvo skirstomos į apskritis."
   pagrindžia:

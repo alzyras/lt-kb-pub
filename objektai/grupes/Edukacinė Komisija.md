@@ -44,49 +44,49 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
 ## Teiginiai
 
 <a id="claim-t-107733"></a>
-- t-012
+- t-001
   global_id: t-107733
   teiginys: "Michałas Balińskis, vertindamas Vilniaus akademijos istoriją, pagyrė Edukacinės komisijos veiklą."
   pagrindžia:
     - c-100008
 
 <a id="claim-t-107734"></a>
-- t-015
+- t-002
   global_id: t-107734
   teiginys: "Targovicos konfederacija perskyrė nuo 1773 m. veikusią bendrą Edukacinę Komisiją į atskiras Lietuvos ir Lenkijos komisijas."
   pagrindžia:
     - c-100011
 
 <a id="claim-t-107736"></a>
-- t-014
+- t-003
   global_id: t-107736
   teiginys: "Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė."
   pagrindžia:
     - c-22376
 
 <a id="claim-t-107737"></a>
-- t-016
+- t-004
   global_id: t-107737
   teiginys: "1776 m. panaikinus Dalomąsias Komisijas, visi jų valdyti turtai buvo pavesti Edukacinei Komisijai."
   pagrindžia:
     - c-22375
 
 <a id="claim-t-107738"></a>
-- t-011
+- t-005
   global_id: t-107738
   teiginys: "Vilniuje gyvenęs autorius kurį laiką dirbo Edukacinėje teismo komisijoje."
   pagrindžia:
     - c-100010
 
 <a id="claim-t-107739"></a>
-- t-017
+- t-006
   global_id: t-107739
   teiginys: "Targovicos konfederacija bendrą Edukacinę Komisiją padalijo į atskiras Lietuvos ir Lenkijos komisijas."
   pagrindžia:
     - c-100011
 
 <a id="claim-t-107740"></a>
-- t-012
+- t-007
   global_id: t-107740
   teiginys: "Edukacinė Komisija buvo įkurta kaip bendra Lietuvos ir Lenkijos institucija."
   pagrindžia:
@@ -100,28 +100,28 @@ Komisija buvo įkurta bendra Lietuvai ir Lenkijai. Todėl 1776 m. tos komisijos 
     - c-100013
 
 <a id="claim-t-107742"></a>
-- t-014
+- t-009
   global_id: t-107742
   teiginys: "Edukacinė komisija sumodernino ir supasaulietino mokymo programą, įvesdama gamtos ir tiksliųjų mokslų disciplinas."
   pagrindžia:
     - c-100009
 
 <a id="claim-t-107743"></a>
-- t-013
+- t-010
   global_id: t-107743
   teiginys: "1776 m. panaikinus komisijas, jų turtai buvo pavesti Edukacinei Komisijai."
   pagrindžia:
     - c-22375
 
 <a id="claim-t-107744"></a>
-- t-013
+- t-011
   global_id: t-107744
   teiginys: "Edukacinė komisija įkurta 1773 m.; jos pirmininku tapo Vilniaus vyskupas Ignotas Masalskis."
   pagrindžia:
     - c-100014
 
 <a id="claim-t-182888"></a>
-- t-018
+- t-012
   global_id: t-182888
   teiginys: "A. Šapokos redaguotoje istorijoje Edukacinė Komisija vertinama kaip pirmas Europoje atvejis, kai švietimą perėmė valstybė."
   pagrindžia:

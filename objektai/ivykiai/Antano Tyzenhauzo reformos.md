@@ -12,6 +12,7 @@ date_end: '1773'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - ordinas
   - reforma
@@ -55,21 +56,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66449"></a>
-- t-002
+- t-001
   global_id: t-66449
   teiginys: "Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius."
   pagrindžia:
     - c-166604
 
 <a id="claim-t-66450"></a>
-- t-001
+- t-002
   global_id: t-66450
   teiginys: "Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų."
   pagrindžia:
     - c-66680
 
 <a id="claim-t-66449"></a>
-- t-002
+- t-003
   global_id: t-66449
   teiginys: "Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius."
   pagrindžia:

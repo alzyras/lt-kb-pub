@@ -51,154 +51,154 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 ## Teiginiai
 
 <a id="claim-t-94761"></a>
-- t-009
+- t-001
   global_id: t-94761
   teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
   pagrindžia:
     - c-89828
 
 <a id="claim-t-94762"></a>
-- t-008
+- t-002
   global_id: t-94762
   teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribuciją."
   pagrindžia:
     - c-37566
 
 <a id="claim-t-94763"></a>
-- t-014
+- t-003
   global_id: t-94763
   teiginys: "Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams iš Naugardo ir kitų Rusios miestų Vilniuje."
   pagrindžia:
     - c-89836
 
 <a id="claim-t-94771"></a>
-- t-011
+- t-004
   global_id: t-94771
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:
     - c-89834
 
 <a id="claim-t-94765"></a>
-- t-020
+- t-005
   global_id: t-94765
   teiginys: "1428 m. Naugardas ir Porchovas, nebenorėdami kariauti, sumokėjo Vytautui 10 000 rublių kontribucijos."
   pagrindžia:
     - c-89827
 
 <a id="claim-t-94766"></a>
-- t-013
+- t-006
   global_id: t-94766
   teiginys: "Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas."
   pagrindžia:
     - c-89824
 
 <a id="claim-t-94767"></a>
-- t-017
+- t-007
   global_id: t-94767
   teiginys: "Vytauto valdymo laikais Vilniaus prekyba išsiplėtė su Naugardu, Pskovu, Maskva ir Prūsijos bei Livonijos miestais."
   pagrindžia:
     - c-89826
 
 <a id="claim-t-94769"></a>
-- t-004
+- t-008
   global_id: t-94769
   teiginys: "Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai."
   pagrindžia:
     - c-37565
 
 <a id="claim-t-94770"></a>
-- t-002
+- t-009
   global_id: t-94770
   teiginys: "Livonijos Ordinas sudarė prieš Vytautą nukreiptą taiką su Pskovu 1417 m. ir Naugardu 1421 m., o tai pakenkė Bažnyčių unijai."
   pagrindžia:
     - c-89833
 
 <a id="claim-t-94771"></a>
-- t-011
+- t-010
   global_id: t-94771
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:
     - c-89834
 
 <a id="claim-t-94772"></a>
-- t-007
+- t-011
   global_id: t-94772
   teiginys: "Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai."
   pagrindžia:
     - c-37565
 
 <a id="claim-t-94761"></a>
-- t-009
+- t-012
   global_id: t-94761
   teiginys: "Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai."
   pagrindžia:
     - c-89828
 
 <a id="claim-t-94774"></a>
-- t-001
+- t-013
   global_id: t-94774
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   pagrindžia:
     - c-89829
 
 <a id="claim-t-94775"></a>
-- t-003
+- t-014
   global_id: t-94775
   teiginys: "Vytautas sutvarkė reikalus su Didžiuoju Naugardu ir Maskva."
   pagrindžia:
     - c-37564
 
 <a id="claim-t-94776"></a>
-- t-012
+- t-015
   global_id: t-94776
   teiginys: "Vytauto remiama Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais."
   pagrindžia:
     - c-89826
 
 <a id="claim-t-94777"></a>
-- t-010
+- t-016
   global_id: t-94777
   teiginys: "Lietuvos rytuose gerokai prieš XIII amžių garsėjo du senieji rusų miestai - Pskovas ir Naugardas - prekyba, mūrais ir netgi savo pačių valdžia galingi."
   pagrindžia:
     - c-89839
 
 <a id="claim-t-94778"></a>
-- t-018
+- t-017
   global_id: t-94778
   teiginys: "1427 m. Vytauto žygiai prieš Pskovą ir Naugardą baigėsi sėkmingai."
   pagrindžia:
     - c-89824
 
 <a id="claim-t-94779"></a>
-- t-006
+- t-018
   global_id: t-94779
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
   pagrindžia:
     - c-37567
 
 <a id="claim-t-94780"></a>
-- t-005
+- t-019
   global_id: t-94780
   teiginys: "Naugardas ir Porchovas, nebenorėdami kariauti, 1428 m. sumokėjo Vytautui 10 000 rublių kontribuciją."
   pagrindžia:
     - c-37566
 
 <a id="claim-t-184311"></a>
-- t-021
+- t-020
   global_id: t-184311
   teiginys: "Vytautas turėjo patrankų ir savo žygiuose į Pskovą (1426) bei Naugardą (1428)."
   pagrindžia:
     - c-167684
 
 <a id="claim-t-185060"></a>
-- t-022
+- t-021
   global_id: t-185060
   teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
   pagrindžia:
     - c-168421
 
 <a id="claim-t-185061"></a>
-- t-023
+- t-022
   global_id: t-185061
   teiginys: "Šich Achmetas staigiu antpuoliu užėmė Seversko Naugardą ir Aleksandro vardu pavedė jį valdyti Chaleckiui."
   pagrindžia:

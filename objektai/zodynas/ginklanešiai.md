@@ -40,7 +40,7 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
 ## Teiginiai
 
 <a id="claim-t-175170"></a>
-- t-004
+- t-001
   global_id: t-175170
   teiginys: "1293 m. vienas ginklanešys iš Ragainės, gimęs Bartos žemėje, pabėgo ir lietuvių karaliui pasisiūlė perduoti Skalvių pilį."
   pagrindžia:
@@ -54,21 +54,21 @@ Dusburgietis teigia, kad broliai, smarkiai juos persekioję su savo ginklanešia
     - c-159327
 
 <a id="claim-t-175172"></a>
-- t-001
+- t-003
   global_id: t-175172
   teiginys: "Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė."
   pagrindžia:
     - c-159326
 
 <a id="claim-t-175174"></a>
-- t-003
+- t-004
   global_id: t-175174
   teiginys: "Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė lietuvius ir 25 jų nukovė."
   pagrindžia:
     - c-159328
 
 <a id="claim-t-175172"></a>
-- t-001
+- t-005
   global_id: t-175172
   teiginys: "Broliai su savo ginklanešiais persekiojo iš Notangos besitraukusius sūduvius, daug jų nukovė ar mirtinai sužeidė."
   pagrindžia:

@@ -16,6 +16,7 @@ tags:
   - pilis
   - sąvoka
   - vyskupas
+  - šeima
 amziai:
   - 'XI'
   - 'XIV'

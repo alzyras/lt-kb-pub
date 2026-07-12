@@ -40,21 +40,21 @@ Vartojamas geografiniam atstumui nurodyti ir lyginti su kitais istoriniais matav
 ## Teiginiai
 
 <a id="claim-t-192176"></a>
-- t-003
+- t-001
   global_id: t-192176
   teiginys: "Narbutas nurodė: Lotyniškoje pastaboje 600 romėniškų mylių nurodomos kaip atstumas nuo Karnunto Panonijoje iki Germanijos pakrantės."
   pagrindžia:
     - c-175050
 
 <a id="claim-t-192177"></a>
-- t-001
+- t-002
   global_id: t-192177
   teiginys: "Teodoras Narbutas kelio ilgį pagal Plinijų nusako kaip 600 romėnų miliarijų."
   pagrindžia:
     - c-175051
 
 <a id="claim-t-192178"></a>
-- t-002
+- t-003
   global_id: t-192178
   teiginys: "Teodoras Narbutas 600 romėnų miliarijų prilygina 120—125 vokiečių mylioms ir sieja su Ptolemėjo nurodytu nuotoliu."
   pagrindžia:

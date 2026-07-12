@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59397"></a>
-- t-002
+- t-001
   global_id: t-59397
   teiginys: "Kunigaikštis ir Teutonų ordino broliai užėmė Partigalos pilį ir kuorą, sudegino pastatus, o žmones išsivedė į nelaisvę arba išžudė."
   pagrindžia:
     - c-60030
 
 <a id="claim-t-59398"></a>
-- t-001
+- t-002
   global_id: t-59398
   teiginys: "Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį."
   pagrindžia:

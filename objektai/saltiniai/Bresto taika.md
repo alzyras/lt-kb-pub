@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
 amziai:
   - 'XX'
@@ -35,14 +36,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-21028"></a>
-- t-002
+- t-001
   global_id: t-21028
   teiginys: "1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos."
   pagrindžia:
     - c-23750
 
 <a id="claim-t-21029"></a>
-- t-001
+- t-002
   global_id: t-21029
   teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta."
   pagrindžia:

@@ -44,21 +44,21 @@ Vartojama kalbant apie vietinius valdovus ir jų rezidencines pilis.
 ## Teiginiai
 
 <a id="claim-t-192266"></a>
-- t-002
+- t-001
   global_id: t-192266
   teiginys: "Narbuto aiškinimu, Rejkis buvo provincijas valdžiusių karaliukų pavadinimas, o ne vieno konkretaus asmens vardas."
   pagrindžia:
     - c-175096
 
 <a id="claim-t-192267"></a>
-- t-001
+- t-002
   global_id: t-192267
   teiginys: "Narbuto aiškinimu, provincijas valdė karaliukai, vadinami Rejkis ir Kunigas."
   pagrindžia:
     - c-175096
 
 <a id="claim-t-192571"></a>
-- t-005
+- t-003
   global_id: t-192571
   teiginys: "Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas."
   pagrindžia:

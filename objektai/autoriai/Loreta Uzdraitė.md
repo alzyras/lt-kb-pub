@@ -48,105 +48,105 @@ Loreta Uzdraitė šiame leidinyje minima kaip kelių žemėlapių, schemų ir in
 ## Teiginiai
 
 <a id="claim-t-78777"></a>
-- t-004
+- t-001
   global_id: t-78777
   teiginys: "Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie Kalavijuočių ordino ir kryžininkų įsiveržimą į Šiaulių žemę."
   pagrindžia:
     - c-42436
 
 <a id="claim-t-78778"></a>
-- t-010
+- t-002
   global_id: t-78778
   teiginys: "Loreta Uzdraitė kartu su Albertu Daugirdu ir Karoliu Zikaru parengė kartoschemą apie AT rūmų gynybos ruožus 1991 m. sausio-rugpjūčio mėnesiais."
   pagrindžia:
     - c-42441
 
 <a id="claim-t-78779"></a>
-- t-005
+- t-003
   global_id: t-78779
   teiginys: "Loreta Uzdraitė kartu su Karoliu Zikaru parengė kartoschemą „Mindaugo valdoma Lietuva iki 1263 m.“."
   pagrindžia:
     - c-42437
 
 <a id="claim-t-78780"></a>
-- t-015
+- t-004
   global_id: t-78780
   teiginys: "Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai."
   pagrindžia:
     - c-75934
 
 <a id="claim-t-78781"></a>
-- t-008
+- t-005
   global_id: t-78781
   teiginys: "Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Algirdo žygius į Maskvą ir Maskvos valstybės augimą."
   pagrindžia:
     - c-42440
 
 <a id="claim-t-78782"></a>
-- t-012
+- t-006
   global_id: t-78782
   teiginys: "Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai."
   pagrindžia:
     - c-42441
 
 <a id="claim-t-78783"></a>
-- t-013
+- t-007
   global_id: t-78783
   teiginys: "Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kryžininkų pajėgų telkimas prieš Lietuvą 1236 m.“ autoriai."
   pagrindžia:
     - c-11416
 
 <a id="claim-t-78784"></a>
-- t-014
+- t-008
   global_id: t-78784
   teiginys: "Loreta Uzdraitė, Romas Batūra ir Karolis Zikaras yra teksto „Kalavijuočių ordino ir kryžininkų įsiveržimas į Šiaulių žemę“ autoriai."
   pagrindžia:
     - c-42436
 
 <a id="claim-t-78785"></a>
-- t-003
+- t-009
   global_id: t-78785
   teiginys: "Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru parengė kartoschemą apie kryžininkų pajėgų telkimą prieš Lietuvą 1236 m."
   pagrindžia:
     - c-42435
 
 <a id="claim-t-78786"></a>
-- t-009
+- t-010
   global_id: t-78786
   teiginys: "Loreta Uzdraitė kartu su Arvydu Anušausku ir Karoliu Zikaru parengė kartoschemą apie žymiausius Lietuvos partizanų mūšius prieš sovietų pajėgas."
   pagrindžia:
     - c-42441
 
 <a id="claim-t-78787"></a>
-- t-007
+- t-011
   global_id: t-78787
   teiginys: "Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą „Lietuvos gynybinė sistema iki 1362 m.“."
   pagrindžia:
     - c-42439
 
 <a id="claim-t-78788"></a>
-- t-002
+- t-012
   global_id: t-78788
   teiginys: "Loreta Uzdraitė kartu su Romu Batūra ir Karoliu Zikaru rengė ankstyvųjų leidinio skyrių kartoschemas."
   pagrindžia:
     - c-11416
 
 <a id="claim-t-78789"></a>
-- t-006
+- t-013
   global_id: t-78789
   teiginys: "Loreta Uzdraitė kartu su Karoliu Zikaru ir Romu Batūra parengė kartoschemą apie Lietuvos teritoriją iki 1341 m."
   pagrindžia:
     - c-42437
 
 <a id="claim-t-193748"></a>
-- t-016
+- t-014
   global_id: t-193748
   teiginys: "33, Lietuvos teritorija iki 1341 m. Gedimino apie 1325 m. užimtos Kijevo žemės pilys, Karolis Zikaras, Romas Batūra, Loreta Uzdraité."
   pagrindžia:
     - c-42437
 
 <a id="claim-t-193749"></a>
-- t-017
+- t-015
   global_id: t-193749
   teiginys: "239, AT rūmų gynybos ruožai 1991 m. sausio-rugpjūčio mėnesiais, Albertas Daugirdas, Karolis Zikaras, Loreta Uzdraitė."
   pagrindžia:

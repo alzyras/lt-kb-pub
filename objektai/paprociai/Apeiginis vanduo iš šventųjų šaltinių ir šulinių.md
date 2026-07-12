@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187988"></a>
-- t-004
+- t-001
   global_id: t-187988
   teiginys: "Narbutas rašo, kad apeiginiu vandeniu iš šventųjų šaltinių ar šulinių apiplaudavo aukojamus gyvulius ir laikė jį švarinančiu."
   pagrindžia:
     - c-170999
 
 <a id="claim-t-187990"></a>
-- t-005
+- t-002
   global_id: t-187990
   teiginys: "Narbutas, remdamasis Dusburgiečiu, rašo, kad krikščionims nebuvo leidžiama prieiti prie apeiginių šventųjų šaltinių."
   pagrindžia:

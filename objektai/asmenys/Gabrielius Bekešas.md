@@ -104,14 +104,14 @@ Gabrielius Bekešas Skornatas pristatomas kaip vengrų pulkų vadas, apdovanotas
     - c-78790
 
 <a id="claim-t-82312"></a>
-- t-008
+- t-007
   global_id: t-82312
   teiginys: "Gabrieliui Bekešui ir jo palikuonims buvo leista valdose naudoti derlių, statyti bažnyčias, mokyklas, smukles ir malūnus."
   pagrindžia:
     - c-78789
 
 <a id="claim-t-82313"></a>
-- t-007
+- t-008
   global_id: t-82313
   teiginys: "Gabrielius Bekešas Skornatas vadovavo karaliaus vengrų pulkams ir buvo įvertintas už ištikimą, drąsią bei pasiaukojamą tarnybą."
   pagrindžia:

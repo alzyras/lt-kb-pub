@@ -42,98 +42,98 @@ Suteikdamas prieglobstį Lietuvoje apaštalavusiems pranciš­ konams ir dominik
 ## Teiginiai
 
 <a id="claim-t-172080"></a>
-- t-008
+- t-001
   global_id: t-172080
   teiginys: "Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote."
   pagrindžia:
     - c-156509
 
 <a id="claim-t-172081"></a>
-- t-013
+- t-002
   global_id: t-172081
   teiginys: "Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams."
   pagrindžia:
     - c-156508
 
 <a id="claim-t-172082"></a>
-- t-007
+- t-003
   global_id: t-172082
   teiginys: "Gediminas teigė turįs dominikonų brolių ir suteikęs jiems visišką laisvę krikštyti, pamokslauti bei atlikti šventąsias apeigas."
   pagrindžia:
     - c-156520
 
 <a id="claim-t-172083"></a>
-- t-006
+- t-004
   global_id: t-172083
   teiginys: "Gediminas kvietė dominikonus ir žadėjo netrukus duoti jiems bažnyčią."
   pagrindžia:
     - c-156517
 
 <a id="claim-t-172084"></a>
-- t-012
+- t-005
   global_id: t-172084
   teiginys: "Aleksandras 1501 metais pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
   pagrindžia:
     - c-156510
 
 <a id="claim-t-172085"></a>
-- t-002
+- t-006
   global_id: t-172085
   teiginys: "1323 m. notaro parengtas Gedimino laiškų dominikonams, pranciškonams ir Hanzos miestams dokumentas buvo Karaliaučiaus Slaptajame archyve."
   pagrindžia:
     - c-156512
 
 <a id="claim-t-172086"></a>
-- t-001
+- t-007
   global_id: t-172086
   teiginys: "Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią."
   pagrindžia:
     - c-156518
 
 <a id="claim-t-172087"></a>
-- t-005
+- t-008
   global_id: t-172087
   teiginys: "Gediminas nurodė pastatęs trečią bažnyčią dominikonams, kad kiekvienas pagal savo apeigas galėtų garbinti Dievą."
   pagrindžia:
     - c-156505
 
 <a id="claim-t-172089"></a>
-- t-015
+- t-009
   global_id: t-172089
   teiginys: "Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie dominikonų vienuolyno, buvusio prie Šv. Dvasios bažnyčios Vilniuje."
   pagrindžia:
     - c-156507
 
 <a id="claim-t-172090"></a>
-- t-011
+- t-010
   global_id: t-172090
   teiginys: "Lietuvos vyskupas Vitas, dominikonas, 1254 m. gegužės 8 d. dalyvavo skelbiant Šv. Stanislovo kanonizavimą Krokuvos bažnyčioje."
   pagrindžia:
     - c-156506
 
 <a id="claim-t-172091"></a>
-- t-004
+- t-011
   global_id: t-172091
   teiginys: "Gediminas ketino kviesti dorus dominikonų ir pranciškonų vienuolius, bet nepageidavo vienuolynus plėšikų prieglobsčiu paverčiančių vienuolių."
   pagrindžia:
     - c-156513
 
 <a id="claim-t-172092"></a>
-- t-016
+- t-012
   global_id: t-172092
   teiginys: "Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį."
   pagrindžia:
     - c-156511
 
 <a id="claim-t-172093"></a>
-- t-003
+- t-013
   global_id: t-172093
   teiginys: "Gediminas dominikonų magistrams, priorams ir broliams pranešė pasiuntęs laišką popiežiui Jonui dėl krikšto."
   pagrindžia:
     - c-156519
 
 <a id="claim-t-172095"></a>
-- t-010
+- t-014
   global_id: t-172095
   teiginys: "Algirdo laikais sugriautos dominikonų ordino brolių bažnyčios griuvėsiai išlaikė Gedimino palankumo krikščionybei atminimą."
   pagrindžia:

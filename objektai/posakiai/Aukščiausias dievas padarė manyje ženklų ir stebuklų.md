@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - posakis
   - tikėjimas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Dusburgietis teigia, kad pratarmė „Aukščiausias dievas padarė manyje ženk
 ## Teiginiai
 
 <a id="claim-t-89576"></a>
-- t-004
+- t-001
   global_id: t-89576
   teiginys: "Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras."
   pagrindžia:
     - c-85519
 
 <a id="claim-t-89577"></a>
-- t-003
+- t-002
   global_id: t-89577
   teiginys: "Dusburgietis posakį „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ pritaikė savo sumanymui skelbti Dievo ženklus ir stebuklus."
   pagrindžia:

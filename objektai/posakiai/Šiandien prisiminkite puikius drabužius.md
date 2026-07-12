@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - mūšis
   - posakis
   - tikėjimas

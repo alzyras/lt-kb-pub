@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - seimas
 amziai:
   - 'XX'
@@ -43,14 +44,14 @@ rugpjūčio 25 dieną Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausi
     - c-22580
 
 <a id="claim-t-45086"></a>
-- t-003
+- t-002
   global_id: t-45086
   teiginys: "Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia."
   pagrindžia:
     - c-48004
 
 <a id="claim-t-45085"></a>
-- t-001
+- t-003
   global_id: t-45085
   teiginys: "Lietuvos SSR liaudies komisarų taryba buvo patvirtinta formaliai aukščiausiąja respublikos vykdomąja valdžia ir pakeitė Liaudies vyriausybę."
   pagrindžia:

@@ -31,21 +31,21 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 ## Teiginiai
 
 <a id="claim-t-85646"></a>
-- t-002
+- t-001
   global_id: t-85646
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios."
   pagrindžia:
     - c-81628
 
 <a id="claim-t-85647"></a>
-- t-003
+- t-002
   global_id: t-85647
   teiginys: "Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios."
   pagrindžia:
     - c-81628
 
 <a id="claim-t-85648"></a>
-- t-001
+- t-003
   global_id: t-85648
   teiginys: "Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę."
   pagrindžia:

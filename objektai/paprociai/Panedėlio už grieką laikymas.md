@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07797"></a>
-- t-002
+- t-001
   global_id: t-07797
   teiginys: "Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu."
   pagrindžia:

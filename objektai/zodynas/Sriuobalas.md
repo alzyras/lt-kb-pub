@@ -36,7 +36,7 @@ Vartojamos formos: `sriuobalą`, `sriuobalu`.
 ## Teiginiai
 
 <a id="claim-t-70049"></a>
-- t-003
+- t-001
   global_id: t-70049
   teiginys: "`Sriuobalas` šiame tekste reiškia skystą valgomą putrą ar sriubą."
   pagrindžia:

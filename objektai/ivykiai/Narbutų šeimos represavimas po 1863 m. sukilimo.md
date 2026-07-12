@@ -57,7 +57,7 @@ Knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažny
 ## Teiginiai
 
 <a id="claim-t-187970"></a>
-- t-004
+- t-001
   global_id: t-187970
   teiginys: "Po Šaurų dvaro sekvestravimo Narbutų šeimos knygos, archyvai ir muziejaus eksponatai buvo suvežti į vieną Vilniaus bažnyčią."
   pagrindžia:

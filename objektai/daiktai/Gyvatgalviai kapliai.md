@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89427"></a>
-- t-002
+- t-001
   global_id: t-89427
   teiginys: "Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai."
   pagrindžia:

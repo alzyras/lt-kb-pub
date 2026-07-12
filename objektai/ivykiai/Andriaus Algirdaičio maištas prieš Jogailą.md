@@ -72,21 +72,21 @@ Nenurodyta
     - c-169947
 
 <a id="claim-t-186722"></a>
-- t-004
+- t-003
   global_id: t-186722
   teiginys: "1387 m. balandžio pirmojoje pusėje Skirgaila užėmė Polocką, o Andrius Algirdaitis buvo suimtas."
   pagrindžia:
     - c-169948
 
 <a id="claim-t-186723"></a>
-- t-005
+- t-004
   global_id: t-186723
   teiginys: "Po Polocko užėmimo Andrius Algirdaitis buvo suimtas ir septynerius metus kalėjo Chencinų tvirtovėje Lenkijoje."
   pagrindžia:
     - c-169948
 
 <a id="claim-t-186724"></a>
-- t-003
+- t-005
   global_id: t-186724
   teiginys: "Per Andriaus Algirdaičio maištą Livonijos kryžiuočiai padėjo Andriui Algirdaičiui užimti Lukomlį."
   pagrindžia:

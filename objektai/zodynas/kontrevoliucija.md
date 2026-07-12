@@ -38,14 +38,14 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
 ## Teiginiai
 
 <a id="claim-t-36797"></a>
-- t-003
+- t-001
   global_id: t-36797
   teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisekimui."
   pagrindžia:
     - c-38743
 
 <a id="claim-t-36796"></a>
-- t-005
+- t-002
   global_id: t-36796
   teiginys: "Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi."
   pagrindžia:

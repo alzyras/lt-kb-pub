@@ -36,7 +36,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-03093
 
 <a id="claim-t-02855"></a>
-- t-001
+- t-002
   global_id: t-02855
   teiginys: "Verenavoje buvo įkurta pijarų mokykla."
   pagrindžia:

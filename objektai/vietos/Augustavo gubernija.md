@@ -46,14 +46,14 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - c-156101
 
 <a id="claim-t-171616"></a>
-- t-008
+- t-002
   global_id: t-171616
   teiginys: "1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene."
   pagrindžia:
     - c-156102
 
 <a id="claim-t-183583"></a>
-- t-009
+- t-003
   global_id: t-183583
   teiginys: "Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija."
   pagrindžia:

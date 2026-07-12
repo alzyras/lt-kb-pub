@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07799"></a>
-- t-002
+- t-001
   global_id: t-07799
   teiginys: "Vėlėms prieš valgį ir gėrimą aukodavo pirmuosius kąsnius ir gurkšnius, o Ilgių dieną kartą per metus jas vaišindavo."
   pagrindžia:

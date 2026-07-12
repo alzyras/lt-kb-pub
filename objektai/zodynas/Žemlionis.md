@@ -36,7 +36,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 ## Teiginiai
 
 <a id="claim-t-70424"></a>
-- t-006
+- t-001
   global_id: t-70424
   teiginys: "Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu."
   pagrindžia:
@@ -44,14 +44,14 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     - c-09783
 
 <a id="claim-t-70425"></a>
-- t-004
+- t-002
   global_id: t-70425
   teiginys: "Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius."
   pagrindžia:
     - c-09781
 
 <a id="claim-t-70426"></a>
-- t-005
+- t-003
   global_id: t-70426
   teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
   pagrindžia:

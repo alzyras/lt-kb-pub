@@ -65,14 +65,14 @@ Nenurodyta
     - c-83047
 
 <a id="claim-t-87067"></a>
-- t-003
+- t-002
   global_id: t-87067
   teiginys: "1394 m. Švitrigaila mėgino užimti Vilnių, įkalbėdamas vienuolius padegti du medinius bokštus puolimo metu."
   pagrindžia:
     - c-83046
 
 <a id="claim-t-87068"></a>
-- t-002
+- t-003
   global_id: t-87068
   teiginys: "1394 m. magistras tris savaites ir dvi dienas daužė Vilniaus pilių sienas ir bokštus, bet pilių neužėmė dėl griovių ir perkasų."
   pagrindžia:

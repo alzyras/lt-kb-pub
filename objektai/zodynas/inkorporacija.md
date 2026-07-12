@@ -14,7 +14,9 @@ date_start: '1301'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - teisinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'
@@ -67,14 +69,14 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 ## Teiginiai
 
 <a id="claim-t-47923"></a>
-- t-004
+- t-001
   global_id: t-47923
   teiginys: "Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna."
   pagrindžia:
     - c-32651
 
 <a id="claim-t-47924"></a>
-- t-003
+- t-002
   global_id: t-47924
   teiginys: "1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį."
   pagrindžia:

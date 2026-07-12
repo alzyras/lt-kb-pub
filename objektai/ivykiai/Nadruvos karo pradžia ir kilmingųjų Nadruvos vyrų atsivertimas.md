@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62882"></a>
-- t-002
+- t-001
   global_id: t-62882
   teiginys: "1274 m. magistras ir broliai, siekdami praplėsti krikščionių žemių ribas, nukreipė ginklus prieš nadruvius."
   pagrindžia:

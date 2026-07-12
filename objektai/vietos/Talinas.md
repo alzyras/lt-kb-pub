@@ -47,35 +47,35 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 ## Teiginiai
 
 <a id="claim-t-136207"></a>
-- t-006
+- t-001
   global_id: t-136207
   teiginys: "Balińskis Revelio, dabartinio Talino, atsiradimą siejo su danais."
   pagrindžia:
     - c-124187
 
 <a id="claim-t-136208"></a>
-- t-008
+- t-002
   global_id: t-136208
   teiginys: "1989 m. rugpjūčio 23 d. Gyvasis Baltijos kelias sujungė Vilnių, Rygą ir Taliną rankomis susikibusių žmonių grandine."
   pagrindžia:
     - c-124186
 
 <a id="claim-t-136209"></a>
-- t-007
+- t-003
   global_id: t-136209
   teiginys: "Rusų tautybės gyventojams buvo lengviau keltis į Taliną, nes jame vyravo jiems sava rusakalbė aplinka."
   pagrindžia:
     - c-124188
 
 <a id="claim-t-136210"></a>
-- t-010
+- t-004
   global_id: t-136210
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
   pagrindžia:
     - c-124189
 
 <a id="claim-t-136212"></a>
-- t-009
+- t-005
   global_id: t-136212
   teiginys: "1609 m. kovo 16 d. Jonas Karolis Chodkevičius sužinojo, kad iš Talino išsiųstas švedų pastiprinimas buvo 50 km nuo Piarnu."
   pagrindžia:

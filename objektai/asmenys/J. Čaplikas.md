@@ -29,14 +29,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40170"></a>
-- t-002
+- t-001
   global_id: t-40170
   teiginys: "J. Čaplikas puolė Jestšembną, sustabdė lenkus ir galėjo atsitraukti į Gruškų-Liepynės liniją."
   pagrindžia:
     - c-44368
 
 <a id="claim-t-40171"></a>
-- t-001
+- t-002
   global_id: t-40171
   teiginys: "J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo."
   pagrindžia:

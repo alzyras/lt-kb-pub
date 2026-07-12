@@ -30,7 +30,7 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
 ## Teiginiai
 
 <a id="claim-t-84558"></a>
-- t-003
+- t-001
   global_id: t-84558
   teiginys: "Prie Pruto upės buvę kaimai buvo grąžinti, inkorporuoti ir užrašyti Teterino dvarui."
   pagrindžia:

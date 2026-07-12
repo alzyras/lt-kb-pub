@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186920"></a>
-- t-003
+- t-001
   global_id: t-186920
   teiginys: "Rastasis Bychovco kronikos rankraštis apibūdinamas kaip vėlesnis nuorašas iš blogai išlikusios kopijos."
   pagrindžia:
@@ -67,7 +67,7 @@ Nenurodyta
     - c-170097
 
 <a id="claim-t-186922"></a>
-- t-001
+- t-003
   global_id: t-186922
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje kilę metraštiniai tekstai plito rankraštiniais nuorašais."
   pagrindžia:

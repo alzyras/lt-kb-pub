@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - privilegija
   - tauta
 amziai:
   - 'XV'

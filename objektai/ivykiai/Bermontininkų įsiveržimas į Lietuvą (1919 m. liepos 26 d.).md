@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66493"></a>
-- t-004
+- t-001
   global_id: t-66493
   teiginys: "1919 m. liepos 26 d. ties Kuršėnais iš Latvijos į Lietuvos teritoriją įžengė stipri jungtinė vokiečių ir rusų kariuomenė."
   pagrindžia:
     - c-66708
 
 <a id="claim-t-66494"></a>
-- t-003
+- t-002
   global_id: t-66494
   teiginys: "1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai."
   pagrindžia:
     - c-43039
 
 <a id="claim-t-66496"></a>
-- t-004
+- t-003
   global_id: t-66496
   teiginys: "Lietuvos vyriausybė negalėjo užkirsti kelio plk. Virgoličiaus rinktinei, nes Lietuvos kariuomenė tuo metu dar kovėsi su bolševikais Dauguvos fronte."
   pagrindžia:

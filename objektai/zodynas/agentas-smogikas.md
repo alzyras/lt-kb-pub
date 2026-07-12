@@ -36,14 +36,14 @@ UŽPELKIŲ KAUTYNĖS 241 fo} j= o a o Qa nn co ia co ae ## Puslapis 244 NKVD SMO
 ## Teiginiai
 
 <a id="claim-t-42428"></a>
-- t-002
+- t-001
   global_id: t-42428
   teiginys: "Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo suformuotose specialiosiose grupėse, kurioms paprastai vadovaudavo operatyvininkas."
   pagrindžia:
     - c-45499
 
 <a id="claim-t-42429"></a>
-- t-001
+- t-002
   global_id: t-42429
   teiginys: "MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
   pagrindžia:

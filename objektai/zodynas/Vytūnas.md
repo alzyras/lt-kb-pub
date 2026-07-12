@@ -36,28 +36,28 @@ Vartojamos formos: `sargūnas`, `abažūnas`, `anginu`.
 ## Teiginiai
 
 <a id="claim-t-70063"></a>
-- t-005
+- t-001
   global_id: t-70063
   teiginys: "`Vytūnas` šiame tekste yra karo vadovas, vedantis kariauną, kai nėra atmono."
   pagrindžia:
     - c-09764
 
 <a id="claim-t-70064"></a>
-- t-006
+- t-002
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
   pagrindžia:
     - c-09764
 
 <a id="claim-t-70064"></a>
-- t-006
+- t-003
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
   pagrindžia:
     - c-09764
 
 <a id="claim-t-70064"></a>
-- t-006
+- t-004
   global_id: t-70064
   teiginys: "Vytūnas vesdavo visą kariauną į karą, kai nebūdavo atmono."
   pagrindžia:

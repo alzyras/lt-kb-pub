@@ -63,28 +63,28 @@ Kryžiuočiams pavyko pasprukti, tačiau jų pasiskelbtas nepaprastai didelės p
 ## Teiginiai
 
 <a id="claim-t-10296"></a>
-- t-003
+- t-001
   global_id: t-10296
   teiginys: "Lietuvių kariuomenė prie Strėvos upės pavijo grįžtantį priešą po Ordino niokojimų."
   pagrindžia:
     - c-11915
 
 <a id="claim-t-10297"></a>
-- t-004
+- t-002
   global_id: t-10297
   teiginys: "1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais."
   pagrindžia:
     - c-11916
 
 <a id="claim-t-10298"></a>
-- t-005
+- t-003
   global_id: t-10298
   teiginys: "Vygando kronika Strėvos mūšį sieja su Ordino maršalu, didžiuoju komtūru, didelės lietuvių ir rusų kariuomenės telkimu ir mirtinu susirėmimu prie Strėvos upės."
   pagrindžia:
     - c-11917
 
 <a id="claim-t-10299"></a>
-- t-006
+- t-004
   global_id: t-10299
   teiginys: "Strėvos mūšis, nors ir nuostolingas, prisidėjo prie galingo Ordino spaudimo atremimo."
   pagrindžia:

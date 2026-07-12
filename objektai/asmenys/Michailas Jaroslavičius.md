@@ -39,14 +39,14 @@ Marvelė pamaskvėje prie Protvos (Pratuvos), senojoje rytinių galindų žemėj
 ## Teiginiai
 
 <a id="claim-t-79112"></a>
-- t-002
+- t-001
   global_id: t-79112
   teiginys: "Lietuviai prie Protvos nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių."
   pagrindžia:
     - c-76202
 
 <a id="claim-t-79113"></a>
-- t-001
+- t-002
   global_id: t-79113
   teiginys: "Pamaskvėje prie Protvos lietuviai nukovė Maskvos didįjį kunigaikštį Michailą Jaroslavičių."
   pagrindžia:

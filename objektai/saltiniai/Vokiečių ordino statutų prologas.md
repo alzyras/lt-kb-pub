@@ -42,7 +42,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
 ## Teiginiai
 
 <a id="claim-t-60968"></a>
-- t-003
+- t-001
   global_id: t-60968
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai Akono apgulos metu vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   pagrindžia:
@@ -56,7 +56,7 @@ Dusburgietis teigia, kad prologas — pirmoji, viena iš svarbiausių Vokiečių
     - c-61602
 
 <a id="claim-t-60970"></a>
-- t-001
+- t-003
   global_id: t-60970
   teiginys: "Vokiečių ordino statutų prologas buvo pirmoji ir viena svarbiausių statutų dalių."
   pagrindžia:

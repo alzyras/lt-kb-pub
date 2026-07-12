@@ -36,14 +36,14 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 ## Teiginiai
 
 <a id="claim-t-78196"></a>
-- t-002
+- t-001
   global_id: t-78196
   teiginys: "Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje."
   pagrindžia:
     - c-75495
 
 <a id="claim-t-78197"></a>
-- t-001
+- t-002
   global_id: t-78197
   teiginys: "Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo."
   pagrindžia:

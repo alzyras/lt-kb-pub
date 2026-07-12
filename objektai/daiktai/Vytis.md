@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186858"></a>
-- t-003
+- t-001
   global_id: t-186858
   teiginys: "Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas."
   pagrindžia:
     - c-170042
 
 <a id="claim-t-186859"></a>
-- t-001
+- t-002
   global_id: t-186859
   teiginys: "Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis."
   pagrindžia:
     - c-170041
 
 <a id="claim-t-193874"></a>
-- t-004
+- t-003
   global_id: t-193874
   teiginys: "Vytis buvo Vilniaus žemės arba ku nigaikštystės herbas, t."
   pagrindžia:

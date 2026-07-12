@@ -51,21 +51,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67009"></a>
-- t-006
+- t-001
   global_id: t-67009
   teiginys: "Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai."
   pagrindžia:
     - c-43145
 
 <a id="claim-t-67010"></a>
-- t-004
+- t-002
   global_id: t-67010
   teiginys: "1949 m. lapkričio 1-2 d. Šimonių girioje MGB vidaus kariuomenė vykdė karines-čekistines operacijas."
   pagrindžia:
     - c-11944
 
 <a id="claim-t-67011"></a>
-- t-005
+- t-003
   global_id: t-67011
   teiginys: "1949 m. spalio 28 d. Albinas Kubilius-Rūgštymas ir Alfonsas Vildžiūnas-Vijoklis atvedė čekistus prie Šiaurės Rytų partizanų srities štabo bunkerio Anykščių valsčiuje."
   pagrindžia:

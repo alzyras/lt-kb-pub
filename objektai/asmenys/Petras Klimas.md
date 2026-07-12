@@ -38,14 +38,14 @@ Vokiečiams modernizuojant aneksijos ir prisijungimo planus, prireikus tam ir ok
 ## Teiginiai
 
 <a id="claim-t-46282"></a>
-- t-002
+- t-001
   global_id: t-46282
   teiginys: "Petras Klimas buvo 1917 m. Vilniuje leistos surengti lietuvių konferencijos organizacinio komiteto narys."
   pagrindžia:
     - c-48884
 
 <a id="claim-t-46283"></a>
-- t-001
+- t-002
   global_id: t-46283
   teiginys: "Petras Klimas 1926 m. dalyvavo Lietuvos delegacijoje Tautų Sąjungoje Ženevoje kaip pasiuntinys."
   pagrindžia:

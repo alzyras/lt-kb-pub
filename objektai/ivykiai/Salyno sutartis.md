@@ -66,21 +66,21 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
 ## Teiginiai
 
 <a id="claim-t-12411"></a>
-- t-006
+- t-001
   global_id: t-12411
   teiginys: "1398 m. spalio 12 d. Salyno saloje sutartį ratifikavo abiejų ordinų magistrai, vyskupai ir Vytautas su žmona Ona."
   pagrindžia:
     - c-14183
 
 <a id="claim-t-12412"></a>
-- t-007
+- t-002
   global_id: t-12412
   teiginys: "Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna."
   pagrindžia:
     - c-14184
 
 <a id="claim-t-12413"></a>
-- t-008
+- t-003
   global_id: t-12413
   teiginys: "Šiame veikale Salyno sutartis aiškinama kaip Vytauto galybės gestas Lenkijai ir grasinimas unijai."
   pagrindžia:
@@ -101,14 +101,14 @@ Sutartimi Vytautas užleido ordinui Žemaitiją ir ryškiai paaštrino santykius
     - c-66975
 
 <a id="claim-t-66870"></a>
-- t-003
+- t-006
   global_id: t-66870
   teiginys: "Salyno aktu Vytautas užleido ordinui visus Žemaičius, o akte pirmą kartą apytikriai nužymėtos ordinui tenkančių žemių sienos."
   pagrindžia:
     - c-66974
 
 <a id="claim-t-66871"></a>
-- t-002
+- t-007
   global_id: t-66871
   teiginys: "1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį."
   pagrindžia:

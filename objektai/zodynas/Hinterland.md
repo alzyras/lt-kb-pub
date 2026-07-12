@@ -51,7 +51,7 @@ geografinė sąvoka / paaiškinamasis vokiškas terminas.
     - c-175072
 
 <a id="claim-t-192561"></a>
-- t-003
+- t-002
   global_id: t-192561
   teiginys: "Narbutas nurodo nuomonę, kad Natangija galėjo reikšti užpakalinį arba galinį kraštą, Hinterland."
   pagrindžia:

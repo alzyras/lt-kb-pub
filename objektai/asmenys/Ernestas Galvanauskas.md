@@ -41,42 +41,42 @@ Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgali
 ## Teiginiai
 
 <a id="claim-t-169963"></a>
-- t-005
+- t-001
   global_id: t-169963
   teiginys: "Ernestas Galvanauskas planavo paruošti Klaipėdos akcijos politinę apsaugą ir diplomatinę gynybą."
   pagrindžia:
     - c-154646
 
 <a id="claim-t-169964"></a>
-- t-003
+- t-002
   global_id: t-169964
   teiginys: "Ernestas Galvanauskas nota pakvietė nustatyti Lenkijos rytines sienas."
   pagrindžia:
     - c-154645
 
 <a id="claim-t-169965"></a>
-- t-006
+- t-003
   global_id: t-169965
   teiginys: "Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę."
   pagrindžia:
     - c-154644
 
 <a id="claim-t-169967"></a>
-- t-001
+- t-004
   global_id: t-169967
   teiginys: "Deryboms Lietuvos delegacijos vadovas Ernestas Galvanauskas gavo didelius įgaliojimus patenkinti Lenkijos ekonominius interesus, garantuoti lenkams priėjimą prie Baltijos jūros, sudaryti konvencijas, įskaitant gynybinę, kad tik pavyktų susigrąžinti Vilnių."
   pagrindžia:
     - c-154643
 
 <a id="claim-t-183530"></a>
-- t-007
+- t-005
   global_id: t-183530
   teiginys: "1921 m. lapkričio 15 d. Kaune sprogus bombai Ernestas Galvanauskas buvo sužeistas, bet liko gyvas."
   pagrindžia:
     - c-21663
 
 <a id="claim-t-183531"></a>
-- t-008
+- t-006
   global_id: t-183531
   teiginys: "Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją."
   pagrindžia:

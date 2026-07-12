@@ -38,21 +38,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88181"></a>
-- t-002
+- t-001
   global_id: t-88181
   teiginys: "Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė."
   pagrindžia:
     - c-84162
 
 <a id="claim-t-88182"></a>
-- t-004
+- t-002
   global_id: t-88182
   teiginys: "Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
   pagrindžia:
     - c-84163
 
 <a id="claim-t-88184"></a>
-- t-001
+- t-003
   global_id: t-88184
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   pagrindžia:

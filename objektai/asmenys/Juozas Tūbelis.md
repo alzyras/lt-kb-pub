@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kraštas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -41,63 +41,63 @@ Smetona paskyrė ekonomistą Juozą Tūbelį, o A. Tūbelio tandemas Ūkinių ir
 ## Teiginiai
 
 <a id="claim-t-170077"></a>
-- t-007
+- t-001
   global_id: t-170077
   teiginys: "Juozas Tūbelis ir Antanas Smetona pareiškė, kad Lietuvos, Latvijos ir Estijos karinė sąjunga nebūtų naudinga Lietuvai."
   pagrindžia:
     - c-154758
 
 <a id="claim-t-170078"></a>
-- t-008
+- t-002
   global_id: t-170078
   teiginys: "Priėmus Lenkijos ultimatumą atsistatydino Juozo Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas."
   pagrindžia:
     - c-154765
 
 <a id="claim-t-170079"></a>
-- t-009
+- t-003
   global_id: t-170079
   teiginys: "Juozas Tūbelis išmanė Lietuvos ekonomiką ir finansus, priešinosi lito nuvertinimui ir atsargia politika padėjo atlaikyti krizę."
   pagrindžia:
     - c-154761
 
 <a id="claim-t-170080"></a>
-- t-006
+- t-004
   global_id: t-170080
   teiginys: "Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą."
   pagrindžia:
     - c-154766
 
 <a id="claim-t-170081"></a>
-- t-001
+- t-005
   global_id: t-170081
   teiginys: "1929 m. rugsėjo 23 d. prezidentas Antanas Smetona ministru pirmininku paskyrė ekonomistą Juozą Tūbelį."
   pagrindžia:
     - c-154763
 
 <a id="claim-t-170082"></a>
-- t-005
+- t-006
   global_id: t-170082
   teiginys: "Juozas Tūbelis 7,5 metų vadovavo Ministrų Tarybai ir garantavo vyriausybių stabilumą bei vieningą ministrų politiką."
   pagrindžia:
     - c-154764
 
 <a id="claim-t-170083"></a>
-- t-002
+- t-007
   global_id: t-170083
   teiginys: "Juozas Tūbelis 1931–1938 m. ramiai pirmininkavo ir vyriausybei, ir Lietuvių tautininkų sąjungai."
   pagrindžia:
     - c-154762
 
 <a id="claim-t-170084"></a>
-- t-003
+- t-008
   global_id: t-170084
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių veiklą ir laikė naudingu nuosaikų valstybinį reguliavimą."
   pagrindžia:
     - c-154759
 
 <a id="claim-t-170085"></a>
-- t-010
+- t-009
   global_id: t-170085
   teiginys: "Juozas Tūbelis kūrė ir stiprino kooperacinių bei masinių akcinių bendrovių ūkinę veiklą."
   pagrindžia:

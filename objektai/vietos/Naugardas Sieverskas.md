@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182020"></a>
-- t-011
+- t-001
   global_id: t-182020
   teiginys: "Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą."
   pagrindžia:
     - c-165515
 
 <a id="claim-t-182022"></a>
-- t-012
+- t-002
   global_id: t-182022
   teiginys: "Numalšinęs Volynijos kunigaikštį Feodorą, Vytautas pavedė jam valdyti Sieversko Naugardą."
   pagrindžia:
@@ -59,7 +59,7 @@ media_all_json: |-
     - c-166447
 
 <a id="claim-t-193216"></a>
-- t-013
+- t-004
   global_id: t-193216
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
   pagrindžia:

@@ -42,7 +42,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-188046"></a>
-- t-002
+- t-001
   global_id: t-188046
   teiginys: "Narbutui skirtame įvadiniame straipsnyje „litvinais“ vadinami Vilniaus, Kauno, Gardino ir Minsko gubernijų bajorai katalikai."
   pagrindžia:
@@ -56,7 +56,7 @@ Nenurodyta
     - c-170859
 
 <a id="claim-t-194574"></a>
-- t-004
+- t-003
   global_id: t-194574
   teiginys: "Istorinė Lietuva - tai Vilniaus, Kauno, Gardino ir Minsko gubernijos; „litvinai“ - tenai gyvenantys bajorai, išpažįstantys katalikų tikėjimą."
   pagrindžia:

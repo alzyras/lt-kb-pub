@@ -42,21 +42,21 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
     - c-169747
 
 <a id="claim-t-186398"></a>
-- t-003
+- t-002
   global_id: t-186398
   teiginys: "Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas."
   pagrindžia:
     - c-169747
 
 <a id="claim-t-186399"></a>
-- t-004
+- t-003
   global_id: t-186399
   teiginys: "Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis."
   pagrindžia:
     - c-169747
 
 <a id="claim-t-186400"></a>
-- t-002
+- t-004
   global_id: t-186400
   teiginys: "Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis."
   pagrindžia:

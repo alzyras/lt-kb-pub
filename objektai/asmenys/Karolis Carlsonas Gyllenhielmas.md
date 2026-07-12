@@ -41,21 +41,21 @@ Carlsonas Gyllienhelmas. ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhie
 ## Teiginiai
 
 <a id="claim-t-79073"></a>
-- t-002
+- t-001
   global_id: t-79073
   teiginys: "Karolis Carlsonas Gyllenhielmas vadovavo švedų kariuomenei, veikusiai prieš lietuvius Livonijoje."
   pagrindžia:
     - c-76172
 
 <a id="claim-t-79074"></a>
-- t-003
+- t-002
   global_id: t-79074
   teiginys: "Karolis Carlsonas Gyllenhielmas buvo paskirtas vadovauti švedų kariuomenės aprūpinimo operacijai."
   pagrindžia:
     - c-76171
 
 <a id="claim-t-79075"></a>
-- t-001
+- t-003
   global_id: t-79075
   teiginys: "K. Carlsonas Gyllenhielmas buvo paskirtas vadovauti operacijai."
   pagrindžia:

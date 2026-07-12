@@ -10,7 +10,8 @@ date_start: '1978'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - formulė
 amziai:
   - 'XX'
   - 'XXI'
@@ -40,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05378"></a>
-- t-002
+- t-001
   global_id: t-05378
   teiginys: "Imperatorius Zigmantas teisinosi, kad sprendimą priėmė žiūrėdamas ne bičiulystės, o teisybės."
   pagrindžia:

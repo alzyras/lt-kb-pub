@@ -45,14 +45,14 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
 ## Teiginiai
 
 <a id="claim-t-60925"></a>
-- t-004
+- t-001
   global_id: t-60925
   teiginys: "Regesta Lithuaniae p. 147 siejama su 1294 m. puolimu, kurį Dusburgietis datavo 1292 m."
   pagrindžia:
     - c-61557
 
 <a id="claim-t-60926"></a>
-- t-001
+- t-002
   global_id: t-60926
   teiginys: "Regesta Lithuaniae Nr. 393 siejamas su 1262 m. Mindaugo organizuotu žygiu, kuriam vadovavo Treniota."
   pagrindžia:
@@ -66,7 +66,7 @@ Dusburgietis, pažymėdamas giminystę, galbūt norėjo pabrėžti Treniotos ry�
     - c-61559
 
 <a id="claim-t-60929"></a>
-- t-005
+- t-004
   global_id: t-60929
   teiginys: "„Regesta Lithuaniae“ pirmą tomą parengė H. Paszkiewiczius, jis išleistas Varšuvoje 1930 m."
   pagrindžia:

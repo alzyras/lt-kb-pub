@@ -13,7 +13,7 @@ tags:
   - asmuo
   - karalius
   - miestas
-  - privilegija
+  - sutartis
 amziai:
   - 'XVII'
 periodo_grupes:

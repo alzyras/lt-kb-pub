@@ -47,7 +47,7 @@ Atsimetęs nuo ordino, Vytautas susitaikino su Jogaila Astravos dvare, paliai Ly
     - c-31941
 
 <a id="claim-t-72795"></a>
-- t-001
+- t-002
   global_id: t-72795
   teiginys: "1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais."
   pagrindžia:

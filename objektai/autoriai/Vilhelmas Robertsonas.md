@@ -29,7 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187945"></a>
-- t-002
+- t-001
   global_id: t-187945
   teiginys: "Įvadinis tekstas Vilhelmą Robertsoną vadina vienu žymiausių XVIII-XIX a. Europos istorikų, kurių darbus vertė Vilniaus universiteto auklėtiniai."
   pagrindžia:

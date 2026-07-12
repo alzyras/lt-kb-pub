@@ -43,14 +43,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36115"></a>
-- t-003
+- t-001
   global_id: t-36115
   teiginys: "Haleckis teigė, kad Torno sutartis atsižvelgė į Lietuvos interesus: Lietuvai grąžinta Žemaitija, o Lenkijai naudos nesuteikta."
   pagrindžia:
     - c-38437
 
 <a id="claim-t-36116"></a>
-- t-004
+- t-002
   global_id: t-36116
   teiginys: "Torno sutartis laikyta palankia Lietuvai, nes Lietuvai buvo grąžinta Žemaitija, o Lenkijai ji naudos nesuteikė."
   pagrindžia:

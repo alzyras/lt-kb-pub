@@ -32,7 +32,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
 ## Teiginiai
 
 <a id="claim-t-87408"></a>
-- t-003
+- t-001
   global_id: t-87408
   teiginys: "Mikalojus Moskoževskis, išvargintas karo rūpesčių ir Skirgailos įnorių, grąžino karaliui Vilniaus seniūno pareigas."
   pagrindžia:
@@ -46,7 +46,7 @@ Nuolati­ nės atakos iš tiesų smarkiai kamavo įsitvirtinusią įgulą, bet n
     - c-83389
 
 <a id="claim-t-87410"></a>
-- t-001
+- t-003
   global_id: t-87410
   teiginys: "Mikalojus Moskoževskis Aukštutinėje pilyje vadovavo lenkų gynybai ir penkias savaites atlaikė kryžiuočių antpuolius."
   pagrindžia:

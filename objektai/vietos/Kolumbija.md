@@ -38,7 +38,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 ## Teiginiai
 
 <a id="claim-t-46781"></a>
-- t-002
+- t-001
   global_id: t-46781
   teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse."
   pagrindžia:

@@ -41,133 +41,133 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
 ## Teiginiai
 
 <a id="claim-t-12172"></a>
-- t-006
+- t-001
   global_id: t-12172
   teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu."
   pagrindžia:
     - c-160434
 
 <a id="claim-t-12173"></a>
-- t-007
+- t-002
   global_id: t-12173
   teiginys: "Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
   pagrindžia:
     - c-160444
 
 <a id="claim-t-176413"></a>
-- t-017
+- t-003
   global_id: t-176413
   teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą."
   pagrindžia:
     - c-160446
 
 <a id="claim-t-176414"></a>
-- t-010
+- t-004
   global_id: t-176414
   teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   pagrindžia:
     - c-15945
 
 <a id="claim-t-176415"></a>
-- t-028
+- t-005
   global_id: t-176415
   teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   pagrindžia:
     - c-15945
 
 <a id="claim-t-176416"></a>
-- t-022
+- t-006
   global_id: t-176416
   teiginys: "Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais."
   pagrindžia:
     - c-160431
 
 <a id="claim-t-176417"></a>
-- t-023
+- t-007
   global_id: t-176417
   teiginys: "Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno."
   pagrindžia:
     - c-160441
 
 <a id="claim-t-176420"></a>
-- t-021
+- t-008
   global_id: t-176420
   teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą."
   pagrindžia:
     - c-160446
 
 <a id="claim-t-176422"></a>
-- t-025
+- t-009
   global_id: t-176422
   teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
   pagrindžia:
     - c-36338
 
 <a id="claim-t-176425"></a>
-- t-012
+- t-010
   global_id: t-176425
   teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu."
   pagrindžia:
     - c-36340
 
 <a id="claim-t-176427"></a>
-- t-013
+- t-011
   global_id: t-176427
   teiginys: "Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo."
   pagrindžia:
     - c-160432
 
 <a id="claim-t-176428"></a>
-- t-015
+- t-012
   global_id: t-176428
   teiginys: "Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą."
   pagrindžia:
     - c-160438
 
 <a id="claim-t-176429"></a>
-- t-026
+- t-013
   global_id: t-176429
   teiginys: "Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu."
   pagrindžia:
     - c-36340
 
 <a id="claim-t-176430"></a>
-- t-009
+- t-014
   global_id: t-176430
   teiginys: "Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes."
   pagrindžia:
     - c-36338
 
 <a id="claim-t-176431"></a>
-- t-024
+- t-015
   global_id: t-176431
   teiginys: "Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė."
   pagrindžia:
     - c-160442
 
 <a id="claim-t-176433"></a>
-- t-024
+- t-016
   global_id: t-176433
   teiginys: "1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi."
   pagrindžia:
     - c-160436
 
 <a id="claim-t-176434"></a>
-- t-019
+- t-017
   global_id: t-176434
   teiginys: "Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta."
   pagrindžia:
     - c-160441
 
 <a id="claim-t-184263"></a>
-- t-029
+- t-018
   global_id: t-184263
   teiginys: "Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra."
   pagrindžia:
     - c-167647
 
 <a id="claim-t-193624"></a>
-- t-030
+- t-019
   global_id: t-193624
   teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
   pagrindžia:

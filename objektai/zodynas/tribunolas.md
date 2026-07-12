@@ -42,14 +42,14 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 ## Teiginiai
 
 <a id="claim-t-82098"></a>
-- t-005
+- t-001
   global_id: t-82098
   teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m."
   pagrindžia:
     - c-78594
 
 <a id="claim-t-82100"></a>
-- t-006
+- t-002
   global_id: t-82100
   teiginys: "Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje."
   pagrindžia:
@@ -70,14 +70,14 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     - c-78593
 
 <a id="claim-t-182982"></a>
-- t-006
+- t-005
   global_id: t-182982
   teiginys: "Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
   pagrindžia:
     - c-166380
 
 <a id="claim-t-193162"></a>
-- t-007
+- t-006
   global_id: t-193162
   teiginys: "O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai."
   pagrindžia:

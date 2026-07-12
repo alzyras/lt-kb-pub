@@ -36,14 +36,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07723"></a>
-- t-003
+- t-001
   global_id: t-07723
   teiginys: "Gaspadorius vaizduojamas kaip ūkio šeimininkas, raginantis pjovėjus baigti pievos kertę."
   pagrindžia:
     - c-09646
 
 <a id="claim-t-07724"></a>
-- t-004
+- t-002
   global_id: t-07724
   teiginys: "Gaspadorius gali raginti ir organizuoti ūkio darbus."
   pagrindžia:

@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - iliustracija
   - simbolis
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -53,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19547"></a>
-- t-003
+- t-001
   global_id: t-19547
   teiginys: "Mokyklose buvo įrengiami Lenino kampeliai ir leidžiami sienlaikraščiai, siekiant stiprinti idėjinį komunistinį mokinių auklėjimą."
   pagrindžia:

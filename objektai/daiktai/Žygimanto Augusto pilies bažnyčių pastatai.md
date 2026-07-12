@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87041"></a>
-- t-002
+- t-001
   global_id: t-87041
   teiginys: "Žygimanto Augusto pradėti Šv. Onos bažnyčios pilyje pastatai jam gyvam esant nebuvo užbaigti."
   pagrindžia:
     - c-83020
 
 <a id="claim-t-87042"></a>
-- t-001
+- t-002
   global_id: t-87042
   teiginys: "Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos atminimui."
   pagrindžia:

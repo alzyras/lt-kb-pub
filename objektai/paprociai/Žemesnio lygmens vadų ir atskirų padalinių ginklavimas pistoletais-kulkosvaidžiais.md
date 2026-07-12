@@ -43,14 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09601"></a>
-- t-003
+- t-001
   global_id: t-09601
   teiginys: "Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai."
   pagrindžia:
     - c-12350
 
 <a id="claim-t-09601"></a>
-- t-003
+- t-002
   global_id: t-09601
   teiginys: "Pistoletais-kulkosvaidžiais buvo ginkluojami žemesnio lygmens vadai ir atskiri padaliniai."
   pagrindžia:

@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

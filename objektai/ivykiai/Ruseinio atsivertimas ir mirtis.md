@@ -69,7 +69,7 @@ Nenurodyta
     - c-60039
 
 <a id="claim-t-59407"></a>
-- t-001
+- t-003
   global_id: t-59407
   teiginys: "Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo."
   pagrindžia:

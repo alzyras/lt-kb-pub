@@ -37,7 +37,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
     - c-167426
 
 <a id="claim-t-59162"></a>
-- t-001
+- t-002
   global_id: t-59162
   teiginys: "Vienuoliai Engelsbergo pilies vardą aiškino tuo, kad pilies gyventojai gyvena nelyginant angelai."
   pagrindžia:

@@ -45,14 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186622"></a>
-- t-002
+- t-001
   global_id: t-186622
   teiginys: "Lietuvos metraščio pasakojime pas Kazimierą į Sandomirą pasiuntiniais buvo išsiųsti Mykolas ir Jonas Kęsgailos."
   pagrindžia:
     - c-169901
 
 <a id="claim-t-186623"></a>
-- t-001
+- t-002
   global_id: t-186623
   teiginys: "Lietuvos metraščio pasakojime Alšėnuose susirinkę didikai vienbalsiai nutarė rinkti Kazimierą Didžiosios Kunigaikštystės šeimininku."
   pagrindžia:

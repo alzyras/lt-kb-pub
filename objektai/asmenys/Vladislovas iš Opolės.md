@@ -32,7 +32,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
 ## Teiginiai
 
 <a id="claim-t-93547"></a>
-- t-003
+- t-001
   global_id: t-93547
   teiginys: "Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės."
   pagrindžia:
@@ -46,7 +46,7 @@ Tas pats Vladislovas buvo paskirtas Lenkų ir Vengrų karaliaus Liudviko valdyti
     - c-88887
 
 <a id="claim-t-93549"></a>
-- t-001
+- t-003
   global_id: t-93549
   teiginys: "Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę."
   pagrindžia:

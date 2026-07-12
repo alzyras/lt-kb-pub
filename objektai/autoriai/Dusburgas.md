@@ -45,126 +45,126 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
 ## Teiginiai
 
 <a id="claim-t-102840"></a>
-- t-009
+- t-001
   global_id: t-102840
   teiginys: "Dusburgas laikytas aprašomų įvykių amžininku ir patikimu liudytoju apie Gedimino pilį."
   pagrindžia:
     - c-96085
 
 <a id="claim-t-102841"></a>
-- t-007
+- t-002
   global_id: t-102841
   teiginys: "Dusburgo kronikoje Junigėda pirmą kartą paminėta aprašant 1291 m. puolimą."
   pagrindžia:
     - c-30477
 
 <a id="claim-t-102843"></a>
-- t-021
+- t-003
   global_id: t-102843
   teiginys: "Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą."
   pagrindžia:
     - c-96082
 
 <a id="claim-t-102844"></a>
-- t-024
+- t-004
   global_id: t-102844
   teiginys: "Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus."
   pagrindžia:
     - c-96077
 
 <a id="claim-t-102845"></a>
-- t-017
+- t-005
   global_id: t-102845
   teiginys: "Dusburgietis rašo, kad kroniką surašė apie Ordino brolių karus ir 1326 m. užbaigtą knygą siunčia pataisyti, kad būsimoms kartoms liktų šio žygio atminimas."
   pagrindžia:
     - c-55992
 
 <a id="claim-t-102846"></a>
-- t-012
+- t-006
   global_id: t-102846
   teiginys: "Dusburgas pranešė, kad Gedimino pasiuntinys paneigė valdovo valia siųstus laiškus dėl krikšto."
   pagrindžia:
     - c-96084
 
 <a id="claim-t-102847"></a>
-- t-014
+- t-007
   global_id: t-102847
   teiginys: "Dedikacijoje Petras iš Dusburgo prisistato tų pačių šventųjų įžadų kunigu ir kreipiasi į magistrą Vernerį iš Orzelno."
   pagrindžia:
     - c-55989
 
 <a id="claim-t-102848"></a>
-- t-020
+- t-008
   global_id: t-102848
   teiginys: "1985 m. leidinio įvade Petro iš Dusburgo „Prūsijos žemės kronika“ išskiriama tarp svarbių XIII—XIV a. kronikų ir siejama su unikaliomis žiniomis apie prūsus, lietuvius bei jų kovą iki 1330 m."
   pagrindžia:
     - c-55994
 
 <a id="claim-t-102849"></a>
-- t-015
+- t-009
   global_id: t-102849
   teiginys: "1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m."
   pagrindžia:
     - c-55990
 
 <a id="claim-t-102850"></a>
-- t-006
+- t-010
   global_id: t-102850
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes."
   pagrindžia:
     - c-11407
 
 <a id="claim-t-102851"></a>
-- t-010
+- t-011
   global_id: t-102851
   teiginys: "Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį."
   pagrindžia:
     - c-96082
 
 <a id="claim-t-102852"></a>
-- t-023
+- t-012
   global_id: t-102852
   teiginys: "Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė, kad jis surengė žygį į Livoniją."
   pagrindžia:
     - c-30478
 
 <a id="claim-t-102853"></a>
-- t-008
+- t-013
   global_id: t-102853
   teiginys: "Dusburgas 1296 m. Vytenį vadino „rex Vithenus“ ir rašė apie jo žygį į Livoniją."
   pagrindžia:
     - c-30478
 
 <a id="claim-t-102854"></a>
-- t-019
+- t-014
   global_id: t-102854
   teiginys: "Dusburgietis nurodo aprašysiąs tiek savo matytus įvykius, tiek dalyvių pasakojimus ir patikimų šaltinių liudijimus."
   pagrindžia:
     - c-55993
 
 <a id="claim-t-102855"></a>
-- t-022
+- t-015
   global_id: t-102855
   teiginys: "Dusburgo kronikoje Junigėda pirmą kartą paminėta 1291 m., kai kryžiuočiai ją puolė, bet nepaėmė."
   pagrindžia:
     - c-30477
 
 <a id="claim-t-102856"></a>
-- t-013
+- t-016
   global_id: t-102856
   teiginys: "Dusburgas trumpai užsiminė, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus."
   pagrindžia:
     - c-96077
 
 <a id="claim-t-184607"></a>
-- t-025
+- t-017
   global_id: t-184607
   teiginys: "Petras iš Dusburgo buvo Livonijos riterių kunigas ir istorikas."
   pagrindžia:
     - c-167968
 
 <a id="claim-t-194197"></a>
-- t-026
+- t-018
   global_id: t-194197
   teiginys: "Kita užuomina Dusburgo kronikoje apie Castrum Gedemini [Gedimino pilį] yra prie 1317 m. (1."
   pagrindžia:

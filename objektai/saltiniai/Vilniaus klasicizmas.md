@@ -45,14 +45,14 @@ Vilniaus klasicizmas: parodos katalogas.
     - c-48460
 
 <a id="claim-t-45771"></a>
-- t-003
+- t-002
   global_id: t-45771
   teiginys: "„Vilniaus klasicizmas“ buvo parodos katalogas, susijęs su 1999–2000 m. parodomis Varšuvoje ir Vilniuje."
   pagrindžia:
     - c-48460
 
 <a id="claim-t-45772"></a>
-- t-001
+- t-003
   global_id: t-45772
   teiginys: "„Vilniaus klasicizmas“ yra parodos katalogas, siejamas su 1999–2000 m. parodomis Varšuvos nacionaliniame muziejuje ir Lietuvos dailės muziejuje."
   pagrindžia:

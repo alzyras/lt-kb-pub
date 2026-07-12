@@ -36,14 +36,14 @@ Vartojamos formos: `perveizėjo`, `perveizos`.
 ## Teiginiai
 
 <a id="claim-t-07730"></a>
-- t-004
+- t-001
   global_id: t-07730
   teiginys: "Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę."
   pagrindžia:
     - c-09649
 
 <a id="claim-t-07731"></a>
-- t-003
+- t-002
   global_id: t-07731
   teiginys: "`Perveiza` šiame tekste reiškia karių ir jų ginklų bei arklių peržiūrą."
   pagrindžia:

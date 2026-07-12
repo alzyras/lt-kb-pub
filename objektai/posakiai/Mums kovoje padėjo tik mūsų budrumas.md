@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67276"></a>
-- t-002
+- t-001
   global_id: t-67276
   teiginys: "Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio."
   pagrindžia:

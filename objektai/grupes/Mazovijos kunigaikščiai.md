@@ -48,21 +48,21 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
 ## Teiginiai
 
 <a id="claim-t-86734"></a>
-- t-002
+- t-001
   global_id: t-86734
   teiginys: "1325 m. kitose Mazovijos žemėse viešpatavo kunigaikščiai Ziemovitas ir Traidenis."
   pagrindžia:
     - c-82715
 
 <a id="claim-t-86735"></a>
-- t-003
+- t-002
   global_id: t-86735
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme."
   pagrindžia:
     - c-82713
 
 <a id="claim-t-86736"></a>
-- t-001
+- t-003
   global_id: t-86736
   teiginys: "Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas."
   pagrindžia:

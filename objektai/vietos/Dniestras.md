@@ -37,14 +37,14 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
 ## Teiginiai
 
 <a id="claim-t-83302"></a>
-- t-003
+- t-001
   global_id: t-83302
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
   pagrindžia:
     - c-79661
 
 <a id="claim-t-83303"></a>
-- t-001
+- t-002
   global_id: t-83303
   teiginys: "Totoriai per Dniestrą drįsdavo keltis tik surinkę dideles pajėgas, nes bijojo kazokų."
   pagrindžia:

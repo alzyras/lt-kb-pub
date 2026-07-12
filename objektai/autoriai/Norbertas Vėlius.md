@@ -50,14 +50,14 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
 ## Teiginiai
 
 <a id="claim-t-188050"></a>
-- t-004
+- t-001
   global_id: t-188050
   teiginys: "Norbertas Vėlius nurodytas kaip vieno šio leidinio įvedamojo straipsnio autorius."
   pagrindžia:
     - c-170750
 
 <a id="claim-t-188051"></a>
-- t-003
+- t-002
   global_id: t-188051
   teiginys: "N. Vėlius cituojamas kaip šaltinis apie XVII a. pirmos pusės Rytprūsių burtininkus ir pas juos ėjusius žmones."
   pagrindžia:
@@ -71,7 +71,7 @@ Norbertas Vėlius nurodytas ir redaktorių kolegijoje, ir kaip įvedamojo straip
     - c-170750
 
 <a id="claim-t-194450"></a>
-- t-005
+- t-004
   global_id: t-194450
   teiginys: "Legendiniai kunigaikščiai sietini su žyniauti gebėjusių asmenų gimine (Vėlius N., Senovės baltų..., p. 226—229), ši tradicija, atrodo, išliko ir vėliau, tačiau kunigaikščių-vadų ir žynių funkcijos vis labiau diferencijavosi."
   pagrindžia:

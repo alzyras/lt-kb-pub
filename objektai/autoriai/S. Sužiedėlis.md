@@ -44,21 +44,21 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
 ## Teiginiai
 
 <a id="claim-t-97219"></a>
-- t-005
+- t-001
   global_id: t-97219
   teiginys: "Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p. 5."
   pagrindžia:
     - c-30860
 
 <a id="claim-t-97222"></a>
-- t-008
+- t-002
   global_id: t-97222
   teiginys: "34, 1970, 57-74 p. — Sužiedėlis, S.: Apuolė , EnL, I, 112-113 p."
   pagrindžia:
     - c-30860
 
 <a id="claim-t-97223"></a>
-- t-007
+- t-003
   global_id: t-97223
   teiginys: "S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“."
   pagrindžia:

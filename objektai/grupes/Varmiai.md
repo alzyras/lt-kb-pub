@@ -42,35 +42,35 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 ## Teiginiai
 
 <a id="claim-t-78535"></a>
-- t-012
+- t-001
   global_id: t-78535
   teiginys: "1274 m. varmiai kartu su pagudėnais, notangais, bartais ir sembais grįžo į Bažnyčios vienybę ir davė įkaitų."
   pagrindžia:
     - c-75807
 
 <a id="claim-t-78536"></a>
-- t-011
+- t-002
   global_id: t-78536
   teiginys: "Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Ordino broliams."
   pagrindžia:
     - c-75814
 
 <a id="claim-t-78537"></a>
-- t-009
+- t-003
   global_id: t-78537
   teiginys: "Glapas, varmių vadas, turėjo mėgstamą valdinį Steinavą, kurį daug kartų buvo gelbėjęs iš mirtino pavojaus."
   pagrindžia:
     - c-75812
 
 <a id="claim-t-78538"></a>
-- t-014
+- t-004
   global_id: t-78538
   teiginys: "1260 m. Klaipėdoje varmiai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
   pagrindžia:
     - c-75811
 
 <a id="claim-t-78539"></a>
-- t-004
+- t-005
   global_id: t-78539
   teiginys: "Varmių vadas Pijopas su savo kariuomene apsiautė Baigos pilį, bet prie pilies buvo pervertas brolio strėle ir žuvo."
   pagrindžia:
@@ -84,42 +84,42 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-75810
 
 <a id="claim-t-78541"></a>
-- t-008
+- t-007
   global_id: t-78541
   teiginys: "Po prūsų atkritimo nuo tikėjimo varmiai savo kariuomenės vadu ir vyresniuoju išsirinko Glapą."
   pagrindžia:
     - c-75808
 
 <a id="claim-t-78542"></a>
-- t-002
+- t-008
   global_id: t-78542
   teiginys: "Ketvirta — Varmė194, kurioje [gyveno] varmiai."
   pagrindžia:
     - c-75806
 
 <a id="claim-t-78544"></a>
-- t-013
+- t-009
   global_id: t-78544
   teiginys: "Notangai ir varmiai išsižadėjo piktų sumanymų ir davė žodį būti ištikimi Ordino broliams."
   pagrindžia:
     - c-75809
 
 <a id="claim-t-78545"></a>
-- t-005
+- t-010
   global_id: t-78545
   teiginys: "Daug kilmingų ir galingų Varmės vyrų su namais bei šeimynomis persikėlė pas Baigos brolius, o šie po jų atvykimo sustiprėjo."
   pagrindžia:
     - c-75804
 
 <a id="claim-t-78546"></a>
-- t-003
+- t-011
   global_id: t-78546
   teiginys: "Varmės vardas greičiausiai yra upėvardinės kilmės, plg."
   pagrindžia:
     - c-75805
 
 <a id="claim-t-78547"></a>
-- t-007
+- t-012
   global_id: t-78547
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
   pagrindžia:

@@ -53,7 +53,7 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
     - c-60752
 
 <a id="claim-t-60119"></a>
-- t-001
+- t-003
   global_id: t-60119
   teiginys: "Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397."
   pagrindžia:

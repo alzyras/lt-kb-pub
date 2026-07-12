@@ -59,49 +59,49 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05395"></a>
-- t-005
+- t-001
   global_id: t-05395
   teiginys: "Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją."
   pagrindžia:
     - c-03588
 
 <a id="claim-t-05396"></a>
-- t-006
+- t-002
   global_id: t-05396
   teiginys: "Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais."
   pagrindžia:
     - c-03589
 
 <a id="claim-t-05397"></a>
-- t-007
+- t-003
   global_id: t-05397
   teiginys: "Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis."
   pagrindžia:
     - c-03483
 
 <a id="claim-t-05398"></a>
-- t-008
+- t-004
   global_id: t-05398
   teiginys: "Redakcinė pastaba pasirašyta Romoje 1975 m. spalio 15 d."
   pagrindžia:
     - c-03591
 
 <a id="claim-t-05399"></a>
-- t-009
+- t-005
   global_id: t-05399
   teiginys: "Autoriaus pratarmė pasirašyta Bonoje 1970 m. spalio 15 d."
   pagrindžia:
     - c-03484
 
 <a id="claim-t-05400"></a>
-- t-010
+- t-006
   global_id: t-05400
   teiginys: "Pratarmėje aiškiai teigiama, kad pragmatiškai didaktinį istorijos rašymo būdą turi pakeisti genetinis, priežastinis metodas."
   pagrindžia:
     - c-03587
 
 <a id="claim-t-05401"></a>
-- t-011
+- t-007
   global_id: t-05401
   teiginys: "Redakcinėje pastaboje nurodoma, kad iš trijų sumanytų Lietuvos istorijos tomų pirmasis tesiekia Vytauto Didžiojo laikus, nors buvo planuotas iki 1492 m., o įvadas liko nebaigtas."
   pagrindžia:

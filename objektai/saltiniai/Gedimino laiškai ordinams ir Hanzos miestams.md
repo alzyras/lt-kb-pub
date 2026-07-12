@@ -59,7 +59,7 @@ media_all_json: |-
     - c-157321
 
 <a id="claim-t-172983"></a>
-- t-005
+- t-004
   global_id: t-172983
   teiginys: "Gedimino laiškai buvo įdėti į papildymus kartu su vertimu į lenkų kalbą ir Foigto pastabomis."
   pagrindžia:

@@ -32,14 +32,14 @@ Juo buvo patvirtintas Vytauto savarankiškumas: jis buvo paskelbtas tikruoju val
 ## Teiginiai
 
 <a id="claim-t-70321"></a>
-- t-002
+- t-001
   global_id: t-70321
   teiginys: "Vilniaus-Radomo susitarime Lietuvos savarankiškumas buvo paskelbtas laikinu, galiojančiu tik iki Vytauto mirties."
   pagrindžia:
     - c-69365
 
 <a id="claim-t-70322"></a>
-- t-001
+- t-002
   global_id: t-70322
   teiginys: "Vilniaus-Radomo susitarimu buvo patvirtintas Vytauto savarankiškumas, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams."
   pagrindžia:

@@ -36,7 +36,7 @@ Vartojamos formos: `veldėme`.
 ## Teiginiai
 
 <a id="claim-t-07694"></a>
-- t-003
+- t-001
   global_id: t-07694
   teiginys: "`Veldėmė` šiame tekste reiškia paveldimą žemės nuosavybę."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `veldėme`.
     - c-09624
 
 <a id="claim-t-07695"></a>
-- t-004
+- t-002
   global_id: t-07695
   teiginys: "Veldėme laikytas gyvenimas ir gruntas, įgytas darbu ir galėtas dovanoti kaip savas daiktas."
   pagrindžia:

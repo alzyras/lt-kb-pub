@@ -38,21 +38,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-114162"></a>
-- t-002
+- t-001
   global_id: t-114162
   teiginys: "1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną."
   pagrindžia:
     - c-105319
 
 <a id="claim-t-114163"></a>
-- t-001
+- t-002
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   pagrindžia:
     - c-167165
 
 <a id="claim-t-114163"></a>
-- t-001
+- t-003
   global_id: t-114163
   teiginys: "Į Lietuvą įsiveržusios totorių pajėgos užėmė Borisovą, Minską, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   pagrindžia:

@@ -12,10 +12,10 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -56,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169852"></a>
-- t-004
+- t-001
   global_id: t-169852
   teiginys: "Vilniaus televizijos bokšto šturmo įvykiai sukrėtė Lietuvą ir nuskambėjo pasaulyje."
   pagrindžia:
     - c-154535
 
 <a id="claim-t-169853"></a>
-- t-001
+- t-002
   global_id: t-169853
   teiginys: "Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto."
   pagrindžia:
@@ -77,14 +77,14 @@ Nenurodyta
     - c-154540
 
 <a id="claim-t-169856"></a>
-- t-005
+- t-004
   global_id: t-169856
   teiginys: "1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą."
   pagrindžia:
     - c-154539
 
 <a id="claim-t-169857"></a>
-- t-002
+- t-005
   global_id: t-169857
   teiginys: "1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje."
   pagrindžia:

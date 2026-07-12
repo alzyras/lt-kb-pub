@@ -41,7 +41,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 ## Teiginiai
 
 <a id="claim-t-182067"></a>
-- t-018
+- t-001
   global_id: t-182067
   teiginys: "Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai."
   pagrindžia:

@@ -42,14 +42,14 @@ Dusburgietis teigia, kad 1257.IV.14 Sembos vyskupo ir vicemagistro valdų dalyb�
 ## Teiginiai
 
 <a id="claim-t-58876"></a>
-- t-002
+- t-001
   global_id: t-58876
   teiginys: "Codex Justinianus žodis terrula vartojamas kaip deminutyvas, reiškiantis žemės sklypą arba sklypelį."
   pagrindžia:
     - c-59508
 
 <a id="claim-t-58877"></a>
-- t-001
+- t-002
   global_id: t-58877
   teiginys: "1257 m. Sembos vyskupo ir vicemagistro valdų dalybų dokumentuose vartotas terminas terrula."
   pagrindžia:

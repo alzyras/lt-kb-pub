@@ -41,14 +41,14 @@ Bet pagaliau, kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m
 ## Teiginiai
 
 <a id="claim-t-113374"></a>
-- t-004
+- t-001
   global_id: t-113374
   teiginys: "1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas."
   pagrindžia:
     - c-104633
 
 <a id="claim-t-113375"></a>
-- t-003
+- t-002
   global_id: t-113375
   teiginys: "Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje."
   pagrindžia:

@@ -56,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59629"></a>
-- t-002
+- t-001
   global_id: t-59629
   teiginys: "Dusburgiečio pasakojimas perteikia oficialią Ordino pradžios tradiciją, o „Narratio“ liudija ilgesnį procesą iki 1198 m."
   pagrindžia:
     - c-60261
 
 <a id="claim-t-59630"></a>
-- t-001
+- t-002
   global_id: t-59630
   teiginys: "Dusburgietis Vokiečių ordino pradžią datavo 1190 m., kai per Akono apgulą vyrai iš Bremeno ir Liubeko įrengė ligoninę."
   pagrindžia:

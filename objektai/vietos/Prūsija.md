@@ -71,630 +71,630 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
 ## Teiginiai
 
 <a id="claim-t-178018"></a>
-- t-050
+- t-001
   global_id: t-178018
   teiginys: "1394 m. Prūsijos ordinas pasinaudojo proga pradėti karą ir niokoti Lietuvą."
   pagrindžia:
     - c-161849
 
 <a id="claim-t-178019"></a>
-- t-033
+- t-002
   global_id: t-178019
   teiginys: "Kryžiuočiai, užėmę Prūsiją, sunaikino Romuvą."
   pagrindžia:
     - c-161890
 
 <a id="claim-t-178020"></a>
-- t-091
+- t-003
   global_id: t-178020
   teiginys: "Rugpjūčio 8 d. apie trečią valandą visoje Prūsijoje tris kartus drebėjo žemė su pastatais."
   pagrindžia:
     - c-161865
 
 <a id="claim-t-178021"></a>
-- t-026
+- t-004
   global_id: t-178021
   teiginys: "Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo grąžinti Lietuvai žemes iki Deimės ir Alės upių Prūsijoje."
   pagrindžia:
     - c-161869
 
 <a id="claim-t-178022"></a>
-- t-027
+- t-005
   global_id: t-178022
   teiginys: "Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams."
   pagrindžia:
     - c-161855
 
 <a id="claim-t-178023"></a>
-- t-009
+- t-006
   global_id: t-178023
   teiginys: "Sutikdami apsikrikštyti, Jogaila ir Vytautas reikalavo, kad Vokiečių Ordinas grąžintų Lietuvai žemes iki Deimės ir Alės upių Prūsijoje."
   pagrindžia:
     - c-161869
 
 <a id="claim-t-178024"></a>
-- t-077
+- t-007
   global_id: t-178024
   teiginys: "Vytauto laikais Vilniaus prekyba išsišakojo su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
   pagrindžia:
     - c-161840
 
 <a id="claim-t-178025"></a>
-- t-067
+- t-008
   global_id: t-178025
   teiginys: "1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas iš Prūsijos puolė Lietuvos žemes."
   pagrindžia:
     - c-161820
 
 <a id="claim-t-178026"></a>
-- t-063
+- t-009
   global_id: t-178026
   teiginys: "1325 m. Vilniuje Gediminas ir Lokietka sudarė sutartį bendromis jėgomis kovoti su Prūsijos ordinu."
   pagrindžia:
     - c-161854
 
 <a id="claim-t-178044"></a>
-- t-048
+- t-010
   global_id: t-178044
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją."
   pagrindžia:
     - c-161842
 
 <a id="claim-t-178028"></a>
-- t-046
+- t-011
   global_id: t-178028
   teiginys: "1390 m. sausio pradžioje Vytautas išsiuntė savo šeimą iš Gardino į Prūsiją."
   pagrindžia:
     - c-161819
 
 <a id="claim-t-178029"></a>
-- t-024
+- t-012
   global_id: t-178029
   teiginys: "Carienės Kotrynos II vykdytuose Respublikos padalijimuose trečdalį jos teritorijos teko užleisti Prūsijai ir Austrijai."
   pagrindžia:
     - c-32359
 
 <a id="claim-t-178030"></a>
-- t-065
+- t-013
   global_id: t-178030
   teiginys: "1380 m. Vaidila kaip pasiuntinys nuvyko į Prūsiją ir paruošė dirvą slaptam Jogailos sandėriui su arkikomtūru."
   pagrindžia:
     - c-161826
 
 <a id="claim-t-178066"></a>
-- t-018
+- t-014
   global_id: t-178066
   teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją."
   pagrindžia:
     - c-161815
 
 <a id="claim-t-178032"></a>
-- t-074
+- t-015
   global_id: t-178032
   teiginys: "1390 m. sausio pradžioje Vytautas išsiuntė šeimą iš Gardino į Prūsiją ir rengėsi atnaujinti sutartis su didžiuoju magistru."
   pagrindžia:
     - c-161819
 
 <a id="claim-t-178033"></a>
-- t-072
+- t-016
   global_id: t-178033
   teiginys: "Gedimino laiškai, anot pasakojimo, riterių buvo paimti į Prūsiją ir taip atsidūrė kryžiuočių archyve."
   pagrindžia:
     - c-161822
 
 <a id="claim-t-178034"></a>
-- t-031
+- t-017
   global_id: t-178034
   teiginys: "Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:
     - c-161847
 
 <a id="claim-t-178036"></a>
-- t-083
+- t-018
   global_id: t-178036
   teiginys: "Petro iš Dusburgo kronikoje Prūsijos žemė skirstoma į 11 atskirų žemių."
   pagrindžia:
     - c-161850
 
 <a id="claim-t-178037"></a>
-- t-097
+- t-019
   global_id: t-178037
   teiginys: "1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“."
   pagrindžia:
     - c-161831
 
 <a id="claim-t-178038"></a>
-- t-040
+- t-020
   global_id: t-178038
   teiginys: "Per didelius šalčius Prūsijoje ir Livonijoje nušalo visi vaismedžiai."
   pagrindžia:
     - c-161839
 
 <a id="claim-t-178039"></a>
-- t-066
+- t-021
   global_id: t-178039
   teiginys: "Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą."
   pagrindžia:
     - c-161889
 
 <a id="claim-t-178040"></a>
-- t-015
+- t-022
   global_id: t-178040
   teiginys: "XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje."
   pagrindžia:
     - c-43771
 
 <a id="claim-t-178041"></a>
-- t-090
+- t-023
   global_id: t-178041
   teiginys: "Po Kryžiuočių ordino užkariavimo Prūsija galutinai imtas vadinti visas kraštas tarp Vyslos ir Nemuno."
   pagrindžia:
     - c-161814
 
 <a id="claim-t-178042"></a>
-- t-030
+- t-024
   global_id: t-178042
   teiginys: "Salyno taikoje nutarta, kad lietuvių pirkliai Prūsijoje ir Livonijoje galės laisvai prekiauti be naujų muitų."
   pagrindžia:
     - c-161867
 
 <a id="claim-t-178043"></a>
-- t-010
+- t-025
   global_id: t-178043
   teiginys: "Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams."
   pagrindžia:
     - c-161855
 
 <a id="claim-t-178044"></a>
-- t-048
+- t-026
   global_id: t-178044
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai nusiaubė kraštą ir grįžo į Prūsiją bei Livoniją."
   pagrindžia:
     - c-161842
 
 <a id="claim-t-178045"></a>
-- t-011
+- t-027
   global_id: t-178045
   teiginys: "Zigmantas siekė su kryžiuočių pagalba sudaryti Lietuvos, Prūsijos, Vengrijos ir Čekijos sąjungą prieš Lenkiją."
   pagrindžia:
     - c-161859
 
 <a id="claim-t-178046"></a>
-- t-023
+- t-028
   global_id: t-178046
   teiginys: "Po pralaimėjimo Vilniaus prieigose dalies lenkų dalinių likučiai perėjo sieną su Prūsija."
   pagrindžia:
     - c-161816
 
 <a id="claim-t-178048"></a>
-- t-049
+- t-029
   global_id: t-178048
   teiginys: "Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
   pagrindžia:
     - c-161840
 
 <a id="claim-t-178050"></a>
-- t-054
+- t-030
   global_id: t-178050
   teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
   pagrindžia:
     - c-161824
 
 <a id="claim-t-178051"></a>
-- t-070
+- t-031
   global_id: t-178051
   teiginys: "Popiežius nenorėjo be tolesnio nagrinėjimo patvirtinti sutarties, galbūt dėl naujesnių žinių iš Prūsijos."
   pagrindžia:
     - c-161823
 
 <a id="claim-t-178052"></a>
-- t-071
+- t-032
   global_id: t-178052
   teiginys: "Prūsijos teutonų ordino broliai pasiuntė kariuomenę aplinkiniais keliais ir sudegino Vytenio pranciškonams pastatytą bažnyčią."
   pagrindžia:
     - c-161832
 
 <a id="claim-t-178053"></a>
-- t-013
+- t-033
   global_id: t-178053
   teiginys: "1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai."
   pagrindžia:
     - c-43769
 
 <a id="claim-t-178054"></a>
-- t-039
+- t-034
   global_id: t-178054
   teiginys: "1322 m. žiemą po ilgos ramybės nauja kryžiuočių ekspedicija patraukė į Prūsiją."
   pagrindžia:
     - c-161884
 
 <a id="claim-t-178034"></a>
-- t-031
+- t-035
   global_id: t-178034
   teiginys: "Apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:
     - c-161847
 
 <a id="claim-t-178057"></a>
-- t-032
+- t-036
   global_id: t-178057
   teiginys: "Prūsijos dokumentuose Vilija XIII amžiuje buvo vadinama Nerimi arba Neria."
   pagrindžia:
     - c-161875
 
 <a id="claim-t-178093"></a>
-- t-014
+- t-037
   global_id: t-178093
   teiginys: "1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo."
   pagrindžia:
     - c-43770
 
 <a id="claim-t-178059"></a>
-- t-075
+- t-038
   global_id: t-178059
   teiginys: "Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-161835
 
 <a id="claim-t-178060"></a>
-- t-035
+- t-039
   global_id: t-178060
   teiginys: "1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę."
   pagrindžia:
     - c-161843
 
 <a id="claim-t-178061"></a>
-- t-086
+- t-040
   global_id: t-178061
   teiginys: "Dusburgiečio kronikoje teigiama, kad kryžiaus karui „viešpats pasirinko Prūsijos žemę“, o Ordino veiksmai laikyti Dievo veiksmais."
   pagrindžia:
     - c-161812
 
 <a id="claim-t-178062"></a>
-- t-084
+- t-041
   global_id: t-178062
   teiginys: "Petro iš Dusburgo kronikoje Prūsijos vardu politine prasme vadintas Ordino užkariautas plotas nuo Vyslos iki Nemuno."
   pagrindžia:
     - c-161862
 
 <a id="claim-t-178064"></a>
-- t-055
+- t-042
   global_id: t-178064
   teiginys: "Po Žygimanto Kęstutaičio mirties Prūsijos ordino įtaka Lietuvos likimui liovėsi vyravusi."
   pagrindžia:
     - c-161834
 
 <a id="claim-t-178065"></a>
-- t-094
+- t-043
   global_id: t-178065
   teiginys: "1329 m. Jonas Liuksemburgietis, Čekijos karalius, su kilmingaisiais atžygiavo į Prūsijos žemę."
   pagrindžia:
     - c-161853
 
 <a id="claim-t-178066"></a>
-- t-018
+- t-044
   global_id: t-178066
   teiginys: "Abraomo Kulviečio ir Martyno Mažvydo kultūrinė programa Prūsijoje pradėjo lietuviakalbės raštijos tradiciją."
   pagrindžia:
     - c-161815
 
 <a id="claim-t-178068"></a>
-- t-036
+- t-045
   global_id: t-178068
   teiginys: "Vaidila 1380 m. nuvyko į Prūsiją ir paruošė Jogailai dirvą slaptam sandėriui su arkikomtūru."
   pagrindžia:
     - c-161826
 
 <a id="claim-t-178069"></a>
-- t-096
+- t-046
   global_id: t-178069
   teiginys: "Per Kotrynos II įvykdytus Respublikos padalijimus trečdalis valstybės buvo atiduotas Prūsijai ir Austrijai."
   pagrindžia:
     - c-161885
 
 <a id="claim-t-178070"></a>
-- t-087
+- t-047
   global_id: t-178070
   teiginys: "Dusburgiečio kronikoje pabrėžiama, kad Ordino broliai apvalė „šventąją Prūsijos žemę“ nuo stabmeldystės."
   pagrindžia:
     - c-161830
 
 <a id="claim-t-178071"></a>
-- t-093
+- t-048
   global_id: t-178071
   teiginys: "Vienais metais Prūsijos žemėje buvo pagaunama kur kas mažiau silkių negu anksčiau."
   pagrindžia:
     - c-161873
 
 <a id="claim-t-178072"></a>
-- t-062
+- t-049
   global_id: t-178072
   teiginys: "Kryžiuočiai sunaikino Romuvas, užėmę Prūsiją."
   pagrindžia:
     - c-161857
 
 <a id="claim-t-178073"></a>
-- t-085
+- t-050
   global_id: t-178073
   teiginys: "Petro iš Dusburgo kronikos IV dalies paaiškinimai Prūsijos įvykius gretino su visuotinės istorijos faktais."
   pagrindžia:
     - c-161821
 
 <a id="claim-t-178074"></a>
-- t-038
+- t-051
   global_id: t-178074
   teiginys: "Prūsiją pasiekus žiniai apie Jogailos derybų sėkmę, Konradas Ciolneris Rotenšteinas 1385 m. rugpjūtį puolė Lietuvą."
   pagrindžia:
     - c-161820
 
 <a id="claim-t-178075"></a>
-- t-034
+- t-052
   global_id: t-178075
   teiginys: "1325 m. Vilniuje pasirašyta Gedimino sutartis su Lokietka numatė bendrą kovą su Prūsijos ordinu."
   pagrindžia:
     - c-161854
 
 <a id="claim-t-178076"></a>
-- t-088
+- t-053
   global_id: t-178076
   teiginys: "Dusburgiečio kronikoje Ordino karas Prūsijoje vaizduojamas kaip vykęs „pagal dievo valią“."
   pagrindžia:
     - c-161877
 
 <a id="claim-t-178077"></a>
-- t-021
+- t-054
   global_id: t-178077
   teiginys: "Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
   pagrindžia:
     - c-161880
 
 <a id="claim-t-178078"></a>
-- t-078
+- t-055
   global_id: t-178078
   teiginys: "1394 m. Prūsijos ordinas pasinaudojo Švitrigailos išvykimu pas kryžiuočius ir pradėjo karą prieš Lietuvą bei Lenkiją."
   pagrindžia:
     - c-161813
 
 <a id="claim-t-178080"></a>
-- t-012
+- t-056
   global_id: t-178080
   teiginys: "Lietuvių pirkliai Prūsijoje ir Livonijoje galėjo laisvai prekiauti be naujų muitų, išskyrus senuosius."
   pagrindžia:
     - c-161867
 
 <a id="claim-t-178082"></a>
-- t-064
+- t-057
   global_id: t-178082
   teiginys: "1375 m. ekspedicija iš Prūsijos sukėlė Vilniui grėsmę."
   pagrindžia:
     - c-161866
 
 <a id="claim-t-178083"></a>
-- t-089
+- t-058
   global_id: t-178083
   teiginys: "Prūsijos žemę ribojo Vysla, Sūrioji jūra, Nemunas, Rusios žemė, Mazovijos kunigaikštystė ir Dobrynės kunigaikštystė."
   pagrindžia:
     - c-161887
 
 <a id="claim-t-178084"></a>
-- t-041
+- t-059
   global_id: t-178084
   teiginys: "Prūsijoje pasklido gandas, kad Gediminas laiškais skelbė norą priimti krikštą."
   pagrindžia:
     - c-161860
 
 <a id="claim-t-178085"></a>
-- t-092
+- t-060
   global_id: t-178085
   teiginys: "1304 m. Vokietijos maldininkai vėl išsirengė keliauti į Prūsijos žemę."
   pagrindžia:
     - c-161837
 
 <a id="claim-t-178087"></a>
-- t-047
+- t-061
   global_id: t-178087
   teiginys: "Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-161835
 
 <a id="claim-t-178088"></a>
-- t-056
+- t-062
   global_id: t-178088
   teiginys: "Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais."
   pagrindžia:
     - c-161833
 
 <a id="claim-t-178089"></a>
-- t-053
+- t-063
   global_id: t-178089
   teiginys: "Prūsijos ir Livonijos kryžiuočių galybė rėmė asmenį, troškusį tapti Lietuvos valdovu ir atkeršyti."
   pagrindžia:
     - c-161851
 
 <a id="claim-t-178090"></a>
-- t-068
+- t-064
   global_id: t-178090
   teiginys: "Dėl baisių šalčių Prūsijoje ir Livonijoje nušalo visi vaismedžiai, o kryžiuočiai negalėjo imtis žygio."
   pagrindžia:
     - c-161839
 
 <a id="claim-t-178091"></a>
-- t-082
+- t-065
   global_id: t-178091
   teiginys: "1326 m. Petras iš Dusburgo užbaigė kroniką, skirtą pagrįsti kryžiuočių užkariavimus Prūsijoje ir karą prieš Lietuvą."
   pagrindžia:
     - c-161829
 
 <a id="claim-t-178092"></a>
-- t-043
+- t-066
   global_id: t-178092
   teiginys: "Prūsijos teutonų broliai pasiuntė kariuomenę ir sudegino Vytenio pranciškonams skirtą bažnyčią."
   pagrindžia:
     - c-161818
 
 <a id="claim-t-178093"></a>
-- t-014
+- t-067
   global_id: t-178093
   teiginys: "1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl Abiejų Tautų Respublikos II padalijimo."
   pagrindžia:
     - c-43770
 
 <a id="claim-t-178094"></a>
-- t-057
+- t-068
   global_id: t-178094
   teiginys: "XVIII a. Prūsijoje veikė Lietuvos departamentas su centru Gumbinėje, tačiau lietuvių kalbos vartojimas Prūsijoje ilgainiui siaurėjo."
   pagrindžia:
     - c-161879
 
 <a id="claim-t-178095"></a>
-- t-017
+- t-069
   global_id: t-178095
   teiginys: "XVIII a. Prūsijoje oficialiai vartotas Lietuvos vardas, nes buvo įsteigtas Lietuvos departamentas su centru Gumbinėje."
   pagrindžia:
     - c-161879
 
 <a id="claim-t-178096"></a>
-- t-044
+- t-070
   global_id: t-178096
   teiginys: "Riteriai grįždami paėmė dokumentus į Prūsiją, todėl jie atsidūrė kryžiuočių archyve."
   pagrindžia:
     - c-161822
 
 <a id="claim-t-178097"></a>
-- t-037
+- t-071
   global_id: t-178097
   teiginys: "Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą."
   pagrindžia:
     - c-161828
 
 <a id="claim-t-178098"></a>
-- t-059
+- t-072
   global_id: t-178098
   teiginys: "1231 m. Prūsijoje pradėjęs veikti Kryžiuočių ordinas buvo stipresnis ir geriau organizuotas nei kalavijuočiai."
   pagrindžia:
     - c-161836
 
 <a id="claim-t-178099"></a>
-- t-069
+- t-073
   global_id: t-178099
   teiginys: "Prūsijoje pasklido gandas, kad Gediminas išsiuntinėjo laiškus apie norą priimti krikštą ir prisijungti prie tikinčiųjų."
   pagrindžia:
     - c-161860
 
 <a id="claim-t-183083"></a>
-- t-094
+- t-074
   global_id: t-183083
   teiginys: "1629 m. Altmarko paliaubomis švedams šešeriems metams buvo palikti kai kurie Prūsijos uostai, tarp jų Klaipėda."
   pagrindžia:
     - c-24417
 
 <a id="claim-t-183084"></a>
-- t-095
+- t-075
   global_id: t-183084
   teiginys: "Priešams užplūdus Lietuvos miestus, daugelis vokiečių pirklių pabėgo į Prūsiją, ypač į Karaliaučių."
   pagrindžia:
     - c-166472
 
 <a id="claim-t-183869"></a>
-- t-101
+- t-076
   global_id: t-183869
   teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
   pagrindžia:
     - c-167254
 
 <a id="claim-t-185102"></a>
-- t-102
+- t-077
   global_id: t-185102
   teiginys: "Sudeginus Karšuvos ir Heilsbergo pilis Kurše, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   pagrindžia:
     - c-168463
 
 <a id="claim-t-185103"></a>
-- t-103
+- t-078
   global_id: t-185103
   teiginys: "Mindaugas, atgavęs Žemaitiją bei Kuršą ir nusiaubęs Sembą, po kelerių metų vėl sukėlė karą Prūsijoje."
   pagrindžia:
     - c-168464
 
 <a id="claim-t-185104"></a>
-- t-104
+- t-079
   global_id: t-185104
   teiginys: "Į pagalbą prieš Prūsijos ir Žemaitijos gyventojus buvo sutelkta daug kariuomenės iš Vokietijos."
   pagrindžia:
     - c-168465
 
 <a id="claim-t-185105"></a>
-- t-105
+- t-080
   global_id: t-185105
   teiginys: "Skomantas, neseniai pabėgęs į Prūsiją, su prūsų kariais netikėtai patraukė Gardino kryptimi."
   pagrindžia:
     - c-168466
 
 <a id="claim-t-185106"></a>
-- t-106
+- t-081
   global_id: t-185106
   teiginys: "Vytenio pulkai beveik tris mėnesius niokojo Prūsiją, kurią siaubė žudynės ir gaisrai."
   pagrindžia:
     - c-168467
 
 <a id="claim-t-185107"></a>
-- t-107
+- t-082
   global_id: t-185107
   teiginys: "Bertoldas Briuhavenas į Livoniją buvo pasiųstas su Prūsijos kryžiuočių daliniu ir nugalėjo apgulties išsekintus lietuvius."
   pagrindžia:
     - c-168468
 
 <a id="claim-t-185108"></a>
-- t-108
+- t-083
   global_id: t-185108
   teiginys: "Kęstutis, priešui pasitraukus iš Lietuvos, slaptais miškų keliais užpuolė Prūsiją."
   pagrindžia:
     - c-168469
 
 <a id="claim-t-185109"></a>
-- t-109
+- t-084
   global_id: t-185109
   teiginys: "Kryžiuočiai po ariergardo pralaimėjimo skubiai pasitraukė į Prūsiją, pakelėse išmesdami gausų grobį."
   pagrindžia:
     - c-168470
 
 <a id="claim-t-185110"></a>
-- t-110
+- t-085
   global_id: t-185110
   teiginys: "Nugalėtojai, išžudę ginkluotus priešininkus kovos lauke, be grobio sugrįžo į Prūsiją."
   pagrindžia:
     - c-168471
 
 <a id="claim-t-185111"></a>
-- t-111
+- t-086
   global_id: t-185111
   teiginys: "Kryžiuočiai paragino ginkluotis Prūsijos vyrus ir pasikvietė pagalbininkų iš Silezijos, Austrijos, Vokietijos, Anglijos bei Prancūzijos."
   pagrindžia:
     - c-168472
 
 <a id="claim-t-185112"></a>
-- t-112
+- t-087
   global_id: t-185112
   teiginys: "Jogaila įsakė dvidešimt laivų su grūdais Vysla nuplukdyti į Prūsijos pasienį, kad maistas būtų nugabentas į Lietuvą."
   pagrindžia:
     - c-168473
 
 <a id="claim-t-185113"></a>
-- t-113
+- t-088
   global_id: t-185113
   teiginys: "Jogaila, matydamas kryžiuočių sėkmę, įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija."
   pagrindžia:
     - c-168474
 
 <a id="claim-t-185114"></a>
-- t-114
+- t-089
   global_id: t-185114
   teiginys: "Lietuvių kariuomenė, sugrįžusi iš Prūsijos, šiek tiek pailsėjo ir patraukė iš vakarų į rytus."
   pagrindžia:
     - c-168475
 
 <a id="claim-t-185115"></a>
-- t-115
+- t-090
   global_id: t-185115
   teiginys: "Rengiantis traukti į Prūsiją, Vilniuje buvo sušauktas lietuvių seimas."
   pagrindžia:
@@ -757,70 +757,70 @@ Tada Gustavas Adolfas persikėlė kariauti į Lenkiją ir užėmė jos priklauso
     - c-171705
 
 <a id="claim-t-192727"></a>
-- t-116
+- t-099
   global_id: t-192727
   teiginys: "Teodoras Narbutas laiko tikėtina nuomonę, kad Prūsija turėjo pirmykščių gyventojų, su kuriais susipažino kimbrai."
   pagrindžia:
     - c-175497
 
 <a id="claim-t-192728"></a>
-- t-117
+- t-100
   global_id: t-192728
   teiginys: "1242-1253 metais klajokliai tarp Mazovijos, Prūsijos ir Lietuvos lengvino lietuvių ryšius su Pamariu ir Prūsija."
   pagrindžia:
     - c-175498
 
 <a id="claim-t-192729"></a>
-- t-118
+- t-101
   global_id: t-192729
   teiginys: "Narbutas rašo, kad 1253 metų pradžioje kryžiuočiai, sustiprinę saugumą nuo Vyslos pusės, ėmė siekti užkariauti Prūsiją."
   pagrindžia:
     - c-175499
 
 <a id="claim-t-192730"></a>
-- t-119
+- t-102
   global_id: t-192730
   teiginys: "Teodoras Narbutas Ordino politiką vadina kruvina ir rašo, kad sūduviai buvo iškapoti arba išgabenti į kitas Prūsijos dalis."
   pagrindžia:
     - c-175500
 
 <a id="claim-t-192732"></a>
-- t-121
+- t-103
   global_id: t-192732
   teiginys: "Narbutas tikrosios Prūsijos sieną aprašo ėjusią Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių ir toliau iki Širvintos upės."
   pagrindžia:
     - c-175502
 
 <a id="claim-t-192734"></a>
-- t-123
+- t-104
   global_id: t-192734
   teiginys: "Narbutas nurodo skirtingas nuomones apie gintare rastų vabzdžių kilmę: Masė jų tėvyne laikė Prūsiją, o Ragenas manė juos patekus iš šalies."
   pagrindžia:
     - c-175504
 
 <a id="claim-t-192735"></a>
-- t-124
+- t-105
   global_id: t-192735
   teiginys: "Narbutas, remdamasis Nestoru, rašo, kad mirusiųjų deginimas, pelenų rinkimas į urnas ir laidotuvių turnyrai išliko Prūsijoje."
   pagrindžia:
     - c-175505
 
 <a id="claim-t-194745"></a>
-- t-125
+- t-106
   global_id: t-194745
   teiginys: "Šilinyčius (Syleniczus) yra lietuviškos kilmės, iš Sylla - šilas; Prūsijos lietuvių kalba Syilenas - stalius."
   pagrindžia:
     - c-177141
 
 <a id="claim-t-194935"></a>
-- t-126
+- t-107
   global_id: t-194935
   teiginys: "Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2."
   pagrindžia:
     - c-177331
 
 <a id="claim-t-194936"></a>
-- t-127
+- t-108
   global_id: t-194936
   teiginys: "Aes tuarium, pasak lotyniško Pitėjo vertimo, reiškia negilias, seklias vietas, kurios kartais būva apsemtos, o kartais — sausos; toks aprašymas iš tikrųjų tinka senovės Prūsijai."
   pagrindžia:

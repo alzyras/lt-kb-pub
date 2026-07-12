@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64908"></a>
-- t-004
+- t-001
   global_id: t-64908
   teiginys: "XIII a. Lietuvos kunigaikščiai buvo sukaupę nemažus brangiųjų metalų kiekius."
   pagrindžia:
     - c-30988
 
 <a id="claim-t-64909"></a>
-- t-003
+- t-002
   global_id: t-64909
   teiginys: "Vytautas, padedamas pirklių, sukaupė brangiųjų metalų - aukso ir sidabro - bei kitų brangenybių."
   pagrindžia:
     - c-14298
 
 <a id="claim-t-194614"></a>
-- t-005
+- t-003
   global_id: t-194614
   teiginys: "Mat jiems patikėdavo saugoti brangiuosius metalus."
   pagrindžia:

@@ -36,7 +36,7 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
 ## Teiginiai
 
 <a id="claim-t-07658"></a>
-- t-004
+- t-001
   global_id: t-07658
   teiginys: "Prasma nusako savą darbo būdą, kuriuo žmonės patys gaminosi buities padargus."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `savo prasma`, `savo prasma dirbtais`, `savo prasma dirbo`.
     - c-09592
 
 <a id="claim-t-07659"></a>
-- t-003
+- t-002
   global_id: t-07659
   teiginys: "Prasma siejama su pačių pasigamintais daiktais, pavyzdžiui, šepečiais."
   pagrindžia:

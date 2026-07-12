@@ -70,21 +70,21 @@ Nenurodyta
     - c-14350
 
 <a id="claim-t-192068"></a>
-- t-005
+- t-003
   global_id: t-192068
   teiginys: "Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti."
   pagrindžia:
     - c-174939
 
 <a id="claim-t-192069"></a>
-- t-003
+- t-004
   global_id: t-192069
   teiginys: "Pasimeldęs Jogaila, Vytauto ir lenkų riterių raginamas, užsidėjo šarvus ir nuvyko prie kariuomenės."
   pagrindžia:
     - c-174938
 
 <a id="claim-t-192070"></a>
-- t-004
+- t-005
   global_id: t-192070
   teiginys: "Lengvosios kavalerijos šarvai buvo lengvesni, dengė pečius ir krūtinę, o galvas saugojo šalmai."
   pagrindžia:

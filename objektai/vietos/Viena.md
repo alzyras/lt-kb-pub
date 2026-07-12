@@ -45,35 +45,35 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 ## Teiginiai
 
 <a id="claim-t-91446"></a>
-- t-006
+- t-001
   global_id: t-91446
   teiginys: "„Pranešimas...“ aptiktas Vokiečių ordino archyve Vienoje, XVI a. pradžios kodekse."
   pagrindžia:
     - c-87155
 
 <a id="claim-t-91447"></a>
-- t-006
+- t-002
   global_id: t-91447
   teiginys: "Po sąjungos su Austrija turkai puolė Austriją ir pasiekė Vieną."
   pagrindžia:
     - c-24560
 
 <a id="claim-t-91448"></a>
-- t-007
+- t-003
   global_id: t-91448
   teiginys: "1683 m. hetmonas Sapiega, vykdamas vaduoti Vienos, delsė su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio."
   pagrindžia:
     - c-24561
 
 <a id="claim-t-91450"></a>
-- t-005
+- t-004
   global_id: t-91450
   teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
   pagrindžia:
     - c-87157
 
 <a id="claim-t-185176"></a>
-- t-007
+- t-005
   global_id: t-185176
   teiginys: "Maksimilijonas troško priimti ir pavaišinti Žygimantą Vienoje, karaliaus rūmuose, bet tam prieštaravo Vladislovas."
   pagrindžia:
@@ -470,10 +470,19 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/religija prigimtinė religija.md#claim-t-189326|religija prigimtinė religija]]: Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe.
 - susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70425|žemlionis]]: Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.
 - susijęs iš [[objektai/zodynas/žygūnas.md#claim-t-185333|žygūnas]]: Jedlnioje lenkų seimas nutarė saugoti Lenkijos pasienio kelius, kad imperatoriaus ir Vytauto žygūnai neprasmuktų nė viena kryptimi.
+- susijęs iš [[objektai/asmenys/Ona (Petro žmona, XIX a.).md#claim-t-195553|Ona (Petro žmona, XIX a.)]]: Ganiavos epizode Ona įvardijama kaip viena iš mergaičių, artimų Petrui.
+- susijęs iš [[objektai/grupes/Suomių mokslo akademija.md#claim-t-195504|Suomių mokslo akademija]]: Suomių mokslo akademija buvo pažadėjusi paskirti vieną savo leidinį likusiam lietuvių dainų rankraščiui ir anksčiau buvo išleidusi kitą su tuo darbu susijusią knygą.
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192028|Druskininkų kapavietėje rastos monetos radimas]]: Vienoje prie Druskininkų rastos monetos pusėje pavaizduoti Gedimino Stulpai, o kita pusė buvo gerokai pažeista.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195584|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: Vėliau rekrutų rinkimas tapo žmoniškesnis, valstiečius surašius į vieną valsčių, valdomą taikos tarpininko.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195393|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti.
+- susijęs iš [[objektai/posakiai/šiandien susitrauksi, kitą dieną atsigausi.md#claim-t-195447|šiandien susitrauksi, kitą dieną atsigausi]]: Susilaikymas vieną dieną pateisinamas atsigaunant kitą dieną.
 - susijęs iš Aukštaitija: Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia.
 - susijęs iš Dobrynės žemė: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
+- susijęs iš Vilniaus Aušros broma: Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
+- susijęs iš Čestakavas: Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
+- susijęs iš [[objektai/zodynas/Krūva.md#claim-t-195462|Krūva]]: Krūva šiame šaltinyje reiškia iškultus ir į vieną vietą sustumtus javus.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192191|Russ ir Ross]]: Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje.
+- susijęs iš [[objektai/zodynas/Svodbiškai.md#claim-t-195625|Svodbiškai]]: Šioje apybraižoje piršlys vienoje pusėje veikia kaip eilinis svodbininkas.
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39465|A. Chlapovskis]]: Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-188508|Abraomas]]: Senovės Rytų legendose Abraomui priskiriamas kipariso, eglės ir kedro pasodinimas.
@@ -2366,31 +2375,62 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/zodynas/Žemės revoliucija.md#claim-t-192283|Žemės revoliucija]]: Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
+- susijęs iš [[objektai/asmenys/Petras (Onos vyras, XIX a.).md#claim-t-195550|Petras (Onos vyras, XIX a.)]]: Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas.
+- susijęs iš [[objektai/asmenys/Plačiukas (Ažytėnų gertuvės epizodas).md#claim-t-195539|Plačiukas (Ažytėnų gertuvės epizodas)]]: Plačiukas į gertuvę atėjo su svečiu ir ten sėdo gerti.
+- susijęs iš [[objektai/asmenys/Uršulė (Petro ir Onos pašnekovė, XIX a.).md#claim-t-195556|Uršulė (Petro ir Onos pašnekovė, XIX a.)]]: Uršulė Petro paklausė, kada bus jo ir Onos vestuvės.
+- susijęs iš [[objektai/autoriai/A. Sabaliauskas.md#claim-t-195244|A. Sabaliauskas]]: A. Sabaliauskas yra straipsnio „A. a. prof. A. R. Niemi“ autorius.
 - susijęs iš [[objektai/daiktai/Ašarinės.md#claim-t-192063|Ašarinės]]: Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų.
+- susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195332|Bonka]]: Gėrimo talpa prie bažnyčios vaišių ir gertuvių.
 - susijęs iš [[objektai/daiktai/Kauno miesto dievo-globėjo (Penatis) stabas.md#claim-t-192058|Kauno miesto dievo-globėjo (Penatis) stabas]]: Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje.
+- susijęs iš [[objektai/daiktai/Pastotė.md#claim-t-195344|Pastotė]]: Vestuvinė kraitvežių ir svodbininkų kelionės priemonė.
+- susijęs iš [[objektai/daiktai/Plakas.md#claim-t-195310|Plakas]]: Plakas aprašytas per šieno nešimo ir krovimo praktiką.
+- susijęs iš [[objektai/daiktai/Pustyklė.md#claim-t-195306|Pustyklė]]: Buvo tai maža medinė mentelė, prirengta taip, kad trintų plieną iš lengva, atitiesdama pradedančius linkti ašmenis.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192076|Valtys]]: Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.
+- susijęs iš [[objektai/daiktai/Ąsotis.md#claim-t-195307|Ąsotis]]: Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
 - susijęs iš [[objektai/ivykiai/Druskininkų kapavietėje rastos monetos radimas.md#claim-t-192027|Druskininkų kapavietėje rastos monetos radimas]]: 1841 m. prie Druskininkų tik ką atkastoje kapavietėje, lauke su gausiais laidojimais, buvo rasta moneta.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195582|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: Po Sevastopolio karo trejus metus visai neėmė rekrutų.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195585|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: Atėjus 1863 m. sukilimui, dvejus metus pagrečiui vėl neėmė rekrutų.
 - susijęs iš [[objektai/ivykiai/Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.).md#claim-t-192049|Teodoro Narbuto antrojo „Lietuvių tautos istorijos“ tomo pratarmės parašymas (1835 m. gegužės 8 d.)]]: Pratarmėje Teodoras Narbutas rašo skubėjęs atiduoti spaudai antrą tomą, skirtą lietuvių tautos ištakoms ir protėvių atsikėlimo istorijai.
 - susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192024|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: 1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas.
+- susijęs iš [[objektai/paprociai/Burnos prausimas prieš valgant pusryčius.md#claim-t-195390|Burnos prausimas prieš valgant pusryčius]]: Lietuviui priskiriamas paprotys burną prausti prieš pusryčius, o ne vos pradedant dieną.
+- susijęs iš [[objektai/paprociai/Burnos prausimas prieš valgant pusryčius.md#claim-t-195391|Burnos prausimas prieš valgant pusryčius]]: Dotnavos gudai, palyginimui, burną nusiprausdavo vos atsikėlę prieš eidami į darbą.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195409|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu.
+- susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195365|Piemenų samdymo ir apmokėjimo tvarka]]: Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis.
 - susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195392|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Vakarinis giedojimas buvo patogus šventvakario užsiėmimas.
 - susijęs iš [[objektai/posakiai/Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas.md#claim-t-192130|Nors pataikiau gyventi metu, kuris nėra palankus darbui, skirtam tautai, kurios tik vardas gyvas]]: 1852 m. Teodoras Narbutas rašė, kad darbą tautai tęsė nepalankiomis sąlygomis, tikėdamasis jo naudos pajėgesniems tyrėjams.
+- susijęs iš [[objektai/posakiai/Sudiev, rūta, sudiev, mėta.md#claim-t-195437|Sudiev, rūta, sudiev, mėta]]: Jaunamartė atsisveikina su rūta, mėta, lelijėle ir jaunomis dienomis.
+- susijęs iš [[objektai/posakiai/Tyli lyli dūda dūda.md#claim-t-195422|Tyli lyli dūda dūda]]: Kerdžius gieda su refrenu „Tyli lyli dūda dūda“.
 - susijęs iš [[objektai/posakiai/darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą.md#claim-t-192129|darbą sausą ir neturiningą, bet didelį Lietuvos praeities paminklą]]: Narbutas savo mitologijos tyrinėjimus pats apibūdina kaip sausą, bet svarbų Lietuvos praeities paminklą.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195034|gerumu galima ir laukinius žvėris sušvelninti.]]: Kai kartą jam kažkas priminė jo didelį duosnumą dalinant toto riams žemes Lietuvoje ir Rusijoj, Vytautas atsakęs, kad gerumu galima ir laukinius žvėris sušvelninti.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195035|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas, išgirdęs priekaištą dėl dosnaus žemių dalijimo totoriams Lietuvoje ir Rusijoje, atsakė, kad gerumu galima sušvelninti ir laukinius žvėris.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195036|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas atsakė, kad gerumu galima sušvelninti ir laukinius žvėris, kai jam priminė dosnumą totoriams dalijant žemes Lietuvoje ir Rusijoje.
 - susijęs iš [[objektai/posakiai/gerumu galima ir laukinius žvėris sušvelninti.md#claim-t-195037|gerumu galima ir laukinius žvėris sušvelninti.]]: Vytautas posakiu „gerumu galima ir laukinius žvėris sušvelninti“ aiškino savo dosnumą totoriams dalijant žemes Lietuvoje ir Rusioje.
+- susijęs iš Mūsų tautosaka, t. 4 (1931): Tome paskelbtas A. Sabaliausko straipsnis „A. a. prof. A. R. Niemi“.
 - susijęs iš Aukštaitija: Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo.
 - susijęs iš Bajerburgo pilis: Gediminas žuvo 1337 metais mūšyje su kryžiuočiais prie Bajerburgo pilies, buvusios per mylią nuo Veliuonos.
 - susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš Dotnava: Forma „Dotnavietis“ vartojama kaip Dotnavos gyventojo pavadinimas.
+- susijęs iš Dotnava: Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė.
+- susijęs iš Helsinkai: 1888 m. Augustas Robertas Niemi įstojo į Helsinkų universitetą.
+- susijęs iš Komarų miškai: Pasakojime sakoma, kad Belazaro skalikai ežį nusivijo per laukus į Komarų miškus.
+- susijęs iš Krakės: Iš Krakių parvežta žinia, kad krautuvėse atsirado visokios geležies.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
 - susijęs iš Vilniaus turgus ir aikštė: Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
 - susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192155|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
 - susijęs iš [[objektai/zodynas/Budtė.md#claim-t-192156|Budtė]]: Narbutas Budtę apibrėžia kaip išminties ir proto deivę.
+- susijęs iš [[objektai/zodynas/Filosofijos kandidato laipsnis.md#claim-t-195457|Filosofijos kandidato laipsnis]]: A. R. Niemi 1891 m. gavo filosofijos kandidato laipsnį.
+- susijęs iš [[objektai/zodynas/Karbonka.md#claim-t-195451|Karbonka]]: Karbonka šiame šaltinyje vadinama gyvulių liga, kuria galėjo užsikrėsti ir žmonės.
+- susijęs iš [[objektai/zodynas/Karunkos.md#claim-t-195464|Karunkos]]: Karunkos šiame šaltinyje reiškia vakarais giedamą giesmę ar giedojimą.
+- susijęs iš [[objektai/zodynas/Likeris.md#claim-t-195622|Likeris]]: Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192252|Phyllantus Emblica]]: Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192253|Phyllantus Emblica]]: Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192254|Phyllantus Emblica]]: Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme.
 - susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192255|Phyllantus Emblica]]: Narbutas Phyllantus Emblica vadina karšto klimato medžiu.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
+- susijęs iš [[objektai/zodynas/Traknienius.md#claim-t-195461|Traknienius]]: Traknieniai šiame šaltinyje reiškia darbą, susijusį su pėdų laužymu ir trynimu.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192261|Warejs]]: Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192262|Warejs]]: Teodoro Narbuto perteikimu, Warejs Pretorijaus laikais reiškė vyrą, prievarta renkantį duoklę.
 - susijęs iš [[objektai/zodynas/Warejs.md#claim-t-192263|Warejs]]: Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs.

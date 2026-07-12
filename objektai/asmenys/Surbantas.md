@@ -14,6 +14,7 @@ tags:
   - asmuo
   - karas
   - tikėjimas
+  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -47,7 +48,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - c-167514
 
 <a id="claim-t-60441"></a>
-- t-001
+- t-002
   global_id: t-60441
   teiginys: "Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
   pagrindžia:

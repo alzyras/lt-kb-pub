@@ -66,14 +66,14 @@ Nenurodyta
     - c-166714
 
 <a id="claim-t-54306"></a>
-- t-001
+- t-003
   global_id: t-54306
   teiginys: "Vilniaus Gaonas gynė rabininę tradiciją, inicijavo akcijas prieš chasidizmą ir sustabdė jo plitimą Lietuvoje."
   pagrindžia:
     - c-55182
 
 <a id="claim-t-54307"></a>
-- t-002
+- t-004
   global_id: t-54307
   teiginys: "Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba."
   pagrindžia:

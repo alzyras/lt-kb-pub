@@ -33,28 +33,28 @@ Lenkų didžponiams patarus, pir­ muoju Vilniaus diecezijos vyskupu Vladislovas
 ## Teiginiai
 
 <a id="claim-t-192165"></a>
-- t-004
+- t-001
   global_id: t-192165
   teiginys: "Narbutas žodį „diecezija“ vartoja kalbėdamas apie Odoakrui patikėtą valdžią Italijoje."
   pagrindžia:
     - c-175043
 
 <a id="claim-t-192166"></a>
-- t-003
+- t-002
   global_id: t-192166
   teiginys: "Narbutas rašo, kad Romos senatas Odoakrą pristatė kaip patricijų, kuriam patikima valdžia italų diecezijoje."
   pagrindžia:
     - c-175043
 
 <a id="claim-t-192167"></a>
-- t-001
+- t-003
   global_id: t-192167
   teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą."
   pagrindžia:
     - c-175041
 
 <a id="claim-t-192168"></a>
-- t-002
+- t-004
   global_id: t-192168
   teiginys: "Klodovo klebonija, duota naujajam vyskupui, buvo Gniezno diecezijoje."
   pagrindžia:

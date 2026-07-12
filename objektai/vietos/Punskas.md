@@ -12,6 +12,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - teisinė-praktika
   - vieta
 amziai:
   - 'XX'
@@ -38,21 +39,21 @@ Neturėdama pakankamai karinių jėgų Lietuva nesugebėjo apjungti netgi visų 
 ## Teiginiai
 
 <a id="claim-t-71963"></a>
-- t-003
+- t-001
   global_id: t-71963
   teiginys: "Per karinius susidūrimus su Lenkija Lietuva prarado lietuviškus Seinus ir Punską."
   pagrindžia:
     - c-70431
 
 <a id="claim-t-71964"></a>
-- t-001
+- t-002
   global_id: t-71964
   teiginys: "Karinių susidūrimų su Lenkija metu Lietuva prarado lietuviškus Seinus ir Punską."
   pagrindžia:
     - c-70431
 
 <a id="claim-t-183623"></a>
-- t-004
+- t-003
   global_id: t-183623
   teiginys: "Įsigaliojus sutarčiai Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
   pagrindžia:

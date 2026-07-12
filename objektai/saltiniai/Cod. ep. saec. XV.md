@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67360"></a>
-- t-002
+- t-001
   global_id: t-67360
   teiginys: "„Codex epistolaris saeculi decimi quinti“ yra XV amžiaus laiškų rinkinys, kurio 1-3 tomus parengė J. Sokołowskis, J. Szujskis ir A. Lewickis."
   pagrindžia:

@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07767"></a>
-- t-002
+- t-001
   global_id: t-07767
   teiginys: "Ant auko kalnų ir didelių akmenų žmonės meldėsi ir dievams aukavo, degindami įvairias aukas."
   pagrindžia:

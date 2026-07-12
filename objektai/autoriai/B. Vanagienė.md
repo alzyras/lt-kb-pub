@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187795"></a>
-- t-002
+- t-001
   global_id: t-187795
   teiginys: "B. Vanagienė parengė Simono Daukanto „Raštų“ pirmo tomo tekstą."
   pagrindžia:

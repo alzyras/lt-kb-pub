@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - privilegija
   - valdovas
   - vyskupas
+  - šventė
 amziai:
   - 'XV'
 media_total_count: '0'

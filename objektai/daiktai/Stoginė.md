@@ -47,12 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08333"></a>
-- t-002
+- t-001
   global_id: t-08333
   teiginys: "Jei stoginėse netilpo pašaras, jį krovė ant lauko į žagus arba bragus."
   pagrindžia:
     - c-56400
 - susijęs iš Joniškio apskritis: 1945 m. balandžio 18 d. Joniškio apskrities Joniškio valsčiaus Gasčiūnų kaime NKVD pajėgos aptiko partizanus, o kautynės truko tris valandas.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
+- susijęs iš [[objektai/zodynas/Krūva.md#claim-t-195462|Krūva]]: Krūva šiame šaltinyje reiškia iškultus ir į vieną vietą sustumtus javus.
 ## Reikšmingi paminėjimai
 
 - c-001

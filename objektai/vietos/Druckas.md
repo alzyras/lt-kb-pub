@@ -42,14 +42,14 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
 ## Teiginiai
 
 <a id="claim-t-67840"></a>
-- t-002
+- t-001
   global_id: t-67840
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
   pagrindžia:
     - c-43408
 
 <a id="claim-t-67841"></a>
-- t-001
+- t-002
   global_id: t-67841
   teiginys: "Druckas buvo paimtas kartu su Orša prieš priartėjant prie Vitebsko."
   pagrindžia:

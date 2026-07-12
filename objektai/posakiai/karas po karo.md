@@ -43,14 +43,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09685"></a>
-- t-004
+- t-001
   global_id: t-09685
   teiginys: "Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu."
   pagrindžia:
     - c-12495
 
 <a id="claim-t-09686"></a>
-- t-003
+- t-002
   global_id: t-09686
   teiginys: "Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953)."
   pagrindžia:

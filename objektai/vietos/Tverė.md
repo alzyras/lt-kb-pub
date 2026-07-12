@@ -52,112 +52,112 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 ## Teiginiai
 
 <a id="claim-t-180675"></a>
-- t-027
+- t-001
   global_id: t-180675
   teiginys: "Vytautas gerais santykiais su Didžiuoju Magistru siekė apsaugoti savo susilpnėjusią įtaką Tverio kunigaikštijoje."
   pagrindžia:
     - c-164278
 
 <a id="claim-t-180677"></a>
-- t-019
+- t-002
   global_id: t-180677
   teiginys: "Popiežius Eugenijus IV 1434 m. laiške užtarė Sofiją, Tverės kunigaikščio Boriso dukterį, patekusią Žygimanto galion."
   pagrindžia:
     - c-164284
 
 <a id="claim-t-180678"></a>
-- t-014
+- t-003
   global_id: t-180678
   teiginys: "Vytauto rytų politikoje Tverė buvo viena iš sričių, kurią jis siekė paimti savo valdžion arba turėti jai didelę įtaką."
   pagrindžia:
     - c-164281
 
 <a id="claim-t-180679"></a>
-- t-013
+- t-004
   global_id: t-180679
   teiginys: "Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai."
   pagrindžia:
     - c-164282
 
 <a id="claim-t-180680"></a>
-- t-007
+- t-005
   global_id: t-180680
   teiginys: "Algirdas gynė Tverės kunigaikščio Mykolo teises ir ginklu trukdė Maskvai įsitvirtinti Tverėje."
   pagrindžia:
     - c-164272
 
 <a id="claim-t-180681"></a>
-- t-018
+- t-006
   global_id: t-180681
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios."
   pagrindžia:
     - c-164268
 
 <a id="claim-t-180684"></a>
-- t-030
+- t-007
   global_id: t-180684
   teiginys: "1449 m. Kazimieras ir Maskva pasidalijo įtakos sritimis, o Tverė liko Lietuvos įtakoje."
   pagrindžia:
     - c-164274
 
 <a id="claim-t-180686"></a>
-- t-011
+- t-008
   global_id: t-180686
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais."
   pagrindžia:
     - c-164273
 
 <a id="claim-t-180687"></a>
-- t-028
+- t-009
   global_id: t-180687
   teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti jos valdžiai."
   pagrindžia:
     - c-164279
 
 <a id="claim-t-180686"></a>
-- t-011
+- t-010
   global_id: t-180686
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila sustiprino ryšius su Tverės kunigaikščiais."
   pagrindžia:
     - c-164273
 
 <a id="claim-t-180689"></a>
-- t-027
+- t-011
   global_id: t-180689
   teiginys: "Kazimierui pasidalijus įtakos sritimis su Maskva, Tverė buvo palikta Lietuvos įtakoje."
   pagrindžia:
     - c-164274
 
 <a id="claim-t-180690"></a>
-- t-022
+- t-012
   global_id: t-180690
   teiginys: "1328 m. Maskvos kunigaikštis, pasinaudojęs Tverėje kilusiu sukilimu prieš Aukso ordą, gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
   pagrindžia:
     - c-164271
 
 <a id="claim-t-180691"></a>
-- t-029
+- t-013
   global_id: t-180691
   teiginys: "Vytautas rytų politikoje siekė valdyti arba stipriai veikti Tverę, Maskvą, Pskovą, Naugardą, Riazanę ir totorius."
   pagrindžia:
     - c-164281
 
 <a id="claim-t-180692"></a>
-- t-028
+- t-014
   global_id: t-180692
   teiginys: "Tverio-Riazanės kunigaikščiai buvo tarp atvykusių dalyvių kartu su Naugardo ir Pskovo kunigaikščiais."
   pagrindžia:
     - c-164276
 
 <a id="claim-t-180694"></a>
-- t-020
+- t-015
   global_id: t-180694
   teiginys: "Po Aleksandro ir Elenos santuokos į Vilnių atvykstantiems pirkliams iš Tverės ir kitų Rusios miestų imta steigti naujas užeigas."
   pagrindžia:
     - c-164275
 
 <a id="claim-t-180695"></a>
-- t-012
+- t-016
   global_id: t-180695
   teiginys: "Susilpnėjusią įtaką Rusijoje, ypač Tverės kunigaikštijoje, buvo siekiama apsaugoti gerais santykiais su didžiuoju magistru."
   pagrindžia:
@@ -171,56 +171,56 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-164286
 
 <a id="claim-t-180699"></a>
-- t-025
+- t-018
   global_id: t-180699
   teiginys: "1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai."
   pagrindžia:
     - c-164268
 
 <a id="claim-t-180700"></a>
-- t-016
+- t-019
   global_id: t-180700
   teiginys: "Algirdas buvo vedęs Tverės kunigaikštytę Mariją ir, sekdamas Gedimino politika, leido Vilniuje veikti Romos bei graikų apeigų dvasininkams."
   pagrindžia:
     - c-164291
 
 <a id="claim-t-180701"></a>
-- t-031
+- t-020
   global_id: t-180701
   teiginys: "Maskva privertė Lietuvos sąjungininkę Tverę pasiduoti savo valdžiai."
   pagrindžia:
     - c-164279
 
 <a id="claim-t-180702"></a>
-- t-026
+- t-021
   global_id: t-180702
   teiginys: "Švitrigailos žmona Sofija buvo Tverės kunigaikščio Boriso duktė ir vėliau pateko Žygimanto valdžion."
   pagrindžia:
     - c-164284
 
 <a id="claim-t-180703"></a>
-- t-010
+- t-022
   global_id: t-180703
   teiginys: "1328 m. Tverėje kilus sukilimui prieš Aukso ordą, Maskvos kunigaikštis gavo mongolų leidimą rinkti duoklę iš kitų Rusios kunigaikštijų."
   pagrindžia:
     - c-43926
 
 <a id="claim-t-180704"></a>
-- t-029
+- t-023
   global_id: t-180704
   teiginys: "Tverės kunigaikštystė tuo metu buvo viena galingiausių greta Maskvos."
   pagrindžia:
     - c-164288
 
 <a id="claim-t-185166"></a>
-- t-035
+- t-024
   global_id: t-185166
   teiginys: "Tverėje kilus maištui, Tverės didysis kunigaikštis, valdinių išvytas iš senolių valdų, pabėgo pas karalių į Vilnių."
   pagrindžia:
     - c-168527
 
 <a id="claim-t-185167"></a>
-- t-036
+- t-025
   global_id: t-185167
   teiginys: "Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais."
   pagrindžia:
@@ -234,21 +234,21 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - c-170607
 
 <a id="claim-t-193236"></a>
-- t-037
+- t-027
   global_id: t-193236
   teiginys: "Norėdamas turėti sąjungininką prieš Maskvą, jis vedė Tverės kunigaikščio seserį Julijoną."
   pagrindžia:
     - c-175973
 
 <a id="claim-t-193237"></a>
-- t-038
+- t-028
   global_id: t-193237
   teiginys: "Švitrigaila ne tik kad nenutraukė ryšių su savo sąjungininku ordinu, bet dar padarė naują sąjungą su Maskva ir Tvere."
   pagrindžia:
     - c-175974
 
 <a id="claim-t-193238"></a>
-- t-039
+- t-029
   global_id: t-193238
   teiginys: "Dėl šio kunigaikščio titulo varžėsi Vladimiro, Tverės ir Maskvos kunigaikščiai."
   pagrindžia:
@@ -404,6 +404,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - susijęs iš Vilnius: Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.
 - susijęs iš Žemaičių žemė: Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.
 - susijęs iš [[objektai/zodynas/baskakas.md#claim-t-78877|baskakas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
+- susijęs iš Lietuvių tautos atgimimas: A. R. Niemio „Lietuvių tautos atgimimas“ paskelbta „Taukomies“ 1926-1927 m.
 - susijęs iš Maskva: Aleksandro ir Elenos santuoka skatino steigti užeigas pirkliams, atvykstantiems į Vilnių iš Maskvos, Naugardo, Pskovo ir Tverės.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54959|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius santykius su Rusios miestais.
 ## Reikšmingi paminėjimai

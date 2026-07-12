@@ -43,91 +43,91 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-174212"></a>
-- t-008
+- t-001
   global_id: t-174212
   teiginys: "Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai."
   pagrindžia:
     - c-158412
 
 <a id="claim-t-174214"></a>
-- t-006
+- t-002
   global_id: t-174214
   teiginys: "Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams."
   pagrindžia:
     - c-158408
 
 <a id="claim-t-174216"></a>
-- t-001
+- t-003
   global_id: t-174216
   teiginys: "Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno."
   pagrindžia:
     - c-158418
 
 <a id="claim-t-174217"></a>
-- t-009
+- t-004
   global_id: t-174217
   teiginys: "Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra."
   pagrindžia:
     - c-158415
 
 <a id="claim-t-174218"></a>
-- t-003
+- t-005
   global_id: t-174218
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   pagrindžia:
     - c-158407
 
 <a id="claim-t-174219"></a>
-- t-007
+- t-006
   global_id: t-174219
   teiginys: "Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį."
   pagrindžia:
     - c-158419
 
 <a id="claim-t-174220"></a>
-- t-013
+- t-007
   global_id: t-174220
   teiginys: "Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje."
   pagrindžia:
     - c-158414
 
 <a id="claim-t-174221"></a>
-- t-002
+- t-008
   global_id: t-174221
   teiginys: "Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies."
   pagrindžia:
     - c-158409
 
 <a id="claim-t-174222"></a>
-- t-010
+- t-009
   global_id: t-174222
   teiginys: "Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui."
   pagrindžia:
     - c-158417
 
 <a id="claim-t-174223"></a>
-- t-011
+- t-010
   global_id: t-174223
   teiginys: "Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą."
   pagrindžia:
     - c-158413
 
 <a id="claim-t-174224"></a>
-- t-005
+- t-011
   global_id: t-174224
   teiginys: "1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos."
   pagrindžia:
     - c-158411
 
 <a id="claim-t-194042"></a>
-- t-014
+- t-012
   global_id: t-194042
   teiginys: "Ir sutarė dieną, kurią jie turės būti prie Vilniaus."
   pagrindžia:
     - c-176657
 
 <a id="claim-t-194267"></a>
-- t-015
+- t-013
   global_id: t-194267
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   pagrindžia:

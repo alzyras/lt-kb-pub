@@ -44,91 +44,91 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 ## Teiginiai
 
 <a id="claim-t-112507"></a>
-- t-008
+- t-001
   global_id: t-112507
   teiginys: "Rygoje veikė domininkonai, o iš Rygos į Lietuvą buvo siunčiami dvasininkai skelbti evangelijos."
   pagrindžia:
     - c-103894
 
 <a id="claim-t-112510"></a>
-- t-007
+- t-002
   global_id: t-112510
   teiginys: "1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams."
   pagrindžia:
     - c-103899
 
 <a id="claim-t-112511"></a>
-- t-010
+- t-003
   global_id: t-112511
   teiginys: "Bonifacas IX Vladimiro vyskupu paskyrė domininkoną Gregorijų ir taip parėmė Vytauto pastangas plėsti katalikybę."
   pagrindžia:
     - c-36772
 
 <a id="claim-t-112512"></a>
-- t-021
+- t-004
   global_id: t-112512
   teiginys: "Dominikonų ordino broliai turėjo laisvę krikštyti, sakyti pamokslus ir atlikti kitas šventąsias apeigas."
   pagrindžia:
     - c-103889
 
 <a id="claim-t-112513"></a>
-- t-025
+- t-005
   global_id: t-112513
   teiginys: "Vingrių šaltinių perleidimas dominikonams sukėlė nesiliaujančius vaidus tarp šio ordino ir Vilniaus miestiečių."
   pagrindžia:
     - c-103888
 
 <a id="claim-t-112514"></a>
-- t-023
+- t-006
   global_id: t-112514
   teiginys: "Ordinas skleidė gandus, kad Vytautas su turkais eina prieš katalikus."
   pagrindžia:
     - c-36772
 
 <a id="claim-t-112515"></a>
-- t-022
+- t-007
   global_id: t-112515
   teiginys: "Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote."
   pagrindžia:
     - c-103896
 
 <a id="claim-t-112517"></a>
-- t-006
+- t-008
   global_id: t-112517
   teiginys: "Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius."
   pagrindžia:
     - c-103892
 
 <a id="claim-t-112518"></a>
-- t-019
+- t-009
   global_id: t-112518
   teiginys: "1303 m. valdęs popiežius Benediktas XI buvo Brolių pamokslininkų ordino vienuolis."
   pagrindžia:
     - c-103900
 
 <a id="claim-t-112519"></a>
-- t-009
+- t-010
   global_id: t-112519
   teiginys: "Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus."
   pagrindžia:
     - c-31056
 
 <a id="claim-t-112520"></a>
-- t-012
+- t-011
   global_id: t-112520
   teiginys: "Gediminas teigė norįs kviesti dorus dominikonų ir pranciškonų ordino vienuolius, bet nepageidaująs plėšikaujančių vienuolių."
   pagrindžia:
     - c-103895
 
 <a id="claim-t-112521"></a>
-- t-011
+- t-012
   global_id: t-112521
   teiginys: "Domininkonai, iš naujo skelbdami kryžiaus karą, turėjo atvesti naujus piligrimų būrius iš kelių Europos kraštų."
   pagrindžia:
     - c-31056
 
 <a id="claim-t-112522"></a>
-- t-018
+- t-013
   global_id: t-112522
   teiginys: "Brolių pamokslininkų ordinas minimas kaip įkurtas 1216 m., valdant popiežiui Honorijui III."
   pagrindžia:

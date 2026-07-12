@@ -41,21 +41,21 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
     - c-169306
 
 <a id="claim-t-185947"></a>
-- t-004
+- t-003
   global_id: t-185947
   teiginys: "Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo."
   pagrindžia:
     - c-169308
 
 <a id="claim-t-185948"></a>
-- t-005
+- t-004
   global_id: t-185948
   teiginys: "Karalius žadėjo atiduoti Andrejų tik tada, jei Ivanas grąžintų kunigaikščius su jų šeimomis ir tėvonijomis."
   pagrindžia:
     - c-169309
 
 <a id="claim-t-193391"></a>
-- t-006
+- t-005
   global_id: t-193391
   teiginys: "Sutiko ir priėmė maskvėnus pataurininkis Mikalojus Kiška, stalininkas Mikalojus Dorogostaiskis, maršalai Jonas Valavičius ir Jonas Vilčekas, rūmininkai Jonas Trizna, Skuminas Točinskis ir Mikalojus Konča, o vedė derybas tokie orūs vyrai, kaip Vilniaus vaivada."
   pagrindžia:

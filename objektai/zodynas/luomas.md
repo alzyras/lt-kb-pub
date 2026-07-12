@@ -52,98 +52,98 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
     - c-154602
 
 <a id="claim-t-169918"></a>
-- t-004
+- t-002
   global_id: t-169918
   teiginys: "Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos."
   pagrindžia:
     - c-154602
 
 <a id="claim-t-169919"></a>
-- t-016
+- t-003
   global_id: t-169919
   teiginys: "Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką."
   pagrindžia:
     - c-154599
 
 <a id="claim-t-169920"></a>
-- t-002
+- t-004
   global_id: t-169920
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu."
   pagrindžia:
     - c-154600
 
 <a id="claim-t-169921"></a>
-- t-015
+- t-005
   global_id: t-169921
   teiginys: "Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių."
   pagrindžia:
     - c-154601
 
 <a id="claim-t-169923"></a>
-- t-003
+- t-006
   global_id: t-169923
   teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
   pagrindžia:
     - c-37930
 
 <a id="claim-t-184244"></a>
-- t-017
+- t-007
   global_id: t-184244
   teiginys: "Vytautas skatino prekybą ir intensyvesnį ūkinį gyvenimą, sudarydamas žydų ir miestelėnų luomą."
   pagrindžia:
     - c-167628
 
 <a id="claim-t-184618"></a>
-- t-018
+- t-008
   global_id: t-184618
   teiginys: "Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo."
   pagrindžia:
     - c-167979
 
 <a id="claim-t-184619"></a>
-- t-019
+- t-009
   global_id: t-184619
   teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
   pagrindžia:
     - c-167980
 
 <a id="claim-t-184620"></a>
-- t-020
+- t-010
   global_id: t-184620
   teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
   pagrindžia:
     - c-167981
 
 <a id="claim-t-184621"></a>
-- t-021
+- t-011
   global_id: t-184621
   teiginys: "Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką."
   pagrindžia:
     - c-167982
 
 <a id="claim-t-184622"></a>
-- t-022
+- t-012
   global_id: t-184622
   teiginys: "Kazimieras Breste priėmė luomų priesaiką, kuria jie pažadėjo ištikimybę ir paklusnumą."
   pagrindžia:
     - c-167983
 
 <a id="claim-t-184623"></a>
-- t-023
+- t-013
   global_id: t-184623
   teiginys: "Aleksandras pasiūlė lietuvių luomams Vilniaus seime aptarti ir patvirtinti Piotrkove jo atstovų priimtus nutarimus."
   pagrindžia:
     - c-167984
 
 <a id="claim-t-184625"></a>
-- t-025
+- t-014
   global_id: t-184625
   teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams."
   pagrindžia:
     - c-167986
 
 <a id="claim-t-193381"></a>
-- t-026
+- t-015
   global_id: t-193381
   teiginys: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija."
   pagrindžia:

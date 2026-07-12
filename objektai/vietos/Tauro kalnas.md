@@ -43,7 +43,7 @@ Stepono bažnyčią, pasuko Tauro kalno link, ant kurio netrukus buvo išdėstyt
 ## Teiginiai
 
 <a id="claim-t-84850"></a>
-- t-003
+- t-001
   global_id: t-84850
   teiginys: "Lizdeikos sapno aiškinimas paskatino Gediminą ant Tauro kalno pastatyti Aukštutinę mūro pilį."
   pagrindžia:

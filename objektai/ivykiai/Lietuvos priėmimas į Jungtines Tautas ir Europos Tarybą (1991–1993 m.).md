@@ -12,10 +12,10 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - mokslininkas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'

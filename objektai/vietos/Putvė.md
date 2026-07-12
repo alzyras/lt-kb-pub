@@ -32,14 +32,14 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
 ## Teiginiai
 
 <a id="claim-t-32490"></a>
-- t-002
+- t-001
   global_id: t-32490
   teiginys: "Putvė, dar vadinta Putenika, buvo prie Jūros upės stovėjusi žemaičių pilis, kuri iki paėmimo laikyta neįveikta."
   pagrindžia:
     - c-32368
 
 <a id="claim-t-32491"></a>
-- t-001
+- t-002
   global_id: t-32491
   teiginys: "Putvė, dar vadinta Putenicka, buvo viena iš Karšuvos srities pilių, kurias priešai atakavo po du ar tris kartus."
   pagrindžia:

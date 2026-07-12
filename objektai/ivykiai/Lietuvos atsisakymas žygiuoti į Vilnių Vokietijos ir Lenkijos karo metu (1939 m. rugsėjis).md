@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75132"></a>
-- t-003
+- t-001
   global_id: t-75132
   teiginys: "Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija."
   pagrindžia:
@@ -62,7 +62,7 @@ Nenurodyta
     - c-23023
 
 <a id="claim-t-75134"></a>
-- t-001
+- t-003
   global_id: t-75134
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   pagrindžia:

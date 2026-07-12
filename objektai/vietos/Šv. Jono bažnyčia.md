@@ -32,14 +32,14 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 ## Teiginiai
 
 <a id="claim-t-86280"></a>
-- t-002
+- t-001
   global_id: t-86280
   teiginys: "Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią."
   pagrindžia:
     - c-82260
 
 <a id="claim-t-86281"></a>
-- t-001
+- t-002
   global_id: t-86281
   teiginys: "Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią."
   pagrindžia:

@@ -29,21 +29,21 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Teiginiai
 
 <a id="claim-t-78158"></a>
-- t-003
+- t-001
   global_id: t-78158
   teiginys: "1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai."
   pagrindžia:
     - c-75466
 
 <a id="claim-t-78159"></a>
-- t-001
+- t-002
   global_id: t-78159
   teiginys: "Du 1-ojo pėstininkų pulko batalionai įėjo į Ladygos vadovaujamą dešiniąją koloną kartu su raitaisiais žvalgais, dviem eskadronais ir 4-ąja baterija."
   pagrindžia:
     - c-42601
 
 <a id="claim-t-78160"></a>
-- t-002
+- t-003
   global_id: t-78160
   teiginys: "1-asis pėstininkų pulkas naktį iš 23 į 24 d. palei Zarasų plentą nesėkmingai puolė „Bružų poziciją“."
   pagrindžia:

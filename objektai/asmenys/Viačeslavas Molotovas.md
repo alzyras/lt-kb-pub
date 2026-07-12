@@ -39,7 +39,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Teiginiai
 
 <a id="claim-t-64236"></a>
-- t-003
+- t-001
   global_id: t-64236
   teiginys: "Agresyviai spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, 1939 m. spalio 10 d. pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis."
   pagrindžia:
@@ -53,7 +53,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-22051
 
 <a id="claim-t-64238"></a>
-- t-005
+- t-003
   global_id: t-64238
   teiginys: "1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę."
   pagrindžia:
@@ -67,7 +67,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-65044
 
 <a id="claim-t-64240"></a>
-- t-001
+- t-005
   global_id: t-64240
   teiginys: "1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai."
   pagrindžia:

@@ -41,14 +41,14 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 ## Teiginiai
 
 <a id="claim-t-02829"></a>
-- t-002
+- t-001
   global_id: t-02829
   teiginys: "1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge."
   pagrindžia:
     - c-03067
 
 <a id="claim-t-02830"></a>
-- t-001
+- t-002
   global_id: t-02830
   teiginys: "1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai."
   pagrindžia:

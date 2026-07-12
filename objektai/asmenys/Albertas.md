@@ -43,28 +43,28 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 ## Teiginiai
 
 <a id="claim-t-78932"></a>
-- t-004
+- t-001
   global_id: t-78932
   teiginys: "Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį."
   pagrindžia:
     - c-76034
 
 <a id="claim-t-78933"></a>
-- t-003
+- t-002
   global_id: t-78933
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
   pagrindžia:
     - c-76033
 
 <a id="claim-t-78934"></a>
-- t-002
+- t-003
   global_id: t-78934
   teiginys: "Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius."
   pagrindžia:
     - c-76031
 
 <a id="claim-t-190837"></a>
-- t-005
+- t-004
   global_id: t-190837
   teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
   pagrindžia:

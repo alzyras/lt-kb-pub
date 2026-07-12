@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - teisinė-praktika
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -39,7 +40,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
 ## Teiginiai
 
 <a id="claim-t-59833"></a>
-- t-008
+- t-001
   global_id: t-59833
   teiginys: "1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius."
   pagrindžia:
@@ -53,49 +54,49 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
     - c-60469
 
 <a id="claim-t-59835"></a>
-- t-005
+- t-003
   global_id: t-59835
   teiginys: "Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė."
   pagrindžia:
     - c-167437
 
 <a id="claim-t-59836"></a>
-- t-006
+- t-004
   global_id: t-59836
   teiginys: "Grįžęs iš Vokietijos, Sembos fogtas Ditrichas iš Lidelau atkalbėjo sembus nuo paklydimo."
   pagrindžia:
     - c-60471
 
 <a id="claim-t-59837"></a>
-- t-003
+- t-005
   global_id: t-59837
   teiginys: "Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą."
   pagrindžia:
     - c-60470
 
 <a id="claim-t-59838"></a>
-- t-004
+- t-006
   global_id: t-59838
   teiginys: "Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį."
   pagrindžia:
     - c-60467
 
 <a id="claim-t-59839"></a>
-- t-001
+- t-007
   global_id: t-59839
   teiginys: "Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų."
   pagrindžia:
     - c-60465
 
 <a id="claim-t-59840"></a>
-- t-007
+- t-008
   global_id: t-59840
   teiginys: "Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus."
   pagrindžia:
     - c-60472
 
 <a id="claim-t-59835"></a>
-- t-005
+- t-009
   global_id: t-59835
   teiginys: "Sembos fogtas Ditrichas su kariuomene užpuolė Ramijos pilį, tą pačią dieną į ją įsiveržė ir sugriovė."
   pagrindžia:

@@ -59,49 +59,49 @@ Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio ats
 ## Teiginiai
 
 <a id="claim-t-187909"></a>
-- t-007
+- t-001
   global_id: t-187909
   teiginys: "Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu."
   pagrindžia:
     - c-170890
 
 <a id="claim-t-187910"></a>
-- t-009
+- t-002
   global_id: t-187910
   teiginys: "Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę."
   pagrindžia:
     - c-170892
 
 <a id="claim-t-187911"></a>
-- t-008
+- t-003
   global_id: t-187911
   teiginys: "Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių."
   pagrindžia:
     - c-170890
 
 <a id="claim-t-187912"></a>
-- t-010
+- t-004
   global_id: t-187912
   teiginys: "Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius."
   pagrindžia:
     - c-170891
 
 <a id="claim-t-187913"></a>
-- t-011
+- t-005
   global_id: t-187913
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą."
   pagrindžia:
     - c-170894
 
 <a id="claim-t-190646"></a>
-- t-012
+- t-006
   global_id: t-190646
   teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą."
   pagrindžia:
     - c-173529
 
 <a id="claim-t-190647"></a>
-- t-013
+- t-007
   global_id: t-190647
   teiginys: "Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23."
   pagrindžia:

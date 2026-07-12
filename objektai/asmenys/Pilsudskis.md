@@ -30,14 +30,14 @@ Tautų Sąjungos Taryba, pačiam Pilsudskiui atvykus į Ženevą, įsidėmėjo j
 ## Teiginiai
 
 <a id="claim-t-64036"></a>
-- t-003
+- t-001
   global_id: t-64036
   teiginys: "Ženevoje Pilsudskis pareiškė, kad Lenkija pripažins ir gerbs Lietuvos nepriklausomybę bei teritorijos integralumą."
   pagrindžia:
     - c-64907
 
 <a id="claim-t-64037"></a>
-- t-003
+- t-002
   global_id: t-64037
   teiginys: "Pilsudskio legionierių idėja reiškė Lenkijos, Lietuvos ir kitų buvusios Respublikos tautų federaciją."
   pagrindžia:

@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67104"></a>
-- t-002
+- t-001
   global_id: t-67104
   teiginys: "Vilniaus vyskupas Protasevičius kovai su protestantais atsikvietė į Vilnių jėzuitus."
   pagrindžia:
     - c-67143
 
 <a id="claim-t-67106"></a>
-- t-001
+- t-002
   global_id: t-67106
   teiginys: "Jėzuitai kovoje su protestantais rengdavo tikybinius disputus, o protestantams jų vengiant patys inscenizuodavo abiejų pusių argumentų ginčą."
   pagrindžia:

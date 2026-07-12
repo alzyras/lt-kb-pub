@@ -39,14 +39,14 @@ Bet kada ir šios derybos Grabove nieko gero neda­ vė, o naujas magistras Myko
 ## Teiginiai
 
 <a id="claim-t-36246"></a>
-- t-002
+- t-001
   global_id: t-36246
   teiginys: "Vytautas prekybos reikalus gynė ir 1414–1418 m. paliaubų pasitarimuose Grabovėje."
   pagrindžia:
     - c-38495
 
 <a id="claim-t-36247"></a>
-- t-001
+- t-002
   global_id: t-36247
   teiginys: "Derybos Grabove nedavė Vytautui naudingų rezultatų."
   pagrindžia:

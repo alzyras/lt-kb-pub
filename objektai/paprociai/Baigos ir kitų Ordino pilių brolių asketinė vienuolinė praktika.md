@@ -72,7 +72,7 @@ Nenurodyta
     - c-85402
 
 <a id="claim-t-89443"></a>
-- t-001
+- t-004
   global_id: t-89443
   teiginys: "Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų."
   pagrindžia:

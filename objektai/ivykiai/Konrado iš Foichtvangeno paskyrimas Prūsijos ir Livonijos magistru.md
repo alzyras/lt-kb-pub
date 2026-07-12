@@ -67,7 +67,7 @@ Nenurodyta
     - c-66827
 
 <a id="claim-t-66630"></a>
-- t-001
+- t-003
   global_id: t-66630
   teiginys: "Didysis magistras 1279 m. paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru."
   pagrindžia:

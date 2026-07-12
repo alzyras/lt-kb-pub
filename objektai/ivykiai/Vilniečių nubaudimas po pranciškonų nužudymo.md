@@ -45,14 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186568"></a>
-- t-002
+- t-001
   global_id: t-186568
   teiginys: "Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Algirdas pasmerkė myriop penkis šimtus vilniečių, o nubaustieji buvo nukankinti."
   pagrindžia:
     - c-169881
 
 <a id="claim-t-186570"></a>
-- t-001
+- t-002
   global_id: t-186570
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas po pranciškonų nužudymo pasmerkė myriop penkis šimtus vilniečių pavyzdžio dėlei."
   pagrindžia:

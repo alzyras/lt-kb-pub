@@ -55,105 +55,105 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
 ## Teiginiai
 
 <a id="claim-t-83616"></a>
-- t-015
+- t-001
   global_id: t-83616
   teiginys: "Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją."
   pagrindžia:
     - c-79905
 
 <a id="claim-t-83617"></a>
-- t-007
+- t-002
   global_id: t-83617
   teiginys: "Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes."
   pagrindžia:
     - c-26798
 
 <a id="claim-t-83618"></a>
-- t-008
+- t-003
   global_id: t-83618
   teiginys: "1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką."
   pagrindžia:
     - c-79910
 
 <a id="claim-t-83619"></a>
-- t-012
+- t-004
   global_id: t-83619
   teiginys: "Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas."
   pagrindžia:
     - c-79912
 
 <a id="claim-t-83620"></a>
-- t-011
+- t-005
   global_id: t-83620
   teiginys: "Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių."
   pagrindžia:
     - c-79904
 
 <a id="claim-t-83620"></a>
-- t-011
+- t-006
   global_id: t-83620
   teiginys: "Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių."
   pagrindžia:
     - c-79904
 
 <a id="claim-t-83622"></a>
-- t-006
+- t-007
   global_id: t-83622
   teiginys: "1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą."
   pagrindžia:
     - c-26799
 
 <a id="claim-t-83623"></a>
-- t-009
+- t-008
   global_id: t-83623
   teiginys: "Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją."
   pagrindžia:
     - c-79905
 
 <a id="claim-t-83624"></a>
-- t-005
+- t-009
   global_id: t-83624
   teiginys: "Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves."
   pagrindžia:
     - c-26798
 
 <a id="claim-t-83625"></a>
-- t-014
+- t-010
   global_id: t-83625
   teiginys: "Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia dideles buvusios Kijevo Rusios žemes."
   pagrindžia:
     - c-26798
 
 <a id="claim-t-83627"></a>
-- t-013
+- t-011
   global_id: t-83627
   teiginys: "Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms."
   pagrindžia:
     - c-79907
 
 <a id="claim-t-83628"></a>
-- t-018
+- t-012
   global_id: t-83628
   teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui."
   pagrindžia:
     - c-79907
 
 <a id="claim-t-185124"></a>
-- t-019
+- t-013
   global_id: t-185124
   teiginys: "Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią."
   pagrindžia:
     - c-168485
 
 <a id="claim-t-185125"></a>
-- t-020
+- t-014
   global_id: t-185125
   teiginys: "Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius."
   pagrindžia:
     - c-168486
 
 <a id="claim-t-185126"></a>
-- t-021
+- t-015
   global_id: t-185126
   teiginys: "Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią."
   pagrindžia:

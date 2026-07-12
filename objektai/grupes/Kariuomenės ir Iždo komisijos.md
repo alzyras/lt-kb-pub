@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karalius
   - valdovas
-  - valstybė
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
 ## Teiginiai
 
 <a id="claim-t-19738"></a>
-- t-002
+- t-001
   global_id: t-19738
   teiginys: "Kariuomenės ir Iždo komisijose Lenkija ir LDK turėjo turėti po lygiai narių, o jų pirmininkai turėjo būti paeiliui lenkai ir lietuviai."
   pagrindžia:
     - c-22445
 
 <a id="claim-t-19739"></a>
-- t-001
+- t-002
   global_id: t-19739
   teiginys: "Iždo ir karo komisijų pirmininkai įėjo į Teisių sargybą – vyriausybę, turėjusią padėti valdovui tvarkyti valstybės reikalus."
   pagrindžia:

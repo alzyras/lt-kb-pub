@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - redaktorius
 amziai:
   - 'XX'
   - 'XXI'
@@ -45,35 +46,35 @@ Alfonsas Eidintas nurodytas kaip vienas knygos „Lietuvos istorija“ autorių;
 ## Teiginiai
 
 <a id="claim-t-169877"></a>
-- t-015
+- t-001
   global_id: t-169877
   teiginys: "Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius."
   pagrindžia:
     - c-26847
 
 <a id="claim-t-169878"></a>
-- t-011
+- t-002
   global_id: t-169878
   teiginys: "Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės."
   pagrindžia:
     - c-26846
 
 <a id="claim-t-169879"></a>
-- t-013
+- t-003
   global_id: t-169879
   teiginys: "Alfonsas Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
   pagrindžia:
     - c-154566
 
 <a id="claim-t-169880"></a>
-- t-012
+- t-004
   global_id: t-169880
   teiginys: "Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius."
   pagrindžia:
     - c-26847
 
 <a id="claim-t-169881"></a>
-- t-014
+- t-005
   global_id: t-169881
   teiginys: "Alfonsas Eidintas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių."
   pagrindžia:

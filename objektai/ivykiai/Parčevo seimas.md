@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186648"></a>
-- t-002
+- t-001
   global_id: t-186648
   teiginys: "Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke."
   pagrindžia:
     - c-169912
 
 <a id="claim-t-186649"></a>
-- t-001
+- t-002
   global_id: t-186649
   teiginys: "Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve."
   pagrindžia:

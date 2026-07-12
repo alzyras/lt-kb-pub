@@ -40,35 +40,35 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 ## Teiginiai
 
 <a id="claim-t-58403"></a>
-- t-002
+- t-001
   global_id: t-58403
   teiginys: "Karaliui atžygiavus į Tepliavos valsčių, kai kurie vietos gyventojai atidavė jam savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams."
   pagrindžia:
     - c-59035
 
 <a id="claim-t-58404"></a>
-- t-003
+- t-002
   global_id: t-58404
   teiginys: "Tepliava buvo Deimenos ir Priegliaus santakoje, o 1265 m. Ordinas čia pastatė savo pilį."
   pagrindžia:
     - c-59038
 
 <a id="claim-t-58405"></a>
-- t-004
+- t-003
   global_id: t-58405
   teiginys: "1265 m. pastatyta Tepliavos pilis buvo prūsų vadinama Surgurbiu."
   pagrindžia:
     - c-59036
 
 <a id="claim-t-58406"></a>
-- t-001
+- t-004
   global_id: t-58406
   teiginys: "Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį."
   pagrindžia:
     - c-59037
 
 <a id="claim-t-58405"></a>
-- t-004
+- t-005
   global_id: t-58405
   teiginys: "1265 m. pastatyta Tepliavos pilis buvo prūsų vadinama Surgurbiu."
   pagrindžia:

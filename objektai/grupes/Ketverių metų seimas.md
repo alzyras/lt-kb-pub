@@ -41,14 +41,14 @@ Tatai buvo daroma 1788—1792 m. ketverių metų, arba reformų, seime. Šitaip 
 ## Teiginiai
 
 <a id="claim-t-74186"></a>
-- t-004
+- t-001
   global_id: t-74186
   teiginys: "Ketverių metų seimas 1791 m. patvirtino Paulavos respublikos įstatus."
   pagrindžia:
     - c-72232
 
 <a id="claim-t-74187"></a>
-- t-005
+- t-002
   global_id: t-74187
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   pagrindžia:

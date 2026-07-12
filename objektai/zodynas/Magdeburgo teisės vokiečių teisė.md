@@ -18,8 +18,8 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
-  - privilegija
   - sąvoka
+  - tauta
 amziai:
   - 'XIV'
   - 'XVI'

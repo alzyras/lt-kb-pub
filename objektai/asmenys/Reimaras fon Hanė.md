@@ -7,9 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigas
   - ordinas
-  - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +32,7 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 ## Teiginiai
 
 <a id="claim-t-87566"></a>
-- t-002
+- t-001
   global_id: t-87566
   teiginys: "Reimaras fon Hanė buvo Vendeno komtūras, kurio patarimo ketinta prašyti prieš apsisprendžiant dėl Gedimino laiškų."
   pagrindžia:

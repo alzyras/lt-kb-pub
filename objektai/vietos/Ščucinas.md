@@ -36,7 +36,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-03174
 
 <a id="claim-t-02936"></a>
-- t-001
+- t-002
   global_id: t-02936
   teiginys: "Ščucine buvo įkurta pijarų mokykla."
   pagrindžia:

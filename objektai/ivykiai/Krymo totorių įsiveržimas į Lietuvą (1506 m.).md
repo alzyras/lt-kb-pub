@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41286"></a>
-- t-002
+- t-001
   global_id: t-41286
   teiginys: "Apie liepos 20–22 d. totoriai stovyklavietei pasirinko Klecką, nes jis buvo patogus punktas išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
   pagrindžia:
     - c-44902
 
 <a id="claim-t-41287"></a>
-- t-001
+- t-002
   global_id: t-41287
   teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas ir gegužės pabaigoje pradėjo žygį į valstybės gilumą."
   pagrindžia:

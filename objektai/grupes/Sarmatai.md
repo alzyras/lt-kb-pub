@@ -27,14 +27,14 @@ Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais 
 ## Teiginiai
 
 <a id="claim-t-192961"></a>
-- t-002
+- t-001
   global_id: t-192961
   teiginys: "Narbutas, remdamasis Plinijumi, sarmatus vadino medų palikuonimis, gyvenusiais prie Dono žemupio ir Juodosios jūros."
   pagrindžia:
     - c-175731
 
 <a id="claim-t-194865"></a>
-- t-003
+- t-002
   global_id: t-194865
   teiginys: "Įpusėjus IV amžiui prieš Kristaus gimimą, sarmatai jau buvo įtakinga dešiniosios Dnepro pakrantės tauta."
   pagrindžia:

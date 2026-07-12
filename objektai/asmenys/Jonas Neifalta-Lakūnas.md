@@ -46,14 +46,14 @@ media_all_json: |-
     - c-76150
 
 <a id="claim-t-79051"></a>
-- t-003
+- t-002
   global_id: t-79051
   teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas."
   pagrindžia:
     - c-76150
 
 <a id="claim-t-79052"></a>
-- t-002
+- t-003
   global_id: t-79052
   teiginys: "Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį."
   pagrindžia:

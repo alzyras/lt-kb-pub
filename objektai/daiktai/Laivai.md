@@ -67,49 +67,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12313"></a>
-- t-005
+- t-001
   global_id: t-12313
   teiginys: "1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku."
   pagrindžia:
     - c-163179
 
 <a id="claim-t-12314"></a>
-- t-006
+- t-002
   global_id: t-12314
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos."
   pagrindžia:
     - c-163180
 
 <a id="claim-t-179482"></a>
-- t-007
+- t-003
   global_id: t-179482
   teiginys: "Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai."
   pagrindžia:
     - c-163187
 
 <a id="claim-t-179483"></a>
-- t-009
+- t-004
   global_id: t-179483
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-163186
 
 <a id="claim-t-179484"></a>
-- t-003
+- t-005
   global_id: t-179484
   teiginys: "1313 m. Vytenis atsiuntė Surminą su 100 laivų prieš kryžiuočius, puolusius Junigėdą."
   pagrindžia:
     - c-163181
 
 <a id="claim-t-179485"></a>
-- t-002
+- t-006
   global_id: t-179485
   teiginys: "1313 m. kryžiuočiai pasistatė karo laivą su sienomis ir daug kitų laivų Junigėdai pulti."
   pagrindžia:
     - c-163181
 
 <a id="claim-t-179486"></a>
-- t-004
+- t-007
   global_id: t-179486
   teiginys: "Rygiečiai ir Livonijos kariuomenė laivais judėjo į puolimo vietas."
   pagrindžia:
@@ -117,35 +117,35 @@ Nenurodyta
     - c-163185
 
 <a id="claim-t-179487"></a>
-- t-010
+- t-008
   global_id: t-179487
   teiginys: "1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo."
   pagrindžia:
     - c-163180
 
 <a id="claim-t-179488"></a>
-- t-008
+- t-009
   global_id: t-179488
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę."
   pagrindžia:
     - c-163178
 
 <a id="claim-t-179490"></a>
-- t-017
+- t-010
   global_id: t-179490
   teiginys: "Senovės aisčiai veikiausiai turėjo laivų, nes jų vadai rengdavo karo žygius į skandinavų kraštus."
   pagrindžia:
     - c-163183
 
 <a id="claim-t-192502"></a>
-- t-018
+- t-011
   global_id: t-192502
   teiginys: "Narbutas pasakoja, kad prie Rusnės įlankos danai nedaugeliu didelių, gerai ginkluotų laivų sunaikino rusų jūros pajėgas."
   pagrindžia:
     - c-175292
 
 <a id="claim-t-194182"></a>
-- t-019
+- t-012
   global_id: t-194182
   teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
   pagrindžia:

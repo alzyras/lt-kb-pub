@@ -13,10 +13,10 @@ date_end: '1211'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kunigaikštis
   - miestas
   - ordinas
-  - saltinis
 amziai:
   - 'XII'
   - 'XIII'
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
 ## Teiginiai
 
 <a id="claim-t-60943"></a>
-- t-003
+- t-001
   global_id: t-60943
   teiginys: "„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu."
   pagrindžia:
@@ -56,14 +56,14 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
     - c-61577
 
 <a id="claim-t-60945"></a>
-- t-004
+- t-003
   global_id: t-60945
   teiginys: "„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę."
   pagrindžia:
     - c-61576
 
 <a id="claim-t-60946"></a>
-- t-001
+- t-004
   global_id: t-60946
   teiginys: "„Pasakojimas apie Teutonų ordino pradžią“ yra seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą."
   pagrindžia:

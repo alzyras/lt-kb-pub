@@ -39,14 +39,14 @@ Bet totoriams užėmus Dniepro žiotis, prekyba su tais kraštais sumažėjo.
 ## Teiginiai
 
 <a id="claim-t-67818"></a>
-- t-002
+- t-001
   global_id: t-67818
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės, arba Šv. Jono, pilį."
   pagrindžia:
     - c-32017
 
 <a id="claim-t-67819"></a>
-- t-004
+- t-002
   global_id: t-67819
   teiginys: "Totoriams užėmus Dniepro žiotis, lietuvių prekyba su Juodosios jūros, Vakarų Azijos ir Viduržemio pajūrio kraštais sumažėjo."
   pagrindžia:

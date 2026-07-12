@@ -61,7 +61,7 @@ Nenurodyta
     - c-62818
 
 <a id="claim-t-62287"></a>
-- t-001
+- t-002
   global_id: t-62287
   teiginys: "1312 m. Henrikas VII, Romos karalius, buvo vainikuotas imperatoriumi Romoje, Laterano bažnyčioje."
   pagrindžia:

@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67075"></a>
-- t-005
+- t-001
   global_id: t-67075
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
   pagrindžia:
     - c-43153
 
 <a id="claim-t-67077"></a>
-- t-003
+- t-002
   global_id: t-67077
   teiginys: "Gediminas pasitelkė informacines priemones ir laiškais popiežiui bei vakarų visuomenei gerino Lietuvos įvaizdį."
   pagrindžia:
     - c-43153
 
 <a id="claim-t-183692"></a>
-- t-006
+- t-003
   global_id: t-183692
   teiginys: "Gediminas laiškais popiežiui ir Vakarų visuomenei gerino Lietuvos įvaizdį ir mažino paramą kryžiuočiams."
   pagrindžia:

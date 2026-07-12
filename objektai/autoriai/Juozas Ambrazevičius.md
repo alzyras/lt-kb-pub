@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-183343"></a>
-- t-003
+- t-001
   global_id: t-183343
   teiginys: "Juozas Ambrazevičius konstatavo, kad vyriausybė savo veikimą sustabdė prieš savo valią."
   pagrindžia:

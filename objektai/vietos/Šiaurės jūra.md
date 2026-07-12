@@ -38,7 +38,7 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
     - c-166497
 
 <a id="claim-t-02923"></a>
-- t-001
+- t-002
   global_id: t-02923
   teiginys: "Šiaurės ir Baltijos jūrose suaktyvėjo prekyba, o jose įsigalėjo vokiškųjų miestų pirklių sąjunga Hanza."
   pagrindžia:

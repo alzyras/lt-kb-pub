@@ -11,10 +11,10 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -39,14 +39,14 @@ Oberostas, rezidavęs Kaune, norimos rezoliucijos projektą įteikė Tarybos pre
 ## Teiginiai
 
 <a id="claim-t-75448"></a>
-- t-002
+- t-001
   global_id: t-75448
   teiginys: "Gruodžio 11-osios rezoliucija sukėlė neigiamas JAV ir Rusijos lietuvių reakcijas ir suskaldė Lietuvos Tarybą."
   pagrindžia:
     - c-23773
 
 <a id="claim-t-75449"></a>
-- t-001
+- t-002
   global_id: t-75449
   teiginys: "Gruodžio 11-osios rezoliucijos projektą Oberostas pateikė Tarybos prezidiumui, kuris jį pataisė ir grąžino karinei administracijai kaip priimtą."
   pagrindžia:

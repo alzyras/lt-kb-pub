@@ -37,14 +37,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31771"></a>
-- t-002
+- t-001
   global_id: t-31771
   teiginys: "M. Stryjkovskio „Kronika Polska, Litewska“ 1846 m. leidimo I tome aptariama 370–372 puslapiuose."
   pagrindžia:
     - c-33613
 
 <a id="claim-t-31772"></a>
-- t-001
+- t-002
   global_id: t-31772
   teiginys: "M. Stryjkovskio 1582 m. kronika Lietuvos istoriją pradėjo nuo Romos imperatoriaus Nerono laikų pabėgėlių atvykimo prie Nemuno."
   pagrindžia:

@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
+  - institucija
   - karalius
   - sąvoka
-  - valstybė
 amziai:
   - 'XIX'
   - 'XX'

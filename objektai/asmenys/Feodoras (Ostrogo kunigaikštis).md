@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - privilegija
 amziai:
   - 'XIV'
 periodo_grupes:

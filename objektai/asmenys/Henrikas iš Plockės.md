@@ -55,14 +55,14 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-60501
 
 <a id="claim-t-59866"></a>
-- t-004
+- t-003
   global_id: t-59866
   teiginys: "1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė."
   pagrindžia:
     - c-60496
 
 <a id="claim-t-59867"></a>
-- t-007
+- t-004
   global_id: t-59867
   teiginys: "1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių."
   pagrindžia:
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-60498
 
 <a id="claim-t-59870"></a>
-- t-003
+- t-007
   global_id: t-59870
   teiginys: "1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį."
   pagrindžia:

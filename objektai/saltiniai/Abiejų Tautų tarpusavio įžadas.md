@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - saltinis
   - tauta
-  - vyskupas
 amziai:
   - 'XVIII'
   - 'XX'

@@ -15,6 +15,7 @@ tags:
   - grupe
   - ordinas
   - popiežius
+  - šventė
 amziai:
   - 'XII'
   - 'XIV'

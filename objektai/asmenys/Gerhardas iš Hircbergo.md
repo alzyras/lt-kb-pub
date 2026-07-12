@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie brolį Gerhardą, Prūsijos magistrą Ketvirtas Pr
     - c-60918
 
 <a id="claim-t-60286"></a>
-- t-001
+- t-002
   global_id: t-60286
   teiginys: "Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras."
   pagrindžia:

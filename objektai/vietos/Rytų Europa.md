@@ -37,7 +37,7 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
     - c-74724
 
 <a id="claim-t-77299"></a>
-- t-003
+- t-002
   global_id: t-77299
   teiginys: "Lietuva dažnai laikoma Rytų Europos dalimi dėl geopolitinės, o ne vien geografinės krašto padėties."
   pagrindžia:

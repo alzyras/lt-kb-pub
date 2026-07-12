@@ -41,14 +41,14 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
 ## Teiginiai
 
 <a id="claim-t-35264"></a>
-- t-002
+- t-001
   global_id: t-35264
   teiginys: "Petras iš Kustynės 1414-1421 m. buvo ketvirtasis Vilniaus vyskupas, delegatas Konstancijoje ir pasiuntinys Žemaitijoje."
   pagrindžia:
     - c-38113
 
 <a id="claim-t-35265"></a>
-- t-001
+- t-002
   global_id: t-35265
   teiginys: "Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją."
   pagrindžia:

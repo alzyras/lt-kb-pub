@@ -43,14 +43,14 @@ Liubuckas aiškinamas kaip LDK ir MDK pasienio miestas prie Okos. Liubuckas loka
     - c-170312
 
 <a id="claim-t-187255"></a>
-- t-003
+- t-002
   global_id: t-187255
   teiginys: "Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK."
   pagrindžia:
     - c-170313
 
 <a id="claim-t-187256"></a>
-- t-002
+- t-003
   global_id: t-187256
   teiginys: "Liubuckas lokalizuojamas į šiaurės vakarus nuo Tūlos ir apie 150 km į pietus nuo Maskvos."
   pagrindžia:

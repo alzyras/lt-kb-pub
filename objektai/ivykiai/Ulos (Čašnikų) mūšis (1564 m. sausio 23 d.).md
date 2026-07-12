@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09884"></a>
-- t-008
+- t-001
   global_id: t-09884
   teiginys: "Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje."
   pagrindžia:
@@ -56,21 +56,21 @@ Nenurodyta
     - c-11931
 
 <a id="claim-t-09885"></a>
-- t-006
+- t-002
   global_id: t-09885
   teiginys: "Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis."
   pagrindžia:
     - c-11928
 
 <a id="claim-t-09886"></a>
-- t-007
+- t-003
   global_id: t-09886
   teiginys: "Mūšio pabaigoje maskvėnai buvo triuškinami, dalis jų skendo bandydami perplaukti Ulos upę."
   pagrindžia:
     - c-11929
 
 <a id="claim-t-09887"></a>
-- t-005
+- t-004
   global_id: t-09887
   teiginys: "Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų."
   pagrindžia:

@@ -13,6 +13,7 @@ tags:
   - asmuo
   - karalius
   - karas
+  - šventė
 amziai:
   - 'VI'
 periodo_grupes:

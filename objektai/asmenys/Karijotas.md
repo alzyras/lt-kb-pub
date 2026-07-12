@@ -33,14 +33,14 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 ## Teiginiai
 
 <a id="claim-t-179639"></a>
-- t-002
+- t-001
   global_id: t-179639
   teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
   pagrindžia:
     - c-30227
 
 <a id="claim-t-183748"></a>
-- t-003
+- t-002
   global_id: t-183748
   teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
   pagrindžia:

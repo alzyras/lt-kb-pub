@@ -36,7 +36,7 @@ Dusburgietis teigia, kad kai šitai išvydo, brolis Hermanas, minėtojo komtūro
     - c-167472
 
 <a id="claim-t-60322"></a>
-- t-001
+- t-002
   global_id: t-60322
   teiginys: "Hermanas, Henriko Stange brolis, stojo į kovą, kai prūsai apsupo ir nuo žirgo nubloškė jo brolį."
   pagrindžia:

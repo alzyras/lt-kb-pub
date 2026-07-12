@@ -58,7 +58,7 @@ Nenurodyta
     - c-88440
 
 <a id="claim-t-93033"></a>
-- t-004
+- t-002
   global_id: t-93033
   teiginys: "Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises."
   pagrindžia:

@@ -36,7 +36,7 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 ## Teiginiai
 
 <a id="claim-t-46505"></a>
-- t-002
+- t-001
   global_id: t-46505
   teiginys: "Argentina buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai emigrantai."
   pagrindžia:

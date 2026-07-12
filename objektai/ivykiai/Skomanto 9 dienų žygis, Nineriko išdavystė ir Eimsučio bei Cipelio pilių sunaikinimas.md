@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66896"></a>
-- t-002
+- t-001
   global_id: t-66896
   teiginys: "Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai."
   pagrindžia:
     - c-66993
 
 <a id="claim-t-66897"></a>
-- t-001
+- t-002
   global_id: t-66897
   teiginys: "Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas."
   pagrindžia:

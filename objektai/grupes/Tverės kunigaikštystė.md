@@ -15,6 +15,7 @@ tags:
   - ginklas
   - grupe
   - kunigaikštis
+  - teisinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -21,6 +21,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - teisinė-praktika
 amziai:
   - 'XIV'
   - 'XXI'
@@ -53,14 +54,14 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - c-170422
 
 <a id="claim-t-187436"></a>
-- t-010
+- t-002
   global_id: t-187436
   teiginys: "Rusų kunigaikštijos buvo patekusios Aukso ordos (suskilusios Mongolų imperijos dalies) valdžion ir turėjo jai nuolat mokėti duoklę."
   pagrindžia:
     - c-170425
 
 <a id="claim-t-187446"></a>
-- t-002
+- t-003
   global_id: t-187446
   teiginys: "Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę."
   pagrindžia:
@@ -74,14 +75,14 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - c-170423
 
 <a id="claim-t-187439"></a>
-- t-006
+- t-005
   global_id: t-187439
   teiginys: "XIV a. pabaigoje silpstanti Aukso Orda leido manyti, kad Vytauto sutelkta jėga sudrebins Maskvos valstybę."
   pagrindžia:
     - c-170422
 
 <a id="claim-t-187440"></a>
-- t-015
+- t-006
   global_id: t-187440
   teiginys: "Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK."
   pagrindžia:
@@ -95,56 +96,56 @@ Nuo XIV a. pabaigos Aukso orda ėmė silpti, o Vytauto sutelkta jėga atrodė ga
     - c-170420
 
 <a id="claim-t-187441"></a>
-- t-007
+- t-008
   global_id: t-187441
   teiginys: "Vytauto žygis pasodinti Tochtamišą Aukso Ordoje vietoje Timuro ir jo emiro Edigos baigėsi nesėkme."
   pagrindžia:
     - c-170420
 
 <a id="claim-t-187443"></a>
-- t-014
+- t-009
   global_id: t-187443
   teiginys: "1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
   pagrindžia:
     - c-170421
 
 <a id="claim-t-187444"></a>
-- t-008
+- t-010
   global_id: t-187444
   teiginys: "Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda."
   pagrindžia:
     - c-42638
 
 <a id="claim-t-187440"></a>
-- t-015
+- t-011
   global_id: t-187440
   teiginys: "Aukso ordos chanas Sich-Achmetas po Mengli-Girėjaus pralaimėjimo ieškojo prieglobsčio Nogajų ordoje, bet vėliau grįžo į LDK."
   pagrindžia:
     - c-170424
 
 <a id="claim-t-187446"></a>
-- t-002
+- t-012
   global_id: t-187446
   teiginys: "Vytautas žadėjo Aukso ordos chaną Tochtamišą iškelti į visų totorių chanatų viršūnę."
   pagrindžia:
     - c-31031
 
 <a id="claim-t-187447"></a>
-- t-003
+- t-013
   global_id: t-187447
   teiginys: "1325 m. Aukso orda surengė puolimą prieš Lietuvą, veikiausiai atsakydama į Lietuvos veiksmus Kijevo žemėje."
   pagrindžia:
     - c-42637
 
 <a id="claim-t-193829"></a>
-- t-017
+- t-014
   global_id: t-193829
   teiginys: "Aukso ordoje ulanais vadinosi chano giminės nariai iš tų linijų, kurių atstovam s neteko sėdėti chanų soste."
   pagrindžia:
     - c-176473
 
 <a id="claim-t-193830"></a>
-- t-018
+- t-015
   global_id: t-193830
   teiginys: "Achmatas (Achmetas) — Aukso ordos chanas (1459—1481), Kazimiero Jogailaičio sųjungininkas, paskutini kartų 1480 m. žygiu prie Ugros bandęs pajungti totorių valdžiai Maskvos Didžiųjų Ku nigaikštystę."
   pagrindžia:

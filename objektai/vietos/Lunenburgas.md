@@ -46,14 +46,14 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
     - c-76663
 
 <a id="claim-t-79720"></a>
-- t-003
+- t-002
   global_id: t-79720
   teiginys: "Lunenburgas vėliau vadintas Leunenburgu, o dabar tapatinamas su Sontočnu į pietryčius nuo Sempopolio."
   pagrindžia:
     - c-76664
 
 <a id="claim-t-79721"></a>
-- t-002
+- t-003
   global_id: t-79721
   teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje."
   pagrindžia:

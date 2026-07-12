@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78161"></a>
-- t-003
+- t-001
   global_id: t-78161
   teiginys: "Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu."
   pagrindžia:
@@ -55,7 +55,7 @@ media_all_json: |-
     - c-42634
 
 <a id="claim-t-193731"></a>
-- t-004
+- t-003
   global_id: t-193731
   teiginys: "Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir Žalioji."
   pagrindžia:

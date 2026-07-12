@@ -9,7 +9,8 @@ date_start: '1390'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karo-reikmuo
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -82,6 +83,7 @@ Nenurodyta
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš [[objektai/zodynas/Brandskugeliai karkasai.md#claim-t-42419|Brandskugeliai karkasai]]: Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.
+- susijęs iš [[objektai/daiktai/Adiklis.md#claim-t-195323|Adiklis]]: Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -62,14 +62,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-91907"></a>
-- t-002
+- t-001
   global_id: t-91907
   teiginys: "Jai tarus šiuos žodžius, regėjimas dingo."
   pagrindžia:
     - c-87550
 
 <a id="claim-t-91908"></a>
-- t-001
+- t-002
   global_id: t-91908
   teiginys: "1234 m. magistras Hermanas, po prūsų išvijimo iš Kulmo žemės, pastatė Rudino pilį prie dykros tarp Pamedės ir Kulmo žemių."
   pagrindžia:

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75168"></a>
-- t-003
+- t-001
   global_id: t-75168
   teiginys: "Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta."
   pagrindžia:
@@ -68,7 +68,7 @@ Nenurodyta
     - c-23066
 
 <a id="claim-t-75170"></a>
-- t-001
+- t-003
   global_id: t-75170
   teiginys: "1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku."
   pagrindžia:

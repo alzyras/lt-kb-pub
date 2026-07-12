@@ -14,7 +14,7 @@ tags:
   - bajorija
   - karalius
   - posakis
-  - privilegija
+  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

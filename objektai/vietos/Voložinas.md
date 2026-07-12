@@ -29,28 +29,28 @@ Jonas Goštautas užsuko pas Voložino kunigaikščius. Voložine Goštautą pas
 ## Teiginiai
 
 <a id="claim-t-187387"></a>
-- t-002
+- t-001
   global_id: t-187387
   teiginys: "Voložine Goštautą pasiekė žinia apie Žygimanto mirtį."
   pagrindžia:
     - c-170391
 
 <a id="claim-t-187388"></a>
-- t-001
+- t-002
   global_id: t-187388
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius."
   pagrindžia:
     - c-170391
 
 <a id="claim-t-187387"></a>
-- t-002
+- t-003
   global_id: t-187387
   teiginys: "Voložine Goštautą pasiekė žinia apie Žygimanto mirtį."
   pagrindžia:
     - c-170391
 
 <a id="claim-t-187388"></a>
-- t-001
+- t-004
   global_id: t-187388
   teiginys: "Kelyje pas kunigaikštį Žygimantą Jonas Goštautas užsuko pasisvečiuoti pas Voložino kunigaikščius."
   pagrindžia:

@@ -43,7 +43,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-88523"></a>
-- t-011
+- t-001
   global_id: t-88523
   teiginys: "Sūduviai sugriovė Bartenšteino pilį, kurioje, broliams pasitraukus, buvo įsikūrę bartai."
   pagrindžia:
@@ -54,35 +54,35 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-84518
 
 <a id="claim-t-88524"></a>
-- t-007
+- t-002
   global_id: t-88524
   teiginys: "Bartų vadas Divanas, pravarde Klokinis, ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
   pagrindžia:
     - c-84502
 
 <a id="claim-t-88525"></a>
-- t-012
+- t-003
   global_id: t-88525
   teiginys: "1274 m. bartai kartu su pagudėnais, varmiais, notangais ir sembais grįžo į Bažnyčios bendruomenę ir davė įkaitų."
   pagrindžia:
     - c-84515
 
 <a id="claim-t-88526"></a>
-- t-009
+- t-004
   global_id: t-88526
   teiginys: "Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį."
   pagrindžia:
     - c-84503
 
 <a id="claim-t-88527"></a>
-- t-013
+- t-005
   global_id: t-88527
   teiginys: "1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai."
   pagrindžia:
     - c-84507
 
 <a id="claim-t-88528"></a>
-- t-003
+- t-006
   global_id: t-88528
   teiginys: "Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais."
   pagrindžia:
@@ -90,7 +90,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-84511
 
 <a id="claim-t-88529"></a>
-- t-008
+- t-007
   global_id: t-88529
   teiginys: "Bartų vadas Divanas sutelkė stiprią kariuomenę ir dar kartą apiplėšė Kristburgo bei Marienburgo apylinkes."
   pagrindžia:
@@ -98,42 +98,42 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-84514
 
 <a id="claim-t-88530"></a>
-- t-010
+- t-008
   global_id: t-88530
   teiginys: "Per pilies puolimą brolis Arnoldas Krofas arbaleto strėle peršovė bartų vadui Divanui kaklą, o po Divano žūties kiti pasitraukė."
   pagrindžia:
     - c-84521
 
 <a id="claim-t-88531"></a>
-- t-004
+- t-009
   global_id: t-88531
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai grįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
   pagrindžia:
     - c-84512
 
 <a id="claim-t-88532"></a>
-- t-006
+- t-010
   global_id: t-88532
   teiginys: "1263 m. bartų vadas Divanas vijosi iš pilies pasitraukusius brolius ir su trylika vyrų juos užpuolė."
   pagrindžia:
     - c-84516
 
 <a id="claim-t-88533"></a>
-- t-001
+- t-011
   global_id: t-88533
   teiginys: "Bartai buvo viena iš vakarinių baltų, arba prūsų, genčių, žinomų Rytprūsiuose."
   pagrindžia:
     - c-84513
 
 <a id="claim-t-88534"></a>
-- t-002
+- t-012
   global_id: t-88534
   teiginys: "1251 m. dokumente Barta minima kaip didžioji ir mažoji Barta."
   pagrindžia:
     - c-84511
 
 <a id="claim-t-88535"></a>
-- t-005
+- t-013
   global_id: t-88535
   teiginys: "Po prūsų atkritimo nuo krikščionių tikėjimo bartai savo kariuomenės vadu išsirinko Divaną."
   pagrindžia:

@@ -45,28 +45,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186668"></a>
-- t-002
+- t-001
   global_id: t-186668
   teiginys: "Lietuvos metraštis pasakoja, kad po to Kęstutis nužygiavo į Vilnių, užėmė miestą ir paėmė Jogailą, jo brolius bei motiną į nelaisvę."
   pagrindžia:
     - c-169920
 
 <a id="claim-t-186669"></a>
-- t-004
+- t-002
   global_id: t-186669
   teiginys: "Lietuvos metraštis pasakoja, kad Jogaila prisiekė ištikimybę Kęstučiui ir pažadėjo Vilniaus nebereikalauti."
   pagrindžia:
     - c-169921
 
 <a id="claim-t-186671"></a>
-- t-001
+- t-003
   global_id: t-186671
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis sužinojo apie slaptą Jogailos taiką su Prūsų ir Livonijos kraštais ir laikė tai išdavyste."
   pagrindžia:
     - c-169920
 
 <a id="claim-t-186672"></a>
-- t-003
+- t-004
   global_id: t-186672
   teiginys: "Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną."
   pagrindžia:

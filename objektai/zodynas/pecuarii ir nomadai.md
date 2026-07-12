@@ -48,28 +48,28 @@ Terminas persidengia su esamu „Nomadžiai“ įrašu; čia jis paliekamas dėl
 ## Teiginiai
 
 <a id="claim-t-192147"></a>
-- t-002
+- t-001
   global_id: t-192147
   teiginys: "Teodoras Narbutas piemenis, pecuarii arba nomadus lokalizuoja už Pantikapo, Arklių Vandenų, į šiaurę."
   pagrindžia:
     - c-175032
 
 <a id="claim-t-192148"></a>
-- t-003
+- t-002
   global_id: t-192148
   teiginys: "Teodoras Narbutas skitus apibendrina kaip daugiausia nomadus, išstumtus iš Azijos į lygumas į vakarus nuo Juodosios jūros."
   pagrindžia:
     - c-175033
 
 <a id="claim-t-192149"></a>
-- t-004
+- t-003
   global_id: t-192149
   teiginys: "Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais."
   pagrindžia:
     - c-175033
 
 <a id="claim-t-192150"></a>
-- t-001
+- t-004
   global_id: t-192150
   teiginys: "Narbutas aiškina, kad Skitų klasės skirstomos į žemdirbius ir į piemenis / pecuarii / nomadus."
   pagrindžia:

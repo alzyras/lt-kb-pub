@@ -39,28 +39,28 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
 ## Teiginiai
 
 <a id="claim-t-58448"></a>
-- t-002
+- t-001
   global_id: t-58448
   teiginys: "Albertas Didysis mirė Kelne."
   pagrindžia:
     - c-59082
 
 <a id="claim-t-58449"></a>
-- t-003
+- t-002
   global_id: t-58449
   teiginys: "Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės."
   pagrindžia:
     - c-59081
 
 <a id="claim-t-58450"></a>
-- t-001
+- t-003
   global_id: t-58450
   teiginys: "Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne."
   pagrindžia:
     - c-59080
 
 <a id="claim-t-58448"></a>
-- t-002
+- t-004
   global_id: t-58448
   teiginys: "Albertas Didysis mirė Kelne."
   pagrindžia:

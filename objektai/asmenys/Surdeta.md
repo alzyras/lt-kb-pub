@@ -14,6 +14,7 @@ tags:
   - asmuo
   - karas
   - tikėjimas
+  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -47,7 +48,7 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
     - c-167515
 
 <a id="claim-t-60442"></a>
-- t-001
+- t-002
   global_id: t-60442
   teiginys: "Surdeta buvo vienas iš Skalvos galingųjų, kurie paliko tėvonijas ir su namais bei šeimyna patraukė pas Ordino brolius."
   pagrindžia:

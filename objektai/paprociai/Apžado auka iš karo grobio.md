@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karyba
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187992"></a>
-- t-005
+- t-001
   global_id: t-187992
   teiginys: "Narbutas rašo, kad kronikos nenurodo, ar apžado aukos mergaitė būdavo sudeginama gyva, ar pirma užmušama."
   pagrindžia:
     - c-171002
 
 <a id="claim-t-187993"></a>
-- t-004
+- t-002
   global_id: t-187993
   teiginys: "Narbutas apžado auką sieja su grobiamaisiais žygiais, kai būrio vadas pažadėdavo gražiausią grobį dievams."
   pagrindžia:

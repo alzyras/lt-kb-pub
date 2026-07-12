@@ -6,10 +6,10 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigas
   - vieta
-  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,21 +32,21 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
 ## Teiginiai
 
 <a id="claim-t-85782"></a>
-- t-002
+- t-001
   global_id: t-85782
   teiginys: "Gnieznas, sprendžiant iš imperatoriaus Otono III priėmimo šiame mieste, jau anuomet buvo tankiai gyvenama ir turtinga gyvenvietė."
   pagrindžia:
     - c-81763
 
 <a id="claim-t-85783"></a>
-- t-004
+- t-002
   global_id: t-85783
   teiginys: "Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais."
   pagrindžia:
     - c-81764
 
 <a id="claim-t-85784"></a>
-- t-001
+- t-003
   global_id: t-85784
   teiginys: "Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų."
   pagrindžia:

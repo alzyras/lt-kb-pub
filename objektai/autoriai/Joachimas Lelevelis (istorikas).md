@@ -39,14 +39,14 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-63305"></a>
-- t-002
+- t-001
   global_id: t-63305
   teiginys: "Joachimas Lelevelis buvo tarp politiškai nepatikimų profesorių, išvarytų iš universiteto."
   pagrindžia:
     - c-64343
 
 <a id="claim-t-63306"></a>
-- t-001
+- t-002
   global_id: t-63306
   teiginys: "Joachimas Lelevelis dirbo universitete kaip vienas iš garsių mokslininkų."
   pagrindžia:

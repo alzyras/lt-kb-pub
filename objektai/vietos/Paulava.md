@@ -13,10 +13,10 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ordinas
   - seimas
   - valstybė
-  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -41,21 +41,21 @@ Antano Tyzenhauzo reformos (1767 m.), Povilo Ksavero Bžostovskio įkurta Paulav
 ## Teiginiai
 
 <a id="claim-t-68908"></a>
-- t-002
+- t-001
   global_id: t-68908
   teiginys: "Povilas Ksaveras Bžostovskis įkūrė Paulavos respubliką kaip Apšvietos žingsnį Lietuvos ūkyje."
   pagrindžia:
     - c-68366
 
 <a id="claim-t-68909"></a>
-- t-003
+- t-002
   global_id: t-68909
   teiginys: "Paulava visuomenėje laikyta tokia reikšminga, kad buvo sakoma apie tris respublikas: Lenkijos, Lietuvos ir Paulavos."
   pagrindžia:
     - c-68367
 
 <a id="claim-t-68910"></a>
-- t-001
+- t-003
   global_id: t-68910
   teiginys: "Povilo Ksavero Bžostovskio 1769 m. įkurta Paulavos respublika kartais laikoma Apšvietos epochos pradžios ženklu."
   pagrindžia:

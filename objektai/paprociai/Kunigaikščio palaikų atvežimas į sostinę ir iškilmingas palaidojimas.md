@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
+  - institucija
   - karalius
   - kunigaikštis
-  - paprotys
 amziai:
   - 'XV'
 media_total_count: '0'

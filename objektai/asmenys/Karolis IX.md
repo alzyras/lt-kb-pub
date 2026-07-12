@@ -41,21 +41,21 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 ## Teiginiai
 
 <a id="claim-t-79076"></a>
-- t-006
+- t-001
   global_id: t-79076
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   pagrindžia:
     - c-42066
 
 <a id="claim-t-79077"></a>
-- t-007
+- t-002
   global_id: t-79077
   teiginys: "Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę."
   pagrindžia:
     - c-76176
 
 <a id="claim-t-79078"></a>
-- t-002
+- t-003
   global_id: t-79078
   teiginys: "Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai."
   pagrindžia:
@@ -69,21 +69,21 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - c-42067
 
 <a id="claim-t-79080"></a>
-- t-001
+- t-005
   global_id: t-79080
   teiginys: "Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų."
   pagrindžia:
     - c-76173
 
 <a id="claim-t-79081"></a>
-- t-003
+- t-006
   global_id: t-79081
   teiginys: "Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką."
   pagrindžia:
     - c-42066
 
 <a id="claim-t-79082"></a>
-- t-005
+- t-007
   global_id: t-79082
   teiginys: "Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas."
   pagrindžia:

@@ -12,7 +12,7 @@ tags:
   - autorius
   - miestas
   - mokslininkas
-  - privilegija
+  - valstybė
 amziai:
   - 'D'
 periodo_grupes: []
@@ -38,14 +38,14 @@ Balinskis dėkoja istorikams Ignui Danilavičiui ir Ig­ nui Onacevičiui už pa
 ## Teiginiai
 
 <a id="claim-t-87981"></a>
-- t-002
+- t-001
   global_id: t-87981
   teiginys: "Ignacas Danilavičius perdavė M. Balinskiui užrašus apie mažiau žinomas Vilniaus miesto privilegijas."
   pagrindžia:
     - c-83960
 
 <a id="claim-t-87983"></a>
-- t-001
+- t-002
   global_id: t-87983
   teiginys: "M. Balinskis dėkojo Ignui Danilavičiui ir Ignui Onacevičiui už pagalbą istoriniais dokumentais."
   pagrindžia:

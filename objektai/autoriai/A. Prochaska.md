@@ -43,28 +43,28 @@ ProJa = Prochaska, A. ProW = Prochaska, A. Prochaska.
     - c-50241
 
 <a id="claim-t-47869"></a>
-- t-005
+- t-002
   global_id: t-47869
   teiginys: "A. Prochaska parašė „Stosunki krzyżaków z Gediminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
   pagrindžia:
     - c-30421
 
 <a id="claim-t-47870"></a>
-- t-004
+- t-003
   global_id: t-47870
   teiginys: "A. Prochaska parašė darbą „O prawdziwości listów Gedymina“, publikuotą 1893 m."
   pagrindžia:
     - c-50242
 
 <a id="claim-t-47871"></a>
-- t-002
+- t-004
   global_id: t-47871
   teiginys: "A. Prochaska parašė darbus „Stosunki krzyżaków z Gedyminem i Łokietkiem“ ir „Od Mendoga do Jagiełły“."
   pagrindžia:
     - c-30421
 
 <a id="claim-t-47872"></a>
-- t-003
+- t-005
   global_id: t-47872
   teiginys: "A. Prochaska gynė Gedimino laiškų autentiškumą."
   pagrindžia:

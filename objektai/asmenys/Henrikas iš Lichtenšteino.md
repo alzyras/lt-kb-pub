@@ -47,14 +47,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
     - c-60659
 
 <a id="claim-t-60026"></a>
-- t-003
+- t-002
   global_id: t-60026
   teiginys: "Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus."
   pagrindžia:
     - c-60657
 
 <a id="claim-t-60027"></a>
-- t-002
+- t-003
   global_id: t-60027
   teiginys: "Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį."
   pagrindžia:

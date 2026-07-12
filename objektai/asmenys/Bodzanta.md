@@ -54,7 +54,7 @@ Bodzanta Vladislovo vardu.
     - c-78733
 
 <a id="claim-t-82242"></a>
-- t-002
+- t-003
   global_id: t-82242
   teiginys: "Gniezno arkivyskupas Bodzanta iškilmingai pašventino Stanislovo katedrą, dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams."
   pagrindžia:

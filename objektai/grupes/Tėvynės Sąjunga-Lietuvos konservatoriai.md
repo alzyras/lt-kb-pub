@@ -38,14 +38,14 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
 ## Teiginiai
 
 <a id="claim-t-75008"></a>
-- t-002
+- t-001
   global_id: t-75008
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius."
   pagrindžia:
     - c-72948
 
 <a id="claim-t-75010"></a>
-- t-003
+- t-002
   global_id: t-75010
   teiginys: "Tėvynės Sąjunga–Lietuvos konservatoriai 1993 m. susidarė iš Sąjūdžio daugumos."
   pagrindžia:

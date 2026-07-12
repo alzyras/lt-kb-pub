@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'
@@ -42,21 +42,21 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 ## Teiginiai
 
 <a id="claim-t-182708"></a>
-- t-031
+- t-001
   global_id: t-182708
   teiginys: "Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona."
   pagrindžia:
     - c-166125
 
 <a id="claim-t-182709"></a>
-- t-032
+- t-002
   global_id: t-182709
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis."
   pagrindžia:
     - c-166124
 
 <a id="claim-t-182710"></a>
-- t-002
+- t-003
   global_id: t-182710
   teiginys: "1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:

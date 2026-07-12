@@ -32,14 +32,14 @@ Tiesa, pirmosios Čartoriskių reformos buvo tuojau apgriautos. Šitokioje būkl
 ## Teiginiai
 
 <a id="claim-t-45273"></a>
-- t-004
+- t-001
   global_id: t-45273
   teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
   pagrindžia:
     - c-166589
 
 <a id="claim-t-45273"></a>
-- t-004
+- t-002
   global_id: t-45273
   teiginys: "Čartoriskiai buvo viena iš garsių vėlesnių laikų LDK giminių, kilusių iš periferinių sritinių žemių kunigaikščių."
   pagrindžia:

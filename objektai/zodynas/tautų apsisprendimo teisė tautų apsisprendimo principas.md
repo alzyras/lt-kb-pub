@@ -11,10 +11,10 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - seimas
   - sąvoka
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -39,35 +39,35 @@ Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybin
 ## Teiginiai
 
 <a id="claim-t-101611"></a>
-- t-003
+- t-001
   global_id: t-101611
   teiginys: "1918 m. vasario 16 d. Taryba, remdamasi tautų apsisprendimo teise, paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
   pagrindžia:
     - c-25015
 
 <a id="claim-t-101615"></a>
-- t-004
+- t-002
   global_id: t-101615
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
   pagrindžia:
     - c-25016
 
 <a id="claim-t-101613"></a>
-- t-002
+- t-003
   global_id: t-101613
   teiginys: "Rezoliucijoje tautų apsisprendimo teisės pagrindu skelbta nepriklausoma Lietuvos valstybė su sostine Vilniumi."
   pagrindžia:
     - c-25014
 
 <a id="claim-t-101614"></a>
-- t-001
+- t-004
   global_id: t-101614
   teiginys: "Radikalioji ir konservatyvioji lietuvių politinės visuomenės grupuotės pritarė tautų apsisprendimo principui."
   pagrindžia:
     - c-25013
 
 <a id="claim-t-101615"></a>
-- t-004
+- t-005
   global_id: t-101615
   teiginys: "Prancūzija Georges'o B. Clemenceau rašte aiškino, kad Klaipėdos krašto atskyrimas nuo Vokietijos nepažeidė tautų apsisprendimo principo."
   pagrindžia:

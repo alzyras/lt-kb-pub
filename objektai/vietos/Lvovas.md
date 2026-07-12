@@ -47,49 +47,49 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
 ## Teiginiai
 
 <a id="claim-t-121908"></a>
-- t-011
+- t-001
   global_id: t-121908
   teiginys: "1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką."
   pagrindžia:
     - c-37520
 
 <a id="claim-t-121912"></a>
-- t-007
+- t-002
   global_id: t-121912
   teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
   pagrindžia:
     - c-111634
 
 <a id="claim-t-121910"></a>
-- t-010
+- t-003
   global_id: t-121910
   teiginys: "Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją."
   pagrindžia:
     - c-111632
 
 <a id="claim-t-121912"></a>
-- t-007
+- t-004
   global_id: t-121912
   teiginys: "Lvovas 1280 m. buvo pastatydintas Leono, Danilos iš Haličo sūnaus."
   pagrindžia:
     - c-111634
 
 <a id="claim-t-121913"></a>
-- t-012
+- t-005
   global_id: t-121913
   teiginys: "Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją."
   pagrindžia:
     - c-111636
 
 <a id="claim-t-185036"></a>
-- t-014
+- t-006
   global_id: t-185036
   teiginys: "Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę."
   pagrindžia:
     - c-168397
 
 <a id="claim-t-185037"></a>
-- t-015
+- t-007
   global_id: t-185037
   teiginys: "Karalius, nutraukęs apsiaustį ir paleidęs kariuomenę, nukeliavo į Lvovą."
   pagrindžia:
@@ -117,7 +117,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - c-170552
 
 <a id="claim-t-193211"></a>
-- t-016
+- t-011
   global_id: t-193211
   teiginys: "Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė stipriausią Podolės tvirtovę Kameniecą ir veržėsi į Lvovo apylinkes."
   pagrindžia:

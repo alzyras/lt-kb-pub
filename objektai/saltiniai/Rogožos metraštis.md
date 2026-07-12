@@ -35,14 +35,14 @@ Mėlynųjų Vandenų įvykių pagrindiniai šaltiniai: žinios xv a. pirmosios p
 ## Teiginiai
 
 <a id="claim-t-08845"></a>
-- t-004
+- t-001
   global_id: t-08845
   teiginys: "Rogožos metraštis plačiausiai nušvietė pirmąjį Lietuvos kariuomenės žygį į Maskvą ir pabrėžė Algirdo kariavimą gudrumu."
   pagrindžia:
     - c-11147
 
 <a id="claim-t-08846"></a>
-- t-003
+- t-002
   global_id: t-08846
   teiginys: "Rogožos metraštyje prie 6871 (1363) m. rašoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
   pagrindžia:

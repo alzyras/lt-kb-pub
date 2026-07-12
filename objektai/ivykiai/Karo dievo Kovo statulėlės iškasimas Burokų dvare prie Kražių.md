@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192020"></a>
-- t-003
+- t-001
   global_id: t-192020
   teiginys: "Narbutas radinį prie Kražių apibūdina kaip 1836 m. Žemaitijoje rastą bronzinę karo dievo Kovo statulėlę."
   pagrindžia:
@@ -64,7 +64,7 @@ Nenurodyta
     - c-174901
 
 <a id="claim-t-192022"></a>
-- t-001
+- t-003
   global_id: t-192022
   teiginys: "1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą."
   pagrindžia:

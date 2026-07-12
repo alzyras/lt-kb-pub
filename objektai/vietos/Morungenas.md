@@ -38,14 +38,14 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
 ## Teiginiai
 
 <a id="claim-t-58598"></a>
-- t-002
+- t-001
   global_id: t-58598
   teiginys: "Morungenas vėliau vadintas Mohrungenu, o dabar tapatinamas su Morongu tarp Elbliongo ir Olštino."
   pagrindžia:
     - c-59230
 
 <a id="claim-t-58599"></a>
-- t-001
+- t-002
   global_id: t-58599
   teiginys: "1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas."
   pagrindžia:

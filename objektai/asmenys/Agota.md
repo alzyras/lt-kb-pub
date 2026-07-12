@@ -42,14 +42,14 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 ## Teiginiai
 
 <a id="claim-t-56965"></a>
-- t-002
+- t-001
   global_id: t-56965
   teiginys: "Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene."
   pagrindžia:
     - c-57666
 
 <a id="claim-t-56966"></a>
-- t-001
+- t-002
   global_id: t-56966
   teiginys: "Valdovė Agota po mūšio įsakė surinkti kovos lauke likusius pusgyvius Ordino brolius ir patikėti juos gydytojams."
   pagrindžia:

@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31415"></a>
-- t-003
+- t-001
   global_id: t-31415
   teiginys: "1322 m. Gediminas sudarė taikos sutartį su Livonija."
   pagrindžia:
     - c-33392
 
 <a id="claim-t-31416"></a>
-- t-005
+- t-002
   global_id: t-31416
   teiginys: "1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą."
   pagrindžia:
     - c-33393
 
 <a id="claim-t-31417"></a>
-- t-004
+- t-003
   global_id: t-31417
   teiginys: "1322 m. Gedimino taikos sutartyje su Livonija minėti Aukštaičiai reiškė geografinį žemės pavadinimą."
   pagrindžia:

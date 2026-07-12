@@ -45,119 +45,119 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 ## Teiginiai
 
 <a id="claim-t-90747"></a>
-- t-004
+- t-001
   global_id: t-90747
   teiginys: "Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m."
   pagrindžia:
     - c-32163
 
 <a id="claim-t-90748"></a>
-- t-010
+- t-002
   global_id: t-90748
   teiginys: "Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, nes miestas buvo likęs be vyrų."
   pagrindžia:
     - c-86531
 
 <a id="claim-t-90749"></a>
-- t-005
+- t-003
   global_id: t-90749
   teiginys: "Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-86532
 
 <a id="claim-t-90751"></a>
-- t-013
+- t-004
   global_id: t-90751
   teiginys: "Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis."
   pagrindžia:
     - c-86527
 
 <a id="claim-t-90752"></a>
-- t-016
+- t-005
   global_id: t-90752
   teiginys: "Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje."
   pagrindžia:
     - c-46553
 
 <a id="claim-t-90753"></a>
-- t-015
+- t-006
   global_id: t-90753
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje."
   pagrindžia:
     - c-86533
 
 <a id="claim-t-90754"></a>
-- t-001
+- t-007
   global_id: t-90754
   teiginys: "Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m."
   pagrindžia:
     - c-32163
 
 <a id="claim-t-90755"></a>
-- t-011
+- t-008
   global_id: t-90755
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
   pagrindžia:
     - c-86523
 
 <a id="claim-t-90756"></a>
-- t-012
+- t-009
   global_id: t-90756
   teiginys: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę."
   pagrindžia:
     - c-86534
 
 <a id="claim-t-90757"></a>
-- t-007
+- t-010
   global_id: t-90757
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino priešą Renzeno mūšyje."
   pagrindžia:
     - c-86525
 
 <a id="claim-t-90758"></a>
-- t-009
+- t-011
   global_id: t-90758
   teiginys: "Po mūšio viena moteris su kitais Kulmo pilėnais nuėjo į kovos lauką laidoti žuvusiųjų kūnų."
   pagrindžia:
     - c-86528
 
 <a id="claim-t-90759"></a>
-- t-006
+- t-012
   global_id: t-90759
   teiginys: "Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai."
   pagrindžia:
     - c-86524
 
 <a id="claim-t-90760"></a>
-- t-008
+- t-013
   global_id: t-90760
   teiginys: "Kulmo pilis ir miestas buvo Vyslos dešiniajame krante, o dabartinis jų atitikmuo yra Chełmno."
   pagrindžia:
     - c-86529
 
 <a id="claim-t-184170"></a>
-- t-016
+- t-014
   global_id: t-184170
   teiginys: "Petro Dusburgiečio kronikoje Kulmo ir Lubavo žemė įvardyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-167555
 
 <a id="claim-t-184171"></a>
-- t-017
+- t-015
   global_id: t-184171
   teiginys: "Kulmo kilmingieji ir miestiečiai tvirtino verčiau žūsią garbingoje kovoje, nei diena po dienos merdėsią varge."
   pagrindžia:
     - c-167556
 
 <a id="claim-t-192680"></a>
-- t-018
+- t-016
   global_id: t-192680
   teiginys: "Narbutas rašė, kad Kulmas į rytus tuomet tęsėsi tik iki Drevantos krantų, kur ji nuo Noimarko ir Strasbūro sruvena į Goliubą."
   pagrindžia:
     - c-175450
 
 <a id="claim-t-192681"></a>
-- t-019
+- t-017
   global_id: t-192681
   teiginys: "Narbutas nurodė, kad sena siena prie Drevantos skyrė Kulmo kraštą nuo senovės Prūsijos."
   pagrindžia:

@@ -55,28 +55,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92948"></a>
-- t-002
+- t-001
   global_id: t-92948
   teiginys: "Marienburge Vytautas pradėjo veikti, per pasiuntinius bandydamas patraukti žemaičius į savo pusę."
   pagrindžia:
     - c-88389
 
 <a id="claim-t-92949"></a>
-- t-001
+- t-002
   global_id: t-92949
   teiginys: "1382 m. pabaigoje Vytautas, tarpininkaujant maršalkai Konradui Vallenrodui, persikėlė pas Ordiną."
   pagrindžia:
     - c-88388
 
 <a id="claim-t-184236"></a>
-- t-004
+- t-003
   global_id: t-184236
   teiginys: "Vytautas kurį laiką išbuvo Ordino sostinėje Marienburge."
   pagrindžia:
     - c-167620
 
 <a id="claim-t-194944"></a>
-- t-005
+- t-004
   global_id: t-194944
   teiginys: "Pirmi Vytauto žygiai tėviškei atgauti (1382—1384) Kęstučio mirtis ir Jogailos santykiai su Ordinu."
   pagrindžia:

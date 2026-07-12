@@ -18,8 +18,8 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
+  - teisinė-praktika
   - vieta
-  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -42,7 +42,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 <a id="claim-t-195211"></a>
-- t-002
+- t-001
   global_id: t-195211
   teiginys: "Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18."
   pagrindžia:
@@ -50,14 +50,14 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177576
 
 <a id="claim-t-195212"></a>
-- t-004
+- t-002
   global_id: t-195212
   teiginys: "Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus."
   pagrindžia:
     - c-177575
 
 <a id="claim-t-195213"></a>
-- t-001
+- t-003
   global_id: t-195213
   teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
   pagrindžia:
@@ -65,7 +65,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177578
 
 <a id="claim-t-195214"></a>
-- t-003
+- t-004
   global_id: t-195214
   teiginys: "Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių."
   pagrindžia:

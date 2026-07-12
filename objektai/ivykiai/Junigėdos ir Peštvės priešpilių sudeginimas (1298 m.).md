@@ -62,21 +62,21 @@ Papiliai buvo sudeginti, o grįžtant kova atsinaujino.
     - c-91573
 
 <a id="claim-t-97020"></a>
-- t-003
+- t-002
   global_id: t-97020
   teiginys: "Kunonas, Brandenburgo komtūras, užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   pagrindžia:
     - c-91574
 
 <a id="claim-t-97021"></a>
-- t-004
+- t-003
   global_id: t-97021
   teiginys: "1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius."
   pagrindžia:
     - c-91575
 
 <a id="claim-t-97022"></a>
-- t-002
+- t-004
   global_id: t-97022
   teiginys: "Dusburgietis rašo, kad Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   pagrindžia:

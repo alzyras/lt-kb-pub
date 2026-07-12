@@ -41,14 +41,14 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
 ## Teiginiai
 
 <a id="claim-t-59992"></a>
-- t-002
+- t-001
   global_id: t-59992
   teiginys: "1279 m. didysis magistras paskyrė Konradą iš Foichtvangeno Prūsijos ir Livonijos brolių magistru."
   pagrindžia:
     - c-60627
 
 <a id="claim-t-59993"></a>
-- t-001
+- t-002
   global_id: t-59993
   teiginys: "Konradas iš Foichtvangeno turėjo dievui atsidavusią seserį, gyvenusią viename Vokietijos vienuolyne."
   pagrindžia:

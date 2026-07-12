@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -63,7 +64,7 @@ Nenurodyta
     - c-62634
 
 <a id="claim-t-62178"></a>
-- t-001
+- t-002
   global_id: t-62178
   teiginys: "1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas."
   pagrindžia:

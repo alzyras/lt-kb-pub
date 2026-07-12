@@ -12,6 +12,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - posakis
   - upė
   - žemėlapis
@@ -40,7 +41,7 @@ Teritorija, apie kurią lietuvių svajota: „Lituania Propria“ (žemėlapis i
 ## Teiginiai
 
 <a id="claim-t-67314"></a>
-- t-003
+- t-001
   global_id: t-67314
   teiginys: "„Lituania Propria“ žemėlapyje rodė teritoriją, apie kurią lietuviai svajojo Lietuvos valstybės atkūrimo laikotarpiu."
   pagrindžia:

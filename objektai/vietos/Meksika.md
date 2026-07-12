@@ -30,7 +30,7 @@ De jure Lietuva tebuvo pripažinta tik Vokietijos, Rusijos, Šveicarijos, Argent
 ## Teiginiai
 
 <a id="claim-t-46992"></a>
-- t-002
+- t-001
   global_id: t-46992
   teiginys: "Meksika pateikiama kaip ispaniškosios kultūros laidos pavyzdys."
   pagrindžia:

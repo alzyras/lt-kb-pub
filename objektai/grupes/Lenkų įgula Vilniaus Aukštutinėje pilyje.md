@@ -41,14 +41,14 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
 ## Teiginiai
 
 <a id="claim-t-86717"></a>
-- t-002
+- t-001
   global_id: t-86717
   teiginys: "Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose."
   pagrindžia:
     - c-82699
 
 <a id="claim-t-86718"></a>
-- t-005
+- t-002
   global_id: t-86718
   teiginys: "Lenkų įgulai Aukštutinėje pilyje penkios Vilniaus apsupties savaitės praėjo sunkiomis kautynėmis ir ginčais."
   pagrindžia:
@@ -69,7 +69,7 @@ Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula17 tuomet
     - c-82700
 
 <a id="claim-t-86721"></a>
-- t-001
+- t-005
   global_id: t-86721
   teiginys: "Jogailos paliktas vadas su lenkų įgula Vilniaus Aukštutinėje pilyje tuo metu valdydavo ir kitus gyventojus."
   pagrindžia:

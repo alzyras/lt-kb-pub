@@ -35,21 +35,21 @@ J. Jurginio įvade Augustas Liudvigas Šleceris pateikiamas kaip žymus Švieči
 ## Teiginiai
 
 <a id="claim-t-184465"></a>
-- t-002
+- t-001
   global_id: t-184465
   teiginys: "Augustas Liudvigas Šleceris 1776 m. išleido veikalą apie Lietuvą kaip buvusią savarankišką valstybę."
   pagrindžia:
     - c-167818
 
 <a id="claim-t-190692"></a>
-- t-003
+- t-002
   global_id: t-190692
   teiginys: "Augustas Liudvigas Šleceris rašė, kad prūsai prieš tūkstantį metų kavalerija nugalėdavo savo užpuolikus."
   pagrindžia:
     - c-173574
 
 <a id="claim-t-190693"></a>
-- t-004
+- t-003
   global_id: t-190693
   teiginys: "Teodoras Narbutas svarstė, kad Šleceris galėjo nesilankyti prie Baltijos, bet rėmėsi gerais senovės šaltiniais apie Šiaurės kraštus."
   pagrindžia:

@@ -32,14 +32,14 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 ## Teiginiai
 
 <a id="claim-t-58844"></a>
-- t-002
+- t-001
   global_id: t-58844
   teiginys: "Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo."
   pagrindžia:
     - c-59477
 
 <a id="claim-t-58845"></a>
-- t-001
+- t-002
   global_id: t-58845
   teiginys: "Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais."
   pagrindžia:

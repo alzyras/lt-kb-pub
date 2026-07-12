@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - sutartis
+  - šeima
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -40,35 +41,35 @@ Neprisišaukdamas pagalbos, jis net atsisakė nuo savo pareigų, ir vyriausiuoju
 ## Teiginiai
 
 <a id="claim-t-79094"></a>
-- t-010
+- t-001
   global_id: t-79094
   teiginys: "Kristupas Radvila Perkūnas po Mikalojaus Radvilos Rudojo buvo vienas iš biržiečių Radvilų, vadovavusių Lietuvos protestantams."
   pagrindžia:
     - c-76187
 
 <a id="claim-t-79095"></a>
-- t-006
+- t-002
   global_id: t-79095
   teiginys: "Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos."
   pagrindžia:
     - c-76190
 
 <a id="claim-t-79097"></a>
-- t-007
+- t-003
   global_id: t-79097
   teiginys: "Birželio 2-3 d. LDK didysis etmonas Kristupas Radvila Perkūnas pasiuntė Jono Sicinskio dalinį prieš K. Carlsono Gyllenhielmo karius."
   pagrindžia:
     - c-42093
 
 <a id="claim-t-79098"></a>
-- t-008
+- t-004
   global_id: t-79098
   teiginys: "Lauko hetmonas Kristupas Radvila Perkūnas padėjo vyriausiuoju vadu paskirtam Vilniaus vaivadai Mikalojui Radvilai Rudajam."
   pagrindžia:
     - c-76189
 
 <a id="claim-t-79100"></a>
-- t-008
+- t-005
   global_id: t-79100
   teiginys: "Kristupas Radvila Perkūnas pasiekė Volgos aukštupį ir prie Šelonės upės, ties Mstislavliu, Mogiliavu, Šklovu jis sumušė rusų kariuomene."
   pagrindžia:

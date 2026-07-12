@@ -50,21 +50,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09611"></a>
-- t-005
+- t-001
   global_id: t-09611
   teiginys: "Parlamento gynyba buvo grindžiama trimis principais: agresijos fiksavimu ir informacijos sklaida, gynyba kariniais metodais bei pilietinio nesmurtinio pasipriešinimo organizavimu."
   pagrindžia:
     - c-12361
 
 <a id="claim-t-09612"></a>
-- t-006
+- t-002
   global_id: t-09612
   teiginys: "Aukščiausiosios Tarybos gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos."
   pagrindžia:
     - c-12359
 
 <a id="claim-t-09613"></a>
-- t-004
+- t-003
   global_id: t-09613
   teiginys: "Aukščiausiosios Tarybos gynybos principai siekė fiksuoti sovietų karinės agresijos faktą ir užtikrinti politinį Lietuvos atstovavimą."
   pagrindžia:

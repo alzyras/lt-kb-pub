@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59381"></a>
-- t-002
+- t-001
   global_id: t-59381
   teiginys: "Per susidūrimą prūsai nužudė naująjį maršalą Berleviną, visus brolius ir 400 vyrų, išskyrus 10 pabėgusiųjų."
   pagrindžia:

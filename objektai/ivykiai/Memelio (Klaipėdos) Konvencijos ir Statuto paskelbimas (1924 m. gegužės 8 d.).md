@@ -9,7 +9,8 @@ date_start: '1924'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["sutartis", "politinis-sprendimas"]
 amziai:
   - 'XX'
 media_total_count: '0'

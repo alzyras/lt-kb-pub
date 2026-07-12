@@ -42,21 +42,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67583"></a>
-- t-016
+- t-001
   global_id: t-67583
   teiginys: "Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją."
   pagrindžia:
     - c-13863
 
 <a id="claim-t-67586"></a>
-- t-015
+- t-002
   global_id: t-67586
   teiginys: "Leidinio rengėjai siekė sugrupuoti istorikų surinktus faktus lietuvio akimis ir objektyvumo laikytis tiek, kiek leido faktų pažinimas."
   pagrindžia:
     - c-13862
 
 <a id="claim-t-67589"></a>
-- t-014
+- t-003
   global_id: t-67589
   teiginys: "Leidinio rengėjai buvo sutarę laikytis vidurio tarp moksliško ir populiaraus veikalo."
   pagrindžia:

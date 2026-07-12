@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - ginklas
   - ivykis
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75114"></a>
-- t-005
+- t-001
   global_id: t-75114
   teiginys: "Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
   pagrindžia:
     - c-73027
 
 <a id="claim-t-75115"></a>
-- t-001
+- t-002
   global_id: t-75115
   teiginys: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
   pagrindžia:
     - c-73028
 
 <a id="claim-t-75116"></a>
-- t-002
+- t-003
   global_id: t-75116
   teiginys: "Klaipėdos nacių teisme buvo surinkti 34 tomai kaltinamosios medžiagos ir 300 dėžių įrodymų."
   pagrindžia:

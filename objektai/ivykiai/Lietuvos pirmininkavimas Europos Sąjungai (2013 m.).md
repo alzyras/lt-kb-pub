@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - ivykis
   - mokslininkas
-  - tauta
 amziai:
   - 'XI'
   - 'XXI'
@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75191"></a>
-- t-002
+- t-001
   global_id: t-75191
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
   pagrindžia:
     - c-73069
 
 <a id="claim-t-75192"></a>
-- t-003
+- t-002
   global_id: t-75192
   teiginys: "Lietuvos pirmininkavimas ES vertintas kaip galimybė priminti pasauliui Lietuvos praeitį ir jos vietą Europoje."
   pagrindžia:
     - c-73068
 
 <a id="claim-t-75193"></a>
-- t-001
+- t-003
   global_id: t-75193
   teiginys: "2013 m. Lietuva turėjo imtis pirmininkauti Europos Sąjungai kaip laisvų ir demokratinių Europos valstybių susivienijimui."
   pagrindžia:

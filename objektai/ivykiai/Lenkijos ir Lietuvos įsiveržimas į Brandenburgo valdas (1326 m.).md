@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89374"></a>
-- t-002
+- t-001
   global_id: t-89374
   teiginys: "1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio."
   pagrindžia:
     - c-85328
 
 <a id="claim-t-89375"></a>
-- t-001
+- t-002
   global_id: t-89375
   teiginys: "1326 m. Lenkijos ir Lietuvos kariuomenė įsiveržė į Brandenburgo valdas ir pasiekė Frankfurtą prie Oderio."
   pagrindžia:

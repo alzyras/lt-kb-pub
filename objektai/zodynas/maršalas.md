@@ -16,6 +16,7 @@ tags:
   - mūšis
   - ordinas
   - sąvoka
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -40,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-42479"></a>
-- t-002
+- t-001
   global_id: t-42479
   teiginys: "1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę."
   pagrindžia:
     - c-45532
 
 <a id="claim-t-42480"></a>
-- t-001
+- t-002
   global_id: t-42480
   teiginys: "1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės."
   pagrindžia:

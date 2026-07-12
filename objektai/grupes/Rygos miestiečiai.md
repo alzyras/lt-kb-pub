@@ -14,7 +14,7 @@ tags:
   - grupe
   - miestas
   - ordinas
-  - privilegija
+  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 ## Teiginiai
 
 <a id="claim-t-81605"></a>
-- t-002
+- t-001
   global_id: t-81605
   teiginys: "Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą."
   pagrindžia:
     - c-78197
 
 <a id="claim-t-183892"></a>
-- t-003
+- t-002
   global_id: t-183892
   teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
   pagrindžia:

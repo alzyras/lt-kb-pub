@@ -77,21 +77,21 @@ Narbutas siejo Plinijų su padavimu apie saulės, arba Apolono, garbinimą prie 
     - c-173664
 
 <a id="claim-t-190784"></a>
-- t-009
+- t-008
   global_id: t-190784
   teiginys: "Teodoro Narbuto teigimu, Plinijaus Baltija pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   pagrindžia:
     - c-173666
 
 <a id="claim-t-190785"></a>
-- t-010
+- t-009
   global_id: t-190785
   teiginys: "Teodoro Narbuto pasakojime Plinijus mini Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   pagrindžia:
     - c-173667
 
 <a id="claim-t-191903"></a>
-- t-011
+- t-010
   global_id: t-191903
   teiginys: "Teodoro Narbuto vertinimu, tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno klydo prielaidose apie skirių ir hirių gentis."
   pagrindžia:

@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66766"></a>
-- t-002
+- t-001
   global_id: t-66766
   teiginys: "Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams."
   pagrindžia:
     - c-37032
 
 <a id="claim-t-66767"></a>
-- t-003
+- t-002
   global_id: t-66767
   teiginys: "Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu."
   pagrindžia:

@@ -208,6 +208,7 @@ Upės (Oppen) kaime augęs storiausias ąžuolas, anot Hartknocho, priklausė š
 - susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192029|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija.
 - susijęs iš [[objektai/ivykiai/Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių.md#claim-t-192030|Filijos pastatymas pagoniškos šventyklos vietoje prie Kražių]]: Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla.
 - susijęs iš [[objektai/paprociai/Romuvos vardinimas ir šventinimas prie dviejų upių santakos.md#claim-t-192088|Romuvos vardinimas ir šventinimas prie dviejų upių santakos]]: Narbutas Romuvą vadina lietuvių dievų šventove ir teigia, kad lietuvių gentys ją šventindavo prie dviejų upių santakos.
+- susijęs iš Ažytė: Ažytė vietos žmonių atmintyje minima kaip vaikystės maudynių vieta.
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
 - susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
 - susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.

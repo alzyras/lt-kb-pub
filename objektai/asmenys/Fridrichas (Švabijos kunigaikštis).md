@@ -49,7 +49,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
     - c-60645
 
 <a id="claim-t-60015"></a>
-- t-003
+- t-002
   global_id: t-60015
   teiginys: "Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui."
   pagrindžia:

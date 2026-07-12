@@ -50,49 +50,49 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
 ## Teiginiai
 
 <a id="claim-t-70220"></a>
-- t-012
+- t-001
   global_id: t-70220
   teiginys: "Po Urbono II raginimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį."
   pagrindžia:
     - c-69289
 
 <a id="claim-t-70221"></a>
-- t-011
+- t-002
   global_id: t-70221
   teiginys: "Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę."
   pagrindžia:
     - c-69284
 
 <a id="claim-t-70223"></a>
-- t-005
+- t-003
   global_id: t-70223
   teiginys: "1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį."
   pagrindžia:
     - c-69295
 
 <a id="claim-t-70224"></a>
-- t-002
+- t-004
   global_id: t-70224
   teiginys: "`Maldininko įžadai` šiame šaltinyje žymi laikiną, įžadais apribotą tarnybos ar žygio laiką."
   pagrindžia:
     - c-69291
 
 <a id="claim-t-70225"></a>
-- t-010
+- t-005
   global_id: t-70225
   teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, buvęs maldininko kelionėje po kryžiaus žygio vėliava."
   pagrindžia:
     - c-69287
 
 <a id="claim-t-70226"></a>
-- t-001
+- t-006
   global_id: t-70226
   teiginys: "Dusburgietis `maldininkais` vadina į Prūsiją atvykstančius ar joje paliekamus religinio karo talkininkus."
   pagrindžia:
     - c-69295
 
 <a id="claim-t-70227"></a>
-- t-004
+- t-007
   global_id: t-70227
   teiginys: "Maldininkai iš Reino krašto dalyvavo Henriko žygyje į Medininkų valsčių, o 1322 m. maldininkai puolė Pieštvės pilį."
   pagrindžia:
@@ -100,42 +100,42 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
     - c-69288
 
 <a id="claim-t-70228"></a>
-- t-003
+- t-008
   global_id: t-70228
   teiginys: "Šio šaltinio pasakojime maldininkai veikia kaip atskira nuo Ordino brolių karinė jėga."
   pagrindžia:
     - c-69290
 
 <a id="claim-t-70229"></a>
-- t-007
+- t-009
   global_id: t-70229
   teiginys: "Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių."
   pagrindžia:
     - c-69290
 
 <a id="claim-t-70230"></a>
-- t-008
+- t-010
   global_id: t-70230
   teiginys: "1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių."
   pagrindžia:
     - c-69288
 
 <a id="claim-t-70231"></a>
-- t-006
+- t-011
   global_id: t-70231
   teiginys: "Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai."
   pagrindžia:
     - c-69296
 
 <a id="claim-t-70223"></a>
-- t-005
+- t-012
   global_id: t-70223
   teiginys: "1237 m. magistras su broliais ir Meiseno markgrafo paliktais maldininkais Pagudėje pastatė Elbingo pilį."
   pagrindžia:
     - c-69295
 
 <a id="claim-t-194456"></a>
-- t-014
+- t-013
   global_id: t-194456
   teiginys: "Dėl to magistras su broliais ir maldininkais, kuriuos buvo palikęs Meiseno markgrafas, atvyko, pirmiausia išsiuntęs laivus su viskuo, kas būtina statybai, 1237 viešpaties įsikūnijimo metais į Pagudės žemę, į tą salą, kuri, pasak kai kurių, esanti Elbingo upės."
   pagrindžia:

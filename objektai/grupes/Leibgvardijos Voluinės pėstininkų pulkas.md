@@ -36,14 +36,14 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 ## Teiginiai
 
 <a id="claim-t-78198"></a>
-- t-002
+- t-001
   global_id: t-78198
   teiginys: "Leibgvardijos Voluinės pėstininkų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį."
   pagrindžia:
     - c-75496
 
 <a id="claim-t-78199"></a>
-- t-001
+- t-002
   global_id: t-78199
   teiginys: "Leibgvardijos Voluinės pėstininkų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą."
   pagrindžia:

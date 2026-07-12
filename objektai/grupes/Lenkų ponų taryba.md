@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karalius
   - sutartis
 amziai:
@@ -37,14 +38,14 @@ Jogaila tam pritarė, bet griežčiausiai pasipriešino Lenkų ponų taryba, kur
 ## Teiginiai
 
 <a id="claim-t-01377"></a>
-- t-002
+- t-001
   global_id: t-01377
   teiginys: "1430 m. lenkų ponai Krokuvoje privertė Jogailą atšaukti sutikimą dėl Vytauto karūnavimo."
   pagrindžia:
     - c-01616
 
 <a id="claim-t-01378"></a>
-- t-001
+- t-002
   global_id: t-01378
   teiginys: "Lenkų ponų taryba griežtai pasipriešino Vytauto karūnavimo sumanymui, kuriam pritarė Jogaila."
   pagrindžia:

@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - vieta
 amziai:
   - 'XX'
@@ -37,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-123781"></a>
-- t-002
+- t-001
   global_id: t-123781
   teiginys: "Vilniaus konferencijai išrinkus Lietuvos Tarybą, 1917 m. lapkričio 2–10 d. Berne buvo sušaukta nauja konferencija."
   pagrindžia:
     - c-46449
 
 <a id="claim-t-123784"></a>
-- t-001
+- t-002
   global_id: t-123784
   teiginys: "1917 m. lapkričio 2–10 d. Berne sušaukta konferencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė Klaipėdos uosto reikalą."
   pagrindžia:
@@ -54,6 +55,8 @@ media_all_json: |-
 - susijęs iš [[objektai/autoriai/Dieboldo Schillingo.md#claim-t-39851|Dieboldo Schillingo]]: Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190277|Frydrichas Stenderis]]: Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.
 - susijęs iš [[objektai/ivykiai/Berne naujoji konferencija (1917 m. lapkričio 2–10 d.).md#claim-t-01591|Berne naujoji konferencija (1917 m. lapkričio 2–10 d.)]]: 1917 m. lapkričio 2–10 d. Berne sušauktoje naujojoje konferencijoje dalyvavo ir Lietuvos Tarybos delegatai.
+- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195548|Jokūbas (samdytojas, XIX a.)]]: Po nesėkmingos baigties Jokūbui teko ieškoti kito berno.
+- susijęs iš [[objektai/asmenys/Šulskis (senas ūkininkas).md#claim-t-195281|Šulskis (senas ūkininkas)]]: Šulskis pats pasakoja, kaip iš berno gavo gyvenimą ir pastojo ūkininku.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189996|Frydrichas Stenderis]]: Narbutas rašo, kad Stenderis barstukų vardą kildino iš latviškų žodžių „Berhns“ ir „Stuhke“.
 - susijęs iš [[objektai/posakiai/„Lithuania Propria“.md#claim-t-67315|„Lithuania Propria“]]: 1917 m. Berno konferencijoje būsimos Lietuvos teritoriją siūlyta formuoti etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas nurodo, kad Stenderis Barstukų vardą kildino iš latviškų žodžių Berhns ir Stuhke.
@@ -71,6 +74,7 @@ media_all_json: |-
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-101582|etnografinės ribos etnografinis principas]]: 1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
+- susijęs iš [[objektai/asmenys/Juška (kaimo daraktorius).md#claim-t-195259|Juška (kaimo daraktorius)]]: Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą.
 ## Reikšmingi paminėjimai
 
 - c-001

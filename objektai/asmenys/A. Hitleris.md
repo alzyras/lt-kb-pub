@@ -14,6 +14,7 @@ tags:
   - asmuo
   - karas
   - sutartis
+  - šventė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -40,42 +41,42 @@ Hitleris, o 1934 m. po perversmų įsitvirtino autoritariniai režimai Estijoje 
 ## Teiginiai
 
 <a id="claim-t-75628"></a>
-- t-005
+- t-001
   global_id: t-75628
   teiginys: "1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime."
   pagrindžia:
     - c-73351
 
 <a id="claim-t-75629"></a>
-- t-003
+- t-002
   global_id: t-75629
   teiginys: "1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams."
   pagrindžia:
     - c-73350
 
 <a id="claim-t-75630"></a>
-- t-004
+- t-003
   global_id: t-75630
   teiginys: "1939 m. kovo 23 d. Klaipėdoje A. Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai."
   pagrindžia:
     - c-73349
 
 <a id="claim-t-75631"></a>
-- t-006
+- t-004
   global_id: t-75631
   teiginys: "1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai."
   pagrindžia:
     - c-73349
 
 <a id="claim-t-75632"></a>
-- t-001
+- t-005
   global_id: t-75632
   teiginys: "1933 m. A. Hitleris atėjo į valdžią Vokietijoje."
   pagrindžia:
     - c-73347
 
 <a id="claim-t-75633"></a>
-- t-002
+- t-006
   global_id: t-75633
   teiginys: "A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos."
   pagrindžia:

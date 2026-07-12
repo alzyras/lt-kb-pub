@@ -40,14 +40,14 @@ Vartojama etimologinėje pastaboje apie slavų šventyklų vardus ir jų kilmę.
 ## Teiginiai
 
 <a id="claim-t-192319"></a>
-- t-002
+- t-001
   global_id: t-192319
   teiginys: "Narbutas pažymi, kad dėl Gontyny ir Kontyny pavadinimų kilmės jo laikais tebebuvo ginčijamasi."
   pagrindžia:
     - c-175124
 
 <a id="claim-t-192320"></a>
-- t-001
+- t-002
   global_id: t-192320
   teiginys: "Narbutas nurodo, kad slavai šventyklas vadino gontmomis, Gontyny, arba kontinomis, Kontyny."
   pagrindžia:

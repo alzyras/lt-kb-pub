@@ -49,21 +49,21 @@ Teodoras Narbutas Povilo Juozapo Safaržyko veikalą apibūdino kaip pirmąjį i
     - c-173987
 
 <a id="claim-t-191107"></a>
-- t-004
+- t-003
   global_id: t-191107
   teiginys: "Teodoro Narbuto teigimu, Povilas Juozapas Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, o kalbų skirtumus aiškino istoriniu likimu."
   pagrindžia:
     - c-173989
 
 <a id="claim-t-191108"></a>
-- t-005
+- t-004
   global_id: t-191108
   teiginys: "Povilas Juozapas Safaržykas minėjo Vienos Imperatoriškajame Senienų kabinete saugotą auksinę taurę kaip seniausią jazigų pėdsaką."
   pagrindžia:
     - c-173990
 
 <a id="claim-t-192600"></a>
-- t-006
+- t-005
   global_id: t-192600
   teiginys: "Teodoras Narbutas Safaržyko hipotezę apie kalną Minsko gubernijoje vadino juokinga ir priekaištavo jam dėl slavų pėdsakų ieškojimo pagal panašumus."
   pagrindžia:

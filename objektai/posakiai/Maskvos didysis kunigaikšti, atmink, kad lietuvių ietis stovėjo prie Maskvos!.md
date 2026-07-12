@@ -37,14 +37,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09667"></a>
-- t-004
+- t-001
   global_id: t-09667
   teiginys: "Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną."
   pagrindžia:
     - c-12479
 
 <a id="claim-t-09668"></a>
-- t-003
+- t-002
   global_id: t-09668
   teiginys: "Raitelis prijojo prie miesto, atrėmė ietį į sieną ir sušuko Maskvos didžiajam kunigaikščiui, kad lietuvių ietis stovėjo prie Maskvos."
   pagrindžia:

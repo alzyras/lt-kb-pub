@@ -35,7 +35,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
 ## Teiginiai
 
 <a id="claim-t-187171"></a>
-- t-002
+- t-001
   global_id: t-187171
   teiginys: "Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės."
   pagrindžia:
@@ -49,14 +49,14 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
     - c-170264
 
 <a id="claim-t-187173"></a>
-- t-001
+- t-003
   global_id: t-187173
   teiginys: "Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu."
   pagrindžia:
     - c-170264
 
 <a id="claim-t-187173"></a>
-- t-001
+- t-004
   global_id: t-187173
   teiginys: "Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu."
   pagrindžia:

@@ -39,7 +39,7 @@ PUB = Preussisches Urkundenbuch, t.
 ## Teiginiai
 
 <a id="claim-t-67523"></a>
-- t-003
+- t-001
   global_id: t-67523
   teiginys: "1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą."
   pagrindžia:

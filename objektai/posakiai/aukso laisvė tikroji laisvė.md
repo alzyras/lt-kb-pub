@@ -37,14 +37,14 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
     - c-02323
 
 <a id="claim-t-02084"></a>
-- t-003
+- t-002
   global_id: t-02084
   teiginys: "Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto."
   pagrindžia:
     - c-02322
 
 <a id="claim-t-02085"></a>
-- t-002
+- t-003
   global_id: t-02085
   teiginys: "Tikrąja laisve vadintą santvarką bajorija brangino ir saugojo nuo pakeitimų."
   pagrindžia:

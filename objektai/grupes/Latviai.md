@@ -47,35 +47,35 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 ## Teiginiai
 
 <a id="claim-t-169584"></a>
-- t-011
+- t-001
   global_id: t-169584
   teiginys: "Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli."
   pagrindžia:
     - c-31151
 
 <a id="claim-t-169585"></a>
-- t-007
+- t-002
   global_id: t-169585
   teiginys: "Balinskis latvius priskyrė vienai iš šešių pagrindinių lietuvių tautos atšakų."
   pagrindžia:
     - c-154294
 
 <a id="claim-t-169586"></a>
-- t-012
+- t-003
   global_id: t-169586
   teiginys: "II tūkstantmečio pradžioje latviai pradėjo formuotis kartu su prūsų, jotvingių ir lietuvių tautomis."
   pagrindžia:
     - c-154292
 
 <a id="claim-t-169587"></a>
-- t-008
+- t-004
   global_id: t-169587
   teiginys: "Kronikoje vaizduojamu laikotarpiu latviai, lietuviai ir prūsai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
   pagrindžia:
     - c-154296
 
 <a id="claim-t-169588"></a>
-- t-010
+- t-005
   global_id: t-169588
   teiginys: "Latviai asimiliavo dalį išnykusių kuršių, žiemgalių ir sėlių kilčių teritorijų."
   pagrindžia:
@@ -89,21 +89,21 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - c-31151
 
 <a id="claim-t-169591"></a>
-- t-002
+- t-007
   global_id: t-169591
   teiginys: "XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje."
   pagrindžia:
     - c-154293
 
 <a id="claim-t-169592"></a>
-- t-001
+- t-008
   global_id: t-169592
   teiginys: "Tikrieji latviai naujojo geležies amžiaus pradžioje pradėjo ryškiau kalbiškai skirtis nuo lietuvių."
   pagrindžia:
     - c-31151
 
 <a id="claim-t-184516"></a>
-- t-013
+- t-009
   global_id: t-184516
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos."
   pagrindžia:
@@ -368,6 +368,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - susijęs iš [[objektai/zodynas/kabinetinė mitologija.md#claim-t-189300|kabinetinė mitologija]]: Kabinetinės mitologijos sąvoka čia taikoma faktams, kuriuos tyrinėtojams reikia atskirti nuo lietuvių, prūsų, latvių ar kitų baltų mitologijos medžiagos.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70380|vakariniai baltai]]: Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70381|vakariniai baltai]]: Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195256|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195257|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: 1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius.
 - susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192143|dialektai]]: Narbutas svarbiausiais lyginamais dialektais vadina senovės prūsų, lietuvių ir latvių dialektus.
 - susijęs iš [[objektai/asmenys/A. Stapulionis.md#claim-t-39983|A. Stapulionis]]: A. Stapulionis vadovavo Joniškėlio partizanų batalionui, turėjusiam paremti rinktinės puolimą.
 - susijęs iš [[objektai/asmenys/Aleksandras Gvaninis.md#claim-t-191362|Aleksandras Gvaninis]]: Narbutas remiasi Aleksandru Gvaniniu, kuris Klerkei, arba Bialohrodo, pilį siejo su Belgorodo totorių vardu.
@@ -522,10 +524,15 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-187530|tėvonija]]: Lietuvos metraštis pasakoja, kad Kernius ir Gimbutas, geisdami praplėsti tėvonijas, sutelkė Lietuvos ir Žemaičių pajėgas žygiui į Rusią.
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192579|upė]]: Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė.
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195566|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: Toje kelionėje A. R. Niemis rinko estų liaudies dainas.
 - susijęs iš [[objektai/paprociai/Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė.md#claim-t-192094|Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė]]: Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo.
 - susijęs iš [[objektai/posakiai/Isz-Tawas arba Isz-Tabas.md#claim-t-192124|Isz-Tawas arba Isz-Tabas]]: Teodoras Narbutas posakį Isz-Tawas arba Isz-Tabas aiškino kaip kilmę iš tėvo ir iš jo kildino ištavanų bei stavanų pavadinimus.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
+- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
 - susijęs iš Magus: Al-Idrisi tekste ir žemėlapyje minima žemė „Magus“ laikoma lietuvių ir latvių plotais.
+- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
 - susijęs iš [[objektai/zodynas/Juhra.md#claim-t-192223|Juhra]]: Narbutas žodį „Juhra“ pateikia kaip lietuvių-prūsų dialekto formą, reiškiančią „jūra“, ir sieja ją su latvių kalba.
 - susijęs iš [[objektai/zodynas/dialektai.md#claim-t-192144|dialektai]]: Narbutas trijų dialektų palyginimą naudoja lietuvių genties vietai tautos lopšio atžvilgiu aiškinti.
 - susijęs iš [[objektai/zodynas/upė.md#claim-t-192230|upė]]: Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme.

@@ -32,7 +32,7 @@ Apšvietos žingsniais Lietuvos ūkyje reikia laikyti valstiečių paleidimo iš
 ## Teiginiai
 
 <a id="claim-t-26532"></a>
-- t-003
+- t-001
   global_id: t-26532
   teiginys: "Posakis apie tris respublikas rodė ypatingą visuomenės reikšmę Paulavai."
   pagrindžia:

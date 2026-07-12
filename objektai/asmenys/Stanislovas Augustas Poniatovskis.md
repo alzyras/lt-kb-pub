@@ -42,7 +42,7 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
 ## Teiginiai
 
 <a id="claim-t-170087"></a>
-- t-035
+- t-001
   global_id: t-170087
   teiginys: "1792 m. liepos 23 d. Varšuvoje Stanislovas Augustas Poniatovskis siūlė nebesipriešinti prie Varšuvos stovėjusiai Rusijos armijai."
   pagrindžia:
@@ -56,35 +56,35 @@ Ne veltui 1791 m. vasarą Lenkijos ir Lietuvos valdovas Stanislovas Augustas Pon
     - c-154771
 
 <a id="claim-t-170089"></a>
-- t-040
+- t-003
   global_id: t-170089
   teiginys: "Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos."
   pagrindžia:
     - c-154773
 
 <a id="claim-t-170092"></a>
-- t-037
+- t-004
   global_id: t-170092
   teiginys: "Prie Varšuvos Stanislovas Augustas nepasirodė fronte, neišnaudojo visuotinės mobilizacijos ir nesuformavo miestiečių milicijos."
   pagrindžia:
     - c-154776
 
 <a id="claim-t-170093"></a>
-- t-038
+- t-005
   global_id: t-170093
   teiginys: "Stanislovo Augusto veiksmai su Rusijos ambasada Varšuvoje prisidėjo prie jo politinio fiasko 1795 metais."
   pagrindžia:
     - c-154772
 
 <a id="claim-t-170094"></a>
-- t-039
+- t-006
   global_id: t-170094
   teiginys: "Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą."
   pagrindžia:
     - c-154770
 
 <a id="claim-t-170095"></a>
-- t-036
+- t-007
   global_id: t-170095
   teiginys: "Istorikų vertinimu, Stanislovo Augusto susitaikėliška pozicija buvo nepagrįsta, nes LLV dar turėjo galimybių priešintis Rusijai."
   pagrindžia:

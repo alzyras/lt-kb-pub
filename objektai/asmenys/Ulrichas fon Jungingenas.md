@@ -37,7 +37,7 @@ media_all_json: |-
     - c-167152
 
 <a id="claim-t-40481"></a>
-- t-001
+- t-002
   global_id: t-40481
   teiginys: "Žalgirio mūšyje žuvo didysis magistras Ulrichas fon Jungingenas, beveik visa likusi Ordino vadovybė, apie 200 riterių ir tūkstančiai karių."
   pagrindžia:

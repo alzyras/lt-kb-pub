@@ -35,6 +35,8 @@ Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
   teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
   pagrindžia:
     - c-176031
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 ## Reikšmingi paminėjimai
 

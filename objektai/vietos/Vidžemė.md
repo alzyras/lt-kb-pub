@@ -40,7 +40,7 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
 ## Teiginiai
 
 <a id="claim-t-69563"></a>
-- t-002
+- t-001
   global_id: t-69563
   teiginys: "XII-XIII a. sąvartoje latviai buvo įsikūrę dešiniajame Dauguvos krante, apimdami Latgaliją ir rytinę Vidžemės dalį."
   pagrindžia:

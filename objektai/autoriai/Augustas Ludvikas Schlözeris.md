@@ -41,21 +41,21 @@ Augustas Ludvikas Schlözeris minimas kaip vokiečių istorikas, 1785 m. paskelb
 ## Teiginiai
 
 <a id="claim-t-71504"></a>
-- t-003
+- t-001
   global_id: t-71504
   teiginys: "Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų."
   pagrindžia:
     - c-30456
 
 <a id="claim-t-71506"></a>
-- t-001
+- t-002
   global_id: t-71506
   teiginys: "Augustas Ludvikas Schlözeris 1785 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją iki 1569 metų."
   pagrindžia:
     - c-03973
 
 <a id="claim-t-71507"></a>
-- t-002
+- t-003
   global_id: t-71507
   teiginys: "Augustas Ludvikas Schlözeris pripažino, kad jo veikalas nebuvo originalus, o perdirbtas ir sutrumpintas Kojalavičiaus tekstas."
   pagrindžia:

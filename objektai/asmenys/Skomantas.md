@@ -43,14 +43,14 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
 ## Teiginiai
 
 <a id="claim-t-59824"></a>
-- t-008
+- t-001
   global_id: t-59824
   teiginys: "1284 m. Ordino magistras vasarą su vedliu Skomantu patraukė prieš Gardino pilį."
   pagrindžia:
     - c-60464
 
 <a id="claim-t-59825"></a>
-- t-009
+- t-002
   global_id: t-59825
   teiginys: "Petras Dusburgietis Skomantą po atsivertimo vaizduoja kaip tikėjimo gynėją ir krikščionių tautos vadą."
   pagrindžia:
@@ -64,49 +64,49 @@ Dusburgietis teigia, kad tuo metu, kai pavergtos prūsų žemės (Pagudė ir kt.
     - c-60459
 
 <a id="claim-t-59827"></a>
-- t-006
+- t-004
   global_id: t-59827
   teiginys: "Skomantas pamėgo į nelaisvę patekusį Liudviką iš Libencelės ir nusivedė jį į Sūduvos diduomenės puotą."
   pagrindžia:
     - c-60463
 
 <a id="claim-t-59828"></a>
-- t-002
+- t-005
   global_id: t-59828
   teiginys: "Skomantas su sūduviais įsiveržė į Kulmo žemę ir padalijo kariuomenę į dvi dalis puolimams prieš Torunę ir Kulmo miestą."
   pagrindžia:
     - c-60460
 
 <a id="claim-t-59829"></a>
-- t-004
+- t-006
   global_id: t-59829
   teiginys: "Spalio 21 d. Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę."
   pagrindžia:
     - c-60461
 
 <a id="claim-t-59830"></a>
-- t-001
+- t-007
   global_id: t-59830
   teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
   pagrindžia:
     - c-60458
 
 <a id="claim-t-59831"></a>
-- t-005
+- t-008
   global_id: t-59831
   teiginys: "Ordino magistras Mangoldas per žygį į Kresmenos valsčių sudegino Skomanto sodybą."
   pagrindžia:
     - c-60456
 
 <a id="claim-t-59832"></a>
-- t-007
+- t-009
   global_id: t-59832
   teiginys: "Skomantas galop su visais savo namais bei šeimyna pasidavė tikėjimui ir broliams."
   pagrindžia:
     - c-60457
 
 <a id="claim-t-59826"></a>
-- t-003
+- t-010
   global_id: t-59826
   teiginys: "Skomantas su didele sūduvių ir rusų kariuomene devynias dienas plėšė ir degino Kulmo žemę."
   pagrindžia:

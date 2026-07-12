@@ -41,14 +41,14 @@ Vulfstanas, Narbuto vadinamas skandinavų keliautoju, IX amžiaus antrojoje pus�
     - c-174069
 
 <a id="claim-t-191189"></a>
-- t-004
+- t-003
   global_id: t-191189
   teiginys: "Narbutas rašo, kad Vulfstanas jau minėjo Kodinėnų valdų ponus, kurių giminė, autoriaus teigimu, išliko iki jo laikų."
   pagrindžia:
     - c-174071
 
 <a id="claim-t-192605"></a>
-- t-005
+- t-004
   global_id: t-192605
   teiginys: "Narbutas Vulfstano aprašymus laiko pagrindiniu šaltiniu apie senovinį Truso miestą prie Drūsinės ežero."
   pagrindžia:

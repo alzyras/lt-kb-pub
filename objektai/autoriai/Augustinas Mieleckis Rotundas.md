@@ -47,21 +47,21 @@ media_all_json: |-
     - c-83978
 
 <a id="claim-t-87999"></a>
-- t-003
+- t-002
   global_id: t-87999
   teiginys: "Augustinas Mieleckis Rotundas buvo bajorų kilmės, nes miesto aktuose prie jo pavardės buvo pridedama „Nobilis“."
   pagrindžia:
     - c-83977
 
 <a id="claim-t-88000"></a>
-- t-004
+- t-003
   global_id: t-88000
   teiginys: "Augustinas Rotundas Mieleckis dokumente įvardytas abiejų teisių daktaru, karaliaus sekretoriumi, Stakliškių seniūnu ir Vilniaus vaitu."
   pagrindžia:
     - c-83979
 
 <a id="claim-t-88001"></a>
-- t-002
+- t-004
   global_id: t-88001
   teiginys: "1560 m. vasario 12 d. Vilniaus vaitas Augustinas Mieleckis Rotundas Mikalojui Radvilai įteikė savo Lietuvos istoriją, kurios rankraštis yra dingęs."
   pagrindžia:

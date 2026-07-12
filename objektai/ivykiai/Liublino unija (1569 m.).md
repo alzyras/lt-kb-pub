@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169842"></a>
-- t-007
+- t-001
   global_id: t-169842
   teiginys: "1569 m. sudaryta Liublino unija sukūrė Abiejų Tautų Respubliką kaip Lietuvos ir Lenkijos suartėjimo nuo Jogailos ir Jadvygos vedybų padarinį."
   pagrindžia:
     - c-154533
 
 <a id="claim-t-169843"></a>
-- t-006
+- t-002
   global_id: t-169843
   teiginys: "Liublino unijos rezultatas buvo LDK atstovų priimtas kompromisas, kurio pagrįstumu rimčiau nesuabejota dar du šimtmečius."
   pagrindžia:
     - c-154534
 
 <a id="claim-t-169844"></a>
-- t-012
+- t-003
   global_id: t-169844
   teiginys: "Po Liublino unijos Steponui Batorui tapus Lenkijos ir Lietuvos valdovu, Livonijos kare pasiektos lemiamos pergalės prieš Maskvą."
   pagrindžia:
@@ -87,21 +87,21 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169846"></a>
-- t-003
+- t-005
   global_id: t-169846
   teiginys: "Prieš Liublino uniją Žygimantas Augustas prie Lenkijos prijungė beveik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos."
   pagrindžia:
     - c-154532
 
 <a id="claim-t-169847"></a>
-- t-005
+- t-006
   global_id: t-169847
   teiginys: "Gindamas LDK antspaudus J. J. Chodkevičius paliko galimybę išsaugoti Lietuvos valstybingumą po Liublino unijos."
   pagrindžia:
     - c-154529
 
 <a id="claim-t-169848"></a>
-- t-011
+- t-007
   global_id: t-169848
   teiginys: "Liublino unijos metu lenkai ir Žygimantas Augustas spaudė LDK atstovus, siekdami panaikinti valstybingumą ir atplėšti teritorijų."
   pagrindžia:
@@ -122,28 +122,28 @@ Nenurodyta
     - c-154526
 
 <a id="claim-t-169851"></a>
-- t-001
+- t-010
   global_id: t-169851
   teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
   pagrindžia:
     - c-166648
 
 <a id="claim-t-169851"></a>
-- t-001
+- t-011
   global_id: t-169851
   teiginys: "1569 m. Liublino unija sukūrė jungtinę Lenkijos ir Lietuvos valstybę – Abiejų Tautų Respubliką."
   pagrindžia:
     - c-166648
 
 <a id="claim-t-184598"></a>
-- t-014
+- t-012
   global_id: t-184598
   teiginys: "1569 m. Liublino seime ginčytasi ne dėl pačios unijos, o dėl jos sąlygų."
   pagrindžia:
     - c-167959
 
 <a id="claim-t-184599"></a>
-- t-015
+- t-013
   global_id: t-184599
   teiginys: "Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu."
   pagrindžia:

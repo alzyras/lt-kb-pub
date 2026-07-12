@@ -41,7 +41,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
 ## Teiginiai
 
 <a id="claim-t-63836"></a>
-- t-003
+- t-001
   global_id: t-63836
   teiginys: "Sukilimo vadu Lietuvoje tapo Konstantinas Kalinauskas."
   pagrindžia:
@@ -55,7 +55,7 @@ Lenkijos sukilėlių vyriausybė į Lietuvos sukilimo vadovybę grąžino „rau
     - c-21830
 
 <a id="claim-t-63838"></a>
-- t-004
+- t-003
   global_id: t-63838
   teiginys: "Michailo Muravjovo įsakymu Konstantinas Kalinauskas buvo pakartas kartu su kitais sukilėliais."
   pagrindžia:

@@ -69,21 +69,21 @@ Nenurodyta
     - c-35797
 
 <a id="claim-t-192498"></a>
-- t-003
+- t-002
   global_id: t-192498
   teiginys: "Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje."
   pagrindžia:
     - c-175288
 
 <a id="claim-t-194870"></a>
-- t-004
+- t-003
   global_id: t-194870
   teiginys: "180 /Ten pat, 3 pastraipos 1 sakinio minties tęsinys ir nauja išnaša/ Kartais didieji kunigaikščiai herbus suteikdavo slavų giminėms; tokį herbą 1302 metais Gediminas davė Krunevičiui."
   pagrindžia:
     - c-177266
 
 <a id="claim-t-194945"></a>
-- t-005
+- t-004
   global_id: t-194945
   teiginys: "Kiekvienas bajoras, kuris turėjo herbą, su to pačio herbo bajoru skaitėsi gi minėmis; buvo suteikta teisė ir abipusėms vedyboms."
   pagrindžia:

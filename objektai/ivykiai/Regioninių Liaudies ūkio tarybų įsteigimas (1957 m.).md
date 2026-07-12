@@ -11,7 +11,9 @@ date_end: '1957'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

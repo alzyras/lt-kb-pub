@@ -64,6 +64,7 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - susijęs iš Karaliaus Aleksandro testamentas (1506 m.): Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse.
 - susijęs iš Leodijos arkidiakono Jokūbo privilegija prūsams: Narbutas ypač reikšmingomis laiko Hartknocho pateiktas ištraukas iš Leodijos arkidiakono Jokūbo privilegijos, duotos prūsams 1249 metais.
 - susijęs iš Vilnius: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.
+- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195541|Lileika (samdos tarpininkas)]]: Lileika pažadėjo pripiršti Grigorą Jokūbui ir pats nuvedė Grigorą į derybas.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63417|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
 - susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
@@ -85,6 +86,7 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
 - susijęs iš Vitebskas: Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai.
 - susijęs iš Žirnajos upelis: Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.
 - susijęs iš [[objektai/zodynas/papilys.md#claim-t-58775|papilys]]: Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių.
+- susijęs iš [[objektai/asmenys/Lileika (samdos tarpininkas).md#claim-t-195542|Lileika (samdos tarpininkas)]]: Derybų pabaigoje Lileika ragino Grigorą laikytis pažado ir negadinti savo žodžio.
 ## Reikšmingi paminėjimai
 
 - c-001

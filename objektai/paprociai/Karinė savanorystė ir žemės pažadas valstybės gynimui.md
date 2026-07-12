@@ -10,7 +10,9 @@ date_start: '1919'
 date_end: '1920'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karyba
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -67,14 +69,14 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Teiginiai
 
 <a id="claim-t-20809"></a>
-- t-005
+- t-001
   global_id: t-20809
   teiginys: "Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai."
   pagrindžia:
     - c-23529
 
 <a id="claim-t-20810"></a>
-- t-006
+- t-002
   global_id: t-20810
   teiginys: "M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės."
   pagrindžia:

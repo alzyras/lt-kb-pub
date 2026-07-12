@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
-  - privilegija
   - sąvoka
   - unija
 amziai:

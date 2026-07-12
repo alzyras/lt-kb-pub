@@ -46,14 +46,14 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
 ## Teiginiai
 
 <a id="claim-t-195162"></a>
-- t-006
+- t-001
   global_id: t-195162
   teiginys: "Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį."
   pagrindžia:
     - c-177530
 
 <a id="claim-t-195163"></a>
-- t-008
+- t-002
   global_id: t-195163
   teiginys: "Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis."
   pagrindžia:
@@ -62,21 +62,21 @@ Toks šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­ kas sudėj
     - c-177527
 
 <a id="claim-t-195164"></a>
-- t-004
+- t-003
   global_id: t-195164
   teiginys: "Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos."
   pagrindžia:
     - c-177528
 
 <a id="claim-t-195165"></a>
-- t-003
+- t-004
   global_id: t-195165
   teiginys: "Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį."
   pagrindžia:
     - c-177530
 
 <a id="claim-t-195166"></a>
-- t-002
+- t-005
   global_id: t-195166
   teiginys: "Kalno, ant kurio stovėjo Aukštutinė pilis, griūtis užslinko ant Manvydo rūmo ir pridarė daug nuostolių."
   pagrindžia:

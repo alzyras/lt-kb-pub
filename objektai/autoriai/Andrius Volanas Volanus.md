@@ -40,14 +40,14 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Teiginiai
 
 <a id="claim-t-88051"></a>
-- t-002
+- t-001
   global_id: t-88051
   teiginys: "1576 m. Vilniuje Mikalojaus Radvilos spaustuvėje išspausdinta Andriaus Volano knyga „Contra Skargae missam“."
   pagrindžia:
     - c-84030
 
 <a id="claim-t-88052"></a>
-- t-001
+- t-002
   global_id: t-88052
   teiginys: "Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu."
   pagrindžia:

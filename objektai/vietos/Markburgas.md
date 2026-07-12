@@ -32,21 +32,21 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
 ## Teiginiai
 
 <a id="claim-t-58590"></a>
-- t-002
+- t-001
   global_id: t-58590
   teiginys: "Landgrafas su riteriais ir kilmingaisiais atvyko pas Teutonų ordino brolius Markburge lapkričio 18 d."
   pagrindžia:
     - c-59222
 
 <a id="claim-t-58591"></a>
-- t-001
+- t-002
   global_id: t-58591
   teiginys: "Brolis Konradas, penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   pagrindžia:
     - c-59223
 
 <a id="claim-t-58591"></a>
-- t-001
+- t-003
   global_id: t-58591
   teiginys: "Brolis Konradas, penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   pagrindžia:

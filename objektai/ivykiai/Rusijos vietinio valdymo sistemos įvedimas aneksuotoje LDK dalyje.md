@@ -15,6 +15,7 @@ tags:
   - bajorija
   - ivykis
   - miestas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XXI'

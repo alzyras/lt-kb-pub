@@ -15,9 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - privilegija
   - sąvoka
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XX'
@@ -57,14 +57,14 @@ media_all_json: |-
     - c-154597
 
 <a id="claim-t-183439"></a>
-- t-005
+- t-003
   global_id: t-183439
   teiginys: "Kultūrinė autonomija krašte apėmė Lietuvos Statuto galiojimą ir lenkų kalbos vartojimą savivaldoje, administracijoje, teismuose bei švietime."
   pagrindžia:
     - c-166834
 
 <a id="claim-t-193607"></a>
-- t-006
+- t-004
   global_id: t-193607
   teiginys: "Vokiečių ir lenkų mažumos darė žygių gauti tautinę autonomiją žydų pavyzdžiu, tik rusų mažuma tokių reikalavimų nekėlė."
   pagrindžia:

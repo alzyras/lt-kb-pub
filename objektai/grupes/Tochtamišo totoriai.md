@@ -32,14 +32,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-171389"></a>
-- t-002
+- t-001
   global_id: t-171389
   teiginys: "Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį."
   pagrindžia:
     - c-167060
 
 <a id="claim-t-171391"></a>
-- t-001
+- t-002
   global_id: t-171391
   teiginys: "Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių."
   pagrindžia:

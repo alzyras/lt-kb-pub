@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - redaktorius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'
@@ -54,6 +55,7 @@ Jonas Basanavičius rodomas kaip vienas svarbiausių lietuvių tautinio sąjūd�
   teiginys: "Pirmuoju redaktoriumi buvo tuomet Prahoje gyvenęs, iš Užnemunės kilęs ir Maskvoje medicinos studijas baigęs, indoeuropiečių ir baltų senove bei lietuvių kultūra domėjęsis Jonas Basanavičius (1851–1927)."
   pagrindžia:
     - c-176369
+- susijęs iš Lietuvių liaudies dainų tyrinėjimai: Veikalas „Lietuvių liaudies dainų tyrinėjimai“ siejamas su A. R. Niemio 1910-1912 m. atliktu Lietuvių mokslo draugijos archyvo dainų katalogavimu, vadovaujant J. Basanavičiui.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -45,14 +45,14 @@ Jis paėmė net Tartus (Dorpatą). Tuojau po laimingųjų Stepono Batoro karų s
 ## Teiginiai
 
 <a id="claim-t-80185"></a>
-- t-003
+- t-001
   global_id: t-80185
   teiginys: "Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline."
   pagrindžia:
     - c-32454
 
 <a id="claim-t-80186"></a>
-- t-005
+- t-002
   global_id: t-80186
   teiginys: "1558 m. Maskvos kariuomenė užėmė Tartu ir Narvos miestus Livonijos konfederacijos teritorijoje."
   pagrindžia:

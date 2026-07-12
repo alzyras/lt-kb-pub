@@ -40,70 +40,70 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 ## Teiginiai
 
 <a id="claim-t-114450"></a>
-- t-012
+- t-001
   global_id: t-114450
   teiginys: "Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje."
   pagrindžia:
     - c-105528
 
 <a id="claim-t-114451"></a>
-- t-009
+- t-002
   global_id: t-114451
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje."
   pagrindžia:
     - c-105533
 
 <a id="claim-t-114452"></a>
-- t-001
+- t-003
   global_id: t-114452
   teiginys: "Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją."
   pagrindžia:
     - c-24242
 
 <a id="claim-t-114453"></a>
-- t-008
+- t-004
   global_id: t-114453
   teiginys: "Lenkijos Karalystėje esantys pabūklai, arkebuzos, muškietos ir kita karo amunicija buvo atiduoti Karalystei."
   pagrindžia:
     - c-105527
 
 <a id="claim-t-114454"></a>
-- t-010
+- t-005
   global_id: t-114454
   teiginys: "Testamente nurodyta, kad Lenkijos Karalystėje esantys pabūklai, muškietos ir kita karo amunicija atiduodami Karalystei."
   pagrindžia:
     - c-105527
 
 <a id="claim-t-114455"></a>
-- t-007
+- t-006
   global_id: t-114455
   teiginys: "Testamente Lenkijos Karalystei ir Lietuvos Didžiajai Kunigaikštystei palikta meilė, santarvė ir vienybė."
   pagrindžia:
     - c-105530
 
 <a id="claim-t-114456"></a>
-- t-011
+- t-007
   global_id: t-114456
   teiginys: "Lenkijos karalystės teritorijoje apie visišką lenkų kalbos ir kultūros išstūmimą iš viešojo gyvenimo ir švietimo įstaigų nekalbėta."
   pagrindžia:
     - c-105532
 
 <a id="claim-t-114457"></a>
-- t-002
+- t-008
   global_id: t-114457
   teiginys: "Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę."
   pagrindžia:
     - c-24243
 
 <a id="claim-t-114458"></a>
-- t-005
+- t-009
   global_id: t-114458
   teiginys: "Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių."
   pagrindžia:
     - c-105529
 
 <a id="claim-t-114459"></a>
-- t-004
+- t-010
   global_id: t-114459
   teiginys: "Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi."
   pagrindžia:

@@ -40,21 +40,21 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 ## Teiginiai
 
 <a id="claim-t-91839"></a>
-- t-003
+- t-001
   global_id: t-91839
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos žemės magistru, pasirūpino Švento Jurgio pilies statyba Karšuvoje."
   pagrindžia:
     - c-87480
 
 <a id="claim-t-91840"></a>
-- t-001
+- t-002
   global_id: t-91840
   teiginys: "Švento Jurgio pilis 1259 m. pastatyta Karšuvos žemėje ant švento Jurgio kalno Livonijos ir Prūsijos brolių lėšomis bei darbu."
   pagrindžia:
     - c-87480
 
 <a id="claim-t-91841"></a>
-- t-002
+- t-003
   global_id: t-91841
   teiginys: "1260 m. Livonijos ir Prūsijos broliai ketino nugabenti maisto Švento Jurgio pilies broliams."
   pagrindžia:

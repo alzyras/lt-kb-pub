@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - krikštas
   - vieta
+  - šeima
 amziai:
   - 'XVIII'
   - 'XX'
@@ -39,14 +40,14 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Teiginiai
 
 <a id="claim-t-47037"></a>
-- t-002
+- t-001
   global_id: t-47037
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:
     - c-49573
 
 <a id="claim-t-193221"></a>
-- t-003
+- t-002
   global_id: t-193221
   teiginys: "Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis."
   pagrindžia:

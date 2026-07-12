@@ -39,84 +39,84 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
 ## Teiginiai
 
 <a id="claim-t-187178"></a>
-- t-012
+- t-001
   global_id: t-187178
   teiginys: "Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio."
   pagrindžia:
     - c-170270
 
 <a id="claim-t-187184"></a>
-- t-009
+- t-002
   global_id: t-187184
   teiginys: "Seniausieji Žemutinės pilies įtvirtinimai tebebuvo neištirti, o jų pastatymo data nenustatyta."
   pagrindžia:
     - c-170272
 
 <a id="claim-t-187181"></a>
-- t-006
+- t-003
   global_id: t-187181
   teiginys: "Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų."
   pagrindžia:
     - c-170267
 
 <a id="claim-t-187182"></a>
-- t-002
+- t-004
   global_id: t-187182
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį."
   pagrindžia:
     - c-170271
 
 <a id="claim-t-187183"></a>
-- t-001
+- t-005
   global_id: t-187183
   teiginys: "Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją."
   pagrindžia:
     - c-170269
 
 <a id="claim-t-187184"></a>
-- t-009
+- t-006
   global_id: t-187184
   teiginys: "Seniausieji Žemutinės pilies įtvirtinimai tebebuvo neištirti, o jų pastatymo data nenustatyta."
   pagrindžia:
     - c-170272
 
 <a id="claim-t-187187"></a>
-- t-013
+- t-007
   global_id: t-187187
   teiginys: "Vilniaus Žemutinės pilies teritorijoje XIII a. antrojoje pusėje ir XIV a. pradžioje būta mūrinio pastato."
   pagrindžia:
     - c-170270
 
 <a id="claim-t-187188"></a>
-- t-007
+- t-008
   global_id: t-187188
   teiginys: "Didelė medinė Kreivoji pilis minima kryžiuočių kronikos 1390 m. Vilniaus puolimo aprašyme."
   pagrindžia:
     - c-170268
 
 <a id="claim-t-187196"></a>
-- t-010
+- t-009
   global_id: t-187196
   teiginys: "Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį."
   pagrindžia:
     - c-170272
 
 <a id="claim-t-187178"></a>
-- t-012
+- t-010
   global_id: t-187178
   teiginys: "Vilniaus Žemutinės pilies vietoje, Gedimino kalno papėdėje, sodybų žymių rasta iš I tūkstantmečio vidurio."
   pagrindžia:
     - c-170270
 
 <a id="claim-t-187181"></a>
-- t-006
+- t-011
   global_id: t-187181
   teiginys: "Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų."
   pagrindžia:
     - c-170267
 
 <a id="claim-t-187192"></a>
-- t-011
+- t-012
   global_id: t-187192
   teiginys: "Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu."
   pagrindžia:
@@ -130,21 +130,21 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-170270
 
 <a id="claim-t-187195"></a>
-- t-008
+- t-014
   global_id: t-187195
   teiginys: "1390 m. Vilniaus puolimo metu Kreivoji pilis buvo sudeginta ir daugiau nebeatstatyta."
   pagrindžia:
     - c-170268
 
 <a id="claim-t-187196"></a>
-- t-010
+- t-015
   global_id: t-187196
   teiginys: "Žemutinės pilies įtvirtinimai veikiausiai yra ankstesni už Gedimino laikotarpį."
   pagrindžia:
     - c-170272
 
 <a id="claim-t-187192"></a>
-- t-011
+- t-016
   global_id: t-187192
   teiginys: "Vilniaus Žemoji pilis laikoma Gedimino kalno papėdėje buvusiu gynybinių įrengimų ir kitų pastatų kompleksu."
   pagrindžia:

@@ -69,196 +69,196 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 ## Teiginiai
 
 <a id="claim-t-10565"></a>
-- t-006
+- t-001
   global_id: t-10565
   teiginys: "Bolševikų puolimo planas numatė apeiti ir užpulti Kauną iš pietų, o 5-ajam pulkui pulti Kauną tiesiai pro Kaišiadoris."
   pagrindžia:
     - c-21467
 
 <a id="claim-t-10566"></a>
-- t-007
+- t-002
   global_id: t-10566
   teiginys: "1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link."
   pagrindžia:
     - c-12706
 
 <a id="claim-t-10567"></a>
-- t-008
+- t-003
   global_id: t-10567
   teiginys: "1920 m. vasario 22-23 d. Kaune kilo bolševikų sukurstytas maištas."
   pagrindžia:
     - c-163557
 
 <a id="claim-t-10847"></a>
-- t-092
+- t-004
   global_id: t-10847
   teiginys: "Kaunas buvo stipriausia lietuvių pilis ir kovose su Ordinu suvaidino svarbų vaidmenį."
   pagrindžia:
     - c-163591
 
 <a id="claim-t-10848"></a>
-- t-093
+- t-005
   global_id: t-10848
   teiginys: "Vytautas atstatė Kauno pilį ir kitas Ordino pasienyje sugriautas pilis."
   pagrindžia:
     - c-163563
 
 <a id="claim-t-10850"></a>
-- t-094
+- t-006
   global_id: t-10850
   teiginys: "Kaune atsirado jėzuitų kolegija, funduota brolių Vijūkų Kojelavičių."
   pagrindžia:
     - c-13418
 
 <a id="claim-t-12492"></a>
-- t-011
+- t-007
   global_id: t-12492
   teiginys: "Vytautas Kaune pastatė parapinę ir pranciškonų bažnyčias."
   pagrindžia:
     - c-21469
 
 <a id="claim-t-179916"></a>
-- t-103
+- t-008
   global_id: t-179916
   teiginys: "Vytauto valdymo metu Kaunas ir Polockas buvo du dideli prekybos centrai Lietuvoje."
   pagrindžia:
     - c-163561
 
 <a id="claim-t-179917"></a>
-- t-058
+- t-009
   global_id: t-179917
   teiginys: "1941 m. liepą Heinrichas Himmleris perdavė Kaune veikusiai einzatsgrupei A nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus."
   pagrindžia:
     - c-163553
 
 <a id="claim-t-179918"></a>
-- t-055
+- t-010
   global_id: t-179918
   teiginys: "1935 m. Pasaulio lietuvių kongrese Kaune dalyvavo 3000 delegatų ir svečių iš 19 valstybių."
   pagrindžia:
     - c-163612
 
 <a id="claim-t-179919"></a>
-- t-064
+- t-011
   global_id: t-179919
   teiginys: "1362 metais vokiečiai išgriovė Kauno pilį ir pradėjo brautis giliau į Lietuvą."
   pagrindžia:
     - c-163620
 
 <a id="claim-t-179920"></a>
-- t-069
+- t-012
   global_id: t-179920
   teiginys: "1408 m. Vytautas Kaune suteikė Magdeburgo teises vokiečių pirkliams."
   pagrindžia:
     - c-163567
 
 <a id="claim-t-179921"></a>
-- t-099
+- t-013
   global_id: t-179921
   teiginys: "Aukštieji kursai Kaune peraugo į Lietuvos universitetą, atidarytą 1922 m. vasario 16 d."
   pagrindžia:
     - c-163618
 
 <a id="claim-t-179922"></a>
-- t-059
+- t-014
   global_id: t-179922
   teiginys: "Pirmoji Kauno pilis kronikose paminėta 1361 m. ir pastatyta Nemuno ir Neries santakoje."
   pagrindžia:
     - c-43489
 
 <a id="claim-t-179923"></a>
-- t-031
+- t-015
   global_id: t-179923
   teiginys: "Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį."
   pagrindžia:
     - c-163588
 
 <a id="claim-t-179924"></a>
-- t-029
+- t-016
   global_id: t-179924
   teiginys: "Kaunas buvo Hanzos miestas."
   pagrindžia:
     - c-163555
 
 <a id="claim-t-179925"></a>
-- t-114
+- t-017
   global_id: t-179925
   teiginys: "Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui."
   pagrindžia:
     - c-163583
 
 <a id="claim-t-179927"></a>
-- t-081
+- t-018
   global_id: t-179927
   teiginys: "Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitosiomis kūrė Lietuvos karines pajėgas."
   pagrindžia:
     - c-163604
 
 <a id="claim-t-179928"></a>
-- t-043
+- t-019
   global_id: t-179928
   teiginys: "Lapkričio 15 d. Kaune ant Ernesto Galvanausko miegamojo palangės sprogo bomba, o sužeistas Galvanauskas liko gyvas."
   pagrindžia:
     - c-163580
 
 <a id="claim-t-179929"></a>
-- t-052
+- t-020
   global_id: t-179929
   teiginys: "Kaune lietuviai konstravo ir statė karo bei sporto lėktuvus, įskaitant lengvuosius bombonešius, ir gamino sportinius sklandytuvus."
   pagrindžia:
     - c-163632
 
 <a id="claim-t-179930"></a>
-- t-112
+- t-021
   global_id: t-179930
   teiginys: "1384 m. vasarą Kauno vietoje buvo pastatyta tvirčiausia priešo žemėje mūrinė Marienwerderio pilis."
   pagrindžia:
     - c-163584
 
 <a id="claim-t-179931"></a>
-- t-070
+- t-022
   global_id: t-179931
   teiginys: "Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves."
   pagrindžia:
     - c-163576
 
 <a id="claim-t-179932"></a>
-- t-109
+- t-023
   global_id: t-179932
   teiginys: "Kun. dr. J. Stakausko vokiška disertacija 1934 m. Kaune buvo sulietuvinta ir papildyta."
   pagrindžia:
     - c-163560
 
 <a id="claim-t-179933"></a>
-- t-039
+- t-024
   global_id: t-179933
   teiginys: "1916 m. birželį Lietuvos apskritis su centru Kaune buvo suvienyta su Vilniaus apskritimi."
   pagrindžia:
     - c-163600
 
 <a id="claim-t-179934"></a>
-- t-083
+- t-025
   global_id: t-179934
   teiginys: "1943 m. kovo viduryje gestapas, keršydamas už boikotą, uždarė Kauno ir Vilniaus universitetus."
   pagrindžia:
     - c-163599
 
 <a id="claim-t-179935"></a>
-- t-118
+- t-026
   global_id: t-179935
   teiginys: "1412 m. gruodį Makra, vykdamas per Ragainę ir Kauną, Kalėdoms pasiekė Vytauto pilį Trakuose."
   pagrindžia:
     - c-32116
 
 <a id="claim-t-179937"></a>
-- t-049
+- t-027
   global_id: t-179937
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių religinę ir tautinę dvasią."
   pagrindžia:
     - c-163552
 
 <a id="claim-t-179938"></a>
-- t-030
+- t-028
   global_id: t-179938
   teiginys: "Tarpukariu Kaune buvo projektuojami ir gaminami lėktuvai, o Lietuvos vyrų krepšininkai 1937 ir 1939 m. laimėjo Europos čempionatus."
   pagrindžia:
@@ -272,147 +272,147 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163555
 
 <a id="claim-t-179941"></a>
-- t-057
+- t-030
   global_id: t-179941
   teiginys: "1941 m. birželio 23 d. LAF atstovas Leonas Prapuolenis užimtame Kaune per radiją paskelbė apie Lietuvos valstybės atkūrimą."
   pagrindžia:
     - c-163559
 
 <a id="claim-t-179942"></a>
-- t-078
+- t-031
   global_id: t-179942
   teiginys: "Didžiojo kunigaikščio Aleksandro įsakymu Vilniaus miestiečių laivams su prekėmis buvo garantuota laisva laivyba Vilija iki Kauno ir atgal."
   pagrindžia:
     - c-163573
 
 <a id="claim-t-179943"></a>
-- t-087
+- t-032
   global_id: t-179943
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
   pagrindžia:
     - c-163614
 
 <a id="claim-t-179944"></a>
-- t-082
+- t-033
   global_id: t-179944
   teiginys: "Kaune sumanyta pastatyti Prisikėlimo bažnyčią kaip tautos šventyklą, atspindinčią lietuvių tautos religinę ir tautinę dvasią."
   pagrindžia:
     - c-163552
 
 <a id="claim-t-179946"></a>
-- t-048
+- t-034
   global_id: t-179946
   teiginys: "Kaune veikusi Veterinarijos akademija rengė žemės ūkio specialistus."
   pagrindžia:
     - c-163630
 
 <a id="claim-t-179947"></a>
-- t-090
+- t-035
   global_id: t-179947
   teiginys: "Emmanuelis Levinas gimė Kaune ir baigė gimnaziją."
   pagrindžia:
     - c-163589
 
 <a id="claim-t-179948"></a>
-- t-046
+- t-036
   global_id: t-179948
   teiginys: "Grįžęs į Kauną Augustinas Voldemaras Karininkų ramovėje ir per radiją pareiškė, kad Lietuva išėjo į pasaulinę politiką."
   pagrindžia:
     - c-163622
 
 <a id="claim-t-179951"></a>
-- t-044
+- t-037
   global_id: t-179951
   teiginys: "Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų."
   pagrindžia:
     - c-163568
 
 <a id="claim-t-179953"></a>
-- t-098
+- t-038
   global_id: t-179953
   teiginys: "1920 m. vasario 22-23 d. Kaune kilęs bolševikų sukurstytas maištas galėjo suteikti Lenkijai pretekstą pulti Lietuvą."
   pagrindžia:
     - c-163557
 
 <a id="claim-t-179957"></a>
-- t-042
+- t-039
   global_id: t-179957
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių Kaune susirinko prie rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   pagrindžia:
     - c-163556
 
 <a id="claim-t-179958"></a>
-- t-074
+- t-040
   global_id: t-179958
   teiginys: "1385 m. rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną ir ėmė siaubti kraštą."
   pagrindžia:
     - c-163623
 
 <a id="claim-t-179959"></a>
-- t-107
+- t-041
   global_id: t-179959
   teiginys: "Jablonskis „XVI amžiaus inventorius“ parengė atrinkęs aktus iš Centrinio Valstybės Archyvo Kaune ir kitų Lietuvos archyvų."
   pagrindžia:
     - c-163585
 
 <a id="claim-t-179960"></a>
-- t-085
+- t-042
   global_id: t-179960
   teiginys: "Kauno Įgulos bažnyčioje buvo atidaryti Skulptūros ir vitražo muziejai."
   pagrindžia:
     - c-163609
 
 <a id="claim-t-179961"></a>
-- t-054
+- t-043
   global_id: t-179961
   teiginys: "Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai."
   pagrindžia:
     - c-163587
 
 <a id="claim-t-179962"></a>
-- t-050
+- t-044
   global_id: t-179962
   teiginys: "1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, palaidotas Nežinomas kareivis."
   pagrindžia:
     - c-163593
 
 <a id="claim-t-179963"></a>
-- t-047
+- t-045
   global_id: t-179963
   teiginys: "1939 m. Kaunas turėjo 154 000 gyventojų, iš kurių 60 proc. sudarė lietuviai."
   pagrindžia:
     - c-163605
 
 <a id="claim-t-179964"></a>
-- t-032
+- t-046
   global_id: t-179964
   teiginys: "Po vieno pralaimėto mūšio Vytautas Kaune fundavo bažnyčią, pašvęstą Švč. Mergelei Marijai."
   pagrindžia:
     - c-163574
 
 <a id="claim-t-179966"></a>
-- t-073
+- t-047
   global_id: t-179966
   teiginys: "Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba."
   pagrindžia:
     - c-167241
 
 <a id="claim-t-179968"></a>
-- t-117
+- t-048
   global_id: t-179968
   teiginys: "Pasak senos tradicijos, Vytautas už išsigelbėjimą įkūrė pranciškonų vienuolynus Kaune ir Ašmenoje."
   pagrindžia:
     - c-163611
 
 <a id="claim-t-179969"></a>
-- t-079
+- t-049
   global_id: t-179969
   teiginys: "Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime."
   pagrindžia:
     - c-163558
 
 <a id="claim-t-179970"></a>
-- t-108
+- t-050
   global_id: t-179970
   teiginys: "Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune."
   pagrindžia:
@@ -426,252 +426,252 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-163598
 
 <a id="claim-t-179972"></a>
-- t-075
+- t-052
   global_id: t-179972
   teiginys: "1388 m. ties Kaunu buvo sudaryta taikos sutartis tarp Ordino maršalo Engelhardo Rabės ir Lietuvos."
   pagrindžia:
     - c-163569
 
 <a id="claim-t-179973"></a>
-- t-097
+- t-053
   global_id: t-179973
   teiginys: "1941 m. birželio 23 d. užėmus Kauno radiją, LAF atstovas Leonas Prapuolenis paskelbė apie Lietuvos valstybės atkūrimą."
   pagrindžia:
     - c-163559
 
 <a id="claim-t-179974"></a>
-- t-067
+- t-054
   global_id: t-179974
   teiginys: "Vytautas Kauno sutarties su Ordinu atveju veikė savarankiškai, kai jam to reikėjo politikoje."
   pagrindžia:
     - c-37433
 
 <a id="claim-t-179975"></a>
-- t-037
+- t-055
   global_id: t-179975
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį nutiesta geležinkelio atšaka per Kauną į Karaliaučių."
   pagrindžia:
     - c-163608
 
 <a id="claim-t-179976"></a>
-- t-095
+- t-056
   global_id: t-179976
   teiginys: "Po santykių su Lenkija sunormavimo buvo atstatytos Kauno ir kitos ordino pasienyje sugriautos pilys."
   pagrindžia:
     - c-46522
 
 <a id="claim-t-179977"></a>
-- t-036
+- t-057
   global_id: t-179977
   teiginys: "1831 m. birželį Antano Gelgaudo vadovaujama Lenkijos karalystės kariuomenė lengvai užėmė Kauną."
   pagrindžia:
     - c-163603
 
 <a id="claim-t-179978"></a>
-- t-111
+- t-058
   global_id: t-179978
   teiginys: "Kaunas tačiau buvo per toli nuo ordino žemių."
   pagrindžia:
     - c-163616
 
 <a id="claim-t-179979"></a>
-- t-091
+- t-059
   global_id: t-179979
   teiginys: "1385 metų rugpjūtį didysis magistras Konradas Ciolneris Rotenšteinas ties Kaunu persikėlė per Nemuną."
   pagrindžia:
     - c-163623
 
 <a id="claim-t-179980"></a>
-- t-086
+- t-060
   global_id: t-179980
   teiginys: "1950 m. Kauno universitetas buvo reorganizuotas į Kauno politechnikos institutą ir Kauno medicinos institutą."
   pagrindžia:
     - c-163629
 
 <a id="claim-t-179981"></a>
-- t-093
+- t-061
   global_id: t-179981
   teiginys: "Žygimantas Vilniaus miestiečiams leido be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Kauną."
   pagrindžia:
     - c-163573
 
 <a id="claim-t-179982"></a>
-- t-034
+- t-062
   global_id: t-179982
   teiginys: "Vytauto laikais Kaunas kartu su Vilniumi ir Trakais išryškėjo kaip Lietuvos gotikos epicentro dalis."
   pagrindžia:
     - c-163596
 
 <a id="claim-t-179983"></a>
-- t-038
+- t-063
   global_id: t-179983
   teiginys: "1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę."
   pagrindžia:
     - c-163554
 
 <a id="claim-t-179984"></a>
-- t-033
+- t-064
   global_id: t-179984
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno vyko derybos su Vokiečių ordino maršalu Mykolu Kiuchmeisteriu fon Štenbergu."
   pagrindžia:
     - c-163565
 
 <a id="claim-t-179985"></a>
-- t-110
+- t-065
   global_id: t-179985
   teiginys: "1362 m. pavasarį Prūsų kryžiuočiai, remiami svečių ir Livonijos magistro, išgriovė lietuvių pilį Kaune."
   pagrindžia:
     - c-163613
 
 <a id="claim-t-179988"></a>
-- t-113
+- t-066
   global_id: t-179988
   teiginys: "1382 m. birželio pabaigoje kryžiuočiai sunaikino Kauno apylinkėje ant Neries kranto stovėjusią Eigulių pilį."
   pagrindžia:
     - c-163628
 
 <a id="claim-t-179989"></a>
-- t-084
+- t-067
   global_id: t-179989
   teiginys: "Atšilimo laikotarpiu sovietinės industrializacijos metu Lietuvoje pastatyta Kauno hidroelektrinė."
   pagrindžia:
     - c-163575
 
 <a id="claim-t-179990"></a>
-- t-088
+- t-068
   global_id: t-179990
   teiginys: "Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą."
   pagrindžia:
     - c-163615
 
 <a id="claim-t-179991"></a>
-- t-096
+- t-069
   global_id: t-179991
   teiginys: "1985 m. Petro Dusburgiečio „Prūsijos žemės kronikos“ leidinys spausdintas K. Požėlos spaustuvėje Kaune."
   pagrindžia:
     - c-163592
 
 <a id="claim-t-179992"></a>
-- t-035
+- t-070
   global_id: t-179992
   teiginys: "Pažaislio vienuolyno ansamblis prie Kauno minimas tarp europinės reikšmės meno kūrinių."
   pagrindžia:
     - c-163621
 
 <a id="claim-t-179993"></a>
-- t-115
+- t-071
   global_id: t-179993
   teiginys: "Kaune, buvusioje Kęstučio pilies vietoje, buvo pastatyta tvirta mūrinė Marienwerderio pilis."
   pagrindžia:
     - c-163562
 
 <a id="claim-t-179994"></a>
-- t-089
+- t-072
   global_id: t-179994
   teiginys: "Birželio 10 d. Lietuvos Persitvarkymo Sąjūdžio iniciatyvinė grupė buvo įsteigta Kaune."
   pagrindžia:
     - c-163572
 
 <a id="claim-t-179995"></a>
-- t-119
+- t-073
   global_id: t-179995
   teiginys: "Makrai pasirinkus Kauną bylos sprendimo vieta, abi pusės ten pristatinėjo savo liudininkus."
   pagrindžia:
     - c-163581
 
 <a id="claim-t-179996"></a>
-- t-056
+- t-074
   global_id: t-179996
   teiginys: "Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą."
   pagrindžia:
     - c-163631
 
 <a id="claim-t-179997"></a>
-- t-095
+- t-075
   global_id: t-179997
   teiginys: "Šach Achmedas buvo iki gyvos galvos įkalintas Kauno kalėjime."
   pagrindžia:
     - c-163551
 
 <a id="claim-t-179998"></a>
-- t-094
+- t-076
   global_id: t-179998
   teiginys: "Aleksandras garantavo Vilniaus miestiečiams laisvą prekių laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   pagrindžia:
     - c-163558
 
 <a id="claim-t-179999"></a>
-- t-065
+- t-077
   global_id: t-179999
   teiginys: "1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos."
   pagrindžia:
     - c-163577
 
 <a id="claim-t-183599"></a>
-- t-120
+- t-078
   global_id: t-183599
   teiginys: "Gegužės 15 d. laikinojoje sostinėje Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų."
   pagrindžia:
     - c-166991
 
 <a id="claim-t-179966"></a>
-- t-073
+- t-079
   global_id: t-179966
   teiginys: "Kaunas senovėje buvo laikomas vartais į pagoniškąją Lietuvą ir garsėjo tvirtovėmis bei prekyba."
   pagrindžia:
     - c-167241
 
 <a id="claim-t-184974"></a>
-- t-123
+- t-080
   global_id: t-184974
   teiginys: "Kaunas buvo įkurtas Neries ir Nemuno santakoje ir pavadintas įkūrėjo atminimui."
   pagrindžia:
     - c-168335
 
 <a id="claim-t-184975"></a>
-- t-124
+- t-081
   global_id: t-184975
   teiginys: "1362 m. kryžiuočiai užgriuvo Kauną ir po ilgos apsiausties užėmė pilį."
   pagrindžia:
     - c-168336
 
 <a id="claim-t-184976"></a>
-- t-125
+- t-082
   global_id: t-184976
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę iš griuvėsių kelti mėginusius darbininkus ir išardė pradėtą pilį."
   pagrindžia:
     - c-168337
 
 <a id="claim-t-184977"></a>
-- t-126
+- t-083
   global_id: t-184977
   teiginys: "Žiemą Vytautas tylomis miškais priėjo prie Kauno, tikėdamasis užimti miestą ir pilį Neries bei Nemuno santakoje."
   pagrindžia:
     - c-168338
 
 <a id="claim-t-184978"></a>
-- t-127
+- t-084
   global_id: t-184978
   teiginys: "Dėl stiprių lietuvių ir lenkų samdytinių įgulų Vytautui Kauną apsiausti buvo sunkiau, nei jis tikėjosi."
   pagrindžia:
     - c-168339
 
 <a id="claim-t-184979"></a>
-- t-128
+- t-085
   global_id: t-184979
   teiginys: "Vytautas Kaune pastatė šv. Pranciškaus ordino vienuoliams bažnyčią bei vienuolyną ir dosniai juos apdovanojo."
   pagrindžia:
     - c-168340
 
 <a id="claim-t-184980"></a>
-- t-129
+- t-086
   global_id: t-184980
   teiginys: "Jogaila, susitaręs su Vytautu ir dėdamasis turįs kitų ketinimų, atvyko į Kauną."
   pagrindžia:
     - c-168341
 
 <a id="claim-t-184981"></a>
-- t-130
+- t-087
   global_id: t-184981
   teiginys: "Karalius likusius žiemos mėnesius praleido Kaune, nes Vilniuje ir Gardine siautė maras."
   pagrindžia:
@@ -769,28 +769,28 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - c-173537
 
 <a id="claim-t-192670"></a>
-- t-131
+- t-101
   global_id: t-192670
   teiginys: "Prie Kauno rasta senovinė lietuviška moneta, kurios vienoje pusėje buvo Gediminaičių Stulpai ir neaiški raidė."
   pagrindžia:
     - c-175440
 
 <a id="claim-t-193189"></a>
-- t-132
+- t-102
   global_id: t-193189
   teiginys: "Todėl prie Dauguvos iškilo didelis prekybos centras Polockas, o prie Nemuno — Kaunas."
   pagrindžia:
     - c-175933
 
 <a id="claim-t-193638"></a>
-- t-133
+- t-103
   global_id: t-193638
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
   pagrindžia:
     - c-176309
 
 <a id="claim-t-194986"></a>
-- t-134
+- t-104
   global_id: t-194986
   teiginys: "Jurgio Talmanto vertimas, Kaunas 1930) reikalavo į šį didį valdovą žiūrėti lietuvių požiūriu."
   pagrindžia:
@@ -1063,6 +1063,10 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/daiktai/Kauno miesto dievo-globėjo (Penatis) stabas.md#claim-t-192058|Kauno miesto dievo-globėjo (Penatis) stabas]]: Narbutas Kaune 1818 m. rastą bronzinę statulėlę apibūdina kaip sukryžiuotomis kojomis būtybę su miesto vaizdu ant galvos ir trimis žuvimis rankoje.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195568|1902 m. A. R. Niemio kelionė į Lietuvą]]: Per šią kelionę A. R. Niemis lankė Kauną ir buvo nuolat sekamas rusų žandarų.
+- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195580|1930 m. A. R. Niemio kelionė į Kauną]]: 1930 m. A. R. Niemis vėl buvo atkeliavęs į Kauną.
+- susijęs iš Medžiaga Lietuvos mokyklų reformai: 1920 m. A. R. Niemio „Medžiaga Lietuvos mokyklų reformai“ išleista Kaune.
+- susijęs iš Mūsų tautosaka, t. 4 (1931): „Mūsų tautosaka“, t. 4, yra 1931 m. Kaune išleistas Tautosakos komisijos leidinys, redaguotas prof. V. Krėvės Mickevičiaus.
 - susijęs iš Aleksotas: Narbutas Aleksoto pavadinimą siejo su Kauno apylinkių deivės garbinimo tyrimais ir lygino jį su nimfos Alexothe vardu.
 - susijęs iš Betygala: Aukokalnis buvo ties dabartine Betygala, o nuo jo pradėtas apaštalavimo darbas Žemaitijoje.
 - susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
@@ -1710,6 +1714,14 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
 - susijęs iš [[objektai/asmenys/Petras Kubiliūnas.md#claim-t-19193|Petras Kubiliūnas]]: Petras Kubiliūnas 1934 m. vadovavo dalinių išvedimui į Kauno gatves, laikytam pavojingiausiu voldemarininkų pučo bandymu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178954|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai, remiami Livonijos magistro ir svečių iš Vakarų, išgriovė Kauno pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178971|Kryžiuočių ordinas]]: 1362 m. pavasarį Prūsų kryžiuočiai su sąjungininkais išgriovė svarbią lietuvių pilį Kauną prie Nemuno ir Neries santakos.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195574|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Kelionių maršrute buvo Kaunas, Tilžė, Karaliaučius, Vilnius ir Ryga.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195575|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Per šias keliones A. R. Niemis surinko apie 3500 liaudies dainų.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195576|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910 m. A. R. Niemis rinko dainas šiaurės rytų Lietuvoje.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195577|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910-1912 m. A. R. Niemis keliavo po Lietuvą ir Latviją lietuvių tautosakos studijų tikslais.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
+- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195579|1930 m. A. R. Niemio kelionė į Kauną]]: Šios kelionės tikslas buvo susipažinti su naujais lietuvių liaudies dainų rinkiniais.
+- susijęs iš Lietuvių dainos ir giesmės: Per 1910-1912 m. keliones A. R. Niemis surinko apie 3500 liaudies dainų, kurių dalis išleista „Lietuvių dainos ir giesmės“ knygoje drauge su A. Sabaliausko rinkiniu.
+- susijęs iš Kariela: 1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą.
 - susijęs iš Malburgas: Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę.
 - susijęs iš Prisikėlimo bažnyčia: Prisikėlimo bažnyčia pagal Karolio Reisono projektą buvo statoma iš gelžbetonio plokščių.
 - susijęs iš Prisikėlimo bažnyčia: Prisikėlimo bažnyčia buvo laikoma tautos šventykla, turėjusia atspindėti lietuvių tautos religinę ir tautinę dvasią.

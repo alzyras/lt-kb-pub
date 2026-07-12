@@ -36,28 +36,28 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 ## Teiginiai
 
 <a id="claim-t-96811"></a>
-- t-004
+- t-001
   global_id: t-96811
   teiginys: "Vokiečių pirkliai ir misionieriai, pradėję lankytis lybių gyvenamuose kraštuose, pirmiausia susidūrė su lybiais."
   pagrindžia:
     - c-91418
 
 <a id="claim-t-96812"></a>
-- t-003
+- t-002
   global_id: t-96812
   teiginys: "XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje."
   pagrindžia:
     - c-91417
 
 <a id="claim-t-96813"></a>
-- t-001
+- t-003
   global_id: t-96813
   teiginys: "Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai."
   pagrindžia:
     - c-91416
 
 <a id="claim-t-193117"></a>
-- t-005
+- t-004
   global_id: t-193117
   teiginys: "Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai."
   pagrindžia:

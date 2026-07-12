@@ -13,6 +13,7 @@ tags:
   - asmuo
   - karalius
   - krikštas
+  - šventė
 amziai:
   - 'XI'
 periodo_grupes:
@@ -39,7 +40,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
 ## Teiginiai
 
 <a id="claim-t-18861"></a>
-- t-003
+- t-001
   global_id: t-18861
   teiginys: "Eidintas ir bendraautoriai rašo, kad Brunonas Bonifacijus atrado Lietuvą ir jos „karalių“ Netimerą, kuris įtikėjo ir krikštijosi."
   pagrindžia:
@@ -53,7 +54,7 @@ Atrodo, kad lietuvių gentis I tūkstantmečio pabaigoje bene sparčiausiai vyst
     - c-21634
 
 <a id="claim-t-18863"></a>
-- t-001
+- t-003
   global_id: t-18863
   teiginys: "Brunonas Bonifacijus iš prūsų specialiai vyko į Lietuvą, čia pakrikštijo vadą Netimerą ir vėliau žuvo nuo jo brolio rankos."
   pagrindžia:

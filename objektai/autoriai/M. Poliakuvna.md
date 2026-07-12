@@ -35,28 +35,28 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
 ## Teiginiai
 
 <a id="claim-t-64724"></a>
-- t-003
+- t-001
   global_id: t-64724
   teiginys: "M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome."
   pagrindžia:
     - c-65358
 
 <a id="claim-t-64725"></a>
-- t-004
+- t-002
   global_id: t-64725
   teiginys: "M. Poliakuvna 1968 m. Vroclave, Varšuvoje ir Krokuvoje išleido darbą „Kronika Piotra z Dusburga“."
   pagrindžia:
     - c-65359
 
 <a id="claim-t-64726"></a>
-- t-001
+- t-003
   global_id: t-64726
   teiginys: "M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge."
   pagrindžia:
     - c-65361
 
 <a id="claim-t-64727"></a>
-- t-002
+- t-004
   global_id: t-64727
   teiginys: "M. Poliakuvna parašė darbą „Zanik ludności pruskiej“, paskelbtą 1958 m. Varšuvoje leidinyje „Pomorze średniowieczne“."
   pagrindžia:

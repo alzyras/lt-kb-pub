@@ -41,7 +41,7 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
 ## Teiginiai
 
 <a id="claim-t-79083"></a>
-- t-003
+- t-001
   global_id: t-79083
   teiginys: "Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę."
   pagrindžia:
@@ -55,14 +55,14 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - c-76178
 
 <a id="claim-t-190906"></a>
-- t-004
+- t-003
   global_id: t-190906
   teiginys: "Narbuto pasakojime Konrado valdymo Mazovijoje metu Gotardas kautynėse suėmė septynis jotvingių kunigaikštukus, išsipirkusius sidabru."
   pagrindžia:
     - c-173788
 
 <a id="claim-t-190907"></a>
-- t-005
+- t-004
   global_id: t-190907
   teiginys: "Narbutas vaizduoja Konradą kaip Mazovijos kunigaikštį, XIII a. pradžioje pasiekusį laimėjimų Jotvingijoje ir valdžiusį Drohičiną."
   pagrindžia:

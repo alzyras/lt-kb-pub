@@ -21,6 +21,7 @@ tags:
   - bajorija
   - grupe
   - kunigaikštis
+  - šeima
 amziai:
   - 'XIV'
   - 'XVII'
@@ -46,7 +47,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
 ## Teiginiai
 
 <a id="claim-t-74888"></a>
-- t-003
+- t-001
   global_id: t-74888
   teiginys: "Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis."
   pagrindžia:
@@ -60,14 +61,14 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - c-72866
 
 <a id="claim-t-74890"></a>
-- t-004
+- t-003
   global_id: t-74890
   teiginys: "Vienas iš Radvilų 1615 m. laiške rašė, kad Lietuvoje reikia vartoti lenkų kalbą."
   pagrindžia:
     - c-72863
 
 <a id="claim-t-184578"></a>
-- t-005
+- t-004
   global_id: t-184578
   teiginys: "Augustas liepė nutiesti takelį iš pilies į Barboros Radvilaitės sodus ir pastatyti tiltuką per Vilnią."
   pagrindžia:

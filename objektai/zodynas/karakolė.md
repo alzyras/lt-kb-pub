@@ -50,35 +50,35 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 ## Teiginiai
 
 <a id="claim-t-42460"></a>
-- t-005
+- t-001
   global_id: t-42460
   teiginys: "Karakolė, arba „sraigė“, reiškė šaulių priekinės eilės pasitraukimą į rikiuotės galą po salvės."
   pagrindžia:
     - c-167098
 
 <a id="claim-t-42461"></a>
-- t-003
+- t-002
   global_id: t-42461
   teiginys: "Karakolė buvo taktika, kai priekinė šaulių eilė po salvės pasisukdavo dešinėn, žygiuodavo į rikiuotės galą ir ten užtaisydavo ginklus."
   pagrindžia:
     - c-167098
 
 <a id="claim-t-42462"></a>
-- t-004
+- t-003
   global_id: t-42462
   teiginys: "Švedų raitarai pasikliovė karakoliavimo taktika."
   pagrindžia:
     - c-45521
 
 <a id="claim-t-42463"></a>
-- t-006
+- t-004
   global_id: t-42463
   teiginys: "Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio."
   pagrindžia:
     - c-45521
 
 <a id="claim-t-183710"></a>
-- t-007
+- t-005
   global_id: t-183710
   teiginys: "Karakolės metu priekinė šaulių eilė, iššovusi salvę, pasisukdavo dešinėn, grįždavo į rikiuotės galą ir ten užtaisydavo ginklus."
   pagrindžia:

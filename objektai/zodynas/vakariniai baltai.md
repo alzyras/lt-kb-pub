@@ -39,7 +39,7 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
 ## Teiginiai
 
 <a id="claim-t-70376"></a>
-- t-003
+- t-001
   global_id: t-70376
   teiginys: "Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui."
   pagrindžia:
@@ -53,21 +53,21 @@ Vartojama kalbiniams, kultūriniams ir istoriografiniams baltų ryšiams aiškin
     - c-69410
 
 <a id="claim-t-70378"></a>
-- t-005
+- t-003
   global_id: t-70378
   teiginys: "Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo."
   pagrindžia:
     - c-69410
 
 <a id="claim-t-70380"></a>
-- t-001
+- t-004
   global_id: t-70380
   teiginys: "Vakarų baltų prūsų tarmės skyrėsi nuo rytų baltų lietuvių ir latvių tarmių."
   pagrindžia:
     - c-69413
 
 <a id="claim-t-70381"></a>
-- t-004
+- t-005
   global_id: t-70381
   teiginys: "Vakarų baltų, arba prūsų, tarmės daugeliu atvejų laikomos archaiškesnėmis už rytų baltų lietuvių ir latvių tarmes."
   pagrindžia:

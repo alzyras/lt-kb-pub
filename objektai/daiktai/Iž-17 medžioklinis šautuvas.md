@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+  - institucija
   - seimas
 amziai:
   - 'XX'

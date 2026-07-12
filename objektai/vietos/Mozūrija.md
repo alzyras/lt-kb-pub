@@ -39,21 +39,21 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
 ## Teiginiai
 
 <a id="claim-t-79842"></a>
-- t-002
+- t-001
   global_id: t-79842
   teiginys: "1432 m. Švitrigaila sustiprino ryšius su Mozūrija, Naugardu, Pskovu, Odojevo ir Tverės kunigaikščiais."
   pagrindžia:
     - c-76766
 
 <a id="claim-t-79843"></a>
-- t-004
+- t-002
   global_id: t-79843
   teiginys: "1432 m. gegužės 15 d. Skirsnemunėje Švitrigaila patvirtino sutartį su Ordinu ir sustiprino ryšius su Mozūrija."
   pagrindžia:
     - c-76766
 
 <a id="claim-t-79845"></a>
-- t-001
+- t-003
   global_id: t-79845
   teiginys: "Gediminas laiškuose į Lietuvą kviečiamiems vakarų svetimšaliams rekomendavo kelią per Mozūriją."
   pagrindžia:

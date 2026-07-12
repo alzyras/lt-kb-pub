@@ -65,28 +65,28 @@ Taurė siejama su masonų apeigomis; jos raižinyje pateikti keli simboliniai ob
 ## Teiginiai
 
 <a id="claim-t-187809"></a>
-- t-005
+- t-001
   global_id: t-187809
   teiginys: "Viename masonų apeigų taurės šone buvo išraižytas įrašas „Teodor Narbutt“, kitame – stalas su kaukole, kalaviju ir kitais simboliais."
   pagrindžia:
     - c-170766
 
 <a id="claim-t-187810"></a>
-- t-004
+- t-002
   global_id: t-187810
   teiginys: "Lietuvos istorijos ir etnografijos muziejaus rinkiniuose saugota taurė aprašyta kaip masonų apeigų atributas."
   pagrindžia:
     - c-170766
 
 <a id="claim-t-187811"></a>
-- t-006
+- t-003
   global_id: t-187811
   teiginys: "Ant masonų apeigų taurės buvo išgraviruota data „1817 m.“."
   pagrindžia:
     - c-170766
 
 <a id="claim-t-188384"></a>
-- t-007
+- t-004
   global_id: t-188384
   teiginys: "Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose."
   pagrindžia:

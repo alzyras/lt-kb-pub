@@ -41,42 +41,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-65304"></a>
-- t-006
+- t-001
   global_id: t-65304
   teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
   pagrindžia:
     - c-42707
 
 <a id="claim-t-65305"></a>
-- t-003
+- t-002
   global_id: t-65305
   teiginys: "Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
   pagrindžia:
     - c-42704
 
 <a id="claim-t-65306"></a>
-- t-004
+- t-003
   global_id: t-65306
   teiginys: "Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija."
   pagrindžia:
     - c-42705
 
 <a id="claim-t-65307"></a>
-- t-002
+- t-004
   global_id: t-65307
   teiginys: "1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką."
   pagrindžia:
     - c-22455
 
 <a id="claim-t-65308"></a>
-- t-001
+- t-005
   global_id: t-65308
   teiginys: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai."
   pagrindžia:
     - c-22454
 
 <a id="claim-t-65309"></a>
-- t-005
+- t-006
   global_id: t-65309
   teiginys: "Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus."
   pagrindžia:

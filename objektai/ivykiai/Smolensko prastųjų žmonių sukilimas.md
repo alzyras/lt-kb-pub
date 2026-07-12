@@ -54,14 +54,14 @@ Nenurodyta
     - c-169905
 
 <a id="claim-t-186631"></a>
-- t-003
+- t-002
   global_id: t-186631
   teiginys: "Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės."
   pagrindžia:
     - c-169905
 
 <a id="claim-t-186632"></a>
-- t-002
+- t-003
   global_id: t-186632
   teiginys: "Lietuvos metraščio pasakojime po Velykų Smolensko prastieji žmonės sumanė išvaryti Andrių, apsiginklavo ietimis, dalgiais ir kirviais bei ėmė skambinti varpu."
   pagrindžia:

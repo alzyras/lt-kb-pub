@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - tauta
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -53,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-183239"></a>
-- t-002
+- t-001
   global_id: t-183239
   teiginys: "Lietuvos demokratų partija susikūrė 1902 m. „Varpą“ leidusios organizacijos pagrindu."
   pagrindžia:

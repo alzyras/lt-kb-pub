@@ -40,147 +40,147 @@ Julijona šiame įraše atskirta kaip Vytauto žmona, minima jo šeimos, karūna
 ## Teiginiai
 
 <a id="claim-t-113831"></a>
-- t-023
+- t-001
   global_id: t-113831
   teiginys: "Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus."
   pagrindžia:
     - c-105023
 
 <a id="claim-t-113832"></a>
-- t-017
+- t-002
   global_id: t-113832
   teiginys: "Vytauto žmona Julijona, Algimanto Alšėniškio duktė, išpažino graikų apeigų tikėjimą ir turėjo koplyčią Trakų pilyje."
   pagrindžia:
     - c-105018
 
 <a id="claim-t-113833"></a>
-- t-018
+- t-003
   global_id: t-113833
   teiginys: "1426 m. sirgusi didžioji kunigaikštienė Julijona iš Pauliaus Rusdorfo gavo dovanų atsiųstų gydomųjų gėrimų."
   pagrindžia:
     - c-105025
 
 <a id="claim-t-113834"></a>
-- t-011
+- t-004
   global_id: t-113834
   teiginys: "Algimanto Alšėniškio duktė Julijona išpažino graikų apeigų tikėjimą ir Trakų pilyje turėjo koplyčią."
   pagrindžia:
     - c-105018
 
 <a id="claim-t-113844"></a>
-- t-004
+- t-005
   global_id: t-113844
   teiginys: "Julijona buvo trečioji Vytauto žmona."
   pagrindžia:
     - c-16099
 
 <a id="claim-t-113836"></a>
-- t-013
+- t-006
   global_id: t-113836
   teiginys: "1426 m. Julijona jau metus sirgo, o ligai paūmėjus, pasak laiško, visiškai negalėjo valgyti."
   pagrindžia:
     - c-105019
 
 <a id="claim-t-113837"></a>
-- t-012
+- t-007
   global_id: t-113837
   teiginys: "1426 m. Julijona iš didžiojo magistro Pauliaus Rusdorfo gavo jai atsiųstų gydomųjų gėrimų."
   pagrindžia:
     - c-105016
 
 <a id="claim-t-113848"></a>
-- t-007
+- t-008
   global_id: t-113848
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:
     - c-105028
 
 <a id="claim-t-113839"></a>
-- t-015
+- t-009
   global_id: t-113839
   teiginys: "Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus."
   pagrindžia:
     - c-105022
 
 <a id="claim-t-113840"></a>
-- t-019
+- t-010
   global_id: t-113840
   teiginys: "1426 m. Julijona jau metus sirgo, o jos liga buvo taip paūmėjusi, kad ji visiškai negalėjo valgyti."
   pagrindžia:
     - c-105019
 
 <a id="claim-t-113841"></a>
-- t-021
+- t-011
   global_id: t-113841
   teiginys: "Julijona ir Vytauto bajorai ragino Vytautą nenusileisti dėl karūnavimosi vilčių."
   pagrindžia:
     - c-105021
 
 <a id="claim-t-113842"></a>
-- t-010
+- t-012
   global_id: t-113842
   teiginys: "Kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą."
   pagrindžia:
     - c-105015
 
 <a id="claim-t-113843"></a>
-- t-005
+- t-013
   global_id: t-113843
   teiginys: "Karūnacijos vilčių žlugimo metu Julijona ypač ragino Vytautą nenusileisti."
   pagrindžia:
     - c-21351
 
 <a id="claim-t-113844"></a>
-- t-004
+- t-014
   global_id: t-113844
   teiginys: "Julijona buvo trečioji Vytauto žmona."
   pagrindžia:
     - c-16099
 
 <a id="claim-t-113845"></a>
-- t-022
+- t-015
   global_id: t-113845
   teiginys: "Vytauto žmona kunigaikštienė Julijona gailiai apraudojo mirusį Vytautą."
   pagrindžia:
     - c-15948
 
 <a id="claim-t-113846"></a>
-- t-009
+- t-016
   global_id: t-113846
   teiginys: "Julijona ypač įkalbinėjo Vytautą nenusileisti."
   pagrindžia:
     - c-105021
 
 <a id="claim-t-113847"></a>
-- t-008
+- t-017
   global_id: t-113847
   teiginys: "Istorikai nurodo, kad trečiosios Vytauto žmonos vardas buvo Julijona."
   pagrindžia:
     - c-105024
 
 <a id="claim-t-113848"></a>
-- t-007
+- t-018
   global_id: t-113848
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:
     - c-105028
 
 <a id="claim-t-113849"></a>
-- t-006
+- t-019
   global_id: t-113849
   teiginys: "Po Vytauto mirties jį apraudojo jo žmona kunigaikštienė Julijona."
   pagrindžia:
     - c-15948
 
 <a id="claim-t-184744"></a>
-- t-024
+- t-020
   global_id: t-184744
   teiginys: "Po žmonos Onos mirties Vytautas Trakuose nutarė tuoktis su Julijona, Alšėnų kunigaikščio Algimantaičio dukra."
   pagrindžia:
     - c-168105
 
 <a id="claim-t-184745"></a>
-- t-025
+- t-021
   global_id: t-184745
   teiginys: "Kojelavičius vaizduoja Vilniaus vyskupą Petrą kaip atkakliai prieštaravusį Vytauto ir Julijonos santuokai, nes ji esą pažeidė Dievo ir žmonių įstatymus."
   pagrindžia:

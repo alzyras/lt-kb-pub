@@ -38,77 +38,77 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75461"></a>
-- t-002
+- t-001
   global_id: t-75461
   teiginys: "1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą."
   pagrindžia:
     - c-73237
 
 <a id="claim-t-75462"></a>
-- t-003
+- t-002
   global_id: t-75462
   teiginys: "Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis 1920 m. liepos 12 d. taikos sutartį su Sovietų Rusija vertino kaip didelį Lietuvos diplomatijos laimėjimą."
   pagrindžia:
     - c-166761
 
 <a id="claim-t-75463"></a>
-- t-008
+- t-003
   global_id: t-75463
   teiginys: "Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių."
   pagrindžia:
     - c-73238
 
 <a id="claim-t-75464"></a>
-- t-001
+- t-004
   global_id: t-75464
   teiginys: "1920 m. pradžioje Lietuva sutiko pradėti derybas."
   pagrindžia:
     - c-73237
 
 <a id="claim-t-75468"></a>
-- t-011
+- t-005
   global_id: t-75468
   teiginys: "Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija."
   pagrindžia:
     - c-73242
 
 <a id="claim-t-75469"></a>
-- t-009
+- t-006
   global_id: t-75469
   teiginys: "1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai."
   pagrindžia:
     - c-73240
 
 <a id="claim-t-75470"></a>
-- t-010
+- t-007
   global_id: t-75470
   teiginys: "1920 m. liepą Vilnių Lietuvai perdavė bolševikai, o ne lenkai."
   pagrindžia:
     - c-73243
 
 <a id="claim-t-75471"></a>
-- t-004
+- t-008
   global_id: t-75471
   teiginys: "Prie 1920 m. taikos sutarties 2 straipsnio sovietai įtraukė slaptą papildymą dėl Rusijos dalinių įėjimo į Lietuvą karo su Lenkija metu."
   pagrindžia:
     - c-73234
 
 <a id="claim-t-183367"></a>
-- t-012
+- t-009
   global_id: t-183367
   teiginys: "1920 m. taikos sutarties 1 straipsniu Rusija atsisakė teisių į Lietuvą ir pripažino Lietuvos nepriklausomybę bei suverenumą."
   pagrindžia:
     - c-166760
 
 <a id="claim-t-183368"></a>
-- t-013
+- t-010
   global_id: t-183368
   teiginys: "Lietuviai sutiko į 1920 m. taikos sutartį įrašyti, kad Lietuva ir Sovietų Rusija niekada nebuvo karo padėtyje."
   pagrindžia:
     - c-166761
 
 <a id="claim-t-193595"></a>
-- t-014
+- t-011
   global_id: t-193595
   teiginys: "Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos."
   pagrindžia:

@@ -36,7 +36,7 @@ Vartojamos formos: `tėvūnijomis`, `pavietėmis`, `tėvūnu`, `paviete`, `tėv�
 ## Teiginiai
 
 <a id="claim-t-07700"></a>
-- t-003
+- t-001
   global_id: t-07700
   teiginys: "Tėvūnija, arba pavietė, buvo maža Lietuvos ūkės apygarda."
   pagrindžia:

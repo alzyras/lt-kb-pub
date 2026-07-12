@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - reforma
   - sąvoka
   - valstybė
@@ -31,14 +32,14 @@ Pati žemės reformos strategija kuriama ir diegiama vadovaujantis iš viršaus 
 ## Teiginiai
 
 <a id="claim-t-75594"></a>
-- t-002
+- t-001
   global_id: t-75594
   teiginys: "Dėl žemės reformos dauguma Lietuvos ūkių buvo per smulkūs, kad šeimai garantuotų minimalų gyvenimo lygį atitinkančias pajamas."
   pagrindžia:
     - c-25041
 
 <a id="claim-t-75597"></a>
-- t-004
+- t-002
   global_id: t-75597
   teiginys: "Žemės reformos strategija buvo kuriama ir diegiama iš viršaus į apačią, nepaisant žemės ūkyje dirbusiųjų nuomonės."
   pagrindžia:

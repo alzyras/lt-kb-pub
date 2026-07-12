@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89368"></a>
-- t-002
+- t-001
   global_id: t-89368
   teiginys: "Magistras su kariuomene įsiveržė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį su sąlyga, kad jie galės išeiti su manta."
   pagrindžia:
     - c-85320
 
 <a id="claim-t-89369"></a>
-- t-003
+- t-002
   global_id: t-89369
   teiginys: "Liudvikas iš Libencelės pas magistrą Konradą atvedė Kantigirdą ir 1600 sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą."
   pagrindžia:
     - c-85322
 
 <a id="claim-t-89370"></a>
-- t-001
+- t-003
   global_id: t-89370
   teiginys: "Liudvikas iš Libencelės pas magistrą atvedė Kantigirdą ir 1600 abiejų lyčių sūduvių, kuriuos nelaisvėje atvertė į Kristaus tikėjimą."
   pagrindžia:

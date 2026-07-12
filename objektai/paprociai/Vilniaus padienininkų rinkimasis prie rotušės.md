@@ -9,7 +9,9 @@ date_start: '1547'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - kasdienybė
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -62,14 +64,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54741"></a>
-- t-002
+- t-001
   global_id: t-54741
   teiginys: "Vilniaus padienininkams nurodyta rinktis prie rotušės pagal Krokuvoje įvestos tvarkos pavyzdį."
   pagrindžia:
     - c-55731
 
 <a id="claim-t-54742"></a>
-- t-001
+- t-002
   global_id: t-54742
   teiginys: "1547 m. Vilniuje Žygimanto Augusto potvarkiu padienininkams nurodyta rinktis prie rotušės."
   pagrindžia:

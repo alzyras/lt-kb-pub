@@ -42,7 +42,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
 ## Teiginiai
 
 <a id="claim-t-87976"></a>
-- t-005
+- t-001
   global_id: t-87976
   teiginys: "Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams."
   pagrindžia:
@@ -56,21 +56,21 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
     - c-83954
 
 <a id="claim-t-87978"></a>
-- t-004
+- t-003
   global_id: t-87978
   teiginys: "Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių."
   pagrindžia:
     - c-83958
 
 <a id="claim-t-87979"></a>
-- t-003
+- t-004
   global_id: t-87979
   teiginys: "Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno."
   pagrindžia:
     - c-83955
 
 <a id="claim-t-87980"></a>
-- t-001
+- t-005
   global_id: t-87980
   teiginys: "Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
   pagrindžia:

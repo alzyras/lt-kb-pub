@@ -37,21 +37,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-63885"></a>
-- t-002
+- t-001
   global_id: t-63885
   teiginys: "Po J. Stalino mirties „atšilimo“ laikotarpiu oficialiai išspausdinta M. K. Čiurlionio kūrybos albumų."
   pagrindžia:
     - c-21865
 
 <a id="claim-t-63886"></a>
-- t-003
+- t-002
   global_id: t-63886
   teiginys: "Čiurlionio muziejaus senojo meno ekspozicija."
   pagrindžia:
     - c-21866
 
 <a id="claim-t-63887"></a>
-- t-001
+- t-003
   global_id: t-63887
   teiginys: "M. K. Čiurlionis įvardijamas kaip didžiausias Lietuvos menininkas, dailininkas ir kompozitorius."
   pagrindžia:

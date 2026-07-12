@@ -45,7 +45,7 @@ Pirmasis Prancūzijos prezidento Fransua Miterano vizitas į Lietuvą.
     - c-25067
 
 <a id="claim-t-46038"></a>
-- t-001
+- t-002
   global_id: t-46038
   teiginys: "Prancūzijos prezidentas Fransua Miteranas surengė pirmąjį vizitą į Lietuvą."
   pagrindžia:

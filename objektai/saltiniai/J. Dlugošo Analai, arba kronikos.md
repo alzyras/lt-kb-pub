@@ -44,35 +44,35 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
 ## Teiginiai
 
 <a id="claim-t-89516"></a>
-- t-005
+- t-001
   global_id: t-89516
   teiginys: "J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“."
   pagrindžia:
     - c-85467
 
 <a id="claim-t-89517"></a>
-- t-003
+- t-002
   global_id: t-89517
   teiginys: "J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi."
   pagrindžia:
     - c-85468
 
 <a id="claim-t-89518"></a>
-- t-001
+- t-003
   global_id: t-89518
   teiginys: "J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą."
   pagrindžia:
     - c-85466
 
 <a id="claim-t-89519"></a>
-- t-002
+- t-004
   global_id: t-89519
   teiginys: "J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m."
   pagrindžia:
     - c-85464
 
 <a id="claim-t-89520"></a>
-- t-004
+- t-005
   global_id: t-89520
   teiginys: "J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino."
   pagrindžia:

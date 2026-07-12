@@ -65,14 +65,14 @@ Nenurodyta
     - c-174926
 
 <a id="claim-t-192055"></a>
-- t-003
+- t-002
   global_id: t-192055
   teiginys: "Narbutas priduria, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
   pagrindžia:
     - c-174925
 
 <a id="claim-t-192492"></a>
-- t-004
+- t-003
   global_id: t-192492
   teiginys: "Narbutas pridėjo pastabą, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
   pagrindžia:

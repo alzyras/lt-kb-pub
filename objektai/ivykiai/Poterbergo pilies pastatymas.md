@@ -55,7 +55,7 @@ Nenurodyta
     - c-63077
 
 <a id="claim-t-62443"></a>
-- t-001
+- t-002
   global_id: t-62443
   teiginys: "Magistras Poponas pastatė Poterbergo pilį kalvoje tarp Kulmo miesto ir senosios pilies, kad apsisaugotų nuo Sventopelko veiksmų."
   pagrindžia:

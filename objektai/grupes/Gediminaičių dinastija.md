@@ -61,147 +61,147 @@ Taip tad buvo, kol buvo neišmirusi Gediminaičių dinastija — Jogailos paliku
     - c-15961
 
 <a id="claim-t-12360"></a>
-- t-003
+- t-002
   global_id: t-12360
   teiginys: "Su Krėvės unija sutiko ne visi Gediminaičiai."
   pagrindžia:
     - c-14965
 
 <a id="claim-t-12361"></a>
-- t-004
+- t-003
   global_id: t-12361
   teiginys: "Vytauto laikais viena rytinių kunigaikštijų dalis buvo valdoma Gediminaičių greta Riurikaičių ir kitų lietuvių kilmės kunigaikščių."
   pagrindžia:
     - c-14966
 
 <a id="claim-t-12362"></a>
-- t-005
+- t-004
   global_id: t-12362
   teiginys: "Dauguma Gediminaičių Vytautui valdymo pradžioje pasirodė nepaklusnūs."
   pagrindžia:
     - c-14967
 
 <a id="claim-t-12363"></a>
-- t-006
+- t-005
   global_id: t-12363
   teiginys: "Vytautas panaikino didžiąsias Gediminaičių kunigaikštijas ir paliko jiems tik smulkesnius valdinius."
   pagrindžia:
     - c-14968
 
 <a id="claim-t-96099"></a>
-- t-009
+- t-006
   global_id: t-96099
   teiginys: "Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis."
   pagrindžia:
     - c-31064
 
 <a id="claim-t-96100"></a>
-- t-024
+- t-007
   global_id: t-96100
   teiginys: "Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   pagrindžia:
     - c-90824
 
 <a id="claim-t-96101"></a>
-- t-015
+- t-008
   global_id: t-96101
   teiginys: "Vytautui panaikinus stipriąsias kunigaikštijas, Gediminaičiai nepajudinti liko tik Mstislavlyje ir Pinske."
   pagrindžia:
     - c-14968
 
 <a id="claim-t-96102"></a>
-- t-020
+- t-009
   global_id: t-96102
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys buvo susiję su žinomiausiomis Europos monarchijomis."
   pagrindžia:
     - c-90827
 
 <a id="claim-t-96104"></a>
-- t-007
+- t-010
   global_id: t-96104
   teiginys: "Po Gediminaičių dinastijos išmirimo 1572 m. abiejų tautų politinė istorija vystėsi bendroje respublikoje."
   pagrindžia:
     - c-90822
 
 <a id="claim-t-96105"></a>
-- t-008
+- t-011
   global_id: t-96105
   teiginys: "Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   pagrindžia:
     - c-31063
 
 <a id="claim-t-96106"></a>
-- t-019
+- t-012
   global_id: t-96106
   teiginys: "Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija arba Gediminaičių dinastija."
   pagrindžia:
     - c-90830
 
 <a id="claim-t-96108"></a>
-- t-014
+- t-013
   global_id: t-96108
   teiginys: "Daugumas Gediminaičių pačioje Vytauto valdymo pradžioje pasirodė jam nepaklusnūs."
   pagrindžia:
     - c-36779
 
 <a id="claim-t-96109"></a>
-- t-017
+- t-014
   global_id: t-96109
   teiginys: "Dinastijai vardą davė garsiausias jos atstovas – Vytenio brolis Gediminas (valdęs 1316–1341 m.)."
   pagrindžia:
     - c-22400
 
 <a id="claim-t-96110"></a>
-- t-011
+- t-015
   global_id: t-96110
   teiginys: "Iš lietuvių tautos buvo kilusi ir valdančioji Gediminaičių šeima."
   pagrindžia:
     - c-90833
 
 <a id="claim-t-96111"></a>
-- t-010
+- t-016
   global_id: t-96111
   teiginys: "Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje."
   pagrindžia:
     - c-31065
 
 <a id="claim-t-96112"></a>
-- t-013
+- t-017
   global_id: t-96112
   teiginys: "Dalį kunigaikštijų valdė Gediminaičiai, o kitas valdė Riurikaičiai ir įvairūs lietuvių kilmės kunigaikščiai."
   pagrindžia:
     - c-36778
 
 <a id="claim-t-96113"></a>
-- t-016
+- t-018
   global_id: t-96113
   teiginys: "XIII a. pabaigoje Lietuvos istorijoje iškilo lietuvių kilmės valdovų Gediminaičių dinastija."
   pagrindžia:
     - c-90821
 
 <a id="claim-t-96099"></a>
-- t-009
+- t-019
   global_id: t-96099
   teiginys: "Gediminaičiai buvo pasidaliję tarp pagonybės ir graikų krikšto, kai sprendėsi Lietuvos krikšto kryptis."
   pagrindžia:
     - c-31064
 
 <a id="claim-t-96105"></a>
-- t-008
+- t-020
   global_id: t-96105
   teiginys: "Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios."
   pagrindžia:
     - c-31063
 
 <a id="claim-t-96117"></a>
-- t-019
+- t-021
   global_id: t-96117
   teiginys: "Mirus paskutiniam Gediminaičių dinastijos valdovui Zigmantui Augustui, Lietuva ir Lenkija galėjo rinktis atskirus valdovus."
   pagrindžia:
     - c-22398
 
 <a id="claim-t-182889"></a>
-- t-020
+- t-022
   global_id: t-182889
   teiginys: "Gediminaičių dinastijos Jogailos palikuonių teisės į sostus buvo pripažįstamos iš tradicijos."
   pagrindžia:

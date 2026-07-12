@@ -17,7 +17,7 @@ tags:
   - diplomatas
   - ginklas
   - grupe
-  - mokslininkas
+  - institucija
 amziai:
   - 'XI'
   - 'XXI'
@@ -43,14 +43,14 @@ Išleista Lietuvos Respublikos užsienio reikalų ministerijos užsakymu. Rengia
 ## Teiginiai
 
 <a id="claim-t-65772"></a>
-- t-002
+- t-001
   global_id: t-65772
   teiginys: "Rengiantis Lietuvos pirmininkavimui ES, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti glaustą Lietuvos istorijos veikalą."
   pagrindžia:
     - c-22571
 
 <a id="claim-t-65773"></a>
-- t-004
+- t-002
   global_id: t-65773
   teiginys: "Knygos antrasis leidimas 2013 m. išleistas Lietuvos Respublikos užsienio reikalų ministerijos užsakymu."
   pagrindžia:

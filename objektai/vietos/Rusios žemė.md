@@ -38,14 +38,14 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
 ## Teiginiai
 
 <a id="claim-t-58628"></a>
-- t-002
+- t-001
   global_id: t-58628
   teiginys: "Nemunas prasidėjo Rusios valdose ir skyrė Prūsiją nuo Rusios, Lietuvos bei Kuršo."
   pagrindžia:
     - c-59260
 
 <a id="claim-t-58629"></a>
-- t-001
+- t-002
   global_id: t-58629
   teiginys: "Rusios žemė buvo minima tarp Prūsijos žemę ribojusių vietovių ir gamtinių ribų."
   pagrindžia:

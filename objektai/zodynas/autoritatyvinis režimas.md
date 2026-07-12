@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - seimas
   - sąvoka
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

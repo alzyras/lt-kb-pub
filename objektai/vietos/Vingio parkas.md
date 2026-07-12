@@ -36,14 +36,14 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
 ## Teiginiai
 
 <a id="claim-t-69731"></a>
-- t-002
+- t-001
   global_id: t-69731
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje valdžia pirmą kartą leido Vingio parke viešai paminėti Molotovo–Ribentropo paktą."
   pagrindžia:
     - c-68982
 
 <a id="claim-t-183642"></a>
-- t-003
+- t-002
   global_id: t-183642
   teiginys: "1988 m. liepos 9 d. Vingio parke vykusiame LPS mitinge dalyvavo apie 100 tūkst. žmonių."
   pagrindžia:

@@ -41,14 +41,14 @@ Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimu
     - c-168794
 
 <a id="claim-t-185435"></a>
-- t-004
+- t-003
   global_id: t-185435
   teiginys: "Dažni skitų žygiai į Lietuvos gilumą paskatino Lietuvos luomus geriau sutvirtinti Vilnių."
   pagrindžia:
     - c-168796
 
 <a id="claim-t-193317"></a>
-- t-005
+- t-004
   global_id: t-193317
   teiginys: "Karaliaus ir luomų vardu jam šitaip buvo atsa kyta."
   pagrindžia:

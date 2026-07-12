@@ -57,7 +57,7 @@ Tekste jos siejamos su viešu išplakimu.
 ## Teiginiai
 
 <a id="claim-t-187814"></a>
-- t-002
+- t-001
   global_id: t-187814
   teiginys: "1850 m. pasakojime rykštės minimos kaip priemonė, kuria viešai išplaktas Teodoro Narbuto sūnus Liudvikas."
   pagrindžia:

@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - posakis
   - tauta
-  - valdovas
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Remiantis šiuo įžadu, 
 ## Teiginiai
 
 <a id="claim-t-20869"></a>
-- t-002
+- t-001
   global_id: t-20869
   teiginys: "Į Gegužės trečiosios konstituciją buvo sugrąžintas valstybės dualizmo, tai yra federacijos, principas."
   pagrindžia:
     - c-166898
 
 <a id="claim-t-20870"></a>
-- t-001
+- t-002
   global_id: t-20870
   teiginys: "Gegužės trečiosios konstitucijoje frazė „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   pagrindžia:

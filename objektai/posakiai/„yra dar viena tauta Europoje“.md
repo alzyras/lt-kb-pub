@@ -14,7 +14,7 @@ tags:
   - posakis
   - reforma
   - tauta
-  - valdovas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

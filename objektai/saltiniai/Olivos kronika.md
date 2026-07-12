@@ -42,14 +42,14 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
 ## Teiginiai
 
 <a id="claim-t-60852"></a>
-- t-010
+- t-001
   global_id: t-60852
   teiginys: "Olivos kronikoje Unzatrapio pavadinimas pateikiamas suvokietintomis formomis Wonsdorff ir Wansdorf."
   pagrindžia:
     - c-61487
 
 <a id="claim-t-60853"></a>
-- t-008
+- t-002
   global_id: t-60853
   teiginys: "Olivos kronikoje Cristburgo pavadinimas pateikiamas formomis Kirsburg ir Kirsberg."
   pagrindžia:
@@ -63,42 +63,42 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
     - c-61493
 
 <a id="claim-t-60855"></a>
-- t-005
+- t-004
   global_id: t-60855
   teiginys: "Senesnėje Olivos kronikoje: generatio [...] Bogatini (SRP, 1, p. 680)."
   pagrindžia:
     - c-61486
 
 <a id="claim-t-60856"></a>
-- t-007
+- t-005
   global_id: t-60856
   teiginys: "Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu."
   pagrindžia:
     - c-61491
 
 <a id="claim-t-60857"></a>
-- t-009
+- t-006
   global_id: t-60857
   teiginys: "Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko."
   pagrindžia:
     - c-61488
 
 <a id="claim-t-60858"></a>
-- t-004
+- t-007
   global_id: t-60858
   teiginys: "Senojoje Olivos kronikoje aiškiau aprašytas Dusburgiečio minimas Pamedės niokojimas."
   pagrindžia:
     - c-61484
 
 <a id="claim-t-60860"></a>
-- t-001
+- t-008
   global_id: t-60860
   teiginys: "J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją."
   pagrindžia:
     - c-61485
 
 <a id="claim-t-60861"></a>
-- t-006
+- t-009
   global_id: t-60861
   teiginys: "Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“."
   pagrindžia:

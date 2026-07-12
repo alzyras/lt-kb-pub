@@ -62,70 +62,70 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-176197"></a>
-- t-013
+- t-001
   global_id: t-176197
   teiginys: "Žalgirio mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų sumišimo nesukėlė."
   pagrindžia:
     - c-160232
 
 <a id="claim-t-176198"></a>
-- t-011
+- t-002
   global_id: t-176198
   teiginys: "Žalgirio mūšyje patrankos buvo vartotos tik pradžioje."
   pagrindžia:
     - c-160233
 
 <a id="claim-t-176199"></a>
-- t-010
+- t-003
   global_id: t-176199
   teiginys: "XV a. patrankos buvo griozdiškos, didelės, sunkiai pervežamos ir labiau tiko tvirtovėms griauti."
   pagrindžia:
     - c-14335
 
 <a id="claim-t-176200"></a>
-- t-012
+- t-004
   global_id: t-176200
   teiginys: "Prie Drevencos kryžiuočiai sustiprino upės krantus ir apstatė juos patrankomis."
   pagrindžia:
     - c-14337
 
 <a id="claim-t-176201"></a>
-- t-014
+- t-005
   global_id: t-176201
   teiginys: "Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų."
   pagrindžia:
     - c-14339
 
 <a id="claim-t-176203"></a>
-- t-018
+- t-006
   global_id: t-176203
   teiginys: "Patrankos keldavo daug triukšmo, bet duodavo mažai naudos."
   pagrindžia:
     - c-36744
 
 <a id="claim-t-176204"></a>
-- t-016
+- t-007
   global_id: t-176204
   teiginys: "Žalgirio mūšyje patrankos buvo naudotos mažai ir tik mūšio pradžioje."
   pagrindžia:
     - c-36744
 
 <a id="claim-t-176205"></a>
-- t-017
+- t-008
   global_id: t-176205
   teiginys: "Mūšio pradžioje kryžiuočiai porą kartų iššovė iš patrankų, bet sąjungininkų kariuomenėje sumišimo nesukėlė."
   pagrindžia:
     - c-36745
 
 <a id="claim-t-188385"></a>
-- t-010
+- t-009
   global_id: t-188385
   teiginys: "Apie Teodorą Narbutą buvo pasklidę gandai, kad jis padėjo 1830-1831 m. sukilėliams lieti patrankas, bet caro valdžia to neįrodė."
   pagrindžia:
     - c-171278
 
 <a id="claim-t-193869"></a>
-- t-019
+- t-010
   global_id: t-193869
   teiginys: "Ir Lietuvos kariuomenė pradėjo šaudyti į juos iš patrankų, iš šautuvų, iš lankų, o tuo metu nedidelis būrys dvarionių leidosi per upę."
   pagrindžia:

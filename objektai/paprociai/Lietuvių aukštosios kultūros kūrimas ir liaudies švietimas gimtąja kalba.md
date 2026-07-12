@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - tauta
+  - šeima
 amziai:
   - 'XVIII'
   - 'XIX'
@@ -60,21 +61,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67138"></a>
-- t-003
+- t-001
   global_id: t-67138
   teiginys: "Lietuvių kalba buvo išleistas novatoriškas elementorius, o Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“."
   pagrindžia:
     - c-67160
 
 <a id="claim-t-67139"></a>
-- t-001
+- t-002
   global_id: t-67139
   teiginys: "Vilniaus universiteto aplinkoje susibūrę žemaičių inteligentai susitarė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba."
   pagrindžia:
     - c-67159
 
 <a id="claim-t-67140"></a>
-- t-002
+- t-003
   global_id: t-67140
   teiginys: "Vilniaus universiteto aplinkoje susibūrę inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba ir rūpintis liaudies švietimu gimtąja kalba."
   pagrindžia:

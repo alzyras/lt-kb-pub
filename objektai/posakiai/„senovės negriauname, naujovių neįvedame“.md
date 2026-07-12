@@ -13,7 +13,7 @@ tags:
   - kraštas
   - kunigaikštis
   - posakis
-  - privilegija
+  - reforma
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -38,35 +38,35 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
 ## Teiginiai
 
 <a id="claim-t-186413"></a>
-- t-002
+- t-001
   global_id: t-186413
   teiginys: "Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras."
   pagrindžia:
     - c-169754
 
 <a id="claim-t-186414"></a>
-- t-004
+- t-002
   global_id: t-186414
   teiginys: "Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu."
   pagrindžia:
     - c-169754
 
 <a id="claim-t-186415"></a>
-- t-005
+- t-003
   global_id: t-186415
   teiginys: "Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras."
   pagrindžia:
     - c-169754
 
 <a id="claim-t-186416"></a>
-- t-001
+- t-004
   global_id: t-186416
   teiginys: "„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais."
   pagrindžia:
     - c-169756
 
 <a id="claim-t-186417"></a>
-- t-003
+- t-005
   global_id: t-186417
   teiginys: "Lietuvos istorijos autoriai „senovės nekeitimo“ tezę vadina istoriografiniu mitu, nes Lietuvos ekspansija perskėlė Kijevo Rusios erdvę."
   pagrindžia:

@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59736"></a>
-- t-002
+- t-001
   global_id: t-59736
   teiginys: "Skomantas su visais savo namais bei šeimyna pasidavė krikščionių tikėjimui ir broliams."
   pagrindžia:
     - c-60369
 
 <a id="claim-t-59737"></a>
-- t-001
+- t-002
   global_id: t-59737
   teiginys: "Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų."
   pagrindžia:

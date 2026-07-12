@@ -9,6 +9,7 @@ tags:
   - ginklas
   - kunigaikštis
   - sąvoka
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -45,7 +46,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
     - c-59520
 
 <a id="claim-t-58888"></a>
-- t-001
+- t-003
   global_id: t-58888
   teiginys: "Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais."
   pagrindžia:

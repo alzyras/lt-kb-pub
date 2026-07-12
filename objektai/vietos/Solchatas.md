@@ -35,14 +35,14 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas. Solchatas l
 ## Teiginiai
 
 <a id="claim-t-187333"></a>
-- t-002
+- t-001
   global_id: t-187333
   teiginys: "Solchatas, dar vadintas Senuoju Krymu, lokalizuojamas prie Kafos, dabartinės Feodosijos."
   pagrindžia:
     - c-170360
 
 <a id="claim-t-187334"></a>
-- t-001
+- t-002
   global_id: t-187334
   teiginys: "Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, dar vadintas Senuoju Krymu, prie Kafos."
   pagrindžia:

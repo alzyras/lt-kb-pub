@@ -57,7 +57,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
     - c-22736
 
 <a id="claim-t-20000"></a>
-- t-001
+- t-003
   global_id: t-20000
   teiginys: "Valdant Saksų dinastijai 1697–1763 m. Lietuva tapo Šiaurės karo tarp Rusijos ir Švedijos kovų arena."
   pagrindžia:

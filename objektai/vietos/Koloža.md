@@ -37,14 +37,14 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
 ## Teiginiai
 
 <a id="claim-t-187237"></a>
-- t-002
+- t-001
   global_id: t-187237
   teiginys: "Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste."
   pagrindžia:
     - c-170302
 
 <a id="claim-t-187238"></a>
-- t-001
+- t-002
   global_id: t-187238
   teiginys: "1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą."
   pagrindžia:

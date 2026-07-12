@@ -41,21 +41,21 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
 ## Teiginiai
 
 <a id="claim-t-176551"></a>
-- t-005
+- t-001
   global_id: t-176551
   teiginys: "Prieš mirtį Vytautas kelis kartus išpažino nuodėmes Vilniaus vyskupui Motiejui."
   pagrindžia:
     - c-160555
 
 <a id="claim-t-176552"></a>
-- t-001
+- t-002
   global_id: t-176552
   teiginys: "Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu."
   pagrindžia:
     - c-36467
 
 <a id="claim-t-176554"></a>
-- t-002
+- t-003
   global_id: t-176554
   teiginys: "Motiejus mokėsi Krokuvoje, įgijo laisvųjų mokslų magistro laipsnį, buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas."
   pagrindžia:
@@ -76,7 +76,7 @@ Motiejus, vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš Kauno^
     - c-160555
 
 <a id="claim-t-176557"></a>
-- t-003
+- t-006
   global_id: t-176557
   teiginys: "Motiejus buvo pirmasis Žemaičių ir vėliau Vilniaus vyskupas, paskirtas Vytautui jį rekomendavus."
   pagrindžia:

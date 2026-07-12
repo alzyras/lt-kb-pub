@@ -36,14 +36,14 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
 ## Teiginiai
 
 <a id="claim-t-88324"></a>
-- t-002
+- t-001
   global_id: t-88324
   teiginys: "Petro Olai Danų kronikoje pasakojama, kad apie 880 m. Danijoje dėl nederliaus įsakyta ištremti kas trečią žmogų."
   pagrindžia:
     - c-84304
 
 <a id="claim-t-194213"></a>
-- t-003
+- t-002
   global_id: t-194213
   teiginys: "Nors ir patogio je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos surašytos klausantis jų skaldų, bei šiaurės kronikos byloja ne apie vie ną tokį žygį."
   pagrindžia:

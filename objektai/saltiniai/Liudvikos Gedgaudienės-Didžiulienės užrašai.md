@@ -36,14 +36,14 @@ Iš Liudvikos Gedgaudienės-Didžiulienės užrašų. Sukilimo metu dar vaiku bu
 ## Teiginiai
 
 <a id="claim-t-49257"></a>
-- t-007
+- t-001
   global_id: t-49257
   teiginys: "Liudvikos Gedgaudienės-Didžiulienės užrašuose minima į Salas atėjusi Lietuvos kariuomenė, sudaryta iš trijų didelių pulkų."
   pagrindžia:
     - c-11255
 
 <a id="claim-t-49259"></a>
-- t-008
+- t-002
   global_id: t-49259
   teiginys: "Kunigas Mackevičius pamokslą sakė lenkiškai ir lietuviškai, o kariuomenė bei daugybė žmonių jo klausėsi lauke."
   pagrindžia:

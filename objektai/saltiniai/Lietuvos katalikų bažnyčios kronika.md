@@ -11,7 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kunigas
+  - redaktorius
   - saltinis
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

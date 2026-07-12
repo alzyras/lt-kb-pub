@@ -43,14 +43,14 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
 ## Teiginiai
 
 <a id="claim-t-78427"></a>
-- t-006
+- t-001
   global_id: t-78427
   teiginys: "Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu."
   pagrindžia:
     - c-22714
 
 <a id="claim-t-78428"></a>
-- t-008
+- t-002
   global_id: t-78428
   teiginys: "Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
   pagrindžia:
@@ -64,63 +64,63 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
     - c-166563
 
 <a id="claim-t-78430"></a>
-- t-007
+- t-004
   global_id: t-78430
   teiginys: "Sovietinėje Lietuvos istorijos interpretacijoje nustota dėkoti Raudonajai armijai už 1940 m. „išvadavimą“ iš lietuvių buržuazijos jungo."
   pagrindžia:
     - c-22715
 
 <a id="claim-t-78432"></a>
-- t-004
+- t-005
   global_id: t-78432
   teiginys: "Po 1939 m. rudens Raudonosios armijos įgulos Lietuvoje veikė jaunimo politines nuostatas."
   pagrindžia:
     - c-22712
 
 <a id="claim-t-78433"></a>
-- t-001
+- t-006
   global_id: t-78433
   teiginys: "Rusijos bolševikai metė Raudonosios armijos divizijas paskui namo traukiančią Vokietijos kariuomenę."
   pagrindžia:
     - c-22709
 
 <a id="claim-t-78428"></a>
-- t-008
+- t-007
   global_id: t-78428
   teiginys: "Baigiantis Antrajam pasauliniam karui, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
   pagrindžia:
     - c-22716
 
 <a id="claim-t-78435"></a>
-- t-005
+- t-008
   global_id: t-78435
   teiginys: "Lietuvoje dislokuotos Raudonosios armijos 20 000 kariškių reikmėms trūko kareivinių, patalpų ir butų karininkams."
   pagrindžia:
     - c-22713
 
 <a id="claim-t-78436"></a>
-- t-002
+- t-009
   global_id: t-78436
   teiginys: "1918 m. gruodžio 16 d. lietuvių bolševikai, remdamiesi tik Raudonosios armijos daliniais, deklaravo Sovietų Lietuvą."
   pagrindžia:
     - c-22710
 
 <a id="claim-t-78429"></a>
-- t-003
+- t-010
   global_id: t-78429
   teiginys: "Raudonajai armijai pralaimėjus prie Varšuvos, bolševikai atšaukė Lietuvoje rengtą sukilimą."
   pagrindžia:
     - c-166563
 
 <a id="claim-t-183177"></a>
-- t-012
+- t-011
   global_id: t-183177
   teiginys: "Po liepos 3 d. Lietuvos kariuomenės pertvarkymo įstatymo Lietuvos kariuomenė tapo Liaudies kariuomene, vėliau – Raudonosios armijos 29-uoju šaulių korpusu."
   pagrindžia:
     - c-166564
 
 <a id="claim-t-193560"></a>
-- t-013
+- t-012
   global_id: t-193560
   teiginys: "Lietuvos diplomatinė tarnyba ir išeivija Baigiantis Antrajam pasauliniam karui, bijodami artėjančios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus."
   pagrindžia:

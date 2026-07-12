@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
   - tauta
 amziai:
@@ -45,7 +46,7 @@ media_all_json: |-
     - c-95094
 
 <a id="claim-t-101564"></a>
-- t-001
+- t-002
   global_id: t-101564
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą."
   pagrindžia:

@@ -47,42 +47,42 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 ## Teiginiai
 
 <a id="claim-t-12236"></a>
-- t-007
+- t-001
   global_id: t-12236
   teiginys: "Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais."
   pagrindžia:
     - c-13905
 
 <a id="claim-t-64513"></a>
-- t-006
+- t-002
   global_id: t-64513
   teiginys: "A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu."
   pagrindžia:
     - c-65242
 
 <a id="claim-t-64514"></a>
-- t-005
+- t-003
   global_id: t-64514
   teiginys: "A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome."
   pagrindžia:
     - c-03971
 
 <a id="claim-t-64515"></a>
-- t-003
+- t-004
   global_id: t-64515
   teiginys: "A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių."
   pagrindžia:
     - c-03969
 
 <a id="claim-t-64517"></a>
-- t-004
+- t-005
   global_id: t-64517
   teiginys: "A. Salys parašė Baltic Languages."
   pagrindžia:
     - c-03970
 
 <a id="claim-t-64518"></a>
-- t-002
+- t-006
   global_id: t-64518
   teiginys: "A. Salys parašė Die žemaitischen Mundarten. Teil 1 : Geschichte des žemaitischen Sprachgebiets."
   pagrindžia:

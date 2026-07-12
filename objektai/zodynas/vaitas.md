@@ -32,14 +32,14 @@ Iš vaivadų ir visų karališ­ kųjų valdininkų buvo atimta galia kištis į
 ## Teiginiai
 
 <a id="claim-t-86556"></a>
-- t-002
+- t-001
   global_id: t-86556
   teiginys: "Vaitas, tarybos nariai ir Vilniaus miestiečiai skundė Bogdaną Kievlą, kad jis perkėloje ties Vilniumi ėmė po grašį nuo krovinio."
   pagrindžia:
     - c-82536
 
 <a id="claim-t-86557"></a>
-- t-001
+- t-002
   global_id: t-86557
   teiginys: "Vilniaus vaitui suteikta teisė spręsti ir bausti už miestiečių padarytus kriminalinius nusikaltimus."
   pagrindžia:

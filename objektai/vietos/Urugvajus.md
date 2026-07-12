@@ -37,14 +37,14 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
 ## Teiginiai
 
 <a id="claim-t-23520"></a>
-- t-002
+- t-001
   global_id: t-23520
   teiginys: "Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
   pagrindžia:
     - c-25128
 
 <a id="claim-t-23521"></a>
-- t-001
+- t-002
   global_id: t-23521
   teiginys: "Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai."
   pagrindžia:

@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-02460"></a>
-- t-003
+- t-001
   global_id: t-02460
   teiginys: "Gotesverderis buvo viena iš prie Kauno daug kartų statytų ir vėl sugriautų Ordino pilių."
   pagrindžia:

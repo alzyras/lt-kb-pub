@@ -56,6 +56,10 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09851|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 - susijęs iš Aušra: Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą.
+- susijęs iš [[objektai/paprociai/Kerdžiaus ganymo signalų sistema.md#claim-t-195363|Kerdžiaus ganymo signalų sistema]]: Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
@@ -151,8 +155,21 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš Žemutinė pilis: Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.
 - susijęs iš [[objektai/zodynas/Gaspadinė.md#claim-t-70005|gaspadinė]]: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.
 - susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.
+- susijęs iš [[objektai/asmenys/Morta (pasakotojo sesuo, XIX a.).md#claim-t-195557|Morta (pasakotojo sesuo, XIX a.)]]: Morta buvo penkiolikmetė pasakotojo sesuo.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187924|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187927|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195331|Bonka]]: Vestuvių ir girtavimo pasakojimuose bonka nešama, statoma ant stalo ir slepiama užančyje.
+- susijęs iš [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius.md#claim-t-195375|Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]: Prieš priesaiką dar būdavo atsisveikinama su degtine.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195409|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu.
+- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195367|Kūlimo jaujoje darbo tvarka]]: Kūlimo metu darbininkai dieną dirbdavo lengvesnius ūkio darbus, o moterims darbų netrūkdavo.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195396|Kūčių dienos ir vakarienės apeigos]]: Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195399|Kūčių dienos ir vakarienės apeigos]]: Kūčioms ruošiami pasninkiniai ir šventiniai valgiai, tarp jų sausi barščiai su baravykais.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195361|Šienapiūtė]]: Šienapiūtė pradedama po Švento Jono, o jos pradžią lydi šienapiūtės daina.
+- susijęs iš [[objektai/posakiai/Valioi mano dalgeeeeli, valiooooi, valiooooi!.md#claim-t-195418|Valioi mano dalgeeeeli, valiooooi, valiooooi!]]: Šienapiūtės dainoje kartojamas kreipinys į dalgį ir refrenas „valiooooi“.
+- susijęs iš [[objektai/zodynas/Prikeltuvės.md#claim-t-195630|Prikeltuvės]]: Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga.
+- susijęs iš [[objektai/zodynas/Ražončius.md#claim-t-195465|Ražončius]]: Ražončius šiame šaltinyje reiškia rytinį giedojimą.
 ## Reikšmingi paminėjimai
 
 - c-001

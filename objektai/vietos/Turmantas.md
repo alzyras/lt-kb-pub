@@ -30,21 +30,21 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 ## Teiginiai
 
 <a id="claim-t-80249"></a>
-- t-002
+- t-001
   global_id: t-80249
   teiginys: "Turmanto geležinkelio stotis buvo užimta po atkaklaus bolševikų pasipriešinimo, parėmus 1-ojo pėstininkų pulko batalionui."
   pagrindžia:
     - c-77079
 
 <a id="claim-t-80250"></a>
-- t-003
+- t-002
   global_id: t-80250
   teiginys: "4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi."
   pagrindžia:
     - c-77077
 
 <a id="claim-t-80251"></a>
-- t-001
+- t-003
   global_id: t-80251
   teiginys: "Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi."
   pagrindžia:

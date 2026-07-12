@@ -51,21 +51,21 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61514
 
 <a id="claim-t-60880"></a>
-- t-009
+- t-002
   global_id: t-60880
   teiginys: "1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino."
   pagrindžia:
     - c-61518
 
 <a id="claim-t-60881"></a>
-- t-006
+- t-003
   global_id: t-60881
   teiginys: "1232 m. Tolede vienas žydas esą rado akmenyje iškaltą knygą su hebrajiškais, graikiškais ir lotyniškais įrašais."
   pagrindžia:
     - c-61513
 
 <a id="claim-t-60882"></a>
-- t-003
+- t-004
   global_id: t-60882
   teiginys: "Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu."
   pagrindžia:
@@ -79,14 +79,14 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61511
 
 <a id="claim-t-60884"></a>
-- t-004
+- t-006
   global_id: t-60884
   teiginys: "Brolių pamokslininkų ordinas datuojamas 1216 m., o Mažesniųjų brolių ordinas – 1223 m., valdant popiežiui Honorijui III."
   pagrindžia:
     - c-61517
 
 <a id="claim-t-60885"></a>
-- t-002
+- t-007
   global_id: t-60885
   teiginys: "Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai."
   pagrindžia:
@@ -100,7 +100,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
     - c-61519
 
 <a id="claim-t-60887"></a>
-- t-007
+- t-009
   global_id: t-60887
   teiginys: "Popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo nesantarvė kilo dėl popiežiaus teiginio apie Prancūzijos reikalų pavaldumą apaštališkajam sostui."
   pagrindžia:

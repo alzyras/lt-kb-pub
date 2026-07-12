@@ -38,7 +38,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
 ## Teiginiai
 
 <a id="claim-t-97290"></a>
-- t-003
+- t-001
   global_id: t-97290
   teiginys: "Zenonas Ivinskis Geležinio vilko legendą siejo su Romos vilke ir lietuvių kilmės iš romėnų samprata."
   pagrindžia:
@@ -52,7 +52,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
     - c-91784
 
 <a id="claim-t-97292"></a>
-- t-001
+- t-003
   global_id: t-97292
   teiginys: "Vilniaus įkūrimo legendoje Gediminas po medžioklės Šventaragio slėnyje susapnavo geležinį vilką, o sapną išaiškino Lizdeika."
   pagrindžia:

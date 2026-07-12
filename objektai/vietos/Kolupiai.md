@@ -36,14 +36,14 @@ Jesu P k vertė trauktis Kolupių kaime, prie vieškelio iš Kėdainių į Šėt
 ## Teiginiai
 
 <a id="claim-t-79488"></a>
-- t-002
+- t-001
   global_id: t-79488
   teiginys: "1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją."
   pagrindžia:
     - c-76475
 
 <a id="claim-t-193768"></a>
-- t-003
+- t-002
   global_id: t-193768
   teiginys: "Miške į šiaurę nuo Kolupių kaimo į nelaisvę buvo paimta 18 raudonarmiečių."
   pagrindžia:

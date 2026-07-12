@@ -62,7 +62,7 @@ Nenurodyta
     - c-63721
 
 <a id="claim-t-62877"></a>
-- t-001
+- t-003
   global_id: t-62877
   teiginys: "Meiseno markgrafas įsakė pastatyti du karo laivus: mažesnįjį „Piligrimą“ ir didesnįjį „Fridlandą“."
   pagrindžia:

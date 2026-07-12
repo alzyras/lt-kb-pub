@@ -45,7 +45,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186680"></a>
-- t-003
+- t-001
   global_id: t-186680
   teiginys: "Lietuvos metraštis Vytauto vardu pasakoja, kad Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotų rusų žemių."
   pagrindžia:
@@ -59,7 +59,7 @@ Nenurodyta
     - c-169924
 
 <a id="claim-t-186682"></a>
-- t-001
+- t-003
   global_id: t-186682
   teiginys: "Lietuvos metraštis Vytauto vardu pasakoja, kad Jogaila Liublino pilyje raštais užrašė Skirgailai visą Vytauto tėviškę."
   pagrindžia:

@@ -46,7 +46,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - c-81842
 
 <a id="claim-t-85858"></a>
-- t-004
+- t-002
   global_id: t-85858
   teiginys: "Tikocine buvę ginklai ir karinė amunicija turėjo likti ten kaip valdovo nuosavoje pilyje."
   pagrindžia:
@@ -60,7 +60,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
     - c-81840
 
 <a id="claim-t-85860"></a>
-- t-002
+- t-004
   global_id: t-85860
   teiginys: "Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims."
   pagrindžia:

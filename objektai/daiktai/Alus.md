@@ -63,9 +63,11 @@ Nenurodyta
     - c-177007
 - susijęs iš [[objektai/grupes/Rusinai.md#claim-t-189407|Rusinai]]: Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.
 - susijęs iš Rėzos „Dainų“ komentarai: Rėzos „Dainų“ komentaruose, Narbuto perteikimu, alus atskiriamas nuo Prūsų šalyje vadinto „Bier“ ir apibūdinamas kaip saldesnis bei šviesesnis.
+- susijęs iš [[objektai/posakiai/Degtinę tegul geria velniai, o mes gerkime saldų alutį.md#claim-t-195431|Degtinę tegul geria velniai, o mes gerkime saldų alutį]]: Degtinė atmetama, o saldus alus iškeliamas kaip geresnis gėrimas.
 - susijęs iš [[objektai/paprociai/Šventieji gėrimai aukose ir apeigose.md#claim-t-189788|Šventieji gėrimai aukose ir apeigose]]: Narbutas alų vadina senovės lietuvių pirmutiniu ir mėgstamiausiu svaiginamuoju gėrimu, įėjusiu į slapiąsias aukas arba vaišes.
 - susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš Londonas: Narbutas Londono alų laikė ištobulinta senojo lietuviško alaus forma.
+- susijęs iš [[objektai/zodynas/Varianka.md#claim-t-195455|Varianka]]: Varianka šiame šaltinyje yra skysčiui perleisti vartojamo lovelio ar piltuvėlio pavadinimas.
 ## Reikšmingi paminėjimai
 
 - c-001

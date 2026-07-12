@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - privilegija
   - upė
 amziai:
   - 'XV'
@@ -57,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87045"></a>
-- t-002
+- t-001
   global_id: t-87045
   teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
   pagrindžia:
     - c-83025
 
 <a id="claim-t-87046"></a>
-- t-001
+- t-002
   global_id: t-87046
   teiginys: "Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę."
   pagrindžia:

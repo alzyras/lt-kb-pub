@@ -15,9 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - drabužis
   - grupe
   - karas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -42,14 +42,14 @@ Tad lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje rū
 ## Teiginiai
 
 <a id="claim-t-19867"></a>
-- t-002
+- t-001
   global_id: t-19867
   teiginys: "Lietuvos diplomatinės tarnybos diplomatai simboliškai atstovavo Lietuvai ir palaikė ryšius su kitų Baltijos šalių atstovais."
   pagrindžia:
     - c-22597
 
 <a id="claim-t-19868"></a>
-- t-001
+- t-002
   global_id: t-19868
   teiginys: "Lietuvos diplomatinė tarnyba rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje per sovietų okupaciją."
   pagrindžia:

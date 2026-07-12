@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ordinas
   - pilis
+  - teisinė-praktika
   - vieta
 amziai:
   - 'XIV'
@@ -37,14 +38,14 @@ Dusburgietis teigia, kad apie tai, kaip buvo nupirkta Diunamiundės pilis 1305 v
 ## Teiginiai
 
 <a id="claim-t-58538"></a>
-- t-002
+- t-001
   global_id: t-58538
   teiginys: "Diunamiundėje XIII a. Ordino statytas įtvirtintas vienuolynas XIV a. pradžioje buvo perstatytas į pilį."
   pagrindžia:
     - c-59171
 
 <a id="claim-t-58539"></a>
-- t-001
+- t-002
   global_id: t-58539
   teiginys: "1305 m. liepos 26 d. Livonijos Teutonų ordino broliai teisėta pirktimi įsigijo Diunamiundės pilį."
   pagrindžia:

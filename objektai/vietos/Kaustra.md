@@ -32,14 +32,14 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 ## Teiginiai
 
 <a id="claim-t-58572"></a>
-- t-002
+- t-001
   global_id: t-58572
   teiginys: "Dešiniajame Kaustros krante į pietus nuo miesto išliko aukštas piliakalnis su pilies griuvėsiais."
   pagrindžia:
     - c-59204
 
 <a id="claim-t-58573"></a>
-- t-001
+- t-002
   global_id: t-58573
   teiginys: "Kryžiuočių ordino broliai Notangos žemėje prie Kaustros upės pastatė Kroicburgo pilį."
   pagrindžia:

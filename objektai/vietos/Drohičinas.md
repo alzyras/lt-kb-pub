@@ -46,70 +46,70 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 ## Teiginiai
 
 <a id="claim-t-93931"></a>
-- t-008
+- t-001
   global_id: t-93931
   teiginys: "Drohičinas buvo viena krikščioniškų Trakų kunigaikštijos žemių, dėl kurių vokiečiai sutiko laikytis taikos."
   pagrindžia:
     - c-37351
 
 <a id="claim-t-93932"></a>
-- t-005
+- t-002
   global_id: t-93932
   teiginys: "Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais."
   pagrindžia:
     - c-89184
 
 <a id="claim-t-93933"></a>
-- t-006
+- t-003
   global_id: t-93933
   teiginys: "Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą."
   pagrindžia:
     - c-89183
 
 <a id="claim-t-93934"></a>
-- t-003
+- t-004
   global_id: t-93934
   teiginys: "Vokiečiai įsipareigojo laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų Drohičinu."
   pagrindžia:
     - c-37351
 
 <a id="claim-t-93935"></a>
-- t-007
+- t-005
   global_id: t-93935
   teiginys: "Drohičino paviete buvę dideli valsčiai su renkamais mokesčiais buvo skirti Vilniaus katedrai aprūpinti."
   pagrindžia:
     - c-89184
 
 <a id="claim-t-93936"></a>
-- t-011
+- t-006
   global_id: t-93936
   teiginys: "Kęstučiui ruošiantis nubausti Jogailą, Vytautas išvyko į Drohičiną."
   pagrindžia:
     - c-89185
 
 <a id="claim-t-93937"></a>
-- t-013
+- t-007
   global_id: t-93937
   teiginys: "Vytenis prijungė prie Lietuvos Drohičiną ir Brastą, kuriuos anksčiau laikinai buvo užėmęs Traidenis."
   pagrindžia:
     - c-46484
 
 <a id="claim-t-93938"></a>
-- t-012
+- t-008
   global_id: t-93938
   teiginys: "Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą."
   pagrindžia:
     - c-89186
 
 <a id="claim-t-184945"></a>
-- t-010
+- t-009
   global_id: t-184945
   teiginys: "Jogailos kariuomenė prie Drohičino sutiko stiprų pasipriešinimą, bet po puolimų ir gaisro gavo apdegusią pilį."
   pagrindžia:
     - c-168306
 
 <a id="claim-t-184946"></a>
-- t-011
+- t-010
   global_id: t-184946
   teiginys: "Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną."
   pagrindžia:
@@ -130,14 +130,14 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
     - c-170521
 
 <a id="claim-t-192650"></a>
-- t-014
+- t-013
   global_id: t-192650
   teiginys: "Narbutas rašo, kad 1247 m. kunigaikštis Vasilka trečią dieną pasivijo jotvingius prie Drohičino."
   pagrindžia:
     - c-175420
 
 <a id="claim-t-193178"></a>
-- t-015
+- t-014
   global_id: t-193178
   teiginys: "Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičiną."
   pagrindžia:

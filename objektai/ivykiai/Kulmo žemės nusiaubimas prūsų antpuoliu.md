@@ -73,7 +73,7 @@ Nenurodyta
     - c-66849
 
 <a id="claim-t-66652"></a>
-- t-001
+- t-003
   global_id: t-66652
   teiginys: "Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę."
   pagrindžia:

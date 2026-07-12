@@ -32,14 +32,14 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
 ## Teiginiai
 
 <a id="claim-t-64573"></a>
-- t-002
+- t-001
   global_id: t-64573
   teiginys: "Dundulienės darbas cituojamas teiginiui, kad balti ir juodi Perkūno žirgai buvo žinomi, o tokio plauko žirgai ypatingai gerbti."
   pagrindžia:
     - c-65267
 
 <a id="claim-t-64574"></a>
-- t-001
+- t-002
   global_id: t-64574
   teiginys: "Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą."
   pagrindžia:

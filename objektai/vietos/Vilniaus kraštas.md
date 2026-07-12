@@ -43,21 +43,21 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
 ## Teiginiai
 
 <a id="claim-t-170918"></a>
-- t-010
+- t-001
   global_id: t-170918
   teiginys: "Lietuvai atgauto Vilniaus ir Vilniaus krašto integracija reikalavo daug lėšų, nes karo metu kraštas buvo nualintas, o modernios pramonės įmonės išvežtos į SSRS."
   pagrindžia:
     - c-155524
 
 <a id="claim-t-170919"></a>
-- t-006
+- t-002
   global_id: t-170919
   teiginys: "Lenkija ėmėsi ekonominių ir kultūrinių sankcijų prieš Vilniaus krašto lietuvių organizacijas."
   pagrindžia:
     - c-155528
 
 <a id="claim-t-170920"></a>
-- t-005
+- t-003
   global_id: t-170920
   teiginys: "Apie 100 000 lietuvių gyveno Vilniaus krašte."
   pagrindžia:
@@ -71,21 +71,21 @@ Ji visa, nuo Šventosios upės (pajūry) iki Lenkų okupuoto Vilniaus krašto (n
     - c-155525
 
 <a id="claim-t-170923"></a>
-- t-009
+- t-005
   global_id: t-170923
   teiginys: "Derybose su sovietais lietuviai siekė atgauti kelis lietuviškus Vilniaus krašto rajonus, tarp jų Švenčionis ir Druskininkus."
   pagrindžia:
     - c-155527
 
 <a id="claim-t-170924"></a>
-- t-003
+- t-006
   global_id: t-170924
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   pagrindžia:
     - c-155529
 
 <a id="claim-t-170925"></a>
-- t-008
+- t-007
   global_id: t-170925
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   pagrindžia:

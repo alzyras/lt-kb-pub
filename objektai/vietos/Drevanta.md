@@ -43,14 +43,14 @@ Dusburgietis teigia, kad 1222 bei 1230 m. dokumentuose Kulmo žemė apibūdinama
 ## Teiginiai
 
 <a id="claim-t-58431"></a>
-- t-002
+- t-001
   global_id: t-58431
   teiginys: "Drevanta skyrė lenkiškąją Dobrynės žemę nuo upių ir ežerų supamo ploto, o jos vardas laikomas baltišku."
   pagrindžia:
     - c-59062
 
 <a id="claim-t-184944"></a>
-- t-003
+- t-002
   global_id: t-184944
   teiginys: "Smarkiai patvinusi Drevanta sutrukdė grobiu apkrautiems kariams persikelti į Kulmo žemę."
   pagrindžia:

@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,14 +40,14 @@ VLIK Vyriausiasis Lietuvos išlaisvinimo komitetas. 1943–1944 m. pogrindyje ve
 ## Teiginiai
 
 <a id="claim-t-66324"></a>
-- t-003
+- t-001
   global_id: t-66324
   teiginys: "1943 m. gegužę–birželį gestapas suėmė šešis iš devynių Vyriausiojo Lietuvos išlaisvinimo komiteto vadovybės narių."
   pagrindžia:
     - c-66609
 
 <a id="claim-t-66326"></a>
-- t-004
+- t-002
   global_id: t-66326
   teiginys: "Iš Europos į JAV persikėlęs VLIK siekė veikti išvien su ALT ir PLB bei tarptautiniu mastu pasitarnauti Lietuvos laisvės bylai."
   pagrindžia:

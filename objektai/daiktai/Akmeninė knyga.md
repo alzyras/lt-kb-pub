@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - krikštas
+  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

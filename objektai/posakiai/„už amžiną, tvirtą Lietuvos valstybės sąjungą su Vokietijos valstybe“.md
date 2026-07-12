@@ -13,10 +13,10 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - posakis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XIX'
   - 'XX'
@@ -49,14 +49,14 @@ media_all_json: |-
     - c-23682
 
 <a id="claim-t-45873"></a>
-- t-003
+- t-002
   global_id: t-45873
   teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą Lietuvos valstybės sąjungą su Vokietijos valstybe“."
   pagrindžia:
     - c-48534
 
 <a id="claim-t-45874"></a>
-- t-001
+- t-003
   global_id: t-45874
   teiginys: "1917 m. pabaigoje Vokietija spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir jos prisijungimą prie Vokietijos."
   pagrindžia:

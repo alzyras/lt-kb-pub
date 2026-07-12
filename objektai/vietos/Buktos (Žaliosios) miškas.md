@@ -37,7 +37,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
     - c-43351
 
 <a id="claim-t-41633"></a>
-- t-003
+- t-002
   global_id: t-41633
   teiginys: "Staniškis-Litas įsakė Dzūkų būriui trauktis į Buktos (Žaliosios) miško ir Palių pakraštį."
   pagrindžia:

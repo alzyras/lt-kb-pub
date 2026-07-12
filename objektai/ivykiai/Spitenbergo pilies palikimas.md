@@ -54,7 +54,7 @@ Nenurodyta
     - c-63143
 
 <a id="claim-t-62483"></a>
-- t-001
+- t-002
   global_id: t-62483
   teiginys: "Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais."
   pagrindžia:

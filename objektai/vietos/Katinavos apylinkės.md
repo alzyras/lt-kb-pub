@@ -14,7 +14,7 @@ tags:
   - pilis
   - upė
   - vieta
-  - žemėlapis
+  - šventė
 amziai:
   - 'XVI'
   - 'XX'
@@ -40,14 +40,14 @@ Dusburgietis teigia, kad stalupėnų apylinkėse — Šventiškės upė ir Šven
 ## Teiginiai
 
 <a id="claim-t-58570"></a>
-- t-002
+- t-001
   global_id: t-58570
   teiginys: "Katinavos apylinkės išsiskyrė tarp pagoniškam kultui skirtų Nadruvos regionų, nes Katinavos kalva buvo laikoma šventa."
   pagrindžia:
     - c-59202
 
 <a id="claim-t-58571"></a>
-- t-001
+- t-002
   global_id: t-58571
   teiginys: "Katinavos apylinkės apibūdintos kaip ryškus pagoniško kulto židinys."
   pagrindžia:

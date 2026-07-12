@@ -59,42 +59,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75174"></a>
-- t-002
+- t-001
   global_id: t-75174
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   pagrindžia:
     - c-23071
 
 <a id="claim-t-75175"></a>
-- t-006
+- t-002
   global_id: t-75175
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   pagrindžia:
     - c-73065
 
 <a id="claim-t-75178"></a>
-- t-004
+- t-003
   global_id: t-75178
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
   pagrindžia:
     - c-166641
 
 <a id="claim-t-75179"></a>
-- t-003
+- t-004
   global_id: t-75179
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-23072
 
 <a id="claim-t-183252"></a>
-- t-007
+- t-005
   global_id: t-183252
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-166640
 
 <a id="claim-t-75178"></a>
-- t-004
+- t-006
   global_id: t-75178
   teiginys: "1946–1948 m. Lietuvos partizanai perėjo prie pasalų organizavimo ir sovietinių pareigūnų bei šnipų naikinimo taktikos."
   pagrindžia:

@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75249"></a>
-- t-003
+- t-001
   global_id: t-75249
   teiginys: "Lucko suvažiavime dalyvavo Maskvos, Tverės, Riazanės, Odojevo, Didžiojo Naugardo, Pskovo ir kitų valstybių atstovai."
   pagrindžia:
     - c-73097
 
 <a id="claim-t-75250"></a>
-- t-001
+- t-002
   global_id: t-75250
   teiginys: "Lucko suvažiavimas vyko 1429 m. sausio 9–29 d. ir buvo skirtas Vidurio bei Rytų Europos politikos problemoms aptarti."
   pagrindžia:
     - c-23136
 
 <a id="claim-t-75251"></a>
-- t-002
+- t-003
   global_id: t-75251
   teiginys: "Lucko suvažiavimas rodė LDK ir Vytauto vaidmens svarbą regione ir į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano."
   pagrindžia:

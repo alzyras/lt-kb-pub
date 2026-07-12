@@ -40,14 +40,14 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
 ## Teiginiai
 
 <a id="claim-t-88040"></a>
-- t-002
+- t-001
   global_id: t-88040
   teiginys: "Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“."
   pagrindžia:
     - c-84020
 
 <a id="claim-t-88041"></a>
-- t-001
+- t-002
   global_id: t-88041
   teiginys: "Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms."
   pagrindžia:

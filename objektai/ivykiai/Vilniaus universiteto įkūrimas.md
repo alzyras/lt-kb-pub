@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71774"></a>
-- t-004
+- t-001
   global_id: t-71774
   teiginys: "Yra ir kitas senojo Vilniaus universiteto istorinės reikšmės aspektas."
   pagrindžia:
@@ -73,14 +73,14 @@ Nenurodyta
     - c-23272
 
 <a id="claim-t-71776"></a>
-- t-001
+- t-003
   global_id: t-71776
   teiginys: "Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą."
   pagrindžia:
     - c-166672
 
 <a id="claim-t-71777"></a>
-- t-003
+- t-004
   global_id: t-71777
   teiginys: "1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv."
   pagrindžia:
@@ -94,7 +94,7 @@ Nenurodyta
     - c-23274
 
 <a id="claim-t-71776"></a>
-- t-001
+- t-006
   global_id: t-71776
   teiginys: "Į Lietuvą atvykę jėzuitai 1579 m. įkūrė Vilniaus universitetą."
   pagrindžia:

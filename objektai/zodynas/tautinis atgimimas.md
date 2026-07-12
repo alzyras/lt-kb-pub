@@ -11,7 +11,8 @@ date_start: '1861'
 date_end: '1905'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
   - 'XX'
@@ -63,7 +64,7 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 ## Teiginiai
 
 <a id="claim-t-05466"></a>
-- t-004
+- t-001
   global_id: t-05466
   teiginys: "Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu."
   pagrindžia:

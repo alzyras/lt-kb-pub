@@ -54,28 +54,28 @@ Pasidalinę mažais būre­ liais ir nuterioję kelias Sambijos krašto sritis, 
     - c-171719
 
 <a id="claim-t-192752"></a>
-- t-004
+- t-003
   global_id: t-192752
   teiginys: "Narbutas pabrėžė, kad 1224 m. popiežiaus Honorijaus III bulėje Vitlandija minima atskirai greta Sambijos."
   pagrindžia:
     - c-175522
 
 <a id="claim-t-192753"></a>
-- t-005
+- t-004
   global_id: t-192753
   teiginys: "Narbutas teigė, kad senovės žemėlapiuose Sambija, ypač jos jūros pakrantės, atrodė kitaip dėl jūros ir Aistmarių bangų pokyčių."
   pagrindžia:
     - c-175523
 
 <a id="claim-t-194752"></a>
-- t-006
+- t-005
   global_id: t-194752
   teiginys: "Pasak Faterio (cituota vieta), atrodo, čia nėra ko prikišti, ir tai tiesa, nes apie tokių pačių iš esmės romovių buvimą turime žinių iš kitų vietų: seniausia, apie kokią žinome, buvo Sambijos pajūryje; o kad vėliau kiek vienoje provincijoje turėjo būti panaši."
   pagrindžia:
     - c-177148
 
 <a id="claim-t-194937"></a>
-- t-007
+- t-006
   global_id: t-194937
   teiginys: "Sambijoje buvo gynybinių miestų, puikių dievams garbinti skirtų šventųjų vietų, pastatytų turtin gų dvarų ir dėl nepaliaujamų susidūrimų su pakrančių plėšikais gana daug laukinių, nepasitikinčių, tarpusavyje besivaidijančių gyventojų."
   pagrindžia:

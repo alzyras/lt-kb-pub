@@ -69,168 +69,168 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08355"></a>
-- t-004
+- t-001
   global_id: t-08355
   teiginys: "Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis."
   pagrindžia:
     - c-10308
 
 <a id="claim-t-08356"></a>
-- t-005
+- t-002
   global_id: t-08356
   teiginys: "Prie karūžojo buvo laikoma karės vėliava tos apykartos."
   pagrindžia:
     - c-10309
 
 <a id="claim-t-08357"></a>
-- t-006
+- t-003
   global_id: t-08357
   teiginys: "Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu."
   pagrindžia:
     - c-10310
 
 <a id="claim-t-10166"></a>
-- t-007
+- t-004
   global_id: t-10166
   teiginys: "1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   pagrindžia:
     - c-160238
 
 <a id="claim-t-10167"></a>
-- t-008
+- t-005
   global_id: t-10167
   teiginys: "Žalgirio mūšyje lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   pagrindžia:
     - c-42581
 
 <a id="claim-t-10168"></a>
-- t-009
+- t-006
   global_id: t-10168
   teiginys: "Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava."
   pagrindžia:
     - c-42582
 
 <a id="claim-t-12340"></a>
-- t-010
+- t-007
   global_id: t-12340
   teiginys: "Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą."
   pagrindžia:
     - c-14345
 
 <a id="claim-t-12341"></a>
-- t-011
+- t-008
   global_id: t-12341
   teiginys: "Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio."
   pagrindžia:
     - c-36751
 
 <a id="claim-t-12343"></a>
-- t-013
+- t-009
   global_id: t-12343
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs dar prieš karą."
   pagrindžia:
     - c-160236
 
 <a id="claim-t-12344"></a>
-- t-014
+- t-010
   global_id: t-12344
   teiginys: "Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava."
   pagrindžia:
     - c-14349
 
 <a id="claim-t-176206"></a>
-- t-023
+- t-011
   global_id: t-176206
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
   pagrindžia:
     - c-160240
 
 <a id="claim-t-176207"></a>
-- t-002
+- t-012
   global_id: t-176207
   teiginys: "Vytauto vadovaujami Lietuvos pulkai buvo patraukę paskui save kelias priešo vėliavas ir sugrįžo į kovos lauką."
   pagrindžia:
     - c-160241
 
 <a id="claim-t-176209"></a>
-- t-019
+- t-013
   global_id: t-176209
   teiginys: "Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti."
   pagrindžia:
     - c-160245
 
 <a id="claim-t-176210"></a>
-- t-001
+- t-014
   global_id: t-176210
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   pagrindžia:
     - c-160234
 
 <a id="claim-t-176211"></a>
-- t-018
+- t-015
   global_id: t-176211
   teiginys: "Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava."
   pagrindžia:
     - c-42582
 
 <a id="claim-t-176212"></a>
-- t-020
+- t-016
   global_id: t-176212
   teiginys: "Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui."
   pagrindžia:
     - c-36751
 
 <a id="claim-t-176213"></a>
-- t-003
+- t-017
   global_id: t-176213
   teiginys: "1410 m. rudenį Transilvanijos vaivada puolė Lenkiją su 10 vėliavų."
   pagrindžia:
     - c-160235
 
 <a id="claim-t-176214"></a>
-- t-022
+- t-018
   global_id: t-176214
   teiginys: "Jogailą saugojo kunigaikščio Kaributo vėliava, kurią Vytautas buvo nusiuntęs Jogailai dar prieš karą."
   pagrindžia:
     - c-160237
 
 <a id="claim-t-176215"></a>
-- t-016
+- t-019
   global_id: t-176215
   teiginys: "XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje."
   pagrindžia:
     - c-160246
 
 <a id="claim-t-176216"></a>
-- t-017
+- t-020
   global_id: t-176216
   teiginys: "Lietuviai, pridengę lenkų kraštines pozicijas trimis Smolensko vėliavomis, pradėjo atsitraukimo manevrą."
   pagrindžia:
     - c-160239
 
 <a id="claim-t-176217"></a>
-- t-015
+- t-021
   global_id: t-176217
   teiginys: "Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos."
   pagrindžia:
     - c-160238
 
 <a id="claim-t-184344"></a>
-- t-024
+- t-022
   global_id: t-184344
   teiginys: "Vyriausioji Lenkijos vėliava pateko į priešų rankas."
   pagrindžia:
     - c-167714
 
 <a id="claim-t-184602"></a>
-- t-025
+- t-023
   global_id: t-184602
   teiginys: "Herulai, tapę Romos sąjungininkais ir pagalbine kariuomene, daugelį amžių karo tarnyboje gynė romėnų vėliavas."
   pagrindžia:
     - c-167963
 
 <a id="claim-t-192507"></a>
-- t-026
+- t-024
   global_id: t-192507
   teiginys: "Narbuto pasakojime jotvingiai smarkiai puolė Lozoriaus rezerve buvusius poloviečius ir atėmė vado vėliavą."
   pagrindžia:

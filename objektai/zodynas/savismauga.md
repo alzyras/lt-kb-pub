@@ -37,7 +37,7 @@ Dėl šios ir kitų priežasčių lietuvių pogrindžio spauda nacių leistą sa
     - c-166858
 
 <a id="claim-t-22297"></a>
-- t-001
+- t-002
   global_id: t-22297
   teiginys: "Lietuvių pogrindžio spauda nacių leistą savivaldą vadino „savismauga“, nes jos pareigūnai tarnavo vokiečiams ir padėjo išnaudoti kraštą."
   pagrindžia:

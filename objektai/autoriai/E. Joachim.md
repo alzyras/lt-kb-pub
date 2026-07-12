@@ -11,7 +11,6 @@ atnaujinta: ''
 tags:
   - autorius
   - diplomatas
-  - privilegija
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

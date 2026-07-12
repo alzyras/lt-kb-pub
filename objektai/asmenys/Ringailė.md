@@ -40,7 +40,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Teiginiai
 
 <a id="claim-t-93490"></a>
-- t-003
+- t-001
   global_id: t-93490
   teiginys: "1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas."
   pagrindžia:

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - karalius
   - karas
   - miestas
-  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

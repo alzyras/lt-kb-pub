@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - vieta
 amziai:
@@ -45,7 +46,7 @@ Didžioji lietuvių kolonija Šiaurės Amerikoj nuo pat karo pradžios griebėsi
     - c-47210
 
 <a id="claim-t-44043"></a>
-- t-001
+- t-002
   global_id: t-44043
   teiginys: "Lietuvių kolonija Šiaurės Amerikoje nuo karo pradžios šelpė nukentėjusią Lietuvą ir iš pradžių reikalavo autonomijos, vėliau nepriklausomybės."
   pagrindžia:

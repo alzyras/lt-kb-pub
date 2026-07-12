@@ -59,14 +59,14 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
 ## Teiginiai
 
 <a id="claim-t-54446"></a>
-- t-002
+- t-001
   global_id: t-54446
   teiginys: "Vilniuje sušauktas visuotinis lietuvių kunigaikščių ir bajorų seimas paskelbė didelį religijos pokytį."
   pagrindžia:
     - c-55329
 
 <a id="claim-t-54447"></a>
-- t-004
+- t-002
   global_id: t-54447
   teiginys: "Krikšto metu buvo užgesinta amžinoji ugnis, iškirstos šventos girios, sugriauta Perkūno šventykla ir pradėta statyti Šv. Stanislovo katedra."
   pagrindžia:
@@ -80,7 +80,7 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
     - c-55329
 
 <a id="claim-t-54449"></a>
-- t-001
+- t-004
   global_id: t-54449
   teiginys: "1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais."
   pagrindžia:

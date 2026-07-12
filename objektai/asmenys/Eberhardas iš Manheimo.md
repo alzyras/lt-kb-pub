@@ -13,7 +13,7 @@ tags:
   - asmuo
   - miestas
   - ordinas
-  - privilegija
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -27,14 +27,14 @@ Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto
 ## Teiginiai
 
 <a id="claim-t-191300"></a>
-- t-002
+- t-001
   global_id: t-191300
   teiginys: "Teodoras Narbutas Protoną I laikė beveik Romos imperatoriaus Oktaviano Augusto amžininku, tik kiek jaunesniu."
   pagrindžia:
     - c-174182
 
 <a id="claim-t-191965"></a>
-- t-003
+- t-002
   global_id: t-191965
   teiginys: "Narbuto pasakojime Dionyzas iš Charakso imperatoriaus Oktaviano Augusto laikais geografiškai aprašė pasaulį ir minėjo Pantikapo bei Aldeskos upes."
   pagrindžia:

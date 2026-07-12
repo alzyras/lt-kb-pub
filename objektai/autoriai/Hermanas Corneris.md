@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - metraštininkas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,14 +30,14 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
 ## Teiginiai
 
 <a id="claim-t-54637"></a>
-- t-002
+- t-001
   global_id: t-54637
   teiginys: "Hermanas Corneris savo kronikoje Gedimino laiškų neminėjo ir viską priskyrė Rygos arkivyskupui."
   pagrindžia:
     - c-55544
 
 <a id="claim-t-54638"></a>
-- t-001
+- t-002
   global_id: t-54638
   teiginys: "Hermano Cornerio kronika cituojama pasakojant apie Vilniaus miestiečius ir Jogailą."
   pagrindžia:

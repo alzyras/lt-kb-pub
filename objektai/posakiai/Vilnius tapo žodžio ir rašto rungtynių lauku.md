@@ -5,7 +5,9 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
+  - vilnius
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

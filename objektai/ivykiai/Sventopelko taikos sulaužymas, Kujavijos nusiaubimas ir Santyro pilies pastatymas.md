@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62927"></a>
-- t-002
+- t-001
   global_id: t-62927
   teiginys: "Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį."
   pagrindžia:
     - c-63801
 
 <a id="claim-t-62928"></a>
-- t-001
+- t-002
   global_id: t-62928
   teiginys: "Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino."
   pagrindžia:

@@ -38,28 +38,28 @@ Dusburgietis teigia, kad apie vienos pilies užkariavimą ir apie Kristburgo pil
 ## Teiginiai
 
 <a id="claim-t-89176"></a>
-- t-002
+- t-001
   global_id: t-89176
   teiginys: "Prūsijos naujakrikščiai dalyvavo kariuomenėje, kuri buvo padalyta į dvi dalis pulti pilį iš priekio ir iš kitos pusės."
   pagrindžia:
     - c-85145
 
 <a id="claim-t-89177"></a>
-- t-004
+- t-002
   global_id: t-89177
   teiginys: "Po Vokietijos kunigaikščių žygių minėti Prūsijos naujakrikščiai atsimetėliai grįžo į tikėjimą ir iš naujo pasidavė broliams."
   pagrindžia:
     - c-85144
 
 <a id="claim-t-89178"></a>
-- t-001
+- t-003
   global_id: t-89178
   teiginys: "Magistras Henrikas rengėsi sunaikinti Sventopelką ir Prūsijos naujakrikščius atsimetėlius, kaltintus žala tikėjimui ir tikintiesiems."
   pagrindžia:
     - c-85146
 
 <a id="claim-t-89179"></a>
-- t-003
+- t-004
   global_id: t-89179
   teiginys: "1251 m. Brandenburgo markgrafas, o kitais metais Merzeburgo vyskupas ir grafas Henrikas iš Svarcburgo niokojo atsimetėlių žemes Prūsijoje."
   pagrindžia:

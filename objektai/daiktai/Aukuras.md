@@ -58,35 +58,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-55031"></a>
-- t-005
+- t-001
   global_id: t-55031
   teiginys: "Šventaragio slėnyje buvęs aukuras buvo skirtas mirusiųjų kūnams deginti pagal lietuvių pagonių papročius."
   pagrindžia:
     - c-55376
 
 <a id="claim-t-55032"></a>
-- t-006
+- t-002
   global_id: t-55032
   teiginys: "Lotyniškas žodis „rogus“ reiškė aukurą, skirtą mirusiųjų kūnams deginti ir laidoti."
   pagrindžia:
     - c-55377
 
 <a id="claim-t-81841"></a>
-- t-004
+- t-003
   global_id: t-81841
   teiginys: "Pasak legendos, Birutė pasitraukė nuo dievų aukuro į šeimos židinį ir išaugino Vytautą."
   pagrindžia:
     - c-36712
 
 <a id="claim-t-188375"></a>
-- t-007
+- t-004
   global_id: t-188375
   teiginys: "Narbutas aukurą aprašo kaip pakilesnę vietą atviroje aikštėje, miškuose arba bestogėje šventykloje su pusės žmogaus ūgio ugniaviete."
   pagrindžia:
     - c-171269
 
 <a id="claim-t-194613"></a>
-- t-008
+- t-005
   global_id: t-194613
   teiginys: "Taip pat buvo tam tikrų didelių akmenų-aukurų, paskirtų dievams, - tai matėme iš straipsnio „Ganiklis“."
   pagrindžia:

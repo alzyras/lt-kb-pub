@@ -37,21 +37,21 @@ Volyniečių žygiavimas į Naugarduką ėjo per Pinsko pelkes link Sčaros. Sč
 ## Teiginiai
 
 <a id="claim-t-187346"></a>
-- t-003
+- t-001
   global_id: t-187346
   teiginys: "Komentare Sčara įvardijama kaip Nemuno pietinis intakas."
   pagrindžia:
     - c-170369
 
 <a id="claim-t-187347"></a>
-- t-001
+- t-002
   global_id: t-187347
   teiginys: "1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros."
   pagrindžia:
     - c-170368
 
 <a id="claim-t-187347"></a>
-- t-001
+- t-003
   global_id: t-187347
   teiginys: "1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros."
   pagrindžia:

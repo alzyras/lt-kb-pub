@@ -40,14 +40,14 @@ Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuoči
 ## Teiginiai
 
 <a id="claim-t-182874"></a>
-- t-022
+- t-001
   global_id: t-182874
   teiginys: "Rytų Pabaltijo žemėje išlikę senosios kultūros paminklai leidžia giliau pažinti lietuvių protėvių ir artimų baltų giminių praeitį."
   pagrindžia:
     - c-166279
 
 <a id="claim-t-193222"></a>
-- t-023
+- t-002
   global_id: t-193222
   teiginys: "Prasidėjus deryboms, Algirdas su Kęstučiu, neatsisakydami krikštytis, pareikalavo, kad kryžiuočių ordinas išsikraustytų iš Pabaltijo ir persikeltų į Rusijos tyrus ginti Europos nuo totorių."
   pagrindžia:

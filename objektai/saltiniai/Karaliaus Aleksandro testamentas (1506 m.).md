@@ -42,21 +42,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88192"></a>
-- t-002
+- t-001
   global_id: t-88192
   teiginys: "1506 m. testamente Aleksandras skelbė, kad būdamas kūnu nusilpęs, bet sveiko proto išdėstė paskutinę valią."
   pagrindžia:
     - c-84170
 
 <a id="claim-t-88193"></a>
-- t-003
+- t-002
   global_id: t-88193
   teiginys: "Aleksandro testamentas buvo duotas Lydos pilyje 1506 m. Šv. Jokūbo apaštalo šventės išvakarėse."
   pagrindžia:
     - c-84172
 
 <a id="claim-t-194209"></a>
-- t-004
+- t-003
   global_id: t-194209
   teiginys: "VILNIAUS MIESTO ISTORIJA// TOMAS KARALIAUS ALEKSANDRO TESTAMENTAS 1506 METAI (Iš Dogelio rankraščių buv."
   pagrindžia:

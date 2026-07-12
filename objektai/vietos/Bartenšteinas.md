@@ -42,7 +42,7 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
 ## Teiginiai
 
 <a id="claim-t-58298"></a>
-- t-003
+- t-001
   global_id: t-58298
   teiginys: "Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis."
   pagrindžia:
@@ -56,70 +56,70 @@ Dusburgietis teigia, kad kai kryžiuočiai jau nebegalėjo priešintis apgultame
     - c-58936
 
 <a id="claim-t-58300"></a>
-- t-007
+- t-003
   global_id: t-58300
   teiginys: "Sūduviai apsiautė Bartenšteino pilį, ją sugriovė, gyventojus išžudė arba išsivarė į nelaisvę ir pilį sudegino."
   pagrindžia:
     - c-58933
 
 <a id="claim-t-58301"></a>
-- t-005
+- t-004
   global_id: t-58301
   teiginys: "Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių."
   pagrindžia:
     - c-58932
 
 <a id="claim-t-58302"></a>
-- t-008
+- t-005
   global_id: t-58302
   teiginys: "Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai."
   pagrindžia:
     - c-58934
 
 <a id="claim-t-58303"></a>
-- t-004
+- t-006
   global_id: t-58303
   teiginys: "Bartenšteinas buvo Alnos upės kairiajame krante, o pilies kalnas stovėjo miesto šiaurinėje dalyje."
   pagrindžia:
     - c-58930
 
 <a id="claim-t-58305"></a>
-- t-001
+- t-007
   global_id: t-58305
   teiginys: "Dusburgietis pasakoja, kad apgultame Bartenšteine nebegalėję priešintis kryžiuočiai Dievo buvo pamokyti bėgti paliekant pilį."
   pagrindžia:
     - c-58931
 
 <a id="claim-t-58298"></a>
-- t-003
+- t-008
   global_id: t-58298
   teiginys: "Bartos žemėje Vokiečių ordino broliai pastatė Bartenšteino, Vizenburgo ir Rezlio pilis."
   pagrindžia:
     - c-167532
 
 <a id="claim-t-58301"></a>
-- t-005
+- t-009
   global_id: t-58301
   teiginys: "Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių."
   pagrindžia:
     - c-58932
 
 <a id="claim-t-184149"></a>
-- t-011
+- t-010
   global_id: t-184149
   teiginys: "Po to broliai atstatė Bartenšteino pilį, kur gyvena po šiai dienai."
   pagrindžia:
     - c-167534
 
 <a id="claim-t-194529"></a>
-- t-012
+- t-011
   global_id: t-194529
   teiginys: "Apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   pagrindžia:
     - c-58932
 
 <a id="claim-t-194730"></a>
-- t-013
+- t-012
   global_id: t-194730
   teiginys: "Vėliau, pagal 1331 metų rugsėjo 17 dienos sutartį, sudarytą stovykloje prie Bartenšteino, tos pilys buvo sunaikintos."
   pagrindžia:

@@ -99,6 +99,8 @@ Dusburgietis teigia, kad apie tai, kaip hospitaljerai užėmė Rodo salą Tais p
   teiginys: "Antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą."
   pagrindžia:
     - c-168784
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 ## Reikšmingi paminėjimai
 
 - c-001

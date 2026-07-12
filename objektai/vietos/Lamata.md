@@ -32,14 +32,14 @@ Dusburgietis teigia, kad trumpai kalbant, jis taip ryžtingai kariavo, kad per �
 ## Teiginiai
 
 <a id="claim-t-58584"></a>
-- t-002
+- t-001
   global_id: t-58584
   teiginys: "Lamata buvo į šiaurę nuo Nemuno žemupio, tikriausiai tarp Skalvos ir Kuršo."
   pagrindžia:
     - c-59217
 
 <a id="claim-t-58585"></a>
-- t-001
+- t-002
   global_id: t-58585
   teiginys: "Lamatos žemė minima kaip Nemuno pakrantėje gyvenusių lietuvių srities riba nuo Neries upės."
   pagrindžia:

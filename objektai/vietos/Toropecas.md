@@ -40,7 +40,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 ## Teiginiai
 
 <a id="claim-t-42189"></a>
-- t-003
+- t-001
   global_id: t-42189
   teiginys: "Rugsėjo 9 d. lietuviai susirėmė su Toropeco įgula ir nukovė 200 rusų šaulių."
   pagrindžia:
@@ -54,7 +54,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
     - c-45361
 
 <a id="claim-t-42191"></a>
-- t-001
+- t-003
   global_id: t-42191
   teiginys: "K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes."
   pagrindžia:

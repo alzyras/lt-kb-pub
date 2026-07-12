@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78672"></a>
-- t-002
+- t-001
   global_id: t-78672
   teiginys: "Pirmųjų Lietuvos karių skiriamasis ženklas buvo trikampis tautinių spalvų rankovės antsiuvas."
   pagrindžia:
     - c-75886
 
 <a id="claim-t-78673"></a>
-- t-001
+- t-002
   global_id: t-78673
   teiginys: "Lietuvos kariuomenės savanorio rankovės antsiuvas buvo trikampis tautinių spalvų skiriamasis ženklas."
   pagrindžia:

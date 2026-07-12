@@ -39,7 +39,7 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
     - c-169751
 
 <a id="claim-t-186408"></a>
-- t-001
+- t-002
   global_id: t-186408
   teiginys: "Gediminas laiškuose Vakarams vartojo titulą „rex“, o Algirdas laiškuose Bizantijos imperijai vartojo titulą „bazileus“."
   pagrindžia:

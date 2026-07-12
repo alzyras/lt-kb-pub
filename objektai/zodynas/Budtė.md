@@ -51,14 +51,14 @@ Vardas vartojamas kaip deivės pavadinimas, bet šiame gabale pateikiamas su ai�
     - c-175035
 
 <a id="claim-t-192155"></a>
-- t-001
+- t-002
   global_id: t-192155
   teiginys: "Narbutas Budtę apibrėžia kaip išminties ir proto deivę."
   pagrindžia:
     - c-175035
 
 <a id="claim-t-192155"></a>
-- t-001
+- t-003
   global_id: t-192155
   teiginys: "Narbutas Budtę apibrėžia kaip išminties ir proto deivę."
   pagrindžia:

@@ -45,91 +45,91 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
 ## Teiginiai
 
 <a id="claim-t-187873"></a>
-- t-013
+- t-001
   global_id: t-187873
   teiginys: "1401 m. susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos bajorai ir Lenkijos bajorai."
   pagrindžia:
     - c-170868
 
 <a id="claim-t-187874"></a>
-- t-006
+- t-002
   global_id: t-187874
   teiginys: "Pirmą kartą pabėgęs pas Ordiną, Vytautas sulaukė nemažai bajorų iš tikrosios Lietuvos ir Žemaičių paramos."
   pagrindžia:
     - c-170864
 
 <a id="claim-t-187875"></a>
-- t-012
+- t-003
   global_id: t-187875
   teiginys: "1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus."
   pagrindžia:
     - c-170863
 
 <a id="claim-t-187876"></a>
-- t-011
+- t-004
   global_id: t-187876
   teiginys: "Katalikiškajai Lietuvos bajorijai didžiojo kunigaikščio elgesys buvo nepriimtinas."
   pagrindžia:
     - c-170870
 
 <a id="claim-t-187890"></a>
-- t-010
+- t-005
   global_id: t-187890
   teiginys: "Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu."
   pagrindžia:
     - c-170866
 
 <a id="claim-t-187878"></a>
-- t-002
+- t-006
   global_id: t-187878
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų."
   pagrindžia:
     - c-170871
 
 <a id="claim-t-187879"></a>
-- t-016
+- t-007
   global_id: t-187879
   teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kuriai vadovavo grafas Soltanas."
   pagrindžia:
     - c-46363
 
 <a id="claim-t-187880"></a>
-- t-001
+- t-008
   global_id: t-187880
   teiginys: "Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai."
   pagrindžia:
     - c-170862
 
 <a id="claim-t-187881"></a>
-- t-020
+- t-009
   global_id: t-187881
   teiginys: "Įvadinio straipsnio autorius teigia, kad neigiamas požiūris į sulenkėjusią Lietuvos bajoriją atitolino nuo jos kūrybos ir istorijos tyrimų supratimo."
   pagrindžia:
     - c-170855
 
 <a id="claim-t-187882"></a>
-- t-021
+- t-010
   global_id: t-187882
   teiginys: "Įvadinio straipsnio autorius XVI–XVIII a. lietuvį istorinėje Lietuvoje apibrėžia kaip bajorą, gynusį politines laisves ir Lietuvos Statuto teises."
   pagrindžia:
     - c-170856
 
 <a id="claim-t-187884"></a>
-- t-017
+- t-011
   global_id: t-187884
   teiginys: "1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
   pagrindžia:
     - c-170863
 
 <a id="claim-t-187880"></a>
-- t-001
+- t-012
   global_id: t-187880
   teiginys: "Žygimanto Kęstutaičio Trakuose sušauktas seimas turėjo parengti paskutinį smūgį Rusios ir Lietuvos bajorijai."
   pagrindžia:
     - c-170862
 
 <a id="claim-t-187886"></a>
-- t-005
+- t-013
   global_id: t-187886
   teiginys: "Lietuvos Didžiosios Kunigaikštystės bajorai šaukimo metu privalėjo vykdyti krašto karinę tarnybą ir vykti į karą."
   pagrindžia:
@@ -143,84 +143,84 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
     - c-170870
 
 <a id="claim-t-187888"></a>
-- t-007
+- t-015
   global_id: t-187888
   teiginys: "Kojalavičius rašė tuo metu, kai Lietuvos bajorijos sluoksniuose jau ryškėjo savos valstybingumo sąmonės silpnėjimas."
   pagrindžia:
     - c-170869
 
 <a id="claim-t-187889"></a>
-- t-009
+- t-016
   global_id: t-187889
   teiginys: "Napoleonas leido Lietuvos bajorijai sudaryti laikiną savo valdžią."
   pagrindžia:
     - c-170867
 
 <a id="claim-t-187890"></a>
-- t-010
+- t-017
   global_id: t-187890
   teiginys: "Vasaliniai kunigaikščiai ir Lietuvos bajorai tapo ypatingu Žygimanto Kęstutaičio neapykantos taikiniu."
   pagrindžia:
     - c-170866
 
 <a id="claim-t-187891"></a>
-- t-003
+- t-018
   global_id: t-187891
   teiginys: "Kojalavičiaus laikais Lietuvos bajorijos sluoksniuose jau ryškiau matėsi savos valstybingumo sąmonės silpnėjimas."
   pagrindžia:
     - c-170869
 
 <a id="claim-t-187892"></a>
-- t-004
+- t-019
   global_id: t-187892
   teiginys: "Vytautui pirmą kartą pabėgus pas Ordiną, prie jo prisidėjo nemažai bajorų iš tikrosios Lietuvos ir ypač Žemaitijos."
   pagrindžia:
     - c-170864
 
 <a id="claim-t-188281"></a>
-- t-022
+- t-020
   global_id: t-188281
   teiginys: "Narbutas perteikia autoriaus pagyrimą Lietuvos bajorams, kurie, vėl paklusę Apaštališkajam sostui, esą nusipelnė didžio vardo Bažnyčioje."
   pagrindžia:
     - c-171175
 
 <a id="claim-t-188282"></a>
-- t-023
+- t-021
   global_id: t-188282
   teiginys: "Narbutas teigė, kad keli aiškiai lietuviški herbai pateko į Lenkijos herbynus veikiausiai atsikėlus juos naudojusioms šeimoms."
   pagrindžia:
     - c-171176
 
 <a id="claim-t-188283"></a>
-- t-024
+- t-022
   global_id: t-188283
   teiginys: "Įvadinio straipsnio autorius teigia, kad lenkiškai parašytas Narbuto veikalas išryškino lietuvių ir koroniažų etnokultūrinius skirtumus."
   pagrindžia:
     - c-171177
 
 <a id="claim-t-188284"></a>
-- t-025
+- t-023
   global_id: t-188284
   teiginys: "Narbutas aiškino, kad herbo vardas „Kiniglis“ lietuvių kalboje reiškia triušį, o ne Neseckio nurodytą kiškį."
   pagrindžia:
     - c-171178
 
 <a id="claim-t-193110"></a>
-- t-026
+- t-024
   global_id: t-193110
   teiginys: "Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laikąs jį ir Lietuvos bajorus laisvais ar nelaisvais."
   pagrindžia:
     - c-175870
 
 <a id="claim-t-193111"></a>
-- t-027
+- t-025
   global_id: t-193111
   teiginys: "Jo valdymo metu Lietuva jau tiek sutvirtėjo, jog apie jos priklausomybę Lenkijai nebegalėjo būti nė kalbos, ir Lietuvos bajorai tuojau po jo mirties, nieko nesiklausę, paskelbė savo valdovu Švitrigailą."
   pagrindžia:
     - c-175871
 
 <a id="claim-t-193112"></a>
-- t-028
+- t-026
   global_id: t-193112
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija tuojau sujudo rūpintis atgaivinti didžiąją kunigaikštiją Napoleono globoje."
   pagrindžia:

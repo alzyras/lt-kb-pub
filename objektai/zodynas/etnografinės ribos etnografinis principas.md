@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
   - upė
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,42 +38,42 @@ Konferencijos pagrindinėje rezoliucijoje lietuviai nubrėžė būsimos valstyb�
 ## Teiginiai
 
 <a id="claim-t-101580"></a>
-- t-003
+- t-001
   global_id: t-101580
   teiginys: "Delegacija derybose dėl sienų turėjo remtis etnografiniu principu ir daryti būtiniausias ekonomines korektyvas."
   pagrindžia:
     - c-24822
 
 <a id="claim-t-101581"></a>
-- t-001
+- t-002
   global_id: t-101581
   teiginys: "Konferencijos rezoliucijoje būsima Lietuvos valstybė apibrėžta kaip demokratiška nepriklausoma valstybė etnografinėmis ribomis."
   pagrindžia:
     - c-24820
 
 <a id="claim-t-101582"></a>
-- t-002
+- t-003
   global_id: t-101582
   teiginys: "1917 m. Berno konferencijoje pasisakyta už Lietuvos teritorijos formavimą etnografiniu principu „Lithuania Propria“ ribose."
   pagrindžia:
     - c-24821
 
 <a id="claim-t-183421"></a>
-- t-005
+- t-004
   global_id: t-183421
   teiginys: "Konferencijos rezoliucija numatė nepriklausomą demokratinę Lietuvos valstybę etnografinėmis ribomis su ekonominėmis korektyvomis."
   pagrindžia:
     - c-166815
 
 <a id="claim-t-183422"></a>
-- t-006
+- t-005
   global_id: t-183422
   teiginys: "Lietuvos delegacija sienų klausimu turėjo remtis etnografiniu principu ir būtiniausiomis ekonominėmis korektyvomis."
   pagrindžia:
     - c-166816
 
 <a id="claim-t-193605"></a>
-- t-007
+- t-006
   global_id: t-193605
   teiginys: "Abi tos grupuotės pritarė tautų apsisprendimo principui ir Lietuvos valstybingumo istorinei tradicijai, o jų teritorinės aspiracijos panėšėjo kaip broliai dvyniai – istoriškai etninės lietuvių žemės Vilniaus, Kauno, Suvalkų ir Gardino gubernijose, dalis Kuršo."
   pagrindžia:

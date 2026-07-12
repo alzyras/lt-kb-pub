@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 amziai:
   - 'XX'
 periodo_grupes:

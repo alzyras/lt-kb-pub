@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66698"></a>
-- t-003
+- t-001
   global_id: t-66698
   teiginys: "Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas."
   pagrindžia:

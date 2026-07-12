@@ -39,21 +39,21 @@ Dionizas Poška buvo XIX a. Žemaitijoje gyvenęs inteligentas, siejamas su poez
 ## Teiginiai
 
 <a id="claim-t-193038"></a>
-- t-003
+- t-001
   global_id: t-193038
   teiginys: "Narbutas svarstė, kad Dionizas Poška, rašydamas šį straipsnį, galėjo turėti omenyje konkretų asmenį iš Lietuvos intelektualų aplinkos."
   pagrindžia:
     - c-175810
 
 <a id="claim-t-193039"></a>
-- t-001
+- t-002
   global_id: t-193039
   teiginys: "Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai."
   pagrindžia:
     - c-175808
 
 <a id="claim-t-193040"></a>
-- t-002
+- t-003
   global_id: t-193040
   teiginys: "Dionizo Poškos straipsnis „Keletas įžanginių žodžių bet kam, žadančiam rašyti Lietuvos ir Žemaičių istoriją“ paskelbtas 1829 m. „Dziennik Warszawski“."
   pagrindžia:

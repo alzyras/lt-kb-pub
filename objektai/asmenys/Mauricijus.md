@@ -38,14 +38,14 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
 ## Teiginiai
 
 <a id="claim-t-87775"></a>
-- t-002
+- t-001
   global_id: t-87775
   teiginys: "Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms."
   pagrindžia:
     - c-83754
 
 <a id="claim-t-87776"></a>
-- t-001
+- t-002
   global_id: t-87776
   teiginys: "1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai."
   pagrindžia:

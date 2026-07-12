@@ -39,63 +39,63 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
 ## Teiginiai
 
 <a id="claim-t-77017"></a>
-- t-014
+- t-001
   global_id: t-77017
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius, kuriuos buvo galima pasiekti laivais Nemunu."
   pagrindžia:
     - c-74485
 
 <a id="claim-t-77018"></a>
-- t-006
+- t-002
   global_id: t-77018
   teiginys: "Po karo su nadruviais broliai nukreipė savo ginklus prieš skalvius, nes nadruviai gyveno toliau nuo Nemuno."
   pagrindžia:
     - c-74485
 
 <a id="claim-t-77019"></a>
-- t-012
+- t-003
   global_id: t-77019
   teiginys: "1274 m. Ordino magistras ir broliai nukreipė ginklus prieš nadruvius, o daug kilmingų Nadruvos vyrų priėmė krikštą."
   pagrindžia:
     - c-74490
 
 <a id="claim-t-77020"></a>
-- t-005
+- t-004
   global_id: t-77020
   teiginys: "Po Tirsko pasidavimo daug galingų ir kilmingų Nadruvos vyrų su šeimynomis perėjo pas brolius ir buvo pakrikštyti."
   pagrindžia:
     - c-74490
 
 <a id="claim-t-77021"></a>
-- t-009
+- t-005
   global_id: t-77021
   teiginys: "Istoriografijoje formavosi nuomonė, kad Nadruva, Skalva ir Semba buvo Žemaitijos dalys arba lietuvių kalbos dialektų sritys."
   pagrindžia:
     - c-74491
 
 <a id="claim-t-77022"></a>
-- t-016
+- t-006
   global_id: t-77022
   teiginys: "Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių."
   pagrindžia:
     - c-74487
 
 <a id="claim-t-77023"></a>
-- t-015
+- t-007
   global_id: t-77023
   teiginys: "Nadruvoje buvusi Romuva ir jos krivis šaltinyje laikomi ankstyva pagonybės virtimo institucine religija apraiška."
   pagrindžia:
     - c-74492
 
 <a id="claim-t-77024"></a>
-- t-013
+- t-008
   global_id: t-77024
   teiginys: "Magistras Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, kur Retavos valsčius buvo nusiaubtas plėšiant ir deginant."
   pagrindžia:
     - c-74495
 
 <a id="claim-t-77025"></a>
-- t-004
+- t-009
   global_id: t-77025
   teiginys: "1274 m. magistras ir broliai nukreipė savo ginklus prieš nadruvius."
   pagrindžia:
@@ -116,28 +116,28 @@ Nadruva čia aprašoma kaip rytinė Prūsijos žemė tarp Sembos ir Šešupės-V
     - c-74494
 
 <a id="claim-t-77028"></a>
-- t-007
+- t-012
   global_id: t-77028
   teiginys: "1253-1259 m. komentare Nadruva tarptautinėje plotmėje laikoma Lietuvos valdovo žeme."
   pagrindžia:
     - c-74486
 
 <a id="claim-t-77029"></a>
-- t-008
+- t-013
   global_id: t-77029
   teiginys: "Petro Dusburgiečio kronikoje Nadruva minima kaip viena iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-74488
 
 <a id="claim-t-192700"></a>
-- t-017
+- t-014
   global_id: t-192700
   teiginys: "Nadruva Narbuto aprašyme yra devintoji prūsų provincija, šiaurėje galbūt per Pisos upę ribojusis su Sūduva."
   pagrindžia:
     - c-175470
 
 <a id="claim-t-192701"></a>
-- t-018
+- t-015
   global_id: t-192701
   teiginys: "Narbutas Nadruvą apibūdina kaip beveik ežerų neturėjusią, bet miškų turtingą prūsų provinciją."
   pagrindžia:

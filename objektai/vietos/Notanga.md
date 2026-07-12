@@ -40,28 +40,28 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-86944
 
 <a id="claim-t-91218"></a>
-- t-003
+- t-002
   global_id: t-91218
   teiginys: "Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius."
   pagrindžia:
     - c-86942
 
 <a id="claim-t-91219"></a>
-- t-005
+- t-003
   global_id: t-91219
   teiginys: "Netikėlių kariuomenė įsibrovė į Notangą, degindama ir plėšdama nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių."
   pagrindžia:
     - c-86943
 
 <a id="claim-t-91220"></a>
-- t-002
+- t-004
   global_id: t-91220
   teiginys: "Notanga šiaurės rytuose siekė Unzatrapio žemę prie Priegliaus ir Alnos santakos."
   pagrindžia:
     - c-86945
 
 <a id="claim-t-91221"></a>
-- t-004
+- t-005
   global_id: t-91221
   teiginys: "Komtūro kariuomenė įsibrovė į taikos sutarčių nepripažinusį Notangos pakraštį, jį nuniokojo ir nužudė vadą Gadiką su dviem sūnumis."
   pagrindžia:

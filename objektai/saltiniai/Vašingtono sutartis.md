@@ -32,14 +32,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75524"></a>
-- t-002
+- t-001
   global_id: t-75524
   teiginys: "Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę."
   pagrindžia:
     - c-73284
 
 <a id="claim-t-75526"></a>
-- t-003
+- t-002
   global_id: t-75526
   teiginys: "Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą."
   pagrindžia:

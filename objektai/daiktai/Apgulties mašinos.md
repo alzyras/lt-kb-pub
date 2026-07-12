@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179463"></a>
-- t-002
+- t-001
   global_id: t-179463
   teiginys: "1278 m. nesėkmingai apguldamas Daugpilį Traidenis naudojo keturias akmenims svaidyti skirtas apgulties mašinas."
   pagrindžia:

@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - ivykis
   - ordinas
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

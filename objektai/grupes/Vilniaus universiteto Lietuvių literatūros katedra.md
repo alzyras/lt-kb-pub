@@ -36,7 +36,7 @@ Todėl nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lie
     - c-72970
 
 <a id="claim-t-75041"></a>
-- t-001
+- t-002
   global_id: t-75041
   teiginys: "Nuo šeštojo dešimtmečio pabaigos prasidėjo Vilniaus universiteto Lietuvių literatūros katedros darbuotojų ideologinis puolimas."
   pagrindžia:

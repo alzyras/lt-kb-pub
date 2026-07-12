@@ -40,14 +40,14 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 ## Teiginiai
 
 <a id="claim-t-172045"></a>
-- t-010
+- t-001
   global_id: t-172045
   teiginys: "Totorių kariuomenės pajėgos užėmė Zaslavlį ir kitas Lietuvos vietoves, o vėliau priartėjo prie Kauno."
   pagrindžia:
     - c-156474
 
 <a id="claim-t-184407"></a>
-- t-011
+- t-002
   global_id: t-184407
   teiginys: "Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus."
   pagrindžia:

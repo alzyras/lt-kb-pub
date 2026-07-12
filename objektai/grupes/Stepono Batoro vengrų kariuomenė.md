@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karalius
   - kunigaikštis
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86827"></a>
-- t-002
+- t-001
   global_id: t-86827
   teiginys: "Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams."
   pagrindžia:
     - c-82806
 
 <a id="claim-t-86828"></a>
-- t-001
+- t-002
   global_id: t-86828
   teiginys: "Gabrielis Bekešas Skornatas buvo Stepono Batoro vengrų pulkų vadas ir ištikimai tarnavo valdovui bei Respublikai."
   pagrindžia:

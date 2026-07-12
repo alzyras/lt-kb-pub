@@ -39,14 +39,14 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
     - c-82479
 
 <a id="claim-t-86499"></a>
-- t-003
+- t-002
   global_id: t-86499
   teiginys: "Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio."
   pagrindžia:
     - c-82478
 
 <a id="claim-t-86500"></a>
-- t-002
+- t-003
   global_id: t-86500
   teiginys: "Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida."
   pagrindžia:

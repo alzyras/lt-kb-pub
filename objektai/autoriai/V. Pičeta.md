@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - institucija
   - reforma
 amziai:
   - 'XX'

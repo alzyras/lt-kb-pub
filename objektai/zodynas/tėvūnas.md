@@ -31,21 +31,21 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
 ## Teiginiai
 
 <a id="claim-t-12593"></a>
-- t-002
+- t-001
   global_id: t-12593
   teiginys: "Tėvūnai dvaruose prižiūrėjo visą tų dvarų ūkį."
   pagrindžia:
     - c-14716
 
 <a id="claim-t-70370"></a>
-- t-003
+- t-002
   global_id: t-70370
   teiginys: "Tėvūnais vadinti dvarų prievaizdai, per kuriuos kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones."
   pagrindžia:
     - c-69407
 
 <a id="claim-t-182983"></a>
-- t-004
+- t-003
   global_id: t-182983
   teiginys: "Tėvūnai iš valstiečių galėjo reikalauti tik kunigaikščio nustatytų prievolių."
   pagrindžia:

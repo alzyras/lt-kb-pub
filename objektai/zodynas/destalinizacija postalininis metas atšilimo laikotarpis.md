@@ -13,6 +13,7 @@ tags:
   - karas
   - sąvoka
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -37,28 +38,28 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
 ## Teiginiai
 
 <a id="claim-t-22113"></a>
-- t-003
+- t-001
   global_id: t-22113
   teiginys: "Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas."
   pagrindžia:
     - c-24801
 
 <a id="claim-t-22115"></a>
-- t-001
+- t-002
   global_id: t-22115
   teiginys: "Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas."
   pagrindžia:
     - c-24799
 
 <a id="claim-t-183410"></a>
-- t-004
+- t-003
   global_id: t-183410
   teiginys: "Postalininiu metu atsisakyta masinio fizinio teroro, bet toliau vykdytas priverstinis ideologinis gyventojų apdorojimas."
   pagrindžia:
     - c-166804
 
 <a id="claim-t-193603"></a>
-- t-005
+- t-004
   global_id: t-193603
   teiginys: "Lietuvos visuomenėje konformizmas ypač išplito destalinizacijos metu."
   pagrindžia:

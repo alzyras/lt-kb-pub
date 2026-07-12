@@ -42,28 +42,28 @@ Jadvyga šiame laiške priminė Vytautui, kad Lietuvos ir Rusijos žemės, kuria
 ## Teiginiai
 
 <a id="claim-t-67413"></a>
-- t-006
+- t-001
   global_id: t-67413
   teiginys: "Jadvygos laiškas Vytautui buvo paskelbtas lietuvių ir rusų bajorų susirinkime ir žemino lietuvių didikus."
   pagrindžia:
     - c-13852
 
 <a id="claim-t-67414"></a>
-- t-005
+- t-002
   global_id: t-67414
   teiginys: "1398 m. Jadvygos laišku Vytautui reikalauta mokėti metinį činšą už Lietuvos ir Rusijos žemes, laikytas jos kraičiu."
   pagrindžia:
     - c-37203
 
 <a id="claim-t-67415"></a>
-- t-004
+- t-003
   global_id: t-67415
   teiginys: "Vytautas paskelbė Jadvygos laišką lietuvių ir rusų bajorams, o šie griežtai atmetė jame iškeltus reikalavimus."
   pagrindžia:
     - c-13852
 
 <a id="claim-t-67416"></a>
-- t-003
+- t-004
   global_id: t-67416
   teiginys: "Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo."
   pagrindžia:

@@ -72,14 +72,14 @@ Nenurodyta
     - c-166710
 
 <a id="claim-t-54275"></a>
-- t-001
+- t-003
   global_id: t-54275
   teiginys: "1841 m. valdžia davė leidimą steigti mokyklas prie Telšių (Žemaičių) vyskupijos bažnyčių, jose leista mokyti skaityti ir rašyti lietuviškai, tikybos tiesų, nurodyta supažindinti mokinius su rusų abėcėle."
   pagrindžia:
     - c-166709
 
 <a id="claim-t-183320"></a>
-- t-005
+- t-004
   global_id: t-183320
   teiginys: "Motiejus Valančius nurodė kunigams prie bažnyčių steigti lietuviškas mokyklas ir sakyti pamokslus lietuviškai."
   pagrindžia:

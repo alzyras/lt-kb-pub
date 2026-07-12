@@ -7,9 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - kraštas
   - kunigaikštis
-  - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,21 +59,21 @@ Nenurodyta
     - c-67164
 
 <a id="claim-t-67148"></a>
-- t-003
+- t-002
   global_id: t-67148
   teiginys: "Nuo XVI a. vidurio Lietuvos bajorijos seimas tapo toks įtakingas, kad be jo nebūdavo sprendžiamas joks svarbesnis reikalas."
   pagrindžia:
     - c-67162
 
 <a id="claim-t-67150"></a>
-- t-004
+- t-003
   global_id: t-67150
   teiginys: "Lietuvos bajorijos seimai pirmiausia buvo reikalingi renkant naują didįjį kunigaikštį."
   pagrindžia:
     - c-67161
 
 <a id="claim-t-67151"></a>
-- t-002
+- t-004
   global_id: t-67151
   teiginys: "Į Lietuvos bajorijos seimus atvykdavo ponų taryba, aukštesnieji valstybės urėdai ir norintys dalyvauti bajorai."
   pagrindžia:

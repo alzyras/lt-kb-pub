@@ -58,7 +58,7 @@ Nenurodyta
     - c-62737
 
 <a id="claim-t-62237"></a>
-- t-001
+- t-002
   global_id: t-62237
   teiginys: "1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės."
   pagrindžia:

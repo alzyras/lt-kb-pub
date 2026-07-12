@@ -42,14 +42,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50766"></a>
-- t-002
+- t-001
   global_id: t-50766
   teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   pagrindžia:
     - c-36971
 
 <a id="claim-t-50767"></a>
-- t-001
+- t-002
   global_id: t-50767
   teiginys: "Čekų kunigai kartu su lenkais dalyvavo Aukštaičių ir Žemaičių krikšte."
   pagrindžia:

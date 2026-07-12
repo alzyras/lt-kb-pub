@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - c-167601
 
 <a id="claim-t-58489"></a>
-- t-003
+- t-004
   global_id: t-58489
   teiginys: "Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos."
   pagrindžia:

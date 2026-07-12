@@ -18,7 +18,7 @@ tags:
   - kunigas
   - mokslininkas
   - paprotys
-  - tauta
+  - redaktorius
 amziai:
   - 'XIX'
   - 'XX'
@@ -64,14 +64,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54314"></a>
-- t-006
+- t-001
   global_id: t-54314
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis."
   pagrindžia:
     - c-55187
 
 <a id="claim-t-54315"></a>
-- t-001
+- t-002
   global_id: t-54315
   teiginys: "Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus."
   pagrindžia:
@@ -85,7 +85,7 @@ Nenurodyta
     - c-55186
 
 <a id="claim-t-54318"></a>
-- t-002
+- t-004
   global_id: t-54318
   teiginys: "Po trejų metų sustojusi „Aušra“ išplėtė lietuvių tautinio ugdymo tęsėjų gretas, kurios ėmė leisti naujus periodinius leidinius lietuvių kalba."
   pagrindžia:
@@ -99,14 +99,14 @@ Nenurodyta
     - c-55189
 
 <a id="claim-t-183327"></a>
-- t-007
+- t-006
   global_id: t-183327
   teiginys: "1883 m. Rytprūsiuose pradėta leisti „Aušra“ buvo pirmasis Didžiajai Lietuvai skirtas periodinis leidinys lietuvių kalba ir tradiciniu raidynu."
   pagrindžia:
     - c-166717
 
 <a id="claim-t-183328"></a>
-- t-008
+- t-007
   global_id: t-183328
   teiginys: "„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu."
   pagrindžia:

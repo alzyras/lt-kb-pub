@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
   - tauta
 amziai:
@@ -41,14 +42,14 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
 ## Teiginiai
 
 <a id="claim-t-181335"></a>
-- t-004
+- t-001
   global_id: t-181335
   teiginys: "Lietuvos delegacija siekė, kad Lietuva būtų priimta į Tautų Sąjungos bendriją."
   pagrindžia:
     - c-164892
 
 <a id="claim-t-181336"></a>
-- t-006
+- t-002
   global_id: t-181336
   teiginys: "Įsileidusi sovietų bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
   pagrindžia:
@@ -62,7 +63,7 @@ Tuo pat laiku, kai Tautų Sąjunga nusprendė (rugsėjo 20 d.) tarp Lietuvos ir 
     - c-22778
 
 <a id="claim-t-193564"></a>
-- t-007
+- t-004
   global_id: t-193564
   teiginys: "1921 m. vasarą Tautų Sąjungos Taryba priėmė rezoliuciją, pritariančią Himanso planui."
   pagrindžia:

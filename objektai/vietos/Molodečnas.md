@@ -35,7 +35,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
 ## Teiginiai
 
 <a id="claim-t-187264"></a>
-- t-003
+- t-001
   global_id: t-187264
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė nežygiavo link Molodečno ir surengė reidą po šiaurės rytų Lietuvą."
   pagrindžia:
@@ -49,7 +49,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
     - c-170320
 
 <a id="claim-t-187266"></a>
-- t-001
+- t-003
   global_id: t-187266
   teiginys: "Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus nuo Krėvos."
   pagrindžia:

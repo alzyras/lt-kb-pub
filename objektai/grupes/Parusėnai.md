@@ -35,7 +35,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
 ## Teiginiai
 
 <a id="claim-t-07846"></a>
-- t-004
+- t-001
   global_id: t-07846
   teiginys: "Parusėnai buvo lenkų puolami, atsakydami teriojo jų kraštą, o po to prieš juos buvo pasitelkti kryžiuočiai."
   pagrindžia:
@@ -43,7 +43,7 @@ Parusėnai galėjo sutelkti didelę kariuomenę kovai su vokiečių meldžionimi
     - c-10080
 
 <a id="claim-t-07847"></a>
-- t-003
+- t-002
   global_id: t-07847
   teiginys: "1250 m. kariaudami su vokiečių meldžionimis, parusėnai galėjo į kovą pastatyti 4000 raitelių ir 40000 pėsčiųjų."
   pagrindžia:

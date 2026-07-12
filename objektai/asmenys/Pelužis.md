@@ -42,21 +42,21 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
 ## Teiginiai
 
 <a id="claim-t-90002"></a>
-- t-002
+- t-001
   global_id: t-90002
   teiginys: "Pelužis su Karaliaučiaus komtūro paskirtais vyrais užpuolė savo viešpaties sodybą ir nužudė 70 kunigaikščių."
   pagrindžia:
     - c-85906
 
 <a id="claim-t-90003"></a>
-- t-003
+- t-002
   global_id: t-90003
   teiginys: "Pelužio prašymu Karaliaučiaus komtūras jam paskyrė Martyną iš Golino, Konradą Velnią, Stavimėlą ir 20 kitų vyrų."
   pagrindžia:
     - c-85907
 
 <a id="claim-t-90004"></a>
-- t-001
+- t-003
   global_id: t-90004
   teiginys: "Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas."
   pagrindžia:

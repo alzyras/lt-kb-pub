@@ -45,21 +45,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179764"></a>
-- t-008
+- t-001
   global_id: t-179764
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   pagrindžia:
     - c-163423
 
 <a id="claim-t-179765"></a>
-- t-009
+- t-002
   global_id: t-179765
   teiginys: "1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos."
   pagrindžia:
     - c-163424
 
 <a id="claim-t-184937"></a>
-- t-010
+- t-003
   global_id: t-184937
   teiginys: "Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio."
   pagrindžia:

@@ -40,21 +40,21 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
 ## Teiginiai
 
 <a id="claim-t-169910"></a>
-- t-013
+- t-001
   global_id: t-169910
   teiginys: "Vatikanas, JAV, Ispanija, Olandija, Skandinavijos šalys ir 1922 m. gruodžio 20 d. keturios Antantės valstybės pripažino Lietuvą de jure."
   pagrindžia:
     - c-24792
 
 <a id="claim-t-169911"></a>
-- t-012
+- t-002
   global_id: t-169911
   teiginys: "1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure."
   pagrindžia:
     - c-24791
 
 <a id="claim-t-193140"></a>
-- t-014
+- t-003
   global_id: t-193140
   teiginys: "Sostas pripažino Lietuvos valstybę de jure (1922."
   pagrindžia:
@@ -62,6 +62,7 @@ Sostas pripažino Lietuvos valstybę de jure (1922.
 - susijęs iš [[objektai/grupes/Antantė.md#claim-t-19635|Antantė]]: 1922 m. gruodžio 20 d. Prancūzija, Anglija, Italija ir Japonija kaip Antantės valstybės pripažino Lietuvą de jure.
 - susijęs iš [[objektai/grupes/Tautų Sąjunga.md#claim-t-181338|Tautų Sąjunga]]: 1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.
 - susijęs iš [[objektai/ivykiai/Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.).md#claim-t-20253|Latvijos de jure Lietuvos pripažinimas ir Lietuvos–Latvijos sienos nustatymas (1921 m.)]]: Latvija 1921 m. vasario 16 d. pripažino Lietuvą de jure, suteikdama paramą tarptautinės izoliacijos metu.
+- susijęs iš [[objektai/asmenys/Holsti (užsienio reikalų ministras, 1921 m.).md#claim-t-195674|Holsti (užsienio reikalų ministras, 1921 m.)]]: 1921 m. rudenį Holsti šiame šaltinyje minimas kaip užsienio reikalų ministras, iš kurio prof. dr. Eretas išgavo Lietuvos pripažinimą de jure Suomijoje.
 ## Reikšmingi paminėjimai
 
 - c-001

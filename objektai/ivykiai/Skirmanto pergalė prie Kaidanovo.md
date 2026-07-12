@@ -43,28 +43,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187488"></a>
-- t-002
+- t-001
   global_id: t-187488
   teiginys: "Lietuvos metraščio pasakojime Skirmantas liepė sužaloti Balaklajaus pasiuntinius, o kitais metais chanas patraukė į Rusų žemę."
   pagrindžia:
     - c-170450
 
 <a id="claim-t-187489"></a>
-- t-003
+- t-002
   global_id: t-187489
   teiginys: "Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje."
   pagrindžia:
     - c-170451
 
 <a id="claim-t-187490"></a>
-- t-004
+- t-003
   global_id: t-187490
   teiginys: "Lietuvos metraštis pasakoja, kad po pergalės Skirmantas užėmė Mozyriaus, Černigovo, Starodubo ir Karačevo miestus."
   pagrindžia:
     - c-170451
 
 <a id="claim-t-187491"></a>
-- t-001
+- t-004
   global_id: t-187491
   teiginys: "Lietuvos metraščio pasakojime Užvolgio chanas Balaklajus pareikalavo, kad Skirmantas mokėtų duoklę ir laikytų jo baskakus miestuose."
   pagrindžia:

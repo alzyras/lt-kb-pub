@@ -37,21 +37,21 @@ Aleksandravičius E., Kulakauskas A.
 ## Teiginiai
 
 <a id="claim-t-45593"></a>
-- t-003
+- t-001
   global_id: t-45593
   teiginys: "E. Aleksandravičius ir A. Kulakauskas 1996 m. Vilniuje išleido veikalą „Carų valdžioje. Lietuva XIX amžiuje“."
   pagrindžia:
     - c-22114
 
 <a id="claim-t-45595"></a>
-- t-001
+- t-002
   global_id: t-45595
   teiginys: "E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius."
   pagrindžia:
     - c-22114
 
 <a id="claim-t-45595"></a>
-- t-001
+- t-003
   global_id: t-45595
   teiginys: "E. Aleksandravičius kartu su A. Kulakausku yra leidinio „Carų valdžioje. Lietuva XIX amžiuje“ autorius."
   pagrindžia:

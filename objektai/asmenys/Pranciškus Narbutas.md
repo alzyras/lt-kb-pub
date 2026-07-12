@@ -54,7 +54,7 @@ Pranciškus Narbutas Narbutų šeimos pasakojime minimas kaip vienas iš Teodoro
 ## Teiginiai
 
 <a id="claim-t-187904"></a>
-- t-002
+- t-001
   global_id: t-187904
   teiginys: "1863 m. sukilime Pranciškus Narbutas išėjo į miškus, o vėliau spėjo pasitraukti į užsienį."
   pagrindžia:

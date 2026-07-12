@@ -37,14 +37,14 @@ Grzybowski minimas kaip pranciškonas ir knygos „Skarb nieoszacowany OO. Franc
 ## Teiginiai
 
 <a id="claim-t-55001"></a>
-- t-002
+- t-001
   global_id: t-55001
   teiginys: "Grzybowski, įvardytas pranciškonu, rašė, kad Goštautas Vilniuje įkūrė vienuolyną ir vertė miestiečius į Kristaus tikėjimą."
   pagrindžia:
     - c-55565
 
 <a id="claim-t-81900"></a>
-- t-004
+- t-002
   global_id: t-81900
   teiginys: "Balińskis atmetė Grzybowskio pasakojimą apie tariamą Goštauto vienuolystę ir vyskupystę kaip tikriausiai prasimanytą."
   pagrindžia:

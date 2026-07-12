@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - paprotys
   - vyskupas
 media_total_count: '0'

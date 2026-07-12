@@ -12,10 +12,10 @@ date_end: '1836'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - ordinas
   - popiežius
-  - vieta
 amziai:
   - 'XIII'
   - 'XIX'
@@ -41,21 +41,21 @@ Dusburgietis teigia, kad aprašęs Jeruzalės karalystės sostines Akono (Akros)
 ## Teiginiai
 
 <a id="claim-t-91383"></a>
-- t-003
+- t-001
   global_id: t-91383
   teiginys: "Kronikoje atpasakotoje kryžiaus žygių istorijoje aprašyti totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis."
   pagrindžia:
     - c-87095
 
 <a id="claim-t-91384"></a>
-- t-001
+- t-002
   global_id: t-91384
   teiginys: "Dusburgo kronikoje aprašomi totorių-mongolų žygiai prieš Siriją ir kitas musulmoniškąsias šalis."
   pagrindžia:
     - c-87095
 
 <a id="claim-t-91385"></a>
-- t-002
+- t-003
   global_id: t-91385
   teiginys: "Petras iš Dusburgo kryžiaus žygių istorijoje aprašė totorių ir mongolų žygius prieš Siriją bei kitas musulmoniškąsias šalis."
   pagrindžia:

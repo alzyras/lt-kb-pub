@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19170"></a>
-- t-002
+- t-001
   global_id: t-19170
   teiginys: "Netimeras buvo Lietuvos „karalius“, kuris, Brunonui Bonifacijui atvykus į Lietuvą, įtikėjo ir krikštijosi."
   pagrindžia:
     - c-21916
 
 <a id="claim-t-19171"></a>
-- t-001
+- t-002
   global_id: t-19171
   teiginys: "Brunonas Bonifacijus Lietuvoje apkrikštijo lietuvių vadą Netimerą, o vėliau žuvo nuo Netimero brolio rankos."
   pagrindžia:

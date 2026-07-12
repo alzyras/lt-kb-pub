@@ -39,28 +39,28 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
 ## Teiginiai
 
 <a id="claim-t-82222"></a>
-- t-006
+- t-001
   global_id: t-82222
   teiginys: "Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus."
   pagrindžia:
     - c-78718
 
 <a id="claim-t-82224"></a>
-- t-006
+- t-002
   global_id: t-82224
   teiginys: "Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III."
   pagrindžia:
     - c-78719
 
 <a id="claim-t-82227"></a>
-- t-005
+- t-003
   global_id: t-82227
   teiginys: "Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą."
   pagrindžia:
     - c-78720
 
 <a id="claim-t-82228"></a>
-- t-007
+- t-004
   global_id: t-82228
   teiginys: "Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą."
   pagrindžia:

@@ -12,10 +12,10 @@ date_end: '1586'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - paprotys
-  - privilegija
 amziai:
   - 'XVI'
 media_total_count: '0'

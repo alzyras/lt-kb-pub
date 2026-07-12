@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - tikėjimas
 amziai:
   - 'XIV'
@@ -65,14 +66,14 @@ Nenurodyta
     - c-55387
 
 <a id="claim-t-54486"></a>
-- t-003
+- t-002
   global_id: t-54486
   teiginys: "Krikšto apeigų metu Vilniuje buvo užgesinta amžinoji ugnis, iškirstos šventos girios ir sugriauta Perkūno šventykla."
   pagrindžia:
     - c-55388
 
 <a id="claim-t-54487"></a>
-- t-002
+- t-003
   global_id: t-54487
   teiginys: "Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio."
   pagrindžia:

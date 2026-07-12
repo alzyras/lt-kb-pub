@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-80689"></a>
-- t-002
+- t-001
   global_id: t-80689
   teiginys: "Bunkeryje buvę trylika vyrų vilkėjo lietuviškas uniformas, o vienas dėvėjo uniformą su liudininkės siuvinėtu antsiuvu."
   pagrindžia:

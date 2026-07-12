@@ -37,49 +37,49 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 ## Teiginiai
 
 <a id="claim-t-63840"></a>
-- t-011
+- t-001
   global_id: t-63840
   teiginys: "Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas."
   pagrindžia:
     - c-64769
 
 <a id="claim-t-63842"></a>
-- t-010
+- t-002
   global_id: t-63842
   teiginys: "Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis."
   pagrindžia:
     - c-04160
 
 <a id="claim-t-63843"></a>
-- t-009
+- t-003
   global_id: t-63843
   teiginys: "Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus."
   pagrindžia:
     - c-64773
 
 <a id="claim-t-63844"></a>
-- t-008
+- t-004
   global_id: t-63844
   teiginys: "Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė."
   pagrindžia:
     - c-64767
 
 <a id="claim-t-63849"></a>
-- t-009
+- t-005
   global_id: t-63849
   teiginys: "Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai."
   pagrindžia:
     - c-04159
 
 <a id="claim-t-194915"></a>
-- t-012
+- t-006
   global_id: t-194915
   teiginys: "Tai lėmė, kad galindai ir jotvingiai drauge perėjo lenkų kunigaikščių, Krokuvos Boleslovo ir Kujavijos Kazimiero, protekcijon, o jie išsiuntė pranešimus apie tai popiežiui."
   pagrindžia:
     - c-177311
 
 <a id="claim-t-194916"></a>
-- t-013
+- t-007
   global_id: t-194916
   teiginys: "Be abejonės, po to, kai dešiniojoje Bugo pakrantėje įtvirtintose vietose stovėjo rusų įgulos ir iš savo pusės pradėjo spausti kryžiuočiai, jotvingiai vėl pasidavė Kjujavijos kunigaikščio Kazimiero globai, nes tais pačiais 1256 metais šis kunigaikštis gavo."
   pagrindžia:

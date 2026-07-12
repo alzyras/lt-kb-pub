@@ -44,7 +44,7 @@ reikšmė čia pateikiama tik kaip Narbuto išvada, todėl viešame įraše ją 
 ## Teiginiai
 
 <a id="claim-t-192227"></a>
-- t-002
+- t-001
   global_id: t-192227
   teiginys: "Narbuto aiškinimu, Neromus reiškia „neramus“ ir yra priešingas žodžiui Romus, siejamam su reikšme „ramus“."
   pagrindžia:

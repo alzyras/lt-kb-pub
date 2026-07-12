@@ -42,42 +42,42 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
 ## Teiginiai
 
 <a id="claim-t-85023"></a>
-- t-004
+- t-001
   global_id: t-85023
   teiginys: "Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio iš miesto į Užupį, už Vilnelės."
   pagrindžia:
     - c-81104
 
 <a id="claim-t-85027"></a>
-- t-003
+- t-002
   global_id: t-85027
   teiginys: "1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje."
   pagrindžia:
     - c-81102
 
 <a id="claim-t-85025"></a>
-- t-002
+- t-003
   global_id: t-85025
   teiginys: "Nuo sklypų Užupyje buvo skaičiuojami 168 auksinai."
   pagrindžia:
     - c-81105
 
 <a id="claim-t-85026"></a>
-- t-006
+- t-004
   global_id: t-85026
   teiginys: "Aleksandras dovanojo Maksimui Vasiljevičiui pievą prie kelio iš Vilniaus į Užupį už Vilnelės."
   pagrindžia:
     - c-81104
 
 <a id="claim-t-85027"></a>
-- t-003
+- t-005
   global_id: t-85027
   teiginys: "1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje."
   pagrindžia:
     - c-81102
 
 <a id="claim-t-85028"></a>
-- t-001
+- t-006
   global_id: t-85028
   teiginys: "1794 m. liepos 19 d. dalis rusų jėgerių batalionų prasiveržė į Paupį ir Užupį, o Užupis buvo padegtas."
   pagrindžia:

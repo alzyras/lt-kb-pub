@@ -6,10 +6,10 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - saltinis
   - tauta
-  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +32,7 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 ## Teiginiai
 
 <a id="claim-t-75523"></a>
-- t-002
+- t-001
   global_id: t-75523
   teiginys: "Tautų Sąjungos Taryba rezoliucija patvirtino, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
   pagrindžia:

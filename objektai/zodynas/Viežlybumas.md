@@ -36,7 +36,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
 ## Teiginiai
 
 <a id="claim-t-07649"></a>
-- t-004
+- t-001
   global_id: t-07649
   teiginys: "Viežlybumą moterys turėjo saugoti namuose kartu su ugnimi."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
     - c-09582
 
 <a id="claim-t-07650"></a>
-- t-003
+- t-002
   global_id: t-07650
   teiginys: "Viežlybumas siejamas su namuose saugota dora, švara ir tvarkingu gyvenimu."
   pagrindžia:

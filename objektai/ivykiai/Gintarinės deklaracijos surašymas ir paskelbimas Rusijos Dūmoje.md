@@ -13,6 +13,7 @@ tags:
   - ivykis
   - karas
   - tauta
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

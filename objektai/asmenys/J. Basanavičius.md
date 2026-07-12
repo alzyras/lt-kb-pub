@@ -10,6 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - tauta
   - valstybė
 amziai: []

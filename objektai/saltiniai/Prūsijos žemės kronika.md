@@ -54,14 +54,14 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - c-175819
 
 <a id="claim-t-12462"></a>
-- t-005
+- t-002
   global_id: t-12462
   teiginys: "Mikalojus iš Jarošino, versdamas Dusburgo kroniką iš lotynų į vokiečių kalbą, pridėjo papildymų ir paaiškinimų nuo savęs."
   pagrindžia:
     - c-175820
 
 <a id="claim-t-193051"></a>
-- t-006
+- t-003
   global_id: t-193051
   teiginys: "1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę."
   pagrindžia:
@@ -75,14 +75,14 @@ Cituojama „Prūsijos žemės kronika“ ištrauka apie Durbės mūšį. Cituoj
     - c-43296
 
 <a id="claim-t-193053"></a>
-- t-003
+- t-005
   global_id: t-193053
   teiginys: "Petras Dusburgas Prūsijos žemės kronikoje nurodė Žemaitijoje buvus net 70 tokių „karaliukų“."
   pagrindžia:
     - c-38783
 
 <a id="claim-t-193054"></a>
-- t-002
+- t-006
   global_id: t-193054
   teiginys: "Mikalojus iš Jarošino, versdamas Dusburgo kroniką į vokiečių kalbą, pridėjo nemažai savo papildymų ir paaiškinimų."
   pagrindžia:

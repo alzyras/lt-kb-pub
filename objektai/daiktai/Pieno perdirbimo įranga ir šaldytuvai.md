@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - įrankis
+  - ūkio-įrankis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45532"></a>
-- t-007
+- t-001
   global_id: t-45532
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
   pagrindžia:
     - c-48310
 
 <a id="claim-t-45534"></a>
-- t-005
+- t-002
   global_id: t-45534
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
   pagrindžia:
     - c-22285
 
 <a id="claim-t-45534"></a>
-- t-005
+- t-003
   global_id: t-45534
   teiginys: "Pieno perdirbimo bendrovėms įsigijus modernią įrangą ir šaldytuvus, didėjo pieno ir mėsos produktų eksportas į užsienį."
   pagrindžia:

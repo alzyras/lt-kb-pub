@@ -35,21 +35,21 @@ Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Li
 ## Teiginiai
 
 <a id="claim-t-186303"></a>
-- t-003
+- t-001
   global_id: t-186303
   teiginys: "Vytauto lotyniški ir vokiški raštai skelbė, kad Žemaitija atskiriama nuo Lietuvos ir prijungiama prie kryžiuočių valdų."
   pagrindžia:
     - c-169664
 
 <a id="claim-t-193376"></a>
-- t-004
+- t-002
   global_id: t-193376
   teiginys: "Kad ir kitais metais, Vy tauto įsakymu ir jam pačiam vadovaujant, vyko kovos su skitais, įrodo tai, jog, pasak senų metraščių, tais me tais, kaip ten sakoma, kovoje su skitais žuvęs Vytauto brolis Patrikas."
   pagrindžia:
     - c-176101
 
 <a id="claim-t-193377"></a>
-- t-005
+- t-003
   global_id: t-193377
   teiginys: "Pasak kurių ne kurių metraštininkų, buvę dar nutarta, jog po Jogailos mirties Vytautas paveldėsiąs karalystę, tačiau pačiuose sutarties raštuose apie tai nieko nesakoma."
   pagrindžia:

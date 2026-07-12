@@ -36,21 +36,21 @@ Chanas patraukė į Rusų žemę ir padarė daug žalos Rusų žemei. Skirmantas
 ## Teiginiai
 
 <a id="claim-t-187312"></a>
-- t-003
+- t-001
   global_id: t-187312
   teiginys: "Vytautas prašė Jogailos raštų ir privilegijų dėl jam duotos Rusų žemės, anksčiau priklausiusios Liubartui."
   pagrindžia:
     - c-170349
 
 <a id="claim-t-187313"></a>
-- t-001
+- t-002
   global_id: t-187313
   teiginys: "Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke."
   pagrindžia:
     - c-170348
 
 <a id="claim-t-187315"></a>
-- t-002
+- t-003
   global_id: t-187315
   teiginys: "Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku."
   pagrindžia:

@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75137"></a>
-- t-003
+- t-001
   global_id: t-75137
   teiginys: "Okupantų paskirto Liaudies seimo nutarimai buvo neteisėti, nes jis neturėjo įgaliojimų panaikinti Lietuvos valstybingumą ir prašytis į SSRS."
   pagrindžia:
@@ -67,7 +67,7 @@ Nenurodyta
     - c-23026
 
 <a id="claim-t-75139"></a>
-- t-001
+- t-003
   global_id: t-75139
   teiginys: "J. Paleckio vadovaujama 20 asmenų delegacija 1940 m. rugpjūčio 3 d. Maskvoje pasiprašė neva savanoriškai įeiti į SSRS sudėtį."
   pagrindžia:

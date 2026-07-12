@@ -40,21 +40,21 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
 ## Teiginiai
 
 <a id="claim-t-58353"></a>
-- t-003
+- t-001
   global_id: t-58353
   teiginys: "Medininkai centrinėje Žemaitijoje Dusburgiečio vadinti valsčiumi, nors XIV a. pabaigos duomenys rodo ten buvus žemę iš kelių valsčių."
   pagrindžia:
     - c-58985
 
 <a id="claim-t-58354"></a>
-- t-005
+- t-002
   global_id: t-58354
   teiginys: "1316 m. Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę."
   pagrindžia:
     - c-58986
 
 <a id="claim-t-58355"></a>
-- t-001
+- t-003
   global_id: t-58355
   teiginys: "1314 m. brolis Henrikas su Sembos ir Notangos vyrais įsiveržė į Medininkų valsčių, jį nusiaubė ir paėmė ar nužudė 700 žmonių."
   pagrindžia:
@@ -68,14 +68,14 @@ Dusburgietis teigia, kad 1314 viešpaties metais, po jo [Kristaus] apipjaustymo 
     - c-58989
 
 <a id="claim-t-58357"></a>
-- t-002
+- t-005
   global_id: t-58357
   teiginys: "1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes."
   pagrindžia:
     - c-58988
 
 <a id="claim-t-58357"></a>
-- t-002
+- t-006
   global_id: t-58357
   teiginys: "1314 m. apie Grabnyčias brolis Henrikas Medininkų valsčiuje užpuolė Sizditės pilį, o vėliau nusiaubė jos apylinkes."
   pagrindžia:

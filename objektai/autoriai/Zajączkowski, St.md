@@ -35,14 +35,14 @@ Zajączkowski, St.
 ## Teiginiai
 
 <a id="claim-t-54141"></a>
-- t-002
+- t-001
   global_id: t-54141
   teiginys: "St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“."
   pagrindžia:
     - c-55082
 
 <a id="claim-t-54142"></a>
-- t-001
+- t-002
   global_id: t-54142
   teiginys: "St. Zajączkowski 1926 m. paskelbė darbą „Przymierze polsko-litewskie 1325 r.“"
   pagrindžia:

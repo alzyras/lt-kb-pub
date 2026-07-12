@@ -24,6 +24,7 @@ atnaujinta: ''
 tags:
   - ginklas
   - vieta
+  - šeima
 amziai:
   - 'XIX'
   - 'XXI'
@@ -49,28 +50,28 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
 ## Teiginiai
 
 <a id="claim-t-172063"></a>
-- t-003
+- t-001
   global_id: t-172063
   teiginys: "Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį."
   pagrindžia:
     - c-156490
 
 <a id="claim-t-172064"></a>
-- t-004
+- t-002
   global_id: t-172064
   teiginys: "1919 m. lapkričio 19 d. 2-ajam pulkui nurodyta susitelkti Želvoje, pulti Giedraičių kryptimi ir užėmus Giedraičius stumtis kuo toliau."
   pagrindžia:
     - c-156492
 
 <a id="claim-t-172065"></a>
-- t-005
+- t-003
   global_id: t-172065
   teiginys: "1946 m. sausio 22 d. Želvos valsčiaus Gursčių kaimo apylinkėse Plieno būrio partizanai kovėsi su NKVD kariuomene."
   pagrindžia:
     - c-44110
 
 <a id="claim-t-172066"></a>
-- t-001
+- t-004
   global_id: t-172066
   teiginys: "Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje."
   pagrindžia:

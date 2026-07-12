@@ -42,21 +42,21 @@ Narbutas nurodo, kad Safaržyko veikale alanai siejami su asais, jasais, osais i
     - c-174075
 
 <a id="claim-t-191196"></a>
-- t-004
+- t-002
   global_id: t-191196
   teiginys: "Narbutas rašo, kad Safaržykas mini Vienos Imperatoriškajame Senienų kabinete saugomą paminklą kaip seniausią istorinį jazigų pėdsaką."
   pagrindžia:
     - c-174078
 
 <a id="claim-t-191980"></a>
-- t-006
+- t-003
   global_id: t-191980
   teiginys: "Narbutas rašo, kad Safaržykas senovės lietuvius visiškai sugiminiavo su slavais, jų skirtumus aiškindamas germanų ir finų valdžia."
   pagrindžia:
     - c-174862
 
 <a id="claim-t-194920"></a>
-- t-007
+- t-004
   global_id: t-194920
   teiginys: "Safaržykas iškelia hipotezę, iš kuries verta tik pasijuok ti, — tas kalnas turėtų būti Minsko gubernijojell!"
   pagrindžia:

@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - karas
   - paprotys
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -63,7 +64,7 @@ Nenurodyta
     - c-63466
 
 <a id="claim-t-62709"></a>
-- t-003
+- t-002
   global_id: t-62709
   teiginys: "Po pergalės trečdalis kovoje laimėto grobio buvo atiduodamas kriviui, kuris tą dalį sudegindavo kaip padėkos auką dievams."
   pagrindžia:
@@ -71,7 +72,7 @@ Nenurodyta
     - c-63467
 
 <a id="claim-t-62710"></a>
-- t-002
+- t-003
   global_id: t-62710
   teiginys: "Po pergalės prūsai aukodavo dievams padėkos auką iš karo grobio, o trečdalį grobio atiduodavo kriviui sudeginti."
   pagrindžia:

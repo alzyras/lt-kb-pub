@@ -38,21 +38,21 @@ Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėli
 ## Teiginiai
 
 <a id="claim-t-184651"></a>
-- t-003
+- t-001
   global_id: t-184651
   teiginys: "Girdila pasisiūlė siaurais miškų takais vesti kareivių voras, kad netikėtai užkluptų Aukaimio pilį."
   pagrindžia:
     - c-168012
 
 <a id="claim-t-193385"></a>
-- t-004
+- t-002
   global_id: t-193385
   teiginys: "Pirmoji apsupo Bisenės pilį ir po kovos, trukusios nuo Aušros ligi vi durdienio, užėmė ją bei sudegino; kita vora nuniokojo aplinkines žemes, tačiau, traukdami atgal, patyrė di delių nuostolių, nes Nemuno ledas, nepakankamai tuo metu tvirtas, neatlaikė jų."
   pagrindžia:
     - c-176110
 
 <a id="claim-t-193754"></a>
-- t-005
+- t-003
   global_id: t-193754
   teiginys: "Viduriniajai vorai po atkaklių kautynių pavyko užimti Užkalnius, Ėriškėlius ir Barklainius."
   pagrindžia:

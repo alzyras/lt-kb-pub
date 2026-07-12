@@ -32,14 +32,14 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
 ## Teiginiai
 
 <a id="claim-t-60193"></a>
-- t-002
+- t-001
   global_id: t-60193
   teiginys: "Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu."
   pagrindžia:
     - c-60826
 
 <a id="claim-t-60194"></a>
-- t-001
+- t-002
   global_id: t-60194
   teiginys: "Dusburgietis Pomandą vaizduoja kaip kilnų, prūsų gerbtą vyrą, neseniai priėmusį krikščionių tikėjimą."
   pagrindžia:

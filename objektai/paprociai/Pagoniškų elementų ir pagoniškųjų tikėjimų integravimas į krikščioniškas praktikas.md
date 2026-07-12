@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169871"></a>
-- t-004
+- t-001
   global_id: t-169871
   teiginys: "Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau."
   pagrindžia:
     - c-154562
 
 <a id="claim-t-169873"></a>
-- t-001
+- t-002
   global_id: t-169873
   teiginys: "Pagoniškos šventės Lietuvoje išliko užsiklojusios krikščioniškuoju švenčių sluoksniu."
   pagrindžia:
     - c-154560
 
 <a id="claim-t-169874"></a>
-- t-002
+- t-003
   global_id: t-169874
   teiginys: "Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu."
   pagrindžia:

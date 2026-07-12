@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - institucija
   - karalius
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -45,21 +45,21 @@ Vaito, burmistrų, miesto tarybos narių, šuolininkų ir Vilniaus ma­ gistrato
     - c-82711
 
 <a id="claim-t-86731"></a>
-- t-004
+- t-002
   global_id: t-86731
   teiginys: "Žygimantas Augustas Lietuvos ir Lenkijos ponų tarybų patarimu įsakė nustatyti lietuviškos monetos vertę lenkiškais grašiais."
   pagrindžia:
     - c-82710
 
 <a id="claim-t-86732"></a>
-- t-002
+- t-003
   global_id: t-86732
   teiginys: "Po valdovo mirties ponų tarybos nariai buvo kviečiami atvykti prie mirusio valdovo kūno ir spręsti Respublikai kilusius pavojus."
   pagrindžia:
     - c-82712
 
 <a id="claim-t-86733"></a>
-- t-003
+- t-004
   global_id: t-86733
   teiginys: "Pinigus, gautus už Maskvos kalinius ir atgabentus iš Gdansko, siūlyta sulaikyti iki ponų tarybos narių suvažiavimo."
   pagrindžia:

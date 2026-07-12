@@ -37,7 +37,7 @@ Radviliškyje buvo paimta: 7 lauko patrankos, 1 haubica, 2 zenitinės patrankos,
     - c-45480
 
 <a id="claim-t-42392"></a>
-- t-001
+- t-002
   global_id: t-42392
   teiginys: "Lapkričio 20 d. Pasvalio batalionas užėmė Žeimelį."
   pagrindžia:

@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 amziai:
   - 'XIX'
   - 'XX'
@@ -39,14 +40,14 @@ Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis 
 ## Teiginiai
 
 <a id="claim-t-64019"></a>
-- t-002
+- t-001
   global_id: t-64019
   teiginys: "Poetas Oskaras Milašius tapo žinomas beveik kiekvienam prancūzui."
   pagrindžia:
     - c-64894
 
 <a id="claim-t-64020"></a>
-- t-001
+- t-002
   global_id: t-64020
   teiginys: "Voldemaras, joje dirbo Lietuvos žydų atstovas Simonas Rozenbaumas, baltarusis Dominykas Semaško, daug JAV lietuvių, raštus dailino prancūzų poetas, kilęs iš senos Lietuvos giminės, Oskaras Milašius (Oscar Milosz)."
   pagrindžia:

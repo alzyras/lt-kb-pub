@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193024"></a>
-- t-002
+- t-001
   global_id: t-193024
   teiginys: "Narbutas rašo, kad gelonai, prisimindami helenišką kilmę, kasmet siųsdavo į Delą dovanų ir aukų Apolonui."
   pagrindžia:
     - c-175794
 
 <a id="claim-t-194873"></a>
-- t-003
+- t-002
   global_id: t-194873
   teiginys: "Kada įvyko ta revoliucija, privertusi gelonus išvykti iš empo riumų, nėra jokių žinių; tikra tik tai, kad iki Darijaus žygio prieš Skitiją gelonai jau seniai gyveno tarp budi nu, susiliejo su jais ir sudarė vieną tautą."
   pagrindžia:

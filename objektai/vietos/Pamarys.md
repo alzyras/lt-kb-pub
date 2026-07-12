@@ -42,7 +42,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
 ## Teiginiai
 
 <a id="claim-t-182877"></a>
-- t-016
+- t-001
   global_id: t-182877
   teiginys: "Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje."
   pagrindžia:
@@ -63,14 +63,14 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
     - c-171686
 
 <a id="claim-t-192714"></a>
-- t-017
+- t-004
   global_id: t-192714
   teiginys: "Narbutas kašubų protėvius siejo su Asubi arba Cassubi tauta, kuri, jo teigimu, įsikūrė Pamaryje prie Vyslos žemupio."
   pagrindžia:
     - c-175484
 
 <a id="claim-t-194743"></a>
-- t-018
+- t-005
   global_id: t-194743
   teiginys: "Mat tokiais pačiais ženklais pažymėtų akmenų, ant kurių senovės tyrėjai matė ir užrašų runomis, yra ne tik ne vienoje tikrosios Lietuvos vietovėje, bet ir Pamaryje, Žemutinėje Sak sonijoje ir lužitėnų krašte."
   pagrindžia:

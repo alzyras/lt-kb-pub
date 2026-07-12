@@ -9,7 +9,8 @@ date_start: '1390'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -56,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54707"></a>
-- t-003
+- t-001
   global_id: t-54707
   teiginys: "Moskoževskiui grąžinus Vilniaus seniūno pareigas, Jogaila jas pavedė Jonui Olesnickiui."
   pagrindžia:
@@ -70,7 +71,7 @@ Nenurodyta
     - c-55670
 
 <a id="claim-t-54709"></a>
-- t-001
+- t-003
   global_id: t-54709
   teiginys: "1390 m. lapkritį Jogaila su kariuomene grįžo iš Lenkijos į griuvėsiais virtusį Vilnių ir dalijo gyventojams atgabentas atsargas."
   pagrindžia:

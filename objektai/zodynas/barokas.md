@@ -18,6 +18,7 @@ tags:
   - kraštas
   - sąvoka
   - valdovas
+  - šventė
 amziai:
   - 'XVI'
   - 'XVIII'
@@ -43,21 +44,21 @@ Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš architektūros, ist
 ## Teiginiai
 
 <a id="claim-t-45786"></a>
-- t-003
+- t-001
   global_id: t-45786
   teiginys: "Lietuvos barokas perėjo nuo kuklaus, Renesanso veikiamo baroko prie vėlyvojo baroko, rokoko ir savitos Vilniaus baroko mokyklos."
   pagrindžia:
     - c-48467
 
 <a id="claim-t-45787"></a>
-- t-004
+- t-002
   global_id: t-45787
   teiginys: "Žodis „barokas“ siejamas su ispanišku barrueco ir portugališku barroco, reiškiančiais netaisyklingos formos perlą."
   pagrindžia:
     - c-48467
 
 <a id="claim-t-45788"></a>
-- t-001
+- t-003
   global_id: t-45788
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   pagrindžia:

@@ -58,56 +58,56 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75180"></a>
-- t-002
+- t-001
   global_id: t-75180
   teiginys: "1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija."
   pagrindžia:
     - c-23076
 
 <a id="claim-t-75181"></a>
-- t-005
+- t-002
   global_id: t-75181
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   pagrindžia:
     - c-23079
 
 <a id="claim-t-75182"></a>
-- t-008
+- t-003
   global_id: t-75182
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   pagrindžia:
     - c-73066
 
 <a id="claim-t-75183"></a>
-- t-007
+- t-004
   global_id: t-75183
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
   pagrindžia:
     - c-23081
 
 <a id="claim-t-75184"></a>
-- t-006
+- t-005
   global_id: t-75184
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-23080
 
 <a id="claim-t-75185"></a>
-- t-001
+- t-006
   global_id: t-75185
   teiginys: "Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m."
   pagrindžia:
     - c-23075
 
 <a id="claim-t-183254"></a>
-- t-009
+- t-007
   global_id: t-183254
   teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-166642
 
 <a id="claim-t-193573"></a>
-- t-010
+- t-008
   global_id: t-193573
   teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
   pagrindžia:

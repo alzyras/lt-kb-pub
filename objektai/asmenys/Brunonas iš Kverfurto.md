@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 amziai:
   - 'XI'
 periodo_grupes:

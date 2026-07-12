@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - institucija
   - kunigaikštis
   - ordinas
-  - tauta
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
 ## Teiginiai
 
 <a id="claim-t-60523"></a>
-- t-004
+- t-001
   global_id: t-60523
   teiginys: "V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais."
   pagrindžia:

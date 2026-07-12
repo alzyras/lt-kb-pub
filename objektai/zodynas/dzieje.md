@@ -52,14 +52,14 @@ Vartojama kaip terminas, kuriuo Narbutas žymi savo darbo pobūdį ir kurį Dauk
 ## Teiginiai
 
 <a id="claim-t-192298"></a>
-- t-002
+- t-001
   global_id: t-192298
   teiginys: "Narbutas „dzieje“ pateikia kaip kuklesnį savo veikalo pavadinimą negu „historia“."
   pagrindžia:
     - c-175112
 
 <a id="claim-t-192299"></a>
-- t-003
+- t-002
   global_id: t-192299
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dzieje“ aiškino kaip „wejkalaj“."
   pagrindžia:

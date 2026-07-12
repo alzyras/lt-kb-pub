@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - karalius
   - kraštas
-  - miestas
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -38,21 +38,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-91423"></a>
-- t-007
+- t-001
   global_id: t-91423
   teiginys: "Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties."
   pagrindžia:
     - c-87139
 
 <a id="claim-t-91424"></a>
-- t-009
+- t-002
   global_id: t-91424
   teiginys: "Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-87137
 
 <a id="claim-t-91426"></a>
-- t-008
+- t-003
   global_id: t-91426
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti Fabijono paskyrimą dabartiniu Varmės vyskupu."
   pagrindžia:
@@ -66,21 +66,21 @@ media_all_json: |-
     - c-87139
 
 <a id="claim-t-91428"></a>
-- t-003
+- t-005
   global_id: t-91428
   teiginys: "XIV a. buvo įkurti beveik visi Varmės miestai."
   pagrindžia:
     - c-87135
 
 <a id="claim-t-91429"></a>
-- t-005
+- t-006
   global_id: t-91429
   teiginys: "Varmės bažnyčios kapitula prašė pripažinti galiojančiu Fabijono paskyrimą Varmės vyskupu."
   pagrindžia:
     - c-87133
 
 <a id="claim-t-91430"></a>
-- t-006
+- t-007
   global_id: t-91430
   teiginys: "XIV amžiuje buvo įkurti beveik visi Varmės miestai."
   pagrindžia:

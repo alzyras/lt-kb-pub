@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
-  - privilegija
   - saltinis
   - unija
+  - valstybė
 amziai:
   - 'XIV'
   - 'XV'

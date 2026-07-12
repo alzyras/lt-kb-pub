@@ -42,7 +42,7 @@ Radijo stotys gautos iš Dariaus ir Girėno skraidymo klubo.
     - c-75469
 
 <a id="claim-t-78165"></a>
-- t-001
+- t-002
   global_id: t-78165
   teiginys: "Aukščiausiosios Tarybos gynybai radijo stotys buvo gautos iš Dariaus ir Girėno skraidymo klubo."
   pagrindžia:

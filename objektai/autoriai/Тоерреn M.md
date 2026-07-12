@@ -14,7 +14,7 @@ tags:
   - autorius
   - pilis
   - upė
-  - žemėlapis
+  - šeima
 amziai:
   - 'XVII'
 periodo_grupes:

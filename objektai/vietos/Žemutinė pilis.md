@@ -32,14 +32,14 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 ## Teiginiai
 
 <a id="claim-t-86164"></a>
-- t-002
+- t-001
   global_id: t-86164
   teiginys: "Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas."
   pagrindžia:
     - c-82144
 
 <a id="claim-t-86165"></a>
-- t-001
+- t-002
   global_id: t-86165
   teiginys: "Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės."
   pagrindžia:

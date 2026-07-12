@@ -61,14 +61,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62690"></a>
-- t-003
+- t-001
   global_id: t-62690
   teiginys: "1325 m. pradžioje Lietuva ir Lenkija sudarė sutartį dėl abipusės karinės paramos, todėl Lietuva prisijungė prie koalicijos."
   pagrindžia:
     - c-63442
 
 <a id="claim-t-62691"></a>
-- t-001
+- t-002
   global_id: t-62691
   teiginys: "Vytenio valdymo metu Lietuva su Ryga kariavo ir diplomatiškai veikė prieš Ordiną, siekdama pralaužti ekonominę blokadą."
   pagrindžia:
@@ -76,7 +76,7 @@ Nenurodyta
     - c-63440
 
 <a id="claim-t-62692"></a>
-- t-002
+- t-003
   global_id: t-62692
   teiginys: "Gedimino pareiškimai ir laiškai padėjo Lietuvos valstybei kuriam laikui izoliuoti ir sukompromituoti Kryžiuočių ordiną Europoje."
   pagrindžia:

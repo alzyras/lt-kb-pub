@@ -36,7 +36,7 @@ Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
     - c-170372
 
 <a id="claim-t-187357"></a>
-- t-001
+- t-002
   global_id: t-187357
   teiginys: "Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste."
   pagrindžia:

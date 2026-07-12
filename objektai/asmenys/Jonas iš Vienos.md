@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - ginklas
   - pilis
 media_total_count: '0'

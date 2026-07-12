@@ -49,14 +49,14 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
     - c-81951
 
 <a id="claim-t-85971"></a>
-- t-003
+- t-002
   global_id: t-85971
   teiginys: "1573 m. sutartyje Vyskupų gatvė nurodyta aprašant sklypą prie Skapo gatvės kampo, einant nuo Vilniaus vyskupo dvaro."
   pagrindžia:
     - c-81953
 
 <a id="claim-t-85972"></a>
-- t-002
+- t-003
   global_id: t-85972
   teiginys: "1677 m. Paulius Bochenas 750 auksinų skyrė namui Vyskupų gatvėje remontuoti."
   pagrindžia:

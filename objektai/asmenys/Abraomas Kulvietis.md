@@ -60,14 +60,14 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 ## Teiginiai
 
 <a id="claim-t-181560"></a>
-- t-036
+- t-001
   global_id: t-181560
   teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
   pagrindžia:
     - c-165096
 
 <a id="claim-t-181561"></a>
-- t-037
+- t-002
   global_id: t-181561
   teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
   pagrindžia:

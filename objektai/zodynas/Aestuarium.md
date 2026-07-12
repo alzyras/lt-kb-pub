@@ -44,14 +44,14 @@ Tiesioginis paaiškinimas pateikiamas kaip lotyniško Pitėjo vertimo aiškinima
 ## Teiginiai
 
 <a id="claim-t-192249"></a>
-- t-002
+- t-001
   global_id: t-192249
   teiginys: "Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium vietos kartais būna apsemtos, o kartais sausos."
   pagrindžia:
     - c-175088
 
 <a id="claim-t-192251"></a>
-- t-001
+- t-002
   global_id: t-192251
   teiginys: "Pasak Narbuto cituojamo lotyniško Pitėjo vertimo, Aestuarium reiškia negilias, seklias vietas."
   pagrindžia:

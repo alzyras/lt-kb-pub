@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66800"></a>
-- t-002
+- t-001
   global_id: t-66800
   teiginys: "Karaliaučiaus komtūras su kariuomene grįžo iš Vonsdorfo valsčiaus sutramdyti Notangos maišto."
   pagrindžia:
     - c-66927
 
 <a id="claim-t-66801"></a>
-- t-001
+- t-002
   global_id: t-66801
   teiginys: "1295 m. notangai vėl sukilo, savo kariuomenės vadu išsirinko Sabiną ir Bartenšteino pilyje paėmė į nelaisvę du brolius su jų šeimyna."
   pagrindžia:

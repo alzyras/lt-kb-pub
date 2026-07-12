@@ -38,35 +38,35 @@ Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lie
 ## Teiginiai
 
 <a id="claim-t-67798"></a>
-- t-003
+- t-001
   global_id: t-67798
   teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Didžiojoje Britanijoje ir kitose okupacijos nepripažinusiose šalyse."
   pagrindžia:
     - c-67566
 
 <a id="claim-t-67799"></a>
-- t-001
+- t-002
   global_id: t-67799
   teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
   pagrindžia:
     - c-24104
 
 <a id="claim-t-183589"></a>
-- t-004
+- t-003
   global_id: t-183589
   teiginys: "Vokietija suvaržė prekybą su Didžiąja Britanija ir bandė monopolizuoti Lietuvos užsienio prekybą."
   pagrindžia:
     - c-166981
 
 <a id="claim-t-183590"></a>
-- t-005
+- t-004
   global_id: t-183590
   teiginys: "Po Antrojo pasaulinio karo dalis lietuvių tremtinių ir pabėgėlių pasuko į Didžiąją Britaniją, Kanadą ir Australiją."
   pagrindžia:
     - c-166982
 
 <a id="claim-t-192640"></a>
-- t-006
+- t-005
   global_id: t-192640
   teiginys: "Narbutas perteikia nuomonę, kad Pitėjas pirmąją kelionę atliko į Britaniją, o antrąją - į šiaurės rytus, kur atrado Baltijos salą."
   pagrindžia:

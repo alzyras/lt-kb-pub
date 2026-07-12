@@ -41,7 +41,7 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
 ## Teiginiai
 
 <a id="claim-t-59949"></a>
-- t-004
+- t-001
   global_id: t-59949
   teiginys: "Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje."
   pagrindžia:
@@ -55,14 +55,14 @@ Dusburgietis teigia, kad darbą Mikalojus baigė jau magistro Ditricho iš Alten
     - c-60584
 
 <a id="claim-t-59951"></a>
-- t-001
+- t-003
   global_id: t-59951
   teiginys: "Ditrichas iš Altenburgo buvo Ordino magistras 1335–1341 m.; jo laikais apie 1340 m. Mikalojus baigė darbą."
   pagrindžia:
     - c-60581
 
 <a id="claim-t-59952"></a>
-- t-003
+- t-004
   global_id: t-59952
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį."
   pagrindžia:

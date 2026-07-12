@@ -47,7 +47,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-85564
 
 <a id="claim-t-89627"></a>
-- t-004
+- t-002
   global_id: t-89627
   teiginys: "1365 m. Kęstutis, Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas ir jas nuniokojo."
   pagrindžia:
@@ -61,7 +61,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - c-85563
 
 <a id="claim-t-89629"></a>
-- t-002
+- t-004
   global_id: t-89629
   teiginys: "Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį."
   pagrindžia:

@@ -38,14 +38,14 @@ Iš tiesų, nors susidomėjimas Lietuvos praeitimi buvo didelis, bet veikalų, a
 ## Teiginiai
 
 <a id="claim-t-88258"></a>
-- t-002
+- t-001
   global_id: t-88258
   teiginys: "1835 m. pasirodė pirmasis Teodoro Narbuto „Lietuvių tautos istorijos“ tomas."
   pagrindžia:
     - c-84237
 
 <a id="claim-t-88259"></a>
-- t-001
+- t-002
   global_id: t-88259
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvoje stigo veikalų apie krašto istoriją nuo seniausių laikų."
   pagrindžia:

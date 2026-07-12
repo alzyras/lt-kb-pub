@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - pilis
+  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -53,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66824"></a>
-- t-002
+- t-001
   global_id: t-66824
   teiginys: "Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu."
   pagrindžia:
     - c-66942
 
 <a id="claim-t-66825"></a>
-- t-001
+- t-002
   global_id: t-66825
   teiginys: "1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos."
   pagrindžia:

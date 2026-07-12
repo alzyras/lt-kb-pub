@@ -72,7 +72,7 @@ Nenurodyta
     - c-169936
 
 <a id="claim-t-186702"></a>
-- t-002
+- t-003
   global_id: t-186702
   teiginys: "Vytautas 1393 m. pašalino Teodorą Karijotaitį iš Podolės ir pats perėmė jos valdymą."
   pagrindžia:

@@ -47,7 +47,7 @@ Dusburgietis teigia, kad joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdi
     - c-61596
 
 <a id="claim-t-60963"></a>
-- t-003
+- t-002
   global_id: t-60963
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
   pagrindžia:

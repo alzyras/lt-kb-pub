@@ -45,7 +45,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 ## Teiginiai
 
 <a id="claim-t-12253"></a>
-- t-002
+- t-001
   global_id: t-12253
   teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
   pagrindžia:
@@ -53,7 +53,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     - c-13917
 
 <a id="claim-t-12254"></a>
-- t-003
+- t-002
   global_id: t-12254
   teiginys: "L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios."
   pagrindžia:

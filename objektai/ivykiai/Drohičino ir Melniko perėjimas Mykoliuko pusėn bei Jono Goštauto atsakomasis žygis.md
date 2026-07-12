@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186624"></a>
-- t-005
+- t-001
   global_id: t-186624
   teiginys: "Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją."
   pagrindžia:
@@ -71,7 +71,7 @@ Nenurodyta
     - c-169903
 
 <a id="claim-t-186628"></a>
-- t-001
+- t-005
   global_id: t-186628
   teiginys: "Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą."
   pagrindžia:

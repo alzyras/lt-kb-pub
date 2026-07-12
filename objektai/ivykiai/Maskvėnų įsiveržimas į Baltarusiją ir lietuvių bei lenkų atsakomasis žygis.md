@@ -39,14 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185621"></a>
-- t-002
+- t-001
   global_id: t-185621
   teiginys: "Stanislovas Lesniovolskis su tūkstančiu rinktinių lenkų raitelių, dviem šimtinėmis lietuvių ir Davainos būriu susidūrė su 45 tūkstančiais priešų."
   pagrindžia:
     - c-168982
 
 <a id="claim-t-193361"></a>
-- t-003
+- t-002
   global_id: t-193361
   teiginys: "R advila, skubiai Lietuviai niokoja n u žy g iav ęs ligi O ršos, b et Maskvos vaidas n ie k u r n esu tik ęs priešo, įsi ren g ė sto v y k lą p rie D nepro, o v isą ra itiją n u siu n tė n io k o ti M askvos valdų."
   pagrindžia:

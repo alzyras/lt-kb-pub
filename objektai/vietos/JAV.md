@@ -16,8 +16,10 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - valstybė
   - vieta
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -42,42 +44,42 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 ## Teiginiai
 
 <a id="claim-t-109254"></a>
-- t-004
+- t-001
   global_id: t-109254
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numačiusį įsileisti 205 tūkst. dipukų."
   pagrindžia:
     - c-101300
 
 <a id="claim-t-109255"></a>
-- t-009
+- t-002
   global_id: t-109255
   teiginys: "Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių."
   pagrindžia:
     - c-101297
 
 <a id="claim-t-109256"></a>
-- t-006
+- t-003
   global_id: t-109256
   teiginys: "JAV buvo viena iš šalių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį."
   pagrindžia:
     - c-101298
 
 <a id="claim-t-109257"></a>
-- t-008
+- t-004
   global_id: t-109257
   teiginys: "1948 m. viduryje JAV Kongresas priėmė Perkeltųjų asmenų įstatymą, numatantį įsileisti 205 tūkst. dipukų."
   pagrindžia:
     - c-101300
 
 <a id="claim-t-109258"></a>
-- t-001
+- t-005
   global_id: t-109258
   teiginys: "1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai."
   pagrindžia:
     - c-101303
 
 <a id="claim-t-109259"></a>
-- t-002
+- t-006
   global_id: t-109259
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
   pagrindžia:
@@ -91,7 +93,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
     - c-101302
 
 <a id="claim-t-109258"></a>
-- t-001
+- t-008
   global_id: t-109258
   teiginys: "1937 m. Lietuvos krepšininkams padėjo JAV lietuvių treneriai ir keli žaidėjai."
   pagrindžia:

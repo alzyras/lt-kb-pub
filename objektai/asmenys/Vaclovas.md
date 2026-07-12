@@ -41,14 +41,14 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
 ## Teiginiai
 
 <a id="claim-t-28976"></a>
-- t-002
+- t-001
   global_id: t-28976
   teiginys: "Vaclovas už savo sprendimą iš kryžiuočių gavo keliasdešimt tūkstančių vengriškų raudonųjų."
   pagrindžia:
     - c-28882
 
 <a id="claim-t-28977"></a>
-- t-001
+- t-002
   global_id: t-28977
   teiginys: "Tarpininkaujant Vaclovui, 1409 m. spalio 8 d. buvo sudarytos paliaubos iki 1410 m. birželio 24 d."
   pagrindžia:

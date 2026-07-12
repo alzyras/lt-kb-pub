@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
+  - institucija
   - ivykis
   - karas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie tai, kaip antrosios atskalūnybės metais buvo pal
     - c-59274
 
 <a id="claim-t-58642"></a>
-- t-001
+- t-003
   global_id: t-58642
   teiginys: "Pamedės žemėje buvusią Spitenbergo pilį broliai sudegino ir paliko per antrąją atskalūnybę."
   pagrindžia:

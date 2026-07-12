@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
+  - redaktorius
   - saltinis
 amziai:
   - 'XX'
@@ -39,7 +40,7 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 ## Teiginiai
 
 <a id="claim-t-97255"></a>
-- t-003
+- t-001
   global_id: t-97255
   teiginys: "Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą."
   pagrindžia:
@@ -53,7 +54,7 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     - c-91741
 
 <a id="claim-t-97257"></a>
-- t-001
+- t-003
   global_id: t-97257
   teiginys: "Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų."
   pagrindžia:

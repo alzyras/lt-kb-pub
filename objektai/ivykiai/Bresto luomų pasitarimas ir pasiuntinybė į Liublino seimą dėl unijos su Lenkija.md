@@ -45,21 +45,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185518"></a>
-- t-002
+- t-001
   global_id: t-185518
   teiginys: "Lietuviai sušaukė luomus Breste ir nusiuntė atstovus į Liubliną, kur liepos 8 d. rinkosi lenkų seimas."
   pagrindžia:
     - c-168879
 
 <a id="claim-t-185519"></a>
-- t-003
+- t-002
   global_id: t-185519
   teiginys: "Kojelavičiaus teigimu, pasiuntiniams buvo uždrausta ką nors spręsti, todėl jie turėjo apie viską pranešti Bresto seimo luomams."
   pagrindžia:
     - c-168880
 
 <a id="claim-t-193352"></a>
-- t-004
+- t-003
   global_id: t-193352
   teiginys: "T uo ta rp u L ietuvą užgriu- 1566 metai v o d a r didesni rūpesčiai, m at Tariamasi dėl Lietup ašlijo k a raliau s sv eik ata, be vos unijos su Lenkija to, jis n e tu rė jo įpėdinių, štai to d ėl didelį n erim ą kėlė tai, jo g le n k a i gali p aliau ti te."
   pagrindžia:

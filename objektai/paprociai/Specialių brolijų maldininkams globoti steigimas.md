@@ -9,7 +9,8 @@ date_start: '1099'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinė-praktika
 amziai:
   - 'XI'
 media_total_count: '0'
@@ -50,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06864"></a>
-- t-004
+- t-001
   global_id: t-06864
   teiginys: "Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais."
   pagrindžia:
     - c-00236
 
 <a id="claim-t-06865"></a>
-- t-003
+- t-002
   global_id: t-06865
   teiginys: "Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse."
   pagrindžia:

@@ -148,6 +148,24 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš Piotrkovas: Piotrkovo seimas, luomams pritariant, paskyrė kunigaikščiui Augustui karaliaus pajamas iš Mazovijos ir Prūsijos.
 - susijęs iš Rūdninkai: Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais.
 - susijęs iš [[objektai/zodynas/sambrūzdis.md#claim-t-185411|sambrūzdis]]: Lietuvoje kilęs sambrūzdis prieš Augustą aprimo, kai atėjo žinia apie Žygimanto mirtį.
+- susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195248|Augustas Robertas Niemi]]: 1898 m. Augustas Robertas Niemi parašė „Kalevalos I sudėtį. Rinkinį runų apie Vainamoiną“, nurodytą kaip licenciato disertaciją.
+- susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195249|Augustas Robertas Niemi]]: 1911 m. Augustas Robertas Niemi paskelbė darbą „Latviškos ir lietuviškos žymės suomių liaudies poezijoje“.
+- susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195250|Augustas Robertas Niemi]]: 1913 m. Augusto Roberto Niemio „Lietuvių liaudies dainų tyrinėjimai“ buvo spausdinami kun. A. Sabaliausko vertime Tautosakos komisijoje.
+- susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195251|Augustas Robertas Niemi]]: Augustas Robertas Niemi buvo suomis, gimęs 1869 m. liepos 25 d. vakarų Suomijoje, prie Turku ir Naantalio.
+- susijęs iš [[objektai/autoriai/Augustas Robertas Niemi.md#claim-t-195252|Augustas Robertas Niemi]]: 1912 m. Augustas Robertas Niemi paskelbė „Lietuvių dainas ir giesmes šiaurės rytų Lietuvoje“ kaip dainų rinkinį drauge su kun. A. Sabaliausko rinkiniu.
+- susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
+- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
+- susijęs iš Helsinkai: 1888 m. Augustas Robertas Niemi įstojo į Helsinkų universitetą.
+- susijęs iš Helsinkai: Helsinkuose buvo pastatytas Lonnroto paminklas, kuriam lėšas rinko Augustas Robertas Niemi.
+- susijęs iš Kariela: Augustas Robertas Niemi Lonnroto pėdomis padarė keletą kelionių po Karielą.
+- susijęs iš Kariela: 1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą.
+- susijęs iš Lemu parapija: Augustas Robertas Niemi gimė Lemu parapijoje.
+- susijęs iš Luononmaa sala: Nuo penkerių metų Augustas Robertas Niemi gyveno Luononmaa saloje.
+- susijęs iš Naantalis: Naantalis šiame šaltinyje minimas kaip artimas Augusto Roberto Niemio gimimo vietos orientyras.
+- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
+- susijęs iš Turku: 1880 m. Augustas Robertas Niemi įstojo į Turku suomių licėjų.
+- susijęs iš Vakarų Suomija: Augustas Robertas Niemi gimė vakarų Suomijoje.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
@@ -369,6 +387,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
 - susijęs iš [[objektai/grupes/Karalaičio Jokūbo partija.md#claim-t-01344|Karalaičio Jokūbo partija]]: Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.
 - susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
+- susijęs iš [[objektai/zodynas/Liciejus.md#claim-t-195449|Liciejus]]: Liciejus šiame šaltinyje reiškia gimnazijos tipo mokymo įstaigą.
 ## Reikšmingi paminėjimai
 
 - c-001

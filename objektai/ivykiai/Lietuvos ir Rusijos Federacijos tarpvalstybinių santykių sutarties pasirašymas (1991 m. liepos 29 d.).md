@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75146"></a>
-- t-003
+- t-001
   global_id: t-75146
   teiginys: "Lietuva pripažino Rusiją nepriklausoma valstybe."
   pagrindžia:
@@ -70,7 +70,7 @@ Nenurodyta
     - c-23035
 
 <a id="claim-t-75148"></a>
-- t-001
+- t-003
   global_id: t-75148
   teiginys: "Draugiški Lietuvos ir Rusijos vadovų santykiai leido parengti Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   pagrindžia:

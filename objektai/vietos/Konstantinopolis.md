@@ -43,70 +43,70 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 ## Teiginiai
 
 <a id="claim-t-177248"></a>
-- t-006
+- t-001
   global_id: t-177248
   teiginys: "Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą."
   pagrindžia:
     - c-161143
 
 <a id="claim-t-177249"></a>
-- t-001
+- t-002
   global_id: t-177249
   teiginys: "Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
   pagrindžia:
     - c-161140
 
 <a id="claim-t-177250"></a>
-- t-007
+- t-003
   global_id: t-177250
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   pagrindžia:
     - c-161148
 
 <a id="claim-t-177251"></a>
-- t-009
+- t-004
   global_id: t-177251
   teiginys: "1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai."
   pagrindžia:
     - c-161144
 
 <a id="claim-t-177255"></a>
-- t-002
+- t-005
   global_id: t-177255
   teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
   pagrindžia:
     - c-161142
 
 <a id="claim-t-177250"></a>
-- t-007
+- t-006
   global_id: t-177250
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   pagrindžia:
     - c-161148
 
 <a id="claim-t-177255"></a>
-- t-002
+- t-007
   global_id: t-177255
   teiginys: "Konstantinopolio stačiatikių sinodas nepaskyrė Cemblako metropolitu, atėmė iš jo žemutinius šventimus ir jį iškeikė."
   pagrindžia:
     - c-161142
 
 <a id="claim-t-177256"></a>
-- t-004
+- t-008
   global_id: t-177256
   teiginys: "Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus."
   pagrindžia:
     - c-161140
 
 <a id="claim-t-184164"></a>
-- t-010
+- t-009
   global_id: t-184164
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
   pagrindžia:
     - c-167549
 
 <a id="claim-t-194533"></a>
-- t-011
+- t-010
   global_id: t-194533
   teiginys: "Apie viešpaties erškėčių vainiko perkėlimą 1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio į Paryžių viešpaties erškėčių vainiką (Ptol."
   pagrindžia:

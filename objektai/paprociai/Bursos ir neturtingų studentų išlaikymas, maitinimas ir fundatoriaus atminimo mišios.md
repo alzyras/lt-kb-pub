@@ -12,10 +12,10 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - miestas
   - mokslininkas
   - paprotys
-  - vyskupas
 amziai:
   - 'XV'
   - 'XVIII'

@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kraštas
   - miestas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:
@@ -41,42 +41,42 @@ Pilsudskis, pokario. Pilsudskio šalininkai lenkai siekė išlaikyti Lietuvą sa
 ## Teiginiai
 
 <a id="claim-t-108750"></a>
-- t-003
+- t-001
   global_id: t-108750
   teiginys: "Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe."
   pagrindžia:
     - c-100888
 
 <a id="claim-t-108751"></a>
-- t-009
+- t-002
   global_id: t-108751
   teiginys: "J. Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu."
   pagrindžia:
     - c-100889
 
 <a id="claim-t-108753"></a>
-- t-007
+- t-003
   global_id: t-108753
   teiginys: "1926 m. karinis perversmas Lenkijoje, sugrąžinęs J. Pilsudskį į valdžią, skatino veikti Seimo valdymu nepatenkintas jėgas."
   pagrindžia:
     - c-100886
 
 <a id="claim-t-108754"></a>
-- t-010
+- t-004
   global_id: t-108754
   teiginys: "1927 m. gruodžio 10 d. Ženevoje J. Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“"
   pagrindžia:
     - c-100891
 
 <a id="claim-t-108755"></a>
-- t-002
+- t-005
   global_id: t-108755
   teiginys: "J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje."
   pagrindžia:
     - c-100893
 
 <a id="claim-t-183534"></a>
-- t-011
+- t-006
   global_id: t-183534
   teiginys: "Ernestas Galvanauskas siekė J. Pilsudskio pavyzdžiu užimti Klaipėdos kraštą jėga, sudaryti fait accompli padėtį ir tada derėtis."
   pagrindžia:

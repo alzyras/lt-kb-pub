@@ -53,7 +53,7 @@ media_all_json: |-
     - c-169800
 
 <a id="claim-t-186450"></a>
-- t-002
+- t-003
   global_id: t-186450
   teiginys: "R. Šarmaitis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   pagrindžia:

@@ -50,28 +50,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09880"></a>
-- t-007
+- t-001
   global_id: t-09880
   teiginys: "1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko."
   pagrindžia:
     - c-11913
 
 <a id="claim-t-09881"></a>
-- t-006
+- t-002
   global_id: t-09881
   teiginys: "Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai."
   pagrindžia:
     - c-11912
 
 <a id="claim-t-09882"></a>
-- t-008
+- t-003
   global_id: t-09882
   teiginys: "Po nesėkmingo Rusijos mėginimo užimti Smolenską prie Polianovkos upės buvo sudaryta „amžinosios taikos“ sutartis."
   pagrindžia:
     - c-11914
 
 <a id="claim-t-09883"></a>
-- t-005
+- t-004
   global_id: t-09883
   teiginys: "1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą."
   pagrindžia:

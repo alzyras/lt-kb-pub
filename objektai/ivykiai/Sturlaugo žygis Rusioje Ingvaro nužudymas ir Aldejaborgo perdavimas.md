@@ -43,21 +43,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192042"></a>
-- t-002
+- t-001
   global_id: t-192042
   teiginys: "Narbuto pasakojime Sturlaugas vėliau išleido Ingigerdą už Flamoro ir davė jam Aldejaborgą, kurį vadina Rusios uostu."
   pagrindžia:
     - c-174912
 
 <a id="claim-t-192043"></a>
-- t-003
+- t-002
   global_id: t-192043
   teiginys: "Narbuto datavime Sturlaugo žygis, Ingvaro nužudymas ir Aldejaborgo perdavimas siejami su II a. pabaiga arba III a. pradžia."
   pagrindžia:
     - c-174912
 
 <a id="claim-t-192488"></a>
-- t-004
+- t-003
   global_id: t-192488
   teiginys: "Narbuto pasakojime Sturlaugas Darbštusis kautynėse nužudė Ingvarą, vėliau Ingigerdą išleido už Flamoro ir jam perdavė Aldejaborgą."
   pagrindžia:

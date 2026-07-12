@@ -39,35 +39,35 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
 ## Teiginiai
 
 <a id="claim-t-66256"></a>
-- t-005
+- t-001
   global_id: t-66256
   teiginys: "1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas."
   pagrindžia:
     - c-66563
 
 <a id="claim-t-66257"></a>
-- t-003
+- t-002
   global_id: t-66257
   teiginys: "Vietinės rinktinės daliniai Vilnijoje susidūrė su ginkluotais lenkų Armijos Krajovos daliniais."
   pagrindžia:
     - c-22801
 
 <a id="claim-t-66258"></a>
-- t-002
+- t-003
   global_id: t-66258
   teiginys: "Vietinės rinktinės kariai neketino kariauti Vokietijos pusėje ir ėmė skirstytis su ginklais bei amunicija."
   pagrindžia:
     - c-22800
 
 <a id="claim-t-66259"></a>
-- t-001
+- t-004
   global_id: t-66259
   teiginys: "Vokiečių valdžia pritarė lietuvių siūlymui sukurti Vietinę rinktinę, vadovaujamą lietuvių karininkų ir veikiančią tik Lietuvoje."
   pagrindžia:
     - c-22799
 
 <a id="claim-t-66260"></a>
-- t-004
+- t-005
   global_id: t-66260
   teiginys: "Vokiečiams pamėginus priversti Vietinės rinktinės karius vykti į Rytų frontą, šie ginkluoti skirstėsi namo."
   pagrindžia:

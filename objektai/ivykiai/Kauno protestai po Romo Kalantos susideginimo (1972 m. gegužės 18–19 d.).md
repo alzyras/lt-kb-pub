@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - laidotuvės
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -51,28 +52,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75108"></a>
-- t-002
+- t-001
   global_id: t-75108
   teiginys: "Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų)."
   pagrindžia:
     - c-73023
 
 <a id="claim-t-75109"></a>
-- t-003
+- t-002
   global_id: t-75109
   teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius."
   pagrindžia:
     - c-73024
 
 <a id="claim-t-75110"></a>
-- t-001
+- t-003
   global_id: t-75110
   teiginys: "Romo Kalantos susideginimas sukėlė LKP ir sovietų saugumo pareigūnams paniką."
   pagrindžia:
     - c-73022
 
 <a id="claim-t-75109"></a>
-- t-003
+- t-004
   global_id: t-75109
   teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius."
   pagrindžia:

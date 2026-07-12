@@ -41,14 +41,14 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
 ## Teiginiai
 
 <a id="claim-t-63188"></a>
-- t-002
+- t-001
   global_id: t-63188
   teiginys: "Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29."
   pagrindžia:
     - c-64179
 
 <a id="claim-t-63189"></a>
-- t-001
+- t-002
   global_id: t-63189
   teiginys: "1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai."
   pagrindžia:

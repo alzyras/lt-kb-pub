@@ -46,14 +46,14 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
     - c-21585
 
 <a id="claim-t-63476"></a>
-- t-003
+- t-002
   global_id: t-63476
   teiginys: "Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje."
   pagrindžia:
     - c-41826
 
 <a id="claim-t-63477"></a>
-- t-002
+- t-003
   global_id: t-63477
   teiginys: "Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas."
   pagrindžia:

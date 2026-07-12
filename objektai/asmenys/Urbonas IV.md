@@ -15,6 +15,7 @@ tags:
   - asmuo
   - karalius
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'
@@ -56,7 +57,7 @@ Dusburgietis teigia, kad apie Kristaus kūno šventės įsteigimą 1261 viešpat
     - c-60848
 
 <a id="claim-t-60216"></a>
-- t-001
+- t-003
   global_id: t-60216
   teiginys: "1261 m. popiežius Urbonas IV įsteigė Kristaus kūno šventę."
   pagrindžia:

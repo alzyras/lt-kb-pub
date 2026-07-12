@@ -30,7 +30,7 @@ Bendrą tų kovų istoriją paruošė istorikų kolektyvas : Lietuviu karas su k
 ## Teiginiai
 
 <a id="claim-t-67441"></a>
-- t-003
+- t-001
   global_id: t-67441
   teiginys: "Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas."
   pagrindžia:

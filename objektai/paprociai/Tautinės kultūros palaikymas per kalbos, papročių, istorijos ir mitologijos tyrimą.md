@@ -5,7 +5,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +51,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187832"></a>
-- t-002
+- t-001
   global_id: t-187832
   teiginys: "Įžangos autorius teigia, kad tautinei savimonei palaikyti buvo keliama gimtosios kalbos, papročių, istorijos ir tautinės kultūros puoselėjimo bei tyrimo programa."
   pagrindžia:

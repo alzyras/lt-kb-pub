@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - diplomatas
   - grupe
+  - institucija
   - mokslininkas
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'

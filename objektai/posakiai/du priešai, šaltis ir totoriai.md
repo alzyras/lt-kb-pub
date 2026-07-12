@@ -5,7 +5,8 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +33,7 @@ Vytautui priskiriama lakoniška karo formulė pergalę ir galimą pralaimėjimą
 ## Teiginiai
 
 <a id="claim-t-11660"></a>
-- t-002
+- t-001
   global_id: t-11660
   teiginys: "Posakis „du priešai: šaltis ir totoriai“ pateikiamas kaip Vytauto atsakymo dalis, kai saviškiai prie Dniepro ragino jį dėl šalčių mesti kovą su totoriais."
   pagrindžia:

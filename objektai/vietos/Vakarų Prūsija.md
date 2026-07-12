@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - vieta
 amziai:
   - 'XV'

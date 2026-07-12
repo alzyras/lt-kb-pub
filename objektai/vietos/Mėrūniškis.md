@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
     - c-59233
 
 <a id="claim-t-58600"></a>
-- t-001
+- t-003
   global_id: t-58600
   teiginys: "Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių."
   pagrindžia:

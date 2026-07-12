@@ -13,6 +13,7 @@ tags:
   - ginklas
   - ivykis
   - pilis
+  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

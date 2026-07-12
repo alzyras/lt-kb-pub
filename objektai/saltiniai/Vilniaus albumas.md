@@ -38,7 +38,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
 ## Teiginiai
 
 <a id="claim-t-75528"></a>
-- t-005
+- t-001
   global_id: t-75528
   teiginys: "Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“."
   pagrindžia:
@@ -52,7 +52,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     - c-24005
 
 <a id="claim-t-75531"></a>
-- t-001
+- t-003
   global_id: t-75531
   teiginys: "J. K. Vilčinskio „Vilniaus albume“ 1850 m. publikuotas Vilniaus universiteto Didžiojo kiemo ir Šv. Jonų bažnyčios vaizdas."
   pagrindžia:
@@ -66,7 +66,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
     - c-24007
 
 <a id="claim-t-75533"></a>
-- t-007
+- t-005
   global_id: t-75533
   teiginys: "J. K. Vilčinskio „Vilniaus albume“ paskelbtas P. Benoist 1848 m. Vilniaus Verkių rūmų interjero vaizdas."
   pagrindžia:

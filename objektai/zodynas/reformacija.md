@@ -44,7 +44,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77786"></a>
-- t-003
+- t-001
   global_id: t-77786
   teiginys: "Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią."
   pagrindžia:

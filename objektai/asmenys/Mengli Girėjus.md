@@ -32,35 +32,35 @@ Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug 
 ## Teiginiai
 
 <a id="claim-t-195002"></a>
-- t-003
+- t-001
   global_id: t-195002
   teiginys: "Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus."
   pagrindžia:
     - c-177387
 
 <a id="claim-t-195003"></a>
-- t-006
+- t-002
   global_id: t-195003
   teiginys: "Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas."
   pagrindžia:
     - c-177388
 
 <a id="claim-t-195004"></a>
-- t-002
+- t-003
   global_id: t-195004
   teiginys: "Mūšio lauke krito trys Mengli Girėjaus sūnūs ir žentas, todėl garsas apie pergalę plačiai pasklido."
   pagrindžia:
     - c-177386
 
 <a id="claim-t-195005"></a>
-- t-001
+- t-004
   global_id: t-195005
   teiginys: "Mengli Girėjaus kariai, vedami jo sūnaus, nusiaubė Lietuvą ir pridarė daug žalos."
   pagrindžia:
     - c-177385
 
 <a id="claim-t-195006"></a>
-- t-007
+- t-005
   global_id: t-195006
   teiginys: "1 6 Mechmet (Machmud)-Girėjus — Krymo chano M engli-Girėjaus trečiasis sūnus."
   pagrindžia:

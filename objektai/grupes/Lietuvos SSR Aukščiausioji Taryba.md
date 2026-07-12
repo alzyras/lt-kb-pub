@@ -17,9 +17,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -44,35 +44,35 @@ Pavertus Lietuvą SSRS sudedamąja dalimi, savanoriškumo kamufliažo atsisakyta
 ## Teiginiai
 
 <a id="claim-t-65775"></a>
-- t-006
+- t-001
   global_id: t-65775
   teiginys: "Lietuvos SSR Aukščiausiosios Tarybos sudaryta valstybinė komisija išnagrinėjo ir viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius – 1940 m. vasarą sovietų valstybės įvykdytą Lietuvos okupaciją ir neteisėtą prijungimą."
   pagrindžia:
     - c-22579
 
 <a id="claim-t-65776"></a>
-- t-005
+- t-002
   global_id: t-65776
   teiginys: "1989 m. gegužės 18 d. LPS reikalavimu priimtos konstitucinės pataisos paskelbė Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu."
   pagrindžia:
     - c-22578
 
 <a id="claim-t-65777"></a>
-- t-001
+- t-003
   global_id: t-65777
   teiginys: "1940 m. rugpjūčio 25 d. Liaudies seimas buvo pervadintas Lietuvos SSR Aukščiausiąja Taryba."
   pagrindžia:
     - c-22574
 
 <a id="claim-t-65779"></a>
-- t-003
+- t-004
   global_id: t-65779
   teiginys: "1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę."
   pagrindžia:
     - c-22576
 
 <a id="claim-t-65780"></a>
-- t-002
+- t-005
   global_id: t-65780
   teiginys: "Po karo rinkimai į Lietuvos SSR Aukščiausiąją Tarybą pirmą kartą vyko 1947 m."
   pagrindžia:

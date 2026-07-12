@@ -39,21 +39,21 @@ Dusburgietis teigia, kad apie brolį Henriką iš Kunceno Tuo metu Prūsijoje mi
     - c-60605
 
 <a id="claim-t-59974"></a>
-- t-003
+- t-002
   global_id: t-59974
   teiginys: "Henrikas iš Kunceno, atvykęs į Prūsiją, davė įžadus Teutonų ordinui ir vienuolyne pranoko kitus brolius dorybėmis."
   pagrindžia:
     - c-60607
 
 <a id="claim-t-59975"></a>
-- t-002
+- t-003
   global_id: t-59975
   teiginys: "Henrikui iš Kunceno pasižadėjus įstoti į Teutonų ordiną, išnyko jį gąsdinęs sambūris ir regėjimai."
   pagrindžia:
     - c-60606
 
 <a id="claim-t-59973"></a>
-- t-001
+- t-004
   global_id: t-59973
   teiginys: "Henrikas iš Kunceno mirė Prūsijoje ir buvo gimęs Tiuringijoje."
   pagrindžia:

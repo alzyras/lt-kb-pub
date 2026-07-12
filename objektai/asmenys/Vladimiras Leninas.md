@@ -41,14 +41,14 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Teiginiai
 
 <a id="claim-t-64245"></a>
-- t-002
+- t-001
   global_id: t-64245
   teiginys: "Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose."
   pagrindžia:
     - c-65052
 
 <a id="claim-t-64246"></a>
-- t-001
+- t-002
   global_id: t-64246
   teiginys: "Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija."
   pagrindžia:

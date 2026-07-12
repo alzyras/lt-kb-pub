@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66478"></a>
-- t-003
+- t-001
   global_id: t-66478
   teiginys: "1264 m. Bartenšteino pilyje broliai stokojo maisto, nebegalėjo ilgiau priešintis prūsams ir apgaule priviliojo juos pulti pilį."
   pagrindžia:
     - c-66695
 
 <a id="claim-t-66479"></a>
-- t-001
+- t-002
   global_id: t-66479
   teiginys: "Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių."
   pagrindžia:
     - c-66693
 
 <a id="claim-t-66480"></a>
-- t-002
+- t-003
   global_id: t-66480
   teiginys: "Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis."
   pagrindžia:

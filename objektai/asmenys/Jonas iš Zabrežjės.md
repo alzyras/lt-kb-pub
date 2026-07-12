@@ -41,14 +41,14 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
 ## Teiginiai
 
 <a id="claim-t-87525"></a>
-- t-002
+- t-001
   global_id: t-87525
   teiginys: "1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas."
   pagrindžia:
     - c-83505
 
 <a id="claim-t-87526"></a>
-- t-001
+- t-002
   global_id: t-87526
   teiginys: "Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka."
   pagrindžia:

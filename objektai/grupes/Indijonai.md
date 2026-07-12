@@ -29,7 +29,7 @@ Indijonai šioje vietoje minimi religinių vardų palyginimo argumente.
 ## Teiginiai
 
 <a id="claim-t-07835"></a>
-- t-002
+- t-001
   global_id: t-07835
   teiginys: "Indijonai savo didžiojo dievo Višnaus įsikūnijimą vadino Adivarage Perunal."
   pagrindžia:

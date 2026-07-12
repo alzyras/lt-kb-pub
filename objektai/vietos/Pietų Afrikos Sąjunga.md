@@ -36,7 +36,7 @@ sudarė žydai, vykę į Palestiną, Pietų Afrikos Sąjungą ir JAV.
     - c-24382
 
 <a id="claim-t-77145"></a>
-- t-001
+- t-002
   global_id: t-77145
   teiginys: "Pietų Afrikos Sąjunga buvo viena iš krypčių, į kurias per 20 metų vyko apie 30 proc. iš Lietuvos emigravusių žydų."
   pagrindžia:

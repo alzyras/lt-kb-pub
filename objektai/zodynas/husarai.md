@@ -32,35 +32,35 @@ Piešinyje pavaizduoti lietuvių lengvieji raiteliai — husarai su būdingais t
 ## Teiginiai
 
 <a id="claim-t-49270"></a>
-- t-004
+- t-001
   global_id: t-49270
   teiginys: "Husarai buvo ilgomis ietimis ginkluoti raitininkai, kurių ataka laikyta efektyvesniu kovos būdu už vakarietišką kavalerijos ataką pistoletais."
   pagrindžia:
     - c-44173
 
 <a id="claim-t-49271"></a>
-- t-001
+- t-002
   global_id: t-49271
   teiginys: "Piešinyje lietuvių lengvieji raiteliai husarai pavaizduoti su burės formos skydais, būdingais to meto husarams."
   pagrindžia:
     - c-44170
 
 <a id="claim-t-49272"></a>
-- t-002
+- t-003
   global_id: t-49272
   teiginys: "Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija."
   pagrindžia:
     - c-51275
 
 <a id="claim-t-49273"></a>
-- t-005
+- t-004
   global_id: t-49273
   teiginys: "Lietuvoje ir Lenkijoje husarai buvo ilgomis ietimis ginkluoti sunkieji raiteliai."
   pagrindžia:
     - c-44173
 
 <a id="claim-t-49274"></a>
-- t-003
+- t-005
   global_id: t-49274
   teiginys: "Vengrijoje ir vėliau Europoje husarais vadinta lengvoji kavalerija, dėvėjusi vengriško stiliaus drabužius."
   pagrindžia:

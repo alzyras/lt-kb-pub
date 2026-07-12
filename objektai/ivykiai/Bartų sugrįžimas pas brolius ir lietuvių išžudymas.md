@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66482"></a>
-- t-002
+- t-001
   global_id: t-66482
   teiginys: "Numa ir Derska pelnė brolių palankumą, pasitiko lietuvių kariuomenę, išžudė lietuvius ir grobį išsigabeno į Pagudę."
   pagrindžia:
     - c-66697
 
 <a id="claim-t-66483"></a>
-- t-001
+- t-002
   global_id: t-66483
   teiginys: "Kai broliai rengėsi pulti Gardino pilį, iš Pagudės pabėgę bartai su lietuviais surengė žygį prieš Lenkiją."
   pagrindžia:

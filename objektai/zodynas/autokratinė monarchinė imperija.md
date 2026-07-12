@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-45782"></a>
-- t-002
+- t-001
   global_id: t-45782
   teiginys: "Vietiniame Rusijos imperijos valdyme gubernijai vadovavo caro skiriamas, vidaus reikalų žinybai pavaldus gubernatorius."
   pagrindžia:
@@ -53,7 +53,7 @@ media_all_json: |-
     - c-24748
 
 <a id="claim-t-45784"></a>
-- t-001
+- t-003
   global_id: t-45784
   teiginys: "1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai."
   pagrindžia:

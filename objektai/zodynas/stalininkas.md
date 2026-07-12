@@ -40,7 +40,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 <a id="claim-t-58869"></a>
-- t-002
+- t-001
   global_id: t-58869
   teiginys: "Stalininkas Druzigeris pabėgo iš mūšio ir Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo."
   pagrindžia:

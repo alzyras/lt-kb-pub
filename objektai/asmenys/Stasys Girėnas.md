@@ -39,21 +39,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-64102"></a>
-- t-004
+- t-001
   global_id: t-64102
   teiginys: "Sovietmečiu buvo leidžiama rašyti apie Stepono Dariaus ir Stasio Girėno žygdarbį."
   pagrindžia:
     - c-21993
 
 <a id="claim-t-183570"></a>
-- t-006
+- t-002
   global_id: t-183570
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   pagrindžia:
     - c-166963
 
 <a id="claim-t-183571"></a>
-- t-007
+- t-003
   global_id: t-183571
   teiginys: "Stasys Girėnas kartu su Steponu Dariumi buvo sumanęs skrydį, kurį 1935 m. gegužės 21–22 d. sėkmingai atliko Feliksas Vaitkus."
   pagrindžia:

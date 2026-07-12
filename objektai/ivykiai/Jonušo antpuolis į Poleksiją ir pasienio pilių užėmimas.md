@@ -39,14 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185708"></a>
-- t-002
+- t-001
   global_id: t-185708
   teiginys: "Jonušas nesuteikė Kęstučiui pagalbos, užpuolė Poleksiją ir staigiu įsiveržimu užėmė Drohičiną, Melniką, Suražą bei Kamenecą."
   pagrindžia:
     - c-169069
 
 <a id="claim-t-193357"></a>
-- t-003
+- t-002
   global_id: t-193357
   teiginys: "Kęstutis, savo ruožtu apie viską sužinojęs, paliko rusų pulkus, turėjusius toliau pulti Seversko NauK ęstu tis traukia p rieš gardą ir ginti apylinkes nuo Jogailą, su p a T raku s Kaributo antpuolių, o pats skubiai sugrįžo į Žemaitiją; čia greitosiomis."
   pagrindžia:

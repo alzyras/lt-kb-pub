@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - reforma
+  - teisinė-praktika
   - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54297"></a>
-- t-003
+- t-001
   global_id: t-54297
   teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo."
   pagrindžia:
@@ -65,7 +66,7 @@ Nenurodyta
     - c-55175
 
 <a id="claim-t-54299"></a>
-- t-001
+- t-003
   global_id: t-54299
   teiginys: "Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose buvo svarbios europinės kultūros įsisavinimui."
   pagrindžia:

@@ -42,7 +42,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
 ## Teiginiai
 
 <a id="claim-t-58313"></a>
-- t-004
+- t-001
   global_id: t-58313
   teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puldinėjo su dviem apgulos mašinomis bei daugybe šaulių."
   pagrindžia:
@@ -63,14 +63,14 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
     - c-58949
 
 <a id="claim-t-58316"></a>
-- t-006
+- t-004
   global_id: t-58316
   teiginys: "Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę."
   pagrindžia:
     - c-58945
 
 <a id="claim-t-58317"></a>
-- t-001
+- t-005
   global_id: t-58317
   teiginys: "Petras Dusburgietis pažymėjo, kad 1328 m. vasarą kryžiuočiai apleido Kristmemelio pilį prie žemutinio Nemuno."
   pagrindžia:

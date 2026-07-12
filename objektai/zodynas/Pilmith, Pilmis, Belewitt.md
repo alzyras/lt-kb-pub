@@ -40,7 +40,7 @@ Vartojama kaip trumpas senovės vokiečių dievaičių sąrašas.
 ## Teiginiai
 
 <a id="claim-t-192316"></a>
-- t-002
+- t-001
   global_id: t-192316
   teiginys: "Žinia apie dievaites Pilmith, Pilmis ir Belewitt pateikta kaip sakinys, kuriuo Narbutas papildė tekstą rengdamas antrąjį leidimą."
   pagrindžia:

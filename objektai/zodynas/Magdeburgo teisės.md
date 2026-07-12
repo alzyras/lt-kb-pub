@@ -48,63 +48,63 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
 ## Teiginiai
 
 <a id="claim-t-113643"></a>
-- t-009
+- t-001
   global_id: t-113643
   teiginys: "Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises."
   pagrindžia:
     - c-104844
 
 <a id="claim-t-113644"></a>
-- t-012
+- t-002
   global_id: t-113644
   teiginys: "Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise."
   pagrindžia:
     - c-104849
 
 <a id="claim-t-113645"></a>
-- t-014
+- t-003
   global_id: t-113645
   teiginys: "1441 m. Brastoje išleista Kazimiero privilegija Vilniui atkūrė Magdeburgo teises ir nustatė du didžiuosius prekymečius."
   pagrindžia:
     - c-104846
 
 <a id="claim-t-113646"></a>
-- t-016
+- t-004
   global_id: t-113646
   teiginys: "Pirmosios Magdeburgo teisės Lietuvoje būtų pagerinusios miesto būklę, jei vidaus karas nebūtų sukėlęs naujos sumaišties šalyje."
   pagrindžia:
     - c-104838
 
 <a id="claim-t-113647"></a>
-- t-023
+- t-005
   global_id: t-113647
   teiginys: "1492 m. Trakuose Aleksandras privilegija Vilniui suteikė Magdeburgo teises ir laisvę laikyti vaško dirbtuvę."
   pagrindžia:
     - c-104848
 
 <a id="claim-t-113648"></a>
-- t-019
+- t-006
   global_id: t-113648
   teiginys: "1441 m. Kazimiero privilegija atnaujino Vilniaus Magdeburgo teises, nustatė du didžiuosius prekymečius ir savaitinius turgus."
   pagrindžia:
     - c-104841
 
 <a id="claim-t-113649"></a>
-- t-020
+- t-007
   global_id: t-113649
   teiginys: "Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m."
   pagrindžia:
     - c-37888
 
 <a id="claim-t-113650"></a>
-- t-018
+- t-008
   global_id: t-113650
   teiginys: "Žygimantas privilegijomis amžiams suteikė miestui vokišką Magdeburgo teisę, nuo seno naudotą Krokuvoje."
   pagrindžia:
     - c-104845
 
 <a id="claim-t-113651"></a>
-- t-021
+- t-009
   global_id: t-113651
   teiginys: "Karinis valdymas, kryžiuočių antpuoliai ir Vilniaus apgultys trukdė įtvirtinti Magdeburgo teises tarp miestiečių."
   pagrindžia:
@@ -118,35 +118,35 @@ Kai kuriems jų buvo duotos savivaldybės (vadinamosios Magdeburgo teisės). Pir
     - c-104840
 
 <a id="claim-t-113653"></a>
-- t-022
+- t-011
   global_id: t-113653
   teiginys: "Žygimantas dviem privilegijomis lotynų ir rusų kalbomis atnaujino ir patvirtino Vilniaus Magdeburgo teises."
   pagrindžia:
     - c-104839
 
 <a id="claim-t-113654"></a>
-- t-017
+- t-012
   global_id: t-113654
   teiginys: "Švitrigaila, įžengęs į Lietuvos sostą, nepatvirtino dovanojimų, paremtų Magdeburgo teise."
   pagrindžia:
     - c-104847
 
 <a id="claim-t-113655"></a>
-- t-006
+- t-013
   global_id: t-113655
   teiginys: "Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius."
   pagrindžia:
     - c-14674
 
 <a id="claim-t-113656"></a>
-- t-007
+- t-014
   global_id: t-113656
   teiginys: "Vytautas Magdeburgo teises suteikė Brastai ir Kaunui 1408 m., Tykocinui 1426 m., Drachočynui 1429 m. ir Bielskui 1430 m."
   pagrindžia:
     - c-14675
 
 <a id="claim-t-182958"></a>
-- t-014
+- t-015
   global_id: t-182958
   teiginys: "Vytauto laikais kai kuriems iškilusiems Lietuvos miestams buvo suteiktos savivaldybės, vadinamos Magdeburgo teisėmis."
   pagrindžia:

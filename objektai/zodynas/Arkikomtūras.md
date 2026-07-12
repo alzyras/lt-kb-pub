@@ -46,14 +46,14 @@ Pra­ ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­ no didysis ma
     - c-82433
 
 <a id="claim-t-86454"></a>
-- t-003
+- t-002
   global_id: t-86454
   teiginys: "Vaidila 1380 m. Prūsijoje paruošė dirvą Jogailos slaptam sandėriui su arkikomtūru."
   pagrindžia:
     - c-82434
 
 <a id="claim-t-86455"></a>
-- t-002
+- t-003
   global_id: t-86455
   teiginys: "Po taikos sutarties arkikomtūras su Ordino maršalu ir kitais aukštesniaisiais vokiečių riteriais buvo pakviestas į Vilniaus ir Trakų pilis."
   pagrindžia:

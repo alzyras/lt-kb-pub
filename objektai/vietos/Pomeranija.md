@@ -48,28 +48,28 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - c-68433
 
 <a id="claim-t-68997"></a>
-- t-005
+- t-002
   global_id: t-68997
   teiginys: "1246 m. magistras ir broliai su sąjungininkais įsiveržė į Pomeraniją ir devynias dienas bei naktis ją niokojo."
   pagrindžia:
     - c-68434
 
 <a id="claim-t-68998"></a>
-- t-004
+- t-003
   global_id: t-68998
   teiginys: "Vysla, tekėdama nuo Krokuvos į Pomeraniją ir įtekėdama į jūrą prie Gdansko, skyrė Lenkiją bei Pomeraniją nuo Prūsijos."
   pagrindžia:
     - c-68435
 
 <a id="claim-t-69000"></a>
-- t-003
+- t-004
   global_id: t-69000
   teiginys: "1396 m. Vytautas sudarė laisvos prekybos sutartis su Štetino Pomeranijos hercogu, Rygos arkivyskupu elektu ir Dorpato vyskupu Ditrichu III Damerau."
   pagrindžia:
     - c-37651
 
 <a id="claim-t-69001"></a>
-- t-006
+- t-005
   global_id: t-69001
   teiginys: "Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką."
   pagrindžia:

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - paprotys
-  - pilis
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87183"></a>
-- t-002
+- t-001
   global_id: t-87183
   teiginys: "1572 m. įsakymas numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą."
   pagrindžia:
     - c-83162
 
 <a id="claim-t-87184"></a>
-- t-001
+- t-002
   global_id: t-87184
   teiginys: "1572 m. Žygimantas Augustas įsakė lietuvišką monetą imti nustatyta verte, o atsisakiusiesiems ją priimti numatė dešimties lenkiškų grivinų baudą."
   pagrindžia:

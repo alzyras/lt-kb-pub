@@ -46,7 +46,7 @@ Aplinkinėse valstybėse ir LDK pietrytinėje dalyje iki Vilniaus išplitusio ch
     - c-22369
 
 <a id="claim-t-169575"></a>
-- t-002
+- t-003
   global_id: t-169575
   teiginys: "Vilniaus Gaonas paskelbė chasidus eretikais ir savo autoritetu sustabdė chasidizmo plitimą Lietuvoje."
   pagrindžia:

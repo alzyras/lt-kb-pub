@@ -39,7 +39,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-178211"></a>
-- t-003
+- t-001
   global_id: t-178211
   teiginys: "Po 1411 m. Torno sutarties Vytauto ir Ordino santykiai nepagerėjo, nors sutartyje susitarta dėl laisvos savitarpio prekybos."
   pagrindžia:
@@ -53,14 +53,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     - c-161978
 
 <a id="claim-t-178213"></a>
-- t-001
+- t-003
   global_id: t-178213
   teiginys: "Prie Torno pilies 1411 m. vasario 1 d. buvo sudaryta taika, kai joje buvo užsidaręs didysis magistras."
   pagrindžia:
     - c-161976
 
 <a id="claim-t-178215"></a>
-- t-005
+- t-004
   global_id: t-178215
   teiginys: "1411 m. vasario 1 d. prie Torno pilies buvo sudaryta taika."
   pagrindžia:

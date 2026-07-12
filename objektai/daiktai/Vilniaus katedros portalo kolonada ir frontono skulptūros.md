@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19608"></a>
-- t-002
+- t-001
   global_id: t-19608
   teiginys: "Ant Vilniaus katedros frontono buvo šv. Kazimiero, šv. Stanislovo ir šv. Elenos skulptūros."
   pagrindžia:
     - c-22313
 
 <a id="claim-t-19609"></a>
-- t-001
+- t-002
   global_id: t-19609
   teiginys: "Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia."
   pagrindžia:

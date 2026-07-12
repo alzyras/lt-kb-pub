@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - teisinė-praktika
   - vieta
   - vyskupas
 media_total_count: '0'

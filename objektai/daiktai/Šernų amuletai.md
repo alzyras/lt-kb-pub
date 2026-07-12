@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47838"></a>
-- t-002
+- t-001
   global_id: t-47838
   teiginys: "Anot Tacito, prie Svebų jūros gyvenę Aestii garbino dievų motiną, nešiojo šernų amuletus, augino javus ir rinko gintarą."
   pagrindžia:
     - c-31025
 
 <a id="claim-t-47839"></a>
-- t-001
+- t-002
   global_id: t-47839
   teiginys: "Tacitas rašė, kad prie Baltijos jūros gyvenę Aestii garbino dievų motiną ir nešiojo šernų amuletus."
   pagrindžia:

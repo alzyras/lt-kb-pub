@@ -50,56 +50,56 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 ## Teiginiai
 
 <a id="claim-t-89819"></a>
-- t-009
+- t-001
   global_id: t-89819
   teiginys: "Hermanas iš Zalcos 1210-1239 m. vadovavo Teutonų ordinui ir buvo apibūdinamas kaip iškalbingas, mandagus bei išmintingas magistras."
   pagrindžia:
     - c-85747
 
 <a id="claim-t-89820"></a>
-- t-020
+- t-002
   global_id: t-89820
   teiginys: "Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino."
   pagrindžia:
     - c-85751
 
 <a id="claim-t-89821"></a>
-- t-019
+- t-003
   global_id: t-89821
   teiginys: "Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas."
   pagrindžia:
     - c-56085
 
 <a id="claim-t-89822"></a>
-- t-010
+- t-004
   global_id: t-89822
   teiginys: "Kronikos pasakojime Hermanas iš Zalcos siekė sustiprinti Ordiną bent iki dešimties ginkluotų brolių riterių išlaikymo."
   pagrindžia:
     - c-85747
 
 <a id="claim-t-89823"></a>
-- t-002
+- t-005
   global_id: t-89823
   teiginys: "Dusburgietis Hermaną iš Zalcos vaizduoja kaip iškalbingą, mandagų, išmintingą, apdairų ir garbingą magistrą."
   pagrindžia:
     - c-85747
 
 <a id="claim-t-89824"></a>
-- t-011
+- t-006
   global_id: t-89824
   teiginys: "Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją."
   pagrindžia:
     - c-56083
 
 <a id="claim-t-89825"></a>
-- t-022
+- t-007
   global_id: t-89825
   teiginys: "Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą."
   pagrindžia:
     - c-85753
 
 <a id="claim-t-89826"></a>
-- t-012
+- t-008
   global_id: t-89826
   teiginys: "Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai."
   pagrindžia:
@@ -107,70 +107,70 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
     - c-56085
 
 <a id="claim-t-89827"></a>
-- t-016
+- t-009
   global_id: t-89827
   teiginys: "Petras Dusburgietis Hermaną iš Zalcos apibūdino kaip iškalbingą, mandagų, išmintingą, apdairų, atsargų ir garbingą."
   pagrindžia:
     - c-85747
 
 <a id="claim-t-89828"></a>
-- t-005
+- t-010
   global_id: t-89828
   teiginys: "Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį."
   pagrindžia:
     - c-56083
 
 <a id="claim-t-89829"></a>
-- t-015
+- t-011
   global_id: t-89829
   teiginys: "Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje."
   pagrindžia:
     - c-85747
 
 <a id="claim-t-89830"></a>
-- t-024
+- t-012
   global_id: t-89830
   teiginys: "Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą."
   pagrindžia:
     - c-56085
 
 <a id="claim-t-89831"></a>
-- t-018
+- t-013
   global_id: t-89831
   teiginys: "Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą."
   pagrindžia:
     - c-85752
 
 <a id="claim-t-89832"></a>
-- t-017
+- t-014
   global_id: t-89832
   teiginys: "Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių."
   pagrindžia:
     - c-85750
 
 <a id="claim-t-89833"></a>
-- t-023
+- t-015
   global_id: t-89833
   teiginys: "Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje."
   pagrindžia:
     - c-85749
 
 <a id="claim-t-89834"></a>
-- t-021
+- t-016
   global_id: t-89834
   teiginys: "1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko."
   pagrindžia:
     - c-85754
 
 <a id="claim-t-89835"></a>
-- t-013
+- t-017
   global_id: t-89835
   teiginys: "Leidėjai jį priskyrė Hermanui iš Zalcos111."
   pagrindžia:
     - c-85746
 
 <a id="claim-t-89836"></a>
-- t-004
+- t-018
   global_id: t-89836
   teiginys: "Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu."
   pagrindžia:

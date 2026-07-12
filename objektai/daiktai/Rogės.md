@@ -59,7 +59,7 @@ Nenurodyta
     - c-10279
 
 <a id="claim-t-186847"></a>
-- t-003
+- t-002
   global_id: t-186847
   teiginys: "Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis."
   pagrindžia:

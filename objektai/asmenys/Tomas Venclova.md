@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - teisinė-praktika
 amziai:
   - 'XX'
 periodo_grupes:
@@ -38,14 +39,14 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
 ## Teiginiai
 
 <a id="claim-t-19285"></a>
-- t-002
+- t-001
   global_id: t-19285
   teiginys: "Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis."
   pagrindžia:
     - c-22029
 
 <a id="claim-t-19286"></a>
-- t-001
+- t-002
   global_id: t-19286
   teiginys: "1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos."
   pagrindžia:

@@ -42,35 +42,35 @@ Jam buvo pasisekę paimti į savo valdžią net Žiemgalos dalį; tačiau jam ne
 ## Teiginiai
 
 <a id="claim-t-99904"></a>
-- t-005
+- t-001
   global_id: t-99904
   teiginys: "1259–1260 m. žiemą kryžiuočiai Žiemgaloje pastatė stiprią Dobės pilį, kurios sukilę žiemgaliai negalėjo įveikti."
   pagrindžia:
     - c-93857
 
 <a id="claim-t-99905"></a>
-- t-004
+- t-002
   global_id: t-99905
   teiginys: "Ordinas kaltintas Žiemgalos ir kitų kraštų vertimu dykynėmis, teigiant, kad tai daroma krikščionybei ginti."
   pagrindžia:
     - c-93856
 
 <a id="claim-t-99906"></a>
-- t-001
+- t-003
   global_id: t-99906
   teiginys: "1259-1260 m. žiemą Žiemgaloje buvo pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
   pagrindžia:
     - c-32613
 
 <a id="claim-t-99907"></a>
-- t-003
+- t-004
   global_id: t-99907
   teiginys: "Ordinas Žiemgalą ir kitus kraštus vertė dykynėmis, teigdamas, kad tai daro krikščionybei ginti."
   pagrindžia:
     - c-93856
 
 <a id="claim-t-99908"></a>
-- t-002
+- t-005
   global_id: t-99908
   teiginys: "1259-1260 m. žiemą Žiemgaloje pastatyta stipri Dobės pilis, kurios sukilę žiemgaliai neįveikė."
   pagrindžia:

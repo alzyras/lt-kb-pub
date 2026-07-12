@@ -32,7 +32,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 ## Teiginiai
 
 <a id="claim-t-101568"></a>
-- t-003
+- t-001
   global_id: t-101568
   teiginys: "LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką."
   pagrindžia:
@@ -46,7 +46,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
     - c-24759
 
 <a id="claim-t-101570"></a>
-- t-001
+- t-003
   global_id: t-101570
   teiginys: "Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką."
   pagrindžia:

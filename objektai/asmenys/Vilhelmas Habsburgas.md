@@ -40,21 +40,21 @@ Dar tėvui gyvam esant, penkerių metų Jadvyga 1378 m. buvo sužieduota su Aust
 ## Teiginiai
 
 <a id="claim-t-64242"></a>
-- t-002
+- t-001
   global_id: t-64242
   teiginys: "Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
   pagrindžia:
     - c-36531
 
 <a id="claim-t-64243"></a>
-- t-003
+- t-002
   global_id: t-64243
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
   pagrindžia:
     - c-36532
 
 <a id="claim-t-64244"></a>
-- t-001
+- t-003
   global_id: t-64244
   teiginys: "Austrijos Vilhelmas Habsburgas 1378 m. buvo sužieduotas su penkerių metų Jadvyga."
   pagrindžia:

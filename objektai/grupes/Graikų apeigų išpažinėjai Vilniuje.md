@@ -13,7 +13,7 @@ tags:
   - grupe
   - karalius
   - miestas
-  - privilegija
+  - ritualas
 amziai:
   - 'XVI'
 media_total_count: '0'

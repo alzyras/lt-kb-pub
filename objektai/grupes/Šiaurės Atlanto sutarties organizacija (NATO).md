@@ -16,9 +16,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - mokslininkas
   - sutartis
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'
@@ -44,42 +44,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75050"></a>
-- t-006
+- t-001
   global_id: t-75050
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   pagrindžia:
     - c-72977
 
 <a id="claim-t-75051"></a>
-- t-005
+- t-002
   global_id: t-75051
   teiginys: "Vašingtono sutarties 5-asis straipsnis garantuoja NATO narių individualios ar kolektyvinės savigynos teisę ginkluoto užpuolimo atveju."
   pagrindžia:
     - c-72979
 
 <a id="claim-t-75053"></a>
-- t-001
+- t-003
   global_id: t-75053
   teiginys: "2004 m. Lietuva buvo priimta į Šiaurės Atlanto sutarties organizaciją ir Europos Sąjungą."
   pagrindžia:
     - c-22834
 
 <a id="claim-t-75056"></a>
-- t-007
+- t-004
   global_id: t-75056
   teiginys: "NATO Vašingtono sutarties 5 straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus Aljanso narę."
   pagrindžia:
     - c-72979
 
 <a id="claim-t-75057"></a>
-- t-003
+- t-005
   global_id: t-75057
   teiginys: "2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės."
   pagrindžia:
     - c-22836
 
 <a id="claim-t-193567"></a>
-- t-008
+- t-006
   global_id: t-193567
   teiginys: "Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nereikės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils pavojus jos saugumui."
   pagrindžia:

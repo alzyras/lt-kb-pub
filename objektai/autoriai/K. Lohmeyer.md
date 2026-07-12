@@ -43,28 +43,28 @@ K. Lohmeyer minimas kaip istorikas ir autorius. Ankstesniame viešame įraše ji
 ## Teiginiai
 
 <a id="claim-t-64678"></a>
-- t-005
+- t-001
   global_id: t-64678
   teiginys: "K. Lohmeyer buvo 1907 m. Gotoje išleisto veikalo „Zur Altpreussischen Geschichte, Aufsätze und Vorträge“ autorius."
   pagrindžia:
     - c-13913
 
 <a id="claim-t-64679"></a>
-- t-007
+- t-002
   global_id: t-64679
   teiginys: "K. Lohmeyer priskiriamas autoriams, kurie Vytauto pasitraukimą aiškino kariuomenės susilpnėjimu ir Livonijos Ordino pavojumi."
   pagrindžia:
     - c-13915
 
 <a id="claim-t-64680"></a>
-- t-006
+- t-003
   global_id: t-64680
   teiginys: "Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje."
   pagrindžia:
     - c-13914
 
 <a id="claim-t-64680"></a>
-- t-006
+- t-004
   global_id: t-64680
   teiginys: "Karl Lohmeyer Brockhauzo enciklopedijos straipsnyje „Litauen“ Vytautą vadino vienu žymiausių vyrų pasaulio istorijoje."
   pagrindžia:

@@ -32,14 +32,14 @@ Tuo metu ir įvyko lietuvių puolimas iš Žemaičių, o lenkų — netoli Svie�
 ## Teiginiai
 
 <a id="claim-t-36593"></a>
-- t-002
+- t-001
   global_id: t-36593
   teiginys: "Iš Sviečės atvykę kryžiuočiai sustiprino Drevencos krantus ir apstatė juos patrankomis."
   pagrindžia:
     - c-38650
 
 <a id="claim-t-36594"></a>
-- t-001
+- t-002
   global_id: t-36594
   teiginys: "Lenkų puolimas įvyko netoli Sviečės, kai lietuviai puolė iš Žemaičių."
   pagrindžia:

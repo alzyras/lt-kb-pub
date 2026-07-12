@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
-  - privilegija
   - saltinis
   - valstybė
 amziai:
@@ -40,14 +39,14 @@ Tuo būdu su šia pirmąja Bažnyčios privilegija atsirado Lietuvoje bažnytin�
 ## Teiginiai
 
 <a id="claim-t-45751"></a>
-- t-002
+- t-001
   global_id: t-45751
   teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
   pagrindžia:
     - c-48448
 
 <a id="claim-t-45752"></a>
-- t-003
+- t-002
   global_id: t-45752
   teiginys: "Lietuvos krikšto metu Jogaila suteikė privilegijas Vilniaus vyskupui, bajorams ir Vilniaus miestiečiams, pradėdamas luominės visuomenės formavimąsi."
   pagrindžia:

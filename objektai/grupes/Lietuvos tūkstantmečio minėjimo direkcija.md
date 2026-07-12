@@ -12,7 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - miestas
+  - redaktorius
 amziai:
   - 'XVIII'
   - 'XXI'

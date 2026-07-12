@@ -42,14 +42,14 @@ media_all_json: |-
     - c-24654
 
 <a id="claim-t-75541"></a>
-- t-003
+- t-002
   global_id: t-75541
   teiginys: "Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi."
   pagrindžia:
     - c-73291
 
 <a id="claim-t-75542"></a>
-- t-002
+- t-003
   global_id: t-75542
   teiginys: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos planų, o Paryžiaus taikos konferencijoje žydams žadėjo plačią kultūrinę autonomiją."
   pagrindžia:

@@ -31,21 +31,21 @@ Dusburgietis teigia, kad apie beveik penkių šimtų lietuvių žūtį Tais pač
 ## Teiginiai
 
 <a id="claim-t-60147"></a>
-- t-002
+- t-001
   global_id: t-60147
   teiginys: "Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi."
   pagrindžia:
     - c-60780
 
 <a id="claim-t-60148"></a>
-- t-001
+- t-002
   global_id: t-60148
   teiginys: "Lietuvis Jazbutas su penkiais šimtais rinktinių vyrų įsibrovė į Lenkiją, išsigabeno grobį ir įspėjo brolius prieš savo žygį."
   pagrindžia:
     - c-60779
 
 <a id="claim-t-60147"></a>
-- t-002
+- t-003
   global_id: t-60147
   teiginys: "Kovoje Jazbutas užpuolė brolį Henriką Cutsvertą ir sužeidė jo žirgą, o Henrikas Cutsvertas perdūrė Jazbutą ietimi."
   pagrindžia:

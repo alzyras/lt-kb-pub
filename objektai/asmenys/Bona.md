@@ -37,21 +37,21 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
 ## Teiginiai
 
 <a id="claim-t-87467"></a>
-- t-003
+- t-001
   global_id: t-87467
   teiginys: "Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio."
   pagrindžia:
     - c-83449
 
 <a id="claim-t-87468"></a>
-- t-001
+- t-002
   global_id: t-87468
   teiginys: "Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje."
   pagrindžia:
     - c-83448
 
 <a id="claim-t-87469"></a>
-- t-002
+- t-003
   global_id: t-87469
   teiginys: "Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje."
   pagrindžia:

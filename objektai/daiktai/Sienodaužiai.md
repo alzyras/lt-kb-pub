@@ -72,7 +72,7 @@ Nenurodyta
     - c-156006
 
 <a id="claim-t-171482"></a>
-- t-002
+- t-003
   global_id: t-171482
   teiginys: "Puldami Gotteswerderį lietuviai naudojo 15 mašinų ir 5 sienodaužius."
   pagrindžia:

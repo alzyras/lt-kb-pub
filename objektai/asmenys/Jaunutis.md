@@ -44,63 +44,63 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
 ## Teiginiai
 
 <a id="claim-t-176435"></a>
-- t-005
+- t-001
   global_id: t-176435
   teiginys: "Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto."
   pagrindžia:
     - c-160449
 
 <a id="claim-t-176436"></a>
-- t-003
+- t-002
   global_id: t-176436
   teiginys: "Jaunutis iš Vilniaus buvo išvytas jėga."
   pagrindžia:
     - c-36348
 
 <a id="claim-t-176438"></a>
-- t-004
+- t-003
   global_id: t-176438
   teiginys: "Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui."
   pagrindžia:
     - c-160450
 
 <a id="claim-t-176439"></a>
-- t-007
+- t-004
   global_id: t-176439
   teiginys: "Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu."
   pagrindžia:
     - c-160448
 
 <a id="claim-t-184715"></a>
-- t-006
+- t-005
   global_id: t-184715
   teiginys: "Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą."
   pagrindžia:
     - c-168076
 
 <a id="claim-t-184717"></a>
-- t-008
+- t-006
   global_id: t-184717
   teiginys: "Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško."
   pagrindžia:
     - c-168078
 
 <a id="claim-t-193392"></a>
-- t-009
+- t-007
   global_id: t-193392
   teiginys: "Jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu."
   pagrindžia:
     - c-176116
 
 <a id="claim-t-193914"></a>
-- t-010
+- t-008
   global_id: t-193914
   teiginys: "Didysis kunigaikštis Algirdas nespėjo skirtu lai ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa bėgo j Taurakalnį ir tenai naktį3."
   pagrindžia:
     - c-176539
 
 <a id="claim-t-193915"></a>
-- t-011
+- t-009
   global_id: t-193915
   teiginys: "Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį."
   pagrindžia:

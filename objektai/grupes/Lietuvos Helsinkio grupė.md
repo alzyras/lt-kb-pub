@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - dokumentas
   - grupe
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -38,28 +39,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74673"></a>
-- t-006
+- t-001
   global_id: t-74673
   teiginys: "Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis."
   pagrindžia:
     - c-72709
 
 <a id="claim-t-74674"></a>
-- t-003
+- t-002
   global_id: t-74674
   teiginys: "Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus."
   pagrindžia:
     - c-72708
 
 <a id="claim-t-74675"></a>
-- t-001
+- t-003
   global_id: t-74675
   teiginys: "Lietuvos Helsinkio grupė susikūrė 1976 m."
   pagrindžia:
     - c-72711
 
 <a id="claim-t-74677"></a>
-- t-002
+- t-004
   global_id: t-74677
   teiginys: "Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą."
   pagrindžia:

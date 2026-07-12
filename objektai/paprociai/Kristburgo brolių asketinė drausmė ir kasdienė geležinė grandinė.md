@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62687"></a>
-- t-002
+- t-001
   global_id: t-62687
   teiginys: "Vienas brolis iki mirties kasdien ant pliko kūno juosėjo sunkią geležinę grandinę."
   pagrindžia:

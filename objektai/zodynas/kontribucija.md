@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-181977"></a>
-- t-011
+- t-001
   global_id: t-181977
   teiginys: "Totoriai pasuko Kijevo link ir paėmė iš miesto 3000 rublių kontribucijos."
   pagrindžia:

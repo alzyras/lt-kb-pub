@@ -45,14 +45,14 @@ Cituojama „Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kari
 ## Teiginiai
 
 <a id="claim-t-67390"></a>
-- t-003
+- t-001
   global_id: t-67390
   teiginys: "Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus."
   pagrindžia:
     - c-43246
 
 <a id="claim-t-67392"></a>
-- t-005
+- t-002
   global_id: t-67392
   teiginys: "Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus."
   pagrindžia:

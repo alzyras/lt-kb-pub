@@ -38,14 +38,14 @@ Istorikas Ignas Onacevičius, nuvykęs į Karaliaučių rinkti is­ torinių dok
 ## Teiginiai
 
 <a id="claim-t-87514"></a>
-- t-002
+- t-001
   global_id: t-87514
   teiginys: "Michałas Balińskis veikalo pratarmėje dėkojo Ignui Onacevičiui už pagalbą istoriniais dokumentais."
   pagrindžia:
     - c-83494
 
 <a id="claim-t-87515"></a>
-- t-001
+- t-002
   global_id: t-87515
   teiginys: "Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo."
   pagrindžia:

@@ -51,49 +51,49 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
 ## Teiginiai
 
 <a id="claim-t-45651"></a>
-- t-007
+- t-001
   global_id: t-45651
   teiginys: "S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
   pagrindžia:
     - c-48384
 
 <a id="claim-t-188473"></a>
-- t-004
+- t-002
   global_id: t-188473
   teiginys: "S. Daukantas atsiuntė Teodorui Narbutui Alberto Vijūko-Kojalavičiaus „Herbyną“ - Lietuvos bajorų giminių genealogijų rinkinį."
   pagrindžia:
     - c-171363
 
 <a id="claim-t-188474"></a>
-- t-005
+- t-003
   global_id: t-188474
   teiginys: "S. Daukantas „Darbų“ pratarmėje rašė, kad kūrinį skyrė ne mokytiems vyrams, o motinoms, pasakojančioms vaikams apie protėvius."
   pagrindžia:
     - c-171364
 
 <a id="claim-t-193374"></a>
-- t-008
+- t-004
   global_id: t-193374
   teiginys: "1—9, Wilno, 1835—1841), ir Simonas Daukantas (1793— 1864), rašęs lietuviškai."
   pagrindžia:
     - c-176099
 
 <a id="claim-t-193587"></a>
-- t-009
+- t-005
   global_id: t-193587
   teiginys: "Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos kilusių inteligentų (Simonas Daukantas, Simonas Stanevičius ir dar vienas kitas), kurie susitarė kryptingai plėtoti aukštosios kultūros kūrimo lietuvių (žemaičių) kalba darbą, o sykiu."
   pagrindžia:
     - c-176262
 
 <a id="claim-t-193588"></a>
-- t-010
+- t-006
   global_id: t-193588
   teiginys: "Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais."
   pagrindžia:
     - c-176263
 
 <a id="claim-t-194206"></a>
-- t-011
+- t-007
   global_id: t-194206
   teiginys: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją."
   pagrindžia:

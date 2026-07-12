@@ -40,7 +40,7 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
 ## Teiginiai
 
 <a id="claim-t-58391"></a>
-- t-004
+- t-001
   global_id: t-58391
   teiginys: "1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis."
   pagrindžia:
@@ -54,14 +54,14 @@ Dusburgietis teigia, kad kitą kartą jis patraukė prieš Žemaitijos valsčių
     - c-59023
 
 <a id="claim-t-58393"></a>
-- t-001
+- t-003
   global_id: t-58393
   teiginys: "Per žygį į Žemaitijos Pagraudės valsčių užpuolikas pasalomis nukovė beveik visus jį besivijusius raitelius, išskyrus šešis."
   pagrindžia:
     - c-59024
 
 <a id="claim-t-58394"></a>
-- t-003
+- t-004
   global_id: t-58394
   teiginys: "Brolis Eberhardas su kariuomene staiga įsiveržė į Lietuvos Pagraudės valsčių ir degindamas bei plėšdamas nusiaubė didžiąją jo dalį."
   pagrindžia:

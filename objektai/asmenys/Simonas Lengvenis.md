@@ -41,14 +41,14 @@ Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Ma
 ## Teiginiai
 
 <a id="claim-t-82662"></a>
-- t-002
+- t-001
   global_id: t-82662
   teiginys: "Simonas Lengvenis citatoje vadinamas Lietuvos kunigaikščiu, Algirdo sūnumi ir Rusios bei Ladogos kunigaikščiu."
   pagrindžia:
     - c-79125
 
 <a id="claim-t-82663"></a>
-- t-001
+- t-002
   global_id: t-82663
   teiginys: "Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis."
   pagrindžia:

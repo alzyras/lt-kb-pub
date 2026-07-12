@@ -44,28 +44,28 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
 ## Teiginiai
 
 <a id="claim-t-180285"></a>
-- t-015
+- t-001
   global_id: t-180285
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, kur daug vietos gyventojų vartojo lietuvių kalbą ir ėjo lietuviški laikraščiai."
   pagrindžia:
     - c-163918
 
 <a id="claim-t-180286"></a>
-- t-010
+- t-002
   global_id: t-180286
   teiginys: "Mažojoje Lietuvoje lietuviškos raštijos buvo kur kas daugiau negu pačioje Lietuvoje."
   pagrindžia:
     - c-163914
 
 <a id="claim-t-180287"></a>
-- t-011
+- t-003
   global_id: t-180287
   teiginys: "Modernioji Lietuvos samprata Lietuvos vardą siejo su lietuvių kalbos vartojimu."
   pagrindžia:
     - c-163913
 
 <a id="claim-t-180290"></a>
-- t-009
+- t-004
   global_id: t-180290
   teiginys: "Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo."
   pagrindžia:
@@ -79,7 +79,7 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163914
 
 <a id="claim-t-180294"></a>
-- t-008
+- t-006
   global_id: t-180294
   teiginys: "1914 m. liepą J. Basanavičius, Stasys Šilingas ir Donatas Malinauskas Gintarinėje deklaracijoje siekė sujungti Didžiąją ir Mažąją Lietuvą."
   pagrindžia:
@@ -93,63 +93,63 @@ Atitekusi Brandenburgo hercogams, jo valstybė išaugo į pavojingą kaimyną ir
     - c-163915
 
 <a id="claim-t-180298"></a>
-- t-006
+- t-008
   global_id: t-180298
   teiginys: "Lietuvos Respublikos kūrėjai siekė prie Lietuvos prijungti Mažąją Lietuvą."
   pagrindžia:
     - c-163923
 
 <a id="claim-t-180299"></a>
-- t-016
+- t-009
   global_id: t-180299
   teiginys: "Brandenburgo hercogams atitekusi ordino valstybė toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius."
   pagrindžia:
     - c-166444
 
 <a id="claim-t-180300"></a>
-- t-004
+- t-010
   global_id: t-180300
   teiginys: "Vokiečių ordino valstybėje lietuviai ilgainiui pradėti vadinti lietuvininkais, o jų žemės – Prūsų Lietuva arba Mažąja Lietuva."
   pagrindžia:
     - c-163917
 
 <a id="claim-t-180295"></a>
-- t-007
+- t-011
   global_id: t-180295
   teiginys: "Georgas Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną."
   pagrindžia:
     - c-163915
 
 <a id="claim-t-180302"></a>
-- t-017
+- t-012
   global_id: t-180302
   teiginys: "Žmonių iš Mažosios Lietuvos lietuviškai skelbtas protestantizmas buvo silpnas ir trumpas judėjimas."
   pagrindžia:
     - c-24298
 
 <a id="claim-t-180303"></a>
-- t-014
+- t-013
   global_id: t-180303
   teiginys: "1921 m. lapkričio 11 d. Steigiamasis Seimas vienbalsiai pareikalavo įjungti Klaipėdos teritoriją į Lietuvos sudėtį, demonstruodamas vienybę su Mažąja Lietuva."
   pagrindžia:
     - c-163927
 
 <a id="claim-t-180299"></a>
-- t-016
+- t-014
   global_id: t-180299
   teiginys: "Brandenburgo hercogams atitekusi ordino valstybė toliau germanizavo pavergtuosius Mažosios Lietuvos lietuvius."
   pagrindžia:
     - c-166444
 
 <a id="claim-t-183619"></a>
-- t-020
+- t-015
   global_id: t-183619
   teiginys: "Steigiamojo Seimo rinkimuose Mažajai Lietuvai buvo skirtos 9 vietos, bet rinkimai ten nevyko, nes Lietuva šios teritorijos nekontroliavo."
   pagrindžia:
     - c-167011
 
 <a id="claim-t-193648"></a>
-- t-021
+- t-016
   global_id: t-193648
   teiginys: "Paradoksas – svetima valstybė, o lietuviškos raštijos kur kas daugiau nei pačioje Lietuvoje."
   pagrindžia:

@@ -61,14 +61,14 @@ Nenurodyta
     - c-22969
 
 <a id="claim-t-20235"></a>
-- t-003
+- t-002
   global_id: t-20235
   teiginys: "Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais."
   pagrindžia:
     - c-22971
 
 <a id="claim-t-20236"></a>
-- t-002
+- t-003
   global_id: t-20236
   teiginys: "Krėvos sutartimi Jogaila pažadėjo vesti Jadvygą, įvesti Lietuvoje katalikybę ir prišlieti Lietuvą prie Lenkijos."
   pagrindžia:

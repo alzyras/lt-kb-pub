@@ -60,7 +60,7 @@ Nenurodyta
     - c-73048
 
 <a id="claim-t-75149"></a>
-- t-001
+- t-002
   global_id: t-75149
   teiginys: "1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo."
   pagrindžia:

@@ -30,14 +30,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-70324"></a>
-- t-002
+- t-001
   global_id: t-70324
   teiginys: "Jungtinėse Amerikos Valstijose smulkios lietuvių draugijos dažniausiai rėmė tautiečius nelaimėje arba bendrai plėtojo verslą."
   pagrindžia:
     - c-69367
 
 <a id="claim-t-70325"></a>
-- t-001
+- t-002
   global_id: t-70325
   teiginys: "Argentinoje dar prieš Pirmąjį pasaulinį karą veikė smulkios lietuvių savišalpos organizacijos."
   pagrindžia:

@@ -106,91 +106,91 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - c-55322
 
 <a id="claim-t-54962"></a>
-- t-009
+- t-007
   global_id: t-54962
   teiginys: "1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui."
   pagrindžia:
     - c-78769
 
 <a id="claim-t-54963"></a>
-- t-010
+- t-008
   global_id: t-54963
   teiginys: "Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises."
   pagrindžia:
     - c-55324
 
 <a id="claim-t-82283"></a>
-- t-011
+- t-009
   global_id: t-82283
   teiginys: "Aleksandras nutarė vesti Ivano Vasiljevičiaus dukterį Eleną, siekdamas užgesinti kilusius tarpusavio vaidus."
   pagrindžia:
     - c-78766
 
 <a id="claim-t-82284"></a>
-- t-018
+- t-010
   global_id: t-82284
   teiginys: "Aleksandras dovanojo Elenai Mogiliavo pilį prie Dniepro ir jai priklausančias valdas tik Elenos gyvenimo laikui."
   pagrindžia:
     - c-78769
 
 <a id="claim-t-82285"></a>
-- t-017
+- t-011
   global_id: t-82285
   teiginys: "Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais."
   pagrindžia:
     - c-78767
 
 <a id="claim-t-82286"></a>
-- t-014
+- t-012
   global_id: t-82286
   teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
   pagrindžia:
     - c-78765
 
 <a id="claim-t-82287"></a>
-- t-015
+- t-013
   global_id: t-82287
   teiginys: "Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje."
   pagrindžia:
     - c-78764
 
 <a id="claim-t-82288"></a>
-- t-012
+- t-014
   global_id: t-82288
   teiginys: "1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių."
   pagrindžia:
     - c-55318
 
 <a id="claim-t-82289"></a>
-- t-016
+- t-015
   global_id: t-82289
   teiginys: "Aleksandras dovanojo Elenai ir jos palikuonims Kniazičius, Teteriną, Popova Huros pilį ir kitas valdas."
   pagrindžia:
     - c-78768
 
 <a id="claim-t-82290"></a>
-- t-013
+- t-016
   global_id: t-82290
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena."
   pagrindžia:
     - c-78763
 
 <a id="claim-t-184695"></a>
-- t-019
+- t-017
   global_id: t-184695
   teiginys: "Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę."
   pagrindžia:
     - c-168056
 
 <a id="claim-t-193907"></a>
-- t-020
+- t-018
   global_id: t-193907
   teiginys: "Lietuvos didy sis kunigaikštis Aleksandras nusiuntė į Maskvą, pas didįjį Maskvos kunigaikštį Ivaną, pasiuntinius1 9 par vežti didžiosios kunigaikštytės Elenos: Vilniaus kašte lioną, Gardino vietininką kunigaikštį Aleksandrą Jurjevičių2 0 , Trakų kaštelioną."
   pagrindžia:
     - c-176532
 
 <a id="claim-t-193908"></a>
-- t-021
+- t-019
   global_id: t-193908
   teiginys: "” Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos did. kunigaikščiu Aleksandru."
   pagrindžia:

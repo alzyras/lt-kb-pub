@@ -13,7 +13,6 @@ tags:
   - ivykis
   - karalius
   - miestas
-  - privilegija
 amziai:
   - 'XVI'
 media_total_count: '0'

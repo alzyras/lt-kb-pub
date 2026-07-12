@@ -43,56 +43,56 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
 ## Teiginiai
 
 <a id="claim-t-181590"></a>
-- t-014
+- t-001
   global_id: t-181590
   teiginys: "Konstantinas Ostrogiškis netoli Medininkų vartų pastatė mūrinę Švč. Trejybės cerkvę ir įkurdino bazilijonus."
   pagrindžia:
     - c-165127
 
 <a id="claim-t-183553"></a>
-- t-015
+- t-002
   global_id: t-183553
   teiginys: "Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje."
   pagrindžia:
     - c-166946
 
 <a id="claim-t-184755"></a>
-- t-016
+- t-003
   global_id: t-184755
   teiginys: "Aleksandras pasiuntė Konstantino Ostrogiškio vedamus lengvuosius dalinius į Smolenską, o pats su pagrindinėmis jėgomis patraukė iš paskos."
   pagrindžia:
     - c-168116
 
 <a id="claim-t-184757"></a>
-- t-018
+- t-004
   global_id: t-184757
   teiginys: "Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę."
   pagrindžia:
     - c-168118
 
 <a id="claim-t-184758"></a>
-- t-019
+- t-005
   global_id: t-184758
   teiginys: "Konstantinas Ostrogiškis įsakė lietuvių vėliavoms apsimestinai trauktis, tikėdamasis išardyti priešo raitelių rikiuotę."
   pagrindžia:
     - c-168119
 
 <a id="claim-t-184759"></a>
-- t-020
+- t-006
   global_id: t-184759
   teiginys: "Po pergalės Konstantinas Ostrogiškis suskaičiavo belaisvius ir išsiuntė karaliui 380 žymiausių bajorų su laišku apie pergalę."
   pagrindžia:
     - c-168120
 
 <a id="claim-t-193396"></a>
-- t-021
+- t-007
   global_id: t-193396
   teiginys: "Konstantinas Ostrogiškis įtaisė karo stovyklą Obolcuose."
   pagrindžia:
     - c-176120
 
 <a id="claim-t-193941"></a>
-- t-022
+- t-008
   global_id: t-193941
   teiginys: "Ponas Petras patarė per duoti Volynės kunigaikščiui Konstantinui Ostrogiškiui2 4 ."
   pagrindžia:

@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
     - c-167513
 
 <a id="claim-t-60209"></a>
-- t-002
+- t-003
   global_id: t-60209
   teiginys: "Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo."
   pagrindžia:

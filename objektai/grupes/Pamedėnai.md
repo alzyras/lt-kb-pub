@@ -40,14 +40,14 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 ## Teiginiai
 
 <a id="claim-t-78414"></a>
-- t-002
+- t-001
   global_id: t-78414
   teiginys: "Antra — Pamedė192, kurioje [gyveno] pamedėnai."
   pagrindžia:
     - c-75699
 
 <a id="claim-t-78415"></a>
-- t-008
+- t-002
   global_id: t-78415
   teiginys: "Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė."
   pagrindžia:
@@ -55,7 +55,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-75712
 
 <a id="claim-t-78417"></a>
-- t-009
+- t-003
   global_id: t-78417
   teiginys: "Per badą pilyje broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti į kitas vietas, kad galėtų prasimaitinti."
   pagrindžia:
@@ -63,42 +63,42 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-75702
 
 <a id="claim-t-78419"></a>
-- t-006
+- t-004
   global_id: t-78419
   teiginys: "Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu."
   pagrindžia:
     - c-75709
 
 <a id="claim-t-78420"></a>
-- t-010
+- t-005
   global_id: t-78420
   teiginys: "Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui."
   pagrindžia:
     - c-75711
 
 <a id="claim-t-78421"></a>
-- t-011
+- t-006
   global_id: t-78421
   teiginys: "Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės."
   pagrindžia:
     - c-75705
 
 <a id="claim-t-78422"></a>
-- t-012
+- t-007
   global_id: t-78422
   teiginys: "1260 m. Klaipėdoje pamedėnai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą."
   pagrindžia:
     - c-75700
 
 <a id="claim-t-78423"></a>
-- t-001
+- t-008
   global_id: t-78423
   teiginys: "1260 m. Klaipėdoje prieš Lietuvą sutelktose Ordino pajėgose buvo ir prievarta buriami pamedėnai."
   pagrindžia:
     - c-75700
 
 <a id="claim-t-78424"></a>
-- t-007
+- t-009
   global_id: t-78424
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
   pagrindžia:

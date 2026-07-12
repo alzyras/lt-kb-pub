@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - šventė
 amziai:
   - 'XXI'
 media_total_count: '0'
@@ -43,7 +44,7 @@ Birutės istorija įdomi dar ir kitkuo – kunigaikštienė taip ir neįgijo kri
     - c-73827
 
 <a id="claim-t-76196"></a>
-- t-001
+- t-002
   global_id: t-76196
   teiginys: "Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei."
   pagrindžia:

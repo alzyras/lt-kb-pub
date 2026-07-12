@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67488"></a>
-- t-002
+- t-001
   global_id: t-67488
   teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, o pajamų gavo 11 mln. litų."
   pagrindžia:
     - c-67374
 
 <a id="claim-t-67489"></a>
-- t-001
+- t-002
   global_id: t-67489
   teiginys: "1924 m. gegužės 8 d. Memelio (Klaipėdos) Konvencija ir Statutas paskelbė Klaipėdos kraštą autonomine Lietuvos dalimi."
   pagrindžia:

@@ -13,7 +13,7 @@ tags:
   - kraštas
   - ordinas
   - pilis
-  - privilegija
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

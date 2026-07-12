@@ -36,14 +36,14 @@ Dusburgietis teigia, kad apie Krivičių žemės nuniokojimą ir Naugarduko mies
 ## Teiginiai
 
 <a id="claim-t-58578"></a>
-- t-002
+- t-001
   global_id: t-58578
   teiginys: "Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje."
   pagrindžia:
     - c-59211
 
 <a id="claim-t-58579"></a>
-- t-001
+- t-002
   global_id: t-58579
   teiginys: "1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką."
   pagrindžia:

@@ -43,7 +43,7 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
     - c-24590
 
 <a id="claim-t-71981"></a>
-- t-001
+- t-003
   global_id: t-71981
   teiginys: "Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų."
   pagrindžia:

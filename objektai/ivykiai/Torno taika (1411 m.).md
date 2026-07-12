@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92944"></a>
-- t-004
+- t-001
   global_id: t-92944
   teiginys: "1411 m. Torno taika užbaigė Žalgirio kovą, tačiau nugalėtojai šio laimėjimo visiškai neišnaudojo."
   pagrindžia:

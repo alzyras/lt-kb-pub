@@ -36,14 +36,14 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
 ## Teiginiai
 
 <a id="claim-t-68845"></a>
-- t-002
+- t-001
   global_id: t-68845
   teiginys: "Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla."
   pagrindžia:
     - c-68327
 
 <a id="claim-t-68846"></a>
-- t-001
+- t-002
   global_id: t-68846
   teiginys: "Osa buvo dešinysis Vyslos intakas, iki kurio driekėsi beveik visos prūsų žemės, vadintos tėvonija."
   pagrindžia:

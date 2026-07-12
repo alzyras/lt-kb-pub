@@ -41,14 +41,14 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
 ## Teiginiai
 
 <a id="claim-t-87598"></a>
-- t-002
+- t-001
   global_id: t-87598
   teiginys: "Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m."
   pagrindžia:
     - c-83577
 
 <a id="claim-t-87599"></a>
-- t-001
+- t-002
   global_id: t-87599
   teiginys: "Jachna Laurinavičius jau 1435 metais buvo Vilniaus vaitas ir 1492 metais dar ėjo šias pareigas."
   pagrindžia:

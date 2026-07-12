@@ -13,6 +13,7 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - kraštas
   - valstybė

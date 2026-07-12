@@ -32,21 +32,21 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Teiginiai
 
 <a id="claim-t-58548"></a>
-- t-002
+- t-001
   global_id: t-58548
   teiginys: "Fišhauzenas, dabartinis Primorskas, buvo gyvenvietė pietvakarių Semboje."
   pagrindžia:
     - c-59180
 
 <a id="claim-t-58549"></a>
-- t-001
+- t-002
   global_id: t-58549
   teiginys: "Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas."
   pagrindžia:
     - c-167538
 
 <a id="claim-t-58549"></a>
-- t-001
+- t-003
   global_id: t-58549
   teiginys: "Rinavos valsčiaus sembai užpuolė Sembos vyskupo pilį Fišhauzeną, kurioje tuo metu buvo tik vienas brolis ir jo tarnas."
   pagrindžia:

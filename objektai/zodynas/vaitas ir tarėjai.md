@@ -6,8 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - miestas
-  - privilegija
   - sąvoka
   - vyskupas
 media_total_count: '0'
@@ -32,14 +32,14 @@ Kad mus pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos mūsų
 ## Teiginiai
 
 <a id="claim-t-86559"></a>
-- t-002
+- t-001
   global_id: t-86559
   teiginys: "Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos."
   pagrindžia:
     - c-82539
 
 <a id="claim-t-86560"></a>
-- t-001
+- t-002
   global_id: t-86560
   teiginys: "Vilniaus vaitas ir tarėjai tvirtino, kad katedros kapitula nepagrįstai plečia jurisdikciją miesto gyventojams."
   pagrindžia:

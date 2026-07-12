@@ -45,63 +45,63 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-90737"></a>
-- t-005
+- t-001
   global_id: t-90737
   teiginys: "Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis."
   pagrindžia:
     - c-86520
 
 <a id="claim-t-90738"></a>
-- t-001
+- t-002
   global_id: t-90738
   teiginys: "1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene."
   pagrindžia:
     - c-86519
 
 <a id="claim-t-90739"></a>
-- t-009
+- t-003
   global_id: t-90739
   teiginys: "Sventopelkas slaptai plėšė brolių valdinius, o vėliau įsiveržė į kunigaikščiui Kazimierui priklausiusią Kujaviją."
   pagrindžia:
     - c-86518
 
 <a id="claim-t-90740"></a>
-- t-006
+- t-004
   global_id: t-90740
   teiginys: "Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais."
   pagrindžia:
     - c-86522
 
 <a id="claim-t-90741"></a>
-- t-008
+- t-005
   global_id: t-90741
   teiginys: "Sventopelkas, viešai išsižadėjęs taikos, įsiveržė į kunigaikščio Kazimiero Kujaviją ir ją nuniokojo."
   pagrindžia:
     - c-86518
 
 <a id="claim-t-90742"></a>
-- t-004
+- t-006
   global_id: t-90742
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas."
   pagrindžia:
     - c-167554
 
 <a id="claim-t-90743"></a>
-- t-002
+- t-007
   global_id: t-90743
   teiginys: "1300 m. lietuviai vėl pasirodė Dobryniaus ir Kujavijos srityse, kur patyrė kryžiuočių smūgį."
   pagrindžia:
     - c-86515
 
 <a id="claim-t-90744"></a>
-- t-003
+- t-008
   global_id: t-90744
   teiginys: "Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui."
   pagrindžia:
     - c-37485
 
 <a id="claim-t-90745"></a>
-- t-007
+- t-009
   global_id: t-90745
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero Kujaviją, ją degino, plėšė ir išsivarė daug krikščionių į nelaisvę."
   pagrindžia:

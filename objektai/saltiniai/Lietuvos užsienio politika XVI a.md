@@ -35,14 +35,14 @@ Lietuvos užsienio politika xvi a. Lietuvos užsienio politika xvi a., (įklijos
 ## Teiginiai
 
 <a id="claim-t-41562"></a>
-- t-002
+- t-001
   global_id: t-41562
   teiginys: "Knygos „Lietuvos užsienio politika XVI a.“ įklijoje tarp 224 ir 225 puslapių pavaizduotas totorių raitelis."
   pagrindžia:
     - c-45008
 
 <a id="claim-t-41563"></a>
-- t-001
+- t-002
   global_id: t-41563
   teiginys: "Knygos „Lietuvos užsienio politika XVI a.“ įklijoje pavaizduoti Krymo totoriai, varantys užgrobtus belaisvius ir gyvulius."
   pagrindžia:

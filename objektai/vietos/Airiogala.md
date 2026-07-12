@@ -38,21 +38,21 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 ## Teiginiai
 
 <a id="claim-t-36139"></a>
-- t-003
+- t-001
   global_id: t-36139
   teiginys: "Vytautas Žemaitijoje pastatė bažnyčią Airiogaloje kartu su bažnyčiomis Betygaloje, Kelmėje, Kražiuose ir kitose vietose."
   pagrindžia:
     - c-38448
 
 <a id="claim-t-36140"></a>
-- t-001
+- t-002
   global_id: t-36140
   teiginys: "1416 m. Vytautas pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių Airiogaloje."
   pagrindžia:
     - c-38449
 
 <a id="claim-t-36141"></a>
-- t-002
+- t-003
   global_id: t-36141
   teiginys: "Žemaičių sukilimas, prasidėjęs Raseinių apskrityje, atsiliepė Airiogaloje, Kražiuose, Medininkuose ir kitose Žemaitijos vietose."
   pagrindžia:

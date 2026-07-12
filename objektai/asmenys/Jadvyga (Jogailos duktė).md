@@ -40,7 +40,7 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
 ## Teiginiai
 
 <a id="claim-t-51024"></a>
-- t-004
+- t-001
   global_id: t-51024
   teiginys: "Vytautas buvo pašauktas būti karalaitės Jadvygos globėju ir nuo tada turėjo ryškią įtaką Lenkijos reikaluose."
   pagrindžia:
@@ -54,14 +54,14 @@ Juo labiau, kad kartu su juo Žemaičių bajorai įteikė Vytauto dukters Sofijo
     - c-36328
 
 <a id="claim-t-51026"></a>
-- t-001
+- t-003
   global_id: t-51026
   teiginys: "Jogailos duktės Jadvygos vardu buvo įteiktas protestas prieš Žemaičių krašto atidavimą Ordinui po tėvų mirties."
   pagrindžia:
     - c-52677
 
 <a id="claim-t-51027"></a>
-- t-003
+- t-004
   global_id: t-51027
   teiginys: "Horodlės unijos kontekste Jogailos duktė Jadvyga buvo pripažinta Lenkijos karalaite ir jai duota ištikimybės priesaika."
   pagrindžia:

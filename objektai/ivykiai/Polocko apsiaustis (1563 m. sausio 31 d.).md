@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41344"></a>
-- t-002
+- t-001
   global_id: t-41344
   teiginys: "Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė."
   pagrindžia:
     - c-43106
 
 <a id="claim-t-41345"></a>
-- t-001
+- t-002
   global_id: t-41345
   teiginys: "1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį."
   pagrindžia:

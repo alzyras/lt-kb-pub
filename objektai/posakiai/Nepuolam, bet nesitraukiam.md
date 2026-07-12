@@ -37,14 +37,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09671"></a>
-- t-004
+- t-001
   global_id: t-09671
   teiginys: "„Nepuolam, bet nesitraukiam“ buvo gynybinė nesmurtinio pasipriešinimo nuostata, pasiekusi kulminaciją sovietų puolimo akivaizdoje."
   pagrindžia:
     - c-12484
 
 <a id="claim-t-09672"></a>
-- t-003
+- t-002
   global_id: t-09672
   teiginys: "Lietuvos principas buvo nepulti, bet nesitraukti, pasirinkus nesmurtinio politinio ir moralinio išsivadavimo kelią."
   pagrindžia:

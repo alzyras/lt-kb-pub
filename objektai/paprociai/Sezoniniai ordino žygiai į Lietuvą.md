@@ -57,21 +57,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05363"></a>
-- t-003
+- t-001
   global_id: t-05363
   teiginys: "Po 1345 metų kryžiuočiai prieš Lietuvą išplėtojo reguliarią reysų sistemą."
   pagrindžia:
     - c-05428
 
 <a id="claim-t-05364"></a>
-- t-004
+- t-002
   global_id: t-05364
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   pagrindžia:
     - c-05430
 
 <a id="claim-t-05364"></a>
-- t-004
+- t-003
   global_id: t-05364
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   pagrindžia:

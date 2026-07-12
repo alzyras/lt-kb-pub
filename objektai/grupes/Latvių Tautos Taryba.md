@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -30,21 +31,21 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 ## Teiginiai
 
 <a id="claim-t-72360"></a>
-- t-002
+- t-001
   global_id: t-72360
   teiginys: "Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje."
   pagrindžia:
     - c-70764
 
 <a id="claim-t-72361"></a>
-- t-003
+- t-002
   global_id: t-72361
   teiginys: "Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją."
   pagrindžia:
     - c-70763
 
 <a id="claim-t-72362"></a>
-- t-001
+- t-003
   global_id: t-72362
   teiginys: "Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu."
   pagrindžia:

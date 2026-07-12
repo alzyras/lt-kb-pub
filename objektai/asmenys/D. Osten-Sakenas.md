@@ -29,21 +29,21 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
 ## Teiginiai
 
 <a id="claim-t-40082"></a>
-- t-002
+- t-001
   global_id: t-40082
   teiginys: "Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją."
   pagrindžia:
     - c-41887
 
 <a id="claim-t-40083"></a>
-- t-003
+- t-002
   global_id: t-40083
   teiginys: "Osten-Sakeno įsakymu prasidėjo sukilėlių persekiojimas, jame dalyvavo Leibgvardijos lietuvių pėstininkų, Leibgvardijos Podolės kirasyrų, 9-ojo jėgerių pulkų kariai."
   pagrindžia:
     - c-41888
 
 <a id="claim-t-40084"></a>
-- t-001
+- t-003
   global_id: t-40084
   teiginys: "Generolas leitenantas baronas D. Osten-Sakenas laikinai perėmė vadovavimą iš leitenanto grafo D. Kurutos."
   pagrindžia:

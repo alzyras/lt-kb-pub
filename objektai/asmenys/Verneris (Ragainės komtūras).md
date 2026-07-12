@@ -47,7 +47,7 @@ Dusburgietis teigia, kad apie vieną brolių karo laivą Po to brolis Verneris, 
     - c-61093
 
 <a id="claim-t-60461"></a>
-- t-001
+- t-002
   global_id: t-60461
   teiginys: "1313 m. Ragainės komtūras Verneris pasistatydino karo laivą su sienomis ir daug kitų laivų Junigedos piliai pulti."
   pagrindžia:

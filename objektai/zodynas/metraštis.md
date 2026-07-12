@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186912"></a>
-- t-003
+- t-001
   global_id: t-186912
   teiginys: "Bychovco kronikai metraščio sąvoka siaurąja prasme taikoma tik sąlyginai."
   pagrindžia:
@@ -74,7 +74,7 @@ Nenurodyta
     - c-170092
 
 <a id="claim-t-186915"></a>
-- t-001
+- t-003
   global_id: t-186915
   teiginys: "Leidinio antraštė „Lietuvos metraštis, arba Bychovco kronika“ nėra autentiškas rankraščio pavadinimas."
   pagrindžia:

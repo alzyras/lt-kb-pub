@@ -70,21 +70,21 @@ Nenurodyta
     - c-22316
 
 <a id="claim-t-19613"></a>
-- t-003
+- t-002
   global_id: t-19613
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:
     - c-22318
 
 <a id="claim-t-19614"></a>
-- t-002
+- t-003
   global_id: t-19614
   teiginys: "Lucko suvažiavimas į Lietuvos istoriją įėjo dėl Vytauto vainikavimo plano, kurį rėmė Zigmantas I ir Vokiečių ordinas."
   pagrindžia:
     - c-22317
 
 <a id="claim-t-19613"></a>
-- t-003
+- t-004
   global_id: t-19613
   teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:

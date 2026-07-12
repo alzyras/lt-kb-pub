@@ -11,6 +11,7 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kraštas
   - saltinis
 amziai:
@@ -37,14 +38,14 @@ Algirdo Sabaliausko nuotrauka 6 skyrius • D A I N U O J A N T I R E V O L I U 
 ## Teiginiai
 
 <a id="claim-t-67533"></a>
-- t-002
+- t-001
   global_id: t-67533
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą."
   pagrindžia:
     - c-67401
 
 <a id="claim-t-183383"></a>
-- t-003
+- t-002
   global_id: t-183383
   teiginys: "Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos."
   pagrindžia:

@@ -41,14 +41,14 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
 ## Teiginiai
 
 <a id="claim-t-42222"></a>
-- t-002
+- t-001
   global_id: t-42222
   teiginys: "Didžiosios kovos apygardoje buvo įkurtos dvi rinktinės: „A“ Trakų apskrityje ir „B“ Ukmergės apskrityje."
   pagrindžia:
     - c-45377
 
 <a id="claim-t-42223"></a>
-- t-001
+- t-002
   global_id: t-42223
   teiginys: "1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais."
   pagrindžia:

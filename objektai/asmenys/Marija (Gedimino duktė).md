@@ -39,14 +39,14 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
 ## Teiginiai
 
 <a id="claim-t-82550"></a>
-- t-003
+- t-001
   global_id: t-82550
   teiginys: "Gedimino duktė Marija buvo ištekinta už Rusios kunigaikščio Boleslovo."
   pagrindžia:
     - c-79027
 
 <a id="claim-t-82552"></a>
-- t-001
+- t-002
   global_id: t-82552
   teiginys: "Gedimino duktė Marija politinėmis vedybomis ištekėjo už didžiojo Tverės kunigaikščio Dimitro."
   pagrindžia:

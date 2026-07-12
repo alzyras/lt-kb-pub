@@ -59,28 +59,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186683"></a>
-- t-003
+- t-001
   global_id: t-186683
   teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu."
   pagrindžia:
     - c-169926
 
 <a id="claim-t-186684"></a>
-- t-004
+- t-002
   global_id: t-186684
   teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva."
   pagrindžia:
     - c-169926
 
 <a id="claim-t-186685"></a>
-- t-001
+- t-003
   global_id: t-186685
   teiginys: "Redakcinėje pastaboje mūšio prie Jieseldos pasakojimas laikomas galbūt sukurtu pagal žinią apie 1262 m. karą su Lietuva."
   pagrindžia:
     - c-169925
 
 <a id="claim-t-186686"></a>
-- t-002
+- t-004
   global_id: t-186686
   teiginys: "Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare siejamas su žinia, kad 1262 m. Vasilka Romanovičius vijosi lietuvius iki Jieseldos ir juos sumušė."
   pagrindžia:

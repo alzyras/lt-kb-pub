@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41478"></a>
-- t-002
+- t-001
   global_id: t-41478
   teiginys: "Širvintų pergalė visuomenėje buvo praminta „Širvintų stebuklu“."
   pagrindžia:
     - c-44971
 
 <a id="claim-t-41479"></a>
-- t-003
+- t-002
   global_id: t-41479
   teiginys: "Balno reidas į Gardino pulko užnugarį visuomenėje buvo pramintas „Širvintų stebuklu“."
   pagrindžia:

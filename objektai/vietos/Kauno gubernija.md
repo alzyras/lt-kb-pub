@@ -40,28 +40,28 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
 ## Teiginiai
 
 <a id="claim-t-170421"></a>
-- t-022
+- t-001
   global_id: t-170421
   teiginys: "Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc."
   pagrindžia:
     - c-155075
 
 <a id="claim-t-170422"></a>
-- t-024
+- t-002
   global_id: t-170422
   teiginys: "Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis."
   pagrindžia:
     - c-155074
 
 <a id="claim-t-170423"></a>
-- t-021
+- t-003
   global_id: t-170423
   teiginys: "1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija."
   pagrindžia:
     - c-155076
 
 <a id="claim-t-170425"></a>
-- t-023
+- t-004
   global_id: t-170425
   teiginys: "1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą."
   pagrindžia:

@@ -29,42 +29,42 @@ Uša yra pietinis kairysis Nemuno aukštupio intakas. Uša išteka apie 20 km į
 ## Teiginiai
 
 <a id="claim-t-187372"></a>
-- t-002
+- t-001
   global_id: t-187372
   teiginys: "Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių."
   pagrindžia:
     - c-170382
 
 <a id="claim-t-187375"></a>
-- t-001
+- t-002
   global_id: t-187375
   teiginys: "Uša yra pietinis kairysis Nemuno aukštupio intakas."
   pagrindžia:
     - c-170382
 
 <a id="claim-t-187372"></a>
-- t-002
+- t-003
   global_id: t-187372
   teiginys: "Uša išteka apie 20 km į šiaurę nuo Klecko ir teka pro Nesvyžių."
   pagrindžia:
     - c-170382
 
 <a id="claim-t-187374"></a>
-- t-003
+- t-004
   global_id: t-187374
   teiginys: "Uša yra Nemuno intakas, prie kurio yra Nesvyžius."
   pagrindžia:
     - c-170383
 
 <a id="claim-t-187374"></a>
-- t-003
+- t-005
   global_id: t-187374
   teiginys: "Uša yra Nemuno intakas, prie kurio yra Nesvyžius."
   pagrindžia:
     - c-170383
 
 <a id="claim-t-187375"></a>
-- t-001
+- t-006
   global_id: t-187375
   teiginys: "Uša yra pietinis kairysis Nemuno aukštupio intakas."
   pagrindžia:

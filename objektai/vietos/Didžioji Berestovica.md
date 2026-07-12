@@ -29,14 +29,14 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
 ## Teiginiai
 
 <a id="claim-t-187222"></a>
-- t-002
+- t-001
   global_id: t-187222
   teiginys: "Didžioji Berestovica minima kaip vieta, kur kunigaikščių Zaslavskių dvare buvo Bychovco kronikos variantas."
   pagrindžia:
     - c-170288
 
 <a id="claim-t-187223"></a>
-- t-001
+- t-002
   global_id: t-187223
   teiginys: "Didžiosios Berestovicos dvare, priklausiusiame kunigaikščiams Zaslavskiams, buvo panašus Bychovco kronikos variantas."
   pagrindžia:

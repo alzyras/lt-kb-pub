@@ -48,14 +48,14 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21760
 
 <a id="claim-t-101654"></a>
-- t-010
+- t-002
   global_id: t-101654
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
   pagrindžia:
     - c-21765
 
 <a id="claim-t-101655"></a>
-- t-006
+- t-003
   global_id: t-101655
   teiginys: "Sovietmečiu mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus bei komunistų partijos dokumentus."
   pagrindžia:
@@ -69,56 +69,56 @@ Maskvoje spalio 3-iąją Josifas Stalinas spaudė J. Stalinui ir V. Stalinui, o 
     - c-21764
 
 <a id="claim-t-101657"></a>
-- t-003
+- t-005
   global_id: t-101657
   teiginys: "Po Josifo Stalino mirties 1953 m. SSRS ėmė silpnėti rusinimas, valdžia labiau pasitikėjo vietiniais lietuviais, o kaliniai ir tremtiniai buvo leidžiami į laisvę."
   pagrindžia:
     - c-21762
 
 <a id="claim-t-101658"></a>
-- t-012
+- t-006
   global_id: t-101658
   teiginys: "Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias versti sandėliais."
   pagrindžia:
     - c-21767
 
 <a id="claim-t-101659"></a>
-- t-002
+- t-007
   global_id: t-101659
   teiginys: "Josifas Stalinas ir V. Molotovas agresyviai spaudė Lietuvą prieš spalio 10 d. pasirašant Vilniaus perdavimo ir savitarpio pagalbos su SSRS sutartis."
   pagrindžia:
     - c-21761
 
 <a id="claim-t-101660"></a>
-- t-011
+- t-008
   global_id: t-101660
   teiginys: "Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus."
   pagrindžia:
     - c-21766
 
 <a id="claim-t-101661"></a>
-- t-005
+- t-009
   global_id: t-101661
   teiginys: "Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas."
   pagrindžia:
     - c-21765
 
 <a id="claim-t-101662"></a>
-- t-009
+- t-010
   global_id: t-101662
   teiginys: "J. Stalino valdymo metais komunistų partija kontroliavo lietuvių kultūrą, cenzūravo tekstus ir primetė marksistinę-lenininę filosofiją."
   pagrindžia:
     - c-95119
 
 <a id="claim-t-101663"></a>
-- t-007
+- t-011
   global_id: t-101663
   teiginys: "Josifo Stalino laikais okupacinė valdžia siekė fiziškai naikinti ir tremti dvasininkiją, o bažnyčias paversti sandėliais."
   pagrindžia:
     - c-21767
 
 <a id="claim-t-101664"></a>
-- t-008
+- t-012
   global_id: t-101664
   teiginys: "J. Stalino SSRS buvo laikoma jėga, prieš kurią Baltijos šalių pasipriešinimo dalyviai tikėjosi Vakarų žygio."
   pagrindžia:

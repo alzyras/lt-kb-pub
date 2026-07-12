@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59395"></a>
-- t-002
+- t-001
   global_id: t-59395
   teiginys: "Per pirmąjį Medininkų valsčiaus apiplėšimą užpuolikai nusiaubė valsčių, nužudė arba paėmė į nelaisvę septynis šimtus žmonių ir grįžo su grobiu."
   pagrindžia:
     - c-60028
 
 <a id="claim-t-59396"></a>
-- t-001
+- t-002
   global_id: t-59396
   teiginys: "1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   pagrindžia:

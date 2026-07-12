@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
+  - laidotuvės
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -50,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67189"></a>
-- t-002
+- t-001
   global_id: t-67189
   teiginys: "Jėzuitai visuomenę į bažnyčią traukė iškilmingomis pamaldomis, procesijomis ir kitomis iškilmėmis."
   pagrindžia:
     - c-67201
 
 <a id="claim-t-67190"></a>
-- t-001
+- t-002
   global_id: t-67190
   teiginys: "Miestuose, ypač Vilniuje, per procesijas ir iškilmingas laidotuves dažnai kildavo katalikų ir protestantų rietenos bei muštynės."
   pagrindžia:

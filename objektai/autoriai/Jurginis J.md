@@ -32,21 +32,21 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
 ## Teiginiai
 
 <a id="claim-t-64662"></a>
-- t-006
+- t-001
   global_id: t-64662
   teiginys: "J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje."
   pagrindžia:
     - c-65327
 
 <a id="claim-t-64663"></a>
-- t-003
+- t-002
   global_id: t-64663
   teiginys: "J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą."
   pagrindžia:
     - c-65330
 
 <a id="claim-t-64667"></a>
-- t-004
+- t-003
   global_id: t-64667
   teiginys: "J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu."
   pagrindžia:

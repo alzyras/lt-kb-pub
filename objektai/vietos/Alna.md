@@ -36,14 +36,14 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
 ## Teiginiai
 
 <a id="claim-t-58515"></a>
-- t-002
+- t-001
   global_id: t-58515
   teiginys: "1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtas žemes iki Alnos upės, Priegliaus žemupio ir jūros."
   pagrindžia:
     - c-59147
 
 <a id="claim-t-58516"></a>
-- t-001
+- t-002
   global_id: t-58516
   teiginys: "A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos."
   pagrindžia:

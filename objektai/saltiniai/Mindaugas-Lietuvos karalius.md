@@ -17,6 +17,7 @@ tags:
   - karalius
   - miestas
   - saltinis
+  - šeima
 amziai:
   - 'XIII'
   - 'XX'

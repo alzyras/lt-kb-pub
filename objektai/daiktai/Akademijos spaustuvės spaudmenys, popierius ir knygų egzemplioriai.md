@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - karalius
-  - privilegija
 amziai:
   - 'XX'
 media_total_count: '0'

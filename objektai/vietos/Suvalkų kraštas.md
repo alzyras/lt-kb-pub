@@ -33,28 +33,28 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
 ## Teiginiai
 
 <a id="claim-t-95214"></a>
-- t-008
+- t-001
   global_id: t-95214
   teiginys: "Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais."
   pagrindžia:
     - c-46739
 
 <a id="claim-t-95216"></a>
-- t-006
+- t-002
   global_id: t-95216
   teiginys: "Dabartinis Suvalkų kraštas buvo kryžiuočių pasienio didžiulės girios dalis."
   pagrindžia:
     - c-90172
 
 <a id="claim-t-95217"></a>
-- t-007
+- t-003
   global_id: t-95217
   teiginys: "Lietuviškoji Užnemunė, apimanti Suvalkų kraštą, Prūsijos valdžioje priklausė Balstogės departamentui."
   pagrindžia:
     - c-90175
 
 <a id="claim-t-95219"></a>
-- t-009
+- t-004
   global_id: t-95219
   teiginys: "Suvalkų kraštas tada buvo beveik negyvenamas, apaugęs tankiais miškais, o į Prūsiją per jį ėjo tik du keliai."
   pagrindžia:
@@ -68,7 +68,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
     - c-90171
 
 <a id="claim-t-193234"></a>
-- t-010
+- t-006
   global_id: t-193234
   teiginys: "Jis greičiausiai nenorėjo leisti per daug laimėti lenkams, nes patsai, be Žemaičių ir Užnemunės (Suvalkų krašto), nieko daugiau nesitikėjo gauti."
   pagrindžia:

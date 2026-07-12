@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
-  - privilegija
   - sąvoka
   - tauta
+  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

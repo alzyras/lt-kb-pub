@@ -36,14 +36,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88348"></a>
-- t-002
+- t-001
   global_id: t-88348
   teiginys: "„Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos“ buvo išleista Vilniuje 1968 m."
   pagrindžia:
     - c-84327
 
 <a id="claim-t-88349"></a>
-- t-001
+- t-002
   global_id: t-88349
   teiginys: "1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu."
   pagrindžia:

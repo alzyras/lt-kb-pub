@@ -38,21 +38,21 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
 ## Teiginiai
 
 <a id="claim-t-83237"></a>
-- t-003
+- t-001
   global_id: t-83237
   teiginys: "Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti."
   pagrindžia:
     - c-79608
 
 <a id="claim-t-83238"></a>
-- t-006
+- t-002
   global_id: t-83238
   teiginys: "1564 m. jėzuitai buvo įkurdinti Varmijos vyskupystės centre Braunsberge ir iš ten paplito po Lenkiją."
   pagrindžia:
     - c-79611
 
 <a id="claim-t-83239"></a>
-- t-002
+- t-003
   global_id: t-83239
   teiginys: "Gedimino skundą popiežiui ginčijo ir Mažesniųjų brolių Braunsbergo gvardijonas."
   pagrindžia:

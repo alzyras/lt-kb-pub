@@ -15,6 +15,7 @@ tags:
   - asmuo
   - karas
   - ordinas
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -41,14 +42,14 @@ Dusburgietis teigia, kad trečia dalis, būtent brolis Albrechtas iš Hageno bei
 ## Teiginiai
 
 <a id="claim-t-60210"></a>
-- t-002
+- t-001
   global_id: t-60210
   teiginys: "Kronikoje Sudargas minimas kaip lietuvių karo vadas 1308-1317 m. įvykių aprašymuose."
   pagrindžia:
     - c-60842
 
 <a id="claim-t-60211"></a>
-- t-001
+- t-002
   global_id: t-60211
   teiginys: "Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais."
   pagrindžia:

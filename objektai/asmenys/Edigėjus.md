@@ -32,21 +32,21 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 ## Teiginiai
 
 <a id="claim-t-40095"></a>
-- t-002
+- t-001
   global_id: t-40095
   teiginys: "Edigėjus pirmasis su savo pajėgomis stojo į mūšį su Vytautu, bet Lietuvos pajėgos pradėjo pergalėti Ordos kunigaikštį."
   pagrindžia:
     - c-44323
 
 <a id="claim-t-40096"></a>
-- t-001
+- t-002
   global_id: t-40096
   teiginys: "Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais."
   pagrindžia:
     - c-44324
 
 <a id="claim-t-40096"></a>
-- t-001
+- t-003
   global_id: t-40096
   teiginys: "Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais."
   pagrindžia:

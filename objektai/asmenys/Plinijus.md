@@ -77,28 +77,28 @@ Narbutas lietuvių rugiapjūtės dainų posakį siejo su padavimu apie Plinijaus
     - c-173837
 
 <a id="claim-t-190957"></a>
-- t-009
+- t-008
   global_id: t-190957
   teiginys: "Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   pagrindžia:
     - c-173839
 
 <a id="claim-t-190958"></a>
-- t-010
+- t-009
   global_id: t-190958
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   pagrindžia:
     - c-173840
 
 <a id="claim-t-190959"></a>
-- t-011
+- t-010
   global_id: t-190959
   teiginys: "Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   pagrindžia:
     - c-173841
 
 <a id="claim-t-191968"></a>
-- t-012
+- t-011
   global_id: t-191968
   teiginys: "Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis."
   pagrindžia:

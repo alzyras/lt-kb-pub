@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12289"></a>
-- t-003
+- t-001
   global_id: t-12289
   teiginys: "Horodlės unijos punktu 47 lietuviams bajorams buvo suteikti 47 lenkų bajorų herbai."
   pagrindžia:
@@ -68,42 +68,42 @@ Nenurodyta
     - c-14306
 
 <a id="claim-t-12290"></a>
-- t-004
+- t-002
   global_id: t-12290
   teiginys: "Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą."
   pagrindžia:
     - c-14304
 
 <a id="claim-t-12291"></a>
-- t-005
+- t-003
   global_id: t-12291
   teiginys: "Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos."
   pagrindžia:
     - c-21398
 
 <a id="claim-t-12292"></a>
-- t-006
+- t-004
   global_id: t-12292
   teiginys: "1413 m. privilegija teises suteikė tik katalikams, kurie turėjo herbus arba clenodia."
   pagrindžia:
     - c-14307
 
 <a id="claim-t-92960"></a>
-- t-012
+- t-005
   global_id: t-92960
   teiginys: "Lietuvos istorikai teigė, kad lenkai herbus pasisavino iš čekų, o šie juos perėmė iš romėnų."
   pagrindžia:
     - c-21394
 
 <a id="claim-t-92961"></a>
-- t-010
+- t-006
   global_id: t-92961
   teiginys: "Horodlės unijoje 47 pirmaeilinės Lenkijos giminės susibroliavo su žymesniais Lietuvos bajorais ir suteikė jiems herbus."
   pagrindžia:
     - c-88394
 
 <a id="claim-t-92962"></a>
-- t-009
+- t-007
   global_id: t-92962
   teiginys: "Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis."
   pagrindžia:
@@ -117,14 +117,14 @@ Nenurodyta
     - c-21397
 
 <a id="claim-t-92964"></a>
-- t-007
+- t-009
   global_id: t-92964
   teiginys: "LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje."
   pagrindžia:
     - c-21396
 
 <a id="claim-t-92965"></a>
-- t-013
+- t-010
   global_id: t-92965
   teiginys: "Lenkai didžiuodamiesi pabrėždavo, kad Lietuvos bajorijai davė savo herbus."
   pagrindžia:

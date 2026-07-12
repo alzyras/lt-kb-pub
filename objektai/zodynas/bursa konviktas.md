@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - sąvoka
+  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XVI'

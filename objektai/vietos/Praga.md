@@ -44,28 +44,28 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
 ## Teiginiai
 
 <a id="claim-t-71956"></a>
-- t-002
+- t-001
   global_id: t-71956
   teiginys: "Būtautas, vadintas Henricus dux Lithuaniae, ilgai gyveno imperatoriaus Karolio IV dvare ir 1380 m. mirė Pragoje."
   pagrindžia:
     - c-32351
 
 <a id="claim-t-71957"></a>
-- t-007
+- t-002
   global_id: t-71957
   teiginys: "Būtautas, ilgai gyvenęs imperatoriaus Karolio IV dvare, 1380 m. mirė Pragoje."
   pagrindžia:
     - c-32351
 
 <a id="claim-t-71958"></a>
-- t-004
+- t-003
   global_id: t-71958
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė Zigmantą Kaributą savo vietininku į Pragą."
   pagrindžia:
     - c-37656
 
 <a id="claim-t-71959"></a>
-- t-001
+- t-004
   global_id: t-71959
   teiginys: "J. Pfitznerio veikalas „Grossfürst Witold als Staatsmann“ 1930 m. buvo išleistas Pragoje."
   pagrindžia:
@@ -79,7 +79,7 @@ Jie visada sustodavo Varšuvos priemiestyje, Pragoje, dešiniajam Vyslos krante,
     - c-37657
 
 <a id="claim-t-71962"></a>
-- t-003
+- t-006
   global_id: t-71962
   teiginys: "Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos."
   pagrindžia:

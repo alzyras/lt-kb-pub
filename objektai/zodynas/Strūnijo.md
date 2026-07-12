@@ -36,7 +36,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
 ## Teiginiai
 
 <a id="claim-t-07660"></a>
-- t-004
+- t-001
   global_id: t-07660
   teiginys: "Strūnijo vartojama kalbant apie namų įrengimą, kuriam reikalingus įrankius žmonės patys kalė."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `strūnijo ar dailidavo`.
     - c-09594
 
 <a id="claim-t-07661"></a>
-- t-003
+- t-002
   global_id: t-07661
   teiginys: "Strūnijo reiškia statė sau trobesius be svetimo meistro pagalbos."
   pagrindžia:

@@ -32,14 +32,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88316"></a>
-- t-002
+- t-001
   global_id: t-88316
   teiginys: "Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą."
   pagrindžia:
     - c-84296
 
 <a id="claim-t-88317"></a>
-- t-001
+- t-002
   global_id: t-88317
   teiginys: "Napierskio „Index Cod. Hist. Dipl. Livoniae“ minimas kaip Livonijos dokumentų rinkinio nuoroda."
   pagrindžia:

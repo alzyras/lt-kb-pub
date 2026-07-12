@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+  - schema
 amziai:
   - 'XIX'
 periodo_grupes:

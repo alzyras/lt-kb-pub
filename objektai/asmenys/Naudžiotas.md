@@ -9,6 +9,7 @@ tags:
   - asmuo
   - karvedys
   - pilis
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,14 +32,14 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
 ## Teiginiai
 
 <a id="claim-t-60179"></a>
-- t-002
+- t-001
   global_id: t-60179
   teiginys: "Po 14 dienų Naudžiotas Karaliaučiaus pilyje atskleidė atskalūnybės paslaptis ir išvardijo svarbiausius jos sumanytojus."
   pagrindžia:
     - c-60812
 
 <a id="claim-t-60180"></a>
-- t-001
+- t-002
   global_id: t-60180
   teiginys: "Sembai išsirinko Juodučio sūnų Naudžiotą karvedžiu per sukilimą prieš brolius ir tikinčiuosius."
   pagrindžia:

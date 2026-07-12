@@ -40,49 +40,49 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 ## Teiginiai
 
 <a id="claim-t-182731"></a>
-- t-100
+- t-001
   global_id: t-182731
   teiginys: "Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę."
   pagrindžia:
     - c-166150
 
 <a id="claim-t-182735"></a>
-- t-103
+- t-002
   global_id: t-182735
   teiginys: "Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą."
   pagrindžia:
     - c-166149
 
 <a id="claim-t-182736"></a>
-- t-101
+- t-003
   global_id: t-182736
   teiginys: "Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija."
   pagrindžia:
     - c-166152
 
 <a id="claim-t-183097"></a>
-- t-005
+- t-004
   global_id: t-183097
   teiginys: "Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje."
   pagrindžia:
     - c-46770
 
 <a id="claim-t-183098"></a>
-- t-006
+- t-005
   global_id: t-183098
   teiginys: "1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei."
   pagrindžia:
     - c-24526
 
 <a id="claim-t-193240"></a>
-- t-104
+- t-006
   global_id: t-193240
   teiginys: "Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės."
   pagrindžia:
     - c-175977
 
 <a id="claim-t-193653"></a>
-- t-105
+- t-007
   global_id: t-193653
   teiginys: "Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi."
   pagrindžia:

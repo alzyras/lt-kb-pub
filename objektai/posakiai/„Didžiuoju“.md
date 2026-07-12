@@ -36,14 +36,14 @@ Vytauto permainų reikšmę suvokė jau amžininkai, jų komplimentai ar sureik�
 ## Teiginiai
 
 <a id="claim-t-75610"></a>
-- t-002
+- t-001
   global_id: t-75610
   teiginys: "Vytautas pradėtas vadinti Didžiuoju, nes jo permainų reikšmę suvokė jau amžininkai."
   pagrindžia:
     - c-73335
 
 <a id="claim-t-75611"></a>
-- t-001
+- t-002
   global_id: t-75611
   teiginys: "Vytautas pradėtas vadinti Didžiuoju, nes jau amžininkai suvokė jo laikų permainų reikšmę."
   pagrindžia:

@@ -12,7 +12,7 @@ atnaujinta: ''
 tags:
   - karalius
   - paprotys
-  - privilegija
+  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XVI'

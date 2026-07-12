@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - tauta
   - valstybė
 amziai:
@@ -37,42 +38,42 @@ Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiau
 ## Teiginiai
 
 <a id="claim-t-74635"></a>
-- t-005
+- t-001
   global_id: t-74635
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė."
   pagrindžia:
     - c-72681
 
 <a id="claim-t-74636"></a>
-- t-006
+- t-002
   global_id: t-74636
   teiginys: "Lietuvos delegacijai prie Paryžiaus taikos konferencijos vadovavo Augustinas Voldemaras."
   pagrindžia:
     - c-22592
 
 <a id="claim-t-74637"></a>
-- t-002
+- t-003
   global_id: t-74637
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos memorandumais, straipsniais ir pasisakymais kėlė Lietuvos pripažinimo problemą."
   pagrindžia:
     - c-22591
 
 <a id="claim-t-74638"></a>
-- t-001
+- t-004
   global_id: t-74638
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė 1919 m. prasidėjusios konferencijos dalyvė."
   pagrindžia:
     - c-22590
 
 <a id="claim-t-74639"></a>
-- t-003
+- t-005
   global_id: t-74639
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją."
   pagrindžia:
     - c-22592
 
 <a id="claim-t-74640"></a>
-- t-004
+- t-006
   global_id: t-74640
   teiginys: "Lietuvos delegacija prie Paryžiaus taikos konferencijos veikė kuluaruose, nes Lietuva nebuvo juridinė konferencijos dalyvė."
   pagrindžia:

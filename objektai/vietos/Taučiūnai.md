@@ -37,14 +37,14 @@ Povilo Lukšio paminklas Taučiūnų kaimo lauke (netoli Kėdainių).
 ## Teiginiai
 
 <a id="claim-t-172013"></a>
-- t-011
+- t-001
   global_id: t-172013
   teiginys: "Važiuojant pro Taučiūnų kaimą, žvalgus netikėtai pasitiko smarki bolševikų kuopos ugnis."
   pagrindžia:
     - c-156446
 
 <a id="claim-t-172014"></a>
-- t-012
+- t-002
   global_id: t-172014
   teiginys: "Iš Taučiūnų dvaro į žvalgus buvo paleista ugnis; per šį susidūrimą žuvo P. Lukšys."
   pagrindžia:

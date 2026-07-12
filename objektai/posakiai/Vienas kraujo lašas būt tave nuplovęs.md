@@ -45,14 +45,14 @@ Jono Aisčio eilutės reiškia dvi priešpriešines Lietuvos pasipriešinimo for
 ## Teiginiai
 
 <a id="claim-t-09678"></a>
-- t-004
+- t-001
   global_id: t-09678
   teiginys: "Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ sieja su pasipriešinimu protestais ir Vyriausybės pasitraukimu."
   pagrindžia:
     - c-12490
 
 <a id="claim-t-09679"></a>
-- t-003
+- t-002
   global_id: t-09679
   teiginys: "Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais."
   pagrindžia:

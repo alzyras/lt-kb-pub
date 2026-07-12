@@ -56,14 +56,14 @@ Sudegė abiejų pilių papiliai.
 ## Teiginiai
 
 <a id="claim-t-70938"></a>
-- t-003
+- t-001
   global_id: t-70938
   teiginys: "1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę."
   pagrindžia:
     - c-69725
 
 <a id="claim-t-70941"></a>
-- t-004
+- t-002
   global_id: t-70941
   teiginys: "Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius."
   pagrindžia:

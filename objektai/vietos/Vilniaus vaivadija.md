@@ -42,7 +42,7 @@ Nuo 1502 m. Krymo totoriai pasiekdavo Vilniaus vaivadiją.
     - c-170388
 
 <a id="claim-t-187384"></a>
-- t-001
+- t-002
   global_id: t-187384
   teiginys: "Nuo 1502 m. Krymo totoriai persimetė į šiaurę nuo Pripetės pelkių ir pasiekdavo Vilniaus vaivadiją."
   pagrindžia:

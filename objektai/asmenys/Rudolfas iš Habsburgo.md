@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie Rudolfo išrinkimą Romos karaliumi 1273 viešpati
 ## Teiginiai
 
 <a id="claim-t-60197"></a>
-- t-002
+- t-001
   global_id: t-60197
   teiginys: "Rudolfas iš Habsburgo kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė sūnui Albrechtui."
   pagrindžia:
     - c-60830
 
 <a id="claim-t-60198"></a>
-- t-001
+- t-002
   global_id: t-60198
   teiginys: "1273 metais Rudolfas iš Habsburgo buvo išrinktas Romos karaliumi."
   pagrindžia:

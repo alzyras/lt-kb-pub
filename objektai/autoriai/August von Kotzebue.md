@@ -37,42 +37,42 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
 ## Teiginiai
 
 <a id="claim-t-87938"></a>
-- t-002
+- t-001
   global_id: t-87938
   teiginys: "Augustas von Kotzebue išrašė tris Gedimino laiškus iš slaptojo Kryžiuočių archyvo Karaliaučiuje ir įdėjo juos į savo veikalą."
   pagrindžia:
     - c-83919
 
 <a id="claim-t-87939"></a>
-- t-008
+- t-002
   global_id: t-87939
   teiginys: "Michałas Balińskis nesutiko su Kotzebue datavimu, kad minėtas įvykis nutiko tarp 1432 m. rugpjūčio 14 ir 28 d."
   pagrindžia:
     - c-83917
 
 <a id="claim-t-87940"></a>
-- t-006
+- t-003
   global_id: t-87940
   teiginys: "Kotzebue rašinyje „Switrigail“ gynė Švitrigailą, vaizduodamas jį kaip herojų ir didį žmogų."
   pagrindžia:
     - c-83923
 
 <a id="claim-t-87941"></a>
-- t-003
+- t-004
   global_id: t-87941
   teiginys: "Kotzebue veikale pateikti skundo punktai atitiko Raynaldo 1324 m. nurodytus punktus."
   pagrindžia:
     - c-83921
 
 <a id="claim-t-87942"></a>
-- t-004
+- t-005
   global_id: t-87942
   teiginys: "Kotzebue tikėjosi Gedimino laiškų originalus rasti Ordino archyve ir apkaltinti Ordiną nauja piktadaryste."
   pagrindžia:
     - c-83920
 
 <a id="claim-t-87944"></a>
-- t-001
+- t-006
   global_id: t-87944
   teiginys: "Michałas Balińskis Kotzebue „Prūsijos istoriją“ vadino geriausiu dokumentų vertės paliudijimu."
   pagrindžia:
@@ -86,7 +86,7 @@ Kotzebue, Foigto pirmtako, Prūsijos istorija yra geriausias paliudijimas. Trys 
     - c-83924
 
 <a id="claim-t-194196"></a>
-- t-009
+- t-008
   global_id: t-194196
   teiginys: "Šitai vėlei liu dija, kokią vertę teturi Kotzebue, bent jau jo nuomonės, klasikiniam paminklui Prūsijos istorijai, Klijo išgarbintam. (Žr."
   pagrindžia:

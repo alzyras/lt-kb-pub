@@ -34,14 +34,14 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
 ## Teiginiai
 
 <a id="claim-t-71512"></a>
-- t-002
+- t-001
   global_id: t-71512
   teiginys: "J. Voigtas 1827–1838 m. išleido devynių tomų veikalą „Geschichte Preussens“, kuriame nagrinėjo kryžiuočių santykius su Lietuva."
   pagrindžia:
     - c-30597
 
 <a id="claim-t-71513"></a>
-- t-001
+- t-002
   global_id: t-71513
   teiginys: "J. Voigtas 1827–1838 m. devynių tomų veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m."
   pagrindžia:

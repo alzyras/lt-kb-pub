@@ -50,49 +50,49 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
     - c-175825
 
 <a id="claim-t-23411"></a>
-- t-003
+- t-002
   global_id: t-23411
   teiginys: "Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras."
   pagrindžia:
     - c-175825
 
 <a id="claim-t-23412"></a>
-- t-004
+- t-003
   global_id: t-23412
   teiginys: "Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla."
   pagrindžia:
     - c-175825
 
 <a id="claim-t-26928"></a>
-- t-005
+- t-004
   global_id: t-26928
   teiginys: "Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus."
   pagrindžia:
     - c-175825
 
 <a id="claim-t-193059"></a>
-- t-009
+- t-005
   global_id: t-193059
   teiginys: "Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą."
   pagrindžia:
     - c-175826
 
 <a id="claim-t-193060"></a>
-- t-008
+- t-006
   global_id: t-193060
   teiginys: "Narbutas rašo, kad Grunau pasakojo dalyvavęs ožio aukojimo išpažintyje ir prisiekęs Perkūnui neišduoti apeigos vyskupui."
   pagrindžia:
     - c-175827
 
 <a id="claim-t-193061"></a>
-- t-002
+- t-007
   global_id: t-193061
   teiginys: "Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo."
   pagrindžia:
     - c-175828
 
 <a id="claim-t-194680"></a>
-- t-010
+- t-008
   global_id: t-194680
   teiginys: "Pasvėrę visa tai ir tas pačias smulkmenas, kuriomis Grunau ne kartą pagelbėjo rūsčiai jį kritikavusiam ponui Foigtui, taip pat turėdami omenyje kronikininkams būdingus trūku mus, negalime neginti Grunau15."
   pagrindžia:

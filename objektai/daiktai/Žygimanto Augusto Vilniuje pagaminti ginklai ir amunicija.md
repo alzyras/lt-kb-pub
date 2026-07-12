@@ -65,14 +65,14 @@ Nenurodyta
     - c-82988
 
 <a id="claim-t-87009"></a>
-- t-003
+- t-002
   global_id: t-87009
   teiginys: "Išvardyti pabūklai buvo naujai pagaminti ir išsiuntinėti Lietuvos provincijos tvirtovėms."
   pagrindžia:
     - c-82989
 
 <a id="claim-t-87010"></a>
-- t-002
+- t-003
   global_id: t-87010
   teiginys: "Golembiovskio aprašyme keturios didžiosios akmenų patrankos vadintos Elgeta, Vytautu, Boba ir Augustu."
   pagrindžia:

@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47814"></a>
-- t-002
+- t-001
   global_id: t-47814
   teiginys: "Kapinynuose aptiktų apyrankių ir kitų papuošalų ornamentai buvo giminingi lietuvių kaimo audinių ir juostų raštams."
   pagrindžia:
@@ -72,7 +72,7 @@ Nenurodyta
     - c-31009
 
 <a id="claim-t-47816"></a>
-- t-001
+- t-003
   global_id: t-47816
   teiginys: "Kai kurių papuošalų prototipai yra randami dar prieškristiniais laikais keltų plotuose."
   pagrindžia:

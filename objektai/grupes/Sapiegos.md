@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - šeima
 amziai:
   - 'XVIII'
   - 'XXI'
@@ -39,14 +40,14 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 ## Teiginiai
 
 <a id="claim-t-184581"></a>
-- t-024
+- t-001
   global_id: t-184581
   teiginys: "A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė."
   pagrindžia:
     - c-167942
 
 <a id="claim-t-193338"></a>
-- t-025
+- t-002
   global_id: t-193338
   teiginys: "Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty bei, taip pat Tavo senelio Jono Sapiegos, pelniusio trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo tarpu, kai Tu ėmeisi rūpintis valstybe."
   pagrindžia:

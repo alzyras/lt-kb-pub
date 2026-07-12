@@ -37,28 +37,28 @@ Kazimiero (1458–1484), Lietuvos didžiojo kunigaikščio Kazimiero sūnaus, ga
 ## Teiginiai
 
 <a id="claim-t-78014"></a>
-- t-003
+- t-001
   global_id: t-78014
   teiginys: "Šv. Kazimiero kultas rodė Lietuvoje susiformavusią stiprią, į Vakarų Europą orientuotą religinę savimonę."
   pagrindžia:
     - c-75331
 
 <a id="claim-t-78015"></a>
-- t-001
+- t-002
   global_id: t-78015
   teiginys: "Šv. Kazimiero garbinimo tradicijos klostymasis tapo Lietuvos krikščionėjimo simboliu."
   pagrindžia:
     - c-75330
 
 <a id="claim-t-78016"></a>
-- t-004
+- t-003
   global_id: t-78016
   teiginys: "1792 m. ant katedros frontono buvo baigta Lietuvos globėjo šv. Kazimiero skulptūra."
   pagrindžia:
     - c-75332
 
 <a id="claim-t-78017"></a>
-- t-002
+- t-004
   global_id: t-78017
   teiginys: "XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse."
   pagrindžia:

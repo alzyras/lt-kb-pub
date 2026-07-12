@@ -36,7 +36,7 @@ Vartojamos formos: `žiuponais`.
 ## Teiginiai
 
 <a id="claim-t-07692"></a>
-- t-003
+- t-001
   global_id: t-07692
   teiginys: "Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `žiuponais`.
     - c-09622
 
 <a id="claim-t-07693"></a>
-- t-004
+- t-002
   global_id: t-07693
   teiginys: "Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte."
   pagrindžia:

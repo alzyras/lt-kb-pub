@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-49168"></a>
-- t-002
+- t-001
   global_id: t-49168
   teiginys: "Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų."
   pagrindžia:
     - c-43084
 
 <a id="claim-t-49169"></a>
-- t-003
+- t-002
   global_id: t-49169
   teiginys: "1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva."
   pagrindžia:
     - c-43083
 
 <a id="claim-t-49170"></a>
-- t-001
+- t-003
   global_id: t-49170
   teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
   pagrindžia:

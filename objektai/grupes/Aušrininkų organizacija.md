@@ -37,14 +37,14 @@ Tik vėliau iš jaunimo, susispietusio apie moksleivių žurnalą „Aušrinę",
 ## Teiginiai
 
 <a id="claim-t-72033"></a>
-- t-002
+- t-001
   global_id: t-72033
   teiginys: "Moksleivių aušrininkų organizacija atsirado iš jaunimo, susitelkusio apie žurnalą „Aušrinė“."
   pagrindžia:
     - c-70469
 
 <a id="claim-t-72034"></a>
-- t-001
+- t-002
   global_id: t-72034
   teiginys: "Aušrininkų organizacija atsirado iš socialistinės pakraipos jaunimo, susitelkusio apie moksleivių žurnalą „Aušrinė“."
   pagrindžia:

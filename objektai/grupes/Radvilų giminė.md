@@ -42,7 +42,7 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
 ## Teiginiai
 
 <a id="claim-t-172761"></a>
-- t-003
+- t-001
   global_id: t-172761
   teiginys: "Mikalojui Radvilai ir jo Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai."
   pagrindžia:
@@ -56,21 +56,21 @@ Tačiau dėl to stiprėjo ir taip jau įtakingos Radvilų giminės galybė ir ka
     - c-157130
 
 <a id="claim-t-172763"></a>
-- t-001
+- t-003
   global_id: t-172763
   teiginys: "Radvilų giminės galia ir turtai augo, o jų pėdsakai autoriui dar atrodė stebinantys savo didybe."
   pagrindžia:
     - c-157127
 
 <a id="claim-t-172765"></a>
-- t-007
+- t-004
   global_id: t-172765
   teiginys: "1493 m. Aleksandro Jogailaičio dovanojimo akto originalas buvo Radvilų archyve Kardinalijoje."
   pagrindžia:
     - c-157129
 
 <a id="claim-t-172766"></a>
-- t-004
+- t-005
   global_id: t-172766
   teiginys: "Radvilų archyve Kardinalijoje buvo saugomi du autentiški Stepono Batoro laiškai, rašyti Radviloms dėl Vilniaus muitų."
   pagrindžia:

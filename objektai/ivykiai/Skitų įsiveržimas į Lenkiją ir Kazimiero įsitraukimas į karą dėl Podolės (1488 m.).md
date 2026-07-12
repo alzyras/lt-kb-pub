@@ -46,14 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185771"></a>
-- t-002
+- t-001
   global_id: t-185771
   teiginys: "Kazimieras, sužinojęs apie skitų įsiveržimą į Lenkiją, pradėjo ryžtingiau rūpintis Lietuvos reikalais ir įsitraukė į karą dėl Podolės."
   pagrindžia:
     - c-169132
 
 <a id="claim-t-193364"></a>
-- t-003
+- t-002
   global_id: t-193364
   teiginys: "Su kruto visi nelyginant iš gilaus miego pabudę tik tada, kai sukrėtė širdis tarytum netoliese staiga blykstelėjęs žaibas skitų įsibrovimas."
   pagrindžia:

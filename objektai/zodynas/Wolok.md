@@ -54,7 +54,7 @@ Vartojamas kaip istorinis-geografinis terminas, apibūdinantis sausumos perneši
     - c-175049
 
 <a id="claim-t-192174"></a>
-- t-001
+- t-003
   global_id: t-192174
   teiginys: "Teodoro Narbuto aiškinimu, slavai nuo seniausių laikų Wolok vadino sausumos kelius tarp dviejų prieplaukų."
   pagrindžia:

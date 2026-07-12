@@ -11,10 +11,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - miestas
   - sutartis
-  - vieta
 amziai:
   - 'XV'
   - 'XXI'
@@ -40,28 +40,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-172033"></a>
-- t-026
+- t-001
   global_id: t-172033
   teiginys: "Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus."
   pagrindžia:
     - c-43965
 
 <a id="claim-t-172035"></a>
-- t-024
+- t-002
   global_id: t-172035
   teiginys: "Spalio 3 d. Lenkijos pajėgos užėmė Varėnos stotį."
   pagrindžia:
     - c-156468
 
 <a id="claim-t-172037"></a>
-- t-025
+- t-003
   global_id: t-172037
   teiginys: "Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams."
   pagrindžia:
     - c-43964
 
 <a id="claim-t-172038"></a>
-- t-027
+- t-004
   global_id: t-172038
   teiginys: "Rugsėjo 24 d. šarvuotas traukinys „Gediminas“ grįžo į Varėną ir su 7-uoju pėstininkų pulku gynė strategiškai svarbią Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
   pagrindžia:

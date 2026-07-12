@@ -5,7 +5,8 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54739"></a>
-- t-002
+- t-001
   global_id: t-54739
   teiginys: "Šubravcų laikraštis Wiadomości brukowe satyriškai vaizdavo kilmingųjų kasdienybę, kritikavo baudžiavą, obskurantizmą ir tradicionalizmą."
   pagrindžia:
     - c-55730
 
 <a id="claim-t-54740"></a>
-- t-001
+- t-002
   global_id: t-54740
   teiginys: "Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis."
   pagrindžia:

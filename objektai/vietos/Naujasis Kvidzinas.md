@@ -36,21 +36,21 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
 ## Teiginiai
 
 <a id="claim-t-36432"></a>
-- t-003
+- t-001
   global_id: t-36432
   teiginys: "Naujasis Kvidzinas prie Kauno buvo viena iš trijų Vytauto valdžioje buvusių pilių, kurias turėjo sunaikinti."
   pagrindžia:
     - c-38580
 
 <a id="claim-t-36433"></a>
-- t-001
+- t-002
   global_id: t-36433
   teiginys: "Po keturių savaičių darbo pilis buvo baigta ir pavadinta Naujuoju Kvidzinu."
   pagrindžia:
     - c-38581
 
 <a id="claim-t-36434"></a>
-- t-002
+- t-003
   global_id: t-36434
   teiginys: "Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui."
   pagrindžia:

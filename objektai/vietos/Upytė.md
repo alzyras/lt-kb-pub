@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - kraštas
   - pilis
+  - teisinė-praktika
   - vieta
 amziai:
   - 'X'
@@ -40,14 +41,14 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 ## Teiginiai
 
 <a id="claim-t-69480"></a>
-- t-002
+- t-001
   global_id: t-69480
   teiginys: "Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą."
   pagrindžia:
     - c-43942
 
 <a id="claim-t-183813"></a>
-- t-003
+- t-002
   global_id: t-183813
   teiginys: "Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą."
   pagrindžia:

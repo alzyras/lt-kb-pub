@@ -42,14 +42,14 @@ Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši
     - c-174421
 
 <a id="claim-t-191541"></a>
-- t-003
+- t-002
   global_id: t-191541
   teiginys: "Gotthardas Friedrichas Stenderis Narbuto pateikiamas kaip Kuršo pamokslininkas ir latvių gramatikos autorius, rašęs apie latvių kalbos skirtumą nuo estų kalbos."
   pagrindžia:
     - c-174423
 
 <a id="claim-t-194877"></a>
-- t-004
+- t-003
   global_id: t-194877
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
   pagrindžia:

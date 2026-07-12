@@ -37,14 +37,14 @@ Iš tiesų Liaudies vyriausybė vykdė sovietų valią, nuo pirmų dienų griov�
 ## Teiginiai
 
 <a id="claim-t-101607"></a>
-- t-002
+- t-001
   global_id: t-101607
   teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
   pagrindžia:
     - c-95106
 
 <a id="claim-t-101608"></a>
-- t-001
+- t-002
   global_id: t-101608
   teiginys: "Sovietizacija Lietuvoje prasidėjo Liaudies vyriausybei vykdant sovietų valią, griaunant valstybingumą ir keičiant administraciją."
   pagrindžia:

@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -50,7 +51,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187835"></a>
-- t-002
+- t-001
   global_id: t-187835
   teiginys: "Pasak Narbuto perteikiamo Lasickio, šlapią vasarą jaujose džiovinant javus buvo nusilenkiama deivei Gabijai ir kalbama maldelė."
   pagrindžia:

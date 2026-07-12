@@ -58,49 +58,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59177"></a>
-- t-003
+- t-001
   global_id: t-59177
   teiginys: "Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti."
   pagrindžia:
     - c-167313
 
 <a id="claim-t-59178"></a>
-- t-005
+- t-002
   global_id: t-59178
   teiginys: "Karaliaučiaus pilies gynėjai puolimo metu išardė ir sunaikino tiltą bei kuorus, kuriais naudojosi apgulėjai."
   pagrindžia:
     - c-59813
 
 <a id="claim-t-59179"></a>
-- t-004
+- t-003
   global_id: t-59179
   teiginys: "Per Karaliaučiaus apgultį broliai po kovos išardė ir sunaikino prūsų pastatytą tiltą per Prieglių bei jo kuorus."
   pagrindžia:
     - c-59809
 
 <a id="claim-t-59180"></a>
-- t-006
+- t-004
   global_id: t-59180
   teiginys: "Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų."
   pagrindžia:
     - c-59814
 
 <a id="claim-t-59181"></a>
-- t-001
+- t-005
   global_id: t-59181
   teiginys: "Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai."
   pagrindžia:
     - c-59811
 
 <a id="claim-t-59182"></a>
-- t-007
+- t-006
   global_id: t-59182
   teiginys: "Sembai netikėtai užpuolė prie Karaliaučiaus pilies įkurtą miestą, jį sugriovė, o dalį žmonių paėmė į nelaisvę arba išžudė."
   pagrindžia:
     - c-59812
 
 <a id="claim-t-59183"></a>
-- t-002
+- t-007
   global_id: t-59183
   teiginys: "Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
   pagrindžia:
@@ -114,7 +114,7 @@ Nenurodyta
     - c-167312
 
 <a id="claim-t-59177"></a>
-- t-003
+- t-009
   global_id: t-59177
   teiginys: "Nepajėgę jėga paimti Karaliaučiaus pilies, prūsai pasistatė daug laivų brolių maisto tiekimo laivams naikinti."
   pagrindžia:

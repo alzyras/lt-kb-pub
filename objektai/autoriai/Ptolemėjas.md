@@ -41,70 +41,70 @@ Ptolemėjas mini Aelvaconesz kaip lygų gentį, o tyrinėtojai juos siejo su Sil
     - c-174397
 
 <a id="claim-t-191517"></a>
-- t-004
+- t-003
   global_id: t-191517
   teiginys: "Ptolemėjas nuo Vyslos žiočių iki Panonijos suskaičiavo tokį pat nuotolį kaip Plinijus."
   pagrindžia:
     - c-174399
 
 <a id="claim-t-191518"></a>
-- t-005
+- t-004
   global_id: t-191518
   teiginys: "Narbutas sprendė, kad Ptolemėjo nurodytos Krono, arba Nemuno, žiotys geriausiai atitinka Kuršių marių žiotis į jūrą."
   pagrindžia:
     - c-174400
 
 <a id="claim-t-191519"></a>
-- t-006
+- t-005
   global_id: t-191519
   teiginys: "Narbutas teigė, kad alanai tapo Ptolemėjo Stavanijos ir Galindijos kaimynais, kai stavanai ir galindai jau gyveno savo žemėse."
   pagrindžia:
     - c-174401
 
 <a id="claim-t-191520"></a>
-- t-007
+- t-006
   global_id: t-191520
   teiginys: "Narbutas atmetė Erazmo Stelos požiūrį, kad Ptolemėjo boruskų ar borusų reikėtų ieškoti prie Ritėjų kalnų."
   pagrindžia:
     - c-174402
 
 <a id="claim-t-191521"></a>
-- t-008
+- t-007
   global_id: t-191521
   teiginys: "Pasak Safaržyko, prūsų protėviai buvo Ptolemėjo aprašyti frugundionai, kurių Narbutas nedrįso priskirti lietuvių genčiai."
   pagrindžia:
     - c-174403
 
 <a id="claim-t-191522"></a>
-- t-009
+- t-008
   global_id: t-191522
   teiginys: "Narbutas rašė, kad Ptolemėjas turėjo žinių apie Sūduvą ir žinojo sudinų koloniją prie Vltavos, markomanų kaimynystėje."
   pagrindžia:
     - c-174404
 
 <a id="claim-t-191523"></a>
-- t-010
+- t-009
   global_id: t-191523
   teiginys: "Narbutas sprendė, kad Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o svetimšaliai tą žemę vadino Skalva arba Rusia."
   pagrindžia:
     - c-174405
 
 <a id="claim-t-191524"></a>
-- t-011
+- t-010
   global_id: t-191524
   teiginys: "Narbutas rašė, kad Ptolemėjas stavanus vadino Stabatiix ir jų paminėjimo vietoje atpažino lietuvius."
   pagrindžia:
     - c-174406
 
 <a id="claim-t-191525"></a>
-- t-012
+- t-011
   global_id: t-191525
   teiginys: "Narbutas nurodo, kad senovės tyrinėtojai, remdamiesi Ptolemėjumi, latgalus vadino veltais, Veltae."
   pagrindžia:
     - c-174407
 
 <a id="claim-t-194888"></a>
-- t-013
+- t-012
   global_id: t-194888
   teiginys: "Ptolemėjas II Kristaus eros amžiuje mini tavių tautą, gyvenusią galų kaimynystėje, prie Dnestro."
   pagrindžia:

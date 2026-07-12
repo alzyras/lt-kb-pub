@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - privilegija
 amziai:
   - 'XVII'
 periodo_grupes:

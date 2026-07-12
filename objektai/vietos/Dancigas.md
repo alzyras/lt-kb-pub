@@ -59,28 +59,28 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
 ## Teiginiai
 
 <a id="claim-t-182720"></a>
-- t-061
+- t-001
   global_id: t-182720
   teiginys: "Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų."
   pagrindžia:
     - c-166136
 
 <a id="claim-t-183004"></a>
-- t-007
+- t-002
   global_id: t-183004
   teiginys: "Vytauto laikais atgijus prekybai Nemunu, Lietuva užmezgė gyvus ryšius su Karaliaučiumi ir Dancigu."
   pagrindžia:
     - c-166398
 
 <a id="claim-t-183006"></a>
-- t-008
+- t-003
   global_id: t-183006
   teiginys: "Po Maksimilijono mirties Dancigas vienintelis Lenkijoje nepripažino Batoro ir buvo ginklu priverstas jam nusilenkti."
   pagrindžia:
     - c-166399
 
 <a id="claim-t-193176"></a>
-- t-062
+- t-004
   global_id: t-193176
   teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
   pagrindžia:

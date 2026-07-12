@@ -17,7 +17,8 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XXI'
@@ -57,21 +58,21 @@ Vaivada šiame įraše žymi srities viršininką ir karo vadovą. Ankstesniame 
     - c-14722
 
 <a id="claim-t-184643"></a>
-- t-004
+- t-003
   global_id: t-184643
   teiginys: "Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
   pagrindžia:
     - c-168004
 
 <a id="claim-t-187532"></a>
-- t-006
+- t-004
   global_id: t-187532
   teiginys: "Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai."
   pagrindžia:
     - c-170482
 
 <a id="claim-t-193163"></a>
-- t-007
+- t-005
   global_id: t-193163
   teiginys: "Tik Vilniaus ir Trakų sritys nuo 1413 m. turėjo savo viršininkus, vadinamus ne vietininkais, bet vaivadomis."
   pagrindžia:

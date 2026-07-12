@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86925"></a>
-- t-002
+- t-001
   global_id: t-86925
   teiginys: "1381 m. Skirgaila su Livonijos magistru 12 savaičių laikė apsupę Polocką, bet apgultį nutraukė dėl pokyčių Lietuvoje."
   pagrindžia:
     - c-82904
 
 <a id="claim-t-194179"></a>
-- t-003
+- t-002
   global_id: t-194179
   teiginys: "Taip pat buvo sudarytos paliaubos su Livonijos magistru Rygo je, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę29."
   pagrindžia:

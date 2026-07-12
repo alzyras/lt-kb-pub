@@ -56,42 +56,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78707"></a>
-- t-006
+- t-001
   global_id: t-78707
   teiginys: "Lenkų daliniai dažnai puldinėjo lietuvių teritoriją nuo Nemuno pietuose iki Zarasų šiaurėje."
   pagrindžia:
     - c-12402
 
 <a id="claim-t-78708"></a>
-- t-005
+- t-002
   global_id: t-78708
   teiginys: "Kartais atskiri lietuvių ir lenkų daliniai surengdavo bendras operacijas prieš rusus."
   pagrindžia:
     - c-43174
 
 <a id="claim-t-78709"></a>
-- t-011
+- t-003
   global_id: t-78709
   teiginys: "1920 m. vasario 22–23 d. Lietuvos vyriausybė numalšino Kaune kilusį bolševikų sukurstytą maištą, todėl lenkai prarado pretekstą pulti Kauną."
   pagrindžia:
     - c-43173
 
 <a id="claim-t-78710"></a>
-- t-008
+- t-004
   global_id: t-78710
   teiginys: "Provokacijos ir smulkūs lenkų bei lietuvių susirėmimai tęsėsi iki 1920 m. balandžio."
   pagrindžia:
     - c-43173
 
 <a id="claim-t-78711"></a>
-- t-010
+- t-005
   global_id: t-78711
   teiginys: "1919 m. rudenį, pagrindinėms Lietuvos pajėgoms kovojant su bermontininkais, lenkai mėgino veržtis į Lietuvos teritorijos gilumą."
   pagrindžia:
     - c-12402
 
 <a id="claim-t-78712"></a>
-- t-009
+- t-006
   global_id: t-78712
   teiginys: "Lietuvių ir lenkų pajėgoms kovojant su bolševikais, atskiri jų daliniai kartais surengdavo bendras operacijas prieš rusus."
   pagrindžia:

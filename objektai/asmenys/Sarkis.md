@@ -9,6 +9,7 @@ tags:
   - asmuo
   - ginklas
   - krikštas
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,21 +32,21 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 ## Teiginiai
 
 <a id="claim-t-60064"></a>
-- t-003
+- t-001
   global_id: t-60064
   teiginys: "Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje."
   pagrindžia:
     - c-60696
 
 <a id="claim-t-60065"></a>
-- t-001
+- t-002
   global_id: t-60065
   teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje."
   pagrindžia:
     - c-60697
 
 <a id="claim-t-60066"></a>
-- t-002
+- t-003
   global_id: t-60066
   teiginys: "Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis."
   pagrindžia:

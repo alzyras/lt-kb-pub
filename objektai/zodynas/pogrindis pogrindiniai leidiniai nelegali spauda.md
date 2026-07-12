@@ -16,6 +16,7 @@ tags:
   - dokumentas
   - sąvoka
   - valstybė
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -40,14 +41,14 @@ Jie ne tik meldėsi, bendraudavo, bet ir įsigydavo draustų religinių relikvij
 ## Teiginiai
 
 <a id="claim-t-23534"></a>
-- t-002
+- t-001
   global_id: t-23534
   teiginys: "Iki 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų apie sovietų valdžios politiką Lietuvoje."
   pagrindžia:
     - c-24934
 
 <a id="claim-t-23535"></a>
-- t-001
+- t-002
   global_id: t-23535
   teiginys: "Maldininkai religinėse manifestacijose įsigydavo draustų relikvijų ir nelegaliai išspausdintos religinės literatūros."
   pagrindžia:

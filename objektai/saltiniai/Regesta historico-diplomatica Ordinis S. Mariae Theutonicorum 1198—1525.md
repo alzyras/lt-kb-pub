@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
-  - privilegija
   - saltinis
 amziai:
   - 'XII'

@@ -60,35 +60,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113464"></a>
-- t-004
+- t-001
   global_id: t-113464
   teiginys: "Atsisakęs krikšto, Gediminas neatsisakė tikslo artinti Lietuvą prie Vakarų Europos, kviesdamas vokiečių kolonistus."
   pagrindžia:
     - c-104696
 
 <a id="claim-t-113465"></a>
-- t-007
+- t-002
   global_id: t-113465
   teiginys: "Gediminas kvietė į Lietuvą pirklius, amatininkus ir įvairių amatų žmones su šeimomis, žadėdamas laisvą atvykimą ir išvykimą."
   pagrindžia:
     - c-104695
 
 <a id="claim-t-113468"></a>
-- t-001
+- t-003
   global_id: t-113468
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
   pagrindžia:
     - c-104699
 
 <a id="claim-t-113467"></a>
-- t-003
+- t-004
   global_id: t-113467
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
   pagrindžia:
     - c-104698
 
 <a id="claim-t-113468"></a>
-- t-001
+- t-005
   global_id: t-113468
   teiginys: "Lietuvos valdovai kvietė pirklius ir amatininkus iš svetur, nes nepasitikėjo savųjų įgūdžiais."
   pagrindžia:

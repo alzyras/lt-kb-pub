@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87166"></a>
-- t-003
+- t-001
   global_id: t-87166
   teiginys: "Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose."
   pagrindžia:
     - c-83147
 
 <a id="claim-t-87168"></a>
-- t-001
+- t-002
   global_id: t-87168
   teiginys: "Vytautas prie Vilniaus apgyvendino iš Azovo atsivežtus totorius, paliko jiems senąjį tikėjimą ir suteikė žemės valdų bei laisvių."
   pagrindžia:

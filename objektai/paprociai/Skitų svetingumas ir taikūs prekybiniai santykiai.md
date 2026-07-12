@@ -48,21 +48,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193018"></a>
-- t-002
+- t-001
   global_id: t-193018
   teiginys: "Pasak Narbuto, skitai dėl svetingumo priimdavo kitų tautų pirklius ir bičiuliškai sugyveno su kaimyninėmis tautomis."
   pagrindžia:
     - c-175788
 
 <a id="claim-t-193019"></a>
-- t-003
+- t-002
   global_id: t-193019
   teiginys: "Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius."
   pagrindžia:
     - c-175789
 
 <a id="claim-t-194874"></a>
-- t-004
+- t-003
   global_id: t-194874
   teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
   pagrindžia:

@@ -90,14 +90,14 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
     - c-55460
 
 <a id="claim-t-188109"></a>
-- t-007
+- t-006
   global_id: t-188109
   teiginys: "Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai."
   pagrindžia:
     - c-171253
 
 <a id="claim-t-192485"></a>
-- t-008
+- t-007
   global_id: t-192485
   teiginys: "„Wizerunki i Roztrząsania Naukowe“ buvo sumanytas kaip šubravcų tradicijų tęsėjas, o leidinyje rašė 18 buvusių Vilniaus universiteto profesorių, 8 kiti mokslininkai ir 19 literatų."
   pagrindžia:

@@ -12,6 +12,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - valstybė
 amziai:
@@ -39,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75587"></a>
-- t-002
+- t-001
   global_id: t-75587
   teiginys: "1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos."
   pagrindžia:
     - c-73320
 
 <a id="claim-t-75588"></a>
-- t-001
+- t-002
   global_id: t-75588
   teiginys: "1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos."
   pagrindžia:

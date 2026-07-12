@@ -74,14 +74,14 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
     - c-14964
 
 <a id="claim-t-103735"></a>
-- t-007
+- t-006
   global_id: t-103735
   teiginys: "Nuo XII a. antros pusės lietuvių ginkluoti būriai rengė plėšiamuosius puolimus iki Pskovo ir Novgorodo respublikų."
   pagrindžia:
     - c-05791
 
 <a id="claim-t-103736"></a>
-- t-006
+- t-007
   global_id: t-103736
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
   pagrindžia:

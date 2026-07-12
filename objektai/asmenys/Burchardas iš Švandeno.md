@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ordinas
   - pilis
+  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -53,14 +54,14 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
     - c-60730
 
 <a id="claim-t-60098"></a>
-- t-001
+- t-003
   global_id: t-60098
   teiginys: "Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru."
   pagrindžia:
     - c-167434
 
 <a id="claim-t-60099"></a>
-- t-002
+- t-004
   global_id: t-60099
   teiginys: "Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną."
   pagrindžia:

@@ -60,14 +60,14 @@ Nenurodyta
     - c-04909
 
 <a id="claim-t-71757"></a>
-- t-003
+- t-002
   global_id: t-71757
   teiginys: "Mindaugas krikštijosi su sūnumis, žmona, gavusia Mortos vardą, ir būriu jam priklausančių žemių gyventojų."
   pagrindžia:
     - c-31354
 
 <a id="claim-t-71758"></a>
-- t-002
+- t-003
   global_id: t-71758
   teiginys: "1250 m. gale ar 1251 m. pradžioje Mindaugas priėmė krikštą."
   pagrindžia:

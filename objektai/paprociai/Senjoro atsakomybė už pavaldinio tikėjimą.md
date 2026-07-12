@@ -57,7 +57,7 @@ Nenurodyta
     - c-166725
 
 <a id="claim-t-183335"></a>
-- t-003
+- t-002
   global_id: t-183335
   teiginys: "Feodaliniuose senjoro ir pavaldinio santykiuose senjorui priskirta atsakomybė už pavaldinio išganymą."
   pagrindžia:

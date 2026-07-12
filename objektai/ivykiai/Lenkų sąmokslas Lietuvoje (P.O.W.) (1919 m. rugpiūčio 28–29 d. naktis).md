@@ -9,6 +9,7 @@ tags:
   - dokumentas
   - ivykis
   - sukilimas
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -47,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66659"></a>
-- t-002
+- t-001
   global_id: t-66659
   teiginys: "1919 m. rugpjūčio 28–29 d. naktį Lietuvos saugumo organai atliko kratą P.O.W. centre Kaune, areštavo vadus ir sužlugdė sukilimą."
   pagrindžia:
     - c-66856
 
 <a id="claim-t-66660"></a>
-- t-001
+- t-002
   global_id: t-66660
   teiginys: "P.O.W. organizacija rengė sukilimą Lietuvoje ir siekė į savo pusę patraukti karininkus bei kareivius."
   pagrindžia:

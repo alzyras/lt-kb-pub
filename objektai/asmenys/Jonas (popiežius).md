@@ -32,14 +32,14 @@ Težino jūsų garbingasis, įtakingasis bei mokytasis [as­ muo], jog mes pasiu
 ## Teiginiai
 
 <a id="claim-t-87522"></a>
-- t-002
+- t-001
   global_id: t-87522
   teiginys: "Popiežius Jonas turėjo atsiųsti pasiuntinius Gediminui, tačiau jų delsimas Gediminui kėlė didelį susirūpinimą."
   pagrindžia:
     - c-83502
 
 <a id="claim-t-87523"></a>
-- t-001
+- t-002
   global_id: t-87523
   teiginys: "Gediminas pasiuntė laišką popiežiui Jonui, prašydamas, kad šis jį apvilktų pirmuoju krikšto rūbu."
   pagrindžia:

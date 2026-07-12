@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - miestas
   - transportas
 media_total_count: '0'

@@ -46,14 +46,14 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
 ## Teiginiai
 
 <a id="claim-t-60947"></a>
-- t-002
+- t-001
   global_id: t-60947
   teiginys: "Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo."
   pagrindžia:
     - c-61581
 
 <a id="claim-t-60949"></a>
-- t-003
+- t-002
   global_id: t-60949
   teiginys: "A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m."
   pagrindžia:

@@ -43,14 +43,14 @@ media_all_json: |-
     - c-79862
 
 <a id="claim-t-83566"></a>
-- t-003
+- t-002
   global_id: t-83566
   teiginys: "Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos."
   pagrindžia:
     - c-79860
 
 <a id="claim-t-83567"></a>
-- t-002
+- t-003
   global_id: t-83567
   teiginys: "Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės."
   pagrindžia:

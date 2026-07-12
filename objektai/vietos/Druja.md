@@ -40,28 +40,28 @@ Lietuvos teritorijos linija rytuose buvo šitaip išvesta: pradedant Dauguvos up
 ## Teiginiai
 
 <a id="claim-t-83317"></a>
-- t-007
+- t-001
   global_id: t-83317
   teiginys: "Iš versmės Paplaujoje ištekantis upelis vadinosi Druja."
   pagrindžia:
     - c-79673
 
 <a id="claim-t-83319"></a>
-- t-004
+- t-002
   global_id: t-83319
   teiginys: "1538 m. Žygimanto Augusto laiške minima Drujos upė Paplaujoje, iš kurios vanduo vamzdžiais buvo nuvestas į miestą."
   pagrindžia:
     - c-79673
 
 <a id="claim-t-83320"></a>
-- t-006
+- t-003
   global_id: t-83320
   teiginys: "Sapiegų senjorai Vilniuje paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   pagrindžia:
     - c-79675
 
 <a id="claim-t-83321"></a>
-- t-001
+- t-004
   global_id: t-83321
   teiginys: "Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą."
   pagrindžia:

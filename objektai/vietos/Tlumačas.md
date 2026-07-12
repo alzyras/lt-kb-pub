@@ -36,14 +36,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187354"></a>
-- t-002
+- t-001
   global_id: t-187354
   teiginys: "Tlumačas lokalizuojamas vakarų Ukrainos dalyje prie Stanislavo."
   pagrindžia:
     - c-170371
 
 <a id="claim-t-187355"></a>
-- t-001
+- t-002
   global_id: t-187355
   teiginys: "1440 m. birželio 6 d. Švitrigaila pasirodė Lenkijai priklausiusioje vakarų Ukrainos dalyje, Tlumače prie Stanislavo."
   pagrindžia:

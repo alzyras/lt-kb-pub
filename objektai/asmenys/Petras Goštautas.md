@@ -95,49 +95,49 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157534
 
 <a id="claim-t-54991"></a>
-- t-006
+- t-005
   global_id: t-54991
   teiginys: "Grzybowski teigė, kad Petras Goštautas Krokuvoje tapo pranciškonu, Vilniuje įkūrė vienuolyną ir 1341 m. buvo nukankintas."
   pagrindžia:
     - c-55534
 
 <a id="claim-t-54992"></a>
-- t-007
+- t-006
   global_id: t-54992
   teiginys: "Po pranciškonų žudynių Goštautas palaidojo nukankintuosius, vėl atkvietė vienuolius iš Lenkijos ir pastatydino Mergelės Marijos bažnyčią bei vienuolyną Smėlynėje."
   pagrindžia:
     - c-55535
 
 <a id="claim-t-54993"></a>
-- t-009
+- t-007
   global_id: t-54993
   teiginys: "Petras Goštautas tradicijoje vadintas kunigaikščio Algirdo laikų didiku ir Vilniaus vaivada."
   pagrindžia:
     - c-157540
 
 <a id="claim-t-173205"></a>
-- t-016
+- t-008
   global_id: t-173205
   teiginys: "Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui."
   pagrindžia:
     - c-157540
 
 <a id="claim-t-173207"></a>
-- t-010
+- t-009
   global_id: t-173207
   teiginys: "Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje."
   pagrindžia:
     - c-157538
 
 <a id="claim-t-173208"></a>
-- t-011
+- t-010
   global_id: t-173208
   teiginys: "Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje."
   pagrindžia:
     - c-157537
 
 <a id="claim-t-173209"></a>
-- t-014
+- t-011
   global_id: t-173209
   teiginys: "Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę."
   pagrindžia:
@@ -151,49 +151,49 @@ Petras Goštautas siejamas su pranciškonų globa Vilniuje, katalikybės rėmimu
     - c-157534
 
 <a id="claim-t-173211"></a>
-- t-015
+- t-013
   global_id: t-173211
   teiginys: "Petras Goštautas palaidojo nukankintus vienuolius, pakvietė naujų pranciškonų iš Lenkijos ir Smėlynėje pastatydino bažnyčią bei vienuolyną."
   pagrindžia:
     - c-55535
 
 <a id="claim-t-184820"></a>
-- t-017
+- t-014
   global_id: t-184820
   teiginys: "Pergalingoje kovoje Surminas neteko savo brolio Goštauto ir kitų narsių karių."
   pagrindžia:
     - c-168181
 
 <a id="claim-t-184821"></a>
-- t-018
+- t-015
   global_id: t-184821
   teiginys: "Petras Goštautas įsakė surasti nužudytų vienuolių kūnus ir palaidoti juos aikštėje, kur jie skelbė Kristaus žodį."
   pagrindžia:
     - c-168182
 
 <a id="claim-t-184822"></a>
-- t-019
+- t-016
   global_id: t-184822
   teiginys: "Algirdui paskelbus Podolę savo valda, Petras Goštautas buvo paskirtas jos seniūnu."
   pagrindžia:
     - c-168183
 
 <a id="claim-t-184823"></a>
-- t-020
+- t-017
   global_id: t-184823
   teiginys: "Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio."
   pagrindžia:
     - c-168184
 
 <a id="claim-t-193971"></a>
-- t-021
+- t-018
   global_id: t-193971
   teiginys: "Kai krikštijosi, pereidamas į lenkų tikėjimą, davė jam Petro vardą 3 ."
   pagrindžia:
     - c-176596
 
 <a id="claim-t-193972"></a>
-- t-022
+- t-019
   global_id: t-193972
   teiginys: "Tasai Petras Goš tautas pirmas priėmė Romos tikėjimą ir parnešė jį j Lietuvą l0 ."
   pagrindžia:

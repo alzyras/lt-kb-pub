@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07800"></a>
-- t-004
+- t-001
   global_id: t-07800
   teiginys: "Jaunas žemaitis į bažnyčią ar į mugę mieliau joja, negu važiuoja vežimu."
   pagrindžia:

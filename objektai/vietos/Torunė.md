@@ -49,7 +49,7 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
 ## Teiginiai
 
 <a id="claim-t-175431"></a>
-- t-014
+- t-001
   global_id: t-175431
   teiginys: "Stalininkas Druzigeris Torunėje klaidingai pranešė, kad krikščionių kariuomenė žuvo mūšyje."
   pagrindžia:
@@ -63,98 +63,98 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
     - c-159558
 
 <a id="claim-t-175433"></a>
-- t-004
+- t-003
   global_id: t-175433
   teiginys: "Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų."
   pagrindžia:
     - c-159574
 
 <a id="claim-t-175435"></a>
-- t-006
+- t-004
   global_id: t-175435
   teiginys: "Stepono Batoro dokumentas buvo duotas Torunėje 1576 m. gruodžio 20 d."
   pagrindžia:
     - c-159570
 
 <a id="claim-t-175436"></a>
-- t-003
+- t-005
   global_id: t-175436
   teiginys: "Sužinoję apie Gedimino skundą popiežiui, Torunės, Kulmo, Braunsbergo ir Neuenbergo gvardijonai stojo ginti kryžiuočių."
   pagrindžia:
     - c-159568
 
 <a id="claim-t-175437"></a>
-- t-010
+- t-006
   global_id: t-175437
   teiginys: "1236 m. Torunės miestas buvo perkeltas į dabartinės Torunės vietą."
   pagrindžia:
     - c-159562
 
 <a id="claim-t-175438"></a>
-- t-019
+- t-007
   global_id: t-175438
   teiginys: "Torunę 1235 m. pastatė kryžiuočiai, Teutonų ordinui gausinant miestus ir pilis Baltijos pakrantėse."
   pagrindžia:
     - c-159558
 
 <a id="claim-t-175440"></a>
-- t-021
+- t-008
   global_id: t-175440
   teiginys: "1576 m. gruodžio 20 d. laiškas buvo duotas Torunėje."
   pagrindžia:
     - c-159565
 
 <a id="claim-t-175441"></a>
-- t-007
+- t-009
   global_id: t-175441
   teiginys: "XVII a. Torunės magistrato bibliotekos nuorašas buvo padarytas iš Karaliaučiaus bibliotekos teksto."
   pagrindžia:
     - c-159569
 
 <a id="claim-t-175442"></a>
-- t-001
+- t-010
   global_id: t-175442
   teiginys: "1231 m. Ordino magistras Kulmo žemėje pastatė Torunės pilį, po to prasidėjo sisteminga agresija prieš prūsus."
   pagrindžia:
     - c-159567
 
 <a id="claim-t-175443"></a>
-- t-012
+- t-011
   global_id: t-175443
   teiginys: "Magistras su Torunės broliais ir kunigaikščiu Kazimieru žygiavo stabdyti naujos Sventopelko pilies statybos."
   pagrindžia:
     - c-159577
 
 <a id="claim-t-175444"></a>
-- t-013
+- t-012
   global_id: t-175444
   teiginys: "Vienas Krokuvos kilmingasis į Torunės pilį pasiuntė tris laivus su maistu ir gėrimais, 300 jaučių bei karvių ir daug kinkomų gyvulių."
   pagrindžia:
     - c-159575
 
 <a id="claim-t-175445"></a>
-- t-020
+- t-013
   global_id: t-175445
   teiginys: "Torunės gvardijonas kartu su kitais dvasininkais laiškuose popiežiui gynė kryžiuočius nuo Gedimino skundo."
   pagrindžia:
     - c-159568
 
 <a id="claim-t-175446"></a>
-- t-009
+- t-014
   global_id: t-175446
   teiginys: "Dusburgietis prūsų pilių vietas prie Torunės aprašė remdamasis ir kitų pasakojimais."
   pagrindžia:
     - c-159571
 
 <a id="claim-t-175448"></a>
-- t-016
+- t-015
   global_id: t-175448
   teiginys: "Prie Torunės priėjusi kariuomenė sudegino ligoninę ir kitus už miesto sienų buvusius degius objektus."
   pagrindžia:
     - c-159561
 
 <a id="claim-t-175449"></a>
-- t-011
+- t-016
   global_id: t-175449
   teiginys: "Dabartinės Torunės pilies vietoje 1000–500 m. pr. m. e. buvo lužitėnų kultūros gyvenvietė."
   pagrindžia:

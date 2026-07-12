@@ -19,6 +19,7 @@ tags:
   - ivykis
   - kraštas
   - krikštas
+  - šventė
 amziai:
   - 'XI'
 media_total_count: '0'
@@ -63,7 +64,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
 ## Teiginiai
 
 <a id="claim-t-10801"></a>
-- t-004
+- t-001
   global_id: t-10801
   teiginys: "Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte."
   pagrindžia:

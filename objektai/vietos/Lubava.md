@@ -40,42 +40,42 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 <a id="claim-t-58347"></a>
-- t-004
+- t-001
   global_id: t-58347
   teiginys: "Lubava buvo gyvenvietė į rytus nuo Drevantos aukštupio."
   pagrindžia:
     - c-58984
 
 <a id="claim-t-58348"></a>
-- t-006
+- t-002
   global_id: t-58348
   teiginys: "1303 m. penkiasdešimt plėšikautojų iš Lietuvos įsibrovė į Lubavos žemę ir apiplėšė daug kaimų."
   pagrindžia:
     - c-58979
 
 <a id="claim-t-58349"></a>
-- t-001
+- t-003
   global_id: t-58349
   teiginys: "Petro iš Dusburgo kronikoje Kulmo ir Lubavo sritis nurodyta kaip pirmoji iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-58980
 
 <a id="claim-t-58350"></a>
-- t-005
+- t-004
   global_id: t-58350
   teiginys: "1302 m. plėšikautojai iš Lietuvos užpuolė penkis Lubavos žemės kaimus ir nužudė ar išsivarė į nelaisvę beveik 200 krikščionių."
   pagrindžia:
     - c-58982
 
 <a id="claim-t-58351"></a>
-- t-002
+- t-005
   global_id: t-58351
   teiginys: "Pavyslyje, ypač Kulmo ir Lubavo srityse, gyventojai buvo mišrūs: lenkai ir prūsai."
   pagrindžia:
     - c-58981
 
 <a id="claim-t-58352"></a>
-- t-003
+- t-006
   global_id: t-58352
   teiginys: "Sūduviai įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
   pagrindžia:

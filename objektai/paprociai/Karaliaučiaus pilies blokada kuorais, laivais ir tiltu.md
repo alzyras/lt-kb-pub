@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62678"></a>
-- t-002
+- t-001
   global_id: t-62678
   teiginys: "Prūsai pasistatydino daug laivų, kad naikintų maistą į Karaliaučiaus pilį gabenusius brolių laivus."
   pagrindžia:
@@ -60,7 +60,7 @@ Nenurodyta
     - c-63420
 
 <a id="claim-t-62679"></a>
-- t-001
+- t-002
   global_id: t-62679
   teiginys: "Karaliaučiaus pilį, kaip ir Kroicburgo bei Bartenšteino pilis, apgulėjai apsupo trimis stipriais kuorais."
   pagrindžia:

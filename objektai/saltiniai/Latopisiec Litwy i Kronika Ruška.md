@@ -43,35 +43,35 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 ## Teiginiai
 
 <a id="claim-t-55218"></a>
-- t-002
+- t-001
   global_id: t-55218
   teiginys: "Latopisiec Litwy i Kronika Ruška nurodomas kaip šaltinis dėl Šv. Mikalojaus bažnyčios Vilniuje."
   pagrindžia:
     - c-55644
 
 <a id="claim-t-55219"></a>
-- t-005
+- t-002
   global_id: t-55219
   teiginys: "Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli."
   pagrindžia:
     - c-55646
 
 <a id="claim-t-82002"></a>
-- t-006
+- t-003
   global_id: t-82002
   teiginys: "„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki."
   pagrindžia:
     - c-78515
 
 <a id="claim-t-82003"></a>
-- t-007
+- t-004
   global_id: t-82003
   teiginys: "„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje."
   pagrindžia:
     - c-78514
 
 <a id="claim-t-82004"></a>
-- t-008
+- t-005
   global_id: t-82004
   teiginys: "„Latopisiec Litwy i Kronika Ruška“ mini, kad lenkų įgula Aukštutinėje pilyje neįsileido kunigaikščio Karigailos."
   pagrindžia:

@@ -38,14 +38,14 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 ## Teiginiai
 
 <a id="claim-t-30925"></a>
-- t-002
+- t-001
   global_id: t-30925
   teiginys: "Petras Suchenwirtas savo eilėse vaizdingai iškėlė Lietuvos miškų ir raistų pavojus riteriams."
   pagrindžia:
     - c-33106
 
 <a id="claim-t-30926"></a>
-- t-001
+- t-002
   global_id: t-30926
   teiginys: "Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone."
   pagrindžia:

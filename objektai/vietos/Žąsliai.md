@@ -38,21 +38,21 @@ Tačiau lietuvių puolimas užstrigo ir Lietuvos kariuomenei pavyko tik išvaduo
 ## Teiginiai
 
 <a id="claim-t-187198"></a>
-- t-004
+- t-001
   global_id: t-187198
   teiginys: "1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui."
   pagrindžia:
     - c-170275
 
 <a id="claim-t-187198"></a>
-- t-004
+- t-002
   global_id: t-187198
   teiginys: "1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui."
   pagrindžia:
     - c-170275
 
 <a id="claim-t-187200"></a>
-- t-001
+- t-003
   global_id: t-187200
   teiginys: "Lietuvos kariuomenei pavyko išvaduoti Žąslius, nors lietuvių puolimas užstrigo."
   pagrindžia:

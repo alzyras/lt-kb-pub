@@ -16,6 +16,7 @@ tags:
   - ginklas
   - ivykis
   - miestas
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -56,21 +57,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75278"></a>
-- t-002
+- t-001
   global_id: t-75278
   teiginys: "Represinės institucijos trėmė partizanų šeimas ir rėmėjus, kankino pasipriešinimo dalyvius bei viešai niekino žuvusių partizanų kūnus."
   pagrindžia:
     - c-23218
 
 <a id="claim-t-75279"></a>
-- t-003
+- t-002
   global_id: t-75279
   teiginys: "Dislokuoti visuose valsčiuose jie saugojo sovietinį aktyvą."
   pagrindžia:
     - c-73109
 
 <a id="claim-t-183275"></a>
-- t-004
+- t-003
   global_id: t-183275
   teiginys: "Kovai su Lietuvos partizanais 1945 m. vasarą Lietuvoje buvo dislokuota iki 20 tūkst., o 1946 m. apie 14 tūkst. NKVD karių."
   pagrindžia:

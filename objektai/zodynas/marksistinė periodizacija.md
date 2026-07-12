@@ -9,7 +9,9 @@ date_start: '1861'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - teisinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

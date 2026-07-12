@@ -45,105 +45,105 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
 ## Teiginiai
 
 <a id="claim-t-89233"></a>
-- t-004
+- t-001
   global_id: t-89233
   teiginys: "Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista."
   pagrindžia:
     - c-85225
 
 <a id="claim-t-89234"></a>
-- t-001
+- t-002
   global_id: t-89234
   teiginys: "Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje."
   pagrindžia:
     - c-85226
 
 <a id="claim-t-89235"></a>
-- t-009
+- t-003
   global_id: t-89235
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį netoli Bartenšteino."
   pagrindžia:
     - c-85214
 
 <a id="claim-t-89236"></a>
-- t-018
+- t-004
   global_id: t-89236
   teiginys: "Magistras su kariuomene įsiveržė į Sūduvos Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti pilį."
   pagrindžia:
     - c-85216
 
 <a id="claim-t-89237"></a>
-- t-008
+- t-005
   global_id: t-89237
   teiginys: "Sūduviai su didele kariuomene apsiautė Bartenšteino pilį, ją sugriovė, o visus gyventojus išžudė arba išsivarė į nelaisvę."
   pagrindžia:
     - c-85222
 
 <a id="claim-t-89238"></a>
-- t-019
+- t-006
   global_id: t-89238
   teiginys: "Konradas iš Tirbergo su daug brolių ir 1500 raitelių įsiveržė į Sūduvos Kimenavos valsčių, jį nusiaubė ir išsivarė 1000 belaisvių."
   pagrindžia:
     - c-85227
 
 <a id="claim-t-89239"></a>
-- t-015
+- t-007
   global_id: t-89239
   teiginys: "Tepliavos komtūras Ulrichas Bajeris su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, degino ir grobė kraštą."
   pagrindžia:
     - c-85219
 
 <a id="claim-t-89240"></a>
-- t-003
+- t-008
   global_id: t-89240
   teiginys: "Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę."
   pagrindžia:
     - c-85223
 
 <a id="claim-t-89241"></a>
-- t-012
+- t-009
   global_id: t-89241
   teiginys: "Prie Vinso miško brolių kariuomenę pasivijo 3000 rinktinių sūduvių vyrų, bet broliai juos užpuolė ir privertė trauktis."
   pagrindžia:
     - c-85227
 
 <a id="claim-t-89242"></a>
-- t-006
+- t-010
   global_id: t-89242
   teiginys: "Skomantas su sūduviais įsiveržė į Kulmo žemę, padalijo kariuomenę ir niokojo kelią į Torunę bei Kulmo miestą."
   pagrindžia:
     - c-85229
 
 <a id="claim-t-89243"></a>
-- t-007
+- t-011
   global_id: t-89243
   teiginys: "Skomantas, sūduvių vadas, su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
   pagrindžia:
     - c-85218
 
 <a id="claim-t-89244"></a>
-- t-011
+- t-012
   global_id: t-89244
   teiginys: "Dusburgietis sūduvius vadina paskutine ir galingiausia neužkariauta Prūsijos žemės gentimi."
   pagrindžia:
     - c-85230
 
 <a id="claim-t-89245"></a>
-- t-002
+- t-013
   global_id: t-89245
   teiginys: "1277 m. Skomanto vadovaujama sūduvių ir lietuvių kariuomenė siaubė Ordino valdas Pavyslyje iki Kristburgo."
   pagrindžia:
     - c-85221
 
 <a id="claim-t-89246"></a>
-- t-013
+- t-014
   global_id: t-89246
   teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
   pagrindžia:
     - c-85215
 
 <a id="claim-t-89247"></a>
-- t-005
+- t-015
   global_id: t-89247
   teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
   pagrindžia:
@@ -157,42 +157,42 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
     - c-85212
 
 <a id="claim-t-89249"></a>
-- t-014
+- t-017
   global_id: t-89249
   teiginys: "Magistro Mangoldo vadovavimo metais sūduviai pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę."
   pagrindžia:
     - c-85228
 
 <a id="claim-t-89250"></a>
-- t-017
+- t-018
   global_id: t-89250
   teiginys: "Liudvikas iš Libencelės į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių."
   pagrindžia:
     - c-85213
 
 <a id="claim-t-89251"></a>
-- t-010
+- t-019
   global_id: t-89251
   teiginys: "Spalio 21 d. Skomantas su 4000 sūduvių ir stipria lietuvių kariuomene įsiveržė į Kulmo žemę keršyti už savųjų žūtį."
   pagrindžia:
     - c-85224
 
 <a id="claim-t-89247"></a>
-- t-005
+- t-020
   global_id: t-89247
   teiginys: "Sūduviai su didele kariuomene įsiveržė į Lubavos žemę ir visiškai sugriovė Lubavos pilį bei miestą."
   pagrindžia:
     - c-85220
 
 <a id="claim-t-89246"></a>
-- t-013
+- t-021
   global_id: t-89246
   teiginys: "Sūduviai su palyginti nedidele kariuomene įsiveržė į Notangą, apiplėšė nedidelę jos dalį ir pasitraukė."
   pagrindžia:
     - c-85215
 
 <a id="claim-t-89248"></a>
-- t-016
+- t-022
   global_id: t-89248
   teiginys: "Skomantas, sūduvių vadas, gavo belaisvį Liudviką iš Libencelės ir pamėgo jį dėl drąsos."
   pagrindžia:

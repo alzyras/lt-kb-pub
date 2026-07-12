@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - ivykis
   - karalius
-  - valdovas
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -63,14 +63,14 @@ Nenurodyta
     - c-22928
 
 <a id="claim-t-75099"></a>
-- t-005
+- t-002
   global_id: t-75099
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   pagrindžia:
     - c-73014
 
 <a id="claim-t-75099"></a>
-- t-005
+- t-003
   global_id: t-75099
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją."
   pagrindžia:
@@ -84,14 +84,14 @@ Nenurodyta
     - c-166609
 
 <a id="claim-t-75103"></a>
-- t-003
+- t-005
   global_id: t-75103
   teiginys: "Konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
   pagrindžia:
     - c-22930
 
 <a id="claim-t-75102"></a>
-- t-004
+- t-006
   global_id: t-75102
   teiginys: "Gegužės trečiosios konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   pagrindžia:

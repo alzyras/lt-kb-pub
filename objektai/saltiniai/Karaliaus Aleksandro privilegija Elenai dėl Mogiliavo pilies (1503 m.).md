@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88255"></a>
-- t-002
+- t-001
   global_id: t-88255
   teiginys: "Aleksandras Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jai priklausančiomis žemėmis ir valdomis."
   pagrindžia:
     - c-84234
 
 <a id="claim-t-88257"></a>
-- t-003
+- t-002
   global_id: t-88257
   teiginys: "1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais."
   pagrindžia:

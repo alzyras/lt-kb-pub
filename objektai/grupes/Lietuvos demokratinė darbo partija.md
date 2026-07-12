@@ -38,14 +38,14 @@ LDDP Lietuvos demokratinė darbo partija. Taip atsirado nacionalinė eurokomunis
 ## Teiginiai
 
 <a id="claim-t-169677"></a>
-- t-002
+- t-001
   global_id: t-169677
   teiginys: "Savarankiška LKP, vėliau pasivadinusi Lietuvos demokratine darbo partija, pasirinko socialdemokratinę orientaciją."
   pagrindžia:
     - c-154381
 
 <a id="claim-t-169680"></a>
-- t-005
+- t-002
   global_id: t-169680
   teiginys: "Lietuvos politiniame gyvenime dominavo LDDP, vėliau susivienijusi su Lietuvos socialdemokratais ir tapusi LSDP."
   pagrindžia:

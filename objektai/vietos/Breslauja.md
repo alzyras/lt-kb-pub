@@ -64,14 +64,14 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     - c-170276
 
 <a id="claim-t-187204"></a>
-- t-005
+- t-004
   global_id: t-187204
   teiginys: "Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui."
   pagrindžia:
     - c-170276
 
 <a id="claim-t-187205"></a>
-- t-004
+- t-005
   global_id: t-187205
   teiginys: "Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis."
   pagrindžia:

@@ -57,168 +57,168 @@ Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo voki
 ## Teiginiai
 
 <a id="claim-t-195055"></a>
-- t-023
+- t-001
   global_id: t-195055
   teiginys: "XII amžiuje buvo geriau susipažinta su tolimesnėmis Baltijos jūros pakrantėmis."
   pagrindžia:
     - c-177455
 
 <a id="claim-t-195056"></a>
-- t-006
+- t-002
   global_id: t-195056
   teiginys: "Versalyje Lietuvos delegacija kėlė Rytų Prūsijos perdavimo Lietuvai ir išėjimo į Baltijos jūrą per Klaipėdą klausimą."
   pagrindžia:
     - c-177441
 
 <a id="claim-t-195057"></a>
-- t-004
+- t-003
   global_id: t-195057
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę."
   pagrindžia:
     - c-177460
 
 <a id="claim-t-195058"></a>
-- t-017
+- t-004
   global_id: t-195058
   teiginys: "Narbutas pritarė stebėjimais grindžiamai išvadai, kad Baltijos jūra senka."
   pagrindžia:
     - c-177448
 
 <a id="claim-t-195059"></a>
-- t-012
+- t-005
   global_id: t-195059
   teiginys: "Narbutas kimbrų pasitraukimą iš Baltijos jūros pakrančių aiškino stichine nelaime Šiaurės Europoje po maždaug penkių jų gyvenimo ten amžių."
   pagrindžia:
     - c-177452
 
 <a id="claim-t-195060"></a>
-- t-005
+- t-006
   global_id: t-195060
   teiginys: "XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą."
   pagrindžia:
     - c-177440
 
 <a id="claim-t-195061"></a>
-- t-020
+- t-007
   global_id: t-195061
   teiginys: "Pasibaigus karams su vokiečių ordinu, atsidarė prekybos keliai į Baltijos jūrą, kur ėmė klestėti prekyba."
   pagrindžia:
     - c-24063
 
 <a id="claim-t-195062"></a>
-- t-019
+- t-008
   global_id: t-195062
   teiginys: "Itin gyva pasidarė prekyba Šiaurės ir Baltijos jūrose; čia įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinamoji Hanza."
   pagrindžia:
     - c-177450
 
 <a id="claim-t-195063"></a>
-- t-021
+- t-009
   global_id: t-195063
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   pagrindžia:
     - c-177445
 
 <a id="claim-t-195064"></a>
-- t-008
+- t-010
   global_id: t-195064
   teiginys: "Narbutas lietuvių rugiapjūtės dainų posakį „Garu Kotu“ siejo su padavimu apie Plinijaus minimą saulės, arba Apolono, garbinimą prie Baltijos jūros."
   pagrindžia:
     - c-177446
 
 <a id="claim-t-195065"></a>
-- t-002
+- t-011
   global_id: t-195065
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   pagrindžia:
     - c-177458
 
 <a id="claim-t-195066"></a>
-- t-013
+- t-012
   global_id: t-195066
   teiginys: "Narbutas aiškino, kad skitai gintarą turėjo gauti keliu palei į Baltijos jūrą įtekančią upę, labiausiai tapatintiną su Nemunu."
   pagrindžia:
     - c-177454
 
 <a id="claim-t-195067"></a>
-- t-022
+- t-013
   global_id: t-195067
   teiginys: "Šie pokyčiai labiausiai pa veikė Baltijos jūros pakrantes tarp Vyslos ir Dauguvos žiočių; žemės ¡gelmių sluoksniai, linkę į vulkaninius ju desius, taip pat įrodo, kad kitados Prūsijoje vyko žemės drebėjimai2."
   pagrindžia:
     - c-177456
 
 <a id="claim-t-195068"></a>
-- t-010
+- t-014
   global_id: t-195068
   teiginys: "Narbutas Palangą laikė senu uostamiesčiu, tai aiškindamas aukštesniu Baltijos jūros vandens lygiu arba dar smėliu neužnešta pakrante."
   pagrindžia:
     - c-177461
 
 <a id="claim-t-195069"></a>
-- t-001
+- t-015
   global_id: t-195069
   teiginys: "XIII amžiuje Teutonų ordinas Baltijos pakrantėse pagausino miestų ir pilių."
   pagrindžia:
     - c-177457
 
 <a id="claim-t-195070"></a>
-- t-003
+- t-016
   global_id: t-195070
   teiginys: "Lietuvių tauta, skirstyta į šešias pagrindines atšakas, užėmė Baltijos pakrantę nuo Dvinos iki Vyslos."
   pagrindžia:
     - c-177439
 
 <a id="claim-t-195071"></a>
-- t-016
+- t-017
   global_id: t-195071
   teiginys: "Narbutas Tikrosios Prūsijos sieną vedė Vyslos žemupiu, Baltijos jūra iki Nemunyno žiočių, toliau link Rusios, Širvintos ir Mazovijos."
   pagrindžia:
     - c-177453
 
 <a id="claim-t-195072"></a>
-- t-024
+- t-018
   global_id: t-195072
   teiginys: "Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros."
   pagrindžia:
     - c-177449
 
 <a id="claim-t-195073"></a>
-- t-009
+- t-019
   global_id: t-195073
   teiginys: "Narbutas čeltyčias apibūdino kaip Baltijos jūros vandenų nimfas, pajūrio žemaičių vaizduotėje gyvenusias gintaro rūmuose jūros gelmėse."
   pagrindžia:
     - c-177451
 
 <a id="claim-t-195074"></a>
-- t-018
+- t-020
   global_id: t-195074
   teiginys: "Narbutas aiškino, kad į pietus nuo Baltijos krantų vandens atneštos nuolaužos sudarė naujus, gilius ir kai kur apsemtus žemės sluoksnius."
   pagrindžia:
     - c-177459
 
 <a id="claim-t-195075"></a>
-- t-015
+- t-021
   global_id: t-195075
   teiginys: "Narbutas perteikia Tunmano nuomonę, kad lietuvių tautos tėvai, atsikėlę prie Baltijos jūros, tuojau užėmė Sembą ir gintaro kasyklas."
   pagrindžia:
     - c-177447
 
 <a id="claim-t-195076"></a>
-- t-014
+- t-022
   global_id: t-195076
   teiginys: "Narbutas pasakoja, kad atvykėliai iš Juodosios jūros per miškingas stepes, vadintas Rusija, Podolija ir Lietuva, prasiskverbė iki Baltijos jūros."
   pagrindžia:
     - c-177443
 
 <a id="claim-t-195077"></a>
-- t-007
+- t-023
   global_id: t-195077
   teiginys: "Livonijos kariai pasuko prie Baltijos jūros, tikėdamiesi ties Palanga rasti retesnių medžių ir lygesnį kelią."
   pagrindžia:
     - c-177442
 
 <a id="claim-t-195078"></a>
-- t-011
+- t-024
   global_id: t-195078
   teiginys: "Narbutas teigė, kad Krivių Krivaičio valdžia anksčiau apėmė žemes nuo Vyslos iki Dauguvos ir nuo Baltijos jūros į Rusios gilumą."
   pagrindžia:

@@ -57,28 +57,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54251"></a>
-- t-002
+- t-001
   global_id: t-54251
   teiginys: "Lietuvių spaudos draudimo laikotarpiu Rytprūsiuose išleista daugiau kaip 1 800 lietuviškų knygų pavadinimų."
   pagrindžia:
     - c-166704
 
 <a id="claim-t-54252"></a>
-- t-003
+- t-002
   global_id: t-54252
   teiginys: "Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje."
   pagrindžia:
     - c-55148
 
 <a id="claim-t-54254"></a>
-- t-001
+- t-003
   global_id: t-54254
   teiginys: "Lietuviška spauda tradiciniu raidynu buvo spausdinama Rytprūsiuose ir nelegaliai platinama Lietuvoje."
   pagrindžia:
     - c-55148
 
 <a id="claim-t-183314"></a>
-- t-005
+- t-004
   global_id: t-183314
   teiginys: "Nepaisant griežtų bausmių knygnešiams, nelegalus lietuviškos spaudos platinimas palaikė spaudos srautą į Lietuvą."
   pagrindžia:

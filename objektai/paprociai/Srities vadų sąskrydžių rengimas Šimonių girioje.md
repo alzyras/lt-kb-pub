@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09606"></a>
-- t-004
+- t-001
   global_id: t-09606
   teiginys: "Šimonių girioje būdavo rengiami srities vadų sąskrydžiai."
   pagrindžia:
     - c-12355
 
 <a id="claim-t-09607"></a>
-- t-003
+- t-002
   global_id: t-09607
   teiginys: "Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai."
   pagrindžia:

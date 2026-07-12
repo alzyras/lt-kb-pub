@@ -36,21 +36,21 @@ Lietuva, įstojusi į ES, gali Briuselyje reikšti savo poziciją įvairiais kla
 ## Teiginiai
 
 <a id="claim-t-74105"></a>
-- t-003
+- t-001
   global_id: t-74105
   teiginys: "Lietuvai įstojus į ES, Europos Parlamente jai atstovavo 12 europarlamentarų."
   pagrindžia:
     - c-72173
 
 <a id="claim-t-74106"></a>
-- t-001
+- t-002
   global_id: t-74106
   teiginys: "Lietuva, įstojusi į ES, Europos Parlamente turėjo 12 europarlamentarų."
   pagrindžia:
     - c-72173
 
 <a id="claim-t-74107"></a>
-- t-002
+- t-003
   global_id: t-74107
   teiginys: "ES piliečiai turi teisę teikti peticijas Europos Parlamentui."
   pagrindžia:

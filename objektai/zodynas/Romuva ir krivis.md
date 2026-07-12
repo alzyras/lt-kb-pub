@@ -30,7 +30,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75583"></a>
-- t-003
+- t-001
   global_id: t-75583
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta nebeatsekama."
   pagrindžia:
@@ -44,7 +44,7 @@ media_all_json: |-
     - c-73317
 
 <a id="claim-t-75585"></a>
-- t-001
+- t-003
   global_id: t-75585
   teiginys: "Romuvoje pagrindinis kulto objektas buvo ugnis."
   pagrindžia:

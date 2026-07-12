@@ -40,14 +40,14 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 ## Teiginiai
 
 <a id="claim-t-35304"></a>
-- t-002
+- t-001
   global_id: t-35304
   teiginys: "1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų."
   pagrindžia:
     - c-38130
 
 <a id="claim-t-35305"></a>
-- t-001
+- t-002
   global_id: t-35305
   teiginys: "Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą."
   pagrindžia:

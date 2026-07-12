@@ -68,28 +68,28 @@ Nenurodyta
     - c-169990
 
 <a id="claim-t-186808"></a>
-- t-005
+- t-002
   global_id: t-186808
   teiginys: "Kita Bychovco kronikos rankraščio spraga vertime buvo užpildyta tekstu iš Lietuvos metraščių PS Račinskio nuorašo."
   pagrindžia:
     - c-169991
 
 <a id="claim-t-186809"></a>
-- t-004
+- t-003
   global_id: t-186809
   teiginys: "Bychovco kronikos rankraščio spraga leidime buvo užpildyta tekstu iš Lietuvos metraščių PS antrosios redakcijos Račinskių nuorašo."
   pagrindžia:
     - c-169994
 
 <a id="claim-t-186810"></a>
-- t-003
+- t-004
   global_id: t-186810
   teiginys: "Bychovco kronikos rankraštis buvo pirmykščio kirilica rašyto teksto transkripcija lotyniškais lenkiškais rašmenimis."
   pagrindžia:
     - c-169993
 
 <a id="claim-t-186811"></a>
-- t-002
+- t-005
   global_id: t-186811
   teiginys: "Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus."
   pagrindžia:

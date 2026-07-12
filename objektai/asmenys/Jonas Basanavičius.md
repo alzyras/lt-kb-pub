@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+  - redaktorius
   - tauta
 amziai:
   - 'XIX'

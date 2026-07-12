@@ -46,147 +46,147 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 ## Teiginiai
 
 <a id="claim-t-176932"></a>
-- t-018
+- t-001
   global_id: t-176932
   teiginys: "Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro."
   pagrindžia:
     - c-160882
 
 <a id="claim-t-176933"></a>
-- t-006
+- t-002
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
   pagrindžia:
     - c-12704
 
 <a id="claim-t-176936"></a>
-- t-009
+- t-003
   global_id: t-176936
   teiginys: "Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį."
   pagrindžia:
     - c-31954
 
 <a id="claim-t-176937"></a>
-- t-015
+- t-004
   global_id: t-176937
   teiginys: "1385 metų rugpjūtį didžiojo magistro Konrado Ciolnerio Rotenšteino pajėgos nuniokojo žemes iki pat Ašmenos."
   pagrindžia:
     - c-160875
 
 <a id="claim-t-176938"></a>
-- t-020
+- t-005
   global_id: t-176938
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus."
   pagrindžia:
     - c-160891
 
 <a id="claim-t-176939"></a>
-- t-017
+- t-006
   global_id: t-176939
   teiginys: "Švitrigaila savo dvare prie Ašmenos miesto turėjo tik nedidelę sargybą."
   pagrindžia:
     - c-160883
 
 <a id="claim-t-176941"></a>
-- t-012
+- t-007
   global_id: t-176941
   teiginys: "Ašmenoje buvo sukviečiami vietiniai ir apylinkių žmonės, mokomi tikėjimo tiesų ir krikštijami."
   pagrindžia:
     - c-160874
 
 <a id="claim-t-176942"></a>
-- t-021
+- t-008
   global_id: t-176942
   teiginys: "Švitrigaila buvojo savo dvare prie Ašmenos miesto ir turėjo prie savęs tik nedidelę sargybą."
   pagrindžia:
     - c-160883
 
 <a id="claim-t-176943"></a>
-- t-016
+- t-009
   global_id: t-176943
   teiginys: "1388 m. Lucke tarp liudytojų minimas Mangaila iš Ašmenos."
   pagrindžia:
     - c-160877
 
 <a id="claim-t-176944"></a>
-- t-027
+- t-010
   global_id: t-176944
   teiginys: "Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja."
   pagrindžia:
     - c-31954
 
 <a id="claim-t-176945"></a>
-- t-022
+- t-011
   global_id: t-176945
   teiginys: "Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro."
   pagrindžia:
     - c-160882
 
 <a id="claim-t-176933"></a>
-- t-006
+- t-012
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
   pagrindžia:
     - c-12704
 
 <a id="claim-t-176947"></a>
-- t-024
+- t-013
   global_id: t-176947
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
   pagrindžia:
     - c-160880
 
 <a id="claim-t-176948"></a>
-- t-010
+- t-014
   global_id: t-176948
   teiginys: "1385 m. vasarą Prūsų ordinas su didele kariuomene buvo nuėjęs iki Vilniaus ir Ašmenos."
   pagrindžia:
     - c-160892
 
 <a id="claim-t-176950"></a>
-- t-019
+- t-015
   global_id: t-176950
   teiginys: "Apie rugpjūčio 28 d. Žygimantas įsiveržė į Švitrigailos dvarą Ašmenoje, bet jo ten neberado."
   pagrindžia:
     - c-160876
 
 <a id="claim-t-176933"></a>
-- t-006
+- t-016
   global_id: t-176933
   teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus."
   pagrindžia:
     - c-12704
 
 <a id="claim-t-176952"></a>
-- t-014
+- t-017
   global_id: t-176952
   teiginys: "Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują."
   pagrindžia:
     - c-160888
 
 <a id="claim-t-176953"></a>
-- t-025
+- t-018
   global_id: t-176953
   teiginys: "Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami."
   pagrindžia:
     - c-160881
 
 <a id="claim-t-176954"></a>
-- t-023
+- t-019
   global_id: t-176954
   teiginys: "Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado."
   pagrindžia:
     - c-160876
 
 <a id="claim-t-184925"></a>
-- t-029
+- t-020
   global_id: t-184925
   teiginys: "Vytautas Ašmenoje pastatė šv. Pranciškaus ordino vienuoliams bažnyčią ir vienuolyną, kuriuos dosniai apdovanojo."
   pagrindžia:
     - c-168286
 
 <a id="claim-t-193168"></a>
-- t-030
+- t-021
   global_id: t-193168
   teiginys: "Švitrigaila buvo sąmokslininkų užpultas tuo metu, kai, vykdamas į derybas su Jogaila, nakvojo sustojęs Ašmenoje."
   pagrindžia:

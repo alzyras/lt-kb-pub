@@ -59,28 +59,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186782"></a>
-- t-004
+- t-001
   global_id: t-186782
   teiginys: "Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu."
   pagrindžia:
     - c-169978
 
 <a id="claim-t-186783"></a>
-- t-001
+- t-002
   global_id: t-186783
   teiginys: "Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį."
   pagrindžia:
     - c-169979
 
 <a id="claim-t-186784"></a>
-- t-002
+- t-003
   global_id: t-186784
   teiginys: "1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės."
   pagrindžia:
     - c-169979
 
 <a id="claim-t-186785"></a>
-- t-003
+- t-004
   global_id: t-186785
   teiginys: "Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d."
   pagrindžia:

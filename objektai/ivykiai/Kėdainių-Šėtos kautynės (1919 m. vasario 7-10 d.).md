@@ -47,49 +47,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09849"></a>
-- t-014
+- t-001
   global_id: t-09849
   teiginys: "Lietuviai, remiami maždaug 50 vokiečių kareivių, apėjo bolševikų dešinįjį sparną, paėmė 18 raudonarmiečių į nelaisvę, o bolševikai vakare paliko Kėdainių apylinkes ir traukėsi į Šėtą."
   pagrindžia:
     - c-11872
 
 <a id="claim-t-09850"></a>
-- t-009
+- t-002
   global_id: t-09850
   teiginys: "Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu."
   pagrindžia:
     - c-11867
 
 <a id="claim-t-09851"></a>
-- t-010
+- t-003
   global_id: t-09851
   teiginys: "Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys."
   pagrindžia:
     - c-11868
 
 <a id="claim-t-09852"></a>
-- t-012
+- t-004
   global_id: t-09852
   teiginys: "Kėdainių-Šėtos kautynėse vokiečių kulkosvaidininkas perėmė kulkosvaidį ir sustabdė bolševikų mėginimą apsupti žvalgus."
   pagrindžia:
     - c-11870
 
 <a id="claim-t-09853"></a>
-- t-011
+- t-005
   global_id: t-09853
   teiginys: "Kėdainių-Šėtos kautynėse prie Taučiūnų kaimo Lukšio padrąsinti lietuviai išsiskleidė į grandį ir atidengė atsakomąją ugnį."
   pagrindžia:
     - c-11869
 
 <a id="claim-t-09854"></a>
-- t-013
+- t-006
   global_id: t-09854
   teiginys: "Kėdainių-Šėtos kautynėse P. Lukšys žuvo, kai į žvalgus pasipylė ugnis iš Taučiūnų dvaro."
   pagrindžia:
     - c-11871
 
 <a id="claim-t-09855"></a>
-- t-008
+- t-007
   global_id: t-09855
   teiginys: "Kėdainių gynybai vadovavę J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių šautuvų ugnimi sustabdė bolševikų puolimą."
   pagrindžia:

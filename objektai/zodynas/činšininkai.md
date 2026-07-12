@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - sąvoka
 amziai:
   - 'XIX'

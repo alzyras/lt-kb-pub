@@ -37,7 +37,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
 ## Teiginiai
 
 <a id="claim-t-09682"></a>
-- t-002
+- t-001
   global_id: t-09682
   teiginys: "Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros."
   pagrindžia:

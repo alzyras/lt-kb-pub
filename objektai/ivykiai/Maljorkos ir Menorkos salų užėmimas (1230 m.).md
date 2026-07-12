@@ -59,7 +59,7 @@ Nenurodyta
     - c-62985
 
 <a id="claim-t-62388"></a>
-- t-001
+- t-002
   global_id: t-62388
   teiginys: "1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, kurios anksčiau buvo užimtos saracėnų."
   pagrindžia:

@@ -29,14 +29,14 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 ## Teiginiai
 
 <a id="claim-t-187323"></a>
-- t-002
+- t-001
   global_id: t-187323
   teiginys: "Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto."
   pagrindžia:
     - c-170354
 
 <a id="claim-t-187324"></a>
-- t-001
+- t-002
   global_id: t-187324
   teiginys: "Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe."
   pagrindžia:

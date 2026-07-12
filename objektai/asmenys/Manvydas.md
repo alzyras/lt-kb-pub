@@ -51,21 +51,21 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
     - c-83354
 
 <a id="claim-t-87375"></a>
-- t-003
+- t-002
   global_id: t-87375
   teiginys: "1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų."
   pagrindžia:
     - c-83353
 
 <a id="claim-t-87376"></a>
-- t-004
+- t-003
   global_id: t-87376
   teiginys: "Trakų vaivada Manvydas įspėjo Švitrigailą, todėl šis, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas."
   pagrindžia:
     - c-83355
 
 <a id="claim-t-87377"></a>
-- t-002
+- t-004
   global_id: t-87377
   teiginys: "Šlaito nuošliaužos užslinko ant vaivados Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir turtus."
   pagrindžia:

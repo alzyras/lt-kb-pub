@@ -41,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-19102"></a>
-- t-002
+- t-001
   global_id: t-19102
   teiginys: "Laurynas Gucevičius laikomas vienu ryškiausių Lietuvos menininkų, susiejusių savo likimą su krašto likimu."
   pagrindžia:
     - c-21852
 
 <a id="claim-t-19103"></a>
-- t-001
+- t-002
   global_id: t-19103
   teiginys: "Laurynas Gucevičius buvo žymiausias Lietuvos klasicizmo kūrėjas ir 1782 m. pradėjo Vilniaus katedros, o 1786 m. Vilniaus rotušės rekonstrukciją."
   pagrindžia:

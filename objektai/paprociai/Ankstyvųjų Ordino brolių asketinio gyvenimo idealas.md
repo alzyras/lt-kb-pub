@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62665"></a>
-- t-002
+- t-001
   global_id: t-62665
   teiginys: "Dusburgietis siekė išaukštinti Ordine jau užmirštus pirminius idealus."
   pagrindžia:
     - c-63395
 
 <a id="claim-t-62666"></a>
-- t-001
+- t-002
   global_id: t-62666
   teiginys: "Kronikos pratarmėje Dusburgietis idealizuoja pirmuosius Ordino brolius, pasirinkusius neturtą, pavojus, rūpesčius ir vienatvę."
   pagrindžia:

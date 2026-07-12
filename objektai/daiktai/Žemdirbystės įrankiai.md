@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - įrankis
+  - ūkio-įrankis
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -57,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179494"></a>
-- t-003
+- t-001
   global_id: t-179494
   teiginys: "Žemės darbui naudotas jaučių jungas, vėliau arklai su geležiniu noragu ir kiti geležiniai darbo įrankiai."
   pagrindžia:

@@ -41,21 +41,21 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 ## Teiginiai
 
 <a id="claim-t-121171"></a>
-- t-008
+- t-001
   global_id: t-121171
   teiginys: "Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai."
   pagrindžia:
     - c-111043
 
 <a id="claim-t-121172"></a>
-- t-001
+- t-002
   global_id: t-121172
   teiginys: "Mindaugo sūnėnas Tautvilas įsitvirtino Polocke, kai Lietuvos valdžia plito Baltojoje Rusijoje."
   pagrindžia:
     - c-36512
 
 <a id="claim-t-121173"></a>
-- t-006
+- t-003
   global_id: t-121173
   teiginys: "Mindaugo sūnėnas Tautvilas įsigyveno Polocke, kai Lietuvos valdžia plito Baltojoje Rusioje."
   pagrindžia:
@@ -76,42 +76,42 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
     - c-111042
 
 <a id="claim-t-121176"></a>
-- t-007
+- t-006
   global_id: t-121176
   teiginys: "1249 m. Mindaugas iš savo sūnėno Tautvilo atėmė valdas, o Tautvilas, remiamas Haličo-Voluinės ir Livonijos, pradėjo karą prieš Mindaugą."
   pagrindžia:
     - c-42260
 
 <a id="claim-t-184840"></a>
-- t-009
+- t-007
   global_id: t-184840
   teiginys: "Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą."
   pagrindžia:
     - c-168201
 
-<a id="claim-t-193988"></a>
-- t-010
-  global_id: t-193988
+<a id="claim-t-121171"></a>
+- t-008
+  global_id: t-121171
   teiginys: "Danielius iš siuntė Tautvilą \", ir jam į pagalbą— rusus bei poloviečius, ir jie ilgai kariavo vieni su kitais."
   pagrindžia:
     - c-176613
 
 <a id="claim-t-193989"></a>
-- t-011
+- t-009
   global_id: t-193989
   teiginys: "Antras — jo brolis kunigaikštis Andrius Kuprys2 8 , ku ris kunigaikščiavo Polocke; trečias — 2ygimantas 2 9 , ketvirtas — Patrikas 3 0 , penktas — Tautvilą 3 I, šeštas — Vaidotas3 2 ; jie visi trys mirė, jauni būdami, negavę dalių 3 3 ."
   pagrindžia:
     - c-176614
 
 <a id="claim-t-193990"></a>
-- t-012
+- t-010
   global_id: t-193990
   teiginys: "Tai, ką mano broliui kunigaikščiui Tautvilai1 3 buvo davęs, vėl visa iš jo atėmė."
   pagrindžia:
     - c-176615
 
 <a id="claim-t-193991"></a>
-- t-013
+- t-011
   global_id: t-193991
   teiginys: "Pirmuoju neabejotinu lietuvių kunigaikščiu Polocke buvo Tautvilą, Mindaugo giminaitis."
   pagrindžia:

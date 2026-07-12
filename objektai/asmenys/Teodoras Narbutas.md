@@ -41,7 +41,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
 ## Teiginiai
 
 <a id="claim-t-186510"></a>
-- t-008
+- t-001
   global_id: t-186510
   teiginys: "Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu."
   pagrindžia:
@@ -55,35 +55,35 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
     - c-169852
 
 <a id="claim-t-186512"></a>
-- t-010
+- t-003
   global_id: t-186512
   teiginys: "1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas."
   pagrindžia:
     - c-169850
 
 <a id="claim-t-186513"></a>
-- t-011
+- t-004
   global_id: t-186513
   teiginys: "Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“."
   pagrindžia:
     - c-169851
 
 <a id="claim-t-186514"></a>
-- t-009
+- t-005
   global_id: t-186514
   teiginys: "Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui."
   pagrindžia:
     - c-169848
 
 <a id="claim-t-186515"></a>
-- t-003
+- t-006
   global_id: t-186515
   teiginys: "Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos."
   pagrindžia:
     - c-169849
 
 <a id="claim-t-186516"></a>
-- t-001
+- t-007
   global_id: t-186516
   teiginys: "Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug."
   pagrindžia:

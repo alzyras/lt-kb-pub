@@ -11,7 +11,9 @@ date_start: '1601'
 date_end: '1700'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - karinis-terminas
 amziai:
   - 'XVII'
 media_total_count: '0'
@@ -53,7 +55,7 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
 ## Teiginiai
 
 <a id="claim-t-09709"></a>
-- t-002
+- t-001
   global_id: t-09709
   teiginys: "Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas."
   pagrindžia:

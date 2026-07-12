@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05337"></a>
-- t-003
+- t-001
   global_id: t-05337
   teiginys: "1401 m. Vilniaus susitarimuose išvardyti bajorai ir pareigūnai turėjo būti ne tik liudininkai, bet ir garantai."
   pagrindžia:
     - c-05408
 
 <a id="claim-t-71791"></a>
-- t-005
+- t-002
   global_id: t-71791
   teiginys: "Horodlės suvažiavimo nutarimai buvo surašyti valdovų ir abiejų valstybių bajorų dokumentuose."
   pagrindžia:
     - c-70302
 
 <a id="claim-t-71795"></a>
-- t-001
+- t-003
   global_id: t-71795
   teiginys: "Visa tai buvo sutarta bendrame Lietuvos ir Lenkijos valdovų ir bajorų suvažiavime Horodlėje."
   pagrindžia:
@@ -81,7 +81,7 @@ Nenurodyta
     - c-70300
 
 <a id="claim-t-71796"></a>
-- t-007
+- t-004
   global_id: t-71796
   teiginys: "1401 m. Vilniaus susitarimuose Lietuvos bajorai pirmą kartą unijų istorijoje surašė atskirą aktą."
   pagrindžia:

@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -43,7 +44,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
     - c-59716
 
 <a id="claim-t-59084"></a>
-- t-001
+- t-003
   global_id: t-59084
   teiginys: "Tą pačią dieną, kai prieš metus įvyko Pokarvių kautynės, žuvo daugiau nei trys tūkstančiai sembų ir kitų prūsų."
   pagrindžia:

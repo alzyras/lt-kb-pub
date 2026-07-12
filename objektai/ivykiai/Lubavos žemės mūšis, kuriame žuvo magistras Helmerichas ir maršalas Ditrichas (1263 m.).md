@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62869"></a>
-- t-002
+- t-001
   global_id: t-62869
   teiginys: "Dusburgiečio pasakojime Lubavos mūšio vietoje gyvenęs atsiskyrėlis naktimis matydavo degančias žvakes, liudijusias žuvusiųjų kankinystę."
   pagrindžia:
     - c-63711
 
 <a id="claim-t-62870"></a>
-- t-001
+- t-002
   global_id: t-62870
   teiginys: "Lubavos žemės mūšyje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę."
   pagrindžia:

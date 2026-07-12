@@ -35,56 +35,56 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187954"></a>
-- t-004
+- t-001
   global_id: t-187954
   teiginys: "S. Daukantas T. Narbutui atsiuntė Alberto Vijūko-Kojalavičiaus „Herbyną“, Lietuvos bajorų giminių genealogijų rinkinį."
   pagrindžia:
     - c-170940
 
 <a id="claim-t-187955"></a>
-- t-005
+- t-002
   global_id: t-187955
   teiginys: "T. Narbutas pataisoje jau neabejojo, kad Lietuvos bajorų herbyno autorius buvo pats Albertas Vijūkas-Kojalavičius."
   pagrindžia:
     - c-170939
 
 <a id="claim-t-188397"></a>
-- t-006
+- t-003
   global_id: t-188397
   teiginys: "Narbutas rašė, kad per 400 metų krašto praeitimi pasirūpino tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas."
   pagrindžia:
     - c-171287
 
 <a id="claim-t-190623"></a>
-- t-007
+- t-004
   global_id: t-190623
   teiginys: "Narbutas nurodė, kad Kojalavičius minėjo XV a. lenkiškus grašius piorunkas ir skyrė juos nuo Lietuvoje žinotų perunų."
   pagrindžia:
     - c-173506
 
 <a id="claim-t-190624"></a>
-- t-008
+- t-005
   global_id: t-190624
   teiginys: "Narbutas kaltino Kojalavičių ir kitus autorius apšmeižus senovės lietuvius dėl tariamo mirštančiųjų mirties greitinimo papročio."
   pagrindžia:
     - c-173507
 
 <a id="claim-t-190686"></a>
-- t-009
+- t-006
   global_id: t-190686
   teiginys: "Albertas Vijūkas-Kojalavičius, Narbuto vertinimu, Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė spragas."
   pagrindžia:
     - c-173568
 
 <a id="claim-t-190687"></a>
-- t-010
+- t-007
   global_id: t-190687
   teiginys: "Kojalavičiaus prielaidomis, Narbuto teigimu, rėmęsis Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms."
   pagrindžia:
     - c-173569
 
 <a id="claim-t-190688"></a>
-- t-011
+- t-008
   global_id: t-190688
   teiginys: "Kojalavičius, Narbuto perteikimu, teigė, kad poloviečiai turėjo lietuvių kalbą, ir rėmėsi pasakojimu apie Mamajaus sugriautą Beloserką."
   pagrindžia:

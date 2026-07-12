@@ -31,35 +31,35 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
 ## Teiginiai
 
 <a id="claim-t-187316"></a>
-- t-002
+- t-001
   global_id: t-187316
   teiginys: "Rūdninkų girios seniau buvo laikomos neperžengiamomis ir žmonių neištirtomis."
   pagrindžia:
     - c-170353
 
 <a id="claim-t-187317"></a>
-- t-003
+- t-002
   global_id: t-187317
   teiginys: "Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota."
   pagrindžia:
     - c-170351
 
 <a id="claim-t-187318"></a>
-- t-007
+- t-003
   global_id: t-187318
   teiginys: "Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės."
   pagrindžia:
     - c-170350
 
 <a id="claim-t-187318"></a>
-- t-007
+- t-004
   global_id: t-187318
   teiginys: "Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės."
   pagrindžia:
     - c-170350
 
 <a id="claim-t-187320"></a>
-- t-001
+- t-005
   global_id: t-187320
   teiginys: "Rūdninkų miškų pavadinimas kildintas iš geležies rūdos klodų, slypėjusių po pelkėmis ir girių tankmėmis."
   pagrindžia:
@@ -73,7 +73,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     - c-170350
 
 <a id="claim-t-187322"></a>
-- t-006
+- t-007
   global_id: t-187322
   teiginys: "Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės."
   pagrindžia:

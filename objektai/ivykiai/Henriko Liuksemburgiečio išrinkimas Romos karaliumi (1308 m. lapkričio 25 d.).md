@@ -14,6 +14,7 @@ tags:
   - ivykis
   - karalius
   - valdovas
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

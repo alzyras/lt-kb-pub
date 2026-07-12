@@ -28,14 +28,14 @@ Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio tau
 ## Teiginiai
 
 <a id="claim-t-192308"></a>
-- t-002
+- t-001
   global_id: t-192308
   teiginys: "Narbutas perteikia L. A. Jucevičiaus teiginį, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus."
   pagrindžia:
     - c-175118
 
 <a id="claim-t-192309"></a>
-- t-001
+- t-002
   global_id: t-192309
   teiginys: "Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio taukų pagamintą žvakę atvykdavęs žalčių karalius su roplių svita."
   pagrindžia:

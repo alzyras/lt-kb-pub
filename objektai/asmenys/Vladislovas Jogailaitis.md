@@ -41,21 +41,21 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 ## Teiginiai
 
 <a id="claim-t-40515"></a>
-- t-003
+- t-001
   global_id: t-40515
   teiginys: "Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą."
   pagrindžia:
     - c-44564
 
 <a id="claim-t-40516"></a>
-- t-001
+- t-002
   global_id: t-40516
   teiginys: "Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus."
   pagrindžia:
     - c-44563
 
 <a id="claim-t-40517"></a>
-- t-002
+- t-003
   global_id: t-40517
   teiginys: "1435 m. gruodžio 31 d. Vladislovas Jogailaitis su Žygimantu Kęstutaičiu ir Ordino magistru Rusdorfu sudarė Bresto taiką."
   pagrindžia:

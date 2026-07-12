@@ -40,7 +40,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-113486"></a>
-- t-003
+- t-001
   global_id: t-113486
   teiginys: "Laurynas Ivinskis buvo žemaičių bajoras ir lietuviškų kalendorių leidėjas, gyvenęs 1808–1881 m."
   pagrindžia:

@@ -59,7 +59,7 @@ Nenurodyta
     - c-63216
 
 <a id="claim-t-62527"></a>
-- t-001
+- t-002
   global_id: t-62527
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   pagrindžia:

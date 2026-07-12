@@ -41,14 +41,14 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
 ## Teiginiai
 
 <a id="claim-t-184179"></a>
-- t-005
+- t-001
   global_id: t-184179
   teiginys: "Antrosios atskalūnybės metais prūsai prie Marienverderio surengė pasalą, užėmė miestą, jį sudegino ir pasitraukė su grobiu."
   pagrindžia:
     - c-167564
 
 <a id="claim-t-184180"></a>
-- t-006
+- t-002
   global_id: t-184180
   teiginys: "Prūsai antrą kartą sugriovė atstatytą Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba nužudė."
   pagrindžia:

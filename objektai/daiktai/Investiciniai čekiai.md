@@ -65,49 +65,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75327"></a>
-- t-011
+- t-001
   global_id: t-75327
   teiginys: "Už investicinius čekius pirktas privatus turtas buvo vienas iš pradinio kapitalo įsigijimo šaltinių."
   pagrindžia:
     - c-22242
 
 <a id="claim-t-75328"></a>
-- t-015
+- t-002
   global_id: t-75328
   teiginys: "Investicinius čekius patikėjusiems asmenims nebuvo palikta garantijų, kai privatizavimui kūrėsi žemės ūkio akcinės ir investicinės bendrovės."
   pagrindžia:
     - c-22244
 
 <a id="claim-t-75329"></a>
-- t-014
+- t-003
   global_id: t-75329
   teiginys: "Daugelis gyventojų investicinius čekius pardavė ir nesugebėjo privatizuoti savo gyvenamojo būsto."
   pagrindžia:
     - c-73138
 
 <a id="claim-t-75330"></a>
-- t-013
+- t-004
   global_id: t-75330
   teiginys: "Investicinius čekius bendrovėms patikėjusiems asmenims nebuvo palikta garantijų."
   pagrindžia:
     - c-22244
 
 <a id="claim-t-75331"></a>
-- t-012
+- t-005
   global_id: t-75331
   teiginys: "Šalies piliečiams buvo sudarytos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, bet tinkamai tuo pasinaudojo ne visi."
   pagrindžia:
     - c-22243
 
 <a id="claim-t-75333"></a>
-- t-016
+- t-006
   global_id: t-75333
   teiginys: "Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsigyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo pasinaudojo ne visi."
   pagrindžia:
     - c-73138
 
 <a id="claim-t-193578"></a>
-- t-017
+- t-007
   global_id: t-193578
   teiginys: "Privatizuojamam turtui įsigyti kūrėsi žemės ūkio akcinės ir investicinės bendrovės, tačiau nenumatyta savininkų teisinių įsipareigojimų dėl tokių įmonių veiklos pelningumo, nepalikta garantijų investicinius čekius patikėjusiems asmenims."
   pagrindžia:

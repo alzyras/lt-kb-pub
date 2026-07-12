@@ -40,7 +40,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
 ## Teiginiai
 
 <a id="claim-t-67966"></a>
-- t-003
+- t-001
   global_id: t-67966
   teiginys: "Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės."
   pagrindžia:
@@ -54,7 +54,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
     - c-43450
 
 <a id="claim-t-67968"></a>
-- t-001
+- t-003
   global_id: t-67968
   teiginys: "1259 m. Livonijos ir Prūsų kryžiuočiai prie Mituvos ir Imsrės žiočių į Nemuną statė bendrą pilį Georgenburgą, tapatinamą su Jurbarku."
   pagrindžia:

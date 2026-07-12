@@ -31,28 +31,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-169928"></a>
-- t-004
+- t-001
   global_id: t-169928
   teiginys: "Filologų manymu, LDK raštinėse vyravusią raštijos kalbą reikėtų vadinti rusėnų kalba."
   pagrindžia:
     - c-24982
 
 <a id="claim-t-169930"></a>
-- t-003
+- t-002
   global_id: t-169930
   teiginys: "Vytauto laikais didėjant raštijos poreikiams, lietuvių kalba dar neturėjo raštijos tradicijų."
   pagrindžia:
     - c-154609
 
 <a id="claim-t-169931"></a>
-- t-006
+- t-003
   global_id: t-169931
   teiginys: "Stačiatikių vienuolynuose rašto išmokę valdovo dvariškiai kūrė valdovo raštinę, kurioje pradėjo formuotis rusėnų kalba."
   pagrindžia:
     - c-24980
 
 <a id="claim-t-169932"></a>
-- t-001
+- t-004
   global_id: t-169932
   teiginys: "Besiformuojanti rusėnų raštija ankstyvojoje Lietuvos istorijoje virto oficialia LDK raštų kalba."
   pagrindžia:

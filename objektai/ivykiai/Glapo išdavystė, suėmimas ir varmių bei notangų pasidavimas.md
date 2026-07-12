@@ -68,14 +68,14 @@ Nenurodyta
     - c-66759
 
 <a id="claim-t-66553"></a>
-- t-003
+- t-002
   global_id: t-66553
   teiginys: "Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir Teutonų ordino broliams."
   pagrindžia:
     - c-66760
 
 <a id="claim-t-66554"></a>
-- t-002
+- t-003
   global_id: t-66554
   teiginys: "Užkluptas prie apgultos pilies Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, vadintos Glapo kalva."
   pagrindžia:

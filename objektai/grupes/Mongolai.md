@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113191"></a>
-- t-002
+- t-001
   global_id: t-113191
   teiginys: "1272 m. Lietuvą puolę Haličo kunigaikščiai veikė kartu su Nogajaus mongolais."
   pagrindžia:
     - c-104471
 
 <a id="claim-t-113192"></a>
-- t-001
+- t-002
   global_id: t-113192
   teiginys: "Prie Mėlynųjų vandenų Algirdo vadovaujama Lietuvos kariuomenė sutriuškino rusų žemėse su lietuviais konkuravusius mongolus."
   pagrindžia:

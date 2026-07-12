@@ -41,14 +41,14 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 ## Teiginiai
 
 <a id="claim-t-63665"></a>
-- t-002
+- t-001
   global_id: t-63665
   teiginys: "J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“."
   pagrindžia:
     - c-64643
 
 <a id="claim-t-63666"></a>
-- t-003
+- t-002
   global_id: t-63666
   teiginys: "J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei."
   pagrindžia:

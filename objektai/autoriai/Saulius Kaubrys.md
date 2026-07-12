@@ -39,14 +39,14 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
 ## Teiginiai
 
 <a id="claim-t-19472"></a>
-- t-002
+- t-001
   global_id: t-19472
   teiginys: "Saulius Kaubrys parašė 2000 m. Vilniuje išleistą veikalą „Lietuvos mokykla 1918–1939 m.: galios gimtis“."
   pagrindžia:
     - c-22192
 
 <a id="claim-t-19473"></a>
-- t-001
+- t-002
   global_id: t-19473
   teiginys: "Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“."
   pagrindžia:

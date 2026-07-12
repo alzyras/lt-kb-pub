@@ -54,14 +54,14 @@ Antra vertus, visi Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laišku
     - c-166746
 
 <a id="claim-t-67350"></a>
-- t-001
+- t-003
   global_id: t-67350
   teiginys: "Algirdas laiškuose Bizantijos imperijai vadinosi bazileus, o Gediminas laiškuose Vakarams vartojo titulą rex."
   pagrindžia:
     - c-166745
 
 <a id="claim-t-67351"></a>
-- t-002
+- t-004
   global_id: t-67351
   teiginys: "1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino lietuvių imperatoriumi ir kėlė save virš Maskvos bei Tverės kunigaikščių."
   pagrindžia:

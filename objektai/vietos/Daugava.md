@@ -53,21 +53,21 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-10484
 
 <a id="claim-t-195079"></a>
-- t-003
+- t-002
   global_id: t-195079
   teiginys: "Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės."
   pagrindžia:
     - c-177463
 
 <a id="claim-t-195080"></a>
-- t-004
+- t-003
   global_id: t-195080
   teiginys: "Švitrigaila įsakė sugautą Alšėnų kunigaikštį Vitebske nuo aukšto skardžio įmesti į Dviną."
   pagrindžia:
     - c-177463
 
 <a id="claim-t-195081"></a>
-- t-005
+- t-004
   global_id: t-195081
   teiginys: "Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu."
   pagrindžia:
@@ -77,7 +77,7 @@ Daugava minima kaip viena iš didžiųjų šiaurinės įšleities upių ir kaip 
     - c-177463
 
 <a id="claim-t-195082"></a>
-- t-002
+- t-005
   global_id: t-195082
   teiginys: "Pasak šaltinio, lietuvių tauta buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
   pagrindžia:

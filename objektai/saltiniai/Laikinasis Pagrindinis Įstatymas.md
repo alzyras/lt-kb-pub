@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -38,14 +39,14 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 ## Teiginiai
 
 <a id="claim-t-75457"></a>
-- t-002
+- t-001
   global_id: t-75457
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą."
   pagrindžia:
     - c-73232
 
 <a id="claim-t-75458"></a>
-- t-001
+- t-002
   global_id: t-75458
   teiginys: "Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius ankstesnės konstitucijos veikimą visa apimtimi."
   pagrindžia:

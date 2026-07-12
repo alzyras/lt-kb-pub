@@ -41,7 +41,7 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     - c-168804
 
 <a id="claim-t-185445"></a>
-- t-003
+- t-002
   global_id: t-185445
   teiginys: "Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas."
   pagrindžia:

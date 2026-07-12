@@ -43,7 +43,7 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
 ## Teiginiai
 
 <a id="claim-t-67651"></a>
-- t-004
+- t-001
   global_id: t-67651
   teiginys: "Į Aukaimio pilies apylinkes įsibrovę broliai jas nuniokojo degindami ir plėšdami, paėmė belaisvių ir pasitraukė su grobiu."
   pagrindžia:
@@ -57,21 +57,21 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - c-31946
 
 <a id="claim-t-67653"></a>
-- t-008
+- t-003
   global_id: t-67653
   teiginys: "Kariuomenės dalis nusiaubė Aukaimio pilies apylinkes, daug žmonių išžudė arba paėmė į nelaisvę."
   pagrindžia:
     - c-67478
 
 <a id="claim-t-67654"></a>
-- t-007
+- t-004
   global_id: t-67654
   teiginys: "1305 m. per gavėnią Svirtilas išdavė Aukaimio pilį broliams, kurie ją antrą kartą sugriovė iki pamatų."
   pagrindžia:
     - c-67475
 
 <a id="claim-t-67655"></a>
-- t-001
+- t-005
   global_id: t-67655
   teiginys: "1292 m. kryžiuočiai, grįždami nuo Junigėdos, teriojo 1291 m. sudegintos Aukaimio pilies sritį."
   pagrindžia:
@@ -85,14 +85,14 @@ Grįždami nuo Junigėdos 1292, kryžiuočiai teriojo sritį pernykščiai sudeg
     - c-67477
 
 <a id="claim-t-67657"></a>
-- t-005
+- t-007
   global_id: t-67657
   teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
   pagrindžia:
     - c-67479
 
 <a id="claim-t-67658"></a>
-- t-003
+- t-008
   global_id: t-67658
   teiginys: "Per šv. Jono Krikštytojo dieną 36 lietuviai iš Aukaimio pilies apylinkių patraukė plėšikiškais išpuoliais trikdyti Ragainės brolių ramybės."
   pagrindžia:

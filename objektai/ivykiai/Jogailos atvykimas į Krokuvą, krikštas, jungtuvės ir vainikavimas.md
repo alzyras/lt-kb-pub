@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186714"></a>
-- t-003
+- t-001
   global_id: t-186714
   teiginys: "Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d."
   pagrindžia:
     - c-169944
 
 <a id="claim-t-186715"></a>
-- t-001
+- t-002
   global_id: t-186715
   teiginys: "Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi."
   pagrindžia:
     - c-169944
 
 <a id="claim-t-186716"></a>
-- t-002
+- t-003
   global_id: t-186716
   teiginys: "Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą."
   pagrindžia:

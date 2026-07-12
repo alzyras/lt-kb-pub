@@ -32,21 +32,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87446"></a>
-- t-002
+- t-001
   global_id: t-87446
   teiginys: "Vilniaus vyskupui Motiejui ir jo įpėdiniams buvo dovanotas dvaras Medininkų valsčiuje."
   pagrindžia:
     - c-83427
 
 <a id="claim-t-87447"></a>
-- t-003
+- t-002
   global_id: t-87447
   teiginys: "Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras."
   pagrindžia:
     - c-83426
 
 <a id="claim-t-87448"></a>
-- t-001
+- t-003
   global_id: t-87448
   teiginys: "Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui."
   pagrindžia:

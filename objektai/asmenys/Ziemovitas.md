@@ -32,63 +32,63 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
 ## Teiginiai
 
 <a id="claim-t-93744"></a>
-- t-004
+- t-001
   global_id: t-93744
   teiginys: "Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito buvo kilęs ginčas, kurį išsprendė Vytautas."
   pagrindžia:
     - c-36612
 
 <a id="claim-t-93745"></a>
-- t-007
+- t-002
   global_id: t-93745
   teiginys: "Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi."
   pagrindžia:
     - c-36611
 
 <a id="claim-t-93747"></a>
-- t-005
+- t-003
   global_id: t-93747
   teiginys: "Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę."
   pagrindžia:
     - c-89060
 
 <a id="claim-t-93747"></a>
-- t-005
+- t-004
   global_id: t-93747
   teiginys: "Viename dokumente pasakojama apie kunigaikščių Ziemovito ir Traidenio įsiveržimą į Dobrynės žemę."
   pagrindžia:
     - c-89060
 
 <a id="claim-t-93748"></a>
-- t-001
+- t-005
   global_id: t-93748
   teiginys: "Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi."
   pagrindžia:
     - c-36611
 
 <a id="claim-t-93749"></a>
-- t-002
+- t-006
   global_id: t-93749
   teiginys: "Tarp karaliaus ir Mozūrų kunigaikščio Ziemovito kilusį nesusipratimą išsprendė Vytautas."
   pagrindžia:
     - c-36612
 
 <a id="claim-t-191002"></a>
-- t-008
+- t-007
   global_id: t-191002
   teiginys: "Ziemovitas valdė Mazoviją."
   pagrindžia:
     - c-173884
 
 <a id="claim-t-191003"></a>
-- t-009
+- t-008
   global_id: t-191003
   teiginys: "Lenkams patekus į sunkią padėtį, Ziemovitas kreipėsi į rusų kunigaikščius, prašydamas atsiųsti šaulių."
   pagrindžia:
     - c-173885
 
 <a id="claim-t-191004"></a>
-- t-010
+- t-009
   global_id: t-191004
   teiginys: "Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi."
   pagrindžia:

@@ -37,7 +37,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
 ## Teiginiai
 
 <a id="claim-t-67256"></a>
-- t-002
+- t-001
   global_id: t-67256
   teiginys: "Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė siekti Tochtamyšo valdžios Ordoje ir Vytauto valdžios Rusioje."
   pagrindžia:
@@ -45,7 +45,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
     - c-14557
 
 <a id="claim-t-67257"></a>
-- t-001
+- t-002
   global_id: t-67257
   teiginys: "Rusų metraščiai teigė, kad Vytautas žadėjo Tochtamyšą pasodinti Aukso Ordoje, o pats siekė Maskvos sosto."
   pagrindžia:

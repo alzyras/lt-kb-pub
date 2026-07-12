@@ -40,14 +40,14 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 ## Teiginiai
 
 <a id="claim-t-72714"></a>
-- t-002
+- t-001
   global_id: t-72714
   teiginys: "Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės."
   pagrindžia:
     - c-46923
 
 <a id="claim-t-72715"></a>
-- t-001
+- t-002
   global_id: t-72715
   teiginys: "Atleidimas nuo pastočių ir kitų prievolių nepalengvino bajorų valstiečių būklės."
   pagrindžia:
@@ -59,6 +59,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   teiginys: "Bajorų valstiečiai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei piniginio mokesčio."
   pagrindžia:
     - c-46923
+- susijęs iš [[objektai/daiktai/Pastotė.md#claim-t-195344|Pastotė]]: Vestuvinė kraitvežių ir svodbininkų kelionės priemonė.
 ## Reikšmingi paminėjimai
 
 - c-001

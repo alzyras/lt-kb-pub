@@ -52,7 +52,7 @@ Nenurodyta
     - c-62995
 
 <a id="claim-t-62394"></a>
-- t-001
+- t-002
   global_id: t-62394
   teiginys: "Martynas iš Golino su būreliu vyrų vakare užpuolė Sūduvos kaimą, išžudė žmones, pagrobė turtą ir išsivarė moteris bei vaikus į nelaisvę."
   pagrindžia:

@@ -36,14 +36,14 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
 ## Teiginiai
 
 <a id="claim-t-60988"></a>
-- t-002
+- t-001
   global_id: t-60988
   teiginys: "Pirmasis „Lietuvos TSR istorijos“ tomas išleistas Vilniuje 1957 m."
   pagrindžia:
     - c-61620
 
 <a id="claim-t-60989"></a>
-- t-001
+- t-002
   global_id: t-60989
   teiginys: "„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė."
   pagrindžia:

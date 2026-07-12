@@ -55,28 +55,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186644"></a>
-- t-003
+- t-001
   global_id: t-186644
   teiginys: "Vilniuje įvyko iškilmingos Aleksandro ir Elenos vestuvės, trukusios kelias savaites."
   pagrindžia:
     - c-169909
 
 <a id="claim-t-186645"></a>
-- t-004
+- t-002
   global_id: t-186645
   teiginys: "Po Aleksandro ir Elenos vestuvių Vilniuje Maskvos pasiuntiniai buvo pagerbti, gausiai apdovanoti ir išleisti atgal."
   pagrindžia:
     - c-169909
 
 <a id="claim-t-186646"></a>
-- t-001
+- t-003
   global_id: t-186646
   teiginys: "Aleksandro pasiuntiniai parvežė Eleną į Lietuvą kartu su jos tėvo Ivano Vasiljevičiaus atsiųstais Maskvos pasiuntiniais."
   pagrindžia:
     - c-169910
 
 <a id="claim-t-186647"></a>
-- t-002
+- t-004
   global_id: t-186647
   teiginys: "Elena buvo atgabenta į Vilnių dvi savaitės prieš Užgavėnes."
   pagrindžia:

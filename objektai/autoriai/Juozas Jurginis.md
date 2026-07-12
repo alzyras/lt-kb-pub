@@ -57,7 +57,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
     - c-169795
 
 <a id="claim-t-186444"></a>
-- t-002
+- t-003
   global_id: t-186444
   teiginys: "Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys."
   pagrindžia:

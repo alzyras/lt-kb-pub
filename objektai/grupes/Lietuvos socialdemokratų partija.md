@@ -43,14 +43,14 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
 ## Teiginiai
 
 <a id="claim-t-169731"></a>
-- t-002
+- t-001
   global_id: t-169731
   teiginys: "1920 m. balandžio 14–15 d. rinkimuose Lietuvos socialdemokratų partija liko trečia."
   pagrindžia:
     - c-154433
 
 <a id="claim-t-169732"></a>
-- t-006
+- t-002
   global_id: t-169732
   teiginys: "Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia."
   pagrindžia:
@@ -64,14 +64,14 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
     - c-154431
 
 <a id="claim-t-169734"></a>
-- t-007
+- t-004
   global_id: t-169734
   teiginys: "LDDP vėliau susivienijo su Lietuvos socialdemokratais ir tapo LSDP."
   pagrindžia:
     - c-154429
 
 <a id="claim-t-183165"></a>
-- t-010
+- t-005
   global_id: t-183165
   teiginys: "1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją."
   pagrindžia:

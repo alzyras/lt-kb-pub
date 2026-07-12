@@ -17,6 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - ivykis
   - valstybė
 amziai:
@@ -60,14 +61,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75212"></a>
-- t-008
+- t-001
   global_id: t-75212
   teiginys: "Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams."
   pagrindžia:
     - c-23108
 
 <a id="claim-t-75217"></a>
-- t-003
+- t-002
   global_id: t-75217
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   pagrindžia:
@@ -81,21 +82,21 @@ Nenurodyta
     - c-73082
 
 <a id="claim-t-75219"></a>
-- t-001
+- t-004
   global_id: t-75219
   teiginys: "2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare."
   pagrindžia:
     - c-23101
 
 <a id="claim-t-75220"></a>
-- t-010
+- t-005
   global_id: t-75220
   teiginys: "Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys."
   pagrindžia:
     - c-73083
 
 <a id="claim-t-75221"></a>
-- t-004
+- t-006
   global_id: t-75221
   teiginys: "1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO."
   pagrindžia:

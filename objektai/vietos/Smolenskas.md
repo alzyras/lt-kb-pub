@@ -55,91 +55,91 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Teiginiai
 
 <a id="claim-t-180537"></a>
-- t-017
+- t-001
   global_id: t-180537
   teiginys: "Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą."
   pagrindžia:
     - c-164148
 
 <a id="claim-t-180538"></a>
-- t-044
+- t-002
   global_id: t-180538
   teiginys: "Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu."
   pagrindžia:
     - c-164162
 
 <a id="claim-t-180539"></a>
-- t-049
+- t-003
   global_id: t-180539
   teiginys: "Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų."
   pagrindžia:
     - c-46736
 
 <a id="claim-t-180540"></a>
-- t-040
+- t-004
   global_id: t-180540
   teiginys: "1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske."
   pagrindžia:
     - c-164145
 
 <a id="claim-t-180541"></a>
-- t-051
+- t-005
   global_id: t-180541
   teiginys: "Caras pyko, kad Steponas Batoras nepripažino jam Smolensko kunigaikščio titulo ir pats vartojo šį titulą."
   pagrindžia:
     - c-164151
 
 <a id="claim-t-180537"></a>
-- t-017
+- t-006
   global_id: t-180537
   teiginys: "Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą."
   pagrindžia:
     - c-164148
 
 <a id="claim-t-180543"></a>
-- t-042
+- t-007
   global_id: t-180543
   teiginys: "Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą."
   pagrindžia:
     - c-164155
 
 <a id="claim-t-180546"></a>
-- t-031
+- t-008
   global_id: t-180546
   teiginys: "Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske."
   pagrindžia:
     - c-164145
 
 <a id="claim-t-180547"></a>
-- t-045
+- t-009
   global_id: t-180547
   teiginys: "1512 m. prasidėjus karui, visos Maskvos jėgos buvo nukreiptos į Smolenską."
   pagrindžia:
     - c-46732
 
 <a id="claim-t-180552"></a>
-- t-045
+- t-010
   global_id: t-180552
   teiginys: "Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus."
   pagrindžia:
     - c-164144
 
 <a id="claim-t-180567"></a>
-- t-018
+- t-011
   global_id: t-180567
   teiginys: "1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską."
   pagrindžia:
     - c-164149
 
 <a id="claim-t-180554"></a>
-- t-046
+- t-012
   global_id: t-180554
   teiginys: "Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais."
   pagrindžia:
     - c-164153
 
 <a id="claim-t-180555"></a>
-- t-058
+- t-013
   global_id: t-180555
   teiginys: "Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską."
   pagrindžia:
@@ -153,175 +153,175 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-164147
 
 <a id="claim-t-180559"></a>
-- t-020
+- t-015
   global_id: t-180559
   teiginys: "Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose."
   pagrindžia:
     - c-164144
 
 <a id="claim-t-180560"></a>
-- t-042
+- t-016
   global_id: t-180560
   teiginys: "Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-164165
 
 <a id="claim-t-180562"></a>
-- t-047
+- t-017
   global_id: t-180562
   teiginys: "Smolenskui buvo suteikta privilegija, garantavusi miestui dalį savarankiškumo."
   pagrindžia:
     - c-164168
 
 <a id="claim-t-180563"></a>
-- t-022
+- t-018
   global_id: t-180563
   teiginys: "1411 m. pavasarį Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą."
   pagrindžia:
     - c-164143
 
 <a id="claim-t-180565"></a>
-- t-050
+- t-019
   global_id: t-180565
   teiginys: "1507-1508 m. kare Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiu strateginiu punktu prie Dniepro aukštupio."
   pagrindžia:
     - c-164162
 
 <a id="claim-t-180566"></a>
-- t-048
+- t-020
   global_id: t-180566
   teiginys: "Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas."
   pagrindžia:
     - c-46735
 
 <a id="claim-t-180567"></a>
-- t-018
+- t-021
   global_id: t-180567
   teiginys: "1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską."
   pagrindžia:
     - c-164149
 
 <a id="claim-t-180569"></a>
-- t-047
+- t-022
   global_id: t-180569
   teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
   pagrindžia:
     - c-164143
 
 <a id="claim-t-180570"></a>
-- t-021
+- t-023
   global_id: t-180570
   teiginys: "Vytautas dvi savaites Smolenske vaišino savo dukterį Zofiją su vaikais."
   pagrindžia:
     - c-37723
 
 <a id="claim-t-180558"></a>
-- t-014
+- t-024
   global_id: t-180558
   teiginys: "Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską."
   pagrindžia:
     - c-164147
 
 <a id="claim-t-180572"></a>
-- t-046
+- t-025
   global_id: t-180572
   teiginys: "Caras pyko, kad karalius nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų, o pats juos vartojo."
   pagrindžia:
     - c-164151
 
 <a id="claim-t-180573"></a>
-- t-060
+- t-026
   global_id: t-180573
   teiginys: "1401 m. Smolenske vėl įsigalėjo išvarytasis Jurgis Sviatoslavaitis."
   pagrindžia:
     - c-32436
 
 <a id="claim-t-180575"></a>
-- t-043
+- t-027
   global_id: t-180575
   teiginys: "Po sąmokslo Švitrigaila paspruko į Polocką ir perėmė Smolensko sritį kartu su kitomis sritimis."
   pagrindžia:
     - c-164160
 
 <a id="claim-t-180576"></a>
-- t-041
+- t-028
   global_id: t-180576
   teiginys: "Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai."
   pagrindžia:
     - c-164156
 
 <a id="claim-t-180577"></a>
-- t-032
+- t-029
   global_id: t-180577
   teiginys: "Kai kurie Lietuvos miestai tuo metu buvo valdomi Smolensko kunigaikščių."
   pagrindžia:
     - c-164156
 
 <a id="claim-t-180578"></a>
-- t-061
+- t-030
   global_id: t-180578
   teiginys: "Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką."
   pagrindžia:
     - c-32437
 
 <a id="claim-t-180579"></a>
-- t-034
+- t-031
   global_id: t-180579
   teiginys: "Kojelavičius ir Stryjkovskis klydo teigdami, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką."
   pagrindžia:
     - c-164159
 
 <a id="claim-t-183090"></a>
-- t-052
+- t-032
   global_id: t-183090
   teiginys: "Po nesėkmingo sąmokslo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Smolensko bei kelias kitas sritis."
   pagrindžia:
     - c-164160
 
 <a id="claim-t-185148"></a>
-- t-063
+- t-033
   global_id: t-185148
   teiginys: "Vytautas išvijo priešus iš Oršos krašto ir užpuolė Smolenską, laikytą maišto pradininku."
   pagrindžia:
     - c-168509
 
 <a id="claim-t-185149"></a>
-- t-064
+- t-034
   global_id: t-185149
   teiginys: "Jurijus nedrįso kautis atvirame lauke ar gintis už Smolensko pylimų ir pabėgo su žmona pas uošvį."
   pagrindžia:
     - c-168510
 
 <a id="claim-t-185150"></a>
-- t-065
+- t-035
   global_id: t-185150
   teiginys: "Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais."
   pagrindžia:
     - c-168511
 
 <a id="claim-t-185151"></a>
-- t-066
+- t-036
   global_id: t-185151
   teiginys: "Vykdamas į Lietuvą, Goštautas Smolenske vietininku paliko Andrių Sakavičių."
   pagrindžia:
     - c-168512
 
 <a id="claim-t-185152"></a>
-- t-067
+- t-037
   global_id: t-185152
   teiginys: "Kazimieras pats patraukė į Smolenską, nors karvedžiai teigė, kad metų laikas netinka karui."
   pagrindžia:
     - c-168513
 
 <a id="claim-t-185153"></a>
-- t-068
+- t-038
   global_id: t-185153
   teiginys: "Kazimieras žiemos viduryje aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus."
   pagrindžia:
     - c-168514
 
 <a id="claim-t-185154"></a>
-- t-069
+- t-039
   global_id: t-185154
   teiginys: "Karvedžių pasitarime nuspręsta, kad karalius su smulkesniais būriais apsistos Smolensko apylinkėse."
   pagrindžia:
@@ -342,28 +342,28 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-170598
 
 <a id="claim-t-193231"></a>
-- t-070
+- t-042
   global_id: t-193231
   teiginys: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
   pagrindžia:
     - c-164160
 
 <a id="claim-t-193232"></a>
-- t-071
+- t-043
   global_id: t-193232
   teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
   pagrindžia:
     - c-175969
 
 <a id="claim-t-194038"></a>
-- t-072
+- t-044
   global_id: t-194038
   teiginys: "Iškilmingai Vytautas įžengė į Smolenską t395.IX.28."
   pagrindžia:
     - c-176656
 
 <a id="claim-t-194755"></a>
-- t-073
+- t-045
   global_id: t-194755
   teiginys: "Antroji žmona buvo Smolensko kunigaikštytė Olga."
   pagrindžia:

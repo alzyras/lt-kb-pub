@@ -62,28 +62,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86990"></a>
-- t-006
+- t-001
   global_id: t-86990
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-82970
 
 <a id="claim-t-86991"></a>
-- t-003
+- t-002
   global_id: t-86991
   teiginys: "Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:
     - c-82969
 
 <a id="claim-t-86992"></a>
-- t-002
+- t-003
   global_id: t-86992
   teiginys: "Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę."
   pagrindžia:
     - c-82972
 
 <a id="claim-t-86993"></a>
-- t-001
+- t-004
   global_id: t-86993
   teiginys: "Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai."
   pagrindžia:
@@ -97,7 +97,7 @@ Nenurodyta
     - c-82971
 
 <a id="claim-t-194181"></a>
-- t-007
+- t-006
   global_id: t-194181
   teiginys: "Ar ba, priešingai, po vandeniu slypin čiais rifais klastingai prigaudavo pir klius, išdrįsusius, Lietuvai su Prūsi ja ėmus prekiauti, leistis į pirmąją kelionę sieliais."
   pagrindžia:

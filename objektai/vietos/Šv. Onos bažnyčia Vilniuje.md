@@ -44,42 +44,42 @@ Onos bažnyčią, ten turėjo funduoti dar ir kleboniją, o prie jos namus mansi
 ## Teiginiai
 
 <a id="claim-t-195205"></a>
-- t-003
+- t-001
   global_id: t-195205
   teiginys: "Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui."
   pagrindžia:
     - c-177570
 
 <a id="claim-t-195206"></a>
-- t-006
+- t-002
   global_id: t-195206
   teiginys: "Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams."
   pagrindžia:
     - c-177569
 
 <a id="claim-t-195207"></a>
-- t-005
+- t-003
   global_id: t-195207
   teiginys: "Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus."
   pagrindžia:
     - c-177572
 
 <a id="claim-t-195208"></a>
-- t-007
+- t-004
   global_id: t-195208
   teiginys: "Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje."
   pagrindžia:
     - c-177569
 
 <a id="claim-t-195209"></a>
-- t-001
+- t-005
   global_id: t-195209
   teiginys: "Karalaitė Ona buvo prašoma prisidėti, kad Šv. Onos bažnyčia būtų užbaigta, o jos dvasininkai aprūpinti."
   pagrindžia:
     - c-177574
 
 <a id="claim-t-195210"></a>
-- t-004
+- t-006
   global_id: t-195210
   teiginys: "Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties."
   pagrindžia:

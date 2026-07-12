@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - karalius
   - kunigaikštis
-  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -51,7 +51,7 @@ Nenurodyta
     - c-83382
 
 <a id="claim-t-87403"></a>
-- t-003
+- t-002
   global_id: t-87403
   teiginys: "1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui."
   pagrindžia:

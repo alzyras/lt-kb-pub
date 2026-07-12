@@ -40,14 +40,14 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
 ## Teiginiai
 
 <a id="claim-t-60195"></a>
-- t-002
+- t-001
   global_id: t-60195
   teiginys: "1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę."
   pagrindžia:
     - c-60827
 
 <a id="claim-t-60196"></a>
-- t-001
+- t-002
   global_id: t-60196
   teiginys: "Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
   pagrindžia:

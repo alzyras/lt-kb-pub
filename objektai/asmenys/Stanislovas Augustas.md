@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - privilegija
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

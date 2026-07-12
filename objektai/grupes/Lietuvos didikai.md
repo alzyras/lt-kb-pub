@@ -42,21 +42,21 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Teiginiai
 
 <a id="claim-t-81459"></a>
-- t-002
+- t-001
   global_id: t-81459
   teiginys: "Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą."
   pagrindžia:
     - c-78080
 
 <a id="claim-t-81460"></a>
-- t-003
+- t-002
   global_id: t-81460
   teiginys: "Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai."
   pagrindžia:
     - c-78080
 
 <a id="claim-t-81461"></a>
-- t-001
+- t-003
   global_id: t-81461
   teiginys: "Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline."
   pagrindžia:

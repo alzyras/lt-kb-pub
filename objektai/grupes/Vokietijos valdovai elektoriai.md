@@ -13,6 +13,7 @@ tags:
   - grupe
   - karalius
   - valdovas
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

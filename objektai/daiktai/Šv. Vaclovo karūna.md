@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35569"></a>
-- t-005
+- t-001
   global_id: t-35569
   teiginys: "Vytautas sutiko priimti čekų karūną ir pasiuntė į Pragą savo vietininku Zigmantą Kaributą."
   pagrindžia:
     - c-38231
 
 <a id="claim-t-35570"></a>
-- t-007
+- t-002
   global_id: t-35570
   teiginys: "Čekai pasiūlė Vytautui karūnuotis Čekijos karaliaus karūna."
   pagrindžia:
     - c-38233
 
 <a id="claim-t-35571"></a>
-- t-006
+- t-003
   global_id: t-35571
   teiginys: "Vėliau Vytautas nuo husitų siūlytos karūnos atsisakė, nes ji galėjo per brangiai kaštuoti."
   pagrindžia:

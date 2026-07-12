@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-193027"></a>
-- t-002
+- t-001
   global_id: t-193027
   teiginys: "Skitų klajokliai maistą gaudavo augindami gyvulius, medžiodami ir žvejodami, o grūdus mainydavo iš žemdirbių."
   pagrindžia:
     - c-175797
 
 <a id="claim-t-194875"></a>
-- t-003
+- t-002
   global_id: t-194875
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
   pagrindžia:

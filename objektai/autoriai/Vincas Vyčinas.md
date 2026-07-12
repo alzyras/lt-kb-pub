@@ -42,14 +42,14 @@ Kaina sutartinė ## Puslapis 495 Išleista: Jozefas Frankas Atsiminimai apie Vil
 ## Teiginiai
 
 <a id="claim-t-88083"></a>
-- t-002
+- t-001
   global_id: t-88083
   teiginys: "Vinco Vyčino „Raštų“ III tomas buvo nurodytas tarp spaudai rengiamų leidinių."
   pagrindžia:
     - c-84062
 
 <a id="claim-t-88084"></a>
-- t-001
+- t-002
   global_id: t-88084
   teiginys: "Vinco Vyčino „Raštų“ I-II tomai buvo išleisti 2002-2007 m."
   pagrindžia:

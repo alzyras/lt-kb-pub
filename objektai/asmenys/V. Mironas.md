@@ -37,14 +37,14 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ## Teiginiai
 
 <a id="claim-t-78039"></a>
-- t-002
+- t-001
   global_id: t-78039
   teiginys: "Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius."
   pagrindžia:
     - c-22042
 
 <a id="claim-t-78040"></a>
-- t-001
+- t-002
   global_id: t-78040
   teiginys: "Priėmus Lenkijos ultimatumą, A. Smetonai artimas kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko pareigose."
   pagrindžia:

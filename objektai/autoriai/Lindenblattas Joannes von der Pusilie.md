@@ -31,14 +31,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88027"></a>
-- t-002
+- t-001
   global_id: t-88027
   teiginys: "Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno."
   pagrindžia:
     - c-84008
 
 <a id="claim-t-88028"></a>
-- t-001
+- t-002
   global_id: t-88028
   teiginys: "Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja."
   pagrindžia:

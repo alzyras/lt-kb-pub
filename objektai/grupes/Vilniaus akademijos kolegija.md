@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - grupe
   - karalius
+  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XVI'
@@ -40,7 +41,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
 ## Teiginiai
 
 <a id="claim-t-86785"></a>
-- t-003
+- t-001
   global_id: t-86785
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams."
   pagrindžia:
@@ -54,7 +55,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
     - c-82765
 
 <a id="claim-t-86787"></a>
-- t-001
+- t-003
   global_id: t-86787
   teiginys: "1571 m. Žygimantas Augustas Šv. Jono bažnyčią su visu turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos."
   pagrindžia:

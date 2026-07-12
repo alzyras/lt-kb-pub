@@ -36,21 +36,21 @@ Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais. Ordinas, pirmiausia
 ## Teiginiai
 
 <a id="claim-t-41207"></a>
-- t-002
+- t-001
   global_id: t-41207
   teiginys: "Lenkija su Čekijos husitais vakaruose rengėsi kovoti prieš Ordiną."
   pagrindžia:
     - c-44876
 
 <a id="claim-t-193737"></a>
-- t-003
+- t-002
   global_id: t-193737
   teiginys: "Kovai prieš Ordiną Lenkija suartėjo su Čekijos husitais."
   pagrindžia:
     - c-176403
 
 <a id="claim-t-193738"></a>
-- t-004
+- t-003
   global_id: t-193738
   teiginys: "Vakaruose 1433 m. Lenkijai suartėjus su čekų husitais, Ordinui kilo didelė grėsmė."
   pagrindžia:

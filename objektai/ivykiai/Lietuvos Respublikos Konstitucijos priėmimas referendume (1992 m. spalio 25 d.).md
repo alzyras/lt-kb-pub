@@ -13,7 +13,7 @@ tags:
   - ivykis
   - seimas
   - tauta
-  - valstybė
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75194"></a>
-- t-003
+- t-001
   global_id: t-75194
   teiginys: "1992 m. Konstitucijos preambulė valstybės teisės tęstinumą siejo su Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
   pagrindžia:
@@ -68,7 +68,7 @@ Nenurodyta
     - c-23017
 
 <a id="claim-t-75196"></a>
-- t-001
+- t-003
   global_id: t-75196
   teiginys: "1992 m. spalio 25 d. piliečių referendume priimta Lietuvos Respublikos Konstitucija."
   pagrindžia:

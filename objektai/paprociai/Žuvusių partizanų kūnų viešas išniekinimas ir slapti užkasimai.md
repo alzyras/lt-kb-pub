@@ -10,7 +10,8 @@ date_start: '1944'
 date_end: '1953'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -67,7 +68,7 @@ Sovietinės represinės institucijos partizaninio judėjimo atramai slopinti nau
 ## Teiginiai
 
 <a id="claim-t-20825"></a>
-- t-003
+- t-001
   global_id: t-20825
   teiginys: "Represinės institucijos viešai išniekindavo žuvusių partizanų kūnus, neleisdavo jų palaidoti ir slapčia užkasdavo pelkėse ar šiukšlynuose."
   pagrindžia:

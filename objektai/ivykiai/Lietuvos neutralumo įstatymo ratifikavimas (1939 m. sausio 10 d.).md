@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45375"></a>
-- t-003
+- t-001
   global_id: t-45375
   teiginys: "Lietuva neutralumo įstatymą ratifikavo 1939 m. sausio 10 d."
   pagrindžia:

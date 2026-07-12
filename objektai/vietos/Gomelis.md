@@ -36,14 +36,14 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
 ## Teiginiai
 
 <a id="claim-t-187224"></a>
-- t-002
+- t-001
   global_id: t-187224
   teiginys: "Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą."
   pagrindžia:
     - c-170291
 
 <a id="claim-t-187225"></a>
-- t-001
+- t-002
   global_id: t-187225
   teiginys: "Uzos upė įteka į Sožą truputį žemiau Gomelio."
   pagrindžia:

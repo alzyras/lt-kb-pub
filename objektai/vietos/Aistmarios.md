@@ -41,14 +41,14 @@ Aistmarios šiame įraše rodomos kaip vandens kelias ir gynybinė erdvė, prie 
 ## Teiginiai
 
 <a id="claim-t-97718"></a>
-- t-014
+- t-001
   global_id: t-97718
   teiginys: "Sembos žemėje, Aistmarių pakrantėje, stovėjo pilis beveik priešais Brandenburgo pilį."
   pagrindžia:
     - c-92170
 
 <a id="claim-t-97721"></a>
-- t-015
+- t-002
   global_id: t-97721
   teiginys: "Hermano Wartberges kronikoje aprašyta siena Priegliumi turėjo eiti iki Aistmarių."
   pagrindžia:

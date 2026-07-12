@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78718"></a>
-- t-005
+- t-001
   global_id: t-78718
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
   pagrindžia:
     - c-43176
 
 <a id="claim-t-78720"></a>
-- t-004
+- t-002
   global_id: t-78720
   teiginys: "Teresboro stovykloje mokymai vyko lietuviškai, o komandos buvo duodamos lietuvių kalba."
   pagrindžia:

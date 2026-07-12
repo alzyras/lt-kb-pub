@@ -43,84 +43,84 @@ Mikalojus Radvila Juodasis pastatė kalvinų bažnyčią ir traukė į ją visus
 ## Teiginiai
 
 <a id="claim-t-113878"></a>
-- t-008
+- t-001
   global_id: t-113878
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 m. nuomojo Filipovo namą iš kapitulos ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   pagrindžia:
     - c-105068
 
 <a id="claim-t-113879"></a>
-- t-005
+- t-002
   global_id: t-113879
   teiginys: "Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge."
   pagrindžia:
     - c-105071
 
 <a id="claim-t-113880"></a>
-- t-016
+- t-003
   global_id: t-113880
   teiginys: "Vilniaus vaivada Mikalojus Radvila Juodasis stipriai palaikė Vilniuje įsišaknijusį Martyno Liuterio ir Cvinglio mokslą."
   pagrindžia:
     - c-105064
 
 <a id="claim-t-113881"></a>
-- t-012
+- t-004
   global_id: t-113881
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 metų iš kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   pagrindžia:
     - c-105068
 
 <a id="claim-t-113882"></a>
-- t-017
+- t-005
   global_id: t-113882
   teiginys: "Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai."
   pagrindžia:
     - c-105065
 
 <a id="claim-t-113883"></a>
-- t-013
+- t-006
   global_id: t-113883
   teiginys: "Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus kunigaikščių įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai."
   pagrindžia:
     - c-105063
 
 <a id="claim-t-113884"></a>
-- t-014
+- t-007
   global_id: t-113884
   teiginys: "Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę."
   pagrindžia:
     - c-105072
 
 <a id="claim-t-113885"></a>
-- t-001
+- t-008
   global_id: t-113885
   teiginys: "Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka."
   pagrindžia:
     - c-105071
 
 <a id="claim-t-113885"></a>
-- t-001
+- t-009
   global_id: t-113885
   teiginys: "Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka."
   pagrindžia:
     - c-105071
 
 <a id="claim-t-113887"></a>
-- t-015
+- t-010
   global_id: t-113887
   teiginys: "Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų (o ne į kokią kitą) kalbą dėl to, kad „būtų liaudžiai suprantama“."
   pagrindžia:
     - c-21893
 
 <a id="claim-t-113888"></a>
-- t-007
+- t-011
   global_id: t-113888
   teiginys: "Mikalojus Radvila Juodasis iš pradžių galingai palaikė disidentų pusėje veikusių priešininkų atremti turėjusį Volaną."
   pagrindžia:
     - c-105066
 
 <a id="claim-t-113889"></a>
-- t-010
+- t-012
   global_id: t-113889
   teiginys: "Mikalojui Radvilai Juodajam ir jo teisėtiems Nesvyžiaus įpėdiniams buvo suteiktos Lietuvos Kunigaikštystės privilegijos, laisvės ir imunitetai."
   pagrindžia:

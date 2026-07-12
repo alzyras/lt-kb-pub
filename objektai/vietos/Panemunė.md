@@ -41,7 +41,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 ## Teiginiai
 
 <a id="claim-t-68891"></a>
-- t-002
+- t-001
   global_id: t-68891
   teiginys: "Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos."
   pagrindžia:

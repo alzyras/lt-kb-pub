@@ -40,42 +40,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85591"></a>
-- t-003
+- t-001
   global_id: t-85591
   teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
   pagrindžia:
     - c-81577
 
 <a id="claim-t-85592"></a>
-- t-004
+- t-002
   global_id: t-85592
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą kelionę su prekėmis per Ordino žemes."
   pagrindžia:
     - c-81579
 
 <a id="claim-t-85593"></a>
-- t-001
+- t-003
   global_id: t-85593
   teiginys: "Jogaila ir Vytautas pasiuntė į Vroclavą protestus, kuriuos gabeno Zbignievas Olesnickis."
   pagrindžia:
     - c-81578
 
 <a id="claim-t-85594"></a>
-- t-005
+- t-004
   global_id: t-85594
   teiginys: "1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
   pagrindžia:
     - c-81576
 
 <a id="claim-t-85595"></a>
-- t-006
+- t-005
   global_id: t-85595
   teiginys: "Švitrigaila prašė garantuoti Vroclavo gyventojams laisvą ir nevaržomą keliavimą su prekėmis per Ordino žemes."
   pagrindžia:
     - c-81579
 
 <a id="claim-t-85596"></a>
-- t-002
+- t-006
   global_id: t-85596
   teiginys: "Jogaila tuojau apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   pagrindžia:

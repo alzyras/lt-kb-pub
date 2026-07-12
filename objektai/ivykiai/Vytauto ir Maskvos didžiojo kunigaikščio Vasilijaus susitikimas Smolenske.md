@@ -52,14 +52,14 @@ Nenurodyta
     - c-169885
 
 <a id="claim-t-186581"></a>
-- t-003
+- t-002
   global_id: t-186581
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas apdovanojo Vasilijų, išlydėjo jį į Maskvą ir pats išvyko į Lietuvą."
   pagrindžia:
     - c-169885
 
 <a id="claim-t-186582"></a>
-- t-002
+- t-003
   global_id: t-186582
   teiginys: "Lietuvos metraščio pasakojime Vasilijus Dimitrijevičius Smolenske pagerbė Vytautą auksinėmis grandinėmis, sabalais, brangakmeniais, indais ir bachmatais."
   pagrindžia:

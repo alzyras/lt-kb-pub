@@ -18,18 +18,19 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE'
+media_primary_canonical_url: 'https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-11T21:21:22.837956+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma sena portretinė fotografija: visu ūgiu sėdintis vyras kunigo drabužiais, viena ranka užkišta užantyje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo: „1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas“ ir „Įamžintas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863)“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai sutampa su target asmeniu, o vaizdas atitinka aprašytą istorinę portretinę fotografiją.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-11T21:21:22.837956+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma sena portretinė fotografija: visu ūgiu sėdintis vyras kunigo drabužiais, viena ranka užkišta užantyje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo: „1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas“ ir „Įamžintas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863)“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai sutampa su target asmeniu, o vaizdas atitinka aprašytą istorinę portretinę fotografiją.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-c6ee04493039c2c7192dd95f","title":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","caption":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretinė fotografija.","originalTitle":"1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas","creator":"Nežinomas autorius","provider":"europeana","providerLabel":"Šiauliai Aušros Museum","license":"http://creativecommons.org/publicdomain/mark/1.0/","rightsNote":"http://creativecommons.org/publicdomain/mark/1.0/","licenseUrl":"","attribution":"","dateDisplay":"","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2024906/photography_ProvidedCHO__iauli___Au_ros__muziejus____iauliai_Au_ros_Museum_LIMIS_3064608","sourceUrl":"https://www.limis.lt/api/media/3064608/5515763/low/get","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.limis.lt%2Fapi%2Fmedia%2F3064608%2F5515763%2Flow%2Fget&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"dvasininkas","label":"dvasininkas","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"kunigas","label":"kunigas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"sukilimas","label":"sukilimas","facetKind":"tema","confidence":0.95},{"code":"sukilėlis","label":"sukilėlis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Antanas Mackevičius.md","title":"Antanas Mackevičius","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:21:00.283650+03:00","reviewedAt":"2026-07-11T21:21:22.837956+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matoma sena portretinė fotografija: visu ūgiu sėdintis vyras kunigo drabužiais, viena ranka užkišta užantyje.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo: „1863 m. sukilimo vado kunigo Antano Mackevičiaus portretas“ ir „Įamžintas 1863 m. sukilimo vadas kunigas Antanas Mackevičius (1828–1863)“.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai sutampa su target asmeniu, o vaizdas atitinka aprašytą istorinę portretinę fotografiją.","isPrimary":1}]
 ---
 # Antanas Mackevičius
 
@@ -40,63 +41,63 @@ Mackevičius, vėliau K.
 ## Teiginiai
 
 <a id="claim-t-75694"></a>
-- t-002
+- t-001
   global_id: t-75694
   teiginys: "Kauno gubernijoje vienas pirmųjų sukilimo organizatorių buvo kunigas Antanas Mackevičius."
   pagrindžia:
     - c-41830
 
 <a id="claim-t-75698"></a>
-- t-001
+- t-002
   global_id: t-75698
   teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
   pagrindžia:
     - c-73410
 
 <a id="claim-t-75696"></a>
-- t-006
+- t-003
   global_id: t-75696
   teiginys: "Antanui Mackevičiui nepavyko tinkamai išdėstyti savo šaulių gynybai, o klampioje vietovėje sukilėlių kavalerija buvo neveiksminga."
   pagrindžia:
     - c-41834
 
 <a id="claim-t-75697"></a>
-- t-003
+- t-004
   global_id: t-75697
   teiginys: "Antanas Mackevičius stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   pagrindžia:
     - c-41831
 
 <a id="claim-t-75698"></a>
-- t-001
+- t-005
   global_id: t-75698
   teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
   pagrindžia:
     - c-73410
 
 <a id="claim-t-75699"></a>
-- t-007
+- t-006
   global_id: t-75699
   teiginys: "Antanui Mackevičiui pavyko suburti išsklaidytus sukilėlius ir išvesti juos pro Rusijos kariuomenės apsupimą į Vidurio Lietuvą."
   pagrindžia:
     - c-41835
 
 <a id="claim-t-75700"></a>
-- t-005
+- t-007
   global_id: t-75700
   teiginys: "Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui."
   pagrindžia:
     - c-41833
 
 <a id="claim-t-75701"></a>
-- t-004
+- t-008
   global_id: t-75701
   teiginys: "Kunigas Mackevičius sakė pamokslą lenkiškai ir lietuviškai, ragindamas eiti už tikėjimą, Lietuvą ir lietuvius."
   pagrindžia:
     - c-41832
 
 <a id="claim-t-75698"></a>
-- t-001
+- t-009
   global_id: t-75698
   teiginys: "Po Zigmanto Sierakausko mirties Antanas Mackevičius buvo paskirtas Kauno gubernijos sukilėlių karo vadu."
   pagrindžia:

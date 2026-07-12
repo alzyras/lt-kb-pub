@@ -82,6 +82,8 @@ Nenurodyta
 - susijęs iš Vilijos upė: Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.
 - susijęs iš Vilnius: Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto.
 - susijęs iš [[objektai/zodynas/Saitininkai Sejtones.md#claim-t-189330|Saitininkai Sejtones]]: Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195300|Terba]]: Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės.
+- susijęs iš [[objektai/posakiai/Prie mėsos reik drąsos.md#claim-t-195420|Prie mėsos reik drąsos]]: Į kvietimą prie mėsos atsakoma formule „Prie mėsos reik drąsos“.
 - susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 ## Reikšmingi paminėjimai
 

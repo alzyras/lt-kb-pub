@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
 ## Teiginiai
 
 <a id="claim-t-60218"></a>
-- t-002
+- t-001
   global_id: t-60218
   teiginys: "1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė."
   pagrindžia:
     - c-60851
 
 <a id="claim-t-60219"></a>
-- t-001
+- t-002
   global_id: t-60219
   teiginys: "Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą."
   pagrindžia:

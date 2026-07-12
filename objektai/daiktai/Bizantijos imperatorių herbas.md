@@ -59,14 +59,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47802"></a>
-- t-002
+- t-001
   global_id: t-47802
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą."
   pagrindžia:
     - c-30986
 
 <a id="claim-t-47803"></a>
-- t-001
+- t-002
   global_id: t-47803
   teiginys: "Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą."
   pagrindžia:

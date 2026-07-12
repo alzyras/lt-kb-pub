@@ -42,49 +42,49 @@ Julijona šiame įraše atskirta kaip Algirdo žmona, Jogailos motina ir Vitebsk
 ## Teiginiai
 
 <a id="claim-t-12183"></a>
-- t-007
+- t-001
   global_id: t-12183
   teiginys: "Julijona, Algirdo žmona, viešpatavo Vitebske ir mirė 1392 m."
   pagrindžia:
     - c-15317
 
 <a id="claim-t-176506"></a>
-- t-004
+- t-002
   global_id: t-176506
   teiginys: "Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba."
   pagrindžia:
     - c-160510
 
 <a id="claim-t-176507"></a>
-- t-010
+- t-003
   global_id: t-176507
   teiginys: "Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo."
   pagrindžia:
     - c-160513
 
 <a id="claim-t-176509"></a>
-- t-005
+- t-004
   global_id: t-176509
   teiginys: "Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą."
   pagrindžia:
     - c-160509
 
 <a id="claim-t-176510"></a>
-- t-009
+- t-005
   global_id: t-176510
   teiginys: "Julijona, Vitebsko kunigaikštytė, buvo antroji Algirdo žmona ir Polocko kunigaikščio Andriaus motina."
   pagrindžia:
     - c-160511
 
 <a id="claim-t-176511"></a>
-- t-010
+- t-006
   global_id: t-176511
   teiginys: "Julijoną su Rytų Bažnyčia siejo praeitis, tradicijos, tautybė ir jos giminės stačiatikių šventieji."
   pagrindžia:
     - c-15946
 
 <a id="claim-t-176512"></a>
-- t-003
+- t-007
   global_id: t-176512
   teiginys: "Ivinskio veikale Julijona tiesiogiai pristatoma kaip Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona."
   pagrindžia:

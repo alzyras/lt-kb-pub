@@ -29,14 +29,14 @@ Nastopką su beveik visu I divizijos štabu. Želigovskis lapkričio 17 d. aušt
 ## Teiginiai
 
 <a id="claim-t-40818"></a>
-- t-002
+- t-001
   global_id: t-40818
   teiginys: "Želigovskis lapkričio 17 d. auštant pradėjo savo didžiąją ofenzyvą, puldamas lietuvių 1-osios pėstininkų divizijos užimamą barą nuo Nėries iki Dubingių."
   pagrindžia:
     - c-44706
 
 <a id="claim-t-40819"></a>
-- t-001
+- t-002
   global_id: t-40819
   teiginys: "Spalio 21 d. lenkų kavalerijos prasiveržimas Širvintų apylinkėse palietė I diviziją: į nelaisvę pateko S. Nastopka su beveik visu jos štabu."
   pagrindžia:

@@ -9,6 +9,7 @@ tags:
   - asmuo
   - kunigaikštis
   - popiežius
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,21 +32,21 @@ Dusburgietis teigia, kad toks didelis buvo jo autoritetas, kad ne tik jis pats, 
 ## Teiginiai
 
 <a id="claim-t-60046"></a>
-- t-003
+- t-001
   global_id: t-60046
   teiginys: "Po pergalės kriviui atiduodavo trečdalį karo grobio aukos, o krivis tą dalį sudegindavo."
   pagrindžia:
     - c-60679
 
 <a id="claim-t-60047"></a>
-- t-001
+- t-002
   global_id: t-60047
   teiginys: "Krivis turėjo tokį autoritetą, kad jo pasiuntinys su krivūle sulaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   pagrindžia:
     - c-60678
 
 <a id="claim-t-60048"></a>
-- t-002
+- t-003
   global_id: t-60048
   teiginys: "Dusburgiečio pasakojime krivis mirusiojo tėvams nurodydavo mirusiojo drabužius, ginklus, žirgus ir šeimyną."
   pagrindžia:

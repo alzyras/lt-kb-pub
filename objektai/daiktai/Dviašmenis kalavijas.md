@@ -61,28 +61,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71559"></a>
-- t-004
+- t-001
   global_id: t-71559
   teiginys: "X–XI a. dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje."
   pagrindžia:
     - c-42493
 
 <a id="claim-t-71560"></a>
-- t-006
+- t-002
   global_id: t-71560
   teiginys: "X–XI a. Vakarų Europoje paplitusių dviašmenių kalavijų randama ir to laikotarpio kapuose Lietuvoje."
   pagrindžia:
     - c-42493
 
 <a id="claim-t-71561"></a>
-- t-005
+- t-003
   global_id: t-71561
   teiginys: "X–XI a. dviašmenis kalavijas buvo paplitęs Vakarų Europoje."
   pagrindžia:
     - c-42493
 
 <a id="claim-t-71562"></a>
-- t-003
+- t-004
   global_id: t-71562
   teiginys: "Dviašmenis kalavijas X–XI a. buvo paplitęs Vakarų Europoje."
   pagrindžia:

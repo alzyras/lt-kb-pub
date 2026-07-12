@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - šeima
 amziai:
   - 'IV'
   - 'XXI'
@@ -42,84 +43,84 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 ## Teiginiai
 
 <a id="claim-t-96076"></a>
-- t-013
+- t-001
   global_id: t-96076
   teiginys: "Pasak Dusburgiečio, Romovė buvo prūsų, lietuvių ir kitų baltų religinio kulto centras."
   pagrindžia:
     - c-90797
 
 <a id="claim-t-96077"></a>
-- t-019
+- t-002
   global_id: t-96077
   teiginys: "Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo."
   pagrindžia:
     - c-31042
 
 <a id="claim-t-96078"></a>
-- t-010
+- t-003
   global_id: t-96078
   teiginys: "Mindaugas siekė padaryti Lietuvą bendrąja baltų valstybe, apimančia šiaurines ir pietvakarines baltų žemes."
   pagrindžia:
     - c-90794
 
 <a id="claim-t-96080"></a>
-- t-008
+- t-004
   global_id: t-96080
   teiginys: "Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo."
   pagrindžia:
     - c-90799
 
 <a id="claim-t-96081"></a>
-- t-011
+- t-005
   global_id: t-96081
   teiginys: "Manoma, kad XII-XIII a. politinė ir etninė baltų bei Pamario slavų riba ėjo žemutine Vysla ir Nogatu."
   pagrindžia:
     - c-90803
 
 <a id="claim-t-96083"></a>
-- t-015
+- t-006
   global_id: t-96083
   teiginys: "XIII-XIV a. pirmos pusės šaltinių analizė sieja baltų religiją su antropomorfine dievybe, panašia į krikščioniškąjį Dievą."
   pagrindžia:
     - c-90796
 
 <a id="claim-t-96084"></a>
-- t-012
+- t-007
   global_id: t-96084
   teiginys: "Manoma, kad žalvario amžiuje baltų arealas siekė Oderio žemupį."
   pagrindžia:
     - c-90804
 
 <a id="claim-t-96085"></a>
-- t-020
+- t-008
   global_id: t-96085
   teiginys: "Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių."
   pagrindžia:
     - c-31043
 
 <a id="claim-t-96086"></a>
-- t-018
+- t-009
   global_id: t-96086
   teiginys: "Baltais vadinama indoeuropiečių genčių ir tautų grupė, gyvenusi arba gyvenanti rytiniame Baltijos jūros pakraštyje ir kalbanti giminiškomis kalbomis."
   pagrindžia:
     - c-90800
 
 <a id="claim-t-96087"></a>
-- t-009
+- t-010
   global_id: t-96087
   teiginys: "Lietuvos pastangomis bendrai kovai prieš vokiečių feodalinę agresiją buvo mobilizuojami beveik visi baltai."
   pagrindžia:
     - c-90795
 
 <a id="claim-t-96088"></a>
-- t-014
+- t-011
   global_id: t-96088
   teiginys: "Kai kurios senovės baltų ir lietuvių šventovės buvo įtvirtintos tarsi pilys."
   pagrindžia:
     - c-90798
 
 <a id="claim-t-183122"></a>
-- t-021
+- t-012
   global_id: t-183122
   teiginys: "Baltų gentys pradėjo formuotis III tūkstantmečio pr. Kr. pabaigoje, kai indoeuropiečiai pajungė ir asimiliavo vietinius gyventojus."
   pagrindžia:
@@ -408,6 +409,8 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70378|vakariniai baltai]]: Prie vakarinių baltų priskiriami prūsai, kuršiai, nadruviai ir skalviai, o dalis jų XIV–XVI a. sulietuvėjo.
 - susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-78714|Lietuvių kariavimo būdas ir pilių įgulos]]: XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų.
 - susijęs iš [[objektai/paprociai/Lietuvių kariavimo būdas ir pilių įgulos.md#claim-t-78716|Lietuvių kariavimo būdas ir pilių įgulos]]: Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau.
+- susijęs iš [[objektai/daiktai/Lėkštė.md#claim-t-195341|Lėkštė]]: Vestuvių vakarienės indas ir gervės vaidinimo taikinys ant stalo.
+- susijęs iš [[objektai/daiktai/Šaukštas.md#claim-t-195319|Šaukštas]]: Šaukštas minimas kaip vienas kerdžiaus padirbamų daiktų.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/vakariniai baltai.md#claim-t-70376|vakariniai baltai]]: Šio leidimo aiškinime prūsai ir jotvingiai priskiriami vakarų baltų tarmių regionui.
 - susijęs iš [[objektai/daiktai/Gyvatgalviai kapliai.md#claim-t-89427|Gyvatgalviai kapliai]]: Žalvario amžiuje gyvatgalviai kapliai buvo paplitę į vakarus iki Persantės ir laikomi būdingais baltų kultūrinei sričiai.

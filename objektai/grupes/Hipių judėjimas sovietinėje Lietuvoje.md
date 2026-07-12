@@ -36,21 +36,21 @@ Apie 1968 m. atsirado pirmosios hipių judėjimo grupelės, o Prahos pavasaris s
 ## Teiginiai
 
 <a id="claim-t-19705"></a>
-- t-002
+- t-001
   global_id: t-19705
   teiginys: "Sovietinės Lietuvos hipių judėjimas protestavo prieš sovietinę sistemą, o ne prieš vartotojišką visuomenę kaip Vakarų hipiai."
   pagrindžia:
     - c-22411
 
 <a id="claim-t-19706"></a>
-- t-003
+- t-002
   global_id: t-19706
   teiginys: "1971 m. viename Vilniaus restorane įvyko nelegalus roko festivalis, vadintas Baltijos šalių ar SSRS hipių suvažiavimu."
   pagrindžia:
     - c-22412
 
 <a id="claim-t-183132"></a>
-- t-004
+- t-003
   global_id: t-183132
   teiginys: "Sovietinės Lietuvos hipių judėjimas protestavo prieš sovietinę sistemą, o ne prieš vartotojišką visuomenę kaip Vakarų hipiai."
   pagrindžia:

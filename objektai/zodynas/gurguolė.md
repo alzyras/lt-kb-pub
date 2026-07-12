@@ -44,56 +44,56 @@ Bėgdami Timūr-Kutluko totoriai paėmė gurguolę, vežimus su geležinėmis gr
 ## Teiginiai
 
 <a id="claim-t-113626"></a>
-- t-003
+- t-001
   global_id: t-113626
   teiginys: "Sventopelko kariai užpuolė brolių gabenamą grobį, kurio gurguolė buvo išdrykusi per dvi mylias."
   pagrindžia:
     - c-104823
 
 <a id="claim-t-113627"></a>
-- t-004
+- t-002
   global_id: t-113627
   teiginys: "Vytautas mėgino užimti Žemutinę pilį, pasiųsdamas gurguolę su rogėse paslėptais ginkluotais žmonėmis."
   pagrindžia:
     - c-104824
 
 <a id="claim-t-113628"></a>
-- t-001
+- t-003
   global_id: t-113628
   teiginys: "Timūr-Kutluko totoriai paėmė gurguolę su vežimais, grandinėmis, patrankomis, arbaletais ir kitu turtu."
   pagrindžia:
     - c-104822
 
 <a id="claim-t-184613"></a>
-- t-005
+- t-004
   global_id: t-184613
   teiginys: "Prie Liubavos Sūduvos prūsai ir žemaičiai, pabėgę nuo kryžiuočių puolimo, paliko stovyklą ir gurguoles."
   pagrindžia:
     - c-167974
 
 <a id="claim-t-184615"></a>
-- t-007
+- t-005
   global_id: t-184615
   teiginys: "1301 m. lenkų būrys užpuolė besitraukiančių lietuvių ariergardą, kai visos gurguolės jau buvo nuvarytos į priekį."
   pagrindžia:
     - c-167976
 
 <a id="claim-t-184616"></a>
-- t-008
+- t-006
   global_id: t-184616
   teiginys: "Kęstutis ir Algirdas įsakė kariams trauktis rikiuotėje, susirinkti prie gurguolių ir žygiuoti prie artimiausio miško."
   pagrindžia:
     - c-167977
 
 <a id="claim-t-184617"></a>
-- t-009
+- t-007
   global_id: t-184617
   teiginys: "Jono Olbrachto kariuomenei žygiuojant prie Savranės upės, nedidelio būrio saugomos gurguolės lėtai slinko iš paskos."
   pagrindžia:
     - c-167978
 
 <a id="claim-t-193378"></a>
-- t-010
+- t-008
   global_id: t-193378
   teiginys: "Jeigu, metę gurguoles, leistųsi netrukdomi į tėvynę, galėtų pasprukti nuo visų pavojų ir dėl to, kad jų raitija kur kas lengvesnė ir eiklesnė, ir dėl to, kad lenkams, užgrobusiems stovyklą ir paėmusiems visą grobį, nebūtų buvę saugu miškais vy tis bėgantį."
   pagrindžia:

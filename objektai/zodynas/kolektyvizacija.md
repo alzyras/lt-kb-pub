@@ -37,14 +37,14 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
 ## Teiginiai
 
 <a id="claim-t-75556"></a>
-- t-004
+- t-001
   global_id: t-75556
   teiginys: "Po kolektyvizacijos LSSR prieškarinį javų derlingumo, gyvulių skaičiaus ir produktyvumo lygį pasiekė tik po 20 metų."
   pagrindžia:
     - c-73298
 
 <a id="claim-t-75557"></a>
-- t-001
+- t-002
   global_id: t-75557
   teiginys: "Kolektyvizacija sovietinėse respublikose reiškė privačios nuosavybės naikinimą žemės ūkyje ir kolektyvinių ūkių steigimą."
   pagrindžia:
@@ -58,7 +58,7 @@ Tačiau kolektyvizacija Lietuvoje strigo dėl partizaninio karo. Kolektyvizacija
     - c-73299
 
 <a id="claim-t-75559"></a>
-- t-002
+- t-004
   global_id: t-75559
   teiginys: "Kolektyvizacija sovietmečiu reiškė vienkiemių naikinimą ir jų savininkų kėlimą į kolektyvines gyvenvietes, miestelius ar miestus."
   pagrindžia:

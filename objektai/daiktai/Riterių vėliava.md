@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179491"></a>
-- t-002
+- t-001
   global_id: t-179491
   teiginys: "Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime."
   pagrindžia:
     - c-163190
 
 <a id="claim-t-179493"></a>
-- t-001
+- t-002
   global_id: t-179493
   teiginys: "Po Aizkrauklės kautynių riterių vėliava atiteko pagonims."
   pagrindžia:

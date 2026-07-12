@@ -44,21 +44,21 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 ## Teiginiai
 
 <a id="claim-t-81588"></a>
-- t-005
+- t-001
   global_id: t-81588
   teiginys: "1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut."
   pagrindžia:
     - c-78179
 
 <a id="claim-t-81591"></a>
-- t-006
+- t-002
   global_id: t-81591
   teiginys: "Prancūzai, vadovaujami Boucicaut'o, per kautynes pridarė nemažai žalos apgultiesiems."
   pagrindžia:
     - c-78180
 
 <a id="claim-t-81592"></a>
-- t-007
+- t-003
   global_id: t-81592
   teiginys: "Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą."
   pagrindžia:
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
     - c-78185
 
 <a id="claim-t-183891"></a>
-- t-008
+- t-005
   global_id: t-183891
   teiginys: "1200 m. prancūzai ir Venecijos kariai užėmė Konstantinopolį, įsiveržę pro sieną, ant kurios buvo nupieštas angelas."
   pagrindžia:
@@ -215,6 +215,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 - susijęs iš [[objektai/autoriai/Giovanni Villani.md#claim-t-88057|Giovanni Villani]]: Giovanni Villani nurodytas kaip šaltinis apie anglų bombardų panaudojimą 1346 m. rugpjūčio 26 d. mūšyje prie Kreši.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72653|Templininkų ordinas]]: Prancūzai turėjo templininkų ordiną, priskiriamą kariaujančiųjų riterių ordinams.
 - susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.
+- susijęs iš [[objektai/asmenys/Slinkšė (prancūzmečio liudininkas).md#claim-t-195563|Slinkšė (prancūzmečio liudininkas)]]: Slinkšė buvo laikomas tų namų šeimininko „strujumi“.
 - susijęs iš [[objektai/grupes/Templininkų ordinas.md#claim-t-72652|Templininkų ordinas]]: Templininkų ordinas buvo prancūzų ordinas, minimas šalia italų joanitų ir vokiečių Marijos Mergelės ordino.
 - susijęs iš [[objektai/zodynas/Venedija ir venedų vardo formos.md#claim-t-192163|Venedija ir venedų vardo formos]]: Venedų vardą Teodoras Narbutas kildino iš senovės Šiaurės Europos kalbų žodžių Unda, Wend ir Wand.
 - susijęs iš [[objektai/ivykiai/Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.).md#claim-t-62780|Flandrijos sukilimas ir kautynės su prancūzais (1302–1303 m.)]]: Liepos mėnesį Flandrijos gyventojai sukilo prieš Prancūzijos karalių ir mūšyje nukovė tris tūkstančius prancūzų kilmingųjų.

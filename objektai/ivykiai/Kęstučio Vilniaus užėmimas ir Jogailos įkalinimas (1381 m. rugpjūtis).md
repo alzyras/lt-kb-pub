@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86918"></a>
-- t-002
+- t-001
   global_id: t-86918
   teiginys: "Kęstutis iš Trakų atžygiavo į Vilnių, apsupo Žemutinę pilį ir sučiupo Jogailą su motina, seserimi Marija bei jos vyru."
   pagrindžia:
     - c-82897
 
 <a id="claim-t-86919"></a>
-- t-001
+- t-002
   global_id: t-86919
   teiginys: "Jogaila be Kęstučio žinios sudarė slaptą sutartį su Livonijos magistru, kad šis padėtų vykdyti jo užmačias."
   pagrindžia:

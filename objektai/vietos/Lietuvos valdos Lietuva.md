@@ -34,14 +34,14 @@ Sunkumus įveikę kariai pasiekė Lietuvos valdas, kur šiek tiek pailsėjo ir a
     - c-168603
 
 <a id="claim-t-185244"></a>
-- t-003
+- t-002
   global_id: t-185244
   teiginys: "Lietuva juto baisią maisto stoką, todėl Jogaila įsakė grūdų laivus siųsti į Prūsijos pasienį ir vežti grūdus į Lietuvą."
   pagrindžia:
     - c-168605
 
 <a id="claim-t-193422"></a>
-- t-004
+- t-003
   global_id: t-193422
   teiginys: "Tais pačiais metais mirė Vilniaus vyskupas Jokūbas, lietuvis, iš pranciškočiams rodėsi, jog jiems per maža neseniai atiduotos Že maitijos, dėl to puoselėjo viltį užgrobti visą Lietuvą."
   pagrindžia:

@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66992"></a>
-- t-003
+- t-001
   global_id: t-66992
   teiginys: "1430 m. spalio 17 d. iš Vilniaus į Trakus išjojęs Vytautas pakeliui nukrito nuo arklio ir nuo patalo nebepakilo."
   pagrindžia:
     - c-04920
 
 <a id="claim-t-66993"></a>
-- t-004
+- t-002
   global_id: t-66993
   teiginys: "Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių."
   pagrindžia:

@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62681"></a>
-- t-002
+- t-001
   global_id: t-62681
   teiginys: "Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui."
   pagrindžia:
     - c-63426
 
 <a id="claim-t-62682"></a>
-- t-001
+- t-002
   global_id: t-62682
   teiginys: "Karaliaučiaus pilies broliai lenkė kitus pasninku, maldomis, naktiniais budėjimais ir klūpojimu bažnyčioje."
   pagrindžia:
@@ -73,7 +73,7 @@ Nenurodyta
     - c-63424
 
 <a id="claim-t-62681"></a>
-- t-002
+- t-004
   global_id: t-62681
   teiginys: "Brolis Volframas Saksas Karaliaučiaus pilyje keldavosi iš lovos maldai ir uoliai tarnavo Dievui."
   pagrindžia:

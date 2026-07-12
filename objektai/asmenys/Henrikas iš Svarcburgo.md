@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - teisinė-praktika
   - tikėjimas
-  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
     - c-167467
 
 <a id="claim-t-60315"></a>
-- t-001
+- t-002
   global_id: t-60315
   teiginys: "1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę."
   pagrindžia:

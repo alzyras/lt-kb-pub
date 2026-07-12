@@ -13,7 +13,7 @@ tags:
   - grupe
   - karalius
   - miestas
-  - privilegija
+  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Tačiau Aleksandro ir Elenos santuoka išplė­ tė prekybinius Vilniaus santyki
 ## Teiginiai
 
 <a id="claim-t-86770"></a>
-- t-002
+- t-001
   global_id: t-86770
   teiginys: "Rusų pirkliai Vilniuje anksčiau apsistodavo įvairiuose namuose, neprisistatydavo ir išvykdavo niekam nepranešę."
   pagrindžia:
     - c-82749
 
 <a id="claim-t-86771"></a>
-- t-001
+- t-002
   global_id: t-86771
   teiginys: "Rusų pirkliai, atvykę į Vilnių, privalėjo apsistoti Svečių namuose, sumokėti prekių muitą ir pranešti pilininkui."
   pagrindžia:

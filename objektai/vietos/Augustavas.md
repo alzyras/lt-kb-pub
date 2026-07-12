@@ -36,7 +36,7 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 ## Teiginiai
 
 <a id="claim-t-73989"></a>
-- t-004
+- t-001
   global_id: t-73989
   teiginys: "Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože."
   pagrindžia:

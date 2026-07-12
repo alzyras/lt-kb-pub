@@ -66,49 +66,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75334"></a>
-- t-009
+- t-001
   global_id: t-75334
   teiginys: "Liepos 9 d. Vingio parke LPS vadovybė pareikalavo legalizuoti tautinius simbolius: trispalvę ir „Tautišką giesmę“."
   pagrindžia:
     - c-26857
 
 <a id="claim-t-75335"></a>
-- t-014
+- t-002
   global_id: t-75335
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę."
   pagrindžia:
     - c-26858
 
 <a id="claim-t-75336"></a>
-- t-013
+- t-003
   global_id: t-75336
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP vadovybė oficialiai pripažino trispalvę ir „Tautišką giesmę“."
   pagrindžia:
     - c-73140
 
 <a id="claim-t-75337"></a>
-- t-010
+- t-004
   global_id: t-75337
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus."
   pagrindžia:
     - c-26858
 
 <a id="claim-t-75338"></a>
-- t-012
+- t-005
   global_id: t-75338
   teiginys: "Po Aleksandro Jakovlevo apsilankymo Lietuvoje LKP oficialiai pripažino trispalvę ir „Tautišką giesmę“."
   pagrindžia:
     - c-73140
 
 <a id="claim-t-75339"></a>
-- t-011
+- t-006
   global_id: t-75339
   teiginys: "1919 m. rugsėjo 26 d. virš Kauno skraidę lėktuvai tempė Lietuvos trispalvę."
   pagrindžia:
     - c-16406
 
 <a id="claim-t-193579"></a>
-- t-015
+- t-007
   global_id: t-193579
   teiginys: "Stiprėjo Lietuvos žaliųjų judėjimas."
   pagrindžia:

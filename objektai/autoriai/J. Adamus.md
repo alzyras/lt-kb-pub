@@ -38,21 +38,21 @@ Adamus : Zastaw w prawie litewskiem XV i XVI wieku , Pamięt­ nik Historyczno-P
 ## Teiginiai
 
 <a id="claim-t-30654"></a>
-- t-002
+- t-001
   global_id: t-30654
   teiginys: "J. Adamus 1930 m. žurnale KH paskelbė darbą „O tytule panującego i państwa litewskiego“."
   pagrindžia:
     - c-32951
 
 <a id="claim-t-30655"></a>
-- t-003
+- t-002
   global_id: t-30655
   teiginys: "J. Adamus 1930 m. paskelbė darbą „O tytule panującego“."
   pagrindžia:
     - c-32952
 
 <a id="claim-t-30656"></a>
-- t-001
+- t-003
   global_id: t-30656
   teiginys: "J. Adamus 1925 m. paskelbė darbą „Zastaw w prawie litewskiem XV i XVI wieku“."
   pagrindžia:

@@ -36,28 +36,28 @@ Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, �
 ## Teiginiai
 
 <a id="claim-t-101571"></a>
-- t-004
+- t-001
   global_id: t-101571
   teiginys: "Sąjungininkai Lietuvą įsivaizdavo kaip buferinę valstybę ir saugumo kordono nuo bolševizmo dalį."
   pagrindžia:
     - c-95097
 
 <a id="claim-t-101572"></a>
-- t-003
+- t-002
   global_id: t-101572
   teiginys: "Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją."
   pagrindžia:
     - c-24771
 
 <a id="claim-t-101573"></a>
-- t-002
+- t-003
   global_id: t-101573
   teiginys: "Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo."
   pagrindžia:
     - c-24771
 
 <a id="claim-t-101574"></a>
-- t-001
+- t-004
   global_id: t-101574
   teiginys: "Vakarų šalys, manydamos sukurti cordon sanitaire tarp Rusijos ir Vokietijos, į Lenkijos planus žiūrėjo palankiai, tačiau Lietuva manė juos keliant grėsmę savo sienoms ir atskiram valstybiniam gyvenimui."
   pagrindžia:

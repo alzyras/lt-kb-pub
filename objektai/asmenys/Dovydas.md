@@ -35,21 +35,21 @@ Dusburgietis teigia, kad štai ir Dovydas, dievo malone pakeltas į tikinčiųj�
 ## Teiginiai
 
 <a id="claim-t-82261"></a>
-- t-004
+- t-001
   global_id: t-82261
   teiginys: "Dovydas prieš paliaubas su stipria lietuvių kariuomene įsiveržė į Dobrynės žemę Plocko diecezijoje ir ją nusiaubė."
   pagrindžia:
     - c-78749
 
 <a id="claim-t-184693"></a>
-- t-005
+- t-002
   global_id: t-184693
   teiginys: "Pulko vadas Dovydas žuvo grįždamas su kariuomene namo po Mazovijos siaubimo."
   pagrindžia:
     - c-168054
 
 <a id="claim-t-193906"></a>
-- t-006
+- t-003
   global_id: t-193906
   teiginys: "Paskui, po didžiojo kunigaikš čio Algirdo mirties praėjus dvejiems ar daugiau metų, didysis kunigaikštis Jogaila jį labai aukštai iškėlė ir išleido už jo tikrą savo seserį, kunigaikštytę Mariją 3 B , kuri buvo pirmiau ištekėjusi už kunigaikščio Dovydo 4 0 ."
   pagrindžia:

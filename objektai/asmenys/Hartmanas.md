@@ -13,6 +13,7 @@ tags:
   - asmuo
   - krikštas
   - pilis
+  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - karalius
   - ordinas
 amziai:
@@ -65,42 +66,42 @@ Nenurodyta
     - c-82964
 
 <a id="claim-t-86984"></a>
-- t-003
+- t-002
   global_id: t-86984
   teiginys: "Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų."
   pagrindžia:
     - c-82963
 
 <a id="claim-t-86985"></a>
-- t-002
+- t-003
   global_id: t-86985
   teiginys: "Per Kęstučio laidotuves Vilniuje kartu su jo palaikais buvo sudeginti drabužiai, ginklai, žirgai, medžiokliniai šunys ir paukščiai."
   pagrindžia:
     - c-82965
 
 <a id="claim-t-86986"></a>
-- t-005
+- t-004
   global_id: t-86986
   teiginys: "Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis."
   pagrindžia:
     - c-82966
 
 <a id="claim-t-86987"></a>
-- t-006
+- t-005
   global_id: t-86987
   teiginys: "Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas."
   pagrindžia:
     - c-82962
 
 <a id="claim-t-86988"></a>
-- t-007
+- t-006
   global_id: t-86988
   teiginys: "Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga."
   pagrindžia:
     - c-82968
 
 <a id="claim-t-86989"></a>
-- t-004
+- t-007
   global_id: t-86989
   teiginys: "Vilniaus miestiečiai gynybai turėjo turėti šarvus, muškietą ir ragotinę, o miesto taryba prižiūrėjo patrankas ir arkebuzas."
   pagrindžia:

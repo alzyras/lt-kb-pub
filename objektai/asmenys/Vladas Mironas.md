@@ -38,35 +38,35 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
 ## Teiginiai
 
 <a id="claim-t-54005"></a>
-- t-002
+- t-001
   global_id: t-54005
   teiginys: "Po Klaipėdos atplėšimo Vladą Mironą premjero poste pakeitė generolas Jonas Černius."
   pagrindžia:
     - c-54989
 
 <a id="claim-t-54006"></a>
-- t-005
+- t-002
   global_id: t-54006
   teiginys: "Po Klaipėdos atplėšimo V. Mironą ministro pirmininko poste pakeitė generolas Jonas Černius."
   pagrindžia:
     - c-54990
 
 <a id="claim-t-54007"></a>
-- t-004
+- t-003
   global_id: t-54007
   teiginys: "Priėmus Lenkijos ultimatumą, kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko poste."
   pagrindžia:
     - c-54988
 
 <a id="claim-t-54008"></a>
-- t-001
+- t-004
   global_id: t-54008
   teiginys: "Po Lenkijos ultimatumo Vladas Mironas pakeitė Juozą Tūbelį Lietuvos premjero poste."
   pagrindžia:
     - c-54988
 
 <a id="claim-t-54009"></a>
-- t-003
+- t-005
   global_id: t-54009
   teiginys: "1938 m. gegužės 12 d. ministras pirmininkas V. Mironas pasirašė naują Lietuvos konstituciją."
   pagrindžia:

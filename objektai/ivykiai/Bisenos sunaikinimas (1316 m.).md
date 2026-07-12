@@ -52,21 +52,21 @@ Pilis sudeginta ir liko apleista.
 ## Teiginiai
 
 <a id="claim-t-97014"></a>
-- t-002
+- t-001
   global_id: t-97014
   teiginys: "1316 m. balandžio 4 d. Ditrichas iš Altenburgo ir Fridrichas Kvicas, užklupę Bisenės sargybos kaitą, įėjo į tuščią pilį ir ją sudegino."
   pagrindžia:
     - c-91569
 
 <a id="claim-t-97016"></a>
-- t-001
+- t-002
   global_id: t-97016
   teiginys: "1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną."
   pagrindžia:
     - c-91568
 
 <a id="claim-t-97016"></a>
-- t-001
+- t-003
   global_id: t-97016
   teiginys: "1316 m. kryžiuočiams pavyko sunaikinti žemaičių Biseną."
   pagrindžia:

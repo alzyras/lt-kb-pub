@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - drabužis
   - pinigai
   - saltinis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

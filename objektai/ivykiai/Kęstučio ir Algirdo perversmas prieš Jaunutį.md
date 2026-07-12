@@ -62,14 +62,14 @@ Nenurodyta
     - c-170453
 
 <a id="claim-t-187493"></a>
-- t-003
+- t-002
   global_id: t-187493
   teiginys: "Kai kuriuose Platesniojo sąvado nuorašuose po 1345 m. Kęstučio ir Algirdo perversmo įdėtas Algirdo sūnų ir jų valdų išskaičiavimas."
   pagrindžia:
     - c-170452
 
 <a id="claim-t-187494"></a>
-- t-002
+- t-003
   global_id: t-187494
   teiginys: "Kęstučio ir Algirdo sąmokslas prieš brolį Jaunutį datuojamas 1345 metais."
   pagrindžia:

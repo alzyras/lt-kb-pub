@@ -38,7 +38,7 @@ Dusburgietis teigia, kad nuo jo įsikūnijimo 1190 metais, tuo laiku, kai krikš
 ## Teiginiai
 
 <a id="claim-t-58534"></a>
-- t-002
+- t-001
   global_id: t-58534
   teiginys: "Bremeno ir Liubeko miestiečiai, laikomi pirmaisiais ordino steigėjais, padovanojo Henrikui Valpotui ligoninę Akone."
   pagrindžia:

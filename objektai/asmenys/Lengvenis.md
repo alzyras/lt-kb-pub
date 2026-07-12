@@ -52,7 +52,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-50282
 
 <a id="claim-t-47955"></a>
-- t-005
+- t-003
   global_id: t-47955
   teiginys: "Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas."
   pagrindžia:
@@ -66,14 +66,14 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     - c-30252
 
 <a id="claim-t-47957"></a>
-- t-004
+- t-005
   global_id: t-47957
   teiginys: "Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų."
   pagrindžia:
     - c-30252
 
 <a id="claim-t-47958"></a>
-- t-003
+- t-006
   global_id: t-47958
   teiginys: "Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai."
   pagrindžia:

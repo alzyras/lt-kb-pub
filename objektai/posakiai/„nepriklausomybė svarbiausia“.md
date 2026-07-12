@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - diplomatas
   - posakis
+  - schema
 amziai:
   - 'XX'
   - 'XXI'

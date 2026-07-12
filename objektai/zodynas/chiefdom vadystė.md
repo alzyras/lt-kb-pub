@@ -9,7 +9,8 @@ date_start: '1009'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XI'
 media_total_count: '0'

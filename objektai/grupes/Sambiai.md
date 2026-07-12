@@ -40,14 +40,14 @@ Baltų / prūsų regioninė grupė.
 ## Teiginiai
 
 <a id="claim-t-188047"></a>
-- t-002
+- t-001
   global_id: t-188047
   teiginys: "Narbutas prie „didžiųjų“ lietuvių dievų priskyrė dievus, kuriuos M. Strijkovskis siejo su lietuviais, žemaičiais, sambiais, latviais ir prūsais."
   pagrindžia:
     - c-170875
 
 <a id="claim-t-192454"></a>
-- t-003
+- t-002
   global_id: t-192454
   teiginys: "Narbutas Sambijos gyventojus siejo daugiausia su senovės budinais, įsikūrusiais ten lietuvių protėviams atėjus į šiuos kraštus."
   pagrindžia:

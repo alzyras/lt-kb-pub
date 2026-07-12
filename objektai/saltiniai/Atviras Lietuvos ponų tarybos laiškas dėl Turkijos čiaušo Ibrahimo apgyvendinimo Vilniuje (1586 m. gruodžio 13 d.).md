@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigaikštis
   - saltinis
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'

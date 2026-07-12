@@ -44,14 +44,14 @@ tiksli leksinė reikšmė pateikta tik per Narbuto paaiškinimą.
 ## Teiginiai
 
 <a id="claim-t-192216"></a>
-- t-002
+- t-001
   global_id: t-192216
   teiginys: "Narbutas „Nadrau“ aiškina kaip lietuviškai-prūsišką žodį, turėjusį reikšti vidų."
   pagrindžia:
     - c-175071
 
 <a id="claim-t-192565"></a>
-- t-003
+- t-002
   global_id: t-192565
   teiginys: "Narbutas Nadruvos pavadinimą kildina iš žodžio „Nadrau“, lietuviškai-prūsiškai turėjusio reikšti vidų."
   pagrindžia:

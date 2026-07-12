@@ -43,7 +43,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
 ## Teiginiai
 
 <a id="claim-t-187917"></a>
-- t-003
+- t-001
   global_id: t-187917
   teiginys: "Narbutas citavo Gvaninio 1610 m. liudijimą, kad kai kurie žmonės namuose laikė žalčius ar gyvates ir aukos vietoj duodavo jiems pieno."
   pagrindžia:
@@ -57,7 +57,7 @@ Aleksandras Gvaninis šiame leidinyje siejamas su senąja lietuvių mitologijos 
     - c-170906
 
 <a id="claim-t-187919"></a>
-- t-001
+- t-003
   global_id: t-187919
   teiginys: "Narbutas rašė, kad Gvaninis ir Meletijus Ukapirmą lygino su Perkūnu, nes šis laikytas dangaus ir žemės viešpačiu."
   pagrindžia:

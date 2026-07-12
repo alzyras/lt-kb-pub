@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - sąvoka
   - tauta
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10883"></a>
-- t-003
+- t-001
   global_id: t-10883
   teiginys: "Laisvamanybė pateikiama kaip viena iš pagrindinių J. Šliūpo gyvenimo kovų."
   pagrindžia:
     - c-00276
 
 <a id="claim-t-10884"></a>
-- t-004
+- t-002
   global_id: t-10884
   teiginys: "Laisvamaniai kartu su griežtesniaisiais tautininkais susibūrė apie Joną Šliūpą."
   pagrindžia:

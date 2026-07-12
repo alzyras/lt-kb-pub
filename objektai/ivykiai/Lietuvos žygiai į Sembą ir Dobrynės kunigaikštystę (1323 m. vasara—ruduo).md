@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89380"></a>
-- t-002
+- t-001
   global_id: t-89380
   teiginys: "Lietuvos kariuomenė vasarą puolė Ordiną Semboje ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę."
   pagrindžia:
     - c-85335
 
 <a id="claim-t-89381"></a>
-- t-001
+- t-002
   global_id: t-89381
   teiginys: "1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva, o rudenį patraukė į Dobrynės kunigaikštystę ginti Mazovijos."
   pagrindžia:

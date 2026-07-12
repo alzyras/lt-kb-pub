@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67530"></a>
-- t-002
+- t-001
   global_id: t-67530
   teiginys: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto."
   pagrindžia:
     - c-23951
 
 <a id="claim-t-67531"></a>
-- t-001
+- t-002
   global_id: t-67531
   teiginys: "1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis."
   pagrindžia:

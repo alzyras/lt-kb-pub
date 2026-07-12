@@ -36,21 +36,21 @@ Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vo
 ## Teiginiai
 
 <a id="claim-t-70055"></a>
-- t-005
+- t-001
   global_id: t-70055
   teiginys: "Vakarų Bažnyčios schizmos metu Romos popiežiai negalėjo stipriai spausti Vokiečių ordino dėl puolimų prieš lietuvius."
   pagrindžia:
     - c-14677
 
 <a id="claim-t-70056"></a>
-- t-003
+- t-002
   global_id: t-70056
   teiginys: "Vakarų Bažnyčios schizma trukdė Romos popiežiams veiksmingai spausti Ordiną."
   pagrindžia:
     - c-14677
 
 <a id="claim-t-70057"></a>
-- t-006
+- t-003
   global_id: t-70057
   teiginys: "1414 m. visuotinis bažnyčios susirinkimas turėjo pašalinti Vakarų Bažnyčios schizmą ir spręsti tikėjimo klausimus."
   pagrindžia:

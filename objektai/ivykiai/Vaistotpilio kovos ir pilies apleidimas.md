@@ -46,14 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89412"></a>
-- t-003
+- t-001
   global_id: t-89412
   teiginys: "Bartos žemėje, Gubros pakrantėje, broliai turėjo pilį, vadintą Vaistotpiliu."
   pagrindžia:
     - c-85373
 
 <a id="claim-t-89413"></a>
-- t-001
+- t-002
   global_id: t-89413
   teiginys: "Vaistotpilio pilies broliai persekiojo prūsų kariuomenę, apiplėšusią du kaimus prie pilies."
   pagrindžia:
@@ -61,7 +61,7 @@ Nenurodyta
     - c-85373
 
 <a id="claim-t-89414"></a>
-- t-002
+- t-003
   global_id: t-89414
   teiginys: "Prūsai apsupo Vaistotpilio pilį ir puolė ją nuo aušros iki sutemų, o broliai narsiai gynėsi."
   pagrindžia:

@@ -15,6 +15,7 @@ date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kraštas
   - valstybė
   - vieta
@@ -42,70 +43,70 @@ Klaipėdos krašto atskyrimas nuo Vokietijos. Didžiosios valstybės, arba vadin
 ## Teiginiai
 
 <a id="claim-t-182764"></a>
-- t-113
+- t-001
   global_id: t-182764
   teiginys: "Jono Budrio vadovaujamas Klaipėdos sukilimas padėjo Lietuvai XX a. pirmoje pusėje susigrąžinti Klaipėdos kraštą."
   pagrindžia:
     - c-166175
 
 <a id="claim-t-183030"></a>
-- t-011
+- t-002
   global_id: t-183030
   teiginys: "Taikos konferencija atskyrė Klaipėdos kraštą nuo Vokietijos, bet jo neprijungė prie Lietuvos."
   pagrindžia:
     - c-166422
 
 <a id="claim-t-183602"></a>
-- t-115
+- t-003
   global_id: t-183602
   teiginys: "1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai."
   pagrindžia:
     - c-166994
 
 <a id="claim-t-183603"></a>
-- t-116
+- t-004
   global_id: t-183603
   teiginys: "Pagal Versalio sutartį Klaipėdą ir Klaipėdos kraštą valdė prancūzų administracija, remiama prancūzų pėstininkų bataliono."
   pagrindžia:
     - c-166995
 
 <a id="claim-t-183605"></a>
-- t-118
+- t-005
   global_id: t-183605
   teiginys: "Berlyne nustatyta sienos linija Klaipėdos teritoriją paliko Lietuvos pusėje."
   pagrindžia:
     - c-166997
 
 <a id="claim-t-183606"></a>
-- t-119
+- t-006
   global_id: t-183606
   teiginys: "Klaipėdos krašto integravimą sunkino tai, kad vokiškoji krašto direktorija labiau klausė Vokietijos nurodymų."
   pagrindžia:
     - c-166998
 
 <a id="claim-t-183607"></a>
-- t-120
+- t-007
   global_id: t-183607
   teiginys: "Įvesti mokymą lietuviškai pagal mokinių kilmę nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliudė integruoti Klaipėdos kraštą."
   pagrindžia:
     - c-166999
 
 <a id="claim-t-183608"></a>
-- t-121
+- t-008
   global_id: t-183608
   teiginys: "Klaipėdos kraštas daugeliu išsivystymo parametrų buvo panašesnis į Latviją ir Estiją, negu į Didžiąją Lietuvą."
   pagrindžia:
     - c-167000
 
 <a id="claim-t-193639"></a>
-- t-122
+- t-009
   global_id: t-193639
   teiginys: "1925 m. Klaipėdos krašto gyventojų surašymo duomenys parodė, kad krašte gyvena 141 000 gyventojų, iš jų 64 000 vokiečių, 37 000 lietuvių ir 34 000 „klaipėdiečių“, kurie namuose kalbėjo lietuviškai."
   pagrindžia:
     - c-176310
 
 <a id="claim-t-193640"></a>
-- t-123
+- t-010
   global_id: t-193640
   teiginys: "Tarpukariu Lietuva su Vokietija konfliktavo dėl Klaipėdos krašto, o su Lenkija – dėl Vilniaus krašto."
   pagrindžia:

@@ -41,217 +41,217 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-001
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172914"></a>
-- t-018
+- t-002
   global_id: t-172914
   teiginys: "Strijkovskis neužsiminė apie tariamą Goštauto vienuolystę ir vyskupystę, todėl ši aplinkybė tekste atmetama."
   pagrindžia:
     - c-157281
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-003
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172916"></a>
-- t-016
+- t-004
   global_id: t-172916
   teiginys: "Stryjkowskis nurodė, kad Švitrigaila piliai užimti pasinaudojo rusų vienuolių, vadintų čiornais, išdavyste."
   pagrindžia:
     - c-157275
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-005
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-006
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172920"></a>
-- t-011
+- t-007
   global_id: t-172920
   teiginys: "Strijkovskis klaidingai teigė, kad žygio vadovavimas buvo pavestas Konradui Valenrodui kaip didžiajam magistrui."
   pagrindžia:
     - c-157276
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-008
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-009
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-010
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-011
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-012
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-013
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172927"></a>
-- t-002
+- t-014
   global_id: t-172927
   teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimą, Goštautas pastatydino Šv. Petro bažnyčią."
   pagrindžia:
     - c-157279
 
 <a id="claim-t-172928"></a>
-- t-001
+- t-015
   global_id: t-172928
   teiginys: "Stryjkowskis savo kronikoje aiškino Šventaragio vardo kilmę."
   pagrindžia:
     - c-157286
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-016
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172930"></a>
-- t-010
+- t-017
   global_id: t-172930
   teiginys: "Strijkovskis ir Kojelavičius rašė, kad Vytautas paleido gandą apie Ringailės vestuves su Mazovijos kunigaikščiu Henriku."
   pagrindžia:
     - c-157273
 
 <a id="claim-t-172931"></a>
-- t-005
+- t-018
   global_id: t-172931
   teiginys: "Strijkovskis užsiminė apie mūšį, po kurio prie Sudervėlės upelio liko lietuvių sumuštų kryžiuočių kapavietė."
   pagrindžia:
     - c-157278
 
 <a id="claim-t-172932"></a>
-- t-003
+- t-019
   global_id: t-172932
   teiginys: "Strijkovskis plačiai aprašė gudrybes, kurių Kęstutis ėmėsi puldamas Vilnių."
   pagrindžia:
     - c-157288
 
 <a id="claim-t-172933"></a>
-- t-004
+- t-020
   global_id: t-172933
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
   pagrindžia:
     - c-157287
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-021
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172935"></a>
-- t-006
+- t-022
   global_id: t-172935
   teiginys: "Strijkovskis teigė, kad Gedimino palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   pagrindžia:
     - c-157282
 
 <a id="claim-t-172936"></a>
-- t-013
+- t-023
   global_id: t-172936
   teiginys: "Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors šis tapatinimas laikomas klaidingu."
   pagrindžia:
     - c-157271
 
 <a id="claim-t-172937"></a>
-- t-012
+- t-024
   global_id: t-172937
   teiginys: "Strijkovskis klaidingai nurodė, kad Lankasteris, Anglijos karaliaus Henriko sūnus, su didelėmis pajėgomis įsibrovė į Lietuvą."
   pagrindžia:
     - c-157274
 
 <a id="claim-t-172913"></a>
-- t-009
+- t-025
   global_id: t-172913
   teiginys: "Strijkovskis savo kronikoje minėjo, kad Šv. Martyno bažnyčia XVI a. jau buvo apleista ir sugriauta."
   pagrindžia:
     - c-157285
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-026
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172940"></a>
-- t-007
+- t-027
   global_id: t-172940
   teiginys: "Strijkovskis klydo teigdamas, kad miškas lietuviškai vadinamas lauku ir iš šio žodžio kilo Lukiškių pavadinimas."
   pagrindžia:
     - c-157280
 
 <a id="claim-t-172941"></a>
-- t-015
+- t-028
   global_id: t-172941
   teiginys: "Strijkovskis, aprašydamas Vilniaus apgultį, teigė, kad Mikalojus Moskorovskis su lenkais narsiai gynė Aukštutinę pilį."
   pagrindžia:
     - c-157277
 
 <a id="claim-t-172942"></a>
-- t-014
+- t-029
   global_id: t-172942
   teiginys: "Strijkovskis prie Vilniaus apsupties metu nukautųjų priskyrė Narimantą ir pateikė Długoszo pasakojimą apie jo mirtį."
   pagrindžia:
     - c-157284
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-030
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:
     - c-157272
 
 <a id="claim-t-172922"></a>
-- t-008
+- t-031
   global_id: t-172922
   teiginys: "Strijkovskis rašė, kad Antakalnyje buvusi didžiulė menė arba šventovė, kur ketvirtadieniais dvasininkai degindavo vaško žvakes."
   pagrindžia:

@@ -29,7 +29,7 @@ Dusburgietis teigia, kad zinkevičius Z. Dusburgietis teigia, kad zinkevičius Z
 ## Teiginiai
 
 <a id="claim-t-61020"></a>
-- t-002
+- t-001
   global_id: t-61020
   teiginys: "Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje."
   pagrindžia:

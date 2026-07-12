@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87443"></a>
-- t-003
+- t-001
   global_id: t-87443
   teiginys: "Aleksandras siekė suimti ir įbauginti Mendli Girėjų, todėl Šach Achmedas buvo iki gyvos galvos įkalintas Kaune."
   pagrindžia:

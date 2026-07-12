@@ -44,77 +44,77 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
 ## Teiginiai
 
 <a id="claim-t-172096"></a>
-- t-002
+- t-001
   global_id: t-172096
   teiginys: "Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma."
   pagrindžia:
     - c-156523
 
 <a id="claim-t-172097"></a>
-- t-010
+- t-002
   global_id: t-172097
   teiginys: "Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką."
   pagrindžia:
     - c-156521
 
 <a id="claim-t-172106"></a>
-- t-007
+- t-003
   global_id: t-172106
   teiginys: "Husitai ne kartą naudojosi Vytauto globa."
   pagrindžia:
     - c-156526
 
 <a id="claim-t-172100"></a>
-- t-005
+- t-004
   global_id: t-172100
   teiginys: "Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais."
   pagrindžia:
     - c-36797
 
 <a id="claim-t-172101"></a>
-- t-011
+- t-005
   global_id: t-172101
   teiginys: "Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais."
   pagrindžia:
     - c-156527
 
 <a id="claim-t-172102"></a>
-- t-001
+- t-006
   global_id: t-172102
   teiginys: "1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių."
   pagrindžia:
     - c-156524
 
 <a id="claim-t-172103"></a>
-- t-012
+- t-007
   global_id: t-172103
   teiginys: "Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos."
   pagrindžia:
     - c-156525
 
 <a id="claim-t-172104"></a>
-- t-004
+- t-008
   global_id: t-172104
   teiginys: "Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą."
   pagrindžia:
     - c-36796
 
 <a id="claim-t-172105"></a>
-- t-003
+- t-009
   global_id: t-172105
   teiginys: "Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje."
   pagrindžia:
     - c-36795
 
 <a id="claim-t-172106"></a>
-- t-007
+- t-010
   global_id: t-172106
   teiginys: "Husitai ne kartą naudojosi Vytauto globa."
   pagrindžia:
     - c-156526
 
 <a id="claim-t-184478"></a>
-- t-013
+- t-011
   global_id: t-184478
   teiginys: "1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje."
   pagrindžia:

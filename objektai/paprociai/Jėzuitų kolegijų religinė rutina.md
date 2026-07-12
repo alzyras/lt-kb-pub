@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67100"></a>
-- t-002
+- t-001
   global_id: t-67100
   teiginys: "Jėzuitų kolegijose buvo ypač prižiūrima, kad mokiniai atliktų religinę praktiką, lankytų mišias ir kitas pamaldas."
   pagrindžia:
     - c-67136
 
 <a id="claim-t-67103"></a>
-- t-001
+- t-002
   global_id: t-67103
   teiginys: "Jėzuitų kolegijose buvo prižiūrima, kad mokiniai atliktų religinę praktiką ir lankytų mišias."
   pagrindžia:

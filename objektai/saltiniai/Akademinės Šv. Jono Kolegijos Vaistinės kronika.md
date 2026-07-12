@@ -39,14 +39,14 @@ Jono Kolegijos Vaistinės kronika 1546. Toji vaistinė savo gyvavimo pradžioje,
 ## Teiginiai
 
 <a id="claim-t-88233"></a>
-- t-002
+- t-001
   global_id: t-88233
   teiginys: "Akademinė Šv. Jono kolegijos vaistinė gyvavimo pradžioje buvo įsteigta ir išlaikoma kolegijos lėšomis."
   pagrindžia:
     - c-84212
 
 <a id="claim-t-88234"></a>
-- t-001
+- t-002
   global_id: t-88234
   teiginys: "1546 m. būsimos Akademinės Šv. Jono kolegijos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   pagrindžia:

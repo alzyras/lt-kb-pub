@@ -41,21 +41,21 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
 ## Teiginiai
 
 <a id="claim-t-60094"></a>
-- t-002
+- t-001
   global_id: t-60094
   teiginys: "Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją."
   pagrindžia:
     - c-60726
 
 <a id="claim-t-60095"></a>
-- t-001
+- t-002
   global_id: t-60095
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno."
   pagrindžia:
     - c-60727
 
 <a id="claim-t-60095"></a>
-- t-001
+- t-003
   global_id: t-60095
   teiginys: "Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno."
   pagrindžia:

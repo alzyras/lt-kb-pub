@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-22068"></a>
-- t-002
+- t-001
   global_id: t-22068
   teiginys: "Abiejų Tautų Respublikoje atstovai rinkdavo valdovą, todėl santvarka galėjo atrodyti kaip respublika, o ne monarchija."
   pagrindžia:
     - c-24754
 
 <a id="claim-t-22069"></a>
-- t-001
+- t-002
   global_id: t-22069
   teiginys: "Abiejų Tautų Respublika sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir bajoriškosios demokratijos tradiciją."
   pagrindžia:

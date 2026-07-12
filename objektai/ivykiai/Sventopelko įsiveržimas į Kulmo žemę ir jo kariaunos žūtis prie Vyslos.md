@@ -62,7 +62,7 @@ Nenurodyta
     - c-67015
 
 <a id="claim-t-66922"></a>
-- t-001
+- t-003
   global_id: t-66922
   teiginys: "Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę."
   pagrindžia:

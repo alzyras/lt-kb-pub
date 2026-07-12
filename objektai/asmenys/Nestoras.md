@@ -61,35 +61,35 @@ Narbutas aiškina, kad Nestoras IX amžiuje Kuršo pavadinimą rašė „Korš�
     - c-173815
 
 <a id="claim-t-190935"></a>
-- t-006
+- t-005
   global_id: t-190935
   teiginys: "Teodoro Narbuto teigimu, Slėceris abejojo, ar iš Nestoro galima paaiškinti, kokiai tautai priklausė krivičiai."
   pagrindžia:
     - c-173817
 
 <a id="claim-t-190936"></a>
-- t-007
+- t-006
   global_id: t-190936
   teiginys: "Teodoras Narbutas rašo, kad Nestoras išsaugojo nepilną krivičių gyvenimo paveikslą: jie degino mirusiuosius ir pelenus rinko į urnas."
   pagrindžia:
     - c-173818
 
 <a id="claim-t-190937"></a>
-- t-008
+- t-007
   global_id: t-190937
   teiginys: "Teodoro Narbuto perteikimu, Nestoras pasakojo, kad 859 m. variagai paskyrė kailių duoklę ir krivičiams."
   pagrindžia:
     - c-173819
 
 <a id="claim-t-190938"></a>
-- t-009
+- t-008
   global_id: t-190938
   teiginys: "Teodoro Narbuto vertinimu, Nestoras, vadinamas rusų istorijos tėvu, rado mažai medžiagos ir užrašė tik sutrumpintas senų padavimų liekanas."
   pagrindžia:
     - c-173820
 
 <a id="claim-t-192598"></a>
-- t-010
+- t-009
   global_id: t-192598
   teiginys: "Teodoro Narbuto teigimu, Nestoras IX amžiuje žinojo šį kraštą ir jo gyventojus priskirdavo prie rusų variagų."
   pagrindžia:

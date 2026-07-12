@@ -84,49 +84,49 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
     - c-55509
 
 <a id="claim-t-54967"></a>
-- t-005
+- t-004
   global_id: t-54967
   teiginys: "Šaltinio pasakojime Rygos arkivyskupas kaltinamas Gedimino vardu parengęs ir išsiuntinėjęs laiškus prieš Kryžiuočių ordiną."
   pagrindžia:
     - c-55511
 
 <a id="claim-t-54968"></a>
-- t-006
+- t-005
   global_id: t-54968
   teiginys: "1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus."
   pagrindžia:
     - c-55512
 
 <a id="claim-t-54969"></a>
-- t-007
+- t-006
   global_id: t-54969
   teiginys: "Dusburgo citatoje Jonas XXII pasiuntė du legatus į Livoniją Fridricho ir Rygos miestiečių prašymu."
   pagrindžia:
     - c-55513
 
 <a id="claim-t-89710"></a>
-- t-009
+- t-007
   global_id: t-89710
   teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam minoritų."
   pagrindžia:
     - c-55509
 
 <a id="claim-t-89711"></a>
-- t-004
+- t-008
   global_id: t-89711
   teiginys: "Rygos arkivyskupą Fridrichą Ordino broliai klastingai išmetė iš bažnyčios."
   pagrindžia:
     - c-55510
 
 <a id="claim-t-89712"></a>
-- t-013
+- t-009
   global_id: t-89712
   teiginys: "Rygos arkivyskupas Fridrichas įkalbėjo popiežių Joną XXII pasiųsti į Livoniją du legatus pakrikštyti lietuvių ir rusų karaliaus."
   pagrindžia:
     - c-85642
 
 <a id="claim-t-89713"></a>
-- t-008
+- t-010
   global_id: t-89713
   teiginys: "Kryžiuočiai manė, kad Rygos arkivyskupas Fridrichas iš senos neapykantos atsikvietė lietuvių priešą į Livoniją."
   pagrindžia:

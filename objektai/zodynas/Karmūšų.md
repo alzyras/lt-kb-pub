@@ -36,14 +36,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07690"></a>
-- t-003
+- t-001
   global_id: t-07690
   teiginys: "Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai."
   pagrindžia:
     - c-09620
 
 <a id="claim-t-07691"></a>
-- t-004
+- t-002
   global_id: t-07691
   teiginys: "Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės."
   pagrindžia:

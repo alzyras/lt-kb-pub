@@ -46,105 +46,105 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 ## Teiginiai
 
 <a id="claim-t-111655"></a>
-- t-014
+- t-001
   global_id: t-111655
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Krėvą, Lydą, Vilnių, Trakus ir kitas vietoves bei priartėjo prie Kauno."
   pagrindžia:
     - c-103204
 
 <a id="claim-t-111656"></a>
-- t-010
+- t-002
   global_id: t-111656
   teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas kelių budelių."
   pagrindžia:
     - c-103200
 
 <a id="claim-t-111657"></a>
-- t-001
+- t-003
   global_id: t-111657
   teiginys: "Skirgaila iš Vilniaus nuvežė Kęstutį į Krėvės kalėjimą."
   pagrindžia:
     - c-103196
 
 <a id="claim-t-111658"></a>
-- t-009
+- t-004
   global_id: t-111658
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam."
   pagrindžia:
     - c-103199
 
 <a id="claim-t-111659"></a>
-- t-008
+- t-005
   global_id: t-111659
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas."
   pagrindžia:
     - c-103194
 
 <a id="claim-t-111660"></a>
-- t-007
+- t-006
   global_id: t-111660
   teiginys: "Kęstutis buvo perkeltas į Krėvą, uždarytas pilies bokšte ir penktą naktį pasmaugtas."
   pagrindžia:
     - c-103200
 
 <a id="claim-t-111661"></a>
-- t-011
+- t-007
   global_id: t-111661
   teiginys: "Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir ten įkalintas."
   pagrindžia:
     - c-103194
 
 <a id="claim-t-111662"></a>
-- t-004
+- t-008
   global_id: t-111662
   teiginys: "Pirkliai lankė Lietuvos miestus, tarp jų Vilnių, Krėvą, Trakus ir Gardiną."
   pagrindžia:
     - c-103195
 
 <a id="claim-t-111663"></a>
-- t-012
+- t-009
   global_id: t-111663
   teiginys: "Vokiečių pirkliai lankė Krėvą ir kitus Lietuvos miestus."
   pagrindžia:
     - c-103195
 
 <a id="claim-t-111664"></a>
-- t-005
+- t-010
   global_id: t-111664
   teiginys: "Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje."
   pagrindžia:
     - c-103199
 
 <a id="claim-t-183035"></a>
-- t-015
+- t-011
   global_id: t-183035
   teiginys: "Kęstutis po suėmimo buvo išvežtas į Krėvos pilį, kur po penkių dienų kalėjimo buvo nužudytas."
   pagrindžia:
     - c-166427
 
 <a id="claim-t-184995"></a>
-- t-016
+- t-012
   global_id: t-184995
   teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį liepė nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   pagrindžia:
     - c-168356
 
 <a id="claim-t-184996"></a>
-- t-017
+- t-013
   global_id: t-184996
   teiginys: "Sargybinis įspėjo Oną, kad Vytautui gresia mirtis, nes Jogailos siųsti budeliai jau atvyko į Krėvą."
   pagrindžia:
     - c-168357
 
 <a id="claim-t-193642"></a>
-- t-018
+- t-014
   global_id: t-193642
   teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija."
   pagrindžia:
     - c-176312
 
 <a id="claim-t-194028"></a>
-- t-019
+- t-015
   global_id: t-194028
   teiginys: "Krėva — BTSR miestelis (apie 28 km į pietryčius nuo Ašmenos), istorinė Lietuvos vietovė, garsi mūro pilimi, kurioje 1382.VIII buvo nužudytas Algirdo brolis Kęstutis."
   pagrindžia:

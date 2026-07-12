@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - saltinis
 amziai:
   - 'XVII'

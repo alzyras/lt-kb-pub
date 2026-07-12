@@ -11,6 +11,7 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - valstybė

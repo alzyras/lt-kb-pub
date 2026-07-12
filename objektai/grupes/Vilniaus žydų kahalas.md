@@ -67,14 +67,14 @@ Vilniaus žydų bendruomenės savivaldos institucija.
     - c-55912
 
 <a id="claim-t-81750"></a>
-- t-005
+- t-004
   global_id: t-81750
   teiginys: "Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms."
   pagrindžia:
     - c-78324
 
 <a id="claim-t-81751"></a>
-- t-004
+- t-005
   global_id: t-81751
   teiginys: "1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams."
   pagrindžia:

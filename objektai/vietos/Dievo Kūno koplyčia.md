@@ -20,7 +20,7 @@ tags:
   - didikas
   - kunigas
   - miestas
-  - privilegija
+  - vieta
 amziai:
   - 'XVI'
   - 'XVIII'
@@ -46,35 +46,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85885"></a>
-- t-003
+- t-001
   global_id: t-85885
   teiginys: "Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė."
   pagrindžia:
     - c-81870
 
 <a id="claim-t-85886"></a>
-- t-005
+- t-002
   global_id: t-85886
   teiginys: "1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai."
   pagrindžia:
     - c-81868
 
 <a id="claim-t-85887"></a>
-- t-001
+- t-003
   global_id: t-85887
   teiginys: "Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu."
   pagrindžia:
     - c-81871
 
 <a id="claim-t-85885"></a>
-- t-003
+- t-004
   global_id: t-85885
   teiginys: "Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė."
   pagrindžia:
     - c-81870
 
 <a id="claim-t-85889"></a>
-- t-002
+- t-005
   global_id: t-85889
   teiginys: "Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas."
   pagrindžia:

@@ -37,7 +37,7 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
     - c-167127
 
 <a id="claim-t-40112"></a>
-- t-001
+- t-002
   global_id: t-40112
   teiginys: "Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui."
   pagrindžia:

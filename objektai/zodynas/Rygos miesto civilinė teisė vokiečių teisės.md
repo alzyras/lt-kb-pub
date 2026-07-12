@@ -11,10 +11,10 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kunigaikštis
   - sąvoka
   - valdovas
-  - vyskupas
 amziai:
   - 'XII'
   - 'XIV'
@@ -40,14 +40,14 @@ Senoviniai lietuvių papročiai, teisėjų apdairus sąžiningumas atstojo gyven
 ## Teiginiai
 
 <a id="claim-t-86570"></a>
-- t-002
+- t-001
   global_id: t-86570
   teiginys: "Gedimino laiške nurodyta, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise."
   pagrindžia:
     - c-82549
 
 <a id="claim-t-86571"></a>
-- t-001
+- t-002
   global_id: t-86571
   teiginys: "Vokiečiai ir naujakuriai lenkai Vilniuje galėjo būti užstojami vokiečių teisių pagal Rygos pavyzdį."
   pagrindžia:

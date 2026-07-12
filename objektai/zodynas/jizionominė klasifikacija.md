@@ -44,7 +44,7 @@ Gali būti OCR ar rašybos variantas; kontekste kalbama apie žmonių klasifikac
 ## Teiginiai
 
 <a id="claim-t-192162"></a>
-- t-002
+- t-001
   global_id: t-192162
   teiginys: "Narbutas jizionominę klasifikaciją laiko fiziologų tyrinėjimų patvirtintu tautų skirstymo būdu."
   pagrindžia:

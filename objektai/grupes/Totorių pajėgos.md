@@ -31,21 +31,21 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
 ## Teiginiai
 
 <a id="claim-t-78527"></a>
-- t-002
+- t-001
   global_id: t-78527
   teiginys: "Aukso ordos chanas Timūr-Kutlukas su didele totorių jėga įsijungė į mūšį ir nugalėjo Vytauto Lietuvos kariuomenę."
   pagrindžia:
     - c-42962
 
 <a id="claim-t-78528"></a>
-- t-003
+- t-002
   global_id: t-78528
   teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
   pagrindžia:
     - c-75798
 
 <a id="claim-t-78529"></a>
-- t-001
+- t-003
   global_id: t-78529
   teiginys: "Totorių pajėgas sudarė Aukso ordos chano Timūr-Kutluko ir Krymo emyro Edygos kariai."
   pagrindžia:

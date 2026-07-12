@@ -46,42 +46,42 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Teiginiai
 
 <a id="claim-t-65108"></a>
-- t-002
+- t-001
   global_id: t-65108
   teiginys: "„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos."
   pagrindžia:
     - c-65602
 
 <a id="claim-t-65109"></a>
-- t-006
+- t-002
   global_id: t-65109
   teiginys: "Dusburgietis Dobrynės brolius, vadintus Kristaus kariais, priskyrė prie ankstesnių kovotojų prieš prūsus."
   pagrindžia:
     - c-65603
 
 <a id="claim-t-65110"></a>
-- t-004
+- t-003
   global_id: t-65110
   teiginys: "Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu."
   pagrindžia:
     - c-65606
 
 <a id="claim-t-65111"></a>
-- t-003
+- t-004
   global_id: t-65111
   teiginys: "Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva."
   pagrindžia:
     - c-65605
 
 <a id="claim-t-65112"></a>
-- t-001
+- t-005
   global_id: t-65112
   teiginys: "Dusburgietis Dobrynės brolių pastangas įtraukė į ankstesnių karų prieš prūsus genealogiją."
   pagrindžia:
     - c-65604
 
 <a id="claim-t-65113"></a>
-- t-005
+- t-006
   global_id: t-65113
   teiginys: "1235 m. Dobrynės ordinas susijungė su kryžiuočiais."
   pagrindžia:

@@ -33,14 +33,14 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 ## Teiginiai
 
 <a id="claim-t-86758"></a>
-- t-002
+- t-001
   global_id: t-86758
   teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
   pagrindžia:
     - c-82738
 
 <a id="claim-t-86759"></a>
-- t-001
+- t-002
   global_id: t-86759
   teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
   pagrindžia:

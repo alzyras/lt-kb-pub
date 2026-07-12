@@ -44,56 +44,56 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
 ## Teiginiai
 
 <a id="claim-t-90060"></a>
-- t-007
+- t-001
   global_id: t-90060
   teiginys: "Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį."
   pagrindžia:
     - c-85944
 
 <a id="claim-t-90061"></a>
-- t-006
+- t-002
   global_id: t-90061
   teiginys: "1262 m. Treniotos vadovaujama didelė Mindaugo kariuomenė nusiaubė Ordino užnugarį Pavyslyje."
   pagrindžia:
     - c-85948
 
 <a id="claim-t-90062"></a>
-- t-005
+- t-003
   global_id: t-90062
   teiginys: "1264 m. Mindaugo šalininkai nužudė Treniotą, o Lietuvos valdovu tapo Mindaugo sūnus Vaišelga."
   pagrindžia:
     - c-85946
 
 <a id="claim-t-90063"></a>
-- t-003
+- t-004
   global_id: t-90063
   teiginys: "Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą."
   pagrindžia:
     - c-85945
 
 <a id="claim-t-90064"></a>
-- t-004
+- t-005
   global_id: t-90064
   teiginys: "Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija."
   pagrindžia:
     - c-85947
 
 <a id="claim-t-184846"></a>
-- t-008
+- t-006
   global_id: t-184846
   teiginys: "Treniota nedelsdamas griebėsi ginklo, siekdamas narsa ir sėkme nenusileisti savo tėvui."
   pagrindžia:
     - c-168207
 
 <a id="claim-t-184848"></a>
-- t-010
+- t-007
   global_id: t-184848
   teiginys: "Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus."
   pagrindžia:
     - c-168209
 
 <a id="claim-t-184849"></a>
-- t-011
+- t-008
   global_id: t-184849
   teiginys: "Keturi Mindaugo asmeninės sargybos kariai nužudė Treniotą, kai dar nebuvo praėję nė metai nuo jo viešpatavimo pradžios."
   pagrindžia:
@@ -107,21 +107,21 @@ Visoms žemaičių kovoms su ordinu vadovavo jų kunigaikštis, Mindaugo seserė
     - c-171533
 
 <a id="claim-t-193404"></a>
-- t-012
+- t-010
   global_id: t-193404
   teiginys: "Treniota pasilaikė ją už žmoną."
   pagrindžia:
     - c-176126
 
-<a id="claim-t-193996"></a>
-- t-013
-  global_id: t-193996
+<a id="claim-t-184849"></a>
+- t-011
+  global_id: t-184849
   teiginys: "Susirado Treniotą\", Mindaugo sese rėną, ir su juo sumanė nužudyti Mindaugą."
   pagrindžia:
     - c-176621
 
 <a id="claim-t-193997"></a>
-- t-014
+- t-012
   global_id: t-193997
   teiginys: "Tuomet Mindaugo žirgininkai — keturi tarnai — ėmė galvoti, kaip jiems Treniotą nužudžius."
   pagrindžia:

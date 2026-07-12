@@ -42,7 +42,7 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
 ## Teiginiai
 
 <a id="claim-t-175392"></a>
-- t-003
+- t-001
   global_id: t-175392
   teiginys: "Lietuviai puolė kryžiuočių kontroliuojamas Viznos apylinkes prie Narevo, kai Livonijos magistras buvo prie Vilniaus."
   pagrindžia:
@@ -56,21 +56,21 @@ Būtent čia, prie Bugo ir Narevo, susiformuos pagrindinis LDK javų ūkis, apr�
     - c-37557
 
 <a id="claim-t-185059"></a>
-- t-004
+- t-003
   global_id: t-185059
   teiginys: "Lietuviai, prieš kelias dienas perkėlę grobį ir kariuomenę per Narevą, pasislėpė miško tankmėje."
   pagrindžia:
     - c-168420
 
 <a id="claim-t-192702"></a>
-- t-005
+- t-004
   global_id: t-192702
   teiginys: "Teodoras Narbutas sprendė, kad po 1237 m. jotvingiai traukėsi nuo Bugo ir Narevo Prūsijos bei Lietuvos sienų link."
   pagrindžia:
     - c-175472
 
 <a id="claim-t-192703"></a>
-- t-006
+- t-005
   global_id: t-192703
   teiginys: "Teodoro Narbuto pasakojime 1282 m. Lešeko Juodojo vadovaujami lenkai prie Narevo užklupo jotvingius ties Ostrolenka."
   pagrindžia:

@@ -54,91 +54,91 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 ## Teiginiai
 
 <a id="claim-t-122987"></a>
-- t-003
+- t-001
   global_id: t-122987
   teiginys: "1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama „tvanu“."
   pagrindžia:
     - c-112485
 
 <a id="claim-t-122989"></a>
-- t-014
+- t-002
   global_id: t-122989
   teiginys: "1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį."
   pagrindžia:
     - c-112475
 
 <a id="claim-t-122990"></a>
-- t-008
+- t-003
   global_id: t-122990
   teiginys: "Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų."
   pagrindžia:
     - c-112473
 
 <a id="claim-t-122991"></a>
-- t-007
+- t-004
   global_id: t-122991
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
   pagrindžia:
     - c-112477
 
 <a id="claim-t-122992"></a>
-- t-013
+- t-005
   global_id: t-122992
   teiginys: "Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę."
   pagrindžia:
     - c-112476
 
 <a id="claim-t-122994"></a>
-- t-016
+- t-006
   global_id: t-122994
   teiginys: "Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją."
   pagrindžia:
     - c-112484
 
 <a id="claim-t-122995"></a>
-- t-005
+- t-007
   global_id: t-122995
   teiginys: "XVII a. ATR kariavo su Švedija du karus: 1600–1629 m. ir 1655–1660 m."
   pagrindžia:
     - c-112474
 
 <a id="claim-t-122997"></a>
-- t-010
+- t-008
   global_id: t-122997
   teiginys: "1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį."
   pagrindžia:
     - c-112475
 
 <a id="claim-t-122998"></a>
-- t-012
+- t-009
   global_id: t-122998
   teiginys: "Valdant Vazų dinastijai Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija 1654–1667 metais."
   pagrindžia:
     - c-112485
 
 <a id="claim-t-122999"></a>
-- t-004
+- t-010
   global_id: t-122999
   teiginys: "Švedija siekė viešpatauti Baltijos jūroje."
   pagrindžia:
     - c-112482
 
 <a id="claim-t-123000"></a>
-- t-009
+- t-011
   global_id: t-123000
   teiginys: "Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite."
   pagrindžia:
     - c-112476
 
 <a id="claim-t-123001"></a>
-- t-016
+- t-012
   global_id: t-123001
   teiginys: "Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos."
   pagrindžia:
     - c-112480
 
 <a id="claim-t-185216"></a>
-- t-019
+- t-013
   global_id: t-185216
   teiginys: "Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo."
   pagrindžia:
@@ -166,21 +166,21 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - c-171768
 
 <a id="claim-t-193260"></a>
-- t-020
+- t-017
   global_id: t-193260
   teiginys: "Livonija nuo Maskvos buvo apginta, bet netrukus dėl jos prasidėjo net 60 metų trukę karai su Švedija."
   pagrindžia:
     - c-175992
 
 <a id="claim-t-193657"></a>
-- t-021
+- t-018
   global_id: t-193657
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   pagrindžia:
     - c-176326
 
 <a id="claim-t-194759"></a>
-- t-022
+- t-019
   global_id: t-194759
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
   pagrindžia:
@@ -408,6 +408,13 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86538|mansionieriai]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje ir du mansionierius.
 - susijęs iš [[objektai/zodynas/provizija.md#claim-t-86611|provizija]]: Karalaitės buvo įpareigotos aprūpinti Šv. Onos bažnyčios kleboniją ir du mansionierius tinkama provizija.
 - susijęs iš [[objektai/asmenys/Bazilijus Lopacinskis.md#claim-t-87631|Bazilijus Lopacinskis]]: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195256|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195257|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: 1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius.
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195566|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: Toje kelionėje A. R. Niemis rinko estų liaudies dainas.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
+- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
+- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 - susijęs iš Rusija: 1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją.
 - susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.

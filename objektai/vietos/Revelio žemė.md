@@ -38,14 +38,14 @@ Energingas Garteno (Gar­ dino) vadas, įsiveržęs į Danijos žemes Revelio ap
 ## Teiginiai
 
 <a id="claim-t-86101"></a>
-- t-002
+- t-001
   global_id: t-86101
   teiginys: "1323 m. per Užgavėnes pagonys lietuviai įsiveržė į Danijos karalystės Revelio žemę Livonijoje ir Dorpato vyskupiją."
   pagrindžia:
     - c-82081
 
 <a id="claim-t-86102"></a>
-- t-001
+- t-002
   global_id: t-86102
   teiginys: "Gardino vadas įsiveržė į Danijos žemes Revelio apylinkėse ir jas smarkiai nuniokojo."
   pagrindžia:

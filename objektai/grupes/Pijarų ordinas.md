@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - institucija
   - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -31,28 +32,28 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 ## Teiginiai
 
 <a id="claim-t-72601"></a>
-- t-003
+- t-001
   global_id: t-72601
   teiginys: "Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą."
   pagrindžia:
     - c-71008
 
 <a id="claim-t-72602"></a>
-- t-004
+- t-002
   global_id: t-72602
   teiginys: "Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų."
   pagrindžia:
     - c-71006
 
 <a id="claim-t-72604"></a>
-- t-001
+- t-003
   global_id: t-72604
   teiginys: "XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas."
   pagrindžia:
     - c-71007
 
 <a id="claim-t-72605"></a>
-- t-002
+- t-004
   global_id: t-72605
   teiginys: "Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose."
   pagrindžia:

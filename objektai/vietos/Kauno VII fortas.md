@@ -37,21 +37,21 @@ Pati LV neplanavo žudynių, tačiau deklaruojamu antisemitizmu (Žydų padėtie
 ## Teiginiai
 
 <a id="claim-t-76472"></a>
-- t-002
+- t-001
   global_id: t-76472
   teiginys: "TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte."
   pagrindžia:
     - c-24168
 
 <a id="claim-t-76473"></a>
-- t-003
+- t-002
   global_id: t-76473
   teiginys: "TDA bataliono kuopa, paversta zonderkomanda, liepos 4 ir 6 d. nacių vadovaujama dalyvavo 3 000 žydų žudynėse Kauno VII forte."
   pagrindžia:
     - c-74043
 
 <a id="claim-t-183601"></a>
-- t-004
+- t-003
   global_id: t-183601
   teiginys: "Laikinoji vyriausybė deklaruojamu antisemitizmu, įskaitant konclagerio steigimą VII forte, siekė nuolaidų iš nacių Vokietijos."
   pagrindžia:

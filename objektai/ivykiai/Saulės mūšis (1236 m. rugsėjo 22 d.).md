@@ -62,28 +62,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10287"></a>
-- t-007
+- t-001
   global_id: t-10287
   teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
   pagrindžia:
     - c-11907
 
 <a id="claim-t-10288"></a>
-- t-008
+- t-002
   global_id: t-10288
   teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
   pagrindžia:
     - c-11908
 
 <a id="claim-t-10289"></a>
-- t-009
+- t-003
   global_id: t-10289
   teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
   pagrindžia:
     - c-11909
 
 <a id="claim-t-10290"></a>
-- t-010
+- t-004
   global_id: t-10290
   teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
   pagrindžia:
@@ -98,21 +98,21 @@ Nenurodyta
     - c-66987
 
 <a id="claim-t-66880"></a>
-- t-011
+- t-006
   global_id: t-66880
   teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
   pagrindžia:
     - c-66984
 
 <a id="claim-t-66881"></a>
-- t-012
+- t-007
   global_id: t-66881
   teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
   pagrindžia:
     - c-66988
 
 <a id="claim-t-66882"></a>
-- t-006
+- t-008
   global_id: t-66882
   teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
   pagrindžia:

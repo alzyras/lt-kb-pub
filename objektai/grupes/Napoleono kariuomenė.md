@@ -38,14 +38,14 @@ Napoleonas su kariuomene persikėlė per Nemuną ties Kaunu ir greit nužygiavo 
 ## Teiginiai
 
 <a id="claim-t-43516"></a>
-- t-002
+- t-001
   global_id: t-43516
   teiginys: "Napoleono kariuomenės likučiai atslinko į Lietuvą išbadėję ir nuskurę, pakeliui viską plėšdami."
   pagrindžia:
     - c-47009
 
 <a id="claim-t-43517"></a>
-- t-001
+- t-002
   global_id: t-43517
   teiginys: "Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Didžiosios Kunigaikštijos atkūrimu Napoleono globoje."
   pagrindžia:

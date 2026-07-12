@@ -41,14 +41,14 @@ Henrikas viešuose įrašuose jau minimas kaip kronikininkas, vadinamas Henriku 
 ## Teiginiai
 
 <a id="claim-t-10128"></a>
-- t-002
+- t-001
   global_id: t-10128
   teiginys: "Henrikas Latvis siejamas su „Livonijos kronika“, kurioje aprašomas lietuvių būdas kovoje prie Dauguvos 1207 m."
   pagrindžia:
     - c-13009
 
 <a id="claim-t-10129"></a>
-- t-003
+- t-002
   global_id: t-10129
   teiginys: "Šiame leidinyje Henriko Latvio „Livonijos kronika“ naudojama aprašant lietuvių kovos būdą ir Lietuvos valdžios siekį valdyti kitas gentis."
   pagrindžia:

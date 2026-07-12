@@ -7,9 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karalius
   - karas
-  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -39,14 +39,14 @@ Be jos ambasadoriaus Štakelbergo sutikimo, nei karalius nei Nuolatinė Taryba n
     - c-66300
 
 <a id="claim-t-65962"></a>
-- t-003
+- t-002
   global_id: t-65962
   teiginys: "Nuolatinė Taryba išgyvavo 14 metų (iki 1789 m.)."
   pagrindžia:
     - c-66302
 
 <a id="claim-t-65964"></a>
-- t-002
+- t-003
   global_id: t-65964
   teiginys: "Nuolatinę Tarybą sudarė 18 senatorių ir 18 atstovų; du trečdaliai jų turėjo būti lenkai, o trečdalis lietuviai."
   pagrindžia:

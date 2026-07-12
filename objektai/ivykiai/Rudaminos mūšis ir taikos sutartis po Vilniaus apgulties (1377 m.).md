@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54706"></a>
-- t-002
+- t-001
   global_id: t-54706
   teiginys: "Po mūšio ir Vilniaus pilių atsilaikymo sudaryta taikos sutartis įpareigojo kryžiuočius neliesti nuo ugnies nenukentėjusios Vilniaus dalies."
   pagrindžia:

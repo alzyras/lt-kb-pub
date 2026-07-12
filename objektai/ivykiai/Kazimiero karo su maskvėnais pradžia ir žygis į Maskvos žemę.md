@@ -52,28 +52,28 @@ Nenurodyta
     - c-169908
 
 <a id="claim-t-186640"></a>
-- t-003
+- t-002
   global_id: t-186640
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės."
   pagrindžia:
     - c-169908
 
 <a id="claim-t-186641"></a>
-- t-005
+- t-003
   global_id: t-186641
   teiginys: "Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską."
   pagrindžia:
     - c-169908
 
 <a id="claim-t-186642"></a>
-- t-002
+- t-004
   global_id: t-186642
   teiginys: "Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę."
   pagrindžia:
     - c-169908
 
 <a id="claim-t-186643"></a>
-- t-004
+- t-005
   global_id: t-186643
   teiginys: "Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę."
   pagrindžia:

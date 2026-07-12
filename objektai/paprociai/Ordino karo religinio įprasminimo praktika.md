@@ -58,35 +58,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67173"></a>
-- t-002
+- t-001
   global_id: t-67173
   teiginys: "Petras iš Dusburgo Ordino karą Prūsijoje ir Lietuvoje aiškino kaip Dievo kovą ir riterių ginklams suteikė religinę prasmę."
   pagrindžia:
     - c-67186
 
 <a id="claim-t-67174"></a>
-- t-004
+- t-002
   global_id: t-67174
   teiginys: "Petras iš Dusburgo užkariavimus ir žudynes „viešpaties kare“ aukštino, Ordino riterių ginklams suteikdamas šventumo aureolę."
   pagrindžia:
     - c-67189
 
 <a id="claim-t-67175"></a>
-- t-005
+- t-003
   global_id: t-67175
   teiginys: "Petras iš Dusburgo Ordino karą laikė vykdomu pagal Dievo valią, o Ordino priešus vadino Dievo priešais."
   pagrindžia:
     - c-67188
 
 <a id="claim-t-67176"></a>
-- t-003
+- t-004
   global_id: t-67176
   teiginys: "600; PD, III, 58) formą, Ordino aktuose vartotą nuo XIII a."
   pagrindžia:
     - c-67187
 
 <a id="claim-t-67177"></a>
-- t-001
+- t-005
   global_id: t-67177
   teiginys: "Ordino karo religinis įprasminimas žadėjo žuvusiems kryžiuočiams dangų, amžiną palaimą ir angelų globą po mūšio."
   pagrindžia:

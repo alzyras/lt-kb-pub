@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87175"></a>
-- t-002
+- t-001
   global_id: t-87175
   teiginys: "Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms."
   pagrindžia:
     - c-83155
 
 <a id="claim-t-87176"></a>
-- t-001
+- t-002
   global_id: t-87176
   teiginys: "Šventaragio slėnyje pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus, tarp jų ir Lietuvos kunigaikščių palaikus."
   pagrindžia:

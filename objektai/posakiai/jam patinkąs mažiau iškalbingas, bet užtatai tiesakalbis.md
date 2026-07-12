@@ -9,7 +9,8 @@ variantai:
   - 'jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,14 +37,14 @@ Vytautui priskiriama vertinimo formulė iškelia tiesakalbiškumą aukščiau u�
 ## Teiginiai
 
 <a id="claim-t-11662"></a>
-- t-002
+- t-001
   global_id: t-11662
   teiginys: "Vytautas, išgirdęs giriamą iškalbingą kunigaikštį, trumpai tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis žmogus."
   pagrindžia:
     - c-14581
 
 <a id="claim-t-194946"></a>
-- t-003
+- t-002
   global_id: t-194946
   teiginys: "O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vytautas trumpai ta rė, kad jam patinkąs mažiau iškalbingas, bet užtatai tiesa kalbis."
   pagrindžia:

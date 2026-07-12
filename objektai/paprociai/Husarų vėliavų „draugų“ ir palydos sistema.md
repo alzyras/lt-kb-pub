@@ -54,35 +54,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71798"></a>
-- t-007
+- t-001
   global_id: t-71798
   teiginys: "Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą."
   pagrindžia:
     - c-43157
 
 <a id="claim-t-71800"></a>
-- t-008
+- t-002
   global_id: t-71800
   teiginys: "Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a."
   pagrindžia:
     - c-43158
 
 <a id="claim-t-71801"></a>
-- t-006
+- t-003
   global_id: t-71801
   teiginys: "Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas."
   pagrindžia:
     - c-43159
 
 <a id="claim-t-71802"></a>
-- t-005
+- t-004
   global_id: t-71802
   teiginys: "Husarų vėliavų branduolį sudarė turtingi bajorai - draugai."
   pagrindžia:
     - c-12385
 
 <a id="claim-t-71803"></a>
-- t-009
+- t-005
   global_id: t-71803
   teiginys: "XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje."
   pagrindžia:

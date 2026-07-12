@@ -30,21 +30,21 @@ Zaskevičius. Zaskevičiaus vadovaujama rinktinė artėjo prie Jiezno. Zaskevič
 ## Teiginiai
 
 <a id="claim-t-40414"></a>
-- t-002
+- t-001
   global_id: t-40414
   teiginys: "Vasario 10 d. rytą S. Zaskevičiaus vadovaujama sustiprintos kuopos dydžio rinktinė artėjo prie Jiezno."
   pagrindžia:
     - c-44506
 
 <a id="claim-t-40415"></a>
-- t-003
+- t-002
   global_id: t-40415
   teiginys: "Po nepavykusio vasario 10 d. Jiezno puolimo karin. S. Zaskevičius su likusia rinktinės dalimi traukėsi Tverų kryptimi."
   pagrindžia:
     - c-44504
 
 <a id="claim-t-40416"></a>
-- t-001
+- t-003
   global_id: t-40416
   teiginys: "Krašto apsaugos viceministras S. Zaskevičius ėmėsi vadovauti operacijai, kuria siekta neutralizuoti kilusį pavojų."
   pagrindžia:

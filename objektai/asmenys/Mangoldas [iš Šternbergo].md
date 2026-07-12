@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie brolį Mangoldą, Prūsijos magistrą 1280 viešpa
 ## Teiginiai
 
 <a id="claim-t-60169"></a>
-- t-002
+- t-001
   global_id: t-60169
   teiginys: "Mangoldas iš Šternbergo vasario 2 d. su visa kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį niokojo degindamas bei grobdamas."
   pagrindžia:
     - c-60802
 
 <a id="claim-t-60170"></a>
-- t-001
+- t-002
   global_id: t-60170
   teiginys: "Mangoldas iš Šternbergo buvo vienuoliktasis Prūsijos magistras ir vadovavo Prūsijos žemei beveik dvejus metus."
   pagrindžia:

@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - formulė
   - sutartis
   - sąvoka
   - valstybė

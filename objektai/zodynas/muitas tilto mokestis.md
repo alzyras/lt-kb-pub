@@ -32,21 +32,21 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
 ## Teiginiai
 
 <a id="claim-t-86427"></a>
-- t-003
+- t-001
   global_id: t-86427
   teiginys: "Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams."
   pagrindžia:
     - c-82408
 
 <a id="claim-t-86428"></a>
-- t-001
+- t-002
   global_id: t-86428
   teiginys: "Ulrikui Hozijui leista rinkti tilto mokestį tol, kol jam sugrįš tilto statybai įdėtos lėšos."
   pagrindžia:
     - c-82407
 
 <a id="claim-t-86429"></a>
-- t-002
+- t-003
   global_id: t-86429
   teiginys: "Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą."
   pagrindžia:

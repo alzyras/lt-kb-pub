@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-188042"></a>
-- t-002
+- t-001
   global_id: t-188042
   teiginys: "Filomatai ir filaretai įvadiniame straipsnyje aprašomi kaip susirinkimuose diskutavę apie krašto praeitį, liaudies padavimus ir dainas."
   pagrindžia:

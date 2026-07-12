@@ -45,126 +45,126 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 ## Teiginiai
 
 <a id="claim-t-170297"></a>
-- t-004
+- t-001
   global_id: t-170297
   teiginys: "Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą."
   pagrindžia:
     - c-154958
 
 <a id="claim-t-170286"></a>
-- t-007
+- t-002
   global_id: t-170286
   teiginys: "Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui."
   pagrindžia:
     - c-154964
 
 <a id="claim-t-170287"></a>
-- t-015
+- t-003
   global_id: t-170287
   teiginys: "1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m."
   pagrindžia:
     - c-154962
 
 <a id="claim-t-170288"></a>
-- t-013
+- t-004
   global_id: t-170288
   teiginys: "Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą."
   pagrindžia:
     - c-154972
 
 <a id="claim-t-170289"></a>
-- t-020
+- t-005
   global_id: t-170289
   teiginys: "Vienos bibliotekos rankraštis, datuojamas XVII a. ar vėlesniu laiku, buvo nurašytas nuo Berlyno teksto."
   pagrindžia:
     - c-154956
 
 <a id="claim-t-170291"></a>
-- t-002
+- t-006
   global_id: t-170291
   teiginys: "„Systematisches Verzeichnis der Quellen und Hülfsmittel zur Geschichte Estlands, Livlands und Kurlands“ buvo išleistas Berlyne 1878 m."
   pagrindžia:
     - c-154973
 
 <a id="claim-t-170292"></a>
-- t-012
+- t-007
   global_id: t-170292
   teiginys: "Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius."
   pagrindžia:
     - c-154957
 
 <a id="claim-t-170293"></a>
-- t-011
+- t-008
   global_id: t-170293
   teiginys: "Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą."
   pagrindžia:
     - c-154961
 
 <a id="claim-t-170294"></a>
-- t-010
+- t-009
   global_id: t-170294
   teiginys: "Maskva ir Berlynas, kaip ir prancūzai bei britai, patarė Kaunui priimti lenkų reikalavimus."
   pagrindžia:
     - c-154968
 
 <a id="claim-t-170295"></a>
-- t-017
+- t-010
   global_id: t-170295
   teiginys: "Juozas Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje."
   pagrindžia:
     - c-154960
 
 <a id="claim-t-170296"></a>
-- t-018
+- t-011
   global_id: t-170296
   teiginys: "Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą."
   pagrindžia:
     - c-154959
 
 <a id="claim-t-170297"></a>
-- t-004
+- t-012
   global_id: t-170297
   teiginys: "Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą."
   pagrindžia:
     - c-154958
 
 <a id="claim-t-170298"></a>
-- t-005
+- t-013
   global_id: t-170298
   teiginys: "Jakštas 1929 m. išvyko į Berlyną ir Vieną specializuotis visuotinėje vidurinių amžių istorijoje."
   pagrindžia:
     - c-154960
 
 <a id="claim-t-170299"></a>
-- t-019
+- t-014
   global_id: t-170299
   teiginys: "Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas."
   pagrindžia:
     - c-154970
 
 <a id="claim-t-170300"></a>
-- t-006
+- t-015
   global_id: t-170300
   teiginys: "Dėl lietuvių kalbos ir judėjimo suvaržymų, atsišaukimų autorių areštų ir mokytojų deportacijų lietuviai skundėsi Berlynui."
   pagrindžia:
     - c-154963
 
 <a id="claim-t-170301"></a>
-- t-003
+- t-016
   global_id: t-170301
   teiginys: "Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m."
   pagrindžia:
     - c-154962
 
 <a id="claim-t-170302"></a>
-- t-001
+- t-017
   global_id: t-170302
   teiginys: "Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m."
   pagrindžia:
     - c-31964
 
 <a id="claim-t-170303"></a>
-- t-008
+- t-018
   global_id: t-170303
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti."
   pagrindžia:

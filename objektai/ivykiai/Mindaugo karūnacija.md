@@ -72,7 +72,7 @@ Nenurodyta
     - c-66917
 
 <a id="claim-t-66787"></a>
-- t-001
+- t-003
   global_id: t-66787
   teiginys: "Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius."
   pagrindžia:

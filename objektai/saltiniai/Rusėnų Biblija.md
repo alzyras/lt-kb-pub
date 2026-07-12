@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - šeima
 amziai:
   - 'XV'
   - 'XVI'

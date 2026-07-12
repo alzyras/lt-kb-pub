@@ -13,7 +13,7 @@ tags:
   - karalius
   - miestas
   - sąvoka
-  - vyskupas
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -38,7 +38,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 <a id="claim-t-86430"></a>
-- t-003
+- t-001
   global_id: t-86430
   teiginys: "Pastatytai prieglaudai turėjo būti skiriama dalis tilto mokesčio ligonių maistui, drabužiams, vaistams ir kitoms reikmėms."
   pagrindžia:
@@ -52,7 +52,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-82410
 
 <a id="claim-t-86432"></a>
-- t-001
+- t-003
   global_id: t-86432
   teiginys: "Jonas Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę."
   pagrindžia:

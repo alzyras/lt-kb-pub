@@ -66,28 +66,28 @@ Nenurodyta
     - c-73200
 
 <a id="claim-t-75399"></a>
-- t-004
+- t-002
   global_id: t-75399
   teiginys: "Jurgis Zauerveinas parašė Mažosios Lietuvos himną, kuris greitai išpopuliarėjo ir Didžiojoje Lietuvoje."
   pagrindžia:
     - c-73199
 
 <a id="claim-t-75401"></a>
-- t-005
+- t-003
   global_id: t-75401
   teiginys: "Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   pagrindžia:
     - c-73200
 
 <a id="claim-t-75401"></a>
-- t-005
+- t-004
   global_id: t-75401
   teiginys: "Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   pagrindžia:
     - c-73200
 
 <a id="claim-t-75403"></a>
-- t-002
+- t-005
   global_id: t-75403
   teiginys: "Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną, išpopuliarėjusį ir Didžiojoje Lietuvoje."
   pagrindžia:

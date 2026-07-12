@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62131"></a>
-- t-002
+- t-001
   global_id: t-62131
   teiginys: "Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
   pagrindžia:

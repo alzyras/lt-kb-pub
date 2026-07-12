@@ -55,98 +55,98 @@ Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos
     - c-05658
 
 <a id="claim-t-173687"></a>
-- t-014
+- t-002
   global_id: t-173687
   teiginys: "XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų."
   pagrindžia:
     - c-157969
 
 <a id="claim-t-173688"></a>
-- t-018
+- t-003
   global_id: t-173688
   teiginys: "1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo."
   pagrindžia:
     - c-157971
 
 <a id="claim-t-173689"></a>
-- t-011
+- t-004
   global_id: t-173689
   teiginys: "Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą."
   pagrindžia:
     - c-157964
 
 <a id="claim-t-173690"></a>
-- t-009
+- t-005
   global_id: t-173690
   teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
   pagrindžia:
     - c-167244
 
 <a id="claim-t-173691"></a>
-- t-019
+- t-006
   global_id: t-173691
   teiginys: "Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d."
   pagrindžia:
     - c-157972
 
 <a id="claim-t-173693"></a>
-- t-008
+- t-007
   global_id: t-173693
   teiginys: "Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis."
   pagrindžia:
     - c-157969
 
 <a id="claim-t-173697"></a>
-- t-006
+- t-008
   global_id: t-173697
   teiginys: "Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika."
   pagrindžia:
     - c-157963
 
 <a id="claim-t-173695"></a>
-- t-002
+- t-009
   global_id: t-173695
   teiginys: "1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai."
   pagrindžia:
     - c-157970
 
 <a id="claim-t-173696"></a>
-- t-013
+- t-010
   global_id: t-173696
   teiginys: "1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje."
   pagrindžia:
     - c-157965
 
 <a id="claim-t-173697"></a>
-- t-006
+- t-011
   global_id: t-173697
   teiginys: "Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika."
   pagrindžia:
     - c-157963
 
 <a id="claim-t-173698"></a>
-- t-015
+- t-012
   global_id: t-173698
   teiginys: "Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą."
   pagrindžia:
     - c-157964
 
 <a id="claim-t-173699"></a>
-- t-007
+- t-013
   global_id: t-173699
   teiginys: "Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises."
   pagrindžia:
     - c-157974
 
 <a id="claim-t-173690"></a>
-- t-009
+- t-014
   global_id: t-173690
   teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
   pagrindžia:
     - c-167244
 
 <a id="claim-t-185020"></a>
-- t-019
+- t-015
   global_id: t-185020
   teiginys: "Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus."
   pagrindžia:

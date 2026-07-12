@@ -41,14 +41,14 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
 ## Teiginiai
 
 <a id="claim-t-59008"></a>
-- t-002
+- t-001
   global_id: t-59008
   teiginys: "1307 m. į Prūsijos žemę atvykę Vokietijos maldininkai žiemą telkė kariuomenę žygiui prieš lietuvius, bet žygio nepradėjo dėl plono ledo."
   pagrindžia:
     - c-59641
 
 <a id="claim-t-59009"></a>
-- t-001
+- t-002
   global_id: t-59009
   teiginys: "1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę."
   pagrindžia:
@@ -62,7 +62,7 @@ Dusburgietis teigia, kad apie maldininkų atvykimą 1304 viešpaties metais vie�
     - c-59640
 
 <a id="claim-t-59009"></a>
-- t-001
+- t-004
   global_id: t-59009
   teiginys: "1304 m. Vokietijos maldininkai vėl išvyko į Prūsijos žemę."
   pagrindžia:

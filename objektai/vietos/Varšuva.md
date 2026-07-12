@@ -50,56 +50,56 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
 ## Teiginiai
 
 <a id="claim-t-170877"></a>
-- t-024
+- t-001
   global_id: t-170877
   teiginys: "M. Balinskis persikėlė gyventi į Varšuvą, nes neturėjo pakankamai pragyvenimo lėšų."
   pagrindžia:
     - c-155513
 
 <a id="claim-t-170879"></a>
-- t-023
+- t-002
   global_id: t-170879
   teiginys: "1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vilniuje susikūrė sukilimo centrinis komitetas."
   pagrindžia:
     - c-155515
 
 <a id="claim-t-170880"></a>
-- t-054
+- t-003
   global_id: t-170880
   teiginys: "Lietuviai sutiko derėtis dėl federacijos tik tuo atveju, jei Varšuva pripažintų Lietuvą su sostine Vilniumi."
   pagrindžia:
     - c-155519
 
 <a id="claim-t-170881"></a>
-- t-057
+- t-004
   global_id: t-170881
   teiginys: "1572 m. sausio 1 d. - vasario 9 d. Varšuvoje buvo keičiamos lietuviškos monetos į lenkiškus pinigus."
   pagrindžia:
     - c-155491
 
 <a id="claim-t-170883"></a>
-- t-036
+- t-005
   global_id: t-170883
   teiginys: "Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje."
   pagrindžia:
     - c-155512
 
 <a id="claim-t-170884"></a>
-- t-028
+- t-006
   global_id: t-170884
   teiginys: "Žygimanto Augusto valios pareiškimas buvo rašytas Varšuvoje 1571 m. gegužės 6 dieną."
   pagrindžia:
     - c-155508
 
 <a id="claim-t-170885"></a>
-- t-026
+- t-007
   global_id: t-170885
   teiginys: "Karaliaus Žygimanto Augusto testamentas buvo sudarytas 1571 m. gegužės 6 d. Varšuvoje."
   pagrindžia:
     - c-155503
 
 <a id="claim-t-170887"></a>
-- t-041
+- t-008
   global_id: t-170887
   teiginys: "Lietuvai priėmus 1938 m. Lenkijos ultimatumą, oficialioji Varšuva buvo patenkinta rezultatais."
   pagrindžia:
@@ -113,147 +113,147 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
     - c-155507
 
 <a id="claim-t-170889"></a>
-- t-015
+- t-010
   global_id: t-170889
   teiginys: "1920 m. Spa konferencijoje didžiosios valstybės nurodė Lenkijai grąžinti Vilnių Lietuvai, ir Varšuva sutiko."
   pagrindžia:
     - c-155517
 
 <a id="claim-t-170890"></a>
-- t-013
+- t-011
   global_id: t-170890
   teiginys: "Septintąjį ir aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   pagrindžia:
     - c-155510
 
 <a id="claim-t-170891"></a>
-- t-020
+- t-012
   global_id: t-170891
   teiginys: "1766 m. Fr. Bohomolecas Varšuvoje parūpino antrąjį leidimą."
   pagrindžia:
     - c-155492
 
 <a id="claim-t-170892"></a>
-- t-040
+- t-013
   global_id: t-170892
   teiginys: "1938 m. kovo 17 d. Varšuva įteikė Lietuvai ultimatumą, reikalaudama be išlygų užmegzti diplomatinius santykius."
   pagrindžia:
     - c-155520
 
 <a id="claim-t-170893"></a>
-- t-009
+- t-014
   global_id: t-170893
   teiginys: "Vilniaus vyskupas I. Masalskis ir Livonijos vyskupas J. Kosakovskis buvo pakarti Varšuvoje birželio 28 dieną."
   pagrindžia:
     - c-155507
 
 <a id="claim-t-170894"></a>
-- t-012
+- t-015
   global_id: t-170894
   teiginys: "„Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“."
   pagrindžia:
     - c-155484
 
 <a id="claim-t-170895"></a>
-- t-046
+- t-016
   global_id: t-170895
   teiginys: "1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą; Lietuvoje už juos mokėta po 25 lietuviškus grašius."
   pagrindžia:
     - c-155488
 
 <a id="claim-t-170896"></a>
-- t-008
+- t-017
   global_id: t-170896
   teiginys: "1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų."
   pagrindžia:
     - c-155518
 
 <a id="claim-t-170899"></a>
-- t-037
+- t-018
   global_id: t-170899
   teiginys: "XIX a. septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   pagrindžia:
     - c-155510
 
 <a id="claim-t-170901"></a>
-- t-055
+- t-019
   global_id: t-170901
   teiginys: "Padalinimo sutartys pasirašytos 1772 m. Sankt Peterburge, o 1773-1775 m. jas patvirtino delegacinis seimas Varšuvoje."
   pagrindžia:
     - c-155497
 
 <a id="claim-t-170902"></a>
-- t-042
+- t-020
   global_id: t-170902
   teiginys: "1830 m. vėlyvą rudenį Varšuvoje prasidėjus sukilimui, Vilniuje susikūrė sukilimo centrinis komitetas."
   pagrindžia:
     - c-155501
 
 <a id="claim-t-170903"></a>
-- t-011
+- t-021
   global_id: t-170903
   teiginys: "1830 m. lapkričio pabaigoje Varšuvoje pasikėsinus prieš caro brolį, kuris buvo ir Lenkijos kariuomenės vadas, Varšuvą apėmė miestiečių sukilimas."
   pagrindžia:
     - c-155498
 
 <a id="claim-t-170905"></a>
-- t-047
+- t-022
   global_id: t-170905
   teiginys: "1572 m. kovo 26 d. Varšuvoje visuotiniame Karalystės seime buvo duotas karaliaus įsakymas dėl lietuviškos monetos."
   pagrindžia:
     - c-155504
 
 <a id="claim-t-170911"></a>
-- t-014
+- t-023
   global_id: t-170911
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   pagrindžia:
     - c-155486
 
 <a id="claim-t-170909"></a>
-- t-030
+- t-024
   global_id: t-170909
   teiginys: "1570 m. birželio 1 d. Motiejus Kaviečnijskis atsiuntė talerius į Varšuvą."
   pagrindžia:
     - c-155488
 
 <a id="claim-t-170911"></a>
-- t-014
+- t-025
   global_id: t-170911
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   pagrindžia:
     - c-155486
 
 <a id="claim-t-170912"></a>
-- t-056
+- t-026
   global_id: t-170912
   teiginys: "Žygimanto Augusto testamentas buvo aktuotas Varšuvoje 1571 m. gegužės 6 d."
   pagrindžia:
     - c-155509
 
 <a id="claim-t-170913"></a>
-- t-045
+- t-027
   global_id: t-170913
   teiginys: "Testamentas buvo surašytas Varšuvoje 1571 m. gegužės 6 d."
   pagrindžia:
     - c-155505
 
 <a id="claim-t-193241"></a>
-- t-058
+- t-028
   global_id: t-193241
   teiginys: "Jis turėjo būti bendrai renkamas Volos kaimo lauke, netoli Varšuvos, dalyvaujant visiems abiejų valstybių bajorams."
   pagrindžia:
     - c-24536
 
 <a id="claim-t-193242"></a>
-- t-059
+- t-029
   global_id: t-193242
   teiginys: "Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
   pagrindžia:
     - c-175978
 
 <a id="claim-t-193243"></a>
-- t-060
+- t-030
   global_id: t-193243
   teiginys: "Lietuviai irgi atvažiavo į Varšuvą, tačiau į elekciją nėjo: jie reikalavo, kad pirma lenkai savitarpyje susitaikintų ir pašalintų kariuomenę."
   pagrindžia:

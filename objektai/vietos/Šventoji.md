@@ -37,7 +37,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 ## Teiginiai
 
 <a id="claim-t-182117"></a>
-- t-014
+- t-001
   global_id: t-182117
   teiginys: "Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji."
   pagrindžia:

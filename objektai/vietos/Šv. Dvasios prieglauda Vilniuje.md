@@ -39,35 +39,35 @@ Pagaliau šį darbą pa­ baigęs ir ištobulinęs, mūsų valia ir nurodymu, ė
     - c-81834
 
 <a id="claim-t-85852"></a>
-- t-005
+- t-002
   global_id: t-85852
   teiginys: "Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir prieglaudos provizoriumi, turėjusiu rinkti tilto muitą jos statybai."
   pagrindžia:
     - c-81838
 
 <a id="claim-t-85853"></a>
-- t-004
+- t-003
   global_id: t-85853
   teiginys: "Dvasios bažnyčią, kitą - iš šono, kur išeina į Šv."
   pagrindžia:
     - c-81833
 
 <a id="claim-t-85854"></a>
-- t-003
+- t-004
   global_id: t-85854
   teiginys: "Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus."
   pagrindžia:
     - c-81837
 
 <a id="claim-t-85855"></a>
-- t-006
+- t-005
   global_id: t-85855
   teiginys: "Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai."
   pagrindžia:
     - c-81835
 
 <a id="claim-t-85856"></a>
-- t-002
+- t-006
   global_id: t-85856
   teiginys: "Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti."
   pagrindžia:

@@ -32,14 +32,14 @@ Viena jo kuopa padaryta zonderkomanda ir liepos 4 ir 6 dieną nacių komanduojam
 ## Teiginiai
 
 <a id="claim-t-70414"></a>
-- t-002
+- t-001
   global_id: t-70414
   teiginys: "Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys."
   pagrindžia:
     - c-69433
 
 <a id="claim-t-183486"></a>
-- t-003
+- t-002
   global_id: t-183486
   teiginys: "Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte."
   pagrindžia:

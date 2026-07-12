@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-80685"></a>
-- t-002
+- t-001
   global_id: t-80685
   teiginys: "Šalmas „Pappenheimer“ buvo kavalerijai skirtas šalmas, ilgai naudotas raitarų ir kartais ATR husarų vėliavų eilinių."
   pagrindžia:
     - c-77369
 
 <a id="claim-t-80686"></a>
-- t-001
+- t-002
   global_id: t-80686
   teiginys: "Šalmas „Pappenheimer“ buvo iš rytų perimto šyšako vakarietiška atmaina, paplitusi XVII a."
   pagrindžia:

@@ -30,21 +30,21 @@ Spinta XI, Nr. 18 sakoma: terra Dobrynensis et con­ finia Culmensia [Dobrynės 
 ## Teiginiai
 
 <a id="claim-t-88274"></a>
-- t-002
+- t-001
   global_id: t-88274
   teiginys: "Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą."
   pagrindžia:
     - c-84253
 
 <a id="claim-t-88275"></a>
-- t-001
+- t-002
   global_id: t-88275
   teiginys: "Slaptojo archyvo dokumente nurodyta, kad per antpuolį kentėjo Dobrynės žemė ir kaimyninės Kulmo žemės."
   pagrindžia:
     - c-84254
 
 <a id="claim-t-88274"></a>
-- t-002
+- t-003
   global_id: t-88274
   teiginys: "Slaptojo archyvo dokumentai mini daugelio dvasininkų nužudymą per Dobrynės žemės nusiaubimą."
   pagrindžia:

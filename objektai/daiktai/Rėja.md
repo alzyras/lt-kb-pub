@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-08327"></a>
-- t-002
+- t-001
   global_id: t-08327
   teiginys: "Neturtingieji rėjos duoboje pėrėsi, nes ant kakalio buvo sukrauta krosnis."
   pagrindžia:

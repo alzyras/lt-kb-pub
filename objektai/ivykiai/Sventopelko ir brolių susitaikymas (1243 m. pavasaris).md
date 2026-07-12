@@ -54,28 +54,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89403"></a>
-- t-003
+- t-001
   global_id: t-89403
   teiginys: "Sventopelko ir brolių taika buvo sudaryta 1243 m. pavasarį."
   pagrindžia:
     - c-85365
 
 <a id="claim-t-89404"></a>
-- t-004
+- t-002
   global_id: t-89404
   teiginys: "Sventopelkas kaip užstatą turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti Mstivojų, Vimarą bei Vojaką."
   pagrindžia:
     - c-85362
 
 <a id="claim-t-89405"></a>
-- t-002
+- t-003
   global_id: t-89405
   teiginys: "Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų."
   pagrindžia:
     - c-85362
 
 <a id="claim-t-89406"></a>
-- t-001
+- t-004
   global_id: t-89406
   teiginys: "Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo."
   pagrindžia:

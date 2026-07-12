@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07788"></a>
-- t-004
+- t-001
   global_id: t-07788
   teiginys: "Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų."
   pagrindžia:

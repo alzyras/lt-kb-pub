@@ -62,7 +62,7 @@ Nenurodyta
     - c-48262
 
 <a id="claim-t-45457"></a>
-- t-001
+- t-002
   global_id: t-45457
   teiginys: "Vytauto politikoje svarbiausia socialinė permaina buvo žemvaldžių riterių sluoksnio kūrimas."
   pagrindžia:

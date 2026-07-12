@@ -40,14 +40,14 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
 ## Teiginiai
 
 <a id="claim-t-82281"></a>
-- t-002
+- t-001
   global_id: t-82281
   teiginys: "Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai."
   pagrindžia:
     - c-78760
 
 <a id="claim-t-82282"></a>
-- t-003
+- t-002
   global_id: t-82282
   teiginys: "Varmės vyskupas Eberhardas 1325 m. rašė, kad teiginiai apie lietuvių norą krikštytis yra melagingi."
   pagrindžia:

@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - saltinis
   - vyskupas
 media_total_count: '0'

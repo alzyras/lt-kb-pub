@@ -62,14 +62,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-12333"></a>
-- t-002
+- t-001
   global_id: t-12333
   teiginys: "Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai."
   pagrindžia:
     - c-14341
 
 <a id="claim-t-89438"></a>
-- t-006
+- t-002
   global_id: t-89438
   teiginys: "Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu."
   pagrindžia:
@@ -83,7 +83,7 @@ Nenurodyta
     - c-85397
 
 <a id="claim-t-89440"></a>
-- t-001
+- t-004
   global_id: t-89440
   teiginys: "Nuo Vytauto laikų Lietuvoje buvo liejami varpai."
   pagrindžia:

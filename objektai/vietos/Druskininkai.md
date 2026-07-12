@@ -41,7 +41,7 @@ O kai, besivydami bolševikus, lenkai ties Druskininkais persikėlė per Nemuną
 ## Teiginiai
 
 <a id="claim-t-170325"></a>
-- t-011
+- t-001
   global_id: t-170325
   teiginys: "Lietuviai derybose su sovietais siekė atgauti lietuviškus Vilniaus krašto rajonus, tarp jų Druskininkus."
   pagrindžia:

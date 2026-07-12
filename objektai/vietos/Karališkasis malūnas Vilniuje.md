@@ -58,28 +58,28 @@ Malūnas minimas prie Vilnios upės ir bernardinams skirto slėnio.
 ## Teiginiai
 
 <a id="claim-t-55248"></a>
-- t-002
+- t-001
   global_id: t-55248
   teiginys: "1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą."
   pagrindžia:
     - c-177469
 
 <a id="claim-t-55249"></a>
-- t-003
+- t-002
   global_id: t-55249
   teiginys: "1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną."
   pagrindžia:
     - c-177469
 
 <a id="claim-t-195086"></a>
-- t-004
+- t-003
   global_id: t-195086
   teiginys: "Antraštė: Molendinum Vilnense [Vil niaus malūnas]."
   pagrindžia:
     - c-55849
 
 <a id="claim-t-195087"></a>
-- t-001
+- t-004
   global_id: t-195087
   teiginys: "Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas."
   pagrindžia:

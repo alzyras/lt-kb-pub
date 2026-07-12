@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86902"></a>
-- t-002
+- t-001
   global_id: t-86902
   teiginys: "1543 m. privilegija leido Vilniaus vyskupui Povilui bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo Vilniaus turguje."
   pagrindžia:
     - c-82883
 
 <a id="claim-t-86903"></a>
-- t-003
+- t-002
   global_id: t-86903
   teiginys: "1543 m. privilegija leido Vilniaus miestiečiams ir gyventojams pirkti mėsą vyskupo įrengtose mėsinėse turguje."
   pagrindžia:

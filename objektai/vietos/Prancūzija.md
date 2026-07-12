@@ -50,63 +50,63 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 ## Teiginiai
 
 <a id="claim-t-112063"></a>
-- t-004
+- t-001
   global_id: t-112063
   teiginys: "Katalikybė sudarė prielaidą Italijos ir Ispanijos baroko kultūrai plisti Prancūzijoje."
   pagrindžia:
     - c-103543
 
 <a id="claim-t-112074"></a>
-- t-006
+- t-002
   global_id: t-112074
   teiginys: "LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją."
   pagrindžia:
     - c-103548
 
 <a id="claim-t-112065"></a>
-- t-012
+- t-003
   global_id: t-112065
   teiginys: "Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis."
   pagrindžia:
     - c-103541
 
 <a id="claim-t-112066"></a>
-- t-013
+- t-004
   global_id: t-112066
   teiginys: "Prancūzijoje buvo likviduotas Tamplierių ordinas, kurio pavyzdžiu susikūrė ir egzistavo Teutonų ordinas."
   pagrindžia:
     - c-103552
 
 <a id="claim-t-112067"></a>
-- t-007
+- t-005
   global_id: t-112067
   teiginys: "Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje."
   pagrindžia:
     - c-103540
 
 <a id="claim-t-112068"></a>
-- t-018
+- t-006
   global_id: t-112068
   teiginys: "Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas."
   pagrindžia:
     - c-24411
 
 <a id="claim-t-112069"></a>
-- t-016
+- t-007
   global_id: t-112069
   teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos pripažinimą Prancūzijoje ir kitose valstybėse, nepripažinusiose Lietuvos įjungimo į SSRS."
   pagrindžia:
     - c-103539
 
 <a id="claim-t-112070"></a>
-- t-017
+- t-008
   global_id: t-112070
   teiginys: "Zigmantas Sierakauskas manė, kad po mėnesio kito turėjo prasidėti Anglijos ir Prancūzijos intervencija prieš Rusiją."
   pagrindžia:
     - c-103550
 
 <a id="claim-t-112071"></a>
-- t-005
+- t-009
   global_id: t-112071
   teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
   pagrindžia:
@@ -120,49 +120,49 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - c-103543
 
 <a id="claim-t-112073"></a>
-- t-009
+- t-011
   global_id: t-112073
   teiginys: "Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-103541
 
 <a id="claim-t-112074"></a>
-- t-006
+- t-012
   global_id: t-112074
   teiginys: "LLV Konstitucija buvo priimta keliais mėnesiais anksčiau už Prancūzijos konstituciją."
   pagrindžia:
     - c-103548
 
 <a id="claim-t-112075"></a>
-- t-017
+- t-013
   global_id: t-112075
   teiginys: "Į Prancūzijos universitetus vykdavo mokytis tie, kurie nesiruošė dvasininkais."
   pagrindžia:
     - c-166469
 
 <a id="claim-t-112076"></a>
-- t-008
+- t-014
   global_id: t-112076
   teiginys: "Prancūzija nepripažino prievartinio Lietuvos įjungimo į SSRS sudėtį."
   pagrindžia:
     - c-103539
 
 <a id="claim-t-112077"></a>
-- t-014
+- t-015
   global_id: t-112077
   teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
   pagrindžia:
     - c-103545
 
 <a id="claim-t-112078"></a>
-- t-015
+- t-016
   global_id: t-112078
   teiginys: "Jonas Žemaitis-Vytautas 1936–1938 m. studijavo Prancūzijos artilerijos mokykloje, o vėliau buvo išrinktas LLKS Tarybos prezidiumo pirmininku."
   pagrindžia:
     - c-103540
 
 <a id="claim-t-183080"></a>
-- t-019
+- t-017
   global_id: t-183080
   teiginys: "Aukštojo mokslo siekę ne dvasininkai vykdavo į Vakarų Europos universitetus Vokietijoje, Italijoje ir Prancūzijoje."
   pagrindžia:

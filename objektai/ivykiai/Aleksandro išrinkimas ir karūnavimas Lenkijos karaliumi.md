@@ -58,28 +58,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186789"></a>
-- t-004
+- t-001
   global_id: t-186789
   teiginys: "Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12."
   pagrindžia:
     - c-169982
 
 <a id="claim-t-186790"></a>
-- t-003
+- t-002
   global_id: t-186790
   teiginys: "Redakcinė pastaba nurodo, kad Aleksandras iš Melniko į Krokuvą išvyko 1501.XI.29."
   pagrindžia:
     - c-169982
 
 <a id="claim-t-186791"></a>
-- t-002
+- t-003
   global_id: t-186791
   teiginys: "Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties."
   pagrindžia:
     - c-169981
 
 <a id="claim-t-186792"></a>
-- t-001
+- t-004
   global_id: t-186792
   teiginys: "Lenkijos seimas 1501 m. spalio 3 d. Petrakave preliminariai išrinko Aleksandrą Lenkijos karaliumi."
   pagrindžia:

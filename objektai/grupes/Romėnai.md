@@ -96,14 +96,14 @@ Pirmutinis mūsų krašto gyventojus mini pirmojo amžiaus galo romėnų rašyto
     - c-171222
 
 <a id="claim-t-192452"></a>
-- t-010
+- t-009
   global_id: t-192452
   teiginys: "Kartaginietis, nenorėdamas parodyti kelio paskui plaukusiam romėnų laivui, įviliojo jį į pavojingas vietas."
   pagrindžia:
     - c-175246
 
 <a id="claim-t-194864"></a>
-- t-011
+- t-010
   global_id: t-194864
   teiginys: "Sis autorius, kruopščiausiai rin kęs įvairias žinias iš retų raštų, pats lankėsi prie Elbės, vadovaudamas romėnų kariuomenei, be to, buvo visiškai atsidavęs gamtos tyrinėjimui ir neabejotinai turėjo progos susipažinti su to meto mokslininkų požiūriais ¡bei."
   pagrindžia:

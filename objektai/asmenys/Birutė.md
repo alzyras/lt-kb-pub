@@ -46,63 +46,63 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 ## Teiginiai
 
 <a id="claim-t-176313"></a>
-- t-004
+- t-001
   global_id: t-176313
   teiginys: "Birutė bus pagimdžiusi tris jaunesniuosius Kęstučio sūnus ir tris dukteris."
   pagrindžia:
     - c-15262
 
 <a id="claim-t-176314"></a>
-- t-014
+- t-002
   global_id: t-176314
   teiginys: "Birutė iš jų bus išmokęs skaityti ir rašyti."
   pagrindžia:
     - c-160327
 
 <a id="claim-t-176315"></a>
-- t-005
+- t-003
   global_id: t-176315
   teiginys: "Kęstutis, perkopęs 40 metų, vedė žinomo Žemaičių bajoro Vydimanto dukterį Birutę."
   pagrindžia:
     - c-160328
 
 <a id="claim-t-176317"></a>
-- t-010
+- t-004
   global_id: t-176317
   teiginys: "Birutės ir Kęstučio meilės istorija laikoma vienu iš Lietuvos metraščiuose užrašytų epinių pasakojimų siužetų."
   pagrindžia:
     - c-160331
 
 <a id="claim-t-176318"></a>
-- t-007
+- t-005
   global_id: t-176318
   teiginys: "Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei."
   pagrindžia:
     - c-160331
 
 <a id="claim-t-176319"></a>
-- t-012
+- t-006
   global_id: t-176319
   teiginys: "Lietuvos metraščiuose Birutė vaizduojama kaip Palangos mergelė, žmonių garbinta kaip dievaitė."
   pagrindžia:
     - c-160333
 
 <a id="claim-t-176321"></a>
-- t-008
+- t-007
   global_id: t-176321
   teiginys: "Kunigaikštienės Birutės paskandinimo aplinkybės, kaip ir Kęstučio mirtis, šaltinyje vadinamos neaiškiomis."
   pagrindžia:
     - c-160334
 
 <a id="claim-t-184675"></a>
-- t-015
+- t-008
   global_id: t-184675
   teiginys: "Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą."
   pagrindžia:
     - c-168036
 
 <a id="claim-t-184676"></a>
-- t-016
+- t-009
   global_id: t-184676
   teiginys: "Vytautas, sužinojęs apie Jogailos žygį į Trakus, su pamote Birute pasitraukė į Gardiną."
   pagrindžia:
@@ -144,7 +144,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
     - c-171408
 
 <a id="claim-t-193898"></a>
-- t-017
+- t-015
   global_id: t-193898
   teiginys: "Ir kunigaikštis Kęstutis paėmė ją prievarta iš tos vietos, su didžia pa garba palydėjo ją į savo sostinę Trakus ir, sukvietęs brolius, iškėlė su savaisiais broliais dideles vestuves ir paėmė tą mergelę Birutę sau žmona l3 ."
   pagrindžia:

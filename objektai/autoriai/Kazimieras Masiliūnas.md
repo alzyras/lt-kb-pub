@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

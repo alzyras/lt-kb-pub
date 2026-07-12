@@ -38,14 +38,14 @@ Dusburgietis teigia, kad dusburgiečio krivis tam tikra prasme analogiškas Eili
 ## Teiginiai
 
 <a id="claim-t-60975"></a>
-- t-002
+- t-001
   global_id: t-60975
   teiginys: "Eiliuotojoje Livonijos kronikoje rašoma, kad kuršiai pabėgo iš mūšio lauko, palikdami Ordino brolius, o jų pavyzdžiu pasekė estai."
   pagrindžia:
     - c-61607
 
 <a id="claim-t-60976"></a>
-- t-001
+- t-002
   global_id: t-60976
   teiginys: "Eiliuotojoje Livonijos kronikoje minimas žemaičių žynys dievams aukojo trečdalį karo grobio ir išbūrė žemaičių vadams pergalę 1259 m. Skuodo kautynėse."
   pagrindžia:

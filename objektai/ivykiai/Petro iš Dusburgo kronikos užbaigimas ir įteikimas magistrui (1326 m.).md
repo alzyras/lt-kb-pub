@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62430"></a>
-- t-002
+- t-001
   global_id: t-62430
   teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
   pagrindžia:
     - c-63056
 
 <a id="claim-t-62431"></a>
-- t-001
+- t-002
   global_id: t-62431
   teiginys: "1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją magistrui Verneriui iš Orzelno."
   pagrindžia:

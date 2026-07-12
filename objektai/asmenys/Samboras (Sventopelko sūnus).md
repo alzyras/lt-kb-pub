@@ -32,14 +32,14 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
 ## Teiginiai
 
 <a id="claim-t-60061"></a>
-- t-002
+- t-001
   global_id: t-60061
   teiginys: "Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų."
   pagrindžia:
     - c-60693
 
 <a id="claim-t-60062"></a>
-- t-001
+- t-002
   global_id: t-60062
   teiginys: "Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui."
   pagrindžia:

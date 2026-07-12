@@ -11,6 +11,7 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - valstybė
 amziai:
@@ -53,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-20329"></a>
-- t-002
+- t-001
   global_id: t-20329
   teiginys: "1918 m. vasario 16 d. Jono Basanavičiaus vadovaujama Lietuvos Taryba Vokietijos okupacijos sąlygomis paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:

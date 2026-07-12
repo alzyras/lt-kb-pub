@@ -36,28 +36,28 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 ## Teiginiai
 
 <a id="claim-t-78912"></a>
-- t-004
+- t-001
   global_id: t-78912
   teiginys: "Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trauktis arba kautis prie kitos vėliavos."
   pagrindžia:
     - c-76016
 
 <a id="claim-t-78913"></a>
-- t-008
+- t-002
   global_id: t-78913
   teiginys: "Viduramžių kariuomenėje 25-80 lancų sudarydavo būrį, vadinamą vėliava."
   pagrindžia:
     - c-14727
 
 <a id="claim-t-78914"></a>
-- t-007
+- t-003
   global_id: t-78914
   teiginys: "Dragūnų vėliavą sudarė 100-150 žmonių."
   pagrindžia:
     - c-44240
 
 <a id="claim-t-78915"></a>
-- t-010
+- t-004
   global_id: t-78915
   teiginys: "Vėliavai vadovaudavo kapitonas."
   pagrindžia:
@@ -71,21 +71,21 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
     - c-37969
 
 <a id="claim-t-78917"></a>
-- t-003
+- t-006
   global_id: t-78917
   teiginys: "Vėliava buvo 25-80 lancų būrys, kuriame būdavo apie 300-400 raitųjų."
   pagrindžia:
     - c-14727
 
 <a id="claim-t-78918"></a>
-- t-009
+- t-007
   global_id: t-78918
   teiginys: "Riteris kaudavosi po savo vėliava ir neturėdavo teisės ją palikęs bėgti."
   pagrindžia:
     - c-37969
 
 <a id="claim-t-193755"></a>
-- t-011
+- t-008
   global_id: t-193755
   teiginys: "Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė 200 raitelių."
   pagrindžia:

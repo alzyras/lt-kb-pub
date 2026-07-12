@@ -39,14 +39,14 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Teiginiai
 
 <a id="claim-t-181538"></a>
-- t-003
+- t-001
   global_id: t-181538
   teiginys: "1469 metais į Vilnių pakviestam Bernardinų ordinui bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis palei Vilnią prie Karališkojo malūno."
   pagrindžia:
     - c-165073
 
 <a id="claim-t-181539"></a>
-- t-013
+- t-002
   global_id: t-181539
   teiginys: "Vilniaus vaivada Mikalojus Radvila dosniai prisidėjo prie Bernardinų bažnyčios permūrijimo, kai jai dėl menkų pamatų grėsė griūtis."
   pagrindžia:

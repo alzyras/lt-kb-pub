@@ -39,14 +39,14 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
 ## Teiginiai
 
 <a id="claim-t-91223"></a>
-- t-006
+- t-001
   global_id: t-91223
   teiginys: "Kristburgo komtūras Ditrichas Rodė antrosios atskalūnybės metais su brolių ir maldininkų šimtine apiplėšė Pagudės žemę."
   pagrindžia:
     - c-86954
 
 <a id="claim-t-91224"></a>
-- t-005
+- t-002
   global_id: t-91224
   teiginys: "1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį."
   pagrindžia:
@@ -60,49 +60,49 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     - c-86948
 
 <a id="claim-t-91226"></a>
-- t-008
+- t-004
   global_id: t-91226
   teiginys: "Magistras ir broliai, keršydami už nužudytuosius, įsiveržė į Pagudės žemę ir ją nusiaubė plėšdami, degindami bei imdami belaisvius."
   pagrindžia:
     - c-86946
 
 <a id="claim-t-91227"></a>
-- t-007
+- t-005
   global_id: t-91227
   teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais."
   pagrindžia:
     - c-86953
 
 <a id="claim-t-91228"></a>
-- t-002
+- t-006
   global_id: t-91228
   teiginys: "Petro iš Dusburgo kronikoje Pagudė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-86951
 
 <a id="claim-t-91229"></a>
-- t-009
+- t-007
   global_id: t-91229
   teiginys: "Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus."
   pagrindžia:
     - c-86947
 
 <a id="claim-t-91230"></a>
-- t-004
+- t-008
   global_id: t-91230
   teiginys: "Pagudė buvo prūsų žemė į šiaurės rytus nuo Pamedės, vakaruose siekusi dabartinio Elbingo apylinkes."
   pagrindžia:
     - c-86952
 
 <a id="claim-t-192712"></a>
-- t-010
+- t-009
   global_id: t-192712
   teiginys: "Narbutas Pagudės pavadinimą kildino iš Jesse arba Wesseke upės, prie kurios, jo aiškinimu, buvo šios žemės."
   pagrindžia:
     - c-175482
 
 <a id="claim-t-192713"></a>
-- t-011
+- t-010
   global_id: t-192713
   teiginys: "Pagudė vakaruose ribojosi su Pamede, nuo kurios ją skyrė Elbingo upė ir Drūsinės ežeras."
   pagrindžia:

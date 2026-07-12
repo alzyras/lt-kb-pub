@@ -52,28 +52,28 @@ Vartojamas senosios istoriografijos ir rašytojo apie praeitį prasme.
 ## Teiginiai
 
 <a id="claim-t-192300"></a>
-- t-002
+- t-001
   global_id: t-192300
   teiginys: "Narbutas nurodė: Daukanto žodyne „dziejopis“ pateikiamas kaip „wejkaluraszytojas“, o „dziejopisarz“ siejamas su „latopisiec“."
   pagrindžia:
     - c-175114
 
 <a id="claim-t-192301"></a>
-- t-003
+- t-002
   global_id: t-192301
   teiginys: "Narbutas nurodė: Simonas Daukantas žodį „dziejopis“ („dziejopisarz“) prilygino žodžiui „latopisiec“."
   pagrindžia:
     - c-175114
 
 <a id="claim-t-192302"></a>
-- t-004
+- t-003
   global_id: t-192302
   teiginys: "Narbutas nurodė: Simonas Daukantas „dziejopis“ („dziejopisarz“) siejo su „latopisiec“, t. y. „meturaszitojas“."
   pagrindžia:
     - c-175114
 
 <a id="claim-t-192303"></a>
-- t-001
+- t-004
   global_id: t-192303
   teiginys: "Narbutas nurodė: Simonas Daukantas „Didžiajame lenkų-lietuvių kalbų žodyne“ žodį „dziejopis“ aiškino kaip „wejkaluraszytojas“."
   pagrindžia:

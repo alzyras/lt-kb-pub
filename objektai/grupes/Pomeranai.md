@@ -46,14 +46,14 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
     - c-85140
 
 <a id="claim-t-89174"></a>
-- t-004
+- t-003
   global_id: t-89174
   teiginys: "Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais."
   pagrindžia:
     - c-85143
 
 <a id="claim-t-89175"></a>
-- t-003
+- t-004
   global_id: t-89175
   teiginys: "Sis įvykis ir pomeranų kariuomenę taip išgąsdino, kad visa išsibėgiojo."
   pagrindžia:

@@ -36,7 +36,7 @@ Vartojamos formos: `lažu`.
 ## Teiginiai
 
 <a id="claim-t-70014"></a>
-- t-004
+- t-001
   global_id: t-70014
   teiginys: "`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu."
   pagrindžia:

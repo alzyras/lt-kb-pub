@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - tikėjimas
 amziai:
   - 'XX'
@@ -62,7 +63,7 @@ Sovietmečiu religinės manifestacijos veikė kaip masinė draudimų nepaisymo p
 ## Teiginiai
 
 <a id="claim-t-23363"></a>
-- t-003
+- t-001
   global_id: t-23363
   teiginys: "Nepaisydami valdžios draudimų, į religines manifestacijas suvažiuodavo dešimtys tūkstančių maldininkų, įsigydavusių draustų relikvijų ir nelegalios religinės literatūros."
   pagrindžia:

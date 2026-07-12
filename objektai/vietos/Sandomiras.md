@@ -41,28 +41,28 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 ## Teiginiai
 
 <a id="claim-t-133639"></a>
-- t-005
+- t-001
   global_id: t-133639
   teiginys: "Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes."
   pagrindžia:
     - c-121940
 
 <a id="claim-t-133640"></a>
-- t-006
+- t-002
   global_id: t-133640
   teiginys: "1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą."
   pagrindžia:
     - c-37712
 
 <a id="claim-t-185128"></a>
-- t-007
+- t-003
   global_id: t-185128
   teiginys: "Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus."
   pagrindžia:
     - c-168489
 
 <a id="claim-t-185129"></a>
-- t-008
+- t-004
   global_id: t-185129
   teiginys: "Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme."
   pagrindžia:

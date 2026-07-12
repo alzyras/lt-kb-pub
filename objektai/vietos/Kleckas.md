@@ -47,56 +47,56 @@ Aleksandro mirties metais (1506) jie buvo pasiekę net Naugarduką ir Lydą; bet
 ## Teiginiai
 
 <a id="claim-t-195088"></a>
-- t-003
+- t-001
   global_id: t-195088
   teiginys: "Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu."
   pagrindžia:
     - c-177476
 
 <a id="claim-t-195089"></a>
-- t-008
+- t-002
   global_id: t-195089
   teiginys: "1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius."
   pagrindžia:
     - c-177470
 
 <a id="claim-t-195090"></a>
-- t-004
+- t-003
   global_id: t-195090
   teiginys: "Krymo totoriai apie liepos 20-22 d. apsistojo ties Klecku ir pradėjo grobti žmones bei turtą."
   pagrindžia:
     - c-177474
 
 <a id="claim-t-195091"></a>
-- t-007
+- t-004
   global_id: t-195091
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti."
   pagrindžia:
     - c-177477
 
 <a id="claim-t-195092"></a>
-- t-006
+- t-005
   global_id: t-195092
   teiginys: "Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką."
   pagrindžia:
     - c-177473
 
 <a id="claim-t-195093"></a>
-- t-005
+- t-006
   global_id: t-195093
   teiginys: "Šaltinių sąrašas 271 VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE p. 77 Krymo totorių isiveržimas į Lietuvą ir Lietuvos kariuomenės žygis link Klecko xv a., Karolis Zikaras, Loreta Uzdraitė."
   pagrindžia:
     - c-177475
 
 <a id="claim-t-195094"></a>
-- t-002
+- t-007
   global_id: t-195094
   teiginys: "LDK politinės tautos prielaidas kūrė karinės pergalės Žalgiryje, Klecke, Oršoje, Kirchholme ir Chotyne."
   pagrindžia:
     - c-177472
 
 <a id="claim-t-195095"></a>
-- t-001
+- t-008
   global_id: t-195095
   teiginys: "Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams."
   pagrindžia:

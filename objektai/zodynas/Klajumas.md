@@ -36,14 +36,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07677"></a>
-- t-004
+- t-001
   global_id: t-07677
   teiginys: "Klajume žmonės rinkdavosi melstis, o ąžuolinių malkų rietuvės buvo laikomos šventai ugniai kūrenti."
   pagrindžia:
     - c-09608
 
 <a id="claim-t-07678"></a>
-- t-003
+- t-002
   global_id: t-07678
   teiginys: "Klajumas buvo erdvė aplink žinyčią, kurioje žmonės rinkdavosi melstis."
   pagrindžia:

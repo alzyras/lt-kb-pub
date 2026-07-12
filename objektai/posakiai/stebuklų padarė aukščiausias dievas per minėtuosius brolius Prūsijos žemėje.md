@@ -31,28 +31,28 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
 ## Teiginiai
 
 <a id="claim-t-89604"></a>
-- t-003
+- t-001
   global_id: t-89604
   teiginys: "Pratarmėje pirmųjų Ordino brolių veikla Prūsijoje apibūdinta žodžiais, kad per juos „stebuklų padarė aukščiausias dievas“."
   pagrindžia:
     - c-85546
 
 <a id="claim-t-89605"></a>
-- t-004
+- t-002
   global_id: t-89605
   teiginys: "Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus."
   pagrindžia:
     - c-85545
 
 <a id="claim-t-89606"></a>
-- t-001
+- t-003
   global_id: t-89606
   teiginys: "Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų."
   pagrindžia:
     - c-85546
 
 <a id="claim-t-89607"></a>
-- t-002
+- t-004
   global_id: t-89607
   teiginys: "Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams."
   pagrindžia:

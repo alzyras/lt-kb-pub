@@ -37,21 +37,21 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-40411"></a>
-- t-003
+- t-001
   global_id: t-40411
   teiginys: "S. Nastopkos vadovaujama 1-oji pėstininkų divizija įžengė į bolševikų paliktą Vilnių."
   pagrindžia:
     - c-42210
 
 <a id="claim-t-40412"></a>
-- t-001
+- t-002
   global_id: t-40412
   teiginys: "S. Nastopkos vadovaujamos 11-osios brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
   pagrindžia:
     - c-42208
 
 <a id="claim-t-40413"></a>
-- t-002
+- t-003
   global_id: t-40413
   teiginys: "Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu."
   pagrindžia:

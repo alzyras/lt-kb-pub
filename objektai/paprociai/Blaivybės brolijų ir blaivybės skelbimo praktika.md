@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67060"></a>
-- t-002
+- t-001
   global_id: t-67060
   teiginys: "Nustojus vesti blaivybės brolijų narių knygas, blaivybė nesusilpnėjo, o parapijonys statė kryžius ir paminklus jai paminėti."
   pagrindžia:
     - c-67110
 
 <a id="claim-t-67061"></a>
-- t-001
+- t-002
   global_id: t-67061
   teiginys: "XIX a. viduryje Lietuvos blaivybės skelbimas labiausiai paplito vyskupo Motiejaus Valančiaus valdomoje Žemaičių vyskupystėje."
   pagrindžia:

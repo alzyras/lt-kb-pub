@@ -40,7 +40,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
 ## Teiginiai
 
 <a id="claim-t-71970"></a>
-- t-003
+- t-001
   global_id: t-71970
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
   pagrindžia:
@@ -54,7 +54,7 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
     - c-43893
 
 <a id="claim-t-71972"></a>
-- t-001
+- t-003
   global_id: t-71972
   teiginys: "Targovicos konfederatams į pagalbą atėjusi Rusijos kariuomenė 1792 m. gegužės 22 d. įžengė į LDK prie Polocko."
   pagrindžia:

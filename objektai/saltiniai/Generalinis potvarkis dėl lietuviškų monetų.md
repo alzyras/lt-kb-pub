@@ -12,10 +12,10 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - saltinis
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -40,14 +40,14 @@ Visiems bendrai ir kiekvie­ nam atskirai, kam tiktai reikės žinoti, pranešam
 ## Teiginiai
 
 <a id="claim-t-88160"></a>
-- t-002
+- t-001
   global_id: t-88160
   teiginys: "1572 m. kovo 26 d. Varšuvoje paskelbtame potvarkyje numatyta bauda atsisakiusiems priimti lietuvišką monetą."
   pagrindžia:
     - c-84140
 
 <a id="claim-t-88161"></a>
-- t-001
+- t-002
   global_id: t-88161
   teiginys: "Žygimantas Augustas įsakė lietuviškus grašius imti po pustrečio lenkiško grašio už du lietuviškus grašius."
   pagrindžia:

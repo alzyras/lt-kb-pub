@@ -56,14 +56,14 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
     - c-55801
 
 <a id="claim-t-54805"></a>
-- t-003
+- t-002
   global_id: t-54805
   teiginys: "Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų."
   pagrindžia:
     - c-55800
 
 <a id="claim-t-54806"></a>
-- t-002
+- t-003
   global_id: t-54806
   teiginys: "Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių."
   pagrindžia:

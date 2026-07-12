@@ -9,6 +9,7 @@ tags:
   - asmuo
   - karalius
   - popiežius
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,14 +32,14 @@ Baptistą Cigala. Cigala antrame savo atsakyme gina, kad karūnacijai atlikti ne
 ## Teiginiai
 
 <a id="claim-t-35051"></a>
-- t-002
+- t-001
   global_id: t-35051
   teiginys: "Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo."
   pagrindžia:
     - c-38003
 
 <a id="claim-t-35052"></a>
-- t-001
+- t-002
   global_id: t-35052
   teiginys: "Dr. Baptistas Cigala Zigmanto pavedimu atsakė į Krokuvos profesoriaus nuomonę."
   pagrindžia:

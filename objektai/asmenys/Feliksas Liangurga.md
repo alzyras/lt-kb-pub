@@ -14,7 +14,6 @@ tags:
   - asmuo
   - karalius
   - miestas
-  - privilegija
 amziai:
   - 'XVI'
 periodo_grupes:

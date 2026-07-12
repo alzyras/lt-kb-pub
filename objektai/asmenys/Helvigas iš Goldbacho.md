@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ginklas
   - kunigas
+  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -46,14 +47,14 @@ Dusburgietis teigia, kad helvigas iš Goldbacho vienui vienas sėdėjo savo pala
     - c-60654
 
 <a id="claim-t-60023"></a>
-- t-003
+- t-002
   global_id: t-60023
   teiginys: "Helvigas iš Goldbacho iš Tiuringijos buvo penkioliktas Prūsijos žemės magistras ir vadovavo vienus metus."
   pagrindžia:
     - c-60656
 
 <a id="claim-t-60024"></a>
-- t-002
+- t-003
   global_id: t-60024
   teiginys: "Pagudėnai ginkluoti užpuolė Kristburgo komtūrą Helvigą iš Goldbacho, Elbingo komtūrą ir jų padėjėjus bei išsivarė juos į nelaisvę."
   pagrindžia:

@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -36,7 +37,7 @@ Dusburgietis teigia, kad šio pakraščio vadą, vardu Gadikas338, nužudė drau
     - c-167451
 
 <a id="claim-t-60281"></a>
-- t-001
+- t-002
   global_id: t-60281
   teiginys: "Gadikas buvo Notangos žemės pakraščio vadas, nužudytas kartu su dviem sūnumis ir daugybe kitų žmonių."
   pagrindžia:

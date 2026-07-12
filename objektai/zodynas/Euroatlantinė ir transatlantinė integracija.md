@@ -38,7 +38,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
 ## Teiginiai
 
 <a id="claim-t-69999"></a>
-- t-003
+- t-001
   global_id: t-69999
   teiginys: "Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas."
   pagrindžia:
@@ -52,7 +52,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
     - c-69164
 
 <a id="claim-t-183423"></a>
-- t-004
+- t-003
   global_id: t-183423
   teiginys: "Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas."
   pagrindžia:

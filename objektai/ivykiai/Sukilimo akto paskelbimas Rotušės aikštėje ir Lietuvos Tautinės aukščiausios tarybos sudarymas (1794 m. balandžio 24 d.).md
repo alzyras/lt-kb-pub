@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - sukilimas
   - tauta
@@ -60,7 +61,7 @@ Nenurodyta
     - c-75855
 
 <a id="claim-t-78639"></a>
-- t-001
+- t-002
   global_id: t-78639
   teiginys: "1794 m. balandžio 24 d. Vilniaus Rotušės aikštėje buvo paskelbtas 2328 sukilėlių pasirašytas sukilimo aktas ir sudaryta Lietuvos Tautinė aukščiausia taryba."
   pagrindžia:

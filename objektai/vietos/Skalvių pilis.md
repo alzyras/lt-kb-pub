@@ -39,14 +39,14 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
 ## Teiginiai
 
 <a id="claim-t-91387"></a>
-- t-002
+- t-001
   global_id: t-91387
   teiginys: "Skalvių pilis 1293 m. statyta kairiajame Nemuno krante žemiau Ragainės, prie Skalvos upelio ties Paskalviais."
   pagrindžia:
     - c-87100
 
 <a id="claim-t-91388"></a>
-- t-006
+- t-002
   global_id: t-91388
   teiginys: "Lietuviai pasitraukdami ištrypė ir sunaikino visus pasėlius Skalvių ir Ragainės pilių laukuose."
   pagrindžia:
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - c-87103
 
 <a id="claim-t-91390"></a>
-- t-001
+- t-004
   global_id: t-91390
   teiginys: "Prie Nemuno pastatyta Skalvių pilis buvo skirta skalviams, atsivertusiems į krikščionybę."
   pagrindžia:
@@ -74,21 +74,21 @@ Dusburgietis teigia, kad neilgai trukus prie Nemuno, šiek tiek žemiau, pastat�
     - c-87104
 
 <a id="claim-t-91392"></a>
-- t-007
+- t-006
   global_id: t-91392
   teiginys: "1289 m. brolis Meinhardas prie Nemuno pastatė Ragainės pilį, o netrukus žemiau prie Nemuno pastatė Skalvių pilį."
   pagrindžia:
     - c-87099
 
 <a id="claim-t-91391"></a>
-- t-005
+- t-007
   global_id: t-91391
   teiginys: "Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
   pagrindžia:
     - c-87104
 
 <a id="claim-t-194548"></a>
-- t-009
+- t-008
   global_id: t-194548
   teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
   pagrindžia:

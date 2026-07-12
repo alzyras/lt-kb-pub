@@ -37,14 +37,14 @@ Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos 
 ## Teiginiai
 
 <a id="claim-t-170075"></a>
-- t-002
+- t-001
   global_id: t-170075
   teiginys: "1938 m. manevruose generolas Jonas Černius buvo fotografijoje šalia kariuomenės vado Stasio Raštikio."
   pagrindžia:
     - c-154757
 
 <a id="claim-t-170076"></a>
-- t-001
+- t-002
   global_id: t-170076
   teiginys: "Jono Černiaus vyriausybėje, kuri vadinta „vieningo darbo“, abi opozicijos partijos gavo po dvi ministrų vietas."
   pagrindžia:

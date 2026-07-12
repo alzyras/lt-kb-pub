@@ -37,14 +37,14 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 ## Teiginiai
 
 <a id="claim-t-38491"></a>
-- t-002
+- t-001
   global_id: t-38491
   teiginys: "Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį."
   pagrindžia:
     - c-40294
 
 <a id="claim-t-193769"></a>
-- t-003
+- t-002
   global_id: t-193769
   teiginys: "Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę."
   pagrindžia:

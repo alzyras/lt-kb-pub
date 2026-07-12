@@ -50,7 +50,7 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - c-59443
 
 <a id="claim-t-58811"></a>
-- t-004
+- t-002
   global_id: t-58811
   teiginys: "Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo."
   pagrindžia:
@@ -64,14 +64,14 @@ Dusburgietis teigia, kad apie dviejų Nadruvos žemės pilių užėmimą Retavos
     - c-59445
 
 <a id="claim-t-58813"></a>
-- t-002
+- t-004
   global_id: t-58813
   teiginys: "Ditrichas iš Lidelau 1278-1292 m. buvo Sembos fogtas."
   pagrindžia:
     - c-59444
 
 <a id="claim-t-58811"></a>
-- t-004
+- t-005
   global_id: t-58811
   teiginys: "Grįžęs iš Vokietijos, sembų fogtas Ditrichas iš Lidelau atkalbėjo jį gerbusius sembus nuo paklydimo."
   pagrindžia:

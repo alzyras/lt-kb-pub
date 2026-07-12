@@ -59,14 +59,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87213"></a>
-- t-002
+- t-001
   global_id: t-87213
   teiginys: "1452 m. vasarį Lucke mirusio Švitrigailos kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
   pagrindžia:
     - c-83193
 
 <a id="claim-t-87214"></a>
-- t-001
+- t-002
   global_id: t-87214
   teiginys: "Žygimanto palaikai buvo atvežti iš Trakų į Vilnių ir, atlikus įprastas apeigas, palaidoti Vilniaus katedros didžiųjų kunigaikščių kape."
   pagrindžia:

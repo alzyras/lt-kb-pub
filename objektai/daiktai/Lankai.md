@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192071"></a>
-- t-003
+- t-001
   global_id: t-192071
   teiginys: "Narbuto pasakojime šauliai žygiavo kariuomenės šonuose su lankais, paruoštais smūgiui."
   pagrindžia:
@@ -66,7 +66,7 @@ Nenurodyta
     - c-174942
 
 <a id="claim-t-192073"></a>
-- t-001
+- t-003
   global_id: t-192073
   teiginys: "LDK karių perkėlų statybą per upę dengė dviejų patrankų, šautuvų ir lankų ugnis."
   pagrindžia:

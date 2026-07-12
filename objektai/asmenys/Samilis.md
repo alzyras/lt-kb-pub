@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - teisinė-praktika
   - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -31,14 +32,14 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
 ## Teiginiai
 
 <a id="claim-t-60203"></a>
-- t-002
+- t-001
   global_id: t-60203
   teiginys: "Prūsai pagavo Samilį, kankino jį verdančiu vandeniu ir ugnimi, o vėliau Samilis pas brolius pasveiko."
   pagrindžia:
     - c-60836
 
 <a id="claim-t-60204"></a>
-- t-001
+- t-002
   global_id: t-60204
   teiginys: "Pamedės kilmingasis Samilis, Tusino tėvas, padėjo badaujančiai Kristburgo piliai ir slapta gerbė tikėjimą bei brolius."
   pagrindžia:

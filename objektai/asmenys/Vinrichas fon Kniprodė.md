@@ -41,7 +41,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80702"></a>
-- t-002
+- t-001
   global_id: t-80702
   teiginys: "1362 m. Kauno pilies žygiui vadovavo didysis Ordino magistras Vinrichas fon Kniprodė."
   pagrindžia:

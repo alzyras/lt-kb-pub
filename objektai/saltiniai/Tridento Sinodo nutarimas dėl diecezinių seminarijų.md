@@ -9,6 +9,7 @@ tags:
   - miestas
   - saltinis
   - tikėjimas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,14 +32,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88341"></a>
-- t-002
+- t-001
   global_id: t-88341
   teiginys: "Kolegijos administravimą siekta išsaugoti pagal Tridento susirinkimo dekretą ir nutarimą."
   pagrindžia:
     - c-84321
 
 <a id="claim-t-88342"></a>
-- t-001
+- t-002
   global_id: t-88342
   teiginys: "Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti nuolatinę seminariją."
   pagrindžia:

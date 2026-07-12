@@ -40,70 +40,70 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-181427"></a>
-- t-004
+- t-001
   global_id: t-181427
   teiginys: "Lemiamų kovų su bolševikais metu Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
   pagrindžia:
     - c-164982
 
 <a id="claim-t-181428"></a>
-- t-003
+- t-002
   global_id: t-181428
   teiginys: "1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
   pagrindžia:
     - c-164981
 
 <a id="claim-t-181429"></a>
-- t-073
+- t-003
   global_id: t-181429
   teiginys: "SSRS unifikacinė politika, autorių vertinimu, nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai juos pasivyti."
   pagrindžia:
     - c-164983
 
 <a id="claim-t-181431"></a>
-- t-038
+- t-004
   global_id: t-181431
   teiginys: "ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
   pagrindžia:
     - c-164981
 
 <a id="claim-t-183790"></a>
-- t-074
+- t-005
   global_id: t-183790
   teiginys: "1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
   pagrindžia:
     - c-43566
 
 <a id="claim-t-188731"></a>
-- t-005
+- t-006
   global_id: t-188731
   teiginys: "Narbutas rašo Revelio šv. Olafo bažnyčioje matęs vėliavą su žalvariniu gaidžiu, laikytą pagonybės laikų vėliava iš Latvijos."
   pagrindžia:
     - c-171620
 
 <a id="claim-t-188732"></a>
-- t-006
+- t-007
   global_id: t-188732
   teiginys: "Narbutas rašo, kad Šiaurės Lietuvos ir Latvijos kaimiečiai raganomis vadino kerėtojas, galinčias virsti katėmis bei šarkomis."
   pagrindžia:
     - c-171621
 
 <a id="claim-t-194734"></a>
-- t-075
+- t-008
   global_id: t-194734
   teiginys: "Papročiai, įpročiai, prietarai, burtai, mįslės, pasakojimai, padavimai, lietuvių genties tautų dainos, surinktos sunkiu darbu iš tikrosios Lietuvos, Žemaičių, Prūsų ir Latvijos, sudaro tą turtą."
   pagrindžia:
     - c-177130
 
 <a id="claim-t-194735"></a>
-- t-076
+- t-009
   global_id: t-194735
   teiginys: "Latvijos kaimiečiai, išlaikę tą mitą, dar ir dabar, išvydę šiaurės pašvaiste, sako: Johdi Kaujahs, dvasios kaunasi."
   pagrindžia:
     - c-177131
 
 <a id="claim-t-194736"></a>
-- t-077
+- t-010
   global_id: t-194736
   teiginys: "Istorijos, kurias turime, yra jau tokios vėlyvos, kad visko atminti negali; Latvija, politinei nepriklausomybei staigiai žlungant, virto vokiečių kolonija; pa čios tikrosios Lietuvos kunigaikštystės buvo nelaimingų vidaus sąmyšių ir išorės priešų užpuolimų."
   pagrindžia:
@@ -168,6 +168,7 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/de facto.md#claim-t-75546|de facto]]: 1919 m. Lietuvą de facto pripažino Norvegija, Latvija ir Suomija, o 1920 m. - Prancūzija ir Lenkija.
 - susijęs iš [[objektai/zodynas/kryžiaus žygių prie Baltijos jūros epocha.md#claim-t-42475|kryžiaus žygių prie Baltijos jūros epocha]]: Kryžiaus žygių prie Baltijos jūros epocha prasidėjo 1202 m., dabartinėje Latvijos teritorijoje įsikūrus Kalavijuočių ordinui.
 - susijęs iš [[objektai/zodynas/reokupacija.md#claim-t-22277|reokupacija]]: 1944 m. vasarą Lietuvos reokupacija reiškė antrą sovietų okupaciją, per kurią Lietuvai, Latvijai ir Estijai grąžintas stalininis režimas.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195577|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910-1912 m. A. R. Niemis keliavo po Lietuvą ir Latviją lietuvių tautosakos studijų tikslais.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 - susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
@@ -308,6 +309,22 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 - susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
 - susijęs iš [[objektai/zodynas/liaudies demokratija.md#claim-t-22212|liaudies demokratija]]: 1940 m. vasarą Sovietų Sąjunga Baltijos valstybėse prievarta įvedė tariamai demokratinį valdymą, oficialiai vadintą „liaudies demokratija“.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195567|1902 m. A. R. Niemio kelionė į Lietuvą]]: 1902 m. vasarą A. R. Niemis atnaujino kelionę į Lietuvą.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195568|1902 m. A. R. Niemio kelionė į Lietuvą]]: Per šią kelionę A. R. Niemis lankė Kauną ir buvo nuolat sekamas rusų žandarų.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195569|1902 m. A. R. Niemio kelionė į Lietuvą]]: Kelionės tikslas buvo susipažinti su lietuvių liaudies poezija.
+- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195570|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: 1904 m. rugpjūčio ir rugsėjo mėnesiais A. R. Niemis vyko į Archangelsko guberniją.
+- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195571|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: Kelionės tikslas buvo pasiekti senų runų rinkimo vietą.
+- susijęs iš [[objektai/ivykiai/1906 m. A. R. Niemio studijų kelionė į Vokiją.md#claim-t-195572|1906 m. A. R. Niemio studijų kelionė į Vokiją]]: 1906 m. vasarą A. R. Niemis vyko į studijų kelionę į Vokiją.
+- susijęs iš [[objektai/ivykiai/1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje.md#claim-t-195573|1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje]]: 1909 m. vasarą A. R. Niemis vyko į studijų ir dainų rinkimo kelionę Suomijos Karieloje.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195574|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Kelionių maršrute buvo Kaunas, Tilžė, Karaliaučius, Vilnius ir Ryga.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195575|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Per šias keliones A. R. Niemis surinko apie 3500 liaudies dainų.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195576|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1910 m. A. R. Niemis rinko dainas šiaurės rytų Lietuvoje.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
+- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195579|1930 m. A. R. Niemio kelionė į Kauną]]: Šios kelionės tikslas buvo susipažinti su naujais lietuvių liaudies dainų rinkiniais.
+- susijęs iš [[objektai/ivykiai/1930 m. A. R. Niemio kelionė į Kauną.md#claim-t-195580|1930 m. A. R. Niemio kelionė į Kauną]]: 1930 m. A. R. Niemis vėl buvo atkeliavęs į Kauną.
+- susijęs iš Lietuvių dainos ir giesmės: Per 1910-1912 m. keliones A. R. Niemis surinko apie 3500 liaudies dainų, kurių dalis išleista „Lietuvių dainos ir giesmės“ knygoje drauge su A. Sabaliausko rinkiniu.
+- susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
+- susijęs iš Kariela: 1909 m. Augustas Robertas Niemi studijų ir dainų rinkimo tikslais keliavo po Suomijos Karielą.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Latvių Tautos Taryba.md#claim-t-72361|Latvių Tautos Taryba (institucija)]]: Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.
 - susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.

@@ -39,14 +39,14 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 ## Teiginiai
 
 <a id="claim-t-69972"></a>
-- t-002
+- t-001
   global_id: t-69972
   teiginys: "1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų."
   pagrindžia:
     - c-44121
 
 <a id="claim-t-69973"></a>
-- t-001
+- t-002
   global_id: t-69973
   teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
   pagrindžia:

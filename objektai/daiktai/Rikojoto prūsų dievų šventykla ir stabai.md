@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - papuošalas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,28 +51,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75342"></a>
-- t-002
+- t-001
   global_id: t-75342
   teiginys: "Pasakojime apie prūsų dievų trejybę Pakulas, Perkūnas ir Patrimpas siejami su kultu, kulto tarnų hierarchija ir vaidilutėmis."
   pagrindžia:
     - c-22291
 
 <a id="claim-t-75343"></a>
-- t-004
+- t-002
   global_id: t-75343
   teiginys: "Prūsų dievų trejybėje Pakulas laikytas požemio, Perkūnas žaibų ir griausmų, o Patrimpas javų dievu."
   pagrindžia:
     - c-22291
 
 <a id="claim-t-75344"></a>
-- t-001
+- t-003
   global_id: t-75344
   teiginys: "Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas."
   pagrindžia:
     - c-22290
 
 <a id="claim-t-75345"></a>
-- t-003
+- t-004
   global_id: t-75345
   teiginys: "Pasak Simono Grunau kronikos, Rikojote po žaliuojančiu ąžuolu buvo prūsų dievų šventykla su trimis stabais."
   pagrindžia:

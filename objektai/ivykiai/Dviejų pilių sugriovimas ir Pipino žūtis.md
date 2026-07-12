@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66533"></a>
-- t-002
+- t-001
   global_id: t-66533
   teiginys: "221 Pipino nukankinimas vaizduojamas tendencingai (žr."
   pagrindžia:
     - c-66747
 
 <a id="claim-t-66534"></a>
-- t-001
+- t-002
   global_id: t-66534
   teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
   pagrindžia:
     - c-66746
 
 <a id="claim-t-66534"></a>
-- t-001
+- t-003
   global_id: t-66534
   teiginys: "Prūsai Vyslos pakrantėje, aukščiau Torunės, turėjo Ragavos pilį, o žemiau Torunės stovėjo dar viena jų pilis."
   pagrindžia:

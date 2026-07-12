@@ -40,28 +40,28 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-69238"></a>
-- t-004
+- t-001
   global_id: t-69238
   teiginys: "Dalis lietuvių inteligentijos iškeliavo į Vakarus arba į Sibirą."
   pagrindžia:
     - c-68626
 
 <a id="claim-t-69239"></a>
-- t-001
+- t-002
   global_id: t-69239
   teiginys: "Sovietų Sąjunga vykdė masines deportacijas iš Lietuvos į Sibirą."
   pagrindžia:
     - c-68627
 
 <a id="claim-t-69240"></a>
-- t-002
+- t-003
   global_id: t-69240
   teiginys: "Pusė jų 1941 m. balandį–birželį išvežti į SSRS gilumą, daugiausia Sibirą."
   pagrindžia:
     - c-68625
 
 <a id="claim-t-69241"></a>
-- t-003
+- t-004
   global_id: t-69241
   teiginys: "Represinės institucijos trėmė į Sibirą ginkluoto pasipriešinimo dalyvių šeimas ir rėmėjus."
   pagrindžia:

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - saltinis
 amziai:
   - 'XVI'

@@ -31,7 +31,7 @@ Nuo 1387 m. LDK yra katalikiška, kaip ir Lenkija, tačiau Lenkijoje apie 1500 m
 ## Teiginiai
 
 <a id="claim-t-65303"></a>
-- t-003
+- t-001
   global_id: t-65303
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais tapo katalikiškojo peizažo bruožu ir žymėjo rytinę katalikybės ribą."
   pagrindžia:

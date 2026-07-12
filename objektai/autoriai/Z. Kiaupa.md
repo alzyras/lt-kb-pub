@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187794"></a>
-- t-002
+- t-001
   global_id: t-187794
   teiginys: "Z. Kiaupa buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   pagrindžia:

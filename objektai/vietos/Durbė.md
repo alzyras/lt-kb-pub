@@ -44,14 +44,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-67866"></a>
-- t-002
+- t-001
   global_id: t-67866
   teiginys: "Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m."
   pagrindžia:
     - c-43424
 
 <a id="claim-t-67867"></a>
-- t-001
+- t-002
   global_id: t-67867
   teiginys: "1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę."
   pagrindžia:

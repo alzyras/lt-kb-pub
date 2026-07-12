@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186864"></a>
-- t-002
+- t-001
   global_id: t-186864
   teiginys: "Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje."
   pagrindžia:
     - c-170049
 
 <a id="claim-t-186865"></a>
-- t-001
+- t-002
   global_id: t-186865
   teiginys: "Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo."
   pagrindžia:

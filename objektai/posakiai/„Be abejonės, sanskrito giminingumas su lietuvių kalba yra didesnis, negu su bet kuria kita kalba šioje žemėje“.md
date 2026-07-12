@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - posakis
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'

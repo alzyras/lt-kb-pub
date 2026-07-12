@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - ivykis
   - tauta
 amziai:
@@ -57,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75162"></a>
-- t-006
+- t-001
   global_id: t-75162
   teiginys: "Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta."
   pagrindžia:
@@ -71,28 +72,28 @@ Nenurodyta
     - c-23062
 
 <a id="claim-t-75164"></a>
-- t-005
+- t-003
   global_id: t-75164
   teiginys: "1988 VI 3 įkuriamas Lietuvos Persitvarkymo Sąjūdis."
   pagrindžia:
     - c-73061
 
 <a id="claim-t-75165"></a>
-- t-001
+- t-004
   global_id: t-75165
   teiginys: "1990 m. kovo 11 d. Lietuva atkūrė nepriklausomybę."
   pagrindžia:
     - c-23061
 
 <a id="claim-t-75166"></a>
-- t-003
+- t-005
   global_id: t-75166
   teiginys: "1990 m. kovo 11 d. Sąjūdžio kandidatai Vytautą Landsbergį išrinko LSSR Aukščiausiosios Tarybos pirmininku."
   pagrindžia:
     - c-23063
 
 <a id="claim-t-75167"></a>
-- t-004
+- t-006
   global_id: t-75167
   teiginys: "Sąjūdis suvienijo įvairius visuomenės sluoksnius, pasirinko neginkluotą kovą ir prisidėjo prie Lietuvos išsilaisvinimo bei SSRS žlugimo."
   pagrindžia:

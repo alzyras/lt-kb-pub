@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ginklas
+  - institucija
   - vieta
 amziai:
   - 'XX'
@@ -37,14 +38,14 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
 ## Teiginiai
 
 <a id="claim-t-42416"></a>
-- t-002
+- t-001
   global_id: t-42416
   teiginys: "Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika."
   pagrindžia:
     - c-45489
 
 <a id="claim-t-42417"></a>
-- t-001
+- t-002
   global_id: t-42417
   teiginys: "Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje."
   pagrindžia:

@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - pilis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -57,7 +58,7 @@ Nenurodyta
     - c-167364
 
 <a id="claim-t-59691"></a>
-- t-001
+- t-002
   global_id: t-59691
   teiginys: "Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų."
   pagrindžia:

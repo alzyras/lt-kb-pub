@@ -42,14 +42,14 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 <a id="claim-t-87405"></a>
-- t-002
+- t-001
   global_id: t-87405
   teiginys: "1547 m. gegužės 22 d. privilegija Martynui Paleckiui steigti fabriką skyrė sklypą prie Vilniaus už Vilijos upės."
   pagrindžia:
     - c-83385
 
 <a id="claim-t-87406"></a>
-- t-001
+- t-002
   global_id: t-87406
   teiginys: "Martynas Paleckis iš karaliaus gavo sklypą prie Vilniaus už Vilijos ir leidimą steigti pirmąjį miesto stiklo fabriką."
   pagrindžia:

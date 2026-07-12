@@ -30,14 +30,14 @@ Vakarų Europos dviašmenis kalavijas, Baltų kovų brolijos „Vilkatlakai“ r
 ## Teiginiai
 
 <a id="claim-t-40862"></a>
-- t-002
+- t-001
   global_id: t-40862
   teiginys: "Baltų kovų brolija „Vilkatlakai“ rekonstravo XIII-XIV a. pradžios lietuvių karį."
   pagrindžia:
     - c-42648
 
 <a id="claim-t-40863"></a>
-- t-001
+- t-002
   global_id: t-40863
   teiginys: "Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją."
   pagrindžia:

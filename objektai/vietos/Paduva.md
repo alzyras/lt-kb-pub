@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

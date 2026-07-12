@@ -41,7 +41,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 ## Teiginiai
 
 <a id="claim-t-60924"></a>
-- t-002
+- t-001
   global_id: t-60924
   teiginys: "Pašutos veikalo puslapis 340 nurodomas prie bandymo lokalizuoti minimą vietovę buvusioje Pagraudės teritorijoje."
   pagrindžia:

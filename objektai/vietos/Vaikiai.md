@@ -40,28 +40,28 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 ## Teiginiai
 
 <a id="claim-t-85033"></a>
-- t-005
+- t-001
   global_id: t-85033
   teiginys: "Vaikių krašte buvusi šventoji giria su netoliese stovėjusia pilimi ir pastatais per vieną naktį buvo sudeginta."
   pagrindžia:
     - c-81109
 
 <a id="claim-t-184210"></a>
-- t-006
+- t-002
   global_id: t-184210
   teiginys: "Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų."
   pagrindžia:
     - c-167595
 
 <a id="claim-t-184211"></a>
-- t-007
+- t-003
   global_id: t-184211
   teiginys: "1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių."
   pagrindžia:
     - c-167596
 
 <a id="claim-t-185170"></a>
-- t-008
+- t-004
   global_id: t-185170
   teiginys: "Iš Prūsijos atžygiavęs priešas Žemaitijoje sulygino su žeme Vaikių, Raseinių, Ariogalos ir Klogėnų valsčius."
   pagrindžia:

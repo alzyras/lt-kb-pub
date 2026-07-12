@@ -40,7 +40,7 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
 ## Teiginiai
 
 <a id="claim-t-169957"></a>
-- t-005
+- t-001
   global_id: t-169957
   teiginys: "Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   pagrindžia:
@@ -54,21 +54,21 @@ LVLS ir LKDP nepareikalavo leisti atkurti savo partinių organizacijų ir sutiko
     - c-154638
 
 <a id="claim-t-169959"></a>
-- t-001
+- t-003
   global_id: t-169959
   teiginys: "1939 m. lapkritį LVLS ir LKDP sutiko deleguoti po du atstovus į tautininko Antano Merkio vyriausybę."
   pagrindžia:
     - c-154635
 
 <a id="claim-t-169961"></a>
-- t-003
+- t-004
   global_id: t-169961
   teiginys: "1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietine veikla."
   pagrindžia:
     - c-154640
 
 <a id="claim-t-169962"></a>
-- t-004
+- t-005
   global_id: t-169962
   teiginys: "Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo."
   pagrindžia:

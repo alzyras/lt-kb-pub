@@ -40,7 +40,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 ## Teiginiai
 
 <a id="claim-t-175240"></a>
-- t-003
+- t-001
   global_id: t-175240
   teiginys: "Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą."
   pagrindžia:
@@ -54,7 +54,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
     - c-159385
 
 <a id="claim-t-175242"></a>
-- t-001
+- t-003
   global_id: t-175242
   teiginys: "Konradas iš Tirbergo Jaunesnysis, būdamas Prūsijos žemės maršalas, įsiveržė į Pakimos valsčių Sūduvoje ir jį smarkiai nusiaubė."
   pagrindžia:

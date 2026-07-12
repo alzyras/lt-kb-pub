@@ -49,28 +49,28 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 ## Teiginiai
 
 <a id="claim-t-171548"></a>
-- t-004
+- t-001
   global_id: t-171548
   teiginys: "Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį."
   pagrindžia:
     - c-11232
 
 <a id="claim-t-171549"></a>
-- t-005
+- t-002
   global_id: t-171549
   teiginys: "„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos."
   pagrindžia:
     - c-11233
 
 <a id="claim-t-171550"></a>
-- t-006
+- t-003
   global_id: t-171550
   teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
   pagrindžia:
     - c-167090
 
 <a id="claim-t-171550"></a>
-- t-006
+- t-004
   global_id: t-171550
   teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
   pagrindžia:

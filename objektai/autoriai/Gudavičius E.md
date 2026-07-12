@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - formulė
 amziai:
   - 'XIV'
 periodo_grupes:

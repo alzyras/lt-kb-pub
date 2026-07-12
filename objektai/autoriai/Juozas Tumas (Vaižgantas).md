@@ -40,14 +40,14 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
 ## Teiginiai
 
 <a id="claim-t-19412"></a>
-- t-002
+- t-001
   global_id: t-19412
   teiginys: "Vaižgantas buvo vienas iš lietuvių literatūros klasikų, tarpukariu dar gyvenusių Kaune."
   pagrindžia:
     - c-22148
 
 <a id="claim-t-19413"></a>
-- t-001
+- t-002
   global_id: t-19413
   teiginys: "Juozas Tumas (Vaižgantas) buvo 1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens."
   pagrindžia:

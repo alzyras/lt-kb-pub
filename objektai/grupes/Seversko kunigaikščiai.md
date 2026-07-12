@@ -27,14 +27,14 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
 ## Teiginiai
 
 <a id="claim-t-185437"></a>
-- t-002
+- t-001
   global_id: t-185437
   teiginys: "Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos."
   pagrindžia:
     - c-168798
 
 <a id="claim-t-193339"></a>
-- t-003
+- t-002
   global_id: t-193339
   teiginys: "Susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po."
   pagrindžia:

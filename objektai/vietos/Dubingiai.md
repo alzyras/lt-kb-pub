@@ -41,28 +41,28 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 ## Teiginiai
 
 <a id="claim-t-71848"></a>
-- t-003
+- t-001
   global_id: t-71848
   teiginys: "Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
   pagrindžia:
     - c-43417
 
 <a id="claim-t-71849"></a>
-- t-004
+- t-002
   global_id: t-71849
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus."
   pagrindžia:
     - c-32023
 
 <a id="claim-t-71850"></a>
-- t-002
+- t-003
   global_id: t-71850
   teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
   pagrindžia:
     - c-43416
 
 <a id="claim-t-71851"></a>
-- t-001
+- t-004
   global_id: t-71851
   teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus."
   pagrindžia:

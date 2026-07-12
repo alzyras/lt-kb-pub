@@ -41,7 +41,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
 ## Teiginiai
 
 <a id="claim-t-175267"></a>
-- t-003
+- t-001
   global_id: t-175267
   teiginys: "Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“."
   pagrindžia:

@@ -42,7 +42,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     - c-170280
 
 <a id="claim-t-187207"></a>
-- t-004
+- t-002
   global_id: t-187207
   teiginys: "Lietuvos metraštyje Bukovina vaizduojama kaip akmeninga, uolėta ir sunkiai pereinama vietovė Lenkijos sienos link."
   pagrindžia:
@@ -56,7 +56,7 @@ Olbrachto kariuomenė jau buvo Bukovinoje, kai Steponas ją užpuolė. Bukovina 
     - c-170279
 
 <a id="claim-t-187209"></a>
-- t-002
+- t-004
   global_id: t-187209
   teiginys: "Lietuvos metraštis pasakoja, kad Bukovinos miškuose ir bukynuose Steponas užpuolė Olbrachtą ir jo kariuomenę."
   pagrindžia:

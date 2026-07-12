@@ -12,6 +12,7 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
 amziai:
@@ -38,21 +39,21 @@ Marksistinė Lietuvos istorijos periodizacija yra paprasta. Pritaikydami ir Liet
 ## Teiginiai
 
 <a id="claim-t-28544"></a>
-- t-002
+- t-001
   global_id: t-28544
   teiginys: "Tarybiniai istorikai, taikydami komunistinės istoriografijos nomenklatūrą Lietuvos istorijai, išskyrė du ryškius laikotarpius."
   pagrindžia:
     - c-28448
 
 <a id="claim-t-28545"></a>
-- t-003
+- t-002
   global_id: t-28545
   teiginys: "Ivinskio vertinimu, marksistinė Lietuvos istorijos periodizacija buvo svetima lietuvių tautos istorijos faktams."
   pagrindžia:
     - c-28449
 
 <a id="claim-t-28546"></a>
-- t-001
+- t-003
   global_id: t-28546
   teiginys: "Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą."
   pagrindžia:

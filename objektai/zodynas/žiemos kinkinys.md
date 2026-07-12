@@ -44,14 +44,14 @@ Tiesioginio paaiškinimo šaltinyje nėra, todėl reikšmė išvedama tik iš ke
 ## Teiginiai
 
 <a id="claim-t-192183"></a>
-- t-002
+- t-001
   global_id: t-192183
   teiginys: "Narbutas aiškina, kad Žiemos kinkinys čia pateikiamas kaip alternatyva mažai valčiai vasarą."
   pagrindžia:
     - c-175054
 
 <a id="claim-t-192184"></a>
-- t-001
+- t-002
   global_id: t-192184
   teiginys: "Žiemos kinkinys Narbuto pasakojime buvo priemonė keliauti užšalusiais vandens keliais pasroviui arba jų kryptimi."
   pagrindžia:

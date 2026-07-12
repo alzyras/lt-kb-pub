@@ -32,7 +32,7 @@ Vilniaus miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­ je L
 ## Teiginiai
 
 <a id="claim-t-86501"></a>
-- t-002
+- t-001
   global_id: t-86501
   teiginys: "Thelcnei muitas reiškė prievolę mokėti muitą nuo prekių Lietuvos ir Rusios Didžiojoje Kunigaikštystėje."
   pagrindžia:

@@ -69,42 +69,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13466"></a>
-- t-002
+- t-001
   global_id: t-13466
   teiginys: "LAF aktyvistai rinko žinias iš sovietų valdomos Lietuvos ir siuntė instrukcijas, o karinė LAF dalis bendradarbiavo su Abveru."
   pagrindžia:
     - c-26863
 
 <a id="claim-t-13467"></a>
-- t-003
+- t-002
   global_id: t-13467
   teiginys: "LAF programoje ir kituose dokumentuose buvo nacionalistinės retorikos ir antisemitizmo, o 16-asis programos punktas atšaukė teisę žydams gyventi Lietuvoje."
   pagrindžia:
     - c-22533
 
 <a id="claim-t-23307"></a>
-- t-006
+- t-003
   global_id: t-23307
   teiginys: "1941 m. rugsėjo 26 d. naciai uždarė Lietuvių aktyvistų frontą."
   pagrindžia:
     - c-26863
 
 <a id="claim-t-24554"></a>
-- t-008
+- t-004
   global_id: t-24554
   teiginys: "LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje)."
   pagrindžia:
     - c-22533
 
 <a id="claim-t-26625"></a>
-- t-010
+- t-005
   global_id: t-26625
   teiginys: "Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo."
   pagrindžia:
     - c-154379
 
 <a id="claim-t-26626"></a>
-- t-011
+- t-006
   global_id: t-26626
   teiginys: "Naciai rugsėjo 26-ąją uždarė Lietuvių aktyvistų frontą, kai dauguma ministrų atsisakė tapti tarėjais."
   pagrindžia:

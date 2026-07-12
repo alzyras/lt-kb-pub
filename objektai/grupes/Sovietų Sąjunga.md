@@ -47,42 +47,42 @@ Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Liet
     - c-22749
 
 <a id="claim-t-74922"></a>
-- t-006
+- t-002
   global_id: t-74922
   teiginys: "1944 m. vasarą sovietų kariuomenė išvadavo Lietuvą iš nacių Vokietijos ir tuo pat metu antrą kartą okupavo Lietuvą."
   pagrindžia:
     - c-72877
 
 <a id="claim-t-74923"></a>
-- t-004
+- t-003
   global_id: t-74923
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą, Latviją ir Estiją, prievarta įvedė tariamą „liaudies demokratiją“ ir įjungė jas į SSRS."
   pagrindžia:
     - c-22752
 
 <a id="claim-t-74924"></a>
-- t-005
+- t-004
   global_id: t-74924
   teiginys: "1940 m. birželio 15 d. į Lietuvą atvykusiam sovietų emisarui Vladimirui Dekanozovui atiteko reali aukščiausioji valdžia."
   pagrindžia:
     - c-22753
 
 <a id="claim-t-74925"></a>
-- t-007
+- t-005
   global_id: t-74925
   teiginys: "1944 m. vasarą sovietų kariuomenė, išstūmusi nacistinę Vokietiją, antrą kartą okupavo Lietuvą, Latviją ir Estiją."
   pagrindžia:
     - c-72877
 
 <a id="claim-t-74926"></a>
-- t-002
+- t-006
   global_id: t-74926
   teiginys: "Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos."
   pagrindžia:
     - c-22750
 
 <a id="claim-t-74927"></a>
-- t-003
+- t-007
   global_id: t-74927
   teiginys: "1940 m. birželio 15 d. Sovietų Sąjunga, realizuodama Molotovo–Ribentropo paktą, okupavo ir aneksavo Lietuvos Respubliką."
   pagrindžia:

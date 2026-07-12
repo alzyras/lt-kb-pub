@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87141"></a>
-- t-002
+- t-001
   global_id: t-87141
   teiginys: "Gediminas aiškino, kad kariauja su krikščionimis ne dėl katalikų tikėjimo naikinimo, o dėl patiriamų skriaudų."
   pagrindžia:
     - c-83121
 
 <a id="claim-t-87142"></a>
-- t-001
+- t-002
   global_id: t-87142
   teiginys: "Gediminas pageidavo savo krašte turėti dvasininkų ir vyskupų, saugoti Bažnyčios teises ir gerbti dvasininkus."
   pagrindžia:

@@ -42,42 +42,42 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 ## Teiginiai
 
 <a id="claim-t-90458"></a>
-- t-008
+- t-001
   global_id: t-90458
   teiginys: "1266 m. iš Afrikos atvykę saracėnai užgrobė Ispaniją, bet vėliau krikščionys juos nugalėjo."
   pagrindžia:
     - c-86293
 
 <a id="claim-t-90459"></a>
-- t-005
+- t-002
   global_id: t-90459
   teiginys: "Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos."
   pagrindžia:
     - c-24142
 
 <a id="claim-t-90460"></a>
-- t-001
+- t-003
   global_id: t-90460
   teiginys: "XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė."
   pagrindžia:
     - c-24141
 
 <a id="claim-t-90461"></a>
-- t-003
+- t-004
   global_id: t-90461
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   pagrindžia:
     - c-24143
 
 <a id="claim-t-90463"></a>
-- t-006
+- t-005
   global_id: t-90463
   teiginys: "1230 m. Aragono karalius Ispanijoje užėmė Maljorkos ir Menorkos salas, anksčiau valdytas saracėnų."
   pagrindžia:
     - c-86294
 
 <a id="claim-t-90464"></a>
-- t-002
+- t-006
   global_id: t-90464
   teiginys: "1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo."
   pagrindžia:

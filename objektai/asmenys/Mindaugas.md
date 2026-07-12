@@ -27,7 +27,7 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
-media_total_count: '1'
+media_total_count: '2'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg'
 media_primary_directness: 'direct'
@@ -35,11 +35,11 @@ media_primary_relation_type: 'manuscript_depiction_of'
 media_primary_json: |-
   {"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1}
 media_direct_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1}]
+  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1},{"mediaId":"m-86fdec3bafe71ebc22164409","title":"Bistrampolis Manor 17.jpg","caption":"Bistrampolio dvare eksponuojamas Mindaugo portretas kartu su kitų Lietuvos valdovų atvaizdais.","originalTitle":"Bistrampolis Manor 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 5 June 2019, 19:31:54","dateStart":null,"dateEnd":null,"width":5846,"height":2339,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABistrampolis_Manor_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Bistrampolis_Manor_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bistrampolis_Manor_17.jpg/1920px-Bistrampolis_Manor_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"bistrampolio-dvaras","label":"Bistrampolio dvaras","facetKind":"tema","confidence":0.95},{"code":"vytauto-ikonografija","label":"Vytauto ikonografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T20:49:11.999280+03:00","reviewedAt":"2026-07-11T20:56:26.902812+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairiajame paveiksle matomas karūnuotas barzdotas valdovas su užrašu „Rex Lithuaniae Mindaugus“ ir datomis 1253–1263.","metadataEvidence":"Kandidato aprašas sieja vaizdą su Bistrampolio dvaru, o automatinė peržiūra nurodo, kad fotografijoje eksponuojami Mindaugo, Vytauto ir Gedimino portretai.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizde aiškiai identifikuotas Mindaugo istorinis portretas, todėl ryšys su target yra tiesioginis.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1}]
+  [{"mediaId":"m-bbe59a74d3ba1b0a210f879b","title":"Mindaugas.jpg","caption":"Mindaugas, Lietuvos karalius, vėlesnėje kronikos iliustracijoje.","originalTitle":"Mindaugas.jpg","creator":"en:Alexander Guagnini (1538-1614)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Taken from [1] , originally from Sarmatiae Europeae descriptio published in 1578","dateDisplay":"1578","dateStart":null,"dateEnd":null,"width":358,"height":538,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMindaugas.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6a/Mindaugas.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"rankraštis","label":"rankraštis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"manuscript_depiction_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:43:50.447072+03:00","reviewedAt":"2026-07-11T02:44:28.970763+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas karūnuotas valdovas ant žirgo, su valdžios atributais ir skydu, ankstyvosios spaudos ar kronikos iliustracijos stiliumi.","metadataEvidence":"Pavadinimas „Mindaugas.jpg“, aprašas nurodo „Mindaugas, King of Lithuania“, kūrėjas Alexander Guagnini, data 1578, ryšys nurodytas kaip medieval chronicles depiction.","confidenceLevel":"high","relationType":"manuscript_depiction_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys aiškiai identifikuoja konkretų target Mindaugą, o vaizdas atitinka istorinį valdovo atvaizdą.","isPrimary":1},{"mediaId":"m-86fdec3bafe71ebc22164409","title":"Bistrampolis Manor 17.jpg","caption":"Bistrampolio dvare eksponuojamas Mindaugo portretas kartu su kitų Lietuvos valdovų atvaizdais.","originalTitle":"Bistrampolis Manor 17.jpg","creator":"Scotch Mist","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"Taken on 5 June 2019, 19:31:54","dateStart":null,"dateEnd":null,"width":5846,"height":2339,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ABistrampolis_Manor_17.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/3/32/Bistrampolis_Manor_17.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bistrampolis_Manor_17.jpg/1920px-Bistrampolis_Manor_17.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"paveikslėlis","label":"paveikslėlis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"bistrampolio-dvaras","label":"Bistrampolio dvaras","facetKind":"tema","confidence":0.95},{"code":"vytauto-ikonografija","label":"Vytauto ikonografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"tema","confidence":0.95},{"code":"fotografija","label":"fotografija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Mindaugas.md","title":"Mindaugas (valdovas, XIII a.)","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T20:49:11.999280+03:00","reviewedAt":"2026-07-11T20:56:26.902812+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Kairiajame paveiksle matomas karūnuotas barzdotas valdovas su užrašu „Rex Lithuaniae Mindaugus“ ir datomis 1253–1263.","metadataEvidence":"Kandidato aprašas sieja vaizdą su Bistrampolio dvaru, o automatinė peržiūra nurodo, kad fotografijoje eksponuojami Mindaugo, Vytauto ir Gedimino portretai.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizde aiškiai identifikuotas Mindaugo istorinis portretas, todėl ryšys su target yra tiesioginis.","isPrimary":0}]
 ---
 # Mindaugas (valdovas, XIII a.)
 
@@ -50,273 +50,273 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 ## Teiginiai
 
 <a id="claim-t-113898"></a>
-- t-058
+- t-001
   global_id: t-113898
   teiginys: "1262 m. Mindaugo kariuomenė, vadovaujama Treniotos, nusiaubė Ordino užnugarį Pavyslyje."
   pagrindžia:
     - c-105096
 
 <a id="claim-t-113899"></a>
-- t-062
+- t-002
   global_id: t-113899
   teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos, kilusios nepasitenkinus jo politika vokiečių atžvilgiu."
   pagrindžia:
     - c-36464
 
 <a id="claim-t-113900"></a>
-- t-033
+- t-003
   global_id: t-113900
   teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams."
   pagrindžia:
     - c-42149
 
 <a id="claim-t-113901"></a>
-- t-030
+- t-004
   global_id: t-113901
   teiginys: "Mindaugas, gelbėdamasis nuo Livonijos Ordino, buvo priverstas taikytis ir priimti katalikų tikėjimą."
   pagrindžia:
     - c-36463
 
 <a id="claim-t-113902"></a>
-- t-052
+- t-005
   global_id: t-113902
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, pasikrikštijęs ir 1253 m. karūnuotas karaliumi."
   pagrindžia:
     - c-105088
 
 <a id="claim-t-113903"></a>
-- t-035
+- t-006
   global_id: t-113903
   teiginys: "Mindaugo krikštas ir karalystė nepanaikino pagoniškų dievų vaidmens Lietuvoje."
   pagrindžia:
     - c-105105
 
 <a id="claim-t-113904"></a>
-- t-049
+- t-007
   global_id: t-113904
   teiginys: "Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą."
   pagrindžia:
     - c-105087
 
 <a id="claim-t-113906"></a>
-- t-042
+- t-008
   global_id: t-113906
   teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
   pagrindžia:
     - c-105091
 
 <a id="claim-t-113907"></a>
-- t-025
+- t-009
   global_id: t-113907
   teiginys: "Mindaugas sukūrė ankstyvosios Lietuvos valstybę, kuri suteikė galimybę išlikti lietuvių tautai."
   pagrindžia:
     - c-105081
 
 <a id="claim-t-113908"></a>
-- t-039
+- t-010
   global_id: t-113908
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   pagrindžia:
     - c-105104
 
 <a id="claim-t-113909"></a>
-- t-038
+- t-011
   global_id: t-113909
   teiginys: "1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės."
   pagrindžia:
     - c-105085
 
 <a id="claim-t-113910"></a>
-- t-023
+- t-012
   global_id: t-113910
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas, krikštijęsis ir 1253 m. karūnuotas karaliumi."
   pagrindžia:
     - c-105088
 
 <a id="claim-t-113911"></a>
-- t-029
+- t-013
   global_id: t-113911
   teiginys: "Pasak eiliuotosios Livonijos kronikos, 1244 m. Mindaugas su 30 000 lietuvių nuniokojo Livonijos Ordino žemes."
   pagrindžia:
     - c-36462
 
 <a id="claim-t-113913"></a>
-- t-045
+- t-014
   global_id: t-113913
   teiginys: "Mindaugas 1219 m. kartu su kitais Lietuvos žemės kunigaikščiais sudarė taikos sutartį su Haliču-Voluine."
   pagrindžia:
     - c-42150
 
 <a id="claim-t-113914"></a>
-- t-055
+- t-015
   global_id: t-113914
   teiginys: "Maukoldas buvo Mindaugo, dar vadinamo Mendogu, tėvas."
   pagrindžia:
     - c-105113
 
 <a id="claim-t-113915"></a>
-- t-027
+- t-016
   global_id: t-113915
   teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą."
   pagrindžia:
     - c-105091
 
 <a id="claim-t-113916"></a>
-- t-041
+- t-017
   global_id: t-113916
   teiginys: "Mindaugas, karūnavęsis per Livonijos ordiną, tapo popiežiaus vasalu ir gavo teisę į tiesiai popiežiui pavaldžią vyskupiją."
   pagrindžia:
     - c-105100
 
 <a id="claim-t-113917"></a>
-- t-050
+- t-018
   global_id: t-113917
   teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito."
   pagrindžia:
     - c-105086
 
 <a id="claim-t-113919"></a>
-- t-034
+- t-019
   global_id: t-113919
   teiginys: "Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi."
   pagrindžia:
     - c-105088
 
 <a id="claim-t-113921"></a>
-- t-026
+- t-020
   global_id: t-113921
   teiginys: "Mindaugas tapo popiežiaus, o ne imperatoriaus vasalu ir gavo teisę į savarankišką, tiesiai popiežiui pavaldžią vyskupiją."
   pagrindžia:
     - c-105100
 
 <a id="claim-t-113922"></a>
-- t-064
+- t-021
   global_id: t-113922
   teiginys: "Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m."
   pagrindžia:
     - c-105092
 
 <a id="claim-t-113923"></a>
-- t-044
+- t-022
   global_id: t-113923
   teiginys: "Žuvus Lietuvos karaliui Mindaugui, nutrūko Lietuvos pagalba 1260 m. sukilusiems prūsams, o Vakarų Europos parama Ordinui sustiprėjo."
   pagrindžia:
     - c-42149
 
 <a id="claim-t-113924"></a>
-- t-051
+- t-023
   global_id: t-113924
   teiginys: "Balińskis Gedimino laiškuose išskyrė užuominą apie karaliaus Mindaugo grįžimą prie pagonybės dėl Kryžiuočių ordino kaltės."
   pagrindžia:
     - c-105102
 
 <a id="claim-t-113925"></a>
-- t-057
+- t-024
   global_id: t-113925
   teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito."
   pagrindžia:
     - c-105086
 
 <a id="claim-t-113926"></a>
-- t-024
+- t-025
   global_id: t-113926
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
   pagrindžia:
     - c-105082
 
 <a id="claim-t-113927"></a>
-- t-040
+- t-026
   global_id: t-113927
   teiginys: "Mindaugas sukūrė Lietuvos valstybę, kuri suteikė lietuvių tautai galimybę išlikti ir vėliau perimti Vakarų civilizaciją."
   pagrindžia:
     - c-105081
 
 <a id="claim-t-113928"></a>
-- t-061
+- t-027
   global_id: t-113928
   teiginys: "Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose."
   pagrindžia:
     - c-105095
 
 <a id="claim-t-113929"></a>
-- t-056
+- t-028
   global_id: t-113929
   teiginys: "Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė."
   pagrindžia:
     - c-105087
 
 <a id="claim-t-113930"></a>
-- t-059
+- t-029
   global_id: t-113930
   teiginys: "Dalis jotvingių žemių įėjo į Mindaugo valstybės sudėtį."
   pagrindžia:
     - c-105090
 
 <a id="claim-t-113931"></a>
-- t-031
+- t-030
   global_id: t-113931
   teiginys: "Mindaugas žuvo 1263 m. dėl giminės nesantaikos."
   pagrindžia:
     - c-36464
 
 <a id="claim-t-113933"></a>
-- t-054
+- t-031
   global_id: t-113933
   teiginys: "Gedimino laikais įsitvirtinus leniniam valdymui, buvo įgyvendintos Mindaugo politinės pastangos."
   pagrindžia:
     - c-105083
 
 <a id="claim-t-113934"></a>
-- t-046
+- t-032
   global_id: t-113934
   teiginys: "Balińskis teigė, kad Gedimino veiklumo dėka buvo įgyvendintos Mindaugo pastangos."
   pagrindžia:
     - c-105083
 
 <a id="claim-t-113935"></a>
-- t-060
+- t-033
   global_id: t-113935
   teiginys: "1259 m. Mindaugo dokumente išvardytos Dainavos, arba Jotvingijos, terrulae."
   pagrindžia:
     - c-105097
 
 <a id="claim-t-113936"></a>
-- t-047
+- t-034
   global_id: t-113936
   teiginys: "Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas."
   pagrindžia:
     - c-105098
 
 <a id="claim-t-113926"></a>
-- t-024
+- t-035
   global_id: t-113926
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino „aukščiausiuoju karaliumi“."
   pagrindžia:
     - c-105082
 
 <a id="claim-t-183560"></a>
-- t-066
+- t-036
   global_id: t-183560
   teiginys: "Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą."
   pagrindžia:
     - c-166953
 
 <a id="claim-t-184787"></a>
-- t-067
+- t-037
   global_id: t-184787
   teiginys: "Mindaugas, atgavęs Žemaitiją ir Kuršą bei nusiaubęs Sembą, sukurstė Prūsijos žmones atsimesti nuo kryžiuočių."
   pagrindžia:
     - c-168148
 
 <a id="claim-t-184788"></a>
-- t-068
+- t-038
   global_id: t-184788
   teiginys: "Mindaugas, susilaukęs rusų paramos, slaptai ir netikėtai įsibrovė į Mazoviją."
   pagrindžia:
     - c-168149
 
 <a id="claim-t-184789"></a>
-- t-069
+- t-039
   global_id: t-184789
   teiginys: "Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų."
   pagrindžia:
@@ -337,42 +337,42 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - c-171473
 
 <a id="claim-t-190921"></a>
-- t-070
+- t-042
   global_id: t-190921
   teiginys: "Narbutas aiškesnės Lietuvos istorijos pradžią siejo su Mindaugu ir laikotarpiu nuo 1240 iki 1386 metų."
   pagrindžia:
     - c-173803
 
 <a id="claim-t-193627"></a>
-- t-071
+- t-043
   global_id: t-193627
   teiginys: "Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo) valstybės pakraščiuose, ne lietuvių, o senųjų rusų (arba rusėnų), taip pat žemaičių gyvenamose teritorijose turėjo būti įkurdinti ištikimi žmonės iš Lietuvos."
   pagrindžia:
     - c-176298
 
 <a id="claim-t-193628"></a>
-- t-072
+- t-044
   global_id: t-193628
   teiginys: "O sava valstybė, atėjusi iš Mindaugo, Kęstučio, Algirdo ir Vytauto laikų, buvo jų svajonių, ateities planų garantas, pati didžiausia vertybė."
   pagrindžia:
     - c-176299
 
 <a id="claim-t-193957"></a>
-- t-073
+- t-045
   global_id: t-193957
   teiginys: "Mindaugas, patyręs, jog riteriai, ir vyskupas, ir vi sa Rygos kariauna nori jam |Tautvilai| padėti, pabūgo ir slapta nusiuntė pas Rygos magistrą Andrių 1 5 [pasiun tinius] ir davė jam daug dovanų, ir tuomi jam įsiteikė."
   pagrindžia:
     - c-176582
 
 <a id="claim-t-193958"></a>
-- t-074
+- t-046
   global_id: t-193958
   teiginys: "Mindaugas kunigaikščiavo Lietuvos žemėje ir ėmė žudyti savo brolius ir savo giminaičius, o kitus išvarė iš krašto, ir ėmė pats vienas kunigaikščiauti visoje Lietuvos žemėje, ir ėmė labai didžiuotis, girtis didžia šlove bei didybe, ir nepakentė nė vieno, kuris būtų galėjęs jam paprieštarauti."
   pagrindžia:
     - c-176583
 
 <a id="claim-t-194233"></a>
-- t-075
+- t-047
   global_id: t-194233
   teiginys: "Mažai težinoma mums patiems, o Europai visai negirdė ta, istorija, garsi riterių žygiais ir išmintingiausia Mindaugo, Ge dimino, Algirdo, Kęstučio, Jogailos ir Vytauto politika, istorija menkame plote išsitenkančios Tautos, kuri pati viena, savosios pagonybės."
   pagrindžia:

@@ -41,14 +41,14 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 ## Teiginiai
 
 <a id="claim-t-51874"></a>
-- t-002
+- t-001
   global_id: t-51874
   teiginys: "1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   pagrindžia:
     - c-37708
 
 <a id="claim-t-51876"></a>
-- t-007
+- t-002
   global_id: t-51876
   teiginys: "1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   pagrindžia:
@@ -62,21 +62,21 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     - c-37709
 
 <a id="claim-t-51878"></a>
-- t-008
+- t-004
   global_id: t-51878
   teiginys: "1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi."
   pagrindžia:
     - c-37709
 
 <a id="claim-t-51879"></a>
-- t-004
+- t-005
   global_id: t-51879
   teiginys: "1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio."
   pagrindžia:
     - c-37710
 
 <a id="claim-t-51880"></a>
-- t-001
+- t-006
   global_id: t-51880
   teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
   pagrindžia:

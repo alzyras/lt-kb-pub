@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - tauta
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,7 +31,7 @@ Dusburgietis teigia, kad ragindamas juos į kovą, jis sakė (1 Mak 3. 58—59):
 ## Teiginiai
 
 <a id="claim-t-60998"></a>
-- t-002
+- t-001
   global_id: t-60998
   teiginys: "Judas Makabėjus, su saujele savųjų stovėdamas prieš didelę kariuomenę, drąsino juos nebijoti priešų daugybės."
   pagrindžia:

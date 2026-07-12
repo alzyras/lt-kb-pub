@@ -55,14 +55,14 @@ Lenkijos-Lietuvos valstybė neteko nepriklausomybės ir priklausė trims imperij
 ## Teiginiai
 
 <a id="claim-t-187973"></a>
-- t-004
+- t-001
   global_id: t-187973
   teiginys: "Po trečiojo padalijimo Lenkijos-Lietuvos valstybės teritorijos priklausė Rusijos, Prūsijos ir Austrijos imperijoms."
   pagrindžia:
     - c-170973
 
 <a id="claim-t-187974"></a>
-- t-003
+- t-002
   global_id: t-187974
   teiginys: "Po trečiojo padalijimo 1795 m. Lenkijos-Lietuvos valstybė visiškai neteko nepriklausomybės."
   pagrindžia:

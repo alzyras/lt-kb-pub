@@ -39,14 +39,14 @@ Vilniaus-Radomo susitarimas (1401 m.): po ilgų derybų, 1401 m. buvo pa- siekta
     - c-67428
 
 <a id="claim-t-67578"></a>
-- t-003
+- t-002
   global_id: t-67578
   teiginys: "Vilniaus-Radomo susitarimu Vytautas pripažintas tikruoju valdovu, bet po jo mirties Lietuva turėjo grįžti Jogailai ir jo įpėdiniams."
   pagrindžia:
     - c-67429
 
 <a id="claim-t-67579"></a>
-- t-002
+- t-003
   global_id: t-67579
   teiginys: "Vilniaus-Radomo susitarimas taip vadinamas dėl Vilniuje ir Radome surašytų jį patvirtinusių dokumentų."
   pagrindžia:

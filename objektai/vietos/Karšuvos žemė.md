@@ -38,21 +38,21 @@ Dusburgietis teigia, kad turėdamas kuo tiksliausių žinių apie vieną ir kit�
 ## Teiginiai
 
 <a id="claim-t-90534"></a>
-- t-002
+- t-001
   global_id: t-90534
   teiginys: "Karšuvos žemė buvo pietvakarių Žemaitijoje ir pietuose apie Nemuno bei Mituvos santaką siekė Nemuną."
   pagrindžia:
     - c-86348
 
 <a id="claim-t-90535"></a>
-- t-003
+- t-002
   global_id: t-90535
   teiginys: "Burchardas iš Hornhauzeno patvarkė, kad Karšuvos žemėje ant švento Jurgio kalno būtų pastatyta pilis."
   pagrindžia:
     - c-86350
 
 <a id="claim-t-90536"></a>
-- t-001
+- t-003
   global_id: t-90536
   teiginys: "1259 m. Karšuvos žemėje ant švento Jurgio kalno buvo pastatyta pilis, kurią saugojo Prūsijos ir Livonijos įgula."
   pagrindžia:

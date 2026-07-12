@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-40805"></a>
-- t-002
+- t-001
   global_id: t-40805
   teiginys: "Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a."
   pagrindžia:

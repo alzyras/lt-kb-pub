@@ -54,7 +54,7 @@ A. Šidlauskas minimas kaip XVIII a. pabaigos Lietuvos mokyklų reformos tyrėja
     - c-91657
 
 <a id="claim-t-97148"></a>
-- t-001
+- t-003
   global_id: t-97148
   teiginys: "A. Šidlauskas nagrinėjo mokyklų reformą Lietuvoje XVIII a. pabaigoje."
   pagrindžia:

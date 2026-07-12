@@ -53,7 +53,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
 ## Teiginiai
 
 <a id="claim-t-00084"></a>
-- t-011
+- t-001
   global_id: t-00084
   teiginys: "Z. Ivinskis parašė veikalo dalį apie laikotarpį iki Gediminaičių dinastijos galo."
   pagrindžia:
@@ -67,7 +67,7 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - c-163253
 
 <a id="claim-t-05579"></a>
-- t-004
+- t-003
   global_id: t-05579
   teiginys: "Ivinskis, Z. (Bražėnas) nurodomas kaip tekstų „Lietuvių tautos istorijos periodizacijos metmens“ ir „Lietuvos ir kitų baltų praeitis sovietų aiškinime“ autorius."
   pagrindžia:
@@ -75,28 +75,28 @@ Zenonas Ivinskis minimas kaip istorikas ir autorius. Viename šaltinyje jam pris
     - c-163250
 
 <a id="claim-t-05580"></a>
-- t-005
+- t-004
   global_id: t-05580
   teiginys: "Z. Ivinskis siejamas su vokišku straipsniu „Die baltische Frage im 17. Jahrhundert“."
   pagrindžia:
     - c-163253
 
 <a id="claim-t-05581"></a>
-- t-006
+- t-005
   global_id: t-05581
   teiginys: "Zenonas Ivinskis Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu."
   pagrindžia:
     - c-163247
 
 <a id="claim-t-12267"></a>
-- t-009
+- t-006
   global_id: t-12267
   teiginys: "Įžangoje nurodoma, kad jaunieji istorikai į pasitarimą dėl knygos buvo susirinkę Z. Ivinskio pakviesti."
   pagrindžia:
     - c-163251
 
 <a id="claim-t-179567"></a>
-- t-011
+- t-007
   global_id: t-179567
   teiginys: "Z. Ivinskis 4000 lietuvių pajėgas Kurše aiškino kaip jungtines žemaičių ir karaliaus Mindaugo pajėgas prieš Ordiną."
   pagrindžia:

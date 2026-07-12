@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62906"></a>
-- t-002
+- t-001
   global_id: t-62906
   teiginys: "Netrukus po Ragainės pastatymo brolis Meinhardas prie Nemuno pastatė Skalvių pilį atsivertusiems skalviams gyventi."
   pagrindžia:
     - c-63771
 
 <a id="claim-t-62907"></a>
-- t-001
+- t-002
   global_id: t-62907
   teiginys: "1289 m. brolis Meinhardas Nemuno pakrantėje, skalvių žemėje, pastatė Landeshutės pilį, vėliau vadintą Ragaine."
   pagrindžia:

@@ -46,21 +46,21 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
 ## Teiginiai
 
 <a id="claim-t-89286"></a>
-- t-002
+- t-001
   global_id: t-89286
   teiginys: "1307 m. Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo įsikūrusių šioje žemėje, procesas."
   pagrindžia:
     - c-85276
 
 <a id="claim-t-89287"></a>
-- t-003
+- t-002
   global_id: t-89287
   teiginys: "Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime."
   pagrindžia:
     - c-85273
 
 <a id="claim-t-89288"></a>
-- t-005
+- t-003
   global_id: t-89288
   teiginys: "Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V."
   pagrindžia:
@@ -74,7 +74,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
     - c-85272
 
 <a id="claim-t-89290"></a>
-- t-001
+- t-005
   global_id: t-89290
   teiginys: "Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas."
   pagrindžia:

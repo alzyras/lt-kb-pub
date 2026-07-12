@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66976"></a>
-- t-003
+- t-001
   global_id: t-66976
   teiginys: "1401 m. po ilgų derybų pasiektą Vilniaus-Radomo susitarimą atskirais dokumentais patvirtino Vytautas, Jogaila, Lietuvos ir Lenkijos bajorai."
   pagrindžia:

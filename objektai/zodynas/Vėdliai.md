@@ -36,7 +36,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
 ## Teiginiai
 
 <a id="claim-t-07657"></a>
-- t-002
+- t-001
   global_id: t-07657
   teiginys: "`Vėdliai` šiame tekste reiškia jaunojo vestuvių palydą."
   pagrindžia:

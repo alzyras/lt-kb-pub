@@ -11,6 +11,7 @@ date_end: '1709'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - laidotuvės
   - paprotys
 amziai:
   - 'XVIII'

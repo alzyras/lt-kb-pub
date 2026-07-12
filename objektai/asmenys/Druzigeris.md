@@ -32,14 +32,14 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
 ## Teiginiai
 
 <a id="claim-t-60010"></a>
-- t-002
+- t-001
   global_id: t-60010
   teiginys: "Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės."
   pagrindžia:
     - c-60644
 
 <a id="claim-t-60012"></a>
-- t-003
+- t-002
   global_id: t-60012
   teiginys: "Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje."
   pagrindžia:

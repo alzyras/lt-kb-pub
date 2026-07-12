@@ -46,7 +46,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
     - c-166884
 
 <a id="claim-t-20835"></a>
-- t-001
+- t-002
   global_id: t-20835
   teiginys: "Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
   pagrindžia:

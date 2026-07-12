@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87436"></a>
-- t-002
+- t-001
   global_id: t-87436
   teiginys: "Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą."
   pagrindžia:
     - c-83417
 
 <a id="claim-t-87437"></a>
-- t-001
+- t-002
   global_id: t-87437
   teiginys: "Kazimieras IV 1440 metais suteikė Vilniaus miestiečiams privilegiją laisvai prekiauti Lietuvos valstybėje be muito."
   pagrindžia:

@@ -30,14 +30,14 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
 ## Teiginiai
 
 <a id="claim-t-60173"></a>
-- t-002
+- t-001
   global_id: t-60173
   teiginys: "Miligedas nukovė savo iššaukėją, paspruko į mišką ir slaptais keliais sugrįžo į Bartenšteino pilį."
   pagrindžia:
     - c-60805
 
 <a id="claim-t-60174"></a>
-- t-001
+- t-002
   global_id: t-60174
   teiginys: "Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai."
   pagrindžia:

@@ -30,14 +30,14 @@ Dusburgietis teigia, kad apie Šnikenbergo pilies pastatymą Tą lauką, kur sto
 ## Teiginiai
 
 <a id="claim-t-58662"></a>
-- t-002
+- t-001
   global_id: t-58662
   teiginys: "Šnikenbergo pilis buvo į pietryčius nuo Balgos, tarp Balgos ir Parteinių bei Skrando kalno prūsų įtvirtinimų."
   pagrindžia:
     - c-59294
 
 <a id="claim-t-58663"></a>
-- t-001
+- t-002
   global_id: t-58663
   teiginys: "Broliai ant kalvos prie tilto į Baigos pilį pastatė Šnikenbergo pilį ir įkurdino joje brolių bei karingų vyrų."
   pagrindžia:

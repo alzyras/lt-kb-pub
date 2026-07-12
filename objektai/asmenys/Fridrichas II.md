@@ -41,28 +41,28 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
 ## Teiginiai
 
 <a id="claim-t-59857"></a>
-- t-002
+- t-001
   global_id: t-59857
   teiginys: "Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį."
   pagrindžia:
     - c-60489
 
 <a id="claim-t-59858"></a>
-- t-001
+- t-002
   global_id: t-59858
   teiginys: "M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę."
   pagrindžia:
     - c-60490
 
 <a id="claim-t-59859"></a>
-- t-007
+- t-003
   global_id: t-59859
   teiginys: "1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką."
   pagrindžia:
     - c-60492
 
 <a id="claim-t-59860"></a>
-- t-003
+- t-004
   global_id: t-59860
   teiginys: "Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui."
   pagrindžia:
@@ -76,14 +76,14 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
     - c-60495
 
 <a id="claim-t-59862"></a>
-- t-004
+- t-006
   global_id: t-59862
   teiginys: "Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo."
   pagrindžia:
     - c-60493
 
 <a id="claim-t-59863"></a>
-- t-006
+- t-007
   global_id: t-59863
   teiginys: "Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę."
   pagrindžia:

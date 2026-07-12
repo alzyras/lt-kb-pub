@@ -10,6 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 amziai:
   - 'D'
 periodo_grupes: []

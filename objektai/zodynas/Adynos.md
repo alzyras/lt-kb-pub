@@ -37,25 +37,29 @@ Vartojamos formos: `adynas`, `sambrėškis`, `brėkšta`, `santėmis`, `sutemo`,
 ## Teiginiai
 
 <a id="claim-t-07721"></a>
-- t-003
+- t-001
   global_id: t-07721
   teiginys: "Adynos šiame tekste reiškia 24 dienos ir nakties valandas."
   pagrindžia:
     - c-09645
 
 <a id="claim-t-07722"></a>
-- t-004
+- t-002
   global_id: t-07722
   teiginys: "Adynos turėjo konkrečius vardus, tarp jų sambrėškį, vakarą, naktovidą, pietus ir saulėlydį."
   pagrindžia:
     - c-09645
 
 <a id="claim-t-194681"></a>
-- t-005
+- t-003
   global_id: t-194681
   teiginys: "Brėkšta (Brekszta) Tamsumų deivė."
   pagrindžia:
     - c-177078
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195303|Terba]]: Šienapjūtėje terbos vartojamos maistui vežti į pievas.
+- susijęs iš [[objektai/daiktai/Virvė.md#claim-t-195311|Virvė]]: Virvė minima tiek lauko darbuose, tiek buitinio pokšto pasakojime.
+- susijęs iš [[objektai/daiktai/Ąsotis.md#claim-t-195307|Ąsotis]]: Šienapjūtėje ąsočiai vartojami maistui ir gėrimui vežti į pievas.
 - susijęs iš [[objektai/paprociai/Senovės prūsų vaišingumas ir švelnūs papročiai.md#claim-t-192093|Senovės prūsų vaišingumas ir švelnūs papročiai]]: Narbutas Varmijos gyventojus vaizduoja kaip laikiusiusis švelnių papročių, labiausiai civilizuotus ir mažiausiai karingus.
 - susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
 - susijęs iš [[objektai/zodynas/Fajetono katastrofa.md#claim-t-192285|Fajetono katastrofa]]: Narbutas Fajetono katastrofą laiko galimu prisiminimu apie nedidelės planetos arba mažesnio už Mėnulį palydovo kritimą.

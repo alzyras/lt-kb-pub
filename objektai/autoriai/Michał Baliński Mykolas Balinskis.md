@@ -12,7 +12,7 @@ tags:
   - autorius
   - karalius
   - kunigaikštis
-  - vyskupas
+  - redaktorius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'
@@ -37,84 +37,84 @@ Balinskio asmenybė yra neblogai žinoma, tačiau ji niekada nebuvo laikoma ypat
 ## Teiginiai
 
 <a id="claim-t-182787"></a>
-- t-007
+- t-001
   global_id: t-182787
   teiginys: "M. Balinskio „Laiškai nuo Kražantės upės kranto“ buvo spausdinti laikraštyje „Gazeta Warszawska“."
   pagrindžia:
     - c-166203
 
 <a id="claim-t-182788"></a>
-- t-010
+- t-002
   global_id: t-182788
   teiginys: "Rodyklė apima įvadą ir M. Balinskio veikalo vertimą."
   pagrindžia:
     - c-166197
 
 <a id="claim-t-182789"></a>
-- t-002
+- t-003
   global_id: t-182789
   teiginys: "M. Balinskis paliko nemažai istorinių darbų ir apybraižų, dalis jų liko rankraščiuose."
   pagrindžia:
     - c-166200
 
 <a id="claim-t-182790"></a>
-- t-001
+- t-004
   global_id: t-182790
   teiginys: "M. Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis."
   pagrindžia:
     - c-166204
 
 <a id="claim-t-182791"></a>
-- t-011
+- t-005
   global_id: t-182791
   teiginys: "Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė."
   pagrindžia:
     - c-166194
 
 <a id="claim-t-182792"></a>
-- t-005
+- t-006
   global_id: t-182792
   teiginys: "Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m."
   pagrindžia:
     - c-166195
 
 <a id="claim-t-182793"></a>
-- t-009
+- t-007
   global_id: t-182793
   teiginys: "Mykolas Balinskis parašė „Vilniaus miesto istoriją“, kurios antras tomas apėmė 1430-1586 m. Vilniaus istoriją."
   pagrindžia:
     - c-166199
 
 <a id="claim-t-182794"></a>
-- t-012
+- t-008
   global_id: t-182794
   teiginys: "Mykolas Balinskis Vilnių apibūdino kaip Lietuvos mokslo ir vyriausiosios valdžios centrą."
   pagrindžia:
     - c-166201
 
 <a id="claim-t-182795"></a>
-- t-006
+- t-009
   global_id: t-182795
   teiginys: "M. Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už pagalbą istoriniais dokumentais."
   pagrindžia:
     - c-166198
 
 <a id="claim-t-182796"></a>
-- t-004
+- t-010
   global_id: t-182796
   teiginys: "1841 m. M. Balinskis tapo vienu iš enciklopedinio leidinio Biblioteka Warszawska steigėjų."
   pagrindžia:
     - c-166202
 
 <a id="claim-t-182797"></a>
-- t-003
+- t-011
   global_id: t-182797
   teiginys: "M. Balinskis laiške Joachimui Leleveliui rašė, kad Vilniaus miesto istorijos pirmąjį tomą baigė 1825 metų pradžioje."
   pagrindžia:
     - c-166196
 
 <a id="claim-t-194201"></a>
-- t-013
+- t-012
   global_id: t-194201
   teiginys: "Michał Baliński Mykolas Balinskis po šios pergalės buvo lietuviškai pramintas Dauggalis - galingas, didis."
   pagrindžia:

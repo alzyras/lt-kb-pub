@@ -12,10 +12,10 @@ date_end: '1496'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kunigaikštis
   - paprotys
   - valdovas
-  - vyskupas
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87197"></a>
-- t-002
+- t-001
   global_id: t-87197
   teiginys: "Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena."
   pagrindžia:
     - c-83176
 
 <a id="claim-t-87198"></a>
-- t-001
+- t-002
   global_id: t-87198
   teiginys: "1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį."
   pagrindžia:

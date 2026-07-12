@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - redaktorius
   - tauta
 amziai:
   - 'XIX'

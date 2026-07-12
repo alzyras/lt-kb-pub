@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigaikštis
   - ordinas
-  - pilis
 amziai:
   - 'XIV'
   - 'XV'
@@ -43,28 +43,28 @@ Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yr
 ## Teiginiai
 
 <a id="claim-t-63793"></a>
-- t-002
+- t-001
   global_id: t-63793
   teiginys: "Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas."
   pagrindžia:
     - c-64735
 
 <a id="claim-t-63794"></a>
-- t-001
+- t-002
   global_id: t-63794
   teiginys: "Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
   pagrindžia:
     - c-64734
 
 <a id="claim-t-63795"></a>
-- t-004
+- t-003
   global_id: t-63795
   teiginys: "Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
   pagrindžia:
     - c-36407
 
 <a id="claim-t-63796"></a>
-- t-003
+- t-004
   global_id: t-63796
   teiginys: "Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą."
   pagrindžia:

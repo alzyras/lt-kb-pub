@@ -37,7 +37,7 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
 ## Teiginiai
 
 <a id="claim-t-187328"></a>
-- t-003
+- t-001
   global_id: t-187328
   teiginys: "XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui."
   pagrindžia:
@@ -51,7 +51,7 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
     - c-170357
 
 <a id="claim-t-187330"></a>
-- t-001
+- t-003
   global_id: t-187330
   teiginys: "Smotričius yra sena Podolės gyvenvietė, minima jau XII a."
   pagrindžia:

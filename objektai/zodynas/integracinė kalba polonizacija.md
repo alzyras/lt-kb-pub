@@ -32,14 +32,14 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 ## Teiginiai
 
 <a id="claim-t-22165"></a>
-- t-002
+- t-001
   global_id: t-22165
   teiginys: "Lenkų kalbai Seime buvo suteiktas oficialios raštinių kalbos statusas vietoje anksčiau vartotos rusėnų raštų kalbos."
   pagrindžia:
     - c-24852
 
 <a id="claim-t-22166"></a>
-- t-001
+- t-002
   global_id: t-22166
   teiginys: "Lenkų kalba LDK bajorijai tapo integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
   pagrindžia:

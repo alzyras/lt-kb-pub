@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - sutartis
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -37,14 +38,14 @@ Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimą, paliekant istorinę Li
 ## Teiginiai
 
 <a id="claim-t-21001"></a>
-- t-002
+- t-001
   global_id: t-21001
   teiginys: "Ambasadorių konferencija suprato Lietuvos notą kaip pageidavimą Vilnių priskirti Lenkijai ir patvirtino Lenkijos sieną su Rusija."
   pagrindžia:
     - c-23727
 
 <a id="claim-t-21002"></a>
-- t-001
+- t-002
   global_id: t-21002
   teiginys: "Ambasadorių konferencijos 1923 m. kovo 15 d. sprendimu istorinė Lietuvos sostinė Vilnius buvo palikta Lenkijai."
   pagrindžia:

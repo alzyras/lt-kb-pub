@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - šeima
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -43,42 +44,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-184380"></a>
-- t-004
+- t-001
   global_id: t-184380
   teiginys: "Čia atvykęs, jo brolis Žygimantas buvo pakrikštytas."
   pagrindžia:
     - c-167749
 
 <a id="claim-t-184381"></a>
-- t-005
+- t-002
   global_id: t-184381
   teiginys: "Žygimantas kartu su Vytautu ir Švitrigaila nakties tamsoje pabėgo po kautynių tolimose stepėse."
   pagrindžia:
     - c-167750
 
 <a id="claim-t-184905"></a>
-- t-006
+- t-003
   global_id: t-184905
   teiginys: "Karalius Žygimantas pirmas perbrido ir perplaukė upę, be nuostolių pervesdamas visus raitelius."
   pagrindžia:
     - c-168266
 
 <a id="claim-t-184906"></a>
-- t-007
+- t-004
   global_id: t-184906
   teiginys: "Žygimantas, praradęs viltį sudaryti taiką, išsiuntė skitams sutartą atlygį, kad šie sulaikytų priešą jo žemėje."
   pagrindžia:
     - c-168267
 
 <a id="claim-t-184907"></a>
-- t-008
+- t-005
   global_id: t-184907
   teiginys: "Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių."
   pagrindžia:
     - c-168268
 
 <a id="claim-t-184908"></a>
-- t-009
+- t-006
   global_id: t-184908
   teiginys: "Žygimantas paprašė leisti į Maskvą grįžti pirkliams ir žygūnams, sulaikytiems po karališkųjų teisėjų suėmimo."
   pagrindžia:
@@ -99,21 +100,21 @@ media_all_json: |-
     - c-171545
 
 <a id="claim-t-193416"></a>
-- t-010
+- t-009
   global_id: t-193416
   teiginys: "Žygimantas davė pradžią garsiai šeimai, pelniusiai šlovę taikos darbais bei karo žygiais ir aukščiausiomis pareigybėmis."
   pagrindžia:
     - c-176138
 
 <a id="claim-t-194023"></a>
-- t-011
+- t-010
   global_id: t-194023
   teiginys: "Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris taus gimimo tūkstantis keturi šimtai devyniasdešimt šeštaisiais didysis kunigaikštis Aleksandras išvyko į Brastą \ o karalius Olbrachtas su jų broliu, karalai čiu Zigmantu — į Liubliną 5 ."
   pagrindžia:
     - c-176648
 
 <a id="claim-t-194249"></a>
-- t-012
+- t-011
   global_id: t-194249
   teiginys: "Trečia, kad, išskyrus laikiną sėkmę valdant Žygimantui, nepaisant visų privilegijų, šis luomas niekados neįgijo nei dide lių turtų, nei ypatingo svorio."
   pagrindžia:

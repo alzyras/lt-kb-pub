@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87253"></a>
-- t-002
+- t-001
   global_id: t-87253
   teiginys: "Taikos sutarties tarpininkais minėti arkivyskupas, Rygos kapitula, Eželio ir Dorpato vyskupai, Vokiečių ordinas ir Rygos miestas."
   pagrindžia:
     - c-83233
 
 <a id="claim-t-87254"></a>
-- t-001
+- t-002
   global_id: t-87254
   teiginys: "Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką."
   pagrindžia:

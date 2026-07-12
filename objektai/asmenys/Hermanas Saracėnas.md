@@ -32,49 +32,49 @@ Dusburgietis teigia, kad apie vieno Karaliaučiaus brolio šlovingą gyvenimą T
 ## Teiginiai
 
 <a id="claim-t-59920"></a>
-- t-002
+- t-001
   global_id: t-59920
   teiginys: "Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams."
   pagrindžia:
     - c-60556
 
 <a id="claim-t-59921"></a>
-- t-004
+- t-002
   global_id: t-59921
   teiginys: "Hermanas Saracėnas iš Karaliaučiaus pilies rengėsi vykti į karą Kurše, kai, pasak pasakojimo, jam pasirodė Mergelė Marija."
   pagrindžia:
     - c-60555
 
 <a id="claim-t-59922"></a>
-- t-005
+- t-003
   global_id: t-59922
   teiginys: "Kronikos pasakojime Hermano Saracėno siela minima tarp dviejų už kitas pranašesnių vėlių."
   pagrindžia:
     - c-60552
 
 <a id="claim-t-59923"></a>
-- t-003
+- t-004
   global_id: t-59923
   teiginys: "Pasakojime Mergelė Marija ne kartą slapta ir draugiškai kalbėjosi su Hermanu Saracėnu, jau priimtu į Teutonų ordiną."
   pagrindžia:
     - c-60554
 
 <a id="claim-t-59924"></a>
-- t-001
+- t-005
   global_id: t-59924
   teiginys: "Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje."
   pagrindžia:
     - c-60553
 
 <a id="claim-t-59924"></a>
-- t-001
+- t-006
   global_id: t-59924
   teiginys: "Hermanas Saracėnas gyveno Karaliaučiaus pilies brolių konvente ir buvo gimęs Švabijoje."
   pagrindžia:
     - c-60553
 
 <a id="claim-t-59920"></a>
-- t-002
+- t-007
   global_id: t-59920
   teiginys: "Hermanas Saracėnas per ietininkų turnyro susidūrimą nubloškė varžovą ant žemės, o laimėtą žirgą ir ginklus atidavė vargšams."
   pagrindžia:

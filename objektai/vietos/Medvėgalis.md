@@ -41,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-98613"></a>
-- t-004
+- t-001
   global_id: t-98613
   teiginys: "Medvėgalio pilis stovėjo centrinėje Žemaitijoje, į šiaurės vakarus nuo Kaltinėnų, Medvėgalio kalno papėdėje."
   pagrindžia:
     - c-92844
 
 <a id="claim-t-98614"></a>
-- t-005
+- t-002
   global_id: t-98614
   teiginys: "1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui."
   pagrindžia:
@@ -62,14 +62,14 @@ media_all_json: |-
     - c-92845
 
 <a id="claim-t-98616"></a>
-- t-001
+- t-004
   global_id: t-98616
   teiginys: "Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos."
   pagrindžia:
     - c-92842
 
 <a id="claim-t-98617"></a>
-- t-002
+- t-005
   global_id: t-98617
   teiginys: "Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti."
   pagrindžia:
@@ -83,7 +83,7 @@ media_all_json: |-
     - c-92842
 
 <a id="claim-t-98614"></a>
-- t-005
+- t-007
   global_id: t-98614
   teiginys: "1329 m. brolis Verneris su kariuomene apsupo Medvėgalio pilį, kuri po ilgų kovų pasidavė krikščionių tikėjimui."
   pagrindžia:

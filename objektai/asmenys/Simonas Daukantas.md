@@ -22,18 +22,19 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'LDK'
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '2'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASimonas_Daukantas.png'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-f07910979f2a5a1463aa3cc2","title":"Simonas Daukantas.png","caption":"Simono Daukanto portretas, priskiriamas Jonui Zenkevičiui, apie 1850 m.","originalTitle":"Simonas Daukantas.png","creator":"Jonas Zenkevičius / Jan Zienkiewicz (1825-1888)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Institute of Lithuanian Literature and Folklore","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":600,"height":714,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASimonas_Daukantas.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Simonas Daukantas.md","title":"Simonas Daukantas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:15:54.724379+03:00","reviewedAt":"2026-07-11T21:16:30.061056+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi ovalinis tapytas vyro portretas, atitinkantis XIX a. istorinį portretą.","metadataEvidence":"Pavadinimas yra „Simonas Daukantas.png“, aprašas nurodo, kad tai vienintelis žinomas amžininko sukurtas Simono Daukanto portretas, pateiktos jo datos 1793-1864.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja portretuojamą asmenį kaip Simoną Daukantą, o vaizdas yra jo istorinis portretas.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-f07910979f2a5a1463aa3cc2","title":"Simonas Daukantas.png","caption":"Simono Daukanto portretas, priskiriamas Jonui Zenkevičiui, apie 1850 m.","originalTitle":"Simonas Daukantas.png","creator":"Jonas Zenkevičius / Jan Zienkiewicz (1825-1888)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Institute of Lithuanian Literature and Folklore","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":600,"height":714,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASimonas_Daukantas.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Simonas Daukantas.md","title":"Simonas Daukantas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:15:54.724379+03:00","reviewedAt":"2026-07-11T21:16:30.061056+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi ovalinis tapytas vyro portretas, atitinkantis XIX a. istorinį portretą.","metadataEvidence":"Pavadinimas yra „Simonas Daukantas.png“, aprašas nurodo, kad tai vienintelis žinomas amžininko sukurtas Simono Daukanto portretas, pateiktos jo datos 1793-1864.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja portretuojamą asmenį kaip Simoną Daukantą, o vaizdas yra jo istorinis portretas.","isPrimary":1},{"mediaId":"m-e7e7d1645055ed3d60fcc9fe","title":"Vilniaus Šv Jonų bažnyčia. Paminklas Simonui Daukantui 2.jpg","caption":"Paminklas Simonui Daukantui Vilniaus Šv. Jonų bažnyčioje.","originalTitle":"Vilniaus Šv Jonų bažnyčia. Paminklas Simonui Daukantui 2.jpg","creator":"Stela","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-08-20","dateStart":null,"dateEnd":null,"width":749,"height":999,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/25/Vilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/25/Vilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Simonas Daukantas.md","title":"Simonas Daukantas","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:15:50.700026+03:00","reviewedAt":"2026-07-11T21:16:30.056913+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi skulptūrinis sėdinčio vyro atvaizdas su knygomis; apačioje aiškiai įrašyta „SIMONAS DAUKANTAS“ ir datos.","metadataEvidence":"Pavadinimas nurodo „Paminklas Simonui Daukantui“, aprašas teigia, kad tai memorialinė lenta Simonui Daukantui Šv. Jonų bažnyčioje Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target - Simoną Daukantą - kaip memorialinę skulptūrą.","isPrimary":0}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-f07910979f2a5a1463aa3cc2","title":"Simonas Daukantas.png","caption":"Simono Daukanto portretas, priskiriamas Jonui Zenkevičiui, apie 1850 m.","originalTitle":"Simonas Daukantas.png","creator":"Jonas Zenkevičius / Jan Zienkiewicz (1825-1888)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Institute of Lithuanian Literature and Folklore","dateDisplay":"circa 1850 date QS:P,+1850-00-00T00:00:00Z/9,P1480,Q5727902","dateStart":null,"dateEnd":null,"width":600,"height":714,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASimonas_Daukantas.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a5/Simonas_Daukantas.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"tapyba","label":"tapyba","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Simonas Daukantas.md","title":"Simonas Daukantas","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:15:54.724379+03:00","reviewedAt":"2026-07-11T21:16:30.061056+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi ovalinis tapytas vyro portretas, atitinkantis XIX a. istorinį portretą.","metadataEvidence":"Pavadinimas yra „Simonas Daukantas.png“, aprašas nurodo, kad tai vienintelis žinomas amžininko sukurtas Simono Daukanto portretas, pateiktos jo datos 1793-1864.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Metaduomenys tiesiogiai identifikuoja portretuojamą asmenį kaip Simoną Daukantą, o vaizdas yra jo istorinis portretas.","isPrimary":1},{"mediaId":"m-e7e7d1645055ed3d60fcc9fe","title":"Vilniaus Šv Jonų bažnyčia. Paminklas Simonui Daukantui 2.jpg","caption":"Paminklas Simonui Daukantui Vilniaus Šv. Jonų bažnyčioje.","originalTitle":"Vilniaus Šv Jonų bažnyčia. Paminklas Simonui Daukantui 2.jpg","creator":"Stela","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2021-08-20","dateStart":null,"dateEnd":null,"width":749,"height":999,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/25/Vilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/25/Vilniaus_%C5%A0v_Jon%C5%B3_ba%C5%BEny%C4%8Dia._Paminklas_Simonui_Daukantui_2.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"skulptūra","label":"skulptūra","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"bareljefas","label":"bareljefas","facetKind":"tema","confidence":0.95},{"code":"paminklas","label":"paminklas","facetKind":"tema","confidence":0.95},{"code":"skulptūra","label":"skulptūra","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Simonas Daukantas.md","title":"Simonas Daukantas","itemType":"asmuo","relationType":"statue_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:15:50.700026+03:00","reviewedAt":"2026-07-11T21:16:30.056913+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi skulptūrinis sėdinčio vyro atvaizdas su knygomis; apačioje aiškiai įrašyta „SIMONAS DAUKANTAS“ ir datos.","metadataEvidence":"Pavadinimas nurodo „Paminklas Simonui Daukantui“, aprašas teigia, kad tai memorialinė lenta Simonui Daukantui Šv. Jonų bažnyčioje Vilniuje.","confidenceLevel":"high","relationType":"statue_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys aiškiai identifikuoja konkretų target - Simoną Daukantą - kaip memorialinę skulptūrą.","isPrimary":0}]
 ---
 # Simonas Daukantas
 
@@ -44,77 +45,77 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ## Teiginiai
 
 <a id="claim-t-105707"></a>
-- t-003
+- t-001
   global_id: t-105707
   teiginys: "Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
   pagrindžia:
     - c-21971
 
 <a id="claim-t-105708"></a>
-- t-004
+- t-002
   global_id: t-105708
   teiginys: "Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“."
   pagrindžia:
     - c-98418
 
 <a id="claim-t-105709"></a>
-- t-005
+- t-003
   global_id: t-105709
   teiginys: "P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento."
   pagrindžia:
     - c-98412
 
 <a id="claim-t-105710"></a>
-- t-002
+- t-004
   global_id: t-105710
   teiginys: "Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją."
   pagrindžia:
     - c-98416
 
 <a id="claim-t-105711"></a>
-- t-006
+- t-005
   global_id: t-105711
   teiginys: "Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus."
   pagrindžia:
     - c-98413
 
 <a id="claim-t-105712"></a>
-- t-008
+- t-006
   global_id: t-105712
   teiginys: "Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis."
   pagrindžia:
     - c-98412
 
 <a id="claim-t-105713"></a>
-- t-001
+- t-007
   global_id: t-105713
   teiginys: "Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį."
   pagrindžia:
     - c-98414
 
 <a id="claim-t-105707"></a>
-- t-003
+- t-008
   global_id: t-105707
   teiginys: "Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi."
   pagrindžia:
     - c-21971
 
 <a id="claim-t-188607"></a>
-- t-008
+- t-009
   global_id: t-188607
   teiginys: "Manoma, kad Simonas Daukantas tuo metu jau buvo parašęs „Darbus senųjų lietuvių ir žemaičių“."
   pagrindžia:
     - c-171496
 
 <a id="claim-t-188608"></a>
-- t-009
+- t-010
   global_id: t-188608
   teiginys: "Savo „Darbų“ pratarmėje Simonas Daukantas rašė: „<...> aš ne dėl mokytų vyrų ir galvočių, bet dėl tų motinų rašiau“."
   pagrindžia:
     - c-171497
 
 <a id="claim-t-193630"></a>
-- t-010
+- t-011
   global_id: t-193630
   teiginys: "Istorikas ir teisininkas Simonas Daukantas (1793–1864) 1822 m. parašė pirmąją didelę Lietuvos istoriją lietuvių kalba, ji tarp entuziastų plito nuorašais."
   pagrindžia:

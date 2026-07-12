@@ -8,6 +8,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,7 +31,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
 ## Teiginiai
 
 <a id="claim-t-63883"></a>
-- t-003
+- t-001
   global_id: t-63883
   teiginys: "Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją."
   pagrindžia:

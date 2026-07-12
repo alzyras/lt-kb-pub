@@ -35,14 +35,14 @@ Rhode : RhOP, 172-206 p.; A. Rhode, G.
 ## Teiginiai
 
 <a id="claim-t-30619"></a>
-- t-002
+- t-001
   global_id: t-30619
   teiginys: "G. Rhode 1973 m. paskelbė straipsnį apie polemiką dėl 1410 m. Tanenbergo mūšio."
   pagrindžia:
     - c-32930
 
 <a id="claim-t-30620"></a>
-- t-001
+- t-002
   global_id: t-30620
   teiginys: "G. Rhode plačiai rašė apie kovas, aptartas veikalo „RhOP“ 172-206 puslapiuose."
   pagrindžia:

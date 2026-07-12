@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78026"></a>
-- t-003
+- t-001
   global_id: t-78026
   teiginys: "Daukšos lietuviakalbė programa nebuvo įgyvendinta."
   pagrindžia:

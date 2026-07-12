@@ -35,7 +35,7 @@ Patarlė ironiškai sieja drąsą dėti kepurę ant stalo su pabėgimo, pinigų 
 ## Teiginiai
 
 <a id="claim-t-187840"></a>
-- t-002
+- t-001
   global_id: t-187840
   teiginys: "Narbutas posakį „Tas, kuris vežime turi pasikinkęs šešis arklius“ pateikia kaip labai seną patarlę iš XVI a. vietinių dokumentų."
   pagrindžia:

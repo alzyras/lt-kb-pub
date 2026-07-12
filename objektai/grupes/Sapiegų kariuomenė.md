@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - grupe
   - mūšis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,21 +31,21 @@ Sapiegos. Šios Sapiegų kariuomenės dalies gynyba neleido respublikonams organ
 ## Teiginiai
 
 <a id="claim-t-78446"></a>
-- t-003
+- t-001
   global_id: t-78446
   teiginys: "M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su visa likusia kariuomene."
   pagrindžia:
     - c-75724
 
 <a id="claim-t-78447"></a>
-- t-001
+- t-002
   global_id: t-78447
   teiginys: "M. P. Sapiega pasidavė respublikonams kartu su visa likusia Sapiegų kariuomene."
   pagrindžia:
     - c-75725
 
 <a id="claim-t-78448"></a>
-- t-002
+- t-003
   global_id: t-78448
   teiginys: "Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus."
   pagrindžia:

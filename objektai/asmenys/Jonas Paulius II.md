@@ -40,21 +40,21 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
 ## Teiginiai
 
 <a id="claim-t-71296"></a>
-- t-002
+- t-001
   global_id: t-71296
   teiginys: "Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
   pagrindžia:
     - c-21751
 
 <a id="claim-t-71297"></a>
-- t-001
+- t-002
   global_id: t-71297
   teiginys: "Popiežius Jonas Paulius II 1993 m. aplankė Kryžių kalną, pramintą lietuviška Golgota."
   pagrindžia:
     - c-21750
 
 <a id="claim-t-71296"></a>
-- t-002
+- t-003
   global_id: t-71296
   teiginys: "Pirmojo vizito į Lietuvą metu popiežių Joną Paulių II lydėjo Lietuvos Respublikos prezidentas Algirdas Brazauskas ir Vilniaus arkivyskupas metropolitas Audrys Juozas Bačkis."
   pagrindžia:

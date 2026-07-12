@@ -37,14 +37,14 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
 ## Teiginiai
 
 <a id="claim-t-54630"></a>
-- t-002
+- t-001
   global_id: t-54630
   teiginys: "Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus."
   pagrindžia:
     - c-55539
 
 <a id="claim-t-54631"></a>
-- t-001
+- t-002
   global_id: t-54631
   teiginys: "Adamas Ign. Naramowski siejamas su 1726 m. Vilniuje išleistu „Facies rerum Sarmaticarum“."
   pagrindžia:

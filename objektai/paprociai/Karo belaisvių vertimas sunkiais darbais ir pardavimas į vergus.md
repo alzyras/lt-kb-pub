@@ -43,14 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07777"></a>
-- t-004
+- t-001
   global_id: t-07777
   teiginys: "Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus."
   pagrindžia:
     - c-09933
 
 <a id="claim-t-07778"></a>
-- t-003
+- t-002
   global_id: t-07778
   teiginys: "Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties."
   pagrindžia:

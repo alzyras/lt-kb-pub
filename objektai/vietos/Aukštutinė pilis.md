@@ -39,14 +39,14 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     - c-82038
 
 <a id="claim-t-86060"></a>
-- t-003
+- t-002
   global_id: t-86060
   teiginys: "Aukštutinė pilis stovėjo ant Tauro kalno."
   pagrindžia:
     - c-82040
 
 <a id="claim-t-86061"></a>
-- t-002
+- t-003
   global_id: t-86061
   teiginys: "Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio."
   pagrindžia:

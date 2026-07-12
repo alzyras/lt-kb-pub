@@ -48,49 +48,49 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
     - c-159442
 
 <a id="claim-t-175286"></a>
-- t-006
+- t-002
   global_id: t-175286
   teiginys: "Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko."
   pagrindžia:
     - c-159444
 
 <a id="claim-t-175287"></a>
-- t-008
+- t-003
   global_id: t-175287
   teiginys: "Dusburgiečio aprašyme Dobrynės kunigaikštystė minima tarp Prūsijos žemę ribojusių teritorijų."
   pagrindžia:
     - c-159440
 
 <a id="claim-t-175288"></a>
-- t-007
+- t-004
   global_id: t-175288
   teiginys: "Prūsai Dobrynės ordiną galėjo pulti 1224–1225 m."
   pagrindžia:
     - c-159439
 
 <a id="claim-t-175289"></a>
-- t-002
+- t-005
   global_id: t-175289
   teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   pagrindžia:
     - c-159436
 
 <a id="claim-t-175290"></a>
-- t-003
+- t-006
   global_id: t-175290
   teiginys: "Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės."
   pagrindžia:
     - c-37340
 
 <a id="claim-t-175292"></a>
-- t-005
+- t-007
   global_id: t-175292
   teiginys: "Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį."
   pagrindžia:
     - c-159441
 
 <a id="claim-t-175293"></a>
-- t-004
+- t-008
   global_id: t-175293
   teiginys: "Dobrynės pilis davė vardą broliams, kurie vėliau buvo pavadinti Dobrynės broliais."
   pagrindžia:

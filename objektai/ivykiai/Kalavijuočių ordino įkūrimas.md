@@ -62,14 +62,14 @@ Nenurodyta
     - c-66788
 
 <a id="claim-t-66586"></a>
-- t-004
+- t-003
   global_id: t-66586
   teiginys: "Vos įsikūręs Kalavijuočių ordinas pradėjo vaduotis iš vyskupo priklausomybės ir gavo trečdalį užimto krašto."
   pagrindžia:
     - c-66787
 
 <a id="claim-t-66587"></a>
-- t-003
+- t-004
   global_id: t-66587
   teiginys: "Kalavijuočių ordinas turėjo ginti krikščionis, padėti atversti pagonis ir veikti kaip kraštą valdžiusio vyskupo įrankis."
   pagrindžia:

@@ -39,21 +39,21 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
 ## Teiginiai
 
 <a id="claim-t-75691"></a>
-- t-002
+- t-001
   global_id: t-75691
   teiginys: "Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse."
   pagrindžia:
     - c-73407
 
 <a id="claim-t-75692"></a>
-- t-001
+- t-002
   global_id: t-75692
   teiginys: "Antanas Gustaitis nuo 1934 m. vadovavo Lietuvos karo aviacijai, sukonstravo ANBO lėktuvų seriją ir pavadino ją pagal žodžius „Antanas nori būti ore“."
   pagrindžia:
     - c-73408
 
 <a id="claim-t-75691"></a>
-- t-002
+- t-003
   global_id: t-75691
   teiginys: "Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse."
   pagrindžia:

@@ -47,7 +47,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-158256
 
 <a id="claim-t-174023"></a>
-- t-003
+- t-002
   global_id: t-174023
   teiginys: "Rygiečiai Hanzos sąjungoje Liubeke ir Rostoke skundė Vytautą sulaužius sutartį su Polocku."
   pagrindžia:

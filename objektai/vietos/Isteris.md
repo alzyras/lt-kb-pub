@@ -51,28 +51,28 @@ Sujungta, nes šaltinis aiškiai sako `Isteris, arba Dunojus`.
 ## Teiginiai
 
 <a id="claim-t-67995"></a>
-- t-004
+- t-001
   global_id: t-67995
   teiginys: "Isteris, arba Dunojus, yra viena iš didžiųjų pietinės įšleities upių."
   pagrindžia:
     - c-10485
 
 <a id="claim-t-194928"></a>
-- t-005
+- t-002
   global_id: t-194928
   teiginys: "Skitų valdos, arba veikiau didžiulis kraštas, po kurį jie klajojo, ribojosi Dono upe, Azovo ir Juodąja jūromis, Dunojumi, nuo Dunojaus iki Dnestro versmių plytinčio mis kalnuotomis dykumomis, paskui beveik ta pačia kryp timi nubrėžta linija iki 52 laipsnių."
   pagrindžia:
     - c-177324
 
 <a id="claim-t-194929"></a>
-- t-006
+- t-003
   global_id: t-194929
   teiginys: "Kitas skitų upes, nepaisant jų pavadinimų sugraikinimo, atpažinti lengviau: Istras, šiandien Dunojus, Tyras, šiandien Dnestras, Hipanis, šiandien Būgas (pastaro sios dvi tekėjo iš klajoklių mizonų gyvenamo krašto), Boristenis, šiandien Dnepras."
   pagrindžia:
     - c-177325
 
 <a id="claim-t-194930"></a>
-- t-007
+- t-004
   global_id: t-194930
   teiginys: "Mirus Aleksandrui Didžiajam, kai ėmė vis labiau silpti Makedo nijos karalystės valdžios galybė, padažnėjo grobikiškų žygių įvairių agresyvių tautų, besiskverbiančių vis toliau į pietus, iki pat Dunojaus, o kai kuriose vietose — į deši niąją jo pakrantę."
   pagrindžia:

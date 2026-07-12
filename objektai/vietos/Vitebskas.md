@@ -54,301 +54,301 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
 ## Teiginiai
 
 <a id="claim-t-181110"></a>
-- t-043
+- t-001
   global_id: t-181110
   teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
   pagrindžia:
     - c-164687
 
 <a id="claim-t-181111"></a>
-- t-020
+- t-002
   global_id: t-181111
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė."
   pagrindžia:
     - c-164682
 
 <a id="claim-t-181110"></a>
-- t-043
+- t-003
   global_id: t-181110
   teiginys: "Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske."
   pagrindžia:
     - c-164687
 
 <a id="claim-t-181113"></a>
-- t-048
+- t-004
   global_id: t-181113
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-164690
 
 <a id="claim-t-181115"></a>
-- t-029
+- t-005
   global_id: t-181115
   teiginys: "Gediminas prie anksčiau lietuvių užvaldytų žemių pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes."
   pagrindžia:
     - c-164696
 
 <a id="claim-t-181116"></a>
-- t-017
+- t-006
   global_id: t-181116
   teiginys: "Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis."
   pagrindžia:
     - c-164708
 
 <a id="claim-t-181117"></a>
-- t-018
+- t-007
   global_id: t-181117
   teiginys: "Po Julijonos Algirdienės mirties Švitrigaila prieš Jogailos valią įsitvirtino Vitebske."
   pagrindžia:
     - c-164694
 
 <a id="claim-t-181118"></a>
-- t-063
+- t-008
   global_id: t-181118
   teiginys: "1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė."
   pagrindžia:
     - c-164682
 
 <a id="claim-t-181119"></a>
-- t-015
+- t-009
   global_id: t-181119
   teiginys: "1382 m. birželio 12 d. Jogailai atvykus iš Vitebsko į Vilnių, Hanulis jam įteikė pilies raktus."
   pagrindžia:
     - c-32547
 
 <a id="claim-t-181120"></a>
-- t-019
+- t-010
   global_id: t-181120
   teiginys: "Su Jogailos žinia, Vytautas kartu su Skirgaila 1392 m. paėmė Vitebską."
   pagrindžia:
     - c-164722
 
 <a id="claim-t-181121"></a>
-- t-042
+- t-011
   global_id: t-181121
   teiginys: "Mykolas Balinskis gimė 1794 m. rugpjūčio 12 d. Terespolyje, netoli Vitebsko."
   pagrindžia:
     - c-164705
 
 <a id="claim-t-181123"></a>
-- t-031
+- t-012
   global_id: t-181123
   teiginys: "Švitrigailos pajėgose buvo rytinių LDK slaviškų žemių, tarp jų Vitebsko, kariai."
   pagrindžia:
     - c-164716
 
 <a id="claim-t-181124"></a>
-- t-022
+- t-013
   global_id: t-181124
   teiginys: "1411 m. pavasarį Vytautas su Jogaila keliavo pro Vitebską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą."
   pagrindžia:
     - c-164703
 
 <a id="claim-t-181125"></a>
-- t-045
+- t-014
   global_id: t-181125
   teiginys: "Po nepavykusio sąmokslo Švitrigaila pabėgo į Polocką ir paėmė į savo valdžią Vitebsko, Smolensko, Kijevo bei kitas sritis."
   pagrindžia:
     - c-164695
 
 <a id="claim-t-181126"></a>
-- t-058
+- t-015
   global_id: t-181126
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą praleisti paskutines audringos senatvės dienas."
   pagrindžia:
     - c-164691
 
 <a id="claim-t-181127"></a>
-- t-047
+- t-016
   global_id: t-181127
   teiginys: "Vitebskas buvo viena iš vietų, kur įkurtos pijarų mokyklos."
   pagrindžia:
     - c-164686
 
 <a id="claim-t-181128"></a>
-- t-064
+- t-017
   global_id: t-181128
   teiginys: "Vytenio ir Gedimino laikais prie Lietuvos prijungta Baltoji Rusia, įskaitant Polocką 1307 m. ir Vitebską 1320 m."
   pagrindžia:
     - c-164685
 
 <a id="claim-t-181129"></a>
-- t-044
+- t-018
   global_id: t-181129
   teiginys: "Algirdas dar Gediminui gyvam esant viešpatavo Vitebske ir Krėvoje."
   pagrindžia:
     - c-164684
 
 <a id="claim-t-181131"></a>
-- t-049
+- t-019
   global_id: t-181131
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Vitebsko sritį."
   pagrindžia:
     - c-164695
 
 <a id="claim-t-181132"></a>
-- t-024
+- t-020
   global_id: t-181132
   teiginys: "Panaikinus Vitebsko kunigaikštiją, jos dvarai ir pajamos pateko į tiesioginę Vytauto valdžią."
   pagrindžia:
     - c-164692
 
 <a id="claim-t-181136"></a>
-- t-032
+- t-021
   global_id: t-181136
   teiginys: "Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   pagrindžia:
     - c-164683
 
 <a id="claim-t-181137"></a>
-- t-016
+- t-022
   global_id: t-181137
   teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
   pagrindžia:
     - c-32548
 
 <a id="claim-t-181138"></a>
-- t-044
+- t-023
   global_id: t-181138
   teiginys: "Iš Rusios miestų, tarp jų Vitebsko, susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-164690
 
 <a id="claim-t-181139"></a>
-- t-056
+- t-024
   global_id: t-181139
   teiginys: "Algirdas, Gediminui dar gyvam esant, viešpatavo Vitebske ir Krėvoje."
   pagrindžia:
     - c-164684
 
 <a id="claim-t-181140"></a>
-- t-045
+- t-025
   global_id: t-181140
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo jį užėmė, o Švitrigailą paėmė į nelaisvę."
   pagrindžia:
     - c-164713
 
 <a id="claim-t-181141"></a>
-- t-030
+- t-026
   global_id: t-181141
   teiginys: "Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske."
   pagrindžia:
     - c-164706
 
 <a id="claim-t-181143"></a>
-- t-052
+- t-027
   global_id: t-181143
   teiginys: "Žygiui į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske, iš kur patraukė į Breslaują."
   pagrindžia:
     - c-164709
 
 <a id="claim-t-181144"></a>
-- t-033
+- t-028
   global_id: t-181144
   teiginys: "1562 m. maskvėnai nusiaubė Vitebsko apylinkes, o lietuviai atsakydami nuniokojo Maskvos žemes Vitebsko vaivadijos pasienyje."
   pagrindžia:
     - c-44028
 
 <a id="claim-t-181145"></a>
-- t-046
+- t-029
   global_id: t-181145
   teiginys: "Švitrigaila Vitebske įsakė Alšėnų kunigaikštį nuo aukšto skardžio įmesti į Dviną."
   pagrindžia:
     - c-164712
 
 <a id="claim-t-181146"></a>
-- t-047
+- t-030
   global_id: t-181146
   teiginys: "Švitrigaila prisiglaudė Vitebske, o vėliau nusigavo į Ukrainą ramybėje praleisti paskutines audringos senatvės dienas."
   pagrindžia:
     - c-164691
 
 <a id="claim-t-181147"></a>
-- t-014
+- t-031
   global_id: t-181147
   teiginys: "Po perversmo Jogailai buvo paliktos jo tėvo žemės: Vitebskas ir Krėvos kunigaikštystė."
   pagrindžia:
     - c-164688
 
 <a id="claim-t-181148"></a>
-- t-054
+- t-032
   global_id: t-181148
   teiginys: "1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   pagrindžia:
     - c-164683
 
 <a id="claim-t-181149"></a>
-- t-053
+- t-033
   global_id: t-181149
   teiginys: "Švitrigailą rėmusiose pajėgose buvo rytinių LDK slaviškų žemių, įskaitant Vitebską, kariai."
   pagrindžia:
     - c-164710
 
 <a id="claim-t-181150"></a>
-- t-046
+- t-034
   global_id: t-181150
   teiginys: "Vitebske atsirado jėzuitų kolegija, įkurta Smolensko vaivados A. Gansiausko fundacija."
   pagrindžia:
     - c-21492
 
 <a id="claim-t-181152"></a>
-- t-013
+- t-035
   global_id: t-181152
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
   pagrindžia:
     - c-32545
 
 <a id="claim-t-181153"></a>
-- t-065
+- t-036
   global_id: t-181153
   teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   pagrindžia:
     - c-164724
 
 <a id="claim-t-181154"></a>
-- t-062
+- t-037
   global_id: t-181154
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Vitebsko, o mūšis baigėsi lietuvių pralaimėjimu."
   pagrindžia:
     - c-164721
 
 <a id="claim-t-181155"></a>
-- t-050
+- t-038
   global_id: t-181155
   teiginys: "Vitebske veikė pijarų mokykla - pilna kolegija arba žemesnioji mokykla."
   pagrindžia:
     - c-164686
 
 <a id="claim-t-181156"></a>
-- t-057
+- t-039
   global_id: t-181156
   teiginys: "Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą."
   pagrindžia:
     - c-164697
 
 <a id="claim-t-184324"></a>
-- t-066
+- t-040
   global_id: t-184324
   teiginys: "Jogailai grįžus iš Vitebsko, Kęstutis organizavo pasipriešinimą, o Vytautas jam tik padėjo."
   pagrindžia:
     - c-167695
 
 <a id="claim-t-185201"></a>
-- t-067
+- t-041
   global_id: t-185201
   teiginys: "Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių."
   pagrindžia:
     - c-168562
 
 <a id="claim-t-185202"></a>
-- t-068
+- t-042
   global_id: t-185202
   teiginys: "Prie Vytauto kariuomenės prisidėjus smolenskiečiams, padidėjusi kariuomenė buvo nuvesta į Vitebską."
   pagrindžia:
     - c-168563
 
 <a id="claim-t-185203"></a>
-- t-069
+- t-043
   global_id: t-185203
   teiginys: "Žiemos viduryje Kazimieras aplankė Baltarusiją ir Polocke, Vitebske bei Smolenske tvarkė taikos ir karo reikalus."
   pagrindžia:
@@ -383,21 +383,21 @@ Vitebskas šiame šaltinyje rodomas kaip Jogailos tėviškės dalis, kaip kelio 
     - c-170626
 
 <a id="claim-t-192778"></a>
-- t-070
+- t-048
   global_id: t-192778
   teiginys: "Narbutas, remdamasis Karamzinu, Vitebsko vietoje minėjo senovės pilį prie Dauguvos Witsby kaip vibionų arba vitbionų genties sostinę."
   pagrindžia:
     - c-175548
 
 <a id="claim-t-193250"></a>
-- t-071
+- t-049
   global_id: t-193250
   teiginys: "Pačiam Švitrigailai pavyko pabėgti į Vitebską ir surinkti naują kariuomenę, tačiau su ja jis vis dėlto nebegalėjo priešintis."
   pagrindžia:
     - c-175983
 
 <a id="claim-t-193251"></a>
-- t-072
+- t-050
   global_id: t-193251
   teiginys: "Maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Oršą ir apdegino Vitebską."
   pagrindžia:

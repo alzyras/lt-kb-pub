@@ -14,6 +14,7 @@ tags:
   - karalius
   - sutartis
   - vieta
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'
@@ -39,14 +40,14 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
 ## Teiginiai
 
 <a id="claim-t-84712"></a>
-- t-003
+- t-001
   global_id: t-84712
   teiginys: "Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų."
   pagrindžia:
     - c-80846
 
 <a id="claim-t-84714"></a>
-- t-004
+- t-002
   global_id: t-84714
   teiginys: "Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių."
   pagrindžia:

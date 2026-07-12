@@ -14,6 +14,7 @@ tags:
   - ivykis
   - karas
   - valstybė
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'
@@ -55,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75228"></a>
-- t-002
+- t-001
   global_id: t-75228
   teiginys: "Sovietai naikino privatinę nuosavybę ekonomikoje, todėl Lietuvos žemės ūkyje turėjo būti steigiami kolektyviniai ūkiai."
   pagrindžia:
     - c-73087
 
 <a id="claim-t-75229"></a>
-- t-001
+- t-002
   global_id: t-75229
   teiginys: "1948 m. pavasarį kolektyvinių ūkių organizavimas Lietuvos kaime sukėlė didelį pasipriešinimą."
   pagrindžia:

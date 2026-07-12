@@ -41,35 +41,35 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
 ## Teiginiai
 
 <a id="claim-t-175186"></a>
-- t-005
+- t-001
   global_id: t-175186
   teiginys: "Dusburgietis pasakoja, kad Herkus Mantas priesaika liudijo regėjęs iš sudeginto miestiečio burnos išskrendant baltą balandį."
   pagrindžia:
     - c-56079
 
 <a id="claim-t-175187"></a>
-- t-012
+- t-002
   global_id: t-175187
   teiginys: "Notangai Herkų Mantą išsirinko savo kariuomenės vadu ir vyresniuoju po prūsų atkritimo nuo tikėjimo."
   pagrindžia:
     - c-159340
 
 <a id="claim-t-175188"></a>
-- t-009
+- t-003
   global_id: t-175188
   teiginys: "Pokarvių skerdynių pasakojime Herkus du kartus išgelbėjo Hirtshalsą nuo burtų."
   pagrindžia:
     - c-56078
 
 <a id="claim-t-175189"></a>
-- t-017
+- t-004
   global_id: t-175189
   teiginys: "Herkų Mantą dykrose užtiko Henrikas iš Šenenbergo ir Helvigas iš Goldbacho; jie jį pakorė prie medžio ir pervėrė kalaviju."
   pagrindžia:
     - c-56080
 
 <a id="claim-t-175190"></a>
-- t-008
+- t-005
   global_id: t-175190
   teiginys: "Dusburgietis pasakoja, kad notangai savo kariuomenės vadu ir vyresniuoju pasirinko Herkų Mantą."
   pagrindžia:
@@ -77,49 +77,49 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - c-56079
 
 <a id="claim-t-175191"></a>
-- t-011
+- t-006
   global_id: t-175191
   teiginys: "Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius."
   pagrindžia:
     - c-159344
 
 <a id="claim-t-175192"></a>
-- t-016
+- t-007
   global_id: t-175192
   teiginys: "Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės."
   pagrindžia:
     - c-159343
 
 <a id="claim-t-175193"></a>
-- t-006
+- t-008
   global_id: t-175193
   teiginys: "Herkus Mantas, likęs vienas palapinėje, buvo Kristburgo komtūro Henriko iš Šenenbergo ir Helvigo iš Goldbacho pakartas ir pervertas kalaviju."
   pagrindžia:
     - c-56080
 
 <a id="claim-t-175194"></a>
-- t-007
+- t-009
   global_id: t-175194
   teiginys: "Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę ir 1263 m. mūšio lauke sutriuškino kryžiuočius."
   pagrindžia:
     - c-56148
 
 <a id="claim-t-175195"></a>
-- t-018
+- t-010
   global_id: t-175195
   teiginys: "Herkus Mantas vokiškai išviliodavo besislapstančius krikščionis iš slėptuvių, o tada su saviškiais juos suimdavo arba nužudydavo."
   pagrindžia:
     - c-159345
 
 <a id="claim-t-175196"></a>
-- t-003
+- t-011
   global_id: t-175196
   teiginys: "Herkus Mantas, surinkęs didelę kariuomenę, puolė Karaliaučiaus lauką ir sunkiai sužeidė brolį Henriką Ulenbušą."
   pagrindžia:
     - c-159348
 
 <a id="claim-t-175197"></a>
-- t-015
+- t-012
   global_id: t-175197
   teiginys: "Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką, ketindamas pulti pilį."
   pagrindžia:
@@ -133,35 +133,35 @@ Herkus Mantas vaizduojamas kaip notangų vadas, niokojęs Kulmo žemę, puolęs 
     - c-159346
 
 <a id="claim-t-175199"></a>
-- t-002
+- t-014
   global_id: t-175199
   teiginys: "Herkus Mantas du kartus išgelbėjo į nelaisvę patekusį Hirtshalsą, prisiminęs Magdeburge patirtas geradarybes."
   pagrindžia:
     - c-56076
 
 <a id="claim-t-175200"></a>
-- t-004
+- t-015
   global_id: t-175200
   teiginys: "Herkus Mantas su stipria kariuomene įsibrovė į Kulmo žemę, išsivarė daug žmonių, prisigrobė turto ir sudegino pastatus už įtvirtinimų."
   pagrindžia:
     - c-56078
 
 <a id="claim-t-175201"></a>
-- t-010
+- t-016
   global_id: t-175201
   teiginys: "Dusburgietis pabrėžia, kad Herkus vėliau pats liudijo apie Hirtshalso sielos regėjimą."
   pagrindžia:
     - c-56080
 
 <a id="claim-t-175202"></a>
-- t-001
+- t-017
   global_id: t-175202
   teiginys: "Herkus Mantas, notangų prūsų vyriausiasis vadas, niokojo Kulmo žemę ir Lubavos mūšyje triuškino Ordiną."
   pagrindžia:
     - c-159342
 
 <a id="claim-t-194491"></a>
-- t-019
+- t-018
   global_id: t-194491
   teiginys: "Štai dėl to ir Herkus Mantas, jų vadas, pasitraukė su kuriais ne kuriais savo bendrais į dykras; kai, bendrininkams išvykus pamedžioti, jis vienui vienas sėdėjo savo palapinėje, netikėtai jį užtiko brolis Henrikas iš Šenenbergo410, Kristburgo komtūras, ir."
   pagrindžia:

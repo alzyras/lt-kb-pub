@@ -16,7 +16,8 @@ date_start: '1300'
 date_end: '1435'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinis-terminas
 amziai:
   - 'XIII'
   - 'XV'
@@ -79,35 +80,35 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-91773
 
 <a id="claim-t-05453"></a>
-- t-003
+- t-002
   global_id: t-05453
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
   pagrindžia:
     - c-05583
 
 <a id="claim-t-05454"></a>
-- t-004
+- t-003
   global_id: t-05454
   teiginys: "1354 m. Konstantinopolio patriarchas paskyrė Lietuvos žemių metropolitą Romaną."
   pagrindžia:
     - c-05584
 
 <a id="claim-t-05455"></a>
-- t-005
+- t-004
   global_id: t-05455
   teiginys: "Lietuvos stačiatikių žemės vėl buvo pajungtos visos Rusijos metropolitui."
   pagrindžia:
     - c-05585
 
 <a id="claim-t-05456"></a>
-- t-006
+- t-005
   global_id: t-05456
   teiginys: "1375 m. Lietuvos stačiatikių metropolitu buvo paskirtas Kiprijonas."
   pagrindžia:
     - c-05586
 
 <a id="claim-t-97284"></a>
-- t-008
+- t-006
   global_id: t-97284
   teiginys: "Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams."
   pagrindžia:
@@ -121,7 +122,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
     - c-91773
 
 <a id="claim-t-184630"></a>
-- t-009
+- t-008
   global_id: t-184630
   teiginys: "Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė."
   pagrindžia:

@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karyba
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,28 +52,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187995"></a>
-- t-006
+- t-001
   global_id: t-187995
   teiginys: "Narbutas rašo, kad švento plauko kumeliuką reikėdavo auginti iki penkerių metų ir atiduoti vyriausiajam žyniui."
   pagrindžia:
     - c-171003
 
 <a id="claim-t-187997"></a>
-- t-005
+- t-002
   global_id: t-187997
   teiginys: "Narbutas arklio auką sieja su sėkmingu grobiamuoju žygiu ir trečdalio grobio skyrimu dievams."
   pagrindžia:
     - c-171004
 
 <a id="claim-t-188387"></a>
-- t-007
+- t-003
   global_id: t-188387
   teiginys: "Narbutas arklio aukos apeigoje mini pagrobto arklio nujodinimą, Krivių Krivaičio papjovimą ir sudeginimą ant laužo."
   pagrindžia:
     - c-171013
 
 <a id="claim-t-188388"></a>
-- t-008
+- t-004
   global_id: t-188388
   teiginys: "Narbutas rašo, kad prūsai aukai rinkdavosi širmus arklius, o kitos lietuvių genties tautos turėjusios savus plauko ir ženklų pasirinkimus."
   pagrindžia:

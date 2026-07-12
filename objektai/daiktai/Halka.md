@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35504"></a>
-- t-003
+- t-001
   global_id: t-35504
   teiginys: "Halka buvo didelė patranka, kurią vos patraukdavo 20 porų arklių."
   pagrindžia:
     - c-38206
 
 <a id="claim-t-35505"></a>
-- t-004
+- t-002
   global_id: t-35505
   teiginys: "Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių."
   pagrindžia:
     - c-38206
 
 <a id="claim-t-35506"></a>
-- t-005
+- t-003
   global_id: t-35506
   teiginys: "Halka buvo didelė kanuolė, kurią vos patraukdavo 20 porų arklių."
   pagrindžia:

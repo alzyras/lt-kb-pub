@@ -38,7 +38,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68384"></a>
-- t-002
+- t-001
   global_id: t-68384
   teiginys: "Dėl vietovardžio Labguva darybos ir kilmės.— Baltistica, 1966, 1(2), p. 185—189."
   pagrindžia:

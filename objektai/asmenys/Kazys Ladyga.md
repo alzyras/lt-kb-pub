@@ -14,6 +14,7 @@ tags:
   - asmuo
   - ginklas
   - karas
+  - teisinė-praktika
 amziai:
   - 'XIX'
   - 'XX'

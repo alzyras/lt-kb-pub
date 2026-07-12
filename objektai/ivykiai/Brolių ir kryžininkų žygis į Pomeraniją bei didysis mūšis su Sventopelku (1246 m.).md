@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66509"></a>
-- t-003
+- t-001
   global_id: t-66509
   teiginys: "Po pergalės broliai ir maldininkai grįžo namo su 1600 priešo žirgų ir kitu grobiu."
   pagrindžia:

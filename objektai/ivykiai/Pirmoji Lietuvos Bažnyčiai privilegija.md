@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - privilegija
 amziai:
   - 'XIV'
 media_total_count: '0'

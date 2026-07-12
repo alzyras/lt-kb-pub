@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - lietuva
   - vieta
 amziai:
   - 'XX'
@@ -57,49 +58,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77010"></a>
-- t-015
+- t-001
   global_id: t-77010
   teiginys: "Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus."
   pagrindžia:
     - c-74482
 
 <a id="claim-t-77011"></a>
-- t-009
+- t-002
   global_id: t-77011
   teiginys: "Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos."
   pagrindžia:
     - c-16572
 
 <a id="claim-t-77012"></a>
-- t-014
+- t-003
   global_id: t-77012
   teiginys: "Lenkiškoje trijų dalių Lietuvos sampratoje Minsko Lietuva buvo siejama su senosiomis rusėniškosiomis LDK žemėmis."
   pagrindžia:
     - c-16590
 
 <a id="claim-t-77013"></a>
-- t-011
+- t-004
   global_id: t-77013
   teiginys: "Minsko Lietuva vadintos į rytus nuo Vidurinės Lietuvos buvusios senosios rusėniškosios LDK žemės."
   pagrindžia:
     - c-16572
 
 <a id="claim-t-77014"></a>
-- t-012
+- t-005
   global_id: t-77014
   teiginys: "Lietuviai siekė kurti valstybę etniniais pagrindais ir nebepretendavo į Minsko Lietuvą."
   pagrindžia:
     - c-16573
 
 <a id="claim-t-77015"></a>
-- t-013
+- t-006
   global_id: t-77015
   teiginys: "Minsko, arba rusėnų, Lietuva vadintos senosios rusėniškosios LDK žemės į rytus nuo Vidurinės Lietuvos."
   pagrindžia:
     - c-16590
 
 <a id="claim-t-77016"></a>
-- t-010
+- t-007
   global_id: t-77016
   teiginys: "Lietuviai, apsisprendę kurti Lietuvos valstybę etniniais pagrindais, nebepretendavo į Minsko Lietuvą."
   pagrindžia:

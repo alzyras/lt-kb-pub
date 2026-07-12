@@ -34,14 +34,14 @@ Romo Kalantos sušukta frazė siejama su susideginimo protestu prieš okupacinę
 ## Teiginiai
 
 <a id="claim-t-13497"></a>
-- t-005
+- t-001
   global_id: t-13497
   teiginys: "1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“."
   pagrindžia:
     - c-23552
 
 <a id="claim-t-13498"></a>
-- t-006
+- t-002
   global_id: t-13498
   teiginys: "Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d."
   pagrindžia:

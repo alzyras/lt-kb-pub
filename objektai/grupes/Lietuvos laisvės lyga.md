@@ -14,6 +14,7 @@ tags:
   - grupe
   - reforma
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,7 +39,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
 ## Teiginiai
 
 <a id="claim-t-74752"></a>
-- t-004
+- t-001
   global_id: t-74752
   teiginys: "Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“."
   pagrindžia:
@@ -59,7 +60,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     - c-72772
 
 <a id="claim-t-193554"></a>
-- t-005
+- t-004
   global_id: t-193554
   teiginys: "Nepaisant LLL nuolatinės kovos už Lietuvos laisvę, atgimimo laikotarpiu susikūręs Lietuvos Persitvarkymo Sąjūdis, o ne LLL tapo pagrindine jėga, atkūrusia Lietuvos nepriklausomybę."
   pagrindžia:

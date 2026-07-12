@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - laidotuvės
   - reforma
   - valstybė
 amziai:
@@ -53,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75171"></a>
-- t-003
+- t-001
   global_id: t-75171
   teiginys: "1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę."
   pagrindžia:
@@ -67,7 +68,7 @@ Nenurodyta
     - c-73064
 
 <a id="claim-t-75173"></a>
-- t-001
+- t-003
   global_id: t-75173
   teiginys: "Lietuvos tarptautinis pripažinimas užtruko, nes Vakarai baiminosi, kad Baltijos valstybių pripažinimas pakenks M. Gorbačiovo reformoms."
   pagrindžia:

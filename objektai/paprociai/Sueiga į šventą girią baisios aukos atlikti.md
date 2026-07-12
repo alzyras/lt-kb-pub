@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07805"></a>
-- t-002
+- t-001
   global_id: t-07805
   teiginys: "Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį."
   pagrindžia:

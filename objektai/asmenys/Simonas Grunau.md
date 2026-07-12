@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - papuošalas
+  - šventė
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

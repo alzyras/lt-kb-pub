@@ -37,7 +37,7 @@ Tad ir Rusija prisijungė prie „suverenitetų parado“, ir kitos sovietinės 
     - c-23673
 
 <a id="claim-t-20947"></a>
-- t-001
+- t-002
   global_id: t-20947
   teiginys: "Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą."
   pagrindžia:

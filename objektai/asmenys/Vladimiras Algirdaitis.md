@@ -40,21 +40,21 @@ Vladimiro pinigas; 9 — Naugardo Sieversko kunig. Vladimirui ir Ratnos kunigaik
 ## Teiginiai
 
 <a id="claim-t-182865"></a>
-- t-019
+- t-001
   global_id: t-182865
   teiginys: "1396 m. Vytautas iš Vladimiro Algirdaičio atėmė Kijevą, o sau pasiliko Žitomiro ir Ovručio plačius valsčius."
   pagrindžia:
     - c-166269
 
 <a id="claim-t-184291"></a>
-- t-020
+- t-002
   global_id: t-184291
   teiginys: "Vytautas turėjo pašalinti Vladimirą Algirdaitį iš Kijevo, kad įvykdytų sutartį dėl Kijevo perdavimo Skirgailai."
   pagrindžia:
     - c-167667
 
 <a id="claim-t-184292"></a>
-- t-021
+- t-003
   global_id: t-184292
   teiginys: "Vytautas suvaldė Kijevo kunigaikštį Vladimirą Algirdaitį, silpnindamas Gediminaičių valdžią."
   pagrindžia:

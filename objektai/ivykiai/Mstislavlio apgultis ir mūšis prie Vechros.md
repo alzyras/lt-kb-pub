@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186725"></a>
-- t-002
+- t-001
   global_id: t-186725
   teiginys: "Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis."
   pagrindžia:
     - c-169949
 
 <a id="claim-t-186726"></a>
-- t-001
+- t-002
   global_id: t-186726
   teiginys: "LDK kariuomenė prie Mstislavlio atžygiavo 1386 m. balandžio 29 d."
   pagrindžia:

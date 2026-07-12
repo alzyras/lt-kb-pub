@@ -21,6 +21,7 @@ atnaujinta: ''
 tags:
   - grupe
   - upė
+  - šventė
 amziai:
   - 'XIII'
   - 'XXI'
@@ -53,35 +54,35 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - c-31144
 
 <a id="claim-t-65555"></a>
-- t-006
+- t-002
   global_id: t-65555
   teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
   pagrindžia:
     - c-42750
 
 <a id="claim-t-65556"></a>
-- t-002
+- t-003
   global_id: t-65556
   teiginys: "Istorijos priešaušryje kuršių žemėse turėjo būti gana daug atskirų sričių kunigų, atlikdavusių aukojimus."
   pagrindžia:
     - c-31145
 
 <a id="claim-t-65557"></a>
-- t-011
+- t-004
   global_id: t-65557
   teiginys: "Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai."
   pagrindžia:
     - c-31148
 
 <a id="claim-t-65558"></a>
-- t-013
+- t-005
   global_id: t-65558
   teiginys: "Skalviai prie Nemuno žemupio siejosi su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių."
   pagrindžia:
     - c-65957
 
 <a id="claim-t-65559"></a>
-- t-010
+- t-006
   global_id: t-65559
   teiginys: "Istorijos priešaušryje kuršių ir kitų baltų žemėse turėjo būti daug atskirų sričių kunigų."
   pagrindžia:
@@ -95,70 +96,70 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
     - c-42750
 
 <a id="claim-t-65561"></a>
-- t-004
+- t-008
   global_id: t-65561
   teiginys: "Kronikininkai mini spindinčius metalo ginklus pas kuršius ir žiemgalius."
   pagrindžia:
     - c-65960
 
 <a id="claim-t-65564"></a>
-- t-003
+- t-009
   global_id: t-65564
   teiginys: "Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais."
   pagrindžia:
     - c-31146
 
 <a id="claim-t-65565"></a>
-- t-009
+- t-010
   global_id: t-65565
   teiginys: "Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą."
   pagrindžia:
     - c-31144
 
 <a id="claim-t-65566"></a>
-- t-014
+- t-011
   global_id: t-65566
   teiginys: "Kuršių gyvenama teritorija prasidėjo į šiaurę nuo Minijos žemupio, Klaipėdos apylinkėse."
   pagrindžia:
     - c-65964
 
 <a id="claim-t-65567"></a>
-- t-005
+- t-012
   global_id: t-65567
   teiginys: "Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m."
   pagrindžia:
     - c-31148
 
 <a id="claim-t-65568"></a>
-- t-015
+- t-013
   global_id: t-65568
   teiginys: "Kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai."
   pagrindžia:
     - c-65959
 
 <a id="claim-t-184328"></a>
-- t-016
+- t-014
   global_id: t-184328
   teiginys: "Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais."
   pagrindžia:
     - c-167698
 
 <a id="claim-t-184514"></a>
-- t-017
+- t-015
   global_id: t-184514
   teiginys: "Staiga kilusi grėsmė išjudino daug kuršių, žemaičių ir lietuvių priešintis priešui, kurio pavojų rodė pavergtos Latvijos likimas."
   pagrindžia:
     - c-167875
 
 <a id="claim-t-184515"></a>
-- t-018
+- t-016
   global_id: t-184515
   teiginys: "Kitais metais Utenis perkėlė karą iš Kuršo į Livoniją, o sutelkta kuršių ir žemaičių kariuomenė nusiaubė didelius Livonijos plotus."
   pagrindžia:
     - c-167876
 
 <a id="claim-t-192418"></a>
-- t-019
+- t-017
   global_id: t-192418
   teiginys: "Teodoro Narbuto teigimu, kuršiai pirmosios apskrities gyventojus vadino Kreeminen, arba krevinėnais, o antruosius - lyviais arba rehdingais."
   pagrindžia:

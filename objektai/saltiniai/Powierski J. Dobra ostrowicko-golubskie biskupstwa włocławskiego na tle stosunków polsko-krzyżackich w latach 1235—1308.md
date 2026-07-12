@@ -42,21 +42,21 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
 ## Teiginiai
 
 <a id="claim-t-60959"></a>
-- t-003
+- t-001
   global_id: t-60959
   teiginys: "555 Aprašomas 1302—1303 m. žiemos puolimas (Powierski J., Dobra..., p. 201)."
   pagrindžia:
     - c-61593
 
 <a id="claim-t-60960"></a>
-- t-001
+- t-002
   global_id: t-60960
   teiginys: "J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais."
   pagrindžia:
     - c-61591
 
 <a id="claim-t-60961"></a>
-- t-002
+- t-003
   global_id: t-60961
   teiginys: "J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams."
   pagrindžia:

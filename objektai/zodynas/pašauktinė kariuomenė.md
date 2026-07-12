@@ -36,21 +36,21 @@ Iš kitos pusės, nesant masinės reguliarios kariuomenės, bajorų pašauktinė
 ## Teiginiai
 
 <a id="claim-t-78905"></a>
-- t-004
+- t-001
   global_id: t-78905
   teiginys: "Pašauktinės kariuomenės trūkumus bandyta kompensuoti samdiniais, kurie buvo profesionalūs kariai."
   pagrindžia:
     - c-76010
 
 <a id="claim-t-78906"></a>
-- t-001
+- t-002
   global_id: t-78906
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad po apiplėšimo totoriai spėdavo pasitraukti."
   pagrindžia:
     - c-76011
 
 <a id="claim-t-78907"></a>
-- t-002
+- t-003
   global_id: t-78907
   teiginys: "XV a. pabaigoje ir XVI a. pradžioje Lietuvos karinės organizacijos pagrindą vis dar sudarė kilmingųjų pašauktinė raitelių kariuomenė."
   pagrindžia:

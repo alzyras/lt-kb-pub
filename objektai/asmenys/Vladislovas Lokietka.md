@@ -39,35 +39,35 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 ## Teiginiai
 
 <a id="claim-t-90065"></a>
-- t-004
+- t-001
   global_id: t-90065
   teiginys: "Vladislovo Lokietkos suvienyta Lenkija siekė diplomatiškai atgauti Pomeraniją."
   pagrindžia:
     - c-56171
 
 <a id="claim-t-90066"></a>
-- t-005
+- t-002
   global_id: t-90066
   teiginys: "Gedimino Lietuva buvo susitarusi su Vladislovu Łokietka dėl bendrų veiksmų."
   pagrindžia:
     - c-56172
 
 <a id="claim-t-90067"></a>
-- t-009
+- t-003
   global_id: t-90067
   teiginys: "Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną."
   pagrindžia:
     - c-85953
 
 <a id="claim-t-90068"></a>
-- t-015
+- t-004
   global_id: t-90068
   teiginys: "1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių."
   pagrindžia:
     - c-85952
 
 <a id="claim-t-90070"></a>
-- t-008
+- t-005
   global_id: t-90070
   teiginys: "1323 m. pabaigoje ar 1324 m. pradžioje Gedimino Lietuva, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę arba Palenkę."
   pagrindžia:
@@ -81,35 +81,35 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
     - c-56173
 
 <a id="claim-t-90072"></a>
-- t-012
+- t-007
   global_id: t-90072
   teiginys: "Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis."
   pagrindžia:
     - c-56174
 
 <a id="claim-t-90073"></a>
-- t-010
+- t-008
   global_id: t-90073
   teiginys: "Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos."
   pagrindžia:
     - c-85951
 
 <a id="claim-t-90075"></a>
-- t-014
+- t-009
   global_id: t-90075
   teiginys: "Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus."
   pagrindžia:
     - c-85949
 
 <a id="claim-t-184378"></a>
-- t-016
+- t-010
   global_id: t-184378
   teiginys: "Gediminas, matydamas užsitęsiančią kovą su kryžiuočiais, rado sąjungininką Lenkijos valdovo Vladislovo Lokietkos asmenyje."
   pagrindžia:
     - c-167747
 
 <a id="claim-t-194526"></a>
-- t-017
+- t-011
   global_id: t-194526
   teiginys: "Apie Kulmo žemės nusiaubimą Tuo pat metu ir tą pačią dieną (vasario 1), kai šitai dėjosi, Lokietka, Lenkijos karalius, padarė piktadarystę, kurią seniai buvo sumanęs: nepaisydamas taikos susitarimo, kurį buvo sudaręs su Čekijos karaliumi ir magistru, jis su 6."
   pagrindžia:

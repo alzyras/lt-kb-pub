@@ -30,14 +30,14 @@ Tikriausiai Kotzebue vylėsi jų originalus rasiąs Ordino archyve ir galėsiąs
 ## Teiginiai
 
 <a id="claim-t-88239"></a>
-- t-002
+- t-001
   global_id: t-88239
   teiginys: "Augusto von Kotzebue nuomonės apie Prūsijos istoriją vertinamos kritiškai, remiantis teiginiu apie dokumentų patekimą į kryžiuočių archyvą."
   pagrindžia:
     - c-84219
 
 <a id="claim-t-88240"></a>
-- t-001
+- t-002
   global_id: t-88240
   teiginys: "Kotzebue tikėjosi rasti laiškų originalus Ordino archyve ir apkaltinti Ordiną dar viena piktadaryste."
   pagrindžia:

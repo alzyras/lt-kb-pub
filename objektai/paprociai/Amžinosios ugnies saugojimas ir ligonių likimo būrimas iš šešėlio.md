@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187999"></a>
-- t-002
+- t-001
   global_id: t-187999
   teiginys: "Narbutas pasakoja, kad žyniai prie Amžinosios ugnies pagal ligonio šešėlio padėtį aiškindavo gyvybės arba mirties ženklus."
   pagrindžia:
     - c-171006
 
 <a id="claim-t-194620"></a>
-- t-003
+- t-002
   global_id: t-194620
   teiginys: "Jie staty davo ligonį priešais didele ugnį (laužą): jeigu šešėlis nuo jo kūno krisdavo tiesiai ir visiškai į priešingą nuo laužo pusę, tai tą laikydavo ženklu, kad ligonis išgis; o jeigu šešėlis krisdavo įstrižai arba atrodydavo esąs šiek tiek nukrypęs į."
   pagrindžia:

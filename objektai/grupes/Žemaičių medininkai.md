@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66382"></a>
-- t-002
+- t-001
   global_id: t-66382
   teiginys: "Žemaičių medininkai šiame šaltinyje pateikiami kaip atspari ir pajūrį ginanti žemaičių grupė."
   pagrindžia:

@@ -36,14 +36,14 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
 ## Teiginiai
 
 <a id="claim-t-11684"></a>
-- t-004
+- t-001
   global_id: t-11684
   teiginys: "Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis."
   pagrindžia:
     - c-14603
 
 <a id="claim-t-11685"></a>
-- t-003
+- t-002
   global_id: t-11685
   teiginys: "Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis."
   pagrindžia:

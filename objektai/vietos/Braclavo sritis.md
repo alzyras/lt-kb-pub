@@ -44,14 +44,14 @@ gyvenama tik tikrojoj Lietuvoj, Palenkėj, Voluinėj ir Podolės Braclavo srityj
     - c-46456
 
 <a id="claim-t-72805"></a>
-- t-001
+- t-002
   global_id: t-72805
   teiginys: "Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse."
   pagrindžia:
     - c-46456
 
 <a id="claim-t-72805"></a>
-- t-001
+- t-003
   global_id: t-72805
   teiginys: "Kazimiero laikais Podolės Braclavo srityje buvo gyvenama tankiau negu rytinėse Lietuvos žemėse."
   pagrindžia:

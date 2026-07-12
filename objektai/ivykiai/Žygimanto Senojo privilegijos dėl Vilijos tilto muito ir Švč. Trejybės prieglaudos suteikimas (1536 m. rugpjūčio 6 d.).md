@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - karalius
   - miestas
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -68,21 +68,21 @@ Nenurodyta
     - c-82863
 
 <a id="claim-t-86881"></a>
-- t-005
+- t-003
   global_id: t-86881
   teiginys: "Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms."
   pagrindžia:
     - c-82858
 
 <a id="claim-t-86882"></a>
-- t-003
+- t-004
   global_id: t-86882
   teiginys: "1536 m. privilegija uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui."
   pagrindžia:
     - c-82861
 
 <a id="claim-t-86883"></a>
-- t-004
+- t-005
   global_id: t-86883
   teiginys: "Žygimantas Senasis visiems laikams paskyrė Vilijos tilto mokestį Švč. Trejybės prieglaudai ir joje gyvenantiems vargšams."
   pagrindžia:

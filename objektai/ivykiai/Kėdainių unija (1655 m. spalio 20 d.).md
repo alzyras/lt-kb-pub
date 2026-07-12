@@ -52,21 +52,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-80673"></a>
-- t-002
+- t-001
   global_id: t-80673
   teiginys: "Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d."
   pagrindžia:
     - c-43064
 
 <a id="claim-t-80674"></a>
-- t-003
+- t-002
   global_id: t-80674
   teiginys: "Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta."
   pagrindžia:
     - c-43066
 
 <a id="claim-t-80675"></a>
-- t-001
+- t-003
   global_id: t-80675
   teiginys: "Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija."
   pagrindžia:

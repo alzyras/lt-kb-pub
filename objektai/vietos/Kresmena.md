@@ -32,35 +32,35 @@ Dusburgietis teigia, kad apie tai, kaip buvo nusiaubtas Sūduvos valsčius, vard
 ## Teiginiai
 
 <a id="claim-t-58454"></a>
-- t-002
+- t-001
   global_id: t-58454
   teiginys: "Kresmena siejama su Skomanto valdytu Kresinenos valsčiumi apie Skomanto ežerą ir toliau į rytus."
   pagrindžia:
     - c-59088
 
 <a id="claim-t-58455"></a>
-- t-003
+- t-002
   global_id: t-58455
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
   pagrindžia:
     - c-59087
 
 <a id="claim-t-58456"></a>
-- t-001
+- t-003
   global_id: t-58456
   teiginys: "Magistras Mangoldas per Grabnyčias įsiveržė į Sūduvos valsčių Kresmeną ir jį niokojo degindamas bei grobdamas."
   pagrindžia:
     - c-59086
 
 <a id="claim-t-58456"></a>
-- t-001
+- t-004
   global_id: t-58456
   teiginys: "Magistras Mangoldas per Grabnyčias įsiveržė į Sūduvos valsčių Kresmeną ir jį niokojo degindamas bei grobdamas."
   pagrindžia:
     - c-59086
 
 <a id="claim-t-58455"></a>
-- t-003
+- t-005
   global_id: t-58455
   teiginys: "Sūduvos valsčiuje Kresmenoje Skomantas garsėjo galia ir turtais."
   pagrindžia:

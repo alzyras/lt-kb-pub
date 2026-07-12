@@ -17,8 +17,8 @@ atnaujinta: ''
 tags:
   - ginklas
   - grupe
+  - institucija
   - karas
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'
@@ -44,7 +44,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
 ## Teiginiai
 
 <a id="claim-t-65908"></a>
-- t-003
+- t-001
   global_id: t-65908
   teiginys: "1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai."
   pagrindžia:
@@ -58,7 +58,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
     - c-42861
 
 <a id="claim-t-193557"></a>
-- t-004
+- t-003
   global_id: t-193557
   teiginys: "Visuotinį šio karo mastą rodo okupantų baudžiamųjų akcijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių."
   pagrindžia:

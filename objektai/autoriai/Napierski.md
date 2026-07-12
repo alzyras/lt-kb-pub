@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88002"></a>
-- t-003
+- t-001
   global_id: t-88002
   teiginys: "Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys."
   pagrindžia:
@@ -51,7 +51,7 @@ media_all_json: |-
     - c-83981
 
 <a id="claim-t-88004"></a>
-- t-001
+- t-003
   global_id: t-88004
   teiginys: "Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius."
   pagrindžia:

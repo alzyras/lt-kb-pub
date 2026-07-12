@@ -55,28 +55,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05368"></a>
-- t-004
+- t-001
   global_id: t-05368
   teiginys: "Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai."
   pagrindžia:
     - c-05451
 
 <a id="claim-t-10819"></a>
-- t-005
+- t-002
   global_id: t-10819
   teiginys: "Livonijos ordino aplinkoje buvo įprasta kviesti svečius iš Vokietijos ir skelbti specialius kryžiaus žygius."
   pagrindžia:
     - c-00237
 
 <a id="claim-t-10820"></a>
-- t-006
+- t-003
   global_id: t-10820
   teiginys: "Ordinui prašant popiežius Vakaruose skelbdavo kryžiaus karus, kad į pagalbą plauktų minios karių."
   pagrindžia:
     - c-00238
 
 <a id="claim-t-10821"></a>
-- t-007
+- t-004
   global_id: t-10821
   teiginys: "Vakarų pagalbos kvietimas tapo ordino gynimosi ir puolimo praktika."
   pagrindžia:

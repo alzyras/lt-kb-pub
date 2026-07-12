@@ -59,7 +59,7 @@ Nenurodyta
     - c-167300
 
 <a id="claim-t-62765"></a>
-- t-001
+- t-002
   global_id: t-62765
   teiginys: "1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų."
   pagrindžia:

@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - institucija
   - ivykis
   - kunigas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

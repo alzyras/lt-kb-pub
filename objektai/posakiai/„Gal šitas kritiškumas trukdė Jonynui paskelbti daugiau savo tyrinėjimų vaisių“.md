@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,14 +30,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-186386"></a>
-- t-002
+- t-001
   global_id: t-186386
   teiginys: "Jonynas Lietuvos istorijos kursuose mokė analizuoti šaltinius ir skatino klausytojų visapusišką kritiškumą."
   pagrindžia:
     - c-169742
 
 <a id="claim-t-186387"></a>
-- t-001
+- t-002
   global_id: t-186387
   teiginys: "Jonyno kritiškumas galėjo trukdyti jam paskelbti daugiau savo tyrinėjimų vaisių."
   pagrindžia:

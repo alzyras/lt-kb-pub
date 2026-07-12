@@ -58,7 +58,7 @@ Nenurodyta
     - c-63095
 
 <a id="claim-t-62453"></a>
-- t-001
+- t-002
   global_id: t-62453
   teiginys: "Apie raupsuotųjų deginimų Prancūzijoje 1320 viešpaties metais Prancūzijoje buvo deginami raupsuotieji."
   pagrindžia:

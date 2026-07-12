@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67244"></a>
-- t-004
+- t-001
   global_id: t-67244
   teiginys: "Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes."
   pagrindžia:
     - c-43183
 
 <a id="claim-t-67245"></a>
-- t-005
+- t-002
   global_id: t-67245
   teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
   pagrindžia:

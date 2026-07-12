@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192102"></a>
-- t-002
+- t-001
   global_id: t-192102
   teiginys: "Pasak Narbuto, prireikus Sambijos vitingai vadovavo ginkluotiems žmonėms, o iš jų buvo renkamas vyriausias karvedys, paskiausiai Glaudė."
   pagrindžia:

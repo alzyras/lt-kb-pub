@@ -37,14 +37,14 @@ Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų (an
 ## Teiginiai
 
 <a id="claim-t-101578"></a>
-- t-003
+- t-001
   global_id: t-101578
   teiginys: "Prasidėjus Šaltajam karui, JAV keitė požiūrį į dipukus, o JAV Kongresas 1948 m. viduryje priėmė Perkeltųjų asmenų įstatymą."
   pagrindžia:
     - c-95099
 
 <a id="claim-t-101579"></a>
-- t-001
+- t-002
   global_id: t-101579
   teiginys: "Vokietijai pralaimėjus karą, kai kurie pabėgėliai pateko į dipukų, arba perkeltųjų asmenų, stovyklas."
   pagrindžia:

@@ -40,21 +40,21 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
 ## Teiginiai
 
 <a id="claim-t-64420"></a>
-- t-006
+- t-001
   global_id: t-64420
   teiginys: "Zigmantas Sierakauskas pateko į nelaisvę, kai gegužės 10-osios naktį sukilėlius apsupo paporučikio fon Gaso dalinys."
   pagrindžia:
     - c-42350
 
 <a id="claim-t-64421"></a>
-- t-005
+- t-002
   global_id: t-64421
   teiginys: "Sužeistas Zigmantas Sierakauskas mūšio pradžioje buvo išvežtas ir paslėptas Biržų girioje esančiame Skrebiškio palivarke."
   pagrindžia:
     - c-42349
 
 <a id="claim-t-64422"></a>
-- t-002
+- t-003
   global_id: t-64422
   teiginys: "Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje."
   pagrindžia:
@@ -68,14 +68,14 @@ Pavasarį paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu buvęs Rusijos a
     - c-42348
 
 <a id="claim-t-64424"></a>
-- t-003
+- t-005
   global_id: t-64424
   teiginys: "Zigmantas Sierakauskas parengė sukilėlių kovos planą, numatantį sujungti Kauno gubernijos sukilėlių pajėgas."
   pagrindžia:
     - c-42347
 
 <a id="claim-t-64425"></a>
-- t-001
+- t-006
   global_id: t-64425
   teiginys: "1863 m. pavasarį Zigmantas Sierakauskas buvo paskirtas vyriausiuoju Lietuvos sukilėlių karo vadu."
   pagrindžia:

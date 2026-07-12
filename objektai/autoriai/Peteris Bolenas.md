@@ -30,14 +30,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187950"></a>
-- t-002
+- t-001
   global_id: t-187950
   teiginys: "Peteris Bolenas buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   pagrindžia:
     - c-170935
 
 <a id="claim-t-191902"></a>
-- t-003
+- t-002
   global_id: t-191902
   teiginys: "Peterio Boleno traktatas buvo skirtas senovės prūsų kalbai."
   pagrindžia:

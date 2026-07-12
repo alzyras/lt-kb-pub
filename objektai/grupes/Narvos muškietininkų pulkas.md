@@ -35,7 +35,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
 ## Teiginiai
 
 <a id="claim-t-78388"></a>
-- t-003
+- t-001
   global_id: t-78388
   teiginys: "Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos."
   pagrindžia:
@@ -49,7 +49,7 @@ Vilniuje buvusią rusų įgulą sudarė: Narvos muškietininkų pulko vienas bat
     - c-42884
 
 <a id="claim-t-78390"></a>
-- t-001
+- t-003
   global_id: t-78390
   teiginys: "Balandžio 23 d. lietuviams puolant Vilniuje buvusią rusų įgulą, joje buvo vienas Narvos muškietininkų pulko batalionas ir trys kuopos."
   pagrindžia:

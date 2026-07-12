@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - frazė
   - miestas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -30,7 +31,7 @@ Vachterio G loss. Ūkiniai prie jų priklausantys pastatai (des Königes Hof)a t
 ## Teiginiai
 
 <a id="claim-t-88010"></a>
-- t-002
+- t-001
   global_id: t-88010
   teiginys: "J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka."
   pagrindžia:

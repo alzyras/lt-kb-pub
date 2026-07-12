@@ -41,28 +41,28 @@ Dusburgietis teigia, kad magistras, patenkindamas jo prašymą, atsiuntė jam br
 ## Teiginiai
 
 <a id="claim-t-89815"></a>
-- t-003
+- t-001
   global_id: t-89815
   teiginys: "1237 m. didysis magistras Hermanas pasiuntė Prūsijos magistrą Hermaną Balką su broliais ir ginklanešiais į Livoniją."
   pagrindžia:
     - c-85742
 
 <a id="claim-t-89816"></a>
-- t-001
+- t-002
   global_id: t-89816
   teiginys: "1230 m. didysis magistras Hermanas iš Zalcos pasiuntė Hermaną Balką eiti magistro pareigų Prūsijoje."
   pagrindžia:
     - c-85744
 
 <a id="claim-t-89817"></a>
-- t-004
+- t-003
   global_id: t-89817
   teiginys: "Hermanas Balkas buvo Hermano iš Zalcos atsiųstas eiti magistro pareigas po brolio Konrado prašymo atsiųsti daugiau brolių ir ginklanešių."
   pagrindžia:
     - c-85743
 
 <a id="claim-t-89818"></a>
-- t-002
+- t-004
   global_id: t-89818
   teiginys: "Hermanas Balkas buvo pirmasis Teutonų ordino magistras Prūsijos žemėje ir jai vadovavo dvylika metų."
   pagrindžia:

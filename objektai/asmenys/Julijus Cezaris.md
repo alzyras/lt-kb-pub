@@ -43,7 +43,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 ## Teiginiai
 
 <a id="claim-t-60034"></a>
-- t-003
+- t-001
   global_id: t-60034
   teiginys: "Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e."
   pagrindžia:
@@ -57,7 +57,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     - c-60668
 
 <a id="claim-t-60036"></a>
-- t-001
+- t-003
   global_id: t-60036
   teiginys: "Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją."
   pagrindžia:

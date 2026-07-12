@@ -36,21 +36,21 @@ Panegirinė formulių grupė rodo, kad skirtingi autoriai Vytautą vaizdavo kaip
 ## Teiginiai
 
 <a id="claim-t-67266"></a>
-- t-005
+- t-001
   global_id: t-67266
   teiginys: "Mechovita Vytautą vadina kunigaikščiu kilnios širdies ir garsios garbės."
   pagrindžia:
     - c-14583
 
 <a id="claim-t-67267"></a>
-- t-004
+- t-002
   global_id: t-67267
   teiginys: "Vienas kronikininkas Vytautą ir jo tėvynę apibūdina didele garbe ir šlove."
   pagrindžia:
     - c-14583
 
 <a id="claim-t-67268"></a>
-- t-006
+- t-003
   global_id: t-67268
   teiginys: "Herberšteinas Vytautą įvardija vyru, už kurį didesnio Lietuva neturėjo."
   pagrindžia:

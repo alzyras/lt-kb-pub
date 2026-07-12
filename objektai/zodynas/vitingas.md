@@ -39,21 +39,21 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175097
 
 <a id="claim-t-192271"></a>
-- t-003
+- t-002
   global_id: t-192271
   teiginys: "Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen."
   pagrindžia:
     - c-175099
 
 <a id="claim-t-192272"></a>
-- t-002
+- t-003
   global_id: t-192272
   teiginys: "Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų."
   pagrindžia:
     - c-175099
 
 <a id="claim-t-192273"></a>
-- t-006
+- t-004
   global_id: t-192273
   teiginys: "Teodoras Narbutas nurodo, kad pastaruoju laiku vyriausias karvedys buvo vitingas Glaudė."
   pagrindžia:
@@ -67,7 +67,7 @@ Jų tarpe buvo vienas kitas senųjų prūsų bajoras, pasidavęs ordinui ir jam 
     - c-175098
 
 <a id="claim-t-192275"></a>
-- t-004
+- t-006
   global_id: t-192275
   teiginys: "Teodoras Narbutas rašo, kad vitingai prireikus vadovavo ginkluotiems žmonėms."
   pagrindžia:

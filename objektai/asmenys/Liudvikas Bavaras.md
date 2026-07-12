@@ -41,28 +41,28 @@ Dusburgietis teigia, kad kovodama su Vokietijos karaliumi Liudviku Bavaru, vėli
 ## Teiginiai
 
 <a id="claim-t-60052"></a>
-- t-002
+- t-001
   global_id: t-60052
   teiginys: "1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste."
   pagrindžia:
     - c-60685
 
 <a id="claim-t-60054"></a>
-- t-001
+- t-002
   global_id: t-60054
   teiginys: "1323 m. popiežiaus kurija pradėjo organizuoti koaliciją prieš Vokietijos karalių Liudviką Bavarą."
   pagrindžia:
     - c-60684
 
 <a id="claim-t-184108"></a>
-- t-004
+- t-003
   global_id: t-184108
   teiginys: "1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste."
   pagrindžia:
     - c-167493
 
 <a id="claim-t-194503"></a>
-- t-005
+- t-004
   global_id: t-194503
   teiginys: "Apie tai, kaip dėl nesantarvės Liudvikas iš Bavarijos ir Fridrichas, Austrijos kuni gaikštis, buvo išrinkti Romos karaliais Tų pačių metų spalio 21 dieną Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti."
   pagrindžia:

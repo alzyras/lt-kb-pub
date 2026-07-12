@@ -41,14 +41,14 @@ Demarkacijos linija šiame įraše reiškia laikiną militarinę ir politinę ri
 ## Teiginiai
 
 <a id="claim-t-181355"></a>
-- t-027
+- t-001
   global_id: t-181355
   teiginys: "Ambasadorių konferencija patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją, pagal kurią Vilnius liko Lenkijos pusėje."
   pagrindžia:
     - c-164910
 
 <a id="claim-t-181357"></a>
-- t-028
+- t-002
   global_id: t-181357
   teiginys: "Lietuvos ir Lenkijos demarkacijos linija keliolikai metų nutraukė traukinių ir pašto judėjimą tarp abiejų pusių."
   pagrindžia:

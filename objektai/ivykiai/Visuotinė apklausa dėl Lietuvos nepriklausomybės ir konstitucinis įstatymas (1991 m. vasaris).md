@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
+  - laidotuvės
   - tauta
 amziai:
   - 'XX'

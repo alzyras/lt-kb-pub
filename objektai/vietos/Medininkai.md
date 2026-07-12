@@ -38,7 +38,7 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
 ## Teiginiai
 
 <a id="claim-t-94746"></a>
-- t-003
+- t-001
   global_id: t-94746
   teiginys: "Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu."
   pagrindžia:

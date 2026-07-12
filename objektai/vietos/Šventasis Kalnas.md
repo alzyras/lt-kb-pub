@@ -29,14 +29,14 @@ Vaišvilkas leidosi į Šventąjį Kalną. Dėl sąmyšio anuose kraštuose Vai�
 ## Teiginiai
 
 <a id="claim-t-187407"></a>
-- t-002
+- t-001
   global_id: t-187407
   teiginys: "Dėl sąmyšio anuose kraštuose Vaišvilkas Šventojo Kalno nepasiekė."
   pagrindžia:
     - c-170402
 
 <a id="claim-t-187408"></a>
-- t-001
+- t-002
   global_id: t-187408
   teiginys: "Vaišvilkas iškeliavo į Šventąjį Kalną, bet jo nepasiekė dėl didelio sąmyšio anuose kraštuose."
   pagrindžia:

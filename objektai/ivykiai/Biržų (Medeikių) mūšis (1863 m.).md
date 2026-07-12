@@ -91,14 +91,14 @@ Nenurodyta
     - c-11838
 
 <a id="claim-t-186363"></a>
-- t-008
+- t-006
   global_id: t-186363
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė pasuko iš Medeikių į Biržų girią ir ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
   pagrindžia:
     - c-11838
 
 <a id="claim-t-186362"></a>
-- t-005
+- t-007
   global_id: t-186362
   teiginys: "Biržų mūšyje gen. mjr. I. Ganeckio rinktinė ties Šniurkiškių palivarku užklupo sukilėlių stovyklą."
   pagrindžia:

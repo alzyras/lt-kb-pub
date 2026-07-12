@@ -41,21 +41,21 @@ Lenkijos maršalkos Bartušo ir 6) Zavišos Juodojo (rašte minimas dar Lietuvos
 ## Teiginiai
 
 <a id="claim-t-182861"></a>
-- t-013
+- t-001
   global_id: t-182861
   teiginys: "Vytauto pareigūnas Rumbaudas su kitais bajorais persikėlė per Nevėžį ir nuo Surviliškio bei Krekenavos pradėjo užimti sukilusį kraštą."
   pagrindžia:
     - c-166265
 
 <a id="claim-t-184284"></a>
-- t-014
+- t-002
   global_id: t-184284
   teiginys: "Vytautas pasiuntė maršalką Rumbaudą ir Vilniaus vaivadą Gedgaudą į Lenčicą pas Jogailą."
   pagrindžia:
     - c-36494
 
 <a id="claim-t-184824"></a>
-- t-015
+- t-003
   global_id: t-184824
   teiginys: "Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą."
   pagrindžia:

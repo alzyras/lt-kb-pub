@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77940"></a>
-- t-002
+- t-001
   global_id: t-77940
   teiginys: "1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena."
   pagrindžia:

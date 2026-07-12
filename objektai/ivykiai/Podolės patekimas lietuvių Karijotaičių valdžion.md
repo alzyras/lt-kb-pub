@@ -61,21 +61,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186697"></a>
-- t-003
+- t-001
   global_id: t-186697
   teiginys: "Podolės patekimas lietuvių Karijotaičių valdžion 1971 m. komentare pateikiamas kaip nedatuojamas vieningai: minimi 1349, 1350–1351 ir 1362 m."
   pagrindžia:
     - c-169934
 
 <a id="claim-t-186698"></a>
-- t-001
+- t-002
   global_id: t-186698
   teiginys: "Redakcinė pastaba teigia, kad Lietuvos metraščių pasakojimas apie Podolės patekimą Lietuvos kunigaikščių valdžion sietinas su XV a. Lietuvos ir Lenkijos ginčais dėl Podolės vakarinės dalies."
   pagrindžia:
     - c-169935
 
 <a id="claim-t-186699"></a>
-- t-002
+- t-003
   global_id: t-186699
   teiginys: "Redakcinė pastaba teigia, kad Podolės patekimo lietuvių Karijotaičių valdžion data istoriografijoje nėra vieningai nustatyta."
   pagrindžia:

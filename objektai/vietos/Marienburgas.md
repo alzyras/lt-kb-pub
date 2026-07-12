@@ -51,119 +51,119 @@ rijenburgas.
 ## Teiginiai
 
 <a id="claim-t-177683"></a>
-- t-023
+- t-001
   global_id: t-177683
   teiginys: "Marienburge kryžiuočiai pagamino šturmo bokštus pagal žvalgų nustatytą puolamos pilies sienų aukštį."
   pagrindžia:
     - c-161535
 
 <a id="claim-t-177684"></a>
-- t-026
+- t-002
   global_id: t-177684
   teiginys: "1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi."
   pagrindžia:
     - c-161540
 
 <a id="claim-t-177685"></a>
-- t-013
+- t-003
   global_id: t-177685
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą."
   pagrindžia:
     - c-161539
 
 <a id="claim-t-177686"></a>
-- t-019
+- t-004
   global_id: t-177686
   teiginys: "Marienburgo pilis Nogato deš."
   pagrindžia:
     - c-161534
 
 <a id="claim-t-177687"></a>
-- t-027
+- t-005
   global_id: t-177687
   teiginys: "Henrikui von Plauenui Marienburge surinkus apie 5000 vyrų įgulą, liepos 25 d. atvykę Jogaila ir Vytautas tvirtovės nebeįstengė paimti."
   pagrindžia:
     - c-161538
 
 <a id="claim-t-177688"></a>
-- t-018
+- t-006
   global_id: t-177688
   teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, tai yra Šventosios Marijos pilimi."
   pagrindžia:
     - c-161544
 
 <a id="claim-t-177689"></a>
-- t-006
+- t-007
   global_id: t-177689
   teiginys: "Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
   pagrindžia:
     - c-37528
 
 <a id="claim-t-177690"></a>
-- t-005
+- t-008
   global_id: t-177690
   teiginys: "Skirgaila Marienburge buvo draugiškai ir vaišingai priimtas, nes Ordinas veikiausiai žinojo ar nujautė jo pasiuntinystės tikslus."
   pagrindžia:
     - c-161543
 
 <a id="claim-t-177692"></a>
-- t-014
+- t-009
   global_id: t-177692
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, paskui per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-161537
 
 <a id="claim-t-177693"></a>
-- t-016
+- t-010
   global_id: t-177693
   teiginys: "Ordino dokumentų nuorašas į Marienburgą galėjo patekti defektuotas ir nepilnas."
   pagrindžia:
     - c-161547
 
 <a id="claim-t-177694"></a>
-- t-017
+- t-011
   global_id: t-177694
   teiginys: "Nuo 1309 m. Marienburgas buvo vienas iš Ordino administracinių centrų."
   pagrindžia:
     - c-161536
 
 <a id="claim-t-177695"></a>
-- t-028
+- t-012
   global_id: t-177695
   teiginys: "Vytauto kariuomenę išretino ne tik Žalgirio kautynės, bet ir prie Marienburgo prasidėjusios ligos."
   pagrindžia:
     - c-161546
 
 <a id="claim-t-177696"></a>
-- t-015
+- t-013
   global_id: t-177696
   teiginys: "1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo."
   pagrindžia:
     - c-161539
 
 <a id="claim-t-177697"></a>
-- t-025
+- t-014
   global_id: t-177697
   teiginys: "1384 m. liepos 9 d. Vytautas sudegino Nemuno Marienburgą ir sunaikino Jurgenburgą bei Naująjį Bajerburgą."
   pagrindžia:
     - c-32211
 
 <a id="claim-t-177698"></a>
-- t-012
+- t-015
   global_id: t-177698
   teiginys: "Slaptai suruošto žygio metu didysis magistras iš Marienburgo laivais išplaukė Vysla ir per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-161537
 
 <a id="claim-t-177700"></a>
-- t-021
+- t-016
   global_id: t-177700
   teiginys: "Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį."
   pagrindžia:
     - c-37528
 
 <a id="claim-t-185038"></a>
-- t-029
+- t-017
   global_id: t-185038
   teiginys: "Vytautas Marienburge surengė dukters Sofijos palydėtuves prieš jos santuoką su Maskvos kunigaikščiu Vasilijumi."
   pagrindžia:

@@ -36,7 +36,7 @@ Dusburgietis teigia, kad neilgai trukus, kai komtūras, sutvarkęs visus savo re
     - c-167414
 
 <a id="claim-t-59098"></a>
-- t-001
+- t-002
   global_id: t-59098
   teiginys: "Nodamas, apsimetęs moterimi, prašė brolį Ernekę priimti jį į laivą ir išvaduoti jo sielą iš velnio vergovės."
   pagrindžia:

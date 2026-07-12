@@ -9,7 +9,7 @@ tags:
   - paprotys
   - reforma
   - sukilimas
-  - tikėjimas
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54379"></a>
-- t-002
+- t-001
   global_id: t-54379
   teiginys: "Lenkijos sukilėlių vadovybė, bijodama Lietuvos „raudonųjų“ radikalumo, sukilimo Lietuvoje vadovavimą pavedė „baltiesiems“."
   pagrindžia:
     - c-55228
 
 <a id="claim-t-193580"></a>
-- t-003
+- t-002
   global_id: t-193580
   teiginys: "„Raudonieji“ savo propagandoje ne tik lenkų, bet ir lietuvių bei baltarusių kalbomis žadėjo valstiečiams laisvę ir nuosavybės teisę į visą jų dirbamą žemę be jokių išpirkų."
   pagrindžia:

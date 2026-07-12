@@ -44,147 +44,147 @@ Jis vyriausiais kariuomenės vadais paskyrė LDK etmoną Stanislovą Kišką ir 
 ## Teiginiai
 
 <a id="claim-t-82624"></a>
-- t-003
+- t-001
   global_id: t-82624
   teiginys: "Mykolas Glinskis išsiuntė žvalgybinį husarų būrį, kuris užklupo nedidelį totorių padalinį."
   pagrindžia:
     - c-42156
 
 <a id="claim-t-82625"></a>
-- t-008
+- t-002
   global_id: t-82625
   teiginys: "Mykolas Glinskis po mūšio rugpjūčio 12 d. triumfuodamas grįžo į Vilnių."
   pagrindžia:
     - c-79094
 
 <a id="claim-t-82626"></a>
-- t-002
+- t-003
   global_id: t-82626
   teiginys: "Mykolas Glinskis jaunystėje mokėsi karybos Italijoje, tarnavo imperatoriaus Frydricho dvare ir Lietuvoje formavo husarų dalinius."
   pagrindžia:
     - c-42155
 
 <a id="claim-t-82627"></a>
-- t-007
+- t-004
   global_id: t-82627
   teiginys: "Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės."
   pagrindžia:
     - c-79093
 
 <a id="claim-t-82628"></a>
-- t-006
+- t-005
   global_id: t-82628
   teiginys: "Mykolas Glinskis vedė į kovą su priešais paskubomis surinktus 10 000 bajorų, kareivių ir ginkluotų žmonių."
   pagrindžia:
     - c-79095
 
 <a id="claim-t-82629"></a>
-- t-004
+- t-006
   global_id: t-82629
   teiginys: "Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką."
   pagrindžia:
     - c-42157
 
 <a id="claim-t-82630"></a>
-- t-001
+- t-007
   global_id: t-82630
   teiginys: "Mykolas Glinskis kartu su Stanislovu Kiška buvo paskirtas vienu vyriausiųjų kariuomenės vadų."
   pagrindžia:
     - c-79096
 
 <a id="claim-t-82631"></a>
-- t-009
+- t-008
   global_id: t-82631
   teiginys: "1506 m. rugpjūtį Mykolas Glinskis vedė apie 10 000 bajorų, kareivių ir ginkluotų žmonių į kovą su Krymo ordos kariais ties Klecku."
   pagrindžia:
     - c-79092
 
 <a id="claim-t-184799"></a>
-- t-010
+- t-009
   global_id: t-184799
   teiginys: "Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį."
   pagrindžia:
     - c-168160
 
 <a id="claim-t-184800"></a>
-- t-011
+- t-010
   global_id: t-184800
   teiginys: "Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas."
   pagrindžia:
     - c-168161
 
 <a id="claim-t-184801"></a>
-- t-012
+- t-011
   global_id: t-184801
   teiginys: "Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti."
   pagrindžia:
     - c-168162
 
 <a id="claim-t-184802"></a>
-- t-013
+- t-012
   global_id: t-184802
   teiginys: "Vasilijus manė, kad Mykolas Glinskis galėtų padėti maskvėnams užimti pilį, kurios pats Vasilijus neįstengė paimti."
   pagrindžia:
     - c-168163
 
 <a id="claim-t-184803"></a>
-- t-014
+- t-013
   global_id: t-184803
   teiginys: "Mykolas Glinskis gailėjosi savo veiksmų ir per giminaitį laišku paprašė karaliaus atleidimo."
   pagrindžia:
     - c-168164
 
 <a id="claim-t-184804"></a>
-- t-015
+- t-014
   global_id: t-184804
   teiginys: "Vasilijus įsakė surakinti Mykolą Glinskį grandinėmis ir išvežti iš stovyklos į Viazmą."
   pagrindžia:
     - c-168165
 
 <a id="claim-t-184805"></a>
-- t-016
+- t-015
   global_id: t-184805
   teiginys: "Vasilijus grąžino Mykolui Glinskiui laisvę ir pagarbą, o vėliau paskyrė jį savo mažamečio sūnaus globėju."
   pagrindžia:
     - c-168166
 
 <a id="claim-t-184806"></a>
-- t-017
+- t-016
   global_id: t-184806
   teiginys: "Ovčina apkaltino Mykolą Glinskį antru mėginimu bėgti į Lietuvą, pasmerkė jį mirti ir įkalino apakintą."
   pagrindžia:
     - c-168167
 
 <a id="claim-t-193399"></a>
-- t-018
+- t-017
   global_id: t-193399
   teiginys: "Mykolas Glinskis bodėjosi dabartine padėtimi, kai niekuo negalima pasitikėti; visur matydamas rusų barbariškumą, juto širdyje gailestį dėl savo veiksmų."
   pagrindžia:
     - c-168164
 
 <a id="claim-t-193961"></a>
-- t-019
+- t-018
   global_id: t-193961
   teiginys: "Ir didikai, matydami, kad etmonas labai serga ir kad be jo kariuomenėje nebus jokios tvarkos, nutarė ir pa vedė tą sykį etmono pareigas kunigaikščiui Mykolui Glinskiui ir teikėsi būti visi jam paklusnūs."
   pagrindžia:
     - c-176586
 
 <a id="claim-t-193962"></a>
-- t-020
+- t-019
   global_id: t-193962
   teiginys: "Kunigaikš tis Mykolas !3, matydamas su didikais ir su visa kariuo mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems pulkams žengti abiem perėjimais per upę."
   pagrindžia:
     - c-176587
 
 <a id="claim-t-193963"></a>
-- t-021
+- t-020
   global_id: t-193963
   teiginys: "O tada kunigaikštis Mykolas atskubėjo su kairiuoju sparnu ir, perėjęs per upę, smogė visiems totorių pulkams ir per skėlė juos į dvi dalis."
   pagrindžia:
     - c-176588
 
 <a id="claim-t-193964"></a>
-- t-022
+- t-021
   global_id: t-193964
   teiginys: "Kunigaikštis Mykolas Glinskis ir Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už Cepros, paėmė arba nukovė daugybą totorių, sugrįžo į kariuomenės stovyklą prie Klecko, vesdamiesi su sa vimi daug."
   pagrindžia:

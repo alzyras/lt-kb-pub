@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-103827"></a>
-- t-008
+- t-001
   global_id: t-103827
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo Gedimino sostinė."
   pagrindžia:
     - c-96899
 
 <a id="claim-t-103828"></a>
-- t-007
+- t-002
   global_id: t-103828
   teiginys: "1323 m. spalio 2 d. Vilniuje Livonijos ordino ir vyskupų pasiuntiniai sudarė taiką, kurioje buvo nustatyti Rygai svarbūs prekybos reikalai."
   pagrindžia:
     - c-04999
 
 <a id="claim-t-103829"></a>
-- t-011
+- t-003
   global_id: t-103829
   teiginys: "Kryžiuočių ordinas siekė sužlugdyti 1323 m. spalio 2 d. Vilniaus taiką ir 1324 m. tęsė puolimus prieš Lietuvos žemes."
   pagrindžia:
@@ -82,7 +82,7 @@ Nenurodyta
     - c-04999
 
 <a id="claim-t-103831"></a>
-- t-009
+- t-005
   global_id: t-103831
   teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmuoju autentišku paliudijimu, kad Vilnius jau buvo miestas ir Gedimino sostinė."
   pagrindžia:
@@ -96,28 +96,28 @@ Nenurodyta
     - c-96897
 
 <a id="claim-t-103833"></a>
-- t-013
+- t-007
   global_id: t-103833
   teiginys: "1323 m. spalio 2 d. Vilniuje Livonijos ordinas ir Livonijos vyskupai sudarė taiką, kurioje aptarti ir Rygai svarbūs prekybos reikalai."
   pagrindžia:
     - c-04999
 
 <a id="claim-t-103834"></a>
-- t-012
+- t-008
   global_id: t-103834
   teiginys: "Po 1323 m. Vilniaus taikos Livonijos kryžiuočiai laikėsi oficialios taikos, nors Prūsų ordinas siekė sutarties anuliavimo."
   pagrindžia:
     - c-96895
 
 <a id="claim-t-103835"></a>
-- t-010
+- t-009
   global_id: t-103835
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga."
   pagrindžia:
     - c-96898
 
 <a id="claim-t-103836"></a>
-- t-005
+- t-010
   global_id: t-103836
   teiginys: "1323 m. Vilniaus taikoje buvo nustatyti ir Rygai svarbūs prekybos reikalai."
   pagrindžia:

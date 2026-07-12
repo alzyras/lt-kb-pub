@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-  - privilegija
   - tauta
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'

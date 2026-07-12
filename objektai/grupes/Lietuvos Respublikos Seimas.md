@@ -32,14 +32,14 @@ Pagrindinės Konstitucijos nuostatos skelbė, kad Lietuva yra demokratinė respu
 ## Teiginiai
 
 <a id="claim-t-74771"></a>
-- t-003
+- t-001
   global_id: t-74771
   teiginys: "Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas."
   pagrindžia:
     - c-72787
 
 <a id="claim-t-74773"></a>
-- t-001
+- t-002
   global_id: t-74773
   teiginys: "Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje."
   pagrindžia:

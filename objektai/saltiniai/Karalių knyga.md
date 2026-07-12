@@ -39,7 +39,7 @@ Dusburgietis teigia, kad naujojo Malūno pilį.552 Šioje kovoje vienas prūsas 
     - c-61727
 
 <a id="claim-t-61095"></a>
-- t-001
+- t-002
   global_id: t-61095
   teiginys: "Dusburgietis kovojusį prūsą iš Sembos palygino su Karalių knygoje minimu Ahohiečiu."
   pagrindžia:

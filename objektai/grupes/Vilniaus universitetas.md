@@ -74,91 +74,91 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
 ## Teiginiai
 
 <a id="claim-t-113352"></a>
-- t-029
+- t-001
   global_id: t-113352
   teiginys: "Vilniaus universiteto aplinkoje susibūrę inteligentai siekė kurti aukštąją kultūrą lietuvių ir žemaičių kalba."
   pagrindžia:
     - c-104616
 
 <a id="claim-t-113353"></a>
-- t-018
+- t-002
   global_id: t-113353
   teiginys: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
   pagrindžia:
     - c-26834
 
 <a id="claim-t-113354"></a>
-- t-012
+- t-003
   global_id: t-113354
   teiginys: "Iki 1832 m. uždarymo Vilniaus universitetas buvo pagrindinė Lietuvos mokykla ir svarbiausias kultūros centras."
   pagrindžia:
     - c-26834
 
 <a id="claim-t-113355"></a>
-- t-030
+- t-004
   global_id: t-113355
   teiginys: "Po 1830-1831 m. sukilimo Vilniaus universitetas buvo uždarytas."
   pagrindžia:
     - c-104627
 
 <a id="claim-t-113356"></a>
-- t-015
+- t-005
   global_id: t-113356
   teiginys: "Vilniaus universitetas tapo istorinės Lietuvos žemių visuomeninio ir kultūrinio gyvenimo centru."
   pagrindžia:
     - c-26837
 
 <a id="claim-t-113357"></a>
-- t-013
+- t-006
   global_id: t-113357
   teiginys: "Vilniaus universitetas buvo vienas seniausių Vidurio Europos universitetų."
   pagrindžia:
     - c-26835
 
 <a id="claim-t-113358"></a>
-- t-031
+- t-007
   global_id: t-113358
   teiginys: "Vilniaus universitetas tapo Vilniaus švietimo apygardos centru, kai į ją pateko buvusios LLV žemės ir 9 mln. gyventojų."
   pagrindžia:
     - c-26836
 
 <a id="claim-t-113359"></a>
-- t-024
+- t-008
   global_id: t-113359
   teiginys: "Michałas Balińskis 1812 m. rugsėjo 22 d. įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą."
   pagrindžia:
     - c-104618
 
 <a id="claim-t-113360"></a>
-- t-023
+- t-009
   global_id: t-113360
   teiginys: "Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai siekė plėtoti aukštąją kultūrą lietuvių kalba."
   pagrindžia:
     - c-104616
 
 <a id="claim-t-113361"></a>
-- t-025
+- t-010
   global_id: t-113361
   teiginys: "Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus."
   pagrindžia:
     - c-104627
 
 <a id="claim-t-113363"></a>
-- t-016
+- t-011
   global_id: t-113363
   teiginys: "1832 m. buvo nutarta uždaryti Vilniaus universitetą."
   pagrindžia:
     - c-26838
 
 <a id="claim-t-113365"></a>
-- t-032
+- t-012
   global_id: t-113365
   teiginys: "1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą."
   pagrindžia:
     - c-104626
 
 <a id="claim-t-113366"></a>
-- t-019
+- t-013
   global_id: t-113366
   teiginys: "Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai."
   pagrindžia:
@@ -172,28 +172,28 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-26836
 
 <a id="claim-t-113368"></a>
-- t-021
+- t-015
   global_id: t-113368
   teiginys: "Vilniaus universitetas buvo Vilniaus švietimo apygardos, apėmusios prie Rusijos prijungtas buvusios LLV žemes, centras."
   pagrindžia:
     - c-26836
 
 <a id="claim-t-113369"></a>
-- t-033
+- t-016
   global_id: t-113369
   teiginys: "1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė vylėsi atkurti Vilniaus universitetą."
   pagrindžia:
     - c-104624
 
 <a id="claim-t-113370"></a>
-- t-020
+- t-017
   global_id: t-113370
   teiginys: "Vilniaus universitetas pasiekė europinį mokslo ir studijų lygį ir buvo didžiausias Rusijos imperijoje."
   pagrindžia:
     - c-104625
 
 <a id="claim-t-113371"></a>
-- t-022
+- t-018
   global_id: t-113371
   teiginys: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“."
   pagrindžia:
@@ -207,14 +207,14 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
     - c-171250
 
 <a id="claim-t-193566"></a>
-- t-034
+- t-020
   global_id: t-193566
   teiginys: "Visos istorinės Lietuvos žemės visuomeninio ir kultūrinio gyvenimo centru tapo Vilniaus universitetas, tapęs iškiliausiu lenkų kultūros centru už etnografinės Lenkijos ribų."
   pagrindžia:
     - c-176245
 
 <a id="claim-t-194177"></a>
-- t-035
+- t-021
   global_id: t-194177
   teiginys: "G) Apie kai kuriuos Akademijai ir Valerijono bursai funduotus turtus • 1569 metų spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius po kolegijos įkūrimo ir atkvietimo į ją jėzuitų fundavo ir įsteigė įvairių mokslų viešąsias mokyklas."
   pagrindžia:

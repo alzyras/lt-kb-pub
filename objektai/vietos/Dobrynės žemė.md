@@ -45,14 +45,14 @@ Tačiau Gediminas, jei galiu taip sakyti, laiškų rašytojui padarė tikrą kia
 ## Teiginiai
 
 <a id="claim-t-195084"></a>
-- t-003
+- t-001
   global_id: t-195084
   teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos."
   pagrindžia:
     - c-177467
 
 <a id="claim-t-195085"></a>
-- t-001
+- t-002
   global_id: t-195085
   teiginys: "1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus."
   pagrindžia:

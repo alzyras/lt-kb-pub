@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87188"></a>
-- t-002
+- t-001
   global_id: t-87188
   teiginys: "1440 m. Kazimiero IV privilegija leido katalikams ir stačiatikiams Vilniaus miestiečiams laisvai prekiauti be muito visoje Lietuvos valstybėje."
   pagrindžia:
     - c-83167
 
 <a id="claim-t-87189"></a>
-- t-001
+- t-002
   global_id: t-87189
   teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:

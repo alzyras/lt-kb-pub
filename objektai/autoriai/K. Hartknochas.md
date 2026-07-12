@@ -43,14 +43,14 @@ Dusburgietis teigia, kad hartknochas (Karaliaučius, 1679 m.)82. Dusburgietis te
     - c-65334
 
 <a id="claim-t-64674"></a>
-- t-003
+- t-002
   global_id: t-64674
   teiginys: "K. Hartknochas, pirmasis Dusburgiečio kronikos leidėjas, manė, kad rutėnais vadinti Riugeno salos gyventojai."
   pagrindžia:
     - c-65333
 
 <a id="claim-t-64675"></a>
-- t-002
+- t-003
   global_id: t-64675
   teiginys: "Kristupas Hartknochas nurodytas kaip Petro Dusburgiečio „Prūsijos kronikos“ autorius ir rinkėjas."
   pagrindžia:

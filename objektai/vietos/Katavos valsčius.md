@@ -37,14 +37,14 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
 ## Teiginiai
 
 <a id="claim-t-58568"></a>
-- t-002
+- t-001
   global_id: t-58568
   teiginys: "Katavos valsčius lokalizuojamas Katinavos apylinkėse, o jo vardas siejamas su Katinava arba Katniava."
   pagrindžia:
     - c-59200
 
 <a id="claim-t-58569"></a>
-- t-001
+- t-002
   global_id: t-58569
   teiginys: "Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį."
   pagrindžia:

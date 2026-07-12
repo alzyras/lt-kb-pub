@@ -48,147 +48,147 @@ Dubysa šiame šaltinyje pasirodo kaip žygio į Žemaitiją maršruto upė, pil
 ## Teiginiai
 
 <a id="claim-t-179804"></a>
-- t-018
+- t-001
   global_id: t-179804
   teiginys: "Vytautas liepė atnaujinti pilis Dubysos ir Nemuno krantuose ir atstatyti sudegintą Veliuoną."
   pagrindžia:
     - c-163469
 
 <a id="claim-t-179806"></a>
-- t-029
+- t-002
   global_id: t-179806
   teiginys: "Dubysos žiočių saloje 1382 m. spalio 31 d. po šešių dienų derybų buvo surašytos trys sutartys."
   pagrindžia:
     - c-163460
 
 <a id="claim-t-179807"></a>
-- t-016
+- t-003
   global_id: t-179807
   teiginys: "Kryžiuočių viršininkas, Ordino kapitulai sutikus, pavedė Vytautui valdyti Naująją Marienburgo pilį prie Nemuno, žemiau Dubysos įtakos."
   pagrindžia:
     - c-37358
 
 <a id="claim-t-179808"></a>
-- t-014
+- t-004
   global_id: t-179808
   teiginys: "Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu."
   pagrindžia:
     - c-163458
 
 <a id="claim-t-179809"></a>
-- t-017
+- t-005
   global_id: t-179809
   teiginys: "Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala."
   pagrindžia:
     - c-163454
 
 <a id="claim-t-179810"></a>
-- t-028
+- t-006
   global_id: t-179810
   teiginys: "Vytautas Dubysos žiotyse, Seredžiuje, atstatė Peštvę, nuo XIX a. žinomą Palemono kalno vardu."
   pagrindžia:
     - c-163470
 
 <a id="claim-t-179819"></a>
-- t-020
+- t-007
   global_id: t-179819
   teiginys: "1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais."
   pagrindžia:
     - c-163456
 
 <a id="claim-t-179813"></a>
-- t-027
+- t-008
   global_id: t-179813
   teiginys: "Į Dubysos salą vyko magistras Konradas Zöllneris von Rotensteinas, komtūrai ir du vyskupai, turėję krikštyti lietuvių kunigaikščius."
   pagrindžia:
     - c-163464
 
 <a id="claim-t-179814"></a>
-- t-031
+- t-009
   global_id: t-179814
   teiginys: "Priešui įsiveržus į Dubysos aukštupį, buvo aktyvuotas antrasis gynybos variantas."
   pagrindžia:
     - c-163459
 
 <a id="claim-t-179815"></a>
-- t-005
+- t-010
   global_id: t-179815
   teiginys: "Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio."
   pagrindžia:
     - c-163474
 
 <a id="claim-t-179816"></a>
-- t-026
+- t-011
   global_id: t-179816
   teiginys: "Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m."
   pagrindžia:
     - c-163457
 
 <a id="claim-t-179817"></a>
-- t-010
+- t-012
   global_id: t-179817
   teiginys: "Po Peštvės ir Veliuonos pilių sunaikinimo 1363 m. Dubysos žemupyje, atrodo, buvo padaryta suverstų medžių užtvara."
   pagrindžia:
     - c-163457
 
 <a id="claim-t-179818"></a>
-- t-012
+- t-013
   global_id: t-179818
   teiginys: "Jogaila turėjo Prūsų kryžiuočiams užleisti Žemaičių plotą tarp Livonijos ir Prūsų iki Dubysos upės."
   pagrindžia:
     - c-163467
 
 <a id="claim-t-179819"></a>
-- t-020
+- t-014
   global_id: t-179819
   teiginys: "1382 m. lapkričio pradžioje Jogaila Dubysos upės salelėje sudarė paliaubas su kryžiuočiais."
   pagrindžia:
     - c-163456
 
 <a id="claim-t-179820"></a>
-- t-013
+- t-015
   global_id: t-179820
   teiginys: "Konradas Zöllneris von Rotensteinas su komtūrais ir dviem vyskupais išsirengė į Dubysos salą krikštyti lietuvių kunigaikščių."
   pagrindžia:
     - c-163464
 
 <a id="claim-t-179821"></a>
-- t-022
+- t-016
   global_id: t-179821
   teiginys: "Naujoji Marienburgo pilis stovėjo prie Nemuno, žemiau Dubysos įtakos."
   pagrindžia:
     - c-163472
 
 <a id="claim-t-179822"></a>
-- t-008
+- t-017
   global_id: t-179822
   teiginys: "Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius."
   pagrindžia:
     - c-163463
 
 <a id="claim-t-179823"></a>
-- t-011
+- t-018
   global_id: t-179823
   teiginys: "1382 m. spalio 31 d. Dubysos žiočių saloje po šešių dienų derybų buvo surašytos trys sutartys."
   pagrindžia:
     - c-163460
 
 <a id="claim-t-179824"></a>
-- t-023
+- t-019
   global_id: t-179824
   teiginys: "1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala."
   pagrindžia:
     - c-163454
 
 <a id="claim-t-179826"></a>
-- t-006
+- t-020
   global_id: t-179826
   teiginys: "Vytautas liepė atnaujinti Dubysos ir Nemuno krantuose pilis."
   pagrindžia:
     - c-163469
 
 <a id="claim-t-184949"></a>
-- t-032
+- t-021
   global_id: t-184949
   teiginys: "Prie Dubysos žiočių atvykėliai padėjo naujos sodybos, vėliau vadintos Romanova, pamatus."
   pagrindžia:

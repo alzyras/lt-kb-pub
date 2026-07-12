@@ -38,21 +38,21 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis.
 ## Teiginiai
 
 <a id="claim-t-72000"></a>
-- t-003
+- t-001
   global_id: t-72000
   teiginys: "Kazimiero laikai 1440–1492 m. Lietuvos istorijoje vadinami pereinamuoju laikotarpiu."
   pagrindžia:
     - c-46924
 
 <a id="claim-t-72001"></a>
-- t-001
+- t-002
   global_id: t-72001
   teiginys: "Kazimiero laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
   pagrindžia:
     - c-46924
 
 <a id="claim-t-72002"></a>
-- t-002
+- t-003
   global_id: t-72002
   teiginys: "Pereinamasis laikotarpis siejamas su didžiųjų kunigaikščių monarchijos irimu ir ponų įsigalėjimu."
   pagrindžia:

@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - dokumentas
+  - drabužis
   - ginklas
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

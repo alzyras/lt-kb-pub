@@ -42,14 +42,14 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
 ## Teiginiai
 
 <a id="claim-t-60029"></a>
-- t-002
+- t-001
   global_id: t-60029
   teiginys: "Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu."
   pagrindžia:
     - c-60662
 
 <a id="claim-t-60030"></a>
-- t-001
+- t-002
   global_id: t-60030
   teiginys: "Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą."
   pagrindžia:

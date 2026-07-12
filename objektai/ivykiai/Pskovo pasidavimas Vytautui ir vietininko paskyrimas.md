@@ -5,7 +5,8 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - politinis-sprendimas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,14 +54,14 @@ Nenurodyta
     - c-169891
 
 <a id="claim-t-186599"></a>
-- t-003
+- t-002
   global_id: t-186599
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas pasodino Pskove vietininku Pinsko kunigaikštį Jurijų, pramintą Nosimi."
   pagrindžia:
     - c-169891
 
 <a id="claim-t-186600"></a>
-- t-002
+- t-003
   global_id: t-186600
   teiginys: "Lietuvos metraštis pasakoja, kad pskoviečiai pasiuntė pas Vytautą pasiuntinius, pažadėjo jo klausyti, mokėti duoklę ir įsileisti vietininką."
   pagrindžia:

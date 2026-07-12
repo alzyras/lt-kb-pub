@@ -30,14 +30,14 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
 ## Teiginiai
 
 <a id="claim-t-40374"></a>
-- t-002
+- t-001
   global_id: t-40374
   teiginys: "Rusijos imperatorienė Jekaterina įsakė Rusijos pajėgų Lietuvoje vadui Nikolajui Repinui slopinti sukilimą."
   pagrindžia:
     - c-42172
 
 <a id="claim-t-40375"></a>
-- t-001
+- t-002
   global_id: t-40375
   teiginys: "Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas."
   pagrindžia:

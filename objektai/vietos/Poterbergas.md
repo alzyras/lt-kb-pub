@@ -59,7 +59,7 @@ Dusburgietis teigia, kad apie Poterbergo pilies pastatymą Brolis Poponas, magis
     - c-59102
 
 <a id="claim-t-58469"></a>
-- t-001
+- t-004
   global_id: t-58469
   teiginys: "Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują pilį, pramintą Poterbergu."
   pagrindžia:

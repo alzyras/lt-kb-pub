@@ -15,9 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karalius
   - kunigaikštis
-  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'
@@ -43,63 +43,63 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
 ## Teiginiai
 
 <a id="claim-t-72607"></a>
-- t-012
+- t-001
   global_id: t-72607
   teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi Ponų taryba ir seimai."
   pagrindžia:
     - c-46393
 
 <a id="claim-t-72608"></a>
-- t-015
+- t-002
   global_id: t-72608
   teiginys: "Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų."
   pagrindžia:
     - c-46391
 
 <a id="claim-t-72609"></a>
-- t-005
+- t-003
   global_id: t-72609
   teiginys: "Lenkijos ponų taryba prisidėjo prie 1398 m. protesto prieš Lietuvos ir Lenkijos santykių eigą ir buvo sumaniusi unijos reikalą."
   pagrindžia:
     - c-36928
 
 <a id="claim-t-72610"></a>
-- t-013
+- t-004
   global_id: t-72610
   teiginys: "Ponų taryba turėjo laisvę kalbėti, tačiau liko patariamasis organas, kurio sprendimai nevaržė didžiojo kunigaikščio."
   pagrindžia:
     - c-46391
 
 <a id="claim-t-72612"></a>
-- t-016
+- t-005
   global_id: t-72612
   teiginys: "Lietuvos ponų taryboje buvę kunigaikščiai ilgai reikalavo vietos senate, bet dėl Lietuvos ponų pasipriešinimo į jį nepateko."
   pagrindžia:
     - c-71014
 
 <a id="claim-t-72613"></a>
-- t-010
+- t-006
   global_id: t-72613
   teiginys: "Kazimiero viešpatavimo metu Ponų taryba sustiprėjo ir, išrinkusi Aleksandrą, pareikalavo nustatyti jos kompetencijos ribas."
   pagrindžia:
     - c-71013
 
 <a id="claim-t-72607"></a>
-- t-012
+- t-007
   global_id: t-72607
   teiginys: "Valstybės politikoje didįjį kunigaikštį varžė įsigalėjusi ponų taryba ir seimai."
   pagrindžia:
     - c-46393
 
 <a id="claim-t-72615"></a>
-- t-006
+- t-008
   global_id: t-72615
   teiginys: "Lenkų ponų taryba Radome garantavo, kad Vytautui nebus atimta Lietuvos didžioji kunigaikštija."
   pagrindžia:
     - c-36929
 
 <a id="claim-t-72616"></a>
-- t-011
+- t-009
   global_id: t-72616
   teiginys: "Ponų taryboje kiekvienam buvo suteikta laisvė kalbėti, o didysis kunigaikštis pasižadėjo nebausti už jam nemalonų patarimą."
   pagrindžia:
@@ -141,7 +141,7 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
     - c-170679
 
 <a id="claim-t-193844"></a>
-- t-017
+- t-015
   global_id: t-193844
   teiginys: "Paskui abi šalys su visais savo Tarybų ponais suvažiavo į Parčevą 6 dalyvauti sei me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki tais sumanė ir nutarė — visa tai paliko didelė paslap tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku vą ® , o."
   pagrindžia:

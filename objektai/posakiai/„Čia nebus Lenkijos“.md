@@ -38,14 +38,14 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 ## Teiginiai
 
 <a id="claim-t-75626"></a>
-- t-002
+- t-001
   global_id: t-75626
   teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
   pagrindžia:
     - c-73346
 
 <a id="claim-t-75627"></a>
-- t-001
+- t-002
   global_id: t-75627
   teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
   pagrindžia:

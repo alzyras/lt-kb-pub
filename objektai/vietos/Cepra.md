@@ -29,14 +29,14 @@ Cepra teka maždaug už 8 km į rytus nuo Klecko. Cepra įteka į Lanę apie 10 
 ## Teiginiai
 
 <a id="claim-t-187211"></a>
-- t-002
+- t-001
   global_id: t-187211
   teiginys: "Cepra įteka į Lanės upę iš kairės apie 10 km į pietryčius nuo Klecko."
   pagrindžia:
     - c-170282
 
 <a id="claim-t-187212"></a>
-- t-001
+- t-002
   global_id: t-187212
   teiginys: "Cepra teka maždaug už 8 km į rytus nuo Klecko."
   pagrindžia:

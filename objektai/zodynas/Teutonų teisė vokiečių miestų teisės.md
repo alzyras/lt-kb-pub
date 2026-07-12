@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - kraštas
   - miestas
-  - privilegija
   - sąvoka
+  - teisinė-praktika
 amziai:
   - 'XIII'
   - 'XIV'

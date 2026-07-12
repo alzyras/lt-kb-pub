@@ -38,21 +38,21 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
 ## Teiginiai
 
 <a id="claim-t-58512"></a>
-- t-004
+- t-001
   global_id: t-58512
   teiginys: "Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto."
   pagrindžia:
     - c-59146
 
 <a id="claim-t-58513"></a>
-- t-001
+- t-002
   global_id: t-58513
   teiginys: "Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių."
   pagrindžia:
     - c-59145
 
 <a id="claim-t-58514"></a>
-- t-002
+- t-003
   global_id: t-58514
   teiginys: "1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares."
   pagrindžia:

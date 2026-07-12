@@ -45,7 +45,7 @@ Dusburgietis teigia, kad šitai sužinojęs, brolis Valteris Goldinas, Brandenbu
     - c-167523
 
 <a id="claim-t-60458"></a>
-- t-001
+- t-002
   global_id: t-60458
   teiginys: "1300 m. Valteris Goldinas su ginklanešiais Notangoje pasivijo lietuvius ir nukovė visus, išskyrus tris."
   pagrindžia:

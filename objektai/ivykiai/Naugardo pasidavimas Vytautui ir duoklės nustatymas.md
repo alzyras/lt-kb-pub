@@ -45,14 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186601"></a>
-- t-002
+- t-001
   global_id: t-186601
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas Naugardo vietininku paskyrė savo svainį Simoną Alšėniškį, vadinamą Rūsčiuoju."
   pagrindžia:
     - c-169892
 
 <a id="claim-t-186602"></a>
-- t-001
+- t-002
   global_id: t-186602
   teiginys: "Lietuvos metraštis pasakoja, kad naugardiečiai pasižadėjo tarnauti Vytautui, duoti duoklę ir laikyti jį savo valdovu."
   pagrindžia:

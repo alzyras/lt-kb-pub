@@ -28,35 +28,35 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 ## Teiginiai
 
 <a id="claim-t-185977"></a>
-- t-002
+- t-001
   global_id: t-185977
   teiginys: "Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą."
   pagrindžia:
     - c-169338
 
 <a id="claim-t-185978"></a>
-- t-003
+- t-002
   global_id: t-185978
   teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
   pagrindžia:
     - c-169339
 
 <a id="claim-t-185979"></a>
-- t-004
+- t-003
   global_id: t-185979
   teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
   pagrindžia:
     - c-169340
 
 <a id="claim-t-193405"></a>
-- t-005
+- t-004
   global_id: t-193405
   teiginys: "Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos."
   pagrindžia:
     - c-176127
 
 <a id="claim-t-194004"></a>
-- t-006
+- t-005
   global_id: t-194004
   teiginys: "Vyriausias—Jogaila Vladislovas1 8 ; antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 ."
   pagrindžia:

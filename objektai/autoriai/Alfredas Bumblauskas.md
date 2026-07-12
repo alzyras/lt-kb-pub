@@ -44,21 +44,21 @@ Alfredas Bumblauskas minimas kaip recenzentas ir straipsnio autorius ankstesniam
 ## Teiginiai
 
 <a id="claim-t-169883"></a>
-- t-010
+- t-001
   global_id: t-169883
   teiginys: "2013 m. leidime nurodytos Alfredo Bumblausko autorių teisės."
   pagrindžia:
     - c-26849
 
 <a id="claim-t-169884"></a>
-- t-013
+- t-002
   global_id: t-169884
   teiginys: "Alfredas Bumblauskas buvo vienas iš 2013 m. leidinio „Lietuvos istorija“ autorių."
   pagrindžia:
     - c-26849
 
 <a id="claim-t-169885"></a>
-- t-014
+- t-003
   global_id: t-169885
   teiginys: "A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose."
   pagrindžia:

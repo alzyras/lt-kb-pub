@@ -59,14 +59,14 @@ Nenurodyta
     - c-83005
 
 <a id="claim-t-87025"></a>
-- t-003
+- t-002
   global_id: t-87025
   teiginys: "Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis."
   pagrindžia:
     - c-83004
 
 <a id="claim-t-87026"></a>
-- t-002
+- t-003
   global_id: t-87026
   teiginys: "Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius."
   pagrindžia:

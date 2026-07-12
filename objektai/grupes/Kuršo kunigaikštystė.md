@@ -41,35 +41,35 @@ Po ilgų ginčų buvo sutarta, kad Livonija ir Kuršo kunigaikštija bus laikomo
 ## Teiginiai
 
 <a id="claim-t-71644"></a>
-- t-006
+- t-001
   global_id: t-71644
   teiginys: "Po ilgų ginčų sutarta, kad Livonija ir Kuršo kunigaikštystė bus laikomos lygiai priklausančiomis Lietuvai ir Lenkijai."
   pagrindžia:
     - c-46335
 
 <a id="claim-t-71645"></a>
-- t-001
+- t-002
   global_id: t-71645
   teiginys: "1561 m. nustojus egzistuoti Livonijos konfederacijai, Kuršo kunigaikštystė buvo viena iš dviejų kunigaikštysčių, atitekusių Lietuvai."
   pagrindžia:
     - c-42754
 
 <a id="claim-t-71646"></a>
-- t-002
+- t-003
   global_id: t-71646
   teiginys: "Po Liublino unijos Kuršo kunigaikštystė buvo pripažinta bendra Lenkijos ir LDK valda."
   pagrindžia:
     - c-42755
 
 <a id="claim-t-71647"></a>
-- t-005
+- t-004
   global_id: t-71647
   teiginys: "Po Liublino unijos Livonijos ir Kuršo kunigaikštystės buvo pripažintos bendromis Lenkijos ir LDK valdomis."
   pagrindžia:
     - c-42755
 
 <a id="claim-t-71648"></a>
-- t-004
+- t-005
   global_id: t-71648
   teiginys: "1561 m. Livonijos konfederacijai nustojus egzistuoti, Kuršo ir Livonijos kunigaikštystės atiteko Lietuvai."
   pagrindžia:

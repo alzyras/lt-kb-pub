@@ -7,8 +7,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - miestas
-  - privilegija
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''

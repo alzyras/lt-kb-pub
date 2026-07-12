@@ -9,7 +9,8 @@ date_start: '1926'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["elekcija", "politinis-sprendimas"]
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -56,28 +57,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45334"></a>
-- t-010
+- t-001
   global_id: t-45334
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo."
   pagrindžia:
     - c-22939
 
 <a id="claim-t-45335"></a>
-- t-011
+- t-002
   global_id: t-45335
   teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo."
   pagrindžia:
     - c-48202
 
 <a id="claim-t-45336"></a>
-- t-008
+- t-003
   global_id: t-45336
   teiginys: "1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas."
   pagrindžia:
     - c-22939
 
 <a id="claim-t-45337"></a>
-- t-009
+- t-004
   global_id: t-45337
   teiginys: "1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai."
   pagrindžia:

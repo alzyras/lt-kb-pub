@@ -67,42 +67,42 @@ Ksaveras Bogušas pristatomas kaip iš Lietuvos kilęs kunigas ir teologas, kuri
     - c-73208
 
 <a id="claim-t-188438"></a>
-- t-005
+- t-004
   global_id: t-188438
   teiginys: "Narbutas išnašoje nurodo kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę kaip šaltinį lietuviškiems žemdirbystės žodžiams."
   pagrindžia:
     - c-171328
 
 <a id="claim-t-188439"></a>
-- t-006
+- t-005
   global_id: t-188439
   teiginys: "Narbutas Girysčio, miško dievaičio ir miškų baidyklės, vardą kildina iš Ksavero Bogušo pastebėjimų."
   pagrindžia:
     - c-171329
 
 <a id="claim-t-188440"></a>
-- t-007
+- t-006
   global_id: t-188440
   teiginys: "Narbutas pateikia Ksavero Bogušo išverstą Ovidijaus „Metamorfozių“ II knygos 1-30 eilučių fragmentą kaip bandymą kurti gryna lietuvių kalba."
   pagrindžia:
     - c-171330
 
 <a id="claim-t-190753"></a>
-- t-008
+- t-007
   global_id: t-190753
   teiginys: "Narbutas rašo, kad Ksaveras Bogušas lietuvių gentis šiose žemėse priskyrė estams, remdamasis Etiko „Kosmografija“."
   pagrindžia:
     - c-173635
 
 <a id="claim-t-190754"></a>
-- t-009
+- t-008
   global_id: t-190754
   teiginys: "Ksaveras Bogušas poloviečius priskyrė lietuvių genties tautoms, remdamasis Kojalavičiaus prielaidomis."
   pagrindžia:
     - c-173636
 
 <a id="claim-t-194665"></a>
-- t-010
+- t-009
   global_id: t-194665
   teiginys: "Ksaveras Bogušas savo studijoje, 145 puslapyje, Vulkaną lietuviškai vadina Jagaubis."
   pagrindžia:

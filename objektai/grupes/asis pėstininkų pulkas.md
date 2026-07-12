@@ -30,14 +30,14 @@ Dešiniąją koloną sudarė 1-ojo pėstininkų pulko du batalionai, raitųjų �
 ## Teiginiai
 
 <a id="claim-t-80634"></a>
-- t-002
+- t-001
   global_id: t-80634
   teiginys: "Vakare, 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni Pirmojo pasaulinio karo vokiečių apkasai."
   pagrindžia:
     - c-77333
 
 <a id="claim-t-80635"></a>
-- t-001
+- t-002
   global_id: t-80635
   teiginys: "1-ojo pėstininkų pulko du batalionai įėjo į dešiniąją koloną, kuriai vadovavo Ladyga."
   pagrindžia:

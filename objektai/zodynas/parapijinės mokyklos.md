@@ -35,14 +35,14 @@ Mat, lig šiol savų parapijinių mokyklų teturi vos pusė lietuviškųjų para
 ## Teiginiai
 
 <a id="claim-t-72712"></a>
-- t-002
+- t-001
   global_id: t-72712
   teiginys: "Lietuvių kunigų sąjungai Amerikoje svarbus rūpestis buvo mokyklų steigimas."
   pagrindžia:
     - c-71093
 
 <a id="claim-t-72713"></a>
-- t-001
+- t-002
   global_id: t-72713
   teiginys: "Amerikoje lietuvių mokyklų skaičius nuo apie 30 mokyklų 1919 m. išaugo iki 72, o daugumą jų išlaikė parapijos."
   pagrindžia:

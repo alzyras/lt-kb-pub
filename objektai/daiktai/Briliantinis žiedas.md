@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192059"></a>
-- t-002
+- t-001
   global_id: t-192059
   teiginys: "1839 m. T. Narbutas, nusiuntęs penkis savo istorijos veikalo tomus Rusijos imperatoriui, gavo briliantinį žiedą, įvertintą 1000 aukso rublių."
   pagrindžia:
     - c-170993
 
 <a id="claim-t-192060"></a>
-- t-003
+- t-002
   global_id: t-192060
   teiginys: "Istorikas 1839 m. gavo Rusijos imperatoriaus dovanotą briliantinį žiedą."
   pagrindžia:
     - c-174930
 
 <a id="claim-t-192061"></a>
-- t-004
+- t-003
   global_id: t-192061
   teiginys: "Narbutas 1839 m. gavo Jo Didenybės Imperatoriaus dovanotą briliantinį žiedą, galėjusį atgaivinti viltį išleisti rusiškąjį variantą."
   pagrindžia:

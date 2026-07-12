@@ -41,21 +41,21 @@ Jogailos siekius pata­ rimais rėmė ir, naudodamasis savo įtaka, dar skatino 
 ## Teiginiai
 
 <a id="claim-t-87462"></a>
-- t-003
+- t-001
   global_id: t-87462
   teiginys: "Dubrovno pavietas kadaise buvo Jogailos patikėtinio Vaidilos nuosavybė."
   pagrindžia:
     - c-83443
 
 <a id="claim-t-87463"></a>
-- t-001
+- t-002
   global_id: t-87463
   teiginys: "Bajoras Vaidila patarimais rėmė Jogailos siekius ir savo įtaka juos skatino."
   pagrindžia:
     - c-83441
 
 <a id="claim-t-87464"></a>
-- t-002
+- t-003
   global_id: t-87464
   teiginys: "Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju."
   pagrindžia:

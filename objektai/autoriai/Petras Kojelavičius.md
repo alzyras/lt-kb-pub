@@ -36,28 +36,28 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
 ## Teiginiai
 
 <a id="claim-t-88013"></a>
-- t-004
+- t-001
   global_id: t-88013
   teiginys: "Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis."
   pagrindžia:
     - c-83992
 
 <a id="claim-t-88014"></a>
-- t-003
+- t-002
   global_id: t-88014
   teiginys: "Petras Kojelavičius vyskupui Motiejui priskyrė 1417-1453 m. vyskupavimo laikotarpį."
   pagrindžia:
     - c-83995
 
 <a id="claim-t-88015"></a>
-- t-001
+- t-003
   global_id: t-88015
   teiginys: "Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams."
   pagrindžia:
     - c-83994
 
 <a id="claim-t-88016"></a>
-- t-002
+- t-004
   global_id: t-88016
   teiginys: "Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“."
   pagrindžia:

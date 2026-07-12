@@ -38,7 +38,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 ## Teiginiai
 
 <a id="claim-t-69878"></a>
-- t-003
+- t-001
   global_id: t-69878
   teiginys: "Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų."
   pagrindžia:

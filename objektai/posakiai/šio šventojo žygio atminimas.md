@@ -13,6 +13,7 @@ tags:
   - ordinas
   - pinigai
   - posakis
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

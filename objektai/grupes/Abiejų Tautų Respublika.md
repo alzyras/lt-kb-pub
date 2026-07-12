@@ -75,21 +75,21 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
 ## Teiginiai
 
 <a id="claim-t-80769"></a>
-- t-028
+- t-001
   global_id: t-80769
   teiginys: "1797 m. Peterburgo konvencija patvirtino trečiąjį Abiejų Tautų Respublikos padalijimą ir panaikino jos valstybingumo likučius."
   pagrindžia:
     - c-26828
 
 <a id="claim-t-80770"></a>
-- t-034
+- t-002
   global_id: t-80770
   teiginys: "1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu."
   pagrindžia:
     - c-77420
 
 <a id="claim-t-80771"></a>
-- t-021
+- t-003
   global_id: t-80771
   teiginys: "1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką."
   pagrindžia:
@@ -97,14 +97,14 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26824
 
 <a id="claim-t-80772"></a>
-- t-027
+- t-004
   global_id: t-80772
   teiginys: "1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti."
   pagrindžia:
     - c-26827
 
 <a id="claim-t-80773"></a>
-- t-023
+- t-005
   global_id: t-80773
   teiginys: "Abiejų Tautų Respublika buvo sunaikinta trimis XVIII a. pabaigos padalijimais, kuriuose dalyvavo Rusija, Austrija ir Prūsija."
   pagrindžia:
@@ -113,84 +113,84 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
     - c-26828
 
 <a id="claim-t-80774"></a>
-- t-032
+- t-006
   global_id: t-80774
   teiginys: "Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
   pagrindžia:
     - c-77418
 
 <a id="claim-t-80775"></a>
-- t-022
+- t-007
   global_id: t-80775
   teiginys: "Abiejų Tautų Respublika XVII-XVIII a. siejama su duonos, tolerancijos, demokratijos, konstitucijos ir baroko fenomenais."
   pagrindžia:
     - c-26822
 
 <a id="claim-t-80776"></a>
-- t-033
+- t-008
   global_id: t-80776
   teiginys: "Oficialus Liublino unijos sukurtos jungtinės valstybės pavadinimas buvo Abiejų Tautų Respublika."
   pagrindžia:
     - c-77421
 
 <a id="claim-t-80777"></a>
-- t-026
+- t-009
   global_id: t-80777
   teiginys: "1791 m. Abiejų Tautų tarpusavio įžadas grąžino valstybės dualizmo, arba federacijos, principą."
   pagrindžia:
     - c-26826
 
 <a id="claim-t-80778"></a>
-- t-031
+- t-010
   global_id: t-80778
   teiginys: "1569 m. Liublino unija sukūrė jungtinę valstybę – Abiejų Tautų Respubliką."
   pagrindžia:
     - c-26824
 
 <a id="claim-t-80779"></a>
-- t-024
+- t-011
   global_id: t-80779
   teiginys: "1569 m. Liublino unija sukūrė Abiejų Tautų Respubliką, vadinamą originaliu valstybių junginiu ir kartais laikomą Europos Sąjungos pirmtaku."
   pagrindžia:
     - c-26824
 
 <a id="claim-t-80780"></a>
-- t-025
+- t-012
   global_id: t-80780
   teiginys: "Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika."
   pagrindžia:
     - c-26825
 
 <a id="claim-t-80781"></a>
-- t-035
+- t-013
   global_id: t-80781
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, pavadintą Abiejų Tautų tarpusavio įžadu."
   pagrindžia:
     - c-26826
 
 <a id="claim-t-80782"></a>
-- t-030
+- t-014
   global_id: t-80782
   teiginys: "Abiejų Tautų Respublika per Gdanską aprūpino Vakarus javais ir sukūrė religinės tolerancijos bei bajoriškosios demokratijos tradiciją."
   pagrindžia:
     - c-26823
 
 <a id="claim-t-80783"></a>
-- t-029
+- t-015
   global_id: t-80783
   teiginys: "Zigmantas III Vaza 1587 m. buvo išrinktas Abiejų Tautų Respublikos valdovu."
   pagrindžia:
     - c-42627
 
 <a id="claim-t-193310"></a>
-- t-036
+- t-016
   global_id: t-193310
   teiginys: "Žymesnieji buržuazinės istoriografijos atstovai, lai kydamiesi tokios didžiavalstybinės pažiūros, vadino Lietuvą valstybe, o uolų feodalinio imuniteto saugoji mą vaizdavo kaip valstybės ar net tautos reikalų gy nimą."
   pagrindžia:
     - c-176038
 
 <a id="claim-t-194171"></a>
-- t-037
+- t-017
   global_id: t-194171
   teiginys: "Ir beveik jau būtų prasidėję didelės riau šės ir sumaištis, negalėdami jų jokiu kitu būdu išvengti ir atsižvelgdami į tai, kad mūsų tauta tokia netvarka neaptu rėtų kokios nors gėdos prieš pašalinius žmones ir mūsų mi rusiam valdovui nešlovė nekiltų, be to."
   pagrindžia:

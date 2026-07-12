@@ -39,63 +39,63 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 ## Teiginiai
 
 <a id="claim-t-82428"></a>
-- t-002
+- t-001
   global_id: t-82428
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris sustiprino abiejų pilių įgulas."
   pagrindžia:
     - c-78906
 
 <a id="claim-t-82429"></a>
-- t-005
+- t-002
   global_id: t-82429
   teiginys: "Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   pagrindžia:
     - c-78907
 
 <a id="claim-t-82430"></a>
-- t-001
+- t-003
   global_id: t-82430
   teiginys: "1390 m. Jonas Olesnickis užėmė Maskoževskio vietą ir pasirodė kaip kariuomenės vadas."
   pagrindžia:
     - c-78904
 
 <a id="claim-t-82431"></a>
-- t-006
+- t-004
   global_id: t-82431
   teiginys: "Jogaila Vilniaus seniūno pareigas pavedė Jonui Olesnickiui, kuris gerokai sustiprino abiejų pilių įgulas."
   pagrindžia:
     - c-78906
 
 <a id="claim-t-82432"></a>
-- t-008
+- t-005
   global_id: t-82432
   teiginys: "Jonas Olesnickis su visa įgula netikėtai užpuolė vokiečius ir sudavė jiems skaudų smūgį."
   pagrindžia:
     - c-78905
 
 <a id="claim-t-82433"></a>
-- t-003
+- t-006
   global_id: t-82433
   teiginys: "Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį."
   pagrindžia:
     - c-78910
 
 <a id="claim-t-82434"></a>
-- t-009
+- t-007
   global_id: t-82434
   teiginys: "Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą."
   pagrindžia:
     - c-78907
 
 <a id="claim-t-82433"></a>
-- t-003
+- t-008
   global_id: t-82433
   teiginys: "Jonas Olesnickis, gelbėdamas Vilniaus pilis, liepė sudeginti likusius miesto namus, o jų gyventojus iškeldino į Žemutinę pilį."
   pagrindžia:
     - c-78910
 
 <a id="claim-t-82436"></a>
-- t-004
+- t-009
   global_id: t-82436
   teiginys: "Jonas Olesnickis su įgula surengė netikėtą išpuolį prieš vokiečius ir sudavė jiems skaudų smūgį."
   pagrindžia:

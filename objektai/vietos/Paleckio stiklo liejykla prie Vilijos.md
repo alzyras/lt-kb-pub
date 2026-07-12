@@ -38,7 +38,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
 ## Teiginiai
 
 <a id="claim-t-86026"></a>
-- t-003
+- t-001
   global_id: t-86026
   teiginys: "Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės."
   pagrindžia:
@@ -52,7 +52,7 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
     - c-82005
 
 <a id="claim-t-86028"></a>
-- t-001
+- t-003
   global_id: t-86028
   teiginys: "Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus."
   pagrindžia:

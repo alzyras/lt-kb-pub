@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - karalius
   - kunigaikštis
+  - teisinė-praktika
   - vieta
 amziai:
   - 'XVI'

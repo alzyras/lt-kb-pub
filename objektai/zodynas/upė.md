@@ -40,14 +40,14 @@ Etymologinis žodžio ir upėvardžio aiškinimas, kai autorius gretina lietuvi�
 ## Teiginiai
 
 <a id="claim-t-192230"></a>
-- t-004
+- t-001
   global_id: t-192230
   teiginys: "Teodoro Narbuto aiškinime terminas „Upe“ vartojamas Lela-Upe ir Anger-Upe upėvardžiams sieti su lietuvių žeme."
   pagrindžia:
     - c-175077
 
 <a id="claim-t-192579"></a>
-- t-005
+- t-002
   global_id: t-192579
   teiginys: "Teodoras Narbutas rašo, kad Leela-Uppe šiandien nežinoma, bet galėjo būti kuri nors į Engūrės ežerą įtekanti upė."
   pagrindžia:

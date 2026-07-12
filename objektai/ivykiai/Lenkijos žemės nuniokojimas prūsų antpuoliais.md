@@ -63,21 +63,21 @@ Nenurodyta
     - c-66853
 
 <a id="claim-t-66657"></a>
-- t-003
+- t-002
   global_id: t-66657
   teiginys: "Rašydamas apie 250 sudegintų parapinių bažnyčių Konrado valdose, Dusburgietis veikiausiai perdėjo prūsų padarytų nuostolių mastą."
   pagrindžia:
     - c-66852
 
 <a id="claim-t-66655"></a>
-- t-001
+- t-003
   global_id: t-66655
   teiginys: "Prūsai kelis kartus didelėmis jėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išsivarė moteris bei vaikus."
   pagrindžia:
     - c-66853
 
 <a id="claim-t-194400"></a>
-- t-005
+- t-004
   global_id: t-194400
   teiginys: "Apie Lenkijos žemės nuniokojimą Kadangi minėtasis kunigaikštis pačioje pradžioje jiems nedavė deramo atkirčio ir nesiėmė prieš žiaurius jų išpuolius bei kėslus tinkamiausio vaisto, jie, darydamiesi vis įžūlesni, keletą kartų užpuolė Lenkijos žemę su didelėmis."
   pagrindžia:

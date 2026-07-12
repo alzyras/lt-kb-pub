@@ -53,42 +53,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71779"></a>
-- t-004
+- t-001
   global_id: t-71779
   teiginys: "Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį."
   pagrindžia:
     - c-11949
 
 <a id="claim-t-71780"></a>
-- t-006
+- t-002
   global_id: t-71780
   teiginys: "1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų."
   pagrindžia:
     - c-11951
 
 <a id="claim-t-71781"></a>
-- t-005
+- t-003
   global_id: t-71781
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime rašyta, kad per Žuvinto Palių operaciją nukauta 17 partizanų."
   pagrindžia:
     - c-11951
 
 <a id="claim-t-71782"></a>
-- t-008
+- t-004
   global_id: t-71782
   teiginys: "Alytaus NKVD 1945 m. rugpjūčio 18 d. slaptame pranešime J. Bartašiūnui rašyta, kad per operaciją nukauta 17 partizanų."
   pagrindžia:
     - c-11951
 
 <a id="claim-t-71783"></a>
-- t-007
+- t-005
   global_id: t-71783
   teiginys: "Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą."
   pagrindžia:
     - c-11949
 
 <a id="claim-t-71783"></a>
-- t-007
+- t-006
   global_id: t-71783
   teiginys: "Žuvinto Palių kautynėse enkavėdistai, pritrūkę valčių, kluonų durimis kaip plaustais plaukė per ežerą."
   pagrindžia:

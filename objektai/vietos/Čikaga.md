@@ -16,6 +16,7 @@ tags:
   - karas
   - seimas
   - vieta
+  - šeima
 amziai:
   - 'XIX'
   - 'XX'
@@ -41,14 +42,14 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
 ## Teiginiai
 
 <a id="claim-t-77709"></a>
-- t-004
+- t-001
   global_id: t-77709
   teiginys: "1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių."
   pagrindžia:
     - c-75044
 
 <a id="claim-t-77710"></a>
-- t-001
+- t-002
   global_id: t-77710
   teiginys: "Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai."
   pagrindžia:
@@ -62,7 +63,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
     - c-24619
 
 <a id="claim-t-77712"></a>
-- t-002
+- t-004
   global_id: t-77712
   teiginys: "1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą."
   pagrindžia:

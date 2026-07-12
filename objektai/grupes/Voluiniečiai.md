@@ -37,14 +37,14 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 ## Teiginiai
 
 <a id="claim-t-52464"></a>
-- t-002
+- t-001
   global_id: t-52464
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais."
   pagrindžia:
     - c-46415
 
 <a id="claim-t-52465"></a>
-- t-001
+- t-002
   global_id: t-52465
   teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
   pagrindžia:

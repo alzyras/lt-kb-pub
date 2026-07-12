@@ -8,7 +8,7 @@ atnaujinta: ''
 tags:
   - miestas
   - pilis
-  - privilegija
+  - teisinė-praktika
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -32,14 +32,14 @@ Tuo metu pirmą kartą miesto lėšomis pastatyta vieša pirtis, ir jos pelnas m
 ## Teiginiai
 
 <a id="claim-t-86123"></a>
-- t-002
+- t-001
   global_id: t-86123
   teiginys: "Jonui Hozijui buvo leista atvesti ir nuolat turėti vandenį jo namuose Vokiečių gatvėje."
   pagrindžia:
     - c-82103
 
 <a id="claim-t-86124"></a>
-- t-001
+- t-002
   global_id: t-86124
   teiginys: "Iš turgaus centro pašalintos mėsinės buvo perkeltos prie Vokiečių gatvės."
   pagrindžia:

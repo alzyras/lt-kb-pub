@@ -46,14 +46,14 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
     - c-22413
 
 <a id="claim-t-74135"></a>
-- t-003
+- t-002
   global_id: t-74135
   teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai neskelbti, remiantis rengiamu plebiscitu."
   pagrindžia:
     - c-22415
 
 <a id="claim-t-74136"></a>
-- t-004
+- t-003
   global_id: t-74136
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
   pagrindžia:

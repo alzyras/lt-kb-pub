@@ -48,21 +48,21 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
     - c-59012
 
 <a id="claim-t-58380"></a>
-- t-003
+- t-002
   global_id: t-58380
   teiginys: "1316 m. Fridrichas iš Libencelės prie Bisenės pilies išžudė lietuvių sargybos pamainą, išskyrus penkis pabėgusius vyrus."
   pagrindžia:
     - c-59013
 
 <a id="claim-t-58381"></a>
-- t-004
+- t-003
   global_id: t-58381
   teiginys: "1316 m. balandžio 4 d. Ditrichas iš Altenburgo, Fridrichas Kvicas ir dar vienas brolis su Ragainės ginklanešiais sudegino tuščią Bisenės pilį iki pamatų."
   pagrindžia:
     - c-59014
 
 <a id="claim-t-58382"></a>
-- t-002
+- t-004
   global_id: t-58382
   teiginys: "1313 m. rudenį Henrikas su broliais ir Sembos bei Notangos vyrais puolė Bisenės pilį, o per kovas sudegė abu jos papiliai."
   pagrindžia:

@@ -13,6 +13,7 @@ tags:
   - grupe
   - seimas
   - sutartis
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

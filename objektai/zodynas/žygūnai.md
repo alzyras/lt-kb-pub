@@ -7,6 +7,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - kunigaikštis
   - sąvoka
 media_total_count: '0'

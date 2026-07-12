@@ -41,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-05384"></a>
-- t-002
+- t-001
   global_id: t-05384
   teiginys: "Algirdas paskelbė, kad visa Rusia savaime turėtų priklausyti lietuviams."
   pagrindžia:
     - c-05503
 
 <a id="claim-t-05385"></a>
-- t-003
+- t-002
   global_id: t-05385
   teiginys: "Lotyniška formulė „Omnis Russia ad Letwinos deberet simpliciter pertinere“ reiškė, kad visa Rusia turėtų priklausyti lietuviams."
   pagrindžia:

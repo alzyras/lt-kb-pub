@@ -29,7 +29,7 @@ Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvan
 ## Teiginiai
 
 <a id="claim-t-187305"></a>
-- t-004
+- t-001
   global_id: t-187305
   teiginys: "Raudonasis tvenkinys susidarė į šiaurę nuo Pinsko–Klecko vieškelio dėl sankasos, kirtusios Lanės upę ir jos slėnį."
   pagrindžia:
@@ -43,14 +43,14 @@ Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvan
     - c-170343
 
 <a id="claim-t-187307"></a>
-- t-001
+- t-003
   global_id: t-187307
   teiginys: "Lietuvos kariuomenė įsirengė du perėjimus abipus Raudonojo tvenkinio užtvankos."
   pagrindžia:
     - c-170343
 
 <a id="claim-t-187308"></a>
-- t-003
+- t-004
   global_id: t-187308
   teiginys: "Raudonasis tvenkinys buvo Lanės upės praplatėjimas ties Klecku, į vakarus nuo miestelio."
   pagrindžia:

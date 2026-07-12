@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - saltinis
+  - teisinė-praktika
 amziai:
   - 'XVI'
   - 'XIX'

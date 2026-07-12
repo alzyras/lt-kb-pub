@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187986"></a>
-- t-004
+- t-001
   global_id: t-187986
   teiginys: "Narbutas su tokiu nelaimingu ženklu sieja iškilmingą Apidomės šaukimąsi, duonos auką ir namo perkėlimą į kitą vietą."
   pagrindžia:
     - c-170998
 
 <a id="claim-t-187987"></a>
-- t-003
+- t-002
   global_id: t-187987
   teiginys: "Narbutas rašo, kad aklo arba ydingai gimusio naminio gyvulio atvejį lietuviai laikė nelaimingu ženklu."
   pagrindžia:

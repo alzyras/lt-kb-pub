@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62948"></a>
-- t-002
+- t-001
   global_id: t-62948
   teiginys: "Verneris nuo 1313 m. buvo Ragainės komtūras, o nuo 1324 m. tapo didžiuoju magistru, kuriam Dusburgietis įteikė savo veikalą."
   pagrindžia:

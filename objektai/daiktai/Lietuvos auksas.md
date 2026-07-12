@@ -63,14 +63,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-13782"></a>
-- t-005
+- t-001
   global_id: t-13782
   teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
   pagrindžia:
     - c-16909
 
 <a id="claim-t-13782"></a>
-- t-005
+- t-002
   global_id: t-13782
   teiginys: "Iš užsienyje laikyto Lietuvos aukso pasisavintas tik Švedijos ir Šveicarijos bankuose saugotas auksas."
   pagrindžia:

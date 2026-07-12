@@ -43,28 +43,28 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
 ## Teiginiai
 
 <a id="claim-t-84434"></a>
-- t-003
+- t-001
   global_id: t-84434
   teiginys: "1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas."
   pagrindžia:
     - c-80598
 
 <a id="claim-t-184191"></a>
-- t-004
+- t-002
   global_id: t-184191
   teiginys: "Nuniokojus Lenkijos žemę, kunigaikščiui prie Vyslos liko viena pilis, vadinama Plocku."
   pagrindžia:
     - c-167576
 
 <a id="claim-t-185086"></a>
-- t-005
+- t-003
   global_id: t-185086
   teiginys: "Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju."
   pagrindžia:
     - c-168447
 
 <a id="claim-t-192720"></a>
-- t-006
+- t-004
   global_id: t-192720
   teiginys: "Divonio kelionės aprašymas siejamas su rankraščiu, atitekusiu Plocko katedros klebonui Jaroslavui arba rastu jo kronikoje."
   pagrindžia:

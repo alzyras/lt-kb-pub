@@ -39,14 +39,14 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
 ## Teiginiai
 
 <a id="claim-t-23254"></a>
-- t-002
+- t-001
   global_id: t-23254
   teiginys: "Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas."
   pagrindžia:
     - c-65427
 
 <a id="claim-t-23255"></a>
-- t-003
+- t-002
   global_id: t-23255
   teiginys: "Bibliografijoje Lopata R. siejamas su veikalu „Lietuvos valstybingumo raida 1914–1918 metais“."
   pagrindžia:

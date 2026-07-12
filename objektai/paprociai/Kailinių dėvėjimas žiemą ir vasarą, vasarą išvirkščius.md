@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07770"></a>
-- t-002
+- t-001
   global_id: t-07770
   teiginys: "Graikai šiaurėje gyvenusius žmones vadino skitais arba kailinuočiais, nes jie žiemą ir vasarą dėvėdavo kailinius."
   pagrindžia:

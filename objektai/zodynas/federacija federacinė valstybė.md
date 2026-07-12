@@ -40,35 +40,35 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
 ## Teiginiai
 
 <a id="claim-t-101584"></a>
-- t-002
+- t-001
   global_id: t-101584
   teiginys: "Pageidauta Lenkijos ir Lietuvos federacija nesusikūrė, o lietuviai iš lenkų galėjo tikėtis tik siauresnių etnografinių ribų Lietuvos."
   pagrindžia:
     - c-24827
 
 <a id="claim-t-101585"></a>
-- t-003
+- t-002
   global_id: t-101585
   teiginys: "1921 m. Sąjungininkai Vilniaus klausimą ir Lietuvos bei Lenkijos priešpriešą siekė sureguliuoti federacijos būdu."
   pagrindžia:
     - c-24828
 
 <a id="claim-t-101586"></a>
-- t-001
+- t-003
   global_id: t-101586
   teiginys: "Po unijos LDK išlaikė atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą."
   pagrindžia:
     - c-24826
 
 <a id="claim-t-101587"></a>
-- t-005
+- t-004
   global_id: t-101587
   teiginys: "Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi."
   pagrindžia:
     - c-95101
 
 <a id="claim-t-101588"></a>
-- t-004
+- t-005
   global_id: t-101588
   teiginys: "P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą."
   pagrindžia:

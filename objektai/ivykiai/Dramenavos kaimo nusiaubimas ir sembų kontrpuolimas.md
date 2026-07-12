@@ -46,21 +46,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89359"></a>
-- t-003
+- t-001
   global_id: t-89359
   teiginys: "Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui."
   pagrindžia:
     - c-85311
 
 <a id="claim-t-89360"></a>
-- t-001
+- t-002
   global_id: t-89360
   teiginys: "Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai."
   pagrindžia:
     - c-85312
 
 <a id="claim-t-89361"></a>
-- t-002
+- t-003
   global_id: t-89361
   teiginys: "Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką."
   pagrindžia:

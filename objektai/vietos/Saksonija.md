@@ -42,28 +42,28 @@ Lietuvos pasieny, o iš kitos pusės, nuo Lenkijos netolimoje Saksonijoje, jis b
 ## Teiginiai
 
 <a id="claim-t-174024"></a>
-- t-005
+- t-001
   global_id: t-174024
   teiginys: "Saksonija buvo nuo Lenkijos netolima teritorija."
   pagrindžia:
     - c-158261
 
 <a id="claim-t-174025"></a>
-- t-004
+- t-002
   global_id: t-174025
   teiginys: "Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus."
   pagrindžia:
     - c-158258
 
 <a id="claim-t-174027"></a>
-- t-006
+- t-003
   global_id: t-174027
   teiginys: "Į Vilnių atvykę amatininkai iš Saksonijos kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto gyventojų sluoksniu."
   pagrindžia:
     - c-158258
 
 <a id="claim-t-193781"></a>
-- t-007
+- t-004
   global_id: t-193781
   teiginys: "Šiaurės karas 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   pagrindžia:

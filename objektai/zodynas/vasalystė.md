@@ -36,14 +36,14 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-12606"></a>
-- t-002
+- t-001
   global_id: t-12606
   teiginys: "Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę."
   pagrindžia:
     - c-14724
 
 <a id="claim-t-12607"></a>
-- t-003
+- t-002
   global_id: t-12607
   teiginys: "Vasalystė čia reiškia priklausomybės ir ištikimybės santykį."
   pagrindžia:

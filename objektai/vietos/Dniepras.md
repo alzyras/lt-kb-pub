@@ -43,7 +43,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 ## Teiginiai
 
 <a id="claim-t-97822"></a>
-- t-018
+- t-001
   global_id: t-97822
   teiginys: "1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą."
   pagrindžia:
@@ -57,7 +57,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-92257
 
 <a id="claim-t-97825"></a>
-- t-007
+- t-003
   global_id: t-97825
   teiginys: "Plinijus du kartus minėjo neurus, pas kuriuos prasideda Dniepras, dar vadintas Borysthenu."
   pagrindžia:
@@ -71,140 +71,140 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
     - c-37335
 
 <a id="claim-t-97838"></a>
-- t-025
+- t-005
   global_id: t-97838
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
   pagrindžia:
     - c-46480
 
 <a id="claim-t-97828"></a>
-- t-011
+- t-006
   global_id: t-97828
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos."
   pagrindžia:
     - c-43402
 
 <a id="claim-t-97833"></a>
-- t-001
+- t-007
   global_id: t-97833
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
   pagrindžia:
     - c-92254
 
 <a id="claim-t-97830"></a>
-- t-026
+- t-008
   global_id: t-97830
   teiginys: "Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą."
   pagrindžia:
     - c-46481
 
 <a id="claim-t-97831"></a>
-- t-025
+- t-009
   global_id: t-97831
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
   pagrindžia:
     - c-92257
 
 <a id="claim-t-97832"></a>
-- t-022
+- t-010
   global_id: t-97832
   teiginys: "Vytauto remiamas Kijevas Dniepro upe susisiekė su Juodąja jūra."
   pagrindžia:
     - c-37336
 
 <a id="claim-t-97833"></a>
-- t-001
+- t-011
   global_id: t-97833
   teiginys: "Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine."
   pagrindžia:
     - c-92254
 
 <a id="claim-t-97834"></a>
-- t-023
+- t-012
   global_id: t-97834
   teiginys: "Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio."
   pagrindžia:
     - c-37337
 
 <a id="claim-t-97835"></a>
-- t-012
+- t-013
   global_id: t-97835
   teiginys: "Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link."
   pagrindžia:
     - c-43403
 
 <a id="claim-t-97836"></a>
-- t-019
+- t-014
   global_id: t-97836
   teiginys: "Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   pagrindžia:
     - c-43402
 
 <a id="claim-t-97837"></a>
-- t-003
+- t-015
   global_id: t-97837
   teiginys: "Dniepras, dar vadintas Borysthenu, buvo minimas kaip prasidedantis pas neurus."
   pagrindžia:
     - c-32014
 
 <a id="claim-t-97838"></a>
-- t-025
+- t-016
   global_id: t-97838
   teiginys: "Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską."
   pagrindžia:
     - c-46480
 
 <a id="claim-t-97839"></a>
-- t-020
+- t-017
   global_id: t-97839
   teiginys: "Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai."
   pagrindžia:
     - c-92255
 
 <a id="claim-t-97841"></a>
-- t-006
+- t-018
   global_id: t-97841
   teiginys: "Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių."
   pagrindžia:
     - c-37337
 
 <a id="claim-t-97842"></a>
-- t-005
+- t-019
   global_id: t-97842
   teiginys: "Vytautas rėmė Kijevą, kuris Dniepro upe turėjo susisiekimą su Juodąja jūra."
   pagrindžia:
     - c-37336
 
 <a id="claim-t-97843"></a>
-- t-009
+- t-020
   global_id: t-97843
   teiginys: "1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį."
   pagrindžia:
     - c-92246
 
 <a id="claim-t-97844"></a>
-- t-016
+- t-021
   global_id: t-97844
   teiginys: "Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi."
   pagrindžia:
     - c-92255
 
 <a id="claim-t-97845"></a>
-- t-021
+- t-022
   global_id: t-97845
   teiginys: "Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas."
   pagrindžia:
     - c-37335
 
 <a id="claim-t-183011"></a>
-- t-028
+- t-023
   global_id: t-183011
   teiginys: "Po šešerių metų paliaubų Maskvai paliktos žemės nulėmė, kad jos sienos jau siekė Dnieprą."
   pagrindžia:
     - c-166404
 
 <a id="claim-t-183782"></a>
-- t-027
+- t-024
   global_id: t-183782
   teiginys: "Totorių ekspedicinės pajėgos ties Lojevu persikėlė į dešinįjį Dniepro krantą ir pasuko Mozyriaus bei Slucko link."
   pagrindžia:

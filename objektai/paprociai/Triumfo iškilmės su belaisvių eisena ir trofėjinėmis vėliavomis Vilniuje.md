@@ -55,28 +55,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78727"></a>
-- t-003
+- t-001
   global_id: t-78727
   teiginys: "Valdovui grįžus į Vilnių, čia įvyko triumfo iškilmės su belaisviais Maskvos karvedžiais ir kariais."
   pagrindžia:
     - c-43179
 
 <a id="claim-t-78728"></a>
-- t-004
+- t-002
   global_id: t-78728
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
   pagrindžia:
     - c-43179
 
 <a id="claim-t-78729"></a>
-- t-005
+- t-003
   global_id: t-78729
   teiginys: "Vilniuje per triumfo iškilmes eisenoje buvo vedami Maskvos belaisviai karvedžiai ir kariai, o katedroje pakabintos trofėjinės vėliavos."
   pagrindžia:
     - c-43179
 
 <a id="claim-t-183695"></a>
-- t-006
+- t-004
   global_id: t-183695
   teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
   pagrindžia:

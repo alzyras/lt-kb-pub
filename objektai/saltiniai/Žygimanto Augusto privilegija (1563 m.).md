@@ -11,8 +11,8 @@ date_end: '1573'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - saltinis
+  - teisinė-praktika
   - unija
 amziai:
   - 'XVI'
@@ -45,7 +45,7 @@ Lietuvoje tai padarė 1563 m. Žygimanto Augusto privilegija, sulyginusi visų k
     - c-166785
 
 <a id="claim-t-21335"></a>
-- t-001
+- t-002
   global_id: t-21335
   teiginys: "1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma."
   pagrindžia:

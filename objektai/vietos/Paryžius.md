@@ -46,42 +46,42 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
 ## Teiginiai
 
 <a id="claim-t-91235"></a>
-- t-004
+- t-001
   global_id: t-91235
   teiginys: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą."
   pagrindžia:
     - c-24366
 
 <a id="claim-t-91236"></a>
-- t-012
+- t-002
   global_id: t-91236
   teiginys: "1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių."
   pagrindžia:
     - c-86962
 
 <a id="claim-t-91237"></a>
-- t-016
+- t-003
   global_id: t-91237
   teiginys: "Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė."
   pagrindžia:
     - c-24364
 
 <a id="claim-t-91238"></a>
-- t-011
+- t-004
   global_id: t-91238
   teiginys: "Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu."
   pagrindžia:
     - c-86967
 
 <a id="claim-t-91240"></a>
-- t-014
+- t-005
   global_id: t-91240
   teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   pagrindžia:
     - c-86959
 
 <a id="claim-t-91241"></a>
-- t-016
+- t-006
   global_id: t-91241
   teiginys: "Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje."
   pagrindžia:
@@ -95,56 +95,56 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - c-86963
 
 <a id="claim-t-91243"></a>
-- t-013
+- t-008
   global_id: t-91243
   teiginys: "Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje."
   pagrindžia:
     - c-86966
 
 <a id="claim-t-91244"></a>
-- t-005
+- t-009
   global_id: t-91244
   teiginys: "Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija."
   pagrindžia:
     - c-86957
 
 <a id="claim-t-91245"></a>
-- t-006
+- t-010
   global_id: t-91245
   teiginys: "Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių."
   pagrindžia:
     - c-86960
 
 <a id="claim-t-91246"></a>
-- t-010
+- t-011
   global_id: t-91246
   teiginys: "1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose."
   pagrindžia:
     - c-24365
 
 <a id="claim-t-91247"></a>
-- t-015
+- t-012
   global_id: t-91247
   teiginys: "Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais."
   pagrindžia:
     - c-86969
 
 <a id="claim-t-91248"></a>
-- t-003
+- t-013
   global_id: t-91248
   teiginys: "Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose."
   pagrindžia:
     - c-24365
 
 <a id="claim-t-91249"></a>
-- t-017
+- t-014
   global_id: t-91249
   teiginys: "1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko."
   pagrindžia:
     - c-86958
 
 <a id="claim-t-183621"></a>
-- t-018
+- t-015
   global_id: t-183621
   teiginys: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą."
   pagrindžia:

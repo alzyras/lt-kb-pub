@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - dokumentas
   - grupe
+  - institucija
   - kunigas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20047"></a>
-- t-002
+- t-001
   global_id: t-20047
   teiginys: "Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises."
   pagrindžia:
     - c-22783
 
 <a id="claim-t-20048"></a>
-- t-001
+- t-002
   global_id: t-20048
   teiginys: "1978 m. lapkričio 13 d. Lietuvoje įkurtas Tikinčiųjų teisių gynimo komitetas kėlė religinės diskriminacijos problemą."
   pagrindžia:

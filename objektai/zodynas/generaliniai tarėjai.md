@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
 amziai:
@@ -36,21 +37,21 @@ Vietoje LV ministrų vokiečių valdžia lietuvių administracijos vadovais pask
 ## Teiginiai
 
 <a id="claim-t-75547"></a>
-- t-002
+- t-001
   global_id: t-75547
   teiginys: "1943 m. lapkričio 23–24 d. posėdžiavę generaliniai tarėjai ir vadinamoji Tautos taryba, išrinkta Lietuvių konferencijoje, atmetė SS dalinio organizavimo planą, pasisakė už tautinę Lietuvos kariuomenę."
   pagrindžia:
     - c-73296
 
 <a id="claim-t-75548"></a>
-- t-003
+- t-002
   global_id: t-75548
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio planą ir pasisakė už tautinę Lietuvos kariuomenę."
   pagrindžia:
     - c-73296
 
 <a id="claim-t-75549"></a>
-- t-001
+- t-003
   global_id: t-75549
   teiginys: "Generaliniai tarėjai prižiūrėjo lietuvių administraciją ir buvo pavaldūs generaliniam tarėjui Petrui Kubiliūnui."
   pagrindžia:

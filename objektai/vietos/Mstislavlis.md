@@ -39,28 +39,28 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 ## Teiginiai
 
 <a id="claim-t-182082"></a>
-- t-018
+- t-001
   global_id: t-182082
   teiginys: "Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai."
   pagrindžia:
     - c-165574
 
 <a id="claim-t-182083"></a>
-- t-014
+- t-002
   global_id: t-182083
   teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą."
   pagrindžia:
     - c-165572
 
 <a id="claim-t-182085"></a>
-- t-017
+- t-003
   global_id: t-182085
   teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
   pagrindžia:
     - c-165575
 
 <a id="claim-t-185058"></a>
-- t-019
+- t-004
   global_id: t-185058
   teiginys: "Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį."
   pagrindžia:

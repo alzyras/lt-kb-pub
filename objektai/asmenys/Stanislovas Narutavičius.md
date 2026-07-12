@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,7 +30,7 @@ Kairys, Stanislovas Narutavičius, Jonas Vileišis ir M.
 ## Teiginiai
 
 <a id="claim-t-75999"></a>
-- t-002
+- t-001
   global_id: t-75999
   teiginys: "Stanislovas Narutavičius buvo vienas Lietuvos nepriklausomybės kūrėjų ir Lietuvos Tarybos narys."
   pagrindžia:

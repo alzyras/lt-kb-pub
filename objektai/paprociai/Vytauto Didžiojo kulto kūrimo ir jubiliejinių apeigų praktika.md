@@ -9,7 +9,9 @@ date_start: '1930'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -65,14 +67,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20823"></a>
-- t-006
+- t-001
   global_id: t-20823
   teiginys: "Vytauto jubiliejinių renginių svarbiausia mintis buvo tautos vienybė ir žinia, kad Lietuva yra sena istorinė valstybė."
   pagrindžia:
     - c-23546
 
 <a id="claim-t-20824"></a>
-- t-005
+- t-002
   global_id: t-20824
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną."
   pagrindžia:

@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187803"></a>
-- t-004
+- t-001
   global_id: t-187803
   teiginys: "1807 m. tarnaudamas Rusijos kariuomenėje T. Narbutas dalyvavo Tilžės ir Austerlico kautynėse, kur buvo sužeistas."
   pagrindžia:
     - c-170756
 
 <a id="claim-t-187804"></a>
-- t-003
+- t-002
   global_id: t-187804
   teiginys: "T. Narbutas, tarnaudamas Rusijos kariuomenėje, 1807 m. dalyvavo Tilžės ir Austerlico kautynėse."
   pagrindžia:

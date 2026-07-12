@@ -10,8 +10,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
+  - redaktorius
   - tauta
-  - vyskupas
 amziai:
   - 'XX'
 periodo_grupes: []
@@ -37,252 +38,252 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
 ## Teiginiai
 
 <a id="claim-t-75709"></a>
-- t-015
+- t-001
   global_id: t-75709
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad Lietuvoje „vietos visiems užteks“."
   pagrindžia:
     - c-73446
 
 <a id="claim-t-75710"></a>
-- t-047
+- t-002
   global_id: t-75710
   teiginys: "Vytauto Didžiojo kultas susiejo Antano Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu."
   pagrindžia:
     - c-73436
 
 <a id="claim-t-75711"></a>
-- t-011
+- t-003
   global_id: t-75711
   teiginys: "Vytauto Didžiojo kultas siejo stipraus tautos vado vaizdinį su Antano Smetonos valdoma Lietuvos valstybe."
   pagrindžia:
     - c-73436
 
 <a id="claim-t-75712"></a>
-- t-045
+- t-004
   global_id: t-75712
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo viršenybę prieš Seimą."
   pagrindžia:
     - c-73431
 
 <a id="claim-t-75713"></a>
-- t-044
+- t-005
   global_id: t-75713
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus."
   pagrindžia:
     - c-73421
 
 <a id="claim-t-75714"></a>
-- t-042
+- t-006
   global_id: t-75714
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   pagrindžia:
     - c-73422
 
 <a id="claim-t-75715"></a>
-- t-004
+- t-007
   global_id: t-75715
   teiginys: "Antanas Smetona Lietuvos demokratiją vadino vaikams per dideliais batais, nes parlamentarizmo tradicija per šešerius metus neįsitvirtino."
   pagrindžia:
     - c-73430
 
 <a id="claim-t-75716"></a>
-- t-052
+- t-008
   global_id: t-75716
   teiginys: "Po 1939 m. rudens A. Smetonos autoritarinis režimas netenkino nei dešiniojo lietuvių jaunimo sparno, nei kairiųjų jaunuolių."
   pagrindžia:
     - c-73437
 
 <a id="claim-t-75717"></a>
-- t-031
+- t-009
   global_id: t-75717
   teiginys: "A. Smetona buvo Vilniuje pasilikusio Komiteto pirmininkas."
   pagrindžia:
     - c-73438
 
 <a id="claim-t-75718"></a>
-- t-008
+- t-010
   global_id: t-75718
   teiginys: "1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje."
   pagrindžia:
     - c-73421
 
 <a id="claim-t-75719"></a>
-- t-001
+- t-011
   global_id: t-75719
   teiginys: "1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus."
   pagrindžia:
     - c-73444
 
 <a id="claim-t-75720"></a>
-- t-032
+- t-012
   global_id: t-75720
   teiginys: "A. Smetona buvo Vykdomojo Komiteto biuro narys."
   pagrindžia:
     - c-73450
 
 <a id="claim-t-75721"></a>
-- t-034
+- t-013
   global_id: t-75721
   teiginys: "A. Smetona 1793–1795 m. LDK padėtį apibūdino kaip laiką, kai ji liovėsi būti valstybe."
   pagrindžia:
     - c-73427
 
 <a id="claim-t-75722"></a>
-- t-041
+- t-014
   global_id: t-75722
   teiginys: "Smetona, kuris prisiekė laikytis šalies konstitucijos."
   pagrindžia:
     - c-73448
 
 <a id="claim-t-75723"></a>
-- t-058
+- t-015
   global_id: t-75723
   teiginys: "1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV."
   pagrindžia:
     - c-73439
 
 <a id="claim-t-75724"></a>
-- t-049
+- t-016
   global_id: t-75724
   teiginys: "1938 m. gegužės 12 d. prezidentas Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
   pagrindžia:
     - c-73426
 
 <a id="claim-t-75725"></a>
-- t-056
+- t-017
   global_id: t-75725
   teiginys: "Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius."
   pagrindžia:
     - c-73427
 
 <a id="claim-t-75726"></a>
-- t-002
+- t-018
   global_id: t-75726
   teiginys: "Antanas Smetona, kaip vienas aršiausių tautininkų kritikų, dėl valdžios baudimų buvo patekęs į kalėjimą."
   pagrindžia:
     - c-73433
 
 <a id="claim-t-75727"></a>
-- t-024
+- t-019
   global_id: t-75727
   teiginys: "1936 m. kovą Kaune Antanas Smetona atsakomąja kalba užvėrė duris kompromisui su Lenkija."
   pagrindžia:
     - c-73450
 
 <a id="claim-t-75728"></a>
-- t-007
+- t-020
   global_id: t-75728
   teiginys: "1927 m. balandžio 12 d. Antanas Smetona prezidento aktu paleido III Seimą ir nustūmė krikščionis demokratus nuo valdžios."
   pagrindžia:
     - c-73434
 
 <a id="claim-t-75729"></a>
-- t-022
+- t-021
   global_id: t-75729
   teiginys: "1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo."
   pagrindžia:
     - c-73442
 
 <a id="claim-t-75730"></a>
-- t-025
+- t-022
   global_id: t-75730
   teiginys: "Priėmus Lenkijos ultimatumą, Antanui Smetonai artimas kunigas Vladas Mironas pakeitė Juozą Tūbelį premjero poste."
   pagrindžia:
     - c-73432
 
 <a id="claim-t-75731"></a>
-- t-017
+- t-023
   global_id: t-75731
   teiginys: "Antano Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbančios Lietuvos formavimas."
   pagrindžia:
     - c-73428
 
 <a id="claim-t-75732"></a>
-- t-006
+- t-024
   global_id: t-75732
   teiginys: "Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens."
   pagrindžia:
     - c-73422
 
 <a id="claim-t-75733"></a>
-- t-016
+- t-025
   global_id: t-75733
   teiginys: "Po 1939 m. rudens nuosaikus Antano Smetonos autoritarinis režimas netenkino nei dešinės radikalų, nei dalies kairiojo jaunimo."
   pagrindžia:
     - c-73437
 
 <a id="claim-t-75734"></a>
-- t-055
+- t-026
   global_id: t-75734
   teiginys: "Prezidentas A. Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
   pagrindžia:
     - c-73420
 
 <a id="claim-t-75735"></a>
-- t-035
+- t-027
   global_id: t-75735
   teiginys: "Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyderius."
   pagrindžia:
     - c-73449
 
 <a id="claim-t-75736"></a>
-- t-039
+- t-028
   global_id: t-75736
   teiginys: "A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės."
   pagrindžia:
     - c-73423
 
 <a id="claim-t-75737"></a>
-- t-021
+- t-029
   global_id: t-75737
   teiginys: "1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti."
   pagrindžia:
     - c-73419
 
 <a id="claim-t-75738"></a>
-- t-018
+- t-030
   global_id: t-75738
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
   pagrindžia:
     - c-73443
 
 <a id="claim-t-75739"></a>
-- t-057
+- t-031
   global_id: t-75739
   teiginys: "1940 m. birželio 15 d. Antano Smetonos siūlymą priešintis ginklu palaikė vos du ministrai."
   pagrindžia:
     - c-73435
 
 <a id="claim-t-75740"></a>
-- t-051
+- t-032
   global_id: t-75740
   teiginys: "Antanas Smetona agresyvesniems jaunalietuviams pareiškė, kad „vietos visiems užteks“."
   pagrindžia:
     - c-73446
 
 <a id="claim-t-75741"></a>
-- t-029
+- t-033
   global_id: t-75741
   teiginys: "Antano Smetonos valstybės modelio ir režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva."
   pagrindžia:
     - c-73428
 
 <a id="claim-t-75742"></a>
-- t-005
+- t-034
   global_id: t-75742
   teiginys: "1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
   pagrindžia:
     - c-73448
 
 <a id="claim-t-75743"></a>
-- t-053
+- t-035
   global_id: t-75743
   teiginys: "Antano Smetonos valstybės modelio prioritetai – tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva – iš esmės buvo įgyvendinti."
   pagrindžia:
     - c-73428
 
 <a id="claim-t-75744"></a>
-- t-027
+- t-036
   global_id: t-75744
   teiginys: "Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties."
   pagrindžia:
@@ -290,147 +291,147 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-73449
 
 <a id="claim-t-75745"></a>
-- t-036
+- t-037
   global_id: t-75745
   teiginys: "1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus."
   pagrindžia:
     - c-73444
 
 <a id="claim-t-75746"></a>
-- t-030
+- t-038
   global_id: t-75746
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios."
   pagrindžia:
     - c-73443
 
 <a id="claim-t-75747"></a>
-- t-028
+- t-039
   global_id: t-75747
   teiginys: "Po 1939 m. rudens Lietuvos jaunimo dešinės ir kairės radikalų netenkino nuosaikus Antano Smetonos autoritarinis režimas."
   pagrindžia:
     - c-73437
 
 <a id="claim-t-75748"></a>
-- t-013
+- t-040
   global_id: t-75748
   teiginys: "1938 m. gegužės 12 d. Antanas Smetona ir ministras pirmininkas Vladas Mironas pasirašė naują Lietuvos konstituciją."
   pagrindžia:
     - c-73426
 
 <a id="claim-t-75749"></a>
-- t-043
+- t-041
   global_id: t-75749
   teiginys: "1927 m. paleidęs III Seimą, Antanas Smetona nuo valdžios nustūmė stipriausią šalies politinę jėgą – krikščionis demokratus."
   pagrindžia:
     - c-73434
 
 <a id="claim-t-75750"></a>
-- t-040
+- t-042
   global_id: t-75750
   teiginys: "Antanas Smetona demokratiją Lietuvoje lygino su per dideliais batais vaikams, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi."
   pagrindžia:
     - c-73430
 
 <a id="claim-t-75751"></a>
-- t-026
+- t-043
   global_id: t-75751
   teiginys: "Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos."
   pagrindžia:
     - c-73427
 
 <a id="claim-t-75752"></a>
-- t-048
+- t-044
   global_id: t-75752
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai išrinko Antaną Smetoną Lietuvos prezidentu."
   pagrindžia:
     - c-73447
 
 <a id="claim-t-75753"></a>
-- t-033
+- t-045
   global_id: t-75753
   teiginys: "A. Smetona buvo Lietuvos Tarybos narys ir jos pirmininkas."
   pagrindžia:
     - c-73432
 
 <a id="claim-t-75754"></a>
-- t-023
+- t-046
   global_id: t-75754
   teiginys: "Nuo 1930 m. per Tautos šventę valstybės įstaigas puošdavo dideli Vytauto Didžiojo ir Antano Smetonos portretai."
   pagrindžia:
     - c-73438
 
 <a id="claim-t-75755"></a>
-- t-019
+- t-047
   global_id: t-75755
   teiginys: "1918 m. kovo 23 d. Antano Smetonos vadovaujama Tarybos delegacija Berlyne pristatė deklaracijos turinį Georgui von Hertlingui."
   pagrindžia:
     - c-73440
 
 <a id="claim-t-75756"></a>
-- t-012
+- t-048
   global_id: t-75756
   teiginys: "1931 m. gruodžio 11 d. ypatingieji tautos atstovai vienbalsiai perrinko Antaną Smetoną Lietuvos prezidentu."
   pagrindžia:
     - c-73447
 
 <a id="claim-t-75757"></a>
-- t-046
+- t-049
   global_id: t-75757
   teiginys: "Konstitucija įteisino autoritarinį A. Smetonos valdymą."
   pagrindžia:
     - c-73445
 
 <a id="claim-t-75758"></a>
-- t-009
+- t-050
   global_id: t-75758
   teiginys: "1928 m. gegužės 15 d. Antanas Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino viršenybę prieš Seimą."
   pagrindžia:
     - c-73431
 
 <a id="claim-t-75760"></a>
-- t-037
+- t-051
   global_id: t-75760
   teiginys: "1918 m. lapkričio 2 d. A. Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
   pagrindžia:
     - c-73421
 
 <a id="claim-t-75761"></a>
-- t-020
+- t-052
   global_id: t-75761
   teiginys: "1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią."
   pagrindžia:
     - c-73441
 
 <a id="claim-t-75763"></a>
-- t-003
+- t-053
   global_id: t-75763
   teiginys: "Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės."
   pagrindžia:
     - c-73423
 
 <a id="claim-t-75764"></a>
-- t-010
+- t-054
   global_id: t-75764
   teiginys: "1928 m. Konstitucija įteisino autoritarinį Antano Smetonos valdymą."
   pagrindžia:
     - c-73445
 
 <a id="claim-t-75738"></a>
-- t-018
+- t-055
   global_id: t-75738
   teiginys: "Antano Smetonos režimas nereguliavo kultūros reiškinių raidos, turinio ir dvasios, nors kalbėjo apie lietuvių tautinės kultūros kūrimą."
   pagrindžia:
     - c-73443
 
 <a id="claim-t-75766"></a>
-- t-038
+- t-056
   global_id: t-75766
   teiginys: "A. Smetona buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
   pagrindžia:
     - c-73433
 
 <a id="claim-t-183525"></a>
-- t-059
+- t-057
   global_id: t-183525
   teiginys: "Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   pagrindžia:

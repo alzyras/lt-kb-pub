@@ -41,42 +41,42 @@ Dusburgietis teigia, kad apie brolį Meinhardą, Prūsijos žemės magistrą Bro
 ## Teiginiai
 
 <a id="claim-t-59871"></a>
-- t-005
+- t-001
   global_id: t-59871
   teiginys: "1294 m. Meinhardas Saksas iš Kverfurto subūrė kariuomenę, užėmė Mazovijos kunigaikščio Boleslovo Viznos pilį ir ją sugriovė."
   pagrindžia:
     - c-60505
 
 <a id="claim-t-59872"></a>
-- t-004
+- t-002
   global_id: t-59872
   teiginys: "Meinhardas Saksas iš Kverfurto švento Jokūbo dieną su raiteliais užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius."
   pagrindžia:
     - c-60503
 
 <a id="claim-t-59873"></a>
-- t-001
+- t-003
   global_id: t-59873
   teiginys: "Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų."
   pagrindžia:
     - c-60506
 
 <a id="claim-t-59874"></a>
-- t-003
+- t-004
   global_id: t-59874
   teiginys: "1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį."
   pagrindžia:
     - c-60507
 
 <a id="claim-t-59875"></a>
-- t-002
+- t-005
   global_id: t-59875
   teiginys: "Meinhardas Saksas iš Kverfurto kėlė siaubą visiems priešams, nes jų negalėjo apsaugoti nuo jo keršto nei įtvirtinimai, nei dideli nuotoliai."
   pagrindžia:
     - c-60504
 
 <a id="claim-t-59873"></a>
-- t-001
+- t-006
   global_id: t-59873
   teiginys: "Meinhardas Saksas iš Kverfurto buvo tryliktas Prūsijos magistras ir vadovavo vienuolika metų."
   pagrindžia:

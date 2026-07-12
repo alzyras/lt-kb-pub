@@ -47,14 +47,14 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
     - c-82000
 
 <a id="claim-t-86021"></a>
-- t-003
+- t-002
   global_id: t-86021
   teiginys: "Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus."
   pagrindžia:
     - c-81999
 
 <a id="claim-t-86022"></a>
-- t-002
+- t-003
   global_id: t-86022
   teiginys: "1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną."
   pagrindžia:

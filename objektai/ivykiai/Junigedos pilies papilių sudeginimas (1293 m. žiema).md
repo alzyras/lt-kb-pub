@@ -60,7 +60,7 @@ Nenurodyta
     - c-62840
 
 <a id="claim-t-62301"></a>
-- t-001
+- t-002
   global_id: t-62301
   teiginys: "1293 m. žiemą magistras su kariuomene užpuolė Junigedos pilį, išžudė daug žmonių ir sudegino du jos papilius."
   pagrindžia:

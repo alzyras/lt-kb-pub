@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89448"></a>
-- t-002
+- t-001
   global_id: t-89448
   teiginys: "Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu."
   pagrindžia:
     - c-85407
 
 <a id="claim-t-89449"></a>
-- t-001
+- t-002
   global_id: t-89449
   teiginys: "Kronikoje stojimas į Teutonų ordiną vadinamas šventu sumanymu."
   pagrindžia:

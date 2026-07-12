@@ -37,7 +37,7 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Teiginiai
 
 <a id="claim-t-40958"></a>
-- t-002
+- t-001
   global_id: t-40958
   teiginys: "1950 m. lapkričio 25 d. likę Šarūno ir Kunigaikščio Margio rinktinių kovotojai buvo sujungti į Tumo Vaižganto rinktinę."
   pagrindžia:

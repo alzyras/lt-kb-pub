@@ -35,7 +35,7 @@ Lotoriai šiame fragmente pateikiami kaip viena iš puolusių grupių, o jų vie
 ## Teiginiai
 
 <a id="claim-t-07841"></a>
-- t-002
+- t-001
   global_id: t-07841
   teiginys: "1276 m. Lotoriai su vokiečiais meldžionimis ir gudais nusiaubė Lietuvą bei Žemaičius ir mėgino įsilaužti į Naujapilę."
   pagrindžia:

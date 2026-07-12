@@ -54,7 +54,7 @@ Tekstas liko nespausdintas ir, pagal įvadinį tekstą, negalėjo paveikti vieš
 ## Teiginiai
 
 <a id="claim-t-187975"></a>
-- t-002
+- t-001
   global_id: t-187975
   teiginys: "S. Stanevičiaus „Lietuvių mitologijos aiškinimas“ liko nespausdintas."
   pagrindžia:

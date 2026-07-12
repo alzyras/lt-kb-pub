@@ -66,7 +66,7 @@ Nenurodyta
     - c-73079
 
 <a id="claim-t-75209"></a>
-- t-002
+- t-003
   global_id: t-75209
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
   pagrindžia:

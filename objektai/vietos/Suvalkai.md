@@ -39,21 +39,21 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 ## Teiginiai
 
 <a id="claim-t-182781"></a>
-- t-023
+- t-001
   global_id: t-182781
   teiginys: "1656 m. spalio 22 d. švedai ir brandenburgiečiai pasivijo lietuvius ties Pilypavu netoli Suvalkų ir juos sumušė."
   pagrindžia:
     - c-43888
 
 <a id="claim-t-183091"></a>
-- t-004
+- t-002
   global_id: t-183091
   teiginys: "Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose."
   pagrindžia:
     - c-166479
 
 <a id="claim-t-183638"></a>
-- t-025
+- t-003
   global_id: t-183638
   teiginys: "Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Suvalkų gubernijoje."
   pagrindžia:

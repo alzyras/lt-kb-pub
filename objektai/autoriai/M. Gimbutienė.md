@@ -37,14 +37,14 @@ Gimbutienė (Gimbutas), M. Gimbutienė, M.
 ## Teiginiai
 
 <a id="claim-t-30830"></a>
-- t-002
+- t-001
   global_id: t-30830
   teiginys: "M. Gimbutienė parašė tekstą „Vidurinis geležies amžius“, publikuotą Lietuvių enciklopedijos 15 tome."
   pagrindžia:
     - c-33051
 
 <a id="claim-t-30831"></a>
-- t-001
+- t-002
   global_id: t-30831
   teiginys: "M. Gimbutienė paskelbė darbą apie bronzos amžiaus kultūrą pietryčių Baltijos regione."
   pagrindžia:

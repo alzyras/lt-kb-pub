@@ -32,14 +32,14 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
 ## Teiginiai
 
 <a id="claim-t-58885"></a>
-- t-002
+- t-001
   global_id: t-58885
   teiginys: "Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis."
   pagrindžia:
     - c-59517
 
 <a id="claim-t-58886"></a>
-- t-001
+- t-002
   global_id: t-58886
   teiginys: "Skomanto šeimynykštis išvadavo brolį Liudviką iš nelaisvės ir sugrąžino pas brolius."
   pagrindžia:

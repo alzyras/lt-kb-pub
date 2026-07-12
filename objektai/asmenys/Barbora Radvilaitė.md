@@ -14,18 +14,19 @@ tags:
   - karalienė
 amziai: []
 periodo_grupes: []
-media_total_count: '0'
-media_primary_thumb_url: ''
-media_primary_canonical_url: ''
-media_primary_directness: ''
-media_primary_relation_type: ''
-media_primary_json: ''
+media_total_count: '1'
+media_primary_thumb_url: 'https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE'
+media_primary_canonical_url: 'https://www.europeana.eu/item/2021802/LIMIS_600571046'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'portrait_of'
+media_primary_json: |-
+  {"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}
 media_direct_json: |-
-  []
+  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}]
 media_contextual_json: |-
   []
 media_all_json: |-
-  []
+  [{"mediaId":"m-69c86a9729a3c4f737482478","title":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","caption":"Barboros Radvilaitės ir Žygimanto Augusto portretai","originalTitle":"Heliografija. Barbora Radvilaitė ir Žygimantas Augustas","creator":"","provider":"europeana","providerLabel":"Trakai History Museum","license":"http://creativecommons.org/licenses/by/4.0/","rightsNote":"http://creativecommons.org/licenses/by/4.0/","licenseUrl":"","attribution":"","dateDisplay":"2023","dateStart":null,"dateEnd":null,"width":null,"height":null,"canonicalUrl":"https://www.europeana.eu/item/2021802/LIMIS_600571046","sourceUrl":"https://www.epaveldas.lt/static/tim-bucket/LIMIS-600571046/thumbnail-original/get.jpg","thumbUrl":"https://api.europeana.eu/thumbnail/v2/url.json?uri=https%3A%2F%2Fwww.epaveldas.lt%2Fstatic%2Ftim-bucket%2FLIMIS-600571046%2Fthumbnail-original%2Fget.jpg&type=IMAGE","institution":"","collection":"","country":"","language":"","tags":[{"code":"portretas","label":"portretas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"istorinis-portretas","label":"istorinis portretas","facetKind":"tema","confidence":0.95},{"code":"karalienė","label":"karalienė","facetKind":"tema","confidence":0.95},{"code":"portretas","label":"portretas","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Barbora Radvilaitė.md","title":"Barbora Radvilaitė","itemType":"asmuo","relationType":"portrait_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T21:03:55.525537+03:00","reviewedAt":"2026-07-11T21:04:28.442250+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomi trys istoriniai portretai; centre - reprezentacinis jaunos moters portretas su karališka apranga ir galvos apdangalu.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai identifikuoja Barborą Radvilaitę; apraše nurodyta, kad centre vaizduojama karalienė Barbora Radvilaitė, Žygimanto Augusto žmona.","confidenceLevel":"high","relationType":"portrait_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Priimama kaip tiesioginis istorinės Barboros Radvilaitės portretinis atvaizdas.","isPrimary":1}]
 ---
 # Barbora Radvilaitė
 
@@ -127,7 +128,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - c-55506
 
 <a id="claim-t-173119"></a>
-- t-013
+- t-010
   global_id: t-173119
   teiginys: "Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį."
   pagrindžia:
@@ -141,28 +142,28 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
     - c-157457
 
 <a id="claim-t-173122"></a>
-- t-014
+- t-012
   global_id: t-173122
   teiginys: "Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai."
   pagrindžia:
     - c-55506
 
 <a id="claim-t-184672"></a>
-- t-015
+- t-013
   global_id: t-184672
   teiginys: "Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą."
   pagrindžia:
     - c-168033
 
 <a id="claim-t-184673"></a>
-- t-016
+- t-014
   global_id: t-184673
   teiginys: "Augustas senatoriams pareiškė, kad Barbora Radvilaitė buvo jo žmona, sutuokta krikščioniškomis apeigomis."
   pagrindžia:
     - c-168034
 
 <a id="claim-t-194222"></a>
-- t-017
+- t-015
   global_id: t-194222
   teiginys: "Dar prieš kelerius metus Vilnių puo šė Barboros rūmų griuvėsiai, stovė ję tarp Katedros ir Šv."
   pagrindžia:

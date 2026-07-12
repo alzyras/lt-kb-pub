@@ -9,6 +9,7 @@ tags:
   - ginklas
   - kunigaikštis
   - sąvoka
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,21 +32,21 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
 ## Teiginiai
 
 <a id="claim-t-58890"></a>
-- t-002
+- t-001
   global_id: t-58890
   teiginys: "Per Lenkijos žemės antpuolius moterys ir vaikai buvo išvaryti į amžiną vergovę."
   pagrindžia:
     - c-59523
 
 <a id="claim-t-58891"></a>
-- t-001
+- t-002
   global_id: t-58891
   teiginys: "Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais."
   pagrindžia:
     - c-167384
 
 <a id="claim-t-58891"></a>
-- t-001
+- t-003
   global_id: t-58891
   teiginys: "Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais."
   pagrindžia:

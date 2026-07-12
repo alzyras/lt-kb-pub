@@ -39,21 +39,21 @@ Mat viena klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telk�
 ## Teiginiai
 
 <a id="claim-t-42510"></a>
-- t-003
+- t-001
   global_id: t-42510
   teiginys: "Stabmeldžiai svaidė ietis į krikščionis, o rusai strėlėmis sužeidė daug vyrų ir žirgų."
   pagrindžia:
     - c-45548
 
 <a id="claim-t-42511"></a>
-- t-001
+- t-002
   global_id: t-42511
   teiginys: "Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti."
   pagrindžia:
     - c-45549
 
 <a id="claim-t-42512"></a>
-- t-002
+- t-003
   global_id: t-42512
   teiginys: "Sausio 24-osios išvakarėse į stabmeldžių žemę įžengę kariai žudė gyventojus ir degino kraštą."
   pagrindžia:

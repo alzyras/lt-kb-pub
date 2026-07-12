@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karalius
+  - teisinė-praktika
   - valdovas
 amziai:
   - 'XIII'
@@ -53,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62823"></a>
-- t-002
+- t-001
   global_id: t-62823
   teiginys: "Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti."
   pagrindžia:

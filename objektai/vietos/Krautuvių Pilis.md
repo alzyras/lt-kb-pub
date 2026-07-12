@@ -32,7 +32,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85936"></a>
-- t-003
+- t-001
   global_id: t-85936
   teiginys: "Gaisras staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį."
   pagrindžia:
@@ -46,7 +46,7 @@ media_all_json: |-
     - c-81919
 
 <a id="claim-t-85938"></a>
-- t-001
+- t-003
   global_id: t-85938
   teiginys: "Krautuvių Pilyje slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją taip praminė."
   pagrindžia:

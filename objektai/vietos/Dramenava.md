@@ -36,14 +36,14 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
     - c-86199
 
 <a id="claim-t-90340"></a>
-- t-003
+- t-002
   global_id: t-90340
   teiginys: "Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą ir grįžo su dideliu grobiu."
   pagrindžia:
     - c-86201
 
 <a id="claim-t-90341"></a>
-- t-002
+- t-003
   global_id: t-90341
   teiginys: "Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių."
   pagrindžia:

@@ -11,9 +11,9 @@ date_end: '1936'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - sąvoka
   - tauta
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -39,7 +39,7 @@ Tačiau Vilniaus praradimas susilpnino lietuvių pažadus, o svarstant 1922 m. k
 ## Teiginiai
 
 <a id="claim-t-169938"></a>
-- t-002
+- t-001
   global_id: t-169938
   teiginys: "Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais siekdamos valstybinės tarnybos."
   pagrindžia:

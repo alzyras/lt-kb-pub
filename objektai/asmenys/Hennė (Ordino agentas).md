@@ -14,6 +14,7 @@ tags:
   - asmuo
   - ordinas
   - valstybė
+  - šeima
 amziai:
   - 'XV'
 periodo_grupes:
@@ -40,7 +41,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 ## Teiginiai
 
 <a id="claim-t-35089"></a>
-- t-003
+- t-001
   global_id: t-35089
   teiginys: "Hennė pranešė apie 1427 m. Vytauto kelionę per rytinį valstybės pakraštį."
   pagrindžia:
@@ -54,7 +55,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
     - c-36315
 
 <a id="claim-t-35091"></a>
-- t-001
+- t-003
   global_id: t-35091
   teiginys: "Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui."
   pagrindžia:

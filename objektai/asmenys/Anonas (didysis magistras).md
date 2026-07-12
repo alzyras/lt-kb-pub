@@ -32,21 +32,21 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
 ## Teiginiai
 
 <a id="claim-t-60082"></a>
-- t-002
+- t-001
   global_id: t-60082
   teiginys: "Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną."
   pagrindžia:
     - c-60715
 
 <a id="claim-t-60083"></a>
-- t-001
+- t-002
   global_id: t-60083
   teiginys: "Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje."
   pagrindžia:
     - c-60714
 
 <a id="claim-t-60082"></a>
-- t-002
+- t-003
   global_id: t-60082
   teiginys: "Anonas buvo septintasis Teutonų namų ordino didysis magistras ir mirė liepos 8 dieną."
   pagrindžia:

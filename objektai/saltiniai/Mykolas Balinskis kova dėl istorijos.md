@@ -30,14 +30,14 @@ Balinskio kritiką T. Kaip pastebi kultūros istorikė Reda Griškaitė, ankstyv
 ## Teiginiai
 
 <a id="claim-t-88264"></a>
-- t-002
+- t-001
   global_id: t-88264
   teiginys: "Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera."
   pagrindžia:
     - c-84244
 
 <a id="claim-t-88265"></a>
-- t-001
+- t-002
   global_id: t-88265
   teiginys: "Mykolo Balinskio kovoje dėl istorijos T. Narbuto veikalas tapo pavyzdžiu, kaip nereikia rašyti istorijos."
   pagrindžia:

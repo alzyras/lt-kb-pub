@@ -35,14 +35,14 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
 ## Teiginiai
 
 <a id="claim-t-187233"></a>
-- t-004
+- t-001
   global_id: t-187233
   teiginys: "Moldavijos vaivados Stepono vasalinė priesaika įvyko Kolomyjoje 1485 m. rugsėjo 15 d."
   pagrindžia:
     - c-170300
 
 <a id="claim-t-187234"></a>
-- t-001
+- t-002
   global_id: t-187234
   teiginys: "Kolomyja apibūdinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nuo Lvovo."
   pagrindžia:
@@ -56,7 +56,7 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
     - c-170301
 
 <a id="claim-t-187236"></a>
-- t-002
+- t-004
   global_id: t-187236
   teiginys: "Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d."
   pagrindžia:

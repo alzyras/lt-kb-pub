@@ -13,7 +13,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - privilegija
+  - sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

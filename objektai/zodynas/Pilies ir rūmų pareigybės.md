@@ -36,7 +36,7 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
 ## Teiginiai
 
 <a id="claim-t-08618"></a>
-- t-002
+- t-001
   global_id: t-08618
   teiginys: "Didžiojo kunigaikščio rūmų pareigybės apėmė rūmų tvarkos, svečių priėmimo, žirgynų, lobio, ūkės žymės ir raštų priežiūrą."
   pagrindžia:

@@ -43,14 +43,14 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
     - c-24976
 
 <a id="claim-t-22288"></a>
-- t-003
+- t-002
   global_id: t-22288
   teiginys: "Po J. Stalino mirties ir Nikitos Chruščiovo pasmerkto Stalino kulto rusinimas susilpnėjo, o valdžia labiau pasitikėjo vietiniais lietuviais."
   pagrindžia:
     - c-24978
 
 <a id="claim-t-22289"></a>
-- t-002
+- t-003
   global_id: t-22289
   teiginys: "Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą."
   pagrindžia:

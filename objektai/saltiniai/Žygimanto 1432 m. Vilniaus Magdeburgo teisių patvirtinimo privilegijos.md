@@ -54,14 +54,14 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
     - c-84196
 
 <a id="claim-t-88218"></a>
-- t-004
+- t-003
   global_id: t-88218
   teiginys: "Žygimantas garantavo Vilniui pajamas iš vyno, midaus ir alaus smuklių, palikdamas mokestį kunigaikščio iždui."
   pagrindžia:
     - c-84198
 
 <a id="claim-t-88219"></a>
-- t-003
+- t-004
   global_id: t-88219
   teiginys: "Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu."
   pagrindžia:

@@ -210,9 +210,23 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86438|miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
 - susijęs iš [[objektai/zodynas/viršila.md#claim-t-42522|viršila]]: 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.
+- susijęs iš [[objektai/asmenys/Barbora (auklė, XIX a.).md#claim-t-195276|Barbora (auklė, XIX a.)]]: Barbora, augindama vaikus, pati išaugo į padorią kaimo mergelę ir išmoko verpti bei austi.
+- susijęs iš [[objektai/asmenys/Lapkūnas (vargo žmogelis).md#claim-t-195280|Lapkūnas (vargo žmogelis)]]: Lapkūnas gyveno kaime kaip vargo žmogelis ir turėjo gausią šeimą.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188610|Simonas Grunau]]: Narbutas perteikė Grunau pasakojimą, kad šis atsitiktinai pateko į kaimą per ožio aukojimą ir turėjo prisiekti Perkūnui neišduoti apeigų vyskupui.
+- susijęs iš [[objektai/daiktai/Dėdelis.md#claim-t-195352|Dėdelis]]: Apeiginis sudėtas daiktas, vežiojamas per kaimą Pelenijos dieną.
+- susijęs iš [[objektai/daiktai/Pavaža.md#claim-t-195350|Pavaža]]: Senas vežimo pagrindas, naudotas dėdeliui vežti per kaimą.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-183981|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
 - susijęs iš [[objektai/daiktai/Skobnis.md#claim-t-59705|Skobnis]]: Martynas iš Golino su bendrais po žygio Sūduvoje sėdo už skobnies papietauti, bet juos užpuolė priešai.
+- susijęs iš [[objektai/daiktai/Spragilas.md#claim-t-195299|Spragilas]]: Spragilas minimas tarp senosios kaimo buities įrankių kaip javų kūlimo priemonė.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195513|Žydai kromininkai]]: Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė.
+- susijęs iš [[objektai/ivykiai/Barboros ir Mataušo vestuvės (1861 m.).md#claim-t-195295|Barboros ir Mataušo vestuvės (1861 m.)]]: Vestuvių pradžia atėjo griežtąjį pirmadienį, o vakare susiėjo kaimo jaunimas.
+- susijęs iš [[objektai/ivykiai/Degtukų pasirodymas krautuvėse (1862 m.).md#claim-t-195609|Degtukų pasirodymas krautuvėse (1862 m.)]]: Vėliau degtukai ėmė skverbtis į kaimo grįčias.
+- susijęs iš [[objektai/ivykiai/Degtukų pasirodymas krautuvėse (1862 m.).md#claim-t-195610|Degtukų pasirodymas krautuvėse (1862 m.)]]: Kaime degtukų nekentė dėl to, kad jie perkami, ir bijojo dėl gaisro pavojaus.
+- susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195404|Dėdelio vežiojimas per kaimą]]: Pelenijoje mažiukai per kaimą veždavo „dėdelį“.
+- susijęs iš [[objektai/paprociai/Dėdelio vežiojimas per kaimą.md#claim-t-195405|Dėdelio vežiojimas per kaimą]]: Pervažiavę kaimą vaikai dėdelį grąžindavo į jo vietą ant ūkininko tvarto ir jį nurengdavo arba palikdavo aprengtą kitiems metams.
+- susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195365|Piemenų samdymo ir apmokėjimo tvarka]]: Kaimo ūkininkai buvo susitarę, kaip nuo pilno ir pusės gyvenimo turi būti ganoma pakaitomis.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195393|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Žiemos šventadieniais sutemus kaimo jaunimas ir nejaunimas rinkdavosi į vieną grįčią giedoti.
+- susijęs iš [[objektai/zodynas/Kerdžius.md#claim-t-195453|Kerdžius]]: Kerdžius šiame šaltinyje yra už bandą ir piemenų paskirstymą atsakingas kaimo prižiūrėtojas.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45929|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
@@ -450,11 +464,29 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
 - susijęs iš [[objektai/zodynas/villa kaimas sodžius.md#claim-t-58880|villa kaimas sodžius]]: Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-184111|Martynas iš Golino]]: Martynas iš Golino Sūduvos kaime nukovė 10 vyrų pirtyje, pagrobė arklių bei gyvulių ir išsivarė į nelaisvę moteris bei vaikus.
+- susijęs iš [[objektai/asmenys/Barbora (auklė, XIX a.).md#claim-t-195275|Barbora (auklė, XIX a.)]]: Barbora buvo paimta pusmerge ir augintine, kad nešiotų vaikus, o algos jai nemokėjo.
+- susijęs iš [[objektai/asmenys/Leiba (kromininkas).md#claim-t-195268|Leiba (kromininkas)]]: Leiba nešiojo tik mastines prekes.
+- susijęs iš [[objektai/asmenys/Tadaušas Iešmantas (kerdžius, XIX a.).md#claim-t-195260|Tadaušas Iešmantas (kerdžius, XIX a.)]]: Iešmantas ganė iki 1864 m., vėliau vedė žmoną, pasistatė trobą ir, kaimiečių gerbiamas, pabaigė savo amželį.
+- susijęs iš [[objektai/asmenys/Tadaušas Iešmantas (kerdžius, XIX a.).md#claim-t-195262|Tadaušas Iešmantas (kerdžius, XIX a.)]]: Iešmantas buvo linksmo būdo ir dainavo savo komponuotas dainas.
+- susijęs iš [[objektai/daiktai/Rimbas.md#claim-t-195313|Rimbas]]: Kerdžiaus rimbas aprašomas kaip ganymo, drausminimo ir bausminimo priemonė.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195300|Terba]]: Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195304|Terba]]: Elgetavimo pasakojimuose terba ir terbelė yra nešulys maistui rinkti; vienu atveju išskiriama šikšninė terba su pasaitu.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195515|Žydai kromininkai]]: Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195011|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195015|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.
+- susijęs iš [[objektai/paprociai/Piemenų samdymo ir apmokėjimo tvarka.md#claim-t-195366|Piemenų samdymo ir apmokėjimo tvarka]]: Piemeniui už ganymą būdavo mokama pinigais, bulvėmis, drabužiu ir maistu.
 - susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195358|Šienapiūtė]]: Per šienapiūtę vyrai savaitei išeina į pievas, ten gyvena ir verda valgį, o mergaitės atveža pusryčius bei pietus.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195359|Šienapiūtė]]: Šienapiūtėje būtina mokėti tinkamai parengti dalgį šienui pjauti.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195392|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Vakarinis giedojimas buvo patogus šventvakario užsiėmimas.
+- susijęs iš [[objektai/posakiai/Dar aš ne jūsų esu martelė.md#claim-t-195435|Dar aš ne jūsų esu martelė]]: Jaunoji dainoje pabrėžia, kad dar nėra jų martelė.
+- susijęs iš [[objektai/posakiai/Kiaules varykite!.md#claim-t-195423|Kiaules varykite!]]: Piemenys kartu rėkia „Kiaules varykite!“.
+- susijęs iš Ažytėnų ganykla: Ažytėnų ganykla anuomet buvo vadinama dviem vardais: Pridotku ir Radviliškiu.
+- susijęs iš Duburio lanka: Į mažąją Duburio lanką buvo genamos kiaulės, o į kitą jos galą varoma kaimenė.
+- susijęs iš [[objektai/zodynas/Karunkos.md#claim-t-195464|Karunkos]]: Karunkos šiame šaltinyje reiškia vakarais giedamą giesmę ar giedojimą.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192189|Russ ir Ross]]: Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda.
 - susijęs iš [[objektai/zodynas/Russ ir Ross.md#claim-t-192191|Russ ir Ross]]: Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje.
+- susijęs iš [[objektai/zodynas/Triūba ir trimitas.md#claim-t-195454|Triūba ir trimitas]]: Triūba šiame šaltinyje yra ilgo trimito pavadinimas.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192276|pilkapis]]: Teodoro Narbuto užrašytuose pasakojimuose kaimiečiai neliečia pilkapių iš pagarbos po jais besiilsinčių žmonių palaikams.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192279|pilkapis]]: Teodoro Narbuto užrašytuose vietos padavimuose pilkapiai visuomet laikomi kapais.
 - susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192282|pilkapis]]: Teodoro Narbuto užrašytuose vietos pasakojimuose pilkapiai priskiriami neatmenamos senovės epochai.

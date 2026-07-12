@@ -43,7 +43,7 @@ Arvydas Pociūnas šiame leidinyje minimas kaip kelių skirtingų laikotarpių k
 ## Teiginiai
 
 <a id="claim-t-10123"></a>
-- t-002
+- t-001
   global_id: t-10123
   teiginys: "Arvydas Pociūnas autorių sąraše apibūdinamas kaip karo istorikas ir atskiros knygos autorius."
   pagrindžia:

@@ -47,14 +47,14 @@ LLA Lietuvos laisvės armija. Žemesnio rango jaunesnieji karininkai atsargos le
     - c-22620
 
 <a id="claim-t-78377"></a>
-- t-004
+- t-002
   global_id: t-78377
   teiginys: "Kazimieras Kontrimas-Tėvas 1943 m. įstojo į Lietuvos laisvės armiją ir gavo jaunesniojo leitenanto laipsnį."
   pagrindžia:
     - c-75661
 
 <a id="claim-t-78378"></a>
-- t-002
+- t-003
   global_id: t-78378
   teiginys: "1943 m. kovo viduryje gestapas suėmė Lietuvos laisvės armijos grupes."
   pagrindžia:

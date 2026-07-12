@@ -60,7 +60,7 @@ Nenurodyta
     - c-62788
 
 <a id="claim-t-62269"></a>
-- t-001
+- t-002
   global_id: t-62269
   teiginys: "1285 m. skalvis Girdila su 100 ginkluotų vyrų patraukė prie Aukaimio pilies, bet įspėti pilies gynėjai juos užpuolė ir beveik visus nukovė."
   pagrindžia:

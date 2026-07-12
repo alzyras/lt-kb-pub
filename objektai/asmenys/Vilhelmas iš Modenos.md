@@ -49,14 +49,14 @@ Dusburgietis teigia, kad poliakuvna dar labiau praplėtė dokumentų skaičių; 
     - c-60709
 
 <a id="claim-t-60077"></a>
-- t-003
+- t-002
   global_id: t-60077
   teiginys: "1243 m. liepos mėn. Vilhelmas iš Modenos padalijo Prūsiją į Kulmo, Pamedės, Varmės ir Sembos vyskupystes."
   pagrindžia:
     - c-60710
 
 <a id="claim-t-60078"></a>
-- t-002
+- t-003
   global_id: t-60078
   teiginys: "1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą."
   pagrindžia:

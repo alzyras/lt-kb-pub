@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - mokslininkas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -38,35 +38,35 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
 ## Teiginiai
 
 <a id="claim-t-88103"></a>
-- t-007
+- t-001
   global_id: t-88103
   teiginys: "Žygimantas Senasis paskyrė Vilijos tilto mokestį Švenčiausiosios Trejybės prieglaudai ir joje gyvenantiems vargšams."
   pagrindžia:
     - c-84087
 
 <a id="claim-t-88104"></a>
-- t-005
+- t-002
   global_id: t-88104
   teiginys: "Žygimantas Senasis uždraudė naudoti plaustus per Viliją tarp Verkių ir Panerių, kad nebūtų pakenkta nustatytam tilto muitui."
   pagrindžia:
     - c-84088
 
 <a id="claim-t-88105"></a>
-- t-001
+- t-003
   global_id: t-88105
   teiginys: "1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą."
   pagrindžia:
     - c-84085
 
 <a id="claim-t-88106"></a>
-- t-002
+- t-004
   global_id: t-88106
   teiginys: "Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus."
   pagrindžia:
     - c-84086
 
 <a id="claim-t-88107"></a>
-- t-003
+- t-005
   global_id: t-88107
   teiginys: "Ulrikui Hozijui leista rinkti Vilijos tilto mokestį, kol jis susigrąžins tilto statybai išleistą kapitalą."
   pagrindžia:
@@ -80,14 +80,14 @@ Karalius ŽYGIMANTAS ## Puslapis 402 VILNIAUS MIESTO ISTORIJA II TOMAS ŠVIESIAU
     - c-84082
 
 <a id="claim-t-88109"></a>
-- t-008
+- t-007
   global_id: t-88109
   teiginys: "Žygimantas Senasis prieglaudos administracijos globą ir vadovavimą patikėjo Vilniaus vyskupui ir Vilniaus kapitulai."
   pagrindžia:
     - c-84083
 
 <a id="claim-t-88110"></a>
-- t-004
+- t-008
   global_id: t-88110
   teiginys: "Ulrikas Hozijus prie Vilniaus pastatė ir sutvirtino tiltą per Vilijos upę, o iš tilto muito susigrąžino statybos išlaidas."
   pagrindžia:

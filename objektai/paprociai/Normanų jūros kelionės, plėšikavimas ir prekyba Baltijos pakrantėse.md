@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87177"></a>
-- t-003
+- t-001
   global_id: t-87177
   teiginys: "Normanai ilgainiui ėmėsi prekybos ir atvėrė jos kelius per Lietuvą, suomių ir slavų kraštus nuo Skandinavijos iki Graikijos."
   pagrindžia:
     - c-83158
 
 <a id="claim-t-87178"></a>
-- t-001
+- t-002
   global_id: t-87178
   teiginys: "IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse."
   pagrindžia:
     - c-83157
 
 <a id="claim-t-87179"></a>
-- t-002
+- t-003
   global_id: t-87179
   teiginys: "Atšiaurus klimatas, nenaši žemė, tvarkos stoka ir tarpusavio nesantaika skatino skandinavus leistis į jūros keliones per Baltiją."
   pagrindžia:

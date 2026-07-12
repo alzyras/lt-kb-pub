@@ -40,49 +40,49 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
 ## Teiginiai
 
 <a id="claim-t-175394"></a>
-- t-003
+- t-001
   global_id: t-175394
   teiginys: "Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems."
   pagrindžia:
     - c-159528
 
 <a id="claim-t-175395"></a>
-- t-001
+- t-002
   global_id: t-175395
   teiginys: "Santyras tapo Kristijono būstine, o apie 1212 m. čia, matyt, buvo įkurtas reguliarus vienuolynas."
   pagrindžia:
     - c-159523
 
 <a id="claim-t-175396"></a>
-- t-006
+- t-003
   global_id: t-175396
   teiginys: "1280 m. Santyro pilis buvo perkelta į naują vietą ir pavadinta Marienburgu, arba šventos Marijos pilimi."
   pagrindžia:
     - c-159527
 
 <a id="claim-t-175397"></a>
-- t-005
+- t-004
   global_id: t-175397
   teiginys: "Sventopelkas su kariuomene priėjo Santyro pilį ir ten įsirengė stovyklą."
   pagrindžia:
     - c-159524
 
 <a id="claim-t-175398"></a>
-- t-004
+- t-005
   global_id: t-175398
   teiginys: "Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų."
   pagrindžia:
     - c-159522
 
 <a id="claim-t-175400"></a>
-- t-002
+- t-006
   global_id: t-175400
   teiginys: "Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje."
   pagrindžia:
     - c-167582
 
 <a id="claim-t-175400"></a>
-- t-002
+- t-007
   global_id: t-175400
   teiginys: "Santyro pilis buvo pastatyta Vyslos ir Nogato santakoje."
   pagrindžia:

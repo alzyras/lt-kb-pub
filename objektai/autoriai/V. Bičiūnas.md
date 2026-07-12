@@ -38,14 +38,14 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
 ## Teiginiai
 
 <a id="claim-t-34854"></a>
-- t-002
+- t-001
   global_id: t-34854
   teiginys: "V. Bičiūno pastabos ir komentarai padėjo skaitytojams suprasti „Likimo kelių“ autoriaus intencijas, tikslą ir veikalo idėją."
   pagrindžia:
     - c-36079
 
 <a id="claim-t-34855"></a>
-- t-001
+- t-002
   global_id: t-34855
   teiginys: "V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus."
   pagrindžia:

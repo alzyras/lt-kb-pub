@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41471"></a>
-- t-002
+- t-001
   global_id: t-41471
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
   pagrindžia:
     - c-43204
 
 <a id="claim-t-41472"></a>
-- t-003
+- t-002
   global_id: t-41472
   teiginys: "Šūksnis „Vyrai, pavojus!“ buvo ištartas pastebėjus, kad stovyklą supa čekistai."
   pagrindžia:

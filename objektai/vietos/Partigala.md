@@ -31,21 +31,21 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Teiginiai
 
 <a id="claim-t-58466"></a>
-- t-003
+- t-001
   global_id: t-58466
   teiginys: "Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė."
   pagrindžia:
     - c-59099
 
 <a id="claim-t-58467"></a>
-- t-001
+- t-002
   global_id: t-58467
   teiginys: "Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir to paties vardo lauke pastatė Partigalos pilį."
   pagrindžia:
     - c-59100
 
 <a id="claim-t-58468"></a>
-- t-002
+- t-003
   global_id: t-58468
   teiginys: "Partigala vėliau vadinta Partheinen ir buvo į pietryčius nuo Balgos, kur išliko pilies kalnas."
   pagrindžia:

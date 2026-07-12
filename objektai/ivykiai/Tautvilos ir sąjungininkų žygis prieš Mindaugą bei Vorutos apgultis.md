@@ -43,28 +43,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187497"></a>
-- t-002
+- t-001
   global_id: t-187497
   teiginys: "Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje."
   pagrindžia:
     - c-170457
 
 <a id="claim-t-187498"></a>
-- t-004
+- t-002
   global_id: t-187498
   teiginys: "Pasak šaltinio, po susirėmimo Tautvilas sugrįžo namo į Žemaitiją."
   pagrindžia:
     - c-170456
 
 <a id="claim-t-187499"></a>
-- t-001
+- t-003
   global_id: t-187499
   teiginys: "Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą."
   pagrindžia:
     - c-170457
 
 <a id="claim-t-187500"></a>
-- t-003
+- t-004
   global_id: t-187500
   teiginys: "Lietuvos metraštis pasakoja, kad prie Vorutos Mindaugo kariai su arbaletais išjojo prieš vokiečius, o rusai, polovcai ir jotvingiai vaikėsi po lauką."
   pagrindžia:

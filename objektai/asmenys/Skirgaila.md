@@ -58,273 +58,273 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
 ## Teiginiai
 
 <a id="claim-t-179641"></a>
-- t-032
+- t-001
   global_id: t-179641
   teiginys: "Jogaila pavedė Lietuvą savo broliui Skirgailai, o Vytautas 1389 m. puolė Vilnių."
   pagrindžia:
     - c-163333
 
 <a id="claim-t-179642"></a>
-- t-037
+- t-002
   global_id: t-179642
   teiginys: "Jogaila pasiuntė Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, ir dėl to kilo atviras susirėmimas."
   pagrindžia:
     - c-163314
 
 <a id="claim-t-179643"></a>
-- t-061
+- t-003
   global_id: t-179643
   teiginys: "1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
   pagrindžia:
     - c-163341
 
 <a id="claim-t-179644"></a>
-- t-022
+- t-004
   global_id: t-179644
   teiginys: "Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas."
   pagrindžia:
     - c-163340
 
 <a id="claim-t-179645"></a>
-- t-046
+- t-005
   global_id: t-179645
   teiginys: "Skirgaila, anot citatos, gavęs valdžią aplaidumu ir žiauriu elgesiu nuteikė prieš save didesnę Lietuvos dalį."
   pagrindžia:
     - c-163327
 
 <a id="claim-t-179646"></a>
-- t-058
+- t-006
   global_id: t-179646
   teiginys: "Jogaila po susitaikymo su Vytautu sutaikė jį ir su didžiausiu Vytauto priešu Skirgaila."
   pagrindžia:
     - c-163346
 
 <a id="claim-t-179647"></a>
-- t-021
+- t-007
   global_id: t-179647
   teiginys: "Trakuose viešpatavusio Skirgailos išvarymas galėjo sukelti naują karą."
   pagrindžia:
     - c-163335
 
 <a id="claim-t-179649"></a>
-- t-054
+- t-008
   global_id: t-179649
   teiginys: "Balińskis Skirgailos valdžios pradžią siejo su aplaidumu ir žiauriu elgesiu, kurie prieš jį nuteikė didesnę Lietuvos dalį."
   pagrindžia:
     - c-163327
 
 <a id="claim-t-179650"></a>
-- t-045
+- t-009
   global_id: t-179650
   teiginys: "Skirgailai išvykus į Polocką, Vytautui atsirado proga bandyti įgyvendinti sumanymą užimti Vilniaus Žemutinę pilį."
   pagrindžia:
     - c-163315
 
 <a id="claim-t-179652"></a>
-- t-026
+- t-010
   global_id: t-179652
   teiginys: "Skirgaila su Jogaila pasižadėjo per ketverius metus pasikrikštyti su visu kraštu."
   pagrindžia:
     - c-30278
 
 <a id="claim-t-179654"></a>
-- t-050
+- t-011
   global_id: t-179654
   teiginys: "Jogaila paskyrė Skirgailą savo vietininku ir titulavo Lietuvos didžiuoju kunigaikščiu, pavaldžiu karaliaus valdžiai."
   pagrindžia:
     - c-163328
 
 <a id="claim-t-179655"></a>
-- t-020
+- t-012
   global_id: t-179655
   teiginys: "Jogaila pasiuntė brolį Skirgailą su slaptais įgaliojimais į Vakarų Europą, o Marienburge Skirgaila buvo draugiškai priimtas."
   pagrindžia:
     - c-163343
 
 <a id="claim-t-179656"></a>
-- t-047
+- t-013
   global_id: t-179656
   teiginys: "Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o po sutarčių Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis."
   pagrindžia:
     - c-163316
 
 <a id="claim-t-179657"></a>
-- t-063
+- t-014
   global_id: t-179657
   teiginys: "1394 m. Vytautui panaikinus Kijevo kunigaikštiją, Kijevą gavo Skirgaila."
   pagrindžia:
     - c-163342
 
 <a id="claim-t-179658"></a>
-- t-027
+- t-015
   global_id: t-179658
   teiginys: "Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją."
   pagrindžia:
     - c-163336
 
 <a id="claim-t-179659"></a>
-- t-041
+- t-016
   global_id: t-179659
   teiginys: "Skirgaila ne anksčiau kaip 1388 m. tapo didžiuoju kunigaikščiu, nes 1387 m. dokumentuose vadintas tik Trakų kunigaikščiu."
   pagrindžia:
     - c-163325
 
 <a id="claim-t-179660"></a>
-- t-057
+- t-017
   global_id: t-179660
   teiginys: "1391 m. liepos 22 d. Jogaila dokumentu pažadėjo Skirgailai be jo žinios neatiduoti Vilniaus ir kitų miestų."
   pagrindžia:
     - c-163322
 
 <a id="claim-t-179661"></a>
-- t-023
+- t-018
   global_id: t-179661
   teiginys: "Lietuvos visuomenė buvo nepatenkinta Skirgailos valdymu, nes jis buvo nepopuliarus ir nesugebėjo sutelkti valstybės jėgų."
   pagrindžia:
     - c-163344
 
 <a id="claim-t-179662"></a>
-- t-056
+- t-019
   global_id: t-179662
   teiginys: "Jogaila pavedė Lietuvą savo broliui Skirgailai, todėl Vytautui labiau parūpo Lietuvos ateitis negu jos krikštas."
   pagrindžia:
     - c-163333
 
 <a id="claim-t-179663"></a>
-- t-029
+- t-020
   global_id: t-179663
   teiginys: "Skirgaila neturėjo visos valdžios valstybėje, nes Vilnių Jogaila pasiliko sau."
   pagrindžia:
     - c-30281
 
 <a id="claim-t-179664"></a>
-- t-042
+- t-021
   global_id: t-179664
   teiginys: "1388 m. prie Kauno sudarytoje taikos sutartyje Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
   pagrindžia:
     - c-163337
 
 <a id="claim-t-179680"></a>
-- t-043
+- t-022
   global_id: t-179680
   teiginys: "Balińskis Skirgailos būdą apibūdino kaip niršų ir siejo jį su Vytauto baime dėl pasikėsinimo į gyvybę."
   pagrindžia:
     - c-163324
 
 <a id="claim-t-179666"></a>
-- t-040
+- t-023
   global_id: t-179666
   teiginys: "Jogaila paskyrė Skirgailą savo vietininku ir titulavo jį Lietuvos didžiuoju kunigaikščiu, pavaldžiu karališkajai valdžiai."
   pagrindžia:
     - c-163328
 
 <a id="claim-t-179667"></a>
-- t-048
+- t-024
   global_id: t-179667
   teiginys: "Jogaila pasiuntė savo brolį Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio."
   pagrindžia:
     - c-163314
 
 <a id="claim-t-179668"></a>
-- t-035
+- t-025
   global_id: t-179668
   teiginys: "Jogaila sutaikė Vytautą su Skirgaila, kuris citatoje vadinamas didžiausiu Vytauto priešu."
   pagrindžia:
     - c-36503
 
 <a id="claim-t-179669"></a>
-- t-055
+- t-026
   global_id: t-179669
   teiginys: "Karalienė Jadvyga stengėsi sutaikyti Skirgailą su Vytautu, o sutartimis Skirgaila gavo Kijevo kunigaikštystę ir kelias pilis."
   pagrindžia:
     - c-163316
 
 <a id="claim-t-179670"></a>
-- t-051
+- t-027
   global_id: t-179670
   teiginys: "Skirgaila nuolatine buveine pasirinko Trakų pilį ir išvykdavo į mūšius su Prūsijos ordinu bei maištaujančiais kunigaikščiais."
   pagrindžia:
     - c-163339
 
 <a id="claim-t-179671"></a>
-- t-034
+- t-028
   global_id: t-179671
   teiginys: "Skirgailai buvo pavesta valdyti Vilniaus sritis."
   pagrindžia:
     - c-36502
 
 <a id="claim-t-179672"></a>
-- t-062
+- t-029
   global_id: t-179672
   teiginys: "Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija."
   pagrindžia:
     - c-163321
 
 <a id="claim-t-179673"></a>
-- t-025
+- t-030
   global_id: t-179673
   teiginys: "Skirgaila mirė 1395 m., o po jo mirties Kremenecas vėl susijungė su Volynija."
   pagrindžia:
     - c-163321
 
 <a id="claim-t-179674"></a>
-- t-036
+- t-031
   global_id: t-179674
   teiginys: "Jogaila iki 1392 m. bandė valdyti Lietuvą per savo vietininką brolį Skirgailą."
   pagrindžia:
     - c-36504
 
 <a id="claim-t-179675"></a>
-- t-053
+- t-032
   global_id: t-179675
   teiginys: "Skirgaila išvyko į Polocką, ir tai sudarė progą įgyvendinti prieš tai sumanytą planą."
   pagrindžia:
     - c-163315
 
 <a id="claim-t-179676"></a>
-- t-039
+- t-033
   global_id: t-179676
   teiginys: "Skirgailos rūpesčiu Kęstučio palaikai buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį."
   pagrindžia:
     - c-163318
 
 <a id="claim-t-179677"></a>
-- t-044
+- t-034
   global_id: t-179677
   teiginys: "Vytautas negalėjo taikstytis su Skirgailos paaukštinimu, todėl Gardine susimokė išvyti Skirgailą iš sostinės ir paimti valdžią."
   pagrindžia:
     - c-163338
 
 <a id="claim-t-179678"></a>
-- t-028
+- t-035
   global_id: t-179678
   teiginys: "Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius."
   pagrindžia:
     - c-163320
 
 <a id="claim-t-179678"></a>
-- t-028
+- t-036
   global_id: t-179678
   teiginys: "Jogaila, užrašydamas Skirgailai Trakus ir Polocką, pažadėjo laikyti jį aukščiau už visus kitus brolius."
   pagrindžia:
     - c-163320
 
 <a id="claim-t-179680"></a>
-- t-043
+- t-037
   global_id: t-179680
   teiginys: "Balińskis Skirgailos būdą apibūdino kaip niršų ir siejo jį su Vytauto baime dėl pasikėsinimo į gyvybę."
   pagrindžia:
     - c-163324
 
 <a id="claim-t-184377"></a>
-- t-064
+- t-038
   global_id: t-184377
   teiginys: "1387–1392 m. Skirgaila neturėjo visos valdžios Lietuvoje, nes Vilnių Jogaila pasiliko sau."
   pagrindžia:
     - c-167746
 
 <a id="claim-t-184826"></a>
-- t-065
+- t-039
   global_id: t-184826
   teiginys: "Skirgaila Šventaragio slėnyje surengė Kęstučiui karališkas šermenis ir laidotuves."
   pagrindžia:
@@ -338,28 +338,28 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - c-171506
 
 <a id="claim-t-190971"></a>
-- t-066
+- t-041
   global_id: t-190971
   teiginys: "Narbutas rašė, kad 1386-1447 m. Lietuva pasiekė didžiausią galybę, ypač valdant Vytautui, sostą paveldėjusiam iš Skirgailos."
   pagrindžia:
     - c-173853
 
 <a id="claim-t-193978"></a>
-- t-067
+- t-042
   global_id: t-193978
   teiginys: "Ta da kunigaikštis Skirgaila davė žodi mano tėvui kuni gaikščio Jogailos vardu ir davė jam savo ranką, ir savo vardu taip pat davė žodį ir savo ranką."
   pagrindžia:
     - c-176603
 
 <a id="claim-t-193979"></a>
-- t-068
+- t-043
   global_id: t-193979
   teiginys: "O kunigaikštis Jogaila pažado neišpildė, atstojo nuo tiesos ir mano tėviškės man neatidavė, o davė mano tėviškę savo broliui kunigaikščiui Skirgailai."
   pagrindžia:
     - c-176604
 
 <a id="claim-t-193980"></a>
-- t-069
+- t-044
   global_id: t-193980
   teiginys: "Skirgailos baudžiamasis žygis prieš Polocką buvo 1381 m. rugpiūčlo mėn."
   pagrindžia:

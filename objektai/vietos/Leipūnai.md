@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - vieta
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'
@@ -46,7 +47,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
     - c-43568
 
 <a id="claim-t-111671"></a>
-- t-001
+- t-002
   global_id: t-111671
   teiginys: "Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose."
   pagrindžia:

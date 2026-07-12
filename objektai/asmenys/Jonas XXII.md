@@ -57,7 +57,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     - c-167225
 
 <a id="claim-t-184095"></a>
-- t-004
+- t-003
   global_id: t-184095
   teiginys: "1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę."
   pagrindžia:

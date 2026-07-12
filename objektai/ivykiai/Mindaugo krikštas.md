@@ -60,63 +60,63 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187501"></a>
-- t-011
+- t-001
   global_id: t-187501
   teiginys: "Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų."
   pagrindžia:
     - c-170459
 
 <a id="claim-t-187502"></a>
-- t-004
+- t-002
   global_id: t-187502
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau."
   pagrindžia:
     - c-170460
 
 <a id="claim-t-187501"></a>
-- t-011
+- t-003
   global_id: t-187501
   teiginys: "Lietuvos metraštis vaizduoja Mindaugo krikštą kaip apgaulingą ir teigia, kad po krikšto jis toliau laikėsi pagoniškų praktikų."
   pagrindžia:
     - c-170459
 
 <a id="claim-t-187504"></a>
-- t-014
+- t-004
   global_id: t-187504
   teiginys: "Lietuvos metraštis teigia, kad Mindaugas pasiuntė pasiuntinius pas popiežių ir priėmė krikštą."
   pagrindžia:
     - c-170459
 
 <a id="claim-t-187505"></a>
-- t-010
+- t-005
   global_id: t-187505
   teiginys: "Lietuvos metraščio pasakojime Mindaugas nusiuntė pasiuntinius pas popiežių ir priėmė krikštą."
   pagrindžia:
     - c-170459
 
 <a id="claim-t-187506"></a>
-- t-014
+- t-006
   global_id: t-187506
   teiginys: "Lietuvos metraštis teigia, kad magistras Andrius ragino Mindaugą siųsti pasiuntinius pas popiežių ir priimti krikštą."
   pagrindžia:
     - c-170459
 
 <a id="claim-t-187507"></a>
-- t-002
+- t-007
   global_id: t-187507
   teiginys: "Mindaugo krikštas ir karalystė pagoniškos Lietuvos istorijoje liko tik epizodas."
   pagrindžia:
     - c-170458
 
 <a id="claim-t-187508"></a>
-- t-003
+- t-008
   global_id: t-187508
   teiginys: "Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą."
   pagrindžia:
     - c-170460
 
 <a id="claim-t-187509"></a>
-- t-001
+- t-009
   global_id: t-187509
   teiginys: "1250 m. Mindaugas apsikrikštijo ir apkrikštijo daug savo didikų."
   pagrindžia:

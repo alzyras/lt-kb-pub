@@ -41,14 +41,14 @@ Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Ad
 ## Teiginiai
 
 <a id="claim-t-64205"></a>
-- t-002
+- t-001
   global_id: t-64205
   teiginys: "Valdas Adamkus 2000 m. gegužės 19 d. dalyvavo Vilniaus konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje."
   pagrindžia:
     - c-65022
 
 <a id="claim-t-64206"></a>
-- t-001
+- t-002
   global_id: t-64206
   teiginys: "Brazauską vadovo poste pakeitė iš JAV grįžęs gyventi į Lietuvą Valdas Adamkus, ir po 2000 m. Seimo rinkimų, kuriuose nė vienai partijai nepavyko pasiekti įtikinamos pergalės, todėl atėjo nauja koalicinių vyriausybių era."
   pagrindžia:

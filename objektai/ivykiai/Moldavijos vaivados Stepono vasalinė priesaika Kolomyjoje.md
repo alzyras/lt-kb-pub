@@ -55,28 +55,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186761"></a>
-- t-004
+- t-001
   global_id: t-186761
   teiginys: "Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas."
   pagrindžia:
     - c-169968
 
 <a id="claim-t-186762"></a>
-- t-003
+- t-002
   global_id: t-186762
   teiginys: "Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu."
   pagrindžia:
     - c-169968
 
 <a id="claim-t-186763"></a>
-- t-001
+- t-003
   global_id: t-186763
   teiginys: "Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d."
   pagrindžia:
     - c-169967
 
 <a id="claim-t-186764"></a>
-- t-002
+- t-004
   global_id: t-186764
   teiginys: "Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d."
   pagrindžia:

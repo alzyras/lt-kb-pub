@@ -31,14 +31,14 @@ Lenki­ jai labai rūpėjo atgauti Pamario, Kulmijos ir Michalovos že­ mės, o
 ## Teiginiai
 
 <a id="claim-t-36407"></a>
-- t-002
+- t-001
   global_id: t-36407
   teiginys: "Vytauto požiūriu Michalovos sritys turėjo likti Ordinui, nes jis nenorėjo visiško Lenkijos susitaikymo su Ordinu."
   pagrindžia:
     - c-38568
 
 <a id="claim-t-36408"></a>
-- t-001
+- t-002
   global_id: t-36408
   teiginys: "Lenkija siekė atgauti Michalovos žemes, o lietuviams rūpėjo faktiškai jų valdyta Žemaitija."
   pagrindžia:

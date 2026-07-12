@@ -39,7 +39,7 @@ Tam tikslui 1252 m. Livo- nijos ordinas ėmė statyti pilį toje vietoje, kur Ku
     - c-67494
 
 <a id="claim-t-67690"></a>
-- t-001
+- t-002
   global_id: t-67690
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį vietoje, kur Kuršių marios jungiasi su Baltija."
   pagrindžia:

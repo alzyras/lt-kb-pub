@@ -39,28 +39,28 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
 ## Teiginiai
 
 <a id="claim-t-58457"></a>
-- t-003
+- t-001
   global_id: t-58457
   teiginys: "Po popiežiaus Klemenso vainikavimo prie Liono esančioje Šv. Justo bažnyčioje griuvusi mūro siena nuslėgė daug žmonių."
   pagrindžia:
     - c-59090
 
 <a id="claim-t-58458"></a>
-- t-001
+- t-002
   global_id: t-58458
   teiginys: "1245 m. popiežius sušaukė Lione suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą."
   pagrindžia:
     - c-59089
 
 <a id="claim-t-58459"></a>
-- t-002
+- t-003
   global_id: t-58459
   teiginys: "1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti."
   pagrindžia:
     - c-59091
 
 <a id="claim-t-58458"></a>
-- t-001
+- t-004
   global_id: t-58458
   teiginys: "1245 m. popiežius sušaukė Lione suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą."
   pagrindžia:

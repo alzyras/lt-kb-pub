@@ -39,7 +39,7 @@ media_all_json: |-
     - c-67405
 
 <a id="claim-t-67535"></a>
-- t-004
+- t-002
   global_id: t-67535
   teiginys: "Salyno sutartyje buvo minimi tik nelaisvieji valstiečiai, todėl Vytautas teigė, kad laisvieji galėjo kilnotis kur tinkami."
   pagrindžia:
@@ -53,7 +53,7 @@ media_all_json: |-
     - c-67404
 
 <a id="claim-t-67539"></a>
-- t-002
+- t-004
   global_id: t-67539
   teiginys: "Salyno sutartimi Vytautas sutiko Ordinui užleisti Žemaičius iki Nevėžio ir šiaurinę Suvalkų krašto dalį."
   pagrindžia:

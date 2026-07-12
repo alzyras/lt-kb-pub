@@ -38,14 +38,14 @@ Antanas Smetona ir jo aplinka. Eidinto knygos „Antanas Smetona ir jo aplinka�
 ## Teiginiai
 
 <a id="claim-t-75438"></a>
-- t-002
+- t-001
   global_id: t-75438
   teiginys: "A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 m."
   pagrindžia:
     - c-23730
 
 <a id="claim-t-75439"></a>
-- t-003
+- t-002
   global_id: t-75439
   teiginys: "A. Eidinto knyga „Antanas Smetona ir jo aplinka“ išleista Vilniuje 2012 metais."
   pagrindžia:

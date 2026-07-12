@@ -44,49 +44,49 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-79512"></a>
-- t-006
+- t-001
   global_id: t-79512
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo."
   pagrindžia:
     - c-76498
 
 <a id="claim-t-79513"></a>
-- t-001
+- t-002
   global_id: t-79513
   teiginys: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
   pagrindžia:
     - c-76495
 
 <a id="claim-t-79515"></a>
-- t-004
+- t-003
   global_id: t-79515
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   pagrindžia:
     - c-76499
 
 <a id="claim-t-79516"></a>
-- t-003
+- t-004
   global_id: t-79516
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
   pagrindžia:
     - c-76498
 
 <a id="claim-t-79516"></a>
-- t-003
+- t-005
   global_id: t-79516
   teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
   pagrindžia:
     - c-76498
 
 <a id="claim-t-183788"></a>
-- t-007
+- t-006
   global_id: t-183788
   teiginys: "Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus."
   pagrindžia:
     - c-167176
 
 <a id="claim-t-184997"></a>
-- t-008
+- t-007
   global_id: t-184997
   teiginys: "Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę."
   pagrindžia:

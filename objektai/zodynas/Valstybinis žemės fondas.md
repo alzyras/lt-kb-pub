@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - reforma
   - seimas
   - sąvoka
+  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

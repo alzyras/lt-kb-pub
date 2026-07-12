@@ -37,7 +37,7 @@ Dusburgietis teigia, kad todėl, kai Pobravas, susivienijęs su notangais ir var
     - c-167504
 
 <a id="claim-t-60414"></a>
-- t-001
+- t-002
   global_id: t-60414
   teiginys: "Pobravas su notangais ir varmiais užgrobė Balgos brolių gyvulius, nužudė tris sargus ir vėliau buvo nužudytas persekiotojų."
   pagrindžia:

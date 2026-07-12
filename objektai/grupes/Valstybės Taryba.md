@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - seimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -39,7 +39,7 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 ## Teiginiai
 
 <a id="claim-t-75012"></a>
-- t-002
+- t-001
   global_id: t-75012
   teiginys: "1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus."
   pagrindžia:

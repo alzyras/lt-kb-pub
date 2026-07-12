@@ -37,28 +37,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187391"></a>
-- t-003
+- t-001
   global_id: t-187391
   teiginys: "1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą."
   pagrindžia:
     - c-170393
 
 <a id="claim-t-187392"></a>
-- t-001
+- t-002
   global_id: t-187392
   teiginys: "1426 m. rugpjūčio 5 d. Vytautas puolė Voronačą, bet jo paimti negalėjo."
   pagrindžia:
     - c-170392
 
 <a id="claim-t-187393"></a>
-- t-004
+- t-003
   global_id: t-187393
   teiginys: "1406 m. Voronačas minimas kaip Pskovui priklausęs miestas, kurį Vytautas buvo apgulęs dvi dienas."
   pagrindžia:
     - c-170393
 
 <a id="claim-t-187394"></a>
-- t-002
+- t-004
   global_id: t-187394
   teiginys: "1426 m. rugpjūtį Vytautas puolė Pskovo miestus Opočką ir Voronačą, bet jų paimti negalėjo."
   pagrindžia:

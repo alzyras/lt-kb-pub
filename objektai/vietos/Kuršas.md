@@ -59,70 +59,70 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
 ## Teiginiai
 
 <a id="claim-t-90761"></a>
-- t-008
+- t-001
   global_id: t-90761
   teiginys: "1244 m. Mindaugas žygyje į Kuršą prie Ambotės atvedė didelę kariuomenę."
   pagrindžia:
     - c-32168
 
 <a id="claim-t-90762"></a>
-- t-015
+- t-002
   global_id: t-90762
   teiginys: "1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   pagrindžia:
     - c-43552
 
 <a id="claim-t-90778"></a>
-- t-010
+- t-003
   global_id: t-90778
   teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
   pagrindžia:
     - c-43547
 
 <a id="claim-t-90764"></a>
-- t-018
+- t-004
   global_id: t-90764
   teiginys: "1244 m. Mindaugas žygyje į Kuršą prie Ambotės buvo atvedęs didelę kariuomenę."
   pagrindžia:
     - c-32168
 
 <a id="claim-t-90766"></a>
-- t-020
+- t-005
   global_id: t-90766
   teiginys: "Nemunas prie Klaipėdos įteka į jūrą ir skiria Prūsiją nuo Rusios, Lietuvos bei Kuršo."
   pagrindžia:
     - c-86538
 
 <a id="claim-t-90767"></a>
-- t-012
+- t-006
   global_id: t-90767
   teiginys: "1435 m. spalį žemaičiai Kurše sudegino Durbės pilį ir taip dar kartą smogė Livonijai."
   pagrindžia:
     - c-43549
 
 <a id="claim-t-90768"></a>
-- t-017
+- t-007
   global_id: t-90768
   teiginys: "Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedams."
   pagrindžia:
     - c-32166
 
 <a id="claim-t-90769"></a>
-- t-022
+- t-008
   global_id: t-90769
   teiginys: "1260 m. keturi tūkstančiai lietuvių nuniokojo vieną Kuršo dalį, grobdami, degindami ir išsivesdami belaisvius."
   pagrindžia:
     - c-86539
 
 <a id="claim-t-90770"></a>
-- t-005
+- t-009
   global_id: t-90770
   teiginys: "Rimbertas pirmasis paminėjo kuršių vardą, o Hervararsaga Kuršo užvaldymą siejo su švedų karaliumi Ivaru."
   pagrindžia:
     - c-32165
 
 <a id="claim-t-90771"></a>
-- t-009
+- t-010
   global_id: t-90771
   teiginys: "Paliauboms pasibaigus, žemaičiai puolė Kuršą ir vėliau Skuodo laukuose sumušė juos persekiojusius riterius."
   pagrindžia:
@@ -136,105 +136,105 @@ Bet visai priešo kariuomenei traukiant į Karšuvą, žemaičiai nėjo jos gint
     - c-43548
 
 <a id="claim-t-90773"></a>
-- t-021
+- t-012
   global_id: t-90773
   teiginys: "Dusburgiečio tekste Nemunas nurodomas kaip Prūsiją nuo Kuršo skirianti riba."
   pagrindžia:
     - c-86536
 
 <a id="claim-t-90774"></a>
-- t-007
+- t-013
   global_id: t-90774
   teiginys: "Istorinių laikų angoje kuršiai dar buvo užėmę platų Žemaičių šiaurės vakarų kampą ir Klaipėdos apylinkę."
   pagrindžia:
     - c-86541
 
 <a id="claim-t-90775"></a>
-- t-016
+- t-014
   global_id: t-90775
   teiginys: "Dalis Kuršo buvo minima tarp teritorijų, į kurias krypo dviejų Lietuvos politinių grupuočių aspiracijos."
   pagrindžia:
     - c-86542
 
 <a id="claim-t-90776"></a>
-- t-014
+- t-015
   global_id: t-90776
   teiginys: "Sapiegų etmonas, iždininkas ir maršalas, paskleidę klaidinantį gandą, iš Vilniaus pasitraukė į Kuršą, Bauskę ir Mintaują."
   pagrindžia:
     - c-43551
 
 <a id="claim-t-90777"></a>
-- t-006
+- t-016
   global_id: t-90777
   teiginys: "Švedų karalius Olafas, išgirdęs apie danų nesėkmę, siekė iš naujo užvaldyti Kuršą švedų naudai."
   pagrindžia:
     - c-32166
 
 <a id="claim-t-90778"></a>
-- t-010
+- t-017
   global_id: t-90778
   teiginys: "Mindaugo pajėgos įsiveržė į Kuršą ir su piliadaužėmis nesėkmingai puolė Ordino valdytą Embutės pilį."
   pagrindžia:
     - c-43547
 
 <a id="claim-t-183789"></a>
-- t-024
+- t-018
   global_id: t-183789
   teiginys: "1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą."
   pagrindžia:
     - c-167177
 
 <a id="claim-t-184998"></a>
-- t-025
+- t-019
   global_id: t-184998
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   pagrindžia:
     - c-168359
 
 <a id="claim-t-184999"></a>
-- t-026
+- t-020
   global_id: t-184999
   teiginys: "Mindaugas tuo žygiu atgavo Žemaitiją bei Kuršą, nusiaubė Sembą ir vėliau Prūsijoje sukėlė karą."
   pagrindžia:
     - c-168360
 
 <a id="claim-t-192682"></a>
-- t-027
+- t-021
   global_id: t-192682
   teiginys: "Teodoro Narbuto pasakojime Jarmerikas užgrobė Sembą, paskui Kuršą ir toliau į rytus plytinčius kraštus."
   pagrindžia:
     - c-175452
 
 <a id="claim-t-192683"></a>
-- t-028
+- t-022
   global_id: t-192683
   teiginys: "Narbutas rašė, kad kuršiai lietuviškai vadinti Koryones arba Kuryones, o savo kraštą vadino Kurr zemme."
   pagrindžia:
     - c-175453
 
 <a id="claim-t-192684"></a>
-- t-029
+- t-023
   global_id: t-192684
   teiginys: "Narbutas pritarė Ksaverui Bogušui, kad islandų sagų chorai arba churai suprastini kaip kuršiai."
   pagrindžia:
     - c-175454
 
 <a id="claim-t-192685"></a>
-- t-030
+- t-024
   global_id: t-192685
   teiginys: "Kuršiai visuomet buvo žem dirbiai ir kariai, nes, gyvendami pajūrio žemėse ir būda mi turtingi, buvo priversti nuolat kariauti su skandina vais ir jiems giminingomis gentimis."
   pagrindžia:
     - c-175455
 
 <a id="claim-t-193771"></a>
-- t-031
+- t-025
   global_id: t-193771
   teiginys: "1244 m. Mindaugo - „Lietuvos galingo karaliaus“ pajėgos įsiveržė į Kuršą, su piliadaužėmis puolė Ordino anksčiau užvaldytą Embutės pilį, tačiau jos užimti nepavyko."
   pagrindžia:
     - c-43547
 
 <a id="claim-t-194733"></a>
-- t-032
+- t-026
   global_id: t-194733
   teiginys: "Vida buvo švedų kilmės bartininko Vidmanto iš Kuršo duktė."
   pagrindžia:

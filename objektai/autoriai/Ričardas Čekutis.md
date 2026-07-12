@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - institucija
   - karas
   - mūšis
-  - sukilimas
 amziai:
   - 'XX'
 periodo_grupes:

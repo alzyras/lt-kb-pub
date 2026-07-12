@@ -44,14 +44,14 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
 ## Teiginiai
 
 <a id="claim-t-113193"></a>
-- t-002
+- t-001
   global_id: t-113193
   teiginys: "Pskovo ir Naugardo respublikose Vytauto įtaka buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos."
   pagrindžia:
     - c-36931
 
 <a id="claim-t-113194"></a>
-- t-001
+- t-002
   global_id: t-113194
   teiginys: "Lietuvių kunigaikščių kariniai būriai pasiekdavo turtingų Didžiojo Naugardo ir Pskovo respublikų plotus."
   pagrindžia:
@@ -65,21 +65,21 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - c-36932
 
 <a id="claim-t-113196"></a>
-- t-007
+- t-004
   global_id: t-113196
   teiginys: "Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius."
   pagrindžia:
     - c-104472
 
 <a id="claim-t-113197"></a>
-- t-006
+- t-005
   global_id: t-113197
   teiginys: "Vytauto įtaka Pskovo ir Naugardo respublikose buvo susilpnėjusi, nes jos labiau šliejosi prie Livonijos ordino ir Maskvos."
   pagrindžia:
     - c-36931
 
 <a id="claim-t-113198"></a>
-- t-008
+- t-006
   global_id: t-113198
   teiginys: "Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila."
   pagrindžia:

@@ -8,7 +8,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - privilegija
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05373"></a>
-- t-002
+- t-001
   global_id: t-05373
   teiginys: "Didieji Lietuvos kunigaikščiai Žemaičių krašto vidaus reikaluose turėjo nedaug įtakos, bet pavojaus metu teikė pagalbą."
   pagrindžia:
     - c-05436
 
 <a id="claim-t-67250"></a>
-- t-004
+- t-002
   global_id: t-67250
   teiginys: "Po Zigmanto mirties kilusių konkurentų kovų metu žemaičiai iš Kazimiero gavo privilegiją, apdraudusią jų teises ir savitą vidaus tvarkymąsi."
   pagrindžia:

@@ -43,21 +43,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-68240"></a>
-- t-002
+- t-001
   global_id: t-68240
   teiginys: "Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą."
   pagrindžia:
     - c-32139
 
 <a id="claim-t-68241"></a>
-- t-003
+- t-002
   global_id: t-68241
   teiginys: "1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai."
   pagrindžia:
     - c-32140
 
 <a id="claim-t-68242"></a>
-- t-001
+- t-003
   global_id: t-68242
   teiginys: "G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose."
   pagrindžia:

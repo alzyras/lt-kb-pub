@@ -30,42 +30,42 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 ## Teiginiai
 
 <a id="claim-t-184570"></a>
-- t-002
+- t-001
   global_id: t-184570
   teiginys: "Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą."
   pagrindžia:
     - c-167931
 
 <a id="claim-t-184571"></a>
-- t-003
+- t-002
   global_id: t-184571
   teiginys: "Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo."
   pagrindžia:
     - c-167932
 
 <a id="claim-t-184572"></a>
-- t-004
+- t-003
   global_id: t-184572
   teiginys: "Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių."
   pagrindžia:
     - c-167933
 
 <a id="claim-t-184574"></a>
-- t-006
+- t-004
   global_id: t-184574
   teiginys: "Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
   pagrindžia:
     - c-167935
 
 <a id="claim-t-193327"></a>
-- t-007
+- t-005
   global_id: t-193327
   teiginys: "Numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina."
   pagrindžia:
     - c-176055
 
 <a id="claim-t-193328"></a>
-- t-008
+- t-006
   global_id: t-193328
   teiginys: "A n tra vertu s, / k u n ig aik štis Iv an as n en u trau - Maskvėnal pradeda k ė k a ro v eik sm ų n e t tuo m ekarą tu, kai k a ra lia u s įg alio tin iai b ergždžiai d e rėjo si M ask v o je."
   pagrindžia:

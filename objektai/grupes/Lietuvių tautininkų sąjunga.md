@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - miestas
   - seimas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -40,21 +40,21 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 ## Teiginiai
 
 <a id="claim-t-44993"></a>
-- t-003
+- t-001
   global_id: t-44993
   teiginys: "Juozas Tūbelis 1931–1938 m. pirmininkavo ir Lietuvos vyriausybei, ir Lietuvių tautininkų sąjungai."
   pagrindžia:
     - c-22542
 
 <a id="claim-t-44994"></a>
-- t-001
+- t-002
   global_id: t-44994
   teiginys: "LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos."
   pagrindžia:
     - c-22540
 
 <a id="claim-t-44995"></a>
-- t-005
+- t-003
   global_id: t-44995
   teiginys: "Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės."
   pagrindžia:
@@ -68,7 +68,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
     - c-22543
 
 <a id="claim-t-44997"></a>
-- t-002
+- t-005
   global_id: t-44997
   teiginys: "Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo."
   pagrindžia:

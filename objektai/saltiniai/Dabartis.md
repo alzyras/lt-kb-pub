@@ -29,7 +29,7 @@ Vien tik vokiečių štabas spausdino lietuvišką laikraštpalaikį „Dabartį
 ## Teiginiai
 
 <a id="claim-t-45672"></a>
-- t-002
+- t-001
   global_id: t-45672
   teiginys: "Oberosto režimo metais „Dabartis“ buvo vienintelis lietuviškai leistas cenzūruojamas laikraštis."
   pagrindžia:

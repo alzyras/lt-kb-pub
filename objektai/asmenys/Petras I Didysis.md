@@ -38,42 +38,42 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 ## Teiginiai
 
 <a id="claim-t-184422"></a>
-- t-008
+- t-001
   global_id: t-184422
   teiginys: "Augustas II ir Petras I sudarė sutartį atimti iš Švedijos Baltijos pajūrį."
   pagrindžia:
     - c-167783
 
 <a id="claim-t-184424"></a>
-- t-009
+- t-002
   global_id: t-184424
   teiginys: "Maskvos caras Petras I Didysis ruošėsi prasiveržti į Baltijos jūrą, tam siekdamas išvyti švedus iš pajūrio."
   pagrindžia:
     - c-167784
 
 <a id="claim-t-184425"></a>
-- t-002
+- t-003
   global_id: t-184425
   teiginys: "Petras I susitarė su Augustu II dėl Rusijos paramos prieš Švediją."
   pagrindžia:
     - c-167789
 
 <a id="claim-t-184426"></a>
-- t-008
+- t-004
   global_id: t-184426
   teiginys: "Petro I Rusija buvo viena iš stiprėjančių centralizuotų valstybių, grasinusių Lenkijai ir Lietuvai."
   pagrindžia:
     - c-167786
 
 <a id="claim-t-184427"></a>
-- t-006
+- t-005
   global_id: t-184427
   teiginys: "1721 m. Petras I Didysis paskelbė Rusiją imperija."
   pagrindžia:
     - c-167787
 
 <a id="claim-t-184428"></a>
-- t-003
+- t-006
   global_id: t-184428
   teiginys: "Ivinskio vertinimu, Petro Didžiojo epocha įvedė Rusijos imperiją į Europos areną ir bajorų respubliką paliko Rusijos įtakoje."
   pagrindžia:

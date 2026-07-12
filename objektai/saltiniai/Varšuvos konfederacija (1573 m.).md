@@ -11,8 +11,8 @@ date_end: '1573'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - saltinis
+  - teisinė-praktika
   - unija
 amziai:
   - 'XVI'

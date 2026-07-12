@@ -36,14 +36,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77721"></a>
-- t-004
+- t-001
   global_id: t-77721
   teiginys: "Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą."
   pagrindžia:
     - c-24635
 
 <a id="claim-t-77722"></a>
-- t-003
+- t-002
   global_id: t-77722
   teiginys: "1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą."
   pagrindžia:

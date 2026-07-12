@@ -11,10 +11,10 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -46,7 +46,7 @@ Valerijonas ## Puslapis 394 VILNIAUS MIESTO ISTORIJA II TOMAS ŽYGIMANTO SENOJO 
     - c-84150
 
 <a id="claim-t-88170"></a>
-- t-003
+- t-002
   global_id: t-88170
   teiginys: "Vilniaus tarėjai miesto vardu reikalavo būti atleisti nuo jurisdikcijos, kurią, jų teigimu, naujai pasisavino kapitula."
   pagrindžia:

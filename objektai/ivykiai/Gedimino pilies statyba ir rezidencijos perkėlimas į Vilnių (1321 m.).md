@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86892"></a>
-- t-003
+- t-001
   global_id: t-86892
   teiginys: "Gediminui įsakius ant kalno sumūryti pilį ir papėdėje pastatyti medinę tvirtovę, palei pilį kūrėsi nauji gyventojai."
   pagrindžia:

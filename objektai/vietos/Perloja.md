@@ -47,14 +47,14 @@ media_all_json: |-
     - c-43737
 
 <a id="claim-t-50179"></a>
-- t-001
+- t-002
   global_id: t-50179
   teiginys: "Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino."
   pagrindžia:
     - c-43737
 
 <a id="claim-t-50180"></a>
-- t-002
+- t-003
   global_id: t-50180
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė 5 stribus, o partizanai nuostolių nepatyrė."
   pagrindžia:

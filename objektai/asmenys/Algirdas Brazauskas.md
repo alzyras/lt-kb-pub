@@ -42,14 +42,14 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
 ## Teiginiai
 
 <a id="claim-t-75681"></a>
-- t-004
+- t-001
   global_id: t-75681
   teiginys: "1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare."
   pagrindžia:
     - c-21570
 
 <a id="claim-t-75682"></a>
-- t-001
+- t-002
   global_id: t-75682
   teiginys: "Spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir įgijo didelį visuomenės pasitikėjimą."
   pagrindžia:
@@ -63,28 +63,28 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
     - c-21569
 
 <a id="claim-t-75684"></a>
-- t-006
+- t-004
   global_id: t-75684
   teiginys: "2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį."
   pagrindžia:
     - c-73404
 
 <a id="claim-t-75685"></a>
-- t-002
+- t-005
   global_id: t-75685
   teiginys: "Per 1992 m. Seimo rinkimus Algirdo Brazausko vadovaujama LDDP gavo daugumą."
   pagrindžia:
     - c-166914
 
 <a id="claim-t-75683"></a>
-- t-003
+- t-006
   global_id: t-75683
   teiginys: "Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis."
   pagrindžia:
     - c-21569
 
 <a id="claim-t-75685"></a>
-- t-002
+- t-007
   global_id: t-75685
   teiginys: "Per 1992 m. Seimo rinkimus Algirdo Brazausko vadovaujama LDDP gavo daugumą."
   pagrindžia:

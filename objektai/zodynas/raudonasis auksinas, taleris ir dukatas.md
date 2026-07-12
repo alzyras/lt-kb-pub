@@ -29,14 +29,14 @@ Vilniaus universiteto bibliotekoje) Pirmiausia už 3&1 talerį, už kurį Lenkij
 ## Teiginiai
 
 <a id="claim-t-86492"></a>
-- t-002
+- t-001
   global_id: t-86492
   teiginys: "Ponas Pekarskis perdavė 96 raudonuosius auksinus, imtus Brastoje po 56 lenkiškus grašius už vienetą."
   pagrindžia:
     - c-82472
 
 <a id="claim-t-86493"></a>
-- t-001
+- t-002
   global_id: t-86493
   teiginys: "Lenkijoje už talerį mokėta 30 grašių, o Lietuvoje karaliaus paliepimu - 25 lietuviški grašiai."
   pagrindžia:

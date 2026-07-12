@@ -51,35 +51,35 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Teiginiai
 
 <a id="claim-t-175530"></a>
-- t-013
+- t-001
   global_id: t-175530
   teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
   pagrindžia:
     - c-42692
 
 <a id="claim-t-175531"></a>
-- t-015
+- t-002
   global_id: t-175531
   teiginys: "Po pralaimėjimo Saulės mūšyje kalavijuočių likučiai buvo prijungti prie Kryžiuočių ordino."
   pagrindžia:
     - c-159667
 
 <a id="claim-t-175532"></a>
-- t-024
+- t-003
   global_id: t-175532
   teiginys: "1202-1203 m. žiemą vyskupo priklausomybėje buvo įkurtas Kalavijuočių ordinas."
   pagrindžia:
     - c-05800
 
 <a id="claim-t-175533"></a>
-- t-041
+- t-004
   global_id: t-175533
   teiginys: "1557 m. iš Vilniaus į Livoniją žygiavo kariuomenė prieš kalavijuočių ordino magistrą Firstembergą."
   pagrindžia:
     - c-159658
 
 <a id="claim-t-175536"></a>
-- t-036
+- t-005
   global_id: t-175536
   teiginys: "Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino."
   pagrindžia:
@@ -87,140 +87,140 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-159656
 
 <a id="claim-t-175537"></a>
-- t-044
+- t-006
   global_id: t-175537
   teiginys: "Kalavijuočiai iš šiaurės Vytauto jaunystėje buvo vienas iš dviejų galingų priešų, smarkiai puldavusių Lietuvą."
   pagrindžia:
     - c-159660
 
 <a id="claim-t-175538"></a>
-- t-028
+- t-007
   global_id: t-175538
   teiginys: "Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį."
   pagrindžia:
     - c-46302
 
 <a id="claim-t-175539"></a>
-- t-043
+- t-008
   global_id: t-175539
   teiginys: "Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino."
   pagrindžia:
     - c-159662
 
 <a id="claim-t-175540"></a>
-- t-031
+- t-009
   global_id: t-175540
   teiginys: "Maskvos ginklų sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
   pagrindžia:
     - c-159651
 
 <a id="claim-t-175541"></a>
-- t-034
+- t-010
   global_id: t-175541
   teiginys: "1236 metais popiežius įsakė Livonijoje esantiems Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius."
   pagrindžia:
     - c-159670
 
 <a id="claim-t-175542"></a>
-- t-042
+- t-011
   global_id: t-175542
   teiginys: "Gotardas Ketleris, Teutonų ordino Livonijoje magistras, patikėjo save, ordiną ir valdas valdovui, prašydamas gynybos."
   pagrindžia:
     - c-159651
 
 <a id="claim-t-175543"></a>
-- t-023
+- t-012
   global_id: t-175543
   teiginys: "Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų."
   pagrindžia:
     - c-05799
 
 <a id="claim-t-175544"></a>
-- t-025
+- t-013
   global_id: t-175544
   teiginys: "1202 m. dabartinėje Latvijoje įsikūręs Kalavijuočių ordinas siekė nukariauti ir jėga pakrikštyti pagonis baltus."
   pagrindžia:
     - c-42692
 
 <a id="claim-t-175546"></a>
-- t-039
+- t-014
   global_id: t-175546
   teiginys: "1202 m. dabartinės Latvijos teritorijoje įsikūręs Kalavijuočių ordinas siekė nukariauti, prievarta pakrikštyti ir pajungti pagonis baltus."
   pagrindžia:
     - c-42692
 
 <a id="claim-t-175547"></a>
-- t-040
+- t-015
   global_id: t-175547
   teiginys: "1236 m. Saulės mūšyje Lietuvos valstybės kariuomenė sutriuškino Kalavijuočių ordiną."
   pagrindžia:
     - c-159655
 
 <a id="claim-t-175548"></a>
-- t-014
+- t-016
   global_id: t-175548
   teiginys: "1236 m. Saulės mūšyje lietuviai sutriuškino Kalavijuočių ordiną."
   pagrindžia:
     - c-159655
 
 <a id="claim-t-175550"></a>
-- t-029
+- t-017
   global_id: t-175550
   teiginys: "Kalavijuočių ordinas, bijodamas vienas neatsilaikyti, susidėjo su Prūsuose kariavusiu Kryžiuočių ordinu."
   pagrindžia:
     - c-00318
 
 <a id="claim-t-175551"></a>
-- t-047
+- t-018
   global_id: t-175551
   teiginys: "1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius."
   pagrindžia:
     - c-159654
 
 <a id="claim-t-175552"></a>
-- t-046
+- t-019
   global_id: t-175552
   teiginys: "Kalavijuočių ordinas 1202-1203 m. žiemą buvo įkurtas vyskupo priklausomybėje pagal templininkų statutą."
   pagrindžia:
     - c-05800
 
 <a id="claim-t-175553"></a>
-- t-029
+- t-020
   global_id: t-175553
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš Kalavijuočių ordino didįjį magistrą Firstembergą."
   pagrindžia:
     - c-159652
 
 <a id="claim-t-175557"></a>
-- t-032
+- t-021
   global_id: t-175557
   teiginys: "1220 metais Lietuvos ir žiemgalių kariuomenė Padauguvyje smogė kalavijuočiams."
   pagrindžia:
     - c-159650
 
 <a id="claim-t-184562"></a>
-- t-050
+- t-022
   global_id: t-184562
   teiginys: "Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių."
   pagrindžia:
     - c-167923
 
 <a id="claim-t-184563"></a>
-- t-051
+- t-023
   global_id: t-184563
   teiginys: "Mūšyje su lietuviais ordino kariuomenė buvo sutriuškinta, o pats magistras žuvo su beveik 20 ordino riterių."
   pagrindžia:
     - c-167924
 
 <a id="claim-t-184564"></a>
-- t-052
+- t-024
   global_id: t-184564
   teiginys: "Livonijos ordino ir Lietuvos sutaikymą bandė tarpininkauti Rygos vyskupas Fridrichas, pasitelkęs popiežiaus Jono XXII autoritetą."
   pagrindžia:
     - c-167925
 
 <a id="claim-t-184568"></a>
-- t-056
+- t-025
   global_id: t-184568
   teiginys: "Livonijos riterių magistras Vilhelmas Fiurstenbergas su beveik visu ordinu atsižadėjo Romos tikėjimo ir perėjo į Liuterio sektą."
   pagrindžia:
@@ -234,14 +234,14 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
     - c-170669
 
 <a id="claim-t-193095"></a>
-- t-057
+- t-027
   global_id: t-193095
   teiginys: "Naujasis ordinas turėjo būti nuolatinė organizuota vokiečių ir krikštytų čiabuvių karinė pajėga."
   pagrindžia:
     - c-00317
 
 <a id="claim-t-193539"></a>
-- t-058
+- t-028
   global_id: t-193539
   teiginys: "Nors žemaičiai Saulės mūšyje 1236 m. šį žygį Vokiečių ordino riteris pagrobia vaiką."
   pagrindžia:

@@ -43,56 +43,56 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
 ## Teiginiai
 
 <a id="claim-t-05184"></a>
-- t-003
+- t-001
   global_id: t-05184
   teiginys: "Julijona buvo Tverės kunigaikščio Aleksandro duktė ir Algirdo žmona."
   pagrindžia:
     - c-160501
 
 <a id="claim-t-05185"></a>
-- t-004
+- t-002
   global_id: t-05185
   teiginys: "Julijona paminėta Žemaičių dovanojimo dokumente kartu su kunigaikščio taryba."
   pagrindžia:
     - c-04832
 
 <a id="claim-t-05186"></a>
-- t-005
+- t-003
   global_id: t-05186
   teiginys: "Remiantis Torno analų žinia, Julijonos įtaka aiškinamas Jogailos atsisakymas judėti pas magistrą."
   pagrindžia:
     - c-160504
 
 <a id="claim-t-176500"></a>
-- t-010
+- t-004
   global_id: t-176500
   teiginys: "Julijona prisidėjo prie Jogailos sutarties su Ordinu, nukreiptos prieš Kęstutį, sudarymo."
   pagrindžia:
     - c-160505
 
 <a id="claim-t-176502"></a>
-- t-008
+- t-005
   global_id: t-176502
   teiginys: "Julijonos sūnūs Kaributas, Karigaila, Lengvenis, Vygandas ir Švitrigaila buvo trijų Jogailos ir Skirgailos sutarčių liudininkai."
   pagrindžia:
     - c-04832
 
 <a id="claim-t-176503"></a>
-- t-009
+- t-006
   global_id: t-176503
   teiginys: "Zenonas Ivinskis, remdamasis Torno analais, svarsto, kad Julijona galėjo nenorėti Lietuvos krikšto lotynų apeigomis."
   pagrindžia:
     - c-160504
 
 <a id="claim-t-176505"></a>
-- t-006
+- t-007
   global_id: t-176505
   teiginys: "Po Onos mirties Vilniuje 1418 m. Vytautas nusprendė vesti jos dukterėčią Julijoną, Jono Algimantaičio dukterį."
   pagrindžia:
     - c-160500
 
 <a id="claim-t-184743"></a>
-- t-010
+- t-008
   global_id: t-184743
   teiginys: "Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves."
   pagrindžia:

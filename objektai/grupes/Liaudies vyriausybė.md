@@ -38,14 +38,14 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
 ## Teiginiai
 
 <a id="claim-t-19797"></a>
-- t-002
+- t-001
   global_id: t-19797
   teiginys: "Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją."
   pagrindžia:
     - c-22521
 
 <a id="claim-t-19798"></a>
-- t-001
+- t-002
   global_id: t-19798
   teiginys: "1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai."
   pagrindžia:

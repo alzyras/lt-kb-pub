@@ -32,21 +32,21 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
 ## Teiginiai
 
 <a id="claim-t-90326"></a>
-- t-003
+- t-001
   global_id: t-90326
   teiginys: "Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis."
   pagrindžia:
     - c-86187
 
 <a id="claim-t-90327"></a>
-- t-001
+- t-002
   global_id: t-90327
   teiginys: "Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą."
   pagrindžia:
     - c-86187
 
 <a id="claim-t-90328"></a>
-- t-002
+- t-003
   global_id: t-90328
   teiginys: "Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443."
   pagrindžia:

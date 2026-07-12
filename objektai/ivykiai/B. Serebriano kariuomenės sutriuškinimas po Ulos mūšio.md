@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41259"></a>
-- t-002
+- t-001
   global_id: t-41259
   teiginys: "Po Ulos sutriuškinimo maskvėnai prarado iniciatyvą kare, o naujo didelio jų puolimo grėsmė išnyko."
   pagrindžia:
     - c-44896
 
 <a id="claim-t-41260"></a>
-- t-001
+- t-002
   global_id: t-41260
   teiginys: "Nepraėjus dviem savaitėms po Ulos mūšio, lietuviai beveik be mūšio sutriuškino B. Serebriano vedamą kariuomenę."
   pagrindžia:

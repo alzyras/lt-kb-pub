@@ -43,147 +43,147 @@ Dusburgietis teigia, kad pasprukusius persekiojo iki pat miesto, po neilgos apgu
 ## Teiginiai
 
 <a id="claim-t-58772"></a>
-- t-010
+- t-001
   global_id: t-58772
   teiginys: "1313 m. rudenį maršalas Henrikas užpuolė Bisenės pilį, o po ilgų kovų sudegė abu jos papiliai."
   pagrindžia:
     - c-59411
 
 <a id="claim-t-58773"></a>
-- t-007
+- t-002
   global_id: t-58773
   teiginys: "1296 m. Ordino broliai perėjo užšalusį Nemuną ir nusiaubė Gardino pilies apylinkes bei papilį."
   pagrindžia:
     - c-59412
 
 <a id="claim-t-58774"></a>
-- t-002
+- t-003
   global_id: t-58774
   teiginys: "Bežglove po 1277 m. buvo atstatyta mūrinė kryžiuočių pilis su papiliu."
   pagrindžia:
     - c-59413
 
 <a id="claim-t-58775"></a>
-- t-005
+- t-004
   global_id: t-58775
   teiginys: "Konrado Štangės žvalgas prie Junigedos pilies pranešė, kad lauke, pilyje ir papilyje pilna karių."
   pagrindžia:
     - c-59405
 
 <a id="claim-t-58776"></a>
-- t-013
+- t-005
   global_id: t-58776
   teiginys: "1324 m. gegužės 22 d. Ditrichas iš Altenburgo su Ordino pajėgomis užpuolė ir sudegino Gedimino pilies papilį."
   pagrindžia:
     - c-59416
 
 <a id="claim-t-58777"></a>
-- t-001
+- t-006
   global_id: t-58777
   teiginys: "Prūsai sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį, dalį žmonių paimdami į nelaisvę, o kitus išžudydami."
   pagrindžia:
     - c-59404
 
 <a id="claim-t-58778"></a>
-- t-012
+- t-007
   global_id: t-58778
   teiginys: "1318 m. rudenį maršalas Henrikas su didele kariuomene sudegino Junigedos ir Pieštvės pilių papilius."
   pagrindžia:
     - c-59407
 
 <a id="claim-t-58779"></a>
-- t-011
+- t-008
   global_id: t-58779
   teiginys: "1317 m. Fridrichas iš Libencelės nesėkmingai bandė paimti Gedimino pilį, tačiau Ordino broliams pavyko sudeginti jos papilį."
   pagrindžia:
     - c-59410
 
 <a id="claim-t-58780"></a>
-- t-006
+- t-009
   global_id: t-58780
   teiginys: "1293 m. magistras užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
   pagrindžia:
     - c-59414
 
 <a id="claim-t-58782"></a>
-- t-004
+- t-010
   global_id: t-58782
   teiginys: "Prie Junigedos, arba Veliuonos, pilies buvo du papiliai: vienas ant kalno, kitas slėnyje."
   pagrindžia:
     - c-59408
 
 <a id="claim-t-58783"></a>
-- t-009
+- t-011
   global_id: t-58783
   teiginys: "Rudenį komtūras antrą kartą sudegino atstatytą papilį, kuriame buvo sukrauti grūdai ir javai."
   pagrindžia:
     - c-59406
 
 <a id="claim-t-58784"></a>
-- t-008
+- t-012
   global_id: t-58784
   teiginys: "1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į Gardino papilį, išžudė arba paėmė į nelaisvę žmones ir papilį sudegino."
   pagrindžia:
     - c-59409
 
 <a id="claim-t-184009"></a>
-- t-014
+- t-013
   global_id: t-184009
   teiginys: "Prūsai prie Pagansčių kaimo sumušė krikščionis, o po to sugriovė pamedėnų gyvenvietę, pilį ir brolių papilį."
   pagrindžia:
     - c-167394
 
 <a id="claim-t-184010"></a>
-- t-015
+- t-014
   global_id: t-184010
   teiginys: "Pagudėnai ir jų sąjungininkai būtų galėję paimti Elbingo papilį, jei karys Virtelis nebūtų ietimi pervėręs jų vado."
   pagrindžia:
     - c-167395
 
 <a id="claim-t-58780"></a>
-- t-006
+- t-015
   global_id: t-58780
   teiginys: "1293 m. magistras užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
   pagrindžia:
     - c-59414
 
 <a id="claim-t-184012"></a>
-- t-017
+- t-016
   global_id: t-184012
   teiginys: "1306 m. Albrechtas iš Hageno su Ordino pajėgomis įsiveržė į didelį ir gausiai gyvenamą Gardino papilį ir jį sudegino."
   pagrindžia:
     - c-59409
 
 <a id="claim-t-184013"></a>
-- t-018
+- t-017
   global_id: t-184013
   teiginys: "1317 m. Ordino broliams nepavyko paimti Gedimino pilies, tačiau jie visiškai sudegino jos papilį."
   pagrindžia:
     - c-59410
 
 <a id="claim-t-184633"></a>
-- t-019
+- t-018
   global_id: t-184633
   teiginys: "1299 m. Brandenburgo komtūras Kanonas sudegino namus Junigedos ir Pieštvės papiliuose."
   pagrindžia:
     - c-167994
 
 <a id="claim-t-194457"></a>
-- t-020
+- t-019
   global_id: t-194457
   teiginys: "Apie Junigedos pilies papilių sudeginimą 1293 viešpaties metais magistras žiemą, nesigailėdamas nei savęs, nei savo žmonių, nevengdamas nei didelių rūpesčių, nei gausių išlaidų, visados pasiryžęs aukštinti tikėjimą ir tikinčiuosius, sutelkė visą savo."
   pagrindžia:
     - c-59414
 
 <a id="claim-t-194458"></a>
-- t-021
+- t-020
   global_id: t-194458
   teiginys: "Apie Gardino papilio sunaikinimą 1306 viešpaties metais brolis Konradas, magistras, iš patikimų šaltinių sužinojęs, kad didelė kariuomenė iš Lietuvos bei Gardino pilies patraukė link Lenkijos, išsiuntė šios pilies užkariauti brolį Albrechtą iš Hageno bei."
   pagrindžia:
     - c-59409
 
 <a id="claim-t-194459"></a>
-- t-022
+- t-021
   global_id: t-194459
   teiginys: "Apie Gedimino pilies papilio sudeginimą ir kitką 1317 metais Tų pačių metų vasarą, apie šventą Joną Krikštytoją (birželio 24), tas pats maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo savo kariuomenę į keturias dalis."
   pagrindžia:

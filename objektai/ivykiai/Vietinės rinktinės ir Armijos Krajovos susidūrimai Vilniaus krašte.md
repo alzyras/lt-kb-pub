@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75294"></a>
-- t-002
+- t-001
   global_id: t-75294
   teiginys: "Kovai su vietos lenkų pasipriešinimu į Vilniją pasiųsti Vietinės rinktinės daliniai susidūrė su ginkluotais Armijos Krajovos daliniais."
   pagrindžia:
     - c-73121
 
 <a id="claim-t-75295"></a>
-- t-001
+- t-002
   global_id: t-75295
   teiginys: "Naciams Vilniaus kraštą priskyrus Lietuvos generalinei sričiai ir lietuvių administracijai, lietuvių ir lenkų santykiai susiklostė komplikuotai."
   pagrindžia:

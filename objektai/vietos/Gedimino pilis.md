@@ -43,21 +43,21 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
 ## Teiginiai
 
 <a id="claim-t-179907"></a>
-- t-005
+- t-001
   global_id: t-179907
   teiginys: "Ragainės broliai apyaušryje slapta įsibrovė į Gedimino pilies papilį ir sudegino jį iki pamatų."
   pagrindžia:
     - c-163543
 
 <a id="claim-t-179908"></a>
-- t-007
+- t-002
   global_id: t-179908
   teiginys: "1317 m. vasarą Gedimino pilies pilėnai apgynė pilį, nors Ordino broliams pavyko visiškai sudeginti papilį."
   pagrindžia:
     - c-163545
 
 <a id="claim-t-179909"></a>
-- t-002
+- t-003
   global_id: t-179909
   teiginys: "Ordino brolių vėliava su sąjungininkais nuo ryto iki pietų stovėjo prieš Gedimino pilį ant kalno."
   pagrindžia:
@@ -71,7 +71,7 @@ GEDIMINO TAIKA SU LENKIJA IR KOVOS SU ORDINU^235 Savo žygius vėl pradėję 132
     - c-163545
 
 <a id="claim-t-179913"></a>
-- t-001
+- t-005
   global_id: t-179913
   teiginys: "Guillaume de Machaut rašė, kad 1357 m. žygyje pilgrimai, be Medvėgalio, paėmė Kvėdarną, Gedimino pilį, Gegužkalnį ir Aukaimį."
   pagrindžia:

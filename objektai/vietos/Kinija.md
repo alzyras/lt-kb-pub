@@ -43,14 +43,14 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
     - c-74092
 
 <a id="claim-t-76526"></a>
-- t-003
+- t-002
   global_id: t-76526
   teiginys: "Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba."
   pagrindžia:
     - c-74090
 
 <a id="claim-t-76527"></a>
-- t-002
+- t-003
   global_id: t-76527
   teiginys: "Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   pagrindžia:

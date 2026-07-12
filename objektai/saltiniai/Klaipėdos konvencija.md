@@ -13,10 +13,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - kraštas
   - saltinis
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'
@@ -42,21 +42,21 @@ Klaipėdos konvencija, kurią 1924 m. gegužės 8 d. pasirašė Paryžiuje Pranc
 ## Teiginiai
 
 <a id="claim-t-125066"></a>
-- t-004
+- t-001
   global_id: t-125066
   teiginys: "Vasario 16 d. Santarvės šalių atstovai po ilgų derybų pripažino Klaipėdos kraštą Lietuvai."
   pagrindžia:
     - c-114287
 
 <a id="claim-t-125067"></a>
-- t-005
+- t-002
   global_id: t-125067
   teiginys: "1939 m. pradžioje Klaipėdos konvencijos signatarai britai ir prancūzai pranešė negarantuosiantys Klaipėdos status quo."
   pagrindžia:
     - c-114287
 
 <a id="claim-t-183702"></a>
-- t-006
+- t-003
   global_id: t-183702
   teiginys: "1924 m. Paryžiuje pasirašyta Klaipėdos konvencija oficialiai pavertė Klaipėdos kraštą Lietuvos Respublikos autonomine dalimi."
   pagrindžia:

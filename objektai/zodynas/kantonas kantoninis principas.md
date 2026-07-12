@@ -37,7 +37,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
 ## Teiginiai
 
 <a id="claim-t-104189"></a>
-- t-005
+- t-001
   global_id: t-104189
   teiginys: "Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą."
   pagrindžia:
@@ -51,7 +51,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
     - c-97148
 
 <a id="claim-t-193606"></a>
-- t-006
+- t-003
   global_id: t-193606
   teiginys: "Ar Lietuva nepralaimėjo neišnaudojusi visų federacijos idėjos su Lenkija galimybių, kad Rytų Europoje nebuvo įdiegtas Šveicarijoje pasiteisinęs kantonų principas?"
   pagrindžia:

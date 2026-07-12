@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - reforma
 amziai:
   - 'XX'
@@ -78,7 +79,7 @@ Nenurodyta
     - c-16904
 
 <a id="claim-t-23358"></a>
-- t-003
+- t-004
   global_id: t-23358
   teiginys: "Per žemės reformą pirmiausia žemės gavo kariai savanoriai, bežemiai ir mažažemiai valstiečiai, kaimo amatininkai bei kai kurios įstaigos."
   pagrindžia:

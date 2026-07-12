@@ -36,7 +36,7 @@ Vartojamos formos: `batvinių`, `batvinėliai`.
 ## Teiginiai
 
 <a id="claim-t-69980"></a>
-- t-003
+- t-001
   global_id: t-69980
   teiginys: "`Batviniai` šiame tekste yra mėgstamas senovės lietuvių valgis."
   pagrindžia:

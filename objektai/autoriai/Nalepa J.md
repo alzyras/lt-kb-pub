@@ -38,21 +38,21 @@ Dusburgietis teigia, kad pirmykštės (gentinės) Sūduvos siaurąja prasme, egz
 ## Teiginiai
 
 <a id="claim-t-60515"></a>
-- t-003
+- t-001
   global_id: t-60515
   teiginys: "J. Nalepos darbai nurodyti tarp šaltinių, siejant aptariamą antpuolį su 1278–1279 m."
   pagrindžia:
     - c-61150
 
 <a id="claim-t-60516"></a>
-- t-004
+- t-002
   global_id: t-60516
   teiginys: "J. Nalepos vietovardžių tyrimai Mėrūniškių regione rodo, kad jotvingiai centrinėse žemėse išliko dar ilgai po 1283 m."
   pagrindžia:
     - c-61149
 
 <a id="claim-t-60518"></a>
-- t-001
+- t-003
   global_id: t-60518
   teiginys: "J. Nalepa pirmykštės gentinės Sūduvos siaurąja prasme ieškojo apie Sūduonią, Šešupės aukštupyje."
   pagrindžia:

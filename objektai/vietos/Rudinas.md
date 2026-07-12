@@ -32,21 +32,21 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
 ## Teiginiai
 
 <a id="claim-t-91359"></a>
-- t-002
+- t-001
   global_id: t-91359
   teiginys: "Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį."
   pagrindžia:
     - c-87075
 
 <a id="claim-t-91360"></a>
-- t-003
+- t-002
   global_id: t-91360
   teiginys: "Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų."
   pagrindžia:
     - c-87074
 
 <a id="claim-t-91361"></a>
-- t-001
+- t-003
   global_id: t-91361
   teiginys: "Pasak kai kurių žmonių, Rudino miestas buvo du kartus užkariautas, o jo gyventojai paimti į nelaisvę arba išžudyti."
   pagrindžia:

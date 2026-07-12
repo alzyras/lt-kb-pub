@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - mokslininkas
   - sutartis
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'

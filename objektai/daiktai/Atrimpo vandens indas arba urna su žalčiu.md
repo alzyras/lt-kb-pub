@@ -47,21 +47,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187980"></a>
-- t-004
+- t-001
   global_id: t-187980
   teiginys: "Narbutas Atrimpo simbolį aiškina kaip žaltį vandens pilnoje vonioje ir sieja jį su senovės lietuvių jūrų dievo vaizdiniu."
   pagrindžia:
     - c-170987
 
 <a id="claim-t-187981"></a>
-- t-003
+- t-002
   global_id: t-187981
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą vandens pripildytą indą arba urną, kurioje laikomas vandens žaltys."
   pagrindžia:
     - c-170988
 
 <a id="claim-t-188374"></a>
-- t-005
+- t-003
   global_id: t-188374
   teiginys: "Narbutas Atrimpo ženklą aprašo kaip javų pėdu uždengtą indą arba urną su vandeniu, kurioje laikomas vandens žaltys."
   pagrindžia:

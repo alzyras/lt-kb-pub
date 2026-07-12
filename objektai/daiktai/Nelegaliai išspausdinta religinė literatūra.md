@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'

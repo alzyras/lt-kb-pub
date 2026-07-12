@@ -36,14 +36,14 @@ Dusburgietis teigia, kad be to, jis patraukė į valsčių, vardu Vaikiai545, ku
 ## Teiginiai
 
 <a id="claim-t-58670"></a>
-- t-003
+- t-001
   global_id: t-58670
   teiginys: "1317 m. žiemą maršalas Henrikas su broliais bei Sembos ir Notangos kariais nužygiavo prieš Vaikių valsčių."
   pagrindžia:
     - c-59304
 
 <a id="claim-t-58671"></a>
-- t-001
+- t-002
   global_id: t-58671
   teiginys: "Vieno žygio į Vaikių valsčių metu iš pasalų buvo nukauta daug kilmingųjų."
   pagrindžia:

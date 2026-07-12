@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54728"></a>
-- t-002
+- t-001
   global_id: t-54728
   teiginys: "Hozijus gavo teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos, o vėliau per upę iškilo mūrinis tiltas."
   pagrindžia:
     - c-55705
 
 <a id="claim-t-54729"></a>
-- t-001
+- t-002
   global_id: t-54729
   teiginys: "1529 m. Albertas Goštautas gavo karaliaus leidimą per Viliją nutiesti akmeninį arba plytinį tiltą su pirklių būdelėmis."
   pagrindžia:

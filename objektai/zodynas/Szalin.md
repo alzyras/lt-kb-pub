@@ -44,14 +44,14 @@ tiksli leksinė reikšmė tiesiogiai neįvardyta, todėl ją reikės formuluoti 
 ## Teiginiai
 
 <a id="claim-t-192221"></a>
-- t-002
+- t-001
   global_id: t-192221
   teiginys: "Narbuto aiškinimu, Szalin siejamas su Salavija, nes ši buvo laikoma toliausiai į šiaurę plytinčia žeme."
   pagrindžia:
     - c-175073
 
 <a id="claim-t-192578"></a>
-- t-003
+- t-002
   global_id: t-192578
   teiginys: "Narbuto aiškinimu, Salavijos pavadinimas kilo iš lietuviško žodžio Szalin, nes ji laikyta toliausiai į šiaurę plytinčia žeme."
   pagrindžia:

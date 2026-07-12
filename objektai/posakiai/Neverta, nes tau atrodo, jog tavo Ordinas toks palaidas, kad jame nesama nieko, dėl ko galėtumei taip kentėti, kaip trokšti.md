@@ -9,6 +9,7 @@ tags:
   - ordinas
   - posakis
   - tikėjimas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,14 +32,14 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
 ## Teiginiai
 
 <a id="claim-t-59140"></a>
-- t-002
+- t-001
   global_id: t-59140
   teiginys: "Regėjime Marija parodė Teutonų ordino brolių žaizdas ir randus, patirtus ginant tikėjimą."
   pagrindžia:
     - c-59772
 
 <a id="claim-t-59141"></a>
-- t-001
+- t-002
   global_id: t-59141
   teiginys: "Regėjime šventoji mergelė Marija šiais žodžiais atsakė broliui, prašiusiam leisti pasilikti Teutonų ordino brolių bendrijoje."
   pagrindžia:

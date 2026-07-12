@@ -39,14 +39,14 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
     - c-60649
 
 <a id="claim-t-60017"></a>
-- t-003
+- t-002
   global_id: t-60017
   teiginys: "Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus."
   pagrindžia:
     - c-60650
 
 <a id="claim-t-60018"></a>
-- t-002
+- t-003
   global_id: t-60018
   teiginys: "Gedūnas atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“."
   pagrindžia:

@@ -62,14 +62,14 @@ Nenurodyta
     - c-169884
 
 <a id="claim-t-186578"></a>
-- t-003
+- t-002
   global_id: t-186578
   teiginys: "Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis."
   pagrindžia:
     - c-169884
 
 <a id="claim-t-186579"></a>
-- t-002
+- t-003
   global_id: t-186579
   teiginys: "Lietuvos metraštis pasakoja, kad Vytauto siųstas žygis į Riazanę parsivarė daug riazaniečių belaisvių ir su dideliu grobiu grįžo pas Vytautą."
   pagrindžia:

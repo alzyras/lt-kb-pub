@@ -43,14 +43,14 @@ Tai iškilminga ir hiperbolinė taikos pažado formulė.
 ## Teiginiai
 
 <a id="claim-t-54760"></a>
-- t-002
+- t-001
   global_id: t-54760
   teiginys: "Lietuviškame vertime pažadas suformuluotas kaip taika, apie kokią krikščionys niekados nė negalvojo."
   pagrindžia:
     - c-55761
 
 <a id="claim-t-54761"></a>
-- t-001
+- t-002
   global_id: t-54761
   teiginys: "Formulė „talem pacem ordinabimus“ žadėjo nustatyti tokią taiką, kokios krikščionys nebuvo patyrę."
   pagrindžia:

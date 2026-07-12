@@ -47,14 +47,14 @@ Vartojamas aiškinant, kad dideli akmenys kilo iš Skandinavijos ir buvo tarsi k
     - c-175106
 
 <a id="claim-t-192288"></a>
-- t-003
+- t-002
   global_id: t-192288
   teiginys: "Narbutas tą patį reiškinį apibūdina ir kaip „akmens krušą“, jos įrodymu laikydamas akmens sangrūdų išsidėstymą."
   pagrindžia:
     - c-175107
 
 <a id="claim-t-192290"></a>
-- t-004
+- t-003
   global_id: t-192290
   teiginys: "Narbutas akmens audros pėdsakus aiškina nevienodu uolienų nuolaužų išsidėstymu žemės paviršiuje."
   pagrindžia:

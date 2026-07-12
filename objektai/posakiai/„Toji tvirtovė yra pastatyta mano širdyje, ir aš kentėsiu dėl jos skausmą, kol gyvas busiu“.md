@@ -36,14 +36,14 @@ Vaizdingais Eiliuotinės kronikos žodžiais, jis esą skundęsis : « Toji tvir
 ## Teiginiai
 
 <a id="claim-t-186420"></a>
-- t-002
+- t-001
   global_id: t-186420
   teiginys: "Posakis „Toji tvirtovė yra pastatyta mano širdyje“ Eiliuotinėje kronikoje pateiktas kaip skundas dėl tvirtovės."
   pagrindžia:
     - c-169759
 
 <a id="claim-t-186421"></a>
-- t-001
+- t-002
   global_id: t-186421
   teiginys: "Po nesėkmingos Daugpilio apgulos 1278 m. Eiliuotinė kronika Traideniui priskyrė skundą dėl tvirtovės."
   pagrindžia:

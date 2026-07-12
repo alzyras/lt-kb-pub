@@ -46,14 +46,14 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
     - c-03981
 
 <a id="claim-t-05942"></a>
-- t-003
+- t-002
   global_id: t-05942
   teiginys: "H. Lowmiański darė išvadą, kad 58 000 km² latvių gyvenamame plote buvo apie 145 000 gyventojų."
   pagrindžia:
     - c-03984
 
 <a id="claim-t-05943"></a>
-- t-002
+- t-003
   global_id: t-05943
   teiginys: "H. Lowmiański išgarsėjo dviejų tomų veikalu apie Lietuvos visuomenės ir valstybės pradžią."
   pagrindžia:

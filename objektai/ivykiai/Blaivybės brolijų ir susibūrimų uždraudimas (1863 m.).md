@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01594"></a>
-- t-002
+- t-001
   global_id: t-01594
   teiginys: "Per 1863 m. sukilimą Muravjovas uždraudė visokius susibūrimus."
   pagrindžia:
     - c-01833
 
 <a id="claim-t-01595"></a>
-- t-001
+- t-002
   global_id: t-01595
   teiginys: "Vilniaus generalgubernatorius ir Kauno gubernatorius draudė blaivybės brolijas, nes tuo metu buvo uždraustos visos draugijos."
   pagrindžia:

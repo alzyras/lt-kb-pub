@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
+  - konfliktas
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -57,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05325"></a>
-- t-004
+- t-001
   global_id: t-05325
   teiginys: "Kai imperatorius pranešė parengęs du vainikus, lenkams pavyko įtikinti popiežių Martyną V sulaikyti Vytauto vainikavimą."
   pagrindžia:
     - c-67061
 
 <a id="claim-t-05326"></a>
-- t-005
+- t-002
   global_id: t-05326
   teiginys: "Lenkai pasienyje sulaikė Cigalos delegaciją, atėmė diplomus ir taip sužlugdė 1430.IX.8 Vilniuje planuotą vainikavimą."
   pagrindžia:
@@ -79,14 +80,14 @@ Nenurodyta
     - c-67066
 
 <a id="claim-t-66987"></a>
-- t-001
+- t-004
   global_id: t-66987
   teiginys: "Lenkų ponai įrodinėjo, kad Vytauto karūnavimas būtų priešingas Lietuvos ir Lenkijos sutartims, nes tada Lietuva, esą, galėtų po Vytauto išsirinkti sau kitą karalių, o ne tą, kurį išsirinktų po Jogailos mirties lenkai."
   pagrindžia:
     - c-67062
 
 <a id="claim-t-184600"></a>
-- t-006
+- t-005
   global_id: t-184600
   teiginys: "Išvykęs iš Lucko, karalius Korčine sukvietė seimą spręsti, kaip priešintis Vytauto karūnacijos siekiams."
   pagrindžia:

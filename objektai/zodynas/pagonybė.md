@@ -39,35 +39,35 @@ Daugiausia ginčytinų teiginių ir vertinimų yra pasakyta Lietuvos pagonybės 
 ## Teiginiai
 
 <a id="claim-t-101592"></a>
-- t-008
+- t-001
   global_id: t-101592
   teiginys: "Lietuvos pagonių valdovų laikysena rodo, kad pagonybė jiems buvo lygiavertė krikščionybei."
   pagrindžia:
     - c-26782
 
 <a id="claim-t-101596"></a>
-- t-007
+- t-002
   global_id: t-101596
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   pagrindžia:
     - c-26890
 
 <a id="claim-t-101594"></a>
-- t-011
+- t-003
   global_id: t-101594
   teiginys: "Lietuvos pagonybės vertinimai buvo ginčytini dėl romantinio aukso amžiaus mito ir skurdžios istorijos šaltinių informacijos priešpriešos."
   pagrindžia:
     - c-26890
 
 <a id="claim-t-101596"></a>
-- t-007
+- t-004
   global_id: t-101596
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   pagrindžia:
     - c-26890
 
 <a id="claim-t-101596"></a>
-- t-007
+- t-005
   global_id: t-101596
   teiginys: "Lietuvos pagonybės vertinimus apsunkino XIX a. pagoniškos epochos aukso amžiaus mitas ir skurdi istorijos šaltinių informacija."
   pagrindžia:

@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - teisinė-praktika
   - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -38,7 +39,7 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - c-166573
 
 <a id="claim-t-20038"></a>
-- t-001
+- t-002
   global_id: t-20038
   teiginys: "Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose."
   pagrindžia:

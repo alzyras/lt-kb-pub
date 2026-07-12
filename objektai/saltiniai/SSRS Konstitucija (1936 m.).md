@@ -37,14 +37,14 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 ## Teiginiai
 
 <a id="claim-t-21243"></a>
-- t-002
+- t-001
   global_id: t-21243
   teiginys: "Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją."
   pagrindžia:
     - c-23948
 
 <a id="claim-t-21244"></a>
-- t-001
+- t-002
   global_id: t-21244
   teiginys: "Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas."
   pagrindžia:

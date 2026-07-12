@@ -5,7 +5,9 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - religinis-terminas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187843"></a>
-- t-002
+- t-001
   global_id: t-187843
   teiginys: "Narbutas aiškino, kad „proto religija“ kilo iš pirmykščio Dievo pažinimo, įrėžto žmogaus širdyje."
   pagrindžia:
     - c-170812
 
 <a id="claim-t-188505"></a>
-- t-003
+- t-002
   global_id: t-188505
   teiginys: "Narbutas prigimtine religija vadino pirmykštį tikėjimą viena aukščiausiąja Esybe."
   pagrindžia:
@@ -67,6 +69,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-192086|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
 - susijęs iš [[objektai/paprociai/Upių šventinimas Rosės vardu.md#claim-t-192091|Upių šventinimas Rosės vardu]]: Narbutas upių šventinimą Rosės vardu aiškina kaip vieną iš lietuvių tautos religinių skolinių iš indų budistų.
 - susijęs iš [[objektai/zodynas/pecuarii ir nomadai.md#claim-t-192149|pecuarii ir nomadai]]: Teodoras Narbutas vieną skitų nomadų gentį sieja su Budos religija, Arakso arba Ross ir Volgos vardais.
+- susijęs iš Žemaičių Kalvarija: Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.
 ## Reikšmingi paminėjimai
 
 - c-001

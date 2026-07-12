@@ -51,126 +51,126 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-180762"></a>
-- t-014
+- t-001
   global_id: t-180762
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną bei Henriką ir nuniokojo tas šalis."
   pagrindžia:
     - c-164347
 
 <a id="claim-t-180763"></a>
-- t-020
+- t-002
   global_id: t-180763
   teiginys: "1579 m. žygiui prieš caro kariuomenę buvo pasamdyta kareivių Vengrijoje ir Vokietijoje."
   pagrindžia:
     - c-164351
 
 <a id="claim-t-180764"></a>
-- t-006
+- t-003
   global_id: t-180764
   teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
   pagrindžia:
     - c-164356
 
 <a id="claim-t-180765"></a>
-- t-015
+- t-004
   global_id: t-180765
   teiginys: "1326 metais Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
   pagrindžia:
     - c-164348
 
 <a id="claim-t-180766"></a>
-- t-018
+- t-005
   global_id: t-180766
   teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad šis ruošiasi kurti savo valstybę, o ne jam tarnauti."
   pagrindžia:
     - c-164349
 
 <a id="claim-t-180767"></a>
-- t-013
+- t-006
   global_id: t-180767
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:
     - c-164354
 
 <a id="claim-t-180768"></a>
-- t-017
+- t-007
   global_id: t-180768
   teiginys: "1224 m. Vengrijos karalius išvijo ordiną, pamatęs, kad jis siekia kurti savo valstybę, o ne tarnauti karaliui."
   pagrindžia:
     - c-164349
 
 <a id="claim-t-180764"></a>
-- t-006
+- t-008
   global_id: t-180764
   teiginys: "Karalius Kazimieras Vilniuje gavo žinią apie sūnaus Jono Albrechto sutriuškinimą Vengrijoje."
   pagrindžia:
     - c-164356
 
 <a id="claim-t-180770"></a>
-- t-019
+- t-009
   global_id: t-180770
   teiginys: "Rengiantis 1579 m. žygiui, kareivių buvo samdoma Vengrijoje ir Vokietijoje."
   pagrindžia:
     - c-164351
 
 <a id="claim-t-180772"></a>
-- t-007
+- t-010
   global_id: t-180772
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o iš ten superkami į Vilnių."
   pagrindžia:
     - c-164355
 
 <a id="claim-t-180773"></a>
-- t-012
+- t-011
   global_id: t-180773
   teiginys: "Joje Vengrijos karalius Andrius 11 1211 m. buvo įkurdinęs kryžiuočius (Regesta historico-diplomatica Ordinis..., Nr. 4), norėdamas, kad šie gintų kraštą nuo polovcų (kumanų)."
   pagrindžia:
     - c-164348
 
 <a id="claim-t-180774"></a>
-- t-010
+- t-012
   global_id: t-180774
   teiginys: "Alavas ir varis iš Vengrijos buvo gabenami į Krokuvą, o ten superkami Vilniui."
   pagrindžia:
     - c-164355
 
 <a id="claim-t-180775"></a>
-- t-016
+- t-013
   global_id: t-180775
   teiginys: "1526 m. Vengrija patyrė katastrofą Mohačo mūšyje su turkais ir dingo iš Europos žemėlapio."
   pagrindžia:
     - c-164352
 
 <a id="claim-t-185173"></a>
-- t-018
+- t-014
   global_id: t-185173
   teiginys: "Imperatorius, apsvarstęs su Vytautu svarbiausius klausimus, iš Volynės patraukė tiesiai į Vengriją."
   pagrindžia:
     - c-168534
 
 <a id="claim-t-185174"></a>
-- t-019
+- t-015
   global_id: t-185174
   teiginys: "Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė."
   pagrindžia:
     - c-168535
 
 <a id="claim-t-185175"></a>
-- t-020
+- t-016
   global_id: t-185175
   teiginys: "Vladislovas turėjo likti Vengrijos karaliumi, o jam mirus be vaikų Jonas turėjo tapti sosto įpėdiniu."
   pagrindžia:
     - c-168536
 
 <a id="claim-t-192769"></a>
-- t-021
+- t-017
   global_id: t-192769
   teiginys: "Teodoras Narbutas Vengriją arba jos gretimus kraštus laikė vieta, kur jazigai dar gyveno XV amžiuje."
   pagrindžia:
     - c-175539
 
 <a id="claim-t-193244"></a>
-- t-022
+- t-018
   global_id: t-193244
   teiginys: "Nors Stepono Batoro tėvynėje, Vengrijoje, buvo paplitęs protestantizmas, tačiau jis pats buvo išauklėtas katalikiškai."
   pagrindžia:

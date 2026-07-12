@@ -49,42 +49,42 @@ Narbutas rašė, kad gelonai, susijungę su budinais tarp Dono ir Doneco, savo t
     - c-175179
 
 <a id="claim-t-192387"></a>
-- t-005
+- t-004
   global_id: t-192387
   teiginys: "Herodoto pasakojime į šiaurę nuo gelonų ir budinų krašto driekėsi septynių dienų kelio dykra, o už jos gyveno tisagetai."
   pagrindžia:
     - c-175181
 
 <a id="claim-t-192388"></a>
-- t-006
+- t-005
   global_id: t-192388
   teiginys: "Narbutas rašo, kad senovėje gelonai buvo laikomi geriausiais lankininkais ir turėjo paprotį dažyti kūną."
   pagrindžia:
     - c-175182
 
 <a id="claim-t-192389"></a>
-- t-007
+- t-006
   global_id: t-192389
   teiginys: "Narbutas spėja, kad pirmosios gelonų gyvenvietės turėjo būti Očekovo apylinkėse, nes ten esą buvęs Gelono miestas."
   pagrindžia:
     - c-175183
 
 <a id="claim-t-192390"></a>
-- t-008
+- t-007
   global_id: t-192390
   teiginys: "Narbutas gelonus sieja su heleniška kilme ir rašo, kad jie kasmet siųsdavo į Delą dovanų bei aukų Apolonui."
   pagrindžia:
     - c-175184
 
 <a id="claim-t-192391"></a>
-- t-009
+- t-008
   global_id: t-192391
   teiginys: "Narbutas lietuvių tautos pradžią aiškina kaip dviejų senovės tautų, gelonų ir budinų, susiliejimo rezultatą."
   pagrindžia:
     - c-175185
 
 <a id="claim-t-194860"></a>
-- t-010
+- t-009
   global_id: t-194860
   teiginys: "Jis nuėjo net iki gelonų ir budinu krašto, kur tik pirmąsyk patyrė didelį džiaugs mą, išgriaudamas keletą tvirtų pilių."
   pagrindžia:

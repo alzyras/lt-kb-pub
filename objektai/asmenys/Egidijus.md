@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ordinas
   - popiežius
+  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

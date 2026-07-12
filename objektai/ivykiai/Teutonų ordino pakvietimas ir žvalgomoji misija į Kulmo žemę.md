@@ -55,21 +55,21 @@ Nenurodyta
     - c-63815
 
 <a id="claim-t-62936"></a>
-- t-003
+- t-002
   global_id: t-62936
   teiginys: "Agotos valia Ordino broliai su Lenkijos vyrais stojo į kovą su prūsais, buvo mirtinai sužeisti, bet pagiję baigė patikėtą reikalą."
   pagrindžia:
     - c-63814
 
 <a id="claim-t-62937"></a>
-- t-002
+- t-003
   global_id: t-62937
   teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį apžiūrėti Kulmo žemės ir patikrinti pasiuntinių valios."
   pagrindžia:
     - c-63813
 
 <a id="claim-t-62935"></a>
-- t-001
+- t-004
   global_id: t-62935
   teiginys: "Lenkijos kunigaikštis sumanė pasikviesti Teutonų ordiną ginti savo žemės, tikėjimo ir tikinčiųjų."
   pagrindžia:

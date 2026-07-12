@@ -64,21 +64,21 @@ Nenurodyta
     - c-169985
 
 <a id="claim-t-186796"></a>
-- t-004
+- t-002
   global_id: t-186796
   teiginys: "Antrą kartą į Kijevą grįžęs Sich-Achmetas buvo suimtas, laikytas Vilniaus Aukštojoje, Trakų ir Kauno pilyse ir paleistas 1528 metais."
   pagrindžia:
     - c-169984
 
 <a id="claim-t-186797"></a>
-- t-002
+- t-003
   global_id: t-186797
   teiginys: "Redakcinė pastaba nurodo, kad Sich-Achmetas į Kijevą grįžo 1503–1504 metų žiemą."
   pagrindžia:
     - c-169985
 
 <a id="claim-t-186798"></a>
-- t-003
+- t-004
   global_id: t-186798
   teiginys: "Redakcinė pastaba nurodo, kad antrą kartą grįžęs į Kijevą Sich-Achmetas buvo suimtas."
   pagrindžia:

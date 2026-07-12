@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - didikas
   - miestas
-  - privilegija
   - sutartis
+  - sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

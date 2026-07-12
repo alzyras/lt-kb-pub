@@ -50,6 +50,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   teiginys: "Vytauto vietininkai plėtė dvarus neapgyventose žemėse, įkurdindami dvaro žmones arba nuomininkus."
   pagrindžia:
     - c-167630
+- susijęs iš [[objektai/asmenys/Mikelis (žydas prekeivis).md#claim-t-195266|Mikelis (žydas prekeivis)]]: Mikelis buvo žydas nuomininkas, turėjęs žmoną ir nemaža vaikų.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -38,14 +38,14 @@ fon der Goltzq. von der Goltzas buvo pakeistas gen.
 ## Teiginiai
 
 <a id="claim-t-40401"></a>
-- t-002
+- t-001
   global_id: t-40401
   teiginys: "1919 m. spalio 12 d. gen. R. von der Goltzą pakeitė gen. W. Eberhardtas."
   pagrindžia:
     - c-44494
 
 <a id="claim-t-40402"></a>
-- t-001
+- t-002
   global_id: t-40402
   teiginys: "1919 m. pradžioje gen. R. fon der Goltzas buvo paskirtas vokiečių pajėgų Baltijos šalyse vadu."
   pagrindžia:

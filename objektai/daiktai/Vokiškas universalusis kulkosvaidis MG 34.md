@@ -59,14 +59,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78682"></a>
-- t-002
+- t-001
   global_id: t-78682
   teiginys: "Vokiškas universalusis kulkosvaidis MG 34 buvo vienas pirmųjų bendrosios paskirties kulkosvaidžių."
   pagrindžia:
     - c-75896
 
 <a id="claim-t-78683"></a>
-- t-001
+- t-002
   global_id: t-78683
   teiginys: "Vokiškas universalusis kulkosvaidis MG 34 naudojo 7,92x57 mm Mauser šovinį, šaudė 800-900 šūvių per minutę tempu ir be trikojo svėrė 12,1 kg."
   pagrindžia:

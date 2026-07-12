@@ -55,21 +55,21 @@ Vaitiekaus lavoną išpirko Boleslovas Narsusis. Pats Vaitiekus buvo paskelbtas 
 ## Teiginiai
 
 <a id="claim-t-07571"></a>
-- t-005
+- t-001
   global_id: t-07571
   teiginys: "Vaitiekus, gavęs Boleslovo Narsiojo apsaugą, išvyko iš Lenkijos į aisčių kraštą ir pasiekė krantą Priegliaus žiotyse."
   pagrindžia:
     - c-00195
 
 <a id="claim-t-07572"></a>
-- t-006
+- t-002
   global_id: t-07572
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   pagrindžia:
     - c-00196
 
 <a id="claim-t-07573"></a>
-- t-007
+- t-003
   global_id: t-07573
   teiginys: "Po žūties aisčių krašte vyskupas Vaitiekus buvo paskelbtas šventuoju ir krikščionybės kankiniu."
   pagrindžia:

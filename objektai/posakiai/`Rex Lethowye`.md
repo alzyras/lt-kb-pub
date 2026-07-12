@@ -53,7 +53,7 @@ Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs intensyvias der
     - c-169752
 
 <a id="claim-t-186411"></a>
-- t-002
+- t-003
   global_id: t-186411
   teiginys: "Gediminas titulavosi Rex Lethowye ir laiškais Vakarų šalims bei miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
   pagrindžia:

@@ -40,14 +40,14 @@ Dusburgietis teigia, kad jūros aukštupio krante (Zajączkowski S., Studya..., 
 ## Teiginiai
 
 <a id="claim-t-60981"></a>
-- t-002
+- t-001
   global_id: t-60981
   teiginys: "Z. Ivinskio „Gedimino pilis“ paskelbta „Lietuviškojoje enciklopedijoje“ 1940 m., aštuntame tome."
   pagrindžia:
     - c-61614
 
 <a id="claim-t-60982"></a>
-- t-001
+- t-002
   global_id: t-60982
   teiginys: "Gedimino pilies lokalizacija buvusioje Pagraudės teritorijoje prie Graumenos laikoma patikimesne."
   pagrindžia:

@@ -55,6 +55,7 @@ Per jį 1251 m. pavasarį (ar vasaros pradžioje) Mindaugas išsirūpino sau ir 
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-183266|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas ir karūnos išsirūpinimas.md#claim-t-66790|Mindaugo krikštas ir karūnos išsirūpinimas]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187502|Mindaugo krikštas (krikštas)]]: 1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau.
+- susijęs iš [[objektai/asmenys/Morta (pasakotojo sesuo, XIX a.).md#claim-t-195557|Morta (pasakotojo sesuo, XIX a.)]]: Morta buvo penkiolikmetė pasakotojo sesuo.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113909|Mindaugas (valdovas, XIII a.)]]: 1248 m. Mindaugui kilo grėsminga opozicija, sudaryta iš jo brolvaikių, Livonijos ordino ir Voluinės.
 - susijęs iš [[objektai/ivykiai/Mindaugo krikštas.md#claim-t-187508|Mindaugo krikštas (krikštas)]]: Mindaugas, pasinaudojęs Livonijos vidaus prieštaravimais, patraukė į savo pusę Livonijos ordino magistrą Andrių Štirlandą.
 - susijęs iš Žemaitija: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.

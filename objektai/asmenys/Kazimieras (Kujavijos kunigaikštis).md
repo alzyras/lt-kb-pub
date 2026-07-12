@@ -32,21 +32,21 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 ## Teiginiai
 
 <a id="claim-t-63803"></a>
-- t-005
+- t-001
   global_id: t-63803
   teiginys: "Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių."
   pagrindžia:
     - c-64740
 
 <a id="claim-t-63804"></a>
-- t-007
+- t-002
   global_id: t-63804
   teiginys: "Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų leidosi persekioti iš Lenkijos besitraukiančių lietuvių."
   pagrindžia:
     - c-167484
 
 <a id="claim-t-63805"></a>
-- t-008
+- t-003
   global_id: t-63805
   teiginys: "Lietuviai, nutraukę paliaubas, nužudė kunigaikštį Kazimierą ir visus jo žmones, išskyrus vieną karį."
   pagrindžia:
@@ -60,14 +60,14 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-64741
 
 <a id="claim-t-63808"></a>
-- t-001
+- t-005
   global_id: t-63808
   teiginys: "Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką."
   pagrindžia:
     - c-64742
 
 <a id="claim-t-63809"></a>
-- t-003
+- t-006
   global_id: t-63809
   teiginys: "Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas."
   pagrindžia:
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
     - c-167484
 
 <a id="claim-t-194498"></a>
-- t-010
+- t-008
   global_id: t-194498
   teiginys: "Apie naują Sventopelko karą ir susidūrimą prie Renzeno Kadangi žmogaus pojūčiai visados linkę į bloga ir žmogus, nors ir pasenęs, nelengvai 275 Kujavijos kunigaikštis."
   pagrindžia:

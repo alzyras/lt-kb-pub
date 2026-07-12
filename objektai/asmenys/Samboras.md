@@ -37,14 +37,14 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
 ## Teiginiai
 
 <a id="claim-t-60201"></a>
-- t-002
+- t-001
   global_id: t-60201
   teiginys: "Samboras su Pomeranijos kunigaikščiu ir ginklanešiais užstojo kelius prūsams, kad šie negalėtų pasprukti."
   pagrindžia:
     - c-60833
 
 <a id="claim-t-60202"></a>
-- t-001
+- t-002
   global_id: t-60202
   teiginys: "Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį."
   pagrindžia:

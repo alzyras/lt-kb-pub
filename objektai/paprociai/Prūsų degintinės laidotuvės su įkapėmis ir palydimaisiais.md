@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - laidotuvės
   - mūšis
   - paprotys
   - popiežius
@@ -58,7 +59,7 @@ Nenurodyta
     - c-67207
 
 <a id="claim-t-67195"></a>
-- t-003
+- t-002
   global_id: t-67195
   teiginys: "Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį."
   pagrindžia:

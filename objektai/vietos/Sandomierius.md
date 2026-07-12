@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32532"></a>
-- t-002
+- t-001
   global_id: t-32532
   teiginys: "1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes."
   pagrindžia:
     - c-34032
 
 <a id="claim-t-32533"></a>
-- t-001
+- t-002
   global_id: t-32533
   teiginys: "1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes."
   pagrindžia:

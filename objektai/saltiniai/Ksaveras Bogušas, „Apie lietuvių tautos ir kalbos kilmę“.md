@@ -39,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75455"></a>
-- t-002
+- t-001
   global_id: t-75455
   teiginys: "1808 m. Varšuvoje išleistoje Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
   pagrindžia:
     - c-73231
 
 <a id="claim-t-75456"></a>
-- t-001
+- t-002
   global_id: t-75456
   teiginys: "Ksavero Bogušo knygelėje „Apie lietuvių tautos ir kalbos kilmę“ pirmą kartą nuskambėjo mintis, kad lietuvių kalba tinka aukštajai kultūrai."
   pagrindžia:

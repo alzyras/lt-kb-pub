@@ -40,21 +40,21 @@ Demokratinė Rusija, kaip ir Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė
 ## Teiginiai
 
 <a id="claim-t-108340"></a>
-- t-004
+- t-001
   global_id: t-108340
   teiginys: "Rusijos valdžia SSRS griūtį vadina geopolitine katastrofa ir teigia, kad Baltijos valstybės neva savo noru įstojo į SSRS."
   pagrindžia:
     - c-100537
 
 <a id="claim-t-108341"></a>
-- t-003
+- t-002
   global_id: t-108341
   teiginys: "Rusija Lietuvai išliko svarbi ekonominė partnerė, tačiau artimesni Lietuvos ir Rusijos santykiai nesusiklostė."
   pagrindžia:
     - c-100535
 
 <a id="claim-t-183178"></a>
-- t-005
+- t-003
   global_id: t-183178
   teiginys: "Vytautas Landsbergis ir Borisas Jelcinas 1991 m. liepos 29 d. pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   pagrindžia:

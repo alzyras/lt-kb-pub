@@ -40,14 +40,14 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 ## Teiginiai
 
 <a id="claim-t-75538"></a>
-- t-002
+- t-001
   global_id: t-75538
   teiginys: "Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu."
   pagrindžia:
     - c-73289
 
 <a id="claim-t-75539"></a>
-- t-001
+- t-002
   global_id: t-75539
   teiginys: "Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu."
   pagrindžia:

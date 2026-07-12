@@ -40,14 +40,14 @@ Vartojamas kaip teorinis terminas, aiškinantis Žemės susiformavimą ir akmen�
 ## Teiginiai
 
 <a id="claim-t-192283"></a>
-- t-002
+- t-001
   global_id: t-192283
   teiginys: "Narbutas mini hipotezę, kad dideli ir maži uolienų luitai Žemės revoliucijos metu buvo išbarstyti po įvairias lygumas."
   pagrindžia:
     - c-175103
 
 <a id="claim-t-192284"></a>
-- t-001
+- t-002
   global_id: t-192284
   teiginys: "Narbutas Žemės revoliucijos priežastis siejo su formuojantis Žemei išsiskyrusia ugnimi, dujomis ir garais, traiškiusiais žemės kevalą."
   pagrindžia:

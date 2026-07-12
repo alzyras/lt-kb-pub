@@ -43,21 +43,21 @@ Staiga vienu puolimu jis suvaldė Daniją, o padaręs čia taiką, ties Narva (E
 ## Teiginiai
 
 <a id="claim-t-182871"></a>
-- t-017
+- t-001
   global_id: t-182871
   teiginys: "Vokiečių ordino valstybės valdos tęsėsi nuo Neumarko iki Narvos, išskyrus Žemaičių kylį."
   pagrindžia:
     - c-166275
 
 <a id="claim-t-183055"></a>
-- t-004
+- t-002
   global_id: t-183055
   teiginys: "Ties Narva Estijoje buvo visiškai sunaikinta caro kariuomenė."
   pagrindžia:
     - c-166446
 
 <a id="claim-t-183794"></a>
-- t-019
+- t-003
   global_id: t-183794
   teiginys: "1558 m. Maskvos kariuomenė užėmė dalį Livonijos konfederacijos teritorijos su Narvos ir Tartu miestais."
   pagrindžia:

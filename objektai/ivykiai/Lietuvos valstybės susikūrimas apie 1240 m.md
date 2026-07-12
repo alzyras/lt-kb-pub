@@ -65,14 +65,14 @@ Nenurodyta
     - c-73076
 
 <a id="claim-t-75205"></a>
-- t-003
+- t-002
   global_id: t-75205
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi, todėl daroma išvada, kad Lietuva jau buvo suvienyta."
   pagrindžia:
     - c-73076
 
 <a id="claim-t-193574"></a>
-- t-004
+- t-003
   global_id: t-193574
   teiginys: "Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos."
   pagrindžia:

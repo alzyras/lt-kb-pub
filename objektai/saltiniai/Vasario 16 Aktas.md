@@ -47,49 +47,49 @@ Vasario 16 Aktas šiame veikale aiškinamas kaip 1918 m. vasario 16 d. Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-71831"></a>
-- t-017
+- t-001
   global_id: t-71831
   teiginys: "1918 m. vasario 16 d. Taryba Vilniuje priėmė rezoliuciją, paskelbusią nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:
     - c-16301
 
 <a id="claim-t-71832"></a>
-- t-014
+- t-002
   global_id: t-71832
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei Lietuvos Nepriklausomybės diena."
   pagrindžia:
     - c-70349
 
 <a id="claim-t-71838"></a>
-- t-016
+- t-003
   global_id: t-71838
   teiginys: "1918 m. Vasario 16 Aktas savo dvasia buvo artimas Kovo 11 Aktui, kuris nebesirėmė tautų apsisprendimo teise."
   pagrindžia:
     - c-23995
 
 <a id="claim-t-71834"></a>
-- t-020
+- t-004
   global_id: t-71834
   teiginys: "Vasario 16 Aktas tapo nacijos laisvės ir suverenumo simboliu bei davė pradžią tikrai Lietuvos nepriklausomybei."
   pagrindžia:
     - c-70349
 
 <a id="claim-t-71835"></a>
-- t-019
+- t-005
   global_id: t-71835
   teiginys: "1918 m. vasario 16 d. Vilniuje Taryba paskelbė atkurianti nepriklausomą Lietuvos valstybę su sostine Vilniumi."
   pagrindžia:
     - c-16301
 
 <a id="claim-t-71837"></a>
-- t-015
+- t-006
   global_id: t-71837
   teiginys: "1918 m. kovo 23 d. Berlyne Antano Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui."
   pagrindžia:
     - c-23994
 
 <a id="claim-t-71838"></a>
-- t-016
+- t-007
   global_id: t-71838
   teiginys: "1918 m. Vasario 16 Aktas savo dvasia buvo artimas Kovo 11 Aktui, kuris nebesirėmė tautų apsisprendimo teise."
   pagrindžia:

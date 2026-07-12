@@ -44,28 +44,28 @@ Narbuto etimologinėje pastaboje pateikiama kaip istorinis daikto pavadinimas ir
 ## Teiginiai
 
 <a id="claim-t-192321"></a>
-- t-003
+- t-001
   global_id: t-192321
   teiginys: "Narbutas aiškina, kad „Konlyna“ naudota kelionės daiktams ir ginklams susidėti."
   pagrindžia:
     - c-175125
 
 <a id="claim-t-192322"></a>
-- t-001
+- t-002
   global_id: t-192322
   teiginys: "Narbutas aiškina, kad XVI a. Lietuvoje rusų kalba rašytose sutartyse „Konlyna“ reiškė ypatingos konstrukcijos skrynią."
   pagrindžia:
     - c-175126
 
 <a id="claim-t-192323"></a>
-- t-004
+- t-003
   global_id: t-192323
   teiginys: "Narbutas aiškina, kad „Konlyna“ buvo pačių vertingiausių daiktų saugykla."
   pagrindžia:
     - c-175125
 
 <a id="claim-t-192324"></a>
-- t-002
+- t-004
   global_id: t-192324
   teiginys: "Narbutas aiškina, kad „Konlyna“ buvo skrynia stalo sidabrui laikyti, paprastai gerai apkaustyta ir apkabinėta spynomis."
   pagrindžia:

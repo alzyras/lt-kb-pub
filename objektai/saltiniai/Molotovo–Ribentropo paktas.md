@@ -58,49 +58,49 @@ Molotovo–Ribentropo paktas šiame veikale aprašomas kaip 1939 m. rugpjūčio 
     - c-73269
 
 <a id="claim-t-13523"></a>
-- t-003
+- t-002
   global_id: t-13523
   teiginys: "Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas."
   pagrindžia:
     - c-73275
 
 <a id="claim-t-13524"></a>
-- t-005
+- t-003
   global_id: t-13524
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas, minint pakto pasirašymo 50-ąsias metines."
   pagrindžia:
     - c-73270
 
 <a id="claim-t-13525"></a>
-- t-006
+- t-004
   global_id: t-13525
   teiginys: "Lietuvos SSR Aukščiausiosios Tarybos komisija viešai pasmerkė Molotovo–Ribentropo pakto ir slaptųjų protokolų padarinius Lietuvai."
   pagrindžia:
     - c-73269
 
 <a id="claim-t-13526"></a>
-- t-007
+- t-005
   global_id: t-13526
   teiginys: "1989 m. rugpjūčio 23 d. Baltijos kelias paminėjo pakto pasirašymo 50-ąsias sukaktuves gyva žmonių grandine nuo Vilniaus iki Talino."
   pagrindžia:
     - c-73269
 
 <a id="claim-t-23405"></a>
-- t-010
+- t-006
   global_id: t-23405
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas dėl Molotovo–Ribentropo pakto."
   pagrindžia:
     - c-73271
 
 <a id="claim-t-24565"></a>
-- t-011
+- t-007
   global_id: t-24565
   teiginys: "1940 m. birželio 15 d., realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupavo ir aneksavo Lietuvos Respubliką."
   pagrindžia:
     - c-16297
 
 <a id="claim-t-75507"></a>
-- t-009
+- t-008
   global_id: t-75507
   teiginys: "LLL siekė, kad SSRS paskelbtų Molotovo–Ribentropo pakto slaptuosius protokolus ir pripažintų paktą negaliojančiu."
   pagrindžia:

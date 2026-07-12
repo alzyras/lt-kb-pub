@@ -56,21 +56,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07520"></a>
-- t-004
+- t-001
   global_id: t-07520
   teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   pagrindžia:
     - c-00228
 
 <a id="claim-t-07521"></a>
-- t-005
+- t-002
   global_id: t-07521
   teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
   pagrindžia:
     - c-00229
 
 <a id="claim-t-188379"></a>
-- t-004
+- t-003
   global_id: t-188379
   teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
   pagrindžia:

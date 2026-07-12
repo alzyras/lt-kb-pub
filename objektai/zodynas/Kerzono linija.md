@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
+  - institucija
   - kraštas
   - paliaubos
-  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'
@@ -42,7 +42,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 ## Teiginiai
 
 <a id="claim-t-44060"></a>
-- t-002
+- t-001
   global_id: t-44060
   teiginys: "Projekte Lietuvos siena turėjo eiti Kerzono linija iki Nemuno, o Suvalkų krašte ji buvo nustatyta Suvalkų sutartyje kaip demarkacijos linija."
   pagrindžia:
@@ -56,7 +56,7 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
     - c-47221
 
 <a id="claim-t-44061"></a>
-- t-001
+- t-003
   global_id: t-44061
   teiginys: "Kerzono liniją 1919 m. gruodžio 8 d. nustatė Aukščiausioji Santarvininkių Taryba."
   pagrindžia:

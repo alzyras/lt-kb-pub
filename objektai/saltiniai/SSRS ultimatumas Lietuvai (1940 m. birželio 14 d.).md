@@ -35,28 +35,28 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 ## Teiginiai
 
 <a id="claim-t-75516"></a>
-- t-002
+- t-001
   global_id: t-75516
   teiginys: "Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   pagrindžia:
     - c-23957
 
 <a id="claim-t-75517"></a>
-- t-001
+- t-002
   global_id: t-75517
   teiginys: "1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius."
   pagrindžia:
     - c-23956
 
 <a id="claim-t-75518"></a>
-- t-004
+- t-003
   global_id: t-75518
   teiginys: "Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus."
   pagrindžia:
     - c-73280
 
 <a id="claim-t-75519"></a>
-- t-003
+- t-004
   global_id: t-75519
   teiginys: "Generolai V. Vitkauskas ir S. Raštikis teigė, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:

@@ -13,6 +13,7 @@ tags:
   - ordinas
   - sąvoka
   - tauta
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -42,6 +43,8 @@ Dusburgietis teigia, kad apie didžiojo magistro mirtį Mūsų jau minėtais met
   teiginys: "1330 m. lapkričio 18 d. Jonas iš Endorfo nužudė didįjį magistrą Vernerį, kai šis po mišparų ėjo iš bažnyčios."
   pagrindžia:
     - c-59549
+- susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195374|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Valančius liepė mišparus laikyti tuoj po pamaldų, kad žmonės važiuotų namo pietauti.
+- susijęs iš [[objektai/daiktai/Maišelis.md#claim-t-195335|Maišelis]]: Maišelis veikia kaip laikina talpa ir paklotas pietums šventoriuje.
 ## Reikšmingi paminėjimai
 
 - c-001

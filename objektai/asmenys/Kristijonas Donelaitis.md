@@ -54,7 +54,7 @@ Mažojoje Lietuvoje iškilo ir pirmasis reikšmingas lietuvių lietuviakalbės l
     - c-21834
 
 <a id="claim-t-19073"></a>
-- t-001
+- t-003
   global_id: t-19073
   teiginys: "Kristijono Donelaičio poema „Metai“ apie 1750 m. Mažojoje Lietuvoje iškilo kaip pirmasis reikšmingas lietuviakalbės literatūros kūrinys."
   pagrindžia:

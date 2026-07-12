@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-188036"></a>
-- t-002
+- t-001
   global_id: t-188036
   teiginys: "Schleicherio „Lituanica“ nurodoma kaip 1853 m. Vienoje išleistas veikalas."
   pagrindžia:

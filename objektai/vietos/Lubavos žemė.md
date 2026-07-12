@@ -40,21 +40,21 @@ Dusburgietis teigia, kad tokiomis aplinkybėmis Lubavos žemės nobiliai, vadova
 ## Teiginiai
 
 <a id="claim-t-58664"></a>
-- t-003
+- t-001
   global_id: t-58664
   teiginys: "Dėl Lubavos žemės, tapusios vyskupo Kristijono valda, vėliau ginčijosi kryžiuočiai ir Konradas."
   pagrindžia:
     - c-59296
 
 <a id="claim-t-58665"></a>
-- t-001
+- t-002
   global_id: t-58665
   teiginys: "Lubavos žemės nobiliai, vadovaujami Survabūno, pripažino Kristijono valdžią."
   pagrindžia:
     - c-59297
 
 <a id="claim-t-58666"></a>
-- t-002
+- t-003
   global_id: t-58666
   teiginys: "Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams."
   pagrindžia:

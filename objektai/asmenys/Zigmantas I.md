@@ -43,21 +43,21 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 ## Teiginiai
 
 <a id="claim-t-114074"></a>
-- t-003
+- t-001
   global_id: t-114074
   teiginys: "Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas."
   pagrindžia:
     - c-105234
 
 <a id="claim-t-114075"></a>
-- t-001
+- t-002
   global_id: t-114075
   teiginys: "1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos."
   pagrindžia:
     - c-22084
 
 <a id="claim-t-114076"></a>
-- t-002
+- t-003
   global_id: t-114076
   teiginys: "Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai."
   pagrindžia:

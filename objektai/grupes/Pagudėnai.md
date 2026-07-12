@@ -43,35 +43,35 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
 ## Teiginiai
 
 <a id="claim-t-89155"></a>
-- t-003
+- t-001
   global_id: t-89155
   teiginys: "1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį."
   pagrindžia:
     - c-85139
 
 <a id="claim-t-89156"></a>
-- t-013
+- t-002
   global_id: t-89156
   teiginys: "Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė."
   pagrindžia:
     - c-85128
 
 <a id="claim-t-89157"></a>
-- t-014
+- t-003
   global_id: t-89157
   teiginys: "1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
   pagrindžia:
     - c-85130
 
 <a id="claim-t-89158"></a>
-- t-007
+- t-004
   global_id: t-89158
   teiginys: "Pagudėnai prie Kristburgo užpuolė tikinčiųjų pamedėnų pilaitę, į ją įsiveržė ir ją sugriovė."
   pagrindžia:
     - c-85124
 
 <a id="claim-t-89159"></a>
-- t-011
+- t-005
   global_id: t-89159
   teiginys: "1273 m. pagudėnai paslėpė kariuomenę miške prie Elbingo ir iš pasalos atkirto miestiečiams kelią į miestą."
   pagrindžia:
@@ -79,77 +79,77 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - c-85133
 
 <a id="claim-t-89160"></a>
-- t-009
+- t-006
   global_id: t-89160
   teiginys: "Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių."
   pagrindžia:
     - c-85136
 
 <a id="claim-t-89161"></a>
-- t-002
+- t-007
   global_id: t-89161
   teiginys: "Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę."
   pagrindžia:
     - c-85126
 
 <a id="claim-t-89162"></a>
-- t-006
+- t-008
   global_id: t-89162
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą."
   pagrindžia:
     - c-85123
 
 <a id="claim-t-89163"></a>
-- t-004
+- t-009
   global_id: t-89163
   teiginys: "Vėliau krikštą priėmę pagudėnai pasakojo matę lauką pilną ginkluotų vyrų prieš prūsų kariuomenės pabėgimą."
   pagrindžia:
     - c-85121
 
 <a id="claim-t-89164"></a>
-- t-012
+- t-010
   global_id: t-89164
   teiginys: "Pagudėnai įtikinėjo krikščionis atiduoti pilį ir pasiduoti, grasindami visus išžudyti ir sunaikinti."
   pagrindžia:
     - c-85132
 
 <a id="claim-t-89165"></a>
-- t-017
+- t-011
   global_id: t-89165
   teiginys: "Tų pačių metų rudenį broliai vėl įsiveržė į Pagudės žemę, ją nusiaubė, daug žmonių paėmė į nelaisvę arba nukovė."
   pagrindžia:
     - c-85127
 
 <a id="claim-t-89166"></a>
-- t-001
+- t-012
   global_id: t-89166
   teiginys: "Trečia — Pagudė193, kurioje [gyveno] pagudėnai."
   pagrindžia:
     - c-85131
 
 <a id="claim-t-89168"></a>
-- t-018
+- t-013
   global_id: t-89168
   teiginys: "Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę."
   pagrindžia:
     - c-85122
 
 <a id="claim-t-89169"></a>
-- t-005
+- t-014
   global_id: t-89169
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
   pagrindžia:
     - c-85129
 
 <a id="claim-t-89170"></a>
-- t-010
+- t-015
   global_id: t-89170
   teiginys: "Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis nusiaubė Pagudę bei Pamedę."
   pagrindžia:
     - c-85137
 
 <a id="claim-t-89171"></a>
-- t-008
+- t-016
   global_id: t-89171
   teiginys: "Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę."
   pagrindžia:

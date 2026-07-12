@@ -66,14 +66,14 @@ Nenurodyta
     - c-174934
 
 <a id="claim-t-192066"></a>
-- t-004
+- t-003
   global_id: t-192066
   teiginys: "Narbutas vaizduoja riterių rikiuotę, kurioje visiškai apsiginklavusių karių ietys žibėjo tankiai kaip tendrūnas."
   pagrindžia:
     - c-174937
 
 <a id="claim-t-192067"></a>
-- t-003
+- t-004
   global_id: t-192067
   teiginys: "Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas."
   pagrindžia:

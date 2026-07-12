@@ -45,119 +45,119 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 ## Teiginiai
 
 <a id="claim-t-117306"></a>
-- t-011
+- t-001
   global_id: t-117306
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, daugiausia lenkų ir vokiečių."
   pagrindžia:
     - c-36964
 
 <a id="claim-t-117307"></a>
-- t-007
+- t-002
   global_id: t-117307
   teiginys: "Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei."
   pagrindžia:
     - c-36959
 
 <a id="claim-t-117308"></a>
-- t-021
+- t-003
   global_id: t-117308
   teiginys: "Nutraukęs gerus santykius su vokiečiais, Vytautas turėjo gintis nuo vis smarkesnių jų puldinėjimų."
   pagrindžia:
     - c-108019
 
 <a id="claim-t-117313"></a>
-- t-009
+- t-004
   global_id: t-117313
   teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
   pagrindžia:
     - c-36962
 
 <a id="claim-t-117310"></a>
-- t-006
+- t-005
   global_id: t-117310
   teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
   pagrindžia:
     - c-36958
 
 <a id="claim-t-117311"></a>
-- t-008
+- t-006
   global_id: t-117311
   teiginys: "Naugardiečiai teigė su vokiečiais sudarę atskirą taikos sutartį."
   pagrindžia:
     - c-36960
 
 <a id="claim-t-117313"></a>
-- t-009
+- t-007
   global_id: t-117313
   teiginys: "Vytautui tarnavo daug nelietuvių, tarp jų lenkų ir vokiečių."
   pagrindžia:
     - c-36962
 
 <a id="claim-t-117314"></a>
-- t-016
+- t-008
   global_id: t-117314
   teiginys: "Naugardiečiai teigė turėję atskiras taikos sutartis su Maskva, Lietuva ir vokiečiais."
   pagrindžia:
     - c-36960
 
 <a id="claim-t-117315"></a>
-- t-010
+- t-009
   global_id: t-117315
   teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
   pagrindžia:
     - c-36963
 
 <a id="claim-t-117316"></a>
-- t-020
+- t-010
   global_id: t-117316
   teiginys: "Vytautas valstybiniais ir ūkiniais sumetimais leido vokiečiams keltis į miestus."
   pagrindžia:
     - c-108024
 
 <a id="claim-t-117317"></a>
-- t-015
+- t-011
   global_id: t-117317
   teiginys: "Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų bendruomenės."
   pagrindžia:
     - c-108020
 
 <a id="claim-t-117318"></a>
-- t-019
+- t-012
   global_id: t-117318
   teiginys: "Vytauto tarnyboje buvo įvairių svetimšalių, ypač lenkų ir vokiečių."
   pagrindžia:
     - c-36964
 
 <a id="claim-t-117319"></a>
-- t-014
+- t-013
   global_id: t-117319
   teiginys: "Gediminas kvietė vokiečių riterius, pirklius, amatininkus ir valstiečius atvykti į Lietuvą bei čia įsikurti."
   pagrindžia:
     - c-108018
 
 <a id="claim-t-183197"></a>
-- t-022
+- t-014
   global_id: t-183197
   teiginys: "Valdovams kviečiant pirklius ir amatininkus iš svetur, Lietuvos Didžiojoje Kunigaikštystėje įsikūrė vokiečių, žydų ir armėnų."
   pagrindžia:
     - c-166584
 
 <a id="claim-t-184227"></a>
-- t-023
+- t-015
   global_id: t-184227
   teiginys: "Vokiečiai, sužinoję apie lietuvių įsiveržimą, antpuoliui atremti mobilizavo daug Prūsų krašto gyventojų."
   pagrindžia:
     - c-167611
 
 <a id="claim-t-184587"></a>
-- t-024
+- t-016
   global_id: t-184587
   teiginys: "Vokiečiai ir latviai, įsivėlę į Livonijos vidaus karą, neturėjo laiko niokoti Lietuvos iš šiaurės."
   pagrindžia:
     - c-167948
 
 <a id="claim-t-184588"></a>
-- t-025
+- t-017
   global_id: t-184588
   teiginys: "Livonijos vokiečiai 1225 m. pirmą kartą patyrė stambų pralaimėjimą nuo lietuvių ir žemaičių."
   pagrindžia:

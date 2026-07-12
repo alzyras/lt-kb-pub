@@ -53,14 +53,14 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
     - c-60767
 
 <a id="claim-t-60134"></a>
-- t-001
+- t-003
   global_id: t-60134
   teiginys: "Henrikas iš Dobino su būriu ginklanešių nukovė 80 lietuvių, kai lietuvių kariuomenė traukėsi iš Sembos žemės."
   pagrindžia:
     - c-167463
 
 <a id="claim-t-60135"></a>
-- t-002
+- t-004
   global_id: t-60135
   teiginys: "1300 m. Henrikas iš Dobino su kitais broliais ir 200 vyrų įsiveržė į Aukaimio pilies apylinkes ir sudegino šešis kaimus."
   pagrindžia:

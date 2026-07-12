@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - miestas
-  - privilegija
   - tikėjimas
 amziai:
   - 'XV'

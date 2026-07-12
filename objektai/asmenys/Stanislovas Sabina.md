@@ -14,7 +14,7 @@ tags:
   - asmuo
   - karalius
   - miestas
-  - privilegija
+  - unija
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -41,14 +41,14 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
 ## Teiginiai
 
 <a id="claim-t-87458"></a>
-- t-002
+- t-001
   global_id: t-87458
   teiginys: "Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas."
   pagrindžia:
     - c-83438
 
 <a id="claim-t-87459"></a>
-- t-001
+- t-002
   global_id: t-87459
   teiginys: "1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo."
   pagrindžia:

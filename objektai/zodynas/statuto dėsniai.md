@@ -38,14 +38,14 @@ Pagaliau įvedamas dar vienas — lenkams pats svarbusis — nuostatas, reikalau
 ## Teiginiai
 
 <a id="claim-t-70335"></a>
-- t-002
+- t-001
   global_id: t-70335
   teiginys: "Unijos akte reikalauti pakeisti statuto nuostatai Lietuvoje nebuvo pakeisti."
   pagrindžia:
     - c-46929
 
 <a id="claim-t-70336"></a>
-- t-001
+- t-002
   global_id: t-70336
   teiginys: "Statuto dėsniai draudė lenkams įsigyti dvarų Lietuvoje, o vienas unijos nuostatas reikalavo šį draudimą panaikinti."
   pagrindžia:

@@ -54,14 +54,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-184452"></a>
-- t-004
+- t-001
   global_id: t-184452
   teiginys: "Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene."
   pagrindžia:
     - c-167805
 
 <a id="claim-t-184453"></a>
-- t-007
+- t-002
   global_id: t-184453
   teiginys: "Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų."
   pagrindžia:
@@ -75,7 +75,7 @@ media_all_json: |-
     - c-167804
 
 <a id="claim-t-184455"></a>
-- t-002
+- t-004
   global_id: t-184455
   teiginys: "1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis."
   pagrindžia:

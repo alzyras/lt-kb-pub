@@ -11,10 +11,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -39,35 +39,35 @@ Profesorius ir stu­ dentus nuo priklausomybės bet kokiai dvasinei ar pasauliet
 ## Teiginiai
 
 <a id="claim-t-192169"></a>
-- t-005
+- t-001
   global_id: t-192169
   teiginys: "Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje."
   pagrindžia:
     - c-175048
 
 <a id="claim-t-192170"></a>
-- t-003
+- t-002
   global_id: t-192170
   teiginys: "Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise."
   pagrindžia:
     - c-175047
 
 <a id="claim-t-192171"></a>
-- t-004
+- t-003
   global_id: t-192171
   teiginys: "Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje."
   pagrindžia:
     - c-175046
 
 <a id="claim-t-192172"></a>
-- t-001
+- t-004
   global_id: t-192172
   teiginys: "1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių."
   pagrindžia:
     - c-175044
 
 <a id="claim-t-192173"></a>
-- t-002
+- t-005
   global_id: t-192173
   teiginys: "Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos."
   pagrindžia:

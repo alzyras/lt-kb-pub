@@ -8,8 +8,8 @@ atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
+  - laidotuvės
   - ritualas
-  - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,14 +32,14 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
 ## Teiginiai
 
 <a id="claim-t-58993"></a>
-- t-002
+- t-001
   global_id: t-58993
   teiginys: "Baltų religijoje, tikėtina, buvo vyriausiųjų ir žemesnio rango žynių, atlikdavusių pagoniškas laidotuvių apeigas."
   pagrindžia:
     - c-59626
 
 <a id="claim-t-58994"></a>
-- t-003
+- t-002
   global_id: t-58994
   teiginys: "Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   pagrindžia:

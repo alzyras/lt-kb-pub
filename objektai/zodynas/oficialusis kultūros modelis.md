@@ -39,14 +39,14 @@ Daukšai rūpi ne kasdienės lietuvių kalbos vartojimas, o būtinybė šia kalb
 ## Teiginiai
 
 <a id="claim-t-70254"></a>
-- t-002
+- t-001
   global_id: t-70254
   teiginys: "LDK oficialiajame kultūros modelyje lietuvių kalbą iš pradžių lenkė rusėnų, o vėliau lenkų kalba."
   pagrindžia:
     - c-69311
 
 <a id="claim-t-183448"></a>
-- t-003
+- t-002
   global_id: t-183448
   teiginys: "Mikalojui Daukšai rūpėjo ne kasdienis lietuvių kalbos vartojimas, o oficialiojo kultūros modelio kūrimas lietuvių kalba."
   pagrindžia:

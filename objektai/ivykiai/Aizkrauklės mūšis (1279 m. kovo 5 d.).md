@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66445"></a>
-- t-003
+- t-001
   global_id: t-66445
   teiginys: "1279 m. kovo 5 d. Padauguvyje prie Aizkrauklės įvyko mūšis, kuriame abi pusės patyrė nuostolių."
   pagrindžia:
     - c-11814
 
 <a id="claim-t-66446"></a>
-- t-004
+- t-002
   global_id: t-66446
   teiginys: "Aizkrauklės pergalė pagal Ordino nuostolius XIII a. buvo antroji po Durbės kautynių."
   pagrindžia:

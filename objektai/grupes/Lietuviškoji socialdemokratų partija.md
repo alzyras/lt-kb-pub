@@ -41,7 +41,7 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
 ## Teiginiai
 
 <a id="claim-t-74617"></a>
-- t-002
+- t-001
   global_id: t-74617
   teiginys: "Jų organizatoriai daugiausia buvo Rusijos, taip pat lenkų socialistinių partijų vietos skyriai."
   pagrindžia:
@@ -49,14 +49,14 @@ Savo spaudą lietuvių ir lenkų kalbomis leido ir pirmoji su lietuvių tautiniu
     - c-177579
 
 <a id="claim-t-74618"></a>
-- t-001
+- t-002
   global_id: t-74618
   teiginys: "1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido spaudą lietuvių ir lenkų kalbomis."
   pagrindžia:
     - c-72664
 
 <a id="claim-t-74619"></a>
-- t-004
+- t-003
   global_id: t-74619
   teiginys: "Lietuviškoji socialdemokratų partija rėmė Lietuvos nepriklausomybės idėją, socialines reformas ir lietuvių bei lenkų kalbų lygybę Lietuvoje."
   pagrindžia:

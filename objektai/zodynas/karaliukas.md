@@ -51,14 +51,14 @@ Tiksli leksinė apimtis šaltinyje nėra apibrėžta tiesiogiai, todėl reikšm�
     - c-175087
 
 <a id="claim-t-192247"></a>
-- t-003
+- t-002
   global_id: t-192247
   teiginys: "Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais."
   pagrindžia:
     - c-175086
 
 <a id="claim-t-192562"></a>
-- t-005
+- t-003
   global_id: t-192562
   teiginys: "Teodoras Narbutas rašo, kad įvairiose šalyse atsirado skirtingų imperatorių ir barbarų karaliukų."
   pagrindžia:

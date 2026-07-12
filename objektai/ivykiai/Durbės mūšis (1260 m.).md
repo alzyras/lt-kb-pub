@@ -67,28 +67,28 @@ Ordinas ruošė didelį žygį į Žemaičius ir į pagalbą pasikvietė Prūsų
 ## Teiginiai
 
 <a id="claim-t-66527"></a>
-- t-013
+- t-001
   global_id: t-66527
   teiginys: "Durbės mūšyje 1260 m. liepos 13 d. žuvo Livonijos magistras Burchardas, Prūsijos maršalas Henrikas Botelis ir 150 brolių."
   pagrindžia:
     - c-66740
 
 <a id="claim-t-66528"></a>
-- t-011
+- t-002
   global_id: t-66528
   teiginys: "Prieš Durbės mūšį kuršiai prašė, kad krikščionims laimėjus jiems būtų sugrąžintos moterys ir vaikai."
   pagrindžia:
     - c-66742
 
 <a id="claim-t-66529"></a>
-- t-010
+- t-003
   global_id: t-66529
   teiginys: "1260 m. Livonijos ir Prūsijos broliai su stipriomis kariuomenėmis susirinko nugabenti maisto Švento Jurgio pilies broliams."
   pagrindžia:
     - c-66739
 
 <a id="claim-t-66530"></a>
-- t-012
+- t-004
   global_id: t-66530
   teiginys: "Durbės mūšyje lietuviai puolė krikščionis iš priekio, o kuršiai juos užgriuvo iš užpakalio."
   pagrindžia:

@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
     - c-61031
 
 <a id="claim-t-60399"></a>
-- t-001
+- t-002
   global_id: t-60399
   teiginys: "Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui."
   pagrindžia:

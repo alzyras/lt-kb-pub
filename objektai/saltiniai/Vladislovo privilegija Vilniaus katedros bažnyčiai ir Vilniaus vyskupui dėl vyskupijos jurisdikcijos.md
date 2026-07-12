@@ -6,10 +6,10 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigaikštis
   - saltinis
-  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,7 +32,7 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
 ## Teiginiai
 
 <a id="claim-t-88352"></a>
-- t-002
+- t-001
   global_id: t-88352
   teiginys: "Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios."
   pagrindžia:

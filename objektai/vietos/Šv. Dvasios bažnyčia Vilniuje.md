@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
+  - teisinė-praktika
   - vieta
   - vyskupas
 media_total_count: '0'
@@ -37,7 +38,7 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
 ## Teiginiai
 
 <a id="claim-t-195192"></a>
-- t-003
+- t-001
   global_id: t-195192
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę."
   pagrindžia:
@@ -52,14 +53,14 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177561
 
 <a id="claim-t-195194"></a>
-- t-001
+- t-003
   global_id: t-195194
   teiginys: "Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus."
   pagrindžia:
     - c-177558
 
 <a id="claim-t-195195"></a>
-- t-006
+- t-004
   global_id: t-195195
   teiginys: "1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti."
   pagrindžia:
@@ -67,14 +68,14 @@ Dvasios bažnyčios pastatyti vie­ šą špitolę (prieglaudą) ir visada ją i
     - c-177557
 
 <a id="claim-t-195196"></a>
-- t-004
+- t-005
   global_id: t-195196
   teiginys: "Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų."
   pagrindžia:
     - c-177558
 
 <a id="claim-t-195197"></a>
-- t-005
+- t-006
   global_id: t-195197
   teiginys: "Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę."
   pagrindžia:

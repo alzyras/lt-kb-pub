@@ -21,8 +21,8 @@ atnaujinta: ''
 tags:
   - elekcija
   - grupe
+  - institucija
   - seimas
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'
@@ -48,49 +48,49 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
 ## Teiginiai
 
 <a id="claim-t-78352"></a>
-- t-022
+- t-001
   global_id: t-78352
   teiginys: "1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai."
   pagrindžia:
     - c-75656
 
 <a id="claim-t-78353"></a>
-- t-011
+- t-002
   global_id: t-78353
   teiginys: "Vladimirui Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija."
   pagrindžia:
     - c-22613
 
 <a id="claim-t-78354"></a>
-- t-015
+- t-003
   global_id: t-78354
   teiginys: "Stalino valdymo metais komunistų partija kontroliavo, administravo ir cenzūravo visas Lietuvos kultūros sritis."
   pagrindžia:
     - c-75645
 
 <a id="claim-t-78355"></a>
-- t-013
+- t-004
   global_id: t-78355
   teiginys: "Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
   pagrindžia:
     - c-75648
 
 <a id="claim-t-78357"></a>
-- t-023
+- t-005
   global_id: t-78357
   teiginys: "LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu."
   pagrindžia:
     - c-75650
 
 <a id="claim-t-78358"></a>
-- t-025
+- t-006
   global_id: t-78358
   teiginys: "Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą."
   pagrindžia:
     - c-75646
 
 <a id="claim-t-78360"></a>
-- t-014
+- t-007
   global_id: t-78360
   teiginys: "Lietuvos komunistų partijoje lietuvių skaičius išaugo nuo 13 tūkst. 1953 m. iki 55 tūkst. 1965 m."
   pagrindžia:
@@ -104,56 +104,56 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
     - c-42833
 
 <a id="claim-t-78362"></a>
-- t-004
+- t-009
   global_id: t-78362
   teiginys: "1940 m. V. Dekanozovui talkino sovietų pasiuntinybė ir iki tol pogrindyje veikusi maža Lietuvos komunistų partija."
   pagrindžia:
     - c-22613
 
 <a id="claim-t-78364"></a>
-- t-002
+- t-010
   global_id: t-78364
   teiginys: "A. Smetonai pogrindyje veikusi negausi, apie 1 200 narių turėjusi Lietuvos komunistų partija neatrodė kelianti grėsmę."
   pagrindžia:
     - c-22611
 
 <a id="claim-t-78365"></a>
-- t-009
+- t-011
   global_id: t-78365
   teiginys: "TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą."
   pagrindžia:
     - c-42834
 
 <a id="claim-t-78366"></a>
-- t-005
+- t-012
   global_id: t-78366
   teiginys: "1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos."
   pagrindžia:
     - c-22614
 
 <a id="claim-t-78367"></a>
-- t-006
+- t-013
   global_id: t-78367
   teiginys: "Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos."
   pagrindžia:
     - c-22615
 
 <a id="claim-t-78373"></a>
-- t-024
+- t-014
   global_id: t-78373
   teiginys: "1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“."
   pagrindžia:
     - c-75658
 
 <a id="claim-t-78374"></a>
-- t-001
+- t-015
   global_id: t-78374
   teiginys: "Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti."
   pagrindžia:
     - c-22610
 
 <a id="claim-t-193553"></a>
-- t-026
+- t-016
   global_id: t-193553
   teiginys: "Kiekvienas žmogus, dalyvaujantis tokioje akcijoje, jautė, kad nuo jo priklauso Lietuvos ateitis."
   pagrindžia:

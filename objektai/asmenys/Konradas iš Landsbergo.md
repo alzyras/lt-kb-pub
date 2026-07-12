@@ -32,14 +32,14 @@ Dusburgietis teigia, kad taigi pas Lenkijos kunigaikštį magistras pasiuntė br
 ## Teiginiai
 
 <a id="claim-t-60157"></a>
-- t-002
+- t-001
   global_id: t-60157
   teiginys: "Konradas, Lenkijos kunigaikštis, išklausė brolius ir nuodugniai apsvarstė jam pateiktą reikalą."
   pagrindžia:
     - c-60789
 
 <a id="claim-t-60158"></a>
-- t-001
+- t-002
   global_id: t-60158
   teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo į Kulmo žemę patikrinti Lenkijos kunigaikščio pasiuntinių."
   pagrindžia:

@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - kraštas
   - vieta
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

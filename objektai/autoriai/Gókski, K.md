@@ -39,14 +39,14 @@ Gókski, K.
 ## Teiginiai
 
 <a id="claim-t-54118"></a>
-- t-002
+- t-001
   global_id: t-54118
   teiginys: "K. Gókski 1888 m. paskelbė darbą „Bitwa pod Grunwaldem“ leidinyje „Biblioteka Warszawska“."
   pagrindžia:
     - c-55067
 
 <a id="claim-t-54119"></a>
-- t-001
+- t-002
   global_id: t-54119
   teiginys: "K. Gókski 1888 m. „Biblioteka Warszawska“ paskelbė darbą „Bitwa pod Grunwaldem“ apie Žalgirio mūšį."
   pagrindžia:

@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie išdavystę, per kurią žuvo šimtas krikščioni
 ## Teiginiai
 
 <a id="claim-t-60123"></a>
-- t-002
+- t-001
   global_id: t-60123
   teiginys: "Girdila su jam skirtais vyrais patraukė prie Aukaimio pilies, bet iš anksto įspėti pilies vyrai juos užpuolė."
   pagrindžia:
     - c-60755
 
 <a id="claim-t-60124"></a>
-- t-001
+- t-002
   global_id: t-60124
   teiginys: "1285 m. skalvis Girdila, prieš atsivertimą gerbtas saviškių, pasigyrė galįs su šimtu ginkluotų vyrų pridaryti lietuviams žalos."
   pagrindžia:

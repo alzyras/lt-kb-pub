@@ -63,112 +63,112 @@ Narbutas, remdamasis Herodotu, rašo, kad skitai, laidodami savo karalius, užmu
     - c-175255
 
 <a id="claim-t-192464"></a>
-- t-007
+- t-005
   global_id: t-192464
   teiginys: "514 metais prieš Kristų Darijus patraukė prieš Indatirą, kai skitai, Narbuto žodžiais, neketino žemintis."
   pagrindžia:
     - c-175258
 
 <a id="claim-t-192465"></a>
-- t-008
+- t-006
   global_id: t-192465
   teiginys: "Narbutas manė, kad skitai gintarą gaudavo keliu palei Baltijos jūrą ir tinkamiausia šio kelio upe laikė Nemuną."
   pagrindžia:
     - c-175259
 
 <a id="claim-t-193340"></a>
-- t-009
+- t-007
   global_id: t-193340
   teiginys: "Sakėsi labai džiaugiąsis susidariusia proga aiškiai įrodyti, jog ne be pagrindo visai neseniai pažadėjęs rusams išvesti lietuvių pajėgas prieš skitus."
   pagrindžia:
     - c-176068
 
 <a id="claim-t-193341"></a>
-- t-010
+- t-008
   global_id: t-193341
   teiginys: "Karą prieš Skirmantą susimanė rengti Balaklajus, naujas Užvolgio skitų kunigaikštis, galimas daibtas, norėdamas išdildyti priS k irm a n ta s su m u ša siminimus apie pralaimėjimą, sk itu s patirtą prieš keletą metų; teisėtos priežasties, jis išleido."
   pagrindžia:
     - c-176069
 
 <a id="claim-t-193342"></a>
-- t-011
+- t-009
   global_id: t-193342
   teiginys: "Todėl kautynės buvo nepaprastai žiaurios ir ilgos; kol skitų rikiuotė tebe buvo nesuirusi, tol pergalė nelinko nei į vieną, nei į kitą pusę, kai ji, lietuvių galop pralaužta, suiro, be mat sutrikę būriai leidosi bėgti."
   pagrindžia:
     - c-176070
 
 <a id="claim-t-193343"></a>
-- t-012
+- t-010
   global_id: t-193343
   teiginys: "Užvolgio skitai, netekę mirusio chano Saladi- 1419 m eta i no, suskilo atskiromis grupėS k itų ta u to m s V y ta u - mis: vieni vieną, kiti kitą tas p a s k y r ė v a ld o v u s mirusio valdovo sūnų siūlė sosto įpėdiniu."
   pagrindžia:
     - c-176071
 
 <a id="claim-t-193344"></a>
-- t-013
+- t-011
   global_id: t-193344
   teiginys: "Štai todėl maloniai ir noriai priėmė Tochtamyšą, pažadėjo paramą, Vilniuje surengė didžiu les iškilmes, uždėjo jam perlais bei brangakmeniais nu sagstytą kepurę, paskelbė Užvolgio skitų chanu (pap rastai vadinamu caru) ir pakėlė į valdovus."
   pagrindžia:
     - c-176072
 
 <a id="claim-t-193345"></a>
-- t-014
+- t-012
   global_id: t-193345
   teiginys: "Jis įsakė Lietuvos maršalui Mikalojui Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo menę ir su ja palydėti Jerim Berdį į Skitiją."
   pagrindžia:
     - c-176073
 
 <a id="claim-t-193346"></a>
-- t-015
+- t-013
   global_id: t-193346
   teiginys: "Antra vertus, visi žinojo, kad po Bajazito sutriuš kinimo skitų vardas turkams kelia didžiausią siaubą."
   pagrindžia:
     - c-176074
 
 <a id="claim-t-193347"></a>
-- t-016
+- t-014
   global_id: t-193347
   teiginys: "Sako, jog skitai, laikydamiesi barbariškųjų papročių, šitaip sudarydavę sutartis: ištraukę iš makštų kardus, pylė ant jų šaltą vandenį ir jį, varvantį nuo aštrių ašmenų, vienas po kito siurbė, pridurdami užkeikimo žodžius, kad, girdi, tas, kas pirmas."
   pagrindžia:
     - c-176075
 
 <a id="claim-t-193348"></a>
-- t-017
+- t-015
   global_id: t-193348
   teiginys: "Vargais negalais per pasiuntinius išsaugojus taiką didelę metų dali, rudens pradžioje karalius sužinojo, kad Krymo skitai, pasirodę apie Pripetę, siautėja Lie tuvos valdose."
   pagrindžia:
     - c-176076
 
 <a id="claim-t-193349"></a>
-- t-018
+- t-016
   global_id: t-193349
   teiginys: "Esą, galėdamas elgtis savo nuožiūra, neabe jotinai su džiaugsmu patrauktų į žygį prieš skitus, ta čiau laisvų žmonių valstybėje valdovas įstatymų ver čiamas skaitytis su kitų nuomone."
   pagrindžia:
     - c-176077
 
 <a id="claim-t-193350"></a>
-- t-019
+- t-017
   global_id: t-193350
   teiginys: "PABAIGA P A A IŠ K IN IM A I 1 Skitais senovėje vadinta tautos, gyvenusios šiaurinėse Juodo sios jūros pakrantėse 7—3 a."
   pagrindžia:
     - c-176078
 
 <a id="claim-t-193351"></a>
-- t-020
+- t-018
   global_id: t-193351
   teiginys: "Kojelavičius skitais vadina mongolus bei totorius."
   pagrindžia:
     - c-176079
 
 <a id="claim-t-194866"></a>
-- t-021
+- t-019
   global_id: t-194866
   teiginys: "Skitų gentys dalijosi į įvairias kartas arba klases, bet dvi svarbiausios buvo šios: žemdirbių ir klajoklių."
   pagrindžia:
     - c-177262
 
 <a id="claim-t-194867"></a>
-- t-022
+- t-020
   global_id: t-194867
   teiginys: "Jau labai senais laikais graikai užmezgė santykius su Juodosios jūros pakrančių skitais."
   pagrindžia:

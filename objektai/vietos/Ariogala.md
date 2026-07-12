@@ -47,63 +47,63 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
 ## Teiginiai
 
 <a id="claim-t-179746"></a>
-- t-007
+- t-001
   global_id: t-179746
   teiginys: "Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius."
   pagrindžia:
     - c-163410
 
 <a id="claim-t-179747"></a>
-- t-006
+- t-002
   global_id: t-179747
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Ariogalos, Gaižuvos ir Raseinių sritis."
   pagrindžia:
     - c-05711
 
 <a id="claim-t-179749"></a>
-- t-015
+- t-003
   global_id: t-179749
   teiginys: "1950 m. liepos 22 d. prie Ariogalos ir Vilkijos rajonų ribos MGB 208-ojo pulko kareiviai puolė partizanų bunkerį Daugėliškių miške."
   pagrindžia:
     - c-43321
 
 <a id="claim-t-179750"></a>
-- t-010
+- t-004
   global_id: t-179750
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis."
   pagrindžia:
     - c-05711
 
 <a id="claim-t-179751"></a>
-- t-014
+- t-005
   global_id: t-179751
   teiginys: "Ariogalos apylinkės buvo laikomos pagonims svarbia vietove, siejama su Romuva, Perkūno šventykla ir Krivių Krivaičio buveine."
   pagrindžia:
     - c-163409
 
 <a id="claim-t-179752"></a>
-- t-013
+- t-006
   global_id: t-179752
   teiginys: "Ginkluota palyda, pasiekusi Raseinių ribas, vėliau pasiekė Ariogalos apylinkes."
   pagrindžia:
     - c-163414
 
 <a id="claim-t-179754"></a>
-- t-005
+- t-007
   global_id: t-179754
   teiginys: "Mindaugas karūnavimo metais ordinui užrašė pusę Ariogalos žemės Žemaičiuose."
   pagrindžia:
     - c-05710
 
 <a id="claim-t-184921"></a>
-- t-016
+- t-008
   global_id: t-184921
   teiginys: "Žemaitiją nusiaubęs priešas sulygino su žeme Ariogalos, Vaikių, Raseinių ir Klogėnų valsčius."
   pagrindžia:
     - c-168282
 
 <a id="claim-t-184922"></a>
-- t-017
+- t-009
   global_id: t-184922
   teiginys: "Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama visiškai sunaikino Ariogalos, Pernaravos ir Labūnavos žemes."
   pagrindžia:
@@ -131,7 +131,7 @@ Ariogala šiame veikale pasirodo kaip Žemaičių sritis, kurios pusę Mindaugas
     - c-171556
 
 <a id="claim-t-194985"></a>
-- t-018
+- t-013
   global_id: t-194985
   teiginys: "Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis; tik dėl staigaus polaidžio jis turėjo gana nuostolingą grįžimą^12."
   pagrindžia:

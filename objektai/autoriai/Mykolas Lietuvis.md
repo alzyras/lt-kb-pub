@@ -41,49 +41,49 @@ Mykolas Lietuvis siejamas su svarstymais apie valstybės tvarką veikale „Apie
 ## Teiginiai
 
 <a id="claim-t-172956"></a>
-- t-010
+- t-001
   global_id: t-172956
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
   pagrindžia:
     - c-157304
 
 <a id="claim-t-172957"></a>
-- t-007
+- t-002
   global_id: t-172957
   teiginys: "Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai."
   pagrindžia:
     - c-157306
 
 <a id="claim-t-172959"></a>
-- t-006
+- t-003
   global_id: t-172959
   teiginys: "Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“."
   pagrindžia:
     - c-157306
 
 <a id="claim-t-172960"></a>
-- t-014
+- t-004
   global_id: t-172960
   teiginys: "Apie tai yra rašęs Mykolas L i e t u v i s, p. 28."
   pagrindžia:
     - c-157300
 
 <a id="claim-t-172961"></a>
-- t-015
+- t-005
   global_id: t-172961
   teiginys: "Mykolas Lietuvis liudijo, kad Vilniaus katedroje saugotos trofėjinės vėliavos sudegė per 1530 m. gaisrą."
   pagrindžia:
     - c-157305
 
 <a id="claim-t-172962"></a>
-- t-012
+- t-006
   global_id: t-172962
   teiginys: "Mykolas Lietuvis rašė apie Keturiasdešimties Totorių kaimo pavadinimo kilmę."
   pagrindžia:
     - c-157300
 
 <a id="claim-t-172963"></a>
-- t-009
+- t-007
   global_id: t-172963
   teiginys: "Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos."
   pagrindžia:

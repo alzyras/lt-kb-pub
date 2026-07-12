@@ -58,14 +58,14 @@ Tekste pateikiama kaip autoriaus etimologinė spėlionė, o ne kaip patikrinta �
     - c-175065
 
 <a id="claim-t-192559"></a>
-- t-004
+- t-003
   global_id: t-192559
   teiginys: "Narbutas Giryjos kilmę aiškina per lietuvių kalbos žodį „girija“, reiškiantį mišką."
   pagrindžia:
     - c-175342
 
 <a id="claim-t-192560"></a>
-- t-005
+- t-004
   global_id: t-192560
   teiginys: "Narbutas Giryją, Gerrhus ir Grykiją laiko pavadinimais, galėjusiais kilti iš tos pačios tautos."
   pagrindžia:

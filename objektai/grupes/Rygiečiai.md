@@ -37,14 +37,14 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
 ## Teiginiai
 
 <a id="claim-t-179438"></a>
-- t-003
+- t-001
   global_id: t-179438
   teiginys: "Gedimino laiškų kaltinimai ordinui leido kelti prielaidą, kad juos Gedimino vardu sufabrikavo Livonijos ordino priešai rygiečiai."
   pagrindžia:
     - c-163137
 
 <a id="claim-t-179439"></a>
-- t-001
+- t-002
   global_id: t-179439
   teiginys: "Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į talką Vytenį."
   pagrindžia:
@@ -54,7 +54,7 @@ Todėl 129S m. arkivyskupas ir rygiečiai, kovodami su ordinu, pasikvietė Į ta
     - c-163141
 
 <a id="claim-t-179441"></a>
-- t-005
+- t-003
   global_id: t-179441
   teiginys: "1253 m., Mindaugui susitaikius su Livonijos ordinu, rygiečiai išsirūpino prekybos teisę Lietuvoje."
   pagrindžia:

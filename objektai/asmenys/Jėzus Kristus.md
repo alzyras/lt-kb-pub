@@ -32,7 +32,7 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
 ## Teiginiai
 
 <a id="claim-t-89876"></a>
-- t-004
+- t-001
   global_id: t-89876
   teiginys: "Petras iš Dusburgo dedikacijoje mini Jėzaus Kristaus darbus, kuriuos aiškino praeities šventieji tėvai."
   pagrindžia:
@@ -46,14 +46,14 @@ Dusburgietis teigia, kad kiekvienam pastabiam žmogui žinoma, kaip kruopščiai
     - c-85791
 
 <a id="claim-t-89878"></a>
-- t-001
+- t-003
   global_id: t-89878
   teiginys: "Jėzus Kristus, pasak dedikacijos, stebuklingus darbus nuveikė pats arba per savo mokinius."
   pagrindžia:
     - c-85792
 
 <a id="claim-t-89879"></a>
-- t-003
+- t-004
   global_id: t-89879
   teiginys: "Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus."
   pagrindžia:

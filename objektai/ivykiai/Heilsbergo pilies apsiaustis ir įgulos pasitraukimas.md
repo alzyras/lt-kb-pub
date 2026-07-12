@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62798"></a>
-- t-002
+- t-001
   global_id: t-62798
   teiginys: "Apsiaustieji iš bado suvalgė 250 arklių ir jų odas."
   pagrindžia:
     - c-63604
 
 <a id="claim-t-62799"></a>
-- t-001
+- t-002
   global_id: t-62799
   teiginys: "Heilsbergo pilies įgula, pritrūkusi maisto po prūsų apsiausties, paliko pilį ir slapta pasitraukė į Elbingą."
   pagrindžia:

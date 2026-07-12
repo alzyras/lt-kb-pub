@@ -38,28 +38,28 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
 ## Teiginiai
 
 <a id="claim-t-76355"></a>
-- t-003
+- t-001
   global_id: t-76355
   teiginys: "Atkūrusi nepriklausomybę Lietuva Vakaruose įgijo sieną su Rusijos Kaliningrado sritimi."
   pagrindžia:
     - c-73950
 
 <a id="claim-t-76356"></a>
-- t-004
+- t-002
   global_id: t-76356
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie Kaliningrado srities, jeigu Lietuva siektų atkurti nepriklausomybę."
   pagrindžia:
     - c-73949
 
 <a id="claim-t-76357"></a>
-- t-002
+- t-003
   global_id: t-76357
   teiginys: "Dabartinė Kaliningrado sritis šaltinyje siejama su Rytprūsiais, iš kurių Vokietija po Antrojo pasaulinio karo buvo prievarta išstumta."
   pagrindžia:
     - c-73952
 
 <a id="claim-t-76358"></a>
-- t-001
+- t-004
   global_id: t-76358
   teiginys: "Maskva grasino prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir Vilniaus regione kurti autonomiją."
   pagrindžia:

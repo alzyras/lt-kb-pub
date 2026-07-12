@@ -35,7 +35,7 @@ Protestantų mokyklos buvo įkurtos Vilniuje, Brastoje, Nesvyžiuje, Semetyčiuo
 ## Teiginiai
 
 <a id="claim-t-47480"></a>
-- t-002
+- t-001
   global_id: t-47480
   teiginys: "Nuo 1958 m. sovietų valdžia ribojo atlaidų lankymą Šiluvoje, blokuodama miestelį neva dėl „kiaulių maro“."
   pagrindžia:

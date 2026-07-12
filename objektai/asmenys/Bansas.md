@@ -29,14 +29,14 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
 ## Teiginiai
 
 <a id="claim-t-60088"></a>
-- t-002
+- t-001
   global_id: t-60088
   teiginys: "Bansas norėjo viešai turėti dvi žmonas, o broliams tai uždraudus sukurstė beveik visus prūsus atsimesti nuo krikščionybės."
   pagrindžia:
     - c-60721
 
 <a id="claim-t-60089"></a>
-- t-001
+- t-002
   global_id: t-60089
   teiginys: "Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės."
   pagrindžia:

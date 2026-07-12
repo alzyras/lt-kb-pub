@@ -45,14 +45,14 @@ Aukštaitija šiame veikale rodoma kaip ankstyvasis Lietuvos branduolio regionas
     - c-175144
 
 <a id="claim-t-192347"></a>
-- t-003
+- t-002
   global_id: t-192347
   teiginys: "Aukštaitiją nuo Žemaitijos skyrusi siena ėjo dešiniuoju Neries ir Nemuno pakraščiu nuo Nevėžio žiočių iki Kuršo."
   pagrindžia:
     - c-175143
 
 <a id="claim-t-192348"></a>
-- t-002
+- t-003
   global_id: t-192348
   teiginys: "Narbuto aprašyme Aukštaitija sudarė aukštesniąją Lietuvos dalį ir lotynų autorių buvo vadinama Austechia."
   pagrindžia:

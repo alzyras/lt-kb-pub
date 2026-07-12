@@ -39,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86029"></a>
-- t-002
+- t-001
   global_id: t-86029
   teiginys: "1323 m. Olivos ir Pelplino abatai popiežiui pranešė apie Gedimino laiškus, kuriuose jis teigė norįs krikštytis."
   pagrindžia:
     - c-82008
 
 <a id="claim-t-86030"></a>
-- t-001
+- t-002
   global_id: t-86030
   teiginys: "1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas."
   pagrindžia:

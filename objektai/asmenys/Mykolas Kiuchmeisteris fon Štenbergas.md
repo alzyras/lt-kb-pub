@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-101696"></a>
-- t-002
+- t-001
   global_id: t-101696
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno maršalas Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei derybose."
   pagrindžia:
     - c-21905
 
 <a id="claim-t-101697"></a>
-- t-001
+- t-002
   global_id: t-101697
   teiginys: "1413 m. sausio 28 d. Salyne prie Kauno Mykolas Kiuchmeisteris fon Štenbergas vadovavo Vokiečių ordino pasiuntinybei."
   pagrindžia:

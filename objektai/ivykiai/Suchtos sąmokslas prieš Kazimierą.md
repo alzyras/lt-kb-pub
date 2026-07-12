@@ -70,7 +70,7 @@ Nenurodyta
     - c-169965
 
 <a id="claim-t-186754"></a>
-- t-005
+- t-003
   global_id: t-186754
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošo pasakojimas apie Suchtą laikomas tautosakinio pobūdžio."
   pagrindžia:
@@ -84,14 +84,14 @@ Nenurodyta
     - c-169963
 
 <a id="claim-t-186756"></a>
-- t-006
+- t-005
   global_id: t-186756
   teiginys: "Redakcinė pastaba patikimesniu laiko L. Kolankowskio spėjimą, kad Suchtos sąmokslas įvyko tuoj po 1444 m."
   pagrindžia:
     - c-169964
 
 <a id="claim-t-186757"></a>
-- t-003
+- t-006
   global_id: t-186757
   teiginys: "Redakcinė pastaba nurodo, kad J. Dlugošas antrąkart mini Suchtos sąmokslą perteikdamas Zbignevo Olesnickio kalbą 1453 m. Parčevo seime."
   pagrindžia:

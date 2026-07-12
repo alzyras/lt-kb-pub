@@ -7,6 +7,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - kapavietė
+  - muziejus
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +53,7 @@ Ašarinės minimos kapaviečių aprašymuose ir Saurų dvaro muziejaus kataloge.
 ## Teiginiai
 
 <a id="claim-t-192063"></a>
-- t-002
+- t-001
   global_id: t-192063
   teiginys: "Narbutas Saurų dvaro muziejaus kataloge mini keturias ašarinių atmainas iš įvairių palaidojimų ir rašo, kad ašarinės buvo tarp vertingiausių jo kolekcijos eksponatų."
   pagrindžia:

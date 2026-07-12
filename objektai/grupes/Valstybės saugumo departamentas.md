@@ -44,7 +44,7 @@ Režimo ramstis buvo policija ir gerai veikiantis Valstybės saugumo departament
     - c-166578
 
 <a id="claim-t-20059"></a>
-- t-001
+- t-002
   global_id: t-20059
   teiginys: "Valstybės saugumo departamentas kartu su policija buvo vienas iš A. Smetonos režimo ramsčių."
   pagrindžia:

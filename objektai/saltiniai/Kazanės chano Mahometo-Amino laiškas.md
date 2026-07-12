@@ -36,7 +36,7 @@ Mengli-Girėjus, gavęs žinią apie totoriams fatališkai pasibaigusį mūšį,
 ## Teiginiai
 
 <a id="claim-t-08862"></a>
-- t-002
+- t-001
   global_id: t-08862
   teiginys: "Kazanės chanas Mahometas-Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą."
   pagrindžia:

@@ -40,7 +40,7 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 ## Teiginiai
 
 <a id="claim-t-67987"></a>
-- t-002
+- t-001
   global_id: t-67987
   teiginys: "Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje."
   pagrindžia:

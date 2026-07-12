@@ -54,315 +54,315 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 ## Teiginiai
 
 <a id="claim-t-171393"></a>
-- t-054
+- t-001
   global_id: t-171393
   teiginys: "Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d."
   pagrindžia:
     - c-155948
 
 <a id="claim-t-171394"></a>
-- t-057
+- t-002
   global_id: t-171394
   teiginys: "Vytautas Lietuvoje įkurdino totorius, kurie garsėjo dora, narsa ir prieraišumu naujai tėvynei."
   pagrindžia:
     - c-155980
 
 <a id="claim-t-171395"></a>
-- t-055
+- t-003
   global_id: t-171395
   teiginys: "Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių."
   pagrindžia:
     - c-155960
 
 <a id="claim-t-171396"></a>
-- t-031
+- t-004
   global_id: t-171396
   teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai ir Livonijos ordinas."
   pagrindžia:
     - c-36951
 
 <a id="claim-t-171397"></a>
-- t-043
+- t-005
   global_id: t-171397
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   pagrindžia:
     - c-155984
 
 <a id="claim-t-171398"></a>
-- t-061
+- t-006
   global_id: t-171398
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę ir kitas duokles dvasininkams."
   pagrindžia:
     - c-155949
 
 <a id="claim-t-171400"></a>
-- t-040
+- t-007
   global_id: t-171400
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo jam turtingomis dovanomis apkrautus kupranugarius."
   pagrindžia:
     - c-155954
 
 <a id="claim-t-171401"></a>
-- t-021
+- t-008
   global_id: t-171401
   teiginys: "Apie 1506 m. liepos 20–22 d. totoriai pasirinko stovyklavietę prie Klecko, patogią išpuoliams į Pinską, Vilnių, Nesvyžių ir Slucką."
   pagrindžia:
     - c-42958
 
 <a id="claim-t-171402"></a>
-- t-060
+- t-009
   global_id: t-171402
   teiginys: "Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto."
   pagrindžia:
     - c-155963
 
 <a id="claim-t-171403"></a>
-- t-023
+- t-010
   global_id: t-171403
   teiginys: "Artėdama Klecko link nuo Pinsko pusės LDK kariuomenė išėjo ant aukštumos, nuo kurios buvo matyti Kleckas ir jo kaimynystėje tarp Lanios ir Cepros upių išsirikiavusi totorių kariuomenė."
   pagrindžia:
     - c-42960
 
 <a id="claim-t-171404"></a>
-- t-012
+- t-011
   global_id: t-171404
   teiginys: "Totoriai kartu su Livonijos ordinu trukdė taikų Vytauto darbą."
   pagrindžia:
     - c-36951
 
 <a id="claim-t-171405"></a>
-- t-066
+- t-012
   global_id: t-171405
   teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
   pagrindžia:
     - c-155979
 
 <a id="claim-t-171406"></a>
-- t-051
+- t-013
   global_id: t-171406
   teiginys: "LDK turėjo totorių musulmonų bendruomenę, kurios iki unijos su Lenkija Lenkijoje nebuvo."
   pagrindžia:
     - c-155981
 
 <a id="claim-t-171407"></a>
-- t-048
+- t-014
   global_id: t-171407
   teiginys: "Totoriai įsiveržė į Vengriją ir Lenkiją, mūšyje nukovė Kolomaną, Henriką Vroclavietį ir daugybę kitų žmonių, o šias šalis pavertė dykromis."
   pagrindžia:
     - c-155965
 
 <a id="claim-t-171408"></a>
-- t-046
+- t-015
   global_id: t-171408
   teiginys: "1202 m. prasidėjo totorių viešpatavimas."
   pagrindžia:
     - c-155958
 
 <a id="claim-t-171409"></a>
-- t-015
+- t-016
   global_id: t-171409
   teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
   pagrindžia:
     - c-42952
 
 <a id="claim-t-171410"></a>
-- t-018
+- t-017
   global_id: t-171410
   teiginys: "Po apiplėšimų totoriai stengdavosi greitai pasitraukti, todėl bajorų pašauktinės kariuomenės mobilizacija dažnai vėluodavo."
   pagrindžia:
     - c-155985
 
 <a id="claim-t-171411"></a>
-- t-058
+- t-018
   global_id: t-171411
   teiginys: "Vytautas Vilniuje ne kartą skelbdavo totorių kunigaikščius chanais arba carais."
   pagrindžia:
     - c-155952
 
 <a id="claim-t-171412"></a>
-- t-064
+- t-019
   global_id: t-171412
   teiginys: "Be Vokiečių ordino, taikų Vytauto darbą trukdė totoriai, Livonijos ordinas ir kiti priešininkai."
   pagrindžia:
     - c-36951
 
 <a id="claim-t-171413"></a>
-- t-017
+- t-020
   global_id: t-171413
   teiginys: "Totorių raiteliai vesdavosi po tris atsarginius žirgus, todėl galėdavo judėti labai sparčiai ir pasiekti netikėtumo efektą."
   pagrindžia:
     - c-42954
 
 <a id="claim-t-171414"></a>
-- t-039
+- t-021
   global_id: t-171414
   teiginys: "Vytautas po pergalių prieš totorius savo sostinėje ne kartą skelbdavo totorių kunigaikštį chanu arba caru."
   pagrindžia:
     - c-155952
 
 <a id="claim-t-171415"></a>
-- t-042
+- t-022
   global_id: t-171415
   teiginys: "Švitrigaila kėsinosi atimti iš Žygimanto valdžią ir į Lietuvą kreipė įvairias totorių bei rusų ordas."
   pagrindžia:
     - c-155963
 
 <a id="claim-t-171416"></a>
-- t-009
+- t-023
   global_id: t-171416
   teiginys: "Užimdamas naujus rusų kraštus, Vytautas priartėjo prie totorių sienų ir tai vedė prie karo su totoriais."
   pagrindžia:
     - c-36948
 
 <a id="claim-t-171418"></a>
-- t-062
+- t-024
   global_id: t-171418
   teiginys: "Totoriai, įsigalėję Rusijoje, pradėjo tarpusavyje vaidytis, o Lietuva iš šių vaidų ne kartą pasipelnydavo."
   pagrindžia:
     - c-155977
 
 <a id="claim-t-171419"></a>
-- t-044
+- t-025
   global_id: t-171419
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai ir totoriai, įsigiję nuosavybę, atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
   pagrindžia:
     - c-155949
 
 <a id="claim-t-171420"></a>
-- t-016
+- t-026
   global_id: t-171420
   teiginys: "Totoriams strateginį privalumą teikė jų pagrindinės buveinės Krymo pusiasalyje nuošalumas nuo stiprių galios centrų."
   pagrindžia:
     - c-42953
 
 <a id="claim-t-171421"></a>
-- t-063
+- t-027
   global_id: t-171421
   teiginys: "Vytautas, tarpininkaujant Tochtamyšui, ketino nukariauti totorius ir perimti kovotojo su netikinčiais šlovę."
   pagrindžia:
     - c-155975
 
 <a id="claim-t-171422"></a>
-- t-013
+- t-028
   global_id: t-171422
   teiginys: "Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo."
   pagrindžia:
     - c-14992
 
 <a id="claim-t-171423"></a>
-- t-056
+- t-029
   global_id: t-171423
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir iš kartos į kartą perduodamomis dorybėmis."
   pagrindžia:
     - c-155957
 
 <a id="claim-t-171424"></a>
-- t-045
+- t-030
   global_id: t-171424
   teiginys: "Petro Dusburgiečio kryžiaus žygių istorijoje pritariama popiežiaus kurijos pastangoms suartėti su totoriais-mongolais."
   pagrindžia:
     - c-155969
 
 <a id="claim-t-171425"></a>
-- t-022
+- t-031
   global_id: t-171425
   teiginys: "Pagrindinėje stovyklavietėje buvę totoriai jau tą pačią dieną - rugpjūčio ketvirtąją - sužinojo apie link jų judančią Lietuvos kariuomenę."
   pagrindžia:
     - c-155990
 
 <a id="claim-t-171409"></a>
-- t-015
+- t-032
   global_id: t-171409
   teiginys: "Algirdo reikalavimuose siūlyta iškelti kryžiuočius į rytų stepes ginti Europos šalių nuo totorių."
   pagrindžia:
     - c-42952
 
 <a id="claim-t-171427"></a>
-- t-065
+- t-033
   global_id: t-171427
   teiginys: "Vytauto politikoje svarbi buvo kova rytuose su rusų kunigaikščiais ir totoriais."
   pagrindžia:
     - c-155964
 
 <a id="claim-t-171428"></a>
-- t-026
+- t-034
   global_id: t-171428
   teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
   pagrindžia:
     - c-155972
 
 <a id="claim-t-171429"></a>
-- t-034
+- t-035
   global_id: t-171429
   teiginys: "Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke."
   pagrindžia:
     - c-155948
 
 <a id="claim-t-171430"></a>
-- t-059
+- t-036
   global_id: t-171430
   teiginys: "Totorių chanas Jedigėjus, siekdamas Vytauto draugystės, siųsdavo į Vilnių kupranugarius su turtingomis dovanomis."
   pagrindžia:
     - c-155954
 
 <a id="claim-t-171431"></a>
-- t-010
+- t-037
   global_id: t-171431
   teiginys: "Vytautui atsisakius išduoti Tochtamyšą Kipčako chanui Timur-Kotlogui, karas su totoriais tapo neišvengiamas."
   pagrindžia:
     - c-36949
 
 <a id="claim-t-171432"></a>
-- t-025
+- t-038
   global_id: t-171432
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
   pagrindžia:
     - c-166576
 
 <a id="claim-t-171433"></a>
-- t-037
+- t-039
   global_id: t-171433
   teiginys: "Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose."
   pagrindžia:
     - c-155980
 
 <a id="claim-t-171434"></a>
-- t-068
+- t-040
   global_id: t-171434
   teiginys: "Seniau totoriai vertėsi audinių ir siūlų prekyba."
   pagrindžia:
     - c-155968
 
 <a id="claim-t-171435"></a>
-- t-027
+- t-041
   global_id: t-171435
   teiginys: "Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo."
   pagrindžia:
     - c-155989
 
 <a id="claim-t-171436"></a>
-- t-014
+- t-042
   global_id: t-171436
   teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
   pagrindžia:
     - c-42951
 
 <a id="claim-t-171437"></a>
-- t-011
+- t-043
   global_id: t-171437
   teiginys: "Edygos vadovaujami totoriai 1414–1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, apgriaudami Kijevą ir Lucką."
   pagrindžia:
     - c-21433
 
 <a id="claim-t-171438"></a>
-- t-033
+- t-044
   global_id: t-171438
   teiginys: "Kova rytuose su rusų kunigaikščiais ir totoriais buvo viena iš Vytauto politikos krypčių."
   pagrindžia:
     - c-36953
 
 <a id="claim-t-171439"></a>
-- t-047
+- t-045
   global_id: t-171439
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:
@@ -370,147 +370,147 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-155965
 
 <a id="claim-t-171440"></a>
-- t-019
+- t-046
   global_id: t-171440
   teiginys: "1506 m. vasarą totoriai įsiveržė į LDK valdas, nesitikėdami nesėkmės."
   pagrindžia:
     - c-42956
 
 <a id="claim-t-171441"></a>
-- t-049
+- t-047
   global_id: t-171441
   teiginys: "Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių."
   pagrindžia:
     - c-155951
 
 <a id="claim-t-171442"></a>
-- t-029
+- t-048
   global_id: t-171442
   teiginys: "1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą."
   pagrindžia:
     - c-155987
 
 <a id="claim-t-171443"></a>
-- t-050
+- t-049
   global_id: t-171443
   teiginys: "1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę."
   pagrindžia:
     - c-155978
 
 <a id="claim-t-171444"></a>
-- t-041
+- t-050
   global_id: t-171444
   teiginys: "Vytautas užmezgė draugiškus ryšius su totorių chanu ir susitarė dėl taikos."
   pagrindžia:
     - c-155966
 
 <a id="claim-t-171445"></a>
-- t-030
+- t-051
   global_id: t-171445
   teiginys: "Totoriai, užėmę lietuvių stovyklą, paėmė jų gurguoles bei turtus ir ėmė niokoti kraštą."
   pagrindžia:
     - c-36950
 
 <a id="claim-t-171446"></a>
-- t-036
+- t-052
   global_id: t-171446
   teiginys: "Mykolas Lietuvis liudijo, kad seniau totoriai garsėjo santūrumu, svetingumu ir kitomis dorybėmis."
   pagrindžia:
     - c-155957
 
 <a id="claim-t-171447"></a>
-- t-024
+- t-053
   global_id: t-171447
   teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, tapusiais artimosios sargybos tautomis."
   pagrindžia:
     - c-155974
 
 <a id="claim-t-171432"></a>
-- t-025
+- t-054
   global_id: t-171432
   teiginys: "Po Žalgirio mūšio Vakaruose sklido paskviliai, kad Jogailos ir Vytauto pergalė buvusi „netikra“, nes jie pasitelkė totorius musulmonus."
   pagrindžia:
     - c-166576
 
 <a id="claim-t-183669"></a>
-- t-072
+- t-055
   global_id: t-183669
   teiginys: "Lietuva tuo metu turėjo keturis pagrindinius priešus: Prūsijos-Livonijos vokiečių ordiną, Maskvą, totorius ir Lenkiją."
   pagrindžia:
     - c-167061
 
 <a id="claim-t-183905"></a>
-- t-073
+- t-056
   global_id: t-183905
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:
     - c-155956
 
 <a id="claim-t-187746"></a>
-- t-054
+- t-057
   global_id: t-187746
   teiginys: "Lietuvos metraštyje totorių chanas su sutelktomis ordomis patraukė į Rusų žemę ir, pasak kronikos, padarė jai daug žalos."
   pagrindžia:
     - c-170685
 
 <a id="claim-t-187747"></a>
-- t-055
+- t-058
   global_id: t-187747
   teiginys: "Lietuvos metraštis teigia, kad Dievui padėjus totoriai sumušė Vytautą ir jo kariuomenę, o Vytautas su nedideliu būriu pabėgo."
   pagrindžia:
     - c-170686
 
 <a id="claim-t-187748"></a>
-- t-056
+- t-059
   global_id: t-187748
   teiginys: "Vytautas į karą su Prūsijos vokiečiais sutelkė Lietuvos ir Rusios pajėgas bei daug Ordos totorių."
   pagrindžia:
     - c-170687
 
 <a id="claim-t-187750"></a>
-- t-057
+- t-060
   global_id: t-187750
   teiginys: "Prie Klecko už Lanės upės stovėjo mūšiui pasirengę totorių pulkai."
   pagrindžia:
     - c-170689
 
 <a id="claim-t-187751"></a>
-- t-058
+- t-061
   global_id: t-187751
   teiginys: "Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių."
   pagrindžia:
     - c-170690
 
 <a id="claim-t-192476"></a>
-- t-074
+- t-062
   global_id: t-192476
   teiginys: "Narbutas rašo, kad totorių puldinėjimai tuo metu palietė Lenkiją ir Polesę nuo Bugo."
   pagrindžia:
     - c-175270
 
 <a id="claim-t-193131"></a>
-- t-075
+- t-063
   global_id: t-193131
   teiginys: "Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus totoriams, prekyba su pietiniais kraštais visai nutrūko."
   pagrindžia:
     - c-175889
 
 <a id="claim-t-193132"></a>
-- t-076
+- t-064
   global_id: t-193132
   teiginys: "Totorių pavergta Rusija buvo suskilusi į daugybę kunigaikštysčių, todėl nesunku buvo jas paimti į savo valdžią."
   pagrindžia:
     - c-175890
 
 <a id="claim-t-193845"></a>
-- t-077
+- t-065
   global_id: t-193845
   teiginys: "Tuo pačiu metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
   pagrindžia:
     - c-176489
 
 <a id="claim-t-194371"></a>
-- t-078
+- t-066
   global_id: t-194371
   teiginys: "Apie Vengrijos ir Lenkijos nusiaubimą Tais pačiais metais596 totoriai nuniokojo Vengriją ir Lenkiją (Ptol."
   pagrindžia:

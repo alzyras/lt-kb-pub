@@ -35,14 +35,14 @@ Branskas apibūdinamas kaip Palenkės miestas. Branskas lokalizuojamas prie Nure
 ## Teiginiai
 
 <a id="claim-t-187174"></a>
-- t-002
+- t-001
   global_id: t-187174
   teiginys: "Branskas lokalizuojamas prie Nureco, Vakarų Bugo intako."
   pagrindžia:
     - c-170265
 
 <a id="claim-t-187175"></a>
-- t-001
+- t-002
   global_id: t-187175
   teiginys: "Branskas buvo Palenkės miestas, 1971 m. leidimo komentare priskirtas Lenkijos Balstogės vaivadijai."
   pagrindžia:

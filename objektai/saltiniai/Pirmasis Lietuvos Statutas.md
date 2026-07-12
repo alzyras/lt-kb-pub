@@ -41,21 +41,21 @@ Tačiau nėra likę ženklų, kad Lietuvos sostinė tuo metu būtų turėjusi ko
 ## Teiginiai
 
 <a id="claim-t-88271"></a>
-- t-002
+- t-001
   global_id: t-88271
   teiginys: "Pirmasis Lietuvos Statutas buvo paskelbtas 1528 m. lapkričio 17 d. Lietuvos seime."
   pagrindžia:
     - c-84250
 
 <a id="claim-t-88272"></a>
-- t-003
+- t-002
   global_id: t-88272
   teiginys: "Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą."
   pagrindžia:
     - c-84251
 
 <a id="claim-t-88273"></a>
-- t-001
+- t-003
   global_id: t-88273
   teiginys: "Viena Balińskio aptarta privilegija vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
   pagrindžia:

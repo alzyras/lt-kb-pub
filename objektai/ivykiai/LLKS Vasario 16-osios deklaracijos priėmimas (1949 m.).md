@@ -13,10 +13,10 @@ date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

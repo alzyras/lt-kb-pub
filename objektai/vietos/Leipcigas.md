@@ -36,21 +36,21 @@ Kurį laiką taip elgėsi Mikalojus Konstantinas Čiurlionis (1875–1911), beje
 ## Teiginiai
 
 <a id="claim-t-83727"></a>
-- t-003
+- t-001
   global_id: t-83727
   teiginys: "Vasarį stovyklininkas Pavlikas buvo iš anksto pasiųstas su pinigais, kad jie laiku pasiektų Mlodyčių Leipcige."
   pagrindžia:
     - c-79985
 
 <a id="claim-t-83728"></a>
-- t-001
+- t-002
   global_id: t-83728
   teiginys: "Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige."
   pagrindžia:
     - c-24233
 
 <a id="claim-t-83729"></a>
-- t-002
+- t-003
   global_id: t-83729
   teiginys: "Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas."
   pagrindžia:

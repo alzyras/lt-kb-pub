@@ -38,14 +38,14 @@ Vilhelmas iš Krokuvos pilies buvo išvytas; Jadvyga, norėjusi pas jį pabėgti
 ## Teiginiai
 
 <a id="claim-t-51186"></a>
-- t-002
+- t-001
   global_id: t-51186
   teiginys: "Vienuolikmetė Jadvyga buvo sužieduota su Austrijos hercogu Vilhelmu."
   pagrindžia:
     - c-36533
 
 <a id="claim-t-51187"></a>
-- t-001
+- t-002
   global_id: t-51187
   teiginys: "Austrijos hercogas Vilhelmas buvo sužieduotas su vienuolikmete Jadvyga dar jos tėvui mirštant."
   pagrindžia:

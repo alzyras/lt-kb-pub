@@ -43,98 +43,98 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 ## Teiginiai
 
 <a id="claim-t-10755"></a>
-- t-012
+- t-001
   global_id: t-10755
   teiginys: "XIII amžiuje Šiaurės ir Baltijos jūrose įsigalėjo vokiškųjų miestų pirklių sąjunga, vadinama Hanza."
   pagrindžia:
     - c-00312
 
 <a id="claim-t-10757"></a>
-- t-013
+- t-002
   global_id: t-10757
   teiginys: "Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis."
   pagrindžia:
     - c-00314
 
 <a id="claim-t-116684"></a>
-- t-024
+- t-003
   global_id: t-116684
   teiginys: "1416 m. Hanzos vadovybė įsikišo, kai Dorpatas uždraudė prekybą su Naugardu, bet turėjo sutikti su Dorpato draudimu."
   pagrindžia:
     - c-107506
 
 <a id="claim-t-116685"></a>
-- t-021
+- t-004
   global_id: t-116685
   teiginys: "Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai."
   pagrindžia:
     - c-107504
 
 <a id="claim-t-116687"></a>
-- t-018
+- t-005
   global_id: t-116687
   teiginys: "XIII amžiuje vokiečių miestai sudarė prisiekusiųjų sąjungas, žinomas Hanzos vardu."
   pagrindžia:
     - c-107501
 
 <a id="claim-t-116690"></a>
-- t-023
+- t-006
   global_id: t-116690
   teiginys: "Veliuonos derybose dalyvavo Liubeko ir Stralsundo atstovai, nes Vytauto ir Ordino nesantaika trukdė Hanzai susisiekti su Lietuva."
   pagrindžia:
     - c-107509
 
 <a id="claim-t-116691"></a>
-- t-014
+- t-007
   global_id: t-116691
   teiginys: "Gediminas per rygiečius kreipėsi į Hanzos miestus ir kvietė amatininkus, pirklius, žemdirbius bei riterius vykti į Lietuvą."
   pagrindžia:
     - c-46295
 
 <a id="claim-t-116692"></a>
-- t-015
+- t-008
   global_id: t-116692
   teiginys: "Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis."
   pagrindžia:
     - c-107502
 
 <a id="claim-t-116696"></a>
-- t-012
+- t-009
   global_id: t-116696
   teiginys: "Hanzos miestų tinklui priklausė Kauno miestas."
   pagrindžia:
     - c-107503
 
 <a id="claim-t-116694"></a>
-- t-022
+- t-010
   global_id: t-116694
   teiginys: "Rygiečiai Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku."
   pagrindžia:
     - c-107507
 
 <a id="claim-t-116696"></a>
-- t-012
+- t-011
   global_id: t-116696
   teiginys: "Hanzos miestų tinklui priklausė Kauno miestas."
   pagrindžia:
     - c-107503
 
 <a id="claim-t-193092"></a>
-- t-025
+- t-012
   global_id: t-193092
   teiginys: "XIII amž-je visos šiaurinės Europos prekybą suėmė į savo rankas vokiečių miestų sąjunga, vadinamoji Hanza."
   pagrindžia:
     - c-175856
 
 <a id="claim-t-193093"></a>
-- t-026
+- t-013
   global_id: t-193093
   teiginys: "Hanzos miestų atstovų suvažiavimas Liubeke Gedimino laiškus sutiko labai palankiai."
   pagrindžia:
     - c-175857
 
 <a id="claim-t-194172"></a>
-- t-027
+- t-014
   global_id: t-194172
   teiginys: "Tad turėjo laiko įgyti ir tobulinti savo laisves, bemaž prilygstančias laisviausiems Hanzos lygos miestams."
   pagrindžia:

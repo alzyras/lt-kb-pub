@@ -31,21 +31,21 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 ## Teiginiai
 
 <a id="claim-t-58427"></a>
-- t-002
+- t-001
   global_id: t-58427
   teiginys: "Arsa resp. Arsė tapatinta ir su Vangrape (Tepenas M.)."
   pagrindžia:
     - c-59060
 
 <a id="claim-t-58428"></a>
-- t-003
+- t-002
   global_id: t-58428
   teiginys: "Arsos upelis šioje vietoje nežinomas ir tik spėjamas, kaip ir prie anksčiau minėtų Tamoviškių."
   pagrindžia:
     - c-59059
 
 <a id="claim-t-58429"></a>
-- t-001
+- t-003
   global_id: t-58429
   teiginys: "Kampsvykių pilis stovėjo prie Arsos upės, o Ordino broliai po puolimo ją sudegino iki pamatų."
   pagrindžia:

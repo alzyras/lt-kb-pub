@@ -39,14 +39,14 @@ Jakštas, J.
 ## Teiginiai
 
 <a id="claim-t-71515"></a>
-- t-004
+- t-001
   global_id: t-71515
   teiginys: "J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu."
   pagrindžia:
     - c-70086
 
 <a id="claim-t-71516"></a>
-- t-001
+- t-002
   global_id: t-71516
   teiginys: "J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“."
   pagrindžia:
@@ -60,14 +60,14 @@ Jakštas, J.
     - c-70085
 
 <a id="claim-t-71518"></a>
-- t-002
+- t-004
   global_id: t-71518
   teiginys: "J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius."
   pagrindžia:
     - c-70084
 
 <a id="claim-t-71519"></a>
-- t-006
+- t-005
   global_id: t-71519
   teiginys: "J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“."
   pagrindžia:

@@ -42,35 +42,35 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
 ## Teiginiai
 
 <a id="claim-t-174175"></a>
-- t-007
+- t-001
   global_id: t-174175
   teiginys: "Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios."
   pagrindžia:
     - c-158384
 
 <a id="claim-t-174176"></a>
-- t-008
+- t-002
   global_id: t-174176
   teiginys: "1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno."
   pagrindžia:
     - c-158390
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-003
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-174178"></a>
-- t-001
+- t-004
   global_id: t-174178
   teiginys: "Vietovė prie Vilijos ir Vilnios santakos Islandijos keliautojų pasakojimuose buvo žinoma jau XII amžiuje."
   pagrindžia:
     - c-158387
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-005
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
@@ -84,105 +84,105 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
     - c-158388
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-007
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-008
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-174183"></a>
-- t-002
+- t-009
   global_id: t-174183
   teiginys: "Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė."
   pagrindžia:
     - c-158391
 
 <a id="claim-t-174184"></a>
-- t-003
+- t-010
   global_id: t-174184
   teiginys: "Nuo tvirtovės prie Vilnios palei krantą pažemiais trobelės tęsėsi iki Vilijos."
   pagrindžia:
     - c-158385
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-011
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-174187"></a>
-- t-005
+- t-012
   global_id: t-174187
   teiginys: "Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną."
   pagrindžia:
     - c-158386
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-013
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-174181"></a>
-- t-006
+- t-014
   global_id: t-174181
   teiginys: "Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją."
   pagrindžia:
     - c-158388
 
 <a id="claim-t-188851"></a>
-- t-013
+- t-015
   global_id: t-188851
   teiginys: "Narbutas Vilnios vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus."
   pagrindžia:
     - c-171740
 
 <a id="claim-t-188852"></a>
-- t-014
+- t-016
   global_id: t-188852
   teiginys: "Narbutas Vilnią apibūdino kaip kadaise laivybai tikusią, sraunią, vingiuotą ir akmenuoto dugno upę, priešindamas ją giliai Vilijai."
   pagrindžia:
     - c-171741
 
 <a id="claim-t-188853"></a>
-- t-015
+- t-017
   global_id: t-188853
   teiginys: "Narbuto perteiktoje legendoje Gediminas nakvojo Šventaragio miške prie Vilnios ir Neries santakos, kur jam prisisapnavo geležinis vilkas."
   pagrindžia:
     - c-171742
 
 <a id="claim-t-188854"></a>
-- t-016
+- t-018
   global_id: t-188854
   teiginys: "Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
   pagrindžia:
     - c-171743
 
 <a id="claim-t-193431"></a>
-- t-017
+- t-019
   global_id: t-193431
   teiginys: "Kol jis pats gyveno Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs, tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen kėję, arba Poleksijoje), minia, kažin kieno sukursty ta, žiauriai su jais susidorojo."
   pagrindžia:
     - c-176153
 
 <a id="claim-t-193432"></a>
-- t-018
+- t-020
   global_id: t-193432
   teiginys: "Jis pakėlė J kovą visus narsiausius vyrus, surikiavo kautynių rikiuotę už pylimo, įvairiems būriams paskirs tė skirtingus uždavinius, o tada, nuolaidžiais Vilnios krantais slapta išvedęs kariuomenę, užpuolė vokiečių stovyklą."
   pagrindžia:
     - c-176154
 
 <a id="claim-t-194262"></a>
-- t-019
+- t-021
   global_id: t-194262
   teiginys: "Man atrodo, kad jei Lietuvo je buvo keletas tokių šventų vieto vių, tai Vilnius būtinai turėjo būti viena iš jų, o jeigu buvo tik ta vie nintelė, tad tikriausiai po to smūgio Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais iš Romainių buvo."
   pagrindžia:

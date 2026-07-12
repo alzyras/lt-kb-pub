@@ -48,182 +48,182 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 ## Teiginiai
 
 <a id="claim-t-181221"></a>
-- t-006
+- t-001
   global_id: t-181221
   teiginys: "1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus."
   pagrindžia:
     - c-164785
 
 <a id="claim-t-181212"></a>
-- t-029
+- t-002
   global_id: t-181212
   teiginys: "Brunonas išplaukė Vysla į jūrą ir priplaukė krantą Priegliaus žiotyse."
   pagrindžia:
     - c-164801
 
 <a id="claim-t-181213"></a>
-- t-023
+- t-003
   global_id: t-181213
   teiginys: "Didysis magistras slapta iš Marienburgo laivais išplaukė Vysla, o paskui per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-164784
 
 <a id="claim-t-181216"></a>
-- t-005
+- t-004
   global_id: t-181216
   teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
   pagrindžia:
     - c-164777
 
 <a id="claim-t-181217"></a>
-- t-019
+- t-005
   global_id: t-181217
   teiginys: "Didysis magistras slapčia iš Marienburgo išplaukė Vysla laivais, o paskui jūros įlanka įplaukė į Nemuną."
   pagrindžia:
     - c-164784
 
 <a id="claim-t-181216"></a>
-- t-005
+- t-006
   global_id: t-181216
   teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
   pagrindžia:
     - c-164777
 
 <a id="claim-t-181219"></a>
-- t-022
+- t-007
   global_id: t-181219
   teiginys: "Lietuvių tauta, pasak Balińskio, buvo užėmusi Baltijos pakrantę nuo Dvinos iki Vyslos."
   pagrindžia:
     - c-164787
 
 <a id="claim-t-181220"></a>
-- t-030
+- t-008
   global_id: t-181220
   teiginys: "Treniotos vadovaujami žemaičiai žygiuose Prūsuose pasiekdavo net Vyslą."
   pagrindžia:
     - c-164795
 
 <a id="claim-t-181221"></a>
-- t-006
+- t-009
   global_id: t-181221
   teiginys: "1231 m. Ordino magistras iš kairiojo Vyslos kranto persikėlė į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus."
   pagrindžia:
     - c-164785
 
 <a id="claim-t-181222"></a>
-- t-017
+- t-010
   global_id: t-181222
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   pagrindžia:
     - c-167263
 
 <a id="claim-t-181223"></a>
-- t-028
+- t-011
   global_id: t-181223
   teiginys: "Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus."
   pagrindžia:
     - c-164779
 
 <a id="claim-t-181224"></a>
-- t-027
+- t-012
   global_id: t-181224
   teiginys: "Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę."
   pagrindžia:
     - c-164792
 
 <a id="claim-t-181225"></a>
-- t-030
+- t-013
   global_id: t-181225
   teiginys: "Magistras ir Sventopelkas susitiko vienoje Vyslos saloje, bet po ilgų derybų išsiskyrė nesudarę taikos."
   pagrindžia:
     - c-164781
 
 <a id="claim-t-181227"></a>
-- t-002
+- t-014
   global_id: t-181227
   teiginys: "Rytprūsiuose, palei žemutinę Vyslą, jau yra žinomi upių krantų aukštumose įkurti kuopiniai kaimai (Haufendoerfer)."
   pagrindžia:
     - c-32569
 
 <a id="claim-t-181228"></a>
-- t-003
+- t-015
   global_id: t-181228
   teiginys: "Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą."
   pagrindžia:
     - c-164783
 
 <a id="claim-t-181229"></a>
-- t-010
+- t-016
   global_id: t-181229
   teiginys: "Svidrinės kultūros vardas siejamas su Svidrais prie Vyslos Lenkijoje."
   pagrindžia:
     - c-164782
 
 <a id="claim-t-181230"></a>
-- t-025
+- t-017
   global_id: t-181230
   teiginys: "Dusburgietis Prūsija vadino Kryžiuočių ordino užkariautą ir į Ordino valstybę patekusį plotą nuo Vyslos iki Nemuno."
   pagrindžia:
     - c-164797
 
 <a id="claim-t-181231"></a>
-- t-004
+- t-018
   global_id: t-181231
   teiginys: "Manydamas, kad Jogaila puls kairiajame Vyslos krante, didysis magistras pagrindines Ordino jėgas sutelkė prie Vyslos."
   pagrindžia:
     - c-164803
 
 <a id="claim-t-181233"></a>
-- t-024
+- t-019
   global_id: t-181233
   teiginys: "Kronikos įvade Vyslos žemupys nurodomas kaip viena Kryžiuočių ordino ekspansijos į baltų žemes ploto riba."
   pagrindžia:
     - c-164780
 
 <a id="claim-t-181234"></a>
-- t-029
+- t-020
   global_id: t-181234
   teiginys: "Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį."
   pagrindžia:
     - c-164778
 
 <a id="claim-t-181235"></a>
-- t-018
+- t-021
   global_id: t-181235
   teiginys: "Lietuvių tautos atšakos užėmė Baltijos pakrantę nuo Dvinos iki Vyslos."
   pagrindžia:
     - c-164787
 
 <a id="claim-t-181237"></a>
-- t-001
+- t-022
   global_id: t-181237
   teiginys: "Lietuvoje buvo nemažai svidrinės kultūros židinių; jos vardas siejamas su Svidrais prie Vyslos Lenkijoje."
   pagrindžia:
     - c-164782
 
 <a id="claim-t-181228"></a>
-- t-003
+- t-023
   global_id: t-181228
   teiginys: "Červinske prie Vyslos susijungusios lietuvių ir lenkų jėgos turėjo žygiuoti į Marienburgą."
   pagrindžia:
     - c-164783
 
 <a id="claim-t-181239"></a>
-- t-026
+- t-024
   global_id: t-181239
   teiginys: "Prūsijos žemės aprašyme Vysla minima kaip viena iš Prūsijos ribų."
   pagrindžia:
     - c-164786
 
 <a id="claim-t-181222"></a>
-- t-017
+- t-025
   global_id: t-181222
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   pagrindžia:
     - c-167263
 
 <a id="claim-t-185212"></a>
-- t-036
+- t-026
   global_id: t-185212
   teiginys: "Jogaila įsakė dvidešimt didelių laivų su grūdais plukdyti Vysla į Prūsijos pasienį, kad maistas vežimais pasiektų Lietuvą."
   pagrindžia:
@@ -237,35 +237,35 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
     - c-171761
 
 <a id="claim-t-192782"></a>
-- t-037
+- t-028
   global_id: t-192782
   teiginys: "Narbutas aiškino, kad gentys nesustojo tarp Vyslos aukštupio ir Bugo, o traukėsi kitapus Karpatų, veikiamos skitų baimės."
   pagrindžia:
     - c-175552
 
 <a id="claim-t-192783"></a>
-- t-038
+- t-029
   global_id: t-192783
   teiginys: "Narbutas pasakoja, kad po jotvingių pralaimėjimo belaisviai buvo pakrikštyti ir su gyvulių bandomis bei grobiu išvesti už Vyslos."
   pagrindžia:
     - c-175553
 
 <a id="claim-t-192784"></a>
-- t-039
+- t-030
   global_id: t-192784
   teiginys: "Narbutas rašė, kad potvyniai ir ilgalaikiai šiaurės vėjai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių."
   pagrindžia:
     - c-175554
 
 <a id="claim-t-192785"></a>
-- t-040
+- t-031
   global_id: t-192785
   teiginys: "Narbutas atmetė nuomonę, kad lietuvių tauta IV ar V a. susidarė Vyslos žemupyje kaip daugelio, ypač germanų, tautų lydinys."
   pagrindžia:
     - c-175555
 
 <a id="claim-t-192786"></a>
-- t-041
+- t-032
   global_id: t-192786
   teiginys: "Narbutas laikė neįtikėtina, kad vieninga lietuvių tauta būtų greitai pasklidusi nuo Vyslos iki Dauguvos ir nuo Baltijos iki Neries."
   pagrindžia:

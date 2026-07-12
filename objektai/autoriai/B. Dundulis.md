@@ -42,7 +42,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
 ## Teiginiai
 
 <a id="claim-t-71508"></a>
-- t-002
+- t-001
   global_id: t-71508
   teiginys: "B. Dundulis išsamiai tyrinėjo lietuvių santykius ir kovas su kryžiuočiais XV amžiuje."
   pagrindžia:
@@ -50,7 +50,7 @@ B. Dundulis minimas kaip istorikas, tyrinėjęs lietuvių santykius ir kovas su 
     - c-70077
 
 <a id="claim-t-71509"></a>
-- t-001
+- t-002
   global_id: t-71509
   teiginys: "B. Dundulis parašė straipsnį Lietuvos TSR istorijos pirmasis tomas."
   pagrindžia:

@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Teiginiai
 
 <a id="claim-t-60175"></a>
-- t-002
+- t-001
   global_id: t-60175
   teiginys: "Misinas su Sklunijos valsčiaus vyrais pagrobė Karaliaučiaus brolių arklius."
   pagrindžia:
     - c-60807
 
 <a id="claim-t-60176"></a>
-- t-001
+- t-002
   global_id: t-60176
   teiginys: "Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį."
   pagrindžia:

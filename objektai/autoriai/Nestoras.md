@@ -43,49 +43,49 @@ Narbutas rašė, kad Nestoras nusirašė pasakojimą apie Kijų, Ščeką ir Cho
     - c-174411
 
 <a id="claim-t-191531"></a>
-- t-003
+- t-002
   global_id: t-191531
   teiginys: "Narbutas Nestorą vadino pirmuoju jam žinomu originaliu istoriku, paminėjusiu Lietuvą 860 metais ar kiek vėliau."
   pagrindžia:
     - c-174413
 
 <a id="claim-t-191532"></a>
-- t-004
+- t-003
   global_id: t-191532
   teiginys: "Narbutas rašė, kad Nestoras išsaugojo nepilną aprašomos tautos gyvenimo paveikslą, įskaitant mirusiųjų deginimą ir urnas."
   pagrindžia:
     - c-174414
 
 <a id="claim-t-191533"></a>
-- t-005
+- t-004
   global_id: t-191533
   teiginys: "Nestoro pasakojime, kaip jį perteikia Narbutas, 859 metais variagai paskyrė kailių duoklę ir krivičiams."
   pagrindžia:
     - c-174415
 
 <a id="claim-t-191534"></a>
-- t-006
+- t-005
   global_id: t-191534
   teiginys: "Narbutas Nestorą vadino rusų istorijos tėvu ir rašė, kad jis užrašė tik sutrumpintas senų padavimų liekanas."
   pagrindžia:
     - c-174416
 
 <a id="claim-t-191535"></a>
-- t-007
+- t-006
   global_id: t-191535
   teiginys: "Iš Nestoro, per Karamziną, Narbutui buvo žinoma, kad Kijevo slėnis anksčiau buvo užlietas vandens, o Dnepras tekėjo kita kryptimi."
   pagrindžia:
     - c-174417
 
 <a id="claim-t-191897"></a>
-- t-008
+- t-007
   global_id: t-191897
   teiginys: "Narbutas nurodė, kad Abulfedas ir Nestoras jūrai vartojo pavadinimą „Wariazskoje More“."
   pagrindžia:
     - c-174779
 
 <a id="claim-t-194669"></a>
-- t-009
+- t-008
   global_id: t-194669
   teiginys: "Tikras krašto pavadinimas yra Kur-zeeme, lenkiškai Kuronska ziemia, vokiškai Kuhrland. Nestoras IX amžiuje jį va dina Korš, skaityti reikia Kurs; tai yra sutrumpintas nacionali nis pavadinimas."
   pagrindžia:

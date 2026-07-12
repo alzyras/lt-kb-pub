@@ -46,14 +46,14 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
 ## Teiginiai
 
 <a id="claim-t-186885"></a>
-- t-002
+- t-001
   global_id: t-186885
   teiginys: "Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių."
   pagrindžia:
     - c-170071
 
 <a id="claim-t-186886"></a>
-- t-001
+- t-002
   global_id: t-186886
   teiginys: "Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai."
   pagrindžia:

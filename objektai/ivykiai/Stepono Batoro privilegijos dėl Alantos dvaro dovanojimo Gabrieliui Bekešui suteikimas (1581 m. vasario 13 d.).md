@@ -62,14 +62,14 @@ Nenurodyta
     - c-82869
 
 <a id="claim-t-86890"></a>
-- t-003
+- t-002
   global_id: t-86890
   teiginys: "Stepono Batoro privilegija dėl Alantos dvaro dovanojimo buvo rašyta ir duota Varšuvoje 1581 m. vasario 13 d."
   pagrindžia:
     - c-82870
 
 <a id="claim-t-86891"></a>
-- t-002
+- t-003
   global_id: t-86891
   teiginys: "Stepono Batoro privilegija leido Gabrieliui Bekešui ir jo palikuonims naudotis suteiktomis valdomis kaip nuosava tėvonija."
   pagrindžia:

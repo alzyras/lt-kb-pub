@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - ivykis
-  - privilegija
   - reforma
+  - unija
 amziai:
   - 'XVI'
 media_total_count: '0'

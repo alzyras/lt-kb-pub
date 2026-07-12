@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+  - institucija
   - miestas
 amziai:
   - 'XX'
@@ -66,14 +67,14 @@ Nenurodyta
     - c-75891
 
 <a id="claim-t-78678"></a>
-- t-003
+- t-002
   global_id: t-78678
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima veikimo konstrukcija ir pigia gamyba."
   pagrindžia:
     - c-75893
 
 <a id="claim-t-78679"></a>
-- t-002
+- t-003
   global_id: t-78679
   teiginys: "Sovietų automatinis šautuvas AK-47 pasižymėjo paprasta priežiūra, patikima konstrukcija ir pigia gamyba."
   pagrindžia:

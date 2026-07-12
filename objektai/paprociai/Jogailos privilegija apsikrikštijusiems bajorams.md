@@ -8,7 +8,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - privilegija
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93029"></a>
-- t-005
+- t-001
   global_id: t-93029
   teiginys: "Iki Jogailos privilegijos bajorai dėl dvarų ir kraičių turėjo atsiklausti didžiojo kunigaikščio."
   pagrindžia:
     - c-88439
 
 <a id="claim-t-93030"></a>
-- t-003
+- t-002
   global_id: t-93030
   teiginys: "Apsikrikštijusiems bajorams suteikta pilna laisvė šeimos reikaluose, įskaitant dukterų išleidimą už vyro."
   pagrindžia:

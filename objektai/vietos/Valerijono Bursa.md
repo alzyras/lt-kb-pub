@@ -22,8 +22,8 @@ atnaujinta: ''
 tags:
   - dokumentas
   - mokslininkas
+  - teisinė-praktika
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

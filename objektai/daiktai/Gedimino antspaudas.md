@@ -76,7 +76,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-55378
 
 <a id="claim-t-81845"></a>
-- t-005
+- t-003
   global_id: t-81845
   teiginys: "Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį."
   pagrindžia:
@@ -90,7 +90,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     - c-78390
 
 <a id="claim-t-81847"></a>
-- t-003
+- t-005
   global_id: t-81847
   teiginys: "Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis."
   pagrindžia:

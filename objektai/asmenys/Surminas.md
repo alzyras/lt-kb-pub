@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - karalius
   - pilis
 amziai:
@@ -42,21 +43,21 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
 ## Teiginiai
 
 <a id="claim-t-60000"></a>
-- t-002
+- t-001
   global_id: t-60000
   teiginys: "Surminas paliko pilį ir prisiekė ateityje nelaukti, kol Ordino broliai užpuls kurią nors pilį."
   pagrindžia:
     - c-60634
 
 <a id="claim-t-60001"></a>
-- t-003
+- t-002
   global_id: t-60001
   teiginys: "Kolainių pilininkas Surminas sušaukė pilėnus tartis, kaip apgauti pro pilį laivais plaukusius Ordino brolius."
   pagrindžia:
     - c-60635
 
 <a id="claim-t-60002"></a>
-- t-001
+- t-003
   global_id: t-60002
   teiginys: "1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui."
   pagrindžia:
@@ -70,7 +71,7 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
     - c-60633
 
 <a id="claim-t-60002"></a>
-- t-001
+- t-005
   global_id: t-60002
   teiginys: "1290 m. Kolainių pilies vadas Surminas su 120 karingų vyrų priešinosi Meinhardo vadovaujamam pilies puolimui."
   pagrindžia:

@@ -39,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-77419"></a>
-- t-004
+- t-001
   global_id: t-77419
   teiginys: "Napoleono kariuomenės trečdalį sudarė Varšuvos kunigaikštystės pulkai."
   pagrindžia:
     - c-24543
 
 <a id="claim-t-77420"></a>
-- t-001
+- t-002
   global_id: t-77420
   teiginys: "1807 m. Europos žemėlapyje atsirado Varšuvos kunigaikštystė – pusiau nepriklausoma, Napoleono globojama valstybė, sudaryta iš Prūsijos anksčiau prisijungtų Lenkijos žemių ir Lietuvos Užnemunės."
   pagrindžia:
@@ -60,7 +60,7 @@ media_all_json: |-
     - c-74824
 
 <a id="claim-t-77422"></a>
-- t-002
+- t-004
   global_id: t-77422
   teiginys: "Vilniaus katedroje, dalyvaujant Varšuvos kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Lenkija, susigrąžinant LDK prarastas žemes."
   pagrindžia:

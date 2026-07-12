@@ -44,42 +44,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182878"></a>
-- t-008
+- t-001
   global_id: t-182878
   teiginys: "Vytautas į Čekiją su 5000-7000 vyrų nusiuntė Zigmantą Kaributaitį, ten vadintą Kaributu."
   pagrindžia:
     - c-166282
 
 <a id="claim-t-184326"></a>
-- t-009
+- t-002
   global_id: t-184326
   teiginys: "Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu."
   pagrindžia:
     - c-167697
 
 <a id="claim-t-184408"></a>
-- t-010
+- t-003
   global_id: t-184408
   teiginys: "Vytautas galėjo įsikišti į husitų reikalus Čekijoje, kurią Zigmantas siekė paveldėti po Vaclovo mirties 1419 m."
   pagrindžia:
     - c-167773
 
 <a id="claim-t-185214"></a>
-- t-011
+- t-004
   global_id: t-185214
   teiginys: "Mirus bevaikiam Čekijos karaliui Vladislovui, Kazimieras manė galėsiąs giminystės teisėmis paimti Čekiją sau arba sūnui."
   pagrindžia:
     - c-168575
 
 <a id="claim-t-192787"></a>
-- t-012
+- t-005
   global_id: t-192787
   teiginys: "Narbutas rašė, kad 1402 ir 1403 m. Čekijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai kartu su kumanais."
   pagrindžia:
     - c-175557
 
 <a id="claim-t-192788"></a>
-- t-013
+- t-006
   global_id: t-192788
   teiginys: "Narbutas nurodė, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
   pagrindžia:

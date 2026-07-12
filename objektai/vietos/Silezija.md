@@ -43,35 +43,35 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
 ## Teiginiai
 
 <a id="claim-t-95160"></a>
-- t-004
+- t-001
   global_id: t-95160
   teiginys: "Anų laikų Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos ir rusų miestų, su kuriais buvo prekiaujama nuo seno."
   pagrindžia:
     - c-90134
 
 <a id="claim-t-95161"></a>
-- t-009
+- t-002
   global_id: t-95161
   teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su prekėmis."
   pagrindžia:
     - c-90137
 
 <a id="claim-t-95162"></a>
-- t-005
+- t-003
   global_id: t-95162
   teiginys: "1432 m. Silezijos, ypač Vroclavo, gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis."
   pagrindžia:
     - c-90136
 
 <a id="claim-t-95163"></a>
-- t-012
+- t-004
   global_id: t-95163
   teiginys: "Silezijoje, ties Byčina, Maksimilijonas pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir atsisakė sosto."
   pagrindžia:
     - c-90135
 
 <a id="claim-t-95164"></a>
-- t-011
+- t-005
   global_id: t-95164
   teiginys: "Silezijos kunigaikščiai buvo tarp susirinkimo dalyvių kartu su Vokietijos pasiuntiniais ir Hanzos atstovais."
   pagrindžia:
@@ -85,42 +85,42 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
     - c-90138
 
 <a id="claim-t-95166"></a>
-- t-010
+- t-007
   global_id: t-95166
   teiginys: "Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykusiems į Sileziją."
   pagrindžia:
     - c-90138
 
 <a id="claim-t-95167"></a>
-- t-003
+- t-008
   global_id: t-95167
   teiginys: "Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus."
   pagrindžia:
     - c-90133
 
 <a id="claim-t-95168"></a>
-- t-007
+- t-009
   global_id: t-95168
   teiginys: "Į Vilnių atvykęs Žygimantas buvo Silezijos Glogovo kunigaikštis ir mirusio karaliaus brolis."
   pagrindžia:
     - c-90139
 
 <a id="claim-t-95169"></a>
-- t-008
+- t-010
   global_id: t-95169
   teiginys: "Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu."
   pagrindžia:
     - c-90133
 
 <a id="claim-t-185143"></a>
-- t-012
+- t-011
   global_id: t-185143
   teiginys: "Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo."
   pagrindžia:
     - c-168504
 
 <a id="claim-t-192760"></a>
-- t-013
+- t-012
   global_id: t-192760
   teiginys: "Narbutas minėjo Sileziją tarp vietų, kur randama pavienių gintaro gabalų."
   pagrindžia:

@@ -45,14 +45,14 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
     - c-36556
 
 <a id="claim-t-51191"></a>
-- t-003
+- t-002
   global_id: t-51191
   teiginys: "Vosylius, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su Lietuvos vasalais."
   pagrindžia:
     - c-36556
 
 <a id="claim-t-51192"></a>
-- t-002
+- t-003
   global_id: t-51192
   teiginys: "Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją."
   pagrindžia:

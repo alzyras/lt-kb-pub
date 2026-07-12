@@ -46,21 +46,21 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 ## Teiginiai
 
 <a id="claim-t-68858"></a>
-- t-005
+- t-001
   global_id: t-68858
   teiginys: "Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių."
   pagrindžia:
     - c-68335
 
 <a id="claim-t-68860"></a>
-- t-001
+- t-002
   global_id: t-68860
   teiginys: "Pabečiai buvo gyvenvietė šiaurės Semboje, į pietryčius nuo buvusių Naujųjų Kuršių."
   pagrindžia:
     - c-68336
 
 <a id="claim-t-68861"></a>
-- t-002
+- t-003
   global_id: t-68861
   teiginys: "Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių."
   pagrindžia:

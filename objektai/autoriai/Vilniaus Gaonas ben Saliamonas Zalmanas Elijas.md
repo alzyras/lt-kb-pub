@@ -44,63 +44,63 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 ## Teiginiai
 
 <a id="claim-t-75429"></a>
-- t-023
+- t-001
   global_id: t-75429
   teiginys: "Tai kartu paaiškina ir Vilniaus Gaono autoritetą."
   pagrindžia:
     - c-73219
 
 <a id="claim-t-75430"></a>
-- t-017
+- t-002
   global_id: t-75430
   teiginys: "Didžiausiu Vilniaus Gaono nuopelnu laikytas Babilono Talmudo redagavimas ir komentavimas."
   pagrindžia:
     - c-16805
 
 <a id="claim-t-75431"></a>
-- t-021
+- t-003
   global_id: t-75431
   teiginys: "Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   pagrindžia:
     - c-25419
 
 <a id="claim-t-75434"></a>
-- t-019
+- t-004
   global_id: t-75434
   teiginys: "Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   pagrindžia:
     - c-22205
 
 <a id="claim-t-75433"></a>
-- t-016
+- t-005
   global_id: t-75433
   teiginys: "Vilniaus Gaonas savo autoritetu ir pastangomis sustabdė chasidizmo plitimą Lietuvoje."
   pagrindžia:
     - c-22204
 
 <a id="claim-t-75434"></a>
-- t-019
+- t-006
   global_id: t-75434
   teiginys: "Vilnių išgarsino Vilniaus Gaonas ben Saliamonas Zalmanas Elijas, gyvenęs 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   pagrindžia:
     - c-22205
 
 <a id="claim-t-75435"></a>
-- t-015
+- t-007
   global_id: t-75435
   teiginys: "Vilniaus Gaonas inicijavo akcijas prieš chasidizmą, paskelbė chasidus eretikais ir sustabdė chasidizmo plitimą Lietuvoje."
   pagrindžia:
     - c-22204
 
 <a id="claim-t-75436"></a>
-- t-020
+- t-008
   global_id: t-75436
   teiginys: "Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba."
   pagrindžia:
     - c-73219
 
 <a id="claim-t-75437"></a>
-- t-018
+- t-009
   global_id: t-75437
   teiginys: "Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių."
   pagrindžia:

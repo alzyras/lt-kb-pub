@@ -43,14 +43,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179569"></a>
-- t-002
+- t-001
   global_id: t-179569
   teiginys: "Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu."
   pagrindžia:
     - c-34240
 
 <a id="claim-t-179570"></a>
-- t-001
+- t-002
   global_id: t-179570
   teiginys: "Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“)."
   pagrindžia:

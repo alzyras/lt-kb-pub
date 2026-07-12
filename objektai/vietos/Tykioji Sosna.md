@@ -36,7 +36,7 @@ Prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius. Tyk
     - c-170376
 
 <a id="claim-t-187362"></a>
-- t-001
+- t-002
   global_id: t-187362
   teiginys: "Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius."
   pagrindžia:

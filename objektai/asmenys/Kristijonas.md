@@ -45,49 +45,49 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 ## Teiginiai
 
 <a id="claim-t-93427"></a>
-- t-014
+- t-001
   global_id: t-93427
   teiginys: "Kristijonas pakrikštijo prie Vyslos gyvenusius prūsus ir 1215 m. į Romą nusivežė krikštyti du prūsų kunigaikščius."
   pagrindžia:
     - c-21837
 
 <a id="claim-t-93428"></a>
-- t-010
+- t-002
   global_id: t-93428
   teiginys: "Prūsijos vyskupas Kristijonas patarė kunigaikščiui Konradui burti Kristaus karių brolius savo žemei ginti."
   pagrindžia:
     - c-88793
 
 <a id="claim-t-93429"></a>
-- t-006
+- t-003
   global_id: t-93429
   teiginys: "Nuo 1216 m. Kristijonas, gavęs „Prūsų vyskupo“ titulą, kaip cistersų vienuolis taikiu būdu bandė krikštyti prūsus."
   pagrindžia:
     - c-04162
 
 <a id="claim-t-93430"></a>
-- t-007
+- t-004
   global_id: t-93430
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie Katalikų bažnyčios organizaciją."
   pagrindžia:
     - c-88794
 
 <a id="claim-t-93432"></a>
-- t-011
+- t-005
   global_id: t-93432
   teiginys: "1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų."
   pagrindžia:
     - c-88795
 
 <a id="claim-t-93433"></a>
-- t-005
+- t-006
   global_id: t-93433
   teiginys: "Mindaugo diecezijos vyskupas Kristijonas 1259 m. galutinai pasitraukė į Vokietiją, o jo įpėdiniai į lietuvių žemę nebegrįžo."
   pagrindžia:
     - c-04161
 
 <a id="claim-t-93436"></a>
-- t-009
+- t-007
   global_id: t-93436
   teiginys: "Prūsijos vyskupas Kristijonas buvo cistersų vienuolis, raginęs prūsus atsisakyti stabų ir garbinti Jėzų Kristų."
   pagrindžia:
@@ -101,7 +101,7 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-88796
 
 <a id="claim-t-183554"></a>
-- t-012
+- t-009
   global_id: t-183554
   teiginys: "Livonijos ordino brolis kunigas Kristijonas buvo Mindaugo pagalbininkas ir informavo jį apie popiežiaus santykius su Europos valdovais."
   pagrindžia:
@@ -129,35 +129,35 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
     - c-171459
 
 <a id="claim-t-190908"></a>
-- t-015
+- t-013
   global_id: t-190908
   teiginys: "Narbuto nuomone, senojoje prūsų vyskupo Kristijono kronikoje galėjo būti žinių apie sieros šaltinį prie Romovės."
   pagrindžia:
     - c-173790
 
 <a id="claim-t-190909"></a>
-- t-016
+- t-014
   global_id: t-190909
   teiginys: "Narbuto perteikiamas Hartknochas Kristijoną vadino pirmuoju Kulmo arba Prūsijos vyskupu ir dingusios kronikos autoriumi."
   pagrindžia:
     - c-173791
 
 <a id="claim-t-190910"></a>
-- t-017
+- t-015
   global_id: t-190910
   teiginys: "Narbutas Kristijono pasakojimą laikė tikrovišku, nes manė, kad Kristijonas neturėjo naujųjų amžių kelionių aprašymų pavyzdžių."
   pagrindžia:
     - c-173792
 
 <a id="claim-t-190912"></a>
-- t-019
+- t-016
   global_id: t-190912
   teiginys: "Narbutas vyskupo Kristijono žinias vertino kaip tiesos išlaikiusį liudijimą apie senąjį kraštą."
   pagrindžia:
     - c-173794
 
 <a id="claim-t-191959"></a>
-- t-020
+- t-017
   global_id: t-191959
   teiginys: "Narbutas rašė, kad Kulmo vyskupas Kristijonas XIII amžiaus pirmojoje pusėje teigė prūsų kildinimą iš gotų."
   pagrindžia:

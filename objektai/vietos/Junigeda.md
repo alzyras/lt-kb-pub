@@ -42,91 +42,91 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
 ## Teiginiai
 
 <a id="claim-t-90466"></a>
-- t-002
+- t-001
   global_id: t-90466
   teiginys: "Per Velykas lietuviai pastatė pilį Junigedos valsčiuje ir pavadino ją Junigedos vardu."
   pagrindžia:
     - c-86307
 
 <a id="claim-t-90467"></a>
-- t-008
+- t-002
   global_id: t-90467
   teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius."
   pagrindžia:
     - c-86305
 
 <a id="claim-t-90468"></a>
-- t-011
+- t-003
   global_id: t-90468
   teiginys: "1315 m. spalio 12 d. didysis magistras Karolis naktį nuplaukė prie Junigedos pilies ir sudegino jos papilį."
   pagrindžia:
     - c-86304
 
 <a id="claim-t-90469"></a>
-- t-006
+- t-004
   global_id: t-90469
   teiginys: "Per šv. Jokūbo dieną magistras Meinhardas užpuolė Junigedą ir Pieštvę ir sudegino abiejų pilių papilius."
   pagrindžia:
     - c-86306
 
 <a id="claim-t-90470"></a>
-- t-001
+- t-005
   global_id: t-90470
   teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas."
   pagrindžia:
     - c-86298
 
 <a id="claim-t-90471"></a>
-- t-005
+- t-006
   global_id: t-90471
   teiginys: "1293 m. magistras žiemą užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
   pagrindžia:
     - c-86297
 
 <a id="claim-t-90472"></a>
-- t-009
+- t-007
   global_id: t-90472
   teiginys: "1313 m. Ragainės komtūras Verneris pasistatydino karo laivą ir su juo plaukė pulti Junigedos pilies."
   pagrindžia:
     - c-86300
 
 <a id="claim-t-90473"></a>
-- t-007
+- t-008
   global_id: t-90473
   teiginys: "Po to broliai nuplaukė beveik iki Junigedos pilies."
   pagrindžia:
     - c-86302
 
 <a id="claim-t-90474"></a>
-- t-010
+- t-009
   global_id: t-90474
   teiginys: "1315 m. spalio 12 d. didysis magistras Karolis įsiveržė į Junigedos papilį, paėmė 78 žmones į nelaisvę ir jį sudegino."
   pagrindžia:
     - c-86304
 
 <a id="claim-t-90475"></a>
-- t-004
+- t-010
   global_id: t-90475
   teiginys: "Paaiškinimuose Junigedos, arba Veliuonos, pilis siejama su rytiniu Veliuonos piliakalniu, vadinamu Gedimino kapu."
   pagrindžia:
     - c-86307
 
 <a id="claim-t-90476"></a>
-- t-003
+- t-011
   global_id: t-90476
   teiginys: "Junigeda minima kaip valsčius ir pilis, vėlesnėse kronikose tapatinta su Veliuona."
   pagrindžia:
     - c-86307
 
 <a id="claim-t-90470"></a>
-- t-001
+- t-012
   global_id: t-90470
   teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas."
   pagrindžia:
     - c-86298
 
 <a id="claim-t-90471"></a>
-- t-005
+- t-013
   global_id: t-90471
   teiginys: "1293 m. magistras žiemą užpuolė Junigedos pilį ir sudegino du jos papilius: vieną ant kalno, kitą slėnyje."
   pagrindžia:

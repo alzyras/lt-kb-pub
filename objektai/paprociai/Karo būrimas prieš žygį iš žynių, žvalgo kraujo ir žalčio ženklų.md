@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67116"></a>
-- t-004
+- t-001
   global_id: t-67116
   teiginys: "Traukiant į karę žalčio pasirodymas kelyje buvo laikomas laimės ženklu."
   pagrindžia:
     - c-10005
 
 <a id="claim-t-67117"></a>
-- t-003
+- t-002
   global_id: t-67117
   teiginys: "Prieš pradėdami karą senovės kalnėnai ir žemaičiai pirmiausia klausdavo žynių apie būsimą laimę."
   pagrindžia:

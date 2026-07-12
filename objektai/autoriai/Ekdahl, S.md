@@ -34,14 +34,14 @@ Ekdahl, S.: Die Flucht der Litauer in der Schlacht bei Tannenberg, ZfO, 12, 1, 1
 ## Teiginiai
 
 <a id="claim-t-54114"></a>
-- t-002
+- t-001
   global_id: t-54114
   teiginys: "S. Ekdahlas 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje."
   pagrindžia:
     - c-55065
 
 <a id="claim-t-54115"></a>
-- t-001
+- t-002
   global_id: t-54115
   teiginys: "S. Ekdahl 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje."
   pagrindžia:

@@ -58,35 +58,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78691"></a>
-- t-004
+- t-001
   global_id: t-78691
   teiginys: "1920 m. spalio 10 d. „Gediminas“ grįžo į Kauną, kur buvo įrengti nauji kulkosvaidžių vagonai ir patobulinti mūšiuose naudoti vagonai."
   pagrindžia:
     - c-42596
 
 <a id="claim-t-78692"></a>
-- t-003
+- t-002
   global_id: t-78692
   teiginys: "Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų."
   pagrindžia:
     - c-75902
 
 <a id="claim-t-78693"></a>
-- t-005
+- t-003
   global_id: t-78693
   teiginys: "Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus."
   pagrindžia:
     - c-75903
 
 <a id="claim-t-78694"></a>
-- t-002
+- t-004
   global_id: t-78694
   teiginys: "Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius."
   pagrindžia:
     - c-42594
 
 <a id="claim-t-78695"></a>
-- t-001
+- t-005
   global_id: t-78695
   teiginys: "1920 m. sausį Kauno geležinkelio dirbtuvėse pradėtas statyti pirmasis Lietuvos kariuomenės šarvuotasis traukinys „Gediminas“."
   pagrindžia:

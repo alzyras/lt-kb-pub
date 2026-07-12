@@ -47,14 +47,14 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
 ## Teiginiai
 
 <a id="claim-t-195103"></a>
-- t-005
+- t-001
   global_id: t-195103
   teiginys: "Neris buvo siejama su žodžiu „Panerta“, nes žiūrint nuo aukštų kalnų atrodė tarsi panirusi."
   pagrindžia:
     - c-177498
 
 <a id="claim-t-195104"></a>
-- t-027
+- t-002
   global_id: t-195104
   teiginys: "Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje."
   pagrindžia:
@@ -64,49 +64,49 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177506
 
 <a id="claim-t-195105"></a>
-- t-001
+- t-003
   global_id: t-195105
   teiginys: "Prūsijos dokumentuose Neris XIII a. buvo vadinama Neria."
   pagrindžia:
     - c-177505
 
 <a id="claim-t-195106"></a>
-- t-017
+- t-004
   global_id: t-195106
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia."
   pagrindžia:
     - c-177493
 
 <a id="claim-t-195107"></a>
-- t-008
+- t-005
   global_id: t-195107
   teiginys: "Taip pat kunigas Sirvydas savo žodyne Vilijos upę, lotyniškai Vilia, lietuviškai vadina Nerimi (Neris)."
   pagrindžia:
     - c-177489
 
 <a id="claim-t-195108"></a>
-- t-007
+- t-006
   global_id: t-195108
   teiginys: "Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą."
   pagrindžia:
     - c-177503
 
 <a id="claim-t-195109"></a>
-- t-006
+- t-007
   global_id: t-195109
   teiginys: "Kronikininkai Vygandas ir Lindenblattas Nerį vadino vardais Nerga, Nerge, Nerye ir Neria."
   pagrindžia:
     - c-177498
 
 <a id="claim-t-195110"></a>
-- t-024
+- t-008
   global_id: t-195110
   teiginys: "Totorių vartų pavadinimas siejamas su vieta, kur slėnyje į Viliją įtekėjo Vingrių šaltinis."
   pagrindžia:
     - c-177502
 
 <a id="claim-t-195111"></a>
-- t-013
+- t-009
   global_id: t-195111
   teiginys: "Kryžiuočių archyve esančiame sename Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
   pagrindžia:
@@ -114,7 +114,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177492
 
 <a id="claim-t-195112"></a>
-- t-028
+- t-010
   global_id: t-195112
   teiginys: "Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe."
   pagrindžia:
@@ -123,28 +123,28 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177506
 
 <a id="claim-t-195113"></a>
-- t-023
+- t-011
   global_id: t-195113
   teiginys: "Latopisiec Litewski nurodo, kad mūšis vyko prie Vilijos upės, ties Horodoku, vietovėje, vadinamoje Weyiszczuszki."
   pagrindžia:
     - c-177506
 
 <a id="claim-t-195114"></a>
-- t-021
+- t-012
   global_id: t-195114
   teiginys: "Baliński teigė, kad Vilniaus vardas kilo nuo į Viliją įtekančios Vilnios, todėl pirmykštė gyvenvietė turėjo būti prie Vilnios."
   pagrindžia:
     - c-177488
 
 <a id="claim-t-195115"></a>
-- t-003
+- t-013
   global_id: t-195115
   teiginys: "Neris anksčiau vadinta ir Panerta, nes, žiūrint nuo aukštų kalnų, atrodė tarsi panirusi."
   pagrindžia:
     - c-177498
 
 <a id="claim-t-195116"></a>
-- t-030
+- t-014
   global_id: t-195116
   teiginys: "Iš Žemutinės pilies vakarinių vartų kelias ėjo per Vilnią ir Vingrių upokšnį link kelto per Viliją."
   pagrindžia:
@@ -154,7 +154,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177488
 
 <a id="claim-t-195117"></a>
-- t-026
+- t-015
   global_id: t-195117
   teiginys: "Artėjanti žiema grėsė Vilijos upėje stovėjusiems kryžiuočių laivams užkirsti kelią grįžti į Prūsiją."
   pagrindžia:
@@ -164,35 +164,35 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177488
 
 <a id="claim-t-195118"></a>
-- t-018
+- t-016
   global_id: t-195118
   teiginys: "Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi."
   pagrindžia:
     - c-177484
 
 <a id="claim-t-195119"></a>
-- t-009
+- t-017
   global_id: t-195119
   teiginys: "Gedimino pastatydinta mūro tvirtovė stovėjo ant kalno ties vieta, kur Vilnelė įteka į Viliją."
   pagrindžia:
     - c-177502
 
 <a id="claim-t-195120"></a>
-- t-014
+- t-018
   global_id: t-195120
   teiginys: "Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo."
   pagrindžia:
     - c-177498
 
 <a id="claim-t-195121"></a>
-- t-002
+- t-019
   global_id: t-195121
   teiginys: "Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti."
   pagrindžia:
     - c-37594
 
 <a id="claim-t-195122"></a>
-- t-031
+- t-020
   global_id: t-195122
   teiginys: "Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   pagrindžia:
@@ -201,21 +201,21 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177506
 
 <a id="claim-t-195123"></a>
-- t-015
+- t-021
   global_id: t-195123
   teiginys: "Vilija galėjo būti vadinama Nerimi arba Neria dėl gilios vagos ir aukštų smėlingų pakrančių."
   pagrindžia:
     - c-177493
 
 <a id="claim-t-195124"></a>
-- t-019
+- t-022
   global_id: t-195124
   teiginys: "Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla."
   pagrindžia:
     - c-177502
 
 <a id="claim-t-195125"></a>
-- t-029
+- t-023
   global_id: t-195125
   teiginys: "Dabartinio Antakalnio užuomazgos buvo trobos, išsidėsčiusios palei Viliją tarp Aukštutinės pilies ir Antakalnio šventyklos."
   pagrindžia:
@@ -224,7 +224,7 @@ Tradiciškai manoma, kad Lietuvos valstybės branduolys – Lietuvos žemė siau
     - c-177488
 
 <a id="claim-t-195126"></a>
-- t-004
+- t-024
   global_id: t-195126
   teiginys: "Neris arba Neria galėjo būti taip vadinama dėl gilios upės vagos ir aukštų smėlingų pakrančių."
   pagrindžia:

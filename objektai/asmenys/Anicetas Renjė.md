@@ -64,21 +64,21 @@ Anicetas Renjė buvo Vilniaus gydytojas ir visuomenės veikėjas, artimai susij�
 ## Teiginiai
 
 <a id="claim-t-187895"></a>
-- t-003
+- t-001
   global_id: t-187895
   teiginys: "Paaiškinime Anicetas Renjė pristatomas kaip Vilniaus gydytojas ir visuomenės veikėjas, ilgai susirašinėjęs su Teodoru Narbutu."
   pagrindžia:
     - c-170876
 
 <a id="claim-t-187896"></a>
-- t-001
+- t-002
   global_id: t-187896
   teiginys: "Anicetas Renjė ir Adomas Honorijus Kirkoras periodikoje bandė užtarti kritikuotą Teodorą Narbutą, girdami jo sumanymo mastą."
   pagrindžia:
     - c-170877
 
 <a id="claim-t-187897"></a>
-- t-002
+- t-003
   global_id: t-187897
   teiginys: "Medicinos daktaro Renjė 1839 m. gruodžio 15 d. laiškas iš Vilniaus Narbutui buvo nuoroda į Podčašinskio pastebėjimą."
   pagrindžia:

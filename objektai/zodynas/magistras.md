@@ -45,7 +45,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
     - c-159335
 
 <a id="claim-t-175181"></a>
-- t-001
+- t-002
   global_id: t-175181
   teiginys: "Po nesėkmingo Ordino žygio magistras buvo paskelbtas pamišėliu ir pašalintas iš pareigų."
   pagrindžia:
@@ -213,6 +213,7 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/zodynas/suma.md#claim-t-58926|suma]]: Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.
 - susijęs iš Malburgas: Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.
 - susijęs iš Pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.
+- susijęs iš [[objektai/zodynas/Filosofijos magistro laipsnis.md#claim-t-195613|Filosofijos magistro laipsnis]]: A. R. Niemi 1894 m. gavo fil. magistro laipsnį.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
@@ -802,6 +803,10 @@ Viso nepasisekimo kaltininkas, magistras, buvo paskelbtas pamišėliu ir pašali
 - susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42503|rezervas]]: Žalgirio mūšyje didysis magistras metė rezervą į kovą, kai mūšio sėkmė krypo ne jo naudai.
 - susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12606|vasalystė]]: Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.
 - susijęs iš [[objektai/zodynas/vasalystė.md#claim-t-12607|vasalystė]]: Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.
+- susijęs iš [[objektai/zodynas/Docentas.md#claim-t-195458|Docentas]]: 1899 m. A. R. Niemi buvo pakviestas Helsinkų universiteto suomių liaudies poezijos docentu.
+- susijęs iš [[objektai/zodynas/Filosofijos licenciato laipsnis.md#claim-t-195614|Filosofijos licenciato laipsnis]]: A. R. Niemi 1899 m. gavo fil. licenciato laipsnį.
+- susijęs iš [[objektai/zodynas/Ordinarinis profesorius.md#claim-t-195459|Ordinarinis profesorius]]: A. R. Niemi 1930 m. buvo paskirtas ordinariniu profesoriumi.
+- susijęs iš [[objektai/zodynas/ekstraordinarinis profesorius.md#claim-t-195643|ekstraordinarinis profesorius]]: A. R. Niemi 1913 m. buvo pakviestas ekstraordinariniu profesoriumi, bet nominacija užsitęsė iki 1918 m.
 ## Reikšmingi paminėjimai
 
 - c-001

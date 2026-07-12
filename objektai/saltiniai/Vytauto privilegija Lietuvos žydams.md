@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - saltinis
   - tauta
 amziai:
@@ -41,7 +40,7 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
 ## Teiginiai
 
 <a id="claim-t-88357"></a>
-- t-002
+- t-001
   global_id: t-88357
   teiginys: "Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje."
   pagrindžia:

@@ -41,77 +41,77 @@ Kitokio požiūrio į Lietuvos perspektyvas laikėsi iš etninės Lietuvos kilus
 ## Teiginiai
 
 <a id="claim-t-101665"></a>
-- t-005
+- t-001
   global_id: t-101665
   teiginys: "Pagal Juzefą Pilsudskį Vilnių turėjo užimti ne Lenkijos kariuomenė, o Liucjano Želigovskio daliniai."
   pagrindžia:
     - c-95124
 
 <a id="claim-t-101666"></a>
-- t-001
+- t-002
   global_id: t-101666
   teiginys: "Juzefas Pilsudskis rėmė buvusios dvilypės Lenkijos ir Lietuvos valstybės atkūrimą, įsivaizduodamas ją kaip federaciją."
   pagrindžia:
     - c-95123
 
 <a id="claim-t-101667"></a>
-- t-007
+- t-003
   global_id: t-101667
   teiginys: "Juzefas Pilsudskis pareiškė, kad jo politika yra iš esmės taiki ir kad jis nepuls Lietuvos, kurią laikė „tėvynine“ šalimi."
   pagrindžia:
     - c-95128
 
 <a id="claim-t-101669"></a>
-- t-010
+- t-004
   global_id: t-101669
   teiginys: "Juzefo Pilsudskio šalininkai rėmė ryžtingą kovą pirmiausia prieš Rusiją ir nevengė teroristinių veiksmų."
   pagrindžia:
     - c-95123
 
 <a id="claim-t-101670"></a>
-- t-003
+- t-005
   global_id: t-101670
   teiginys: "1919 m. Juzefo Pilsudskio šalininkai tarp lenkų siekė išlaikyti Lietuvą Lenkijos sudėtyje."
   pagrindžia:
     - c-21800
 
 <a id="claim-t-101671"></a>
-- t-004
+- t-006
   global_id: t-101671
   teiginys: "Juzefas Pilsudskis Vilniaus užėmimą motyvavo vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe."
   pagrindžia:
     - c-95127
 
 <a id="claim-t-101672"></a>
-- t-008
+- t-007
   global_id: t-101672
   teiginys: "Juzefo Pilsudskio grįžimas į valdžią po 1926 m. perversmo Lenkijoje skatino veikti Seimo valdymu nepatenkintas Lietuvos politines jėgas."
   pagrindžia:
     - c-95122
 
 <a id="claim-t-101676"></a>
-- t-009
+- t-008
   global_id: t-101676
   teiginys: "1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“."
   pagrindžia:
     - c-95131
 
 <a id="claim-t-101674"></a>
-- t-011
+- t-009
   global_id: t-101674
   teiginys: "Juzefas Pilsudskis, pokario Lenkijos vadovas, buvo kilęs iš Lietuvos dvarininkų ir vadino save lietuviu."
   pagrindžia:
     - c-95125
 
 <a id="claim-t-101675"></a>
-- t-006
+- t-010
   global_id: t-101675
   teiginys: "Ernestas Galvanauskas ketino Juzefą Pilsudskį sekti pavyzdžiu: pirmiausia sudaryti fait accompli padėtį, o tada derėtis."
   pagrindžia:
     - c-95126
 
 <a id="claim-t-101676"></a>
-- t-009
+- t-011
   global_id: t-101676
   teiginys: "1927 m. gruodžio 10 d. Ženevoje Juzefas Pilsudskis Augustinui Voldemarui uždavė klausimą „Karas ar taika?“."
   pagrindžia:

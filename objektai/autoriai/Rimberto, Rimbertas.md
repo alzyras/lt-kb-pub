@@ -34,7 +34,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 ## Teiginiai
 
 <a id="claim-t-30956"></a>
-- t-003
+- t-001
   global_id: t-30956
   teiginys: "Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi."
   pagrindžia:
@@ -48,7 +48,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
     - c-33125
 
 <a id="claim-t-30958"></a>
-- t-001
+- t-003
   global_id: t-30958
   teiginys: "Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai."
   pagrindžia:

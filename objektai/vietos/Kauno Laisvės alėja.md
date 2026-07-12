@@ -44,7 +44,7 @@ Protesto eisena Kauno Laisvės alėjoje Kaune 1972 m. gegužės 18 d. KGB numeri
     - c-95226
 
 <a id="claim-t-101813"></a>
-- t-001
+- t-002
   global_id: t-101813
   teiginys: "1972 m. gegužės 18 d. Kauno Laisvės alėjoje vyko protesto eisena, kurios lyderius KGB pažymėjo numeriais."
   pagrindžia:

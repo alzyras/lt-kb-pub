@@ -50,7 +50,7 @@ Dusburgietis teigia, kad 204 Romovė resp. Romuva (D. Dusburgietis teigia, kad i
     - c-59109
 
 <a id="claim-t-58476"></a>
-- t-002
+- t-004
   global_id: t-58476
   teiginys: "Ilgainiui įsivyravo nuomonė, kad Nadruvos Romovės, arba Romuvos, vieta apskritai nebeatsekama."
   pagrindžia:

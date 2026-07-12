@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66519"></a>
-- t-003
+- t-001
   global_id: t-66519
   teiginys: "Prūsai prie Pagansčių kaimo netikėtai užpuolė krikščionis iš dviejų pusių, nukovė dvylika brolių ir penkis šimtus vyrų."
   pagrindžia:
@@ -70,14 +70,14 @@ Nenurodyta
     - c-66731
 
 <a id="claim-t-66521"></a>
-- t-004
+- t-003
   global_id: t-66521
   teiginys: "Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas."
   pagrindžia:
     - c-66734
 
 <a id="claim-t-66522"></a>
-- t-001
+- t-004
   global_id: t-66522
   teiginys: "Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies."
   pagrindžia:

@@ -15,6 +15,7 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
   - valstybė
@@ -56,21 +57,21 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-100719
 
 <a id="claim-t-108563"></a>
-- t-008
+- t-003
   global_id: t-108563
   teiginys: "Lietuvos ir Lenkijos demarkacinė linija keliolikai metų uždarė traukinių ir pašto judėjimą tarp valstybių."
   pagrindžia:
     - c-100713
 
 <a id="claim-t-108564"></a>
-- t-007
+- t-004
   global_id: t-108564
   teiginys: "1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį."
   pagrindžia:
     - c-100717
 
 <a id="claim-t-108566"></a>
-- t-009
+- t-005
   global_id: t-108566
   teiginys: "Tautų Sąjungos Taryba ribą tarp Lietuvos ir Lenkijos pavadino administracine linija, bet ne siena."
   pagrindžia:

@@ -53,28 +53,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75121"></a>
-- t-004
+- t-001
   global_id: t-75121
   teiginys: "Prieš 1940 m. Liaudies seimo rinkimus valdžia liepos 11–12 d. suėmė kelis šimtus žinomų Lietuvos veikėjų."
   pagrindžia:
     - c-73037
 
 <a id="claim-t-75122"></a>
-- t-001
+- t-002
   global_id: t-75122
   teiginys: "Lietuvos aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus, o toks pat scenarijus taikytas Latvijoje ir Estijoje."
   pagrindžia:
     - c-73036
 
 <a id="claim-t-75123"></a>
-- t-002
+- t-003
   global_id: t-75123
   teiginys: "Per Liaudies seimo rinkimų agitaciją valdžia daug dėmesio skyrė Antano Smetonos režimo kritikai ir niekinimui."
   pagrindžia:
     - c-73035
 
 <a id="claim-t-75124"></a>
-- t-003
+- t-004
   global_id: t-75124
   teiginys: "Oficialiais duomenimis, 1940 m. liepos 14–15 d. rinkimuose į Liaudies seimą dalyvavo 95 proc. rinkėjų."
   pagrindžia:

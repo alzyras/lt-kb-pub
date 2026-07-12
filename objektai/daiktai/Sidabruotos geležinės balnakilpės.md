@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10161"></a>
-- t-002
+- t-001
   global_id: t-10161
   teiginys: "Šaltinio fragmentuose balnakilpės datuojamos XI-XIII a., o iliustracijos antraštėje – XI-XII a."
   pagrindžia:

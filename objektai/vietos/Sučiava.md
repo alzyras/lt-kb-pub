@@ -36,14 +36,14 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
 ## Teiginiai
 
 <a id="claim-t-187339"></a>
-- t-002
+- t-001
   global_id: t-187339
   teiginys: "Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė."
   pagrindžia:
     - c-170366
 
 <a id="claim-t-187340"></a>
-- t-006
+- t-002
   global_id: t-187340
   teiginys: "1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą."
   pagrindžia:
@@ -71,7 +71,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
     - c-170365
 
 <a id="claim-t-187344"></a>
-- t-001
+- t-006
   global_id: t-187344
   teiginys: "Olbrachtas pasitraukė nuo Sučiavos miesto."
   pagrindžia:

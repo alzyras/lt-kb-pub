@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
-  - privilegija
   - saltinis
 amziai:
   - 'XVII'

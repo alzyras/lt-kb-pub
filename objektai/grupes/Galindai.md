@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - grupe
   - upė
+  - šeima
 amziai:
   - 'XI'
   - 'XII'
@@ -40,7 +41,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
 ## Teiginiai
 
 <a id="claim-t-65156"></a>
-- t-003
+- t-001
   global_id: t-65156
   teiginys: "Dusburgiečio pasakojime galindų pagausėjo tiek, kad jų žemė nebegalėjo jų išmaitinti."
   pagrindžia:
@@ -54,7 +55,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
     - c-65626
 
 <a id="claim-t-183881"></a>
-- t-004
+- t-003
   global_id: t-183881
   teiginys: "Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui."
   pagrindžia:

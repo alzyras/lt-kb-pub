@@ -33,7 +33,7 @@ Mykolas Pacas: seime lenkai su karalium priversdavo ir Lietuvos ka- riuomenę at
 ## Teiginiai
 
 <a id="claim-t-79142"></a>
-- t-003
+- t-001
   global_id: t-79142
   teiginys: "Mykolas Pacas buvo vienas bajorų konfederacijos vadų, kovojusių prieš švedus ir jų sąjungininkus."
   pagrindžia:

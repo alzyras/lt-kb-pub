@@ -12,6 +12,8 @@ atnaujinta: ''
 tags:
   - ivykis
   - kunigas
+  - redaktorius
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

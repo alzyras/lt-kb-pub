@@ -14,6 +14,7 @@ tags:
   - asmuo
   - ginklas
   - pilis
+  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:

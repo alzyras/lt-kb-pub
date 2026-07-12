@@ -29,14 +29,14 @@ Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų l
 ## Teiginiai
 
 <a id="claim-t-42264"></a>
-- t-002
+- t-001
   global_id: t-42264
   teiginys: "9-ojo pulko batalionas turėjo iš Videniškio pulti Giedraičių kryptimi ir paremti 2-ojo pulko puolimą."
   pagrindžia:
     - c-45402
 
 <a id="claim-t-193787"></a>
-- t-003
+- t-002
   global_id: t-193787
   teiginys: "Lenkų pajėgos priartėjo prie Videniškio, Gelogalių ir judėjo Balnininkų link."
   pagrindžia:

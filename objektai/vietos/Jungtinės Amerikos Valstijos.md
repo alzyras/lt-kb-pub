@@ -13,6 +13,7 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - valstybė
   - vieta
 amziai:
@@ -39,14 +40,14 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
 ## Teiginiai
 
 <a id="claim-t-76352"></a>
-- t-006
+- t-001
   global_id: t-76352
   teiginys: "JAV prezidentas Džordžas Bušas Vilniuje pareiškė, kad Lietuvos priešai taptų ir Jungtinių Amerikos Valstijų priešais."
   pagrindžia:
     - c-73944
 
 <a id="claim-t-76353"></a>
-- t-001
+- t-002
   global_id: t-76353
   teiginys: "JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis."
   pagrindžia:

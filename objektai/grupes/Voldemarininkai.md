@@ -60,28 +60,28 @@ Politinė grupuotė.
 ## Teiginiai
 
 <a id="claim-t-45269"></a>
-- t-005
+- t-001
   global_id: t-45269
   teiginys: "Po Lenkijos ultimatumo ultraradikalieji voldemarininkai dėjosi prie krikščionių demokratų ir valstiečių liaudininkų opozicinių pasitarimų."
   pagrindžia:
     - c-26839
 
 <a id="claim-t-45270"></a>
-- t-007
+- t-002
   global_id: t-45270
   teiginys: "Priėmus Lenkijos ultimatumą ultraradikalieji voldemarininkai prisidėjo prie A. Smetonos valdymui opozicinių jėgų telkimosi."
   pagrindžia:
     - c-26839
 
 <a id="claim-t-45271"></a>
-- t-006
+- t-003
   global_id: t-45271
   teiginys: "Voldemarininkai kartu su Šaulių sąjunga ir jaunaisiais tautininkais kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių."
   pagrindžia:
     - c-26840
 
 <a id="claim-t-45272"></a>
-- t-008
+- t-004
   global_id: t-45272
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   pagrindžia:

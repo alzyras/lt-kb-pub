@@ -31,14 +31,14 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 ## Teiginiai
 
 <a id="claim-t-58861"></a>
-- t-002
+- t-001
   global_id: t-58861
   teiginys: "Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius."
   pagrindžia:
     - c-59493
 
 <a id="claim-t-184631"></a>
-- t-003
+- t-002
   global_id: t-184631
   teiginys: "Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais."
   pagrindžia:

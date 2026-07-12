@@ -45,154 +45,154 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 ## Teiginiai
 
 <a id="claim-t-05200"></a>
-- t-005
+- t-001
   global_id: t-05200
   teiginys: "Traidenis laikomas žymiausiu XIII a. Lietuvos valdovu po Mindaugo ir stipriu baltų žemių jungėju."
   pagrindžia:
     - c-04834
 
 <a id="claim-t-05201"></a>
-- t-006
+- t-002
   global_id: t-05201
   teiginys: "Traidenis buvo vedęs Mozurijos ir Kujavijos kunigaikščio Konrado I dukterį Liudmilą."
   pagrindžia:
     - c-04835
 
 <a id="claim-t-05202"></a>
-- t-007
+- t-003
   global_id: t-05202
   teiginys: "1279 m. Traidenio dukra Gaudimantė ištekėjo už Płocko Boleslovo II ir per krikštą gavo Sofijos vardą."
   pagrindžia:
     - c-04836
 
 <a id="claim-t-05203"></a>
-- t-008
+- t-004
   global_id: t-05203
   teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
   pagrindžia:
     - c-04837
 
 <a id="claim-t-90044"></a>
-- t-021
+- t-005
   global_id: t-90044
   teiginys: "Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę."
   pagrindžia:
     - c-85940
 
 <a id="claim-t-90046"></a>
-- t-022
+- t-006
   global_id: t-90046
   teiginys: "Traidenis 1269-1282 m., remdamas žiemgalius, telkė jėgas kovai Prūsijoje."
   pagrindžia:
     - c-85935
 
 <a id="claim-t-90047"></a>
-- t-019
+- t-007
   global_id: t-90047
   teiginys: "Kunigaikštis Traidenis buvo kunigaikščio Dovydo Dovydavičiaus sūnus."
   pagrindžia:
     - c-85934
 
 <a id="claim-t-90048"></a>
-- t-017
+- t-008
   global_id: t-90048
   teiginys: "Pirmasis iškilo Kernavės kunigaikštis Traidenis."
   pagrindžia:
     - c-85937
 
 <a id="claim-t-90050"></a>
-- t-017
+- t-009
   global_id: t-90050
   teiginys: "Kunigaikščiai Ziemovitas ir Traidenis įsiveržė į Dobrynės žemę."
   pagrindžia:
     - c-85940
 
 <a id="claim-t-90052"></a>
-- t-018
+- t-010
   global_id: t-90052
   teiginys: "1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje."
   pagrindžia:
     - c-42277
 
 <a id="claim-t-90055"></a>
-- t-023
+- t-011
   global_id: t-90055
   teiginys: "1281 m. Traidenis pasiuntė Nameisio vadovaujamą Lietuvos kariuomenę niokoti Ordino užnugario, siekdamas sulaikyti kryžiuočius nuo Sūduvos."
   pagrindžia:
     - c-85943
 
 <a id="claim-t-90056"></a>
-- t-013
+- t-012
   global_id: t-90056
   teiginys: "1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną."
   pagrindžia:
     - c-04834
 
 <a id="claim-t-90058"></a>
-- t-014
+- t-013
   global_id: t-90058
   teiginys: "Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose."
   pagrindžia:
     - c-04835
 
 <a id="claim-t-90059"></a>
-- t-018
+- t-014
   global_id: t-90059
   teiginys: "Traidenis buvo pirmasis XIII a. Lietuvos valdovas, miręs savo mirtimi."
   pagrindžia:
     - c-85937
 
 <a id="claim-t-184844"></a>
-- t-024
+- t-015
   global_id: t-184844
   teiginys: "Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas."
   pagrindžia:
     - c-168205
 
 <a id="claim-t-184845"></a>
-- t-025
+- t-016
   global_id: t-184845
   teiginys: "Traidenis, Giliginui dar esant gyvam, su trisdešimties tūkstančių kariuomene iš Lietuvos ir Prūsijos nusiaubė Mazoviją ir Kulmo žemę."
   pagrindžia:
     - c-168206
 
 <a id="claim-t-190990"></a>
-- t-026
+- t-017
   global_id: t-190990
   teiginys: "Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui."
   pagrindžia:
     - c-173872
 
 <a id="claim-t-190991"></a>
-- t-027
+- t-018
   global_id: t-190991
   teiginys: "Narbutas Traidenį vaizduoja kaip valdovą, rengusį plėšikiškus žygius į Lenkiją, Rusią ir Mazoviją bei tironiškai elgusįsi su valdiniais."
   pagrindžia:
     - c-173873
 
 <a id="claim-t-190992"></a>
-- t-028
+- t-019
   global_id: t-190992
   teiginys: "Narbutas Traidenio užpuolimus sieja su lenkų įniršiu, po kurio 1282 metais prie Narevo Lešeko Juodojo vadovaujami lenkai užklupo jotvingius."
   pagrindžia:
     - c-173874
 
 <a id="claim-t-193994"></a>
-- t-029
+- t-020
   global_id: t-193994
   teiginys: "Ir tapęs jų valdovu bei juos palenkęs, atidavė juos už duoklę savo broliui Traideniui u ."
   pagrindžia:
     - c-176619
 
 <a id="claim-t-193995"></a>
-- t-030
+- t-021
   global_id: t-193995
   teiginys: "O dėl aukščiau aprašytosios nesan- 6 4 laikos didysis kunigaikštis Daumantas pasiuntė šešis vyrus, kad jo brolį Traidenį nužudytų."
   pagrindžia:
     - c-176620
 
 <a id="claim-t-194241"></a>
-- t-031
+- t-022
   global_id: t-194241
   teiginys: "Ar ga lima būtų sutikti, tarkime, kad Traidenis, turėjęs lietuvišką vardą, buvo rusino Vido Dovydavičiaus sūnus, arba, kad Vytenis, lietuvis pagonis, - jo vaikaitis?"
   pagrindžia:

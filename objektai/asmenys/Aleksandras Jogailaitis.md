@@ -111,42 +111,42 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-55310
 
 <a id="claim-t-54940"></a>
-- t-007
+- t-006
   global_id: t-54940
   teiginys: "Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos."
   pagrindžia:
     - c-55311
 
 <a id="claim-t-54941"></a>
-- t-009
+- t-007
   global_id: t-54941
   teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros."
   pagrindžia:
     - c-78667
 
 <a id="claim-t-54942"></a>
-- t-010
+- t-008
   global_id: t-54942
   teiginys: "Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę."
   pagrindžia:
     - c-55313
 
 <a id="claim-t-82170"></a>
-- t-013
+- t-009
   global_id: t-82170
   teiginys: "Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui."
   pagrindžia:
     - c-78661
 
 <a id="claim-t-82171"></a>
-- t-020
+- t-010
   global_id: t-82171
   teiginys: "Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
   pagrindžia:
     - c-78657
 
 <a id="claim-t-82172"></a>
-- t-018
+- t-011
   global_id: t-82172
   teiginys: "Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų."
   pagrindžia:
@@ -160,21 +160,21 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78658
 
 <a id="claim-t-82174"></a>
-- t-023
+- t-013
   global_id: t-82174
   teiginys: "Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus."
   pagrindžia:
     - c-78670
 
 <a id="claim-t-82175"></a>
-- t-024
+- t-014
   global_id: t-82175
   teiginys: "Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui."
   pagrindžia:
     - c-78663
 
 <a id="claim-t-82176"></a>
-- t-022
+- t-015
   global_id: t-82176
   teiginys: "Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis."
   pagrindžia:
@@ -188,84 +188,84 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-78667
 
 <a id="claim-t-82178"></a>
-- t-019
+- t-017
   global_id: t-82178
   teiginys: "Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių."
   pagrindžia:
     - c-78669
 
 <a id="claim-t-82179"></a>
-- t-021
+- t-018
   global_id: t-82179
   teiginys: "Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu."
   pagrindžia:
     - c-78664
 
 <a id="claim-t-82180"></a>
-- t-017
+- t-019
   global_id: t-82180
   teiginys: "Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą."
   pagrindžia:
     - c-78666
 
 <a id="claim-t-82181"></a>
-- t-014
+- t-020
   global_id: t-82181
   teiginys: "Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai."
   pagrindžia:
     - c-78662
 
 <a id="claim-t-82182"></a>
-- t-015
+- t-021
   global_id: t-82182
   teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje."
   pagrindžia:
     - c-78665
 
 <a id="claim-t-82183"></a>
-- t-011
+- t-022
   global_id: t-82183
   teiginys: "Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija."
   pagrindžia:
     - c-78659
 
 <a id="claim-t-184657"></a>
-- t-025
+- t-023
   global_id: t-184657
   teiginys: "Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu."
   pagrindžia:
     - c-168018
 
 <a id="claim-t-184658"></a>
-- t-026
+- t-024
   global_id: t-184658
   teiginys: "Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių."
   pagrindžia:
     - c-168019
 
 <a id="claim-t-184659"></a>
-- t-027
+- t-025
   global_id: t-184659
   teiginys: "Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą."
   pagrindžia:
     - c-168020
 
 <a id="claim-t-184660"></a>
-- t-028
+- t-026
   global_id: t-184660
   teiginys: "Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose."
   pagrindžia:
     - c-168021
 
 <a id="claim-t-184661"></a>
-- t-029
+- t-027
   global_id: t-184661
   teiginys: "Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus."
   pagrindžia:
     - c-168022
 
 <a id="claim-t-184662"></a>
-- t-030
+- t-028
   global_id: t-184662
   teiginys: "Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba."
   pagrindžia:
@@ -279,35 +279,35 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - c-171400
 
 <a id="claim-t-190845"></a>
-- t-031
+- t-030
   global_id: t-190845
   teiginys: "Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija."
   pagrindžia:
     - c-173727
 
 <a id="claim-t-193886"></a>
-- t-032
+- t-031
   global_id: t-193886
   teiginys: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO BROLIO ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA SU MOLDAVUOS VAIVADA STEPONU Tą patį rudenį1 Lenkijos karaliaus Olbrachto ir jo brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto vai suvažiavo į pasitarimą2."
   pagrindžia:
     - c-176511
 
 <a id="claim-t-193887"></a>
-- t-033
+- t-032
   global_id: t-193887
   teiginys: "Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą."
   pagrindžia:
     - c-176512
 
 <a id="claim-t-193888"></a>
-- t-034
+- t-033
   global_id: t-193888
   teiginys: "Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje 1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus Albrechto dukters Elžbietos ketvirtasis sūnus."
   pagrindžia:
     - c-176513
 
 <a id="claim-t-193889"></a>
-- t-035
+- t-034
   global_id: t-193889
   teiginys: "Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų LDK žemių seimas Vilniuje, 1492.VII.18."
   pagrindžia:

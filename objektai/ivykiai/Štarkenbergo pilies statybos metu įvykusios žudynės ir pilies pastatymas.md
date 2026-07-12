@@ -48,28 +48,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89423"></a>
-- t-003
+- t-001
   global_id: t-89423
   teiginys: "Štarkenbergo pilies statybos metu prūsų kariuomenė netikėtai užpuolė ir išžudė magistro sušauktus darbininkus."
   pagrindžia:
     - c-85383
 
 <a id="claim-t-89424"></a>
-- t-001
+- t-002
   global_id: t-89424
   teiginys: "Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį."
   pagrindžia:
     - c-85383
 
 <a id="claim-t-89425"></a>
-- t-002
+- t-003
   global_id: t-89425
   teiginys: "Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių."
   pagrindžia:
     - c-85383
 
 <a id="claim-t-89424"></a>
-- t-001
+- t-004
   global_id: t-89424
   teiginys: "Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį."
   pagrindžia:

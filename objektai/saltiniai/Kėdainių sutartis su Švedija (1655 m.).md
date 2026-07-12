@@ -46,7 +46,7 @@ media_all_json: |-
     - c-95087
 
 <a id="claim-t-101549"></a>
-- t-001
+- t-002
   global_id: t-101549
   teiginys: "Lietuvos magnatai 1655 m. sudarė Kėdainių sutartį su Švedija, tačiau švedams Lietuvoje įsitvirtinti nepavyko."
   pagrindžia:

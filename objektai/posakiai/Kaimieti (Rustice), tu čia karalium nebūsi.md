@@ -33,14 +33,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09664"></a>
-- t-003
+- t-001
   global_id: t-09664
   teiginys: "Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą."
   pagrindžia:
     - c-12477
 
 <a id="claim-t-09664"></a>
-- t-003
+- t-002
   global_id: t-09664
   teiginys: "Karalius ištarė „Kaimieti (Rustice), tu čia karalium nebūsi“ ir liepė pilies kieme nukirsti pašnekovui galvą."
   pagrindžia:

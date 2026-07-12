@@ -14,6 +14,7 @@ tags:
   - ivykis
   - miestas
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

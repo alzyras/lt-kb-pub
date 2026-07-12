@@ -83,21 +83,21 @@ Nenurodyta
     - c-55723
 
 <a id="claim-t-172859"></a>
-- t-008
+- t-004
   global_id: t-172859
   teiginys: "Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia."
   pagrindžia:
     - c-157228
 
 <a id="claim-t-172862"></a>
-- t-004
+- t-005
   global_id: t-172862
   teiginys: "1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį."
   pagrindžia:
     - c-157226
 
 <a id="claim-t-172863"></a>
-- t-007
+- t-006
   global_id: t-172863
   teiginys: "Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė."
   pagrindžia:
@@ -133,6 +133,7 @@ Nenurodyta
 - susijęs iš Trakų apskritis: Narbutas mini, kad Trakų apskrityje, ponų Gorskių dvare, buvo Lelionių milžinkapis.
 - susijęs iš Žemaitija: Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai.
 - susijęs iš [[objektai/zodynas/deficitas talonai.md#claim-t-70104|deficitas talonai]]: Sovietmečio Lietuvoje trūko maisto produktų, butų, medicinos reikmenų ir vaistų, o baldams, indams ir televizoriams įsigyti reikėjo talonų.
+- susijęs iš [[objektai/asmenys/Leiba (kromininkas).md#claim-t-195268|Leiba (kromininkas)]]: Leiba nešiojo tik mastines prekes.
 ## Reikšmingi paminėjimai
 
 - c-001

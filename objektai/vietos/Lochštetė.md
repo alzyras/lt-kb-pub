@@ -40,7 +40,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
 ## Teiginiai
 
 <a id="claim-t-58319"></a>
-- t-005
+- t-001
   global_id: t-58319
   teiginys: "Lochštetė buvo Ordino pilis Sembos pietvakarių kyšulyje, į pietvakarius nuo Fišhauzeno."
   pagrindžia:
@@ -61,14 +61,14 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
     - c-58955
 
 <a id="claim-t-58323"></a>
-- t-001
+- t-004
   global_id: t-58323
   teiginys: "Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant."
   pagrindžia:
     - c-58956
 
 <a id="claim-t-58324"></a>
-- t-004
+- t-005
   global_id: t-58324
   teiginys: "Viklandsorto pilis vėliau buvo vadinama Lochštete pagal ten gyvenusio sembo Lauksteto vardą."
   pagrindžia:

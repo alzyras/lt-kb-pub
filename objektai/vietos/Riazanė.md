@@ -47,35 +47,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-99062"></a>
-- t-012
+- t-001
   global_id: t-99062
   teiginys: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką."
   pagrindžia:
     - c-37695
 
 <a id="claim-t-99064"></a>
-- t-011
+- t-002
   global_id: t-99064
   teiginys: "1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi."
   pagrindžia:
     - c-93193
 
 <a id="claim-t-99065"></a>
-- t-004
+- t-003
   global_id: t-99065
   teiginys: "Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
   pagrindžia:
     - c-32383
 
 <a id="claim-t-99066"></a>
-- t-008
+- t-004
   global_id: t-99066
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą."
   pagrindžia:
     - c-93189
 
 <a id="claim-t-99067"></a>
-- t-007
+- t-005
   global_id: t-99067
   teiginys: "Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką."
   pagrindžia:
@@ -89,42 +89,42 @@ media_all_json: |-
     - c-37694
 
 <a id="claim-t-99070"></a>
-- t-010
+- t-007
   global_id: t-99070
   teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
   pagrindžia:
     - c-93189
 
 <a id="claim-t-99072"></a>
-- t-009
+- t-008
   global_id: t-99072
   teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų."
   pagrindžia:
     - c-93193
 
 <a id="claim-t-99073"></a>
-- t-005
+- t-009
   global_id: t-99073
   teiginys: "Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles."
   pagrindžia:
     - c-32384
 
 <a id="claim-t-99074"></a>
-- t-013
+- t-010
   global_id: t-99074
   teiginys: "Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą."
   pagrindžia:
     - c-93192
 
 <a id="claim-t-183088"></a>
-- t-014
+- t-011
   global_id: t-183088
   teiginys: "Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė."
   pagrindžia:
     - c-166476
 
 <a id="claim-t-185123"></a>
-- t-015
+- t-012
   global_id: t-185123
   teiginys: "Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių."
   pagrindžia:

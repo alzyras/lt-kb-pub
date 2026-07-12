@@ -51,56 +51,56 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
 ## Teiginiai
 
 <a id="claim-t-169681"></a>
-- t-018
+- t-001
   global_id: t-169681
   teiginys: "1840 m. panaikinus Lietuvos Statutą ir surusinus teismus, buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu."
   pagrindžia:
     - c-154384
 
 <a id="claim-t-169682"></a>
-- t-003
+- t-002
   global_id: t-169682
   teiginys: "Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a."
   pagrindžia:
     - c-22547
 
 <a id="claim-t-169683"></a>
-- t-006
+- t-003
   global_id: t-169683
   teiginys: "Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“."
   pagrindžia:
     - c-154394
 
 <a id="claim-t-169684"></a>
-- t-012
+- t-004
   global_id: t-169684
   teiginys: "XVI a. Vytauto kultas Lietuvoje stiprėjo ieškant ideologinės atramos prieš Lenkijos hegemonijos planus."
   pagrindžia:
     - c-154393
 
 <a id="claim-t-169685"></a>
-- t-002
+- t-005
   global_id: t-169685
   teiginys: "Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje."
   pagrindžia:
     - c-154388
 
 <a id="claim-t-169686"></a>
-- t-014
+- t-006
   global_id: t-169686
   teiginys: "XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti."
   pagrindžia:
     - c-154389
 
 <a id="claim-t-169687"></a>
-- t-005
+- t-007
   global_id: t-169687
   teiginys: "Valdant Gediminui ir Algirdui Lietuvos Didžioji Kunigaikštija išsiplėtė ir tapo reikšminga Vidurio bei Rytų Europos jėga."
   pagrindžia:
     - c-154386
 
 <a id="claim-t-169689"></a>
-- t-015
+- t-008
   global_id: t-169689
   teiginys: "Edukacinės komisijos pertvarkyta valstybė buvo padalyta į Lenkijos ir Lietuvos švietimo provincijas, o šios – į apygardas."
   pagrindžia:
@@ -114,63 +114,63 @@ Taigi Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioj
     - c-154391
 
 <a id="claim-t-169691"></a>
-- t-008
+- t-010
   global_id: t-169691
   teiginys: "Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą."
   pagrindžia:
     - c-154396
 
 <a id="claim-t-169692"></a>
-- t-010
+- t-011
   global_id: t-169692
   teiginys: "1387 m. Lietuva priėmė katalikišką krikštą, o Žemaitija tapo paskutiniu Europoje apsikrikštijusiu regionu."
   pagrindžia:
     - c-154398
 
 <a id="claim-t-169693"></a>
-- t-007
+- t-012
   global_id: t-169693
   teiginys: "Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose."
   pagrindžia:
     - c-166539
 
 <a id="claim-t-169694"></a>
-- t-004
+- t-013
   global_id: t-169694
   teiginys: "Lietuvos Didžiosios Kunigaikštijos atsiradimą pagreitino vokiečių riterių agresija ir jų kolonijinių valstybių kūrimasis prie Baltijos."
   pagrindžia:
     - c-22547
 
 <a id="claim-t-169696"></a>
-- t-016
+- t-014
   global_id: t-169696
   teiginys: "Po antrojo Abiejų Tautų Respublikos padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės."
   pagrindžia:
     - c-154400
 
 <a id="claim-t-169697"></a>
-- t-011
+- t-015
   global_id: t-169697
   teiginys: "Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą."
   pagrindžia:
     - c-154387
 
 <a id="claim-t-169698"></a>
-- t-001
+- t-016
   global_id: t-169698
   teiginys: "Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Kunigaikštija."
   pagrindžia:
     - c-154399
 
 <a id="claim-t-169693"></a>
-- t-007
+- t-017
   global_id: t-169693
   teiginys: "Rusėnų kalba LDK raštinėje tapo alternatyva slavų bažnytinei tradicijai ir buvo vartota Lietuvos Metrikoje, metraščiuose ir Statutuose."
   pagrindžia:
     - c-166539
 
 <a id="claim-t-193550"></a>
-- t-020
+- t-018
   global_id: t-193550
   teiginys: "Nepaisant kultūrinių praradimų (nesuspėta suformuoti lietuviakalbio raštijos modelio), XVI a."
   pagrindžia:

@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - ordinas
   - vieta
+  - šeima
 amziai:
   - 'XIII'
   - 'XXI'
@@ -40,35 +41,35 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 ## Teiginiai
 
 <a id="claim-t-182567"></a>
-- t-004
+- t-001
   global_id: t-182567
   teiginys: "Prūsai vokiečiams priešinosi puldami ir degindami ordino pilis bei vokiečių kolonistų sodybas."
   pagrindžia:
     - c-166002
 
 <a id="claim-t-182568"></a>
-- t-005
+- t-002
   global_id: t-182568
   teiginys: "Ordinas visą nukariautą kraštą vadino Prūsais pagal vakarines aisčių gimines, pirmąsias jo pavergtas."
   pagrindžia:
     - c-166003
 
 <a id="claim-t-184318"></a>
-- t-019
+- t-003
   global_id: t-184318
   teiginys: "Prūsuose Vytautas išmoko vokiečių kalbos, kryžiuočių disciplinos, administracijos ir karo mokslų."
   pagrindžia:
     - c-167689
 
 <a id="claim-t-193268"></a>
-- t-020
+- t-004
   global_id: t-193268
   teiginys: "Kryžiuočių ordino atsikraustymas į Prūsus Prūsuose gyvenusios aisčių giminės anksčiau už kitas susidūrė su krikščioniškuoju pasauliu."
   pagrindžia:
     - c-175998
 
 <a id="claim-t-193269"></a>
-- t-021
+- t-005
   global_id: t-193269
   teiginys: "Visą savo nukariautą kraštą ordinas vadino Prūsais, nors prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau puldavo lenkus, o vėliau pirmosios buvo ordino pavergtos."
   pagrindžia:

@@ -56,28 +56,28 @@ Terminas žymi savitą LDK kavalerijos rūšį tarp husarų ir lengvesniųjų ra
 ## Teiginiai
 
 <a id="claim-t-49286"></a>
-- t-007
+- t-001
   global_id: t-49286
   teiginys: "J. P. Sapiegos husarų ir petihorų vėliavos atlaikė pagrindinį Švedijos kariuomenės smūgį prie lietuvių dešiniojo sparno."
   pagrindžia:
     - c-12591
 
 <a id="claim-t-49287"></a>
-- t-006
+- t-002
   global_id: t-49287
   teiginys: "Petihorai Lietuvos Didžiosios Kunigaikštijos kariuomenėje buvo kavalerijos rūšis, anksčiau naudojusi dzidas."
   pagrindžia:
     - c-51283
 
 <a id="claim-t-49288"></a>
-- t-004
+- t-003
   global_id: t-49288
   teiginys: "Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais."
   pagrindžia:
     - c-12590
 
 <a id="claim-t-49289"></a>
-- t-008
+- t-004
   global_id: t-49289
   teiginys: "Petihorai LDK kariuomenėje buvo kavalerijos rūšis, atsisakiusi dzidų ir ginkluote prilyginta šarvuočiams."
   pagrindžia:

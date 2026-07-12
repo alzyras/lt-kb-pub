@@ -37,7 +37,7 @@ Dusburgietis teigia, kad 466 Rutheni minimi ir kitose D. Dusburgietis teigia, ka
 ## Teiginiai
 
 <a id="claim-t-58831"></a>
-- t-003
+- t-001
   global_id: t-58831
   teiginys: "Istorijos šaltiniuose rutėnais dažnai vadinti Baltijos jūros pietinės pakrantės ir Riugeno salos gyventojai."
   pagrindžia:

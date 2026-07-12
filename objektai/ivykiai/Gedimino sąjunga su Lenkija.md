@@ -54,28 +54,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66537"></a>
-- t-005
+- t-001
   global_id: t-66537
   teiginys: "Ivinskis nurodo, kad 1325 m. taikos sutartis buvo sutvirtinta Kazimiero ir Gedimino dukters Aldonos vedybomis."
   pagrindžia:
     - c-66750
 
 <a id="claim-t-66538"></a>
-- t-004
+- t-002
   global_id: t-66538
   teiginys: "1326 m. Gediminas pasiuntė Lokietkai 1200 Dovydo vadovaujamų vyrų kovai prieš Brandenburgo markgrafą."
   pagrindžia:
     - c-04902
 
 <a id="claim-t-66540"></a>
-- t-005
+- t-003
   global_id: t-66540
   teiginys: "1325 m. Gediminas sudarė sąjungą su Vladislovu Lokietka ir ją sutvirtino išleisdamas dukterį Aldoną už Kazimiero Didžiojo."
   pagrindžia:
     - c-66751
 
 <a id="claim-t-66541"></a>
-- t-003
+- t-004
   global_id: t-66541
   teiginys: "1325 m. sutartis buvo pirmasis pastovesnis Lietuvos ir Lenkijos taikos sąlytis."
   pagrindžia:

@@ -39,7 +39,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-42112"></a>
-- t-003
+- t-001
   global_id: t-42112
   teiginys: "Uždegti branderiai davė lietuviams signalą pradėti Salacgryvos uosto puolimą iš sausumos."
   pagrindžia:
@@ -53,7 +53,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-45315
 
 <a id="claim-t-42114"></a>
-- t-001
+- t-003
   global_id: t-42114
   teiginys: "Jonas Karolis Chodkevičius prie Salacgryvos žygiavo tiesiai per miškus, siekdamas užklupti priešą nepasiruošusį."
   pagrindžia:

@@ -45,42 +45,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186633"></a>
-- t-004
+- t-001
   global_id: t-186633
   teiginys: "Lietuvos metraščio pasakojime Kazimieras, pats vadovaudamas Lietuvos pajėgoms, atsiėmė Smolenską."
   pagrindžia:
     - c-169907
 
 <a id="claim-t-186634"></a>
-- t-001
+- t-002
   global_id: t-186634
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai su kariuomene tris savaites stovėjo prie Smolensko, bet miesto neįveikė."
   pagrindžia:
     - c-169906
 
 <a id="claim-t-186635"></a>
-- t-002
+- t-003
   global_id: t-186635
   teiginys: "Lietuvos metraščio pasakojime Kazimiero Tarybos ponai prie Smolensko neįveikė miesto, sudegino priemiesčius bei vienuolynus ir išsivedė belaisvių."
   pagrindžia:
     - c-169906
 
 <a id="claim-t-186636"></a>
-- t-005
+- t-004
   global_id: t-186636
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį atsiėmė Smolenską, o Jurgis Lengvenaitis pabėgo į Didįjį Naugardą."
   pagrindžia:
     - c-169907
 
 <a id="claim-t-186637"></a>
-- t-006
+- t-005
   global_id: t-186637
   teiginys: "Lietuvos metraščio pasakojime Kazimieras vėl perdavė Smolensko valdymą Andriui Sakavičiui ir išvyko į Vilnių."
   pagrindžia:
     - c-169907
 
 <a id="claim-t-186638"></a>
-- t-003
+- t-006
   global_id: t-186638
   teiginys: "Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė."
   pagrindžia:

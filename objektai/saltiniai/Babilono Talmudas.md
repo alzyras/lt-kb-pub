@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - saltinis
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
 ## Teiginiai
 
 <a id="claim-t-78116"></a>
-- t-002
+- t-001
   global_id: t-78116
   teiginys: "Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus."
   pagrindžia:
     - c-75424
 
 <a id="claim-t-78117"></a>
-- t-001
+- t-002
   global_id: t-78117
   teiginys: "Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas."
   pagrindžia:

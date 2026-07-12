@@ -45,7 +45,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
     - c-59206
 
 <a id="claim-t-58574"></a>
-- t-001
+- t-003
   global_id: t-58574
   teiginys: "Kryžiuočių ordino broliai įsiveržė į Kimelio pilį, išžudė jos gyventojus ir sudegino pilį iki pamatų."
   pagrindžia:

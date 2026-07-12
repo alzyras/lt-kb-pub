@@ -43,35 +43,35 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 <a id="claim-t-58337"></a>
-- t-005
+- t-001
   global_id: t-58337
   teiginys: "Bartos šiaurinė dalis aprėpė Girdavų, dabartinio Železnodorožno, apylinkes."
   pagrindžia:
     - c-58970
 
 <a id="claim-t-58338"></a>
-- t-003
+- t-002
   global_id: t-58338
   teiginys: "Šaltiniuose skyrium nuo Prūsų minima ir Barta (ПСРЛ, т."
   pagrindžia:
     - c-58972
 
 <a id="claim-t-58339"></a>
-- t-001
+- t-003
   global_id: t-58339
   teiginys: "Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-58969
 
 <a id="claim-t-58340"></a>
-- t-002
+- t-004
   global_id: t-58340
   teiginys: "1358 m. Lietuvos vyriausybė reikalavo grąžinti kryžiuočių užgrobtą Bartą ir kitas žemes."
   pagrindžia:
     - c-58973
 
 <a id="claim-t-58341"></a>
-- t-004
+- t-005
   global_id: t-58341
   teiginys: "1251 m. dokumente Barta minima kaip Didžioji ir Mažoji Barta, kurioje gyveno bartai arba bartėnai."
   pagrindžia:

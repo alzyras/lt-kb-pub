@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - posakis
   - tauta
 media_total_count: '0'
@@ -30,7 +31,7 @@ Prasidėjo oficialios kalbos apie „tarybinės liaudies formavimasį“, „vie
 ## Teiginiai
 
 <a id="claim-t-183509"></a>
-- t-002
+- t-001
   global_id: t-183509
   teiginys: "Oficialios kalbos apie „tarybinių tautų suartėjimą ir susiliejimą“ rodė ideologiškai unifikuotos ir rusiškai kalbančios sovietinės nacijos formavimo kryptį."
   pagrindžia:

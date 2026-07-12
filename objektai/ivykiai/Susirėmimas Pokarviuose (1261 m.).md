@@ -61,14 +61,14 @@ Nenurodyta
     - c-59883
 
 <a id="claim-t-59251"></a>
-- t-003
+- t-002
   global_id: t-59251
   teiginys: "Po susirėmimo Pokarviuose notangai belaisvį Hirtshalsą burtų keliu paskyrė aukai ir sudegino pririštą ant jo žirgo."
   pagrindžia:
     - c-59882
 
 <a id="claim-t-183964"></a>
-- t-004
+- t-003
   global_id: t-183964
   teiginys: "Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį."
   pagrindžia:

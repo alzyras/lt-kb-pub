@@ -43,21 +43,21 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
 ## Teiginiai
 
 <a id="claim-t-79713"></a>
-- t-005
+- t-001
   global_id: t-79713
   teiginys: "Zigmantą Sierakauską, ginklų ir savanorių iš Londono."
   pagrindžia:
     - c-76660
 
 <a id="claim-t-79716"></a>
-- t-001
+- t-002
   global_id: t-79716
   teiginys: "Nuo 1990 m. dalis iš Lietuvos išvykusių daugiau kaip pusės milijono gyventojų emigravo į Jungtinę Karalystę, įskaitant Londoną."
   pagrindžia:
     - c-24267
 
 <a id="claim-t-79717"></a>
-- t-002
+- t-003
   global_id: t-79717
   teiginys: "1935 m. Londone gimė Antanas Kazimeras Žemaitis, sukūręs roko pasaulyje bendrine sąvoka tapusią gitarą „Zemaitis“."
   pagrindžia:
@@ -71,7 +71,7 @@ Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus nauj�
     - c-171658
 
 <a id="claim-t-193646"></a>
-- t-006
+- t-005
   global_id: t-193646
   teiginys: "Voldemarui 1928 m. gegužę lankantis Londone, kaip tik tuo metu paskelbus naują Lietuvos konstituciją, kuri deklaravo Vilnių Lietuvos sostine."
   pagrindžia:

@@ -37,7 +37,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 ## Teiginiai
 
 <a id="claim-t-64830"></a>
-- t-003
+- t-001
   global_id: t-64830
   teiginys: "R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu."
   pagrindžia:
@@ -51,7 +51,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     - c-65424
 
 <a id="claim-t-64832"></a>
-- t-001
+- t-003
   global_id: t-64832
   teiginys: "R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais."
   pagrindžia:

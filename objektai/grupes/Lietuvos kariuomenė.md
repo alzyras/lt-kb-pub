@@ -45,77 +45,77 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
 ## Teiginiai
 
 <a id="claim-t-182738"></a>
-- t-229
+- t-001
   global_id: t-182738
   teiginys: "Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
   pagrindžia:
     - c-166157
 
 <a id="claim-t-182741"></a>
-- t-232
+- t-002
   global_id: t-182741
   teiginys: "Karolis Chodkevičius išvedė Lietuvos kariuomenę į mūšio lauką, kai priešo kariai jau buvo išsirikiavę."
   pagrindžia:
     - c-42824
 
 <a id="claim-t-182742"></a>
-- t-230
+- t-003
   global_id: t-182742
   teiginys: "Visuotinio šaukimo metu didesniąją Lietuvos kariuomenės dalį sudarydavo iš pavietų į savo vėliavas susirinkę bajorai."
   pagrindžia:
     - c-12742
 
 <a id="claim-t-182743"></a>
-- t-231
+- t-004
   global_id: t-182743
   teiginys: "Kristupas Radvila Perkūnas 1589–1603 m. vadovavo Lietuvos kariuomenei kaip LDK kariuomenės didysis etmonas."
   pagrindžia:
     - c-42823
 
 <a id="claim-t-183157"></a>
-- t-233
+- t-005
   global_id: t-183157
   teiginys: "1605 m. Lietuvos kariuomenė Salaspilio mūšyje pasiekė didelę pergalę prieš švedus."
   pagrindžia:
     - c-166542
 
 <a id="claim-t-183158"></a>
-- t-234
+- t-006
   global_id: t-183158
   teiginys: "1605 m. prie Kirchholmo Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
   pagrindžia:
     - c-166543
 
 <a id="claim-t-183160"></a>
-- t-236
+- t-007
   global_id: t-183160
   teiginys: "Kadriniai Lietuvos kariuomenės karininkai nenoriai rašėsi į Klaipėdos žygį, nes nelaikė jo kova už tėvynę."
   pagrindžia:
     - c-166545
 
 <a id="claim-t-183161"></a>
-- t-237
+- t-008
   global_id: t-183161
   teiginys: "1939 m. rugsėjo 17 d. Lietuvos prezidentui paskelbus dalinę mobilizaciją, Lietuvos kariuomenė padidėjo nuo 24 000 iki 89 470 vyrų."
   pagrindžia:
     - c-166546
 
 <a id="claim-t-183162"></a>
-- t-238
+- t-009
   global_id: t-183162
   teiginys: "Liepos 3 d. priimtu pertvarkymo įstatymu Lietuvos kariuomenė paversta Liaudies kariuomene."
   pagrindžia:
     - c-166547
 
 <a id="claim-t-184332"></a>
-- t-239
+- t-010
   global_id: t-184332
   teiginys: "Vytauto vadovaujami Lietuvos pulkai, kurie paskui save buvo patraukę eilę priešo vėliavų, sugrįžo į kovos lauką."
   pagrindžia:
     - c-167702
 
 <a id="claim-t-184333"></a>
-- t-240
+- t-011
   global_id: t-184333
   teiginys: "Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos."
   pagrindžia:
@@ -136,14 +136,14 @@ Lietuvos kariuomenė minima kaip Napoleono laikotarpiu pradėta formuoti jėga, 
     - c-170664
 
 <a id="claim-t-193552"></a>
-- t-241
+- t-014
   global_id: t-193552
   teiginys: "Kovose gimę Lietuvos kariuomenės savanorių pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones, tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes."
   pagrindžia:
     - c-176232
 
 <a id="claim-t-193837"></a>
-- t-242
+- t-015
   global_id: t-193837
   teiginys: "Paskui Lietuvos kariuomenė pasidarė abipus Raudonojo tvenkinio užtvankos du perėjimus per upę."
   pagrindžia:

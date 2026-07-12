@@ -38,7 +38,7 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
 ## Teiginiai
 
 <a id="claim-t-88136"></a>
-- t-003
+- t-001
   global_id: t-88136
   teiginys: "Valerijono Bursos raštas buvo surašytas steigėjo ranka, patvirtintas jo antspaudu ir perduotas saugoti rektoriui."
   pagrindžia:
@@ -52,7 +52,7 @@ Karalius ŽYGIMANTAS 411 ## Puslapis 428 VILNIAUS MIESTO ISTORIJA II TOMAS VALER
     - c-84117
 
 <a id="claim-t-88138"></a>
-- t-001
+- t-003
   global_id: t-88138
   teiginys: "Valerijono Bursos pastatymo ir aprūpinimo raštas datuojamas 1579 m. ir pradėtas Vilniaus vyskupo Valerijono vardu."
   pagrindžia:

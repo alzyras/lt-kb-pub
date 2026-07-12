@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186661"></a>
-- t-003
+- t-001
   global_id: t-186661
   teiginys: "Lietuvos metraštis pasakoja, kad tuo metu stepėje, dvylika mylių nuo Braclavo, lietuviai sumušė kelis šimtus totorių."
   pagrindžia:
@@ -69,7 +69,7 @@ Nenurodyta
     - c-169917
 
 <a id="claim-t-186663"></a>
-- t-001
+- t-003
   global_id: t-186663
   teiginys: "Lietuvos metraštis Aleksandrą vadina didžiuoju kunigaikščiu ir pasakoja, kad jis nemažai laiko praleido Braclave bei atstatė miestą."
   pagrindžia:

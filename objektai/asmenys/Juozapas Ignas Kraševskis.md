@@ -35,21 +35,21 @@ Jis nebuvo toks puikus stilistas, kaip Juozapas Ignas Kraševskis, kuris be­ ve
 ## Teiginiai
 
 <a id="claim-t-87432"></a>
-- t-003
+- t-001
   global_id: t-87432
   teiginys: "Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius."
   pagrindžia:
     - c-83411
 
 <a id="claim-t-87433"></a>
-- t-001
+- t-002
   global_id: t-87433
   teiginys: "Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją."
   pagrindžia:
     - c-83413
 
 <a id="claim-t-87434"></a>
-- t-002
+- t-003
   global_id: t-87434
   teiginys: "Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi."
   pagrindžia:

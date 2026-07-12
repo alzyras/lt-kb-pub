@@ -40,14 +40,14 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
 ## Teiginiai
 
 <a id="claim-t-89675"></a>
-- t-003
+- t-001
   global_id: t-89675
   teiginys: "Mozūrų kunigaikštis Boleslovas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
   pagrindžia:
     - c-85616
 
 <a id="claim-t-89676"></a>
-- t-003
+- t-002
   global_id: t-89676
   teiginys: "Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes."
   pagrindžia:

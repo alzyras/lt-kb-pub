@@ -42,35 +42,35 @@ Dusburgietis teigia, kad ligi pat dykrų juos persekiojo su daugybe brolių bei 
 ## Teiginiai
 
 <a id="claim-t-60043"></a>
-- t-003
+- t-001
   global_id: t-60043
   teiginys: "Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę."
   pagrindžia:
     - c-60675
 
 <a id="claim-t-60044"></a>
-- t-001
+- t-002
   global_id: t-60044
   teiginys: "Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis."
   pagrindžia:
     - c-167489
 
 <a id="claim-t-60045"></a>
-- t-002
+- t-003
   global_id: t-60045
   teiginys: "Konradas Žakas buvo šešioliktas Prūsijos magistras ir vadovavo šešerius metus."
   pagrindžia:
     - c-60677
 
 <a id="claim-t-60044"></a>
-- t-001
+- t-004
   global_id: t-60044
   teiginys: "Konradas Žakas, Kulmo krašto komtūras, 1298 m. pavijo Lietuvos vyrus ir išvadavo į nelaisvę paimtus krikščionis."
   pagrindžia:
     - c-167489
 
 <a id="claim-t-60043"></a>
-- t-003
+- t-005
   global_id: t-60043
   teiginys: "Konradas Žakas 1303 m. žiemą su didžiule kariuomene įsiveržė į Karšuvos žemę."
   pagrindžia:

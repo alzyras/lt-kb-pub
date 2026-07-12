@@ -57,14 +57,14 @@ Narbutas Gerimantą mini per kronikinį ir metraštinį pasakojimą apie Vilniau
 ## Teiginiai
 
 <a id="claim-t-187907"></a>
-- t-002
+- t-001
   global_id: t-187907
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio pasakojimą, kad Gerimantas sumanė statyti šventyklą, o Šventaragis 1263 m. klausė orakulo dėl jos ateities."
   pagrindžia:
     - c-170889
 
 <a id="claim-t-188535"></a>
-- t-003
+- t-002
   global_id: t-188535
   teiginys: "Narbutas perteikia Mitrofano Pinskiečio metraščio žinią, kad Gerimantui sumanius statyti šventyklą Šventaragis siuntė pasiuntinius pas Nemuno orakulą."
   pagrindžia:

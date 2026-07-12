@@ -37,14 +37,14 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 ## Teiginiai
 
 <a id="claim-t-36197"></a>
-- t-002
+- t-001
   global_id: t-36197
   teiginys: "Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje."
   pagrindžia:
     - c-38474
 
 <a id="claim-t-36198"></a>
-- t-001
+- t-002
   global_id: t-36198
   teiginys: "Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos."
   pagrindžia:

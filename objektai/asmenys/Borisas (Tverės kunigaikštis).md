@@ -42,14 +42,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87596"></a>
-- t-002
+- t-001
   global_id: t-87596
   teiginys: "Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas."
   pagrindžia:
     - c-83575
 
 <a id="claim-t-87597"></a>
-- t-001
+- t-002
   global_id: t-87597
   teiginys: "1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais."
   pagrindžia:

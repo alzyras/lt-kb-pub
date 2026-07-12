@@ -42,35 +42,35 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 ## Teiginiai
 
 <a id="claim-t-86689"></a>
-- t-003
+- t-001
   global_id: t-86689
   teiginys: "Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį."
   pagrindžia:
     - c-82668
 
 <a id="claim-t-86690"></a>
-- t-007
+- t-002
   global_id: t-86690
   teiginys: "Vilniaus gyventojai teigė, kad gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų."
   pagrindžia:
     - c-82674
 
 <a id="claim-t-86691"></a>
-- t-005
+- t-003
   global_id: t-86691
   teiginys: "Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą."
   pagrindžia:
     - c-82670
 
 <a id="claim-t-86692"></a>
-- t-002
+- t-004
   global_id: t-86692
   teiginys: "Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu."
   pagrindžia:
     - c-82669
 
 <a id="claim-t-86693"></a>
-- t-008
+- t-005
   global_id: t-86693
   teiginys: "Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai."
   pagrindžia:
@@ -84,14 +84,14 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
     - c-82673
 
 <a id="claim-t-86695"></a>
-- t-001
+- t-007
   global_id: t-86695
   teiginys: "Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai."
   pagrindžia:
     - c-82675
 
 <a id="claim-t-86696"></a>
-- t-004
+- t-008
   global_id: t-86696
   teiginys: "Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies."
   pagrindžia:

@@ -37,7 +37,7 @@ Amsterdamas, 1650 m.
 ## Teiginiai
 
 <a id="claim-t-46495"></a>
-- t-002
+- t-001
   global_id: t-46495
   teiginys: "Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais per Gdanską į Amsterdamą."
   pagrindžia:
@@ -51,7 +51,7 @@ Amsterdamas, 1650 m.
     - c-49067
 
 <a id="claim-t-46497"></a>
-- t-001
+- t-003
   global_id: t-46497
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo išleisti Amsterdame 1650 m."
   pagrindžia:

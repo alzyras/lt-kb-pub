@@ -32,14 +32,14 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 ## Teiginiai
 
 <a id="claim-t-40452"></a>
-- t-002
+- t-001
   global_id: t-40452
   teiginys: "T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne."
   pagrindžia:
     - c-44527
 
 <a id="claim-t-40453"></a>
-- t-001
+- t-002
   global_id: t-40453
   teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   pagrindžia:

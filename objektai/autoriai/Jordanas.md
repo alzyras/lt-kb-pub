@@ -30,77 +30,77 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-62623"></a>
-- t-002
+- t-001
   global_id: t-62623
   teiginys: "Jordanas buvo gotų istorikas."
   pagrindžia:
     - c-63352
 
 <a id="claim-t-190736"></a>
-- t-003
+- t-002
   global_id: t-190736
   teiginys: "Pasak Jordano, į vakarus keliavę Panonijoje gyvenę alanai kartu su vandalais bėgo nuo gotų, kuriuos vijo hunai."
   pagrindžia:
     - c-173618
 
 <a id="claim-t-190737"></a>
-- t-004
+- t-003
   global_id: t-190737
   teiginys: "Jordanas aprašė gotų pergales prieš kaimynus, ypač prieš ulmerugius, kurių kraštą tarp Oderio ir Viparos gotai nusiaubė."
   pagrindžia:
     - c-173619
 
 <a id="claim-t-190738"></a>
-- t-005
+- t-004
   global_id: t-190738
   teiginys: "Jordanas teigė, kad spaliai gyveno dabartinėje Mazovijoje, o Narbutas šią žinią siejo su Filimero žygio kryptimi."
   pagrindžia:
     - c-173620
 
 <a id="claim-t-190739"></a>
-- t-006
+- t-005
   global_id: t-190739
   teiginys: "Narbutas vaizduoja Jordaną kaip labiau žavėjusįsi ostgotų žygdarbiais negu aprašiusį gotus, likusius kairiajame Vyslos krante."
   pagrindžia:
     - c-173621
 
 <a id="claim-t-190740"></a>
-- t-007
+- t-006
   global_id: t-190740
   teiginys: "Jordanas, gotų istorikas, minėjo estus kaip jūros pakrantėje gyvenusią tautą ir rėmėsi Kasiodoru arba jį perdirbinėjo."
   pagrindžia:
     - c-173622
 
 <a id="claim-t-190741"></a>
-- t-008
+- t-007
   global_id: t-190741
   teiginys: "Narbutas Jordano požiūrį pasitelkė kartu su Tacitu ir Naruševičiumi, svarstydamas venedams priklausiusių genčių klausimą."
   pagrindžia:
     - c-173623
 
 <a id="claim-t-190742"></a>
-- t-009
+- t-008
   global_id: t-190742
   teiginys: "Pasak Narbuto perteikto Jordano pasakojimo, 161 m. Filimero žygyje gotai, persikėlę į dešinįjį Vyslos krantą, pirmiausia pateko į Owim kraštą."
   pagrindžia:
     - c-173624
 
 <a id="claim-t-190743"></a>
-- t-010
+- t-009
   global_id: t-190743
   teiginys: "Jordanas rašė, kad Okeano pakrantėje prie trijų Vyslos žiočių šakų gyveno iš įvairių tautų susidarę vidivariai."
   pagrindžia:
     - c-173625
 
 <a id="claim-t-190744"></a>
-- t-011
+- t-010
   global_id: t-190744
   teiginys: "Narbutas nurodo, kad Jordanas žodžio rašyboje įžvelgė klaidą ir taisė ją į formą Lethas."
   pagrindžia:
     - c-173626
 
 <a id="claim-t-190745"></a>
-- t-012
+- t-011
   global_id: t-190745
   teiginys: "Jordanas rašė, kad už estų ribojosi agazirai, labai karinga gentis, gyvenusi iš gyvulių auginimo ir medžioklės."
   pagrindžia:

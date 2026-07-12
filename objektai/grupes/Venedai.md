@@ -41,14 +41,14 @@ Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmus
 ## Teiginiai
 
 <a id="claim-t-86773"></a>
-- t-002
+- t-001
   global_id: t-86773
   teiginys: "Hanoverio žemėje prie Elbės žemupio gyvenusių venedų kalboje žodis „Vilija“ reiškė valią."
   pagrindžia:
     - c-82753
 
 <a id="claim-t-86774"></a>
-- t-001
+- t-002
   global_id: t-86774
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   pagrindžia:

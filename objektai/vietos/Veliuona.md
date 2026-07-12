@@ -49,189 +49,189 @@ saugoti Dubysos upyną.
 ## Teiginiai
 
 <a id="claim-t-180736"></a>
-- t-017
+- t-001
   global_id: t-180736
   teiginys: "Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje."
   pagrindžia:
     - c-164328
 
 <a id="claim-t-180737"></a>
-- t-022
+- t-002
   global_id: t-180737
   teiginys: "Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą."
   pagrindžia:
     - c-164335
 
 <a id="claim-t-180738"></a>
-- t-021
+- t-003
   global_id: t-180738
   teiginys: "Gediminas žuvo 1337 m. mūšyje su kryžiuočiais prie Bajerburgo pilies, per mylią nuo Veliuonos."
   pagrindžia:
     - c-164326
 
 <a id="claim-t-180739"></a>
-- t-001
+- t-004
   global_id: t-180739
   teiginys: "M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų."
   pagrindžia:
     - c-164332
 
 <a id="claim-t-180740"></a>
-- t-004
+- t-005
   global_id: t-180740
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems."
   pagrindžia:
     - c-164325
 
 <a id="claim-t-180741"></a>
-- t-026
+- t-006
   global_id: t-180741
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas 1338 m. žuvo per Veliuonos apgulimą, pašautas kryžiuočių."
   pagrindžia:
     - c-164343
 
 <a id="claim-t-180742"></a>
-- t-019
+- t-007
   global_id: t-180742
   teiginys: "Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą."
   pagrindžia:
     - c-164339
 
 <a id="claim-t-180743"></a>
-- t-018
+- t-008
   global_id: t-180743
   teiginys: "Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų."
   pagrindžia:
     - c-164341
 
 <a id="claim-t-180753"></a>
-- t-008
+- t-009
   global_id: t-180753
   teiginys: "1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų."
   pagrindžia:
     - c-164323
 
 <a id="claim-t-180746"></a>
-- t-030
+- t-010
   global_id: t-180746
   teiginys: "Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį."
   pagrindžia:
     - c-164336
 
 <a id="claim-t-180747"></a>
-- t-024
+- t-011
   global_id: t-180747
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos."
   pagrindžia:
     - c-164345
 
 <a id="claim-t-180748"></a>
-- t-005
+- t-012
   global_id: t-180748
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai."
   pagrindžia:
     - c-164327
 
 <a id="claim-t-180751"></a>
-- t-016
+- t-013
   global_id: t-180751
   teiginys: "Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies, per mylią nuo Veliuonos."
   pagrindžia:
     - c-164326
 
 <a id="claim-t-180752"></a>
-- t-003
+- t-014
   global_id: t-180752
   teiginys: "Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą."
   pagrindžia:
     - c-32515
 
 <a id="claim-t-180753"></a>
-- t-008
+- t-015
   global_id: t-180753
   teiginys: "1418 m. Veliuonos derybose nepavyko nustatyti Žemaitijos sienų."
   pagrindžia:
     - c-164323
 
 <a id="claim-t-180754"></a>
-- t-011
+- t-016
   global_id: t-180754
   teiginys: "Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausęs jiems."
   pagrindžia:
     - c-164325
 
 <a id="claim-t-180755"></a>
-- t-006
+- t-017
   global_id: t-180755
   teiginys: "Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos."
   pagrindžia:
     - c-37790
 
 <a id="claim-t-180756"></a>
-- t-023
+- t-018
   global_id: t-180756
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai."
   pagrindžia:
     - c-164327
 
 <a id="claim-t-180757"></a>
-- t-031
+- t-019
   global_id: t-180757
   teiginys: "1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos."
   pagrindžia:
     - c-43974
 
 <a id="claim-t-180758"></a>
-- t-002
+- t-020
   global_id: t-180758
   teiginys: "Ilgai buvo klaidingai aiškinta, kad Gediminas žuvo per Veliuonos apgulimą 1338 m."
   pagrindžia:
     - c-164324
 
 <a id="claim-t-180759"></a>
-- t-020
+- t-021
   global_id: t-180759
   teiginys: "Prie Veliuonos Veliuonėlė įteka į Nemuną ir iš šiaurės skalauja Pilies bei Gedimino kalno šlaitus."
   pagrindžia:
     - c-164340
 
 <a id="claim-t-180760"></a>
-- t-029
+- t-022
   global_id: t-180760
   teiginys: "M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose."
   pagrindžia:
     - c-164332
 
 <a id="claim-t-180743"></a>
-- t-018
+- t-023
   global_id: t-180743
   teiginys: "Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų."
   pagrindžia:
     - c-164341
 
 <a id="claim-t-185171"></a>
-- t-033
+- t-024
   global_id: t-185171
   teiginys: "Veliuonoje abi šalys turėjo tartis, ar pratęsti sudarytą susitarimą, ar sudaryti amžiną taiką."
   pagrindžia:
     - c-168532
 
 <a id="claim-t-185172"></a>
-- t-034
+- t-025
   global_id: t-185172
   teiginys: "Pasibaigus susitikimui karalius kurį laiką pasiliko Veliuonoje pailsėti, nes netoliese buvo medžioklei ir poilsiui tinkamų vietų."
   pagrindžia:
     - c-168533
 
 <a id="claim-t-194261"></a>
-- t-035
+- t-026
   global_id: t-194261
   teiginys: "III APIE VELIUONĄ IR KRYŽIUOČIŲ PILIS PALEI NEMUNĄ Veliuona, seniau pilis, pastatyta tikriausiai XIII amžiuje, kad Žemaitijos sienos būtų įtvirtinimais apsaugotos nuo kry žiuočių puldinėjimų, įsimintina dėl nuolatinių Gedimino ko vų su Ordinu šioje vietovėje."
   pagrindžia:
     - c-164341
 
 <a id="claim-t-194758"></a>
-- t-036
+- t-027
   global_id: t-194758
   teiginys: "Vis dėlto 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė pilį."
   pagrindžia:

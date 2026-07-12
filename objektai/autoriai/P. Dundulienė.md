@@ -12,6 +12,7 @@ tags:
   - autorius
   - miestas
   - įrankis
+  - šventė
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

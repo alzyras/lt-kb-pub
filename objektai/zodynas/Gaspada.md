@@ -36,14 +36,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-70002"></a>
-- t-003
+- t-001
   global_id: t-70002
   teiginys: "`Gaspada` šiame tekste yra keleiviams skirta pastogė."
   pagrindžia:
     - c-09678
 
 <a id="claim-t-70003"></a>
-- t-004
+- t-002
   global_id: t-70003
   teiginys: "Gaspada buvo po kairės angos pusės ir skirta keleiviams, atėjusiems dievų maldyti."
   pagrindžia:

@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - pilis
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66828"></a>
-- t-005
+- t-001
   global_id: t-66828
   teiginys: "Sventopelkas įsiveržė į Pamedės ir Kulmo žemes, jas siaubė, sugriovė daugumą pilių ir išžudė 4 tūkstančius krikščionių."
   pagrindžia:
@@ -84,14 +84,14 @@ Nenurodyta
     - c-66947
 
 <a id="claim-t-66829"></a>
-- t-002
+- t-005
   global_id: t-66829
   teiginys: "Sventopelkas sudarė sąjungą su prūsais, kad iš Prūsijos jėga būtų išvaryti Teutonų ordino broliai ir kiti krikščionys."
   pagrindžia:
     - c-66949
 
 <a id="claim-t-194417"></a>
-- t-007
+- t-006
   global_id: t-194417
   teiginys: "Sventopelko sukeltas tikėjimo bei tikinčiųjų persekiojimas Prūsijoje Gyveno Pomeranijos žemėje kunigaikštis, vardu Sventopelkas, sūnus nedorybių ir pragaišties, pasak šventojo rašto, be galo klastingos ir suktos širdies; prūsų tautą, neseniai priėmusią."
   pagrindžia:

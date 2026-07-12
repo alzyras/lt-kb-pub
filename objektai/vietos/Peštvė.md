@@ -46,14 +46,14 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     - c-33992
 
 <a id="claim-t-32447"></a>
-- t-003
+- t-002
   global_id: t-32447
   teiginys: "Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo."
   pagrindžia:
     - c-33993
 
 <a id="claim-t-32448"></a>
-- t-002
+- t-003
   global_id: t-32448
   teiginys: "Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą."
   pagrindžia:

@@ -41,35 +41,35 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė brolį Henriką Cutsvertą 
 ## Teiginiai
 
 <a id="claim-t-59915"></a>
-- t-003
+- t-001
   global_id: t-59915
   teiginys: "Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
   pagrindžia:
     - c-60549
 
 <a id="claim-t-59916"></a>
-- t-005
+- t-002
   global_id: t-59916
   teiginys: "Karaliaučiaus komtūras Bertoldas paskyrė Baigos komtūrą Henriką Cutsvertą kariuomenės vadu žygiui į Lietuvą."
   pagrindžia:
     - c-60550
 
 <a id="claim-t-59917"></a>
-- t-001
+- t-003
   global_id: t-59917
   teiginys: "Magistras pasiuntė Henriką Cutsvertą, 29 brolius ir 1200 vyrų tykoti dykrose tarp Luko ir Narevo."
   pagrindžia:
     - c-60547
 
 <a id="claim-t-59918"></a>
-- t-002
+- t-004
   global_id: t-59918
   teiginys: "Jazbutui sužeidus Henriko Cutsverto žirgą, Henrikas Cutsvertas įniršęs perdūrė Jazbutą ietimi."
   pagrindžia:
     - c-60548
 
 <a id="claim-t-59919"></a>
-- t-004
+- t-005
   global_id: t-59919
   teiginys: "Henrikas Cutsvertas, prūso įspėtas apie gresiančią išdavystę Lietuvoje, paprašė patarimo, kaip išvengti pavojaus."
   pagrindžia:

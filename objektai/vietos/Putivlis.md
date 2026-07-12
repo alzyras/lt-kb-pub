@@ -37,21 +37,21 @@ Maskvėnai netoli Putivlio užpuolė Vytauto valdinius. Putivlis šiame gabale m
     - c-170341
 
 <a id="claim-t-187302"></a>
-- t-001
+- t-002
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
   pagrindžia:
     - c-170341
 
 <a id="claim-t-187302"></a>
-- t-001
+- t-003
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
   pagrindžia:
     - c-170341
 
 <a id="claim-t-187302"></a>
-- t-001
+- t-004
   global_id: t-187302
   teiginys: "Lietuvos metraštis pasakoja, kad netoli Putivlio, prie Tykiosios Sosnos, maskvėnai užpuolė Vytauto valdinius severskiečius."
   pagrindžia:

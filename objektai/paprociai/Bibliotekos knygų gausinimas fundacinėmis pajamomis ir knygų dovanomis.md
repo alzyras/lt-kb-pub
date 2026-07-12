@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87159"></a>
-- t-003
+- t-001
   global_id: t-87159
   teiginys: "Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką."
   pagrindžia:

@@ -47,14 +47,14 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
     - c-70440
 
 <a id="claim-t-71979"></a>
-- t-003
+- t-002
   global_id: t-71979
   teiginys: "1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose."
   pagrindžia:
     - c-70440
 
 <a id="claim-t-71980"></a>
-- t-002
+- t-003
   global_id: t-71980
   teiginys: "Budikidas ir jo brolis Budivydas 1289 m. taikai palaikyti perleido Valkaviską Haličo-Volinijos kunigaikščiams."
   pagrindžia:

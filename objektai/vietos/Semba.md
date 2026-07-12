@@ -50,140 +50,140 @@ Semba šaltiniuose rodoma kaip Prūsijos pusiasalis tarp Baltijos, Kuršių mari
 ## Teiginiai
 
 <a id="claim-t-182828"></a>
-- t-144
+- t-001
   global_id: t-182828
   teiginys: "Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos)."
   pagrindžia:
     - c-166237
 
 <a id="claim-t-182830"></a>
-- t-145
+- t-002
   global_id: t-182830
   teiginys: "1324 m. Tomas Aldenburgas su 44 broliais ir 400 žmonių iš Sembos bei Natangos užpuolė Gedimino pilies papilį."
   pagrindžia:
     - c-166234
 
 <a id="claim-t-183808"></a>
-- t-146
+- t-003
   global_id: t-183808
   teiginys: "Lietuviai rugpjūtį niokojo Sembos žemės Vėluvos apylinkes, o rugsėjo mėnesį - Dobrynės kunigaikštystę."
   pagrindžia:
     - c-167193
 
 <a id="claim-t-183809"></a>
-- t-147
+- t-004
   global_id: t-183809
   teiginys: "Lietuviai įsiveržė į Sembą ir niokojo priešo teritoriją."
   pagrindžia:
     - c-167194
 
 <a id="claim-t-184198"></a>
-- t-148
+- t-005
   global_id: t-184198
   teiginys: "Pastačius Baigos pilį, sembai domėjosi brolių gyvenimu ir nusiuntė į Baigą vieną savo vyresniųjų."
   pagrindžia:
     - c-167583
 
 <a id="claim-t-184199"></a>
-- t-149
+- t-006
   global_id: t-184199
   teiginys: "1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai."
   pagrindžia:
     - c-167584
 
 <a id="claim-t-184200"></a>
-- t-150
+- t-007
   global_id: t-184200
   teiginys: "Sūduviai, pasitelkę lietuvius, užpuolė Sembos žemę ir dešimt dienų degino sodybas bei kitką už pilių ir įtvirtinimų."
   pagrindžia:
     - c-167585
 
 <a id="claim-t-184201"></a>
-- t-151
+- t-008
   global_id: t-184201
   teiginys: "Magistras Konradas liepė Liudviko iš Libencelės atvestiems sūduviams žygiuoti link Sembos žemės."
   pagrindžia:
     - c-167586
 
 <a id="claim-t-184202"></a>
-- t-152
+- t-009
   global_id: t-184202
   teiginys: "Kimenavos pilėnams buvo paskirtas vedlys ir įsakyta nedelsiant keliauti į Sembos žemę."
   pagrindžia:
     - c-167587
 
 <a id="claim-t-184203"></a>
-- t-153
+- t-010
   global_id: t-184203
   teiginys: "Lietuvių karalius su aštuoniais tūkstančiais raitelių įsibrovė į Sembą ir sudegino pastatus bei pasėlius."
   pagrindžia:
     - c-167588
 
 <a id="claim-t-184399"></a>
-- t-154
+- t-011
   global_id: t-184399
   teiginys: "Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu į šiaurę nuo Karaliaučiaus."
   pagrindžia:
     - c-167765
 
 <a id="claim-t-184400"></a>
-- t-155
+- t-012
   global_id: t-184400
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
   pagrindžia:
     - c-32417
 
 <a id="claim-t-185130"></a>
-- t-156
+- t-013
   global_id: t-185130
   teiginys: "Nusiaubus Sembą, buvo apsuptas neseniai čekų karaliaus Otokaro įkurtas Karaliaučiaus miestas."
   pagrindžia:
     - c-168491
 
 <a id="claim-t-185131"></a>
-- t-157
+- t-014
   global_id: t-185131
   teiginys: "Grafo Barbio vedama vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta."
   pagrindžia:
     - c-168492
 
 <a id="claim-t-185132"></a>
-- t-158
+- t-015
   global_id: t-185132
   teiginys: "Žemaičiai, Mansto ir Sudargo vedami, su penkių tūkstančių vyrų kariuomene smarkiai nusiaubė Sembos žemę."
   pagrindžia:
     - c-168493
 
 <a id="claim-t-192755"></a>
-- t-159
+- t-016
   global_id: t-192755
   teiginys: "Narbutas vaizdavo turtingą Sembą kaip vokiečių godumą skatinusią provinciją, kurios užkariavimo bandymai nepavyko."
   pagrindžia:
     - c-175525
 
 <a id="claim-t-192756"></a>
-- t-160
+- t-017
   global_id: t-192756
   teiginys: "Narbutas rašė, kad gintaro sakų kilmės pėdsakai ypač dažnai randami prūsų Sembos pakrantėje."
   pagrindžia:
     - c-175526
 
 <a id="claim-t-192757"></a>
-- t-161
+- t-018
   global_id: t-192757
   teiginys: "Narbutas, remdamasis Tunmanu, teigė, kad lietuvių protėviai prie Baltijos jūros tuojau užėmė Sembą ir gintaro kasyklas."
   pagrindžia:
     - c-175527
 
 <a id="claim-t-192758"></a>
-- t-162
+- t-019
   global_id: t-192758
   teiginys: "Narbutas rašė, kad Adomas Bremenietis Sembą laikė besiribojančia su rusais arba Rusios kraštu."
   pagrindžia:
     - c-175528
 
 <a id="claim-t-192759"></a>
-- t-163
+- t-020
   global_id: t-192759
   teiginys: "Narbutas pasakojo, kad Jarmerikas, pavergęs slavų kraštą, įsiveržė į Prūsiją, užgrobė Sembą, Kuršą ir rytinius kraštus."
   pagrindžia:

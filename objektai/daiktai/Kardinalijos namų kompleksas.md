@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87000"></a>
-- t-002
+- t-001
   global_id: t-87000
   teiginys: "Jurgis Radvila su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią."
   pagrindžia:
     - c-82981
 
 <a id="claim-t-87001"></a>
-- t-003
+- t-002
   global_id: t-87001
   teiginys: "Apie 1601 metus Goštautų ir Filipovo namai Albrechto Radvilos laikais buvo sujungti ir gavo bendrą Kardinalijos pavadinimą."
   pagrindžia:
     - c-82980
 
 <a id="claim-t-87002"></a>
-- t-001
+- t-003
   global_id: t-87002
   teiginys: "Kardinalija buvo vienas didžiausių Vilniaus namų, iškilęs Jurgio Radvilos lėšomis tarp senų mūrinių namų ir medinių dvarų."
   pagrindžia:

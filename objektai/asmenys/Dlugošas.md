@@ -62,7 +62,7 @@ Anot Dlugošo, Žemaičių gyventojai išsislapstę giriose. Dlugošas, kuris 14
     - c-167742
 
 <a id="claim-t-188524"></a>
-- t-003
+- t-004
   global_id: t-188524
   teiginys: "Narbuto vertinimu, Dlugošas iš senesniųjų istorikų aiškiai pripažino, kad lietuvių genties tautos tikėjo fetišais."
   pagrindžia:

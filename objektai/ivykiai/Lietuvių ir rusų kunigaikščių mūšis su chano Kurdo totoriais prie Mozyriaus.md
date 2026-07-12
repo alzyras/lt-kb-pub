@@ -56,28 +56,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186687"></a>
-- t-002
+- t-001
   global_id: t-186687
   teiginys: "Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo."
   pagrindžia:
     - c-169927
 
 <a id="claim-t-186688"></a>
-- t-004
+- t-002
   global_id: t-186688
   teiginys: "Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu."
   pagrindžia:
     - c-169928
 
 <a id="claim-t-186689"></a>
-- t-001
+- t-003
   global_id: t-186689
   teiginys: "Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi."
   pagrindžia:
     - c-169927
 
 <a id="claim-t-186690"></a>
-- t-003
+- t-004
   global_id: t-186690
   teiginys: "Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas."
   pagrindžia:

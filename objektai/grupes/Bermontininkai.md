@@ -45,14 +45,14 @@ media_all_json: |-
     - c-42650
 
 <a id="claim-t-40867"></a>
-- t-003
+- t-002
   global_id: t-40867
   teiginys: "1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos."
   pagrindžia:
     - c-44726
 
 <a id="claim-t-40868"></a>
-- t-002
+- t-003
   global_id: t-40868
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius."
   pagrindžia:

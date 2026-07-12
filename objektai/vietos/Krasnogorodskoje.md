@@ -29,14 +29,14 @@ Komentare Krasnogorodskoje pateikiamas kaip Krasnyj gorod atitikmuo. Krasnogorod
 ## Teiginiai
 
 <a id="claim-t-187239"></a>
-- t-002
+- t-001
   global_id: t-187239
   teiginys: "Krasnogorodskoje lokalizuojamas 30 km į šiaurės vakarus nuo Opočkos."
   pagrindžia:
     - c-170303
 
 <a id="claim-t-187240"></a>
-- t-001
+- t-002
   global_id: t-187240
   teiginys: "Krasnyj gorod komentare tapatinamas su Krasnogorodskoje."
   pagrindžia:

@@ -25,7 +25,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
-  - privilegija
   - valstybė
   - vieta
 amziai:
@@ -53,182 +52,182 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 ## Teiginiai
 
 <a id="claim-t-112336"></a>
-- t-028
+- t-001
   global_id: t-112336
   teiginys: "Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį."
   pagrindžia:
     - c-103766
 
 <a id="claim-t-112337"></a>
-- t-026
+- t-002
   global_id: t-112337
   teiginys: "Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę."
   pagrindžia:
     - c-103762
 
 <a id="claim-t-112338"></a>
-- t-019
+- t-003
   global_id: t-112338
   teiginys: "1248 m. Mindaugo opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
   pagrindžia:
     - c-103772
 
 <a id="claim-t-112340"></a>
-- t-028
+- t-004
   global_id: t-112340
   teiginys: "Ginčijamoji Voluinė buvo valdoma Švitrigailos, o Podolė tuo metu buvo valdoma lenkų."
   pagrindžia:
     - c-21498
 
 <a id="claim-t-112357"></a>
-- t-022
+- t-005
   global_id: t-112357
   teiginys: "Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi."
   pagrindžia:
     - c-103760
 
 <a id="claim-t-112342"></a>
-- t-031
+- t-006
   global_id: t-112342
   teiginys: "Po krikšto ir karūnavimosi Mindaugas kariavo su Voluine dėl Danieliaus užgrobtų žemių."
   pagrindžia:
     - c-103771
 
 <a id="claim-t-112343"></a>
-- t-038
+- t-007
   global_id: t-112343
   teiginys: "Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo."
   pagrindžia:
     - c-103766
 
 <a id="claim-t-112344"></a>
-- t-020
+- t-008
   global_id: t-112344
   teiginys: "Gedimino ar Algirdo laikais Voluinė buvo Lietuvos politinėje įtakoje."
   pagrindžia:
     - c-103759
 
 <a id="claim-t-112345"></a>
-- t-018
+- t-009
   global_id: t-112345
   teiginys: "1219 m. Voluinės ir Lietuvos kunigaikščių sutartyje Mindaugas buvo paminėtas ketvirtuoju tarp penkių vyresniųjų kunigaikščių."
   pagrindžia:
     - c-103775
 
 <a id="claim-t-112346"></a>
-- t-032
+- t-010
   global_id: t-112346
   teiginys: "Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje."
   pagrindžia:
     - c-46843
 
 <a id="claim-t-112347"></a>
-- t-033
+- t-011
   global_id: t-112347
   teiginys: "Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje."
   pagrindžia:
     - c-103778
 
 <a id="claim-t-112348"></a>
-- t-029
+- t-012
   global_id: t-112348
   teiginys: "Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims."
   pagrindžia:
     - c-46843
 
 <a id="claim-t-112349"></a>
-- t-030
+- t-013
   global_id: t-112349
   teiginys: "Voluinėje ir Podolėje įsiplieskė karas su Lietuva ir valakais."
   pagrindžia:
     - c-103758
 
 <a id="claim-t-112351"></a>
-- t-024
+- t-014
   global_id: t-112351
   teiginys: "Vytauto laikais LDK pilys statytos ir rusėniškose žemėse, tarp jų Voluinėje, Lucke."
   pagrindžia:
     - c-103764
 
 <a id="claim-t-112352"></a>
-- t-034
+- t-015
   global_id: t-112352
   teiginys: "Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai."
   pagrindžia:
     - c-21498
 
 <a id="claim-t-112353"></a>
-- t-030
+- t-016
   global_id: t-112353
   teiginys: "Viena Radvilų šeimos šaka turėjo centrus Biržuose ir Kėdainiuose, o kita - Nesvyžiuje ir Olykoje Voluinėje."
   pagrindžia:
     - c-46844
 
 <a id="claim-t-112354"></a>
-- t-040
+- t-017
   global_id: t-112354
   teiginys: "Po paskutinio karo Voluinėje Jogaila išlaisvino lietuvių didikus Rumbautą ir Goštautą ir pasiuntė juos Švitrigailai į Vilnių."
   pagrindžia:
     - c-103773
 
 <a id="claim-t-112356"></a>
-- t-025
+- t-018
   global_id: t-112356
   teiginys: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje."
   pagrindžia:
     - c-103767
 
 <a id="claim-t-112357"></a>
-- t-022
+- t-019
   global_id: t-112357
   teiginys: "Voluinė labiausiai integravosi į Lietuvos Didžiosios Kunigaikštijos gyvenimą, o Vytautas ją ėmė laikyti tėvonijos dalimi."
   pagrindžia:
     - c-103760
 
 <a id="claim-t-112358"></a>
-- t-037
+- t-020
   global_id: t-112358
   teiginys: "Vytauto laikais gotikinė pilis buvo statoma ir Voluinės Lucke."
   pagrindžia:
     - c-103764
 
 <a id="claim-t-112359"></a>
-- t-042
+- t-021
   global_id: t-112359
   teiginys: "Višnioveckiai telkė Bresto vaivadijos bajoriją, pasitelkdami šalininkus, tarnus ir rekrūtus iš savo dvarų Voluinėje."
   pagrindžia:
     - c-103777
 
 <a id="claim-t-112360"></a>
-- t-023
+- t-022
   global_id: t-112360
   teiginys: "Voluinė tapo šalutinių Gediminaičių šakų įsitvirtinimo erdve."
   pagrindžia:
     - c-103765
 
 <a id="claim-t-112362"></a>
-- t-032
+- t-023
   global_id: t-112362
   teiginys: "Apsirūpinus artilerija Vilniuje, likusieji ginklai buvo siunčiami į Lietuvos, Rusios, Voluinės, Podolės ir Ukrainos pilis."
   pagrindžia:
     - c-103757
 
 <a id="claim-t-112363"></a>
-- t-027
+- t-024
   global_id: t-112363
   teiginys: "1447 m. privilegijoje Kazimieras įsipareigojo išlaikyti Lietuvą Vytauto laikų ribose, kad Podolė su Voluine liktų Lietuvai."
   pagrindžia:
     - c-21497
 
 <a id="claim-t-112364"></a>
-- t-031
+- t-025
   global_id: t-112364
   teiginys: "Jogaila išlaisvino paskutiniame kare Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą."
   pagrindžia:
     - c-103773
 
 <a id="claim-t-112365"></a>
-- t-021
+- t-026
   global_id: t-112365
   teiginys: "1340 m. Vytenio ir Gedimino laikų plėtros kontekste prie Lietuvos buvo prijungta Voluinė."
   pagrindžia:
@@ -242,14 +241,14 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
     - c-171760
 
 <a id="claim-t-193253"></a>
-- t-043
+- t-028
   global_id: t-193253
   teiginys: "Kuriantis valstybei, iš kaimynų lietuviams pavojingiausi buvo Voluinės kunigaikštystė ir kalavijuočių ordinas."
   pagrindžia:
     - c-175986
 
 <a id="claim-t-193254"></a>
-- t-044
+- t-029
   global_id: t-193254
   teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
   pagrindžia:

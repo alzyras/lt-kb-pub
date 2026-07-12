@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - krikštas
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -43,7 +44,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 ## Teiginiai
 
 <a id="claim-t-121122"></a>
-- t-003
+- t-001
   global_id: t-121122
   teiginys: "Patrikas buvo Jogailos pusbrolis ir prie Strėvos 1348 m. žuvusio Narimanto sūnus."
   pagrindžia:
@@ -57,7 +58,7 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     - c-111010
 
 <a id="claim-t-184816"></a>
-- t-004
+- t-003
   global_id: t-184816
   teiginys: "Patrikas puolė gelbėti į priešų rankas patekusio tėvo Kęstučio ir buvo ietimi numuštas nuo žirgo."
   pagrindžia:

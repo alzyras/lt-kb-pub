@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - kunigas
 media_total_count: '0'
 media_primary_thumb_url: ''

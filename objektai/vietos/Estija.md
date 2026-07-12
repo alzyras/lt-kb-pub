@@ -41,21 +41,21 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
 ## Teiginiai
 
 <a id="claim-t-182726"></a>
-- t-023
+- t-001
   global_id: t-182726
   teiginys: "SSRS unifikacinė politika nusmukdė Latvijos ir Estijos lygį, bet leido Lietuvai pasivyti kaimynes pagal visus parametrus."
   pagrindžia:
     - c-166144
 
 <a id="claim-t-182729"></a>
-- t-004
+- t-002
   global_id: t-182729
   teiginys: "Latvija ir Estija vengė kištis į Lenkijos ir Lietuvos konfliktą dėl Vilniaus, abi gravitavo į Varšuvą, o Lietuva dėl Vilniaus problemos iškrisdavo iš perspektyvaus regioninio darinio su Lenkija priešakyje."
   pagrindžia:
     - c-166143
 
 <a id="claim-t-193182"></a>
-- t-024
+- t-003
   global_id: t-193182
   teiginys: "Karalius vis tiek įsakė Livonijoje stovinčios kariuomenės (jos ten buvo labai maža) vadams pulti švedus Estijoje."
   pagrindžia:

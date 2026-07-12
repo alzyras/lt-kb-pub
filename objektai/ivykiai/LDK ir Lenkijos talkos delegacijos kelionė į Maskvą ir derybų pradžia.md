@@ -63,14 +63,14 @@ Nenurodyta
     - c-169986
 
 <a id="claim-t-186800"></a>
-- t-003
+- t-002
   global_id: t-186800
   teiginys: "LDK ir Lenkijos talkos derybos Maskvoje prasidėjo 1503 m. kovo 7 d."
   pagrindžia:
     - c-169986
 
 <a id="claim-t-186801"></a>
-- t-002
+- t-003
   global_id: t-186801
   teiginys: "LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d."
   pagrindžia:

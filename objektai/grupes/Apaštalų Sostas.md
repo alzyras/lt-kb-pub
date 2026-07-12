@@ -8,7 +8,6 @@ atnaujinta: ''
 tags:
   - grupe
   - miestas
-  - privilegija
   - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -39,14 +38,14 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
     - c-156501
 
 <a id="claim-t-172078"></a>
-- t-003
+- t-002
   global_id: t-172078
   teiginys: "Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise, leista vyskupų ir patvirtinta Apaštalų Sosto."
   pagrindžia:
     - c-156504
 
 <a id="claim-t-172079"></a>
-- t-002
+- t-003
   global_id: t-172079
   teiginys: "Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas."
   pagrindžia:

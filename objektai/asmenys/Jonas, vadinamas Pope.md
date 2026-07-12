@@ -45,7 +45,7 @@ Dusburgietis teigia, kad broliai jiems bandė pastoti kelią, tačiau noromis ne
     - c-60983
 
 <a id="claim-t-60351"></a>
-- t-001
+- t-002
   global_id: t-60351
   teiginys: "1315 m. per lietuvių iš Žemaitijos Ragainės pilies užpuolimą buvo nukautas brolis Jonas, vadinamas Pope."
   pagrindžia:

@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45538"></a>
-- t-005
+- t-001
   global_id: t-45538
   teiginys: "Užsienyje gyvenantys lietuviai statė Romo Kalantos paminklus ir kitus atminimo simbolius bendruomenių susibūrimo vietose."
   pagrindžia:
     - c-16938
 
 <a id="claim-t-45539"></a>
-- t-006
+- t-002
   global_id: t-45539
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją."
   pagrindžia:

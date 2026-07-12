@@ -42,21 +42,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182848"></a>
-- t-033
+- t-001
   global_id: t-182848
   teiginys: "Vytauto krikštatėvis buvo Ragainės komtūras, turėjęs tokį pat Vigando vardą."
   pagrindžia:
     - c-14694
 
 <a id="claim-t-183715"></a>
-- t-034
+- t-002
   global_id: t-183715
   teiginys: "1348 m. didysis komtūras Vinrichas iš Kniprodės dalyvavo Strėvos mūšyje ir narsiai kovėsi."
   pagrindžia:
     - c-167103
 
 <a id="claim-t-183834"></a>
-- t-035
+- t-003
   global_id: t-183834
   teiginys: "Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių."
   pagrindžia:

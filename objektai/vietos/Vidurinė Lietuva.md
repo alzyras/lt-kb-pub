@@ -11,6 +11,7 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - lietuva
   - vieta
 amziai:
   - 'XX'
@@ -58,63 +59,63 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-102086"></a>
-- t-014
+- t-001
   global_id: t-102086
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva."
   pagrindžia:
     - c-24553
 
 <a id="claim-t-102087"></a>
-- t-013
+- t-002
   global_id: t-102087
   teiginys: "1920 m. spalio 9 d. L. Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   pagrindžia:
     - c-16576
 
 <a id="claim-t-102094"></a>
-- t-016
+- t-003
   global_id: t-102094
   teiginys: "1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   pagrindžia:
     - c-16576
 
 <a id="claim-t-102090"></a>
-- t-018
+- t-004
   global_id: t-102090
   teiginys: "1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“."
   pagrindžia:
     - c-95449
 
 <a id="claim-t-102091"></a>
-- t-020
+- t-005
   global_id: t-102091
   teiginys: "1922 m. sausį lenkai surengė rinkimus Vilniaus krašte, o Vidurinė Lietuva formaliai prisijungė prie Lenkijos."
   pagrindžia:
     - c-25427
 
 <a id="claim-t-102092"></a>
-- t-017
+- t-006
   global_id: t-102092
   teiginys: "1922 m. sausį Vidurinėje Lietuvoje surengti rinkimai, po kurių ji formaliai prisijungė prie Lenkijos."
   pagrindžia:
     - c-25427
 
 <a id="claim-t-102093"></a>
-- t-015
+- t-007
   global_id: t-102093
   teiginys: "Lenkijos valia surengtuose rinkimuose Želigovskio užimtoje Vidurinėje Lietuvoje balsuota, kad ji taptų Lenkijos dalimi."
   pagrindžia:
     - c-16575
 
 <a id="claim-t-102094"></a>
-- t-016
+- t-008
   global_id: t-102094
   teiginys: "1920 m. spalio 9 d., dar prieš įsigalint Suvalkų susitarimui, L. Želigovskis įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   pagrindžia:
     - c-16576
 
 <a id="claim-t-102095"></a>
-- t-021
+- t-009
   global_id: t-102095
   teiginys: "Vidurinės Lietuvos samprata rėmėsi požiūriu, kad nutautėję Lietuvos bajorai Lietuvą laikė Lenkijos dalimi."
   pagrindžia:

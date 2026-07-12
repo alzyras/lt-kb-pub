@@ -59,7 +59,7 @@ Nenurodyta
     - c-167618
 
 <a id="claim-t-35891"></a>
-- t-001
+- t-002
   global_id: t-35891
   teiginys: "Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu."
   pagrindžia:

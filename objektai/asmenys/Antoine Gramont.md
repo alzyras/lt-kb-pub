@@ -38,14 +38,14 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 ## Teiginiai
 
 <a id="claim-t-40034"></a>
-- t-002
+- t-001
   global_id: t-40034
   teiginys: "Prancūzijos grafas Antoineas Gramont’as 1663-1664 m. pasakojo apie totorius Lietuvos kariuomenėje."
   pagrindžia:
     - c-41839
 
 <a id="claim-t-40035"></a>
-- t-001
+- t-002
   global_id: t-40035
   teiginys: "Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse."
   pagrindžia:

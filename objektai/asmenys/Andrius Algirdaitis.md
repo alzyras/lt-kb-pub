@@ -87,14 +87,14 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
     - c-55316
 
 <a id="claim-t-82220"></a>
-- t-006
+- t-005
   global_id: t-82220
   teiginys: "Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje."
   pagrindžia:
     - c-78714
 
 <a id="claim-t-82221"></a>
-- t-005
+- t-006
   global_id: t-82221
   teiginys: "Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę."
   pagrindžia:

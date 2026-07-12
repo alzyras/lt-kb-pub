@@ -46,49 +46,49 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 ## Teiginiai
 
 <a id="claim-t-78394"></a>
-- t-015
+- t-001
   global_id: t-78394
   teiginys: "Notangai ir varmiai išsižadėjo maišto sumanymų ir davė žodį būti ištikimi broliams."
   pagrindžia:
     - c-75679
 
 <a id="claim-t-78395"></a>
-- t-010
+- t-002
   global_id: t-78395
   teiginys: "1263 m. notangai apsupo Kroicburgo pilį ir trejus metus ją puolė trimis apgulos mašinomis bei trimis kuorais."
   pagrindžia:
     - c-75681
 
 <a id="claim-t-78396"></a>
-- t-001
+- t-003
   global_id: t-78396
   teiginys: "1260 m. Klaipėdoje tarp Ordino prievarta buriamų karių buvo notangai, pamedėnai, varmiai ir sembai."
   pagrindžia:
     - c-75677
 
 <a id="claim-t-78397"></a>
-- t-007
+- t-004
   global_id: t-78397
   teiginys: "Notangai sausio 22 dieną Pokarviuose užpuolė likusią brolių ir maldininkų kariuomenės dalį."
   pagrindžia:
     - c-75680
 
 <a id="claim-t-78398"></a>
-- t-013
+- t-005
   global_id: t-78398
   teiginys: "Išžudžius karo vadus, notangai ir varmiai vėl pasidavė tikėjimui ir broliams."
   pagrindžia:
     - c-75683
 
 <a id="claim-t-78399"></a>
-- t-003
+- t-006
   global_id: t-78399
   teiginys: "Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo."
   pagrindžia:
     - c-75696
 
 <a id="claim-t-78400"></a>
-- t-018
+- t-007
   global_id: t-78400
   teiginys: "1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių."
   pagrindžia:
@@ -102,56 +102,56 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-75695
 
 <a id="claim-t-78402"></a>
-- t-019
+- t-009
   global_id: t-78402
   teiginys: "1260 m. Klaipėdoje notangai minimi tarp Ordino pavaldžių užgrobtų žemių karių, prievarta telktų prieš Lietuvą."
   pagrindžia:
     - c-75677
 
 <a id="claim-t-78403"></a>
-- t-002
+- t-010
   global_id: t-78403
   teiginys: "Iš pradžių jis buvo siejamas tik su notangais."
   pagrindžia:
     - c-75684
 
 <a id="claim-t-78404"></a>
-- t-016
+- t-011
   global_id: t-78404
   teiginys: "1313 m. rudenį brolis Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį ir sudegino abu jos papilius."
   pagrindžia:
     - c-75692
 
 <a id="claim-t-78405"></a>
-- t-014
+- t-012
   global_id: t-78405
   teiginys: "1274 m. notangai kartu su pagudėnais, varmiais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
   pagrindžia:
     - c-75675
 
 <a id="claim-t-78406"></a>
-- t-004
+- t-013
   global_id: t-78406
   teiginys: "Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę."
   pagrindžia:
     - c-75686
 
 <a id="claim-t-78407"></a>
-- t-005
+- t-014
   global_id: t-78407
   teiginys: "Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė."
   pagrindžia:
     - c-75674
 
 <a id="claim-t-78408"></a>
-- t-011
+- t-015
   global_id: t-78408
   teiginys: "Notangų vadas Herkus Mantas pasitraukė į dykras, kur Henrikas iš Šenenbergo ir Helvigas iš Goldbacho jį pakorė ir pervėrė kalaviju."
   pagrindžia:
     - c-75690
 
 <a id="claim-t-78409"></a>
-- t-006
+- t-016
   global_id: t-78409
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, notangai savo kariuomenės vadu ir vyresniuoju išsirinko Herkų Mantą."
   pagrindžia:
@@ -165,28 +165,28 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - c-75687
 
 <a id="claim-t-78411"></a>
-- t-012
+- t-018
   global_id: t-78411
   teiginys: "Notangų vadą Herkų Mantą broliai Henrikas iš Šenenbergo ir Helvigas iš Goldbacho pakorė ir pervėrė kalaviju."
   pagrindžia:
     - c-75690
 
 <a id="claim-t-78412"></a>
-- t-009
+- t-019
   global_id: t-78412
   teiginys: "Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies."
   pagrindžia:
     - c-75685
 
 <a id="claim-t-78412"></a>
-- t-009
+- t-020
   global_id: t-78412
   teiginys: "Notangų vadas Herkus Mantas subūrė didelę kariuomenę ir atžygiavo į Karaliaučiaus lauką pulti pilies."
   pagrindžia:
     - c-75685
 
 <a id="claim-t-78400"></a>
-- t-018
+- t-021
   global_id: t-78400
   teiginys: "1317 m. žiemą brolis Henrikas su broliais ir Sembos bei Notangos kariais žygiavo prieš Vaikių valsčių."
   pagrindžia:

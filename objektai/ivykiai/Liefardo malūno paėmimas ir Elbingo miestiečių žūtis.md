@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62854"></a>
-- t-002
+- t-001
   global_id: t-62854
   teiginys: "Liefardo malūne apsupti Elbingo miestiečiai sutiko pagudėnams atiduoti 25 žymesniuosius vyrus, kad kiti liktų gyvi."
   pagrindžia:
     - c-63691
 
 <a id="claim-t-62855"></a>
-- t-003
+- t-002
   global_id: t-62855
   teiginys: "Dusburgiečio pasakojimu, Elbingo miestiečiai nuo sienų matė atsivėrusį dangų ir angelų vedamas nukautųjų sielas."
   pagrindžia:
     - c-63692
 
 <a id="claim-t-62856"></a>
-- t-001
+- t-003
   global_id: t-62856
   teiginys: "1273 m. pagudėnai surengė pasalą prie Elbingo ir privertė miestiečius pasitraukti į įtvirtintą Liefardo malūną."
   pagrindžia:

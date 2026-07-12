@@ -29,7 +29,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187949"></a>
-- t-002
+- t-001
   global_id: t-187949
   teiginys: "Samuelis Lindė buvo vienas iš kalbininkų, kurių darbais naudojosi Teodoras Narbutas."
   pagrindžia:

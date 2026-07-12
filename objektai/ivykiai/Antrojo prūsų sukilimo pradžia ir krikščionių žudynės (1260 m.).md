@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66454"></a>
-- t-002
+- t-001
   global_id: t-66454
   teiginys: "Prūsų vadai paskyrė dieną krikščionims Prūsijoje išžudyti, o nepaslėptus už įtvirtinimų nužudė arba išsivarė į vergovę."
   pagrindžia:
     - c-66684
 
 <a id="claim-t-66455"></a>
-- t-001
+- t-002
   global_id: t-66455
   teiginys: "1260 m. prūsai vėl atkrito nuo krikščionių tikėjimo, o sembai, notangai, varmiai, pagudėnai ir bartai išsirinko savo vadus."
   pagrindžia:

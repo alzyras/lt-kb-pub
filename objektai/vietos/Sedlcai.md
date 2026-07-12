@@ -32,14 +32,14 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
 ## Teiginiai
 
 <a id="claim-t-58722"></a>
-- t-002
+- t-001
   global_id: t-58722
   teiginys: "Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo."
   pagrindžia:
     - c-59354
 
 <a id="claim-t-58723"></a>
-- t-001
+- t-002
   global_id: t-58723
   teiginys: "Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais."
   pagrindžia:

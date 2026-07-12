@@ -38,14 +38,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07753"></a>
-- t-003
+- t-001
   global_id: t-07753
   teiginys: "`Vartavodamos` šaltinyje reiškia prekiaujant ar mainant."
   pagrindžia:
     - c-09664
 
 <a id="claim-t-07754"></a>
-- t-004
+- t-002
   global_id: t-07754
   teiginys: "Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai."
   pagrindžia:

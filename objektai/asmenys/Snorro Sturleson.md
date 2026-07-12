@@ -40,14 +40,14 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
 ## Teiginiai
 
 <a id="claim-t-87575"></a>
-- t-002
+- t-001
   global_id: t-87575
   teiginys: "Snorro Sturlesonas, 1179 m. Islandijoje gimęs keliautojas, rinko žinias Norvegijos ir Šiaurės istorijai."
   pagrindžia:
     - c-83555
 
 <a id="claim-t-87576"></a>
-- t-001
+- t-002
   global_id: t-87576
   teiginys: "Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių."
   pagrindžia:

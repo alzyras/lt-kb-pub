@@ -29,28 +29,28 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 ## Teiginiai
 
 <a id="claim-t-187415"></a>
-- t-003
+- t-001
   global_id: t-187415
   teiginys: "Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę."
   pagrindžia:
     - c-170408
 
 <a id="claim-t-187416"></a>
-- t-004
+- t-002
   global_id: t-187416
   teiginys: "Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus."
   pagrindžia:
     - c-170409
 
 <a id="claim-t-187417"></a>
-- t-001
+- t-003
   global_id: t-187417
   teiginys: "Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene."
   pagrindžia:
     - c-170407
 
 <a id="claim-t-187418"></a>
-- t-002
+- t-004
   global_id: t-187418
   teiginys: "Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę."
   pagrindžia:

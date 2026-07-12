@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - mokslininkas
   - seimas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75188"></a>
-- t-002
+- t-001
   global_id: t-75188
   teiginys: "Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai."
   pagrindžia:
     - c-23011
 
 <a id="claim-t-75189"></a>
-- t-001
+- t-002
   global_id: t-75189
   teiginys: "LPS steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų politikos, kultūros, ekonomikos, visuomeninio gyvenimo bei demokratijos klausimais."
   pagrindžia:

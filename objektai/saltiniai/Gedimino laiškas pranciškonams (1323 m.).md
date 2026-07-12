@@ -38,14 +38,14 @@ Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­ sų laišką mūsų
 ## Teiginiai
 
 <a id="claim-t-88158"></a>
-- t-002
+- t-001
   global_id: t-88158
   teiginys: "Gedimino laiške pranciškonų prašyta perskaičius jį siųsti į kitą provinciją ir melstis už karalių, jo šeimą bei kraštą."
   pagrindžia:
     - c-84138
 
 <a id="claim-t-88159"></a>
-- t-001
+- t-002
   global_id: t-88159
   teiginys: "Gediminas laiške pranciškonams pranešė, kad kreipėsi į popiežių Joną ir laukė jo pasiuntinių atvykimo."
   pagrindžia:

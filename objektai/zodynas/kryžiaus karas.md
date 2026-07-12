@@ -11,7 +11,9 @@ date_start: '1253'
 date_end: '1261'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karinis-terminas
+  - religinis-terminas
 amziai:
   - 'XIII'
 media_total_count: '0'

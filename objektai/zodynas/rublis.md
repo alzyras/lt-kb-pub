@@ -57,6 +57,7 @@ Jogailos ir Vytauto rūmuose bu­ vo kartais mokama rubliais, patekusiais iš sl
   teiginys: "Jogailos ir Vytauto rūmuose kartais mokėta rubliais iš slavų kraštų, bet jie dar buvo sukapoti sidabro gabalai, o ne monetos."
   pagrindžia:
     - c-167631
+- susijęs iš [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys.md#claim-t-195382|Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]: Jaunikis turėdavo išpirkti vadinamą didelį kraitį, duodamas motinai ne mažiau kaip rublį.
 ## Reikšmingi paminėjimai
 
 - c-001

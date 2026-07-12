@@ -36,7 +36,7 @@ Vartojamos formos: `dešimtininkus`, `šimtininkus`, `pulkorius`, `ratmistrais`,
 ## Teiginiai
 
 <a id="claim-t-07727"></a>
-- t-004
+- t-001
   global_id: t-07727
   teiginys: "Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo."
   pagrindžia:

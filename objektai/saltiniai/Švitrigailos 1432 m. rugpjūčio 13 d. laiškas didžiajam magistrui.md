@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88363"></a>
-- t-002
+- t-001
   global_id: t-88363
   teiginys: "Švitrigaila laiške prašė didžiojo magistro palydėti Vroclavo vyskupą Konradą į Kistriną ir suteikti garantiją Vroclavo gyventojams."
   pagrindžia:
     - c-84343
 
 <a id="claim-t-88364"></a>
-- t-001
+- t-002
   global_id: t-88364
   teiginys: "1432 m. rugpjūčio 13 d. laiške didžiajam magistrui Švitrigaila prašė garantijų Vroclavo gyventojams keliauti per Ordino žemes su prekėmis."
   pagrindžia:

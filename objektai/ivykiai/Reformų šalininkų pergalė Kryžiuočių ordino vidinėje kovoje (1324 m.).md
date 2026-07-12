@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62908"></a>
-- t-002
+- t-001
   global_id: t-62908
   teiginys: "Didžiajam magistrui Verneriui kronikos reikėjo Ordino priekaištams atremti ir vidaus reformai įgyvendinti."
   pagrindžia:
@@ -64,7 +64,7 @@ Nenurodyta
     - c-63773
 
 <a id="claim-t-62909"></a>
-- t-001
+- t-002
   global_id: t-62909
   teiginys: "1324 m. Kryžiuočių ordino vidinę kovą laikinai laimėjo reformų šalininkai."
   pagrindžia:

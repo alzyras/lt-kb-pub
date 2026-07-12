@@ -45,14 +45,14 @@ Abelis kronikos pasakojime rodomas kaip Danijos karaliaus Henriko brolis, nužud
     - c-57664
 
 <a id="claim-t-56963"></a>
-- t-003
+- t-002
   global_id: t-56963
   teiginys: "1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai."
   pagrindžia:
     - c-57664
 
 <a id="claim-t-56964"></a>
-- t-002
+- t-003
   global_id: t-56964
   teiginys: "Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste."
   pagrindžia:

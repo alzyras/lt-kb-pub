@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54249"></a>
-- t-002
+- t-001
   global_id: t-54249
   teiginys: "Kirilikinė lietuvių abėcėlė galėjo būti boikotuojama dėl lietuviškų pradžios mokyklų draudimo ir katalikų diskriminacijos."
   pagrindžia:
     - c-55147
 
 <a id="claim-t-54250"></a>
-- t-001
+- t-002
   global_id: t-54250
   teiginys: "Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika."
   pagrindžia:

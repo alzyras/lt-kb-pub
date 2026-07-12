@@ -38,14 +38,14 @@ Dusburgietis teigia, kad šių tekstų tyrinėjimai parodė, kad Ordino valstyb�
 ## Teiginiai
 
 <a id="claim-t-61006"></a>
-- t-002
+- t-001
   global_id: t-61006
   teiginys: "Seniausieji Prūsijos analai pirmajame raidos etape iš esmės apėmė 1230–1293 m. įvykius."
   pagrindžia:
     - c-61639
 
 <a id="claim-t-61007"></a>
-- t-001
+- t-002
   global_id: t-61007
   teiginys: "Seniausiųjų Prūsijos analų pagrindas susidarė XIII a. pabaigoje Ordino valstybėje buvusios oficialios analistikos aplinkoje."
   pagrindžia:

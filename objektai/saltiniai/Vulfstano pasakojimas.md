@@ -43,14 +43,14 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
 ## Teiginiai
 
 <a id="claim-t-193062"></a>
-- t-002
+- t-001
   global_id: t-193062
   teiginys: "Vulfstano pasakojime Aismarės vadinamos Estmere."
   pagrindžia:
     - c-175831
 
 <a id="claim-t-193063"></a>
-- t-001
+- t-002
   global_id: t-193063
   teiginys: "Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso."
   pagrindžia:

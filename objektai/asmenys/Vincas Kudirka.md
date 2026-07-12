@@ -17,7 +17,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - bajorija
-  - tauta
+  - institucija
+  - redaktorius
 amziai:
   - 'XIX'
   - 'XX'
@@ -45,35 +46,35 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
 ## Teiginiai
 
 <a id="claim-t-78007"></a>
-- t-004
+- t-001
   global_id: t-78007
   teiginys: "1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“."
   pagrindžia:
     - c-75323
 
 <a id="claim-t-78008"></a>
-- t-003
+- t-002
   global_id: t-78008
   teiginys: "Iš bibliotekų buvo pašalintos Vinco Kudirkos, Maironio, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos bei tautinė literatūra."
   pagrindžia:
     - c-75324
 
 <a id="claim-t-78009"></a>
-- t-005
+- t-003
   global_id: t-78009
   teiginys: "Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Vinco Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius."
   pagrindžia:
     - c-75322
 
 <a id="claim-t-78010"></a>
-- t-001
+- t-004
   global_id: t-78010
   teiginys: "Vincas Kudirka iki mirties redagavo 1889 m. pradėtą leisti žurnalą „Varpas“, rašė poeziją ir sukūrė „Tautišką giesmę“."
   pagrindžia:
     - c-75326
 
 <a id="claim-t-78011"></a>
-- t-002
+- t-005
   global_id: t-78011
   teiginys: "Vinco Kudirkos poezija ir satyriniai apsakymai, pašiepiantys caro valdininkus, žadino lietuvių tautinę savimonę."
   pagrindžia:

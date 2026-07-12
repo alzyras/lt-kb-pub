@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - mokslininkas
   - sąvoka
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,7 +38,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
 ## Teiginiai
 
 <a id="claim-t-70357"></a>
-- t-002
+- t-001
   global_id: t-70357
   teiginys: "1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai."
   pagrindžia:

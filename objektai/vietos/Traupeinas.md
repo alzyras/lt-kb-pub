@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
     - c-59113
 
 <a id="claim-t-58483"></a>
-- t-003
+- t-002
   global_id: t-58483
   teiginys: "Traupeinas rodyklėje siejamas su vardais Tranpere, Traupeien, vėlesniu Troopen ir dabartiniais Tropais."
   pagrindžia:

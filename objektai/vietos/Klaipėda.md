@@ -67,252 +67,252 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
 ## Teiginiai
 
 <a id="claim-t-90672"></a>
-- t-027
+- t-001
   global_id: t-90672
   teiginys: "1939 m. kovo 23 d. Lietuva ir Vokietija pasirašė Klaipėdos teritorijos perdavimo sutartį."
   pagrindžia:
     - c-86486
 
 <a id="claim-t-90673"></a>
-- t-041
+- t-002
   global_id: t-90673
   teiginys: "Sovietmečiu daug rusakalbių apsigyveno Klaipėdoje, Vilniuje ir Sniečkuje, dabartiniame Visagine."
   pagrindžia:
     - c-86473
 
 <a id="claim-t-90674"></a>
-- t-040
+- t-003
   global_id: t-90674
   teiginys: "Praradusi Klaipėdą Lietuva neteko trečdalio ekonomikos, nors Klaipėda sudarė tik 6 proc. Lietuvos teritorijos ir 5 proc. gyventojų."
   pagrindžia:
     - c-86476
 
 <a id="claim-t-90676"></a>
-- t-025
+- t-004
   global_id: t-90676
   teiginys: "Klaipėdos integravimą sunkino tai, kad Klaipėdos krašto direktorija labiau klausė Vokietijos nurodymų."
   pagrindžia:
     - c-86472
 
 <a id="claim-t-90677"></a>
-- t-010
+- t-005
   global_id: t-90677
   teiginys: "Žemaičiai puolė Klaipėdą, o Ordinas nepajėgė priešintis ir rugsėjį sudarė paliaubas su Žygimantu."
   pagrindžia:
     - c-86471
 
 <a id="claim-t-90678"></a>
-- t-016
+- t-006
   global_id: t-90678
   teiginys: "Vytautas vėliau pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir į Užnemunę."
   pagrindžia:
     - c-86483
 
 <a id="claim-t-90679"></a>
-- t-026
+- t-007
   global_id: t-90679
   teiginys: "Vokiečių nacių organizacijoms stiprėjant, Klaipėda slydo iš Lietuvos kontrolės."
   pagrindžia:
     - c-86479
 
 <a id="claim-t-90680"></a>
-- t-045
+- t-008
   global_id: t-90680
   teiginys: "Nemunas prie Klaipėdos pilies ir miesto įteka į jūrą ir atskiria Prūsiją nuo Rusios, Lietuvos ir Kuršo."
   pagrindžia:
     - c-86485
 
 <a id="claim-t-90681"></a>
-- t-006
+- t-009
   global_id: t-90681
   teiginys: "1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai."
   pagrindžia:
     - c-43507
 
 <a id="claim-t-90682"></a>
-- t-039
+- t-010
   global_id: t-90682
   teiginys: "Britai iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, bet vėliau pasisakė už laisvojo miesto statusą."
   pagrindžia:
     - c-86470
 
 <a id="claim-t-90683"></a>
-- t-044
+- t-011
   global_id: t-90683
   teiginys: "1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis."
   pagrindžia:
     - c-86475
 
 <a id="claim-t-90685"></a>
-- t-046
+- t-012
   global_id: t-90685
   teiginys: "Klaipėdos apylinkėse prasidėjo kuršių gyvenama teritorija."
   pagrindžia:
     - c-86474
 
 <a id="claim-t-90686"></a>
-- t-037
+- t-013
   global_id: t-90686
   teiginys: "1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda."
   pagrindžia:
     - c-13419
 
 <a id="claim-t-90687"></a>
-- t-019
+- t-014
   global_id: t-90687
   teiginys: "Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų."
   pagrindžia:
     - c-86470
 
 <a id="claim-t-90688"></a>
-- t-017
+- t-015
   global_id: t-90688
   teiginys: "Lietuvos delegacija buvo instruktuota siekti išėjimo į jūrą per Klaipėdą arba Liepoją."
   pagrindžia:
     - c-86469
 
 <a id="claim-t-90681"></a>
-- t-006
+- t-016
   global_id: t-90681
   teiginys: "1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai."
   pagrindžia:
     - c-43507
 
 <a id="claim-t-90690"></a>
-- t-021
+- t-017
   global_id: t-90690
   teiginys: "1923 m. sausio 9 d. į Klaipėdą žygiavo 40 reguliariosios kariuomenės karininkų, 584 kariai, šauliai, studentai ir apie 300 vietinių gyventojų."
   pagrindžia:
     - c-86489
 
 <a id="claim-t-90691"></a>
-- t-024
+- t-018
   global_id: t-90691
   teiginys: "Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo."
   pagrindžia:
     - c-86466
 
 <a id="claim-t-90692"></a>
-- t-033
+- t-019
   global_id: t-90692
   teiginys: "Klaipėda atlaikė žemaičių puolimus."
   pagrindžia:
     - c-32135
 
 <a id="claim-t-90693"></a>
-- t-009
+- t-020
   global_id: t-90693
   teiginys: "Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės."
   pagrindžia:
     - c-86488
 
 <a id="claim-t-90694"></a>
-- t-007
+- t-021
   global_id: t-90694
   teiginys: "1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti žymiausių lietuvių karo pergalių pavadinimai."
   pagrindžia:
     - c-43507
 
 <a id="claim-t-90695"></a>
-- t-018
+- t-022
   global_id: t-90695
   teiginys: "Žoržo B. Klemanso rašte Prancūzija aiškino, kad Klaipėdos uostas yra vienintelis Lietuvos išėjimas į jūrą."
   pagrindžia:
     - c-86467
 
 <a id="claim-t-90696"></a>
-- t-030
+- t-023
   global_id: t-90696
   teiginys: "Klaipėda beveik aklinai uždarė Lietuvai išėjimą į jūrą, kai Prūsų ordinas XIII a. pabaigoje užvaldė Nemuno deltą."
   pagrindžia:
     - c-32132
 
 <a id="claim-t-90697"></a>
-- t-035
+- t-024
   global_id: t-90697
   teiginys: "Jogailos ir Vytauto atstovai teigė, kad kryžiuočiai buvo užėmę Žemaičių žemėje pastatytą Klaipėdos pilį."
   pagrindžia:
     - c-32137
 
 <a id="claim-t-90698"></a>
-- t-034
+- t-025
   global_id: t-90698
   teiginys: "Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui."
   pagrindžia:
     - c-32136
 
 <a id="claim-t-90699"></a>
-- t-031
+- t-026
   global_id: t-90699
   teiginys: "Žemaičiai, laikydami savo įtakoje pajūrio plotą, netrukus ėmė puldinėti Klaipėdą."
   pagrindžia:
     - c-32133
 
 <a id="claim-t-90702"></a>
-- t-038
+- t-027
   global_id: t-90702
   teiginys: "Makras sienų raporte į Žemaitijos ribas įskaitė ne tik Veliuoną, bet ir Klaipėdą."
   pagrindžia:
     - c-37462
 
 <a id="claim-t-90703"></a>
-- t-043
+- t-028
   global_id: t-90703
   teiginys: "Maskva grasino prijungti lietuvišką Klaipėdos kraštą prie RSFSR Kaliningrado srities."
   pagrindžia:
     - c-86484
 
 <a id="claim-t-90704"></a>
-- t-023
+- t-029
   global_id: t-90704
   teiginys: "Vilniaus ir Klaipėdos problemos laikytos dviem svarbiausiomis Lietuvos užsienio politikos problemomis."
   pagrindžia:
     - c-86481
 
 <a id="claim-t-90705"></a>
-- t-042
+- t-030
   global_id: t-90705
   teiginys: "1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, o liepos 6 d. – Klaipėdoje."
   pagrindžia:
     - c-86477
 
 <a id="claim-t-90706"></a>
-- t-008
+- t-031
   global_id: t-90706
   teiginys: "Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes."
   pagrindžia:
     - c-86488
 
 <a id="claim-t-90707"></a>
-- t-038
+- t-032
   global_id: t-90707
   teiginys: "Prūsijoje kai kurie uostai, tarp jų Klaipėda, šešeriems metams buvo palikti švedams."
   pagrindžia:
     - c-46536
 
 <a id="claim-t-90708"></a>
-- t-032
+- t-033
   global_id: t-90708
   teiginys: "1402 m. gegužę žemaičiai sudegino Klaipėdą, o Vytautas Nevėžio žiotyse sugriovė Gotteswerderį."
   pagrindžia:
     - c-32134
 
 <a id="claim-t-90709"></a>
-- t-022
+- t-034
   global_id: t-90709
   teiginys: "Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo."
   pagrindžia:
     - c-86468
 
 <a id="claim-t-90681"></a>
-- t-006
+- t-035
   global_id: t-90681
   teiginys: "1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai."
   pagrindžia:
     - c-43507
 
 <a id="claim-t-183786"></a>
-- t-047
+- t-036
   global_id: t-183786
   teiginys: "Iš Dobės (šiaurėje), Klaipėdos (vakaruose) ir Georgenburgo (pietuose) Ordinas bandė spausti vakarines lietuvių žemes."
   pagrindžia:

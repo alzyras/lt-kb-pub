@@ -41,7 +41,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
 ## Teiginiai
 
 <a id="claim-t-71336"></a>
-- t-007
+- t-001
   global_id: t-71336
   teiginys: "XIX a. Michailo Muravjovo Koriko laikais Lietuvoje nukentėjo perpus mažiau kunigų nei stalinizmo metais."
   pagrindžia:
@@ -49,28 +49,28 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
     - c-69927
 
 <a id="claim-t-71337"></a>
-- t-003
+- t-002
   global_id: t-71337
   teiginys: "Vilniaus karinės apygardos kariuomenės štabo ataskaitoje Michailui Muravjovui nurodyta, kad 128 sukilėliai nuteisti mirties bausme."
   pagrindžia:
     - c-69925
 
 <a id="claim-t-71338"></a>
-- t-006
+- t-003
   global_id: t-71338
   teiginys: "M. Muravjovo laikai XIX a. siejami su Koriko pravarde."
   pagrindžia:
     - c-69924
 
 <a id="claim-t-71339"></a>
-- t-001
+- t-004
   global_id: t-71339
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   pagrindžia:
     - c-69929
 
 <a id="claim-t-71340"></a>
-- t-002
+- t-005
   global_id: t-71340
   teiginys: "Naujasis generalgubernatorius Michailas Muravjovas, pramintas „Koriku“, siekdamas įbauginti Lietuvos gyventojus, įsakė karti sukilėlius."
   pagrindžia:

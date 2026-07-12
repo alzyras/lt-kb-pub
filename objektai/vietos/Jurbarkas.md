@@ -42,42 +42,42 @@ Po ilgų kovų jis pasistatė Nemuno pakrantėje Jurbarko pilį (1259 m.), kurio
 ## Teiginiai
 
 <a id="claim-t-83423"></a>
-- t-009
+- t-001
   global_id: t-83423
   teiginys: "Jurbarko pilis buvo sugriauta, todėl jos statytojas nebeturėjo ryšio su Klaipėdos pilimi."
   pagrindžia:
     - c-46510
 
 <a id="claim-t-83425"></a>
-- t-010
+- t-002
   global_id: t-83425
   teiginys: "Po Durbės pralaimėjimo Jurbarko pilis buvo sugriauta."
   pagrindžia:
     - c-46510
 
 <a id="claim-t-83426"></a>
-- t-004
+- t-003
   global_id: t-83426
   teiginys: "Apgriautos pilies plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti."
   pagrindžia:
     - c-79746
 
 <a id="claim-t-83427"></a>
-- t-008
+- t-004
   global_id: t-83427
   teiginys: "1259 m. prie Nemuno buvo pastatyta Jurbarko pilis, kurios žemaičiai neįstengė išgriauti."
   pagrindžia:
     - c-46509
 
 <a id="claim-t-83428"></a>
-- t-006
+- t-005
   global_id: t-83428
   teiginys: "Aprašomu metu apgriuvusios sienos ir bokštų plytos buvo renkamos ir pardavinėjamos į Jurbarką krosnims bei dūmtraukiams mūryti."
   pagrindžia:
     - c-79746
 
 <a id="claim-t-184965"></a>
-- t-007
+- t-006
   global_id: t-184965
   teiginys: "Gediminas su kariuomene buvo įrengęs stovyklą tarp Jurbarko ir Kauno."
   pagrindžia:

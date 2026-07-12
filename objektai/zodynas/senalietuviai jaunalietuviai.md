@@ -41,14 +41,14 @@ Būtent šią tradiciją šiandien priskiriame vadinamiesiems „senalietuviams�
 ## Teiginiai
 
 <a id="claim-t-26555"></a>
-- t-005
+- t-001
   global_id: t-26555
   teiginys: "XIX–XX a. sandūroje senalietuvių tradicijai pradėjo oponuoti jaunalietuviai, po poros dešimtmečių sukūrę Lietuvos Respubliką."
   pagrindžia:
     - c-26783
 
 <a id="claim-t-26556"></a>
-- t-006
+- t-002
   global_id: t-26556
   teiginys: "Nutautėjusioje Lietuvos dalyje kai kurie bajorai tebesivadino litvinais arba senalietuviais, bet dauguma jų integravosi į lenkų tautą."
   pagrindžia:

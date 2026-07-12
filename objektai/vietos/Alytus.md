@@ -42,77 +42,77 @@ Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siek
 ## Teiginiai
 
 <a id="claim-t-109066"></a>
-- t-020
+- t-001
   global_id: t-109066
   teiginys: "Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai."
   pagrindžia:
     - c-101170
 
 <a id="claim-t-109067"></a>
-- t-013
+- t-002
   global_id: t-109067
   teiginys: "1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava."
   pagrindžia:
     - c-24038
 
 <a id="claim-t-109068"></a>
-- t-017
+- t-003
   global_id: t-109068
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną."
   pagrindžia:
     - c-101173
 
 <a id="claim-t-109069"></a>
-- t-007
+- t-004
   global_id: t-109069
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną."
   pagrindžia:
     - c-43311
 
 <a id="claim-t-109072"></a>
-- t-016
+- t-005
   global_id: t-109072
   teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
   pagrindžia:
     - c-101165
 
 <a id="claim-t-109072"></a>
-- t-016
+- t-006
   global_id: t-109072
   teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
   pagrindžia:
     - c-101165
 
 <a id="claim-t-109073"></a>
-- t-015
+- t-007
   global_id: t-109073
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų."
   pagrindžia:
     - c-43311
 
 <a id="claim-t-109075"></a>
-- t-018
+- t-008
   global_id: t-109075
   teiginys: "Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
   pagrindžia:
     - c-101172
 
 <a id="claim-t-109076"></a>
-- t-008
+- t-009
   global_id: t-109076
   teiginys: "1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
   pagrindžia:
     - c-101168
 
 <a id="claim-t-109077"></a>
-- t-014
+- t-010
   global_id: t-109077
   teiginys: "Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą."
   pagrindžia:
     - c-31935
 
 <a id="claim-t-193761"></a>
-- t-021
+- t-011
   global_id: t-193761
   teiginys: "Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link."
   pagrindžia:

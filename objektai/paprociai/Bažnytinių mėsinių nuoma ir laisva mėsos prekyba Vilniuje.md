@@ -51,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87139"></a>
-- t-002
+- t-001
   global_id: t-87139
   teiginys: "Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų."
   pagrindžia:

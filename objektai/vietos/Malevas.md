@@ -29,14 +29,14 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
 ## Teiginiai
 
 <a id="claim-t-187259"></a>
-- t-002
+- t-001
   global_id: t-187259
   teiginys: "Malevas yra apie 18 km į šiaurę nuo Klecko."
   pagrindžia:
     - c-170316
 
 <a id="claim-t-187260"></a>
-- t-001
+- t-002
   global_id: t-187260
   teiginys: "Malevas yra kaimas pietiniame, kairiajame Ušos upės krante."
   pagrindžia:

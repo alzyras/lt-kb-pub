@@ -40,14 +40,14 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
     - c-45192
 
 <a id="claim-t-41882"></a>
-- t-003
+- t-002
   global_id: t-41882
   teiginys: "V. Gosievskis sudegintame Lojeve užėmė patogias pozicijas ir įsakė supilti pylimą Podobailos stovyklai apšaudyti."
   pagrindžia:
     - c-43599
 
 <a id="claim-t-183793"></a>
-- t-004
+- t-003
   global_id: t-183793
   teiginys: "Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link."
   pagrindžia:

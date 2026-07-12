@@ -9,6 +9,7 @@ tags:
   - asmuo
   - karas
   - tikėjimas
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,14 +39,14 @@ Dusburgietis teigia, kad apie Karaliaučiaus brolių karą su sembais antrosios 
     - c-85898
 
 <a id="claim-t-89994"></a>
-- t-003
+- t-002
   global_id: t-89994
   teiginys: "Noliubas pabėgo į Ziokos valsčių, o vėliau, dažnų antpuolių nukamuotas, priėmė tikėjimą."
   pagrindžia:
     - c-85899
 
 <a id="claim-t-89995"></a>
-- t-002
+- t-003
   global_id: t-89995
   teiginys: "Dažnų antpuolių nukamuotas Noliubas ilgainiui priėmė tikėjimą ir, Dusburgiečio vertinimu, tapo pagirtinu žmogumi."
   pagrindžia:

@@ -40,14 +40,14 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
 ## Teiginiai
 
 <a id="claim-t-58421"></a>
-- t-003
+- t-001
   global_id: t-58421
   teiginys: "Vonsdorfas buvo suvokietintas Dusburgiečio minimo Unzatrapio pavadinimas."
   pagrindžia:
     - c-59054
 
 <a id="claim-t-58422"></a>
-- t-001
+- t-002
   global_id: t-58422
   teiginys: "Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę."
   pagrindžia:

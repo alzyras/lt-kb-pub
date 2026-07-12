@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67095"></a>
-- t-002
+- t-001
   global_id: t-67095
   teiginys: "JAV lietuviai leido laikraščius, kūrė chorus, finansiškai rėmė Lietuvos kultūrinį gyvenimą ir rengė politines akcijas."
   pagrindžia:
     - c-67131
 
 <a id="claim-t-67096"></a>
-- t-003
+- t-002
   global_id: t-67096
   teiginys: "1910 m. JAV gyveno 207 tūkst. lietuvių, kurie kūrė spaudą, draugijas ir organizacijas, chorų veiklą bei politines akcijas."
   pagrindžia:
     - c-67132
 
 <a id="claim-t-67097"></a>
-- t-001
+- t-003
   global_id: t-67097
   teiginys: "JAV lietuviai leido lietuviškus laikraščius, kūrė chorus, rėmė Lietuvos kultūrą ir rengė politines akcijas."
   pagrindžia:

@@ -38,28 +38,28 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
 ## Teiginiai
 
 <a id="claim-t-58785"></a>
-- t-003
+- t-001
   global_id: t-58785
   teiginys: "Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė."
   pagrindžia:
     - c-59420
 
 <a id="claim-t-58786"></a>
-- t-001
+- t-002
   global_id: t-58786
   teiginys: "Prūsų pilaitė prie Wildenbergo aiškinama kaip buvusi greta vėlesnės Marienburgo pilies arba jos vietoje."
   pagrindžia:
     - c-59419
 
 <a id="claim-t-58787"></a>
-- t-007
+- t-003
   global_id: t-58787
   teiginys: "Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus."
   pagrindžia:
     - c-59422
 
 <a id="claim-t-58788"></a>
-- t-006
+- t-004
   global_id: t-58788
   teiginys: "Prūsai aplink Bartenšteino pilį įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   pagrindžia:
@@ -73,28 +73,28 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
     - c-59423
 
 <a id="claim-t-58790"></a>
-- t-004
+- t-006
   global_id: t-58790
   teiginys: "Karaliaučiaus, Kroicburgo ir Bartenšteino pilys buvo apsuptos trimis stipriais kuorais, kad apsuptieji negalėtų įeiti ar išeiti."
   pagrindžia:
     - c-59418
 
 <a id="claim-t-184006"></a>
-- t-008
+- t-007
   global_id: t-184006
   teiginys: "Gubučiai Varmės žemėje pastatė Partigalos pilį ir kuorą Skrando kalne, sustiprindami jį įvairiais kariais."
   pagrindžia:
     - c-167391
 
 <a id="claim-t-58788"></a>
-- t-006
+- t-008
   global_id: t-58788
   teiginys: "Prūsai aplink Bartenšteino pilį įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   pagrindžia:
     - c-59417
 
 <a id="claim-t-194455"></a>
-- t-010
+- t-009
   global_id: t-194455
   teiginys: "Apie Bartenšteino pilies puolimą Bartenšteino pilyje buvo apsupta 400 [karių] — brolių ir ginklanešių; aplink pilį prūsai įrengė tris kuorus, kuriuose nuolat laikė 1300 įgudusių kariauti vyrų."
   pagrindžia:

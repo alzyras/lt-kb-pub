@@ -27,14 +27,14 @@ Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai už�
 ## Teiginiai
 
 <a id="claim-t-191323"></a>
-- t-002
+- t-001
   global_id: t-191323
   teiginys: "Pasak Teodoro Narbuto, Suroveckis teigė, kad VI amžiaus pradžioje slavai užėmė budinų kraštus dešiniajame Vyslos krante."
   pagrindžia:
     - c-174205
 
 <a id="claim-t-191983"></a>
-- t-003
+- t-002
   global_id: t-191983
   teiginys: "Teodoro Narbuto vertinimu, Suroveckis gerai aiškino, kad venedų srityse buvo seniausios slavų gyvenamosios vietos."
   pagrindžia:

@@ -43,14 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07816"></a>
-- t-004
+- t-001
   global_id: t-07816
   teiginys: "Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas."
   pagrindžia:
     - c-09975
 
 <a id="claim-t-07817"></a>
-- t-003
+- t-002
   global_id: t-07817
   teiginys: "Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle."
   pagrindžia:

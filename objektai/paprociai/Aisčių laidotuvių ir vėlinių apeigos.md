@@ -57,7 +57,7 @@ Nenurodyta
     - c-174967
 
 <a id="claim-t-12418"></a>
-- t-006
+- t-002
   global_id: t-12418
   teiginys: "Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus."
   pagrindžia:
@@ -85,14 +85,14 @@ Nenurodyta
     - c-14479
 
 <a id="claim-t-192100"></a>
-- t-002
+- t-006
   global_id: t-192100
   teiginys: "Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes."
   pagrindžia:
     - c-05407
 
 <a id="claim-t-192508"></a>
-- t-008
+- t-007
   global_id: t-192508
   teiginys: "Narbutas, remdamasis Nestoro išsaugotu gyvenimo paveikslu, rašo, kad krivičiai degindavo mirusiuosius ir laidotuvėse rengdavo turnyrus."
   pagrindžia:

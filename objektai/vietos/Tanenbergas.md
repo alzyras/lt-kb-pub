@@ -33,14 +33,14 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 ## Teiginiai
 
 <a id="claim-t-186422"></a>
-- t-002
+- t-001
   global_id: t-186422
   teiginys: "Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi."
   pagrindžia:
     - c-169760
 
 <a id="claim-t-193235"></a>
-- t-003
+- t-002
   global_id: t-193235
   teiginys: "Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr."
   pagrindžia:

@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - karalius
   - miestas
-  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -30,28 +30,28 @@ Besirengdamas žygiui į Sarajų, Aukso ordos chanas Timūr-Kutlukas atsiuntė s
 ## Teiginiai
 
 <a id="claim-t-186382"></a>
-- t-003
+- t-001
   global_id: t-186382
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad Tochtamišo neišduos ir su Timūr-Kutluku nori matytis pats."
   pagrindžia:
     - c-169740
 
 <a id="claim-t-186383"></a>
-- t-004
+- t-002
   global_id: t-186383
   teiginys: "Vytautas pareiškė, kad caro Tochtamišo neišduos, o su caru Timūr-Kutluku nori susitikti pats."
   pagrindžia:
     - c-169740
 
 <a id="claim-t-186384"></a>
-- t-002
+- t-003
   global_id: t-186384
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats susitikti su Timūr-Kutluku."
   pagrindžia:
     - c-169740
 
 <a id="claim-t-186385"></a>
-- t-001
+- t-004
   global_id: t-186385
   teiginys: "Vytautas atsakė Timūr-Kutluko pasiuntiniams, kad neišduos Tochtamišo ir nori pats matytis su Timūr-Kutluku."
   pagrindžia:

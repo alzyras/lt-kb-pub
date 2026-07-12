@@ -59,7 +59,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64966"></a>
-- t-002
+- t-001
   global_id: t-64966
   teiginys: "Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr."
   pagrindžia:

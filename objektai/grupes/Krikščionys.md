@@ -31,35 +31,35 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
 ## Teiginiai
 
 <a id="claim-t-07840"></a>
-- t-002
+- t-001
   global_id: t-07840
   teiginys: "Krikščionys kardu vertė lietuvius, kalnėnus ir žemaičius krikštytis ir siekė juos pavergti."
   pagrindžia:
     - c-10073
 
 <a id="claim-t-184481"></a>
-- t-003
+- t-002
   global_id: t-184481
   teiginys: "Po ilgai trukusio atkaklaus mūšio krikščionys buvo sumušti, o jų kilmingieji pateko į nelaisvę arba žuvo."
   pagrindžia:
     - c-167842
 
 <a id="claim-t-184482"></a>
-- t-004
+- t-003
   global_id: t-184482
   teiginys: "Kojelavičiaus vertinimu, prislėgti krikščionys lengviau atsikvėpė tik dėl vidaus nesantarvės, palaužusios kylančią stabmeldžių galią."
   pagrindžia:
     - c-167843
 
 <a id="claim-t-184483"></a>
-- t-005
+- t-004
   global_id: t-184483
   teiginys: "Popiežiaus ediktas kvietė krikščionis į šventąjį karą prieš stabmeldžius, žadėdamas nuodėmių atleidimą."
   pagrindžia:
     - c-167844
 
 <a id="claim-t-184484"></a>
-- t-006
+- t-005
   global_id: t-184484
   teiginys: "Gediminas nenorėjo priimti krikščionybės ar sudaryti sutarties su krikščionimis, todėl nutraukė pradėtas derybas."
   pagrindžia:

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Voldemaru tapo atsargesni – derybos sustojo, o 1928 m. Lietuvos konstitucijoje
 ## Teiginiai
 
 <a id="claim-t-21122"></a>
-- t-002
+- t-001
   global_id: t-21122
   teiginys: "1928 m. Lietuvos Konstitucija įteisino Antano Smetonos viršenybę prieš Seimą ir teisę leisti įstatymus."
   pagrindžia:
     - c-166765
 
 <a id="claim-t-21123"></a>
-- t-001
+- t-002
   global_id: t-21123
   teiginys: "1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius."
   pagrindžia:

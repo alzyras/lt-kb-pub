@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - posakis
   - tikėjimas
 media_total_count: '0'

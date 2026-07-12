@@ -40,49 +40,49 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 ## Teiginiai
 
 <a id="claim-t-172067"></a>
-- t-004
+- t-001
   global_id: t-172067
   teiginys: "Tūkstančiui rinktinių anglų lankininkų, išsilaipinusių Gdansko uoste, vadovavo Derbio grafas Henrikas."
   pagrindžia:
     - c-156497
 
 <a id="claim-t-172069"></a>
-- t-010
+- t-002
   global_id: t-172069
   teiginys: "Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje."
   pagrindžia:
     - c-156494
 
 <a id="claim-t-172070"></a>
-- t-009
+- t-003
   global_id: t-172070
   teiginys: "Anglų lankininkų narsa ir mūšiuose įgytas sumanumas prisidėjo prie Lietuvos patirtų smūgių Vilniaus apgultyje."
   pagrindžia:
     - c-156496
 
 <a id="claim-t-172071"></a>
-- t-006
+- t-004
   global_id: t-172071
   teiginys: "Anglų lankininkų narsa ir sumanumas kartu su patrankų poveikiu lėmė didžiausius Lietuvos smūgius."
   pagrindžia:
     - c-156496
 
 <a id="claim-t-172072"></a>
-- t-003
+- t-005
   global_id: t-172072
   teiginys: "Rugpjūtį į Prūsiją atvykę savanoriai iš Anglijos ir Prancūzijos norėjo kariauti su pagonimis."
   pagrindžia:
     - c-156499
 
 <a id="claim-t-172073"></a>
-- t-007
+- t-006
   global_id: t-172073
   teiginys: "Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis."
   pagrindžia:
     - c-156499
 
 <a id="claim-t-172074"></a>
-- t-002
+- t-007
   global_id: t-172074
   teiginys: "Anglai buvo sutartiniai prekybos partneriai, kuriems leista gyventi ir prekiauti Žemaičiuose bei Kalne."
   pagrindžia:
@@ -90,7 +90,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
     - c-10106
 
 <a id="claim-t-172075"></a>
-- t-005
+- t-008
   global_id: t-172075
   teiginys: "Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila."
   pagrindžia:
@@ -169,6 +169,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - susijęs iš [[objektai/zodynas/bombarda.md#claim-t-86584|bombarda]]: Bombarda buvo Vokietijoje neseniai išrastas ir Lietuvoje dar nežinomas šaunamasis ginklas.
 - susijęs iš [[objektai/zodynas/didysis magistras.md#claim-t-113618|didysis magistras]]: Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta.
 - susijęs iš [[objektai/zodynas/prūsiškos grivenos.md#claim-t-86612|prūsiškos grivenos]]: 1392 m. Kauno iškilmių parengimas ir žygio išlaidos, pasak metraštininkų, siekė beveik 500 000 prūsiškų grivenų.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 - susijęs iš [[objektai/asmenys/Vilhelmas Douglas.md#claim-t-87882|Vilhelmas Douglas]]: Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.
 ## Reikšmingi paminėjimai
 

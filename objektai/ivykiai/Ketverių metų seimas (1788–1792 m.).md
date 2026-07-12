@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78619"></a>
-- t-004
+- t-001
   global_id: t-78619
   teiginys: "1787 m. Kaneve Kotryna ir Stanislovas Augustas sutarė, kad kitų metų seime karalius sieks Respublikos paramos Rusijai kare su turkais."
   pagrindžia:
     - c-75849
 
 <a id="claim-t-78620"></a>
-- t-005
+- t-002
   global_id: t-78620
   teiginys: "Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato."
   pagrindžia:

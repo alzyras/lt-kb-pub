@@ -10,7 +10,8 @@ date_start: '1569'
 date_end: '1572'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

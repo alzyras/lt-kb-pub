@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67035"></a>
-- t-005
+- t-001
   global_id: t-67035
   teiginys: "MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
   pagrindžia:
     - c-12363
 
 <a id="claim-t-67036"></a>
-- t-007
+- t-002
   global_id: t-67036
   teiginys: "Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę."
   pagrindžia:
     - c-12365
 
 <a id="claim-t-67037"></a>
-- t-006
+- t-003
   global_id: t-67037
   teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
   pagrindžia:

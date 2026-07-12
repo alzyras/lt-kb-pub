@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - šeima
 amziai:
   - 'XIX'
 media_total_count: '0'

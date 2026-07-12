@@ -58,35 +58,35 @@ Bonaventūras Milevskis Jučo aprašyme minimas kaip pusbernis, kuris Burokų dv
 ## Teiginiai
 
 <a id="claim-t-187905"></a>
-- t-004
+- t-001
   global_id: t-187905
   teiginys: "Jučo aprašyme Bonaventūras Milevskis 1836 m. gegužę ardamas žemę Burokų dvare iškasė figūrą."
   pagrindžia:
     - c-170888
 
 <a id="claim-t-187906"></a>
-- t-003
+- t-002
   global_id: t-187906
   teiginys: "Jučo aprašyme Bonaventūras Milevskis vadinamas pusberniu."
   pagrindžia:
     - c-170888
 
 <a id="claim-t-188519"></a>
-- t-005
+- t-003
   global_id: t-188519
   teiginys: "Bonaventūras Milevskis, ardamas žemę Burokų dvare netoli Kražių, 1836 m. gegužę iškasė figūrą."
   pagrindžia:
     - c-170888
 
 <a id="claim-t-190849"></a>
-- t-006
+- t-004
   global_id: t-190849
   teiginys: "1836 m. gegužę Burokų dvare pusbernis Bonaventūras Milevskis, ardamas žemę, iškasė dievuko figūrą."
   pagrindžia:
     - c-173731
 
 <a id="claim-t-194698"></a>
-- t-007
+- t-005
   global_id: t-194698
   teiginys: "Tuo metu Burokų dvare, priklausančiame Jo Kilnybei maršalkai Ju cevičiui, esančiame už 10 varstų nuo Kražių, pusbernis Bonaventū ras Milevskis, ardamas žemę, iškasė tą figūrą."
   pagrindžia:

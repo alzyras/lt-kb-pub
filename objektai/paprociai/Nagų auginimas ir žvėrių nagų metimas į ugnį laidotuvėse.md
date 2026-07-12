@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07795"></a>
-- t-002
+- t-001
   global_id: t-07795
   teiginys: "Degindami mirusiuosius į ugnį mėtydavo meškos ir lūšies nagus, o kai kurie prieš mirtį augino nagus, kad galėtų įsikibti kopdami į dangų."
   pagrindžia:

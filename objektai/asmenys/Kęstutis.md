@@ -51,21 +51,21 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 ## Teiginiai
 
 <a id="claim-t-05188"></a>
-- t-008
+- t-001
   global_id: t-05188
   teiginys: "Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais."
   pagrindžia:
     - c-160530
 
 <a id="claim-t-05189"></a>
-- t-009
+- t-002
   global_id: t-05189
   teiginys: "1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje."
   pagrindžia:
     - c-160525
 
 <a id="claim-t-05191"></a>
-- t-011
+- t-003
   global_id: t-05191
   teiginys: "Kęstutis gyvenimą baigė kalėjime, o ne kautynių lauke."
   pagrindžia:
@@ -73,7 +73,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-21848
 
 <a id="claim-t-10092"></a>
-- t-014
+- t-004
   global_id: t-10092
   teiginys: "Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m."
   pagrindžia:
@@ -81,217 +81,217 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-160517
 
 <a id="claim-t-10688"></a>
-- t-038
+- t-005
   global_id: t-10688
   teiginys: "Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų."
   pagrindžia:
     - c-00156
 
 <a id="claim-t-10689"></a>
-- t-039
+- t-006
   global_id: t-10689
   teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
   pagrindžia:
     - c-160518
 
 <a id="claim-t-10692"></a>
-- t-040
+- t-007
   global_id: t-10692
   teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
   pagrindžia:
     - c-160524
 
 <a id="claim-t-10693"></a>
-- t-041
+- t-008
   global_id: t-10693
   teiginys: "Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas."
   pagrindžia:
     - c-160519
 
 <a id="claim-t-176515"></a>
-- t-032
+- t-009
   global_id: t-176515
   teiginys: "Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui."
   pagrindžia:
     - c-160538
 
 <a id="claim-t-176516"></a>
-- t-031
+- t-010
   global_id: t-176516
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei."
   pagrindžia:
     - c-160536
 
 <a id="claim-t-176517"></a>
-- t-037
+- t-011
   global_id: t-176517
   teiginys: "Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas."
   pagrindžia:
     - c-160516
 
 <a id="claim-t-176518"></a>
-- t-033
+- t-012
   global_id: t-176518
   teiginys: "1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį."
   pagrindžia:
     - c-160527
 
 <a id="claim-t-176519"></a>
-- t-036
+- t-013
   global_id: t-176519
   teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   pagrindžia:
     - c-160521
 
 <a id="claim-t-176520"></a>
-- t-027
+- t-014
   global_id: t-176520
   teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
   pagrindžia:
     - c-160535
 
 <a id="claim-t-176523"></a>
-- t-026
+- t-015
   global_id: t-176523
   teiginys: "Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį."
   pagrindžia:
     - c-160523
 
 <a id="claim-t-176524"></a>
-- t-030
+- t-016
   global_id: t-176524
   teiginys: "Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo."
   pagrindžia:
     - c-160515
 
 <a id="claim-t-176525"></a>
-- t-040
+- t-017
   global_id: t-176525
   teiginys: "Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo."
   pagrindžia:
     - c-160537
 
 <a id="claim-t-176528"></a>
-- t-017
+- t-018
   global_id: t-176528
   teiginys: "Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių."
   pagrindžia:
     - c-160520
 
 <a id="claim-t-176529"></a>
-- t-016
+- t-019
   global_id: t-176529
   teiginys: "Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį."
   pagrindžia:
     - c-160531
 
 <a id="claim-t-176530"></a>
-- t-018
+- t-020
   global_id: t-176530
   teiginys: "Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu."
   pagrindžia:
     - c-160533
 
 <a id="claim-t-176531"></a>
-- t-029
+- t-021
   global_id: t-176531
   teiginys: "Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
   pagrindžia:
     - c-160534
 
 <a id="claim-t-176534"></a>
-- t-015
+- t-022
   global_id: t-176534
   teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
   pagrindžia:
     - c-160520
 
 <a id="claim-t-176534"></a>
-- t-015
+- t-023
   global_id: t-176534
   teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
   pagrindžia:
     - c-160520
 
 <a id="claim-t-184761"></a>
-- t-041
+- t-024
   global_id: t-184761
   teiginys: "Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju."
   pagrindžia:
     - c-168122
 
 <a id="claim-t-184762"></a>
-- t-042
+- t-025
   global_id: t-184762
   teiginys: "Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis."
   pagrindžia:
     - c-168123
 
 <a id="claim-t-184763"></a>
-- t-043
+- t-026
   global_id: t-184763
   teiginys: "Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui."
   pagrindžia:
     - c-168124
 
 <a id="claim-t-184764"></a>
-- t-044
+- t-027
   global_id: t-184764
   teiginys: "Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą."
   pagrindžia:
     - c-168125
 
 <a id="claim-t-184765"></a>
-- t-045
+- t-028
   global_id: t-184765
   teiginys: "Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas."
   pagrindžia:
     - c-168126
 
 <a id="claim-t-184766"></a>
-- t-046
+- t-029
   global_id: t-184766
   teiginys: "Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes."
   pagrindžia:
     - c-168127
 
 <a id="claim-t-184767"></a>
-- t-047
+- t-030
   global_id: t-184767
   teiginys: "Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas."
   pagrindžia:
     - c-168128
 
 <a id="claim-t-184768"></a>
-- t-048
+- t-031
   global_id: t-184768
   teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas."
   pagrindžia:
     - c-168129
 
 <a id="claim-t-184769"></a>
-- t-049
+- t-032
   global_id: t-184769
   teiginys: "Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją."
   pagrindžia:
     - c-168130
 
 <a id="claim-t-184770"></a>
-- t-050
+- t-033
   global_id: t-184770
   teiginys: "Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus."
   pagrindžia:
     - c-168131
 
 <a id="claim-t-184771"></a>
-- t-051
+- t-034
   global_id: t-184771
   teiginys: "Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi."
   pagrindžia:
     - c-168132
 
 <a id="claim-t-184772"></a>
-- t-052
+- t-035
   global_id: t-184772
   teiginys: "Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   pagrindžia:
@@ -319,35 +319,35 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - c-171465
 
 <a id="claim-t-193947"></a>
-- t-053
+- t-039
   global_id: t-193947
   teiginys: "O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje."
   pagrindžia:
     - c-176572
 
 <a id="claim-t-193948"></a>
-- t-054
+- t-040
   global_id: t-193948
   teiginys: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil niaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
   pagrindžia:
     - c-176573
 
 <a id="claim-t-193949"></a>
-- t-055
+- t-041
   global_id: t-193949
   teiginys: "Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką."
   pagrindžia:
     - c-176574
 
 <a id="claim-t-193950"></a>
-- t-056
+- t-042
   global_id: t-193950
   teiginys: "1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra."
   pagrindžia:
     - c-176575
 
 <a id="claim-t-194947"></a>
-- t-057
+- t-043
   global_id: t-194947
   teiginys: "Kęstutis vėliau taip pasižymėjo."
   pagrindžia:

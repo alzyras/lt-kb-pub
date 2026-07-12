@@ -41,7 +41,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
 ## Teiginiai
 
 <a id="claim-t-90731"></a>
-- t-003
+- t-001
   global_id: t-90731
   teiginys: "Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos."
   pagrindžia:
@@ -55,28 +55,28 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
     - c-86511
 
 <a id="claim-t-90733"></a>
-- t-001
+- t-003
   global_id: t-90733
   teiginys: "Kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors šis įvykis aprašomas po vėlesnių pilių statybos epizodų."
   pagrindžia:
     - c-86512
 
 <a id="claim-t-90734"></a>
-- t-005
+- t-004
   global_id: t-90734
   teiginys: "1263 m. notangai trejus metus puolė apsuptą Kroicburgo pilį, o maisto pristigę broliai naktį slapta iš jos pasitraukė."
   pagrindžia:
     - c-86510
 
 <a id="claim-t-90735"></a>
-- t-006
+- t-005
   global_id: t-90735
   teiginys: "Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių."
   pagrindžia:
     - c-86514
 
 <a id="claim-t-90736"></a>
-- t-004
+- t-006
   global_id: t-90736
   teiginys: "Prūsai apgulė Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, kiekvieną apsupdami trimis stipriais kuorais."
   pagrindžia:

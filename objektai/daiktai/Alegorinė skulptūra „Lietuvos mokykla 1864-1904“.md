@@ -67,7 +67,7 @@ Nenurodyta
     - c-22218
 
 <a id="claim-t-45465"></a>
-- t-001
+- t-002
   global_id: t-45465
   teiginys: "Alegorinė skulptūra „Lietuvos mokykla 1864–1904“ vaizduoja švietimą lietuvių kalba Rusijos imperijos priespaudos laikais."
   pagrindžia:

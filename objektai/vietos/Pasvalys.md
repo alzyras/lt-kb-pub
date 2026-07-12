@@ -39,14 +39,14 @@ Zigmantas Augustas, surinkęs didelę lietuvių ir lenkų kariuomenę, išsiruo�
 ## Teiginiai
 
 <a id="claim-t-171948"></a>
-- t-004
+- t-001
   global_id: t-171948
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
   pagrindžia:
     - c-156401
 
 <a id="claim-t-183070"></a>
-- t-005
+- t-002
   global_id: t-183070
   teiginys: "Zigmantas Augustas su didele lietuvių ir lenkų kariuomene išsiruošė į žygį ir sustojo Pasvalyje."
   pagrindžia:

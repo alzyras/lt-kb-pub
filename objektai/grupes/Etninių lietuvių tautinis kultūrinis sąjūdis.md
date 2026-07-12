@@ -43,21 +43,21 @@ Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu
 ## Teiginiai
 
 <a id="claim-t-65147"></a>
-- t-002
+- t-001
   global_id: t-65147
   teiginys: "Vilniaus universiteto aplinkoje susibūrę Žemaitijos inteligentai plėtojo aukštąją kultūrą lietuvių ir žemaičių kalba."
   pagrindžia:
     - c-65623
 
 <a id="claim-t-183125"></a>
-- t-003
+- t-002
   global_id: t-183125
   teiginys: "Etninių lietuvių tautinis kultūrinis sąjūdis prasidėjo po bajorų bandymų atkurti prarastą valstybę per Napoleono karus ir sukilimus."
   pagrindžia:
     - c-166510
 
 <a id="claim-t-183126"></a>
-- t-004
+- t-003
   global_id: t-183126
   teiginys: "Simono Daukanto ir Simono Stanevičiaus aplinkos inteligentai laikomi etninių lietuvių tautinio kultūrinio sąjūdžio pradininkais."
   pagrindžia:

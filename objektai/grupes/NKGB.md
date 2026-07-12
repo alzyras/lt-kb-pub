@@ -66,28 +66,28 @@ Sovietinė valstybės saugumo ir represinė struktūra.
 ## Teiginiai
 
 <a id="claim-t-65923"></a>
-- t-007
+- t-001
   global_id: t-65923
   teiginys: "NKVD ir NKGB skyriai visose apskrityse koordinavo baudžiamąsias operacijas, gaudynes, tardymus ir agentų verbavimą."
   pagrindžia:
     - c-26830
 
 <a id="claim-t-65924"></a>
-- t-009
+- t-002
   global_id: t-65924
   teiginys: "Tigras pirmaisiais šūviais nukovė tris NKGB dalinio vadus: kapitoną Kruglovą, leitenantą Marcinkevičių ir dar vieną rusų karininką."
   pagrindžia:
     - c-42877
 
 <a id="claim-t-65925"></a>
-- t-006
+- t-003
   global_id: t-65925
   teiginys: "Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros."
   pagrindžia:
     - c-26829
 
 <a id="claim-t-65926"></a>
-- t-008
+- t-004
   global_id: t-65926
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   pagrindžia:

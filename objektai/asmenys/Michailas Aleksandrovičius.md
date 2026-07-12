@@ -40,21 +40,21 @@ Jos kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą ir Lietuvos va
 ## Teiginiai
 
 <a id="claim-t-79107"></a>
-- t-002
+- t-001
   global_id: t-79107
   teiginys: "1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą."
   pagrindžia:
     - c-76196
 
 <a id="claim-t-79108"></a>
-- t-001
+- t-002
   global_id: t-79108
   teiginys: "Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą."
   pagrindžia:
     - c-76198
 
 <a id="claim-t-79107"></a>
-- t-002
+- t-003
   global_id: t-79107
   teiginys: "1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą."
   pagrindžia:

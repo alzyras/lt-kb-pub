@@ -30,14 +30,14 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 ## Teiginiai
 
 <a id="claim-t-41996"></a>
-- t-002
+- t-001
   global_id: t-41996
   teiginys: "Kalmantavičiaus-Bajoro vadovaujama sukilėlių grupė be pasipriešinimo užėmė Pagėgius."
   pagrindžia:
     - c-45254
 
 <a id="claim-t-41997"></a>
-- t-001
+- t-002
   global_id: t-41997
   teiginys: "Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių."
   pagrindžia:

@@ -38,14 +38,14 @@ Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus 
 ## Teiginiai
 
 <a id="claim-t-22012"></a>
-- t-002
+- t-001
   global_id: t-22012
   teiginys: "Pereinant iš planinės ekonomikos, Lietuvoje lėtai steigtos privačios žemės ūkio ir pramonės įmonės, daugiausia orientuotos į Vakarų rinką."
   pagrindžia:
     - c-24696
 
 <a id="claim-t-22013"></a>
-- t-001
+- t-002
   global_id: t-22013
   teiginys: "Planinės ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad perėmus gamybą ją bus galima paskirstyti pagal poreikius."
   pagrindžia:

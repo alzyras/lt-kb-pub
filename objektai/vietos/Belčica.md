@@ -36,28 +36,28 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
 ## Teiginiai
 
 <a id="claim-t-187165"></a>
-- t-004
+- t-001
   global_id: t-187165
   teiginys: "Belčicoje buvo vyrų vienuolynas, įkurtas XI ir XII a. riboje."
   pagrindžia:
     - c-170262
 
 <a id="claim-t-187166"></a>
-- t-001
+- t-002
   global_id: t-187166
   teiginys: "Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką."
   pagrindžia:
     - c-170261
 
 <a id="claim-t-187167"></a>
-- t-002
+- t-003
   global_id: t-187167
   teiginys: "Belčica yra upelis prie Polocko, iš pietų įtekantis į Dauguvą."
   pagrindžia:
     - c-170261
 
 <a id="claim-t-187168"></a>
-- t-003
+- t-004
   global_id: t-187168
   teiginys: "Belčicos vyrų vienuolynas, įkurtas XI ir XII a. sandūroje, XII a. turėjo keturias Boriso ir Glebo cerkves."
   pagrindžia:

@@ -44,91 +44,91 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
 ## Teiginiai
 
 <a id="claim-t-172865"></a>
-- t-005
+- t-001
   global_id: t-172865
   teiginys: "J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama."
   pagrindžia:
     - c-13011
 
 <a id="claim-t-172866"></a>
-- t-016
+- t-002
   global_id: t-172866
   teiginys: "J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje."
   pagrindžia:
     - c-157232
 
 <a id="claim-t-172867"></a>
-- t-008
+- t-003
   global_id: t-172867
   teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais."
   pagrindžia:
     - c-42415
 
 <a id="claim-t-172868"></a>
-- t-015
+- t-004
   global_id: t-172868
   teiginys: "Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą."
   pagrindžia:
     - c-56037
 
 <a id="claim-t-172869"></a>
-- t-010
+- t-005
   global_id: t-172869
   teiginys: "J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių."
   pagrindžia:
     - c-42417
 
 <a id="claim-t-172870"></a>
-- t-014
+- t-006
   global_id: t-172870
   teiginys: "J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų."
   pagrindžia:
     - c-157234
 
 <a id="claim-t-172873"></a>
-- t-009
+- t-007
   global_id: t-172873
   teiginys: "J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti."
   pagrindžia:
     - c-42416
 
 <a id="claim-t-172877"></a>
-- t-013
+- t-008
   global_id: t-172877
   teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
   pagrindžia:
     - c-157237
 
 <a id="claim-t-172875"></a>
-- t-011
+- t-009
   global_id: t-172875
   teiginys: "J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį."
   pagrindžia:
     - c-157233
 
 <a id="claim-t-172876"></a>
-- t-006
+- t-010
   global_id: t-172876
   teiginys: "Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes."
   pagrindžia:
     - c-13013
 
 <a id="claim-t-172877"></a>
-- t-013
+- t-011
   global_id: t-172877
   teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
   pagrindžia:
     - c-157237
 
 <a id="claim-t-172878"></a>
-- t-017
+- t-012
   global_id: t-172878
   teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais."
   pagrindžia:
     - c-42415
 
 <a id="claim-t-184606"></a>
-- t-021
+- t-013
   global_id: t-184606
   teiginys: "Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto."
   pagrindžia:
@@ -149,7 +149,7 @@ J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje j
     - c-171304
 
 <a id="claim-t-190732"></a>
-- t-022
+- t-016
   global_id: t-190732
   teiginys: "„Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta."
   pagrindžia:

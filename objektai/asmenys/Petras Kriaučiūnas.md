@@ -39,7 +39,7 @@ Iš jų išėjo tokie lietuvių veikėjai, kaip Jonas Užupys, Petras Kriaučiū
 ## Teiginiai
 
 <a id="claim-t-75995"></a>
-- t-003
+- t-001
   global_id: t-75995
   teiginys: "Petras Kriaučiūnas 1912 m. Vilniuje dalyvavo Lietuvių mokslo draugijos suvažiavime."
   pagrindžia:

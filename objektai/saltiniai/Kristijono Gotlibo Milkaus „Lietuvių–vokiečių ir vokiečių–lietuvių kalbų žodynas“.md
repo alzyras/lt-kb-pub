@@ -46,21 +46,21 @@ media_all_json: |-
     - c-23800
 
 <a id="claim-t-101545"></a>
-- t-003
+- t-002
   global_id: t-101545
   teiginys: "Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus."
   pagrindžia:
     - c-23800
 
 <a id="claim-t-101546"></a>
-- t-004
+- t-003
   global_id: t-101546
   teiginys: "Immanuelio Kanto mintys apie lietuvių kalbą pateiktos Kristijono Gotlibo Milkaus žodyno pratarmėje."
   pagrindžia:
     - c-23800
 
 <a id="claim-t-101547"></a>
-- t-001
+- t-004
   global_id: t-101547
   teiginys: "Lietuvių kalba apibūdinta kaip gavusi daugiausia aukščiausių pagyrimų ir turinti savitą gražią bei aiškią fonologiją."
   pagrindžia:

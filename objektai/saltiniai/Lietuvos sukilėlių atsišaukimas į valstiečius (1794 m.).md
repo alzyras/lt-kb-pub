@@ -36,21 +36,21 @@ Kreiptasi į valstiečius (tai pirmas atsišaukimas lietuvių kalba) – raginta
 ## Teiginiai
 
 <a id="claim-t-45724"></a>
-- t-003
+- t-001
   global_id: t-45724
   teiginys: "1794 m. sukilėliai kreipėsi į valstiečius, ragino pradėti partizaninį karą prieš Rusijos kariuomenę ir žadėjo asmens laisvę."
   pagrindžia:
     - c-48431
 
 <a id="claim-t-45725"></a>
-- t-001
+- t-002
   global_id: t-45725
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius buvo pirmas atsišaukimas lietuvių kalba, raginęs pradėti partizaninį karą prieš Rusijos kariuomenę."
   pagrindžia:
     - c-23888
 
 <a id="claim-t-45726"></a>
-- t-002
+- t-003
   global_id: t-45726
   teiginys: "Lietuvos sukilėlių atsišaukimas į valstiečius žadėjo valstiečiams suteikti asmens laisvę."
   pagrindžia:

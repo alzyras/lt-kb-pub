@@ -49,119 +49,119 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
 ## Teiginiai
 
 <a id="claim-t-180319"></a>
-- t-020
+- t-001
   global_id: t-180319
   teiginys: "Po Švitrigailos pabėgimo Zigmantui, be tikrosios Lietuvos, liko Palenkės, Pagirio ir Minsko žemės."
   pagrindžia:
     - c-163949
 
 <a id="claim-t-180320"></a>
-- t-018
+- t-002
   global_id: t-180320
   teiginys: "XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-163945
 
 <a id="claim-t-180329"></a>
-- t-021
+- t-003
   global_id: t-180329
   teiginys: "Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė."
   pagrindžia:
     - c-163944
 
 <a id="claim-t-180322"></a>
-- t-023
+- t-004
   global_id: t-180322
   teiginys: "Minske įsteigta jėzuitų kolegija buvo kanclerio Martyno Oginskio ir K. Bžostausko fundacija."
   pagrindžia:
     - c-163953
 
 <a id="claim-t-180323"></a>
-- t-013
+- t-005
   global_id: t-180323
   teiginys: "Žygimanto privilegijoje Minskas minėtas tarp Lietuvos žemės vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
   pagrindžia:
     - c-163947
 
 <a id="claim-t-180324"></a>
-- t-011
+- t-006
   global_id: t-180324
   teiginys: "Baziliaus Serebriano ir Petro Šuiskio vadovaujamos pajėgos turėjo susijungti Drucke ir pulti Minsko, Naugarduko bei Vilniaus kryptimi."
   pagrindžia:
     - c-43646
 
 <a id="claim-t-180326"></a>
-- t-024
+- t-007
   global_id: t-180326
   teiginys: "XII a. iš Polocko kunigaikštijos miestų, tarp jų Minsko, susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-163948
 
 <a id="claim-t-180328"></a>
-- t-010
+- t-008
   global_id: t-180328
   teiginys: "Į Lietuvą įsiveržusi totorių kariuomenė užėmė Minską ir kitas vietoves, tarp jų Borisovą, Zaslavlį, Krėvą, Lydą, Vilnių ir Trakus."
   pagrindžia:
     - c-163950
 
 <a id="claim-t-180329"></a>
-- t-021
+- t-009
   global_id: t-180329
   teiginys: "Per maištą užpultas Minskas, kaip ir Sluckas, nepasidavė."
   pagrindžia:
     - c-163944
 
 <a id="claim-t-180330"></a>
-- t-012
+- t-010
   global_id: t-180330
   teiginys: "Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus."
   pagrindžia:
     - c-163956
 
 <a id="claim-t-180320"></a>
-- t-018
+- t-011
   global_id: t-180320
   teiginys: "XII amžiuje, pakrikus Polocko kunigaikštijai, iš Minsko ir kitų jos miestų susidarė atskiros kunigaikštijos."
   pagrindžia:
     - c-163945
 
 <a id="claim-t-180332"></a>
-- t-016
+- t-012
   global_id: t-180332
   teiginys: "Rytiniame lietuvių etnografinės sienos pakraštyje Minskas minimas tarp paskutinių rytinių slavų pilių."
   pagrindžia:
     - c-163943
 
 <a id="claim-t-180333"></a>
-- t-014
+- t-013
   global_id: t-180333
   teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
   pagrindžia:
     - c-163951
 
 <a id="claim-t-185048"></a>
-- t-017
+- t-014
   global_id: t-185048
   teiginys: "Aleksandras su pagrindinėmis jėgomis lėtai sekė Konstantino Ostrogiškio dalinius, stabtelėdamas Minske ir Borisove."
   pagrindžia:
     - c-168409
 
 <a id="claim-t-185049"></a>
-- t-018
+- t-015
   global_id: t-185049
   teiginys: "Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui."
   pagrindžia:
     - c-168410
 
 <a id="claim-t-185050"></a>
-- t-019
+- t-016
   global_id: t-185050
   teiginys: "Mechmetas Girėjus nužygiavo iki Minsko, nuniokojo kraštą, sudegino miestą ir neapgulė pilies."
   pagrindžia:
     - c-168411
 
 <a id="claim-t-185051"></a>
-- t-020
+- t-017
   global_id: t-185051
   teiginys: "Po priešo niokojamo antpuolio Minske ir kituose miestuose kilo maras."
   pagrindžia:

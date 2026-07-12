@@ -45,7 +45,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 ## Teiginiai
 
 <a id="claim-t-102179"></a>
-- t-006
+- t-001
   global_id: t-102179
   teiginys: "1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai."
   pagrindžia:
@@ -59,35 +59,35 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     - c-43362
 
 <a id="claim-t-102182"></a>
-- t-004
+- t-003
   global_id: t-102182
   teiginys: "1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus."
   pagrindžia:
     - c-43364
 
 <a id="claim-t-102183"></a>
-- t-003
+- t-004
   global_id: t-102183
   teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
   pagrindžia:
     - c-43363
 
 <a id="claim-t-102183"></a>
-- t-003
+- t-005
   global_id: t-102183
   teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
   pagrindžia:
     - c-43363
 
 <a id="claim-t-102185"></a>
-- t-001
+- t-006
   global_id: t-102185
   teiginys: "Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę."
   pagrindžia:
     - c-95519
 
 <a id="claim-t-183781"></a>
-- t-008
+- t-007
   global_id: t-183781
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
   pagrindžia:

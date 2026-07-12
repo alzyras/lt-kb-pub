@@ -43,42 +43,42 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 ## Teiginiai
 
 <a id="claim-t-74904"></a>
-- t-006
+- t-001
   global_id: t-74904
   teiginys: "Pranciškus Skorina kilo iš rusėnų kultūrinės aplinkos ir buvo pirmasis Lietuvos spaustuvininkas."
   pagrindžia:
     - c-22729
 
 <a id="claim-t-74905"></a>
-- t-005
+- t-002
   global_id: t-74905
   teiginys: "LDK rusėnai save vadino rusais, suvokė kaip vieną etninę grupę ir Lietuvos valdovą laikė savu valdovu."
   pagrindžia:
     - c-22728
 
 <a id="claim-t-74906"></a>
-- t-002
+- t-003
   global_id: t-74906
   teiginys: "LDK slavų rusėnų tauta formavosi atskirai nuo Maskvos rusų, o iš jos vėliau kilo šiuolaikinės baltarusių ir ukrainiečių tautos."
   pagrindžia:
     - c-22724
 
 <a id="claim-t-74907"></a>
-- t-003
+- t-004
   global_id: t-74907
   teiginys: "LDK raštinėje pradėjo formuotis rusėnų kalba, skyrusi ją nuo vienuolynuose vartotos bulgarų kilmės slavų bažnytinės kalbos."
   pagrindžia:
     - c-22725
 
 <a id="claim-t-74908"></a>
-- t-001
+- t-005
   global_id: t-74908
   teiginys: "Mokslininkų aiškinimu, Lietuvos valdovai rusėnų ir žemaičių žemėse galėjo įkurdinti ištikimus žmones iš Lietuvos."
   pagrindžia:
     - c-22723
 
 <a id="claim-t-74909"></a>
-- t-010
+- t-006
   global_id: t-74909
   teiginys: "Pranciškus Skorina buvo iš rusėnų kultūrinės aplinkos kilęs pirmasis Lietuvos spaustuvininkas."
   pagrindžia:
@@ -99,14 +99,14 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
     - c-72870
 
 <a id="claim-t-74913"></a>
-- t-004
+- t-009
   global_id: t-74913
   teiginys: "XV–XVI a. Lietuvos Metrikos rusėnų kalboje buvo vartojamos lietuviškos ūkio sąvokos, paplitusios net Ukrainoje."
   pagrindžia:
     - c-72871
 
 <a id="claim-t-183179"></a>
-- t-011
+- t-010
   global_id: t-183179
   teiginys: "Mokslininkų aiškinimu, rusėnų ir žemaičių žemėse įkurdinti Lietuvos valdovų žmonės galėjo būti vadinami leičiais."
   pagrindžia:

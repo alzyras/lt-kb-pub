@@ -53,14 +53,14 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
     - c-166850
 
 <a id="claim-t-70287"></a>
-- t-001
+- t-003
   global_id: t-70287
   teiginys: "Rusintojai „lenkų pradų naikinimo“ politiką siejo su „rusų pradų atkūrimu“, nes separatizmą laikė bajoriškos visuomenės reiškiniu."
   pagrindžia:
     - c-166849
 
 <a id="claim-t-70288"></a>
-- t-002
+- t-004
   global_id: t-70288
   teiginys: "Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos vengė tiesiogiai ją likviduoti."
   pagrindžia:

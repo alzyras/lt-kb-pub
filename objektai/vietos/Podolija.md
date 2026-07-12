@@ -43,63 +43,63 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
 ## Teiginiai
 
 <a id="claim-t-119212"></a>
-- t-003
+- t-001
   global_id: t-119212
   teiginys: "Po 1362 m. Mėlynųjų Vandenų mūšio Podolijoje įsigalėjo Algirdo giminaičiai Karijotai."
   pagrindžia:
     - c-37629
 
 <a id="claim-t-119213"></a>
-- t-005
+- t-002
   global_id: t-119213
   teiginys: "Vytautas tuo metu paėmė Podoliją ir įgijo įtakos aukščiausiai Lenkijos valdžiai."
   pagrindžia:
     - c-37630
 
 <a id="claim-t-119214"></a>
-- t-006
+- t-003
   global_id: t-119214
   teiginys: "Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu."
   pagrindžia:
     - c-37631
 
 <a id="claim-t-119215"></a>
-- t-001
+- t-004
   global_id: t-119215
   teiginys: "Lietuvos valstybės pietuose buvo plati Podolija, nusitęsusi link Juodosios jūros srities stepių."
   pagrindžia:
     - c-109512
 
 <a id="claim-t-119216"></a>
-- t-009
+- t-005
   global_id: t-119216
   teiginys: "Vytauto laikais Podolijoje buvo daug dvarų ir ūkio centrų, nes ši sritis buvo labiau apgyventa."
   pagrindžia:
     - c-109511
 
 <a id="claim-t-119217"></a>
-- t-004
+- t-006
   global_id: t-119217
   teiginys: "Jadvyga anksčiau kėlė protesto balsą dėl Podolijos, rūpindamasi, kad jos auka nenueitų niekais."
   pagrindžia:
     - c-109514
 
 <a id="claim-t-119218"></a>
-- t-008
+- t-007
   global_id: t-119218
   teiginys: "Vorsklos mūšyje žuvo Vytauto bičiulis Spytkas iš Melštyno, valdęs Podoliją."
   pagrindžia:
     - c-109513
 
 <a id="claim-t-119219"></a>
-- t-002
+- t-008
   global_id: t-119219
   teiginys: "Vytautui teko ilgai kovoti dėl Podolijos, į kurią pretenzijas reiškė vengrai, totoriai ir lenkai."
   pagrindžia:
     - c-37628
 
 <a id="claim-t-184394"></a>
-- t-010
+- t-009
   global_id: t-184394
   teiginys: "Algirdo laikų Lietuvos valstybė pietuose apėmė plačią Podoliją, nusitęsusią link Juodosios jūros stepių."
   pagrindžia:

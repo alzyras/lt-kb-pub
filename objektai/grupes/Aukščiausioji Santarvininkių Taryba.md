@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - paliaubos
   - sutartis
 amziai:
@@ -40,28 +41,28 @@ Tada Aukščiausioji Santarvininkių Taryba (Conseil Supreme) pasiūlė Sovietų
 ## Teiginiai
 
 <a id="claim-t-72032"></a>
-- t-003
+- t-001
   global_id: t-72032
   teiginys: "Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją."
   pagrindžia:
     - c-46266
 
 <a id="claim-t-72030"></a>
-- t-001
+- t-002
   global_id: t-72030
   teiginys: "Aukščiausioji Santarvininkių Taryba 1919 m. gruodžio 8 d. nustatė Kerzono liniją."
   pagrindžia:
     - c-46264
 
 <a id="claim-t-72031"></a>
-- t-002
+- t-003
   global_id: t-72031
   teiginys: "1919 m. gruodžio 8 d. Aukščiausioji Santarvės Taryba nustatė demarkacijos liniją Suvalkų krašte, vadintą Kerzono linija."
   pagrindžia:
     - c-46266
 
 <a id="claim-t-72032"></a>
-- t-003
+- t-004
   global_id: t-72032
   teiginys: "Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją."
   pagrindžia:

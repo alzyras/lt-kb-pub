@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - privilegija
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -46,231 +46,231 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 ## Teiginiai
 
 <a id="claim-t-176814"></a>
-- t-021
+- t-001
   global_id: t-176814
   teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais."
   pagrindžia:
     - c-160781
 
 <a id="claim-t-176816"></a>
-- t-020
+- t-002
   global_id: t-176816
   teiginys: "Vytenis su didele lietuvių kariuomene įsibrovė į Livoniją, ketindamas pradėti karą su Ordino broliais."
   pagrindžia:
     - c-160785
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-003
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176818"></a>
-- t-007
+- t-004
   global_id: t-176818
   teiginys: "Vytenis šiame šaltinyje žymi ilgo Lietuvos krikšto derybų laikotarpio pradžios valdovą."
   pagrindžia:
     - c-30361
 
 <a id="claim-t-176822"></a>
-- t-015
+- t-005
   global_id: t-176822
   teiginys: "Dusburgietis pasakoja, kad Vytenis sutelkė savo karalystės vyrus ir 17 dienų puolė Kristmemelio pilį su apgulos mašinomis."
   pagrindžia:
     - c-56177
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-006
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-007
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176825"></a>
-- t-019
+- t-008
   global_id: t-176825
   teiginys: "Vytenis su aštuoniais šimtais vyrų įsibrovė į Lenkijos žemę ir per Sekmines užpuolė Lenčicos dvasininkus."
   pagrindžia:
     - c-160804
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-009
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-010
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176828"></a>
-- t-017
+- t-011
   global_id: t-176828
   teiginys: "Vytenis buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais."
   pagrindžia:
     - c-160801
 
 <a id="claim-t-176814"></a>
-- t-021
+- t-012
   global_id: t-176814
   teiginys: "1315 m. rugsėjį Vytenis apsupo Kristmemelio pilį ir 17 dienų ją puolė apgulos mašinomis bei šauliais."
   pagrindžia:
     - c-160781
 
 <a id="claim-t-176830"></a>
-- t-028
+- t-013
   global_id: t-176830
   teiginys: "Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią."
   pagrindžia:
     - c-160796
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-014
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176833"></a>
-- t-025
+- t-015
   global_id: t-176833
   teiginys: "Karamzinas abejojo prielaida, kad Vytenis, lietuvis pagonis, galėjo būti rusino Vido Dovydavičiaus vaikaitis."
   pagrindžia:
     - c-160790
 
 <a id="claim-t-176835"></a>
-- t-011
+- t-016
   global_id: t-176835
   teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną."
   pagrindžia:
     - c-56175
 
 <a id="claim-t-176836"></a>
-- t-026
+- t-017
   global_id: t-176836
   teiginys: "Vytenis viešpatavo Lietuvoje ir mirė apie 1315 metus."
   pagrindžia:
     - c-160800
 
 <a id="claim-t-176838"></a>
-- t-016
+- t-018
   global_id: t-176838
   teiginys: "XIII a. pabaigoje ir XIV a. pradžioje Vytenis bandė pasinaudoti Livonijos vidaus prieštaravimais."
   pagrindžia:
     - c-56175
 
 <a id="claim-t-176839"></a>
-- t-027
+- t-019
   global_id: t-176839
   teiginys: "Vytenis laišku prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti minoritų."
   pagrindžia:
     - c-160789
 
 <a id="claim-t-176840"></a>
-- t-008
+- t-020
   global_id: t-176840
   teiginys: "Tęsdamas tėvo politiką, Vytenis intensyviai iki 1307 m. puldinėjo Lenkiją."
   pagrindžia:
     - c-30362
 
 <a id="claim-t-176841"></a>
-- t-023
+- t-021
   global_id: t-176841
   teiginys: "Vytenis buvo Gedimino pirmtakas Lietuvos ir Rusios valdovo soste."
   pagrindžia:
     - c-160791
 
 <a id="claim-t-176843"></a>
-- t-010
+- t-022
   global_id: t-176843
   teiginys: "Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m."
   pagrindžia:
     - c-160795
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-023
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-176846"></a>
-- t-018
+- t-024
   global_id: t-176846
   teiginys: "Vytenis su didele kariuomene Pukuvero buvo pasiųstas į Lenkijos Bresto žemę."
   pagrindžia:
     - c-160787
 
 <a id="claim-t-176845"></a>
-- t-024
+- t-025
   global_id: t-176845
   teiginys: "Vytenis nurodomas kaip Traidenio sūnus, 1283 m. tapęs didžiuoju Lietuvos kunigaikščiu ir 1315 m. nužudytas."
   pagrindžia:
     - c-160778
 
 <a id="claim-t-184884"></a>
-- t-038
+- t-026
   global_id: t-184884
   teiginys: "Vytenis, staigiai iškilęs į valdžią, įtariai vertino savo tolesnį likimą ir baiminosi maištų."
   pagrindžia:
     - c-168245
 
 <a id="claim-t-184885"></a>
-- t-039
+- t-027
   global_id: t-184885
   teiginys: "Lietuvai atsigavus po smūgio, Vytenis vieną kariuomenę nukreipė į Dobrynę, o kitą prieš kryžiuočius."
   pagrindžia:
     - c-168246
 
 <a id="claim-t-184886"></a>
-- t-040
+- t-028
   global_id: t-184886
   teiginys: "Gavęs žinią, Vytenis su didelėmis jėgomis nuskubėjo persekioti kryžiuočių."
   pagrindžia:
     - c-168247
 
 <a id="claim-t-184888"></a>
-- t-042
+- t-029
   global_id: t-184888
   teiginys: "Vytenis pats atvedė pagrindines jėgas prie Karksio, po apsupties įsiveržė į įtvirtinimus ir paėmė pilį."
   pagrindžia:
     - c-168249
 
 <a id="claim-t-184889"></a>
-- t-043
+- t-030
   global_id: t-184889
   teiginys: "Vytenis su tūkstančiu penkiais šimtais raitelių patraukė stabdyti Pilypo fon Bolando įsiveržimo."
   pagrindžia:
     - c-168250
 
 <a id="claim-t-184890"></a>
-- t-044
+- t-031
   global_id: t-184890
   teiginys: "Vytenis, sutelkęs karius prie Gardino, per Mazovijos miškus įsiveržė į Didžiosios Lenkijos žemes."
   pagrindžia:
     - c-168251
 
 <a id="claim-t-184891"></a>
-- t-045
+- t-032
   global_id: t-184891
   teiginys: "Sunkiai sužeistas į galvą, Vytenis paliko stovyklą ir kariuomenę ir su dviem kariais paspruko nuo priešo."
   pagrindžia:
     - c-168252
 
 <a id="claim-t-184892"></a>
-- t-046
+- t-033
   global_id: t-184892
   teiginys: "Vytenis nedrįso stoti į atvirą kovą ir, pasukęs į Prūsiją, iš keršto nusiaubė kryžiuočių žemes."
   pagrindžia:
@@ -284,28 +284,28 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
     - c-171540
 
 <a id="claim-t-193408"></a>
-- t-047
+- t-035
   global_id: t-193408
   teiginys: "Vytenis nebežinąs, kad, kaip mena tėvai, didelė Rusios dalis buvusi užimta tada, kai rusų kunigaikščiai buvę įsileidę į vidaus nesantarvės ir nepajėgė pavieniui atsispirti priešui?"
   pagrindžia:
     - c-176130
 
 <a id="claim-t-194015"></a>
-- t-048
+- t-036
   global_id: t-194015
   teiginys: "Vėliau, išmirus Palemono įpėdiniams ir sekančios Kentauro herbo dinastijos ku nigaikščiams, Lietuvos sostas atitekęs pirmajam Gediminaičių dinastijos valdovui Vyteniui."
   pagrindžia:
     - c-176640
 
-<a id="claim-t-194016"></a>
-- t-049
-  global_id: t-194016
+<a id="claim-t-176827"></a>
+- t-037
+  global_id: t-176827
   teiginys: "Ir man atrodo, kad tam tiktų Vytenis4 , kuris tarnavo pas mano tėvą maršalu.\" Didikai, nenorėdami pažeisti savo tikrojo valdovo, didžiojo kunigaikščio Traidenio sūnaus, valios ir pa tarimo, [taip ir] padarė."
   pagrindžia:
     - c-176641
 
 <a id="claim-t-194017"></a>
-- t-050
+- t-038
   global_id: t-194017
   teiginys: "LIETUVOS DIDIEJI KUNIGAIKŠČIAI, KILĘ IS (STULPUI 7 KARTOS IR GIMINES Ir prasidėjo didžiojo kunigaikščio Vytenio valdymas."
   pagrindžia:

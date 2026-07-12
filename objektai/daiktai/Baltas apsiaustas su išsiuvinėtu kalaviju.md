@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - karo-reikmuo
 amziai:
   - 'XIII'
   - 'XXI'
@@ -66,7 +67,7 @@ Nenurodyta
     - c-30985
 
 <a id="claim-t-47800"></a>
-- t-001
+- t-002
   global_id: t-47800
   teiginys: "Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją."
   pagrindžia:

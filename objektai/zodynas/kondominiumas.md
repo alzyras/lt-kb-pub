@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,7 +30,7 @@ Panašu, kad LDK rusiškosios žemės buvo Lietuvos ir Aukso ordos kondominiumas
 ## Teiginiai
 
 <a id="claim-t-183436"></a>
-- t-002
+- t-001
   global_id: t-183436
   teiginys: "LDK rusiškosios žemės laikytos Lietuvos ir Aukso ordos kondominiumu, tai yra bendra valda."
   pagrindžia:

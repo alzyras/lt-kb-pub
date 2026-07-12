@@ -60,21 +60,21 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
     - c-168263
 
 <a id="claim-t-184904"></a>
-- t-005
+- t-004
   global_id: t-184904
   teiginys: "Ligos kamuojamas Živinbudas, išgirdęs apie pergalę ir pamatęs sūnų Kukovaitį, perdavė jam valdžią."
   pagrindžia:
     - c-168265
 
 <a id="claim-t-193415"></a>
-- t-006
+- t-005
   global_id: t-193415
   teiginys: "Živinbudas susirgo ir pasimirė, vyras, kuris pelnytai priskirtinas prie žymiausių Lietuvos didvyrių."
   pagrindžia:
     - c-176137
 
 <a id="claim-t-194022"></a>
-- t-007
+- t-006
   global_id: t-194022
   teiginys: "Živinbudas atsiuntė savo pasiuntinius pas didįjį kunigaikštį Skirmantą, kad duotų jam duoklę ir laikytų jo baskakus tuose miestuose, kaip kad iš tų miestų buvo duodama duoklė, valdant jo pirmtakams, rusų kunigaikščiams."
   pagrindžia:

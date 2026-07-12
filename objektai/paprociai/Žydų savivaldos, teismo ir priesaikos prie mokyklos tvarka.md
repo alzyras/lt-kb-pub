@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - miestas
   - paprotys
+  - teisinė-praktika
   - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87172"></a>
-- t-002
+- t-001
   global_id: t-87172
   teiginys: "Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon."
   pagrindžia:
     - c-83152
 
 <a id="claim-t-87173"></a>
-- t-001
+- t-002
   global_id: t-87173
   teiginys: "Jei žydas per gaisrą, vagystę ar prievartą prarasdavo užstatus, krikščioniui jį pašaukus į teismą jis turėjo išsiteisinti asmenine priesaika."
   pagrindžia:

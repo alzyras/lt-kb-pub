@@ -54,21 +54,21 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
     - c-170427
 
 <a id="claim-t-187448"></a>
-- t-004
+- t-003
   global_id: t-187448
   teiginys: "Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą."
   pagrindžia:
     - c-170426
 
 <a id="claim-t-187450"></a>
-- t-003
+- t-004
   global_id: t-187450
   teiginys: "Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos."
   pagrindžia:
     - c-170428
 
 <a id="claim-t-187450"></a>
-- t-003
+- t-005
   global_id: t-187450
   teiginys: "Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos."
   pagrindžia:

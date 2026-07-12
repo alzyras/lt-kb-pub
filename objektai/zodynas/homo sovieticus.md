@@ -10,8 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -36,14 +38,14 @@ Galutiniu produktu turėjo tapti homo sovieticus – asmuo be tautinių požymi�
 ## Teiginiai
 
 <a id="claim-t-70155"></a>
-- t-002
+- t-001
   global_id: t-70155
   teiginys: "Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis."
   pagrindžia:
     - c-69240
 
 <a id="claim-t-183427"></a>
-- t-003
+- t-002
   global_id: t-183427
   teiginys: "Sovietų santvarkai hipių veikla nesiderino su homo sovieticus nustatytomis gyvenimo taisyklėmis."
   pagrindžia:

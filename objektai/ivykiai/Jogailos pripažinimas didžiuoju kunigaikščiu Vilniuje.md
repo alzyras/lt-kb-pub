@@ -9,7 +9,8 @@ date_start: '1377'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -56,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186574"></a>
-- t-003
+- t-001
   global_id: t-186574
   teiginys: "Lietuvos metraštis teigia, kad Kęstutis važinėjo pas Jogailą tartis dėl reikalų, kaip anksčiau pas vyriausiąjį brolį."
   pagrindžia:
@@ -70,7 +71,7 @@ Nenurodyta
     - c-169883
 
 <a id="claim-t-186576"></a>
-- t-001
+- t-003
   global_id: t-186576
   teiginys: "Lietuvos metraščio pasakojime Kęstutis po Algirdo mirties 1377 m. pripažino Jogailą didžiuoju kunigaikščiu Vilniuje."
   pagrindžia:

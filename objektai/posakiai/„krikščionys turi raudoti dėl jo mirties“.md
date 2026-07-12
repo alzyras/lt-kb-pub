@@ -35,21 +35,21 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
 ## Teiginiai
 
 <a id="claim-t-195040"></a>
-- t-002
+- t-001
   global_id: t-195040
   teiginys: "Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes."
   pagrindžia:
     - c-177408
 
 <a id="claim-t-195041"></a>
-- t-003
+- t-002
   global_id: t-195041
   teiginys: "Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c."
   pagrindžia:
     - c-177408
 
 <a id="claim-t-195042"></a>
-- t-001
+- t-003
   global_id: t-195042
   teiginys: "Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“."
   pagrindžia:

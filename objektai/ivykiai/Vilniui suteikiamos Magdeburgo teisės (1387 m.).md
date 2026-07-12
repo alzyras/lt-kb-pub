@@ -9,7 +9,8 @@ date_start: '1387'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'

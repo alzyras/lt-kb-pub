@@ -38,14 +38,14 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 ## Teiginiai
 
 <a id="claim-t-34259"></a>
-- t-002
+- t-001
   global_id: t-34259
   teiginys: "Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais."
   pagrindžia:
     - c-35484
 
 <a id="claim-t-34260"></a>
-- t-001
+- t-002
   global_id: t-34260
   teiginys: "Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį."
   pagrindžia:

@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187472"></a>
-- t-002
+- t-001
   global_id: t-187472
   teiginys: "Alberto Goštauto pagyrimas Žygimantui II Kazimieraičiui buvo parašytas 1529 m. I Lietuvos Statuto priėmimo proga."
   pagrindžia:
     - c-170442
 
 <a id="claim-t-187473"></a>
-- t-001
+- t-002
   global_id: t-187473
   teiginys: "1529 m. buvo priimtas I Lietuvos Statutas."
   pagrindžia:

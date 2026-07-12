@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - reforma
   - valstybė
 amziai:
@@ -41,14 +42,14 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
 ## Teiginiai
 
 <a id="claim-t-182712"></a>
-- t-023
+- t-001
   global_id: t-182712
   teiginys: "Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d."
   pagrindžia:
     - c-166129
 
 <a id="claim-t-182713"></a>
-- t-022
+- t-002
   global_id: t-182713
   teiginys: "1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją ir centru paskelbė Gardiną."
   pagrindžia:

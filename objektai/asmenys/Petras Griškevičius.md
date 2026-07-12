@@ -37,14 +37,14 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Teiginiai
 
 <a id="claim-t-64025"></a>
-- t-002
+- t-001
   global_id: t-64025
   teiginys: "Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai."
   pagrindžia:
     - c-64900
 
 <a id="claim-t-64026"></a>
-- t-001
+- t-002
   global_id: t-64026
   teiginys: "Prasidėjus Michailo Gorbačiovo pertvarkai, LKP CK pirmasis sekretorius Petras Griškevičius Lietuvoje laikėsi pasyviai."
   pagrindžia:

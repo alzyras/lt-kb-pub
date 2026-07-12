@@ -30,7 +30,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 ## Teiginiai
 
 <a id="claim-t-68827"></a>
-- t-003
+- t-001
   global_id: t-68827
   teiginys: "Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo."
   pagrindžia:

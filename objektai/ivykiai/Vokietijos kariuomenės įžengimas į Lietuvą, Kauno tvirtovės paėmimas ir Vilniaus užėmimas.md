@@ -68,7 +68,7 @@ Nenurodyta
     - c-23283
 
 <a id="claim-t-183286"></a>
-- t-004
+- t-003
   global_id: t-183286
   teiginys: "Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai."
   pagrindžia:

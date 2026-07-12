@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - karalius
   - paprotys
-  - privilegija
 amziai:
   - 'XVII'
 media_total_count: '0'

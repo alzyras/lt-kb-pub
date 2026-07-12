@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-101534"></a>
-- t-005
+- t-001
   global_id: t-101534
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
   pagrindžia:
     - c-22216
 
 <a id="claim-t-101534"></a>
-- t-005
+- t-002
   global_id: t-101534
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
   pagrindžia:
     - c-22216
 
 <a id="claim-t-101534"></a>
-- t-005
+- t-003
   global_id: t-101534
   teiginys: "1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas."
   pagrindžia:

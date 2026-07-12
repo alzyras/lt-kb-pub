@@ -36,7 +36,7 @@ Vartojamos formos: `dabos`.
 ## Teiginiai
 
 <a id="claim-t-69994"></a>
-- t-004
+- t-001
   global_id: t-69994
   teiginys: "Daba minima greta būdo ir tikybos kaip bruožas, kuriuo lietuviai esą buvo panašūs į indijonis."
   pagrindžia:

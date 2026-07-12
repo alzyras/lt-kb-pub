@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kraštas
   - saltinis
   - seimas
-  - sukilimas
 amziai:
   - 'XX'
 media_total_count: '0'

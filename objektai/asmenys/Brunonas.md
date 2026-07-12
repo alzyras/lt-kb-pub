@@ -11,6 +11,7 @@ tags:
   - asmuo
   - kraštas
   - krikštas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -33,28 +34,28 @@ Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių krašt�
 ## Teiginiai
 
 <a id="claim-t-89681"></a>
-- t-004
+- t-001
   global_id: t-89681
   teiginys: "Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų."
   pagrindžia:
     - c-85622
 
 <a id="claim-t-89682"></a>
-- t-007
+- t-002
   global_id: t-89682
   teiginys: "Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų."
   pagrindžia:
     - c-85624
 
 <a id="claim-t-89683"></a>
-- t-006
+- t-003
   global_id: t-89683
   teiginys: "1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais."
   pagrindžia:
     - c-85623
 
 <a id="claim-t-184682"></a>
-- t-005
+- t-004
   global_id: t-184682
   teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos."
   pagrindžia:

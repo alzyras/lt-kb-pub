@@ -68,7 +68,7 @@ Nenurodyta
     - c-63853
 
 <a id="claim-t-62962"></a>
-- t-001
+- t-003
   global_id: t-62962
   teiginys: "1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių."
   pagrindžia:

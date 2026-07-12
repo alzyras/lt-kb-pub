@@ -43,49 +43,49 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 ## Teiginiai
 
 <a id="claim-t-78943"></a>
-- t-009
+- t-001
   global_id: t-78943
   teiginys: "Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį."
   pagrindžia:
     - c-76047
 
 <a id="claim-t-78945"></a>
-- t-011
+- t-002
   global_id: t-78945
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
   pagrindžia:
     - c-76045
 
 <a id="claim-t-78946"></a>
-- t-008
+- t-003
   global_id: t-78946
   teiginys: "Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-76044
 
 <a id="claim-t-78947"></a>
-- t-012
+- t-004
   global_id: t-78947
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
   pagrindžia:
     - c-41855
 
 <a id="claim-t-78949"></a>
-- t-009
+- t-005
   global_id: t-78949
   teiginys: "Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste."
   pagrindžia:
     - c-04147
 
 <a id="claim-t-78950"></a>
-- t-010
+- t-006
   global_id: t-78950
   teiginys: "1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį."
   pagrindžia:
     - c-76043
 
 <a id="claim-t-78953"></a>
-- t-010
+- t-007
   global_id: t-78953
   teiginys: "1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija."
   pagrindžia:

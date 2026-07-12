@@ -43,7 +43,7 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
     - c-23877
 
 <a id="claim-t-75472"></a>
-- t-001
+- t-002
   global_id: t-75472
   teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
   pagrindžia:

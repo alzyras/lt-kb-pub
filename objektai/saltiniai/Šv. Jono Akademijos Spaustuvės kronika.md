@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
-  - privilegija
   - saltinis
 amziai:
   - 'XVI'
@@ -39,14 +38,14 @@ Jono Ak ademi jos Spaustuvės kronika 1547. Vilniaus kanauninkas Vilčiopolskis 
 ## Teiginiai
 
 <a id="claim-t-88361"></a>
-- t-002
+- t-001
   global_id: t-88361
   teiginys: "1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve."
   pagrindžia:
     - c-84341
 
 <a id="claim-t-88362"></a>
-- t-001
+- t-002
   global_id: t-88362
   teiginys: "1547 m. Jonas Hozijus pardavė sklypą ir mūrinį namą, kuriame buvo spaustuvė, Sebastijonui Vitinskiui."
   pagrindžia:

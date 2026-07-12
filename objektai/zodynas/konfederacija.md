@@ -14,6 +14,7 @@ tags:
   - bajorija
   - karas
   - sąvoka
+  - teisinė-praktika
 amziai:
   - 'XIX'
   - 'XXI'
@@ -39,14 +40,14 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
 ## Teiginiai
 
 <a id="claim-t-70186"></a>
-- t-002
+- t-001
   global_id: t-70186
   teiginys: "Rusų tarpininkavimo sąlygos atėmė bajorijai teisę kurti konfederacijas, apribojo hetmonų valdžią ir sumažino kariuomenę."
   pagrindžia:
     - c-46906
 
 <a id="claim-t-70189"></a>
-- t-001
+- t-002
   global_id: t-70189
   teiginys: "Su kariuomene ir suorganizuotais bajorijos būriais, vadintais konfederacijomis, jie puolė švedus ir Sapiegas."
   pagrindžia:

@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62925"></a>
-- t-002
+- t-001
   global_id: t-62925
   teiginys: "Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais."
   pagrindžia:
     - c-63799
 
 <a id="claim-t-62926"></a>
-- t-001
+- t-002
   global_id: t-62926
   teiginys: "1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę."
   pagrindžia:

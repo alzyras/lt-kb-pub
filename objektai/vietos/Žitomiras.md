@@ -39,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-182853"></a>
-- t-012
+- t-001
   global_id: t-182853
   teiginys: "1394 m. Vytautas puolė Vladimiro žemes ir paėmė Ovručą bei Žitomirą."
   pagrindžia:
     - c-166257
 
 <a id="claim-t-194281"></a>
-- t-013
+- t-002
   global_id: t-194281
   teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
   pagrindžia:

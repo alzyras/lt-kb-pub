@@ -46,14 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62964"></a>
-- t-002
+- t-001
   global_id: t-62964
   teiginys: "Magistras ir broliai įsiveržė į Pagudę, ją nusiaubė, užkariavo Heilsbergo pilį ir paėmė arba išžudė jos žmones."
   pagrindžia:
     - c-63858
 
 <a id="claim-t-62965"></a>
-- t-003
+- t-002
   global_id: t-62965
   teiginys: "Užkariavus Heilsbergo pilį, kuri buvo pagudėnų rankose, nuo to laiko Prūsijos žemėje įsiviešpatavo taika."
   pagrindžia:

@@ -54,6 +54,8 @@ Nenurodyta
   teiginys: "Vyriškieji patys dailidavo namų baldus, rakandus ir įvairius būtos padargus."
   pagrindžia:
     - c-56473
+- susijęs iš [[objektai/daiktai/Piestu.md#claim-t-195354|Piestu]]: Ąžuolo gabalas, kuriuo muša grūdus piestoje.
+- susijęs iš [[objektai/zodynas/Garstyčninkas.md#claim-t-195469|Garstyčninkas]]: Garstyčninkas šiame šaltinyje gaminamas iš rugių salyklo.
 ## Reikšmingi paminėjimai
 
 - c-001

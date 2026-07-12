@@ -54,42 +54,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78632"></a>
-- t-009
+- t-001
   global_id: t-78632
   teiginys: "Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė."
   pagrindžia:
     - c-11893
 
 <a id="claim-t-78633"></a>
-- t-008
+- t-002
   global_id: t-78633
   teiginys: "Prostkų mūšyje priešo nuostoliai buvo apie 5500 karių."
   pagrindžia:
     - c-11896
 
 <a id="claim-t-78634"></a>
-- t-010
+- t-003
   global_id: t-78634
   teiginys: "1656 m. spalio 8 d. Prostkų mūšyje kariuomenės suartėjo ties Prostkais, skiriamos Elko upės."
   pagrindžia:
     - c-75853
 
 <a id="claim-t-78635"></a>
-- t-005
+- t-004
   global_id: t-78635
   teiginys: "1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas."
   pagrindžia:
     - c-11893
 
 <a id="claim-t-78636"></a>
-- t-006
+- t-005
   global_id: t-78636
   teiginys: "Prostkų mūšyje lietuviai apgaulingu atsitraukimo manevru išviliojo brandenburgiečius persikelti į kitą Elko upės krantą."
   pagrindžia:
     - c-75853
 
 <a id="claim-t-78637"></a>
-- t-007
+- t-006
   global_id: t-78637
   teiginys: "Prostkų mūšyje pagrindinės V. Gosievskio pajėgos užpuolė ir sumušė brandenburgiečius, o Boguslavas Radvila pateko į nelaisvę."
   pagrindžia:

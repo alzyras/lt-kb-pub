@@ -31,7 +31,7 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
 ## Teiginiai
 
 <a id="claim-t-07833"></a>
-- t-002
+- t-001
   global_id: t-07833
   teiginys: "Finikiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo."
   pagrindžia:

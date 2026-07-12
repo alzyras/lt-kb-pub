@@ -14,6 +14,7 @@ tags:
   - asmuo
   - diplomatas
   - valstybė
+  - šventė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -40,7 +41,7 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
 ## Teiginiai
 
 <a id="claim-t-101707"></a>
-- t-005
+- t-001
   global_id: t-101707
   teiginys: "1939 m. balandį Stasys Raštikis dalyvavo Adolfo Hitlerio 50-mečio šventime, o gegužę oficialiai lankėsi Lenkijoje."
   pagrindžia:
@@ -54,56 +55,56 @@ Stasys Raštikis, nors ir buvo vedęs prezidento brolio dukterį, visuomenėje �
     - c-21999
 
 <a id="claim-t-101709"></a>
-- t-007
+- t-003
   global_id: t-101709
   teiginys: "Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:
     - c-22004
 
 <a id="claim-t-101710"></a>
-- t-008
+- t-004
   global_id: t-101710
   teiginys: "Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   pagrindžia:
     - c-22003
 
 <a id="claim-t-101711"></a>
-- t-001
+- t-005
   global_id: t-101711
   teiginys: "Kariuomenės vadas Stasys Raštikis visuomenėje įgavo didelį populiarumą, todėl prezidentas po ambicijų konflikto 1940 m. balandį atleido jį iš pareigų."
   pagrindžia:
     - c-21998
 
 <a id="claim-t-101712"></a>
-- t-010
+- t-006
   global_id: t-101712
   teiginys: "Stasys Raštikis pareiškė, kad Lietuvos kariuomenė kovos, jei gaus tokį įsakymą."
   pagrindžia:
     - c-22001
 
 <a id="claim-t-101713"></a>
-- t-003
+- t-007
   global_id: t-101713
   teiginys: "Stasys Raštikis tyrė karinio bendradarbiavimo su Latvija ir Estija galimybes ir pasisakė už trijų šalių karinę sąjungą."
   pagrindžia:
     - c-22000
 
 <a id="claim-t-101714"></a>
-- t-009
+- t-008
   global_id: t-101714
   teiginys: "Stasys Raštikis ir Vincas Vitkauskas motyvavo, kad Lietuva viena negalėtų rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:
     - c-95146
 
 <a id="claim-t-101715"></a>
-- t-004
+- t-009
   global_id: t-101715
   teiginys: "Stasys Raštikis vyriausybės posėdyje pareiškė, kad kariuomenė kovos, jei gaus tokį įsakymą."
   pagrindžia:
     - c-22001
 
 <a id="claim-t-101716"></a>
-- t-006
+- t-010
   global_id: t-101716
   teiginys: "Sovietai tuoj pat atmetė Stasio Raštikio kandidatūrą į ministro pirmininko pareigas."
   pagrindžia:

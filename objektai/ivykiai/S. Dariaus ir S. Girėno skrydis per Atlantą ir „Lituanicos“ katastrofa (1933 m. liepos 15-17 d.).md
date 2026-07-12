@@ -52,21 +52,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66866"></a>
-- t-002
+- t-001
   global_id: t-66866
   teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
   pagrindžia:
     - c-66970
 
 <a id="claim-t-183273"></a>
-- t-003
+- t-002
   global_id: t-183273
   teiginys: "1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą."
   pagrindžia:
     - c-166662
 
 <a id="claim-t-183274"></a>
-- t-004
+- t-003
   global_id: t-183274
   teiginys: "Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei."
   pagrindžia:

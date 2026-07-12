@@ -48,21 +48,21 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
     - c-157513
 
 <a id="claim-t-173181"></a>
-- t-003
+- t-002
   global_id: t-173181
   teiginys: "Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau."
   pagrindžia:
     - c-157511
 
 <a id="claim-t-173182"></a>
-- t-002
+- t-003
   global_id: t-173182
   teiginys: "Jonui Hozijui buvo suteikta teisė atvesti vandenį į jo namus Vokiečių gatvėje."
   pagrindžia:
     - c-157510
 
 <a id="claim-t-173184"></a>
-- t-006
+- t-004
   global_id: t-173184
   teiginys: "Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą."
   pagrindžia:

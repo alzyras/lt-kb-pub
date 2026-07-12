@@ -42,7 +42,7 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
 ## Teiginiai
 
 <a id="claim-t-75891"></a>
-- t-002
+- t-001
   global_id: t-75891
   teiginys: "1912 m. Vilniuje Julija Žymantienė-Žemaitė dalyvavo Lietuvių mokslo draugijos suvažiavime."
   pagrindžia:
@@ -56,7 +56,7 @@ Kudirkos poezija ir satyriniai, caro valdininkus taikliai pašiepiantys apsakyma
     - c-73563
 
 <a id="claim-t-75893"></a>
-- t-001
+- t-003
   global_id: t-75893
   teiginys: "Julijos Žymantienės-Žemaitės sodri realistinė socialinė proza žadino lietuvių tautinę savimonę."
   pagrindžia:

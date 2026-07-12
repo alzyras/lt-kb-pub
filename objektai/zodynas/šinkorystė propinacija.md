@@ -8,7 +8,7 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
-  - privilegija
+  - socialinė-praktika
   - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''

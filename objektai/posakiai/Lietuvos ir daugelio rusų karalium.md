@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-06878"></a>
-- t-002
+- t-001
   global_id: t-06878
   teiginys: "Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi."
   pagrindžia:

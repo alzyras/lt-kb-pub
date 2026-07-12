@@ -61,14 +61,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67158"></a>
-- t-002
+- t-001
   global_id: t-67158
   teiginys: "Kryžiaus karų epochoje Lietuvos kunigaikščiai derėjosi dėl krikšto, tačiau Europa tarsi atstūmė Lietuvą nuo krikščionybės."
   pagrindžia:
     - c-67179
 
 <a id="claim-t-67160"></a>
-- t-001
+- t-002
   global_id: t-67160
   teiginys: "Lietuvių valdovai, supratę Ordino krikšto kainą, ieškojo kitų krikšto variantų per Čekiją, Vengriją ir Lenkiją."
   pagrindžia:

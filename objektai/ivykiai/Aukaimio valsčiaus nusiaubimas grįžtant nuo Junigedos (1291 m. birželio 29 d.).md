@@ -13,6 +13,7 @@ tags:
   - ginklas
   - ivykis
   - pilis
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -53,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62742"></a>
-- t-002
+- t-001
   global_id: t-62742
   teiginys: "Grįždami nuo Junigedos, broliai įsiveržė į Aukaimio pilies apylinkes, jas nuniokojo, paėmė belaisvių ir parsivedė didelį grobį."
   pagrindžia:
     - c-63517
 
 <a id="claim-t-62743"></a>
-- t-001
+- t-002
   global_id: t-62743
   teiginys: "1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies."
   pagrindžia:

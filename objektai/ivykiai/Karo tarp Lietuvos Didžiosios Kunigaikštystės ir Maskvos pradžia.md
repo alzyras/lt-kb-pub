@@ -56,28 +56,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186773"></a>
-- t-003
+- t-001
   global_id: t-186773
   teiginys: "Maskvos didžiojo kunigaikščio deklaracija apie karo paskelbimą buvo gauta po 1493 m. sausio 4 d."
   pagrindžia:
     - c-169975
 
 <a id="claim-t-186774"></a>
-- t-004
+- t-002
   global_id: t-186774
   teiginys: "1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko."
   pagrindžia:
     - c-169974
 
 <a id="claim-t-186775"></a>
-- t-002
+- t-003
   global_id: t-186775
   teiginys: "Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, kai Maskvoje sužinota apie Kazimiero mirtį."
   pagrindžia:
     - c-169975
 
 <a id="claim-t-186777"></a>
-- t-001
+- t-004
   global_id: t-186777
   teiginys: "Karas tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos prasidėjo 1492 m. rudenį, Maskvoje sužinojus apie Kazimiero mirtį."
   pagrindžia:

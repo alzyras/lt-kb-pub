@@ -49,63 +49,63 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
 ## Teiginiai
 
 <a id="claim-t-180412"></a>
-- t-012
+- t-001
   global_id: t-180412
   teiginys: "Pinske minima viena iš vietų, kuriose Vytautas pastatė bažnyčias."
   pagrindžia:
     - c-164032
 
 <a id="claim-t-180413"></a>
-- t-014
+- t-002
   global_id: t-180413
   teiginys: "Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais."
   pagrindžia:
     - c-164040
 
 <a id="claim-t-180415"></a>
-- t-013
+- t-003
   global_id: t-180415
   teiginys: "Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį."
   pagrindžia:
     - c-164037
 
 <a id="claim-t-180416"></a>
-- t-009
+- t-004
   global_id: t-180416
   teiginys: "Jaunutis pabėgo kartu su jam palankiu broliu Narimantu, Pinsko kunigaikščiu."
   pagrindžia:
     - c-164031
 
 <a id="claim-t-180418"></a>
-- t-011
+- t-005
   global_id: t-180418
   teiginys: "Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną."
   pagrindžia:
     - c-164031
 
 <a id="claim-t-180419"></a>
-- t-011
+- t-006
   global_id: t-180419
   teiginys: "Valdymo pabaigoje Pinskas buvo tarp vietų, kuriose dar liko atskiros kunigaikštystės."
   pagrindžia:
     - c-164036
 
 <a id="claim-t-180420"></a>
-- t-012
+- t-007
   global_id: t-180420
   teiginys: "Pinske atsirado jėzuitų kolegija, funduota kanclerio Alberto Stanislovo Radvilos."
   pagrindžia:
     - c-164038
 
 <a id="claim-t-180422"></a>
-- t-010
+- t-008
   global_id: t-180422
   teiginys: "Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką."
   pagrindžia:
     - c-164039
 
 <a id="claim-t-185085"></a>
-- t-015
+- t-009
   global_id: t-185085
   teiginys: "Pinskas minimas kaip vienas žymiausių baltarusių gyvenamos Polesės miestų."
   pagrindžia:

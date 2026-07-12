@@ -32,126 +32,126 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
 ## Teiginiai
 
 <a id="claim-t-187940"></a>
-- t-007
+- t-001
   global_id: t-187940
   teiginys: "Leidinio pastaba Adomą Stanislovą Naruševičių vadina lenkų poetu ir istoriku bei sieja jį su „Historya narodu Polskiego“."
   pagrindžia:
     - c-170920
 
 <a id="claim-t-187941"></a>
-- t-005
+- t-002
   global_id: t-187941
   teiginys: "Narbutas, remdamasis Naruševičiumi, rašė, kad Henilą garbino serbai ir kitos slavų tautos."
   pagrindžia:
     - c-170918
 
 <a id="claim-t-187942"></a>
-- t-006
+- t-003
   global_id: t-187942
   teiginys: "Narbutas Naruševičiui priskyrė nuomonę, kad slavai žinojo panašią ugnį, vadintą Zwicz."
   pagrindžia:
     - c-170919
 
 <a id="claim-t-187943"></a>
-- t-001
+- t-004
   global_id: t-187943
   teiginys: "Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas."
   pagrindžia:
     - c-170927
 
 <a id="claim-t-188395"></a>
-- t-008
+- t-005
   global_id: t-188395
   teiginys: "Narbutas laiške Anicetui Renjė kritikavo Naruševičių, kad šis rašė apie valdžios veiksmus ir karo įvykius, bet ne apie tautą."
   pagrindžia:
     - c-171286
 
 <a id="claim-t-188396"></a>
-- t-009
+- t-006
   global_id: t-188396
   teiginys: "Naruševičiaus manymu, slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
   pagrindžia:
     - c-170919
 
 <a id="claim-t-190672"></a>
-- t-010
+- t-007
   global_id: t-190672
   teiginys: "Naruševičius gotų išėjimą aiškino tuo, kad dakai ir getai pasikvietė gotus, norėdami jungtis su jais, o ne būti svetimų valdomi."
   pagrindžia:
     - c-173554
 
 <a id="claim-t-190673"></a>
-- t-011
+- t-008
   global_id: t-190673
   teiginys: "Gotai, pasak Narbuto cituojamų Naruševičiaus tyrimų, 161 m. su karaliumi Filimeru iš Germanijos į Sarmatiją kėlėsi per Vyslos žemupį."
   pagrindžia:
     - c-173555
 
 <a id="claim-t-190674"></a>
-- t-012
+- t-009
   global_id: t-190674
   teiginys: "Naruševičių Narbutas mini tarp autorių, kurių požiūris turėjo pagrįsti nuomonę, kad venedams priklausė Lietuvos istorijai svarbios gentys."
   pagrindžia:
     - c-173556
 
 <a id="claim-t-190675"></a>
-- t-013
+- t-010
   global_id: t-190675
   teiginys: "Naruševičius, Narbuto perteikimu, Ptolemėjo chunus siejo su graikų-skitų gentimi ir galimu atsikėlimu iš Chijo salos."
   pagrindžia:
     - c-173557
 
 <a id="claim-t-190676"></a>
-- t-014
+- t-011
   global_id: t-190676
   teiginys: "Naruševičius, Narbuto teigimu, pateikė žinių, rėmusių nuomonę, kad poloviečiai buvo rusų kaimynai iš rytų ir vakarų."
   pagrindžia:
     - c-173558
 
 <a id="claim-t-190677"></a>
-- t-015
+- t-012
   global_id: t-190677
   teiginys: "Naruševičiaus nuomonę, kad jotvingiai nuo Tisos atėjo tiesiai į Polesę, Narbutas vadina labai panašia į tiesą."
   pagrindžia:
     - c-173559
 
 <a id="claim-t-190678"></a>
-- t-016
+- t-013
   global_id: t-190678
   teiginys: "Naruševičius, Narbuto vertinimu, iki XII a. jotvingiams priskyrė pernelyg plačias valdas nuo Bugo iki Beržūnos ir nuo Pripetės iki Narvos."
   pagrindžia:
     - c-173560
 
 <a id="claim-t-190682"></a>
-- t-017
+- t-014
   global_id: t-190682
   teiginys: "Naruševičių Narbutas mini kaip vieną senovės tyrinėtojų, aptikusių gelonų-budinų buvimo pėdsakų Sniatyno apylinkėse."
   pagrindžia:
     - c-173564
 
 <a id="claim-t-190683"></a>
-- t-018
+- t-015
   global_id: t-190683
   teiginys: "Naruševičius, Narbuto teigimu, daugelyje darbų patvirtino nuomonę apie gelonų tautos gyvenimą Nemuno aukštupyje."
   pagrindžia:
     - c-173565
 
 <a id="claim-t-191874"></a>
-- t-020
+- t-016
   global_id: t-191874
   teiginys: "Naruševičius Lenkijos istorijos I tomo 7 puslapyje nurodė, kad agatirų kolonijų būta dešiniojoje Marus upės pakrantėje."
   pagrindžia:
     - c-174756
 
 <a id="claim-t-192517"></a>
-- t-021
+- t-017
   global_id: t-192517
   teiginys: "Narbutas rašo, kad Naruševičius rėmė nuomonę, jog Owim žemė buvo dabartinė Prūsija."
   pagrindžia:
     - c-175305
 
 <a id="claim-t-194644"></a>
-- t-022
+- t-018
   global_id: t-194644
   teiginys: "Kaip mano Naruševičius', slavai taip pat žinojo panašią ugnį, vadintą Zwicz."
   pagrindžia:

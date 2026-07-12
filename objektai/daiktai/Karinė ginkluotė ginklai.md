@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185853"></a>
-- t-002
+- t-001
   global_id: t-185853
   teiginys: "Vaidevutis vengė karinių stovyklų, nes iš patirties matė, kad ginklą paėmę žmonės suįžūlėja ir nebeklauso įsakymų."
   pagrindžia:
     - c-169214
 
 <a id="claim-t-193368"></a>
-- t-003
+- t-002
   global_id: t-193368
   teiginys: "Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai."
   pagrindžia:

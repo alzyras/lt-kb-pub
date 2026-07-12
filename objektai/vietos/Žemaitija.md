@@ -74,175 +74,175 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-123002"></a>
-- t-007
+- t-001
   global_id: t-123002
   teiginys: "Žemaitijoje Vytautas pastatė Varnių katedrą ir bažnyčias Ariogaloje, Betygaloje, Kelmėje, Kražiuose, Kaltinėnuose, Luokėje, Raseiniuose, Viduklėje, Senvarniuose ir Veliuonoje."
   pagrindžia:
     - c-37881
 
 <a id="claim-t-123003"></a>
-- t-012
+- t-002
   global_id: t-123003
   teiginys: "Kryžiuočių ordinui Žemaitijos užvaldymas buvo valstybės gerovės ir net egzistencijos klausimas."
   pagrindžia:
     - c-37886
 
 <a id="claim-t-123004"></a>
-- t-035
+- t-003
   global_id: t-123004
   teiginys: "Žemaitija, siekianti Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius padermės bruožus."
   pagrindžia:
     - c-112489
 
 <a id="claim-t-123005"></a>
-- t-062
+- t-004
   global_id: t-123005
   teiginys: "Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų."
   pagrindžia:
     - c-37880
 
 <a id="claim-t-123006"></a>
-- t-008
+- t-005
   global_id: t-123006
   teiginys: "Derybose dėl sienų Vytautas reikalavo Žemaitijai plačių sienų, tačiau Ordinas su tuo nesutiko."
   pagrindžia:
     - c-37882
 
 <a id="claim-t-123007"></a>
-- t-022
+- t-006
   global_id: t-123007
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   pagrindžia:
     - c-112499
 
 <a id="claim-t-123008"></a>
-- t-056
+- t-007
   global_id: t-123008
   teiginys: "Vytautas išvyko į Žemaitiją, kur žmonės ir bajorai buvo palankūs jo tėvui Kęstučiui ir nusistatę prieš Jogailą."
   pagrindžia:
     - c-112509
 
 <a id="claim-t-123009"></a>
-- t-016
+- t-008
   global_id: t-123009
   teiginys: "1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą."
   pagrindžia:
     - c-112508
 
 <a id="claim-t-123010"></a>
-- t-041
+- t-009
   global_id: t-123010
   teiginys: "Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje."
   pagrindžia:
     - c-112531
 
 <a id="claim-t-123011"></a>
-- t-060
+- t-010
   global_id: t-123011
   teiginys: "1320 m. liepos 27 d. Medininkų žemėje Lietuva sutriuškino į Žemaitiją įsiveržusius kryžiuočius."
   pagrindžia:
     - c-112518
 
 <a id="claim-t-123012"></a>
-- t-042
+- t-011
   global_id: t-123012
   teiginys: "Kol vokiečių kariuomenė stovyklavo Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją."
   pagrindžia:
     - c-112490
 
 <a id="claim-t-123013"></a>
-- t-018
+- t-012
   global_id: t-123013
   teiginys: "Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui."
   pagrindžia:
     - c-112491
 
 <a id="claim-t-123014"></a>
-- t-006
+- t-013
   global_id: t-123014
   teiginys: "Vytauto tėvas gynė Žemaitijos ir lietuvių laisvę, kai kardininkai ir kryžiuočiai smarkiai puldinėjo Lietuvą."
   pagrindžia:
     - c-37880
 
 <a id="claim-t-123015"></a>
-- t-009
+- t-014
   global_id: t-123015
   teiginys: "1398 m. spalio 12 d. Salyne Vytautas atidavė Ordinui visą Žemaitiją."
   pagrindžia:
     - c-37883
 
 <a id="claim-t-123016"></a>
-- t-034
+- t-015
   global_id: t-123016
   teiginys: "Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės."
   pagrindžia:
     - c-112513
 
 <a id="claim-t-123017"></a>
-- t-048
+- t-016
   global_id: t-123017
   teiginys: "Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys."
   pagrindžia:
     - c-112513
 
 <a id="claim-t-123018"></a>
-- t-024
+- t-017
   global_id: t-123018
   teiginys: "Bendros sukilimo vadovybės Lietuvoje nebuvo, daug „vyriausybių“ veikė konkrečios apskrities teritorijoje, o viena tokių „vyriausybių“ pasiskelbė Žemaitijos vyriausybe."
   pagrindžia:
     - c-112501
 
 <a id="claim-t-123019"></a>
-- t-011
+- t-018
   global_id: t-123019
   teiginys: "Vytauto laikais kolonizuota Žemaitija ir kiti jam priklausę kraštai."
   pagrindžia:
     - c-112498
 
 <a id="claim-t-123029"></a>
-- t-038
+- t-019
   global_id: t-123029
   teiginys: "Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:
     - c-112521
 
 <a id="claim-t-123021"></a>
-- t-050
+- t-020
   global_id: t-123021
   teiginys: "Žemaitija aiškinta kaip žemesnė žemė, o Aukštaitija - kaip aukštesnė žemė palyginti su Žemaitija."
   pagrindžia:
     - c-112523
 
 <a id="claim-t-123022"></a>
-- t-023
+- t-021
   global_id: t-123022
   teiginys: "Lietuvoje sukilimas prasidėjo spontaniškai 1831 m. pavasariop Žemaitijoje dėl valdžios paskelbto rekrutų ėmimo."
   pagrindžia:
     - c-112520
 
 <a id="claim-t-123023"></a>
-- t-021
+- t-022
   global_id: t-123023
   teiginys: "Po Žalgirio mūšio Žemaitija liko pagrindinė Vytauto konflikto su Ordinu priežastis."
   pagrindžia:
     - c-112500
 
 <a id="claim-t-123024"></a>
-- t-040
+- t-023
   global_id: t-123024
   teiginys: "1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-112495
 
 <a id="claim-t-123025"></a>
-- t-037
+- t-024
   global_id: t-123025
   teiginys: "Žemaitijos žemė aiškinta kaip ta pati Lietuvos žemė, tik vadinama žemesne žeme."
   pagrindžia:
     - c-112523
 
 <a id="claim-t-123026"></a>
-- t-053
+- t-025
   global_id: t-123026
   teiginys: "Vokiečių kariuomenei stovyklaujant Žemaitijoje, lietuvių pulkas įsiveržė į Livoniją ir nusiaubė Dorpato vyskupiją."
   pagrindžia:
@@ -256,63 +256,63 @@ media_all_json: |-
     - c-37880
 
 <a id="claim-t-123028"></a>
-- t-044
+- t-027
   global_id: t-123028
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   pagrindžia:
     - c-112494
 
 <a id="claim-t-123029"></a>
-- t-038
+- t-028
   global_id: t-123029
   teiginys: "Kronikininkas pasakoja, kad apie 880 m. iš Danijos ištremti žmonės persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:
     - c-112521
 
 <a id="claim-t-123030"></a>
-- t-032
+- t-029
   global_id: t-123030
   teiginys: "Pavasarį sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė visą Lietuvą."
   pagrindžia:
     - c-112535
 
 <a id="claim-t-123031"></a>
-- t-063
+- t-030
   global_id: t-123031
   teiginys: "Vytautas reikalavo plačių Žemaitijos sienų, o Vokiečių ordinas nenorėjo su tuo sutikti."
   pagrindžia:
     - c-37882
 
 <a id="claim-t-123032"></a>
-- t-046
+- t-031
   global_id: t-123032
   teiginys: "Po Žalgirio mūšio Vytautas pretendavo į visą Žemaitiją iki Nemuno, įskaitant Klaipėdą, ir Užnemunę."
   pagrindžia:
     - c-112500
 
 <a id="claim-t-123033"></a>
-- t-039
+- t-032
   global_id: t-123033
   teiginys: "Balińskis Žemaitijoje Milžinų Kapais vadintus didžiulius pilkapius laikė Skandinavijos įtakos Lietuvoje liudijimu."
   pagrindžia:
     - c-112502
 
 <a id="claim-t-123034"></a>
-- t-049
+- t-033
   global_id: t-123034
   teiginys: "Žemaitija, siekusi Baltijos jūrą, apibūdinta kaip lietuvių genties centras, išsaugojęs gryniausius savo padermės bruožus."
   pagrindžia:
     - c-112489
 
 <a id="claim-t-123035"></a>
-- t-019
+- t-034
   global_id: t-123035
   teiginys: "Žalgirio mūšyje buvo pakirsta Vokiečių ordino hegemonija, nors Žemaitijai pripažinti Lietuvai dar reikėjo dviejų karų."
   pagrindžia:
     - c-112533
 
 <a id="claim-t-123036"></a>
-- t-065
+- t-035
   global_id: t-123036
   teiginys: "1398 m. vasarį Kryžiuočių ordino Livonijos atšakos pajėgos smogė Žemaitijai ir daug žmonių išsivedė į nelaisvę."
   pagrindžia:
@@ -326,210 +326,210 @@ media_all_json: |-
     - c-112489
 
 <a id="claim-t-123038"></a>
-- t-017
+- t-037
   global_id: t-123038
   teiginys: "Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko."
   pagrindžia:
     - c-112504
 
 <a id="claim-t-123039"></a>
-- t-058
+- t-038
   global_id: t-123039
   teiginys: "Kronikos įvade Žemaitija minima kaip viena teritorijų, kurias pasiekė Kryžiuočių ordino ekspansija ir niokojimai."
   pagrindžia:
     - c-112507
 
 <a id="claim-t-123041"></a>
-- t-054
+- t-039
   global_id: t-123041
   teiginys: "Veliuona, tikriausiai XIII a. pastatyta pilis, turėjo saugoti Žemaitijos sienas nuo kryžiuočių puldinėjimų."
   pagrindžia:
     - c-112487
 
 <a id="claim-t-123042"></a>
-- t-015
+- t-040
   global_id: t-123042
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
   pagrindžia:
     - c-112517
 
 <a id="claim-t-123043"></a>
-- t-055
+- t-041
   global_id: t-123043
   teiginys: "Vytautui priskiriama bažnyčios fundacija buvo laikoma viena pirmųjų bažnyčių Žemaitijoje po krikščionybės įvedimo."
   pagrindžia:
     - c-112527
 
 <a id="claim-t-123045"></a>
-- t-010
+- t-042
   global_id: t-123045
   teiginys: "Arklių ūkis buvo labiau paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui duoklę dažnai mokėdavo arkliais."
   pagrindžia:
     - c-37884
 
 <a id="claim-t-123046"></a>
-- t-061
+- t-043
   global_id: t-123046
   teiginys: "Žemaitijoje plėšikavusios kryžiuočių kariuomenės karys, atsilikęs po kritimo nuo žirgo, pėsčiomis grįžo į Ragainę."
   pagrindžia:
     - c-112522
 
 <a id="claim-t-123047"></a>
-- t-020
+- t-044
   global_id: t-123047
   teiginys: "Po Žalgirio mūšio Žemaitija buvo apkrikštyta 1413 m., o 1417 m. įsteigta Žemaičių vyskupija."
   pagrindžia:
     - c-112503
 
 <a id="claim-t-123048"></a>
-- t-064
+- t-045
   global_id: t-123048
   teiginys: "Vytauto laikais arklių ūkis buvo labiau paplitęs Žemaitijoje ir apie Trakus."
   pagrindžia:
     - c-37884
 
 <a id="claim-t-123049"></a>
-- t-052
+- t-046
   global_id: t-123049
   teiginys: "1380 m. sudarytos paliaubos su Livonijos magistru Rygoje aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-112495
 
 <a id="claim-t-123050"></a>
-- t-059
+- t-047
   global_id: t-123050
   teiginys: "Istoriografijoje buvo formavusis nuomonė, kad Nadruva, Skalva ir Semba yra Žemaitijos dalys."
   pagrindžia:
     - c-112511
 
 <a id="claim-t-123051"></a>
-- t-029
+- t-048
   global_id: t-123051
   teiginys: "Arklių ūkis labiau buvo paplitęs Žemaitijoje ir apie Trakus, o žemaičiai Vytautui dažnai mokėdavo duoklę arkliais."
   pagrindžia:
     - c-37884
 
 <a id="claim-t-123052"></a>
-- t-043
+- t-049
   global_id: t-123052
   teiginys: "Veliuonos pilis tikriausiai pastatyta XIII a. Žemaitijos sienoms nuo kryžiuočių puldinėjimų saugoti."
   pagrindžia:
     - c-112487
 
 <a id="claim-t-123053"></a>
-- t-028
+- t-050
   global_id: t-123053
   teiginys: "Trijuose suvažiavimuose dėl sienų Vytautas reikalavo plačių Žemaitijos ribų, bet Ordinas su tuo nesutiko."
   pagrindžia:
     - c-37882
 
 <a id="claim-t-123054"></a>
-- t-066
+- t-051
   global_id: t-123054
   teiginys: "Daukantas savo jaunystės laikų Žemaitijos kaimo kultūrinį paveikslą perkėlė į senuosius laikus."
   pagrindžia:
     - c-112505
 
 <a id="claim-t-123055"></a>
-- t-045
+- t-052
   global_id: t-123055
   teiginys: "Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei."
   pagrindžia:
     - c-112491
 
 <a id="claim-t-183646"></a>
-- t-067
+- t-053
   global_id: t-183646
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
   pagrindžia:
     - c-167038
 
 <a id="claim-t-183647"></a>
-- t-068
+- t-054
   global_id: t-183647
   teiginys: "Po Mindaugo krikšto Žemaitija buvo prarasta kaip etninės Lietuvos dalis, o ordinų pavojus neišnyko."
   pagrindžia:
     - c-167039
 
 <a id="claim-t-183648"></a>
-- t-069
+- t-055
   global_id: t-183648
   teiginys: "Žalgirio mūšyje buvo pakirsta Vokiečių ordino hegemonija, nors Žemaitijai pripažinti Lietuvai dar reikėjo dviejų karų."
   pagrindžia:
     - c-167040
 
 <a id="claim-t-183649"></a>
-- t-070
+- t-056
   global_id: t-183649
   teiginys: "1422 m. Vokiečių ordinas galutinai atsisakė pretenzijų į Žemaitiją ir nebekėlė grėsmės Lietuvai."
   pagrindžia:
     - c-167041
 
 <a id="claim-t-185218"></a>
-- t-071
+- t-057
   global_id: t-185218
   teiginys: "Sudeginus Kurše Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   pagrindžia:
     - c-168579
 
 <a id="claim-t-185219"></a>
-- t-072
+- t-058
   global_id: t-185219
   teiginys: "Tuo žygiu Mindaugas atgavo Žemaitiją ir Kuršą, nusiaubė Sembą ir vėliau vėl sukėlė karą Prūsijoje."
   pagrindžia:
     - c-168580
 
 <a id="claim-t-185220"></a>
-- t-073
+- t-059
   global_id: t-185220
   teiginys: "Grafo Barbio vadovauta vokiečių kariuomenė niokojo Sembą ir Žemaitijos pasienius, bet buvo prūsų sutriuškinta."
   pagrindžia:
     - c-168581
 
 <a id="claim-t-185221"></a>
-- t-074
+- t-060
   global_id: t-185221
   teiginys: "Žemaitijoje, pasak Kojelavičiaus, tuo metu priešų nebuvo, bet kaimus niokojo nuodingi kirminai."
   pagrindžia:
     - c-168582
 
 <a id="claim-t-185222"></a>
-- t-075
+- t-061
   global_id: t-185222
   teiginys: "Vaikių ir Pagraudės valsčiai Žemaitijoje buvo nusiaubti žudynėmis ir apiplėšti, todėl daugelį metų beveik neturėjo gyventojų."
   pagrindžia:
     - c-168583
 
 <a id="claim-t-185223"></a>
-- t-076
+- t-062
   global_id: t-185223
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
   pagrindžia:
     - c-168584
 
 <a id="claim-t-185224"></a>
-- t-077
+- t-063
   global_id: t-185224
   teiginys: "Iš Prūsijos patraukęs priešas nusiaubė Žemaitiją ir sulygino su žeme Vaikių, Raseinių, Ariogalos bei Klogėnų valsčius."
   pagrindžia:
     - c-168585
 
 <a id="claim-t-185225"></a>
-- t-078
+- t-064
   global_id: t-185225
   teiginys: "Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos."
   pagrindžia:
     - c-168586
 
 <a id="claim-t-185226"></a>
-- t-079
+- t-065
   global_id: t-185226
   teiginys: "Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai."
   pagrindžia:
     - c-168587
 
 <a id="claim-t-185227"></a>
-- t-080
+- t-066
   global_id: t-185227
   teiginys: "Vytauto pakviesti pasiuntiniai negaišdami atvyko į Žemaitiją ir spalio mėnesį sutvarkė vyskupystės steigimo reikalus."
   pagrindžia:

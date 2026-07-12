@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87207"></a>
-- t-002
+- t-001
   global_id: t-87207
   teiginys: "Apsuptoje Vilniaus Krautuvių pilyje slėpėsi keli tūkstančiai ginkluotų žmonių, vyresnieji ir abiejų lyčių prastuomenė."
   pagrindžia:
     - c-83186
 
 <a id="claim-t-183824"></a>
-- t-003
+- t-002
   global_id: t-183824
   teiginys: "Per apgultį prie Žemutinės pilies slėpdavosi priemiesčių gyventojai ir pirkliai su prekėmis, todėl vokiečiai ją praminė Krautuvių pilimi."
   pagrindžia:

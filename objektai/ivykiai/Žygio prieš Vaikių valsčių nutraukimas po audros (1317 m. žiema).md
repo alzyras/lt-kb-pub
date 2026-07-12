@@ -58,14 +58,14 @@ Nenurodyta
     - c-63850
 
 <a id="claim-t-62960"></a>
-- t-001
+- t-002
   global_id: t-62960
   teiginys: "1317 m. žiemą žygis prieš Vaikių valsčių nutrūko, kai audra išblaškė daugiau nei penkis šimtus kariuomenės arklių."
   pagrindžia:
     - c-63850
 
 <a id="claim-t-194435"></a>
-- t-004
+- t-003
   global_id: t-194435
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   pagrindžia:

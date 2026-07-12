@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41277"></a>
-- t-002
+- t-001
   global_id: t-41277
   teiginys: "Lietuvos vyriausybė numalšino Kauno maištą, todėl lenkai prarado pretekstą atviram Kauno puolimui."
   pagrindžia:
     - c-44899
 
 <a id="claim-t-41278"></a>
-- t-001
+- t-002
   global_id: t-41278
   teiginys: "1920 m. vasario 22–23 d. Kaune kilusio bolševikų sukurstyto maišto pergalė būtų suteikusi Lenkijai pretekstą pulti Lietuvą atvira karine jėga."
   pagrindžia:

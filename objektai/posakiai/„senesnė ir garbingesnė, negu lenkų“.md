@@ -32,14 +32,14 @@ Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimu
 ## Teiginiai
 
 <a id="claim-t-195047"></a>
-- t-002
+- t-001
   global_id: t-195047
   teiginys: "Bychovco kronika Lietuvos bajorų kilmę ir garbę vaizduoja kaip viršesnę už lenkų."
   pagrindžia:
     - c-177410
 
 <a id="claim-t-195048"></a>
-- t-001
+- t-002
   global_id: t-195048
   teiginys: "Ta pati prob lematika vystoma ir Bychovco kronikos originaliuo siuose pasakojimuose iš LDK ir Lenkijos tarpusaviu santykių istorijos XV a."
   pagrindžia:

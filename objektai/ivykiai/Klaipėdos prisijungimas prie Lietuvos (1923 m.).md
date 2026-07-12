@@ -11,7 +11,8 @@ date_start: '1922'
 date_end: '1924'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["politinis-sprendimas", "konfliktas"]
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -65,70 +66,70 @@ Nenurodyta
     - c-100632
 
 <a id="claim-t-23327"></a>
-- t-003
+- t-002
   global_id: t-23327
   teiginys: "Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai."
   pagrindžia:
     - c-16891
 
 <a id="claim-t-23328"></a>
-- t-004
+- t-003
   global_id: t-23328
   teiginys: "1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis."
   pagrindžia:
     - c-16892
 
 <a id="claim-t-23329"></a>
-- t-005
+- t-004
   global_id: t-23329
   teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
   pagrindžia:
     - c-16889
 
 <a id="claim-t-23330"></a>
-- t-006
+- t-005
   global_id: t-23330
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą."
   pagrindžia:
     - c-100633
 
 <a id="claim-t-23329"></a>
-- t-005
+- t-006
   global_id: t-23329
   teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
   pagrindžia:
     - c-16889
 
 <a id="claim-t-26645"></a>
-- t-010
+- t-007
   global_id: t-26645
   teiginys: "Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo."
   pagrindžia:
     - c-26869
 
 <a id="claim-t-26646"></a>
-- t-011
+- t-008
   global_id: t-26646
   teiginys: "1923 m. sausio 17 d. Vyriausias Mažosios Lietuvos gelbėjimo komitetas nutarė prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė karinės bei finansinės pagalbos."
   pagrindžia:
     - c-16892
 
 <a id="claim-t-26841"></a>
-- t-012
+- t-009
   global_id: t-26841
   teiginys: "1923 m. sausio 17 d. VMLGK paskelbė sprendimą prisijungti prie Lietuvos autonominėmis teisėmis ir paprašė Lietuvos vyriausybės karinės bei finansinės pagalbos."
   pagrindžia:
     - c-100634
 
 <a id="claim-t-26842"></a>
-- t-013
+- t-010
   global_id: t-26842
   teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
   pagrindžia:
     - c-26867
 
 <a id="claim-t-26843"></a>
-- t-014
+- t-011
   global_id: t-26843
   teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą, nes Klaipėdos uostas jai labai rūpėjo."
   pagrindžia:

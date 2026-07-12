@@ -62,21 +62,21 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
     - c-59000
 
 <a id="claim-t-58371"></a>
-- t-005
+- t-004
   global_id: t-58371
   teiginys: "Po sugriovimo miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies."
   pagrindžia:
     - c-167578
 
 <a id="claim-t-58372"></a>
-- t-004
+- t-005
   global_id: t-58372
   teiginys: "Prūsai pastatė tiltą per Prieglių ir abiejuose jo galuose įrengė tvirtus kuorus."
   pagrindžia:
     - c-59003
 
 <a id="claim-t-58371"></a>
-- t-005
+- t-006
   global_id: t-58371
   teiginys: "Po sugriovimo miestas buvo perkeltas į slėnį tarp Priegliaus ir pilies."
   pagrindžia:

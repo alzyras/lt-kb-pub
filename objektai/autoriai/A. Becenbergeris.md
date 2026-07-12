@@ -42,14 +42,14 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
     - c-57435
 
 <a id="claim-t-56718"></a>
-- t-003
+- t-002
   global_id: t-56718
   teiginys: "A. Becenbergerio darbai cituojami aptariant vietovardžius su šaknimi garb-."
   pagrindžia:
     - c-57434
 
 <a id="claim-t-56719"></a>
-- t-002
+- t-003
   global_id: t-56719
   teiginys: "A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos."
   pagrindžia:

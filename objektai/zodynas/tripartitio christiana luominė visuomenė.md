@@ -8,8 +8,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - miestas
-  - privilegija
   - sąvoka
+  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,14 +32,14 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
 ## Teiginiai
 
 <a id="claim-t-22330"></a>
-- t-002
+- t-001
   global_id: t-22330
   teiginys: "Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius."
   pagrindžia:
     - c-25019
 
 <a id="claim-t-193614"></a>
-- t-003
+- t-002
   global_id: t-193614
   teiginys: "Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirbančius žmones) samprata galima tiesiogiai sieti ir Viduramžių luomų idėją."
   pagrindžia:

@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41421"></a>
-- t-007
+- t-001
   global_id: t-41421
   teiginys: "Lietuvos Respublikos Konstitucija numato Tautos ir kiekvieno piliečio teisę priešintis prievartiniam kėsinimuisi į valstybės nepriklausomybę."
   pagrindžia:
     - c-44945
 
 <a id="claim-t-41423"></a>
-- t-004
+- t-002
   global_id: t-41423
   teiginys: "Konstitucinė teisė priešintis numato, kad Tauta ir kiekvienas pilietis gali priešintis kėsinimuisi į Lietuvos valstybės nepriklausomybę."
   pagrindžia:
     - c-44945
 
 <a id="claim-t-41424"></a>
-- t-006
+- t-003
   global_id: t-41424
   teiginys: "Tautos suvereniteto negalima varžyti ar riboti."
   pagrindžia:

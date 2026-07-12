@@ -5,7 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - kasdienybė
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -55,7 +57,7 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 ## Teiginiai
 
 <a id="claim-t-20819"></a>
-- t-003
+- t-001
   global_id: t-20819
   teiginys: "Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti."
   pagrindžia:

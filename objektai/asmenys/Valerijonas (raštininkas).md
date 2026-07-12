@@ -41,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87465"></a>
-- t-002
+- t-001
   global_id: t-87465
   teiginys: "Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą."
   pagrindžia:
     - c-83444
 
 <a id="claim-t-87466"></a>
-- t-001
+- t-002
   global_id: t-87466
   teiginys: "1533 m. spalio 23 d. Vilniuje datuotas karalienės Bonos laiškas buvo pasirašytas Valerijono."
   pagrindžia:

@@ -32,14 +32,14 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
 ## Teiginiai
 
 <a id="claim-t-58854"></a>
-- t-002
+- t-001
   global_id: t-58854
   teiginys: "Kristaus kariais vadinti Dobrynės broliai."
   pagrindžia:
     - c-59487
 
 <a id="claim-t-58855"></a>
-- t-001
+- t-002
   global_id: t-58855
   teiginys: "Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde."
   pagrindžia:

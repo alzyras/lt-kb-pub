@@ -40,7 +40,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
 ## Teiginiai
 
 <a id="claim-t-86463"></a>
-- t-003
+- t-001
   global_id: t-86463
   teiginys: "Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi."
   pagrindžia:
@@ -54,7 +54,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
     - c-82443
 
 <a id="claim-t-86465"></a>
-- t-001
+- t-003
   global_id: t-86465
   teiginys: "Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju."
   pagrindžia:

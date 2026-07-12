@@ -48,14 +48,14 @@ media_all_json: |-
     - c-36308
 
 <a id="claim-t-93284"></a>
-- t-003
+- t-002
   global_id: t-93284
   teiginys: "Naugarduko susirinkimas paskyrė Gregorijų Cemblaką Kijevo metropolitu."
   pagrindžia:
     - c-88681
 
 <a id="claim-t-93285"></a>
-- t-002
+- t-003
   global_id: t-93285
   teiginys: "Totorių puldinėjimų metu Gregorijus Cemblakas turėjo iš savo sostinės persikelti į Vilnių."
   pagrindžia:

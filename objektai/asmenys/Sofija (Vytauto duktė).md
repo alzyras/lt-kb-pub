@@ -39,42 +39,42 @@ Sofija šiame įraše atskirta kaip Vytauto duktė ir Maskvos kunigaikštienė. 
 ## Teiginiai
 
 <a id="claim-t-176611"></a>
-- t-008
+- t-001
   global_id: t-176611
   teiginys: "Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties."
   pagrindžia:
     - c-160602
 
 <a id="claim-t-176612"></a>
-- t-009
+- t-002
   global_id: t-176612
   teiginys: "Po vyro mirties Sofija prašė Vytauto paimti jos sūnų Vosylių II globon ir palikti jam valstybę."
   pagrindžia:
     - c-15324
 
 <a id="claim-t-176613"></a>
-- t-012
+- t-003
   global_id: t-176613
   teiginys: "Žemaičių bajorai Sofijos ir Jogailos dukters Jadvygos vardu įteikė protestą prieš Žemaičių krašto atidavimą Ordinui po jų tėvų mirties."
   pagrindžia:
     - c-160600
 
 <a id="claim-t-176614"></a>
-- t-007
+- t-004
   global_id: t-176614
   teiginys: "Jogaila, varžydamas Vytautą, be jo sutikimo uždraudė išleisti Sofiją už Maskvos kunigaikščio."
   pagrindžia:
     - c-160603
 
 <a id="claim-t-176616"></a>
-- t-006
+- t-005
   global_id: t-176616
   teiginys: "Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsilankęs pas Vytautą Lucke, susižadėjo su jo dukteria Sofija."
   pagrindžia:
     - c-160604
 
 <a id="claim-t-184830"></a>
-- t-013
+- t-006
   global_id: t-184830
   teiginys: "Sofija, Vytauto duktė, tekėjo už Maskvos kunigaikščio Vasilijaus, o Vytautas Marienburge surengė jai dideles palydėtuves."
   pagrindžia:

@@ -41,35 +41,35 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
 ## Teiginiai
 
 <a id="claim-t-74801"></a>
-- t-003
+- t-001
   global_id: t-74801
   teiginys: "Lietuvos vyrų krepšinio rinktinė 1992, 1996 ir 2000 m. olimpinėse žaidynėse iškovojo bronzos medalius."
   pagrindžia:
     - c-72809
 
 <a id="claim-t-74802"></a>
-- t-001
+- t-002
   global_id: t-74802
   teiginys: "JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione."
   pagrindžia:
     - c-166554
 
 <a id="claim-t-74804"></a>
-- t-002
+- t-003
   global_id: t-74804
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
   pagrindžia:
     - c-72808
 
 <a id="claim-t-74804"></a>
-- t-002
+- t-004
   global_id: t-74804
   teiginys: "1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione."
   pagrindžia:
     - c-72808
 
 <a id="claim-t-74802"></a>
-- t-001
+- t-005
   global_id: t-74802
   teiginys: "JAV lietuvių trenerių ir kelių žaidėjų padedama Lietuvos vyrų krepšinio rinktinė 1937 m. Rygoje tapo Europos čempione."
   pagrindžia:

@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - vilnius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'
@@ -57,84 +58,84 @@ Mykolas Balinskis buvo XIX a. istorikas ir autorius, siejamas su dvitome „Viln
 ## Teiginiai
 
 <a id="claim-t-55010"></a>
-- t-004
+- t-001
   global_id: t-55010
   teiginys: "Balinskis paliko istorinių darbų ir apybraižų, tarp jų „Vilniaus akademijos istoriją“ ir su Tadu Lipinskiu parengtą „Senovės Lenkiją“."
   pagrindžia:
     - c-55265
 
 <a id="claim-t-55011"></a>
-- t-005
+- t-002
   global_id: t-55011
   teiginys: "Vytautas Berenis apibūdino Mykolą Balinskį kaip kruopštų, pedantišką istoriką, vengusį rašyti be faktografinės bazės."
   pagrindžia:
     - c-55267
 
 <a id="claim-t-55012"></a>
-- t-006
+- t-003
   global_id: t-55012
   teiginys: "Balinskis Vilniaus miesto istorijos pirmąjį tomą baigė rašyti 1825 m. pradžioje ir svarstė trijų ar keturių tomų veikalą."
   pagrindžia:
     - c-55266
 
 <a id="claim-t-55013"></a>
-- t-007
+- t-004
   global_id: t-55013
   teiginys: "Pirmoji M. Balinskio „Vilniaus miesto istorijos“ dalis pasirodė 1836 m."
   pagrindžia:
     - c-55268
 
 <a id="claim-t-55014"></a>
-- t-008
+- t-005
   global_id: t-55014
   teiginys: "Balinskis dėkojo Ignui Danilavičiui, Ignui Onacevičiui ir Pranciškui Malevskiui už istorinę dokumentinę pagalbą."
   pagrindžia:
     - c-55269
 
 <a id="claim-t-55015"></a>
-- t-009
+- t-006
   global_id: t-55015
   teiginys: "Balinskis buvo vienas iš „Biblioteka Warszawska“ steigėjų, rašė biografijas, istorinius veikalus ir rengė Mikalojaus Koperniko raštus bei kronikas."
   pagrindžia:
     - c-55264
 
 <a id="claim-t-55016"></a>
-- t-010
+- t-007
   global_id: t-55016
   teiginys: "Balinskio publicistikai priskiriami „Laiškai nuo Kražantės upės kranto“, spausdinti „Gazeta Warszawska“."
   pagrindžia:
     - c-55271
 
 <a id="claim-t-55017"></a>
-- t-013
+- t-008
   global_id: t-55017
   teiginys: "Mykolo Balinskio „Vilniaus miesto istorijos“ lietuviškas leidimas verstas iš 1836-1837 m. Vilniuje spausdinto leidinio."
   pagrindžia:
     - c-55270
 
 <a id="claim-t-64768"></a>
-- t-011
+- t-009
   global_id: t-64768
   teiginys: "Balinskis siejamas su „Opisanie Statyst. Wilna“."
   pagrindžia:
     - c-55272
 
 <a id="claim-t-188456"></a>
-- t-014
+- t-010
   global_id: t-188456
   teiginys: "Mykolui Balinskiui priskiriama dalies anonimiškų straipsnių, kritikavusių Narbuto „Mažesniuosius istorijos raštus“, autorystė."
   pagrindžia:
     - c-171346
 
 <a id="claim-t-190768"></a>
-- t-015
+- t-011
   global_id: t-190768
   teiginys: "Mykolui Balinskiui priskiriami straipsniai, kurių dauguma kritikavo 1856 m. T. Narbuto „Mažesniuosius istorinius raštus“."
   pagrindžia:
     - c-173650
 
 <a id="claim-t-190769"></a>
-- t-016
+- t-012
   global_id: t-190769
   teiginys: "Mykolas Balinskis galėjo būti anoniminės „Lietuvių mitologijos“ recenzijos autorius, bet citatoje ši autorystė pateikiama tik kaip hipotezė."
   pagrindžia:

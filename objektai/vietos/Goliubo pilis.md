@@ -9,6 +9,7 @@ tags:
   - miestas
   - pilis
   - vieta
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,14 +39,14 @@ Dusburgietis teigia, kad 268 (261) Apie penkių kaimų apiplėšimą Po to lietu
     - c-59070
 
 <a id="claim-t-58437"></a>
-- t-003
+- t-002
   global_id: t-58437
   teiginys: "Pareigų atsisakęs asmuo apsigyveno savo pasistatytoje Goliubo pilyje, ten mirė ir buvo palaidotas Kulmenzės katedros bažnyčioje."
   pagrindžia:
     - c-59069
 
 <a id="claim-t-58438"></a>
-- t-002
+- t-003
   global_id: t-58438
   teiginys: "Goliubo pilis stovėjo prie Drevantos, į šiaurės rytus nuo Torunės."
   pagrindžia:

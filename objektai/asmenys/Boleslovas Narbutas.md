@@ -48,7 +48,7 @@ Boleslovas Narbutas minimas kaip vienas iš Teodoro Narbuto sūnų, 1863 m. suki
 ## Teiginiai
 
 <a id="claim-t-188040"></a>
-- t-002
+- t-001
   global_id: t-188040
   teiginys: "1863 m. sukilimo metu Boleslovas, vienas iš Teodoro Narbuto sūnų, išėjo į miškus."
   pagrindžia:

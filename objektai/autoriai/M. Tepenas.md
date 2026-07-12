@@ -42,28 +42,28 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
 ## Teiginiai
 
 <a id="claim-t-64745"></a>
-- t-006
+- t-001
   global_id: t-64745
   teiginys: "M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai."
   pagrindžia:
     - c-65378
 
 <a id="claim-t-64746"></a>
-- t-009
+- t-002
   global_id: t-64746
   teiginys: "M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio."
   pagrindžia:
     - c-65376
 
 <a id="claim-t-64747"></a>
-- t-001
+- t-003
   global_id: t-64747
   teiginys: "M. Tepenas šiame šaltinyje tiesiogiai nurodomas kaip Petro Dusburgiečio kronikos mokslinio leidimo parengėjas ir paskelbėjas 1861 m."
   pagrindžia:
     - c-56017
 
 <a id="claim-t-64748"></a>
-- t-002
+- t-004
   global_id: t-64748
   teiginys: "M. Tepenas 1853 m. Berlyne paskelbė veikalą „Geschichte der preussischen Historiographie von P. v. Dusburg bis auf K. Schütz“."
   pagrindžia:
@@ -78,7 +78,7 @@ M. Tepenas šiame šaltinyje minimas kaip Petro Dusburgiečio kronikos mokslinio
     - c-56017
 
 <a id="claim-t-64752"></a>
-- t-011
+- t-006
   global_id: t-64752
   teiginys: "M. Tepenas 1858 m. Gotoje išleido „Historisch-comparative Geographie von Preussen“."
   pagrindžia:

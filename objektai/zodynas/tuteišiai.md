@@ -51,21 +51,21 @@ Vartojama kalbant apie etninės Lietuvos pietryčių dalies kalbines ir savimon�
 ## Teiginiai
 
 <a id="claim-t-45859"></a>
-- t-003
+- t-001
   global_id: t-45859
   teiginys: "Rytiniuose ir pietrytiniuose lietuviško ploto pakraščiuose dalis gyventojų save laikė čiabuviais, arba tuteišiais."
   pagrindžia:
     - c-26891
 
 <a id="claim-t-45860"></a>
-- t-004
+- t-002
   global_id: t-45860
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
   pagrindžia:
     - c-48525
 
 <a id="claim-t-183480"></a>
-- t-005
+- t-003
   global_id: t-183480
   teiginys: "Tuteišiais vadinti rytinių ir pietrytinių lietuviškų žemių gyventojai, praradę lietuvio, bet neįgiję baltarusio etninės savimonės."
   pagrindžia:

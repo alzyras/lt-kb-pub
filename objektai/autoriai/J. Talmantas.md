@@ -39,7 +39,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 ## Teiginiai
 
 <a id="claim-t-64646"></a>
-- t-003
+- t-001
   global_id: t-64646
   teiginys: "Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis."
   pagrindžia:
@@ -53,7 +53,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
     - c-36661
 
 <a id="claim-t-64648"></a>
-- t-001
+- t-003
   global_id: t-64648
   teiginys: "J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“."
   pagrindžia:

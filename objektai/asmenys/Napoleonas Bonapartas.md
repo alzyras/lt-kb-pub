@@ -48,14 +48,14 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
     - c-21912
 
 <a id="claim-t-19168"></a>
-- t-003
+- t-002
   global_id: t-19168
   teiginys: "1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje."
   pagrindžia:
     - c-21914
 
 <a id="claim-t-19169"></a>
-- t-002
+- t-003
   global_id: t-19169
   teiginys: "Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė."
   pagrindžia:

@@ -36,7 +36,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-03175
 
 <a id="claim-t-02937"></a>
-- t-001
+- t-002
   global_id: t-02937
   teiginys: "Želviuose buvo įkurta pijarų mokykla."
   pagrindžia:

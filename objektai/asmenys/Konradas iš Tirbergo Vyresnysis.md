@@ -41,14 +41,14 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
 ## Teiginiai
 
 <a id="claim-t-89912"></a>
-- t-005
+- t-001
   global_id: t-89912
   teiginys: "Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę."
   pagrindžia:
     - c-85823
 
 <a id="claim-t-89913"></a>
-- t-001
+- t-002
   global_id: t-89913
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas."
   pagrindžia:
@@ -62,42 +62,42 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85825
 
 <a id="claim-t-89915"></a>
-- t-007
+- t-004
   global_id: t-89915
   teiginys: "Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru."
   pagrindžia:
     - c-85830
 
 <a id="claim-t-89916"></a>
-- t-006
+- t-005
   global_id: t-89916
   teiginys: "Konradas iš Tirbergo Vyresnysis su 1500 raitelių įsiveržė į Sūduvą ir nusiaubė Kimenavos valsčių."
   pagrindžia:
     - c-85826
 
 <a id="claim-t-89917"></a>
-- t-004
+- t-006
   global_id: t-89917
   teiginys: "Konradas iš Tirbergo Vyresnysis subūrė 1500 raitelių, puolė Sasavos pilį, ją užėmė ir sudegino."
   pagrindžia:
     - c-85824
 
 <a id="claim-t-89918"></a>
-- t-008
+- t-007
   global_id: t-89918
   teiginys: "Dusburgietis Konradą iš Tirbergo Vyresnįjį ir jo brolį Konradą Jaunesnįjį apibūdino kaip ryžtingus ir karo žygiais išgarsėjusius vyrus."
   pagrindžia:
     - c-85829
 
 <a id="claim-t-89919"></a>
-- t-009
+- t-008
   global_id: t-89919
   teiginys: "Po Konrado iš Tirbergo Vyresniojo mirties 1279 m. didysis magistras Konradą iš Foichtvangeno paskyrė Prūsijos ir Livonijos brolių magistru."
   pagrindžia:
     - c-85827
 
 <a id="claim-t-89920"></a>
-- t-002
+- t-009
   global_id: t-89920
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras ir nuo 1273 m. vadovavo šešerius metus."
   pagrindžia:
@@ -111,14 +111,14 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
     - c-85829
 
 <a id="claim-t-89913"></a>
-- t-001
+- t-011
   global_id: t-89913
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas."
   pagrindžia:
     - c-167486
 
 <a id="claim-t-89920"></a>
-- t-002
+- t-012
   global_id: t-89920
   teiginys: "Konradas iš Tirbergo Vyresnysis buvo devintas Prūsijos žemės magistras ir nuo 1273 m. vadovavo šešerius metus."
   pagrindžia:

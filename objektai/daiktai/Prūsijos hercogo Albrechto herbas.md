@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - daiktas
   - vyskupas
+  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

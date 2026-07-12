@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75395"></a>
-- t-003
+- t-001
   global_id: t-75395
   teiginys: "Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas Sierakauskas pateko į nelaisvę ir buvo viešai pakartas Vilniuje."
   pagrindžia:
     - c-73196
 
 <a id="claim-t-75396"></a>
-- t-001
+- t-002
   global_id: t-75396
   teiginys: "Po Z. Sierakausko mirties Kauno gubernijos sukilėlių karo vadu buvo paskirtas kunigas Antanas Mackevičius."
   pagrindžia:

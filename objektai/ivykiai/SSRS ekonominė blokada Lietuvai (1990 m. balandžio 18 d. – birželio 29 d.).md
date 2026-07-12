@@ -59,14 +59,14 @@ Nenurodyta
     - c-48257
 
 <a id="claim-t-45440"></a>
-- t-003
+- t-002
   global_id: t-45440
   teiginys: "1990 m. balandžio 18 d. SSRS pradėjo Lietuvos ekonominę blokadą, kuri truko iki birželio 29 d."
   pagrindžia:
     - c-48257
 
 <a id="claim-t-45441"></a>
-- t-002
+- t-003
   global_id: t-45441
   teiginys: "Lietuva atsilaikė prieš SSRS ekonominę blokadą ir diplomatinėmis priemonėmis pasiekė jos atšaukimą."
   pagrindžia:

@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86928"></a>
-- t-002
+- t-001
   global_id: t-86928
   teiginys: "Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį."
   pagrindžia:
     - c-82908
 
 <a id="claim-t-86929"></a>
-- t-001
+- t-002
   global_id: t-86929
   teiginys: "1383 m. prie Vilniaus, ant tilto ties Vingrių versmėmis, užvirė atkaklus mūšis."
   pagrindžia:

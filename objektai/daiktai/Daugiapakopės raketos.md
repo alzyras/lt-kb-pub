@@ -64,21 +64,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45476"></a>
-- t-010
+- t-001
   global_id: t-45476
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ išdėstyta daugiapakopių raketų teorija."
   pagrindžia:
     - c-48266
 
 <a id="claim-t-45477"></a>
-- t-007
+- t-002
   global_id: t-45477
   teiginys: "Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija."
   pagrindžia:
     - c-22227
 
 <a id="claim-t-45479"></a>
-- t-008
+- t-003
   global_id: t-45479
   teiginys: "K. Semenavičiaus raketų brėžiniai buvo publikuoti Amsterdame 1650 m."
   pagrindžia:

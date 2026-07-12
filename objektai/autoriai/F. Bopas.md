@@ -29,7 +29,7 @@ Dusburgietis teigia, kad nuo XIX a. vidurio kalbininkai, pradedant F. Bopu, G. H
 ## Teiginiai
 
 <a id="claim-t-64588"></a>
-- t-002
+- t-001
   global_id: t-64588
   teiginys: "F. Bopo veikalas „Über die Sprache...“ įtrauktas į prūsų kalbos ir raštijos paminklų bibliografiją."
   pagrindžia:

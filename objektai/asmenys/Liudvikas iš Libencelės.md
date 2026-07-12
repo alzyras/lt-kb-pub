@@ -41,35 +41,35 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
 ## Teiginiai
 
 <a id="claim-t-59882"></a>
-- t-005
+- t-001
   global_id: t-59882
   teiginys: "1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais."
   pagrindžia:
     - c-60514
 
 <a id="claim-t-59883"></a>
-- t-001
+- t-002
   global_id: t-59883
   teiginys: "Liudvikas iš Libencelės buvo kilmingas ir nuo jaunų dienų įgudęs kariauti, o paimtą į nelaisvę jį atidavė Skomantui."
   pagrindžia:
     - c-60519
 
 <a id="claim-t-59884"></a>
-- t-004
+- t-003
   global_id: t-59884
   teiginys: "Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė."
   pagrindžia:
     - c-60516
 
 <a id="claim-t-59885"></a>
-- t-002
+- t-004
   global_id: t-59885
   teiginys: "Antrą kartą patekęs į nelaisvę Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai."
   pagrindžia:
     - c-60517
 
 <a id="claim-t-59886"></a>
-- t-003
+- t-005
   global_id: t-59886
   teiginys: "Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių."
   pagrindžia:
@@ -83,7 +83,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
     - c-60518
 
 <a id="claim-t-59886"></a>
-- t-003
+- t-007
   global_id: t-59886
   teiginys: "Liudvikas iš Libencelės, būdamas nelaisvėje, į Kristaus tikėjimą atvertė tūkstantį šešis šimtus abiejų lyčių sūduvių."
   pagrindžia:

@@ -45,21 +45,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78919"></a>
-- t-004
+- t-001
   global_id: t-78919
   teiginys: "„Antemurale Christianitatis“ siejama su gilia Lietuvos kovos Vakarų civilizacijos vertybių pusėje tradicija."
   pagrindžia:
     - c-76022
 
 <a id="claim-t-78920"></a>
-- t-007
+- t-002
   global_id: t-78920
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir taip formavo „antemurale Christianitatis“ ideologiją."
   pagrindžia:
     - c-76021
 
 <a id="claim-t-78921"></a>
-- t-005
+- t-003
   global_id: t-78921
   teiginys: "Pirmieji krikščioniški Lietuvos valdovai organizavo kryžiaus žygius prieš totorius ir formavo „antemurale Christianitatis“ ideologiją."
   pagrindžia:

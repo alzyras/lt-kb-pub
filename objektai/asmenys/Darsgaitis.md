@@ -54,7 +54,7 @@ Narbutas išnašoje Darsgaitį pateikia kaip senovės prūsų Pamedės provincij
 ## Teiginiai
 
 <a id="claim-t-187915"></a>
-- t-002
+- t-001
   global_id: t-187915
   teiginys: "Narbutas Darsgaitį vadina senovės prūsų Pamedės provincijos kriviu, kuris 1227 m. atvyko į kryžiuočių kariuomenę tartis dėl taikos."
   pagrindžia:

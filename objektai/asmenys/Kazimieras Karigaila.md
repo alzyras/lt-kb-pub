@@ -89,42 +89,42 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
     - c-55522
 
 <a id="claim-t-173188"></a>
-- t-008
+- t-005
   global_id: t-173188
   teiginys: "Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui."
   pagrindžia:
     - c-55521
 
 <a id="claim-t-173189"></a>
-- t-007
+- t-006
   global_id: t-173189
   teiginys: "Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas."
   pagrindžia:
     - c-157519
 
 <a id="claim-t-173190"></a>
-- t-011
+- t-007
   global_id: t-173190
   teiginys: "1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias."
   pagrindžia:
     - c-157520
 
 <a id="claim-t-173192"></a>
-- t-010
+- t-008
   global_id: t-173192
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo."
   pagrindžia:
     - c-157523
 
 <a id="claim-t-173193"></a>
-- t-005
+- t-009
   global_id: t-173193
   teiginys: "Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas."
   pagrindžia:
     - c-55523
 
 <a id="claim-t-173194"></a>
-- t-009
+- t-010
   global_id: t-173194
   teiginys: "Ordino pareigūno laiške teigta, kad Karigaila buvo nukautas kareivių neatpažintas, o apie jo žūtį sužinota penktą dieną."
   pagrindžia:

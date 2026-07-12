@@ -39,147 +39,147 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 ## Teiginiai
 
 <a id="claim-t-90011"></a>
-- t-008
+- t-001
   global_id: t-90011
   teiginys: "Sventopelkas pastatė Santyro pilį Vyslos ir Nogato santakoje ir joje įkurdino brolių valdinius puldinėjusius vyrus."
   pagrindžia:
     - c-56165
 
 <a id="claim-t-90012"></a>
-- t-018
+- t-002
   global_id: t-90012
   teiginys: "Prūsai išsirinko Sventopelką savo vyresniuoju ir vadu prieš antpuolį į Prūsijos žemutines apygardas."
   pagrindžia:
     - c-85928
 
 <a id="claim-t-90013"></a>
-- t-010
+- t-003
   global_id: t-90013
   teiginys: "Dusburgietis pasakoja, kad Sventopelkas su dviem tūkstančiais karių įsiveržė į Kulmo žemę ir po nesėkmės traukėsi prie laivų."
   pagrindžia:
     - c-85915
 
 <a id="claim-t-90014"></a>
-- t-001
+- t-004
   global_id: t-90014
   teiginys: "Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“."
   pagrindžia:
     - c-56157
 
 <a id="claim-t-90015"></a>
-- t-029
+- t-005
   global_id: t-90015
   teiginys: "1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais."
   pagrindžia:
     - c-85916
 
 <a id="claim-t-90016"></a>
-- t-022
+- t-006
   global_id: t-90016
   teiginys: "Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę."
   pagrindžia:
     - c-85925
 
 <a id="claim-t-90017"></a>
-- t-006
+- t-007
   global_id: t-90017
   teiginys: "Dusburgietis pasakoja, kad prūsai išsirinko Sventopelką savo vyresniuoju bei vadu."
   pagrindžia:
     - c-56163
 
 <a id="claim-t-90018"></a>
-- t-028
+- t-008
   global_id: t-90018
   teiginys: "Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies."
   pagrindžia:
     - c-85929
 
 <a id="claim-t-90019"></a>
-- t-014
+- t-009
   global_id: t-90019
   teiginys: "Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną."
   pagrindžia:
     - c-85933
 
 <a id="claim-t-90020"></a>
-- t-024
+- t-010
   global_id: t-90020
   teiginys: "1245 m. Sventopelkas pradėjo statyti Sveče pavadintą pilį, turėjusią trukdyti broliams plaukioti Vysla."
   pagrindžia:
     - c-85920
 
 <a id="claim-t-90021"></a>
-- t-025
+- t-011
   global_id: t-90021
   teiginys: "Sventopelkas sutelkė didelę kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti."
   pagrindžia:
     - c-85915
 
 <a id="claim-t-90022"></a>
-- t-013
+- t-012
   global_id: t-90022
   teiginys: "1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius."
   pagrindžia:
     - c-85924
 
 <a id="claim-t-90023"></a>
-- t-007
+- t-013
   global_id: t-90023
   teiginys: "Sventopelkas pareiškė nesiliausiąs persekioti savo priešų, jeigu broliai negrąžins jam sūnaus."
   pagrindžia:
     - c-56164
 
 <a id="claim-t-90024"></a>
-- t-023
+- t-014
   global_id: t-90024
   teiginys: "1244 m. atvykus Ordino pastiprinimui, Sventopelkas pabandė susitaikyti su broliais, ir senoji taika buvo atnaujinta."
   pagrindžia:
     - c-85926
 
 <a id="claim-t-90025"></a>
-- t-020
+- t-015
   global_id: t-90025
   teiginys: "Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę."
   pagrindžia:
     - c-56160
 
 <a id="claim-t-90026"></a>
-- t-011
+- t-016
   global_id: t-90026
   teiginys: "Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu."
   pagrindžia:
     - c-56168
 
 <a id="claim-t-90027"></a>
-- t-009
+- t-017
   global_id: t-90027
   teiginys: "Dusburgietis vaizduoja Sventopelką kaip po mūšio brolių valdinius viliojusį valdovą."
   pagrindžia:
     - c-56166
 
 <a id="claim-t-90028"></a>
-- t-012
+- t-018
   global_id: t-90028
   teiginys: "Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą."
   pagrindžia:
     - c-85929
 
 <a id="claim-t-90029"></a>
-- t-005
+- t-019
   global_id: t-90029
   teiginys: "Dusburgietis Sventopelką vaizduoja kaip Prūsijos tikėjimo ir tikinčiųjų persekiotoją."
   pagrindžia:
     - c-85925
 
 <a id="claim-t-90030"></a>
-- t-015
+- t-020
   global_id: t-90030
   teiginys: "Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą."
   pagrindžia:
     - c-85930
 
 <a id="claim-t-90031"></a>
-- t-004
+- t-021
   global_id: t-90031
   teiginys: "Dusburgietis pasakoja, kad kitame epizode Sventopelkas su Samboru užstojo prūsams kelius ir prisidėjo prie jų triuškinimo."
   pagrindžia:
@@ -193,56 +193,56 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - c-85925
 
 <a id="claim-t-90033"></a>
-- t-017
+- t-023
   global_id: t-90033
   teiginys: "Sventopelkas ragino neseniai Kristaus tikėjimą priėmusius prūsus jėga išvaryti Teutonų ordino brolius iš Prūsijos."
   pagrindžia:
     - c-85923
 
 <a id="claim-t-90034"></a>
-- t-027
+- t-024
   global_id: t-90034
   teiginys: "Sventopelkas per Henriką iš Lichtenšteino skundėsi broliais ir reikalavo grąžinti sūnų, duotą jiems kaip įkaitą."
   pagrindžia:
     - c-85922
 
 <a id="claim-t-90035"></a>
-- t-019
+- t-025
   global_id: t-90035
   teiginys: "Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką."
   pagrindžia:
     - c-85919
 
 <a id="claim-t-90036"></a>
-- t-030
+- t-026
   global_id: t-90036
   teiginys: "Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams."
   pagrindžia:
     - c-85924
 
 <a id="claim-t-90037"></a>
-- t-003
+- t-027
   global_id: t-90037
   teiginys: "Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies."
   pagrindžia:
     - c-56160
 
 <a id="claim-t-90038"></a>
-- t-021
+- t-028
   global_id: t-90038
   teiginys: "Po brolių pralaimėjimo mūšyje Sventopelkas mėgino įkalbinėjimais ir dovanomis palenkti jų valdinius į savo pusę."
   pagrindžia:
     - c-85918
 
 <a id="claim-t-90039"></a>
-- t-031
+- t-029
   global_id: t-90039
   teiginys: "Sventopelkas, buvęs Pomeranijos kunigaikštis, turėjo keturis sūnus: Mstivojų, Samborą, Vartislavą ir dar vieną sūnų."
   pagrindžia:
     - c-85921
 
 <a id="claim-t-90040"></a>
-- t-002
+- t-030
   global_id: t-90040
   teiginys: "Sventopelkas sudarė sąjungą su prūsais, kad jie išvarytų Teutonų ordino brolius ir kitus krikščionis iš Prūsijos."
   pagrindžia:
@@ -250,42 +250,42 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - c-56159
 
 <a id="claim-t-90042"></a>
-- t-026
+- t-031
   global_id: t-90042
   teiginys: "Sventopelkas sutelkė kariuomenę iš savo valdinių ir Prūsijos atsivertėlių ir nusekė paskui atsitraukiančius brolius."
   pagrindžia:
     - c-85932
 
 <a id="claim-t-90036"></a>
-- t-030
+- t-032
   global_id: t-90036
   teiginys: "Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams."
   pagrindžia:
     - c-85924
 
 <a id="claim-t-190973"></a>
-- t-034
+- t-033
   global_id: t-190973
   teiginys: "Pasak Nestoro, poloviečiai visą vasarą laikė apgulę Giurgevo tvirtovę, bet sudarė taiką su Sventopelku."
   pagrindžia:
     - c-173855
 
 <a id="claim-t-190974"></a>
-- t-035
+- t-034
   global_id: t-190974
   teiginys: "Teodoras Narbutas aiškino, kad Giurgevo tvirtovė nebuvo paimta, nes kunigaikštis Sventopelkas sudarė taiką."
   pagrindžia:
     - c-173856
 
 <a id="claim-t-194519"></a>
-- t-036
+- t-035
   global_id: t-194519
   teiginys: "—————————————————— Sventopelkas, minėtasis Pomeranijos kunigaikštis, nieko nelaimėjęs šiomis savo klastingomis vilionėmis, griebėsi kitų priemonių, svaresnių, vildamasis, jog atėjęs tinkamas ir seniai geidžiamas metas, kada jis, nesutikdamas jokio."
   pagrindžia:
     - c-85925
 
 <a id="claim-t-194520"></a>
-- t-037
+- t-036
   global_id: t-194520
   teiginys: "Apie Pomeranijos kunigaikščio Sventopelko mirtį ir jo sūnaus Mstivojaus sukilimą prieš brolius Tais pačiais metais Sventopelkas, Pomeranijos kunigaikštis, atgulė į patalą, o nujausdamas artėjant mirtį, sušaukė savo sūnus ir, sakydamas paskutinę savo valią."
   pagrindžia:

@@ -46,21 +46,21 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
     - c-65191
 
 <a id="claim-t-64438"></a>
-- t-003
+- t-002
   global_id: t-64438
   teiginys: "Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis."
   pagrindžia:
     - c-166973
 
 <a id="claim-t-183579"></a>
-- t-004
+- t-003
   global_id: t-183579
   teiginys: "XVI a. pradžioje šv. Kazimiero kultas ėmė išstumti Lenkijos globėjo šv. Stanislovo kultą."
   pagrindžia:
     - c-166972
 
 <a id="claim-t-183580"></a>
-- t-005
+- t-004
   global_id: t-183580
   teiginys: "1792 m. buvo baigta Lenkijos globėjo šv. Stanislovo skulptūra ant katedros frontono."
   pagrindžia:

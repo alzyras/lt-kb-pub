@@ -30,21 +30,21 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
 ## Teiginiai
 
 <a id="claim-t-72625"></a>
-- t-002
+- t-001
   global_id: t-72625
   teiginys: "Slavofilai skelbė, kad Didžiosios Lietuvos Kunigaikštijos žemės nuo seno buvusios rusų kultūros įtakoje."
   pagrindžia:
     - c-71025
 
 <a id="claim-t-72626"></a>
-- t-003
+- t-002
   global_id: t-72626
   teiginys: "Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui."
   pagrindžia:
     - c-71025
 
 <a id="claim-t-72627"></a>
-- t-001
+- t-003
   global_id: t-72627
   teiginys: "Slavofilams nepatiko Vilniaus universiteto klestėjimas, kai jis išgarsėjo kaip geriausia lenkų mokslo įstaiga."
   pagrindžia:

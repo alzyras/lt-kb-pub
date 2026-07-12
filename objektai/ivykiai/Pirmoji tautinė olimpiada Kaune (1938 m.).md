@@ -59,7 +59,7 @@ Nenurodyta
     - c-23178
 
 <a id="claim-t-75258"></a>
-- t-001
+- t-002
   global_id: t-75258
   teiginys: "1938 m. Kaune vykusioje pirmojoje tautinėje olimpiadoje gausiai dalyvavo ir užsienio šalių lietuviai."
   pagrindžia:

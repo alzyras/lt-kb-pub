@@ -38,14 +38,14 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 ## Teiginiai
 
 <a id="claim-t-67720"></a>
-- t-002
+- t-001
   global_id: t-67720
   teiginys: "1355 m. jo garnizonai įsikūrė Rževe ir Bialoje."
   pagrindžia:
     - c-31973
 
 <a id="claim-t-193172"></a>
-- t-003
+- t-002
   global_id: t-193172
   teiginys: "III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liubešave ir Žuravicuose."
   pagrindžia:

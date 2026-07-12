@@ -38,14 +38,14 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 ## Teiginiai
 
 <a id="claim-t-88187"></a>
-- t-002
+- t-001
   global_id: t-88187
   teiginys: "Michałas Balińskis rašė, kad Gedimino laiško pabaiga prieštarauja Hermano Kornerio teiginiui apie Gedimino ištikimybę tėvų tikėjimui."
   pagrindžia:
     - c-84166
 
 <a id="claim-t-88188"></a>
-- t-001
+- t-002
   global_id: t-88188
   teiginys: "Hermano Cornerio kronikoje rašoma, kad Vilniaus miestiečiai buvo palankesni Jogailai negu Kęstučiui."
   pagrindžia:

@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - karas
   - kunigaikštis
-  - miestas
 amziai:
   - 'XX'
   - 'XXI'
@@ -75,14 +75,14 @@ Nenurodyta
     - c-22321
 
 <a id="claim-t-65006"></a>
-- t-004
+- t-003
   global_id: t-65006
   teiginys: "1930 m. Pasvalyje ypatinga ceremonija buvo pagerbtas po Lietuvą keliavęs Vytauto Didžiojo paveikslas."
   pagrindžia:
     - c-65528
 
 <a id="claim-t-65007"></a>
-- t-003
+- t-004
   global_id: t-65007
   teiginys: "Vytauto Didžiojo kulto kūrimo momentas: 1930 m. Pasvalyje ypatinga ceremonija pagerbiamas keliaujantis po Lietuvą kunigaikščio paveikslas Vytauto Didžiojo karo muziejus, atidarytas 1935 m."
   pagrindžia:

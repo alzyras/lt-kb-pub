@@ -39,7 +39,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
 ## Teiginiai
 
 <a id="claim-t-58822"></a>
-- t-003
+- t-001
   global_id: t-58822
   teiginys: "Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge."
   pagrindžia:
@@ -53,7 +53,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
     - c-59456
 
 <a id="claim-t-58824"></a>
-- t-001
+- t-003
   global_id: t-58824
   teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventosios Elžbietos vyras landgrafas, keliavęs po kryžiaus žygio vėliava."
   pagrindžia:

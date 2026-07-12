@@ -89,6 +89,8 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-184630|metropolitas]]: Sudarius taikos sąlygas, Dimitrijus, metropolitu vadintas vyriausiasis šventikas, viečė ir žymiausieji bajorai prisiekė.
 - susijęs iš [[objektai/zodynas/vaidilos, žyniai ir pranašai.md#claim-t-86494|vaidilos, žyniai ir pranašai]]: Šventaragio slėnyje prie medinės šventyklos stovėjo pagonių vaidilų būstai.
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-185415|viečė]]: Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis taikos sąlygų su Algirdu.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
+- susijęs iš [[objektai/zodynas/Krūva.md#claim-t-195462|Krūva]]: Krūva šiame šaltinyje reiškia iškultus ir į vieną vietą sustumtus javus.
 ## Reikšmingi paminėjimai
 
 - c-001

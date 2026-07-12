@@ -42,7 +42,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 ## Teiginiai
 
 <a id="claim-t-170049"></a>
-- t-004
+- t-001
   global_id: t-170049
   teiginys: "Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas."
   pagrindžia:
@@ -56,21 +56,21 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
     - c-41979
 
 <a id="claim-t-170052"></a>
-- t-005
+- t-003
   global_id: t-170052
   teiginys: "Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos."
   pagrindžia:
     - c-154732
 
 <a id="claim-t-170053"></a>
-- t-003
+- t-004
   global_id: t-170053
   teiginys: "Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje."
   pagrindžia:
     - c-41980
 
 <a id="claim-t-170054"></a>
-- t-001
+- t-005
   global_id: t-170054
   teiginys: "Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos."
   pagrindžia:

@@ -32,7 +32,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Teiginiai
 
 <a id="claim-t-02359"></a>
-- t-003
+- t-001
   global_id: t-02359
   teiginys: "Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų."
   pagrindžia:

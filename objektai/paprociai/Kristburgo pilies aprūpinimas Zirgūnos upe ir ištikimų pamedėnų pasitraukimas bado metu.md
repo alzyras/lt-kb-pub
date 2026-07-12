@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - pilis
+  - teisinė-praktika
   - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62688"></a>
-- t-002
+- t-001
   global_id: t-62688
   teiginys: "Per badą Kristburgo broliai įkalbinėjo jiems ištikimus pamedėnus pasitraukti kitur, kad šie galėtų prasimaitinti."
   pagrindžia:
@@ -59,14 +60,14 @@ Nenurodyta
     - c-63438
 
 <a id="claim-t-62689"></a>
-- t-001
+- t-002
   global_id: t-62689
   teiginys: "Apsuptiems Kristburgo broliams būtiniausius dalykus iš Elbingo Zirgūnos upe gabenti pavykdavo retai ir su dideliu vargu."
   pagrindžia:
     - c-63437
 
 <a id="claim-t-62689"></a>
-- t-001
+- t-003
   global_id: t-62689
   teiginys: "Apsuptiems Kristburgo broliams būtiniausius dalykus iš Elbingo Zirgūnos upe gabenti pavykdavo retai ir su dideliu vargu."
   pagrindžia:

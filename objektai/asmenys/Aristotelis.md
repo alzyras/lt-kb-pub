@@ -27,14 +27,14 @@ Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kriti
 ## Teiginiai
 
 <a id="claim-t-191253"></a>
-- t-002
+- t-001
   global_id: t-191253
   teiginys: "Narbutas Aristotelį mini tarp autorių, kurie kalbėjo apie vandens lygio kritimą ir pateikė to įrodymų."
   pagrindžia:
     - c-174135
 
 <a id="claim-t-191941"></a>
-- t-003
+- t-002
   global_id: t-191941
   teiginys: "Narbutas rašo, kad Aristotelis kartu su Herodotu, Taliu, Teofrastu ir Pitėju Masiliečiu žinojo gintarą, jo savybes ir gavybos vietas."
   pagrindžia:

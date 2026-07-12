@@ -36,14 +36,14 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 ## Teiginiai
 
 <a id="claim-t-68825"></a>
-- t-002
+- t-001
   global_id: t-68825
   teiginys: "Lėktuvėliu „Lituanica“ buvo atliktas tiesioginis skrydis iš Niujorko į Lietuvą."
   pagrindžia:
     - c-68310
 
 <a id="claim-t-68826"></a>
-- t-001
+- t-002
   global_id: t-68826
   teiginys: "1917 m. JAV įstojimas į karą suaktyvino daugiau kaip 300 000 lietuvių imigrantų, gyvenusių daugiausia Čikagoje, Niujorke ir Pensilvanijoje."
   pagrindžia:

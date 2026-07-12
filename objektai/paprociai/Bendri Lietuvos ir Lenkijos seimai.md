@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01934"></a>
-- t-002
+- t-001
   global_id: t-01934
   teiginys: "Susitarimu siekta įkurti jungtinę valstybę su bendru seimu, bendra valdovo rinkimo vieta, bendra apsauga ir bendrais pinigais."
   pagrindžia:
     - c-02172
 
 <a id="claim-t-01936"></a>
-- t-001
+- t-002
   global_id: t-01936
   teiginys: "Bendri Lietuvos ir Lenkijos seimai dažnai nieko neišspręsdavo ir pasibaigdavo triukšmingai."
   pagrindžia:

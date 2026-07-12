@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67171"></a>
-- t-002
+- t-001
   global_id: t-67171
   teiginys: "Vyriausiojoje Lietuvos Mokykloje buvo dėstomi visi to meto universitetiniai mokslai."
   pagrindžia:
     - c-67183
 
 <a id="claim-t-67172"></a>
-- t-001
+- t-002
   global_id: t-67172
   teiginys: "Vyriausiojoje Lietuvos Mokykloje dauguma dalykų tebebuvo dėstoma lotyniškai, o kai kurie dalykai - lenkiškai."
   pagrindžia:

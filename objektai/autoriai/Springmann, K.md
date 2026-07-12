@@ -38,14 +38,14 @@ Springmann, K.
 ## Teiginiai
 
 <a id="claim-t-54134"></a>
-- t-002
+- t-001
   global_id: t-54134
   teiginys: "K. Springmann 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo metu."
   pagrindžia:
     - c-55078
 
 <a id="claim-t-54135"></a>
-- t-001
+- t-002
   global_id: t-54135
   teiginys: "K. Springmannas 1923 m. Freiburge parengė disertaciją apie Lenkiją ir Vokiečių ordiną Konstancos susirinkimo laikais."
   pagrindžia:

@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64983"></a>
-- t-004
+- t-001
   global_id: t-64983
   teiginys: "Iš žvėrių ragų ant kesčių galų darydavo ragotines kaip sau skirtą ginklą."
   pagrindžia:

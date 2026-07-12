@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192036"></a>
-- t-003
+- t-001
   global_id: t-192036
   teiginys: "Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais."
   pagrindžia:
     - c-174910
 
 <a id="claim-t-192037"></a>
-- t-003
+- t-002
   global_id: t-192037
   teiginys: "1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje."
   pagrindžia:

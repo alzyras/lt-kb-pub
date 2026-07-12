@@ -6,7 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - ritualas
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -51,7 +53,7 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187837"></a>
-- t-002
+- t-001
   global_id: t-187837
   teiginys: "Narbutas Lados laikotarpiu laiko gegužės 25–birželio 25 d. tarpsnį, kai, jo teigimu, lietuviai aukodavo baltus gaidžius, rengdavo puotas, šokdavo ir dainuodavo."
   pagrindžia:

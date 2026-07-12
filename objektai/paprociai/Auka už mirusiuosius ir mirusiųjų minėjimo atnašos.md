@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - laidotuvės
   - ritualas
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187991"></a>
-- t-002
+- t-001
   global_id: t-187991
   teiginys: "Narbutas mini auką už mirusius bičiulius, kai smilkymas kartais užbaigdavo Vėlinių iškilmes."
   pagrindžia:
     - c-171000
 
 <a id="claim-t-194621"></a>
-- t-003
+- t-002
   global_id: t-194621
   teiginys: "Atnašaujant dideles aukas, būdavo ir laidotuvių lauže sudeginama daug dalykų, net ir gyvi žmonės."
   pagrindžia:

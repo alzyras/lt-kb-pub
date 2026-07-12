@@ -50,28 +50,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-108555"></a>
-- t-010
+- t-001
   global_id: t-108555
   teiginys: "Bunkeryje priimtoje LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos valdymo principai."
   pagrindžia:
     - c-100711
 
 <a id="claim-t-108556"></a>
-- t-008
+- t-002
   global_id: t-108556
   teiginys: "Laurynas Mingėlas-Džiugas po = j Užpelkių kautynių buvo sunkiai sužeistas ir apie metus gydėsi Miknių sodyboje įrengtame bunkeryje (tame pačiame, kur buvo pasirašyta 1949 m. vasario 16 d. LLKS Deklaracija)."
   pagrindžia:
     - c-100708
 
 <a id="claim-t-108558"></a>
-- t-005
+- t-003
   global_id: t-108558
   teiginys: "1949 m. vasarį partizanų apygardų atstovų suvažiavimas suvienijo antisovietinio pasipriešinimo kovotojus į Lietuvos laisvės kovos sąjūdį."
   pagrindžia:
     - c-100708
 
 <a id="claim-t-183703"></a>
-- t-011
+- t-004
   global_id: t-183703
   teiginys: "1949 m. vasario 16 d. LLKS tarybos deklaracija nubrėžė atkurtos nepriklausomos demokratinės Lietuvos Respublikos ateities raidos gaires."
   pagrindžia:

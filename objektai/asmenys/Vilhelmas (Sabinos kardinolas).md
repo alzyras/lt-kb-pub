@@ -14,6 +14,7 @@ tags:
   - asmuo
   - ordinas
   - popiežius
+  - redaktorius
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -40,7 +41,7 @@ Dusburgietis teigia, kad regulos ir prologo redaktoriumi greičiausiai buvo Vilh
 ## Teiginiai
 
 <a id="claim-t-60221"></a>
-- t-002
+- t-001
   global_id: t-60221
   teiginys: "Kronikininkas klaidingai tapatino popiežiaus pasiuntinį Prūsijoje Vilhelmą su vėlesniu popiežiumi Aleksandru IV."
   pagrindžia:

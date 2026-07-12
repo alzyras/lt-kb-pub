@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62939"></a>
-- t-002
+- t-001
   global_id: t-62939
   teiginys: "Senosios Torunės pilaitė liko Ordino rankose ir buvo naudojama kaip gyvulininkystės dvaras."
   pagrindžia:

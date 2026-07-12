@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-68823"></a>
-- t-003
+- t-001
   global_id: t-68823
   teiginys: "Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį."
   pagrindžia:

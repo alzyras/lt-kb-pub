@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - seimas
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67123"></a>
-- t-002
+- t-001
   global_id: t-67123
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl veto teisė juose nebeveikė."
   pagrindžia:
     - c-67150
 
 <a id="claim-t-67124"></a>
-- t-001
+- t-002
   global_id: t-67124
   teiginys: "Konfederaciniuose seimuose numatyti klausimai buvo sprendžiami balsų dauguma, todėl juose nebeveikė veto teisė."
   pagrindžia:

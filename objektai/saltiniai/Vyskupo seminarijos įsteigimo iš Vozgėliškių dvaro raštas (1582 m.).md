@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88113"></a>
-- t-002
+- t-001
   global_id: t-88113
   teiginys: "1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą."
   pagrindžia:
     - c-84092
 
 <a id="claim-t-88114"></a>
-- t-001
+- t-002
   global_id: t-88114
   teiginys: "Vyskupo seminarijos įsteigimo iš Vozgėliškėmis vadinamo vyskupų stalo dvaro raštas datuojamas 1582 metais."
   pagrindžia:

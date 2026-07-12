@@ -43,28 +43,28 @@ Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam tapus Lenkijos karaliumi (13
 ## Teiginiai
 
 <a id="claim-t-182855"></a>
-- t-022
+- t-001
   global_id: t-182855
   teiginys: "Jogailaičių epocha truko beveik du amžius, nuo 1386 iki 1572 metų."
   pagrindžia:
     - c-31079
 
 <a id="claim-t-182856"></a>
-- t-023
+- t-002
   global_id: t-182856
   teiginys: "Jogailaičių epocha Lenkijos istorijoje laikoma šviesiausiąja."
   pagrindžia:
     - c-166260
 
 <a id="claim-t-183137"></a>
-- t-024
+- t-003
   global_id: t-183137
   teiginys: "Jogailai tapus Lenkijos karaliumi 1386 m., atsirado Gediminaičių šakos Jogailaičių dinastija."
   pagrindžia:
     - c-166522
 
 <a id="claim-t-193538"></a>
-- t-025
+- t-004
   global_id: t-193538
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
   pagrindžia:

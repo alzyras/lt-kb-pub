@@ -32,14 +32,14 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
 ## Teiginiai
 
 <a id="claim-t-58846"></a>
-- t-002
+- t-001
   global_id: t-58846
   teiginys: "Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus."
   pagrindžia:
     - c-59479
 
 <a id="claim-t-58847"></a>
-- t-001
+- t-002
   global_id: t-58847
   teiginys: "Arbaletas aiškinamas kaip kilpinis lankas, kurio templė įtempiama suktuvu."
   pagrindžia:

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
 ## Teiginiai
 
 <a id="claim-t-183882"></a>
-- t-003
+- t-001
   global_id: t-183882
   teiginys: "Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne."
   pagrindžia:

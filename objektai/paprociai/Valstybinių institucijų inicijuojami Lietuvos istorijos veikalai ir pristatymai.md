@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - paprotys
   - tauta
 amziai:
@@ -69,21 +70,21 @@ Nenurodyta
     - c-166726
 
 <a id="claim-t-54363"></a>
-- t-003
+- t-002
   global_id: t-54363
   teiginys: "2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją."
   pagrindžia:
     - c-55217
 
 <a id="claim-t-54364"></a>
-- t-002
+- t-003
   global_id: t-54364
   teiginys: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių."
   pagrindžia:
     - c-55218
 
 <a id="claim-t-54364"></a>
-- t-002
+- t-004
   global_id: t-54364
   teiginys: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių."
   pagrindžia:

@@ -13,7 +13,7 @@ tags:
   - karas
   - kunigaikštis
   - pilis
-  - privilegija
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

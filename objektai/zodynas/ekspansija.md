@@ -27,7 +27,7 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 ## Teiginiai
 
 <a id="claim-t-70130"></a>
-- t-003
+- t-001
   global_id: t-70130
   teiginys: "Ekspansija čia reiškia Lietuvos plėtimąsi į rytus."
   pagrindžia:
@@ -35,7 +35,7 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     - c-14690
 
 <a id="claim-t-70131"></a>
-- t-004
+- t-002
   global_id: t-70131
   teiginys: "Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais."
   pagrindžia:

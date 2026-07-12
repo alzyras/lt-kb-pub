@@ -35,14 +35,14 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 ## Teiginiai
 
 <a id="claim-t-22158"></a>
-- t-002
+- t-001
   global_id: t-22158
   teiginys: "Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją."
   pagrindžia:
     - c-24845
 
 <a id="claim-t-22159"></a>
-- t-001
+- t-002
   global_id: t-22159
   teiginys: "Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet vidaus reikalų žinybai pavaldus gubernatorius, atsiunčiamas iš centro arba kitų gubernijų."
   pagrindžia:
@@ -57,7 +57,9 @@ Vietinio valdymo grandyje buvo gubernija, kurios galva – caro skiriamas, bet v
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš Vilnius: 1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.
 - susijęs iš [[objektai/zodynas/gubernija apskritis (ujezd).md#claim-t-22156|gubernija apskritis (ujezd)]]: Aneksuotoje teritorijoje iš pradžių kurtos dvi gubernijos po metų buvo sujungtos į vieną Lietuvos guberniją.
+- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195570|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: 1904 m. rugpjūčio ir rugsėjo mėnesiais A. R. Niemis vyko į Archangelsko guberniją.
 - susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
 - susijęs iš [[objektai/asmenys/Jurgis Šaulys.md#claim-t-19033|Jurgis Šaulys]]: Jurgis Šaulys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/asmenys/Steponas Kairys.md#claim-t-64123|Steponas Kairys]]: Steponas Kairys 1917 m. lapkričio 2–10 d. dalyvavo Berno konferencijoje kaip Lietuvos Tarybos prezidiumo narys.

@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187983"></a>
-- t-002
+- t-001
   global_id: t-187983
   teiginys: "Narbutas Pokliaus ženklą apibūdina kaip tris kaukoles: žmogaus, jaučio ir arklio."
   pagrindžia:

@@ -46,14 +46,14 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - c-72238
 
 <a id="claim-t-74192"></a>
-- t-003
+- t-002
   global_id: t-74192
   teiginys: "Tautininkai, susitarę su krikščionių demokratų bloku, gruodžio 19 d. sušaukė III Seimo nepaprastąjį posėdį."
   pagrindžia:
     - c-22470
 
 <a id="claim-t-74191"></a>
-- t-001
+- t-003
   global_id: t-74191
   teiginys: "Krikščionių demokratų blokas laimėjo 1920 m. balandžio 14–15 d. rinkimus ir gavo 59 vietas."
   pagrindžia:
@@ -67,7 +67,7 @@ Visuomenė aktyviai dalyvavo 1920 m. balandžio 14–15 d. rinkimuose, kuriuos l
     - c-22471
 
 <a id="claim-t-74195"></a>
-- t-002
+- t-005
   global_id: t-74195
   teiginys: "Krikščionių demokratų blokas pralaimėjo 1926 m. gegužės 8–9 d. rinkimus į 85 vietų III Seimą."
   pagrindžia:

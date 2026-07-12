@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
 ## Teiginiai
 
 <a id="claim-t-58445"></a>
-- t-003
+- t-001
   global_id: t-58445
   teiginys: "Kampsvykių pilis taip pat tapatinama su Kamantų piliakalniu kairiajame Vangrapės krante, į šiaurę nuo Darkiemio."
   pagrindžia:
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
     - c-59078
 
 <a id="claim-t-58447"></a>
-- t-001
+- t-003
   global_id: t-58447
   teiginys: "Magistras su didele kariuomene užpuolė prie Arsos upės stovėjusią Kampsvykių pilį ir ją sudegino iki pamatų."
   pagrindžia:

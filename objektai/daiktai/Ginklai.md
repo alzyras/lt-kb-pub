@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185851"></a>
-- t-002
+- t-001
   global_id: t-185851
   teiginys: "Vaidevutis nepradėjo nė vieno karo ir manė, kad padėti ginklai sušvelnina dažnuose žygiuose užkietėjusias širdis."
   pagrindžia:
     - c-169212
 
 <a id="claim-t-193367"></a>
-- t-003
+- t-002
   global_id: t-193367
   teiginys: "Jie džiaugėsi, kad smarkiai padidėjo jėgos ypač tokiu laiku, kada kaimyninės tautos, atsikėlusios prie Vyslos, iš arti ėmė grasinti ginklais Prūsijai."
   pagrindžia:

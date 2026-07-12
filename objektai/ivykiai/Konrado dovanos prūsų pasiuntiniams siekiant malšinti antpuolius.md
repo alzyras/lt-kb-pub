@@ -14,6 +14,7 @@ date_end: '1225'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - ivykis
   - kunigaikštis
 amziai:

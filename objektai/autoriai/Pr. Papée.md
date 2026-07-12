@@ -37,14 +37,14 @@ Papée). Papée, Pr. i Papée, Fr.
 ## Teiginiai
 
 <a id="claim-t-30928"></a>
-- t-002
+- t-001
   global_id: t-30928
   teiginys: "Pr. Papée 1904 m. Krokuvoje paskelbė darbą Polska i Litwa na przełomie wieków średnich."
   pagrindžia:
     - c-33107
 
 <a id="claim-t-30929"></a>
-- t-001
+- t-002
   global_id: t-30929
   teiginys: "Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais."
   pagrindžia:

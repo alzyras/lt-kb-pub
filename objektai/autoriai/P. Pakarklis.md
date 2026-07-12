@@ -38,21 +38,21 @@ Dusburgietis teigia, kad pakarklis plėtojo mintį, kad ir Pavyslio gyventojai k
 ## Teiginiai
 
 <a id="claim-t-97205"></a>
-- t-005
+- t-001
   global_id: t-97205
   teiginys: "P. Pakarklis parašė straipsnį „Lietuvos Didžiųjų Kunigaikščių metraštis“, paskelbtą AkMD 3 tome 1957 m."
   pagrindžia:
     - c-91692
 
 <a id="claim-t-97206"></a>
-- t-003
+- t-002
   global_id: t-97206
   teiginys: "P. Pakarklis paskelbė darbą apie kryžiuočius."
   pagrindžia:
     - c-91694
 
 <a id="claim-t-97208"></a>
-- t-001
+- t-003
   global_id: t-97208
   teiginys: "P. Pakarklis plėtojo mintį, kad Pavyslio, Rytprūsių ir Lietuvos gyventojus siejo bendra kalba, tikyba ir politinis vienetas."
   pagrindžia:

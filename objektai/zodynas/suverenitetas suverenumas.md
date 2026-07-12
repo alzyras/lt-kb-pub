@@ -12,10 +12,10 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sutartis
   - sąvoka
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -40,56 +40,56 @@ Vasario 16 Aktas, išreiškęs lietuvių tautos viltis ir aspiracijas, tapo naci
 ## Teiginiai
 
 <a id="claim-t-104204"></a>
-- t-002
+- t-001
   global_id: t-104204
   teiginys: "Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą."
   pagrindžia:
     - c-97157
 
 <a id="claim-t-104205"></a>
-- t-006
+- t-002
   global_id: t-104205
   teiginys: "Maskva patvirtino, kad Lietuva turi suverenias teises į Vilnių, kol neatsisakys suverenumo Lenkijos naudai."
   pagrindžia:
     - c-97158
 
 <a id="claim-t-104206"></a>
-- t-005
+- t-003
   global_id: t-104206
   teiginys: "LPS reikalaujant, 1989 m. gegužės 18 d. priimtos konstitucinės pataisos, skelbiančios Lietuvos įstatymų viršenybę SSRS įstatymų atžvilgiu, ir deklaracija dėl Lietuvos SSR valstybinio suvereniteto."
   pagrindžia:
     - c-97162
 
 <a id="claim-t-104207"></a>
-- t-001
+- t-004
   global_id: t-104207
   teiginys: "Vasario 16 Aktas tapo lietuvių nacijos laisvės ir suverenumo simboliu ir davė pradžią tikrai Lietuvos nepriklausomybei."
   pagrindžia:
     - c-97159
 
 <a id="claim-t-104208"></a>
-- t-004
+- t-005
   global_id: t-104208
   teiginys: "Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai."
   pagrindžia:
     - c-97161
 
 <a id="claim-t-183469"></a>
-- t-007
+- t-006
   global_id: t-183469
   teiginys: "Pirmuoju sutarties straipsniu Rusija visiems laikams atsisakė teisių į Lietuvą ir pripažino jos nepriklausomybę bei suverenumą."
   pagrindžia:
     - c-166864
 
 <a id="claim-t-183470"></a>
-- t-008
+- t-007
   global_id: t-183470
   teiginys: "Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
   pagrindžia:
     - c-166865
 
 <a id="claim-t-183471"></a>
-- t-009
+- t-008
   global_id: t-183471
   teiginys: "Suverenumo sąvoka pamažu keitėsi, tačiau politinės sistemos keitimas dar neminėtas, o tautiniu klausimu pasisakyta atsargiai."
   pagrindžia:

@@ -67,7 +67,7 @@ Nenurodyta
     - c-166696
 
 <a id="claim-t-183306"></a>
-- t-003
+- t-002
   global_id: t-183306
   teiginys: "Reformacijos antrajame etape didikai rinkosi kalvinizmą, nes jis tiko jų siekiui silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką."
   pagrindžia:

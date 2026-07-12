@@ -58,42 +58,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97128"></a>
-- t-003
+- t-001
   global_id: t-97128
   teiginys: "Zigmanto teisininkų delegacija aiškino Vytautui, kad karaliaus vainikavimui popiežiaus sutikimas nereikalingas."
   pagrindžia:
     - c-31413
 
 <a id="claim-t-97129"></a>
-- t-005
+- t-002
   global_id: t-97129
   teiginys: "Zigmantas įrodinėjo, kad Vytautui vainiką gali suteikti ir Romoje nevainikuotas imperatorius, remdamasis karalių vainikavimu be patepimo."
   pagrindžia:
     - c-31414
 
 <a id="claim-t-97130"></a>
-- t-004
+- t-003
   global_id: t-97130
   teiginys: "Zigmantas teigė, kad Vytautui karaliaus vainiką galėjo suteikti ir Romoje nevainikuotas imperatorius."
   pagrindžia:
     - c-31414
 
 <a id="claim-t-97131"></a>
-- t-001
+- t-004
   global_id: t-97131
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas valdovas turėjo prisidėti prie Kristaus karalystės platinimo žemėje."
   pagrindžia:
     - c-91644
 
 <a id="claim-t-97132"></a>
-- t-006
+- t-005
   global_id: t-97132
   teiginys: "Pagal ordines vainikuotas ir šventais aliejais pateptas krikščioniškas valdovas turėjo platinti tikėjimą ir ginti Bažnyčią."
   pagrindžia:
     - c-91645
 
 <a id="claim-t-97133"></a>
-- t-002
+- t-006
   global_id: t-97133
   teiginys: "Pačios karūnavimo apeigos skaitėsi sakramentu."
   pagrindžia:

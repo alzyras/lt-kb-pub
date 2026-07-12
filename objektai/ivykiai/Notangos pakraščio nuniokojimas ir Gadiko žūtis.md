@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - sutartis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -53,7 +54,7 @@ Nenurodyta
     - c-63034
 
 <a id="claim-t-62418"></a>
-- t-001
+- t-002
   global_id: t-62418
   teiginys: "Komtūras su Vonsdorfo vyrais nuniokojo taikos sutartims nepritarusį Notangos pakraštį ir nužudė vadą Gadiką su dviem sūnumis."
   pagrindžia:

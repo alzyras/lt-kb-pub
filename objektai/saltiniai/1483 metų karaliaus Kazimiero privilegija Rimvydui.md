@@ -10,7 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - saltinis
 amziai:
   - 'XV'
@@ -36,7 +35,7 @@ Narbutas teigia radęs 1483 m. karaliaus Kazimiero privilegiją, rašytą rusų 
 ## Teiginiai
 
 <a id="claim-t-188031"></a>
-- t-002
+- t-001
   global_id: t-188031
   teiginys: "Narbutas 1483 m. karaliaus Kazimiero privilegijoje Rimvydui rado įrodymą, kad katinas lietuviams buvęs Lietuvos simbolis."
   pagrindžia:

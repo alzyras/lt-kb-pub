@@ -41,35 +41,35 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 ## Teiginiai
 
 <a id="claim-t-110661"></a>
-- t-005
+- t-001
   global_id: t-110661
   teiginys: "1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą."
   pagrindžia:
     - c-102463
 
 <a id="claim-t-110662"></a>
-- t-003
+- t-002
   global_id: t-110662
   teiginys: "Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą."
   pagrindžia:
     - c-102461
 
 <a id="claim-t-110663"></a>
-- t-004
+- t-003
   global_id: t-110663
   teiginys: "Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių."
   pagrindžia:
     - c-102461
 
 <a id="claim-t-110664"></a>
-- t-001
+- t-004
   global_id: t-110664
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis."
   pagrindžia:
     - c-22426
 
 <a id="claim-t-193537"></a>
-- t-006
+- t-005
   global_id: t-193537
   teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
   pagrindžia:

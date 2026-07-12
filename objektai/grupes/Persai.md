@@ -30,56 +30,56 @@ Persų viešpačiai šioje vietoje pateikiami kaip Lietuvos tautos karo partneri
 ## Teiginiai
 
 <a id="claim-t-189425"></a>
-- t-002
+- t-001
   global_id: t-189425
   teiginys: "Narbutas mini, kad senovės persai turėjo karingą dievaitį Kaousą."
   pagrindžia:
     - c-172312
 
 <a id="claim-t-189426"></a>
-- t-003
+- t-002
   global_id: t-189426
   teiginys: "Narbutas šio dievo mitą sieja su senovės persų Oromazu ir Arimanu ir spėja iš jų kilmę."
   pagrindžia:
     - c-172313
 
 <a id="claim-t-189427"></a>
-- t-004
+- t-003
   global_id: t-189427
   teiginys: "Narbutas žalčių garbinimą vadina visuotiniu senovės prietaru ir tarp jį pažinojusių tautų mini persus."
   pagrindžia:
     - c-172314
 
 <a id="claim-t-189428"></a>
-- t-005
+- t-004
   global_id: t-189428
   teiginys: "Narbutas rašo, kad chaldėjai, persai, egiptiečiai, graikai, romėnai ir kiti ugnį garbino kaip dievybę."
   pagrindžia:
     - c-172315
 
 <a id="claim-t-189429"></a>
-- t-006
+- t-005
   global_id: t-189429
   teiginys: "Narbutas, remdamasis Herodotu ir Strabonu, rašo, kad persai ir kitos Rytų tautos ilgai nežinojo šventyklų, o aukas atnašavo kalnuose."
   pagrindžia:
     - c-172316
 
 <a id="claim-t-192438"></a>
-- t-007
+- t-006
   global_id: t-192438
   teiginys: "Teodoras Narbutas vaizduoja, kad Indatiras niekino graikus ir persus kaip svetimus žmones, o persai savo ruožtu niekino skitus kaip barbarus."
   pagrindžia:
     - c-175232
 
 <a id="claim-t-192439"></a>
-- t-008
+- t-007
   global_id: t-192439
   teiginys: "514 m. pr. Kr. Darijui patraukus prieš Indatirą, persų būriai įžengė į Europą ir, remiami graikų sąjungininkų, brovėsi Dunojaus link."
   pagrindžia:
     - c-175233
 
 <a id="claim-t-192440"></a>
-- t-009
+- t-008
   global_id: t-192440
   teiginys: "552 m. Naršo vadovaujamoje Justiniano kariuomenėje prie Pado žemupio greta longobardų ir persų buvo herulų."
   pagrindžia:

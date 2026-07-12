@@ -11,6 +11,7 @@ date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - karas
   - tauta

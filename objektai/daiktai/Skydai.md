@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192052"></a>
-- t-002
+- t-001
   global_id: t-192052
   teiginys: "Narbutas rašo, kad riterių išėjimo į mūšį apraše skydai spindėjo kaip žvaigždės."
   pagrindžia:
     - c-174923
 
 <a id="claim-t-192053"></a>
-- t-001
+- t-002
   global_id: t-192053
   teiginys: "E. Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a."
   pagrindžia:

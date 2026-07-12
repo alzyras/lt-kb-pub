@@ -62,7 +62,7 @@ Nenurodyta
     - c-166721
 
 <a id="claim-t-183331"></a>
-- t-003
+- t-002
   global_id: t-183331
   teiginys: "Po 1905 m. mokyklas leista steigti privatiems asmenims ir visuomeninėms organizacijoms, o jose galėjo būti mokoma lietuvių ir lenkų kalbomis."
   pagrindžia:

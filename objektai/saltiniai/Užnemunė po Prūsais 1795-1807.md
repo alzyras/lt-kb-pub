@@ -15,6 +15,7 @@ tags:
   - bajorija
   - saltinis
   - seimas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XX'
@@ -40,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-97274"></a>
-- t-002
+- t-001
   global_id: t-97274
   teiginys: "Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data."
   pagrindžia:
     - c-91758
 
 <a id="claim-t-97275"></a>
-- t-001
+- t-002
   global_id: t-97275
   teiginys: "„Užnemunė po Prūsais 1795-1807“ išleista 1928 m."
   pagrindžia:

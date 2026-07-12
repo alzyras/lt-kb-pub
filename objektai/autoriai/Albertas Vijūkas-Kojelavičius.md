@@ -34,7 +34,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
 ## Teiginiai
 
 <a id="claim-t-184456"></a>
-- t-003
+- t-001
   global_id: t-184456
   teiginys: "Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams."
   pagrindžia:
@@ -48,42 +48,42 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
     - c-167812
 
 <a id="claim-t-184458"></a>
-- t-006
+- t-003
   global_id: t-184458
   teiginys: "Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje."
   pagrindžia:
     - c-167811
 
 <a id="claim-t-184459"></a>
-- t-005
+- t-004
   global_id: t-184459
   teiginys: "1640 m. Vilniaus akademija išleido Alberto Vijūko-Kojelavičiaus redaguotą kalbų rinkinį jėzuitų ordino šimtmečiui paminėti."
   pagrindžia:
     - c-167809
 
 <a id="claim-t-184460"></a>
-- t-004
+- t-005
   global_id: t-184460
   teiginys: "Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno."
   pagrindžia:
     - c-167813
 
 <a id="claim-t-184603"></a>
-- t-007
+- t-006
   global_id: t-184603
   teiginys: "J. Jurginis įvade teigia, kad Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ sėkmingai atstovavo Lietuvai mokslo pasaulyje."
   pagrindžia:
     - c-167964
 
 <a id="claim-t-193372"></a>
-- t-008
+- t-007
   global_id: t-193372
   teiginys: "Albertas Vijūkas-Kojelavičius daro dėl senų prietarų; kadangi jis niekam nėra atskleidęs, kodėl taip elgiasi, nesmerksiu jo prietaringumo."
   pagrindžia:
     - c-176097
 
 <a id="claim-t-193373"></a>
-- t-009
+- t-008
   global_id: t-193373
   teiginys: "Albertas Vijūkas-Kojelavičius įtaisė karo stovyklą Obolcuose."
   pagrindžia:

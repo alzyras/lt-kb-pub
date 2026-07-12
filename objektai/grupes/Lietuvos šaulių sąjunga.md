@@ -39,35 +39,35 @@ Lietuvos viduje deryboms dėl Himanso plano pritarė Lietuvos diplomatai, tačia
 ## Teiginiai
 
 <a id="claim-t-74805"></a>
-- t-003
+- t-001
   global_id: t-74805
   teiginys: "1940 m. liepos 11 d. Lietuvos šaulių sąjungos veikla buvo sustabdyta, o pati sąjunga nuginkluota."
   pagrindžia:
     - c-72814
 
 <a id="claim-t-74806"></a>
-- t-001
+- t-002
   global_id: t-74806
   teiginys: "Lietuvos šaulių sąjunga priešinosi deryboms dėl Himanso plano, kuris Lietuvoje vertintas kaip lenkų Trojos arklys."
   pagrindžia:
     - c-72813
 
 <a id="claim-t-74807"></a>
-- t-004
+- t-003
   global_id: t-74807
   teiginys: "1940 m. liepos 6 d. buvo patvirtintas Lietuvos politinių partijų ir šaulių vadovybės operatyvinės likvidacijos planas."
   pagrindžia:
     - c-72815
 
 <a id="claim-t-74808"></a>
-- t-005
+- t-004
   global_id: t-74808
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   pagrindžia:
     - c-72811
 
 <a id="claim-t-74809"></a>
-- t-002
+- t-005
   global_id: t-74809
   teiginys: "Vokietijos ir Lenkijos karo metu Šaulių sąjunga, voldemarininkai ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių."
   pagrindžia:

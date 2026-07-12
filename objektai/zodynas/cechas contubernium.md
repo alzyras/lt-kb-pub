@@ -9,7 +9,7 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - privilegija
+  - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,14 +32,14 @@ Už tai, kad jis nepakluso Lenkijos karaliaus it taip pat didžiojo Lietuvos kun
 ## Teiginiai
 
 <a id="claim-t-86461"></a>
-- t-002
+- t-001
   global_id: t-86461
   teiginys: "Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų."
   pagrindžia:
     - c-82440
 
 <a id="claim-t-86462"></a>
-- t-001
+- t-002
   global_id: t-86462
   teiginys: "Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai."
   pagrindžia:

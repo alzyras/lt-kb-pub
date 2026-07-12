@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -37,14 +38,14 @@ Bene rimčiausias krikščionių demokratų konkurentas etninių lietuvių tauti
 ## Teiginiai
 
 <a id="claim-t-74646"></a>
-- t-002
+- t-001
   global_id: t-74646
   teiginys: "Lietuvos demokratų partija leido nelegalią spaudą, bendradarbiavo su socialdemokratais ir per masonų ložes tarėsi dėl valstybingumo."
   pagrindžia:
     - c-22595
 
 <a id="claim-t-74647"></a>
-- t-001
+- t-002
   global_id: t-74647
   teiginys: "Lietuvos demokratų partija, susikūrusi 1902 m. „Varpą“ leidusios organizacijos pagrindu, buvo liberali krikščionių demokratų konkurentė lietuvių tautiniame sąjūdyje."
   pagrindžia:

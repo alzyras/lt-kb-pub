@@ -39,14 +39,14 @@ Trečią kartą šis papilys bu­ vo sudegintas 1324 metais; rašo apie tai Dusb
 ## Teiginiai
 
 <a id="claim-t-87584"></a>
-- t-002
+- t-001
   global_id: t-87584
   teiginys: "Tomas Aldenburgas su 44 broliais ir 400 vyrų auštant įsiveržė į Gedimino pilies papilį ir jį sudegino."
   pagrindžia:
     - c-83563
 
 <a id="claim-t-87585"></a>
-- t-001
+- t-002
   global_id: t-87585
   teiginys: "1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį."
   pagrindžia:

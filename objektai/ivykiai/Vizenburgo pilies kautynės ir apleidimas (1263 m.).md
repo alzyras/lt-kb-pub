@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62951"></a>
-- t-003
+- t-001
   global_id: t-62951
   teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
   pagrindžia:

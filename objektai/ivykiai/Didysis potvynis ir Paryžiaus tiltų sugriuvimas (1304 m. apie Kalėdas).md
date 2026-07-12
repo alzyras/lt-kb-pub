@@ -58,7 +58,7 @@ Nenurodyta
     - c-62735
 
 <a id="claim-t-62236"></a>
-- t-001
+- t-002
   global_id: t-62236
   teiginys: "1304 m. apie Kalėdas didelis potvynis sugriovė abu Paryžiaus tiltus, o kitos provincijos patyrė didelių nuostolių."
   pagrindžia:

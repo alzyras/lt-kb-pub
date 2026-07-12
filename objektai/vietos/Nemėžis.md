@@ -11,6 +11,7 @@ date_end: '1495'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kunigaikštis
   - miestas
   - vieta
@@ -39,14 +40,14 @@ Jų dau­ gybę su visomis šeimomis į šiuos kraštus turėjo būti atkėlęs 
 ## Teiginiai
 
 <a id="claim-t-86090"></a>
-- t-002
+- t-001
   global_id: t-86090
   teiginys: "1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus."
   pagrindžia:
     - c-82070
 
 <a id="claim-t-86091"></a>
-- t-001
+- t-002
   global_id: t-86091
   teiginys: "Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus."
   pagrindžia:

@@ -9,7 +9,8 @@ date_start: '1991'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karo-reikmuo
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -70,7 +71,7 @@ Nenurodyta
     - c-16939
 
 <a id="claim-t-23303"></a>
-- t-003
+- t-002
   global_id: t-23303
   teiginys: "1991 m. sausio 12 d. vakare prie parlamento budint žmonėms aplink AT-AS pastatą buvo statomos betoninės sienos ir spygliuotų vielų užtvaros."
   pagrindžia:

@@ -46,63 +46,63 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Teiginiai
 
 <a id="claim-t-84370"></a>
-- t-005
+- t-001
   global_id: t-84370
   teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
   pagrindžia:
     - c-80547
 
 <a id="claim-t-84369"></a>
-- t-009
+- t-002
   global_id: t-84369
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   pagrindžia:
     - c-80545
 
 <a id="claim-t-84369"></a>
-- t-009
+- t-003
   global_id: t-84369
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   pagrindžia:
     - c-80545
 
 <a id="claim-t-84370"></a>
-- t-005
+- t-004
   global_id: t-84370
   teiginys: "Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje."
   pagrindžia:
     - c-80547
 
 <a id="claim-t-84372"></a>
-- t-012
+- t-005
   global_id: t-84372
   teiginys: "Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais."
   pagrindžia:
     - c-80546
 
 <a id="claim-t-84373"></a>
-- t-007
+- t-006
   global_id: t-84373
   teiginys: "1586 m. pradėta Nesvyžiaus jėzuitų bažnyčia žymėjo Lietuvos baroko epochos pradžią."
   pagrindžia:
     - c-80548
 
 <a id="claim-t-84374"></a>
-- t-011
+- t-007
   global_id: t-84374
   teiginys: "Nesvyžiaus Radvilų liejykloje 1602 m. buvo nulieta patranka su Radvilų herbu ir užrašu."
   pagrindžia:
     - c-46644
 
 <a id="claim-t-84375"></a>
-- t-006
+- t-008
   global_id: t-84375
   teiginys: "Nesvyžiaus jėzuitų kolegijos barokinė bažnyčia pradėta statyti 1586 m."
   pagrindžia:
     - c-80549
 
 <a id="claim-t-84376"></a>
-- t-004
+- t-009
   global_id: t-84376
   teiginys: "Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje."
   pagrindžia:
@@ -116,7 +116,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - c-80543
 
 <a id="claim-t-193220"></a>
-- t-014
+- t-011
   global_id: t-193220
   teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
   pagrindžia:

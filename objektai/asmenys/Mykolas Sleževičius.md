@@ -41,14 +41,14 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
 ## Teiginiai
 
 <a id="claim-t-75987"></a>
-- t-007
+- t-001
   global_id: t-75987
   teiginys: "Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną, greitai kūrė Lietuvos karines pajėgas."
   pagrindžia:
     - c-73652
 
 <a id="claim-t-75988"></a>
-- t-005
+- t-002
   global_id: t-75988
   teiginys: "Prezidentas Kazys Grinius, spaudžiamas perversmininkų, atstatydino Mykolo Sleževičiaus vyriausybę."
   pagrindžia:
@@ -62,35 +62,35 @@ Naujoji Mykolo Sleževičiaus vyriausybė, pasitraukusi iš Vilniaus į Kauną,.
     - c-73651
 
 <a id="claim-t-75990"></a>
-- t-008
+- t-004
   global_id: t-75990
   teiginys: "Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams."
   pagrindžia:
     - c-73648
 
 <a id="claim-t-75991"></a>
-- t-004
+- t-005
   global_id: t-75991
   teiginys: "Mykolas Sleževičius vadovavo vyriausybei, kurioje dominavo valstiečiai liaudininkai."
   pagrindžia:
     - c-21908
 
 <a id="claim-t-75992"></a>
-- t-001
+- t-006
   global_id: t-75992
   teiginys: "Mykolo Sleževičiaus vyriausybė 1918 m. pasitraukė iš Vilniaus į Kauną."
   pagrindžia:
     - c-73653
 
 <a id="claim-t-75993"></a>
-- t-002
+- t-007
   global_id: t-75993
   teiginys: "1920 m. rugsėjį ministras pirmininkas Mykolas Sleževičius Seime ragino griebtis ginklo prieš lenkų puolimą."
   pagrindžia:
     - c-73649
 
 <a id="claim-t-75994"></a>
-- t-006
+- t-008
   global_id: t-75994
   teiginys: "Mykolas Sleževičius laikėsi šūkio „Kova eina, ji eis iki Seimas bus sušauktas“."
   pagrindžia:

@@ -46,14 +46,14 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
 ## Teiginiai
 
 <a id="claim-t-114282"></a>
-- t-003
+- t-001
   global_id: t-114282
   teiginys: "Per Gdanską Abiejų Tautų Respublika XVII–XVIII a. aprūpino Vakarus javais, gabendama juos į Amsterdamą."
   pagrindžia:
     - c-105403
 
 <a id="claim-t-114281"></a>
-- t-001
+- t-002
   global_id: t-114281
   teiginys: "Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą."
   pagrindžia:
@@ -67,49 +67,49 @@ Beje, ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos ir sie
     - c-105403
 
 <a id="claim-t-114283"></a>
-- t-008
+- t-004
   global_id: t-114283
   teiginys: "Vytauto laikais Vilniaus prekybiniai ryšiai jau siekė Gdanską ir Sileziją."
   pagrindžia:
     - c-105407
 
 <a id="claim-t-114284"></a>
-- t-007
+- t-005
   global_id: t-114284
   teiginys: "XVI a. antroje pusėje Gdanske buvo saugotos kelios Dusburgiečio kronikos rankraštinės ištraukos."
   pagrindžia:
     - c-105404
 
 <a id="claim-t-114285"></a>
-- t-002
+- t-006
   global_id: t-114285
   teiginys: "Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą."
   pagrindžia:
     - c-24130
 
 <a id="claim-t-183591"></a>
-- t-009
+- t-007
   global_id: t-183591
   teiginys: "Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko."
   pagrindžia:
     - c-166983
 
 <a id="claim-t-114285"></a>
-- t-002
+- t-008
   global_id: t-114285
   teiginys: "Kova dėl Livonijos labiausiai domino didesnio uosto neturėjusią Lietuvą, nes Lenkija turėjo Gdansko uostą."
   pagrindžia:
     - c-24130
 
 <a id="claim-t-193417"></a>
-- t-011
+- t-009
   global_id: t-193417
   teiginys: "Gvagninis, nors jo istorija para šyta lotyniškai ir išspausdinta užsienyje: pirmas tomas išėjo 1650 m. Gdanske, o antras — 1669 m. Antverpene."
   pagrindžia:
     - c-176139
 
 <a id="claim-t-193418"></a>
-- t-012
+- t-010
   global_id: t-193418
   teiginys: "Atvykęs į Gdanską, karalius dalį maištininkų nubaudė mirtimi, o dalį, tai yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši taip nubaudęs kaltininkus, jis sugrąžino miestiečiams ir tikintiesiems."
   pagrindžia:

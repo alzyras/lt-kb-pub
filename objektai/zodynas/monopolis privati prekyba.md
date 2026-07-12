@@ -14,10 +14,10 @@ date_end: '1640'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigaikštis
   - miestas
-  - sąvoka
 amziai:
   - 'XVI'
   - 'XVII'
@@ -43,7 +43,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
 ## Teiginiai
 
 <a id="claim-t-86487"></a>
-- t-003
+- t-001
   global_id: t-86487
   teiginys: "Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui."
   pagrindžia:
@@ -57,7 +57,7 @@ Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje su naujais mo­ ke
     - c-82468
 
 <a id="claim-t-86489"></a>
-- t-001
+- t-003
   global_id: t-86489
   teiginys: "Karališkųjų muitinių valdytojai Karalystėje ir Ukrainoje naujais mokesčiais bandė suvaržyti iš Vilniaus gabenamų prekių prekybą."
   pagrindžia:

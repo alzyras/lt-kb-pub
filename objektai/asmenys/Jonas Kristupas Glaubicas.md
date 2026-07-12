@@ -79,7 +79,7 @@ Jonas Kristupas Glaubicas pristatomas kaip pagrindinis Vilniaus baroko mokyklos 
     - c-21742
 
 <a id="claim-t-23202"></a>
-- t-002
+- t-007
   global_id: t-23202
   teiginys: "Jonas Kristupas Glaubicas buvo iš vokiškų žemių atvykęs liuteronas ir produktyviausias XVIII a. architektas Vilniuje bei LDK."
   pagrindžia:

@@ -37,14 +37,14 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
 ## Teiginiai
 
 <a id="claim-t-187289"></a>
-- t-002
+- t-001
   global_id: t-187289
   teiginys: "Podolės Kamenecas yra istorinis Podolės miestas prie Dniestro intako Smotričės."
   pagrindžia:
     - c-170333
 
 <a id="claim-t-187290"></a>
-- t-004
+- t-002
   global_id: t-187290
   teiginys: "XIV a. antrojoje pusėje Podolės Kamenecas buvo Konstantino Karijotaičio sostinė."
   pagrindžia:
@@ -58,7 +58,7 @@ Petras Goštautas šiame gabale siejamas su Podolės Kamenecu ir Vilniumi. Kalba
     - c-170333
 
 <a id="claim-t-187292"></a>
-- t-001
+- t-004
   global_id: t-187292
   teiginys: "1971 m. leidimo įvade Petras Goštautas siejamas su pasakojimais apie Podolės Kameneco ir Vilniaus vaivadą."
   pagrindžia:

@@ -5,7 +5,8 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - buities-daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19546"></a>
-- t-003
+- t-001
   global_id: t-19546
   teiginys: "Į Maskvą keliaudavo kyšiai, apibūdinti kaip lagaminai rūkytų dešrų ir kumpių."
   pagrindžia:

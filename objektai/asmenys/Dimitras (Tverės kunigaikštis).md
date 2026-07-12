@@ -37,7 +37,7 @@ Per 150 metų toliau patverusi su Tverės kunigaikš­ čiais sąjunga, kuri rei
     - c-91803
 
 <a id="claim-t-97315"></a>
-- t-001
+- t-002
   global_id: t-97315
   teiginys: "Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus."
   pagrindžia:

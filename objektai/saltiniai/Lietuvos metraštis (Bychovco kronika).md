@@ -51,42 +51,42 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
 ## Teiginiai
 
 <a id="claim-t-117482"></a>
-- t-011
+- t-001
   global_id: t-117482
   teiginys: "Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą."
   pagrindžia:
     - c-108129
 
 <a id="claim-t-117483"></a>
-- t-007
+- t-002
   global_id: t-117483
   teiginys: "72, „PABAISKO MŪŠIS“, Lietuvos metraštis, p. 122-123."
   pagrindžia:
     - c-11252
 
 <a id="claim-t-117484"></a>
-- t-006
+- t-003
   global_id: t-117484
   teiginys: "„Lietuvos metraštis“ aprašė, kad 1368 m. Algirdui su kariuomene priartėjus prie Maskvos Dmitrijus išsigando."
   pagrindžia:
     - c-43282
 
 <a id="claim-t-117485"></a>
-- t-012
+- t-004
   global_id: t-117485
   teiginys: "Bychovco kronikoje užfiksuotas pasakojimas apie Palangos mergelę Birutę, kuri žmonių buvo garbinama kaip dievaitė."
   pagrindžia:
     - c-108132
 
 <a id="claim-t-117486"></a>
-- t-013
+- t-005
   global_id: t-117486
   teiginys: "Bychovco kronikoje Jogaila pataria Vytautui kreiptis į ciesorių, siekti karaliaus titulo ir žada padėti pas ciesorių bei popiežių."
   pagrindžia:
     - c-37224
 
 <a id="claim-t-117488"></a>
-- t-010
+- t-006
   global_id: t-117488
   teiginys: "Lietuvių kilmės iš romėnų teorija pateko į Lietuvos metraščius, tarp jų ir Bychovco kroniką."
   pagrindžia:
@@ -100,21 +100,21 @@ Lietuvos metraštis (Bychovco kronika) teigia, kad Maskvos didysis kunigaikštis
     - c-171380
 
 <a id="claim-t-190825"></a>
-- t-014
+- t-008
   global_id: t-190825
   teiginys: "Lietuviškame „Lietuvos metraščio“ leidime, išleistame Vilniuje 1971 m., žodis 45 puslapyje pateiktas kaip Litusbania."
   pagrindžia:
     - c-173707
 
 <a id="claim-t-190826"></a>
-- t-015
+- t-009
   global_id: t-190826
   teiginys: "Narbutas rašo, kad Žemaitija nuo senovės plytėjo tarp Baltijos jūros, Latvijos ir Stavanijos, o per vidurį tekėjo Venta."
   pagrindžia:
     - c-173708
 
 <a id="claim-t-193752"></a>
-- t-016
+- t-010
   global_id: t-193752
   teiginys: "79, „GROBIO UŽGROBIMAS“, Lietuvos metraštis, p. 173-175."
   pagrindžia:

@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - sutartis
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,14 +39,14 @@ Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m.
 ## Teiginiai
 
 <a id="claim-t-78118"></a>
-- t-002
+- t-001
   global_id: t-78118
   teiginys: "1923 m. Ambasadorių konferencija patvirtino Lenkijos sieną su Rusija pagal Rygos taikos sutartį ir paliko Vilnių Lenkijos pusėje."
   pagrindžia:
     - c-75425
 
 <a id="claim-t-193598"></a>
-- t-003
+- t-002
   global_id: t-193598
   teiginys: "Liko ir teisinių kolizijų – Lenkijos ir Sovietų Rusijos siena pagal 1921 m. Rygos sutartį ėjo į rytus nuo Lietuvos–Sovietų Rusijos sienos, nubrėžtos pagal 1920 m. Maskvos taikos sutartį tarp Lietuvos ir Sovietų Rusijos."
   pagrindžia:

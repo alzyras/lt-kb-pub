@@ -36,7 +36,7 @@ Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
     - c-170263
 
 <a id="claim-t-187169"></a>
-- t-001
+- t-002
   global_id: t-187169
   teiginys: "Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų."
   pagrindžia:

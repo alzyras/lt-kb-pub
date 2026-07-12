@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71787"></a>
-- t-005
+- t-001
   global_id: t-71787
   teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę."
   pagrindžia:
     - c-43151
 
 <a id="claim-t-71788"></a>
-- t-006
+- t-002
   global_id: t-71788
   teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti."
   pagrindžia:
     - c-43151
 
 <a id="claim-t-71789"></a>
-- t-007
+- t-003
   global_id: t-71789
   teiginys: "Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius."
   pagrindžia:

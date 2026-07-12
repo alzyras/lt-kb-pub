@@ -38,14 +38,14 @@ Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalb
 ## Teiginiai
 
 <a id="claim-t-187451"></a>
-- t-003
+- t-001
   global_id: t-187451
   teiginys: "Motiejus Strijkovskis savo 1582 m. kronikoje beveik pažodžiui perteikė ištisus „rusiško metraščio“ varianto fragmentus."
   pagrindžia:
     - c-170430
 
 <a id="claim-t-187452"></a>
-- t-001
+- t-002
   global_id: t-187452
   teiginys: "Bene svarbiausias lenkiškojo modelio pradžios taškas buvo 1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“, tapusi parankine Lietuvos bajorijos knyga."
   pagrindžia:

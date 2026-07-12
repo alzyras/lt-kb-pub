@@ -37,28 +37,28 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
 ## Teiginiai
 
 <a id="claim-t-12598"></a>
-- t-002
+- t-001
   global_id: t-12598
   teiginys: "Pirmasis lenkų urėdas Lietuvoje buvo Jogailos 1386 m. į Vilnių atsiųstas Vilniaus seniūnas."
   pagrindžia:
     - c-14719
 
 <a id="claim-t-12599"></a>
-- t-003
+- t-002
   global_id: t-12599
   teiginys: "Vytauto laikais įvedami lenkiški urėdai žymi administracijos pertvarką."
   pagrindžia:
     - c-14720
 
 <a id="claim-t-70375"></a>
-- t-004
+- t-003
   global_id: t-70375
   teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
   pagrindžia:
     - c-69409
 
 <a id="claim-t-182985"></a>
-- t-005
+- t-004
   global_id: t-182985
   teiginys: "Karaliui pagrasinus atimti vicekanclerio urėdą, Valavičius nusileido ir prispaudė valstybinį antspaudą."
   pagrindžia:
@@ -114,7 +114,7 @@ Bet Valavičius, karaliaus pagrasintas, kad iš jo būsiąs atimtas vicekancleri
   citata_rodoma: ''
   statusas: verified
   teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
+  patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003

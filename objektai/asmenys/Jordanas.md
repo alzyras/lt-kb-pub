@@ -44,56 +44,56 @@ Jordanas Narbuto pateikiamas kaip vienas senovės autorių, rašiusių apie Šia
     - c-173961
 
 <a id="claim-t-191081"></a>
-- t-003
+- t-002
   global_id: t-191081
   teiginys: "Jordanas, Narbuto vadinamas gotų rašytoju, aprašė gotų pergales prieš kaimynus, ypač ulmerugius, II krikščioniškosios eros amžiaus pradžioje."
   pagrindžia:
     - c-173963
 
 <a id="claim-t-191082"></a>
-- t-004
+- t-003
   global_id: t-191082
   teiginys: "Jordanas, Narbuto perteikimu, teigė, kad spaliai gyveno dabartinėje Mazovijoje."
   pagrindžia:
     - c-173964
 
 <a id="claim-t-191083"></a>
-- t-005
+- t-004
   global_id: t-191083
   teiginys: "Jordanas, Narbuto vadinamas gotų istoriku, minėjo prie jūros pakrantės gyvenusius estus."
   pagrindžia:
     - c-173965
 
 <a id="claim-t-191084"></a>
-- t-006
+- t-005
   global_id: t-191084
   teiginys: "Narbutas Jordano požiūrį pasitelkė svarstydamas, kad venedams priklausė ne viena jo veikalui reikšminga gentis."
   pagrindžia:
     - c-173966
 
 <a id="claim-t-191085"></a>
-- t-007
+- t-006
   global_id: t-191085
   teiginys: "Narbutas rašo, kad Jordano darbuose pirmiausia randama žinia apie seniausią Prūsijos srities pavadinimą Owim."
   pagrindžia:
     - c-173967
 
 <a id="claim-t-191086"></a>
-- t-008
+- t-007
   global_id: t-191086
   teiginys: "Narbutas rašo, kad Jordanas, pasakodamas apie Pavyslio vietoves prie jūros, minėjo vidivarius prie Vyslos žiočių."
   pagrindžia:
     - c-173968
 
 <a id="claim-t-191087"></a>
-- t-009
+- t-008
   global_id: t-191087
   teiginys: "Jordanas rašė, kad prie Vyslos žiočių buvo vidivarai, už jų estai, o su estais ribojosi agazirai."
   pagrindžia:
     - c-173969
 
 <a id="claim-t-191954"></a>
-- t-010
+- t-009
   global_id: t-191954
   teiginys: "Narbutas Jordano aprašymus laikė svarbiais alanams, nes Jordanas, būdamas gotas, esą gerai pažinojo alanus per savo senelio ryšius."
   pagrindžia:

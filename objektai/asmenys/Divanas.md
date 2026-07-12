@@ -41,7 +41,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Teiginiai
 
 <a id="claim-t-59910"></a>
-- t-003
+- t-001
   global_id: t-59910
   teiginys: "Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę."
   pagrindžia:
@@ -55,28 +55,28 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-167440
 
 <a id="claim-t-59912"></a>
-- t-004
+- t-003
   global_id: t-59912
   teiginys: "Prie Gubros upės broliai užpuolė Divaną, nukovė jo giminaitį Dabarą ir išžudė jo žmones."
   pagrindžia:
     - c-60546
 
 <a id="claim-t-59913"></a>
-- t-005
+- t-004
   global_id: t-59913
   teiginys: "Divanas, bartų vadas, su 800 vyrų apsiautė Senenzės pilį ir reikalavo ją atiduoti."
   pagrindžia:
     - c-60545
 
 <a id="claim-t-59914"></a>
-- t-001
+- t-005
   global_id: t-59914
   teiginys: "Prūsams atkritus nuo tikėjimo, bartai savo kariuomenės vadu ir vyresniuoju išsirinko Divaną."
   pagrindžia:
     - c-60544
 
 <a id="claim-t-59911"></a>
-- t-002
+- t-006
   global_id: t-59911
   teiginys: "1263 m. Divanas, bartų vadas, vijosi iš pilies pasitraukusius brolius, bet buvo sunkiai sužeistas ir liovėsi kariavęs."
   pagrindžia:

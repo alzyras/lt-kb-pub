@@ -44,7 +44,7 @@ Dusburgietis teigia, kad juos persekioti leidosi su būreliu karių brolis Ulric
     - c-167520
 
 <a id="claim-t-60450"></a>
-- t-001
+- t-002
   global_id: t-60450
   teiginys: "1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo karius, nukovė 55 lietuvius ir atsiėmė visą grobį."
   pagrindžia:

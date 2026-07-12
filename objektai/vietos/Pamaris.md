@@ -40,7 +40,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
 ## Teiginiai
 
 <a id="claim-t-91233"></a>
-- t-003
+- t-001
   global_id: t-91233
   teiginys: "Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną."
   pagrindžia:
@@ -54,7 +54,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
     - c-86956
 
 <a id="claim-t-193224"></a>
-- t-004
+- t-003
   global_id: t-193224
   teiginys: "Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbingą, Marijenburgą ir visą Varmijos vyskupystę."
   pagrindžia:

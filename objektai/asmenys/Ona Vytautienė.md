@@ -38,7 +38,7 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 ## Teiginiai
 
 <a id="claim-t-181595"></a>
-- t-011
+- t-001
   global_id: t-181595
   teiginys: "Ona Vytautienė savo meile padėjo išgelbėti Vytautą nuo neišvengiamos pražūties."
   pagrindžia:
@@ -56,6 +56,8 @@ Ona Vytautienė šiame korpuse minima kaip antroji Vytauto žmona, iš pradžių
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-82639|Ona Jogailaitė]]: Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.
 - susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
 - susijęs iš Astravos dvaras: 1392 m. rugpjūčio 5 d. Astrave Vytautas ir Ona Jogailai bei Jadvygai duotuose dokumentuose titulavosi Trakų ir Lucko kunigaikščiais.
+- susijęs iš [[objektai/asmenys/Petras (Onos vyras, XIX a.).md#claim-t-195550|Petras (Onos vyras, XIX a.)]]: Uršulės ir pasakotojo aplinkoje Petras buvo atpažįstamas kaip Onai artimas vaikinas.
+- susijęs iš [[objektai/asmenys/Uršulė (Petro ir Onos pašnekovė, XIX a.).md#claim-t-195556|Uršulė (Petro ir Onos pašnekovė, XIX a.)]]: Uršulė Petro paklausė, kada bus jo ir Onos vestuvės.
 - susijęs iš Vilniaus pilys: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
 - susijęs iš Vilniaus pilys: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
 - susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.

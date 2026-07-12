@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Pakimos valsčiaus Sūduvos žemėje nusiaubimą T
 ## Teiginiai
 
 <a id="claim-t-58452"></a>
-- t-003
+- t-001
   global_id: t-58452
   teiginys: "Magistras su kariuomene įsibrovė į Kimenavos valsčių ir privertė Kimenavos pilėnus atiduoti to paties vardo pilį."
   pagrindžia:

@@ -39,7 +39,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 ## Teiginiai
 
 <a id="claim-t-180499"></a>
-- t-004
+- t-001
   global_id: t-180499
   teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
   pagrindžia:

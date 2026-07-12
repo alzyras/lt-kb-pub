@@ -40,14 +40,14 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
 ## Teiginiai
 
 <a id="claim-t-41200"></a>
-- t-002
+- t-001
   global_id: t-41200
   teiginys: "1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Šarūno ir Kunigaikščio Margio rinktinių kovotojai įtraukti į Vytauto apygardą."
   pagrindžia:
     - c-44871
 
 <a id="claim-t-41201"></a>
-- t-001
+- t-002
   global_id: t-41201
   teiginys: "1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių."
   pagrindžia:

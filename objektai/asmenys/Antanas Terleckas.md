@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - reforma
+  - teisinė-praktika
 amziai:
   - 'XX'
 periodo_grupes:
@@ -38,14 +39,14 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
 ## Teiginiai
 
 <a id="claim-t-18826"></a>
-- t-002
+- t-001
   global_id: t-18826
   teiginys: "Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus."
   pagrindžia:
     - c-21601
 
 <a id="claim-t-18827"></a>
-- t-001
+- t-002
   global_id: t-18827
   teiginys: "Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę."
   pagrindžia:

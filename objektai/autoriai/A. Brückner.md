@@ -41,7 +41,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 ## Teiginiai
 
 <a id="claim-t-64507"></a>
-- t-003
+- t-001
   global_id: t-64507
   teiginys: "A. Brückner parašė Dzieje kultury polskiej pirmą tomą."
   pagrindžia:
@@ -55,7 +55,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
     - c-03959
 
 <a id="claim-t-64509"></a>
-- t-004
+- t-003
   global_id: t-64509
   teiginys: "Al. Brückner pagonių lietuvių kultūrą laikė gana žema."
   pagrindžia:

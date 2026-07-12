@@ -12,7 +12,9 @@ date_start: '1300'
 date_end: '1415'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - religinis-terminas
 amziai:
   - 'XIII'
   - 'XV'
@@ -84,21 +86,21 @@ Nenurodyta.
     - c-91771
 
 <a id="claim-t-05450"></a>
-- t-006
+- t-003
   global_id: t-05450
   teiginys: "1389 m. Lietuvos metropolija nutrūko, o 1415 m. buvo trumpam atnaujinta."
   pagrindžia:
     - c-91771
 
 <a id="claim-t-97282"></a>
-- t-009
+- t-004
   global_id: t-97282
   teiginys: "1300 m. metropolitas Maksimas perkėlė Kijevo metropolijos rezidenciją į Vladimirą prie Kliazmos, didindamas pavojų Lietuvos stačiatikių plotams."
   pagrindžia:
     - c-05575
 
 <a id="claim-t-97283"></a>
-- t-008
+- t-005
   global_id: t-97283
   teiginys: "Gediminui nepavyko išlaikyti Lietuvos metropolijos dėl Maskvos žemėse gyvenusio Kijevo metropolito Teognosto priešiškumo."
   pagrindžia:

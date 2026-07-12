@@ -40,14 +40,14 @@ Ne­ paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­ tams baigian
 ## Teiginiai
 
 <a id="claim-t-88343"></a>
-- t-002
+- t-001
   global_id: t-88343
   teiginys: "Urbono VI bulės originalas su vertimu į lenkų kalbą išspausdintas leidinyje „Dzieje Dobroczynności“ 1822 m."
   pagrindžia:
     - c-84323
 
 <a id="claim-t-88344"></a>
-- t-001
+- t-002
   global_id: t-88344
   teiginys: "1389 m. pabaigoje Poznanės vyskupas Dobrogostas Vilniuje paskelbė popiežiaus Urbono VI bulę."
   pagrindžia:

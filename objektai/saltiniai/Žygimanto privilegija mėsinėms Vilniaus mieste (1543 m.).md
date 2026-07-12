@@ -53,7 +53,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     - c-84201
 
 <a id="claim-t-88223"></a>
-- t-004
+- t-003
   global_id: t-88223
   teiginys: "Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams."
   pagrindžia:

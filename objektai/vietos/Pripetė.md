@@ -40,42 +40,42 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 ## Teiginiai
 
 <a id="claim-t-183082"></a>
-- t-004
+- t-001
   global_id: t-183082
   teiginys: "Karaliaus lėšomis iškastas kanalas, jungęs Pripetės intaką Piną su Bugo intaku Muchavcu, sudarė kelią Dniepru ir Vysla."
   pagrindžia:
     - c-166471
 
 <a id="claim-t-185100"></a>
-- t-004
+- t-002
   global_id: t-185100
   teiginys: "Kaidanas Pripetės žiotyse įrengė karo stovyklą ir išsiuntė būrius niokoti krašto."
   pagrindžia:
     - c-168461
 
 <a id="claim-t-185101"></a>
-- t-005
+- t-003
   global_id: t-185101
   teiginys: "Lietuviams laimėjus mūšį, daug priešų žuvo bėgdami Dnepro ir Pripetės duburiuose."
   pagrindžia:
     - c-168462
 
 <a id="claim-t-192724"></a>
-- t-006
+- t-004
   global_id: t-192724
   teiginys: "Teodoras Narbutas Pantikapą tapatina su Pripete, jungiančia Baltijos ir Juodosios jūros vandens baseinus."
   pagrindžia:
     - c-175494
 
 <a id="claim-t-192725"></a>
-- t-007
+- t-005
   global_id: t-192725
   teiginys: "Teodoras Narbutas aiškina, kad Pripetė Padneprės slėnyje kadaise tekėjo lygiagrečiai Dneprui ir sudarė jo dešiniąją vagą."
   pagrindžia:
     - c-175495
 
 <a id="claim-t-192726"></a>
-- t-008
+- t-006
   global_id: t-192726
   teiginys: "Narbutas nurodo, kad Dnepro vidurupyje pilkapių ypač daug nuo Sklovo aukštupio iki Pripetės žiočių."
   pagrindžia:

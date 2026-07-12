@@ -9,7 +9,9 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -65,7 +67,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-20817"></a>
-- t-003
+- t-001
   global_id: t-20817
   teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   pagrindžia:

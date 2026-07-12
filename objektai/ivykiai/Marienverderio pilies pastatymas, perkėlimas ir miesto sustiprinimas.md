@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66768"></a>
-- t-003
+- t-001
   global_id: t-66768
   teiginys: "Lenkijos ir Pomeranijos kunigaikščiai bei kiti didikai su didele kariuomene pastatė Marienverderio miestą ir sustiprino anksčiau įkurtą pilį."
   pagrindžia:
     - c-66908
 
 <a id="claim-t-66769"></a>
-- t-001
+- t-002
   global_id: t-66769
   teiginys: "1233 m. magistras ir broliai Kvedino saloje pastatė Marienverderio pilį, vėliau perkeltą į Pamedės valsčiaus Reisių vietovę."
   pagrindžia:
     - c-66909
 
 <a id="claim-t-66770"></a>
-- t-002
+- t-003
   global_id: t-66770
   teiginys: "1233 m. pastatyta Marienverderio pilis vėliau buvo perkelta iš Kvedino salos į Pamedės valsčių, vadintą Reisiais."
   pagrindžia:

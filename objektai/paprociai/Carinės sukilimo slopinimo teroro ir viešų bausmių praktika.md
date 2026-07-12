@@ -59,28 +59,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75351"></a>
-- t-003
+- t-001
   global_id: t-75351
   teiginys: "Gegužės pradžioje prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir buvo viešai pakartas Vilniuje."
   pagrindžia:
     - c-73155
 
 <a id="claim-t-75352"></a>
-- t-006
+- t-002
   global_id: t-75352
   teiginys: "Zigmanto Sierakausko kariuomenės sutriuškinimas prie Biržų baigėsi jo nelaisve ir viešu pakorimu Vilniuje."
   pagrindžia:
     - c-73155
 
 <a id="claim-t-75353"></a>
-- t-004
+- t-003
   global_id: t-75353
   teiginys: "Anglijai ir Prancūzijai apsiribojus diplomatinėmis notomis, Rusijos vyriausybė ryžtingai slopino sukilimą."
   pagrindžia:
     - c-73158
 
 <a id="claim-t-75354"></a>
-- t-001
+- t-004
   global_id: t-75354
   teiginys: "Prie Biržų Zigmanto Sierakausko sukilėlių kariuomenė buvo sumušta, o sužeistas vadas pateko į nelaisvę ir viešai pakartas Vilniuje."
   pagrindžia:
@@ -94,7 +94,7 @@ Nenurodyta
     - c-73156
 
 <a id="claim-t-75356"></a>
-- t-002
+- t-006
   global_id: t-75356
   teiginys: "1863 m. pabaigoje Antanas Mackevičius ir Konstantinas Kalinauskas pateko į sukilimo slopintojų rankas ir netrukus buvo viešai pakarti."
   pagrindžia:

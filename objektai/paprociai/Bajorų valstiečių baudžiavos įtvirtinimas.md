@@ -53,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01927"></a>
-- t-003
+- t-001
   global_id: t-01927
   teiginys: "Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius."
   pagrindžia:
@@ -67,7 +67,7 @@ Nenurodyta
     - c-02166
 
 <a id="claim-t-01929"></a>
-- t-001
+- t-003
   global_id: t-01929
   teiginys: "Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje."
   pagrindžia:

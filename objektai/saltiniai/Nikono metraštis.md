@@ -44,14 +44,14 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
 ## Teiginiai
 
 <a id="claim-t-82031"></a>
-- t-002
+- t-001
   global_id: t-82031
   teiginys: "Nikono metraštyje aprašyti Mėlynųjų Vandenų įvykiai, siejami su Algirdo žygiu į Mėlynuosius Vandenis ir Baltąją pakrantę."
   pagrindžia:
     - c-78539
 
 <a id="claim-t-82032"></a>
-- t-004
+- t-002
   global_id: t-82032
   teiginys: "Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos."
   pagrindžia:
@@ -65,7 +65,7 @@ Tas pats aprašyta vėlesniame MaskvosTverės kilmės Nikono metraštyje (susiju
     - c-78536
 
 <a id="claim-t-194212"></a>
-- t-005
+- t-004
   global_id: t-194212
   teiginys: "Nors Voskresensko Metraštis, regis, rašytas Žygimanto I [Senojo] laikais, kaip rodo 52 puslapio paskutinė eilutė, jei tik jos nėra perrašinė tojas pridėjęs, taigi metraštininkas galėjo žinoti šį tą tikra apie Gedimino kilmę, mat rašė vos vienam amžiui tepraė."
   pagrindžia:

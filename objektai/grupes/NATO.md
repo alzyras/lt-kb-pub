@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - grupe
   - valstybė
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'
@@ -52,7 +53,7 @@ media_all_json: |-
     - c-166560
 
 <a id="claim-t-19950"></a>
-- t-002
+- t-003
   global_id: t-19950
   teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
   pagrindžia:

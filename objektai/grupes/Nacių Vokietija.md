@@ -38,21 +38,21 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 ## Teiginiai
 
 <a id="claim-t-74876"></a>
-- t-003
+- t-001
   global_id: t-74876
   teiginys: "1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą."
   pagrindžia:
     - c-22685
 
 <a id="claim-t-74877"></a>
-- t-005
+- t-002
   global_id: t-74877
   teiginys: "Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui."
   pagrindžia:
     - c-72860
 
 <a id="claim-t-74878"></a>
-- t-001
+- t-003
   global_id: t-74878
   teiginys: "Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą."
   pagrindžia:

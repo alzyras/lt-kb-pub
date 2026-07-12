@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kraštas
 amziai:
   - 'XIX'
@@ -40,7 +41,7 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
 ## Teiginiai
 
 <a id="claim-t-49490"></a>
-- t-005
+- t-001
   global_id: t-49490
   teiginys: "V. Grigaliūno-Glovackio vadovaujamą kovinę grupę sudarė 2-asis ir 10-asis pėstininkų pulkai, 6-ojo pulko batalionas, 5-oji ir 9-oji artilerijos baterijos ir 2-ojo husarų pulko eskadronas."
   pagrindžia:
@@ -54,21 +55,21 @@ Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną
     - c-42283
 
 <a id="claim-t-49492"></a>
-- t-001
+- t-003
   global_id: t-49492
   teiginys: "1859 m. vasario 3 d. P. Liatukas įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį tiltui per Nemuną saugoti."
   pagrindžia:
     - c-42282
 
 <a id="claim-t-49493"></a>
-- t-003
+- t-004
   global_id: t-49493
   teiginys: "V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui."
   pagrindžia:
     - c-51459
 
 <a id="claim-t-49494"></a>
-- t-004
+- t-005
   global_id: t-49494
   teiginys: "Augustavo-Suvalkų operacijai buvo sudaryta V. Grigaliūno-Glovackio vadovaujama kovinė grupė."
   pagrindžia:

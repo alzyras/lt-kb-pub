@@ -14,6 +14,7 @@ tags:
   - asmuo
   - kunigaikštis
   - pilis
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -40,7 +41,7 @@ Pirmą kartą 1365 m., kai di­ dysis Prūsijos magistras Vinrichas Kniprodė, n
 ## Teiginiai
 
 <a id="claim-t-93195"></a>
-- t-002
+- t-001
   global_id: t-93195
   teiginys: "Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu."
   pagrindžia:

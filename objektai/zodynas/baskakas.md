@@ -11,7 +11,8 @@ date_start: '1331'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XXI'
@@ -54,21 +55,21 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 ## Teiginiai
 
 <a id="claim-t-78877"></a>
-- t-006
+- t-001
   global_id: t-78877
   teiginys: "Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams."
   pagrindžia:
     - c-75996
 
 <a id="claim-t-78878"></a>
-- t-003
+- t-002
   global_id: t-78878
   teiginys: "1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko."
   pagrindžia:
     - c-44151
 
 <a id="claim-t-78879"></a>
-- t-005
+- t-003
   global_id: t-78879
   teiginys: "1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas."
   pagrindžia:

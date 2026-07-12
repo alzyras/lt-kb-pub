@@ -40,14 +40,14 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 ## Teiginiai
 
 <a id="claim-t-63788"></a>
-- t-002
+- t-001
   global_id: t-63788
   teiginys: "Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“."
   pagrindžia:
     - c-64728
 
 <a id="claim-t-190901"></a>
-- t-003
+- t-002
   global_id: t-190901
   teiginys: "Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius."
   pagrindžia:

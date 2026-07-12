@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 ## Teiginiai
 
 <a id="claim-t-40858"></a>
-- t-002
+- t-001
   global_id: t-40858
   teiginys: "1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią."
   pagrindžia:
     - c-42644
 
 <a id="claim-t-40859"></a>
-- t-001
+- t-002
   global_id: t-40859
   teiginys: "1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   pagrindžia:

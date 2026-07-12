@@ -46,14 +46,14 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 ## Teiginiai
 
 <a id="claim-t-36019"></a>
-- t-002
+- t-001
   global_id: t-36019
   teiginys: "Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę."
   pagrindžia:
     - c-38392
 
 <a id="claim-t-36020"></a>
-- t-001
+- t-002
   global_id: t-36020
   teiginys: "Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę."
   pagrindžia:

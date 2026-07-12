@@ -13,8 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - privilegija
   - sutartis
+  - teisinė-praktika
+  - šeima
 amziai:
   - 'XV'
 periodo_grupes:

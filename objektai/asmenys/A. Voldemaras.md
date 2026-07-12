@@ -41,28 +41,28 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
 ## Teiginiai
 
 <a id="claim-t-77996"></a>
-- t-003
+- t-001
   global_id: t-77996
   teiginys: "A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją."
   pagrindžia:
     - c-75315
 
 <a id="claim-t-77997"></a>
-- t-004
+- t-002
   global_id: t-77997
   teiginys: "A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas."
   pagrindžia:
     - c-75312
 
 <a id="claim-t-77998"></a>
-- t-007
+- t-003
   global_id: t-77998
   teiginys: "1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
   pagrindžia:
     - c-75317
 
 <a id="claim-t-77999"></a>
-- t-001
+- t-004
   global_id: t-77999
   teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   pagrindžia:
@@ -83,7 +83,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
     - c-75313
 
 <a id="claim-t-78002"></a>
-- t-002
+- t-007
   global_id: t-78002
   teiginys: "A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
   pagrindžia:

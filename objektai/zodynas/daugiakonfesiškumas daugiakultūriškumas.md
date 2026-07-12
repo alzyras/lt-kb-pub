@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
-  - privilegija
   - sąvoka
   - valstybė
+  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

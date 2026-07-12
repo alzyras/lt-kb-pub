@@ -53,7 +53,7 @@ Orša: maskvos kariuomenė net tris kartus buvo apgulusi Smolenską, užėmė Or
     - c-71599
 
 <a id="claim-t-73351"></a>
-- t-001
+- t-003
   global_id: t-73351
   teiginys: "Po Smolensko paėmimo 1514 m. Konstantinas Ostrogiškis ties Orša smarkiai sumušė Maskvos kariuomenę."
   pagrindžia:

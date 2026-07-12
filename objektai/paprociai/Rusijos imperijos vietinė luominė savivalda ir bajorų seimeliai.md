@@ -66,7 +66,7 @@ Nenurodyta
     - c-55203
 
 <a id="claim-t-54339"></a>
-- t-003
+- t-002
   global_id: t-54339
   teiginys: "1795 m. Rusijos aneksuotoje LDK dalyje buvo įvesta vietinio valdymo sistema su bajorų susirinkimais."
   pagrindžia:

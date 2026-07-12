@@ -39,14 +39,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-185569"></a>
-- t-002
+- t-001
   global_id: t-185569
   teiginys: "Po pergalių iš kryžiuočių buvo atimtos Heilsbergo, Kroicburgo, Karaliaučiaus ir Bartenšteino pilys bei miestai."
   pagrindžia:
     - c-168930
 
 <a id="claim-t-193354"></a>
-- t-003
+- t-002
   global_id: t-193354
   teiginys: "Šio vargingo likimo jis du kartus buvo išvengęs, pa sigailėjus kai kuriems prūsams, su kuriais anksčiau buvo susidraugavęs; kai trečią kartą krito toks pat burtas, jis su panieka atsisakė gyvybės, už kurią tu rėtų dėkoti gailestingiesiems barbarams."
   pagrindžia:

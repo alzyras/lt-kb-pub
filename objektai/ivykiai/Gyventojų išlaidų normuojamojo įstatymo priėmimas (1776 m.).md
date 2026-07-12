@@ -46,14 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66555"></a>
-- t-002
+- t-001
   global_id: t-66555
   teiginys: "1778 ir 1780 m. seimai pakartojo ir praplėtė gyventojų išlaidų normuojamąjį įstatymą, bet nenustatė jo vykdymo priežiūros."
   pagrindžia:
     - c-66762
 
 <a id="claim-t-66556"></a>
-- t-001
+- t-002
   global_id: t-66556
   teiginys: "1776 m. seimas priėmė gyventojų išlaidų normuojamąjį įstatymą, siekdamas mažinti importą ir remti vietinę pramonę."
   pagrindžia:

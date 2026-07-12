@@ -15,10 +15,10 @@ date_end: '1915'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - saltinis
   - valdovas
-  - vyskupas
 amziai:
   - 'XVIII'
   - 'XX'
@@ -44,28 +44,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78088"></a>
-- t-009
+- t-001
   global_id: t-78088
   teiginys: "Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų."
   pagrindžia:
     - c-75398
 
 <a id="claim-t-78090"></a>
-- t-003
+- t-002
   global_id: t-78090
   teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
   pagrindžia:
     - c-75392
 
 <a id="claim-t-78092"></a>
-- t-010
+- t-003
   global_id: t-78092
   teiginys: "1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją."
   pagrindžia:
     - c-75396
 
 <a id="claim-t-78093"></a>
-- t-007
+- t-004
   global_id: t-78093
   teiginys: "Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas."
   pagrindžia:
@@ -79,28 +79,28 @@ media_all_json: |-
     - c-75397
 
 <a id="claim-t-78095"></a>
-- t-002
+- t-006
   global_id: t-78095
   teiginys: "1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą."
   pagrindžia:
     - c-23764
 
 <a id="claim-t-78096"></a>
-- t-004
+- t-007
   global_id: t-78096
   teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją."
   pagrindžia:
     - c-75395
 
 <a id="claim-t-78097"></a>
-- t-006
+- t-008
   global_id: t-78097
   teiginys: "Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   pagrindžia:
     - c-75400
 
 <a id="claim-t-193593"></a>
-- t-011
+- t-009
   global_id: t-193593
   teiginys: "Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas."
   pagrindžia:

@@ -44,56 +44,56 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
 ## Teiginiai
 
 <a id="claim-t-68010"></a>
-- t-004
+- t-001
   global_id: t-68010
   teiginys: "Aprašęs Jeruzalės karalystės sostinės Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir kryžiaus žygių santrauką."
   pagrindžia:
     - c-67713
 
 <a id="claim-t-68011"></a>
-- t-003
+- t-002
   global_id: t-68011
   teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė Švč. Marijos Teutonų ordino ligoninę ir paskyrė septynis brolius kraštų valdytojais."
   pagrindžia:
     - c-67710
 
 <a id="claim-t-68012"></a>
-- t-007
+- t-003
   global_id: t-68012
   teiginys: "Jeruzalės patriarchas Henrikas ir kiti didikai pritarė, kad Fridrichas prašytų popiežiaus patvirtinti naujai įsteigtą ligoninę."
   pagrindžia:
     - c-67708
 
 <a id="claim-t-68013"></a>
-- t-006
+- t-004
   global_id: t-68013
   teiginys: "Popiežius Celestinas III Jeruzalėje įkūrė ir pašventino Švč. Marijos Teutonų ordino vienuolių ligoninę."
   pagrindžia:
     - c-67706
 
 <a id="claim-t-68015"></a>
-- t-009
+- t-005
   global_id: t-68015
   teiginys: "Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią."
   pagrindžia:
     - c-67707
 
 <a id="claim-t-68016"></a>
-- t-008
+- t-006
   global_id: t-68016
   teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną ir leido jo broliams dėvėti baltą apsiaustą su juodu kryžiumi."
   pagrindžia:
     - c-67711
 
 <a id="claim-t-68017"></a>
-- t-005
+- t-007
   global_id: t-68017
   teiginys: "„Pelplino analų“ pirmojoje žinutėje kalbama apie Ordino įsikūrimą Jeruzalėje 1190 m."
   pagrindžia:
     - c-67709
 
 <a id="claim-t-68018"></a>
-- t-010
+- t-008
   global_id: t-68018
   teiginys: "1096 m. Petras su kryžininkais ir daugybe vokiečių užėmė Antiochiją ir šventąjį Jeruzalės miestą."
   pagrindžia:

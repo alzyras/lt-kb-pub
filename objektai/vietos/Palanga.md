@@ -44,14 +44,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-192349"></a>
-- t-002
+- t-001
   global_id: t-192349
   teiginys: "Lietuvai atiteko tuomet dar menkai naudingas pajūris nuo Palangos iki Kuršo Šventosios."
   pagrindžia:
     - c-175149
 
 <a id="claim-t-192350"></a>
-- t-006
+- t-002
   global_id: t-192350
   teiginys: "Jucevičiaus nuomone, prie Palangos gyvenę lietuviai žvejai Atrimpą vadino „Dzivsvits“."
   pagrindžia:
@@ -72,28 +72,28 @@ media_all_json: |-
     - c-175151
 
 <a id="claim-t-192353"></a>
-- t-001
+- t-005
   global_id: t-192353
   teiginys: "Sukilėliai planavo užimti Palangos ir Liepojos uostus."
   pagrindžia:
     - c-175149
 
 <a id="claim-t-192354"></a>
-- t-007
+- t-006
   global_id: t-192354
   teiginys: "Narbutas daro išvadą, kad ant kalno prie Palangos nuolat degė Praurimės ugnis, saugota vaidilutėmis vadintų žynių."
   pagrindžia:
     - c-175150
 
 <a id="claim-t-192355"></a>
-- t-008
+- t-007
   global_id: t-192355
   teiginys: "Redakcinėje pastaboje Senoji Palanga lokalizuojama Olandiškos Skrybėlės kalvos papėdėje."
   pagrindžia:
     - c-175145
 
 <a id="claim-t-192356"></a>
-- t-005
+- t-008
   global_id: t-192356
   teiginys: "Pasak Lietuvos metraščio, Palangoje Prūsijos ir Livonijos vokiečiai telkė kariuomenę prieš žemaičius, bet žemaičiai ją nuo kopų sumušė akmenimis."
   pagrindžia:

@@ -43,28 +43,28 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 ## Teiginiai
 
 <a id="claim-t-64265"></a>
-- t-003
+- t-001
   global_id: t-64265
   teiginys: "Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą."
   pagrindžia:
     - c-36551
 
 <a id="claim-t-64266"></a>
-- t-001
+- t-002
   global_id: t-64266
   teiginys: "Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos."
   pagrindžia:
     - c-65066
 
 <a id="claim-t-64267"></a>
-- t-004
+- t-003
   global_id: t-64267
   teiginys: "1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai."
   pagrindžia:
     - c-36552
 
 <a id="claim-t-64268"></a>
-- t-002
+- t-004
   global_id: t-64268
   teiginys: "Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m."
   pagrindžia:

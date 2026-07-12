@@ -48,14 +48,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - c-171057
 
 <a id="claim-t-188015"></a>
-- t-003
+- t-002
   global_id: t-188015
   teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
   pagrindžia:
     - c-171059
 
 <a id="claim-t-188016"></a>
-- t-006
+- t-003
   global_id: t-188016
   teiginys: "Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams."
   pagrindžia:
@@ -69,14 +69,14 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
     - c-171061
 
 <a id="claim-t-188019"></a>
-- t-002
+- t-005
   global_id: t-188019
   teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
   pagrindžia:
     - c-171060
 
 <a id="claim-t-188019"></a>
-- t-002
+- t-006
   global_id: t-188019
   teiginys: "Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius."
   pagrindžia:

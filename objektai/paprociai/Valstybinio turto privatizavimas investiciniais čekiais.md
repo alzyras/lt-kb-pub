@@ -10,7 +10,9 @@ date_start: '1990'
 date_end: '1999'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -66,14 +68,14 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 ## Teiginiai
 
 <a id="claim-t-20821"></a>
-- t-005
+- t-001
   global_id: t-20821
   teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
   pagrindžia:
     - c-23543
 
 <a id="claim-t-20822"></a>
-- t-006
+- t-002
   global_id: t-20822
   teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
   pagrindžia:

@@ -36,7 +36,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
 ## Teiginiai
 
 <a id="claim-t-47099"></a>
-- t-003
+- t-001
   global_id: t-47099
   teiginys: "1940 m. birželį iš Lietuvos pasitraukęs Antanas Smetona per Portugaliją išvyko į JAV."
   pagrindžia:

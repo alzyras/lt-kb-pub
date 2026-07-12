@@ -13,7 +13,8 @@ date_start: '1430'
 date_end: '2007'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - vilnius
 amziai:
   - 'XV'
   - 'XXI'
@@ -52,21 +53,21 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
 ## Teiginiai
 
 <a id="claim-t-54392"></a>
-- t-003
+- t-001
   global_id: t-54392
   teiginys: "2007 m. lietuvišką leidimą išleido MINTIS; bibliografinėje eilutėje nurodytas ISBN 978-5-417-00907-5."
   pagrindžia:
     - c-55236
 
 <a id="claim-t-54393"></a>
-- t-005
+- t-002
   global_id: t-54393
   teiginys: "Įvade nurodyta siekti iš kronikų ir archyvinių rankraščių surinkti žinias apie Vilniaus kilmę, miesto teises ir privilegijas."
   pagrindžia:
     - c-55235
 
 <a id="claim-t-54394"></a>
-- t-006
+- t-003
   global_id: t-54394
   teiginys: "Įvade Vilnius apibūdinamas kaip beveik du amžius buvusi vienos galingiausių Šiaurės Europos šalių sostinė ir vėlesnis mokslo bei vyriausiosios valdžios centras Lietuvoje."
   pagrindžia:
@@ -80,7 +81,7 @@ Tai 2007 m. lietuviškas Mykolo Balinskio Vilniaus miesto istorijos leidimas, ve
     - c-55234
 
 <a id="claim-t-54396"></a>
-- t-002
+- t-005
   global_id: t-54396
   teiginys: "2007 m. leidinys verstas iš Michało Balińskio veikalo „Historya Miasta Wilna“, 1836-1837 m. spausdinto Vilniuje Antono Marcinovskio spaustuvėje."
   pagrindžia:

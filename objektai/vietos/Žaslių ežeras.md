@@ -29,14 +29,14 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
 ## Teiginiai
 
 <a id="claim-t-187412"></a>
-- t-002
+- t-001
   global_id: t-187412
   teiginys: "Lietuvos metraštyje Žaslių ežeras siejamas su Pajautos stabu, kurį žmonės garbino ir Pajautą laikė deive."
   pagrindžia:
     - c-170404
 
 <a id="claim-t-187413"></a>
-- t-001
+- t-002
   global_id: t-187413
   teiginys: "Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti."
   pagrindžia:

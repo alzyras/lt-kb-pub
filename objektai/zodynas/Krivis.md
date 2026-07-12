@@ -27,14 +27,14 @@ Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pil
 ## Teiginiai
 
 <a id="claim-t-192923"></a>
-- t-002
+- t-001
   global_id: t-192923
   teiginys: "Narbutas daro išvadą, kad šiose vietose buvo krašto Krivio rezidencinės pilys."
   pagrindžia:
     - c-175693
 
 <a id="claim-t-194903"></a>
-- t-003
+- t-002
   global_id: t-194903
   teiginys: "Netgi teigiama, kad Grevožos tvirtovėje gyvenęs vietinis Krivis."
   pagrindžia:

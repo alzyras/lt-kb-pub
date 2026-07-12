@@ -38,21 +38,21 @@ Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Barten�
 ## Teiginiai
 
 <a id="claim-t-188029"></a>
-- t-003
+- t-001
   global_id: t-188029
   teiginys: "Narbutas mini 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino."
   pagrindžia:
     - c-170963
 
 <a id="claim-t-188030"></a>
-- t-004
+- t-002
   global_id: t-188030
   teiginys: "Narbuto pasakojime pagal 1331 m. rugsėjo 17 d. sutartį prie Bartenšteino buvo sunaikintos Fridburgo ir Bajerburgo pilys."
   pagrindžia:
     - c-170963
 
 <a id="claim-t-188488"></a>
-- t-005
+- t-003
   global_id: t-188488
   teiginys: "Pagal 1331 m. rugsėjo 17 d. sutartį, sudarytą stovykloje prie Bartenšteino, Fridburgo ir Bajerburgo pilys buvo sunaikintos."
   pagrindžia:

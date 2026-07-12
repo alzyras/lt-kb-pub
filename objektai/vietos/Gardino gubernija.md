@@ -39,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-101721"></a>
-- t-005
+- t-001
   global_id: t-101721
   teiginys: "1843 m. prie Vilniaus gubernijos prijungtos trys apskritys, iki tol priklausiusios Minsko ir Gardino gubernijoms."
   pagrindžia:
@@ -53,7 +53,7 @@ media_all_json: |-
     - c-24126
 
 <a id="claim-t-101724"></a>
-- t-001
+- t-003
   global_id: t-101724
   teiginys: "1801 m. buvo sudaryta Lietuvos Gardino gubernija, pavaldi Vilniuje veikusiai generalgubernatoriaus institucijai."
   pagrindžia:

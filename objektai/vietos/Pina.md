@@ -36,7 +36,7 @@ Pinskas lokalizuojamas prie Pinos upės.
     - c-170332
 
 <a id="claim-t-187287"></a>
-- t-001
+- t-002
   global_id: t-187287
   teiginys: "Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas."
   pagrindžia:

@@ -43,35 +43,35 @@ Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą protes
 ## Teiginiai
 
 <a id="claim-t-101238"></a>
-- t-002
+- t-001
   global_id: t-101238
   teiginys: "LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą."
   pagrindžia:
     - c-166515
 
 <a id="claim-t-101239"></a>
-- t-001
+- t-002
   global_id: t-101239
   teiginys: "XVI a. šeštajame ir septintajame dešimtmetyje beveik visi LDK didikai perėjo į reformaciją ir sekuliarizavo savo funduotas bažnyčias."
   pagrindžia:
     - c-166514
 
 <a id="claim-t-183129"></a>
-- t-004
+- t-003
   global_id: t-183129
   teiginys: "Antruoju reformacijos etapu LDK didikai rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio ir Katalikų bažnyčios įtaką."
   pagrindžia:
     - c-166514
 
 <a id="claim-t-183130"></a>
-- t-005
+- t-004
   global_id: t-183130
   teiginys: "Lietuvoje formavosi labai gausi Evangelikų reformatų bažnyčia, gerokai stipresnė nei Lenkijoje."
   pagrindžia:
     - c-166515
 
 <a id="claim-t-193535"></a>
-- t-006
+- t-005
   global_id: t-193535
   teiginys: "Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė milžiniški kaimynų smūgiai: valdant švedų kilmės Vazų dinastijai (1587–1668), Lietuvą ir Lenkiją ištiko „tvanas“ – Rusijos ir Švedijos invazija (1654–1667), o valdant Saksų dinastijai."
   pagrindžia:

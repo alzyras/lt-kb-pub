@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ginklas
   - grupe
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'

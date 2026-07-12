@@ -45,35 +45,35 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
 ## Teiginiai
 
 <a id="claim-t-181459"></a>
-- t-012
+- t-001
   global_id: t-181459
   teiginys: "Petro iš Dusburgo „Prūsijos žemės kronika“ pateikia unikalių žinių apie prūsus, lietuvius ir jų kovą XIII-XIV a. pradžioje."
   pagrindžia:
     - c-165014
 
 <a id="claim-t-181460"></a>
-- t-009
+- t-002
   global_id: t-181460
   teiginys: "Petras iš Dusburgo nurodo, kad kroniką surašė ir užbaigė 1326 m., kad išsaugotų šventojo žygio atminimą būsimoms kartoms."
   pagrindžia:
     - c-165019
 
 <a id="claim-t-181461"></a>
-- t-005
+- t-003
   global_id: t-181461
   teiginys: "Petras Dusburgietis 1326 m. užbaigė savo kroniką, įteikė ją magistrui, o kūrinys buvo pratęstas iki 1330 m."
   pagrindžia:
     - c-165016
 
 <a id="claim-t-181462"></a>
-- t-010
+- t-004
   global_id: t-181462
   teiginys: "Petras iš Dusburgo aiškina, kad kronikoje aprašys Ordino įkūrimą, atsikėlimą į Prūsiją, karus ir įvykius, kuriuos pats matė, apie kuriuos pasakojo dalyviai arba kuriuos sužinojo iš patikimų šaltinių."
   pagrindžia:
     - c-165017
 
 <a id="claim-t-181463"></a>
-- t-008
+- t-005
   global_id: t-181463
   teiginys: "Dedikacijoje Petras iš Dusburgo tiesiogiai įvardija save tų pačių įžadų kunigu ir kronikos siuntėju Verneriui iš Orzelno."
   pagrindžia:
@@ -87,91 +87,91 @@ Petras Dusburgietis šiame šaltinyje minimas kaip „Prūsijos žemės kronikos
     - c-56023
 
 <a id="claim-t-181464"></a>
-- t-006
+- t-007
   global_id: t-181464
   teiginys: "Kronikos tekstas rodo, kad Petras iš Dusburgo turėjo teologinį išsilavinimą."
   pagrindžia:
     - c-56023
 
 <a id="claim-t-181466"></a>
-- t-011
+- t-008
   global_id: t-181466
   teiginys: "Petras iš Dusburgo 1326 m. užbaigė savo kroniką ir įteikė ją magistrui."
   pagrindžia:
     - c-165016
 
 <a id="claim-t-181467"></a>
-- t-015
+- t-009
   global_id: t-181467
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje prisistato kaip tų pačių šventųjų įžadų kunigas."
   pagrindžia:
     - c-165013
 
 <a id="claim-t-181468"></a>
-- t-016
+- t-010
   global_id: t-181468
   teiginys: "Petras iš Dusburgo rašė, kad į knygą sudėjo Ordino brolių karus ir užbaigė ją 1326 m."
   pagrindžia:
     - c-165019
 
 <a id="claim-t-181469"></a>
-- t-013
+- t-011
   global_id: t-181469
   teiginys: "Epocha, kurioje rašė Petras iš Dusburgo 3-asis XIV a."
   pagrindžia:
     - c-165012
 
 <a id="claim-t-181470"></a>
-- t-024
+- t-012
   global_id: t-181470
   teiginys: "Petras Dusburgietis „Prūsijos žemės kronikoje“ aprašė Vytenio įsiveržimą į Ordino žemes."
   pagrindžia:
     - c-42455
 
 <a id="claim-t-181471"></a>
-- t-020
+- t-013
   global_id: t-181471
   teiginys: "Petro Dusburgiečio „Prūsijos žemės kronikos“ ištrauka „Rūstus Dievo žmonių likimas“ pateikta apie Durbės mūšį."
   pagrindžia:
     - c-165011
 
 <a id="claim-t-181472"></a>
-- t-019
+- t-014
   global_id: t-181472
   teiginys: "Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį."
   pagrindžia:
     - c-165020
 
 <a id="claim-t-181473"></a>
-- t-004
+- t-015
   global_id: t-181473
   teiginys: "Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui."
   pagrindžia:
     - c-165016
 
 <a id="claim-t-181474"></a>
-- t-022
+- t-016
   global_id: t-181474
   teiginys: "Petras Dusburgietis nurodytas kaip teksto „Rūstus Dievo žmonių likimas“ šaltinio autorius."
   pagrindžia:
     - c-42456
 
 <a id="claim-t-181475"></a>
-- t-018
+- t-017
   global_id: t-181475
   teiginys: "Petras iš Dusburgo nurodė, kad kronikoje aprašys Teutonų ordino įkūrimą, brolių atvykimą į Prūsiją ir karus Prūsijoje."
   pagrindžia:
     - c-165017
 
 <a id="claim-t-181476"></a>
-- t-023
+- t-018
   global_id: t-181476
   teiginys: "Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“."
   pagrindžia:
     - c-165018
 
 <a id="claim-t-183995"></a>
-- t-025
+- t-019
   global_id: t-183995
   teiginys: "Petras iš Dusburgo kronikos dedikacijoje kreipėsi į magistrą Vernerį iš Orzelno."
   pagrindžia:

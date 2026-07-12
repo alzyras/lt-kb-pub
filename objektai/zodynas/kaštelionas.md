@@ -37,28 +37,28 @@ Jiems karo reikaluose ir teismuose tarsi padėjėjai buvo kaštelionai. Vėliau 
 ## Teiginiai
 
 <a id="claim-t-12548"></a>
-- t-003
+- t-001
   global_id: t-12548
   teiginys: "Unijos akto 11 paragrafu Jogaila ir Vytautas pažadėjo Vilniuje ir Trakuose įsteigti Lenkijos pavyzdžio kašteliono pareigybę."
   pagrindžia:
     - c-160262
 
 <a id="claim-t-12549"></a>
-- t-004
+- t-002
   global_id: t-12549
   teiginys: "Vilniuje ir Trakuose turėjo būti įsteigtos vaivados ir kašteliono pareigybės."
   pagrindžia:
     - c-14693
 
 <a id="claim-t-176246"></a>
-- t-005
+- t-003
   global_id: t-176246
   teiginys: "1566 m. Žemaitijai buvo paskirtas kaštelionas."
   pagrindžia:
     - c-160261
 
 <a id="claim-t-182952"></a>
-- t-006
+- t-004
   global_id: t-182952
   teiginys: "Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai."
   pagrindžia:

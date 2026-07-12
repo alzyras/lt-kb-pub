@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - pilis
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -66,7 +67,7 @@ Nenurodyta
     - c-63650
 
 <a id="claim-t-62829"></a>
-- t-001
+- t-003
   global_id: t-62829
   teiginys: "1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų smarkiai užpuolė Kolainių pilį."
   pagrindžia:

@@ -43,14 +43,14 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
 ## Teiginiai
 
 <a id="claim-t-184409"></a>
-- t-011
+- t-001
   global_id: t-184409
   teiginys: "Aldona, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo."
   pagrindžia:
     - c-167774
 
 <a id="claim-t-184410"></a>
-- t-004
+- t-002
   global_id: t-184410
   teiginys: "1325 m. Gedimino duktė Aldona (Ona) buvo išleista už Vladislovo I Lokietkos sūnaus Kazimiero, būsimo Kazimiero III Didžiojo."
   pagrindžia:
@@ -64,21 +64,21 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167779
 
 <a id="claim-t-184412"></a>
-- t-006
+- t-004
   global_id: t-184412
   teiginys: "Kazimieras Didysis į savo naujai pastatydintus miestus pritraukė daug pasiturinčių žydų tautybės žmonių."
   pagrindžia:
     - c-167781
 
 <a id="claim-t-184413"></a>
-- t-002
+- t-005
   global_id: t-184413
   teiginys: "1325 m. Gedimino dukters Aldonos ir būsimojo Kazimiero Didžiojo jungtuvės sutvirtino Lietuvos ir Lenkijos sutartį."
   pagrindžia:
     - c-36414
 
 <a id="claim-t-184414"></a>
-- t-007
+- t-006
   global_id: t-184414
   teiginys: "Kazimieras III Dobrynės žemę buvo atidavęs Vladislovui iš Opolės."
   pagrindžia:
@@ -87,7 +87,7 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167780
 
 <a id="claim-t-184415"></a>
-- t-010
+- t-007
   global_id: t-184415
   teiginys: "Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią."
   pagrindžia:
@@ -101,35 +101,35 @@ Bet karalius Kazimieras Didysis, atsisakęs nuo Pamario, padarė su ordinu taik�
     - c-167779
 
 <a id="claim-t-184417"></a>
-- t-013
+- t-009
   global_id: t-184417
   teiginys: "Kazimieras 1325 m. buvo sutuoktas su Gedimino dukra Aldona Ona ir tuo metu buvo Lenkijos sosto įpėdinis."
   pagrindžia:
     - c-167776
 
 <a id="claim-t-184418"></a>
-- t-005
+- t-010
   global_id: t-184418
   teiginys: "Kazimieras Didysis į naujai statomus miestus pritraukė daug pasiturinčių žydų tautybės žmonių."
   pagrindžia:
     - c-167781
 
 <a id="claim-t-184419"></a>
-- t-012
+- t-011
   global_id: t-184419
   teiginys: "Lenkų istorikas Kochanovskis Lenkijos atsigręžimą į rytus vadino nemirštama Kazimiero Didžiojo politikos idėja."
   pagrindžia:
     - c-167778
 
 <a id="claim-t-184420"></a>
-- t-001
+- t-012
   global_id: t-184420
   teiginys: "Kazimieras Didysis vedė Gedimino dukterį Aldoną, per krikštą pavadintą Ona."
   pagrindžia:
     - c-167774
 
 <a id="claim-t-184421"></a>
-- t-009
+- t-013
   global_id: t-184421
   teiginys: "Kazimiero Didžiojo politika siejo Lenkijos atsigręžimą į rytus su platesniais horizontais rytuose."
   pagrindžia:

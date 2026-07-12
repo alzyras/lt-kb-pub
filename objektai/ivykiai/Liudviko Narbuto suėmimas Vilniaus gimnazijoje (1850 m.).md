@@ -55,21 +55,21 @@ Viešai nuplaktas Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaz
 ## Teiginiai
 
 <a id="claim-t-187967"></a>
-- t-004
+- t-001
   global_id: t-187967
   teiginys: "1850 m. Vilniaus gimnazijoje buvo suimtas Teodoro Narbuto sūnus Liudvikas Narbutas."
   pagrindžia:
     - c-170971
 
 <a id="claim-t-187968"></a>
-- t-005
+- t-002
   global_id: t-187968
   teiginys: "Liudvikas Narbutas buvo kaltinamas priešvalstybine agitacija ir siekiu sukurti slaptą organizaciją."
   pagrindžia:
     - c-170971
 
 <a id="claim-t-187969"></a>
-- t-006
+- t-003
   global_id: t-187969
   teiginys: "Po tardymo, kalinimo ir viešo nuplakimo Liudvikas Narbutas buvo išsiųstas eiliniu kareiviu į Kaukaze veikusią Rusijos armiją."
   pagrindžia:

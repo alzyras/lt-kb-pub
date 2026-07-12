@@ -32,14 +32,14 @@ Dusburgietis teigia, kad petro iš Dusburgo kronikoje visa Prūsijos žemė (ter
 ## Teiginiai
 
 <a id="claim-t-58920"></a>
-- t-002
+- t-001
   global_id: t-58920
   teiginys: "Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno."
   pagrindžia:
     - c-59552
 
 <a id="claim-t-58921"></a>
-- t-001
+- t-002
   global_id: t-58921
   teiginys: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių."
   pagrindžia:

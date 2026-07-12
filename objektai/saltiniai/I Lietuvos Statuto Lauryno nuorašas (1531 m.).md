@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

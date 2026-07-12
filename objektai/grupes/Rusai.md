@@ -46,56 +46,56 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 ## Teiginiai
 
 <a id="claim-t-117247"></a>
-- t-012
+- t-001
   global_id: t-117247
   teiginys: "„Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, kurių daugumą iš pradžių sudarė stačiatikių seminarijų auklėtiniai."
   pagrindžia:
     - c-107975
 
 <a id="claim-t-117248"></a>
-- t-003
+- t-002
   global_id: t-117248
   teiginys: "Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko."
   pagrindžia:
     - c-42907
 
 <a id="claim-t-117249"></a>
-- t-008
+- t-003
   global_id: t-117249
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles."
   pagrindžia:
     - c-107971
 
 <a id="claim-t-117250"></a>
-- t-010
+- t-004
   global_id: t-117250
   teiginys: "Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams."
   pagrindžia:
     - c-107971
 
 <a id="claim-t-117251"></a>
-- t-002
+- t-005
   global_id: t-117251
   teiginys: "Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų."
   pagrindžia:
     - c-42906
 
 <a id="claim-t-117252"></a>
-- t-013
+- t-006
   global_id: t-117252
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė."
   pagrindžia:
     - c-107970
 
 <a id="claim-t-117253"></a>
-- t-006
+- t-007
   global_id: t-117253
   teiginys: "XVII–XVIII a. rusai kelis kartus išvertė Stryjkovskio Kroniką arba jos dalis į rusų kalbą."
   pagrindžia:
     - c-31253
 
 <a id="claim-t-117254"></a>
-- t-011
+- t-008
   global_id: t-117254
   teiginys: "Rusai XVII-XVIII a. kelis kartus vertė Stryjkovskio kroniką ar jos dalis į rusų kalbą."
   pagrindžia:
@@ -109,28 +109,28 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - c-42906
 
 <a id="claim-t-184580"></a>
-- t-016
+- t-010
   global_id: t-184580
   teiginys: "Polocko rusai valstybės valdymą buvo perdavę ne vienam kunigaikščiui, bet tautai."
   pagrindžia:
     - c-167941
 
 <a id="claim-t-192453"></a>
-- t-017
+- t-011
   global_id: t-192453
   teiginys: "Pasak Karamzino ir kitų istorikų, Rusia vadintas kraštas egzistavo dar prieš epochą, kai slavai pradėjo vadintis rusais."
   pagrindžia:
     - c-175247
 
 <a id="claim-t-193127"></a>
-- t-018
+- t-012
   global_id: t-193127
   teiginys: "Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų."
   pagrindžia:
     - c-175886
 
 <a id="claim-t-193337"></a>
-- t-019
+- t-013
   global_id: t-193337
   teiginys: "Atleidęs pasiuntinius, įsakė juos klystitin reikšminga, nes rusai vėliau ėmė rodyti lietuvių valdovui ne tik didesnę pagarbą bei palankumą, bet ir pastovesnę ištikimybę."
   pagrindžia:
@@ -546,6 +546,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/zodynas/„lenkų pradai“ „rusų pradai“.md#claim-t-22359|„lenkų pradai“ „rusų pradai“]]: „Rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai, todėl lietuvių kalba į švietimo įstaigas neįleista.
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193042|Visvaldis]]: Narbutas Visvaldį vadina rusų kunigaikščiu, kurio sostinė buvo Gercikos pilis prie Dauguvos, jo nuomone, dabartinis Daugpilis.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192075|Valtys]]: Narbutas rašo, kad rusai prie įėjimo į Rusnės įlanką stojo į mūšį susirinkę labai daug valčių.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195568|1902 m. A. R. Niemio kelionė į Lietuvą]]: Per šią kelionę A. R. Niemis lankė Kauną ir buvo nuolat sekamas rusų žandarų.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192033|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas nurodo, kad Goterio sūnus ir jo įpėdiniai ilgai užtrukusius karus su rusais nutraukė baigiantis II krikščioniškosios eros amžiui.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78614|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.
 - susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09880|Smolensko apgultis (1632–1634 m.)]]: 1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.
@@ -879,8 +880,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190584|Lietuviai]]: Narbutas teigė, kad lietuvių mitologijoje šventi buvo miško plotai su aukurais ir šventyklomis, dažniausiai prie upių santakų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190591|Lietuviai]]: Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.
 - susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72514|Lietuvių Draugija Estijoje]]: Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.
-- susijęs iš [[objektai/grupes/Lietuvių Mokslo Draugija.md#claim-t-74628|Lietuvių Mokslo Draugija]]: Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą.
-- susijęs iš [[objektai/grupes/Lietuvių Mokslo Draugija.md#claim-t-74631|Lietuvių Mokslo Draugija]]: Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų.
 - susijęs iš [[objektai/grupes/Lietuvių Suomių Draugija.md#claim-t-72515|Lietuvių Suomių Draugija]]: Suomijoje buvo apie šimtą lietuvių, todėl Lietuvių Suomių Draugijos veikla negalėjo išsiplėsti.
 - susijęs iš [[objektai/grupes/Lietuvių Suomių Draugija.md#claim-t-72517|Lietuvių Suomių Draugija]]: Suomijoje veikė Lietuvių Suomių Draugija.
 - susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-182738|Lietuvos kariuomenė]]: Gedimino laikais Lietuvos kariuomenėje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.
@@ -1588,14 +1587,23 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/daiktai/Kapsuliniai šautuvai.md#claim-t-40722|Kapsuliniai šautuvai]]: Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.
 - susijęs iš [[objektai/daiktai/Valtys.md#claim-t-192074|Valtys]]: Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis.
 - susijęs iš [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-40822|2-oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados buvo gen. mjr. Jono Mejeno divizijos, gynusios Vilnių nuo rusų puolimo, sudėtyje.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195567|1902 m. A. R. Niemio kelionė į Lietuvą]]: 1902 m. vasarą A. R. Niemis atnaujino kelionę į Lietuvą.
+- susijęs iš [[objektai/ivykiai/1902 m. A. R. Niemio kelionė į Lietuvą.md#claim-t-195569|1902 m. A. R. Niemio kelionė į Lietuvą]]: Kelionės tikslas buvo susipažinti su lietuvių liaudies poezija.
+- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195570|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: 1904 m. rugpjūčio ir rugsėjo mėnesiais A. R. Niemis vyko į Archangelsko guberniją.
+- susijęs iš [[objektai/ivykiai/1904 m. A. R. Niemio kelionė į Archangelsko guberniją.md#claim-t-195571|1904 m. A. R. Niemio kelionė į Archangelsko guberniją]]: Kelionės tikslas buvo pasiekti senų runų rinkimo vietą.
+- susijęs iš [[objektai/ivykiai/1906 m. A. R. Niemio studijų kelionė į Vokiją.md#claim-t-195572|1906 m. A. R. Niemio studijų kelionė į Vokiją]]: 1906 m. vasarą A. R. Niemis vyko į studijų kelionę į Vokiją.
+- susijęs iš [[objektai/ivykiai/1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje.md#claim-t-195573|1909 m. A. R. Niemio studijų ir dainų rinkimo kelionė Suomijos Karieloje]]: 1909 m. vasarą A. R. Niemis vyko į studijų ir dainų rinkimo kelionę Suomijos Karieloje.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192034|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbutas rašo, kad Gotbrodas sėkmingai kariavo Rusioje.
 - susijęs iš [[objektai/ivykiai/Gotbrodo žygiai Rusioje ir Goterio žūtis.md#claim-t-192035|Gotbrodo žygiai Rusioje ir Goterio žūtis]]: Narbuto pasakojime Gotbrodo įpėdinis Goteris žuvo kovodamas su Bojumi, o Rusios riteriai virš Bojo kapo supylė didžiulį pilkapį.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195013|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195014|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai.
 - susijęs iš [[objektai/ivykiai/Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.).md#claim-t-185737|Lenkų ir rusų karas dėl Liublino, kuriame dalyvavo lietuviai (1302 m.)]]: Po pralaimėjimo rusai nebeatnaujino mūšio, o išblaškytus jų karius žudė pergalingi lenkai.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195581|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutų gaudymas siautėjo ypač smarkiai.
+- susijęs iš [[objektai/ivykiai/Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą.md#claim-t-195583|Rekrutų gaudymas per Sevastopolio karą ir 1863 m. sukilimą]]: 1855 m. rekrutai buvo gaudomi ištisus metus, nežiūrint nei į amžių, nei į sveikatos trūkumus.
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.
 - susijęs iš [[objektai/paprociai/Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika.md#claim-t-87147|Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika]]: Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/posakiai/„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“.md#claim-t-195033|„Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės.“]]: Šeši tūkstančiai devyni šimtai šeštaisiais1 7 metais įvyko baisus mūšis tarp didžiojo kunigaikščio Vytauto ir chano Temir-Kutlujaus Didysis kunigaikštis Vy tautas sutelkė nesuskaičiuojamą daugybę kariuomenės, jo pusėje buvo chanas Tochtamyšas su savo kariuome.
+- susijęs iš Archangelsko gubernija: 1904 m. rugpjūtį ir rugsėjį Augustas Robertas Niemi dar kartą vyko į Archangelsko guberniją, į senų runų rinkimo vietą.
 - susijęs iš Kuršas: 1700 m. Šiaurės karo pradžioje Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.
 - susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.

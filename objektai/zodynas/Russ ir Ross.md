@@ -55,35 +55,35 @@ Dalis aiškinimo yra Narbuto etimologinė interpretacija, todėl viešuose teigi
 ## Teiginiai
 
 <a id="claim-t-192186"></a>
-- t-002
+- t-001
   global_id: t-192186
   teiginys: "Narbuto apžvalgoje Ross ar Russ aiškinamas kaip galimas tautos pavadinimas, asmenvardis arba perkeltinė „galvos“ reikšmė."
   pagrindžia:
     - c-175057
 
 <a id="claim-t-192188"></a>
-- t-005
+- t-002
   global_id: t-192188
   teiginys: "Narbutas rašo, kad vienas lietuvių pamokslininkas iš Viikiškių Prūsijoje žodį Russ vertė į vokiečių kalbą kaip Stammorth."
   pagrindžia:
     - c-175058
 
 <a id="claim-t-192189"></a>
-- t-004
+- t-003
   global_id: t-192189
   teiginys: "Narbuto aprašytoje dainelėje žodis Russ siejamas su gyvenimo gimtojoje sodyboje laime ir nauda."
   pagrindžia:
     - c-175055
 
 <a id="claim-t-192190"></a>
-- t-001
+- t-004
   global_id: t-192190
   teiginys: "Narbutas rašo, kad mokslininkai Šventajame Rašte pas pranašą Ezechielį aptinka žodį Ross ar Russ."
   pagrindžia:
     - c-175057
 
 <a id="claim-t-192191"></a>
-- t-003
+- t-005
   global_id: t-192191
   teiginys: "Narbutas rašo, kad žodis Russ rastas 1805 m. Raseinių apskrityje užrašytoje lietuviškoje dainelėje."
   pagrindžia:

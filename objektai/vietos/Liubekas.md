@@ -46,77 +46,77 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-175378"></a>
-- t-013
+- t-001
   global_id: t-175378
   teiginys: "1323 m. liepos 18 d. Liubeko rotušėje Rygos tarėjai Henrikas fon Calmaras ir Jonas Roghenas įteikė dominikonams tariamus Gedimino laiškus."
   pagrindžia:
     - c-159512
 
 <a id="claim-t-175379"></a>
-- t-010
+- t-002
   global_id: t-175379
   teiginys: "Iš Liubeko ir kitų Hanzos miestų į Vilnių atvykę amatininkai kartu su Rusios ir Livonijos pirkliais tapo turtingiausiu miesto sluoksniu."
   pagrindžia:
     - c-159511
 
 <a id="claim-t-175380"></a>
-- t-005
+- t-003
   global_id: t-175380
   teiginys: "Gediminas laiške Liubekui ir kitiems miestams pranešė, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto teise."
   pagrindžia:
     - c-159510
 
 <a id="claim-t-175381"></a>
-- t-011
+- t-004
   global_id: t-175381
   teiginys: "Gedimino laiške Liubeko ir kitų miestų gyventojams skelbta, kad į Vilnių atvykę kolonistai galės naudotis Rygos miesto civiline teise."
   pagrindžia:
     - c-159510
 
 <a id="claim-t-175382"></a>
-- t-019
+- t-005
   global_id: t-175382
   teiginys: "Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku."
   pagrindžia:
     - c-159518
 
 <a id="claim-t-175383"></a>
-- t-015
+- t-006
   global_id: t-175383
   teiginys: "Bremeno ir Liubeko miestiečiai, pirmieji Teutonų ordino steigėjai, padovanojo Henrikui Valpotui Akono ligoninę su jos išmaldomis ir gėrybėmis."
   pagrindžia:
     - c-159519
 
 <a id="claim-t-175384"></a>
-- t-017
+- t-007
   global_id: t-175384
   teiginys: "1323 m. Liubeke parengtame notariniame akte aprašytas prie Gedimino laiškų prikabintas apvalus vaškinis antspaudas."
   pagrindžia:
     - c-159509
 
 <a id="claim-t-175385"></a>
-- t-009
+- t-008
   global_id: t-175385
   teiginys: "1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas."
   pagrindžia:
     - c-159508
 
 <a id="claim-t-175387"></a>
-- t-004
+- t-009
   global_id: t-175387
   teiginys: "Į Vilnių atvykę amatininkai iš Liubeko ir kitų Hanzos miestų kartu su pirkliais tapo turtingu miesto gyventojų sluoksniu."
   pagrindžia:
     - c-159511
 
 <a id="claim-t-175388"></a>
-- t-003
+- t-010
   global_id: t-175388
   teiginys: "Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas."
   pagrindžia:
     - c-159508
 
 <a id="claim-t-175389"></a>
-- t-001
+- t-011
   global_id: t-175389
   teiginys: "1261 m. balandžio 27 d. Livonijos ordino vicemagistras prašė Liubeko miesto pagalbos dėl ordino patirtų nuostolių."
   pagrindžia:

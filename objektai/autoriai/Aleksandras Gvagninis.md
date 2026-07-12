@@ -39,14 +39,14 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
 ## Teiginiai
 
 <a id="claim-t-184463"></a>
-- t-002
+- t-001
   global_id: t-184463
   teiginys: "Aleksandro Gvagninio „Sarmatų Europos aprašymas“ iki XVII a. vidurio buvo penkis kartus pakartotinai išleistas, o 1611 m. išverstas į lenkų kalbą."
   pagrindžia:
     - c-167816
 
 <a id="claim-t-184464"></a>
-- t-001
+- t-002
   global_id: t-184464
   teiginys: "Aleksandras Gvagninis buvo 1578 m. lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Kojelavičiaus pirmtakų."
   pagrindžia:

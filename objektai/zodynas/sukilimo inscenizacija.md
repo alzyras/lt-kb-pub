@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kraštas
   - sukilimas
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -45,7 +45,7 @@ Lietuvai liko sukilimo inscenizacijos scenarijus.
     - c-75110
 
 <a id="claim-t-77785"></a>
-- t-001
+- t-002
   global_id: t-77785
   teiginys: "Lietuvai liko sukilimo inscenizacijos scenarijus."
   pagrindžia:

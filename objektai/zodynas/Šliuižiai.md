@@ -32,7 +32,7 @@ Vartojamos formos: `šliuižiu`.
 ## Teiginiai
 
 <a id="claim-t-07640"></a>
-- t-002
+- t-001
   global_id: t-07640
   teiginys: "Šliuižiai buvo pirmieji kalnėnų ir žemaičių ratai ant dviejų tekinių."
   pagrindžia:

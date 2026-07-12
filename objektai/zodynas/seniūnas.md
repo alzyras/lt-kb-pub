@@ -44,35 +44,35 @@ Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip k
 ## Teiginiai
 
 <a id="claim-t-12584"></a>
-- t-005
+- t-001
   global_id: t-12584
   teiginys: "Seniūnas šiame tekste yra lenkiškas urėdas Lietuvoje."
   pagrindžia:
     - c-14711
 
 <a id="claim-t-12585"></a>
-- t-006
+- t-002
   global_id: t-12585
   teiginys: "1411 m. Vytautas pats paskyrė seniūną iš Ordino atgautai Žemaitijai."
   pagrindžia:
     - c-14712
 
 <a id="claim-t-12586"></a>
-- t-007
+- t-003
   global_id: t-12586
   teiginys: "Seniūnas turėjo teismo valdžią ir vietininko teises."
   pagrindžia:
     - c-14712
 
 <a id="claim-t-187529"></a>
-- t-008
+- t-004
   global_id: t-187529
   teiginys: "Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai."
   pagrindžia:
     - c-170479
 
 <a id="claim-t-193157"></a>
-- t-009
+- t-005
   global_id: t-193157
   teiginys: "Pilies teismai priklausė seniūnams, kurių buvo palikta nebe tiek daug, kaip kad anksčiau, o tik po vieną kiekvienam paviete."
   pagrindžia:

@@ -41,14 +41,14 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
 ## Teiginiai
 
 <a id="claim-t-169894"></a>
-- t-008
+- t-001
   global_id: t-169894
   teiginys: "Simonas Stanevičius išleido poezijos knygą su eilėraščiu „Šlovė žemaičių“, laikomu kone tautinio kultūrinio sąjūdžio himnu ar manifestu."
   pagrindžia:
     - c-154578
 
 <a id="claim-t-183347"></a>
-- t-009
+- t-002
   global_id: t-183347
   teiginys: "Vilniaus universiteto aplinkoje Simonas Stanevičius ir kiti iš Žemaitijos kilę inteligentai plėtojo aukštąją kultūrą lietuvių kalba."
   pagrindžia:

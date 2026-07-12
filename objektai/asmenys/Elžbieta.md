@@ -38,49 +38,49 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
 ## Teiginiai
 
 <a id="claim-t-82291"></a>
-- t-007
+- t-001
   global_id: t-82291
   teiginys: "Šventa Elžbieta mirė 1231 m. lapkričio 19 d."
   pagrindžia:
     - c-78776
 
 <a id="claim-t-82292"></a>
-- t-005
+- t-002
   global_id: t-82292
   teiginys: "1221 m. Elžbieta ištekėjo už Tiuringijos markgrafo."
   pagrindžia:
     - c-78770
 
 <a id="claim-t-82293"></a>
-- t-004
+- t-003
   global_id: t-82293
   teiginys: "Šventa Elžbieta gimė 1207 m."
   pagrindžia:
     - c-78772
 
 <a id="claim-t-82294"></a>
-- t-001
+- t-004
   global_id: t-82294
   teiginys: "Elžbieta buvo Vengrijos karalienė ir Jadvygos motina."
   pagrindžia:
     - c-78778
 
 <a id="claim-t-82295"></a>
-- t-002
+- t-005
   global_id: t-82295
   teiginys: "Karalienė Elžbieta, bijodama prarasti Lenkiją, 1384 m. pasiuntė į Krokuvą keturiolikmetę dukterį Jadvygą."
   pagrindžia:
     - c-78771
 
 <a id="claim-t-82296"></a>
-- t-009
+- t-006
   global_id: t-82296
   teiginys: "Karalienė Elžbieta po Velykų su dukterimis ir sūnumi kardinolu Fridrichu atvyko į Vilnių."
   pagrindžia:
     - c-78774
 
 <a id="claim-t-82297"></a>
-- t-006
+- t-007
   global_id: t-82297
   teiginys: "1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas."
   pagrindžia:
@@ -94,7 +94,7 @@ Jis, būdamas dar pranciškonų ku­ nigas, kartu su savo broliu prie Algirdo ku
     - c-78773
 
 <a id="claim-t-82299"></a>
-- t-003
+- t-009
   global_id: t-82299
   teiginys: "Aleksandro motina karalienė Elžbieta su dukterimis ir sūnumi Fridrichu po Velykų atvyko į Vilnių."
   pagrindžia:

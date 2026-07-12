@@ -45,21 +45,21 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
 ## Teiginiai
 
 <a id="claim-t-76165"></a>
-- t-003
+- t-001
   global_id: t-76165
   teiginys: "Mindaugo laikais prie Lietuvos buvo prijungta Juodoji Rusia, Vytenio ir Gedimino laikais – Baltoji Rusia (Polockas – 1307 m., Vitebskas – 1320 m.) ir Voluinė (1340 m.) – taigi visa dabartinė Baltarusija ir dalis Vakarų Ukrainos."
   pagrindžia:
     - c-24060
 
 <a id="claim-t-76166"></a>
-- t-006
+- t-002
   global_id: t-76166
   teiginys: "1991 m. spalį Lietuva ir Baltarusija pasirašė deklaraciją dėl geros kaimynystės santykių principų."
   pagrindžia:
     - c-73806
 
 <a id="claim-t-76167"></a>
-- t-001
+- t-003
   global_id: t-76167
   teiginys: "Lietuvos Didžiosios Kunigaikštijos teritorija, apėmusi ir dabartinę Baltarusiją, ilgainiui pradėta vadinti Lietuva."
   pagrindžia:
@@ -73,21 +73,21 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
     - c-24061
 
 <a id="claim-t-76169"></a>
-- t-002
+- t-005
   global_id: t-76169
   teiginys: "ATR ir LDK erdvėje susiformavo keturios moderniosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija ir Ukraina."
   pagrindžia:
     - c-73805
 
 <a id="claim-t-76170"></a>
-- t-005
+- t-006
   global_id: t-76170
   teiginys: "LDK erdvė apėmė Lietuvos, Baltarusijos, Ukrainos ir Lenkijos žydus, vadintus „Rusijos žydais“."
   pagrindžia:
     - c-73805
 
 <a id="claim-t-76167"></a>
-- t-001
+- t-007
   global_id: t-76167
   teiginys: "Lietuvos Didžiosios Kunigaikštijos teritorija, apėmusi ir dabartinę Baltarusiją, ilgainiui pradėta vadinti Lietuva."
   pagrindžia:

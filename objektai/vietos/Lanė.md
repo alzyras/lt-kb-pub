@@ -42,14 +42,14 @@ Lanė prasideda apie 15 km į šiaurės rytus nuo Klecko. Lanė teka pro Klecką
     - c-170308
 
 <a id="claim-t-187249"></a>
-- t-003
+- t-002
   global_id: t-187249
   teiginys: "Ties Klecku pelkėtas Lanės slėnis siekia apie 600 m pločio."
   pagrindžia:
     - c-170308
 
 <a id="claim-t-187250"></a>
-- t-002
+- t-003
   global_id: t-187250
   teiginys: "Lanė teka pro Klecką iš vakarų pusės."
   pagrindžia:

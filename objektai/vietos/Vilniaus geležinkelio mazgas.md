@@ -30,7 +30,7 @@ Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus ir Krašto ap
 ## Teiginiai
 
 <a id="claim-t-77440"></a>
-- t-002
+- t-001
   global_id: t-77440
   teiginys: "Po Spaudos rūmų ir krašto apsaugos pastatų užėmimo sovietų kariuomenė užėmė Vilniaus geležinkelio mazgą."
   pagrindžia:

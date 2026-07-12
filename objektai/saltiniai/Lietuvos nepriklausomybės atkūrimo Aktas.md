@@ -11,6 +11,7 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
   - tauta
   - valstybė
@@ -38,21 +39,21 @@ Kovo 11 Aktas savo dvasia artimas Lietuvos Tarybos 1918 m. paskelbtam Vasario 16
 ## Teiginiai
 
 <a id="claim-t-75484"></a>
-- t-002
+- t-001
   global_id: t-75484
   teiginys: "SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą."
   pagrindžia:
     - c-23884
 
 <a id="claim-t-75483"></a>
-- t-001
+- t-002
   global_id: t-75483
   teiginys: "Kovo 11 Aktu buvo atkurtas 1940 m. panaikintas Lietuvos valstybės suverenių galių vykdymas, ir Lietuva vėl paskelbta nepriklausoma valstybe."
   pagrindžia:
     - c-23883
 
 <a id="claim-t-75484"></a>
-- t-002
+- t-003
   global_id: t-75484
   teiginys: "SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą."
   pagrindžia:

@@ -37,14 +37,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78383"></a>
-- t-002
+- t-001
   global_id: t-78383
   teiginys: "Po Liublino unijos Livonijos ir Kuršo kunigaikštystės pripažintos bendromis Lenkijos ir LDK valdomis."
   pagrindžia:
     - c-75667
 
 <a id="claim-t-78384"></a>
-- t-001
+- t-002
   global_id: t-78384
   teiginys: "1561 m. Livonijos konfederacijai nustojus egzistuoti, likusi jos dalis padalyta į Kuršo ir Livonijos kunigaikštystes, atitekusias Lietuvai."
   pagrindžia:

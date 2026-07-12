@@ -41,14 +41,14 @@ Narbutas Voigto Prūsijos istoriją apibūdino kaip aštuonių tomų veikalą, p
     - c-174578
 
 <a id="claim-t-191698"></a>
-- t-003
+- t-002
   global_id: t-191698
   teiginys: "Narbutas rašė, kad kryžiuočiai į Polesę įsiveržė laikydami ją senąja Prūsijos provincija ir kaltindami Kujavijos kunigaikštį sulaužius sutartį."
   pagrindžia:
     - c-174580
 
 <a id="claim-t-191923"></a>
-- t-004
+- t-003
   global_id: t-191923
   teiginys: "1242–1253 m. klajojusi grupė tarp Mazovijos, Prūsijos ir Lietuvos lengvino su vokiečiais kariavusių lietuvių ryšius su Pamariu ir Prūsija."
   pagrindžia:

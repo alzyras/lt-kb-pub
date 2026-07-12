@@ -39,14 +39,14 @@ Po sukilimo Lenkijos karalystė neteko politinės autonomijos, o buvusiose LDK �
     - c-73306
 
 <a id="claim-t-75569"></a>
-- t-003
+- t-002
   global_id: t-75569
   teiginys: "Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo politiką, vadintą „lenkų pradų naikinimo“ politika."
   pagrindžia:
     - c-73306
 
 <a id="claim-t-75570"></a>
-- t-002
+- t-003
   global_id: t-75570
   teiginys: "Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi politikos, vadintos „lenkų pradų naikinimo“ politika."
   pagrindžia:

@@ -27,21 +27,21 @@ Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančio
 ## Teiginiai
 
 <a id="claim-t-192920"></a>
-- t-002
+- t-001
   global_id: t-192920
   teiginys: "Narbutas Sembos pakrantės medžius, neteisingai laikytus medį mėgdžiojančiomis iškasenomis, vadina gintaro sandėliais."
   pagrindžia:
     - c-175690
 
 <a id="claim-t-192921"></a>
-- t-003
+- t-002
   global_id: t-192921
   teiginys: "Narbutas gerą gintarą apibūdina kaip kietą, blizgų, skaidrų ir senovėje brangakmeniams prilygintą sakų klasės daiktą."
   pagrindžia:
     - c-175691
 
 <a id="claim-t-194902"></a>
-- t-004
+- t-003
   global_id: t-194902
   teiginys: "Kocebus teisingai vadina gintarą saulės akmeniu, se novėje žinomu vardu3, taip pat tikra gamtos mįsle, kurią gaubia sunkiai atskleidžiamos uždangos4."
   pagrindžia:

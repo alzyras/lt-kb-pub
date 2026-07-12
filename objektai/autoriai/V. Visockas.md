@@ -41,7 +41,7 @@ V. Visockas nurodytas „Lietuvių tautos istorijos“ leidinio redaktorių kole
 ## Teiginiai
 
 <a id="claim-t-187944"></a>
-- t-002
+- t-001
   global_id: t-187944
   teiginys: "V. Visockas buvo „Lietuvių tautos istorijos“ leidinio redaktorių kolegijos narys."
   pagrindžia:

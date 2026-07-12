@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187805"></a>
-- t-004
+- t-001
   global_id: t-187805
   teiginys: "Dalyvaudamas 1808-1809 m. Rusijos-Švedijos kare, T. Narbutas buvo kontūzytas mūšyje prie Abo miesto ir vėliau apkurto."
   pagrindžia:
     - c-170757
 
 <a id="claim-t-187806"></a>
-- t-003
+- t-002
   global_id: t-187806
   teiginys: "T. Narbutas dalyvavo 1808-1809 m. Rusijos-Švedijos kare."
   pagrindžia:

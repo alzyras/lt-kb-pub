@@ -48,21 +48,21 @@ Teodoro Narbuto perteikimu, Ptolemėjas minėjo Aelvaconesz kaip lygų gentį, k
     - c-173982
 
 <a id="claim-t-191102"></a>
-- t-005
+- t-004
   global_id: t-191102
   teiginys: "Teodoro Narbuto aiškinimu, Ptolemėjas stavanus vadino Stabatii ir minėjo juos tvarka, leidžiančia atpažinti lietuvius."
   pagrindžia:
     - c-173984
 
 <a id="claim-t-191972"></a>
-- t-006
+- t-005
   global_id: t-191972
   teiginys: "Teodoro Narbuto aiškinimu, Ptolemėjas Salavijos gyventojus žinojo slavinu vardu, o kraštą svetimšaliai vadino Skalva arba Rusia."
   pagrindžia:
     - c-174854
 
 <a id="claim-t-191973"></a>
-- t-007
+- t-006
   global_id: t-191973
   teiginys: "Teodoro Narbuto perteikimu, senovės tyrinėtojai, remdamiesi Ptolemėju, latgalus dar vadino veltais, arba Veltae."
   pagrindžia:

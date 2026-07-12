@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87349"></a>
-- t-007
+- t-001
   global_id: t-87349
   teiginys: "Anupras Minkevičius, buvo vaitas: 1753 ir 1758 23."
   pagrindžia:
     - c-83331
 
 <a id="claim-t-87350"></a>
-- t-004
+- t-002
   global_id: t-87350
   teiginys: "1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius."
   pagrindžia:
@@ -59,14 +59,14 @@ media_all_json: |-
     - c-83333
 
 <a id="claim-t-87352"></a>
-- t-005
+- t-004
   global_id: t-87352
   teiginys: "Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu."
   pagrindžia:
     - c-83329
 
 <a id="claim-t-87353"></a>
-- t-002
+- t-005
   global_id: t-87353
   teiginys: "Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius."
   pagrindžia:
@@ -80,7 +80,7 @@ media_all_json: |-
     - c-83330
 
 <a id="claim-t-87355"></a>
-- t-001
+- t-007
   global_id: t-87355
   teiginys: "Jachna Laurinavičius Vilniaus vaitų ir žymesnių burmistrų sąraše nurodytas kaip žinomas nuo 1485 m."
   pagrindžia:

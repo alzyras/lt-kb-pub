@@ -39,7 +39,7 @@ Jį valdė Vilniaus generalgubernatorius.
 ## Teiginiai
 
 <a id="claim-t-45820"></a>
-- t-003
+- t-001
   global_id: t-45820
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   pagrindžia:
@@ -60,7 +60,7 @@ Jį valdė Vilniaus generalgubernatorius.
     - c-46900
 
 <a id="claim-t-183425"></a>
-- t-005
+- t-004
   global_id: t-183425
   teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   pagrindžia:

@@ -46,7 +46,7 @@ Istoriografijos metodo ir šaltinių kritikos terminas.
 ## Teiginiai
 
 <a id="claim-t-188002"></a>
-- t-002
+- t-001
   global_id: t-188002
   teiginys: "Narbutas pabrėžė laikęsis „griežto kriticizmo“ ir apsiribojęs „kritikos patvirtinta medžiaga“."
   pagrindžia:

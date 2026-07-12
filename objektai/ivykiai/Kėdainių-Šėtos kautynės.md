@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41295"></a>
-- t-005
+- t-001
   global_id: t-41295
   teiginys: "Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių."
   pagrindžia:
@@ -68,7 +68,7 @@ Nenurodyta
     - c-44906
 
 <a id="claim-t-41297"></a>
-- t-001
+- t-003
   global_id: t-41297
   teiginys: "Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą."
   pagrindžia:
@@ -82,7 +82,7 @@ Nenurodyta
     - c-43070
 
 <a id="claim-t-41299"></a>
-- t-003
+- t-005
   global_id: t-41299
   teiginys: "Prieš Kėdainių-Šėtos kautynes Kėdainių gynėjų vadovybė naktį iš vasario 7 į 8 d. sužinojo, kad bolševikų pajėgos traukiasi Šėtos link."
   pagrindžia:

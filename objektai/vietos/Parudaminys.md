@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - privilegija
   - valstybė
   - vieta
 media_total_count: '0'

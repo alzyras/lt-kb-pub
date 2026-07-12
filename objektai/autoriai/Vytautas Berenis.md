@@ -40,14 +40,14 @@ Vytautas Berenis siejamas su tekstu „Mykolas Balinskis - Vilniaus miesto istor
 ## Teiginiai
 
 <a id="claim-t-54651"></a>
-- t-002
+- t-001
   global_id: t-54651
   teiginys: "Vytauto Berenio „Provincialų dialogai apie žemaičių tautą“ nurodyti žurnalo „Metai“ 1995 m. 4 numeryje, p. 128."
   pagrindžia:
     - c-55557
 
 <a id="claim-t-54652"></a>
-- t-001
+- t-002
   global_id: t-54652
   teiginys: "Vytautas Berenis yra teksto „Mykolas Balinskis - Vilniaus miesto istorikas“ autorius."
   pagrindžia:

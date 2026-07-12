@@ -43,42 +43,42 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 ## Teiginiai
 
 <a id="claim-t-89225"></a>
-- t-006
+- t-001
   global_id: t-89225
   teiginys: "Slavai, kaip germanai, romanai ir aisčiai, priskiriami indoeuropiečių tautų grupei."
   pagrindžia:
     - c-22744
 
 <a id="claim-t-89226"></a>
-- t-004
+- t-002
   global_id: t-89226
   teiginys: "Lietuvių kalbos ir savimonės teritorijai siaurėjant rytuose bei pietuose, Lietuvos vardas su LDK ribomis išplito į plačias rytų slavų žemes."
   pagrindžia:
     - c-85208
 
 <a id="claim-t-89227"></a>
-- t-005
+- t-003
   global_id: t-89227
   teiginys: "Vėliau, I tūkstantmečio antroje pusėje, prasidėjo slavų ekspansija, nulėmusi rytinių baltų asimiliaciją."
   pagrindžia:
     - c-85209
 
 <a id="claim-t-89228"></a>
-- t-003
+- t-004
   global_id: t-89228
   teiginys: "Slavų ekspansija artėjo prie Lietuvos žemių."
   pagrindžia:
     - c-42934
 
 <a id="claim-t-89230"></a>
-- t-007
+- t-005
   global_id: t-89230
   teiginys: "Vokiečių puolimas ir slavų ekspansija, manoma, sutrukdė Lietuvos valstybei ir vardui aprėpti platesnes baltų genčių žemes."
   pagrindžia:
     - c-85208
 
 <a id="claim-t-182923"></a>
-- t-007
+- t-006
   global_id: t-182923
   teiginys: "Karolio Didžiojo agentai, pasiekę slavus, sužinojo, kad už slavų gyvena lietuviai."
   pagrindžia:
@@ -644,6 +644,7 @@ Aisčiai, kaip ir beveik visi Europos gyventojai (germanai, slavai, romanai ir k
 - susijęs iš [[objektai/ivykiai/Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus.md#claim-t-191075|Slavų įsiveržimas į Daniją ir Jarmeriko antroji pergalė prieš slavus]]: Narbutas pasakoja, kad Jarmerikui žygiuojant Prūsijoje slavai įsiveržė į Daniją, o grįžęs valdovas antrą kartą juos nugalėjo.
 - susijęs iš [[objektai/ivykiai/Gedimino herbo suteikimas Krunevičiui.md#claim-t-192031|Gedimino herbo suteikimas Krunevičiui]]: Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu.
 - susijęs iš [[objektai/ivykiai/Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą.md#claim-t-191063|Jarmeriko įsiveržimas į Prūsiją, Sembą ir Kuršą]]: Narbutas vaizduoja Jarmeriką po slavų krašto pavergimo įsiveržusį į Prūsiją, užgrobusį Sembą ir Kuršą bei žiauriai engusį žmones.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195396|Kūčių dienos ir vakarienės apeigos]]: Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms.
 - susijęs iš [[objektai/paprociai/Pilkapių nelietimo iš pagarbos ir baimės paprotys.md#claim-t-192104|Pilkapių nelietimo iš pagarbos ir baimės paprotys]]: Narbutas nurodė: Vietos kaimiečiai pilkapių nelietė, nes gerbė po jais besiilsinčios genties žmonių palaikus.
 - susijęs iš [[objektai/paprociai/Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė.md#claim-t-192094|Tikrojo lietuvio lėtas kalbėjimas ir latvio greitakalbė]]: Narbutas „tikrąjį lietuvį“ apibūdina kaip kalbantį lėtai, su pauzėmis ir atidžiai paisantį balsių ilgumo.
 - susijęs iš Daugava: Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.

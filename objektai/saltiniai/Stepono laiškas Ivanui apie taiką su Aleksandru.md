@@ -27,14 +27,14 @@ Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai l
 ## Teiginiai
 
 <a id="claim-t-186305"></a>
-- t-002
+- t-001
   global_id: t-186305
   teiginys: "Iš Stepono laiško Maskvos valdovui paaiškėjo, kad Steponas ketino amžinai laikytis taikos su Aleksandru."
   pagrindžia:
     - c-169666
 
 <a id="claim-t-193375"></a>
-- t-003
+- t-002
   global_id: t-193375
   teiginys: "Kelionėje jis gavo laišką iš karaliaus, kuris jį kvietė į Parčevo seimą."
   pagrindžia:

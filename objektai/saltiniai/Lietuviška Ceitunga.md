@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - redaktorius
   - saltinis
   - tauta
 media_total_count: '0'

@@ -42,14 +42,14 @@ Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas.
 ## Teiginiai
 
 <a id="claim-t-69886"></a>
-- t-002
+- t-001
   global_id: t-69886
   teiginys: "R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m."
   pagrindžia:
     - c-69092
 
 <a id="claim-t-193259"></a>
-- t-003
+- t-002
   global_id: t-193259
   teiginys: "Ypač garsus buvo 1769 m. Šiaulių ekonomijos valstiečių sukilimas."
   pagrindžia:

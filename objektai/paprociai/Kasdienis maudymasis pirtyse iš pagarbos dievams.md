@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - pinigai
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89446"></a>
-- t-002
+- t-001
   global_id: t-89446
   teiginys: "Kai kurie prūsai iš pagarbos savo dievams kasdien maudėsi pirtyse, o kiti pirties kęste nekentė."
   pagrindžia:
     - c-85403
 
 <a id="claim-t-89447"></a>
-- t-001
+- t-002
   global_id: t-89447
   teiginys: "Kai kurie iš pagarbos savo dievams kasdien maudydavosi pirtyse, o kiti pirties labai nemėgo."
   pagrindžia:

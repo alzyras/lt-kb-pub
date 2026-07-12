@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

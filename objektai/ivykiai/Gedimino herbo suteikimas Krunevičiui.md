@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192031"></a>
-- t-002
+- t-001
   global_id: t-192031
   teiginys: "Narbuto aiškinimu, 1302 m. Gedimino Krunevičiui duotas herbas siejamas su lietuviams nebūdingu herbų suteikimo papročiu."
   pagrindžia:
     - c-174908
 
 <a id="claim-t-192032"></a>
-- t-001
+- t-002
   global_id: t-192032
   teiginys: "Narbutas pateikia 1302 m. Gedimino Krunevičiui duotą herbą kaip pavyzdį, kad didieji kunigaikščiai kartais suteikdavo herbus slavų giminėms."
   pagrindžia:

@@ -45,49 +45,49 @@ Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kil
 ## Teiginiai
 
 <a id="claim-t-195025"></a>
-- t-006
+- t-001
   global_id: t-195025
   teiginys: "Pirmosios lietuvių kovos prie Nemuno su Prūsų ordinu ir naujos dinastijos kilmė «Baigėsi karas su prūsais."
   pagrindžia:
     - c-177400
 
 <a id="claim-t-195026"></a>
-- t-003
+- t-002
   global_id: t-195026
   teiginys: "1283 m. Dusburgas žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
   pagrindžia:
     - c-177400
 
 <a id="claim-t-195027"></a>
-- t-004
+- t-003
   global_id: t-195027
   teiginys: "1283 m. Dusburgas žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
   pagrindžia:
     - c-177402
 
 <a id="claim-t-195028"></a>
-- t-007
+- t-004
   global_id: t-195028
   teiginys: "Prasidėjo karas su lietuviais»."
   pagrindžia:
     - c-177400
 
 <a id="claim-t-195029"></a>
-- t-002
+- t-005
   global_id: t-195029
   teiginys: "Posakis „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ siejamas su pirmosiomis lietuvių kovomis prie Nemuno su Prūsų ordinu."
   pagrindžia:
     - c-177401
 
 <a id="claim-t-195030"></a>
-- t-005
+- t-006
   global_id: t-195030
   teiginys: "Dusburgas 1283 m. kronikoje žodžiais „Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
   pagrindžia:
     - c-177400
 
 <a id="claim-t-195031"></a>
-- t-001
+- t-007
   global_id: t-195031
   teiginys: "1283 m. Dusburgas kronikoje žodžiais „Baigėsi karas su prūsais. Prasidėjo karas su lietuviais“ pradėjo aprašyti kryžiuočių kovas su lietuviais."
   pagrindžia:

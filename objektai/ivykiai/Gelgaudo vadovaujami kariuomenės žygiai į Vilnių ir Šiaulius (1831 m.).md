@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66548"></a>
-- t-002
+- t-001
   global_id: t-66548
   teiginys: "Reguliariosios kariuomenės Lietuvoje likus tik Dembinskio rinktinei, Dembinskis prasimušė iki Varšuvos ir buvo paskirtas jos gubernatoriumi."
   pagrindžia:
     - c-66756
 
 <a id="claim-t-66549"></a>
-- t-001
+- t-002
   global_id: t-66549
   teiginys: "Po Gelgaudo nušovimo Rohlandas su savo būriu padėjo ginklus ir po kelių dienų perėjo į Prūsiją."
   pagrindžia:

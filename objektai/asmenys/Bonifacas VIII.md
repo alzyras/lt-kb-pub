@@ -42,42 +42,42 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
 ## Teiginiai
 
 <a id="claim-t-59900"></a>
-- t-003
+- t-001
   global_id: t-59900
   teiginys: "Bonifaco VIII ir Prancūzijos karaliaus Pilypo nesantarvė prasidėjo dėl popiežiaus pretenzijų į Prancūzijos reikalų pavaldumą Apaštalų sostui."
   pagrindžia:
     - c-60536
 
 <a id="claim-t-59901"></a>
-- t-001
+- t-002
   global_id: t-59901
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
   pagrindžia:
     - c-60535
 
 <a id="claim-t-59902"></a>
-- t-004
+- t-003
   global_id: t-59902
   teiginys: "1303 m. Bonifacas VIII paskelbė Romos karalių Albrechtą imperatoriumi ir perdavė jam Prancūzijos karalystę, bet Klemensas V tai atšaukė."
   pagrindžia:
     - c-60533
 
 <a id="claim-t-59903"></a>
-- t-005
+- t-004
   global_id: t-59903
   teiginys: "1303 m. rugsėjo pradžioje popiežius Bonifacas VIII buvo įkalintas Ananyje, o bažnyčios turtas išnešiotas."
   pagrindžia:
     - c-60532
 
 <a id="claim-t-59904"></a>
-- t-002
+- t-005
   global_id: t-59904
   teiginys: "1296 m. popiežius Bonifacas VIII kanonizavo Prancūzijos karalių Liudviką."
   pagrindžia:
     - c-60534
 
 <a id="claim-t-59901"></a>
-- t-001
+- t-006
   global_id: t-59901
   teiginys: "Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu."
   pagrindžia:

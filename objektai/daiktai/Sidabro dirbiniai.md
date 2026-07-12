@@ -60,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05235"></a>
-- t-002
+- t-001
   global_id: t-05235
   teiginys: "L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a."
   pagrindžia:

@@ -29,14 +29,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40060"></a>
-- t-002
+- t-001
   global_id: t-40060
   teiginys: "Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą."
   pagrindžia:
     - c-44305
 
 <a id="claim-t-40061"></a>
-- t-001
+- t-002
   global_id: t-40061
   teiginys: "B. Žarskis buvo paskirtas vienu iš batalionų vadų."
   pagrindžia:

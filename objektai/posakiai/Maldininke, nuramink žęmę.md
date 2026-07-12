@@ -39,7 +39,7 @@ Dusburgietis teigia, kad taigi ir šis markgrafas, apdairus ir protingas vyras, 
     - c-59756
 
 <a id="claim-t-184036"></a>
-- t-003
+- t-002
   global_id: t-184036
   teiginys: "Petras Dusburgietis aiškina, kad „Fridlando“ vardas lotyniškai reiškia „Maldininke, nuramink žęmę“."
   pagrindžia:

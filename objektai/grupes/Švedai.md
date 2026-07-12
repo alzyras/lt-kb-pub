@@ -44,7 +44,7 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 ## Teiginiai
 
 <a id="claim-t-75058"></a>
-- t-004
+- t-001
   global_id: t-75058
   teiginys: "Kovos su švedais paliko gilų pėdsaką lietuvių liaudies atmintyje, tai rodo įvairūs padavimai ir pasakojimai apie švedus, „švedkapius“ ir švedų buvimą Lietuvoje."
   pagrindžia:
@@ -65,28 +65,28 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
     - c-72981
 
 <a id="claim-t-75062"></a>
-- t-005
+- t-004
   global_id: t-75062
   teiginys: "1655–1660 m. švedai kariavo Lietuvos ir Lenkijos teritorijose, bet Lietuvoje įsitvirtinti jiems nepavyko."
   pagrindžia:
     - c-72981
 
 <a id="claim-t-75063"></a>
-- t-001
+- t-005
   global_id: t-75063
   teiginys: "Švedija siekė viešpatauti Baltijos jūroje, vadindama šį tikslą dominium maris Baltici."
   pagrindžia:
     - c-22844
 
 <a id="claim-t-75059"></a>
-- t-002
+- t-006
   global_id: t-75059
   teiginys: "XVII a. ATR kariavo su Švedija 1600–1629 m. ir 1655–1660 m., o karus komplikavo Vazų pretenzijos į Švedijos sostą."
   pagrindžia:
     - c-166591
 
 <a id="claim-t-188360"></a>
-- t-006
+- t-007
   global_id: t-188360
   teiginys: "Narbutas Švedijoje minėjo vyriausiąjį žynį ir teisėją, kuris dėl šių pareigų save laikė aukščiausiuoju karaliumi."
   pagrindžia:

@@ -42,35 +42,35 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
 ## Teiginiai
 
 <a id="claim-t-59925"></a>
-- t-005
+- t-001
   global_id: t-59925
   teiginys: "Popiežius Klemensas V mirė balandžio 20 d., praėjus metams nuo kometos pasirodymo pradžios."
   pagrindžia:
     - c-60557
 
 <a id="claim-t-59926"></a>
-- t-003
+- t-002
   global_id: t-59926
   teiginys: "1312 m. kovo 22 d. Vieno sinode popiežius Klemensas V pasmerkė tamplierių ordiną, nors tai dar nebuvo galutinis sprendimas."
   pagrindžia:
     - c-60561
 
 <a id="claim-t-59927"></a>
-- t-002
+- t-003
   global_id: t-59927
   teiginys: "Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo."
   pagrindžia:
     - c-60560
 
 <a id="claim-t-59928"></a>
-- t-001
+- t-004
   global_id: t-59928
   teiginys: "Popiežius Klemensas V atšaukė Bonifaco sprendimą paskelbti Albrechtą imperatoriumi ir jam atiduoti Prancūzijos karalystę."
   pagrindžia:
     - c-60558
 
 <a id="claim-t-59929"></a>
-- t-004
+- t-005
   global_id: t-59929
   teiginys: "1313 m. gegužės 5 d. Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir liepė jį gerbti birželio 14 d."
   pagrindžia:

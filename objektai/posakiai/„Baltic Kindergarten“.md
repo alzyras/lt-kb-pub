@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - kraštas
   - posakis
 media_total_count: '0'

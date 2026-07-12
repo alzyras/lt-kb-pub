@@ -12,7 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - seimas
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -37,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-66320"></a>
-- t-003
+- t-001
   global_id: t-66320
   teiginys: "1923 m. sausio 24 d. Lietuvos Seimas patenkino VMLGK prašymą dėl pagalbos Klaipėdos kraštui."
   pagrindžia:

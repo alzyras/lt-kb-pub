@@ -22,7 +22,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - privilegija
   - tauta
 amziai:
   - 'XIII'
@@ -49,196 +48,196 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 ## Teiginiai
 
 <a id="claim-t-117381"></a>
-- t-017
+- t-001
   global_id: t-117381
   teiginys: "Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais."
   pagrindžia:
     - c-108077
 
 <a id="claim-t-117382"></a>
-- t-012
+- t-002
   global_id: t-117382
   teiginys: "Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai."
   pagrindžia:
     - c-108059
 
 <a id="claim-t-117384"></a>
-- t-024
+- t-003
   global_id: t-117384
   teiginys: "Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų."
   pagrindžia:
     - c-108067
 
 <a id="claim-t-117386"></a>
-- t-025
+- t-004
   global_id: t-117386
   teiginys: "Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu."
   pagrindžia:
     - c-108061
 
 <a id="claim-t-117387"></a>
-- t-018
+- t-005
   global_id: t-117387
   teiginys: "Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus."
   pagrindžia:
     - c-108082
 
 <a id="claim-t-117388"></a>
-- t-019
+- t-006
   global_id: t-117388
   teiginys: "Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų."
   pagrindžia:
     - c-108065
 
 <a id="claim-t-117389"></a>
-- t-004
+- t-007
   global_id: t-117389
   teiginys: "Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų."
   pagrindžia:
     - c-108063
 
 <a id="claim-t-117390"></a>
-- t-029
+- t-008
   global_id: t-117390
   teiginys: "Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą."
   pagrindžia:
     - c-22868
 
 <a id="claim-t-117391"></a>
-- t-013
+- t-009
   global_id: t-117391
   teiginys: "Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės."
   pagrindžia:
     - c-108067
 
 <a id="claim-t-117392"></a>
-- t-023
+- t-010
   global_id: t-117392
   teiginys: "Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje."
   pagrindžia:
     - c-108070
 
 <a id="claim-t-117393"></a>
-- t-007
+- t-011
   global_id: t-117393
   teiginys: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus."
   pagrindžia:
     - c-108081
 
 <a id="claim-t-117394"></a>
-- t-002
+- t-012
   global_id: t-117394
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos."
   pagrindžia:
     - c-108060
 
 <a id="claim-t-117395"></a>
-- t-028
+- t-013
   global_id: t-117395
   teiginys: "Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu."
   pagrindžia:
     - c-108069
 
 <a id="claim-t-117396"></a>
-- t-027
+- t-014
   global_id: t-117396
   teiginys: "Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas."
   pagrindžia:
     - c-108076
 
 <a id="claim-t-117397"></a>
-- t-014
+- t-015
   global_id: t-117397
   teiginys: "Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu."
   pagrindžia:
     - c-108061
 
 <a id="claim-t-117399"></a>
-- t-026
+- t-016
   global_id: t-117399
   teiginys: "1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų."
   pagrindžia:
     - c-108073
 
 <a id="claim-t-117400"></a>
-- t-001
+- t-017
   global_id: t-117400
   teiginys: "Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“."
   pagrindžia:
     - c-108071
 
 <a id="claim-t-117401"></a>
-- t-020
+- t-018
   global_id: t-117401
   teiginys: "Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį."
   pagrindžia:
     - c-108058
 
 <a id="claim-t-117402"></a>
-- t-021
+- t-019
   global_id: t-117402
   teiginys: "Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose."
   pagrindžia:
     - c-108062
 
 <a id="claim-t-117403"></a>
-- t-016
+- t-020
   global_id: t-117403
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba."
   pagrindžia:
     - c-108060
 
 <a id="claim-t-117404"></a>
-- t-003
+- t-021
   global_id: t-117404
   teiginys: "Kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK ir Abiejų Tautų Respublikos erdvės kilę litvakais vadinęsi žydai."
   pagrindžia:
     - c-108077
 
 <a id="claim-t-117405"></a>
-- t-009
+- t-022
   global_id: t-117405
   teiginys: "Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų."
   pagrindžia:
     - c-108073
 
 <a id="claim-t-117406"></a>
-- t-010
+- t-023
   global_id: t-117406
   teiginys: "Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi."
   pagrindžia:
     - c-108078
 
 <a id="claim-t-183206"></a>
-- t-030
+- t-024
   global_id: t-183206
   teiginys: "Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų."
   pagrindžia:
     - c-166593
 
 <a id="claim-t-188371"></a>
-- t-024
+- t-025
   global_id: t-188371
   teiginys: "Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę."
   pagrindžia:
     - c-171265
 
 <a id="claim-t-188372"></a>
-- t-025
+- t-026
   global_id: t-188372
   teiginys: "Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų."
   pagrindžia:
     - c-171266
 
 <a id="claim-t-193568"></a>
-- t-031
+- t-027
   global_id: t-193568
   teiginys: "Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis)."
   pagrindžia:
     - c-176247
 
 <a id="claim-t-193569"></a>
-- t-032
+- t-028
   global_id: t-193569
   teiginys: "Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
   pagrindžia:
@@ -367,6 +366,8 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187871|Baltarusiai]]: Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195513|Žydai kromininkai]]: Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė.
+- susijęs iš [[objektai/zodynas/Likeris.md#claim-t-195622|Likeris]]: Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
@@ -618,6 +619,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
 - susijęs iš [[objektai/zodynas/žydšaudžiai.md#claim-t-22356|žydšaudžiai]]: Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187870|Baltarusiai]]: Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195515|Žydai kromininkai]]: Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių.
 - susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
 - susijęs iš [[objektai/grupes/Ypatingasis SD būrys Vilniuje.md#claim-t-20093|Ypatingasis SD būrys Vilniuje]]: Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.

@@ -32,7 +32,7 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
 ## Teiginiai
 
 <a id="claim-t-70366"></a>
-- t-004
+- t-001
   global_id: t-70366
   teiginys: "Vytautas tėvonija vadino beveik visas prūsų žemes iki dešiniojo Vyslos intako Osos."
   pagrindžia:
@@ -46,21 +46,21 @@ Tačiau Jogaila neatsisakė savo teisių į Lietuvą kaip į tėvoniją ir Lietu
     - c-69403
 
 <a id="claim-t-70369"></a>
-- t-001
+- t-003
   global_id: t-70369
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   pagrindžia:
     - c-69404
 
 <a id="claim-t-183483"></a>
-- t-005
+- t-004
   global_id: t-183483
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   pagrindžia:
     - c-166877
 
 <a id="claim-t-183484"></a>
-- t-006
+- t-005
   global_id: t-183484
   teiginys: "Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi."
   pagrindžia:

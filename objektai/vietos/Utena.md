@@ -42,21 +42,21 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
 ## Teiginiai
 
 <a id="claim-t-172016"></a>
-- t-018
+- t-001
   global_id: t-172016
   teiginys: "1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną."
   pagrindžia:
     - c-43946
 
 <a id="claim-t-172018"></a>
-- t-017
+- t-002
   global_id: t-172018
   teiginys: "Generaliniame Lietuvos teritorijos vadavimo nuo bolševikų plane Ukmergės rinktinė turėjo veržtis Ukmergės–Utenos–Zarasų kryptimi."
   pagrindžia:
     - c-156448
 
 <a id="claim-t-185169"></a>
-- t-019
+- t-003
   global_id: t-185169
   teiginys: "Kojelavičiaus pasakojime Narimantas apgulė Uteną, nes ten buvo pasislėpęs svetimų žmonų viliotoju vadintas žmogus."
   pagrindžia:

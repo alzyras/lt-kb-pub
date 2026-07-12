@@ -42,21 +42,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-104181"></a>
-- t-002
+- t-001
   global_id: t-104181
   teiginys: "Lietuvos valdovai vadinosi karaliais: Gediminas laiškuose Vakarams vartojo titulą rex, o Algirdas laiškuose Bizantijai - bazileus."
   pagrindžia:
     - c-97141
 
 <a id="claim-t-104182"></a>
-- t-001
+- t-002
   global_id: t-104182
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi."
   pagrindžia:
     - c-97140
 
 <a id="claim-t-104182"></a>
-- t-001
+- t-003
   global_id: t-104182
   teiginys: "1245–1246 m. vokiečių kronikininkas Mindaugą pavadino aukščiausiuoju karaliumi."
   pagrindžia:

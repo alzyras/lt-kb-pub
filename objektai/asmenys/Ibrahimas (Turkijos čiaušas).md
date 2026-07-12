@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - karalius
   - kunigaikštis
-  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -40,14 +40,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-87512"></a>
-- t-002
+- t-001
   global_id: t-87512
   teiginys: "Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste."
   pagrindžia:
     - c-83492
 
 <a id="claim-t-87513"></a>
-- t-001
+- t-002
   global_id: t-87513
   teiginys: "Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus."
   pagrindžia:

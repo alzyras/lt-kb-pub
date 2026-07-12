@@ -39,21 +39,21 @@ Būtėnas, P.: Gintaro šneka , Karys, 1973, 110-115, 159-164 p. — Danilaitė,
 ## Teiginiai
 
 <a id="claim-t-97201"></a>
-- t-002
+- t-001
   global_id: t-97201
   teiginys: "P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnius apie Vilnių ir jo pradžią."
   pagrindžia:
     - c-91688
 
 <a id="claim-t-97202"></a>
-- t-001
+- t-002
   global_id: t-97202
   teiginys: "P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“."
   pagrindžia:
     - c-91687
 
 <a id="claim-t-97202"></a>
-- t-001
+- t-003
   global_id: t-97202
   teiginys: "P. Būtėnas 1973 m. žurnale „Karys“ paskelbė straipsnį „Gintaro šneka“."
   pagrindžia:

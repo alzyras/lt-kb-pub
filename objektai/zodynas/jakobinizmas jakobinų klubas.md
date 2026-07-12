@@ -38,14 +38,14 @@ LLV sąjungininkę Prūsiją išgąsdino galimas valstybės sustiprėjimas dėl 
 ## Teiginiai
 
 <a id="claim-t-22171"></a>
-- t-002
+- t-001
   global_id: t-22171
   teiginys: "Sukilimo valdžiai oponavęs jakobinų klubas rengė manifestacijas, privertusias teismą paskelbti mirties nuosprendžius."
   pagrindžia:
     - c-24859
 
 <a id="claim-t-22172"></a>
-- t-001
+- t-002
   global_id: t-22172
   teiginys: "Prūsiją gąsdino galimas valstybės sustiprėjimas dėl reformų, o Jekaterina II nerimavo dėl Prancūzijos jakobinizmo prie Rusijos sienų."
   pagrindžia:

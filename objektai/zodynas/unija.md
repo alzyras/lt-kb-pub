@@ -34,28 +34,28 @@ Valstybinė santvarka po Liublino unijos.
 ## Teiginiai
 
 <a id="claim-t-72004"></a>
-- t-006
+- t-001
   global_id: t-72004
   teiginys: "Apsisaugojęs nuo Lenkijos nauja unija, Vytautas traukėsi nuo Ordino ir siekė atsiimti Žemaitiją."
   pagrindžia:
     - c-14717
 
 <a id="claim-t-72005"></a>
-- t-004
+- t-002
   global_id: t-72005
   teiginys: "Nauja unija padėjo Vytautui apsisaugoti nuo Lenkijos ir trauktis nuo Ordino, siekiant atsiimti Žemaitiją."
   pagrindžia:
     - c-14717
 
 <a id="claim-t-184641"></a>
-- t-007
+- t-003
   global_id: t-184641
   teiginys: "1566 m. Lietuvoje nerimą kėlė tai, kad karaliui mirus iki unijos sudarymo lenkai gali liautis teikę pagalbą."
   pagrindžia:
     - c-168002
 
 <a id="claim-t-193383"></a>
-- t-008
+- t-004
   global_id: t-193383
   teiginys: "Be abejo, jie n o rė jo unijos, b et tokios, k ad n eb ū tų p ažeistas v a l stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to, įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau L ietuvos Di džiosios K unig aik šty stės sienos."
   pagrindžia:

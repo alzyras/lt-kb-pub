@@ -39,14 +39,14 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67241
 
 <a id="claim-t-67259"></a>
-- t-006
+- t-002
   global_id: t-67259
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, siejamą su principu „Be manęs nieko negali būti sprendžiama apie mane“."
   pagrindžia:
     - c-67241
 
 <a id="claim-t-67261"></a>
-- t-002
+- t-003
   global_id: t-67261
   teiginys: "Seime atsiradus atstovui, pasakiusiam „veto“, seimas turėdavo iširti."
   pagrindžia:
@@ -60,14 +60,14 @@ Be manęs nieko negali būti sprendžiama apie mane nihil de те, sine те lib
     - c-67238
 
 <a id="claim-t-67264"></a>
-- t-003
+- t-005
   global_id: t-67264
   teiginys: "Čartoriskiai siekė panaikinti liberum veto, bet pasipriešinus Rusų ir Prūsų atstovams veto buvo paliktas."
   pagrindžia:
     - c-67239
 
 <a id="claim-t-67265"></a>
-- t-005
+- t-006
   global_id: t-67265
   teiginys: "Liberum veto buvo paliktas kartu su karalių elekcija ir bajorijos teise neklausyti karaliaus, jei nevykdomi pacta conventa punktai."
   pagrindžia:

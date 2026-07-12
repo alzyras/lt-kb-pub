@@ -41,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09681"></a>
-- t-002
+- t-001
   global_id: t-09681
   teiginys: "Kai bokšto gynėjų buvo gerokai mažiau, žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   pagrindžia:
     - c-12492
 
 <a id="claim-t-193756"></a>
-- t-003
+- t-002
   global_id: t-193756
   teiginys: "Išgirdom, kaip žmonės sušuko: „Vyrai, susikibkim rankom ir sudarykim grandinę, kad ir šaudys, visų neiššaudys!“."
   pagrindžia:

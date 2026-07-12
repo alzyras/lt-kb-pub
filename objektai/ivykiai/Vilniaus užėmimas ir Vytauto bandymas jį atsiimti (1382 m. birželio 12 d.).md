@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-35897"></a>
-- t-002
+- t-001
   global_id: t-35897
   teiginys: "Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių."
   pagrindžia:
     - c-38328
 
 <a id="claim-t-35898"></a>
-- t-001
+- t-002
   global_id: t-35898
   teiginys: "1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių, šalininkų remiamas jį paėmė, o Rygos pirklys Hanulo įteikė jam pilies raktus."
   pagrindžia:

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - karas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

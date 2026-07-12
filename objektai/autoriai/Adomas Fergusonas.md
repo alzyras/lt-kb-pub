@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187792"></a>
-- t-002
+- t-001
   global_id: t-187792
   teiginys: "Leidinio įvado autorius Adomą Fergusoną priskiria žymiausiems XVIII-XIX a. Europos istorikams, kurių darbus vertė Vilniaus universiteto auklėtiniai."
   pagrindžia:

@@ -40,7 +40,7 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 ## Teiginiai
 
 <a id="claim-t-83244"></a>
-- t-003
+- t-001
   global_id: t-83244
   teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
   pagrindžia:
@@ -61,7 +61,7 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     - c-79613
 
 <a id="claim-t-83245"></a>
-- t-001
+- t-004
   global_id: t-83245
   teiginys: "Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą."
   pagrindžia:

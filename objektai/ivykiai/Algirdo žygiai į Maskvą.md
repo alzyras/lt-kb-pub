@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - kunigaikštis
-  - privilegija
   - valdovas
 amziai:
   - 'XIV'

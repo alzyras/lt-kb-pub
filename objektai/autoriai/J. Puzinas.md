@@ -40,21 +40,21 @@ J. Puzinas minimas kaip specialistas, archeologas ir proistorės tyrėjas; šiam
 ## Teiginiai
 
 <a id="claim-t-64642"></a>
-- t-003
+- t-001
   global_id: t-64642
   teiginys: "J. Puzinas 1938 m. Kaune paskelbė darbą „Naujausių proistorinių tyrinėjimų duomens“."
   pagrindžia:
     - c-03991
 
 <a id="claim-t-64643"></a>
-- t-004
+- t-002
   global_id: t-64643
   teiginys: "J. Puzinas 1948 m. žurnale „Aidai“ paskelbė straipsnį „Aisčiai istorinių šaltinių šviesoje“."
   pagrindžia:
     - c-03992
 
 <a id="claim-t-64645"></a>
-- t-002
+- t-003
   global_id: t-64645
   teiginys: "J. Puzinas pristatomas kaip specialistas, duodantis atskirą išsamų veikalą."
   pagrindžia:

@@ -63,14 +63,14 @@ Nenurodyta
     - c-37010
 
 <a id="claim-t-50803"></a>
-- t-003
+- t-002
   global_id: t-50803
   teiginys: "Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti."
   pagrindžia:
     - c-37013
 
 <a id="claim-t-50804"></a>
-- t-002
+- t-003
   global_id: t-50804
   teiginys: "Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą."
   pagrindžia:

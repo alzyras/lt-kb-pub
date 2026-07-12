@@ -53,21 +53,21 @@ Nenurodyta
     - c-173890
 
 <a id="claim-t-191010"></a>
-- t-004
+- t-003
   global_id: t-191010
   teiginys: "Narbutas vertino, kad Darijui nepavykęs žygis prieš skitus paveikė Skitijos vidaus sąlygas ir artino ją prie žlugimo."
   pagrindžia:
     - c-173892
 
 <a id="claim-t-191011"></a>
-- t-005
+- t-004
   global_id: t-191011
   teiginys: "Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką."
   pagrindžia:
     - c-173893
 
 <a id="claim-t-191867"></a>
-- t-006
+- t-005
   global_id: t-191867
   teiginys: "Narbuto pasakojimu, Darijus siekė pasiekti tolimiausias Skitijos sritis, bet jo kariuomenė patyrė didelių nuostolių ir traukėsi tuo pačiu keliu."
   pagrindžia:

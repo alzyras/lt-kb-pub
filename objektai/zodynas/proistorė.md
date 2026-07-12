@@ -5,7 +5,8 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -61,7 +62,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-05587
 
 <a id="claim-t-05457"></a>
-- t-001
+- t-003
   global_id: t-05457
   teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
   pagrindžia:
@@ -69,14 +70,14 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-69344
 
 <a id="claim-t-05608"></a>
-- t-005
+- t-004
   global_id: t-05608
   teiginys: "Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis."
   pagrindžia:
     - c-05587
 
 <a id="claim-t-05457"></a>
-- t-001
+- t-005
   global_id: t-05457
   teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
   pagrindžia:
@@ -84,7 +85,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     - c-69344
 
 <a id="claim-t-70294"></a>
-- t-007
+- t-006
   global_id: t-70294
   teiginys: "Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai."
   pagrindžia:

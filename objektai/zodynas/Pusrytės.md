@@ -36,14 +36,14 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07749"></a>
-- t-004
+- t-001
   global_id: t-07749
   teiginys: "Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis."
   pagrindžia:
     - c-09661
 
 <a id="claim-t-07750"></a>
-- t-003
+- t-002
   global_id: t-07750
   teiginys: "Pusrytės žymėjo laiką, iki kurio žydams pilyje neleista pirkti prekių."
   pagrindžia:

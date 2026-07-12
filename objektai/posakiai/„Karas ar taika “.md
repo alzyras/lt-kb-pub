@@ -11,6 +11,7 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - posakis
   - tauta

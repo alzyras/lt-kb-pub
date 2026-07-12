@@ -9,7 +9,8 @@ date_start: '1928'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["sutartis", "politinis-sprendimas"]
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -56,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45361"></a>
-- t-008
+- t-001
   global_id: t-45361
   teiginys: "1928 m. sausio 29 d. Berlyne Lietuva ir Vokietija nustatė sienos liniją, palikusią Klaipėdos teritoriją Lietuvos pusėje."
   pagrindžia:
     - c-48211
 
 <a id="claim-t-45363"></a>
-- t-007
+- t-002
   global_id: t-45363
   teiginys: "1928 m. sausio 29 d. po ilgų ir sunkių derybų buvo pasirašyta Lietuvos ir Vokietijos sienos sutartis."
   pagrindžia:

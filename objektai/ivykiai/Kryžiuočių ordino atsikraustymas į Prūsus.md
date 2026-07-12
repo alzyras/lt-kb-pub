@@ -51,21 +51,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01676"></a>
-- t-002
+- t-001
   global_id: t-01676
   teiginys: "Gavęs kvietimą atvykti į Prūsus, Vokiečių ordinas bylinėjosi su Vengrijos karaliumi dėl siekio atgauti prarastas žemes."
   pagrindžia:
     - c-01916
 
 <a id="claim-t-01677"></a>
-- t-003
+- t-002
   global_id: t-01677
   teiginys: "1230 m. pirmieji Vokiečių ordino atstovai jau buvo pasiekę Prūsų pasienį."
   pagrindžia:
     - c-01915
 
 <a id="claim-t-01678"></a>
-- t-001
+- t-003
   global_id: t-01678
   teiginys: "Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga."
   pagrindžia:

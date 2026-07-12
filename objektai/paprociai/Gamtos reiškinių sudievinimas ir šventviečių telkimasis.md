@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -56,7 +57,7 @@ Nenurodyta
     - c-55137
 
 <a id="claim-t-54232"></a>
-- t-001
+- t-002
   global_id: t-54232
   teiginys: "Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje."
   pagrindžia:

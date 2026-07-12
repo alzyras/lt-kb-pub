@@ -36,14 +36,14 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
     - c-170298
 
 <a id="claim-t-187231"></a>
-- t-003
+- t-002
   global_id: t-187231
   teiginys: "Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais."
   pagrindžia:
     - c-170297
 
 <a id="claim-t-187232"></a>
-- t-002
+- t-003
   global_id: t-187232
   teiginys: "Lietuvos metraštis Liubartą sieja su Karačevo valdymu ir Karačevo kunigaikščio titulu."
   pagrindžia:

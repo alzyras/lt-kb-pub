@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - institucija
+  - redaktorius
 amziai:
   - 'XXI'
 periodo_grupes:

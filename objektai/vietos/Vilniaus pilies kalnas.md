@@ -45,21 +45,21 @@ media_all_json: |-
     - c-82096
 
 <a id="claim-t-86117"></a>
-- t-004
+- t-002
   global_id: t-86117
   teiginys: "Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki."
   pagrindžia:
     - c-82097
 
 <a id="claim-t-86118"></a>
-- t-002
+- t-003
   global_id: t-86118
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis."
   pagrindžia:
     - c-82098
 
 <a id="claim-t-86119"></a>
-- t-003
+- t-004
   global_id: t-86119
   teiginys: "Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių."
   pagrindžia:

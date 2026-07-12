@@ -13,6 +13,7 @@ tags:
   - ginklas
   - ivykis
   - pilis
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-41458"></a>
-- t-003
+- t-001
   global_id: t-41458
   teiginys: "Sausio įvykių gynėjai išsikėlė nerašytą misiją priešintis bet kokiu atveju ir nepakartoti 1940 m. klaidos."
   pagrindžia:

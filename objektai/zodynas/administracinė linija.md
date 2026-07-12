@@ -14,6 +14,7 @@ date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
   - tauta
   - valstybė
@@ -41,14 +42,14 @@ Apsidžiaugusi Sąjungos Taryba patvirtino tai rezoliucija ir ribą tarp abiejų
 ## Teiginiai
 
 <a id="claim-t-45777"></a>
-- t-002
+- t-001
   global_id: t-45777
   teiginys: "1938 m. kovo 11 d. prie administracinės linijos Lietuvos pasienio policininkas nušovė liniją perėjusį lenkų kareivį."
   pagrindžia:
     - c-24727
 
 <a id="claim-t-45778"></a>
-- t-001
+- t-002
   global_id: t-45778
   teiginys: "Apie 1937 m., kai keliai tarp Lietuvos ir Lenkijos buvo uždaryti, giminės iš abiejų pusių susitikdavo prie administracinės linijos."
   pagrindžia:

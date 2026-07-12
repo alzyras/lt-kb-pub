@@ -11,8 +11,10 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

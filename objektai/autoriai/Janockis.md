@@ -30,14 +30,14 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
 ## Teiginiai
 
 <a id="claim-t-88067"></a>
-- t-002
+- t-001
   global_id: t-88067
   teiginys: "Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis."
   pagrindžia:
     - c-84046
 
 <a id="claim-t-88068"></a>
-- t-001
+- t-002
   global_id: t-88068
   teiginys: "Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“."
   pagrindžia:

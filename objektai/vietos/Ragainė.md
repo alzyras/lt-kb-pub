@@ -50,196 +50,196 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 ## Teiginiai
 
 <a id="claim-t-169144"></a>
-- t-017
+- t-001
   global_id: t-169144
   teiginys: "Skalvių pilis Ragainėje, manoma, buvo piliakalnyje per 2 km į pietryčius nuo dabartinio miestelio."
   pagrindžia:
     - c-153901
 
 <a id="claim-t-169145"></a>
-- t-028
+- t-002
   global_id: t-169145
   teiginys: "Ragainės komtūras per vieną puolimą išsivedė 100 žmonių į nelaisvę."
   pagrindžia:
     - c-37686
 
 <a id="claim-t-169146"></a>
-- t-011
+- t-003
   global_id: t-169146
   teiginys: "1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai."
   pagrindžia:
     - c-153895
 
 <a id="claim-t-169147"></a>
-- t-012
+- t-004
   global_id: t-169147
   teiginys: "Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi."
   pagrindžia:
     - c-153900
 
 <a id="claim-t-169148"></a>
-- t-015
+- t-005
   global_id: t-169148
   teiginys: "Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas."
   pagrindžia:
     - c-153888
 
 <a id="claim-t-169149"></a>
-- t-009
+- t-006
   global_id: t-169149
   teiginys: "Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas."
   pagrindžia:
     - c-153894
 
 <a id="claim-t-169150"></a>
-- t-016
+- t-007
   global_id: t-169150
   teiginys: "Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė."
   pagrindžia:
     - c-153894
 
 <a id="claim-t-169152"></a>
-- t-018
+- t-008
   global_id: t-169152
   teiginys: "Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis."
   pagrindžia:
     - c-153904
 
 <a id="claim-t-169153"></a>
-- t-022
+- t-009
   global_id: t-169153
   teiginys: "Draikas buvo nuvestas į Ragainę ir ten su visa šeimyna pakrikštytas."
   pagrindžia:
     - c-153898
 
 <a id="claim-t-169154"></a>
-- t-008
+- t-010
   global_id: t-169154
   teiginys: "1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai."
   pagrindžia:
     - c-153895
 
 <a id="claim-t-169155"></a>
-- t-027
+- t-011
   global_id: t-169155
   teiginys: "1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį."
   pagrindžia:
     - c-153897
 
 <a id="claim-t-169156"></a>
-- t-020
+- t-012
   global_id: t-169156
   teiginys: "Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru."
   pagrindžia:
     - c-153905
 
 <a id="claim-t-169157"></a>
-- t-026
+- t-013
   global_id: t-169157
   teiginys: "1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė."
   pagrindžia:
     - c-153896
 
 <a id="claim-t-169158"></a>
-- t-019
+- t-014
   global_id: t-169158
   teiginys: "1289 m. brolis Meinhardas Nemuno pakrantėje pastatė Landeshutės pilį, kuri vėliau vadinta Ragaine."
   pagrindžia:
     - c-153889
 
 <a id="claim-t-169159"></a>
-- t-013
+- t-015
   global_id: t-169159
   teiginys: "Dusburgiečio kronikoje pasakojama, kad nuo kariuomenės Žemaitijoje atsilikęs kryžiuočių karys pėsčiomis grįžo į Ragainę."
   pagrindžia:
     - c-153890
 
 <a id="claim-t-169160"></a>
-- t-021
+- t-016
   global_id: t-169160
   teiginys: "Sekmadienį prieš Jonines lietuviai saloje prie Ragainės pilies pagrobė visus brolių žirgus ir galvijus."
   pagrindžia:
     - c-153899
 
 <a id="claim-t-169161"></a>
-- t-010
+- t-017
   global_id: t-169161
   teiginys: "Po Aukaimio užėmimo Draika buvo nuvestas į Ragainę ir čia pakrikštytas su visa šeimyna."
   pagrindžia:
     - c-153898
 
 <a id="claim-t-169162"></a>
-- t-014
+- t-018
   global_id: t-169162
   teiginys: "1289 m. buvo pastatyta Ragainės pilis, po to kronikoje atsirado daugiau įvykių smulkmenų ir tikslių dienų."
   pagrindžia:
     - c-153893
 
 <a id="claim-t-169163"></a>
-- t-029
+- t-019
   global_id: t-169163
   teiginys: "Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve."
   pagrindžia:
     - c-153892
 
 <a id="claim-t-169164"></a>
-- t-023
+- t-020
   global_id: t-169164
   teiginys: "1315 m. apie Žolinę lietuviai iš Žemaitijos slaptai ir netikėtai atžygiavo prie Ragainės pilies ir ją užpuolė."
   pagrindžia:
     - c-153887
 
 <a id="claim-t-169165"></a>
-- t-026
+- t-021
   global_id: t-169165
   teiginys: "1409 m. Vokiečių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus."
   pagrindžia:
     - c-153886
 
 <a id="claim-t-184194"></a>
-- t-030
+- t-022
   global_id: t-184194
   teiginys: "Tų pačių metų rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
   pagrindžia:
     - c-153899
 
 <a id="claim-t-185118"></a>
-- t-031
+- t-023
   global_id: t-185118
   teiginys: "1299 m. Brandenburgo komtūras Kanonas papildė kariuomenę stipriu Ragainės būriu ir laivais nuplukdė ją į Lietuvos gilumą."
   pagrindžia:
     - c-168479
 
 <a id="claim-t-185120"></a>
-- t-033
+- t-024
   global_id: t-185120
   teiginys: "Ragainės komtūras išsklaidė Kauno tvirtovę atstatinėjusius darbininkus ir išardė pradėtą pilį."
   pagrindžia:
     - c-168481
 
 <a id="claim-t-192736"></a>
-- t-034
+- t-025
   global_id: t-192736
   teiginys: "Narbutas rašo, kad ant kalvos netoli Ragainės buvo senovės tvirtovė, kurios vietoje pastatyta kryžiuočių pilis."
   pagrindžia:
     - c-175506
 
 <a id="claim-t-192737"></a>
-- t-035
+- t-026
   global_id: t-192737
   teiginys: "Narbutas nurodo, kad Hartknocho išleistame Dusburgo veikale Ragainė klaidingai pavadinta Ramige."
   pagrindžia:
     - c-175507
 
 <a id="claim-t-193426"></a>
-- t-036
+- t-027
   global_id: t-193426
   teiginys: "Rugpjūčio viduryje žemaičiai nuniokojo Ragainės ir Skalvių apylinkes."
   pagrindžia:
     - c-176148
 
 <a id="claim-t-194546"></a>
-- t-037
+- t-028
   global_id: t-194546
   teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
   pagrindžia:

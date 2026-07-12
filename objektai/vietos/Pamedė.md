@@ -40,35 +40,35 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
 ## Teiginiai
 
 <a id="claim-t-116516"></a>
-- t-002
+- t-001
   global_id: t-116516
   teiginys: "Petro iš Dusburgo kronikoje Pamedė įtraukta į vienuolikos atskirų Prūsijos žemių sąrašą."
   pagrindžia:
     - c-107353
 
 <a id="claim-t-116517"></a>
-- t-004
+- t-002
   global_id: t-116517
   teiginys: "Pamedės žemėje buvusią Spitenbergo pilį antrosios atskalūnybės metais broliai sudegino ir paliko dėl prūsų antpuolių bei reikmenų stokos."
   pagrindžia:
     - c-107349
 
 <a id="claim-t-116518"></a>
-- t-005
+- t-003
   global_id: t-116518
   teiginys: "Antrosios atskalūnybės pradžioje pagudėnai su sūduviais ir kitomis Prūsijos gentimis išnaršė Pagudę bei Pamedę."
   pagrindžia:
     - c-107351
 
 <a id="claim-t-116519"></a>
-- t-001
+- t-004
   global_id: t-116519
   teiginys: "Petro iš Dusburgo kronikoje Pamedė nurodoma kaip viena iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-107350
 
 <a id="claim-t-116520"></a>
-- t-003
+- t-005
   global_id: t-116520
   teiginys: "Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta."
   pagrindžia:

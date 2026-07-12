@@ -34,21 +34,21 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 ## Teiginiai
 
 <a id="claim-t-183104"></a>
-- t-002
+- t-001
   global_id: t-183104
   teiginys: "Seniausiais laikais lietuviai upėmis pasiekdavo Viduržemio pajūrį."
   pagrindžia:
     - c-166489
 
 <a id="claim-t-183105"></a>
-- t-003
+- t-002
   global_id: t-183105
   teiginys: "Mažajai Azijai patekus į turkų valdžią, Viduržemio jūros prekybos centrai pamažu prarado reikšmę Europai."
   pagrindžia:
     - c-166490
 
 <a id="claim-t-192771"></a>
-- t-004
+- t-003
   global_id: t-192771
   teiginys: "Narbutas Viduržemio jūros pirklių kerštui priskyrė kliūtis pažinti Šiaurę, didesnes už Vidurio Europos tautų barbariškumą ir nesvetingumą."
   pagrindžia:

@@ -30,14 +30,14 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 ## Teiginiai
 
 <a id="claim-t-02501"></a>
-- t-003
+- t-001
   global_id: t-02501
   teiginys: "Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis."
   pagrindžia:
     - c-166423
 
 <a id="claim-t-184989"></a>
-- t-003
+- t-002
   global_id: t-184989
   teiginys: "Apie balandžio vidurį Prūsijos magistras Meinhardas apgulė Kolainius, Lietuvos pilį prie Nemuno pakrantės arčiausiai Prūsijos."
   pagrindžia:

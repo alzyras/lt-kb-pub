@@ -41,42 +41,42 @@ Dusburgietis teigia, kad bertoldas, vadinamas Briuhavenu visų vadinama nuo šal
 ## Teiginiai
 
 <a id="claim-t-59876"></a>
-- t-004
+- t-001
   global_id: t-59876
   teiginys: "Bertoldas su tūkstančiu Sembos vyrų nesėkmingai bandė sutrukdyti statybai, o vėliau sudegino Medrabos pilį."
   pagrindžia:
     - c-60513
 
 <a id="claim-t-59877"></a>
-- t-003
+- t-002
   global_id: t-59877
   teiginys: "1291 m. Karaliaučiaus komtūras Bertoldas Bruhavenas su broliais ir 1500 vyrų sudegino tuščią Kolainių pilį."
   pagrindžia:
     - c-60509
 
 <a id="claim-t-59878"></a>
-- t-002
+- t-003
   global_id: t-59878
   teiginys: "Bertoldas Briuhavenas neilgai vadovavo Ragainės piliai, nes netrukus buvo paskirtas Karaliaučiaus brolių komtūru."
   pagrindžia:
     - c-60508
 
 <a id="claim-t-59879"></a>
-- t-006
+- t-004
   global_id: t-59879
   teiginys: "1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams."
   pagrindžia:
     - c-60510
 
 <a id="claim-t-59880"></a>
-- t-001
+- t-005
   global_id: t-59880
   teiginys: "1289 m. Meinhardas Ragainės piliai ginti paliko iš Austrijos kilusį komtūrą Bertoldą Briuhaveną su 40 brolių ir 100 ginklanešių."
   pagrindžia:
     - c-60511
 
 <a id="claim-t-59881"></a>
-- t-005
+- t-006
   global_id: t-59881
   teiginys: "Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes."
   pagrindžia:

@@ -10,7 +10,8 @@ date_start: '2013'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karinis-terminas
 amziai:
   - 'XXI'
 media_total_count: '0'
@@ -48,28 +49,28 @@ Terminas vartojamas kaip karinis vadovavimo ir karių telkimo pareigybės pavadi
 ## Teiginiai
 
 <a id="claim-t-70311"></a>
-- t-005
+- t-001
   global_id: t-70311
   teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
   pagrindžia:
     - c-44217
 
 <a id="claim-t-70312"></a>
-- t-007
+- t-002
   global_id: t-70312
   teiginys: "Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai."
   pagrindžia:
     - c-44216
 
 <a id="claim-t-70313"></a>
-- t-008
+- t-003
   global_id: t-70313
   teiginys: "Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius."
   pagrindžia:
     - c-44219
 
 <a id="claim-t-70314"></a>
-- t-006
+- t-004
   global_id: t-70314
   teiginys: "Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams."
   pagrindžia:

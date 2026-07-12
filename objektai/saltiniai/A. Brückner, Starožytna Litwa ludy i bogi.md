@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-188035"></a>
-- t-002
+- t-001
   global_id: t-188035
   teiginys: "A. Brücknerio „Starožytna Litwa: ludy i bogi“ nurodoma kaip 1904 m. Varšuvoje išleisti istoriniai ir mitologiniai eskizai."
   pagrindžia:

@@ -44,7 +44,7 @@ media_all_json: |-
     - c-76029
 
 <a id="claim-t-78930"></a>
-- t-001
+- t-002
   global_id: t-78930
   teiginys: "1715 m. Tarnogrodo konfederacija tapo pretekstu į ATR įvesti Rusijos kariuomenę, turėjusią atlikti „taikdarišką“ ir „tarpininkavimo“ misiją."
   pagrindžia:

@@ -35,14 +35,14 @@ st.) ir lenkė Rumuniją, Bulgariją.
 ## Teiginiai
 
 <a id="claim-t-46557"></a>
-- t-002
+- t-001
   global_id: t-46557
   teiginys: "Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius."
   pagrindžia:
     - c-49121
 
 <a id="claim-t-46558"></a>
-- t-001
+- t-002
   global_id: t-46558
   teiginys: "J. Basanavičius grįžo iš emigracijos Bulgarijoje ir tapo suvažiavimo sumanymo iniciatoriumi."
   pagrindžia:

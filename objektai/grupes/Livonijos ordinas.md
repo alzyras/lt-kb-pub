@@ -55,581 +55,581 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 ## Teiginiai
 
 <a id="claim-t-179351"></a>
-- t-066
+- t-001
   global_id: t-179351
   teiginys: "1418 m. rugpjūčio 11 d. Livonijos ordino magistras iš Rygos rašė laišką Prūsijos magistrui."
   pagrindžia:
     - c-163085
 
 <a id="claim-t-179352"></a>
-- t-110
+- t-002
   global_id: t-179352
   teiginys: "1380 m. kovo 26 d. Rygoje sudarytos paliaubos tarp Livonijos magistro ir Lietuvos didžiojo kunigaikščio Jogailos."
   pagrindžia:
     - c-163118
 
 <a id="claim-t-179354"></a>
-- t-019
+- t-003
   global_id: t-179354
   teiginys: "1372 m. Lietuva vienu metu buvo puolama iš Prūsijos ir Livonijos."
   pagrindžia:
     - c-163117
 
 <a id="claim-t-179356"></a>
-- t-086
+- t-004
   global_id: t-179356
   teiginys: "Maskvos ginklų sutriuškintas Livonijos ordino magistras Gotardas Ketleris patikėjo valdovui save, ordiną ir valdas."
   pagrindžia:
     - c-163115
 
 <a id="claim-t-179357"></a>
-- t-077
+- t-005
   global_id: t-179357
   teiginys: "Mindaugo krikštas nepašalino ordinų pavojaus, be to, buvo prarasta etninės Lietuvos dalis – Žemaitija."
   pagrindžia:
     - c-163065
 
 <a id="claim-t-179358"></a>
-- t-095
+- t-006
   global_id: t-179358
   teiginys: "Rygiečių „Sühnenbrief“ teigė, kad jų bendradarbiavimas su pagonimis ordinui atnešė didelių nuostolių ir persekiojimų."
   pagrindžia:
     - c-163064
 
 <a id="claim-t-179359"></a>
-- t-045
+- t-007
   global_id: t-179359
   teiginys: "1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą."
   pagrindžia:
     - c-163130
 
 <a id="claim-t-179360"></a>
-- t-021
+- t-008
   global_id: t-179360
   teiginys: "Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi."
   pagrindžia:
     - c-163120
 
 <a id="claim-t-179362"></a>
-- t-018
+- t-009
   global_id: t-179362
   teiginys: "1364 m. sausį Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
   pagrindžia:
     - c-163087
 
 <a id="claim-t-179363"></a>
-- t-082
+- t-010
   global_id: t-179363
   teiginys: "Apie 1396 m. Liksnoje rašytas laiškas buvo adresuotas Livonijos magistrui ir turėjo būti nedelsiant atiduotas."
   pagrindžia:
     - c-163066
 
 <a id="claim-t-179364"></a>
-- t-092
+- t-011
   global_id: t-179364
   teiginys: "Kryžiuočiai siekė užkariauti Žemaitiją kaip sausumos jungtį su Livonijos ordinu."
   pagrindžia:
     - c-36911
 
 <a id="claim-t-179365"></a>
-- t-039
+- t-012
   global_id: t-179365
   teiginys: "1364 m. žiemą Livonijos kryžiuočių kariuomenė buvo įsiveržusi iki Žeimių."
   pagrindžia:
     - c-163087
 
 <a id="claim-t-179366"></a>
-- t-074
+- t-013
   global_id: t-179366
   teiginys: "Vytautas sudarė paliaubų sutartį su Livonijos ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   pagrindžia:
     - c-163129
 
 <a id="claim-t-179367"></a>
-- t-069
+- t-014
   global_id: t-179367
   teiginys: "Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską."
   pagrindžia:
     - c-163107
 
 <a id="claim-t-179368"></a>
-- t-014
+- t-015
   global_id: t-179368
   teiginys: "Livonijos ordinas nebenorėjo paklusti Rygos arkivyskupui, pas kurį krikštijosi Tautvilas."
   pagrindžia:
     - c-31222
 
 <a id="claim-t-179369"></a>
-- t-085
+- t-016
   global_id: t-179369
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš didįjį Kalavijuočių ordino magistrą Firstembergą."
   pagrindžia:
     - c-163068
 
 <a id="claim-t-179370"></a>
-- t-023
+- t-017
   global_id: t-179370
   teiginys: "Livonijos ordinas atskubėjo į pagalbą kryžiuočiams, o Vytautas turėjo trauktis Vilniaus link."
   pagrindžia:
     - c-36906
 
 <a id="claim-t-179371"></a>
-- t-041
+- t-018
   global_id: t-179371
   teiginys: "Ordino kronikose 1345-1382 m. užregistruoti 66 žygiai į Lietuvą iš Prūsijos ir 30 iš Livonijos."
   pagrindžia:
     - c-163095
 
 <a id="claim-t-179373"></a>
-- t-043
+- t-019
   global_id: t-179373
   teiginys: "Salyno suvažiavime per Prūsų ir Livonijos magistrų surengtą puotą Vytautas buvo paskelbtas Lietuvos karaliumi."
   pagrindžia:
     - c-163120
 
 <a id="claim-t-179400"></a>
-- t-024
+- t-020
   global_id: t-179400
   teiginys: "1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų."
   pagrindžia:
     - c-163103
 
 <a id="claim-t-179375"></a>
-- t-016
+- t-021
   global_id: t-179375
   teiginys: "Nuo Mindaugo krikšto Livonijos ordinas buvo įgijęs įtakos Lietuvos vidaus santykiams."
   pagrindžia:
     - c-163096
 
 <a id="claim-t-179377"></a>
-- t-087
+- t-022
   global_id: t-179377
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio danų vietininku."
   pagrindžia:
     - c-163074
 
 <a id="claim-t-179378"></a>
-- t-028
+- t-023
   global_id: t-179378
   teiginys: "Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes."
   pagrindžia:
     - c-163121
 
 <a id="claim-t-179379"></a>
-- t-105
+- t-024
   global_id: t-179379
   teiginys: "Livonijos ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą."
   pagrindžia:
     - c-163078
 
 <a id="claim-t-179381"></a>
-- t-108
+- t-025
   global_id: t-179381
   teiginys: "1260 m. Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių ordinų pajėgos."
   pagrindžia:
     - c-163114
 
 <a id="claim-t-179382"></a>
-- t-068
+- t-026
   global_id: t-179382
   teiginys: "Karaliaučiaus Slaptajame archyve saugoto laiško adresas nurodė jį nedelsiant atiduoti Livonijos magistrui."
   pagrindžia:
     - c-163107
 
 <a id="claim-t-179384"></a>
-- t-033
+- t-027
   global_id: t-179384
   teiginys: "1251 m. Mindaugas perleido didelę dalį Žemaitijos Livonijos ordinui mainais į krikštą."
   pagrindžia:
     - c-163061
 
 <a id="claim-t-179387"></a>
-- t-078
+- t-028
   global_id: t-179387
   teiginys: "1380 m. Jogaila sudarė paliaubas su Livonijos magistru Rygoje, apeidamas Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-163097
 
 <a id="claim-t-179388"></a>
-- t-062
+- t-029
   global_id: t-179388
   teiginys: "Gedimino vardu rašytų laiškų klastojimas citatoje siejamas su Rygos arkivyskupo ir Livonijos ordino brolių konfliktu."
   pagrindžia:
     - c-163060
 
 <a id="claim-t-179389"></a>
-- t-064
+- t-030
   global_id: t-179389
   teiginys: "Priartėjus Livonijos magistro vedamiems pulkams, Valenrodo kariauna pasuko Vilniaus link."
   pagrindžia:
     - c-163084
 
 <a id="claim-t-179390"></a>
-- t-067
+- t-031
   global_id: t-179390
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad Švitrigaila, išleistas iš nelaisvės, vėl traukia į mūšio lauką."
   pagrindžia:
     - c-163113
 
 <a id="claim-t-179391"></a>
-- t-073
+- t-032
   global_id: t-179391
   teiginys: "Nuo 1237 m. Livonijos ordinas buvo Kryžiuočių ordino šaka, bet faktiškai veikė atskirai ir vykdė savarankišką politiką."
   pagrindžia:
     - c-00350
 
 <a id="claim-t-179392"></a>
-- t-071
+- t-033
   global_id: t-179392
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   pagrindžia:
     - c-163129
 
 <a id="claim-t-179393"></a>
-- t-084
+- t-034
   global_id: t-179393
   teiginys: "Mūšyje žuvo daug livoniečių, tarp jų Kalavijuočių riterių ordino magistras Frankas Kirskorffas."
   pagrindžia:
     - c-163094
 
 <a id="claim-t-179394"></a>
-- t-031
+- t-035
   global_id: t-179394
   teiginys: "1424 m. Niešavos sutartis leido Lietuvos, Žemaičių, Lenkijos, Maskvos ir Rusijos pirkliams laisvai prekiauti Vokiečių ir Livonijos ordinų žemėse."
   pagrindžia:
     - c-36912
 
 <a id="claim-t-179396"></a>
-- t-096
+- t-036
   global_id: t-179396
   teiginys: "Ordino kronikose 1345–1382 m. suregistruoti 66 Prūsų kryžiuočių ir 30 Livonijos žygių."
   pagrindžia:
     - c-163059
 
 <a id="claim-t-179398"></a>
-- t-102
+- t-037
   global_id: t-179398
   teiginys: "Taikos sutartyje Livonijos ordino pusėje buvo minimi tarpininkai, tarp jų Rygos arkivyskupas, kapitula ir miesto atstovai."
   pagrindžia:
     - c-163067
 
 <a id="claim-t-179399"></a>
-- t-081
+- t-038
   global_id: t-179399
   teiginys: "Švitrigaila po nesėkmės prie Vilniaus prikalbino Livonijos ordino riterius kartu pulti Vitebską."
   pagrindžia:
     - c-163124
 
 <a id="claim-t-179400"></a>
-- t-024
+- t-039
   global_id: t-179400
   teiginys: "1398 m. spalio 12 d. Salyno sutarties ratifikavime dalyvavo Prūsų ir Livonijos ordinų magistrai, Varmijos ir Sambijos vyskupai bei daug komtūrų."
   pagrindžia:
     - c-163103
 
 <a id="claim-t-179402"></a>
-- t-088
+- t-040
   global_id: t-179402
   teiginys: "Jogailos kariuomenė kartu su Livonijos magistru pasiuntė būrius Skirgailai į pagalbą prie Polocko."
   pagrindžia:
     - c-163128
 
 <a id="claim-t-179405"></a>
-- t-065
+- t-041
   global_id: t-179405
   teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
   pagrindžia:
     - c-163112
 
 <a id="claim-t-179406"></a>
-- t-032
+- t-042
   global_id: t-179406
   teiginys: "1248 m. Mindaugo giminaičių opozicija į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
   pagrindžia:
     - c-163070
 
 <a id="claim-t-179407"></a>
-- t-025
+- t-043
   global_id: t-179407
   teiginys: "Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas."
   pagrindžia:
     - c-163086
 
 <a id="claim-t-179408"></a>
-- t-080
+- t-044
   global_id: t-179408
   teiginys: "Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link."
   pagrindžia:
     - c-163084
 
 <a id="claim-t-179409"></a>
-- t-072
+- t-045
   global_id: t-179409
   teiginys: "Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko."
   pagrindžia:
     - c-163071
 
 <a id="claim-t-179410"></a>
-- t-119
+- t-046
   global_id: t-179410
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   pagrindžia:
     - c-22663
 
 <a id="claim-t-179411"></a>
-- t-083
+- t-047
   global_id: t-179411
   teiginys: "Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės."
   pagrindžia:
     - c-163116
 
 <a id="claim-t-179412"></a>
-- t-097
+- t-048
   global_id: t-179412
   teiginys: "Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją."
   pagrindžia:
     - c-163105
 
 <a id="claim-t-179413"></a>
-- t-040
+- t-049
   global_id: t-179413
   teiginys: "1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos."
   pagrindžia:
     - c-163117
 
 <a id="claim-t-179414"></a>
-- t-027
+- t-050
   global_id: t-179414
   teiginys: "Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą."
   pagrindžia:
     - c-163078
 
 <a id="claim-t-179415"></a>
-- t-026
+- t-051
   global_id: t-179415
   teiginys: "Vytautas Konstancijoje atakavo Vokiečių ir Livonijos ordinus, pasinaudodamas Žemaičių krikštu."
   pagrindžia:
     - c-36908
 
 <a id="claim-t-179407"></a>
-- t-025
+- t-052
   global_id: t-179407
   teiginys: "Konstancijos susirinkimas paskyrė Vytautą Livonijos vyskupų globėju, nes Livonijos ordinas dažnai skriausdavo šias vyskupijas."
   pagrindžia:
     - c-163086
 
 <a id="claim-t-179417"></a>
-- t-109
+- t-053
   global_id: t-179417
   teiginys: "1260 m. liepos 13 d. Durbės mūšyje buvo sutriuškinta Livonijos ordino šaka, Prūsijos kryžiuočiai ir jų talkininkai."
   pagrindžia:
     - c-163058
 
 <a id="claim-t-179420"></a>
-- t-061
+- t-054
   global_id: t-179420
   teiginys: "Taikos sutartyje iš Livonijos ordino atstovų paminėti tik Mintaujos komtūras Jonas de Lovenbinkė ir brolis Otto iš Eželio."
   pagrindžia:
     - c-163067
 
 <a id="claim-t-179421"></a>
-- t-089
+- t-055
   global_id: t-179421
   teiginys: "Livonijos ordinas ir kariuomenė iš Prūsų atskubėjo kryžiuočiams į pagalbą, kai Vytautas puolė pilį atstatančius priešus."
   pagrindžia:
     - c-163127
 
 <a id="claim-t-179422"></a>
-- t-017
+- t-056
   global_id: t-179422
   teiginys: "Rygai kritus, Gediminas neteko paramos prieš Livonijos ordiną, kuris beveik iki Gedimino valdymo pabaigos puldinėjo Lietuvą."
   pagrindžia:
     - c-163064
 
 <a id="claim-t-179423"></a>
-- t-015
+- t-057
   global_id: t-179423
   teiginys: "Livonijos ordino vicemagistras prašė Liubeko pagalbos, skųsdamasis dideliais ordino nuostoliais arkliais, ginklais ir gėrybėmis."
   pagrindžia:
     - c-163092
 
 <a id="claim-t-179424"></a>
-- t-063
+- t-058
   global_id: t-179424
   teiginys: "Vilniaus puolime vokiečiai buvo pasiskirstę į Livonijos ir Prūsijos stovyklas prie Aukštutinės pilies mūrų."
   pagrindžia:
     - c-163089
 
 <a id="claim-t-179426"></a>
-- t-034
+- t-059
   global_id: t-179426
   teiginys: "Mindaugui reikėjo kovoti dėl pagoniškos Žemaitijos su krikščioniškąja Livonija ir išlaikyti krikščionio valdovo statusą."
   pagrindžia:
     - c-163065
 
 <a id="claim-t-179428"></a>
-- t-100
+- t-060
   global_id: t-179428
   teiginys: "Jogailos prieš Livonijos kariuomenę pasiųstas Vytautas sudarė taiką, gavęs pažadą dėl Sūduvos ir Žemaičių pripažinimo."
   pagrindžia:
     - c-163101
 
 <a id="claim-t-179429"></a>
-- t-116
+- t-061
   global_id: t-179429
   teiginys: "Prūsų kryžiuočiams kariaujant su Lenkijos Kazimieru, Lietuvą puolė Livonijos ordinas."
   pagrindžia:
     - c-163106
 
 <a id="claim-t-179430"></a>
-- t-093
+- t-062
   global_id: t-179430
   teiginys: "Mindaugas, pasinaudodamas priešų nesantaika, kreipėsi į Livonijos ordino magistrą ir siuntė jam brangių dovanų."
   pagrindžia:
     - c-163108
 
 <a id="claim-t-179431"></a>
-- t-059
+- t-063
   global_id: t-179431
   teiginys: "1380 m. Rygoje sudarytos paliaubos su Livonijos magistru aplenkė Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-163097
 
 <a id="claim-t-179432"></a>
-- t-020
+- t-064
   global_id: t-179432
   teiginys: "Ordino kronikose 1345-1382 m. užregistruota 30 žygių į Lietuvą iš Livonijos."
   pagrindžia:
     - c-163095
 
 <a id="claim-t-179434"></a>
-- t-070
+- t-065
   global_id: t-179434
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   pagrindžia:
     - c-163076
 
 <a id="claim-t-179435"></a>
-- t-101
+- t-066
   global_id: t-179435
   teiginys: "Siena su Livonijos ordinu prasidėjo į Baltiją įtekančia Šventosios upe ir toliau rėmėsi senomis ribomis."
   pagrindžia:
     - c-163073
 
 <a id="claim-t-179436"></a>
-- t-103
+- t-067
   global_id: t-179436
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius."
   pagrindžia:
     - c-163076
 
 <a id="claim-t-193114"></a>
-- t-120
+- t-068
   global_id: t-193114
   teiginys: "Po Durbės mūšio sukilusias kiltis ordinas jau buvo nugalėjęs."
   pagrindžia:
     - c-175874
 
 <a id="claim-t-193115"></a>
-- t-121
+- t-069
   global_id: t-193115
   teiginys: "Trečiasis koalicijos narys ir Andriaus suverenas, Livonijos ordinas, mažai tedalyvavo kare."
   pagrindžia:
     - c-175875
 
 <a id="claim-t-193318"></a>
-- t-122
+- t-070
   global_id: t-193318
   teiginys: "Pavergę Livoniją, jie užpuo lė kuršius, kurie anuo me tu priklausė Lietuvai; dangU ten is — L ie tu vo s b e i Ž e m a itijo s k u n i g a ik štis tus Kukovaičiui, valdžią se nojoje Lietuvoje (Užneryje) ir Žemaitijoje perėmė jo sū nus Utenis."
   pagrindžia:
     - c-176046
 
 <a id="claim-t-193319"></a>
-- t-123
+- t-071
   global_id: t-193319
   teiginys: "Tais pačiais metais, kaip sako Livonijos metraštis, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, magistras žuvo su penkiasdešimčia šio ordino brolių."
   pagrindžia:
     - c-176047
 
 <a id="claim-t-193320"></a>
-- t-124
+- t-072
   global_id: t-193320
   teiginys: "Kryžiuočių kariuomenė buvo sutriuškinta, keli tūkstančiai krito, žuvo mūšyje pats magistras su be veik 20 ordino riterių."
   pagrindžia:
     - c-176048
 
 <a id="claim-t-193321"></a>
-- t-125
+- t-073
   global_id: t-193321
   teiginys: "Kai šitaip klostėsi reikalai Prūsijos pasienyje, Livonija, vildamasi pastovios taikos, il sėjosi nuo karo."
   pagrindžia:
     - c-176049
 
 <a id="claim-t-193322"></a>
-- t-126
+- t-074
   global_id: t-193322
   teiginys: "Septyni šimtai Livonij rs raitelių, išsiųstų kariau ti Prūsijoje, susiruošė į žygį 1466 m e ta i žiemos pabaigoje, manydami, L iv o n ijo s raiteliai žūjog tada bus lengviau išvensta Ž e m a itijo je gti lietuvių saugų."
   pagrindžia:
     - c-176050
 
 <a id="claim-t-193323"></a>
-- t-127
+- t-075
   global_id: t-193323
   teiginys: "Ne tikėto antpuolio išgąsdinti Livonijos raiteliai, gal no rėdami užimti patogesnę kovos poziciją, gal pabėgti, paspaudė pentinais žirgus ir, suvirtę į griovius, visi su sirado čia galą."
   pagrindžia:
     - c-176051
 
 <a id="claim-t-193324"></a>
-- t-128
+- t-076
   global_id: t-193324
   teiginys: "Valteriui Pletenbergui, Livonijos magistrui, iš tiesų labai sekėsi kariauti: keliose kauty nėse sumušęs stiprias maskvėnų jėgas, jis įniko siaubti Ivano valdas."
   pagrindžia:
     - c-176052
 
 <a id="claim-t-193325"></a>
-- t-129
+- t-077
   global_id: t-193325
   teiginys: "Tos pačios priežastys sukėlė neramumus Livonijoje."
   pagrindžia:
     - c-176053
 
 <a id="claim-t-193326"></a>
-- t-130
+- t-078
   global_id: t-193326
   teiginys: "Jeigu Mask vos valdovas užpulsiąs ar Livoniją, ar Lietuvą, į kovą privalėsiančios stoti jungtinės abiejų tautų jėgos, be to, nė viena tauta negalėsianti atskirai sudaryti nei pa liaubų, nei pastovios taikos susitarimo."
   pagrindžia:
     - c-176054
 
 <a id="claim-t-193838"></a>
-- t-131
+- t-079
   global_id: t-193838
   teiginys: "Prūsijos ir Livonijos vokiečiai ėmė telkti prieš juos kariuomenę Palangoje, norėdami vėl juos pavergti, bet susibūrę žemaičiai ten pat nuo kopų akmenimis iš mušė tą vokiečių kariuomenę5 ."
   pagrindžia:
     - c-176482
 
 <a id="claim-t-193839"></a>
-- t-132
+- t-080
   global_id: t-193839
   teiginys: "Sekančią vasarą 1 8 surinko didelę rusų jėgą ir |pasitelkė] Livonijos magistrą 1 9 su visomis jo pajėgomis, ir Tverės didysis kunigaikštis taip pat perdavė jam sa vo pajėgas2 0 ."
   pagrindžia:
     - c-176483
 
 <a id="claim-t-193840"></a>
-- t-133
+- t-081
   global_id: t-193840
   teiginys: "O trečią vasa rą3 7 kunigaikštis Švitrigaila Vitebske sudegino metro politą Gerasimą 3 3 Susirinko Vitebske didysis kunigaikštis Švitrigaila ir rusų kunigaikščiai ir su visomis rusų pajėgomis pa traukė į Brėslaują, o Brėslaujoje į pagalbą jam atvyko Livonijos."
   pagrindžia:
     - c-176484
 
-<a id="claim-t-193841"></a>
-- t-134
-  global_id: t-193841
+<a id="claim-t-179363"></a>
+- t-082
+  global_id: t-179363
   teiginys: "Pirmiausia užmušė Livonijos magistrą ir maršalą, ir daugelį jo komtūrų, ir Švitrigailos brolėną Žygimantą Kaributaitį4 5 , ir Lengvenio sūnų kunigaikštį Jaroslavą4 6 , ir kunigaikštį Michailą Balabaną \", ir ku nigaikštį Danielių Simonaitį Alšėniškį4 8 , ir."
   pagrindžia:
     - c-176485
 
 <a id="claim-t-193842"></a>
-- t-135
+- t-083
   global_id: t-193842
   teiginys: "Užsibrėžęs atplėšti Polocko kuni gaikštystę nuo LDK ir paversti ją savo įpėdinių valdom a atskira valstybe, A ndrius Algirdaitis 1385 m. spalio 10 d. aktu pasidavė Livonijos ordinui kaip pastarojo vasalas."
   pagrindžia:

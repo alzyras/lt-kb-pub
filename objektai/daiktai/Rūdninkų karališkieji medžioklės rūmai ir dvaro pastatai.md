@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87003"></a>
-- t-002
+- t-001
   global_id: t-87003
   teiginys: "Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų."
   pagrindžia:
     - c-82982
 
 <a id="claim-t-87004"></a>
-- t-001
+- t-002
   global_id: t-87004
   teiginys: "Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai."
   pagrindžia:

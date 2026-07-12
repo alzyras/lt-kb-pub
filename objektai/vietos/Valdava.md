@@ -32,14 +32,14 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Teiginiai
 
 <a id="claim-t-58646"></a>
-- t-002
+- t-001
   global_id: t-58646
   teiginys: "Valdava buvo valsčiaus centras į rytus nuo dabartinio Kaliningrado, o pilis greičiausiai stovėjo šiauriau Valdavos."
   pagrindžia:
     - c-59278
 
 <a id="claim-t-58647"></a>
-- t-001
+- t-002
   global_id: t-58647
   teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčiuose kai kurie gyventojai atidavė karaliui įkaitais savo sūnus ir prisiekė paklusti tikėjimui bei broliams."
   pagrindžia:

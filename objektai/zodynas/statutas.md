@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - seimas
   - sąvoka
+  - teisinė-praktika
   - unija
-  - valstybė
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Kodeksas (statutas) 1780 m. buvo pateiktas seimui pa- tvirtinti. (Lietuvos bajo-
 ## Teiginiai
 
 <a id="claim-t-100291"></a>
-- t-002
+- t-001
   global_id: t-100291
   teiginys: "Lietuvos bajorija priešinosi bendro kodekso įvedimui, nes nenorėjo išsižadėti Lietuvos statuto ir atskirų teisių."
   pagrindžia:
     - c-94135
 
 <a id="claim-t-100292"></a>
-- t-001
+- t-002
   global_id: t-100292
   teiginys: "Lietuvos bajorija priešinosi bendram kodeksui, nes nenorėjo išsižadėti savo statuto ir atskirų teisių."
   pagrindžia:

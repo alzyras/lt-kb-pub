@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Teiginiai
 
 <a id="claim-t-90009"></a>
-- t-002
+- t-001
   global_id: t-90009
   teiginys: "Stanta su bendrais Bartenšteino pilyje paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru."
   pagrindžia:
     - c-85913
 
 <a id="claim-t-90010"></a>
-- t-001
+- t-002
   global_id: t-90010
   teiginys: "Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę."
   pagrindžia:

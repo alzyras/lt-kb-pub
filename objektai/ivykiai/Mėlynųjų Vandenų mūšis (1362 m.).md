@@ -74,21 +74,21 @@ Nenurodyta
     - c-169731
 
 <a id="claim-t-10255"></a>
-- t-004
+- t-003
   global_id: t-10255
   teiginys: "Motiejus Strijkovskis perteikė tradiciją, kad Algirdas ties Mėlynaisiais Vandenimis sumušė totorius."
   pagrindžia:
     - c-169731
 
 <a id="claim-t-186371"></a>
-- t-006
+- t-004
   global_id: t-186371
   teiginys: "Po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m. Algirdas, kaip manoma, prijungė Kijevą."
   pagrindžia:
     - c-169732
 
 <a id="claim-t-186372"></a>
-- t-003
+- t-005
   global_id: t-186372
   teiginys: "Rogožos metraštyje prie 1363 m. nurodoma, kad rudenį Algirdas nukariavo Mėlynuosius Vandenis ir Baltąją pakrantę."
   pagrindžia:

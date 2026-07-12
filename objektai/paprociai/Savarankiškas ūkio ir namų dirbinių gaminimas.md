@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07803"></a>
-- t-003
+- t-001
   global_id: t-07803
   teiginys: "Senovės lietuviai patys kalė namų statybos ir dailidystės įrankius, nes manė, kad pamatytą daiktą žmogus turi gebėti pasidirbti."
   pagrindžia:

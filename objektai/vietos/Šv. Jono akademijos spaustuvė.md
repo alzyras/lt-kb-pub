@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
-  - privilegija
   - vieta
 amziai:
   - 'XVII'

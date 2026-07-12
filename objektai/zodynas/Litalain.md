@@ -44,21 +44,21 @@ Forma `litalarrais` šiame gabale gali būti to paties žodžių šeimos žymuo,
 ## Teiginiai
 
 <a id="claim-t-192179"></a>
-- t-003
+- t-001
   global_id: t-192179
   teiginys: "Narbutas formą „Litalain“ pateikia lietuvių ir alanų mišinio aiškinimo kontekste, greta „litalarrais“."
   pagrindžia:
     - c-175052
 
 <a id="claim-t-192180"></a>
-- t-001
+- t-002
   global_id: t-192180
   teiginys: "Narbutas aiškina, kad prie Peipaus ežero gyvenantys estai lietuvius vadina „Litalain“."
   pagrindžia:
     - c-175052
 
 <a id="claim-t-192182"></a>
-- t-002
+- t-003
   global_id: t-192182
   teiginys: "Narbutas aiškina, kad žodžiu „Litalain“ estai prie Peipaus ežero supranta Lietuvos dalį, sudariusią Ukmergės apskritį."
   pagrindžia:

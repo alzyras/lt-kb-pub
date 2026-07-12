@@ -38,7 +38,7 @@ Dusburgietis teigia, kad 538 Jakštas J., Vokiečių ordinas..., p. 130; Pašuta
 ## Teiginiai
 
 <a id="claim-t-60984"></a>
-- t-002
+- t-001
   global_id: t-60984
   teiginys: "Gedimino sutartis su Ordinu liudija, kad Lietuvos valstybės lietuviškosios žemės buvo skirstomos į Aukštaičius ir Žemaičius."
   pagrindžia:

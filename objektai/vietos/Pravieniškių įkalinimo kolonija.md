@@ -36,21 +36,21 @@ Masinės kalinių žudynės surengtos Pravieniškių įkalinimo kolonijoje (iš�
 ## Teiginiai
 
 <a id="claim-t-77207"></a>
-- t-002
+- t-001
   global_id: t-77207
   teiginys: "1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus."
   pagrindžia:
     - c-74638
 
 <a id="claim-t-77208"></a>
-- t-001
+- t-002
   global_id: t-77208
   teiginys: "1941 m. birželį Pravieniškių įkalinimo kolonijoje per masines kalinių žudynes nužudyta apie 230 asmenų."
   pagrindžia:
     - c-74640
 
 <a id="claim-t-77207"></a>
-- t-002
+- t-003
   global_id: t-77207
   teiginys: "1941 m. birželio 26 d. sovietai nužudė Pravieniškių lagerio kalinius ir prižiūrėtojus."
   pagrindžia:

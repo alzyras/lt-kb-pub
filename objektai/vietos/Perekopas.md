@@ -43,14 +43,14 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 ## Teiginiai
 
 <a id="claim-t-98771"></a>
-- t-003
+- t-001
   global_id: t-98771
   teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   pagrindžia:
     - c-92960
 
 <a id="claim-t-98772"></a>
-- t-004
+- t-002
   global_id: t-98772
   teiginys: "Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis."
   pagrindžia:
@@ -64,7 +64,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     - c-92960
 
 <a id="claim-t-183071"></a>
-- t-005
+- t-004
   global_id: t-183071
   teiginys: "Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu."
   pagrindžia:

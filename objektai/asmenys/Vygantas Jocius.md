@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
 amziai:
   - 'XX'
   - 'XXI'

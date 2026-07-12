@@ -47,56 +47,56 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 ## Teiginiai
 
 <a id="claim-t-84799"></a>
-- t-018
+- t-001
   global_id: t-84799
   teiginys: "Slucke buvo įkurta protestantų mokykla, o pradžios mokyklų buvo beveik kiekvienoje protestantų parapijoje."
   pagrindžia:
     - c-46723
 
 <a id="claim-t-84800"></a>
-- t-006
+- t-002
   global_id: t-84800
   teiginys: "Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui."
   pagrindžia:
     - c-43861
 
 <a id="claim-t-84801"></a>
-- t-017
+- t-003
   global_id: t-84801
   teiginys: "Slucke buvo įkurta protestantų mokykla."
   pagrindžia:
     - c-46723
 
 <a id="claim-t-84802"></a>
-- t-016
+- t-004
   global_id: t-84802
   teiginys: "Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija."
   pagrindžia:
     - c-46722
 
 <a id="claim-t-84803"></a>
-- t-014
+- t-005
   global_id: t-84803
   teiginys: "Valdymo pabaigoje Slucke liko atskira kunigaikštystė, bet jos pilį valdė didžiojo kunigaikščio vietininkai."
   pagrindžia:
     - c-80930
 
 <a id="claim-t-84804"></a>
-- t-010
+- t-006
   global_id: t-84804
   teiginys: "1506 m. vasarą totoriai veržėsi į LDK branduolį, apėmusį ir Slucko apylinkes."
   pagrindžia:
     - c-43861
 
 <a id="claim-t-84805"></a>
-- t-015
+- t-007
   global_id: t-84805
   teiginys: "Per maištą Sluckas ir Minskas nepasidavė, nors Mozyrių ir Turovą sukilėliui pavyko užimti."
   pagrindžia:
     - c-80933
 
 <a id="claim-t-84806"></a>
-- t-007
+- t-008
   global_id: t-84806
   teiginys: "Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link."
   pagrindžia:
@@ -110,28 +110,28 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - c-80929
 
 <a id="claim-t-84808"></a>
-- t-009
+- t-010
   global_id: t-84808
   teiginys: "1506 m. totoriai nusiaubė Slucko ir Minsko apylinkes ir pradėjo taikytis į Vilnių."
   pagrindžia:
     - c-80929
 
 <a id="claim-t-185145"></a>
-- t-012
+- t-011
   global_id: t-185145
   teiginys: "Po Slucko kunigaikščio Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką."
   pagrindžia:
     - c-168506
 
 <a id="claim-t-185146"></a>
-- t-013
+- t-012
   global_id: t-185146
   teiginys: "Po nesėkmingo puolimo prie Slucko skitai pasitraukė ir patraukė į Naugarduką."
   pagrindžia:
     - c-168507
 
 <a id="claim-t-185147"></a>
-- t-014
+- t-013
   global_id: t-185147
   teiginys: "Į karaliaus stovyklą atbėgę žmonės teigė, kad dvidešimt tūkstančių priešų liko prie Slucko."
   pagrindžia:

@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66821"></a>
-- t-002
+- t-001
   global_id: t-66821
   teiginys: "Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos."
   pagrindžia:
     - c-66941
 
 <a id="claim-t-66822"></a>
-- t-001
+- t-002
   global_id: t-66822
   teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir niokojo juos gaisrais."
   pagrindžia:

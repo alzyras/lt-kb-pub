@@ -44,21 +44,21 @@ Lotyniškas botaninio pavadinimo pavidalas pateikiamas tik kaip gamtininkų apra
 ## Teiginiai
 
 <a id="claim-t-192256"></a>
-- t-002
+- t-001
   global_id: t-192256
   teiginys: "Narbutas, remdamasis gamtininkais, apibūdina Hevea Gujanensis kamieną, vaisių, sėklų branduolius ir sakus."
   pagrindžia:
     - c-175091
 
 <a id="claim-t-192257"></a>
-- t-003
+- t-002
   global_id: t-192257
   teiginys: "Narbuto perteikiamu gamtininkų aprašymu, Hevea Gujanensis sakai yra aromatingi ir naudojami žvakėms bei deglams daryti."
   pagrindžia:
     - c-175091
 
 <a id="claim-t-192258"></a>
-- t-001
+- t-003
   global_id: t-192258
   teiginys: "Narbutas, remdamasis gamtininkų aprašymais, Hevea Gujanensis pristato kaip labai aukštą medį."
   pagrindžia:

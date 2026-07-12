@@ -39,7 +39,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 ## Teiginiai
 
 <a id="claim-t-48788"></a>
-- t-003
+- t-001
   global_id: t-48788
   teiginys: "1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje."
   pagrindžia:
@@ -53,14 +53,14 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-50925
 
 <a id="claim-t-48790"></a>
-- t-001
+- t-003
   global_id: t-48790
   teiginys: "Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos."
   pagrindžia:
     - c-50923
 
 <a id="claim-t-48791"></a>
-- t-006
+- t-004
   global_id: t-48791
   teiginys: "Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
   pagrindžia:
@@ -74,7 +74,7 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     - c-32562
 
 <a id="claim-t-48793"></a>
-- t-004
+- t-006
   global_id: t-48793
   teiginys: "Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai."
   pagrindžia:

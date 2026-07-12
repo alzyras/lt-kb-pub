@@ -37,7 +37,7 @@ Dusburgietis teigia, kad kaip tas faraonas, kuris, norėdamas sunaikinti Izraeli
     - c-167415
 
 <a id="claim-t-59099"></a>
-- t-001
+- t-002
   global_id: t-59099
   teiginys: "Dusburgiečio pasakojime galindai nutarė žudyti gimusias mergaites, o berniukus palikti karui."
   pagrindžia:

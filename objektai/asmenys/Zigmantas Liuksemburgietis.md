@@ -42,7 +42,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
 ## Teiginiai
 
 <a id="claim-t-176871"></a>
-- t-003
+- t-001
   global_id: t-176871
   teiginys: "Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos."
   pagrindžia:
@@ -56,7 +56,7 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-36622
 
 <a id="claim-t-176873"></a>
-- t-001
+- t-003
   global_id: t-176873
   teiginys: "Zigmantas Liuksemburgietis 1420 m. Breslavo sprendimu priskyrė Ordinui ir Žemaitiją."
   pagrindžia:
@@ -70,49 +70,49 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
     - c-36627
 
 <a id="claim-t-176875"></a>
-- t-013
+- t-005
   global_id: t-176875
   teiginys: "Zigmantui Liuksemburgiečiui tapus Romos imperatoriumi, Lenkijai dar labiau padidėjo Lietuvos pagalbos poreikis, nes jis buvo sąjungoje su Ordinu."
   pagrindžia:
     - c-160829
 
 <a id="claim-t-176876"></a>
-- t-009
+- t-006
   global_id: t-176876
   teiginys: "Lucke Zigmantas Liuksemburgietis pasiūlė Jogailai karūnuoti suvažiavimo šeimininką Vytautą."
   pagrindžia:
     - c-160825
 
 <a id="claim-t-176877"></a>
-- t-006
+- t-007
   global_id: t-176877
   teiginys: "Zigmantas Liuksemburgietis dažnai klausė Vytauto apie karūnacijos terminą ir skatino jį negaišti."
   pagrindžia:
     - c-36631
 
 <a id="claim-t-176878"></a>
-- t-005
+- t-008
   global_id: t-176878
   teiginys: "Zigmantas Liuksemburgietis Lucke pasiūlė Jogailai karūnuoti Vytautą."
   pagrindžia:
     - c-160825
 
 <a id="claim-t-176882"></a>
-- t-011
+- t-009
   global_id: t-176882
   teiginys: "Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu."
   pagrindžia:
     - c-160823
 
 <a id="claim-t-184297"></a>
-- t-014
+- t-010
   global_id: t-184297
   teiginys: "Zigmantas Liuksemburgietis pabijojo, kad Vytautas neįsitvirtintų Čekijoje ir jos neperimtų."
   pagrindžia:
     - c-167670
 
 <a id="claim-t-191005"></a>
-- t-015
+- t-011
   global_id: t-191005
   teiginys: "Narbutas nurodo, kad 1402–1403 m. Čekijoje ir 1404 m. Moravijoje veikė Vengrijos karaliaus Zigmanto Liuksemburgiečio kariai su kumanais."
   pagrindžia:

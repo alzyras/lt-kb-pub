@@ -37,7 +37,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-09658"></a>
-- t-002
+- t-001
   global_id: t-09658
   teiginys: "Kunigas Mackevičius pamoksle ragino eiti už šventą tikėjimą, tėvynę Lietuvą ir lietuvius brolius."
   pagrindžia:

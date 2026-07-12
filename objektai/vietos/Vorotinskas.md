@@ -31,14 +31,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36709"></a>
-- t-002
+- t-001
   global_id: t-36709
   teiginys: "Vorotinsko kunigaikščiai prisiekė Vytautui ištikimybę ir pažadėjo karo paramą."
   pagrindžia:
     - c-38688
 
 <a id="claim-t-36710"></a>
-- t-001
+- t-002
   global_id: t-36710
   teiginys: "Vorotinsko kunigaikštija pasidavė Vytautui, kai jis plėtė valdžią Okos aukštupio kunigaikštystėse."
   pagrindžia:

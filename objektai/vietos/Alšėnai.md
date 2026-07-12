@@ -15,6 +15,7 @@ tags:
   - kunigaikštis
   - vieta
   - vyskupas
+  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -39,7 +40,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 ## Teiginiai
 
 <a id="claim-t-86058"></a>
-- t-002
+- t-001
   global_id: t-86058
   teiginys: "Alšėnų kunigaikštis minimas tarp dokumento sudaryme dalyvavusių didikų ir dvasininkų."
   pagrindžia:

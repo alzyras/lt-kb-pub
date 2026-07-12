@@ -41,35 +41,35 @@ Tai matyti ir iš to, kad 1562 m. Vitebsko „karo lauko“ seimas siuntė Žema
 ## Teiginiai
 
 <a id="claim-t-101648"></a>
-- t-002
+- t-001
   global_id: t-101648
   teiginys: "Jonas Jeronimaitis Chodkevičius pasirinko Lietuvos susisaistymą su Lenkija ir 1569 m. Liublino seime priėmė unijos idėją."
   pagrindžia:
     - c-25096
 
 <a id="claim-t-101649"></a>
-- t-005
+- t-002
   global_id: t-101649
   teiginys: "Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą."
   pagrindžia:
     - c-21737
 
 <a id="claim-t-101650"></a>
-- t-001
+- t-003
   global_id: t-101650
   teiginys: "1562 m. Vitebsko karo lauko seimas siuntė Žemaičių seniūną Joną Jeronimaitį Chodkevičių į Lenkiją prašyti karinės pagalbos ir unijos."
   pagrindžia:
     - c-21734
 
 <a id="claim-t-101651"></a>
-- t-003
+- t-004
   global_id: t-101651
   teiginys: "Jonas Jeronimaitis Chodkevičius, kreipdamasis į Žygimantą Augustą, teigė buvęs priverstas nusileisti su didžiu skausmu ir širdgėla."
   pagrindžia:
     - c-21736
 
 <a id="claim-t-101652"></a>
-- t-004
+- t-005
   global_id: t-101652
   teiginys: "Jonas Jeronimaitis Chodkevičius pasiekė, kad Lenkijos ir Lietuvos ryšių ar unijos klausimai būtų sprendžiami po Liublino seimo."
   pagrindžia:

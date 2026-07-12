@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05293"></a>
-- t-002
+- t-001
   global_id: t-05293
   teiginys: "1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį."
   pagrindžia:

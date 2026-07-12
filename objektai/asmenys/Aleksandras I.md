@@ -42,7 +42,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
 ## Teiginiai
 
 <a id="claim-t-75654"></a>
-- t-003
+- t-001
   global_id: t-75654
   teiginys: "Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką."
   pagrindžia:
@@ -56,14 +56,14 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
     - c-73370
 
 <a id="claim-t-75653"></a>
-- t-001
+- t-003
   global_id: t-75653
   teiginys: "Aleksandras I buvo asmeninis Adomo Jurgio Čartoriskio draugas."
   pagrindžia:
     - c-21556
 
 <a id="claim-t-75654"></a>
-- t-003
+- t-004
   global_id: t-75654
   teiginys: "Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką."
   pagrindžia:

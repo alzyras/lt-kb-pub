@@ -29,14 +29,14 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
 ## Teiginiai
 
 <a id="claim-t-187215"></a>
-- t-002
+- t-001
   global_id: t-187215
   teiginys: "LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei."
   pagrindžia:
     - c-170284
 
 <a id="claim-t-187216"></a>
-- t-001
+- t-002
   global_id: t-187216
   teiginys: "Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino."
   pagrindžia:

@@ -41,14 +41,14 @@ Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumuša turkus 1673 m. (Iš Vi
 ## Teiginiai
 
 <a id="claim-t-170310"></a>
-- t-002
+- t-001
   global_id: t-170310
   teiginys: "LDK karinės pergalės Chotyne stiprino politinės tautos sampratą, nes lietuviai jose kovojo petys į petį su rusėnais."
   pagrindžia:
     - c-154980
 
 <a id="claim-t-170311"></a>
-- t-001
+- t-002
   global_id: t-170311
   teiginys: "1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus."
   pagrindžia:

@@ -47,21 +47,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89362"></a>
-- t-002
+- t-001
   global_id: t-89362
   teiginys: "Pagudėnai pasidavė broliams po pasakojamo stebuklo ir nuolatinių brolių antpuolių, davę įkaitų ir priėmę tikėjimą."
   pagrindžia:
     - c-85313
 
 <a id="claim-t-89363"></a>
-- t-003
+- t-002
   global_id: t-89363
   teiginys: "Dusburgietis pasakoja, kad pagudėnų kariuomenė pabėgo pamačiusi lauką, pilną ginkluotų vyrų, panašių į Ordino brolius."
   pagrindžia:
     - c-85313
 
 <a id="claim-t-89364"></a>
-- t-001
+- t-003
   global_id: t-89364
   teiginys: "Elbingo broliai su nedidele ginklanešių palyda vijosi didelę prūsų kariuomenę, prisiplėšusią grobio jų valdomose apygardose."
   pagrindžia:

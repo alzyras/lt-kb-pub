@@ -38,14 +38,14 @@ Akmens amžiaus laikai iki indoeuropiečiu pasirodymo^1 Pasiremiant plačiausia 
 ## Teiginiai
 
 <a id="claim-t-67443"></a>
-- t-002
+- t-001
   global_id: t-67443
   teiginys: "Lietuvos metraštis Vytauto lūpomis aiškino, kad Jogailos žygis sukėlė Lietuvoje nepasitenkinimą dėl svetimųjų valdymo."
   pagrindžia:
     - c-67342
 
 <a id="claim-t-67444"></a>
-- t-001
+- t-002
   global_id: t-67444
   teiginys: "Plačiausia „Lietuvos Metraščio“ redakcija XVI a. antroje pusėje naudota Lietuvos istorijai pradėti nuo Nerono laikų."
   pagrindžia:

@@ -30,28 +30,28 @@ karūnacija karūnuotis: tarp visų suvažiavime iškeltų klausimų vienas iš 
 ## Teiginiai
 
 <a id="claim-t-104168"></a>
-- t-004
+- t-001
   global_id: t-104168
   teiginys: "Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
   pagrindžia:
     - c-97127
 
 <a id="claim-t-104169"></a>
-- t-003
+- t-002
   global_id: t-104169
   teiginys: "Vytautas neketino atsisakyti karūnos ir buvo pasirengęs atvirai kovai su lenkais, tačiau jo karūnacijos pastangas nutraukė mirtis."
   pagrindžia:
     - c-97128
 
 <a id="claim-t-104170"></a>
-- t-001
+- t-003
   global_id: t-104170
   teiginys: "Imperatorius Zigmantas iškėlė sumanymą karūnuoti Vytautą Lietuvos karaliumi, o Jogaila šiam sumanymui pritarė."
   pagrindžia:
     - c-97129
 
 <a id="claim-t-104171"></a>
-- t-002
+- t-004
   global_id: t-104171
   teiginys: "Vytautas paskyrė karūnacijos datą rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais."
   pagrindžia:

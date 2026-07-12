@@ -59,35 +59,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-63385"></a>
-- t-003
+- t-001
   global_id: t-63385
   teiginys: "1410 m. liepos 15 d. jungtinė Lenkijos (50 vėliavų) bei Lietuvos (40 vėliavų) ir Vokiečių ordino kariuomenės (51 vėliava) sustojo viena priešais kitą laukuose šalia Žalgirio (Griunfeldo, dar Griunvaldas) kaimo."
   pagrindžia:
     - c-64427
 
 <a id="claim-t-63386"></a>
-- t-001
+- t-002
   global_id: t-63386
   teiginys: "Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną."
   pagrindžia:
     - c-166680
 
 <a id="claim-t-63387"></a>
-- t-002
+- t-003
   global_id: t-63387
   teiginys: "Prieš Žalgirio mūšį Vokiečių ordinas tebebuvo galinga jėga, kėlusi egzistencinį pavojų Lietuvos valstybei."
   pagrindžia:
     - c-64429
 
 <a id="claim-t-63389"></a>
-- t-005
+- t-004
   global_id: t-63389
   teiginys: "Žalgirio pergalė pakirto Vokiečių ordino hegemoniją ir pašalino jo egzistencinę grėsmę Lietuvai bei Lenkijai."
   pagrindžia:
     - c-64428
 
 <a id="claim-t-63390"></a>
-- t-004
+- t-005
   global_id: t-63390
   teiginys: "Žalgirio mūšyje Lietuva buvo lygiavertė su Lenkija pergalės prieš Vokiečių ordiną laimėtoja."
   pagrindžia:

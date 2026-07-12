@@ -9,7 +9,6 @@ tags:
   - daiktas
   - karalius
   - miestas
-  - privilegija
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87035"></a>
-- t-002
+- t-001
   global_id: t-87035
   teiginys: "Aleksandras leido Vilniuje statyti Svečių namus, nes rusų pirklių kontrolę siejo ir su miesto saugumu."
   pagrindžia:
     - c-83015
 
 <a id="claim-t-87036"></a>
-- t-001
+- t-002
   global_id: t-87036
   teiginys: "Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą."
   pagrindžia:

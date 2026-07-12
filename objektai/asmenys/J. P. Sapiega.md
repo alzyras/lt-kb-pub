@@ -29,21 +29,21 @@ Sapiegos ir T. Sapiegos husarų ir petihorų vėliavos atlaikyti pagrindinį Šv
 ## Teiginiai
 
 <a id="claim-t-53890"></a>
-- t-003
+- t-001
   global_id: t-53890
   teiginys: "Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis."
   pagrindžia:
     - c-54903
 
 <a id="claim-t-53891"></a>
-- t-001
+- t-002
   global_id: t-53891
   teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   pagrindžia:
     - c-41961
 
 <a id="claim-t-53892"></a>
-- t-002
+- t-003
   global_id: t-53892
   teiginys: "J. P. Sapiegos vėliavos kartu su M. Vielamovskio ir M. Giedraičio vėliavomis sumušė generolo H. Branto kavaleriją."
   pagrindžia:

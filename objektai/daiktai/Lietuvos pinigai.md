@@ -65,56 +65,56 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10727"></a>
-- t-020
+- t-001
   global_id: t-10727
   teiginys: "Seniausieji Lietuvos sidabro pinigai buvo kapos, lietos iš sidabro tam tikrose formose ir randamos skirtingo ilgio, svorio bei ženklinimo."
   pagrindžia:
     - c-00210
 
 <a id="claim-t-10728"></a>
-- t-021
+- t-002
   global_id: t-10728
   teiginys: "Kapomis vadintus Lietuvos pinigus greičiausiai liejo ne tik didžiojo kunigaikščio iždas, bet ir privatūs žmonės."
   pagrindžia:
     - c-00211
 
 <a id="claim-t-10729"></a>
-- t-022
+- t-003
   global_id: t-10729
   teiginys: "Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais."
   pagrindžia:
     - c-00212
 
 <a id="claim-t-10731"></a>
-- t-023
+- t-004
   global_id: t-10731
   teiginys: "Aleksandro pinigų serijoje buvo pinigėlis, pusskatikis ir skatikas, tačiau nevykusiai nukalti skatikai nebuvo leidžiami į apyvartą."
   pagrindžia:
     - c-00214
 
 <a id="claim-t-12316"></a>
-- t-015
+- t-005
   global_id: t-12316
   teiginys: "Totoriai turėjo atmušti Vytauto atvaizdą savo piniguose."
   pagrindžia:
     - c-14327
 
 <a id="claim-t-12318"></a>
-- t-017
+- t-006
   global_id: t-12318
   teiginys: "Vytauto laikais Jogailos ir Vytauto rūmuose kartais mokėta rubliais, o Lietuvoje kursavo ir buvo kalami čekų grašiai."
   pagrindžia:
     - c-14329
 
 <a id="claim-t-12319"></a>
-- t-018
+- t-007
   global_id: t-12319
   teiginys: "Lietuviški denariukai atsirado 1387-1390 m.; jų pusėse buvo ieties galas, kryžius ir Gedimino stulpai."
   pagrindžia:
     - c-14330
 
 <a id="claim-t-12320"></a>
-- t-019
+- t-008
   global_id: t-12320
   teiginys: "Vytauto įsakymu Kaune kalti K pinigėliai turėjo Gedimino stulpus ir raidę K, o mokesčiai turėjo būti mokami Lietuvoje kaltais sidabriniais pinigais."
   pagrindžia:
@@ -128,35 +128,35 @@ Nenurodyta
     - c-15954
 
 <a id="claim-t-103465"></a>
-- t-020
+- t-010
   global_id: t-103465
   teiginys: "Lietuvoje tebekursavusias ostmarkes Lietuvos valdžia pavadino auksinais."
   pagrindžia:
     - c-96647
 
 <a id="claim-t-103466"></a>
-- t-024
+- t-011
   global_id: t-103466
   teiginys: "Jogailos ir Vytauto dokumente nurodyta mokesčius mokėti Lietuvoje kaltais sidabriniais pinigais, tikriausiai grašiais arba denariukais."
   pagrindžia:
     - c-96649
 
 <a id="claim-t-103467"></a>
-- t-021
+- t-012
   global_id: t-103467
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   pagrindžia:
     - c-96646
 
 <a id="claim-t-103468"></a>
-- t-022
+- t-013
   global_id: t-103468
   teiginys: "Per nepriklausomos Lietuvos laikotarpį litas išlaikė stabilų kursą ir buvo pagrįstas vertybiniais popieriais bei 12 tonų aukso atsargomis."
   pagrindžia:
     - c-96645
 
 <a id="claim-t-103469"></a>
-- t-023
+- t-014
   global_id: t-103469
   teiginys: "Vytautas pareikalavo, kad totoriai pripažintų jį tėvu, mokėtų duoklę ir kaldintų jo atvaizdą savo piniguose."
   pagrindžia:

@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - vieta
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Uždarytoje Vilniaus arkikatedroje atidaryta Paveikslų galerija, panašiai prit
 ## Teiginiai
 
 <a id="claim-t-69579"></a>
-- t-002
+- t-001
   global_id: t-69579
   teiginys: "Po LPS steigiamojo suvažiavimo Algirdas Brazauskas grąžino Vilniaus arkikatedrą tikintiesiems."
   pagrindžia:
     - c-68880
 
 <a id="claim-t-69580"></a>
-- t-001
+- t-002
   global_id: t-69580
   teiginys: "Uždarytoje Vilniaus arkikatedroje buvo atidaryta Paveikslų galerija."
   pagrindžia:

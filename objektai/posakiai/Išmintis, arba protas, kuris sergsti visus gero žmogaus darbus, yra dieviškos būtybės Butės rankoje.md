@@ -39,7 +39,7 @@ Reikšmė nustatoma iš citatos konteksto; be jo frazė neturėtų būti vartoja
 ## Teiginiai
 
 <a id="claim-t-188000"></a>
-- t-002
+- t-001
   global_id: t-188000
   teiginys: "Narbutas Butės mitą siejo su Klaipėdos apylinkėse iš jūrininko išgirstu padavimu, kuriame išmintis laikoma Butės rankoje."
   pagrindžia:

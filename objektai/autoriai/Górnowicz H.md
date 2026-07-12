@@ -40,21 +40,21 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
 ## Teiginiai
 
 <a id="claim-t-60554"></a>
-- t-003
+- t-001
   global_id: t-60554
   teiginys: "H. Górnowiczius aptarė Gdansko Pomeranijos miestų vardus, susijusius su Elbingo upėvardžiu."
   pagrindžia:
     - c-61187
 
 <a id="claim-t-60555"></a>
-- t-001
+- t-002
   global_id: t-60555
   teiginys: "H. Górnowiczius nagrinėjo Marienverderio ir Kvidzino vietovardžių medžiagą."
   pagrindžia:
     - c-61188
 
 <a id="claim-t-60556"></a>
-- t-002
+- t-003
   global_id: t-60556
   teiginys: "H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą."
   pagrindžia:

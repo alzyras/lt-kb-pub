@@ -38,42 +38,42 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
 ## Teiginiai
 
 <a id="claim-t-58496"></a>
-- t-005
+- t-001
   global_id: t-58496
   teiginys: "Kulmenzės katedros bažnyčioje buvo palaidotas Goliubo pilies statytojas, atsisakęs pareigų ir ten miręs."
   pagrindžia:
     - c-59129
 
 <a id="claim-t-58497"></a>
-- t-004
+- t-002
   global_id: t-58497
   teiginys: "Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje."
   pagrindžia:
     - c-59131
 
 <a id="claim-t-58498"></a>
-- t-001
+- t-003
   global_id: t-58498
   teiginys: "Prūsų kariuomenė atžygiavo ir apsiautė Kulmenzės miestą."
   pagrindžia:
     - c-59130
 
 <a id="claim-t-58499"></a>
-- t-003
+- t-004
   global_id: t-58499
   teiginys: "Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui."
   pagrindžia:
     - c-59128
 
 <a id="claim-t-58500"></a>
-- t-002
+- t-005
   global_id: t-58500
   teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango netoli Kulmenzės."
   pagrindžia:
     - c-59132
 
 <a id="claim-t-58499"></a>
-- t-003
+- t-006
   global_id: t-58499
   teiginys: "Lenkų karys Ninerikas įsigavo į Kulmenzę, pasižadėjęs išduoti miestą sūduvių vadui Skomantui."
   pagrindžia:

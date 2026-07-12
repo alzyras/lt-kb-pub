@@ -60,7 +60,7 @@ Nenurodyta
     - c-62966
 
 <a id="claim-t-62377"></a>
-- t-001
+- t-002
   global_id: t-62377
   teiginys: "1245 m. popiežius Lione sušaukė suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą."
   pagrindžia:

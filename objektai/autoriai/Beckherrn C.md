@@ -39,7 +39,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
     - c-61179
 
 <a id="claim-t-60548"></a>
-- t-003
+- t-002
   global_id: t-60548
   teiginys: "C. Beckherrnas nagrinėjo pilaitę prie įėjimo į Notangą."
   pagrindžia:

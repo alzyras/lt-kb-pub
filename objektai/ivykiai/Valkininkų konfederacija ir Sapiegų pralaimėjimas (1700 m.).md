@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78641"></a>
-- t-006
+- t-001
   global_id: t-78641
   teiginys: "Valkininkų kautynės baigėsi Sapiegų pralaimėjimu, o jų kariuomenei vadovavęs Mykolas Sapiega buvo apsuptas ir pasidavė."
   pagrindžia:
     - c-75862
 
 <a id="claim-t-78642"></a>
-- t-006
+- t-002
   global_id: t-78642
   teiginys: "Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu."
   pagrindžia:

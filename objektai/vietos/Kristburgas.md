@@ -40,42 +40,42 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 ## Teiginiai
 
 <a id="claim-t-90720"></a>
-- t-012
+- t-001
   global_id: t-90720
   teiginys: "Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti."
   pagrindžia:
     - c-86505
 
 <a id="claim-t-90721"></a>
-- t-010
+- t-002
   global_id: t-90721
   teiginys: "1324 m. Kristburgo pilyje račiaus Andriaus vaišėse iš aluje dažytos duonos pradėjo varvėti kraujo lašai."
   pagrindžia:
     - c-86506
 
 <a id="claim-t-90722"></a>
-- t-002
+- t-003
   global_id: t-90722
   teiginys: "Ordino broliai pastatė Kristburgo pilį naujoje vietoje, išlaikė jos vardą ir įkurdino joje daug karių."
   pagrindžia:
     - c-86499
 
 <a id="claim-t-90723"></a>
-- t-008
+- t-004
   global_id: t-90723
   teiginys: "Gundramo išvaduotos moterys sakė mačiusios du baltus balandžius virš jo palaikų, gabenamų į Kristburgo pilį."
   pagrindžia:
     - c-86508
 
 <a id="claim-t-90724"></a>
-- t-001
+- t-005
   global_id: t-90724
   teiginys: "Magistras Henrikas Kalėdų išvakarėse užėmė pamedėnų pilį vietoje, kuri vėliau vadinta Senuoju Kristburgu."
   pagrindžia:
     - c-86498
 
 <a id="claim-t-90725"></a>
-- t-009
+- t-006
   global_id: t-90725
   teiginys: "Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių."
   pagrindžia:
@@ -89,49 +89,49 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
     - c-86508
 
 <a id="claim-t-90727"></a>
-- t-004
+- t-008
   global_id: t-90727
   teiginys: "Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme."
   pagrindžia:
     - c-86505
 
 <a id="claim-t-90728"></a>
-- t-011
+- t-009
   global_id: t-90728
   teiginys: "Kristaus gimimo naktį magistro Henriko kariuomenė užėmė pamedėnų pilį, vėliau pavadintą Kristburgu."
   pagrindžia:
     - c-86498
 
 <a id="claim-t-90729"></a>
-- t-006
+- t-010
   global_id: t-90729
   teiginys: "Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai."
   pagrindžia:
     - c-86504
 
 <a id="claim-t-90730"></a>
-- t-005
+- t-011
   global_id: t-90730
   teiginys: "Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė."
   pagrindžia:
     - c-86500
 
 <a id="claim-t-90729"></a>
-- t-006
+- t-012
   global_id: t-90729
   teiginys: "Kristburgo broliams buvo sunku iš Elbingo atsigabenti būtiniausių dalykų, nes pilį supo priešai."
   pagrindžia:
     - c-86504
 
 <a id="claim-t-90725"></a>
-- t-009
+- t-013
   global_id: t-90725
   teiginys: "Kristburgo broliai pasivijo vieną iš Lubavos žemę nusiaubusių lietuvių būrių, nukovė 15 lietuvių ir atėmė 50 krikščionių."
   pagrindžia:
     - c-167553
 
 <a id="claim-t-194536"></a>
-- t-015
+- t-014
   global_id: t-194536
   teiginys: "Apie tai, kaip sunku buvo gabenti maistą į Kristburgo pilį Iš visų pusių apsuptiems galybės priešų Kristburgo broliams retai kada ramiai ir be didelio vargo pavykdavo atsigabenti iš Elbingo būtiniausių dalykų."
   pagrindžia:

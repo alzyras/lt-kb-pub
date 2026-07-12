@@ -37,7 +37,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
     - c-42162
 
 <a id="claim-t-64008"></a>
-- t-001
+- t-002
   global_id: t-64008
   teiginys: "Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo."
   pagrindžia:

@@ -39,14 +39,14 @@ Vartojama kronikos erdvinei sandarai ir politinei Ordino valdžios apimčiai nus
 ## Teiginiai
 
 <a id="claim-t-89573"></a>
-- t-002
+- t-001
   global_id: t-89573
   teiginys: "Tyrimų duomenimis, Petras Dusburgietis Prūsija vadino Ordino užkariautą plotą nuo Vyslos iki Nemuno."
   pagrindžia:
     - c-85515
 
 <a id="claim-t-89574"></a>
-- t-001
+- t-002
   global_id: t-89574
   teiginys: "Petro iš Dusburgo kronikoje visa Prūsijos žemė (terra Prussiae) skirstoma į vienuolika atskirų žemių."
   pagrindžia:

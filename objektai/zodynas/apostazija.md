@@ -10,7 +10,9 @@ date_start: '1260'
 date_end: '1324'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - religinis-terminas
 amziai:
   - 'XIII'
   - 'XIV'

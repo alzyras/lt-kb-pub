@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -35,7 +36,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-74811"></a>
-- t-002
+- t-001
   global_id: t-74811
   teiginys: "1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus."
   pagrindžia:

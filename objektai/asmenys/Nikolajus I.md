@@ -41,21 +41,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-82633"></a>
-- t-003
+- t-001
   global_id: t-82633
   teiginys: "1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos."
   pagrindžia:
     - c-79097
 
 <a id="claim-t-82634"></a>
-- t-001
+- t-002
   global_id: t-82634
   teiginys: "Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė."
   pagrindžia:
     - c-21921
 
 <a id="claim-t-82635"></a>
-- t-004
+- t-003
   global_id: t-82635
   teiginys: "Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos."
   pagrindžia:

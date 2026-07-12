@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - posakis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -38,7 +38,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
 ## Teiginiai
 
 <a id="claim-t-104215"></a>
-- t-003
+- t-001
   global_id: t-104215
   teiginys: "1918 m. vasario 16 d. akto žodžiai apie Lietuvos nepriklausomybės atkūrimą siejo naują valstybę su LDK tradicija."
   pagrindžia:
@@ -52,7 +52,7 @@ Parengus abiem pusėms priimtiną tekstą, Vilniuje 1918 m. vasario 16 d. Taryba
     - c-97171
 
 <a id="claim-t-104217"></a>
-- t-001
+- t-003
   global_id: t-104217
   teiginys: "1918 m. vasario 16 d. Lietuvos Taryba paskelbė atkurianti nepriklausomą demokratinę Lietuvos valstybę su sostine Vilniumi."
   pagrindžia:

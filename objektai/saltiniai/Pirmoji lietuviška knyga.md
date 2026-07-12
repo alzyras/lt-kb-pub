@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - šventė
 amziai:
   - 'XVI'
 media_total_count: '0'

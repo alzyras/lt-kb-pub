@@ -38,56 +38,56 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 ## Teiginiai
 
 <a id="claim-t-71495"></a>
-- t-009
+- t-001
   global_id: t-71495
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris."
   pagrindžia:
     - c-42395
 
 <a id="claim-t-71496"></a>
-- t-003
+- t-002
   global_id: t-71496
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris."
   pagrindžia:
     - c-42396
 
 <a id="claim-t-71497"></a>
-- t-005
+- t-003
   global_id: t-71497
   teiginys: "Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius."
   pagrindžia:
     - c-42391
 
 <a id="claim-t-71498"></a>
-- t-007
+- t-004
   global_id: t-71498
   teiginys: "Andžej Geglis buvo teksto „Šautuvų raida XX a. pradžioje“ autorius."
   pagrindžia:
     - c-42393
 
 <a id="claim-t-71499"></a>
-- t-006
+- t-005
   global_id: t-71499
   teiginys: "Andžej Geglis buvo teksto „XX a. pradžios pėstininkų taktika“ autorius ir dailininkas."
   pagrindžia:
     - c-42392
 
 <a id="claim-t-71501"></a>
-- t-004
+- t-006
   global_id: t-71501
   teiginys: "Andžej Geglis buvo teksto „XVIII a. linijinė taktika“ autorius ir dailininkas."
   pagrindžia:
     - c-42390
 
 <a id="claim-t-71502"></a>
-- t-008
+- t-007
   global_id: t-71502
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris."
   pagrindžia:
     - c-42395
 
 <a id="claim-t-71496"></a>
-- t-003
+- t-008
   global_id: t-71496
   teiginys: "Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris."
   pagrindžia:

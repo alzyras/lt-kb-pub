@@ -29,7 +29,7 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
 ## Teiginiai
 
 <a id="claim-t-187395"></a>
-- t-002
+- t-001
   global_id: t-187395
   teiginys: "Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke."
   pagrindžia:
@@ -43,14 +43,14 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
     - c-170394
 
 <a id="claim-t-187397"></a>
-- t-001
+- t-003
   global_id: t-187397
   teiginys: "Mindaugas, nenorėdamas kautis atvirame lauke, užsidarė pilyje Vorutoje."
   pagrindžia:
     - c-170394
 
 <a id="claim-t-187397"></a>
-- t-001
+- t-004
   global_id: t-187397
   teiginys: "Mindaugas, nenorėdamas kautis atvirame lauke, užsidarė pilyje Vorutoje."
   pagrindžia:

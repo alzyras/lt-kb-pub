@@ -33,14 +33,14 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 ## Teiginiai
 
 <a id="claim-t-13363"></a>
-- t-005
+- t-001
   global_id: t-13363
   teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
   pagrindžia:
     - c-16518
 
 <a id="claim-t-13363"></a>
-- t-005
+- t-002
   global_id: t-13363
   teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
   pagrindžia:

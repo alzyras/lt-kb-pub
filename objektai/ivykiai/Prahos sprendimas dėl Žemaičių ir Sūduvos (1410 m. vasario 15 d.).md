@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97031"></a>
-- t-002
+- t-001
   global_id: t-97031
   teiginys: "Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka."
   pagrindžia:
     - c-91583
 
 <a id="claim-t-97032"></a>
-- t-001
+- t-002
   global_id: t-97032
   teiginys: "Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka."
   pagrindžia:

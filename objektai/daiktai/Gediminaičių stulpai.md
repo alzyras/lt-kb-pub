@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - daiktas
   - dinastija
+  - institucija
   - tauta
-  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'
@@ -62,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169858"></a>
-- t-011
+- t-001
   global_id: t-169858
   teiginys: "Gediminaičių stulpai buvo panaudoti Sąjūdžio ženkle, kurį kūrė Giedrius Reimeris ir Algimantas Nasvytis."
   pagrindžia:

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - sukilimas
 amziai:
   - 'XIX'

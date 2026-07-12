@@ -49,7 +49,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     - c-64623
 
 <a id="claim-t-63622"></a>
-- t-003
+- t-002
   global_id: t-63622
   teiginys: "Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo."
   pagrindžia:

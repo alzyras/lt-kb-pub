@@ -62,28 +62,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45472"></a>
-- t-008
+- t-001
   global_id: t-45472
   teiginys: "Lapkričio 15 d. Kaune sprogusi bomba sužeidė E. Galvanauską, bet jis liko gyvas."
   pagrindžia:
     - c-16402
 
 <a id="claim-t-45475"></a>
-- t-007
+- t-002
   global_id: t-45475
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   pagrindžia:
     - c-16402
 
 <a id="claim-t-45475"></a>
-- t-007
+- t-003
   global_id: t-45475
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   pagrindžia:
     - c-16402
 
 <a id="claim-t-45475"></a>
-- t-007
+- t-004
   global_id: t-45475
   teiginys: "Lapkričio 15 d. Kaune ant derybininko E. Galvanausko miegamojo palangės sprogo padėta bomba."
   pagrindžia:

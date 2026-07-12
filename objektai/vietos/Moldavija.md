@@ -39,7 +39,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 ## Teiginiai
 
 <a id="claim-t-171837"></a>
-- t-012
+- t-001
   global_id: t-171837
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
   pagrindžia:

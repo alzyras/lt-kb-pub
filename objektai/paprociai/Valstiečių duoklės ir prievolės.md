@@ -53,21 +53,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05370"></a>
-- t-005
+- t-001
   global_id: t-05370
   teiginys: "Valstiečių prievolės dvarui gausėjo, o iš valstiečio kiemo reikėjo siųsti vis daugiau darbo rankų į dvaro laukus."
   pagrindžia:
     - c-05435
 
 <a id="claim-t-97142"></a>
-- t-008
+- t-002
   global_id: t-97142
   teiginys: "Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais."
   pagrindžia:
     - c-91655
 
 <a id="claim-t-97143"></a>
-- t-007
+- t-003
   global_id: t-97143
   teiginys: "XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai."
   pagrindžia:

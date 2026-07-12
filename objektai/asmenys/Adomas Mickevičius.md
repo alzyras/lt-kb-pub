@@ -42,42 +42,42 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
 ## Teiginiai
 
 <a id="claim-t-45926"></a>
-- t-003
+- t-001
   global_id: t-45926
   teiginys: "A. Mickevičius buvo vienas organizacijų narių ir rašė apie Tėvynę Lietuvą."
   pagrindžia:
     - c-21547
 
 <a id="claim-t-45927"></a>
-- t-001
+- t-002
   global_id: t-45927
   teiginys: "Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi."
   pagrindžia:
     - c-21545
 
 <a id="claim-t-45928"></a>
-- t-002
+- t-003
   global_id: t-45928
   teiginys: "Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų."
   pagrindžia:
     - c-21546
 
 <a id="claim-t-45929"></a>
-- t-006
+- t-004
   global_id: t-45929
   teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   pagrindžia:
     - c-48583
 
 <a id="claim-t-45930"></a>
-- t-004
+- t-005
   global_id: t-45930
   teiginys: "Adomas Mickevičius buvo vienas iš dvidešimties apkaltintų asmenų, kurie buvo ištremti."
   pagrindžia:
     - c-21548
 
 <a id="claim-t-45931"></a>
-- t-005
+- t-006
   global_id: t-45931
   teiginys: "Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei."
   pagrindžia:

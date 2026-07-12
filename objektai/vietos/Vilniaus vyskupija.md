@@ -33,28 +33,28 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 ## Teiginiai
 
 <a id="claim-t-110178"></a>
-- t-006
+- t-001
   global_id: t-110178
   teiginys: "Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą."
   pagrindžia:
     - c-102069
 
 <a id="claim-t-110179"></a>
-- t-007
+- t-002
   global_id: t-110179
   teiginys: "Vilniaus vyskupijos bažnyčiose kova už lietuvių kalbos teises neretai virsdavo lenkų ir lietuvių muštynėmis."
   pagrindžia:
     - c-102072
 
 <a id="claim-t-110180"></a>
-- t-005
+- t-003
   global_id: t-110180
   teiginys: "Jurgis Radvila, matydamas kunigų trūkumą Vilniaus vyskupijoje, nusprendė funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti."
   pagrindžia:
     - c-102070
 
 <a id="claim-t-110181"></a>
-- t-003
+- t-004
   global_id: t-110181
   teiginys: "Jurgis Radvila Vilniaus vyskupijoje nusprendė įsteigti ir funduoti klierikų kolegiją lietuvių ir rusų jaunuoliams."
   pagrindžia:

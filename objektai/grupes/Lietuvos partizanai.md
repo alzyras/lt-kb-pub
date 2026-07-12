@@ -42,56 +42,56 @@ Tačiau pergyvenusi didžiules netektis – Lietuvos žydų Holokaustą, masines
 ## Teiginiai
 
 <a id="claim-t-74759"></a>
-- t-004
+- t-001
   global_id: t-74759
   teiginys: "1944–1946 m. Lietuvoje susidarė dideli, net iki 100 kovotojų siekę partizanų būriai."
   pagrindžia:
     - c-22634
 
 <a id="claim-t-74760"></a>
-- t-001
+- t-002
   global_id: t-74760
   teiginys: "Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m."
   pagrindžia:
     - c-22631
 
 <a id="claim-t-74763"></a>
-- t-008
+- t-003
   global_id: t-74763
   teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras Lietuvoje skatino dešimtmetį trukusį partizaninį karą dėl nepriklausomybės atkūrimo."
   pagrindžia:
     - c-72777
 
 <a id="claim-t-74764"></a>
-- t-005
+- t-004
   global_id: t-74764
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-22635
 
 <a id="claim-t-74765"></a>
-- t-006
+- t-005
   global_id: t-74765
   teiginys: "1947 m. pabaigoje Juozas Lukša-Skirmantas ir Kazimieras Pyplys-Mažytis per geležinę uždangą į laisvąjį pasaulį nugabeno partizanų dokumentus."
   pagrindžia:
     - c-22636
 
 <a id="claim-t-74766"></a>
-- t-007
+- t-006
   global_id: t-74766
   teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
   pagrindžia:
     - c-22637
 
 <a id="claim-t-183164"></a>
-- t-009
+- t-007
   global_id: t-183164
   teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose buvo įkurti spaudos ir informacijos skyriai."
   pagrindžia:
     - c-166549
 
 <a id="claim-t-193555"></a>
-- t-010
+- t-008
   global_id: t-193555
   teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
   pagrindžia:

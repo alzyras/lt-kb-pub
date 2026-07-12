@@ -51,14 +51,14 @@ Vartojama plačiai ir metaforiškai, kalbant apie tautinius, krašto, senovės i
     - c-175026
 
 <a id="claim-t-192138"></a>
-- t-003
+- t-002
   global_id: t-192138
   teiginys: "Teodoras Narbutas Prūsų kronikininkus vaizduoja palikusius įspūdingą paminklų lobį, bet daug ką nutylėjusius."
   pagrindžia:
     - c-175027
 
 <a id="claim-t-192139"></a>
-- t-002
+- t-003
   global_id: t-192139
   teiginys: "Teodoras Narbutas mitologinius paminklus apibūdina kaip versmę, iš kurios trykšta istorijos šaltiniai."
   pagrindžia:

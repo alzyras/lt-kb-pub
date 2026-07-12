@@ -41,21 +41,21 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 ## Teiginiai
 
 <a id="claim-t-103839"></a>
-- t-005
+- t-001
   global_id: t-103839
   teiginys: "Adolfas Šapoka daugiausia tyrinėjo poliublininius laikus ir nuo 1931 m. skelbė straipsnius periodikoje apie lietuvius po Liublino unijos."
   pagrindžia:
     - c-96904
 
 <a id="claim-t-103840"></a>
-- t-003
+- t-002
   global_id: t-103840
   teiginys: "Poliublininiais amžiais lietuvių istorikams lietuvių pėdsakų teko ieškoti bendroje respublikoje."
   pagrindžia:
     - c-32682
 
 <a id="claim-t-103841"></a>
-- t-001
+- t-003
   global_id: t-103841
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais Stryjkovskis ryškino Lietuvos valstybinį patriotizmą ir gynė atskirą jos valstybinę sąmonę."
   pagrindžia:
@@ -69,7 +69,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     - c-96904
 
 <a id="claim-t-103843"></a>
-- t-002
+- t-005
   global_id: t-103843
   teiginys: "Kojalavičius, baigęs istoriją Žygimanto Augusto mirtimi, įtvirtino tradiciją iki T. Narbuto laikų nebetęsti atskiros Lietuvos istorijos po Liublino unijos."
   pagrindžia:

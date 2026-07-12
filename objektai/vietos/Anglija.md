@@ -46,49 +46,49 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 ## Teiginiai
 
 <a id="claim-t-111491"></a>
-- t-009
+- t-001
   global_id: t-111491
   teiginys: "Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-103085
 
 <a id="claim-t-111492"></a>
-- t-012
+- t-002
   global_id: t-111492
   teiginys: "Antanas Tyzenhauzas siuntė jaunimą mokytis agronomijos į Angliją ir Gardine įkūrė matininkų, buhalterių, statybininkų bei veterinarų mokyklas."
   pagrindžia:
     - c-103082
 
 <a id="claim-t-111493"></a>
-- t-013
+- t-003
   global_id: t-111493
   teiginys: "Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės."
   pagrindžia:
     - c-103081
 
 <a id="claim-t-111494"></a>
-- t-010
+- t-004
   global_id: t-111494
   teiginys: "1588 m. Nenugalimosios armados išsilaipinimui Anglijoje sutrukdė audra, todėl Ispanija šio žygio nekartojo."
   pagrindžia:
     - c-103083
 
 <a id="claim-t-111496"></a>
-- t-007
+- t-005
   global_id: t-111496
   teiginys: "Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-103085
 
 <a id="claim-t-111497"></a>
-- t-008
+- t-006
   global_id: t-111497
   teiginys: "Derbio grafas Henrikas vadovavo Gdansko uoste išsilaipinusiems lankininkams ir vėliau, kaip Henrikas IV, paveldėjo Anglijos sostą."
   pagrindžia:
     - c-103084
 
 <a id="claim-t-111499"></a>
-- t-011
+- t-007
   global_id: t-111499
   teiginys: "Vilniaus universiteto profesorių veikalai pasiekė Angliją, o Motiejaus Kazimiero Sarbievijaus poezija 1646 m. išversta į anglų kalbą."
   pagrindžia:

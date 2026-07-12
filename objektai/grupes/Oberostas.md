@@ -65,42 +65,42 @@ Vokiečių karinė administracija / vadovybė okupuotame krašte.
 ## Teiginiai
 
 <a id="claim-t-74881"></a>
-- t-009
+- t-001
   global_id: t-74881
   teiginys: "1915 m. frontui stabilizavusis, vokiečiai sudarė karinę administraciją ir pavadino ją Oberostu."
   pagrindžia:
     - c-26831
 
 <a id="claim-t-74882"></a>
-- t-010
+- t-002
   global_id: t-74882
   teiginys: "Oberostui formaliai vadovavo Paulius fon Hindenburgas ir Ėrichas Liudendorfas."
   pagrindžia:
     - c-26831
 
 <a id="claim-t-74883"></a>
-- t-011
+- t-003
   global_id: t-74883
   teiginys: "Oberosto režimas nusavino maistą, apkrovė gyventojus mokesčiais ir prievolėmis, išvežė pramonės įmones ir pradėjo germanizaciją mokyklose."
   pagrindžia:
     - c-26832
 
 <a id="claim-t-74884"></a>
-- t-012
+- t-004
   global_id: t-74884
   teiginys: "1917 m. pabaigoje Kaune rezidavęs Oberostas įteikė Lietuvos Tarybos prezidiumui norimos rezoliucijos projektą."
   pagrindžia:
     - c-26833
 
 <a id="claim-t-74885"></a>
-- t-014
+- t-005
   global_id: t-74885
   teiginys: "Kaune rezidavęs Oberostas įteikė Tarybos prezidiumui rezoliucijos projektą, kurį prezidiumas pataisė ir gruodžio 11 d. grąžino karinei administracijai."
   pagrindžia:
     - c-26833
 
 <a id="claim-t-74886"></a>
-- t-013
+- t-006
   global_id: t-74886
   teiginys: "Oberosto karinis kolonijinis režimas nusavindavo maistą, apkrovė valstiečius mokesčiais bei prievolėmis ir pradėjo germanizaciją mokyklose."
   pagrindžia:

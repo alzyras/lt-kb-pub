@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - karas
   - miestas
-  - privilegija
   - sąvoka
+  - teisinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

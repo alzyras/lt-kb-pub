@@ -68,7 +68,7 @@ Nenurodyta
     - c-60067
 
 <a id="claim-t-59435"></a>
-- t-001
+- t-003
   global_id: t-59435
   teiginys: "1241 m. totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:

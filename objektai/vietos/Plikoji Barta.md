@@ -31,14 +31,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 <a id="claim-t-58614"></a>
-- t-002
+- t-001
   global_id: t-58614
   teiginys: "Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe."
   pagrindžia:
     - c-59246
 
 <a id="claim-t-58615"></a>
-- t-001
+- t-002
   global_id: t-58615
   teiginys: "Petro Dusburgiečio kronikoje Plikoji Barta minima kaip viena iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:

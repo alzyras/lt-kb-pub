@@ -43,14 +43,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192029"></a>
-- t-002
+- t-001
   global_id: t-192029
   teiginys: "Narbuto pasakojimu, valdant karaliui Aleksandrui pagoniškos šventyklos vietoje jo įsakymu buvo pastatyta filija."
   pagrindžia:
     - c-174907
 
 <a id="claim-t-192030"></a>
-- t-001
+- t-002
   global_id: t-192030
   teiginys: "Narbuto pasakojimu, prie Kražių ant Medžiokalnio stovėjo deivės Medziojnos šventykla."
   pagrindžia:

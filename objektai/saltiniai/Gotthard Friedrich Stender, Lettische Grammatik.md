@@ -33,14 +33,14 @@ Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nuto
 ## Teiginiai
 
 <a id="claim-t-191745"></a>
-- t-002
+- t-001
   global_id: t-191745
   teiginys: "Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“."
   pagrindžia:
     - c-174627
 
 <a id="claim-t-194895"></a>
-- t-003
+- t-002
   global_id: t-194895
   teiginys: "Mongolų karvedžiai skubėjo užimti antrąjį ir todėl pasirinko tiesiausią kelią; bet pa lydovai, kuriais jie pernelyg pasikliovė, įvedė juos į siau 1 Stender Gotthard Friedrich."
   pagrindžia:

@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62956"></a>
-- t-002
+- t-001
   global_id: t-62956
   teiginys: "Henrikas Tupadelis ragino Vėluvos pilies gynėjus priešintis ir daug kartų padėjo gesinti piliai padegti pakištus degalus."
   pagrindžia:
     - c-63842
 
 <a id="claim-t-62957"></a>
-- t-001
+- t-002
   global_id: t-62957
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė dviem apgulos mašinomis."
   pagrindžia:

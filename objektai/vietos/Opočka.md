@@ -35,28 +35,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187279"></a>
-- t-002
+- t-001
   global_id: t-187279
   teiginys: "Opočka citatoje minima kaip vienas iš Pskovo miestų, kuriuos 1426 m. rugpjūtį puolė Vytautas."
   pagrindžia:
     - c-170326
 
 <a id="claim-t-187280"></a>
-- t-004
+- t-002
   global_id: t-187280
   teiginys: "Krasnogorodskoje lokalizuojama 30 km į šiaurės vakarus nuo Opočkos."
   pagrindžia:
     - c-170327
 
 <a id="claim-t-187281"></a>
-- t-001
+- t-003
   global_id: t-187281
   teiginys: "1426 m. rugpjūčio 1 d. Vytautas puolė Pskovo miestą Opočką, bet jo nepaėmė."
   pagrindžia:
     - c-170326
 
 <a id="claim-t-187282"></a>
-- t-003
+- t-004
   global_id: t-187282
   teiginys: "Krasnogorodskoje lokalizuojama į šiaurės vakarus nuo Opočkos."
   pagrindžia:

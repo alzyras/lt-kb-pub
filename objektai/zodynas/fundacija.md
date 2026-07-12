@@ -48,21 +48,21 @@ Pirmoji baž­ nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­ 
     - c-82398
 
 <a id="claim-t-86418"></a>
-- t-003
+- t-002
   global_id: t-86418
   teiginys: "1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui."
   pagrindžia:
     - c-82396
 
 <a id="claim-t-86419"></a>
-- t-004
+- t-003
   global_id: t-86419
   teiginys: "Remiantis prisiekusių liudininkų duomenimis apie Pabaisko bažnyčios fundaciją, Valentinui iš Pilzno suteikta nauja privilegija."
   pagrindžia:
     - c-82397
 
 <a id="claim-t-86420"></a>
-- t-002
+- t-004
   global_id: t-86420
   teiginys: "Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių prašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją."
   pagrindžia:

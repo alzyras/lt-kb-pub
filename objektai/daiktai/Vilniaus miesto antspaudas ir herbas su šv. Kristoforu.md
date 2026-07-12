@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - daiktas
+  - institucija
   - karalius
 amziai:
   - 'XVI'
@@ -57,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87060"></a>
-- t-002
+- t-001
   global_id: t-87060
   teiginys: "Vilniaus miesto viešųjų aktų antspaude turėjo būti šv. Kristoforo atvaizdas raudoname lake."
   pagrindžia:
     - c-83039
 
 <a id="claim-t-87061"></a>
-- t-003
+- t-002
   global_id: t-87061
   teiginys: "1548 metais Vilniaus miesto herbas buvo šv. Kristoforo atvaizdas raudoname fone."
   pagrindžia:
     - c-83041
 
 <a id="claim-t-87062"></a>
-- t-001
+- t-003
   global_id: t-87062
   teiginys: "Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake."
   pagrindžia:

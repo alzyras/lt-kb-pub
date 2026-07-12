@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66640"></a>
-- t-002
+- t-001
   global_id: t-66640
   teiginys: "Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais."
   pagrindžia:
     - c-66837
 
 <a id="claim-t-66641"></a>
-- t-001
+- t-002
   global_id: t-66641
   teiginys: "Kunigaikštis, patartas vyskupo Kristijono ir kai kurių didikų, savo žemei ginti subūrė Kristaus kariais vadintus brolius."
   pagrindžia:

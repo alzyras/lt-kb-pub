@@ -39,7 +39,7 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
 ## Teiginiai
 
 <a id="claim-t-181449"></a>
-- t-015
+- t-001
   global_id: t-181449
   teiginys: "Ratifikavus sutartį Lietuva neteko teisės reikšti teritorinių pretenzijų į Seinus ir Punską."
   pagrindžia:

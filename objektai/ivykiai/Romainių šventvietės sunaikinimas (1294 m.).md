@@ -70,7 +70,7 @@ Kryžiuočiai ilgai siekė sunaikinti Romainių šventvietę, o 1294 m. užėmė
     - c-78376
 
 <a id="claim-t-55130"></a>
-- t-001
+- t-003
   global_id: t-55130
   teiginys: "1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius."
   pagrindžia:

@@ -44,35 +44,35 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
 ## Teiginiai
 
 <a id="claim-t-82984"></a>
-- t-005
+- t-001
   global_id: t-82984
   teiginys: "Zigmanto Vazos laikai šaltinyje datuojami 1588–1632 m."
   pagrindžia:
     - c-79402
 
 <a id="claim-t-82985"></a>
-- t-006
+- t-002
   global_id: t-82985
   teiginys: "Zigmantas mirė 1632 m., iškaraliavęs net 44 m."
   pagrindžia:
     - c-79405
 
 <a id="claim-t-82987"></a>
-- t-009
+- t-003
   global_id: t-82987
   teiginys: "1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti."
   pagrindžia:
     - c-79403
 
 <a id="claim-t-82988"></a>
-- t-010
+- t-004
   global_id: t-82988
   teiginys: "1632 m. maskvėnai pasinaudojo Zigmanto Vazos mirtimi ir įsiveržė į Lietuvos teritoriją, siekdami atgauti Smolenską."
   pagrindžia:
     - c-79401
 
 <a id="claim-t-194248"></a>
-- t-011
+- t-005
   global_id: t-194248
   teiginys: "Motiejus (arba Matas) Božiminskis, iš bajorų, paskirtas karaliaus Zigmanto Vazos raštu, rašytu spalio 30 d. iš Varšuvos - Burmistras Kuzma Mamoničius - 10."
   pagrindžia:

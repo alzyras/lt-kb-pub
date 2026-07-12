@@ -42,35 +42,35 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 ## Teiginiai
 
 <a id="claim-t-79162"></a>
-- t-003
+- t-001
   global_id: t-79162
   teiginys: "LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį."
   pagrindžia:
     - c-76241
 
 <a id="claim-t-79163"></a>
-- t-001
+- t-002
   global_id: t-79163
   teiginys: "Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu."
   pagrindžia:
     - c-76240
 
 <a id="claim-t-184831"></a>
-- t-004
+- t-003
   global_id: t-184831
   teiginys: "Stanislovas Kiška Kazimiero įsakymu su turimomis jėgomis turėjo sustabdyti maskvėnų antpuolius."
   pagrindžia:
     - c-168192
 
 <a id="claim-t-184832"></a>
-- t-005
+- t-004
   global_id: t-184832
   teiginys: "Stanislovas Kiška prasivalė kelią ir nusiaubė Viazmos žemę bei gretimas apygardas, žudydamas ir degindamas."
   pagrindžia:
     - c-168193
 
 <a id="claim-t-184833"></a>
-- t-006
+- t-005
   global_id: t-184833
   teiginys: "Sužinojęs apie iš slėptuvių išviliotą priešo kariuomenę, Stanislovas Kiška paprašė karaliaus pagalbos."
   pagrindžia:

@@ -41,28 +41,28 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
 ## Teiginiai
 
 <a id="claim-t-19060"></a>
-- t-002
+- t-001
   global_id: t-19060
   teiginys: "1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu."
   pagrindžia:
     - c-21820
 
 <a id="claim-t-19061"></a>
-- t-003
+- t-002
   global_id: t-19061
   teiginys: "Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą."
   pagrindžia:
     - c-21821
 
 <a id="claim-t-19062"></a>
-- t-001
+- t-003
   global_id: t-19062
   teiginys: "Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei."
   pagrindžia:
     - c-166943
 
 <a id="claim-t-19062"></a>
-- t-001
+- t-004
   global_id: t-19062
   teiginys: "Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei."
   pagrindžia:

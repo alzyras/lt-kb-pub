@@ -42,14 +42,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-79202"></a>
-- t-003
+- t-001
   global_id: t-79202
   teiginys: "Po Jono IV mirties jo sūnus Teodoras 15 metų buvo caru, o su Teodoro mirtimi pasibaigė Kalitos dinastija."
   pagrindžia:
     - c-76275
 
 <a id="claim-t-79203"></a>
-- t-004
+- t-002
   global_id: t-79203
   teiginys: "1330-1331 m. šaltiniai mini Gedimino brolį Teodorą kaip Lietuvos valdovo vietininką Kijeve."
   pagrindžia:

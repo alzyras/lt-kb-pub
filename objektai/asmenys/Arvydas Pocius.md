@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - ginklas
+  - institucija
 amziai:
   - 'XX'
 periodo_grupes:
@@ -59,7 +60,7 @@ Ant Aukščiausiosios Tarybos stogo pritvirtinti metaliniai strypai turėjo apsu
     - c-44292
 
 <a id="claim-t-40042"></a>
-- t-001
+- t-004
   global_id: t-40042
   teiginys: "AT gynėjas Arvydas Pocius vėliau tapo generolu leitenantu ir Lietuvos kariuomenės vadu."
   pagrindžia:

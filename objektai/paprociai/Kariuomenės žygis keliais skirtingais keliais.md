@@ -57,7 +57,7 @@ Nenurodyta
     - c-63428
 
 <a id="claim-t-62683"></a>
-- t-001
+- t-002
   global_id: t-62683
   teiginys: "Kariuomenė paprastai traukdavo į žygį keliais skirtingais keliais, kad palaikytų tvarką ir išvengtų kamšaties."
   pagrindžia:

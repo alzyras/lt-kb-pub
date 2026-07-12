@@ -42,7 +42,7 @@ Jonas Spudulis minimas kaip laiško Adomui Dambrauskui-Jakštui autorius aušrin
 ## Teiginiai
 
 <a id="claim-t-188041"></a>
-- t-002
+- t-001
   global_id: t-188041
   teiginys: "Jonas Spudulis rašė Adomui Dambrauskui-Jakštui apie kitomis kalbomis rašiusius autorius, kurie, jo žodžiais, pagarsino ir pakėlė savo tėvynę."
   pagrindžia:

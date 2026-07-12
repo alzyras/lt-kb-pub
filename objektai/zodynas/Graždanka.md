@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-52506"></a>
-- t-004
+- t-001
   global_id: t-52506
   teiginys: "Rusų administracija pripažino, kad lietuviai graždankos nepriėmė."
   pagrindžia:
     - c-00275
 
 <a id="claim-t-52507"></a>
-- t-005
+- t-002
   global_id: t-52507
   teiginys: "Rusų administracija Lietuvoje siūlė panaikinti spaudos draudimą, nes lietuviai neprisiėmė rusų raidžių, vadinamų graždanka."
   pagrindžia:

@@ -64,7 +64,7 @@ Nenurodyta
     - c-167353
 
 <a id="claim-t-62932"></a>
-- t-001
+- t-002
   global_id: t-62932
   teiginys: "1312 m. kovo 23 d. Vieno suvažiavime popiežius Klemensas V paskelbė Tamplierių ordino panaikinimo parengiamąjį veiksmą."
   pagrindžia:

@@ -59,28 +59,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-63377"></a>
-- t-002
+- t-001
   global_id: t-63377
   teiginys: "Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje."
   pagrindžia:
     - c-43140
 
 <a id="claim-t-63383"></a>
-- t-003
+- t-002
   global_id: t-63383
   teiginys: "1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis."
   pagrindžia:
     - c-43141
 
 <a id="claim-t-183677"></a>
-- t-005
+- t-003
   global_id: t-183677
   teiginys: "Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prie Vorsklos patyrė nesėkmę prieš totorius."
   pagrindžia:
     - c-167069
 
 <a id="claim-t-184235"></a>
-- t-006
+- t-004
   global_id: t-184235
   teiginys: "Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse."
   pagrindžia:

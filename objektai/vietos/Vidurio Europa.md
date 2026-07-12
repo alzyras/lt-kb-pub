@@ -40,28 +40,28 @@ Tačiau civilizacijos požiūriu Lietuva priklauso Vakarų civilizacijos pakraš
 ## Teiginiai
 
 <a id="claim-t-47312"></a>
-- t-003
+- t-001
   global_id: t-47312
   teiginys: "Vilniaus universitetas laikomas vienu seniausių Vidurio Europos universitetų."
   pagrindžia:
     - c-24557
 
 <a id="claim-t-47313"></a>
-- t-004
+- t-002
   global_id: t-47313
   teiginys: "Paulavos reiškinys neturėjo precedento Vidurio Europoje ir buvo viena radikaliausių antrosios XVIII a. pusės valstiečių reformų Lenkijos ir Lietuvos Valstybėje."
   pagrindžia:
     - c-24558
 
 <a id="claim-t-47314"></a>
-- t-001
+- t-003
   global_id: t-47314
   teiginys: "Civilizacijos požiūriu Lietuva priskiriama Vakarų civilizacijos pakraščiams, vadinamiems Vidurio Europa."
   pagrindžia:
     - c-167032
 
 <a id="claim-t-47315"></a>
-- t-002
+- t-004
   global_id: t-47315
   teiginys: "Katalikiškoji Vidurio Europa šliejosi prie katalikybę išpažinusios pietinės Vakarų Europos."
   pagrindžia:

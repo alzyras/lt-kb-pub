@@ -52,14 +52,14 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
     - c-177413
 
 <a id="claim-t-195051"></a>
-- t-003
+- t-002
   global_id: t-195051
   teiginys: "Tikslas pateisino prie mones."
   pagrindžia:
     - c-177412
 
 <a id="claim-t-195052"></a>
-- t-002
+- t-003
   global_id: t-195052
   teiginys: "Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu."
   pagrindžia:

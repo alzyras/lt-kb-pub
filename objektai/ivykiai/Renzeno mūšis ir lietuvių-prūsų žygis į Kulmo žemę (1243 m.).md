@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89389"></a>
-- t-004
+- t-001
   global_id: t-89389
   teiginys: "1243 m. pirmojo prūsų sukilimo pradžioje Lietuvos kariuomenė dalyvavo kovoje, kai buvo nusiaubta Kulmo žemė ir sutriuškintos Ordino pajėgos."
   pagrindžia:
     - c-85349
 
 <a id="claim-t-89390"></a>
-- t-005
+- t-002
   global_id: t-89390
   teiginys: "1243 m. Kulmo žemės nusiaubime ir Ordino pajėgų sutriuškinime dalyvavo Lietuvos kariuomenė."
   pagrindžia:
@@ -78,14 +78,14 @@ Nenurodyta
     - c-85347
 
 <a id="claim-t-89392"></a>
-- t-002
+- t-004
   global_id: t-89392
   teiginys: "Dusburgietis nutylėjo Lietuvos kariuomenės dalyvavimą 1243 m. bendroje kovoje prieš Kryžiuočių ordiną."
   pagrindžia:
     - c-85348
 
 <a id="claim-t-89393"></a>
-- t-001
+- t-005
   global_id: t-89393
   teiginys: "1243 m. lietuviai drauge su prūsais nusiaubė Kulmo žemę ir sutriuškino Kryžiuočių ordino pajėgas Renzeno mūšyje."
   pagrindžia:

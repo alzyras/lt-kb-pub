@@ -50,7 +50,7 @@ Jono Mejeno divizija, kurią sudarė 2-0ji ir 3-ioji Tautinės kavalerijos briga
     - c-167132
 
 <a id="claim-t-40224"></a>
-- t-002
+- t-003
   global_id: t-40224
   teiginys: "Liepos ir rugpjūčio mėnesiais Vilniaus gynybai tiesiogiai vadovavo generolas majoras Jonas Mejenas."
   pagrindžia:

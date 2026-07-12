@@ -55,35 +55,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31498"></a>
-- t-005
+- t-001
   global_id: t-31498
   teiginys: "1397 m. Vytautas surengė didelį žygį prie Juodosios jūros ir į Krymą."
   pagrindžia:
     - c-33444
 
 <a id="claim-t-31499"></a>
-- t-008
+- t-002
   global_id: t-31499
   teiginys: "Pasak Ivinskio, 1398 m. žygio metu paimti karaimai, berods, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
   pagrindžia:
     - c-05005
 
 <a id="claim-t-31500"></a>
-- t-007
+- t-003
   global_id: t-31500
   teiginys: "1398 m. antrajame žygyje Vytautas Dniepro žiotyse pastatė Tavanės tvirtovę."
   pagrindžia:
     - c-05005
 
 <a id="claim-t-31501"></a>
-- t-009
+- t-004
   global_id: t-31501
   teiginys: "1397 m. Vytautas, veikiausiai pritariant Jogailai, surengė didelį žygį prie Juodosios jūros ir į Krymą."
   pagrindžia:
     - c-31394
 
 <a id="claim-t-31502"></a>
-- t-006
+- t-005
   global_id: t-31502
   teiginys: "Po 1397 m. žygio Vytautas pusę atsivežtų totorių belaisvių ir pabėgėlių atidavė Jogailai, o kitus įkurdino Trakų kunigaikštijoje."
   pagrindžia:

@@ -44,7 +44,7 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
 ## Teiginiai
 
 <a id="claim-t-69126"></a>
-- t-005
+- t-001
   global_id: t-69126
   teiginys: "Lenkų bajorai Vilniaus ir Radomo susitarimo dokumentą surašė Radome."
   pagrindžia:

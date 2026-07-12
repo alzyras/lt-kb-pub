@@ -43,35 +43,35 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
 ## Teiginiai
 
 <a id="claim-t-79042"></a>
-- t-007
+- t-001
   global_id: t-79042
   teiginys: "1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais."
   pagrindžia:
     - c-42017
 
 <a id="claim-t-79043"></a>
-- t-008
+- t-002
   global_id: t-79043
   teiginys: "Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale."
   pagrindžia:
     - c-76142
 
 <a id="claim-t-79044"></a>
-- t-007
+- t-003
   global_id: t-79044
   teiginys: "Po Jono Jeronimo Katkevičiaus mirties Jonas Karolis Katkevičius užėmė jo vietą ir vėliau gavo didžiojo hetmono buožę bei Vilniaus vaivadiją."
   pagrindžia:
     - c-76147
 
 <a id="claim-t-79046"></a>
-- t-006
+- t-004
   global_id: t-79046
   teiginys: "Karaliaus atsiųstas Jonas Karolis Katkevičius nebeišgelbėjo Maskvos įgulos."
   pagrindžia:
     - c-76146
 
 <a id="claim-t-79047"></a>
-- t-006
+- t-005
   global_id: t-79047
   teiginys: "Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį."
   pagrindžia:

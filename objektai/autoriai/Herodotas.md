@@ -59,147 +59,147 @@ Pasak Herodoto, pelazgai iš Samotrakės į Peloponesą atsinešė dalį Kabirų
     - c-173200
 
 <a id="claim-t-190704"></a>
-- t-005
+- t-004
   global_id: t-190704
   teiginys: "Herodotas minėjo, kad tisagetai gyvenę toliau į šiaurę, už gelonų gyvenamo krašto."
   pagrindžia:
     - c-173586
 
 <a id="claim-t-190705"></a>
-- t-006
+- t-005
   global_id: t-190705
   teiginys: "Teodoras Narbutas skitų tautos bruožų vaizdą siejo su Herodoto kūriniais ir jo kelione tarp skitų."
   pagrindžia:
     - c-173587
 
 <a id="claim-t-190706"></a>
-- t-007
+- t-006
   global_id: t-190706
   teiginys: "Herodotas iš dalies aprašė skitų įpročius, papročius ir religiją."
   pagrindžia:
     - c-173588
 
 <a id="claim-t-190707"></a>
-- t-008
+- t-007
   global_id: t-190707
   teiginys: "Herodotas teigė, kad nuo Dnepro žiočių iki Gerų krašto reikia plaukti 40 dienų."
   pagrindžia:
     - c-173589
 
 <a id="claim-t-190708"></a>
-- t-009
+- t-008
   global_id: t-190708
   teiginys: "Herodotas sarmatams priskyrė pusiau pasakiškas ištakas iš amazonių ir skitų."
   pagrindžia:
     - c-173590
 
 <a id="claim-t-190709"></a>
-- t-010
+- t-009
   global_id: t-190709
   teiginys: "Herodotas minėjo prie Juodosios jūros buvus Gelono miestą, netoli prekyvietėmis garsėjusios Dioskūrijos."
   pagrindžia:
     - c-173591
 
 <a id="claim-t-190710"></a>
-- t-011
+- t-010
   global_id: t-190710
   teiginys: "Herodotas teigė, kad gelonai ir budinai turėjo tvirtovių bei nekilnojamojo turto, kurį sunaikino persų antpuolis."
   pagrindžia:
     - c-173592
 
 <a id="claim-t-190712"></a>
-- t-013
+- t-011
   global_id: t-190712
   teiginys: "Herodotas, Talis, Aristotelis, Teofrastas ir Pitėjas Masilietis žinojo gintarą bei jo savybes."
   pagrindžia:
     - c-173594
 
 <a id="claim-t-190713"></a>
-- t-014
+- t-012
   global_id: t-190713
   teiginys: "Teodoro Narbuto pasakojime Herodotas, keliaudamas po Skitiją, teiravosi boristeniečių apie gintaringas vietas."
   pagrindžia:
     - c-173595
 
 <a id="claim-t-190714"></a>
-- t-015
+- t-013
   global_id: t-190714
   teiginys: "Anot Herodoto, skitiškas žodis „Arimą“ reiškė skaitvardį „vienas“."
   pagrindžia:
     - c-173596
 
 <a id="claim-t-190715"></a>
-- t-016
+- t-014
   global_id: t-190715
   teiginys: "Herodotas buvo kilęs iš Halikarnaso, gimė apie 484 m. pr. Kr. ir mirė apie 400 m. pr. Kr."
   pagrindžia:
     - c-173597
 
 <a id="claim-t-190716"></a>
-- t-017
+- t-015
   global_id: t-190716
   teiginys: "Teodoro Narbuto manymu, Herodotas keliaudamas po Skitiją turėjo lankytis Kankinėje."
   pagrindžia:
     - c-173598
 
 <a id="claim-t-190717"></a>
-- t-018
+- t-016
   global_id: t-190717
   teiginys: "Herodotas IV knygoje rašė apie skitų kapus prie Molocho vandenų arba, kitų manymu, aukščiau kairiojo Dnepro kranto."
   pagrindžia:
     - c-173599
 
 <a id="claim-t-190718"></a>
-- t-019
+- t-017
   global_id: t-190718
   teiginys: "Teodoro Narbuto vertinimu, skitų istoriją būtų galima plėsti lyginant vietos tyrimus su Herodoto aprašymais."
   pagrindžia:
     - c-173600
 
 <a id="claim-t-190719"></a>
-- t-020
+- t-018
   global_id: t-190719
   teiginys: "Teodoras Narbutas Herodoto darbuose rado seniausių žinių apie Meotų jūrą."
   pagrindžia:
     - c-173601
 
 <a id="claim-t-190720"></a>
-- t-021
+- t-019
   global_id: t-190720
   teiginys: "Teodoro Narbuto vertinimu, Herodoto aprašymuose yra nemažai neaiškių vietų."
   pagrindžia:
     - c-173602
 
 <a id="claim-t-190721"></a>
-- t-022
+- t-020
   global_id: t-190721
   teiginys: "Teodoro Narbuto vertinimu, Herodoto žemėlapiai buvo mitologiniai, kosmografiniai, genealoginiai ir istoriniai, o ne tiksliai geografiniai."
   pagrindžia:
     - c-173603
 
 <a id="claim-t-190722"></a>
-- t-023
+- t-021
   global_id: t-190722
   teiginys: "Pasak Herodoto, budinai buvo didelė ir gausi tauta, turėjusi mėlynas akis ir geltonai pilkšvus plaukus."
   pagrindžia:
     - c-173604
 
 <a id="claim-t-192525"></a>
-- t-026
+- t-022
   global_id: t-192525
   teiginys: "Teodoras Narbutas nurodė iki tol rėmęsis Herodoto pasakojimu apie kelionę nuo Maetis ežero į žemyno gilumą."
   pagrindžia:
     - c-175313
 
 <a id="claim-t-194878"></a>
-- t-027
+- t-023
   global_id: t-194878
   teiginys: "Narbuto pamėgtuosius budinus: ,,<...> Herodoto budinai buvo venedų tauta, ir mums didelė pa guoda, jog jau tokiais ankstyvais amžiais toks patikimas rašytojas duoda mums akivaizdų atminimą senovinės tautos, kurią, protingai apsvarsčius visas galimybes, kiek."
   pagrindžia:
     - c-177274
 
 <a id="claim-t-194879"></a>
-- t-028
+- t-024
   global_id: t-194879
   teiginys: "Herodotas buvo teigiama, jog čia kalbama apie čigonus, tačiau šiandien to daryli jau nebegalima, nes jų istorija gerai žinoma'’1'."
   pagrindžia:

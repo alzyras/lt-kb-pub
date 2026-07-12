@@ -52,21 +52,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45355"></a>
-- t-003
+- t-001
   global_id: t-45355
   teiginys: "Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
   pagrindžia:
     - c-48209
 
 <a id="claim-t-45357"></a>
-- t-001
+- t-002
   global_id: t-45357
   teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
   pagrindžia:
     - c-48209
 
 <a id="claim-t-45357"></a>
-- t-001
+- t-003
   global_id: t-45357
   teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
   pagrindžia:

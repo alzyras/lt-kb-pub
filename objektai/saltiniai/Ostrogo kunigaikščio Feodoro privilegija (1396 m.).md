@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
-  - privilegija
   - saltinis
 amziai:
   - 'XIV'

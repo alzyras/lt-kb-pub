@@ -51,14 +51,14 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
     - c-64450
 
 <a id="claim-t-63417"></a>
-- t-003
+- t-002
   global_id: t-63417
   teiginys: "Dusburgietis pasakoja, kad 1308 m. Albrechtą nužudė jo vaikaitis Jonas, vadinamas Anlantu."
   pagrindžia:
     - c-64452
 
 <a id="claim-t-63418"></a>
-- t-002
+- t-003
   global_id: t-63418
   teiginys: "Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų."
   pagrindžia:

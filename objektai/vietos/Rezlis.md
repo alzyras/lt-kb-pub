@@ -40,21 +40,21 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 ## Teiginiai
 
 <a id="claim-t-58620"></a>
-- t-002
+- t-001
   global_id: t-58620
   teiginys: "Rezlis, dabartinis Rešelis, buvo į šiaurės rytus nuo Olštino, o jo vardas kildinamas iš prūsų kalbos."
   pagrindžia:
     - c-59253
 
 <a id="claim-t-58621"></a>
-- t-001
+- t-002
   global_id: t-58621
   teiginys: "Ordino broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio."
   pagrindžia:
     - c-167580
 
 <a id="claim-t-58621"></a>
-- t-001
+- t-003
   global_id: t-58621
   teiginys: "Ordino broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio."
   pagrindžia:

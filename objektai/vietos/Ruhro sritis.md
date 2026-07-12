@@ -12,6 +12,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sukilimas
   - valstybė
   - vieta
@@ -40,7 +41,7 @@ Didžiosios valstybės, kurios tuo metu buvo susidomėjusios vakarinės Vokietij
 ## Teiginiai
 
 <a id="claim-t-69178"></a>
-- t-002
+- t-001
   global_id: t-69178
   teiginys: "Tarptautinės bendruomenės dėmesys buvo nukrypęs į Vokietijos Ruhro sritį, kurią tuo metu okupavo prancūzų kariuomenė."
   pagrindžia:

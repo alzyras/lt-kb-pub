@@ -35,7 +35,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-07857"></a>
-- t-002
+- t-001
   global_id: t-07857
   teiginys: "Žemlionys vadinti ir vyčiais, nes turėjo vyti priešus gindamiesi arba gyveno vietoje, neklajodami su gyvuliais."
   pagrindžia:

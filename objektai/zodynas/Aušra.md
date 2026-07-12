@@ -35,7 +35,11 @@ Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų 
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188573|Konstantinas Sirvydas (kunigas, XVII a.)]]: Narbutas nurodo, kad kunigas Konstantinas Sirvydas Aušrą vadino Aurora.
 - susijęs iš [[objektai/zodynas/Bežlėja Vakarinė.md#claim-t-189280|Bežlėja Vakarinė]]: Pasak Lasickio, Bežlėja, kitaip Vakarinė, buvo vakaro deivė, kartu su Aušra tarnavusi saulei.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195368|Kūlimo jaujoje darbo tvarka]]: Po iškūlimo vyrai jaujoje guldavo miegoti iki aušros.
+- susijęs iš Vilniaus Aušros broma: Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
 - susijęs iš [[objektai/daiktai/Lininiai dirbiniai.md#claim-t-189687|Lininiai dirbiniai]]: Narbutas Alabatį vadina Linų Izide ir aiškina, kad ji globojo ne linų auginimą, o iš linų padarytus dirbinius.
+- susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
+- susijęs iš Čestakavas: Čestakavas minimas kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
 ## Reikšmingi paminėjimai
 
 - c-001

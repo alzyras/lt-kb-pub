@@ -37,7 +37,7 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
     - c-167138
 
 <a id="claim-t-40298"></a>
-- t-001
+- t-002
   global_id: t-40298
   teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
   pagrindžia:

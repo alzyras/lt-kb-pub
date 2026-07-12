@@ -63,28 +63,28 @@ Nenurodyta
     - c-169899
 
 <a id="claim-t-186618"></a>
-- t-006
+- t-002
   global_id: t-186618
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas paskyrė kanauninkus, apdovanojo bažnyčią turtais ir įsakė perkrikštyti Žemaitiją į krikščionių tikėjimą."
   pagrindžia:
     - c-169898
 
 <a id="claim-t-186619"></a>
-- t-005
+- t-003
   global_id: t-186619
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią."
   pagrindžia:
     - c-169898
 
 <a id="claim-t-186620"></a>
-- t-002
+- t-004
   global_id: t-186620
   teiginys: "Po Žalgirio mūšio 1413 m. buvo apkrikštyta Žemaitija, o 1417 m. įsteigta Žemaičių vyskupija."
   pagrindžia:
     - c-169900
 
 <a id="claim-t-186621"></a>
-- t-007
+- t-005
   global_id: t-186621
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas apkrikštijo visą Užnerio žemę ir įkūrė daug bažnyčių."
   pagrindžia:

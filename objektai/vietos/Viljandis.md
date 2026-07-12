@@ -37,28 +37,28 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
 ## Teiginiai
 
 <a id="claim-t-42274"></a>
-- t-002
+- t-001
   global_id: t-42274
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   pagrindžia:
     - c-45407
 
 <a id="claim-t-42275"></a>
-- t-001
+- t-002
   global_id: t-42275
   teiginys: "Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį."
   pagrindžia:
     - c-45408
 
 <a id="claim-t-185178"></a>
-- t-004
+- t-003
   global_id: t-185178
   teiginys: "Maskvėnai, žygiavę su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
   pagrindžia:
     - c-168539
 
 <a id="claim-t-193430"></a>
-- t-005
+- t-004
   global_id: t-193430
   teiginys: "Po magistro ir kiti riteriai prisiekė laikytis šių sąlygų; susitarimo raš tus patvirtino savo parašais, be magistro, dar du rite rių išrinkti vyrai: Henrikas Štendichas, Kuldygos kom tūras, ir Kristupas iš Viljandžio, krašto maršalas."
   pagrindžia:

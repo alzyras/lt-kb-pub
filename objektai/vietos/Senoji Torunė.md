@@ -16,7 +16,7 @@ tags:
   - miestas
   - ordinas
   - pilis
-  - privilegija
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -41,14 +41,14 @@ Dusburgietis teigia, kad senojoje Torunėje greta pilies augo miestas (gavęs pr
 ## Teiginiai
 
 <a id="claim-t-58634"></a>
-- t-002
+- t-001
   global_id: t-58634
   teiginys: "Senojoje Torunėje minimi septyni broliai veikiausiai buvo ne įgula, o 1231 m. Kulmo žemės puolime dalyvavę riteriai."
   pagrindžia:
     - c-59266
 
 <a id="claim-t-58635"></a>
-- t-001
+- t-002
   global_id: t-58635
   teiginys: "Senojoje Torunėje greta pilies augo miestas, 1233 m. gavęs privilegiją."
   pagrindžia:

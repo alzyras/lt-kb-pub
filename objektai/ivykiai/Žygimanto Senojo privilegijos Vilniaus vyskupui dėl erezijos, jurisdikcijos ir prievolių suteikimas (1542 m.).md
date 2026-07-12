@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - privilegija
   - ritualas
   - tikėjimas
+  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

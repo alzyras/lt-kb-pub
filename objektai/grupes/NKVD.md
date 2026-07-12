@@ -74,28 +74,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71677"></a>
-- t-016
+- t-001
   global_id: t-71677
   teiginys: "Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais."
   pagrindžia:
     - c-70212
 
 <a id="claim-t-71680"></a>
-- t-014
+- t-002
   global_id: t-71680
   teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
   pagrindžia:
     - c-70213
 
 <a id="claim-t-71681"></a>
-- t-017
+- t-003
   global_id: t-71681
   teiginys: "Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių."
   pagrindžia:
     - c-16639
 
 <a id="claim-t-193736"></a>
-- t-018
+- t-004
   global_id: t-193736
   teiginys: "Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą."
   pagrindžia:

@@ -55,14 +55,14 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     - c-168720
 
 <a id="claim-t-185361"></a>
-- t-006
+- t-005
   global_id: t-185361
   teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams."
   pagrindžia:
     - c-168722
 
 <a id="claim-t-193380"></a>
-- t-007
+- t-006
   global_id: t-193380
   teiginys: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija."
   pagrindžia:

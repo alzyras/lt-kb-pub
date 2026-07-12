@@ -56,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86930"></a>
-- t-002
+- t-001
   global_id: t-86930
   teiginys: "1855 m. Aleksandrui II pradėjus liberalias reformas, krašto šviesuomenė tikėjosi atkurti iki 1830-1831 m. sukilimo klestėjusį Vilniaus universitetą."
   pagrindžia:
     - c-82910
 
 <a id="claim-t-86931"></a>
-- t-001
+- t-002
   global_id: t-86931
   teiginys: "Po 1830-1831 m. sukilimo uždarius Vilniaus universitetą, nemažai išsilavinusių žmonių išvyko į Lenkijos ar Rusijos miestus."
   pagrindžia:

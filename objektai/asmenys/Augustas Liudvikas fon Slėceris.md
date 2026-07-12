@@ -42,35 +42,35 @@ Slėceris skitų gintaro pavadinimą skaitė kaip satrium ir šį žodį prilygi
     - c-173997
 
 <a id="claim-t-191117"></a>
-- t-003
+- t-002
   global_id: t-191117
   teiginys: "Narbutas rašo, kad Slėceris juoko vertu dalyku laikė krivičių siejimą su prūsų vyriausiuoju kunigu."
   pagrindžia:
     - c-173999
 
 <a id="claim-t-191118"></a>
-- t-004
+- t-003
   global_id: t-191118
   teiginys: "Narbutas rašo, kad Slėceris prūsų ir slavų kalbas skelbė esančias antro giminystės laipsnio."
   pagrindžia:
     - c-174000
 
 <a id="claim-t-191119"></a>
-- t-005
+- t-004
   global_id: t-191119
   teiginys: "Slėceris darė prielaidą, kad Otaitos, Peru ir Meksikos gyventojų žemesnis išsivystymas iš dalies siejosi su raitos medžioklės nežinojimu."
   pagrindžia:
     - c-174001
 
 <a id="claim-t-191120"></a>
-- t-006
+- t-005
   global_id: t-191120
   teiginys: "Narbutas gina Slėcerį nuo kaltinimo melavimu, aiškindamas, kad jis galėjo remtis gerais senovės šaltiniais apie Baltiją."
   pagrindžia:
     - c-174002
 
 <a id="claim-t-191942"></a>
-- t-007
+- t-006
   global_id: t-191942
   teiginys: "Narbutas rašo, kad Slėceris keliautojų patiriamus žinių rinkimo sunkumus priskyrė kliūtims, trukdančioms aiškintis geografinius vaizdinius."
   pagrindžia:

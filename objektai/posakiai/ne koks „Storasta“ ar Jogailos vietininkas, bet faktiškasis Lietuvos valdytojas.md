@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - formulė
   - posakis
   - valstybė
 media_total_count: '0'

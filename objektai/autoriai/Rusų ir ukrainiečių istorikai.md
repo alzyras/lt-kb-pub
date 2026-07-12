@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -40,14 +41,14 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
 ## Teiginiai
 
 <a id="claim-t-47895"></a>
-- t-002
+- t-001
   global_id: t-47895
   teiginys: "E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas."
   pagrindžia:
     - c-50252
 
 <a id="claim-t-47897"></a>
-- t-004
+- t-002
   global_id: t-47897
   teiginys: "Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis."
   pagrindžia:
@@ -61,7 +62,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-30850
 
 <a id="claim-t-47899"></a>
-- t-007
+- t-004
   global_id: t-47899
   teiginys: "M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų."
   pagrindžia:
@@ -75,7 +76,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
     - c-30852
 
 <a id="claim-t-47901"></a>
-- t-001
+- t-006
   global_id: t-47901
   teiginys: "Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   pagrindžia:

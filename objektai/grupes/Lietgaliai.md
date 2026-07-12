@@ -30,21 +30,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-31267"></a>
-- t-002
+- t-001
   global_id: t-31267
   teiginys: "Istorijos priešaušryje lietgalių žemėse turėjo būti gana daug atskirų sričių kunigų."
   pagrindžia:
     - c-33309
 
 <a id="claim-t-31268"></a>
-- t-003
+- t-002
   global_id: t-31268
   teiginys: "Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų."
   pagrindžia:
     - c-31173
 
 <a id="claim-t-184331"></a>
-- t-004
+- t-003
   global_id: t-184331
   teiginys: "Net tarp vienkiemius mėgusių lietgalių rasta kuopinių kaimų."
   pagrindžia:

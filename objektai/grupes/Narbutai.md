@@ -46,7 +46,7 @@ Lietuvių bajorų giminė, minima Teodoro Narbuto biografiniame kontekste.
 ## Teiginiai
 
 <a id="claim-t-188013"></a>
-- t-002
+- t-001
   global_id: t-188013
   teiginys: "Narbutai įvadiniame straipsnyje vadinami sena lietuvių bajorų gimine, dokumentuose minima nuo Horodlės unijos laikų."
   pagrindžia:

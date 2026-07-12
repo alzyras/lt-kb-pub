@@ -55,14 +55,14 @@ Pilis liko nepaimta.
 ## Teiginiai
 
 <a id="claim-t-70947"></a>
-- t-002
+- t-001
   global_id: t-70947
   teiginys: "1290 m. balandžio 23 d. Meinhardas su 500 raitelių ir 2 tūkst. pėstininkų puolė Kolainių pilį, kurią gynė Surminas su 120 vyrų."
   pagrindžia:
     - c-69731
 
 <a id="claim-t-70948"></a>
-- t-003
+- t-002
   global_id: t-70948
   teiginys: "Kolainių apgula nutrūko, kai sargybos raitelių triukšmo išgąsdinti paprasti kariai pabėgo prie laivų."
   pagrindžia:

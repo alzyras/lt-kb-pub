@@ -41,35 +41,35 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
 ## Teiginiai
 
 <a id="claim-t-60862"></a>
-- t-007
+- t-001
   global_id: t-60862
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Bebirvaitės pilį lokalizuojančių prie Bebirvyčio upelio netoli Bebirvų kaimo."
   pagrindžia:
     - c-61498
 
 <a id="claim-t-60863"></a>
-- t-003
+- t-002
   global_id: t-60863
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ remiama nustatant Paštuvos valsčiaus centro, Paštuvos pilies, vietą."
   pagrindžia:
     - c-61500
 
 <a id="claim-t-60864"></a>
-- t-008
+- t-003
   global_id: t-60864
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima lyginant Ordino pilies vietą prie Maštaičių piliakalnio."
   pagrindžia:
     - c-61497
 
 <a id="claim-t-60865"></a>
-- t-001
+- t-004
   global_id: t-60865
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Kolainių pilį siejančių su Kalnėnais į vakarus nuo Jurbarko."
   pagrindžia:
     - c-61499
 
 <a id="claim-t-60866"></a>
-- t-004
+- t-005
   global_id: t-60866
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, Pieštvės pilį lokalizuojančių Seredžiaus vakariniame pakraštyje prie Pieštvės upelio."
   pagrindžia:
@@ -83,14 +83,14 @@ Dusburgietis teigia, kad nuo Jurbarko (Zajączkowski S., Studya..., p. 36—37; 
     - c-61501
 
 <a id="claim-t-60868"></a>
-- t-005
+- t-007
   global_id: t-60868
   teiginys: "Zajączkowskio veikalas nurodomas tarp šaltinių, patikimiau lokalizuojančių minimą vietą buvusioje Pagraudės teritorijoje prie Graumenos."
   pagrindžia:
     - c-61494
 
 <a id="claim-t-60869"></a>
-- t-002
+- t-008
   global_id: t-60869
   teiginys: "S. Zajączkowskio „Studya nad dziejami Żmudzi wieku XIII“ minima aiškinant, kad Junigedos valsčiaus centras buvo Veliuona."
   pagrindžia:

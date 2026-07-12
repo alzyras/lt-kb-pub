@@ -9,7 +9,7 @@ tags:
   - bajorija
   - kunigaikštis
   - paprotys
-  - privilegija
+  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54263"></a>
-- t-002
+- t-001
   global_id: t-54263
   teiginys: "Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a."
   pagrindžia:

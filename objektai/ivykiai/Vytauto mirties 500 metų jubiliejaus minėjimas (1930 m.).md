@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - kunigaikštis
   - tauta
-  - valdovas
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66989"></a>
-- t-002
+- t-001
   global_id: t-66989
   teiginys: "Vytauto Didžiojo mirties 500-ųjų metinių komitetas nutarė Kaune pastatyti Vytauto Didžiojo karo muziejų kaip atminimo panteoną."
   pagrindžia:
     - c-67069
 
 <a id="claim-t-66990"></a>
-- t-001
+- t-002
   global_id: t-66990
   teiginys: "1930 m. iškilmingai pažymėtas Vytauto mirties 500 metų jubiliejus."
   pagrindžia:

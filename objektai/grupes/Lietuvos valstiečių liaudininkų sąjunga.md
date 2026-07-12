@@ -41,77 +41,77 @@ Kairysis valstiečių liaudininkų blokas (vėliau Lietuvos valstiečių liaudin
 ## Teiginiai
 
 <a id="claim-t-101466"></a>
-- t-002
+- t-001
   global_id: t-101466
   teiginys: "1926 m. birželį valstiečiai liaudininkai ir socialdemokratai pirmą kartą suformavo kairiąją valdančiąją koaliciją."
   pagrindžia:
     - c-22644
 
 <a id="claim-t-101467"></a>
-- t-005
+- t-002
   global_id: t-101467
   teiginys: "Krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos parengimo."
   pagrindžia:
     - c-22647
 
 <a id="claim-t-101468"></a>
-- t-011
+- t-003
   global_id: t-101468
   teiginys: "Krikščionys demokratai ir liaudininkai reikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį."
   pagrindžia:
     - c-22649
 
 <a id="claim-t-101469"></a>
-- t-001
+- t-004
   global_id: t-101469
   teiginys: "Kairysis valstiečių liaudininkų blokas, vėliau tapęs Lietuvos valstiečių liaudininkų sąjunga, 1920 m. rinkimuose gavo 29 vietas."
   pagrindžia:
     - c-22643
 
 <a id="claim-t-101470"></a>
-- t-009
+- t-005
   global_id: t-101470
   teiginys: "Priėmus Lenkijos ultimatumą valstiečių liaudininkų ir krikščionių demokratų lyderiai pradėjo tartis dėl bendros programos."
   pagrindžia:
     - c-22647
 
 <a id="claim-t-101471"></a>
-- t-004
+- t-006
   global_id: t-101471
   teiginys: "Kairė laikėsi liaudininko M. Sleževičiaus šūkio, kad kova tęsis, kol bus sušauktas Seimas."
   pagrindžia:
     - c-22646
 
 <a id="claim-t-101472"></a>
-- t-010
+- t-007
   global_id: t-101472
   teiginys: "Liaudininkas Mykolas Sleževičius skelbė, kad kova tęsis, kol bus sušauktas Seimas."
   pagrindžia:
     - c-22646
 
 <a id="claim-t-101473"></a>
-- t-007
+- t-008
   global_id: t-101473
   teiginys: "1940 m. birželio 15-osios naktį liaudininkai ir krikščionys demokratai pareikalavo vietoje Antano Merkio premjeru skirti Stasį Raštikį."
   pagrindžia:
     - c-22649
 
 <a id="claim-t-101474"></a>
-- t-008
+- t-009
   global_id: t-101474
   teiginys: "Priėmus Lenkijos ultimatumą prasidėjo krikščionių demokratų ir valstiečių liaudininkų lyderių pasitarimai dėl bendros programos."
   pagrindžia:
     - c-22647
 
 <a id="claim-t-101475"></a>
-- t-003
+- t-010
   global_id: t-101475
   teiginys: "Spaudžiamas perversmininkų Kazys Grinius, gavęs valstiečių liaudininkų vadovybės pritarimą, atstatydino Mykolo Sleževičiaus vyriausybę."
   pagrindžia:
     - c-22645
 
 <a id="claim-t-101476"></a>
-- t-006
+- t-011
   global_id: t-101476
   teiginys: "Po Klaipėdos atplėšimo liaudininkai Jono Černiaus „vieningo darbo“ vyriausybėje gavo dvi ministrų vietas."
   pagrindžia:

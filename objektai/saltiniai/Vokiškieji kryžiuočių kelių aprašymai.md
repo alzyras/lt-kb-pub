@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - pilis
   - saltinis
+  - šventė
   - žemėlapis
 amziai:
   - 'XIV'
@@ -37,28 +38,28 @@ Dusburgietis teigia, kad 1384 m. kelio iš Įsruties į Marienverderį (prie Kau
 ## Teiginiai
 
 <a id="claim-t-60930"></a>
-- t-005
+- t-001
   global_id: t-60930
   teiginys: "Vaikių valsčius įtikimiau lokalizuojamas į rytus nuo Viduklės, kur kryžiuočių kelių aprašymuose minimi lant Wayke ir Waykowsoppe."
   pagrindžia:
     - c-61562
 
 <a id="claim-t-60931"></a>
-- t-003
+- t-002
   global_id: t-60931
   teiginys: "XIV a. pabaigos kryžiuočių kelių į Lietuvą aprašymuose Sešuvis vadintas Sessow, Sassow ir panašiomis formomis."
   pagrindžia:
     - c-61564
 
 <a id="claim-t-60932"></a>
-- t-001
+- t-003
   global_id: t-60932
   teiginys: "1384 m. kelio iš Įsruties į Marienverderį prie Kauno aprašyme minimas vedlys iš Nerwekiten ir kelias czu Kattow."
   pagrindžia:
     - c-61565
 
 <a id="claim-t-60933"></a>
-- t-002
+- t-004
   global_id: t-60933
   teiginys: "Vokiškuose kryžiuočių kelių aprašymuose Ragainė minima formomis Rangith, Rangnit, Rangnith, Rangit ir Ragnit."
   pagrindžia:

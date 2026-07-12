@@ -30,7 +30,7 @@ Dusburgietis teigia, kad šie, nužygiavę į dykras, plytinčias tarp dviejų u
 ## Teiginiai
 
 <a id="claim-t-58589"></a>
-- t-002
+- t-001
   global_id: t-58589
   teiginys: "Lukas vėliau vadintas vokišku Lyck, o dabar tapatinamas su Elku, dešiniuoju Bebro intaku."
   pagrindžia:

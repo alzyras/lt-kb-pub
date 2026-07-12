@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Teiginiai
 
 <a id="claim-t-59930"></a>
-- t-004
+- t-001
   global_id: t-59930
   teiginys: "Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės."
   pagrindžia:
@@ -62,14 +62,14 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
     - c-60566
 
 <a id="claim-t-59933"></a>
-- t-005
+- t-004
   global_id: t-59933
   teiginys: "Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes."
   pagrindžia:
     - c-60564
 
 <a id="claim-t-59934"></a>
-- t-001
+- t-005
   global_id: t-59934
   teiginys: "Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę."
   pagrindžia:

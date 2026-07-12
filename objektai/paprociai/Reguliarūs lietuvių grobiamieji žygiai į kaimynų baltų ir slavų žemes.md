@@ -49,7 +49,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09528"></a>
-- t-004
+- t-001
   global_id: t-09528
   teiginys: "1183 m. užfiksuotas pirmasis žinomas lietuvių reidas į Pskovo žemes."
   pagrindžia:

@@ -30,14 +30,14 @@ Su panašiomis problemomis susidūrė ir kitos pokomunistinės valstybės. Prezi
 ## Teiginiai
 
 <a id="claim-t-70034"></a>
-- t-002
+- t-001
   global_id: t-70034
   teiginys: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje."
   pagrindžia:
     - c-69173
 
 <a id="claim-t-183453"></a>
-- t-003
+- t-002
   global_id: t-183453
   teiginys: "Kitos pokomunistinės valstybės, kaip ir atsikūrusi Lietuva, turėjo vytis Vakarus ir perimti daugybę naujovių."
   pagrindžia:

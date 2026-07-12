@@ -62,7 +62,7 @@ Nenurodyta
     - c-167328
 
 <a id="claim-t-62392"></a>
-- t-002
+- t-003
   global_id: t-62392
   teiginys: "Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį."
   pagrindžia:

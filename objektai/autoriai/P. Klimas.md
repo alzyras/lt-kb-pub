@@ -53,35 +53,35 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 ## Teiginiai
 
 <a id="claim-t-00063"></a>
-- t-007
+- t-001
   global_id: t-00063
   teiginys: "P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą."
   pagrindžia:
     - c-00089
 
 <a id="claim-t-00067"></a>
-- t-008
+- t-002
   global_id: t-00067
   teiginys: "P. Klimas buvo Vykdomojo Komiteto biuro narys."
   pagrindžia:
     - c-00132
 
 <a id="claim-t-00068"></a>
-- t-009
+- t-003
   global_id: t-00068
   teiginys: "P. Klimas buvo Lietuvos Tarybos narys."
   pagrindžia:
     - c-00133
 
 <a id="claim-t-93049"></a>
-- t-011
+- t-004
   global_id: t-93049
   teiginys: "1928 m. išėjo septintasis P. Klimo „Lietuvių kalbos sintaksės“ leidimas."
   pagrindžia:
     - c-36683
 
 <a id="claim-t-00063"></a>
-- t-007
+- t-005
   global_id: t-00063
   teiginys: "P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą."
   pagrindžia:

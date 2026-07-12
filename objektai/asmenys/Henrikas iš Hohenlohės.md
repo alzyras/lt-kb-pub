@@ -39,14 +39,14 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
 ## Teiginiai
 
 <a id="claim-t-59969"></a>
-- t-004
+- t-001
   global_id: t-59969
   teiginys: "Henriko iš Hohenlohės pranešime pirmojo prūsų sukilimo pradžios kariuomenė įvardyta kaip „lietuviai ir prūsai“."
   pagrindžia:
     - c-60602
 
 <a id="claim-t-59970"></a>
-- t-001
+- t-002
   global_id: t-59970
   teiginys: "Henrikas iš Hohenlohės buvo Ordino magistras 1244–1249 metais."
   pagrindžia:
@@ -60,7 +60,7 @@ Dusburgietis teigia, kad sitai, rodos, leistų manyti, kad minimas Hermanas iš 
     - c-60604
 
 <a id="claim-t-59972"></a>
-- t-002
+- t-004
   global_id: t-59972
   teiginys: "Henrikas iš Hohenlohės buvo vėlesnis didysis magistras, kurio kanceliarijoje redaguotas „Pranešimas“."
   pagrindžia:

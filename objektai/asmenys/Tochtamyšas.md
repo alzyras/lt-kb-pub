@@ -39,14 +39,14 @@ Vytautas pažadėjo grąžinti jam sostą, o Tochtamyšas už tai pažadėjo ats
 ## Teiginiai
 
 <a id="claim-t-51184"></a>
-- t-002
+- t-001
   global_id: t-51184
   teiginys: "Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą."
   pagrindžia:
     - c-36521
 
 <a id="claim-t-51185"></a>
-- t-001
+- t-002
   global_id: t-51185
   teiginys: "Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą."
   pagrindžia:

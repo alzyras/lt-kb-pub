@@ -37,14 +37,14 @@ Tiksli Naujųjų Trakų įkūrimo data nežinoma. Naujųjų Trakų data lyginama
 ## Teiginiai
 
 <a id="claim-t-187269"></a>
-- t-002
+- t-001
   global_id: t-187269
   teiginys: "Tiksli Naujųjų Trakų, kaip ir Senųjų Trakų, įkūrimo data nurodoma kaip nežinoma."
   pagrindžia:
     - c-170322
 
 <a id="claim-t-187270"></a>
-- t-001
+- t-002
   global_id: t-187270
   teiginys: "Tiksli Naujųjų Trakų įkūrimo data nežinoma."
   pagrindžia:

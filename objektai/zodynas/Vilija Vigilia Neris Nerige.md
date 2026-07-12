@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - krikštas
-  - privilegija
   - sąvoka
   - upė
 amziai:
@@ -40,28 +39,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86445"></a>
-- t-002
+- t-001
   global_id: t-86445
   teiginys: "1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai Vilija buvo pavadinta Vigilia."
   pagrindžia:
     - c-82424
 
 <a id="claim-t-86446"></a>
-- t-001
+- t-002
   global_id: t-86446
   teiginys: "Vilijos vardas, jei jo kilmė lietuviška, gali būti siejamas su žodžiais „vilioju“ arba „vylius“, todėl reikštų „Vilioklė“."
   pagrindžia:
     - c-82427
 
 <a id="claim-t-86447"></a>
-- t-004
+- t-003
   global_id: t-86447
   teiginys: "Vilija seniau vadinta Neris arba Neria, nes, autoriaus manymu, upė išrausė gilią vagą ir suformavo aukštas smėlingas pakrantes."
   pagrindžia:
     - c-82426
 
 <a id="claim-t-86448"></a>
-- t-003
+- t-004
   global_id: t-86448
   teiginys: "Kryžiuočių archyvo senajame Lietuvos kelių aprašyme minima Nerige yra dabartinė Vilija."
   pagrindžia:

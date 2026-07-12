@@ -59,7 +59,7 @@ Nenurodyta
     - c-167365
 
 <a id="claim-t-59696"></a>
-- t-001
+- t-002
   global_id: t-59696
   teiginys: "Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis."
   pagrindžia:

@@ -41,7 +41,7 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
     - c-170433
 
 <a id="claim-t-187454"></a>
-- t-004
+- t-002
   global_id: t-187454
   teiginys: "Platesnysis Lietuvos metraščių sąvadas Palemoną vaizduoja kaip Nerono giminaitį ir į šiaurę pabėgusių romėnų „bajorų“ vadovą."
   pagrindžia:

@@ -36,21 +36,21 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
 ## Teiginiai
 
 <a id="claim-t-90366"></a>
-- t-003
+- t-001
   global_id: t-90366
   teiginys: "1294 m. žiemą viena Ordino kariuomenės dalis patraukė į Gaižuvos valsčių ir kartu su kita dalimi nusiaubė Gaižuvą bei Paštuvą."
   pagrindžia:
     - c-86227
 
 <a id="claim-t-90367"></a>
-- t-001
+- t-002
   global_id: t-90367
   teiginys: "Magistras Meinhardas su šimtu brolių ir daugybe raitelių įsiveržė į Gaižuvos ir Paštuvos valsčius ir juos niokojo gaisrais."
   pagrindžia:
     - c-86228
 
 <a id="claim-t-90368"></a>
-- t-004
+- t-003
   global_id: t-90368
   teiginys: "1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių."
   pagrindžia:

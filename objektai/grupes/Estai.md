@@ -16,6 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - redaktorius
   - tauta
 amziai:
   - 'XIII'
@@ -126,7 +127,10 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - susijęs iš [[objektai/zodynas/Lietuva Lietwii kaip laisvės ženklas.md#claim-t-189116|Lietuva Lietwii kaip laisvės ženklas]]: Narbutas Lietuvą (Liethua) apibūdino kaip laisvės, malonumų ir džiaugsmo deivę, siejamą su lietuviais, latviais ir estais.
 - susijęs iš [[objektai/zodynas/Litalain.md#claim-t-192182|Litalain]]: Narbutas aiškina, kad žodžiu „Litalain“ estai prie Peipaus ežero supranta Lietuvos dalį, sudariusią Ukmergės apskritį.
 - susijęs iš [[objektai/zodynas/Vidivarijai.md#claim-t-54797|Vidivarijai]]: Vidivarijų vardas siejamas su nauja pasienio tauta, atsiradusia maišantis venedams, estams ir gotams.
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195566|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: Toje kelionėje A. R. Niemis rinko estų liaudies dainas.
 - susijęs iš [[objektai/posakiai/Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą.md#claim-t-192118|Turbūt tas pats karalius Germanarikas savo išmintimi užėmė ilgą Vokiečių okeano pakrantės kraštą ir pavergė estų tautą]]: Narbutas, remdamasis Jordanu, pateikia pasakojimą, kad Rytų gotų valdovas Germanarikas užėmė Vokiečių okeano pakrantę ir pavergė estus.
+- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
 - susijęs iš [[objektai/zodynas/Litalain.md#claim-t-192180|Litalain]]: Narbutas aiškina, kad prie Peipaus ežero gyvenantys estai lietuvius vadina „Litalain“.
 - susijęs iš [[objektai/asmenys/Burchardas iš Hornhauzeno.md#claim-t-60094|Burchardas iš Hornhauzeno]]: Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.
 - susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-116281|Henrikas Botelis]]: Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.
@@ -197,6 +201,11 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - susijęs iš [[objektai/zodynas/etnografinės ribos etnografinis principas.md#claim-t-183422|etnografinės ribos etnografinis principas]]: Lietuvos delegacija sienų klausimu turėjo remtis etnografiniu principu ir būtiniausiomis ekonominėmis korektyvomis.
 - susijęs iš [[objektai/asmenys/Kasiodoras.md#claim-t-191288|Kasiodoras]]: Jordanas, Narbuto aiškinimu, daugiausia rėmėsi Kasiodoru ir minėjo pajūryje gyvenusius estus.
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190835|Adomas Bremenietis]]: Adomas Bremenietis, aprašydamas Baltijos jūros kraštus, minėjo didžiulę salą, vadinamą Estlandija.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195256|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195257|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: 1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius.
+- susijęs iš Lietuvių liaudies dainų tyrinėjimai: Veikalas „Lietuvių liaudies dainų tyrinėjimai“ siejamas su A. R. Niemio 1910-1912 m. atliktu Lietuvių mokslo draugijos archyvo dainų katalogavimu, vadovaujant J. Basanavičiui.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
+- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 ## Reikšmingi paminėjimai
 

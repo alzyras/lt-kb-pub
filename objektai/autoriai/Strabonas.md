@@ -35,21 +35,21 @@ Narbutas rašė, kad Herodotas ir Strabonas egiptiečius bei finikiečius laikė
     - c-173337
 
 <a id="claim-t-190794"></a>
-- t-003
+- t-002
   global_id: t-190794
   teiginys: "Teodoras Narbutas mini spėjimą, kad šališkas aiškintojas Strabonas Pytejui priskyrė svetimos medžiagos."
   pagrindžia:
     - c-173676
 
 <a id="claim-t-190795"></a>
-- t-004
+- t-003
   global_id: t-190795
   teiginys: "Teodoras Narbutas Straboną mini tarp autorių, kalbėjusių apie vandens lygio kritimą ir pateikusių to įrodymų."
   pagrindžia:
     - c-173677
 
 <a id="claim-t-194890"></a>
-- t-005
+- t-004
   global_id: t-194890
   teiginys: "Strabonas pasuko į pietus, įplaukė į Baltijos jūrą, atplaukė ¡prie gintaringų 1 Strabo."
   pagrindžia:

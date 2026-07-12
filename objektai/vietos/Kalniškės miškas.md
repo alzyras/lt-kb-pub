@@ -39,28 +39,28 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
 ## Teiginiai
 
 <a id="claim-t-171634"></a>
-- t-004
+- t-001
   global_id: t-171634
   teiginys: "1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas."
   pagrindžia:
     - c-156116
 
 <a id="claim-t-171635"></a>
-- t-001
+- t-002
   global_id: t-171635
   teiginys: "1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams."
   pagrindžia:
     - c-156117
 
 <a id="claim-t-171636"></a>
-- t-002
+- t-003
   global_id: t-171636
   teiginys: "Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas."
   pagrindžia:
     - c-156119
 
 <a id="claim-t-171638"></a>
-- t-003
+- t-004
   global_id: t-171638
   teiginys: "Kalniškės miškas yra apie 3–4 km pločio ir 8 km ilgio mišrus miškas, kuriame 1945 m. įvyko Kalniškės mūšis."
   pagrindžia:

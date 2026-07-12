@@ -37,7 +37,7 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
 ## Teiginiai
 
 <a id="claim-t-75475"></a>
-- t-002
+- t-001
   global_id: t-75475
   teiginys: "1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą."
   pagrindžia:
@@ -51,7 +51,7 @@ Voldemarui pavyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėj
     - c-23876
 
 <a id="claim-t-75476"></a>
-- t-001
+- t-003
   global_id: t-75476
   teiginys: "1927 m. rugsėjo 27 d. Augustinas Voldemaras pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
   pagrindžia:

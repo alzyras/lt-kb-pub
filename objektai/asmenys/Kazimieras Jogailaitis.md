@@ -44,126 +44,126 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
 ## Teiginiai
 
 <a id="claim-t-82504"></a>
-- t-011
+- t-001
   global_id: t-82504
   teiginys: "Kazimieras Jogailaitis, dar būdamas didžiuoju kunigaikščiu, atleido Vilniaus miestiečius nuo muito visoje Lietuvoje."
   pagrindžia:
     - c-78982
 
 <a id="claim-t-82505"></a>
-- t-020
+- t-002
   global_id: t-82505
   teiginys: "Kazimiero karaliavimas Lenkijoje ir jo santykiai su."
   pagrindžia:
     - c-78987
 
 <a id="claim-t-82506"></a>
-- t-009
+- t-003
   global_id: t-82506
   teiginys: "Kazimieras Jogailaitis, pašauktas į Lenkijos sostą, nepanoro Didžiosios Kunigaikštystės valdyti per vietininką."
   pagrindžia:
     - c-78985
 
 <a id="claim-t-82507"></a>
-- t-018
+- t-004
   global_id: t-82507
   teiginys: "A. Šapokos redaguotoje „Lietuvos istorijoje“ Kazimiero Jogailaičio laikai 1440–1492 m. vadinami pereinamuoju laikotarpiu."
   pagrindžia:
     - c-78984
 
 <a id="claim-t-82508"></a>
-- t-023
+- t-005
   global_id: t-82508
   teiginys: "1454 m. prieš Ordino valdžią sukilę miestai, bajorija ir vyskupai pasidavė Lenkijos karaliui Kazimierui Jogailaičiui."
   pagrindžia:
     - c-78986
 
 <a id="claim-t-82509"></a>
-- t-012
+- t-006
   global_id: t-82509
   teiginys: "Kazimieras Jogailaitis mirė 1492 metų birželio 7 dieną, susirgęs kelyje iš Vilniaus į Trakus."
   pagrindžia:
     - c-78977
 
 <a id="claim-t-82511"></a>
-- t-010
+- t-007
   global_id: t-82511
   teiginys: "Kazimieras Jogailaitis 1441 metais Brastoje išleista privilegija atnaujino Vilniui Magdeburgo teises."
   pagrindžia:
     - c-78976
 
 <a id="claim-t-82512"></a>
-- t-024
+- t-008
   global_id: t-82512
   teiginys: "Kazimieras Jogailaitis turėjo 6 sūnus ir 5 dukteris."
   pagrindžia:
     - c-78983
 
 <a id="claim-t-82513"></a>
-- t-022
+- t-009
   global_id: t-82513
   teiginys: "Nuo Kazimiero Jogailaičio Lietuvos valdovais buvo renkami Jogailos palikuonys, todėl jo šeima jautėsi turinti sosto paveldėjimo teisių."
   pagrindžia:
     - c-78979
 
 <a id="claim-t-82514"></a>
-- t-019
+- t-010
   global_id: t-82514
   teiginys: "Kazimieras Jogailaitis 1440 m. buvo išrinktas didžiuoju Lietuvos kunigaikščiu."
   pagrindžia:
     - c-78978
 
 <a id="claim-t-184749"></a>
-- t-013
+- t-011
   global_id: t-184749
   teiginys: "Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti."
   pagrindžia:
     - c-168110
 
 <a id="claim-t-184750"></a>
-- t-014
+- t-012
   global_id: t-184750
   teiginys: "Vilniaus šv. Stanislovo katedroje maršalas paskelbė Kazimierą Jogailaitį Lietuvos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-168111
 
 <a id="claim-t-184751"></a>
-- t-015
+- t-013
   global_id: t-184751
   teiginys: "Kazimieras Jogailaitis, užėmęs Smolensko pilį, paliko joje vietininku Andrių Sakavičių."
   pagrindžia:
     - c-168112
 
 <a id="claim-t-184752"></a>
-- t-016
+- t-014
   global_id: t-184752
   teiginys: "Kazimieras Jogailaitis skubiai patraukė į Severską, atsiėmė užgrobtas pilis ir išvijo Mykolą iš visų žemių."
   pagrindžia:
     - c-168113
 
 <a id="claim-t-184753"></a>
-- t-017
+- t-015
   global_id: t-184753
   teiginys: "Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi."
   pagrindžia:
     - c-168114
 
 <a id="claim-t-184754"></a>
-- t-018
+- t-016
   global_id: t-184754
   teiginys: "Kazimieras Jogailaitis įsitraukė į karą dėl Podolės ir nurodė sūnui Jonui Olbrachtui pavaduoti karalių karo stovykloje."
   pagrindžia:
     - c-168115
 
 <a id="claim-t-193935"></a>
-- t-025
+- t-017
   global_id: t-193935
   teiginys: "Ir karalaičiui Kazimierui labai pa tiko, nes jis labai mėgo medžioklę."
   pagrindžia:
     - c-176560
 
 <a id="claim-t-193936"></a>
-- t-026
+- t-018
   global_id: t-193936
   teiginys: "Kazimieras su sūnumis A lbertu ir Aleksandru išvyko iš Kro kuvos 1485.V.18."
   pagrindžia:

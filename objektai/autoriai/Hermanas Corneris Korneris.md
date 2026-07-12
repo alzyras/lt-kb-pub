@@ -40,14 +40,14 @@ Hermano C o r neri o, dominikono, Kroniką, Naruševi­ čiau s t. Tas pareiški
 ## Teiginiai
 
 <a id="claim-t-88025"></a>
-- t-002
+- t-001
   global_id: t-88025
   teiginys: "Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
   pagrindžia:
     - c-84005
 
 <a id="claim-t-88026"></a>
-- t-001
+- t-002
   global_id: t-88026
   teiginys: "Dominikonas Hermanas Corneris kronikoje rašė, kad Vilniaus miestiečiai buvo palankesni Jogailai."
   pagrindžia:

@@ -53,7 +53,7 @@ Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European pol
     - c-22194
 
 <a id="claim-t-64847"></a>
-- t-001
+- t-003
   global_id: t-64847
   teiginys: "A. E. Sennas buvo vienas knygos „Lithuania in European Politics: The Years of the First Republic, 1918–1940“, išleistos Niujorke 1997 m., autorių."
   pagrindžia:

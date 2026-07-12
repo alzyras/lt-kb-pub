@@ -61,14 +61,14 @@ Vartojama kaip termininis posakis apie pradėjimą nuo ištakų ar pradinio taš
     - c-175111
 
 <a id="claim-t-192295"></a>
-- t-003
+- t-002
   global_id: t-192295
   teiginys: "Narbutas nurodė: Anoniminis recenzentas „ab ovo“ vartojo kaip pradėjimo nuo Lietuvos ištakų vaizdinį."
   pagrindžia:
     - c-175110
 
 <a id="claim-t-192296"></a>
-- t-002
+- t-003
   global_id: t-192296
   teiginys: "Narbutas „ab ovo“ vartoja kalbėdamas apie pasakojimą nuo tautos kilmės iki 1569 m. susijungimo su Lenkija."
   pagrindžia:

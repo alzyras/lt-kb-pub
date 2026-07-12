@@ -10,7 +10,9 @@ date_start: '1797'
 date_end: '1815'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - teisinis-terminas
 amziai:
   - 'XVIII'
   - 'XIX'

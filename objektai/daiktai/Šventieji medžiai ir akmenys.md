@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -62,7 +63,7 @@ Nenurodyta
     - c-166694
 
 <a id="claim-t-19618"></a>
-- t-001
+- t-002
   global_id: t-19618
   teiginys: "Lietuvoje daug vietovių, kalnų, miškų, medžių ir akmenų turi Perkūno vardą."
   pagrindžia:

@@ -38,7 +38,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
 ## Teiginiai
 
 <a id="claim-t-58383"></a>
-- t-003
+- t-001
   global_id: t-58383
   teiginys: "Anzelmas, Varmės vyskupas ir Teutonų ordino brolis, pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje."
   pagrindžia:
@@ -52,7 +52,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
     - c-59018
 
 <a id="claim-t-58385"></a>
-- t-001
+- t-003
   global_id: t-58385
   teiginys: "Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys."
   pagrindžia:

@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - reforma
   - seimas
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -42,56 +42,56 @@ Per suvažiavimą išrinktas 220 narių seimas, jo tarybos pirmininku lapkričio
 ## Teiginiai
 
 <a id="claim-t-170245"></a>
-- t-010
+- t-001
   global_id: t-170245
   teiginys: "Vytautas Landsbergis ir B. Jelcinas 1991 m. liepos 29 d. buvo savo šalių parlamentų pirmininkai."
   pagrindžia:
     - c-154926
 
 <a id="claim-t-170246"></a>
-- t-008
+- t-002
   global_id: t-170246
   teiginys: "1992 m. Vilniuje Seimo pirmininkas Vytautas Landsbergis prie Aušros vartų buvo su Prancūzijos prezidentu Fransua Miteranu."
   pagrindžia:
     - c-154922
 
 <a id="claim-t-170247"></a>
-- t-009
+- t-003
   global_id: t-170247
   teiginys: "Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį."
   pagrindžia:
     - c-154923
 
 <a id="claim-t-170248"></a>
-- t-003
+- t-004
   global_id: t-170248
   teiginys: "Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   pagrindžia:
     - c-154921
 
 <a id="claim-t-170249"></a>
-- t-002
+- t-005
   global_id: t-170249
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
   pagrindžia:
     - c-154919
 
 <a id="claim-t-170250"></a>
-- t-007
+- t-006
   global_id: t-170250
   teiginys: "1996 m. Seimo rinkimuose sėkmė lydėjo Vytauto Landsbergio vadovaujamus konservatorius."
   pagrindžia:
     - c-154924
 
 <a id="claim-t-170249"></a>
-- t-002
+- t-007
   global_id: t-170249
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis ragino prie parlamento susirinkusius žmones užslopinti pyktį, nepasiduoti provokacijoms ir dainuoti."
   pagrindžia:
     - c-154919
 
 <a id="claim-t-170253"></a>
-- t-004
+- t-008
   global_id: t-170253
   teiginys: "1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas."
   pagrindžia:

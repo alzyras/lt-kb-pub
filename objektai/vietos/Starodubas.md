@@ -42,21 +42,21 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
 ## Teiginiai
 
 <a id="claim-t-69312"></a>
-- t-002
+- t-001
   global_id: t-69312
   teiginys: "1379-1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Starodubą ir Trubčevską."
   pagrindžia:
     - c-32441
 
 <a id="claim-t-185155"></a>
-- t-003
+- t-002
   global_id: t-185155
   teiginys: "Po Briansko užėmimo prie išdavikų prisidėjo visa Seversko žemė, įskaitant Černigovą, Starodubą, Naugardą ir Rylską."
   pagrindžia:
     - c-168516
 
 <a id="claim-t-185156"></a>
-- t-004
+- t-003
   global_id: t-185156
   teiginys: "Po maskvėnų pabėgimo Glinskis pasitraukė į Starodubą su išsaugotais pulkais, kuriais labiausiai pasitikėjo."
   pagrindžia:

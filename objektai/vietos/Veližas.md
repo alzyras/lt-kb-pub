@@ -42,7 +42,7 @@ Sutartyje caras atsisakė nuo Livonijos, Polocko ir Veližo; jam buvo grąžinti
 ## Teiginiai
 
 <a id="claim-t-69546"></a>
-- t-002
+- t-001
   global_id: t-69546
   teiginys: "Pagal Stepono Batoro planą Kristupas Radvila Perkūnas turėjo saugoti pasienį su Rusija ir imituoti įsiveržimą tarp Veližo ir Smolensko."
   pagrindžia:

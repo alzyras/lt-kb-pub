@@ -14,10 +14,10 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - mokslininkas
   - tauta
   - valstybė
-  - vieta
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -42,21 +42,21 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 ## Teiginiai
 
 <a id="claim-t-77326"></a>
-- t-009
+- t-001
   global_id: t-77326
   teiginys: "Pusė per pirmuosius sovietų okupacijos metus suimtų politiniais nusikaltimais apkaltintų asmenų 1941 m. išvežti į SSRS gilumą."
   pagrindžia:
     - c-74742
 
 <a id="claim-t-77327"></a>
-- t-007
+- t-002
   global_id: t-77327
   teiginys: "Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas."
   pagrindžia:
     - c-24468
 
 <a id="claim-t-77328"></a>
-- t-011
+- t-003
   global_id: t-77328
   teiginys: "1939 m. rugsėjo 28 d. slaptojo protokolo pagrindu Lietuvos teritorija pateko į SSRS įtakos sferą."
   pagrindžia:
@@ -70,56 +70,56 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - c-24464
 
 <a id="claim-t-77331"></a>
-- t-012
+- t-005
   global_id: t-77331
   teiginys: "Įsileidusi SSRS karines bazes Lietuva prarado viltis būti išrinkta į Tautų Sąjungos Tarybą."
   pagrindžia:
     - c-74745
 
 <a id="claim-t-77332"></a>
-- t-010
+- t-006
   global_id: t-77332
   teiginys: "Dėl amžinai blogų SSRS santykių su kapitalistinėmis valstybėmis Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota, o dėl glaudžių ryšių su žaliavų tiekėjais tapo visiškai priklausoma nuo kitų SSRS regionų."
   pagrindžia:
     - c-74744
 
 <a id="claim-t-77333"></a>
-- t-013
+- t-007
   global_id: t-77333
   teiginys: "Baltijos valstybėse galimybė atsidurti SSRS valdžioje buvo klaidingai suvokta kaip laikinas grįžimas į Nikolajaus II Rusiją."
   pagrindžia:
     - c-74747
 
 <a id="claim-t-77334"></a>
-- t-003
+- t-008
   global_id: t-77334
   teiginys: "Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą."
   pagrindžia:
     - c-24463
 
 <a id="claim-t-77335"></a>
-- t-006
+- t-009
   global_id: t-77335
   teiginys: "Lietuvos ir kitų sovietinių respublikų pramonė buvo izoliuota nuo kapitalistinių valstybių ir priklausoma nuo kitų SSRS regionų."
   pagrindžia:
     - c-24467
 
 <a id="claim-t-77336"></a>
-- t-008
+- t-010
   global_id: t-77336
   teiginys: "Pavertus Lietuvą SSRS dalimi, jos valdymo sistema buvo pertvarkyta pagal Sovietų Sąjungos modelį."
   pagrindžia:
     - c-74743
 
 <a id="claim-t-77337"></a>
-- t-002
+- t-011
   global_id: t-77337
   teiginys: "Sovietams kariaujant su Suomija Baltijos valstybės vengė smerkti SSRS, nors pastaroji buvo išmesta iš Tautų Sąjungos kaip agresorė."
   pagrindžia:
     - c-24462
 
 <a id="claim-t-183637"></a>
-- t-014
+- t-012
   global_id: t-183637
   teiginys: "Lietuvos aukštosios mokyklos buvo pertvarkytos pagal SSRS aukštųjų mokyklų sistemą, o jose dėstytas privalomas marksizmo-leninizmo kursas."
   pagrindžia:

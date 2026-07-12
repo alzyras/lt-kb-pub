@@ -54,28 +54,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-99858"></a>
-- t-012
+- t-001
   global_id: t-99858
   teiginys: "Rugpjūtį lietuviai pasiekė Vėluvos apylinkes, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais."
   pagrindžia:
     - c-93821
 
 <a id="claim-t-99859"></a>
-- t-011
+- t-002
   global_id: t-99859
   teiginys: "1347 m. spalio pradžioje lietuvių karalius priėjo Vėluvą, o lietuviai tyliai įėję sudegino miestą."
   pagrindžia:
     - c-93822
 
 <a id="claim-t-99860"></a>
-- t-004
+- t-003
   global_id: t-99860
   teiginys: "Rugpjūtį lietuviai prasigavo iki Vėluvos apylinkių, sudegino šešis kaimus ir nužudė Fridrichą fon Quitzą su 36 kariais."
   pagrindžia:
     - c-93821
 
 <a id="claim-t-99861"></a>
-- t-010
+- t-004
   global_id: t-99861
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė."
   pagrindžia:
@@ -89,56 +89,56 @@ media_all_json: |-
     - c-93827
 
 <a id="claim-t-99864"></a>
-- t-008
+- t-006
   global_id: t-99864
   teiginys: "Nadruviai, skalviai ir sūduviai pastatė Vėluvos pilį, siekdami trukdyti broliams ir sembams brautis į Nadruvą."
   pagrindžia:
     - c-93825
 
 <a id="claim-t-99865"></a>
-- t-002
+- t-007
   global_id: t-99865
   teiginys: "Žygis Ordino žemėse pasiekė Įsručio ir Vėluvos apylinkes."
   pagrindžia:
     - c-32576
 
 <a id="claim-t-99866"></a>
-- t-014
+- t-008
   global_id: t-99866
   teiginys: "Vėluvos ir Angerburgo pilys nurodytos kaip įkurtos 1335 metais."
   pagrindžia:
     - c-93824
 
 <a id="claim-t-99867"></a>
-- t-013
+- t-009
   global_id: t-99867
   teiginys: "Ordino žemėse vykusio žygio metu buvo pasiektos Įsruties ir Vėluvos apylinkės."
   pagrindžia:
     - c-32576
 
 <a id="claim-t-99868"></a>
-- t-007
+- t-010
   global_id: t-99868
   teiginys: "1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą."
   pagrindžia:
     - c-93820
 
 <a id="claim-t-99869"></a>
-- t-006
+- t-011
   global_id: t-99869
   teiginys: "1323 m. vasarą Lietuvos kariuomenė puolė Sembą ties Vėluva."
   pagrindžia:
     - c-93817
 
 <a id="claim-t-99861"></a>
-- t-010
+- t-012
   global_id: t-99861
   teiginys: "Prūsų, sūduvių ir lietuvių kariuomenė aštuonias dienas laikė apsupusi Vėluvos pilį ir kasdien ją puolė."
   pagrindžia:
     - c-93826
 
 <a id="claim-t-185213"></a>
-- t-016
+- t-013
   global_id: t-185213
   teiginys: "Prūsijos magistras sudegino miestą, o Vėluvos ir Tapiavos kraštą sulygino su žeme."
   pagrindžia:
@@ -152,7 +152,7 @@ media_all_json: |-
     - c-171762
 
 <a id="claim-t-194553"></a>
-- t-017
+- t-015
   global_id: t-194553
   teiginys: "Apie Vėluvos pilies puolimą Tuo metu stipri prūsų, sūduvių ir lietuvių kariuomenė įsibrovė į Sembos žemę; lietuviai su viena apgulos mašina vienoje pusėje, likusieji su antra — kitoje pusėje aštuonias dienas laikė apsupę Vėluvos pilį, kasdien ją puldami."
   pagrindžia:

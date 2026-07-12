@@ -38,14 +38,14 @@ Dusburgietis teigia, kad apie 72 lietuvius, nukautus Notangoje Šio magistro lai
 ## Teiginiai
 
 <a id="claim-t-58556"></a>
-- t-002
+- t-001
   global_id: t-58556
   teiginys: "Glotava laikoma pietrytiniu Pagudės valsčiumi."
   pagrindžia:
     - c-59188
 
 <a id="claim-t-58557"></a>
-- t-001
+- t-002
   global_id: t-58557
   teiginys: "1300 m. rudenį 75 lietuviai netikėtai įsibrovė į Varmės vyskupystės Glotavos valsčių."
   pagrindžia:

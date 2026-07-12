@@ -42,28 +42,28 @@ Dusburgietis teigia, kad čia minimas ežeras ieškotas ir į šiaurę nuo Augus
 ## Teiginiai
 
 <a id="claim-t-60905"></a>
-- t-005
+- t-001
   global_id: t-60905
   teiginys: "Łowmiańskio veikalas nurodomas tarp šaltinių, kuriais remiamasi manant, kad Glotava buvo pietrytinis Pagudės valsčius."
   pagrindžia:
     - c-61542
 
 <a id="claim-t-60909"></a>
-- t-007
+- t-002
   global_id: t-60909
   teiginys: "Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius."
   pagrindžia:
     - c-61539
 
 <a id="claim-t-60911"></a>
-- t-004
+- t-003
   global_id: t-60911
   teiginys: "Łowmiańskio veikalas nurodomas tarp šaltinių, siejančių Rasytės pilies statybą su XIV a. viduriu ir jos minėjimą nuo 1372 m."
   pagrindžia:
     - c-61538
 
 <a id="claim-t-60912"></a>
-- t-001
+- t-004
   global_id: t-60912
   teiginys: "Łowmiańskio veikalas nurodomas prie nuomonės, kad Dusburgiečio minėto ežero ieškota ir į šiaurę nuo Augustavo."
   pagrindžia:

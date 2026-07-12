@@ -35,14 +35,14 @@ Kalnuose buvo Stepono mėgstamas vienuolynas, vadinamas Putnu. Prie Putnos Stepo
 ## Teiginiai
 
 <a id="claim-t-187303"></a>
-- t-002
+- t-001
   global_id: t-187303
   teiginys: "Prie Putnos Steponas apsistojo su visa kariuomene kaip tvirtovėje."
   pagrindžia:
     - c-170342
 
 <a id="claim-t-187304"></a>
-- t-001
+- t-002
   global_id: t-187304
   teiginys: "Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene."
   pagrindžia:

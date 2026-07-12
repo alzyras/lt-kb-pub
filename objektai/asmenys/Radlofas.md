@@ -34,14 +34,14 @@ Teodoro Narbuto perteikimu, astronomas Radlofas aiškino planetų ar Žemės pal
     - c-174109
 
 <a id="claim-t-191229"></a>
-- t-003
+- t-002
   global_id: t-191229
   teiginys: "Teodoro Narbuto pasakojime Radlofas manė, kad Lietuvos, Prūsijos, Žemaitijos, Kuršo ir Livonijos žemes galėjo užpilti sudužusios planetos nuolaužos."
   pagrindžia:
     - c-174111
 
 <a id="claim-t-191974"></a>
-- t-004
+- t-003
   global_id: t-191974
   teiginys: "Teodoro Narbuto aiškinimu, Cigno ir Fajetono mito turinys sutapo su Radlofo požiūriu, o šios žinios į graikų poeziją pateko iš padavimų."
   pagrindžia:

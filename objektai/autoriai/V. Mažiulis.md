@@ -32,28 +32,28 @@ Dusburgietis teigia, kad didelę dalį prūsiškųjų ir kitų baltiškųjų vie
 ## Teiginiai
 
 <a id="claim-t-64859"></a>
-- t-002
+- t-001
   global_id: t-64859
   teiginys: "V. Mažiulio tyrimai rodė, kad vakarų ir rytų baltų tarmių skirtingumo laipsnis mažesnis, nei anksčiau manyta."
   pagrindžia:
     - c-65448
 
 <a id="claim-t-64860"></a>
-- t-001
+- t-002
   global_id: t-64860
   teiginys: "V. Mažiulis pateikė didelę dalį prūsiškųjų ir kitų baltiškųjų vietovardžių bei asmenvardžių rekonstrukcijų."
   pagrindžia:
     - c-65450
 
 <a id="claim-t-64861"></a>
-- t-004
+- t-003
   global_id: t-64861
   teiginys: "V. Mažiulio darbe „Dėl Neringos“ remiamasi aiškinant Kuršių nerijos pavadinimus."
   pagrindžia:
     - c-65449
 
 <a id="claim-t-64862"></a>
-- t-003
+- t-004
   global_id: t-64862
   teiginys: "V. Mažiulis parengė leidinį „Prūsų kalbos paminklai“."
   pagrindžia:

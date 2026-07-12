@@ -35,14 +35,14 @@ Po savaitės ją Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Rusija
 ## Teiginiai
 
 <a id="claim-t-75514"></a>
-- t-002
+- t-001
   global_id: t-75514
   teiginys: "Po 1918 m. gruodžio 16 d. manifesto Sovietų Rusija Vladimiro Lenino pasirašytu dekretu pripažino Sovietų Lietuvą."
   pagrindžia:
     - c-73279
 
 <a id="claim-t-75515"></a>
-- t-001
+- t-002
   global_id: t-75515
   teiginys: "Vladimiro Lenino pasirašytu dekretu Sovietų Rusija pripažino Sovietų Lietuvą."
   pagrindžia:

@@ -46,63 +46,63 @@ Dusburgietis teigia, kad senos Vokiečių ordino tradicijos dvasia nušviečiama
 ## Teiginiai
 
 <a id="claim-t-182832"></a>
-- t-032
+- t-001
   global_id: t-182832
   teiginys: "Prieš tai Kulmo žemė buvusi Mazovijos kunigaikščių valda."
   pagrindžia:
     - c-166238
 
 <a id="claim-t-183862"></a>
-- t-033
+- t-002
   global_id: t-183862
   teiginys: "1323 m. Vilniuje duotame laiške skelbta, kad per Mazovijos kunigaikščio Boleslavo valdas galima saugiai atvykti į Lietuvą."
   pagrindžia:
     - c-167247
 
 <a id="claim-t-183863"></a>
-- t-034
+- t-003
   global_id: t-183863
   teiginys: "Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, kaimyninė Mazovija ir artimos apylinkės."
   pagrindžia:
     - c-167248
 
 <a id="claim-t-183864"></a>
-- t-035
+- t-004
   global_id: t-183864
   teiginys: "Balińskis užuominą apie saugų kelią per Mazoviją laikė svarbiu Gedimino laiškų netikrumo įrodymu."
   pagrindžia:
     - c-167249
 
 <a id="claim-t-184182"></a>
-- t-036
+- t-005
   global_id: t-184182
   teiginys: "„Pranešime...“ minimas pagonių brovimasis į Mazovijos kunigaikščio Konrado valdas."
   pagrindžia:
     - c-167567
 
 <a id="claim-t-184183"></a>
-- t-037
+- t-006
   global_id: t-184183
   teiginys: "Prūsijos žemę iš vienos pusės ribojo Mazovijos kunigaikštystė."
   pagrindžia:
     - c-167568
 
 <a id="claim-t-185043"></a>
-- t-038
+- t-007
   global_id: t-185043
   teiginys: "1367 m. Kęstučio vedami lietuviai įsibrovė į Mazoviją pasiplėšti grobio."
   pagrindžia:
     - c-168404
 
 <a id="claim-t-185044"></a>
-- t-039
+- t-008
   global_id: t-185044
   teiginys: "Jogaila su kariuomene patraukė prieš Mazovijos kunigaikštį Jonušą ir iš keršto nuniokojo Mazoviją."
   pagrindžia:
     - c-168405
 
 <a id="claim-t-185045"></a>
-- t-040
+- t-009
   global_id: t-185045
   teiginys: "Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
   pagrindžia:

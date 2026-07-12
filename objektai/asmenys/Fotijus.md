@@ -40,35 +40,35 @@ Jis buvo tačiau priverstas pripažinti « Kijevo ir visos Rusios» metropolitu 
 ## Teiginiai
 
 <a id="claim-t-82300"></a>
-- t-005
+- t-001
   global_id: t-82300
   teiginys: "Maskvos metropolitas Fotijus siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjęs išvyko į Maskvą."
   pagrindžia:
     - c-78783
 
 <a id="claim-t-82301"></a>
-- t-004
+- t-002
   global_id: t-82301
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius siekdamas Lietuvai atskiro metropolito."
   pagrindžia:
     - c-78779
 
 <a id="claim-t-82302"></a>
-- t-001
+- t-003
   global_id: t-82302
   teiginys: "Fotijus 1408-1431 m. buvo pripažintas Kijevo ir visos Rusios metropolitu."
   pagrindžia:
     - c-78780
 
 <a id="claim-t-82303"></a>
-- t-003
+- t-004
   global_id: t-82303
   teiginys: "Fotijus siekė Kijevo metropoliją prijungti prie Maskvos, bet Vytauto priimtas dėl jo ligos nieko nepasiekė ir išvyko į Maskvą."
   pagrindžia:
     - c-78783
 
 <a id="claim-t-82304"></a>
-- t-002
+- t-005
   global_id: t-82304
   teiginys: "Fotijus buvo naujai išrinktas Maskvos metropolitas, su kuriuo Vytautas nutraukė ryšius ir liepė Lietuvai rinkti atskirą metropolitą."
   pagrindžia:

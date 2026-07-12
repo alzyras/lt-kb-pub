@@ -43,35 +43,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-187952"></a>
-- t-002
+- t-001
   global_id: t-187952
   teiginys: "Liudviko Jucevičiaus „Raštai“ išnašoje nurodyti kaip 1959 m. Vilniuje išleistas šaltinis."
   pagrindžia:
     - c-170937
 
 <a id="claim-t-188441"></a>
-- t-003
+- t-002
   global_id: t-188441
   teiginys: "Kunigo Jucevičiaus nuomone, Palangos pajūrio lietuviai žvejai Atrimpą vadino „Dzivsvits“."
   pagrindžia:
     - c-171331
 
 <a id="claim-t-188442"></a>
-- t-004
+- t-003
   global_id: t-188442
   teiginys: "Narbutas mini, kad ekskunigas Adomas Jucevičius legendos apie gegužės pavirtimą aprašymu užėmė nemažą „Tygodnik Petersburski“ 1836 m. Nr. 28 dalį."
   pagrindžia:
     - c-171332
 
 <a id="claim-t-190755"></a>
-- t-005
+- t-004
   global_id: t-190755
   teiginys: "Narbutas nurodo, kad ekskunigas Adomas Jucevičius „Tygodnik Petersburski“ 1836 m. Nr. 28 aprašė legendą apie gegužės pavirtimą."
   pagrindžia:
     - c-173637
 
 <a id="claim-t-190756"></a>
-- t-006
+- t-005
   global_id: t-190756
   teiginys: "Antrojo LTI leidimo papildymo medžiaga buvo paimta iš L. A. Jucevičiaus „Lietuvos“ dalies „Metamorfozės lietuvių mitologijoje“."
   pagrindžia:

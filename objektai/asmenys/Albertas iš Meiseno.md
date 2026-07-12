@@ -30,63 +30,63 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 ## Teiginiai
 
 <a id="claim-t-89608"></a>
-- t-004
+- t-001
   global_id: t-89608
   teiginys: "Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis."
   pagrindžia:
     - c-85549
 
 <a id="claim-t-89609"></a>
-- t-009
+- t-002
   global_id: t-89609
   teiginys: "Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo."
   pagrindžia:
     - c-85549
 
 <a id="claim-t-89610"></a>
-- t-008
+- t-003
   global_id: t-89610
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį."
   pagrindžia:
     - c-85549
 
 <a id="claim-t-89611"></a>
-- t-002
+- t-004
   global_id: t-89611
   teiginys: "Dusburgietis pasakoja, kad kasdienė malda Albertui padėjo nugalėti pagundas."
   pagrindžia:
     - c-56140
 
 <a id="claim-t-89612"></a>
-- t-001
+- t-005
   global_id: t-89612
   teiginys: "Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru."
   pagrindžia:
     - c-56139
 
 <a id="claim-t-89613"></a>
-- t-005
+- t-006
   global_id: t-89613
   teiginys: "Albertas iš Meiseno buvo pilies komtūras, Dusburgiečio apibūdintas kaip Dievui atsidavęs ir pagirtinai gyvenęs vyras."
   pagrindžia:
     - c-85553
 
 <a id="claim-t-89614"></a>
-- t-006
+- t-007
   global_id: t-89614
   teiginys: "Dusburgiečio pasakojime Albertas iš Meiseno kasdien kalbėjo maldą, kol jį liovėsi kamavusios pagundos."
   pagrindžia:
     - c-85550
 
 <a id="claim-t-89615"></a>
-- t-007
+- t-008
   global_id: t-89615
   teiginys: "Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo."
   pagrindžia:
     - c-85552
 
 <a id="claim-t-184655"></a>
-- t-010
+- t-009
   global_id: t-184655
   teiginys: "Pelužis pranešė Karaliaučiaus komtūrui Albertui iš Meiseno apie sumanymą, o šis jį parėmė."
   pagrindžia:

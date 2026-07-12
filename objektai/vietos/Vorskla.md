@@ -47,28 +47,28 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
 ## Teiginiai
 
 <a id="claim-t-178743"></a>
-- t-006
+- t-001
   global_id: t-178743
   teiginys: "Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene."
   pagrindžia:
     - c-44046
 
 <a id="claim-t-178744"></a>
-- t-009
+- t-002
   global_id: t-178744
   teiginys: "Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   pagrindžia:
     - c-44046
 
 <a id="claim-t-178745"></a>
-- t-010
+- t-003
   global_id: t-178745
   teiginys: "Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais."
   pagrindžia:
     - c-162443
 
 <a id="claim-t-178746"></a>
-- t-002
+- t-004
   global_id: t-178746
   teiginys: "Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga."
   pagrindžia:
@@ -82,42 +82,42 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
     - c-162445
 
 <a id="claim-t-178748"></a>
-- t-001
+- t-006
   global_id: t-178748
   teiginys: "Kautynių vieta buvo numatyta Vorsklos upės apylinkėse."
   pagrindžia:
     - c-37851
 
 <a id="claim-t-178749"></a>
-- t-004
+- t-007
   global_id: t-178749
   teiginys: "Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos."
   pagrindžia:
     - c-162446
 
 <a id="claim-t-178750"></a>
-- t-003
+- t-008
   global_id: t-178750
   teiginys: "Vytauto žygis prie Vorsklos buvo pralaimėtas."
   pagrindžia:
     - c-37853
 
 <a id="claim-t-178747"></a>
-- t-005
+- t-009
   global_id: t-178747
   teiginys: "Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
   pagrindžia:
     - c-162445
 
 <a id="claim-t-184325"></a>
-- t-012
+- t-010
   global_id: t-184325
   teiginys: "Vytauto žygis prie Vorsklos buvo pralaimėtas."
   pagrindžia:
     - c-167696
 
 <a id="claim-t-185211"></a>
-- t-013
+- t-011
   global_id: t-185211
   teiginys: "Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais."
   pagrindžia:

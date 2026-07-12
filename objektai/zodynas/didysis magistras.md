@@ -47,49 +47,49 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
 ## Teiginiai
 
 <a id="claim-t-113612"></a>
-- t-008
+- t-001
   global_id: t-113612
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe ir apie 200 Ordino riterių."
   pagrindžia:
     - c-104813
 
 <a id="claim-t-113622"></a>
-- t-005
+- t-002
   global_id: t-113622
   teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
   pagrindžia:
     - c-44160
 
 <a id="claim-t-113614"></a>
-- t-016
+- t-003
   global_id: t-113614
   teiginys: "Įvadiniame straipsnyje teigiama, kad didžiajam magistrui Verneriui kronika reikalinga Ordino reformai ir karo prieš Lietuvą pateisinimui."
   pagrindžia:
     - c-104814
 
 <a id="claim-t-113615"></a>
-- t-020
+- t-004
   global_id: t-113615
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas Ordino didžiuoju magistru."
   pagrindžia:
     - c-104816
 
 <a id="claim-t-113616"></a>
-- t-008
+- t-005
   global_id: t-113616
   teiginys: "Ordino priešakyje stovėjo didysis magistras (Hochmeister) su taryba."
   pagrindžia:
     - c-104817
 
 <a id="claim-t-113618"></a>
-- t-021
+- t-006
   global_id: t-113618
   teiginys: "Prieš 1392 m. žygį didysis magistras ir jo svita dėl pasitikėjimo Ordino kariuomenės galybe Lietuvą jau laikė nukariauta."
   pagrindžia:
     - c-104815
 
 <a id="claim-t-113620"></a>
-- t-006
+- t-007
   global_id: t-113620
   teiginys: "Didysis magistras Ulrichas fon Jungingenas žuvo kartu su beveik visa likusia Ordino vadovybe."
   pagrindžia:
@@ -103,7 +103,7 @@ Didysis magistras šiame įraše žymi Kryžiuočių ordino vyriausiąjį vadov�
     - c-104813
 
 <a id="claim-t-113622"></a>
-- t-005
+- t-009
   global_id: t-113622
   teiginys: "Žalgirio mūšyje didysis magistras metė rezervą į mūšį, kai pamatė, kad kova krypsta ne jo naudai."
   pagrindžia:

@@ -44,6 +44,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   pagrindžia:
     - c-03021
 - susijęs iš Tartu: Paskutinis Gedimino laiškas (1325.VI.2) yra rašytas Talino ir Tartu vyskupams, Rygos miesto tarybai ir Danijos vietininkui Taline.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195257|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: 1899–1900 m. Tartų universitete Lautenbachas buvo latvių kalbos lektorius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178973|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi prieštaringi skundai už ir prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72514|Lietuvių Draugija Estijoje]]: Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.
@@ -54,6 +55,12 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
 - susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/zodynas/dešimtinė.md#claim-t-173012|dešimtinė]]: Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.
 - susijęs iš [[objektai/zodynas/šv. Petro skatiko rinkliava.md#claim-t-86643|šv. Petro skatiko rinkliava]]: Lenkų vyskupų ginčai dėl dešimtinės ir šv. Petro skatiko rinkliavų buvo svarstyti popiežiaus rūmuose Avinjone.
+- susijęs iš [[objektai/asmenys/Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius).md#claim-t-195256|Oskaras Vilhelmas Lautenbachas (latvių kalbos lektorius)]]: A. R. Niemis, Lautenbachui vadovaujant, studijavo latvių kalbą ir liaudies poeziją.
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195565|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: 1899 m. vasarą A. R. Niemis padarė kelionę į Estų salas (Eželį).
+- susijęs iš [[objektai/ivykiai/1899 m. A. R. Niemio kelionė į Estų salas (Eželį).md#claim-t-195566|1899 m. A. R. Niemio kelionė į Estų salas (Eželį)]]: Toje kelionėje A. R. Niemis rinko estų liaudies dainas.
+- susijęs iš Archangelsko gubernija: 1901 m. vasarą Augustas Robertas Niemi keliavo po Archangelsko guberniją rinkdamas dainas.
+- susijęs iš Estų salos: 1899 m. Augustas Robertas Niemi keliavo į Estų salas, kur rinko estų liaudies dainas.
+- susijęs iš Norvegija: 1899 m. Augustas Robertas Niemi dirbo Norvegijos knygynuose.
 ## Reikšmingi paminėjimai
 
 - c-001

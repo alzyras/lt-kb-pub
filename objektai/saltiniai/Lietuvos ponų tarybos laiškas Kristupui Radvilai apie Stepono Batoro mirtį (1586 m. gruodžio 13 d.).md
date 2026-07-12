@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigaikštis
   - saltinis
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -42,28 +42,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88198"></a>
-- t-003
+- t-001
   global_id: t-88198
   teiginys: "Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę."
   pagrindžia:
     - c-84177
 
 <a id="claim-t-88199"></a>
-- t-004
+- t-002
   global_id: t-88199
   teiginys: "Lietuvos ponų tarybos laiškas Kristupui Radvilai buvo sutvirtintas aštuoniais antspaudais."
   pagrindžia:
     - c-84179
 
 <a id="claim-t-88200"></a>
-- t-001
+- t-003
   global_id: t-88200
   teiginys: "1586 m. gruodžio 13 d. Gardine rašytas Lietuvos ponų tarybos laiškas Kristupui Radvilai pranešė apie Stepono Batoro mirtį ir galimą maištą dėl neišmokėtos algos."
   pagrindžia:
     - c-84178
 
 <a id="claim-t-88201"></a>
-- t-002
+- t-004
   global_id: t-88201
   teiginys: "Lietuvos ponų taryba Kristupui Radvilai pranešė, kad gydytojai laiku neįspėjo apie pavojų Stepono Batoro sveikatai."
   pagrindžia:

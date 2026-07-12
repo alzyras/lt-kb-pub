@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - seimas
   - sąvoka
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,28 +31,28 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
 ## Teiginiai
 
 <a id="claim-t-72706"></a>
-- t-003
+- t-001
   global_id: t-72706
   teiginys: "Seime atstovai išsirinkdavo maršalką arba direktorių, o jų išrinkimo teisėtumo tikrinimas vadintas rugomis."
   pagrindžia:
     - c-71086
 
 <a id="claim-t-72708"></a>
-- t-001
+- t-002
   global_id: t-72708
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
   pagrindžia:
     - c-71089
 
 <a id="claim-t-72708"></a>
-- t-001
+- t-003
   global_id: t-72708
   teiginys: "Ordinariniai seimai turėjo rinktis kas dveji metai, o jų darbas trukdavo šešias savaites."
   pagrindžia:
     - c-71089
 
 <a id="claim-t-72710"></a>
-- t-002
+- t-004
   global_id: t-72710
   teiginys: "Po seimo ginčytinus mokesčių klausimus turėdavo spręsti reliaciniai seimeliai."
   pagrindžia:

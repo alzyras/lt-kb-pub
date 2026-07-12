@@ -61,7 +61,7 @@ Nenurodyta
     - c-167352
 
 <a id="claim-t-59430"></a>
-- t-002
+- t-003
   global_id: t-59430
   teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
   pagrindžia:

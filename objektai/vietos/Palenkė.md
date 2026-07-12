@@ -46,105 +46,105 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 ## Teiginiai
 
 <a id="claim-t-112042"></a>
-- t-021
+- t-001
   global_id: t-112042
   teiginys: "Trakų dešimties metų paliaubų sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje."
   pagrindžia:
     - c-24354
 
 <a id="claim-t-112043"></a>
-- t-023
+- t-002
   global_id: t-112043
   teiginys: "Kazimiero laikais tankiau gyventa tik tikrojoje Lietuvoje, Palenkėje, Voluinėje ir Podolės Braclavo srityje."
   pagrindžia:
     - c-46663
 
 <a id="claim-t-112045"></a>
-- t-017
+- t-003
   global_id: t-112045
   teiginys: "Goštautui išvykus į Tikociną Palenkėje, apie 1345 m. Vilniaus prastuomenė smurtu užėmė pranciškonų vienuolyną."
   pagrindžia:
     - c-103528
 
 <a id="claim-t-112046"></a>
-- t-022
+- t-004
   global_id: t-112046
   teiginys: "Kazimiero laikais Palenkė buvo tarp tankiau gyvenamų Lietuvos sričių kartu su tikrąja Lietuva, Voluine ir Podolės Braclavo sritimi."
   pagrindžia:
     - c-46663
 
 <a id="claim-t-112047"></a>
-- t-006
+- t-005
   global_id: t-112047
   teiginys: "Vytauto laikais pilys buvo statomos ir Palenkėje, tarp jų Melnike ir galbūt Brastoje."
   pagrindžia:
     - c-103527
 
 <a id="claim-t-112048"></a>
-- t-004
+- t-006
   global_id: t-112048
   teiginys: "Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke."
   pagrindžia:
     - c-32314
 
 <a id="claim-t-112050"></a>
-- t-013
+- t-007
   global_id: t-112050
   teiginys: "Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje."
   pagrindžia:
     - c-103528
 
 <a id="claim-t-112051"></a>
-- t-018
+- t-008
   global_id: t-112051
   teiginys: "Kęstutis paveldėjo Trakus ir Gardiną su Palenke."
   pagrindžia:
     - c-103529
 
 <a id="claim-t-112052"></a>
-- t-019
+- t-009
   global_id: t-112052
   teiginys: "Vytautas iš Jogailos tegalėjo gauti Gardiną su Palenke, nes Trakai jau buvo atiduoti Skirgailai."
   pagrindžia:
     - c-103536
 
 <a id="claim-t-112054"></a>
-- t-005
+- t-010
   global_id: t-112054
   teiginys: "Trakų kunigaikštija, Gardino ir Palenkės sritys sudarė Kęstučio valdytą vakarinę valstybės dalį."
   pagrindžia:
     - c-32315
 
 <a id="claim-t-112055"></a>
-- t-015
+- t-011
   global_id: t-112055
   teiginys: "Vytauto laikais Palenkėje, Melnyke ir galbūt Brastoje, imta statyti pilis rusėniškose LDK žemėse."
   pagrindžia:
     - c-103527
 
 <a id="claim-t-112056"></a>
-- t-021
+- t-012
   global_id: t-112056
   teiginys: "Lietuvos ir Lenkijos teritoriniai ginčai dėl Palenkės žemės buvo pasiekę karinės konfrontacijos lygį."
   pagrindžia:
     - c-103537
 
 <a id="claim-t-112057"></a>
-- t-012
+- t-013
   global_id: t-112057
   teiginys: "Palenkėje tarp vietos žmonių sklido padavimas, kad senovėje iš ten eidavo į Vilnių kalnų kasti."
   pagrindžia:
     - c-103534
 
 <a id="claim-t-112058"></a>
-- t-007
+- t-014
   global_id: t-112058
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės vaivadijas."
   pagrindžia:
     - c-103526
 
 <a id="claim-t-112059"></a>
-- t-020
+- t-015
   global_id: t-112059
   teiginys: "Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai."
   pagrindžia:
@@ -158,35 +158,35 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
     - c-103526
 
 <a id="claim-t-183066"></a>
-- t-024
+- t-017
   global_id: t-183066
   teiginys: "Jogailos ir Kęstučio pasirašytoje sutartyje ordinas pasižadėjo nepulti Palenkės, o Lietuva - ordino žemių Palenkės pasienyje."
   pagrindžia:
     - c-166457
 
 <a id="claim-t-185079"></a>
-- t-023
+- t-018
   global_id: t-185079
   teiginys: "Vytautas pradėjo telkti karius Žemaitijoje ir Palenkėje, susitaręs su kryžiuočiais dėl taikos ir pagalbos."
   pagrindžia:
     - c-168440
 
 <a id="claim-t-185080"></a>
-- t-024
+- t-019
   global_id: t-185080
   teiginys: "Mazovijos kunigaikštis Boleslovas, užpuolęs Palenkę, užėmė Melniką, Belską ir Drohičiną."
   pagrindžia:
     - c-168441
 
 <a id="claim-t-185081"></a>
-- t-025
+- t-020
   global_id: t-185081
   teiginys: "Vilniaus seime lenkų atstovai reikalavo Palenkę, Volynę, Kijevo ir Seversko žemes atiduoti Lenkijos karalystei."
   pagrindžia:
     - c-168442
 
 <a id="claim-t-193223"></a>
-- t-026
+- t-021
   global_id: t-193223
   teiginys: "Pirmiausia tokie kaimai su trilaukiais buvo įvesti Lenkijos kaimynijoje — Palenkėje."
   pagrindžia:

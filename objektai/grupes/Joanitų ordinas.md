@@ -43,7 +43,7 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
 ## Teiginiai
 
 <a id="claim-t-72078"></a>
-- t-006
+- t-001
   global_id: t-72078
   teiginys: "Bagrationovskas) Jaučakiai Jeruzalė Jezioranai Joanitai, Jono šv."
   pagrindžia:
@@ -57,21 +57,21 @@ Italai čia turėjo savo joanitų ordiną, prancūzai — templininkų, o treči
     - c-70502
 
 <a id="claim-t-72080"></a>
-- t-006
+- t-003
   global_id: t-72080
   teiginys: "Kryžiaus karų aplinkoje italai turėjo Joanitų ordiną kaip kariaujančiųjų riterių ordiną."
   pagrindžia:
     - c-70505
 
 <a id="claim-t-72081"></a>
-- t-003
+- t-004
   global_id: t-72081
   teiginys: "Popiežius patvirtino Jeruzalės ligoninės brolių ordiną, skirtą pavargėliams ir paliegėliams slaugyti."
   pagrindžia:
     - c-70504
 
 <a id="claim-t-72082"></a>
-- t-004
+- t-005
   global_id: t-72082
   teiginys: "Švento Jono ligoninės ordinas datuojamas 1104 metais, popiežiaus Urbono II laikais."
   pagrindžia:

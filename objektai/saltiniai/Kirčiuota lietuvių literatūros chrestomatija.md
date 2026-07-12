@@ -29,14 +29,14 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
 ## Teiginiai
 
 <a id="claim-t-36061"></a>
-- t-002
+- t-001
   global_id: t-36061
   teiginys: "Kirčiuota lietuvių literatūros chrestomatija pristatyta kaip reikalinga norintiems gerai išmokti rašomosios lietuvių kalbos kirčiavimo."
   pagrindžia:
     - c-38416
 
 <a id="claim-t-36062"></a>
-- t-001
+- t-002
   global_id: t-36062
   teiginys: "V. Kamantausko „Kirčiuotos lietuvių literatūros chrestomatijos“ kirčius patikrino dr. Pr. Skardžius."
   pagrindžia:

@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07827"></a>
-- t-002
+- t-001
   global_id: t-07827
   teiginys: "Smulkesnėje prekyboje pilyse dar vertėsi krikščionys, o žydai negalėjo pirkti į pilį įvežamų prekių iki didžiosios pusrytės ar iki pietų."
   pagrindžia:

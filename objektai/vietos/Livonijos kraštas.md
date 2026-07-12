@@ -29,14 +29,14 @@ Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų. Jogaila be Kęstučio �
 ## Teiginiai
 
 <a id="claim-t-187257"></a>
-- t-002
+- t-001
   global_id: t-187257
   teiginys: "Vytauto pasakojime Jogaila be Kęstučio žinios sudarė taiką su Prūsų ir Livonijos kraštais."
   pagrindžia:
     - c-170314
 
 <a id="claim-t-187258"></a>
-- t-001
+- t-002
   global_id: t-187258
   teiginys: "Prie Trakų Jogailos kariuomenėje buvo Livonijos ponų."
   pagrindžia:

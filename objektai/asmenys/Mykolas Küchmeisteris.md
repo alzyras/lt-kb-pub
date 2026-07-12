@@ -43,14 +43,14 @@ Joje įsikūrė ordino vietininkas — vaitas («Voigt») Mykolas Küch­ meiste
 ## Teiginiai
 
 <a id="claim-t-176558"></a>
-- t-002
+- t-001
   global_id: t-176558
   teiginys: "Lietuviškai pramokęs Mykolas Küchmeisteris turėjo sostinę ir krašto administracijos centrą prie Dubysos žiočių."
   pagrindžia:
     - c-160559
 
 <a id="claim-t-176559"></a>
-- t-001
+- t-002
   global_id: t-176559
   teiginys: "Mykolas Küchmeisteris buvo ordino vietininkas vaitas, įsikūręs 1400 m. arti Dubysos pastatytoje Friedeburgo pilyje."
   pagrindžia:

@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -40,14 +41,14 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 ## Teiginiai
 
 <a id="claim-t-60108"></a>
-- t-002
+- t-001
   global_id: t-60108
   teiginys: "Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna."
   pagrindžia:
     - c-60741
 
 <a id="claim-t-60109"></a>
-- t-001
+- t-002
   global_id: t-60109
   teiginys: "1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos."
   pagrindžia:

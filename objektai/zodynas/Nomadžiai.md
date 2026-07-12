@@ -32,7 +32,7 @@ Vartojamos formos: `nomadžiais`.
 ## Teiginiai
 
 <a id="claim-t-07634"></a>
-- t-002
+- t-001
   global_id: t-07634
   teiginys: "Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose."
   pagrindžia:

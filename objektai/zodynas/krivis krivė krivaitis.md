@@ -9,6 +9,7 @@ tags:
   - kunigaikštis
   - kunigas
   - sąvoka
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,14 +39,14 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
     - c-59446
 
 <a id="claim-t-58815"></a>
-- t-003
+- t-002
   global_id: t-58815
   teiginys: "Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   pagrindžia:
     - c-59447
 
 <a id="claim-t-58816"></a>
-- t-002
+- t-003
   global_id: t-58816
   teiginys: "A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė."
   pagrindžia:

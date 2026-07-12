@@ -10,7 +10,8 @@ date_start: '1988'
 date_end: '1991'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -67,14 +68,14 @@ Atkūrus Lietuvą sportininkų vieša atsiskyrimo nuo SSRS sporto struktūrų pr
 ## Teiginiai
 
 <a id="claim-t-20813"></a>
-- t-005
+- t-001
   global_id: t-20813
   teiginys: "1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai."
   pagrindžia:
     - c-23533
 
 <a id="claim-t-20813"></a>
-- t-005
+- t-002
   global_id: t-20813
   teiginys: "1991 m. rugpjūtį Tarptautiniam olimpiniam komitetui atkūrus LTOK teises, Lietuvos sportininkai tarptautinėse varžybose atstovavo savo šaliai."
   pagrindžia:

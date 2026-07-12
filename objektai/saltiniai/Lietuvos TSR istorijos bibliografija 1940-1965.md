@@ -13,6 +13,7 @@ date_end: '1969'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
 amziai:
   - 'XX'

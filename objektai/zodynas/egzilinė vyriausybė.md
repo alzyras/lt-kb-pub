@@ -38,7 +38,7 @@ Iš pradžių penktame dešimtmetyje LDT stengėsi sudaryti Lietuvos tremties (e
 ## Teiginiai
 
 <a id="claim-t-183418"></a>
-- t-002
+- t-001
   global_id: t-183418
   teiginys: "Penktame dešimtmetyje Lietuvos diplomatinė tarnyba stengėsi sudaryti Lietuvos tremties, arba egzilinę, vyriausybę."
   pagrindžia:

@@ -67,7 +67,7 @@ Nenurodyta
     - c-169977
 
 <a id="claim-t-186781"></a>
-- t-001
+- t-002
   global_id: t-186781
   teiginys: "1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę."
   pagrindžia:

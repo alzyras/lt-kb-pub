@@ -28,21 +28,21 @@ Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Rom
 ## Teiginiai
 
 <a id="claim-t-192240"></a>
-- t-002
+- t-001
   global_id: t-192240
   teiginys: "Pasak Teodoro Narbuto, imperatorius Julijus Nepas po Odoakro pergalės paskyrė Odoakrą patricijumi."
   pagrindžia:
     - c-175084
 
 <a id="claim-t-192241"></a>
-- t-003
+- t-002
   global_id: t-192241
   teiginys: "Teodoras Narbutas patricijų aiškina kaip imperatoriaus vietininką."
   pagrindžia:
     - c-175084
 
 <a id="claim-t-192242"></a>
-- t-001
+- t-003
   global_id: t-192242
   teiginys: "Bychovco kronikos pasakojime su kunigaikščiu Apolonu pabėgo penki šimtai Romos patricijų, tarp jų keturių patricijų giminių atstovai."
   pagrindžia:

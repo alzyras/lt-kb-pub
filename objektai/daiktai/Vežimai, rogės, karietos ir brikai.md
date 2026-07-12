@@ -52,21 +52,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87037"></a>
-- t-003
+- t-001
   global_id: t-87037
   teiginys: "Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų."
   pagrindžia:
     - c-83017
 
 <a id="claim-t-87039"></a>
-- t-001
+- t-002
   global_id: t-87039
   teiginys: "Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais."
   pagrindžia:
     - c-83018
 
 <a id="claim-t-194183"></a>
-- t-004
+- t-003
   global_id: t-194183
   teiginys: "Rogėse pasislėpusiems žmonėms pavyko patekti į pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais pavertė anksčiau negu suspėjo Vytautas su kariauna19."
   pagrindžia:

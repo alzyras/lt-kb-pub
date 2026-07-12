@@ -43,7 +43,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     - c-169749
 
 <a id="claim-t-186405"></a>
-- t-004
+- t-002
   global_id: t-186405
   teiginys: "Ivinskis posakiu „mano priešo priešas yra mano draugas“ apibūdino lietuvių ir rygiečių sąjungos pagrindą."
   pagrindžia:
@@ -57,7 +57,7 @@ Ji buvo pagrįsta gyvenimo dėsniu : mano priešo priešas yra mano draugas.
     - c-169750
 
 <a id="claim-t-186407"></a>
-- t-002
+- t-004
   global_id: t-186407
   teiginys: "Lietuvių ir rygiečių sąjunga buvo grindžiama dėsniu „mano priešo priešas yra mano draugas“ ir iš viso truko tris dešimtmečius."
   pagrindžia:

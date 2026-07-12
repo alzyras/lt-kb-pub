@@ -37,7 +37,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
     - c-167407
 
 <a id="claim-t-59071"></a>
-- t-001
+- t-002
   global_id: t-59071
   teiginys: "Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės."
   pagrindžia:

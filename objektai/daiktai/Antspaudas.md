@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64897"></a>
-- t-010
+- t-001
   global_id: t-64897
   teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
   pagrindžia:
     - c-14295
 
 <a id="claim-t-64898"></a>
-- t-009
+- t-002
   global_id: t-64898
   teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
   pagrindžia:
     - c-14294
 
 <a id="claim-t-184601"></a>
-- t-011
+- t-003
   global_id: t-184601
   teiginys: "1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu."
   pagrindžia:

@@ -37,7 +37,7 @@ The Battle of Grünwald: in commemoration of the 600th anniversary of the Battle
 ## Teiginiai
 
 <a id="claim-t-71534"></a>
-- t-003
+- t-001
   global_id: t-71534
   teiginys: "Mindaugas Šapoka redagavo 2009 m. Vilniuje išleistą leidinį „Millennium of Lithuania: Millennium Lithuaniae“."
   pagrindžia:

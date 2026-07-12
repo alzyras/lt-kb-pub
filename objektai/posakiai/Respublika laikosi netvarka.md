@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - frazė
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -38,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-10834"></a>
-- t-002
+- t-001
   global_id: t-10834
   teiginys: "Formuluotė šiame pasakojime pateikiama kaip senasis bajoriškos netvarkos pateisinimo posakis."
   pagrindžia:

@@ -60,14 +60,14 @@ Nenurodyta
     - c-73113
 
 <a id="claim-t-75284"></a>
-- t-001
+- t-002
   global_id: t-75284
   teiginys: "1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą."
   pagrindžia:
     - c-73113
 
 <a id="claim-t-75284"></a>
-- t-001
+- t-003
   global_id: t-75284
   teiginys: "1944 m. vasarą sovietų kariuomenė antrą kartą okupavo Lietuvą ir grąžino stalininį režimą."
   pagrindžia:

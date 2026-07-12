@@ -13,7 +13,7 @@ tags:
   - ginklas
   - ivykis
   - tauta
-  - valstybė
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -54,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75291"></a>
-- t-003
+- t-001
   global_id: t-75291
   teiginys: "1934 m. vasario 8 d. priimtas Tautai ir valstybei saugoti įstatymas numatė bausmes už veikimą užsienio naudai prieš Lietuvą."
   pagrindžia:
     - c-73120
 
 <a id="claim-t-75292"></a>
-- t-001
+- t-002
   global_id: t-75292
   teiginys: "1934 m. vasario 8 d. Tautai ir valstybei saugoti įstatymas priimtas siekiant sutramdyti antivalstybinę veiklą."
   pagrindžia:
     - c-73120
 
 <a id="claim-t-75293"></a>
-- t-002
+- t-003
   global_id: t-75293
   teiginys: "Lietuvos valdžios kratos parodė, kad 805 nacių organizacijų nariai turėjo 1 104 šaunamuosius ginklus ir kurstomosios literatūros."
   pagrindžia:

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad buvę „per du akmens sviedimus nuo tos vietos, kur da
 ## Teiginiai
 
 <a id="claim-t-59151"></a>
-- t-002
+- t-001
   global_id: t-59151
   teiginys: "Posakis „po šiai dienai tebestovi apleista“ vartojamas apibūdinant Spitenbergo pilį Pamedėje."
   pagrindžia:

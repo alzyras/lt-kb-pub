@@ -13,7 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - bajorija
-  - privilegija
+  - teisinė-praktika
 amziai:
   - 'XVI'
 periodo_grupes:

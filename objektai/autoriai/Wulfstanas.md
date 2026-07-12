@@ -31,21 +31,21 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
 ## Teiginiai
 
 <a id="claim-t-97232"></a>
-- t-003
+- t-001
   global_id: t-97232
   teiginys: "Wulfstanas pasakojo apie prūsų laidojimo papročius ir teigė, kad aisčiai mokėjo išlaikyti užšaldytus lavonus vasarą."
   pagrindžia:
     - c-91714
 
 <a id="claim-t-97233"></a>
-- t-001
+- t-002
   global_id: t-97233
   teiginys: "Wulfstanas buvo pirmasis autorius, pats matęs aprašomą rytų Pabaltijo kraštą."
   pagrindžia:
     - c-91713
 
 <a id="claim-t-97234"></a>
-- t-002
+- t-003
   global_id: t-97234
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
   pagrindžia:
@@ -59,7 +59,7 @@ Wulfstanas buvo pirmasis, kuris pats matė aprašomą kraštą. Apie « aisčių
     - c-36706
 
 <a id="claim-t-97234"></a>
-- t-002
+- t-005
   global_id: t-97234
   teiginys: "Wulfstanas rašė, kad aisčių žemė buvo labai didelė, joje buvo daug medaus ir žuvies."
   pagrindžia:

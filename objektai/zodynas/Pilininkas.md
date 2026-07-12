@@ -63,7 +63,7 @@ Vartojama Gedimino laikų miesto valdymo, 1382 m. Vilniaus pilių perdavimo ir 1
     - c-55816
 
 <a id="claim-t-89572"></a>
-- t-004
+- t-003
   global_id: t-89572
   teiginys: "Surminas, Kolainių pilininkas, sušaukė pilėnus tartis, kaip apgauti pro pilį plaukiančius Ordino brolius."
   pagrindžia:

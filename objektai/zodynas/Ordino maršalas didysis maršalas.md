@@ -16,6 +16,7 @@ tags:
   - mokslininkas
   - ordinas
   - sąvoka
+  - šventė
 amziai:
   - 'XIV'
   - 'XIX'

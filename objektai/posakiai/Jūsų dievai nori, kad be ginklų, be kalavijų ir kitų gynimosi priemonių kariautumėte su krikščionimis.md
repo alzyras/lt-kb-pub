@@ -30,21 +30,21 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
 ## Teiginiai
 
 <a id="claim-t-89590"></a>
-- t-002
+- t-001
   global_id: t-89590
   teiginys: "Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą."
   pagrindžia:
     - c-85533
 
 <a id="claim-t-89591"></a>
-- t-003
+- t-002
   global_id: t-89591
   teiginys: "Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių."
   pagrindžia:
     - c-85533
 
 <a id="claim-t-194470"></a>
-- t-004
+- t-003
   global_id: t-194470
   teiginys: "Ši, užjausdama savąją lytį, sušaukė pas save visos žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir kitų gynimosi priemonių kariautumėte su krikščionimis“."
   pagrindžia:

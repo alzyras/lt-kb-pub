@@ -36,14 +36,14 @@ Horodlė šiame gabale lokalizuojama prie Vakarų Bugo. Vakarų Bugas naudojamas
 ## Teiginiai
 
 <a id="claim-t-187379"></a>
-- t-002
+- t-001
   global_id: t-187379
   teiginys: "Vakarų Bugas naudojamas kaip Horodlės vietos orientyras."
   pagrindžia:
     - c-170386
 
 <a id="claim-t-187380"></a>
-- t-001
+- t-002
   global_id: t-187380
   teiginys: "Horodlė šaltinio pastaboje lokalizuojama Volynėje, dabartinėje Lenkijoje, prie Vakarų Bugo, į pietus nuo Bresto."
   pagrindžia:

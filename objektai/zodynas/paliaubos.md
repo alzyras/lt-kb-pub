@@ -43,42 +43,42 @@ Iš Lenkijos jo kariuomenė buvo išvyta, ir netrukus buvo padarytos vienerių m
 ## Teiginiai
 
 <a id="claim-t-70264"></a>
-- t-006
+- t-001
   global_id: t-70264
   teiginys: "1409 m. Ordino kariuomenė buvo išvyta iš Lenkijos, o netrukus sudarytos vienerių metų paliaubos."
   pagrindžia:
     - c-69319
 
 <a id="claim-t-70265"></a>
-- t-007
+- t-002
   global_id: t-70265
   teiginys: "Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas."
   pagrindžia:
     - c-44202
 
 <a id="claim-t-70268"></a>
-- t-006
+- t-003
   global_id: t-70268
   teiginys: "Spalio 6 d. prasidėjo paliaubos, per kurias lenkai slapta pergrupavo ir papildė savo pajėgas."
   pagrindžia:
     - c-44201
 
 <a id="claim-t-70269"></a>
-- t-007
+- t-004
   global_id: t-70269
   teiginys: "Vytautas sudarė paliaubų sutartį su livoniškąja Ordino šaka, todėl ji nedalyvavo Tanenbergo mūšyje."
   pagrindžia:
     - c-69320
 
 <a id="claim-t-184632"></a>
-- t-009
+- t-005
   global_id: t-184632
   teiginys: "Ivanas atsakė Vasilijui Zaborovskiui, kad paliaubos nedraudžia jam statyti pilių prie Usviatų ir Ūlos."
   pagrindžia:
     - c-167993
 
 <a id="claim-t-193152"></a>
-- t-010
+- t-006
   global_id: t-193152
   teiginys: "Jau derybų metu lenkų karo jėgos, nepaisydamos paliaubų, veržėsi Vilniaus link, tarytum ten būtų buvę rusų bolševikų."
   pagrindžia:

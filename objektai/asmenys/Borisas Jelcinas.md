@@ -39,21 +39,21 @@ Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių Vilniuje Rusijos vadov
 ## Teiginiai
 
 <a id="claim-t-63519"></a>
-- t-002
+- t-001
   global_id: t-63519
   teiginys: "1991 m. liepos 29 d. Borisas Jelcinas ir Vytautas Landsbergis pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   pagrindžia:
     - c-21630
 
 <a id="claim-t-63520"></a>
-- t-003
+- t-002
   global_id: t-63520
   teiginys: "Borisas Jelcinas vadovavo kovai prieš komunistinius perversmininkus ir privertė kapituliuoti Maskvos pučistus."
   pagrindžia:
     - c-41877
 
 <a id="claim-t-63521"></a>
-- t-001
+- t-003
   global_id: t-63521
   teiginys: "Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms."
   pagrindžia:

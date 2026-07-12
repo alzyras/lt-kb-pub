@@ -13,6 +13,7 @@ tags:
   - ivykis
   - karas
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -53,21 +54,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75127"></a>
-- t-003
+- t-001
   global_id: t-75127
   teiginys: "Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų."
   pagrindžia:
     - c-73039
 
 <a id="claim-t-75128"></a>
-- t-001
+- t-002
   global_id: t-75128
   teiginys: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją."
   pagrindžia:
     - c-23001
 
 <a id="claim-t-75129"></a>
-- t-002
+- t-003
   global_id: t-75129
   teiginys: "1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
   pagrindžia:

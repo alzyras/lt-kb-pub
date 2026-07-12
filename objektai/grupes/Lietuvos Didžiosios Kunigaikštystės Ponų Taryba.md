@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - institucija
   - miestas
-  - tauta
 amziai:
   - 'XVI'
 media_total_count: '0'

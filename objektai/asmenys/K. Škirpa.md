@@ -44,28 +44,28 @@ media_all_json: |-
     - c-51393
 
 <a id="claim-t-49400"></a>
-- t-004
+- t-002
   global_id: t-49400
   teiginys: "Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   pagrindžia:
     - c-42054
 
 <a id="claim-t-49401"></a>
-- t-005
+- t-003
   global_id: t-49401
   teiginys: "Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą."
   pagrindžia:
     - c-42054
 
 <a id="claim-t-49402"></a>
-- t-002
+- t-004
   global_id: t-49402
   teiginys: "K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m."
   pagrindžia:
     - c-51392
 
 <a id="claim-t-49403"></a>
-- t-003
+- t-005
   global_id: t-49403
   teiginys: "K. Škirpos rezervas buvo pasiųstas pulti Suvalkų pro Krasnapolį, bet lietuviai sutiko stiprų lenkų pasipriešinimą."
   pagrindžia:

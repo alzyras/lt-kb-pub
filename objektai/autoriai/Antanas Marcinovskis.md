@@ -48,56 +48,56 @@ Antanas Marcinovskis šiame leidinyje siejamas su Vilniaus periodika, spaustuve 
 ## Teiginiai
 
 <a id="claim-t-187935"></a>
-- t-007
+- t-001
   global_id: t-187935
   teiginys: "1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje."
   pagrindžia:
     - c-170745
 
 <a id="claim-t-187936"></a>
-- t-008
+- t-002
   global_id: t-187936
   teiginys: "Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą."
   pagrindžia:
     - c-170926
 
 <a id="claim-t-187937"></a>
-- t-009
+- t-003
   global_id: t-187937
   teiginys: "Narbutas Marcinovskį įvardijo kaip „Kurjer Litewski“ redaktorių ir savo veikalų leidėją."
   pagrindžia:
     - c-170746
 
 <a id="claim-t-187938"></a>
-- t-010
+- t-004
   global_id: t-187938
   teiginys: "Leidinio pastaboje Antanas Marcinovskis vadinamas Vilniaus literatu, redaktoriumi, leidėju ir T. Narbuto LTI leidėju."
   pagrindžia:
     - c-170925
 
 <a id="claim-t-187939"></a>
-- t-006
+- t-005
   global_id: t-187939
   teiginys: "Antanas Marcinovskis buvo vienas iš „Dziennik Willenski“ ir „Tygodnik Wilenski“ redaktorių, priklausiusių masonų organizacijai."
   pagrindžia:
     - c-170744
 
 <a id="claim-t-190627"></a>
-- t-011
+- t-006
   global_id: t-190627
   teiginys: "Įvado autorė, remdamasi A. Marcinovskio biografija ir aspiracijomis, svarstė, kad leidėjui rūpėjo ne vien pelnas."
   pagrindžia:
     - c-173510
 
 <a id="claim-t-190690"></a>
-- t-012
+- t-007
   global_id: t-190690
   teiginys: "Antanas Marcinovskis buvo „Lietuvių tautos istorijos“ leidėjas, Vilniaus literatas, redaktorius ir spaustuvės savininkas."
   pagrindžia:
     - c-173572
 
 <a id="claim-t-190691"></a>
-- t-013
+- t-008
   global_id: t-190691
   teiginys: "Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją."
   pagrindžia:

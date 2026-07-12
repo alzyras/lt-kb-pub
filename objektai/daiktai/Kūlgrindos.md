@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06734"></a>
-- t-005
+- t-001
   global_id: t-06734
   teiginys: "Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės."
   pagrindžia:
     - c-00209
 
 <a id="claim-t-06735"></a>
-- t-004
+- t-002
   global_id: t-06735
   teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
   pagrindžia:

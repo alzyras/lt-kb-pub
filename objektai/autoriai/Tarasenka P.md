@@ -39,14 +39,14 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
 ## Teiginiai
 
 <a id="claim-t-64857"></a>
-- t-002
+- t-001
   global_id: t-64857
   teiginys: "P. Tarasenkos veikale „Pėdos“ Velnių stalo vieta žemėlapyje pažymėta netiksliai."
   pagrindžia:
     - c-65445
 
 <a id="claim-t-64858"></a>
-- t-001
+- t-002
   global_id: t-64858
   teiginys: "P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio."
   pagrindžia:

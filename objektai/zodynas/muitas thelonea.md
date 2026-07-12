@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - miestas
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -38,21 +38,21 @@ Karalius ŽYGIMANTAS AUGUSTAS ## Puslapis 344 VILNIAUS MIESTO ISTORIJA// TOMAS V
 ## Teiginiai
 
 <a id="claim-t-86424"></a>
-- t-003
+- t-001
   global_id: t-86424
   teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta mokėti muito, čopės ir šoso rinkliavas."
   pagrindžia:
     - c-82405
 
 <a id="claim-t-86425"></a>
-- t-001
+- t-002
   global_id: t-86425
   teiginys: "Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio."
   pagrindžia:
     - c-82404
 
 <a id="claim-t-86426"></a>
-- t-002
+- t-003
   global_id: t-86426
   teiginys: "Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius."
   pagrindžia:

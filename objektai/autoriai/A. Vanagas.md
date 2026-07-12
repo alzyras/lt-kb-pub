@@ -34,14 +34,14 @@ Dusburgietis teigia, kad laba, Labažė, Labažis, Labė ir lobas ‘dauba, ragu
 ## Teiginiai
 
 <a id="claim-t-184447"></a>
-- t-002
+- t-001
   global_id: t-184447
   teiginys: "Filologijos mokslų daktaras A. Vanagas sulaukė padėkos už dalykinius patarimus rengiant knygą spaudai."
   pagrindžia:
     - c-56012
 
 <a id="claim-t-184448"></a>
-- t-001
+- t-002
   global_id: t-184448
   teiginys: "A. Vanagas siejo Labguvos vardą su baltiškais hidronimais ir žodžiu lobas, reiškiančiu daubą, raguvą ar slėnį."
   pagrindžia:

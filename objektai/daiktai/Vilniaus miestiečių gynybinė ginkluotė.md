@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - karalius
   - miestas
-  - pilis
 amziai:
   - 'XVI'
 media_total_count: '0'

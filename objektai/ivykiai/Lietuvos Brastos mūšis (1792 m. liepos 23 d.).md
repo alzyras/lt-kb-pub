@@ -53,49 +53,49 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66681"></a>
-- t-005
+- t-001
   global_id: t-66681
   teiginys: "1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė."
   pagrindžia:
     - c-43075
 
 <a id="claim-t-66682"></a>
-- t-007
+- t-002
   global_id: t-66682
   teiginys: "Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas."
   pagrindžia:
     - c-11875
 
 <a id="claim-t-66683"></a>
-- t-011
+- t-003
   global_id: t-66683
   teiginys: "Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai."
   pagrindžia:
     - c-11875
 
 <a id="claim-t-66684"></a>
-- t-008
+- t-004
   global_id: t-66684
   teiginys: "1792 m. liepos 24 d. karalius S. A. Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos ir įsakė kariuomenei sudėti ginklus."
   pagrindžia:
     - c-11876
 
 <a id="claim-t-66685"></a>
-- t-010
+- t-005
   global_id: t-66685
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių."
   pagrindžia:
     - c-43076
 
 <a id="claim-t-66686"></a>
-- t-009
+- t-006
   global_id: t-66686
   teiginys: "Lietuvos Brastos mūšis prasidėjo 1792 m. liepos 23 d. auštant, kai prie lietuvių pozicijų priartėjo rusų kazokų priešakiniai daliniai."
   pagrindžia:
     - c-43075
 
 <a id="claim-t-66687"></a>
-- t-006
+- t-007
   global_id: t-66687
   teiginys: "Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių."
   pagrindžia:

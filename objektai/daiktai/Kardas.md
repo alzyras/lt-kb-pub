@@ -61,42 +61,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92967"></a>
-- t-008
+- t-001
   global_id: t-92967
   teiginys: "Seimeliuose plikbajoriai turėjo bajoriškąjį ženklą kardą, kuriuo galėjo paremti savo pono ar užmokėjusio asmens nuomonę."
   pagrindžia:
     - c-88398
 
 <a id="claim-t-92968"></a>
-- t-009
+- t-002
   global_id: t-92968
   teiginys: "1919 m. gegužės viduryje Lietuvos kariuomenė turėjo apie 200 kardų, tai yra raitelių."
   pagrindžia:
     - c-88402
 
 <a id="claim-t-92969"></a>
-- t-008
+- t-003
   global_id: t-92969
   teiginys: "1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams."
   pagrindžia:
     - c-88400
 
 <a id="claim-t-92970"></a>
-- t-011
+- t-004
   global_id: t-92970
   teiginys: "Sibiro batalijone penki karininkai ir trys kareiviai buvo nurengti ir pusplikiai sukapoti kardais."
   pagrindžia:
     - c-88397
 
 <a id="claim-t-92971"></a>
-- t-007
+- t-005
   global_id: t-92971
   teiginys: "Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą."
   pagrindžia:
     - c-88401
 
 <a id="claim-t-92972"></a>
-- t-009
+- t-006
   global_id: t-92972
   teiginys: "Kautynėse po iečių buvo naudojami kirviai, kardai ir kiti ginklai."
   pagrindžia:
@@ -110,7 +110,7 @@ Nenurodyta
     - c-88404
 
 <a id="claim-t-92975"></a>
-- t-010
+- t-008
   global_id: t-92975
   teiginys: "Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė į Valkininkus."
   pagrindžia:

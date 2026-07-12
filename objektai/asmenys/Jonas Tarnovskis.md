@@ -31,14 +31,14 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 ## Teiginiai
 
 <a id="claim-t-63736"></a>
-- t-002
+- t-001
   global_id: t-63736
   teiginys: "Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams."
   pagrindžia:
     - c-42029
 
 <a id="claim-t-63737"></a>
-- t-001
+- t-002
   global_id: t-63737
   teiginys: "Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos."
   pagrindžia:

@@ -36,14 +36,14 @@ Algimanto apygardą sudarė trys rinktinės: Šarūno, Kunigaikščio Margio ir 
 ## Teiginiai
 
 <a id="claim-t-41218"></a>
-- t-002
+- t-001
   global_id: t-41218
   teiginys: "1950 m. lapkričio 25 d. panaikinus Algimanto apygardą, Žaliosios rinktinės kovotojai buvo įtraukti į Vyčio apygardą."
   pagrindžia:
     - c-44885
 
 <a id="claim-t-41219"></a>
-- t-001
+- t-002
   global_id: t-41219
   teiginys: "Žalioji rinktinė buvo viena iš trijų Algimanto apygardos rinktinių kartu su Šarūno ir Kunigaikščio Margio rinktinėmis."
   pagrindžia:

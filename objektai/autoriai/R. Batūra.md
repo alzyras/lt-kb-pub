@@ -39,35 +39,35 @@ R. Batūra minimas kaip autorius, rašęs apie XIII a. Lietuvos sostinės klausi
 ## Teiginiai
 
 <a id="claim-t-97209"></a>
-- t-002
+- t-001
   global_id: t-97209
   teiginys: "Romas BATŪRA международный конгресс."
   pagrindžia:
     - c-91695
 
 <a id="claim-t-97211"></a>
-- t-006
+- t-002
   global_id: t-97211
   teiginys: "191—192; Batūra R., Karinė..., р."
   pagrindžia:
     - c-91699
 
 <a id="claim-t-97212"></a>
-- t-005
+- t-003
   global_id: t-97212
   teiginys: "Romas Batūra minimas tarp autorių, siejusių 1262 m. žygio organizavimą su Mindaugu ir vadovavimą kariuomenei su Treniota."
   pagrindžia:
     - c-91696
 
 <a id="claim-t-97213"></a>
-- t-007
+- t-004
   global_id: t-97213
   teiginys: "Romas Batūra 1966 m. rašė XIII a. Lietuvos sostinės klausimu ir nagrinėjo lietuvių kovas su totoriais."
   pagrindžia:
     - c-30822
 
 <a id="claim-t-97214"></a>
-- t-004
+- t-005
   global_id: t-97214
   teiginys: "Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius."
   pagrindžia:

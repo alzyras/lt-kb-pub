@@ -39,14 +39,14 @@ Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad
     - c-82452
 
 <a id="claim-t-86472"></a>
-- t-003
+- t-002
   global_id: t-86472
   teiginys: "Vladislovui Jogailai įsakius Vilniuje statyti Šv. Martyno bažnyčią, jos klebonija buvo aprūpinta lėšomis."
   pagrindžia:
     - c-82450
 
 <a id="claim-t-86473"></a>
-- t-002
+- t-003
   global_id: t-86473
   teiginys: "Vilniaus katedra buvo aprūpinta pajamomis iš Klodovo klebonijos Gniezno diecezijoje ir kitų valdų."
   pagrindžia:

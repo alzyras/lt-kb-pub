@@ -14,7 +14,7 @@ tags:
   - kraštas
   - kunigaikštis
   - ordinas
-  - vieta
+  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

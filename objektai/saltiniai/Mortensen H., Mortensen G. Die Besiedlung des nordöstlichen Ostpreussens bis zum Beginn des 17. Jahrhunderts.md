@@ -40,14 +40,14 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
 ## Teiginiai
 
 <a id="claim-t-175164"></a>
-- t-005
+- t-001
   global_id: t-175164
   teiginys: "Bebirvaitės pilis lokalizuojama prie Bebirvos upelio ir Bebirvų kaimo, netoli Raseinių–Šilinės kelio."
   pagrindžia:
     - c-159323
 
 <a id="claim-t-175165"></a>
-- t-006
+- t-002
   global_id: t-175165
   teiginys: "Skronaitę bandyta tapatinti su Skeršpile prie Mituvos aukštupio, bet dabartiniuose Skeršpyliuose piliakalnio pėdsakų nerasta."
   pagrindžia:
@@ -61,14 +61,14 @@ Dusburgietis teigia, kad 34, p. 107; Mortensen H., Mortensen G., Die Besiedlung.
     - c-159319
 
 <a id="claim-t-175167"></a>
-- t-007
+- t-004
   global_id: t-175167
   teiginys: "H. Mortenseno ir G. Mortenseno „Die Besiedlung des nordöstlichen Ostpreussens bis zum Beginn des 17. Jahrhunderts“ išleista dviem dalimis 1937 ir 1938 m."
   pagrindžia:
     - c-159320
 
 <a id="claim-t-175169"></a>
-- t-002
+- t-005
   global_id: t-175169
   teiginys: "H. ir G. Mortensenų veikalas minimas tarp darbų, kuriuose Kolainių pilies ieškota toliau į rytus už Bisenės."
   pagrindžia:

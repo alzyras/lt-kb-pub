@@ -46,14 +46,14 @@ Tai platus pajūrio kraštas tarp Išlos ir Daugavos, kuriam raštininkai priski
 ## Teiginiai
 
 <a id="claim-t-69966"></a>
-- t-005
+- t-001
   global_id: t-69966
   teiginys: "Žemaičių kraštui buvo taikomi ir Ritland, Austurland bei Oestland vardai."
   pagrindžia:
     - c-10528
 
 <a id="claim-t-69968"></a>
-- t-006
+- t-002
   global_id: t-69968
   teiginys: "To krašto gyventojai buvo siejami su gyvenimu žemai, pajūriuose."
   pagrindžia:

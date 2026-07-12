@@ -15,7 +15,7 @@ tags:
   - karas
   - paprotys
   - sukilimas
-  - vyskupas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XIX'
@@ -61,14 +61,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54324"></a>
-- t-002
+- t-001
   global_id: t-54324
   teiginys: "Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį."
   pagrindžia:
     - c-55194
 
 <a id="claim-t-54325"></a>
-- t-001
+- t-002
   global_id: t-54325
   teiginys: "1794 m. sukilimo metu Targovicos konfederatų egzekucijos sumanymas kilo oficialiai sukilimo valdžiai oponavusiame jakobinų klube."
   pagrindžia:
@@ -89,7 +89,7 @@ Nenurodyta
     - c-166719
 
 <a id="claim-t-54324"></a>
-- t-002
+- t-005
   global_id: t-54324
   teiginys: "Po 1861 m. pavasario manifesto Varšuvoje ir Vilniuje kilo patriotinių manifestacijų banga, nuslūgusi caro valdžiai įvedus karo padėtį."
   pagrindžia:

@@ -41,21 +41,21 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
 ## Teiginiai
 
 <a id="claim-t-59894"></a>
-- t-006
+- t-001
   global_id: t-59894
   teiginys: "Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią."
   pagrindžia:
     - c-60530
 
 <a id="claim-t-59895"></a>
-- t-003
+- t-002
   global_id: t-59895
   teiginys: "Šio pamokymo nepaklausė jo vyriausias sūnus Mstivojus."
   pagrindžia:
     - c-60531
 
 <a id="claim-t-59896"></a>
-- t-001
+- t-003
   global_id: t-59896
   teiginys: "Sventopelkas turėjo atsiųsti savo pirmagimį sūnų Mstivojų broliams kaip taikos sutarties įkaitą."
   pagrindžia:
@@ -76,7 +76,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
     - c-60529
 
 <a id="claim-t-59899"></a>
-- t-002
+- t-006
   global_id: t-59899
   teiginys: "Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą."
   pagrindžia:

@@ -49,63 +49,63 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
 ## Teiginiai
 
 <a id="claim-t-114293"></a>
-- t-014
+- t-001
   global_id: t-114293
   teiginys: "Palemono legenda teigė, kad Publijas Libonas iš Italijos atbėgo į Lietuvą ir ten sukūrė valstybę."
   pagrindžia:
     - c-46502
 
 <a id="claim-t-114294"></a>
-- t-013
+- t-002
   global_id: t-114294
   teiginys: "Pasakojime romėnų karvedys Publijas Libonas iš Italijos atbėgo į Lietuvą ir čia sukūrė valstybę."
   pagrindžia:
     - c-46502
 
 <a id="claim-t-114296"></a>
-- t-008
+- t-003
   global_id: t-114296
   teiginys: "Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais."
   pagrindžia:
     - c-105417
 
 <a id="claim-t-114297"></a>
-- t-012
+- t-004
   global_id: t-114297
   teiginys: "Aukštojo mokslo siekę ne dvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus."
   pagrindžia:
     - c-166414
 
 <a id="claim-t-114299"></a>
-- t-003
+- t-005
   global_id: t-114299
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   pagrindžia:
     - c-105413
 
 <a id="claim-t-114299"></a>
-- t-003
+- t-006
   global_id: t-114299
   teiginys: "Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse."
   pagrindžia:
     - c-105413
 
 <a id="claim-t-183020"></a>
-- t-015
+- t-007
   global_id: t-183020
   teiginys: "Dar prieš Konrado Mazoviečio pasiūlymą Kryžiuočių ordinui jo centras buvo Italijoje."
   pagrindžia:
     - c-166413
 
 <a id="claim-t-183021"></a>
-- t-016
+- t-008
   global_id: t-183021
   teiginys: "Aukštojo mokslo siekę nedvasininkai vykdavo į Vokietijos, Italijos ir Prancūzijos universitetus."
   pagrindžia:
     - c-166414
 
 <a id="claim-t-184962"></a>
-- t-012
+- t-009
   global_id: t-184962
   teiginys: "Po ilgų ginčų karalienei Bonai leista išvykti į Italiją su visomis brangenybėmis ir valdovės turtais."
   pagrindžia:
@@ -119,14 +119,14 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - c-171589
 
 <a id="claim-t-192667"></a>
-- t-017
+- t-011
   global_id: t-192667
   teiginys: "Narbutas rašo, kad 1700–1200 m. pr. Kr. pelazgai įsigalėjo artimesnėje Hesperijoje, arba Italijoje, ir apie 1500 m. pr. Kr. davė pradžią dorėnams bei achajams."
   pagrindžia:
     - c-175437
 
 <a id="claim-t-193637"></a>
-- t-018
+- t-012
   global_id: t-193637
   teiginys: "1939 m. Kaune Lietuva antrą kartą laimėjo Europos čempionatą, o netrukus merginų krepšinio rinktinė Italijoje iškovojo Europos čempionato sidabro medalius."
   pagrindžia:

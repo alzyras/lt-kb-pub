@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07781"></a>
-- t-002
+- t-001
   global_id: t-07781
   teiginys: "Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms."
   pagrindžia:

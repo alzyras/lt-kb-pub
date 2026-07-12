@@ -11,7 +11,6 @@ date_end: '1434'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - saltinis
   - valstybė
 amziai:

@@ -10,7 +10,8 @@ date_start: '1930'
 date_end: '1939'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ūkio-įrankis
 amziai:
   - 'XX'
 media_total_count: '0'

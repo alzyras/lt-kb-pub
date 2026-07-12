@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - miestas
   - pilis
-  - privilegija
   - saltinis
 amziai:
   - 'XIII'

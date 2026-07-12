@@ -43,98 +43,98 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
 ## Teiginiai
 
 <a id="claim-t-90290"></a>
-- t-002
+- t-001
   global_id: t-90290
   teiginys: "Pasakojime apie antrąjį prūsų sukilimą Baiga minima tarp pilių ir miestų, atsidūrusių įvykių centre."
   pagrindžia:
     - c-86167
 
 <a id="claim-t-90291"></a>
-- t-013
+- t-002
   global_id: t-90291
   teiginys: "Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei."
   pagrindžia:
     - c-86164
 
 <a id="claim-t-90292"></a>
-- t-009
+- t-003
   global_id: t-90292
   teiginys: "Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi."
   pagrindžia:
     - c-86161
 
 <a id="claim-t-90293"></a>
-- t-010
+- t-004
   global_id: t-90293
   teiginys: "Pastačius Baigos pilį, sembai pasiuntė vieną vyresnįjį į Baigą ištirti brolių gyvenimo."
   pagrindžia:
     - c-86158
 
 <a id="claim-t-90294"></a>
-- t-011
+- t-005
   global_id: t-90294
   teiginys: "Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną."
   pagrindžia:
     - c-86157
 
 <a id="claim-t-90295"></a>
-- t-001
+- t-006
   global_id: t-90295
   teiginys: "Pasak kronikos, Kristus padėjo Baigoje apsuptiems broliams, paragindamas vieną prūsą išduoti saviškius."
   pagrindžia:
     - c-86165
 
 <a id="claim-t-90296"></a>
-- t-003
+- t-007
   global_id: t-90296
   teiginys: "Kronikos dalyje apie karus prieš Lietuvą minimi trys Baigos komtūrai."
   pagrindžia:
     - c-86169
 
 <a id="claim-t-90297"></a>
-- t-004
+- t-008
   global_id: t-90297
   teiginys: "Du laivai padėjo pastatyti Elbingo ir Baigos pilis bei apsaugoti Gėlo vandens marias nuo netikėlių."
   pagrindžia:
     - c-86160
 
 <a id="claim-t-90298"></a>
-- t-014
+- t-009
   global_id: t-90298
   teiginys: "Prie Baigos atplaukusi Ordino kariuomenė, padedama pilies vado Kodrūno, užgrobė prūsų pilį."
   pagrindžia:
     - c-86163
 
 <a id="claim-t-90299"></a>
-- t-008
+- t-010
   global_id: t-90299
   teiginys: "Prie Baigos brolių persikėlę kilmingi Varmės vyrai sustiprino brolius, o šie prie upės pastatė įtvirtintą malūną."
   pagrindžia:
     - c-86166
 
 <a id="claim-t-90300"></a>
-- t-012
+- t-011
   global_id: t-90300
   teiginys: "1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius."
   pagrindžia:
     - c-86162
 
 <a id="claim-t-90301"></a>
-- t-007
+- t-012
   global_id: t-90301
   teiginys: "Varmių vadas Pijopas apsiautė Baigos pilį, bet žuvo prie jos pervertas vieno brolio strėle."
   pagrindžia:
     - c-86156
 
 <a id="claim-t-90302"></a>
-- t-006
+- t-013
   global_id: t-90302
   teiginys: "1239 m. broliai, padedami Baigos pilies vado Kodrūno, užgrobė prūsų pilį ir apsigyveno Baigoje."
   pagrindžia:
     - c-86163
 
 <a id="claim-t-90303"></a>
-- t-005
+- t-014
   global_id: t-90303
   teiginys: "Prie Varmės kranto broliai netoli būsimos Baigos pilies vietos pamatė prūsų pilį, bet jos nepuolė dėl karių stokos."
   pagrindžia:
@@ -148,14 +148,14 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - c-167529
 
 <a id="claim-t-90292"></a>
-- t-009
+- t-016
   global_id: t-90292
   teiginys: "Dusburgietis pabrėžė Baigos ir kitų pilių brolių skaistumą, santūrumą ir griežtų vienuoliškų regulų laikymąsi."
   pagrindžia:
     - c-86161
 
 <a id="claim-t-90291"></a>
-- t-013
+- t-017
   global_id: t-90291
   teiginys: "Įkūrus Baigos pilį, joje gyvenę broliai ir ginklanešiai garsėjo narsa ir dažnai pridarydavo nuostolių priešo kariuomenei."
   pagrindžia:

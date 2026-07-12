@@ -12,6 +12,7 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - formulė
   - posakis
 amziai:
   - 'XIII'
@@ -38,14 +39,14 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 ## Teiginiai
 
 <a id="claim-t-59142"></a>
-- t-002
+- t-001
   global_id: t-59142
   teiginys: "Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus."
   pagrindžia:
     - c-59775
 
 <a id="claim-t-59143"></a>
-- t-001
+- t-002
   global_id: t-59143
   teiginys: "Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“."
   pagrindžia:

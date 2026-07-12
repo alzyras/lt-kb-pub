@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - vieta
 amziai:
   - 'XX'
@@ -42,14 +43,14 @@ Prie Aukščiausios Tarybos rūmų Vilniuje 1990 m. kovo 11 d. Mergaitė su plak
     - c-24049
 
 <a id="claim-t-46507"></a>
-- t-003
+- t-002
   global_id: t-46507
   teiginys: "1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė plakatu reikalavo Lietuvos Respublikos, o ne LSSR."
   pagrindžia:
     - c-49076
 
 <a id="claim-t-46506"></a>
-- t-001
+- t-003
   global_id: t-46506
   teiginys: "1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR."
   pagrindžia:

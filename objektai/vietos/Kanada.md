@@ -38,14 +38,14 @@ Per trejus–ketverius metus į JAV pasisekė atvykti visiems norintiems lietuvi
 ## Teiginiai
 
 <a id="claim-t-68041"></a>
-- t-002
+- t-001
   global_id: t-68041
   teiginys: "Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos tarptautinį pripažinimą Kanadoje ir kitose SSRS aneksijos nepripažinusiose šalyse."
   pagrindžia:
     - c-67726
 
 <a id="claim-t-183598"></a>
-- t-003
+- t-002
   global_id: t-183598
   teiginys: "Dalis lietuvių tremtinių ir pabėgėlių, neatvykusių į JAV, pasuko į Kanadą, Didžiąją Britaniją ir Australiją."
   pagrindžia:

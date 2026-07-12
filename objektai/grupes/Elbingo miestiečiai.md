@@ -38,7 +38,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
 ## Teiginiai
 
 <a id="claim-t-62994"></a>
-- t-002
+- t-001
   global_id: t-62994
   teiginys: "Pagudėnų persekiojami Elbingo miestiečiai pasitraukė į Liefardo malūną, kuris buvo įtvirtintas tarsi pilis."
   pagrindžia:
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad apie Liefardo malūno paėmimą ir daugybės Elbingo mi
     - c-63897
 
 <a id="claim-t-62995"></a>
-- t-001
+- t-002
   global_id: t-62995
   teiginys: "1273 m. Elbingo miestiečiai vijosi prie miesto pasirodžiusius pagudėnų raitelius ir vieną kitą nukovė."
   pagrindžia:

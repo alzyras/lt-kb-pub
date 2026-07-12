@@ -30,7 +30,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 ## Teiginiai
 
 <a id="claim-t-49483"></a>
-- t-003
+- t-001
   global_id: t-49483
   teiginys: "Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris."
   pagrindžia:
@@ -44,7 +44,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
     - c-51455
 
 <a id="claim-t-49485"></a>
-- t-001
+- t-003
   global_id: t-49485
   teiginys: "Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo."
   pagrindžia:

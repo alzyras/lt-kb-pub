@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10815"></a>
-- t-006
+- t-001
   global_id: t-10815
   teiginys: "Aisčiai ugnį laikė dievybe, per ją susižinodavo su dievais ir degindavo jiems aukas; kai kuriose vietose nuolat kūrenama amžinoji ugnis buvo savotiška šventovė."
   pagrindžia:
     - c-00233
 
 <a id="claim-t-10816"></a>
-- t-007
+- t-002
   global_id: t-10816
   teiginys: "Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija."
   pagrindžia:

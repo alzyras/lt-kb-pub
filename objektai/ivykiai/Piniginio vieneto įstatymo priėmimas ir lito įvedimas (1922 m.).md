@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - reforma
 amziai:
   - 'XX'
@@ -57,28 +58,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-23350"></a>
-- t-002
+- t-001
   global_id: t-23350
   teiginys: "Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų."
   pagrindžia:
     - c-16900
 
 <a id="claim-t-23351"></a>
-- t-003
+- t-002
   global_id: t-23351
   teiginys: "1922 m. spalio 1 d. Lietuvoje įvestas litas."
   pagrindžia:
     - c-16901
 
 <a id="claim-t-23352"></a>
-- t-004
+- t-003
   global_id: t-23352
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   pagrindžia:
     - c-16900
 
 <a id="claim-t-26858"></a>
-- t-005
+- t-004
   global_id: t-26858
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   pagrindžia:

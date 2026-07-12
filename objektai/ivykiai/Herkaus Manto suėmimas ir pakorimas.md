@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62804"></a>
-- t-002
+- t-001
   global_id: t-62804
   teiginys: "Herkus Mantas žuvo 1273 m. vasarą arba rudenį."
   pagrindžia:
     - c-63611
 
 <a id="claim-t-62805"></a>
-- t-001
+- t-002
   global_id: t-62805
   teiginys: "Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju."
   pagrindžia:

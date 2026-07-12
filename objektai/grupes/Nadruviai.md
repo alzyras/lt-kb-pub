@@ -36,28 +36,28 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-65933"></a>
-- t-011
+- t-001
   global_id: t-65933
   teiginys: "Konradas iš Tirbergo pasiuntė brolį Ditrichą su kariuomene į Nadruvą, o šis nusiaubė Retavos valsčių."
   pagrindžia:
     - c-66269
 
 <a id="claim-t-65934"></a>
-- t-004
+- t-002
   global_id: t-65934
   teiginys: "Septinta — Nadruva197, kurioje [gyveno] nadruviai."
   pagrindžia:
     - c-66270
 
 <a id="claim-t-65935"></a>
-- t-002
+- t-003
   global_id: t-65935
   teiginys: "M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais."
   pagrindžia:
     - c-66274
 
 <a id="claim-t-65936"></a>
-- t-007
+- t-004
   global_id: t-65936
   teiginys: "Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa."
   pagrindžia:
@@ -71,7 +71,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-66267
 
 <a id="claim-t-65938"></a>
-- t-003
+- t-006
   global_id: t-65938
   teiginys: "Nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, tai yra vakarinių baltų."
   pagrindžia:
@@ -79,21 +79,21 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-66271
 
 <a id="claim-t-65939"></a>
-- t-008
+- t-007
   global_id: t-65939
   teiginys: "Nadruviai, skalviai ir sūduviai įsibrovė į Sembą, ją nusiaubė ir pastatė Vėluvos pilį gynybai nuo brolių ir sembų."
   pagrindžia:
     - c-66271
 
 <a id="claim-t-65940"></a>
-- t-009
+- t-008
   global_id: t-65940
   teiginys: "Sūduviai, nadruviai ir skalviai su didele kariuomene apsiautė ir smarkiai užpuolė Bysleidos pilį prie Bartenšteino."
   pagrindžia:
     - c-66268
 
 <a id="claim-t-65941"></a>
-- t-006
+- t-009
   global_id: t-65941
   teiginys: "Katinavos kalva nadruvių buvo laikoma šventa (Pratorius M., Deliciae..., kn."
   pagrindžia:

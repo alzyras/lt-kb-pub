@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - miestas
   - posakis
+  - šeima
 amziai:
   - 'XIX'
   - 'XX'

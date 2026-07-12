@@ -14,7 +14,7 @@ tags:
   - asmuo
   - karalius
   - miestas
-  - privilegija
+  - upė
 amziai:
   - 'XVI'
 periodo_grupes:

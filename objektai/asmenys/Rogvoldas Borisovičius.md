@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - šeima
 amziai:
   - 'XVIII'
 periodo_grupes:

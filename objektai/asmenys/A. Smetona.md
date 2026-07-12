@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
+  - institucija
   - mokslininkas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:
@@ -41,77 +41,77 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
 ## Teiginiai
 
 <a id="claim-t-77965"></a>
-- t-007
+- t-001
   global_id: t-77965
   teiginys: "1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios."
   pagrindžia:
     - c-75285
 
 <a id="claim-t-77966"></a>
-- t-010
+- t-002
   global_id: t-77966
   teiginys: "Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu."
   pagrindžia:
     - c-75290
 
 <a id="claim-t-77967"></a>
-- t-019
+- t-003
   global_id: t-77967
   teiginys: "Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties."
   pagrindžia:
     - c-75289
 
 <a id="claim-t-77968"></a>
-- t-017
+- t-004
   global_id: t-77968
   teiginys: "Priėmus Lenkijos ultimatumą premjeru tapęs kunigas Vladas Mironas buvo A. Smetonai artimas asmuo."
   pagrindžia:
     - c-75283
 
 <a id="claim-t-77969"></a>
-- t-020
+- t-005
   global_id: t-77969
   teiginys: "1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai."
   pagrindžia:
     - c-75281
 
 <a id="claim-t-77970"></a>
-- t-009
+- t-006
   global_id: t-77970
   teiginys: "1928 m. gegužės 15 d. A. Smetona nauja konstitucija sustiprino savo pozicijas ir įteisino autoritarinį valdymą."
   pagrindžia:
     - c-75296
 
 <a id="claim-t-77971"></a>
-- t-016
+- t-007
   global_id: t-77971
   teiginys: "1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija."
   pagrindžia:
     - c-75286
 
 <a id="claim-t-77972"></a>
-- t-013
+- t-008
   global_id: t-77972
   teiginys: "A. Smetonos režimo prioritetai buvo tautinės kultūros kūrimas ir lietuviškai kalbanti Lietuva."
   pagrindžia:
     - c-75298
 
 <a id="claim-t-77973"></a>
-- t-005
+- t-009
   global_id: t-77973
   teiginys: "A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi."
   pagrindžia:
     - c-75282
 
 <a id="claim-t-77974"></a>
-- t-001
+- t-010
   global_id: t-77974
   teiginys: "A. Smetona vadovavo draugijai nuo karo nukentėjusiesiems šelpti ir į jos veiklą įtraukė kairės bei liberalų lyderius."
   pagrindžia:
     - c-25431
 
 <a id="claim-t-77975"></a>
-- t-015
+- t-011
   global_id: t-77975
   teiginys: "Nuo 1930 m. per Tautos šventę valstybines įstaigas puošdavo dideli Vytauto Didžiojo ir A. Smetonos portretai."
   pagrindžia:
@@ -125,56 +125,56 @@ Smetona, siekdamas kompromiso, į jos veiklą įtraukė kairės ir liberalų lyd
     - c-75294
 
 <a id="claim-t-77977"></a>
-- t-006
+- t-013
   global_id: t-77977
   teiginys: "Smetona, kuris prisiekė laikytis šalies konstitucijos."
   pagrindžia:
     - c-75295
 
 <a id="claim-t-77978"></a>
-- t-011
+- t-014
   global_id: t-77978
   teiginys: "A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises."
   pagrindžia:
     - c-75297
 
 <a id="claim-t-77979"></a>
-- t-021
+- t-015
   global_id: t-77979
   teiginys: "1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV."
   pagrindžia:
     - c-75291
 
 <a id="claim-t-77980"></a>
-- t-008
+- t-016
   global_id: t-77980
   teiginys: "1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų."
   pagrindžia:
     - c-75284
 
 <a id="claim-t-77981"></a>
-- t-018
+- t-017
   global_id: t-77981
   teiginys: "A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo."
   pagrindžia:
     - c-75293
 
 <a id="claim-t-77983"></a>
-- t-002
+- t-018
   global_id: t-77983
   teiginys: "1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui."
   pagrindžia:
     - c-75288
 
 <a id="claim-t-77984"></a>
-- t-004
+- t-019
   global_id: t-77984
   teiginys: "1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo."
   pagrindžia:
     - c-75299
 
 <a id="claim-t-77985"></a>
-- t-003
+- t-020
   global_id: t-77985
   teiginys: "1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti."
   pagrindžia:

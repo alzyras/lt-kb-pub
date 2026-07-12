@@ -41,21 +41,21 @@ Aleksandras (didysis kunigaikštis): 1. Aleksandro (1492—1506 m.) išrinkimas 
 ## Teiginiai
 
 <a id="claim-t-75642"></a>
-- t-005
+- t-001
   global_id: t-75642
   teiginys: "Mirus Jonui Albrechtui, Aleksandras buvo išrinktas Lenkijos karaliumi."
   pagrindžia:
     - c-73367
 
 <a id="claim-t-75647"></a>
-- t-004
+- t-002
   global_id: t-75647
   teiginys: "Aleksandro laikais daug valstybės dvarų Lietuvoje pateko bajorijai ir ponams, nes valdovas juos dalijo be atodairos."
   pagrindžia:
     - c-73365
 
 <a id="claim-t-75650"></a>
-- t-009
+- t-003
   global_id: t-75650
   teiginys: "XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių."
   pagrindžia:

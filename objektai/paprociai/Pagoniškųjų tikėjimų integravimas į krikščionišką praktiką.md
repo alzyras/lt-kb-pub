@@ -14,6 +14,7 @@ tags:
   - krikštas
   - paprotys
   - tikėjimas
+  - šventė
 amziai:
   - 'XIV'
   - 'XV'
@@ -59,7 +60,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67184"></a>
-- t-002
+- t-001
   global_id: t-67184
   teiginys: "Bažnyčia siekė integruoti pagoniškuosius tikėjimus, tačiau katalikų šventieji tik pamažu stūmė pagonių dievus."
   pagrindžia:

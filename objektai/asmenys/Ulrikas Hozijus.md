@@ -41,28 +41,28 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
 ## Teiginiai
 
 <a id="claim-t-87362"></a>
-- t-004
+- t-001
   global_id: t-87362
   teiginys: "Ulrikas Hozijus turėjo prie dominikonų Šv. Dvasios bažnyčios pastatyti viešą špitolę ir ją išlaikyti."
   pagrindžia:
     - c-83342
 
 <a id="claim-t-87363"></a>
-- t-003
+- t-002
   global_id: t-87363
   teiginys: "Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas."
   pagrindžia:
     - c-83346
 
 <a id="claim-t-87364"></a>
-- t-006
+- t-003
   global_id: t-87364
   teiginys: "Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis."
   pagrindžia:
     - c-83347
 
 <a id="claim-t-87365"></a>
-- t-002
+- t-004
   global_id: t-87365
   teiginys: "1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą."
   pagrindžia:
@@ -76,21 +76,21 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
     - c-83341
 
 <a id="claim-t-87367"></a>
-- t-007
+- t-006
   global_id: t-87367
   teiginys: "Ulrikas Hozijus greitai ir rūpestingai pastatė tiltą per Vilijos upę prie Vilniaus savo didelėmis lėšomis."
   pagrindžia:
     - c-83344
 
 <a id="claim-t-87368"></a>
-- t-001
+- t-007
   global_id: t-87368
   teiginys: "Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui."
   pagrindžia:
     - c-83343
 
 <a id="claim-t-87363"></a>
-- t-003
+- t-008
   global_id: t-87363
   teiginys: "Ulrikas Hozijus iki mirties buvo Vilniaus monetų kalyklos prižiūrėtojas."
   pagrindžia:

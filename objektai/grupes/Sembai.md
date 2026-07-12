@@ -48,7 +48,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-175076"></a>
-- t-009
+- t-001
   global_id: t-175076
   teiginys: "Semba apibūdinta kaip turtingiausia ir tankiausiai gyvenama žemė, galėjusi sutelkti 4000 raitelių ir 40000 karių."
   pagrindžia:
@@ -56,63 +56,63 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159234
 
 <a id="claim-t-175077"></a>
-- t-010
+- t-002
   global_id: t-175077
   teiginys: "Prieš sembų gentį buvo kariauta daug karų, o viename žygyje Kristburgo komtūras Henrikas Stange įsiveržė į Sembą."
   pagrindžia:
     - c-159212
 
 <a id="claim-t-175078"></a>
-- t-018
+- t-003
   global_id: t-175078
   teiginys: "Vienas prūsas Karaliaučiaus broliams išpranašavo, kad švento Vincento dieną sembai bus išžudyti."
   pagrindžia:
     - c-159248
 
 <a id="claim-t-175079"></a>
-- t-022
+- t-004
   global_id: t-175079
   teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
   pagrindžia:
     - c-159214
 
 <a id="claim-t-175080"></a>
-- t-020
+- t-005
   global_id: t-175080
   teiginys: "Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo."
   pagrindžia:
     - c-159236
 
 <a id="claim-t-175081"></a>
-- t-014
+- t-006
   global_id: t-175081
   teiginys: "Sembai nukankino Teutonų ordino kunigą, atsiųstą jų krikštyti, suspaudę jam kaklą dviem kartimis."
   pagrindžia:
     - c-159241
 
 <a id="claim-t-175082"></a>
-- t-005
+- t-007
   global_id: t-175082
   teiginys: "Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos."
   pagrindžia:
     - c-159211
 
 <a id="claim-t-175083"></a>
-- t-027
+- t-008
   global_id: t-175083
   teiginys: "Brolis Bertoldas su tūkstančiu Sembos vyrų sudegino Medrabos pilį iki pamatų, jos žmones išžudė arba paėmė į nelaisvę."
   pagrindžia:
     - c-159228
 
 <a id="claim-t-175084"></a>
-- t-028
+- t-009
   global_id: t-175084
   teiginys: "1313 m. rudenį maršalas Henrikas su broliais ir Sembos bei Notangos vyrais užpuolė Bisenės pilį, o abu jos papiliai sudegė."
   pagrindžia:
     - c-159217
 
 <a id="claim-t-175085"></a>
-- t-007
+- t-010
   global_id: t-175085
   teiginys: "Šešta — Semba196, kurioje [gyveno] sembai."
   pagrindžia:
@@ -120,14 +120,14 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159229
 
 <a id="claim-t-175086"></a>
-- t-001
+- t-011
   global_id: t-175086
   teiginys: "Sembai buvo minimi tarp Rytprūsiuose žinomų vakarinių baltų genčių."
   pagrindžia:
     - c-159220
 
 <a id="claim-t-175088"></a>
-- t-021
+- t-012
   global_id: t-175088
   teiginys: "Sembai, nebepajėgdami priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė krikščionių tikėjimui."
   pagrindžia:
@@ -141,21 +141,21 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159249
 
 <a id="claim-t-175089"></a>
-- t-002
+- t-013
   global_id: t-175089
   teiginys: "XI-XII a. danų šaltiniai rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams."
   pagrindžia:
     - c-159224
 
 <a id="claim-t-175090"></a>
-- t-029
+- t-014
   global_id: t-175090
   teiginys: "1314 m. maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių."
   pagrindžia:
     - c-159242
 
 <a id="claim-t-175091"></a>
-- t-025
+- t-015
   global_id: t-175091
   teiginys: "1274 m. sembai kartu su pagudėnais, varmiais, notangais ir bartais grįžo į Bažnyčios visuotinybę ir davė įkaitų."
   pagrindžia:
@@ -169,154 +169,154 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-159219
 
 <a id="claim-t-175093"></a>
-- t-012
+- t-017
   global_id: t-175093
   teiginys: "Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčių sembai davė karaliui įkaitus ir prisiekė paklusti tikėjimui bei broliams."
   pagrindžia:
     - c-159243
 
 <a id="claim-t-175094"></a>
-- t-003
+- t-018
   global_id: t-175094
   teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
   pagrindžia:
     - c-42928
 
 <a id="claim-t-175095"></a>
-- t-030
+- t-019
   global_id: t-175095
   teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
   pagrindžia:
     - c-159231
 
 <a id="claim-t-175096"></a>
-- t-004
+- t-020
   global_id: t-175096
   teiginys: "Po mūšio išlikę sembai kartu su kitais krikščionių kariais bėgo, nebegalėdami kovoti."
   pagrindžia:
     - c-42929
 
 <a id="claim-t-175097"></a>
-- t-015
+- t-021
   global_id: t-175097
   teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
   pagrindžia:
     - c-159246
 
 <a id="claim-t-175098"></a>
-- t-024
+- t-022
   global_id: t-175098
   teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
   pagrindžia:
     - c-159245
 
 <a id="claim-t-175099"></a>
-- t-019
+- t-023
   global_id: t-175099
   teiginys: "Kai kurie kilmingi sembai su šeimynomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių."
   pagrindžia:
     - c-159235
 
 <a id="claim-t-175100"></a>
-- t-008
+- t-024
   global_id: t-175100
   teiginys: "Sembos vardas šaltiniuose minimas formomis Semland, Samblandia, Zambia, Samia, Samplandia, Samlandia ir Sambia."
   pagrindžia:
     - c-159226
 
 <a id="claim-t-175101"></a>
-- t-006
+- t-025
   global_id: t-175101
   teiginys: "Sembų ir lietuvių bendrų veiksmų galima įžiūrėti XIII a. šeštojo dešimtmečio Klaipėdos pilies apgultyje."
   pagrindžia:
     - c-159250
 
 <a id="claim-t-175094"></a>
-- t-003
+- t-026
   global_id: t-175094
   teiginys: "1260 m. Klaipėdoje sembai minimi tarp Ordino pavaldžių užgrobtų žemių prievarta buriamų karių prieš Lietuvą."
   pagrindžia:
     - c-42928
 
 <a id="claim-t-175103"></a>
-- t-017
+- t-027
   global_id: t-175103
   teiginys: "Per kautynes krito daugiau kaip trys tūkstančiai sembų ir kitų prūsų tą pačią dieną, kai prieš metus vyko Pokarvių kautynės."
   pagrindžia:
     - c-159215
 
 <a id="claim-t-175104"></a>
-- t-013
+- t-028
   global_id: t-175104
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, sembai savo kariuomenės vadu ir vyresniuoju išsirinko Glandą."
   pagrindžia:
     - c-159249
 
 <a id="claim-t-175105"></a>
-- t-026
+- t-029
   global_id: t-175105
   teiginys: "Sembų fogtas Ditrichas iš Lidelau, grįžęs iš Vokietijos, atkalbėjo jį gerbusius sembus nuo paklydimo."
   pagrindžia:
     - c-159221
 
 <a id="claim-t-175097"></a>
-- t-015
+- t-030
   global_id: t-175097
   teiginys: "Grafui iš Barbio įsiveržus į Sembos žemę ir ją nusiaubus, sembai jį užpuolė sausio 21 d. ir sunkiai sužeidė."
   pagrindžia:
     - c-159246
 
 <a id="claim-t-175079"></a>
-- t-022
+- t-031
   global_id: t-175079
   teiginys: "Rinavos valsčiuje gyvenę sembai vėl atkrito nuo tikėjimo ir, subūrę kariuomenę, užpuolė Sembos vyskupo Fišhauzeno pilį."
   pagrindžia:
     - c-159214
 
 <a id="claim-t-175098"></a>
-- t-024
+- t-032
   global_id: t-175098
   teiginys: "Po antrosios atskalūnybės Sembos žemėje pastatytos Tepliavos ir Viklandsorto pilys buvo sustiprintos sembams tramdyti."
   pagrindžia:
     - c-159245
 
 <a id="claim-t-175095"></a>
-- t-030
+- t-033
   global_id: t-175095
   teiginys: "1317 m. žiemą maršalas Henrikas, broliai ir Sembos bei Notangos kariai žygiavo prieš Vaikių valsčių, bet dėl audros grįžo atgal."
   pagrindžia:
     - c-159231
 
 <a id="claim-t-194357"></a>
-- t-036
+- t-034
   global_id: t-194357
   teiginys: "Apie daugybės maldininkų žūtį Tais pačiais metais į Prūsiją su didele kariuomene atžygiavo grafas iš Barbio368 ir įsibrovė į Sembos žemę."
   pagrindžia:
     - c-159246
 
 <a id="claim-t-194358"></a>
-- t-037
+- t-035
   global_id: t-194358
   teiginys: "Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei trys tūkstančiai sembų bei kitų prūsų, taigi tą pačią dieną, kurią prieš metus įvyko Pokarvių kautynės."
   pagrindžia:
     - c-159215
 
 <a id="claim-t-194359"></a>
-- t-038
+- t-036
   global_id: t-194359
   teiginys: "Apie Rinavos valsčiaus sembų naują atskalūnybę Žmonių giminės nedraugas velnias, visados pavydįs tikintiesiems taikos bei ramybės, sukurstė tuos sembus, kurie gyveno Rinavos382 valsčiuje, vėl atkristi nuo tikėjimo."
   pagrindžia:
     - c-159214
 
 <a id="claim-t-194360"></a>
-- t-039
+- t-037
   global_id: t-194360
   teiginys: "Apie tai, kaip Sembos žemėje buvo pastatytos Tepliavos ir Laukstetų pilys Po antrosios atskalūnybės buvo pastatyta 1265 m. Tepliavos pilis, kurią prūsai vadino Surgurbiu384, o ilgainiui— Viklandsorto385 pilis, kuri dabar vadinama Laukstetais386 nuo vieno ten."
   pagrindžia:
     - c-159245
 
 <a id="claim-t-194361"></a>
-- t-040
+- t-038
   global_id: t-194361
   teiginys: "Kaip dievas stebuklingai išgelbėjo iš mirties pavojaus brolius bei jų didelę kariuomenę 1317 viešpaties metais, žiemą, kai brolis Henrikas, maršalas, broliai bei Sembos ir Notangos kariai nužygiavo prieš Vaikių valsčių, pačiame vidurnaktyje, vos sumigus."
   pagrindžia:

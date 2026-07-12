@@ -41,14 +41,14 @@ Prancūzams ir kitiems kariams vadovavo narsusis riteris Boucicaut24. Juo sunkia
 ## Teiginiai
 
 <a id="claim-t-87489"></a>
-- t-002
+- t-001
   global_id: t-87489
   teiginys: "Prancūzų vadas Boucicaut'as per kautynes buvo pridaręs nemažai žalos apgultiesiems."
   pagrindžia:
     - c-83468
 
 <a id="claim-t-87490"></a>
-- t-001
+- t-002
   global_id: t-87490
   teiginys: "Riteris Boucicaut vadovavo prancūzams ir kitiems kariams žygyje, kurio dalyviai susijungė prie Kauno."
   pagrindžia:

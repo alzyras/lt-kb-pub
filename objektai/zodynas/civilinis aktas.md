@@ -10,7 +10,8 @@ date_start: '1978'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - teisinis-terminas
 amziai:
   - 'XX'
   - 'XXI'
@@ -52,14 +53,14 @@ Terminas vartojamas argumentuojant, kad vainikavimas galėjo būti pasaulietinis
 ## Teiginiai
 
 <a id="claim-t-97279"></a>
-- t-005
+- t-001
   global_id: t-97279
   teiginys: "Zigmantas teigė, kad Vytauto vainikavimas yra civilinis aktas, kuriam vyskupo patepimas kaip bažnytinė ceremonija nėra būtinas."
   pagrindžia:
     - c-32641
 
 <a id="claim-t-97280"></a>
-- t-004
+- t-002
   global_id: t-97280
   teiginys: "Karaliaus vainikavimas laikytas civiliniu aktu, kuriam vyskupo patepimas kaip bažnytinė ceremonija nebuvo būtinas."
   pagrindžia:

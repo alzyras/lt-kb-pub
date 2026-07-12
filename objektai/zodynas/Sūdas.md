@@ -36,7 +36,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
 ## Teiginiai
 
 <a id="claim-t-07709"></a>
-- t-004
+- t-001
   global_id: t-07709
   teiginys: "Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `sūdąs`, `sūdą`.
     - c-09639
 
 <a id="claim-t-07710"></a>
-- t-003
+- t-002
   global_id: t-07710
   teiginys: "Sūdas citatoje pripažindavo vergais skolininkus, kurie negalėjo laiku grąžinti skolos."
   pagrindžia:

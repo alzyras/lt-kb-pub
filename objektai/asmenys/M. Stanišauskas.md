@@ -29,14 +29,14 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 ## Teiginiai
 
 <a id="claim-t-40321"></a>
-- t-002
+- t-001
   global_id: t-40321
   teiginys: "M. Stanišausko batalionai stovėjo kairiajame sparne."
   pagrindžia:
     - c-44446
 
 <a id="claim-t-40322"></a>
-- t-001
+- t-002
   global_id: t-40322
   teiginys: "M. Stanišauskas buvo paskirtas vienu iš batalionų vadų."
   pagrindžia:

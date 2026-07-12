@@ -41,21 +41,21 @@ Užmuštų buvo 9.000 švedų. Ryga buvo išgelbėta, Livonija atvaduota.
 ## Teiginiai
 
 <a id="claim-t-183633"></a>
-- t-013
+- t-001
   global_id: t-183633
   teiginys: "Kirchholmas, dabartinis Salaspilis, minimas tarp LDK karinių pergalių vietų, kur lietuviai kovojo kartu su rusėnais."
   pagrindžia:
     - c-167025
 
 <a id="claim-t-193650"></a>
-- t-014
+- t-002
   global_id: t-193650
   teiginys: "1605 m. Lietuvos kariuomenė pasiekė didelę pergalę prieš švedus Salaspilio (Kirchholmo) mūšyje, bet ilgainiui bekariaujant Švedija atėmė Rygą ir užvaldė Baltijos pakrantes."
   pagrindžia:
     - c-176319
 
 <a id="claim-t-193782"></a>
-- t-015
+- t-003
   global_id: t-193782
   teiginys: "104-105, Salaspilio mūšis 1605 m. rugsėjo 27 d. Pirmasis etapas; antrasis etapas, Arvydas Pociūnas, Karolis Zikaras, Loreta Uzdraitė."
   pagrindžia:

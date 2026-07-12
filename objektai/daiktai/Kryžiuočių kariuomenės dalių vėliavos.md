@@ -61,35 +61,35 @@ Tai karo vėliavų rinkinys, paimtas iš kryžiuočių kariuomenės.
 ## Teiginiai
 
 <a id="claim-t-186822"></a>
-- t-006
+- t-001
   global_id: t-186822
   teiginys: "Bychovco kronikoje teigiama, kad Žalgirio mūšyje laimėtos kryžiuočių vėliavos buvo pakabintos Vilniaus katedroje."
   pagrindžia:
     - c-170010
 
 <a id="claim-t-186823"></a>
-- t-007
+- t-002
   global_id: t-186823
   teiginys: "1411 m. rudenį Vavelio katedroje buvo pakabinta 51 kryžiuočių ir jų talkininkų vėliava, paimta 1409–1411 m. kare."
   pagrindžia:
     - c-170007
 
 <a id="claim-t-186824"></a>
-- t-007
+- t-003
   global_id: t-186824
   teiginys: "Iki mūsų laikų iš šio vėliavų rinkinio liko tik XV a. pabaigoje padaryti piešiniai."
   pagrindžia:
     - c-170006
 
 <a id="claim-t-186825"></a>
-- t-005
+- t-004
   global_id: t-186825
   teiginys: "Jogaila paimtas vėliavas nugabeno į Krokuvą, į Vavelio pilį."
   pagrindžia:
     - c-170008
 
 <a id="claim-t-186826"></a>
-- t-006
+- t-005
   global_id: t-186826
   teiginys: "Prie šio rinkinio vėliau buvo pridėtos dar penkios kituose mūšiuose paimtos vėliavos."
   pagrindžia:

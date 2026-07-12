@@ -7,9 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - ivykis
   - reforma
-  - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66485"></a>
-- t-002
+- t-001
   global_id: t-66485
   teiginys: "1858 m. baudžiavos panaikinimo rengimui visose Lietuvos gubernijose buvo sudaryti bajorų komitetai."
   pagrindžia:
     - c-66699
 
 <a id="claim-t-66487"></a>
-- t-001
+- t-002
   global_id: t-66487
   teiginys: "Baudžiavos panaikinimo reformai vykdyti apskrityse buvo sudarytos valstiečių komisijos, o apylinkėms vadovavo taikos tarpininkai."
   pagrindžia:

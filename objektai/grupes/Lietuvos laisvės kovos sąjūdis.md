@@ -73,7 +73,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169728"></a>
-- t-024
+- t-001
   global_id: t-169728
   teiginys: "LLKS Vasario 16-osios deklaracijoje numatyta atkurti Lietuvos valstybę kaip demokratinę respubliką."
   pagrindžia:

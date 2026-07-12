@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187807"></a>
-- t-004
+- t-001
   global_id: t-187807
   teiginys: "Po kontūzijos mūšyje prie Abo miesto Teodorui Narbutui netrukus pablogėjo sveikata ir jis apkurto."
   pagrindžia:
     - c-170758
 
 <a id="claim-t-187808"></a>
-- t-003
+- t-002
   global_id: t-187808
   teiginys: "Mūšyje prie Abo miesto Teodoras Narbutas buvo kontūzytas per 1808–1809 m. Rusijos ir Švedijos karą."
   pagrindžia:

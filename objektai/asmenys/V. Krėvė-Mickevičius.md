@@ -31,7 +31,7 @@ Krėvė-Mickevičius dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli ž
 ## Teiginiai
 
 <a id="claim-t-64199"></a>
-- t-003
+- t-001
   global_id: t-64199
   teiginys: "Po J. Stalino mirties V. Krėvė-Mickevičius buvo reabilituotas, o jo kūriniai vėl išspausdinti."
   pagrindžia:

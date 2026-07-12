@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - vieta
 amziai:
   - 'XX'
@@ -37,21 +38,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69891"></a>
-- t-004
+- t-001
   global_id: t-69891
   teiginys: "1923 m. sausio 19 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje sušaukė vadinamąjį Visuotinį seimą."
   pagrindžia:
     - c-44088
 
 <a id="claim-t-69893"></a>
-- t-003
+- t-002
   global_id: t-69893
   teiginys: "1923 m. sausio 9 d. Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas Šilutėje paskelbė manifestą, kuriuo buvo pranešta, jog Krašto direktorija yra nušalinama, valdžią į savo rankas perima Valstybės taryba."
   pagrindžia:
     - c-44087
 
 <a id="claim-t-193788"></a>
-- t-005
+- t-003
   global_id: t-193788
   teiginys: "Sukilėlių pajėgos Vyriausiasis Mažosios Lietuvos gelbėjimo komitetas įsikūrė Šilutėje."
   pagrindžia:

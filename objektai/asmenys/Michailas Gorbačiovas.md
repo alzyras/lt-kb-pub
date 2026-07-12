@@ -41,21 +41,21 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 ## Teiginiai
 
 <a id="claim-t-101677"></a>
-- t-003
+- t-001
   global_id: t-101677
   teiginys: "Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme."
   pagrindžia:
     - c-42137
 
 <a id="claim-t-101678"></a>
-- t-006
+- t-002
   global_id: t-101678
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą."
   pagrindžia:
     - c-21881
 
 <a id="claim-t-101679"></a>
-- t-011
+- t-003
   global_id: t-101679
   teiginys: "1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą."
   pagrindžia:
@@ -69,49 +69,49 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
     - c-95133
 
 <a id="claim-t-101681"></a>
-- t-009
+- t-005
   global_id: t-101681
   teiginys: "Gorbačiovo reformoms, o jį patį nuvers „vanagai“."
   pagrindžia:
     - c-21884
 
 <a id="claim-t-101682"></a>
-- t-005
+- t-006
   global_id: t-101682
   teiginys: "SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą."
   pagrindžia:
     - c-95132
 
 <a id="claim-t-101683"></a>
-- t-002
+- t-007
   global_id: t-101683
   teiginys: "1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą."
   pagrindžia:
     - c-42136
 
 <a id="claim-t-101684"></a>
-- t-007
+- t-008
   global_id: t-101684
   teiginys: "1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti."
   pagrindžia:
     - c-21882
 
 <a id="claim-t-101685"></a>
-- t-010
+- t-009
   global_id: t-101685
   teiginys: "Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai."
   pagrindžia:
     - c-95133
 
 <a id="claim-t-101686"></a>
-- t-001
+- t-010
   global_id: t-101686
   teiginys: "Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos."
   pagrindžia:
     - c-95133
 
 <a id="claim-t-101687"></a>
-- t-008
+- t-011
   global_id: t-101687
   teiginys: "Gorbačiovo įvaizdis, subliuško „gorbimanija“."
   pagrindžia:

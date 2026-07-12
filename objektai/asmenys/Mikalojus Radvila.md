@@ -42,42 +42,42 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-186350"></a>
-- t-011
+- t-001
   global_id: t-186350
   teiginys: "Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų."
   pagrindžia:
     - c-169721
 
 <a id="claim-t-186351"></a>
-- t-001
+- t-002
   global_id: t-186351
   teiginys: "Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio ir Mergelės Dievo Gimdytojos bažnyčią pergalei prie Klecko atminti."
   pagrindžia:
     - c-169718
 
 <a id="claim-t-186353"></a>
-- t-002
+- t-003
   global_id: t-186353
   teiginys: "Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus vaivadai Mikalojui Radvilai."
   pagrindžia:
     - c-169712
 
 <a id="claim-t-186354"></a>
-- t-005
+- t-004
   global_id: t-186354
   teiginys: "Lietuvos maršalka Mikalojus Radvila užtarė Martyną Paleckį, gavusį iš karaliaus žemės sklypą ir leidimą steigti stiklo fabriką."
   pagrindžia:
     - c-169713
 
 <a id="claim-t-186355"></a>
-- t-009
+- t-005
   global_id: t-186355
   teiginys: "Vaitiekus Kločka skubiai iškvietė į Vilnių Vilniaus vaivadą Mikalojų Radvilą ir Trakų vaivadą Grigalių Astiką."
   pagrindžia:
     - c-169714
 
 <a id="claim-t-186356"></a>
-- t-004
+- t-006
   global_id: t-186356
   teiginys: "Aleksandras kreipėsi į Vilniaus vaivadą ir kanclerį Mikalojų Radvilą dėl pievos dovanojimo prie jo malūno už Vilnelės."
   pagrindžia:
@@ -91,35 +91,35 @@ media_all_json: |-
     - c-169716
 
 <a id="claim-t-186358"></a>
-- t-003
+- t-008
   global_id: t-186358
   teiginys: "1560 m. vasario 12 d. Mikalojus Radvila iš Rotundo gavo jo Lietuvos istorijos rankraštį."
   pagrindžia:
     - c-169719
 
 <a id="claim-t-186359"></a>
-- t-008
+- t-009
   global_id: t-186359
   teiginys: "Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto."
   pagrindžia:
     - c-169717
 
 <a id="claim-t-186360"></a>
-- t-012
+- t-010
   global_id: t-186360
   teiginys: "Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną."
   pagrindžia:
     - c-169722
 
 <a id="claim-t-186361"></a>
-- t-006
+- t-011
   global_id: t-186361
   teiginys: "Lietuvos maršalas Mikalojus Radvila sutelkė kariuomenę ir palydėjo Jerim Berdį į skitų kraštą."
   pagrindžia:
     - c-169720
 
 <a id="claim-t-193398"></a>
-- t-013
+- t-012
   global_id: t-193398
   teiginys: "Mikalojus Radvila n eu žp u o lė L ivonijos, žinodam as, k ad ten g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją, sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės, Š klovo apylinkes."
   pagrindžia:

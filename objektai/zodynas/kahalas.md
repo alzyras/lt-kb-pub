@@ -11,6 +11,7 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - miestas
   - sąvoka
 amziai:
@@ -38,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-86529"></a>
-- t-002
+- t-001
   global_id: t-86529
   teiginys: "Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms."
   pagrindžia:
     - c-82508
 
 <a id="claim-t-86530"></a>
-- t-001
+- t-002
   global_id: t-86530
   teiginys: "Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus."
   pagrindžia:

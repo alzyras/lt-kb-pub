@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-10061"></a>
-- t-004
+- t-001
   global_id: t-10061
   teiginys: "„Žaliukas“ siejamas su kovinga tautos dalies būsena pavojuje, nepakantumu okupacijai ir žaliukų telkimusi ginti šalį."
   pagrindžia:
     - c-12237
 
 <a id="claim-t-10062"></a>
-- t-003
+- t-002
   global_id: t-10062
   teiginys: "„Žaliukas“ yra Lietuvos specialiųjų operacijų pajėgų karių kvalifikacinis antsiuvas."
   pagrindžia:

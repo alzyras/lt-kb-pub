@@ -35,14 +35,14 @@ LDK herbas Vytis iš herbyno „Stemmata Polonica“ (saugomo Paryžiuje), XVI a
 ## Teiginiai
 
 <a id="claim-t-67544"></a>
-- t-002
+- t-001
   global_id: t-67544
   teiginys: "XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduoti Gedimino stulpai ir Jogailos kryžius."
   pagrindžia:
     - c-67411
 
 <a id="claim-t-67545"></a>
-- t-001
+- t-002
   global_id: t-67545
   teiginys: "XVI a. vidurio herbyne „Stemmata Polonica“, saugomame Paryžiuje, pavaizduotas LDK herbas Vytis."
   pagrindžia:

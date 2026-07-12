@@ -40,42 +40,42 @@ Slanimas: ėmė kadaise nustotas (žiūr. 38 psl.) lietuviškąsias Gardino, Nau
 ## Teiginiai
 
 <a id="claim-t-169166"></a>
-- t-007
+- t-001
   global_id: t-169166
   teiginys: "Jėzuitai Slanime buvo įkūrę mažesnę mokyklą."
   pagrindžia:
     - c-153911
 
 <a id="claim-t-169169"></a>
-- t-008
+- t-002
   global_id: t-169169
   teiginys: "Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime."
   pagrindžia:
     - c-153910
 
 <a id="claim-t-169170"></a>
-- t-012
+- t-003
   global_id: t-169170
   teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasilaikė Slanimą ir Valkaviską."
   pagrindžia:
     - c-153917
 
 <a id="claim-t-169171"></a>
-- t-011
+- t-004
   global_id: t-169171
   teiginys: "1917 m. Berno konferencijoje Slanimo apskritis įtraukta į etnografiniu principu siūlytą Lietuvos teritoriją."
   pagrindžia:
     - c-153915
 
 <a id="claim-t-169174"></a>
-- t-006
+- t-005
   global_id: t-169174
   teiginys: "Lietuvos generaliniai seimeliai iš pradžių vykdavo Volkoviske, o vėliau Slanime."
   pagrindžia:
     - c-153910
 
 <a id="claim-t-193230"></a>
-- t-013
+- t-006
   global_id: t-193230
   teiginys: "Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus."
   pagrindžia:

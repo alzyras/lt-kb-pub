@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - drabužis
   - ginklas
   - pilis
 media_total_count: '0'
@@ -31,14 +32,14 @@ Dusburgietis teigia, kad tais pačiais metais, apie šeštines (gegužės 12), b
 ## Teiginiai
 
 <a id="claim-t-60111"></a>
-- t-002
+- t-001
   global_id: t-60111
   teiginys: "Ernekė priplaukė prie kranto, pasigailėjęs persirengusio Nodamo, kuris su bendrais užpuolė laivą ir išžudė jo įgulą."
   pagrindžia:
     - c-60744
 
 <a id="claim-t-60112"></a>
-- t-001
+- t-002
   global_id: t-60112
   teiginys: "Apie gegužės 12 d. Ragainės komtūras Ernekė magistro įsakymu laivais išplaukė Lietuvos link."
   pagrindžia:

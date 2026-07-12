@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41429"></a>
-- t-004
+- t-001
   global_id: t-41429
   teiginys: "Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas."
   pagrindžia:
     - c-44949
 
 <a id="claim-t-41430"></a>
-- t-005
+- t-002
   global_id: t-41430
   teiginys: "Kunigas Mackevičius sukilėlių stovykloje laikė mišias ir atlikinėjo naujokų įšventinimo apeigas."
   pagrindžia:

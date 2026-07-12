@@ -42,14 +42,14 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
 ## Teiginiai
 
 <a id="claim-t-63557"></a>
-- t-002
+- t-001
   global_id: t-63557
   teiginys: "Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais."
   pagrindžia:
     - c-41899
 
 <a id="claim-t-63558"></a>
-- t-001
+- t-002
   global_id: t-63558
   teiginys: "Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką."
   pagrindžia:

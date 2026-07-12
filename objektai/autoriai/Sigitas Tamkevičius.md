@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigas
+  - redaktorius
   - valstybė
 amziai:
   - 'XX'
@@ -44,14 +45,14 @@ Pirmasis jos redaktorius buvo tuomet Simne dirbęs kun. Sigitas Tamkevičius. 19
 ## Teiginiai
 
 <a id="claim-t-63313"></a>
-- t-002
+- t-001
   global_id: t-63313
   teiginys: "Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą."
   pagrindžia:
     - c-64351
 
 <a id="claim-t-63314"></a>
-- t-001
+- t-002
   global_id: t-63314
   teiginys: "Sigitas Tamkevičius buvo pirmasis 1972 m. pradėtos leisti „Lietuvos katalikų bažnyčios kronikos“ redaktorius."
   pagrindžia:

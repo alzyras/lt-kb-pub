@@ -39,14 +39,14 @@ vadinamoji Juodoji Rusija su Naugarduku, Slanimu ir Volkovisku), kurį buvo už�
 ## Teiginiai
 
 <a id="claim-t-182869"></a>
-- t-013
+- t-001
   global_id: t-182869
   teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką."
   pagrindžia:
     - c-166273
 
 <a id="claim-t-193186"></a>
-- t-014
+- t-002
   global_id: t-193186
   teiginys: "Tiesiogiai Gediminui priklausė tik Aukštaičiai, visos pietinės jotvingų žemės (vadinamoji Juodoji Rusija) ir artimos gudų sritys — Minskas, Vitebskas, Polockas."
   pagrindžia:

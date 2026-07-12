@@ -32,14 +32,14 @@ Dusburgietis teigia, kad kad Ordino užduotis — kariauti, ypač Prūsijoje bei
 ## Teiginiai
 
 <a id="claim-t-67297"></a>
-- t-002
+- t-001
   global_id: t-67297
   teiginys: "Dusburgiečio karo sampratoje pabrėžiama religinė kovos esmė: „juk čia ne jūsų, bet dievo kova“."
   pagrindžia:
     - c-67257
 
 <a id="claim-t-194468"></a>
-- t-003
+- t-002
   global_id: t-194468
   teiginys: "Dusburgietis teigia, kad juk čia ne jūsų, bet dievo kova."
   pagrindžia:

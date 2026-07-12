@@ -37,35 +37,35 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
 ## Teiginiai
 
 <a id="claim-t-60506"></a>
-- t-004
+- t-001
   global_id: t-60506
   teiginys: "J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje."
   pagrindžia:
     - c-61143
 
 <a id="claim-t-60507"></a>
-- t-008
+- t-002
   global_id: t-60507
   teiginys: "J. Powierski sukilimo pradžią siejo su 1243 m. paskutiniu ketvirčiu."
   pagrindžia:
     - c-61141
 
 <a id="claim-t-60508"></a>
-- t-005
+- t-003
   global_id: t-60508
   teiginys: "J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a."
   pagrindžia:
     - c-61144
 
 <a id="claim-t-60509"></a>
-- t-007
+- t-004
   global_id: t-60509
   teiginys: "J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais."
   pagrindžia:
     - c-61138
 
 <a id="claim-t-60511"></a>
-- t-002
+- t-005
   global_id: t-60511
   teiginys: "J. Powierski cituojamas aiškinant 1218 m. Kristijono žygį ir jo sutartį su Mazovijos kunigaikščiu Konradu."
   pagrindžia:
@@ -79,14 +79,14 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
     - c-61139
 
 <a id="claim-t-60513"></a>
-- t-003
+- t-007
   global_id: t-60513
   teiginys: "J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme."
   pagrindžia:
     - c-61145
 
 <a id="claim-t-60514"></a>
-- t-009
+- t-008
   global_id: t-60514
   teiginys: "J. Powierski siūlė vėlesnę pilies statybos, konvento perkėlimo ir miesto lokacinės privilegijos chronologiją."
   pagrindžia:

@@ -44,14 +44,14 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
 ## Teiginiai
 
 <a id="claim-t-192232"></a>
-- t-006
+- t-001
   global_id: t-192232
   teiginys: "Teodoro Narbuto teigimu, hunų antplūdžio sukelta revoliucija Dnepro ir Dunojaus tarpupyje lėmė daug pokyčių Europoje."
   pagrindžia:
     - c-175081
 
 <a id="claim-t-192233"></a>
-- t-005
+- t-002
   global_id: t-192233
   teiginys: "Teodoras Narbutas Dnepro ir Dunojaus tarpupyje prasidėjusią revoliuciją sieja su hunų antplūdžiu."
   pagrindžia:
@@ -65,35 +65,35 @@ Vartojama aiškinant agatirų pasitraukimą iš Uždneprės, sarmatų judėjimus
     - c-175080
 
 <a id="claim-t-192235"></a>
-- t-007
+- t-004
   global_id: t-192235
   teiginys: "Teodoras Narbutas nauja revoliucija vadina hunų į Europą atneštą padėties pasikeitimą."
   pagrindžia:
     - c-175079
 
 <a id="claim-t-192236"></a>
-- t-008
+- t-005
   global_id: t-192236
   teiginys: "Teodoras Narbutas naują revoliuciją sieja su hunais, kurie, jo pasakojime, pakeitė tuometinę Europos situaciją."
   pagrindžia:
     - c-175079
 
 <a id="claim-t-192237"></a>
-- t-002
+- t-006
   global_id: t-192237
   teiginys: "Narbutas aiškina, kad Ši revoliucija siejama su tautų judėjimu į Vakarus."
   pagrindžia:
     - c-175082
 
 <a id="claim-t-192238"></a>
-- t-004
+- t-007
   global_id: t-192238
   teiginys: "Teodoras Narbutas rašo, kad nesiliaujančios sarmatų revoliucijos neleido agatirams ilgiau ramiai gyventi prie Marokos."
   pagrindžia:
     - c-175080
 
 <a id="claim-t-192239"></a>
-- t-001
+- t-008
   global_id: t-192239
   teiginys: "Teodoro Narbuto pasakojime ta pati revoliucija turėjo priversti agatirus išsikelti iš Uždneprės."
   pagrindžia:

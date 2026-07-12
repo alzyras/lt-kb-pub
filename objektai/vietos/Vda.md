@@ -31,14 +31,14 @@ Dusburgietis teigia, kad vyslos krante, žemiau Kulmo, prie upės Vda žiočių.
 ## Teiginiai
 
 <a id="claim-t-58652"></a>
-- t-002
+- t-001
   global_id: t-58652
   teiginys: "Vda atpažįstama kaip upė, Jeronimo variante vadinama Bda."
   pagrindžia:
     - c-59285
 
 <a id="claim-t-58653"></a>
-- t-001
+- t-002
   global_id: t-58653
   teiginys: "Vyslos krante, žemiau Kulmo, prie upės Vda žiočių."
   pagrindžia:

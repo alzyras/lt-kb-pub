@@ -35,7 +35,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
 ## Teiginiai
 
 <a id="claim-t-80638"></a>
-- t-002
+- t-001
   global_id: t-80638
   teiginys: "Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos teritorijos dalyje."
   pagrindžia:

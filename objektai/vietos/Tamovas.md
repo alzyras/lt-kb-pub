@@ -35,28 +35,28 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
 ## Teiginiai
 
 <a id="claim-t-187353"></a>
-- t-002
+- t-001
   global_id: t-187353
   teiginys: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos."
   pagrindžia:
     - c-170370
 
 <a id="claim-t-187352"></a>
-- t-001
+- t-002
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
   pagrindžia:
     - c-170370
 
 <a id="claim-t-187352"></a>
-- t-001
+- t-003
   global_id: t-187352
   teiginys: "Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos."
   pagrindžia:
     - c-170370
 
 <a id="claim-t-187353"></a>
-- t-002
+- t-004
   global_id: t-187353
   teiginys: "Tamovas kronikoje žymi tolimiausią Stepono ir Malkočo karo žygio Lenkijos žemėje ribą prie Krokuvos."
   pagrindžia:

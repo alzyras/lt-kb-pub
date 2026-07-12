@@ -36,7 +36,7 @@ Vartojamos formos: `šlapjurgiui`.
 ## Teiginiai
 
 <a id="claim-t-07641"></a>
-- t-002
+- t-001
   global_id: t-07641
   teiginys: "Šlapjurgis Daukanto vartosenoje siejamas su šalčiu ir drėgme, nuo kurių pastėrę sijonai galėjo plakti blauzdas."
   pagrindžia:

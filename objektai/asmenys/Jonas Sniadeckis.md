@@ -40,7 +40,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 ## Teiginiai
 
 <a id="claim-t-183544"></a>
-- t-003
+- t-001
   global_id: t-183544
   teiginys: "Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu."
   pagrindžia:

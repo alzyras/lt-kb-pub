@@ -38,21 +38,21 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 ## Teiginiai
 
 <a id="claim-t-181501"></a>
-- t-002
+- t-001
   global_id: t-181501
   teiginys: "Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena."
   pagrindžia:
     - c-43554
 
 <a id="claim-t-181502"></a>
-- t-011
+- t-002
   global_id: t-181502
   teiginys: "Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus."
   pagrindžia:
     - c-43554
 
 <a id="claim-t-193198"></a>
-- t-012
+- t-003
   global_id: t-193198
   teiginys: "Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena."
   pagrindžia:

@@ -28,7 +28,7 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
 ## Teiginiai
 
 <a id="claim-t-192357"></a>
-- t-006
+- t-001
   global_id: t-192357
   teiginys: "T. Narbutas, remdamasis Herodotu, rašo, kad budinai turėjo medines tvirtoves, tarp jų Gelonos, ir buvo apibūdinami kaip rusvaplaukių, šviesiaakių žmonių giminė."
   pagrindžia:
@@ -56,56 +56,56 @@ Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios papr
     - c-175153
 
 <a id="claim-t-192361"></a>
-- t-001
+- t-005
   global_id: t-192361
   teiginys: "Narbutas budinus vadino lietuvių protėviais ir indų-skitų tauta, kurios paprotys buvo garbinti upių šventumą."
   pagrindžia:
     - c-175155
 
 <a id="claim-t-192368"></a>
-- t-007
+- t-006
   global_id: t-192368
   teiginys: "P. J. Safaržykas Herodoto budinus laikė venedų tauta ir seniausia Herodoto minima slavų šaka."
   pagrindžia:
     - c-175163
 
 <a id="claim-t-192369"></a>
-- t-008
+- t-007
   global_id: t-192369
   teiginys: "Narbuto pasakojime kolchai dar Azijoje davė pradžią budinų genčiai, kuri vėliau įsikūrė prie Dono."
   pagrindžia:
     - c-175164
 
 <a id="claim-t-192370"></a>
-- t-009
+- t-008
   global_id: t-192370
   teiginys: "Pasak Narbuto minimo Baturlino, budinai gyveno greta gelonų, Voluikos ir Bogončavo miestų apylinkėse."
   pagrindžia:
     - c-175165
 
 <a id="claim-t-192371"></a>
-- t-010
+- t-009
   global_id: t-192371
   teiginys: "Pasak Narbuto cituojamo Herodoto, budinai savo žemėje turėjo medinių tvirtovių, tarp jų Gelonos tvirtovę."
   pagrindžia:
     - c-175152
 
 <a id="claim-t-192372"></a>
-- t-011
+- t-010
   global_id: t-192372
   teiginys: "T. Narbutas lietuvių tautos pradžią siejo su dviejų senovės tautų, gelonų ir budinų, lydiniu."
   pagrindžia:
     - c-175166
 
 <a id="claim-t-192373"></a>
-- t-012
+- t-011
   global_id: t-192373
   teiginys: "Narbuto teigimu, budinai įsiterpė tarp venedų ir slavų gyvenamųjų vietovių ir įsikūrė prie Nemuno."
   pagrindžia:
     - c-175167
 
 <a id="claim-t-192374"></a>
-- t-013
+- t-012
   global_id: t-192374
   teiginys: "Narbuto pasakojime lietuvių protėviams atėjus į Prūsijos kraštus, Sambijoje įsikūrė daugiausia senovės budinų gyventojai."
   pagrindžia:

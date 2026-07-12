@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karas
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,7 +31,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
 ## Teiginiai
 
 <a id="claim-t-60070"></a>
-- t-003
+- t-001
   global_id: t-60070
   teiginys: "Ulrichas Bajeris, Tepliavos komtūras, žuvo mūšyje, kuriame taip pat krito keturi vyrai, o Liudvikas iš Libencelės pateko į nelaisvę."
   pagrindžia:
@@ -44,7 +45,7 @@ Dusburgietis teigia, kad apie Sūduvos žemės užpuolimą ir daugybės sūduvi�
     - c-60704
 
 <a id="claim-t-60072"></a>
-- t-001
+- t-003
   global_id: t-60072
   teiginys: "Ulrichas Bajeris, Tepliavos komtūras, su 12 brolių ir 250 raitelių įsiveržė į Sūduvą, žudė ir ėmė belaisvius."
   pagrindžia:

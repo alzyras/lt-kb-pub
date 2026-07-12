@@ -38,28 +38,28 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
 ## Teiginiai
 
 <a id="claim-t-91761"></a>
-- t-003
+- t-001
   global_id: t-91761
   teiginys: "1263 metais Vizenburgo pilį paliko maisto pristigę broliai su ginklanešiais, pasitraukę Mazovijos kunigaikštystės link."
   pagrindžia:
     - c-87412
 
 <a id="claim-t-91762"></a>
-- t-004
+- t-002
   global_id: t-91762
   teiginys: "Vizenburgo pilis beveik trejus metus buvo prūsų apsupta ir kasdien puolama trimis apgulos mašinomis."
   pagrindžia:
     - c-87412
 
 <a id="claim-t-91764"></a>
-- t-001
+- t-003
   global_id: t-91764
   teiginys: "Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio."
   pagrindžia:
     - c-167600
 
 <a id="claim-t-91764"></a>
-- t-001
+- t-004
   global_id: t-91764
   teiginys: "Broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio."
   pagrindžia:

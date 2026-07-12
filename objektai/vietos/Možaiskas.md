@@ -37,7 +37,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
 ## Teiginiai
 
 <a id="claim-t-02612"></a>
-- t-007
+- t-001
   global_id: t-02612
   teiginys: "Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai."
   pagrindžia:

@@ -68,28 +68,28 @@ Nenurodyta
     - c-11860
 
 <a id="claim-t-10230"></a>
-- t-005
+- t-002
   global_id: t-10230
   teiginys: "Bychoveco kronikoje Klecko pergalė siejama su krikščionių kovos prieš kitatikius motyvais ir Dievo gailestingumu LDK."
   pagrindžia:
     - c-43057
 
 <a id="claim-t-195010"></a>
-- t-014
+- t-003
   global_id: t-195010
   teiginys: "Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“."
   pagrindžia:
     - c-177395
 
 <a id="claim-t-195011"></a>
-- t-012
+- t-004
   global_id: t-195011
   teiginys: "Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne."
   pagrindžia:
     - c-177394
 
 <a id="claim-t-195012"></a>
-- t-008
+- t-005
   global_id: t-195012
   teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais."
   pagrindžia:
@@ -103,14 +103,14 @@ Nenurodyta
     - c-43056
 
 <a id="claim-t-195014"></a>
-- t-006
+- t-007
   global_id: t-195014
   teiginys: "Klecko mūšis buvo pirmoji stambi lietuvių pergalė po Vedrošos pralaimėjimo ir pirmoji Lietuvos pergalė prieš Krymo totorius apskritai."
   pagrindžia:
     - c-43056
 
 <a id="claim-t-195015"></a>
-- t-015
+- t-008
   global_id: t-195015
   teiginys: "Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui."
   pagrindžia:
@@ -118,7 +118,7 @@ Nenurodyta
     - c-177395
 
 <a id="claim-t-195016"></a>
-- t-017
+- t-009
   global_id: t-195016
   teiginys: "Kunigaikštis Mykolas Glinskis ir Lietuvos kariuomenė tą dieną pasiliko prie lavonų, vi są dieną jodinėdami ir vaikydamiesi aplink Ceprą ir už Cepros, paėmė arba nukovė daugybą totorių, sugrįžo į kariuomenės stovyklą prie Klecko, vesdamiesi su sa vimi daug."
   pagrindžia:
@@ -126,7 +126,7 @@ Nenurodyta
     - c-177395
 
 <a id="claim-t-195017"></a>
-- t-016
+- t-010
   global_id: t-195017
   teiginys: "Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto."
   pagrindžia:
@@ -134,7 +134,7 @@ Nenurodyta
     - c-177393
 
 <a id="claim-t-195018"></a>
-- t-013
+- t-011
   global_id: t-195018
   teiginys: "Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais."
   pagrindžia:

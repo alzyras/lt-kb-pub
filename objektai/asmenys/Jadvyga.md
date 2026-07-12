@@ -38,35 +38,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-176407"></a>
-- t-009
+- t-001
   global_id: t-176407
   teiginys: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo."
   pagrindžia:
     - c-160426
 
 <a id="claim-t-176408"></a>
-- t-003
+- t-002
   global_id: t-176408
   teiginys: "1388–1389 m. Algirdaitis dviem raštais prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai."
   pagrindžia:
     - c-160423
 
 <a id="claim-t-176410"></a>
-- t-002
+- t-003
   global_id: t-176410
   teiginys: "Liudviko Anjou duktė Jadvyga 1384 m. spalio 15 d. Krokuvoje buvo vainikuota Lenkijos „karaliumi“."
   pagrindžia:
     - c-160424
 
 <a id="claim-t-176411"></a>
-- t-007
+- t-004
   global_id: t-176411
   teiginys: "Popiežius Grigalius X 1272 m. kanonizavo šventą Jadvygą, Lenkijos kunigaikštienę."
   pagrindžia:
     - c-160429
 
 <a id="claim-t-184714"></a>
-- t-011
+- t-005
   global_id: t-184714
   teiginys: "Kunigaikščiai pasirinko karalienę Jadvygą tarpininke sprendžiant Skirgailos ir Vytauto ginčą."
   pagrindžia:
@@ -80,14 +80,14 @@ media_all_json: |-
     - c-171427
 
 <a id="claim-t-193623"></a>
-- t-012
+- t-007
   global_id: t-193623
   teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
   pagrindžia:
     - c-176294
 
 <a id="claim-t-194708"></a>
-- t-013
+- t-008
   global_id: t-194708
   teiginys: "Si epocha baigėsi 1386 metais, tai yra visiškai įvedus krikščionybę Lietuvoje, kai Jogaila vedė Lenkijos kara lienę Jadvygą, pats priėmė krikščionių tikėjimą ir vertė tą pat daryti visą tautą."
   pagrindžia:

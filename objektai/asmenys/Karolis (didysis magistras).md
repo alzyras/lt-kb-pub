@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'
@@ -40,28 +41,28 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
 ## Teiginiai
 
 <a id="claim-t-89880"></a>
-- t-002
+- t-001
   global_id: t-89880
   teiginys: "Kristmemelio pilis buvo pastatyta magistro Karolio."
   pagrindžia:
     - c-85795
 
 <a id="claim-t-89882"></a>
-- t-001
+- t-002
   global_id: t-89882
   teiginys: "1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti."
   pagrindžia:
     - c-85797
 
 <a id="claim-t-89882"></a>
-- t-001
+- t-003
   global_id: t-89882
   teiginys: "1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti."
   pagrindžia:
     - c-85797
 
 <a id="claim-t-89880"></a>
-- t-002
+- t-004
   global_id: t-89880
   teiginys: "Kristmemelio pilis buvo pastatyta magistro Karolio."
   pagrindžia:

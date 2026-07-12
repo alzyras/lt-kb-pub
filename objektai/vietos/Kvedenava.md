@@ -38,14 +38,14 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Teiginiai
 
 <a id="claim-t-58582"></a>
-- t-002
+- t-001
   global_id: t-58582
   teiginys: "Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro."
   pagrindžia:
     - c-59214
 
 <a id="claim-t-58583"></a>
-- t-001
+- t-002
   global_id: t-58583
   teiginys: "Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais."
   pagrindžia:

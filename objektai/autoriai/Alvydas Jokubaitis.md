@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - institucija
   - mokslininkas
 amziai:
   - 'XXI'

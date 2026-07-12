@@ -45,14 +45,14 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
 ## Teiginiai
 
 <a id="claim-t-00043"></a>
-- t-005
+- t-001
   global_id: t-00043
   teiginys: "Būga kartu su Jauniumi vadino aisčių gimines aisčiais."
   pagrindžia:
     - c-00072
 
 <a id="claim-t-64668"></a>
-- t-005
+- t-002
   global_id: t-64668
   teiginys: "K. Būga manė, kad dauguma gotiškos kilmės žodžių į baltų kalbas pateko per slavus."
   pagrindžia:
@@ -66,7 +66,7 @@ K. Būga minimas kaip kalbininkas ir autorius; šiame tome jo vardas siejamas su
     - c-03994
 
 <a id="claim-t-64672"></a>
-- t-007
+- t-004
   global_id: t-64672
   teiginys: "K. Būga 1924 m. paskelbė darbą „Die Vorgeschichte der aistischen (baltischen) Stämme im Lichte der Ortsnamenforschung“."
   pagrindžia:

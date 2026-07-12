@@ -59,21 +59,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182858"></a>
-- t-021
+- t-001
   global_id: t-182858
   teiginys: "Pasak Ivinskio, Vytautas esą reikalavo, kad chanas Timūras Kutlug paklustų ir savo piniguose kaldintų Vytauto ženklą."
   pagrindžia:
     - c-166261
 
 <a id="claim-t-183690"></a>
-- t-022
+- t-002
   global_id: t-183690
   teiginys: "Prieš mūšį Vytautas iš chano Timūro Kutluko tarsi reikalavo Ordos pinigus žymėti Vytauto ženklu."
   pagrindžia:
     - c-42571
 
 <a id="claim-t-183691"></a>
-- t-023
+- t-003
   global_id: t-183691
   teiginys: "Edigėjus prie Vorsklos pareikalavo Vytauto klusnumo ir Lietuvos pinigų žymėjimo Ordos ženklais."
   pagrindžia:

@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - valstybė
 amziai:

@@ -31,14 +31,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40172"></a>
-- t-002
+- t-001
   global_id: t-40172
   teiginys: "J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą."
   pagrindžia:
     - c-44370
 
 <a id="claim-t-40173"></a>
-- t-001
+- t-002
   global_id: t-40173
   teiginys: "Kėdainių srities apsaugos viršininkas J. Šarauskas mieste buvo suorganizavęs savanorių būrį."
   pagrindžia:

@@ -39,14 +39,14 @@ Vartojama kryžiaus karo ir Ordino savivaizdžio kalboje.
 ## Teiginiai
 
 <a id="claim-t-70246"></a>
-- t-002
+- t-001
   global_id: t-70246
   teiginys: "Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais."
   pagrindžia:
     - c-69306
 
 <a id="claim-t-70247"></a>
-- t-001
+- t-002
   global_id: t-70247
   teiginys: "Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`."
   pagrindžia:

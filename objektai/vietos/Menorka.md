@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Maljorkos ir Menorkos salų užėmimą 1230 viešp
     - c-59337
 
 <a id="claim-t-58705"></a>
-- t-001
+- t-002
   global_id: t-58705
   teiginys: "1230 m. Aragono karalius užėmė Menorką ir Maljorką, kurias anksčiau valdė saracėnai."
   pagrindžia:

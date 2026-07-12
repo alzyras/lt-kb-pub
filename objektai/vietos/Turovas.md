@@ -39,14 +39,14 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Teiginiai
 
 <a id="claim-t-178310"></a>
-- t-026
+- t-001
   global_id: t-178310
   teiginys: "Turovo vyskupas su kitais stačiatikių vyskupais paskelbė aplinkraštį apie teisių gynimą nuo Rusijos metropolitų."
   pagrindžia:
     - c-162058
 
 <a id="claim-t-185165"></a>
-- t-027
+- t-002
   global_id: t-185165
   teiginys: "Turovas buvo vienas žymiausių Polesės miestų kartu su Pinsku ir David Gorodoku."
   pagrindžia:

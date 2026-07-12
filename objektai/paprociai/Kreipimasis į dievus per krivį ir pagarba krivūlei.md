@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - paprotys
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +51,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62686"></a>
-- t-002
+- t-001
   global_id: t-62686
   teiginys: "Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės."
   pagrindžia:

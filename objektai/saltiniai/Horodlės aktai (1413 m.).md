@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - kunigas
-  - privilegija
   - saltinis
+  - valstybė
 amziai:
   - 'XIV'
   - 'XV'

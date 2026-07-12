@@ -42,14 +42,14 @@ K. Duonelaitis šiame šaltinyje minimas kaip poetas, autorius; jam priskiriami 
 ## Teiginiai
 
 <a id="claim-t-00045"></a>
-- t-004
+- t-001
   global_id: t-00045
   teiginys: "K. Duonelaitis vadintas didžiuoju Mažosios Lietuvos poetu ir skundėsi, kad kolonistai kraštą užkrėtė nedorybėmis."
   pagrindžia:
     - c-00109
 
 <a id="claim-t-00047"></a>
-- t-005
+- t-002
   global_id: t-00047
   teiginys: "Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai."
   pagrindžia:

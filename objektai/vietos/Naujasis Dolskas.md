@@ -36,7 +36,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
     - c-02863
 
 <a id="claim-t-02625"></a>
-- t-001
+- t-002
   global_id: t-02625
   teiginys: "Naujajame Dolske buvo įkurta pijarų mokykla."
   pagrindžia:

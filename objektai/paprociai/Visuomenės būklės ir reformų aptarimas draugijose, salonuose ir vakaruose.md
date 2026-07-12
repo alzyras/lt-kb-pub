@@ -5,7 +5,8 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,14 +60,14 @@ Nenurodyta
     - c-78413
 
 <a id="claim-t-81871"></a>
-- t-003
+- t-002
   global_id: t-81871
   teiginys: "Vilniuje legalios filantropinės organizacijos ir susivienijimai aptardavo visuomenės būklę ir reformų tikslus."
   pagrindžia:
     - c-78413
 
 <a id="claim-t-81872"></a>
-- t-002
+- t-003
   global_id: t-81872
   teiginys: "Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai."
   pagrindžia:

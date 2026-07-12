@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigas
   - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -40,7 +40,7 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 ## Teiginiai
 
 <a id="claim-t-87552"></a>
-- t-002
+- t-001
   global_id: t-87552
   teiginys: "1323 m. Liubeke prieš sprendimą dėl Gedimino laiškų nutarta prašyti patarimo Karkuso valdytojo Mikalojaus fon Parsau."
   pagrindžia:

@@ -14,7 +14,7 @@ tags:
   - ivykis
   - ordinas
   - sutartis
-  - vyskupas
+  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62844"></a>
-- t-002
+- t-001
   global_id: t-62844
   teiginys: "Kulmo ir Lubavos žemių dovanojimui patvirtinti buvo išduotas raštas su antspaudu, kad dovanojimo nebūtų galima atšaukti."
   pagrindžia:
     - c-63675
 
 <a id="claim-t-62845"></a>
-- t-003
+- t-002
   global_id: t-62845
   teiginys: "Kulmo ir Lubavos žemių dovanojimas buvo atliktas apie 1226 arba 1230 metus, dalyvaujant dvasininkų ir pasauliečių liudytojams."
   pagrindžia:
@@ -70,7 +70,7 @@ Nenurodyta
     - c-63676
 
 <a id="claim-t-62846"></a>
-- t-001
+- t-003
   global_id: t-62846
   teiginys: "Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas."
   pagrindžia:

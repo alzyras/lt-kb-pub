@@ -27,14 +27,14 @@ Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekt
 ## Teiginiai
 
 <a id="claim-t-191265"></a>
-- t-002
+- t-001
   global_id: t-191265
   teiginys: "Dregerio skelbta sutartis Narbuto aiškinime mini tvirtoves, kurias sunku atsekti dėl blogai užrašytų pavadinimų ir vietos ženklų stokos."
   pagrindžia:
     - c-174147
 
 <a id="claim-t-191947"></a>
-- t-003
+- t-002
   global_id: t-191947
   teiginys: "Dregerio paminėtoje Sambijos vyskupo Henriko sutartyje Vitlandsorto valdos perleistos Ordinui tvirtovei statyti."
   pagrindžia:

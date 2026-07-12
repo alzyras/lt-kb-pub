@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67119"></a>
-- t-002
+- t-001
   global_id: t-67119
   teiginys: "Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas."
   pagrindžia:
     - c-67148
 
 <a id="claim-t-67120"></a>
-- t-001
+- t-002
   global_id: t-67120
   teiginys: "Klaipėdos kraštas turėjo autonominę valdžią, o Lietuvos Respublikos vyriausybei ten atstovavo prezidento skiriamas gubernatorius."
   pagrindžia:

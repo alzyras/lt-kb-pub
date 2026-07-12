@@ -13,7 +13,6 @@ tags:
   - ivykis
   - kunigaikštis
   - miestas
-  - privilegija
 amziai:
   - 'XV'
 media_total_count: '0'

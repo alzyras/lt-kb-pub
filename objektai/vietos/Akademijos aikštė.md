@@ -37,14 +37,14 @@ C) Apie Ak ademijos aikštės išplanavimą ir jos apstatymą Mokyklos, Iždo, K
 ## Teiginiai
 
 <a id="claim-t-85874"></a>
-- t-002
+- t-001
   global_id: t-85874
   teiginys: "Prie Akademijos aikštės tėvas Riokuras finansavo vieną klasių eilę, o įvairūs jėzuitai apstatydino kitą klasių ir viešų susirinkimų salės eilę."
   pagrindžia:
     - c-81856
 
 <a id="claim-t-85875"></a>
-- t-001
+- t-002
   global_id: t-85875
   teiginys: "Akademijos aikštė buvo netaisyklingas ketvirtainis, apsuptas bažnyčios, kolegijos sienų ir mokymosi patalpų kolonadų."
   pagrindžia:

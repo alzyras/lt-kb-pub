@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62904"></a>
-- t-002
+- t-001
   global_id: t-62904
   teiginys: "Ragainės broliai, gavę žinią iš žvalgo, užpuolė 36 lietuvius viename lauke ir 25 iš jų nukovė."
   pagrindžia:
     - c-63768
 
 <a id="claim-t-62905"></a>
-- t-001
+- t-002
   global_id: t-62905
   teiginys: "1290 m. birželio 25 d. 36 lietuviai iš Aukaimio apylinkių patraukė trikdyti Ragainės brolių plėšikiškais išpuoliais."
   pagrindžia:

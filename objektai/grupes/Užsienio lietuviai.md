@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - grupe
   - valstybė
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -36,14 +37,14 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
 ## Teiginiai
 
 <a id="claim-t-20054"></a>
-- t-002
+- t-001
   global_id: t-20054
   teiginys: "1935 m. Pasaulio lietuvių kongresas Kaune parodė, kad dauguma užsienio lietuvių buvo artimi Lietuvai ir rūpinosi jos ateitimi."
   pagrindžia:
     - c-22790
 
 <a id="claim-t-20055"></a>
-- t-001
+- t-002
   global_id: t-20055
   teiginys: "Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų."
   pagrindžia:

@@ -44,14 +44,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-32811"></a>
-- t-002
+- t-001
   global_id: t-32811
   teiginys: "Valstybingumu grįsta periodizacija laikoma vienašališkai politine, nes remiasi dinastiniais ir politiniais pasikeitimais."
   pagrindžia:
     - c-32691
 
 <a id="claim-t-32812"></a>
-- t-001
+- t-002
   global_id: t-32812
   teiginys: "Komunistiniai istorikai atmetė periodizaciją, kurios pagrindas buvo lietuvių tautos valstybingumo idėja."
   pagrindžia:

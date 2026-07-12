@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šventė
 amziai:
   - 'XX'
 periodo_grupes:

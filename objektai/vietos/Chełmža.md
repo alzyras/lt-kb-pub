@@ -46,35 +46,35 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
 ## Teiginiai
 
 <a id="claim-t-58411"></a>
-- t-002
+- t-001
   global_id: t-58411
   teiginys: "Prūsų kariuomenė apsiautė Chełmžą, o vyskupas sušaukė kilminguosius ir vasalus išžvalgyti priešo kariuomenės dydį bei stiprumą."
   pagrindžia:
     - c-59044
 
 <a id="claim-t-58412"></a>
-- t-001
+- t-002
   global_id: t-58412
   teiginys: "Chełmža 1222 m. dokumente minima Lozos vardu, o 1251 m. joje įkurta Kulmo vyskupijos katedra ir miestas Culmense."
   pagrindžia:
     - c-59045
 
 <a id="claim-t-58413"></a>
-- t-005
+- t-003
   global_id: t-58413
   teiginys: "Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje."
   pagrindžia:
     - c-59046
 
 <a id="claim-t-58414"></a>
-- t-003
+- t-004
   global_id: t-58414
   teiginys: "Per javapjūtę prūsų kariuomenė 13 dienų slapstėsi miške prie Fogelzango, kol Chełmžos miestiečiai išėjo pjauti javų."
   pagrindžia:
     - c-59047
 
 <a id="claim-t-58415"></a>
-- t-004
+- t-005
   global_id: t-58415
   teiginys: "Skomantui priartėjus prie Chełmžos, lenkų karys Ninerikas įsigavo į miestą ir pažadėjo jį išduoti Skomantui."
   pagrindžia:

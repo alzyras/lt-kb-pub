@@ -58,7 +58,7 @@ Nenurodyta
     - c-62533
 
 <a id="claim-t-62115"></a>
-- t-001
+- t-002
   global_id: t-62115
   teiginys: "Skalvių genties vyresnieji sueigoje tarėsi dėl keršto ir vienbalsiai nusprendė pasiųsti į žygį 400 rinktinių vyrų."
   pagrindžia:

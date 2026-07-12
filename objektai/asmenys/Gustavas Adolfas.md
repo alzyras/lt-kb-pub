@@ -41,7 +41,7 @@ Gustavo Adolfo duktė Kristina, kuriai buvo pripažintas sostas, susipykusi su s
 ## Teiginiai
 
 <a id="claim-t-79026"></a>
-- t-004
+- t-001
   global_id: t-79026
   teiginys: "Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes."
   pagrindžia:

@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalius
-  - privilegija
   - saltinis
+  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XVI'

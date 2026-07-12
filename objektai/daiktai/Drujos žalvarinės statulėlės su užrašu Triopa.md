@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187979"></a>
-- t-002
+- t-001
   global_id: t-187979
   teiginys: "Vėlius nurodė, kad Narbutas lietuvių Kabirus grindė prie Drujos rastomis trimis sujungtomis žalvarinėmis statulėlėmis ir užrašu „Triopa“."
   pagrindžia:

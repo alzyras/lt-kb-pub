@@ -48,14 +48,14 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
     - c-76069
 
 <a id="claim-t-78981"></a>
-- t-001
+- t-002
   global_id: t-78981
   teiginys: "Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą."
   pagrindžia:
     - c-76069
 
 <a id="claim-t-78983"></a>
-- t-002
+- t-003
   global_id: t-78983
   teiginys: "Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą."
   pagrindžia:

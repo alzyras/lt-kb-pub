@@ -29,14 +29,14 @@ Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra ap
 ## Teiginiai
 
 <a id="claim-t-187162"></a>
-- t-002
+- t-001
   global_id: t-187162
   teiginys: "Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko."
   pagrindžia:
     - c-170259
 
 <a id="claim-t-187163"></a>
-- t-001
+- t-002
   global_id: t-187163
   teiginys: "Aukštasis krantas yra kaimas dešiniame Ušos krante."
   pagrindžia:

@@ -36,14 +36,14 @@ Vartojamos formos: `pasėlininkais`, `auglininkais`.
 ## Teiginiai
 
 <a id="claim-t-07696"></a>
-- t-004
+- t-001
   global_id: t-07696
   teiginys: "Pasėlininkai ir auglininkai, dar gyvendami prie tėvų, netoli tėvo kiemo įkūrė namus ir pataisė dirvas."
   pagrindžia:
     - c-09625
 
 <a id="claim-t-07697"></a>
-- t-003
+- t-002
   global_id: t-07697
   teiginys: "Pasėlininkais ir auglininkais vadinti vaikai, kurie prie tėvų kiemo įkūrė namus ir pataisė dirvas."
   pagrindžia:

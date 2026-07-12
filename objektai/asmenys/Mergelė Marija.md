@@ -48,35 +48,35 @@ Dusburgietis teigia, kad galop atėjo švenčiausioji mergelė Marija su daugybe
     - c-60520
 
 <a id="claim-t-59889"></a>
-- t-004
+- t-002
   global_id: t-59889
   teiginys: "Mergelė Marija, pasirodžiusi broliui Hermanui Saracėnui prieš žygį į Kuršą, pakvietė jį į savo sūnaus puotą."
   pagrindžia:
     - c-60524
 
 <a id="claim-t-59890"></a>
-- t-005
+- t-003
   global_id: t-59890
   teiginys: "Dusburgiečio aprašytame regėjime Mergelė Marija, šventosios mergelės ir angelai kilo į dangų su žuvusių brolių sielomis."
   pagrindžia:
     - c-60521
 
 <a id="claim-t-59891"></a>
-- t-002
+- t-004
   global_id: t-59891
   teiginys: "Dusburgiečio pasakojime Mergelė Marija pranašavo sužeistam Kulmo pilėnui, kad jis mirs trečią dieną."
   pagrindžia:
     - c-60525
 
 <a id="claim-t-59892"></a>
-- t-006
+- t-005
   global_id: t-59892
   teiginys: "Dusburgiečio pasakojime Mergelė Marija vienu rankos prisilietimu pagydė sužalotą brolį."
   pagrindžia:
     - c-60522
 
 <a id="claim-t-59893"></a>
-- t-003
+- t-006
   global_id: t-59893
   teiginys: "Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu."
   pagrindžia:

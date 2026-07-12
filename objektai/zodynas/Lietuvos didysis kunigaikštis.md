@@ -27,35 +27,35 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 ## Teiginiai
 
 <a id="claim-t-185374"></a>
-- t-002
+- t-001
   global_id: t-185374
   teiginys: "Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo."
   pagrindžia:
     - c-168735
 
 <a id="claim-t-185375"></a>
-- t-003
+- t-002
   global_id: t-185375
   teiginys: "Aleksandrą Vytautą paskelbus Lietuvos didžiuoju kunigaikščiu, Kojelavičius valstybės klestėjimą siejo su jo viešpatavimu."
   pagrindžia:
     - c-168736
 
 <a id="claim-t-185376"></a>
-- t-004
+- t-003
   global_id: t-185376
   teiginys: "Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo."
   pagrindžia:
     - c-168737
 
 <a id="claim-t-185377"></a>
-- t-005
+- t-004
   global_id: t-185377
   teiginys: "Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas."
   pagrindžia:
     - c-168738
 
 <a id="claim-t-193379"></a>
-- t-006
+- t-005
   global_id: t-193379
   teiginys: "Tačiau nei viena, nei kita pergalė negalė jusi, pasak metraštininkų, atsverti nuostolių, kuriuos Lenkija tais metais patyrė iš lietuvių: Lukovo apylin kės, Sandomiro bei Liublino žemės tapo visiškai nu niokotos ir išdegintos."
   pagrindžia:

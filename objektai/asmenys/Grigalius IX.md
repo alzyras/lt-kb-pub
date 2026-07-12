@@ -42,14 +42,14 @@ Dusburgietis teigia, kad apie tai, kaip popiežius patvirtino visa, kas aukšči
 ## Teiginiai
 
 <a id="claim-t-79023"></a>
-- t-002
+- t-001
   global_id: t-79023
   teiginys: "Popiežius Grigalius IX su kardinolų taryba 1235 m. nutarė suvienyti gyvus išlikusius Kristaus karių brolijos brolius su kryžiuočiais."
   pagrindžia:
     - c-41926
 
 <a id="claim-t-184074"></a>
-- t-003
+- t-002
   global_id: t-184074
   teiginys: "1230 m. popiežius Grigalius IX patvirtino susitarimą su Teutonų ordino broliais ir įpareigojo juos kovoti dėl netikėlių užimtų krikščionių žemių."
   pagrindžia:

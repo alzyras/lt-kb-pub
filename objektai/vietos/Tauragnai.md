@@ -35,14 +35,14 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 ## Teiginiai
 
 <a id="claim-t-42181"></a>
-- t-002
+- t-001
   global_id: t-42181
   teiginys: "1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus."
   pagrindžia:
     - c-45353
 
 <a id="claim-t-42182"></a>
-- t-001
+- t-002
   global_id: t-42182
   teiginys: "Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną."
   pagrindžia:

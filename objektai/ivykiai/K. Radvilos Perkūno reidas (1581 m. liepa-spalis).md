@@ -51,42 +51,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78613"></a>
-- t-010
+- t-001
   global_id: t-78613
   teiginys: "1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link."
   pagrindžia:
     - c-75841
 
 <a id="claim-t-78614"></a>
-- t-005
+- t-002
   global_id: t-78614
   teiginys: "1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą."
   pagrindžia:
     - c-11847
 
 <a id="claim-t-78615"></a>
-- t-009
+- t-003
   global_id: t-78615
   teiginys: "Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą."
   pagrindžia:
     - c-11847
 
 <a id="claim-t-78616"></a>
-- t-008
+- t-004
   global_id: t-78616
   teiginys: "Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą."
   pagrindžia:
     - c-75843
 
 <a id="claim-t-78617"></a>
-- t-006
+- t-005
   global_id: t-78617
   teiginys: "Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą."
   pagrindžia:
     - c-75841
 
 <a id="claim-t-78618"></a>
-- t-011
+- t-006
   global_id: t-78618
   teiginys: "Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes."
   pagrindžia:

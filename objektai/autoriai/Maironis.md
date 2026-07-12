@@ -39,28 +39,28 @@ Vėliau čia mokėsi visa eilė didžių veikėjų, kaip antai: Maironis, Jakšt
 ## Teiginiai
 
 <a id="claim-t-125056"></a>
-- t-009
+- t-001
   global_id: t-125056
   teiginys: "J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio ir kitų lietuvių autorių knygos bei tautinio pobūdžio literatūra."
   pagrindžia:
     - c-114279
 
 <a id="claim-t-125057"></a>
-- t-007
+- t-002
   global_id: t-125057
   teiginys: "Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijos Skirmuntaitės), Prano (kun. Antano Šmulkščio) knygutėse, visą dėmesį sutelkiant lietuvių tautos žygiams iki Vytauto Didžiojo mirties."
   pagrindžia:
     - c-114279
 
 <a id="claim-t-125058"></a>
-- t-010
+- t-003
   global_id: t-125058
   teiginys: "Po J. Stalino mirties, „atšilimo“ laikotarpiu, oficialiai išspausdinta Maironio kūrinių."
   pagrindžia:
     - c-22167
 
 <a id="claim-t-125059"></a>
-- t-008
+- t-004
   global_id: t-125059
   teiginys: "Maironis buvo vienas lietuvių literatūros klasikų, tuo metu dar vaikščiojusių Kauno gatvėmis."
   pagrindžia:

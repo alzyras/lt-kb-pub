@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07798"></a>
-- t-002
+- t-001
   global_id: t-07798
   teiginys: "Kiekviena pavietė turėjo karūžąjį, kuris laikė surašytus žemlionus, o kartą per metus tikrino jų ginklus ir arklius."
   pagrindžia:

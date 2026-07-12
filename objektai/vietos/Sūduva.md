@@ -42,21 +42,21 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
 ## Teiginiai
 
 <a id="claim-t-175421"></a>
-- t-006
+- t-001
   global_id: t-175421
   teiginys: "Petro iš Dusburgo kronikoje Sūduva minima kaip viena iš vienuolikos Prūsijos žemės dalių."
   pagrindžia:
     - c-159553
 
 <a id="claim-t-175422"></a>
-- t-010
+- t-002
   global_id: t-175422
   teiginys: "Dabartinės Suvalkų apylinkės, įskaitant Vygrių ežeryną, buvo centrinė jotvingių arba sūduvių teritorijos dalis."
   pagrindžia:
     - c-159550
 
 <a id="claim-t-175424"></a>
-- t-002
+- t-003
   global_id: t-175424
   teiginys: "Ordinas turėjo tuojau paimti vakarinį Sūduvos ruožą ir Žemaičių dalį nuo Raudonės įtekėjimo į Nemuną iki Klaipėdos."
   pagrindžia:
@@ -70,42 +70,42 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
     - c-159549
 
 <a id="claim-t-175427"></a>
-- t-001
+- t-005
   global_id: t-175427
   teiginys: "Ordinas primygtinai savinosi visą didžiąją Sūduvos dykrą, persimetusią į Nemuno dešiniąją pusę ir nusidriekusią per visą vakarų Žemaitiją."
   pagrindžia:
     - c-159555
 
 <a id="claim-t-175428"></a>
-- t-003
+- t-006
   global_id: t-175428
   teiginys: "Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkija gavo Niešavos kraštą."
   pagrindžia:
     - c-159557
 
 <a id="claim-t-175430"></a>
-- t-005
+- t-007
   global_id: t-175430
   teiginys: "Melno sutartimi Lietuva iš Sūduvos girių laimėjo daugiau, negu Vytautas buvo užleidęs Ordinui Salyno taika."
   pagrindžia:
     - c-159549
 
 <a id="claim-t-192762"></a>
-- t-011
+- t-008
   global_id: t-192762
   teiginys: "Narbutas rašo, kad jotvingių gyventojų likučiai arba išsikėlė, arba dar laikėsi Prūsų Sūduvos provincijoje."
   pagrindžia:
     - c-175532
 
 <a id="claim-t-192763"></a>
-- t-012
+- t-009
   global_id: t-192763
   teiginys: "Narbutas Sūduvą vaizdavo kaip provinciją, turėjusią daug įtvirtintų pilių, kur gyveno buvę savarankiški valdovai."
   pagrindžia:
     - c-175533
 
 <a id="claim-t-192764"></a>
-- t-013
+- t-010
   global_id: t-192764
   teiginys: "Narbutas spėjo, kad Sūduvos šiaurinė siena buvo Pisos upė, skyrusi ją nuo Salavijos ir Nadruvos."
   pagrindžia:

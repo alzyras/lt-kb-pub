@@ -14,6 +14,7 @@ tags:
   - ežeras
   - ivykis
   - upė
+  - šeima
 amziai:
   - 'XIII'
   - 'XIV'

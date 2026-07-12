@@ -45,7 +45,7 @@ Tačiau ir tomis sudėtingomis sąlygomis iškilo Vilniaus romantizmo mokykla, k
     - c-72955
 
 <a id="claim-t-75021"></a>
-- t-001
+- t-002
   global_id: t-75021
   teiginys: "Vilniaus romantizmo mokyklos didieji atstovai buvo Adomas Mickevičius ir Julius Slovackis."
   pagrindžia:

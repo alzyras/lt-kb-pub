@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75252"></a>
-- t-002
+- t-001
   global_id: t-75252
   teiginys: "Sąjūdininkai buvo pasiryžę skelbti Lietuvos valstybę."
   pagrindžia:
     - c-23145
 
 <a id="claim-t-75253"></a>
-- t-001
+- t-002
   global_id: t-75253
   teiginys: "Per 1990 m. sausio 11–13 d. Michailo Gorbačiovo vizitą Vilniuje Lietuvos gyventojai susitikimuose reikalavo nepriklausomybės."
   pagrindžia:

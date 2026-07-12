@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186657"></a>
-- t-002
+- t-001
   global_id: t-186657
   teiginys: "Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį."
   pagrindžia:
     - c-169915
 
 <a id="claim-t-186658"></a>
-- t-001
+- t-002
   global_id: t-186658
   teiginys: "Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal."
   pagrindžia:

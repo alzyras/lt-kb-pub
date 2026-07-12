@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - privilegija
   - sąvoka
   - upė
 media_total_count: '0'

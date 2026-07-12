@@ -49,42 +49,42 @@ Vartojama atskiriant LDK tradiciją nuo moderniosios Lietuvos Respublikos sampra
 ## Teiginiai
 
 <a id="claim-t-75550"></a>
-- t-009
+- t-001
   global_id: t-75550
   teiginys: "Modernioji Lietuvos samprata šalies vardą siejo su lietuvių kalbos vartojimu, o ne su visomis istorinės Lietuvos žemėmis."
   pagrindžia:
     - c-26774
 
 <a id="claim-t-75551"></a>
-- t-012
+- t-002
   global_id: t-75551
   teiginys: "XVI–XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais."
   pagrindžia:
     - c-26773
 
 <a id="claim-t-75552"></a>
-- t-007
+- t-003
   global_id: t-75552
   teiginys: "Lietuvos vardas kartu su Lietuvos Didžiosios Kunigaikštijos ribomis išplito toli į rytus ir apėmė plačias rytų slavų žemes."
   pagrindžia:
     - c-26885
 
 <a id="claim-t-75553"></a>
-- t-011
+- t-004
   global_id: t-75553
   teiginys: "Manoma, kad be vokiečių puolimo ir slavų ekspansijos Lietuvos vardas būtų aprėpęs platesnes baltų genčių žemes."
   pagrindžia:
     - c-26772
 
 <a id="claim-t-75554"></a>
-- t-010
+- t-005
   global_id: t-75554
   teiginys: "Lietuvių kalbos ir savimonės teritorijai rytuose bei pietuose siaurėjant, Lietuvos vardas su LDK ribomis išplito į rytų slavų žemes."
   pagrindžia:
     - c-26772
 
 <a id="claim-t-75555"></a>
-- t-008
+- t-006
   global_id: t-75555
   teiginys: "XVI-XVIII a. LDK bajorai, nepaisydami etninės kilmės, laikė save lietuviais."
   pagrindžia:

@@ -44,7 +44,7 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
 ## Teiginiai
 
 <a id="claim-t-192261"></a>
-- t-003
+- t-001
   global_id: t-192261
   teiginys: "Teodoras Narbutas Warejs aiškinimą siejo su Nestoro pasakojimu apie 859 metų variagų kailių duoklę krivičiams."
   pagrindžia:
@@ -58,7 +58,7 @@ Etymologinis žodis, kuriuo Pretorijus aiškina variagų vardą.
     - c-175093
 
 <a id="claim-t-192263"></a>
-- t-001
+- t-003
   global_id: t-192263
   teiginys: "Teodoro Narbuto perteikimu, Pretorijus variagų vardą kildino iš prūsiško žodžio Warejs."
   pagrindžia:

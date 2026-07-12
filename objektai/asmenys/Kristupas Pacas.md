@@ -9,6 +9,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -31,14 +32,14 @@ Pacų šeimos priešaky, taigi ir visos Lietuvos politikos vadu, buvo kancleris 
 ## Teiginiai
 
 <a id="claim-t-79090"></a>
-- t-004
+- t-001
   global_id: t-79090
   teiginys: "Kancleris Kristupas Pacas vadovavo Pacų šeimai ir Lietuvos politikai, taip pat pastatė Pažaislio vienuolyną prie Kauno."
   pagrindžia:
     - c-76184
 
 <a id="claim-t-79091"></a>
-- t-005
+- t-002
   global_id: t-79091
   teiginys: "Jonui Kazimierui atsisakant sosto, Kristupas Pacas buvo vienas iš Lietuvoje vadovavusių Pacų ir ėjo kanclerio pareigas."
   pagrindžia:

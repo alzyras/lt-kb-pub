@@ -55,21 +55,21 @@ Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmeči
     - c-167023
 
 <a id="claim-t-170846"></a>
-- t-004
+- t-003
   global_id: t-170846
   teiginys: "Kaltinamieji teigė, kad nurodymus jiems davė Rytų Prūsijos oberprezidentas Ėrichas Kochas ir kiti nacių atstovai."
   pagrindžia:
     - c-24459
 
 <a id="claim-t-170847"></a>
-- t-003
+- t-004
   global_id: t-170847
   teiginys: "„Lituanica“ aviatoriai be nusileidimo per 37 val. 11 min. įveikė 6 411 km ir patyrė katastrofą tuometinėje Rytų Prūsijoje."
   pagrindžia:
     - c-155456
 
 <a id="claim-t-170843"></a>
-- t-001
+- t-005
   global_id: t-170843
   teiginys: "Visų lietuvių žemių sujungimas į vieną vienetą – dar praeito šimtmečio tautinio lietuvių judėjimo planų dalis, nors LDK niekuomet Rytų Prūsijos, lietuvių vadinamos Mažąja Lietuva, nevaldė."
   pagrindžia:

@@ -51,14 +51,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-69145"></a>
-- t-004
+- t-001
   global_id: t-69145
   teiginys: "Rastenburgo pilis buvo įkurta 1345 m."
   pagrindžia:
     - c-68558
 
 <a id="claim-t-185122"></a>
-- t-003
+- t-002
   global_id: t-185122
   teiginys: "Veliuonoje pasilikęs karalius medžiodamas vos išvengė Rastenburgo komtūro surengtų kryžiuočių pasalų."
   pagrindžia:

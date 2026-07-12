@@ -57,35 +57,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186366"></a>
-- t-003
+- t-001
   global_id: t-186366
   teiginys: "Po Lietuvos krikšto pavaldiniui buvo nurodoma, kokį tikėjimą jis turi išpažinti."
   pagrindžia:
     - c-169726
 
 <a id="claim-t-186367"></a>
-- t-005
+- t-002
   global_id: t-186367
   teiginys: "1387 m. Lietuva krikštijosi katalikišku krikštu, o jos dalis Žemaitija tapo paskutiniu Europoje apsikrikštijimo regionu – šiais įvykiais baigė formuotis krikščioniškoji Europa."
   pagrindžia:
     - c-169729
 
 <a id="claim-t-186368"></a>
-- t-007
+- t-003
   global_id: t-186368
   teiginys: "Alegoriniame Europos šalių žygyje prie kryžiaus Lietuva vaizduota kaip paskutinė ir pėsčia valstybė."
   pagrindžia:
     - c-169726
 
 <a id="claim-t-186369"></a>
-- t-002
+- t-004
   global_id: t-186369
   teiginys: "Po Lietuvos krikšto feodaliniai santykiai įgijo idėjinį pagrindą, nes pavaldiniui buvo nurodoma, kokį tikėjimą išpažinti."
   pagrindžia:
     - c-169726
 
 <a id="claim-t-186370"></a>
-- t-006
+- t-005
   global_id: t-186370
   teiginys: "Lietuvos krikšto metu Vytautas aktyviai aiškino žmonėms tikėjimą ir ragino juos krikštytis."
   pagrindžia:

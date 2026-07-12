@@ -38,21 +38,21 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
 ## Teiginiai
 
 <a id="claim-t-70338"></a>
-- t-002
+- t-001
   global_id: t-70338
   teiginys: "Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų."
   pagrindžia:
     - c-166862
 
 <a id="claim-t-183466"></a>
-- t-003
+- t-002
   global_id: t-183466
   teiginys: "Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė naikintojų batalionus, lietuvių vadintus stribais."
   pagrindžia:
     - c-166861
 
 <a id="claim-t-70338"></a>
-- t-002
+- t-003
   global_id: t-70338
   teiginys: "Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų."
   pagrindžia:

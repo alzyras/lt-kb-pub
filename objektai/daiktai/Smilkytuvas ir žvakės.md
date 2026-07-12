@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - laidotuvės
   - miestas
   - mūšis
 media_total_count: '0'

@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'
@@ -42,28 +42,28 @@ Didžiosios valstybės, arba vadinamoji Ambasadorių Konferencija, buvo patenkin
 ## Teiginiai
 
 <a id="claim-t-152689"></a>
-- t-003
+- t-001
   global_id: t-152689
   teiginys: "Ambasadorių Konferencija apkaltino Lietuvą Tautų Sąjungai, kad ji savo elgesiu Klaipėdoje gresianti suardyti taiką ir gerus internaciolinius santykius ir pareikalavo pritaikyti pakto 11 str."
   pagrindžia:
     - c-139021
 
 <a id="claim-t-152690"></a>
-- t-004
+- t-002
   global_id: t-152690
   teiginys: "E. Galvanauskas manė, kad per Ambasadorių konferenciją Lietuva Klaipėdos negaus, todėl nusistatė kraštą užimti jėga."
   pagrindžia:
     - c-139021
 
 <a id="claim-t-152691"></a>
-- t-002
+- t-003
   global_id: t-152691
   teiginys: "1923 m. kovo 15 d. Ambasadorių konferencija paliko Vilnių Lenkijai ir patvirtino naują Lietuvos ir Lenkijos demarkacijos liniją."
   pagrindžia:
     - c-139019
 
 <a id="claim-t-152692"></a>
-- t-005
+- t-004
   global_id: t-152692
   teiginys: "1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai."
   pagrindžia:

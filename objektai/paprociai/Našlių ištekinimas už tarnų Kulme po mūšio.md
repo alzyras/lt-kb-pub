@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62696"></a>
-- t-002
+- t-001
   global_id: t-62696
   teiginys: "Dvi moterys, eidamos į bažnyčią, aikštėje pamatė kauliukais žaidžiantį stiprų ir gražaus gymio tarną."
   pagrindžia:
     - c-63450
 
 <a id="claim-t-62697"></a>
-- t-001
+- t-002
   global_id: t-62697
   teiginys: "Po mūšio Kulmo vyskupas įpareigojo visas našles tekėti už savo tarnų, nes Kulmo mieste buvo išžudyti vyrai."
   pagrindžia:

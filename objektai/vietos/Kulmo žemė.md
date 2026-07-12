@@ -21,6 +21,7 @@ tags:
   - kunigaikštis
   - ordinas
   - vieta
+  - šeima
 amziai:
   - 'XIII'
   - 'XXI'
@@ -46,140 +47,140 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
 ## Teiginiai
 
 <a id="claim-t-79492"></a>
-- t-017
+- t-001
   global_id: t-79492
   teiginys: "Divanas Klokinis ir pagudėnas Linkas su didele kariuomene įsibrovė į Kulmo žemę."
   pagrindžia:
     - c-76494
 
 <a id="claim-t-79493"></a>
-- t-006
+- t-002
   global_id: t-79493
   teiginys: "Dusburgietis nutyli lenkų ir kryžiuočių ginčus dėl Kulmo žemės dovanojimo pobūdžio bei apimties."
   pagrindžia:
     - c-76492
 
 <a id="claim-t-79494"></a>
-- t-009
+- t-003
   global_id: t-79494
   teiginys: "Istoriografijoje vyrauja nuomonė, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą."
   pagrindžia:
     - c-76491
 
 <a id="claim-t-79495"></a>
-- t-014
+- t-004
   global_id: t-79495
   teiginys: "Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis."
   pagrindžia:
     - c-167558
 
 <a id="claim-t-79496"></a>
-- t-004
+- t-005
   global_id: t-79496
   teiginys: "Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu."
   pagrindžia:
     - c-76489
 
 <a id="claim-t-79497"></a>
-- t-016
+- t-006
   global_id: t-79497
   teiginys: "Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę."
   pagrindžia:
     - c-76490
 
 <a id="claim-t-79498"></a>
-- t-010
+- t-007
   global_id: t-79498
   teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo ir dar vieną brolį apžiūrėti Kulmo žemės."
   pagrindžia:
     - c-76478
 
 <a id="claim-t-79499"></a>
-- t-005
+- t-008
   global_id: t-79499
   teiginys: "„Pranešime“ kalbama apie Vokiečių ordino pakvietimą ir Kulmo žemės užrašymą broliams."
   pagrindžia:
     - c-76480
 
 <a id="claim-t-79500"></a>
-- t-012
+- t-009
   global_id: t-79500
   teiginys: "Kulmo žemė rašytiniuose šaltiniuose minima nuo 1222 m., o jos vardas įsitvirtino XIII a. 3–4 dešimtmečiais."
   pagrindžia:
     - c-76487
 
 <a id="claim-t-79501"></a>
-- t-015
+- t-010
   global_id: t-79501
   teiginys: "Druzigeriui Torunėje paskelbus klaidingą žinią apie kariuomenės žūtį, Kulmo žemėje ir Lenkijoje kilo didelis krikščionių raudojimas."
   pagrindžia:
     - c-76493
 
 <a id="claim-t-79502"></a>
-- t-003
+- t-011
   global_id: t-79502
   teiginys: "1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus."
   pagrindžia:
     - c-43534
 
 <a id="claim-t-79503"></a>
-- t-002
+- t-012
   global_id: t-79503
   teiginys: "Kulmo žemę mozūrų kunigaikščiai buvo dovanoję vokiečiams."
   pagrindžia:
     - c-24223
 
 <a id="claim-t-79504"></a>
-- t-018
+- t-013
   global_id: t-79504
   teiginys: "Prūsai su didele kariuomene nusiaubė Kulmo žemę ir patraukė prie Osos pakrantėje stovėjusios Belichovo pilies."
   pagrindžia:
     - c-76482
 
 <a id="claim-t-79505"></a>
-- t-013
+- t-014
   global_id: t-79505
   teiginys: "XIII a., prieš kryžiuočių atsikraustymą į Pavyslį, Kulmo žemė vėl buvo prūsų rankose."
   pagrindžia:
     - c-76488
 
 <a id="claim-t-79506"></a>
-- t-007
+- t-015
   global_id: t-79506
   teiginys: "Dusburgietis nutyli, kad Lietuvos kariuomenė dalyvavo bendroje kovoje prieš Ordiną jau pirmojo prūsų sukilimo pradžioje (1243 m.), kai buvo nusiaubta Kulmo žemė ir Ordino pajėgos sutriuškintos mūšio lauke."
   pagrindžia:
     - c-76485
 
 <a id="claim-t-79507"></a>
-- t-019
+- t-016
   global_id: t-79507
   teiginys: "Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę."
   pagrindžia:
     - c-76486
 
 <a id="claim-t-79508"></a>
-- t-008
+- t-017
   global_id: t-79508
   teiginys: "Prūsai po kelerių metų nusiaubė Kulmo žemę, pavertė ją dykra, o krikščionis išžudė arba išsivarė į nelaisvę."
   pagrindžia:
     - c-76484
 
 <a id="claim-t-79502"></a>
-- t-003
+- t-018
   global_id: t-79502
   teiginys: "1231 m. Ordino magistras persikėlė per Vyslą į Kulmo žemę, pastatė Torunės pilį ir pradėjo sistemingą agresiją prieš prūsus."
   pagrindžia:
     - c-43534
 
 <a id="claim-t-79511"></a>
-- t-011
+- t-019
   global_id: t-79511
   teiginys: "1222 ir 1230 m. dokumentuose Kulmo žemė apibūdinama kaip teritorija tarp Osos, Vyslos ir Drėvantos."
   pagrindžia:
     - c-76479
 
 <a id="claim-t-79495"></a>
-- t-014
+- t-020
   global_id: t-79495
   teiginys: "Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis."
   pagrindžia:

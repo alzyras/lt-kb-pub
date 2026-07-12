@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - privilegija
   - upė
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62917"></a>
-- t-002
+- t-001
   global_id: t-62917
   teiginys: "Vėluvos pilies vadas Tirskas su kitais pilyje buvusiais vyrais išsižadėjo stabmeldystės ir tapo krikščionių tikėjimo gynėjais."
   pagrindžia:
     - c-63786
 
 <a id="claim-t-62918"></a>
-- t-001
+- t-002
   global_id: t-62918
   teiginys: "Karaliaučiaus pastatymo metais nadruviai, skalviai ir sūduviai nuniokojo Sembą ir grįždami pastatė Vėluvos pilį."
   pagrindžia:

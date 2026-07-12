@@ -37,14 +37,14 @@ SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, kita
 ## Teiginiai
 
 <a id="claim-t-22242"></a>
-- t-002
+- t-001
   global_id: t-22242
   teiginys: "Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje."
   pagrindžia:
     - c-24932
 
 <a id="claim-t-22243"></a>
-- t-001
+- t-002
   global_id: t-22243
   teiginys: "SSRS pradėjus Michailo Gorbačiovo pertvarką, LKP vadovai Petras Griškevičius ir Rimgaudas Songaila Lietuvoje laikėsi pasyviai."
   pagrindžia:

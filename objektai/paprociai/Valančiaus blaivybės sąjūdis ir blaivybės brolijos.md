@@ -65,14 +65,14 @@ Nenurodyta
     - c-55215
 
 <a id="claim-t-54359"></a>
-- t-001
+- t-002
   global_id: t-54359
   teiginys: "1858 m. Motiejus Valančius, remdamasis katalikiškuose kraštuose plitusiomis blaivybės idėjomis, inicijavo blaivybės sąjūdį."
   pagrindžia:
     - c-55215
 
 <a id="claim-t-54361"></a>
-- t-002
+- t-003
   global_id: t-54361
   teiginys: "Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų."
   pagrindžia:

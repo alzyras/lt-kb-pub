@@ -43,28 +43,28 @@ Vaitiekus Taboras, kilme lietuvių bajoras, nuo Eišiškių, iškeltas į vyskup
 ## Teiginiai
 
 <a id="claim-t-87411"></a>
-- t-004
+- t-001
   global_id: t-87411
   teiginys: "Į Vilnių nugabentą Aleksandrą lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus Taboras, Jonas Zabžezinskis ir Jonas Laskis."
   pagrindžia:
     - c-83392
 
 <a id="claim-t-87412"></a>
-- t-003
+- t-002
   global_id: t-87412
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras ragino ir rėmė miestiečius, apjuosusius Vilnių mūro pylimu."
   pagrindžia:
     - c-83393
 
 <a id="claim-t-87413"></a>
-- t-001
+- t-003
   global_id: t-87413
   teiginys: "Vaitiekus Taboras, lietuvių bajoras nuo Eišiškių, 1491 m. buvo iškeltas į vyskupus ir mirė 1507 m."
   pagrindžia:
     - c-83390
 
 <a id="claim-t-87414"></a>
-- t-002
+- t-004
   global_id: t-87414
   teiginys: "Vilniaus vyskupas Vaitiekus Taboras kartu su graikų tikėjimo dvasininku Foma sutuokė didįjį kunigaikštį su Elena."
   pagrindžia:

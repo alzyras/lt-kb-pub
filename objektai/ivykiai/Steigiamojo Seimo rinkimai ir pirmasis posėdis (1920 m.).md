@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75287"></a>
-- t-004
+- t-001
   global_id: t-75287
   teiginys: "1920 m. balandžio 14–15 d. Steigiamojo Seimo rinkimus laimėjo krikščionių demokratų blokas, gavęs 59 vietas."
   pagrindžia:
@@ -68,14 +68,14 @@ Nenurodyta
     - c-73115
 
 <a id="claim-t-75289"></a>
-- t-001
+- t-003
   global_id: t-75289
   teiginys: "Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje."
   pagrindžia:
     - c-73117
 
 <a id="claim-t-75290"></a>
-- t-003
+- t-004
   global_id: t-75290
   teiginys: "1920 m. gegužės 15 d. Kaune į pirmąjį Steigiamojo Seimo posėdį susirinko 112 išrinktų atstovų."
   pagrindžia:

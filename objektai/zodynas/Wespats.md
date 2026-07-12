@@ -47,14 +47,14 @@ Senovinio lietuviško titulo arba valdžios žymens žodis, kurio sudėtinė var
     - c-175059
 
 <a id="claim-t-192194"></a>
-- t-003
+- t-002
   global_id: t-192194
   teiginys: "Teodoro Narbuto aiškinimu, Wespats, vartojamas su kitu žodžiu, reiškia patvaldystę."
   pagrindžia:
     - c-175059
 
 <a id="claim-t-192195"></a>
-- t-002
+- t-003
   global_id: t-192195
   teiginys: "Teodoro Narbuto perteikimu, Sirvydo žodyne Wespats tiksliau aiškinamas kaip visagalis ponas."
   pagrindžia:

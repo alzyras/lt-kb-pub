@@ -56,322 +56,322 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 ## Teiginiai
 
 <a id="claim-t-180202"></a>
-- t-028
+- t-001
   global_id: t-180202
   teiginys: "1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos."
   pagrindžia:
     - c-163855
 
 <a id="claim-t-180203"></a>
-- t-020
+- t-002
   global_id: t-180203
   teiginys: "Mindaugui reikėjo kovoti su krikščioniškąja Livonija dėl pagoniškos Žemaitijos ir Vakaruose išlaikyti krikščionio valdovo statusą."
   pagrindžia:
     - c-163847
 
 <a id="claim-t-180204"></a>
-- t-044
+- t-003
   global_id: t-180204
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
   pagrindžia:
     - c-163829
 
 <a id="claim-t-180206"></a>
-- t-078
+- t-004
   global_id: t-180206
   teiginys: "1629 m. Altmarko paliaubomis Livonija anapus Dauguvos su Ryga buvo palikta švedams."
   pagrindžia:
     - c-163864
 
 <a id="claim-t-180208"></a>
-- t-060
+- t-005
   global_id: t-180208
   teiginys: "1621–1629 m. švedai užėmė ATR pavaldžios Livonijos kunigaikštystės teritoriją."
   pagrindžia:
     - c-163851
 
 <a id="claim-t-180209"></a>
-- t-068
+- t-006
   global_id: t-180209
   teiginys: "Vytauto laikais Vilniaus prekyba plėtėsi su Prūsijos ir Livonijos miestais, Pskovu, Naugardu ir Maskva."
   pagrindžia:
     - c-163862
 
 <a id="claim-t-180210"></a>
-- t-096
+- t-007
   global_id: t-180210
   teiginys: "1338 m. lapkričio 1 d. Gediminas su Livonija sudarė prekybinę sutartį."
   pagrindžia:
     - c-163880
 
 <a id="claim-t-180211"></a>
-- t-006
+- t-008
   global_id: t-180211
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
   pagrindžia:
     - c-163836
 
 <a id="claim-t-180212"></a>
-- t-078
+- t-009
   global_id: t-180212
   teiginys: "Petro iš Dusburgo kronikos nuorašas buvo Livonijos Roneburgo pilies bažnyčioje."
   pagrindžia:
     - c-163861
 
 <a id="claim-t-180213"></a>
-- t-062
+- t-010
   global_id: t-180213
   teiginys: "Gedimino laikų Vilnių iš Livonijos pasiekdavo rykai ir rūbai."
   pagrindžia:
     - c-163900
 
 <a id="claim-t-180214"></a>
-- t-080
+- t-011
   global_id: t-180214
   teiginys: "Štumdorfo taika grąžino Lietuvai ir Lenkijai tik Latgalą, o didžioji Livonijos dalis su Ryga liko Švedijai."
   pagrindžia:
     - c-163834
 
 <a id="claim-t-180215"></a>
-- t-057
+- t-012
   global_id: t-180215
   teiginys: "1248 m. Mindaugo opoziciją sudarė jo brolvaikiai, kurie į pagalbą pasitelkė Livonijos ordiną ir Voluinę."
   pagrindžia:
     - c-163907
 
 <a id="claim-t-180216"></a>
-- t-074
+- t-013
   global_id: t-180216
   teiginys: "1579 m. pavasarį Steponui Batorui atvykus į Vilnių buvo rimtai rengiamasi žygiui į Livoniją."
   pagrindžia:
     - c-163894
 
 <a id="claim-t-180217"></a>
-- t-076
+- t-014
   global_id: t-180217
   teiginys: "Didžiausioji Livonijos dalis teko Lietuvai."
   pagrindžia:
     - c-163883
 
 <a id="claim-t-180219"></a>
-- t-003
+- t-015
   global_id: t-180219
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas."
   pagrindžia:
     - c-163853
 
 <a id="claim-t-180220"></a>
-- t-077
+- t-016
   global_id: t-180220
   teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, Livonijos ordinu, Ryga ir Revelio žemės danų vietininku."
   pagrindžia:
     - c-163909
 
 <a id="claim-t-180221"></a>
-- t-067
+- t-017
   global_id: t-180221
   teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė ir grįžo į Prūsiją bei Livoniją."
   pagrindžia:
     - c-163850
 
 <a id="claim-t-180222"></a>
-- t-045
+- t-018
   global_id: t-180222
   teiginys: "Gedimino misija prašė popiežiaus į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
   pagrindžia:
     - c-163844
 
 <a id="claim-t-180224"></a>
-- t-043
+- t-019
   global_id: t-180224
   teiginys: "Jogaila be Kęstučio žinios sudarė taikos sutartį su Prūsijos kraštu ir Livonija."
   pagrindžia:
     - c-163884
 
 <a id="claim-t-180225"></a>
-- t-081
+- t-020
   global_id: t-180225
   teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
   pagrindžia:
     - c-163899
 
 <a id="claim-t-180226"></a>
-- t-004
+- t-021
   global_id: t-180226
   teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   pagrindžia:
     - c-163870
 
 <a id="claim-t-180204"></a>
-- t-044
+- t-022
   global_id: t-180204
   teiginys: "Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją."
   pagrindžia:
     - c-163829
 
 <a id="claim-t-180228"></a>
-- t-030
+- t-023
   global_id: t-180228
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių korpusas."
   pagrindžia:
     - c-163853
 
 <a id="claim-t-180229"></a>
-- t-072
+- t-024
   global_id: t-180229
   teiginys: "Livonija vis glaudžiau šliejosi prie Prūsijos."
   pagrindžia:
     - c-163897
 
 <a id="claim-t-180231"></a>
-- t-073
+- t-025
   global_id: t-180231
   teiginys: "1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą."
   pagrindžia:
     - c-163886
 
 <a id="claim-t-180233"></a>
-- t-080
+- t-026
   global_id: t-180233
   teiginys: "1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją."
   pagrindžia:
     - c-163901
 
 <a id="claim-t-180234"></a>
-- t-086
+- t-027
   global_id: t-180234
   teiginys: "Kryžiuočiai padažnino žygius į Lietuvą: 1370 m. surengė du, o 1372 m. puolė vienu metu iš Prūsų ir Livonijos."
   pagrindžia:
     - c-163855
 
 <a id="claim-t-180235"></a>
-- t-022
+- t-028
   global_id: t-180235
   teiginys: "Didesnio uosto neturėjusi Lietuva buvo labiausiai suinteresuota kova dėl Livonijos, nes Lenkija turėjo Gdansko uostą."
   pagrindžia:
     - c-163854
 
 <a id="claim-t-180236"></a>
-- t-023
+- t-029
   global_id: t-180236
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
   pagrindžia:
     - c-163902
 
 <a id="claim-t-180237"></a>
-- t-069
+- t-030
   global_id: t-180237
   teiginys: "Švitrigaila, nieko nepasiekęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
   pagrindžia:
     - c-163890
 
 <a id="claim-t-180211"></a>
-- t-006
+- t-031
   global_id: t-180211
   teiginys: "Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti."
   pagrindžia:
     - c-163836
 
 <a id="claim-t-180242"></a>
-- t-001
+- t-032
   global_id: t-180242
   teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
   pagrindžia:
     - c-163841
 
 <a id="claim-t-180243"></a>
-- t-075
+- t-033
   global_id: t-180243
   teiginys: "Maskvos kariuomenės sutriuškintas Livonijos magistras Gotardas Ketleris patikėjo Žygimantui Augustui save, ordiną ir valdas."
   pagrindžia:
     - c-163867
 
 <a id="claim-t-180245"></a>
-- t-029
+- t-034
   global_id: t-180245
   teiginys: "Ordino kronikose 1345–1382 m. užregistruota 30 žygių iš Livonijos."
   pagrindžia:
     - c-163859
 
 <a id="claim-t-180246"></a>
-- t-066
+- t-035
   global_id: t-180246
   teiginys: "Livonijos magistras su savo pajėgomis dalyvavo Vytauto vedamuose pulkuose prie Vilijos."
   pagrindžia:
     - c-163908
 
 <a id="claim-t-180247"></a>
-- t-049
+- t-036
   global_id: t-180247
   teiginys: "Švitrigaila prikalbino Livonijos ordino riterius kartu su juo pulti Vitebską."
   pagrindžia:
     - c-163890
 
 <a id="claim-t-180280"></a>
-- t-051
+- t-037
   global_id: t-180280
   teiginys: "Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe."
   pagrindžia:
     - c-163837
 
 <a id="claim-t-180249"></a>
-- t-081
+- t-038
   global_id: t-180249
   teiginys: "1204 m. Livonija popiežiaus Inocento rūpesčiu buvo atversta į Kristaus tikėjimą."
   pagrindžia:
     - c-163906
 
 <a id="claim-t-180250"></a>
-- t-077
+- t-039
   global_id: t-180250
   teiginys: "Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių."
   pagrindžia:
     - c-163849
 
 <a id="claim-t-180251"></a>
-- t-065
+- t-040
   global_id: t-180251
   teiginys: "Gedimino misija popiežiaus prašė į Livoniją ir Lietuvą atsiųsti tikėjimo mokymą išmanančių vyrų."
   pagrindžia:
     - c-163844
 
 <a id="claim-t-180252"></a>
-- t-059
+- t-041
   global_id: t-180252
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija grasino Lietuvai karu."
   pagrindžia:
     - c-163904
 
 <a id="claim-t-180253"></a>
-- t-040
+- t-042
   global_id: t-180253
   teiginys: "Iš Livonijos Vilnių pasiekdavo rykai ir rūbai."
   pagrindžia:
     - c-163839
 
 <a id="claim-t-180256"></a>
-- t-070
+- t-043
   global_id: t-180256
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
   pagrindžia:
     - c-163889
 
 <a id="claim-t-180257"></a>
-- t-018
+- t-044
   global_id: t-180257
   teiginys: "Po 1183 m. žygio į Rusios žemes lietuviai kasmet rengė po vieną ar du žygius ne tik į Rusią, bet ir į Lenkiją bei Livoniją."
   pagrindžia:
     - c-163835
 
 <a id="claim-t-180258"></a>
-- t-075
+- t-045
   global_id: t-180258
   teiginys: "1201 m. pastatyta Rygos pilis vėliau tapo valstybės centru ir didžiausiu Livonijos miestu."
   pagrindžia:
     - c-163830
 
 <a id="claim-t-180259"></a>
-- t-048
+- t-046
   global_id: t-180259
   teiginys: "Vytauto laikais Vilniaus prekyba buvo išsišakojusi su Prūsijos ir Livonijos miestais."
   pagrindžia:
@@ -385,168 +385,168 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-163850
 
 <a id="claim-t-180261"></a>
-- t-007
+- t-048
   global_id: t-180261
   teiginys: "Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos."
   pagrindžia:
     - c-163856
 
 <a id="claim-t-180262"></a>
-- t-076
+- t-049
   global_id: t-180262
   teiginys: "Danijos karaliaus Valdemaro II valdžia plito vokiečių užkariautoje Livonijoje ir Rygoje."
   pagrindžia:
     - c-163877
 
 <a id="claim-t-180264"></a>
-- t-087
+- t-050
   global_id: t-180264
   teiginys: "Ordino kronikose 1345-1382 m. suregistruoti 66 kryžiuočių žygiai iš Prūsų ir 30 žygių iš Livonijos."
   pagrindžia:
     - c-163875
 
 <a id="claim-t-180265"></a>
-- t-079
+- t-051
   global_id: t-180265
   teiginys: "Karaliaučius buvo svarbus komunikacijos mazgas kelyje į Livoniją."
   pagrindžia:
     - c-163881
 
 <a id="claim-t-180219"></a>
-- t-003
+- t-052
   global_id: t-180219
   teiginys: "1608 m. vasarą Livonijoje išsilaipino grafo Frederiko Joachimo Mansfeldo vadovaujamas 8000 Švedijos karių ekspedicinis korpusas."
   pagrindžia:
     - c-163853
 
 <a id="claim-t-180269"></a>
-- t-063
+- t-053
   global_id: t-180269
   teiginys: "1380 m. Jogailos aplinkoje buvo sudarytos paliaubos su Livonijos magistru Rygoje, apeinant Kęstutį ir Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-163840
 
 <a id="claim-t-180270"></a>
-- t-005
+- t-054
   global_id: t-180270
   teiginys: "1621 m. švedai užėmė didelę dalį Livonijos, o Rusija tuo metu grasino Lietuvai karu."
   pagrindžia:
     - c-163842
 
 <a id="claim-t-180271"></a>
-- t-042
+- t-055
   global_id: t-180271
   teiginys: "Rygoje buvo sudarytos paliaubos su Livonijos magistru, apeinant Kęstutį ir jo Žemaitijos kunigaikštystę."
   pagrindžia:
     - c-163840
 
 <a id="claim-t-180273"></a>
-- t-082
+- t-056
   global_id: t-180273
   teiginys: "Livonijos prijungimas Livonijos būklė XVI amžiuje."
   pagrindžia:
     - c-163833
 
 <a id="claim-t-180274"></a>
-- t-083
+- t-057
   global_id: t-180274
   teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
   pagrindžia:
     - c-163887
 
 <a id="claim-t-180275"></a>
-- t-031
+- t-058
   global_id: t-180275
   teiginys: "1621 m. švedai užėmė didelę Livonijos dalį, o Rusija tuo metu grasino Lietuvai karu."
   pagrindžia:
     - c-163842
 
 <a id="claim-t-180276"></a>
-- t-041
+- t-059
   global_id: t-180276
   teiginys: "Livonijos vokiečių žemėse, kaip ir Lietuvoje bei jai priklausiusioje Rusioje, nuo seno buvo įsitvirtinęs feodalinis valdymas."
   pagrindžia:
     - c-163866
 
 <a id="claim-t-180277"></a>
-- t-083
+- t-060
   global_id: t-180277
   teiginys: "Štumdorfo taika iš Lietuvos ir Lenkijos bendrai valdytos Livonijos grąžino tik Latgalą."
   pagrindžia:
     - c-163834
 
 <a id="claim-t-180278"></a>
-- t-079
+- t-061
   global_id: t-180278
   teiginys: "Stepono Batoro laikais Lietuvos ir Lenkijos karai su Maskva baigėsi Polocko ir visos Livonijos atgavimu."
   pagrindžia:
     - c-163891
 
 <a id="claim-t-180279"></a>
-- t-058
+- t-062
   global_id: t-180279
   teiginys: "Tragiškomis aplinkybėmis Livonijos ordinui buvo suduotas lemiamas smūgis, kartu paveikęs ir Vokiečių-kryžiuočių ordiną."
   pagrindžia:
     - c-163848
 
 <a id="claim-t-180280"></a>
-- t-051
+- t-063
   global_id: t-180280
   teiginys: "Švitrigaila siekė tapti Lietuvos valdovu, remdamasis Prūsijos ir Livonijos kryžiuočių galybe."
   pagrindžia:
     - c-163837
 
 <a id="claim-t-185021"></a>
-- t-097
+- t-064
   global_id: t-185021
   teiginys: "Utenis perkėlė karą iš Kuršo į Livoniją, kur kuršių ir žemaičių kariuomenė nusiaubė didelius plotus."
   pagrindžia:
     - c-168382
 
 <a id="claim-t-185022"></a>
-- t-098
+- t-065
   global_id: t-185022
   teiginys: "Mindaugo karvedžiai nuolat siaubė Livoniją, o prie Lielvardės pilies Dauguvos pakrantėse vyko kovos."
   pagrindžia:
     - c-168383
 
 <a id="claim-t-185023"></a>
-- t-099
+- t-066
   global_id: t-185023
   teiginys: "Jogaila, gavęs paramą iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
   pagrindžia:
     - c-168384
 
 <a id="claim-t-185024"></a>
-- t-100
+- t-067
   global_id: t-185024
   teiginys: "Vytautas įsiveržė į Livoniją, nusiaubė kaimus ir užėmė Daugpilį Dauguvos pakrantėje."
   pagrindžia:
     - c-168385
 
 <a id="claim-t-185025"></a>
-- t-101
+- t-068
   global_id: t-185025
   teiginys: "Vitebsko apgula užtruko mėnesį, nes gynėjai, ypač Livonijos kariai, priešinosi iš paskutiniųjų."
   pagrindžia:
     - c-168386
 
 <a id="claim-t-185027"></a>
-- t-103
+- t-069
   global_id: t-185027
   teiginys: "Vilhelmui Fiurstenbergui su ordinu perėjus į Liuterio šalininkus, Livonijoje kilo neramumų."
   pagrindžia:
     - c-168388
 
 <a id="claim-t-185028"></a>
-- t-104
+- t-070
   global_id: t-185028
   teiginys: "Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva."
   pagrindžia:
     - c-168389
 
 <a id="claim-t-185029"></a>
-- t-105
+- t-071
   global_id: t-185029
   teiginys: "Livonijos luomų atstovai nusprendė, kad Livonija sudaro sąjungą su Lietuva ir pereina į Žygimanto Augusto globą."
   pagrindžia:
@@ -581,42 +581,42 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - c-171657
 
 <a id="claim-t-192695"></a>
-- t-106
+- t-076
   global_id: t-192695
   teiginys: "Narbutas pasakoja legendą, kad iš Bitinijos išsiųsti keliautojai per Tartariją, Roksolaniją, venedų ir alanų žemes pateko į Livoniją."
   pagrindžia:
     - c-175465
 
 <a id="claim-t-192696"></a>
-- t-107
+- t-077
   global_id: t-192696
   teiginys: "1583 metais jėzuitai į Žemaičius ir Livoniją pasiuntė tris misionierius: kunigą Jokūbą Lencicijų ir du jo bičiulius."
   pagrindžia:
     - c-175466
 
 <a id="claim-t-193208"></a>
-- t-108
+- t-078
   global_id: t-193208
   teiginys: "Livonija buvo valdoma abiejų jungtinių valstybių; mokesčiai iš jos vienais metais eidavo į Lietuvos, o kitais metais į Lenkijos iždą."
   pagrindžia:
     - c-175952
 
 <a id="claim-t-193209"></a>
-- t-109
+- t-079
   global_id: t-193209
   teiginys: "Šitomis paliaubomis pasibaigė ilgai traukęsi karai su Maskva dėl Livonijos."
   pagrindžia:
     - c-175953
 
 <a id="claim-t-193423"></a>
-- t-110
+- t-080
   global_id: t-193423
   teiginys: "Septyni šimtai Livonij rs raitelių, išsiųstų kariau ti Prūsijoje, susiruošė į žygį 1466 m e ta i žiemos pabaigoje, manydami, L iv o n ijo s raiteliai žūjog tada bus lengviau išvensta Ž e m a itijo je gti lietuvių saugų."
   pagrindžia:
     - c-176145
 
 <a id="claim-t-194987"></a>
-- t-111
+- t-081
   global_id: t-194987
   teiginys: "Jau Livonijos (Ronneburgo) analai parodė, kad Stryjkovskis nebuvo tikslus šaltinių atžvilgiu."
   pagrindžia:

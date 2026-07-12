@@ -29,14 +29,14 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 ## Teiginiai
 
 <a id="claim-t-63905"></a>
-- t-005
+- t-001
   global_id: t-63905
   teiginys: "Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas."
   pagrindžia:
     - c-64827
 
 <a id="claim-t-63906"></a>
-- t-015
+- t-002
   global_id: t-63906
   teiginys: "Martynas iš Golino su būreliu vyrų vakaro prietemoje užpuolė vieną Sūduvos žemės kaimą ir išžudė visus jo žmones."
   pagrindžia:
@@ -50,70 +50,70 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56152
 
 <a id="claim-t-63908"></a>
-- t-002
+- t-004
   global_id: t-63908
   teiginys: "Martynas iš Golino pateko tarp belaisvių, kuriuos prūsai išsivarė po persekiojimo ir grobio surinkimo."
   pagrindžia:
     - c-56151
 
 <a id="claim-t-63909"></a>
-- t-012
+- t-005
   global_id: t-63909
   teiginys: "Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų."
   pagrindžia:
     - c-64827
 
 <a id="claim-t-63910"></a>
-- t-004
+- t-006
   global_id: t-63910
   teiginys: "Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės."
   pagrindžia:
     - c-56153
 
 <a id="claim-t-63911"></a>
-- t-017
+- t-007
   global_id: t-63911
   teiginys: "Martynas iš Golino prie Bugo upės užpuolė prekių laivo upeivius, juos išžudė ir laivą nuplukdė į Torunę."
   pagrindžia:
     - c-64823
 
 <a id="claim-t-63912"></a>
-- t-001
+- t-008
   global_id: t-63912
   teiginys: "Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais."
   pagrindžia:
     - c-56150
 
 <a id="claim-t-63913"></a>
-- t-016
+- t-009
   global_id: t-63913
   teiginys: "Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui."
   pagrindžia:
     - c-64825
 
 <a id="claim-t-63914"></a>
-- t-011
+- t-010
   global_id: t-63914
   teiginys: "Martynas iš Golino su vienu Rudino broliu žvalgydamasis dykrose pasiklydo, susidūrė su trimis prūsais ir du jų nukovė."
   pagrindžia:
     - c-56153
 
 <a id="claim-t-63915"></a>
-- t-008
+- t-011
   global_id: t-63915
   teiginys: "Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais."
   pagrindžia:
     - c-56150
 
 <a id="claim-t-63916"></a>
-- t-013
+- t-012
   global_id: t-63916
   teiginys: "Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais."
   pagrindžia:
     - c-56155
 
 <a id="claim-t-63917"></a>
-- t-006
+- t-013
   global_id: t-63917
   teiginys: "Dusburgietis Martyną iš Golino rodo kaip vieną svarbiausių krikščionių plėšikautojų."
   pagrindžia:
@@ -127,21 +127,21 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
     - c-56155
 
 <a id="claim-t-63919"></a>
-- t-009
+- t-015
   global_id: t-63919
   teiginys: "Martynas iš Golino pateko į nelaisvę kartu su nėščia seserimi, kurią ją paėmęs prūsas nužudė žygio metu."
   pagrindžia:
     - c-56152
 
 <a id="claim-t-63920"></a>
-- t-010
+- t-016
   global_id: t-63920
   teiginys: "Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė."
   pagrindžia:
     - c-64828
 
 <a id="claim-t-63921"></a>
-- t-007
+- t-017
   global_id: t-63921
   teiginys: "Martynas iš Golino su kitais vyrais užpuolė Sūduvos kaimą, nukovė 10 vyrų pirtyje ir paėmė grobio bei belaisvių."
   pagrindžia:

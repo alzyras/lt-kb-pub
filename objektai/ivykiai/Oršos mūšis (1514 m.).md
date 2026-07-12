@@ -61,28 +61,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54178"></a>
-- t-007
+- t-001
   global_id: t-54178
   teiginys: "Po Oršos mūšio propagandos kampanija padėjo Žygimantui spręsti tarptautinius klausimus, o žymesni belaisviai buvo siunčiami į Europos valdovų dvarus."
   pagrindžia:
     - c-55111
 
 <a id="claim-t-54179"></a>
-- t-005
+- t-002
   global_id: t-54179
   teiginys: "Po Oršos mūšio Vilniuje buvo surengtos triumfo iškilmės, vedami belaisviai ir pakabintos trofėjinės vėliavos."
   pagrindžia:
     - c-11890
 
 <a id="claim-t-54180"></a>
-- t-006
+- t-003
   global_id: t-54180
   teiginys: "Po Oršos mūšio Vasilijus III pasitraukė iš Smolensko, o Lietuvai vėl atiteko Mstislavlio, Dubrovnos ir Kryčevo pilys."
   pagrindžia:
     - c-11891
 
 <a id="claim-t-54181"></a>
-- t-008
+- t-004
   global_id: t-54181
   teiginys: "Po Oršos mūšio kilmingi žuvusieji buvo palaidoti Vilniuje, o per triumfo iškilmes eisenoje vesti belaisviai Maskvos karvedžiai ir kariai."
   pagrindžia:

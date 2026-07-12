@@ -53,259 +53,259 @@ Jį mena xvi a. istorinė tradicija (Lietuvos metraščiai,. M. Strijkovskis (XV
 ## Teiginiai
 
 <a id="claim-t-55220"></a>
-- t-007
+- t-001
   global_id: t-55220
   teiginys: "Strijkovskis pasakojo apie Gotfrido Lindeno Vilniaus apgultį, tačiau, Balińskio teigimu, suklydo dėl datos ir praleido kai kurias aplinkybes."
   pagrindžia:
     - c-157337
 
 <a id="claim-t-55221"></a>
-- t-008
+- t-002
   global_id: t-55221
   teiginys: "Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, įskaitant persirengusių karių pasiuntimą į miestą."
   pagrindžia:
     - c-55249
 
 <a id="claim-t-55222"></a>
-- t-009
+- t-003
   global_id: t-55222
   teiginys: "Strijkovskis ir Kojelavičius supainiojo Andrių, Algirdo sūnų, su Vaidotu, Kęstučio sūnumi."
   pagrindžia:
     - c-55250
 
 <a id="claim-t-55223"></a>
-- t-010
+- t-004
   global_id: t-55223
   teiginys: "Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje."
   pagrindžia:
     - c-55251
 
 <a id="claim-t-55224"></a>
-- t-011
+- t-005
   global_id: t-55224
   teiginys: "Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą."
   pagrindžia:
     - c-55252
 
 <a id="claim-t-55225"></a>
-- t-012
+- t-006
   global_id: t-55225
   teiginys: "Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida."
   pagrindžia:
     - c-55253
 
 <a id="claim-t-55226"></a>
-- t-013
+- t-007
   global_id: t-55226
   teiginys: "Strijkovskis Narimantą priskyrė prie apgulties metu nukautųjų ir perpasakojo Długoszo sukurtą jo mirties istoriją."
   pagrindžia:
     - c-157339
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-008
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-172992"></a>
-- t-017
+- t-009
   global_id: t-172992
   teiginys: "M. Strijkovskio kronika Gotfrido Lindeno Vilniaus apgultį datavo metais per vėlai ir praleido dalį aplinkybių."
   pagrindžia:
     - c-157337
 
 <a id="claim-t-172993"></a>
-- t-018
+- t-010
   global_id: t-172993
   teiginys: "M. Strijkovskio kronikoje Andrius Algirdaitis supainiotas su Vaidotu Kęstutaičiu, todėl atsirado išgalvotas Andrius Vaidotas."
   pagrindžia:
     - c-55250
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-011
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-172995"></a>
-- t-022
+- t-012
   global_id: t-172995
   teiginys: "M. Strijkovskio kronika mini, kad Vytautas paskleidė gandą apie atvykimą į Vilnių rengti Ringailės ir Mazovijos kunigaikščio Henriko vestuvių."
   pagrindžia:
     - c-157345
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-013
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-172997"></a>
-- t-021
+- t-014
   global_id: t-172997
   teiginys: "Strijkovskio kronikoje Vilniaus įkūrimas pasakojamas kaip XIV amžiaus įvykis."
   pagrindžia:
     - c-157343
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-015
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-016
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-017
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-173001"></a>
-- t-014
+- t-018
   global_id: t-173001
   teiginys: "1582 m. lenkų kalba išspausdinta Motiejaus Strijkovskio „Lenkijos, Lietuvos, Žemaičių ir visos Rusios kronika“ tapo parankine Lietuvos bajorijos knyga."
   pagrindžia:
     - c-157329
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-019
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-173003"></a>
-- t-023
+- t-020
   global_id: t-173003
   teiginys: "Strijkovskis prie Vilniaus apsupties aukų priskyrė Narimantą, remdamasis Długoszo pramanytu pasakojimu."
   pagrindžia:
     - c-157339
 
 <a id="claim-t-173004"></a>
-- t-015
+- t-021
   global_id: t-173004
   teiginys: "M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo."
   pagrindžia:
     - c-157336
 
 <a id="claim-t-173005"></a>
-- t-016
+- t-022
   global_id: t-173005
   teiginys: "M. Strijkovskio kronikos VIII knygoje aiškinta Šventaragio vardo kilmė."
   pagrindžia:
     - c-157344
 
 <a id="claim-t-173006"></a>
-- t-019
+- t-023
   global_id: t-173006
   teiginys: "M. Strijkovskio kronika plačiai aprašė Kęstučio gudrybes puolant Vilnių."
   pagrindžia:
     - c-157335
 
 <a id="claim-t-173007"></a>
-- t-020
+- t-024
   global_id: t-173007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui, o juo sekė Kojelavičius."
   pagrindžia:
     - c-157330
 
 <a id="claim-t-188491"></a>
-- t-024
+- t-025
   global_id: t-188491
   teiginys: "Narbutas aiškina, kad Strijkovskio minima Pilwitos arba Pilwite reiškia turto deivę."
   pagrindžia:
     - c-171381
 
 <a id="claim-t-188492"></a>
-- t-025
+- t-026
   global_id: t-188492
   teiginys: "Narbutas, remdamasis Strijkovskiu, vaizduoja, kad žmonės Birutę dar gyvą ėmė garbinti kaip deivę."
   pagrindžia:
     - c-171382
 
 <a id="claim-t-188493"></a>
-- t-026
+- t-027
   global_id: t-188493
   teiginys: "Narbutas rašo, kad Strijkovskis pursčius, jo siejamus su romėnų mitologijos Purs, vadino pigmėjais."
   pagrindžia:
     - c-171383
 
 <a id="claim-t-188494"></a>
-- t-027
+- t-028
   global_id: t-188494
   teiginys: "Narbutas kritiškai perteikia Strijkovskio teiginį, kad Pušaitis ir barstukai pasirodydavę prieštaringiems žmonėms."
   pagrindžia:
     - c-171384
 
 <a id="claim-t-188495"></a>
-- t-028
+- t-029
   global_id: t-188495
   teiginys: "Narbutas nurodo, kad Strijkovskis Vilniaus Perkūno šventykloje prie Katedros mini atskirą koplyčią, kurioje laikyti gyvi šliužai."
   pagrindžia:
     - c-171385
 
 <a id="claim-t-188496"></a>
-- t-029
+- t-030
   global_id: t-188496
   teiginys: "Narbutas remiasi Strijkovskiu teigdamas, kad medinis milžino išvaizdos Kukovaičio stabas stovėjo ant kalno prie Deltuvos."
   pagrindžia:
     - c-171386
 
 <a id="claim-t-188497"></a>
-- t-030
+- t-031
   global_id: t-188497
   teiginys: "Narbutas aiškina, kad Strijkovskis apie lietuvių aukštąsias pareigas rašė plačiau, nes esą turėjo daugiau istorijos šaltinių."
   pagrindžia:
     - c-171387
 
 <a id="claim-t-190827"></a>
-- t-031
+- t-032
   global_id: t-190827
   teiginys: "Teodoro Narbuto vertinimu, iš spausdintų Lietuvos istorijos šaltinių vertingiausia buvo M. Strijkovskio kronika, nors jai stigo kritikos ir datų atsargumo."
   pagrindžia:
     - c-173709
 
 <a id="claim-t-190828"></a>
-- t-032
+- t-033
   global_id: t-190828
   teiginys: "Teodoro Narbuto vertinimu, Kojalavičius lotyniškoje Lietuvos istorijoje Strijkovskio veikalą sudėjo į istorinius rėmus ir ne visada taikliai taisė jo spragas."
   pagrindžia:
     - c-173710
 
 <a id="claim-t-190829"></a>
-- t-033
+- t-034
   global_id: t-190829
   teiginys: "Teodoras Narbutas rašo, kad Strijkovskis savo kronikoje rėmėsi istoriniais šaltiniais, kuriais patvirtino aptariamą pasakojimą."
   pagrindžia:
     - c-173711
 
 <a id="claim-t-190830"></a>
-- t-034
+- t-035
   global_id: t-190830
   teiginys: "Teodoras Narbutas rašo, kad Strijkovskis Karaliaučiuje turėjo po ranka prūsų kronikininko Jokimo Rozencveigo veikalus apie kimbrų epochos potvynį."
   pagrindžia:
     - c-173712
 
 <a id="claim-t-190831"></a>
-- t-035
+- t-036
   global_id: t-190831
   teiginys: "Teodoro Narbuto aiškinimu, Strijkovskis taisė Rozencveigo datos prieštaravimą, kimbrų pasitraukimą nuo Baltijos pakrančių siedamas su 190 m. pr. Kr. karu Ilirijoje."
   pagrindžia:
     - c-173713
 
 <a id="claim-t-194210"></a>
-- t-036
+- t-037
   global_id: t-194210
   teiginys: "Strijkovskis ir Koje- 1 a v i č i u s supainiojo Andrių, Al girdo sūnų, su Vaidotu, Kęstučio sū numi, todėl radosi jų minimas Andrius Vaidotas, Kęstučio sūnus, Polocko kunigaikštis - visai išgalvo tas."
   pagrindžia:

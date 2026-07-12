@@ -38,14 +38,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40871"></a>
-- t-002
+- t-001
   global_id: t-40871
   teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
   pagrindžia:
     - c-44729
 
 <a id="claim-t-40872"></a>
-- t-001
+- t-002
   global_id: t-40872
   teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
   pagrindžia:

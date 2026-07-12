@@ -40,7 +40,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 ## Teiginiai
 
 <a id="claim-t-69313"></a>
-- t-003
+- t-001
   global_id: t-69313
   teiginys: "Vytauto laikais Lietuvos prekyba vakaruose siekė Stralsundą."
   pagrindžia:
@@ -54,7 +54,7 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     - c-37731
 
 <a id="claim-t-69315"></a>
-- t-001
+- t-003
   global_id: t-69315
   teiginys: "Gegužės 26 d. vienas iš laiškų buvo pasiųstas Hanzos miestams, tarp jų Stralsundui."
   pagrindžia:

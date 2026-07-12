@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigas
   - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -40,7 +40,7 @@ Gal todėl, kad daugybė Ordino riterių, būtent, Ordino kunigas Jonas Rygietis
 ## Teiginiai
 
 <a id="claim-t-87528"></a>
-- t-002
+- t-001
   global_id: t-87528
   teiginys: "Jonas Rygietis su Rygos tarėju Henriku fon Calmaru 1323 m. liepos 18 d. Liubeko rotušėje įteikė tariamus Gedimino laiškus."
   pagrindžia:

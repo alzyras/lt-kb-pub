@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192017"></a>
-- t-002
+- t-001
   global_id: t-192017
   teiginys: "Narbuto pateikiamame datavime Torfėjas Frotono III valdymą sieja su III krikščioniškosios eros amžiumi."
   pagrindžia:

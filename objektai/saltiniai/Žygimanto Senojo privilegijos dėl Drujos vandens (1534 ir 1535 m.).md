@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - saltinis
+  - upė
 amziai:
   - 'XVI'
 media_total_count: '0'

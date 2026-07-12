@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09545"></a>
-- t-005
+- t-001
   global_id: t-09545
   teiginys: "Po totorių plėšimų buvo paskelbta bajorų mobilizacija."
   pagrindžia:
     - c-12306
 
 <a id="claim-t-09547"></a>
-- t-004
+- t-002
   global_id: t-09547
   teiginys: "Bajorų pašauktinės kariuomenės mobilizacija galėdavo užtrukti taip ilgai, kad jos jau nebereikėdavo."
   pagrindžia:

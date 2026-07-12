@@ -82,6 +82,8 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Olia Charitatis.md#claim-t-86601|Olia Charitatis]]: Iš Joniškio pajamų neturtingiems studentams kasdien buvo skiriami Olia Charitatis labdaringi pietūs ir duonos kepalas.
 - susijęs iš [[objektai/zodynas/Pelenų Gabija Moterų Gabija.md#claim-t-189271|Pelenų Gabija Moterų Gabija]]: Narbutas rašė, kad Pelenų Gabijos moterys šaukdavosi kūrendamos namų krosnis, o Moterų Gabijos - kepėjai, siekę sėkmingos duonos.
 - susijęs iš [[objektai/zodynas/vaitas ir tarėjai.md#claim-t-86559|vaitas ir tarėjai]]: Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir miesto tvarkos.
+- susijęs iš [[objektai/asmenys/Daukšienė (Kairėnėlių šeimininkė).md#claim-t-195564|Daukšienė (Kairėnėlių šeimininkė)]]: Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius.
+- susijęs iš [[objektai/asmenys/Tadaušas Iešmantas (kerdžius, XIX a.).md#claim-t-195261|Tadaušas Iešmantas (kerdžius, XIX a.)]]: Tadaušas Iešmantas buvo vienrankis, gimęs ir augęs tame pačiame kaime, ir iš ganymo valgė duoną.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
 - susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173132|Dovydas (Gardino pilininkas)]]: Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei atsargų.
@@ -136,6 +138,19 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/mezliava.md#claim-t-08676|mezliava]]: `Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.
 - susijęs iš [[objektai/zodynas/mezliava.md#claim-t-08677|mezliava]]: Mezliavą svietas skirdavo ūkės reikalų nuo namų darbo atitrauktiems vyresniesiems išlaikyti.
 - susijęs iš [[objektai/zodynas/žvalgybos rūšys pagal šaltinį.md#claim-t-42534|žvalgybos rūšys pagal šaltinį]]: Žvalgyba apėmė atvirų šaltinių žvalgybą, taktinę žvalgybą ir iš gyventojų suplaukiančios informacijos apdorojimą.
+- susijęs iš [[objektai/asmenys/Tadaušas Iešmantas (kerdžius, XIX a.).md#claim-t-195264|Tadaušas Iešmantas (kerdžius, XIX a.)]]: Iešmantas nuo mažystės tarnavo piemeniu, vėliau iš piemenų pastojo į kerdžius.
+- susijęs iš [[objektai/daiktai/Balanos šipuliukas.md#claim-t-195355|Balanos šipuliukas]]: Mažas smaigas, ant kurio pasmeigiamos bulvės valgant garstyčninką.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195300|Terba]]: Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195409|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu.
+- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195370|Klojime pasakojamos pasakos ir juokai]]: Kūlimo metu klojime klausytasi juokavimų ir pasakų.
+- susijęs iš [[objektai/posakiai/Kokia diena, toks ir valgis.md#claim-t-195446|Kokia diena, toks ir valgis]]: Pasninko diena nusako ir atitinkamą valgį.
+- susijęs iš [[objektai/posakiai/Poniutyte brangiausioji, išgadyk uždarėlio kruopytę mano sausystei.md#claim-t-195441|Poniutyte brangiausioji, išgadyk uždarėlio kruopytę mano sausystei]]: Cituoja elgetos prašymo formulę.
+- susijęs iš [[objektai/posakiai/Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai.md#claim-t-195427|Tu žiūrėk, kad gegutė tave su duona užkukuotų, kad tu terboje duonos turėtum, bus tau geriau, negu pinigai]]: Šeimininkas linki, kad gegutė užkukuotų su duona, nes ji geresnė už pinigus.
+- susijęs iš [[objektai/posakiai/šiandien susitrauksi, kitą dieną atsigausi.md#claim-t-195447|šiandien susitrauksi, kitą dieną atsigausi]]: Susilaikymas vieną dieną pateisinamas atsigaunant kitą dieną.
+- susijęs iš [[objektai/zodynas/Apieravonė.md#claim-t-195638|Apieravonė]]: Apieravonė šiame šaltinyje yra trumpas išmaldos ar aukojimo veiksmas.
+- susijęs iš [[objektai/zodynas/Magaryčios.md#claim-t-195617|Magaryčios]]: Magaryčios šiame šaltinyje geriamos kaip atskiras gėrimo veiksmas.
+- susijęs iš [[objektai/zodynas/Poterėliai.md#claim-t-195646|Poterėliai]]: Poterėlių vartosena šiame šaltinyje siejama su trumpu užsukimu ir greitu išėjimu.
 ## Reikšmingi paminėjimai
 
 - c-001

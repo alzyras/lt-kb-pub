@@ -37,7 +37,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Teiginiai
 
 <a id="claim-t-84380"></a>
-- t-002
+- t-001
   global_id: t-84380
   teiginys: "Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų."
   pagrindžia:

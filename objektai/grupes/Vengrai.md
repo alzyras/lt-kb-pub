@@ -33,14 +33,14 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 ## Teiginiai
 
 <a id="claim-t-66254"></a>
-- t-002
+- t-001
   global_id: t-66254
   teiginys: "Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių."
   pagrindžia:
     - c-66562
 
 <a id="claim-t-66255"></a>
-- t-001
+- t-002
   global_id: t-66255
   teiginys: "Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną."
   pagrindžia:

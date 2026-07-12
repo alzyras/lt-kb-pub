@@ -40,35 +40,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80590"></a>
-- t-008
+- t-001
   global_id: t-80590
   teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   pagrindžia:
     - c-77306
 
 <a id="claim-t-80591"></a>
-- t-005
+- t-002
   global_id: t-80591
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
   pagrindžia:
     - c-44123
 
 <a id="claim-t-80592"></a>
-- t-004
+- t-003
   global_id: t-80592
   teiginys: "Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas."
   pagrindžia:
     - c-77306
 
 <a id="claim-t-80591"></a>
-- t-005
+- t-004
   global_id: t-80591
   teiginys: "Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais."
   pagrindžia:
     - c-44123
 
 <a id="claim-t-80594"></a>
-- t-009
+- t-005
   global_id: t-80594
   teiginys: "Pritrūkę valčių, enkavėdistai nulupo Aleknonių ir Žuvinto kaimų ūkininkų kluonų duris ir jomis kaip plaustais plaukė Žuvinto ežeru."
   pagrindžia:

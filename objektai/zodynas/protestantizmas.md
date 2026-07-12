@@ -38,14 +38,14 @@ Protestantizmas labai greitai pa- siekė Lietuvą. protestantizmas: lietuvos did
 ## Teiginiai
 
 <a id="claim-t-168684"></a>
-- t-002
+- t-001
   global_id: t-168684
   teiginys: "Karalių Vazų laikais paaiškėjo, kad protestantizmas Lietuvoje nyks, ypač išmirus protestantiškajai Radvilų šakai."
   pagrindžia:
     - c-153485
 
 <a id="claim-t-168689"></a>
-- t-001
+- t-002
   global_id: t-168689
   teiginys: "Lietuvos protestantizmo srovės skyrėsi: tarp didikų labiausiai įsigalėjo kalvinizmas, o miestuose ir kai kur tarp vidutinės bajorijos - liuteranizmas."
   pagrindžia:

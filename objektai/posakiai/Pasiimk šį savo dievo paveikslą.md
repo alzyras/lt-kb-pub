@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - kunigas
   - posakis
 media_total_count: '0'
@@ -30,14 +31,14 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
 ## Teiginiai
 
 <a id="claim-t-89599"></a>
-- t-002
+- t-001
   global_id: t-89599
   teiginys: "Skomantas mirties patale pasakojo, kad prieš atsivertimą pakėlė ir nuvalė pagrobtą Marijos bei jos sūnaus paveikslą."
   pagrindžia:
     - c-85541
 
 <a id="claim-t-89600"></a>
-- t-003
+- t-002
   global_id: t-89600
   teiginys: "Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens."
   pagrindžia:

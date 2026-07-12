@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - sąvoka
+  - šventė
 amziai:
   - 'XVI'
 media_total_count: '0'

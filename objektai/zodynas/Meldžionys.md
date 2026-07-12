@@ -36,14 +36,14 @@ Vartojamos formos: `meldžionis`.
 ## Teiginiai
 
 <a id="claim-t-07679"></a>
-- t-003
+- t-001
   global_id: t-07679
   teiginys: "Meldžionys Daukanto aiškinime atėjo iš Teutonijos į Žemaičius, Parusius ir Žemgalius krikštydami kardu."
   pagrindžia:
     - c-09610
 
 <a id="claim-t-07680"></a>
-- t-004
+- t-002
   global_id: t-07680
   teiginys: "Meldžionis aiškinamas kaip žodis, kilęs nuo veiksmažodžio melsti."
   pagrindžia:

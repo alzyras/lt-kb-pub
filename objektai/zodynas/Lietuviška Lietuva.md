@@ -39,7 +39,7 @@ Per nepilnus du dešimtmečius Lietuva galutinai tapo lietuviška, jos nebegalė
 ## Teiginiai
 
 <a id="claim-t-75571"></a>
-- t-003
+- t-001
   global_id: t-75571
   teiginys: "Lietuviška Lietuva, nors tarpais buvo be Vilniaus ar Klaipėdos, laikyta didžiausiu tautos kūrėjų pasiekimu."
   pagrindžia:

@@ -29,21 +29,21 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
 ## Teiginiai
 
 <a id="claim-t-74744"></a>
-- t-002
+- t-001
   global_id: t-74744
   teiginys: "Po Klaipėdos atplėšimo krikščionys demokratai sąlyginai sugrįžo į valdžią ir Jono Černiaus vyriausybėje gavo dvi ministrų vietas."
   pagrindžia:
     - c-22618
 
 <a id="claim-t-74745"></a>
-- t-003
+- t-002
   global_id: t-74745
   teiginys: "Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį."
   pagrindžia:
     - c-22619
 
 <a id="claim-t-74746"></a>
-- t-001
+- t-003
   global_id: t-74746
   teiginys: "Po ultimatumo priėmimo krikščionių demokratų ir valstiečių liaudininkų lyderiai pradėjo tartis dėl bendros programos."
   pagrindžia:

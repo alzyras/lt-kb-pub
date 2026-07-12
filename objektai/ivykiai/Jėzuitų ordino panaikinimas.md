@@ -12,10 +12,10 @@ date_end: '1773'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - ordinas
   - valstybė
-  - vyskupas
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -56,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77883"></a>
-- t-002
+- t-001
   global_id: t-77883
   teiginys: "1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
   pagrindžia:
     - c-75201
 
 <a id="claim-t-77884"></a>
-- t-001
+- t-002
   global_id: t-77884
   teiginys: "Jėzuitų ordino panaikinimas 1773 m. kartais laikomas vienu Apšvietos epochos pradžios įvykių."
   pagrindžia:

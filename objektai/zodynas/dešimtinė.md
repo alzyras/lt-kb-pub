@@ -32,14 +32,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-173012"></a>
-- t-002
+- t-001
   global_id: t-173012
   teiginys: "Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų."
   pagrindžia:
     - c-157351
 
 <a id="claim-t-173013"></a>
-- t-001
+- t-002
   global_id: t-173013
   teiginys: "Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę."
   pagrindžia:

@@ -41,6 +41,7 @@ Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė j
   teiginys: "Apskritai per vadinamąjį prancūzmetį Lietuva labai nukentėjo: apiplėšė ją Napoleono kariuomenė, nepasigailėjo jos nė rusai."
   pagrindžia:
     - c-175907
+- susijęs iš [[objektai/asmenys/Slinkšė (prancūzmečio liudininkas).md#claim-t-195562|Slinkšė (prancūzmečio liudininkas)]]: Žmonės Slinkšę laikė patikimu prancūzmečio liudininku, nes anuomet jis jau buvo vedęs ir turėjo daugiau kaip trisdešimt metų.
 ## Reikšmingi paminėjimai
 
 - c-001

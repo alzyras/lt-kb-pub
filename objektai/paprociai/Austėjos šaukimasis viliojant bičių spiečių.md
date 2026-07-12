@@ -5,7 +5,9 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinė-praktika
+  - ūkis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-188140"></a>
-- t-003
+- t-001
   global_id: t-188140
   teiginys: "Narbutas Austėją apibūdina kaip bičių ir bitininkystės deivę, kurios šauktasi viliojant jaunų bičių spiečių į avilius ir dreves."
   pagrindžia:

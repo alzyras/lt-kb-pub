@@ -48,7 +48,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
     - c-166913
 
 <a id="claim-t-63438"></a>
-- t-001
+- t-002
   global_id: t-63438
   teiginys: "Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas."
   pagrindžia:

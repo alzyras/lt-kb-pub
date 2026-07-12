@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192016"></a>
-- t-003
+- t-001
   global_id: t-192016
   teiginys: "Narbutas pasakoja, kad prie Samachos ir Derbento apsupti Čingischano vadai susitarė su poloviečiais, kad šie paliktų alanus."
   pagrindžia:
     - c-174897
 
 <a id="claim-t-192490"></a>
-- t-004
+- t-002
   global_id: t-192490
   teiginys: "Erbelotas minėjo alanų karaliuką, valdžiusį savo genties ordą, kuri klajojo į šiaurę nuo Derbento."
   pagrindžia:

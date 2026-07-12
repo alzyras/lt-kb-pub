@@ -37,35 +37,35 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
 ## Teiginiai
 
 <a id="claim-t-179531"></a>
-- t-013
+- t-001
   global_id: t-179531
   teiginys: "R. Vėbra nemažai rašė lietuviškos spaudos draudimo XIX a. klausimais."
   pagrindžia:
     - c-34219
 
 <a id="claim-t-179533"></a>
-- t-014
+- t-002
   global_id: t-179533
   teiginys: "A. Šidlauskas atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje."
   pagrindžia:
     - c-34220
 
 <a id="claim-t-179535"></a>
-- t-001
+- t-003
   global_id: t-179535
   teiginys: "P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus."
   pagrindžia:
     - c-163220
 
 <a id="claim-t-179536"></a>
-- t-002
+- t-004
   global_id: t-179536
   teiginys: "R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais."
   pagrindžia:
     - c-34211
 
 <a id="claim-t-179537"></a>
-- t-016
+- t-005
   global_id: t-179537
   teiginys: "L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m."
   pagrindžia:
@@ -79,21 +79,21 @@ Lietuvos istorijos klausimus gvildeno jau minėtas P. Lietuvių kovas su kryžiu
     - c-34215
 
 <a id="claim-t-179539"></a>
-- t-015
+- t-007
   global_id: t-179539
   teiginys: "P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m."
   pagrindžia:
     - c-34221
 
 <a id="claim-t-179542"></a>
-- t-009
+- t-008
   global_id: t-179542
   teiginys: "R. Strazdūnaitė 1959 m. paskelbė darbą „Valstiečių kasos ir teismai Lietuvoje XIX a. pirmojoje pusėje“."
   pagrindžia:
     - c-34216
 
 <a id="claim-t-179544"></a>
-- t-011
+- t-009
   global_id: t-179544
   teiginys: "P. Girdzijauskienė parašė veikalą „1905-1907 metų revoliucija Lietuvoje“."
   pagrindžia:

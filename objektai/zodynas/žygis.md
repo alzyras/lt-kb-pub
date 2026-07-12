@@ -220,10 +220,15 @@ Toks žygis paprastai trukdavo ne ilgiau, kaip savaitę: mat, kryžiuočiai skub
 - susijęs iš [[objektai/zodynas/sukilimo inscenizacija.md#claim-t-77785|sukilimo inscenizacija]]: Lietuvai liko sukilimo inscenizacijos scenarijus.
 - susijęs iš [[objektai/zodynas/žygio vora.md#claim-t-185362|žygio vora]]: Žygyje kartu su Algirdu kariuomenė buvo padalyta į tris žygio voras.
 - susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195003|Mengli Girėjus]]: Jam vadovavo jaunesnieji Mengli-Girėjaus sūnūs Fatihas ir Burnašas.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
+- susijęs iš [[objektai/paprociai/Burnos prausimas prieš valgant pusryčius.md#claim-t-195391|Burnos prausimas prieš valgant pusryčius]]: Dotnavos gudai, palyginimui, burną nusiprausdavo vos atsikėlę prieš eidami į darbą.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-195046|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195040|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195041|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardamas, «krikščionys turi raudoti dėl jo mirties» 220c.
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-195042|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.
+- susijęs iš Dotnava: Forma „Dotnavietis“ vartojama kaip Dotnavos gyventojo pavadinimas.
+- susijęs iš Dotnava: Dotnavoje gyvenantys „Dotnavos gudai“ apibūdinami kaip su vietiniais jau antrą šimtmetį gyvenanti ir kalba bei būdu besiskirianti grupė.
 - susijęs iš Malburgas: Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną.
 ## Reikšmingi paminėjimai
 

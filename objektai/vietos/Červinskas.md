@@ -37,14 +37,14 @@ Jogaila su Vytautu sutarė savo kariuomenes sujungti Lenkijoje ties Červinsku (
 ## Teiginiai
 
 <a id="claim-t-178755"></a>
-- t-018
+- t-001
   global_id: t-178755
   teiginys: "Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko."
   pagrindžia:
     - c-162451
 
 <a id="claim-t-178759"></a>
-- t-019
+- t-002
   global_id: t-178759
   teiginys: "1418 m. Vytautas ir Jogaila sutelkė kariuomenes prie Červinsko, bet popiežiaus pasiuntiniai pratęsė paliaubas dar metams."
   pagrindžia:

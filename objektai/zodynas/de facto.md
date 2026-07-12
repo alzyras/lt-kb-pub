@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -37,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75544"></a>
-- t-004
+- t-001
   global_id: t-75544
   teiginys: "1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes."
   pagrindžia:

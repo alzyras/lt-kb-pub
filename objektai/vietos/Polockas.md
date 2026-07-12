@@ -57,406 +57,406 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
 ## Teiginiai
 
 <a id="claim-t-180424"></a>
-- t-048
+- t-001
   global_id: t-180424
   teiginys: "1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes."
   pagrindžia:
     - c-164053
 
 <a id="claim-t-180425"></a>
-- t-038
+- t-002
   global_id: t-180425
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie Vyskupo malūno suko į Polocką."
   pagrindžia:
     - c-164098
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-003
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180427"></a>
-- t-006
+- t-004
   global_id: t-180427
   teiginys: "Didžiosios kunigaikštijos plačios sritys per Polocką ir Vitebską buvo įtrauktos į Dauguvos prekybą."
   pagrindžia:
     - c-32343
 
 <a id="claim-t-180428"></a>
-- t-041
+- t-005
   global_id: t-180428
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko rašė didžiajam magistrui ir prašė skubios pagalbos."
   pagrindžia:
     - c-164061
 
 <a id="claim-t-180429"></a>
-- t-065
+- t-006
   global_id: t-180429
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
   pagrindžia:
     - c-164045
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-007
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180433"></a>
-- t-022
+- t-008
   global_id: t-180433
   teiginys: "Skirgailai buvo paliktas Polockas ir pažadėta Kijevo kunigaikštija."
   pagrindžia:
     - c-32345
 
 <a id="claim-t-180434"></a>
-- t-042
+- t-009
   global_id: t-180434
   teiginys: "Švitrigaila Polocke įkūrė atramos vietą, iš kurios beveik šešerius metus plito pilietinis karas Lietuvos žemėse."
   pagrindžia:
     - c-164094
 
 <a id="claim-t-180435"></a>
-- t-063
+- t-010
   global_id: t-180435
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
   pagrindžia:
     - c-164047
 
 <a id="claim-t-180436"></a>
-- t-047
+- t-011
   global_id: t-180436
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino „Rusėnų Biblijos“ knygas."
   pagrindžia:
     - c-164052
 
 <a id="claim-t-180438"></a>
-- t-014
+- t-012
   global_id: t-180438
   teiginys: "Vytenio ir Gedimino laikais Polockas 1307 m. buvo prijungtas prie Lietuvos kaip Baltosios Rusios dalis."
   pagrindžia:
     - c-164048
 
 <a id="claim-t-180440"></a>
-- t-025
+- t-013
   global_id: t-180440
   teiginys: "1432 m. rugpjūčio 31 d. naktį užpultas Ašmenos dvare Švitrigaila spėjo pabėgti į Polocką."
   pagrindžia:
     - c-164046
 
 <a id="claim-t-180441"></a>
-- t-027
+- t-014
   global_id: t-180441
   teiginys: "Totorių žygis niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   pagrindžia:
     - c-164053
 
 <a id="claim-t-180442"></a>
-- t-064
+- t-015
   global_id: t-180442
   teiginys: "Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė."
   pagrindžia:
     - c-164091
 
 <a id="claim-t-180443"></a>
-- t-061
+- t-016
   global_id: t-180443
   teiginys: "Polockas, anksčiau patekęs į ordino įtaką, vėl buvo sugrąžintas Lietuvai."
   pagrindžia:
     - c-164072
 
 <a id="claim-t-180444"></a>
-- t-004
+- t-017
   global_id: t-180444
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o kautynės baigėsi lietuvių pralaimėjimu."
   pagrindžia:
     - c-32341
 
 <a id="claim-t-180445"></a>
-- t-005
+- t-018
   global_id: t-180445
   teiginys: "Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją."
   pagrindžia:
     - c-164054
 
 <a id="claim-t-180446"></a>
-- t-018
+- t-019
   global_id: t-180446
   teiginys: "Polockas pasirinko bendradarbiavimą su Lietuva, kuri jam buvo natūrali gynėja ir sąjungininkė."
   pagrindžia:
     - c-164077
 
 <a id="claim-t-180448"></a>
-- t-061
+- t-020
   global_id: t-180448
   teiginys: "Vytautas patvirtino laisvos prekybos sutartį ir suteikė Polockui daugiau laisvės."
   pagrindžia:
     - c-164063
 
 <a id="claim-t-180449"></a>
-- t-008
+- t-021
   global_id: t-180449
   teiginys: "Skirgailai apgulus Polocką, Jogailos kariuomenė ir Livonijos magistras atsiuntė jam pagalbinių būrių."
   pagrindžia:
     - c-37645
 
 <a id="claim-t-180450"></a>
-- t-056
+- t-022
   global_id: t-180450
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
   pagrindžia:
     - c-164069
 
 <a id="claim-t-180451"></a>
-- t-001
+- t-023
   global_id: t-180451
   teiginys: "Polockui Lietuva buvo natūralus gynėjas ir sąjungininkas."
   pagrindžia:
     - c-164077
 
 <a id="claim-t-180452"></a>
-- t-015
+- t-024
   global_id: t-180452
   teiginys: "Tikėta, kad šventuoju paskelbtas Kazimieras 1518 m. padėjo Lietuvos kariuomenei įveikti priešą prie Polocko."
   pagrindžia:
     - c-164062
 
 <a id="claim-t-180453"></a>
-- t-007
+- t-025
   global_id: t-180453
   teiginys: "Algirdas rytinėse Lietuvos Didžiosios Kunigaikštijos žemėse pasodino savo sūnus, o Polocke sėdėjo Andrius."
   pagrindžia:
     - c-32344
 
 <a id="claim-t-180455"></a>
-- t-017
+- t-026
   global_id: t-180455
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, pradėdama karą tarp LLV ir Rusijos."
   pagrindžia:
     - c-164071
 
 <a id="claim-t-180456"></a>
-- t-060
+- t-027
   global_id: t-180456
   teiginys: "Vytauto valdymo metu Polockas buvo vienas iš dviejų didelių prekybos centrų Lietuvoje kartu su Kaunu."
   pagrindžia:
     - c-164060
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-028
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180459"></a>
-- t-039
+- t-029
   global_id: t-180459
   teiginys: "1388 m. Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
   pagrindžia:
     - c-164064
 
 <a id="claim-t-180460"></a>
-- t-016
+- t-030
   global_id: t-180460
   teiginys: "Pranciškus Skorina gimė Polocko pirklių šeimoje ir 1517–1519 m. Prahoje išspausdino psalmyną bei 22 Senojo Testamento knygas."
   pagrindžia:
     - c-164052
 
 <a id="claim-t-180462"></a>
-- t-065
+- t-031
   global_id: t-180462
   teiginys: "Vytenio ir Gedimino brolis Vainys valdė Polocką."
   pagrindžia:
     - c-164056
 
 <a id="claim-t-180463"></a>
-- t-063
+- t-032
   global_id: t-180463
   teiginys: "Strėvos kautynėse dalyvavo būriai iš Polocko, o mūšis baigėsi lietuvių pralaimėjimu."
   pagrindžia:
     - c-164084
 
 <a id="claim-t-180464"></a>
-- t-009
+- t-033
   global_id: t-180464
   teiginys: "1411 m. pavasarį Vytautui vykstant pro Polocką iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
   pagrindžia:
     - c-164042
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-034
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180467"></a>
-- t-024
+- t-035
   global_id: t-180467
   teiginys: "Gedimino laikais Polockas jau buvo tarp anksčiau lietuvių užvaldytų žemių."
   pagrindžia:
     - c-164070
 
 <a id="claim-t-180468"></a>
-- t-002
+- t-036
   global_id: t-180468
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   pagrindžia:
     - c-32339
 
 <a id="claim-t-180470"></a>
-- t-050
+- t-037
   global_id: t-180470
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką."
   pagrindžia:
     - c-164044
 
 <a id="claim-t-180471"></a>
-- t-003
+- t-038
   global_id: t-180471
   teiginys: "Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių."
   pagrindžia:
     - c-164067
 
 <a id="claim-t-180472"></a>
-- t-062
+- t-039
   global_id: t-180472
   teiginys: "Vainys buvo vienas iš brolių ir valdė Polocką."
   pagrindžia:
     - c-164056
 
 <a id="claim-t-180474"></a>
-- t-036
+- t-040
   global_id: t-180474
   teiginys: "1381 m. Skirgaila su Livonijos magistru dvylika savaičių laikė apsupęs Polocką, bet buvo priverstas nutraukti apgultį."
   pagrindžia:
     - c-164044
 
 <a id="claim-t-180475"></a>
-- t-040
+- t-041
   global_id: t-180475
   teiginys: "Skirgailai išvykus į Polocką, atsirado proga įgyvendinti sumanymą Vilniuje."
   pagrindžia:
     - c-164097
 
 <a id="claim-t-180476"></a>
-- t-035
+- t-042
   global_id: t-180476
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Kęstučiui palankaus Andriaus Algirdaičio, kilo atviras susirėmimas."
   pagrindžia:
     - c-164058
 
 <a id="claim-t-180442"></a>
-- t-064
+- t-043
   global_id: t-180442
   teiginys: "Karalius iš Vilniaus išžygiavo į Polocką ir po trijų savaičių apgulties jį paėmė."
   pagrindžia:
     - c-164091
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-044
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180479"></a>
-- t-049
+- t-045
   global_id: t-180479
   teiginys: "Jogailai pasiuntus Skirgailą į Polocko kunigaikštystę vietoje Andriaus Algirdaičio, kilo atviras susirėmimas."
   pagrindžia:
     - c-164058
 
 <a id="claim-t-180435"></a>
-- t-063
+- t-046
   global_id: t-180435
   teiginys: "Maskvos caras pyko, kad Steponas Batoras nepripažino jam Polocko, Smolensko ir Livonijos kunigaikščio titulų."
   pagrindžia:
     - c-164047
 
 <a id="claim-t-180481"></a>
-- t-055
+- t-047
   global_id: t-180481
   teiginys: "1432 m. rugsėjo 3 d. Švitrigaila iš Polocko parašė laišką didžiajam magistrui, prašydamas skubios pagalbos."
   pagrindžia:
     - c-164061
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-048
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180471"></a>
-- t-003
+- t-049
   global_id: t-180471
   teiginys: "Po Voinos mirties Gediminas Polocke pasodino Narimantą, nors Voina buvo palikęs įpėdinių."
   pagrindžia:
     - c-164067
 
 <a id="claim-t-180484"></a>
-- t-013
+- t-050
   global_id: t-180484
   teiginys: "Gedimino ar Algirdo laikais Polocko žemės telkėsi apie Lietuvą kaip politinės sistemos centrą."
   pagrindžia:
     - c-164068
 
 <a id="claim-t-180485"></a>
-- t-053
+- t-051
   global_id: t-180485
   teiginys: "1388 m. dokumente Skirgaila save vadino Lietuvos kunigaikščiu ir Trakų bei Polocko valdovu."
   pagrindžia:
     - c-164064
 
 <a id="claim-t-180486"></a>
-- t-026
+- t-052
   global_id: t-180486
   teiginys: "Po nepavykusio žygio gilyn į Lietuvą Švitrigaila grįžo į Polocką, paleido kariuomenę ir išvyko į Kijevą."
   pagrindžia:
     - c-164082
 
 <a id="claim-t-180458"></a>
-- t-051
+- t-053
   global_id: t-180458
   teiginys: "Vilnius Polocko dalinėje valdoje siejamas su Riuriko giminės kunigaikščiais Rostislavu ir Dovilu, arba Dovydu."
   pagrindžia:
     - c-164049
 
 <a id="claim-t-180488"></a>
-- t-052
+- t-054
   global_id: t-180488
   teiginys: "Vienas vieškelis iš Vilniaus per Vilnios upę prie bendro naudojimo malūno suko į Polocką."
   pagrindžia:
     - c-164098
 
 <a id="claim-t-183076"></a>
-- t-068
+- t-055
   global_id: t-183076
   teiginys: "Po sąmokslininkų užpuolimo Švitrigaila paspruko į Polocką ir paėmė į savo valdžią Polocko sritį."
   pagrindžia:
     - c-166466
 
 <a id="claim-t-185095"></a>
-- t-076
+- t-056
   global_id: t-185095
   teiginys: "Daumantas susitaikė su broliu ir gavo valdyti Polocko kraštą."
   pagrindžia:
     - c-168456
 
 <a id="claim-t-185096"></a>
-- t-077
+- t-057
   global_id: t-185096
   teiginys: "Gediminas laukė pagrindinių dalinių, kuriems į pagalbą turėjo ateiti naugardukiečiai ir polockiečiai."
   pagrindžia:
     - c-168457
 
 <a id="claim-t-185097"></a>
-- t-078
+- t-058
   global_id: t-185097
   teiginys: "Kazimieras žiemos viduryje lankėsi Baltarusijoje ir Polocke, Vitebske bei Smolenske tvarkė taikos bei karo reikalus."
   pagrindžia:
@@ -498,21 +498,21 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - c-171694
 
 <a id="claim-t-193226"></a>
-- t-079
+- t-064
   global_id: t-193226
   teiginys: "Šiaurėje, kur buvo susikūrusi galinga Polocko kunigaikštija, lietuvių ir latvių giminėms iš karto irgi nelabai sekėsi."
   pagrindžia:
     - c-175965
 
 <a id="claim-t-193779"></a>
-- t-080
+- t-065
   global_id: t-193779
   teiginys: "1563 m. pradžioje didelė Maskvos kariuomenė užėmė Polocką - strateginės reikšmės Lietuvos tvirtovę."
   pagrindžia:
     - c-43754
 
 <a id="claim-t-194258"></a>
-- t-081
+- t-066
   global_id: t-194258
   teiginys: "Kaip ir tame neseniai vykusiame kare prieš Maskvos kunigaikštį prie Polocko rizikavo savo gyvybe ir sveikata, savo noru ir būdamas taurios riteriškos širdies, nusėdęs nuo žirgo, ne bodamas jokio pavojaus, stojo prie pat priešininko pilies sienų, kad ją užimtų."
   pagrindžia:

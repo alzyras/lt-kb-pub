@@ -45,35 +45,35 @@ Mykolas Kleopas Oginskis vadinamas garsiojo polonezo „Atsisveikinimas su Tėvy
 ## Teiginiai
 
 <a id="claim-t-75420"></a>
-- t-009
+- t-001
   global_id: t-75420
   teiginys: "Mykolas Kleopas Oginskis buvo vadinamas garsiojo polonezo „Atsisveikinimas su Tėvyne“ autoriumi."
   pagrindžia:
     - c-22179
 
 <a id="claim-t-75421"></a>
-- t-012
+- t-002
   global_id: t-75421
   teiginys: "Mykolas Kleopas Oginskis buvo 1794 m. sukilėlis ir paskutinio LDK atkūrimo projekto autorius."
   pagrindžia:
     - c-73213
 
 <a id="claim-t-75422"></a>
-- t-013
+- t-003
   global_id: t-75422
   teiginys: "Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius."
   pagrindžia:
     - c-22179
 
 <a id="claim-t-75423"></a>
-- t-010
+- t-004
   global_id: t-75423
   teiginys: "Mykolas Kleopas Oginskis buvo stambus dvarininkas, kompozitorius ir polonezo „Atsisveikinimas su Tėvyne“ autorius."
   pagrindžia:
     - c-22181
 
 <a id="claim-t-75424"></a>
-- t-011
+- t-005
   global_id: t-75424
   teiginys: "Mykolas Kleopas Oginskis buvo 1794 m. sukilėlis ir paskutinio LDK atkūrimo projekto autorius."
   pagrindžia:

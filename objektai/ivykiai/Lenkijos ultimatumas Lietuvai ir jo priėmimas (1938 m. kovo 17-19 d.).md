@@ -62,7 +62,7 @@ Nenurodyta
     - c-22990
 
 <a id="claim-t-75118"></a>
-- t-004
+- t-002
   global_id: t-75118
   teiginys: "Priėmus Lenkijos ultimatumą Lietuva turėjo atkurti diplomatinius santykius, apsikeisti pasiuntinybėmis ir nutraukti „Vilniui vaduoti sąjungos“ veiklą."
   pagrindžia:
@@ -76,7 +76,7 @@ Nenurodyta
     - c-22992
 
 <a id="claim-t-75120"></a>
-- t-002
+- t-004
   global_id: t-75120
   teiginys: "Kauno politikai tikėjosi Lenkijos ultimatumo ir patys ieškojo būdų užmegzti santykius su Lenkija."
   pagrindžia:

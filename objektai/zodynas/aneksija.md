@@ -56,28 +56,28 @@ Aneksija įgyvendinta surengus vadinamojo Liaudies seimo rinkimus – toks pat s
     - c-24738
 
 <a id="claim-t-70086"></a>
-- t-004
+- t-003
   global_id: t-70086
   teiginys: "Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija."
   pagrindžia:
     - c-37896
 
 <a id="claim-t-70087"></a>
-- t-003
+- t-004
   global_id: t-70087
   teiginys: "Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   pagrindžia:
     - c-166789
 
 <a id="claim-t-70087"></a>
-- t-003
+- t-005
   global_id: t-70087
   teiginys: "Lietuvos pasiuntiniams užsienyje pareiškus protestus prieš okupaciją ir aneksiją, iš jų atimta pilietybė ir nacionalizuotas turtas."
   pagrindžia:
     - c-166789
 
 <a id="claim-t-193599"></a>
-- t-007
+- t-006
   global_id: t-193599
   teiginys: "Taip įforminta Lietuvos aneksija, Rinkimų į Liaudies seimą agitacinis plakatas."
   pagrindžia:

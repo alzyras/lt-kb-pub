@@ -69,28 +69,28 @@ Narbutas, remdamasis Plinijumi, sarmatus siejo su pasakojimais apie medų paliku
     - c-173975
 
 <a id="claim-t-191095"></a>
-- t-008
+- t-007
   global_id: t-191095
   teiginys: "Narbutas teigė, kad sala, kurią Plinijus vadino Baltija, pagal Hardua rankraščius ir stebėjimus turėtų vadintis Basilia."
   pagrindžia:
     - c-173977
 
 <a id="claim-t-191096"></a>
-- t-009
+- t-008
   global_id: t-191096
   teiginys: "Narbutas svarstė, kad Pitėjo laikais Baltija, Plinijaus vadinta gintaringa sala, galėjo plytėti už dabartinės nerijos."
   pagrindžia:
     - c-173978
 
 <a id="claim-t-191097"></a>
-- t-010
+- t-009
   global_id: t-191097
   teiginys: "Narbutas nurodė, kad Plinijus minėjo Carcine įlanką ir to paties pavadinimo miestelį prie Boristenio ir Bugo žiočių."
   pagrindžia:
     - c-173979
 
 <a id="claim-t-191969"></a>
-- t-011
+- t-010
   global_id: t-191969
   teiginys: "Narbutas rašė, kad tyrinėtojai nuo Plinijaus kompiliacijų iki Uphageno painiojosi prielaidose apie skirių ir hirių gentis."
   pagrindžia:

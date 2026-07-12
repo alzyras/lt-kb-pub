@@ -30,7 +30,7 @@ Bet didžiausias darbas, atliktas šioje srityje, buvo iškastas 71 / 2 mylių i
 ## Teiginiai
 
 <a id="claim-t-184963"></a>
-- t-002
+- t-001
   global_id: t-184963
   teiginys: "Prie Jaseldos upės Skirmanto pajėgos sumušė Mstislavą, kuris praradęs kariuomenę paspruko į Lucką."
   pagrindžia:

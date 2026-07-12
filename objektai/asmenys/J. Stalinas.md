@@ -48,21 +48,21 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21705
 
 <a id="claim-t-101640"></a>
-- t-009
+- t-002
   global_id: t-101640
   teiginys: "J. Stalino laikais okupacinė valdžia siekė fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   pagrindžia:
     - c-21710
 
 <a id="claim-t-101641"></a>
-- t-006
+- t-003
   global_id: t-101641
   teiginys: "J. Stalino laikais okupacinė valdžia stengėsi fiziškai sunaikinti ar ištremti dvasininkiją, o bažnyčias paversti sandėliais."
   pagrindžia:
     - c-21710
 
 <a id="claim-t-101642"></a>
-- t-008
+- t-004
   global_id: t-101642
   teiginys: "Sovietinėje Lietuvoje mokytojai buvo verčiami studijuoti J. Stalino, V. Lenino ir Karlo Markso veikalus."
   pagrindžia:
@@ -76,28 +76,28 @@ Stalinui, o ypač po trejų metų Nikitai Chruščiovui pasmerkus J. Stalino SSR
     - c-21709
 
 <a id="claim-t-101644"></a>
-- t-004
+- t-006
   global_id: t-101644
   teiginys: "J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose."
   pagrindžia:
     - c-21708
 
 <a id="claim-t-101645"></a>
-- t-002
+- t-007
   global_id: t-101645
   teiginys: "Lietuvoje tikėta, kad Vakarai pakils į žygį prieš J. Stalino SSRS ir padės sugrąžinti nepriklausomybę dėl karo jos netekusioms šalims."
   pagrindžia:
     - c-21706
 
 <a id="claim-t-101646"></a>
-- t-007
+- t-008
   global_id: t-101646
   teiginys: "Stalino statulų, prikabinėta komunistinių šūkių."
   pagrindžia:
     - c-21708
 
 <a id="claim-t-101647"></a>
-- t-003
+- t-009
   global_id: t-101647
   teiginys: "J. Stalino valdymo metais vyko tiesmukas lietuvių kultūros griovimas, siekiant išrauti bet kokį tautiškumą."
   pagrindžia:

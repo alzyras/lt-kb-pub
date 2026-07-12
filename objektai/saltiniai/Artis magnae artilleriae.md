@@ -62,7 +62,7 @@ media_all_json: |-
     - c-16852
 
 <a id="claim-t-23385"></a>
-- t-002
+- t-004
   global_id: t-23385
   teiginys: "Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas."
   pagrindžia:

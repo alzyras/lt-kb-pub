@@ -78,6 +78,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Aisčių medžių ir girių garbinimas.md#claim-t-07764|Aisčių medžių ir girių garbinimas]]: Ąžuolus ir ąžuolynus kalnėnai bei žemaičiai garbino ypač stipriai, juos kirsti galėjo tik kunigai, o ąžuolynai ir lieknai veikė kaip šventos garbinimo vietos.
 - susijęs iš [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“.md#claim-t-41484|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]: Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos.
 - susijęs iš Nočia: Narbutas rašo, kad prie Nočios miestelio atsitiktinai atkastame kape rastas akmeninis kirvukas iš kietos geležies.
+- susijęs iš [[objektai/daiktai/Adiklis.md#claim-t-195323|Adiklis]]: Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas.
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-192079|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
 ## Reikšmingi paminėjimai
 

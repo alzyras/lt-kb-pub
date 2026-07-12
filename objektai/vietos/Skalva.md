@@ -40,14 +40,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
 ## Teiginiai
 
 <a id="claim-t-58373"></a>
-- t-005
+- t-001
   global_id: t-58373
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš skalvius."
   pagrindžia:
     - c-59010
 
 <a id="claim-t-58374"></a>
-- t-001
+- t-002
   global_id: t-58374
   teiginys: "Petro iš Dusburgo kronikoje Skalva priskirta vienai iš 11 Prūsijos žemės dalių."
   pagrindžia:
@@ -68,14 +68,14 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
     - c-59006
 
 <a id="claim-t-58377"></a>
-- t-006
+- t-005
   global_id: t-58377
   teiginys: "Sembų fogtas Ditrichas su Ordino pajėgomis atplaukė į skalvių žemę abiejose Nemuno pusėse ir užpuolė Ragainės vietoje stovėjusią pilį."
   pagrindžia:
     - c-59007
 
 <a id="claim-t-58378"></a>
-- t-002
+- t-006
   global_id: t-58378
   teiginys: "Kai kurie tyrinėtojai teritoriją nuo Pamedės iki Skalvos prie Nemuno apibūdino kaip prūsų gyvenamą."
   pagrindžia:

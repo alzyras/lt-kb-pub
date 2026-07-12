@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - kunigas
   - sąvoka
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,21 +51,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06171"></a>
-- t-004
+- t-001
   global_id: t-06171
   teiginys: "Archeologų atkastas šventoves apylinkių žmonės dažnai vadino alkų vardais."
   pagrindžia:
     - c-00268
 
 <a id="claim-t-06172"></a>
-- t-006
+- t-002
   global_id: t-06172
   teiginys: "Pasakojimas apie vieną vyriausiąją Romuvą laikomas viduramžių rašytojų prasimanymu."
   pagrindžia:
     - c-00269
 
 <a id="claim-t-06173"></a>
-- t-005
+- t-003
   global_id: t-06173
   teiginys: "Šventovės vienur buvo vadinamos romuvomis, kitur alkomis, galbūt dėl pobūdžio ar tarmių skirtumų."
   pagrindžia:

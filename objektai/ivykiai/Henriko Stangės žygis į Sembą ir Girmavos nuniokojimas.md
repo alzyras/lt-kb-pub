@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66560"></a>
-- t-002
+- t-001
   global_id: t-66560
   teiginys: "Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos."
   pagrindžia:
     - c-66768
 
 <a id="claim-t-66561"></a>
-- t-003
+- t-002
   global_id: t-66561
   teiginys: "Sembos puolimas datuojamas arba 1252–1253 m. žiema, arba 1253–1254 m. žiema, tiksliau 1254 m. pradžia."
   pagrindžia:
     - c-66769
 
 <a id="claim-t-66562"></a>
-- t-001
+- t-003
   global_id: t-66562
   teiginys: "Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių."
   pagrindžia:

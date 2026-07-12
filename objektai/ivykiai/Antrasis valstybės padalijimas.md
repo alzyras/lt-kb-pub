@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - valstybė
+  - šeima
 amziai:
   - 'XVIII'
   - 'XIX'

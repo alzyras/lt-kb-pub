@@ -56,21 +56,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66789"></a>
-- t-002
+- t-001
   global_id: t-66789
   teiginys: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui."
   pagrindžia:
     - c-66919
 
 <a id="claim-t-66790"></a>
-- t-001
+- t-002
   global_id: t-66790
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau."
   pagrindžia:
     - c-166654
 
 <a id="claim-t-66790"></a>
-- t-001
+- t-003
   global_id: t-66790
   teiginys: "1251 m. pavasarį arba vasaros pradžioje Mindaugas išsirūpino krikštą sau ir Mortai bei karaliaus karūną sau."
   pagrindžia:

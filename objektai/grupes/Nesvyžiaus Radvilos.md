@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - šeima
 amziai:
   - 'XVII'
 media_total_count: '0'

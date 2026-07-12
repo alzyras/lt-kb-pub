@@ -36,6 +36,7 @@ Giedraičius gynęs 2-asis pulkas buvo priverstas atsitraukti į ŠešuolėsViri
   pagrindžia:
     - c-167201
 - susijęs iš Šešuolė: Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.
+- susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195332|Bonka]]: Gėrimo talpa prie bažnyčios vaišių ir gertuvių.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -47,49 +47,49 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
 ## Teiginiai
 
 <a id="claim-t-182825"></a>
-- t-025
+- t-001
   global_id: t-182825
   teiginys: "Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes."
   pagrindžia:
     - c-166232
 
 <a id="claim-t-183087"></a>
-- t-008
+- t-002
   global_id: t-183087
   teiginys: "Raseiniuose buvo įkurta pijarų mokykla."
   pagrindžia:
     - c-166475
 
 <a id="claim-t-183804"></a>
-- t-027
+- t-003
   global_id: t-183804
   teiginys: "Bermontininkai, užėmę Šiaurės Lietuvą, judėdami į pietus pasiekė Raseinius."
   pagrindžia:
     - c-167189
 
 <a id="claim-t-184321"></a>
-- t-028
+- t-004
   global_id: t-184321
   teiginys: "Sukilimas prasidėjo Raseinių apskrityje, kur buvo sudegintas Sudeikių dvaras."
   pagrindžia:
     - c-167692
 
 <a id="claim-t-184395"></a>
-- t-029
+- t-005
   global_id: t-184395
   teiginys: "1352 m. vasarį Kniprodė smarkiai teriojo Gaižuvos, Ariogalos ir Raseinių sritis."
   pagrindžia:
     - c-32377
 
 <a id="claim-t-184396"></a>
-- t-030
+- t-006
   global_id: t-184396
   teiginys: "Raseinių sritis buvo viena iš septynių Žemaičių aukštumos sričių, kurių atstovai darė taiką su Vytautu ir Ordinu."
   pagrindžia:
     - c-32378
 
 <a id="claim-t-185121"></a>
-- t-031
+- t-007
   global_id: t-185121
   teiginys: "Žemaitijos nusiaubimo metu Raseinių valsčius buvo sulygintas su žeme kartu su Vaikių, Ariogalos ir Klogėnų valsčiais."
   pagrindžia:

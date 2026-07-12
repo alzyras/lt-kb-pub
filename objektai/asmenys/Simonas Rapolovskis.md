@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigaikštis
   - miestas
-  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:

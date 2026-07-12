@@ -13,7 +13,7 @@ tags:
   - bajorija
   - grupe
   - karalius
-  - privilegija
+  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -44,7 +44,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
 ## Teiginiai
 
 <a id="claim-t-192208"></a>
-- t-006
+- t-001
   global_id: t-192208
   teiginys: "Narbutas žodį „galinduoti“ aiškina kaip reiškiantį elgtis kaip galindas."
   pagrindžia:
@@ -58,7 +58,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     - c-175069
 
 <a id="claim-t-192210"></a>
-- t-005
+- t-003
   global_id: t-192210
   teiginys: "Narbutas mini „galinduoti“ kaip žodį, kuriuo aiškina galindų pavadinimo kilmę."
   pagrindžia:
@@ -72,7 +72,7 @@ reikšmė pateikta kaip Narbuto siūlomas aiškinimas, todėl viešame įraše j
     - c-175068
 
 <a id="claim-t-192212"></a>
-- t-001
+- t-005
   global_id: t-192212
   teiginys: "Narbutas nurodo, kad kiti autoriai Galintuvojt kildino iš senovės prūsų žodžio, reiškusio triukšmauti arba niekšėti."
   pagrindžia:

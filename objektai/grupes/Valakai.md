@@ -30,14 +30,14 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 ## Teiginiai
 
 <a id="claim-t-92846"></a>
-- t-002
+- t-001
   global_id: t-92846
   teiginys: "Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų."
   pagrindžia:
     - c-88325
 
 <a id="claim-t-92847"></a>
-- t-001
+- t-002
   global_id: t-92847
   teiginys: "Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė."
   pagrindžia:

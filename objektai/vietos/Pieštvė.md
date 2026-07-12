@@ -39,28 +39,28 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
 ## Teiginiai
 
 <a id="claim-t-58400"></a>
-- t-004
+- t-001
   global_id: t-58400
   teiginys: "Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius."
   pagrindžia:
     - c-59033
 
 <a id="claim-t-58401"></a>
-- t-003
+- t-002
   global_id: t-58401
   teiginys: "Pieštvės pilis buvo deš."
   pagrindžia:
     - c-59032
 
 <a id="claim-t-58402"></a>
-- t-001
+- t-003
   global_id: t-58402
   teiginys: "Švento Jokūbo apaštalo dieną Meinhardas užpuolė Junigedą ir Pieštvę ir iki pamatų sudegino abiejų pilių papilius."
   pagrindžia:
     - c-59034
 
 <a id="claim-t-185084"></a>
-- t-005
+- t-004
   global_id: t-185084
   teiginys: "Kryžiuočiai per vieną žygį sugriovė Pieštvės ir Veliuonos pilis, o Pieštvės gynėjai pilį atidavė be kovos."
   pagrindžia:

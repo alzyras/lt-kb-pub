@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-78379"></a>
-- t-003
+- t-001
   global_id: t-78379
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu."
   pagrindžia:
@@ -52,14 +52,14 @@ media_all_json: |-
     - c-75665
 
 <a id="claim-t-78381"></a>
-- t-004
+- t-003
   global_id: t-78381
   teiginys: "Lietuvos totoriai naudodavo rytietiškas strėlines, kaip ir kita Lietuvos lengvoji kariuomenė."
   pagrindžia:
     - c-75662
 
 <a id="claim-t-78382"></a>
-- t-001
+- t-004
   global_id: t-78382
   teiginys: "Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
   pagrindžia:

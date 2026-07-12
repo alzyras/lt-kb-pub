@@ -32,7 +32,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 ## Teiginiai
 
 <a id="claim-t-63618"></a>
-- t-003
+- t-001
   global_id: t-63618
   teiginys: "Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą."
   pagrindžia:

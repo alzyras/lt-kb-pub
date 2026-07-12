@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66557"></a>
-- t-003
+- t-001
   global_id: t-66557
   teiginys: "Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę."
   pagrindžia:
@@ -71,14 +71,14 @@ Nenurodyta
     - c-66764
 
 <a id="claim-t-66559"></a>
-- t-001
+- t-003
   global_id: t-66559
   teiginys: "Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais."
   pagrindžia:
     - c-66766
 
 <a id="claim-t-66559"></a>
-- t-001
+- t-004
   global_id: t-66559
   teiginys: "Henrikas, Meiseno markgrafas, atvyko į Prūsiją su 500 kilmingų kovai pasirengusių vyrų ir dideliais turtais."
   pagrindžia:

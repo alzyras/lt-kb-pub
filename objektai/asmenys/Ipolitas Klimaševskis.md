@@ -35,14 +35,14 @@ Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. Aleksa
 ## Teiginiai
 
 <a id="claim-t-186504"></a>
-- t-002
+- t-001
   global_id: t-186504
   teiginys: "Dėl dalyvavimo 1831 m. sukilime Ipolitas Klimaševskis turėjo emigruoti į užsienį ir tespėjo paskelbti pasakojimą apie Žygimanto Kęstutaičio nužudymą 1440 m."
   pagrindžia:
     - c-169842
 
 <a id="claim-t-186505"></a>
-- t-001
+- t-002
   global_id: t-186505
   teiginys: "Ipolitas Klimaševskis buvo Vilniaus gimnazijos mokytojas, prieš 1830 m. aptikęs Bychovco kronikos rankraštį Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
   pagrindžia:

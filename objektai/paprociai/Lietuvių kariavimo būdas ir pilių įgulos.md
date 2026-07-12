@@ -52,42 +52,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78714"></a>
-- t-008
+- t-001
   global_id: t-78714
   teiginys: "XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų."
   pagrindžia:
     - c-75910
 
 <a id="claim-t-78715"></a>
-- t-007
+- t-002
   global_id: t-78715
   teiginys: "XIII a. pabaigoje - XV a. pradžioje Lietuva palei naująją sieną sukūrė lietuviškų pilių tinklą, kurio pilys buvo ir gynybos fortai, ir administraciniai centrai."
   pagrindžia:
     - c-75913
 
 <a id="claim-t-78716"></a>
-- t-010
+- t-003
   global_id: t-78716
   teiginys: "Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau."
   pagrindžia:
     - c-75910
 
 <a id="claim-t-78717"></a>
-- t-009
+- t-004
   global_id: t-78717
   teiginys: "Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
   pagrindžia:
     - c-75911
 
 <a id="claim-t-183693"></a>
-- t-011
+- t-005
   global_id: t-183693
   teiginys: "Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis."
   pagrindžia:
     - c-167083
 
 <a id="claim-t-193746"></a>
-- t-012
+- t-006
   global_id: t-193746
   teiginys: "Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo."
   pagrindžia:

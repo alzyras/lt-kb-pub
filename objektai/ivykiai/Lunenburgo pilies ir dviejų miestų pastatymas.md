@@ -55,7 +55,7 @@ Nenurodyta
     - c-62982
 
 <a id="claim-t-62387"></a>
-- t-001
+- t-002
   global_id: t-62387
   teiginys: "Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos upių santakoje."
   pagrindžia:

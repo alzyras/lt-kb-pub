@@ -13,7 +13,7 @@ tags:
   - karalius
   - kraštas
   - miestas
-  - vieta
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

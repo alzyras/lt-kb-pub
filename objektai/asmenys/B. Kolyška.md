@@ -30,14 +30,14 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 ## Teiginiai
 
 <a id="claim-t-40053"></a>
-- t-004
+- t-001
   global_id: t-40053
   teiginys: "B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę."
   pagrindžia:
     - c-44301
 
 <a id="claim-t-40054"></a>
-- t-001
+- t-002
   global_id: t-40054
   teiginys: "Z. Sierakauskas B. Kolyškai pavedė vadovauti vienai sukilėlių kariuomenės kolonai."
   pagrindžia:
@@ -51,7 +51,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
     - c-44300
 
 <a id="claim-t-40056"></a>
-- t-002
+- t-004
   global_id: t-40056
   teiginys: "B. Kolyška vadovavo pirmajai sukilėlių kolonai, pasiekusiai Medeikių kaimą."
   pagrindžia:

@@ -51,14 +51,14 @@ Nenurodyta
     - c-02134
 
 <a id="claim-t-01894"></a>
-- t-003
+- t-002
   global_id: t-01894
   teiginys: "Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus."
   pagrindžia:
     - c-02132
 
 <a id="claim-t-01895"></a>
-- t-002
+- t-003
   global_id: t-01895
   teiginys: "Vaitiekaus misijonieriams aisčių krašte nesisekė platinti krikščionybės."
   pagrindžia:

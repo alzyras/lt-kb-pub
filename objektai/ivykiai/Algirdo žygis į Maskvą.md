@@ -51,21 +51,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187457"></a>
-- t-003
+- t-001
   global_id: t-187457
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas, atsakydamas į grasinimą, pažadėjo būti Maskvoje per Velykas."
   pagrindžia:
     - c-170435
 
 <a id="claim-t-187458"></a>
-- t-005
+- t-002
   global_id: t-187458
   teiginys: "Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių."
   pagrindžia:
     - c-170437
 
 <a id="claim-t-187459"></a>
-- t-001
+- t-003
   global_id: t-187459
   teiginys: "Legenda apie Algirdo žygį į Maskvą yra Bychovco kronikoje, bet jos nėra Trumpajame ir kituose Platesniojo sąvado nuorašuose."
   pagrindžia:
@@ -79,7 +79,7 @@ Nenurodyta
     - c-170435
 
 <a id="claim-t-187461"></a>
-- t-002
+- t-005
   global_id: t-187461
   teiginys: "Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą."
   pagrindžia:
@@ -93,14 +93,14 @@ Nenurodyta
     - c-170437
 
 <a id="claim-t-187463"></a>
-- t-010
+- t-007
   global_id: t-187463
   teiginys: "Lietuvos metraštis teigia, kad Algirdas išsaugojo visus savo žmones."
   pagrindžia:
     - c-170438
 
 <a id="claim-t-187464"></a>
-- t-007
+- t-008
   global_id: t-187464
   teiginys: "Lietuvos metraštis teigia, kad Po susitarimo su Maskvos didžiuoju kunigaikščiu Algirdas atrėmė ietį į Maskvos sieną kaip savo žygio ženklą."
   pagrindžia:
@@ -114,7 +114,7 @@ Nenurodyta
     - c-170438
 
 <a id="claim-t-187466"></a>
-- t-008
+- t-010
   global_id: t-187466
   teiginys: "Lietuvos metraštis pasakoja, kad Algirdas iš žygio grįžo su daugybe belaisvių ir grobio."
   pagrindžia:

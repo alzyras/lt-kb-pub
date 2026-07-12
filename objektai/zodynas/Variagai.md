@@ -60,14 +60,14 @@ Vartojama ankstyvųjų normanų ir Rusios istorijos aptarime.
     - c-55820
 
 <a id="claim-t-82105"></a>
-- t-004
+- t-003
   global_id: t-82105
   teiginys: "Petro Olai „Danų kronikoje“ aprašytas įvykis siejamas su Riuriko ir jo variagų pasitraukimu į Rusiją."
   pagrindžia:
     - c-78599
 
 <a id="claim-t-82106"></a>
-- t-003
+- t-004
   global_id: t-82106
   teiginys: "IX a. Rusioje variagais vadinti skandinavų normanai Baltijos pakrantėse vertėsi plėšikavimu ir prekyba."
   pagrindžia:

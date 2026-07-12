@@ -58,28 +58,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78722"></a>
-- t-004
+- t-001
   global_id: t-78722
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
   pagrindžia:
     - c-12431
 
 <a id="claim-t-78723"></a>
-- t-006
+- t-002
   global_id: t-78723
   teiginys: "Nacionalinėse šventėse minimi trys Lietuvos valstybės kūrimosi ar atkūrimo momentai po istorinių valstybingumo praradimų."
   pagrindžia:
     - c-43178
 
 <a id="claim-t-78722"></a>
-- t-004
+- t-003
   global_id: t-78722
   teiginys: "Per nacionalines šventes minimos Liepos 6-osios, Vasario 16-osios ir 1990 m. Kovo 11-osios Lietuvos valstybingumo datos."
   pagrindžia:
     - c-12431
 
 <a id="claim-t-78725"></a>
-- t-008
+- t-004
   global_id: t-78725
   teiginys: "Lietuva tris valstybingumo atkūrimo ar kūrimo kartus mini per nacionalines šventes."
   pagrindžia:

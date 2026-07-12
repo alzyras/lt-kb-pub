@@ -42,49 +42,49 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
 ## Teiginiai
 
 <a id="claim-t-69030"></a>
-- t-005
+- t-001
   global_id: t-69030
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   pagrindžia:
     - c-43763
 
 <a id="claim-t-69032"></a>
-- t-003
+- t-002
   global_id: t-69032
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų."
   pagrindžia:
     - c-43761
 
 <a id="claim-t-69034"></a>
-- t-002
+- t-003
   global_id: t-69034
   teiginys: "7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų."
   pagrindžia:
     - c-43760
 
 <a id="claim-t-183802"></a>
-- t-006
+- t-004
   global_id: t-183802
   teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų."
   pagrindžia:
     - c-167187
 
 <a id="claim-t-183803"></a>
-- t-007
+- t-005
   global_id: t-183803
   teiginys: "Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją."
   pagrindžia:
     - c-167188
 
 <a id="claim-t-188806"></a>
-- t-004
+- t-006
   global_id: t-188806
   teiginys: "Narbutas rašo ties Prienais, Nemuno pusračio vingyje, pastebėjęs piliakalnį, vadintą Krono-kilpinie, arba Kruonio kilpa."
   pagrindžia:
     - c-171695
 
 <a id="claim-t-188807"></a>
-- t-005
+- t-007
   global_id: t-188807
   teiginys: "Narbutas rašo matęs laužą kairiajame Nemuno krante, prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą."
   pagrindžia:

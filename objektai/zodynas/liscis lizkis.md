@@ -13,7 +13,7 @@ tags:
   - dokumentas
   - miestas
   - pilis
-  - privilegija
+  - sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

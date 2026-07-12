@@ -44,14 +44,14 @@ Vartojama prūsų visuomenės sluoksniavimui ir vadų rinkimo tvarkai aiškinti.
 ## Teiginiai
 
 <a id="claim-t-192264"></a>
-- t-002
+- t-001
   global_id: t-192264
   teiginys: "Teodoras Narbutas rašo, kad iš šios kastos arba luomo buvo renkami vadai ir įsakinėtojai."
   pagrindžia:
     - c-175094
 
 <a id="claim-t-192265"></a>
-- t-001
+- t-002
   global_id: t-192265
   teiginys: "Narbutas apibūdina senąsias gentis kaip priklausiusias kastai arba luomui su viršenybe kitiems."
   pagrindžia:

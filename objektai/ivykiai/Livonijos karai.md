@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45427"></a>
-- t-003
+- t-001
   global_id: t-45427
   teiginys: "Livonijos karuose 1558–1583 m. Lietuva ir Lenkija gavo didžiąją Livonijos dalį kartu su Ryga."
   pagrindžia:
     - c-48252
 
 <a id="claim-t-45429"></a>
-- t-001
+- t-002
   global_id: t-45429
   teiginys: "Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos."
   pagrindžia:
     - c-23135
 
 <a id="claim-t-45429"></a>
-- t-001
+- t-003
   global_id: t-45429
   teiginys: "Bandymai įsitvirtinti Livonijoje ir išeiti į Baltijos jūrą kėlė konfliktus tarp ATR, Rusijos ir XVII a. kariškai sustiprėjusios Švedijos."
   pagrindžia:

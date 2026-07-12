@@ -9,7 +9,9 @@ date_start: '1859'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
+  - vilnius
 amziai:
   - 'XIX'
 media_total_count: '0'
@@ -50,14 +52,14 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
 ## Teiginiai
 
 <a id="claim-t-54488"></a>
-- t-002
+- t-001
   global_id: t-54488
   teiginys: "Adomas Honorijus Kirkoras Vilnių apibūdino kaip senosios Lietuvos buvusios šlovės ir nuosmukių liudytoją."
   pagrindžia:
     - c-55392
 
 <a id="claim-t-54489"></a>
-- t-001
+- t-002
   global_id: t-54489
   teiginys: "Adomas Honorijus Kirkoras Vilnių vadino gyva senosios Lietuvos kronika."
   pagrindžia:

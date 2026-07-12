@@ -55,35 +55,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45347"></a>
-- t-005
+- t-001
   global_id: t-45347
   teiginys: "Krėvos sutartį sudaryti skatino ypač įnirtingi vokiečių puolimai ir prieš sutartį sekančios Lietuvos jėgos."
   pagrindžia:
     - c-48207
 
 <a id="claim-t-45348"></a>
-- t-003
+- t-002
   global_id: t-45348
   teiginys: "Krėvos sutartyje Jogaila įsipareigojo vesti Jadvygą, įvesti Lietuvoje katalikybę ir „prišlieti“ Lietuvą prie Lenkijos."
   pagrindžia:
     - c-166619
 
 <a id="claim-t-45349"></a>
-- t-001
+- t-003
   global_id: t-45349
   teiginys: "Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
   pagrindžia:
     - c-22972
 
 <a id="claim-t-45350"></a>
-- t-002
+- t-004
   global_id: t-45350
   teiginys: "1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi."
   pagrindžia:
     - c-22973
 
 <a id="claim-t-45351"></a>
-- t-004
+- t-005
   global_id: t-45351
   teiginys: "Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais."
   pagrindžia:

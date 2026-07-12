@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - dokumentas
   - sąvoka
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -54,14 +55,14 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - c-166809
 
 <a id="claim-t-104187"></a>
-- t-004
+- t-003
   global_id: t-104187
   teiginys: "Valdžiai uždraudus svarbius klubus, dalis jaunuolių suartėjo su disidentais."
   pagrindžia:
     - c-97143
 
 <a id="claim-t-183415"></a>
-- t-005
+- t-004
   global_id: t-183415
   teiginys: "Sovietinė valdžia represijas prieš disidentus derino su dalinių nuolaidų kitaminčiams taktika."
   pagrindžia:

@@ -32,21 +32,21 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
 ## Teiginiai
 
 <a id="claim-t-175237"></a>
-- t-003
+- t-001
   global_id: t-175237
   teiginys: "Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę."
   pagrindžia:
     - c-159384
 
 <a id="claim-t-175238"></a>
-- t-004
+- t-002
   global_id: t-175238
   teiginys: "Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti."
   pagrindžia:
     - c-159382
 
 <a id="claim-t-175239"></a>
-- t-002
+- t-003
   global_id: t-175239
   teiginys: "Makabėjai, laikydamiesi įstatymo ir tikėjimo, nugalėjo Antiochą Epifaną, apvalė šventas vietas ir sugrąžino žemei ramybę."
   pagrindžia:

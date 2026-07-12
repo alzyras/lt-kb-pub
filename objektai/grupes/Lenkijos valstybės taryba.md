@@ -8,8 +8,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - institucija
   - kunigaikštis
-  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -32,28 +32,28 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
 ## Teiginiai
 
 <a id="claim-t-74512"></a>
-- t-003
+- t-001
   global_id: t-74512
   teiginys: "Po Krėvos sutarties bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba."
   pagrindžia:
     - c-72548
 
 <a id="claim-t-74513"></a>
-- t-004
+- t-002
   global_id: t-74513
   teiginys: "Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas."
   pagrindžia:
     - c-72550
 
 <a id="claim-t-74514"></a>
-- t-001
+- t-003
   global_id: t-74514
   teiginys: "Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą."
   pagrindžia:
     - c-22512
 
 <a id="claim-t-74515"></a>
-- t-002
+- t-004
   global_id: t-74515
   teiginys: "Bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba."
   pagrindžia:

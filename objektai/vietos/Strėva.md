@@ -41,28 +41,28 @@ Narimantui, kuris 1348 m. žuvo Strėvos kautynėse su kryžiuočiais, buvo teku
 ## Teiginiai
 
 <a id="claim-t-115020"></a>
-- t-002
+- t-001
   global_id: t-115020
   teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
   pagrindžia:
     - c-106012
 
 <a id="claim-t-115021"></a>
-- t-003
+- t-002
   global_id: t-115021
   teiginys: "Strėvos kautynės, kuriose dalyvavo būriai iš Vladimiro, Lietuvos Brastos, Polocko, Vitebsko ir Smolensko, baigėsi lietuvių pralaimėjimu."
   pagrindžia:
     - c-32445
 
 <a id="claim-t-115022"></a>
-- t-004
+- t-003
   global_id: t-115022
   teiginys: "Prie Strėvos upės Trakų paviete žemaičių būriai tankiame miške iš pasalų apsupo atsitraukiančią kariauną."
   pagrindžia:
     - c-106013
 
 <a id="claim-t-115023"></a>
-- t-001
+- t-004
   global_id: t-115023
   teiginys: "Narimantas 1348 m. žuvo Strėvos kautynėse su kryžiuočiais."
   pagrindžia:

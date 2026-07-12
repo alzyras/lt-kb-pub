@@ -41,42 +41,42 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 ## Teiginiai
 
 <a id="claim-t-90529"></a>
-- t-004
+- t-001
   global_id: t-90529
   teiginys: "XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra."
   pagrindžia:
     - c-32090
 
 <a id="claim-t-90530"></a>
-- t-005
+- t-002
   global_id: t-90530
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
   pagrindžia:
     - c-86347
 
 <a id="claim-t-90531"></a>
-- t-002
+- t-003
   global_id: t-90531
   teiginys: "Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis."
   pagrindžia:
     - c-32088
 
 <a id="claim-t-90533"></a>
-- t-003
+- t-004
   global_id: t-90533
   teiginys: "Nesisekė tada lietuviams ir Karšuvos srityje."
   pagrindžia:
     - c-32089
 
 <a id="claim-t-184972"></a>
-- t-006
+- t-005
   global_id: t-184972
   teiginys: "Kurše sudeginus Karšuvos ir Heilsbergo pilis, kariuomenė buvo nuvesta į Žemaitiją, o vėliau į Prūsiją."
   pagrindžia:
     - c-168333
 
 <a id="claim-t-184973"></a>
-- t-007
+- t-006
   global_id: t-184973
   teiginys: "Kryžiuočiai taip nusiaubė Karšuvos žemę Žemaitijoje, kad jos gyventojai su visu turtu turėjo išsikelti į Lietuvą."
   pagrindžia:

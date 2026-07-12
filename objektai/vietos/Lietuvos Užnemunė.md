@@ -39,42 +39,42 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 ## Teiginiai
 
 <a id="claim-t-76812"></a>
-- t-003
+- t-001
   global_id: t-76812
   teiginys: "Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija."
   pagrindžia:
     - c-74324
 
 <a id="claim-t-76813"></a>
-- t-004
+- t-002
   global_id: t-76813
   teiginys: "Svarstant Lenkijos autonomiją Valstybės Dūmoje, lietuvių veikėjai siūlė nuo karalystės atskirti Lietuvos Užnemunę."
   pagrindžia:
     - c-74327
 
 <a id="claim-t-76814"></a>
-- t-002
+- t-003
   global_id: t-76814
   teiginys: "Praėjus 20 metų po 1863 m. sukilimo, etninių lietuvių tautinį sąjūdį atnaujino inteligentai, kilę daugiausia iš Užnemunės krašto."
   pagrindžia:
     - c-74323
 
 <a id="claim-t-76815"></a>
-- t-005
+- t-004
   global_id: t-76815
   teiginys: "Po 1863 m. sukilimo etninių lietuvių tautinį sąjūdį atnaujino inteligentai, daugiausia kilę iš Užnemunės krašto."
   pagrindžia:
     - c-74323
 
 <a id="claim-t-76816"></a>
-- t-006
+- t-005
   global_id: t-76816
   teiginys: "Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją."
   pagrindžia:
     - c-74325
 
 <a id="claim-t-76817"></a>
-- t-001
+- t-006
   global_id: t-76817
   teiginys: "Caro valdžia Lietuvos Užnemunėje nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbą palikdama disciplinos statusu."
   pagrindžia:

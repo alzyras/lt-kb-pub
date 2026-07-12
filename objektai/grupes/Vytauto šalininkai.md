@@ -38,21 +38,21 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 <a id="claim-t-86739"></a>
-- t-002
+- t-001
   global_id: t-86739
   teiginys: "Ordino maršalo vadovaujama kryžiuočių kariauna susijungė su Vytauto pulkais ir užėmė Kernavę bei Maišiagalą."
   pagrindžia:
     - c-82719
 
 <a id="claim-t-86740"></a>
-- t-003
+- t-002
   global_id: t-86740
   teiginys: "Moskoževskis iš tvirtovės išvarė žmones, kurie galėjo slapčia linkti į Vytauto pusę."
   pagrindžia:
     - c-82718
 
 <a id="claim-t-86741"></a>
-- t-001
+- t-003
   global_id: t-86741
   teiginys: "1383 m. Vytautas ir jo šalininkai su kryžiuočių kariauna rugsėjo 11 d. apsupo Trakų pilį."
   pagrindžia:

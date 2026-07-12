@@ -65,6 +65,7 @@ Nenurodyta
 - susijęs iš [[objektai/paprociai/Žymių mirusiųjų deginimas ant laidotuvių laužo.md#claim-t-189909|Žymių mirusiųjų deginimas ant laidotuvių laužo]]: Narbuto aprašymu, ant laidotuvių laužo su žymaus mirusiojo kūnu kraudavo daiktus, kurie jam gyvenime buvo malonūs, reikalingi ar puošnūs.
 - susijęs iš Kaunas: Narbutas rašo, kad prie kelio iš Kauno į Prienus, važiuodamas per Išlaužą, kairiajame Nemuno krante matė kapą dengusį laužą.
 - susijęs iš [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis.md#claim-t-66819|Paskutinės Kęstučio kovos ir mirtis]]: Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195397|Kūčių dienos ir vakarienės apeigos]]: Per Kūčių vakarienę šeimininkas laužo plotkus, juos deda į barščius, o visi valgo iš vieno dubens.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64222|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Vernerio iš Orzelno laikais Kryžiuočių ordino statute buvo pabrėžtas pamaldumas ir apriboti pasaulietiniai brolių poreikiai.
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64232|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: Didysis magistras Verneris iš Orzelno ėmėsi restauruoti Kryžiuočių ordiną.
 - susijęs iš [[objektai/autoriai/Herodotas.md#claim-t-190317|Herodotas]]: Pasak Herodoto, skitai, laidodami savo karalius, užmušdavo jų mylimiausius tarnus.
@@ -95,6 +96,7 @@ Nenurodyta
 - susijęs iš Paryžius: Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.
 - susijęs iš Prienai: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
 - susijęs iš [[objektai/zodynas/prastuomenė.md#claim-t-185408|prastuomenė]]: Išbadėjusi prastuomenė ir eiliniai kariai sukilo prieš Švitrigailą, todėl pilis atiteko Vytautui.
+- susijęs iš [[objektai/zodynas/Traknienius.md#claim-t-195461|Traknienius]]: Traknieniai šiame šaltinyje reiškia darbą, susijusį su pėdų laužymu ir trynimu.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -15,6 +15,7 @@ tags:
   - dinastija
   - grupe
   - kunigaikštis
+  - šeima
 amziai:
   - 'XVI'
   - 'XXI'
@@ -40,35 +41,35 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
 ## Teiginiai
 
 <a id="claim-t-96866"></a>
-- t-005
+- t-001
   global_id: t-96866
   teiginys: "Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai."
   pagrindžia:
     - c-91460
 
 <a id="claim-t-96867"></a>
-- t-003
+- t-002
   global_id: t-96867
   teiginys: "Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio."
   pagrindžia:
     - c-31248
 
 <a id="claim-t-96869"></a>
-- t-002
+- t-003
   global_id: t-96869
   teiginys: "Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų."
   pagrindžia:
     - c-31247
 
 <a id="claim-t-184334"></a>
-- t-006
+- t-004
   global_id: t-184334
   teiginys: "Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio."
   pagrindžia:
     - c-167704
 
 <a id="claim-t-193561"></a>
-- t-007
+- t-005
   global_id: t-193561
   teiginys: "Be to, stačiatikybę priėmė net ir valstybės branduolyje tėvonijas turintys kunigaikščiai, kilę ne iš valdančiosios Gediminaičių dinastijos, pavyzdžiui, Alšėnų kunigaikščiai."
   pagrindžia:

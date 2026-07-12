@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - laidotuvės
   - miestas
 amziai:
   - 'XX'
@@ -38,7 +39,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-46284"></a>
-- t-005
+- t-001
   global_id: t-46284
   teiginys: "Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą."
   pagrindžia:
@@ -59,14 +60,14 @@ media_all_json: |-
     - c-21955
 
 <a id="claim-t-46287"></a>
-- t-001
+- t-004
   global_id: t-46287
   teiginys: "Sovietiniai saugumiečiai Romą Kalantą slapta palaidojo anksčiau paskelbto laiko."
   pagrindžia:
     - c-166958
 
 <a id="claim-t-46288"></a>
-- t-004
+- t-005
   global_id: t-46288
   teiginys: "Romas Kalanta tapo pasipriešinimo simboliu, o Kauno įvykiai suaktyvino neformalių jaunimo grupių judėjimą."
   pagrindžia:

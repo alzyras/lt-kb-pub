@@ -45,21 +45,21 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 ## Teiginiai
 
 <a id="claim-t-64799"></a>
-- t-010
+- t-001
   global_id: t-64799
   teiginys: "P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“."
   pagrindžia:
     - c-30804
 
 <a id="claim-t-64800"></a>
-- t-009
+- t-002
   global_id: t-64800
   teiginys: "P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį."
   pagrindžia:
     - c-30803
 
 <a id="claim-t-64801"></a>
-- t-006
+- t-003
   global_id: t-64801
   teiginys: "Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“."
   pagrindžia:

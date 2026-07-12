@@ -8,8 +8,8 @@ atnaujinta: ''
 tags:
   - miestas
   - paprotys
-  - privilegija
   - upė
+  - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87218"></a>
-- t-002
+- t-001
   global_id: t-87218
   teiginys: "Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis."
   pagrindžia:
     - c-83198
 
 <a id="claim-t-87219"></a>
-- t-001
+- t-002
   global_id: t-87219
   teiginys: "Pabaisko parapijos ribose neturėjo būti statoma ar veikti kita parapinė bažnyčia, kad ji nedarytų nuostolio Pabaisko bažnyčiai."
   pagrindžia:

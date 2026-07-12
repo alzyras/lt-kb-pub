@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - karalius
   - sąvoka
-  - tauta
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -47,14 +47,14 @@ Netvarka ir apsileidimas, įsitvirtinę miesto administra­ cijoje dėl silpnos 
     - c-82465
 
 <a id="claim-t-86485"></a>
-- t-003
+- t-002
   global_id: t-86485
   teiginys: "Vilniaus vaito, burmistrų, tarybos narių, šuolininkų ir magistrato raštininkų namai buvo atleisti nuo nakvynės prievolės."
   pagrindžia:
     - c-82464
 
 <a id="claim-t-86486"></a>
-- t-002
+- t-003
   global_id: t-86486
   teiginys: "1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais."
   pagrindžia:

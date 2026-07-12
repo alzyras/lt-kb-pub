@@ -40,56 +40,56 @@ Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vil
 ## Teiginiai
 
 <a id="claim-t-113785"></a>
-- t-006
+- t-001
   global_id: t-113785
   teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
   pagrindžia:
     - c-104972
 
 <a id="claim-t-113786"></a>
-- t-005
+- t-002
   global_id: t-113786
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių."
   pagrindžia:
     - c-104969
 
 <a id="claim-t-113787"></a>
-- t-001
+- t-003
   global_id: t-113787
   teiginys: "Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
   pagrindžia:
     - c-104970
 
 <a id="claim-t-113788"></a>
-- t-002
+- t-004
   global_id: t-113788
   teiginys: "Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu."
   pagrindžia:
     - c-104973
 
 <a id="claim-t-113789"></a>
-- t-003
+- t-005
   global_id: t-113789
   teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių."
   pagrindžia:
     - c-104969
 
 <a id="claim-t-184707"></a>
-- t-007
+- t-006
   global_id: t-184707
   teiginys: "Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių."
   pagrindžia:
     - c-168068
 
 <a id="claim-t-184708"></a>
-- t-008
+- t-007
   global_id: t-184708
   teiginys: "Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą."
   pagrindžia:
     - c-168069
 
 <a id="claim-t-184709"></a>
-- t-009
+- t-008
   global_id: t-184709
   teiginys: "Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku."
   pagrindžia:

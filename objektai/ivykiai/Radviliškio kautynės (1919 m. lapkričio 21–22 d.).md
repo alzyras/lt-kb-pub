@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66848"></a>
-- t-007
+- t-001
   global_id: t-66848
   teiginys: "1919 m. lapkričio 20 d. fronto vadas pulkininkas leitenantas Kazys Ladyga įsakė pradėti puolimą Radviliškio-Šiaulių kryptimi."
   pagrindžia:
     - c-43110
 
 <a id="claim-t-66850"></a>
-- t-006
+- t-002
   global_id: t-66850
   teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
   pagrindžia:
     - c-43111
 
 <a id="claim-t-66850"></a>
-- t-006
+- t-003
   global_id: t-66850
   teiginys: "1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio."
   pagrindžia:

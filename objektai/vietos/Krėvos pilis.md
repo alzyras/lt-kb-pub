@@ -37,14 +37,14 @@ Jogaila su savo broliais ją priėmė Krėvos pilyje. Tenai Jogaila patvirtino v
 ## Teiginiai
 
 <a id="claim-t-46813"></a>
-- t-003
+- t-001
   global_id: t-46813
   teiginys: "Valdant Gediminui ar Algirdui Krėvos pilis buvo įtraukta į mūro pilių sistemą aplink valstybės sostinę."
   pagrindžia:
     - c-49359
 
 <a id="claim-t-193643"></a>
-- t-004
+- t-002
   global_id: t-193643
   teiginys: "1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija."
   pagrindžia:

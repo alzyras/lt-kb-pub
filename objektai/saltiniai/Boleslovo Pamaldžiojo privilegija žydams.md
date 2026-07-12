@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kunigaikštis
-  - privilegija
   - saltinis
   - tauta
 amziai:

@@ -42,42 +42,42 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
 ## Teiginiai
 
 <a id="claim-t-79221"></a>
-- t-011
+- t-001
   global_id: t-79221
   teiginys: "Vladislovas Vaza buvo bendrai išrinktas lietuvių ir lenkų."
   pagrindžia:
     - c-76290
 
 <a id="claim-t-79222"></a>
-- t-010
+- t-002
   global_id: t-79222
   teiginys: "Vladislovo Vazos laikais karų buvo kiek mažiau negu kitais Vazų valdymo periodo tarpsniais."
   pagrindžia:
     - c-76289
 
 <a id="claim-t-79223"></a>
-- t-007
+- t-003
   global_id: t-79223
   teiginys: "Dalis Rusijos bojarinų naujuoju caru išrinko Zigmanto Vazos sūnų Vladislovą."
   pagrindžia:
     - c-76292
 
 <a id="claim-t-79225"></a>
-- t-008
+- t-004
   global_id: t-79225
   teiginys: "1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene."
   pagrindžia:
     - c-76291
 
 <a id="claim-t-79226"></a>
-- t-010
+- t-005
   global_id: t-79226
   teiginys: "1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią."
   pagrindžia:
     - c-76287
 
 <a id="claim-t-79227"></a>
-- t-009
+- t-006
   global_id: t-79227
   teiginys: "1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė kapituliuoti rusų pajėgas."
   pagrindžia:
@@ -91,7 +91,7 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
     - c-76284
 
 <a id="claim-t-79230"></a>
-- t-009
+- t-008
   global_id: t-79230
   teiginys: "Nuo Vladislovo Vazos lietuviai XVII a. ėmė rinkti karalius bendrai su lenkais, todėl atskiri Lietuvos seimai nyko."
   pagrindžia:

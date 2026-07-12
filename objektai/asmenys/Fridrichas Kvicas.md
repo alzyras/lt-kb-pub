@@ -49,28 +49,28 @@ Dusburgietis teigia, kad apie Bisenės pilies sudeginimą 1316 metais Tais pači
     - c-60590
 
 <a id="claim-t-59958"></a>
-- t-003
+- t-002
   global_id: t-59958
   teiginys: "1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį."
   pagrindžia:
     - c-167450
 
 <a id="claim-t-59959"></a>
-- t-004
+- t-003
   global_id: t-59959
   teiginys: "1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu."
   pagrindžia:
     - c-60591
 
 <a id="claim-t-59960"></a>
-- t-002
+- t-004
   global_id: t-59960
   teiginys: "Broliai Hartmanas ir Fridrichas Kvicas su 60 vyrų turėjo užpulti Pagraudės valsčiaus kaimus, bet pasiklydo ir nieko nenuveikė."
   pagrindžia:
     - c-60592
 
 <a id="claim-t-59958"></a>
-- t-003
+- t-005
   global_id: t-59958
   teiginys: "1319 m. Ulrichas iš Drinlevės ir Fridrichas Kvicas persekiojo Dovydo iš Gardino vyrus, nukovė 55 lietuvius ir atsiėmė jų grobį."
   pagrindžia:

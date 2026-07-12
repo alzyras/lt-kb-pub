@@ -39,21 +39,21 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
 ## Teiginiai
 
 <a id="claim-t-22080"></a>
-- t-003
+- t-001
   global_id: t-22080
   teiginys: "Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės."
   pagrindžia:
     - c-24767
 
 <a id="claim-t-22082"></a>
-- t-001
+- t-002
   global_id: t-22082
   teiginys: "1864 m. Rusijos caro valdžia pradėjo jau anksčiau paskelbtą valstiečių paleidimą iš baudžiavinės priklausomybės."
   pagrindžia:
     - c-24765
 
 <a id="claim-t-183403"></a>
-- t-004
+- t-003
   global_id: t-183403
   teiginys: "1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu."
   pagrindžia:

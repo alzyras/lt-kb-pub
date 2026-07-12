@@ -38,14 +38,14 @@ Dusburgietis teigia, kad kaip Ferdinandas, Kastilijos karalius, nugalėjo Granad
 ## Teiginiai
 
 <a id="claim-t-60113"></a>
-- t-002
+- t-001
   global_id: t-60113
   teiginys: "Be to, ten buvo parašyta, kad Ferdinando laikais ji ir turi būti surasta (Mart."
   pagrindžia:
     - c-60745
 
 <a id="claim-t-60114"></a>
-- t-001
+- t-002
   global_id: t-60114
   teiginys: "Ferdinandas, Kastilijos karalius, nugalėjo Granados saracėnų karalių, kuris vėliau mokėjo jam duoklę."
   pagrindžia:

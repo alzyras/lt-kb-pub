@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - miestas
 amziai:
   - 'XX'

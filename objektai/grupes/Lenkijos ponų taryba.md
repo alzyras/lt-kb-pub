@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
 amziai:
   - 'XV'
   - 'XX'

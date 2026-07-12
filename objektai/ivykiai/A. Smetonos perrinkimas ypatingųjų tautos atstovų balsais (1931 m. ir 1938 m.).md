@@ -13,6 +13,7 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - tauta
 amziai:
@@ -55,14 +56,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-20156"></a>
-- t-002
+- t-001
   global_id: t-20156
   teiginys: "Antanas Smetona sudarė sau sąlygas būti perrenkamam, o ypatingieji tautos atstovai 1931 m. gruodžio 11 d. vienbalsiai išrinko jį Lietuvos prezidentu."
   pagrindžia:
     - c-22898
 
 <a id="claim-t-20157"></a>
-- t-001
+- t-002
   global_id: t-20157
   teiginys: "Nuo 1931 m. gegužės 2 d. apskričių tarybos rinkdavo ypatingus tautos atstovus, o šie rinkdavo prezidentą."
   pagrindžia:

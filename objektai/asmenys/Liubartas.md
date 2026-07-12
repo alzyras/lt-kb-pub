@@ -41,21 +41,21 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
 ## Teiginiai
 
 <a id="claim-t-05195"></a>
-- t-005
+- t-001
   global_id: t-05195
   teiginys: "Liubartas buvo vienas iš Gedimino sūnų, kurie, gavę dalis stačiatikių srityse, priėmė jų tikėjimą."
   pagrindžia:
     - c-06238
 
 <a id="claim-t-05197"></a>
-- t-007
+- t-002
   global_id: t-05197
   teiginys: "Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies."
   pagrindžia:
     - c-06239
 
 <a id="claim-t-12192"></a>
-- t-009
+- t-003
   global_id: t-12192
   teiginys: "Liubartas vedė paskutinio Volynijos kunigaikščio vienturtę dukterį."
   pagrindžia:
@@ -63,77 +63,77 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - c-15267
 
 <a id="claim-t-12193"></a>
-- t-010
+- t-004
   global_id: t-12193
   teiginys: "1340 m., mirus Haličo Boleslovui Jurgiui Traidenaičiui, dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Kazimieras Didysis."
   pagrindžia:
     - c-15267
 
 <a id="claim-t-93458"></a>
-- t-011
+- t-005
   global_id: t-93458
   teiginys: "Liubartas vedė vienturtę Volynijos kunigaikščio įpėdinę."
   pagrindžia:
     - c-15266
 
 <a id="claim-t-93460"></a>
-- t-017
+- t-006
   global_id: t-93460
   teiginys: "Liubartas per kovas su lenkais atlaikė Voluinę."
   pagrindžia:
     - c-88823
 
 <a id="claim-t-93461"></a>
-- t-019
+- t-007
   global_id: t-93461
   teiginys: "Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės."
   pagrindžia:
     - c-88825
 
 <a id="claim-t-93463"></a>
-- t-012
+- t-008
   global_id: t-93463
   teiginys: "1340 m. dėl Haličo ir Volynijos varžėsi Gedimino sūnus Liubartas ir Boleslovo giminaitis Kazimieras Didysis."
   pagrindžia:
     - c-15267
 
 <a id="claim-t-184773"></a>
-- t-013
+- t-009
   global_id: t-184773
   teiginys: "Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais."
   pagrindžia:
     - c-168134
 
 <a id="claim-t-184774"></a>
-- t-014
+- t-010
   global_id: t-184774
   teiginys: "Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje."
   pagrindžia:
     - c-168135
 
 <a id="claim-t-184775"></a>
-- t-015
+- t-011
   global_id: t-184775
   teiginys: "Algirdo brolis Liubartas valdė Lvovą Rusioje."
   pagrindžia:
     - c-168136
 
 <a id="claim-t-184776"></a>
-- t-016
+- t-012
   global_id: t-184776
   teiginys: "Vladimire apsuptas Liubartas išvengė lenkų nelaisvės dėl Bogdano iš Ivanicos drąsos."
   pagrindžia:
     - c-168137
 
 <a id="claim-t-184777"></a>
-- t-017
+- t-013
   global_id: t-184777
   teiginys: "Kazimieras išvijo Algirdo brolį Liubartą iš Volynės, kai lietuviai buvo įsitraukę į karą su kryžiuočiais."
   pagrindžia:
     - c-168138
 
 <a id="claim-t-184778"></a>
-- t-018
+- t-014
   global_id: t-184778
   teiginys: "Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją."
   pagrindžia:

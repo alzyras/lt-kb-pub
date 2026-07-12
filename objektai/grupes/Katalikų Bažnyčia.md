@@ -48,140 +48,140 @@ Tuo pat metu Vakaruose prieš jį kilo reakcija; katalikų Bažnyčia pradėjo s
 ## Teiginiai
 
 <a id="claim-t-116726"></a>
-- t-008
+- t-001
   global_id: t-116726
   teiginys: "Caro valdžia Katalikų bažnyčią priskyrė „lenkų pradams“, bet dėl tarptautinės politikos nesiėmė tiesioginio jos likvidavimo."
   pagrindžia:
     - c-107542
 
 <a id="claim-t-116727"></a>
-- t-017
+- t-002
   global_id: t-116727
   teiginys: "Šalių feodalų, katalikų bažnyčios, Kryžiuočių ordino agresija."
   pagrindžia:
     - c-107536
 
 <a id="claim-t-116728"></a>
-- t-016
+- t-003
   global_id: t-116728
   teiginys: "XIII-XIV a. Lietuvoje vyko karas prieš Kryžiuočių ordino, Vakarų Europos feodalų ir Katalikų Bažnyčios agresiją."
   pagrindžia:
     - c-107549
 
 <a id="claim-t-116729"></a>
-- t-007
+- t-004
   global_id: t-116729
   teiginys: "Bažnyčios su dviem grakščiais skirtingai dekoruotų tarpsnių bokštais žymėjo rytinę katalikybės ir Vidurio Europos ribą."
   pagrindžia:
     - c-107535
 
 <a id="claim-t-116730"></a>
-- t-006
+- t-005
   global_id: t-116730
   teiginys: "Lietuvos katalikai ir Vilniaus vyskupas Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui įkurti kolegiją."
   pagrindžia:
     - c-107544
 
 <a id="claim-t-116731"></a>
-- t-003
+- t-006
   global_id: t-116731
   teiginys: "Vytauto bažnytinėje politikoje bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją."
   pagrindžia:
     - c-107552
 
 <a id="claim-t-116732"></a>
-- t-022
+- t-007
   global_id: t-116732
   teiginys: "Testamente pareikšta ištikimybė Katalikų Bažnyčiai ir Romos tikėjimui, priimant išpažinties, Eucharistijos ir patepimo sakramentus."
   pagrindžia:
     - c-107538
 
 <a id="claim-t-116733"></a>
-- t-023
+- t-008
   global_id: t-116733
   teiginys: "Nuo 1387 m. LDK buvo katalikiška, tačiau apie 1500 m. joje veikė šešios Kijevo metropolijai pavaldžios stačiatikių vyskupijos."
   pagrindžia:
     - c-107550
 
 <a id="claim-t-116734"></a>
-- t-004
+- t-009
   global_id: t-116734
   teiginys: "Lietuvos didikai reformacijos antruoju etapu rinkosi kalvinizmą, siekdami silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčios įtaką."
   pagrindžia:
     - c-107548
 
 <a id="claim-t-116735"></a>
-- t-024
+- t-010
   global_id: t-116735
   teiginys: "1417 m. gegužės 13 d. popiežius Martynas V pavedė Vytautui ir Jogailai kurti bažnyčias, globoti kunigiją ir ginti tikėjimą Lietuvoje ir Rusijoje."
   pagrindžia:
     - c-107537
 
 <a id="claim-t-116736"></a>
-- t-014
+- t-011
   global_id: t-116736
   teiginys: "Vilniaus vyskupas Povilas tyrė Abraomo Kulviečio mokymą, kurį laikė Romos katalikų Bažnyčios pasmerktu."
   pagrindžia:
     - c-107539
 
 <a id="claim-t-116737"></a>
-- t-021
+- t-012
   global_id: t-116737
   teiginys: "Vyskupas Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
   pagrindžia:
     - c-107551
 
 <a id="claim-t-116738"></a>
-- t-019
+- t-013
   global_id: t-116738
   teiginys: "Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu."
   pagrindžia:
     - c-107534
 
 <a id="claim-t-116739"></a>
-- t-011
+- t-014
   global_id: t-116739
   teiginys: "Sovietų valdžia siekė pakirsti katalikų dvasininkijos autoritetą, trukdė jaunuoliams mokytis kunigų seminarijoje."
   pagrindžia:
     - c-107547
 
 <a id="claim-t-116740"></a>
-- t-020
+- t-015
   global_id: t-116740
   teiginys: "Vilniaus vyskupas Povilas teigė, kad Abraomas iš Kulvos nesilaikė vienybės su Romos katalikų Bažnyčia ir klaidino kitus."
   pagrindžia:
     - c-107539
 
 <a id="claim-t-116741"></a>
-- t-002
+- t-016
   global_id: t-116741
   teiginys: "Mindaugas iš kunigo Kristijono sužinojo apie Katalikų Bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
   pagrindžia:
     - c-107533
 
 <a id="claim-t-116742"></a>
-- t-009
+- t-017
   global_id: t-116742
   teiginys: "Valdžios diskriminacinės priemonės prieš Katalikų bažnyčią prisidėjo prie lietuviškos kirilikos boikoto."
   pagrindžia:
     - c-107546
 
 <a id="claim-t-116743"></a>
-- t-015
+- t-018
   global_id: t-116743
   teiginys: "Valerijonas atsisakė priesaika įsipareigoti sąlygoms, kurios prieštaravo katalikų tikėjimui."
   pagrindžia:
     - c-107540
 
 <a id="claim-t-116744"></a>
-- t-018
+- t-019
   global_id: t-116744
   teiginys: "Mindaugas iš Livonijos ordino kunigo Kristijono gavo žinių apie Katalikų bažnyčios organizaciją ir popiežiaus santykius su Europos valdovais."
   pagrindžia:
     - c-107533
 
 <a id="claim-t-116745"></a>
-- t-013
+- t-020
   global_id: t-116745
   teiginys: "„Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu."
   pagrindžia:

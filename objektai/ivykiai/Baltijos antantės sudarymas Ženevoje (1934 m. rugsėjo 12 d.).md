@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - diplomatas
   - ivykis
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'

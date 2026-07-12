@@ -41,21 +41,21 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 ## Teiginiai
 
 <a id="claim-t-87425"></a>
-- t-002
+- t-001
   global_id: t-87425
   teiginys: "Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą."
   pagrindžia:
     - c-83406
 
 <a id="claim-t-87426"></a>
-- t-003
+- t-002
   global_id: t-87426
   teiginys: "Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus."
   pagrindžia:
     - c-83404
 
 <a id="claim-t-87427"></a>
-- t-001
+- t-003
   global_id: t-87427
   teiginys: "Pasak kronikų, Germantas pirmasis Šventaragio slėnyje iškirto miškus ir skyrė vietą kapavietėms."
   pagrindžia:

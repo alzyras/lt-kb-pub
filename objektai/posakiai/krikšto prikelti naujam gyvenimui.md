@@ -45,7 +45,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
     - c-59750
 
 <a id="claim-t-59118"></a>
-- t-001
+- t-002
   global_id: t-59118
   teiginys: "1274 m. daug galingų ir kilmingų Nadruvos vyrų su šeimomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų."
   pagrindžia:

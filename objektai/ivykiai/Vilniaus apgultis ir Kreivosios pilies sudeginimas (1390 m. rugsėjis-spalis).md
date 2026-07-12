@@ -58,21 +58,21 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 ## Teiginiai
 
 <a id="claim-t-54710"></a>
-- t-004
+- t-001
   global_id: t-54710
   teiginys: "Mikalojus Moskoževskis penkias savaites atrėmė apgulėjų antpuolius Aukštutinės pilies gynyboje."
   pagrindžia:
     - c-55681
 
 <a id="claim-t-54711"></a>
-- t-001
+- t-002
   global_id: t-54711
   teiginys: "1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos."
   pagrindžia:
     - c-55679
 
 <a id="claim-t-54712"></a>
-- t-005
+- t-003
   global_id: t-54712
   teiginys: "Per 1390 m. Vilniaus apgultį žuvo daug gyventojų, miestas buvo beveik sunaikintas, Kreivoji pilis sudeginta, o Aukštutinė tvirtovė susilpninta."
   pagrindžia:

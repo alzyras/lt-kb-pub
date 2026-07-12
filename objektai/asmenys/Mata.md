@@ -39,14 +39,14 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
     - c-60688
 
 <a id="claim-t-60056"></a>
-- t-003
+- t-002
   global_id: t-60056
   teiginys: "Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje."
   pagrindžia:
     - c-60689
 
 <a id="claim-t-60057"></a>
-- t-002
+- t-003
   global_id: t-60057
   teiginys: "Mata buvo kilmingas Pamedės vyras ir Pipino sūnus, iki mirties drąsiai gynęs Kristaus tikėjimą."
   pagrindžia:

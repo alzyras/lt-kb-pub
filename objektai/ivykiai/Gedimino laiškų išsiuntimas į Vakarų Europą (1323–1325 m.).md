@@ -51,21 +51,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-05290"></a>
-- t-004
+- t-001
   global_id: t-05290
   teiginys: "Gedimino vardu į Vakarų Europą įvairiems adresatams buvo išsiuntinėti šeši laiškai."
   pagrindžia:
     - c-04982
 
 <a id="claim-t-05291"></a>
-- t-005
+- t-002
   global_id: t-05291
   teiginys: "Gedimino laiškuose buvo žadamas krikštas pripažįstant popiežiaus autoritetą, o Gediminas siekė taikos su ordinu per popiežiaus tarpininkavimą."
   pagrindžia:
     - c-04983
 
 <a id="claim-t-05292"></a>
-- t-006
+- t-003
   global_id: t-05292
   teiginys: "Gediminas laiškuose kvietė į Lietuvą amatininkus ir pirklius, kolonistams žadėjo lengvatų, o pranciškonų ir domininkonų prašė atsiųsti vienuolių."
   pagrindžia:

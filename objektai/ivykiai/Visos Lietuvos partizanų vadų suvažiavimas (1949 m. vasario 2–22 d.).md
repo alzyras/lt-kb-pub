@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - institucija
   - ivykis
   - karas
 amziai:

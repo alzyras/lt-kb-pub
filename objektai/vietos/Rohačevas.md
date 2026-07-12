@@ -35,14 +35,14 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
 ## Teiginiai
 
 <a id="claim-t-187309"></a>
-- t-002
+- t-001
   global_id: t-187309
   teiginys: "Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo."
   pagrindžia:
     - c-170345
 
 <a id="claim-t-187310"></a>
-- t-001
+- t-002
   global_id: t-187310
   teiginys: "Rohačevas nurodytas Aleksandro 1492 m. rugsėjo 27 d. instrukcijoje kaip maskvėnų užimtas LDK rytų pasienio miestas."
   pagrindžia:

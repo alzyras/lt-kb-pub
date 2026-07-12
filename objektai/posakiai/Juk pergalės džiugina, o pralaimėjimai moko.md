@@ -32,14 +32,14 @@ Jausdami pareigą pakelti tautiečių ūpą ir daugiausiai dėmesio skirdami per
 ## Teiginiai
 
 <a id="claim-t-41450"></a>
-- t-002
+- t-001
   global_id: t-41450
   teiginys: "Posakiu pabrėžiama, kad pergalės kelia džiaugsmą, o pralaimėjimai skatina kariuomenes mokytis ir keistis."
   pagrindžia:
     - c-44954
 
 <a id="claim-t-41451"></a>
-- t-001
+- t-002
   global_id: t-41451
   teiginys: "Leidėjai skyrė dėmesio svarbiems pralaimėjimams, nes skaudūs pralaimėjimai skatina kariuomenes reformuotis ir diegti inovacijas."
   pagrindžia:

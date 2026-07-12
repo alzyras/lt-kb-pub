@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-92942"></a>
-- t-002
+- t-001
   global_id: t-92942
   teiginys: "1392 m. Vytautas sustiprino Gardiną, atsigręžė prieš Naująjį Gardiną ir Meteną, sunaikino šias pilis bei paėmė Ordino karius ir pirklius į nelaisvę."
   pagrindžia:
     - c-88381
 
 <a id="claim-t-92943"></a>
-- t-001
+- t-002
   global_id: t-92943
   teiginys: "1392 m. liepą Vytautas staiga pasirodė prie Rittersverderio pilies ir ją sudegino, o paskui atsigręžė prieš Naująjį Gardiną ir Meteną."
   pagrindžia:

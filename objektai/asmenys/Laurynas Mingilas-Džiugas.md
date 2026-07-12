@@ -45,7 +45,7 @@ Kautynes aprašė partizanas Laurynas Mingilas-Džiugas: „„Pažadino kažkok
     - c-76191
 
 <a id="claim-t-79102"></a>
-- t-001
+- t-002
   global_id: t-79102
   teiginys: "Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes."
   pagrindžia:

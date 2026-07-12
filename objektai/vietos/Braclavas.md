@@ -41,21 +41,21 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
 ## Teiginiai
 
 <a id="claim-t-46541"></a>
-- t-002
+- t-001
   global_id: t-46541
   teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę ir Voluinės, Kijevo bei Podolės, arba Braclavo, vaivadijas."
   pagrindžia:
     - c-49105
 
 <a id="claim-t-184935"></a>
-- t-004
+- t-002
   global_id: t-184935
   teiginys: "Dimitras, prisiekęs ištikimybę Vytautui ir jo įpėdiniams, gavo valdyti Braclavą, Vinicą, Kremenecą ir Sokolecą."
   pagrindžia:
     - c-168296
 
 <a id="claim-t-184936"></a>
-- t-005
+- t-003
   global_id: t-184936
   teiginys: "1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės."
   pagrindžia:
@@ -69,7 +69,7 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
     - c-170515
 
 <a id="claim-t-193173"></a>
-- t-006
+- t-005
   global_id: t-193173
   teiginys: "Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiuliai Palenkės, Voluinės, Braclavo ir Kijevo žemių plotai atiteko Lenkijai."
   pagrindžia:

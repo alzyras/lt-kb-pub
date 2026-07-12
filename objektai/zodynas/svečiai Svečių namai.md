@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - sutartis
+  - sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -38,14 +38,14 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 <a id="claim-t-86552"></a>
-- t-002
+- t-001
   global_id: t-86552
   teiginys: "Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo."
   pagrindžia:
     - c-82531
 
 <a id="claim-t-86553"></a>
-- t-001
+- t-002
   global_id: t-86553
   teiginys: "Aleksandras leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai privalėjo apsistoti, sumokėti muitą ir pranešti pilininkui."
   pagrindžia:

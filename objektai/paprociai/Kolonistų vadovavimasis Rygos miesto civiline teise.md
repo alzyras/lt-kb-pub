@@ -11,10 +11,10 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kunigaikštis
   - paprotys
   - valdovas
-  - vyskupas
 amziai:
   - 'XII'
   - 'XIV'

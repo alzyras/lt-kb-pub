@@ -39,28 +39,28 @@ Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos 
 ## Teiginiai
 
 <a id="claim-t-75579"></a>
-- t-003
+- t-001
   global_id: t-75579
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino „raudonuosius“ pradėti dar neparengtą sukilimą."
   pagrindžia:
     - c-24963
 
 <a id="claim-t-75580"></a>
-- t-001
+- t-002
   global_id: t-75580
   teiginys: "Didžiausia blogybė jiems buvo rekrutų prievolė – 25 metų tarnyba Rusijos kariuomenėje (kasmet į rekrutus imami 5–7 tinkamo amžiaus vyrai iš 1 000, karo atveju ši norma būdavo padvigubinama)."
   pagrindžia:
     - c-73314
 
 <a id="claim-t-75581"></a>
-- t-004
+- t-003
   global_id: t-75581
   teiginys: "1863 m. sausio pabaigoje paskelbtas naujas rekrutų ėmimas paskatino pradėti dar neparengtą sukilimą."
   pagrindžia:
     - c-24963
 
 <a id="claim-t-75582"></a>
-- t-002
+- t-004
   global_id: t-75582
   teiginys: "1831 m. pavasariop Žemaitijoje sukilimas prasidėjo spontaniškai dėl valdžios paskelbto rekrutų ėmimo."
   pagrindžia:

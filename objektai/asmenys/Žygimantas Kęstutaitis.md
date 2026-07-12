@@ -46,35 +46,35 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
 ## Teiginiai
 
 <a id="claim-t-114099"></a>
-- t-011
+- t-001
   global_id: t-114099
   teiginys: "Žygimantas Kęstutaitis įsakė Švitrigailos pasiuntinius valkioti gatvėmis ir paskandinti."
   pagrindžia:
     - c-105267
 
 <a id="claim-t-114100"></a>
-- t-008
+- t-002
   global_id: t-114100
   teiginys: "Žygimantas Kęstutaitis žudė jam įtartinus asmenis ir ištisas šeimas, prieš tai juos apiplėšęs."
   pagrindžia:
     - c-105263
 
 <a id="claim-t-114101"></a>
-- t-014
+- t-003
   global_id: t-114101
   teiginys: "1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje."
   pagrindžia:
     - c-105266
 
 <a id="claim-t-114102"></a>
-- t-009
+- t-004
   global_id: t-114102
   teiginys: "1440 m. balandį sąmokslininkai Trakų pilyje nužudė Žygimantą Kęstutaitį, o jo sūnų Mykolą ištrėmė."
   pagrindžia:
     - c-105260
 
 <a id="claim-t-114103"></a>
-- t-001
+- t-005
   global_id: t-114103
   teiginys: "Žygimantas Kęstutaitis rugsėjo 1 d. buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
   pagrindžia:
@@ -88,77 +88,77 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-105261
 
 <a id="claim-t-114105"></a>
-- t-002
+- t-007
   global_id: t-114105
   teiginys: "Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus."
   pagrindžia:
     - c-105264
 
 <a id="claim-t-114106"></a>
-- t-012
+- t-008
   global_id: t-114106
   teiginys: "Žygimantas Kęstutaitis Pabaisko mūšio lauke pastatė parapijos bažnyčią ir pavadino per jį tekantį upelį Viktorija."
   pagrindžia:
     - c-105259
 
 <a id="claim-t-114107"></a>
-- t-007
+- t-009
   global_id: t-114107
   teiginys: "Žygimantas Kęstutaitis Pabaisko pergalės atminimui mūšio lauką pavadino Pabaisku ir pastatė parapijos bažnyčią."
   pagrindžia:
     - c-105259
 
 <a id="claim-t-114108"></a>
-- t-003
+- t-010
   global_id: t-114108
   teiginys: "Žygimantas Kęstutaitis 1436–1440 m. Pabaiske pastatė pergalei atminti skirtą parapinę bažnyčią."
   pagrindžia:
     - c-105268
 
 <a id="claim-t-114110"></a>
-- t-013
+- t-011
   global_id: t-114110
   teiginys: "1440 m. balandį Žygimantas Kęstutaitis buvo sąmokslininkų nužudytas Trakų pilyje."
   pagrindžia:
     - c-105257
 
 <a id="claim-t-184915"></a>
-- t-015
+- t-012
   global_id: t-184915
   teiginys: "Žygimantui Kęstutaičiui atvykus iš Seversko į Lietuvą, prie jo neraginami rinkosi didikai ir bajorai."
   pagrindžia:
     - c-168276
 
 <a id="claim-t-184916"></a>
-- t-016
+- t-013
   global_id: t-184916
   teiginys: "Žygimantas Kęstutaitis beveik be kovos perėmė Vilnių, Trakus, Gardiną ir kitas Lietuvos pilis."
   pagrindžia:
     - c-168277
 
 <a id="claim-t-184917"></a>
-- t-017
+- t-014
   global_id: t-184917
   teiginys: "1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-168278
 
 <a id="claim-t-184918"></a>
-- t-018
+- t-015
   global_id: t-184918
   teiginys: "Vilniaus Šv. Stanislovo katedroje Žygimantas Kęstutaitis buvo atleistas nuo Boleslovui duotos priesaikos."
   pagrindžia:
     - c-168279
 
 <a id="claim-t-184919"></a>
-- t-019
+- t-016
   global_id: t-184919
   teiginys: "Kojelavičius Žygimanto Kęstutaičio elgesį po pergalės vertina kaip tarp žmonių nekenčiamą žiaurumą."
   pagrindžia:
     - c-168280
 
 <a id="claim-t-184920"></a>
-- t-020
+- t-017
   global_id: t-184920
   teiginys: "Jonas su keliais vyrais įsiveržė į Žygimanto Kęstutaičio miegamąjį, partrenkė valdovą ir prisidėjo prie jo nužudymo."
   pagrindžia:
@@ -172,14 +172,14 @@ Lietuvos metraščio liudijimu, „Lietuva pasodino didįjį kunigaikštį Žygi
     - c-171549
 
 <a id="claim-t-194024"></a>
-- t-021
+- t-019
   global_id: t-194024
   teiginys: "Tuo metu kunigaikščio Žygimanto sūnus buvo išėjęs iš pilies į bažnyčią, o pats kunigaikštis Žy gimantas klausė mišių pilies miegamajame."
   pagrindžia:
     - c-176649
 
 <a id="claim-t-194729"></a>
-- t-022
+- t-020
   global_id: t-194729
   teiginys: "Žygimantas Kęstutaitis remiasi į nulaužtą medžio kamieną su dalimi šakų, o kairiojoje, šiek tiek pakylėtoje, laiko kažką panašaus į pasagą."
   pagrindžia:

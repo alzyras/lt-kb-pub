@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - karas
   - tauta
 amziai:
@@ -40,140 +41,140 @@ Gavusi naujo Vokietijos kanclerio Makso fon Badeno (Max von Baden) leidimą, Tar
 ## Teiginiai
 
 <a id="claim-t-75767"></a>
-- t-007
+- t-001
   global_id: t-75767
   teiginys: "Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   pagrindžia:
     - c-73462
 
 <a id="claim-t-75768"></a>
-- t-016
+- t-002
   global_id: t-75768
   teiginys: "Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu."
   pagrindžia:
     - c-73463
 
 <a id="claim-t-75769"></a>
-- t-017
+- t-003
   global_id: t-75769
   teiginys: "Stiprėjant Europos sienų neliečiamumo tendencijai, Augustinas Voldemaras nebegalėjo pakeisti Lietuvos padėties."
   pagrindžia:
     - c-73465
 
 <a id="claim-t-75770"></a>
-- t-008
+- t-004
   global_id: t-75770
   teiginys: "Augustinas Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
   pagrindžia:
     - c-73454
 
 <a id="claim-t-75771"></a>
-- t-013
+- t-005
   global_id: t-75771
   teiginys: "A. Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
   pagrindžia:
     - c-73457
 
 <a id="claim-t-75772"></a>
-- t-015
+- t-006
   global_id: t-75772
   teiginys: "1927 m. gruodžio 10 d. Ženevoje Augustinas Voldemaras atsakė Juzefui Pilsudskiui, kad karo padėties tarp Lietuvos ir Lenkijos nėra."
   pagrindžia:
     - c-73456
 
 <a id="claim-t-75773"></a>
-- t-001
+- t-007
   global_id: t-75773
   teiginys: "Augustinas Voldemaras pareiškė neplanuojantis kurti Lietuvos kariuomenės, nes esą Lietuvai užteksią milicijos."
   pagrindžia:
     - c-73459
 
 <a id="claim-t-75774"></a>
-- t-020
+- t-008
   global_id: t-75774
   teiginys: "1918 m. lapkričio 23 d. Augustinui Voldemarui teko skelbti mobilizaciją."
   pagrindžia:
     - c-73464
 
 <a id="claim-t-75775"></a>
-- t-010
+- t-009
   global_id: t-75775
   teiginys: "Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas."
   pagrindžia:
     - c-73452
 
 <a id="claim-t-75776"></a>
-- t-004
+- t-010
   global_id: t-75776
   teiginys: "Augustinas Voldemaras prieš Varšuvą bandė atsilaikyti Vokietijos arba Sovietų Rusijos padedamas."
   pagrindžia:
     - c-73451
 
 <a id="claim-t-75777"></a>
-- t-009
+- t-011
   global_id: t-75777
   teiginys: "Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją."
   pagrindžia:
     - c-73458
 
 <a id="claim-t-75778"></a>
-- t-011
+- t-012
   global_id: t-75778
   teiginys: "A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių."
   pagrindžia:
     - c-73455
 
 <a id="claim-t-75779"></a>
-- t-003
+- t-013
   global_id: t-75779
   teiginys: "Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos."
   pagrindžia:
     - c-73461
 
 <a id="claim-t-75780"></a>
-- t-018
+- t-014
   global_id: t-75780
   teiginys: "1929 m. Augustinas Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
   pagrindžia:
     - c-73457
 
 <a id="claim-t-75781"></a>
-- t-005
+- t-015
   global_id: t-75781
   teiginys: "Augustinas Voldemaras buvo tarp tautininkų kritikų, kurie dėl valdžios taikytų spaudos ir susirinkimų ribojimų pasėdėjo kalėjime."
   pagrindžia:
     - c-73453
 
 <a id="claim-t-75782"></a>
-- t-012
+- t-016
   global_id: t-75782
   teiginys: "1918 m. lapkričio 5 d. Taryba pavedė A. Voldemarui sudaryti pirmą nepriklausomos Lietuvos kabinetą."
   pagrindžia:
     - c-73465
 
 <a id="claim-t-75783"></a>
-- t-002
+- t-017
   global_id: t-75783
   teiginys: "Augustinas Voldemaras birželį pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiais pagrindais kaip Bavarija į Vokietijos sąjungą."
   pagrindžia:
     - c-73460
 
 <a id="claim-t-75784"></a>
-- t-019
+- t-018
   global_id: t-75784
   teiginys: "Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią."
   pagrindžia:
     - c-73455
 
 <a id="claim-t-75785"></a>
-- t-014
+- t-019
   global_id: t-75785
   teiginys: "Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui A. Voldemarui sudaryti naują Ministrų kabinetą."
   pagrindžia:
     - c-73457
 
 <a id="claim-t-75786"></a>
-- t-006
+- t-020
   global_id: t-75786
   teiginys: "Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui Augustinui Voldemarui sudaryti naują Ministrų kabinetą."
   pagrindžia:

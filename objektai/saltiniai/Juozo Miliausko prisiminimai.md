@@ -43,35 +43,35 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 ## Teiginiai
 
 <a id="claim-t-78850"></a>
-- t-007
+- t-001
   global_id: t-78850
   teiginys: "Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą."
   pagrindžia:
     - c-43256
 
 <a id="claim-t-78851"></a>
-- t-006
+- t-002
   global_id: t-78851
   teiginys: "Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti."
   pagrindžia:
     - c-11238
 
 <a id="claim-t-78852"></a>
-- t-005
+- t-003
   global_id: t-78852
   teiginys: "Juozo Miliausko prisiminimuose pasakojama, kad rusų puolimas prieš sukilėlių stovyklą truko apie keturias valandas ir baigėsi apie šeštą vakaro."
   pagrindžia:
     - c-11237
 
 <a id="claim-t-78853"></a>
-- t-008
+- t-004
   global_id: t-78853
   teiginys: "Juozo Miliausko prisiminimuose aprašytas rusų pajėgų puolimas prieš sukilėlių stovyklą Švėkšnos apylinkių miškuose."
   pagrindžia:
     - c-75984
 
 <a id="claim-t-78854"></a>
-- t-004
+- t-005
   global_id: t-78854
   teiginys: "Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose."
   pagrindžia:

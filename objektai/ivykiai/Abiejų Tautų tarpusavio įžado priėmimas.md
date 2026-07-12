@@ -12,10 +12,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XXI'
@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-183215"></a>
-- t-002
+- t-001
   global_id: t-183215
   teiginys: "1791 m. spalio 20 d. Lietuvos delegacija Ketverių metų seime išsireikalavo konstitucijos pataisą, kuri buvo pavadinta Abiejų Tautų tarpusavio įžadu."
   pagrindžia:

@@ -38,14 +38,14 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
     - c-85523
 
 <a id="claim-t-89580"></a>
-- t-003
+- t-002
   global_id: t-89580
   teiginys: "Dusburgietis rašė, kad Ordino broliai daug kartų ir ilgai kariavo su sūduviais, bet šių karų plačiau neaprašys."
   pagrindžia:
     - c-85522
 
 <a id="claim-t-89582"></a>
-- t-004
+- t-003
   global_id: t-89582
   teiginys: "Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo."
   pagrindžia:

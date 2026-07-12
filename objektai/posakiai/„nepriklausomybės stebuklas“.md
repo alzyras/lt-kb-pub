@@ -32,7 +32,7 @@ Taigi atsitiko stebuklas – Lietuva išliko, suformavo 30 000 vyrų kariuomenę
 ## Teiginiai
 
 <a id="claim-t-67320"></a>
-- t-002
+- t-001
   global_id: t-67320
   teiginys: "Lietuvos pripažinimą tautine valstybe autoriai apibūdina kaip įvykusį „nepriklausomybės stebuklą“."
   pagrindžia:

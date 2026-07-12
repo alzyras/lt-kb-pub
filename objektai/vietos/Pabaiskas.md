@@ -41,35 +41,35 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 ## Teiginiai
 
 <a id="claim-t-171924"></a>
-- t-014
+- t-001
   global_id: t-171924
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko prie kelio į Vilnių, ten, kur vėliau stovėjo Pabaisko parapijos bažnyčia."
   pagrindžia:
     - c-156384
 
 <a id="claim-t-171926"></a>
-- t-008
+- t-002
   global_id: t-171926
   teiginys: "Pabaiskas buvo parapijos kaimas, nutolęs nuo Vilniaus–Ukmergės pašto trakto per 2 varstus į kairę."
   pagrindžia:
     - c-156380
 
 <a id="claim-t-171927"></a>
-- t-007
+- t-003
   global_id: t-171927
   teiginys: "Pabaiske vietos žmonės dar prisiminė šioje vietoje vykusį garsų mūšį ir jame žuvusį priešo kunigaikštį ar riterį."
   pagrindžia:
     - c-156381
 
 <a id="claim-t-171929"></a>
-- t-009
+- t-004
   global_id: t-171929
   teiginys: "Žygimantas mūšio lauką pavadino Pabaisku ir toje vietoje pastatė parapijos bažnyčią."
   pagrindžia:
     - c-156379
 
 <a id="claim-t-171930"></a>
-- t-010
+- t-005
   global_id: t-171930
   teiginys: "Pabaiskas buvo kalvota, bet atvira ir gana graži vietovė prie naujos mūrinės bažnyčios."
   pagrindžia:
@@ -90,7 +90,7 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     - c-170576
 
 <a id="claim-t-193778"></a>
-- t-015
+- t-008
   global_id: t-193778
   teiginys: "Šią kariuomenių išsidėstymo situaciją natūroje atitinka ne Žirnajos (kaip įprasta istoriografijoje), bet jos dešiniojo intako Vintaros, tekančios per dabartinį Pabaisko miestelį, padėtis."
   pagrindžia:

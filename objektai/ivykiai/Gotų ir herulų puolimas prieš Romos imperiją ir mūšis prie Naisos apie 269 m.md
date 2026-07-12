@@ -45,14 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-191042"></a>
-- t-002
+- t-001
   global_id: t-191042
   teiginys: "Apie 269 m. Aurelianas Klaudijus prie Naisos Dardanijoje sumušė gotus, tarp kurių, Narbuto pasakojimu, buvo ir herulų."
   pagrindžia:
     - c-173924
 
 <a id="claim-t-194869"></a>
-- t-003
+- t-002
   global_id: t-194869
   teiginys: "Taip ta pęs imperijos piliečiu, Malabatas gavo teisę užimti joje aukščiausias pareigas, nes netrukus imperatorius suteikė jam Romos konsulo titulą."
   pagrindžia:

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - privilegija
   - saltinis
   - vyskupas
 amziai:
@@ -38,14 +37,14 @@ Dusburgietis teigia, kad 501 D.— territorium Sudowie [...] Crasimam, Jer.— C
 ## Teiginiai
 
 <a id="claim-t-61014"></a>
-- t-002
+- t-001
   global_id: t-61014
   teiginys: "Volynės metraštyje Zlynų vietovardis minimas formomis „Злиньци“ ir „Злина“."
   pagrindžia:
     - c-61646
 
 <a id="claim-t-61015"></a>
-- t-001
+- t-002
   global_id: t-61015
   teiginys: "Volynės metraštyje teritorija Crasim minima forma Krismence."
   pagrindžia:

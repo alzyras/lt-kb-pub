@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07791"></a>
-- t-002
+- t-001
   global_id: t-07791
   teiginys: "Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą."
   pagrindžia:

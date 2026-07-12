@@ -31,14 +31,14 @@ Vilniuje 1907 m. buvo įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti li
 ## Teiginiai
 
 <a id="claim-t-74621"></a>
-- t-002
+- t-001
   global_id: t-74621
   teiginys: "Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas."
   pagrindžia:
     - c-72670
 
 <a id="claim-t-74623"></a>
-- t-003
+- t-002
   global_id: t-74623
   teiginys: "Lietuvių dailės draugija Vilniuje veikė dailės, vaizduojamojo meno ir architektūros draugijų paralelizmo sąlygomis."
   pagrindžia:

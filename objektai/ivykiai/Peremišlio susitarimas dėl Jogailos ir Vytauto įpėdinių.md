@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186608"></a>
-- t-002
+- t-001
   global_id: t-186608
   teiginys: "Lietuvos metraštis Jogailos lūpomis pateikia siūlymą, kad po Jogailos ir Vytauto mirties Lenkiją ir Lietuvą paveldėtų vieno iš jų vaikai."
   pagrindžia:
     - c-169895
 
 <a id="claim-t-186609"></a>
-- t-001
+- t-002
   global_id: t-186609
   teiginys: "Lietuvos metraštis Peremišlio susitarimą sieja su Vytauto ir Jogailos susitikimu Peremišlyje žiemą po mūšio."
   pagrindžia:

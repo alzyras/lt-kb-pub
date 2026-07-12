@@ -30,14 +30,14 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
 ## Teiginiai
 
 <a id="claim-t-38347"></a>
-- t-002
+- t-001
   global_id: t-38347
   teiginys: "Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravažiavusias vokiečių patrankas."
   pagrindžia:
     - c-40151
 
 <a id="claim-t-38348"></a>
-- t-001
+- t-002
   global_id: t-38348
   teiginys: "Netoli Birštono Zaskevičiaus kariai susitiko su A. Žemaičio vadovaujama 1-ojo pėstininkų pulko 2-ąja kuopa, vykusia paremti Jiezno puolimą."
   pagrindžia:

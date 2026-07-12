@@ -41,42 +41,42 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
 ## Teiginiai
 
 <a id="claim-t-59905"></a>
-- t-005
+- t-001
   global_id: t-59905
   teiginys: "Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės."
   pagrindžia:
     - c-60539
 
 <a id="claim-t-59906"></a>
-- t-003
+- t-002
   global_id: t-59906
   teiginys: "Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą."
   pagrindžia:
     - c-167438
 
 <a id="claim-t-59907"></a>
-- t-004
+- t-003
   global_id: t-59907
   teiginys: "1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių."
   pagrindžia:
     - c-60540
 
 <a id="claim-t-59908"></a>
-- t-001
+- t-004
   global_id: t-59908
   teiginys: "Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją."
   pagrindžia:
     - c-60541
 
 <a id="claim-t-59909"></a>
-- t-002
+- t-005
   global_id: t-59909
   teiginys: "1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį."
   pagrindžia:
     - c-60538
 
 <a id="claim-t-59906"></a>
-- t-003
+- t-006
   global_id: t-59906
   teiginys: "Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą."
   pagrindžia:

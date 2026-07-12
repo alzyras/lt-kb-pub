@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - miestas
   - paprotys
-  - privilegija
   - ritualas
+  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87222"></a>
-- t-002
+- t-001
   global_id: t-87222
   teiginys: "1424 m. Vytauto Vilniui suteiktomis privilegijomis nuo įvairių duoklių buvo atleidžiami tik Romos katalikai miestiečiai."
   pagrindžia:
     - c-83202
 
 <a id="claim-t-87223"></a>
-- t-001
+- t-002
   global_id: t-87223
   teiginys: "Vytauto 1424 m. Vilniui suteiktomis duoklių lengvatomis naudojosi tik Romos katalikų tikėjimą išpažinę miestiečiai."
   pagrindžia:

@@ -39,7 +39,7 @@ Pradžios mokslu, be parapijų kunigų, dar rūpinosi šių ordinų vienuoliai: 
 ## Teiginiai
 
 <a id="claim-t-112560"></a>
-- t-003
+- t-001
   global_id: t-112560
   teiginys: "Karmelitų ordino vienuoliai Lietuvoje rūpinosi pradžios mokslu kartu su kitų ordinų vienuoliais ir parapijų kunigais."
   pagrindžia:

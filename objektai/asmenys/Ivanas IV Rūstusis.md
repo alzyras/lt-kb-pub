@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-40147"></a>
-- t-002
+- t-001
   global_id: t-40147
   teiginys: "Mirus Ivano IV Rūsčiojo palikuonims Fiodorui ir mažamečiui Dmitrijui, nutrūko Rusiją valdžiusi Riurikaičių dinastija."
   pagrindžia:

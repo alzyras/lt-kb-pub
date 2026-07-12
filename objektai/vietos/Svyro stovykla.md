@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - valstybė
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

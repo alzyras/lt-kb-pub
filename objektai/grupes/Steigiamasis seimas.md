@@ -42,7 +42,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
 ## Teiginiai
 
 <a id="claim-t-74943"></a>
-- t-008
+- t-001
   global_id: t-74943
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 9 d. priėmė Piniginio vieneto įstatymą, kuris skelbė, kad piniginis Lietuvos vienetas yra auksu paremtas litas, kurį sudaro 100 centų."
   pagrindžia:
@@ -56,21 +56,21 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
     - c-72888
 
 <a id="claim-t-74948"></a>
-- t-004
+- t-003
   global_id: t-74948
   teiginys: "Steigiamasis Seimas vienbalsiai priėmė Lietuvos valstybės nepriklausomybės proklamavimo dokumentą."
   pagrindžia:
     - c-72894
 
 <a id="claim-t-74950"></a>
-- t-006
+- t-004
   global_id: t-74950
   teiginys: "Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus."
   pagrindžia:
     - c-72893
 
 <a id="claim-t-193129"></a>
-- t-009
+- t-005
   global_id: t-193129
   teiginys: "Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvelgdamas į ilgą ten Vokietijos viešpatavimą, pareiškė (1921.XI.il.), kad tas kraštas turėtų būti prijungtas prie Lietuvos, kaip atskiras autonominis vienetas."
   pagrindžia:

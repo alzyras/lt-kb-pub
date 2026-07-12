@@ -29,14 +29,14 @@ Frontas nusistovėjo KernavėsMusninkų-ŠirvintųGiedraičių Dubingių-Švenč
 ## Teiginiai
 
 <a id="claim-t-42385"></a>
-- t-002
+- t-001
   global_id: t-42385
   teiginys: "Spalio 17 d. lenkai užėmė Švenčionėlius, o batalionai iki vakaro gynėsi ties Merkiu ir atsitraukė į pietines Vilniaus prieigas."
   pagrindžia:
     - c-45475
 
 <a id="claim-t-42386"></a>
-- t-001
+- t-002
   global_id: t-42386
   teiginys: "Frontas nusistovėjo Kernavės, Musninkų, Širvintų, Giedraičių, Dubingių ir Švenčionėlių linijoje."
   pagrindžia:

@@ -43,49 +43,49 @@ Tam tikslui 1252 m. Livonijos ordinas ėmė statyti pilį toje vietoje, kur Kur�
 ## Teiginiai
 
 <a id="claim-t-68371"></a>
-- t-002
+- t-001
   global_id: t-68371
   teiginys: "Algirdas su Kęstučiu, teriodami Kuršių marių pakraščius, nužygiavo iki Deimenos."
   pagrindžia:
     - c-32172
 
 <a id="claim-t-68372"></a>
-- t-005
+- t-002
   global_id: t-68372
   teiginys: "Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo."
   pagrindžia:
     - c-67968
 
 <a id="claim-t-68374"></a>
-- t-007
+- t-003
   global_id: t-68374
   teiginys: "1252 m. Livonijos ordinas pradėjo statyti pilį ten, kur Kuršių marios jungiasi su Baltija."
   pagrindžia:
     - c-67964
 
 <a id="claim-t-68375"></a>
-- t-003
+- t-004
   global_id: t-68375
   teiginys: "Kronikoje pasakojama, kad broliai, traukdami per ploną Kuršių marių ledą, buvo Dievo globojami."
   pagrindžia:
     - c-67967
 
 <a id="claim-t-68376"></a>
-- t-004
+- t-005
   global_id: t-68376
   teiginys: "Kuršių marios iki Klaipėdos ilgą laiką laikytos Nemuno tąsa."
   pagrindžia:
     - c-67966
 
 <a id="claim-t-184174"></a>
-- t-007
+- t-006
   global_id: t-184174
   teiginys: "Kariuomenė traukė užšalusiomis Kuršių mariomis, kurių ledas buvo toks minkštas, kad bangavo tarsi vanduo."
   pagrindžia:
     - c-167559
 
 <a id="claim-t-192686"></a>
-- t-008
+- t-007
   global_id: t-192686
   teiginys: "Teodoras Narbutas rašo, kad Kuršių marios senovėje vadintos Rusna, o nuo XV a. turėjo kryžiuočių suteiktą Curisch-Haft vardą."
   pagrindžia:

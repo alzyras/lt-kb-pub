@@ -42,14 +42,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88176"></a>
-- t-002
+- t-001
   global_id: t-88176
   teiginys: "1565 m. rankraštyje minima, kad vertingiausi ginklai turėjo vardus, o dvi etmono patrankos vadintos Žygimantu Senuoju ir Žygimantu Augustu."
   pagrindžia:
     - c-84157
 
 <a id="claim-t-88177"></a>
-- t-001
+- t-002
   global_id: t-88177
   teiginys: "1565 m. 39 lapų rankraštis aprašė Žygimanto Augusto lėšomis iki 1565 m. LDK gamintus ginklus ir amuniciją."
   pagrindžia:

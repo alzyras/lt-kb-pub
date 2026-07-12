@@ -39,21 +39,21 @@ Bet 1409 m. visuotiname Lenčicos suvažiavime, kur turėjo būti tas klausimas 
 ## Teiginiai
 
 <a id="claim-t-94354"></a>
-- t-003
+- t-001
   global_id: t-94354
   teiginys: "Po pareiškimo Jogailai Vytauto pasiuntiniai greitai išvyko iš Lenčicos."
   pagrindžia:
     - c-89491
 
 <a id="claim-t-94355"></a>
-- t-001
+- t-002
   global_id: t-94355
   teiginys: "1409 m. visuotiniame Lenčicos suvažiavime viršų gavo bendradarbiavimo su Lietuva idėja."
   pagrindžia:
     - c-89490
 
 <a id="claim-t-94356"></a>
-- t-002
+- t-003
   global_id: t-94356
   teiginys: "1429 m. birželio 18 d. Vytauto pasiuntiniai Lenčicoje įteikė Jogailai Vytauto laišką."
   pagrindžia:

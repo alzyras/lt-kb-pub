@@ -39,56 +39,56 @@ Mikalojus Kristupas Radvila-Našlaitėlis aprašomas kaip Mikalojaus Radvilos Ju
 ## Teiginiai
 
 <a id="claim-t-82567"></a>
-- t-006
+- t-001
   global_id: t-82567
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, grįžęs į katalikybę, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
   pagrindžia:
     - c-79044
 
 <a id="claim-t-82568"></a>
-- t-005
+- t-002
   global_id: t-82568
   teiginys: "Grįžęs į katalikybę Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   pagrindžia:
     - c-26844
 
 <a id="claim-t-82569"></a>
-- t-011
+- t-003
   global_id: t-82569
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, Lietuvos Didžiosios Kunigaikštystės rūmų maršalka, tapo Filipovo namų savininku."
   pagrindžia:
     - c-79045
 
 <a id="claim-t-82570"></a>
-- t-012
+- t-004
   global_id: t-82570
   teiginys: "Kapitulai nustojus gauti činšą už Filipovo namą, su kunigaikščiu Kristupu prasidėjo teismo procesas, o 1573 m. kovo 26 d. įsigaliojo sutartis."
   pagrindžia:
     - c-79048
 
 <a id="claim-t-82571"></a>
-- t-008
+- t-005
   global_id: t-82571
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis bylinėjosi su kapitula dėl Filipovo namo, kai nustota mokėti činšą."
   pagrindžia:
     - c-79049
 
 <a id="claim-t-82572"></a>
-- t-010
+- t-006
   global_id: t-82572
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis grįžo į katalikų tikėjimą, uždarė savo namuose buvusią reformatų bažnyčią ir 1576 m. atidavė spaustuvę jėzuitams."
   pagrindžia:
     - c-79044
 
 <a id="claim-t-82573"></a>
-- t-009
+- t-007
   global_id: t-82573
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   pagrindžia:
     - c-79047
 
 <a id="claim-t-82574"></a>
-- t-007
+- t-008
   global_id: t-82574
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis, LDK rūmų maršalka, tapo Filipovo namų prie Didžiosios gatvės savininku."
   pagrindžia:

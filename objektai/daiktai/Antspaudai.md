@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - daiktas
+  - institucija
   - karalius
 amziai:
   - 'XV'
@@ -71,7 +72,7 @@ Nenurodyta
     - c-82958
 
 <a id="claim-t-86982"></a>
-- t-004
+- t-003
   global_id: t-86982
   teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
   pagrindžia:

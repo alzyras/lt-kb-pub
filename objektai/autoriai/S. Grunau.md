@@ -29,14 +29,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-64836"></a>
-- t-002
+- t-001
   global_id: t-64836
   teiginys: "S. Grunau XVI a. pirmoje pusėje rašė, kad Romuvoje augo milžiniškas ąžuolas su Perkūno, Patulo ir Patrimpo stabais."
   pagrindžia:
     - c-65431
 
 <a id="claim-t-64837"></a>
-- t-003
+- t-002
   global_id: t-64837
   teiginys: "S. Grunau ir vėlesni autoriai Krivį vadino Krivių Krivaičiu."
   pagrindžia:

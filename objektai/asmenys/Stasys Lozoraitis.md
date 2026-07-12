@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
+  - institucija
   - tauta
 amziai:
   - 'XX'
@@ -40,35 +41,35 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 ## Teiginiai
 
 <a id="claim-t-46320"></a>
-- t-003
+- t-001
   global_id: t-46320
   teiginys: "Po Lenkijos ultimatumo priėmimo Vladas Mironas atleido Stasį Lozoraitį, kurio politinė linija pralaimėjo."
   pagrindžia:
     - c-21996
 
 <a id="claim-t-46321"></a>
-- t-005
+- t-002
   global_id: t-46321
   teiginys: "LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.)."
   pagrindžia:
     - c-48907
 
 <a id="claim-t-46322"></a>
-- t-001
+- t-003
   global_id: t-46322
   teiginys: "Stasiui Lozoraičiui einant užsienio reikalų ministro pareigas, ministerija inicijavo Lietuvos skyriaus rengimą 1939 m. pasaulinei parodai Niujorke."
   pagrindžia:
     - c-21994
 
 <a id="claim-t-46323"></a>
-- t-002
+- t-004
   global_id: t-46323
   teiginys: "Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją."
   pagrindžia:
     - c-21995
 
 <a id="claim-t-46324"></a>
-- t-004
+- t-005
   global_id: t-46324
   teiginys: "Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas."
   pagrindžia:

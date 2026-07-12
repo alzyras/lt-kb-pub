@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mūšis
+  - šeima
 amziai:
   - 'XV'
   - 'XVI'
@@ -54,7 +55,7 @@ media_all_json: |-
     - c-42386
 
 <a id="claim-t-78739"></a>
-- t-001
+- t-003
   global_id: t-78739
   teiginys: "Aleksandro Gvanjinio knygoje „Europos Sarmatijos aprašymas“ yra iliustracija, vaizduojanti mūšį su totoriais."
   pagrindžia:

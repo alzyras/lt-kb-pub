@@ -11,6 +11,7 @@ date_end: '1825'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
 amziai:
   - 'XIX'

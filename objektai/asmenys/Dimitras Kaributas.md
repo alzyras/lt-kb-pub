@@ -39,14 +39,14 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 ## Teiginiai
 
 <a id="claim-t-50969"></a>
-- t-002
+- t-001
   global_id: t-50969
   teiginys: "Vytautas, pritariamas Jogailos, pirmiausia atėmė Sievero žemę iš Dimitro Kaributo."
   pagrindžia:
     - c-36273
 
 <a id="claim-t-50970"></a>
-- t-001
+- t-002
   global_id: t-50970
   teiginys: "Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė."
   pagrindžia:

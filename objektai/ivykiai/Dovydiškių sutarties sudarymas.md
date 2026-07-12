@@ -56,35 +56,35 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 ## Teiginiai
 
 <a id="claim-t-12402"></a>
-- t-006
+- t-001
   global_id: t-12402
   teiginys: "Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų."
   pagrindžia:
     - c-14177
 
 <a id="claim-t-66523"></a>
-- t-004
+- t-002
   global_id: t-66523
   teiginys: "Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos."
   pagrindžia:
     - c-66735
 
 <a id="claim-t-66524"></a>
-- t-002
+- t-003
   global_id: t-66524
   teiginys: "1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino."
   pagrindžia:
     - c-66736
 
 <a id="claim-t-66525"></a>
-- t-006
+- t-004
   global_id: t-66525
   teiginys: "1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje."
   pagrindžia:
     - c-66737
 
 <a id="claim-t-66526"></a>
-- t-003
+- t-005
   global_id: t-66526
   teiginys: "Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams."
   pagrindžia:

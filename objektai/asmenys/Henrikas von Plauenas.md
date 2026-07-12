@@ -42,14 +42,14 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
 ## Teiginiai
 
 <a id="claim-t-176403"></a>
-- t-005
+- t-001
   global_id: t-176403
   teiginys: "Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos."
   pagrindžia:
     - c-36324
 
 <a id="claim-t-176404"></a>
-- t-003
+- t-002
   global_id: t-176404
   teiginys: "Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą."
   pagrindžia:
@@ -63,7 +63,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
     - c-160420
 
 <a id="claim-t-184262"></a>
-- t-006
+- t-004
   global_id: t-184262
   teiginys: "Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą."
   pagrindžia:

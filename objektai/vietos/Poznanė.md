@@ -48,42 +48,42 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 ## Teiginiai
 
 <a id="claim-t-114851"></a>
-- t-002
+- t-001
   global_id: t-114851
   teiginys: "1925 m. Poznanė siejama su IV visuotiniu Lenkijos istorikų suvažiavimu."
   pagrindžia:
     - c-105861
 
 <a id="claim-t-114852"></a>
-- t-006
+- t-002
   global_id: t-114852
   teiginys: "Poznanė 1253 m. ėmė tvarkytis pagal vokiečių miestų teises."
   pagrindžia:
     - c-105862
 
 <a id="claim-t-114853"></a>
-- t-005
+- t-003
   global_id: t-114853
   teiginys: "Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   pagrindžia:
     - c-105860
 
 <a id="claim-t-114855"></a>
-- t-009
+- t-004
   global_id: t-114855
   teiginys: "Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu."
   pagrindžia:
     - c-105863
 
 <a id="claim-t-114856"></a>
-- t-008
+- t-005
   global_id: t-114856
   teiginys: "Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų."
   pagrindžia:
     - c-105865
 
 <a id="claim-t-114857"></a>
-- t-015
+- t-006
   global_id: t-114857
   teiginys: "Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų."
   pagrindžia:
@@ -97,49 +97,49 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
     - c-105859
 
 <a id="claim-t-114860"></a>
-- t-011
+- t-008
   global_id: t-114860
   teiginys: "Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu."
   pagrindžia:
     - c-105863
 
 <a id="claim-t-114861"></a>
-- t-001
+- t-009
   global_id: t-114861
   teiginys: "Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų."
   pagrindžia:
     - c-24404
 
 <a id="claim-t-114862"></a>
-- t-016
+- t-010
   global_id: t-114862
   teiginys: "Boleslovo laikais Krušvica, Poznanė ir kiti Didžiosios Lenkijos miestai garsėjo turtais ir gyventojų gausa."
   pagrindžia:
     - c-105868
 
 <a id="claim-t-114863"></a>
-- t-010
+- t-011
   global_id: t-114863
   teiginys: "Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių."
   pagrindžia:
     - c-105860
 
 <a id="claim-t-114864"></a>
-- t-014
+- t-012
   global_id: t-114864
   teiginys: "„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško."
   pagrindžia:
     - c-105859
 
 <a id="claim-t-185098"></a>
-- t-017
+- t-013
   global_id: t-185098
   teiginys: "Keliaudamas iš Poznanės į Srodą karalius vos nežuvo per audrą."
   pagrindžia:
     - c-168459
 
 <a id="claim-t-194988"></a>
-- t-018
+- t-014
   global_id: t-194988
   teiginys: "RDzSG = Roczniki Dziejów Społecznych i Gospodarczych, Poznanė."
   pagrindžia:

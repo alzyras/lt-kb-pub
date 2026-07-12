@@ -38,14 +38,14 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
 ## Teiginiai
 
 <a id="claim-t-68568"></a>
-- t-002
+- t-001
   global_id: t-68568
   teiginys: "Švitrigaila po 11 savaičių traukdamasis grįžo į Lukomlį, kur paleido kariuomenę, o pats išvyko į Kijevą."
   pagrindžia:
     - c-43606
 
 <a id="claim-t-68569"></a>
-- t-001
+- t-002
   global_id: t-68569
   teiginys: "Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą."
   pagrindžia:

@@ -29,14 +29,14 @@ Nuo sėsliai gyvenančių visuomenių atskirti plačių stepių ir turėdami „
 ## Teiginiai
 
 <a id="claim-t-78923"></a>
-- t-002
+- t-001
   global_id: t-78923
   teiginys: "Totoriams strateginį pranašumą teikė Krymo pusiasalio nuošalumas ir įtvirtinta Perekopo sąsmauka, vadinta „gerai užrakinamais Krymo vartais“."
   pagrindžia:
     - c-76024
 
 <a id="claim-t-78924"></a>
-- t-001
+- t-002
   global_id: t-78924
   teiginys: "Totoriai turėjo „gerai užrakinamus Krymo vartus“ – įtvirtintą Perekopo sąsmauką, saugojusią sunkiai pasiekiamą jų bazę."
   pagrindžia:

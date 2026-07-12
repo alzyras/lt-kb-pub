@@ -30,14 +30,14 @@ Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas maj
 ## Teiginiai
 
 <a id="claim-t-40372"></a>
-- t-002
+- t-001
   global_id: t-40372
   teiginys: "Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose."
   pagrindžia:
     - c-42170
 
 <a id="claim-t-40373"></a>
-- t-001
+- t-002
   global_id: t-40373
   teiginys: "Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas."
   pagrindžia:

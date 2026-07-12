@@ -48,49 +48,49 @@ Popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII trumpam laikotarpy (1388—
 ## Teiginiai
 
 <a id="claim-t-195096"></a>
-- t-007
+- t-001
   global_id: t-195096
   teiginys: "1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai."
   pagrindžia:
     - c-177481
 
 <a id="claim-t-195097"></a>
-- t-004
+- t-002
   global_id: t-195097
   teiginys: "Ordino pasiuntinys grįžo į Malburgą aiškiai supratęs, kad Vytautas lengvai Žemaitijos neužleis, o Makras dar labiau palinko į Vytauto pusę."
   pagrindžia:
     - c-177478
 
 <a id="claim-t-195098"></a>
-- t-001
+- t-003
   global_id: t-195098
   teiginys: "Malburgas, dar vadintas Marienburgu, 1281 m. buvo pastatytas kryžiuočių."
   pagrindžia:
     - c-177482
 
 <a id="claim-t-195099"></a>
-- t-006
+- t-004
   global_id: t-195099
   teiginys: "Malburgą, dar vadinamą Marienburgu, 1281 m. pastatė kryžiuočiai."
   pagrindžia:
     - c-177482
 
 <a id="claim-t-195100"></a>
-- t-003
+- t-005
   global_id: t-195100
   teiginys: "1388-1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII pasiuntė į Malburgą kelias bules, drausdami Vokiečių Ordinui pulti lietuvius neofitus."
   pagrindžia:
     - c-177479
 
 <a id="claim-t-195101"></a>
-- t-005
+- t-006
   global_id: t-195101
   teiginys: "Didysis magistras slapta iš Marienburgo išplaukė Vysla laivais, o paskui per jūros įlanką įplaukė į Nemuną."
   pagrindžia:
     - c-177480
 
 <a id="claim-t-195102"></a>
-- t-002
+- t-007
   global_id: t-195102
   teiginys: "Malburgą, dar vadintą Marienburgu, kryžiuočiai pastatė 1281 metais."
   pagrindžia:

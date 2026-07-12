@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07829"></a>
-- t-002
+- t-001
   global_id: t-07829
   teiginys: "Sugautus priešo vyresniuosius lietuviai aukodavo dievams gyvus sudegindami."
   pagrindžia:

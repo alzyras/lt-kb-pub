@@ -51,14 +51,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62382"></a>
-- t-002
+- t-001
   global_id: t-62382
   teiginys: "Po Lubavos apiplėšimo broliai iš patikimų šaltinių sužinojo, kad gyvi ir sveiki sugrįžo tik keli vieno lietuvių būrio nariai."
   pagrindžia:
     - c-62975
 
 <a id="claim-t-62383"></a>
-- t-001
+- t-002
   global_id: t-62383
   teiginys: "1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių."
   pagrindžia:

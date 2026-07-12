@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07769"></a>
-- t-002
+- t-001
   global_id: t-07769
   teiginys: "Pavasarį jaunuomenė grodavo iš karklo ar blindės padirbtais vamzdžiais, o piemenėliai, ganydami ožaičius ir ėraičius, naudodavo molio pypynes."
   pagrindžia:

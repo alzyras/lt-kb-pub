@@ -30,7 +30,7 @@ Pirmuoju akademijos rektorium buvo paskirtas mozūras, ir tada jau žinomas, o v
 ## Teiginiai
 
 <a id="claim-t-184468"></a>
-- t-002
+- t-001
   global_id: t-184468
   teiginys: "Petras Skarga buvo pirmasis Akademijos rektorius, žymus pamokslininkas ir publicistas."
   pagrindžia:

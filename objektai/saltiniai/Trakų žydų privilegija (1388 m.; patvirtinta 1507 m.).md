@@ -44,14 +44,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-88111"></a>
-- t-002
+- t-001
   global_id: t-88111
   teiginys: "Trakų žydai prašė patvirtinti jiems priklausiusias teises, laisves ir kitus dalykus, nurodytus Vytauto privilegijoje."
   pagrindžia:
     - c-84090
 
 <a id="claim-t-88112"></a>
-- t-001
+- t-002
   global_id: t-88112
   teiginys: "1388 m. Vytautas suteikė privilegiją Trakų žydams, o 1507 m. Žygimantas Senasis ją patvirtino Melnyke."
   pagrindžia:

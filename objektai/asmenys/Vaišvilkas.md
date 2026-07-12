@@ -38,63 +38,63 @@ Supykęs ant Vaišvilko už sosto atidavimą Švarnui, Levas pasikvietė jį į 
     - c-169313
 
 <a id="claim-t-185954"></a>
-- t-003
+- t-002
   global_id: t-185954
   teiginys: "Vaišvilkas ant purpurinio apsiausto vilkėdavo juodą drapaną kaip vienuolio įžadų ženklą."
   pagrindžia:
     - c-169315
 
 <a id="claim-t-185955"></a>
-- t-004
+- t-003
   global_id: t-185955
   teiginys: "A. Kojelavičiaus teksto vertime paliktas tradicinis vardas Vaišvilkas, nors naujausioje literatūroje plito forma Vaišelga."
   pagrindžia:
     - c-169316
 
 <a id="claim-t-193483"></a>
-- t-005
+- t-004
   global_id: t-193483
   teiginys: "Kodėl nekrei piąs dėmesio į privilegijas Vaišvilko, teisėto lietuvių valdovo, kuris visas valdžios teises pagrįstai sau prisiskirįąs?"
   pagrindžia:
     - c-169313
 
 <a id="claim-t-193484"></a>
-- t-006
+- t-005
   global_id: t-193484
   teiginys: "Šitokia kal ba sukrėtė žemaičių ir jotvingių sielas ir noromis ne noromis paskatino juos galvoti apie Vaišvilką; kadangi jie pritarė lietuviams, savaime sužlugo rusų su manymai, ypač dėl to, kad juos iš naujo ryžtingai pasiūlyti apskritai būtų buvę nesaugu."
   pagrindžia:
     - c-176183
 
 <a id="claim-t-193485"></a>
-- t-007
+- t-006
   global_id: t-193485
   teiginys: "Vaišvilkas vilkėdavo juodą drapaną, kaip vienuolio įžadų ženklą."
   pagrindžia:
     - c-169315
 
 <a id="claim-t-193486"></a>
-- t-008
+- t-007
   global_id: t-193486
   teiginys: "Kojelavičiaus te ksto vertime paliekamas tradicinis Vaišvilkas."
   pagrindžia:
     - c-169316
 
 <a id="claim-t-194001"></a>
-- t-009
+- t-008
   global_id: t-194001
   teiginys: "Turėjo jis sūnų Vaišvilką ir dukterį."
   pagrindžia:
     - c-176626
 
 <a id="claim-t-194002"></a>
-- t-010
+- t-009
   global_id: t-194002
   teiginys: "Vaišvilkas apsisprendęs panūdo priimti šventąjį krikštą."
   pagrindžia:
     - c-176627
 
 <a id="claim-t-194003"></a>
-- t-011
+- t-010
   global_id: t-194003
   teiginys: "Paskui Vaišvilkas iškeliavo į Haličąs pas Danielių, pas kunigaikštį Vasilką, ketindamas tapti vienuoliu."
   pagrindžia:

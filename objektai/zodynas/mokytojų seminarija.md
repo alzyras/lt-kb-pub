@@ -37,7 +37,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
 ## Teiginiai
 
 <a id="claim-t-72703"></a>
-- t-003
+- t-001
   global_id: t-72703
   teiginys: "1864 m. Molodečne įsteigta mokytojų seminarija negalėjo parengti pakankamai mokytojų Lietuvos ir baltarusių švietimo apygardoms."
   pagrindžia:
@@ -51,7 +51,7 @@ Tik vėliau (1872 m.) Panevėžy buvo įsteigta mokytojų seminarija, kuri ruoš
     - c-71083
 
 <a id="claim-t-72705"></a>
-- t-001
+- t-003
   global_id: t-72705
   teiginys: "1872 m. Panevėžyje įsteigta mokytojų seminarija rengė mokytojus visai Lietuvai, išskyrus Užnemunę."
   pagrindžia:

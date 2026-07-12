@@ -44,28 +44,28 @@ Tai lotyniškas botaninio pavadinimo pavidalas, pateikiamas kaip gamtininko paly
 ## Teiginiai
 
 <a id="claim-t-192252"></a>
-- t-004
+- t-001
   global_id: t-192252
   teiginys: "Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje."
   pagrindžia:
     - c-175089
 
 <a id="claim-t-192253"></a>
-- t-001
+- t-002
   global_id: t-192253
   teiginys: "Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica."
   pagrindžia:
     - c-175090
 
 <a id="claim-t-192254"></a>
-- t-002
+- t-003
   global_id: t-192254
   teiginys: "Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme."
   pagrindžia:
     - c-175090
 
 <a id="claim-t-192255"></a>
-- t-003
+- t-004
   global_id: t-192255
   teiginys: "Narbutas Phyllantus Emblica vadina karšto klimato medžiu."
   pagrindžia:

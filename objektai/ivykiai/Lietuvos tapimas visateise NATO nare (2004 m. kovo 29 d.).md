@@ -13,6 +13,7 @@ date_end: '2002'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - seimas
   - sutartis
@@ -57,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75197"></a>
-- t-002
+- t-001
   global_id: t-75197
   teiginys: "1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO."
   pagrindžia:
     - c-23091
 
 <a id="claim-t-75200"></a>
-- t-004
+- t-002
   global_id: t-75200
   teiginys: "Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos."
   pagrindžia:

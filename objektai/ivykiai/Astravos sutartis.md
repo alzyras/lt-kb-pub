@@ -54,14 +54,14 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
 ## Teiginiai
 
 <a id="claim-t-12397"></a>
-- t-004
+- t-001
   global_id: t-12397
   teiginys: "Astravos sutartimi Vytautas pažadėjo Jogailą ir Jadvygą remti kariuomene, turtu ir ginklais."
   pagrindžia:
     - c-14174
 
 <a id="claim-t-12398"></a>
-- t-005
+- t-002
   global_id: t-12398
   teiginys: "Sutartis grąžino Vytautui Lietuvos valdžią didžiojo kunigaikščio teisėmis kaip lėną."
   pagrindžia:
@@ -69,21 +69,21 @@ Vytautas atgavo Trakus, Gardiną, Lucką ir Lietuvos valdžią didžiojo kunigai
     - c-15978
 
 <a id="claim-t-12399"></a>
-- t-006
+- t-003
   global_id: t-12399
   teiginys: "Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse."
   pagrindžia:
     - c-15979
 
 <a id="claim-t-176169"></a>
-- t-007
+- t-004
   global_id: t-176169
   teiginys: "1392 m. Astravos dvare prie Lydos Vytautas, atsimetęs nuo Ordino, susitaikė su Jogaila."
   pagrindžia:
     - c-160214
 
 <a id="claim-t-176170"></a>
-- t-008
+- t-005
   global_id: t-176170
   teiginys: "Astravos sutartį atskirais dokumentais patvirtino Jogailos ir Vytauto pusės."
   pagrindžia:

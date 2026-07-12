@@ -30,14 +30,14 @@ Jos delegacija, vadovaujama Tomo Naruševičiaus, atvykusi į Maskvą pirmiausia
 ## Teiginiai
 
 <a id="claim-t-76026"></a>
-- t-002
+- t-001
   global_id: t-76026
   teiginys: "Tomas Naruševičius vadovavo Lietuvos delegacijai Maskvoje, kuri pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
   pagrindžia:
     - c-73680
 
 <a id="claim-t-76027"></a>
-- t-001
+- t-002
   global_id: t-76027
   teiginys: "Tomo Naruševičiaus vadovaujama delegacija Maskvoje pirmiausia pareikalavo pripažinti atkurtą Lietuvos valstybę ir jos tęstinumą nuo LDK."
   pagrindžia:

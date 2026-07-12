@@ -37,7 +37,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 ## Teiginiai
 
 <a id="claim-t-170860"></a>
-- t-009
+- t-001
   global_id: t-170860
   teiginys: "Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką."
   pagrindžia:

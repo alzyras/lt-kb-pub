@@ -58,7 +58,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-19534"></a>
-- t-003
+- t-001
   global_id: t-19534
   teiginys: "Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų."
   pagrindžia:

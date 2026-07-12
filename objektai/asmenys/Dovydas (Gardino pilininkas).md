@@ -41,105 +41,105 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
 ## Teiginiai
 
 <a id="claim-t-173128"></a>
-- t-008
+- t-001
   global_id: t-173128
   teiginys: "Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę."
   pagrindžia:
     - c-56075
 
 <a id="claim-t-173129"></a>
-- t-009
+- t-002
   global_id: t-173129
   teiginys: "Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė žygio mantą, arklius, duoną bei kitą maistą."
   pagrindžia:
     - c-56072
 
 <a id="claim-t-173130"></a>
-- t-019
+- t-003
   global_id: t-173130
   teiginys: "1324 m. kovo mėnesį kryžiuočiai sunaikino Gardino pilininko Dovydo dvarą, o vėliau puolė Gardiną."
   pagrindžia:
     - c-41892
 
 <a id="claim-t-173131"></a>
-- t-015
+- t-004
   global_id: t-173131
   teiginys: "Gardino pilininkas Dovydas su 800 vyrų surengė žygį ir su 80 vyrų įsibrovė į Prūsijos Unzatrapio valsčių."
   pagrindžia:
     - c-56070
 
 <a id="claim-t-173132"></a>
-- t-014
+- t-005
   global_id: t-173132
   teiginys: "Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei atsargų."
   pagrindžia:
     - c-56072
 
 <a id="claim-t-173141"></a>
-- t-002
+- t-006
   global_id: t-173141
   teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
   pagrindžia:
     - c-41892
 
 <a id="claim-t-173134"></a>
-- t-003
+- t-007
   global_id: t-173134
   teiginys: "1324 m. lapkritį Gedimino kariuomenė, vadovaujama Gardino pilininko Dovydo, siaubė Mozūrijos žemę."
   pagrindžia:
     - c-41892
 
 <a id="claim-t-173136"></a>
-- t-017
+- t-008
   global_id: t-173136
   teiginys: "1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų sudegino Gardino pilininko Dovydo dvarą iki pamatų."
   pagrindžia:
     - c-157467
 
 <a id="claim-t-173137"></a>
-- t-010
+- t-009
   global_id: t-173137
   teiginys: "Dovydas, Gardino pilininkas, su 800 vyrų įsibrovė į Unzatrapį, sudegino kelis namus ir išsivarė belaisvių bei grobio."
   pagrindžia:
     - c-56070
 
 <a id="claim-t-173138"></a>
-- t-011
+- t-010
   global_id: t-173138
   teiginys: "1323 m. Dusburgietis Dovydui priskiria Revelio niokojimą."
   pagrindžia:
     - c-56071
 
 <a id="claim-t-173139"></a>
-- t-021
+- t-011
   global_id: t-173139
   teiginys: "1323 m. vasarį Dovydo Gardiniškio vedami lietuviai ir pskoviečiai užpuolė Revelio žemę."
   pagrindžia:
     - c-56075
 
 <a id="claim-t-173140"></a>
-- t-001
+- t-012
   global_id: t-173140
   teiginys: "1323 m. Gardino pilininkas Dovydas su lietuvių kariuomene niokojo Revelį, Danijos karaliaus žemę šiaurinėje Estijoje."
   pagrindžia:
     - c-13116
 
 <a id="claim-t-173141"></a>
-- t-002
+- t-013
   global_id: t-173141
   teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
   pagrindžia:
     - c-41892
 
 <a id="claim-t-173141"></a>
-- t-002
+- t-014
   global_id: t-173141
   teiginys: "1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę."
   pagrindžia:
     - c-41892
 
 <a id="claim-t-173143"></a>
-- t-012
+- t-015
   global_id: t-173143
   teiginys: "1324 m. Ordino būrys užpuolė Gardino pilininko Dovydo dvarą ir sudegino jį iki pamatų."
   pagrindžia:
@@ -153,7 +153,7 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     - c-157472
 
 <a id="claim-t-173145"></a>
-- t-013
+- t-017
   global_id: t-173145
   teiginys: "Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės."
   pagrindžia:
@@ -167,14 +167,14 @@ Dovydas buvo Gardino krašto karo vadas, šaltiniuose apibūdinamas kaip Gardino
     - c-167443
 
 <a id="claim-t-184058"></a>
-- t-022
+- t-019
   global_id: t-184058
   teiginys: "Dovydas, Gardino pilininkas, lapkričio 21 d. įsibrovė į Mazoviją ir nusiaubė Plocko vyskupo Pultuską."
   pagrindžia:
     - c-167443
 
 <a id="claim-t-194479"></a>
-- t-023
+- t-020
   global_id: t-194479
   teiginys: "Apie 55 lietuvių žūtį 1319 metais Tais pačiais metais, kai dykrose smarkiai ištvino vandenys, Dovydas, Gardino pilininkas, su aštuoniais šimtais vyrų patraukė į karą ir, išdėstęs savo karius pasalose, pats su 80 vyrų įsibrovė į Prūsijos žemės valsčių, vardu."
   pagrindžia:

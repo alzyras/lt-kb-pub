@@ -15,7 +15,8 @@ date_start: '1301'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'
@@ -66,28 +67,28 @@ Terminas vartojamas aiškinant Lietuvos posūkį į Vakarų Europą ir oficialų
 ## Teiginiai
 
 <a id="claim-t-47928"></a>
-- t-003
+- t-001
   global_id: t-47928
   teiginys: "Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu."
   pagrindžia:
     - c-32665
 
 <a id="claim-t-47929"></a>
-- t-005
+- t-002
   global_id: t-47929
   teiginys: "Lietuvos valdovui pereinant į Lenkiją, valstybiniu mastu buvo atnaujintas lotyniškasis krikštas."
   pagrindžia:
     - c-32666
 
 <a id="claim-t-47930"></a>
-- t-004
+- t-003
   global_id: t-47930
   teiginys: "Lietuvos valdovui einant į Lenkiją, valstybiniu lygmeniu buvo atnaujintas lotyniškasis krikštas, nuošalyje paliekant Kryžiuočių ordiną."
   pagrindžia:
     - c-32666
 
 <a id="claim-t-184357"></a>
-- t-006
+- t-004
   global_id: t-184357
   teiginys: "Svarbioji jungtis su Vakarų Europa buvo pradėta lotyniškuoju krikštu."
   pagrindžia:

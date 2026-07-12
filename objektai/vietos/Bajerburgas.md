@@ -42,28 +42,28 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-71843"></a>
-- t-003
+- t-001
   global_id: t-71843
   teiginys: "Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai."
   pagrindžia:
     - c-37296
 
 <a id="claim-t-71844"></a>
-- t-004
+- t-002
   global_id: t-71844
   teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti."
   pagrindžia:
     - c-31957
 
 <a id="claim-t-71845"></a>
-- t-002
+- t-003
   global_id: t-71845
   teiginys: "1384 m. liepos 9 d. pradėjęs išdavystę, Vytautas sunaikino jam pavestą Naująjį Bajerburgą."
   pagrindžia:
     - c-31958
 
 <a id="claim-t-71846"></a>
-- t-001
+- t-004
   global_id: t-71846
   teiginys: "Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės."
   pagrindžia:

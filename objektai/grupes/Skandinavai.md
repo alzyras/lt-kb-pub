@@ -42,7 +42,7 @@ Skandinavai, būdami energingiausi iš šiaurės Europos tautų, turėjo nuolati
 ## Teiginiai
 
 <a id="claim-t-66129"></a>
-- t-002
+- t-001
   global_id: t-66129
   teiginys: "Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus."
   pagrindžia:

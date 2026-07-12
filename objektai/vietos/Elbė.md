@@ -42,14 +42,14 @@ Narbutas rašė, kad maldelė buvo rasta runomis išrašyta ant paminklų prie P
     - c-175426
 
 <a id="claim-t-192658"></a>
-- t-004
+- t-003
   global_id: t-192658
   teiginys: "Fosas teigė, kad Pitėjas pasiekė tik Reiną arba toliausiai Elbės žiotis."
   pagrindžia:
     - c-175428
 
 <a id="claim-t-194931"></a>
-- t-005
+- t-004
   global_id: t-194931
   teiginys: "Graikai, ypač masiliečiai, tęsė finikiečių tyrimus, bet rašė eilėmis, pa vyzdžiui, apie argonautų kelionę; romėnai, kaip nuga lėtojai, pažengė toliau, tačiau apie kraštus, esančius už Elbės ir Arkados žiočių, nepaliko jokių rašytinių žinių1."
   pagrindžia:

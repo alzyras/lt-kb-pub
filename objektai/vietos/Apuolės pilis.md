@@ -36,21 +36,21 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 ## Teiginiai
 
 <a id="claim-t-47983"></a>
-- t-005
+- t-001
   global_id: t-47983
   teiginys: "Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų."
   pagrindžia:
     - c-31938
 
 <a id="claim-t-47984"></a>
-- t-006
+- t-002
   global_id: t-47984
   teiginys: "Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų."
   pagrindžia:
     - c-31938
 
 <a id="claim-t-47985"></a>
-- t-004
+- t-003
   global_id: t-47985
   teiginys: "VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo."
   pagrindžia:

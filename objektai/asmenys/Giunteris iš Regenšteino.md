@@ -47,7 +47,7 @@ Dusburgietis teigia, kad vis dėlto broliai Ditrichas ir Giunteris iš Regenšte
     - c-167456
 
 <a id="claim-t-60293"></a>
-- t-001
+- t-002
   global_id: t-60293
   teiginys: "Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę."
   pagrindžia:

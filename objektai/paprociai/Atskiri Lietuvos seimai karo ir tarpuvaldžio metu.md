@@ -47,14 +47,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-01908"></a>
-- t-002
+- t-001
   global_id: t-01908
   teiginys: "XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti."
   pagrindžia:
     - c-02146
 
 <a id="claim-t-01910"></a>
-- t-001
+- t-002
   global_id: t-01910
   teiginys: "Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu."
   pagrindžia:

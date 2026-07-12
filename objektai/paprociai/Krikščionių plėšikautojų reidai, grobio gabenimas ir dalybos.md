@@ -52,7 +52,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59739"></a>
-- t-003
+- t-001
   global_id: t-59739
   teiginys: "Martynas su bendrais prie Bugo užpuolė prekių laivą, išžudė upeivius, nuplukdė grobį į Torunę ir pasidalijo pinigus."
   pagrindžia:
@@ -66,14 +66,14 @@ Nenurodyta
     - c-60373
 
 <a id="claim-t-59741"></a>
-- t-001
+- t-003
   global_id: t-59741
   teiginys: "Martynas iš Golino su keturiais vokiečiais ir vienuolika prūsų užgrobė kaimą Sūduvos žemėje."
   pagrindžia:
     - c-60372
 
 <a id="claim-t-59740"></a>
-- t-002
+- t-004
   global_id: t-59740
   teiginys: "Martynas nukovė dešimt vyrų pirtyje, pagrobė arklių, gyvulių ir kitų daiktų, o moteris bei vaikus išsivarė į nelaisvę."
   pagrindžia:

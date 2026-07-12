@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - kunigas
   - vieta
@@ -44,14 +45,14 @@ media_all_json: |-
     - c-158113
 
 <a id="claim-t-173861"></a>
-- t-003
+- t-002
   global_id: t-173861
   teiginys: "Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės."
   pagrindžia:
     - c-158111
 
 <a id="claim-t-173862"></a>
-- t-002
+- t-003
   global_id: t-173862
   teiginys: "Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei."
   pagrindžia:

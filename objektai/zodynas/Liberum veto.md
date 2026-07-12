@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - seimas
   - sąvoka
+  - teisinė-praktika
 amziai:
   - 'XVI'
   - 'XXI'
@@ -61,7 +62,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-168674"></a>
-- t-005
+- t-001
   global_id: t-168674
   teiginys: "Liberum veto reiškė laisvojo pasipriešinimo teisę, dėl kurios daug seimų išsiskirstydavo nieko nenuveikę."
   pagrindžia:

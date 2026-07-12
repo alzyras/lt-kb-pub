@@ -51,42 +51,42 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-166168
 
 <a id="claim-t-182752"></a>
-- t-001
+- t-002
   global_id: t-182752
   teiginys: "Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos."
   pagrindžia:
     - c-166168
 
 <a id="claim-t-182753"></a>
-- t-066
+- t-003
   global_id: t-182753
   teiginys: "Vokiečių ekspansija buvo nublokšta iki Dauguvos, į XIII a."
   pagrindžia:
     - c-166166
 
 <a id="claim-t-182754"></a>
-- t-068
+- t-004
   global_id: t-182754
   teiginys: "Spalio 5 d. Lietuvos kariuomenė dar tęsė kovas su bolševikais Dauguvos fronte."
   pagrindžia:
     - c-43388
 
 <a id="claim-t-182756"></a>
-- t-067
+- t-005
   global_id: t-182756
   teiginys: "Lietuvos kariuomenės sparnas turėjo nustumti švedus nuo Dauguvos kranto ir nublokšti juos į šiaurėje esantį pelkėtą mišką."
   pagrindžia:
     - c-166164
 
 <a id="claim-t-183007"></a>
-- t-008
+- t-006
   global_id: t-183007
   teiginys: "Treniotos ir žemaičių žygiai siekė už Dauguvos esančią Estiją, bet buvo siaubiamieji, o ne užkariaujamieji."
   pagrindžia:
     - c-166400
 
 <a id="claim-t-184385"></a>
-- t-070
+- t-007
   global_id: t-184385
   teiginys: "Ordino kariuomenė buvo užpulta prie Aizkrauklės ant Dauguvos kranto."
   pagrindžia:
@@ -121,21 +121,21 @@ Prūsuose jie pasiekdavo net Vyslą, siaubdavo Kulmo apylinkes, o už Dauguvos p
     - c-171572
 
 <a id="claim-t-192633"></a>
-- t-071
+- t-012
   global_id: t-192633
   teiginys: "Narbutas teigė, kad potvynių ir šiaurės vėjų sukelti pokyčiai labiausiai paveikė Baltijos pakrantes tarp Vyslos ir Dauguvos žiočių."
   pagrindžia:
     - c-175403
 
 <a id="claim-t-192634"></a>
-- t-072
+- t-013
   global_id: t-192634
   teiginys: "Narbutas atmetė mokslininkų nuomonę, kad gintaro kelio upė galėjusi būti Prieglius arba Vakarų Dauguva, ir rinkosi Nemuną."
   pagrindžia:
     - c-175404
 
 <a id="claim-t-192635"></a>
-- t-073
+- t-014
   global_id: t-192635
   teiginys: "Narbutas rašė, kad skandinavų Reithgothland vadintas kraštas tęsėsi nuo Nemuno žemupio dešiniosios pakrantės iki Dauguvos žemupio."
   pagrindžia:

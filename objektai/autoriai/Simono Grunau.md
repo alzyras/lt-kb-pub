@@ -29,7 +29,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 ## Teiginiai
 
 <a id="claim-t-30981"></a>
-- t-003
+- t-001
   global_id: t-30981
   teiginys: "Simonas Grunau rodyklėje nurodytas kaip kronikininkas."
   pagrindžia:
@@ -43,7 +43,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
     - c-33141
 
 <a id="claim-t-30983"></a>
-- t-001
+- t-003
   global_id: t-30983
   teiginys: "Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“."
   pagrindžia:

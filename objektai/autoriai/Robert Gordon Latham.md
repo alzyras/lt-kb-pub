@@ -16,6 +16,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+  - šeima
 amziai:
   - 'XX'
 periodo_grupes:

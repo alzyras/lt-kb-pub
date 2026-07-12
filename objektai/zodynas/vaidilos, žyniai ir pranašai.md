@@ -45,14 +45,14 @@ media_all_json: |-
     - c-82474
 
 <a id="claim-t-86495"></a>
-- t-003
+- t-002
   global_id: t-86495
   teiginys: "Lietuvos kronikos ir vietos padavimai katedros varpinę siejo su bokštu, iš kurio Lizdeika skelbdavęs pranašystes."
   pagrindžia:
     - c-82475
 
 <a id="claim-t-86496"></a>
-- t-002
+- t-003
   global_id: t-86496
   teiginys: "Prie Kreivosios pilies stovėjo apvalus plytų ir akmens bokštas, pro kurio langą žyniai ir pranašai skelbdavo pranašystes žmonėms."
   pagrindžia:

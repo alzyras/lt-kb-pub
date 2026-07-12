@@ -14,6 +14,7 @@ tags:
   - kunigas
   - popiežius
   - vieta
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'
@@ -39,14 +40,14 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
 ## Teiginiai
 
 <a id="claim-t-58612"></a>
-- t-002
+- t-001
   global_id: t-58612
   teiginys: "1302 metais Perudžoje buvo nukirsdintas plėšikas, kuris, pasak kronikos, gerbė mergelę Mariją."
   pagrindžia:
     - c-59244
 
 <a id="claim-t-58613"></a>
-- t-001
+- t-002
   global_id: t-58613
   teiginys: "1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente."
   pagrindžia:

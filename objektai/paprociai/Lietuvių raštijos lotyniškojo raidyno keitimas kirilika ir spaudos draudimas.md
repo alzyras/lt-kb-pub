@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-169867"></a>
-- t-002
+- t-001
   global_id: t-169867
   teiginys: "M. Muravjovo nurodymu pradėta drausti lietuvių raštija tradiciniu raidynu, o draudimas galiojo iki 1904 m. pavasario."
   pagrindžia:
     - c-154558
 
 <a id="claim-t-169869"></a>
-- t-001
+- t-002
   global_id: t-169869
   teiginys: "Valdžia manė, kad etninės Lietuvos kaimo mokykloms reikia dvikalbių elementorių, kuriuose lietuviški vertimai būtų užrašyti kirilika."
   pagrindžia:

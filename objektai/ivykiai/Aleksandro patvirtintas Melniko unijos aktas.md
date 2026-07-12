@@ -57,21 +57,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186786"></a>
-- t-002
+- t-001
   global_id: t-186786
   teiginys: "Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą."
   pagrindžia:
     - c-169980
 
 <a id="claim-t-186787"></a>
-- t-003
+- t-002
   global_id: t-186787
   teiginys: "Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti."
   pagrindžia:
     - c-169980
 
 <a id="claim-t-186788"></a>
-- t-001
+- t-003
   global_id: t-186788
   teiginys: "Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą."
   pagrindžia:

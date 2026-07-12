@@ -61,14 +61,14 @@ Nenurodyta
     - c-85357
 
 <a id="claim-t-89399"></a>
-- t-003
+- t-002
   global_id: t-89399
   teiginys: "Perpasakodamas Sartovicų pilies užėmimą, Dusburgietis praleido šaltinio duomenis apie Ordino brolių plėšikavimą pilyje."
   pagrindžia:
     - c-85361
 
 <a id="claim-t-89400"></a>
-- t-005
+- t-003
   global_id: t-89400
   teiginys: "Sartovicų pilį užėmę broliai pasiėmė šv. Barboros relikviją ir džiūgaudami išėjo iš rūsio."
   pagrindžia:
@@ -82,7 +82,7 @@ Nenurodyta
     - c-85359
 
 <a id="claim-t-89402"></a>
-- t-002
+- t-005
   global_id: t-89402
   teiginys: "Sartovicų pilyje surišta sena moteris broliams aiškino, kad šv. Barboros palankumas padėjo jiems pasiekti pergalę."
   pagrindžia:

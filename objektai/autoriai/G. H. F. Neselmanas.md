@@ -38,21 +38,21 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
 ## Teiginiai
 
 <a id="claim-t-60550"></a>
-- t-003
+- t-001
   global_id: t-60550
   teiginys: "G. H. F. Neselmano veikalas „Die Sprache der alten Preussen an ihren Überresten“ išleistas Berlyne 1845 m."
   pagrindžia:
     - c-61185
 
 <a id="claim-t-60552"></a>
-- t-004
+- t-002
   global_id: t-60552
   teiginys: "G. H. F. Neselmano veikalas „Thesaurus linguae prussicae“ išleistas Berlyne 1873 m."
   pagrindžia:
     - c-61184
 
 <a id="claim-t-60553"></a>
-- t-002
+- t-003
   global_id: t-60553
   teiginys: "G. H. F. Neselmano darbai „Die Sprache...“ ir „Thesaurus...“ įtraukti į prūsų kalbos paminklų bibliografiją."
   pagrindžia:

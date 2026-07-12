@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09588"></a>
-- t-003
+- t-001
   global_id: t-09588
   teiginys: "Pirmose fronto linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
   pagrindžia:
     - c-12342
 
 <a id="claim-t-09589"></a>
-- t-004
+- t-002
   global_id: t-09589
   teiginys: "Po želigovskininkų puolimo pirmose linijose kariai naktį budėdavo, o dieną miegodavo slėptuvėse."
   pagrindžia:

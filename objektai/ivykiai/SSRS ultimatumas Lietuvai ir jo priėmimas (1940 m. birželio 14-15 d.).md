@@ -54,42 +54,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45442"></a>
-- t-004
+- t-001
   global_id: t-45442
   teiginys: "1940 m. birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą."
   pagrindžia:
     - c-23202
 
 <a id="claim-t-45443"></a>
-- t-005
+- t-002
   global_id: t-45443
   teiginys: "Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:
     - c-23203
 
 <a id="claim-t-45444"></a>
-- t-006
+- t-003
   global_id: t-45444
   teiginys: "Generolai Vincas Vitkauskas ir Stasys Raštikis motyvavo, kad viena Lietuva negali rimčiau pasipriešinti sovietų karinei mašinai."
   pagrindžia:
     - c-48258
 
 <a id="claim-t-45445"></a>
-- t-001
+- t-004
   global_id: t-45445
   teiginys: "1940 m. birželio 14 d. vakare V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti papildomus sovietų dalinius ir pakeisti vyriausybę."
   pagrindžia:
     - c-23199
 
 <a id="claim-t-45446"></a>
-- t-002
+- t-005
   global_id: t-45446
   teiginys: "V. Molotovas J. Urbšiui pareiškė, kad, nepaisant Lietuvos atsakymo, SSRS kariuomenė vis tiek įžygiuos į Lietuvą."
   pagrindžia:
     - c-23200
 
 <a id="claim-t-45447"></a>
-- t-003
+- t-006
   global_id: t-45447
   teiginys: "SSRS iš anksto rengėsi invazijai į Lietuvą: kūrė ligonines ir lagerius, permetė diversines grupes, pradėjo blokadą ir puolė pasienio postus."
   pagrindžia:

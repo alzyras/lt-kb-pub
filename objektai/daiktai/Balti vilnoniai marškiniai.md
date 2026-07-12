@@ -48,28 +48,28 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 ## Teiginiai
 
 <a id="claim-t-12278"></a>
-- t-004
+- t-001
   global_id: t-12278
   teiginys: "Jogaila krikštijamiems žmonėms duodavo baltų vilnonių rūbų, kad būtų įvykdytas krikšto liturgijos reikalavimas turėti baltą rūbą."
   pagrindžia:
     - c-169762
 
 <a id="claim-t-186424"></a>
-- t-003
+- t-002
   global_id: t-186424
   teiginys: "Balti vilnoniai rūbai prie krikšto buvo dalijami ir kaip liturginis nekaltybės simbolio reikalavimas."
   pagrindžia:
     - c-169762
 
 <a id="claim-t-186425"></a>
-- t-005
+- t-003
   global_id: t-186425
   teiginys: "Per krikštą dalyti balti vilnoniai marškiniai simbolizavo nekaltąją sielą."
   pagrindžia:
     - c-169763
 
 <a id="claim-t-186426"></a>
-- t-006
+- t-004
   global_id: t-186426
   teiginys: "Jogailos vardu dalinti balti vilnoniai marškiniai skatino dalį lietuvių krikštytis vien dėl šios dovanos."
   pagrindžia:
@@ -81,6 +81,7 @@ Marškiniai buvo duodami kaip krikšto dovana ir simbolizavo nekaltąją sielą.
 - susijęs iš [[objektai/ivykiai/Lietuvos krikštas Vilniuje (1387 m.).md#claim-t-54448|Lietuvos krikštas Vilniuje (1387 m.)]]: Vilniaus gyventojai pagonys buvo pakrikštyti, o po apeigų jiems išdalyti balti lininiai marškiniai.
 - susijęs iš [[objektai/paprociai/Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų.md#claim-t-87232|Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų]]: Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.
 - susijęs iš [[objektai/zodynas/Kilimas.md#claim-t-70006|kilimas]]: `Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą.
+- susijęs iš [[objektai/asmenys/Grigoras (našlys samdinys).md#claim-t-195543|Grigoras (našlys samdinys)]]: Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių.
 - susijęs iš [[objektai/asmenys/Romanovskis.md#claim-t-191460|Romanovskis]]: 1826 m. Romanovskiui priklausiusiame Antakriaučio dvare Ukmergės apskrityje, tiesiant naują kelią prie ežero, buvo atkastas senovinis pilkapis.
 - susijęs iš [[objektai/daiktai/Kilimas.md#claim-t-08297|Kilimas]]: `Kilimas` buvo dėvimas ant pečių ir tinkamas apsisiausti nuo lietaus ar blogo oro.
 - susijęs iš [[objektai/daiktai/Vyženos.md#claim-t-08351|Vyženos]]: Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.

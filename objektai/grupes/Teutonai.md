@@ -29,7 +29,7 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
 ## Teiginiai
 
 <a id="claim-t-07849"></a>
-- t-002
+- t-001
   global_id: t-07849
   teiginys: "Teutonai pavergė pajūryje gyvenusius erulius ir kraštovardžiams pridėdavo savo žodį land."
   pagrindžia:

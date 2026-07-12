@@ -12,6 +12,7 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - valstybė
 amziai:
@@ -54,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66905"></a>
-- t-003
+- t-001
   global_id: t-66905
   teiginys: "1940 m. vasarą Sovietų Sąjunga okupavo Lietuvą ir, prievarta įvedusi tariamai demokratinį valdymą, per kelias savaites įjungė ją į SSRS sudėtį."
   pagrindžia:
@@ -68,7 +69,7 @@ Nenurodyta
     - c-66997
 
 <a id="claim-t-66907"></a>
-- t-001
+- t-003
   global_id: t-66907
   teiginys: "Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga, 1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi."
   pagrindžia:

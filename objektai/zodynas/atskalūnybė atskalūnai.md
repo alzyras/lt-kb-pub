@@ -32,28 +32,28 @@ Dusburgietis teigia, kad išgirdę tokį sprendimą, kuršiai taip įtūžo ant 
 ## Teiginiai
 
 <a id="claim-t-58806"></a>
-- t-002
+- t-001
   global_id: t-58806
   teiginys: "Dusburgietis atskalūnybių antkrytį aiškino kaip Kristaus leistą išbandymą tikėjimo ištikimybei grūdinti."
   pagrindžia:
     - c-59440
 
 <a id="claim-t-58807"></a>
-- t-003
+- t-002
   global_id: t-58807
   teiginys: "Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje."
   pagrindžia:
     - c-59438
 
 <a id="claim-t-58808"></a>
-- t-001
+- t-003
   global_id: t-58808
   teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
   pagrindžia:
     - c-59441
 
 <a id="claim-t-184001"></a>
-- t-005
+- t-004
   global_id: t-184001
   teiginys: "Petras Dusburgietis kuršius, iš užnugario užpuolusius krikščionis, pavadino tikrais atskalūnais."
   pagrindžia:

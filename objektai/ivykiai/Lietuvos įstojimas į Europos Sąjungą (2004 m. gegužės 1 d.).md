@@ -9,7 +9,7 @@ tags:
   - diplomatas
   - elekcija
   - ivykis
-  - valstybė
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75222"></a>
-- t-003
+- t-001
   global_id: t-75222
   teiginys: "Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams."
   pagrindžia:
     - c-23111
 
 <a id="claim-t-75223"></a>
-- t-004
+- t-002
   global_id: t-75223
   teiginys: "Po Lietuvos įstojimo į ES padidėjo šalies prekybos ir eksportuojamų prekių gamybos apimtys."
   pagrindžia:

@@ -44,7 +44,7 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
 ## Teiginiai
 
 <a id="claim-t-192151"></a>
-- t-003
+- t-001
   global_id: t-192151
   teiginys: "Narbutas prie sarmatų galiausiai palieka tik ginekokratuinenus ir vadina juos medų-skitų gentimi."
   pagrindžia:
@@ -58,7 +58,7 @@ Tai Narbuto perteikiamas ir pats jo paties atsargiai aiškinamas terminas; vieš
     - c-175034
 
 <a id="claim-t-192153"></a>
-- t-001
+- t-003
   global_id: t-192153
   teiginys: "Narbutas aiškina, kad Plinijus sarmatus vardija kaip amazonių karalienių valdomus ginekokratuinenus."
   pagrindžia:

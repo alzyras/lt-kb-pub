@@ -51,35 +51,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-179455"></a>
-- t-005
+- t-001
   global_id: t-179455
   teiginys: "1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę."
   pagrindžia:
     - c-05001
 
 <a id="claim-t-179456"></a>
-- t-008
+- t-002
   global_id: t-179456
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m."
   pagrindžia:
     - c-163156
 
 <a id="claim-t-179457"></a>
-- t-006
+- t-003
   global_id: t-179457
   teiginys: "Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis."
   pagrindžia:
     - c-05001
 
 <a id="claim-t-179458"></a>
-- t-009
+- t-004
   global_id: t-179458
   teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m."
   pagrindžia:
     - c-163157
 
 <a id="claim-t-179459"></a>
-- t-007
+- t-005
   global_id: t-179459
   teiginys: "Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   pagrindžia:

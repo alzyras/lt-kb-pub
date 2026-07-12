@@ -21,7 +21,6 @@ tags:
   - grupe
   - kunigas
   - ordinas
-  - privilegija
 amziai:
   - 'XVI'
   - 'XXI'
@@ -47,70 +46,70 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
 ## Teiginiai
 
 <a id="claim-t-172107"></a>
-- t-013
+- t-001
   global_id: t-172107
   teiginys: "1687 m. tėvai jėzuitai suremontuotą mūrinį namą atidavė vaistinei."
   pagrindžia:
     - c-156553
 
 <a id="claim-t-172108"></a>
-- t-014
+- t-002
   global_id: t-172108
   teiginys: "1569 m. spalio 4 d. Valerijonas Protasevičius po kolegijos įkūrimo ir jėzuitų atkvietimo fundavo bei įsteigė įvairių mokslų viešąsias mokyklas."
   pagrindžia:
     - c-156546
 
 <a id="claim-t-172109"></a>
-- t-025
+- t-003
   global_id: t-172109
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių."
   pagrindžia:
     - c-156544
 
 <a id="claim-t-172110"></a>
-- t-007
+- t-004
   global_id: t-172110
   teiginys: "1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
   pagrindžia:
     - c-156532
 
 <a id="claim-t-172112"></a>
-- t-029
+- t-005
   global_id: t-172112
   teiginys: "1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams."
   pagrindžia:
     - c-156543
 
 <a id="claim-t-172113"></a>
-- t-004
+- t-006
   global_id: t-172113
   teiginys: "Jėzuitai 1579 m. įkūrė Vilniaus universitetą, vieną svarbiausių Baroko epochos kultūros dėmenų."
   pagrindžia:
     - c-156535
 
 <a id="claim-t-172115"></a>
-- t-019
+- t-007
   global_id: t-172115
   teiginys: "Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų."
   pagrindžia:
     - c-156542
 
 <a id="claim-t-172116"></a>
-- t-022
+- t-008
   global_id: t-172116
   teiginys: "1773 m. įkurta Edukacinė komisija turėjo perimti panaikinto jėzuitų ordino švietimo sistemą."
   pagrindžia:
     - c-156548
 
 <a id="claim-t-172117"></a>
-- t-021
+- t-009
   global_id: t-172117
   teiginys: "Mikalojus Kristupas Radvila-Našlaitėlis 1575 m. perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   pagrindžia:
     - c-156537
 
 <a id="claim-t-172118"></a>
-- t-002
+- t-010
   global_id: t-172118
   teiginys: "1575 m. Mikalojus Kristupas Radvila-Našlaitėlis perkėlė Brastos spaustuvę į Vilnių ir atidavė ją besikuriančiam jėzuitų universitetui."
   pagrindžia:
@@ -124,14 +123,14 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - c-156549
 
 <a id="claim-t-172120"></a>
-- t-018
+- t-012
   global_id: t-172120
   teiginys: "Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio."
   pagrindžia:
     - c-156550
 
 <a id="claim-t-172122"></a>
-- t-012
+- t-013
   global_id: t-172122
   teiginys: "Šv. Jono bažnyčios klebonas Adomas Ancypa padavė skundą prieš ankstesniuosius tėvus jėzuitus dėl bažnyčios fundacijų."
   pagrindžia:
@@ -145,70 +144,70 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - c-156546
 
 <a id="claim-t-172120"></a>
-- t-018
+- t-015
   global_id: t-172120
   teiginys: "Karalius vyskupo Protasevičiaus funduotą ir aprūpintą jėzuitų kolegiją pakėlė iki universiteto laipsnio."
   pagrindžia:
     - c-156550
 
 <a id="claim-t-172126"></a>
-- t-028
+- t-016
   global_id: t-172126
   teiginys: "Michałas Balińskis negailestingai kritikavo jėzuitų ordino veiklą XVII-XVIII a."
   pagrindžia:
     - c-156539
 
 <a id="claim-t-172127"></a>
-- t-009
+- t-017
   global_id: t-172127
   teiginys: "Aprašydamas Vilniaus aukštosios mokyklos raidą, autorius griežtai kritikavo jėzuitų ordino veiklą XVII-XVIII a."
   pagrindžia:
     - c-156539
 
 <a id="claim-t-172128"></a>
-- t-023
+- t-018
   global_id: t-172128
   teiginys: "1687 m. jėzuitai suremontavo mūrinį namą, atidavė jį vaistinei ir pavedė vaistininkui kasmet mokėti po 140 auksinų bažnyčiai."
   pagrindžia:
     - c-156553
 
 <a id="claim-t-172129"></a>
-- t-003
+- t-019
   global_id: t-172129
   teiginys: "1569 m. jėzuitų ordino pasirodymas Lietuvoje siejamas su simboline Baroko epochos pradžia."
   pagrindžia:
     - c-156541
 
 <a id="claim-t-172130"></a>
-- t-017
+- t-020
   global_id: t-172130
   teiginys: "Iš Braunsbergo atvykusiems jėzuitams iš pradžių buvo sunku įsitvirtinti Vilniuje."
   pagrindžia:
     - c-156545
 
 <a id="claim-t-172131"></a>
-- t-005
+- t-021
   global_id: t-172131
   teiginys: "1569 m. vyskupo kvietimu į Vilnių atvykę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą."
   pagrindžia:
     - c-156551
 
 <a id="claim-t-172132"></a>
-- t-016
+- t-022
   global_id: t-172132
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių."
   pagrindžia:
     - c-156531
 
 <a id="claim-t-183822"></a>
-- t-031
+- t-023
   global_id: t-183822
   teiginys: "Vilniaus kapitula perleido Akademijos kolegijos rektoriams jėzuitams teisę siūlyti nuolatinį Šv. Jono bažnyčios vikarą."
   pagrindžia:
     - c-167207
 
 <a id="claim-t-184480"></a>
-- t-033
+- t-024
   global_id: t-184480
   teiginys: "Andrius Klingeris, jėzuitų Lietuvos provincijos viršininkas, pasirašė leidimą spausdinti pirmąją Lietuvos istorijos dalį."
   pagrindžia:
@@ -257,21 +256,21 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
     - c-171097
 
 <a id="claim-t-193094"></a>
-- t-034
+- t-031
   global_id: t-193094
   teiginys: "Be to, vienas iš didžiausių jėzuitų nuopelnų buvo tas, kad jie pirmieji susirūpino liaudimi."
   pagrindžia:
     - c-175858
 
 <a id="claim-t-193314"></a>
-- t-035
+- t-032
   global_id: t-193314
   teiginys: "1655 m., prasidėjus Rusijos ir Švedijos kariuomenių okupacijai, jėzuitai iš Vilniaus pasitraukė į Lenkiją."
   pagrindžia:
     - c-176042
 
 <a id="claim-t-194567"></a>
-- t-036
+- t-033
   global_id: t-194567
   teiginys: "IV priedas Apie aukštųjų žynių ženklus Vieno piliečio dvarininko, kurio pavardės nurodyti netu riu leidimo, privačioje bibliotekoje yra rankraštinė Bažnyčios istorija, sukompiliuota kažkokio jėzuito susidedanti iš daugy bės išrašų iš kronikų ir įvairiausių."
   pagrindžia:

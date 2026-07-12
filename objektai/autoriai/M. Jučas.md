@@ -47,7 +47,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
     - c-22159
 
 <a id="claim-t-179550"></a>
-- t-004
+- t-002
   global_id: t-179550
   teiginys: "M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką."
   pagrindžia:

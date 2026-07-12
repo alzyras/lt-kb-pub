@@ -59,14 +59,14 @@ Nenurodyta
     - c-73051
 
 <a id="claim-t-75152"></a>
-- t-003
+- t-002
   global_id: t-75152
   teiginys: "Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje."
   pagrindžia:
     - c-73051
 
 <a id="claim-t-75151"></a>
-- t-001
+- t-003
   global_id: t-75151
   teiginys: "1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių."
   pagrindžia:

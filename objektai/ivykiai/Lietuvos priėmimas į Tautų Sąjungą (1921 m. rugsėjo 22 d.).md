@@ -10,9 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - tauta
-  - valstybė
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

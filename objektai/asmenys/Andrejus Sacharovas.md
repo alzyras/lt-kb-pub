@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -39,21 +40,21 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 ## Teiginiai
 
 <a id="claim-t-75687"></a>
-- t-003
+- t-001
   global_id: t-75687
   teiginys: "Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis."
   pagrindžia:
     - c-21580
 
 <a id="claim-t-75688"></a>
-- t-001
+- t-002
   global_id: t-75688
   teiginys: "Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus."
   pagrindžia:
     - c-21578
 
 <a id="claim-t-75689"></a>
-- t-002
+- t-003
   global_id: t-75689
   teiginys: "A. Sacharovas pasirašė 45 pabaltijiečių memorandumą kartu su estais, latviais, lietuviais ir rusų disidentais."
   pagrindžia:

@@ -39,7 +39,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 ## Teiginiai
 
 <a id="claim-t-65204"></a>
-- t-003
+- t-001
   global_id: t-65204
   teiginys: "Sovietų perversmą Lietuvoje turėjo įgyvendinti prosovietinės Lietuvos komunistų partijos suorganizuoti ir „Jedinstvo“ vedami rusakalbiai darbininkai."
   pagrindžia:
@@ -53,7 +53,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     - c-42681
 
 <a id="claim-t-65206"></a>
-- t-001
+- t-003
   global_id: t-65206
   teiginys: "Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui."
   pagrindžia:

@@ -14,6 +14,7 @@ tags:
   - ivykis
   - pilis
   - tikėjimas
+  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'
@@ -54,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-31406"></a>
-- t-002
+- t-001
   global_id: t-31406
   teiginys: "1305 m. Svirtila išdavė Aukaimio pilį kryžiuočiams, kurie ją užėmė, išžudė rastus vyrus, o moteris ir vaikus paėmė į nelaisvę."
   pagrindžia:
     - c-33385
 
 <a id="claim-t-31407"></a>
-- t-001
+- t-002
   global_id: t-31407
   teiginys: "Riteriai 1302 ir 1305 m. du kartus paėmė ir sunaikino Aukaimio pilį."
   pagrindžia:

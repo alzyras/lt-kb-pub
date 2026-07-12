@@ -47,7 +47,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67248"></a>
-- t-004
+- t-001
   global_id: t-67248
   teiginys: "Kalnėnai ir žemaičiai tuos paukščius gerbia ne dėl kito priežasties, o dėl jų teikiamos linksmybės ir apsaugos."
   pagrindžia:

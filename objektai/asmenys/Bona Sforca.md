@@ -39,7 +39,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
 ## Teiginiai
 
 <a id="claim-t-173124"></a>
-- t-004
+- t-001
   global_id: t-173124
   teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
   pagrindžia:
@@ -53,7 +53,7 @@ Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų i
     - c-157464
 
 <a id="claim-t-173127"></a>
-- t-001
+- t-003
   global_id: t-173127
   teiginys: "Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia."
   pagrindžia:

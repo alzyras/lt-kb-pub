@@ -35,7 +35,11 @@ Taip pat buvo trys sidabriniai dubenys 442 ## Puslapis 459 IV KNYGA pas poną va
   pagrindžia:
     - c-83884
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00058|Motiejus Valančius]]: Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę.
+- susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
 - susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179554|Motiejus Valančius]]: Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.
+- susijęs iš [[objektai/grupes/Linartai.md#claim-t-195508|Linartai]]: Linartų pasakojimas šaltinyje siejamas su Ažytėnų muštynių ir girtavimo ratu.
+- susijęs iš [[objektai/grupes/Linartai.md#claim-t-195510|Linartai]]: Vienas Linartas, atgynęs nuo kivirčo, pritapo prie geriančios draugijos.
+- susijęs iš Ažytėnai: Ažytėnai apibūdinami kaip menka vietelė, kurioje degtinės laikais netrūko muštynių ir girtavimo.
 ## Reikšmingi paminėjimai
 
 - c-001

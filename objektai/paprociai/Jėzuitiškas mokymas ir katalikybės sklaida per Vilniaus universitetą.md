@@ -76,7 +76,7 @@ Nenurodyta
     - c-55144
 
 <a id="claim-t-54244"></a>
-- t-001
+- t-003
   global_id: t-54244
   teiginys: "Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą."
   pagrindžia:

@@ -47,7 +47,7 @@ Dusburgietis teigia, kad kai po 9 dienų priėjo Kulmenzę446, vienas karys iš 
     - c-167501
 
 <a id="claim-t-60182"></a>
-- t-001
+- t-002
   global_id: t-60182
   teiginys: "Lenkijos karys Ninerikas įsigavo į Kulmenzę ir pasižadėjo išduoti miestą sūduvių vadui Skomantui."
   pagrindžia:

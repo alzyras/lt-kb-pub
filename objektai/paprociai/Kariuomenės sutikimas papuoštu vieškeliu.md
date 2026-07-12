@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71806"></a>
-- t-008
+- t-001
   global_id: t-71806
   teiginys: "Prie Pagirių bažnytkaimio kariuomenė buvo sutikta papuoštu vieškeliu su vainikais, gėlių puokštėmis, vartais ir žmonių būriais."
   pagrindžia:
     - c-12392
 
 <a id="claim-t-71807"></a>
-- t-006
+- t-002
   global_id: t-71807
   teiginys: "Pražygiuojančiam batalionui linkėta ryžto ir sėkmės, o sutikimas tęsėsi apie penkis kilometrus."
   pagrindžia:
     - c-43162
 
 <a id="claim-t-71808"></a>
-- t-005
+- t-003
   global_id: t-71808
   teiginys: "Vieškelis buvo papuoštas kartelėmis, vainikais, gėlių puokštėmis ir vartais."
   pagrindžia:
@@ -83,7 +83,7 @@ Nenurodyta
     - c-12391
 
 <a id="claim-t-71810"></a>
-- t-007
+- t-005
   global_id: t-71810
   teiginys: "Papuoštu vieškeliu pražygiuojanti kariuomenė buvo organizuotai sutinkama apie penkis kilometrus."
   pagrindžia:

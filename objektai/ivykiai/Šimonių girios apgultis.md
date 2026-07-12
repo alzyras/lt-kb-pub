@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-39118"></a>
-- t-002
+- t-001
   global_id: t-39118
   teiginys: "Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę."
   pagrindžia:
     - c-40923
 
 <a id="claim-t-39119"></a>
-- t-001
+- t-002
   global_id: t-39119
   teiginys: "1949 m. lapkričio 1–2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje, Svėdasų valsčiuje."
   pagrindžia:

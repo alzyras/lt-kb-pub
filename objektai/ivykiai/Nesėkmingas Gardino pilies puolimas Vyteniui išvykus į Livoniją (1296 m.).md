@@ -69,7 +69,7 @@ Nenurodyta
     - c-63737
 
 <a id="claim-t-62885"></a>
-- t-001
+- t-003
   global_id: t-62885
   teiginys: "Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą."
   pagrindžia:

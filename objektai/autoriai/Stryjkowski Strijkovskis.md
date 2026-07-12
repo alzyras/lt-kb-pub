@@ -37,35 +37,35 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88005"></a>
-- t-003
+- t-001
   global_id: t-88005
   teiginys: "Strijkovskis plačiai aprašė Kęstučio gudrybes puolant Vilnių, o Kojelevičius juo sekė."
   pagrindžia:
     - c-83987
 
 <a id="claim-t-88006"></a>
-- t-001
+- t-002
   global_id: t-88006
   teiginys: "Stryjkowski savo kronikoje aiškino Šventaragio vardo kilmę."
   pagrindžia:
     - c-83988
 
 <a id="claim-t-88007"></a>
-- t-004
+- t-003
   global_id: t-88007
   teiginys: "Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui."
   pagrindžia:
     - c-83984
 
 <a id="claim-t-88008"></a>
-- t-005
+- t-004
   global_id: t-88008
   teiginys: "Strijkovskis užsiminė apie mūšį prie Sudervėlės upelio, siejamą su lietuvių sumuštų kryžiuočių kapaviete."
   pagrindžia:
     - c-83986
 
 <a id="claim-t-88009"></a>
-- t-002
+- t-005
   global_id: t-88009
   teiginys: "Strijkovskis minėjo pagonių šventyklą Antakalnyje, kurios vietoje, pagal padavimus, Goštautas pastatydino Šv. Petro bažnyčią."
   pagrindžia:

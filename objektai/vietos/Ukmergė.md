@@ -49,14 +49,14 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 ## Teiginiai
 
 <a id="claim-t-180705"></a>
-- t-036
+- t-001
   global_id: t-180705
   teiginys: "1435 m. rugsėjo 1 d. mūšis įvyko per pusantros mylios nuo Ukmergės, prie kelio į Vilnių."
   pagrindžia:
     - c-164305
 
 <a id="claim-t-180706"></a>
-- t-008
+- t-002
   global_id: t-180706
   teiginys: "Ukmergėje veikė Lietuvos vyriausybės finansiškai remta lenkų gimnazija."
   pagrindžia:
@@ -70,168 +70,168 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
     - c-164296
 
 <a id="claim-t-180708"></a>
-- t-021
+- t-004
   global_id: t-180708
   teiginys: "Kavarskas buvo nutolęs nuo Ukmergės per keturias mylias, o nuo Vilniaus per penkiolika mylių."
   pagrindžia:
     - c-164314
 
 <a id="claim-t-180709"></a>
-- t-009
+- t-005
   global_id: t-180709
   teiginys: "Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui."
   pagrindžia:
     - c-164307
 
 <a id="claim-t-180710"></a>
-- t-005
+- t-006
   global_id: t-180710
   teiginys: "Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją."
   pagrindžia:
     - c-43935
 
 <a id="claim-t-180711"></a>
-- t-002
+- t-007
   global_id: t-180711
   teiginys: "Gegužės 3 d. Panevėžio batalionas, remiamas saksų savanorių, atliko sėkmingą operaciją ir iš bolševikų išvadavo Ukmergę."
   pagrindžia:
     - c-164316
 
 <a id="claim-t-180712"></a>
-- t-017
+- t-008
   global_id: t-180712
   teiginys: "Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują."
   pagrindžia:
     - c-164299
 
 <a id="claim-t-180713"></a>
-- t-013
+- t-009
   global_id: t-180713
   teiginys: "Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi."
   pagrindžia:
     - c-164296
 
 <a id="claim-t-180714"></a>
-- t-027
+- t-010
   global_id: t-180714
   teiginys: "Ties Pabaisku prie Šventosios, netoli Ukmergės, Mykolo vadovaujama lietuvių ir lenkų kariuomenė užkirto kelią Švitrigailai."
   pagrindžia:
     - c-164302
 
 <a id="claim-t-180715"></a>
-- t-025
+- t-011
   global_id: t-180715
   teiginys: "Švitrigailos ir Livonijos magistro jungtinės pajėgos per Užnerį žygiavo į Vilkmergę, dabartinę Ukmergę."
   pagrindžia:
     - c-164313
 
 <a id="claim-t-180716"></a>
-- t-020
+- t-012
   global_id: t-180716
   teiginys: "Persekiojami priešininkai patyrė naują nesėkmę brastoje per Šventąją ties Ukmerge, kur daug jų kareivių nuskendo."
   pagrindžia:
     - c-164301
 
 <a id="claim-t-180720"></a>
-- t-004
+- t-013
   global_id: t-180720
   teiginys: "1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną."
   pagrindžia:
     - c-164297
 
 <a id="claim-t-180718"></a>
-- t-027
+- t-014
   global_id: t-180718
   teiginys: "Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją."
   pagrindžia:
     - c-164295
 
 <a id="claim-t-180719"></a>
-- t-028
+- t-015
   global_id: t-180719
   teiginys: "Kunigaikščio Mykolo pergalė prieš Švitrigailą ir Livonijos magistrą netoli Ukmergės užbaigė jų varžybas dėl Lietuvos."
   pagrindžia:
     - c-164309
 
 <a id="claim-t-180720"></a>
-- t-004
+- t-016
   global_id: t-180720
   teiginys: "1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną."
   pagrindžia:
     - c-164297
 
 <a id="claim-t-180722"></a>
-- t-018
+- t-017
   global_id: t-180722
   teiginys: "Kunigaikščio Mykolo pergalė netoli Ukmergės užbaigė Švitrigailos ir Livonijos magistro varžybas dėl Lietuvos."
   pagrindžia:
     - c-164309
 
 <a id="claim-t-180723"></a>
-- t-003
+- t-018
   global_id: t-180723
   teiginys: "Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi."
   pagrindžia:
     - c-164296
 
 <a id="claim-t-180724"></a>
-- t-016
+- t-019
   global_id: t-180724
   teiginys: "Vytautas veikė Bopartėnų, Ukmergės ir Kulvos srityse."
   pagrindžia:
     - c-164312
 
 <a id="claim-t-180720"></a>
-- t-004
+- t-020
   global_id: t-180720
   teiginys: "1919 m. gegužės 24 d. generolas Silvestras Žukauskas įsakė Kazio Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės-Daugpilio plentu ir užimti Uteną."
   pagrindžia:
     - c-164297
 
 <a id="claim-t-180726"></a>
-- t-032
+- t-021
   global_id: t-180726
   teiginys: "Jaunučiui paskirtame žemių dalinyje, be Vilniaus, buvo Ašmenos, Ukmergės ir Breslaujos sritys su pilimis."
   pagrindžia:
     - c-164307
 
 <a id="claim-t-180727"></a>
-- t-024
+- t-022
   global_id: t-180727
   teiginys: "Lenkų kultūros organizacijos rėmė Lietuvos vyriausybės finansuojamas lenkų gimnazijas Kaune, Panevėžyje ir Ukmergėje."
   pagrindžia:
     - c-164298
 
 <a id="claim-t-180729"></a>
-- t-029
+- t-023
   global_id: t-180729
   teiginys: "Ukmergėje buvo įkurta pijarų mokykla, priklausiusi jų kolegijų ir žemesniųjų mokyklų tinklui."
   pagrindžia:
     - c-164310
 
 <a id="claim-t-180730"></a>
-- t-031
+- t-024
   global_id: t-180730
   teiginys: "Vytautas veikė Ukmergės, Kulvos ir Bopartėnų srityse."
   pagrindžia:
     - c-164312
 
 <a id="claim-t-180731"></a>
-- t-001
+- t-025
   global_id: t-180731
   teiginys: "Livonijos magistro kariuomenė prisijungė prie jungtinių pajėgų, kurios Užnerio puse žygiavo į Vilkmergę (Ukmergę)."
   pagrindžia:
     - c-43930
 
 <a id="claim-t-180732"></a>
-- t-029
+- t-026
   global_id: t-180732
   teiginys: "Prie Šventosios brastos ties Ukmerge nugalėtojai persekiojo priešininką ir nuskandino daug jo kareivių."
   pagrindžia:
     - c-164301
 
 <a id="claim-t-180733"></a>
-- t-028
+- t-027
   global_id: t-180733
   teiginys: "Ukmergė minima tarp vietų, kuriose buvo įkurtos pijarų kolegijos arba žemesniosios mokyklos."
   pagrindžia:

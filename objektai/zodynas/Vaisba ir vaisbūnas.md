@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-06181"></a>
-- t-004
+- t-001
   global_id: t-06181
   teiginys: "Žodis „vaisbūnas“ reiškia pirklį."
   pagrindžia:
     - c-00296
 
 <a id="claim-t-06182"></a>
-- t-003
+- t-002
   global_id: t-06182
   teiginys: "Žodis „vaisba“ reiškia prekybą."
   pagrindžia:

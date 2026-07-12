@@ -11,6 +11,7 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - reforma
 amziai:
   - 'XX'
@@ -79,7 +80,7 @@ Nenurodyta
     - c-26866
 
 <a id="claim-t-23320"></a>
-- t-003
+- t-004
   global_id: t-23320
   teiginys: "III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką."
   pagrindžia:

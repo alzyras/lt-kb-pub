@@ -35,14 +35,14 @@ Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Da
 ## Teiginiai
 
 <a id="claim-t-191338"></a>
-- t-002
+- t-001
   global_id: t-191338
   teiginys: "Narbutas rašo, kad imperatorius Aurelianas Klaudijus apie 269 m. prie Naisos Dardanijoje įveikė ir išvijo gotų kariuomenę."
   pagrindžia:
     - c-174220
 
 <a id="claim-t-194911"></a>
-- t-003
+- t-002
   global_id: t-194911
   teiginys: "Paskui pamažu, valdant imperatoriui Klaudijui, apie 50 metus po Kristaus gimimo, užėmė žemupius, kuriais vingiavo Tisos upė, ir nugalėjo tenykščius gyventojus slavus, užimdami daug jų miestų."
   pagrindžia:

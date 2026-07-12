@@ -38,7 +38,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-36552"></a>
-- t-003
+- t-001
   global_id: t-36552
   teiginys: "Jogailos pasiuntinys rado Vytautą Rittersverderyje rengiantį tolesnių žygių planus."
   pagrindžia:
@@ -52,7 +52,7 @@ media_all_json: |-
     - c-38629
 
 <a id="claim-t-36554"></a>
-- t-001
+- t-003
   global_id: t-36554
   teiginys: "Jogailos pasiuntinys Henrikas buvo nusiųstas į Rittersverderį pas Vytautą."
   pagrindžia:

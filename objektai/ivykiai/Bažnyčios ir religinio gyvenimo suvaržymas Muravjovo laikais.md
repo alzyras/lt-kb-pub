@@ -48,28 +48,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66488"></a>
-- t-002
+- t-001
   global_id: t-66488
   teiginys: "Muravjovo laikais buvo uždarytos 32 su sukilimu sietos bažnyčios, 52 koplyčios ir apie 20 vienuolynų."
   pagrindžia:
     - c-66705
 
 <a id="claim-t-66489"></a>
-- t-001
+- t-002
   global_id: t-66489
   teiginys: "Muravjovo laikais buvo uždrausta statyti naujas ir remontuoti senas bažnyčias, rengti procesijas ir viešai sakyti pamokslus."
   pagrindžia:
     - c-66703
 
 <a id="claim-t-66490"></a>
-- t-004
+- t-003
   global_id: t-66490
   teiginys: "Muravjovo laikais Žemaičių vyskupui su įstaigomis buvo įsakyta persikelti iš Varnių į Kauną."
   pagrindžia:
     - c-66706
 
 <a id="claim-t-66492"></a>
-- t-003
+- t-004
   global_id: t-66492
   teiginys: "Muravjovo laikais Lietuvos kaimuose ir pakelėse kryžius buvo uždrausta statyti be leidimo."
   pagrindžia:

@@ -42,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88212"></a>
-- t-003
+- t-001
   global_id: t-88212
   teiginys: "1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse."
   pagrindžia:
@@ -56,14 +56,14 @@ media_all_json: |-
     - c-84194
 
 <a id="claim-t-88214"></a>
-- t-004
+- t-003
   global_id: t-88214
   teiginys: "1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę."
   pagrindžia:
     - c-84192
 
 <a id="claim-t-88215"></a>
-- t-001
+- t-004
   global_id: t-88215
   teiginys: "1407 m. Vilniuje rašyta Vytauto privilegija Vilniaus kapitulai Liubarų kaimą suteikė mainais už anksčiau dovanotą Jaryničių kaimą."
   pagrindžia:

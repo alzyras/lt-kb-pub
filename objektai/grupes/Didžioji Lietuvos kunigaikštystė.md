@@ -33,14 +33,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-96094"></a>
-- t-004
+- t-001
   global_id: t-96094
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
   pagrindžia:
     - c-90814
 
 <a id="claim-t-96095"></a>
-- t-001
+- t-002
   global_id: t-96095
   teiginys: "Ivinskio vertinimu, Didžioji Lietuvos kunigaikštystė Jogailos laikais ilgiau nebegalėjo būti valdoma pagonio."
   pagrindžia:
@@ -48,14 +48,14 @@ media_all_json: |-
     - c-90813
 
 <a id="claim-t-96096"></a>
-- t-002
+- t-003
   global_id: t-96096
   teiginys: "Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę."
   pagrindžia:
     - c-90816
 
 <a id="claim-t-193088"></a>
-- t-005
+- t-004
   global_id: t-193088
   teiginys: "Lietuviams reikalaujant, Lietuvai buvo paliktas nepaliestas visas valdžios aparatas (.. 10 ir 17)."
   pagrindžia:

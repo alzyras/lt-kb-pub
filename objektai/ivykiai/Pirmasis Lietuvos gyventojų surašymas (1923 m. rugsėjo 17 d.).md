@@ -9,7 +9,8 @@ date_start: '1923'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["politinis-sprendimas"]
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -55,7 +55,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67251"></a>
-- t-002
+- t-001
   global_id: t-67251
   teiginys: "Lasickis rašė, kad 1564 m. žemaičiai savo namuose kepė sėtinius ir laikė juos dideliu skanėstu."
   pagrindžia:

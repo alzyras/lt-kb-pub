@@ -34,35 +34,35 @@ Per žygį prieš skitus Darijus buvo priverstas sparčiai pereiti Skitiją ir k
     - c-174006
 
 <a id="claim-t-191126"></a>
-- t-003
+- t-002
   global_id: t-191126
   teiginys: "Iki Darijaus žygio prieš Skitiją gelonai, Narbuto teigimu, jau seniai gyveno tarp budinų, buvo su jais susilieję ir sudarė vieną tautą."
   pagrindžia:
     - c-174008
 
 <a id="claim-t-191127"></a>
-- t-004
+- t-003
   global_id: t-191127
   teiginys: "Skitų karaliaus Indatiro vadovaujama kariuomenė karo metu kovojo su Darijumi."
   pagrindžia:
     - c-174009
 
 <a id="claim-t-191129"></a>
-- t-006
+- t-004
   global_id: t-191129
   teiginys: "Narbutas manė, kad skitų žemdirbiai koloniją prie Dnepro įkūrė dar prieš Darijaus puolimą prieš Skitiją V a. pr. Kr. pradžioje."
   pagrindžia:
     - c-174011
 
 <a id="claim-t-191944"></a>
-- t-007
+- t-005
   global_id: t-191944
   teiginys: "Narbutas Darijaus nesėkmingam žygiui priskyrė didelę įtaką Skitijos vidaus gyvenimui ir jos artėjimui prie žlugimo."
   pagrindžia:
     - c-174826
 
 <a id="claim-t-191945"></a>
-- t-008
+- t-006
   global_id: t-191945
   teiginys: "Narbutas rašė, kad Darijaus amžiuje gelonų-budinų krašte žemdirbystė buvo aukšto lygio ir skatino graikų prekybą grūdais Juodojoje jūroje."
   pagrindžia:

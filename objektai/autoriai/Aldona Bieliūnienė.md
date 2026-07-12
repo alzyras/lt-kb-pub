@@ -40,21 +40,21 @@ Bieliūnienė ir kiti. Parengė Aldona Bieliūnienė ir kiti.
 ## Teiginiai
 
 <a id="claim-t-64534"></a>
-- t-002
+- t-001
   global_id: t-64534
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
   pagrindžia:
     - c-65249
 
 <a id="claim-t-183340"></a>
-- t-003
+- t-002
   global_id: t-183340
   teiginys: "Aldona Bieliūnienė buvo viena iš 2011 m. antrojo papildyto leidinio „Lietuva žemėlapiuose“ sudarytojų."
   pagrindžia:
     - c-166730
 
 <a id="claim-t-183341"></a>
-- t-004
+- t-003
   global_id: t-183341
   teiginys: "Aldona Bieliūnienė ir kiti parengė 1999 m. Vilniuje vykusios parodos „Lietuva žemėlapiuose“ katalogą."
   pagrindžia:

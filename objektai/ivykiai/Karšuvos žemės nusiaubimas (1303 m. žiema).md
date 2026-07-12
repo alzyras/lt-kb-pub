@@ -58,14 +58,14 @@ Nenurodyta
     - c-63636
 
 <a id="claim-t-62821"></a>
-- t-001
+- t-002
   global_id: t-62821
   teiginys: "1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus."
   pagrindžia:
     - c-63636
 
 <a id="claim-t-194393"></a>
-- t-004
+- t-003
   global_id: t-194393
   teiginys: "Apie Karšuvos žemės nusiaubimą Tų 1303 metų žiemą555 brolis Konradas, magistras, su didžiule kariuomene įsiveržė į Karšuvos žemę; kadangi vedliai žygio metu išsimušė iš kelio, netikėliai suskubo pabėgti į saugias vietas."
   pagrindžia:

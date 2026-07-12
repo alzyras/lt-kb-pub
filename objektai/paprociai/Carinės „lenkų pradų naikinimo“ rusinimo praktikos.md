@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67064"></a>
-- t-003
+- t-001
   global_id: t-67064
   teiginys: "Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos."
   pagrindžia:
     - c-67113
 
 <a id="claim-t-67066"></a>
-- t-001
+- t-002
   global_id: t-67066
   teiginys: "Lenkų pradų naikinimo politika naikino kraštą nuo Rusijos skyrusias institucijas ir ribojo lenkų kalbą administracijoje."
   pagrindžia:

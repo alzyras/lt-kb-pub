@@ -44,21 +44,21 @@ Terminas šiame gabale aiškiai aiškinamas, bet registryje jau yra platesni su 
 ## Teiginiai
 
 <a id="claim-t-192329"></a>
-- t-003
+- t-001
   global_id: t-192329
   teiginys: "Narbutas nurodo, kad lietuvių kalboje žodis „Kiniglis“ reiškia triušį."
   pagrindžia:
     - c-175130
 
 <a id="claim-t-192330"></a>
-- t-001
+- t-002
   global_id: t-192330
   teiginys: "Narbutas „Kiniglis“ mini kaip senojo lenkų herbo pavadinimą, kuriame matė lietuvių kalbai būdingų elementų."
   pagrindžia:
     - c-175130
 
 <a id="claim-t-192331"></a>
-- t-002
+- t-003
   global_id: t-192331
   teiginys: "Narbutas aiškina, kad „Paparona“ arba „Kiniglis“ reiškia ne kiškį, kaip rašyta „Herbyne“, o triušį."
   pagrindžia:

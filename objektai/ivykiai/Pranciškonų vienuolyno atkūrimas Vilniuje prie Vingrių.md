@@ -45,21 +45,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186571"></a>
-- t-002
+- t-001
   global_id: t-186571
   teiginys: "Lietuvos metraštis pasakoja, kad Petras Goštautas pranciškonams įkūrė vienuolyną Smėlynėje prie Vingrių."
   pagrindžia:
     - c-169882
 
 <a id="claim-t-186572"></a>
-- t-003
+- t-002
   global_id: t-186572
   teiginys: "Lietuvos metraštis šį vienuolyną pateikia kaip pirmą krikščionišką Romos tikėjimo vienuolyną Vilniuje."
   pagrindžia:
     - c-169882
 
 <a id="claim-t-186573"></a>
-- t-001
+- t-003
   global_id: t-186573
   teiginys: "Lietuvos metraštis pasakoja, kad po pranciškonų nužudymo Petras Goštautas atsivedė į Vilnių kitus pranciškonus."
   pagrindžia:

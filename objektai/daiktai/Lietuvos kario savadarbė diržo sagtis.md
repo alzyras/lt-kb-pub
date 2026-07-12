@@ -56,21 +56,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-78668"></a>
-- t-003
+- t-001
   global_id: t-78668
   teiginys: "Pirmaisiais mėnesiais besikurianti Lietuvos kariuomenė nepajėgė pirmųjų savanorių aprūpinti ginklais, uniformomis ir ekipuote."
   pagrindžia:
     - c-75882
 
 <a id="claim-t-78669"></a>
-- t-001
+- t-002
   global_id: t-78669
   teiginys: "Lietuvos kario savadarbė diržo sagtis siejosi su pirmaisiais Lietuvos kariuomenės mėnesiais, kai savanoriams trūko ekipuotės."
   pagrindžia:
     - c-75882
 
 <a id="claim-t-78670"></a>
-- t-002
+- t-003
   global_id: t-78670
   teiginys: "Lietuvos kariai prie vokiškų sagčių pritvirtindavo Vytį, uždengdami imperijos karūną ir šūkį „GOT MIT UNS“."
   pagrindžia:

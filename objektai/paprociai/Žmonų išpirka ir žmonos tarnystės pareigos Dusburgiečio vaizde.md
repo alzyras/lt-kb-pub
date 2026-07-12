@@ -9,6 +9,7 @@ tags:
   - kraštas
   - paprotys
   - pinigai
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +60,7 @@ Nenurodyta
     - c-63499
 
 <a id="claim-t-62732"></a>
-- t-003
+- t-002
   global_id: t-62732
   teiginys: "Komentare teigiama, kad Dusburgietis veikiausiai supainiojo nelaisvos šeimynos moters padėtį su žmonos kaip gyvenimo draugės padėtimi."
   pagrindžia:

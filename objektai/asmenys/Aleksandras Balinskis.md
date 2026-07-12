@@ -88,14 +88,14 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
     - c-157453
 
 <a id="claim-t-173117"></a>
-- t-007
+- t-005
   global_id: t-173117
   teiginys: "Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo."
   pagrindžia:
     - c-157455
 
 <a id="claim-t-173118"></a>
-- t-008
+- t-006
   global_id: t-173118
   teiginys: "Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro."
   pagrindžia:

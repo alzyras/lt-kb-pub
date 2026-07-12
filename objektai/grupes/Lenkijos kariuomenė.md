@@ -50,28 +50,28 @@ Lietuvai paprašius Antantės demarkuoti liniją tarp Lenkijos ir Lietuvos kariu
     - c-22506
 
 <a id="claim-t-78202"></a>
-- t-004
+- t-002
   global_id: t-78202
   teiginys: "Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis."
   pagrindžia:
     - c-42794
 
 <a id="claim-t-78204"></a>
-- t-005
+- t-003
   global_id: t-78204
   teiginys: "Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei."
   pagrindžia:
     - c-75498
 
 <a id="claim-t-78205"></a>
-- t-002
+- t-004
   global_id: t-78205
   teiginys: "Pagal Juzefą Pilsudskį Vilnių užėmė ne Lenkijos kariuomenė, o Lucjano Żeligowskio vadovaujami Vilnijos daliniai."
   pagrindžia:
     - c-22507
 
 <a id="claim-t-193548"></a>
-- t-006
+- t-005
   global_id: t-193548
   teiginys: "Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi Maskvoje..."
   pagrindžia:

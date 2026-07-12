@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - ordinas
-  - privilegija
   - vieta
 amziai:
   - 'XV'

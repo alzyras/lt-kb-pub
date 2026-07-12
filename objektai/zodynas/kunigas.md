@@ -38,14 +38,14 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 ## Teiginiai
 
 <a id="claim-t-32787"></a>
-- t-002
+- t-001
   global_id: t-32787
   teiginys: "Wulfstanas pažymėjo socialinius skirtumus, nes aisčių kunigai ir turtingieji gėrė kumelių pieną."
   pagrindžia:
     - c-34161
 
 <a id="claim-t-32788"></a>
-- t-001
+- t-002
   global_id: t-32788
   teiginys: "XII-XIII a. kunigų įrengtos pilys, anksčiau naudotos tarpusavio vaidams, ėmė tarnauti gynybai nuo išorinių priešų."
   pagrindžia:
@@ -221,6 +221,7 @@ Tokio tipo pilys, dažnai atskirų sričių vyresniųjų-kilmingųjų, ar «kuni
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189258|Vylius Wilius]]: Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).
 - susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58814|krivis krivė krivaitis]]: Krivis arba krivaitis aiškinamas kaip luominis vyriausiojo žynio vardas.
 - susijęs iš [[objektai/zodynas/Žalčių karalius.md#claim-t-189349|Žalčių karalius]]: Narbutas, remdamasis L. A. Jucevičiumi, pasakoja, kad uždegus iš žalčio taukų pagamintą žvakę atvykdavęs žalčių karalius su roplių svita.
+- susijęs iš [[objektai/asmenys/Juška (kaimo daraktorius).md#claim-t-195259|Juška (kaimo daraktorius)]]: Juškos tikrasis darbas buvo žiemomis mokyti vaikus, už kiekvieną vaiką imant po griviną per savaitę ir gaunant maistą.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šventosios Trejybės prieglaudai plėsti ketinta supirkti Šv. Dvasios bažnyčios namelius ir du namelius priešais bažnyčią.
 - susijęs iš Šv. Dvasios bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš [[objektai/zodynas/Krirsae.md#claim-t-192259|Krirsae]]: Narbutas nurodo, kad Tatiščevas krivičių pavadinimą kildino iš sarmatų žodžio „Krirsae“, reiškiančio šaltinį.

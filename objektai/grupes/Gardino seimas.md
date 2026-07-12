@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
   - seimas
-  - sutartis
 amziai:
   - 'XVIII'
 media_total_count: '0'
@@ -39,35 +39,35 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 ## Teiginiai
 
 <a id="claim-t-72073"></a>
-- t-004
+- t-001
   global_id: t-72073
   teiginys: "Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti."
   pagrindžia:
     - c-46280
 
 <a id="claim-t-72074"></a>
-- t-003
+- t-002
   global_id: t-72074
   teiginys: "Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos."
   pagrindžia:
     - c-46281
 
 <a id="claim-t-72075"></a>
-- t-002
+- t-003
   global_id: t-72075
   teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti tvarką, buvusią po pirmojo Respublikos padalijimo."
   pagrindžia:
     - c-70499
 
 <a id="claim-t-72076"></a>
-- t-005
+- t-004
   global_id: t-72076
   teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką."
   pagrindžia:
     - c-70499
 
 <a id="claim-t-72077"></a>
-- t-001
+- t-005
   global_id: t-72077
   teiginys: "Gardino seimas buvo sušauktas patvirtinti Respublikos padalijimą ir sudaryti naują taikos sutartį su apkarpyta valstybe."
   pagrindžia:

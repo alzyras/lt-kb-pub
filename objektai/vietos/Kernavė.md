@@ -44,91 +44,91 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 ## Teiginiai
 
 <a id="claim-t-173444"></a>
-- t-014
+- t-001
   global_id: t-173444
   teiginys: "Persekiojami kryžiuočiai pasiekė Papartėnus, buvusius netoli Kernavės."
   pagrindžia:
     - c-157751
 
 <a id="claim-t-173445"></a>
-- t-013
+- t-002
   global_id: t-173445
   teiginys: "Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą."
   pagrindžia:
     - c-157744
 
 <a id="claim-t-173446"></a>
-- t-001
+- t-003
   global_id: t-173446
   teiginys: "H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę."
   pagrindžia:
     - c-32122
 
 <a id="claim-t-173447"></a>
-- t-017
+- t-004
   global_id: t-173447
   teiginys: "Paplitusi versija Lietuvos vardą kildina iš Lietaukos upelio, įtekančio į Nerį netoli Kernavės."
   pagrindžia:
     - c-157750
 
 <a id="claim-t-173449"></a>
-- t-009
+- t-005
   global_id: t-173449
   teiginys: "Iš Žemutinės pilies vedęs kelias prie kelto per Viliją šakojosi į Kernavę, senąją Lietuvos sostinę, ir Ukmergės pilį."
   pagrindžia:
     - c-157754
 
 <a id="claim-t-173446"></a>
-- t-001
+- t-006
   global_id: t-173446
   teiginys: "H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę."
   pagrindžia:
     - c-32122
 
 <a id="claim-t-173452"></a>
-- t-002
+- t-007
   global_id: t-173452
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija Trakų pilies įkūrimo vietą nurodė už 5 mylių nuo Kernavės."
   pagrindžia:
     - c-157747
 
 <a id="claim-t-173453"></a>
-- t-010
+- t-008
   global_id: t-173453
   teiginys: "Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą."
   pagrindžia:
     - c-157744
 
 <a id="claim-t-173454"></a>
-- t-011
+- t-009
   global_id: t-173454
   teiginys: "Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio."
   pagrindžia:
     - c-157748
 
 <a id="claim-t-173455"></a>
-- t-015
+- t-010
   global_id: t-173455
   teiginys: "XVI a. plačioji Lietuvos metraščio redakcija nurodė, kad Trakų pilis įkurta už penkių mylių nuo Kernavės."
   pagrindžia:
     - c-157755
 
 <a id="claim-t-184982"></a>
-- t-018
+- t-011
   global_id: t-184982
   teiginys: "Kernavė buvo įkurta prie upės kranto kaip nausėdija ir pilis, kadaise buvusi Lietuvos sostinė."
   pagrindžia:
     - c-168343
 
 <a id="claim-t-184983"></a>
-- t-019
+- t-012
   global_id: t-184983
   teiginys: "Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę."
   pagrindžia:
     - c-168344
 
 <a id="claim-t-184984"></a>
-- t-020
+- t-013
   global_id: t-184984
   teiginys: "Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio."
   pagrindžia:

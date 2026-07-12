@@ -36,7 +36,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
 ## Teiginiai
 
 <a id="claim-t-70006"></a>
-- t-003
+- t-001
   global_id: t-70006
   teiginys: "`Kilimas` šiame tekste reiškia moterų išeiginę vilnonę skarą."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
     - c-09690
 
 <a id="claim-t-70007"></a>
-- t-004
+- t-002
   global_id: t-70007
   teiginys: "Kilimas buvo moterų išeiginis drabužis, dar vadintas sage arba sagše nuo žodžio „segti“."
   pagrindžia:

@@ -32,21 +32,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-80579"></a>
-- t-003
+- t-001
   global_id: t-80579
   teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius."
   pagrindžia:
     - c-77300
 
 <a id="claim-t-80580"></a>
-- t-001
+- t-002
   global_id: t-80580
   teiginys: "Lemiamų kovų su bolševikais įkarštyje Šiaurės Lietuvoje ir Latvijoje susitelkė naujas Lietuvos ir kitų Baltijos valstybių priešas – bermontininkai."
   pagrindžia:
     - c-77298
 
 <a id="claim-t-80581"></a>
-- t-002
+- t-003
   global_id: t-80581
   teiginys: "Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius."
   pagrindžia:

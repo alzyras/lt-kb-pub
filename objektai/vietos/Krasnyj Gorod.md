@@ -29,14 +29,14 @@ Vytautas paėmė Pskovo miestą Krasnyj Gorod. Komentare Krasnyj gorod tapatinam
 ## Teiginiai
 
 <a id="claim-t-187241"></a>
-- t-002
+- t-001
   global_id: t-187241
   teiginys: "Krasnyj Gorod tapatinamas su Krasnogorodskoje, esančiu 30 km į šiaurės vakarus nuo Opočkos."
   pagrindžia:
     - c-170304
 
 <a id="claim-t-187242"></a>
-- t-001
+- t-002
   global_id: t-187242
   teiginys: "Komentare Krasnyj gorod tapatinamas su Krasnogorodskoje."
   pagrindžia:

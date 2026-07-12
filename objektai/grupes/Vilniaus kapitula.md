@@ -43,245 +43,245 @@ pavyzdžiui, 1570 m. iš 9 Vilniaus kapitulos kanauninkų vos vienas tebuvo su �
 ## Teiginiai
 
 <a id="claim-t-176071"></a>
-- t-034
+- t-001
   global_id: t-176071
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 m. nuomojo iš Vilniaus kapitulos Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   pagrindžia:
     - c-160136
 
 <a id="claim-t-176072"></a>
-- t-005
+- t-002
   global_id: t-176072
   teiginys: "Vilniaus kapitula gavo teisę imti kas dešimtą sugautą žuvį karaliaus tvenkiniuose Vilijos upėje."
   pagrindžia:
     - c-160146
 
 <a id="claim-t-176074"></a>
-- t-028
+- t-003
   global_id: t-176074
   teiginys: "Vilniaus kapitula pasirinko karūnas savo kolegijos herbu, norėdama prilygti Krokuvos kapitulai."
   pagrindžia:
     - c-160147
 
 <a id="claim-t-176075"></a>
-- t-021
+- t-004
   global_id: t-176075
   teiginys: "Filipovo namo činšas mokėtas vienuolika metų, o jam nutrūkus Vilniaus kapitula pradėjo teismo procesą su kunigaikščiu Kristupu."
   pagrindžia:
     - c-160157
 
 <a id="claim-t-176076"></a>
-- t-035
+- t-005
   global_id: t-176076
   teiginys: "Vilniaus tarėjai reikalavo, kad miestas būtų atleistas nuo, jų teigimu, naujai kapitulos pasisavintos jurisdikcijos."
   pagrindžia:
     - c-160158
 
 <a id="claim-t-176077"></a>
-- t-004
+- t-006
   global_id: t-176077
   teiginys: "Katedra ir Vilniaus kapitula iš Vladislovo Jogailos paveldėjimo teise gavo Panerius ir kitų mažesnių pajamų."
   pagrindžia:
     - c-160130
 
 <a id="claim-t-176078"></a>
-- t-024
+- t-007
   global_id: t-176078
   teiginys: "Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija savo asmenų ir valdinių bylose."
   pagrindžia:
     - c-160162
 
 <a id="claim-t-176079"></a>
-- t-016
+- t-008
   global_id: t-176079
   teiginys: "Kapitulos pastangų paskatintas Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pakvietė į Vilnių jėzuitus."
   pagrindžia:
     - c-160150
 
 <a id="claim-t-176080"></a>
-- t-026
+- t-009
   global_id: t-176080
   teiginys: "Vladislovas Jogaila paveldėjimo teise perdavė katedrai ir Vilniaus kapitulai Panerius bei kitas mažesnes pajamas."
   pagrindžia:
     - c-160130
 
 <a id="claim-t-176081"></a>
-- t-009
+- t-010
   global_id: t-176081
   teiginys: "Dinaburgo komtūro pranešime minėtas Vilniaus miesto, kapitulos ir pilies gaisras."
   pagrindžia:
     - c-160139
 
 <a id="claim-t-176082"></a>
-- t-027
+- t-011
   global_id: t-176082
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti Šv. Jono bažnyčios vikarus ir ją perleido Akademijos kolegijos rektoriams jėzuitams."
   pagrindžia:
     - c-160153
 
 <a id="claim-t-176087"></a>
-- t-017
+- t-012
   global_id: t-176087
   teiginys: "Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams."
   pagrindžia:
     - c-160137
 
 <a id="claim-t-176084"></a>
-- t-036
+- t-013
   global_id: t-176084
   teiginys: "Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausta naudoti plaustus per Vilijos upę."
   pagrindžia:
     - c-160131
 
 <a id="claim-t-176085"></a>
-- t-041
+- t-014
   global_id: t-176085
   teiginys: "1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies."
   pagrindžia:
     - c-160143
 
 <a id="claim-t-176086"></a>
-- t-029
+- t-015
   global_id: t-176086
   teiginys: "Vilniaus kapitulos archyve buvo vyskupo sutartis su mūrijimo meistru Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus."
   pagrindžia:
     - c-160140
 
 <a id="claim-t-176087"></a>
-- t-017
+- t-016
   global_id: t-176087
   teiginys: "Po Vilniaus sufragano Albino mirties Vilniaus kapitula jo biblioteką atidavė jėzuitams."
   pagrindžia:
     - c-160137
 
 <a id="claim-t-176088"></a>
-- t-007
+- t-017
   global_id: t-176088
   teiginys: "Vytautas dosniai dalijo vis didesnes dovanas Vilniaus vyskupui ir Vilniaus kapitulai."
   pagrindžia:
     - c-160129
 
 <a id="claim-t-176089"></a>
-- t-012
+- t-018
   global_id: t-176089
   teiginys: "1631 m. Vilniaus kapitula kunigui Pilypui Frizijui davė 4000 auksinų."
   pagrindžia:
     - c-160132
 
 <a id="claim-t-176090"></a>
-- t-039
+- t-019
   global_id: t-176090
   teiginys: "Dinaburgo komtūro pranešime Livonijos magistrui minėtas Vilniaus miesto, Vilniaus kapitulos ir pilies gaisras bei Vytauto patirti nuostoliai."
   pagrindžia:
     - c-160139
 
 <a id="claim-t-176092"></a>
-- t-023
+- t-020
   global_id: t-176092
   teiginys: "Vilniaus kapitulos prelatai ir kanauninkai teigė, kad naudojosi sena vyskupų ir Apaštalų Sosto patvirtinta jurisdikcija."
   pagrindžia:
     - c-160158
 
 <a id="claim-t-176093"></a>
-- t-042
+- t-021
   global_id: t-176093
   teiginys: "1571 m. bado sukeltos epidemijos metu iš Vilniaus pasitraukė turtingiausi gyventojai, kapitula ir jėzuitai."
   pagrindžia:
     - c-160138
 
 <a id="claim-t-176094"></a>
-- t-008
+- t-022
   global_id: t-176094
   teiginys: "Vilniaus kapitulos archyve buvo išlikusios keturios Vytauto privilegijos."
   pagrindžia:
     - c-160129
 
 <a id="claim-t-176095"></a>
-- t-025
+- t-023
   global_id: t-176095
   teiginys: "Tarp Verkių ir Panerių, priklausiusių Vilniaus bažnyčios kapitulai, buvo uždrausti perkėlimai plaustais per Viliją."
   pagrindžia:
     - c-160131
 
 <a id="claim-t-176096"></a>
-- t-015
+- t-024
   global_id: t-176096
   teiginys: "Kapitula ragino vyskupą imtis priemonių, kai sostinėje pasklido kitatikystė."
   pagrindžia:
     - c-160133
 
 <a id="claim-t-176097"></a>
-- t-033
+- t-025
   global_id: t-176097
   teiginys: "Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir sumažėjusias pajamas, uždraudė kolegijoje dėstyti pradinius mokslus."
   pagrindžia:
     - c-160160
 
 <a id="claim-t-176098"></a>
-- t-040
+- t-026
   global_id: t-176098
   teiginys: "1631 m. Vilniaus kapitula 4000 auksinų perdavė kunigui Pilypui Frizijui, o šis padidintą sumą atidavė Vilniaus kahalui."
   pagrindžia:
     - c-160132
 
 <a id="claim-t-176099"></a>
-- t-030
+- t-027
   global_id: t-176099
   teiginys: "Vilniaus kapitula, sužinojusi apie sostinėje plintančią kitatikystę, ragino vyskupą imtis priemonių."
   pagrindžia:
     - c-160133
 
 <a id="claim-t-176100"></a>
-- t-013
+- t-028
   global_id: t-176100
   teiginys: "Vilniaus kapitula savo kolegijos herbu pasirinko tas pačias karūnas kaip Krokuvos kapitula."
   pagrindžia:
     - c-160147
 
 <a id="claim-t-176101"></a>
-- t-011
+- t-029
   global_id: t-176101
   teiginys: "Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises."
   pagrindžia:
     - c-160161
 
 <a id="claim-t-176102"></a>
-- t-020
+- t-030
   global_id: t-176102
   teiginys: "Mikalojus Radvila Juodasis nuo 1541 m. iš Vilniaus kapitulos nuomojo Filipovo namą ir kasmet mokėjo po 20 kapų lietuviškų grašių."
   pagrindžia:
     - c-160136
 
 <a id="claim-t-176103"></a>
-- t-038
+- t-031
   global_id: t-176103
   teiginys: "Vilniaus kapitulos archyve buvo išlikusios keturios privilegijos, liudijusios didžiojo kunigaikščio dovanas vyskupui ir kapitulai."
   pagrindžia:
     - c-160129
 
 <a id="claim-t-176104"></a>
-- t-037
+- t-032
   global_id: t-176104
   teiginys: "Vilniaus bažnyčios prelatai ir kanauninkai buvo raginami laisvai skirti dalį savo beneficijų klierikų kolegijai."
   pagrindžia:
     - c-160134
 
 <a id="claim-t-176105"></a>
-- t-031
+- t-033
   global_id: t-176105
   teiginys: "Vilniaus vyskupas Valerijonas Protasevičius, paskatintas kapitulos pastangų, 1569 m. pakvietė į Vilnių jėzuitų ordiną."
   pagrindžia:
     - c-160150
 
 <a id="claim-t-176106"></a>
-- t-018
+- t-034
   global_id: t-176106
   teiginys: "Vilniaus kapitula, siekdama išsaugoti Katedros mokyklą ir sumažėjusias pajamas, uždraudė jėzuitų kolegijoje dėstyti pradinius mokslus."
   pagrindžia:
     - c-160160
 
 <a id="claim-t-176107"></a>
-- t-010
+- t-035
   global_id: t-176107
   teiginys: "1581 m. birželio 9 d. Vilniaus kapitula atsisakė teisės siūlyti vikarus ir perleido ją Akademijos kolegijos rektoriams jėzuitams."
   pagrindžia:

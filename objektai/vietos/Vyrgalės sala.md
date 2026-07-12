@@ -39,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-50552"></a>
-- t-002
+- t-001
   global_id: t-50552
   teiginys: "Kęstutis statydino Naująjį Kauną Vyrgalės saloje ir tiltą per Nemuną, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių gynybą."
   pagrindžia:
     - c-44047
 
 <a id="claim-t-50553"></a>
-- t-001
+- t-002
   global_id: t-50553
   teiginys: "Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
   pagrindžia:

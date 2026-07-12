@@ -44,14 +44,14 @@ formuluotė labai glausta ir vietomis neaiški, todėl reikšmę reikia atriboti
 ## Teiginiai
 
 <a id="claim-t-192214"></a>
-- t-002
+- t-001
   global_id: t-192214
   teiginys: "Narbutas nurodo, kad vėlesniais laikais Lietuvoje Bortiku vadinti artileristai."
   pagrindžia:
     - c-175070
 
 <a id="claim-t-192215"></a>
-- t-001
+- t-002
   global_id: t-192215
   teiginys: "Narbutas Bortiką aiškina kaip vyrą, apsiginklavusį šoviniais, arba šaulį."
   pagrindžia:

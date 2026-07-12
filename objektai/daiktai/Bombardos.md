@@ -61,35 +61,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-113454"></a>
-- t-003
+- t-001
   global_id: t-113454
   teiginys: "Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė."
   pagrindžia:
     - c-42485
 
 <a id="claim-t-113456"></a>
-- t-007
+- t-002
   global_id: t-113456
   teiginys: "1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė."
   pagrindžia:
     - c-104689
 
 <a id="claim-t-113457"></a>
-- t-006
+- t-003
   global_id: t-113457
   teiginys: "Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną."
   pagrindžia:
     - c-104687
 
 <a id="claim-t-113458"></a>
-- t-001
+- t-004
   global_id: t-113458
   teiginys: "1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį."
   pagrindžia:
     - c-05201
 
 <a id="claim-t-193743"></a>
-- t-008
+- t-005
   global_id: t-193743
   teiginys: "Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė."
   pagrindžia:

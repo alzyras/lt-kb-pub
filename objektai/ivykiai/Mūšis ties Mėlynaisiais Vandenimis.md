@@ -69,14 +69,14 @@ Nenurodyta
     - c-169932
 
 <a id="claim-t-186695"></a>
-- t-003
+- t-002
   global_id: t-186695
   teiginys: "Redakcinė pastaba mini tris su mūšiu sietus totorių vadų vardus, iš kurių iš Algirdo laikotarpio kituose šaltiniuose žinomas tik Kutlubugas."
   pagrindžia:
     - c-169933
 
 <a id="claim-t-186696"></a>
-- t-002
+- t-003
   global_id: t-186696
   teiginys: "Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai."
   pagrindžia:

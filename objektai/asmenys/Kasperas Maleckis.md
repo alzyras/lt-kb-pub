@@ -29,14 +29,14 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
 ## Teiginiai
 
 <a id="claim-t-40276"></a>
-- t-002
+- t-001
   global_id: t-40276
   teiginys: "Kaspero Maleckio žvalgybinis padalinys pranešė apie stambių priešo dalinių artėjimą."
   pagrindžia:
     - c-44420
 
 <a id="claim-t-40277"></a>
-- t-001
+- t-002
   global_id: t-40277
   teiginys: "Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą."
   pagrindžia:

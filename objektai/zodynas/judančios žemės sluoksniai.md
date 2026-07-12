@@ -40,21 +40,21 @@ Vartojama geologiniam sluoksnių tipui ar būsenai nusakyti, kai akmenys būna u
 ## Teiginiai
 
 <a id="claim-t-192291"></a>
-- t-002
+- t-001
   global_id: t-192291
   teiginys: "Narbutas aiškina, kad judančios žemės sluoksniai turėjo būti sujudinti arba išplauti iš Baltijos jūros."
   pagrindžia:
     - c-175108
 
 <a id="claim-t-192292"></a>
-- t-003
+- t-002
   global_id: t-192292
   teiginys: "Narbutas akmenų radimą aiškina tuo, kad kai kurie jų buvo užpustyti judančios žemės sluoksnių."
   pagrindžia:
     - c-175108
 
 <a id="claim-t-192293"></a>
-- t-001
+- t-003
   global_id: t-192293
   teiginys: "Narbutas aiškina, kad Autorius „judančios žemės sluoksnius“ sieja su naujais, giliais, vietomis vandens užtvindytais sluoksniais."
   pagrindžia:

@@ -56,28 +56,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-67016"></a>
-- t-005
+- t-001
   global_id: t-67016
   teiginys: "1409 m. gegužę žemaičiai sudegino Skirsnemunę ir puolė kitas naujas pilis bei Klaipėdą."
   pagrindžia:
     - c-04923
 
 <a id="claim-t-67018"></a>
-- t-007
+- t-002
   global_id: t-67018
   teiginys: "Tų pačių įvykių fone ordinas 1409.VIII.6 buvo priverstas skelbti karą Lenkijai."
   pagrindžia:
     - c-04925
 
 <a id="claim-t-67019"></a>
-- t-004
+- t-003
   global_id: t-67019
   teiginys: "1409 m. pradžioje Ordinas uždarė Žemaičių sieną su Lietuva ir uždraudė ten pardavinėti arklius, galvijus ir medų."
   pagrindžia:
     - c-04922
 
 <a id="claim-t-67022"></a>
-- t-006
+- t-004
   global_id: t-67022
   teiginys: "Kai sukilimas apėmė visą Žemaičių kraštą, ordino vietininkas pasitraukė į Prūsus ir sudegino Dubysos pilį."
   pagrindžia:

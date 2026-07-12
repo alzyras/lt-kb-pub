@@ -10,7 +10,8 @@ date_start: '1978'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
 amziai:
   - 'XX'
   - 'XXI'
@@ -40,14 +41,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-47947"></a>
-- t-002
+- t-001
   global_id: t-47947
   teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“."
   pagrindžia:
     - c-31433
 
 <a id="claim-t-47948"></a>
-- t-003
+- t-002
   global_id: t-47948
   teiginys: "Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio."
   pagrindžia:

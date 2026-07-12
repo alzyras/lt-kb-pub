@@ -28,21 +28,21 @@ Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą
 ## Teiginiai
 
 <a id="claim-t-192304"></a>
-- t-005
+- t-001
   global_id: t-192304
   teiginys: "Narbutas nurodė: Jucevičius tvirtino, kad spirališkai susivijusio žalčio stabas buvo ne Atrimpo, o Žalčių karaliaus."
   pagrindžia:
     - c-175116
 
 <a id="claim-t-192305"></a>
-- t-001
+- t-002
   global_id: t-192305
   teiginys: "Narbutas Atrimpo ženklu laikė javų pėdu uždengtą vandens pripildytą indą, kuriame buvo laikomas vandens žaltys."
   pagrindžia:
     - c-175115
 
 <a id="claim-t-192306"></a>
-- t-004
+- t-003
   global_id: t-192306
   teiginys: "Narbutas nurodė: Jucevičiaus nuomone, prie Palangos gyvenantys lietuvių žvejai Atrimpą vadino Dzivsvifs."
   pagrindžia:

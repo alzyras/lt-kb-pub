@@ -46,14 +46,14 @@ Be jų, dar turėjo savo paties pinigais surinktos kariuomenės Vitebsko vaivada
     - c-42196
 
 <a id="claim-t-79153"></a>
-- t-004
+- t-002
   global_id: t-79153
   teiginys: "Povilas Sapiega buvo vienas bajorų konfederacijos vadovų, kovojusių prieš švedus ir jų sąjungininkus."
   pagrindžia:
     - c-76233
 
 <a id="claim-t-79154"></a>
-- t-002
+- t-003
   global_id: t-79154
   teiginys: "Povilo Sapiegos vadovaujama Lietuvos kariuomenė su Lenkijos pajėgų pagalba 1661 m. išvadavo Vilnių, Kauną ir Gardiną."
   pagrindžia:

@@ -31,28 +31,28 @@ Dusburgietis teigia, kad todėl jie, subūrę kariuomenę, užpuolė Sembos vysk
 ## Teiginiai
 
 <a id="claim-t-91355"></a>
-- t-002
+- t-001
   global_id: t-91355
   teiginys: "Rinava buvo vakarinės Sembos centre, į šiaurės vakarus nuo Karaliaučiaus."
   pagrindžia:
     - c-87073
 
 <a id="claim-t-91356"></a>
-- t-001
+- t-002
   global_id: t-91356
   teiginys: "Rinavos valsčiuje gyvenę sembai, vėl atkritę nuo tikėjimo, subūrė kariuomenę ir užpuolė Fišhauzeno pilį."
   pagrindžia:
     - c-87072
 
 <a id="claim-t-91357"></a>
-- t-004
+- t-003
   global_id: t-91357
   teiginys: "Dusburgiečio kronikoje pasakojama, kad Rinavos valsčiaus sembai vėl atkrito nuo tikėjimo ir užpuolė Fišhauzeną."
   pagrindžia:
     - c-87072
 
 <a id="claim-t-91358"></a>
-- t-003
+- t-004
   global_id: t-91358
   teiginys: "Karaliaučiaus broliai su sembais įsibrovė į Rinavos valsčių, išžudė vyrus, o moteris ir vaikus išsivarė su turtu."
   pagrindžia:

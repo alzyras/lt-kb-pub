@@ -69,21 +69,21 @@ Nenurodyta
     - c-66937
 
 <a id="claim-t-66807"></a>
-- t-004
+- t-003
   global_id: t-66807
   teiginys: "Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė."
   pagrindžia:
     - c-66935
 
 <a id="claim-t-66808"></a>
-- t-005
+- t-004
   global_id: t-66808
   teiginys: "Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti."
   pagrindžia:
     - c-66932
 
 <a id="claim-t-66809"></a>
-- t-003
+- t-005
   global_id: t-66809
   teiginys: "Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną."
   pagrindžia:

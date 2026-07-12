@@ -11,6 +11,7 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - sąvoka
   - valstybė
@@ -38,14 +39,14 @@ Valstybės Taryba vis atkak­ liau siekė gauti konkrečias valdymo sritis į sa
 ## Teiginiai
 
 <a id="claim-t-22275"></a>
-- t-002
+- t-001
   global_id: t-22275
   teiginys: "Nepriklausomybės kare arklių, pašarų ir maisto rekvizicijos daugiausia vykdytos lenkų dvaruose."
   pagrindžia:
     - c-24965
 
 <a id="claim-t-22276"></a>
-- t-001
+- t-002
   global_id: t-22276
   teiginys: "Valstybės Taryba siuntė protestus dėl vokiečių vykdomų rekvizicijų."
   pagrindžia:

@@ -5,7 +5,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -50,28 +51,28 @@ Nenurodyta.
 ## Teiginiai
 
 <a id="claim-t-187833"></a>
-- t-004
+- t-001
   global_id: t-187833
   teiginys: "Narbutas pratarmėje rašo mitologijos tomui medžiagą sėmęsis iš rašytinių paminklų ir per trisdešimt metų sukaupęs papročių, padavimų bei dainų rinkinį."
   pagrindžia:
     - c-170785
 
 <a id="claim-t-187834"></a>
-- t-003
+- t-002
   global_id: t-187834
   teiginys: "Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų."
   pagrindžia:
     - c-170784
 
 <a id="claim-t-188390"></a>
-- t-005
+- t-003
   global_id: t-188390
   teiginys: "Narbutas rašo mitologijos tomo medžiagą rinkęs iš rašytinių paminklų nuo Šiaurės sagų iki Kojalavičiaus veikalų."
   pagrindžia:
     - c-170785
 
 <a id="claim-t-194627"></a>
-- t-006
+- t-004
   global_id: t-194627
   teiginys: "Medžiagą, iš kurios sudėjau šį istorijos tomą, sėmiausi, kiek buvo reikalo ir užteko sugebėjimų, iš rašytinių paminklų, pra dėdamas nuo Šiaurės sagų ir baigdamas Kojalavičiumi, ne praleisdamas nieko, kas galėjo būti naudinga."
   pagrindžia:

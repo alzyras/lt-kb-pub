@@ -60,35 +60,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-45484"></a>
-- t-004
+- t-001
   global_id: t-45484
   teiginys: "1920 m. rugsėjį Mykolas Sleževičius Seime ragino sveikus gyventojus griebtis ginklo prieš lenkų puolimą."
   pagrindžia:
     - c-48269
 
 <a id="claim-t-45485"></a>
-- t-003
+- t-002
   global_id: t-45485
   teiginys: "1920 m. rugsėjį M. Sleževičius Seime ragino sveikus žmones griebtis ginklo prieš lenkų puolimą."
   pagrindžia:
     - c-22238
 
 <a id="claim-t-45486"></a>
-- t-002
+- t-003
   global_id: t-45486
   teiginys: "Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę."
   pagrindžia:
     - c-166684
 
 <a id="claim-t-45487"></a>
-- t-001
+- t-004
   global_id: t-45487
   teiginys: "1918 m. gruodžio 21 d. A. Smetona Berlyne pasirašė 100 mln. markių paskolą ginklams įsigyti."
   pagrindžia:
     - c-22235
 
 <a id="claim-t-45486"></a>
-- t-002
+- t-005
   global_id: t-45486
   teiginys: "Iš bermontininkų paimtas karo grobis svariai papildė Lietuvos kariuomenės ginkluotę."
   pagrindžia:

@@ -63,21 +63,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66638"></a>
-- t-002
+- t-001
   global_id: t-66638
   teiginys: "Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų."
   pagrindžia:
     - c-66835
 
 <a id="claim-t-66639"></a>
-- t-001
+- t-002
   global_id: t-66639
   teiginys: "Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė."
   pagrindžia:
     - c-66836
 
 <a id="claim-t-66639"></a>
-- t-001
+- t-003
   global_id: t-66639
   teiginys: "Grabnyčių dieną magistras Mangoldas su kariuomene įsiveržė į Sūduvos Kresmenos valsčių ir jį nusiaubė."
   pagrindžia:

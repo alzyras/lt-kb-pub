@@ -43,14 +43,14 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 ## Teiginiai
 
 <a id="claim-t-68688"></a>
-- t-002
+- t-001
   global_id: t-68688
   teiginys: "Vokiečiai apsiėmė laikytis taikos su krikščioniškomis Trakų kunigaikštijos žemėmis, tarp jų ir Melniku."
   pagrindžia:
     - c-37545
 
 <a id="claim-t-68689"></a>
-- t-001
+- t-002
   global_id: t-68689
   teiginys: "Vytauto laikais Melnikas buvo tarp Palenkės vietų, kur rusėniškose LDK žemėse imta statyti pilis."
   pagrindžia:

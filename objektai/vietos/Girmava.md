@@ -39,14 +39,14 @@ Dusburgietis teigia, kad kristburgo komtūras, brolis Henrikas, vadinamas Stange
     - c-86288
 
 <a id="claim-t-90454"></a>
-- t-003
+- t-002
   global_id: t-90454
   teiginys: "Henriko Stangės kariuomenė žiemos žygyje degino ir grobė Sembą iki Girmavos kaimo."
   pagrindžia:
     - c-86288
 
 <a id="claim-t-90455"></a>
-- t-002
+- t-003
   global_id: t-90455
   teiginys: "Ruskojė) — Girmava, į pietryčius nuo Palmininkų (dab."
   pagrindžia:

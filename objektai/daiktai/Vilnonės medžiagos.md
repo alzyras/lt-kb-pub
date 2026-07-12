@@ -57,14 +57,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-47822"></a>
-- t-002
+- t-001
   global_id: t-47822
   teiginys: "Per Rygą Lietuva iš Vakarų gaudavo būtinų prekių, tarp jų druskos, vilnonių medžiagų ir geležies."
   pagrindžia:
     - c-31014
 
 <a id="claim-t-47823"></a>
-- t-001
+- t-002
   global_id: t-47823
   teiginys: "Per Rygą Lietuva iš Vakarų gaudavo būtiniausių dalykų, tarp jų druską, vilnones medžiagas ir geležį."
   pagrindžia:

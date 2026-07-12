@@ -42,14 +42,14 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
 ## Teiginiai
 
 <a id="claim-t-176848"></a>
-- t-013
+- t-001
   global_id: t-176848
   teiginys: "Zbignievas Olesnickis, tapęs Krokuvos vyskupu, buvo priskirtas žmonėms, priešiškiems Vytauto persvarai ir politikai bendroje valstybėje."
   pagrindžia:
     - c-160811
 
 <a id="claim-t-176849"></a>
-- t-009
+- t-002
   global_id: t-176849
   teiginys: "Jogaila Zbignievo Olesnickio ir lenkų ponų užsispyrimą laikė didžiausia kliūtimi Vytauto karūnacijai."
   pagrindžia:
@@ -63,28 +63,28 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-160807
 
 <a id="claim-t-176851"></a>
-- t-010
+- t-004
   global_id: t-176851
   teiginys: "Vytautas siekė patraukti Zbignievą Olesnickį į savo pusę ir negailėjo jam dovanų."
   pagrindžia:
     - c-36609
 
 <a id="claim-t-176852"></a>
-- t-011
+- t-005
   global_id: t-176852
   teiginys: "Krokuvos vyskupas Zbignievas Olesnickis karaliaus dvare įgijo daug įtakos ir buvo laikomas nepriklausomos Vytauto politikos priešininku."
   pagrindžia:
     - c-160814
 
 <a id="claim-t-176853"></a>
-- t-005
+- t-006
   global_id: t-176853
   teiginys: "Naujasis Krokuvos vyskupas Zbignievas Olesnickis buvo priešingas Vytauto persvarai bendroje valstybėje ir jo politikai."
   pagrindžia:
     - c-160811
 
 <a id="claim-t-176854"></a>
-- t-006
+- t-007
   global_id: t-176854
   teiginys: "Zbignievas Olesnickis tapo kancleriu be Vytauto žinios ir pritarimo ir užkirto kelią jo įtakai Lenkijoje."
   pagrindžia:
@@ -98,49 +98,49 @@ Tuoj pasiuntė Zbignievą Olesnickį į mūšio lauką, kad jis parūpintų jo a
     - c-36607
 
 <a id="claim-t-176856"></a>
-- t-007
+- t-009
   global_id: t-176856
   teiginys: "Zbignievas Olesnickis buvo universiteto rektorius ir inspiravo Krokuvos profesorių nuomonę."
   pagrindžia:
     - c-160810
 
 <a id="claim-t-176857"></a>
-- t-016
+- t-010
   global_id: t-176857
   teiginys: "Zbignievas Olesnickis, kaip Krokuvos universiteto rektorius, veikiausiai inspiravo profesorių nuomonę dėl Zigmanto teisės teikti karūną."
   pagrindžia:
     - c-160810
 
 <a id="claim-t-176859"></a>
-- t-002
+- t-011
   global_id: t-176859
   teiginys: "Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį."
   pagrindžia:
     - c-36599
 
 <a id="claim-t-176862"></a>
-- t-004
+- t-012
   global_id: t-176862
   teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, su kuriuo Vytautas pasiuntė savo sekretorių Mikalojų Cebulką pas Zigmantą."
   pagrindžia:
     - c-160809
 
 <a id="claim-t-176863"></a>
-- t-001
+- t-013
   global_id: t-176863
   teiginys: "Zbignievas Olesnickis buvo pasiųstas į mūšio lauką parūpinti kelias vėliavas Jogailos apsaugai."
   pagrindžia:
     - c-160806
 
 <a id="claim-t-176864"></a>
-- t-012
+- t-014
   global_id: t-176864
   teiginys: "Zbignievas Olesnickis buvo karūnos pasiuntinys, kartu su kuriuo Vytautas pasiuntė Mikalojų Cebulką pareikšti Zigmantui nepasitenkinimą."
   pagrindžia:
     - c-160809
 
 <a id="claim-t-194018"></a>
-- t-017
+- t-015
   global_id: t-194018
   teiginys: "Švitrigaila Ldk tapo prieš Horodlo unijos 11413) nuostatus, ne atsižvelgiant | Lenkijos karalystes tarybaKrokuvos vyskupo Zbignievo Olesnickio vadovaujama, ši ėmė nedelsiant regzti sąmokslą, siekdama patalini!"
   pagrindžia:

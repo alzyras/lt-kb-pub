@@ -36,7 +36,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
 ## Teiginiai
 
 <a id="claim-t-70422"></a>
-- t-004
+- t-001
   global_id: t-70422
   teiginys: "Šaldros buvo į kraštą atklydę prašalaičiai, mėginę įbrukti savo nuomonę apie dievą ir įkurti naują tikybą."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
     - c-09775
 
 <a id="claim-t-70423"></a>
-- t-003
+- t-002
   global_id: t-70423
   teiginys: "`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius."
   pagrindžia:

@@ -54,7 +54,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192045"></a>
-- t-002
+- t-001
   global_id: t-192045
   teiginys: "1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks."
   pagrindžia:

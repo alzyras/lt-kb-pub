@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - miestas
   - mokslininkas
+  - teisinė-praktika
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVIII'
@@ -41,14 +41,14 @@ Be to, dar anksčiau minėtas Vilniaus vyskupas Protasevičius tris mūrinius na
 ## Teiginiai
 
 <a id="claim-t-86005"></a>
-- t-002
+- t-001
   global_id: t-86005
   teiginys: "1677 m. Paulius Bochenas Bernardinų gatvėje buvusį mūrinį namą pardavė Eustachijui Kotovičiui už 750 auksinų."
   pagrindžia:
     - c-81984
 
 <a id="claim-t-86006"></a>
-- t-001
+- t-002
   global_id: t-86006
   teiginys: "1579 m. kovo 6 d. Vilniaus vyskupas Protasevičius Akademijai ir kolegijai užrašė tris mūrinius namus, iš jų vieną Bernardinų gatvėje."
   pagrindžia:

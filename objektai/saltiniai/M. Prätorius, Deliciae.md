@@ -16,6 +16,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - upė
+  - šventė
   - žemėlapis
 amziai:
   - 'XVI'
@@ -49,14 +50,14 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
     - c-61585
 
 <a id="claim-t-60954"></a>
-- t-003
+- t-002
   global_id: t-60954
   teiginys: "M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje."
   pagrindžia:
     - c-61587
 
 <a id="claim-t-60955"></a>
-- t-002
+- t-003
   global_id: t-60955
   teiginys: "M. Prätoriaus „Deliciae“ nurodoma, kad Pisos dešinysis intakas Golba prie Narpiškių kaimo buvęs šventas."
   pagrindžia:

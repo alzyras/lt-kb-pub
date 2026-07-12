@@ -30,14 +30,14 @@ Tuo pat metu ir Bernardinų bažnyčia, kuriai dėl menkų pa­ matų grėsė gr
 ## Teiginiai
 
 <a id="claim-t-87555"></a>
-- t-002
+- t-001
   global_id: t-87555
   teiginys: "Mikalojus Radvila II savo lėšomis naujai pamūrijo Šv. Pranciškaus ir Bernardo vardu pavadintą bernardinų bažnyčią."
   pagrindžia:
     - c-83535
 
 <a id="claim-t-87556"></a>
-- t-001
+- t-002
   global_id: t-87556
   teiginys: "Vilniaus vaivada Mikalojus Radvila II dosniai prisidėjo prie Bernardinų bažnyčios perstatymo, kai dėl silpnų pamatų jai grėsė griūtis."
   pagrindžia:

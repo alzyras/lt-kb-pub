@@ -41,14 +41,14 @@ Liucijano Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje �
 ## Teiginiai
 
 <a id="claim-t-19100"></a>
-- t-002
+- t-001
   global_id: t-19100
   teiginys: "L. Želigovskis 1920 m. spalio 9 d. su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   pagrindžia:
     - c-21850
 
 <a id="claim-t-19101"></a>
-- t-001
+- t-002
   global_id: t-19101
   teiginys: "1922 m. Liucijano Želigovskio užimtoje Vidurinėje Lietuvoje su Vilniumi balsuota dėl teritorijos prijungimo prie Lenkijos."
   pagrindžia:

@@ -38,14 +38,14 @@ Iš Liubarto sūnaus Teodoro Vytautas atėmė Volinijos Vladimirą, bet jį pask
     - c-65000
 
 <a id="claim-t-64172"></a>
-- t-003
+- t-002
   global_id: t-64172
   teiginys: "Vytautas, remiamas Jogailos, suvaldė nepaklusnų Volynijos kunigaikštį Teodorą, Liubarto sūnų."
   pagrindžia:
     - c-36516
 
 <a id="claim-t-64173"></a>
-- t-002
+- t-003
   global_id: t-64173
   teiginys: "Liubarto sūnus Teodoras pabėgo į Vengriją, kur prie jo prisijungė Teodoras Karijotaitis."
   pagrindžia:

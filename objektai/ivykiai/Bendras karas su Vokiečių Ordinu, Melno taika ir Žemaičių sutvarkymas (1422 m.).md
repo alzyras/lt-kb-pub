@@ -58,28 +58,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-50798"></a>
-- t-004
+- t-001
   global_id: t-50798
   teiginys: "1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus."
   pagrindžia:
     - c-36998
 
 <a id="claim-t-50799"></a>
-- t-001
+- t-002
   global_id: t-50799
   teiginys: "1422 m. liepos pabaigoje Vytautas ir Jogaila išžygiavo prieš Ordiną, bet Vytautui neteko kautis atvirame mūšyje, nes vokiečiai užsidarė pilyse."
   pagrindžia:
     - c-52519
 
 <a id="claim-t-50800"></a>
-- t-002
+- t-003
   global_id: t-50800
   teiginys: "Melno taika Klaipėdą paliko Ordinui, o Palangą Lietuvai; Palanga skyrė Vokiečių ir Livonijos ordinų žemes."
   pagrindžia:
     - c-36996
 
 <a id="claim-t-50801"></a>
-- t-003
+- t-004
   global_id: t-50801
   teiginys: "Vytautas susitarė su Ordinu dėl pagal taiką nustatytų sienų, suteikė laisvę prekybai ir užmezgė draugiškus santykius."
   pagrindžia:

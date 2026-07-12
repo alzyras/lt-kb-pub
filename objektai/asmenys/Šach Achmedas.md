@@ -41,28 +41,28 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
 ## Teiginiai
 
 <a id="claim-t-87415"></a>
-- t-002
+- t-001
   global_id: t-87415
   teiginys: "Šach Achmedas baigė gyvenimą kalėjime Lietuvoje."
   pagrindžia:
     - c-83397
 
 <a id="claim-t-87416"></a>
-- t-003
+- t-002
   global_id: t-87416
   teiginys: "Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui."
   pagrindžia:
     - c-83396
 
 <a id="claim-t-87417"></a>
-- t-004
+- t-003
   global_id: t-87417
   teiginys: "Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus."
   pagrindžia:
     - c-83395
 
 <a id="claim-t-87418"></a>
-- t-001
+- t-004
   global_id: t-87418
   teiginys: "Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius."
   pagrindžia:

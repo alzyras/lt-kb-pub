@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-77887"></a>
-- t-002
+- t-001
   global_id: t-77887
   teiginys: "1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln."
   pagrindžia:
     - c-75204
 
 <a id="claim-t-77888"></a>
-- t-001
+- t-002
   global_id: t-77888
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo 48 proc. etninių lietuvių, o rusiškai iš jų skaitė tik kas penktas."
   pagrindžia:

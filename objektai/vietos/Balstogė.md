@@ -41,14 +41,14 @@ Lenkijoje tokiuos žymius dvarus turėjo — Čartoriskiai Pulavuose, Potockiai 
 ## Teiginiai
 
 <a id="claim-t-76163"></a>
-- t-002
+- t-001
   global_id: t-76163
   teiginys: "1917 m. Berno konferencijoje Balstogės apskritis buvo įtraukta į etnografinės Lietuvos teritorijos projektą."
   pagrindžia:
     - c-73803
 
 <a id="claim-t-182997"></a>
-- t-005
+- t-002
   global_id: t-182997
   teiginys: "Balstogėje Branickis turėjo vieną iš žymių Lenkijos politinių dvarų."
   pagrindžia:

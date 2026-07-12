@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - dokumentas
   - ivykis
+  - teisinė-praktika
   - valstybė
 amziai:
   - 'XX'
@@ -54,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75140"></a>
-- t-003
+- t-001
   global_id: t-75140
   teiginys: "1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į Maskvos Helsinkio grupę."
   pagrindžia:
     - c-73045
 
 <a id="claim-t-75141"></a>
-- t-001
+- t-002
   global_id: t-75141
   teiginys: "1976 m. rudenį Vilniuje įsikūrė Lietuvos Helsinkio grupė, panaši į SSRS kurtas Helsinkio Baigiamojo akto stebėsenos grupes."
   pagrindžia:
     - c-73045
 
 <a id="claim-t-193572"></a>
-- t-004
+- t-003
   global_id: t-193572
   teiginys: "Iki atgimimo laikotarpio 1988 m. Lietuvos Helsinkio grupė parengė, nelegalioje spaudoje paskelbė ir Vakarų valstybėms išsiuntė per 50 dokumentų, išryškinančių sovietų valdžios politiką Lietuvoje."
   pagrindžia:

@@ -48,14 +48,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-59455"></a>
-- t-002
+- t-001
   global_id: t-59455
   teiginys: "Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius."
   pagrindžia:
     - c-60087
 
 <a id="claim-t-59456"></a>
-- t-001
+- t-002
   global_id: t-59456
   teiginys: "Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių."
   pagrindžia:

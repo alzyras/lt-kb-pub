@@ -101,49 +101,49 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų. T. Narbutas s
     - c-173690
 
 <a id="claim-t-190810"></a>
-- t-011
+- t-010
   global_id: t-190810
   teiginys: "Teodoras Narbutas laišką bičiuliui ir mokytojui Ignui Onacevičiui pradėjo deklaracija „Aš nerašau lietuvių tautos istorijos“."
   pagrindžia:
     - c-173692
 
 <a id="claim-t-190811"></a>
-- t-012
+- t-011
   global_id: t-190811
   teiginys: "1828 m. Varšuvoje išleistas T. Święckio veikalas „Opis starožytnej Polski“ buvo Teodoro Narbuto bibliotekoje."
   pagrindžia:
     - c-173693
 
 <a id="claim-t-191907"></a>
-- t-013
+- t-012
   global_id: t-191907
   teiginys: "Teodoras Narbutas svarstė, kad ašarinėse esantis skystis žemėje galėjo tapti dujiškai nepatvarus ir išgaruoti per stiklą."
   pagrindžia:
     - c-174789
 
 <a id="claim-t-193589"></a>
-- t-014
+- t-013
   global_id: t-193589
   teiginys: "Dar nesiekta visiškai uždrausti spausdinti knygas ir kitokius leidinius lenkų kalba – 1835–1841 m. Vilniuje lenkų kalba išeina devyni tomai karo inžinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos Lietuvos istorijai iki Liublino."
   pagrindžia:
     - c-176264
 
 <a id="claim-t-193880"></a>
-- t-015
+- t-014
   global_id: t-193880
   teiginys: "Narbutas nuo 1838 m. pradėjo rūpintis Bychovco kronikos išspaus dinimu."
   pagrindžia:
     - c-176507
 
 <a id="claim-t-194207"></a>
-- t-016
+- t-015
   global_id: t-194207
   teiginys: "Tiesa, Simonas Daukantas buvo parašęs savo Darbus žemai čių ir lietuvių, o Teodoras Narbutas dar tik rašė savo Lietuvių tautos istoriją."
   pagrindžia:
     - c-176810
 
 <a id="claim-t-194208"></a>
-- t-017
+- t-016
   global_id: t-194208
   teiginys: "Narbutas susilaukė rūsčios jo kritikos."
   pagrindžia:

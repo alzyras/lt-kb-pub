@@ -44,7 +44,7 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
     - c-46399
 
 <a id="claim-t-52441"></a>
-- t-001
+- t-002
   global_id: t-52441
   teiginys: "Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis."
   pagrindžia:

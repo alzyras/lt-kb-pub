@@ -48,42 +48,42 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 ## Teiginiai
 
 <a id="claim-t-122957"></a>
-- t-018
+- t-001
   global_id: t-122957
   teiginys: "Švitrigaila paėmė į savo valdžią Černigovo sritį."
   pagrindžia:
     - c-112452
 
 <a id="claim-t-122959"></a>
-- t-020
+- t-002
   global_id: t-122959
   teiginys: "Valdymo pabaigoje kelios atskiros kunigaikštystės dar buvo likusios Černigovo krašte ir Maskvos pasienyje."
   pagrindžia:
     - c-46854
 
 <a id="claim-t-122960"></a>
-- t-016
+- t-003
   global_id: t-122960
   teiginys: "Černigovo stačiatikių vyskupas dalyvavo susirinkime, kuris paskyrė Cemblaką Kijevo metropolitu."
   pagrindžia:
     - c-37864
 
 <a id="claim-t-122961"></a>
-- t-018
+- t-004
   global_id: t-122961
   teiginys: "Apie 1255 m. Mindaugas vėl atgavo valdžią Polocke, užėmė naujų žemių prie Dniepro — Černigovo ir Briansko kunigaikštijose."
   pagrindžia:
     - c-112456
 
 <a id="claim-t-122962"></a>
-- t-014
+- t-005
   global_id: t-122962
   teiginys: "Kai kurie Lietuvos miestai buvo valdomi Černigovo kunigaikščių."
   pagrindžia:
     - c-112447
 
 <a id="claim-t-122963"></a>
-- t-017
+- t-006
   global_id: t-122963
   teiginys: "1411 m. pavasarį Vytautas keliavo pro Černigovą iki Kijevo, o vietos kunigaikščiai jam reiškė paklusnumą."
   pagrindžia:
@@ -97,14 +97,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-37864
 
 <a id="claim-t-122965"></a>
-- t-015
+- t-008
   global_id: t-122965
   teiginys: "Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams laisvę prekiauti su Černigovu be muito."
   pagrindžia:
     - c-112459
 
 <a id="claim-t-122966"></a>
-- t-021
+- t-009
   global_id: t-122966
   teiginys: "Jo valdymo pabaigoje atskiros kunigaikštystės dar liko Černigovo krašte ir Maskvos pasienyje."
   pagrindžia:
@@ -118,42 +118,42 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-112447
 
 <a id="claim-t-122968"></a>
-- t-019
+- t-011
   global_id: t-122968
   teiginys: "Valdymo pabaigoje Černigovo krašte dar buvo likusios kelios atskiros kunigaikštystės."
   pagrindžia:
     - c-46854
 
 <a id="claim-t-122969"></a>
-- t-008
+- t-012
   global_id: t-122969
   teiginys: "Vytautui vykstant pro Černigovą iki Kijevo, tų kraštų kunigaikščiai jam reiškė paklusnumą."
   pagrindžia:
     - c-37865
 
 <a id="claim-t-122970"></a>
-- t-017
+- t-013
   global_id: t-122970
   teiginys: "Černigove susidarė atskira kunigaikštija."
   pagrindžia:
     - c-112453
 
 <a id="claim-t-122971"></a>
-- t-011
+- t-014
   global_id: t-122971
   teiginys: "Kazimieras atskiru įsakymu suteikė Vilniaus miestiečiams muito laisvę prekiaujant su Černigovu."
   pagrindžia:
     - c-112459
 
 <a id="claim-t-183110"></a>
-- t-022
+- t-015
   global_id: t-183110
   teiginys: "Po nepavykusio sąmokslo Švitrigaila perėmė Černigovo ir kelias kitas sritis."
   pagrindžia:
     - c-112452
 
 <a id="claim-t-185215"></a>
-- t-020
+- t-016
   global_id: t-185215
   teiginys: "Černigovas kartu su Starodubu, Naugardu ir Rylsku prisidėjo prie Seversko žemės išdavikų po Briansko užėmimo."
   pagrindžia:
@@ -167,14 +167,14 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - c-170631
 
 <a id="claim-t-193255"></a>
-- t-023
+- t-018
   global_id: t-193255
   teiginys: "Tačiau sąmokslas ne visai pasisekė: Švitrigaila suskubo pasprukti į Polocką ir paimti į savo valdžią Polocko, Vitebsko, Smolensko, Naugardo Sieversko, Černigovo ir Kijevo sritis; tuo būdu Zigmantui, paskelbtam didžiuoju kunigaikščiu, be tikrosios Lietuvos."
   pagrindžia:
     - c-112452
 
 <a id="claim-t-193256"></a>
-- t-024
+- t-019
   global_id: t-193256
   teiginys: "Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paupiai."
   pagrindžia:

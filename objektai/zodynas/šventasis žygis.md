@@ -13,6 +13,7 @@ tags:
   - ordinas
   - pinigai
   - sąvoka
+  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

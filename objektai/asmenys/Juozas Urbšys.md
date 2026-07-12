@@ -39,28 +39,28 @@ Molotovas pakvietė atvykti į Maskvą ministrą Juozą Urbšį. Urbšį pasira�
 ## Teiginiai
 
 <a id="claim-t-19026"></a>
-- t-003
+- t-001
   global_id: t-19026
   teiginys: "Juozui Urbšiui prireikė skristi į Kauną konsultuotis, nes sovietai reikalavo įsileisti į Lietuvą savo karines bazes."
   pagrindžia:
     - c-21787
 
 <a id="claim-t-19027"></a>
-- t-004
+- t-002
   global_id: t-19027
   teiginys: "Birželio 10 d. Kaune nutarta pasiųsti ministrą Juozą Urbšį į Maskvą."
   pagrindžia:
     - c-21788
 
 <a id="claim-t-19028"></a>
-- t-002
+- t-003
   global_id: t-19028
   teiginys: "1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti savitarpio pagalbos, Vilniaus perdavimo ir teritorijos perdavimo Vokietijai sutartis."
   pagrindžia:
     - c-21786
 
 <a id="claim-t-19029"></a>
-- t-001
+- t-004
   global_id: t-19029
   teiginys: "Viačeslavui Molotovui pakvietus Juozą Urbšį atvykti į Maskvą, Juozas Urbšys išvyko spalio 2 dieną."
   pagrindžia:

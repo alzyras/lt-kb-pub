@@ -36,14 +36,14 @@ Vartojamos formos: `vėlės`.
 ## Teiginiai
 
 <a id="claim-t-70067"></a>
-- t-003
+- t-001
   global_id: t-70067
   teiginys: "Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems."
   pagrindžia:
     - c-09767
 
 <a id="claim-t-70068"></a>
-- t-004
+- t-002
   global_id: t-70068
   teiginys: "Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu."
   pagrindžia:

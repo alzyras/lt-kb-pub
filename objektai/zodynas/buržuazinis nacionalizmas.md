@@ -43,7 +43,7 @@ Kai kuriems jų neleista apsigyventi Lietuvoje, dirbti vadovaujamo darbo, mokyti
     - c-166800
 
 <a id="claim-t-70103"></a>
-- t-002
+- t-003
   global_id: t-70103
   teiginys: "Nuo šeštojo dešimtmečio pabaigos Vilniaus universiteto Lietuvių literatūros katedros darbuotojai ir kai kurie kultūros veikėjai kaltinti „buržuaziniu nacionalizmu“."
   pagrindžia:

@@ -9,7 +9,8 @@ date_start: '1990'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

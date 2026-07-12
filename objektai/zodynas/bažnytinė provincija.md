@@ -12,7 +12,8 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - religinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'
@@ -38,28 +39,28 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
 ## Teiginiai
 
 <a id="claim-t-70098"></a>
-- t-008
+- t-001
   global_id: t-70098
   teiginys: "Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją ir sekė Konstancijos susirinkimo eigą."
   pagrindžia:
     - c-14684
 
 <a id="claim-t-70099"></a>
-- t-005
+- t-002
   global_id: t-70099
   teiginys: "Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją."
   pagrindžia:
     - c-14683
 
 <a id="claim-t-70100"></a>
-- t-007
+- t-003
   global_id: t-70100
   teiginys: "Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją."
   pagrindžia:
     - c-37901
 
 <a id="claim-t-70101"></a>
-- t-006
+- t-004
   global_id: t-70101
   teiginys: "Vytautas rūpinosi Lietuvoje įsteigti bažnytinę provinciją."
   pagrindžia:
@@ -73,7 +74,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
     - c-166338
 
 <a id="claim-t-193139"></a>
-- t-009
+- t-006
   global_id: t-193139
   teiginys: "Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausimas."
   pagrindžia:

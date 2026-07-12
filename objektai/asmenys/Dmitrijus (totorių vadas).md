@@ -32,14 +32,14 @@ Jie susirėmė su Juodosios jūros pajūrio ir Krymo totorių teritorijos trijų
 ## Teiginiai
 
 <a id="claim-t-78962"></a>
-- t-002
+- t-001
   global_id: t-78962
   teiginys: "Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių."
   pagrindžia:
     - c-76059
 
 <a id="claim-t-78963"></a>
-- t-001
+- t-002
   global_id: t-78963
   teiginys: "Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene."
   pagrindžia:

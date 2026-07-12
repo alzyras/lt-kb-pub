@@ -39,14 +39,14 @@ Mūšio padariniai „Pasakojime apie Podolę“ teigiama, kad Lietuvos valdovo 
     - c-76753
 
 <a id="claim-t-79828"></a>
-- t-003
+- t-002
   global_id: t-79828
   teiginys: "Algirdo remiami Karijotaičiai įsitvirtino Mažojoje Podolėje, organizavo jos gynybą nuo totorių ir statė pilis."
   pagrindžia:
     - c-76751
 
 <a id="claim-t-79829"></a>
-- t-002
+- t-003
   global_id: t-79829
   teiginys: "Mažosios Podolės ir kitų pietinių žemių išėmimas iš tiesioginės Aukso ordos valdžios sudarė saugesnę padėtį Rytų Europoje."
   pagrindžia:

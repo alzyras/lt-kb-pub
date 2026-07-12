@@ -46,14 +46,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-41365"></a>
-- t-002
+- t-001
   global_id: t-41365
   teiginys: "Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų."
   pagrindžia:
     - c-44930
 
 <a id="claim-t-41366"></a>
-- t-001
+- t-002
   global_id: t-41366
   teiginys: "Siekdami neprarasti teigiamo įvaizdžio tarptautinėje aplinkoje, lenkai pasiūlė pradėti derybas Suvalkuose."
   pagrindžia:

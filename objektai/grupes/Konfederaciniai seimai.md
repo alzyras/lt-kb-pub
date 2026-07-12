@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - grupe
   - seimas
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
 ## Teiginiai
 
 <a id="claim-t-72117"></a>
-- t-002
+- t-001
   global_id: t-72117
   teiginys: "Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma."
   pagrindžia:
     - c-70533
 
 <a id="claim-t-72118"></a>
-- t-001
+- t-002
   global_id: t-72118
   teiginys: "Konfederaciniai seimai buvo rengiami siekiant išvengti pavojų valstybei, kildavusių iširus seimui."
   pagrindžia:

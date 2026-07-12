@@ -43,7 +43,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
     - c-167599
 
 <a id="claim-t-58747"></a>
-- t-001
+- t-002
   global_id: t-58747
   teiginys: "Venecija minima kaip vyriausioji Ordino būstinė, į kurią iškeliavo didysis magistras Zigfridas iš Foichtvangeno."
   pagrindžia:

@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - karalius
   - karas
-  - privilegija
   - saltinis
+  - seimas
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -38,21 +38,21 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
 ## Teiginiai
 
 <a id="claim-t-88165"></a>
-- t-004
+- t-001
   global_id: t-88165
   teiginys: "Privilegijoje Bekešui dėl Alantos dvaro buvo Stepono Batoro ir Jono Hlebavičiaus parašai."
   pagrindžia:
     - c-84145
 
 <a id="claim-t-88167"></a>
-- t-001
+- t-002
   global_id: t-88167
   teiginys: "Varšuvos seime Gabrieliui Bekešui pagal paveldėjimo teisę buvo atiduotas po Astiko likęs Alantos dvaras."
   pagrindžia:
     - c-84144
 
 <a id="claim-t-88168"></a>
-- t-002
+- t-003
   global_id: t-88168
   teiginys: "Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą."
   pagrindžia:

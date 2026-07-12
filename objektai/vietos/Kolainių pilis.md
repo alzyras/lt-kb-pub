@@ -41,42 +41,42 @@ Vykstant kovoms prie Nemuno krantų, 1290 pats magistras su daugeliu riterių ir
 ## Teiginiai
 
 <a id="claim-t-68234"></a>
-- t-006
+- t-001
   global_id: t-68234
   teiginys: "1291 m. apie vasario 2 d. Bertoldas Bruhavenas su 1500 vyrų rado Kolainių pilį tuščią ir ją sudegino."
   pagrindžia:
     - c-67879
 
 <a id="claim-t-68235"></a>
-- t-003
+- t-002
   global_id: t-68235
   teiginys: "Surminas paliko Kolainių pilį po to, kai Ordino broliai dėl sąmyšio turėjo nutraukti jos apgulą."
   pagrindžia:
     - c-67876
 
 <a id="claim-t-68236"></a>
-- t-001
+- t-003
   global_id: t-68236
   teiginys: "1290 m. Ordino magistras su riteriais ir didele kariuomene puolė už Bisenos buvusią Kolainių pilį."
   pagrindžia:
     - c-67877
 
 <a id="claim-t-68237"></a>
-- t-005
+- t-004
   global_id: t-68237
   teiginys: "Kolainių pilininkas Surminas su pilėnais tarėsi, kaip apgauti pro pilį plaukusius Ordino brolius."
   pagrindžia:
     - c-67875
 
 <a id="claim-t-68238"></a>
-- t-002
+- t-005
   global_id: t-68238
   teiginys: "1290 m. balandžio 23 d. magistras Meinhardas su 500 raitelių ir 2000 pėstininkų užpuolė Kolainių pilį."
   pagrindžia:
     - c-67880
 
 <a id="claim-t-68239"></a>
-- t-004
+- t-006
   global_id: t-68239
   teiginys: "Kolainių pilis dažniausiai siejama su Kalnėnais į vakarus nuo Jurbarko, nors jos vieta tiksliai nenustatyta."
   pagrindžia:

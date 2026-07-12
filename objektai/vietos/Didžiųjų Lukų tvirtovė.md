@@ -36,14 +36,14 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
 ## Teiginiai
 
 <a id="claim-t-41676"></a>
-- t-002
+- t-001
   global_id: t-41676
   teiginys: "1580 m. Lietuvos kariuomenė užėmė Didžiųjų Lukų tvirtovę."
   pagrindžia:
     - c-45071
 
 <a id="claim-t-41677"></a>
-- t-001
+- t-002
   global_id: t-41677
   teiginys: "Į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti pusei metų."
   pagrindžia:

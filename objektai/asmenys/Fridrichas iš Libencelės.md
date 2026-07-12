@@ -40,7 +40,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
 ## Teiginiai
 
 <a id="claim-t-59953"></a>
-- t-004
+- t-001
   global_id: t-59953
   teiginys: "Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje."
   pagrindžia:
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
     - c-60587
 
 <a id="claim-t-59956"></a>
-- t-001
+- t-004
   global_id: t-59956
   teiginys: "Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį."
   pagrindžia:

@@ -63,14 +63,14 @@ Nenurodyta
     - c-169961
 
 <a id="claim-t-186750"></a>
-- t-003
+- t-002
   global_id: t-186750
   teiginys: "1433 m. liepą iš Cėsių Lietuvos niokoti išžygiavusi Livonijos ordino kariuomenė žygyje užtruko 11 savaičių, o magistras Rutenbergas rugsėjo 18 d. grįžo į Rygą."
   pagrindžia:
     - c-169962
 
 <a id="claim-t-186751"></a>
-- t-001
+- t-003
   global_id: t-186751
   teiginys: "Komentaro teigimu, 1433 m. liepą–rugsėjį Livonijos kariuomenė veikiausiai atskirai nuo Švitrigailos šalininkų dvi savaites buvo apgulusi Vilnių."
   pagrindžia:

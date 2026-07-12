@@ -8,7 +8,6 @@ atnaujinta: ''
 tags:
   - karalius
   - miestas
-  - privilegija
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -32,7 +31,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
 ## Teiginiai
 
 <a id="claim-t-85953"></a>
-- t-004
+- t-001
   global_id: t-85953
   teiginys: "Nauji Vilniaus svečių namai buvo pastatyti miesto lėšomis toje vietoje, kurioje jie stovėjo šaltinio rašymo metu."
   pagrindžia:
@@ -53,7 +52,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
     - c-81934
 
 <a id="claim-t-85956"></a>
-- t-001
+- t-004
   global_id: t-85956
   teiginys: "Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą."
   pagrindžia:

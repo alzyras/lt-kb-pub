@@ -51,7 +51,7 @@ Aprašymai pateikiami Volianskio perduotų ar cituotų radinių kontekste.
 ## Teiginiai
 
 <a id="claim-t-192084"></a>
-- t-003
+- t-001
   global_id: t-192084
   teiginys: "Narbutas trečiąjį Kurcho pakabutį aprašo kaip panašų į Berlyno muziejaus pavyzdį, tik su raiteliu iš dešinės pusės ir tomis pačiomis raidėmis."
   pagrindžia:

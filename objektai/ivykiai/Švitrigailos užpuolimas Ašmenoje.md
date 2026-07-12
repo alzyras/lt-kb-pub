@@ -60,42 +60,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186737"></a>
-- t-002
+- t-001
   global_id: t-186737
   teiginys: "Po užpuolimo Ašmenoje Švitrigaila pabėgo su nedidele palyda, o jo žmona, dvariškiai, regalijos, iždas ir kanceliarija atiteko Žygimantui Kęstutaičiui."
   pagrindžia:
     - c-169957
 
 <a id="claim-t-186738"></a>
-- t-003
+- t-002
   global_id: t-186738
   teiginys: "Redakcinė pastaba nurodo, kad po pabėgimo iš Ašmenos 1432 m. rugsėjo 1 d. naktį Švitrigaila jau rugsėjo 3 d. buvo Polocke."
   pagrindžia:
     - c-169955
 
 <a id="claim-t-186739"></a>
-- t-004
+- t-003
   global_id: t-186739
   teiginys: "Redakcinė pastaba nurodo, kad Jurgis Lengvenaitis pateko į Žygimanto Kęstutaičio nelaisvę Ašmenos mūšyje ir pabėgo iki 1433 m. spalio 3 d."
   pagrindžia:
     - c-169954
 
 <a id="claim-t-186740"></a>
-- t-001
+- t-004
   global_id: t-186740
   teiginys: "1432 m. rugsėjo 1 d. naktį Žygimanto Kęstutaičio ir jo sąjungininkų ginkluoti būriai užpuolė Švitrigailą Ašmenoje."
   pagrindžia:
     - c-169957
 
 <a id="claim-t-186741"></a>
-- t-006
+- t-005
   global_id: t-186741
   teiginys: "Redakcinė pastaba Simoną Jonaitį Alšėniškį laiko vienu svarbiausių 1432 m. rugsėjo 1 d. Švitrigailos užpuolimo Ašmenoje dalyvių."
   pagrindžia:
     - c-169958
 
 <a id="claim-t-186742"></a>
-- t-005
+- t-006
   global_id: t-186742
   teiginys: "Redakcinė pastaba nurodo, kad Petras Mantgirdaitis už dalyvavimą 1432 m. rugsėjo 1 d. Švitrigailos užpuolime Ašmenoje nuo 1434 m. gavo krašto vyriausiojo maršalo vietą."
   pagrindžia:

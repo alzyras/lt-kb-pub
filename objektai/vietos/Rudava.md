@@ -39,28 +39,28 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
 ## Teiginiai
 
 <a id="claim-t-69174"></a>
-- t-003
+- t-001
   global_id: t-69174
   teiginys: "Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta."
   pagrindžia:
     - c-68582
 
 <a id="claim-t-69175"></a>
-- t-004
+- t-002
   global_id: t-69175
   teiginys: "Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado."
   pagrindžia:
     - c-68582
 
 <a id="claim-t-69176"></a>
-- t-002
+- t-003
   global_id: t-69176
   teiginys: "1370 m. vasario 17 d. lietuviai vėl susirinko prie Rudavos bažnytkaimio netoli Karaliaučiaus."
   pagrindžia:
     - c-37703
 
 <a id="claim-t-69177"></a>
-- t-001
+- t-004
   global_id: t-69177
   teiginys: "Nuterioję Sembą, lietuviai susirinko ties Rudavos bažnytkaimiu, esančiu už trijų mylių į šiaurę nuo Karaliaučiaus."
   pagrindžia:

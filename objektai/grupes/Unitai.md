@@ -47,7 +47,7 @@ Daug geriau buvo sutvarkytas unitų švietimas. Jų vienuolynų buvo net Žemai�
 ## Teiginiai
 
 <a id="claim-t-45238"></a>
-- t-003
+- t-001
   global_id: t-45238
   teiginys: "Bajoriškoji santvarka leido šalia katalikų egzistuoti kalvinistų, liuteronų, stačiatikių, unitų ir kitoms etnokonfesinėms bendrijoms."
   pagrindžia:

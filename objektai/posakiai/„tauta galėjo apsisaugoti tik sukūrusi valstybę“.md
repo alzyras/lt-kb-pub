@@ -32,7 +32,7 @@ Lietuvos valstybės atsiradimą pagreitino vokiečių riterių agresija ir jų k
 ## Teiginiai
 
 <a id="claim-t-183510"></a>
-- t-002
+- t-001
   global_id: t-183510
   teiginys: "Lietuvos valstybė pirmiausia atsirado kaip apsigynimo priemonė, nes tauta galėjo apsisaugoti tik sukūrusi valstybę."
   pagrindžia:

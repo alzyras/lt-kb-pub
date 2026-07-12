@@ -37,14 +37,14 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
 ## Teiginiai
 
 <a id="claim-t-64844"></a>
-- t-004
+- t-001
   global_id: t-64844
   teiginys: "Asmenvardžio Ramego (Salys A., Skalva, p. 533), greičiausiai jis lygintinas su lie."
   pagrindžia:
     - c-65433
 
 <a id="claim-t-64846"></a>
-- t-003
+- t-002
   global_id: t-64846
   teiginys: "A. Salys Ragainės vardo kilmę siejo su Lietuva."
   pagrindžia:

@@ -36,14 +36,14 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 ## Teiginiai
 
 <a id="claim-t-187213"></a>
-- t-002
+- t-001
   global_id: t-187213
   teiginys: "Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos."
   pagrindžia:
     - c-170283
 
 <a id="claim-t-187214"></a>
-- t-001
+- t-002
   global_id: t-187214
   teiginys: "Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas."
   pagrindžia:

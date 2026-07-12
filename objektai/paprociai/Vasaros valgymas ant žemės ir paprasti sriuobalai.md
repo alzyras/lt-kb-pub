@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-07812"></a>
-- t-004
+- t-001
   global_id: t-07812
   teiginys: "Vasarą visi valgė ant žemės, prisikloję dembliais ar meškenomis."
   pagrindžia:

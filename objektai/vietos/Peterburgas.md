@@ -51,70 +51,70 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
 ## Teiginiai
 
 <a id="claim-t-77132"></a>
-- t-005
+- t-001
   global_id: t-77132
   teiginys: "Septintąjį–aštuntąjį dešimtmetį Lietuvą kirto geležinkelis Peterburgas–Varšuva."
   pagrindžia:
     - c-24377
 
 <a id="claim-t-77134"></a>
-- t-012
+- t-002
   global_id: t-77134
   teiginys: "Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis."
   pagrindžia:
     - c-74583
 
 <a id="claim-t-77135"></a>
-- t-002
+- t-003
   global_id: t-77135
   teiginys: "1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo."
   pagrindžia:
     - c-24374
 
 <a id="claim-t-77136"></a>
-- t-003
+- t-004
   global_id: t-77136
   teiginys: "1797 m. sausio 26 d. Peterburgo konvencija patvirtino trečiąjį Lenkijos ir Lietuvos valstybės padalijimą, panaikino valstybingumo likučius ir nubrėžė sienas."
   pagrindžia:
     - c-24375
 
 <a id="claim-t-77137"></a>
-- t-004
+- t-005
   global_id: t-77137
   teiginys: "Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta."
   pagrindžia:
     - c-24376
 
 <a id="claim-t-77138"></a>
-- t-011
+- t-006
   global_id: t-77138
   teiginys: "1906 m. Peterburge rimtai nesvarstyta rezoliucija dėl politinės autonomijos suteikimo Lietuvai."
   pagrindžia:
     - c-74581
 
 <a id="claim-t-77139"></a>
-- t-009
+- t-007
   global_id: t-77139
   teiginys: "Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta."
   pagrindžia:
     - c-74582
 
 <a id="claim-t-77141"></a>
-- t-001
+- t-008
   global_id: t-77141
   teiginys: "Peterburge telkėsi reformų opozicija, nes Jekaterina II ten susikvietė aršiausius reformų priešininkus."
   pagrindžia:
     - c-24373
 
 <a id="claim-t-77142"></a>
-- t-010
+- t-009
   global_id: t-77142
   teiginys: "XIX a. septintąjį ir aštuntąjį dešimtmečiais Lietuvą kirto geležinkelis Peterburgas-Varšuva."
   pagrindžia:
     - c-74580
 
 <a id="claim-t-77143"></a>
-- t-007
+- t-010
   global_id: t-77143
   teiginys: "Peterburge nebuvo rimtai svarstoma rezoliucija dėl politinės autonomijos suteikimo Lietuvai."
   pagrindžia:
@@ -128,7 +128,7 @@ Tačiau opozicijos lizdas buvo Peterburge: Jekaterina II susikvietė visus arši
     - c-171690
 
 <a id="claim-t-192719"></a>
-- t-013
+- t-012
   global_id: t-192719
   teiginys: "Peterburge 1839 m. istorikas gavo Jo Didenybės Imperatoriaus dovaną, briliantinį žiedą, po „Lietuvių mitologijos“ įvertinimo."
   pagrindžia:

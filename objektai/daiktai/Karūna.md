@@ -71,21 +71,21 @@ Nenurodyta
     - c-170002
 
 <a id="claim-t-186813"></a>
-- t-003
+- t-002
   global_id: t-186813
   teiginys: "Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją."
   pagrindžia:
     - c-169997
 
 <a id="claim-t-186814"></a>
-- t-004
+- t-003
   global_id: t-186814
   teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
   pagrindžia:
     - c-170001
 
 <a id="claim-t-186815"></a>
-- t-006
+- t-004
   global_id: t-186815
   teiginys: "Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas."
   pagrindžia:
@@ -99,28 +99,28 @@ Nenurodyta
     - c-169999
 
 <a id="claim-t-186818"></a>
-- t-019
+- t-006
   global_id: t-186818
   teiginys: "Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai."
   pagrindžia:
     - c-170000
 
 <a id="claim-t-186819"></a>
-- t-020
+- t-007
   global_id: t-186819
   teiginys: "Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas."
   pagrindžia:
     - c-169996
 
 <a id="claim-t-186821"></a>
-- t-002
+- t-008
   global_id: t-186821
   teiginys: "Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną."
   pagrindžia:
     - c-170005
 
 <a id="claim-t-194984"></a>
-- t-021
+- t-009
   global_id: t-194984
   teiginys: "Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną."
   pagrindžia:

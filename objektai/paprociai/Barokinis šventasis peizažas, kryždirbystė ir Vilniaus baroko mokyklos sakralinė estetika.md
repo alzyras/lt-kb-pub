@@ -11,8 +11,10 @@ date_end: '1787'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - kraštas
   - paprotys
+  - šventė
 amziai:
   - 'XVI'
   - 'XVIII'
@@ -65,7 +67,7 @@ Nenurodyta
     - c-67105
 
 <a id="claim-t-67057"></a>
-- t-003
+- t-002
   global_id: t-67057
   teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   pagrindžia:

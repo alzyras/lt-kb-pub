@@ -38,28 +38,28 @@ Atsakydami į kryžiuočių bei kryžininkų Ariogalos, Paštuvos puolimą, 1365
 ## Teiginiai
 
 <a id="claim-t-80128"></a>
-- t-003
+- t-001
   global_id: t-80128
   teiginys: "Skalvių žemė buvo abiejose Nemuno pusėse."
   pagrindžia:
     - c-76998
 
 <a id="claim-t-80129"></a>
-- t-004
+- t-002
   global_id: t-80129
   teiginys: "1360 m. kryžiuočiai statė naują pilį Skalvos žemėje netoli Tilžės."
   pagrindžia:
     - c-76999
 
 <a id="claim-t-80130"></a>
-- t-001
+- t-003
   global_id: t-80130
   teiginys: "1365 m. pradžioje Kęstutis, Algirdas, Patrikas iš Gardino ir Aleksandras Karijotaitis puolė Skalvos žemę ir sunaikino kelias priešo pilaites."
   pagrindžia:
     - c-76997
 
 <a id="claim-t-80131"></a>
-- t-002
+- t-004
   global_id: t-80131
   teiginys: "Užkariavę nadruvius, Ordino broliai nukreipė ginklus prieš Skalvos žemės gyventojus skalvius."
   pagrindžia:

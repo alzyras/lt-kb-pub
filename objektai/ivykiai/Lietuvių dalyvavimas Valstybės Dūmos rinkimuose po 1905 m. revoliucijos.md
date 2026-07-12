@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75125"></a>
-- t-002
+- t-001
   global_id: t-75125
   teiginys: "Po 1905 m. revoliucijos Rusijoje atsirado Valstybės Tarybos ir Valstybės Dūmos parlamentas, bet vykdomoji valdžia liko caro rankose."
   pagrindžia:
     - c-22998
 
 <a id="claim-t-75126"></a>
-- t-001
+- t-002
   global_id: t-75126
   teiginys: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus."
   pagrindžia:

@@ -60,7 +60,7 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-23851
 
 <a id="claim-t-101552"></a>
-- t-011
+- t-003
   global_id: t-101552
   teiginys: "Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas."
   pagrindžia:
@@ -74,49 +74,49 @@ Net oficialioji valstybės raštų kalba (ja parašyti Lietuvos Statutai ir kt.)
     - c-23853
 
 <a id="claim-t-101555"></a>
-- t-007
+- t-005
   global_id: t-101555
   teiginys: "Lietuvos Statutai buvo trys LDK teisynai, priimti 1529, 1566 ir 1588 metais."
   pagrindžia:
     - c-95091
 
 <a id="claim-t-101556"></a>
-- t-010
+- t-006
   global_id: t-101556
   teiginys: "Lietuvos Statutai buvo parašyti oficialiąja LDK raštų kalba, kuri XVI–XVIII a. vadinta lietuvių kalba."
   pagrindžia:
     - c-95089
 
 <a id="claim-t-101557"></a>
-- t-008
+- t-007
   global_id: t-101557
   teiginys: "Po prijungimo prie Rusijos Lietuvos Statutas liko galioti, o kraštas įgijo kultūrinę autonomiją."
   pagrindžia:
     - c-95090
 
 <a id="claim-t-101558"></a>
-- t-009
+- t-008
   global_id: t-101558
   teiginys: "1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis."
   pagrindžia:
     - c-95092
 
 <a id="claim-t-101559"></a>
-- t-003
+- t-009
   global_id: t-101559
   teiginys: "Antrajame ir Trečiajame Lietuvos Statutuose teisine norma tapo Žygimanto Augusto privilegija, sulyginusi visų krikščioniškų konfesijų teises."
   pagrindžia:
     - c-23852
 
 <a id="claim-t-101560"></a>
-- t-006
+- t-010
   global_id: t-101560
   teiginys: "1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų norma."
   pagrindžia:
     - c-95088
 
 <a id="claim-t-193596"></a>
-- t-012
+- t-011
   global_id: t-193596
   teiginys: "Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką."
   pagrindžia:

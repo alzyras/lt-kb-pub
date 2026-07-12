@@ -30,14 +30,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-51016"></a>
-- t-002
+- t-001
   global_id: t-51016
   teiginys: "Ghillebert de Lannoy užsiminė, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   pagrindžia:
     - c-36303
 
 <a id="claim-t-51017"></a>
-- t-001
+- t-002
   global_id: t-51017
   teiginys: "Ghillebert de Lannoy minėjo, kad iš Vytauto kanceliarijos buvo siuntinėjami raštai totorių kalba."
   pagrindžia:

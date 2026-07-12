@@ -11,7 +11,8 @@ date_start: '1430'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - frazė
 amziai:
   - 'XV'
   - 'XXI'
@@ -41,7 +42,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-47949"></a>
-- t-003
+- t-001
   global_id: t-47949
   teiginys: "Vytauto laiškuose imperatoriui Zigmantui ir ordino magistrui draudimas vainikuotis reiškė jo laisvės varžymą ir pastangas pavergti kraštą."
   pagrindžia:

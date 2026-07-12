@@ -35,7 +35,7 @@ Sacharovo žmona ir bendražygė Jelena Boner (Jelena Bonner) mitinge kalbėjo, 
 ## Teiginiai
 
 <a id="claim-t-183514"></a>
-- t-002
+- t-001
   global_id: t-183514
   teiginys: "1991 m. kovą daugiau nei 200 tūkst. Maskvos demonstracijos dalyvių skandavo „Šalin rankas nuo Lietuvos“ ir „Gorbačiovai, atsistatydink!“."
   pagrindžia:

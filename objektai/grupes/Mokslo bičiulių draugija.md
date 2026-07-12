@@ -47,14 +47,14 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
     - c-48034
 
 <a id="claim-t-45132"></a>
-- t-001
+- t-002
   global_id: t-45132
   teiginys: "1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“."
   pagrindžia:
     - c-48034
 
 <a id="claim-t-45133"></a>
-- t-002
+- t-003
   global_id: t-45133
   teiginys: "Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai."
   pagrindžia:

@@ -41,35 +41,35 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
 ## Teiginiai
 
 <a id="claim-t-64697"></a>
-- t-007
+- t-001
   global_id: t-64697
   teiginys: "G. Labuda Dirsovės vardą laikė prūsišku."
   pagrindžia:
     - c-65349
 
 <a id="claim-t-64698"></a>
-- t-005
+- t-002
   global_id: t-64698
   teiginys: "G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais."
   pagrindžia:
     - c-65346
 
 <a id="claim-t-64699"></a>
-- t-006
+- t-003
   global_id: t-64699
   teiginys: "G. Labuda Vitlando pavadinimą siejo su baltų žodžiu „vidus“ ir lygino jį su latvių Vidzeme."
   pagrindžia:
     - c-65347
 
 <a id="claim-t-64700"></a>
-- t-003
+- t-004
   global_id: t-64700
   teiginys: "G. Labuda nagrinėjo imperatoriaus ir pagoniškųjų prūsų žemių teisinį santykį."
   pagrindžia:
     - c-65351
 
 <a id="claim-t-64701"></a>
-- t-002
+- t-005
   global_id: t-64701
   teiginys: "G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus."
   pagrindžia:

@@ -43,7 +43,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192039"></a>
-- t-003
+- t-001
   global_id: t-192039
   teiginys: "Narbutas sarmatų ir alanų plitimą, lėmusį gelonų bei budinų pasitraukimą nuo Dono, vadina sarmatų-alanų revoliucijomis."
   pagrindžia:
@@ -57,7 +57,7 @@ Nenurodyta
     - c-174911
 
 <a id="claim-t-192041"></a>
-- t-001
+- t-003
   global_id: t-192041
   teiginys: "Narbutas gelonų ir budinų pasitraukimą iš prie Dono buvusių valdų datuoja maždaug apie 80 m. pr. Kr."
   pagrindžia:

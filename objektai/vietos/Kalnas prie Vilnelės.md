@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
+  - socialinė-praktika
   - vieta
   - vyskupas
 amziai:

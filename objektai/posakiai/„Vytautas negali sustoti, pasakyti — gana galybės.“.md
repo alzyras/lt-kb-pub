@@ -36,14 +36,14 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 ## Teiginiai
 
 <a id="claim-t-54386"></a>
-- t-004
+- t-001
   global_id: t-54386
   teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų."
   pagrindžia:
     - c-55232
 
 <a id="claim-t-54387"></a>
-- t-001
+- t-002
   global_id: t-54387
   teiginys: "Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui."
   pagrindžia:
@@ -57,7 +57,7 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     - c-37180
 
 <a id="claim-t-54389"></a>
-- t-002
+- t-004
   global_id: t-54389
   teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų."
   pagrindžia:

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
 amziai:
   - 'XX'
@@ -39,42 +40,42 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 ## Teiginiai
 
 <a id="claim-t-168139"></a>
-- t-012
+- t-001
   global_id: t-168139
   teiginys: "Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams."
   pagrindžia:
     - c-46269
 
 <a id="claim-t-168140"></a>
-- t-011
+- t-002
   global_id: t-168140
   teiginys: "Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui."
   pagrindžia:
     - c-00307
 
 <a id="claim-t-168143"></a>
-- t-010
+- t-003
   global_id: t-168143
   teiginys: "Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo."
   pagrindžia:
     - c-152973
 
 <a id="claim-t-168144"></a>
-- t-009
+- t-004
   global_id: t-168144
   teiginys: "Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje."
   pagrindžia:
     - c-46268
 
 <a id="claim-t-182885"></a>
-- t-013
+- t-005
   global_id: t-182885
   teiginys: "Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje."
   pagrindžia:
     - c-166289
 
 <a id="claim-t-193087"></a>
-- t-014
+- t-006
   global_id: t-193087
   teiginys: "Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose)."
   pagrindžia:

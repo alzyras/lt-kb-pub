@@ -38,14 +38,14 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 ## Teiginiai
 
 <a id="claim-t-63722"></a>
-- t-005
+- t-001
   global_id: t-63722
   teiginys: "J. Stalino valdymo metais iš bibliotekų buvo pašalintos Maironio, Vinco Kudirkos, Vinco Krėvės-Mickevičiaus ir kitų autorių knygos."
   pagrindžia:
     - c-64679
 
 <a id="claim-t-63723"></a>
-- t-004
+- t-002
   global_id: t-63723
   teiginys: "Jonas Mačiulis-Maironis tarpukariu minėtas kaip vienas lietuvių literatūros klasikų, dar vaikščiojusių Kauno gatvėmis."
   pagrindžia:
@@ -59,21 +59,21 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
     - c-64676
 
 <a id="claim-t-63725"></a>
-- t-002
+- t-004
   global_id: t-63725
   teiginys: "Poetas Maironis laikomas tautos Atgimimo dainiumi Lietuvos Respublikos ištakų kontekste."
   pagrindžia:
     - c-64677
 
 <a id="claim-t-63726"></a>
-- t-006
+- t-005
   global_id: t-63726
   teiginys: "Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Maironio, Vinco Mykolaičio-Putino ir kitų lietuvių autorių kūrinių."
   pagrindžia:
     - c-64678
 
 <a id="claim-t-63727"></a>
-- t-001
+- t-006
   global_id: t-63727
   teiginys: "Suvokimas, kad tautos ateitis priklauso nuo atminties, įkvėpė Joną Mačiulį-Maironį raštu įamžinti Lietuvos praeitį."
   pagrindžia:

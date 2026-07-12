@@ -41,14 +41,14 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
 ## Teiginiai
 
 <a id="claim-t-89789"></a>
-- t-004
+- t-001
   global_id: t-89789
   teiginys: "Glapas buvo nuvarytas į Karaliaučių ir pakartas ant kalvos, kuri vėliau vadinta Glapo kalva."
   pagrindžia:
     - c-85724
 
 <a id="claim-t-89790"></a>
-- t-005
+- t-002
   global_id: t-89790
   teiginys: "Glapas su kariuomene buvo užkluptas apgulęs pilį ir netikėtai užpultas brolių bei ginklanešių."
   pagrindžia:
@@ -62,14 +62,14 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - c-85727
 
 <a id="claim-t-89792"></a>
-- t-002
+- t-004
   global_id: t-89792
   teiginys: "Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį."
   pagrindžia:
     - c-85725
 
 <a id="claim-t-89793"></a>
-- t-001
+- t-005
   global_id: t-89793
   teiginys: "Prūsams vėl atkritus nuo tikėjimo, varmiai išsirinko Glapą savo kariuomenės vadu ir vyresniuoju."
   pagrindžia:

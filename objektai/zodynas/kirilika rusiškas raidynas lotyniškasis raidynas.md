@@ -60,7 +60,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
     - c-69260
 
 <a id="claim-t-70176"></a>
-- t-001
+- t-004
   global_id: t-70176
   teiginys: "Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju."
   pagrindžia:

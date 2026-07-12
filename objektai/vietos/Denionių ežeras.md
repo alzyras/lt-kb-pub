@@ -13,6 +13,7 @@ tags:
   - ežeras
   - mūšis
   - vieta
+  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

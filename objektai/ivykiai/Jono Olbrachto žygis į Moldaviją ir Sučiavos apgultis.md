@@ -55,35 +55,35 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186652"></a>
-- t-003
+- t-001
   global_id: t-186652
   teiginys: "Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją."
   pagrindžia:
     - c-169914
 
 <a id="claim-t-186653"></a>
-- t-004
+- t-002
   global_id: t-186653
   teiginys: "Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką."
   pagrindžia:
     - c-169914
 
 <a id="claim-t-186654"></a>
-- t-001
+- t-003
   global_id: t-186654
   teiginys: "Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato, kad miesto nepaims."
   pagrindžia:
     - c-169914
 
 <a id="claim-t-186655"></a>
-- t-005
+- t-004
   global_id: t-186655
   teiginys: "Lietuvos metraštis teigia, kad Moldavijos vaivada Steponas su Olbrachtu sudarė taiką, sutiko duoti vasalo ištikimybės priesaiką ir surašė raštus."
   pagrindžia:
     - c-169914
 
 <a id="claim-t-186656"></a>
-- t-002
+- t-005
   global_id: t-186656
   teiginys: "Sučiavos gynėjai paragino Olbrachtą kautis su Steponu lauke."
   pagrindžia:

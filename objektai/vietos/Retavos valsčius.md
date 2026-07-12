@@ -44,14 +44,14 @@ Dusburgietis teigia, kad šie, įsiveržę į Retavos valsčių460, jį nusiaub�
     - c-87068
 
 <a id="claim-t-91353"></a>
-- t-003
+- t-002
   global_id: t-91353
   teiginys: "Konradas iš Tirbergo pasiuntė sembų fogtą Ditrichą su kariuomene į Nadruvą, kur ši įsiveržė į Retavos valsčių."
   pagrindžia:
     - c-87067
 
 <a id="claim-t-91354"></a>
-- t-002
+- t-003
   global_id: t-91354
   teiginys: "Retavos valsčius buvo Nadruvoje, o tyrėjai jį bandė lokalizuoti keliose skirtingose vietose."
   pagrindžia:

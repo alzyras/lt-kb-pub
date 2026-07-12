@@ -50,28 +50,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-64956"></a>
-- t-002
+- t-001
   global_id: t-64956
   teiginys: "Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai."
   pagrindžia:
     - c-05233
 
 <a id="claim-t-64958"></a>
-- t-003
+- t-002
   global_id: t-64958
   teiginys: "Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių."
   pagrindžia:
     - c-05234
 
 <a id="claim-t-64960"></a>
-- t-005
+- t-003
   global_id: t-64960
   teiginys: "Lietuvos akmens amžiaus dirbiniams priskirti kauliniai harpūnai ir durklai, titnaginiai įrankiai bei iečių galai, akmens kirvukai, gintariniai amuletai ir papuošalai, puodas ir grūdų trynimo akmuo."
   pagrindžia:
     - c-65512
 
 <a id="claim-t-64961"></a>
-- t-006
+- t-004
   global_id: t-64961
   teiginys: "Lietuvos pajūryje rastos gintarinės žmonių ir gyvulių figūrėlės buvo nešiojamos magijos tikslais."
   pagrindžia:

@@ -13,7 +13,8 @@ date_start: '1499'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XV'
   - 'XX'
@@ -63,42 +64,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-182715"></a>
-- t-013
+- t-001
   global_id: t-182715
   teiginys: "Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros."
   pagrindžia:
     - c-166134
 
 <a id="claim-t-182717"></a>
-- t-032
+- t-002
   global_id: t-182717
   teiginys: "Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą."
   pagrindžia:
     - c-166132
 
 <a id="claim-t-182718"></a>
-- t-012
+- t-003
   global_id: t-182718
   teiginys: "Savotiškos personalinės unijos reikalavo lietuviai."
   pagrindžia:
     - c-166133
 
 <a id="claim-t-182968"></a>
-- t-005
+- t-004
   global_id: t-182968
   teiginys: "Darant uniją daugiausia dėmesio buvo skiriama susitarimui dėl bendro valdovo."
   pagrindžia:
     - c-166367
 
 <a id="claim-t-182969"></a>
-- t-006
+- t-005
   global_id: t-182969
   teiginys: "Lietuviai ir lenkai sutiko turėti bendrą valdovą, bet nesutarė, ar valstybės liks personalinėje unijoje, ar pereis į realinę."
   pagrindžia:
     - c-46887
 
 <a id="claim-t-193610"></a>
-- t-033
+- t-006
   global_id: t-193610
   teiginys: "Su nedidelėmis išimtimis Lietuva, valdyta tų pačių valdovų (personalinė unija) kaip ir Lenkija, nors valstybės buvo atskiros."
   pagrindžia:

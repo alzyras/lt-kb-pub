@@ -50,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186862"></a>
-- t-002
+- t-001
   global_id: t-186862
   teiginys: "Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe."
   pagrindžia:
     - c-170047
 
 <a id="claim-t-186863"></a>
-- t-001
+- t-002
   global_id: t-186863
   teiginys: "Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke."
   pagrindžia:

@@ -39,14 +39,14 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
 ## Teiginiai
 
 <a id="claim-t-171490"></a>
-- t-005
+- t-001
   global_id: t-171490
   teiginys: "Henriko Latvio kronika laikoma svarbiu šaltiniu XIII-XIV a. Lietuvos feodalinio laikotarpio istorijai nušviesti."
   pagrindžia:
     - c-156013
 
 <a id="claim-t-171491"></a>
-- t-001
+- t-002
   global_id: t-171491
   teiginys: "Henrikas Latvis priklauso XIII a. Livonijos šaltiniams, kurie liudija gerą pagonių lietuvių apsiginklavimą."
   pagrindžia:
@@ -67,7 +67,7 @@ Amato išsivystymą pas lietuvius patvir­ tina ir rašytieji XIII amž. kaimyn�
     - c-171292
 
 <a id="claim-t-190702"></a>
-- t-006
+- t-005
   global_id: t-190702
   teiginys: "Teodoro Narbuto vertinimu, Henrikas Latvis nepastebėjo lietuvių gentyse „tamsumo pėdsakų“."
   pagrindžia:

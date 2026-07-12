@@ -45,35 +45,35 @@ Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litvakai –
 ## Teiginiai
 
 <a id="claim-t-45103"></a>
-- t-003
+- t-001
   global_id: t-45103
   teiginys: "Holokausto metu buvo sunaikinta pasaulinę šlovę Lietuvai suteikusi litvakų bendruomenė, nors jos gyvosios šaknys išliko Lietuvoje, JAV ir Izraelyje."
   pagrindžia:
     - c-22659
 
 <a id="claim-t-45104"></a>
-- t-001
+- t-002
   global_id: t-45104
   teiginys: "Vilniaus Gaono autoritetas galėjo lemti, kad litvakai imti laikyti iškiliais žydais, išsiskyrusiais religine tradicija, racionalumu ir pagarba išsimokslinimui."
   pagrindžia:
     - c-166557
 
 <a id="claim-t-45105"></a>
-- t-005
+- t-003
   global_id: t-45105
   teiginys: "Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją pasaulyje žmogaus širdies persodinimo operaciją."
   pagrindžia:
     - c-48012
 
 <a id="claim-t-45106"></a>
-- t-002
+- t-004
   global_id: t-45106
   teiginys: "Litvakas reiškė žydą iš istorinės Lietuvos, tačiau šiuo vardu imta vadinti ir savita gyvensena pasižymėjusius žydus."
   pagrindžia:
     - c-22658
 
 <a id="claim-t-45107"></a>
-- t-004
+- t-005
   global_id: t-45107
   teiginys: "Christiaanas Barnardas knygoje minimas kaip litvakų palikuonis, 1967 m. Pietų Afrikos Respublikoje atlikęs pirmąją žmogaus širdies persodinimo operaciją."
   pagrindžia:

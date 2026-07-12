@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - saltinis
   - tauta
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -30,14 +31,14 @@ Dusburgietis teigia, kad grunau rašė, jog Romovėje resp. Romuvoje augęs mil�
 ## Teiginiai
 
 <a id="claim-t-61004"></a>
-- t-002
+- t-001
   global_id: t-61004
   teiginys: "S. Grunau Krivį vadino Krivių Krivaičiu ir siejo šį vardą su Brutenio ir Videvučio tradicija."
   pagrindžia:
     - c-61637
 
 <a id="claim-t-61005"></a>
-- t-001
+- t-002
   global_id: t-61005
   teiginys: "S. Grunau rašė, kad Romuvoje augusiame milžiniškame ąžuole stovėjo Perkūno, Patulo ir Patrimpo stabai."
   pagrindžia:

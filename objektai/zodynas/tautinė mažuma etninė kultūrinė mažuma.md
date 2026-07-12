@@ -39,35 +39,35 @@ O tai reiškė, kad L I E T U V O S I S T O R I J A 124 lenkai, lietuviai, žyda
 ## Teiginiai
 
 <a id="claim-t-169934"></a>
-- t-002
+- t-001
   global_id: t-169934
   teiginys: "Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą."
   pagrindžia:
     - c-166869
 
 <a id="claim-t-169935"></a>
-- t-003
+- t-002
   global_id: t-169935
   teiginys: "Lenkai savo valstybingumo planuose lietuviams numatė tik tautinės mažumos statusą."
   pagrindžia:
     - c-154614
 
 <a id="claim-t-169936"></a>
-- t-005
+- t-003
   global_id: t-169936
   teiginys: "Tautinės mažumos Lietuvoje galėjo puoselėti savo kalbą ir kultūrą, bet nesijautė lygiateisės su lietuviais."
   pagrindžia:
     - c-154612
 
 <a id="claim-t-169934"></a>
-- t-002
+- t-004
   global_id: t-169934
   teiginys: "Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą."
   pagrindžia:
     - c-166869
 
 <a id="claim-t-183475"></a>
-- t-007
+- t-005
   global_id: t-183475
   teiginys: "Lenkai lietuviams, o lietuviai lenkiškai kalbantiesiems savo valstybės vizijose numatė tik tautinės mažumos statusą."
   pagrindžia:

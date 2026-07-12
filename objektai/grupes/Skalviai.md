@@ -36,49 +36,49 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
 ## Teiginiai
 
 <a id="claim-t-89211"></a>
-- t-002
+- t-001
   global_id: t-89211
   teiginys: "M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais."
   pagrindžia:
     - c-85204
 
 <a id="claim-t-89212"></a>
-- t-015
+- t-002
   global_id: t-89212
   teiginys: "1289 m. balandžio 23 d. brolis Meinhardas su kariuomene įžengė į skalvių žemę ir Nemuno pakrantėje pastatė Landeshutės pilį."
   pagrindžia:
     - c-85193
 
 <a id="claim-t-89213"></a>
-- t-010
+- t-003
   global_id: t-89213
   teiginys: "Magistras ir broliai, keršydami skalviams, įsiveržė į Skalvą, ją nusiaubė, daug žmonių išžudė, o moteris ir vaikus išsivarė."
   pagrindžia:
     - c-85196
 
 <a id="claim-t-89214"></a>
-- t-008
+- t-004
   global_id: t-89214
   teiginys: "Sembų fogtas brolis Ditrichas su Ordino kariais įsiveržė į abipus Nemuno buvusią skalvių žemę ir užpuolė pilį būsimos Ragainės vietoje."
   pagrindžia:
     - c-85195
 
 <a id="claim-t-89215"></a>
-- t-004
+- t-005
   global_id: t-89215
   teiginys: "Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje."
   pagrindžia:
     - c-85191
 
 <a id="claim-t-89216"></a>
-- t-011
+- t-006
   global_id: t-89216
   teiginys: "Skalvių viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su šeimomis pasitraukė pas Ordino brolius."
   pagrindžia:
     - c-85198
 
 <a id="claim-t-89217"></a>
-- t-012
+- t-007
   global_id: t-89217
   teiginys: "Prie Nemuno buvo pastatyta Skalvių pilis, skirta į Kristaus tikėjimą atsivertusiems skalviams gyventi."
   pagrindžia:
@@ -86,7 +86,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-85201
 
 <a id="claim-t-89218"></a>
-- t-003
+- t-008
   global_id: t-89218
   teiginys: "Materialinės kultūros požiūriu skalviai prie Nemuno žemupio siejami su kuršiais, kalbėjusiais pereinamąja kalba tarp prūsų, žemaičių ir latvių."
   pagrindžia:
@@ -101,70 +101,70 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - c-85192
 
 <a id="claim-t-89220"></a>
-- t-006
+- t-010
   global_id: t-89220
   teiginys: "Archeologijos duomenys rodo, kad skalvių gentinė kultūra Nemuno ir Jūros santakos rajone buvo ryški nuo mūsų eros pradžios."
   pagrindžia:
     - c-85205
 
 <a id="claim-t-89221"></a>
-- t-013
+- t-011
   global_id: t-89221
   teiginys: "Pereinamosiomis tarmėmis laikomi ir nadruviai, ypač skalviai."
   pagrindžia:
     - c-85199
 
 <a id="claim-t-89222"></a>
-- t-014
+- t-012
   global_id: t-89222
   teiginys: "Dusburgietis Skalvos nusiaubimą aiškina kaip brolių kerštą skalviams už ankstesnį nusikaltimą."
   pagrindžia:
     - c-85196
 
 <a id="claim-t-89223"></a>
-- t-005
+- t-013
   global_id: t-89223
   teiginys: "Skalvos centras buvo Ragainė (dab."
   pagrindžia:
     - c-85190
 
 <a id="claim-t-89224"></a>
-- t-007
+- t-014
   global_id: t-89224
   teiginys: "Po Karaliaučiaus pastatymo nadruviai, skalviai ir sūduviai įsiveržė į Sembą, plėšė bei degino kraštą ir grįždami pastatė Vėluvos pilį."
   pagrindžia:
     - c-85194
 
 <a id="claim-t-183897"></a>
-- t-016
+- t-015
   global_id: t-183897
   teiginys: "Skalviai laivais priplaukė Labguvos pilį, apyaušryje ją užėmė, išžudė vyrus, sudegino pilį, o moteris ir vaikus išsivedė."
   pagrindžia:
     - c-85192
 
 <a id="claim-t-183898"></a>
-- t-017
+- t-016
   global_id: t-183898
   teiginys: "Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui."
   pagrindžia:
     - c-85198
 
 <a id="claim-t-192455"></a>
-- t-018
+- t-017
   global_id: t-192455
   teiginys: "Narbutas Merkinės seniūnijos kaimiečius laikė senovės skalvių palikuonimis, nuo seno gyvenusiais tikrosios Lietuvos plotuose."
   pagrindžia:
     - c-175249
 
 <a id="claim-t-194362"></a>
-- t-019
+- t-018
   global_id: t-194362
   teiginys: "Apie Labguvos pilies sunaikinimą Sitai išgirdę, skalviai sunerimo iki širdies gelmių, o susirinkę į sueigą genties vyresnieji [seniores populi] pradėjo tartis, kaip atkeršyti."
   pagrindžia:
     - c-85192
 
 <a id="claim-t-194363"></a>
-- t-020
+- t-019
   global_id: t-194363
   teiginys: "Apie tai, kaip buvo apleista Skalvos žemė Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną."
   pagrindžia:

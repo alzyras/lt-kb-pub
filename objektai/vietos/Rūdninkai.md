@@ -33,14 +33,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-85894"></a>
-- t-002
+- t-001
   global_id: t-85894
   teiginys: "Kazimieras pamėgo Rūdninkus ir dažnai juose buvodavo, o Rūdninkai labiau išgarsėjo Žygimanto Senojo ir Žygimanto Augusto laikais."
   pagrindžia:
     - c-81878
 
 <a id="claim-t-85895"></a>
-- t-001
+- t-002
   global_id: t-85895
   teiginys: "Jogailos giminės karaliai mėgo viešėti Rūdninkų kaime, esančiame tarp didelių girių netoli Vilniaus."
   pagrindžia:

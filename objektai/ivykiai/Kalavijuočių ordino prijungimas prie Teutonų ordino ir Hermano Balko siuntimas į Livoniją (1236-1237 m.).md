@@ -55,21 +55,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62814"></a>
-- t-002
+- t-001
   global_id: t-62814
   teiginys: "Po Folkvino ir daugelio brolių žūties popiežius įsakė Livonijos Kristaus karių ordino broliams vilkėti Teutonų ordino drabužius."
   pagrindžia:
     - c-63627
 
 <a id="claim-t-62815"></a>
-- t-003
+- t-002
   global_id: t-62815
   teiginys: "1237 m. didysis magistras Hermanas pasiuntė Hermaną Balką su 40 brolių ir daugybe ginklanešių į Livoniją."
   pagrindžia:
     - c-63627
 
 <a id="claim-t-62816"></a>
-- t-001
+- t-003
   global_id: t-62816
   teiginys: "Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą Vokiečių ordinui."
   pagrindžia:

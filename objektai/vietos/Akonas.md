@@ -55,63 +55,63 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
 ## Teiginiai
 
 <a id="claim-t-179736"></a>
-- t-005
+- t-001
   global_id: t-179736
   teiginys: "Aprašęs Akono žlugimą 1291 m., Petras Dusburgietis pateikė Šventosios Žemės apraudojimą ir trumpą kryžiaus žygių istoriją."
   pagrindžia:
     - c-163404
 
 <a id="claim-t-179737"></a>
-- t-007
+- t-002
   global_id: t-179737
   teiginys: "Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone."
   pagrindžia:
     - c-163408
 
 <a id="claim-t-179739"></a>
-- t-008
+- t-003
   global_id: t-179739
   teiginys: "Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus pastatydino bažnyčią, ligoninę ir kitus namus."
   pagrindžia:
     - c-163406
 
 <a id="claim-t-179740"></a>
-- t-010
+- t-004
   global_id: t-179740
   teiginys: "Dusburgiečio pasakojime 1290 m. pagonys iš pamatų sugriovė Akoną, kuris buvo likęs vienintelis Šventosios Žemės miestas."
   pagrindžia:
     - c-163402
 
 <a id="claim-t-179741"></a>
-- t-002
+- t-005
   global_id: t-179741
   teiginys: "Seniausias pasakojamojo pobūdžio šaltinis apie Vokiečių ordino įsikūrimą greičiausiai 1204–1211 m. atsirado Akone."
   pagrindžia:
     - c-163398
 
 <a id="claim-t-179742"></a>
-- t-009
+- t-006
   global_id: t-179742
   teiginys: "1290 m. gegužės 19 d. sultonas sugriovė Akoną, paėmė į nelaisvę ir išžudė daug krikščionių."
   pagrindžia:
     - c-163407
 
 <a id="claim-t-179743"></a>
-- t-003
+- t-007
   global_id: t-179743
   teiginys: "Paėmus Akoną, brolis Henrikas Valpotas prie miesto sienų priešais Šv. Mikalojaus vartus nupirko sklypą bažnyčiai ir ligoninei."
   pagrindžia:
     - c-163406
 
 <a id="claim-t-179744"></a>
-- t-001
+- t-008
   global_id: t-179744
   teiginys: "Akonas šiame leidime apibūdinamas kaip Jeruzalės karalystės sostinė, kurios žlugimą aprašė kronikininkas."
   pagrindžia:
     - c-163404
 
 <a id="claim-t-179745"></a>
-- t-004
+- t-009
   global_id: t-179745
   teiginys: "1290 m. Akonas buvo paskutinis likęs miestas prieš jo sugriovimą."
   pagrindžia:

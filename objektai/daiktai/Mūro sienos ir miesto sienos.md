@@ -84,28 +84,28 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
     - c-55713
 
 <a id="claim-t-89428"></a>
-- t-007
+- t-004
   global_id: t-89428
   teiginys: "1330 m. Eberhardas iš Manheimo neįžengė į Rygą, kol miesto sienoje nebuvo išlaužta 30 uolekčių ilgio spraga."
   pagrindžia:
     - c-85389
 
 <a id="claim-t-89429"></a>
-- t-004
+- t-005
   global_id: t-89429
   teiginys: "Krokuva už geriausiai sutvirtintas mūro sienas ir svarbias privilegijas buvo skolinga Lešekui Juodajam."
   pagrindžia:
     - c-85392
 
 <a id="claim-t-89430"></a>
-- t-005
+- t-006
   global_id: t-89430
   teiginys: "Gedimino laikų Vilnius dar nebuvo bokštų ir mūro sienų saugomas miestas."
   pagrindžia:
     - c-85390
 
 <a id="claim-t-89431"></a>
-- t-006
+- t-007
   global_id: t-89431
   teiginys: "1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius."
   pagrindžia:

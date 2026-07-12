@@ -43,14 +43,14 @@ Narbutas rašo, kad Meletijus ir Vaiselijus tą patį dievo vardą pateikė kaip
     - c-173344
 
 <a id="claim-t-190816"></a>
-- t-003
+- t-002
   global_id: t-190816
   teiginys: "Teodoro Narbuto pasakojime Vaiselijumi remiamasi Hoggerland pavadinimą siejant su mitinio kunigaikščio Hogo vardu."
   pagrindžia:
     - c-173698
 
 <a id="claim-t-191910"></a>
-- t-004
+- t-003
   global_id: t-191910
   teiginys: "Narbuto perteiktas Hartknochas Vaiselijų įvardijo tarp kronikininkų, citavusių vyskupo Kristijono kroniką apie senovės Prūsiją."
   pagrindžia:

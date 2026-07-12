@@ -50,7 +50,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62718"></a>
-- t-002
+- t-001
   global_id: t-62718
   teiginys: "214 Čia minimi seni skaičiavimo budai mazgeliais, įkirtimais."
   pagrindžia:

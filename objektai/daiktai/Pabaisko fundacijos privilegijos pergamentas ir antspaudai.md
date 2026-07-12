@@ -7,9 +7,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - institucija
   - karalius
   - kunigas
-  - miestas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -59,7 +59,7 @@ Nenurodyta
     - c-82993
 
 <a id="claim-t-87014"></a>
-- t-004
+- t-002
   global_id: t-87014
   teiginys: "Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas."
   pagrindžia:

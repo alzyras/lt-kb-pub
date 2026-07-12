@@ -13,6 +13,7 @@ tags:
   - asmuo
   - karalius
   - karas
+  - šventė
 amziai:
   - 'VI'
 periodo_grupes:
@@ -46,7 +47,7 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
     - c-60889
 
 <a id="claim-t-60257"></a>
-- t-001
+- t-002
   global_id: t-60257
   teiginys: "Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį."
   pagrindžia:

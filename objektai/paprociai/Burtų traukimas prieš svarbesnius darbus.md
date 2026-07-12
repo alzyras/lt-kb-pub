@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - krikštas
   - paprotys
   - pilis
@@ -51,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62672"></a>
-- t-002
+- t-001
   global_id: t-62672
   teiginys: "Lietuviai prieš išpuolį prieš Ragainės brolius metė burtus, kurie nežadėjo sėkmės."
   pagrindžia:
     - c-63406
 
 <a id="claim-t-62673"></a>
-- t-001
+- t-002
   global_id: t-62673
   teiginys: "Prūsai prieš svarbesnius darbus traukdavo burtus, klausdami savo dievų, ar darbas pavyks gerai, ar blogai."
   pagrindžia:

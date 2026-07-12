@@ -32,7 +32,7 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
 ## Teiginiai
 
 <a id="claim-t-86441"></a>
-- t-003
+- t-001
   global_id: t-86441
   teiginys: "Aplink pilį stovėję pastatai buvo atskirti žiogriais, arba statinių tvoromis, tarp jų plytėjo daržai ir pievos."
   pagrindžia:
@@ -46,14 +46,14 @@ Aplink tą aikštę, senosios religijos apeigoms parinktą, tęsėsi plačiai i�
     - c-82421
 
 <a id="claim-t-86443"></a>
-- t-004
+- t-003
   global_id: t-86443
   teiginys: "Vilniaus miesto centro aikštė buvo apstatyta prekijų krautuvėlėmis ir nuo kryžiuočių antpuolių apjuosta statinių tvoromis."
   pagrindžia:
     - c-82423
 
 <a id="claim-t-86444"></a>
-- t-001
+- t-004
   global_id: t-86444
   teiginys: "Žemutinės pilies pastatai buvo daugiausia mediniai, apjuosti aukštais bokštais ir palisadais."
   pagrindžia:

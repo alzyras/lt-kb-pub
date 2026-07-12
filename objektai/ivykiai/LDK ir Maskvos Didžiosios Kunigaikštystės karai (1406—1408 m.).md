@@ -68,21 +68,21 @@ Nenurodyta
     - c-169952
 
 <a id="claim-t-186732"></a>
-- t-004
+- t-002
   global_id: t-186732
   teiginys: "Komentaro autoriaus manymu, Bychovco kronikoje turimas galvoje Vytauto vadovaujamos LDK kariuomenės žygis 1408 m. rudenį."
   pagrindžia:
     - c-169952
 
 <a id="claim-t-186733"></a>
-- t-002
+- t-003
   global_id: t-186733
   teiginys: "Komentaras karo priežastimi laiko Vytauto siekį plėsti įtaką Pskove ir Didžiajame Naugarde bei ten pasodinti savo vietininkus."
   pagrindžia:
     - c-169952
 
 <a id="claim-t-186734"></a>
-- t-003
+- t-004
   global_id: t-186734
   teiginys: "1406–1408 m. LDK ir Maskvos karų veiksmai vyko LDK rytų pasienyje, Ugros ir Okos upių ruože."
   pagrindžia:

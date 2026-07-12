@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192047"></a>
-- t-002
+- t-001
   global_id: t-192047
   teiginys: "Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas."
   pagrindžia:
     - c-174918
 
 <a id="claim-t-192048"></a>
-- t-001
+- t-002
   global_id: t-192048
   teiginys: "T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai."
   pagrindžia:

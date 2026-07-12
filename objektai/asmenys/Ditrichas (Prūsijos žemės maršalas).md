@@ -38,28 +38,28 @@ Dusburgietis teigia, kad tuo metu Prūsijos žemės maršalu buvo brolis Ditrich
 ## Teiginiai
 
 <a id="claim-t-89685"></a>
-- t-003
+- t-001
   global_id: t-89685
   teiginys: "Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu."
   pagrindžia:
     - c-85627
 
 <a id="claim-t-89686"></a>
-- t-004
+- t-002
   global_id: t-89686
   teiginys: "Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene."
   pagrindžia:
     - c-85625
 
 <a id="claim-t-89687"></a>
-- t-001
+- t-003
   global_id: t-89687
   teiginys: "Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei."
   pagrindžia:
     - c-85627
 
 <a id="claim-t-89688"></a>
-- t-002
+- t-004
   global_id: t-89688
   teiginys: "Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių."
   pagrindžia:

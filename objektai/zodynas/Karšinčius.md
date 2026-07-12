@@ -36,7 +36,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
 ## Teiginiai
 
 <a id="claim-t-07705"></a>
-- t-004
+- t-001
   global_id: t-07705
   teiginys: "Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą."
   pagrindžia:
@@ -44,7 +44,7 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
     - c-09635
 
 <a id="claim-t-07706"></a>
-- t-003
+- t-002
   global_id: t-07706
   teiginys: "Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą."
   pagrindžia:

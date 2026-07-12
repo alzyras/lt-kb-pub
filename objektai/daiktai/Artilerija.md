@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-187515"></a>
-- t-003
+- t-001
   global_id: t-187515
   teiginys: "Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos."
   pagrindžia:
     - c-170467
 
 <a id="claim-t-187516"></a>
-- t-001
+- t-002
   global_id: t-187516
   teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
   pagrindžia:

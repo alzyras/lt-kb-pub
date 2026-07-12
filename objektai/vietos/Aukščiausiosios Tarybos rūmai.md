@@ -39,42 +39,42 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 ## Teiginiai
 
 <a id="claim-t-49628"></a>
-- t-005
+- t-001
   global_id: t-49628
   teiginys: "Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
   pagrindžia:
     - c-51594
 
 <a id="claim-t-49629"></a>
-- t-007
+- t-002
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
   pagrindžia:
     - c-51592
 
 <a id="claim-t-49630"></a>
-- t-006
+- t-003
   global_id: t-49630
   teiginys: "Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais."
   pagrindžia:
     - c-51590
 
 <a id="claim-t-49629"></a>
-- t-007
+- t-004
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
   pagrindžia:
     - c-51592
 
 <a id="claim-t-49632"></a>
-- t-008
+- t-005
   global_id: t-49632
   teiginys: "1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis."
   pagrindžia:
     - c-51591
 
 <a id="claim-t-49629"></a>
-- t-007
+- t-006
   global_id: t-49629
   teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
   pagrindžia:

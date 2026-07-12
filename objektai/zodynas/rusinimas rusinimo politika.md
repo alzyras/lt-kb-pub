@@ -32,14 +32,14 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
 ## Teiginiai
 
 <a id="claim-t-22285"></a>
-- t-002
+- t-001
   global_id: t-22285
   teiginys: "Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką."
   pagrindžia:
     - c-24975
 
 <a id="claim-t-22286"></a>
-- t-001
+- t-002
   global_id: t-22286
   teiginys: "Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą."
   pagrindžia:

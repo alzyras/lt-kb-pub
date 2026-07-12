@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ginklas
   - pilis
+  - šeima
 amziai:
   - 'XI'
 periodo_grupes:
@@ -39,14 +40,14 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
 ## Teiginiai
 
 <a id="claim-t-60096"></a>
-- t-002
+- t-001
   global_id: t-60096
   teiginys: "Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto."
   pagrindžia:
     - c-60729
 
 <a id="claim-t-60097"></a>
-- t-001
+- t-002
   global_id: t-60097
   teiginys: "Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių."
   pagrindžia:

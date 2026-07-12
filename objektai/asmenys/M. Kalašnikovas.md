@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - ginklas
+  - institucija
   - miestas
 amziai:
   - 'XX'

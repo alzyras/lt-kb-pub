@@ -59,7 +59,7 @@ Nenurodyta
     - c-83200
 
 <a id="claim-t-87220"></a>
-- t-001
+- t-002
   global_id: t-87220
   teiginys: "Lenkų iššūkyje prancūzai turėjo pasirinkti dvikovos vietą, o priėmę kvietimą pasirinko Prahą ir imperatorių Vaclovą teisėju."
   pagrindžia:

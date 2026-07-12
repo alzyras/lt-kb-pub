@@ -11,8 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - privilegija
+  - institucija
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -40,14 +40,14 @@ Istorinės topografijos ir senų gyvenviečių liekanų aprašymo terminas.
 ## Teiginiai
 
 <a id="claim-t-192196"></a>
-- t-002
+- t-001
   global_id: t-192196
   teiginys: "Teodoras Narbutas Rus ramovę prie Nemuno šakos Russ įvardija kaip senovinę piliavietę."
   pagrindžia:
     - c-175060
 
 <a id="claim-t-192197"></a>
-- t-001
+- t-002
   global_id: t-192197
   teiginys: "Teodoras Narbutas rašo, kad prie Nemuno yra daug senovės piliaviečių, pylimų, pilkapių, kapų ir šventųjų vietų."
   pagrindžia:

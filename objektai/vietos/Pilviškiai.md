@@ -36,14 +36,14 @@ Pilviškių vis. Pilviškių vls.
 ## Teiginiai
 
 <a id="claim-t-42027"></a>
-- t-002
+- t-001
   global_id: t-42027
   teiginys: "1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus."
   pagrindžia:
     - c-45275
 
 <a id="claim-t-42028"></a>
-- t-001
+- t-002
   global_id: t-42028
   teiginys: "1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus."
   pagrindžia:

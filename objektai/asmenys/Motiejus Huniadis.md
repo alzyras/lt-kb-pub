@@ -40,14 +40,14 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
 ## Teiginiai
 
 <a id="claim-t-79132"></a>
-- t-002
+- t-001
   global_id: t-79132
   teiginys: "Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m."
   pagrindžia:
     - c-76219
 
 <a id="claim-t-79133"></a>
-- t-001
+- t-002
   global_id: t-79133
   teiginys: "Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams."
   pagrindžia:

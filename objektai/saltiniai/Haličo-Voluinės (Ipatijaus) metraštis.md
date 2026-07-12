@@ -45,28 +45,28 @@ Haličo-Voluinės, arba Ipatijaus, metraštis minimas kaip šaltinis, kuriame pr
 ## Teiginiai
 
 <a id="claim-t-191714"></a>
-- t-002
+- t-001
   global_id: t-191714
   teiginys: "Narbutas Hipatijaus, arba Voluinės, metraščiu grindė žinią, kad Rostislavas Riurikovičius užkariavo Romano valdas prie Kamenės."
   pagrindžia:
     - c-174596
 
 <a id="claim-t-191918"></a>
-- t-003
+- t-002
   global_id: t-191918
   teiginys: "Narbutas rašė, kad 1227 m. jotvingių antpuoliai pasiekė Voluinės Vladimirą, kur buvo suimti Sutras Monoduničius ir Stegutas Zebrovičius."
   pagrindžia:
     - c-174800
 
 <a id="claim-t-191919"></a>
-- t-004
+- t-003
   global_id: t-191919
   teiginys: "Narbutas rašė, kad 1247 m. kunigaikštis Vasilka, išžygiavęs iš Voluinės Vladimiro, trečią dieną pasivijo jotvingius prie Drohičino."
   pagrindžia:
     - c-174801
 
 <a id="claim-t-193594"></a>
-- t-005
+- t-004
   global_id: t-193594
   teiginys: "Haličo-Voluinės (Ipatijaus) metraštyje prie 1252 m. minimi keturi dievai."
   pagrindžia:

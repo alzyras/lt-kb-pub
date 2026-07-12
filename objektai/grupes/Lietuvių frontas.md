@@ -37,14 +37,14 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
 ## Teiginiai
 
 <a id="claim-t-74624"></a>
-- t-002
+- t-001
   global_id: t-74624
   teiginys: "Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą."
   pagrindžia:
     - c-72673
 
 <a id="claim-t-74625"></a>
-- t-001
+- t-002
   global_id: t-74625
   teiginys: "Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį."
   pagrindžia:

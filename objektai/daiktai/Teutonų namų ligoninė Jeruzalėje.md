@@ -52,14 +52,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-89436"></a>
-- t-002
+- t-001
   global_id: t-89436
   teiginys: "Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui ir jo broliams."
   pagrindžia:
     - c-85394
 
 <a id="claim-t-89437"></a>
-- t-001
+- t-002
   global_id: t-89437
   teiginys: "Bremeno ir Liubeko miestiečiai padovanojo Teutonų namų ligoninę Jeruzalėje Henrikui Valpotui su gautomis išmaldomis ir gėrybėmis."
   pagrindžia:

@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - lietuva
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
@@ -51,28 +52,28 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-76260"></a>
-- t-009
+- t-001
   global_id: t-76260
   teiginys: "Pagal citatoje aprašytą Europos žemėlapio linijų sankirtą geografinis Europos centras yra Lietuvoje."
   pagrindžia:
     - c-16568
 
 <a id="claim-t-76261"></a>
-- t-008
+- t-002
   global_id: t-76261
   teiginys: "Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos."
   pagrindžia:
     - c-73884
 
 <a id="claim-t-76262"></a>
-- t-007
+- t-003
   global_id: t-76262
   teiginys: "Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus."
   pagrindžia:
     - c-24123
 
 <a id="claim-t-76263"></a>
-- t-006
+- t-004
   global_id: t-76263
   teiginys: "Geografinis Europos centras nurodomas Lietuvoje."
   pagrindžia:

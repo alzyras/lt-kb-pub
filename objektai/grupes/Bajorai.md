@@ -45,77 +45,77 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 ## Teiginiai
 
 <a id="claim-t-169559"></a>
-- t-006
+- t-001
   global_id: t-169559
   teiginys: "Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m."
   pagrindžia:
     - c-154274
 
 <a id="claim-t-169560"></a>
-- t-009
+- t-002
   global_id: t-169560
   teiginys: "Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje."
   pagrindžia:
     - c-154275
 
 <a id="claim-t-169561"></a>
-- t-001
+- t-003
   global_id: t-169561
   teiginys: "Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą."
   pagrindžia:
     - c-154268
 
 <a id="claim-t-169562"></a>
-- t-007
+- t-004
   global_id: t-169562
   teiginys: "Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais."
   pagrindžia:
     - c-154273
 
 <a id="claim-t-169563"></a>
-- t-008
+- t-005
   global_id: t-169563
   teiginys: "Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas."
   pagrindžia:
     - c-154272
 
 <a id="claim-t-169564"></a>
-- t-005
+- t-006
   global_id: t-169564
   teiginys: "LDK bajorai turėjo dvilypį tautinį mentalitetą ir vadino save sykiu lietuviais ir lenkais."
   pagrindžia:
     - c-25107
 
 <a id="claim-t-169565"></a>
-- t-004
+- t-007
   global_id: t-169565
   teiginys: "Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai."
   pagrindžia:
     - c-154275
 
 <a id="claim-t-169566"></a>
-- t-003
+- t-008
   global_id: t-169566
   teiginys: "Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais."
   pagrindžia:
     - c-154270
 
 <a id="claim-t-169567"></a>
-- t-011
+- t-009
   global_id: t-169567
   teiginys: "Bajorai prarado savo valstybę, bet gavo rusų bajorų teises ir tapo privilegijuotais imperijos valdiniais."
   pagrindžia:
     - c-154276
 
 <a id="claim-t-169568"></a>
-- t-002
+- t-010
   global_id: t-169568
   teiginys: "Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas."
   pagrindžia:
     - c-154269
 
 <a id="claim-t-183120"></a>
-- t-012
+- t-011
   global_id: t-183120
   teiginys: "Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas."
   pagrindžia:

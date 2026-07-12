@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-93001"></a>
-- t-009
+- t-001
   global_id: t-93001
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną tarną ir po vieną vežimą maisto šešioms savaitėms."
   pagrindžia:
     - c-14342
 
 <a id="claim-t-93002"></a>
-- t-006
+- t-002
   global_id: t-93002
   teiginys: "Jogaila įsakė Lenkijos riteriams pasiimti po vieną vežimą maisto šešioms savaitėms."
   pagrindžia:
     - c-14342
 
 <a id="claim-t-93003"></a>
-- t-008
+- t-003
   global_id: t-93003
   teiginys: "Vytautui pakeliui į Trakus nukritus nuo arklio, jis buvo nuvežtas žmonos vežime."
   pagrindžia:

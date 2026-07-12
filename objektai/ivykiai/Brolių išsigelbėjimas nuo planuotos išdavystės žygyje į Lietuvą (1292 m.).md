@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - ginklas
   - ivykis
+  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'
@@ -52,7 +53,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-62758"></a>
-- t-002
+- t-001
   global_id: t-62758
   teiginys: "Henrikui Cutsvertui pranešus apie išdavystės pavojų, magistras pasiuntė į Lietuvą žvalgus, kurie patvirtino perspėjimą."
   pagrindžia:
@@ -60,21 +61,21 @@ Nenurodyta
     - c-63548
 
 <a id="claim-t-62759"></a>
-- t-003
+- t-002
   global_id: t-62759
   teiginys: "Magistrui paskyrus brolius saugoti svarbiausius sąmokslininkus, klastininkai išsigando ir broliai sveiki grįžo namo."
   pagrindžia:
     - c-63547
 
 <a id="claim-t-62760"></a>
-- t-001
+- t-003
   global_id: t-62760
   teiginys: "1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   pagrindžia:
     - c-63545
 
 <a id="claim-t-62760"></a>
-- t-001
+- t-004
   global_id: t-62760
   teiginys: "1292 m. magistras sutelkė didelę brolių ir kitų ginkluotųjų kariuomenę ir patraukė prie lietuvių sienų."
   pagrindžia:

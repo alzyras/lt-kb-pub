@@ -67,28 +67,28 @@ Nenurodyta
     - c-73166
 
 <a id="claim-t-75364"></a>
-- t-003
+- t-002
   global_id: t-75364
   teiginys: "Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir atsirado poreikis pažinti savo istoriją."
   pagrindžia:
     - c-73166
 
 <a id="claim-t-75365"></a>
-- t-002
+- t-003
   global_id: t-75365
   teiginys: "Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai."
   pagrindžia:
     - c-73165
 
 <a id="claim-t-75366"></a>
-- t-005
+- t-004
   global_id: t-75366
   teiginys: "Perimant Vakarų kultūros idėjas Lietuvoje susipažinta su kronikų rašymo tradicija ir sukurta lietuvių kilmės iš romėnų teorija."
   pagrindžia:
     - c-73164
 
 <a id="claim-t-75367"></a>
-- t-004
+- t-005
   global_id: t-75367
   teiginys: "Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai."
   pagrindžia:

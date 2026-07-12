@@ -38,14 +38,14 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
 ## Teiginiai
 
 <a id="claim-t-32693"></a>
-- t-002
+- t-001
   global_id: t-32693
   teiginys: "Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas."
   pagrindžia:
     - c-34101
 
 <a id="claim-t-32694"></a>
-- t-001
+- t-002
   global_id: t-32694
   teiginys: "Volinijos-Haličo kunigaikštis Levas, keršydamas už valdžios Lietuvoje atidavimą Švarnui, pasikvietė Vaišvilką į svečius ir jį nužudė."
   pagrindžia:

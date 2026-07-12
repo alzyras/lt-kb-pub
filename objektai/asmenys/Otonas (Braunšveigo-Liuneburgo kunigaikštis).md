@@ -39,14 +39,14 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
 ## Teiginiai
 
 <a id="claim-t-60189"></a>
-- t-002
+- t-001
   global_id: t-60189
   teiginys: "Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis."
   pagrindžia:
     - c-60821
 
 <a id="claim-t-60190"></a>
-- t-001
+- t-002
   global_id: t-60190
   teiginys: "Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams."
   pagrindžia:

@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-87148"></a>
-- t-002
+- t-001
   global_id: t-87148
   teiginys: "1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi."
   pagrindžia:
     - c-83128
 
 <a id="claim-t-87149"></a>
-- t-001
+- t-002
   global_id: t-87149
   teiginys: "Lucko suvažiavimas buvo sušauktas tartis dėl sąjungos prieš turkus, bet svarstymai nutrūko iškilus Vytauto karūnos klausimui."
   pagrindžia:

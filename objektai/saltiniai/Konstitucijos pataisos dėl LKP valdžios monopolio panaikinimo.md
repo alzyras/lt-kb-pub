@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
+  - institucija
   - saltinis
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -38,14 +38,14 @@ Volkaitė - Kulikauskienė, parašiusi Lietuviai IX-XII amžiais (VoKL), Klasin�
 ## Teiginiai
 
 <a id="claim-t-97217"></a>
-- t-002
+- t-001
   global_id: t-97217
   teiginys: "R. Volkaitė-Kulikauskienė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“."
   pagrindžia:
     - c-91703
 
 <a id="claim-t-97218"></a>
-- t-001
+- t-002
   global_id: t-97218
   teiginys: "R. Volkaitė-Kulikauskienė parašė „Lietuviai IX-XII amžiais“ ir darbą apie klasinės visuomenės susidarymą Lietuvoje."
   pagrindžia:

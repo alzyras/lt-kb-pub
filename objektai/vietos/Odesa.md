@@ -37,7 +37,7 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 ## Teiginiai
 
 <a id="claim-t-68834"></a>
-- t-002
+- t-001
   global_id: t-68834
   teiginys: "Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   pagrindžia:

@@ -42,42 +42,42 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
 ## Teiginiai
 
 <a id="claim-t-173358"></a>
-- t-003
+- t-001
   global_id: t-173358
   teiginys: "1431 m. Didžiojoje Lenkijoje įsiplieskė karas su Kryžiuočių ordinu."
   pagrindžia:
     - c-157684
 
 <a id="claim-t-173359"></a>
-- t-007
+- t-002
   global_id: t-173359
   teiginys: "Sudarant Liublino uniją, Didžioji Lenkija ir Mažoji Lenkija turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais."
   pagrindžia:
     - c-157682
 
 <a id="claim-t-173361"></a>
-- t-006
+- t-003
   global_id: t-173361
   teiginys: "1431 m. Didžiojoje Lenkijoje kilo karas su Kryžiuočių ordinu."
   pagrindžia:
     - c-157680
 
 <a id="claim-t-183009"></a>
-- t-008
+- t-004
   global_id: t-183009
   teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
   pagrindžia:
     - c-166402
 
 <a id="claim-t-184939"></a>
-- t-008
+- t-005
   global_id: t-184939
   teiginys: "Į Didžiosios Lenkijos žemes buvo įsiveržta sutelkus kariuomenę prie Gardino."
   pagrindžia:
     - c-168300
 
 <a id="claim-t-184940"></a>
-- t-009
+- t-006
   global_id: t-184940
   teiginys: "Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją."
   pagrindžia:

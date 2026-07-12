@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - laidotuvės
   - miestas
   - mūšis
   - paprotys

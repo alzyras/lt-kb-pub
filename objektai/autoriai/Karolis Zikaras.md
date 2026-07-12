@@ -43,84 +43,84 @@ Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudar
 ## Teiginiai
 
 <a id="claim-t-171496"></a>
-- t-018
+- t-001
   global_id: t-171496
   teiginys: "Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų."
   pagrindžia:
     - c-156018
 
 <a id="claim-t-171497"></a>
-- t-009
+- t-002
   global_id: t-171497
   teiginys: "Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius."
   pagrindžia:
     - c-42426
 
 <a id="claim-t-171498"></a>
-- t-012
+- t-003
   global_id: t-171498
   teiginys: "Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“."
   pagrindžia:
     - c-156021
 
 <a id="claim-t-171499"></a>
-- t-014
+- t-004
   global_id: t-171499
   teiginys: "Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius."
   pagrindžia:
     - c-156019
 
 <a id="claim-t-171500"></a>
-- t-007
+- t-005
   global_id: t-171500
   teiginys: "Karolis Zikaras buvo šio leidinio skyrių įvadų autorius."
   pagrindžia:
     - c-42424
 
 <a id="claim-t-171501"></a>
-- t-011
+- t-006
   global_id: t-171501
   teiginys: "Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius."
   pagrindžia:
     - c-156023
 
 <a id="claim-t-171502"></a>
-- t-005
+- t-007
   global_id: t-171502
   teiginys: "Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas."
   pagrindžia:
     - c-11411
 
 <a id="claim-t-171504"></a>
-- t-015
+- t-008
   global_id: t-171504
   teiginys: "Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“."
   pagrindžia:
     - c-156024
 
 <a id="claim-t-171505"></a>
-- t-010
+- t-009
   global_id: t-171505
   teiginys: "Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“"
   pagrindžia:
     - c-42427
 
 <a id="claim-t-171506"></a>
-- t-013
+- t-010
   global_id: t-171506
   teiginys: "Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“."
   pagrindžia:
     - c-156020
 
 <a id="claim-t-171507"></a>
-- t-017
+- t-011
   global_id: t-171507
   teiginys: "Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai."
   pagrindžia:
     - c-156025
 
 <a id="claim-t-171508"></a>
-- t-016
+- t-012
   global_id: t-171508
   teiginys: "Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai."
   pagrindžia:

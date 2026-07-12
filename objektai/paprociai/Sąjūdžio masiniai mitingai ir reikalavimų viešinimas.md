@@ -9,7 +9,8 @@ date_start: '1988'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'
@@ -67,7 +68,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-23375"></a>
-- t-002
+- t-001
   global_id: t-23375
   teiginys: "1988 m. liepą-rugsėjį visoje Lietuvoje steigėsi Sąjūdžio iniciatyvinės grupės ir vyko didžiuliai mitingai."
   pagrindžia:

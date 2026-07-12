@@ -36,7 +36,7 @@ Papildomos aiškios formos neišskirtos.
 ## Teiginiai
 
 <a id="claim-t-07651"></a>
-- t-002
+- t-001
   global_id: t-07651
   teiginys: "`Minkštpautis` šiame tekste reiškia nevyrišką, lepną ar silpną žmogų."
   pagrindžia:

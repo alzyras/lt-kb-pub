@@ -35,6 +35,7 @@ Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatori
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89881|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Karolis (didysis magistras).md#claim-t-89882|Karolis (didysis magistras)]]: 1315 m. spalio 12 d. didysis magistras Karolis subūrė kariuomenę Junigedos piliai vaduoti.
 - susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
+- susijęs iš [[objektai/asmenys/Karolis Šidlauskas.md#claim-t-195277|Karolis Šidlauskas (samdinys)]]: Karolis Šidlauskas drauge su pasakotoju tarnavo per vyrą ir buvo vadinamas Karaliuku.
 - susijęs iš [[objektai/ivykiai/Ukmergės pilkapio atkasimas Karolio Kozakovskio.md#claim-t-192044|Ukmergės pilkapio atkasimas Karolio Kozakovskio]]: 1838 m. Karolis Kozakovskis atkasė Ukmergės pilkapį.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40108|Frederikas Joachimas Mansfeldas]]: 1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.
 - susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.

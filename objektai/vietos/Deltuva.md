@@ -36,14 +36,14 @@ Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš vis
 ## Teiginiai
 
 <a id="claim-t-121296"></a>
-- t-002
+- t-001
   global_id: t-121296
   teiginys: "Ipatijaus metraštis Deltuvą prie Ukmergės mini kaip vieną iš dviejų Mindaugo priešų opozicijos centrų."
   pagrindžia:
     - c-111138
 
 <a id="claim-t-121297"></a>
-- t-001
+- t-002
   global_id: t-121297
   teiginys: "Taip ir Jonas Jurevičius iš Deltuvos turto dešimtinę nuo visų javų iš visų laukų, tiek iš pirktų žemių ir privažiuojamų ."
   pagrindžia:

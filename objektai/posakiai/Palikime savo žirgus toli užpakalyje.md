@@ -37,14 +37,14 @@ Mato patarimas yra pėsčio puolimo ir atsitraukimo vilčių atsisakymo formulė
 ## Teiginiai
 
 <a id="claim-t-09674"></a>
-- t-003
+- t-001
   global_id: t-09674
   teiginys: "Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis."
   pagrindžia:
     - c-12486
 
 <a id="claim-t-09675"></a>
-- t-004
+- t-002
   global_id: t-09675
   teiginys: "„Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio."
   pagrindžia:

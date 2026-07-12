@@ -20,6 +20,7 @@ tags:
   - krikštas
   - vieta
   - vyskupas
+  - šeima
 amziai:
   - 'XV'
   - 'XXI'
@@ -45,42 +46,42 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
 ## Teiginiai
 
 <a id="claim-t-181441"></a>
-- t-009
+- t-001
   global_id: t-181441
   teiginys: "2002 m. lapkritį Prahoje Lietuva ir dar šešios NATO kandidatės pakviestos pradėti derybas dėl narystės NATO."
   pagrindžia:
     - c-164994
 
 <a id="claim-t-181442"></a>
-- t-010
+- t-002
   global_id: t-181442
   teiginys: "Pirmuoju „Aušros“ redaktoriumi tapo tuo metu Prahoje gyvenęs Jonas Basanavičius."
   pagrindžia:
     - c-164993
 
 <a id="claim-t-183079"></a>
-- t-006
+- t-003
   global_id: t-183079
   teiginys: "Į Lietuvą išsiųstai imperatoriaus delegacijai vadovavo Prahos arkivyskupas Ernestas."
   pagrindžia:
     - c-166468
 
 <a id="claim-t-183868"></a>
-- t-013
+- t-004
   global_id: t-183868
   teiginys: "Prancūzai priėmė kvietimą į dvikovą ir pasirinko Prahą kautynių vieta."
   pagrindžia:
     - c-167253
 
 <a id="claim-t-185099"></a>
-- t-014
+- t-005
   global_id: t-185099
   teiginys: "Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų."
   pagrindžia:
     - c-168460
 
 <a id="claim-t-193227"></a>
-- t-015
+- t-006
   global_id: t-193227
   teiginys: "Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv."
   pagrindžia:

@@ -41,21 +41,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-96027"></a>
-- t-002
+- t-001
   global_id: t-96027
   teiginys: "Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą."
   pagrindžia:
     - c-90781
 
 <a id="claim-t-96028"></a>
-- t-004
+- t-002
   global_id: t-96028
   teiginys: "1424 m. Didysis Machmetas Vytauto pagalba atsisėdo į Kipčako sostą ir išsilaikė iki 1437 ar 1438 m."
   pagrindžia:
     - c-90779
 
 <a id="claim-t-96029"></a>
-- t-001
+- t-003
   global_id: t-96029
   teiginys: "1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas."
   pagrindžia:

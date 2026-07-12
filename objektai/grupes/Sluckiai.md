@@ -8,6 +8,7 @@ atnaujinta: ''
 tags:
   - grupe
   - kunigaikštis
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -37,7 +38,7 @@ Vėliau iš šių periferinių sritinių žemių kunigaikščių kilo garsios v�
     - c-166569
 
 <a id="claim-t-20013"></a>
-- t-001
+- t-002
   global_id: t-20013
   teiginys: "Sluckiai kilo iš periferinių sritinių žemių kunigaikščių ir tapo viena iš garsių vėlesnių laikų LDK giminių."
   pagrindžia:

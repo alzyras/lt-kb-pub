@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -49,14 +50,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54266"></a>
-- t-002
+- t-001
   global_id: t-54266
   teiginys: "Gediminas ir Algirdas už teisę valdyti prisijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
   pagrindžia:
     - c-55156
 
 <a id="claim-t-54267"></a>
-- t-001
+- t-002
   global_id: t-54267
   teiginys: "Gediminas ir Algirdas už teisę valdyti prie Lietuvos prijungtas rusų žemes turėjo nuolat mokėti duoklę Aukso ordai."
   pagrindžia:

@@ -45,21 +45,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186595"></a>
-- t-003
+- t-001
   global_id: t-186595
   teiginys: "Lietuvos metraštis pasakoja, kad Vytautas, šešis mėnesius nepaėmęs Porchovo, niokojo, degino ir ėmė nelaisvėn Naugardo bei Pskovo žemėje."
   pagrindžia:
     - c-169890
 
 <a id="claim-t-186596"></a>
-- t-001
+- t-002
   global_id: t-186596
   teiginys: "Lietuvos metraštis vaizduoja Vytautą siuntus pasiuntinius į Didįjį Naugardą ir Pskovą, kad miestai pripažintų jį valdovu ir mokėtų duoklę."
   pagrindžia:
     - c-169890
 
 <a id="claim-t-186597"></a>
-- t-002
+- t-003
   global_id: t-186597
   teiginys: "Lietuvos metraštis pasakoja, kad naugardiečiams ir pskoviečiams atsisakius duoklės Vytautas ištraukė į Naugardo žemę ir šešis mėnesius stovėjo prie Porchovo."
   pagrindžia:

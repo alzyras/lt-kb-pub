@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - tauta
 amziai:
   - 'XX'
@@ -38,14 +39,14 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-101477"></a>
-- t-002
+- t-001
   global_id: t-101477
   teiginys: "1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą."
   pagrindžia:
     - c-95033
 
 <a id="claim-t-101478"></a>
-- t-001
+- t-002
   global_id: t-101478
   teiginys: "1943 m. lapkričio 23–24 d. generaliniai tarėjai ir Tautos taryba atmetė SS dalinio organizavimo planą ir pasisakė už tautinę Lietuvos kariuomenę."
   pagrindžia:

@@ -57,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186709"></a>
-- t-003
+- t-001
   global_id: t-186709
   teiginys: "Prieš Krokuvos seimą dėl Jogailos pakvietimo į Lenkijos sostą Lietuvos delegacija 1385 m. kovo pradžioje Vengrijoje gavo Elžbietos sutikimą."
   pagrindžia:
@@ -71,7 +71,7 @@ Nenurodyta
     - c-169942
 
 <a id="claim-t-186711"></a>
-- t-001
+- t-003
   global_id: t-186711
   teiginys: "Krokuvos seimas, nutaręs kviesti Jogailą į Lenkijos sostą, vyko Krokuvoje 1385 m. birželio arba liepos mėnesį."
   pagrindžia:

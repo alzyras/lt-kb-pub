@@ -43,28 +43,28 @@ Tadas Kosciuška, pasižymėjęs Amerikos nepriklauso- mybės kovose generolas, 
 ## Teiginiai
 
 <a id="claim-t-82738"></a>
-- t-008
+- t-001
   global_id: t-82738
   teiginys: "Tadas Kosciuška gegužės 4 d., spaudžiamas konservatyvių sukilimo vadovybės atstovų, pašalino Jasinskį iš Lietuvos sukilėlių vado pareigų."
   pagrindžia:
     - c-79181
 
 <a id="claim-t-82740"></a>
-- t-010
+- t-002
   global_id: t-82740
   teiginys: "Tadas Kosciuška mėgino gelbėti Lenkijos-Lietuvos valstybę jos žlugimo išvakarėse."
   pagrindžia:
     - c-79177
 
 <a id="claim-t-82741"></a>
-- t-006
+- t-003
   global_id: t-82741
   teiginys: "Tadas Kosciuška, norėdamas sukelti valstiečius, leido atsišaukimus, žadėdamas laisvę prisidėjusiems prie sukilimo."
   pagrindžia:
     - c-79183
 
 <a id="claim-t-82742"></a>
-- t-005
+- t-004
   global_id: t-82742
   teiginys: "Tadas Kosciuška pasižymėjo Amerikos nepriklausomybės kovose, buvo Jurgio Vašingtono draugas ir 1794 m. sukilimo vadas."
   pagrindžia:

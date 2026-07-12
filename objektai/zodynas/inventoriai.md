@@ -6,7 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - sąvoka
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,14 +31,14 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
 ## Teiginiai
 
 <a id="claim-t-72696"></a>
-- t-002
+- t-001
   global_id: t-72696
   teiginys: "Inventoriai negalėjo daug padėti valstiečiams, nes jie liko beteisiai ir neturėjo kam skųstis ponui didinant prievoles."
   pagrindžia:
     - c-71075
 
 <a id="claim-t-72699"></a>
-- t-001
+- t-002
   global_id: t-72699
   teiginys: "Inventoriai buvo rengiami valstiečių prievolėms suvienodinti, juose nuo seno buvo surašomos visos valstiečių pareigos."
   pagrindžia:

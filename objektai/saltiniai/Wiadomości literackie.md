@@ -46,7 +46,7 @@ media_all_json: |-
     - c-16862
 
 <a id="claim-t-23418"></a>
-- t-001
+- t-002
   global_id: t-23418
   teiginys: "„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių."
   pagrindžia:

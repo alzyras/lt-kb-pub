@@ -31,14 +31,14 @@ Dusburgietis teigia, kad ar ilgai, viešpatie, rūstausi? Dusburgietis teigia, k
 ## Teiginiai
 
 <a id="claim-t-59076"></a>
-- t-002
+- t-001
   global_id: t-59076
   teiginys: "Po posakio „Ar ilgai, viešpatie, rūstausi?“ prašoma parodyti rūstį netikėliams ir neleisti jiems klausti, kur yra krikščionių Dievas."
   pagrindžia:
     - c-59707
 
 <a id="claim-t-194465"></a>
-- t-003
+- t-002
   global_id: t-194465
   teiginys: "Pasigailėk pagaliau mūsų, viešpatie, pasigailėk mūsų, išvyski pralietą tavo tarnų kraują ir atkeršyki!"
   pagrindžia:

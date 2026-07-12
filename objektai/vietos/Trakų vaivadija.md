@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - kraštas
   - pilis
+  - teisinė-praktika
   - vieta
 amziai:
   - 'XV'
@@ -41,7 +42,7 @@ Krašto padalinimas į pavietus ir vaivadijas.
 ## Teiginiai
 
 <a id="claim-t-69428"></a>
-- t-002
+- t-001
   global_id: t-69428
   teiginys: "Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos."
   pagrindžia:

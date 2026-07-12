@@ -56,245 +56,245 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 ## Teiginiai
 
 <a id="claim-t-177338"></a>
-- t-097
+- t-001
   global_id: t-177338
   teiginys: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų."
   pagrindžia:
     - c-161217
 
 <a id="claim-t-177339"></a>
-- t-031
+- t-002
   global_id: t-177339
   teiginys: "Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai."
   pagrindžia:
     - c-161274
 
 <a id="claim-t-177340"></a>
-- t-075
+- t-003
   global_id: t-177340
   teiginys: "Ratifikavus sutartį ir įsigaliojus jos nuostatoms, Lenkija oficialiai atsisakė bet kokių pretenzijų į Vilniaus kraštą."
   pagrindžia:
     - c-161228
 
 <a id="claim-t-177341"></a>
-- t-033
+- t-004
   global_id: t-177341
   teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinės Lietuvos nepriklausomybės siekis."
   pagrindžia:
     - c-161245
 
 <a id="claim-t-177342"></a>
-- t-025
+- t-005
   global_id: t-177342
   teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo."
   pagrindžia:
     - c-161288
 
 <a id="claim-t-177343"></a>
-- t-090
+- t-006
   global_id: t-177343
   teiginys: "Autorių vertinimu, Lenkija buvo LDK mokytoja, nes stipriai veikė Lietuvos kultūrą."
   pagrindžia:
     - c-161270
 
 <a id="claim-t-177344"></a>
-- t-084
+- t-007
   global_id: t-177344
   teiginys: "Totoriai nuniokojo Vengriją ir Lenkiją."
   pagrindžia:
     - c-161282
 
 <a id="claim-t-177345"></a>
-- t-053
+- t-008
   global_id: t-177345
   teiginys: "Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją."
   pagrindžia:
     - c-161267
 
 <a id="claim-t-177346"></a>
-- t-049
+- t-009
   global_id: t-177346
   teiginys: "Lenkija siekė išsaugoti uniją, kad ji neliktų suardyta."
   pagrindžia:
     - c-161261
 
 <a id="claim-t-177348"></a>
-- t-015
+- t-010
   global_id: t-177348
   teiginys: "Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją."
   pagrindžia:
     - c-161253
 
 <a id="claim-t-177349"></a>
-- t-050
+- t-011
   global_id: t-177349
   teiginys: "XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą."
   pagrindžia:
     - c-161287
 
 <a id="claim-t-177350"></a>
-- t-076
+- t-012
   global_id: t-177350
   teiginys: "XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės."
   pagrindžia:
     - c-161287
 
 <a id="claim-t-177351"></a>
-- t-041
+- t-013
   global_id: t-177351
   teiginys: "Sutriuškinus Lenkiją, Anglijos ir Prancūzijos įtaka regione sumažėjo, o Vokietija skelbė nebeturinti ten interesų."
   pagrindžia:
     - c-161227
 
 <a id="claim-t-177368"></a>
-- t-038
+- t-014
   global_id: t-177368
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   pagrindžia:
     - c-161236
 
 <a id="claim-t-177353"></a>
-- t-086
+- t-015
   global_id: t-177353
   teiginys: "Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais."
   pagrindžia:
     - c-46570
 
 <a id="claim-t-177355"></a>
-- t-036
+- t-016
   global_id: t-177355
   teiginys: "1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos."
   pagrindžia:
     - c-161276
 
 <a id="claim-t-177356"></a>
-- t-027
+- t-017
   global_id: t-177356
   teiginys: "Lenkijoje žydų ir armėnų vaidmuo buvo ryškesnis nei LDK, bet joje nebuvo tokių ryškių totorių ir karaimų bendruomenių."
   pagrindžia:
     - c-161210
 
 <a id="claim-t-177358"></a>
-- t-078
+- t-018
   global_id: t-177358
   teiginys: "Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu."
   pagrindžia:
     - c-161214
 
 <a id="claim-t-177359"></a>
-- t-085
+- t-019
   global_id: t-177359
   teiginys: "1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų."
   pagrindžia:
     - c-161285
 
 <a id="claim-t-177360"></a>
-- t-099
+- t-020
   global_id: t-177360
   teiginys: "Lietuvos pietvakariuose buvusi Lenkija tapo ilgamečio konflikto su Lietuva dalyve."
   pagrindžia:
     - c-161249
 
 <a id="claim-t-177361"></a>
-- t-082
+- t-021
   global_id: t-177361
   teiginys: "Magistras Hermanas pasiuntė Konradą iš Landsbergo ir kitą Ordino brolį pas Lenkijos kunigaikštį apžiūrėti Kulmo žemės."
   pagrindžia:
     - c-161262
 
 <a id="claim-t-177362"></a>
-- t-024
+- t-022
   global_id: t-177362
   teiginys: "Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų."
   pagrindžia:
     - c-161248
 
 <a id="claim-t-177363"></a>
-- t-087
+- t-023
   global_id: t-177363
   teiginys: "Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva."
   pagrindžia:
     - c-161263
 
 <a id="claim-t-177364"></a>
-- t-048
+- t-024
   global_id: t-177364
   teiginys: "Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos."
   pagrindžia:
     - c-161216
 
 <a id="claim-t-177365"></a>
-- t-028
+- t-025
   global_id: t-177365
   teiginys: "1791 m. Lietuvos atstovų Spalio 20-osios pataisa neleido LLV Konstitucijos laikyti vien tik Lenkijos konstitucija."
   pagrindžia:
     - c-161251
 
 <a id="claim-t-177367"></a>
-- t-070
+- t-026
   global_id: t-177367
   teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino vyriausybę jėga atsiimti Vilnių."
   pagrindžia:
     - c-161223
 
 <a id="claim-t-177368"></a>
-- t-038
+- t-027
   global_id: t-177368
   teiginys: "Baltijos antantė negarantavo Lietuvai Estijos ir Latvijos paramos konflikte su Lenkija dėl Vilniaus krašto."
   pagrindžia:
     - c-161236
 
 <a id="claim-t-177371"></a>
-- t-081
+- t-028
   global_id: t-177371
   teiginys: "Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius."
   pagrindžia:
     - c-161222
 
 <a id="claim-t-177373"></a>
-- t-047
+- t-029
   global_id: t-177373
   teiginys: "Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje."
   pagrindžia:
     - c-161237
 
 <a id="claim-t-177375"></a>
-- t-055
+- t-030
   global_id: t-177375
   teiginys: "Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu."
   pagrindžia:
     - c-161259
 
 <a id="claim-t-177376"></a>
-- t-039
+- t-031
   global_id: t-177376
   teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai."
   pagrindžia:
     - c-161225
 
 <a id="claim-t-177377"></a>
-- t-065
+- t-032
   global_id: t-177377
   teiginys: "Lenkijoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruomenių kaip LDK."
   pagrindžia:
     - c-161210
 
 <a id="claim-t-177378"></a>
-- t-067
+- t-033
   global_id: t-177378
   teiginys: "Nors dalį ginčijamų žemių jau kontroliavo Lenkija, Adolfas Jofė sutiko Vilnių, Gardiną ir Lydą priskirti Lietuvai."
   pagrindžia:
     - c-161257
 
 <a id="claim-t-177379"></a>
-- t-021
+- t-034
   global_id: t-177379
   teiginys: "Lietuvos suartėjimas su Lenkija lėmė epochos pobūdį, kai abi valstybes dažnai valdė tie patys valdovai."
   pagrindžia:
     - c-161269
 
 <a id="claim-t-177381"></a>
-- t-082
+- t-035
   global_id: t-177381
   teiginys: "Pirmiausia kurį nors Gediminaitį išsirinkdavo sau valdovu Lietuva, o paskui jį išsirinkdavo ir Lenkija."
   pagrindžia:
@@ -303,273 +303,273 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     - c-177580
 
 <a id="claim-t-177382"></a>
-- t-074
+- t-036
   global_id: t-177382
   teiginys: "1994 m. balandžio 26 d. Lietuva ir Lenkija pasirašė draugiškų santykių ir gero kaimyninio bendradarbiavimo sutartį."
   pagrindžia:
     - c-161219
 
 <a id="claim-t-177383"></a>
-- t-087
+- t-037
   global_id: t-177383
   teiginys: "Lenkijoje Zamoiskis įgijo persvarą ir, vadovaudamas kariuomenei, neleido Maksimilijonui įžengti į Krokuvą."
   pagrindžia:
     - c-161286
 
 <a id="claim-t-177384"></a>
-- t-069
+- t-038
   global_id: t-177384
   teiginys: "1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai."
   pagrindžia:
     - c-161225
 
 <a id="claim-t-177386"></a>
-- t-089
+- t-039
   global_id: t-177386
   teiginys: "1920 m. spalio 9 d. Lenkijos generolas Liucijanas Želigovskis įžengė į Vilnių dar prieš įsigaliojant Suvalkų susitarimui."
   pagrindžia:
     - c-161215
 
 <a id="claim-t-177387"></a>
-- t-064
+- t-040
   global_id: t-177387
   teiginys: "Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo."
   pagrindžia:
     - c-161233
 
 <a id="claim-t-177388"></a>
-- t-032
+- t-041
   global_id: t-177388
   teiginys: "1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti."
   pagrindžia:
     - c-161218
 
 <a id="claim-t-177389"></a>
-- t-085
+- t-042
   global_id: t-177389
   teiginys: "Totoriai įsiveržė į Lenkiją, mūšyje nukovė Henriką, Lenkijos kunigaikštį, ir nuniokojo kraštą."
   pagrindžia:
     - c-161281
 
 <a id="claim-t-177390"></a>
-- t-057
+- t-043
   global_id: t-177390
   teiginys: "Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą."
   pagrindžia:
     - c-161284
 
 <a id="claim-t-177391"></a>
-- t-034
+- t-044
   global_id: t-177391
   teiginys: "Per derybas Lenkija jau kontroliavo dalį žemių, kurias A. Jofė sutiko priskirti Lietuvai kartu su Vilniumi."
   pagrindžia:
     - c-161243
 
 <a id="claim-t-177393"></a>
-- t-063
+- t-045
   global_id: t-177393
   teiginys: "Krėvos sutartį, autorių vertinimu, galima laikyti Lenkijos Karalystės ir Lietuvos didžiojo kunigaikščio susitarimu."
   pagrindžia:
     - c-161279
 
 <a id="claim-t-177405"></a>
-- t-054
+- t-046
   global_id: t-177405
   teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
   pagrindžia:
     - c-161260
 
 <a id="claim-t-177395"></a>
-- t-056
+- t-047
   global_id: t-177395
   teiginys: "1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius."
   pagrindžia:
     - c-167242
 
 <a id="claim-t-177396"></a>
-- t-088
+- t-048
   global_id: t-177396
   teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XV–XVI a. perėmė krikščionišką Vakarų kultūrą."
   pagrindžia:
     - c-161254
 
 <a id="claim-t-177397"></a>
-- t-098
+- t-049
   global_id: t-177397
   teiginys: "Vengrija ir Lenkija turėjo priversti ordiną grąžinti Lietuvai atimtas žemes ir ginti ją nuo kryžiuočių bei totorių."
   pagrindžia:
     - c-161252
 
 <a id="claim-t-177399"></a>
-- t-019
+- t-050
   global_id: t-177399
   teiginys: "Krėvos sutartis parodė Lietuvos politinį atsigręžimą į artimiausią kaimynę Lenkiją."
   pagrindžia:
     - c-161221
 
 <a id="claim-t-177400"></a>
-- t-012
+- t-051
   global_id: t-177400
   teiginys: "Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija."
   pagrindžia:
     - c-161246
 
 <a id="claim-t-177401"></a>
-- t-088
+- t-052
   global_id: t-177401
   teiginys: "Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis."
   pagrindžia:
     - c-161280
 
 <a id="claim-t-177402"></a>
-- t-014
+- t-053
   global_id: t-177402
   teiginys: "Dėl Vokiečių ordino pavojaus LDK stiprino ryšius su Lenkija, o XVI a. viduryje sudarė uniją su Lenkijos Karalyste."
   pagrindžia:
     - c-161254
 
 <a id="claim-t-177403"></a>
-- t-073
+- t-054
   global_id: t-177403
   teiginys: "Lenkijoje ūkiai iki 5 ha sudarė 72 proc. ūkių, o Lietuvoje tokio dydžio ūkių dalis siekė 62 proc."
   pagrindžia:
     - c-161213
 
 <a id="claim-t-177404"></a>
-- t-092
+- t-055
   global_id: t-177404
   teiginys: "Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios."
   pagrindžia:
     - c-161271
 
 <a id="claim-t-177405"></a>
-- t-054
+- t-056
   global_id: t-177405
   teiginys: "Karalaitė Ona, pasilikusi Lenkijoje, turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis."
   pagrindžia:
     - c-161260
 
 <a id="claim-t-177406"></a>
-- t-083
+- t-057
   global_id: t-177406
   teiginys: "1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais."
   pagrindžia:
     - c-161240
 
 <a id="claim-t-177407"></a>
-- t-052
+- t-058
   global_id: t-177407
   teiginys: "Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą."
   pagrindžia:
     - c-161214
 
 <a id="claim-t-177408"></a>
-- t-066
+- t-059
   global_id: t-177408
   teiginys: "Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis."
   pagrindžia:
     - c-161245
 
 <a id="claim-t-177409"></a>
-- t-035
+- t-060
   global_id: t-177409
   teiginys: "1920 m. rudenį Vilnius atiteko Lenkijai, kai ši sumušė Raudonąją armiją."
   pagrindžia:
     - c-161215
 
 <a id="claim-t-177410"></a>
-- t-018
+- t-061
   global_id: t-177410
   teiginys: "Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas."
   pagrindžia:
     - c-161279
 
 <a id="claim-t-177411"></a>
-- t-083
+- t-062
   global_id: t-177411
   teiginys: "Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais."
   pagrindžia:
     - c-46570
 
 <a id="claim-t-177413"></a>
-- t-080
+- t-063
   global_id: t-177413
   teiginys: "Prūsai kelis kartus didelėmis pajėgomis užpuolė Lenkijos žemę, degino namus, žudė suaugusiuosius ir išvarė moteris bei vaikus."
   pagrindžia:
     - c-161230
 
 <a id="claim-t-177414"></a>
-- t-094
+- t-064
   global_id: t-177414
   teiginys: "Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę."
   pagrindžia:
     - c-161277
 
 <a id="claim-t-177415"></a>
-- t-071
+- t-065
   global_id: t-177415
   teiginys: "Pagal naują tvarką į valstybinį žemės fondą pateko ir repatrijavusiųjų į Lenkiją žemė."
   pagrindžia:
     - c-161265
 
 <a id="claim-t-177418"></a>
-- t-017
+- t-066
   global_id: t-177418
   teiginys: "1385 m. Krėvos sutartis su Lenkija leido Lietuvos didžiajam kunigaikščiui Jogailai tapti Lenkijos karaliumi."
   pagrindžia:
     - c-161241
 
 <a id="claim-t-177419"></a>
-- t-077
+- t-067
   global_id: t-177419
   teiginys: "Po vestuvių Vilniuje karalius dėl karalystės reikalų greitai išskubėjo į Lenkiją."
   pagrindžia:
     - c-161226
 
 <a id="claim-t-177420"></a>
-- t-084
+- t-068
   global_id: t-177420
   teiginys: "Lenkijoje Zamoiskis neleido Maksimilijonui įžengti į Krokuvą ir taip sudarė sąlygas karūnuoti Zigmantą."
   pagrindžia:
     - c-46573
 
 <a id="claim-t-177421"></a>
-- t-030
+- t-069
   global_id: t-177421
   teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
   pagrindžia:
     - c-161220
 
 <a id="claim-t-183044"></a>
-- t-089
+- t-070
   global_id: t-183044
   teiginys: "Zigmantui likus be kito sąjungininko, Lenkija padėjo jam net rengiant sąmokslą prieš Švitrigailą."
   pagrindžia:
     - c-166436
 
 <a id="claim-t-183613"></a>
-- t-104
+- t-071
   global_id: t-183613
   teiginys: "Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai."
   pagrindžia:
     - c-167005
 
 <a id="claim-t-183614"></a>
-- t-105
+- t-072
   global_id: t-183614
   teiginys: "1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti."
   pagrindžia:
     - c-167006
 
 <a id="claim-t-177395"></a>
-- t-056
+- t-073
   global_id: t-177395
   teiginys: "1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius."
   pagrindžia:
     - c-167242
 
 <a id="claim-t-185002"></a>
-- t-109
+- t-074
   global_id: t-185002
   teiginys: "Žiniai apie Dorpato apiplėšimą pasiekus Lenkiją, Augustas paragino savo legatus tartis su kunigaikščiu Ivanu dėl Livonijos."
   pagrindžia:
@@ -590,77 +590,77 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
     - c-171625
 
 <a id="claim-t-192687"></a>
-- t-110
+- t-077
   global_id: t-192687
   teiginys: "Narbutas nurodo, kad pavienių gintaro gabalų randama Lietuvoje, Lenkijoje, Silezijoje, Čekijoje ir kitose vietose."
   pagrindžia:
     - c-175457
 
 <a id="claim-t-193201"></a>
-- t-111
+- t-078
   global_id: t-193201
   teiginys: "Aisčiai vengte vengdavo misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikščiais aisčiai nuolat kovojo."
   pagrindžia:
     - c-175945
 
 <a id="claim-t-193202"></a>
-- t-112
+- t-079
   global_id: t-193202
   teiginys: "Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pietų Lietuvos prekių ėmė plaukti per Lenkiją, — kai su šia prasidėjo Lietuvos santykiai."
   pagrindžia:
     - c-175946
 
 <a id="claim-t-193203"></a>
-- t-113
+- t-080
   global_id: t-193203
   teiginys: "Liublino seimas seimų vieta paskyrė Varšuvą arba kurį nors kitą Lenkijos miestą."
   pagrindžia:
     - c-175947
 
 <a id="claim-t-193204"></a>
-- t-114
+- t-081
   global_id: t-193204
   teiginys: "Kitaip tuo tarpu buvo Lenkijoje."
   pagrindžia:
     - c-175948
 
 <a id="claim-t-193419"></a>
-- t-115
+- t-082
   global_id: t-193419
   teiginys: "Valdovas, sugrįžęs iš Prūsijos, gavo ži nią apie vidaus nesantarvę Lenkijoje ir ryžosi ten žy giuoti."
   pagrindžia:
     - c-176141
 
 <a id="claim-t-193420"></a>
-- t-116
+- t-083
   global_id: t-193420
   teiginys: "Kai karalius išvyko į Lenkiją, neilgai vis dėlto jie pajėgė tramdyti širdyje tūnantį įniršį: neilgai trukus galingai prasiveržė į vie šumą tai, ką iki šiol slėpė."
   pagrindžia:
     - c-176142
 
 <a id="claim-t-193644"></a>
-- t-117
+- t-084
   global_id: t-193644
   teiginys: "Lietuvos pagrindinėmis užsienio prekybos partnerėmis tapo Vokietija (pirmoje vietoje) ir Lenkija (antroje vietoje)."
   pagrindžia:
     - c-176314
 
 <a id="claim-t-193772"></a>
-- t-118
+- t-085
   global_id: t-193772
   teiginys: "Gediminas pradėjo derinti karo veiksmus prieš kryžiuočius su Lenkija."
   pagrindžia:
     - c-176426
 
 <a id="claim-t-193773"></a>
-- t-119
+- t-086
   global_id: t-193773
   teiginys: "Lenkijos teritorija 1772 m. Rusijai buvo naudingiausia išlaikyti esamą padėtį (kon- | ep sekasi ie troliuoti ATR jos formaliai nepanaikinant), tačiau spaudžiant 2 Prūsijai sutiko su pirmu ATR padalijimu."
   pagrindžia:
     - c-176427
 
 <a id="claim-t-194029"></a>
-- t-120
+- t-087
   global_id: t-194029
   teiginys: "Paskui, sekančių metų vasarą bei rudenį4 I, atėjo Moldavijos vaivada Steponas, o su juo — turkų sultono didysis pa ša, vardu Malkočas 4 2 , vedinas daugeliu žmonių, ir ka riavo po Lenkijos žemę, Kamenecu pradedant, ir ligi Lvovo, ir net ligi Tamovo, už."
   pagrindžia:

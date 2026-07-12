@@ -55,14 +55,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186768"></a>
-- t-002
+- t-001
   global_id: t-186768
   teiginys: "Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine."
   pagrindžia:
     - c-169971
 
 <a id="claim-t-186769"></a>
-- t-001
+- t-002
   global_id: t-186769
   teiginys: "Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną."
   pagrindžia:

@@ -33,7 +33,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-75478"></a>
-- t-005
+- t-001
   global_id: t-75478
   teiginys: "Lietuvos metraščiuose sukurta Palemono legenda tapo pagrindu lietuvių ir rusėnų bajorijai savo kilmę sieti su Palemono tradicija."
   pagrindžia:

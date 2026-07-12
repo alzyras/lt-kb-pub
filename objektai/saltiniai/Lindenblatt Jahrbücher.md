@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - kunigaikštis
   - miestas
-  - privilegija
   - saltinis
+  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -38,21 +38,21 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-88115"></a>
-- t-002
+- t-001
   global_id: t-88115
   teiginys: "Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno."
   pagrindžia:
     - c-84095
 
 <a id="claim-t-88116"></a>
-- t-003
+- t-002
   global_id: t-88116
   teiginys: "Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo."
   pagrindžia:
     - c-84094
 
 <a id="claim-t-88117"></a>
-- t-001
+- t-003
   global_id: t-88117
   teiginys: "Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d."
   pagrindžia:

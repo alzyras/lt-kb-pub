@@ -46,364 +46,364 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-179687"></a>
-- t-027
+- t-001
   global_id: t-179687
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Karigaila, Vygandu ir lietuvių didikais priėmė katalikų tikėjimą."
   pagrindžia:
     - c-163355
 
 <a id="claim-t-179688"></a>
-- t-020
+- t-002
   global_id: t-179688
   teiginys: "Po Vorsklos pralaimėjimo Švitrigaila pareiškė pretenzijas į Lietuvą, o ramybės dėlei jam buvo atiduota Podolija ir kiti Rusios plotai."
   pagrindžia:
     - c-14091
 
 <a id="claim-t-179690"></a>
-- t-021
+- t-003
   global_id: t-179690
   teiginys: "Švitrigaila vėl pabėgo iš Lietuvos į Maskvą, vėliau pas totorius ir galiausiai pas Ordiną."
   pagrindžia:
     - c-163387
 
 <a id="claim-t-179692"></a>
-- t-068
+- t-004
   global_id: t-179692
   teiginys: "Švitrigaila, nieko nelaimėjęs prie Vilniaus, prikalbino Livonijos ordino riterius drauge pulti Vitebską."
   pagrindžia:
     - c-163394
 
 <a id="claim-t-179693"></a>
-- t-030
+- t-005
   global_id: t-179693
   teiginys: "Pajutęs Vytauto susilpnėjimą, Švitrigaila pareiškė pretenzijas į Lietuvą."
   pagrindžia:
     - c-163357
 
 <a id="claim-t-179694"></a>
-- t-036
+- t-006
   global_id: t-179694
   teiginys: "Švitrigaila, nieko nepešęs prie Vilniaus, prikalbino Livonijos ordino riterius kartu pulti Vitebską."
   pagrindžia:
     - c-163394
 
 <a id="claim-t-179695"></a>
-- t-024
+- t-007
   global_id: t-179695
   teiginys: "1402 m. pradžioje Ordinas Marienburge priglaudė iš Podolės pabėgusį Vytauto priešą Švitrigailą."
   pagrindžia:
     - c-30378
 
 <a id="claim-t-179696"></a>
-- t-053
+- t-008
   global_id: t-179696
   teiginys: "Didysis magistras apstatė Švitrigailą savo parankiniais, siekdamas silpninti Lietuvos ir Lenkijos vienybę."
   pagrindžia:
     - c-163375
 
 <a id="claim-t-179697"></a>
-- t-048
+- t-009
   global_id: t-179697
   teiginys: "Švitrigaila su didžiuoju magistru turėjo nutraukti Vilniaus apgultį, kai vienuolis išdavė jų sumanymą pilies įgulai."
   pagrindžia:
     - c-163356
 
 <a id="claim-t-179698"></a>
-- t-040
+- t-010
   global_id: t-179698
   teiginys: "Petras pranešė, kad Švitrigaila išvaduotas iš nelaisvės ir yra laisvėje."
   pagrindžia:
     - c-163369
 
 <a id="claim-t-179699"></a>
-- t-018
+- t-011
   global_id: t-179699
   teiginys: "Švitrigaila sukilo, užmušė Feodorą Vesną ir pats ėmė valdyti Vitebską."
   pagrindžia:
     - c-163383
 
 <a id="claim-t-179700"></a>
-- t-066
+- t-012
   global_id: t-179700
   teiginys: "1382 m. Dubysos sutarčių aktams pritarė Jogailos motina Julijona ir broliai, tarp jų Švitrigaila."
   pagrindžia:
     - c-163365
 
 <a id="claim-t-179701"></a>
-- t-044
+- t-013
   global_id: t-179701
   teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
   pagrindžia:
     - c-163376
 
 <a id="claim-t-179702"></a>
-- t-060
+- t-014
   global_id: t-179702
   teiginys: "Švitrigaila su sūnėnu Maskvos kunigaikščiu Jurgiu išvengė sutriuškinimo po nesėkmės ties Ukmerge."
   pagrindžia:
     - c-163379
 
 <a id="claim-t-179703"></a>
-- t-062
+- t-015
   global_id: t-179703
   teiginys: "Švitrigaila kartu su Jogaila, Vytautu, Jogailos broliais ir daugeliu lietuvių didikų priėmė katalikų tikėjimą Krokuvoje."
   pagrindžia:
     - c-163355
 
 <a id="claim-t-179704"></a>
-- t-061
+- t-016
   global_id: t-179704
   teiginys: "1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje."
   pagrindžia:
     - c-163377
 
 <a id="claim-t-179705"></a>
-- t-039
+- t-017
   global_id: t-179705
   teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
   pagrindžia:
     - c-163385
 
 <a id="claim-t-179706"></a>
-- t-038
+- t-018
   global_id: t-179706
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
   pagrindžia:
     - c-163359
 
 <a id="claim-t-179707"></a>
-- t-052
+- t-019
   global_id: t-179707
   teiginys: "Po sėkmingo žygio Švitrigaila sudarė ilgalaikes paliaubas su karaliumi."
   pagrindžia:
     - c-163374
 
 <a id="claim-t-179708"></a>
-- t-065
+- t-020
   global_id: t-179708
   teiginys: "Švitrigailai buvo pavesta valdyti Podoliją, o šaltinyje jis vadinamas pavojingiausiu Vytauto priešininku."
   pagrindžia:
     - c-163386
 
 <a id="claim-t-179709"></a>
-- t-025
+- t-021
   global_id: t-179709
   teiginys: "Švitrigaila ir Žygimantas buvo Vytauto politikos tęsėjai."
   pagrindžia:
     - c-163391
 
 <a id="claim-t-179710"></a>
-- t-032
+- t-022
   global_id: t-179710
   teiginys: "Švitrigaila buvo tarp Jogailos brolių, pritarusių jo sutarčių su Ordinais įsipareigojimams."
   pagrindžia:
     - c-163365
 
 <a id="claim-t-179712"></a>
-- t-056
+- t-023
   global_id: t-179712
   teiginys: "Švitrigaila buvo dvare prie Ašmenos su nedidele sargyba, kai Žygimantas slapta žygiavo į Ašmeną."
   pagrindžia:
     - c-163371
 
 <a id="claim-t-179713"></a>
-- t-059
+- t-024
   global_id: t-179713
   teiginys: "Po dvylikos metų paliaubų tarp karaliaus ir didžiojo magistro Švitrigailos jėgos Lietuvoje apsilpo."
   pagrindžia:
     - c-163390
 
 <a id="claim-t-179714"></a>
-- t-051
+- t-025
   global_id: t-179714
   teiginys: "Vytautas po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską ir paėmė Švitrigailą į nelaisvę."
   pagrindžia:
     - c-163382
 
 <a id="claim-t-179715"></a>
-- t-034
+- t-026
   global_id: t-179715
   teiginys: "1395 m. Švitrigaila su kryžiuočių pulku ir magistru Konradu Jungingenu įsibrovė į Lietuvą ir nusiaubė vietoves prie Gardino."
   pagrindžia:
     - c-163361
 
 <a id="claim-t-179716"></a>
-- t-019
+- t-027
   global_id: t-179716
   teiginys: "Švitrigaila buvo priverstas nusilenkti Vytautui, po to pasiųstas Jogailai į Krokuvą, bet netrukus pabėgo į Vengriją."
   pagrindžia:
     - c-16101
 
 <a id="claim-t-179717"></a>
-- t-049
+- t-028
   global_id: t-179717
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą."
   pagrindžia:
     - c-163388
 
 <a id="claim-t-179718"></a>
-- t-042
+- t-029
   global_id: t-179718
   teiginys: "Švitrigaila su iš Didžiojo Naugardo atsiųstais bojarinais sudarė sutartį dėl abipusio saugumo ir prekybos laisvės."
   pagrindžia:
     - c-163364
 
 <a id="claim-t-179719"></a>
-- t-035
+- t-030
   global_id: t-179719
   teiginys: "Švitrigailos bandymas užimti Vilnių žlugo, kai vienuolis išdavė jo sumanymą pilies įgulos vadui."
   pagrindžia:
     - c-163356
 
 <a id="claim-t-179720"></a>
-- t-045
+- t-031
   global_id: t-179720
   teiginys: "Lenkijos valdantieji sluoksniai Švitrigailai siūlė Lenkijos vainiką arba Lietuvos valdymą susiejus ją su Lenkija."
   pagrindžia:
     - c-163381
 
 <a id="claim-t-179721"></a>
-- t-017
+- t-032
   global_id: t-179721
   teiginys: "Švitrigaila manė, kad po kunigaikštienės mirties Jogaila jį paskirs Vitebsko valdytoju."
   pagrindžia:
     - c-163360
 
 <a id="claim-t-179722"></a>
-- t-037
+- t-033
   global_id: t-179722
   teiginys: "Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą."
   pagrindžia:
     - c-163388
 
 <a id="claim-t-179723"></a>
-- t-022
+- t-034
   global_id: t-179723
   teiginys: "Švitrigaila buvo vienas iš penkių Julijonos sūnų, liudijusių trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
   pagrindžia:
     - c-163380
 
 <a id="claim-t-179724"></a>
-- t-026
+- t-035
   global_id: t-179724
   teiginys: "1430 m. lapkričio 7 d. buvo sudarytos paliaubos tarp Lenkijos karaliaus Jogailos ir jo brolio, Lietuvos didžiojo kunigaikščio Švitrigailos."
   pagrindžia:
     - c-163362
 
 <a id="claim-t-179725"></a>
-- t-031
+- t-036
   global_id: t-179725
   teiginys: "Švitrigaila, tikrasis Algirdo sūnus, turėjo pirmenybę į Lietuvos didžiojo kunigaikščio sostą."
   pagrindžia:
     - c-163386
 
 <a id="claim-t-179726"></a>
-- t-058
+- t-037
   global_id: t-179726
   teiginys: "Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių."
   pagrindžia:
     - c-163367
 
 <a id="claim-t-179727"></a>
-- t-033
+- t-038
   global_id: t-179727
   teiginys: "Dar neįsitvirtinus Vytautui, Švitrigaila išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
   pagrindžia:
     - c-163353
 
 <a id="claim-t-179728"></a>
-- t-054
+- t-039
   global_id: t-179728
   teiginys: "Švitrigailos sąjungos didino pasitikėjimą ir išplėtė prekybą iki atokiausių Vokietijos žemių."
   pagrindžia:
     - c-163354
 
 <a id="claim-t-179729"></a>
-- t-055
+- t-040
   global_id: t-179729
   teiginys: "Švitrigailos valdymo metais Vilniaus monetų kalykla kaldino lietuviškus grašius ir pusgrašius."
   pagrindžia:
     - c-163373
 
 <a id="claim-t-179706"></a>
-- t-038
+- t-041
   global_id: t-179706
   teiginys: "Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką."
   pagrindžia:
     - c-163359
 
 <a id="claim-t-179731"></a>
-- t-041
+- t-042
   global_id: t-179731
   teiginys: "Įniršęs Švitrigaila priekaištavo Jogailai dėl Podolės ir įkalino jį su palyda pilyje."
   pagrindžia:
     - c-163384
 
 <a id="claim-t-179732"></a>
-- t-047
+- t-043
   global_id: t-179732
   teiginys: "Švitrigaila, įsižeidęs dėl Vytauto iškėlimo, išvyko pas kryžiuočius ieškoti pagalbos nuversti naująjį Lietuvos valdovą."
   pagrindžia:
     - c-163353
 
 <a id="claim-t-179733"></a>
-- t-057
+- t-044
   global_id: t-179733
   teiginys: "Švitrigaila, nusigavęs į Polocką, ten įkūrė atramos vietą, iš kurios beveik šešerius metus plito vaidai, puldinėjimai ir pilietinis karas."
   pagrindžia:
     - c-163363
 
 <a id="claim-t-179734"></a>
-- t-046
+- t-045
   global_id: t-179734
   teiginys: "1432 m. gruodžio 8 d. Ašmenos mūšyje Švitrigailos jėgos buvo išsklaidytos, o Švitrigaila pabėgo į Polocką."
   pagrindžia:
     - c-163395
 
 <a id="claim-t-184896"></a>
-- t-069
+- t-046
   global_id: t-184896
   teiginys: "Boleslovą Švitrigailą kamavo neišsipildžiusios viltys, nes po Skirgailos jis turėjo teisę pirmas paveldėti valdžią."
   pagrindžia:
     - c-168257
 
 <a id="claim-t-184897"></a>
-- t-070
+- t-047
   global_id: t-184897
   teiginys: "Konradui du mėnesius nesėkmingai puolus Vilnių, Švitrigaila nutarė miesto puolime griebtis apgaulės."
   pagrindžia:
     - c-168258
 
 <a id="claim-t-184898"></a>
-- t-071
+- t-048
   global_id: t-184898
   teiginys: "Švitrigaila nuolat kurstė Prūsijos ir Livonijos kryžiuočių magistrus prieš Vytautą."
   pagrindžia:
     - c-168259
 
 <a id="claim-t-184899"></a>
-- t-072
+- t-049
   global_id: t-184899
   teiginys: "Švitrigaila matė, kad karai ir plėšikiški antpuoliai naudingi tik kryžiuočiams, o jis pats lieka nuskurdęs tremtinys."
   pagrindžia:
     - c-168260
 
 <a id="claim-t-184900"></a>
-- t-073
+- t-050
   global_id: t-184900
   teiginys: "Ištrūkęs į laisvę Švitrigaila pabėgo pas imperatorių Zigmantą, o vėliau susitaikė su Vytautu."
   pagrindžia:
     - c-168261
 
 <a id="claim-t-191006"></a>
-- t-074
+- t-051
   global_id: t-191006
   teiginys: "Švitrigailos 1451 m. vasario 18 d. Lucke datuota privilegija, Narbuto teigimu, pakartojo Vytauto privilegiją ir atnaujino Algirdo privilegiją."
   pagrindžia:
     - c-173888
 
 <a id="claim-t-194021"></a>
-- t-075
+- t-052
   global_id: t-194021
   teiginys: "O sekančiais metais2 2 iš Moldavijos atvyko kuni gaikštis Švitrigaila, didžiojo kunigaikščio Kazimiero dėdė, kuris, pabėgęs nuo kunigaikščio Žygimanto, sep tynerius metus išgyveno Moldavijoje, ganydamas avis2 3 ."
   pagrindžia:

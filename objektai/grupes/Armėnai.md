@@ -37,21 +37,21 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
 ## Teiginiai
 
 <a id="claim-t-88520"></a>
-- t-003
+- t-001
   global_id: t-88520
   teiginys: "Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių."
   pagrindžia:
     - c-84501
 
 <a id="claim-t-88521"></a>
-- t-001
+- t-002
   global_id: t-88521
   teiginys: "LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės."
   pagrindžia:
     - c-84500
 
 <a id="claim-t-88522"></a>
-- t-002
+- t-003
   global_id: t-88522
   teiginys: "LDK katalikai armėnai buvo laikomi viena iš „tarpininkaujančių mažumų“."
   pagrindžia:

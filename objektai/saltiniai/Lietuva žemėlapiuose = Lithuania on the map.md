@@ -38,7 +38,7 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
 ## Teiginiai
 
 <a id="claim-t-45687"></a>
-- t-003
+- t-001
   global_id: t-45687
   teiginys: "„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas."
   pagrindžia:
@@ -52,7 +52,7 @@ Lietuva žemėlapiuose: = Lithuania on the map: paroda, Vilnius, 1999 09 26–19
     - c-48407
 
 <a id="claim-t-45689"></a>
-- t-001
+- t-003
   global_id: t-45689
   teiginys: "„Lietuva žemėlapiuose = Lithuania on the map“ buvo 1999 m. Vilniuje vykusios parodos katalogas."
   pagrindžia:

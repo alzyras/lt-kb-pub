@@ -60,14 +60,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186926"></a>
-- t-002
+- t-001
   global_id: t-186926
   teiginys: "Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika."
   pagrindžia:
     - c-170101
 
 <a id="claim-t-186927"></a>
-- t-001
+- t-002
   global_id: t-186927
   teiginys: "„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją."
   pagrindžia:

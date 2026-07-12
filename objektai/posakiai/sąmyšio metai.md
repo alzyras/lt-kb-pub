@@ -15,6 +15,7 @@ tags:
   - dinastija
   - posakis
   - tauta
+  - šeima
 amziai:
   - 'XVI'
   - 'XVII'

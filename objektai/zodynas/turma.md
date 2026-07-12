@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie Birgelavos pilies sugriovimą Treniota, lietuvių 
 ## Teiginiai
 
 <a id="claim-t-58879"></a>
-- t-002
+- t-001
   global_id: t-58879
   teiginys: "Terminas turma reiškia įvairaus dydžio kariuomenės arba raitelių būrį."
   pagrindžia:

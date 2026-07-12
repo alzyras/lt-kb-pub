@@ -40,14 +40,14 @@ Vartojamas aiškinant varinų pavadinimą ir jį siejant su gyvulių ganymu.
 ## Teiginiai
 
 <a id="claim-t-192206"></a>
-- t-002
+- t-001
   global_id: t-192206
   teiginys: "Teodoro Narbuto aiškinimu, varinų pavadinimas kilo iš Warikt, siejamo su piemeniu, varymu, gyvulių gynimu ir ganymu."
   pagrindžia:
     - c-175067
 
 <a id="claim-t-192207"></a>
-- t-001
+- t-002
   global_id: t-192207
   teiginys: "Teodoro Narbuto aiškinimu, Warikt lietuvių kalboje reiškė varyti, ginti gyvulius ir ganyti."
   pagrindžia:

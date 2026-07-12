@@ -38,7 +38,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 ## Teiginiai
 
 <a id="claim-t-88142"></a>
-- t-004
+- t-001
   global_id: t-88142
   teiginys: "Petras pranešė Dinaburgo komtūrui, kad Švitrigaila su gausia kariauna ir paramos pulkais patraukė toliau."
   pagrindžia:
@@ -59,14 +59,14 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     - c-84123
 
 <a id="claim-t-88145"></a>
-- t-005
+- t-004
   global_id: t-88145
   teiginys: "Dinaburgo komtūras (parašas) Originalą atitinka: Dr."
   pagrindžia:
     - c-84125
 
 <a id="claim-t-88146"></a>
-- t-001
+- t-005
   global_id: t-88146
   teiginys: "Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas."
   pagrindžia:

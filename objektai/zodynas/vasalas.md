@@ -40,42 +40,42 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
 ## Teiginiai
 
 <a id="claim-t-111382"></a>
-- t-013
+- t-001
   global_id: t-111382
   teiginys: "Vokiečių Prūsija tapo Lenkijos karūnos vasale."
   pagrindžia:
     - c-102994
 
 <a id="claim-t-111383"></a>
-- t-009
+- t-002
   global_id: t-111383
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą."
   pagrindžia:
     - c-102993
 
 <a id="claim-t-111384"></a>
-- t-004
+- t-003
   global_id: t-111384
   teiginys: "1384 m. sausio 30 d. Karaliaučiuje Vytautas išdavė magistrui raštą, pasižadėdamas būti jo vasalu."
   pagrindžia:
     - c-14723
 
 <a id="claim-t-111385"></a>
-- t-010
+- t-004
   global_id: t-111385
   teiginys: "Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir iš Lietuvos valdovo priimtų įvesdinimą."
   pagrindžia:
     - c-102992
 
 <a id="claim-t-111386"></a>
-- t-012
+- t-005
   global_id: t-111386
   teiginys: "Jogaila neatsisakė teisių į Lietuvą kaip į tėvoniją, todėl Lietuva valstybingumo neprarado, bet tapo Lenkijos vasale."
   pagrindžia:
     - c-102995
 
 <a id="claim-t-182988"></a>
-- t-007
+- t-006
   global_id: t-182988
   teiginys: "Vytautas žodžiais dėjosi esąs Jogailos ir Lenkijos vasalas, bet Lietuvą valdė pats vienas."
   pagrindžia:

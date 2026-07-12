@@ -7,6 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -29,14 +30,14 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 ## Teiginiai
 
 <a id="claim-t-54147"></a>
-- t-002
+- t-001
   global_id: t-54147
   teiginys: "St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   pagrindžia:
     - c-55086
 
 <a id="claim-t-54148"></a>
-- t-001
+- t-002
   global_id: t-54148
   teiginys: "Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako."
   pagrindžia:

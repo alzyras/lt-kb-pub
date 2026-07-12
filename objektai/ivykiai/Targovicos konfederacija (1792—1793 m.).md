@@ -58,14 +58,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-66929"></a>
-- t-004
+- t-001
   global_id: t-66929
   teiginys: "Jakaterina II globojo Lenkijos ir Lietuvos reformų priešininkus, o su Rusijos pagalba buvo suorganizuota Targovicos konfederacija."
   pagrindžia:
     - c-43128
 
 <a id="claim-t-66931"></a>
-- t-003
+- t-002
   global_id: t-66931
   teiginys: "Rusija suorganizavo reformų priešininkų Targovicos konfederaciją ir parėmė ją savo kariuomene."
   pagrindžia:

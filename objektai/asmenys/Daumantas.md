@@ -41,119 +41,119 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 ## Teiginiai
 
 <a id="claim-t-05161"></a>
-- t-003
+- t-001
   global_id: t-05161
   teiginys: "Daumantas, Nalšėnų kunigaikštis, mėgino pašalinti Mindaugą, bet neįstengė."
   pagrindžia:
     - c-04827
 
 <a id="claim-t-05162"></a>
-- t-004
+- t-002
   global_id: t-05162
   teiginys: "Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą."
   pagrindžia:
     - c-21645
 
 <a id="claim-t-05163"></a>
-- t-005
+- t-003
   global_id: t-05163
   teiginys: "Per krikštą Timofėjaus vardą priėmęs Daumantas buvo išrinktas Pskovo kunigaikščiu ir susigiminiavo su Riurikaičiais."
   pagrindžia:
     - c-21646
 
 <a id="claim-t-05164"></a>
-- t-006
+- t-004
   global_id: t-05164
   teiginys: "1266 m. Daumantas su pskoviečiais puolė Nalšėnus."
   pagrindžia:
     - c-04830
 
 <a id="claim-t-82249"></a>
-- t-013
+- t-005
   global_id: t-82249
   teiginys: "Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas."
   pagrindžia:
     - c-21642
 
 <a id="claim-t-82252"></a>
-- t-014
+- t-006
   global_id: t-82252
   teiginys: "Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas."
   pagrindžia:
     - c-21643
 
 <a id="claim-t-184683"></a>
-- t-008
+- t-007
   global_id: t-184683
   teiginys: "Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis."
   pagrindžia:
     - c-168044
 
 <a id="claim-t-184684"></a>
-- t-009
+- t-008
   global_id: t-184684
   teiginys: "Po Mindaugo padarytos skriaudos Daumantas slėpė keršto troškimą ir slapta tardavosi su Treniota."
   pagrindžia:
     - c-168045
 
 <a id="claim-t-184685"></a>
-- t-010
+- t-009
   global_id: t-184685
   teiginys: "Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene."
   pagrindžia:
     - c-168046
 
 <a id="claim-t-184686"></a>
-- t-011
+- t-010
   global_id: t-184686
   teiginys: "Daumantui buvo duota Utenos kunigaikštystė, o kai kurie šaltiniai jam priskyrė Svyrių pilies įkūrimą."
   pagrindžia:
     - c-168047
 
 <a id="claim-t-184687"></a>
-- t-012
+- t-011
   global_id: t-184687
   teiginys: "Po žmonos laidotuvių Daumantas prievarta pasiliko Narimanto žmoną, norėdamas ja pakeisti mirusiąją."
   pagrindžia:
     - c-168048
 
 <a id="claim-t-184689"></a>
-- t-014
+- t-012
   global_id: t-184689
   teiginys: "1441 m. žemaičiai, pašalinę Kęsgailos paliktus pareigūnus, išsirinko Daumantą kunigaikščiu ir rėmė Mykolą."
   pagrindžia:
     - c-168050
 
 <a id="claim-t-193388"></a>
-- t-015
+- t-013
   global_id: t-193388
   teiginys: "Šaltiniai pasakoja, jog, patekęs po to į Pskovą, jis gana sėkmingai vedė pskoviečių jėgas prieš Livoniją; jo tremtį Pskovas ligi šiol prisimena, nes vie na gynybinė siena vadinama statytojo Daumanto vardu."
   pagrindžia:
     - c-176113
 
 <a id="claim-t-193901"></a>
-- t-016
+- t-014
   global_id: t-193901
   teiginys: "Nalšios kunigaikščio Daumanto (m. 1299.V.20) pirmosios žmonos vardas nežinomas."
   pagrindžia:
     - c-176526
 
 <a id="claim-t-193902"></a>
-- t-017
+- t-015
   global_id: t-193902
   teiginys: "Didysis kunigaikštis Narimantas, išgirdęs apie savo brolienės mirtį ir pats ne itin tvirtai jausdamasis, labai liūdėjo ir pasiuntė žmoną pas savo brolį Daumantą pa reikšti užuojautos."
   pagrindžia:
     - c-176527
 
 <a id="claim-t-193903"></a>
-- t-018
+- t-016
   global_id: t-193903
   teiginys: "Kunigaikštis Daumantas suprato, kad ne jo jėgoms atsispirti, ir prašė savo pilėnų, kad jie neatiduotų pi lies, kol jis nebus prasiveržęs per Narimanto kariuo menę."
   pagrindžia:
     - c-176528
 
 <a id="claim-t-194224"></a>
-- t-019
+- t-017
   global_id: t-194224
   teiginys: "Daumantas į Sinajaus kalną ir pakrikštija vardan Tėvo ir Sūnaus ir Šventosios Dvasios ir mokosi iš šventųjų knygų ir nusikerpa pagal vienuolišką stotą Šventajame kalne ir, prabuvęs Šventajame kalne trejus metus, ir pareina į savo žemę ir grįžta iš Sinajaus kalno pas savo tėvą kunigaikštį Mindaugą ir įkuria sau vienuolyną."
   pagrindžia:

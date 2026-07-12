@@ -46,63 +46,63 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
 ## Teiginiai
 
 <a id="claim-t-60888"></a>
-- t-003
+- t-001
   global_id: t-60888
   teiginys: "Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu."
   pagrindžia:
     - c-61521
 
 <a id="claim-t-60889"></a>
-- t-004
+- t-002
   global_id: t-60889
   teiginys: "Brolių pamokslininkų ordinas minimas 1216 m., kai valdė popiežius Honorijus III."
   pagrindžia:
     - c-61525
 
 <a id="claim-t-60890"></a>
-- t-007
+- t-003
   global_id: t-60890
   teiginys: "Tarp popiežiaus Bonifaco ir Prancūzijos karaliaus Pilypo prasidėjo nesantarvė dėl Prancūzijos karalystės pavaldumo apaštališkajam sostui."
   pagrindžia:
     - c-61522
 
 <a id="claim-t-60891"></a>
-- t-001
+- t-004
   global_id: t-60891
   teiginys: "Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją."
   pagrindžia:
     - c-61523
 
 <a id="claim-t-60892"></a>
-- t-008
+- t-005
   global_id: t-60892
   teiginys: "1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė tamplierių ordiną."
   pagrindžia:
     - c-61520
 
 <a id="claim-t-60893"></a>
-- t-009
+- t-006
   global_id: t-60893
   teiginys: "1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės."
   pagrindžia:
     - c-61524
 
 <a id="claim-t-60894"></a>
-- t-005
+- t-007
   global_id: t-60894
   teiginys: "1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią."
   pagrindžia:
     - c-61528
 
 <a id="claim-t-60895"></a>
-- t-006
+- t-008
   global_id: t-60895
   teiginys: "Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės."
   pagrindžia:
     - c-61527
 
 <a id="claim-t-60896"></a>
-- t-002
+- t-009
   global_id: t-60896
   teiginys: "Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II."
   pagrindžia:

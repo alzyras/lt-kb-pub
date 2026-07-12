@@ -41,21 +41,21 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
 ## Teiginiai
 
 <a id="claim-t-173212"></a>
-- t-010
+- t-001
   global_id: t-173212
   teiginys: "Povilui ir jo įpėdiniams leista Vilniaus bažnyčios teritorijoje įrengti mėsininkų krautuves ir jas nuomoti."
   pagrindžia:
     - c-157541
 
 <a id="claim-t-173213"></a>
-- t-006
+- t-002
   global_id: t-173213
   teiginys: "Vilniaus vyskupas Povilas turėjo teisę nubausti eretiką, bet prieš egzekuciją nusprendė apie bylą pranešti valdovui."
   pagrindžia:
     - c-157545
 
 <a id="claim-t-173214"></a>
-- t-008
+- t-003
   global_id: t-173214
   teiginys: "Povilas ginčijosi su Vilniaus vaitu, tarėjais ir miestiečių bendrija dėl turguje bei miesto aikštėje buvusių mėsinių."
   pagrindžia:
@@ -69,28 +69,28 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
     - c-157542
 
 <a id="claim-t-173217"></a>
-- t-007
+- t-005
   global_id: t-173217
   teiginys: "Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime."
   pagrindžia:
     - c-157550
 
 <a id="claim-t-173218"></a>
-- t-003
+- t-006
   global_id: t-173218
   teiginys: "Vilniaus vyskupas Povilas 1543 m. išleido šios koplyčios fundacijos aktą."
   pagrindžia:
     - c-157547
 
 <a id="claim-t-173220"></a>
-- t-002
+- t-007
   global_id: t-173220
   teiginys: "Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai."
   pagrindžia:
     - c-157544
 
 <a id="claim-t-173221"></a>
-- t-005
+- t-008
   global_id: t-173221
   teiginys: "Vilniaus vyskupas Povilas sustabdė karalių ir privertė jį atsisakyti ketinimo eiti kitur, nukreipdamas į katalikų katedrą."
   pagrindžia:

@@ -53,14 +53,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-71752"></a>
-- t-006
+- t-001
   global_id: t-71752
   teiginys: "1219 m. sutarties proga Ipatijaus metraštyje buvo paminėtas 21 Lietuvos kunigų vardas."
   pagrindžia:
     - c-04991
 
 <a id="claim-t-71753"></a>
-- t-005
+- t-002
   global_id: t-71753
   teiginys: "1219 m. sutarties sąraše šalia vyresniųjų Lietuvos kunigų buvo išvardyti keturi vėliau nebesutinkami Deltuvos kunigai."
   pagrindžia:

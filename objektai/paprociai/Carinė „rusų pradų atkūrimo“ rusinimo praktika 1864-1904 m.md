@@ -60,21 +60,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-54214"></a>
-- t-002
+- t-001
   global_id: t-54214
   teiginys: "Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai."
   pagrindžia:
     - c-55127
 
 <a id="claim-t-54215"></a>
-- t-005
+- t-002
   global_id: t-54215
   teiginys: "Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą."
   pagrindžia:
     - c-55128
 
 <a id="claim-t-54216"></a>
-- t-001
+- t-003
   global_id: t-54216
   teiginys: "Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija."
   pagrindžia:
@@ -88,7 +88,7 @@ Nenurodyta
     - c-55127
 
 <a id="claim-t-54218"></a>
-- t-003
+- t-005
   global_id: t-54218
   teiginys: "Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika."
   pagrindžia:

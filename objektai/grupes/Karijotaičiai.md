@@ -41,7 +41,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 ## Teiginiai
 
 <a id="claim-t-171341"></a>
-- t-018
+- t-001
   global_id: t-171341
   teiginys: "Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę."
   pagrindžia:
@@ -55,21 +55,21 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
     - c-155910
 
 <a id="claim-t-171343"></a>
-- t-019
+- t-003
   global_id: t-171343
   teiginys: "Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis."
   pagrindžia:
     - c-155908
 
 <a id="claim-t-171344"></a>
-- t-017
+- t-004
   global_id: t-171344
   teiginys: "Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai."
   pagrindžia:
     - c-155906
 
 <a id="claim-t-184327"></a>
-- t-020
+- t-005
   global_id: t-184327
   teiginys: "Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas."
   pagrindžia:

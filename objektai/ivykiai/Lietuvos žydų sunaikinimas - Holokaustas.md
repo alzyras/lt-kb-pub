@@ -58,21 +58,21 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-75231"></a>
-- t-005
+- t-001
   global_id: t-75231
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus ir vežė Lietuvos žydus į koncentracijos stovyklas Estijoje, Latvijoje ir Lenkijoje."
   pagrindžia:
     - c-73089
 
 <a id="claim-t-75232"></a>
-- t-006
+- t-002
   global_id: t-75232
   teiginys: "Nacių „kovos su judobolševizmu“ propaganda susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
   pagrindžia:
     - c-73090
 
 <a id="claim-t-75233"></a>
-- t-002
+- t-003
   global_id: t-75233
   teiginys: "Apie 50 tūkst. žydų buvo laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose."
   pagrindžia:
@@ -86,14 +86,14 @@ Nenurodyta
     - c-23118
 
 <a id="claim-t-75235"></a>
-- t-001
+- t-005
   global_id: t-75235
   teiginys: "Lietuvos žydų Holokaustas buvo viena iš didžiulių Lietuvos patirtų netekčių."
   pagrindžia:
     - c-23114
 
 <a id="claim-t-75236"></a>
-- t-003
+- t-006
   global_id: t-75236
   teiginys: "1943 m. naciai naikino Lietuvos miestų getus, kasė ir degino nužudytųjų kūnus."
   pagrindžia:

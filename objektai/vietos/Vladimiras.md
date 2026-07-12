@@ -53,21 +53,21 @@ Vladimiras minimas XIV a. pradžios rusų kunigaikščių varžybų dėl jarlyko
 ## Teiginiai
 
 <a id="claim-t-181161"></a>
-- t-019
+- t-001
   global_id: t-181161
   teiginys: "Volinijoje Vytautas užvaldė dvi svarbiausias pilis: Lucką ir Vladimirą."
   pagrindžia:
     - c-32556
 
 <a id="claim-t-185204"></a>
-- t-020
+- t-002
   global_id: t-185204
   teiginys: "Gediminas pirmąjį smūgį nukreipė į Volynės pasienį ir apsupo Vladimirą, kunigaikščio Vladimiro sostinę."
   pagrindžia:
     - c-168565
 
 <a id="claim-t-194989"></a>
-- t-021
+- t-003
   global_id: t-194989
   teiginys: "Polocke sėdėjo Andrius, Brianske (prie Desnos) — Dimi tras († 1399), Černihove — Konstantinas, Kijeve — Vladimiras († 1398), Ratne (Pripetės aukštupyje)—Teodoras († 1394)."
   pagrindžia:

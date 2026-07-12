@@ -64,7 +64,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186916"></a>
-- t-004
+- t-001
   global_id: t-186916
   teiginys: "Platesnysis Lietuvos metraščių sąvadas, vadinamas „Lietuvos ir Žemaičių Didžiosios Kunigaikštystės kronika“, veikiausiai kilo XVI a. antrajame dešimtmetyje."
   pagrindžia:
@@ -78,14 +78,14 @@ Nenurodyta
     - c-170094
 
 <a id="claim-t-186918"></a>
-- t-001
+- t-003
   global_id: t-186918
   teiginys: "Trumpasis sąvadas ir Platesnysis sąvadas priskiriami žymesniems LDK metraštinės literatūros paminklams kartu su Bychovco kronika."
   pagrindžia:
     - c-170094
 
 <a id="claim-t-186919"></a>
-- t-003
+- t-004
   global_id: t-186919
   teiginys: "Trumpasis sąvadas, sudarytas apie 1446 m., nuosekliau ir išsamiau nušviečia 1377–1445 m. Lietuvos politinę istoriją."
   pagrindžia:

@@ -49,42 +49,42 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
     - c-59515
 
 <a id="claim-t-58883"></a>
-- t-003
+- t-002
   global_id: t-58883
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams."
   pagrindžia:
     - c-59516
 
 <a id="claim-t-184014"></a>
-- t-004
+- t-003
   global_id: t-184014
   teiginys: "1305 m. Aukaimio pilėnas Svirtilas su visa šeimyna nusekė paskui Ordino brolius ir priėmė krikštą."
   pagrindžia:
     - c-59516
 
 <a id="claim-t-184634"></a>
-- t-005
+- t-004
   global_id: t-184634
   teiginys: "Gardino užpuolimo metu pilėnai buvo išžudyti, paimti į nelaisvę arba neteko išplėštų ir sudegintų namų."
   pagrindžia:
     - c-167995
 
 <a id="claim-t-184635"></a>
-- t-006
+- t-005
   global_id: t-184635
   teiginys: "Bisenės užpuolimą pilėnai narsiai atrėmė, o smarkiai sumuštas priešas pasitraukė nieko nepešęs."
   pagrindžia:
     - c-167996
 
 <a id="claim-t-184636"></a>
-- t-007
+- t-006
   global_id: t-184636
   teiginys: "Vytauto kariams įsiveržus į žemutinę Vitebsko pilį, kovojant dėl miesto sienos žuvo vienas kitas pilėnas."
   pagrindžia:
     - c-167997
 
 <a id="claim-t-194462"></a>
-- t-008
+- t-007
   global_id: t-194462
   teiginys: "Apie antrąjį Aukaimio sugriovimą ir jo apylinkių nusiaubimą 1305 metais Tais pačiais metais per gavėnią tas pats brolis Eberhardas, Karaliaučiaus komtūras, patraukė su dar didesne kariuomene nei anksčiau link Aukaimio pilies, o vienas tenykštis pilėnas, vardu."
   pagrindžia:

@@ -52,7 +52,7 @@ media_all_json: |-
     - c-24875
 
 <a id="claim-t-183432"></a>
-- t-004
+- t-003
   global_id: t-183432
   teiginys: "Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas."
   pagrindžia:

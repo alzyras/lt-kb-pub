@@ -46,35 +46,35 @@ Dusburgietis teigia, kad šitai sužinojęs, Mazovijos kunigaikštis Boleslovas 
     - c-85619
 
 <a id="claim-t-89680"></a>
-- t-003
+- t-002
   global_id: t-89680
   teiginys: "Mazovijos kunigaikštis Boleslovas po Vytenio įsiveržimo į Lenkiją sudarė laikinas paliaubas tarp krikščionių ir lietuvių."
   pagrindžia:
     - c-85619
 
 <a id="claim-t-184678"></a>
-- t-004
+- t-003
   global_id: t-184678
   teiginys: "Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus."
   pagrindžia:
     - c-168039
 
 <a id="claim-t-184679"></a>
-- t-005
+- t-004
   global_id: t-184679
   teiginys: "Mazovijos kunigaikštis Boleslovas Viznoje laikė lietuvių įgulą, nors mozūrai ir kryžiuočiai tuo metu buvo sudarę sąjungą."
   pagrindžia:
     - c-168040
 
 <a id="claim-t-184680"></a>
-- t-006
+- t-005
   global_id: t-184680
   teiginys: "Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną."
   pagrindžia:
     - c-168041
 
 <a id="claim-t-184681"></a>
-- t-007
+- t-006
   global_id: t-184681
   teiginys: "Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą."
   pagrindžia:

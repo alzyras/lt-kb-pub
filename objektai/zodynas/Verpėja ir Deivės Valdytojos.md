@@ -35,21 +35,21 @@ Verpėją (Werpeja) Narbutas vaizduoja kaip nemarią žmogaus gyvenimo siūlo ve
     - c-175120
 
 <a id="claim-t-192313"></a>
-- t-005
+- t-002
   global_id: t-192313
   teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos vasaros mėnesienos naktimis nužengdavo į slėnius prie upių ir ežerų."
   pagrindžia:
     - c-175121
 
 <a id="claim-t-192314"></a>
-- t-006
+- t-003
   global_id: t-192314
   teiginys: "Teodoro Narbuto pasakojime Verpėjos ir Deivių Valdytojų garbintojai joms rengdavo plokščiais akmenimis apdėtas aikšteles."
   pagrindžia:
     - c-175121
 
 <a id="claim-t-192315"></a>
-- t-007
+- t-004
   global_id: t-192315
   teiginys: "Teodoro Narbuto pasakojime Verpėja ir Deivės Valdytojos be pasigailėjimo nužudydavo kiekvieną jų garbę įžeidusį žmogų."
   pagrindžia:

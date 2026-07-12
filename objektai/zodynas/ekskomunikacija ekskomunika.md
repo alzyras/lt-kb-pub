@@ -6,8 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - miestas
-  - privilegija
   - sąvoka
   - vyskupas
 media_total_count: '0'
@@ -32,21 +32,21 @@ Kai anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono Vilniaus vysku
 ## Teiginiai
 
 <a id="claim-t-86466"></a>
-- t-003
+- t-001
   global_id: t-86466
   teiginys: "Vilniaus katedros kapitula galėjo naudotis jurisdikcija su ekskomunikacijos teise savo asmenų ir valdinių bylose."
   pagrindžia:
     - c-82446
 
 <a id="claim-t-86467"></a>
-- t-001
+- t-002
   global_id: t-86467
   teiginys: "Vilniaus miestiečiai anksčiau būdavo ekskomunikuojami Vilniaus vyskupo, vikaro arba oficijolo."
   pagrindžia:
     - c-82447
 
 <a id="claim-t-86468"></a>
-- t-002
+- t-003
   global_id: t-86468
   teiginys: "Vilniaus kapitula teigė turėjusi teisę ekskomunikuoti paprotinės teisės ir bažnyčios valdinių niekintojus."
   pagrindžia:

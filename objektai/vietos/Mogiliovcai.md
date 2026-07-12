@@ -38,14 +38,14 @@ Bychovco kronikos rankraštis buvo aptiktas Aleksandro Bychovco Mogiliovcų dvar
 ## Teiginiai
 
 <a id="claim-t-187262"></a>
-- t-002
+- t-001
   global_id: t-187262
   teiginys: "Mogiliovcų dvaro biblioteka nurodoma kaip vieta, kur iki 1830 m. Ipolitas Klimaševskis aptiko Bychovco kronikos rankraštį."
   pagrindžia:
     - c-170318
 
 <a id="claim-t-187263"></a>
-- t-001
+- t-002
   global_id: t-187263
   teiginys: "Iki 1830 m. Ipolitas Klimaševskis Bychovco kronikos rankraštį aptiko Aleksandro Bychovco Mogiliovcų dvaro bibliotekoje."
   pagrindžia:

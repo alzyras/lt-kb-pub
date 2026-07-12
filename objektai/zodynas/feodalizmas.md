@@ -32,63 +32,63 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 ## Teiginiai
 
 <a id="claim-t-82051"></a>
-- t-009
+- t-001
   global_id: t-82051
   teiginys: "Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką."
   pagrindžia:
     - c-78550
 
 <a id="claim-t-82052"></a>
-- t-006
+- t-002
   global_id: t-82052
   teiginys: "Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju."
   pagrindžia:
     - c-78554
 
 <a id="claim-t-82054"></a>
-- t-005
+- t-003
   global_id: t-82054
   teiginys: "Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus."
   pagrindžia:
     - c-78551
 
 <a id="claim-t-82055"></a>
-- t-007
+- t-004
   global_id: t-82055
   teiginys: "Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą."
   pagrindžia:
     - c-78552
 
 <a id="claim-t-82056"></a>
-- t-008
+- t-005
   global_id: t-82056
   teiginys: "Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė."
   pagrindžia:
     - c-78551
 
 <a id="claim-t-82057"></a>
-- t-009
+- t-006
   global_id: t-82057
   teiginys: "Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje."
   pagrindžia:
     - c-78549
 
 <a id="claim-t-82058"></a>
-- t-010
+- t-007
   global_id: t-82058
   teiginys: "Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs."
   pagrindžia:
     - c-78553
 
 <a id="claim-t-82059"></a>
-- t-004
+- t-008
   global_id: t-82059
   teiginys: "Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
   pagrindžia:
     - c-78552
 
 <a id="claim-t-182946"></a>
-- t-011
+- t-009
   global_id: t-182946
   teiginys: "Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs."
   pagrindžia:

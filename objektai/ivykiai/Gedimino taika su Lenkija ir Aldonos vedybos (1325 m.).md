@@ -64,14 +64,14 @@ Nenurodyta
     - c-31318
 
 <a id="claim-t-100023"></a>
-- t-003
+- t-002
   global_id: t-100023
   teiginys: "Gedimino 1325 m. sutartis buvo pirmasis taikos sąlytis su Lenkija, prisimintas dar Liublino unijos išvakarėse."
   pagrindžia:
     - c-31319
 
 <a id="claim-t-100024"></a>
-- t-002
+- t-003
   global_id: t-100024
   teiginys: "1325 m. Gedimino ir Vladislovo Lokietkos taikos sutartis buvo sutvirtinta Kazimiero ir Aldonos vedybomis."
   pagrindžia:

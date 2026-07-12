@@ -44,21 +44,21 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 ## Teiginiai
 
 <a id="claim-t-68592"></a>
-- t-004
+- t-001
   global_id: t-68592
   teiginys: "Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių."
   pagrindžia:
     - c-68137
 
 <a id="claim-t-68593"></a>
-- t-003
+- t-002
   global_id: t-68593
   teiginys: "J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m."
   pagrindžia:
     - c-68136
 
 <a id="claim-t-68594"></a>
-- t-004
+- t-003
   global_id: t-68594
   teiginys: "Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje."
   pagrindžia:

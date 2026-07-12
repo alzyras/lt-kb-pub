@@ -43,28 +43,28 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
 ## Teiginiai
 
 <a id="claim-t-58825"></a>
-- t-006
+- t-001
   global_id: t-58825
   teiginys: "1096 m. Petras su kryžininkais užėmė Antiochiją ir Jeruzalę, o vėliau kiti maldininkai užėmė daug miestų bei pilių."
   pagrindžia:
     - c-59462
 
 <a id="claim-t-58826"></a>
-- t-004
+- t-002
   global_id: t-58826
   teiginys: "1227 m. rugsėjo 11 d. Ortrante šventosios Elžbietos vyras landgrafas mirė maldininko kelionėje po kryžiaus žygio vėliava."
   pagrindžia:
     - c-59459
 
 <a id="claim-t-58827"></a>
-- t-001
+- t-003
   global_id: t-58827
   teiginys: "1316 m. Henrikas Karaliaučiuje sutiko iš Reino krašto atvykusių maldininkų ir su jais nusiaubė Medininkų valsčių."
   pagrindžia:
     - c-59458
 
 <a id="claim-t-58828"></a>
-- t-002
+- t-004
   global_id: t-58828
   teiginys: "Puolant Pieštvės pilį maldininkai buvo taip gerai apsišarvavę, kad pilėnai nepajėgė jų sulaikyti kopiant į sienas."
   pagrindžia:

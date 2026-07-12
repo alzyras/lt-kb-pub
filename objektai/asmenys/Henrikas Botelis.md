@@ -42,7 +42,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
 ## Teiginiai
 
 <a id="claim-t-116281"></a>
-- t-003
+- t-001
   global_id: t-116281
   teiginys: "Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje."
   pagrindžia:
@@ -56,7 +56,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
     - c-107146
 
 <a id="claim-t-184711"></a>
-- t-004
+- t-003
   global_id: t-184711
   teiginys: "Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių."
   pagrindžia:

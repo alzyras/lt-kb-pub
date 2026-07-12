@@ -40,7 +40,7 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
 ## Teiginiai
 
 <a id="claim-t-89583"></a>
-- t-003
+- t-001
   global_id: t-89583
   teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
   pagrindžia:
@@ -54,14 +54,14 @@ Dusburgietis teigia, kad pirma knygos dalis PRASIDEDA PIRMA KNYGOS DALIS APIE TE
     - c-85527
 
 <a id="claim-t-89585"></a>
-- t-004
+- t-003
   global_id: t-89585
   teiginys: "Petras Dusburgietis rašo, kad Celestinas III Jeruzalėje „pastatė namus“ ir „išsikirto septynis šulus“, paskirdamas septynis kraštų komtūrus."
   pagrindžia:
     - c-85526
 
 <a id="claim-t-89583"></a>
-- t-003
+- t-004
   global_id: t-89583
   teiginys: "Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę."
   pagrindžia:

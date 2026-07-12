@@ -49,14 +49,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09532"></a>
-- t-004
+- t-001
   global_id: t-09532
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą."
   pagrindžia:
     - c-12298
 
 <a id="claim-t-09533"></a>
-- t-003
+- t-002
   global_id: t-09533
   teiginys: "1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį."
   pagrindžia:

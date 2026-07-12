@@ -40,21 +40,21 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
 ## Teiginiai
 
 <a id="claim-t-59996"></a>
-- t-003
+- t-001
   global_id: t-59996
   teiginys: "Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis."
   pagrindžia:
     - c-60631
 
 <a id="claim-t-59998"></a>
-- t-004
+- t-002
   global_id: t-59998
   teiginys: "Ragavos vadas išdavė savo seserėną Pipiną broliams, kurie pririštą prie arklio uodegos Pipiną nuvilko iki Torunės ir pakorė po medžiu."
   pagrindžia:
     - c-60628
 
 <a id="claim-t-59999"></a>
-- t-001
+- t-003
   global_id: t-59999
   teiginys: "Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją."
   pagrindžia:

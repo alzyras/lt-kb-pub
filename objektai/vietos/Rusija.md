@@ -51,154 +51,154 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 ## Teiginiai
 
 <a id="claim-t-180505"></a>
-- t-021
+- t-001
   global_id: t-180505
   teiginys: "Rusija pasisavino iš LDK erdvių kilusius pirties ir „horilkos“ arba „vodkos“ fenomenus."
   pagrindžia:
     - c-164116
 
 <a id="claim-t-180507"></a>
-- t-005
+- t-002
   global_id: t-180507
   teiginys: "Rytų Pabaltijyje ir šiaurės rytų Rusijoje medžiotojų bei žvejų kultūra tęsėsi panašiu lygiu apie porą tūkstančių metų."
   pagrindžia:
     - c-32396
 
 <a id="claim-t-180509"></a>
-- t-026
+- t-003
   global_id: t-180509
   teiginys: "1998–1999 m. Rusijos finansų krizė sukėlė naujų išbandymų Lietuvos ekonomikai."
   pagrindžia:
     - c-164112
 
 <a id="claim-t-180510"></a>
-- t-015
+- t-004
   global_id: t-180510
   teiginys: "Rusijos valdžia brutaliu, diskriminaciniu rusinimu siekė aneksuotas Lenkijos ir Lietuvos žemes paversti Vakarų Rusija."
   pagrindžia:
     - c-164133
 
 <a id="claim-t-180511"></a>
-- t-027
+- t-005
   global_id: t-180511
   teiginys: "Atkūrusi nepriklausomybę Lietuva vakaruose įgijo sieną su Rusijos Kaliningrado sritimi."
   pagrindžia:
     - c-164131
 
 <a id="claim-t-180512"></a>
-- t-004
+- t-006
   global_id: t-180512
   teiginys: "Šiaurės Europą dengęs ledynas buvo apėmęs ir vidurio Rusiją."
   pagrindžia:
     - c-164129
 
 <a id="claim-t-180514"></a>
-- t-024
+- t-007
   global_id: t-180514
   teiginys: "1897 m. Rusijos imperijos gyventojų surašymas parodė, kad skaityti mokėjo beveik pusė etninių lietuvių, o rusiškai skaitė tik kas penktas."
   pagrindžia:
     - c-164135
 
 <a id="claim-t-180515"></a>
-- t-007
+- t-008
   global_id: t-180515
   teiginys: "Rusijai sunaikinus senąją Lietuvos valstybę, Lietuvos vardas po 1831 m. sukilimo numalšinimo oficialiai nebebuvo vartojamas – jį pakeitė „Šiaurės Vakarų kraštas“."
   pagrindžia:
     - c-164122
 
 <a id="claim-t-180518"></a>
-- t-008
+- t-009
   global_id: t-180518
   teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos."
   pagrindžia:
     - c-164116
 
 <a id="claim-t-180519"></a>
-- t-012
+- t-010
   global_id: t-180519
   teiginys: "Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos."
   pagrindžia:
     - c-164120
 
 <a id="claim-t-180520"></a>
-- t-022
+- t-011
   global_id: t-180520
   teiginys: "XVII–XVIII a. Rusijos ir Švedijos karai prisidėjo prie Rusijos kišimosi į Lenkijos ir Lietuvos vidaus reikalus."
   pagrindžia:
     - c-164118
 
 <a id="claim-t-180523"></a>
-- t-031
+- t-012
   global_id: t-180523
   teiginys: "Šiaurės Europą dengęs ledynas, kuris buvo apėmęs Pabaltijį, šiaurės Lenkiją, vidurio Rusiją, ėmė trauktis iš Baltijos plotų."
   pagrindžia:
     - c-164129
 
 <a id="claim-t-180524"></a>
-- t-019
+- t-013
   global_id: t-180524
   teiginys: "1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją."
   pagrindžia:
     - c-164119
 
 <a id="claim-t-180526"></a>
-- t-013
+- t-014
   global_id: t-180526
   teiginys: "Iškylanti Rusija Šiaurės karo metu (1700–1721) sutriuškino Švedijos karaliaus Karolio XII kariuomenę, užėmė visą Livoniją ir ėmė valdyti Baltijos pakrantę nuo Vyborgo iki Rygos."
   pagrindžia:
     - c-164125
 
 <a id="claim-t-180529"></a>
-- t-010
+- t-015
   global_id: t-180529
   teiginys: "1654–1667 m. Lietuvą ir Lenkiją ištiko Rusijos ir Švedijos invazija, vadinama tvanu."
   pagrindžia:
     - c-164118
 
 <a id="claim-t-180530"></a>
-- t-025
+- t-016
   global_id: t-180530
   teiginys: "1905 m. pradžioje Rusijos sostinėje prasidėjusi pirmoji socialinė demokratinė revoliucija greitai pasiekė Lietuvos miestus."
   pagrindžia:
     - c-164134
 
 <a id="claim-t-180531"></a>
-- t-014
+- t-017
   global_id: t-180531
   teiginys: "1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko ir pradėjo LLV karą su Rusija."
   pagrindžia:
     - c-164132
 
 <a id="claim-t-180532"></a>
-- t-029
+- t-018
   global_id: t-180532
   teiginys: "1997 m. spalį Lietuva ir Rusija pasirašė sutartį dėl valstybinės sienos, išskirtinės ekonominės zonos ir žemyninio šelfo Baltijos jūroje atskyrimo."
   pagrindžia:
     - c-164126
 
 <a id="claim-t-180519"></a>
-- t-012
+- t-019
   global_id: t-180519
   teiginys: "Karai su Maskvos didžiąja kunigaikštyste, vėliau Rusija, dėl rytinių teritorijų kėlė konfliktus tarp ATR ir Rusijos."
   pagrindžia:
     - c-164120
 
 <a id="claim-t-180524"></a>
-- t-019
+- t-020
   global_id: t-180524
   teiginys: "1579 m. Steponas Batoras iš Vilniaus per Bazilijų Lopacinskį išsiuntė svarbią pasiuntinybę į Rusiją."
   pagrindžia:
     - c-164119
 
 <a id="claim-t-180535"></a>
-- t-009
+- t-021
   global_id: t-180535
   teiginys: "1795 m. Rusija, Austrija ir Prūsija galutinai pasidalijo Lenkijos ir Lietuvos valstybę, o didžioji Lietuvos dalis atiteko Rusijai."
   pagrindžia:
     - c-164142
 
 <a id="claim-t-180536"></a>
-- t-028
+- t-022
   global_id: t-180536
   teiginys: "1991 m. liepos 29 d. Vytautas Landsbergis ir Borisas Jelcinas pasirašė Lietuvos ir Rusijos Federacijos tarpvalstybinių santykių sutartį."
   pagrindžia:
@@ -212,14 +212,14 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
     - c-171715
 
 <a id="claim-t-193229"></a>
-- t-032
+- t-024
   global_id: t-193229
   teiginys: "Kotryna II taip pat kvietė į Rusiją išgarsėjusius rašytojus ir pati rašė."
   pagrindžia:
     - c-175967
 
 <a id="claim-t-194751"></a>
-- t-033
+- t-025
   global_id: t-194751
   teiginys: "Istorinės savimonės ištakų ieškant: Teodoras Narbu tas 1808-1809 metų Rusijos-Švedijos kare // Lietuvių atgimimo isto rijos studijos."
   pagrindžia:

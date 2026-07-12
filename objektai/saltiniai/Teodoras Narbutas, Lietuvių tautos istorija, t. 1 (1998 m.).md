@@ -50,21 +50,21 @@ Pirmasis tomas skirtas lietuvių mitologijai ir pateikiamas kaip 1835 m. lenkiš
 ## Teiginiai
 
 <a id="claim-t-188037"></a>
-- t-006
+- t-001
   global_id: t-188037
   teiginys: "Įvadiniame straipsnyje „Lietuvių tautos istorija“ vadinama Lietuvos istoriografijos paminklu ir lietuvių tautos kultūriniu palikimu."
   pagrindžia:
     - c-170731
 
 <a id="claim-t-188038"></a>
-- t-005
+- t-002
   global_id: t-188038
   teiginys: "Leidinio metrikoje Rimantas Jasas nurodytas vertėju, Reda Griškaitė specialiąja redaktore, o Vytautas Berenis ir Norbertas Vėlius įvedamųjų straipsnių autoriais."
   pagrindžia:
     - c-170733
 
 <a id="claim-t-188039"></a>
-- t-004
+- t-003
   global_id: t-188039
   teiginys: "1998 m. pirmasis „Lietuvių tautos istorijos“ tomas verstas iš 1835 m. Vilniuje išleisto Narbuto „Mitologia Litewska“."
   pagrindžia:

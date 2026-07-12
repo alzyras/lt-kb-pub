@@ -30,14 +30,14 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
 ## Teiginiai
 
 <a id="claim-t-41086"></a>
-- t-002
+- t-001
   global_id: t-41086
   teiginys: "Kitą dieną Perlojoje Marcinkonių bataliono vyrai nukovė dar 5 stribus, o partizanai nuostolių nepatyrė."
   pagrindžia:
     - c-42868
 
 <a id="claim-t-41087"></a>
-- t-001
+- t-002
   global_id: t-41087
   teiginys: "Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino."
   pagrindžia:

@@ -45,14 +45,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186674"></a>
-- t-002
+- t-001
   global_id: t-186674
   teiginys: "Lietuvos metraštis pasakoja, kad po Kęstučio nužudymo Vytautas buvo paimtas į nelaisvę, bet pabėgo pas Prūsų Ordino didįjį magistrą."
   pagrindžia:
     - c-169922
 
 <a id="claim-t-186676"></a>
-- t-001
+- t-002
   global_id: t-186676
   teiginys: "Lietuvos metraštis teigia, kad po duoto žodžio Kęstutis buvo suimtas ir nužudytas, kai jis su Vytautu nujojo kartu su Jogaila."
   pagrindžia:

@@ -41,7 +41,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 ## Teiginiai
 
 <a id="claim-t-83346"></a>
-- t-003
+- t-001
   global_id: t-83346
   teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
   pagrindžia:

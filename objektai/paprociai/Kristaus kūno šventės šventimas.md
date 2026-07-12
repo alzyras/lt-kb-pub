@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

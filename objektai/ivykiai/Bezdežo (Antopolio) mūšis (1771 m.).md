@@ -48,7 +48,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-09821"></a>
-- t-003
+- t-001
   global_id: t-09821
   teiginys: "Po Bezdežo mūšio M. K. Oginskio pajėgos netrukus buvo sumuštos prie Stalovičių ir išblaškytos Aleksandro Suvorovo pajėgų."
   pagrindžia:

@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kunigaikštis
   - ordinas
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'
@@ -45,28 +45,28 @@ Lenkų ponų taryba Radome davė garantiją, kaip lietuv. Šiaip ar taip kalbant
     - c-36887
 
 <a id="claim-t-50695"></a>
-- t-004
+- t-002
   global_id: t-50695
   teiginys: "Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga."
   pagrindžia:
     - c-36890
 
 <a id="claim-t-50696"></a>
-- t-005
+- t-003
   global_id: t-50696
   teiginys: "Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų."
   pagrindžia:
     - c-36890
 
 <a id="claim-t-50697"></a>
-- t-003
+- t-004
   global_id: t-50697
   teiginys: "Pirmą kartą pabėgęs pas Ordiną Vytautas sulaukė nemažai bajorų iš Lietuvos ir Žemaičių paramos."
   pagrindžia:
     - c-52458
 
 <a id="claim-t-50698"></a>
-- t-002
+- t-005
   global_id: t-50698
   teiginys: "Lietuvių bajorija valstybės reikaluose gavo balsą, anksčiau priklausiusį valdovui."
   pagrindžia:

@@ -31,7 +31,7 @@ media_all_json: |-
 ## Teiginiai
 
 <a id="claim-t-195007"></a>
-- t-003
+- t-001
   global_id: t-195007
   teiginys: "Šich Achmetas, valdovo valia turėjęs būti svetingai priimtas Trakuose, su garbinga palyda sugrįžo į Lietuvą."
   pagrindžia:
@@ -45,7 +45,7 @@ media_all_json: |-
     - c-177391
 
 <a id="claim-t-195009"></a>
-- t-004
+- t-003
   global_id: t-195009
   teiginys: "Sich-Achmetas buvo Achmato sūnus, paskutinis Aukso ordos chanas."
   pagrindžia:

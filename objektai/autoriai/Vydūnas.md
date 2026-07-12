@@ -30,14 +30,14 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
 ## Teiginiai
 
 <a id="claim-t-89486"></a>
-- t-004
+- t-001
   global_id: t-89486
   teiginys: "Vydūnas šaltinyje nurodomas kaip Vilius Storasta."
   pagrindžia:
     - c-85435
 
 <a id="claim-t-89487"></a>
-- t-003
+- t-002
   global_id: t-89487
   teiginys: "Vydūnas nurodytas tarp autorių, palaikiusių aptariamą mintį."
   pagrindžia:

@@ -13,6 +13,7 @@ tags:
   - asmuo
   - ordinas
   - tauta
+  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

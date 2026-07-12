@@ -41,7 +41,7 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
 ## Teiginiai
 
 <a id="claim-t-87395"></a>
-- t-003
+- t-001
   global_id: t-87395
   teiginys: "Konrado Valenrodo šlovė ir narsa 1392 m. padėjo suburti gausius kryžininkų pulkus žygiui į Lietuvą."
   pagrindžia:
@@ -55,14 +55,14 @@ Didelė kryžiuočių kariauna, vadovauja­ ma Ordino didžiojo magistro ir mar�
     - c-83377
 
 <a id="claim-t-87397"></a>
-- t-004
+- t-003
   global_id: t-87397
   teiginys: "Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė."
   pagrindžia:
     - c-83375
 
 <a id="claim-t-87398"></a>
-- t-001
+- t-004
   global_id: t-87398
   teiginys: "Konrado Valenrodo vadovaujama kryžiuočių kariauna kartu su Vytautu rugsėjo 11 d. apsupo Trakų pilį."
   pagrindžia:

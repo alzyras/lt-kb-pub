@@ -13,7 +13,6 @@ tags:
   - asmuo
   - karalius
   - kunigas
-  - privilegija
 amziai:
   - 'XVIII'
 periodo_grupes:

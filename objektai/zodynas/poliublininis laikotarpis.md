@@ -11,7 +11,9 @@ date_start: '1569'
 date_end: '1932'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+  - teisinis-terminas
 amziai:
   - 'XVI'
   - 'XX'
@@ -77,21 +79,21 @@ Terminas vartojamas kalbant apie istorijos rašymą po Liublino unijos ir atskir
     - c-91776
 
 <a id="claim-t-05606"></a>
-- t-005
+- t-003
   global_id: t-05606
   teiginys: "Pirmieji poliublininiai dešimtmečiai siejami su laikotarpiu po Liublino įvykių."
   pagrindžia:
     - c-91775
 
 <a id="claim-t-97286"></a>
-- t-006
+- t-004
   global_id: t-97286
   teiginys: "Pirmaisiais poliublininiais dešimtmečiais rašęs Stryjkovskis perėmė Lietuvos didikų valstybingumo sąmonę."
   pagrindžia:
     - c-91775
 
 <a id="claim-t-97287"></a>
-- t-007
+- t-005
   global_id: t-97287
   teiginys: "Kojalavičius įtvirtino tradiciją poliublininiu laikotarpiu nebetęsti atskiros Lietuvos istorijos."
   pagrindžia:

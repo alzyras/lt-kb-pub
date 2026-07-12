@@ -61,7 +61,7 @@ Nenurodyta
     - c-63145
 
 <a id="claim-t-62484"></a>
-- t-001
+- t-002
   global_id: t-62484
   teiginys: "1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus."
   pagrindžia:

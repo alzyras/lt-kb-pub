@@ -109,35 +109,35 @@ Nenurodyta
     - c-11905
 
 <a id="claim-t-195019"></a>
-- t-009
+- t-008
   global_id: t-195019
   teiginys: "1605 m. prie Kirchholmo netoli Rygos Jono Karolio Chodkevičiaus vadovaujama LDK kariuomenė su 3 tūkst. raitelių nugalėjo 12 tūkst. švedų."
   pagrindžia:
     - c-177399
 
 <a id="claim-t-195020"></a>
-- t-012
+- t-009
   global_id: t-195020
   teiginys: "Salaspilis), Chotyne, kuriose lietuviai kovojo petys į petį su rusėnais."
   pagrindžia:
     - c-177396
 
 <a id="claim-t-195021"></a>
-- t-008
+- t-010
   global_id: t-195021
   teiginys: "Salaspilio, arba Kirchholmo, mūšis buvo viena iš LDK karinių pergalių, kuriose lietuviai kovojo petys į petį su rusėnais."
   pagrindžia:
     - c-177396
 
 <a id="claim-t-195022"></a>
-- t-010
+- t-011
   global_id: t-195022
   teiginys: "Salaspilio mūšyje lietuviai nedideliais išpuoliais mėgino išprovokuoti švedus pulti pirmuosius, bet abi kariuomenės išstovėjo iki vidudienio."
   pagrindžia:
     - c-43116
 
 <a id="claim-t-195023"></a>
-- t-011
+- t-012
   global_id: t-195023
   teiginys: "Besitraukiantys švedų pėstininkai bandė slėptis Salaspilio (Kircholmo) bažnyčioje."
   pagrindžia:

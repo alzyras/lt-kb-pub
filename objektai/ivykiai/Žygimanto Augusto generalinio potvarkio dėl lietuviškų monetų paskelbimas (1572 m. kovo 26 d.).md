@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
   - karalius
   - miestas
-  - pilis
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -54,14 +54,14 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-86933"></a>
-- t-002
+- t-001
   global_id: t-86933
   teiginys: "1572 m. kovo 26 d. potvarkis numatė dešimties lenkiškų grivinų baudą atsisakiusiems priimti lietuvišką monetą."
   pagrindžia:
     - c-82912
 
 <a id="claim-t-86934"></a>
-- t-001
+- t-002
   global_id: t-86934
   teiginys: "Žygimantas Augustas įsakė lietuvišką monetą, vertą dviejų lietuviškų grašių, priimti už pustrečio lenkiško grašio."
   pagrindžia:

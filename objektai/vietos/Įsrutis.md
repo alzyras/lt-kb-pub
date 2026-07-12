@@ -39,14 +39,14 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
 ## Teiginiai
 
 <a id="claim-t-182881"></a>
-- t-026
+- t-001
   global_id: t-182881
   teiginys: "1336 m. nadruvių plote buvo pastatyta didelė keturių bokštų Įsruties pilis."
   pagrindžia:
     - c-166285
 
 <a id="claim-t-183818"></a>
-- t-027
+- t-002
   global_id: t-183818
   teiginys: "Maršalas organizavo žygį iš Įsruties į Kauną ir, anot šaltinyje cituojamos frazės, „atnešė stabmeldžiams visokių nelaimių“."
   pagrindžia:

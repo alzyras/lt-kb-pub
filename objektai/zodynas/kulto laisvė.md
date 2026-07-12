@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - institucija
   - kunigas
   - sąvoka
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

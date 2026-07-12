@@ -41,28 +41,28 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 ## Teiginiai
 
 <a id="claim-t-88536"></a>
-- t-004
+- t-001
   global_id: t-88536
   teiginys: "Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis, skelbęs krikščionybę prūsams."
   pagrindžia:
     - c-84524
 
 <a id="claim-t-88537"></a>
-- t-003
+- t-002
   global_id: t-88537
   teiginys: "Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais."
   pagrindžia:
     - c-84522
 
 <a id="claim-t-88538"></a>
-- t-001
+- t-003
   global_id: t-88538
   teiginys: "Prūsijos vyskupas Kristijonas buvo Cistersų ordino vienuolis ir ragino prūsus atsisakyti stabų garbinimo."
   pagrindžia:
     - c-84524
 
 <a id="claim-t-88539"></a>
-- t-002
+- t-004
   global_id: t-88539
   teiginys: "1210 m. pabaigos popiežiaus bulėje Cistersų ordino vienuolis Kristijonas minimas kaip vienas krikščioniškosios misijos Prūsijoje vadovų."
   pagrindžia:

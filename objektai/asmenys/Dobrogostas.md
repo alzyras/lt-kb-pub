@@ -41,35 +41,35 @@ Tad kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­ niai s
 ## Teiginiai
 
 <a id="claim-t-82253"></a>
-- t-003
+- t-001
   global_id: t-82253
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės dėl Vilniaus vyskupijos fundacijos."
   pagrindžia:
     - c-78741
 
 <a id="claim-t-82254"></a>
-- t-001
+- t-002
   global_id: t-82254
   teiginys: "Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI."
   pagrindžia:
     - c-78744
 
 <a id="claim-t-82255"></a>
-- t-005
+- t-003
   global_id: t-82255
   teiginys: "Poznanės vyskupas Dobrogostas buvo nusiųstas pas popiežių išprašyti bulės, patvirtinančios Vilniaus vyskupijos fundaciją ir naujo ganytojo išrinkimą."
   pagrindžia:
     - c-78741
 
 <a id="claim-t-82256"></a>
-- t-002
+- t-004
   global_id: t-82256
   teiginys: "Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą tvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją."
   pagrindžia:
     - c-78743
 
 <a id="claim-t-82257"></a>
-- t-004
+- t-005
   global_id: t-82257
   teiginys: "1389 m. pabaigoje Dobrogostas kaip Urbono VI pasiuntinys Vilniuje paskelbė bulę dėl Vilniaus katedros ir vyskupijos."
   pagrindžia:

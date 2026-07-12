@@ -44,7 +44,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
 ## Teiginiai
 
 <a id="claim-t-181496"></a>
-- t-003
+- t-001
   global_id: t-181496
   teiginys: "Zigmantas Sierakauskas planavo sukilėlių pajėgomis žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę."
   pagrindžia:
@@ -58,14 +58,14 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
     - c-165040
 
 <a id="claim-t-181498"></a>
-- t-004
+- t-003
   global_id: t-181498
   teiginys: "1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio."
   pagrindžia:
     - c-43379
 
 <a id="claim-t-181499"></a>
-- t-001
+- t-004
   global_id: t-181499
   teiginys: "1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio."
   pagrindžia:

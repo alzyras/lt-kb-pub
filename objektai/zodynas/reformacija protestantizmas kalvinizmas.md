@@ -48,14 +48,14 @@ media_all_json: |-
     - c-24952
 
 <a id="claim-t-22264"></a>
-- t-003
+- t-002
   global_id: t-22264
   teiginys: "Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią."
   pagrindžia:
     - c-24954
 
 <a id="claim-t-22265"></a>
-- t-002
+- t-003
   global_id: t-22265
   teiginys: "Abraomas Kulvietis reformacijos idėjomis grindė programą, turėjusią lietuvių kalbą padaryti švietimo sistemos pagrindu."
   pagrindžia:

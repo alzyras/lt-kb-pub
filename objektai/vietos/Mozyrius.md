@@ -41,21 +41,21 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
 ## Teiginiai
 
 <a id="claim-t-68717"></a>
-- t-003
+- t-001
   global_id: t-68717
   teiginys: "Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link."
   pagrindžia:
     - c-43658
 
 <a id="claim-t-68718"></a>
-- t-005
+- t-002
   global_id: t-68718
   teiginys: "Maišto vadui pavyko užimti tik Mozyrių ir Turovą, o Sluckas ir Minskas jam nepasidavė."
   pagrindžia:
     - c-68225
 
 <a id="claim-t-68719"></a>
-- t-006
+- t-003
   global_id: t-68719
   teiginys: "Maišto vadui pavyko užimti Mozyrių ir Turovą, bet Sluckas ir Minskas jam nepasidavė."
   pagrindžia:

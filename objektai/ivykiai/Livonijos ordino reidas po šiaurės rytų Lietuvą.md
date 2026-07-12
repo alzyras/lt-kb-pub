@@ -56,42 +56,42 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-186743"></a>
-- t-005
+- t-001
   global_id: t-186743
   teiginys: "Livonijos kariuomenės reidas 1433 m. sausio 30–vasario 9 d. ėjo per Linkmenų, Tauragnų, Utenos ir Užpalių valsčius."
   pagrindžia:
     - c-169959
 
 <a id="claim-t-186744"></a>
-- t-003
+- t-002
   global_id: t-186744
   teiginys: "Švitrigailos ir Livonijos ordino magistro Rutenbergo susitarimas susijungti Kurenece bendram žygiui į Vilnių nebuvo įgyvendintas."
   pagrindžia:
     - c-169960
 
 <a id="claim-t-186745"></a>
-- t-006
+- t-003
   global_id: t-186745
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą, o Švitrigaila pasiliko Lukomlyje telkti kariuomenės."
   pagrindžia:
     - c-169959
 
 <a id="claim-t-186746"></a>
-- t-001
+- t-004
   global_id: t-186746
   teiginys: "1433 m. sausio 25 d. buvo sutarta, kad Livonijos ordino magistras Rutenbergas įsiverš į Lietuvą, o Švitrigaila žygiuos nuo Vitebsko."
   pagrindžia:
     - c-169960
 
 <a id="claim-t-186747"></a>
-- t-002
+- t-005
   global_id: t-186747
   teiginys: "1433 m. vasario 15 d. Livonijos ordino magistras Rutenbergas ir Švitrigaila turėjo susijungti Kurenece bendram žygiui į Vilnių."
   pagrindžia:
     - c-169960
 
 <a id="claim-t-186748"></a>
-- t-004
+- t-006
   global_id: t-186748
   teiginys: "1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė surengė reidą po šiaurės rytų Lietuvą."
   pagrindžia:

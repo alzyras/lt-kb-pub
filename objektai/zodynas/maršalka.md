@@ -74,6 +74,7 @@ media_all_json: |-
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
 - susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
+- susijęs iš [[objektai/zodynas/Plotkai.md#claim-t-195640|Plotkai]]: Plotkus dieną atneša bažnyčios maršalka, o atsiskaitoma už juos kalėdojant.
 - susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
 - susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
 ## Reikšmingi paminėjimai

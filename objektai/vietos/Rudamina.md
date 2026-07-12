@@ -39,21 +39,21 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
 ## Teiginiai
 
 <a id="claim-t-114961"></a>
-- t-008
+- t-001
   global_id: t-114961
   teiginys: "Vytautas ties Rudamina pasitiko kryžiuočių pulkus, bet per tirštą rūką klaidingai įvertino jų dydį ir skubiai atsitraukė."
   pagrindžia:
     - c-105966
 
 <a id="claim-t-114962"></a>
-- t-003
+- t-002
   global_id: t-114962
   teiginys: "Voigtas manė, kad prie Rudaminos vykęs susirėmimas galėjo būti ties dabartiniu Parudaminiu į pietvakarius nuo Vilniaus."
   pagrindžia:
     - c-105967
 
 <a id="claim-t-114963"></a>
-- t-001
+- t-003
   global_id: t-114963
   teiginys: "Prie Rudaminos kryžiuočiai laimėjo vieną didesnių mūšių ir paėmė į nelaisvę lietuvių kariuomenę."
   pagrindžia:
@@ -67,35 +67,35 @@ Vienok kartą išėjusiems pasiplėšti kryžiuočiams teko laimėti vieną iš 
     - c-105966
 
 <a id="claim-t-114965"></a>
-- t-009
+- t-005
   global_id: t-114965
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos ir nuolatinio vikaro bažnyčios aptarnavimui duoti atskiri nurodymai."
   pagrindžia:
     - c-105965
 
 <a id="claim-t-114966"></a>
-- t-010
+- t-006
   global_id: t-114966
   teiginys: "Vokiečiai ties Rudamina, pusantros mylios nuo Vilniaus, susirėmė su į pagalbą skubėjusiais septyniais šimtais lietuvių raitelių."
   pagrindžia:
     - c-105973
 
 <a id="claim-t-114967"></a>
-- t-005
+- t-007
   global_id: t-114967
   teiginys: "Rudaminos bažnyčia buvo atiduota kolegijai, o jos aptarnavimui numatyti jėzuitai ir nuolatinis vikaras."
   pagrindžia:
     - c-105965
 
 <a id="claim-t-114968"></a>
-- t-006
+- t-008
   global_id: t-114968
   teiginys: "1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius vikarui skyrė Rudaminą su bažnytėle."
   pagrindžia:
     - c-105965
 
 <a id="claim-t-114969"></a>
-- t-007
+- t-009
   global_id: t-114969
   teiginys: "Voigtas Rudminne kaimą tapatino su dabartiniu Parudaminiu, o Balińskis nurodė ir Rudaminą į pietryčius nuo Vilniaus."
   pagrindžia:

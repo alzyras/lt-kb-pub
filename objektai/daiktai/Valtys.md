@@ -56,7 +56,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-192074"></a>
-- t-003
+- t-001
   global_id: t-192074
   teiginys: "Narbutas pasakoja, kad po sutriuškinimo į įlanką įplaukę nugalėtojai turėjo brautis pro sudužusias valtis."
   pagrindžia:
@@ -70,7 +70,7 @@ Nenurodyta
     - c-174946
 
 <a id="claim-t-192076"></a>
-- t-001
+- t-003
   global_id: t-192076
   teiginys: "Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje."
   pagrindžia:

@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - paprotys
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'
@@ -56,7 +57,7 @@ Nenurodyta
 ## Teiginiai
 
 <a id="claim-t-97124"></a>
-- t-004
+- t-001
   global_id: t-97124
   teiginys: "Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje."
   pagrindžia:
@@ -77,7 +78,7 @@ Nenurodyta
     - c-91643
 
 <a id="claim-t-97127"></a>
-- t-001
+- t-004
   global_id: t-97127
   teiginys: "Bitininkystė Lietuvoje sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas."
   pagrindžia:
