@@ -2,6 +2,7 @@ import FlexSearch, { DefaultDocumentSearchResults } from "flexsearch"
 import { SearchIndexDetails } from "../../plugins/emitters/contentIndex"
 import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, normalizeRelativeURLs, resolveRelative } from "../../util/path"
+import { createRequestTracker, ensureSuccessfulSearchPreviewResponse } from "./searchPreview"
 
 type ContentIndex = Record<FullSlug, SearchIndexDetails>
 
@@ -314,6 +315,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     searchLayout.dataset.preview === "true" && window.matchMedia("(min-width: 900px)").matches
   let preview: HTMLDivElement | undefined = undefined
   let previewInner: HTMLDivElement | undefined = undefined
+  const previewRequests = createRequestTracker()
+  const searchRequests = createRequestTracker()
   const results = document.createElement("div")
   results.className = "results-container"
   appendLayout(results)
@@ -325,6 +328,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   }
 
   function hideSearch() {
+    previewRequests.invalidate()
+    searchRequests.invalidate()
     container.classList.remove("active")
     searchBar.value = "" // clear the input when we dismiss the search
     if (sidebar) sidebar.style.zIndex = ""
@@ -338,6 +343,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   }
 
   function showSearch(searchTypeNew: SearchType) {
+    previewRequests.invalidate()
     searchType = searchTypeNew
     if (sidebar) sidebar.style.zIndex = "1"
     container.classList.add("active")
@@ -509,8 +515,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     }
 
     async function onMouseEnter(ev: MouseEvent) {
-      if (!ev.target) return
-      const target = ev.target as HTMLInputElement
+      if (!ev.currentTarget) return
+      const target = ev.currentTarget as HTMLElement
       await displayPreview(target)
     }
 
@@ -587,17 +593,17 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
     }
 
     const targetUrl = resolveUrl(slug).toString()
-    const contents = await fetch(targetUrl)
-      .then((res) => res.text())
-      .then((contents) => {
-        if (contents === undefined) {
-          throw new Error(`Could not fetch ${targetUrl}`)
-        }
-        const html = p.parseFromString(contents ?? "", "text/html")
-        normalizeRelativeURLs(html, targetUrl)
-        return [...html.getElementsByClassName("popover-hint")]
-      })
+    const response = await fetch(targetUrl)
+    ensureSuccessfulSearchPreviewResponse(response, targetUrl)
+    const responseBody = await response.text()
+    const html = p.parseFromString(responseBody, "text/html")
+    normalizeRelativeURLs(html, targetUrl)
+    const contents = [...html.getElementsByClassName("popover-hint")]
+    if (contents.length === 0) {
+      throw new Error(`Search preview content is missing for ${targetUrl}`)
+    }
 
+    // Only successful, usable previews belong in the cache.
     fetchContentCache.set(slug, contents)
     return contents
   }
@@ -605,9 +611,35 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
   async function displayPreview(el: HTMLElement | null) {
     if (!searchLayout || !enablePreview || !el || !preview) return
     const slug = el.id as FullSlug
-    const innerDiv = await fetchContent(slug).then((contents) =>
-      contents.flatMap((el) => [...highlightHTML(currentSearchTerm, el as HTMLElement).children]),
-    )
+    if (!slug) return
+
+    const requestId = previewRequests.begin()
+    const searchTerm = currentSearchTerm
+    let innerDiv: Element[]
+    try {
+      const contents = await fetchContent(slug)
+      if (!previewRequests.isCurrent(requestId)) return
+      innerDiv = contents.flatMap((content) => [
+        ...highlightHTML(searchTerm, content as HTMLElement).children,
+      ])
+    } catch (error) {
+      if (!previewRequests.isCurrent(requestId)) return
+      console.warn(error)
+      const errorPreview = document.createElement("div")
+      errorPreview.classList.add("preview-inner", "search-preview-error")
+      const heading = document.createElement("h3")
+      heading.textContent = "Peržiūros nepavyko įkelti"
+      const description = document.createElement("p")
+      description.textContent = "Rezultato puslapį vis tiek galite atidaryti."
+      const link = document.createElement("a")
+      link.href = el instanceof HTMLAnchorElement ? el.href : resolveUrl(slug).toString()
+      link.textContent = "Atidaryti rezultatą"
+      errorPreview.append(heading, description, link)
+      preview.replaceChildren(errorPreview)
+      return
+    }
+
+    if (!previewRequests.isCurrent(requestId)) return
     previewInner = document.createElement("div")
     previewInner.classList.add("preview-inner")
     previewInner.append(...innerDiv)
@@ -622,8 +654,12 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
 
   async function onType(e: HTMLElementEventMap["input"]) {
     if (!searchLayout || !index) return
+    const requestId = searchRequests.begin()
+    previewRequests.invalidate()
+    const requestedSearchTerm = (e.target as HTMLInputElement).value
     await loadSearchData()
-    currentSearchTerm = (e.target as HTMLInputElement).value
+    if (!searchRequests.isCurrent(requestId)) return
+    currentSearchTerm = requestedSearchTerm
     searchLayout.classList.toggle("display-results", currentSearchTerm !== "")
     searchType = currentSearchTerm.startsWith("#") ? "tags" : "basic"
 
@@ -664,6 +700,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       })
     }
 
+    if (!searchRequests.isCurrent(requestId)) return
+
     const getByField = (field: string): number[] => {
       const results = searchResults.filter((x) => x.field === field)
       return results.length === 0 ? [] : ([...results[0].result] as number[])
@@ -684,6 +722,7 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug) {
       .sort((a, b) => rankResult(currentSearchTerm, b) - rankResult(currentSearchTerm, a))
       .slice(0, numSearchResults)
       .map((id) => formatForDisplay(currentSearchTerm, id))
+    if (!searchRequests.isCurrent(requestId)) return
     await displayResults(
       finalResults,
       Math.max(0, candidateIds.length - visibleIds.length),
