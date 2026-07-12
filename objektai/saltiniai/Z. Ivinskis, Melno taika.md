@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Z. Ivinskis, Melno taika
 
@@ -26,17 +38,16 @@ amziai:
 <a id="claim-t-97276"></a>
 - t-001
   global_id: t-97276
-  teiginys: '„Melno taika“ nurodyta „Lietuvių enciklopedijos“ 18 tome, 172-175 puslapiuose.'
+  teiginys: "„Melno taika“ nurodyta „Lietuvių enciklopedijos“ 18 tome, 172-175 puslapiuose."
   pagrindžia:
-    - c-001
+    - c-91760
 
 <a id="claim-t-97277"></a>
 - t-002
   global_id: t-97277
-  teiginys: 'Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175.'
+  teiginys: "Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175."
   pagrindžia:
-    - c-001
-
+    - c-91760
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,8 +65,35 @@ amziai:
     Eydtkuhnen bis Soldau.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-91760
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^362) III skyrius: valstybės suklestėjimas
+    BeGeDO, t. 3, dalis 1. —Dundulis, B. : _Lietuvos sąjunga su husi­
+    tais kovoje prieš vokiečių feodalų agresiją 1420-1422 m._ , VUMD, t. 13,
+    1957, 59-84 p. — Forstreuter, K. : _Die Entwicklung der Grenze zwischen
+    Preussen und Litauen seit 1422_ , AF, t. 18, 1941, 50-70 p. (daug bibliogr.
+    ir Karaliaučiaus archyvo duomenys). — Ivinskis, Z. : _Driežų sąjunga,_
+    LE, t. 5, 184-185 p. — (”) _Küchmeister Michael_ , LE, t. 13, 265-266 p.
+    — (”) _Melno taika_ , LE, t. 18, 172-175 p. — (”) _Russdorf Paul von,_ LE,
+    t. 26, 170-171 p. — Krochnert, E.: _Die deutsch-russische Grenze von
+    Eydtkuhnen bis Soldau.
+  citata_rodoma: "13, 265-266 p.\n— (”) _Melno taika_ , LE, t. 18, 172-175 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97277
+    - t-97276

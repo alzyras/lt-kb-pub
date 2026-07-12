@@ -4,6 +4,7 @@ import {
   RelativeURL,
   SimpleSlug,
   TransformOptions,
+  getFileExtension,
   stripSlashes,
   simplifySlug,
   splitAnchor,
@@ -59,6 +60,9 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                 const classes = (node.properties.className ?? []) as string[]
                 const isExternal = isAbsoluteUrl(dest, { httpOnly: false })
                 classes.push(isExternal ? "external" : "internal")
+                if (isExternal) {
+                  node.properties["data-analytics-resource"] = true
+                }
 
                 if (isExternal && opts.externalLinkIcon) {
                   node.children.push({
@@ -121,8 +125,25 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   // need to decodeURIComponent here as WHATWG URL percent-encodes everything
                   const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
                   const simple = simplifySlug(full)
-                  outgoing.add(simple)
                   node.properties["data-slug"] = full
+                  if (simple.startsWith("objektai/saltiniai/")) {
+                    node.properties["data-analytics-evidence"] = true
+                    node.properties["data-source-kind"] = "internal_source"
+                    node.properties["data-destination-type"] = "saltinis"
+                  }
+
+                  const targetExists =
+                    ctx.allSlugs.includes(full) ||
+                    ctx.allSlugs.includes(simple as unknown as FullSlug)
+                  const isAttachmentLike = getFileExtension(full) !== undefined
+                  if (!targetExists && !isAttachmentLike) {
+                    classes.push("broken-internal")
+                    node.properties.className = classes
+                    node.properties["data-missing-slug"] = full
+                    delete node.properties.href
+                  } else {
+                    outgoing.add(simple)
+                  }
                 }
 
                 // rewrite link internals if prettylinks is on

@@ -9,6 +9,18 @@ tags:
   - miestas
   - mūšis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Smilgiai
 
@@ -21,9 +33,16 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
 <a id="claim-t-38552"></a>
 - t-001
   global_id: t-38552
-  teiginys: 'Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.'
+  teiginys: "Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės."
   pagrindžia:
-    - c-001
+    - c-40356
+
+<a id="claim-t-183810"></a>
+- t-002
+  global_id: t-183810
+  teiginys: "Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės."
+  pagrindžia:
+    - c-167195
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų kaimas: Mūšio metu miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
 - susijęs iš Ažagų-Eimuliškio miškas: Mūšio metu Ažagų-Eimuliškio miškas buvo apsuptas nuo Ažagų kaimo ir Smilgių miestelio pusės.
@@ -51,6 +70,7 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     rio.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +89,48 @@ Mūsiškiai į juos šaudė iš už medžių, iš už krūmų ir visą laiką st
     miestelio pusės).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-40356
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšis prasi-
+    dėjo ankstų rytą. Mūsiškiai į juos šaudė iš
+    už medžių, iš už krūmų ir visą laiką sten-
+    gėsi išsiveržti iš apsupties zonos (miškas
+    buvo apsuptas nuo Ažagų kaimo ir Smilgių
+    miestelio pusės). Mūšis truko iki pavaka-
+    rio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38552
+
+- id: c-167195
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nebebuvo laiko slėp-
+    tis, reikėjo ruoštis gynybai. Mūšis prasi-
+    dėjo ankstų rytą. Mūsiškiai į juos šaudė iš
+    už medžių, iš už krūmų ir visą laiką sten-
+    gėsi išsiveržti iš apsupties zonos (miškas
+    buvo apsuptas nuo Ažagų kaimo ir Smilgių
+    miestelio pusės).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183810

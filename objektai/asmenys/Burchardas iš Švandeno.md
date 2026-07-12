@@ -13,10 +13,23 @@ tags:
   - asmuo
   - ordinas
   - pilis
+  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Burchardas iš Švandeno
 
@@ -29,17 +42,37 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
 <a id="claim-t-60098"></a>
 - t-001
   global_id: t-60098
-  teiginys: 'Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru.'
+  teiginys: "Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru."
   pagrindžia:
-    - c-002
+    - c-167434
 
 <a id="claim-t-60099"></a>
 - t-002
   global_id: t-60099
-  teiginys: 'Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną.'
+  teiginys: "Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną."
   pagrindžia:
-    - c-001
+    - c-60730
 
+<a id="claim-t-60098"></a>
+- t-003
+  global_id: t-60098
+  teiginys: "Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru."
+  pagrindžia:
+    - c-167434
+
+<a id="claim-t-60099"></a>
+- t-004
+  global_id: t-60099
+  teiginys: "Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną."
+  pagrindžia:
+    - c-60730
+
+<a id="claim-t-194478"></a>
+- t-005
+  global_id: t-194478
+  teiginys: "Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino didysis magistras."
+  pagrindžia:
+    - c-60730
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,11 +91,13 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
       71.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-004
+    - t-005
 
 - c-002
   santrauka: 'Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą, kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o.'
@@ -82,8 +117,63 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
                      204 (199).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-60730
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 238-239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 238-239."
+  citata_originali: |
+    Apie brolį Burhardą, devintą Teutonų namų ordino didįjį magistrą
+
+      Tuo metu vadovavo brolis Burchardas iš Švandeno, devintas Teutonų namų ordino
+    didysis magistras. Nežinau, kas jį bus paskatinęs, bet tuo metu, kai turėjo patraukti ginti
+
+    šventosios žemės, jis, pasiprašęs leidimo ir jį gavęs, nusivilko Teutonų ordino apsiaustą
+    ir apsivilko hospitaljerų ordino abitą, kuriuo vilkėdamas vėliau ir mirė.
+
+
+
+      71.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60099
+    - t-184050
+    - t-194478
+
+- id: c-167434
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 164"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 164."
+  citata_originali: |
+    Apie brolį Mangoldą, Prūsijos magistrą 1280 viešpaties metais
+
+       Brolis Mangoldas [iš Šternbergo], vienuoliktas Prūsijos magistras, vadovavo dvejus
+    metus. Anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur daug gera padarė; tapęs
+    Prūsijos žemės magistru ir beveik dvejus metus jai vadovavęs, buvo iškviestas į kapitulą,
+    kai iškilmingai Teutonų ordino didžiuoju magistru išrinko brolį Burchardą iš Švandeno, o
+    grįždamas namo, kelyje ir pasimirė.
+
+
+
+
+                     204 (199).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184049
+    - t-60098

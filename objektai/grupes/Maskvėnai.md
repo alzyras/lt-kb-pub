@@ -8,6 +8,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Maskvėnai
 
@@ -20,34 +32,47 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 <a id="claim-t-184570"></a>
 - t-001
   global_id: t-184570
-  teiginys: 'Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.'
+  teiginys: "Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą."
   pagrindžia:
-    - c-001
+    - c-167931
 
 <a id="claim-t-184571"></a>
 - t-002
   global_id: t-184571
-  teiginys: 'Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo.'
+  teiginys: "Maskvėnai per derybas nenorėjo grąžinti nei Smolensko žemės, nei nė vieno iš Lietuvos atimto kaimo."
   pagrindžia:
-    - c-002
+    - c-167932
 
 <a id="claim-t-184572"></a>
 - t-003
   global_id: t-184572
-  teiginys: 'Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių.'
+  teiginys: "Maskvėnai atidėjo derybas su Lukošiumi Garaburda ir Jonu Vilčeku, laukdami didesnius įgaliojimus turinčių pasiuntinių."
   pagrindžia:
-    - c-003
+    - c-167933
 
 <a id="claim-t-184574"></a>
 - t-004
   global_id: t-184574
-  teiginys: 'Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą.'
+  teiginys: "Maskvėnai į Livonijos žygį patraukė su 120 tūkstančių vyrų ir netrukus užėmė didelę Livonijos dalį, įskaitant Viljandį ir Dorpatą."
   pagrindžia:
-    - c-004
+    - c-167935
+
+<a id="claim-t-193327"></a>
+- t-005
+  global_id: t-193327
+  teiginys: "Numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina."
+  pagrindžia:
+    - c-176055
+
+<a id="claim-t-193328"></a>
+- t-006
+  global_id: t-193328
+  teiginys: "A n tra vertu s, / k u n ig aik štis Iv an as n en u trau - Maskvėnal pradeda k ė k a ro v eik sm ų n e t tuo m ekarą tu, kai k a ra lia u s įg alio tin iai b ergždžiai d e rėjo si M ask v o je."
+  pagrindžia:
+    - c-176056
 - susijęs iš [[objektai/asmenys/Eustachijus Valavičius.md#claim-t-184697|Eustachijus Valavičius]]: Maršalas Eustachijus Valavičius dalyvavo derybose su maskvėnų pasiuntiniais.
 - susijęs iš [[objektai/asmenys/Fiodoras Ovčina.md#claim-t-186039|Fiodoras Ovčina]]: Fiodoras Ovčina sukurstė maskvėnus pradėti karą prieš Lietuvą ir, pasivadinęs caro globėju, užgrobė valdžią.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184753|Kazimieras Jogailaitis]]: Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.
-- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-185938|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
 - susijęs iš [[objektai/asmenys/Mikalojus Naruševičius.md#claim-t-186151|Mikalojus Naruševičius]]: Iždininkas Mikalojus Naruševičius dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186350|Mikalojus Radvila]]: Vilniaus vaivada Mikalojus Radvila dalyvavo derybose su maskvėnų pasiuntiniais dėl valstybės reikalų.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184800|Mykolas Glinskis]]: Mykolas Glinskis visą naktį drąsino maskvėnų vadus, žadėdamas lengvą pergalę prieš menkas karaliaus pajėgas.
@@ -93,6 +118,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
 - susijęs iš Tverė: Tverė, atsikračiusi teisėto kunigaikščio valdžios, susivienijo su maskvėnais.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
 - susijęs iš Tykioji Sosna: Lietuvos metraštis pasakoja, kad prie Tykiosios Sosnos maskvėnai užpuolė Vytauto valdinius severskiečius.
+- susijęs iš [[objektai/asmenys/Mengli Girėjus.md#claim-t-195002|Mengli Girėjus]]: Mengli Girėjus už atlyginimą prisidėjo prie karo žygio, bet nepradėjo kovoti prieš maskvėnus.
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09885|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
@@ -220,6 +246,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     neatnešė naudos, bet anaiptol — galybę nuostolių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,6 +272,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     lensko žemės sienos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,6 +295,7 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     tūkstančių kariuomenės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -286,20 +315,245 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
     kų kolegiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
+- c-005
+  santrauka: 'Numalšinęs Livoniją ir iš siuntęs į Maskvą Palenkės vaivadą Vasilijų Tiškevičių, maršalą Mykolą Pašušvinskį bei Lietuvos raštininką Joną Gaiką, turėjusius derėtis su maskvėnais dėl taikos, kara lius iš stovyklos patraukė į Lenkiją, manydamas, jog ateina.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+- c-006
+  santrauka: 'A n tra vertu s, / k u n ig aik štis Iv an as n en u trau - Maskvėnal pradeda k ė k a ro v eik sm ų n e t tuo m ekarą tu, kai k a ra lia u s įg alio tin iai b ergždžiai d e rėjo si M ask v o je.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Je ig u  p ag aliau  šis k ra šta s ir n eb ū tų  n ei L ietuvos tė v o ­
+    nija, nei im p era to ria u s dovana, M askvos v ald o v u i tik ­
+    rai jam e n iek as n iek ad a teisėtai n e p rik la u sė b e to, ką
+    p asig ro b d av ę sm urtu, to d ėl v a rg u  ar b eb u v o  galim a ir
+    su g alv o ti teisin g esn į p ag rin d ą n e i tas, k u riu o  rėm ėsi Li­
+    v o n ijo s g yven to jai, laisv a valia pasiduodam i k araliau s
+    A ugusto valdžiai.
+    K ad m ask v ėn am s nė tru p u čio  n e rū p ė ju si taik a, k ad
+    k alb ėjo  apie ją  tik  dėl akių, aiškiai rodė jų  laiškai, k u ­
+    riuose jie  n ep asiū lė nė v ien o  sprendim o, priim tino k a ­
+    raliui bei jo pasiuntiniam s, o tik tokius, k u rie buvo
+    didžiai
+    žalingi L ivonijai
+    ir
+    Lietuvai.
+    A n tra  vertu s,
+    717
+
+    ## Puslapis 716
+
+    /
+    k u n ig aik štis Iv an as n en u trau -
+    Maskvėnal
+    pradeda
+    k ė k a ro  v eik sm ų  n e t tuo m e-
+    karą
+    tu, kai k a ra lia u s įg alio tin iai
+    b ergždžiai d e rėjo si M ask v o ­
+    je.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-167931
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 563"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 563."
+  citata_originali: |
+    Kariuo­
+    menę vesti įpareigojo Joną Baltąjį, Žemaitijos vyriau­
+    siąjį karo vadą. Maskvėnai be galo ryžtingai užpuolė
+    Smolenską; kai sudaužė sienas, be vargo galėjo įeiti
+    į miestą. Vis dėlto dėl nepaprasto pilies seniūno Jur­
+    gio Paco bei įgulos viršininko Mikalojaus Sologubo
+    narsumo visi priešo bandymai užgrobti pilį ne tik jam
+    neatnešė naudos, bet anaiptol — galybę nuostolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184570
+
+- id: c-167932
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 648"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 648."
+  citata_originali: |
+    Kadangi Maskvos didikai atkirto, kad ne­
+    gali būti nė kalbos apie šitokias sąlygas, pradėta derė­
+    tis dėl kitokių taikos formulių. Vis dėlto ir šie legatai
+    tiek pat tepešė, kiek ir ankstesnės pasiuntinybės, ka­
+    dangi maskvėnai nenorėjo grąžinti ne tik Smolensko
+    žemės, bet ir nė vieno kaimo, atimto iš Lietuvos; po
+    ilgų kivirčų pasiuntiniams nebeliko nieko kito, kaip, ne­
+    susitarus dėl taikos, išvykti iš Maskvos. Visai atsitikti­
+    nai kažkam užsiminus, kad būtų galima sudaryti de­
+    šimčiai metų paliaubas, kurių metu lietuviai bei mask­
+    vėnai netrukdomi valdytų kraštą, kurį turėjo paliaubų
+    pradžioje, nesvarbu, ar teisėtai, ar neteisėtai įsigytą,
+    abi šalys susitarė dėl penkerių metų paliaubų ir Smo­
+    lensko žemės sienos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184571
+
+- id: c-167933
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 697"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 697."
+  citata_originali: |
+    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
+    legatai, kurie pasitarsią su Maskvos didikais ir pada­
+    rysią viską, kas naudinga valstybei.
+    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
+    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
+    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
+    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
+    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
+    nių.
+    Tuo tarpu Augustas patraukė į Livoniją su šimtu
+    tūkstančių kariuomenės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184572
+
+- id: c-167935
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
+  citata_originali: |
+    Maskvėnai, į šį žygį patraukę
+    su šimtu dvidešimt tūkstančių vyrų, netrukus užėmė
+    didelę Livonijos dalį, be kita ko, Viljandį ir Dorpatą.
+    Viljandyje į priešų rankas pakliuvo pats magistras Fiur-
+    stenbergas, bet niekur neradau parašyta, ar gyvas, ar
+    žuvęs. Apiplėšęs Dorpatą, išsivarė į nelaisvę miesto bei
+    apygardos valdytoją Dorpato vyskupą ir visą dvasinin­
+    kų kolegiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184574
+
+- id: c-176055
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 699"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 699."
+  citata_originali: |
+    Numalšinęs Livoniją ir iš­
+    siuntęs į Maskvą Palenkės
+    vaivadą Vasilijų Tiškevičių,
+    maršalą Mykolą Pašušvinskį
+    bei Lietuvos raštininką Joną
+    Gaiką, turėjusius derėtis su
+    maskvėnais dėl taikos, kara­
+    lius iš stovyklos patraukė į
+    Lenkiją, manydamas, jog ateina visuotinės ramybės me­
+    tas. Tuo tarpu Maskvos kunigaikštis Ivanas netikėtai įsi­
+    veržė į Livoniją su visa kariuomene, kurią sakėsi telkęs
+    karui prieš skitus ir švedus, baimindamasis, matyt, kad
+    Augustas pirmas neužimtų šio krašto. Šiaip ar taip, jis
+    negalėjo nežinoti, kokiomis sąlygomis sudaryta sutar­
+    tis su Livonijos magistru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193327
+
+- id: c-176056
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Je ig u  p ag aliau  šis k ra šta s ir n eb ū tų  n ei L ietuvos tė v o ­
+    nija, nei im p era to ria u s dovana, M askvos v ald o v u i tik ­
+    rai jam e n iek as n iek ad a teisėtai n e p rik la u sė b e to, ką
+    p asig ro b d av ę sm urtu, to d ėl v a rg u  ar b eb u v o  galim a ir
+    su g alv o ti teisin g esn į p ag rin d ą n e i tas, k u riu o  rėm ėsi Li­
+    v o n ijo s g yven to jai, laisv a valia pasiduodam i k araliau s
+    A ugusto valdžiai.
+    K ad m ask v ėn am s nė tru p u čio  n e rū p ė ju si taik a, k ad
+    k alb ėjo  apie ją  tik  dėl akių, aiškiai rodė jų  laiškai, k u ­
+    riuose jie  n ep asiū lė nė v ien o  sprendim o, priim tino k a ­
+    raliui bei jo pasiuntiniam s, o tik tokius, k u rie buvo
+    didžiai
+    žalingi L ivonijai
+    ir
+    Lietuvai.
+    A n tra  vertu s,
+    717
+
+    ## Puslapis 716
+
+    /
+    k u n ig aik štis Iv an as n en u trau -
+    Maskvėnal
+    pradeda
+    k ė k a ro  v eik sm ų  n e t tuo m e-
+    karą
+    tu, kai k a ra lia u s įg alio tin iai
+    b ergždžiai d e rėjo si M ask v o ­
+    je.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193328
+
 ## Ryšiai
-- Priešai: [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- Sąjungininkai: [[objektai/grupes/Totoriai]]
-- Puolė Maskvėnai: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]]
-- Kariavo prieš: [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- Turėjo priklausinį: [[objektai/vietos/Maskva]]
-- Maskvėnai keliavo į [[objektai/vietos/Maskva]]
-- Maskvėnai puolė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Minskas]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Tykioji Sosna]], [[objektai/vietos/Viazma]], [[objektai/vietos/Vitebskas]]
-- Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viazma]], [[objektai/vietos/Viljandis]]
-- Maskvėnai surengė žygį į [[objektai/vietos/Livonija]]
-- Maskvėnai kariavo prieš [[objektai/asmenys/Konstantinas (Karijotaitis)]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvos kariuomenė]]
-- Maskvėnai dalyvavo mūšyje [[objektai/ivykiai/Karo su Maskva atsinaujinimas Ostrogiškių valdų nusiaubimas, Sitnos užėmimas ir reprezentacinio pulko sumušimas]], [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]
+- Maskvėnai puolė [[objektai/vietos/Lietuva]], [[objektai/vietos/Smolenskas]]
+- Maskvėnai užėmė [[objektai/vietos/Dorpatas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Rohačevas]], [[objektai/vietos/Viljandis]]
+- Maskvėnai dalyvavo mūšyje [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]

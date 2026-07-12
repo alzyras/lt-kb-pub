@@ -9,7 +9,19 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - privilegija
+  - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo
 
@@ -22,17 +34,16 @@ tags:
 <a id="claim-t-88338"></a>
 - t-001
   global_id: t-88338
-  teiginys: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
+  teiginys: "Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą."
   pagrindžia:
-    - c-002
+    - c-84318
 
 <a id="claim-t-88339"></a>
 - t-002
   global_id: t-88339
-  teiginys: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
+  teiginys: "Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius."
   pagrindžia:
-    - c-001
-
+    - c-84317
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +71,7 @@ tags:
     jo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +97,67 @@ tags:
     rams numatytos bausmės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84317
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nos cum Consiliariis nostris, lateri nostro tunc assi­
+    dentibus, audita beneque examinata partium controversia,
+    436
+
+    ## Puslapis 453
+
+    IV KNYGA
+    pagal minėtos privilegijos nuostatus buvo įprasta laikytis,
+    savą auksakalystės meną atskirai nuo cecho narių neapgal­
+    votai išdrįso vystyti ir savo dirbinius pagal savus įgeidžius,
+    be jokios tvarkos ir dėmesio atliktus, visų žmonių, kurie tik
+    norėjo, vartojimui išdrįso gaminti ir pardavinėti. Visa tai darė
+    negerbdamas privilegijų, leistų minėtam cechui, kaip visa
+    tai mūsų šaukime į teismą aiškiau yra aprašyta. Pagal mūsų
+    pačių pranešimo šiandieninį terminą, nustatytą pačiame šau­
+    kime ir iki pat šios dienos pratęstą, abi pusės, pačios ir su
+    savo teisėtais įgaliotiniais, pas mus viešai atvyko, teisėtai
+    laikydamosi termino, ir taip pat savo nesutarimus pakarto­
+    jo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88339
+
+- id: c-84318
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Transilvanijos kunigaikštis. Šiuo raštu skel­
+    biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
+    ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems
+    senjorams* ir visam mūsų Vilniaus miesto auksakalių ce­
+    chui, buvo pakviestas garsusis Steponas Genseris, auksaka­
+    lys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį
+    turėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip
+    pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro,
+    mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­
+    to auksakalių cechui duotai ir mūsų patvirtintai privilegi­
+    jai, nebijodamas toje pačioje privilegijoje nedrausmingiems,
+    besiverčiantiems auksakalystės menu nesilaikant civilinės
+    teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
+    rams numatytos bausmės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88338

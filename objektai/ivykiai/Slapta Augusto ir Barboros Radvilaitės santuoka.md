@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Slapta Augusto ir Barboros Radvilaitės santuoka
 
@@ -36,17 +48,16 @@ Nenurodyta
 <a id="claim-t-185537"></a>
 - t-001
   global_id: t-185537
-  teiginys: 'Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę.'
+  teiginys: "Po Elžbietos laidotuvių Augustas pradėjo lankyti Barborą Radvilaitę, Vilniaus kašteliono Jurgio dukrą ir Stanislovo Goštauto našlę."
   pagrindžia:
-    - c-001
+    - c-168898
 
 <a id="claim-t-185538"></a>
 - t-002
   global_id: t-185538
-  teiginys: 'Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje.'
+  teiginys: "Augustas ir Barbora Radvilaitė prisiekė santuokinę ištikimybę Stanislovo Kęsgailos ir dviejų Radvilų akivaizdoje."
   pagrindžia:
-    - c-002
-
+    - c-168899
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,6 +97,7 @@ Nenurodyta
     sodus takelį ir tiltuką per Vilnios upę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,7 +134,91 @@ Nenurodyta
     į Romos imperijos princų kolegiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168898
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Palydėjęs į paskutinę kelionę Elžbietą ir iškilmingai
+    ją palaidojęs Vilniaus katedros koplyčioje, kur ilsėjosi
+    ir karaliaus Aleksandro pa­
+    laikai, Augustas neilgai ge­
+    dėjo. Jaunatviškai lengvabū­
+    diškas, be to, iš mažumės
+    taip išauklėtas, kad mėgo
+    puotauti, šokti ir visaip link-
+    1545 m e ta i
+    M iršta  A u strijo s k u ­
+    n ig a ik š ty tė
+    E lžb ieta ,
+    A u g u sto  žm on a
+    6 7  4
+
+    ## Puslapis 673
+
+    smintis su moterimis, pradėjo lankyti Barborą Radvi­
+    laitę, Vilniaus kašteliono Jurgio dukrą ir Trakų vai­
+    vados Stanislovo Goštauto našlę. Nors Radvilų rūmai
+    buvo visai netoli karaliaus
+    A u g u sta s sla p ta i ve-
+    pilies, Augustas, trokšdamas
+    d a
+    B arborą
+    R a d vi-
+    kada panorėjęs kuo trumpes-
+    la itę
+    niu keliu ten patekti, palie­
+    pė nukloti iš pilies į Barboros
+    sodus takelį ir tiltuką per Vilnios upę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185537
+
+- id: c-168899
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 673"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 673."
+  citata_originali: |
+    Mat
+    tie apsilankymai iš tiesų rodėsi šiek tiek lengvapėdiš­
+    ki, tačiau gink dieve negali sakyti, jog buvo netau­
+    rūs; vis dėlto valdovas pakankamai nusikalto jau vien
+    dėl to, kad nevengė veiksmų, kurių žmonės negali ne­
+    peikti. Ilgai draugavęs ir dažnai susitikinėjęs, Augus­
+    tas nieku būdu nestengė nei Barboros atkakliai gina­
+    mos doros įveikti, nei vis smarkiau įsiplieskiančio
+    širdies karščio nuslopinti, todėl netrukus su visomis
+    krikščioniškomis apeigomis jiedu vienas kitam prisie­
+    kė santuokinę ištikimybę Barboros giminaičių Stanis­
+    lovo Kęsgailos bei dviejų Radvilų akivaizdoje. Barbo­
+    ros pusbrolis Mikalojus Rad-
+    1546 m e ta i
+    vila, dėl juodų plaukų gavęs
+    Juodojo
+    pravardę,
+    panoro
+    didesniais savo šeimos titulais išlyginti skirtumą tarp
+    dviejų sutuoktinių — Barboros ir Augusto, todėl pasi­
+    rūpino, kad Augsburgo suvažiavime Karolis V sutiktų
+    jį bei jo brolį Joną paskelbti Olykos bei Nesvyžiaus
+    kunigaikščiais, o Barboros brolį Mikalojų, vadinamą
+    Ruduoju,— Dubingių ir Biržų ir kad visi būtų įtraukti
+    į Romos imperijos princų kolegiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185538

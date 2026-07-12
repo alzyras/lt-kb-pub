@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kurklių valsčius
 
@@ -25,10 +37,9 @@ Kurklių vlsč.
 <a id="claim-t-38498"></a>
 - t-001
   global_id: t-38498
-  teiginys: '1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį.'
+  teiginys: "1945 m. birželio 27 d. Kurklių valsčiaus Trakinių kaimo apylinkių miške NKVD 137-asis šaulių pulkas puolė Alfonso Bagdono-Aro būrį."
   pagrindžia:
-    - c-001
-
+    - c-40302
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,26 @@ Kurklių vlsč.
     Kurklių vlsč.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40302
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    TRAKINIŲ KAUTYNĖS
+    1945 m. birželio 27 d. Ukmergės apskr. Kurklių vlsč. Trakinių k. apylinkėse miške NKVD vidaus
+    kariuomenės 137-ojo šaulių pulkas puolė Alfonso Bagdono-Aro būrį, veikusį Balninkų ir
+    Kurklių vlsč.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38498

@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sosto paveldėjimo principas Gediminaičių dinastijoje
 
@@ -48,10 +60,9 @@ Nenurodyta
 <a id="claim-t-54349"></a>
 - t-001
   global_id: t-54349
-  teiginys: 'XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje.'
+  teiginys: "XIII a. pabaigoje Lietuvoje nauju reiškiniu tapo sosto paveldėjimas tos pačios giminės brolių arba sūnų linijoje."
   pagrindžia:
-    - c-001
-
+    - c-55209
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +77,30 @@ Nenurodyta
     pačios giminės žmonės  – broliai arba sūnūs.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55209
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1264 m. jis įsitraukė į politinį gyvenimą ir,
+    susidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą.
+    Gediminaičių dinastijos iškilimas
+    XIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-
+    čiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus
+    Vytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos
+    pačios giminės žmonės  – broliai arba sūnūs.
+  citata_rodoma: "1264 m. jis įsitraukė į politinį gyvenimą ir, \nsusidorojęs su Mindaugo priešais, sėdo į Lietuvos sostą. \nGediminaičių dinastijos iškilimas\nXIII a. pabaigoje minimi dar šie Lietuvos didieji kunigaikš-\nčiai: Butigeidis, po jo – šio brolis Butvydas, dar vėliau – Butvydo sūnus \nVytenis. Tai buvo naujas reiškinys Lietuvos istorijoje – sostą paveldi tos \npačios giminės žmonės  – broliai arba sūnūs."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54349

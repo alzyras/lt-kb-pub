@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Krymo totorių pergalė prieš Aukso ordą Vorkslos ruože
 
@@ -46,17 +58,16 @@ Nenurodyta
 <a id="claim-t-186793"></a>
 - t-001
   global_id: t-186793
-  teiginys: 'Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje.'
+  teiginys: "Po Mengli-Girėjaus laimėto mūšio Sich-Achmetas pirmiausia ieškojo prieglobsčio Nogajų ordoje Volgos žemupyje."
   pagrindžia:
-    - c-001
+    - c-169983
 
 <a id="claim-t-186794"></a>
 - t-002
   global_id: t-186794
-  teiginys: 'Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK.'
+  teiginys: "Po pralaimėjimo Mengli-Girėjui Sich-Achmetas ieškojo prieglobsčio Nogajų ordoje, bet 1503 m. rudenį grįžo į LDK."
   pagrindžia:
-    - c-001
-
+    - c-169983
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,8 +84,34 @@ Nenurodyta
     masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-169983
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po
+    pralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus
+    sumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­
+    doje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK
+    (žr.Сборник Русского императорского исторического общества,
+    т. 41. С  Петербург, 1884, р. 516).
+    п Aukso ordos chanas Sich-Achmetas bėgo j turkų valdomą
+    Belgorodą (prie dabartinės Odesos), matyt, 1503 m. rudeni, tikėda­
+    masis gauti pagalbos Iš T urkijos sultono Bajareto II-jo.
+  citata_rodoma: "Atrodo, kad Sich-Achmetas atvyko j Kijevą ne betarpiškai po \npralaimėto mūšio, bet vėliau, 1503 m rudenį; Mengli-Girėjaus \nsumuštas, Sich-Achmetas iš karto ieškojo prieglobsčio Nogajų or­\ndoje Volgos žemupyje, bet, ir ten nepalankiai sutiktas, grįžo j LDK \n(žr.Сборник Русского императорского исторического общества, \nт. 41. С  Петербург, 1884, р. 516)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186793
+    - t-186794

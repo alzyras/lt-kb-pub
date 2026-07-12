@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Viazmos žemė
 
@@ -23,17 +35,16 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
 <a id="claim-t-185275"></a>
 - t-001
   global_id: t-185275
-  teiginys: 'Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.'
+  teiginys: "Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę."
   pagrindžia:
-    - c-001
+    - c-168636
 
 <a id="claim-t-185276"></a>
 - t-002
   global_id: t-185276
-  teiginys: 'Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas.'
+  teiginys: "Stanislovas Kiška nusiaubė Viazmos žemę ir gretimas apygardas, visur žudydamas ir degindamas."
   pagrindžia:
-    - c-002
-
+    - c-168637
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,6 +72,7 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     žalos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -81,10 +93,64 @@ Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikšč
     įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Puolė Viazmos žemę: [[objektai/asmenys/Stanislovas Kiška]]
+## Citatos
+
+- id: c-168636
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 532"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 532."
+  citata_originali: |
+    Tuo tarpu Va­
+    siljevičius, nors, paisydamas paliaubų, atvirai ir ne­
+    pradėjo karo, bet žalos daryti nevengė. Jis ir pats atė­
+    mė iš Krošino kunigaikščių, Kęstučio sūnaus Vygando
+    palikuonių, geroką krašto dalį, ir stengėsi nuslėpti savo
+    brolio Andrejaus, Možaisko
+    1487 metai
+    kunigaikščio,
+    įsibrovimą
+    į
+    Siaubia L ie tu v o s v a i-
+    Viazmos žemę, nekalbant jau
+    d a s
+    apie smulkesnius išpuolius.
+    Kazimieras, rodos, nė nema­
+    tydamas teisingos ir akivaizdžios priežasties karui, pa­
+    vedė Vladimiro kunigaikščiui Masalskiui karaliaus var­
+    du vesti derybas su Maskvos valdovu dėl padarytos
+    žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185275
+
+- id: c-168637
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 604"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 604."
+  citata_originali: |
+    Vis dėlto Ostro­
+    giškis su keliomis lengvųjų
+    raitelių vėliavomis įsiveržė
+    nepraeinamais keliais į prie­
+    šo kraštą ir išsivarė iš ten
+    daug grobio. Ir Stanislovas Kiška, vargais negalais pra­
+    sivalęs kelią, veržliai nusiaubė Viazmos žemę ir greti­
+    mas apygardas, visur žudydamas ir degindamas. Šis
+    įsibrovimas išviliojo iš slėpynių priešo kariuomenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185276

@@ -16,6 +16,18 @@ tags:
   - valdovas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kvedenava
 
@@ -28,16 +40,16 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 <a id="claim-t-58582"></a>
 - t-001
   global_id: t-58582
-  teiginys: 'Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro.'
+  teiginys: "Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro."
   pagrindžia:
-    - c-001
+    - c-59214
 
 <a id="claim-t-58583"></a>
 - t-002
   global_id: t-58583
-  teiginys: 'Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais.'
+  teiginys: "Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais."
   pagrindžia:
-    - c-002
+    - c-59215
 - susijęs iš [[objektai/asmenys/Noliubas.md#claim-t-89993|Noliubas]]: Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.
 - susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.
 - susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60206|Sklodas iš Kvedenavos]]: Sklodas iš Kvedenavos buvo Noliubo tėvas.
@@ -71,6 +83,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     automobilių  kelio Kaliningradas—Poleskas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,10 +102,55 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
     pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Puolė Kvedenavą: [[objektai/grupes/Kryžiuočių ordinas]]
+## Citatos
+
+- id: c-59214
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  citata_originali: |
+    Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą
+
+      Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas
+    reikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele
+    kariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,
+    pastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai
+    ją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį
+      324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas
+    daiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab.
+    automobilių  kelio Kaliningradas—Poleskas.
+  citata_rodoma: "Apie Karaliaučiaus, arba Tvankstės, pilies pastatymą\n\n  Valdovui Čekijos karaliui išvykus, magistras  ir broliai netruko paruošti visa, kas\nreikalinga  pilių  statybai,  ir,  pasitelkę jiems  ištikimus prūsus, atžygiavo su didele\nkariuomene 1255 viešpaties metais ir toje vietoje, kuri dabar vadinama Senąja pilimi,\npastatė Karaliaučiaus pilį, Čekijos karaliaus garbei pavadindami ją Karaliaus pilimi (prūsai\nją vadino Tvankste nuo ten buvusio tuo pat vardu miško)328, o komtūru čia paliko brolį\n  324 D.— Quedenow, Jer.— Quedenowe; Kvedenava, valsčiaus centras, buvęs, galimas\ndaiktas, per 4 km  į šiaurės rytus nuo dab. Kaliningrado centrinės aikštės, prie dab."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58582
+
+- id: c-59215
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 106"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 106."
+  citata_originali: |
+    kad jų kilmingieji pasiūlė karaliui įkaitų, maldaudami jų pagailėti ir nežudyti visų žmonių.
+    Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten
+    kai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam
+    įkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską
+    tinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo
+    prie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti
+    pilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai.
+  citata_rodoma: "Paskui jis atžygiavo  į Kvedenavos324, Valdavos325, Kaimo326 ir Tepliavos327 valsčius, ten\nkai kurie, bijodami, kad ir čia jis nepridarytų panašių skerdynių kaip kitur, atidavė jam\nįkaitais savo sūnus, galvomis prisiekdami nuolankiai paklusti tikėjimui ir broliams. Viską\ntinkamai sutvarkęs, karalius perdavė broliams minėtuosius įkaitus, o pats nužygiavo\nprie kalvos, kurioje dabar stovi Karaliaučiaus pilis, patardamas broliams čia pastatyti\npilį tikėjimui ginti ir palikdamas jiems puikių, tikrai karališkų dovanų šiai statybai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58583

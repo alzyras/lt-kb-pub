@@ -1,5 +1,5 @@
 import { FileTrieNode } from "../../util/fileTrie"
-import { FullSlug, resolveRelative, simplifySlug } from "../../util/path"
+import { FullSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { ContentMetaDetails } from "../../plugins/emitters/contentIndex"
 
 type MaybeHTMLElement = HTMLElement | undefined
@@ -25,6 +25,12 @@ type FolderState = {
   collapsed: boolean
 }
 
+type LazyFolderChildren = {
+  currentSlug: FullSlug
+  node: FileTrieNode<ContentMetaDetails>
+  opts: ParsedOptions
+}
+
 type ExplorerToggleButton = HTMLElement & {
   dataset: HTMLElement["dataset"] & {
     explorerToggleBound?: string
@@ -33,14 +39,17 @@ type ExplorerToggleButton = HTMLElement & {
 
 let currentExplorerState: Array<FolderState>
 const explorerWindow = window as ExplorerWindow
+const lazyFolderChildren = new WeakMap<HTMLElement, LazyFolderChildren>()
 
 function isElementVisible(element: Element): boolean {
-  const checkVisibility = (element as HTMLElement & { checkVisibility?: () => boolean })
-    .checkVisibility
-  if (typeof checkVisibility === "function") {
-    return checkVisibility.call(element)
-  }
-  return element.getClientRects().length > 0
+  const htmlElement = element as HTMLElement
+  const style = window.getComputedStyle(htmlElement)
+  return (
+    style.display !== "none" &&
+    style.visibility !== "hidden" &&
+    style.opacity !== "0" &&
+    htmlElement.getClientRects().length > 0
+  )
 }
 
 function toggleExplorer(this: HTMLElement) {
@@ -51,6 +60,12 @@ function toggleExplorer(this: HTMLElement) {
     "aria-expanded",
     nearestExplorer.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
+  const expanded = !explorerCollapsed
+  this.setAttribute("aria-expanded", String(expanded))
+  nearestExplorer
+    .querySelector<HTMLElement>(".explorer-content")
+    ?.setAttribute("aria-expanded", String(expanded))
+  this.setAttribute("aria-label", expanded ? "Uždaryti naršyklę" : "Atidaryti naršyklę")
 
   if (!explorerCollapsed) {
     // Stop <html> from being scrollable when mobile explorer is open
@@ -58,6 +73,18 @@ function toggleExplorer(this: HTMLElement) {
   } else {
     document.documentElement.classList.remove("mobile-no-scroll")
   }
+}
+
+function closeMobileExplorer(explorer: HTMLElement) {
+  if (explorer.classList.contains("collapsed")) return
+  const toggle = explorer.querySelector<HTMLElement>(".mobile-explorer")
+  explorer.classList.add("collapsed")
+  explorer.setAttribute("aria-expanded", "false")
+  explorer.querySelector<HTMLElement>(".explorer-content")?.setAttribute("aria-expanded", "false")
+  toggle?.setAttribute("aria-expanded", "false")
+  toggle?.setAttribute("aria-label", "Atidaryti naršyklę")
+  document.documentElement.classList.remove("mobile-no-scroll")
+  toggle?.focus()
 }
 
 function bindExplorerToggle(
@@ -70,7 +97,7 @@ function bindExplorerToggle(
   }
   toggle.dataset.explorerToggleBound = "true"
   toggle.addEventListener("click", handler)
-  window.addCleanup(() => toggle.removeEventListener("click", handler))
+  window.addCleanup?.(() => toggle.removeEventListener("click", handler))
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -92,6 +119,10 @@ function toggleFolder(evt: MouseEvent) {
   if (!folderContainer) return
   const childFolderContainer = folderContainer.nextElementSibling as MaybeHTMLElement
   if (!childFolderContainer) return
+
+  if (!childFolderContainer.classList.contains("open")) {
+    hydrateLazyFolderChildren(childFolderContainer)
+  }
 
   childFolderContainer.classList.toggle("open")
 
@@ -115,6 +146,51 @@ function toggleFolder(evt: MouseEvent) {
   localStorage.setItem("fileTree", stringifiedFileTree)
 }
 
+function bindFolderToggleControls(root: ParentNode) {
+  const controls = [
+    ...(root instanceof Element && root.matches(".folder-button, .folder-icon") ? [root] : []),
+    ...root.querySelectorAll(".folder-button, .folder-icon"),
+  ] as HTMLElement[]
+
+  for (const control of controls) {
+    if (control.dataset.folderToggleBound === "true") continue
+    control.dataset.folderToggleBound = "true"
+    control.addEventListener("click", toggleFolder)
+    window.addCleanup?.(() => control.removeEventListener("click", toggleFolder))
+  }
+}
+
+function appendFolderChildren(
+  currentSlug: FullSlug,
+  node: FileTrieNode<ContentMetaDetails>,
+  opts: ParsedOptions,
+  ul: HTMLUListElement,
+) {
+  const fragment = document.createDocumentFragment()
+  for (const child of node.children) {
+    if (node.slug === "objektai" && !child.isFolder) {
+      continue
+    }
+    const childNode = child.isFolder
+      ? createFolderNode(currentSlug, child, opts)
+      : createFileNode(currentSlug, child)
+    fragment.appendChild(childNode)
+  }
+  ul.appendChild(fragment)
+  bindFolderToggleControls(ul)
+}
+
+function hydrateLazyFolderChildren(folderOuter: HTMLElement) {
+  if (folderOuter.dataset.childrenLoaded === "true") return
+  const lazyChildren = lazyFolderChildren.get(folderOuter)
+  if (!lazyChildren) return
+  const ul = folderOuter.querySelector("ul")
+  if (!ul) return
+  appendFolderChildren(lazyChildren.currentSlug, lazyChildren.node, lazyChildren.opts, ul)
+  folderOuter.dataset.childrenLoaded = "true"
+  lazyFolderChildren.delete(folderOuter)
+}
+
 function createFileNode(
   currentSlug: FullSlug,
   node: FileTrieNode<ContentMetaDetails>,
@@ -128,9 +204,35 @@ function createFileNode(
   const citationSourceIds = Array.isArray(node.data?.citationSourceIds)
     ? node.data.citationSourceIds.filter((value): value is string => typeof value === "string")
     : []
-  a.href = resolveRelative(currentSlug, node.slug)
+  const slugParts = node.slug.split("/")
+  const isObjectPage = slugParts[0] === "objektai" && slugParts.length >= 3
+  a.href = node.slug === "nustatymai" ? "/nustatymai" : resolveRelative(currentSlug, node.slug)
   a.dataset.for = node.slug
-  a.textContent = node.displayName
+  if (node.slug === "nustatymai") {
+    a.dataset.routerIgnore = ""
+  }
+  const title = document.createElement("span")
+  title.className = "explorer-file-title"
+  title.textContent = node.displayName
+  a.appendChild(title)
+
+  if (isObjectPage && Number.isFinite(claimCount)) {
+    const claimLabel =
+      claimCount % 10 === 1 && claimCount % 100 !== 11
+        ? `${claimCount} teiginys`
+        : claimCount % 10 >= 2 &&
+            claimCount % 10 <= 9 &&
+            (claimCount % 100 < 10 || claimCount % 100 >= 20)
+          ? `${claimCount} teiginiai`
+          : `${claimCount} teiginių`
+    const badge = document.createElement("span")
+    badge.className = "explorer-claim-badge"
+    badge.textContent = `${claimCount}`
+    badge.title = claimLabel
+    badge.setAttribute("aria-label", claimLabel)
+    a.appendChild(badge)
+  }
+
   li.dataset.citationFilterable = node.data?.citationFilterable ? "true" : "false"
   li.dataset.quoteCount = `${quoteCount}`
   li.dataset.claimCount = `${claimCount}`
@@ -196,14 +298,12 @@ function createFolderNode(
     folderOuter.classList.add("open")
   }
 
-  for (const child of node.children) {
-    if (folderPath === "objektai" && !child.isFolder) {
-      continue
-    }
-    const childNode = child.isFolder
-      ? createFolderNode(currentSlug, child, opts)
-      : createFileNode(currentSlug, child)
-    ul.appendChild(childNode)
+  if (!isCollapsed || folderIsPrefixOfCurrentSlug) {
+    appendFolderChildren(currentSlug, node, opts, ul)
+    folderOuter.dataset.childrenLoaded = "true"
+  } else {
+    folderOuter.dataset.childrenLoaded = "false"
+    lazyFolderChildren.set(folderOuter, { currentSlug, node, opts })
   }
 
   return li
@@ -215,9 +315,13 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
     : ([...document.querySelectorAll("div.explorer")] as HTMLElement[])
 
   for (const explorer of allExplorers) {
-    if (explorer.dataset.explorerBuilt === "true") {
+    if (
+      explorer.dataset.explorerBuilt === "true" ||
+      explorer.dataset.explorerBuilt === "building"
+    ) {
       continue
     }
+    explorer.dataset.explorerBuilt = "building"
     const dataFns = JSON.parse(explorer.dataset.dataFns || "{}")
     const opts: ParsedOptions = {
       folderClickBehavior: (explorer.dataset.behavior || "collapse") as "collapse" | "link",
@@ -236,7 +340,13 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
       serializedExplorerState.map((entry: FolderState) => [entry.path, entry.collapsed]),
     )
 
-    const data = await (explorerWindow.loadContentMeta?.() ?? Promise.resolve({}))
+    let data: Record<string, ContentMetaDetails>
+    try {
+      data = await (explorerWindow.loadContentMeta?.() ?? Promise.resolve({}))
+    } catch (error) {
+      delete explorer.dataset.explorerBuilt
+      throw error
+    }
     const entries = [...Object.entries(data)] as [FullSlug, ContentMetaDetails][]
     const trie = FileTrieNode.fromEntries(entries)
 
@@ -267,8 +377,14 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
     })
 
     const explorerUl = explorer.querySelector(".explorer-ul")
-    if (!explorerUl) continue
+    if (!explorerUl) {
+      delete explorer.dataset.explorerBuilt
+      continue
+    }
     explorer.dataset.explorerBuilt = "true"
+    explorerUl
+      .querySelectorAll("[data-explorer-fallback='true']")
+      .forEach((fallbackNode) => fallbackNode.remove())
 
     // Create and insert new content
     const fragment = document.createDocumentFragment()
@@ -301,41 +417,50 @@ async function setupExplorer(currentSlug: FullSlug, targetExplorer?: HTMLElement
       bindExplorerToggle(button, toggleExplorer)
     }
 
-    // Set up folder click handlers
-    if (opts.folderClickBehavior === "collapse") {
-      const folderButtons = explorer.getElementsByClassName(
-        "folder-button",
-      ) as HTMLCollectionOf<HTMLElement>
-      for (const button of folderButtons) {
-        button.addEventListener("click", toggleFolder)
-        window.addCleanup(() => button.removeEventListener("click", toggleFolder))
-      }
-    }
-
-    const folderIcons = explorer.getElementsByClassName(
-      "folder-icon",
-    ) as HTMLCollectionOf<HTMLElement>
-    for (const icon of folderIcons) {
-      icon.addEventListener("click", toggleFolder)
-      window.addCleanup(() => icon.removeEventListener("click", toggleFolder))
-    }
+    bindFolderToggleControls(explorer)
   }
 
   explorerWindow.applyQuartzOptionFilters?.()
 }
 
-function setupMobileExplorerShell(explorer: HTMLElement, currentSlug: FullSlug) {
+function setupExplorerShell(explorer: HTMLElement, currentSlug: FullSlug) {
   const explorerButtons = explorer.getElementsByClassName(
     "explorer-toggle",
   ) as HTMLCollectionOf<HTMLElement>
   for (const button of explorerButtons) {
     bindExplorerToggle(button, async function (this: HTMLElement) {
-      if (explorer.dataset.explorerBuilt !== "true") {
+      const wasBuilt = explorer.dataset.explorerBuilt === "true"
+      if (!wasBuilt) {
         await setupExplorer(currentSlug, explorer)
+      }
+      const isMobileToggle = this.dataset.mobile === "true"
+      if (!isMobileToggle && !wasBuilt && !explorer.classList.contains("collapsed")) {
+        return
       }
       toggleExplorer.call(this)
     })
   }
+  const onKeyDown = (event: KeyboardEvent) => {
+    if (event.key === "Escape") closeMobileExplorer(explorer)
+    if (event.key !== "Tab" || explorer.classList.contains("collapsed")) return
+    const focusable = [
+      ...explorer.querySelectorAll<HTMLElement>(
+        'button:not([disabled]), a[href], [tabindex]:not([tabindex="-1"])',
+      ),
+    ].filter((element) => isElementVisible(element))
+    if (!focusable.length) return
+    const first = focusable[0]
+    const last = focusable.at(-1)!
+    if (event.shiftKey && document.activeElement === first) {
+      event.preventDefault()
+      last.focus()
+    } else if (!event.shiftKey && document.activeElement === last) {
+      event.preventDefault()
+      first.focus()
+    }
+  }
+  explorer.addEventListener("keydown", onKeyDown)
+  window.addCleanup?.(() => explorer.removeEventListener("keydown", onKeyDown))
 }
 
 document.addEventListener("prenav", async () => {
@@ -345,28 +470,37 @@ document.addEventListener("prenav", async () => {
   sessionStorage.setItem("explorerScrollTop", explorer.scrollTop.toString())
 })
 
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const currentSlug = e.detail.url
-
-  // if mobile hamburger is visible, collapse by default
+async function setupExplorersForSlug(currentSlug: FullSlug) {
   for (const explorer of document.getElementsByClassName("explorer")) {
-    const mobileExplorer = explorer.querySelector(".mobile-explorer")
-    if (!mobileExplorer) return
-
-    if (isElementVisible(mobileExplorer)) {
-      explorer.classList.add("collapsed")
-      explorer.setAttribute("aria-expanded", "false")
-      setupMobileExplorerShell(explorer as HTMLElement, currentSlug)
-
-      // Allow <html> to be scrollable when mobile explorer is collapsed
-      document.documentElement.classList.remove("mobile-no-scroll")
-    } else {
-      await setupExplorer(currentSlug, explorer as HTMLElement)
+    const explorerElement = explorer as HTMLElement
+    explorerElement.classList.add("collapsed")
+    explorerElement.setAttribute("aria-expanded", "false")
+    explorerElement
+      .querySelector<HTMLElement>(".explorer-content")
+      ?.setAttribute("aria-expanded", "false")
+    for (const toggle of explorerElement.querySelectorAll<HTMLElement>(".explorer-toggle")) {
+      toggle.setAttribute("aria-expanded", "false")
+      toggle.setAttribute("aria-label", "Atidaryti naršyklę")
     }
-
-    mobileExplorer.classList.remove("hide-until-loaded")
+    setupExplorerShell(explorerElement, currentSlug)
+    explorerElement
+      .querySelector<HTMLElement>(".mobile-explorer")
+      ?.classList.remove("hide-until-loaded")
+    document.documentElement.classList.remove("mobile-no-scroll")
   }
+}
+
+document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
+  await setupExplorersForSlug(e.detail.url)
 })
+
+const setupInitialExplorers = () => void setupExplorersForSlug(getFullSlug(window))
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", setupInitialExplorers, { once: true })
+} else {
+  setupInitialExplorers()
+}
 
 window.addEventListener("resize", function () {
   // Desktop explorer opens by default, and it stays open when the window is resized

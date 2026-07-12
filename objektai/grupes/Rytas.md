@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rytas
 
@@ -25,16 +37,16 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 <a id="claim-t-01471"></a>
 - t-001
   global_id: t-01471
-  teiginys: 'Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų.'
+  teiginys: "Vilniuje įkurta švietimo draugija „Rytas“ buvo viena iš trijų ypatingą reikšmę turėjusių švietimo draugijų."
   pagrindžia:
-    - c-001
+    - c-01709
 
 <a id="claim-t-182921"></a>
 - t-002
   global_id: t-182921
-  teiginys: 'Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų.'
+  teiginys: "Vilniuje veikęs „Rytas“ buvo viena iš trijų ypač reikšmingų švietimo reikalams įkurtų draugijų."
   pagrindžia:
-    - c-002
+    - c-166324
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-188557|Janas Lasickis]]: Narbutas rašo, kad Lasickis liudijo buvus Aušros vardu vadintą ryto deivę.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
 - susijęs iš [[objektai/grupes/P. Lukšio rinktinė.md#claim-t-41108|P. Lukšio rinktinė]]: 1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.
@@ -44,6 +56,10 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.).md#claim-t-09851|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]: Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 - susijęs iš Aušra: Narbutas Aušrą (Aussra) pristatė kaip ryto deivę, kurios darbu laikė rytų vartų atidarymą ir saulės fakelo uždegimą.
+- susijęs iš [[objektai/paprociai/Kerdžiaus ganymo signalų sistema.md#claim-t-195363|Kerdžiaus ganymo signalų sistema]]: Kerdžius vasaros rytą trimitu keldavo mergaites karvių melžti.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195369|Kūlimo jaujoje darbo tvarka]]: Kūlimo rytą šeimininkas pirmasis pakyla, visi eina šerti gyvulių, o po pusryčių šeimininkas kūrena jaują ir vėto krūvą.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195360|Šienapiūtė]]: Šienapiūtėje mergaitės grėbia, džiovina ir krauna šieną, vakare arkliai laikomi prie ugnies, o rytą su šienu siunčiamos namo.
+- susijęs iš [[objektai/paprociai/Žiemos šventadienių vakarinis giedojimas grįčioje.md#claim-t-195394|Žiemos šventadienių vakarinis giedojimas grįčioje]]: Neatėjęs rytą ražončiaus giedoti galėjo būti apkaltintas tinginyste ir išstumtas iš grįčios.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
 - susijęs iš [[objektai/asmenys/Dargis.md#claim-t-60261|Dargis]]: Dargis buvo Žiokos valsčiuje gyvenęs prūsas, nepakentęs baltų žirgų ir po Ditricho bandymų atsisakęs prietaro.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59839|Ditrichas (Sembos fogtas)]]: Sembos fogtas Ditrichas nupirko Dargiui baltą arklį, norėdamas atpratinti jį nuo prietaro dėl baltų žirgų.
@@ -70,12 +86,14 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102843|Dusburgas]]: Dusburgas prie 1304 m. pirmą kartą paminėjo Pagraudenę, pasakodamas apie Eberhardo de Virnemburgo įsiveržimą į Lietuvą.
 - susijęs iš [[objektai/autoriai/J. Maciūnas.md#claim-t-96052|J. Maciūnas]]: J. Maciūnas parengė „Trumpą higienos vadovėlį“ pagal Švietimo ministerijos programą.
 - susijęs iš [[objektai/autoriai/Kojałowicz Kojelavičius.md#claim-t-87997|Kojałowicz Kojelavičius]]: Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/autoriai/Mechovita.md#claim-t-191576|Mechovita]]: Narbuto vertinimu, Mechovitos padavimuose esanti prielaida apie jotvingių dukras atrodė pasitvirtinanti polesiečių moterų išvaizdoje.
 - susijęs iš [[objektai/daiktai/Kardas.md#claim-t-92971|Kardas]]: Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.
 - susijęs iš [[objektai/daiktai/Lininiai dirbiniai.md#claim-t-189687|Lininiai dirbiniai]]: Narbutas Alabatį vadina Linų Izide ir aiškina, kad ji globojo ne linų auginimą, o iš linų padarytus dirbinius.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78675|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Prisikėlimo apygardos partizanų antsiuvas.md#claim-t-78676|Prisikėlimo apygardos partizanų antsiuvas]]: Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
+- susijęs iš [[objektai/daiktai/Šarvai.md#claim-t-192068|Šarvai]]: Narbutas pasakoja, kad du paklydę priešų vadai buvo apsiginklavę šarvais ir buvo nukauti.
 - susijęs iš [[objektai/grupes/2-asis šaulių pulko batalionas.md#claim-t-38928|2-asis šaulių pulko batalionas]]: 2-asis šaulių pulko batalionas palaikė J. Zalivskio ir V. Matusevičiaus Trakų sukilėlių dalinius puolant rusų kairįjį sparną.
 - susijęs iš [[objektai/grupes/Kėdainių įgula.md#claim-t-78195|Kėdainių įgula]]: Vasario 7 d. anksti ryte Kėdainių įgula iš Kauno gavo šautuvų, šovinių ir rankinių granatų.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179240|Lietuviai]]: Per pagrindinį puolimą lietuvių gynyba iš pradžių buvo narsi, bet Žemutinėje pilyje prasiveržė liepsna.
@@ -111,6 +129,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs.md#claim-t-41468|Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]: Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.
 - susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs.md#claim-t-09679|Vienas kraujo lašas būt tave nuplovęs]]: Dažnai kartojama Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 m. įvykių vertinimais.
 - susijęs iš A. Smetonos laiškas Michailui Kalininui: Taikingas A. Smetonos laiškas sovietų prezidentui Michailui Kalininui nepadėjo išvengti 1940 m. birželio 14 d. sovietų ultimatumo Lietuvai.
+- susijęs iš Mechovitos veikalas: Teodoro Narbuto vertinimu, Mechovitos padavimų prielaida apie jotvingių dukras esą atsispindi jaunų polesiečių išvaizdoje.
 - susijęs iš SSRS ultimatumas Lietuvai (1940 m. birželio 14 d.): 1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.
 - susijęs iš Trumpas higienos vadovėlis: J. Maciūno „Trumpas higienos vadovėlis“ buvo sudarytas pagal Švietimo ministerijos programą ir išleistas 1929 m.
 - susijęs iš Alionys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
@@ -131,13 +150,26 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - susijęs iš Puoriai: 7-asis pulkas turėjo pulti Širvintas ir užimti Alionių, Puorių, Ramaškonių ir Šešuolėlių dvaro liniją.
 - susijęs iš Ramaškonys: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją: Alionys-Puoriai-Ramaškonys-Šešuolėlių dvaras.
 - susijęs iš SSRS: Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.
-- susijęs iš Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre: Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.
+- susijęs iš Vilniaus Žemutinė pilis: Per svetimšalių puolimą Žemutinėje pilyje keliose vietose įsiplieskė ugnis ir apėmė medinius statinius.
 - susijęs iš Šešuolėliai: 7-asis pulkas turėjo pulti Širvintas ir užimti liniją iki Šešuolėlių dvaro.
 - susijęs iš Žemutinė pilis: Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.
 - susijęs iš [[objektai/zodynas/Gaspadinė.md#claim-t-70005|gaspadinė]]: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.
 - susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.
+- susijęs iš [[objektai/asmenys/Morta (pasakotojo sesuo, XIX a.).md#claim-t-195557|Morta (pasakotojo sesuo, XIX a.)]]: Morta buvo penkiolikmetė pasakotojo sesuo.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187924|A. Vijūkas Kojelavičius]]: Kojelavičius Pagraudenę vadino apylinke Žemaitijoje.
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-187927|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius Pagraudenę vadino Žemaitijos apylinke.
+- susijęs iš [[objektai/daiktai/Bonka.md#claim-t-195331|Bonka]]: Vestuvių ir girtavimo pasakojimuose bonka nešama, statoma ant stalo ir slepiama užančyje.
+- susijęs iš [[objektai/paprociai/Blaivystės brostva ir prisiekimo praktika per tris sekmadienius.md#claim-t-195375|Blaivystės brostva ir prisiekimo praktika per tris sekmadienius]]: Prieš priesaiką dar būdavo atsisveikinama su degtine.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195406|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Per gavėnią garstyčninkas, pupos ir žirniai buvo valgomi savitais būdais, o mažiukai slapta nešiodavosi kruopas iš sietuvės.
+- susijęs iš [[objektai/paprociai/Gavėnios valgių ruošimas ir pasninko valgymo tvarka.md#claim-t-195409|Gavėnios valgių ruošimas ir pasninko valgymo tvarka]]: Šustos pupos, žirniai ir rūkštis buvo ruošiami atskiru gavėnios būdu.
+- susijęs iš [[objektai/paprociai/Klojime pasakojamos pasakos ir juokai.md#claim-t-195371|Klojime pasakojamos pasakos ir juokai]]: Klojimo juokai ir vienas juokingas žodis galėjo išlaikyti gerą nuotaiką keliems rytams.
+- susijęs iš [[objektai/paprociai/Kūlimo jaujoje darbo tvarka.md#claim-t-195367|Kūlimo jaujoje darbo tvarka]]: Kūlimo metu darbininkai dieną dirbdavo lengvesnius ūkio darbus, o moterims darbų netrūkdavo.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195396|Kūčių dienos ir vakarienės apeigos]]: Kūčių dieną krosnis kūrenama du kartus, kad būtų paruošti valgiai šventėms ir pačioms Kūčioms.
+- susijęs iš [[objektai/paprociai/Kūčių dienos ir vakarienės apeigos.md#claim-t-195399|Kūčių dienos ir vakarienės apeigos]]: Kūčioms ruošiami pasninkiniai ir šventiniai valgiai, tarp jų sausi barščiai su baravykais.
+- susijęs iš [[objektai/paprociai/Šienapiūtė.md#claim-t-195361|Šienapiūtė]]: Šienapiūtė pradedama po Švento Jono, o jos pradžią lydi šienapiūtės daina.
+- susijęs iš [[objektai/posakiai/Valioi mano dalgeeeeli, valiooooi, valiooooi!.md#claim-t-195418|Valioi mano dalgeeeeli, valiooooi, valiooooi!]]: Šienapiūtės dainoje kartojamas kreipinys į dalgį ir refrenas „valiooooi“.
+- susijęs iš [[objektai/zodynas/Prikeltuvės.md#claim-t-195630|Prikeltuvės]]: Prikeltuvės šiame šaltinyje yra svočios surengiama apeiga.
+- susijęs iš [[objektai/zodynas/Ražončius.md#claim-t-195465|Ražončius]]: Ražončius šiame šaltinyje reiškia rytinį giedojimą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -154,6 +186,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     jampolėje „Žiburys".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -171,7 +204,50 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     lė".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-01709
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vilniuje 1907 m. buvo
+    įkurta Lietuvių Mokslo Draugija, kuri pasiryžo tirti
+    lietuvių tautą, jos kultūrą ir kelti lietuviškąjį mokslą (ji ir dabar
+    tebėra gyva ir tebeleidžia savo žurnalą Lietuvių Tautą).
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys".
+  citata_rodoma: "Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-\nkalams, būtent Vilniuje „Rytas\", Kaune „Saulė\" ir Mari-\njampolėje „Žiburys\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01471
+
+- id: c-166324
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tais pačiais metais Vilniuje įsikūrė Lietuvių Dailės
+    Draugija ir daug kitų draugijų.
+    Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo rei-
+    kalams, būtent Vilniuje „Rytas", Kaune „Saulė" ir Mari-
+    jampolėje „Žiburys". Ypač plačiai buvo užsimojusi „Sau-
+    lė".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182921

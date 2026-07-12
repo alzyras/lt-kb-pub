@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nacių Vokietija
 
@@ -28,23 +40,23 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
 <a id="claim-t-74876"></a>
 - t-001
   global_id: t-74876
-  teiginys: '1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.'
+  teiginys: "1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą."
   pagrindžia:
-    - c-002
+    - c-22685
 
 <a id="claim-t-74877"></a>
 - t-002
   global_id: t-74877
-  teiginys: 'Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui.'
+  teiginys: "Nacių Vokietijos civilinė valdžia rūpinosi policine priežiūra ir darbo jėgos naudojimu Vokietijos kariuomenei bei karo ūkiui."
   pagrindžia:
-    - c-003
+    - c-72860
 
 <a id="claim-t-74878"></a>
 - t-003
   global_id: t-74878
-  teiginys: 'Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą.'
+  teiginys: "Nacių Vokietijos vyriausybė uždraudė lietuviams karo atveju be jos įstaigų sutikimo sudaryti Lietuvos vyriausybę ar skelbti atsišaukimą."
   pagrindžia:
-    - c-001
+    - c-22683
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75725|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona netrukus pakeitė Klaipėdos nacių teismo skirtą mirties bausmę kalėjimu iki gyvos galvos, o 1937 m. amnestavo kaltinamuosius.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75751|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Prezidentas Antanas Smetona Klaipėdos nacių teismo mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.
 - susijęs iš [[objektai/grupes/Lietuvių aktyvistų frontas.md#claim-t-26625|Lietuvių aktyvistų frontas]]: Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.
@@ -75,7 +87,8 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     tentingų Vokietijos įstaigų sutikimo“.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -93,6 +106,7 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     (Ostlando) reicho komisariatas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,11 +127,72 @@ Tačiau Vokietijos vyriausybė uždraudė lietuviams kilus karui sudaryti bet ko
     venę vokiečiai).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Lietuvių aktyvistų frontas]]
-- Nacių Vokietija valdė [[objektai/vietos/Estija]], [[objektai/vietos/Gudija]], [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-22683
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    K. Škirpa manė, kad nauja organizacija turi palaikyti ypač glaudžius
+    ryšius su nacių Vokietija. LAF programoje ir kituose dokumentuose ne-
+    išvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF progra-
+    mos punktas atšaukė teisę žydams gyventi Lietuvoje). Tačiau Vokietijos
+    vyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos
+    vyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-
+    tentingų Vokietijos įstaigų sutikimo“.
+  citata_rodoma: "Tačiau Vokietijos\nvyriausybė uždraudė lietuviams kilus karui sudaryti bet kokią Lietuvos\nvyriausybę ir skelbti bet kokį atsišaukimą į tautą, „negavus tam kompe-\ntentingų Vokietijos įstaigų sutikimo“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74878
+
+- id: c-22685
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ištremtųjų
+    vietas turėjo užimti atkelti milijonai vokiečių.
+    Vokietija Lietuvą laikė sudedamąja SSRS dalimi ir iš pradžių ją ad-
+    ministravo karinė valdžia, o 1941 m. liepos pabaigoje įvestas civilinis
+    okupacinis valdymas. Liepos 17-osios nutarimu iš „buvusių laisvų
+    Lietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto
+    (Ostlando) reicho komisariatas.
+  citata_rodoma: "Liepos 17-osios nutarimu iš „buvusių laisvų\nLietuvos, Latvijos, Estijos valstybių“ ir Gudijos sudarytas Rytų krašto\n(Ostlando) reicho komisariatas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74876
+
+- id: c-72860
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kiekvienai jų vadovavo generalinis
+    komisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-
+    nosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant
+    Vokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje
+    pajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-
+    ventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už
+    jų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami
+    vokiečių kolonistai (apie 30 tūkst. žmonių, daugiausia iki karo čia gy-
+    venę vokiečiai).
+  citata_rodoma: "Kiekvienai jų vadovavo generalinis \nkomisaras, kurie su svarbiausiomis civilinės valdžios įstaigomis rūpi-\nnosi policine priežiūra, racionaliu darbo jėgos naudojimu aprūpinant \nVokietijos kariuomenę ir vokiečių karo ūkį. Vokiečių valdžia Lietuvoje \npajungė jos išteklius ir ūkį Vokietijos reikmėms, nepaisydama vietos gy-\nventojų poreikių. Lietuvos ūkininkai turėjo mokėti dideles prievoles (už \njų nevykdymą buvo skiriamos didelės nuobaudos), į Lietuvą siunčiami \nvokiečių kolonistai (apie 30 tūkst."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74877

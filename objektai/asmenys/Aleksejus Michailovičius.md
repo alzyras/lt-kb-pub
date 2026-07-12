@@ -16,6 +16,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksejus Michailovičius
 
@@ -28,16 +40,16 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 <a id="claim-t-78940"></a>
 - t-001
   global_id: t-78940
-  teiginys: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
+  teiginys: "1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu."
   pagrindžia:
-    - c-001
+    - c-76041
 
 <a id="claim-t-78941"></a>
 - t-002
   global_id: t-78941
-  teiginys: 'Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.'
+  teiginys: "Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą."
   pagrindžia:
-    - c-001
+    - c-76041
 - susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
 ## Reikšmingi paminėjimai
 
@@ -54,11 +66,35 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
     pajėgos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-76041
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1655 m.
+
+    Smolenske caras Alekse-
+    jus Michailovičius jį pa-
+    skelbė vyriausiuoju vadu.
+    Šklovo mūšyje taip pat dalyvavo ir kuni-
+    gaikščio Jurijaus Boratinskio vadovaujamos
+    pajėgos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78940
+    - t-78941
 
 ## Ryšiai
 - Aleksejus Michailovičius buvo valdovas [[objektai/vietos/Rusija]]

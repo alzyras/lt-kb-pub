@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tauragnai
 
@@ -25,16 +37,16 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 <a id="claim-t-42181"></a>
 - t-001
   global_id: t-42181
-  teiginys: '1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.'
+  teiginys: "1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus."
   pagrindžia:
-    - c-001
+    - c-45353
 
 <a id="claim-t-42182"></a>
 - t-002
   global_id: t-42182
-  teiginys: 'Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.'
+  teiginys: "Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną."
   pagrindžia:
-    - c-002
+    - c-45354
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš Butrimonys: Iki liepos pabaigos lenkai užgrobė Butrimonis, Merkinę, Daugus, Stakliškes, Aukštadvarį, Vievį, Kernavę, Molėtus, Tauragnus, Dūkštą ir kitas vietoves.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.
@@ -75,6 +87,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     Tauragnai, birželio 4 d. Paberžė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,12 +107,52 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
     kolonos dalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-45353
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Karin. K. Ladyga su lie-
+    tuvių kariais toliau persekiojo bolševi-
+    kus. Birželio 3 d. buvo užimti Daugailiai,
+    Tauragnai, birželio 4 d. Paberžė.
+  citata_rodoma: "Birželio 3 d. buvo užimti Daugailiai,\nTauragnai, birželio 4 d. Paberžė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42181
+
+- id: c-45354
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    K. Ladyga birželio 2 d.
+    su raitininkais slinko paskui atsi-
+    traukiantį priešą į rytus. Dalį raiti-
+    ninkų pasiuntęs Tauragnų kryptimi,
+    su likusiais vyko į Uteną.
+
+    Ten jis rado jau prieš pusvalandį
+    Uteną pasiekusias Zechau ir Musteikio
+    kolonos dalis.
+  citata_rodoma: "Dalį raiti-\nninkų pasiuntęs Tauragnų kryptimi,\nsu likusiais vyko į Uteną.\n\nTen jis rado jau prieš pusvalandį\nUteną pasiekusias Zechau ir Musteikio\nkolonos dalis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42182
+
 ## Ryšiai
 - Užėmė Tauragnai: [[objektai/grupes/Lenkai]]
-- Buvo siuntimo vieta: [[objektai/asmenys/K. Ladyga]]
-- Tauragnai priklausė [[objektai/vietos/Vilniaus katedra]]

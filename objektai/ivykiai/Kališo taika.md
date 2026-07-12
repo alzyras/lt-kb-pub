@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kališo taika
 
@@ -35,10 +47,9 @@ Nenurodyta
 <a id="claim-t-100053"></a>
 - t-001
   global_id: t-100053
-  teiginys: '85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr.'
+  teiginys: "85 Kališas 217 ; Kališo taika 232, 330 Kalita 371, žr."
   pagrindžia:
-    - c-001
-
+    - c-93980
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,7 +78,44 @@ Nenurodyta
     Kalūga 21, 159, 313, 371**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-93980
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jurgis, Danieliaus sūnus 241
+    Jurgis Karijotaitis 262, 268
+    Jurgis, Lengvenio sūnus 341
+    Jurgis Sviatoslovaitis 312, 313,
+    319, 320
+    Jurgis, Vytauto D. sūnus 308
+    Jusaitis A. 71
+    Juška A. 26, 75, 153, 190, 208
+    Kadlubekas V. 119
+    Kämpfer F. 29
+    Kairėnai 76, 106
+    Kala, bajoras 368**
+    **_Kalba ir Senovė_** **108
+    Kalifornijos univ. Los Angeles 72
+    Kalinka W. 85
+    Kališas 217 ; Kališo taika 232, 330
+    Kalita 371, žr. Jonas Kalita
+    Kalka, upė 318
+    Kalno (Gedimino) pilis 306
+    Kaltinėnai 306, 352
+    Kalūga 21, 159, 313, 371**
+  citata_rodoma: "Los Angeles 72\nKalinka W. 85\nKališas 217 ; Kališo taika 232, 330\nKalita 371, žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-100053

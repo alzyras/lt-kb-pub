@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naujasis Kaunas
 
@@ -27,24 +39,23 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
 <a id="claim-t-79876"></a>
 - t-001
   global_id: t-79876
-  teiginys: 'Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą.'
+  teiginys: "Kęstutis Nevėžio žiočių Vyrgalės saloje statydino Naujojo Kauno pilį, siekdamas atkurti Nemuno, Neries ir Nevėžio žiočių ruožo gynybą."
   pagrindžia:
-    - c-001
+    - c-76795
 
 <a id="claim-t-79877"></a>
 - t-002
   global_id: t-79877
-  teiginys: 'Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože.'
+  teiginys: "Kęstutis statydino Naujojo Kauno pilį Nevėžio žiočių Vyrgalės saloje, siekdamas atkurti gynybą Nemuno, Neries ir Nevėžio žiočių ruože."
   pagrindžia:
-    - c-001
+    - c-76795
 
 <a id="claim-t-79878"></a>
 - t-003
   global_id: t-79878
-  teiginys: '1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies.'
+  teiginys: "1363 m. balandį Ordino magistras su kariuomene atplaukė Nemunu ir atėjo prie pradėtos atstatinėti Naujojo Kauno pilies."
   pagrindžia:
-    - c-002
-
+    - c-76796
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,6 +95,7 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     tus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,10 +119,80 @@ Siekdamas atkurti gynybą NemunoNeries-Nevėžio žiočių ruože, Kęstutis sta
     Pieštvės ir Veliuonos pilis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-76795
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kareiviai, pamatę, kad mūras sugriuvo,
+
+    Nuo pagoniškosios
+    imperijos
+
+    Vytauto
+
+    ## Puslapis 44
+
+    2=
+    al
+    m
+    <
+    -
+    |
+    v
+    m
+    a
+    =
+
+    Po mūšio
+
+    Situacija Kauno regione bei visoje
+    Lietuvoje ir toliau buvo labai sudėtinga.
+    Siekdamas atkurti gynybą Nemuno-
+    Neries-Nevėžio žiočių ruože, Kęstutis
+    statydino pilį Nevėžio žiočių Vyrgalės sa-
+    loje - Naująjį Kauną ir „tiltą per Nemuną“
+    (greičiausiai per Nemuno senvagę į salą).
+    Tiltas galuose turėjo du gynybinius bokš-
+    tus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79876
+    - t-79877
+
+- id: c-76796
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sužinoję apie Naujojo Kauno statybą,
+    Ordino magistras su kariuomene 1363 m.
+    balandį atplaukė Nemunu, priplaukęs
+    Trapénus (žemiau Nevėžio žiočių), paliko
+    laivus, juos apkasęs gynybiniu pylimu, ir
+    atėjo prie Naujojo Kauno pilies, „pradėtos
+    atstatinėti neįtikėtinomis pastangomis“.
+    Kryžiuočiams pavyko paimti ir sunai-
+    kinti pilį bei tiltą su gynybiniais bokštais.
+    Plaukdami atgal, kryžiuočiai sunaikino
+    Pieštvės ir Veliuonos pilis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79878
 
 ## Ryšiai
 - Buvo pastatyta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

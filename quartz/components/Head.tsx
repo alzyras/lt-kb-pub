@@ -12,13 +12,19 @@ export default (() => {
     externalResources,
     ctx,
   }: QuartzComponentProps) => {
-    const titleSuffix = cfg.pageTitleSuffix ?? ""
-    const title =
-      (fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title) + titleSuffix
+    const titleBase = String(
+      fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title,
+    ).trim()
+    const siteTitle = String(cfg.pageTitle ?? "").trim()
+    const titleSuffix = titleBase === siteTitle ? "" : cfg.pageTitleSuffix ?? ""
+    const title = titleBase + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
       fileData.frontmatter?.description ??
       unescapeHTML(fileData.description?.trim() ?? i18n(cfg.locale).propertyDefaults.description)
+    const mediaPrimaryThumb =
+      String(fileData.frontmatter?.media_primary_thumb_url ?? "").trim() ||
+      String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
 
     const { css, js, additionalHead } = externalResources
 
@@ -37,6 +43,7 @@ export default (() => {
       (e) => e.name === CustomOgImagesEmitterName,
     )
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image-ldk-map.jpg`
+    const ogImagePath = mediaPrimaryThumb || ogImageDefaultPath
 
     return (
       <head>
@@ -67,12 +74,12 @@ export default (() => {
 
         {!usesCustomOgImage && (
           <>
-            <meta property="og:image" content={ogImageDefaultPath} />
-            <meta property="og:image:url" content={ogImageDefaultPath} />
-            <meta name="twitter:image" content={ogImageDefaultPath} />
-            <meta property="og:image:width" content="1200" />
-            <meta property="og:image:height" content="675" />
-            <meta property="og:image:type" content="image/jpeg" />
+            <meta property="og:image" content={ogImagePath} />
+            <meta property="og:image:url" content={ogImagePath} />
+            <meta name="twitter:image" content={ogImagePath} />
+            {!mediaPrimaryThumb && <meta property="og:image:width" content="1200" />}
+            {!mediaPrimaryThumb && <meta property="og:image:height" content="675" />}
+            {!mediaPrimaryThumb && <meta property="og:image:type" content="image/jpeg" />}
           </>
         )}
 

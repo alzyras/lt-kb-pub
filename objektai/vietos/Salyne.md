@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Salyne
 
@@ -25,9 +37,9 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
 <a id="claim-t-42118"></a>
 - t-001
   global_id: t-42118
-  teiginys: '1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio.'
+  teiginys: "1398 m. spalio 12 d. Salyne Vytauto ir didžiojo magistro Konrado delegacijos patvirtino kryžiuočiams užleistą Žemaitiją iki Nevėžio ir Sūduvą iki Šešupės aukštupio."
   pagrindžia:
-    - c-001
+    - c-45318
 - susijęs iš [[objektai/ivykiai/Derybos Salyne su Vokiečių ordinu.md#claim-t-26373|Derybos Salyne su Vokiečių ordinu]]: 1413 m. sausio 28 d. Salyne Vytautas atmetė Vokiečių ordino pretenzijas į Žemaitiją istoriniais ir etniniais argumentais.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-12412|Salyno sutartis]]: Salyne Vytautas elgėsi kaip aukščiausiasis Lietuvos ir Rusijos kunigaikštis, atidavė Ordinui visą Žemaitiją ir nutraukė ryšius su Karūna.
 - susijęs iš [[objektai/ivykiai/Salyno sutartis.md#claim-t-66871|Salyno sutartis]]: 1398 m. balandžio 23 d. Gardine buvo surašyta preliminarinė taika, o spalio 12 d. Salyne Vytautas ir Konradas Jungingenas galutinai patvirtino sutartį.
@@ -60,7 +72,35 @@ Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magist
     rytuose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45318
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Siekdamas didelių planų pietryčiuose, va-
+    karuose Vytautas turėjo bet kokiu būdu
+    bent laikinai izoliuoti kryžiuočius. Tad
+    1398 m. balandžio 23 d. su Ordinu buvo
+    sudaryta preliminari taika, o spalio 12 d.
+    Nemuno saloje „Salyne“ (kiek žemiau
+    Kulautuvos) Vytauto ir didžiojo magistro
+    Konrado delegacijų susitikime buvo pa-
+    tvirtinta kryžiuočiams užleista Žemaitija
+    iki Nevėžio ir Sūduva iki Šešupės aukštu-
+    pio. Kryžiuočiai turėjo remti LDK veiksmus
+    rytuose.
+  citata_rodoma: "Nemuno saloje „Salyne“ (kiek žemiau\nKulautuvos) Vytauto ir didžiojo magistro\nKonrado delegacijų susitikime buvo pa-\ntvirtinta kryžiuočiams užleista Žemaitija\niki Nevėžio ir Sūduva iki Šešupės aukštu-\npio. Kryžiuočiai turėjo remti LDK veiksmus\nrytuose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42118

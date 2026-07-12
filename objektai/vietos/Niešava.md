@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Niešava
 
@@ -29,16 +41,16 @@ amziai:
 <a id="claim-t-68823"></a>
 - t-001
   global_id: t-68823
-  teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
+  teiginys: "Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį."
   pagrindžia:
-    - c-002
+    - c-68309
 
 <a id="claim-t-68824"></a>
 - t-002
   global_id: t-68824
-  teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
+  teiginys: "1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito."
   pagrindžia:
-    - c-001
+    - c-37604
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66698|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: Melno taika sutarta siena išsilaikė penkis šimtmečius, Lietuvai atiteko žymi dalis Žemaičių ir Sūduvos dykros, o Lenkijai Niešavos kraštas.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35870|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: 1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.
 - susijęs iš [[objektai/ivykiai/Niešavo prekybos sutartis („über transitus“) (1424 m.).md#claim-t-35871|Niešavo prekybos sutartis („über transitus“) (1424 m.)]]: Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.
@@ -68,6 +80,7 @@ amziai:
     čiau išvardintuose kraštuose^4 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,10 +100,58 @@ amziai:
     kiltimis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37604
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tiktai po Melno taikos, prasidėjus geriems Vytauto
+    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
+    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
+    tuvos pirklius. 1424 metais buvo dar padaryta prekybos sutar­
+    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ).
+  citata_rodoma: "1424 metais buvo dar padaryta prekybos sutar­\ntis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“\n(laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,\nMaskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­\nčių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­\nčiau išvardintuose kraštuose^4 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68824
+
+- id: c-68309
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    1230 m. pirmieji ordino atstovai jau buvo Prūsų pasieny.
+    Čia jie gavo iš Konrado
+    žemių su Niešavos pi-
+    laite, o patys pasista-
+    tė Fogelzango pilį. Ne-
+    trukus iš tų pirmųjų
+    savo sodybų jie pradėjo
+    nuolatinį karą su aisčių
+    kiltimis.
+  citata_rodoma: "Čia jie gavo iš Konrado\nžemių su Niešavos pi-\nlaite, o patys pasista-\ntė Fogelzango pilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68823
 
 ## Ryšiai
 - Niešava priklausė [[objektai/vietos/Lenkija]]

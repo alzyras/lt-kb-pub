@@ -16,6 +16,18 @@ tags:
   - sukilimas
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Čia nebus Lenkijos“
 
@@ -28,9 +40,16 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
 <a id="claim-t-75626"></a>
 - t-001
   global_id: t-75626
-  teiginys: 'Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.'
+  teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
   pagrindžia:
-    - c-002
+    - c-73346
+
+<a id="claim-t-75627"></a>
+- t-002
+  global_id: t-75627
+  teiginys: "Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“."
+  pagrindžia:
+    - c-73345
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
 - susijęs iš [[objektai/paprociai/Carinės „lenkų pradų naikinimo“ rusinimo praktikos.md#claim-t-67064|Carinės „lenkų pradų naikinimo“ rusinimo praktikos]]: Po sukilimo buvusiose LDK žemėse caro valdžia ėmėsi „lenkų pradų naikinimo“ politikos.
@@ -63,7 +82,8 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     Maskva dėl rusų žemių suvienijimo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -85,7 +105,56 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
     dą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-73345
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    106
+    Caro valdžia: „Čia nebus Lenkijos“
+    Po sukilimo Lenkijos karalystė neteko politinės autonomi-
+    jos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadi-
+    no „lenkų pradų naikinimo“ politika. Šios politikos ideologiniu pagrindu
+    tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
+    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
+    dą. Atseit LDK iki jos pagoniškosios dalies katalikiško krikšto ir Krėvos
+    unijos su Lenkija buvo viena iš stipriausių rusų valstybių, konkuravusi su
+    Maskva dėl rusų žemių suvienijimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75627
+
+- id: c-73346
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Rudenį, traukdamasi į Lenkijos gilumą, ji susirgo ir mirė.
+
+    L I E T U V O S  I S T O R I J A
+    106
+    Caro valdžia: „Čia nebus Lenkijos“
+    Po sukilimo Lenkijos karalystė neteko politinės autonomi-
+    jos, o buvusiose LDK žemėse caro valdžia griebėsi politikos, kurią pavadi-
+    no „lenkų pradų naikinimo“ politika. Šios politikos ideologiniu pagrindu
+    tapo nuo Ivano Rūsčiojo laikų žinoma nuostata pretenduoti į LDK žemes,
+    kaip Rusijai neva „istorinio pirmumo“ principu turintį priklausyti pavel-
+    dą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75626

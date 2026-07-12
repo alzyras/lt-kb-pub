@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Slonimas
 
@@ -28,9 +40,9 @@ amziai:
 <a id="claim-t-86105"></a>
 - t-001
   global_id: t-86105
-  teiginys: 'Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą.'
+  teiginys: "Slonimas 1272 m. smarkiai pasipriešino Haličo kunigaikščiams ir Nogajaus mongolams, puolusiems Lietuvą."
   pagrindžia:
-    - c-001
+    - c-82084
 - susijęs iš [[objektai/grupes/Haličo kunigaikščiai.md#claim-t-80832|Haličo kunigaikščiai]]: 1272 m. Haličo kunigaikščiai kartu su Nogajaus mongolais puolė Lietuvą, o Slonimas jiems smarkiai pasipriešino.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jurgėvičius.md#claim-t-87616|Aleksandras Jurgėvičius]]: Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.
@@ -68,7 +80,35 @@ amziai:
     savo tvirtovėmis ir prekyba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82084
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    T. 1, p. 554.
+    8
+
+    ## Puslapis 25
+
+    ĮVADAS
+    denio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų;
+    Slonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino
+    1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu
+    su Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­
+    tas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs
+    savo tvirtovėmis ir prekyba.
+  citata_rodoma: "554.\n8\n\n## Puslapis 25\n\nĮVADAS\ndenio įkurtas gynybai nuo Prūsijos Teutonų ordino puolimų; \nSlonimas, gyvenamas tų pačių išeivių, smarkiai pasipriešino \n1272 metais Lietuvą puolusiems Haličo kunigaikščiams kartu \nsu Nogajaus mongolais. Dar Kaunas, gilios senovės laikais įkur­\ntas, vartai į pagoniškąją Lietuvą, jau buvo miestas, pagarsėjęs \nsavo tvirtovėmis ir prekyba."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86105

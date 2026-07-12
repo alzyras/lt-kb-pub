@@ -4,6 +4,7 @@ pavadinimas: 'Albertas'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1202 m.'
   - '1236 m.'
@@ -20,6 +21,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Albertas
 
@@ -32,23 +45,30 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 <a id="claim-t-78932"></a>
 - t-001
   global_id: t-78932
-  teiginys: 'Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.'
+  teiginys: "Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį."
   pagrindžia:
-    - c-003
+    - c-76034
 
 <a id="claim-t-78933"></a>
 - t-002
   global_id: t-78933
-  teiginys: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
+  teiginys: "Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas."
   pagrindžia:
-    - c-002
+    - c-76033
 
 <a id="claim-t-78934"></a>
 - t-003
   global_id: t-78934
-  teiginys: 'Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius.'
+  teiginys: "Vyskupas Albertas 1202 m. savo vyskupijoje įkūrė ordiną, kurį 1204 m. patvirtino popiežius."
   pagrindžia:
-    - c-001
+    - c-76031
+
+<a id="claim-t-190837"></a>
+- t-004
+  global_id: t-190837
+  teiginys: "Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė."
+  pagrindžia:
+    - c-173719
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
 - susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
@@ -87,6 +107,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
 - susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
 - susijęs iš Mozūrai: Kryžeiviams išvykus, prūsai nusiaubdavo Kulmą, Mozūrus ir aplinkinius krikščioniškuosius kraštus.
 - susijęs iš Padauguvis: Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.
+- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -102,6 +123,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     jam suteikė templininkų įstatus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,6 +141,7 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     jos vokiečių valstybės valdovas buvo jis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -151,7 +174,130 @@ Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vyskupijoje. Rygos 
     jiems Kulmo žemę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-004
+  santrauka: 'Narbutas Albertą vadina Prūsijos ir Livonijos arkivyskupu, kurio kivirčą su kryžiuočiais sprendė popiežiaus bulė.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Si
+    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
+    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
+    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
+    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
+    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
+    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
+    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
+    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
+    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
+    (Lenkijos) vyskupijose.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-76031
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Palestinoje,
+    einant kryžiaus karams su turkais, krikščionims apsaugoti
+    ir kariauti buvo įsteigti net keli riterių vienuolių ordinai
+    (templininkų, joanitų ir vokiečių, arba kryžiuočių, ordinas).
+    Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-
+    pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir
+    jam suteikė templininkų įstatus.
+  citata_rodoma: "Vyskupas Albertas sumanė panašų ordiną įsteigti ir savo vysku-\n  pijoje. Jo 1202 m. įkurtą ordiną 1204 m. popiežius patvirtino ir\n  jam suteikė templininkų įstatus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78934
+
+- id: c-76033
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vyskupui
+    tuo būdu liko valdyti^2 /з krašto. Taip buvo pasidalytas jau už-
+    imtas kraštas, taip buvo sutarta dalytis ir visa, kas dar bus nu-
+    kariauta.
+    Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-
+    jos vokiečių valstybės valdovas buvo jis.
+  citata_rodoma: "Kol buvo gyvas vysk. Albertas († 1229 m.), Livonijoje nau-\n  jos vokiečių valstybės valdovas buvo jis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78933
+
+- id: c-76034
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Jersikos karalius
+
+    2 Dauguva
+    Žiemgaliai ;
+    Sėliai
+    X Saulė (Šiauliai) 1236 m.
+
+    Nes Lietuviai
+
+    Vilnius
+
+    0
+
+    Jotvingiai aw MI Visvaldis buvo nugalėtas
+    NY Rygos vyskupo Alberto.
+    Teutonų ordiną padėti kar- Europos rytuose didelius
+
+    jauti su prūsais 1226-1228 m.
+    pakvietė Mozūrijos kunigaikš-
+    tis Konradas ir padovanojo
+    jiems Kulmo žemę.
+  citata_rodoma: "Jersikos karalius\n\n2 Dauguva\nŽiemgaliai ;\nSėliai\nX Saulė (Šiauliai) 1236 m.\n\nNes Lietuviai\n\nVilnius\n\n0\n\nJotvingiai aw MI Visvaldis buvo nugalėtas\nNY Rygos vyskupo Alberto.\nTeutonų ordiną padėti kar- Europos rytuose didelius\n\njauti su prūsais 1226-1228 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78932
+
+- id: c-173719
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 126."
+  citata_originali: |
+    Si
+    vyskupija turėjo apimti Rusią, plytinčią kairiojoje Pele­
+    sos pakrantėje ir Gardino link, kur dominikonai jau nuo
+    seno turėjo savo misijas, o Rytų apeigų krikščioniškasis
+    tikėjimas buvo gana paplitęs. To įrodymų matome popie­
+    žiaus bulėje1, išleistoje dėl Prūsijos ir Livonijos arkivys­
+    kupo Alberto kivirčo su kryžiuočiais ir sutaikančioje abi
+    šalis. Be kitų dalykų, joje apibrėžta arkivyskupo jurisdik­
+    cija Eželio, Dorpato, Virlando (Reveiio), Kuršo, Ruimo,
+    Varmės, Parnedės, Sembos, Rusios (Gardino), Varšuvos
+    (Lenkijos) vyskupijose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190837

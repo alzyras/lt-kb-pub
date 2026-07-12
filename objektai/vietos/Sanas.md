@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sanas
 
@@ -19,16 +31,16 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
 <a id="claim-t-187323"></a>
 - t-001
   global_id: t-187323
-  teiginys: 'Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto.'
+  teiginys: "Sanas apibūdinamas kaip į Vislą iš dešinės įtekanti upė, esanti apie 15 km aukščiau Zavichosto."
   pagrindžia:
-    - c-001
+    - c-170354
 
 <a id="claim-t-187324"></a>
 - t-002
   global_id: t-187324
-  teiginys: 'Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe.'
+  teiginys: "Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe."
   pagrindžia:
-    - c-001
+    - c-170354
 - susijęs iš [[objektai/ivykiai/1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto.md#claim-t-186706|1376 m. lietuvių žygis į pietų Lenkiją prie Zavichosto]]: Šio leidimo komentare pažymima, kad BK pasakojimas apie Zavichosto užėmimą ir nusiaubimą kituose šaltiniuose nėra paliudytas.
 - susijęs iš [[objektai/paprociai/Kolonistų vadovavimasis Rygos miesto civiline teise.md#claim-t-87244|Kolonistų vadovavimasis Rygos miesto civiline teise]]: Gediminas laiške pranešė, kad į Vilnių atvykę kolonistai galės vadovautis Rygos miesto civiline teise, kol bus sukurti geresni įstatymai.
 - susijęs iš [[objektai/posakiai/Jure civili utantur Rigensis Civitatis.md#claim-t-55176|Jure civili utantur Rigensis Civitatis]]: Gedimino laiške į Vilnių atvykstantiems kolonistams žadėta vadovautis Rygos miesto civiline teise.
@@ -59,8 +71,34 @@ Lenkų šaltiniuose lietuvių persikėlimas siejamas su Sano upe. Sanas apibūdi
     tovių dešiniajame Vislos krante.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-170354
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 232"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 232."
+  citata_originali: |
+    2 d. mini Jonas iš Carnkovo (Monumentą Polonlae
+    Historica. t. II, p. 674—675) ir pagal j| J. Dlugošas (Dziejėvr pols-
+    kich ksiąg dwanascie. t. Ill, Krakow, 1868, p. 342). J. Dlugošas
+    tarp  lietuvių kunigaikščių mini ir Jogailą su Vytautu.
+    s Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­
+    kėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės,
+    apie 15 km aukščiau Zavichosto, taip pat apie nuniokojimą vie­
+    tovių dešiniajame Vislos krante.
+  citata_rodoma: "Lenkų šaltiniuose (žr. past. 4) kalbama apie lietuvių persi­\nkėlimą ne per Vistą, o per Sano upę, kuri (teka j Vislą iš dešinės, \napie 15 km aukščiau Zavichosto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187324
+    - t-187323

@@ -15,6 +15,18 @@ amziai:
   - 'XXI'
 periodo_grupes:
   - 'šiuolaikinė Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Irena Katilienė
 
@@ -27,9 +39,9 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
 <a id="claim-t-55007"></a>
 - t-001
   global_id: t-55007
-  teiginys: 'Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių.'
+  teiginys: "Irena Katilienė buvo viena iš 2007 m. lietuviško „Vilniaus miesto istorijos“ vertimo autorių."
   pagrindžia:
-    - c-001
+    - c-55571
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182791|Michał Baliński Mykolas Balinskis]]: Mykolo Balinskio „Vilniaus miesto istorijos“ 2007 m. leidimą iš lenkų kalbos vertė Ona Slavėnaitė ir Irena Katilienė.
 - susijęs iš [[objektai/autoriai/Romas Dubonis.md#claim-t-55021|Romas Dubonis]]: Romas Dubonis buvo 2007 m. „Vilniaus miesto istorijos“ leidimo meninis redaktorius.
 - susijęs iš [[objektai/autoriai/Romas Dubonis.md#claim-t-81963|Romas Dubonis]]: Romas Dubonis buvo 2007 m. išleistos Mykolo Balinskio knygos „Vilniaus miesto istorija“ meninis redaktorius.
@@ -71,7 +83,48 @@ Irena Katilienė nurodyta kaip viena iš „Vilniaus miesto istorijos“ vertėj
     © Romas Dubonis, apipavidalinimas,
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55571
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    UDK 947.45
+    Ba237
+    Versta iš
+    Michała Balińskiego
+    History a Miasta Wilna
+    Wilno. Drukiem
+    Antoniego Marcinowskiego,
+    1836-1837
+    Knygos leidimą parėmė
+    Lietuvos Respublikos
+    kultūros ministerija
+    Knyga išleista
+    Lietuvos tūkstantmečio
+    minėjimo direkcijai
+    parėmus
+    Redaktorė
+    Skirmantė Ramanauskaitė
+    Knygos dailininkas
+    Romas Dubonis
+    ISBN 978-5-417-00907-5 © Vertimas į lietuvių kalbą,
+    Ona Slavėnaitė, 2007
+    © Vertimas į lietuvių kalbą,
+    Irena Katilienė, 2007
+    © Vertimas į lietuvių kalbą,
+    Jūratė Dalia Baronienė, 2007
+    © Romas Dubonis, apipavidalinimas,
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55007

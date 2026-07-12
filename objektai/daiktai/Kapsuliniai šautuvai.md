@@ -18,6 +18,18 @@ tags:
   - mūšis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kapsuliniai šautuvai
 
@@ -50,10 +62,9 @@ Nenurodyta
 <a id="claim-t-40722"></a>
 - t-001
   global_id: t-40722
-  teiginys: 'Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais.'
+  teiginys: "Rusų kariai pranoko sukilėlius ginkluote, nes buvo ginkluoti naujo pavyzdžio kapsuliniais šautuvais."
   pagrindžia:
-    - c-001
-
+    - c-44659
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,10 +79,30 @@ Nenurodyta
     titnaginius arba medžioklinius šautuvus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Kapsuliniai šautuvai priklausė [[objektai/grupes/Rusai]]
+## Citatos
+
+- id: c-44659
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    I. Ganeckio rinktinę, tačiau rusų
+    kariai pranoko sukilėlius ginkluote, nes
+    buvo ginkluoti naujo pavyzdžio kapsuli-
+    niais šautuvais. Be to, rusai turėjo didelį
+    neseniai pasibaigusio Krymo karo paty-
+    rimą. Daugelis sukilėlių turėjo tik senus
+    titnaginius arba medžioklinius šautuvus.
+  citata_rodoma: "Ganeckio rinktinę, tačiau rusų\nkariai pranoko sukilėlius ginkluote, nes\nbuvo ginkluoti naujo pavyzdžio kapsuli-\nniais šautuvais. Be to, rusai turėjo didelį\nneseniai pasibaigusio Krymo karo paty-\nrimą. Daugelis sukilėlių turėjo tik senus\ntitnaginius arba medžioklinius šautuvus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40722

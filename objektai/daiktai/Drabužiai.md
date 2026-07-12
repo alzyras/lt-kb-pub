@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Drabužiai
 
@@ -39,9 +51,9 @@ Nenurodyta
 <a id="claim-t-71558"></a>
 - t-001
   global_id: t-71558
-  teiginys: 'Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems.'
+  teiginys: "Prūsų kryžiuočiai padovanojo daug drabužių Žemaičių galingiesiems."
   pagrindžia:
-    - c-001
+    - c-70118
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59931|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.
 - susijęs iš [[objektai/asmenys/Nodamas.md#claim-t-60395|Nodamas]]: Lietuvis Nodamas, mokėjęs lenkų kalbą, apsirengė moteriškais drabužiais ir atsisėdo Nemuno pakrantėje, siekdamas apgauti brolius.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184864|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Ona įspėjo Vytautą apie gresiančią mirtį ir patarė jam pabėgti apsirengus merginos drabužiais.
@@ -114,8 +126,6 @@ Nenurodyta
 - susijęs iš Lietuva: Narbutas rašė, kad Lietuvoje pilkapiai randami labai retai, dažnai giliai po žeme ir dažniausiai atsitiktinai kasant.
 - susijęs iš Lvovas: Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.
 - susijęs iš Tikocinas: Tikocine pas Zaleskį buvę bažnytiniai reikmenys turėjo būti perduoti Vilniaus Šv. Onos bažnyčiai.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 - susijęs iš [[objektai/zodynas/akcijos.md#claim-t-70076|akcijos]]: Akcijose prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armijos dalinius, ukrainiečių, latvių policijos batalionus.
 - susijęs iš [[objektai/zodynas/atskalūnybė atskalūnai.md#claim-t-58807|atskalūnybė atskalūnai]]: Kai prūsai buvo įtariami atskalūnybe, Notangos ir Varmės fogtas Volradas vakarieniavo su kilmingaisiais Lencenbergo pilyje.
 - susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185381|budeliai]]: Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.
@@ -123,6 +133,7 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70229|maldininkai / maldininko įžadai]]: Brolis Gerlachas Rudasis pranešė, kad Livonijoje kovoje žuvo magistras Folkvinas, daug brolių, maldininkų ir kitų žmonių.
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70246|netikėliai]]: Pirmieji Ordino broliai vaizduojami kaip pasirengę ginti tikėjimą kare su netikėliais.
 - susijęs iš [[objektai/zodynas/netikėliai.md#claim-t-70247|netikėliai]]: Dusburgietis Ordino brolius vaizduoja kaip pasirengusius ginti tikėjimą kare su `netikėliais`.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -136,6 +147,7 @@ Nenurodyta
     lystės ir iš savo pašaknų visus išrausią.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,5 +155,24 @@ Nenurodyta
     - t-001
     - t-001
 
-## Ryšiai
-- Drabužiai priklausė [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]]
+## Citatos
+
+- id: c-70118
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    ... slaptai sužinojome ..., kad broliai Prū­
+    sijos kryžiuočiai padovanojo daug drabužių ir gėrybių Žemaičių
+    galingiesiems su ta sąlyga, kad jie sukiltų prieš karalių, sakydami,
+    jei jis priims tikėjimą, jie išnaikinsią jį, jo sūnus ir visus jo šali­
+    ninkus ir išvysią drauge su teutonų ordino broliais iš savo kara­
+    lystės ir iš savo pašaknų visus išrausią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71558
+    - t-71558
+    - t-71558

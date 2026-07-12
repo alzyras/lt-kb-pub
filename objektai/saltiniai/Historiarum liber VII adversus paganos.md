@@ -15,6 +15,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Historiarum liber VII adversus paganos
 
@@ -36,24 +48,23 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
 <a id="claim-t-36049"></a>
 - t-001
   global_id: t-36049
-  teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas.'
+  teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos jūros pakraščių tautas."
   pagrindžia:
-    - c-002
+    - c-38409
 
 <a id="claim-t-36050"></a>
 - t-002
   global_id: t-36050
-  teiginys: '„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga.'
+  teiginys: "„Historiarum liber VII adversus paganos“ šiame veikale minima kaip Orosijaus knyga."
   pagrindžia:
-    - c-002
+    - c-38409
 
 <a id="claim-t-36051"></a>
 - t-003
   global_id: t-36051
-  teiginys: 'Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius.'
+  teiginys: "Alfredas Didysis, versdamas Orosijaus „Historiarum liber VII adversus paganos“, pridėjo žinių apie Baltijos pakraščių tautas ir aisčius."
   pagrindžia:
-    - c-001
-
+    - c-38408
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,7 +83,8 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     lankęsis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -92,8 +104,61 @@ Veikalas minimas kaip Orosijaus knyga, kurią versdamas Anglų karalius Alfredas
     kraščių tautas, tarp kitko ir apie aisčius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-38408
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    IV amž. tuose pat kraštuose aisčius
+    gyvenus mini gotų istorikas Jornandis^2 ), o iš V a. yra žino­
+    mas ostgotų karaliaus Teodoriko D. aisčiams rašytas laiškas,
+    kurį mums paliko Teodoriko sekretorius Cassiodorus^3 ). Be
+    daug kitų autorių IX amž. apie aisčius apščiai žinių duoda
+    Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­
+    no Orossiuso knygą „Historiarum liber VII adversus pa­
+    ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
+    kraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako
+    gavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose
+    lankęsis.
+  citata_rodoma: "apie aisčius apščiai žinių duoda\nAnglų karalius Alfredas D. (871—901), kuris versdamas ispa­\nno Orossiuso knygą „Historiarum liber VII adversus pa­\nganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­\nkraščių tautas, tarp kitko ir apie aisčius. Tas žinias jis sako\ngavęs iš kažkokio jūrininko Wulfstano, kuris tuose kraštuose\nlankęsis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36051
+
+- id: c-38409
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pasak jo, čia tada gyvenę „aisčių tau­
+    tos“ (Aestiorum gentes)^1 ). IV amž. tuose pat kraštuose aisčius
+    gyvenus mini gotų istorikas Jornandis^2 ), o iš V a. yra žino­
+    mas ostgotų karaliaus Teodoriko D. aisčiams rašytas laiškas,
+    kurį mums paliko Teodoriko sekretorius Cassiodorus^3 ). Be
+    daug kitų autorių IX amž. apie aisčius apščiai žinių duoda
+    Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­
+    no Orossiuso knygą „Historiarum liber VII adversus pa­
+    ganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­
+    kraščių tautas, tarp kitko ir apie aisčius.
+  citata_rodoma: "Anglų karalius Alfredas D. (871—901), kuris versdamas ispa­\nno Orossiuso knygą „Historiarum liber VII adversus pa­\nganos“ pridėjo joje nesančias žinias apie Baltijos jūrų pa­\nkraščių tautas, tarp kitko ir apie aisčius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36050
+    - t-36049

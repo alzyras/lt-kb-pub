@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # V. J. Mansikka
 
@@ -27,10 +39,9 @@ Mansikka, V.
 <a id="claim-t-31028"></a>
 - t-001
   global_id: t-31028
-  teiginys: 'V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją.'
+  teiginys: "V. J. Mansikka 1922 m. Helsinkyje paskelbė šaltinių tomą apie rytų slavų religiją."
   pagrindžia:
-    - c-001
-
+    - c-33169
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,28 @@ Mansikka, V.
     1951, ir nr. 1, 1952.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33169
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    LP, I, 1, 1940, 319-322 p.). — Mansikka,
+    V. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­
+    lis, A. : _Lietuviškasis kryžius ir jo kilmė,_ Aidai, nr. 2, 1951, 60-70 p.
+    — (”) _Senovės lietuvių tikėjimas,_ Ateitis, nr. 7-9, Brooklyn, N. Y.,
+    1951, ir nr. 1, 1952.
+  citata_rodoma: "— Mansikka,\nV. J. : _Die Religion der Ostslaven,_ I. _Quellen,_ Helsinki, 1922. — Mažiu­\nlis, A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31028

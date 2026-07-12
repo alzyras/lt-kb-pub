@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Druskininkų kapavietė
 
@@ -19,16 +31,15 @@ amziai:
 1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.
 
 ## Teiginiai
+
 <a id="claim-t-188946"></a>
 - t-001
   global_id: t-188946
-  teiginys: '1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.'
+  teiginys: "1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-171835
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: '1841 metais prie Druskininkų tik ką atkastoje kapavietėje rasta moneta, kurios vienoje pusėje buvo pavaizduoti Gediminaičių Stulpai.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -39,8 +50,31 @@ amziai:
     Druskininkų, lauke, kuriame yra daug laidojimų, apie kuriuos
     čia kalbama. Vienoje pusėje pavaizduotas Gedimino šeimos her­
     bas Stulpai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171835
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 252"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 252."
+  citata_originali: |
+    Ar
+    ji yra vietinė ar užsieninė, spręsti palieku žinovams.
+    Moneta, rasta 1841 metais tik ką atkastoje kapavietėje prie
+    Druskininkų, lauke, kuriame yra daug laidojimų, apie kuriuos
+    čia kalbama. Vienoje pusėje pavaizduotas Gedimino šeimos her­
+    bas Stulpai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188946

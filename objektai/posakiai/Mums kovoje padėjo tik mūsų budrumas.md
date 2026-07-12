@@ -14,6 +14,18 @@ tags:
   - posakis
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mums kovoje padėjo tik mūsų budrumas
 
@@ -30,10 +42,9 @@ amziai:
 <a id="claim-t-67276"></a>
 - t-001
   global_id: t-67276
-  teiginys: 'Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio.'
+  teiginys: "Kovoje padėjo budrumas ir geras miško pažinimas, iki kiekvieno kelmo ir krūmelio."
   pagrindžia:
-    - c-001
-
+    - c-43190
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,27 @@ amziai:
     J.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-43190
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mums kovoje padėjo tik mūsų bud-
+    rumas ir tai, kad gerai žinojome mišką -
+    kiekvieną kelmą, kiekvieną krūmelį. Prieš
+    kokią valandą iki mūšio, - toliau prisimena
+    J.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67276

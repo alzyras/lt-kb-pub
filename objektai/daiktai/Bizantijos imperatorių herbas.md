@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bizantijos imperatorių herbas
 
@@ -49,17 +61,16 @@ Nenurodyta
 <a id="claim-t-47802"></a>
 - t-001
   global_id: t-47802
-  teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą.'
+  teiginys: "Jonas III, laikydamas save žlugusios Bizantijos paveldėtoju, pasisavino jos dvigalvį erelį ir imperatoriaus dvaro ceremonialą."
   pagrindžia:
-    - c-001
+    - c-30986
 
 <a id="claim-t-47803"></a>
 - t-002
   global_id: t-47803
-  teiginys: 'Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą.'
+  teiginys: "Jonas III, laikydamas save žlugusios Bizantijos imperijos paveldėtoju, pasisavino jos dvigalvį erelį ir dvaro ceremonialą."
   pagrindžia:
-    - c-001
-
+    - c-30986
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,8 +86,32 @@ Nenurodyta
     mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-30986
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tik Maskvos didžiajam Kunigaikščiui Jonui III, Sofijos Vytau­
+    taitės anūkui (1462-1505), jau nebebuvo baisi eižėjanti Aukso Orda.
+    Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­
+    sisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,
+    Jonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »
+    (Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­
+    mą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11.
+  citata_rodoma: "Jausdamasis žlugusios Bizantijos imperijos paveldėtoju (1453), pa­\nsisavinęs jos dvigalvį erelį ir jos imperatoriaus dvaro ceremonialą,\nJonas III-sis jau savinosi ir caro titulą. O «antrajai Romai »\n(Konstantinopoliui) kritus, Maskva turėjo įkūnyti «trečiąją Ro­\nmą», «o ketvirtosios Romos (iš viso) nebegalėjo būti»^11."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47802
+    - t-47803

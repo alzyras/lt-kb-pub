@@ -14,6 +14,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Acta Baltico-Slavica
 
@@ -26,10 +38,9 @@ amziai:
 <a id="claim-t-03500"></a>
 - t-001
   global_id: t-03500
-  teiginys: '„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus.'
+  teiginys: "„Acta Baltico-Slavica“ yra Balstogės mokslo draugijos nuo 1964 m. leidžiamas žurnalas, iki 1970 m. turėjęs septynis tomus."
   pagrindžia:
-    - c-001
-
+    - c-03538
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,26 @@ amziai:
     Aidai = 1945-49 m.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-03538
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    **ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­
+    gijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.).
+    Aidai = 1945-49 m.
+  citata_rodoma: "ABaSl = Acta Baltico-Slavica, Balstogės (Bialystoko) mokslo drau­\ngijos nuo 1964 m. leidžiamas žurn. (iki 1970 m. 7 t.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03500

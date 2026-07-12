@@ -11,10 +11,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
 amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petras Bartkus-Žadgaila
 
@@ -27,9 +40,9 @@ periodo_grupes:
 <a id="claim-t-39626"></a>
 - t-001
   global_id: t-39626
-  teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.'
+  teiginys: "1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila."
   pagrindžia:
-    - c-001
+    - c-41430
 - susijęs iš [[objektai/ivykiai/Užpelkių kautynės (1949 m.).md#claim-t-10308|Užpelkių kautynės (1949 m.)]]: 1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.
 - susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/asmenys/Juozas Paliūnas-Rytas.md#claim-t-183746|Juozas Paliūnas-Rytas]]: Juozas Paliūnas-Rytas, Maironio rinktinės vadas, tapo Prisikėlimo apygardos vado pavaduotoju.
@@ -53,11 +66,33 @@ periodo_grupes:
     nas ir dar trys neatpažinti partizanai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-41430
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1949 m. rugpjūčio 13 d. Radviliškio r.
+    Užpelkių miške sunaikintas Prisikėlimo
+    apygardos štabas. Žuvo LLKS tarybos pre-
+    zidiumo nariai Petras Bartkus-Žadgaila
+    (Prisikėlimo apygardos vadas) ir Bronius
+    Liesis-Naktis, Prisikėlimo apygardos
+    štabo viršininkas Vytautas Šniuolis-Svajū-
+    nas ir dar trys neatpažinti partizanai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39626
+
 ## Ryšiai
 - Petras Bartkus-Žadgaila mirė [[objektai/vietos/Užpelkiai]]
-- Petras Bartkus-Žadgaila dalyvavo mūšyje [[objektai/ivykiai/Užpelkių kautynės]], [[objektai/ivykiai/Užpelkių kautynės (1949 m.)]]

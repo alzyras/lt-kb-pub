@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto žygis į Medininkus (1392 m. gegužės 20 d.)
 
@@ -41,10 +53,9 @@ Nenurodyta
 <a id="claim-t-34568"></a>
 - t-001
   global_id: t-34568
-  teiginys: 'Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu.'
+  teiginys: "Apie gegužės 20 d. Vytautas įsiveržė į Vilniaus srities Medininkus ir po aštuonių dienų grįžo su dideliu grobiu."
   pagrindžia:
-    - c-001
-
+    - c-35793
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,28 @@ Nenurodyta
     pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-35793
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Keliems mėnesiams praslinkus ir susirinkus į Rittersverderį
+    daug svečių, Vytautas vėl gavo magistro leidimą žygiuoti Lie­
+    tuvon. Jam tada talkininkavo Marquardas v. Salzbachas. Apie
+    gegužės m. 20 d. jis įsiveržė į Vilniaus srities Medininkus ir,
+    pabuvęs ten astuonias dienas, grįžo su dideliu grobiu^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34568

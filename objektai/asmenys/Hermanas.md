@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermanas
 
@@ -20,16 +32,16 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
 <a id="claim-t-40139"></a>
 - t-001
   global_id: t-40139
-  teiginys: 'Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu.'
+  teiginys: "Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu."
   pagrindžia:
-    - c-001
+    - c-44346
 
 <a id="claim-t-183740"></a>
 - t-002
   global_id: t-183740
-  teiginys: 'Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.'
+  teiginys: "Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius."
   pagrindžia:
-    - c-002
+    - c-167128
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60030|Hermanas (Ordino magistras)]]: Magistras brolis Hermanas, padedamas į Torunę atvykusių maldininkų, 1232 m. pastatė Kulmo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
@@ -91,6 +103,7 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     iš mašinos paleistas akmuo nunešė galvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,15 +128,57 @@ Po keturių savaičių apgulties, po daugelio susidūrimų meistras Hermanas vie
     keitė sveikieji.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Puolė Hermaną: [[objektai/grupes/Lietuviai]]
-- Kariavo prieš: [[objektai/grupes/Lietuviai]]
-- Turėjo priklausinį: [[objektai/daiktai/Kryžius]]
-- Hermanas siuntė į [[objektai/vietos/Elbingas]]
-- Hermanas kariavo prieš [[objektai/grupes/Lietuviai]]
-- Hermanas dalyvavo mūšyje [[objektai/ivykiai/Henriko Stangės žygis į Sembą ir Girmavos nuniokojimas]]
+## Citatos
+
+- id: c-44346
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji. Mūšio įkarštyje komtūrui
+    iš mašinos paleistas akmuo nunešė galvą.
+  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40139
+
+- id: c-167128
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau
+    lietuviai sunaikino pilies priešakinius įtvir-
+    tinimus ir užpylė griovius, kryžiuočiai iš
+    papilio buvo priversti trauktis į pačią pilį.
+
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183740

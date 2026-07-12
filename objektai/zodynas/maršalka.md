@@ -10,6 +10,18 @@ tags:
   - ordinas
   - pilis
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # maršalka
 
@@ -22,12 +34,13 @@ tags:
 <a id="claim-t-70234"></a>
 - t-001
   global_id: t-70234
-  teiginys: 'Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m.'
+  teiginys: "Rūdavos mūšyje žuvusiam maršalkai Schindekopui paminklinis kryžius buvo pastatytas tuoj po mūšio ir atnaujintas 1835 m."
   pagrindžia:
-    - c-001
+    - c-69298
 - susijęs iš [[objektai/asmenys/Vaitiekus Narutavičius.md#claim-t-87875|Vaitiekus Narutavičius]]: Vaitiekus Narutavičius 1507 m. Melnike dalyvavo kaip rūmų maršalka ir Josvainių seniūnas.
 - susijęs iš [[objektai/paprociai/Seimo darbų statutas ir instrukcijų saikdinimo draudimas.md#claim-t-02018|Seimo darbų statutas ir instrukcijų saikdinimo draudimas (seimas)]]: Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.
 - susijęs iš Švitrigailos garantinis raštas Mzusui: Švitrigailos dvaro maršalka buvo Mzusas, kuriam išduotas didžiojo kunigaikščio garantinis raštas saugotas Slaptajame archyve.
+- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192022|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: 1836 m. Burokų dvare, priklausiusiame maršalkai Jucevičiui, Bonaventūras Milevskis, ardamas žemę, iškasė figūrą.
 - susijęs iš [[objektai/asmenys/Hansas Tscheizas.md#claim-t-87683|Hansas Tscheizas]]: Švitrigaila prašė garantijų Hansui Tscheizui, jo svainiui Mikalojui Sachsei ir dvariškiams, vykstantiems į Sileziją.
 - susijęs iš [[objektai/asmenys/Juozapas Januškevičius.md#claim-t-190164|Juozapas Januškevičius]]: Simonas Stanevičius Narbutui rašė, kad Švėkšnos klebono kanauninko Juozapo Januškevičiaus sode rastą lobį žinojo visi to krašto gyventojai.
 - susijęs iš [[objektai/asmenys/Jurgis Plioteris.md#claim-t-190167|Jurgis Plioteris]]: Simonas Stanevičius Narbutui rašė, kad Raseinių maršalka Jurgis Plioteris turėjo keletą tokių auksinių monetų.
@@ -60,6 +73,10 @@ tags:
 - susijęs iš [[objektai/zodynas/monopolis privati prekyba.md#claim-t-86487|monopolis privati prekyba]]: Vilniaus vaitas ir burmistrai siekė atšaukti Paleckio monopolio privilegiją, nes ji darė vis didesnę žalą miestui.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70312|rotmistras]]: Usviatų seniūnas ir rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiojo sparno kavalerijai.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70314|rotmistras]]: Rotmistras Jonas Petras Sapiega greičiausiai vadovavo kairiajame sparne išdėstytiems kavalerijos daliniams.
+- susijęs iš [[objektai/ivykiai/Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių.md#claim-t-192021|Karo dievo Kovo statulėlės iškasimas Burokų dvare prie Kražių]]: Narbutas nurodė: 1840 m. rugsėjį Vaitiekus Jučas Platelių dvare gavo karo dievo Kovo statulėlę iš kunigo Kognovickio.
+- susijęs iš [[objektai/zodynas/Plotkai.md#claim-t-195640|Plotkai]]: Plotkus dieną atneša bažnyčios maršalka, o atsiskaitoma už juos kalėdojant.
+- susijęs iš [[objektai/zodynas/Pusbernis.md#claim-t-192328|Pusbernis]]: Narbutas nurodė: Jučo aprašyme pusbernis Bonaventūras Milevskis 1836 m. gegužę Burokų dvare netoli Kražių ardamas žemę iškasė figūrą.
+- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,7 +95,33 @@ tags:
     pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-69298
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Rūdavos mūšio paminklas.
+    Žuvusiam maršalkai Schindekopui pamin-
+    klinis kryžius buvo pastatytas tuojau po
+    mūšio; jam sugriuvus, ant tų pačių pa-
+    matų 1835 m. buvo šis pastatytas. 1870 m.
+    trečią kartą atnaujintas, jis dabar vėl
+    kitaip atrodo.
+    tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
+    padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
+    pajėgdami paimti pilių, jie naikino miestus ir apylinkes.
+  citata_rodoma: "Žuvusiam maršalkai Schindekopui pamin-\nklinis kryžius buvo pastatytas tuojau po\nmūšio; jam sugriuvus, ant tų pačių pa-\nmatų 1835 m. buvo šis pastatytas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70234

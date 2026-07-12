@@ -9,6 +9,18 @@ tags:
   - ivykis
   - miestas
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sūduvių žygis Lubavos sugriovimas, Torunės ligoninės sudeginimas ir Kulmo puolimas
 
@@ -37,17 +49,23 @@ Nenurodyta
 <a id="claim-t-59429"></a>
 - t-001
   global_id: t-59429
-  teiginys: 'Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą.'
+  teiginys: "Sūduviai įsiveržė į Lubavos žemę, sugriovė Lubavos pilį ir miestą, sudegino Torunės ligoninę ir nesėkmingai puolė Kulmą."
   pagrindžia:
-    - c-001
+    - c-60061
 
 <a id="claim-t-59430"></a>
 - t-002
   global_id: t-59430
-  teiginys: 'Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu.'
+  teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
   pagrindžia:
-    - c-002
+    - c-167352
 
+<a id="claim-t-59430"></a>
+- t-003
+  global_id: t-59430
+  teiginys: "Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu."
+  pagrindžia:
+    - c-167352
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,6 +85,7 @@ Nenurodyta
     neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -84,8 +103,55 @@ Nenurodyta
     prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-002
+
+## Citatos
+
+- id: c-60061
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  citata_originali: |
+    Apie Torunės ligoninės sudeginimą, Kulmo miesto užpuolimą ir Lubavos
+                                       pilies bei miesto sugriovimą
+
+      Tuo pat metu sūduviai439 įsibrovė su tokia didele kariuomene, kokios dar niekas nebuvo
+    matęs Prūsijoje, į Lubavos žemę ir visiškai sugriovė to pat vardo pilį bei miestą440. Paskui
+    prie Štraisbergo pilies441 įėjo į Kulmo žemę padaliję savo kariuomenę, paėmė daug pilių,
+    o  į jas bėgančius žmones išžudė ar išsivarė  į nelaisvę. Po to priėjo Torunę ir sudegino
+    ligoninę bei visa kita, kas tik galėjo būti ugnies sunaikinama už sienų. Galop, atžygiavę
+    prie Kulmo miesto, jį smarkiai puolė dieną ir naktį, tačiau nieko nelaimėjo, nes miestiečiai
+    atkakliai gynėsi. Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
+    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59429
+
+- id: c-167352
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 144."
+  citata_originali: |
+    Šitaip siaubę šią žemę keturias dienas, pagaliau pasitraukė su tiesiog
+    neįkainojamu grobiu: žmonėmis, arkliais, gyvuliais  ir kitais daiktais. Vienas sūduvių
+    karys, stiprus vyras, leidosi paskui vieną krikščionę, kuri tuo metu spruko į pelkes; kai
+    jau ketino ją nužudyti, ši, užmiršusi savo lyties trapumą, drąsiai pasipriešino. [Karys],
+    įniršęs dėl tokio jos elgesio, dantimis jai nukando didįjį pirštą, o ji, savo ruožtu įtūžusi,
+    prigrūdo jam į burną bei ausis dumblo ir jį mirtinai užtroškino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183967
+    - t-59430

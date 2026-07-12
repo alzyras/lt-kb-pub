@@ -13,6 +13,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Henrikas fon Plockė
 
@@ -25,24 +37,23 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
 <a id="claim-t-186043"></a>
 - t-001
   global_id: t-186043
-  teiginys: 'Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius.'
+  teiginys: "Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių apsupo lietuvius."
   pagrindžia:
-    - c-001
+    - c-169404
 
 <a id="claim-t-186044"></a>
 - t-002
   global_id: t-186044
-  teiginys: 'Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių.'
+  teiginys: "Prūsijos maršalas Henrikas fon Plockė žiemą pakartotiniais antpuoliais nuniokojo Medininkų valsčių."
   pagrindžia:
-    - c-002
+    - c-169405
 
 <a id="claim-t-186045"></a>
 - t-003
   global_id: t-186045
-  teiginys: 'Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę.'
+  teiginys: "Henrikas fon Plockė ir jo vadovaujami kryžiuočiai miško tankmėje buvo sunaikinti arba pateko į nelaisvę."
   pagrindžia:
-    - c-003
-
+    - c-169406
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,6 +70,7 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     sileido be tvarkos bėgti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,6 +104,7 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     būta baimės nei pavojaus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,11 +128,91 @@ Henrikas fon Plockė vadovavo kryžiuočiams, kurie auštant iš visų pusių ap
     riuomenę, prisiplėšusią grobio, į tėvynę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Henrikas fon Plockė puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Medininkai]]
-- Henrikas fon Plockė kariavo prieš [[objektai/grupes/Lietuviai]]
+## Citatos
+
+- id: c-169404
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 188."
+  citata_originali: |
+    Sitai dėjo­
+    si pavakaryje, o štai jau auštant jie susilaukė pelny­
+    tos bausmės. Vos brėkštant dienai, lietuvius iš visų
+    pusių apsupo kryžiuočiai, vedami Henriko fon Ploc-
+    kės. Kai išblėso pirmojo antpuolio įniršis ir žuvo še­
+    šiasdešimt narsiausių vokiečių, lietuviai nebeįstengė
+    suburti gretų abejotiną sėkmę žadančiai kovai ir pa­
+    sileido be tvarkos bėgti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186043
+
+- id: c-169405
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
+  citata_originali: |
+    Surminas grįžo pas valdovą nugalė­
+    toju, visiems nešdamas džiaugsmą, o pats slėpdamas
+    širdyje liūdesį, nes šioje pergalingoje kovoje jis ne­
+    teko savo brolio Goštauto drauge su kitais narsiais
+    kariais. Šitai dėjosi vasarą, o jau žiemą Henrikas, Prū­
+    sijos maršalas, pakartotiniais antpuoliais nuniokojo Me­
+    dininkų valsčių. Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186044
+
+- id: c-169406
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 196"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 196."
+  citata_originali: |
+    Lietuviai, nujautę, jog priešas šitaip ir
+    elgsis, iš anksto slaptai apstojo miškuose takus, visur
+    prikirtą ir privertę medžių, kad priešas niekur negalėtų
+    pasprukti. Visi kryžiuočiai su vadu Henriku fon Ploc-
+    ke, Prūsijos maršalu, buvo šioje tankmėje arba su­
+    naikinti, arba pakliuvo į nelaisvę. Gediminas, norėda­
+    mas, kad kariuomenė, prisikentusi visokio vargo per
+    karą su kryžiuočiais, atgautų narsą prisiplėšusi naujo
+    grobio, apie rugsėjo vidurį patraukė į Mazoviją ir
+    Dobrynę; jis nusiaubė ir vieną, ir kitą žemę; kadangi
+    niekur nesirodė priešas, parvedė be kovos savo ka­
+    riuomenę, prisiplėšusią grobio, į tėvynę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186045

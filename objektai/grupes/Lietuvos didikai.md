@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos didikai
 
@@ -32,51 +44,51 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
 <a id="claim-t-81459"></a>
 - t-001
   global_id: t-81459
-  teiginys: 'Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą.'
+  teiginys: "Kazimiero valdymo metu dažni Lietuvos didikų suvažiavimai ir pasitarimai Vilniuje didino miesto iškilmingumą."
   pagrindžia:
-    - c-001
+    - c-78080
 
 <a id="claim-t-81460"></a>
 - t-002
   global_id: t-81460
-  teiginys: 'Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai.'
+  teiginys: "Kazimiero valdymo laikotarpiu Vilniuje dažnai vyko Lietuvos didikų suvažiavimai ir pasitarimai."
   pagrindžia:
-    - c-001
+    - c-78080
 
 <a id="claim-t-81461"></a>
 - t-003
   global_id: t-81461
-  teiginys: 'Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline.'
+  teiginys: "Lietuvos didikai po Liublino unijos išlaikė stiprią valstybingumo sąmonę ir nenorėjo sutikti su tuo, kas buvo įvykę Liubline."
   pagrindžia:
-    - c-002
+    - c-78082
 
 <a id="claim-t-184556"></a>
 - t-004
   global_id: t-184556
-  teiginys: 'Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu.'
+  teiginys: "Lietuvos didikai ir bajorai svarstė rinkti valdovą, kuris asmeniškai rūpintųsi Lietuvos Didžiosios Kunigaikštystės vientisumu."
   pagrindžia:
-    - c-003
+    - c-167917
 
 <a id="claim-t-184557"></a>
 - t-005
   global_id: t-184557
-  teiginys: 'Į Brestą kviesti Kazimiero buvo pasiųsti žymūs Lietuvos didikai broliai Mykolas ir Jonas Kęsgailos.'
+  teiginys: "Į Brestą kviesti Kazimiero buvo pasiųsti žymūs Lietuvos didikai broliai Mykolas ir Jonas Kęsgailos."
   pagrindžia:
-    - c-004
+    - c-167918
 
 <a id="claim-t-184558"></a>
 - t-006
   global_id: t-184558
-  teiginys: '1527 m. Lietuvos didikai, Konstantino Ostrogiškio paskatinti, susitarė savo jėgomis atremti skitus.'
+  teiginys: "1527 m. Lietuvos didikai, Konstantino Ostrogiškio paskatinti, susitarė savo jėgomis atremti skitus."
   pagrindžia:
-    - c-005
+    - c-167919
 
 <a id="claim-t-184559"></a>
 - t-007
   global_id: t-184559
-  teiginys: 'Kai žymiausieji didikai pažadėjo savo balsus, apie spalio vidurį Vilniuje buvo sušauktas luomų seimas.'
+  teiginys: "Kai žymiausieji didikai pažadėjo savo balsus, apie spalio vidurį Vilniuje buvo sušauktas luomų seimas."
   pagrindžia:
-    - c-006
+    - c-167920
 - susijęs iš [[objektai/grupes/Lietuvos evangelikai reformatai.md#claim-t-45013|Lietuvos evangelikai reformatai]]: XVI a. šeštajame ir septintajame dešimtmečiais beveik visi Lietuvos didikai buvo perėję į reformaciją, o kalvinizmas vėliau pradėjo nykti.
 - susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186787|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti.
 - susijęs iš [[objektai/ivykiai/Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.).md#claim-t-185587|Kazimiero Jogailaičio išrinkimas Lietuvos didžiuoju kunigaikščiu ir kvietimas į Brestą (1440 m.)]]: Lietuvos didikai Breste skubiai sušaukė seimą, nes Kazimierui kelias į Brestą buvo artimas.
@@ -110,7 +122,8 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     tai užsiminę, dažnai Lietuvoje šaukti seimus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -130,6 +143,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     Didžiosios Lietuvos Kunigaikštystės gyventojus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -152,6 +166,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     gimine ir sąjungą su lenkais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,6 +192,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     lenkų patariamas, nesusimanytų delsti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,6 +228,7 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     skitų išpuoliais grindė kelią turkų galybei.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,11 +252,171 @@ Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­ kai pir
     galiai nei todėl, kad ir jie šitaip manė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
-## Ryšiai
-- Priešai: [[objektai/grupes/Katalikų Bažnyčia]]
-- Lietuvos didikai keliavo į [[objektai/vietos/Lenkija]]
+## Citatos
+
+- id: c-78080
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Onos bažnyčios staty­
+    mą, bet abi tos bažnyčios ir bernardinų vienuolynas buvo
+    statomi tik iš medžio ir nepabaigti. Pagaliau per šį ilgą, tai­
+    kos ir saugumo atžvilgiu Vilniui dar pirmutinį Kazimiero
+    valdymo periodą dažni Lietuvos didikų suvažiavimai ir pa­
+    sitarimai Vilniuje, užsienio pasiuntinių sambūriai ir su jais
+    sudaromos sutartys suteikė miestui iškilmingumo ir pagau­
+    sino ištaigingų rūmų, statomų varganai suręstų namų vieto­
+    je, skaičių. Goštauto pradėti neramumai Vilniuje, stengian­
+    tis atplėšti šį kraštą nuo Lenkijos, o labiausiai siekiant
+    Didžiojoje Kunigaikštystėje įtvirtinti atskirą vietininką bei
+    susilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie
+    tai užsiminę, dažnai Lietuvoje šaukti seimus.
+  citata_rodoma: "Pagaliau per šį ilgą, tai­\nkos ir saugumo atžvilgiu Vilniui dar pirmutinį Kazimiero\nvaldymo periodą dažni Lietuvos didikų suvažiavimai ir pa­\nsitarimai Vilniuje, užsienio pasiuntinių sambūriai ir su jais\nsudaromos sutartys suteikė miestui iškilmingumo ir pagau­\nsino ištaigingų rūmų, statomų varganai suręstų namų vieto­\nje, skaičių. Goštauto pradėti neramumai Vilniuje, stengian­\ntis atplėšti šį kraštą nuo Lenkijos, o labiausiai siekiant\nDidžiojoje Kunigaikštystėje įtvirtinti atskirą vietininką bei\nsusilpninti seną ryšį, vertė Kazimierą, kaip jau esame apie\ntai užsiminę, dažnai Lietuvoje šaukti seimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81459
+    - t-81460
+
+- id: c-78082
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tad naudojant vad. pir­
+    mojo Lietuvos istoriko veikalą, faktus vis reikia patikrinti.
+    Plačiai panaudotos « Lietuvos istorijos » autorius, rašęs lenkiš­
+    kai pirmais poliublininiais dešimtmečiais, buvo tačiau gyvai per­
+    siėmęs stipria valstybingumo sąmone Lietuvos didikų, kurie neno­
+    rėjo sutikti su tuo, kas buvo įvykę Liubline. Mozūras Stryjkovskis
+    ryškino Lietuvos valstybinį patriotizmą^19 , gynė atskirą jos valsty­
+    binę sąmonę, žinoma, apjungiančią ir lietuviškai nekalbančiuosius
+    Didžiosios Lietuvos Kunigaikštystės gyventojus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81461
+
+- id: c-167917
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
+  citata_originali: |
+    Esąs tik vienas būdas suteikti valstybei saugią ramybę,
+    tas pats, kuriuo pavyko išplėsti jos valdas, būtent iš­
+    rinkti tokį valdovą, kuris, neturėdamas kitų rūpesčių,
+    nevaldydamas svetimų valstybių, asmeniškai rūpintųsi
+    išsaugoti Lietuvos Didžiosios Kunigaikštystės vientisu­
+    mą. Šitokios mintys, platinamos ir žodiškai, ir raštiškai
+    laiškuose, kuriuos vieni kitiems siuntinėjo didikai ir ba­
+    jorai, sukėlė didelį nemažo būrio palankumą Aleksan­
+    drui, Slucko kunigaikščiui, ar vienam iš jo dviejų sūnų.
+    Nugalėjo vis dėlto tie, kurie stojo už ryšius su Jogailos
+    gimine ir sąjungą su lenkais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184556
+
+- id: c-167918
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 466"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 466."
+  citata_originali: |
+    Kiti parėmė šį siūlymą
+    iš baimės, kad atidėliojant yal-
+    džia
+    valstybėje
+    neatitektų
+    Mykolui. Štai todėl kuo grei­
+    čiausiai sušaukė Breste seimą,
+    nes kelias į tą miestą Kazi­
+    mierui buvo artimas, o kitų grupuočių vadovams tolo­
+    kas. Pasiuntė kilmingiausius ir žymiausius didikus bro­
+    lius Mykolą bei Joną Kęsgailas, kurie ir turėjo kviesti
+    Kazimierą į Brestą kuo greičiausiai perimti valdžios; jie
+    kaip beįmanydami privalėjo raginti jaunikaitį, kad jis,
+    lenkų patariamas, nesusimanytų delsti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184557
+
+- id: c-167919
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 653"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 653."
+  citata_originali: |
+    Atvykęs į Gdanską,
+    karalius dalį maištininkų nubaudė mirtimi, o dalį, tai
+    yra tuos, kurie, paskubomis pabėgę, išnešė iš po kala­
+    vijo sveikas galvas, įtraukė į pasmerktųjų sąrašus; ši­
+    taip nubaudęs kaltininkus, jis sugrąžino miestiečiams
+    ir tikintiesiems ramybę.
+    1527 m e ta i
+    L ietu vių
+    d id ik a i
+    su
+    sa v o  a sm en in ėm is k a ­
+    ria u n o m is
+    su m u ša
+    sk itu s
+    Kai nutilo ginklai Mask­
+    vos pasienyje, lietuvių didi­
+    kai, paskatinti Konstantino
+    Ostrogiškio, susitarė savo jė­
+    gomis atremti skitus, kurie
+    dažnai niokojo ne tik Podo­
+    lę ir Pogorę, bet ir Polesę.
+    Krymo skitai itin išdrąsėjo ir suįžūlėjo dėl to, kad
+    jiems į pagalbą atėjo turkai, vedami Ibrahimo, kuris
+    skitų išpuoliais grindė kelią turkų galybei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184558
+
+- id: c-167920
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 657"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 657."
+  citata_originali: |
+    Kai
+    žymiau­
+    sieji didikai jau buvo paža­
+    dėję savo balsus, apie spalio vidurį sušaukė Vilniuje
+    luomų seimą. Pirmuosiuose seimo posėdžiuose dėl akių
+    tartasi visokiais kitais reikalais, o asmeniškuose pokal­
+    biuose ir toliau karaliaus šalininkai skatino paremti val­
+    dovą tuos, kurie dar nežinojo jo plano. Kai jau galima
+    buvo nebūgštauti dėl nesėkmės, karalius atvirai senate
+    paskelbė savo sumanymą. Kadangi jį parėmė žymiausi
+    didikai, neprieštaravo ir kiti, veikiau, tiesa, iš pagarbos
+    galiai nei todėl, kad ir jie šitaip manė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184559

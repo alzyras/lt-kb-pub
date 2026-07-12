@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Prochaska, Szkice historyczne z XV wieku
 
@@ -29,10 +41,9 @@ amziai:
 <a id="claim-t-31605"></a>
 - t-001
   global_id: t-31605
-  teiginys: 'A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m.'
+  teiginys: "A. Prochaskos „Szkice historyczne z XV wieku“ buvo išleista Krokuvoje ir Varšuvoje 1884 m."
   pagrindžia:
-    - c-001
-
+    - c-33518
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,28 @@ amziai:
     420-473, 622-672 p. ; t. 13, 1964, 401-420 p.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33518
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Königsberg 1912,
+    išsp. Oberländische Geschichtsblätter, 14, 1912, 407-522 p. — Procha _­_
+    ska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —
+    Weise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,
+    420-473, 622-672 p. ; t. 13, 1964, 401-420 p.
+  citata_rodoma: "— Procha _­_\nska, A. : _Szkice historyczne z XV wieku,_ Kraków-Warszawa 1884. —\nWeise, E. : _Der Heidenkampf des Deutschen Ordens,_ ZfO, t. 12, 1963,\n420-473, 622-672 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31605

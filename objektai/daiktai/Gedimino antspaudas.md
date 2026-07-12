@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gedimino antspaudas
 
@@ -52,37 +64,37 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
 <a id="claim-t-55034"></a>
 - t-001
   global_id: t-55034
-  teiginys: '1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė.'
+  teiginys: "1323 m. gegužės 26 d. datuotuose laiškuose antspaudas pateikiamas kaip rašto tikrumo ir pasitikėjimo patvirtinimo priemonė."
   pagrindžia:
-    - c-001
+    - c-55378
 
 <a id="claim-t-55035"></a>
 - t-002
   global_id: t-55035
-  teiginys: 'Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti.'
+  teiginys: "Kryžiuočiai Gedimino antspaudą įmetė į ugnį, o jo tikrumą ginčijantys asmenys laiškuose buvo pasmerkti."
   pagrindžia:
-    - c-001
+    - c-55378
 
 <a id="claim-t-81845"></a>
 - t-003
   global_id: t-81845
-  teiginys: 'Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį.'
+  teiginys: "Gediminas prie laiško pridėjo antspaudą, kurį buvo siuntęs popiežiui ir kurį kryžiuočiai įmetė į ugnį."
   pagrindžia:
-    - c-004
+    - c-78391
 
 <a id="claim-t-81846"></a>
 - t-004
   global_id: t-81846
-  teiginys: 'Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką.'
+  teiginys: "Gediminas savo karališkuoju antspaudu sutvirtino laišką, kuriame žadėjo pasiuntiniams nustatyti tarpusavio taiką."
   pagrindžia:
-    - c-003
+    - c-78390
 
 <a id="claim-t-81847"></a>
 - t-005
   global_id: t-81847
-  teiginys: 'Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis.'
+  teiginys: "Kryžiuočiai sudegino Gedimino antspaudą, siekdami užgniaužti jo pradėtą darbą ir apdumti žmonėms akis."
   pagrindžia:
-    - c-002
+    - c-78389
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
 - susijęs iš Notariats-Instrument dėl Gedimino antspaudo (Liubekas, 1323 m.): 1323 m. Liubeke parengtas Notariats-Instrument aprašė Gedimino apvalų vaško antspaudą su soste sėdinčio vyro atvaizdu.
 - susijęs iš [[objektai/zodynas/Notariats instrument notarinis instrumentas.md#claim-t-86541|Notariats instrument notarinis instrumentas]]: 1323 metais Liubeke parengtame notariniame instrumente aprašytas prie laiško prikabintas apvalus Gedimino vaško antspaudas.
@@ -108,6 +120,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,6 +174,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     ištartą žodį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,6 +206,7 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     tokių vienuolių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -212,10 +227,143 @@ Antspaudas buvo dedamas ar prikabinamas prie laiškų kaip patikimumo ir sutvirt
     eretikais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Gedimino antspaudas priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+## Citatos
+
+- id: c-55378
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
+    raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
+    sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o
+    vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar
+    atšauksime. Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55034
+    - t-55035
+
+- id: c-78389
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nors kryžiuočiai dėl aukščiau minėtojo reikalo mūsų įžei­
+    dimui sudegino mūsų antspaudą, matyt, [tuo tikslu], kad
+    užgniaužtų dievo pradėtą [darbą] ir apdumtų žmonėms akis,
+    •  -
+    55
+    C' ■^la ir toliau cit. pagal Gedimino laiš­
+    kai, parengė V. Pašuta ir I. Štai, [vertė
+    M- Ročka], Vilnius, Mintis, 1966.
+
+    ## Puslapis 72
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Saxonie ultra mittatur quanto prius vt dei gratia (f) perficiat
+    quod incepit. Datum anno DniM.CCCXXIII ipso die corpo­
+    ris X-ti, va lete. 2
+    2) Gedeminne dei gratia Letpbanorum Rutbenorumque
+    rex princeps et dux Semigallie Honorabilibus viris prouidis et
+    bonestis advocatis consulibus civibusque Lubecens. Rostob-
+    cens. Sundens. Gripeswaldens. Stetynens. Gotlandieve mer­
+    catoribus et mecbanicis cuiuscunque conditionis. Sai. et re­
+    galem gratiam et fauorem. Cum omnia regna subiacent celesti
+    regi Jesu Cbristo de quibus unum tenemus tanquam forma in
+    materia vėl servus in domo, licet omnium regum minimus
+    apparemus, tamen dei prouidentia in populis maximis (a) in
+    quibus babemus precipere et imperare (b) perdere et saluare,
+    claudere et reseruare (c) iam dudum nostros terminos tran-
+    smistis (d) absque ulla recognitione visitando. Noygardiam,
+    Pleskowiamque (e) omnia permisimus futurum proprium (f)
+    bonum nunc vidistis et a me (g) percipitis de die in diem om­
+    nium vestrorum detrimentum miserunt progenitores nostri
+    56
+
+    ## Puslapis 73
+
+    I  KNYGA
+    tačiau prie šio rašto mes pridedame tą patį antspaudą, pa­
+    našiai kaip liepėme pridėti šį antspaudą prie laiško didžiai
+    mylimam viešpačiui apaštališkajam tėvui didesniam jo pa­
+    tikimumui ir sutvirtinimui, nes pirmiau geležis pasikeis į
+    vašką ir vanduo pavirs plienu, negu mes atšauksime mūsų
+    ištartą žodį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81847
+
+- id: c-78390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jei jie [se­
+    noliai] vieną dalyką prižadėjo, tai mes, dievui laiminant, dvi­
+    gubai padarysime ir dar daugiau, nes mes pasiuntėme mū­
+    sų laišką mūsų tėvui, šventajam viešpačiui popiežiui dėl
+    susivienijimo su dievo bažnyčia ir su neapsakomu nekan­
+    trumu laukiame jo pasiuntinių atvykimo; jų saugiu buvimu
+    pas mus rūpintis esame mes raštu prižadėję.
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81846
+
+- id: c-78391
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šį raštą mes laikysime nekeičiamu, nes mūsų žodis liks
+    tvirtas kaip plienas.
+    To [rašto] paliudijimui laikėme reikalingu dalyku pridė­
+    ti prie šio laiško tą mūsų antspaudą, kurį pasiuntėme apaš­
+    tališkajam viešpačiui ir švenčiausiajam mūsų tėvui ir kurį
+    kryžiuočiai šios pasiuntinybės įžeidimui įmetė į ugnį.
+    Šio antspaudo niekintojus ir teksto klastotojus šiuo laiš­
+    ku skelbiame tikėjimo persekiotojais, piktais ir klastingais
+    eretikais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81845

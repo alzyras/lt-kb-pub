@@ -17,6 +17,18 @@ tags:
   - popiežius
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Breslavas
 
@@ -29,16 +41,16 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 <a id="claim-t-36164"></a>
 - t-001
   global_id: t-36164
-  teiginys: '1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.'
+  teiginys: "1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas."
   pagrindžia:
-    - c-002
+    - c-38462
 
 <a id="claim-t-36165"></a>
 - t-002
   global_id: t-36165
-  teiginys: '1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.'
+  teiginys: "1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį."
   pagrindžia:
-    - c-001
+    - c-38461
 - susijęs iš [[objektai/asmenys/Jonas Kropidla.md#claim-t-35148|Jonas Kropidla]]: Kujavų vyskupas Jonas Kropidla Breslave pareiškė imperatoriui Zigmantui, kad karaliaus vardo vertas tik Vytautas.
 - susijęs iš [[objektai/asmenys/Jonas Kropidła.md#claim-t-35150|Jonas Kropidła]]: Kujavų vyskupas Jonas Kropidła Breslave imperatoriui Zigmantui pareiškė, kad karaliaus vardo vertas tik Vytautas.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184438|Martynas V]]: Popiežiui Martynui V Vytautas ir Jogaila pateikė bylą prieš Ordiną, kovodami prieš Breslavo sprendimą.
@@ -69,6 +81,7 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     patvirtino Torno sutartį (1411).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,7 +103,54 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
     zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38461
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Dabar laukta
+    teisingo ginčo išsprendimo taikos keliu. Taip buvo sulaukta
+    1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas
+    galutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.
+    patvirtino Torno sutartį (1411).
+  citata_rodoma: "Taip buvo sulaukta\n1420 m. Breslavo suvažiavimo, kuriame turėjo būti paskelbtas\ngalutinis sprendimas, kas čia ir buvo padaryta: Zigmantas L.\npatvirtino Torno sutartį (1411)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36165
+
+- id: c-38462
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas dėl jų pagei­
+    davo pastovios taikos ir nekantriai laukė Lietuvos ir Ordino
+    byloje ciesoriaus Zigmanto sprendimo, žadėto tuojau po Kons­
+    tancijos susirinkimo. Bet ciesorius Zigmantas vilkino jį iki
+    1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­
+    jos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant
+    dar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,
+    kaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą
+    pripažindamas Vytautui iki jo mirties, bet užgindamas jame
+    statyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­
+    zijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė.
+  citata_rodoma: "Bet ciesorius Zigmantas vilkino jį iki\n1420 m. pradžios, kol Breslave buvo sušauktas visos Vokieti­\njos kunigaikščių ir kurfiurstų suvažiavimas. Čia, dalyvaujant\ndar popiežiaus ir Anglijos karaliaus pasiuntiniams, Zigmantas,\nkaipo superarbitras, patvirtino Torno taiką, Žemaičių kraštą\npripažindamas Vytautui iki jo mirties, bet užgindamas jame\nstatyti pilis ir daryti kitokius sutvirtinimus; Lenkijos preten­\nzijas valdyti Pamario, Kulmijos ir Michalovo žemes paneigė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36164

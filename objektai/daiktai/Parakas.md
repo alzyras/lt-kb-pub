@@ -9,9 +9,22 @@ date_start: '1390'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karo-reikmuo
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Parakas
 
@@ -44,9 +57,9 @@ Nenurodyta
 <a id="claim-t-54733"></a>
 - t-001
   global_id: t-54733
-  teiginys: 'Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.'
+  teiginys: "Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas."
   pagrindžia:
-    - c-001
+    - c-55714
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-183685|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/daiktai/Kablinis šautuvas.md#claim-t-78653|Kablinis šautuvas]]: Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.
 - susijęs iš [[objektai/zodynas/automatinių šautuvų veikimo principai.md#claim-t-38745|automatinių šautuvų veikimo principai]]: AK-47 automatika veikia dujų nuvedimo principu, kai dalis kulką iš vamzdžio išstumiančių parako dujų grąžina spyną į galinę padėtį ir tokiu būdu leidžia kitam šoviniui iš dėtuvės patekti į šovinio lizdą.
@@ -70,6 +83,7 @@ Nenurodyta
 - susijęs iš Žuvinto ežeras: Žuvinto ežerą ir Palias buvo apsupę šarvuočiai, o lėktuvai raketų šūviais nurodydavo įtartinas ežero vietas.
 - susijęs iš Žuvinto palios: Žuvinto ežeras ir Palios buvo apsupti šarvuočių.
 - susijęs iš [[objektai/zodynas/Brandskugeliai karkasai.md#claim-t-42419|Brandskugeliai karkasai]]: Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.
+- susijęs iš [[objektai/daiktai/Adiklis.md#claim-t-195323|Adiklis]]: Vyžų adymo įrankis, aprašytas ir per funkciją, ir per medžiagas.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,7 +100,32 @@ Nenurodyta
     atgal į Prūsiją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55714
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Taip įvairioms kautynėms ir ginčams besitęsiant praėjo
+    penkios sunkios apsupties savaitės lenkų įgulai Aukštuti­
+    nėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­
+    kybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­
+    riaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi
+    ir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­
+    imtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema
+    grėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti
+    atgal į Prūsiją.
+  citata_rodoma: "Taip įvairioms kautynėms ir ginčams besitęsiant praėjo \npenkios sunkios apsupties savaitės lenkų įgulai Aukštuti­\nnėje pilyje33. Tokios atkaklios Moskoževskio gynybos aplin­\nkybėmis, dar prisidėjus rudens darganoms, kryžiuočių ka­\nriaunoje ėmė plisti ligos, juk stovyklavo po atviru dangumi \nir buvo gerokai nusilpusi: daugybė jau buvo užmuštų ir pa­\nimtų į nelaisvę. Visiškai baigėsi parakas, o artėjanti žiema \ngrėsė laivams, stovėjusiems Vilijos upėje, užkirsti kelią grįžti \natgal į Prūsiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54733

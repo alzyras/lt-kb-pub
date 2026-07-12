@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Podolės Kameneco tvirtovė
 
@@ -28,10 +40,9 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
 <a id="claim-t-38639"></a>
 - t-001
   global_id: t-38639
-  teiginys: 'Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį.'
+  teiginys: "Turkai stiprino įtvirtinimus prie Podolės Kameneco tvirtovės, numatydami lenkų ir lietuvių puolimo kryptį."
   pagrindžia:
-    - c-001
-
+    - c-40443
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +59,30 @@ Turkai, nujausdami lenkų ir lietuvių ir privertė ją Atėjo žinia, kad Turki
     Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40443
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Turkai, nujausdami lenkų ir lietuvių
+
+    ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
+    daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės. Prie
+    ketina dar kartą pulti ir šį kartą užimti Chotino (beveik toje pačioje vietoje, kur
+    visą Respublikos teritoriją. Iškilo rim- 1621 m. buvo įrengti J. K. Chodkevičiaus
+    tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
+    Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38639

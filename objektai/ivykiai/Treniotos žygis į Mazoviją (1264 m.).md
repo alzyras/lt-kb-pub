@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Treniotos žygis į Mazoviją (1264 m.)
 
@@ -35,17 +47,16 @@ Nenurodyta
 <a id="claim-t-185649"></a>
 - t-001
   global_id: t-185649
-  teiginys: 'Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko.'
+  teiginys: "Treniota, paėmęs valdžią, pradėjo niokoti Mazoviją ir sudegino kaimus ligi pat Červinsko."
   pagrindžia:
-    - c-001
+    - c-169010
 
 <a id="claim-t-185650"></a>
 - t-002
   global_id: t-185650
-  teiginys: 'Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti.'
+  teiginys: "Treniotos žygio į Mazoviją metu buvo sugriauta Oršimovo pilis, o kaimai ligi Červinsko sudeginti."
   pagrindžia:
-    - c-002
-
+    - c-169011
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,6 +89,7 @@ Nenurodyta
     Livoniją apie Pernu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +115,74 @@ Nenurodyta
     jį patį neatsigręžtų nusikaltimai, jo padaryti kitiems.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169010
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 109."
+  citata_originali: |
+    Iš tiesų Treniota vėles­
+    nėms kartoms tapo žinomas daugiau dėl to, kad nusi­
+    kalstamai
+    nužudė
+    savo
+    dėdę
+    ir
+    ginklu
+    užgrobė
+    valdžią, o ne dėl kokių žygdarbių; trumpą jo viešpata­
+    vimą, nepraėjus nė metams, nutraukė staigi mirtis; jis
+    nuo sosto tapo nustumtas tuo pat būdu, kokiu buvo į
+    jį užkopęs. Koks žiaurus būtų buvęs krikščionims, jei­
+    gu dievai jį būtų laikę gyvą, geriausiai jis parodė
+    tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.
+    Tada visi kaimai ligi pat Červinsko buvo sudeginti,
+    Oršimovo pilis sugriauta, suaugusieji kalaviju, o vai­
+    kai liepsnose išžudyti, mote-
+    1264 m e ta i
+    rys paliktos vergauti bei pri­
+    daryta kitokių nelaimių, ko­
+    kių nešykšti žiaurūs nugalėtojai nugalėtiesiems, Livo­
+    nijos metraštininkai pasakoja, esą jis nuniokojęs ir
+    Livoniją apie Pernu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185649
+
+- id: c-169011
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 109"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 109."
+  citata_originali: |
+    Koks žiaurus būtų buvęs krikščionims, jei­
+    gu dievai jį būtų laikę gyvą, geriausiai jis parodė
+    tada, kai, paėmęs valdžią, pradėjo niokoti Mazoviją.
+    Tada visi kaimai ligi pat Červinsko buvo sudeginti,
+    Oršimovo pilis sugriauta, suaugusieji kalaviju, o vai­
+    kai liepsnose išžudyti, mote-
+    1264 m e ta i
+    rys paliktos vergauti bei pri­
+    daryta kitokių nelaimių, ko­
+    kių nešykšti žiaurūs nugalėtojai nugalėtiesiems, Livo­
+    nijos metraštininkai pasakoja, esą jis nuniokojęs ir
+    Livoniją apie Pernu. Tačiau namuose viskas tironui
+    rodėsi įtartina: jis ne be pamato būgštavo, kad prieš
+    jį patį neatsigręžtų nusikaltimai, jo padaryti kitiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185650

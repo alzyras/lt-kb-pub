@@ -10,6 +10,18 @@ tags:
   - ritualas
   - tikėjimas
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus vyskupo bažnytinių cenzūrų vykdymas pasitelkiant pasaulietinę valdžią
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-87311"></a>
 - t-001
   global_id: t-87311
-  teiginys: 'Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis.'
+  teiginys: "Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis."
   pagrindžia:
-    - c-001
-
+    - c-83290
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +87,44 @@ Nenurodyta
     papročius, arba mūsų nuožiūra.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83290
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, suteikiame dvasiškiams pilną ir ne­
+    ribotą jurisdikciją, kokia galioja kitose, ir mūsų, ir svetimo­
+    se, dominijose. Norime, kad ponai vyskupai turėtų įgalioji­
+    mus nutraukti ir panaikinti neteisėtas ir Apaštalų Sosto
+    neaprobuotas santuokas, o paklusti nenorinčius bausti baž­
+    nytinėmis bausmėmis. Taip pat norime, kad to, kuris vienu
+    ar kitu būdu daugiau kaip metus išdrįs bažnytinių cenzūrų
+    vengti ir paniekinti, kad ir kas jis būtų, ar katalikų tikėjimo,
+    ar stačiatikių apeigų, atžvilgiu būtų praplėsta pasaulietinė
+    valdžia, kurią suteikiame ponui Vilniaus vyskupui Povilui
+    ir kitiems jo įpėdiniams, būsimiems Vilniaus vyskupams, ir
+    duodame tai patvirtinantį raštą. O jei reikės ar iškils dvejo­
+    nių dėl vietos ar asmens, gali šauktis mūsų ir mūsų parei­
+    gūnų pagalbos. Todėl šiuo raštu įgaliojame visus seniūnus
+    ir mūsų valdinius, kad, iškilus bet kokio pobūdžio būtiny­
+    bei, kiek tik kartų būtų pono Vilniaus vyskupo ar jo institu­
+    cijos instigatoriaus kviečiami, suteiktų jiems savo pagalbą; į
+    didelę mūsų nemalonę pateks tas, kuris šios mūsų valios,
+    išreikštos rašte, nepadės ar apskritai nenorės vykdyti ir tam
+    priešinsis. Jį laikysime maištininku ir mūsų įstatymų nie­
+    kintoju ir bausime arba pagal statutą ir šios kunigaikštystės
+    papročius, arba mūsų nuožiūra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87311

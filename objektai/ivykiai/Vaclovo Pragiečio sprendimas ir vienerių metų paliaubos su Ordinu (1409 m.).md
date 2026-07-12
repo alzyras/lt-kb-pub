@@ -16,6 +16,18 @@ tags:
   - paliaubos
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaclovo Pragiečio sprendimas ir vienerių metų paliaubos su Ordinu (1409 m.)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-34558"></a>
 - t-001
   global_id: t-34558
-  teiginys: 'Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas.'
+  teiginys: "Įsikišus Čekijos karaliui Vaclovui, kariaujančios pusės sudarė vienerių metų paliaubas."
   pagrindžia:
-    - c-001
-
+    - c-35783
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +76,33 @@ Nenurodyta
     uždrausta remti Vytautą ir Lietuvą kovose su kryžiuočiais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-35783
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Po kiek lai­
+    ko Ordinas pradėjo karą su Lenkija. Bet įsikišus Čekų kara­
+    liui Vaclovui, buvo tarp kariaujančiu pusių padarytos viene­
+    riems metams paliaubos. Toj sutarty Lietuva nebuvo aiškiai
+    pažymėta. Jogaila tik pasižadėjo neremti ginklu žemaičių ir tų,
+    kurie jų pusę laikytų. Ginčas tarp Vytauto ir Jogailos, iš vienos
+    pusės ir Ordino, iš kitos pusės, buvo pavestas galutinai išspręsti
+    Vaclovui Pragiečiui, kuris jį išsprendė Lietuvos nenaudai: Že­
+    maitija buvo atiduota kryžiuočiams; Jogailai ir Karūnai buvo
+    uždrausta remti Vytautą ir Lietuvą kovose su kryžiuočiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34558

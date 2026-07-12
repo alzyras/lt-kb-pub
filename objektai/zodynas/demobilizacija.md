@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # demobilizacija
 
@@ -33,9 +45,9 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
 <a id="claim-t-42443"></a>
 - t-001
   global_id: t-42443
-  teiginys: 'Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.'
+  teiginys: "Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo."
   pagrindžia:
-    - c-001
+    - c-45509
 - susijęs iš [[objektai/ivykiai/Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės).md#claim-t-20312|Lietuvos kariuomenės dalinės demobilizacijos pradžia prieš J. Urbšio kelionę į Maskvą (1939 m. spalio 2 d. išvakarės)]]: Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.
 - susijęs iš [[objektai/ivykiai/Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.).md#claim-t-75296|Vilniaus perdavimo sutarties ir SSRS-Lietuvos savitarpio pagalbos sutarties pasirašymas (1939 m. spalio 10 d.)]]: Prieš J. Urbšio kelionę į Maskvą pradėta dalinė Lietuvos kariuomenės demobilizacija.
 - susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101653|Josifas Stalinas]]: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė J. Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
@@ -66,7 +78,39 @@ Po demobilizacijos grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos kariu
     1919 m. gegužę paskirtas Ukmergės grupės vadu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45509
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Paveiksle pavaizduoti
+    Radviliškį atakuojantys 1-ojo pėstininkų pulko kariai,
+    ginkluoti Mosin-Nagant šautuvais
+
+    ## Puslapis 195
+
+    Kazys Ladyga (1893-1941)
+
+    1914 m. baigė Vilniaus karo mokyklą, dalyvavo
+    Pirmajame pasauliniame kare, buvo du kartus su-
+    žeistas. Baigiantis pasauliniam karui turėjo Rusijos
+    kariuomenės kapitono laipsnį. Po demobilizacijos
+    grįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-
+    riuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |
+    ninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |
+    1919 m. gegužę paskirtas Ukmergės grupės vadu.
+  citata_rodoma: "Paveiksle pavaizduoti\nRadviliškį atakuojantys 1-ojo pėstininkų pulko kariai,\nginkluoti Mosin-Nagant šautuvais\n\n## Puslapis 195\n\nKazys Ladyga (1893-1941)\n\n1914 m. baigė Vilniaus karo mokyklą, dalyvavo\nPirmajame pasauliniame kare, buvo du kartus su-\nžeistas. Baigiantis pasauliniam karui turėjo Rusijos\nkariuomenės kapitono laipsnį. Po demobilizacijos\ngrįžo į Lietuvą, prisidėjo prie pirmųjų Lietuvos ka-\nriuomenės dalinių organizavimo. Tapo 1-ojo pėsti- |\nninky pulko vadu. Ėjo 1-osios brigados vado pareigas, |\n1919 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42443

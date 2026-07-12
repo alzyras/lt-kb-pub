@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polockiečiai
 
@@ -20,28 +32,34 @@ amziai:
 Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes. Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas. Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną.
 
 ## Teiginiai
+
 <a id="claim-t-185443"></a>
 - t-001
   global_id: t-185443
-  teiginys: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.'
+  teiginys: "Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes."
   pagrindžia:
-    - c-001
+    - c-168804
 
 <a id="claim-t-185445"></a>
 - t-002
   global_id: t-185445
-  teiginys: 'Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
+  teiginys: "Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas."
   pagrindžia:
-    - c-002
+    - c-168806
 
 <a id="claim-t-188291"></a>
 - t-003
   global_id: t-188291
-  teiginys: 'Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną.'
+  teiginys: "Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171184
+
+<a id="claim-t-193330"></a>
+- t-004
+  global_id: t-193330
+  teiginys: "Jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis."
+  pagrindžia:
+    - c-176058
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
 - susijęs iš [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.).md#claim-t-185624|Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]: Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
@@ -65,6 +83,7 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
 - susijęs iš [[objektai/zodynas/viečė.md#claim-t-187535|viečė]]: Lietuvos metraštis pasakoja, kad po Polocko kunigaikščio Glėbo mirties polockiečiai ėmė reikalus spręsti viečėje ir nebeturėjo valdovo.
 - susijęs iš [[objektai/ivykiai/Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.).md#claim-t-185624|Mingailos žygis prieš Polocką ir miesto užėmimas (1219 m.)]]: Mingaila prie Gorodeco užpuolė polockiečių kariuomenę ir privertė ją bėgti iš kovos lauko bei stovyklos.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -87,10 +106,12 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     sprukti ir iš kovos lauko, ir iš stovyklos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Glėbas grąžino polockiečiams visišką laisvę, o valstybės reikalus vėl ėmė tvarkyti senatas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -111,10 +132,12 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     tyta lietuvių kunigaikščių valdžios.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas pasakoja, kad Treniota, bijodamas polockiečių ir Tautvilos sūnaus keršto, įkalino Polocko bajorus ir per Prokopą reikalavo nužudyti Joną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -130,15 +153,132 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
     siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
     jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
     imtus bajorus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+- c-004
+  santrauka: 'Jis panaikino visus laisvės ribojimus, kuriais polockiečius buvo suvaržęs jo senelis.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Užpultas Smo­
+    lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai
+    atrėmė. Jis panaikino visus laisvės ribojimus, kuriais
+    polockiečius buvo suvaržęs jo senelis. Rodėsi, kad jis
+    visą likusį gyvenimą pasiryžęs praleisti maldos namuo­
+    se prie altoriaus: visus turtus ir jėgas skyrė vienam
+    vienatiniam dalykui — statė dievo namus.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-168804
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Patys
+    tvarkykite savo valstybę, iš
+    savųjų parinkę tokių pilie-
+    83
+
+    ## Puslapis 82
+
+    galią; skriausdami sąjungininkus, jie kurstė priešus ir
+    karą prieš save. Arčiausiai puolančiųjų plytėjo Min-
+    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
+    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
+    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
+    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
+    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
+    o visai nemokančią kariauti, vienu smūgiu privertė
+    sprukti ir iš kovos lauko, ir iš stovyklos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185443
+
+- id: c-168806
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vėliau, apie 1273
+    metus, Grigalius X paskelbė ją šventąja. Treniotos sū­
+    nus Glėbas, tėvo įpėdinis, mirė jaunas, nepalikdamas
+    Įėjo priešus, atsiėmė žemes,
+
+    ## Puslapis 91
+
+    vaikų; jis polockiečiams da-
+    P o lo c k ie č ia m s g ra ži-
+    vė visišką laisvę. Valstybės
+    narna la is v ė
+    reikalus tvarkyti vėl ėmė
+    senatas, šitaip buvo atsikra­
+    tyta lietuvių kunigaikščių valdžios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185445
+
+- id: c-171184
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 213."
+  citata_originali: |
+    Tragiškai žuvus Lietuvos ir Rusios kunigaikščiui Mindaugui,
+    jo žudikai kunigaikščiai -  Užgirio (Transilvaticus) Dauman­
+    tas, Žemaičių Treniota ir Polocko Tautvilą, besidalydami lo­
+    bius, likusius po to turtingo kunigaikščio, kadangi nužudė ir
+    du jo sūnus, susikivirčijo, ir per tą ginčą Tautvilą nužudė Tre­
+    niota. Tačiau šis, bijodamas polockiečių ir Tautvilos sūnaus
+    keršto, visus Polocko bajorus sukišo į kalėjimą, išskyrus kaž­
+    kokį Prokopą, Polocko kunigaikščio patikėtinį, išdaviką. Šį nu­
+    siuntė į Polocką su įsakymu, kad polockiečiai nužudytų jauną­
+    jį Joną, Tautvilos sūnų, nes kitaip įsakysiąs iškapoti visus su­
+    imtus bajorus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188291
+
+- id: c-176058
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 85"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 85."
+  citata_originali: |
+    Užpultas Smo­
+    lensko ir Pskovo rusų, ir vienus, ir kitus sėkmingai
+    atrėmė. Jis panaikino visus laisvės ribojimus, kuriais
+    polockiečius buvo suvaržęs jo senelis. Rodėsi, kad jis
+    visą likusį gyvenimą pasiryžęs praleisti maldos namuo­
+    se prie altoriaus: visus turtus ir jėgas skyrė vienam
+    vienatiniam dalykui — statė dievo namus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193330
+
 ## Ryšiai
 - Puolė Polockiečiai: [[objektai/asmenys/Mingaila]]
-- Kariavo prieš: [[objektai/asmenys/Mingaila]]
-- Polockiečiai keliavo į [[objektai/vietos/Gorodecas]]
-- Polockiečiai surengė žygį į [[objektai/vietos/Gorodecas]]
-- Polockiečiai rėmė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]

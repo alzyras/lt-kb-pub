@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # O. Balzer, Unja horodelska
 
@@ -28,10 +40,9 @@ amziai:
 <a id="claim-t-29998"></a>
 - t-001
   global_id: t-29998
-  teiginys: 'O. Balzerio „Unja horodelska“ buvo išleista 1913 m.'
+  teiginys: "O. Balzerio „Unja horodelska“ buvo išleista 1913 m."
   pagrindžia:
-    - c-001
-
+    - c-29903
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,23 @@ amziai:
     AUPL, nr. 49-51.—Balzer, O.: _Unja horodelska,_ 1913.—HaU.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-29903
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    AUPL, nr. 49-51.—Balzer, O.: _Unja horodelska,_ 1913.—HaU.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29998

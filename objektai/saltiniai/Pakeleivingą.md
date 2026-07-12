@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pakeleivingą
 
@@ -19,10 +31,9 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
 <a id="claim-t-02263"></a>
 - t-001
   global_id: t-02263
-  teiginys: '„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas.'
+  teiginys: "„Pakeleivingą“ buvo sumanyta leisti kaip specialų laikraštį, bet leidimas jam nebuvo gautas."
   pagrindžia:
-    - c-001
-
+    - c-02501
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,7 +47,29 @@ Jis net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pakeleivingą",
     leivingą", bet negavo leidimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02501
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl jis ragino
+    kunigiją būti atsargesnę. Tačiau vyskupas nesiliovė kiekviena
+    proga raginęs tikinčiųjų nebegerti; ragino gyvu žodžiu, ragino
+    savo viešaisiais laiškais ir blaivybės skatinamaisiais raštais. Jis
+    net buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-
+    leivingą", bet negavo leidimo.
+  citata_rodoma: "Jis\nnet buvo sumanęs tam tikslui leisti specialų laikraštį ,,Pake-\nleivingą\", bet negavo leidimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02263

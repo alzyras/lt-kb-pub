@@ -6,6 +6,7 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
@@ -14,25 +15,33 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Kęstutis – Trakų ir vakarų Lietuvos pasienio valdovas, siejamas su kovomis prieš kryžiuočius, 1381 m. valdžia Vilniuje ir Krėvos drama.'
-socialDescription: 'Kęstutis – Trakų valdovas ir vakarų pasienio gynėjas, kurio istorija jungia kovas su kryžiuočiais, valdžios kovą Vilniuje ir tragišką žūtį Krėvoje.'
-seo_atnaujinta: '2026-07-02T20:14:54.764524+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'V'
   - 'XV'
 periodo_grupes: []
-tags:
-  - asmuo
+media_total_count: '3'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'seal_of'
+media_primary_json: |-
+  {"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-11T02:45:13.993277+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi viduramžiškas apvalus antspaudas su šarvuotu valdovu, kalaviju ir skydu; aplink figūrą yra lotyniškas įrašas.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Kęstutis, 1379“ ir įrašą „KYNSTVTTE DVX DE TRACKEN“, t. y. Kęstutį, Trakų kunigaikštį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kęstučio autentišką antspaudą, todėl ryšys su target aiškus.","isPrimary":1}
+media_direct_json: |-
+  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-11T02:45:13.993277+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi viduramžiškas apvalus antspaudas su šarvuotu valdovu, kalaviju ir skydu; aplink figūrą yra lotyniškas įrašas.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Kęstutis, 1379“ ir įrašą „KYNSTVTTE DVX DE TRACKEN“, t. y. Kęstutį, Trakų kunigaikštį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kęstučio autentišką antspaudą, todėl ryšys su target aiškus.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Kęstučio autentiško antspaudo atvaizdas, XIV a.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-11T02:45:13.995961+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai baltame grafiniame atvaizde pavaizduotas apvalus antspaudas su šarvuotu valdovu, kalaviju, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas „Authentic Seal of Kęstutis“ ir aprašas tiesiogiai sieja objektą su Kęstučiu bei įrašu „KYNSTVTTE DVX DE TRACKEN“.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors tai pieštinis ar grafinis antspaudo perteikimas, jis aiškiai yra Kęstučio antspaudo atvaizdas.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-11T02:45:14.009433+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi spalvotas vaško antspaudas su šarvuota figūra, kalaviju, skydu ir aplinkiniu įrašu; kompozicija sutampa su Kęstučio antspaudo ikonografija.","metadataEvidence":"Pavadinimas „Seal of Kęstutis (1379)“ ir aprašas nurodo Kęstučio antspaudą su įrašu „KYNSTVTTE DVX DE TRACKEN“.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kęstučio 1379 m. antspaudą.","isPrimary":0}]
+media_contextual_json: |-
+  []
+media_all_json: |-
+  [{"mediaId":"m-c79c415494b34c34fdce84de","title":"Seal of Kęstutis, 1379.jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis, 1379.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Visuotinė lietuvių enciklopedija","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":927,"height":1080,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis%2C_1379.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fa/Seal_of_K%C4%99stutis%2C_1379.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860200+03:00","reviewedAt":"2026-07-11T02:45:13.993277+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi viduramžiškas apvalus antspaudas su šarvuotu valdovu, kalaviju ir skydu; aplink figūrą yra lotyniškas įrašas.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Seal of Kęstutis, 1379“ ir įrašą „KYNSTVTTE DVX DE TRACKEN“, t. y. Kęstutį, Trakų kunigaikštį.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kęstučio autentišką antspaudą, todėl ryšys su target aiškus.","isPrimary":1},{"mediaId":"m-08162f9e2359c5fbbf998617","title":"Authentic Seal of Kęstutis.jpg","caption":"Kęstučio autentiško antspaudo atvaizdas, XIV a.","originalTitle":"Authentic Seal of Kęstutis.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from the Lithuanian Wikipedia","dateDisplay":"14 th century date QS:P,+1350-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":816,"height":848,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAuthentic_Seal_of_K%C4%99stutis.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/fb/Authentic_Seal_of_K%C4%99stutis.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860415+03:00","reviewedAt":"2026-07-11T02:45:13.995961+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Juodai baltame grafiniame atvaizde pavaizduotas apvalus antspaudas su šarvuotu valdovu, kalaviju, skydu ir aplinkiniu lotynišku įrašu.","metadataEvidence":"Pavadinimas „Authentic Seal of Kęstutis“ ir aprašas tiesiogiai sieja objektą su Kęstučiu bei įrašu „KYNSTVTTE DVX DE TRACKEN“.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Nors tai pieštinis ar grafinis antspaudo perteikimas, jis aiškiai yra Kęstučio antspaudo atvaizdas.","isPrimary":0},{"mediaId":"m-588daecc90ae2278a3bfeaa8","title":"Seal of Kęstutis (1379).jpg","caption":"Kęstučio antspaudas, 1379 m.","originalTitle":"Seal of Kęstutis (1379).jpg","creator":"Kęstutis","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1379","dateStart":null,"dateEnd":null,"width":503,"height":516,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_of_K%C4%99stutis_%281379%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/43/Seal_of_K%C4%99stutis_%281379%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"asmuo","label":"asmuo","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"žemaitija","label":"žemaitija","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Kęstutis.md","title":"Kęstutis (vakarų pasienio valdovas, XIV–XV a.)","itemType":"asmuo","relationType":"seal_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T02:44:43.860932+03:00","reviewedAt":"2026-07-11T02:45:14.009433+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi spalvotas vaško antspaudas su šarvuota figūra, kalaviju, skydu ir aplinkiniu įrašu; kompozicija sutampa su Kęstučio antspaudo ikonografija.","metadataEvidence":"Pavadinimas „Seal of Kęstutis (1379)“ ir aprašas nurodo Kęstučio antspaudą su įrašu „KYNSTVTTE DVX DE TRACKEN“.","confidenceLevel":"high","relationType":"seal_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas ir metaduomenys tiesiogiai identifikuoja Kęstučio 1379 m. antspaudą.","isPrimary":0}]
 ---
 # Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
 
 ## Santrauka
 
-Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio pagrindinė misija buvo ginti pavojingiausią sritį nuo kryžiuočių puolimų. Šaltiniai jį sieja su Trakų pilimis, krikšto derybomis, 1381 m. valdžios perėmimu Vilniuje ir dramatiška konflikto su Jogaila baigtimi. Po kalinimo Krėvoje Kęstutis buvo nužudytas, o jo gyvenimo pabaiga pabrėžiama kaip vidaus kovų tragedija.
+Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis Lietuvos gynėjas nuo kryžiuočių. Jis siejamas su Trakų pilimi, kovomis su ordinu, derybomis dėl krikšto, herojiškais pagoniškojo patriotizmo laikais, Jogailos pergale prieš jį ir nužudymu Krėvoje.
 
 ## Vaidmenys
 
@@ -40,270 +49,309 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - Lietuvos gynėjas
 
 ## Teiginiai
+
 <a id="claim-t-05188"></a>
 - t-001
   global_id: t-05188
-  teiginys: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
+  teiginys: "Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais."
   pagrindžia:
-    - c-015
+    - c-160530
 
 <a id="claim-t-05189"></a>
 - t-002
   global_id: t-05189
-  teiginys: '1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje.'
+  teiginys: "1381 m. Kęstutis, išvaręs Jogailą, tapo vyriausiuoju Lietuvos valdovu ir atsisėdo Vilniaus pilyje."
   pagrindžia:
-    - c-013
+    - c-160525
 
 <a id="claim-t-05191"></a>
 - t-003
   global_id: t-05191
-  teiginys: 'Kęstutis gyvenimą baigė kalėjime, o ne kautynių lauke.'
+  teiginys: "Kęstutis gyvenimą baigė kalėjime, o ne kautynių lauke."
   pagrindžia:
-    - c-002
-    - c-003
+    - c-04615
+    - c-21848
 
 <a id="claim-t-10092"></a>
 - t-004
   global_id: t-10092
-  teiginys: 'Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m.'
+  teiginys: "Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m."
   pagrindžia:
-    - c-031
-    - c-006
+    - c-160515
+    - c-160517
 
 <a id="claim-t-10688"></a>
 - t-005
   global_id: t-10688
-  teiginys: 'Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų.'
+  teiginys: "Kęstutis buvo pagrindinis Lietuvos vakarų pasienio gynėjas nuo kryžiuočių puolimų."
   pagrindžia:
-    - c-001
+    - c-00156
 
 <a id="claim-t-10689"></a>
 - t-006
   global_id: t-10689
-  teiginys: 'Kęstutis pastatė mūro pilį Trakų ežero saloje.'
+  teiginys: "Kęstutis pastatė mūro pilį Trakų ežero saloje."
   pagrindžia:
-    - c-007
+    - c-160518
 
 <a id="claim-t-10692"></a>
 - t-007
   global_id: t-10692
-  teiginys: 'Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius.'
+  teiginys: "Kęstutis kartu su sūnumi Vytautu pradėjo partizanišką karą prieš kryžiuočius."
   pagrindžia:
-    - c-012
+    - c-160524
 
 <a id="claim-t-10693"></a>
 - t-008
   global_id: t-10693
-  teiginys: 'Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas.'
+  teiginys: "Po penkių dienų kalinimo Krėvoje Kęstutis buvo nužudytas."
   pagrindžia:
-    - c-008
+    - c-160519
 
 <a id="claim-t-176515"></a>
 - t-009
   global_id: t-176515
-  teiginys: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
+  teiginys: "Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui."
   pagrindžia:
-    - c-022
+    - c-160538
 
 <a id="claim-t-176516"></a>
 - t-010
   global_id: t-176516
-  teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
+  teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei."
   pagrindžia:
-    - c-020
+    - c-160536
 
 <a id="claim-t-176517"></a>
 - t-011
   global_id: t-176517
-  teiginys: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
+  teiginys: "Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas."
   pagrindžia:
-    - c-005
+    - c-160516
 
 <a id="claim-t-176518"></a>
 - t-012
   global_id: t-176518
-  teiginys: '1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.'
+  teiginys: "1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį."
   pagrindžia:
-    - c-014
+    - c-160527
 
 <a id="claim-t-176519"></a>
 - t-013
   global_id: t-176519
-  teiginys: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
+  teiginys: "1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę."
   pagrindžia:
-    - c-010
+    - c-160521
 
 <a id="claim-t-176520"></a>
 - t-014
   global_id: t-176520
-  teiginys: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei.'
+  teiginys: "Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei buveinei."
   pagrindžia:
-    - c-019
+    - c-160535
 
 <a id="claim-t-176523"></a>
 - t-015
   global_id: t-176523
-  teiginys: 'Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį.'
+  teiginys: "Kęstučio palaikai Skirgailos rūpesčiu buvo nuvežti į Vilnių ir turėjo būti sudeginti pagal pagonių paprotį."
   pagrindžia:
-    - c-011
+    - c-160523
 
 <a id="claim-t-176524"></a>
 - t-016
   global_id: t-176524
-  teiginys: 'Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo.'
+  teiginys: "Balińskis Kęstutį laiko pagrindine kliūtimi Jogailos siekiui sustiprinti vienvaldystę dėl jo autoriteto, karo šlovės ir nepalenkiamo būdo."
   pagrindžia:
-    - c-004
+    - c-160515
 
 <a id="claim-t-176525"></a>
 - t-017
   global_id: t-176525
-  teiginys: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
+  teiginys: "Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo."
   pagrindžia:
-    - c-021
+    - c-160537
 
 <a id="claim-t-176528"></a>
 - t-018
   global_id: t-176528
-  teiginys: 'Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių.'
+  teiginys: "Kęstutis buvo Gedimino sūnus ir vienas iš Lietuvos kunigaikščių."
   pagrindžia:
-    - c-009
+    - c-160520
 
 <a id="claim-t-176529"></a>
 - t-019
   global_id: t-176529
-  teiginys: 'Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį.'
+  teiginys: "Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį."
   pagrindžia:
-    - c-016
+    - c-160531
 
 <a id="claim-t-176530"></a>
 - t-020
   global_id: t-176530
-  teiginys: 'Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu.'
+  teiginys: "Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu."
   pagrindžia:
-    - c-017
+    - c-160533
 
 <a id="claim-t-176531"></a>
 - t-021
   global_id: t-176531
-  teiginys: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
+  teiginys: "Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu."
   pagrindžia:
-    - c-018
+    - c-160534
 
-<a id="claim-t-176532"></a>
+<a id="claim-t-176534"></a>
 - t-022
-  global_id: t-176532
-  teiginys: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
+  global_id: t-176534
+  teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
   pagrindžia:
-    - c-009
+    - c-160520
+
+<a id="claim-t-176534"></a>
+- t-023
+  global_id: t-176534
+  teiginys: "Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas."
+  pagrindžia:
+    - c-160520
 
 <a id="claim-t-184761"></a>
 - t-024
   global_id: t-184761
-  teiginys: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
+  teiginys: "Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju."
   pagrindžia:
-    - c-023
+    - c-168122
 
 <a id="claim-t-184762"></a>
 - t-025
   global_id: t-184762
-  teiginys: 'Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.'
+  teiginys: "Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis."
   pagrindžia:
-    - c-024
+    - c-168123
 
 <a id="claim-t-184763"></a>
 - t-026
   global_id: t-184763
-  teiginys: 'Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.'
+  teiginys: "Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui."
   pagrindžia:
-    - c-025
+    - c-168124
 
 <a id="claim-t-184764"></a>
 - t-027
   global_id: t-184764
-  teiginys: 'Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.'
+  teiginys: "Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą."
   pagrindžia:
-    - c-026
+    - c-168125
 
 <a id="claim-t-184765"></a>
 - t-028
   global_id: t-184765
-  teiginys: 'Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas.'
+  teiginys: "Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas."
   pagrindžia:
-    - c-027
+    - c-168126
 
 <a id="claim-t-184766"></a>
 - t-029
   global_id: t-184766
-  teiginys: 'Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.'
+  teiginys: "Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes."
   pagrindžia:
-    - c-028
+    - c-168127
 
 <a id="claim-t-184767"></a>
 - t-030
   global_id: t-184767
-  teiginys: 'Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.'
+  teiginys: "Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas."
   pagrindžia:
-    - c-029
+    - c-168128
 
 <a id="claim-t-184768"></a>
 - t-031
   global_id: t-184768
-  teiginys: 'Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.'
+  teiginys: "Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas."
   pagrindžia:
-    - c-030
+    - c-168129
 
 <a id="claim-t-184769"></a>
 - t-032
   global_id: t-184769
-  teiginys: 'Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.'
+  teiginys: "Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją."
   pagrindžia:
-    - c-031
+    - c-168130
 
 <a id="claim-t-184770"></a>
 - t-033
   global_id: t-184770
-  teiginys: 'Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.'
+  teiginys: "Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus."
   pagrindžia:
-    - c-032
+    - c-168131
 
 <a id="claim-t-184771"></a>
 - t-034
   global_id: t-184771
-  teiginys: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.'
+  teiginys: "Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi."
   pagrindžia:
-    - c-033
+    - c-168132
 
 <a id="claim-t-184772"></a>
 - t-035
   global_id: t-184772
-  teiginys: 'Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
+  teiginys: "Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   pagrindžia:
-    - c-034
+    - c-168133
 
 <a id="claim-t-188574"></a>
 - t-036
   global_id: t-188574
-  teiginys: 'Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.'
+  teiginys: "Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę."
   pagrindžia:
-    - c-035
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171463
+
 <a id="claim-t-188575"></a>
 - t-037
   global_id: t-188575
-  teiginys: 'Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.'
+  teiginys: "Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais."
   pagrindžia:
-    - c-036
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171464
+
 <a id="claim-t-188576"></a>
 - t-038
   global_id: t-188576
-  teiginys: 'Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.'
+  teiginys: "Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis."
   pagrindžia:
-    - c-037
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171465
+
+<a id="claim-t-193947"></a>
+- t-039
+  global_id: t-193947
+  teiginys: "O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje."
+  pagrindžia:
+    - c-176572
+
+<a id="claim-t-193948"></a>
+- t-040
+  global_id: t-193948
+  teiginys: "Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil niaus pilies, o kunigaikštis Algirdas negalėjo atvykti."
+  pagrindžia:
+    - c-176573
+
+<a id="claim-t-193949"></a>
+- t-041
+  global_id: t-193949
+  teiginys: "Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką."
+  pagrindžia:
+    - c-176574
+
+<a id="claim-t-193950"></a>
+- t-042
+  global_id: t-193950
+  teiginys: "1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra."
+  pagrindžia:
+    - c-176575
+
+<a id="claim-t-194947"></a>
+- t-043
+  global_id: t-194947
+  teiginys: "Kęstutis vėliau taip pasižymėjo."
+  pagrindžia:
+    - c-177343
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40370|Narimantas Gediminaitis]]: Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
@@ -381,6 +429,9 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - susijęs iš [[objektai/asmenys/Danuta.md#claim-t-35045|Danuta]]: Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173240|Vladislovas Jogaila]]: Siekdamas didelės valdžios, Jogaila pirmiausia sutelkė jėgas nusikratyti dėde Kęstučiu.
 - susijęs iš Kęstučio dvaras: Kęstučio dvare buvo sukaupta daug žinių apie Lietuvos kaimynus.
+- susijęs iš Vilniaus pilys: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
+- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
+- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
 - susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
 - susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05157|Algirdas (Lietuvos valdovas)]]: Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.
@@ -703,8 +754,6 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - susijęs iš Aukščiausios Tarybos rūmai (institucija): 1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR.
 - susijęs iš Avinjonas: 1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.
 - susijęs iš Bajorų pilaitė: Šindekopfas su kariuomene patraukė prie Bajorų pilaitės ir netrukus ją užgrobė.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Birutės kalnas: Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei.
 - susijęs iš Birutės kalnas: Birutės kalnas Palangoje buvo gerbiamas kaip šventosios vieta net įsigalint krikščionybei.
 - susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
@@ -817,12 +866,7 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - susijęs iš Vakarų Lietuva: 1949 m. vasario 11 d. pakeliui į partizanų vadų suvažiavimą susitiko Vakarų Lietuvos ir Pietų Lietuvos partizanų atstovai bei vadai.
 - susijęs iš Veliuonos pilis (pilis): 1364 metais kryžiuočiai sudegino Veliuoną ir sugriovė Veliuonos pilį.
 - susijęs iš Viazmos žemė: Vasiljevičius stengėsi nuslėpti savo brolio Andrejaus, Možaisko kunigaikščio, įsibrovimą į Viazmos žemę.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
 - susijęs iš Vilniaus pilis: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
-- susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
-- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
 - susijęs iš Vilnius: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
 - susijęs iš Vilnius: Jogailos šalininkai Vilniuje, pasinaudoję Vytauto išvykimu, Jogailos vardu užėmė pilį.
 - susijęs iš Vilnius: Vytautui išvykus iš Vilniaus, Jogailos šalininkai jo vardu užėmė pilį.
@@ -891,6 +935,10 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184664|Algirdas (Lietuvos valdovas)]]: Kęstutis ir Algirdas sutarė, kad Algirdas gaus didžiojo kunigaikščio titulą, o kitą valdžią jie dalysis lygiomis.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173242|Vladislovas Jogaila]]: Bajoras Vaidila patarimais ir įtaka rėmė Jogailos siekius, o 1380 m. Prūsijoje ruošė dirvą slaptam sandėriui.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
+- susijęs iš Vilniaus pilys: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
+- susijęs iš Vilniaus pilys: Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.
+- susijęs iš Vilniaus pilys: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
+- susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82221|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailai pavaldus Polocko kunigaikštis, linkęs į Kęstučio pusę.
 - susijęs iš [[objektai/asmenys/Svirdeika.md#claim-t-80723|Svirdeika]]: Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.
@@ -906,6 +954,7 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas.md#claim-t-66523|Dovydiškių sutarties sudarymas]]: Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.
 - susijęs iš [[objektai/ivykiai/Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas.md#claim-t-185510|Kęstučio ir Jogailos kariuomenių akistata, derybos ir Kęstučio bei Vytauto suėmimas]]: Po derybų Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -915,10 +964,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     girdas čia jam visada padėdavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -930,10 +981,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kryžiuočių ir totorių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -944,10 +997,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Jogailai siekiant didelės valdžios, Kęstutis jam trukdė dėdės autoritetu, mūšių šlove ir nepalenkiamu būdu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -971,11 +1026,13 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     lone lietuvių karalius].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-014
+
 - c-005
   santrauka: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1033,10 +1090,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     budelių pasmaugtas36.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-006
   santrauka: 'Manoma, kad Kęstutis Trakų pusiasalio pilį pastatė iki 1377 m.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1045,10 +1104,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1059,10 +1120,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-008
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1074,10 +1137,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     lėjęs 5 dienas, Kęstutis buvo nužudytas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Kęstutis buvo Gedimino sūnus ir Vytauto Didžiojo tėvas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -1095,12 +1160,14 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     čių dinastija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
     - t-018
     - t-023
+
 - c-010
   santrauka: '1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1117,10 +1184,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     nigaikščio buveinę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1137,10 +1206,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     neišvengiamos pražūties.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-012
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -1156,10 +1227,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-013
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1171,10 +1244,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     atsisėdo Vilniaus pilyje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-014
   santrauka: '1365 m. Kęstutis su Algirdu, Patriku ir Aleksandru įsiveržė į Ordino valdas ir po žygio dievams ugnyje paaukojo vokietį belaisvį.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
@@ -1187,10 +1262,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     (SRP, 2, 596).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-015
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -1205,10 +1282,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     niška.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-016
   santrauka: 'Jogaila pažadėjo Žemaičius kryžiuočiams, kai jų remiamas nugalėjo Kęstutį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -1221,10 +1300,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     (1382-1384, 1390-1392).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-017
   santrauka: 'Manoma, kad Kęstutis iki 1377 m. pastatė pilį, kuri 1414–1430 m. buvo perstatyta ir baigta Vytauto valdymo metu.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -1235,10 +1316,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     didžiajam kunigaikščiui Vytautui 1414-1430 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-018
   santrauka: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1256,10 +1339,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     riteriai, gviešęsi grobio ir valdžios.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-019
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -1285,10 +1370,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     rynas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-020
   santrauka: 'Kęstutis ir jo sūnus Vytautas išplėtė Trakų pilį ir pritaikė ją nuolatinei kunigaikščių buveinei.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1308,10 +1395,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kunigaikščių garbei derančia.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-021
   santrauka: 'Kęstutis krikštu kaip priemone gintis nuo Vokiečių ordino karų daug nepasitikėjo.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -1325,10 +1414,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     sai susidėjo su Vok.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-022
   santrauka: 'Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -1352,10 +1443,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-023
   santrauka: 'Kojelavičius Kęstutį laikė didžiausios autoriaus pagarbos nusipelniusiu Lietuvos istorijos veikėju.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1369,10 +1462,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     padėties".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-024
   santrauka: 'Kęstutis lapkričio 22 dieną slapta įvedė kariuomenę į Vilnių ir paryčiu užėmė abi pilis.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1399,10 +1494,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     menę ir paryčiu užėmė abi pilis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-025
   santrauka: 'Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1419,10 +1516,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kariuomenė ir patraukė į Maskvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-026
   santrauka: 'Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1437,10 +1536,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     bių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-027
   santrauka: 'Kazimiero žygio metu lietuvių pulkas buvo išsklaidytas, o Kęstutis gyvas pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1463,10 +1564,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     laisvės dėl vieno kario ypatingo drąsumo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-028
   santrauka: 'Kęstutis paspruko iš kalėjimo ir su broliu Liubartu įvedė kariuomenę į karaliaus užimtas Rusios žemes.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1485,10 +1588,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kariuomenę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
+
 - c-029
   santrauka: 'Henrikas Ekersbergas ietimi smogė Kęstučio arkliui iš šono, nubloškė Kęstutį nuo žirgo, ir Kęstutis pateko į priešų rankas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1518,10 +1623,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kas Hochbergas ietimi nutrenkė jį nuo žirgo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-030
+
 - c-030
   santrauka: 'Kęstutis rengė didesnį žygį prieš Prūsiją ir telkė Lietuvos, Žemaitijos, Rusios bei totorių pajėgas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1542,10 +1649,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     kus totoriais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
+
 - c-031
   santrauka: 'Sugrįžęs į Lietuvą, Kęstutis vedė vaidilutę Birutę, bet netrukus kryžiuočiai užpuolė Žemaitiją.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1563,10 +1672,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     romis, nusiaubė visą kraštą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
+
 - c-032
   santrauka: 'Kęstutis Žemaitijoje surinko kariuomenę, persikėlė per Nerį, susijungė su Vytautu ir pradėjo pulti Trakus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1591,10 +1702,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     Trakus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
+
 - c-033
   santrauka: 'Kęstutis žinojo, kad Jogailos kariuomenė pranoksta jo pajėgas ginkluote ir karių skaičiumi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1616,10 +1729,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     monėmis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
+
 - c-034
   santrauka: 'Jogaila tą pačią naktį įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -1646,10 +1761,12 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
+
 - c-035
   santrauka: 'Narbutas rašė, kad Kęstutis su Birute turėjo sūnus Patriką, Vytautą, Tautvilą, Sigailą arba Žygimantą ir dukterį Danutę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1665,11 +1782,14 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
     žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
     Sigailą, arba Žygimantą, bei dukterį Danutę.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
+
 - c-036
   santrauka: 'Narbutas rašė, kad Kęstutis, Gedimino ir Smolensko kunigaikštytės Olgos sūnus, gimė 1297 metais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1681,11 +1801,14 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
     tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
     stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
+
 - c-037
   santrauka: 'Narbutas taisė Okolskį ir Strijkovskį, teigdamas, kad Naujuosius Trakus įkūrė Gediminas, o ne Kęstutis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1698,38 +1821,1132 @@ Kęstutis pristatomas kaip Trakų ir vakarų Lietuvos pasienio valdovas, kurio p
     juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
     Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
     daikto pavadinimo, nes jį turėjo savo pačių kalboje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
 
+- c-038
+  santrauka: 'O šiuos du sa vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0 savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni gaikštystėje, o Kęstutį1 0 Trakuose bei visoje Žemaičių žemėje.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Karijotui7  davė Naugarduką, Liubartui *  —
+    Vladimirą su Lucku ir Volynės žemę * . O šiuos du sa­
+    vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0
+    savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni­
+    gaikštystėje, o Kęstutį1 0  Trakuose bei visoje Žemaičių
+    žemėje. Ir, apdalijęs juos, pats garbingai pasimirė ",
+    Kęstutis, viešpataudamas Trakuose bei Žemaičiuose,
+    išgirdo esant Palangoje mergelę, vardu Birutę, kuri pa­
+    gonišku papročiu buvo pasižadėjusi savo dievams iš­
+    saugoti skaistybę ir pati buvo žmonių garbinama kaip
+    dievaitė '2 .
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-039
+
+- c-039
+  santrauka: 'Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir sutarė dieną, kurią jie turės būti prie
+    Vilniaus.
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-040
+
+- c-040
+  santrauka: 'Kęstutis taip pat davė žodį kunigaikščio Jogailos vardu ir savo vardu, ir [davėj savo ranką.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­
+    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
+    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-041
+
+- c-041
+  santrauka: '1 0 Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie 1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis jo dalies plotas — tikslesnių žinių nėra.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie
+    1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis
+    jo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė
+    Žemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-042
+
+- c-042
+  santrauka: 'Kęstutis vėliau taip pasižymėjo.'
+  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
+  citata_originali: |
+    Taigi Kęstučio dvaras buvo vie­
+    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
+    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
+    susipažinti su valstybės reikalais. Nesibaigią karo žygiai iš
+    mažens auklėjo jame karingumą, kuriuo jis vėliau taip pasižy­
+    mėjo. Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
+    Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą
+    dabartine žodžio prasme kalbėti netenka.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-043
+
+## Citatos
+
+- id: c-00156
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes
+    jis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo
+    viso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-
+    girdas čia jam visada padėdavo.
+  citata_rodoma: "Greta Algirdo, svarbiausią vaidmenį vaidino Kęstutis, nes\njis valdė pavojingiausią ir priešo dažniausiai puolamą sritį. Jo\nviso gyvenimo tikslas buvo atlaikyti kryžiuočių puolimus. Al-\ngirdas čia jam visada padėdavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10688
+
+- id: c-04615
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Darydamas taiką su Vengrijos karaliumi Liudviku Anjou,
+    Kęstutis žadėjo jam pagalbą ir sutiko pats su savo broliais ir
+    valdiniais priimti krikštą. Už tai Liudvikas jam turėjo iš popie­
+    žiaus išrūpinti karaliaus karūną. Be to, Vengrija su Lenkija turėjo
+    priversti ordiną grąžinti Lietuvai atimtas jos žemes ir ją ginti nuo
+    kryžiuočių ir totorių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05191
+
+- id: c-21848
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o
+    kalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.
+    Tas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­
+    bę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į
+    gyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių.
+  citata_rodoma: "Didysis kovotojas savo gyvenimą baigė ne kautynių lauke, o\nkalėjime sūnėno, kurio tėvui visą amžių buvo ištikimai talkinęs.\nTas bendradarbiavimas buvo užtikrinęs valstybei reikalingą stipry­\nbę paties didžiojo ordino spaudimo metu. Bet Kęstučiui, ypač į\ngyvenimo galą, reikėjo pakelti ir eilę asmeniškų smūgių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05191
+
+- id: c-160515
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Galingesni vasalai grasino suvaržyti didžiojo ku­
+    nigaikščio valdžią, tad Jogailai kilo mintis visus tiesio­
+    giai valdomus lenus sujungti į vieną valstybę ir, tuo vėlei
+    susilpninus feodalizmą, ateičiai pakloti vienvaldystės pa­
+    grindus. Siekiant didelės valdžios jam labiausiai trukdė se­
+    nasis Kęstutis - ir dėdės autoritetu, ir mūšiuose pelnyta šlo­
+    ve, o juolab griežtu ir nepalenkiamu būdu, todėl Jogaila visas
+    jėgas sutelkė pirmiausia nusikratyti dėde, kaip artimiausiu,
+    nes Trakuose gyvenusiu, kaimynu. Nuo tos akimirkos užvi­
+    rė dvejus metus trukusi kova, ir Vilniui šio vidaus karo
+    27
+    Jogaila (Jagiełło) lietuviškai iš tiesų
+    buvo vadinamas Jagajłło, ir doku­
+    mentuose lotyniškai būdavo rašoma:
+    Jagail, arba Jagal, Dei gratia rex in Let-
+    tovia [Jogaila, arba Jagėla, Dievo ma­
+    lone lietuvių karalius].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176524
+    - t-014
+
+- id: c-160516
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kęstučio stovykloje atsirado Jogailos atsiųstas Skir­
+    gaila, esą pasirengęs taikytis. Sūnėnų tvirtas laidavimo žo­
+    dis ir gudriai pareikštas noras eiti į derybas kovose pražilu­
+    sį Kęstutį taip suklaidino, jog pats su Vytautu atvyko į priešo
+    vienas vėliau buvo Trakų vaivada,
+    o jo sūnus - Jonas Hanulaitis - Lie­
+    tuvos vėliavininkas; pastarasis Žy­
+    gimanto Kęstutaičio laikais pasižy­
+    mėjo mūšyje prie Pabaisko, iš jo
+    paėjo vadinami Daugėlos (nes jis po
+    šios pergalės buvo lietuviškai pra­
+    mintas Dauggalis - galingas, didis.
+    Žr. B a 1  i n s k i o Opisanie Statyst.
+    Wilna, 1. 177.
+    33
+    Žr. Hermano C  o  r  neri o,
+    dominikono, Kroniką, Naruševi­
+    čiau s t. VII, p. 342, kuris byloja:
+    Cives oppidi Vilnae, magis faventes Ja-
+    $il, filio Olgerdi, fratris Keystuti, cu-
+    currerunt unus post alium, ac si furem
+    quemdam insequerentur ad castrum
+    [Vilniaus miesto miestiečiai, labiau
+    palankūs Jogailai - Algirdo, Kęstu­
+    čio brolio, sūnui - subėgę vienas po
+    kito ir tarsi kokį piktadarį nuvarę į
+    pilį].
+    34
+    Wigand  apud Voigt, V, 369. Ultra
+    1000 hominum in occissione ceciderunt
+    et ita Butandus (Witowdus) fugit et
+    cum scandalo in longas processit patrias
+    [per 1 000 žmonių kautynėse žuvo,
+    ir taip Butandas (Vytautas) gėdingai
+    pasislėpė plačiose tėvo valdose].
+    35
+    Negalima dabar būtų tvirtai nuro­
+    dyti, kur būtent tarp Trakų ir Vil­
+    niaus turėję stovyklą tie kariai. Prū­
+    sijos istorikai yra tepasakę, kad
+    sustojo ant dviejų priešpriešinių kal­
+    nų.
+    37
+
+    ## Puslapis 54
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    stovyklą kuo greičiau susitarti. Tačiau, apsuptas išdavikų,
+    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
+    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
+    budelių pasmaugtas36.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176517
+
+- id: c-160517
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Trakų pusiasalio pilis, XIV a. pab. XV a. pr.
+    Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10092
+
+- id: c-160518
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to, jis buvo pačiam valstybės branduolio cen-
+    tre. Todėl čia greit išaugo didelis miestas, kurs tapo amžinąja
+    Lietuvos sostine. Netoli Vilniaus, sunkiai prieinamame Galvės
+    ežero pusiasaly, Gediminas pastatė dar kitą tvirtą pilį, kuri ilgą
+    laiką buvo tarytum antroji Lietuvos sostinė, — tai Trakai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10689
+
+- id: c-160519
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tas pakvietė juos į Vilnių, kur abudu
+    suėmė, nors kviesdamas Skirgaila buvo davęs žodį, kad jiems
+    nieko blogo neatsitiksią. Kęstučio ir Vytauto kariuomenė buvo
+    paleista, o jie patys buvo uždaryti kalėjime; Kęstutį netrukus
+    išvežė į Krėvos pilį, o Vytautą paliko Vilniuje. Krėvoje iška-
+    lėjęs 5 dienas, Kęstutis buvo nužudytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10693
+
+- id: c-160520
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Dail A. Penkowskis, 1838 m.
+    Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti
+    įsivaizduojami Lietuvos valdovų portretai
+
+    1 skyrius •  S E N O J I  L I E T U VA
+    35
+    kunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-
+    gaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis
+    (valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam
+    tapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-
+    čių dinastija.
+  citata_rodoma: "Italo Aleksandro Gvanjini (Alessandro Guagnini) XVI a. piešti \nįsivaizduojami Lietuvos valdovų portretai\n\n1 skyrius •  S E N O J I  L I E T U VA\n35\nkunigaikščiai – Gedimino sūnūs Algirdas ir Kęstutis, Algirdo sūnus Jo-\ngaila ir iškiliausias dinastijos atstovas Kęstučio sūnus Vytautas Didysis \n(valdė 1392–1430). Tiesa, Europoje žinomumu jį aplenkė Jogaila: jam \ntapus Lenkijos karaliumi (1386), atsirado Gediminaičių šakos Jogailai-\nčių dinastija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176532
+    - t-176528
+    - t-176534
+
+- id: c-160521
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios. Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę.
+  citata_rodoma: "Kivirčai tarp brolių da­\nvė pradžią slaptoms, bet sumaniai parengtoms sutartims \nsiekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo \nvaldos sostinės, turėjęs geriausių galimybių stebėti visus \nbrolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­\nriu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­\nnigaikščio buveinę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176519
+
+- id: c-160523
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau, apsuptas išdavikų,
+    buvo priverstas su sūnumi važiuoti į Vilnių, vėliau perkel­
+    tas į Krėvą, uždarytas tos pilies bokšte ir penktą naktį kelių
+    budelių pasmaugtas36. To garbingo karžygio palaikai Skir­
+    gailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­
+    rėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­
+    vo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas
+    iš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,
+    tačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­
+    vyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo
+    neišvengiamos pražūties.
+  citata_rodoma: "To garbingo karžygio palaikai Skir­\ngailos rūpesčiu buvo nuvežti į Vilnių, pagonių papročiu tu­\nrėjo būti sudeginti su visu tuo, ką jis dažniausiai naudoda­\nvo37. Galbūt ir Vytautą būtų ištikusi tėvo lemtis, juk pervežtas\niš Vilniaus į Krėvą po Kęstučio mirties irgi buvo įkalintas,\ntačiau jo stebėtina narsa ir žmonos Onos meilė, nesenu pa­\nvyzdžiu Europos istorijoje pasikartojusi, išgelbėjo jį nuo\nneišvengiamos pražūties."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-016
+
+- id: c-160524
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Žuvusiam maršalkai Schindekopui pamin-
+    klinis kryžius buvo pastatytas tuojau po
+    mūšio; jam sugriuvus, ant tų pačių pa-
+    matų 1835 m. buvo šis pastatytas. 1870 m.
+    trečią kartą atnaujintas, jis dabar vėl
+    kitaip atrodo.
+    tutis, o Vilniuje Algirdas pasikvietę kryžiuočių vadovybę,
+    padarė su ja sutartis, tačiau kryžiuočiai vis dėlto nesitraukė; ne-
+    pajėgdami paimti pilių, jie naikino miestus ir apylinkes. Tada
+    Kęstutis su sūnum Vytautu pradėjo su jais partizanišką karą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10692
+
+- id: c-160525
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Prie Gedimino
+    įpėdinių tik tas, kas valdė Vilnių, skaitėsi vyresniu už kitus, t. y.
+    didžiuoju kunigaikščiu. Todėl Kęstutis ir Algirdas, norėdami paimti
+    vyriausią valdžią, iš Vilniaus šalino brolį Jaunutį. Kęstutis vy­
+    riausiuoju Lietuvos valdovu tetapo 1381, kai pats, išvaręs Jogailą,
+    atsisėdo Vilniaus pilyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05189
+
+- id: c-160527
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 69"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 69."
+  citata_originali: |
+    1365 m. Kęstutis,
+    Algirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo
+    žygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį
+    belaisvį (SRP, 2, 349); 1378 m., kai Kęstutis sunaikino Ekersbergo pilį, jo kariai norėję
+    paaukoti dievams (diis sacrificare voluerunt) pilies komtūrą, bet Kęstutis nepritaręs
+    (SRP, 2, 596).
+  citata_rodoma: "1365 m. Kęstutis,\nAlgirdas, Patrikas ir Aleksandras įsiveržė į Ordino valdas, jas nuniokojo ir po sėkmingo\nžygio ugnyje dievams paaukojo (sacrificantes diis [...] in ignem proiciunt) vieną vokietį\nbelaisvį (SRP, 2, 349); 1378 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176518
+
+- id: c-160530
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    « Lietuvos diecezijai » buvo lemta greitai žlugti,
+    ypač, kai jos vyskupas Kristijonas jau 1259 m. turėjo galutinai
+    pasitraukti Vokietijon^7 , iš kurios ir jo įpėdiniai kojos lietuvių žemėn
+    nebeįkėlė.
+    Atsakymo reikalauja ir kitas faktas. Matomai Lietuvos valdo­
+    vai, kurie iki 1385 m. dar buvo pagonys, ar buvo pagoniškais pa­
+    pročiais palaidojami (paskutinieji jų, Algirdas 1377 m. ir Kęstutis
+    1382 m.), ir savo valdomą lietuvių tautą patys tebelaikė dar pago­
+    niška.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05188
+
+- id: c-160531
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Taip kar­
+    tojosi per 36 metus (1382-1418).
+    Jogaila turėjo pažadėti Žemaičius kryžiuočiams, kai jų remia­
+    mas nugalėjo Kęstutį. Du kartu iš Lietuvos pabėgęs, Kęstutaitis
+    abiem atvejais už Žemaičių užrašymą naudojosi ordino pagalba
+    (1382-1384, 1390-1392).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176529
+
+- id: c-160533
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    XV a. pr.
+    Manoma, kad pilį pastatė LDK Kęstutis iki 1377 m.
+    Pilis perstatyta ir baigta statyti valdant Lietuvos
+    didžiajam kunigaikščiui Vytautui 1414-1430 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176530
+
+- id: c-160534
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo. Be to, dar nerimą kėlė Gedimino valia ra­
+    dęsis itin didelis dalinių valdų išskaidymas į smulkias, dėl
+    ko apsilpo krašto galia, kuo mokėjo pasinaudoti Ordino
+    riteriai, gviešęsi grobio ir valdžios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176531
+
+- id: c-160535
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia. Vieno­
+    je Vytauto privilegijoje, suteiktoje
+    Trakams, rašytoje pod lita Bożeho na-
+    roienia 1384, mca Augusta 23 dnia In-
+    dykta, skaitome, kad Trakai jau tuo­
+    met, tai yra prieš krikščionybės
+    įvedimą Lietuvoje, buvo ganėtinai
+    svarbus Lietuvos miestas, kad ten
+    jau būta krikščionių bažnyčių, ir kad
+    už ežero, skalaujančio pilį, vadina­
+    mo Galve, buvęs kunigaikščio žvė­
+    rynas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-017
+
+- id: c-160536
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lietuvių kalboje
+    iki šiol girdime žmonių vartojamą
+    ^°dį „trakas", kuris reiškia lydimus,
+    ikusius iškirtus beržus - išnaikintas
+    beržynėlis! Trakų pilis, reikia many­
+    ti, taip pat yra buvusi sena, galbūt
+    dar prieš Gediminą, gynybinė ir me­
+    džiotojų gyvenvietė. Gediminas
+    trumpam buvo ją padaręs savo sos­
+    tinės pilimi, ir tik Kęstutis bei jo sū­
+    nus Vytautas išplėtė ir pritaikė nuo­
+    latinei buveinei, paversdami galingų
+    kunigaikščių garbei derančia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176516
+
+- id: c-160537
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl
+    jai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­
+    nės vertės, bet ir kaip priemonė atsiginti nuo įkyrėjusių Vok,
+    Ordino karų. Gediminas, Algirdas ir Kęstutis daug ja nepasi­
+    tikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­
+    kratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę. Ji­
+    sai susidėjo su Vok.
+  citata_rodoma: "Pastarasis dalykas Lietuvai buvo labai svarbus, ir todėl\njai krikštas buvo reikalingas ne tik dėl jo kilnumo ir kultūri­\nnės vertės, bet ir kaip priemonė atsiginti nuo įkyrėjusių Vok,\nOrdino karų. Gediminas, Algirdas ir Kęstutis daug ja nepasi­\ntikėjo, bet Jogaila, tapęs didž. kunigaikščiu ir, norėdamas nusi­\nkratyti Kęstučiu ir Vytautu, nukreipė akis į šią priemonę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176525
+
+- id: c-160538
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176515
+
+- id: c-168122
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 25"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 25."
+  citata_originali: |
+    Min­
+    tis apie taurumo ryšį su grožiu paimta iš humanistų.
+    Didžiausios autoriaus
+    pagarbos nusipelnė Kęstutis.
+    J is — „vyras vingraus proto, mokėjęs atremti bet kokį
+    likimo smūgį", surasdavo „išeitį iš bemaž beviltiškos
+    padėties".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184761
+
+- id: c-168123
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Taip jau yra, kad
+    trokštantis aukščiausios vietos niekad nepasitenkins
+    žemesne pareigybe, o godžiai bausis užimti aukštesnę;
+    217
+
+    ## Puslapis 216
+
+    kad kiekvienas, matydamas aukštesnėje vietoje neken­
+    čiamą žmogų, jaučiasi pažemintas. Ilgą laiką šiaip ne
+    taip tramdoma nesantaika pavirto tikru sąmokslu: Kęs­
+    tutis bei Algirdas slapta sutarė iš Jaunučio atimti val­
+    džią. Kadangi Algirdas ar iš-
+    Iš Ja u n u čio  a tim a m a
+    sisukinėjo, ar tikrai sutartu
+    v a ld ž ia
+    laiku negalėjo iš Vitebsko
+    atvykti, Kęstutis, netoli sos­
+    tinės esančiuose Trakuose tvarkęs visus sąmokslo rei­
+    kalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­
+    menę ir paryčiu užėmė abi pilis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184762
+
+- id: c-168124
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 221."
+  citata_originali: |
+    Atsakydamas Algirdas neužmiršo savi­
+    tvardos, nenorėdamas ūmiu pykčio protrūkiu prarasti
+    progą tartis. Jis įsakė gražiai priimti žygūną, tuo tar­
+    pu pats su broliu Kęstučiu (kaip tik tuo metu atvy­
+    kusiu) skubiai aptarė reikalą ir be galo greitai, niekam
+    nė žodžio nesakydamas, pasirengė karui. Iš visos Lie­
+    tuvos, Žemaitijos ir Rusios sukvietė kunigaikščius su
+    kariaunomis, o pirmiausia — savo brolius; kai apie ga­
+    vėnios vidurį sutartą dieną jie pasirodė prie Vitebsko,
+    kariuomenė ir patraukė į Maskvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184763
+
+- id: c-168125
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
+  citata_originali: |
+    Tad šis, norėdamas apginti savo teises į Ru­
+    sią, nutarė, jog pirmiausia būtina kariauti su lietuviais.
+    Mat Rusią valdė Algirdo broliai: Liubartas — Lvovą,
+    Kęstutis — dideles žemes kitur Rusioje, o Jurgis Nari-
+    mantaitis, jų brolėnas,— Kremenecą. Vis dėlto lenkai
+    turėjo vengti karo su lietuviais, antraip galėjo palūžti
+    iš karto susidūrę su daugybe kliūčių ir karo sunkeny­
+    bių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184764
+
+- id: c-168126
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Išsiruošęs į žygį, Kazimieras nuniokojo Vla­
+    dimiro apygardą ir užėmė krašto sostinę. Kovėsi jis
+    ir su vienu lietuvių pulku, užpuolusiu karaliaus sto­
+    vyklą: lietuviai tapo išsklaidyti, o pats kunigaikštis
+    L en kai,
+    su m u šę
+    lie ­
+    tu v iu s, atg a u n a  d a lį
+    V o ly n ė s
+    238
+
+    ## Puslapis 237
+
+    Kęstutis gyvas pakliuvo į priešų rankas. To pat karo
+    metu Vladimire apsuptas Liubartas išvengė lenkų ne­
+    laisvės dėl vieno kario ypatingo drąsumo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184765
+
+- id: c-168127
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 237."
+  citata_originali: |
+    Už šį nuopelną
+    kunigaikščio apdovanotas žemėmis ir nauju herbu,
+    jis davė pradžią naujai kilmingųjų Ivanickių šeimai.
+    Tuo tarpu su Kęstučiu nugalėtojai elgėsi pagarbiai,
+    žiūrėdami į jį lyg į karalių; kai jis suteikė šiokių to­
+    kių vilčių, sakydamasis galįs priimti krikščionybę,
+    sargybiniai, kurie jį saugojo, ėmė dar švelniau su juo
+    elgtis. Tuo būdu radęs progą užmigdyti sargybinių
+    budrumą, jis paspruko nakties tamsoje iš kalėjimo ir,
+    nusigavęs be kliūčių pas savuosius, netrukus su bro­
+    liu Liubartu įvedė į karaliaus užimtas Rusios žemes
+    kariuomenę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184766
+
+- id: c-168128
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 242"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 242."
+  citata_originali: |
+    Daug valandų truko
+    žiauri, nė vienai šaliai pergalės nežadėjusi kova; ga­
+    lop vokiečiai, geriau apsiginklavę ir išsidėstę patoges­
+    nėje vietoje (mat kovojo gerai įtvirtintoje stovykloje)
+    nei lietuviai, paveržė iš jų pergalę. Kęstutį, kuris ban­
+    dė ne tik sumanumu, bet jėga bei ginklu atstatyti tvar­
+    ką irstančioje rikiuotėje, galingais kalavijo smūgiais
+    atremdamas kiekvieną narsų priešą, nubloškė nuo žir­
+    go Henrikas Ekersbergas, riteris paauksuotais šarvais,
+    kuris smogė arkliui ietimi iš šono; netrukus apsuptas
+    subėgusiųjų, jis pateko į priešų rankas. Išvydo tėvui
+    gresiantį pavojų jo sūnus Patrikas ir nelyginant įgel­
+    tas (jis buvo tauraus būdo ir
+    S ū n au s
+    m eilė
+    tė v u i
+    labai mylėjo tėvą) pavarė
+    ir karių  m e ilė v a d u i
+    žirgą link susigrūdusių prie­
+    šų, norėdamas pagelbėti tė­
+    vui; aklai kalaviju skindamasis kelią prie tėvo, jis
+    susilaukė bemaž tokio pat likimo: kryžiuotis Henri­
+    kas Hochbergas ietimi nutrenkė jį nuo žirgo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184767
+
+- id: c-168129
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 250"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 250."
+  citata_originali: |
+    Kęstučiui be galo
+    rūpėjo kuo greičiausiai pra­
+    dėti karą, kuriuo neseniai pagrasino ir kurį per neat­
+    sargumą pažadėjo pradėti. Delsti jis pajėgė tik tol,
+    kol susirengė į didesnį žygį. Norint pulti priešą, kuris
+    laukė, kol jis tesės duotą
+    K ę stu tis n io k o ja  Prū-
+    žodį, reikėjo iš tiesų galin-
+    siją
+    gos kariuomenės, todėl į žy­
+    gį išsirengė ne tik su savo
+    bei brolio Algirdo pulkais, sutelktais iš Lietuvos, Že­
+    maitijos ir Rusios", bet ir su pakviestais į pagalbinin­
+    kus totoriais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184768
+
+- id: c-168130
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
+  citata_originali: |
+    Tuo tarpu lietuviai, išsaugoję likusius
+    karius, ramiai patraukė namo, išsigabendami laimikį —
+    visą grobį. Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
+    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
+    didžiulę kariuomenę; šių jė­
+    gų remiami kryžiuočiai už­
+    puolė Žemaitiją ir, padaliję
+    pulkus keturiomis žygio vo­
+    romis, nusiaubė visą kraštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184769
+
+- id: c-168131
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 268"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 268."
+  citata_originali: |
+    Kęstutis, savo ruožtu
+    apie viską sužinojęs, paliko rusų pulkus, turėjusius
+    toliau pulti Seversko Nau-
+    K ęstu tis traukia p rieš
+    gardą ir ginti apylinkes nuo
+    Jogailą, su p a  T raku s
+    Kaributo antpuolių, o pats
+    skubiai sugrįžo į Žemaitiją;
+    čia greitosiomis surinkęs kariuomenę, persikėlė per
+    Nerį ir susijungė su Vytautu, jau sutelkusiu gardinie­
+    čių pulkus. Kadangi neseniai per pasiuntinius buvo pra­
+    šęs pagalbos iš Jonušo, Mazovijos kunigaikščio bei
+    savo žento, ir toji pagalba diena iš dienos turėjo at­
+    vykti, jis kol kas nieko nedarė, nenorėdamas prieš Jo­
+    gailą traukti su nedidele kariuomene ir be pagalbinin­
+    kų stoti į lemiamą mūšį. Kad kariai turėtų kokį užsi­
+    ėmimą ir kad neleistų tuščiai laiko, jis pradėjo pulti
+    Trakus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184770
+
+- id: c-168132
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 269"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 269."
+  citata_originali: |
+    Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi. Ta­
+    čiau šis senas karys ir vadas, pasikliaudamas savo rei­
+    kalo teisumu ir žinodamas, jog atsitraukimas neatneš
+    išsigelbėjimo, tik gėdą, ryžtingai patraukė prieš Jo­
+    gailą ir atvirame lauke išrikiavo savo pulkus. Abi ka­
+    riuomenės kovos tvarka stovėjo priešais viena kitą:
+    šiapus — nevilties į priekį varomi Kęstučio kariai, pa­
+    siryžę atkakliai žingsnis po žingsnio veržtis į kovą ir
+    mirtį, anapus — Jogaila, kuris nors neabejojo savųjų
+    pergale, numanė, jog kova pareikalaus didelių aukų,
+    ir todėl nutarė pirmiau pabandyti vilioti patiklias šir­
+    dis klastingais žodžiais nei pulti kovų užgrūdintus vy-
+    monėmis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184771
+
+- id: c-168133
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184772
+
+- id: c-171463
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 154"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 154."
+  citata_originali: |
+    Birutė (Biruta)
+    Žemaičių didiko* duktė29, kuri iš pašaukimo tapo vaidilu­
+    te būryje mergelių, saugojančių šventą Praurimės aukuro ug­
+    nį netoli Palangos, ant švento kalno. Žemaičių ir Trakų kuni­
+    gaikščiui Kęstučiui, grįžtančiam iš žygio prieš kryžiuočius, pa­
+    sitaikė pažinti tą nepaprastai reto grožio mergelę, pamilo ją
+    ir, kai ji turėjo atsisakyti duoti ranką dėl skaistybės įžado, kurį
+    buvo davusi deivei, jis išsivežė ją prieš jos valią į savo kuni­
+    gaikštysčių sostinę, arba į Naujuosius Trakus, ir ten vedė kaip
+    žmoną. Su ja Kęstutis turėjo sūnus Patriką, Vytautą, Tautvilą,
+    Sigailą, arba Žygimantą, bei dukterį Danutę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188574
+
+- id: c-171464
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 214"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 214."
+  citata_originali: |
+    Iš jos sūnūs: Manvydas
+    (Montwid, tai reiškia: Vidos pasaulis) gimė 1276 metais ir Na­
+    rimantas (Narimund, tai reiškia: Pasaulio pabaiga, nes Vida
+    mirė tuoj po jo gimimo) -  1277 metais. Antroji žmona buvo
+    Smolensko kunigaikštytė Olga. Išjos sūnūs: Algirdas (Olgerd,
+    tai reiškia: Olgos meilė4 5), gimęs 1296 metais, ir Kęstutis (Kiej-
+    stut, tai reiškia: Klastūnas -  Fortelnik) - 1297 metais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188575
+
+- id: c-171465
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Antai Lydos apskrityje, Žirmūnų parapijoje, yra miškas,
+    kurio vardas Trakai (Troki). Ta pati mintis ateina Okolskiui
+    straipsnyje apie Vyčio herbą, kur jis kalba apie Gediminą, ta­
+    čiau klysta Strijkovskio suvedžiotas, kad Trakus taip praminęs
+    Gediminas, kadangi Gediminas įkūrė ne Senuosius, bet Nau­
+    juosius Trakus, o ne Kęstutis. Lietuviai minėtus diržus vadina
+    Risietis, taigi jiems nebuvo reikalo skolintis iš svetimos kalbos
+    daikto pavadinimo, nes jį turėjo savo pačių kalboje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188576
+
+- id: c-176572
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Karijotui7  davė Naugarduką, Liubartui *  —
+    Vladimirą su Lucku ir Volynės žemę * . O šiuos du sa­
+    vo sūnus paliko didžiaisiais kunigaikščiais: Jaunulį0
+    savo sostinėje Vilniuje ir Lietuvos Didžiojoje Kuni­
+    gaikštystėje, o Kęstutį1 0  Trakuose bei visoje Žemaičių
+    žemėje. Ir, apdalijęs juos, pats garbingai pasimirė ",
+    Kęstutis, viešpataudamas Trakuose bei Žemaičiuose,
+    išgirdo esant Palangoje mergelę, vardu Birutę, kuri pa­
+    gonišku papročiu buvo pasižadėjusi savo dievams iš­
+    saugoti skaistybę ir pati buvo žmonių garbinama kaip
+    dievaitė '2 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193947
+
+- id: c-176573
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Ir sutarė dieną, kurią jie turės būti prie
+    Vilniaus.
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193948
+
+- id: c-176574
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
+  citata_originali: |
+    Ir man pačiam
+    jis taip pat davė žodį kunigaikščio Jogailos vardu ir
+    savo vardu, ir [davėj savo ranką. Ir mūsų tėvas pati­
+    kėjo jais, ir aš, ir nujojome sykiu su kunigaikščiu Jo­
+    gaila, pasitikėdami jų duotu žodžiu ir ranka. Ir po duo­
+    to žodžio suėmė jie mūsų tėvą ir jį nužudė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193949
+
+- id: c-176575
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 0  Kęstutis — ketvirtas a r penktas Gedimino sūnus, gimęs apie
+    1300 m. Nuo kada pradėjo valdyti Trakus ir koks buvo pradinis
+    jo  dalies plotas — tikslesnių žinių nėra. 1341 m. neabejotinai valdė
+    Žemaičius, Trakų kunigaikštystę su Gardinu ir Palenkę su Brastų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193950
+
+- id: c-177343
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Taigi Kęstučio dvaras buvo vie­
+    ta, kur daugiausia turėta žinių apie visus kaimynus. Netenka
+    abejoti, kad tokiose sąlygose beaugąs Vytautas galėjo anksti
+    susipažinti su valstybės reikalais. Nesibaigią karo žygiai iš
+    mažens auklėjo jame karingumą, kuriuo jis vėliau taip pasižy­
+    mėjo. Atkakli jo tėvo kova dėl gimtojo krašto turėjo žadinti ir
+    Vytauto sieloje didelę tėvynės meilę — nors apie patriotizmą
+    dabartine žodžio prasme kalbėti netenka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194947
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Birutė]]
-- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]]
+- Sūnūs: [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Patrikas|Patrikas (kunigaikštis, XIV a.)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
 - Tėvai: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Dukterys: [[objektai/asmenys/Danuta]], [[objektai/asmenys/Danutė]]
-- Broliai: [[objektai/asmenys/Narimantas Gediminaitis]], [[objektai/asmenys/Žygimantas]]
-- Priešai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vladislovas Jogaila]]
-- Sąjungininkai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Patirgas]], [[objektai/asmenys/Svirdeika]]
-- Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Verneris fon Vindekenas]]
-- Kariavo prieš: [[objektai/asmenys/Dimitras Kaributas]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]]
-- Paskyrė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Rėmė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/grupes/Bajorai]], [[objektai/grupes/Žemaičiai]]
-- Turėjo priklausinį: [[objektai/vietos/Kęstučio dvaras]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Brasta]], [[objektai/vietos/Gardinas]], [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Jurbarkas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Žemaičių žemė]]
+- Dukterys: [[objektai/asmenys/Danutė]]
+- Broliai: [[objektai/asmenys/Narimantas Gediminaitis]]
+- Puolė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/asmenys/Verneris fon Vindekenas]]
+- Kariavo prieš: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Rėmė Kęstutį (vakarų pasienio valdovas, XIV–XV a.): [[objektai/grupes/Žemaičiai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valdė [[objektai/vietos/Gardino žemė]], [[objektai/vietos/Palenkė]], [[objektai/vietos/Trakai]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė [[objektai/vietos/Krėva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/daiktai/Laužas]], [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Kaunas]], [[objektai/vietos/Naujasis Kaunas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Sandomiras]], [[objektai/vietos/Vėluva]], [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys)]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Želva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo palaidotas [[objektai/vietos/Vilnius]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) pastatė [[objektai/vietos/Naujasis Kaunas]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) puolė [[objektai/vietos/Vilniaus pilis]], [[objektai/vietos/Vilniaus pilys]], [[objektai/vietos/Vilnius]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) apgulė [[objektai/vietos/Jurbarkas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) užėmė [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gynė [[objektai/vietos/Nevėžio žiotys]], [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) siuntė į [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Maskva]], [[objektai/vietos/Mazovija]], [[objektai/vietos/Nadruva]], [[objektai/vietos/Semba]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) kariavo prieš [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Vokiečiai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo mūšyje [[objektai/ivykiai/Kęstučio žygis į Sembą ir mūšis su kryžiuočiais (1370 m.)]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) surengė žygį į [[objektai/vietos/Nadruva]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) sudarė sutartį su [[objektai/grupes/Kryžiuočių ordinas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) rėmė [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

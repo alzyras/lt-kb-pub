@@ -14,6 +14,18 @@ tags:
   - mūšis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užpelkių kautynės (1949 m.)
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-10308"></a>
 - t-001
   global_id: t-10308
-  teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai.'
+  teiginys: "1949 m. rugpjūčio 13 d. Užpelkių miške sunaikintas Prisikėlimo apygardos štabas; žuvo LLKS tarybos prezidiumo nariai Petras Bartkus-Žadgaila, Bronius Liesis-Naktis, Vytautas Šniuolis-Svajūnas ir dar trys neatpažinti partizanai."
   pagrindžia:
-    - c-001
-
+    - c-11932
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,10 +77,35 @@ Nenurodyta
     nės vadas Juozas Paliūnas-Rytas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
+## Citatos
+
+- id: c-11932
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1949 m. rugpjūčio 13 d. Radviliškio r.
+    Užpelkių miške sunaikintas Prisikėlimo
+    apygardos štabas. Žuvo LLKS tarybos pre-
+    zidiumo nariai Petras Bartkus-Žadgaila
+    (Prisikėlimo apygardos vadas) ir Bronius
+    Liesis-Naktis, Prisikėlimo apygardos
+    štabo viršininkas Vytautas Šniuolis-Svajū-
+    nas ir dar trys neatpažinti partizanai.
+    Rusų nuostoliai nežinomi. Apygradoje
+    prasidėjo reorganizacija: Prisikėlimo
+    apygardos vadu tapo Povilas Morkūnas-
+    Rimantas, pavaduotoju - Maironio rinkti-
+    nės vadas Juozas Paliūnas-Rytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10308

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Traidenio ir Skomanto žygiai į Mazoviją, Kulmo žemę, Kujaviją ir Lenčicą
 
@@ -29,17 +41,16 @@ Nenurodyta
 <a id="claim-t-185647"></a>
 - t-001
   global_id: t-185647
-  teiginys: 'Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę.'
+  teiginys: "Traidenis su trečdaliu savo kariuomenės nusiaubė Mazoviją, o su likusiais dviem trečdaliais puolė Kulmo žemę."
   pagrindžia:
-    - c-001
+    - c-169008
 
 <a id="claim-t-185648"></a>
 - t-002
   global_id: t-185648
-  teiginys: 'Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją.'
+  teiginys: "Skomantas su žemaičių ir sūduvių kariais sudegino Liubavos ir Kulmo miestus ir nusiaubė visą Kujaviją."
   pagrindžia:
-    - c-002
-
+    - c-169009
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +71,7 @@ Nenurodyta
     vė pilį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +91,56 @@ Nenurodyta
     miestus ir nusiaubė visą Kujaviją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169008
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
+  citata_originali: |
+    Vargu ar galima patikėti, kad per
+    tokį trumpą laiką po Šventaragio mirties (tai yra vos
+    per dešimtmetį) jo proanūkiai būtų suaugę ne tik bran­
+    džiais jaunikaičiais, bet ir vyrais, galinčiais valstybę
+    valdyti. Valdovo sūnus ar seserėnas Traidenis, pačiam
+    Giliginui dar esant gyvam, išsivedė sutelkęs ir apgink­
+    lavęs asmeniškomis lėšomis trisdešimties tūkstančių
+    kariuomenę iš Lietuvos ir Prūsijos: su trečdaliu kariuo­
+    menės jis nusiaubė Mazoviją, o su likusiais dviem treč­
+    daliais— Kulmo žemę. Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185647
+
+- id: c-169009
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 132"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 132."
+  citata_originali: |
+    Po atkaklios apsiausties užėmęs
+    Birgelavą, išžudė kryžiuočių įgulą ir iš pamatų sugrio­
+    vė pilį. Traideniui su didžiuliu grobiu pasitraukus iš
+    priešų krašto, beveik jo pėdomis įsiveržė čia naujas
+    priešas ir vėl nusiaubė viską ugnimi ir kalaviju. \ tas
+    pačias žemes įsibrovė Skomantas su žemaičių ir sūdu­
+    vių kariais: jis sudegino apiplėštus Liubavos ir Kulmo
+    miestus ir nusiaubė visą Kujaviją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185648

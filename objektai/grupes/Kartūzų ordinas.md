@@ -16,6 +16,18 @@ tags:
   - popiežius
 amziai:
   - 'XI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kartūzų ordinas
 
@@ -28,9 +40,9 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
 <a id="claim-t-63007"></a>
 - t-001
   global_id: t-63007
-  teiginys: 'Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais.'
+  teiginys: "Kartūzų ordinas datuojamas 1082 metais, popiežiaus Viktoro III laikais."
   pagrindžia:
-    - c-001
+    - c-63916
 - susijęs iš [[objektai/grupes/Kluniečių ordinas.md#claim-t-63010|Kluniečių ordinas]]: Kluniečių ordinas datuojamas 900 Viešpaties metais, popiežiaus Adrijono III laikais.
 ## Reikšmingi paminėjimai
 
@@ -43,7 +55,27 @@ Dusburgietis teigia, kad kartūzų ordinas — 1082 viešpaties metais popiežia
       Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63916
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  citata_originali: |
+    Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).
+      Cistersų ordinas — 1097 viešpaties metais.
+      Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais.
+  citata_rodoma: "Kartūzų ordinas — 1082 viešpaties metais popiežiaus Viktoro III laikais (Ptol. p. 1078).\n  Cistersų ordinas — 1097 viešpaties metais.\n  Švento Jono ligoninės ordinas — 1104 viešpaties metais popiežiaus Urbono II laikais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63007

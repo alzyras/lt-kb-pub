@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Taškento konferencijos dėl rusų kalbos stiprinimo SSRS (1975 ir 1979 m.)
 
@@ -41,10 +53,9 @@ Nenurodyta
 <a id="claim-t-20518"></a>
 - t-001
   global_id: t-20518
-  teiginys: 'Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją.'
+  teiginys: "Taškento konferencijų dalyviai sutarė stiprinti rusų kalbą SSRS mokymo įstaigose ir gerinti rusų kalbos mokytojų kvalifikaciją."
   pagrindžia:
-    - c-001
-
+    - c-23242
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +76,36 @@ Nenurodyta
     jos aspektą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23242
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vadovėliai, išskyrus lietuvių kalbos ir literatūros bei Lietuvos istorijos
+    (jai buvo skirta mažai dėmesio, praeities įvykiai klastojami ir interpretuoja-
+    mi pagal klasių kovos principą į pirmą vietą iškeliant visada pozityvų SSRS
+    ir ypač SSKP vaidmenį), versti iš rusų kalbos, o rusų kalbai skirtas ypa-
+    tingas dėmesys. 1975 ir 1979 m. Taškento konferencijų dalyviai sutarė dėl
+    rusų kalbos stiprinimo SSRS – įvairaus lygio mokymo įstaigose papildomai
+    dėstyti rusų kalbą, didinti rusų kalbos fakultatyvų valandų skaičių, susti-
+    printi aukštųjų mokyklų rusų kalbos katedrų kadrų kvalifikaciją, organi-
+    zuoti rusų kalbos kvalifikacijos tobulinimo kursus mokytojams, rajonuose
+    įrengti rusų kalbos metodinius kabinetus, peržiūrėti ir pagerinti rusų kal-
+    bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti
+    komunikaciją tarp šalies gyventojų, bet ir turėjo slaptą kultūrinės ekspansi-
+    jos aspektą.
+  citata_rodoma: "bos mokymui būtinų knygų leidybą ir t. t. Ši programa siekė ne tik pagerinti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20518

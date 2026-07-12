@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Chlepenis
 
@@ -26,16 +38,16 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
 <a id="claim-t-187213"></a>
 - t-001
   global_id: t-187213
-  teiginys: 'Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos.'
+  teiginys: "Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos."
   pagrindžia:
-    - c-001
+    - c-170283
 
 <a id="claim-t-187214"></a>
 - t-002
   global_id: t-187214
-  teiginys: 'Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.'
+  teiginys: "Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas."
   pagrindžia:
-    - c-001
+    - c-170283
 - susijęs iš Rohačevas: Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.
 - susijęs iš Liubuckas: Pagal 1494.II.5 sutarties rezultatą Liubuckas paliko LDK.
@@ -56,11 +68,30 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
     santakos).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
 
-## Ryšiai
-- Chlepenis priklausė [[objektai/vietos/Viazma]]
+## Citatos
+
+- id: c-170283
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    * Vtazma — dabar RTFSR miestas (apie 150 km į rytus nuc
+    Smolensko).
+    5  Chlepenis — anuom et Vlazmos žemės miestas (apie 40 km
+    į pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų,
+    santakos).
+  citata_rodoma: "5  Chlepenis — anuom et Vlazmos žemės miestas (apie 40 km \nį pietus nuo Rževo, arti Gžatės Ir Vazuzos upių. Volgos intakų, \nsantakos)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187214
+    - t-187213

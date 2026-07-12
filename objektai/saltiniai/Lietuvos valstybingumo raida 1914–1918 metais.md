@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos valstybingumo raida 1914–1918 metais
 
@@ -27,10 +39,9 @@ Lietuvos valstybingumo raida 1914–1918 metais.
 <a id="claim-t-78155"></a>
 - t-001
   global_id: t-78155
-  teiginys: 'Lietuvos valstybingumo raida 1914–1918 metais.'
+  teiginys: "Lietuvos valstybingumo raida 1914–1918 metais."
   pagrindžia:
-    - c-001
-
+    - c-75463
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +52,26 @@ Lietuvos valstybingumo raida 1914–1918 metais.
     Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75463
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ams-
+    terdam–New York, 2010.
+    Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996.
+  citata_rodoma: "Lopata R. Lietuvos valstybingumo raida 1914–1918 metais. Vilnius, 1996."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78155

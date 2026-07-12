@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vikingai
 
@@ -27,17 +39,18 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
 <a id="claim-t-66261"></a>
 - t-001
   global_id: t-66261
-  teiginys: 'Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų.'
+  teiginys: "Palei upių prekybos kelią ilgainiui atsirado vikingų sodybų, kurių gyventojai saugojo pirklius nuo plėšikų."
   pagrindžia:
-    - c-001
+    - c-46405
 
 <a id="claim-t-182930"></a>
 - t-002
   global_id: t-182930
-  teiginys: 'Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų.'
+  teiginys: "Prie Dauguvos ir Dniepro kelio į Bizantiją ilgainiui atsirado vikingų sodybų, saugojusių upe keliaujančius pirklius nuo plėšikų."
   pagrindžia:
-    - c-002
+    - c-166331
 - susijęs iš Biarmija: Narbutas Biarmiją iki vikingų atsikraustymo į Didįjį Naugardą apibūdino kaip atskirą valstybę, palaikiusią santykius su Naugardo slavais.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
 - susijęs iš [[objektai/grupes/Biarmiai.md#claim-t-189431|Biarmiai]]: Narbutas rašė, kad iki vikingų atsikraustymo į Didįjį Naugardą Biarmija, palaikydama ryšius su Naugardo slavais, sudarė atskirą valstybę.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -65,7 +78,8 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     pirklius nuo plėšikų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -83,10 +97,49 @@ Ilgainiui paliai šitą kelią atsirado vikingų sodybų: tai buvo sodybos žmon
     guvy.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Vikingai keliavo į [[objektai/vietos/Naugardas]], [[objektai/vietos/Nemunas]]
+## Citatos
+
+- id: c-46405
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Skandinavai, būdami energingiausi iš šiaurės Europos tautų, tu-
+    rėjo nuolatinį upių susisiekimą su Bizantija. Vienas iš jų svar-
+    biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia
+    jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
+    upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
+    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
+    pirklius nuo plėšikų.
+  citata_rodoma: "Ilgainiui paliai šitą kelią atsirado vikingų so-\ndybų: tai buvo sodybos žmonių, saugančių upe keliaujančius\npirklius nuo plėšikų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66261
+
+- id: c-166331
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vienas iš jų svar-
+    biųjų upių kelių į Bizantiją buvo Dauguva ir Dniepras (čia
+    jiems tekdavo sausuma pereiti tiktai nedidelį tarpą, skiriantį tų
+    upių aukštupius). Ilgainiui paliai šitą kelią atsirado vikingų so-
+    dybų: tai buvo sodybos žmonių, saugančių upe keliaujančius
+    pirklius nuo plėšikų. Tad nemaža tokių sodybų buvo ir Padau-
+    guvy.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182930

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos didysis kunigaikštis
 
@@ -17,30 +29,38 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 <a id="claim-t-185374"></a>
 - t-001
   global_id: t-185374
-  teiginys: 'Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.'
+  teiginys: "Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo."
   pagrindžia:
-    - c-001
+    - c-168735
 
 <a id="claim-t-185375"></a>
 - t-002
   global_id: t-185375
-  teiginys: 'Aleksandrą Vytautą paskelbus Lietuvos didžiuoju kunigaikščiu, Kojelavičius valstybės klestėjimą siejo su jo viešpatavimu.'
+  teiginys: "Aleksandrą Vytautą paskelbus Lietuvos didžiuoju kunigaikščiu, Kojelavičius valstybės klestėjimą siejo su jo viešpatavimu."
   pagrindžia:
-    - c-002
+    - c-168736
 
 <a id="claim-t-185376"></a>
 - t-003
   global_id: t-185376
-  teiginys: 'Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo.'
+  teiginys: "Lenkų istorikų teigimu, Kazimieras turėjo valdyti Lietuvą brolio vardu ir nesisavinti Lietuvos didžiojo kunigaikščio titulo."
   pagrindžia:
-    - c-003
+    - c-168737
 
 <a id="claim-t-185377"></a>
 - t-004
   global_id: t-185377
-  teiginys: 'Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas.'
+  teiginys: "Kazimierą rėmę lietuviai aiškino, kad Lietuvai reikalingas savarankiškai sprendžiantis valdovas, o ne karaliaus vietininkas."
   pagrindžia:
-    - c-004
+    - c-168738
+
+<a id="claim-t-193379"></a>
+- t-005
+  global_id: t-193379
+  teiginys: "Tačiau nei viena, nei kita pergalė negalė jusi, pasak metraštininkų, atsverti nuostolių, kuriuos Lenkija tais metais patyrė iš lietuvių: Lukovo apylin kės, Sandomiro bei Liublino žemės tapo visiškai nu niokotos ir išdegintos."
+  pagrindžia:
+    - c-176104
+- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-190990|Traidenis (valdovas, XIII a.)]]: Narbutas Traidenį vadina Narimanto broliu, Jotvingijos ir Dainavos kunigaikščiu, turėjusiu priklausyti Lietuvos didžiajam kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114105|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Žygimantas Kęstutaitis, sutelkęs lietuvių pajėgas ir gavęs Vladislovo Jogailaičio pagalbą, ėjo į Trakus.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
@@ -50,6 +70,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’as Gramont’as rašė, kad totoriai Lietuvoje valdė laisvuosius dvarus ir sudarė lengvąją raitiją.
 - susijęs iš Lietuvos bajorijos raštas (1700 m.): Lietuvos bajorijos rašte totoriai apibūdinti kaip lengvoji raitija, gerai aprūpinta ir ginkluota kaip kazokai.
+- susijęs iš Lietuvos kronika: Narbutas rašo, kad Lietuvos didysis kunigaikštis Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir primetė gyventojams savo paskirtą valdovą.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Korčinas: Į Korčino seimą Vytautas iš pradžių nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.
@@ -66,6 +87,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis).md#claim-t-19052|Kazimieras (Lietuvos didysis kunigaikštis)]]: Lietuvos didysis kunigaikštis Kazimieras buvo Kazimiero, gimusio 1458 m. ir mirusio 1484 m., tėvas.
+- susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-190930|Narimantas (Pinsko kunigaikštis)]]: Narbutas pasakoja, kad Narimantas apie 1268 m. įsiveržė į jotvingių Polesę ir privertė gyventojus priimti jo paskirtą valdovą Traidenį.
 - susijęs iš [[objektai/asmenys/Rumbaudas.md#claim-t-184824|Rumbaudas]]: Vytautas į Korčino seimą iš pradžių nusiuntė Lietuvos maršalą Rumbaudą ir Vilniaus vaivadą Goštautą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40516|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176739|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas LDK apgyvendino musulmonų totorių ir karaimų bendruomenes.
@@ -129,6 +151,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     dino pilių viršininkų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,6 +186,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     paprastai be vargo pasiekdavo tai, kam pasiryždavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,6 +208,7 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     vadovas būtų ginklu pasigrobęs valdžią.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,7 +229,184 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
     pavojų gyvenantys lenkai?
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+- c-005
+  santrauka: 'Tačiau nei viena, nei kita pergalė negalė jusi, pasak metraštininkų, atsverti nuostolių, kuriuos Lenkija tais metais patyrė iš lietuvių: Lukovo apylin kės, Sandomiro bei Liublino žemės tapo visiškai nu niokotos ir išdegintos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Tačiau nei viena, nei kita pergalė negalė­
+    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
+    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
+    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
+    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą. Siekdamas šio tikslo, turėjo jis ir bendrininkų,
+    kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius
+    Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove,
+    kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu
+    pasitraukę.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-168735
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Alek­
+    sandras Vytautas su žmona
+    Ona savo bei savo palikuonių vardu turįs prisiekti, kad
+    jis su visomis Lietuvos valdomis amžinai liksiąs paklus­
+    nus bei ištikimas karaliui; šventai saugosiąs Lietuvos
+    kunigaikštystės sąjungą ir sandraugą su Lenkijos ka­
+    ralyste, nebandydamas nei nuo jos atsiskirti, nei ją pa­
+    žeisti; visada laikysiąs savo draugais ir priešais Lenkijos
+    karalystės bei Lenkijos karaliaus draugus ir priešus; su
+    Skirgaila visada stengsiąsis gyventi taikoje ir broliškoje
+    santarvėje; skirsiąs lėšų ir duosiąs karių atkariauti Skir­
+    gailai bei jo palikuonims Kijevo kunigaikštystę su viso­
+    mis jos valdomis, tuojau pat jam atiduosiąs valdyti Tra­
+    kus, Kremenecą ir kai kurias kitas mažesnes valdas.
+    Tuo tarpu Kazimieras Skirgaila, pasitenkinęs gautomis
+    kunigaikštystėmis, nesieksiąs Lietuvos didžiojo kuni­
+    gaikščio vardo. Karalius Jogaila neskirsiąs be Vytauto
+    330
+
+    ## Puslapis 329
+
+    žinios ir sutikimo Vilniaus, Vitebsko, Merkinės ir Gar­
+    dino pilių viršininkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185374
+
+- id: c-168736
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Greitai sutvar­
+    kius tai, kas nereikalavo laiko, Vytautas pakeitė Skir­
+    gailą ir Olesnickis atsisakė Vilniaus seniūno pareigų.
+
+    ## Puslapis 330
+
+    A n t r a  k n y  g a
+    APIE LIETUVIŲ PRAEITI,
+    KAI VALDE ALEKSANDRAS I VYTAUTAS
+    Paskelbus Aleksandrą Vytautą Lietuvos didžiuoju
+    kunigaikščiu, prasidėjo valstybėje klestėjimo laikai;
+    tiesą sakant, ir prieš jį Lietuvos reikalais negalima bu­
+    vo skųstis, ir po jo valstybė klestėjo, tačiau niekada ji
+    nei žygių šlove, nei valdomų žemių platumu nebuvo
+    didingesnė, kaip viešpataujant Vytautui.
+    Tai buvo karštos prigim­
+    ties, be galo veiklus vyras;
+    troško garbės ir naujų valdų,
+    todėl jam niekada netrūko
+    progų kariauti, o pradėjęs
+    kokį žygį, retai kada nesusi­
+    laukdavo sėkmės; iš mažens perpratęs karo gudrybes,
+    paprastai be vargo pasiekdavo tai, kam pasiryždavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185375
+
+- id: c-168737
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 467"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 467."
+  citata_originali: |
+    Štai todėl Kazimieras, pasak Lietuvos istori­
+    kų, negavęs lenkų pritarimo, slaptai iškeliavęs iš San-
+    domiro į Brestą. Tuo tarpu lenkų istorikai teigia, jog
+    lenkai susitarę su pasiuntiniais, kad Kazimieras keliau­
+    siąs į Lietuvą ir ją brolio vardu valdysiąs, tačiau nie­
+    kad nesisavinsiąs Lietuvos didžiojo kunigaikščio titulo.
+    Ar vienaip, ar kitaip ten buvo, abejonių nekelia vienas
+    dalykas: jeigu Kazimieras nebūtų paskubėjęs, būtų nu­
+    kentėję ir karalius, ir susitarimai, mat kitos grupuotės
+    vadovas būtų ginklu pasigrobęs valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185376
+
+- id: c-168738
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 469"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 469."
+  citata_originali: |
+    Negi jie mano,
+    kad žmonės, dabar taip ryžtingai remią į sostą pakeltą
+    kunigaikštį Kazimierą, aukos ir gyvybę, ir turtą už pa­
+    prastą vietininką? Lietuva šiuo metu atsidūrusi tokioje
+    padėtyje, kad jai reikalingas ne vietininkas, pavaduo­
+    jąs karalių, o valdovas, galįs pats spręsti ir veikti. Negi
+    jie gali stebėtis, kad lietuviai, iš visų pusių apspisti pavo­
+    jų, pasirinko kitą kelią nei tas, kurį jiems siūlė be jokių
+    pavojų gyvenantys lenkai?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185377
+
+- id: c-176104
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 155"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 155."
+  citata_originali: |
+    Tačiau nei viena, nei kita pergalė negalė­
+    jusi, pasak metraštininkų, atsverti nuostolių, kuriuos
+    Lenkija tais metais patyrė iš lietuvių: Lukovo apylin­
+    kės, Sandomiro bei Liublino žemės tapo visiškai nu­
+    niokotos ir išdegintos. O tuo metu, kai lietuviai nesėk­
+    mingai puolė priešą, kryžiuočių riteriai, pavergę vi­
+    sas prūsų gentis, pradėjo rengti žygius į Lietuvą gal
+    suvokę, jog laikas patogus išpuoliams, o gal, jeigu
+    dėl to, kad rezgė sąmokslą, ar dėl kitų priežasčių, maž­
+    daug tuo metu gyveno tremtyje tarp kryžiuočių; kai
+    valdžia atsidūrė kitos šeimos rankose, jis susimanė,
+    svetur gyvendamas, įsigyti didžiojo kunigaikščio ti­
+    tulą. Siekdamas šio tikslo, turėjo jis ir bendrininkų,
+    kilusių iš didikų: Skomantą ir Girdilą, vyrus, garsius
+    Lietuvoje ir visokiomis pareigybėmis, ir šeimos šlove,
+    kurie, priėmę krikščionių tikėjimą, buvo ten pat kartu
+    pasitraukę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193379

@@ -7,8 +7,20 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - privilegija
+  - teisinė-praktika
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojus Ungarns
 
@@ -21,10 +33,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 <a id="claim-t-87789"></a>
 - t-001
   global_id: t-87789
-  teiginys: 'Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.'
+  teiginys: "Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą."
   pagrindžia:
-    - c-001
-
+    - c-83768
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,7 +58,36 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
     kad ten į teismą būtų grąžintas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83768
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagal mūsų
+    pačių pranešimo šiandieninį terminą, nustatytą pačiame šau­
+    kime ir iki pat šios dienos pratęstą, abi pusės, pačios ir su
+    savo teisėtais įgaliotiniais, pas mus viešai atvyko, teisėtai
+    laikydamosi termino, ir taip pat savo nesutarimus pakarto­
+    jo. O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
+    rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
+    ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius
+    paaiškino, kad minėtasis kaltinamasis turi gauti numatytą
+    jų privilegijoje bausmę, pripažinti civilinę teisę ir auksaka­
+    lių cechą ir laikytis paklusnumo minėtam cechui. O kaltina­
+    masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­
+    niaus vyskupijos valdinys ir pilietis, ir reikalaudamas siekė,
+    kad ten į teismą būtų grąžintas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87789

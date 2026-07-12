@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - miestas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # uolektis
 
@@ -20,9 +32,9 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
 <a id="claim-t-82104"></a>
 - t-001
   global_id: t-82104
-  teiginys: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
+  teiginys: "Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio."
   pagrindžia:
-    - c-001
+    - c-78597
 - susijęs iš Žemaičių jūra: Žemaičių jūra per 1000 metų nuseko kelias uolektis.
 - susijęs iš [[objektai/asmenys/Nabuchodonosaras.md#claim-t-60391|Nabuchodonosaras]]: Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181476|Petras Dusburgietis]]: Petras Dusburgietis ir tarė: „Aukščiausias dievas padarė manyje ženklų ir stebuklų“.
@@ -51,7 +63,37 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
     In Nomine Domini Amen.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-78597
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Prašydamas Mus, Teismą, kad minėtoji fun­
+    dacijos privilegija būtų priimta ir įrašyta į Lietuvos Didžio­
+    sios kunigaikštystės Vyriausiojo Tribunolo Viešųjų reikalų
+    knygas. Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­
+    riausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­
+    vedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­
+    jos privilegija parašyta ant pergamento, esančio daugiau negu
+    uolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­
+    lenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis
+    žodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­
+    dę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­
+    nigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas
+    yra įrašyta žodis žodin, tokio turinio:
+    In Nomine Domini Amen.
+  citata_rodoma: "Šitai Mes, Lietuvos Didžiosios Kunigaikštystės Vy­\nriausiojo Tribunolo Teismas, aną [dokumentą] priėmę, pa­\nvedėme įrašyti į Tribunolo Viešąsias knygas. Pati fundaci­\njos privilegija parašyta ant pergamento, esančio daugiau negu \nuolekties ilgumo ir platumo, lotynų kalba, ir tik per jos su­\nlenkimus ar sudūrimus ob vetustatem [dėl senumo] daugelis \nžodžių ir raidžių nusitrynė, todėl cum omissis spatiis [pralei­\ndę tuščius tarpus], pažymėję juos, į Lietuvos Didžiosios Ku­\nnigaikštystės Vyriausiojo Tribunolo Viešųjų Reikalų knygas \nyra įrašyta žodis žodin, tokio turinio:\nIn Nomine Domini Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82104

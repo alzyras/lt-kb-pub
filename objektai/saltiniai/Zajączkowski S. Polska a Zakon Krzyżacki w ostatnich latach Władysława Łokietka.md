@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka
 
@@ -25,10 +37,9 @@ Dusburgietis teigia, kad zajączkowski S.
 <a id="claim-t-61379"></a>
 - t-001
   global_id: t-61379
-  teiginys: 'S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais.'
+  teiginys: "S. Zajączkowskio veikalas „Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka“ išleistas Lvove 1929 metais."
   pagrindžia:
-    - c-001
-
+    - c-62011
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +50,25 @@ Dusburgietis teigia, kad zajączkowski S.
     Lwów, 1929.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62011
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  citata_originali: |
+    Zajączkowski S. Polska a Zakon Krzyżacki w ostatnich latach Władysława Łokietka.—
+    Lwów, 1929.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61379

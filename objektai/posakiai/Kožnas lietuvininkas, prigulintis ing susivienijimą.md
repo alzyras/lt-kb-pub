@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kožnas lietuvininkas, prigulintis ing susivienijimą
 
@@ -19,10 +31,9 @@ tags:
 <a id="claim-t-02066"></a>
 - t-001
   global_id: t-02066
-  teiginys: 'Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį.'
+  teiginys: "Susivienijimo įstatai reikalavo, kad kiekvienas narys palaikytų savo naciją, padėtų nelaimės ištiktam broliui ir rodytų gerą pavyzdį."
   pagrindžia:
-    - c-001
-
+    - c-02304
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +50,32 @@ tags:
     broliui iš Lietuvos duoti pagelbą".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02304
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau jis greitai žuvo. Jo vietoje lietuvių kunigų pastangomis
+    tuojau buvo įkurtas kitas — Susivienijimas Visų
+    Draugysčių Katalikiškų Lietuviškų Ameri-
+    koje. Šio Susivienijimo įstatuose buvo įrašytas toksai reika-
+    lavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-
+    valo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-
+    mėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą
+    priklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam
+    broliui iš Lietuvos duoti pagelbą".
+  citata_rodoma: "Šio Susivienijimo įstatuose buvo įrašytas toksai reika-\nlavimas: „Kožnas lietuvininkas, prigulintis ing susivienijimą, pri-\nvalo užlaikyti savo naciją, priduot pagelbą savo broliui nelai-\nmėje būvančiam, vest dievobaimingą gyvenimą ir davinėti gerą\npriklodą (t. y. pavyzdį) nog savęs, taipgi naujai pribuvusiam\nbroliui iš Lietuvos duoti pagelbą\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02066

@@ -1,0 +1,236 @@
+{
+  "generatedAt": "2026-07-05T19:30:43.066Z",
+  "images": [
+    {
+      "key": "hero-grunwald",
+      "category": "Hero banner",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "category-asmenys",
+      "category": "Asmenys",
+      "title": "Gediminas, the Grand Duke of Lithuania",
+      "author": "Unknown author",
+      "year": "1709",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gediminas,_the_Grand_Duke_of_Lithuania,_painted_in_1709.png",
+      "license": "Public domain",
+      "originalFile": "File:Gediminas, the Grand Duke of Lithuania, painted in 1709.png",
+      "originalDimensions": "2424x2512"
+    },
+    {
+      "key": "category-autoriai",
+      "category": "Autoriai",
+      "title": "Simonas Daukantas",
+      "author": "Jonas Zenkevičius / Jan Zienkiewicz",
+      "year": "circa 1850",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Simonas_Daukantas.png",
+      "license": "Public domain",
+      "originalFile": "File:Simonas Daukantas.png",
+      "originalDimensions": "600x714"
+    },
+    {
+      "key": "category-ivykiai",
+      "category": "Įvykiai",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "category-vietos",
+      "category": "Vietos",
+      "title": "View of the Castle at Troki (Trakai)",
+      "author": "Wincenty Dmochowski",
+      "year": "1854",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wincenty_Dmochowski_-_View_of_the_Castle_at_Troki_(Trakai)_-_MNK_II-a-117_-_National_Museum_in_Krak%C3%B3w.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Wincenty Dmochowski - View of the Castle at Troki (Trakai) - MNK II-a-117 - National Museum in Kraków.jpg",
+      "originalDimensions": "3866x3328"
+    },
+    {
+      "key": "category-grupes",
+      "category": "Grupės",
+      "title": "Lithuanian peasants",
+      "author": "Workshop of Franciszek Smuglewicz",
+      "year": "18th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lithuanian_peasants.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Lithuanian peasants.jpg",
+      "originalDimensions": "867x1090"
+    },
+    {
+      "key": "category-daiktai",
+      "category": "Daiktai",
+      "title": "Seal of the Lithuanian King Jogaila with Vytis (Waykimas), 1382",
+      "author": "Unknown author",
+      "year": "1382",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_(Waykimas),_1382.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Seal_of_the_Lithuanian_King_Jogaila_with_Vytis_(Waykimas),_1382.jpg",
+      "originalDimensions": "945x841"
+    },
+    {
+      "key": "category-paprociai",
+      "category": "Papročiai",
+      "title": "Folk art exposition in Kaunas",
+      "author": "Unknown author",
+      "year": "1930",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Folk_art_exposition_in_Kaunas_1930.jpeg",
+      "license": "CC0 / Public Domain Dedication",
+      "originalFile": "File:Folk art exposition in Kaunas 1930.jpeg",
+      "originalDimensions": "800x492"
+    },
+    {
+      "key": "category-posakiai",
+      "category": "Posakiai",
+      "title": "Oldest surviving writing in Lithuanian language",
+      "author": "Unknown author",
+      "year": "1503-1515",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oldest_surviving_writing_in_Lithuanian_language.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Oldest_surviving_writing_in_Lithuanian_language.jpg",
+      "originalDimensions": "600x750"
+    },
+    {
+      "key": "category-zodynas",
+      "category": "Žodynas",
+      "title": "Mažvydo katekizmas",
+      "author": "Martynas Mažvydas",
+      "year": "1547",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mazvydo_katekizmas.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Mazvydo katekizmas.jpg",
+      "originalDimensions": "508x682"
+    },
+    {
+      "key": "category-saltiniai",
+      "category": "Šaltiniai",
+      "title": "First Statute of Lithuania (1529)",
+      "author": "Unknown author",
+      "year": "1529 original / 16th century manuscript copy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania,_Ruthenia_and_Samogitia.png",
+      "license": "Public domain",
+      "originalFile": "File:Piersy_statut_VKL_-_first_Statut_of_the_Grand_Duchy_of_Lithuania,_Ruthenia_and_Samogitia.png",
+      "originalDimensions": "913x1080"
+    },
+    {
+      "key": "category-laikotarpiai",
+      "category": "Laikotarpiai",
+      "title": "Poland and Lithuania by Carolo Allard",
+      "author": "Carollo Allard",
+      "year": "1696",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poland_and_Lithuania_-_by_Carolo_Allard_-_1696_AD.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Poland and Lithuania - by Carolo Allard - 1696 AD.jpg",
+      "originalDimensions": "7089x6039"
+    },
+    {
+      "key": "category-temos",
+      "category": "Temos",
+      "title": "Poland and Lithuania by Carolo Allard",
+      "author": "Carollo Allard",
+      "year": "1696",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Poland_and_Lithuania_-_by_Carolo_Allard_-_1696_AD.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Poland and Lithuania - by Carolo Allard - 1696 AD.jpg",
+      "originalDimensions": "7089x6039"
+    },
+    {
+      "key": "notfound-grunwald",
+      "category": "404 mūšio ekspozicija",
+      "title": "Jan Matejko, Bitwa pod Grunwaldem",
+      "author": "Jan Matejko",
+      "year": "1878",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Jan Matejko, Bitwa pod Grunwaldem.jpg",
+      "originalDimensions": "11788x5235"
+    },
+    {
+      "key": "notfound-orsha",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Orsha",
+      "author": "Hans Krell / unknown workshop attribution",
+      "year": "circa 1520-1534",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Krell_Battle_of_Orsha_01.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Krell Battle of Orsha 01.jpg",
+      "originalDimensions": "2500x1568"
+    },
+    {
+      "key": "notfound-kircholm",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Kircholm, 1605",
+      "author": "Pieter Snayers",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pieter_Snayers_-_Battle_of_Kircholm,_1605.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Pieter Snayers - Battle of Kircholm, 1605.jpg",
+      "originalDimensions": "1986x1200"
+    },
+    {
+      "key": "notfound-ula",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Chashniki / Ula, 1564",
+      "author": "German flyer, 16th century",
+      "year": "16th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%91%D0%B8%D1%82%D0%B2%D0%B0_%D0%BF%D0%BE%D0%B4_%D0%A7%D0%B0%D1%88%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_1564.png",
+      "license": "Public domain",
+      "originalFile": "File:Битва под Чашниками 1564.png",
+      "originalDimensions": "569x475"
+    },
+    {
+      "key": "notfound-chotyn1621",
+      "category": "404 mūšio ekspozicija",
+      "title": "Die Schlacht von Chocim 1621",
+      "author": "Jan van Huchtenburgh",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Die_Schlacht_von_Chocim_1621.jpg",
+      "license": "Public domain",
+      "originalFile": "File:Die Schlacht von Chocim 1621.jpg",
+      "originalDimensions": "736x514"
+    },
+    {
+      "key": "notfound-klusino",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Klushino 1610",
+      "author": "Szymon Boguszowicz",
+      "year": "17th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Klushino_1610.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Klushino 1610.PNG",
+      "originalDimensions": "2144x1424"
+    },
+    {
+      "key": "notfound-chotyn1673",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Khotyn 1673",
+      "author": "Anonymous plate",
+      "year": "1673",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Khotyn_1673.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Khotyn 1673.PNG",
+      "originalDimensions": "2000x1520"
+    },
+    {
+      "key": "notfound-vienna",
+      "category": "404 mūšio ekspozicija",
+      "title": "Battle of Vienna 1683",
+      "author": "Jan Damel",
+      "year": "19th century",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Battle_of_Vienna_1683.PNG",
+      "license": "Public domain",
+      "originalFile": "File:Battle of Vienna 1683.PNG",
+      "originalDimensions": "2272x1704"
+    }
+  ]
+}

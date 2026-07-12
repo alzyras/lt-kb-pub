@@ -9,59 +9,66 @@ datos:
   - '1416 m.'
 date_start: '1382'
 date_end: '1416'
-description: 'Karigaila – Jogailos brolis ir Mstislavlio kunigaikštis, minimas 1382 m. Dubysos sutarčių kontekste ir žuvęs kryžiuočių nelaisvėje.'
-socialDescription: 'Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, minimas Dubysos sutarčių bei Lietuvos krikšto kontekste.'
-seo_atnaujinta: '2026-07-02T21:03:54.619650+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - kunigaikštis
   - ordinas
-  - pilis
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karigaila
 
 ## Santrauka
 
-Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. Jis minimas tarp Jogailos ir Skirgailos sutarčių liudininkų, pritarė 1382 m. Dubysos sutartims ir Krokuvoje priėmė katalikų tikėjimą. Kryžiuočių nelaisvėje Karigaila buvo žiauriai nužudytas; dėl jo mirties skųstasi dar 1416 m.
+Visose trijose Jogailos ir Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas, Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs bei svarbiu patarėju tapęs. Ten kryžiuočių nelaisvėn pakliuvęs, buvo žiauriai nužudytas pilies gynėjas, Jogailos brolis Karigaila (Mstislavlio kunigaikštis).
 
 ## Teiginiai
 
 <a id="claim-t-63793"></a>
 - t-001
   global_id: t-63793
-  teiginys: 'Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas.'
+  teiginys: "Karigaila, Jogailos brolis ir Mstislavlio kunigaikštis, pateko į kryžiuočių nelaisvę ir buvo žiauriai nužudytas."
   pagrindžia:
-    - c-004
+    - c-64735
 
 <a id="claim-t-63794"></a>
 - t-002
   global_id: t-63794
-  teiginys: 'Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų.'
+  teiginys: "Karigaila, Julijonos sūnus ir Jogailos brolis, buvo vienas iš trijų Jogailos ir Skirgailos sutarčių liudininkų."
   pagrindžia:
-    - c-003
+    - c-64734
 
 <a id="claim-t-63795"></a>
 - t-003
   global_id: t-63795
-  teiginys: 'Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui.'
+  teiginys: "Karigaila pritarė 1382 m. Dubysos sutartims, kuriomis Jogaila įsipareigojo taikai su Ordinais ir krikštui."
   pagrindžia:
-    - c-002
+    - c-36407
 
 <a id="claim-t-63796"></a>
 - t-004
   global_id: t-63796
-  teiginys: 'Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą.'
+  teiginys: "Karigaila kartu su Jogaila, Vytautu, Vygandu, Švitrigaila ir lietuvių didikais Krokuvoje priėmė katalikų tikėjimą."
   pagrindžia:
-    - c-001
+    - c-36406
 - susijęs iš [[objektai/asmenys/Vasilijus Čartoriskis.md#claim-t-87879|Vasilijus Čartoriskis]]: Vasilijus Čartoriskis buvo Pinsko kunigaikštis, Karigailos sūnus ir Algirdo vaikaitis.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173188|Kazimieras Karigaila]]: Kazimieras Karigaila buvo nužudytas, o jo galva atskirta nuo kūno ir išniekinta karaliaus paniekinimui.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173189|Kazimieras Karigaila]]: Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.
@@ -108,7 +115,8 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
     (^1) ) Scr. r.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -128,7 +136,8 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
     visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -150,6 +159,7 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,16 +176,100 @@ Karigaila buvo Jogailos brolis, Julijonos sūnus ir Mstislavlio kunigaikštis. J
     mirties, smulkiai aprašant lavono išniekinimą^19.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-36406
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kartu su Jogaila ir Vy­
+    tautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­
+    gandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir
+    pirmas Lietuvos krikšto aktas, atliktas Krokuvoje.
+
+    (^1) ) Scr. r.
+  citata_rodoma: "Kartu su Jogaila ir Vy­\ntautu priėmė katalikų tikėjimą Jogailos broliai Karigaila, Vy­\ngandas, Švitrigaila ir daug lietuvių didikų. Tai buvo kaip ir\npirmas Lietuvos krikšto aktas, atliktas Krokuvoje.\n\n(^1) ) Scr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63796
+
+- id: c-36407
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Dar didesnio Lietuvos nuovargio liudijimas yra 1382 mt.,
+    po Kęstučio mirties, Jogailos įgaliotinių (Skirgailos ir Hanu­
+    lono) Dubysos įtakoje padarytieji trijų atskirų sutarčių aktai.
+    Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas
+    motinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­
+    gunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais
+    taikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­
+    tyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:
+    visą dešinį Dubysos krantą, nuo pat ištakos iki įtakos.
+  citata_rodoma: "Pagal tas sutartis didysis kunigaikštis Jogaila, — pritariamas\nmotinos Julijonos ir brolių: Kaributo, Lingvenio, Karigailos, Vy­\ngunto ir Švitrigailos — pasižadėjo 4 metus laikytis su Ordinais\ntaikos, per tuos pat 4 metus „su visais saviškiais“ apsikrikš­\ntyti ir kas svarbiausia — užleidžia Ordinui pusę Žemaitijos:\nvisą dešinį Dubysos krantą, nuo pat ištakos iki įtakos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63795
+
+- id: c-64734
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63794
+
+- id: c-64735
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tebuvo paimta antroji žemumos medinė pilis, vad.
+    «Kreivoji». Ten kryžiuočių nelaisvėn pakliuvęs, buvo žiauriai
+    nužudytas pilies gynėjas, Jogailos brolis Karigaila (Mstislavlio
+    kunigaikštis). Dar Konstancos susirinkimui (1416) pateiktame Jo­
+    gailos skunde ordinui buvo daromi aštrus priekaištai dėl brolio
+    mirties, smulkiai aprašant lavono išniekinimą^19.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63793
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Vasilijus Čartoriskis]]
-- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Julijona]], [[objektai/asmenys/Julijona (Algirdo žmona)]]
+- Tėvai: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Broliai: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Sąjungininkai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Kariavo prieš: [[objektai/grupes/Kryžiuočių ordinas]]
 - Karigaila buvo valdovas [[objektai/vietos/Mstislavlis]]
-- Karigaila keliavo į [[objektai/vietos/Krokuva]]

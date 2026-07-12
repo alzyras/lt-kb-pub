@@ -19,204 +19,229 @@ date_start: '1240'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIII'
-  - 'XXI'
-description: 'Žydų istorija Lietuvoje nuo Vytauto privilegijų iki tarpukario bendruomenės, litvakų tradicijos ir pasipriešinimo getuose.'
-socialDescription: 'Žydai Lietuvoje: Vytauto laikų privilegijos, Trakų ir Lucko bendruomenės, tarpukario kultūrinis gyvenimas, litvakų tradicija ir pasipriešinimas getuose.'
-seo_atnaujinta: '2026-07-02T23:12:35.176668+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - bajorija
   - grupe
-  - privilegija
   - tauta
+amziai:
+  - 'XIII'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žydai
 
 ## Santrauka
 
-Žydai Lietuvoje minimi nuo seno: jie galėjo atvykti per Lenkiją ar iš rytų, o Vytauto laikais dalis jų organizuotai persikėlė iš Lenkijos į Lietuvą. 1388 m. Trakų žydai gavo atskirą privilegiją, o 1408 m. Lucke Lietuvos žydams suteiktos platesnės laisvės. Tarpukario Lietuvoje žydai turėjo savitą švietimo, kultūros, partijų ir organizacijų tinklą, tačiau su lietuviais dažniausiai gyveno atskirus, darbo ryšiais susijusius gyvenimus. Litvakų įvaizdį stiprino Vilniaus Gaono autoritetas, o iš buvusios LDK ir ATR…
+Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo atimamas. Bet Vytautas suprato, kad ekonomiškam Lietuvos kilimui reikalingi ir piniguočiai, kurie reikale teiktų kredito. Todėl atvykusių žydų jis ne tik nespaudė, bet dar jiems davė.
 
 ## Teiginiai
+
 <a id="claim-t-117381"></a>
 - t-001
   global_id: t-117381
-  teiginys: 'Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais.'
+  teiginys: "Kuriant Izraelį reikšmingus vaidmenis atliko iš buvusios LDK ir ATR erdvės kilę žydai, vadinęsi litvakais."
   pagrindžia:
-    - c-015
+    - c-108077
 
 <a id="claim-t-117382"></a>
 - t-002
   global_id: t-117382
-  teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
+  teiginys: "Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai."
   pagrindžia:
-    - c-003
+    - c-108059
 
 <a id="claim-t-117384"></a>
 - t-003
   global_id: t-117384
-  teiginys: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
+  teiginys: "Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų."
   pagrindžia:
-    - c-009
+    - c-108067
 
 <a id="claim-t-117386"></a>
 - t-004
   global_id: t-117386
-  teiginys: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
+  teiginys: "Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu."
   pagrindžia:
-    - c-005
+    - c-108061
 
 <a id="claim-t-117387"></a>
 - t-005
   global_id: t-117387
-  teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
+  teiginys: "Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus."
   pagrindžia:
-    - c-018
+    - c-108082
 
 <a id="claim-t-117388"></a>
 - t-006
   global_id: t-117388
-  teiginys: 'Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.'
+  teiginys: "Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų."
   pagrindžia:
-    - c-008
+    - c-108065
 
 <a id="claim-t-117389"></a>
 - t-007
   global_id: t-117389
-  teiginys: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
+  teiginys: "Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų."
   pagrindžia:
-    - c-007
+    - c-108063
 
 <a id="claim-t-117390"></a>
 - t-008
   global_id: t-117390
-  teiginys: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
+  teiginys: "Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą."
   pagrindžia:
-    - c-001
+    - c-22868
 
 <a id="claim-t-117391"></a>
 - t-009
   global_id: t-117391
-  teiginys: 'Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės.'
+  teiginys: "Žydai Lietuvoje nuo seno galėjo atvykti tiek per Lenkijos sieną, tiek iš rytų pusės."
   pagrindžia:
-    - c-009
+    - c-108067
 
 <a id="claim-t-117392"></a>
 - t-010
   global_id: t-117392
-  teiginys: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
+  teiginys: "Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje."
   pagrindžia:
-    - c-011
+    - c-108070
 
 <a id="claim-t-117393"></a>
 - t-011
   global_id: t-117393
-  teiginys: 'Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus.'
+  teiginys: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, daugiausia socialdemokratus."
   pagrindžia:
-    - c-017
+    - c-108081
 
 <a id="claim-t-117394"></a>
 - t-012
   global_id: t-117394
-  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos.'
+  teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo 1791 m. Jekaterinos II nubrėžtos sėslumo ribos."
   pagrindžia:
-    - c-004
+    - c-108060
 
 <a id="claim-t-117395"></a>
 - t-013
   global_id: t-117395
-  teiginys: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu.'
+  teiginys: "Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu."
   pagrindžia:
-    - c-010
+    - c-108069
 
 <a id="claim-t-117396"></a>
 - t-014
   global_id: t-117396
-  teiginys: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
+  teiginys: "Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas."
   pagrindžia:
-    - c-014
+    - c-108076
 
 <a id="claim-t-117397"></a>
 - t-015
   global_id: t-117397
-  teiginys: 'Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu.'
+  teiginys: "Trakų žydai 1388 m. buvo gavę privilegiją, apibrėžusią jų elgseną krikščionių atžvilgiu."
   pagrindžia:
-    - c-005
+    - c-108061
 
 <a id="claim-t-117399"></a>
 - t-016
   global_id: t-117399
-  teiginys: '1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų.'
+  teiginys: "1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, žydai sudarė 7 proc. Lietuvos gyventojų be Vilniaus ir Klaipėdos kraštų."
   pagrindžia:
-    - c-013
+    - c-108073
 
 <a id="claim-t-117400"></a>
 - t-017
   global_id: t-117400
-  teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
+  teiginys: "Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“."
   pagrindžia:
-    - c-012
+    - c-108071
 
 <a id="claim-t-117401"></a>
 - t-018
   global_id: t-117401
-  teiginys: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
+  teiginys: "Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį."
   pagrindžia:
-    - c-002
+    - c-108058
 
 <a id="claim-t-117402"></a>
 - t-019
   global_id: t-117402
-  teiginys: 'Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
+  teiginys: "Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose."
   pagrindžia:
-    - c-006
+    - c-108062
 
 <a id="claim-t-117403"></a>
 - t-020
   global_id: t-117403
-  teiginys: 'Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba.'
+  teiginys: "Rusijos imperijoje žydai galėjo gyventi tik į vakarus nuo sėslumo ribos, sutapusios su buvusios LDK arba ATR rytine riba."
   pagrindžia:
-    - c-004
+    - c-108060
 
 <a id="claim-t-117404"></a>
 - t-021
   global_id: t-117404
-  teiginys: 'Kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK ir Abiejų Tautų Respublikos erdvės kilę litvakais vadinęsi žydai.'
+  teiginys: "Kuriant Izraelį reikšmingiausius vaidmenis atliko iš LDK ir Abiejų Tautų Respublikos erdvės kilę litvakais vadinęsi žydai."
   pagrindžia:
-    - c-015
+    - c-108077
 
 <a id="claim-t-117405"></a>
 - t-022
   global_id: t-117405
-  teiginys: 'Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų.'
+  teiginys: "Pagal citatoje pateiktą gyventojų sudėtį žydai sudarė 7 proc. gyventojų."
   pagrindžia:
-    - c-013
+    - c-108073
 
 <a id="claim-t-117406"></a>
 - t-023
   global_id: t-117406
-  teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
+  teiginys: "Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi."
   pagrindžia:
-    - c-016
+    - c-108078
 
 <a id="claim-t-183206"></a>
 - t-024
   global_id: t-183206
-  teiginys: 'Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę.'
+  teiginys: "Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų."
   pagrindžia:
-    - c-020
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-166593
+
 <a id="claim-t-188371"></a>
 - t-025
   global_id: t-188371
-  teiginys: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
+  teiginys: "Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę."
   pagrindžia:
-    - c-021
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171265
+
+<a id="claim-t-188372"></a>
+- t-026
+  global_id: t-188372
+  teiginys: "Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų."
+  pagrindžia:
+    - c-171266
+
+<a id="claim-t-193568"></a>
+- t-027
+  global_id: t-193568
+  teiginys: "Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis)."
+  pagrindžia:
+    - c-176247
+
+<a id="claim-t-193569"></a>
+- t-028
+  global_id: t-193569
+  teiginys: "Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis."
+  pagrindžia:
+    - c-176248
 - susijęs iš [[objektai/grupes/SD Einsatzgruppen.md#claim-t-19997|SD Einsatzgruppen]]: 1941 m. birželį SD Einsatzgruppen organizavo terorą, per kurį pasienyje buvo šaudomi žydai Gargžduose, Kretingoje, Palangoje ir kitur.
 - susijęs iš Gargždai: 1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.
 - susijęs iš [[objektai/grupes/Tilžės gestapo būrys.md#claim-t-20049|Tilžės gestapo būrys]]: Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.
@@ -341,6 +366,8 @@ tags:
 - susijęs iš [[objektai/zodynas/krajovcai.md#claim-t-23529|krajovcai]]: Krajovcų demokratų srovė propagavo autonominę Lietuvą buvusios LDK ribose kaip daugiakultūrį lietuvių, lenkų, baltarusių ir tam tikra prasme žydų valstybinį darinį.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-183486|zonderkomanda]]: Viena Tautinės darbo apsaugos bataliono kuopa buvo padaryta zonderkomanda ir liepos 4 bei 6 dienomis dalyvavo 3 000 žydų žudynėse Kauno VII forte.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187871|Baltarusiai]]: Kraštiečių demokratų srovė autonominę Lietuvą LDK ribose įsivaizdavo kaip daugiakultūrį lietuvių, lenkų, baltarusių ir iš dalies žydų darinį.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195513|Žydai kromininkai]]: Kaimo žydai kromininkai šiame šaltinyje išskiriami kaip atskira kaimo prekybininkų grupė.
+- susijęs iš [[objektai/zodynas/Likeris.md#claim-t-195622|Likeris]]: Šioje apybraižoje žydai žmonėms aiškino, kad likeris yra ne degtinė, bet vynas.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77978|A. Smetona]]: A. Smetona laikėsi nuostatos, kad tautinės mažumos turi mylėti Lietuvą ir gerbti lietuvių tautą už joms suteiktas kultūrines teises.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
@@ -592,6 +619,7 @@ tags:
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
 - susijęs iš [[objektai/zodynas/žydšaudžiai.md#claim-t-22356|žydšaudžiai]]: Žydų naikinimas kėlė didelį visuomenės pasipiktinimą, nacių kolaborantai visuomenėje neteko gero vardo, pasmerkimai ir priekaištai jiems buvo sakomi bažnyčiose, liaudyje jie paniekinamai vadinti „žydšaudžiais“.
 - susijęs iš [[objektai/grupes/Baltarusiai.md#claim-t-187870|Baltarusiai]]: Kraštiečių demokratų srovė siūlė, kad autonominėje Lietuvoje LDK ribose lietuvių, lenkų ir baltarusių kalbos turėtų valstybinį statusą.
+- susijęs iš [[objektai/grupes/Žydai kromininkai.md#claim-t-195515|Žydai kromininkai]]: Žydas kromininkas po Kalėdų eidavo į vargšų grįčiukes, nes ten būdavo pinigų ir reikėdavo prekių.
 - susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
 - susijęs iš [[objektai/grupes/Ypatingasis SD būrys Vilniuje.md#claim-t-20093|Ypatingasis SD būrys Vilniuje]]: Ypatingasis SD būrys Vilniuje (Paneriuose) buvo iš lietuvių sudaryta speciali zonderkomanda, vykdžiusi šaudymus.
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.
@@ -599,6 +627,7 @@ tags:
 - susijęs iš Luckas: 1388 m. Lucke Aleksandras Vytautas suteikė privilegiją Trakų žydams.
 - susijęs iš [[objektai/zodynas/Filosemitas.md#claim-t-77795|Filosemitas]]: Filosemitu vadintas Antanas Smetona stabdė raginimus apriboti žydus ir pareiškė, kad Lietuvoje vietos užteks visiems.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Vytauto laikais žydai organizuotai persikėlė iš Lenkijos į Lietuvą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
@@ -613,10 +642,12 @@ tags:
     tuvon.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-002
   santrauka: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -633,10 +664,12 @@ tags:
     judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-003
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -655,10 +688,12 @@ tags:
     žydai tarpusavyje dažnai vartojo rusų kalbą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -673,11 +708,13 @@ tags:
     net konkrečias gubernijas, kuriose gali gyventi žydai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-020
+
 - c-005
   santrauka: 'Trakų žydai dar 1388 m. buvo gavę atskirą privilegiją, apibūdinusią jų elgseną krikščionių atžvilgiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -698,11 +735,13 @@ tags:
     dino pajėgas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-015
+
 - c-006
   santrauka: 'Sovietams kuriant naują administraciją žydai gavo postus valdžioje, įmonėse, įstaigose ir profesinėse sąjungose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -717,10 +756,12 @@ tags:
     išdavė nepriklausomą Lietuvą ir jos idealus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-007
   santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -733,10 +774,12 @@ tags:
     jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -754,10 +797,12 @@ tags:
     20 proc. eksporto ir 40 proc. importo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-009
   santrauka: 'Žydai Lietuvoje nuo seno nebuvo naujiena, nes galėjo laisvai atvykti per Lenkijos sieną arba iš rytų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -777,11 +822,13 @@ tags:
     kenksmingos kaip dabar.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-009
+
 - c-010
   santrauka: 'Vytauto laikais Vilniaus žydai tarp savųjų garsėjo ne tik ištekliais, bet ir išsimokslinimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -795,10 +842,12 @@ tags:
     dą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-011
   santrauka: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -816,10 +865,12 @@ tags:
     grobstė visas vertingiausias žydų kultūros vertybes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-012
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -829,10 +880,12 @@ tags:
     nigaikštija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-013
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -842,11 +895,13 @@ tags:
     žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-022
+
 - c-014
   santrauka: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -867,10 +922,12 @@ tags:
     žydai savanoriai dalyvavo nepriklausomybės kovose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Kuriant Izraelį reikšmingiausius vaidmenis atliko iš šios erdvės kilę žydai, vadinęsi litvakais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -884,11 +941,13 @@ tags:
     nacionaliniais pagrindais – Lietuvos Respubliką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
     - t-001
+
 - c-016
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -908,10 +967,12 @@ tags:
     rusiškai ar lenkiškai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-017
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -925,10 +986,12 @@ tags:
     giausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-018
   santrauka: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -949,10 +1012,12 @@ tags:
     biais žydų kultūros centrais).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-019
   santrauka: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -966,10 +1031,12 @@ tags:
     nai mokėjo visus 64 Talmudo tomus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-020
   santrauka: 'Narbutas rašė, kad po dešimties metų neberasta statulėlių liekanos pėdsakų, o žydai nenorėjo prisipažinti ją pirkę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -984,11 +1051,14 @@ tags:
     tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
     ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
     mas, mirtis ir amžinybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-024
+    - t-025
+
 - c-021
   santrauka: 'Narbutas teigė pastebėjęs, kad kaimiečiai ir kaimuose gyvenantys Lietuvos žydai išlaikė vaizdinio apie mirusiųjų vėlių vaidenimąsi liekanų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -1001,18 +1071,568 @@ tags:
     kanų. 19
     19
     Ištrauka iš 1240 metų sutarties (Voigt.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-025
+    - t-026
+
+- c-022
+  santrauka: 'Dešimt vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir 1 vokietis).'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kairysis valstiečių liaudinin-
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Dešimt
+    vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir
+    1 vokietis). Į Steigiamąjį Seimą buvo išrinktos ir penkios moterys.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-027
+
+- c-023
+  santrauka: 'Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių antisovietinėmis nuotaikomis.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
+    leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina
+    mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių
+    antisovietinėmis nuotaikomis. Pirmą nacių okupacijos savaitę daug gy-
+    ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
+    keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
+    rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Tačiau
+    naciai, kitaip negu Vakarų Europoje, masines žydų žudynes pradėjo be
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    199
+    pereinamojo laikotarpio.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-028
+
+## Citatos
+
+- id: c-22868
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tai buvo žydai ir miestelėnų luomas.
+    Žydai tais laikais visoje vakarų Europoje buvo žinomi kaip
+    tinkamiausi žmonės visoms kredito operacijoms vesti. Tai bu­
+    vo profesionalai „bankininkai“. Kaip tik XIV amž. pusėje, su­
+    laukus vakarų Europoje didelių persekiojimų, daugybė jų buvo
+    palikę savo senąsias vietas ir persikraustė tarp kitko į Lenkiją,
+    o iš jos vėliau, jau Vytauto laikais, organizuotai persikėlė ir Lie­
+    tuvon.
+  citata_rodoma: "Tai buvo žydai ir miestelėnų luomas.\nŽydai tais laikais visoje vakarų Europoje buvo žinomi kaip\ntinkamiausi žmonės visoms kredito operacijoms vesti. Tai bu­\nvo profesionalai „bankininkai“. Kaip tik XIV amž. pusėje, su­\nlaukus vakarų Europoje didelių persekiojimų, daugybė jų buvo\npalikę savo senąsias vietas ir persikraustė tarp kitko į Lenkiją,\no iš jos vėliau, jau Vytauto laikais, organizuotai persikėlė ir Lie­\ntuvon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117390
+
+- id: c-108058
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tautininkams patiko ir žydų parama sprendžiant Klaipėdos ir Vil-
+    niaus problemas, o žydų dalyvavimas savivaldos rinkimuose laikytas
+    „nepagrįstu“ žydų noru toliau plėsti savo įtaką. Tačiau lietuvėjant mies-
+    tams, lietuvių ir jų ūkinių kooperatyvų veikla neišvengiamai silpnino
+    žydų verslo pozicijas. Lietuvių kapitalo dalis Lietuvos eksporte 1934 m.
+    jau sudarė 45 proc., 1938 m. – 70 proc. Kai kuriose srityse žydai tvirtai
+    dominavo – eksportavo daugiau arklių, kailių ir odų, miško medžiagos,
+    o importe sudarė didžiąją dalį. Apskritai žydai gyveno atskirą bendruo-
+    meninį gyvenimą ir menkai integravosi į lietuvių visuomenę, o sionistinis
+    judėjimas kėlė Lietuvos žydus gyventi į Palestiną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117401
+
+- id: c-108059
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
+    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
+    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
+    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
+    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
+    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
+    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
+    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
+    biais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių
+    kultūra (literatūros klasikai Maironis, Vaižgantas, V. Krėvė-Mickevičius
+    dar vaikščiojo Kauno gatvėmis) nebuvo labai patraukli žydams, iš kitos
+    pusės, carizmo priespaudą kentusių lietuvių tautinius jausmus žeidė, kad
+    žydai tarpusavyje dažnai vartojo rusų kalbą.
+  citata_rodoma: "Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, \nžydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-\nreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-\njusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara \nvalstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-\njoje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-\nnių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų \nsistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-\nbiais žydų kultūros centrais). Jauna ir dar niekuo neimponuojanti lietuvių \nkultūra (literatūros klasikai Maironis, Vaižgantas, V."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117382
+
+- id: c-108060
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vis dėlto Vilniaus, Lietuvos ir Abiejų
+    Tautų Respublikos tradicijų naikinimas lėmė, kad Rusija sugebėjo pasisa-
+    vinti tokius iš LDK erdvių kilusius fenomenus kaip pirtį ir „horilką“ arba
+    „vodką“. Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas
+    „Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje
+    žydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo
+    su buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė
+    Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų išvardijusi
+    net konkrečias gubernijas, kuriose gali gyventi žydai.
+  citata_rodoma: "Aišku, šis klausimas dar per mažai tirtas, bet pasauliui žinomas \n„Rusijos žydų“ fenomenas paaiškinamas paprastai – Rusijos imperijoje \nžydai galėjo gyventi tik į vakarus nuo „sėslumo ribos“, o ši visiškai sutapo \nsu buvusios LDK arba Abiejų Tautų Respublikos rytine riba. Ją nubrėžė \nRusijos imperatorė Jekaterina II 1791 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117394
+    - t-117403
+
+- id: c-108061
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Il KNYGA
+    nėtinai didelį skaičių žydų Lietuvoje ir Voluinėje, ir pačioje sosti­
+    nėje jaugi nemažai jų buvo, Lucke (1408 m.) visiems Lietuvos
+    žydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­
+    sios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną
+    privilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­
+    rią vėliau patvirtino Kazimieras Didysis68. Betgi Trakų žydai,
+    gerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­
+    vilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­
+    žvilgiu69.
+    Nuo šiol kelerius metus (1408-1414 m.) vyko įnirtingos ko­
+    vos su kryžiuočiais, tad visos Lietuvos monarcho pastangos
+    nukreiptos į vieną tikslą - susilpninti grėsmingas Prūsijos or­
+    dino pajėgas.
+  citata_rodoma: ") visiems Lietuvos \nžydams suteikė tam tikrų laisvių, pavyzdžiu imdamas Didžio­\nsios Lenkijos kunigaikščio Boleslovo Pamaldžiojo atmintiną \nprivilegiją tos tautos gyventojams, paskelbtą XIII amžiuje, ku­\nrią vėliau patvirtino Kazimieras Didysis68. Betgi Trakų žydai, \ngerokai anksčiau, dar 1388 m., atskirai buvo gavę panašią pri­\nvilegiją, kuria išsamiai apibūdinta jų elgsena krikščionių at­\nžvilgiu69."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117386
+    - t-117397
+
+- id: c-108062
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sovietams kuriant naują administraciją žydai, ypač jaunimas, noriai
+    pradėjęs kalbėti rusiškai, gavo postus valdžioje, įmonėse ir įstaigose, pro-
+    fesinėse sąjungose – žydai tapo matomi prosovietinėse demonstracijose,
+    administracijoje, tarp politinių vadovų, ir tai buvo neįprasta. Negavęs
+    didelio lietuvių pritarimo sovietų režimas skatino įsitraukti žydus, ne-
+    mažai žydų pasirodė valstybės aparate, NKVD, milicijoje. Tai ypač su-
+    stiprino antisemitines nuotaikas, daugeliui lietuvių atrodė, kad visi žydai
+    išdavė nepriklausomą Lietuvą ir jos idealus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117402
+
+- id: c-108063
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
+    kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
+    religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
+    mokslinimui. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
+    nai mokėjo visus 64 Talmudo tomus. Be to, Talmudas buvo studijuojamas
+    jidiš kalbos tarme, susiformavusia Lietuvoje ir vadinama litviš.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117389
+
+- id: c-108065
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Žydai – daugiapolė, pliuralistinė, politiškai susiskaidžiusi bendruome-
+    nė, turinti daugelį partijų ir organizacijų. Vykstant sekuliarizacijai, jauni-
+    mo modernizacijai, yrant uždaram žydų geto gyvenimui valdžia šnairavo
+    į gausėjančius žydų kairiuosius, akty­vius LKP, komunistinio pogrindžio
+    atstovus, kur žydai dominavo: jie sudarė daugiau kaip 70 proc. narių svar-
+    biausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR’e
+    (tarptautinė organizacija revoliucionieriams remti, diriguojama iš Mas-
+    kvos). Lietuviams plūstelėjus į miestus ir veržiantis į pramonę bei pre-
+    kybą, prasidėjus ekonomikos krizei, sustiprėjo konkurencija. Žydai tebe-
+    kontroliavo apie 40 proc. šalies pramonės, 54 proc. jos vidaus prekybos,
+    20 proc. eksporto ir 40 proc. importo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117388
+
+- id: c-108067
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vėlesniais metais Vilniaus mies­
+    tas tolydžio augo: greitai plito statybos, daugėjo gyventojų,
+    mat Vytauto geradariška globa gaubė visus, nieko neišskiriant,
+    vienijo visus žmones ir įvairius tikėjimus. Žydai, dar XI am­
+    žiuje paplitę kaimyninėje Lenkijoje, Lietuvoje irgi nuo seno
+    buvo ne naujiena, juk laisvai galėjo į ją atvykti, tiek Lenkijos
+    sieną kirsdami, tiek ir iš rytų pusės. Tikriausiai jau Algirdo
+    laikais Vilnius juos bus pažinęs, bet Vytautas, kaip pavyzdį pri­
+    simindamas Kazimierą Didįjį, kuris žydų tautybės žmonių, ga­
+    nėtinai pasiturinčių, apsčiai pritelkė savo naujai pastatydintuo­
+    se miestuose, be to, išmanė, kiek naudos gali duoti turtai, verslai
+    bei įgimti sugebėjimai prekiauti tos tautos, anuomet ne tokios
+    kenksmingos kaip dabar.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117384
+    - t-117391
+
+- id: c-108069
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau Vytauto laikais Vil­
+    niaus žydai ne tik ištekliais, bet ir
+    išsimokslinimu tarp savųjų buvo
+    garsūs. Jakob Levi, iš Vilniaus, 1427
+    m. rašė hebrajiškas knygas ir turėjo
+    Moreno, t. y. teologijos daktaro, var­
+    dą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117395
+
+- id: c-108070
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Dalis
+    lietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius
+    Baltarusijoje, Lenkijoje, Ukrainoje.
+    Getuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-
+    kus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, ne-
+    paisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug
+    Lietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje
+    šaulių divizijoje.
+    1941 m. rudenį Lietuvos miestų ir miestelių centrai ištuštėjo, o žydų
+    namuose įsikūrė įstaigos arba apsigyveno nauji šeimininkai, naciai iš-
+    grobstė visas vertingiausias žydų kultūros vertybes.
+  citata_rodoma: "Dalis \nlietuvių policijos savisaugos batalionų panaudoti akcijose prieš civilius \nBaltarusijoje, Lenkijoje, Ukrainoje.\nGetuose atsirado pasipriešinimo grupių, kai kurie žydai bėgo į miš-\nkus, įsijungė į antinacinę rezistenciją – sovietų partizanų būrius, kur, ne-\npaisant susidūrimo su antisemitinėmis nuotaikomis, ėmėsi ginklo, daug \nLietuvos žydų kovojo SSRS gilumoje suformuotoje 16-ojoje lietuviškojoje \nšaulių divizijoje. \n1941 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117392
+
+- id: c-108071
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos vardas tapo ir žydų savastimi. Visą istorinės Lietuvos laiko-
+    tarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“. Taigi
+    Lietuvos vardą išplatino senoji Lietuvos valstybė – Lietuvos Didžioji Ku-
+    nigaikštija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117400
+
+- id: c-108073
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Reformos vyko nedidelėje, monoetninėje šalyje – 1923 m. rugsė-
+    jo 17  d. pirmojo Lietuvos gyventojų surašymo duomenimis, jų buvo
+    2 028 971 (be Vilniaus ir Klaipėdos kraštų). Lietuviai sudarė 82 proc.,
+    žydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų.
+  citata_rodoma: "Lietuviai sudarė 82 proc., \nžydai 7, vokiečiai 4, lenkai 3, rusai 2,3 proc. gyventojų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117399
+    - t-117405
+
+- id: c-108076
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
+    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi. Žydų miesto bendruomenės ir jų prekybos, finan-
+    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
+    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
+    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
+    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
+    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją. Apskritai Lietu-
+    vos nepriklausomybę žydai parėmė, dalyvavo Lietuvos Tarybos veikloje,
+    žydai savanoriai dalyvavo nepriklausomybės kovose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117396
+
+- id: c-108077
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kad ir kaip ten būtų, bet kaip tik šioje erdvėje gimė keturios moder-
+    niosios Naujųjų laikų valstybės: Lenkija, Lietuva, Baltarusija, Ukraina. O
+    kai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius
+    vaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.
+    Lietuva po 1795 m. prijungimo prie Rusijos nepriklausomybę atkūrė
+    1918–1919 m. ir sukūrė valstybę, besirėmusią naujais demokratiniais ir
+    nacionaliniais pagrindais – Lietuvos Respubliką.
+  citata_rodoma: "O \nkai kas priduria – ir… Izraelis, nes, kuriant šią valstybę, reikšmingiausius \nvaidmenis suvaidino iš šios erdvės kilę žydai, vadinęsi litvakais.\nLietuva po 1795 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117404
+    - t-117381
+
+- id: c-108078
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    167
+    Lietuvos piliečiai žydai ir lenkai
+    Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes
+    lietuvių valstietis buvo visiškai priklausomas nuo absoliučiai dominavu-
+    sių žydų pirklių ir derliaus supirkėjų ir atvirkščiai. Malonybiškai ir kartu
+    pašaipiai lietuvių vadinami „mūsų žydeliai“ (dėl to, kad nebuvo aukšto
+    ūgio ir užsiėmė valstiečių neigiamai vertinama prekyba, o ne „rimtu“
+    darbu) garsėjo visuotiniu raštingumu, pomėgiu knygai ir tuo atžvilgiu
+    buvo geras pavyzdys lietuvių tautiniam judėjimui, nors lietuviams atrodė
+    „kitokie“. Žydai lietuvių valstiečius matė kaip mažai civilizuotus kaimie-
+    čius, iš kurių jie tik pirko produkciją, o vos prasibrėžianti lietuvių kultūra
+    jiems, kaip ir lenkams, visiškai neimponavo. Su lietuviais žydai kalbėjo
+    rusiškai ar lenkiškai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117406
+
+- id: c-108081
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuva po 1905-ųjų – kultūrinė kova
+    Nors po revoliucijos Rusijoje atsirado atstovaujamosios, tie-
+    sa, ne demokratiškai renkamos, valdžios institucija – dvejų rūmų – Vals-
+    tybės Tarybos ir Valstybės Dūmos – parlamentas, su kuriuo caras dalijosi
+    įstatymų leidyba, visa vykdomoji valdžia ir konstitucinių įstatymų leidimas
+    liko caro rankose. Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš
+    dvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-
+    giausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis.
+  citata_rodoma: "Rinkimuose į Dūmą lietuviai, susiblokavę su žydais prieš \ndvarininkus ir lenkakalbius, išrinko pirmuosius savo parlamentarus, dau-\ngiausia socialdemokratus. Nepasikeitė ir vietinio valdymo modelis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117393
+
+- id: c-108082
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1923 m. panaikintas žydų ministro be
+    portfelio postas, vėliau laikytasi prezidento A. Smetonos nuostatos – ka-
+    dangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros
+    reikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų
+    žemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.
+    Nepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo,
+    žydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-
+    reikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-
+    jusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara
+    valstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-
+    joje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-
+    nių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų
+    sistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-
+    biais žydų kultūros centrais).
+  citata_rodoma: "Smetonos nuostatos – ka-\ndangi leidžiame tautinėms mažumoms gimtosios kalbos teisę, kultūros \nreikalais bendrauti su savaisiais, tai mažumos „už tai privalo būti mūsų \nžemės teritoriniai patriotai, mylėti Lietuvą ir gerbti lietuvių tautą“.\nNepaisant lietuvių kultūros, iš kurios neseniai šaipytasi, dominavimo, \nžydai galėjo ir toliau visiškai tenkinti savo nacionalinius kultūrinius po-\nreikius, tačiau žydai ir lietuviai gyveno atskirus, tik darbo reikalais susi-\njusius gyvenimus. Nacionalinėje lietuvių valstybėje žydams liko uždara \nvalstybės tarnybos sritis, tad jie tradiciškai vyravo prekyboje ir komerci-\njoje, daug prisidėjo prie Lietuvos rekonstrukcijos, sukūrė žydų ekonomi-\nnių ir finansinių organizacijų, taip pat unikalią savo švietimo ir mokyklų \nsistemą (pamokos mokyklose vyko hebrajų arba jidiš kalba, jos tapo svar-\nbiais žydų kultūros centrais)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-117387
+
+- id: c-166593
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Didžiausias Gaono nuopelnas – Babilono Talmudo redagavi-
+    mas ir komentavimas.
+    Vilniaus Gaono autoritetas, atrodo, lėmė, kad Lietuvos žydai – litva-
+    kai – pradėti laikyti ypač iškiliais žydais, besiskiriančiais nuo kitų griežtu
+    religinės tradicijos laikymusi, intelektualiu racionalumu ir pagarba išsi-
+    mokslinimui. Ne veltui sklido gandai, kad visi Vilniaus išminčiai atminti-
+    nai mokėjo visus 64 Talmudo tomus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183206
+
+- id: c-171265
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 113"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 113."
+  citata_originali: |
+    Toms statulėlėms
+    stigo keleto rankų, matyt, buvo nulaužtos. Domintis vėliau,
+    po dešimt metų, neaptikta nė pėdsako, kur toji liekana dingo;
+    vos rasta atsimenančių šį nutikimą; žydai nenorėjo prisipažin­
+    ti tai pirkę. Nežinia, kas buvo užrašyta, bet vis dėlto vienas
+    žodis, to dvarininko nupieštas iš atminties, kaip nagrinėjant
+    paaiškėjo, mūsų raštu reiškė Triopa (Trejopa), o tai lietuviškai
+    tas pats, kas slaviškai Tryzna, tai yra trys ženklai, trys simboliai
+    ar figūros arba trys žmogaus egzistavimo tarpsniai -  gyveni­
+    mas, mirtis ir amžinybė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188371
+
+- id: c-171266
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 365"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 365."
+  citata_originali: |
+    Iš čia tamsioje vaizduotėje įsišaknijo įsi­
+    vaizdavimas apie gąsdinantį mirusių vėlių vaidenimąsi prie tro­
+    besių; dažniausiai jos matomos šiukšlynuose, kur išmeta šiukš­
+    les iš kambarių. Dar aš pats pastebėjau, kad kaimiečiai, net
+    kaimuose gyvenantys Lietuvos žydai turi šito įsivaizdavimo lie­
+    kanų. 19
+    19
+    Ištrauka iš 1240 metų sutarties (Voigt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188372
+
+- id: c-176247
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kairysis valstiečių liaudinin-
+    kų blokas (vėliau Lietuvos valstiečių liaudininkų sąjunga – LVLS) gavo
+    29 vietas, trečia liko Lietuvos socialdemokratų partija (LSDP). Dešimt
+    vietų Steigiamajame Seime gavo tautinės mažumos (6 žydai, 3 lenkai ir
+    1 vokietis). Į Steigiamąjį Seimą buvo išrinktos ir penkios moterys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193568
+
+- id: c-176248
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors žydai nenulėmė nei okupacijos, nei sovietizacijos, jų matomumas
+    leido juos sutapatinti su sovietine valdžia, o nacių propagandos mašina
+    mestas „kovos su judobolševizmu“ šūkis susipynė su stipriomis lietuvių
+    antisovietinėmis nuotaikomis. Pirmą nacių okupacijos savaitę daug gy-
+    ventojų, tarp jų ir žydai persekioti kaip komunistai, sovietų aktyvistai, ir
+    keli tūkstančiai jų sunaikinti per vadinamąsias „valymo operacijas“, ku-
+    rias pradėjo atvykusios SD Einzatsgruppen – operatyviniai būriai. Tačiau
+    naciai, kitaip negu Vakarų Europoje, masines žydų žudynes pradėjo be
+
+    5 skyrius •  L I E T U VA :  S O V I E T Ų  I R  N A C I Ų  O K U PA C I J O S
+    199
+    pereinamojo laikotarpio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193569
 
 ## Ryšiai
-- Puolė Žydai: [[objektai/grupes/Heinricho Hamano skrajojantis būrys]], [[objektai/grupes/Lietuvių policijos savisaugos batalionai]], [[objektai/grupes/SD Einsatzgruppen]], [[objektai/grupes/Tilžės gestapo būrys]], [[objektai/grupes/Ypatingasis SD būrys Vilniuje]]
-- Gynė Žydai: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]], [[objektai/grupes/Lietuviai]]
-- Kariavo prieš: [[objektai/grupes/Andrejaus Vlasovo armija]]
-- Rėmė Žydai: [[objektai/asmenys/Pilypas Frizijus]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Turėjo priklausinį: [[objektai/daiktai/Išsaugotos Toros]]
-- Žydai keliavo į [[objektai/vietos/Lietuva]], [[objektai/vietos/Palestina]], [[objektai/vietos/Pietų Afrikos Sąjunga]]
-- Žydai prekiavo su [[objektai/grupes/Lietuviai]]
-- Žydai gyveno [[objektai/vietos/Kaimas]], [[objektai/vietos/Kauno getas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Rusija]], [[objektai/vietos/Šiaulių getas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
+- Puolė Žydai: [[objektai/grupes/SD Einsatzgruppen]], [[objektai/grupes/Tilžės gestapo būrys]]
+- Žydai keliavo į [[objektai/vietos/Pietų Afrikos Sąjunga]]
+- Žydai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Trakai]]

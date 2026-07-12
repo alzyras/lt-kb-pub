@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilkaviškis
 
@@ -32,9 +44,9 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
 <a id="claim-t-69569"></a>
 - t-001
   global_id: t-69569
-  teiginys: 'Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai.'
+  teiginys: "Napoleonas su kariuomene stovėjo Vilkaviškyje, kai jau buvo paskelbęs karą Rusijai."
   pagrindžia:
-    - c-001
+    - c-68870
 - susijęs iš [[objektai/ivykiai/Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.).md#claim-t-20241|Kunigų seminarijų Vilniuje, Telšiuose ir Vilkaviškyje uždarymas (1946 m.)]]: 1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.
 - susijęs iš Vilkaviškio apskritis: 1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.
 - susijęs iš Vilkaviškio apskritis: 1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.
@@ -61,7 +73,32 @@ Bet tai tebuvo tik diplomatiškas atsikalbėjimas; juo buvo norima nesugriauti L
     mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-68870
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl Lietu-
+    vos atgaivinimo klausimas nebuvo paliestas nė 1812 m. carui at-
+    silankius Vilniuje. Po triukšmingų puotų jis išvyko iš Vilniaus,
+    tik kai kuriuos ponus apdovanojęs Rusijos ordinais, o atsisvei-
+    kindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi
+    sutvarkyti laiko stoka. Bet tai tebuvo tik diplomatiškas atsi-
+    kalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,
+    kad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-
+    mene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą.
+  citata_rodoma: "atsisvei-\nkindamas Oginskiui pareiškė, kad Lietuvos reikalų neleidusi\nsutvarkyti laiko stoka. Bet tai tebuvo tik diplomatiškas atsi-\nkalbėjimas; juo buvo norima nesugriauti Lietuvos bajorijos vilčių,\nkad ši nepultų į Napoleono glėbį, kuris tuo tarpu su savo kariuo-\nmene stovėjo Vilkavišky ir jau buvo paskelbęs Rusijai karą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69569

@@ -18,6 +18,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Sniadeckis
 
@@ -30,9 +42,9 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
 <a id="claim-t-183544"></a>
 - t-001
   global_id: t-183544
-  teiginys: 'Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu.'
+  teiginys: "Filosofas Jonas Sniadeckis dirbo universitete didžiausio jo klestėjimo laikotarpiu."
   pagrindžia:
-    - c-001
+    - c-166937
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-18807|Andrius Sniadeckis]]: Andrius Sniadeckis buvo universitete dirbęs garsus chemikas ir biologas, kurio darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Eduardas Karolis Eichvaldas.md#claim-t-18879|Eduardas Karolis Eichvaldas]]: Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.
@@ -66,7 +78,37 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
     tuometinė itin gausi periodika.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-166937
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Šis laikotarpis bene didžiausio universiteto
+    klestėjimo metai – studentų skaičius nuo 200 padidėjo iki 1 300. Universi-
+    tete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim Le-
+    lewel, 1786–1861), filosofas Jonas Sniadeckis (Jan Śniadecki, 1756–1830),
+    chemikas ir biologas Andrius Sniadeckis (Andrzej Śniadecki), biologai Liu-
+    dvigas Heinrichas Bojanus (Lu-
+    dwig Heinrich Bojanus) ir Edu-
+    ardas Karolis Eichvaldas (Edward
+    Karol Eichwald), iš Austrijos at-
+    vykę Johanas Pėteris Frankas (Jo-
+    hann Peter Frank) ir jo sūnus Jo-
+    zefas Frankas (Joseph Frank) – jų
+    darbai buvo žinomi tarptautiniu
+    mastu. Su universitetu susijusi ir
+    tuometinė itin gausi periodika.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183544

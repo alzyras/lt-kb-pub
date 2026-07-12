@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - kunigas
   - ordinas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bertoldas
 
@@ -22,9 +34,16 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
 <a id="claim-t-87485"></a>
 - t-001
   global_id: t-87485
-  teiginys: 'Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste.'
+  teiginys: "Dvasininkas Bertoldas buvo smurtu paimtas ir žiauriai nužudytas savo namuose Rygos mieste."
   pagrindžia:
-    - c-001
+    - c-83464
+
+<a id="claim-t-194223"></a>
+- t-002
+  global_id: t-194223
+  teiginys: "Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui."
+  pagrindžia:
+    - c-176823
 - susijęs iš [[objektai/asmenys/Bertoldas (pranciškonas).md#claim-t-30212|Bertoldas (pranciškonas)]]: Pranciškonas Bertoldas su Henriku į Gedimino laišką veikiausiai įrašė daugiau, negu Gediminas buvo ketinęs.
 - susijęs iš [[objektai/asmenys/Bertoldas Briuhavenas.md#claim-t-186098|Bertoldas Briuhavenas]]: Bertoldas su kariuomene užpuolė darbininkus ir mėgino išardyti lietuvių įrenginius, bet antpuolis buvo atremtas.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
@@ -55,13 +74,80 @@ Jie taip pat smurtu paėmė ir vieną dvasininką, poną Bertoldą, kurį jie ž
     ir daugelyje kitų [vietų].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Trečia, ar galėjo jam rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini mų Ordinui.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Antra, ar galima įsivaizduoti, kad tokiame laiške pri­
+    simintų savo paties nužudytą didįjį kunigaikštį Vitą, kai šis
+    norėjęs pereiti į krikščioniškąjį tikėjimą? Trečia, ar galėjo jam
+    rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­
+    biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip
+    smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­
+    mų Ordinui.
+    Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
+    aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę
+    popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­
+    pareigojimų Ordinui.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-83464
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    ## Puslapis 103
+
+    I  KNYGA
+    arkivyskupo Fridricho atveju, kurį klastingai išmetė iš baž­
+    nyčios. Jie taip pat smurtu paėmė ir vieną dvasininką, poną
+    Bertoldą, kurį jie žiauriai nužudė Rygos mieste jo paties na­
+    muose.
+    Jie ir žemes paverčia tyrais, kaip tai matyti Žiemgalijoje
+    ir daugelyje kitų [vietų].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87485
+
+- id: c-176823
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Antra, ar galima įsivaizduoti, kad tokiame laiške pri­
+    simintų savo paties nužudytą didįjį kunigaikštį Vitą, kai šis
+    norėjęs pereiti į krikščioniškąjį tikėjimą? Trečia, ar galėjo jam
+    rūpėti nužudytasis kunigas Bertoldas, apie kurį, iki tol la­
+    biausiai užsiėmęs karais savo Rytų pasienyje, tikriausiai taip
+    smulkiai nė nežinojo, kad būtų galėjęs prijungti prie kaltini­
+    mų Ordinui.
+    Ketvirta, jeigu įsigilinsime į laiško pabaigą, rasime jame
+    aiškiai išreikštą norą priimti krikščionių tikėjimą ir viršesnę
+    popiežiaus valdžią su sąlyga, kad tik niekada neturėtų įsi­
+    pareigojimų Ordinui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194223
+
 ## Ryšiai
-- Bertoldas valdė [[objektai/vietos/Ragainė]]
 - Bertoldas mirė [[objektai/vietos/Ryga]]
-- Bertoldas puolė [[objektai/vietos/Junigeda]], [[objektai/vietos/Medraba]]
-- Bertoldas užėmė [[objektai/vietos/Medraba]]

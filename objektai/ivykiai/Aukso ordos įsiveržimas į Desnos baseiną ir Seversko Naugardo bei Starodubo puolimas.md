@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukso ordos įsiveržimas į Desnos baseiną ir Seversko Naugardo bei Starodubo puolimas
 
@@ -49,31 +61,30 @@ Nenurodyta
 <a id="claim-t-186782"></a>
 - t-001
   global_id: t-186782
-  teiginys: 'Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu.'
+  teiginys: "Aukso ordos totoriai labai šaltą 1501-1502 m. žiemą žiemojo nurodytose vietose, nesulaukę realios LDK paramos kariuomene, artilerija ir maistu."
   pagrindžia:
-    - c-001
+    - c-169978
 
 <a id="claim-t-186783"></a>
 - t-002
   global_id: t-186783
-  teiginys: 'Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį.'
+  teiginys: "Pagal 1501 m. Aukso ordos ir LDK sutartį Aukso orda apie 1501 m. birželį iš Volgos ir Dono žemupio stepių persimetė į Dono aukštupį."
   pagrindžia:
-    - c-002
+    - c-169979
 
 <a id="claim-t-186784"></a>
 - t-003
   global_id: t-186784
-  teiginys: '1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės.'
+  teiginys: "1501 m. rugpjūtį Aukso orda įsiveržė į buvusias LDK teritorijas Desnos baseine, 1500 m. prijungtas prie Maskvos Didžiosios Kunigaikštystės."
   pagrindžia:
-    - c-002
+    - c-169979
 
 <a id="claim-t-186785"></a>
 - t-004
   global_id: t-186785
-  teiginys: 'Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d.'
+  teiginys: "Seversko Naugardą ir Starodubą Aukso ordos totoriai puolė 1501 m. rugsėjį, iki spalio 7 d."
   pagrindžia:
-    - c-001
-
+    - c-169978
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -89,6 +100,7 @@ Nenurodyta
     gininko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,8 +119,54 @@ Nenurodyta
     seine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
+
+## Citatos
+
+- id: c-169978
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­
+    vo puolami 1501 m. rugsėjo mėn. (prieš X.7).
+    45 Čia nurodytose vietose Ir dar plačiau | pietus ir rytus Auk­
+    so ordos totoriai žiemojo labai šaltų 1501— 1502 m. žiemų, nesu­
+    laukdami, Išskyrus pažadus, jokios realios paramos kariuomene,
+    artilerija ir m aistu Iš Aleksandro ir LDK Ponų Tarybos, visai ne­
+    įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
+    gininko.
+  citata_rodoma: "4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­\nvo puolami 1501 m. rugsėjo mėn. (prieš X.7).\n45 Čia nurodytose vietose Ir dar plačiau | pietus ir rytus Auk­\nso ordos totoriai žiemojo labai šaltų 1501— 1502 m. žiemų, nesu­\nlaukdami, Išskyrus pažadus, jokios realios paramos kariuomene, \nartilerija ir m aistu Iš Aleksandro ir LDK Ponų Tarybos, visai ne­\nįvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun- \ngininko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186785
+    - t-186782
+
+- id: c-169979
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1501 m., tarpininkaujant M. Chaleckiui.
+    tarp Aukso ordos ir LDK buvo sudaryta sųjungos sutartis prieš
+    Krymo chanų Mengll-Girėjų ir M askvos Didžiųjų Kunigaikštystę. Pa­
+    gal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir
+    Dono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­
+    pjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­
+    seine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės.
+  citata_rodoma: "Pa­\ngal šių sutarti apie 1501 m. birželio mėn. Aukso orda iš Volgos ir \nDono žemupio stepių persim etė ) Dono aukštupį ir 1501 m. rug­\npjūčio mėn. įsiveržė | buvusiųjų LDK teritorijų Desnos upės ba­\nseine, 1500 m. prijungta prie Maskvos Didžiosios Kunigaikštystės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186783
+    - t-186784

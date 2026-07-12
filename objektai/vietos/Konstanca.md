@@ -13,14 +13,26 @@ date_start: '1415'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
-  - 'XXI'
 tags:
   - krikštas
   - tauta
   - unija
   - vieta
+amziai:
+  - 'XV'
+  - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konstanca
 
@@ -29,35 +41,34 @@ tags:
 1418 m. Vytautas siunčia į Konstancą jau minėtą G.
 
 ## Teiginiai
+
 <a id="claim-t-68240"></a>
 - t-001
   global_id: t-68240
-  teiginys: 'Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.'
+  teiginys: "Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą."
   pagrindžia:
-    - c-002
+    - c-32139
 
 <a id="claim-t-68241"></a>
 - t-002
   global_id: t-68241
-  teiginys: '1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai.'
+  teiginys: "1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai."
   pagrindžia:
-    - c-003
+    - c-32140
 
 <a id="claim-t-68242"></a>
 - t-003
   global_id: t-68242
-  teiginys: 'G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.'
+  teiginys: "G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose."
   pagrindžia:
-    - c-001
+    - c-24199
 
 <a id="claim-t-188725"></a>
 - t-004
   global_id: t-188725
-  teiginys: 'Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.'
+  teiginys: "Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs."
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171614
 - susijęs iš [[objektai/grupes/Stačiatikiai.md#claim-t-183185|Stačiatikiai]]: 1418 m. Vytautas į Konstancą pasiuntė G. Camblako stačiatikių delegaciją, turėjusią pagrįsti unijos su Katalikų bažnyčia siekį.
 - susijęs iš [[objektai/asmenys/Jeronimas Prahiškis.md#claim-t-190012|Jeronimas Prahiškis]]: Jeronimas Prahiškis 1416 m. birželio 21 d. buvo sudegintas gyvas Konstancoje.
 - susijęs iš [[objektai/asmenys/Teodoras Lenkas.md#claim-t-190246|Teodoras Lenkas]]: Vladislovas Jogaila pasiuntė dominikoną Teodorą Lenką į Konstancos susirinkimą išdėstyti skundų prieš kryžiuočius.
@@ -106,6 +117,7 @@ tags:
 - susijęs iš [[objektai/asmenys/Jurgis Galminas.md#claim-t-29024|Jurgis Galminas]]: Jurgis Galminas buvo vienas iš Vytauto didikų, vadovavusių į Konstancą atsiųstiems pakrikštytiems Žemaičių bajorams.
 - susijęs iš [[objektai/asmenys/Jurgis Gedgaudas.md#claim-t-29025|Jurgis Gedgaudas]]: 1415 m. į Konstancą atsiųstiems pakrikštytiems žemaičių bajorams vadovavo Vytauto didikas Jurgis Gedgaudas.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'G. Camblako ekumeninės mišios Konstanco katedroje amžininkams paliko didelį įspūdį ir buvo vaizduojamos to meto kronikose.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -119,10 +131,12 @@ tags:
     lių bendriją vaizduojančią Strasbūro freską.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-002
   santrauka: 'Popiežiaus Jono XXIII delegatas siūlė Žemaičių klausimą ir kitus ginčus perkelti į Konstancos bažnytinį susirinkimą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -136,10 +150,12 @@ tags:
     į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: '1415 m. gruodžio 4 d. delegacija buvo iškilmingai priimta Konstancos katedroje, kur vyko susirinkimo posėdžiai.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -149,10 +165,12 @@ tags:
     (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-004
   santrauka: 'Konstancos susirinkime kaltinamasis atsakinėjo, kad Lenkijoje Viklifo mokymo neskleidęs ir apie jį ten neužsiminęs.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -178,13 +196,104 @@ tags:
     jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
     ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
     čioje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
+## Citatos
+
+- id: c-24199
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1418 m. Vytautas siunčia į
+    Konstancą jau minėtą G. Camblako stačiatikių delegaciją, turėjusią pa-
+    grįsti siekį gyventi unijoje su Katalikų bažnyčia. G. Camblako ekume-
+    ninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad
+    imtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis
+    prie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-
+    lių bendriją vaizduojančią Strasbūro freską.
+  citata_rodoma: "G. Camblako ekume-\nninės mišios Konstanco katedroje amžininkams paliko tokį įspūdį, kad\nimtos išsamiai vaizduoti to meto kronikose, o Lietuva drauge su kitomis\nprie kryžiaus žygiuojančiomis Europos šalimis pateko į krikščioniškų ša-\nlių bendriją vaizduojančią Strasbūro freską."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68242
+
+- id: c-32139
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (spalio 7 d.) padaryti paliaubas, kurios vėliau vis buvo prailginamos.
+    Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII
+    delegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais
+    ginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą
+    Konstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai
+    Jonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas
+    į Lietuvą, pagal Jogailos ir Vytauto prašymą^31.
+  citata_rodoma: "Pagaliau kariaujančios pusės paklausė popiežiaus Jono XXIII\ndelegato, kuris siūlė nebaigiamą Žemaičių klausimą su visais kitais\nginčais perkelti į to popiežiaus kviečiamą bažnytinį susirinkimą\nKonstancoje. Ten pusbroliai tikėjosi pasisekimo, nes prieš tai\nJonas XXIII buvo spėjęs panaikinti pasenusias ordino privilegijas\nį Lietuvą, pagal Jogailos ir Vytauto prašymą^31."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68240
+
+- id: c-32140
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš tolimo ir beveik nežinomo krašto pasirodymas delegacijos,
+    kuri 1415.XII.4 d. buvo iškilmingai priimta Konstancos katedroje
+    (kur vyko posėdžiai), atkreipė susirinkimo dėmesį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68241
+
+- id: c-171614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Tenai nors tarėsi su Husu, sa­
+    vo mokytoju ir bičiuliu, tokiu pat patrakėliu teologu, vis dėlto,
+    šiek tiek vėliau vykdamas per Lenkiją į Vieną, visiškai neatsi-
+    skleidė su ta naujiena lenkų kunigams, bet, atrodo, jau buvo
+    įtariamas. O Konstancos susirinkime klausimas, kodėl Lenki­
+    joje skleidęs Viklifo mokymą, vis atsakinėjo, kad tame krašte
+    apie tai net neužsiminęs. Lygia dalia, kai bažnyčios tėvai jį su­
+    sirinkime klausinėjo, kodėl tą mokymą dėstęs, klaidinęs ką tik
+    atverstus ir pakrikštytus katalikus, atsakinėjo, kad, keliauda­
+    mas po Lietuvą, radęs nemaža čiabuvių, priimtų į Romos baž­
+    nyčią, kurie seniau buvo pakrikštyti pagal kažkokį rusų tikėji­
+    mą, o iš šio tikėjimo pereinančius buvo įprasta krikštyti antrą
+    kartą, tad Aleksandras Vytautas ir vietos vyskupai klausę jį
+    398
+
+    ## Puslapis 398
+
+    patarimo, nes abejoję, ar tie žmonės tikri krikščionys, ar ne;
+    jis jiems atsakęs, kad krikštyti antrą kartą nedera, kad pakan­
+    ka juos išmokyti tikrojo tikėjimo, išpažįstamo Romos bažny­
+    čioje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188725
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Jurgis Galminas]], [[objektai/asmenys/Jurgis Gedgaudas]], [[objektai/asmenys/Mikalojus Sepienskis]], [[objektai/grupes/Stačiatikiai]], [[objektai/asmenys/Teodoras Lenkas]]
 - Mirties vieta: [[objektai/asmenys/Jeronimas Prahiškis]]
 - Buvo siuntimo vieta: [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -1,0 +1,81 @@
+---
+tipas: asmuo
+pavadinimas: 'Erikas XIII Pomeranietis'
+saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1382 m.'
+  - '1459 m.'
+date_start: '1382'
+date_end: '1459'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIV'
+  - 'XV'
+periodo_grupes:
+  - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Erikas XIII Pomeranietis
+
+## Santrauka
+
+Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— 1459 m ).
+
+## Teiginiai
+
+<a id="claim-t-194131"></a>
+- t-001
+  global_id: t-194131
+  teiginys: "Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— 1459 m )."
+  pagrindžia:
+    - c-176744
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Norvegijos ir Švedijos ka raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382— 1459 m ).'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
+    raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
+    1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
+    kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
+    jungai priklausančius Vokietijos miestus.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176744
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    • Danijos (faktiškai nuo 1412 m.j. Norvegijos ir Švedijos ka­
+    raliumi tuo laikotarpiu buvo Erikas ХП1 Pomeranietis (1382—
+    1459 m ). Lucko suvažiavime dalyvavo jo atstovų delegacija, sie­
+    kusi užsitikrinti im peratoriaus Zigmanto paramų prieš Hanzos są­
+    jungai priklausančius Vokietijos miestus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194131

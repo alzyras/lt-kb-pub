@@ -18,6 +18,18 @@ tags:
   - unija
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # barokinė santvarka
 
@@ -30,17 +42,16 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
 <a id="claim-t-22079"></a>
 - t-001
   global_id: t-22079
-  teiginys: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka.'
+  teiginys: "Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka."
   pagrindžia:
-    - c-001
+    - c-166795
 
 <a id="claim-t-183401"></a>
 - t-002
   global_id: t-183401
-  teiginys: 'Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu.'
+  teiginys: "Barokinės santvarkos sąvoka siejama su 1566 m. įsigalėjusia luomine bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu."
   pagrindžia:
-    - c-001
-
+    - c-166795
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,8 +68,32 @@ Barokinė Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o
     o tai ir leidžia vartoti barokinės santvarkos ir barokinio ūkio sąvokas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-166795
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Epochos pradžią galima sieti ne tik su Liublino unija, bet ir su jėzui-
+    tais, kurie atvykę į Lietuvą 1579 m. įkūrė Vilniaus universitetą. Barokinė
+    Nesvyžiaus jėzuitų kolegijos bažnyčia pradėta statyti 1586 m., o barokinės
+    architektūros manifestu paprastai laikoma Vilniaus Šv. Kazimiero bažny-
+    čia. Baroko menas, jėzuitai ir Vilniaus universitetas – svarbiausi epochos
+    kultūros dėmenys. Įvairūs saitai juos siejo su 1566 m. įsigalėjusia luomine
+    bajorų santvarka ir Valakų reformos suformuotu lažiniu palivarkiniu ūkiu,
+    o tai ir leidžia vartoti barokinės santvarkos ir barokinio ūkio sąvokas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183401
+    - t-22079

@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Ladyga
 
@@ -27,23 +39,23 @@ periodo_grupes:
 <a id="claim-t-40248"></a>
 - t-001
   global_id: t-40248
-  teiginys: 'K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.'
+  teiginys: "K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą."
   pagrindžia:
-    - c-001
+    - c-42047
 
 <a id="claim-t-40249"></a>
 - t-002
   global_id: t-40249
-  teiginys: 'I brigados vadas K. Ladyga suskirstė savo pajėgas į tris kolonas.'
+  teiginys: "I brigados vadas K. Ladyga suskirstė savo pajėgas į tris kolonas."
   pagrindžia:
-    - c-002
+    - c-42048
 
 <a id="claim-t-40250"></a>
 - t-003
   global_id: t-40250
-  teiginys: 'I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.'
+  teiginys: "I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi."
   pagrindžia:
-    - c-003
+    - c-42049
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49399|K. Škirpa]]: K. Škirpos vadovaujamai kairiajai kolonai buvo įsakyta pulti Mukulių dvaro, Medinių, Sniegiškių, Štadvilių, Jaunaikių ir Krasnos kryptimi.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49400|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
 - susijęs iš [[objektai/asmenys/K. Škirpa.md#claim-t-49401|K. Škirpa]]: Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.
@@ -68,6 +80,7 @@ periodo_grupes:
     su likusiais vyko į Uteną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,6 +103,7 @@ periodo_grupes:
     Štadvilių, Jaunaikių, Krasnos kryptimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,12 +121,74 @@ periodo_grupes:
     10 val. ryto Degučiai buvo užimti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-42047
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    "Tuo tarpu dešiniosios kolonos
+    vadas karin. K. Ladyga birželio 2 d.
+    su raitininkais slinko paskui atsi-
+    traukiantį priešą į rytus. Dalį raiti-
+    ninkų pasiuntęs Tauragnų kryptimi,
+    su likusiais vyko į Uteną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40248
+
+- id: c-42048
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1 brigados vadas
+    karin. K. Ladyga suskirstė savo pajėgas
+    į 3 kolonas. Kairiajai karin. K. Škirpos
+    vadovaujamai kolonai (Vilniaus atskira-
+    sis batalionas ir 3-iosios baterijos vienas
+    būrys), laikiusiai poziciją Volungės-
+    Šaltmalkių-Lungelių- Voversių-Mor-
+    kūnų-Vainiūnų linijoje, įsakyta, palaikant
+    ryšį su kaimynystėje kairėje buvusios
+    It brigados 2-uoju pėst. pulku, pulti
+    Mukulių dvaro, Medinių, Sniegiškių,
+    Štadvilių, Jaunaikių, Krasnos kryptimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40249
+
+- id: c-42049
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    "Tuomet I brigados vadas karin. K. Ladyga
+    įsakė pulti bolševikus Degučių plentu,
+    Zarasų kryptimi. Po atkaklaus puolimo prie-
+    šas buvo priverstas atsitraukti. Lietuviams
+    pavyko pralaužti rusų gynybą jiems pačioje
+    nepalankiausioje vietoje. Rugpjūčio 24 d.
+    10 val. ryto Degučiai buvo užimti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40250
+
 ## Ryšiai
 - K. Ladyga keliavo į [[objektai/vietos/Utena]]
-- K. Ladyga puolė [[objektai/grupes/Rusai]]
-- K. Ladyga siuntė į [[objektai/vietos/Tauragnai]], [[objektai/vietos/Zarasai]]

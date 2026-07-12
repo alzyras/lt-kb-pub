@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventoji kardinolų taryba (institucija, XV a.)
 
@@ -23,10 +35,9 @@ Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį 
 <a id="claim-t-185463"></a>
 - t-001
   global_id: t-185463
-  teiginys: 'Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą.'
+  teiginys: "Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį į Šventąją kardinolų tarybą."
   pagrindžia:
-    - c-001
-
+    - c-168824
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,7 +62,39 @@ Popiežius Inocentas paskelbė Fridrichą Krokuvos arkivyskupu ir įtraukė jį 
     pavaduoti karalių karo stovykloje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168824
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
+  citata_originali: |
+    Karalius, jausdamas, jog
+    1488 m e ta i
+    diena nuo dienos vis labiau
+    silpsta, žinojo, kad artėja pa­
+    skutinioji, todėl iš visų jėgų stengėsi, išnaudodamas vi­
+    sokias progas, iškelti sūnus į deramas aukštybes. Štai
+    todėl pasirūpino, kad popiežius Inocentas paskelbtų
+    Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją
+    kardinolų tarybą, be to, visomis priemonėmis stengė­
+    si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
+    tino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai
+    dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
+    nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau
+    pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą
+    dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
+    pavaduoti karalių karo stovykloje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185463

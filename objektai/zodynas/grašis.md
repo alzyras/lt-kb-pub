@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # grašis
 
@@ -28,24 +40,23 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
 <a id="claim-t-34259"></a>
 - t-001
   global_id: t-34259
-  teiginys: 'Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais.'
+  teiginys: "Vytautas per pirmus ketverius metus Žemaičių vyskupystei pašalpą mokėjo lietuviškais grašiais."
   pagrindžia:
-    - c-001
+    - c-35484
 
 <a id="claim-t-34260"></a>
 - t-002
   global_id: t-34260
-  teiginys: 'Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.'
+  teiginys: "Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį."
   pagrindžia:
-    - c-002
+    - c-35485
 
 <a id="claim-t-184241"></a>
 - t-003
   global_id: t-184241
-  teiginys: 'Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį.'
+  teiginys: "Nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarė vieną rublį."
   pagrindžia:
-    - c-003
-
+    - c-167625
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,6 +72,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     tribucijomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,6 +90,7 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,7 +109,71 @@ Taip pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­ jos g
     šiai buvo kalami ir Lietuvoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-35484
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Viename Jogailos ir Vytauto dokumen­
+    te pabrėžta, kad mokesčiai būtų mokami kaltais Lietuvoj si­
+    dabriniais pinigais; matyt, grašiais arba denariukais. Vytau­
+    tas, teikdamas per pirmus keturis metus Žemaičių vyskupys­
+    tei pašalpą, mokėjo jai lietuviškais grašiais (latorum gros-
+    sorum^1 ).
+    Be mokesčių Vytautas didindavo dar savo pajamas ir kon­
+    tribucijomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34259
+
+- id: c-35485
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Taip
+    pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­
+    jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį
+    (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
+    šiai buvo kalami ir Lietuvoje.
+    Šalia jų kursavo ir lietuviški denariukai, atsiradę 1387-1390
+    m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34260
+
+- id: c-167625
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Jogailos ir Vytauto rūmuose bu­
+    vo kartais mokama rubliais, patekusiais iš slavų kraštų; bet tai
+    dar nebuvo monetos, o paprasti sukapoti sidabro gabalai^5 ). Taip
+    pat jau nuo Algirdo ir Kęstučio laikų Lietuvoje kursavo ir Čeki­
+    jos grašiai — tikros monetos, kurių 60 sudarydavo vieną rublį
+    (rublis —^1 / 2 svaro gryno sidabro). Vytauto laikais čekų gra­
+    šiai buvo kalami ir Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184241

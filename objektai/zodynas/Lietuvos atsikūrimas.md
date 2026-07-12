@@ -15,6 +15,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos atsikūrimas
 
@@ -27,9 +39,16 @@ amziai:
 <a id="claim-t-38725"></a>
 - t-001
   global_id: t-38725
-  teiginys: '1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama.'
+  teiginys: "1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama."
   pagrindžia:
-    - c-001
+    - c-40529
+
+<a id="claim-t-183716"></a>
+- t-002
+  global_id: t-183716
+  teiginys: "1918 m. Lietuvos valstybė atsikūrė modernios lietuvių tautos padedama."
+  pagrindžia:
+    - c-167104
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78782|Loreta Uzdraitė]]: Loreta Uzdraitė, Arvydas Anušauskas ir Karolis Zikaras yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78786|Loreta Uzdraitė]]: Loreta Uzdraitė kartu su Arvydu Anušausku ir Karoliu Zikaru parengė kartoschemą apie žymiausius Lietuvos partizanų mūšius prieš sovietų pajėgas.
@@ -58,6 +77,7 @@ amziai:
     priemonėmis, kokios buvo įmanomos totalitarizmo amžiuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +92,43 @@ amziai:
     pagalba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-40529
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1918 m. Lietuvos
+    valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos
+    pagalba. Maža, bet dvasia stipri Lietuvos Respublika ir jos gynė-
+    jai ne kartą pademonstravo savo nusiteikimą ir pasiryžimą, o ir
+    patekus tarp didžiosios politikos girnų, tauta stojo į kovą tomis
+    priemonėmis, kokios buvo įmanomos totalitarizmo amžiuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38725
+
+- id: c-167104
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Laisvę lengviau prarasti, nei ją atgauti. 1918 m. Lietuvos
+    valstybė pagaliau atsikūrė, bet jau su modernios lietuvių tautos
+    pagalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183716

@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tarasenka P. Lietuvos archeologijos medžiaga
 
@@ -29,17 +41,16 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
 <a id="claim-t-61010"></a>
 - t-001
   global_id: t-61010
-  teiginys: 'P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile.'
+  teiginys: "P. Tarasenkos užfiksuota kartografinė medžiaga naudota D. Skronaitei tapatinti su vietove prie Mituvos aukštupio, Skeršpile."
   pagrindžia:
-    - c-001
+    - c-61642
 
 <a id="claim-t-61011"></a>
 - t-002
   global_id: t-61011
-  teiginys: 'P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“.'
+  teiginys: "P. Tarasenkos „Lietuvos archeologijos medžiaga“ išleista 1928 m.; leidimo vieta citatoje nurodyta santrumpa „K.“."
   pagrindžia:
-    - c-002
-
+    - c-61643
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,6 +65,7 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     nerandame.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +78,43 @@ Dusburgietis teigia, kad tarasenkos užfiksuota kartografine medžiaga, tapatint
     Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-61642
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 202"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 202."
+  citata_originali: |
+    D. Skronaitę pabandyta, pasiremiant P. Tarasenkos užfiksuota kartografine medžiaga,
+    tapatinti su vietove prie Mituvos aukštupio — Skeršpile (1915 m. — Szkerkszpile;
+    Tarasenka P., Lietuvos archeologinė medžiaga, p. 245; Mortensen H., Mortensen G., Die
+    Besiedlung..., 2, p. 185 ir žemėl.), tačiau dab. Skeršpylių k. (Veliuonos apyl. Jurbarko
+    rj.), deš. Mituvos krante prie Akmenos santakos bei toliau  į rytus piliakalnio pėdsakų
+    nerandame.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61010
+
+- id: c-61643
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 272."
+  citata_originali: |
+    Tarasenka P. Lietuvos archeologijos medžiaga.— K., 1928.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61011

@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jieznas
 
@@ -27,23 +39,23 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
 <a id="claim-t-79415"></a>
 - t-001
   global_id: t-79415
-  teiginys: 'Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.'
+  teiginys: "Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną."
   pagrindžia:
-    - c-002
+    - c-76412
 
 <a id="claim-t-79416"></a>
 - t-002
   global_id: t-79416
-  teiginys: 'Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą.'
+  teiginys: "Pralaimėjimas Jiezne ir nesėkmė pietinėje Lietuvoje prie Nemuno galutinai sužlugdė bolševikų planus užimti Kauną - laikinąją Lietuvos sostinę ir nutraukti Lietuvos valstybės egzistavimą."
   pagrindžia:
-    - c-003
+    - c-76413
 
 <a id="claim-t-79417"></a>
 - t-003
   global_id: t-79417
-  teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
+  teiginys: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio."
   pagrindžia:
-    - c-001
+    - c-76411
 - susijęs iš [[objektai/asmenys/A. Ružancovas.md#claim-t-39981|A. Ružancovas]]: A. Ružancovas vadovavo Jiezno ypatingajai rinktinei, sudarytai iš 3 kuopų su 4 kulkosvaidžiais.
 - susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.
 - susijęs iš [[objektai/asmenys/Antanas Šukys.md#claim-t-40033|Antanas Šukys]]: Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.
@@ -87,7 +99,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     buvo siūloma atgimstančiai valstybei.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -112,7 +125,8 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     saras - lietuvis S. Mickevičius.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -134,10 +148,85 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
     limai Lentvario ir Vilniaus gynybai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/A. Žemaitis]]
+## Citatos
+
+- id: c-76411
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo
+    kariauti Nepriklausomybės kovose prieš bolševikus, atremda-
+    ma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki
+    pat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su
+    plėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-
+    vanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-
+    jusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės
+    Lietuvos egzistavimo galimybę atmetusius, dar neseniai gin-
+    klo broliais buvusius lenkus prie Širvintų ir Giedraičių. Visos
+    Nepriklausomybės kovos buvo paremtos savanorių heroizmu —
+    net jei už jį Lietuva siūlė žemę, vis tiek pagalvokim, kokia auka
+    buvo siūloma atgimstančiai valstybei.
+  citata_rodoma: "Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo\nkariauti Nepriklausomybės kovose prieš bolševikus, atremda-\nma jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki\npat Daugpilio. Buvo priversta taip pat prie Radviliškio kautis su\nplėšikaujančiais bermontininkais (oficialiai: Rusijos Vakarų sa-\nvanorių armija) - Rusijos baltaisiais, prie kurių dėjosi pralaimė-\njusios Vokietijos kariuomenės daliniai, o taip pat - prieš tautinės\nLietuvos egzistavimo galimybę atmetusius, dar neseniai gin-\nklo broliais buvusius lenkus prie Širvintų ir Giedraičių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79417
+
+- id: c-76412
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Grojant „Internacionalą“, pulkas išžygiavo
+    Lentvario kryptimi. Nesutikdamas pasi-
+    priešinimo, vasario 8 d. pulkas pasiekė
+    Stakliškes, o kitą dieną jo priešakiniai da-
+    liniai, susišaudę su lietuvių husarų žvalgų
+    būriu, užėmė netoli Prienų esantį Jiezną.
+
+    Bolševikų pajėgos
+    7-ajam „lietuviška-
+    jam“ pulkui vadovavo
+    rusas Lebedevas, jo pa-
+    vaduotojas buvo baltarusis
+    A. Ružancovas, pulko komi-
+    saras - lietuvis S. Mickevičius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79415
+
+- id: c-76413
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau va-
+    sario 14-15 d. naktį lietuviai ir vokie-
+    čiai išstūmė bolševikus iš Alytaus.
+    Pralaimėjimas Jiezne ir nesėkmė pie-
+    tinėje Lietuvoje prie Nemuno galuti-
+    nai sužlugdė bolševikų planus užimti
+    Kauną - laikinąją Lietuvos sostinę ir nu-
+    traukti Lietuvos valstybės egzistavimą.
+    Bolševikų karinė vadovybė įsakė
+    „Lietuvių“ (Pskovo) divizijai įsitvirtinti
+    užimtoje teritorijoje ir pasirengti ga-
+    limai Lentvario ir Vilniaus gynybai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79416

@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kauno miesto sodas (miestas)
 
@@ -27,10 +39,9 @@ amziai:
 <a id="claim-t-26329"></a>
 - t-001
   global_id: t-26329
-  teiginys: '1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.'
+  teiginys: "1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė."
   pagrindžia:
-    - c-001
-
+    - c-26554
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,29 @@ amziai:
     lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26554
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1971 m. viename iš Vilniaus
+    restoranų įvyko nelegalus roko festivalis, dar vadinamas Baltijos šalių ar
+    net 300 SSRS hipių suvažiavimu. 1972 m. gegužės 14 d. devyniolikme-
+    tis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis,
+    pats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-
+    lė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė.
+  citata_rodoma: "1972 m. gegužės 14 d. devyniolikme-\ntis Romas Kalanta, apsiskaitęs, rašęs eilėraščius, grojęs gitara jaunuolis, \npats atrodęs kaip hipis, Kauno miesto sode prie Muzikinio teatro apsipy-\nlė benzinu ir, sušukęs „Laisvę Lietuvai!“, pasidegė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26329

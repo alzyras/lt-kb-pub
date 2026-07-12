@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # P. Būtėnas Lietuvos sostinė Vilnius
 
@@ -25,10 +37,9 @@ Būtėnas, P.
 <a id="claim-t-31877"></a>
 - t-001
   global_id: t-31877
-  teiginys: 'P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266.'
+  teiginys: "P. Būtėno „Lietuvos sostinė Vilnius“ paskelbta žurnale „Karys“ 1973 m. Nr. 8, p. 264-266."
   pagrindžia:
-    - c-001
-
+    - c-33683
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,33 @@ Būtėnas, P.
     Königsberg i.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33683
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Adamus, J. : _O tytule panującego i paóstwa litewskiego,_ KH, t. 49,
+    1930, 313-332 p. — Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,
+    nr. 8, 264-266 p. — (”) _Vilniaus pradžia,_ Karys, 1973, nr. 10, 342-344 p.
+    -— (”) _Karalius-kuniugas,_ Karys, 1971, 193-197, 227-230, 263-265, 306-
+    311 p. — Chodynicki, K. : _Próby zaprowadzenia chrześcijaństwa na Lit­
+    ine przed r. 1386,_ PH, t. 18, zesz. 2, 3, 1914, 219-255, 257-319 p.—
+    Forstbeuter, K. : _Die Bekehrung Gedimins und der Deutsche Orden,_
+    AP, t. 5, 1928, 239-268 p. — (”) _Die Bekehrung des Litauerkönigs Gedi-
+    min. Eine Streitfrage,_ atsp. iš Jahrbuch der Albertus-Universität zu
+    Königsberg i.
+  citata_rodoma: "— Būtėnas, P. : _Lietuvos sostinė Vilnius,_ Karys, 1973,\nnr. 8, 264-266 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31877

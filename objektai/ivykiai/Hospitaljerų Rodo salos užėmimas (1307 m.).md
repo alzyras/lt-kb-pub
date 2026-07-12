@@ -13,6 +13,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hospitaljerų Rodo salos užėmimas (1307 m.)
 
@@ -41,10 +53,9 @@ Nenurodyta
 <a id="claim-t-62294"></a>
 - t-001
   global_id: t-62294
-  teiginys: 'Hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir penkias kitas salas.'
+  teiginys: "Hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir penkias kitas salas."
   pagrindžia:
-    - c-001
-
+    - c-62830
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,28 @@ Nenurodyta
     salas (Mart. p. 442).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62830
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 246"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 246."
+  citata_originali: |
+    103. Apie tai, kaip hospitaljerai užėmė Rodo salą
+
+       Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas
+    salas (Mart. p. 442).
+  citata_rodoma: "103. Apie tai, kaip hospitaljerai užėmė Rodo salą\n\n   Tais pačiais metais hospitaljerai užėmė Rodo salą, kurioje gyveno turkai, ir 5 kitas\nsalas (Mart. p. 442)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62294

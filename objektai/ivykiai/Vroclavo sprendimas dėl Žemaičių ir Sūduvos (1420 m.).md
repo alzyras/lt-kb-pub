@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vroclavo sprendimas dėl Žemaičių ir Sūduvos (1420 m.)
 
@@ -41,38 +53,37 @@ Nenurodyta
 <a id="claim-t-179455"></a>
 - t-001
   global_id: t-179455
-  teiginys: '1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę.'
+  teiginys: "1420 m. Vroclave imperatoriaus Zigmanto sprendimas dėl Žemaičių ir Sūduvos kryžiuočiams pripažino daugiau, negu jie patys buvo prašę."
   pagrindžia:
-    - c-001
+    - c-05001
 
 <a id="claim-t-179456"></a>
 - t-002
   global_id: t-179456
-  teiginys: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m.'
+  teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus, priimtus Budoje 1412 m. ir Vroclave 1420 m."
   pagrindžia:
-    - c-003
+    - c-163156
 
 <a id="claim-t-179457"></a>
 - t-003
   global_id: t-179457
-  teiginys: 'Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.'
+  teiginys: "Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis."
   pagrindžia:
-    - c-001
+    - c-05001
 
 <a id="claim-t-179458"></a>
 - t-004
   global_id: t-179458
-  teiginys: 'Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m.'
+  teiginys: "Melno taikos sąlygos anuliavo imperatoriaus sprendimus Budoje 1412 m. ir Vroclave 1420 m."
   pagrindžia:
-    - c-004
+    - c-163157
 
 <a id="claim-t-179459"></a>
 - t-005
   global_id: t-179459
-  teiginys: 'Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą.'
+  teiginys: "Jogaila apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo sprendimą."
   pagrindžia:
-    - c-002
-
+    - c-05002
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,7 +97,8 @@ Nenurodyta
     beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -100,7 +112,8 @@ Nenurodyta
     sprendimą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -117,7 +130,8 @@ Nenurodyta
     buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -135,7 +149,84 @@ Nenurodyta
     prieš sunkiai įveikiamus husitus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-05001
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tokis imperatoriaus sprendimas, kuris kryžiuočiams daugiau
+    pripažino, negu jie patys per paskutines derybas buvo užsiprašę,
+    suerzino tiek Vytautą tiek Jogailą. Per susitikimą Dauguose patyrę
+    ištarmę, jiedu esą rėkę ir raudoję, kaip du sužeisti hutai^13. Pus­
+    broliai tuojau į Vroclavą pasiuntė savo protestus, kuriuos ten ga­
+    beno savo politinę karjerą pradedąs Zbignievas Olesnickis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179455
+    - t-179457
+
+- id: c-05002
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Abu valdovai tačiau kratėsi tokio sprendimo. Jogaila tuojau
+    apeliavo į popiežių Martyną V, prašydamas panaikinti Vroclavo
+    sprendimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179459
+
+- id: c-163156
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kilusius nesusipratimus turėjo spręsti
+    drauge abiejų pusių atstovai.
+    Ordinas tačiau, tikėdamas atgauti prarastas pozicijas, neno­
+    rėjo vykdyti susitarimų, juo labiau kad aiškų nepasitenkinimą
+    reiškė vokiečių kunigaikščiai, matydami skriaudžiamą savo globo­
+    tinį. Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
+    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420).
+  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179456
+
+- id: c-163157
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ordinas tačiau, tikėdamas atgauti prarastas pozicijas, neno­
+    rėjo vykdyti susitarimų, juo labiau kad aiškų nepasitenkinimą
+    reiškė vokiečių kunigaikščiai, matydami skriaudžiamą savo globo­
+    tinį. Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes
+    buvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­
+    mantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti
+    prieš sunkiai įveikiamus husitus.
+  citata_rodoma: "Melno taikos sąlygų įžeistas jautėsi ir pats imperatorius, nes\nbuvo anuliuoti jo sprendimai (Budoje 1412, Vroclave 1420). Zig­\nmantas taikėsi tačiau su Jogaila (1423), kai šis pažadėjo jį remti\nprieš sunkiai įveikiamus husitus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179458

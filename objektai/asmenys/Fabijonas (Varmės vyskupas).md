@@ -11,11 +11,25 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - teisinė-praktika
   - vyskupas
+  - šventė
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fabijonas (Varmės vyskupas)
 
@@ -28,9 +42,9 @@ periodo_grupes:
 <a id="claim-t-87667"></a>
 - t-001
   global_id: t-87667
-  teiginys: 'Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.'
+  teiginys: "Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu."
   pagrindžia:
-    - c-001
+    - c-83646
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86737|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.
 - susijęs iš [[objektai/grupes/Varmės kapitula.md#claim-t-86738|Varmės kapitula]]: Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.
@@ -67,10 +81,46 @@ periodo_grupes:
     me išrūpinti Šventojo Tėvo patvirtinimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83646
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1514.
+    374
+
+    ## Puslapis 391
+
+    IV KNYGA
+    I
+    \
+    Po to, kai, neprisilaikydami mūsų teisės, [bet] užkirsda-
+    mi kelią būsimiems sunkumams, sutikome su Varmės baž­
+    nyčios kapitulos prašymu pripažinti galiojančiu be mūsų pri­
+    tarimo įvykusį didžiai gerbiamo Kristuje pono Fabijono
+    paskyrimą dabartiniu Varmės vyskupu, pateikiame kai ku­
+    riuos artikulus, kuriais numatoma, kad ateityje kokiu nors
+    būdu esant vakuojančiai vietai, vyskupas privalo būti išrink­
+    tas be mūsų ir mūsų įpėdinių nesutarimų su kapitula. No­
+    rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus,
+    kas pakenktų bažnyčios, kurios globėjas mes esame, padė­
+    čiai ir kad tokios rūšies teiginiai, išdėstyti į artikulus, pritarus
+    šventajam Apaštalų Sostui, būtų tvirti ir nekeičiami, nutarė­
+    me išrūpinti Šventojo Tėvo patvirtinimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87667
 
 ## Ryšiai
 - Paskyrė Fabijoną (Varmės vyskupas): [[objektai/grupes/Varmės kapitula]]

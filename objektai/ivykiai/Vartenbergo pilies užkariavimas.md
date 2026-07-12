@@ -8,6 +8,19 @@ atnaujinta: ''
 tags:
   - ivykis
   - pilis
+  - šeima
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vartenbergo pilies užkariavimas (pilis)
 
@@ -36,10 +49,9 @@ Nenurodyta
 <a id="claim-t-62522"></a>
 - t-001
   global_id: t-62522
-  teiginys: 'Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna.'
+  teiginys: "Sūduviai po ilgų antpuolių sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudydami du Ordino brolius su visa šeimyna."
   pagrindžia:
-    - c-001
-
+    - c-63208
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,7 +67,31 @@ Nenurodyta
     brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63208
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 143."
+  citata_originali: |
+    Apie Vartenbergo pilies užkariavimą
+
+      Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų
+    persekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar
+    didesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,
+    kuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du
+    brolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista.
+  citata_rodoma: "Apie Vartenbergo pilies užkariavimą\n\n  Pagonys, tiek kartų  ir taip gausiai  lieję krikščionių kraują,  ir toliau nesiliovė jų\npersekioję. Jie iš paskutiniųjų stengėsi visiškai juos sunaikinti. Sūduviai, subūrę dar\ndidesnę kariuomenę, atžygiavo prie Vartenbergo pilies ir po ilgų bei atkaklių antpuolių,\nkuriems broliai kiek galėdami priešinosi, ją sudegino, iki pamatų sunaikino, nužudė du\nbrolius su visa šeimyna, taip po šiai dienai ši pilis ir liko apleista."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62522

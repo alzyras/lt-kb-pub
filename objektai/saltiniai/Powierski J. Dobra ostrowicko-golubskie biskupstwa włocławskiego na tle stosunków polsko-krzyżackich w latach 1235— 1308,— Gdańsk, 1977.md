@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977
 
@@ -28,10 +40,9 @@ Dusburgietis teigia, kad powierski J.
 <a id="claim-t-61239"></a>
 - t-001
   global_id: t-61239
-  teiginys: 'J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m.'
+  teiginys: "J. Powierskio veikalas apie Vloclaveko vyskupijos Ostrovico ir Golubo valdas 1235–1308 m. išleistas Gdanske 1977 m."
   pagrindžia:
-    - c-001
-
+    - c-61871
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,29 @@ Dusburgietis teigia, kad powierski J.
     1977, 11, s.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61871
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 270."
+  citata_originali: |
+    Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków
+    polsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.
+      Powierski J. Krytyka koncepcji o decydującym znaczeniu ekspansji z zewnątrz dla
+    opóźnienia rozwoju politycznego Prusów.—ABS, Wrocław—Warszawa—Kraków—Gdańsk,
+    1977, 11, s.
+  citata_rodoma: "Powierski J. Dobra ostrowicko-golubskie biskupstwa włocławskiego na tle stosunków\npolsko-krzyżackich w latach 1235— 1308,— Gdańsk, 1977.\n  Powierski J."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61239

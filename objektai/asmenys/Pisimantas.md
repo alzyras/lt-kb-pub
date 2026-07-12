@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pisimantas
 
@@ -17,16 +29,16 @@ atnaujinta: ''
 <a id="claim-t-186158"></a>
 - t-001
   global_id: t-186158
-  teiginys: 'Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai.'
+  teiginys: "Į pagalbą iš šiaurinės Rusios buvo pakviesti brolių Liubarto ir Pisimanto pulkai."
   pagrindžia:
-    - c-001
+    - c-169519
 
 <a id="claim-t-186159"></a>
 - t-002
   global_id: t-186159
-  teiginys: 'Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi.'
+  teiginys: "Pisimantas ir jo brolis Liubartas žuvo mūšyje kartu su Drucko kunigaikščiu Michailu ir Lucko valdovu Andrejumi."
   pagrindžia:
-    - c-002
+    - c-169520
 - susijęs iš Karačevas: Lietuvos metraštyje Skirmantas vaizduojamas po pergalės nužygiavęs į Rusų žemę ir paėmęs Karačevą su kitais miestais.
 - susijęs iš Karačevas: Skirmantas po pergalės prieš chaną Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
@@ -60,6 +72,7 @@ atnaujinta: ''
     Livonijos ordinu, nesuteikė beveik jokios pagalbos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,12 +110,75 @@ atnaujinta: ''
     teise.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-169519
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 88"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 88."
+  citata_originali: |
+    Todėl imanti šviesti
+    viltis, jog tie, kurie paveldėjo tėvų valdas bei nesan­
+    taiką, paveldėsią taip pat ir jų lemtį. Pirmiausia jis ap­
+    žiūrėjo lietuvių karius, po to atsikvietė pagalbon iš
+    šiaurinės Rusios brolių Liubarto ir Pisimanto pulkus.
+    Prikalbino taip pat stoti į karą prieš bendrą priešą
+    rusų kunigaikščius: Kijevo — Sviatoslavą, Drucko —
+    Simeoną, Lucko bei Volynės — Dovydą, Utenį irgi
+    įspėjo apie pavojų, tačiau šis, pats įsivėlęs į karą su
+    Livonijos ordinu, nesuteikė beveik jokios pagalbos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186158
+
+- id: c-169520
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mažai vis dėlto ką pe­
+    šė nugalėtieji bėgdami, nes skitų užnugaryje buvusios
+    upės trukdė sprunkantiesiems ir juos skandino savo
+    verpetuose. Šiame mūšyje žuvo Drucko kunigaikštis
+    Michailas, Lucko valdovas Andrejus ir Pisimantas bei
+    Liubartas, Treniotos broliai. Šit todėl Treniota, neno­
+    rėdamas, kad po kunigaikščių mirties šiaurinėje Ru­
+    sioje kas pasikeistų, pavedė baigti karą su skitais ir
+    01
+
+    ## Puslapis 90
+
+    A lg im a n ta s — L ietu ­
+    v o s  ir
+    N a u g a rd u k o
+    k u n ig a ik štis
+    valstybę tvarkyti sūnui Al­
+    gimantui; pats su nedidele
+    kariauna
+    ten
+    nuskubėjęs,
+    nuslopino
+    beprasidedantį
+    maištą ir prijungė prie vals­
+    tybės užmuštųjų brolių valdas, remdamasis įpėdinystės
+    teise.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186159
+
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Skirmantas]]
-- Broliai: [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Treniota]]
 - Pisimantas valdė [[objektai/vietos/Turovas]]

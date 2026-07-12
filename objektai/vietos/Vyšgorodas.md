@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vyšgorodas
 
@@ -26,9 +38,9 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
 <a id="claim-t-42340"></a>
 - t-001
   global_id: t-42340
-  teiginys: 'Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas.'
+  teiginys: "Gedimino valdžią tuo metu pripažino ir Kijevo priemiestis Vyšgorodas."
   pagrindžia:
-    - c-001
+    - c-45444
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Kijeviečiams ginantis Gediminas mėnesį stovyklavo prie Kijevo.
 - susijęs iš Kijevas: Gediminas, nugalėjęs rusų ir totorių kariuomenę, nuvijo totorius ir paėmė Kijevą į savo valdžią.
@@ -48,10 +60,32 @@ Gedimino valdžią tuo metu pripažino ir Kijevo priemiesčiai Vyšgorodas įvyk
     drausta nuo Kryžiuočių ordino puolimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+## Citatos
+
+- id: c-45444
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    vijo totorius ir Kijevą paėmė į savo valdžią.
+    Gedimino valdžią tuo metu pripa-
+
+    žino ir Kijevo priemiesčiai Vyšgorodas
+
+    įvykių į vakarus nuo Lietuvos analizė rodo,
+    kad Lietuvai palankiausia situacija buvo
+    1325-1326 m., ypač 1325 m., kai buvo apsi-
+    drausta nuo Kryžiuočių ordino puolimo.
+  citata_rodoma: "Gedimino valdžią tuo metu pripa-\n\nžino ir Kijevo priemiesčiai Vyšgorodas\n\nįvykių į vakarus nuo Lietuvos analizė rodo,\nkad Lietuvai palankiausia situacija buvo\n1325-1326 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42340

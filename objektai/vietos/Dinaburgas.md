@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dinaburgas
 
@@ -22,9 +34,9 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 <a id="claim-t-86042"></a>
 - t-001
   global_id: t-86042
-  teiginys: 'Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.'
+  teiginys: "Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų."
   pagrindžia:
-    - c-001
+    - c-82021
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške teigiama, kad Vilniaus gaisras Vytautui padarė nuostolių už 60 000 sidabro luitų.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.
@@ -35,6 +47,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - susijęs iš Dinaburgo komtūro pranešimai ir laiškai: Slaptajame archyve buvo saugomi 65 Dinaburgo komtūro laiškai.
 - susijęs iš Napierskio Index Cod. Hist. Dipl. Livoniae: Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.
 - susijęs iš Rosytė: Rosytė minima tarp Livonijos pilių kartu su Marienhausenu, Lutzenu, Švarcenburgu, Dinaburgu ir kitomis pilimis.
+- susijęs iš Pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173190|Kazimieras Karigaila]]: 1396 m. Vytauto privilegija Kazimierui Karigailai, kaip mirusiam jo broliui, numatė kasdienes skaitytines mišias.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179706|Švitrigaila]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179730|Švitrigaila]]: Dinaburgo komtūras pranešė Livonijos magistrui, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.
@@ -53,7 +66,6 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - susijęs iš [[objektai/paprociai/Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius.md#claim-t-87230|Valdovo fundacija kapitulai kasdienėms mišioms už mirusius giminaičius]]: 1396 m. Vytautas kapitulai dovanojo Cudzeniškių valdą ir įpareigojo kasdien aukoti mišias už mirusius brolius Karigailą ir Vygantą.
 - susijęs iš Liksna: Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo.
 - susijęs iš Livonija: Dinaburgo komtūras Livonijos magistrui pranešė, kad iš nelaisvės paleistas Švitrigaila vėl traukia į mūšio lauką.
-- susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.
 - susijęs iš Vilniaus pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.
 ## Reikšmingi paminėjimai
 
@@ -87,7 +99,46 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
     mundė, Ryga, Šmetenė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82021
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86042

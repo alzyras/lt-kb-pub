@@ -16,6 +16,18 @@ tags:
   - kraštas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jogailos ir Vytauto susitaikinimas Ostrove (1392 m. rugpjūčio 5 d.)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-95959"></a>
 - t-001
   global_id: t-95959
-  teiginys: '1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
+  teiginys: "1392 m. Vytauto ir Jogailos Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti."
   pagrindžia:
-    - c-001
-
+    - c-90743
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +75,31 @@ Nenurodyta
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-90743
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Šitų nepasitenkinusiųjų priešaky atsistojo pats
+    Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris
+    po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš
+    Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­
+    sančiais Rusų žemių plotais. Jo sudarytąja su Jogaila Ostrovos
+    sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
+    somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
+    tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-95959

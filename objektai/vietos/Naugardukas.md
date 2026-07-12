@@ -18,11 +18,6 @@ datos:
   - '2026 m.'
 date_start: '1044'
 date_end: '2026'
-description: 'Naugardukas – su Jaroslavu, Mindaugu, Vaišvilku ir Gediminu siejama LDK vieta, minima karuose, bažnyčių ir prekybos istorijoje.'
-socialDescription: 'Naugardukas Lietuvos istorijoje iškyla kaip ankstyvųjų žygių, Mindaugo ir Vaišvilko laikų, Gedimino religinės politikos bei LDK karų vieta.'
-seo_atnaujinta: '2026-07-02T23:12:35.137511+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -33,257 +28,303 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naugardukas
 
 ## Santrauka
 
-Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minimas 1044 m. Jaroslavo žygyje „na Litvu“ ir miesto įkūrimo pasakojime. XIII a. jis siejamas su Mindaugo valdžia ir Vaišvilku, o Gedimino laikais čia minimos bažnyčios bei Lietuvos stačiatikių arkivyskupija. Vėlesniuose įvykiuose Naugardukas pasirodo kaip puolimų, prekybos privilegijų ir LDK gynybos erdvės dalis.
+38 psl.) lietuviškąsias Gardino, Naugarduko, Slanimo ir Volkovisko sritis. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių. Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fundacija), Pinske (kanclerio Aibr.
 
 ## Teiginiai
 
 <a id="claim-t-119084"></a>
 - t-001
   global_id: t-119084
-  teiginys: '1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje.'
+  teiginys: "1044 m. Jaroslavas įkūrė Naugarduką, turbūt dar lietuvių gyvenamoje žemėje."
   pagrindžia:
-    - c-002
+    - c-32273
 
 <a id="claim-t-119085"></a>
 - t-002
   global_id: t-119085
-  teiginys: 'Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką.'
+  teiginys: "Totoriai iš stovyklos ties Kłecku pasiuntė nemažą būrį į Naugarduką."
   pagrindžia:
-    - c-015
+    - c-109425
 
 <a id="claim-t-119087"></a>
 - t-003
   global_id: t-119087
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių."
   pagrindžia:
-    - c-010
+    - c-109416
 
 <a id="claim-t-119088"></a>
 - t-004
   global_id: t-119088
-  teiginys: 'Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.'
+  teiginys: "Kunigaikščių Baziliaus Serebriano ir Petro Šuiskio pajėgos planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi."
   pagrindžia:
-    - c-007
+    - c-43678
 
 <a id="claim-t-119089"></a>
 - t-005
   global_id: t-119089
-  teiginys: 'Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė.'
+  teiginys: "Naugardukas XIII amžiaus viduryje jau buvo Mindaugo sostinė."
   pagrindžia:
-    - c-013
+    - c-109420
 
 <a id="claim-t-119091"></a>
 - t-006
   global_id: t-119091
-  teiginys: 'Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.'
+  teiginys: "Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių."
   pagrindžia:
-    - c-009
+    - c-109415
 
 <a id="claim-t-119092"></a>
 - t-007
   global_id: t-119092
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų minoritams skirtų bažnyčių, kita stovėjo Vilniuje."
   pagrindžia:
-    - c-010
+    - c-109416
 
 <a id="claim-t-119093"></a>
 - t-008
   global_id: t-119093
-  teiginys: 'Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito.'
+  teiginys: "Žygimanto privilegijoje Naugardukas minėtas tarp vietų, kur Vilniaus miestiečiai galėjo gabenti prekes be muito."
   pagrindžia:
-    - c-008
+    - c-109413
 
 <a id="claim-t-119094"></a>
 - t-009
   global_id: t-119094
-  teiginys: 'Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.'
+  teiginys: "Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
   pagrindžia:
-    - c-004
+    - c-32275
 
 <a id="claim-t-119095"></a>
 - t-010
   global_id: t-119095
-  teiginys: '1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą.'
+  teiginys: "1314 m. rugsėjį brolis Henrikas su kariuomene įžengė į Krivičių žemę ir užėmė Naugarduko miestą."
   pagrindžia:
-    - c-017
+    - c-109428
 
 <a id="claim-t-119096"></a>
 - t-011
   global_id: t-119096
-  teiginys: 'Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
+  teiginys: "Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   pagrindžia:
-    - c-006
+    - c-43677
 
 <a id="claim-t-119097"></a>
 - t-012
   global_id: t-119097
-  teiginys: '1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką.'
+  teiginys: "1415 m. Naugarduke sušaukęs LDK stačiatikių vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Camblaką."
   pagrindžia:
-    - c-011
+    - c-109417
 
 <a id="claim-t-119098"></a>
 - t-013
   global_id: t-119098
-  teiginys: '1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką.'
+  teiginys: "1044 m. Jaroslavas, anot šaltinio, pavasarį įkūrė Naugarduką."
   pagrindžia:
-    - c-001
+    - c-32272
 
 <a id="claim-t-119100"></a>
 - t-014
   global_id: t-119100
-  teiginys: 'Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Naugarduką.'
+  teiginys: "Žygimantas suteikė Vilniaus miestiečiams teisę be muito gabenti prekes visoje Lietuvos žemėje, įskaitant Naugarduką."
   pagrindžia:
-    - c-008
+    - c-109413
 
 <a id="claim-t-119101"></a>
 - t-015
   global_id: t-119101
-  teiginys: '1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje.'
+  teiginys: "1044 m. Jaroslavo įkurtas Naugardukas, turbūt, buvo dar lietuvių gyvenamoje žemėje."
   pagrindžia:
-    - c-002
+    - c-32273
 
 <a id="claim-t-119104"></a>
 - t-016
   global_id: t-119104
-  teiginys: 'Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje.'
+  teiginys: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinėje."
   pagrindžia:
-    - c-019
+    - c-109433
+
+<a id="claim-t-119094"></a>
+- t-017
+  global_id: t-119094
+  teiginys: "Gediminas Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją."
+  pagrindžia:
+    - c-32275
 
 <a id="claim-t-119106"></a>
 - t-018
   global_id: t-119106
-  teiginys: 'Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis.'
+  teiginys: "Naugardukas buvo užpultas ir sudegintas kartu su kitomis pilimis."
   pagrindžia:
-    - c-005
+    - c-37572
 
 <a id="claim-t-119107"></a>
 - t-019
   global_id: t-119107
-  teiginys: 'Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių.'
+  teiginys: "Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių."
   pagrindžia:
-    - c-009
+    - c-109415
 
 <a id="claim-t-119108"></a>
 - t-020
   global_id: t-119108
-  teiginys: 'Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.'
+  teiginys: "Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui."
   pagrindžia:
-    - c-006
+    - c-43677
 
 <a id="claim-t-119109"></a>
 - t-021
   global_id: t-119109
-  teiginys: 'Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse.'
+  teiginys: "Naugarduke tėvo įkurdintas Vaišelga siejamas su lietuvių kunigaikščių kūrimusi Rusios žemėse."
   pagrindžia:
-    - c-016
+    - c-109426
 
 <a id="claim-t-119110"></a>
 - t-022
   global_id: t-119110
-  teiginys: 'Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje.'
+  teiginys: "Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje."
   pagrindžia:
-    - c-018
+    - c-109430
 
 <a id="claim-t-119111"></a>
 - t-023
   global_id: t-119111
-  teiginys: 'Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui.'
+  teiginys: "Iš Juodojoje Rusijoje užimtų sričių Mindaugas Naugarduką atidavė sūnui Vaišvilkui."
   pagrindžia:
-    - c-003
+    - c-32274
 
 <a id="claim-t-119112"></a>
 - t-024
   global_id: t-119112
-  teiginys: 'Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke.'
+  teiginys: "Gediminas teigė pastatęs pranciškonų bažnyčias Vilniuje ir Naugarduke."
   pagrindžia:
-    - c-012
+    - c-109418
 
 <a id="claim-t-119113"></a>
 - t-025
   global_id: t-119113
-  teiginys: 'Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.'
+  teiginys: "Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje."
   pagrindžia:
-    - c-014
+    - c-109421
 
 <a id="claim-t-119114"></a>
 - t-026
   global_id: t-119114
-  teiginys: 'Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės.'
+  teiginys: "Mindaugo sūnus Vaišelga buvo įkurdintas Naugarduke, o ši žemė jungta prie Lietuvos valstybės."
   pagrindžia:
-    - c-016
+    - c-109426
 
 <a id="claim-t-183059"></a>
 - t-027
   global_id: t-183059
-  teiginys: 'Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu.'
+  teiginys: "Naugarduke veikė jėzuitų kolegija, įsteigta sudėtinės fundacijos pagrindu."
   pagrindžia:
-    - c-020
+    - c-166450
 
 <a id="claim-t-185062"></a>
 - t-028
   global_id: t-185062
-  teiginys: 'Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę.'
+  teiginys: "Kunigaikštystės sostinė buvo perkelta iš Naugarduko į Kernavę."
   pagrindžia:
-    - c-021
+    - c-168423
 
 <a id="claim-t-185063"></a>
 - t-029
   global_id: t-185063
-  teiginys: 'Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą.'
+  teiginys: "Henrikas su kariuomene nusibrovė iki Naugarduko, apiplėšė ir sudegino miestą."
   pagrindžia:
-    - c-022
+    - c-168424
 
 <a id="claim-t-185064"></a>
 - t-030
   global_id: t-185064
-  teiginys: 'Palikę Slucką, skitai patraukė į Naugarduką, kur tuo metu buvo susirinkę didikai.'
+  teiginys: "Palikę Slucką, skitai patraukė į Naugarduką, kur tuo metu buvo susirinkę didikai."
   pagrindžia:
-    - c-023
+    - c-168425
 
 <a id="claim-t-185065"></a>
 - t-031
   global_id: t-185065
-  teiginys: 'Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies.'
+  teiginys: "Per skitų antplūdį dalis Naugarduke susirinkusių didikų, vadovaujama Alberto Goštauto, subruzdo ginti pilies."
   pagrindžia:
-    - c-024
+    - c-168426
 
 <a id="claim-t-187621"></a>
 - t-032
   global_id: t-187621
-  teiginys: 'Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.'
+  teiginys: "Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų."
   pagrindžia:
-    - c-025
+    - c-170568
 
 <a id="claim-t-187622"></a>
 - t-033
   global_id: t-187622
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno."
   pagrindžia:
-    - c-026
+    - c-170569
 
 <a id="claim-t-187623"></a>
 - t-034
   global_id: t-187623
-  teiginys: 'Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti."
   pagrindžia:
-    - c-027
+    - c-170570
 
 <a id="claim-t-187624"></a>
 - t-035
   global_id: t-187624
-  teiginys: 'Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.'
+  teiginys: "Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką."
   pagrindžia:
-    - c-028
+    - c-170571
+
+<a id="claim-t-193217"></a>
+- t-036
+  global_id: t-193217
+  teiginys: "Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus."
+  pagrindžia:
+    - c-175961
+
+<a id="claim-t-193218"></a>
+- t-037
+  global_id: t-193218
+  teiginys: "Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių."
+  pagrindžia:
+    - c-175962
+
+<a id="claim-t-193649"></a>
+- t-038
+  global_id: t-193649
+  teiginys: "Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke."
+  pagrindžia:
+    - c-176318
+
+<a id="claim-t-194256"></a>
+- t-039
+  global_id: t-194256
+  teiginys: "[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas."
+  pagrindžia:
+    - c-176850
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186014|Skirmantas]]: Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke.
 - susijęs iš Z. Zinkevičius, Lietuvių kalbos kilmė: Z. Zinkevičiaus „Lietuvių kalbos kilmė“ nurodoma prie paaiškinimo, kad Dusburgietis Krivičių žeme vadino Naugarduko žemę Nemuno aukštupyje.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
 - susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
 - susijęs iš [[objektai/daiktai/Pajautos stabas.md#claim-t-187513|Pajautos stabas]]: Lietuvos metraštis vaizduoja, kad Kukovaitis motinos Pajautos atminimui padirbo jos išvaizdos stabą, pastatė jį ties Žaslių ežeru, o Pajauta buvo laikoma deive.
 - susijęs iš [[objektai/posakiai/na Litvu.md#claim-t-31562|na Litvu]]: „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą („na Litvu“), bet jo eigos neaprašė.
@@ -312,8 +353,6 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
 - susijęs iš [[objektai/grupes/Rusų tautos suvažiavimas Lietuvos Naugarduke.md#claim-t-185447|Rusų tautos suvažiavimas Lietuvos Naugarduke]]: Rusų tautos suvažiavime Lietuvos Naugarduke Grigorijus Fotijus buvo suimtas ir visuotiniu pritarimu pašalintas iš pareigų.
 - susijęs iš [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.).md#claim-t-05298|Kijevo Jaroslavo žygis į Lietuvą ir Naugarduko įkūrimas (1044 m.)]]: 1044 m. Jaroslavas vėl žygiavo į Lietuvą ir pavasarį įkūrė Naugarduką.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186541|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio 1506 m. aprašymas su vietovardžiais buvo vienas iš N. N. Ulaščiko argumentų dėl Bychovco kronikos kilmės iš Naugarduko ar Slucko krašto.
-- susijęs iš [[objektai/ivykiai/Klecko mūšis.md#claim-t-186548|Klecko mūšis (mūšis, XVI a.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/ivykiai/Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis).md#claim-t-62840|Krivičių žemės nuniokojimas ir Naugarduko užėmimas (1314 m. rugsėjis)]]: Po nesėkmingo Naugarduko pilies puolimo Gardino pilininkas Dovydas nužudė 30 vyrų ir pagrobė pusantro tūkstančio arklių bei maisto atsargas.
 - susijęs iš [[objektai/ivykiai/Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė.md#claim-t-185722|Krymo skitų puolimas prieš Naugarduką ir pilies apgulties nesėkmė (pilis)]]: Palikę Slucką, Krymo skitai patraukė į Naugarduką, kur tuo metu didikai tarėsi dėl santykių su karaliumi.
 - susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
@@ -333,7 +372,6 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
 - susijęs iš Didysis Naugardukas: Įvade Didysis Naugardukas minimas tarp feodalinių respublikų, aptariant LDK santykius su Rusų valstybe.
 - susijęs iš Druckas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
 - susijęs iš Juodoji Rusija: Iš Juodojoje Rusijoje užimtų sričių Mindaugas pasiliko Slanimą ir Valkaviską, o Vaišvilkui atidavė Naugarduką.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
 - susijęs iš Krivičių žemė: Petras Dusburgietis Krivičių žeme vadina Naugarduko žemę Nemuno aukštupyje.
 - susijęs iš Krivičių žemė: 1314 m. rugsėjį maršalas Henrikas su kariuomene patraukė į Krivičių žemę ir užėmė Naugarduką.
 - susijęs iš Lietuvos Naugardukas: Vytautui pavyko sušaukti rusų tautos suvažiavimą Lietuvos Naugarduke.
@@ -346,6 +384,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
 - susijęs iš Vitebskas: Totorių žygis nusiaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Vitebskas: 1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
 - susijęs iš Zietela: Zieteloje į pietvakarius nuo Naugarduko iki autoriaus laikų buvo išsilaikiusi lietuvių kalbos sala.
+- susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-195017|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
@@ -423,8 +462,6 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): 1536 m. rugpjūčio 6 d. Žygimanto Senojo privilegija suteikė teisę rinkti muitą iš praeivių per Vilijos upės tiltą.
 - susijęs iš Гуревич Ф. Д. Древности белорусского Понеманья: Tūkstantmečio 2-oje pusėje (Гуревич Ф.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.
-- susijęs iš Baltijos jūra: XIII amžiaus viduryje Lietuva valdė nedidelį, uostų stokojantį Baltijos pakrantės ruožą.
 - susijęs iš Braclavas: 1449 m. skitai niokojo lenkų valdomą Podolės dalį, bet nelietė kaimyninės Braclavo žemės.
 - susijęs iš Cholmas: Cholmo stačiatikių vyskupas kartu su kitais vyskupais išleido aplinkraštį dėl savo teisių gynimo nuo Rusijos metropolitų.
 - susijęs iš Dombrovica: Brastos apygardoje mokyklų buvo ir Dombrovicoje.
@@ -492,7 +529,8 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     Lietuvą («na Litvu»).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -509,6 +547,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     politiškai jau atsipalaidavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -527,6 +566,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     garduko » pasistatė vienuolyną ir ten atgailavo^63.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -545,6 +585,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     naujas įpėdinis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -559,6 +600,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -577,6 +619,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -604,6 +647,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     nei turėjo pakakti net pusei metų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -628,6 +672,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     čio 19 d. Ind.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -663,6 +708,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     amore nostri.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -693,6 +739,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     nus ir sielas žaloja.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -713,6 +760,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     idėją (ji įgyvendinta vėliau – 1439 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -736,6 +784,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     ką išlaikysime.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -755,6 +804,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     Harris, Voyages.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -774,6 +824,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -791,6 +842,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     mylią nuo Lydos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -808,6 +860,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kunigaikštijos ir tapęs vienuoliu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -826,6 +879,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     centrinėje Žemaitijoje (SZM, p. 223— 226).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -853,6 +907,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     vienas pagal savo apeigas galėtų garbinti dievą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -871,6 +926,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     je, tai yra europinės reikšmės riba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -895,6 +951,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     piegos f-ja).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -923,6 +980,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -955,6 +1013,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     verstas išsižadėti šio sumanymo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -973,6 +1032,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     kėlėjus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -992,6 +1052,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     teliams vytis bėgančiuosius, o su kitais apgulė pilį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1008,6 +1069,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     tus daugelį metų !0 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1026,6 +1088,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     ir gyveno tenai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1043,6 +1106,7 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     savo valdovo sūnų didžiai džiaugdamasi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1066,19 +1130,840 @@ Naugardukas šaltiniuose siejamas su ankstyvąja Lietuvos ir LDK istorija: minim
     ėmė nelaisvėn 4 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
 
+- c-029
+  santrauka: 'Danieliaus sūnui Romanui Mindaugas davė valdyti Naugarduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų sričių miestus.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-036
+
+- c-030
+  santrauka: 'Gedimino laikais Vilniuje ir Naugarduke, o gal net ir kitur buvo katalikų bažnyčių.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Nuo to meto į Lie-
+    tuvą pradėjo skverbtis ir krikščionybė, atsirado vienuolių misijo-
+    nierių. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir ki-
+    tur buvo katalikų bažnyčių. Be to, prasidėję prekybos santykiai
+    Lydos pilies griuvėsiai.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-037
+
+- c-031
+  santrauka: 'Vytautas perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine, Naugarduke ir Lucke.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-038
+
+- c-032
+  santrauka: '[Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-039
+
+## Citatos
+
+- id: c-32272
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1044 m. Jaroslavas vėl ėjęs « na Litvu » ir pavasarį įkūręs
+    Naugarduką. Lietuvos vardas vėl minimas po 87 metų, kai esą
+    dveji metai iš eilės (1131-32) Kijevo Mstislavas daręs žygius į
+    Lietuvą («na Litvu»).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119098
+
+- id: c-32273
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai
+    anksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž. gale
+    politiškai jau atsipalaidavo.
+  citata_rodoma: "Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje. Minėti valsčiai\nanksčiau buvo įėję į Polocko žemės sąstatą, bet XII amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119101
+    - t-119084
+
+- id: c-32274
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Savo pali­
+    kuoniams jis nurodė ekspansijos kryptį, kuri pastoviai buvo palai­
+    koma du šimtmečius. Iš Juodojoje Rusijoje užimtųjų sričių Min­
+    daugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė
+    Naugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­
+    kas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­
+    garduko » pasistatė vienuolyną ir ten atgailavo^63.
+  citata_rodoma: "Iš Juodojoje Rusijoje užimtųjų sričių Min­\ndaugas pasilaikė Slanimą ir Valkaviską, o sūnui Vaišvilkui^62 atidavė\nNaugarduką. Esą dėl pralieto kraujo sąžinės kamuojamas, Vaišvil­\nkas priėmė graikišką krikštą, prie Nemuno «tarp Lietuvos ir Nau­\ngarduko » pasistatė vienuolyną ir ten atgailavo^63."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119111
+
+- id: c-32275
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš imtos vartoti slavų kalbos išsivystė Lietuvos didžiojo kuni­
+    gaikščio kanceliarinė rašto kalba, kuri buvo skirtinga nuo mask­
+    vinės rusų kalbos.
+    Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne
+    tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke
+    Lietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330
+    m. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas
+    naujas įpėdinis.
+  citata_rodoma: "Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne\ntik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke\nLietuvos stačiatikiams palaikė atskirą arkivyskupiją. Ji apie 1330\nm. žlugo, nes po arkivyskupo Teofilio mirties nebebuvo paskirtas\nnaujas įpėdinis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119105
+    - t-119094
+
+- id: c-37572
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pilį pasisekė jam sudeginti. Bet ir tuo jis nepasiten­
+    kino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino.
+  citata_rodoma: "Bet ir tuo jis nepasiten­\nkino. Užpuolė dar Naugarduką ir kt. pilis ir jas sudegino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119106
+
+- id: c-43677
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119108
+    - t-119096
+
+- id: c-43678
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Viena jų, vadovaujama
+    kunigaikščio Baziliaus Serebriano, pajudėjo
+    iš Smolensko, kita, vadovaujama patyru-
+    sio karvedžio kunigaikščio Petro Šuiskio,
+
+    iš Polocko traukė į Drucką. Čia jos turėjo
+    susijungti ir pulti Minsko, Naugarduko, o
+    vėliau Vilniaus kryptimi. Buvo planuojama
+    stambaus masto ilgalaikė kampanija,
+
+    gal net visai Lietuvos Didžiajai
+    Kunigaikštystei užimti, nes
+
+    dar prieš tai į Didžiųjų Lukų tvirtovę buvo
+    nurodyta suvežti atsargas, kurių kariuome-
+    nei turėjo pakakti net pusei metų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119088
+
+- id: c-109413
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119093
+    - t-119100
+
+- id: c-109415
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­
+    sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­
+    liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums
+    drauge su kitomis savo avimis [įeiti] į gausumo ganyklą;
+    tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­
+    tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes
+    norime], kad greičiau būtų pabaigtas dievo darbas ir nie­
+    kais pavirstų klastinga apgaulė.
+    Mes pageidaujame per jus ir jūsų brolius paskelbti savo
+    nutarimą visuose miestuose, vietovėse ir kaimuose ir pa­
+    skatinti žmones išganingais pamokymais, kad tai, ką Die­
+    vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
+    tų danguose su palaimintaisiais. Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
+  citata_rodoma: "Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119091
+    - t-119107
+
+- id: c-109416
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    72
+
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų. Jau yra pastatytos dvi bažnyčios minori-
+    tams, viena valdovo mūsų mieste - Vilniuje, kita -
+    Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­
+    nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­
+    vui melstis. Toms bažnyčioms prašytume dar šiais metais
+    ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­
+    bas; tik darome išimtį visiems dvasininkams, kurie savo
+    vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
+    nus ir sielas žaloja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119087
+    - t-119092
+
+- id: c-109417
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m.
+  citata_rodoma: "1415 m. Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119097
+
+- id: c-109418
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+    Taigi, kad šių mūsų privilegijų suteikimas pasiliktų ne­
+    kintamas ir tvirtas, liepėme surašyti šį raštą ir sutvirtinti jį,
+    nurodydami prikabinti mūsų antspaudą, nes jūs, žinodami,
+    jog tą patį antspaudą pasiuntėme mūsų viešpačiui ir šven­
+    tajam tėvui, [tikėsite], jog ir tai, ką jam laiške parašėme, vis­
+    ką išlaikysime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119112
+
+- id: c-109420
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Esant tokiai Europos miestų padėčiai, Lietuva, ilgiausiai at­
+    siribojusi nuo krikščionybės, valdydama nedidelį ir uostų sto­
+    kojantį Baltijos pakrantės ruožą, dar su vargana žemdirbyste ir
+    prekyba, vis dėlto pačiame XIII amžiaus viduryje savo žemėje
+    jau turėjo keletą miestų. Naugardukas jau buvo garsiojo Min­
+    daugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-
+    d)
+    Harris, Voyages.
+  citata_rodoma: "Naugardukas jau buvo garsiojo Min­\ndaugo (Mendogo) sostinė. Gardinas, dar vadintas Gartena, Trai-\nd)\nHarris, Voyages."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119089
+
+- id: c-109421
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Anksti slavų salos pasirodė Nemuno aukštupio kairėje nusitiesda­
+    mos link Gardino kunigaikštijos, kur Kolože — Gardino priemies­
+    tyje — yra atkastos įdomios cerkvės (Boriso ir Glebo) liekanos.
+    Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su
+    valsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),
+    Slanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­
+    klausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo
+    įkurtas, tur būt, dar lietuvių gyvenamoje žemėje.
+  citata_rodoma: "Jau XI amžiuje Nemuno kairėje turėjo būti rytinių slavų pilys su\nvalsčiais, ar smulkiomis kunigaikštijomis V _a_ lk _a_ visku (Wolkowysk),\nSlanimu (Slonirn), Nesvyžių (Nieśwież), Zdzitovu ir kt. Jos pri­\nklausė Naugardukui (Nowogródek), kuris 1044 m. Jaroslavo buvo\nįkurtas, tur būt, dar lietuvių gyvenamoje žemėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119113
+
+- id: c-109425
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis. O totoriai, ties Kłecku įsirengę košą, arba stovyklą,
+    nemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­
+    muną, savo papročiu plėšdamas apylinkes, atsidūrė vos per
+    mylią nuo Lydos.
+  citata_rodoma: "O totoriai, ties Kłecku įsirengę košą, arba stovyklą,\nnemažą būrį pasiuntė į Naugarduką. Tas būrys, įveikęs Ne­\nmuną, savo papročiu plėšdamas apylinkes, atsidūrė vos per\nmylią nuo Lydos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119085
+
+- id: c-109426
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Mindaugo šalininkams nužudžius Treniotą, Lietuvos valdovu tapo
+    Mindaugo sūnus Vaišelga, kuris yra pirmas žinomas Lietuvos istorijoje sta-
+    čiatikybę priėmęs kunigaikštis. Taip pradėtas lietuvių kunigaikščių kūrima-
+    sis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės
+    (šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie
+    Lietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs
+    kunigaikštijos ir tapęs vienuoliu.
+  citata_rodoma: "Taip pradėtas lietuvių kunigaikščių kūrima-\nsis Rusios žemėse: lietuvių kunigaikštis priima stačiatikių tikėjimą, o žemės \n(šiuo atveju Naugardukas, kuriame Vaišelgą įkurdino tėvas) jungiamos prie \nLietuvos valstybės. Antra vertus, Vaišelga vienintelis kunigaikštis, atsisakęs \nkunigaikštijos ir tapęs vienuoliu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119109
+    - t-119114
+
+- id: c-109428
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 209."
+  citata_originali: |
+    322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą
+
+      Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su
+    visa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų
+      569 D.— circa territorium Medenickam, Jer.— Medenicken, Medeniken; Medininkai
+    centrinėje Žemaitijoje (SZM, p. 223— 226).
+  citata_rodoma: "322 (315). Apie Krivičių žemės nuniokojimą ir Naugarduko miesto užkariavimą\n\n  Tų pačių 1314 metų rugsėjo mėnesį tas pats brolis Henrikas, maršalas, patraukė su\nvisa savo kariuomene  į Krivičių žemę571, užėmė Naugarduko miestą572 ir jį ligi pamatų\n  569 D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119095
+
+- id: c-109430
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
+    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
+    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
+    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
+    nėtam terminui praėjus, priklausomai nuo žemės derlin­
+    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
+    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
+    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
+    karalystėse.
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119110
+
+- id: c-109433
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Čia gotika tapo
+    net ir stačiatikių ar būsimųjų graikų katalikų cerkvių stiliumi.
+    Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-
+    tantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-
+    je. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje
+    (Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-
+    pos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-
+    je, tai yra europinės reikšmės riba.
+  citata_rodoma: "Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Kons-\ntantinas Ostrogiškis gotiką nunešė iki savo tėvonijos – Ukrainos Voluinė-\nje. Gotikinių LDK cerkvių stilius turi analogų ir rezidencijų architektūroje \n(Myro pilis prie Nesvyžiaus), o kartu, atrodo, yra fenomenalus visos Euro-\npos kultūroje – tad labiausiai į rytus nutolusi gotika yra istorinėje Lietuvo-\nje, tai yra europinės reikšmės riba."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-119104
+
+- id: c-166450
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo
+    būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono
+    Jono Karolio Katkevičiaus fundacija), Gardine (Smolensko
+    vyskupo Isaikovskio ir kt. fundacija). Oršoje (karaliaus Zig-
+    manto fundacija), Smolenske (klebono Lempickio ir kt. fun-
+    dacija), Kaune (brolių Vijūkų Kojelavičių fundacija), Minske
+    (kanclerio Martyno Oginskio ir K. Bžostausko fundacija), Nau-
+    garduke (sudėtinė fundacija), Bobruiske (Triznos fun-
+    dacija), Pinske (kanclerio Aibr. St. Radvilos fundacija), Pa-
+    šiaušėje (bajoro Beinarto f-ja), Slucke (sudėtinė f-ja),
+    Vitebske (Smolensko vaivados A. Gansiausko f-ja), Žodiš-
+    kiuose (Minkevičių f-ja), Brastoje (vicekanclerio L. K. Sa-
+    piegos f-ja).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183059
+
+- id: c-168423
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tad, su Traideniu tvarkydamas vals­
+    140
+
+    ## Puslapis 139
+
+    tybės reikalus, tuo pačiu jis stiprino šio galią ir, ne­
+    paisydamas brolio priešiškumo, teikė jam vilčių, jog
+    ateityje jam atiteksianti valstybė. Šitaip sutvarkęs vals­
+    tybės reikalus ir perkėlęs kunigaikštystės sostinę iš
+    Naugarduko į Kernavę, jis ėmė galvoti apie karo da­
+    lykus. Nuolatos keičiantis valdovams, jie eidavo savo
+    pareigas vos metus, todėl kariuomenės reikalai buvo
+    gana prasti, nes ir tarybos, ir karo stovyklų vadai mir­
+    davo dar tada, kai būdavo pradedama rengtis karui
+    ar vos imama kariauti; turbūt dėl tos priežasties per
+    ištisus šešiolika metų nepavyko nieko padaryti reikš­
+    mingesnio, kad iš lenkų būtų atsiimti jotvingiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185062
+
+- id: c-168424
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 190"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 190."
+  citata_originali: |
+    Jeigu lietuviai, parodę tokį narsu­
+    mą, būtų turėję ten daugiau
+    1314 m e ta i
+    karių ir jėgų, tikrai būtų kry­
+    žiuočiai netekę visos stovyk­
+    los, mat penki kariai, nakties tamsoje prasigavę pro
+    sargybas, prisėlino beveik ligi pačių vadų ir, keletą
+    priešų nužudę ir pasiplėšę
+    N e p a p ra sta
+    p e n k ių
+    grobio, kiek tik galėjo pen-
+    iie tu v ių  n arsa
+    kiese pakelti, sveiki sugrįžo
+    pas savuosius, įvarydami kry­
+    žiuočiams siaubo; tik išaušus paaiškėjo, jog daugiau
+    būta baimės nei pavojaus. Truputį vėliau Henrikas,
+    ugnimi ir kalaviju niokodamas kraštą, nusibrovė su ka­
+    riuomene ligi Naugarduko. Apiplėšęs ir sudeginęs mies­
+    tą, geriausią kariuomenę metė prieš pilį, bet po
+    pirmojo antpuolio, netekęs žymiausių karių, buvo pri­
+    verstas išsižadėti šio sumanymo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185063
+
+- id: c-168425
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  citata_originali: |
+    Miestiečiai,
+    kaimiečiai bei bajorai taip ryžtingai stojo į kovą, kad
+    skitai, smarkiai jų sumušti, turėjo pasitraukti. Palikę
+    Slucką, barbarai patraukė į Naugarduką. Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185064
+
+- id: c-168426
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  citata_originali: |
+    Tuo metu ten
+    susirinkę didikai tarėsi, kaip susigerinti su karaliumi,
+    kaip atsiprašyti už nuoskaudas ir sutramdyti sąmyšio
+    kėlėjus. Gavę žinią apie skitų antplūdį, vieni, vadovau­
+    jami Naugarduko vaivados Alberto Goštauto, subruz­
+    do ginti pilies, o kiti pasitraukė už Nemuno. Priešas,
+    įžengęs į tuščią miestą, įsakė lengvai ginkluotiems rai­
+    teliams vytis bėgančiuosius, o su kitais apgulė pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185065
+
+- id: c-170568
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O paskui didysis kunigaikštis Skirmantas pasimirė.
+    Liubartas sėdo valdyti Karačevą 1 8  ir ėmė tituluotis
+    Karačevo kunigaikščiu, o Pisimantas sėdo valdyti Tu-
+    rovą l9 , o Treniota — Naugarduką, ir valdė tuos mies­
+    tus daugelį metų !0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187621
+
+- id: c-170569
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 52"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 52."
+  citata_originali: |
+    O Grigorijus buvo šven­
+    tasis, kokio iki jo nėra buvę ir daugiau nebebus.
+    Vaišvilkas negalėjo pasiekti Šventojo Kalno, nesgi
+    anuose kraštuose tuomet buvo didelis sąmyšis. Ir par­
+    keliavo jis atgal j Naugarduką, ir įkūrė6  <sau vienuo­
+    lyną prie Nemuno upės, tarp Lietuvos ir Naugarduko,
+    ir gyveno tenai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187622
+
+- id: c-170570
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 53."
+  citata_originali: |
+    11. APIE VAIŠVILKO NUŽUDYMĄ IR PALEMONO GIMINES
+    GALĄ
+    Vaišvilkas, tai išgirdęs, su pinskiečiais nuvyko į
+    Naugarduką, ten pasiėmė su savimi naugardukiečius ir
+    parvyko į Lietuvą kunigaikščiauti. Visa Lietuva sutiko
+    savo valdovo sūnų didžiai džiaugdamasi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187623
+
+- id: c-170571
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Suėjo kariuomenės Dokudo-
+    vo 1  vietovėje, ir Vytauto kariuomenė sumušė Karibu-
+    98
+
+    ## Puslapis 94
+
+    to kariuomenę3 . O pats kunigaikštis Kaributas su ku­
+    nigaikštiene ir su vaikais pabėgo į Naugarduką3 . Di­
+    dysis kunigaikštis Vytautas, sutelkęs savo kariuomenę,
+    pats nužygiavo į Naugarduką ir, užėmęs miestą, kuni­
+    gaikštį Kaributą, ir jo kunigaikštienę, ir jo vaikus pa­
+    ėmė nelaisvėn 4 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187624
+
+- id: c-175961
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Sutartis buvo susti-
+    printa Mindaugo dukters ir Danieliaus sūnaus Švarno vedybo-
+    mis. Danieliaus sūnui Romanui Mindaugas davė valdyti Nau-
+    garduką, o Vaišvilkas gavo Slanimo, Volkovisko ir kitus atgautų
+    sričių miestus. Tik jie turėjo pripažinti Mindaugo valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193217
+
+- id: c-175962
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Nuo to meto į Lie-
+    tuvą pradėjo skverbtis ir krikščionybė, atsirado vienuolių misijo-
+    nierių. Gedimino laikais Vilniuje ir Naugarduke, o gal net ir ki-
+    tur buvo katalikų bažnyčių. Be to, prasidėję prekybos santykiai
+    Lydos pilies griuvėsiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193218
+
+- id: c-176318
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis:
+    net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias an-
+    gas – Vytauto laikais daugiausia statyta būtent gynybinių statinių. Vytautas
+    perstatydino ar pastatė mūrines pilis Vilniuje, Trakuose, Kaune, Gardine,
+    Naugarduke ir Lucke. Trakų salos pilies menė su gotikiniais kryžminiais
+    skliautais rodo, kad gotika buvo atėjusi ir į gynybinę architektūrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193649
+
+- id: c-176850
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    [Rūstusai Žygimante, kaip senasis karalius mėtau
+    žaibus,
+    Nejaugi manai, kad tik karaliams paklūsta žaibai?]
+    Vietovių pavadinimai yra tokie:
+    Pirmajame plane - Vilniaus arsenalas, antrame ir trečia­
+    me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc­
+    kas, Vitebskas, Orša, Mogiliovas, Propoiskiai, Čečerskiai,
+    Mstislavlis, Radomie, Liubičius, Gomelis, Rečica, Kšičovai,
+    Ovručas, Ostras, Vladimiras, Luckas, Mozyrius, Kijevas,
+    Čerkasai, Medilas, Kaniuvas, Podolės Brasta, Bialocerkievas,
+    Minskas, Radoškovičiai, Lietuvos Brasta, Chastiča, Rožekas,
+    Novy Zamekas, Svisločėje vadinamas Kasperu, Kremene-
+    cas, Černobilis, Suražas, Cieriščiai, Borisovas, Drisa, Trakai,
+    Upytė, Druja, Lepelis, Kopečius arba Ušcas, Tikocinas. Li­
+    vonijos pilys: Marienhausenas, Lutzenas, Švarcenburgas,
+    Rosytė, Dinaburgas, Bauskė, Pernava, Kaskhauzenas, Hel-
+    314
+
+    ## Puslapis 331
+
+    IV  KNYGA
+    menas, Trikačius, Hermesas, Veisenšteinas, Kirchholmas,
+    Volmera, Vendenė, Kokenhauzenas, Rundborgas, Diuna-
+    mundė, Ryga, Šmetenė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194256
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Kukovaitis]]
 - Buvo valdoma: [[objektai/asmenys/Karijotas]], [[objektai/asmenys/Skirmantas]]
-- Buvo kelionės vieta: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaroslavas]], [[objektai/asmenys/Konstantinas Ostrogiškis]]
-- Puolė Naugarduką: [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Totoriai]]
 - Buvo siuntimo vieta: [[objektai/grupes/Totoriai]]
-- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]
-- Prekiavo su: [[objektai/grupes/Vilniaus miestiečių luomas]]
-- Gyvenamoji vieta: [[objektai/grupes/Krivičiai]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]]
-- Naugardukas priklausė [[objektai/vietos/Lietuva]]
+- Gyvenamoji vieta: [[objektai/grupes/Krivičiai]]

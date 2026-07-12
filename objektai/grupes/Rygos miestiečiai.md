@@ -14,9 +14,21 @@ tags:
   - grupe
   - miestas
   - ordinas
-  - privilegija
+  - šeima
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos miestiečiai
 
@@ -29,16 +41,16 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
 <a id="claim-t-81605"></a>
 - t-001
   global_id: t-81605
-  teiginys: 'Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą.'
+  teiginys: "Rygos miestiečiai ir jų arkivyskupas skelbė žinią, esą Gediminas su saviškiais noriai priimtų krikštą ir tikėjimą."
   pagrindžia:
-    - c-001
+    - c-78197
 
 <a id="claim-t-183892"></a>
 - t-002
   global_id: t-183892
-  teiginys: '1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo.'
+  teiginys: "1330 m. apie Velykas Rygos miestiečiai patikėjo miestą, šeimas, laisves, teises ir privilegijas Livonijos magistrui Eberhardui iš Manheimo."
   pagrindžia:
-    - c-002
+    - c-167277
 - susijęs iš [[objektai/autoriai/Epitomatorius.md#claim-t-88045|Epitomatorius]]: Epitomatorius nurodė, kad Rygos miestiečiai ir arkivyskupas skelbė apie lietuvių ir rutėnų valdovų norą priimti krikštą.
 - susijęs iš [[objektai/autoriai/Jerošinas Jeroschin.md#claim-t-88022|Jerošinas Jeroschin]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
 - susijęs iš [[objektai/autoriai/Jerošinas.md#claim-t-88047|Jerošinas]]: Jerošinas žinojo, kad Rygos arkivyskupas ir miestiečiai rašė prasimanytus laiškus pajūrio miestams bei popiežiui.
@@ -77,6 +89,7 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     Sostui].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,10 +112,71 @@ Dusburgietis teigia, kad apie Rygos miesto sugriovimą Mūsų jau minėtais meta
     spraga.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Priešai: [[objektai/grupes/Kryžiuočių ordinas]]
+## Citatos
+
+- id: c-78197
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Panašių
+    pasakų prirašė ir išsiuntinėjo tieka, kad pasiekė net popie­
+    žių Joną ir privertė jį pasiųsti du legatus į Livoniją."
+    Taigi Jerošinas puikiausiai žinojo, kad arkivyskupas
+    ir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­
+    tams bei popiežiui ir platino melagingą žinią, jog Gedimi­
+    nas norėjęs krikštytis.
+    Epitomatorius  nurodo tiesiai: Cives Rigenses et
+    Archiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo-
+    nia dissidiantur et in omnibus civitatibus et locis maritimis notifi-
+    cant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum
+    91
+
+    ## Puslapis 108
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    baptisma et fidem libenter cum suis susciperent, sed fratres nollet
+    eos suscipere, et idem intimant litteris apostołko [Rygos mies­
+    tiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje
+    prieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir
+    vietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius
+    noriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai
+    nenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų
+    Sostui].
+  citata_rodoma: "\"\nTaigi Jerošinas puikiausiai žinojo, kad arkivyskupas \nir Rygos miestiečiai rašė prasimanytus laiškus pajūrio mies­\ntams bei popiežiui ir platino melagingą žinią, jog Gedimi­\nnas norėjęs krikštytis.\nEpitomatorius  nurodo tiesiai: Cives Rigenses et \nArchiepiscopus eorum tunc Rome adhuc contra fratres in Lyvo- \nnia dissidiantur et in omnibus civitatibus et locis maritimis notifi- \ncant et predicant, quomodo Rex Ruthenorum et Rex Lithwanorum\n91\n\n## Puslapis 108\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbaptisma et fidem libenter cum suis susciperent, sed fratres nollet \neos suscipere, et idem intimant litteris apostołko [Rygos mies­\ntiečiai ir jų arkivyskupas anuomet dar Romoje ir Livonijoje \nprieš brolius nesantaiką sėjo ir visuose pajūrio miestuose ir \nvietovėse platino ir skelbė, esą rutėnų ir lietuvių karalius \nnoriai su saviškiais krikštą ir tikėjimą priimtų, bet broliai \nnenorį, kad jie priimtų, ir taip pat įteikė laiškus Apaštalų \nSostui]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81605
+
+- id: c-167277
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 256"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 256."
+  citata_originali: |
+    16. Apie Rygos miesto sugriovimą
+
+      Mūsų jau minėtais metais, būtent 1330, apie Velykas (balandžio 1—8), kai Rygos
+    miestas bemaž ištisus metus jau buvo apsuptas, nemari (kitados visi šitaip manė)
+    Rygos miestiečių ir Livonijos teutonų ordino brolių nesantarvė laikinai aprimo; didėjant
+    nepritekliui ir stiprėjant nesantaikai, kurios su baime laukta kilsiant tarp miesto valdytojų
+    ir paprastų žmonių, miestiečiai turėjo ir save, ir savo šeimas, ir miestą, ir savo laisves
+    bei visas teises ir privilegijas patikėti broliui Eberhardui iš Manheimo, Livonijos žemės
+    magistrui, bei broliams tam, kad jie viską tvarkytų ir rikiuotų, kaip jiems rodysis tinkama.
+    Magistras tol nekėlė kojos  į miestą, kol jo sienoje nebuvo išlaužta 30 uolekčių ilgio
+    spraga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183892

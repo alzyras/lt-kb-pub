@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gruzija
 
@@ -19,9 +31,9 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
 <a id="claim-t-15255"></a>
 - t-001
   global_id: t-15255
-  teiginys: 'Tarptautinėse misijose Gruzijoje ir kitose šalyse dalyvavo per du šimtus Lietuvos karių.'
+  teiginys: "Tarptautinėse misijose Gruzijoje ir kitose šalyse dalyvavo per du šimtus Lietuvos karių."
   pagrindžia:
-    - c-001
+    - c-18273
 - susijęs iš Kosovas: Tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercegovinoje bei Gruzijoje dalyvavo per du šimtus Lietuvos karių.
 - susijęs iš [[objektai/daiktai/Išsaugotos Toros.md#claim-t-19534|Išsaugotos Toros]]: Lietuva siekė grąžinti žydams išblaškytas kultūros vertybes, tarp jų išsaugotas 300 Torų.
 - susijęs iš [[objektai/ivykiai/Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga).md#claim-t-20351|Lietuvos pasiūlymas vadovauti Goro provincijos atkūrimo grupei Afganistane (2004 m. pabaiga)]]: 2004 m. pabaigoje Lietuvai pasiūlyta vadovauti Goro provincijos atkūrimo grupei Afganistane.
@@ -45,7 +57,29 @@ Apskritai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Herce
     vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-18273
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kadangi Lietuva neturi tinkamų priemonių apsaugoti savo oro erdvę,
+    nuo įstojimo į Aljansą pradžios tuo užsiima NATO senbuvės. Narystė
+    NATO – ne tik didesnės saugumo garantijos, bet ir įsipareigojimai prisidėti
+    prie stabilumo ir taikos palaikymo ne tik Europoje, bet ir už jos ribų. Apskri-
+    tai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-
+    vinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių.
+  citata_rodoma: "Apskri-\ntai tarptautinėse misijose Irake, Afganistane, Kosove, Bosnijoje ir Hercego-\nvinoje, Gruzijoje dalyvavo per du šimtus Lietuvos karių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-15255

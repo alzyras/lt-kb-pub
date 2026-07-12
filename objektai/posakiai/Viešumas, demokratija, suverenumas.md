@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Viešumas, demokratija, suverenumas
 
@@ -23,10 +35,16 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
 <a id="claim-t-13363"></a>
 - t-001
   global_id: t-13363
-  teiginys: '„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.'
+  teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
   pagrindžia:
-    - c-001
+    - c-16518
 
+<a id="claim-t-13363"></a>
+- t-002
+  global_id: t-13363
+  teiginys: "„Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis."
+  pagrindžia:
+    - c-16518
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,8 +58,31 @@ Pradiniame Sąjūdžio etape ši formulė įvardyta kaip pagrindinis šūkis.
     Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-16518
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pradiniame etape Sąjūdis iš es-
+    mės buvo gorbačiovinės perestroikos kūdikis, kurį su ankstesniais kovų eta-
+    pais siejo tik laisvos Lietuvos siekis. M. Gorbačiovas, rungdamasis su senąja
+    SSKP vadovybe, buvo priverstas remtis reformas palaikančiomis jėgomis,
+    o LPS stengėsi remti Maskvoje pradėtas reformas ir siekė jas įgyvendinti
+    Lietuvoje. Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
+  citata_rodoma: "Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13363
+    - t-13364

@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Perkūnaitėlės maldavimas apsaugoti laukus nuo audrų
 
@@ -28,16 +40,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189929"></a>
 - t-001
   global_id: t-189929
-  teiginys: 'Narbutas rašė, kad žemdirbiai Perkūnaitėlę garbino kaip oro permainų valdovę ir maldavo apsaugoti laukus nuo krušos, liūčių bei griausmų.'
+  teiginys: "Narbutas rašė, kad žemdirbiai Perkūnaitėlę garbino kaip oro permainų valdovę ir maldavo apsaugoti laukus nuo krušos, liūčių bei griausmų."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172812
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašė, kad žemdirbiai Perkūnaitėlę garbino kaip oro permainų valdovę ir maldavo apsaugoti laukus nuo krušos, liūčių bei griausmų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -52,8 +63,35 @@ Nenurodyta
     čio vadinti švente Maloningosios Dievo motinos švente. Šis
     kaimiečių meldimasis sutampa su žinomomis senovės Romos
     žemdirbių maldomis Junonai, vadinamai Populonia.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172812
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 124"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 124."
+  citata_originali: |
+    Ką paliko Lasickis ir ką čia ką tik pasakėme, to teisingumą
+    patvirtina tyrimai. Žemdirbiai garbino šią deivę kaip oro per­
+    mainų valdovę; ypač valstietės maldaudavo jos, kad apgintų
+    pas Perkūną laukus nuo krušos, liūčių, griausmų. Žemaitijoje,
+    kai kuriose vietose, iki šiol tebesimeldžia Perkūnaitėlei, tik savo
+    maldas kreipia į švenčiausiąją mergelę Mariją, kurią jie vadi­
+    na Panna Marya Perkunatele arba Perkūnija. Net būta papro­
+    čio vadinti švente Maloningosios Dievo motinos švente. Šis
+    kaimiečių meldimasis sutampa su žinomomis senovės Romos
+    žemdirbių maldomis Junonai, vadinamai Populonia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189929

@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lengvenis
 
@@ -28,37 +40,44 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
 <a id="claim-t-47953"></a>
 - t-001
   global_id: t-47953
-  teiginys: 'Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse.'
+  teiginys: "Lengvenis buvo vienas iš penkių Jogailos brolių, minimų liudininkais trijose Jogailos ir Skirgailos vardu sudarytose sutartyse."
   pagrindžia:
-    - c-002
+    - c-50281
 
 <a id="claim-t-47954"></a>
 - t-002
   global_id: t-47954
-  teiginys: 'Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.'
+  teiginys: "Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas."
   pagrindžia:
-    - c-003
+    - c-50282
 
 <a id="claim-t-47955"></a>
 - t-003
   global_id: t-47955
-  teiginys: 'Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas.'
+  teiginys: "Jogaila paskyrė savo brolį Lengvenį į Didžiojo Naugardo kunigaikščius maitinimuisi, ir Lengvenis ten buvo pakviestas."
   pagrindžia:
-    - c-003
+    - c-50282
 
-<a id="claim-t-47956"></a>
+<a id="claim-t-47957"></a>
 - t-004
-  global_id: t-47956
-  teiginys: 'Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų.'
+  global_id: t-47957
+  teiginys: "Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų."
   pagrindžia:
-    - c-001
+    - c-30252
+
+<a id="claim-t-47957"></a>
+- t-005
+  global_id: t-47957
+  teiginys: "Lengvenis grįžo ir keliolika metų ištikimai tarnavo Vytautui kaip vienas veikliausių jo karo vadų."
+  pagrindžia:
+    - c-30252
 
 <a id="claim-t-47958"></a>
 - t-006
   global_id: t-47958
-  teiginys: 'Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.'
+  teiginys: "Lengvenis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai."
   pagrindžia:
-    - c-003
+    - c-50282
 - susijęs iš [[objektai/asmenys/Jurgis (Lengvenio sūnus).md#claim-t-29022|Jurgis (Lengvenio sūnus)]]: Lengvenio sūnus Jurgis vadovavo Smolensko pulkams, kurie Žalgirio mūšyje laikėsi tarp lietuvių ir lenkų kariuomenės dalių.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-39992|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
@@ -102,7 +121,8 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     sitenkinimo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -125,6 +145,7 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     taryba tėra paminėta Žemaičių dovanojimo dokumente.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,13 +162,75 @@ Tą aktą patvirtino pats Jogaila, jo broliai Skirgaila, Lengvenis, Kaributas ir
     1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-003
     - t-002
 
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Jurgis (Lengvenio sūnus)]]
-- Paskyrė Lengvenį: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+## Citatos
+
+- id: c-30252
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lengvenis ten pastoviai neįsikūrė. Patyręs apie
+    savo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis
+    grįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam
+    kelioliką metų ištikimai tarnavo.
+    Jogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­
+    sitenkinimo.
+  citata_rodoma: "Patyręs apie\nsavo dviejų brolių (Karigailos, Viganto — Aleksandro) mirtį, jis\ngrįžo atgal ir, kaip vienas veikliausių Vytauto karo vadų, jam\nkelioliką metų ištikimai tarnavo.\nJogailos nepasisekimai kovoje su Vytautu Lenkijoje kėlė nepa­\nsitenkinimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47956
+    - t-47957
+
+- id: c-50281
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kaip kita­
+    dos Mindaugas už Livonijos ordino paslaugas turėjo išdavinėti
+    donacinius dokumentus, taip Jogaila Prūsų kryžiuočiams už ordino
+    « draugiškumą, patarimus, pagalbą, darbą ir įvairų triūsą » turėjo
+    užleisti jam visą Žemaičių plotą tarp abiejų ordino valdų — t. y.
+    Livonijos ir Prūsų—-ligi Dubysos upės. Visose trijose Jogailos ir
+    Slorgailos vardu sudarytose sutartyse liudininkais yra suminėti visi
+    kiti likusieji penki Jogailos broliai, Julijonos sūnūs (Kaributas,
+    Karigaila, Lengvenis, Vygandas, Švitrigaila), ir Jogailai nusipelnęs
+    bei svarbiu patarėju tapęs Hanulis. O Julijona ir kunigaikščio
+    taryba tėra paminėta Žemaičių dovanojimo dokumente.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47953
+
+- id: c-50282
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vėl sustiprėjęs Jogaila į D. Naugardo kunigaikščius —
+    « maitinimuisi » (« na kormlenije ») — nuskyrė savo brolį Lengvenį,
+    kuris ir buvo ten pakviestas.
+    Rūpestingai išruoštas Algirdaitis priėmė stačiatikių tikėjimą ir
+    toliau vadinosi « Semeon » arba « Lingwen ». Dviem raštais (1388-
+    1389) jis prisiekė ištikimybę Jogailai, Jadvygai ir Karūnai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47958
+    - t-47955
+    - t-47954

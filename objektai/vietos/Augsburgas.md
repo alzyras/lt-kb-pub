@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augsburgas
 
@@ -25,9 +37,9 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
 <a id="claim-t-187161"></a>
 - t-001
   global_id: t-187161
-  teiginys: 'Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.'
+  teiginys: "Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m."
   pagrindžia:
-    - c-001
+    - c-170258
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš 1559 m. Žygimanto Augusto raštas dėl Valerijono priešinimosi Augsburgo tikėjimui: 1559 m. Žygimanto Augusto raštas paliudijo Vilniaus vyskupo Valerijono priešinimąsi Augsburgo tikėjimui.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
@@ -46,7 +58,27 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
     ir kl.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170258
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1938.
+    Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu-
+    ropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521
+    ir kl.
+  citata_rodoma: "Miechowila  M. Tračiaius de duabus Sarmatiis, A siana ei Eu- \nropiana. Krokuva, 1517: Augsburgas, 1518; Krokuva, 1518, 1521 \nir kl."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187161

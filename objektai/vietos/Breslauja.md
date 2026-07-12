@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Breslauja
 
@@ -33,37 +45,37 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
 <a id="claim-t-187201"></a>
 - t-001
   global_id: t-187201
-  teiginys: 'Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.'
+  teiginys: "Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge."
   pagrindžia:
-    - c-001
+    - c-170276
 
 <a id="claim-t-187202"></a>
 - t-002
   global_id: t-187202
-  teiginys: 'Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą.'
+  teiginys: "Švitrigaila ir Livonijos magistras Breslaujoje sujungė savo pajėgas žygiui į Lietuvą."
   pagrindžia:
-    - c-002
+    - c-170277
 
 <a id="claim-t-187203"></a>
 - t-003
   global_id: t-187203
-  teiginys: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
+  teiginys: "Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja."
   pagrindžia:
-    - c-001
+    - c-170276
 
 <a id="claim-t-187204"></a>
 - t-004
   global_id: t-187204
-  teiginys: 'Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.'
+  teiginys: "Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui."
   pagrindžia:
-    - c-001
+    - c-170276
 
 <a id="claim-t-187205"></a>
 - t-005
   global_id: t-187205
-  teiginys: 'Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis.'
+  teiginys: "Po Gedimino žūties 1337 m. Jaunutis paveldėjo Breslaują kartu su kitomis valdomis."
   pagrindžia:
-    - c-003
+    - c-170278
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
@@ -96,6 +108,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,6 +132,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     žygiuoti gilyn į Lietuvą buvo nebegalima.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,12 +180,108 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
     bet ir Ašmeną, Ukmergę ir Breslaują.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
+## Citatos
+
+- id: c-170276
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­
+    niškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai
+    valdančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­
+    linį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,
+    Ukmerge, Breslauja (Braslaw).
+    Kiti šeši Gedimino sūnus taip pat gavo savo dalis.
+  citata_rodoma: "Per sostinę įgydamas didžiojo kunigaikščio titulą, t. y. vyres­\nniškumą prieš kitus brolius, Jaunutis buvo paskirtas galva visai\nvaldančiajai giminei. Į jam paskirtą palyginti nedidelį žemių da­\nlinį, be Vilniaus, dar priklausė artimos sritys su pilimis : Ašmena,\nUkmerge, Breslauja (Braslaw).\nKiti šeši Gedimino sūnus taip pat gavo savo dalis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187201
+    - t-187203
+    - t-187204
+
+- id: c-170277
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tais metais
+    Švitrigaila su LDK ry-
+    tinių žemių rusų ku-
+    nigaikščiais ir bajorais
+    „išžygiavo į Lietuvą“.
+    Jam į pagalbą atėjo
+    Livonijos magistras ir
+    jie Breslaujoje sujungė
+    savo pajėgas. Tačiau
+    „užpylus žemę liūtimis“
+    žygiuoti gilyn į Lietuvą buvo nebegalima.
+  citata_rodoma: "Tais metais\nŠvitrigaila su LDK ry-\ntinių žemių rusų ku-\nnigaikščiais ir bajorais\n„išžygiavo į Lietuvą“.\nJam į pagalbą atėjo\nLivonijos magistras ir\njie Breslaujoje sujungė\nsavo pajėgas. Tačiau\n„užpylus žemę liūtimis“\nžygiuoti gilyn į Lietuvą buvo nebegalima."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187202
+
+- id: c-170278
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+    14
+    Gedimino laiške Liubeko, Rostoko,
+    Zundo, Greifsvaldo, Štetino mies­
+    tams ir Gotlando salos gyventojams
+    šis valdovas praneša, kad į Vilnių at­
+    vykę kolonistai galės vadovautis ci­
+    viline teise, kokia naudojasi Rygos
+    miestas, kol teisėtvarkininkai nesu­
+    kurs geresnių įstatymų. Jure civili
+    utantur Rigensis Civitatis, omnis vul­
+    gus, nisi tunc melius fuerit inuentum
+    de sano consilio discretorum [tad visi
+    [tie] žmonės tesinaudoja civiline Ry­
+    gos miesto teise, jei paskui geriau ne­
+    bus sumanyta išmintingųjų tarybos].
+    15
+    Žr. III priedą šioje knygoje.
+    ■  •  -
+    25
+
+    ## Puslapis 42
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bet ir Ašmeną, Ukmergę ir Breslaują.
+  citata_rodoma: "Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su \nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200 \nmetais, ant kalno, vadinto Righe, \nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti \nkrikščioniškąjį tikėjimą Livonijoje, \nbet ten dar prieš aštuonerius metus \nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų.\n14\nGedimino laiške Liubeko, Rostoko, \nZundo, Greifsvaldo, Štetino mies­\ntams ir Gotlando salos gyventojams \nšis valdovas praneša, kad į Vilnių at­\nvykę kolonistai galės vadovautis ci­\nviline teise, kokia naudojasi Rygos \nmiestas, kol teisėtvarkininkai nesu­\nkurs geresnių įstatymų. Jure civili \nutantur Rigensis Civitatis, omnis vul­\ngus, nisi tunc melius fuerit inuentum \nde sano consilio discretorum [tad visi \n[tie] žmonės tesinaudoja civiline Ry­\ngos miesto teise, jei paskui geriau ne­\nbus sumanyta išmintingųjų tarybos].\n15\nŽr. III priedą šioje knygoje.\n■  •  -\n25\n\n## Puslapis 42\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nbet ir Ašmeną, Ukmergę ir Breslaują."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187205
+
 ## Ryšiai
 - Buvo valdoma: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Kernius]]
-- Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

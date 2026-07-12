@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # View of the state of Europe etc
 
@@ -26,10 +38,9 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
 <a id="claim-t-88347"></a>
 - t-001
   global_id: t-88347
-  teiginys: 'Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis.'
+  teiginys: "Hallamas veikale „View of the state of Europe etc“ miestų kūrimosi prielaidas siejo su kiekvienos šalies vietinėmis sąlygomis."
   pagrindžia:
-    - c-001
-
+    - c-84326
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +61,35 @@ Jau veikiau tai netvirtas ir varganas būvis, a) Ši nuomonė, įžvalgiausių i
     tinėse sąlygose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84326
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nebuvo jie, galima sakyti, nei tikrai laisvi, nei vi­
+    sai priklausomi. Jau veikiau tai netvirtas ir varganas būvis,
+    a)
+    Ši nuomonė, įžvalgiausių istorikų vi­
+    suotinai pripažįstama, pirmą kartą
+    sutiko pasipriešinimą anglų auto­
+    riaus H a 1 1  a m o asmenyje, kuris
+    savo kūrinyje View of the state of Eu­
+    rope etc. London, 1813 in 4-to, t. 1,
+    prielaidas miestams kurtis nori
+    įžiūrėti tiesiog kiekvienos šalies vie­
+    tinėse sąlygose.
+  citata_rodoma: "Jau veikiau tai netvirtas ir varganas būvis,\na)\nŠi nuomonė, įžvalgiausių istorikų vi­\nsuotinai pripažįstama, pirmą kartą \nsutiko pasipriešinimą anglų auto­\nriaus H a 1 1  a m o asmenyje, kuris \nsavo kūrinyje View of the state of Eu­\nrope etc. London, 1813 in 4-to, t. 1, \nprielaidas miestams kurtis nori \nįžiūrėti tiesiog kiekvienos šalies vie­\ntinėse sąlygose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88347

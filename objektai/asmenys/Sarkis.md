@@ -9,6 +9,19 @@ tags:
   - asmuo
   - ginklas
   - krikštas
+  - šeima
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sarkis
 
@@ -21,23 +34,23 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
 <a id="claim-t-60064"></a>
 - t-001
   global_id: t-60064
-  teiginys: 'Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje.'
+  teiginys: "Nelaisvėje Sarkis sutraukė pančius, nužudė vieną brolį ir tris ginklanešius, nukirto kitam ranką ir žuvo kovoje."
   pagrindžia:
-    - c-001
+    - c-60696
 
 <a id="claim-t-60065"></a>
 - t-002
   global_id: t-60065
-  teiginys: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
+  teiginys: "Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje."
   pagrindžia:
-    - c-002
+    - c-60697
 
 <a id="claim-t-60066"></a>
 - t-003
   global_id: t-60066
-  teiginys: 'Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.'
+  teiginys: "Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis."
   pagrindžia:
-    - c-003
+    - c-60698
 - susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
 ## Reikšmingi paminėjimai
 
@@ -59,6 +72,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
                      187 (182).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,6 +90,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
       471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +109,77 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
     atsidursiąs galingo žmogaus globoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-60696
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
+  citata_originali: |
+    Šitai
+    išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
+    apsupo jį, staiga užpuolė  ir, kitiems iš baimės išsibėgiojus, pagavo  jį patį ir nusivedė
+    drauge su aštuoniais galingesniaisiais skalvių vyrais. Tačiau pačią pirmąją naktį, kai
+    broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
+    buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
+    o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
+
+
+
+
+                     187 (182).
+  citata_rodoma: "Tačiau pačią pirmąją naktį, kai\nbroliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais\nbuvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,\no kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.\n\n\n\n\n                 187 (182)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60064
+
+- id: c-60697
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 156"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156."
+  citata_originali: |
+    186 (181). Apie tai, kaip norėta išduoti brolius
+
+      Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,
+    šitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės
+    pasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,
+      471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno.
+  citata_rodoma: "Apie tai, kaip norėta išduoti brolius\n\n  Gyveno vienas  galingas  skalvių  vyras, vardu  Sarkis,  pilininkas Sarkų  pilies473,\nšitaip pavadintos nuo jo vardo ir stovėjusios toje Skalvos dalyje, kuri Lietuvos žemės\npasienyje474. Neturėdamas pakankamai  karių, su  kuriais  galėtų smogti  broliams,\n  471 Turima galvoje Skalvos žemės   į pietus nuo Nemuno."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60065
+
+- id: c-60698
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 156-157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 156-157."
+  citata_originali: |
+    474 D. — que tangit lerram Lethowie. Lietuvos žeme Dusburgietis čia vadina Karšuvą
+
+    sugalvojo klastingai išduoti  ir, prisidengus gerumo kauke, juos apgauti. Jis pasiuntė
+    savo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti
+    su savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės
+    ir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai
+    atsidursiąs galingo žmogaus globoje.
+  citata_rodoma: "Lietuvos žeme Dusburgietis čia vadina Karšuvą\n\nsugalvojo klastingai išduoti  ir, prisidengus gerumo kauke, juos apgauti. Jis pasiuntė\nsavo žygūnus pas Klaipėdos komtūrą, nuolankiai ir pamaldžiai jį prašydamas atžygiuoti\nsu savo ginklanešiais ir jį, norintį su visais namais ir šeimyna išsižadėti stabmeldystės\nir priimti krikšto malonę, smurtu išsivesti, nes jis išvengsiąs netikėlių rankų tada, kai\natsidursiąs galingo žmogaus globoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60066

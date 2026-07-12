@@ -19,6 +19,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jeronimas Opachovskis
 
@@ -31,9 +43,9 @@ periodo_grupes:
 <a id="claim-t-87705"></a>
 - t-001
   global_id: t-87705
-  teiginys: 'Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.'
+  teiginys: "Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą."
   pagrindžia:
-    - c-001
+    - c-83684
 - susijęs iš [[objektai/asmenys/Lukas Opachovskis.md#claim-t-87768|Lukas Opachovskis]]: 1563 m. Vilniaus burmistras Lukas Opachovskis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Karalystės seime Varšuvoje.
 - susijęs iš [[objektai/asmenys/Zenonas Zažeckis.md#claim-t-87891|Zenonas Zažeckis]]: 1563 m. Vilniaus burmistras Zenonas Zažeckis atstovavo Lietuvos Didžiosios Kunigaikštystės miestams Varšuvos seime.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
@@ -76,7 +88,45 @@ periodo_grupes:
     pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83684
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iš kur jis atsiradęs, tai gal vėliau
+    daugiau paaiškės.
+    40
+    Dar prieš kelerius metus, nes jau 1563
+    metais Vilniaus burmistrai - Lukas
+    Opachovskis ir Zenonas Zažeckis -
+    atstovavo Lietuvos Didžiosios Kuni­
+    gaikštystės miestams Karalystės sei­
+    me Varšuvoje ir yra paminėti to pa-
+    280
+
+    ## Puslapis 297
+
+    IV KNYGA
+    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
+    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
+    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
+    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
+    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
+    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
+    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87705

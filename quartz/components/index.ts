@@ -7,7 +7,13 @@ import Darkmode from "./Darkmode"
 import ReaderMode from "./ReaderMode"
 import AdvancedEvidenceToggle from "./AdvancedEvidenceToggle"
 import OptionsPanel from "./OptionsPanel"
+import SettingsPage from "./SettingsPage"
 import HomeRandomTeiginiai from "./HomeRandomTeiginiai"
+import HomeCollection from "./HomeCollection"
+import LIHeader from "./LIHeader"
+import GoogleTranslate from "./GoogleTranslate"
+import ObjectMapCTA from "./ObjectMapCTA"
+import ObjectMediaGallery from "./ObjectMediaGallery"
 import Head from "./Head"
 import PageTitle from "./PageTitle"
 import ContentMeta from "./ContentMeta"
@@ -37,7 +43,13 @@ export {
   ReaderMode,
   AdvancedEvidenceToggle,
   OptionsPanel,
+  SettingsPage,
   HomeRandomTeiginiai,
+  HomeCollection,
+  LIHeader,
+  GoogleTranslate,
+  ObjectMapCTA,
+  ObjectMediaGallery,
   Head,
   PageTitle,
   ContentMeta,

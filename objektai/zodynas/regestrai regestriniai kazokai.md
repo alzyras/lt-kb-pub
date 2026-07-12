@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - sukilimas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # regestrai regestriniai kazokai
 
@@ -20,10 +32,9 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
 <a id="claim-t-74035"></a>
 - t-001
   global_id: t-74035
-  teiginys: 'Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.'
+  teiginys: "Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę."
   pagrindžia:
-    - c-001
-
+    - c-72116
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,30 @@ Tų sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus, tačiau ne
     naujas sukilimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-72116
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tų
+    sričių ponai savo dvaruose laikė ištisus kariuomenės pulkus,
+    tačiau ne visada apsigindavo patys, ir labai dažnai tekdavo žy-
+    giuoti prieš kazokus Lenkijos hetmonams. Nugalėti kazokai
+    nutildavo, dalis jų pakliūdavo į regestrus, daugumas turėdavo
+    eiti dirbti žemės, o dalis bėgdavo į tolimą ir nepasiekiamą Sičę.
+    Bet po kiek laiko ir vėl dėl kokios nors priežasties prasidėdavo
+    naujas sukilimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74035

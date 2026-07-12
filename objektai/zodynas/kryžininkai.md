@@ -17,6 +17,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kryžininkai
 
@@ -29,16 +41,16 @@ amziai:
 <a id="claim-t-113641"></a>
 - t-001
   global_id: t-113641
-  teiginys: 'Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją.'
+  teiginys: "Kryžininkai, gausiai suverbuoti kovai su Rytų Europą užplūdusiais totoriais, buvo įtraukti į kryžiaus karo akciją."
   pagrindžia:
-    - c-001
+    - c-44189
 
 <a id="claim-t-113642"></a>
 - t-002
   global_id: t-113642
-  teiginys: 'Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą.'
+  teiginys: "Konrado Valenrodo šlovė ir potraukis riterystei subūrė iš Europos šalių gausius kryžininkų pulkus žygiui į Lietuvą."
   pagrindžia:
-    - c-002
+    - c-104837
 - susijęs iš [[objektai/grupes/Europos kryžininkai.md#claim-t-86725|Europos kryžininkai]]: 1392 m. Europos kryžininkai rengė didesnį žygį į Lietuvą.
 - susijęs iš [[objektai/paprociai/Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas.md#claim-t-05368|Vakarų pagalbos kvietimas ir svečių iš Vokietijos šaukimas]]: Kalavijuočių ordiną stiprino Popiežiaus privilegijų skatinami iš Vokietijos atvykstantys kryžininkai.
 - susijęs iš Kauno pilis (pilis): Kauno pilį puolė kryžiuočių pajėgos, Livonijos ordino daliniai ir kryžininkai iš Anglijos, Italijos bei Vokietijos.
@@ -73,7 +85,8 @@ amziai:
     nas stiprino ryšius su lenkų kunigaikščiais.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -120,7 +133,81 @@ amziai:
     ti].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-44189
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Į šią kry-
+    žiaus karo akciją buvo įtraukti ir prieš tuo
+    metu Rytų Europą užplūdusius totorius
+    gausiai suverbuoti kryžininkai. Livonijoje ir
+    Prūsijoje buvo suformuotos dvi didelės ka-
+    riuomenės, kurioms vadovavo Kryžiuočių
+    ordino riteriai.
+
+    Puolimo prieš Lietuvą išvakarėse Ordi-
+    nas stiprino ryšius su lenkų kunigaikščiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113641
+
+- id: c-104837
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, dar leidžia kapitulai
+    imti kas dešimtą sugautą žuvį ka­
+    raliaus tvenkiniuose Vilijos upėje ir
+    įsako, kad jai kasmet iš pilies būtų
+    129
+
+    ## Puslapis 146
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    pasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­
+    gandos dienų iškamuotų tėvynainių karšto pritarimo sulau­
+    kęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­
+    kiją; vis dėlto, kad abi Vilniaus pilys priešams būtų
+    grėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­
+    spirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­
+    kė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti
+    Lietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo
+    naudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­
+    čioniška būdama, iš naujų savo tikėjimo brolių ne gynybos
+    sulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po
+    visą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­
+    do šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­
+    ties narsa, o pirmiausia nesulaikomas potraukis į riterystę
+    vėl subūrė iš visų Europos šalių gausius ir pajėgius kryži-
+    ninkų pulkus, pasišovusius traukti į vargų prispaustą
+    Lietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-
+    duodama 12 pūdų vaško: duodecem
+    talenta cerae Pud dieta, de curia castri
+    nostri Viln. singulis quatuor tempori­
+    bus tria talenta solvi debent capitulo su-
+    prascripto etc [dvylika talentų vaško,
+    vadinamų pūdais, iš mūsų Vilniaus
+    pilies dvaro kiekvienais metais ke­
+    turiskart po tris talentus privalo
+    aukščiau aprašytai kapitulai mokė­
+    ti].
+  citata_rodoma: "Be to, dar leidžia kapitulai \nimti kas dešimtą sugautą žuvį ka­\nraliaus tvenkiniuose Vilijos upėje ir \nįsako, kad jai kasmet iš pilies būtų\n129\n\n## Puslapis 146\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npasirūpinęs ateičiai savo senosios sostinės gynyba ir ilgų ne­\ngandos dienų iškamuotų tėvynainių karšto pritarimo sulau­\nkęs, tvirtybės įgavęs, Jogaila žiemą išvažiavo atgalios į Len­\nkiją; vis dėlto, kad abi Vilniaus pilys priešams būtų \ngrėsmingesnės, vos tik grįžęs, Olesnickiui atsiuntė naujos pa­\nspirties - maisto išteklių ir žmonių. Vilniui bemat jos prirei­\nkė, nes kitais, 1392, metais Europos riteriai taisėsi užplūsti \nLietuvą, rengdami dar didesnį žygį į šalį, kuri dar negalėjo \nnaudotis išpažįstamo tikėjimo geradarystėmis, bet jau krikš­\nčioniška būdama, iš naujų savo tikėjimo brolių ne gynybos \nsulaukė, o dar žiauresnių smūgių nei totorių antpuoliai. Po \nvisą pasaulį plačiai pasklidęs garsas apie Konrado Valenro­\ndo šlovę, kurį Ordinas iškėlė į didžiuosius magistrus39, jo pa­\nties narsa, o pirmiausia nesulaikomas potraukis į riterystę \nvėl subūrė iš visų Europos šalių gausius ir pajėgius kryži- \nninkų pulkus, pasišovusius traukti į vargų prispaustą \nLietuvą. Anglija, Škotija ir Prancūzija gerokai papildė sa-\nduodama 12 pūdų vaško: duodecem \ntalenta cerae Pud dieta, de curia castri \nnostri Viln."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113642

@@ -9,6 +9,18 @@ tags:
   - krikštas
   - paprotys
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Katalikiškos bažnytinės organizacijos plėtimas parapijomis, vienuolijomis ir bažnyčiomis
 
@@ -41,17 +53,16 @@ Nenurodyta
 <a id="claim-t-54247"></a>
 - t-001
   global_id: t-54247
-  teiginys: 'Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
+  teiginys: "Katalikiška bažnytinė organizacija plėtėsi kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų."
   pagrindžia:
-    - c-001
+    - c-55146
 
 <a id="claim-t-54248"></a>
 - t-002
   global_id: t-54248
-  teiginys: 'Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų.'
+  teiginys: "Katalikiška bažnytinė organizacija plėsta kuriant parapijas ir statant bažnyčias net toli nuo vyskupijų centrų."
   pagrindžia:
-    - c-001
-
+    - c-55146
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,7 +78,30 @@ Nenurodyta
     bažnyčios.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55146
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Iki XVI  a. vidurio susikūrė sep-
+    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
+    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine. Stato-
+    mos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – dau-
+    gybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai.
+    Visur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos
+    bažnyčios.
+  citata_rodoma: "Iki XVI  a. vidurio susikūrė sep-\ntynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios \n18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine. Stato-\nmos puošnios vienuolynų bažnyčios su prabangiais altoriais, jose – dau-\ngybė paveikslų, skulptūrų bei freskų, o nuo XV a. pabaigos – ir vargonai. \nVisur, net ir toliausiai nuo vyskupijų centrų, kurtos parapijos ir statytos \nbažnyčios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54247

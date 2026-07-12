@@ -10,6 +10,18 @@ tags:
   - saltinis
   - seimas
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vašingtono sutartis
 
@@ -22,17 +34,16 @@ tags:
 <a id="claim-t-75524"></a>
 - t-001
   global_id: t-75524
-  teiginys: 'Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę.'
+  teiginys: "Vašingtono sutarties 5-asis straipsnis garantuoja individualios ar kolektyvinės savigynos teisę užpuolus vieną Aljanso narę."
   pagrindžia:
-    - c-001
+    - c-73284
 
 <a id="claim-t-75526"></a>
 - t-002
   global_id: t-75526
-  teiginys: 'Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą.'
+  teiginys: "Vašingtono sutarties 5-asis straipsnis numato, kad NATO narės ginkluoto puolimo atveju ateina viena kitai į pagalbą."
   pagrindžia:
-    - c-001
-
+    - c-73284
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +62,34 @@ tags:
     pavojus jos saugumui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-73284
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    260
+    Pagrindinis narystės NATO pranašumas pabrėžiamas Vašingtono su-
+    tarties 5-ajame straipsnyje. Juo garantuojama individualios ar kolektyvi-
+    nės savigynos teisė, įvykus ginkluotam vienos iš Aljanso narių užpuo-
+    limui. Tai reiškia, kad šalys narės ginkluoto puolimo prieš bet kurią iš
+    jų atveju ateis viena kitai į pagalbą – ir kiekviena atskirai, ir visos kartu.
+    Vašingtono sutarties 5-asis straipsnis užtikrina, kad nė vienai šaliai nerei-
+    kės kliautis savo pačios pastangomis ir ekonominiais ištekliais, jei iškils
+    pavojus jos saugumui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75526
+    - t-75524

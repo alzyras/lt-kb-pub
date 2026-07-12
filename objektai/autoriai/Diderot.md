@@ -16,6 +16,18 @@ amziai:
   - 'XVIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Diderot
 
@@ -28,10 +40,9 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
 <a id="claim-t-01027"></a>
 - t-001
   global_id: t-01027
-  teiginys: 'Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu.'
+  teiginys: "Diderot, miręs 1784 m., kartu su kitais autoriais buvo laikomas epochos dievaičiu."
   pagrindžia:
-    - c-001
-
+    - c-01266
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,29 @@ Montesquieu († 1755 m.), Rousseau († 1778 m.), Voltaire († 1778 m.), D'Ale
     _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01266
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    menkaverčiai, nepasižymį gilumu, o tik drąsių, viską neigiančių iš-
+    vadų dialektika, bet to meto žmogui tai buvo viskas.
+    Mokslas ir literatūra įsiskverbė ir į aukštąjį luomą, į aristokratų
+    salionus, įsiskverbė net į karaliaus rūmus. _Montesquieu_ († 1755 m.),
+    _Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),
+    _Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais.
+  citata_rodoma: "_Montesquieu_ († 1755 m.),\n_Rousseau_ († 1778 m.), _Voltaire_ († 1778 m.), _D'Alembert_ († 1783 m.),\n_Diderot_ († 1784 m.) ir eilė kitų autorių pasidarė epochos dievaičiais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01027

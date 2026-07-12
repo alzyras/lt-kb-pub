@@ -14,8 +14,21 @@ tags:
   - ivykis
   - kunigaikštis
   - valdovas
+  - šeima
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mongolų (totorių) invazija (1237-1240 m.)
 
@@ -44,17 +57,16 @@ Nenurodyta
 <a id="claim-t-28850"></a>
 - t-001
   global_id: t-28850
-  teiginys: '1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
+  teiginys: "1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu."
   pagrindžia:
-    - c-001
+    - c-28754
 
 <a id="claim-t-184340"></a>
 - t-002
   global_id: t-184340
-  teiginys: 'Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
+  teiginys: "Mongolų invazija 1237-1240 m. smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu."
   pagrindžia:
-    - c-002
-
+    - c-167710
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +82,7 @@ Nenurodyta
     pasiekusią savo kulminacinį punktą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +102,50 @@ Nenurodyta
     ir jos priešai Lietuvos valdovai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-28754
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tipiškame rusu
+    kolonizacijos ir dalinių valdančiosios Riuriko giminės kunigaikščių
+    visiško susiskaldymo laikotarpyje didelį piūvį rusu politiniame ir
+    kultūriniame gyvenime padarė mongolu (totorių) invazija (1237-
+    1240). Jos pasėkoje plačiąja rusų erdve ėmė dalintis Aukso Orda
+    ir jos priešai Lietuvos valdovai. Jie dar prieš Mindaugą pradėjo
+    savąją rytu ekspansiją, Vytauto Didžiojo ir Kazimiero laikais
+    pasiekusią savo kulminacinį punktą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28850
+
+- id: c-167710
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Rusijos isto­
+    riją reikia pradėti senąja Kijevo valstybe, kurios žemių didžiosios
+    dalies paveldėtojais tapo Lietuvos Gediminaičiai. Tipiškame rusu
+    kolonizacijos ir dalinių valdančiosios Riuriko giminės kunigaikščių
+    visiško susiskaldymo laikotarpyje didelį piūvį rusu politiniame ir
+    kultūriniame gyvenime padarė mongolu (totorių) invazija (1237-
+    1240). Jos pasėkoje plačiąja rusų erdve ėmė dalintis Aukso Orda
+    ir jos priešai Lietuvos valdovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184340

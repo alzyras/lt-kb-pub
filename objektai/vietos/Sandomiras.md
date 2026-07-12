@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sandomiras
 
@@ -31,30 +43,30 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
 <a id="claim-t-133639"></a>
 - t-001
   global_id: t-133639
-  teiginys: 'Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.'
+  teiginys: "Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes."
   pagrindžia:
-    - c-002
+    - c-121940
 
 <a id="claim-t-133640"></a>
 - t-002
   global_id: t-133640
-  teiginys: '1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą.'
+  teiginys: "1429 m. rugsėjo 8 d. Jogaila Sandomire sukvietė savo senatorius į pasitarimą."
   pagrindžia:
-    - c-001
+    - c-37712
 
 <a id="claim-t-185128"></a>
 - t-003
   global_id: t-185128
-  teiginys: 'Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus.'
+  teiginys: "Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę ir siaubė jos kaimus bei dvarus."
   pagrindžia:
-    - c-003
+    - c-168489
 
 <a id="claim-t-185129"></a>
 - t-004
   global_id: t-185129
-  teiginys: 'Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme.'
+  teiginys: "Jogaila, nuniokojęs Mazoviją, perkėlė siaubiančius pulkus į Sandomirą, kuris citatoje vadinamas lenkų žeme."
   pagrindžia:
-    - c-004
+    - c-168490
 - susijęs iš Krokuva: Lietuviai Lenkijoje puolė Sandomiro ir Krokuvos žemes.
 - susijęs iš Lukovas: Vytenis, nuniokojęs Lukovo apygardas, nuvedė kariuomenę į Sandomiro žemę.
 - susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185464|Ugnimi ir kalaviju]]: Vytenis, nesutikęs pasipriešinimo Sandomiro žemėje, ugnimi ir kalaviju nusiaubė aplinkinius kaimus bei dvarus.
@@ -108,6 +120,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,6 +139,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     kovinius veiksmus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,6 +170,7 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     nių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -183,12 +198,117 @@ Bet Jogaila nebepabūgo ir pakeliui į Krokuvą iš Sandomiro rašė vyriausiam 
     buvo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
+## Citatos
+
+- id: c-37712
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Paskelbti šiuo metu Lietuvai karą būtų
+    per daug neapgalvotas ir neapskaičiuotas žygis, nes pati viena
+    Lietuva buvo už Lenkiją galingesnė ir, be to, nereikia užmiršti,
+    kad Lietuva dar turėjo sąjungininkų: Romos ciesorių Zigmantą,
+    Ordiną, gal būt, ir husitus, kurių nusistatymas buvo nelabai aiš­
+    kus. Vadinas, pradėt ar išprovokuot karą, reiškė vis tiek jį Len­
+    kijai pralaimėt. Tokiu tat laiku Jogaila vėl sukvietė visus
+    savo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.).
+  citata_rodoma: "Tokiu tat laiku Jogaila vėl sukvietė visus\nsavo senatorius į pasitarimą Sandomire (1429 m. rugsėjo 8 d.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-133640
+
+- id: c-121940
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prie Cėsių (į šiaurę nuo Dauguvos)
+    lietuviams pavyko sutriuškinti Livonijos
+    riterius. Panašiu metu Lenkijoje lietuviai
+    puolė Sandomiro ir Krokuvos žemes.
+    Lietuvos pajėgos Rusioje plačiai vykdė
+
+    kovinius veiksmus.
+  citata_rodoma: "Panašiu metu Lenkijoje lietuviai\npuolė Sandomiro ir Krokuvos žemes.\nLietuvos pajėgos Rusioje plačiai vykdė\n\nkovinius veiksmus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-133639
+
+- id: c-168489
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 152"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 152."
+  citata_originali: |
+    Staigiai ir be var­
+    go iškilęs į valdžios viršūnes, Vytenis turėjo pamato
+    įtariai žiūrėti j savo tolesnį likimą: jis žinojo, jog esa­
+    ma padėtis negali nekurstyti pavydo, neteikti progos
+    maištams, ypač dėl to, kad negalėjo stigti maištui nei
+    kurstytojų, nei dingsčių, pagaliau negalėjo trūkti nė
+    vado būsimam vidaus karui, kol, jam valdant, Trai-
+    verstas pradėti karą dėl visai kitų priežasčių, ypač pa­
+    brėždamas tą žinomiausią: būsią keršijama lenkams už
+    patirtą praėjusiais metais Jotvingijoje pralaimėjimą.
+    Sutelkęs didesnę nei paprastai kariuomenę, jis patrau­
+    kė į karą ir užpuolė lenkų kraštą; nuniokojęs Lukovo
+    apygardas, nuvedė kariuomenę į Sandomiro žemę. Len­
+    kams pasitraukus į miestus ir neleidus savo turtą nio­
+    koti ir savintis, jis, vienur ir kitur nesutikęs pasiprie­
+    šinimo, ugnimi ir kalaviju smarkiai nusiaubė aplinki­
+    nius kaimus ir dvarus, išžudęs galybę silpnų senių bei
+    vaikų, be kito grobio, išsivarė šešis tūkstančius žmo­
+    nių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185128
+
+- id: c-168490
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 275"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 275."
+  citata_originali: |
+    Tuo
+    tarpu Jogaila, atsikratęs rū­
+    pesčių dėl šio karo, ėmėsi kitų darbų. Iš pradžių jis
+    su kariuomene patraukė prieš Jonušą, Mazovijos ku­
+    nigaikštį; iš keršto kaip beįmanydamas nuniokojęs
+    Mazoviją, perkėlė siaubiančius pulkus į Sandomirą,
+    lenkų žemę. Apie šį karą su lenkais nieko nepasakoja
+    Kromeris, tačiau, kad kas nepasigestų to, ką aprašo
+    daugelis rusų metraštininkų, mūsų Strijkovskis pasi­
+    stengė, kad skaitytojas suži-
+    J o g a ilo s ž y g is  j M a-
+    notų, ką šie surašė — gal
+    z o v iją  ir L en k iją
+    klysdami, o gal tikrai žino­
+    dami, jog šitaip iš tikrųjų
+    buvo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185129
+
 ## Ryšiai
-- Puolė Sandomirą: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
+- Puolė Sandomirą: [[objektai/grupes/Lietuviai]]
 - Buvo žygio kryptis: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Turėjo priklausinį: [[objektai/grupes/Lenkai]]

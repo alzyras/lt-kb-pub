@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kotryna
 
@@ -17,23 +29,23 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
 <a id="claim-t-186056"></a>
 - t-001
   global_id: t-186056
-  teiginys: 'Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę.'
+  teiginys: "Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl žmonės dar labiau patikėjo gandais apie jo perėjimą į liuteronybę."
   pagrindžia:
-    - c-001
+    - c-169417
 
 <a id="claim-t-186057"></a>
 - t-002
   global_id: t-186057
-  teiginys: 'Augusto skyrybos su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
+  teiginys: "Augusto skyrybos su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį."
   pagrindžia:
-    - c-002
+    - c-169418
 
 <a id="claim-t-186058"></a>
 - t-003
   global_id: t-186058
-  teiginys: 'Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje.'
+  teiginys: "Kotryna, pasiųsta pas imperatorių Maksimilijoną, susirgo ir mirė kelionėje."
   pagrindžia:
-    - c-003
+    - c-169419
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-184913|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
@@ -63,6 +75,7 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     seserį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,6 +102,7 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     lė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,11 +122,86 @@ Karalius Augustas atvirai išsiskyrė su austrų kunigaikštyte Kotryna, todėl 
     mirė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Vyrai: [[objektai/asmenys/Pranciškus Gonzaga]]
-- Sutuoktiniai: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
+## Citatos
+
+- id: c-169417
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
+  citata_originali: |
+    Jų atsimetimą nuo
+    prosenelių tikėjimo karalius Augustas slėpė net ir
+    Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso­
+    kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.
+    Žmonės dar labiau patikėjo šiais gandais, kai jis ga­
+    lop ryžosi įvykdyti prieš kelerius metus sugalvotą su­
+    manymą ir atvirai išsiskyrė su austrų kunigaikštyte
+    Kotryna. Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186056
+
+- id: c-169418
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
+  citata_originali: |
+    Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį. Karalius teisinosi, jog
+    jam geriau mirti, nei su Kot­
+    ryna gyventi, nes dangus, bausdamas jį už nedorovin­
+    gas jungtuves, pasiuntęs ir jo šeimai, ir valstybei ne­
+    gandų ir neramumų. Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186057
+
+- id: c-169419
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
+  citata_originali: |
+    Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė. Vis dėlto Augustas nieko nepaisė. Kotryna, pasiųsta
+    pas imperatorių Maksimilijoną, neišgyveno šitokio siel­
+    varto: susirgusi, tiesa, veikiau siela nei kūnu, kelionėje
+    mirė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186058

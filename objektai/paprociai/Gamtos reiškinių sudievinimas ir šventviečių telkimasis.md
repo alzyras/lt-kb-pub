@@ -7,6 +7,19 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - šventė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gamtos reiškinių sudievinimas ir šventviečių telkimasis
 
@@ -39,17 +52,23 @@ Nenurodyta
 <a id="claim-t-54232"></a>
 - t-001
   global_id: t-54232
-  teiginys: 'Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje.'
+  teiginys: "Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje."
   pagrindžia:
-    - c-001
+    - c-55137
+
+<a id="claim-t-54232"></a>
+- t-002
+  global_id: t-54232
+  teiginys: "Gamtos sudievinimo sampratoje senieji lietuviai šventybės raišką matė danguje, žemėje, ugnyje ir vandenyje."
+  pagrindžia:
+    - c-55137
 
 <a id="claim-t-183310"></a>
 - t-003
   global_id: t-183310
-  teiginys: 'Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse.'
+  teiginys: "Senųjų lietuvių gamtos reiškinių, ypač žemės, sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu telkėsi šventvietėse."
   pagrindžia:
-    - c-002
-
+    - c-166700
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +84,8 @@ Nenurodyta
     ir vandenyje – matę šventybės raišką.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -82,7 +102,48 @@ Nenurodyta
     tačiau, regis, ypatingomis laikytos ąžuolų giraitės, žalčiai ir alkakalniai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55137
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Romantikai
+    ieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų,
+    taigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-
+    mėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai
+    religinės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai
+    visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
+    ir vandenyje – matę šventybės raišką.
+  citata_rodoma: "Romantikai \nieškojo antropomorfinių dievų įvaizdžių, stabų, rašto, žynių, šventyklų, \ntaigi siekė rasti tai, kas būdinga ikikrikščioniškai Romai ar graikų ir ro-\nmėnų religinėms sistemoms. Juos kritikuojantieji manė, kad lietuviai \nreliginės sistemos neturėjo, o tik buvo sudievinę gamtą. Senieji lietuviai \nvisur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje \nir vandenyje – matę šventybės raišką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54232
+
+- id: c-166700
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Senieji lietuviai
+    visur – dangaus skliaute su Saule, Mėnuliu ir žvaigždėmis, žemėje, ugnyje
+    ir vandenyje – matę šventybės raišką. Toks gamtos reiškinių, ypač žemės,
+    sudievinimas trukdė plėstis žemės dirbimui, todėl šventumas pamažu
+    koncentravosi šventvietėse. Tai galėjo būti konkretus medis ar akmuo,
+    tačiau, regis, ypatingomis laikytos ąžuolų giraitės, žalčiai ir alkakalniai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183310

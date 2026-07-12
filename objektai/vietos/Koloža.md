@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Koloža
 
@@ -27,16 +39,16 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
 <a id="claim-t-187237"></a>
 - t-001
   global_id: t-187237
-  teiginys: 'Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste.'
+  teiginys: "Koloža minima XV a. pirmosios pusės LDK ir Pskovo karo kontekste."
   pagrindžia:
-    - c-001
+    - c-170302
 
 <a id="claim-t-187238"></a>
 - t-002
   global_id: t-187238
-  teiginys: '1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą.'
+  teiginys: "1406 m. Vytautas paėmė Pskovui priklausiusį Koložos miestą."
   pagrindžia:
-    - c-001
+    - c-170302
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš Velikije Lūki: Velikije Lūki citatos pastaboje įvardijami kaip vienas iš Lietuvos miestų, kuriuos 1406 m. puolė pskoviečiai.
 - susijęs iš Voronačas: 1406 m. Vytautas dvi dienas buvo apgulęs Pskovui priklausiusį Voronačą.
@@ -55,11 +67,35 @@ Komentare teigiama, kad 1406 m. Vytautas paėmė Pskovui priklausiusį Koložos 
     Rževų ir Polocku (V1I.30—VII1.2).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-170302
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    ‘ 1428 m. žygio karo veiksmai buvo sustabdyti, liepos 28 d.
+    naugardiečiams paprašius taikos.
+    s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su
+    LDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­
+    klausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo-
+    ronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28),
+    Rževų ir Polocku (V1I.30—VII1.2).
+  citata_rodoma: "s XV a. pirm ojoje pusėje Pskovo bajorų respublika kariavo su \nLDK du kartus — 1406 ir 1426 m. 1406 m. Ldk Vytautas paėmė pri­\nklausant) Pskovu! Koložos miestų ir dvi dienas buvo apgulus Vo- \nronačų, o pskoviečiai puolė Lietuvos miestus Velikije Lūki (11,28), \nRževų ir Polocku (V1I.30—VII1.2)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187238
+    - t-187237
 
 ## Ryšiai
 - Užėmė Koložą: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

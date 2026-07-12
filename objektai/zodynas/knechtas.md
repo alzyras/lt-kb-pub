@@ -10,6 +10,18 @@ tags:
   - ordinas
   - pilis
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # knechtas
 
@@ -22,9 +34,9 @@ tags:
 <a id="claim-t-03034"></a>
 - t-001
   global_id: t-03034
-  teiginys: 'Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą.'
+  teiginys: "Knechtai buvo riterių tarnai, gyvenę dvaruose kaip laisvi ūkininkai, mokėję mokesčius, padėję statyti pilis ir ėję į karą."
   pagrindžia:
-    - c-001
+    - c-03272
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-114101|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. rugsėjo 23 d. Žygimantas Kęstutaitis leido Vilniaus miestiečiams prekiauti ir gabenti prekes be muitų Lietuvos žemėje.
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172804|Vilniaus magistratas]]: Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas.
 - susijęs iš [[objektai/posakiai/O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė.md#claim-t-86867|O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė]]: Posakiu „O, koks mums maloningas yra mūsų valdovas, Švitrigaila to nedarė“ miestiečiai gyrė Žygimanto suteiktas garantijas.
@@ -46,7 +58,31 @@ tags:
     valstiečiais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-03272
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to,
+    dar buvo taip pat atėjūnų vokiečių miestiečių ir vals-
+    tiečių. Šie gyveno ordino, vyskupų arba riterių bajorų dva-
+    ruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-
+    kesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-
+    tai)._ Didžiausią krašto gyventojų masę sudarė senieji krašto
+    gyventojai, ordino vadinami vienu bendru vardu — prūsais
+    valstiečiais.
+  citata_rodoma: "Šie gyveno ordino, vyskupų arba riterių bajorų dva-\nruose, kaip laisvi ūkininkai, ir turėjo tik mokėti tam tikrus mo-\nkesčius, padėti statyti pilis ir eiti į karą, kaip riterių tarnai _(knech-\ntai)._"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03034

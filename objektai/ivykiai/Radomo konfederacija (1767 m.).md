@@ -12,8 +12,21 @@ atnaujinta: ''
 tags:
   - ivykis
   - karalius
+  - teisinė-praktika
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Radomo konfederacija (1767 m.)
 
@@ -38,10 +51,9 @@ Nenurodyta
 <a id="claim-t-01784"></a>
 - t-001
   global_id: t-01784
-  teiginys: 'Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams.'
+  teiginys: "Radome rusų kariuomenės apsupti konfederatai buvo priversti pasirašyti aktą, pripažinusį lygias teises kitatikiams."
   pagrindžia:
-    - c-001
-
+    - c-02022
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +81,43 @@ Nenurodyta
     keista.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02022
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Už
+    sugrąžinimą jis buvo dėkingas
+    tik Kotrynai, todėl sutiko, kad
+    prie jo būtų prikomandiruotas
+    rusų pulkininkas Karas, su ku-
+    riuo jis kiekvienu reikalu galėtų
+    pasitarti. Degdamas neapykan-
+    ta Čartoriskiams ir karaliui, jis
+    svajojo juos sunaikinti, o jų tur-
+    tus pasiimti sau už visas skriau-
+    das, patirtas per 3 ištrėmimo
+    metus. Tačiau ir jis ir visi kon-
+    federatai labai apsivylė: Rado-
+    me rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-
+    deracijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-
+    lių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti
+    pareigą" saugoti Respublikos konstituciją, arba, kaip ją tada
+    vadino, kardinalines teises; be to, iš Rusijos buvo
+    paprašyta garantijos, kad nė viena iš tų teisių nebus pa-
+    keista.
+  citata_rodoma: "Tačiau ir jis ir visi kon-\nfederatai labai apsivylė: Rado-\nme rusų kariuomenės apsupti, jie buvo priversti pasirašyti konfe-\nderacijos aktą, kuriuo kvietė prisidėti prie konfederacijos ir kara-\nlių, pripažino lygias teises kitatikiams, o Kotryną II prašė „priimti\npareigą\" saugoti Respublikos konstituciją, arba, kaip ją tada\nvadino, kardinalines teises; be to, iš Rusijos buvo\npaprašyta garantijos, kad nė viena iš tų teisių nebus pa-\nkeista."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01784

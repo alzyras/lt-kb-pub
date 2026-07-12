@@ -10,6 +10,18 @@ tags:
   - ivykis
   - seimas
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)
 
@@ -38,9 +50,9 @@ Nenurodyta
 <a id="claim-t-66624"></a>
 - t-001
   global_id: t-66624
-  teiginys: 'Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą.'
+  teiginys: "Lietuvos bajorija priešinosi kodeksui, nes jis buvo skirtas abiem jungtinėms valstybėms ir reiškė Lietuvos statuto atsisakymą."
   pagrindžia:
-    - c-001
+    - c-66822
 - susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55111|Šubravcų draugija]]: Šubravcų draugijos kodekse buvo suformuluotos nuo įprastų aukštuomenės normų besiskyrusios narių elgesio ir veiklos normos.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54737|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų kodeksas smerkė girtavimą ir azartinius žaidimus, o XII straipsnis reikalavo, kad narys kauptų nuosavą biblioteką.
 - susijęs iš [[objektai/paprociai/Šubravcų elgesio kodekso normos ir saviugdos reikalavimai.md#claim-t-54738|Šubravcų elgesio kodekso normos ir saviugdos reikalavimai]]: Šubravcų draugijos kodekse narių elgesio ir veiklos normos griežtai skyrėsi nuo įprastų aukštuomenės normų.
@@ -69,7 +81,29 @@ Nenurodyta
     dėti savo statuto, t. y. savo atskirų teisių).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66822
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Atmetė jį svarbiausia dėl valstiečiams
+    duodamųjų palengvinimų. „Mužikus nori padaryti
+    bajorais, o mus — mužikais", — šaukė bajorija. (Lietuvos bajo-
+    rija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo
+    skiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-
+    dėti savo statuto, t. y. savo atskirų teisių).
+  citata_rodoma: "„Mužikus nori padaryti\nbajorais, o mus — mužikais\", — šaukė bajorija. (Lietuvos bajo-\nrija to kodekso įvedimui priešinosi dar ir dėl to, kad jis buvo\nskiriamas abiem jungtinėm valstybėm: Lietuva nenorėjo išsiža-\ndėti savo statuto, t. y. savo atskirų teisių)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66624

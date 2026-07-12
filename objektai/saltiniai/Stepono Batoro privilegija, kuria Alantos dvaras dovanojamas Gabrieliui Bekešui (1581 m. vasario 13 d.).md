@@ -16,6 +16,18 @@ tags:
   - saltinis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stepono Batoro privilegija, kuria Alantos dvaras dovanojamas Gabrieliui Bekešui (1581 m. vasario 13 d.)
 
@@ -28,10 +40,9 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
 <a id="claim-t-88208"></a>
 - t-001
   global_id: t-88208
-  teiginys: '1581 m. vasario 13 d. Varšuvos seime Steponas Batoras privilegija dovanojo Alantos dvarą Gabrieliui Bekešui.'
+  teiginys: "1581 m. vasario 13 d. Varšuvos seime Steponas Batoras privilegija dovanojo Alantos dvarą Gabrieliui Bekešui."
   pagrindžia:
-    - c-001
-
+    - c-84187
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,7 +67,38 @@ Vyskupas Valerijonas savo ranka 419 ## Puslapis 436 VILNIAUS MIESTO ISTORIJA// T
     nigaikštis, Siedmigrodo* ir kitų kunigaikštis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84187
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vyskupas Valerijonas savo ranka
+    419
+
+    ## Puslapis 436
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    KARALIAUS STEPONO BATORO PRIVILEGIJA,
+    KURIA ALANTOS DVARAS, ESANTIS UKMERGĖS PAVIETE,
+    PO IŠDAVIKO GRIGALIAUS ASTIKO
+    DOVANOJAMAS GABRIELIUI BEKEŠUI.
+    DATUOTA 1581 METŲ VASARIO 13 DIENĄ
+    VARŠUVOS SEIME.
+    (Kopija iš originalo, esančio Radvilų archyve)
+    Steponas, Dievo Malone Lenkijos karalius, Didysis Lie­
+    tuvos, Rusios, Prūsijos, Žemaitijos, Mazovijos, Livonijos ku­
+    nigaikštis, Siedmigrodo* ir kitų kunigaikštis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88208

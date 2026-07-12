@@ -18,6 +18,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Andrius
 
@@ -30,9 +42,9 @@ Andrius : Kng.
 <a id="claim-t-30657"></a>
 - t-001
   global_id: t-30657
-  teiginys: 'J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.'
+  teiginys: "J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“."
   pagrindžia:
-    - c-001
+    - c-32953
 - susijęs iš J. Andrius Kng. Radvilos Lietuvos žemėlapis: J. Andriaus „Kng. Radvilos Lietuvos žemėlapis“ paskelbtas žurnalo „Aidai“ 1952 m. 10 numeryje, p. 445–448.
 - susijęs iš P. Rėklaitis Lietuvos senoji kartografija: P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.
 ## Reikšmingi paminėjimai
@@ -47,7 +59,28 @@ Andrius : Kng.
     (^5) **Baltijos jūra turi 386.000 km** (^2) **, o Juodoji jūra - 411.540 km** (^2) **ploto.**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32953
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^3) **_GeV,_** **781 p.; Z. Ivinskis :** **_Melno taika,_** **LE, t. 18, 174 p.**
+    (^4) **Plg. J. Andrius :** **_Kng. Radvilos Lietuvos žemėlapis,_** **Aidai 1952, 10
+    nr., 445-448 p. ; P. Rėklaitis :** **_Lietuvos senoji kartografija,_** **Tautos Praeitis,
+    II, 1, Roma 1964, 64-76 p.**
+    (^5) **Baltijos jūra turi 386.000 km** (^2) **, o Juodoji jūra - 411.540 km** (^2) **ploto.**
+  citata_rodoma: "**\n(^4) **Plg. J. Andrius :** **_Kng. Radvilos Lietuvos žemėlapis,_** **Aidai 1952, 10\nnr., 445-448 p. ; P. Rėklaitis :** **_Lietuvos senoji kartografija,_** **Tautos Praeitis,\nII, 1, Roma 1964, 64-76 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30657

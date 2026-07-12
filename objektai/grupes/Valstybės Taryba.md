@@ -12,11 +12,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - seimas
-  - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstybės Taryba
 
@@ -29,9 +41,9 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
 <a id="claim-t-75012"></a>
 - t-001
   global_id: t-75012
-  teiginys: '1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus.'
+  teiginys: "1928 m. Konstitucijoje įsteigta Valstybės Taryba turėjo teisę tik ruošti ir svarstyti įstatymus."
   pagrindžia:
-    - c-001
+    - c-72951
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75761|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. lapkričio 2 d. Antanas Smetona buvo Tarybos prezidiumo pirmininkas, o prezidiumas su ministrų kabinetu sudarė vykdomąją valdžią.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183538|Jogaila (kunigaikštis, XIV–XV a.)]]: Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.
 - susijęs iš [[objektai/asmenys/Justinas Staugaitis.md#claim-t-19036|Justinas Staugaitis]]: 1918 m. lapkričio 2 d. Justinas Staugaitis buvo vienas iš dviejų Tarybos prezidiumo vicepirmininkų.
@@ -83,7 +95,33 @@ Klaipėdos krašto lietuvių atstovai paskelbė norą prisijungti prie Didžiosi
     valdymą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-72951
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    161
+    A. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-
+    neto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-
+    nybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus
+    (įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus),
+    Seimui nesant, vykdyti jo teises. Prezidentą renka septyneriems metams
+    ypatingi tautos atstovai, jis daro visus paskyrimus ir atleidimus. Konstitu-
+    cija iš esmės užrašė esamą situaciją, įteisindama autoritarinį A. Smetonos
+    valdymą.
+  citata_rodoma: "4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n161\nA. Smetona 1928 m. gegužės 15 d., „pritariamas viso Ministerių kabi-\nneto“, nauja konstitucija sustiprino savo pozicijas, nes įteisino savo virše-\nnybę prieš Seimą, galėjo jį paleisti ar surengti rinkimus, leisti įstatymus \n(įsteigta Valstybės Taryba turėjo teisę tik ruošti bei svarstyti įstatymus), \nSeimui nesant, vykdyti jo teises."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75012

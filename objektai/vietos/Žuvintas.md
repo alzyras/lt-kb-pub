@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žuvintas
 
@@ -19,16 +31,16 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
 <a id="claim-t-91895"></a>
 - t-001
   global_id: t-91895
-  teiginys: 'Žirgupė Žydai Žuvintas, ež.'
+  teiginys: "Žirgupė Žydai Žuvintas, ež."
   pagrindžia:
-    - c-001
+    - c-87538
 
 <a id="claim-t-91896"></a>
 - t-002
   global_id: t-91896
-  teiginys: ', p. Žirgupė Žydai Žuvintas, ež.'
+  teiginys: ", p. Žirgupė Žydai Žuvintas, ež."
   pagrindžia:
-    - c-001
+    - c-87538
 - susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
 - susijęs iš [[objektai/grupes/Edvardo Lajaus būrys.md#claim-t-40878|Edvardo Lajaus būrys]]: Edvardo Lajaus būrys veikė Žuvinto paliose ir Buktos, dar vadintame Žaliuoju, miške.
 - susijęs iš [[objektai/grupes/Gedimino būrys.md#claim-t-40883|Gedimino būrys]]: Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.
@@ -76,11 +88,30 @@ Dusburgietis teigia, kad žirgupė Žydai Žuvintas, ež.
       Žuvintas, ež.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
 
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Edvardo Lajaus būrys]], [[objektai/grupes/Juozo Pandeikos būrys]], [[objektai/grupes/Jurgio Lajaus būrys]], [[objektai/grupes/Klarko būrys]], [[objektai/grupes/Kosto Barkausko būrys]]
+## Citatos
+
+- id: c-87538
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 323"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 323."
+  citata_originali: |
+    Nekrasovas), v., p.
+      Žirgupė
+      Žydai
+      Žuvintas, ež.
+  citata_rodoma: ", p.\n  Žirgupė\n  Žydai\n  Žuvintas, ež."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91896
+    - t-91895

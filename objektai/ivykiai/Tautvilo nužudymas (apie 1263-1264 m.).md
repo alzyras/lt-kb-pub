@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tautvilo nužudymas (apie 1263-1264 m.)
 
@@ -43,10 +55,9 @@ Nenurodyta
 <a id="claim-t-31477"></a>
 - t-001
   global_id: t-31477
-  teiginys: 'Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą.'
+  teiginys: "Apie 1263-1264 m. Treniota nužudė sosto varžovą Tautvilą, o Tautvilo sūnus pabėgo į Didįjį Naugardą."
   pagrindžia:
-    - c-001
-
+    - c-31379
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,25 @@ Nenurodyta
     Naugardą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-31379
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Treniota pirmasis spėjo nužudyti (apie 1263-1264 m.) sosto
+    varžovą Tautvilą. Tik šio sūnui pavyko išsigelbėti ir pabėgti į Did.
+    Naugardą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31477

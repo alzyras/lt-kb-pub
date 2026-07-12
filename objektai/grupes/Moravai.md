@@ -15,6 +15,18 @@ tags:
   - mūšis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Moravai
 
@@ -27,9 +39,16 @@ amziai:
 <a id="claim-t-34360"></a>
 - t-001
   global_id: t-34360
-  teiginys: 'Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje.'
+  teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
   pagrindžia:
-    - c-001
+    - c-35585
+
+<a id="claim-t-184223"></a>
+- t-002
+  global_id: t-184223
+  teiginys: "Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio mūšyje."
+  pagrindžia:
+    - c-167608
 - susijęs iš [[objektai/asmenys/Karolis.md#claim-t-186124|Karolis]]: Moravijos markgrafas Karolis, karaliaus Jono sūnus ir būsimas Romos imperatorius, atvyko su moravais į kovą.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176660|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Žalgirio mūšio metu Vytautas Didysis pats vedė savo kariuomenę ir vadovavo visai sąjunginei kariuomenei.
 ## Reikšmingi paminėjimai
@@ -45,6 +64,7 @@ amziai:
     tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +83,49 @@ amziai:
     mūšyje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-35585
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje. Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
+    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
+    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34360
+
+- id: c-167608
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytauto dvare
+    lankėsi abudu Pragos Jeronimai, kurių vienas (katalikas) buvo
+    nuvykęs skelbti katalikų tikėjimo Žemaitijoje dar prieš 1413 m.
+    Netrūko prie Vytauto dvaro ir pasauliečių čekų, kurie tokiose
+    vietose, ypač Lenkijoje, kaip labiau išsilavinę, buvo mielai lai­
+    komi. Čekai ir moravai, Vytauto pasamdyti, dalyvavo Žalgirio
+    mūšyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184223

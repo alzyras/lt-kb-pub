@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Suvalkija
 
@@ -26,9 +38,9 @@ amziai:
 <a id="claim-t-80612"></a>
 - t-001
   global_id: t-80612
-  teiginys: 'Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.'
+  teiginys: "Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius."
   pagrindžia:
-    - c-001
+    - c-77314
 - susijęs iš [[objektai/ivykiai/Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.).md#claim-t-20512|Suvalkijos valstiečių streikas ir Veiverių susidūrimas (1935 m.)]]: 1935 m. Suvalkijos valstiečiai paskelbė streiką po „Pienocentro“ supirkimo kainų sumažinimo, o policija Veiveriuose nušovė tris valstiečius.
 - susijęs iš Lenkijos karalystė: Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją.
 - susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija.
@@ -54,10 +66,32 @@ amziai:
     dalyvius, vadu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-77314
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Partizanas nuo 1945 m.
+    Dalyvavo kuriant Tauro apygardos Žalgirio
+    rinktinę. 1948 m. spalio 8 d. tapo Tauro
+    apygardos, vienijusios Suvalkijos re-
+    giono antisovietino pasipriešinimo
+    dalyvius, vadu.
+  citata_rodoma: "1948 m. spalio 8 d. tapo Tauro\napygardos, vienijusios Suvalkijos re-\ngiono antisovietino pasipriešinimo\ndalyvius, vadu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80612
+
 ## Ryšiai
-- Suvalkija priklausė [[objektai/vietos/Lenkijos karalystė]], [[objektai/vietos/Suvalkai]]
+- Suvalkija priklausė [[objektai/vietos/Lenkijos karalystė]]

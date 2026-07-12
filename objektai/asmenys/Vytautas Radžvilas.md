@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytautas Radžvilas
 
@@ -28,9 +40,9 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
 <a id="claim-t-26468"></a>
 - t-001
   global_id: t-26468
-  teiginys: 'Vytautas Radžvilas Roko maršų koncertuose-mitinguose sakė patriotines kalbas.'
+  teiginys: "Vytautas Radžvilas Roko maršų koncertuose-mitinguose sakė patriotines kalbas."
   pagrindžia:
-    - c-001
+    - c-26693
 - susijęs iš [[objektai/asmenys/Algirdas Kaušpėdas.md#claim-t-26431|Algirdas Kaušpėdas]]: Algirdas Kaušpėdas, LPS iniciatyvinės grupės narys ir grupės „Antis“ lyderis, vadovavo Roko maršams.
 - susijęs iš [[objektai/asmenys/Arvydas Juozaitis.md#claim-t-26433|Arvydas Juozaitis]]: Arvydas Juozaitis Roko maršų koncertuose-mitinguose sakė patriotines kalbas.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169878|Alfonsas Eidintas]]: Alfonsui Eidintui nurodytos 2013 m. leidimo autorių teisės.
@@ -59,7 +71,31 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
     Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-26693
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tokie jaunimo muzikos koncertų žygiai per Lietuvą
+    vyko 1987, 1988 ir 1989 m. vasarą – jie buvo skirti LPS idėjoms skleisti ir
+    išlaisvinti režimo įbaugintus žmones. Roko maršams vadovavo LPS inici-
+    atyvinės grupės narys, populiarios muzikos grupės „Antis“ lyderis Algir-
+    das Kaušpėdas, koncertuose-mitinguose patriotines kalbas sakė Arvydas
+
+    L I E T U V O S  I S T O R I J A
+    236
+    Juozaitis, Vytautas Radžvilas ir kiti sąjūdininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26468

@@ -14,8 +14,21 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - šeima
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jašiūnai
 
@@ -28,30 +41,30 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
 <a id="claim-t-85928"></a>
 - t-001
   global_id: t-85928
-  teiginys: '1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.'
+  teiginys: "1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę."
   pagrindžia:
-    - c-001
+    - c-81909
 
 <a id="claim-t-85929"></a>
 - t-002
   global_id: t-85929
-  teiginys: '1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare.'
+  teiginys: "1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare."
   pagrindžia:
-    - c-003
+    - c-81911
 
 <a id="claim-t-85930"></a>
 - t-003
   global_id: t-85930
-  teiginys: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
+  teiginys: "1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare."
   pagrindžia:
-    - c-002
+    - c-81910
 
 <a id="claim-t-85931"></a>
 - t-004
   global_id: t-85931
-  teiginys: 'Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais.'
+  teiginys: "Jašiūnų miškuose kur ne kur stūksojo pilkapiai, laikomi seniausių žmonių gyvenimo pėdsakais."
   pagrindžia:
-    - c-004
+    - c-81912
 - susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
@@ -71,6 +84,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     kaip nuosavybę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,6 +101,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +116,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     Vladislovo savižudybė, sunki šeimos materialinė padėtis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,12 +139,83 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
     būtų surasti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/grupes/Radvilos]]
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Aleksandras Balinskis]]
-- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras Balinskis]]
+## Citatos
+
+- id: c-81909
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Būsimo
+    istoriko motina - Ona Balevičiūtė. Terespolis nebuvo Balinskių
+    giminės paveldima nuosavybė. 1811 m. I. Balinskis perėmė iš
+    Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau įsigijo
+    kaip nuosavybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85928
+
+- id: c-81910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
+    vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
+    jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
+    lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
+    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: "1864 m. sausio 1 d. \nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85930
+
+- id: c-81911
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1848 m. M. Balinskis sugrįžta į Lietuvą ir apsigyvena savo
+    Jašiūnų dvare. Sugrįžimą pagreitino nelaimės šeimoje: sūnaus
+    Vladislovo savižudybė, sunki šeimos materialinė padėtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85929
+
+- id: c-81912
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pati vietovė, su­
+    pama pelkių ir raistų, netinkama gyventi, lėmė tai, kad žmo­
+    gaus ranka jos niekada nelietė iki pat mūsų laikų, kai, suma­
+    žėjus miškų, mediena tapo pagrindinis vidaus ir užsienio
+    prekybos objektas. Seniau Rūdninkų girios išties buvo ne­
+    peržengiamos ir žmonių neištirtos, nes žemvaldžių miškuo­
+    se, nuo Rūdninkų link Ašmenos ir Lydos besidriekiančiuo­
+    se, kaip ir pas mane, Jašiūnuose, kur ne kur stūkso pilkapiai -
+    nenuginčijami žmonių gyvenimo nuo tolimiausių amžių pėd­
+    sakai. O Rūdninkų miškuose nieko panašaus ir neįmanoma
+    būtų surasti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-85931

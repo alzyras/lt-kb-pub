@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Generolas Silvestras Žukauskas (1861-1937)
 
@@ -32,10 +44,9 @@ Generolas Silvestras Žukauskas (1861-1937) / Biografinė apybraiža, Vilnius, 2
 <a id="claim-t-39919"></a>
 - t-001
   global_id: t-39919
-  teiginys: 'Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m.'
+  teiginys: "Jono Aničo biografinė apybraiža „Generolas Silvestras Žukauskas (1861–1937)“ išleista Vilniuje 2006 m."
   pagrindžia:
-    - c-001
-
+    - c-41723
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,25 @@ Generolas Silvestras Žukauskas (1861-1937) / Biografinė apybraiža, Vilnius, 2
     Vyčio kryžiaus kaspinus// Karys, 1937, Nr. 49, p. 1417-1418).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41723
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    p. 185, „VYTIES KRYZIUS* J. Aničas. Generolas Silvestras Žukauskas (1861-1937) /
+    Biografinė apybraiža, Vilnius, 2006, p. 79-80 (Z. Veliuoniškis. Gen. Žukauskas fronte prisegė
+    Vyčio kryžiaus kaspinus// Karys, 1937, Nr. 49, p. 1417-1418).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39919

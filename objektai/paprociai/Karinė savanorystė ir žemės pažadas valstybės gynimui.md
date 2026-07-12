@@ -10,9 +10,23 @@ date_start: '1919'
 date_end: '1920'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - karyba
+  - socialinė-praktika
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karinė savanorystė ir žemės pažadas valstybės gynimui
 
@@ -57,17 +71,16 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 <a id="claim-t-20809"></a>
 - t-001
   global_id: t-20809
-  teiginys: 'Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai.'
+  teiginys: "Apie 12 000 savanorių stojo į Lietuvos kariuomenę, o jiems buvo žadėti žemės sklypai."
   pagrindžia:
-    - c-001
+    - c-23529
 
 <a id="claim-t-20810"></a>
 - t-002
   global_id: t-20810
-  teiginys: 'M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės.'
+  teiginys: "M. Sleževičius pabrėžė, kad bežemiai ir mažažemiai gaus dalijamos lenkų dvarininkų žemės."
   pagrindžia:
-    - c-002
-
+    - c-23530
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,7 +95,8 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     apie 12 000, jiems žadėti žemės sklypai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -102,7 +116,8 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
     Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -110,3 +125,48 @@ Nepriklausomybės kovų metu karinė savanorystė siejama su entuziastingu stoji
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23529
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Valstybės Tarybos posėdyje A. Smetona išrinktas Lietuvos valstybės pre-
+    zidentu, nes jis galėjo suvienyti tarpusavyje gerokai nebesutariančius kai-
+    riuosius, liberalus ir krikščionis demokratus, garantuoti politinį stabilu-
+    mą. Lietuvos kariuomenė balandžio pabaigoje jau turėjo apie 6 000 vyrų
+    ir nuosekliai didėjo, trūkstant karininkų, jie pradėti rengti Kaune. Sa-
+    vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo
+    apie 12 000, jiems žadėti žemės sklypai.
+  citata_rodoma: "vanoriai pakiliai, su entuziazmu ėjo į Lietuvos kariuomenę, tokių buvo"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20809
+
+- id: c-23530
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    nepriklausomybės kovose išskirtinis, nes jis pasiekė politinį susitarimą,
+    konsolidavo centrinę administraciją ir pajungė vietos savivaldybes, pa-
+    kvietė priešintis įsiveržėliams ir tautines mažumas, dėl to Lietuvos ka-
+    riuomenėje kovėsi ir žydų bei baltarusių savanoriai. Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
+    Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
+    Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai.
+  citata_rodoma: "bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20810

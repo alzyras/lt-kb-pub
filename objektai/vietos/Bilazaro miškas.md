@@ -1,0 +1,67 @@
+---
+tipas: vieta
+pavadinimas: 'Bilazaro miškas'
+variantai:
+  - 'Bilazaro mišką'
+saltiniai:
+  - 'Mūsų tautosaka, t.4 (1931)'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Bilazaro miškas
+
+## Santrauka
+
+Bilazaro miškas minimas kaip Ažytėnų ganyklos prieiga.
+
+## Pavadinimai šaltiniuose
+
+- Bilazaro mišką
+
+## Kas tai
+
+Bilazaro miškas šiame šaltinyje yra miškas.
+
+## Teiginiai
+
+<a id="claim-t-195483"></a>
+- t-001
+  global_id: t-195483
+  teiginys: "Bilazaro miškas minimas kaip vieta, prie kurios prieina Ažytėnų ganykla."
+  pagrindžia:
+    - c-177904
+
+## Citatos
+
+- id: c-177904
+  autorius: "M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
+  puslapiai: "p. 57 (PDF 55)"
+  indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 57 (PDF 55)."
+  citata_originali: |
+    Pridotkas ir Radviliškis.
+    Buvo tai pusantro šimto hektarų žemės plo­
+    tas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.
+    Šiandien
+    toje vietoje „kelmai kelmuoti, pakalnės nuplikę“ .
+  citata_rodoma: "„Buvo tai pusantro šimto hektarų žemės plotas, apaugęs mišku, su aikštėmis, prieinąs Bilazaro mišką.“"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195483

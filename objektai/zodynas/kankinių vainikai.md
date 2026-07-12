@@ -15,6 +15,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kankinių vainikai
 
@@ -27,10 +39,9 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
 <a id="claim-t-58936"></a>
 - t-001
   global_id: t-58936
-  teiginys: 'Petras iš Dusburgo teigė, kad Prūsijoje kritusių krikščionių sielos išganytos, o žuvusieji gauna kankinių vainikus.'
+  teiginys: "Petras iš Dusburgo teigė, kad Prūsijoje kritusių krikščionių sielos išganytos, o žuvusieji gauna kankinių vainikus."
   pagrindžia:
-    - c-001
-
+    - c-59568
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +65,38 @@ Dusburgietis teigia, kad sielos „esančios išganytos“ (III, 92), o žuvę g
     sielos „esančios išganytos“ (III, 92), o žuvę gauna „kankinių vainikus“ (III, 123).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59568
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 29-30"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 29-30."
+  citata_originali: |
+    Petras iš Dusburgo akcentuoja, kad Prūsijoje kariaujama prieš „tikybos ir bažnyčios
+    priešus“ (II, 7), todėl kryžiaus žygių dalyviai eina į karą prieš prūsus ir lietuvius keršyti
+    „už nukryžiuotojo viešpaties kančias“ (III, 8, 71, 296), Prūsijoje kritusių krikščionių
+      143 PD, III, 7, 66; SRP, B. 5, S. 597; Perlbach M. Die Aeltere Chronik von Oliva, S.
+    60; PKD, s. 101.
+      144 SRP, B. 5, S. 162.
+      145  Įtvirtina prūsiškų vietovių germanizavimą, pvz., vietoje prūsišką šaknį turinčio
+    Kirsburg įveda Cristburg (SRP, B. 5, S. 600; PD, III, 58) formą, Ordino aktuose vartotą
+    nuo XIII a. vidurio.
+      146 PD, Papildymas, 3; SRP, B. 1, S. 613; Töppen M. Einleitung, S. 11; PKD, s. 163.
+      147  PD, III, 356, 359; PUB, 2, Nr. 461 (1324.VI.1); plg. GL, Nr. 14, p. 116—146;
+    PKD, s. 146—147, 195.
+      148 Jurginis J. Istorija ir kultūra, p. 17; plg. Stakauskas J. Lietuva..., p. 40.
+
+    sielos „esančios išganytos“ (III, 92), o žuvę gauna „kankinių vainikus“ (III, 123).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58936

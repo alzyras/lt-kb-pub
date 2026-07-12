@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Survila
 
@@ -28,23 +40,23 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
 <a id="claim-t-82730"></a>
 - t-001
   global_id: t-82730
-  teiginys: '1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas.'
+  teiginys: "1365 m. Survila, artimas Kęstučio sūnaus Butauto giminaitis, pabėgo ir Karaliaučiuje buvo pakrikštytas."
   pagrindžia:
-    - c-003
+    - c-79176
 
 <a id="claim-t-82731"></a>
 - t-002
   global_id: t-82731
-  teiginys: '1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu.'
+  teiginys: "1365 m. Vinrichas Kniprodė Karaliaučiuje pakrikštijo Survilą ir Butautą, pasinaudojęs jų pabėgimu."
   pagrindžia:
-    - c-002
+    - c-79175
 
 <a id="claim-t-82732"></a>
 - t-003
   global_id: t-82732
-  teiginys: 'Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių.'
+  teiginys: "Survila 1365 m. liepos 25 d. kartu su Butautu pabėgo į Karaliaučių."
   pagrindžia:
-    - c-001
+    - c-79174
 - susijęs iš [[objektai/asmenys/Butautas.md#claim-t-93195|Butautas]]: Butautas 1365 m. liepos 25 d. su draugu Survila pabėgo į Karaliaučių ir apsikrikštijo Henriko vardu.
 - susijęs iš [[objektai/asmenys/Jonas Survila.md#claim-t-39563|Jonas Survila]]: Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei.
 - susijęs iš [[objektai/asmenys/Tomas Survila.md#claim-t-39652|Tomas Survila]]: Tomas Survila žuvo tarnaudamas senajai Tėvynei kaip vienas iš dviejų lietuvių kryžiuočių.
@@ -70,7 +82,8 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     Henriko vardu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -89,6 +102,7 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     Maišiagalos, priartėjo prie Vilniaus pilių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,11 +123,74 @@ Butautas, kuriam šaltiniai duoda įvai­ rius vardus ir kartais vadina Vaidotu,
     tuvą21.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Butautas]]
-- Survila keliavo į [[objektai/ivykiai/Butauto bėgimas į Karaliaučių ir apsikrikštijimas]]
+## Citatos
+
+- id: c-79174
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Patirgas, vyriausias Kęstučio sūnus, 1348—65 metų laiko­
+    tarpyje buvo nuolatinis Algirdo ir Kęstučio žygių palydovas ir,
+    palyginti, jaunas mirė. Butautas, kuriam šaltiniai duoda įvai­
+    rius vardus ir kartais vadina Vaidotu, kuris vėliau dažnai da­
+    lyvaudavo vokiečių derybose vertėju, su savo draugu Survila
+    1365 metų liepos mėn. 25 d. išbėgo Karaliaučiun ir apsikrikštijo
+    Henriko vardu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82732
+
+- id: c-79175
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių.
+  citata_rodoma: "Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio\nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­\ndeginęs visus valsčius nuo Labūnavos iki pat Kernavės ir\nMaišiagalos, priartėjo prie Vilniaus pilių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82731
+
+- id: c-79176
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
+    tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­
+    ta. Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21.
+  citata_rodoma: "Laimė, kad šio valdovo narsa visada valiodavo išgelbėti \nmiestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­\ndysis Prūsijos magistras Vinrichas Kniprodė, naudodama­\nsis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio \nsūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­\nliaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­\ntuvą21."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82730

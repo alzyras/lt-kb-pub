@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Moldavija
 
@@ -29,16 +41,16 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 <a id="claim-t-171837"></a>
 - t-001
   global_id: t-171837
-  teiginys: 'Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją.'
+  teiginys: "Magistras dar balandį prašė Švitrigailos kartu su Livonija, Podole, Valakija-Moldavija ir totoriais pulti Lenkiją."
   pagrindžia:
-    - c-001
+    - c-156307
 
 <a id="claim-t-187616"></a>
 - t-002
   global_id: t-187616
-  teiginys: 'Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Olbrachtui įsiveržus į Moldaviją vaivada Steponas sustiprino Sučiavą ir pasitraukė į kalnų tarpeklius."
   pagrindžia:
-    - c-002
+    - c-170563
 - susijęs iš Sučiava: Moldavijos vaivada Steponas sustiprino savo sostinę Sučiavos pilį ir kitus miestus, palikdamas juose įgulas.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
 - susijęs iš [[objektai/ivykiai/Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas.md#claim-t-186765|Ali-pašos įsiveržimas į Moldaviją ir Sučiavos puolimas]]: Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.
@@ -111,6 +123,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     viską naikino ir degino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,11 +151,60 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Steponas]]
-- Buvo valdoma: [[objektai/asmenys/Steponas]]
+## Citatos
+
+- id: c-156307
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lenkijai suartėjus su
+    čekų husitais, Ordinui kilo didelė grėsmė.
+    Magistras dar balandį prašė Švitrigailos
+    kartu su Livonija, Podole, Valakija-Mol-
+    davija ir totoriais pulti Lenkiją. Tuo tar-
+    pu žemaičiai puolė Kuršą ir niokojo jį
+    19 dienų, husitų ir Lenkijos kariuomenė
+    įsiveržė į Ordino valdas birželio pradžioje,
+    viską naikino ir degino.
+  citata_rodoma: "Magistras dar balandį prašė Švitrigailos\nkartu su Livonija, Podole, Valakija-Mol-\ndavija ir totoriais pulti Lenkiją. Tuo tar-\npu žemaičiai puolė Kuršą ir niokojo jį\n19 dienų, husitų ir Lenkijos kariuomenė\nįsiveržė į Ordino valdas birželio pradžioje,\nviską naikino ir degino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171837
+
+- id: c-170563
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+    O tuomet Olbrachtas jau buvo įžengęs į Moldavi­
+    jos žemę2 6 . Patikimai sužinojęs, kad karalius Olbrach­
+    tas, pykčiu degdamas, su neapsakoma galybe įsiveržė
+    į jo žemę, Moldavijos vaivada Steponas sutraukė visą
+    savo kariuomenę, gerai sustiprino savo sostinę — Su-
+    čiavos2 7  pilį bei visus kitus savo miestus ir, palikęs
+    ten savo įgulas, pats su visa kariuomene išėjo į kalnus,
+    į siaurus ir nepereinamus tarpeklius, kur buvo jo mėgs-
+    /52
+
+    ## Puslapis 148
+
+    lamas vienuolynas, vadinamas Putnu 2 S , ir ten apsistojo
+    su visa savo kariuomene kaip didelėje tvirtovėje2 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187616

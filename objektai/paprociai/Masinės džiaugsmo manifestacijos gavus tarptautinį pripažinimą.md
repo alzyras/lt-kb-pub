@@ -9,9 +9,23 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
+  - šventė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Masinės džiaugsmo manifestacijos gavus tarptautinį pripažinimą
 
@@ -55,10 +69,9 @@ amziai:
 <a id="claim-t-20817"></a>
 - t-001
   global_id: t-20817
-  teiginys: '1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai.'
+  teiginys: "1919 m. rugsėjo 26 d. tūkstančiai žmonių susirinko prie Kauno rotušės, gavę žinią apie Didžiosios Britanijos de facto pripažinimą Lietuvai."
   pagrindžia:
-    - c-001
-
+    - c-23535
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,7 +90,8 @@ amziai:
     susirinko prie laikinosios sostinės Kauno rotušės.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -85,3 +99,29 @@ amziai:
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23535
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pasamdyta užsienio karininkų tarnybai Lietuvoje, pra-
+    dėta formuoti JAV lietuvių karinė brigada – nors daug tokių sumanymų
+    nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
+    Lietuvos delegacijos reikalavimu sudarytos prancūzų, britų, JAV ir An-
+    tantės Aukščiausiosios Tarybos karinės misijos sustiprino viltis pasiekti
+    nepriklausomybę, be to, misijos suteikė objektyvią informaciją Antantei
+    apie padėtį Lietuvoje.
+    Britams rodant iniciatyvą palaikyti Lietuvą, jų dėka įvyko pirmos ma-
+    sinės džiaugsmo manifestacijos – 1919 m. rugsėjo 26 d. gavus žinią, kad
+    Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių
+    susirinko prie laikinosios sostinės Kauno rotušės.
+  citata_rodoma: "Didžioji Britanija oficialiai pripažino de facto Lietuvą, tūkstančiai žmonių"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20817

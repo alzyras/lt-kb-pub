@@ -14,6 +14,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių tautos plotai ir gyventojai
 
@@ -26,10 +38,9 @@ amziai:
 <a id="claim-t-31800"></a>
 - t-001
   global_id: t-31800
-  teiginys: 'K. Pakšto „Lietuvių tautos plotai ir gyventojai“ paskelbta „Aidų“ 3 numeryje 1957 m., 97-107 puslapiuose.'
+  teiginys: "K. Pakšto „Lietuvių tautos plotai ir gyventojai“ paskelbta „Aidų“ 3 numeryje 1957 m., 97-107 puslapiuose."
   pagrindžia:
-    - c-001
-
+    - c-33628
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +63,38 @@ amziai:
     gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33628
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    —Matusas, J. : _Odų ir kailių
+    gamyba senovės Lietuvoje iki XVI amžiaus pabaigos_ , Aidai, 1959, nr. 3-4,
+    126-132, 161-168 p.— (”) _Stiklas Lietuvos senovėje_ , TaPr, I, 4, 1962,
+    595-604 p. — Merkevičius, A. : _Seniausiųjų Lietuvos metalo dirbinių
+    cheminė sudėtis,_ AkMD, t. 43, 1973, 87-101 p. — Michelbertas, M.,
+    red. : _Lietuvos gyventojų prekybiniai ryšiai I-XIII a_ ., Vilnius 1972. —
+    Nakaitė, L. : _Sidabro naudojimas II-XIII amžiais Lietuvoje dirbiniams
+    puošti_ , AkMD, t. 16, 1964, 63-82 p. — (”) _Sidabras kaip vertės matas
+    I m. e. tūkstantmečio Lietuvoje_ , AkMD, t. 20, 1966, 33-47 p. — (”) _Auk­
+    sakalystės Lietuvoje iki XIII a. klausimu,_ AkMD, t. 22, 1966, 67-84 p. ;
+    t. 27, 1968, 47-56 p. — Navickaitė-Kuncienė, O. : _Seniausios (X-
+    XIII) amž. svorio matų sistemos Lietuvoje klausimu_ , AkMD, t. 21, 1966,
+    143-159 p. -—- Navickas, K. : Vilniaus gyventojų apavas XII1-XIV a.,
+    ILKI, IV, 1964, 188-196 p. — Pakštas, K. : _Lietuvių tautos plotai ir
+    gyventojai_ , Aidai, nr. 3, 1957, 97-107 p. — Papée, Pr.
+  citata_rodoma: "— Pakštas, K. : _Lietuvių tautos plotai ir\ngyventojai_ , Aidai, nr. 3, 1957, 97-107 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31800

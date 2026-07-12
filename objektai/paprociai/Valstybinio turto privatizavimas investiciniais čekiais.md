@@ -10,9 +10,23 @@ date_start: '1990'
 date_end: '1999'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - socialinė-praktika
+  - teisinė-praktika
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstybinio turto privatizavimas investiciniais čekiais
 
@@ -56,17 +70,16 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 <a id="claim-t-20821"></a>
 - t-001
   global_id: t-20821
-  teiginys: 'Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis.'
+  teiginys: "Privatizacijos laikotarpiu dauguma valstybinių įmonių tapo privačios ir susidarė naujas verslininkų sluoksnis."
   pagrindžia:
-    - c-001
+    - c-23543
 
 <a id="claim-t-20822"></a>
 - t-002
   global_id: t-20822
-  teiginys: 'Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto.'
+  teiginys: "Privatizuojant valstybės turtą investiciniais čekiais, daugelis gyventojų čekius pardavė ir neprivatizavo savo būsto."
   pagrindžia:
-    - c-002
-
+    - c-23544
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -82,7 +95,8 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     pasaulio ekonomikos standartus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -99,7 +113,8 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
     būsto.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -107,3 +122,45 @@ Atkūrus nepriklausomybę privatizacijos praktika rėmėsi investiciniais čekia
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23543
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Planinės ekonomikos laivas plūduriavo kapitalizmo
+    jūroje, lėtai steigiant privačias žemės ūkio ir pramonės įmones, kurių
+    dauguma orientuotos į kapitalistinę Vakarų pasaulio rinką. Tam reikėjo
+    pradinio kapitalo, kuriam įsigyti buvo panaudotas privatus turtas, pirk-
+    tas už investicinius čekius, banko paskolos ar iš užsienio pritrauktos lė-
+    šos. Vadinamuoju privatizacijos laikotarpiu dauguma valstybinių įmonių
+    tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų
+    pasaulio ekonomikos standartus.
+  citata_rodoma: "tapo privačios, susidarė naujas verslininkų sluoksnis, veikęs pagal Vakarų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20821
+
+- id: c-23544
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors visiems šalies piliečiams sudarytos tarsi vienodos galimybės įsi-
+    gyti privatizuojamo valstybės turto už investicinius čekius, tinkamai tuo
+    pasinaudojo ne visi. Nemažai čekių supirkėjų, nusipirkę anksčiau buvu-
+    sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis
+    gyventojų čekius pardavė ir net nesugebėjo privatizuoti savo gyvenamojo
+    būsto.
+  citata_rodoma: "sias valstybines įmones, stengėsi jas kuo pelningiau perparduoti. Daugelis"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20822

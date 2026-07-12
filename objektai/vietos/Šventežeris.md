@@ -7,6 +7,19 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - šventė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventežeris
 
@@ -15,16 +28,15 @@ tags:
 Vėliau tas pat atsitiko Naumiesty, Šventežery.
 
 ## Teiginiai
+
 <a id="claim-t-189090"></a>
 - t-001
   global_id: t-189090
-  teiginys: 'Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.'
+  teiginys: "Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-171978
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Šventežerį sieja su Nemuno kairiajame krante minimais šventais ežerais ir miestelio vardu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -35,8 +47,31 @@ Vėliau tas pat atsitiko Naumiesty, Šventežery.
     tasis ąžuolas ar buvusi kažkokia šventykla.
     2. Šventų ežerų yra taip pat Nemuno kairiajame krante,
     kur ir miestelis [Šventežeris] turi tokį vardą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171978
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 229."
+  citata_originali: |
+    Priėjo, vaizdingoje vietoje, yra kaimas, vadi­
+    namas Romanovu (Romanowo), kuris primena šventąjį Ro-
+    movės mišką; visiškai panašu į tiesą, kadangi jame augęs šven­
+    tasis ąžuolas ar buvusi kažkokia šventykla.
+    2. Šventų ežerų yra taip pat Nemuno kairiajame krante,
+    kur ir miestelis [Šventežeris] turi tokį vardą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189090

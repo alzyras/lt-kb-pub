@@ -16,8 +16,21 @@ tags:
   - mūšis
   - ordinas
   - sąvoka
+  - šventė
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # maršalas
 
@@ -30,44 +43,44 @@ amziai:
 <a id="claim-t-42479"></a>
 - t-001
   global_id: t-42479
-  teiginys: '1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę.'
+  teiginys: "1355 m. pradžioje maršalo vadovaujama Kryžiuočių kariuomenė penketą dienų niokojo centrinę Žemaitijos Medininkų žemę."
   pagrindžia:
-    - c-001
+    - c-45532
 
 <a id="claim-t-42480"></a>
 - t-002
   global_id: t-42480
-  teiginys: '1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės.'
+  teiginys: "1348 m. Ordino maršalas Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje kartu su didžiuoju komtūru Vinrichu iš Kniprodės."
   pagrindžia:
-    - c-002
+    - c-45533
 
 <a id="claim-t-183717"></a>
 - t-003
   global_id: t-183717
-  teiginys: '1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi.'
+  teiginys: "1348 m. Ordino maršalas brolis Zygfridas iš Dahenfeldo dalyvavo Strėvos mūšyje ir narsiai kovėsi."
   pagrindžia:
-    - c-002
+    - c-45533
 
 <a id="claim-t-184627"></a>
 - t-004
   global_id: t-184627
-  teiginys: 'Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą.'
+  teiginys: "Rūmų maršalas Kernavėje įteikė Lietuvos valdovu paskelbtam Giliginui kalaviją ir lazdą."
   pagrindžia:
-    - c-003
+    - c-167988
 
 <a id="claim-t-184628"></a>
 - t-005
   global_id: t-184628
-  teiginys: 'Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu.'
+  teiginys: "Vytenis, suaugęs Traidenio šeimoje, tapo rūmų pareigūnu, kurį paprastai vadino maršalu."
   pagrindžia:
-    - c-004
+    - c-167989
 
 <a id="claim-t-184629"></a>
 - t-006
   global_id: t-184629
-  teiginys: 'Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą.'
+  teiginys: "Vytautas į Korčino seimą nusiuntė Vilniaus vaivadą Goštautą ir Lietuvos maršalą Rumbaudą."
   pagrindžia:
-    - c-005
+    - c-167990
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89685|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas Helmericho, šeštojo Prūsijos žemės magistro, vadovavimo metu.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
 - susijęs iš [[objektai/asmenys/Henrikas iš Kalendino.md#claim-t-60314|Henrikas iš Kalendino]]: Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.
@@ -190,7 +203,6 @@ amziai:
 - susijęs iš Leipūnai: ." Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.
 - susijęs iš Livonija: Livonijos magistras su savo pajėgomis dalyvavo Vytauto vedamuose pulkuose prie Vilijos.
 - susijęs iš Livonija: Caras siekė įgyti Livoniją, kuri tuo metu buvo suskaldyta tarp kelių valstybių.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo įrengta Skirgailos stovykla.
 - susijęs iš Neris Vilija: Kitoje Vilijos pusėje, prie Visevaldės pilies netoli senojo Kauno, buvo Skirgailos stovykla.
 - susijęs iš Pagraudė: 1317 m. vasarą apie birželio 24 d. maršalas su broliais ir Sembos vyrais nužygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš Paštuvos valsčius: 1316 m. žiemą maršalas Henrikas su daugybe raitelių netikėtai įsiveržė į Paštuvos valsčių, jį nusiaubė ir paėmė arba nukovė 500 žmonių.
@@ -261,6 +273,7 @@ amziai:
     mis kuriam laikui normalizavosi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -276,6 +289,7 @@ amziai:
     tas ugnimi išdegintas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,6 +315,7 @@ amziai:
     lią žiūrėti valstybės reikalų ir viduje, ir svetur.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -326,6 +341,7 @@ amziai:
     galop Lauras jį pasiūlė sosto paveldėtoju.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -348,7 +364,152 @@ amziai:
     dovo reikalavimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-45532
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    S
+    sv
+    2.
+    BAU
+    =
+    S 8
+    S
+    m
+    e-+
+    >
+    os
+    2%
+
+    ## Puslapis 40
+
+    SUS os
+
+    : i Paha
+    “| KARALYS'
+
+    Mūšio priešistorė
+
+    Tesiantis Lietuvos karui su Vokiečių or-
+    dinu, 1355 m. pradžioje didelė Kryžiuočių
+    kariuomenė, vadovaujama maršalo, įsi-
+    veržusi penketą dienų niokojo centri-
+
+    nę Žemaitijos Medininkų žemę, po to
+    Vaikius (vakariau Raseinių), Ariogalą
+    prie Dubysos. Tais metais į Lietuvos pie-
+    tines žemes veržėsi Lenkijos ir Vengrijos
+    jėgos, nuo 1356 m. santykiai su tomis šali-
+    mis kuriam laikui normalizavosi.
+  citata_rodoma: "BAU\n=\nS 8\nS\nm\ne-+\n>\nos\n2%\n\n## Puslapis 40\n\nSUS os\n\n: i Paha\n“| KARALYS'\n\nMūšio priešistorė\n\nTesiantis Lietuvos karui su Vokiečių or-\ndinu, 1355 m. pradžioje didelė Kryžiuočių\nkariuomenė, vadovaujama maršalo, įsi-\nveržusi penketą dienų niokojo centri-\n\nnę Žemaitijos Medininkų žemę, po to\nVaikius (vakariau Raseinių), Ariogalą\nprie Dubysos. Tais metais į Lietuvos pie-\ntines žemes veržėsi Lenkijos ir Vengrijos\njėgos, nuo 1356 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42479
+
+- id: c-45533
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis
+    Vinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš
+    [Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d.] jie įėjo į [stabmeldžių] žemę, kur
+    pagal maršalo įsakymą abiejų lyčių stabmeldžiai - jauni ir seni - buvo žudomi, o kraš-
+    tas ugnimi išdegintas.
+  citata_rodoma: "„[1348 m. Ordino] maršalas brolis Zygfridas iš Da[he]nfeldo ir didysis komtūras brolis\nVinrichas iš Kniprodės dalyvavo mūšyje prie Strėvos, narsiai kaudamiesi. Dieną prieš\n[Šventojo] Pauliaus Atsivertimo šventę [sausio 24 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42480
+    - t-183717
+
+- id: c-167988
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  citata_originali: |
+    Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą. Šitoks nesudėtingas tada buvo vainikavimo
+    paprotys, kuriuo valdovui suteikdavo aukščiausiąją ga­
+    lią žiūrėti valstybės reikalų ir viduje, ir svetur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184627
+
+- id: c-167989
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 151"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 151."
+  citata_originali: |
+    Kartą Traidenis sugrįžo iš žygio į Prūsiją ir
+    pamatė tarp kitų berniukų Vytenį, kurio gražus vei­
+    das jį patraukė ypatingu kilnumu (dažniausiai paskiri
+    didelių asmenybių bruožai esti taurūs), jis pradėjo ati­
+    džiau jį stebėti, o ilgainiui, sakytum paskatintas kažin
+    kokios slaptos galios, aiškiau suvokė savo busimąsias
+    viltis, kurių gerai nė pats nesuprato. Netrukus, tėvams
+    mielai sutinkant, mažametis Vytenis atsidūrė Traide­
+    nio šeimoje; kadangi jo dvasinė stiprybė ryškėjo die­
+    na iš dienos, vos suaugęs tapo miegamojo patarnauto­
+    ju, o susilaukęs vyro metų,— rūmų pareigūnu, kurį
+    paprastai vadina maršalu. Anksti įtikęs valdovui Traide­
+    niui, jis tapo jo patarėju, karo žygių bendrininku, kol
+    galop Lauras jį pasiūlė sosto paveldėtoju.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184628
+
+- id: c-167990
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184629

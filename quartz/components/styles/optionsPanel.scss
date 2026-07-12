@@ -3,6 +3,7 @@
   display: flex;
   align-items: center;
   z-index: 5;
+  font-family: var(--bm-font, inherit);
 }
 
 .options-panel-toggle,
@@ -18,24 +19,54 @@
 
 .options-panel-toggle {
   cursor: pointer;
-  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.55rem;
   position: relative;
-  background: none;
-  border: none;
-  width: 20px;
-  height: 32px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  min-width: 0;
+  min-height: 2rem;
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
 }
 
 .options-panel-toggle .options-panel-icon {
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  top: calc(50% - 10px);
+  width: 1rem;
+  height: 1rem;
   stroke: var(--darkgray);
   transition: opacity 0.1s ease;
+}
+
+.options-panel-toggle-label {
+  color: inherit;
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.options-panel-badge {
+  display: inline-flex;
+  min-width: 1.1rem;
+  height: 1.1rem;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: var(--secondary);
+  color: var(--light);
+  font-family: var(--codeFont);
+  font-size: 0.62rem;
+  font-weight: 850;
+}
+
+.options-panel-badge[hidden] {
+  display: none;
 }
 
 .sr-only {
@@ -59,10 +90,10 @@
   max-height: min(32rem, 75vh);
   overflow: auto;
   padding: 0.9rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 0.7rem;
+  border: 1px solid var(--dark);
+  border-radius: 0;
   background: var(--light);
-  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.16);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.18);
 }
 
 .options-panel-toggle:hover .options-panel-icon,
@@ -82,6 +113,43 @@
 .options-panel-header,
 .options-panel-actions {
   justify-content: space-between;
+}
+
+.options-panel-command-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+  margin-top: 0.8rem;
+  border-top: 1px solid var(--lightgray);
+  border-bottom: 1px solid var(--lightgray);
+}
+
+.options-panel-command-grid button {
+  min-height: 2.7rem;
+  padding: 0.55rem 0;
+  border: 0;
+  border-bottom: 1px solid var(--lightgray);
+  background: transparent;
+  color: var(--dark);
+  cursor: pointer;
+  font: 750 0.9rem/1.2 var(--bodyFont);
+  text-align: left;
+}
+
+.options-panel-command-grid button:last-child {
+  border-bottom: 0;
+}
+
+.options-panel-command-grid button:hover,
+.options-panel-command-grid button:focus-visible,
+.options-panel-command-grid button[aria-pressed="true"] {
+  color: var(--secondary);
+}
+
+.options-panel-settings-link {
+  color: var(--secondary);
+  font-weight: 750;
+  text-decoration: none;
 }
 
 .options-panel-section {

@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žuvinto palios
 
@@ -28,24 +40,23 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
 <a id="claim-t-42414"></a>
 - t-001
   global_id: t-42414
-  teiginys: 'Žuvinto ežeras ir Palios buvo apsupti šarvuočių.'
+  teiginys: "Žuvinto ežeras ir Palios buvo apsupti šarvuočių."
   pagrindžia:
-    - c-002
+    - c-45488
 
 <a id="claim-t-42415"></a>
 - t-002
   global_id: t-42415
-  teiginys: 'Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai.'
+  teiginys: "Žuvinto paliose ir Buktos miške veikė Gedimino, Klarko, Juozo Pandeikos, Edvardo ir Jurgio Lajų bei Kosto Barkausko būriai."
   pagrindžia:
-    - c-001
+    - c-44127
 
 <a id="claim-t-183821"></a>
 - t-003
   global_id: t-183821
-  teiginys: 'Dalis iš apsupties pasitraukusių partizanų rado prieglobstį Žuvinto paliose.'
+  teiginys: "Dalis iš apsupties pasitraukusių partizanų rado prieglobstį Žuvinto paliose."
   pagrindžia:
-    - c-003
-
+    - c-167206
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,6 +75,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     menės majoras Sergijus Staniškis-Litas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +115,7 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     kulką iš vamzdžio, bet ir pertaisydavo spyną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,11 +133,96 @@ Dalis jų rado prieglobstį Žuvinto paliose. Partizanų pajėgos Tuo metu Žuvi
     400 karių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-44127
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Partizanų pajėgos
+
+    Tuo metu Žuvinto paliose ir Buktos
+    (Žaliosios) miške jau veikė Gedimino,
+    Klarko, Juozo Pandeikos, Edvardo ir Jurgio
+    Lajų bei Kosto Barkausko būriai. Prie
+    Daukšių bazavosi „Muškietininkų“ būrys,
+    vadovaujamas Vlado Gavėno-Tarzano.
+    Juos visus į bendrą Žuvinto-Palių junginį
+    suvienijo ir jam vadovavo Lietuvos kariuo-
+    menės majoras Sergijus Staniškis-Litas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42415
+
+- id: c-45488
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1945 m. rugpjūčio mėnesio pačioje pra-
+    džioje Palias puolė NKVD užnugario ap-
+    saugos kariuomenės 132-ojo pasienio
+    pulko ir jungtinio pasienio būrio pajė-
+    gos. Žuvinto ežeras ir Palios buvo apsupti
+    šarvuočių. Lėktuvai raketų šūviais nuro-
+    dydavo įtartinas ežero vietas, o ginkluotų
+    kareivių pilnos valtys tuoj pat plaukdavo jų
+
+    Karas po karo
+
+    ## Puslapis 230
+
+    E
+    -
+    "a
+    a“
+    2
+    1
+    wy
+    st
+    a“
+    2
+
+    PUSIAU AUTOMATINIAI ŠAUTUVAI
+
+    Dar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose
+    šūvio metu išsiskirianti parako dujų energija ne tik išstumdavo
+    kulką iš vamzdžio, bet ir pertaisydavo spyną.
+  citata_rodoma: "Žuvinto ežeras ir Palios buvo apsupti\nšarvuočių. Lėktuvai raketų šūviais nuro-\ndydavo įtartinas ežero vietas, o ginkluotų\nkareivių pilnos valtys tuoj pat plaukdavo jų\n\nKaras po karo\n\n## Puslapis 230\n\nE\n-\n\"a\na“\n2\n1\nwy\nst\na“\n2\n\nPUSIAU AUTOMATINIAI ŠAUTUVAI\n\nDar prieš Pirmąjį pasaulinį karą buvo sukurti šautuvai, kuriuose\nšūvio metu išsiskirianti parako dujų energija ne tik išstumdavo\nkulką iš vamzdžio, bet ir pertaisydavo spyną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42414
+
+- id: c-167206
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kiti parti-
+    zanai iš apsupties pasitraukė. Dalis jų rado
+    prieglobstį Žuvinto paliose.
+
+    Liudytojų teigimu sovietai prarado apie
+    400 karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183821
+
 ## Ryšiai
 - Puolė Žuvinto palios: [[objektai/grupes/NKVD]]
-- Apgulė Žuvinto palios: [[objektai/grupes/NKVD]]

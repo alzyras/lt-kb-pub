@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valiutų valdybos modelio pradėjimas ir lito susiejimas su JAV doleriu (1994 m. kovo 1 d.)
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-20524"></a>
 - t-001
   global_id: t-20524
-  teiginys: 'Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
+  teiginys: "Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų."
   pagrindžia:
-    - c-001
-
+    - c-23248
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,7 +72,31 @@ Nenurodyta
     laikotarpį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23248
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    BVP didėjo. Nuo 1993 m.
+    vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl nacionalinės valiu-
+    tos – lito įvedimo laikotarpiu Lietuvos banko vykdytos sugriežtintos pi-
+    nigų politikos ir 1994 m. kovo 1 d. pradėto taikyti valiutų valdybos mo-
+    delio (pagal jį litas susietas su JAV doleriu santykiu 4 litai – 1 doleris).
+    Ekonomistų teigimu, lito susiejimas su JAV doleriu buvo vienas išmintin-
+    giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos
+    laikotarpį.
+  citata_rodoma: "giausių ekonominės politikos sprendimų per visą atsikūrusios Lietuvos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20524

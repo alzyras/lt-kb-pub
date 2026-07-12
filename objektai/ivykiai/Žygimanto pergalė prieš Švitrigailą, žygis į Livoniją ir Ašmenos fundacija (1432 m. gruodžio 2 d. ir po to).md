@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žygimanto pergalė prieš Švitrigailą, žygis į Livoniją ir Ašmenos fundacija (1432 m. gruodžio 2 d. ir po to)
 
@@ -35,17 +47,16 @@ Nenurodyta
 <a id="claim-t-185548"></a>
 - t-001
   global_id: t-185548
-  teiginys: 'Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos.'
+  teiginys: "Gruodžio 2 d. Boleslovas pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturiasdešimties tūkstančių kariuomene prie Ašmenos."
   pagrindžia:
-    - c-001
+    - c-168909
 
 <a id="claim-t-185549"></a>
 - t-002
   global_id: t-185549
-  teiginys: 'Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui.'
+  teiginys: "Po pergalės Žygimantas Kęstutaitis patraukė į Livoniją, nes gavo žinių, kad Livonijos riteriai padėjo Boleslovui."
   pagrindžia:
-    - c-002
-
+    - c-168910
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +80,7 @@ Nenurodyta
     siuntė į pagalbą kelis būrius vokiečių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +115,74 @@ Nenurodyta
     das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168909
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
+  citata_originali: |
+    Neilgai trukus, tai yra gruodžio 2 d., Boleslovas
+    pralaimėjo Lietuvoje, kurią buvo užpuolęs su keturias­
+    dešimties tūkstančių kariuomene, įrengusia prie Ašme­
+    nos stovyklą. Į pagalbą jam
+    Ž y g im a n ta s
+    su m u ša
+    atėjo beveik visa Rusia, ne
+    Š v itrig a ilą
+    tik ta, kuri priklausė Lietuvos
+    didžiajam kunigaikščiui, tai
+    yra Polocko, Smolensko, Mstislavlio, Seversko, Kijevo,
+    Volynės žemės, bet atžygiavo kariuomenė iš Maskvos,
+    Riazanės, Tverės, vedama Jaroslavo, Tverės kunigaikš­
+    čio Boriso brolio. Pagal slaptą susitarimą Livonija at­
+    siuntė į pagalbą kelis būrius vokiečių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185548
+
+- id: c-168910
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 446"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 446."
+  citata_originali: |
+    Kai
+    pasklido kalbos, jog Jurgis
+    Lengvenaitis, karaliaus brolė­
+    nas, Mstislavlio valdovas, iš­
+    vytas iš savo valdų ir Tra­
+    kuose įmestas į kalėjimą, jog
+    Daugirdas Gedgaudaitis, kunigaikštis Fiodoras Odin-
+    cevičius ir kiti yra kalinami kur kas sunkesnėmis sąly­
+    gomis, nei leistų jų kilmė bei orumas, o Jonui Man-
+    vydui, Vilniaus vaivadai, Rumbaudui, Lietuvos marša­
+    lui, kaltinamiems maišto kėlimu, nukirto galvas, visi,
+    ir kilmingi, ir nekilmingi, suprato, jog naujojo valdovo
+    širdis kieta ir žiauri, ir dėl to pranašavo, kad, jam val­
+    dant, prasidės tikrai baisi tironija, kurios ir baisėjosi.
+    Žygimantas, nenorėdamas, kad pergalę laimėjusi ka­
+    riuomenė plėšikautų jo valdose, patraukė, leidęs jai
+    po mūšio šiek tiek pailsėti, į
+    Livoniją, nes gavo žinių, kad
+    Livonijos riteriai, laužydami
+    susitarimą, teikė Boleslovui
+    pagalbą. Baisiai nusiaubę visą
+    šalį, ir kariai, kurie džiaugėsi dėl didelio grobio, ir va­
+    das, atkeršijęs už skriaudas, sugrįžo žiemoti į Lietuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185549

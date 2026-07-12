@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Irpenė
 
@@ -26,9 +38,9 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
 <a id="claim-t-41739"></a>
 - t-001
   global_id: t-41739
-  teiginys: 'Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos.'
+  teiginys: "Istorinė rusų tradicija Gediminą prie Irpenės siejo su Kijevo paėmimu ir Kijevo kunigaikštystės prijungimu prie Lietuvos."
   pagrindžia:
-    - c-001
+    - c-45108
 - susijęs iš [[objektai/autoriai/M. Strijkovskis.md#claim-t-172902|Motiejus Strijkovskis (kronikininkas)]]: Motiejus Strijkovskis XVI a. antrojoje pusėje rašė, kad Gediminas mūšyje prie Irpenės smogė rusams iš šono ir juos sumušė.
 - susijęs iš M. Strijkovskio kronika: M. Strijkovskio kronika minima kaip XVI a. istorinės tradicijos šaltinis apie mūšį prie Irpenės upės netoli Belgorodo.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -53,7 +65,33 @@ Istorinė rusų tradicija keliuose variantuose mini, kad Gediminas paėmė Rusij
     34 AIZKRAUKLĖS MUSIS 1279 m. kovo 5 d.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45108
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Jį pasitiko išėję iš miesto igu-
+    menai, šventikai, bajorai ir atvėrę miesto
+    vartus, sutiko tarnauti Gediminui. Šis
+    iškilmingai įjojo į miestą ir pilį. Istorinė
+    rusų tradicija keliuose variantuose mini,
+    kad Gediminas paėmė Rusijos sostinės
+    miestą Kijevą ir prijungė Kijevo kunigaikš-
+    tystę prie Lietuvos; Gediminas prie Irpenės
+
+    34 AIZKRAUKLĖS MUSIS 1279 m. kovo 5 d.
+  citata_rodoma: "Istorinė\nrusų tradicija keliuose variantuose mini,\nkad Gediminas paėmė Rusijos sostinės\nmiestą Kijevą ir prijungė Kijevo kunigaikš-\ntystę prie Lietuvos; Gediminas prie Irpenės\n\n34 AIZKRAUKLĖS MUSIS 1279 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41739

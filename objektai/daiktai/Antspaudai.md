@@ -12,9 +12,22 @@ atnaujinta: ''
 tags:
   - bajorija
   - daiktas
+  - institucija
   - karalius
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antspaudai
 
@@ -47,23 +60,23 @@ Nenurodyta
 <a id="claim-t-86979"></a>
 - t-001
   global_id: t-86979
-  teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
+  teiginys: "Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais."
   pagrindžia:
-    - c-002
+    - c-82959
 
 <a id="claim-t-86981"></a>
 - t-002
   global_id: t-86981
-  teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
+  teiginys: "Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais."
   pagrindžia:
-    - c-001
+    - c-82958
 
 <a id="claim-t-86982"></a>
 - t-003
   global_id: t-86982
-  teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
+  teiginys: "Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako."
   pagrindžia:
-    - c-003
+    - c-82960
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.
 - susijęs iš [[objektai/asmenys/Mickus Pocaitis.md#claim-t-190234|Mickus Pocaitis]]: Narbutas IV lentelėje mini Mickaus Pocaičio antspaudą su žalčiais, datuojamą maždaug XV amžiaus viduriu.
 - susijęs iš [[objektai/asmenys/Pašičius.md#claim-t-190236|Pašičius]]: Narbutas Pašičių mini tarp asmenų, kurių antspaudai su žalčiais pateikti IV lentelės 18-ajame piešinyje, ir nurodo 1510 metus.
@@ -147,6 +160,7 @@ Nenurodyta
     sprendėme ir suteikiame.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -166,6 +180,7 @@ Nenurodyta
     patvirtinimas su dviem antspaudais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -221,10 +236,110 @@ Nenurodyta
     naujos ar atskiros privilegijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Antspaudai priklausė [[objektai/grupes/Bajorai]], [[objektai/grupes/Vilniaus magistratas]]
+## Citatos
+
+- id: c-82958
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    išsiaiškinti apie pelną ir
+    pajamas bei visus dalykus, susijusius su Pabaisko bažny­
+    čios įkūrimu ir pastatymu, ir mus apie tai geriau informuo­
+    ti. Tada jie, tai atlikę, kaip reikėjo, rūpestingai ir kruopščiai,
+    visa, ką iš prisiekusių liudininkų apie šios bažnyčios įkūri­
+    mą išgirdo, mums aprašė ir savo antspaudais patvirtino. Tai­
+    gi mes, gerai informuoti apie fundaciją ir lėšas, kuriomis mū­
+    sų protėviai bažnyčią aprūpino, remdamiesi tikrais ir
+    priesaika patvirtintais įrodymais, kuriuos iš mūsų komisa­
+    rų sužinojome, dabartiniam bažnyčios klebonui, minėtam
+    Valentinui iš Pilzno, naująją privilegiją amžiams suteikti nu­
+    sprendėme ir suteikiame.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86981
+
+- id: c-82959
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Unia v-a
+    Litewska z Koroną. Szuflada I. A. 1413.
+    Przywilej łaciński Stanów Koronnych,
+    przyjęcia do herbów Stanów W . X-twa
+    Lit. sprawiony w Horodle, u niego piec­
+    zęć 46. datt. Ida mens 8-bris. Buvo ir
+    tos privilegijos Žygimanto Augusto
+    patvirtinimas su dviem antspaudais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86979
+
+- id: c-82960
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus. Tokiems miestiečiams galėjo būti suteikti bajorų herbai,
+    bet tik sutikus nors vienai pastariesiems priklausančiai šei­
+    mai, o viešiesiems reikalams magistratas negalėjo naudoti
+    kito antspaudo, tik tą, kurį miestas nuo seno turėjo - su
+    šventojo Kristoforo atvaizdu, ant raudono lako, kaip buvo
+    įprasta pirmuosiuose Karalystės miestuose39. Labdaringas
+    39
+    Licebitque, praedicto Magistratui et
+    eorum Liberis Nobilium stemmata seu
+    insignia, si velint sibi assumere, de con­
+    sensu tamen et voluntate alicujus fami­
+    liae ejus generis, quod ea arma gerit; qu­
+    ae illi assumere optaverint, quibus
+    insignibus in omnibus actis suis, tam
+    in annulis signatoriis, quam in sculp­
+    turis, ac picturis privatis uti poterint
+    non requisito deinceps vėl nostro, vėl
+    successorum Nostrorum consensu, aut
+    alio privilegio novo et speciali: In pub­
+    licis vero Officii civilis negotiis et actis,
+    utentur sigillo, Civitatis usitato, Sanc­
+    ti Christophori, imaginem continente,
+    caera vero rubea, more primariarum in
+    Regno Poloniae civitatum [Tegu bus
+    leista minėtam magistratui ir jo pi­
+    liečiams priimti bajorišką kilmę ir
+    skiriamuosius ženklus, jei norėtų
+    prisiimti, tačiau gavus sutikimą ir
+    valią tos giminės, kurios nors šeimy­
+    nos, kad leistų tuos atributus turėti,
+    kuriuos anie pageidavo priimti, tais
+    ženklais visuose savo veiksmuose,
+    tiek žyminiams antspaudams, tiek
+    skulptūroms ir privatiems paveiks­
+    lams, kaip tinkami, gali naudoti, ne­
+    klausdami po to nei mūsų, nei mū­
+    sų-palikuonių sutikimo ar kitos
+    naujos ar atskiros privilegijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86982

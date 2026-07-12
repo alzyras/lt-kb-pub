@@ -8,10 +8,6 @@ datos:
   - '1542 m.'
 date_start: '1539'
 date_end: '1542'
-aliases:
-  - 'objektai/autoriai/Abraomas Kulvietis'
-variantai:
-  - 'Abraomas Kulvietis'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -21,6 +17,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Abraomas Kulvietis
 
@@ -54,16 +62,16 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
 <a id="claim-t-181560"></a>
 - t-001
   global_id: t-181560
-  teiginys: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių.'
+  teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines pažiūras ir savo mokykloje išlavino 60 mokinių."
   pagrindžia:
-    - c-001
+    - c-165096
 
 <a id="claim-t-181561"></a>
 - t-002
   global_id: t-181561
-  teiginys: 'Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.'
+  teiginys: "Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei."
   pagrindžia:
-    - c-002
+    - c-165097
 - susijęs iš [[objektai/asmenys/Albrechtas.md#claim-t-18766|Albrechtas]]: Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.
 - susijęs iš [[objektai/asmenys/Martynas Mažvydas.md#claim-t-19126|Martynas Mažvydas]]: 1547 m. išleistas Martyno Mažvydo „Katekizmas“ laikomas Abraomo Kulviečio ir Stanislovo Rapolionio programos dalimi.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
@@ -112,6 +120,7 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     tu paremtų gynybai besirengiančią dvasininkiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,13 +150,73 @@ Abraomas Kulvietis aprašomas kaip lietuvių kilmės kunigas ir teologijos dakta
     kale Wiadomości Hist.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-165096
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Petras Roizijus,
+    281
+
+    ## Puslapis 298
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Šitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­
+    ventojų protus sujaudino nauji ir netikėti įvykiai. Dar 1539
+    metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­
+    niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­
+    gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­
+    tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
+    naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
+    mokykloje išlavino net šešiasdešimt mokinių. Kai po trejų
+    metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­
+    liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­
+    nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
+    tu paremtų gynybai besirengiančią dvasininkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181560
+
+- id: c-165097
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai po trejų
+    metų senajam tikėjimui priešingos užuomazgos pradėjo įžū­
+    liai kerotis, išgąsdintas vyskupas kreipėsi į Žygimantą Se­
+    nąjį atkakliai reikalaudamas, kad šis karališkuoju autorite­
+    tu paremtų gynybai besirengiančią dvasininkiją. Visuomet
+    apsvarstantis savo veiksmus monarchas negalėjo likti ne­
+    dėmesingas karštligiškiems ir iš visų pusių atkakliai sklin­
+    dantiems dvariškių luomo prašymams: tad buvo paskelb­
+    tas karaliaus sprendimas, pagal kurį minėtasis Kulvietis
+    privalėjo stoti prieš dvasiškąjį teismą, prisipažinti nusikaltęs
+    ir paklusti kanoninei bausmei, o jeigu to daryti nepanorėtų,
+    būsiąs priverstas stoti prieš civilinio teismo pareigūnus, va­
+    dinamus Dzieckje. Bandymo pabėgti atveju būtų ištremtas,
+    savo eilėmis girdamas ir liaupsinda­
+    mas žymiausius ano laiko ponus,
+    taip pat šlovino ir Rotundą, kaip pa­
+    tvirtina Ossolinskis vertingame vei­
+    kale Wiadomości Hist.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181561
+
 ## Ryšiai
-- Rėmė Abraomas Kulvietį: [[objektai/asmenys/Albrechtas]]
 - Abraomas Kulvietis keliavo į [[objektai/vietos/Prūsija]], [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis pastatė [[objektai/vietos/Vilnius]]
-- Abraomas Kulvietis gyveno [[objektai/vietos/Vilnius]]

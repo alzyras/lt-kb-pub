@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kūrėjų kūrėjas
 
@@ -26,24 +38,24 @@ Vartojamos formos: `kūrėjų kūrėjo`.
 <a id="claim-t-70011"></a>
 - t-001
   global_id: t-70011
-  teiginys: 'Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu.'
+  teiginys: "Kūrėjų kūrėjas vienintelis galėjo įeiti į nurodytą vietą ir klausiantiems duodavo atsakus Perūno vardu."
   pagrindžia:
-    - c-002
+    - c-09697
 
 <a id="claim-t-70012"></a>
 - t-002
   global_id: t-70012
-  teiginys: '`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.'
+  teiginys: "`Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-09696
+    - c-09697
 
 <a id="claim-t-70013"></a>
 - t-003
   global_id: t-70013
-  teiginys: 'Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.'
+  teiginys: "Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą."
   pagrindžia:
-    - c-001
+    - c-09696
 - susijęs iš [[objektai/daiktai/Dievų stabai.md#claim-t-08287|Dievų stabai]]: Tris dievų stabai buvo įstatyti ąžuolo uoksuose.
 - susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-55773|Ūkės lazda]]: Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.
 - susijęs iš [[objektai/paprociai/Vyresnybės įsakymų skelbimas krivūle.md#claim-t-07817|Vyresnybės įsakymų skelbimas krivūle]]: Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle.
@@ -60,7 +72,8 @@ Vartojamos formos: `kūrėjų kūrėjo`.
         teiravos.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -72,8 +85,43 @@ Vartojamos formos: `kūrėjų kūrėjo`.
     Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-09696
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Visų vyriausiu valdymieru tų žynių, kaip sakiau, buvo kūrėjų kūrėjas, kurs vienas pats visus valdė ir
+        visiems įsakymus davė, kaipogi jis su dievais kalbėjo ir, nuo jų pamokslą gavęs, svietui jį skelbė per
+        savo žynius arba tarnus; nesgi jo klausė ne vien visi lietuviai, beje: kalnėnai, žemaičiai, žemgaliai,
+        latuviai, arba kuržemiai, bet dar lybiešiai^876 ir krieviai, kurie nuo jo dievų valios jautojos ir
+        teiravos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70012
+    - t-70013
+
+- id: c-09697
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Pats tiktai visų vyriausiasis kunigaikštis kūrėjų kūrėjas tegalėjęs tenai įeiti, kurs davęs atsakus vardu Perūno klausiantiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70012
+    - t-70011

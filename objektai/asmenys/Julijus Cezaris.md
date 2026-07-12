@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Julijus Cezaris (vyskupas)'
 saltiniai:
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '100 m.'
   - '144 m.'
@@ -20,6 +21,18 @@ amziai:
   - 'II'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Julijus Cezaris (vyskupas)
 
@@ -32,23 +45,30 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
 <a id="claim-t-60034"></a>
 - t-001
   global_id: t-60034
-  teiginys: 'Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e.'
+  teiginys: "Gajus Julijus Cezaris buvo Romos valstybės veikėjas, karvedys ir rašytojas, gyvenęs 102 arba 100-44 m. pr. m. e."
   pagrindžia:
-    - c-001
+    - c-60666
 
 <a id="claim-t-60035"></a>
 - t-002
   global_id: t-60035
-  teiginys: 'Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.'
+  teiginys: "Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų."
   pagrindžia:
-    - c-003
+    - c-60668
 
 <a id="claim-t-60036"></a>
 - t-003
   global_id: t-60036
-  teiginys: 'Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją.'
+  teiginys: "Dusburgietis Julijų Cezarį įtraukia į senųjų kovotojų prieš prūsus genealogiją."
   pagrindžia:
-    - c-002
+    - c-60667
+
+<a id="claim-t-190897"></a>
+- t-004
+  global_id: t-190897
+  teiginys: "Narbutas rašo, kad Julijaus Cezario laikais lietuvių vardas buvo gerai žinomas, ir šį teiginį sieja su numizmatiniais radiniais."
+  pagrindžia:
+    - c-173779
 - susijęs iš [[objektai/autoriai/Plinius C. Secundus.md#claim-t-64820|Plinius C. Secundus]]: Plinijus Vyresnysis pateikė žinių apie Nerono laikais surengtą žygį, iš kurio romėnų raitelis parvežė daug gintaro.
 - susijęs iš [[objektai/autoriai/Plutarchas.md#claim-t-190402|Plutarchas]]: Pasak Plutarcho, atėniečių prijaukinti žalčiai dalyvaudavo Dionisijų apeigose Bakcho garbei.
 - susijęs iš [[objektai/grupes/Gotai.md#claim-t-188190|Gotai]]: Narbutas gotus minėjo tarp tautų, kurios senovėje, jo vertinimu, nebuvo laisvos nuo žalčių garbinimo prietarų.
@@ -74,6 +94,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     karvedys, rašytojas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,6 +110,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,7 +133,103 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
     vadinamieji Dobrynės broliai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-004
+  santrauka: 'Narbutas rašo, kad Julijaus Cezario laikais lietuvių vardas buvo gerai žinomas, ir šį teiginį sieja su numizmatiniais radiniais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Julijaus Cezario laikais lietuvių var­
+    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
+    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-60666
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 48."
+  citata_originali: |
+    (Ts 5, 8) Šitai ir buvo tie nauji karai, kuriuos „viešpats
+    išrinko“ nedraugų vartams išgriauti, nes, jiems nužudžius ar sunaikinus vieną kurį vadą
+    ar keletą vadų, tą pačią ar kitą dieną į nužudytųjų vietą stodavosi kiti, jiems lygūs arba
+    už juos geresni. Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis
+
+      176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,
+    karvedys, rašytojas.
+  citata_rodoma: "Šį kartą ne tik karas buvo naujas, šį kartą buvo kovojama naujomis\n\n  176 Gajus Julijus Cezaris (102 ar 100—44 m. pr. m. e.) —Romos valstybės veikėjas,\nkarvedys, rašytojas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60034
+
+- id: c-60667
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 17"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 17."
+  citata_originali: |
+    Dusburgietis bando pateikti savotišką
+    karų prieš prūsus genealogiją, pažymėdamas, kad prieš juos jau esąs kariavęs Julijus
+    Cezaris, vėliau — Švedijos feodalai ir kt., kad į tai buvę nukreiptos vyskupo Kristijono bei
+    Dobrynės brolių pastangos, tačiau prūsai vėl grįždavę prie savo „klaidų“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60036
+
+- id: c-60668
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 47-48"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 47-48."
+  citata_originali: |
+    Apie naują Teutonų namų ordino brolių karą su prūsų gentimis
+
+      Pasak senovės istorikų175, daug kas senaisiais laikais yra kariavęs su prūsais: Julijus
+    Autentiškame Konrado dokumente liudytojų mažiau (PKD, p. 34—35).
+      175 Anksčiau buvo manoma, jog toliau aprašomas kovas su prūsais Dusburgietis
+    paėmęs iš kokios senos kronikos (SRP, 1, p. 6); greičiausiai tai paimta iš viduramžių
+    pasakojimų, siejamų su įžymiais senovės veikėjais (PKD, p. 186).
+
+    Cezaris176, devyni broliai iš Švedijos, vardu Gamptai177, taip pat Hugonas, vadinamas
+    Potyre178, galop brolis Kristijonas, Prūsijos vyskupas, ir broliai Kristaus kariai, tai yra
+    vadinamieji Dobrynės broliai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60035
+
+- id: c-173779
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 272"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 272."
+  citata_originali: |
+    Julijaus Cezario laikais lietuvių var­
+    das buvo gerai žinomas. Tai liudija numizmatiniai radiniai (Tadeusza
+    Wolanskiego listy o staroiytnoščiach slawiahskich. S, 21—22)*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190897

@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'VI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Langobardai
 
@@ -23,16 +35,16 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
 <a id="claim-t-185424"></a>
 - t-001
   global_id: t-185424
-  teiginys: 'Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją.'
+  teiginys: "Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele kariuomene įsiveržė į Italiją."
   pagrindžia:
-    - c-001
+    - c-168785
 
 <a id="claim-t-185425"></a>
 - t-002
   global_id: t-185425
-  teiginys: '703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.'
+  teiginys: "703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką."
   pagrindžia:
-    - c-002
+    - c-168786
 - susijęs iš [[objektai/grupes/Gepidai.md#claim-t-185459|Gepidai]]: Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti langobardų į žygį į Italiją.
 - susijęs iš Prokopijaus veikalas: Pasak Prokopijaus, gepidai dalyvavo visuose herulų žygiuose; apie 559 m. jie su langobardais įsiveržė į Italiją.
 - susijęs iš [[objektai/asmenys/Odoakras.md#claim-t-186153|Odoakras]]: Odoakras užėmė Romą, nuvertė Vakarų Romos imperatorių ir pirmasis iš svetimšalių viešpatavo Romoje.
@@ -74,6 +86,7 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     langobardai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,14 +112,71 @@ Apie 559 m. langobardai, vedami Albojino, iškeliavo iš Panonijos ir su didele 
     bardai, nebijodami galų, sugrįžo prie senųjų polinkių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-168785
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 54"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 54."
+  citata_originali: |
+    Atgavęs Italiją, jis, mi­
+    rus Justinianui, buvo kviečiamas atgal į Bizantiją, o
+    herulai, vedami Alueto ir Filimunto, iš ten pasitrau­
+    kė ir per Liguriją nukako į Trakiją, ketindami kaip ir
+    anksčiau tarnauti imperatoriaus kariuomenėje, tuo tar­
+    pu likusieji, sukėlę maištą ir išsirinkę vadu Sindevaldą,
+    užėmė Valeriją. Apie tuos pačius metus langobar-
+    dai, vedami Albojino, iškeliavo iš Panonijos ir, pasi­
+    kvietę dalytis grobiu įvai-
+    559 m e ta i
+    rias sarmatų tauteles, tarp
+    jų
+    gepidus
+    (kurie,
+    pasak
+    Prokopijaus, dalyvavo visuose herulų žygiuose), įsi­
+    veržė su didžiule kariuomene į Italiją. Po to Italijoje
+    beveik ištisus du šimtmečius be pertraukos viešpatavo
+    langobardai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185424
+
+- id: c-168786
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kadangi per tai Romos bažnyčios valdoms buvo
+    smarkiai kenkiama, popiežius Steponas šaukėsi galų
+    56
+
+    ## Puslapis 55
+
+    karaliaus
+    Pipino
+    pagalbos.
+    703 m e ta i
+    Galų nugalėti langobardai su­
+    darė su romėnais palankią
+    taiką. Vis dėlto po popiežiaus Stepono mirties lango­
+    bardai, nebijodami galų, sugrįžo prie senųjų polinkių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185425
+
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/Gepidai]]
-- Langobardai keliavo į [[objektai/vietos/Italija]]
-- Langobardai puolė [[objektai/vietos/Italija]]
 - Langobardai sudarė sutartį su [[objektai/grupes/Romėnai]]
-- Langobardai užkariavo [[objektai/vietos/Italija]]

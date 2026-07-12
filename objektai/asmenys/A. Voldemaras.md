@@ -8,11 +8,6 @@ datos:
   - '1934 m.'
 date_start: '1924'
 date_end: '1934'
-description: 'A. Voldemaras – premjeras ir užsienio reikalų ministras, Vilniaus klausimą siejęs su Maskva, Berlynu ir SSRS parama prieš Lenkiją.'
-socialDescription: 'A. Voldemaro politinė veikla: autoritarinės valdžios vizija, radikalesnė užsienio politika, Vilniaus klausimas, konkordatas su Vatikanu ir voldemarininkų pučai.'
-seo_atnaujinta: '2026-07-02T20:14:54.872343+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,70 +19,82 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Voldemaras
 
 ## Santrauka
 
-A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministras, viešojoje erdvėje išsiskyręs oratoriniais gebėjimais. Jis Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, ieškojo SSRS paramos prieš Lenkiją ir užsienio politiką kreipė radikalesne kryptimi. 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu, o 1929 m. rugsėjį neteko pareigų. Vėliau kariuomenėje įtakingi voldemarininkai pučais bandė jį grąžinti į valdžią.
+Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino politinių partijų vaidmens, esą atstovavusių tik dalies, o ne visos tautos valiai, ir neketino sugrįžti į vadinamuosius „seimų laikus“, prilygintus netvarkai ir anarchijai. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų ministro postus. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų draugai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš VII Lietuvos žemės ūkio ir pramonės parodos.
 
 ## Teiginiai
 
 <a id="claim-t-77996"></a>
 - t-001
   global_id: t-77996
-  teiginys: 'A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.'
+  teiginys: "A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją."
   pagrindžia:
-    - c-005
+    - c-75315
 
 <a id="claim-t-77997"></a>
 - t-002
   global_id: t-77997
-  teiginys: 'A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.'
+  teiginys: "A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas."
   pagrindžia:
-    - c-002
+    - c-75312
 
 <a id="claim-t-77998"></a>
 - t-003
   global_id: t-77998
-  teiginys: '1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
+  teiginys: "1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru."
   pagrindžia:
-    - c-007
+    - c-75317
 
 <a id="claim-t-77999"></a>
 - t-004
   global_id: t-77999
-  teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.'
+  teiginys: "A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį."
   pagrindžia:
-    - c-008
+    - c-75318
 
 <a id="claim-t-78000"></a>
 - t-005
   global_id: t-78000
-  teiginys: '1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.'
+  teiginys: "1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje."
   pagrindžia:
-    - c-001
+    - c-75311
 
 <a id="claim-t-78001"></a>
 - t-006
   global_id: t-78001
-  teiginys: 'Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.'
+  teiginys: "Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu."
   pagrindžia:
-    - c-003
+    - c-75313
 
 <a id="claim-t-78002"></a>
 - t-007
   global_id: t-78002
-  teiginys: 'A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras.'
+  teiginys: "A. Voldemaras buvo ministras pirmininkas ir užsienio reikalų ministras."
   pagrindžia:
-    - c-006
+    - c-75316
 
 <a id="claim-t-78003"></a>
 - t-008
   global_id: t-78003
-  teiginys: 'Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.'
+  teiginys: "Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią."
   pagrindžia:
-    - c-004
+    - c-75314
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75714|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75732|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona ir Augustinas Voldemaras pabrėždavo stiprių prezidento galių būtinybę ir nevertino politinių partijų vaidmens.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
@@ -134,6 +141,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     padėtį valstybėje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,6 +161,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     atsisakė kalbėtis dėl Vilniaus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -170,6 +179,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,6 +197,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -213,6 +224,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     Lenkiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,6 +246,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -255,6 +268,7 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     laikė A. Voldemarą savo vadu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -287,11 +301,199 @@ A. Voldemaras buvo Lietuvos ministras pirmininkas ir užsienio reikalų ministra
     anarchijai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
+## Citatos
+
+- id: c-75311
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vilniaus problema komplikavo ir Lietuvos bažnytinės provincijos su-
+    darymo ir konkordato su Vatikanu klausimus. Vyriausybei derantis su
+    Vatikanu dėl diplomatinių santykių opozicija apkaltino krikščionis de-
+    mokratus išsižadant Seinų ir Vilniaus vyskupijų. Tik A. Voldemarui pa-
+    vyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis
+    pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios
+    padėtį valstybėje.
+  citata_rodoma: "Tik A. Voldemarui pa-\nvyko sutvarkyti tą reikalą vizito Romoje metu – 1927 m. rugsėjo 27 d. jis \npasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios \npadėtį valstybėje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78000
+
+- id: c-75312
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tapusi Tautų Sąjungos nare Vokietija nebegalėjo remti Lietuvos
+    ambicijų Vilniuje, tačiau būtent su Vokietija 1928 m. pasirašytos net aš-
+    tuonios sutartys ir pasiekta daugiausia. A. Voldemaras užsienio politiką
+    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
+    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų
+    su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
+    išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
+    atsisakė kalbėtis dėl Vilniaus.
+  citata_rodoma: "A. Voldemaras užsienio politiką \nstumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-\nkeičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų \nsu Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra \nišspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija \natsisakė kalbėtis dėl Vilniaus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77997
+
+- id: c-75313
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Stiprėjant Europos tendencijai saugoti sienų neliečiamumą, A. Vol-
+    demaras nieko negalėjo pakeisti. Būdamas ir premjeru, ir užsienio rei-
+    kalų ministru jau ne visur spėjo, konfliktavo su keliais savo ministrais
+    ir pradėjo pretenduoti į vienvaldystę šalyje. Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78001
+
+- id: c-75314
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kariuomenėje įtakingi nacionalistai voldemari-
+    ninkai vis bandė pučų keliu grąžinti į valdžią A. Voldemarą, o 1934 m. gen.
+    Petro Kubiliūno vadovaujamas dalinių išvedimas į Kauno gatves buvo pa-
+    vojingiausias. Tačiau pučai nebuvo tiesiogiai nukreipti prieš A. Smetoną
+    ir laiku sustabdomi. Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78003
+
+- id: c-75315
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+    A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-
+    gai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina
+    per Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš
+    VII Lietuvos žemės ūkio  ir pramonės parodos lankytojai
+    (Kaunas, 1928 m.)
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    159
+    Lenkiją.
+  citata_rodoma: "A. Voldemaras buvo įsitikinęs, kad „mūsų priešų priešai yra mūsų drau-\ngai“ ir laikėsi tautininkų pozicijos, jog Vilniaus klausimo sprendimas eina \nper Maskvą ir Berlyną, todėl pragmatiškai ieškojo SSRS paramos prieš \nVII Lietuvos žemės ūkio  ir pramonės parodos lankytojai  \n(Kaunas, 1928 m.)\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n159\nLenkiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77996
+
+- id: c-75316
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Prezidentas A. Smetona ir
+    ministras pirmininkas A. Voldemaras
+    Taip per Lietuvos miestų ir miestelių akmeninį grindinį
+    išdunda geležiniais ratlankiais kaustytas tautininkų lyderių vadelioja-
+    mas autoritarinis vežimas. Kol kas viešojoje erdvėje dominuoja ekstrava-
+    gantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas
+    lietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų
+    ministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-
+    jų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas –
+    Red.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe.
+  citata_rodoma: "Kol kas viešojoje erdvėje dominuoja ekstrava-\ngantiškas, dėl savo oratorinių sugebėjimų geriausiai Vakaruose žinomas \nlietuvis A. Voldemaras, užėmęs ne tik premjero, bet ir užsienio reikalų \nministro postus. Pasirodė, kad jis neturėjo naujų užsienio politikos idė-\njų, o A. Smetona stengėsi laikytis „vidurainės [A. Smetonos terminas – \nRed.] linijos“ – nesusisieti su kokia nors konkrečia valstybe ar jų grupe."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78002
+
+- id: c-75317
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po gegužę įvykdyto studen-
+    tų eserų pasikėsinimo į A. Voldemaro gyvybę, 1929 m. rugsėjį visiems
+    ministrams in corpore „atsistatydinus“, turėjo atsistatydinti ir premjeras.
+    Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė
+    ekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-
+    riai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras
+    A. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-
+    versmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą,
+    ginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri
+    laikė A. Voldemarą savo vadu.
+  citata_rodoma: "Rugsėjo 23 dieną ministru pirmininku prezidentas A. Smetona paskyrė \nekonomistą Juozą Tūbelį, o A. Voldemaras liko be nieko, nes neapdai-\nriai atsisakė tapti užsienio reikalų ministru. Tylusis kombinacijų meistras \nA. Smetona savo skalpeliu toliau raižė pūlinius – atsikratė karininkų per-\nversmininkų apsupties, A. Voldemaro, o vėliau uždarė ir pusiau slaptą, \nginkluotą radikaliausių tautininkų organizaciją „Geležinis vilkas“, kuri \nlaikė A. Voldemarą savo vadu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77998
+
+- id: c-75318
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Siekdami pateisinti gruodžio įvykius tautininkai ir krikščionys demo-
+    kratai skelbė Lietuvą išgelbėję nuo komunistų perversmo (1924 m. gruo-
+    džio 1 d. komunistų pučas Estijoje rodė esant tokią galimybę). Keturi
+    Lietuvos komunistų partijos (LKP) vadovai nuteisti mirties bausme ir po
+    dešimt dienų nuo perversmo pradžios sušaudyti – tai turėjo reikšti, kad
+    tikrieji kaltininkai nubausti, nors opozicinės partijos komunizmo pavo-
+    jaus nematė.
+    1926 m. gruodžio 17 d. perversmas –
+    šarvuočiai prie Vyriausiojo štabo
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    157
+    A. Smetona ir A. Voldemaras
+    atvirai pabrėždavo stiprių prezi-
+    dento galių būtinybę, nevertino
+    politinių partijų vaidmens, esą
+    atstovavusių tik dalies, o ne vi-
+    sos tautos valiai, ir neketino su-
+    grįžti į vadinamuosius „seimų
+    laikus“, prilygintus netvarkai ir
+    anarchijai.
+  citata_rodoma: "perversmas –  \nšarvuočiai prie Vyriausiojo štabo\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n157\nA. Smetona ir A. Voldemaras \natvirai pabrėždavo stiprių prezi-\ndento galių būtinybę, nevertino \npolitinių partijų vaidmens, esą \natstovavusių tik dalies, o ne vi-\nsos tautos valiai, ir neketino su-\ngrįžti į vadinamuosius „seimų \nlaikus“, prilygintus netvarkai ir \nanarchijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77999
+
 ## Ryšiai
 - Rėmė A. Voldemarą: [[objektai/grupes/Voldemarininkai]]
-- A. Voldemaras keliavo į [[objektai/vietos/Paryžius]], [[objektai/vietos/Zarasai]]
+- A. Voldemaras keliavo į [[objektai/vietos/Paryžius]]

@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilvytė Pilvytis
 
@@ -13,24 +25,22 @@ atnaujinta: ''
 Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną. Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį.
 
 ## Teiginiai
+
 <a id="claim-t-189169"></a>
 - t-001
   global_id: t-189169
-  teiginys: 'Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną.'
+  teiginys: "Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172057
+
 <a id="claim-t-189170"></a>
 - t-002
   global_id: t-189170
-  teiginys: 'Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį.'
+  teiginys: "Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį."
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172058
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės deivę, lietuvių Fortūną.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -44,11 +54,14 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
     Ni aldeju nietureju,
     Ni sparnas man niepadariu,
     Tik tej sztowe priraszite.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas Pilvytę laikė originaliu lietuvišku pavadinimu ir aiškino jį per žodį Pilwis, reiškiantį storulį arba perkeltine prasme turtuolį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -59,8 +72,53 @@ Narbutas Pilvytę (Pilwite) apibūdino kaip pinigų, turto, lobių ir sėkmės d
     lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
     galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
     riškos giminės Pilvyte (Pilwite).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-172057
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 125"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 125."
+  citata_originali: |
+    Pilvytį' (Pilwite)
+    Pinigų, turto, lobių, sėkmės deivė, lietuvių Fortūna.
+    Kad šis mitas buvo žinomas, įrodo pateikiama dainelė, ku­
+    rią dar tebemoka vietos valstiečiai:
+    Weju, weju tau, Pilwite!
+    Ir per tauku, ir per mariu;
+    Ni aldeju nietureju,
+    Ni sparnas man niepadariu,
+    Tik tej sztowe priraszite.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189169
+
+- id: c-172058
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Pilvytė yra originalus lietuviškas pavaclin imas. Pilwis iš tik­
+    rųjų reiškia storulį, perkeltine prasme -  turčių. Iš čia Pilwitos,
+    kaip vadina Strijkovskis, arba Pilwite, reiškia turto deivę. Šioje
+    lietuvių deivėje susiliejo Plutono ir Fortūnos bruožai, todėl ji
+    galėjo vadintis ir vyriškos giminės Pilvyčiu (Pilwitos), ir mote­
+    riškos giminės Pilvyte (Pilwite).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189170

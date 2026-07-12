@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # CDPr
 
@@ -19,10 +31,9 @@ tags:
 <a id="claim-t-31640"></a>
 - t-001
   global_id: t-31640
-  teiginys: 'CDPr III tomo 134 numeris nurodytas 180 puslapyje.'
+  teiginys: "CDPr III tomo 134 numeris nurodytas 180 puslapyje."
   pagrindžia:
-    - c-001
-
+    - c-33546
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -35,7 +46,28 @@ tags:
     (^5) **LUB, III, 395 : E. Raczyński : RaCD, 58 p.**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33546
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Plg. SRP,
+    II, 712 (« Dis ist Witoldes sache wedir Jagaln und Skargaln »).**
+    (^3) **CDPr, III, 180 (nr. 134).**
+    (^4) **SRP, II, 596 p.**
+    (^5) **LUB, III, 395 : E. Raczyński : RaCD, 58 p.**
+  citata_rodoma: "**\n(^3) **CDPr, III, 180 (nr. 134).**\n(^4) **SRP, II, 596 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31640

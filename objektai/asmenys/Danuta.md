@@ -19,6 +19,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Danuta
 
@@ -31,16 +43,16 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
 <a id="claim-t-35045"></a>
 - t-001
   global_id: t-35045
-  teiginys: 'Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose.'
+  teiginys: "Danuta buvo Vytauto sesuo, nutekėjusi į Mozūriją, iš kurios katalikų svečiai lankydavosi Kęstučio dvare Trakuose."
   pagrindžia:
-    - c-002
+    - c-37997
 
 <a id="claim-t-35046"></a>
 - t-002
   global_id: t-35046
-  teiginys: 'Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu.'
+  teiginys: "Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama taip pat Marijos vardu."
   pagrindžia:
-    - c-001
+    - c-37996
 - susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
 - susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
 ## Reikšmingi paminėjimai
@@ -54,6 +66,7 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     taip pat Marijos vardu. 1392 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -74,11 +87,55 @@ Danuta 1380 m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydam
     Smolensko kunigaikštytę Oną, taip pat stačiatikę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-37996
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kęstučio duktė Miklausa 1375 metais ištekėjo už Tverio
+    kunigaikščio Jono ir apsikrikštijo Marijos vardu. Danuta 1380
+    m. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama
+    taip pat Marijos vardu. 1392 m.
+  citata_rodoma: "Danuta 1380\nm. ištekėjo už Mozūrijos kunigaikščio Jonušo, apsikrikštydama\ntaip pat Marijos vardu. 1392 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35046
+
+- id: c-37997
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    21 d. Tapiau mieste­
+    lyje Prūsuose. Jo krikštatėviu buvo Ragainės komtūras Vy­
+    gandas von Baldersheimas, dėl to ir Vytautas apsikrikštijo Vy­
+    gando vardu^1 ). Jis turėjo tada 33 metus, ir krikščionybė jam
+    nebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­
+    tikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­
+    jusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­
+    ropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų
+    tikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė
+    Smolensko kunigaikštytę Oną, taip pat stačiatikę.
+  citata_rodoma: "Jis turėjo tada 33 metus, ir krikščionybė jam\nnebuvo svetima, nes savo tėvo Kęstučio dvare Trakuose susi­\ntikdavo su svečiais katalikais iš Mozūrijos, kur buvo nutekė­\njusi jo sesuo Danuta, iš Malburgo ir kartais iš kitų Vakarų Eu­\nropos kraštų, o per abi savo žmonas stačiatikes suartėjo su jų\ntikėjimu, nes mirus pirmajai žmonai Marijai, Vytautas vedė\nSmolensko kunigaikštytę Oną, taip pat stačiatikę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35045
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]]
-- Tėvai: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]

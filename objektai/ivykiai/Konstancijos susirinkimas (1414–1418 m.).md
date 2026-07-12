@@ -18,6 +18,18 @@ tags:
   - valdovas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konstancijos susirinkimas (1414–1418 m.)
 
@@ -46,23 +58,23 @@ Nenurodyta
 <a id="claim-t-50802"></a>
 - t-001
   global_id: t-50802
-  teiginys: '1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą.'
+  teiginys: "1414 m. Konstancijos susirinkimas suteikė Lietuvai progą Vakarų Europai parodyti vykdomą krikšto darbą."
   pagrindžia:
-    - c-001
+    - c-37010
 
 <a id="claim-t-50803"></a>
 - t-002
   global_id: t-50803
-  teiginys: 'Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.'
+  teiginys: "Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti."
   pagrindžia:
-    - c-003
+    - c-37013
 
 <a id="claim-t-50804"></a>
 - t-003
   global_id: t-50804
-  teiginys: 'Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.'
+  teiginys: "Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą."
   pagrindžia:
-    - c-002
+    - c-37012
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
@@ -90,7 +102,8 @@ Nenurodyta
     dvasininkai ir pasauliniai atstovai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -113,7 +126,8 @@ Nenurodyta
     nius reikalus^2 ).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -138,10 +152,90 @@ Nenurodyta
     katedrą, paskirti kapitulą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+## Citatos
+
+- id: c-37010
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Šituo pat laiku Lietuvai pasitaikė gera proga pasirodyti
+    Vakarų Europai su sėkmingai vykdomu krikšto darbu, nes
+    1414 m. buvo visuotinis bažnyčios susirinkimas. Kadangi jis
+    turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
+    daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų tau­
+    tų taiką, — tai katalikiška Vak. Europos visuomenė labai juo
+    domėjosi ir į Konstancijos miestą (dabart. Šveicarijoje), kur bu­
+    vo šaukiamas susirinkimas, be aukštos dvasininkijos atstovų
+    (kardinolų, vyskupų ir mokytų kunigų teologų), suvažiavo ir iš
+    visos Europos labai daug kunigaikščių, diduomenės, būriai ri­
+    terių^3 ). Todėl šis susirinkimas buvo labai panašus į visos Eu­
+    ropos parlamentą, kurį sudarė krikščioniškųjų Europos tautų
+    dvasininkai ir pasauliniai atstovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50802
+
+- id: c-37012
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet Vytautas atėjo dar į pagalbą, pasiųsdamas susirinkimui
+    gyvą Lietuvos apsikrikštijimo įrodymą — 60 žemaičių, bajorų
+    katalikų delegaciją. Ši žemaičių delegacija, kuriai vadovavo
+    paties Vytauto sekretorius Mykolas Sapienskis, vaivada
+    Jurgis Geldgaudas ir žemaičių didikas Jurgis Boliminas, atvy­
+    kusi į Konstanciją 1415 m. gale, susirinkimui padarė didžiau­
+    sią įspūdį ir buvo tai geriausias žemaičių katalikiškumo įrody­
+    mas. Pasiuntiniai įteikė susirinkimui raštą (Proposicio Samay­
+    tarum), kuriame skundėsi, kad seniai norėjo priimti kataliky­
+    bę, bet tam trukdė Ordinas, troškęs tik jų žemių ir laisvės, o
+    krikštyti nekrikštijęs. Tai padarė Vytautas ir Jogaila. Prašo
+    pasiųsti vyskupą įkurti vyskupijai ir sutvarkyti visus bažnyti­
+    nius reikalus^2 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50804
+
+- id: c-37013
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Žemaičių prašymas buvo patenkintas. Susirinkimas nuta­
+    rė pasiųsti prašomus vyskupus Žemaičių vyskupijai įkurti. At­
+    sirado ir savanoris važiuoti į Lietuvą — kardinolas Jonas Do­
+    micini iš Rogūzos; jam į pagalbą buvo paskirti dar du vysku­
+    pai. Tačiau Ordinas nesutiko delegacijos praleisti pro savo
+    žemes, įrodinėdamas, kad Žemaitija yra jo užkariauta ir todėl
+    religiniai jos reikalai turi būti pavesti Rygos arkivyskupui.
+    Susirinkimas, tai sužinojęs, patyrė dar vieną Ordino suktumą
+    ir griežčiausiai uždraudė jam trukdyti susirinkimo pasiuntinių
+    darbą. Bet pirmieji pasiuntiniai vis dėlto nebevažiavo ir jų vietoje
+    buvo paskirti Vilniaus vysk. Petras ir Lvovo arkivysk. Jonas,
+    kurie Konstancijon iš Lietuvos buvo atvykę su pirma delega­
+    cija. Jie gavo iš Konstancijos susirinkimo plačiausius įgalioji­
+    mus: įkurti Žemaičių vyskupiją, įšventinti vyskupą, pašvęsti
+    katedrą, paskirti kapitulą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-50803

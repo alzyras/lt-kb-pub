@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # L. Kolankowski
 
@@ -35,17 +47,17 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
 <a id="claim-t-12253"></a>
 - t-001
   global_id: t-12253
-  teiginys: 'L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius.'
+  teiginys: "L. Kolankowski šiame šaltinyje bibliografiškai pateikiamas kaip veikalo „Dzieje Wielkiego Księstwa Litewskiego za Jagiełłonów“ autorius."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-13916
+    - c-13917
 
 <a id="claim-t-12254"></a>
 - t-002
   global_id: t-12254
-  teiginys: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
+  teiginys: "L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios."
   pagrindžia:
-    - c-003
+    - c-13918
 - susijęs iš [[objektai/autoriai/Kolankowski L.md#claim-t-60728|Kolankowski L]]: Kolankowski L. parašė darbą „Litwini a Prusacy“, paskelbtą 1931 m. Lvove istorikų suvažiavimo leidinyje.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176145|Žemaičiai]]: 1416 m. žemaičių delegacija Konstancos susirinkime pareiškė, kad žemaičiai yra tos pačios lietuvių tautos žmonės.
 - susijęs iš K. Heinl, Fürst Witold von Litauen 1382-1401: K. Heinlio „Fürst Witold von Litauen 1382–1401“ 1925 m. buvo išleistas kaip 61 puslapio darbas.
@@ -65,6 +77,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     Kasa Im. Mianowskiego. Warszawa, 1930.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +91,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -95,7 +109,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     Kolankovskis, negalima.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -109,7 +124,8 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   citata_rodoma: ''
   statusas: verified
 
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -121,5 +137,60 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
     Wł. Semkowicz ir kt. straipsniais). — Kryczyński, St.: _Tatarzy litewscy.
   citata_rodoma: ''
   statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+## Citatos
+
+- id: c-13916
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kol. = Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego
+    za Jagiełłonów. Tom I. 1377—1499. Skład główny-.
+    Kasa Im. Mianowskiego. Warszawa, 1930.
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12253
+
+- id: c-13917
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^3) ) Žiūr. Kolankowski, L., Dzieje Wielkiego Księstwa Litewskiego za Ja­
+    giellonów. Tom. 1. 1377—1490. Warszawa, 1930. Termino „diarchija“, kaip la­
+    biau atitinkančio šiam reikalui už „dualizmą“ ir toliau laikysimės
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12253
+
+- id: c-13918
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­
+    kovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik
+    brolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas
+    net buvęs Kęstučio kalintas. Bet jo patiekiami argumentai nestiprūs. Vie­
+    na, kad šaltinis vėlyvas, o antra, kad ir tekstą aiškinti taip, kaip aiškina
+    Kolankovskis, negalima.
+  citata_rodoma: "(^1) ) Lenku istorikas Kolankovskis, tiesa, pareiškė nuomone (Kolan­\nkovski, 1, 8 p.), kad visa diarchijos sistema esanti ne susitarimo, o kaip tik\nbrolių dėl aukščiausios valdžios rivalizaciįos išdava, kurios metu Algirdas\nnet buvęs Kęstučio kalintas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12254

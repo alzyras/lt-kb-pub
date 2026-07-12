@@ -9,7 +9,19 @@ tags:
   - ivykis
   - kraštas
   - kunigaikštis
-  - privilegija
+  - teisinė-praktika
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių kunigaikštystės privilegija (privilegija)
 
@@ -34,16 +46,16 @@ Nenurodyta
 <a id="claim-t-01901"></a>
 - t-001
   global_id: t-01901
-  teiginys: 'Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi.'
+  teiginys: "Po Zigmanto mirties kilusių kovų metu žemaičiai iš Kazimiero išgavo privilegiją, laidavusią jų teises ir savitą vidaus tvarkymąsi."
   pagrindžia:
-    - c-002
+    - c-02140
 
 <a id="claim-t-01902"></a>
 - t-002
   global_id: t-01902
-  teiginys: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
+  teiginys: "Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys."
   pagrindžia:
-    - c-001
+    - c-02139
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82505|Kazimieras Jogailaitis]]: Kazimiero karaliavimas Lenkijoje ir jo santykiai su.
 ## Reikšmingi paminėjimai
 
@@ -60,6 +72,7 @@ Nenurodyta
     ir žūklaudavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +88,48 @@ Nenurodyta
     laikams laidavo jiems savotišką vidaus tvarkymąsi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02139
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ta privilegija patvirtino visas Vytauto laikais jų tu-
+    rėtąsias teises ir garantavo, kad savo krašto seniūną jie patys
+    sau rinksis, o didysis kunigaikštis jį tik tvirtins. Be to, Kazi-
+    mieras pažadėjo, kad Žemaitijoje daugiau nebebus kuriama nė
+    vieno didžiojo kunigaikščio dvaro (mat, nauji dvarai visada
+    buvo tam tikra našta gyventojams). Pagaliau jiems buvo leista
+    laisvai medžioti ir žūklauti ten pat, kur ir anksčiau medžiodavo
+    ir žūklaudavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01902
+
+- id: c-02140
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **2. Žemaičių kunigaikštystės privilegija**
+    Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų
+    padarinių tik Žemaičiams: konkurentų kovų metu jie išgavo
+    iš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems
+    laikams laidavo jiems savotišką vidaus tvarkymąsi.
+  citata_rodoma: "Nesutikimai, kilę po Zigmanto mirties, teturėjo tam tikrų\npadarinių tik Žemaičiams: konkurentų kovų metu jie išgavo\niš Kazimiero privilegiją, kuri apdraudė visas jų teises ir visiems\nlaikams laidavo jiems savotišką vidaus tvarkymąsi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01901

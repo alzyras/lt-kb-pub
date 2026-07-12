@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Odesa
 
@@ -27,9 +39,9 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
 <a id="claim-t-68834"></a>
 - t-001
   global_id: t-68834
-  teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
+  teiginys: "Odesos universiteto istorikas V. V. Antonovičius iš šaltinių tyrė senosios Lietuvos valstybės istoriją iki Gedimino mirties."
   pagrindžia:
-    - c-001
+    - c-32300
 - susijęs iš [[objektai/autoriai/V. V. Antonovičius.md#claim-t-31053|V. V. Antonovičius]]: V. V. Antonovičius, Odesos universiteto istorikas, iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47901|Rusų ir ukrainiečių istorikai]]: Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.
 ## Reikšmingi paminėjimai
@@ -50,7 +62,33 @@ Tūkstančiai lietuvių važiavo uždarbiauti į Rygą, Peterburgą, Odesą, bet
     bės istoriją iki Gedimino mirties (AnM, AnOč).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32300
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jeigu patys šaltiniai, daugumoje
+    paimti iš Vilniaus centrinio archyvo, buvo naudingi Lietuvos isto­
+    rijai, tai daugelis plačių įvadų 39-nių tomų rinkinio aktų buvo
+    diletantiški^133.
+    XIX amžiui einant į galą rusų universitetų istorikams vis
+    daugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,
+    kuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius
+    rytų slavų plotus. Odesos universiteto istorikas V. V. Antono­
+    vičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­
+    bės istoriją iki Gedimino mirties (AnM, AnOč).
+  citata_rodoma: "XIX amžiui einant į galą rusų universitetų istorikams vis\ndaugiau ėmė parupti išsiaišinnti, kas buvo anoji Lietuvos valstybė,\nkuri nuo XIII amž. per du šimtus metų nepaliovė užimti plačius\nrytų slavų plotus. Odesos universiteto istorikas V. V. Antono­\nvičius iš šaltinių bandė tirti ir duoti senosios Lietuvos valsty­\nbės istoriją iki Gedimino mirties (AnM, AnOč)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68834

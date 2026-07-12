@@ -10,6 +10,9 @@ interface CustomEventMap {
   themechange: CustomEvent<{ theme: "light" | "dark" }>
   readermodechange: CustomEvent<{ mode: "on" | "off" }>
   "quartz-options-change": CustomEvent<{}>
+  citationopen: CustomEvent<{ citationKey: string; sourceKind: string }>
+  analyticsfeature: CustomEvent<{ name: string; action: string; value?: string }>
+  periodfiltercommit: CustomEvent<{ start: number; end: number; includeUnknown: boolean }>
 }
 
 type ContentIndex = Record<FullSlug, ContentDetails>

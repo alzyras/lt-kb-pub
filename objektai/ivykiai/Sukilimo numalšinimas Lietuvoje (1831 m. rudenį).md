@@ -16,6 +16,18 @@ tags:
   - sukilimas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sukilimo numalšinimas Lietuvoje (1831 m. rudenį)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-66913"></a>
 - t-001
   global_id: t-66913
-  teiginys: '1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis.'
+  teiginys: "1831 m. rudenį sukilimas Lietuvoje buvo numalšintas žiauriomis priemonėmis."
   pagrindžia:
-    - c-001
-
+    - c-67006
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,7 +72,29 @@ Nenurodyta
     likviduotas sukilimas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-67006
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ypač
+    nukentėjo Ašmena. Užėmę miestelį, rusai išplėšė ne tik gyven-
+    tojų namus, bet ir bažnyčią, išžudė apie 80 žmonių, o tuos, ku-
+    riuos įtarė dalyvavus sukilime, prisirišę prie patrankų nusivarė
+    į Vilnių. Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo
+    likviduotas sukilimas.
+  citata_rodoma: "Tokiomis žiauriomis priemonėmis 1831 m. rudenį buvo\nlikviduotas sukilimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66913

@@ -33,6 +33,8 @@ jobs:
         run: npx quartz build
       - name: Remove accidental root redirect artifact
         run: rm -f public/.html
+      - name: Audit public build guardrails
+        run: python3 scripts/audit_public_build.py --public public --content . --fail --status-json public-build-audit.json
       - name: Upload artifact
         if: github.ref == 'refs/heads/main'
         uses: actions/upload-pages-artifact@v3

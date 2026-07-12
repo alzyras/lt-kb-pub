@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'VII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Seeburgas
 
@@ -26,9 +38,9 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
 <a id="claim-t-28462"></a>
 - t-001
   global_id: t-28462
-  teiginys: 'VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.'
+  teiginys: "VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą."
   pagrindžia:
-    - c-001
+    - c-28366
 - susijęs iš Grobinė: VII a. pabaigoje švedai įsikūrė Grobinėje, kur turėjo svarbią karinę bazę Seeburgą.
 - susijęs iš [[objektai/ivykiai/Apuolės apgula (853 m.).md#claim-t-31404|Apuolės apgula (853 m.)]]: Po aštuonių dienų Apuolės apgulos švedų karalius Olafas privertė kuršius grąžinti danų grobį, sudaryti taiką, mokėti duoklę ir duoti 30 įkaitų.
 - susijęs iš Apuolės pilis (pilis): Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.
@@ -49,11 +61,28 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
     (prie Durbės).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Švedai]]
-- Seeburgas priklausė [[objektai/grupes/Švedai]]
+## Citatos
+
+- id: c-28366
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Archeolo­
+    giniai duomens parodo apie 650 m. prasidedančią didelę švedų
+    ekspansiją iš Gotlando ir vidurio Švedijos. VII amž. gale jie įsi­
+    kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
+    Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
+    (prie Durbės).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28462

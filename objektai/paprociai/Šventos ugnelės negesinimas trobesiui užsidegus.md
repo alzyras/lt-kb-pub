@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventos ugnelės negesinimas trobesiui užsidegus
 
@@ -37,10 +49,9 @@ Nenurodyta
 <a id="claim-t-67247"></a>
 - t-001
   global_id: t-67247
-  teiginys: 'Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.'
+  teiginys: "Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią."
   pagrindžia:
-    - c-001
-
+    - c-10051
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +65,28 @@ Nenurodyta
         kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-10051
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    raštininkas, gyvenęs galan septynioliktojo amžiaus, sako, jog, jam gyvojant, lietuviai, trobesiui užsidegus,
+        nenorėję gesyti, tardami, jog ugnelė gesoma pykstanti. Šiandien Žalgirėnuose apie Pinską taip
+        pat niekaip negesantys žmonės trobesio degančio, idant ugnelės pikčiau nesužyžintų^806 , ir
+        apstoję kūrenantys trobesį it laužą. Kam norint sudegus, senu įpročiu sako: „Tą ugnelė šventa
+        aplankė.“ Perkūnijos ugnį daug stigavoja iki šiai dienai, jog ožkos pienu tegalį užgesyti, kas niekų
+        kalba yra, nesgi ir pačiu vandeniu gal užgesyti, jei ano gausiai pasitinka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67247

@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # žemlionis
 
@@ -26,24 +38,24 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 <a id="claim-t-70424"></a>
 - t-001
   global_id: t-70424
-  teiginys: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
+  teiginys: "Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu."
   pagrindžia:
-    - c-002
-    - c-003
+    - c-09782
+    - c-09783
 
 <a id="claim-t-70425"></a>
 - t-002
   global_id: t-70425
-  teiginys: 'Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.'
+  teiginys: "Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius."
   pagrindžia:
-    - c-001
+    - c-09781
 
 <a id="claim-t-70426"></a>
 - t-003
   global_id: t-70426
-  teiginys: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
+  teiginys: "`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį."
   pagrindžia:
-    - c-002
+    - c-09782
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.
 ## Reikšmingi paminėjimai
 
@@ -54,7 +66,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
     Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -72,7 +85,8 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
         kunigu, arba rykiu, beje, karalium, nuo žodžio lotyniško rex regis – karalius.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -92,7 +106,66 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
         Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09781
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Jei toksai kiemas, karei kėlusis, leido kareivį jotą^259 vieną ar du, tris – pagal tą, kaip daug žemės turėjo, tad vadinos žemlioniu^260 , nuo žemės, kurią buvo sau pragyvenęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70425
+
+- id: c-09782
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai
+        tautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,
+        pakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,
+        nesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų
+        kūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau
+        karvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir
+        abydas padarytas. Vadino jį didžiuoju gaspadorium, arba didžiuoju kunigaikščiu, beje, didžiuoju
+        kunigu, arba rykiu, beje, karalium, nuo žodžio lotyniško rex regis – karalius.
+  citata_rodoma: "Pakajui esant, kunigai ūkę rėdė, bet, kėlusis didelėms karėms su svetimomis tautomis, į kurias visai\ntautai reikėjo traukti, žemlionys^977 , arba kareiviai, pakėlė tarp savęs visų narsųjį ir kantrųjį vyrą, kurį,\npakėlę ant savo pečių, nešiojo po rindas kareivių, rodydami visiems, idant žinotų, ko turi klausyti,\nnesgi, tą pakėlus, kožno ūkininko gyvyba ir smertis jo rankoje buvo, kaipogi valdžia ir rėdą kūrėjų\nkūrėjo toj pačioj valandoj apsistojo, o pakeltojo karvedžio, arba atmono, prasidėjo, kurį vadino jau\nkarvedžiu nuo to, jog į karę svietą vedė, jau atmonu, jog ėjo atmonyti^978 neprieteliams sau žalas ir\nabydas padarytas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70426
+    - t-70424
+
+- id: c-09783
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    - public_note:
+    - saltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
+    - vieta_saltinyje: offset: 285124-286031; match: ocr_normalized_gapped
+    - santrauka: Šiame tekste išvardijamos įvairios pilies ir rūmų pareigybės.; Šios pareigybės siejamos su raktų, vėliavos, ūkės žymės ir rūmų tvarkos priežiūra.
+    - pagrindzia:
+    - pastaba: Išsaugota kaip atskiras galimo teiginio įrodymas prieš viešą publikavimą.
+      citata_originali: |
+        Kožnoj tėvūnijoj buvo dar tie vyresnieji: raktininkas, kurs lobius didžiojo kunigaikščio už raktui laikė ir saugojo, jo pripadėtojas vadinos parakčia; buvo dar pilies ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 , kurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba pulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas, kurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062.
+  citata_rodoma: "ponas, kurs pilį valdė, jo pripadėtoju buvo angininkas, kurs raktus angos pilies saugojo; karūžasis^1061 ,\nkurio žinioj žemlionys buvo, prie kurio buvo karės vėliava, jo pripadėtoju buvo šimtininkas, arba\npulkorius, nuo žodžio pulti, kurs šimtą vyrų į karę vedė, to paskuojo pripadėtoju buvo dešimtininkas,\nkurs dešimtį vyrų į karę vedė, ir tekūnas, arba vizius, gudiškai voznius^1062."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70424

@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vėlė
 
@@ -26,16 +38,16 @@ Vartojamos formos: `vėlės`.
 <a id="claim-t-70067"></a>
 - t-001
   global_id: t-70067
-  teiginys: 'Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems.'
+  teiginys: "Vėlėmis Daukanto tekste vadintos mirusiųjų dūšios, kurios galėdavo apsireikšti gyviesiems."
   pagrindžia:
-    - c-001
+    - c-09767
 
 <a id="claim-t-70068"></a>
 - t-002
   global_id: t-70068
-  teiginys: 'Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu.'
+  teiginys: "Vėlės siejamos su išganymo prašymu ir naktiniu pasirodymu."
   pagrindžia:
-    - c-001
+    - c-09767
 - susijęs iš [[objektai/paprociai/Nagų nekarpymas prieš mirtį ir nuokirpų deginimas.md#claim-t-189893|Nagų nekarpymas prieš mirtį ir nuokirpų deginimas]]: Narbutas nagų nekarpymą prieš mirtį ir nuokirpų deginimą aiškino tikėjimu, kad po mirties vėlė turės rasti visus nagus.
 - susijęs iš [[objektai/zodynas/Vėlių perėjimas metempsichozė.md#claim-t-189260|Vėlių perėjimas metempsichozė]]: Narbutas metempsichozę lietuvių tikėjimuose aiškina kaip vėlės klajojimą po mirties, kol ji grįžta į kito žmogaus kūną.
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
@@ -44,10 +56,11 @@ Vartojamos formos: `vėlės`.
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Vilniaus gaisrą: Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš Pragaras: Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.
 - susijęs iš Unzatrapio žemė: Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
 - susijęs iš Vilnius: Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.
 - susijęs iš [[objektai/zodynas/Kehms kernas.md#claim-t-189301|Kehms kernas]]: Narbutas klajojančią kenksmingą vėlę ar vaiduoklį latviškai vadina Kehms, o žemaitiškai - kernu.
 - susijęs iš [[objektai/zodynas/Pragaras pekla.md#claim-t-189319|Pragaras pekla]]: Narbutas iš padavimų spėjo, kad lietuviai įsivaizdavo rojų ir peklą, o žodį „Pragaras“ siejo su kankinimu ugnimi.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-12418|Aisčių laidotuvių ir vėlinių apeigos]]: Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.
+- susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-192097|Aisčių laidotuvių ir vėlinių apeigos]]: Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +69,25 @@ Vartojamos formos: `vėlės`.
     Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai elgęsi ant svieto, ir nelaikšiai^699 , kurie sau gyvybą nelaiku atėmę, tiems mirus, jų dūšios ėjusios į gyvulių ir kitų gyvių kūnus arba į medžius, ežerus ir upes, kurios tenai kentėjusios neturtą ir badą lig rako, nuo dievo joms paženklinto, kuriam atėjus, galėjusios išeiti iš to kūno ir apsireikšti gentims ar svetimiems, palikdamos kokį noris jiems ženklą, kartais daiktą, su savim palaidotą, kartais įkirsdamos į slenkstį arba į vartus. Tokioj dingsty mokėję žyniai, taip vadinami kunigai, išsijautoti^700 nuo vėlės, ko ji reikalavusi dėl savo išganymo; vadino tokias dūšias vėlėmis nuo to,
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-09767
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Pagal jų nuomonę dorieji žmonės lig palaidojus stačiai ėję į dangų, bet nedorieji, kurie piktai elgęsi ant svieto, ir nelaikšiai^699 , kurie sau gyvybą nelaiku atėmę, tiems mirus, jų dūšios ėjusios į gyvulių ir kitų gyvių kūnus arba į medžius, ežerus ir upes, kurios tenai kentėjusios neturtą ir badą lig rako, nuo dievo joms paženklinto, kuriam atėjus, galėjusios išeiti iš to kūno ir apsireikšti gentims ar svetimiems, palikdamos kokį noris jiems ženklą, kartais daiktą, su savim palaidotą, kartais įkirsdamos į slenkstį arba į vartus. Tokioj dingsty mokėję žyniai, taip vadinami kunigai, išsijautoti^700 nuo vėlės, ko ji reikalavusi dėl savo išganymo; vadino tokias dūšias vėlėmis nuo to,
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70067
+    - t-70068

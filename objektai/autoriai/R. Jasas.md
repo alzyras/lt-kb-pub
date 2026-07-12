@@ -15,6 +15,18 @@ tags:
   - sukilimas
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # R. Jasas
 
@@ -27,23 +39,23 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
 <a id="claim-t-64830"></a>
 - t-001
   global_id: t-64830
-  teiginys: 'R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu.'
+  teiginys: "R. Jasas cituojamas tarp autorių, kurių darbai siejami su skalvių lietuviškumo klausimu."
   pagrindžia:
-    - c-002
+    - c-65425
 
 <a id="claim-t-64831"></a>
 - t-002
   global_id: t-64831
-  teiginys: 'Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų.'
+  teiginys: "Istorikas R. Jasas buvo vienas iš rankraštį recenzavusių asmenų."
   pagrindžia:
-    - c-001
+    - c-65424
 
 <a id="claim-t-64832"></a>
 - t-003
   global_id: t-64832
-  teiginys: 'R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais.'
+  teiginys: "R. Jasas 1959 m. paskelbė darbą „Didysis prūsų sukilimas 1260-1274 m.“ apie lietuvių kovas su kryžiuočiais ir kalavijuočiais."
   pagrindžia:
-    - c-003
+    - c-65426
 - susijęs iš Lietuvos metraštis Bychovco kronika Parengė R. Jasas: R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179536|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: R. Jasas ir M. Jučas buvo tarp istorikų, aprašiusių lietuvių kovas su kryžiuočiais ir kalavijuočiais.
 ## Reikšmingi paminėjimai
@@ -57,7 +69,8 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -71,6 +84,7 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     90; Matulevičius A. Dėl lietuvių Prūsijoje..., p. 106—108.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +105,63 @@ Lietuvių kovas su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė isto
     čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-65424
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 6."
+  citata_originali: |
+    Reiškiame nuoširdžią padėką rankraštį recenzavusiems akad. V. Mažiuliui, filol. m. k.
+    S. Karaliūnui, istorikui R. Jasui, už dalykinius patarimus dėkojame filologei G. Blažienei,
+    filol. m. dr. A. Vanagui ir visiems kitiems, padėjusiems rengti šią knygą spaudai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64831
+
+- id: c-65425
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 9"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 9."
+  citata_originali: |
+    12  Jablonskis K. Istorija ir jos šaltiniai, p. 132—136 (apie skalvių lietuviškumą);
+    Jasas R. Didysis..., p. 13; Tautavičius A. Mūsų giminaičiai..., p. 17—22; MLTE, t. 3, p.
+    90; Matulevičius A. Dėl lietuvių Prūsijoje..., p. 106—108.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64830
+
+- id: c-65426
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    LTSR Mokslų
+    Akademijos Istorijos Institutas leidžia kas antri metai knygas :
+    _Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje_ ; archeologijos
+    skyrių red. A. Tautavičius.
+    Lietuvos _istorijos_ klausimus gvildeno jau minėtas P. Pa­
+    ka r k 1 i s, ypač rašęs apie teutonų ordinus^105. Lietuvių kovas
+    su kryžiuočiais ir kalavijuočiais aprašė ir visa eilė istorikų, kaip
+    R. J a s a s : _Didysis prūsų sukilimas 1260-1274 m._ (1959), M. J u-
+    čas: _Žalgirio mūšis_ (1959)^106 , R. Varakauskas: _Pilėnų_
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64832

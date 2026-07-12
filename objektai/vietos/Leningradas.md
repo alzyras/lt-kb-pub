@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Leningradas
 
@@ -28,16 +40,16 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
 <a id="claim-t-99931"></a>
 - t-001
   global_id: t-99931
-  teiginys: '1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade.'
+  teiginys: "1949 m. leidinys „Gramoty Velikogo Novgoroda i Pskova“ buvo išleistas Maskvoje ir Leningrade."
   pagrindžia:
-    - c-001
+    - c-93882
 
 <a id="claim-t-184391"></a>
 - t-002
   global_id: t-184391
-  teiginys: '1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade.'
+  teiginys: "1950 m. leidinys „Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych knjazej XIV-XVI vv.“ buvo išleistas Maskvoje ir Leningrade."
   pagrindžia:
-    - c-002
+    - c-167759
 - susijęs iš [[objektai/autoriai/A. Nasonov.md#claim-t-30525|A. Nasonov]]: A. Nasonovas yra 1950 m. Maskvoje ir Leningrade išleistos „Novgorodskoji pervaja letopis“ leidinio autorius.
 - susijęs iš [[objektai/autoriai/Jakubovskij, A. J.md#claim-t-54122|Jakubovskij, A. J]]: A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.
 - susijęs iš Povest vremennych let: „Povest’ vremennych let, cast’ pervaja“ teksto ir vertimo leidimas išleistas Leningrade 1951 m.
@@ -68,6 +80,7 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     knjazej XIV-XVI vv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,10 +96,45 @@ GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningradas 1949.
     knjazej XIV-XVI vv. Maskva-Leningradas 1950.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Leningradas prekiavo su [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-93882
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    V. An-
+    tonovič ir Y. Kozlovskij, Kijevas 1868.
+    GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-
+    das 1949.
+    GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
+    knjazej XIV-XVI vv.
+  citata_rodoma: "Kozlovskij, Kijevas 1868.\nGrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-\ndas 1949.\nGrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych\nknjazej XIV-XVI vv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99931
+
+- id: c-167759
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    GrNP = Gramoty Velikogo Novgoroda i Pskova, Maskva-Leningra-
+    das 1949.
+    GrVUk = Duchovnyje i Dogovornyje Gramoty Velikich i udel’nych
+    knjazej XIV-XVI vv. Maskva-Leningradas 1950.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184391

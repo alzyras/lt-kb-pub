@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vieža
 
@@ -26,16 +38,16 @@ Vartojamos formos: `viežą`, `viežos`.
 <a id="claim-t-07713"></a>
 - t-001
   global_id: t-07713
-  teiginys: 'Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais.'
+  teiginys: "Vieža buvo bausmės duobė, iš kurios vėlesniais laikais buvo galima išsipirkti pinigais."
   pagrindžia:
-    - c-001
+    - c-09641
 
 <a id="claim-t-07714"></a>
 - t-002
   global_id: t-07714
-  teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
+  teiginys: "Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti."
   pagrindžia:
-    - c-001
+    - c-09641
 - susijęs iš [[objektai/daiktai/Dybas.md#claim-t-08289|Dybas]]: Kaltininkus pririšdavo prie dybo ir plakdavo.
 ## Reikšmingi paminėjimai
 
@@ -51,8 +63,32 @@ Vartojamos formos: `viežą`, `viežos`.
         bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-09641
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų:
+        „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127
+        pririšę, kitus į viežą^1128 sodino; vieža buvo duobė, per 3 ar 4 sieksnius žemėj iškasta, kartais
+        išmūravota^1129 , kur kaltininkus sodino nuspręstą laiką išsėdėti, kurios didžiai nekentė ir paskesniuose
+        laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip
+        vėžys pakerėj turėjo lindoti. Tuos, kurie svetimas bites kieme ar girioj bartis^1130 išlaužė, prikalus
+        bambą prie aulio ar drevės, varė apsukui pliekdami, lig žarnos neišėjo.
+  citata_rodoma: "Kaltininkus taip kankino: vienus korė į sausą medį, kaip šiandien dar tariama yra į paiką žmogų: „Tas, – sako, – pašoks į sausą medį“ arba: „Tas sulauks sausos šakos“; kitus dybavojo^1126 , prie dybo^1127 pririšę, kitus į viežą^1128 sodino; vieža buvo duobė, per 3 ar 4 sieksnius žemėj iškasta, kartais išmūravota^1129 , kur kaltininkus sodino nuspręstą laiką išsėdėti, kurios didžiai nekentė ir paskesniuose laikuose galėjo išsipirkti nuo tos viežos pinigais. Vadinos vieža nuo to, jog kaltininkas tenai kaip vėžys pakerėj turėjo lindoti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07714
+    - t-07713

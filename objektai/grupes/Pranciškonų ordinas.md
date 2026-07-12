@@ -20,11 +20,6 @@ datos:
   - '2026 m.'
 date_start: '1059'
 date_end: '2026'
-description: 'Pranciškonų ordinas Lietuvos istorijoje siejamas su Gedimino laiškais, Vilniaus bažnyčia, dvaro aplinka ir vėlesnėmis legendomis.'
-socialDescription: 'Pranciškonai Lietuvos istorijoje pasirodo kaip Gedimino laiškų adresatai, Vilniaus katalikiškos aplinkos dalis ir vėlesnių legendų objektas.'
-seo_atnaujinta: '2026-07-02T23:12:35.065342+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -32,364 +27,397 @@ tags:
 amziai:
   - 'XI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pranciškonų ordinas
 
 ## Santrauka
 
-Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais katalikų ryšiais, Gedimino dvaru ir Vilniuje minima pranciškonų bažnyčia. 1323 m. Gediminas kreipėsi į Saksonijos pranciškonus, prašydamas atsiųsti brolių prie jo pastatytų bažnyčių Vilniuje ir Naugarduke. Pasakojimai apie dviejų pranciškonų nužudymą Vilniuje Gedimino valdymo pabaigoje vėliau tapo ilgaamžių Vilniaus legendų pagrindu.
+Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pranciškonų ir domininkonų; jie turį savo bažnyčių ir laisvai skelbią krikščionybę. Šiame šaltinyje pranciškonai papildomai rodomi kaip kryžiaus karo telkėjai, Gedimino laiškų adresatai, jo dvaro aplinkoje veikę vienuoliai ir vėlesnių Vilniaus legendų objektas.
 
 ## Teiginiai
 
 <a id="claim-t-108279"></a>
 - t-001
   global_id: t-108279
-  teiginys: 'Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius.'
+  teiginys: "Vytenis prašė legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti jam du pranciškonų ordino brolius."
   pagrindžia:
-    - c-015
+    - c-100493
 
 <a id="claim-t-108280"></a>
 - t-002
   global_id: t-108280
-  teiginys: '1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius.'
+  teiginys: "1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius."
   pagrindžia:
-    - c-008
+    - c-31240
 
 <a id="claim-t-108281"></a>
 - t-003
   global_id: t-108281
-  teiginys: 'Maždaug 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią.'
+  teiginys: "Maždaug 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią."
   pagrindžia:
-    - c-021
+    - c-100500
 
 <a id="claim-t-108282"></a>
 - t-004
   global_id: t-108282
-  teiginys: 'Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją.'
+  teiginys: "Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją."
   pagrindžia:
-    - c-007
+    - c-25142
 
 <a id="claim-t-108283"></a>
 - t-005
   global_id: t-108283
-  teiginys: 'Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III.'
+  teiginys: "Mažesniųjų brolių ordinas 1223 m. buvo patvirtintas valdant popiežiui Honorijui III."
   pagrindžia:
-    - c-017
+    - c-100496
 
 <a id="claim-t-108284"></a>
 - t-006
   global_id: t-108284
-  teiginys: 'Vilniuje tarp trijų minimų krikščionių šventovių buvo ir pranciškonų bažnyčia.'
+  teiginys: "Vilniuje tarp trijų minimų krikščionių šventovių buvo ir pranciškonų bažnyčia."
   pagrindžia:
-    - c-025
+    - c-100508
 
 <a id="claim-t-108285"></a>
 - t-007
   global_id: t-108285
-  teiginys: 'Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai.'
+  teiginys: "Dviejų pranciškonų nužudymo Vilniuje Gedimino valdymo pabaigoje istorija davė pradžią ilgaamžei Vilniaus legendai."
   pagrindžia:
-    - c-003
+    - c-22697
 
 <a id="claim-t-108286"></a>
 - t-008
   global_id: t-108286
-  teiginys: 'Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams.'
+  teiginys: "Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams."
   pagrindžia:
-    - c-029
+    - c-100514
 
 <a id="claim-t-108287"></a>
 - t-009
   global_id: t-108287
-  teiginys: 'Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą.'
+  teiginys: "Gediminas kreipėsi į pranciškonų ordino brolius, pasklidusius visame pasaulyje, ypač į Saksonijos ministrą."
   pagrindžia:
-    - c-018
+    - c-100497
 
 <a id="claim-t-108288"></a>
 - t-010
   global_id: t-108288
-  teiginys: 'Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke.'
+  teiginys: "Gediminas prašė pranciškonų tais metais atsiųsti keturis brolius prie jo pastatytų bažnyčių Vilniuje ir Naugarduke."
   pagrindžia:
-    - c-013
+    - c-100491
 
 <a id="claim-t-108289"></a>
 - t-011
   global_id: t-108289
-  teiginys: 'Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu.'
+  teiginys: "Kai kurių dvasininkų manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas ir vėliau pats tapo vienuoliu."
   pagrindžia:
-    - c-022
+    - c-100502
 
 <a id="claim-t-108290"></a>
 - t-012
   global_id: t-108290
-  teiginys: 'Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje.'
+  teiginys: "Kryžiuočiai Strėvos laimėjimui atminti pastatė pranciškonų vienuolynus Karaliaučiuje ir Vėluvoje."
   pagrindžia:
-    - c-006
+    - c-22701
+
+<a id="claim-t-108291"></a>
+- t-013
+  global_id: t-108291
+  teiginys: "Gedimino dvare pranciškonai turėjo įtakos ir tvarkė kanceliariją."
+  pagrindžia:
+    - c-31241
 
 <a id="claim-t-108292"></a>
 - t-014
   global_id: t-108292
-  teiginys: 'Gediminas Saksų pranciškonų prašė atsiųsti į Lietuvą vienuolių ir minėjo savo statytas katalikų bažnyčias Vilniuje bei Naugarduke.'
+  teiginys: "Gediminas Saksų pranciškonų prašė atsiųsti į Lietuvą vienuolių ir minėjo savo statytas katalikų bažnyčias Vilniuje bei Naugarduke."
   pagrindžia:
-    - c-005
+    - c-22700
 
 <a id="claim-t-108293"></a>
 - t-015
   global_id: t-108293
-  teiginys: 'Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo.'
+  teiginys: "Mažesniųjų brolių Prūsijos kustodas ir keli gvardijonai laiškais popiežiui gynė Kryžiuočių ordiną nuo Gedimino skundo."
   pagrindžia:
-    - c-035
+    - c-100527
 
 <a id="claim-t-108294"></a>
 - t-016
   global_id: t-108294
-  teiginys: 'Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną.'
+  teiginys: "Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną."
   pagrindžia:
-    - c-002
+    - c-05815
 
 <a id="claim-t-108295"></a>
 - t-017
   global_id: t-108295
-  teiginys: 'Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją.'
+  teiginys: "Jokūbas I buvo lietuvių kilmės pranciškonas, 1400–1407 m. valdęs Vilniaus dieceziją."
   pagrindžia:
-    - c-031
+    - c-100518
 
 <a id="claim-t-108296"></a>
 - t-018
   global_id: t-108296
-  teiginys: 'Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią.'
+  teiginys: "Vytenis prašė legato Pranciškaus ir arkivyskupo Fridricho atsiųsti du pranciškonų ordino brolius į jau pastatytą bažnyčią."
   pagrindžia:
-    - c-015
+    - c-100493
 
 <a id="claim-t-108297"></a>
 - t-019
   global_id: t-108297
-  teiginys: 'Gediminas ketino kviesti tik girtino ir doro gyvenimo pranciškonų ordino vienuolius.'
+  teiginys: "Gediminas ketino kviesti tik girtino ir doro gyvenimo pranciškonų ordino vienuolius."
   pagrindžia:
-    - c-032
+    - c-100519
 
 <a id="claim-t-108298"></a>
 - t-020
   global_id: t-108298
-  teiginys: 'Palei Žemutinę pilį gyvenę pranciškonai turėjo dar Gedimino laikais pastatydintą bažnyčią.'
+  teiginys: "Palei Žemutinę pilį gyvenę pranciškonai turėjo dar Gedimino laikais pastatydintą bažnyčią."
   pagrindžia:
-    - c-020
+    - c-100499
+
+<a id="claim-t-108294"></a>
+- t-021
+  global_id: t-108294
+  teiginys: "Gedimino laikais pranciškonai toliau veikė sostinėje ir turėjo joje savo vienuolyną."
+  pagrindžia:
+    - c-05815
 
 <a id="claim-t-108300"></a>
 - t-022
   global_id: t-108300
-  teiginys: 'Apie 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią.'
+  teiginys: "Apie 1522 m. pranciškonai vietoje sudegusios medinės bažnyčios išmūrijo Šv. Mikalojaus bažnyčią."
   pagrindžia:
-    - c-021
+    - c-100500
 
 <a id="claim-t-108301"></a>
 - t-023
   global_id: t-108301
-  teiginys: '1552 m. Žygimanto Augusto dekretu Vilniaus pranciškonai neteko jurisdikcijos savo pavaldiniams mieste.'
+  teiginys: "1552 m. Žygimanto Augusto dekretu Vilniaus pranciškonai neteko jurisdikcijos savo pavaldiniams mieste."
   pagrindžia:
-    - c-033
+    - c-100520
 
 <a id="claim-t-108302"></a>
 - t-024
   global_id: t-108302
-  teiginys: 'Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.'
+  teiginys: "Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke."
   pagrindžia:
-    - c-013
+    - c-100491
 
 <a id="claim-t-108303"></a>
 - t-025
   global_id: t-108303
-  teiginys: 'Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui.'
+  teiginys: "Gedimino laiškai Liubeke buvo įteikti miesto tarybai ir Pranciškonų ordino kustodui."
   pagrindžia:
-    - c-011
+    - c-100489
 
 <a id="claim-t-108305"></a>
 - t-026
   global_id: t-108305
-  teiginys: 'Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.'
+  teiginys: "Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą."
   pagrindžia:
-    - c-034
+    - c-100521
 
 <a id="claim-t-108306"></a>
 - t-027
   global_id: t-108306
-  teiginys: 'Lietuvoje apaštalavę minoritai ne kartą žuvo dėl savo uolumo, o pranciškonai patyrė skaudžių kančių.'
+  teiginys: "Lietuvoje apaštalavę minoritai ne kartą žuvo dėl savo uolumo, o pranciškonai patyrė skaudžių kančių."
   pagrindžia:
-    - c-026
+    - c-100509
 
 <a id="claim-t-108307"></a>
 - t-028
   global_id: t-108307
-  teiginys: 'Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną.'
+  teiginys: "Pranciškonai toliau veikė sostinėje ir joje turėjo savo vienuolyną."
   pagrindžia:
-    - c-002
+    - c-05815
 
 <a id="claim-t-108308"></a>
 - t-029
   global_id: t-108308
-  teiginys: 'Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.'
+  teiginys: "Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją."
   pagrindžia:
-    - c-014
+    - c-100492
 
 <a id="claim-t-108309"></a>
 - t-030
   global_id: t-108309
-  teiginys: 'Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius.'
+  teiginys: "Gediminas savo laišku kreipėsi į pranciškonų ordino ministrus, kustodus, gvardijonus ir kitus brolius."
   pagrindžia:
-    - c-018
+    - c-100497
 
 <a id="claim-t-108310"></a>
 - t-031
   global_id: t-108310
-  teiginys: 'Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų.'
+  teiginys: "Vytenis prašė popiežiaus legato Pranciškaus ir Rygos arkivyskupo Fridricho atsiųsti pranciškonų minoritų."
   pagrindžia:
-    - c-012
+    - c-100490
 
 <a id="claim-t-108311"></a>
 - t-032
   global_id: t-108311
-  teiginys: 'Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius.'
+  teiginys: "Gediminas žadėjo kviestis dorus vyskupus, kunigus, dominikonus ir pranciškonų ordino vienuolius."
   pagrindžia:
-    - c-032
+    - c-100519
+
+<a id="claim-t-108280"></a>
+- t-033
+  global_id: t-108280
+  teiginys: "1261 m. pranciškonai turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius."
+  pagrindžia:
+    - c-31240
 
 <a id="claim-t-108315"></a>
 - t-034
   global_id: t-108315
-  teiginys: 'Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus.'
+  teiginys: "Pranciškonas Jonas Pliekta Vilniaus vyskupu tapo 1399 m., bet, anot Balińskio, nežinoma, kodėl pareigas ėjo tik vienerius metus."
   pagrindžia:
-    - c-016
+    - c-100495
 
 <a id="claim-t-108316"></a>
 - t-035
   global_id: t-108316
-  teiginys: '1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams.'
+  teiginys: "1323 m. Gedimino laiškai buvo rašyti dominikonų, Mažesniųjų brolių, arba pranciškonų, ordinams ir Hanzos miestams."
   pagrindžia:
-    - c-023
+    - c-100503
 
 <a id="claim-t-108317"></a>
 - t-036
   global_id: t-108317
-  teiginys: 'Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo.'
+  teiginys: "Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko pranciškoną Andrių iš Vasilevo."
   pagrindžia:
-    - c-027
+    - c-100510
 
 <a id="claim-t-108318"></a>
 - t-037
   global_id: t-108318
-  teiginys: 'Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių.'
+  teiginys: "Lietuvoje apaštalavę pranciškonai dėl uolaus žmonių atvertimo į tikėjimą patirdavo skaudžių kančių."
   pagrindžia:
-    - c-019
+    - c-100498
 
 <a id="claim-t-108319"></a>
 - t-038
   global_id: t-108319
-  teiginys: 'Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia.'
+  teiginys: "Vilniuje tarp trijų ankstyvų krikščionių šventyklų minima ir pranciškonų bažnyčia."
   pagrindžia:
-    - c-025
+    - c-100508
 
 <a id="claim-t-108320"></a>
 - t-039
   global_id: t-108320
-  teiginys: 'Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
+  teiginys: "Iš Gedimino laikais nubaustų dviejų pranciškonų fakto XVI a. rusų ir lenkų šaltiniuose sukurta legenda apie 36 Vilniuje nukankintus pranciškonus."
   pagrindžia:
-    - c-002
+    - c-05815
 
 <a id="claim-t-108321"></a>
 - t-040
   global_id: t-108321
-  teiginys: 'Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje.'
+  teiginys: "Pranciškonai prie Žemutinės pilies turėjo Gedimino laikais pastatydintą bažnyčią dabartinės Šventojo Kryžiaus bažnyčios vietoje."
   pagrindžia:
-    - c-024
+    - c-100507
 
 <a id="claim-t-108322"></a>
 - t-041
   global_id: t-108322
-  teiginys: 'XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus.'
+  teiginys: "XVI a. rusų ir lenkų šaltiniuose iš dviejų Gedimino laikais nubaustų pranciškonų fakto sukurta legenda apie 36 Vilniuje nukankintus pranciškonus."
   pagrindžia:
-    - c-010
+    - c-31243
 
 <a id="claim-t-108323"></a>
 - t-042
   global_id: t-108323
-  teiginys: '1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams.'
+  teiginys: "1323 m. gegužės 26 d. trys Gedimino laiškai buvo pasiųsti Saksų provincijos pranciškonams, dominikonams ir Hanzos miestams."
   pagrindžia:
-    - c-004
+    - c-22699
 
 <a id="claim-t-108324"></a>
 - t-043
   global_id: t-108324
-  teiginys: 'Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį.'
+  teiginys: "Pirmuoju Vilniaus diecezijos vyskupu Jogaila išrinko Andrių iš Vasilevo Važilą, Mažesniųjų brolių ordino vienuolį."
   pagrindžia:
-    - c-027
+    - c-100510
 
 <a id="claim-t-108325"></a>
 - t-044
   global_id: t-108325
-  teiginys: '1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino.'
+  teiginys: "1317 m. popiežius Jonas kanonizavo šventąjį Liudviką, Sicilijos karaliaus Roberto brolį iš Mažesniųjų brolių ordino."
   pagrindžia:
-    - c-028
+    - c-100511
 
 <a id="claim-t-108326"></a>
 - t-045
   global_id: t-108326
-  teiginys: 'Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.'
+  teiginys: "Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo."
   pagrindžia:
-    - c-030
+    - c-100517
 
 <a id="claim-t-108327"></a>
 - t-046
   global_id: t-108327
-  teiginys: 'Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas.'
+  teiginys: "Kai kurių autorių manymu, Goštautas buvo pranciškonų vienuolynų Vilniuje steigėjas."
   pagrindžia:
-    - c-022
+    - c-100502
 
 <a id="claim-t-108328"></a>
 - t-047
   global_id: t-108328
-  teiginys: 'Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams.'
+  teiginys: "Gedimino laiškai buvo rašyti dominikonams, pranciškonams ir Hanzos miestams."
   pagrindžia:
-    - c-023
+    - c-100503
 
 <a id="claim-t-108329"></a>
 - t-048
   global_id: t-108329
-  teiginys: 'Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną.'
+  teiginys: "Pranciškonai veikė sostinėje ir joje laikė savo vienuolyną."
   pagrindžia:
-    - c-001
+    - c-05814
 
 <a id="claim-t-184577"></a>
 - t-049
   global_id: t-184577
-  teiginys: 'Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės.'
+  teiginys: "Goštautas pakvietė į Vilnių naują Pranciškonų ordino vienuolių būrį ir skyrė jiems vietą netoli Vingrių pelkės."
   pagrindžia:
-    - c-036
+    - c-167938
 
 <a id="claim-t-187741"></a>
 - t-050
   global_id: t-187741
-  teiginys: 'Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos.'
+  teiginys: "Vilniaus pranciškonai, iki 1387 m. įsikūrę vienuolyne prie Trakų vartų, buvo kilę iš Lenkijos, daugiausia iš Krokuvos."
   pagrindžia:
-    - c-037
+    - c-170680
 
 <a id="claim-t-187742"></a>
 - t-051
   global_id: t-187742
-  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Algirdui leidus Petras Goštautas iš Lenkijos į Vilnių parsikvietė 14 pranciškonų vienuolių."
   pagrindžia:
-    - c-038
+    - c-170681
 
 <a id="claim-t-187743"></a>
 - t-052
   global_id: t-187743
-  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  teiginys: "Lietuvos metraštis pasakoja, kad Algirdui žygiuojant prieš Maskvą Vilniaus pagonys sudegino pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
   pagrindžia:
-    - c-039
+    - c-170682
 
 <a id="claim-t-187744"></a>
 - t-053
   global_id: t-187744
-  teiginys: 'Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje.'
+  teiginys: "Pirmasis Vilniaus vyskupas Andrius buvo Lenkijos pranciškonas, anksčiau ėjęs Sereto vyskupo pareigas Vengrijoje."
   pagrindžia:
-    - c-040
+    - c-170683
 - susijęs iš [[objektai/zodynas/Romos tikėjimas graikų apeigų tikėjimas.md#claim-t-86508|Romos tikėjimas graikų apeigų tikėjimas]]: Romos tikėjimo skelbėjais vadinti Vilniaus pranciškonai, kuriuos 1341 m. užpuolė sukurstyti pagonys.
 - susijęs iš [[objektai/zodynas/Stabmeldystė pagoniškas tikėjimas.md#claim-t-86572|Stabmeldystė pagoniškas tikėjimas]]: Balińskis Vilniaus pranciškonų žudynes vaizdavo kaip bevaises stabmeldystės pastangas prieš Romos tikėjimo skelbėjus.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173207|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.
@@ -524,8 +552,6 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
 - susijęs iš Vilniaus miesto planas Jogailos laikais: Vilniaus miesto planas Jogailos laikais žymėjo Aukštutinę pilį, Kreivąją pilį, Perkūno šventyklą, kelius, bažnyčias ir vienuolynus.
 - susijęs iš Ašmena: Ašmena kadaise buvo kaimas, išaugęs šalia kunigaikščio dvaro.
 - susijęs iš Ašmena: Dabartinė Ašmena anais laikais tebuvo kaimas, išaugęs šalia kunigaikščio dvaro.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
 - susijęs iš Gardinas: Vytautas Gardine donacijomis parėmė dominikonus ir pranciškonams pastatė bažnyčią.
 - susijęs iš Gardinas: Vytautas dominikonus parėmė donacijomis Gardine, Lucke ir Naugardėlyje.
 - susijęs iš Gotlandas: Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.
@@ -584,7 +610,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     vienuolyną.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
@@ -602,7 +629,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     Vilniuje buvę nukankinti 36 pranciškonai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
@@ -622,7 +650,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     trų vienuolynas).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -640,7 +669,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     Greifswaldni, Stettinui ir Gotlando salai).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
@@ -657,7 +687,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tytos katalikų bažnyčios.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
@@ -674,7 +705,8 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     liaučiuje ir Vėluvoje).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
@@ -688,6 +720,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     pranciškonai, kurie tvarkė kanceliariją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -703,6 +736,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     mirties išlaikyti tą titulą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -720,6 +754,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     čiatikių srityse, priėmė jų tikėjimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -738,6 +773,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     kijos^4.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -768,6 +804,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     ir Gotfridą fon Ostą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -792,6 +829,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     krikščionybei ginti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -826,6 +864,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     amore nostri.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -855,6 +894,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     iki 1407 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -882,6 +922,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     ir minėtą bažnyčią sudegino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -899,6 +940,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -913,6 +955,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     scolarium] patvirtino tas pats valdovas popiežius Honorijus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -940,6 +983,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     kais pavirstų klastinga apgaulė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -962,6 +1006,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     Wremiennik Sofijski, p. 334.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -980,6 +1025,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     išpažįstančiųjų ir jų dvasininkų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1000,6 +1046,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tilerijos užtaisų ugnys".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1024,6 +1071,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     nieoszacowany O O. Franciszkanów.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1060,6 +1108,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     išspausdino savo Prūsijos istorijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1080,6 +1129,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     žiaus bažnyčia ir bonifratrų špitolė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1099,6 +1149,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     ta. Dviejų kitų bažnyčių griuvėsiai - Šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1122,6 +1173,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     įtaką jiems laidavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1145,6 +1197,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tiems Lietuvoje Kristaus tikėjimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1162,6 +1215,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     žolinės (Mart. p. 449).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1193,6 +1247,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tuvos antspaudas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1212,6 +1267,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     Cereteno vyskupu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1234,6 +1290,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     krikščionių tikėjimą priimti paskatino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1274,6 +1331,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     consueverunt.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1301,6 +1359,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     lėjo pakliūti į šią epidemiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1322,6 +1381,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     vertęs į Kristaus tikėjimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1351,6 +1411,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     sceleratis aliqua pactione conjungi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1369,6 +1430,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     riuo mes ligi šiol džiaugiamės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1387,6 +1449,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     vardj — „in Arena" arba „na Piaskach".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1408,6 +1471,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     j Lietuvą l0 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1431,6 +1495,7 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -1448,17 +1513,982 @@ Pranciškonų ordinas Lietuvos istorijos šaltiniuose siejamas su ankstyvais kat
     tasis Vilniaus vyskupas (1422—1453).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
 
+## Citatos
+
+- id: c-05814
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ir toliau didžiojoje Lietuvos
+    kunigaikštijoje vieni šalia kitų be trynimosi gyveno pagonys ir
+    graikų tikėjimo išpažinėjai, t. y. lietuviai ir rytiniai slavai. Nuo
+    Gedimino laiku jau buvo paaugęs ir katalikų skaičius, kurį didino
+    iš Lenkijos ir ordino žemiu vis naujai atvedami belaisvių būriai.
+    O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo
+    vienuolyną.
+  citata_rodoma: "O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo\nvienuolyną."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108329
+
+- id: c-05815
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nuo
+    Gedimino laiku jau buvo paaugęs ir katalikų skaičius, kurį didino
+    iš Lenkijos ir ordino žemiu vis naujai atvedami belaisvių būriai.
+    O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo
+    vienuolyną. Tik iš Gedimino laikais nubaustų dviejų pranciškonų
+    fakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko
+    bendra su tikrove neturinčios legendos, būk, Algirdui valdant,
+    Vilniuje buvę nukankinti 36 pranciškonai.
+  citata_rodoma: "Tik iš Gedimino laikais nubaustų dviejų pranciškonų\nfakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko\nbendra su tikrove neturinčios legendos, būk, Algirdui valdant,\nVilniuje buvę nukankinti 36 pranciškonai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108320
+    - t-108307
+    - t-108294
+    - t-108299
+
+- id: c-22697
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
+  citata_rodoma: "Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-\nji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių \nVilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų \nnužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų \npalaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-\ntrų vienuolynas)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108285
+
+- id: c-22699
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O vieno jų
+    turinys atpasakotas popiežiaus atsakyme Gediminui. Vienas tų
+    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
+    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
+    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
+    Greifswaldni, Stettinui ir Gotlando salai).
+  citata_rodoma: "O trys laiškai\n(V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­\nkonams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,\nGreifswaldni, Stettinui ir Gotlando salai)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108323
+
+- id: c-22700
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Savo laiškuose Vokietijon Gediminas kvietė Lietuvon visokiau­
+    sius amatininkus, pirklius, paminėdamas ir riterius su valstiečiais.
+    Kolonistams žadėjo jis daug lengvatų bei privilegijų ir per 10 metų
+    nereikalauti iš jų jokių mokesčių. Rašydamas Saksų pranciškonams
+    ir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,
+    pažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­
+    tytos katalikų bažnyčios.
+  citata_rodoma: "Rašydamas Saksų pranciškonams\nir domininkonams, Gediminas prašė atsiųsti į Lietuvą vienuolių,\npažymėdamas, jog Vilniuje ir Naugarduke esančios jo paties sta­\ntytos katalikų bažnyčios."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108292
+
+- id: c-22701
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Aiškiai perdėtais ordino kronikų duomenimis^11 , lietuvių pusėje esą
+    žuvę keliolika tūkstančių žmonių, o dar keli tūkstančiai esą prigėrę
+    Strėvoje, kai pati upė yra nesunkiai perbrendama. Įžymiųjų tarpe
+    aukų čia žuvo ir Narimantas Gediminaitis. Kryžiuočiai šitam retam
+    laimėjimui atžymėti pastatė du pranciškonų vienuolynus (Kara­
+    liaučiuje ir Vėluvoje).
+  citata_rodoma: "Kryžiuočiai šitam retam\nlaimėjimui atžymėti pastatė du pranciškonų vienuolynus (Kara­\nliaučiuje ir Vėluvoje)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108290
+
+- id: c-25142
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Gediminas iš popiežiaus Jono XXII buvo gavęs
+    raginimą krikštytis10 11. O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją.
+  citata_rodoma: "Jo paties dvare sukinėjosi ir turėjo įtakos\npranciškonai, kurie tvarkė kanceliariją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108282
+
+- id: c-31240
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1261 m. yra minimas jotvingių
+    misijoms skirtas vyskupas nominates Henrikas. Tada pranciškonai
+    turėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius^206.
+    Romos kurija siekė ir po pirmojo Lietuvos vyskupo Kristijono
+    mirties išlaikyti tą titulą.
+  citata_rodoma: "Tada pranciškonai\nturėjo organizuoti kryžiaus karą prieš jotvingius ir lietuvius^206.\nRomos kurija siekė ir po pirmojo Lietuvos vyskupo Kristijono\nmirties išlaikyti tą titulą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108280
+    - t-108313
+
+- id: c-31241
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O pats Lietuvos valdovas nebuvo joks
+    krikščionybės priešas. Jo paties dvare sukinėjosi ir turėjo įtakos
+    pranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­
+    rimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­
+    čiatikių srityse, priėmė jų tikėjimą.
+  citata_rodoma: "Jo paties dvare sukinėjosi ir turėjo įtakos\npranciškonai, kurie tvarkė kanceliariją. Keli Gedimino sūnūs (Na­\nrimantas, Karijotas ir Liubartas tikrai), gaudami savo dalis sta­\nčiatikių srityse, priėmė jų tikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108291
+
+- id: c-31243
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O vienuoliai (pranciškonai) veikė ir toliau, sostinėje laikydami savo
+    vienuolyną. Tik iš Gedimino laikais nubaustų dviejų pranciškonų
+    fakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko
+    bendra su tikrove neturinčios legendos, būk, Algirdui valdant,
+    Vilniuje buvę nukankinti 36 pranciškonai. Tose per kelis šimt­
+    mečius plačiai išgarsintose legendose visai neistorinis yra ir Petro
+    Goštauto asmuo : jis esą tariamus kankinius pargabenęs iš Len­
+    kijos^4.
+  citata_rodoma: "Tik iš Gedimino laikais nubaustų dviejų pranciškonų\nfakto rusų ir lenkų šaltiniuose XVI amž. buvo sukurtos nieko\nbendra su tikrove neturinčios legendos, būk, Algirdui valdant,\nVilniuje buvę nukankinti 36 pranciškonai. Tose per kelis šimt­\nmečius plačiai išgarsintose legendose visai neistorinis yra ir Petro\nGoštauto asmuo : jis esą tariamus kankinius pargabenęs iš Len­\nkijos^4."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108322
+
+- id: c-100489
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Rygos miesto tarė­
+    jas Henrikas fon Calmaras su savo kolega Jonu Roghenu 1323
+    metų liepos 18 dieną Liubeko miesto rotušėje, dalyvaujant
+    imperatoriaus kancleriui Janui fon Bremenui, daugeliui Liu­
+    beko katedros kanauninkų, dominikonų ordino vienuoliams
+    ir miesto tarybos nariams, įteikė dominikonų ordino kuni­
+    gams tariamus karaliaus Gedimino laiškus, prašydami juos
+    čia pat skaityti. Tad buvo perskaitytas tas laiškas ir du kiti,
+    kurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo
+    aptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką
+    daryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­
+    sius Ordino riterius, Rygos presbiterį, Vendeno komtūrą
+    Veimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau
+    99
+
+    ## Puslapis 116
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    ir Gotfridą fon Ostą.
+  citata_rodoma: "Tad buvo perskaitytas tas laiškas ir du kiti,\nkurie buvo įteikti miesto tarybai ir minoritų kustodui. Buvo\naptartas jų turinys ir pripažinta, jog prieš apsisprendžiant, ką\ndaryti, pritiktų kreiptis, patarimo į tuomet Liubeke buvoju­\nsius Ordino riterius, Rygos presbiterį, Vendeno komtūrą\nVeimarą fon Henę, Karkuso valdytoją Mikalojų fon Taršau\n99\n\n## Puslapis 116\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\nir Gotfridą fon Ostą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108303
+
+- id: c-100490
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tiesa, arkivyskupui Isamui tarpininkaujant,
+    tikrai buvo sudaryta lietuvių taikos sutartis su vokiečių Or­
+    dinu, bet pasiuntiniams grįžtant iš arkivyskupo, vieni pa­
+    keliui buvo užmušti, kiti pakarti arba paskandinti. Juk val­
+    dovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos
+    arkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­
+    čių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;
+    tik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­
+    ti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­
+    gąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­
+    nu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus
+    verčia dykynėmis, visada sakydami, jog visa tai daroma
+    krikščionybei ginti.
+  citata_rodoma: "Juk val­\ndovas Vytenis laišku popiežiaus legatą Pranciškų ir Rygos\narkivyskupą Fridrichą irgi prašė atsiųsti jam tam tikrą skai­\nčių minoritų, kuriems jau pastatytą bažnyčią norėjo' skirti;\ntik greitai Ordinas, tai sužinojęs, ginkluotą būrį jai sudegin­\nti pasiuntė. Juk taip pat nedorai Ordinas elgiasi ir su garbin­\ngąja dvasininkijos diduomene, kaip antai arkivyskupais Jo­\nnu ir Fridrichu, juk tokius kraštus kaip Žiemgalą bei kitus\nverčia dykynėmis, visada sakydami, jog visa tai daroma\nkrikščionybei ginti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108310
+
+- id: c-100491
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­
+    sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­
+    liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums
+    drauge su kitomis savo avimis [įeiti] į gausumo ganyklą;
+    tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­
+    tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes
+    norime], kad greičiau būtų pabaigtas dievo darbas ir nie­
+    kais pavirstų klastinga apgaulė.
+    Mes pageidaujame per jus ir jūsų brolius paskelbti savo
+    nutarimą visuose miestuose, vietovėse ir kaimuose ir pa­
+    skatinti žmones išganingais pamokymais, kad tai, ką Die­
+    vas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­
+    tų danguose su palaimintaisiais. Dėl to mes norime sukviesti
+    vyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­
+    siškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­
+    rališkajame mieste, vardu Vilnius, antrą Naugarduke; prie
+    jų priskirkite mums šiais metais keturis brolius, mokančius
+    lenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir
+    63
+
+    ## Puslapis 80
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    amore nostri.
+  citata_rodoma: "Mes pageidaujame per jus ir jūsų brolius paskelbti savo\nnutarimą visuose miestuose, vietovėse ir kaimuose ir pa­\nskatinti žmones išganingais pamokymais, kad tai, ką Die­\nvas palaistė, jis ir išaugintų, ir nupiautų, o taip pat patalpin­\ntų danguose su palaimintaisiais. Dėl to mes norime sukviesti\nvyskupų, kunigų ir bet kurio ordino vienuolių, ypač iš jū­\nsiškių, kuriems jau pastatėme dvi bažnyčias: vieną mūsų ka­\nrališkajame mieste, vardu Vilnius, antrą Naugarduke; prie\njų priskirkite mums šiais metais keturis brolius, mokančius\nlenkų, žemgalių ir rusų kalbas, tokius, kokie dabar yra ir\n63\n\n## Puslapis 80\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\namore nostri."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108288
+    - t-108302
+
+- id: c-100492
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilniaus kapitula pano­
+    ro ta garbe dalintis ir užtat tas pa­
+    čias karūnas savo kolegijai herbu
+    pasirinko, kad niekuo Krokuvos ka­
+    pitulai nenusileistų - Aaronas mirė
+    1059 metų spalio 9 dieną.
+    4
+    Apie šį vyskupą mūsų autoriai ne­
+    žino, tačiau Wadyngas  savo pran-
+    190
+
+    ## Puslapis 207
+
+    Il KNYGA
+    3. Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe
+    turėjęs raidę „Z", dieceziją tevaldė 7 metus - nuo 1400 metų
+    iki 1407 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108308
+
+- id: c-100493
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iš tikrųjų, daugelį kartų mūsų pirmtakai, norėdami su­
+    daryti taiką, siuntė savo pasiuntinius ponams Rygos arki­
+    vyskupams, tačiau tie [teutonų ordino broliai] juos žiauriai
+    nužudydavo, kaip tai matyti iš atvejo, buvusio pono Isamo
+    metu, kai jis, kaip viešpaties Bonifacijaus atstovas, sudarė
+    taiką bei paliaubas tarp mūsų ir teutonų namo brolių ir sa­
+    vo laišką mums atsiuntė; tačiau, kai pasiuntiniai grįžo iš po­
+    no Isamo namo, pakeliui vienus jie užmušė, kitus pakorė
+    arba privertė, kad jie patys pasiskandintų.
+    Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­
+    tęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­
+    pui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius
+    iš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir
+    jau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų
+    namo broliai pasiuntė aplinkiniais keliais savo kariuomenę
+    ir minėtą bažnyčią sudegino.
+  citata_rodoma: "Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­\ntęs savo laišką ponui legatui Pranciškui ir ponui arkivysku­\npui Fridrichui, prašydamas, kad jie atsiųstų jam du brolius\niš pranciškonų ordino, [drauge] paskirdamas jiems vietą ir\njau pastatytą bažnyčią. Apie tai sužinoję, Prūsijos iš teutonų\nnamo broliai pasiuntė aplinkiniais keliais savo kariuomenę\nir minėtą bažnyčią sudegino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108296
+    - t-108279
+
+- id: c-100495
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1. Andrius iš Vasilevo (Važila), iš švento Pranciškaus ordi­
+    no, lenkas, Aro ženklo herbo, pirmasis Vilniaus vyskupas,
+    iškeltas į tas pareigas 1387 m., mirė 1399 m.
+    2. Jonas Pliekta, pranciškonas, vyskupu tapo 1399 metais,
+    tačiau kodėl tebuvo vienerius metus, nėra jokių žinių4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108315
+
+- id: c-100496
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 227"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 227."
+  citata_originali: |
+    Mažesniųjų brolių ordinas — 1223 viešpaties metais, kai valdė popiežius Honorijus III.
+      Karmelio kalno atsiskyrėlių ordiną bei Mokinių slėnio brolių ordiną [Ordo fratrum valtis
+    scolarium] patvirtino tas pats valdovas popiežius Honorijus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108283
+
+- id: c-100497
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Būkite sveiki.
+    3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­
+    lius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems
+    Kristui vienuoliams ir garbingiems bei pamaldiems tėvams,
+    ministrams, kustodams ir gvardijonams ir visiems kitiems
+    pranciškonų ordino broliams, pasklidusiems visame pasau­
+    lyje, tačiau visų pirma Saksonijos ministrui ir visiems ki­
+    tiems broliams [siunčia] sveikinimą su linkėjimais tobulėti
+    ir nuolatinės sėkmės.
+    Mes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­
+    sų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­
+    liškojo sosto aukščiausiajam kunigui, kad jis padėtų mums
+    drauge su kitomis savo avimis [įeiti] į gausumo ganyklą;
+    tuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­
+    tiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes
+    norime], kad greičiau būtų pabaigtas dievo darbas ir nie­
+    kais pavirstų klastinga apgaulė.
+  citata_rodoma: "3) Gediminas, dieviškąja apvaizda lietuvių ir rusų kara­\nlius, Žemgalijos valdovas ir kunigaikštis, pasišventusiems\nKristui vienuoliams ir garbingiems bei pamaldiems tėvams,\nministrams, kustodams ir gvardijonams ir visiems kitiems\npranciškonų ordino broliams, pasklidusiems visame pasau­\nlyje, tačiau visų pirma Saksonijos ministrui ir visiems ki­\ntiems broliams [siunčia] sveikinimą su linkėjimais tobulėti\nir nuolatinės sėkmės.\nMes norime, kad jūs žinotumėte, jog mes pasiuntėme mū­\nsų laišką mūsų didžiai prakilniam viešpačiui Jonui, apašta­\nliškojo sosto aukščiausiajam kunigui, kad jis padėtų mums\ndrauge su kitomis savo avimis [įeiti] į gausumo ganyklą;\ntuo reikalu gavome atsakymą, jog greitai atvyksią jo pasiun­\ntiniai; jų delsimas mums kelia begalinį susirūpinimą, [nes\nnorime], kad greičiau būtų pabaigtas dievo darbas ir nie­\nkais pavirstų klastinga apgaulė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108287
+    - t-108309
+
+- id: c-100498
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ne kartą jau minoritai, apaš­
+    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
+    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
+    timu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną
+    Bučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir
+    18
+    Wremiennik Sofijski, p. 334.
+  citata_rodoma: "Ne kartą jau minoritai, apaš­\ntalavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo\npranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­\ntimu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­\nčiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,\nvaldovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­\nba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę\nįtaką jiems laidavo. Tas galingas didikas, paėmęs už žmoną\nBučiacką iš Podolės, priėmė ir Romos katalikų tikėjimą, ir\n18\nWremiennik Sofijski, p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108318
+
+- id: c-100499
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bemaž tuo pat metu stovėjo ir kita krikščionių šventykla,
+    Šv. Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
+    pilį gyveno pranciškonai, turėję dar Gedimino laikais pa­
+    statydintą bažnyčią toje vietoje, kur dabar yra Šventojo Kry­
+    žiaus bažnyčia ir bonifratrų špitolė. Tačiau per tą laisvai iš­
+    pažįstamų religijų įvairovę, palūžusios pagonybės
+    akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą
+    išpažįstančiųjų ir jų dvasininkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108298
+
+- id: c-100500
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Maždaug 1522 metais
+    pranciškonai vietoje sudegusios medinės taip pat išmūrijo iki
+    šios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­
+    dešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė,
+    Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­
+    vo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­
+    tydino nedidukę oratoriją, arba koplyčią14.
+    leidžiamos raketos, vyko įvairūs
+    šaudymai bei deginamos kitos ar­
+    tilerijos užtaisų ugnys".
+  citata_rodoma: "Maždaug 1522 metais \npranciškonai vietoje sudegusios medinės taip pat išmūrijo iki \nšios dienos tebestovinčią Šv. Mikalojaus bažnyčią. O po dvi­\ndešimties metų, kai sudegė medinė Šv. Kryžiaus bažnytėlė, \nVilniaus vyskupas Alšėnų kunigaikštis Povilas toje vietoje sa­\nvo sode, kur kadaise palaidoti kankiniai pranciškonai, pasta­\ntydino nedidukę oratoriją, arba koplyčią14."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108281
+    - t-108300
+
+- id: c-100502
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O. Franciszkanów.
+  citata_rodoma: "Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­\nnių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti \nLietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­\nse]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­\ntu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­\nmu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje \nsteigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats \ntapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­\ngi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,\ni\nGrzybowski knygoje Skarb \nnieoszacowany O O."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108289
+    - t-108327
+
+- id: c-100503
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Strijkovskis, 1. 406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
+  citata_rodoma: "406, pri­\nsimena dar vieną Gedimino dukrą, \nkuri esą buvusi anuomet garbingo \nriterio Dovydo, Gardino kašteliono, \narba tiksliau kunigaikščio, viešpata­\nvusio Gardino valdoje, žmona.\nIl\nGedimino laiškuose, rašytuose do­\nminikonų ir Mažesniųjų brolių, ar­\nba pranciškonų, ordinams bei Han­\nzos miestams, kurių autentiškas \n1323 metais notaro parengtas doku­\nmentas yra Karaliaučiaus Slaptaja-\n-  •  -\n20\n\n## Puslapis 37\n\nI  KNYGA\ngumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­\nnių pasirinko jo valdomų visų kraštų sostine tikriausiai \ntodėl, kad būdamas arčiau sienų su kryžiuočiais turėjo\nme archyve ir kuriuos Kotzebue \nišspausdino savo Prūsijos istorijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108316
+    - t-108328
+
+- id: c-100507
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bazilijaus ordi­
+    no vienuoliai, jo žmonos, minėtosios Tverės kunigaikštytės,
+    atkviesti, įsikūrė Vilniuje ir turėjo medinę savo bažnyčią17.
+    Bemaž tuo pat metu stovėjo ir kita krikščionių šventykla,
+    Šv. Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
+    pilį gyveno pranciškonai, turėję dar Gedimino laikais pa­
+    statydintą bažnyčią toje vietoje, kur dabar yra Šventojo Kry­
+    žiaus bažnyčia ir bonifratrų špitolė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108321
+
+- id: c-100508
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dar kitas vieškelis per Vil­
+    nios upę, prie bendro naudojimo malūno (dabar vadinamo
+    Vyskupo), iš miesto suko į Polocką. Jau trys krikščionių baž­
+    nyčios, nors neiškilios ir varganos, pagoniškų Vilniaus
+    šventyklų apsuptyje skleidė palaimingą tikėjimo šviesą; bū­
+    tent - Švento Mikalojaus bažnytėlė, rusų cerkvė, dabar ba­
+    zilijonų bažnyčia, ir pranciškonų bažnyčia, mūsų jau minė­
+    ta. Dviejų kitų bažnyčių griuvėsiai - Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108319
+    - t-108284
+
+- id: c-100509
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau per tą laisvai iš­
+    pažįstamų religijų įvairovę, palūžusios pagonybės
+    akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą
+    išpažįstančiųjų ir jų dvasininkų. Ne kartą jau minoritai, apaš­
+    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
+    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
+    timu į tikėjimą, pasmerkė save skaudžioms kančioms. Ta­
+    čiau, nepaisant pavojų, kurie jiems grėsė pačiame Vilniuje,
+    valdovo vietininko Lietuvoje Goštauto (Gastold, Gastoįvd) glo­
+    ba ne tik saugojo juos nuo negandų, bet pamažu vis didesnę
+    įtaką jiems laidavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108306
+
+- id: c-100510
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
+    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
+    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
+    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
+    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
+    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
+    ką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų
+    titulai buvo atiduoti uoliausiems lenkų kunigams, platinan­
+    tiems Lietuvoje Kristaus tikėjimą.
+  citata_rodoma: "Lenkų didžponiams patarus, pir­\nmuoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­\nrinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš\nJastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­\nnuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­\ntos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­\nką9. O keturi naujai įvesti prelatų ir aštuoni kanauninkų\ntitulai buvo atiduoti uoliausiems lenkų kunigams, platinan­\ntiems Lietuvoje Kristaus tikėjimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108317
+    - t-108324
+
+- id: c-100511
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  citata_originali: |
+    119. Apie švento Liudviko, Sicilijos karaliaus Roberto brolio, kanonizavimą
+
+      1317 viešpaties metais Jonas, popiežius, kanonizavo šventą Liudviką, Sicilijos karaliaus
+    Roberto brolį iš mažesniųjų brolių ordino,  ir liepė švęsti jo gimimą penktą dieną po
+    žolinės (Mart. p. 449).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108325
+
+- id: c-100514
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mergelės Marijos nekalto prasidėji­
+    mo], kuriuo Vilniaus pranciškonai
+    neteko savo jurisdikcijos, kokią tu­
+    rėjo savo pavaldiniams, įsikūru-
+    siems mieste, už bausmę, kad, kai li­
+    ga jų vienuolyne jau viešpatavo ir
+    plėtėsi į miestą, jie tai atkakliai slė­
+    pė, paniekinę karaliaus ir senatorių
+    saugumą, nes karalius ir senatoriai,
+    leisdami laiką Vilniuje, lengvai ga­
+    lėjo pakliūti į šią epidemiją. Todėl
+    karalius, dvasiškių ir pasauliečių se­
+    natorių patarimu, tuojau pat valdi­
+    nius, kuriuos pranciškonai turėjo
+    mieste ir priemiesčiuose, iš jų juris­
+    dikcijos atima, uždrausdamas, kad
+    nuo tol jau vaito daugiau nuo savęs
+    neskirtų, bet kad kreiptųsi į karališ­
+    kąjį vaitą ir magistrato jurisdikciją.
+    Priekio sprendimo prikabintas Lie­
+    tuvos antspaudas.
+  citata_rodoma: "Todėl\nkaralius, dvasiškių ir pasauliečių se­\nnatorių patarimu, tuojau pat valdi­\nnius, kuriuos pranciškonai turėjo\nmieste ir priemiesčiuose, iš jų juris­\ndikcijos atima, uždrausdamas, kad\nnuo tol jau vaito daugiau nuo savęs\nneskirtų, bet kad kreiptųsi į karališ­\nkąjį vaitą ir magistrato jurisdikciją.\nPriekio sprendimo prikabintas Lie­\ntuvos antspaudas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108286
+
+- id: c-100517
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
+    Cereteno vyskupu.
+  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108326
+
+- id: c-100518
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    4
+    Apie šį vyskupą mūsų autoriai ne­
+    žino, tačiau Wadyngas  savo pran-
+    190
+
+    ## Puslapis 207
+
+    Il KNYGA
+    3. Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe
+    turėjęs raidę „Z", dieceziją tevaldė 7 metus - nuo 1400 metų
+    iki 1407 m. Gražumu ir įkalbinėjimais daugelį pagonių
+    krikščionių tikėjimą priimti paskatino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108295
+
+- id: c-100519
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Todėl, rūpindamiesi savimi pačiais, siųskite mums iš sa­
+    vo visų kraštų aukštus pasiuntinius, teisingus ir pasitikėji­
+    mo vertus vyrus; mes, be savo parašo ir be šio savo laiško,
+    sutvirtinto mūsų karališkuoju antspaudu, - be visa to, iškil­
+    mingai prižadame jums visiems, kad nustatysime tokią tar­
+    pusavio taiką, apie kokią krikščionys niekados nė negalvojo.
+    Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­
+    nuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,
+    [tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­
+    daro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]
+    sielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­
+    do dvasininkus; patariame kiekvienam valdovui pasisaugoti
+    tokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­
+    kai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka
+    malone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­
+    lių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­
+    jamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios
+    padėties amatininkams, būtent, meistrams, kurpiams, račiams,
+    akmenskaldžiams, druskininkams, malūnininkams, sidabra-
+    kaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­
+    tiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su
+    59
+
+    ## Puslapis 76
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    medio ipse (1) at omni opere regio sint exempti, termino pre-
+    dicto expirato et tantum (ü) secundum terre fertilitatem
+    datunt decimam prout in aliis regnis vėl provinciis (m) darė
+    consueverunt.
+  citata_rodoma: "Vyskupų, kunigų, dominikonų ir pranciškonų ordino vie­\nnuolių tokių prisikviesime, kurių gyvenimas girtinas ir doras,\n[tačiau] nepageidaujame atėjimo tokių, kurie iš vienuolyno pa­\ndaro plėšikų prieglobstį ir pardavinėja aukas, žalodami [savo]\nsielas, ir iš kur išeina mokyti plėšikėliai ir [žmonės], kurie žu­\ndo dvasininkus; patariame kiekvienam valdovui pasisaugoti\ntokių vienuolių. Taip pat, be visa to, [ką suteikė] mūsų pirmta­\nkai, jau šiuo savo raštu skelbiame, jog mūsų žemė karališka\nmalone yra laisva [nuo mokesčių], nuo muitų ir kelio prievo­\nlių visiems pirkliams, riteriams, vasalams; juos aprūpinsiu pa­\njamomis kiekvieną pagal jo padėtį; [tai suteiksiu] bet kokios\npadėties amatininkams, būtent, meistrams, kurpiams, račiams,\nakmenskaldžiams, druskininkams, malūnininkams, sidabra-\nkaliams, svaidomųjų prietaisų gamintojams, žvejams ir [ki­\ntiems] bet kokios padėties; tegu jie atvyksta [į mūsų žemę] su\n59\n\n## Puslapis 76\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\nmedio ipse (1) at omni opere regio sint exempti, termino pre-\ndicto expirato et tantum (ü) secundum terre fertilitatem\ndatunt decimam prout in aliis regnis vėl provinciis (m) darė\nconsueverunt."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108297
+    - t-108311
+
+- id: c-100520
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be
+    to, miesto aktuose yra Žygimanto
+    Augusto dekretas (anno 1552 in cras­
+    tino conceptionis B . Mariae Virginis) -
+    1552 metais, rytojaus dieną po Švč.
+    Mergelės Marijos nekalto prasidėji­
+    mo], kuriuo Vilniaus pranciškonai
+    neteko savo jurisdikcijos, kokią tu­
+    rėjo savo pavaldiniams, įsikūru-
+    siems mieste, už bausmę, kad, kai li­
+    ga jų vienuolyne jau viešpatavo ir
+    plėtėsi į miestą, jie tai atkakliai slė­
+    pė, paniekinę karaliaus ir senatorių
+    saugumą, nes karalius ir senatoriai,
+    leisdami laiką Vilniuje, lengvai ga­
+    lėjo pakliūti į šią epidemiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108301
+
+- id: c-100521
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    XIX. Visos detalės apie Lietu­
+    vos pranciškonus yra šio didžiulio
+    ordino analų rinkinio septintame to­
+    me. Grzybowski  s, pranciško­
+    nas, anksčiau nurodytoje knygoje
+    (8 p.) sako, kad Goštautas pranciš­
+    konu tapęs Krokuvoje, o paskui ap­
+    sigyvenęs Vilniuje, savo įkurtame
+    vienuolyne, Vilniaus miestiečius
+    vertęs į Kristaus tikėjimą.
+  citata_rodoma: "XIX. Visos detalės apie Lietu­\nvos pranciškonus yra šio didžiulio \nordino analų rinkinio septintame to­\nme. Grzybowski  s, pranciško­\nnas, anksčiau nurodytoje knygoje \n(8 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108305
+
+- id: c-100527
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tad atmeskite tą bedievišką sąjungą: o ka­
+    dangi Viešpats jūsų ginklą valdo ir narsos didybės suteiks,
+    nesiliaukite kovoję su priešu ir tik po visiško jo sunaikinimo
+    pelnysite garbę žemėje, o danguje triumfo laurus"8.
+    Kai maždaug tuo metu sužinota, jog Gedimino skundas
+    tikrai popiežiui pasiųstas, ne tik Mažesniųjų brolių visos Prū­
+    sijos kustodas, to paties ordino Torunės, Kulmo, Braunsber-
+    go ir Neuenbergo gvardijonai, bet ir didžios garbės verti aba­
+    tai: Paulius iš Olivos ir Jordanas iš Pelplino stojo ginti
+    kryžiuočių, tiesiogiai popiežiui dviejuose laiškuose pranešda­
+    mi, esą meilė tiesai ir pareiga jos laikytis verčianti juos pa­
+    reikšti Jo Šventenybei, kad Ordino brolių garbė tapo šmeiži­
+    kišku ir nedoru būdu suteršta, nes pavyduoliai jų priešai išdrįso
+    teigti, esą ordinas karštai priešinęsis Lietuvos karaliaus pa­
+    geidavimui priimti krikščionių tikėjimą*. Jie tad, esant tokiai
+    Minus ergo decet militantes domino,
+    genti peccatrici, populo nequam, filiis
+    sceleratis aliqua pactione conjungi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-108293
+
+- id: c-167938
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 226"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 226."
+  citata_originali: |
+    Naują to
+    paties ordino vienuolių būrį pakvietė Goštautas į Vil­
+    nių ir paskyrė jiems vietą netoli Vingrių pelkės, ža­
+    dėdamas pastatyti ten pat šv. Mergelės Marijos baž­
+    nyčią. Pirmtakų krauju sudrėkintas laukas, įpėdiniams
+    negailint triūso, atnešė gausų pamaldumo derlių, ku­
+    riuo mes ligi šiol džiaugiamės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184577
+
+- id: c-170680
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 222"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 222."
+  citata_originali: |
+    ‘ Pasakojimas, kad Petras Goštautas atsikvietęs | Vilnių dar
+    pranciškonų, taip pat laikomas legenda, kilusia, veikiausiai, dar
+    XV a. antrojoje pusėje. Neabejotina, kad pranciškonai, jsikūru-
+    siejl prieš 1387 m. Vilniaus vienuolyne prie Trakų vartų, buvo kilų
+    iš Lenkijos ir daugiausia iš Krokuvos, nes vilniškio pranciškonų
+    vienuolyno, kaip ir krokuviškio, pavadinimas turėjo tų patį prie-
+    vardj — „in Arena" arba „na Piaskach".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187741
+
+- id: c-170681
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Neilgai trukus, didysis kunigaikštis Algirdas davė
+    Petrui Goštautui Vilnių. Būdamas Vilniaus vaivada \
+    didžiajam kunigaikščiui Algirdui leidus, jis pirmą kar­
+    tą parsikvietė iš Lenkijos 14 vienuolių pranciškonų5 ,
+    ir savo rūmuose Vilniuje, kur dabar yra Vilniaus vys­
+    kupo rūmai6 , įsteigė dievo motinos vienuolyną, o sau
+    rūmus pasistatė Smėlynėje7 , priešais Vingrius8 , kur
+    dabar dievo motinos vienuolynas9 . Tasai Petras Goš­
+    tautas pirmas priėmė Romos tikėjimą ir parnešė jį
+    j Lietuvą l0 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187742
+
+- id: c-170682
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    APIE KETURIOLIKOS VIENUOLIŲ PRANCIŠKONŲ NUŽUDYMĄ
+    VILNIUJE
+    Tuo melu kai didysis kunigaikštis Algirdas žy­
+    giavo prieš Maskvą, o su juo buvo jo vaivada Petras
+    Goštautas, susirinko Vilniaus miesliečiai pagonys ir di­
+    deliu būriu atėjo prie vienuolyno; nenorėdami, kad
+    būtų Romos tikėjimo krikščionių, vienuolyną sudegino
+    ir septynis vienuolius sukapojo, o kitus septynis vie­
+    nuolius, pririšę prie kryžių, paleido Nerimi žemyn, sa­
+    kydami: „Nuo saulėlydžio atėjote, j saulėlydį ir grįž­
+    kite. Kam mūsų dievus naikinote." 2 O vyskupo sode,
+    kur juos iškapojo, toje vietoje ir dabar stovi kryžius 3 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187743
+
+- id: c-170683
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 236"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 236."
+  citata_originali: |
+    Pirmuoju Vilniaus vyskupu (1388—
+    I398.XI.14) buvo Lenkijos pranciškonas, būvąs Sereto (Vengrijoje)
+    vyskupas ir Vengrijos karalienės Elžbietos nuodėmklausys Andrius,
+    klaidingai vadinamas Andriumi Vasila. BK nurodomas pranciško­
+    nas Motiejus buvo pirmas Žemaičių vyskupas (1417— 1421) ir penk­
+    tasis Vilniaus vyskupas (1422—1453).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187744
+
 ## Ryšiai
-- Puolė Pranciškonų ordiną: [[objektai/grupes/Totoriai]], [[objektai/grupes/Vilniaus miestiečių luomas]], [[objektai/grupes/Vilniaus prastuomenė]]
-- Gynė Pranciškonų ordiną: [[objektai/asmenys/Petras Goštautas]]
-- Paskyrė Pranciškonų ordiną: [[objektai/asmenys/Vytenis|Vytenis (valdovas, XIII–XIV a.)]]
-- Rėmė Pranciškonų ordiną: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]]
+- Puolė Pranciškonų ordiną: [[objektai/grupes/Vilniaus prastuomenė]]
 - Pranciškonų ordinas keliavo į [[objektai/vietos/Vilnius]]
 - Pranciškonų ordinas pastatė [[objektai/daiktai/Kryžius]]
-- Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Pranciškonų ordinas rėmė [[objektai/grupes/Kryžiuočių ordinas]]

@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antikos žmonės
 
@@ -13,14 +25,13 @@ atnaujinta: ''
 Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum.
 
 ## Teiginiai
+
 <a id="claim-t-189275"></a>
 - t-001
   global_id: t-189275
-  teiginys: 'Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum.'
+  teiginys: "Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172163
 - susijęs iš [[objektai/paprociai/Laukų apvalymas arba pašventinimas apeinant javus su auka.md#claim-t-189842|Laukų apvalymas arba pašventinimas apeinant javus su auka]]: Narbutas laukų apvalymo apeigas siejo su antikos praktika ir nurodė, kad romėnai jas vadino Ambervales.
 - susijęs iš [[objektai/paprociai/Lietuvių priesaikos formulės ir užkeikimai.md#claim-t-189844|Lietuvių priesaikos formulės ir užkeikimai]]: Narbutas lietuvių priesaikas lygino su antikos priesaikomis ir nurodė formules „dėl Dievo“ bei „Kad aš skradžiai prapultau“.
 - susijęs iš [[objektai/zodynas/Gabija Gabie.md#claim-t-189294|Gabija Gabie]]: Narbutas Gabie sieja su Antikos saulės kaip ugnies šaltinio garbinimu ir vardais Gabalus bei Heliogabalus.
@@ -40,6 +51,7 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
 - susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189171|Plikasis kalnas Lyse góry]]: Narbutas plikaisiais kalnais (Lyse góry) vadino slavų šalyse paplitusius, ypač šiaurėje, nuogus ir be medžių aukų kalnus.
 - susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo juos su lemties dievybėmis Sors bei Fatum.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -51,8 +63,32 @@ Narbutas graikus ir romėnus šiame veikale vadino Antikos žmonėmis ir siejo j
     dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
     pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
     viskam.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172163
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 90"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 90."
+  citata_originali: |
+    Iš jų dažnai galima išgirsti: tas jau
+    biją winnam Likis („taip jam jau buvo lemta“)1 2.
+    Graikai bei romėnai, kuriuos šiame veikale minėsime va­
+    dindami apskritai Antikos žmonėmis, turėjo dvi atitinkamas
+    dievybes -  Sors ir Fatum. Pirmoji deivė buvo lemtis, valdanti
+    pasaulį ir dievus, antrajai buvo pripažįstama vienvaldė galia
+    viskam.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189275

@@ -15,6 +15,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Surinkti ir išsaugoti mokslui visus kalbos, istorijos, tautosakos ir panašius duomenis, liečiančius Lietuvą ir lietuvius
 
@@ -27,17 +39,16 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
 <a id="claim-t-02077"></a>
 - t-001
   global_id: t-02077
-  teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius.'
+  teiginys: "Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius."
   pagrindžia:
-    - c-002
+    - c-02316
 
 <a id="claim-t-02078"></a>
 - t-002
   global_id: t-02078
-  teiginys: 'Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus.'
+  teiginys: "Draugija nesirūpino kelti lietuvybės, o rinko ir saugojo mokslo reikalams lietuviškosios kultūros palaikus."
   pagrindžia:
-    - c-001
-
+    - c-02315
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,6 +63,7 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     tuviškosios kultūros palaikus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +82,51 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
     duomenis, liečiančius Lietuvą ir lietuvius".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02315
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Savo tyrinėjimų
+    rezultatams skelbti ji įsikūrė specialų žurnalą. Draugija savo sta-
+    tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
+    ti mokslui visus kalbos, istorijos, tautosakos ir panašius
+    duomenis, liečiančius Lietuvą ir lietuvius". Taigi ji nesirūpino
+    kelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-
+    tuviškosios kultūros palaikus.
+  citata_rodoma: "Taigi ji nesirūpino\nkelti lietuvybės, o vien tik rinkti ir saugoti mokslo reikalui lie-\ntuviškosios kultūros palaikus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02078
+
+- id: c-02316
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Maždaug tuo
+    pat metu (1879 m.) buvo įkurta vokiečių mokslininkų draugija
+    _Litauische Literarische Gesellschaft,_ kurios tikslas buvo ty-
+    rinėti nykstančią lietuvių kultūrą ir jų kalbą. Savo tyrinėjimų
+    rezultatams skelbti ji įsikūrė specialų žurnalą. Draugija savo sta-
+    tuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-
+    ti mokslui visus kalbos, istorijos, tautosakos ir panašius
+    duomenis, liečiančius Lietuvą ir lietuvius".
+  citata_rodoma: "Draugija savo sta-\ntuto § 1 įsirašė šitokį darbo tikslą: „Surinkti ir išsaugo-\nti mokslui visus kalbos, istorijos, tautosakos ir panašius\nduomenis, liečiančius Lietuvą ir lietuvius\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02077

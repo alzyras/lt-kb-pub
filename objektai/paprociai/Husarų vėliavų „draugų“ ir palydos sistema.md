@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Husarų vėliavų „draugų“ ir palydos sistema
 
@@ -44,38 +56,37 @@ Nenurodyta
 <a id="claim-t-71798"></a>
 - t-001
   global_id: t-71798
-  teiginys: 'Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą.'
+  teiginys: "Husarų „draugų“ tarnai nestodavo į rikiuotę, užsiimdavo ūkine veikla ir saugodavo stovyklą."
   pagrindžia:
-    - c-002
+    - c-43157
 
 <a id="claim-t-71800"></a>
 - t-002
   global_id: t-71800
-  teiginys: 'Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a.'
+  teiginys: "Husarai ir jų XVII a. pavyzdžio organizacija Abiejų Tautų Respublikoje egzistavo iki XVIII a."
   pagrindžia:
-    - c-003
+    - c-43158
 
 <a id="claim-t-71801"></a>
 - t-003
   global_id: t-71801
-  teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
+  teiginys: "Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas."
   pagrindžia:
-    - c-004
+    - c-43159
 
 <a id="claim-t-71802"></a>
 - t-004
   global_id: t-71802
-  teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
+  teiginys: "Husarų vėliavų branduolį sudarė turtingi bajorai - draugai."
   pagrindžia:
-    - c-001
+    - c-12385
 
 <a id="claim-t-71803"></a>
 - t-005
   global_id: t-71803
-  teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.'
+  teiginys: "XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje."
   pagrindžia:
-    - c-004
-
+    - c-43159
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -101,7 +112,8 @@ Nenurodyta
     ketvirtąją eiles.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -137,6 +149,7 @@ Nenurodyta
     pralaužti priešų gretas („verčiančioji“ banga).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,6 +169,7 @@ Nenurodyta
     _ palydos poreikius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,8 +190,123 @@ Nenurodyta
     tai, sudarę vėliavą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-003
+
+## Citatos
+
+- id: c-12385
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Didžiausia buvo didžiojo etmono husarų vėliava, kurią sudarė
+    200 raitelių. Įprasta vėliava - 100-150 raitelių. Husarų vėliavos pa-
+    grindas buvo „draugai“ — turtingi bajorai. Kiekvienas „draugas“
+    atsivesdavo palydą ir tarnus. Palydos struktūra
+    greičiausiai susiformavo iš viduramžių laikų ri-
+    terių „ieties“, ją sudarė įvairių socialinių sluoksnių
+    atstovai, dažniausiai nelabai turtingi bajorai, kuriuos
+    samdydavosi „draugas“. Pabuvojęs husarų „draugo“
+    palydoje ir užsidirbęs, neturtingas bajoras pats ga-
+    lėdavo tapti, tarkime, kazokų vėliavos „draugu“
+    (lengvosios kavalerijos palydą būdavo pigiau iš-
+    laikyti). Tačiau husarų „draugo“ palydoje galėjo
+    būti ir miestiečiai ar net ir valstiečiai iš „draugo“
+    dvaro. Palydą ginklais, šarvais ir žirgais aprūpindavo
+    „draugas“, palydos ginkluotė būdavo mažiau puošni.
+    „Draugai“ sudarydavo vėliavos priekinę eilę, jo pa-
+    lyda stodavo už jo ir sudarydavo antrąją, trečiąją ir
+    ketvirtąją eiles.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71802
+
+- id: c-43157
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Draugas“ atsivesdavo ir tarnus, kurie į rikiuotę
+    nestodavo, o užsiimdavo ūkine veikla, saugodavo
+    stovyklą ir kitaip užtikrindavo „draugo“ ir jo
+
+    mūšiui, dalyvaudavo visi husarai „draugai“, todėl kiekvienas vė-
+    liavų pirmos eilės karys puikiai žinodavo mūšio sumanymą.
+    Husarai dėvėjo krūtinšarvį - kirasą, svėrusią apie 15 kg, pečius
+    saugodavo ilgi metaliniai antpečiai, rankos ir kojos taip pat būdavo
+    apsaugotos, viskas sujungta odiniais dirželiais, galvą saugodavo
+    šalmas, paprastai su nosies apsauga. Pagrindinis husaro ginklas
+    buvo ilga 3-6 metrų ietis, kuri paprastai būdavo kiek ilgesnė nei
+    vakarietiškų pėstininkų pikė (apie 4,5—5 m), tačiau daug lengvesnė
+    (ji būdavo tuščiavidurė). Kontakto metu husaro ietis sutrupėdavo
+    į šipulius ir prireikus ataką pakartoti, pirmosios eilės husarai pa-
+    imdavo kitą ietį iš antros eilės husarų. Jei husaras nebetu-
+    rėdavo ieties, puldamas jis naudodavo dūrimui skirtus
+    trumpesnius ginklus - palašą arba konseržą, kitaip estoką
+    (panašų į špagą ilgąjį kavalerijos durtuvą). Artimoje ko-
+    voje husarai naudodavo kardus ir pistoletus, buožes ir pan.
+    Husarai paprastai atakuodavo priešą dviem linijomis (ban-
+    gomis), kurių kiekviena būdavo sudaryta iš kelių (daž-
+    niausiai keturių) husarų eilių. Pirmoji atakuojančių
+    „ husarų linija turėdavo susilpninti priešų rikiuotę
+    („užkabinančioji“ banga), o antroji linija turėdavo
+    pralaužti priešų gretas („verčiančioji“ banga).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71798
+
+- id: c-43158
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Dažniausiai šio periodo Lenkijos husarai vaiz-
+    duojami su sparnais, pritvirtintais prie nugaros ar
+    prie žirgo balno. Tvirty duomenų apie Lietuvos
+    kariuomenės husarų sparnus neaptikta.
+    Husarai ir jų XVII a. pavyzdžio organizacija eg-
+    zistavo ATR iki XVIII a.
+
+    _ palydos poreikius.
+  citata_rodoma: "Husarai ir jų XVII a. pavyzdžio organizacija eg-\nzistavo ATR iki XVIII a.\n\n_ palydos poreikius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71800
+
+- id: c-43159
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    _ palydos poreikius.
+    „Draugų“ palydos buvo vieninteliai viene-
+
+    Lietuvos ir Lenkijos husarai - vienintelė xvii a.
+
+    „šoko kavalerija“ Europoje. ATR kariuomenės pratęsė
+    Europos riterių atakos tradiciją, o Vakarų Europoje xVII a.
+    pralaužiamosios kavalerijos atakos nebuvo naudojamos
+
+    tai, sudarę vėliavą.
+  citata_rodoma: "„Draugų“ palydos buvo vieninteliai viene-\n\nLietuvos ir Lenkijos husarai - vienintelė xvii a.\n\n„šoko kavalerija“ Europoje. ATR kariuomenės pratęsė\nEuropos riterių atakos tradiciją, o Vakarų Europoje xVII a.\npralaužiamosios kavalerijos atakos nebuvo naudojamos\n\ntai, sudarę vėliavą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71803
+    - t-71801

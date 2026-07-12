@@ -11,10 +11,23 @@ date_start: '1861'
 date_end: '1905'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # tautinis atgimimas
 
@@ -53,10 +66,9 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
 <a id="claim-t-05466"></a>
 - t-001
   global_id: t-05466
-  teiginys: 'Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu.'
+  teiginys: "Daukanto istorijos darbai šiame šaltinyje vertinami kaip reikšmingi tautinio atgimimo laikotarpiu."
   pagrindžia:
-    - c-001
-
+    - c-05595
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,7 +85,31 @@ Terminas vartojamas ir kaip istoriografinis laikotarpio vardas, ir kaip judėjim
     dėtai karčios kritikos^59.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-05595
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jokia Daukanto istorijos rašymo ir jo metodo kritika tačiau
+    nepajėgs sumažinti jo didelės reikšmės tautinio atgimimo laikotar­
+    pyje. Daukantas lietuvių tautinės sąmonės išsivystymui yra davęs
+    gana reikšmingų paskatų^58. Jis pirmasis gana aiškiai rodė kelią,
+    kad lietuviams reikia atsiskirti nuo «koroniarų » (lenkų). Ne tik
+    dėl savo žemaitiškai kieto antilenkiško nusistatymo, bet ir dėl savo
+    istorijos rašymo metodo Daukantas—tuo metu, kai Valančius už
+    savo Žemaičių Vyskupystę buvo giriamas —susilaukė iš lenkų per­
+    dėtai karčios kritikos^59.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05466

@@ -11,13 +11,25 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - karalius
   - kunigaikštis
-  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kristupas Radvila
 
@@ -34,16 +46,16 @@ Nenurodyta
 <a id="claim-t-87402"></a>
 - t-001
   global_id: t-87402
-  teiginys: '1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą.'
+  teiginys: "1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą."
   pagrindžia:
-    - c-002
+    - c-83382
 
 <a id="claim-t-87403"></a>
 - t-002
   global_id: t-87403
-  teiginys: '1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.'
+  teiginys: "1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui."
   pagrindžia:
-    - c-001
+    - c-83381
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49421|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas II Radvila.md#claim-t-49422|Kristupas II Radvila]]: 1633 m. žiemą tuometinis Lietuvos lauko etmonas Kristupas II Radvila atskubėjo į pagalbą.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila Perkūnas.md#claim-t-79095|Kristupas Radvila Perkūnas]]: Šešiolikmetis Kristupas Radvila Perkūnas buvo tarp karių greta didžiojo etmono Mikalojaus Radvilos.
@@ -125,6 +137,7 @@ Nenurodyta
     lonybę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,13 +175,113 @@ Nenurodyta
     ir visokeriopos sėkmės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Tėvai: [[objektai/asmenys/Radvila]]
-- Kristupas Radvila keliavo į [[objektai/vietos/Rusija]], [[objektai/vietos/Rževas]]
-- Kristupas Radvila užėmė [[objektai/vietos/Usviatai]]
-- Kristupas Radvila surengė žygį į [[objektai/vietos/Veližas]]
+## Citatos
+
+- id: c-83381
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    354
+
+    ## Puslapis 371
+
+    IV KNYGA
+    B) ATVIRAS LIETUVOS PONŲ
+    TARYBOS LAIŠKAS
+    DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ
+    TURKIJOS ČLAUŠUI IBRAHIMUI,
+    SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
+    VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T,
+    O JO NESANT VILNIUJE, VAIVADIJOS VIETININKUI
+    KUNIGAIKŠČIUI JONUI BOLESLAVOVIČIUI SVIRSKIUI IR
+    VILNIAUS VAITUI STANISLOVUI SABINAI,
+    ĮPAREIGOJANTIS VILNIAUS MIESTE PARINKTI
+    GERUS NAMUS APSISTOTI TAM ČIAUŠUI IR
+    ATITINKAMAM LAIKUI GARANTUOTI SAUGŲ GYVENIMĄ
+    (Iš originalo)
+    Šviesiajam dauggaliui ponui Jo Malonybei Kristupui Rad­
+    vilai, Dubingių ir Biržų kunigaikščiui, Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės lauko etmonui, Solecko, Ūž-
+    endovo ir Borisovo seniūnui, Eustachijus Valavičius, Vilniaus
+    kaštelionas, Lietuvos Didžiosios kunigaikštystės kancleris, Be-
+    restos ir Kobrino seniūnas, Mikalojus Manvydas Dorohostais-
+    kis, Polocko vaivada, Lepelio seniūnas, Šerešovo valdytojas
+    ir Veliuonos tėvonis Žemaičių Gondingos ir Baisogalos že­
+    mėje, Mikalojus Tolvaišas, Žemaičių kaštelionas, Rodūnios
+    seniūnas, Leonas Sapiega, Lietuvos Didžiosios Kunigaikštys­
+    tės pakancleris, Slonimo, Markovo ir Medilo seniūnas, Teodo­
+    ras Skuminas, Krašto iždininkas ir Lietuvos Didžiosios Kuni­
+    gaikštystės raštininkas, Breslaujos ir Alytaus seniūnas, - o jo
+    malonybės nesant, tuo laiku - ponui Vilniaus vaivadai, Vil­
+    niaus vietininkui Jo Malonybei tenykščiam kunigaikščiui
+    355
+
+    ## Puslapis 372
+
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
+    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
+    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
+    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
+    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
+    mas tam tikrų reikalų į jo karališkąją malonybę, palikęs Vil­
+    niaus mieste tarnus su žirgais ir kai kuriais savo daiktais, būtų
+    atvažiavęs čia, pas jo malonybę karalių į Gardiną, bet Vieš­
+    pats Dievas savo šventąja valia tuo laiku jo karališkąją malo­
+    nybę mūsų valdovą teikėsi pašaukti į savo šventąją garbę,
+    mus ir visą Respubliką ištikus nelaimei, tasai čiaušas negali
+    būti šiuo metu išsiųstas neišsprendus tų reikalų, dėl kurių
+    buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
+    lonybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87403
+
+- id: c-83382
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Norėdami, kad šis mūsų valios pareiški­
+    mas greičiau pasiektų žmones, įsakėme tai perrašyti, kad ta­
+    da vienas būtų prie mūsų, kitas - pas jos didenybę karalaitę
+    Oną, trečias - Tikocino pilyje. Rašyta Varšuvoje gegužės mė­
+    nesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­
+    tyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­
+    raisiais metais.
+
+    ## Puslapis 367
+
+    IV KNYGA
+    IX
+    A) LIETUVOS PONŲ TARYBOS LAIŠKAS,
+    RAŠYTAS IŠ GARDINO 1586 METŲ
+    GRUODŽIO MĖNESIO 13 DIENĄ
+    KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
+    VILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,
+    PRANEŠANTIS APIE KARALIAUS STEPONO BATORO
+    MIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ
+    DĖL NEIŠMOKĖTOS ALGOS
+    KARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI
+    (Iš originalo)
+    Maloningasis Pone,
+    Pavesdami Jūsų Didenybės malonei nuolankią ir paklus­
+    nią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos
+    ir visokeriopos sėkmės.
+  citata_rodoma: "Rašyta Varšuvoje gegužės mė­\nnesio 6 dieną, Viešpaties metais tūkstantis penki šimtai sep­\ntyniasdešimt pirmais, mūsų karaliavimo keturiasdešimt ant­\nraisiais metais.\n\n## Puslapis 367\n\nIV KNYGA\nIX\nA) LIETUVOS PONŲ TARYBOS LAIŠKAS, \nRAŠYTAS IŠ GARDINO 1586 METŲ  \nGRUODŽIO MĖNESIO 13 DIENĄ  \nKUNIGAIKŠČIUI KRISTUPUI RADVILAI,  \nVILNIAUS VAIVADAI, LIETUVOS LAUKO ETMONUI,  \nPRANEŠANTIS APIE KARALIAUS STEPONO BATORO  \nMIRTĮ IR ĮSPĖJANTIS APIE GALIMĄ MAIŠTĄ \nDĖL NEIŠMOKĖTOS ALGOS  \nKARALIAUS RŪMŲ KARIUOMENEI IR SARGYBAI\n(Iš originalo)\nMaloningasis Pone,\nPavesdami Jūsų Didenybės malonei nuolankią ir paklus­\nnią mūsų tarnystę, linkime Jūsų Malonybei geros sveikatos \nir visokeriopos sėkmės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87402

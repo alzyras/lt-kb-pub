@@ -11,6 +11,18 @@ tags:
   - kraštas
   - ordinas
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tanenbergas
 
@@ -23,9 +35,16 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
 <a id="claim-t-186422"></a>
 - t-001
   global_id: t-186422
-  teiginys: 'Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi.'
+  teiginys: "Sąjungininkai, paėmę Gilgenburgą, žygiavo Tanenbergo kryptimi."
   pagrindžia:
-    - c-001
+    - c-169760
+
+<a id="claim-t-193235"></a>
+- t-002
+  global_id: t-193235
+  teiginys: "Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr."
+  pagrindžia:
+    - c-175972
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176728|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas buvo karo tarybos pirmininkas ir tikrasis Tanenbergo mūšio vadas.
 - susijęs iš [[objektai/autoriai/Ekdahl, S.md#claim-t-54114|Ekdahl, S]]: S. Ekdahlas 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.
 - susijęs iš [[objektai/autoriai/Ekdahl, S.md#claim-t-54115|Ekdahl, S]]: S. Ekdahl 1963 m. paskelbė straipsnį apie lietuvių pasitraukimą Tanenbergo mūšyje.
@@ -53,7 +72,62 @@ Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (ži
     Gilgenburgą, žygiavo Tannenbergo kryptimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Ordino siena su Lietuva nusistojo tik po Tanenbergo mūšio ir Torno taikos (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-
+    šio ir Torno taikos (žiūr. 129 psl.). Tada jau išnyko ir nuola-
+    tiniai savitarpio puolimai; tiesa, po to dar buvo keletas karų,
+    bet jau kitokio pobūdžio: tai buvo paprasti dviejų valstybių
+    karai, o ne krašto teriojimas.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-169760
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis
+    magistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.
+    Nuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo
+    pulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę
+    Gilgenburgą, žygiavo Tannenbergo kryptimi.
+  citata_rodoma: "Gana vėlai tepatyręs Jogailos ir Vytauto planus, ordino didysis\nmagistras Ulricbas von Jungingenas skubėjo priešui pastoti kelią.\nNuo Torno Drevencos krantu iki Loebau (VII. 13) atvedęs savo\npulkus, magistras iš pabėgėlių patyrė, jog sąjungininkai, paėmę\nGilgenburgą, žygiavo Tannenbergo kryptimi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186422
+
+- id: c-175972
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ordino siena su Lietuva nusistojo tik po Tanenbergo mū-
+    šio ir Torno taikos (žiūr. 129 psl.). Tada jau išnyko ir nuola-
+    tiniai savitarpio puolimai; tiesa, po to dar buvo keletas karų,
+    bet jau kitokio pobūdžio: tai buvo paprasti dviejų valstybių
+    karai, o ne krašto teriojimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193235

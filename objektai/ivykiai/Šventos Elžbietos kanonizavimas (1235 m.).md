@@ -12,8 +12,21 @@ atnaujinta: ''
 tags:
   - ivykis
   - popiežius
+  - šventė
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventos Elžbietos kanonizavimas (1235 m.)
 
@@ -42,10 +55,9 @@ Nenurodyta
 <a id="claim-t-62547"></a>
 - t-001
   global_id: t-62547
-  teiginys: '1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.'
+  teiginys: "1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių."
   pagrindžia:
-    - c-001
-
+    - c-63251
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,7 +74,32 @@ Nenurodyta
                        26.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63251
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  citata_originali: |
+    25. Apie šventos Elžbietos kanonizavimą
+
+      1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,
+    brolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.
+
+
+
+                       26.
+  citata_rodoma: "25. Apie šventos Elžbietos kanonizavimą\n\n  1235 viešpaties metais Grigalius IX, popiežius, kanonizavo šventą Elžbietą Perudžoje,\nbrolių pamokslininkų konvente, kur tas pats popiežius jos garbei paskyrė altorių.\n\n\n\n                   26."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62547

@@ -12,6 +12,9 @@ import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { collectCitationMetadata, collectClaimCount, isObjectPage } from "../util/citationFilter"
 import { styleText } from "util"
+import { buildAssetVersion } from "../util/buildVersion"
+import { graphVisualRegistry } from "../util/graphVisualRegistry"
+import { classifyAnalyticsPage } from "../util/analytics"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -29,16 +32,21 @@ export function pageResources(
   baseDir: FullSlug | RelativeURL,
   staticResources: StaticResources,
 ): StaticResources {
-  const assetVersion = "20260703-zemelapis-label-search-fix"
+  const assetVersion = buildAssetVersion
   const versionedAsset = (path: string) => `${path}?v=${assetVersion}`
-  const contentMetaPath = versionedAsset(joinSegments(baseDir, "static/contentMeta.json"))
-  const searchIndexPath = versionedAsset(joinSegments(baseDir, "static/searchIndex.json"))
-  const graphIndexPath = versionedAsset(joinSegments(baseDir, "static/graphIndex.json"))
-  const graphExplorerIndexPath = versionedAsset(joinSegments(baseDir, "static/graphExplorerIndex.json"))
-  const randomClaimsPath = versionedAsset(joinSegments(baseDir, "static/randomClaims.json"))
-  const citationSourcesPath = versionedAsset(joinSegments(baseDir, "static/citationSources.json"))
+  const staticJsonPath = (path: string) => versionedAsset(joinSegments("/", "static", path))
+  const contentMetaPath = staticJsonPath("contentMeta.json")
+  const searchIndexPath = staticJsonPath("searchIndex.json")
+  const graphIndexPath = staticJsonPath("graphIndex.json")
+  const graphTopologyPath = staticJsonPath("graph-data/topology.json")
+  const graphSlugMapPath = staticJsonPath("graphSlugMap.json")
+  const randomClaimsPath = staticJsonPath("randomClaims.json")
+  const citationSourcesPath = staticJsonPath("citationSources.json")
+  const sourceCatalogPath = staticJsonPath("sourceCatalog.json")
   const staticIndexScript = `
 globalThis.__ltkbStaticJsonCache ??= new Map()
+globalThis.__ltkbAssetVersion = "${assetVersion}"
+globalThis.__ltkbGraphVisualRegistry = ${JSON.stringify(graphVisualRegistry)}
 globalThis.loadStaticJson ??= (path) => {
   const cache = globalThis.__ltkbStaticJsonCache
   if (!cache.has(path)) {
@@ -58,8 +66,10 @@ globalThis.loadStaticJson ??= (path) => {
 globalThis.loadContentMeta = () => globalThis.loadStaticJson("${contentMetaPath}")
 globalThis.loadSearchIndex = () => globalThis.loadStaticJson("${searchIndexPath}")
 globalThis.loadGraphIndex = () => globalThis.loadStaticJson("${graphIndexPath}")
-globalThis.loadGraphExplorerIndex = () => globalThis.loadStaticJson("${graphExplorerIndexPath}")
+globalThis.loadGraphTopology = () => globalThis.loadStaticJson("${graphTopologyPath}")
+globalThis.loadGraphSlugMap = () => globalThis.loadStaticJson("${graphSlugMapPath}")
 globalThis.loadRandomClaims = () => globalThis.loadStaticJson("${randomClaimsPath}")
+globalThis.fetchSourceCatalog = globalThis.loadStaticJson("${sourceCatalogPath}").catch(() => [])
 // Compatibility only: callers should prefer purpose-specific loaders.
 globalThis.fetchData = {
   then: (resolve, reject) => globalThis.loadContentMeta().then(resolve, reject),
@@ -320,9 +330,13 @@ export function renderPage(
     filePath && isObjectPage(relativePath)
       ? collectCitationMetadata(fs.readFileSync(filePath, "utf8"))
       : citationFilter
-  const currentQuoteCount = Number(fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0)
+  const currentQuoteCount = Number(
+    fileCitationFilter?.quoteCount ?? frontmatter?.citatu_skaicius ?? 0,
+  )
   const currentClaimCount =
-    filePath && isObjectPage(relativePath) ? collectClaimCount(fs.readFileSync(filePath, "utf8")) : 0
+    filePath && isObjectPage(relativePath)
+      ? collectClaimCount(fs.readFileSync(filePath, "utf8"))
+      : 0
   const rawSourceIds = Array.isArray(fileCitationFilter?.sourceIds)
     ? fileCitationFilter.sourceIds
     : frontmatter?.citatu_saltiniu_id
@@ -331,13 +345,21 @@ export function renderPage(
     : []
   const currentCitationFilterable = Boolean(
     String(slug).startsWith("objektai/") &&
-      (fileCitationFilter || currentQuoteCount > 0 || currentSourceIds.length > 0),
+    (fileCitationFilter || currentQuoteCount > 0 || currentSourceIds.length > 0),
+  )
+  const analyticsPage = classifyAnalyticsPage(
+    String(slug),
+    componentData.fileData.frontmatter?.tipas,
+    String(slug) === "404",
   )
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
       <body
         data-slug={slug}
+        data-content-id={analyticsPage.contentId}
+        data-content-type={analyticsPage.contentType}
+        data-page-type={analyticsPage.pageType}
         data-citation-filterable={currentCitationFilterable ? "true" : "false"}
         data-quote-count={`${currentQuoteCount}`}
         data-claim-count={`${currentClaimCount}`}

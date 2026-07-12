@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Artilerija
 
@@ -50,16 +62,16 @@ Nenurodyta
 <a id="claim-t-187515"></a>
 - t-001
   global_id: t-187515
-  teiginys: 'Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.'
+  teiginys: "Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos."
   pagrindžia:
-    - c-002
+    - c-170467
 
 <a id="claim-t-187516"></a>
 - t-002
   global_id: t-187516
-  teiginys: 'Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius.'
+  teiginys: "Lietuvių artilerija 1920 m. kovose prie Giedraičių veikė prieš lenkų dalinius."
   pagrindžia:
-    - c-001
+    - c-170466
 - susijęs iš [[objektai/asmenys/A. Tučkovas.md#claim-t-39984|A. Tučkovas]]: Kapitonas A. Tučkovas, vadovavęs rusų artilerijos parkui Poguliankoje, atsitraukė su įgulos likučiais.
 - susijęs iš [[objektai/asmenys/Kazimieras Sapiega.md#claim-t-49419|Kazimieras Sapiega]]: Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą.
 - susijęs iš [[objektai/asmenys/Kazimieras Sapiega.md#claim-t-49420|Kazimieras Sapiega]]: Vakare Kazimiero Sapiegos vadovaujamos artilerijos baterijos dengiama Vilniaus įgula atsitraukė per Žaliąjį tiltą.
@@ -136,7 +148,6 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Daugiapakopės raketos.md#claim-t-45477|Daugiapakopės raketos]]: Kazimiero Semenavičiaus veikale „Artis magnae artilleriae“ buvo išdėstyta daugiapakopių raketų teorija.
 - susijęs iš [[objektai/daiktai/Geltonas lankelis ant kepurės.md#claim-t-78651|Geltonas lankelis ant kepurės]]: Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.
 - susijęs iš [[objektai/daiktai/Ginklai, skydai, šarvai ir šaudymo reikmenys.md#claim-t-86988|Ginklai, skydai, šarvai ir šaudymo reikmenys]]: Lietuvos provincijos tvirtovėms buvo siunčiami naujai pagaminti pabūklai, ginklai, kulkos ir apkasams reikalinga įranga.
-- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-183684|Ietys]]: Ietys ir kalavijai buvo pagrindiniai aptariamų Lietuvos kariuomenės dalinių ginklai.
 - susijęs iš [[objektai/daiktai/Ietys.md#claim-t-39315|Ietys]]: Ietys kartu su kalavijais buvo pagrindiniai kariuomenės ginklai.
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-183686|Kalavijai]]: Lietuvos kariuomenės dalinių pagrindiniai ginklai buvo ietys ir kalavijai.
 - susijęs iš [[objektai/daiktai/Kalavijai.md#claim-t-39256|Kalavijai]]: Kalavijai kartu su ietimis buvo pagrindiniai kariuomenės ginklai.
@@ -260,6 +271,7 @@ Nenurodyta
     vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,7 +291,57 @@ Nenurodyta
     gininko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170466
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų
+    Sąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį
+    želigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos
+    kariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie
+    Širvintų ir Giedraičių.
+    Lietuvių artilerija prieš lenkų dalinius
+    1920 m. kovose prie Giedraičių
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    145
+    Sąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-
+    tuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos
+    vadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo.
+  citata_rodoma: "L. Želigovskio akciją sveikino minios Vilniaus lenkų, Tautų \nSąjunga pasirodė bejėgė, o Lietuvai dabar jau reikėjo sustabdyti tolesnį \nželigovskininkų judėjimą į Lietuvos teritoriją. Persigrupavusi Lietuvos \nkariuomenė tik lapkričio viduryje sustabdė lenkų dalinius mūšiuose prie \nŠirvintų ir Giedraičių. \nLietuvių artilerija prieš lenkų dalinius  \n1920 m. kovose prie Giedraičių\n\n4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S\n145\nSąjungininkų architektai, konstravę pokario tvarką, įsivaizdavo Lie-\ntuvą buferine valstybe, kuri drauge su Latvija, Estija, Suomija, Lenkijos \nvadovaujama, sudarytų patikimą saugumo kordoną nuo bolševizmo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187516
+
+- id: c-170467
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­
+    vo puolami 1501 m. rugsėjo mėn. (prieš X.7).
+    45 Čia nurodytose vietose Ir dar plačiau | pietus ir rytus Auk­
+    so ordos totoriai žiemojo labai šaltų 1501— 1502 m. žiemų, nesu­
+    laukdami, Išskyrus pažadus, jokios realios paramos kariuomene,
+    artilerija ir m aistu Iš Aleksandro ir LDK Ponų Tarybos, visai ne­
+    įvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun-
+    gininko.
+  citata_rodoma: "4 4  Seversko N augardas ir Starodubas Aukso ordos totorių bu­\nvo puolami 1501 m. rugsėjo mėn. (prieš X.7).\n45 Čia nurodytose vietose Ir dar plačiau | pietus ir rytus Auk­\nso ordos totoriai žiemojo labai šaltų 1501— 1502 m. žiemų, nesu­\nlaukdami, Išskyrus pažadus, jokios realios paramos kariuomene, \nartilerija ir m aistu Iš Aleksandro ir LDK Ponų Tarybos, visai ne­\nįvertinusios Ir nesugebėjusios reikiamai panaudoti savo sųjun- \ngininko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187515

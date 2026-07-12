@@ -13,8 +13,21 @@ tags:
   - ivykis
   - karas
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių konferencija Kaune (1943 m. balandžio 5 d.)
 
@@ -43,24 +56,23 @@ Nenurodyta
 <a id="claim-t-75127"></a>
 - t-001
   global_id: t-75127
-  teiginys: 'Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų.'
+  teiginys: "Naciai Lietuvių konferencija siekė paremti mobilizaciją, o lietuvių veikėjai norėjo išvengti represijų ir išgauti politinių nuolaidų."
   pagrindžia:
-    - c-003
+    - c-73039
 
 <a id="claim-t-75128"></a>
 - t-002
   global_id: t-75128
-  teiginys: 'Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją.'
+  teiginys: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadinamąją Lietuvių konferenciją."
   pagrindžia:
-    - c-001
+    - c-23001
 
 <a id="claim-t-75129"></a>
 - t-003
   global_id: t-75129
-  teiginys: '1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
+  teiginys: "1943 m. Lietuvių konferencijos sprendimai rodė dalyvių ir dalies visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
   pagrindžia:
-    - c-002
-
+    - c-23002
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,7 +89,8 @@ Nenurodyta
     namąją Lietuvių konferenciją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -98,7 +111,8 @@ Nenurodyta
     darbo ir karo tarnybų struktūrose.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -118,7 +132,76 @@ Nenurodyta
     mobilizacija patyrė nesėkmę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23001
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių. Dau-
+    guma suimtųjų išvežti į nacių koncentracijos stovyklas.
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją.
+  citata_rodoma: "Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo\npoziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-\nnamąją Lietuvių konferenciją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75128
+
+- id: c-23002
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją. Ja naciai siekė užsitikrinti lietuvių visuo-
+    menės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo
+    regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti
+    iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo. Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose.
+  citata_rodoma: "Nors\nkonferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-\nimti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės\norientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos\ndarbo ir karo tarnybų struktūrose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75129
+
+- id: c-73039
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ja naciai siekė užsitikrinti lietuvių visuo-
+    menės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo
+    regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti
+    iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo. Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose. Tačiau ir šį kartą Lietuvos jaunimo
+    mobilizacija patyrė nesėkmę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75127

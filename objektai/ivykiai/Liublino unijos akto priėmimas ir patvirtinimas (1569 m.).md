@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liublino unijos akto priėmimas ir patvirtinimas (1569 m.)
 
@@ -48,24 +60,23 @@ Nenurodyta
 <a id="claim-t-49168"></a>
 - t-001
   global_id: t-49168
-  teiginys: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
+  teiginys: "Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų."
   pagrindžia:
-    - c-002
+    - c-43084
 
 <a id="claim-t-49169"></a>
 - t-002
   global_id: t-49169
-  teiginys: '1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva.'
+  teiginys: "1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva."
   pagrindžia:
-    - c-001
+    - c-43083
 
 <a id="claim-t-49170"></a>
 - t-003
   global_id: t-49170
-  teiginys: '1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva.'
+  teiginys: "1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva."
   pagrindžia:
-    - c-001
-
+    - c-43083
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,6 +94,7 @@ Nenurodyta
     1570 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +114,53 @@ Nenurodyta
     grobtą rytinę Livonijos dalį.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-43083
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šios aplinkybės pastūmėjo LDK gana
+    nepalankiomis sąlygomis 1569 m. sudaryti
+    su Lenkija Liublino uniją, tikintis karinės
+    pagalbos, kuri leistų pasiekti persilaužimą
+    kare su Maskva ir likviduoti egezistencinį
+    pavojų Lietuvai.
+
+    Sudarius Liublino uniją, aplinkybės kurį
+    laiką neleido imtis rimtų karo veiksmų.
+    1570 m.
+  citata_rodoma: "Šios aplinkybės pastūmėjo LDK gana\nnepalankiomis sąlygomis 1569 m. sudaryti\nsu Lenkija Liublino uniją, tikintis karinės\npagalbos, kuri leistų pasiekti persilaužimą\nkare su Maskva ir likviduoti egezistencinį\npavojų Lietuvai.\n\nSudarius Liublino uniją, aplinkybės kurį\nlaiką neleido imtis rimtų karo veiksmų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49169
+    - t-49170
+
+- id: c-43084
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sudarius Liublino uniją, aplinkybės kurį
+    laiką neleido imtis rimtų karo veiksmų.
+    1570 m. Lietuvoje ir Lenkijoje kilo badas,
+    1571 m. teko sudaryti trejų metų paliaubas
+    su Rusija, pripažįstant Polocko praradimą
+    ir atsisakant pretenzijų į 1570 m. rusų už-
+    grobtą rytinę Livonijos dalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49168

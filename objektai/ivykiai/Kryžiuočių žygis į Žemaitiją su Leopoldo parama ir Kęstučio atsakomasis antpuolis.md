@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžiuočių žygis į Žemaitiją su Leopoldo parama ir Kęstučio atsakomasis antpuolis
 
@@ -29,17 +41,16 @@ Nenurodyta
 <a id="claim-t-185728"></a>
 - t-001
   global_id: t-185728
-  teiginys: 'Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą.'
+  teiginys: "Austrijos kunigaikščio Leopoldo pajėgų remiami kryžiuočiai užpuolė Žemaitiją ir, padaliję pulkus keturiomis voromis, nusiaubė kraštą."
   pagrindžia:
-    - c-001
+    - c-169089
 
 <a id="claim-t-185729"></a>
 - t-002
   global_id: t-185729
-  teiginys: 'Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje.'
+  teiginys: "Kęstutis, nepasivijęs atgal traukiančių kryžiuočių, nuvedė savo būrius niokoti priešo kaimų Prūsijoje."
   pagrindžia:
-    - c-002
-
+    - c-169090
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +82,7 @@ Nenurodyta
     Kęstutis spėjo su savo kariais ateiti pagalbon.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,7 +113,76 @@ Nenurodyta
     išgriauta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169089
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Kęstutis, sugrįžęs į Lietuvą, kur paėmė į
+    žmonas vaidilutę Birutę, neilgai džiaugėsi ramiu gyve­
+    nimu, nors labai norėjo užmiršti savo vargus. Mat Aust­
+    rijos kunigaikštis Leopoldas tuo metu atvedė į Prūsiją
+    didžiulę kariuomenę; šių jė­
+    gų remiami kryžiuočiai už­
+    puolė Žemaitiją ir, padaliję
+    pulkus keturiomis žygio vo­
+    romis, nusiaubė visą kraštą.
+    Išžudę tuos, kurie netiko nei
+    karui, nei darbui, galybę kitų kartu su visokeriopu
+    grobiu išgabeno į vergovę; visa tai įvyko greičiau, nei
+    A u s tr ijo s
+    k u n ig a ik š­
+    tis L eo p o ld a s a tv e d a
+    k ry žiu o č ia m s
+    p a g a l­
+    bin in kų
+    253
+
+    ## Puslapis 252
+
+    Kęstutis spėjo su savo kariais ateiti pagalbon.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185728
+
+- id: c-169090
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Išžudę tuos, kurie netiko nei
+    karui, nei darbui, galybę kitų kartu su visokeriopu
+    grobiu išgabeno į vergovę; visa tai įvyko greičiau, nei
+    A u s tr ijo s
+    k u n ig a ik š­
+    tis L eo p o ld a s a tv e d a
+    k ry žiu o č ia m s
+    p a g a l­
+    bin in kų
+    253
+
+    ## Puslapis 252
+
+    Kęstutis spėjo su savo kariais ateiti pagalbon. Nega­
+    lėdamas pasivyti traukiančių atgal kryžiuočių, jis nu­
+    vedė savo būrius niokoti priešo kaimų. Šis staigus ant­
+    puolis baisiai nusiaubė Prūsiją: visa žemė paversta
+    dykromis, jos sostinė Gozenlankės pilis užkariauta ir
+    išgriauta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185729

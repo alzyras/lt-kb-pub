@@ -12,10 +12,23 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - formulė
   - posakis
 amziai:
   - 'XIII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs
 
@@ -28,17 +41,16 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
 <a id="claim-t-59142"></a>
 - t-001
   global_id: t-59142
-  teiginys: 'Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus.'
+  teiginys: "Dusburgietis pateikia vokišką šios maldos formą ir pasakoja, kad vienas brolis ją kasdien kalbėjo metus."
   pagrindžia:
-    - c-002
+    - c-59775
 
 <a id="claim-t-59143"></a>
 - t-002
   global_id: t-59143
-  teiginys: 'Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“.'
+  teiginys: "Dangaus balsas Albertui nurodė kasdien kalbėti maldą „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai trokščiau tavęs“."
   pagrindžia:
-    - c-001
-
+    - c-59774
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,6 +72,7 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +89,55 @@ Dusburgietis teigia, kad kadangi ne tris kartus, bet daugelį kartų jis prašė
     nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59774
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 175-176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 175-176."
+  citata_originali: |
+    Kadangi ne tris kartus, bet daugelį kartų jis prašė
+    viešpatį padaryti, kad nebebūtų šio kankintojo, išgirdo balsą, sklindantį iš dangaus ir
+    jam bylojantį: „Albertai, jeigu nori išvengti sunkių pagundų, privalai kiekvieną dieną
+    nuolankiai sukalbėti šią maldą: „O iškiliausioji meile, padaryk, kad tvirtai ir nuoširdžiai
+      524 Šią formulę (quasi secundus fuit post regem Lethowinorum) kronikininkas taiko
+    ir Lietuvos vyriausybės atstovui, vedusiam 1324 m. derybas Rygoje (D. III, 359; Пашуто
+    В. T., Образование..., c. 297; Pašuta V., Lietuvos..., p. 155. Plačiau — Гудавичюс Э. По
+    поводу..., c., 35—44).
+      525  Apie auksą ir sidabrą senovės Lietuvoje bei sidabro dirbinius žr. Vaitkunskienė
+    L., Sidabras..., p. 10 ir kt.
+      526 Komtūras 1283.IX.3—1288.VII.30 (Voigt J., Namen-... p. 34).
+
+    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59143
+
+- id: c-59775
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 176"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 176."
+  citata_originali: |
+    trokščiau tavęs bei skaistaus gyvenimo, apvalyk man sąžinę ir neleisk man susiteršti“.
+    Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach
+    einem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį
+    metę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame
+    nuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos.
+  citata_rodoma: "Vokiečių kalba šitaip sakoma: „O uberste libe, gib uns rechten jamir nach dir und nach\neinem reinen leben und reinige unse consciencie und behute uns uor bewöllunghe“. Kurį\nmetę jis kasdien kalbėjo tą maldą, pagarbiai tardamas žodžius, ir štai galop užgeso jame\nnuodėmės deglas ir paliovė jį kamavusios siaubingos pagundos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59142

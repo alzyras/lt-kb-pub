@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - mokslininkas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bagdadas
 
@@ -20,9 +32,9 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
 <a id="claim-t-21356"></a>
 - t-001
   global_id: t-21356
-  teiginys: 'Bagdadas minimas tarp pasaulinių žydų kultūros centrų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius.'
+  teiginys: "Bagdadas minimas tarp pasaulinių žydų kultūros centrų, su kuriais lyginamas XVIII–XIX a. sandūros Vilnius."
   pagrindžia:
-    - c-001
+    - c-24055
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26900|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
 - susijęs iš Salonikai: XVIII–XIX a. sandūroje Salonikai minimi tarp pirmojo žydų pasaulinių kultūros centrų dešimtuko miestų.
@@ -43,7 +55,30 @@ sandūros Vilnių priskiria pirmam žydų pasaulinių kultūros centrų dešimtu
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24055
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau kartu litvakais imta vadinti žydus, kuriems
+    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
+    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
+    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
+    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
+    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
+    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
+  citata_rodoma: "Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21356

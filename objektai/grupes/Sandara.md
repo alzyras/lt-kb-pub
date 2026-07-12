@@ -15,6 +15,18 @@ tags:
   - kraštas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sandara
 
@@ -27,9 +39,9 @@ amziai:
 <a id="claim-t-01472"></a>
 - t-001
   global_id: t-01472
-  teiginys: '1904 m. dr. Gaigalaitis Klaipėdoje įkūrė tikybinę lietuvių draugiją „Sandara“, jungusią viso krašto lietuvius.'
+  teiginys: "1904 m. dr. Gaigalaitis Klaipėdoje įkūrė tikybinę lietuvių draugiją „Sandara“, jungusią viso krašto lietuvius."
   pagrindžia:
-    - c-001
+    - c-01710
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
 - susijęs iš [[objektai/autoriai/Kristijonas.md#claim-t-190395|Kristijonas]]: Narbutas nurodo, kad žinia apie Kristijono kroniką dėl Romovės ir krivio remiasi padavimu, bet kronikos egzistavimą jis laiko įrodytu.
 - susijęs iš [[objektai/paprociai/Ašarų rinkimas į ašarines ir jų dėjimas į kapą.md#claim-t-189822|Ašarų rinkimas į ašarines ir jų dėjimas į kapą]]: Narbutas rašo, kad toje vietoje buvo randama daug ašarinėms priskiriamų nuolaužų.
@@ -54,7 +66,28 @@ amziai:
     mažesnių draugijų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01710
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Mažosios Lietuvos lietuvaitės liaudies meno parodoje, Tilžėje, 1934 m.
+    vuoja ir dabar. 1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje
+    tikybinė lietuvių draugija, vardu „Sandara", kuri irgi tebe-
+    gyvuoja, jungdama viso krašto lietuvius. Buvo dar įkurta ir
+    mažesnių draugijų.
+  citata_rodoma: "1904 m. dr. Gaigalaičio buvo įkurta Klaipėdoje\ntikybinė lietuvių draugija, vardu „Sandara\", kuri irgi tebe-\ngyvuoja, jungdama viso krašto lietuvius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01472

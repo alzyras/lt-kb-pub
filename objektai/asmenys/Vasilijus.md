@@ -3,8 +3,21 @@ tipas: asmuo
 pavadinimas: 'Vasilijus'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vasilijus
 
@@ -17,23 +30,37 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 <a id="claim-t-185977"></a>
 - t-001
   global_id: t-185977
-  teiginys: 'Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.'
+  teiginys: "Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą."
   pagrindžia:
-    - c-001
+    - c-169338
 
 <a id="claim-t-185978"></a>
 - t-002
   global_id: t-185978
-  teiginys: 'Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų.'
+  teiginys: "Vasilijus primygtinai reikalavo, kad karaliaus pasiuntiniai atvyktų į Maskvą tęsti taikos derybų."
   pagrindžia:
-    - c-002
+    - c-169339
 
 <a id="claim-t-185979"></a>
 - t-003
   global_id: t-185979
-  teiginys: 'Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo.'
+  teiginys: "Šešerių metų paliaubomis Vasilijus pasiliko Smolenską, bet atsisakė Smolensko didžiojo kunigaikščio titulo."
   pagrindžia:
-    - c-003
+    - c-169340
+
+<a id="claim-t-193405"></a>
+- t-004
+  global_id: t-193405
+  teiginys: "Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos."
+  pagrindžia:
+    - c-176127
+
+<a id="claim-t-194004"></a>
+- t-005
+  global_id: t-194004
+  teiginys: "Vyriausias—Jogaila Vladislovas1 8 ; antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 ."
+  pagrindžia:
+    - c-176629
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Ovčina.md#claim-t-186154|Ovčina]]: Pasak Kojelavičiaus, Ovčina ėjo tokias pat pareigas kaip Glinskis ir gyveno su Vasilijaus našle.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
@@ -81,6 +108,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     šas užgrobė neseniai per išdavystę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +134,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     iždininkiui, ir Jonui Gornostajui, raštininkui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,13 +163,173 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
     sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+- c-004
+  santrauka: 'Vasilijus įsakė surakinti Glinskį grandinėmis ir išvežti iš stovyklos.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Štai todėl, rūpestingai pagydy­
+    tą ir atgavusį jėgas, jį pasiuntė atgal pas Pisoną. Tuo
+    tarpu kitas žygūnas elgėsi perdėm neatsargiai: iš jo
+    atimtas karaliaus laiškas Glinskiui viską maskvėnams
+    atskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis
+    ir išvežti iš stovyklos.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-005
+  santrauka: 'Vyriausias—Jogaila Vladislovas1 8 ; antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
+    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
+    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
+    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 .
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-169338
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 632"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 632."
+  citata_originali: |
+    Surengęs stovykloje kareiviškas pamaldas ir pa­
+    dėkojęs aukščiausiajam pergalių lėmėjui, Ostrogiškis
+    suskaičiavo belaisvius ir, atrinkęs tris šimtus aštuo­
+    niasdešimt žymiausių bajorų, išsiuntė juos karaliui su
+    laišku apie pergalę. Kunigaikštis Vasilijus, gavęs ži­
+    nią apie pralaimėjimą, paliko prie Smolensko savo ka­
+    riuomenę ir persigandęs pabėgo į Maskvą. Po tokios
+    pergalės be vargo buvo galima atsiimti ir tai, ką prie­
+    šas užgrobė neseniai per išdavystę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185977
+
+- id: c-169339
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 647"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 647."
+  citata_originali: |
+    Apmalšinęs Prūsiją, karalius, tarpininkaujamas Sta­
+    nislovo Daugirdo, susitarė su
+    T a ik o s
+    d e r y b o s
+    su
+    Vasilijumi tęsti pradėtas tai-
+    m a sk v ė n a is
+    kos derybas. Vasilijus pri­
+    mygtinai reikalavo, kad ka­
+    raliaus pasiuntiniai atvyktų į Maskvą, kur jis esą leng­
+    viau galėsiąs tramdyti saviškius, jei šie susimanys be
+    saiko ginčytis. Šį uždavinį karalius patikėjo Petrui Kiš­
+    kai, Trakų vaivadai, Bogušui Bogovitinui, Lietuvos pa-
+    iždininkiui, ir Jonui Gornostajui, raštininkui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185978
+
+- id: c-169340
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 652"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 652."
+  citata_originali: |
+    Kad šitokiam tvirtini­
+    mui nėra jokio pagrindo, tarpininkai puikiausiai ži­
+    nojo. Galop ir viena, ir kita šalis sutiko su šešerių me­
+    tų paliaubomis šitokiomis sąlygomis: Vasilijus, pasi­
+    laikydamas Smolenską, atsisako Smolensko didžiojo
+    kunigaikščio titulo, o karaliaus pasiuntiniai sutinka ti­
+    tuluoti Maskvos didįjį kunigaikštį didžiuoju visos Ru­
+    sios valdovu. Kai Vasilijaus legatai patvirtino šį susi­
+    tarimą karaliaus bei senato
+    M a sk v o s v a ld o v a s  ti-
+    akivaizdoje, susiderėjo, kad
+    tu lu o ja m a s d id žiu o ju
+    pasieniuose kylantiems gin-
+    v is o s  R u sios v a ld o v u
+    čams spręsti abi šalys pas-
+    kirsiančios nepaprastus tei­
+    sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185979
+
+- id: c-176127
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 627"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
+  citata_originali: |
+    Štai todėl, rūpestingai pagydy­
+    tą ir atgavusį jėgas, jį pasiuntė atgal pas Pisoną. Tuo
+    tarpu kitas žygūnas elgėsi perdėm neatsargiai: iš jo
+    atimtas karaliaus laiškas Glinskiui viską maskvėnams
+    atskleidė. Vasilijus įsakė surakinti Glinskį grandinėmis
+    ir išvežti iš stovyklos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193405
+
+- id: c-176629
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
+    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
+    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
+    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194004
+
 ## Ryšiai
-- Vasilijus buvo valdovas [[objektai/vietos/Maskva]]
 - Vasilijus keliavo į [[objektai/vietos/Maskva]]
-- Vasilijus siuntė į [[objektai/vietos/Maskva]], [[objektai/vietos/Možaiskas]]
-- Vasilijus paskyrė [[objektai/asmenys/Mykolas Glinskis]]

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - upė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # oji divizija
 
@@ -20,10 +32,9 @@ tags:
 <a id="claim-t-80646"></a>
 - t-001
   global_id: t-80646
-  teiginys: '2-ajai divizijai buvo numatyta užimti gynybines pozicijas ruože Dimitravo ežeras–Meros upė–Augustavo kanalas–Nemunas.'
+  teiginys: "2-ajai divizijai buvo numatyta užimti gynybines pozicijas ruože Dimitravo ežeras–Meros upė–Augustavo kanalas–Nemunas."
   pagrindžia:
-    - c-001
-
+    - c-77345
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,7 +48,27 @@ tags:
     Augustavo kanalas-Nemunas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-77345
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nutarta užimti gynybines
+    pozicijas. (3-iajai divizijai: Vištyčio ež.-
+    Rūdelė-Smalėnai-Klevai-Dimitravo ež.,
+    2-ajai divizijai: Dimitravo ež.-Meros upė-
+    Augustavo kanalas-Nemunas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80646

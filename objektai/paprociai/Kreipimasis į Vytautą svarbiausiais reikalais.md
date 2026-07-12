@@ -9,6 +9,18 @@ tags:
   - kunigaikštis
   - paprotys
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kreipimasis į Vytautą svarbiausiais reikalais
 
@@ -41,24 +53,23 @@ Nenurodyta
 <a id="claim-t-93031"></a>
 - t-001
   global_id: t-93031
-  teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos.'
+  teiginys: "Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos."
   pagrindžia:
-    - c-001
+    - c-88440
 
 <a id="claim-t-93033"></a>
 - t-002
   global_id: t-93033
-  teiginys: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
+  teiginys: "Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises."
   pagrindžia:
-    - c-002
+    - c-88443
 
 <a id="claim-t-93034"></a>
 - t-003
   global_id: t-93034
-  teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.'
+  teiginys: "Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos."
   pagrindžia:
-    - c-001
-
+    - c-88440
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -79,7 +90,8 @@ Nenurodyta
     Vyt. dėkingas už Poznaniaus mitrą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -100,7 +112,60 @@ Nenurodyta
     karūnos pralotais ir didžiūnais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-88440
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Svarbiausiuose lenkų reikaluose, kokie tik Lenkijoj kil­
+    davo, pradedant nuo aukščiausių vietų užėmimo, net iki pa­
+    grindinių reikalų, kai ėjo klausimas apie karalijos santvarką,
+    apie vyriausią valdžios kryptį, — Vytauto įtaka, prasidėjusi
+    nuo tos valandos, kai jis buvo pašauktas būti karalaitės Jad­
+    vygos globėju, buvo tiek ryški, jog galima visur ją pastebėti.
+    Iš anų laikų lenkų karūnos kanceliarijos raštų matome, kad to
+    meto žymūs politikai: pakancleriai, vyskupai, senatoriai kreip­
+    davosi į Vytautą svarbiausiais karūnos reikalais, prašydami pa­
+    tarimo, dažniausiai jo paramos. Dėl jo energingos paramos
+    Mozūrų kancleris Ziemovitas gavo Płocko vyskupo sostą; ka­
+    rūnos pakancleris Stanislovas Ciołek turėjo būti kunigaikščiui
+    Vyt. dėkingas už Poznaniaus mitrą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93031
+    - t-93034
+
+- id: c-88443
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Červinsko stovykloj, kame Jo­
+    gaila, lenkų bajorų spaudžiamas, nenorėjo duoti jiems reika­
+    laujamų privilegijų. Bet Vytautui šlėktą karštai užtariant ir
+    jam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­
+    gijoje, Jogaila padidino bajorijos luomo teises^1 ). Lenkų sena­
+    toriai kreipdavosi į Vyt. ir tais atvejais, kai reikėdavo išdalinti
+    pasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis
+    prikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su
+    karūnos pralotais ir didžiūnais.
+  citata_rodoma: "Bet Vytautui šlėktą karštai užtariant ir\njam tarpininkaujant, kaip tai aiškiai pažymėta pačioje privile­\ngijoje, Jogaila padidino bajorijos luomo teises^1 ). Lenkų sena­\ntoriai kreipdavosi į Vyt. ir tais atvejais, kai reikėdavo išdalinti\npasaulietiškus vakansus (vietas) ir vyskupų sostus, kad jis\nprikalbėtų Jogailą nesiskubinti su paskyrimais, nepasitaręs su\nkarūnos pralotais ir didžiūnais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93033

@@ -16,6 +16,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Štagelis
 
@@ -28,9 +40,9 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
 <a id="claim-t-87935"></a>
 - t-001
   global_id: t-87935
-  teiginys: 'Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.'
+  teiginys: "Štagelis Vilniuje garsėjo kaip auksakalys 1530 m."
   pagrindžia:
-    - c-001
+    - c-83914
 - susijęs iš [[objektai/asmenys/Volfgangas Auksakalys.md#claim-t-87887|Volfgangas Auksakalys]]: Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.
 - susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
 ## Reikšmingi paminėjimai
@@ -48,10 +60,30 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
     1522 m., Štagelis - 1530 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Štagelis gyveno [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-83914
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Rašyta Vilniaus mieste, 1507 me­
+    tų gegužės 1 dieną].
+    24
+    Vilniuje Žygimanto Senojo laikais
+    auksakalių būta daug ir turtingų.
+    Garsėjo: Volfgangas Auksakalys -
+    1522 m., Štagelis - 1530 m.
+  citata_rodoma: "24\nVilniuje Žygimanto Senojo laikais \nauksakalių būta daug ir turtingų. \nGarsėjo: Volfgangas Auksakalys - \n1522 m., Štagelis - 1530 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87935

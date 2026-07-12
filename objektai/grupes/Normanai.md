@@ -10,13 +10,25 @@ date_start: '1420'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XV'
 tags:
   - ežeras
   - grupe
   - kunigaikštis
   - miestas
+amziai:
+  - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Normanai
 
@@ -25,28 +37,27 @@ tags:
 Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam tikros pažangos tiems varganiems gyventojams, panašiai kaip ir į Rusios kraštus už Dvinos. Visi žemaičiai nuo se­ nų laikų lietuviais save vadino, bet niekados - žemaičiais, ir dėl tokio ta­ patumo mes mūsų titule nerašome Žemaitijos vardo, nes viskas yra vie­ na - ir žemė, ir žmonės/' 3 Kraštas, lankytas normanų piratų iš Švedijos, Norvegijos ir. Tad galėjo čia pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia gal siekia normanų piratus, kūrusius Lietuvoje seniausias gyvenvietes IX-X amžiuje.
 
 ## Teiginiai
+
 <a id="claim-t-86723"></a>
 - t-001
   global_id: t-86723
-  teiginys: 'Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.'
+  teiginys: "Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos."
   pagrindžia:
-    - c-002
+    - c-82702
 
 <a id="claim-t-86724"></a>
 - t-002
   global_id: t-86724
-  teiginys: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
+  teiginys: "IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos."
   pagrindžia:
-    - c-001
+    - c-82701
 
 <a id="claim-t-188289"></a>
 - t-003
   global_id: t-188289
-  teiginys: 'Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.'
+  teiginys: "Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171182
 - susijęs iš [[objektai/zodynas/Eistr.md#claim-t-32750|Eistr]]: Rytų Pabaltijui vieną kartą buvo pavartotas senasis terminas „Eistr“ „Saga Olafs konungs Tryggvasonar“ tekste.
 - susijęs iš Saga Olafs konungs Tryggvasonar: „Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.
 - susijęs iš Vilnius: Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje.
@@ -65,10 +76,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš Jogailos autentiški dokumentai iki krikšto Karaliaučiaus archyve: Iki krikšto rašytuose Jogailos autentiškuose dokumentuose Karaliaučiaus archyve Vilnius vadintas Vylne ir Velne.
 - susijęs iš Saga Olafs konungs Tryggvasonar: „Saga Olafs konungs Tryggvasonar“ rytų Pabaltijį kartą pavadina senuoju terminu „Eistr“.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Karaliaučius: Kai kurie autentiški Jogailos dokumentai, rašyti prieš jo krikštą, buvo išsaugoti Karaliaučiaus archyve.
 - susijęs iš Karaliaučius: Karaliaučiaus archyve buvo saugomi autentiški Jogailos dokumentai, rašyti prieš jo krikštą.
 - susijęs iš Semba: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
@@ -81,6 +88,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
 - susijęs iš [[objektai/zodynas/Variagai.md#claim-t-55271|Variagai]]: IX a. Rusioje pirmieji normanai iš Skandinavijos buvo žinomi variagų vardu.
 - susijęs iš [[objektai/zodynas/bajorkaimiai.md#claim-t-28571|bajorkaimiai]]: Essenas normanų įtakos pėdsakų siūlė ieškoti Lietuvos bajorkaimiuose, bet tam reikėjo gilesnio moksliško pagrindimo.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -117,10 +125,12 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     interpretatur.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-002
   santrauka: 'Normanų piratų lankytas kraštas apėmė Baltijos jūros pakrantę nuo Vyslos žiočių iki Suomijos įlankos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -148,10 +158,12 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     sę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-003
   santrauka: 'Narbutas rašo, kad šiaurės sagose minimi normanų jūros žygiai į turtingą Permę, arba Biarmiją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -164,14 +176,112 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     sagose, tarp kitų Kormaks -  saga pasakoja, kad Norvegijos karalius
     Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
     amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-82701
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    2
+    Apie Lietuvos ir Žemaitijos tapatu­
+    mą ir apie tą jos dalijimą į aukštuti­
+    nę ir žemutinę sužinome iš kuo pa­
+    tikimiausio šaltinio, iš didžiojo
+    kunigaikščio Vytauto 1420 metais
+    Romos imperatoriui Zigmantui ra-
+    švto laiško: Terra Samaytarum, - pa-
+    14
+
+    ## Puslapis 31
+
+    I  KNYGA
+    Visame tame plote, nuo senų senovės apaugusiame girio­
+    mis, palei gausių upių, versmių, ežerų krantus, stovėjo var­
+    ganos medžioklių trobelės. Pirmieji normanai iš Skandina­
+    vijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję
+    plėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam
+    tikros pažangos tiems varganiems gyventojams, panašiai
+    kaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš
+    Švedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos
+    pakrantes, davė pradžią legendiniam pasakojimui apie Pa­
+    lemono ir jo Romos riterių3 atvykimą iš Italijos.
+    šakoja Vytautas, - est et semper fuit
+    unum et idem cum terra Littwanie, nam
+    unum ydeoma et uni homines, sed quia
+    terra Samaytarum est terra inferior ad
+    terram Littwanie, ideo Szomoyth voca­
+    tur, quod in Littwanico, terra inferior,
+    interpretatur.
+  citata_rodoma: "2\nApie Lietuvos ir Žemaitijos tapatu­\nmą ir apie tą jos dalijimą į aukštuti­\nnę ir žemutinę sužinome iš kuo pa­\ntikimiausio šaltinio, iš didžiojo \nkunigaikščio Vytauto 1420 metais \nRomos imperatoriui Zigmantui ra- \nšvto laiško: Terra Samaytarum, - pa-\n14\n\n## Puslapis 31\n\nI  KNYGA\nVisame tame plote, nuo senų senovės apaugusiame girio­\nmis, palei gausių upių, versmių, ežerų krantus, stovėjo var­\nganos medžioklių trobelės. Pirmieji normanai iš Skandina­\nvijos, IX amžiuje Rusioje žinomi variagų vardu, susivilioję \nplėšikavimu ir prekyba gintarinėse pakrantėse, atnešė tam \ntikros pažangos tiems varganiems gyventojams, panašiai \nkaip ir į Rusios kraštus už Dvinos. Tikriausiai tie žygiai iš \nŠvedijos, Norvegijos ir Danijos, dažnai kartojami į Baltijos \npakrantes, davė pradžią legendiniam pasakojimui apie Pa­\nlemono ir jo Romos riterių3 atvykimą iš Italijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86724
+
+- id: c-82702
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O žemaičiai Lietuvą vadina Auxto-
+    te, tai yra aukštesnė žemė palyginus
+    su Žemaitija. Visi žemaičiai nuo se­
+    nų laikų lietuviais save vadino, bet
+    niekados - žemaičiais, ir dėl tokio ta­
+    patumo mes mūsų titule nerašome
+    Žemaitijos vardo, nes viskas yra vie­
+    na - ir žemė, ir žmonės/'
+    3
+    Kraštas, lankytas normanų piratų iš
+    Švedijos, Norvegijos ir Danijos, už­
+    ėmė visą Baltijos jūros pakrantę nuo
+    Vyslos žiočių iki pat Suomijos įlan­
+    kos ir buvo jų vadinamas A ust u rweg.
+    Atšiaurus klimatas, nenaši, uolėta
+    žemė, pagaliau tvarkos stoka ir tar­
+    pusavio nesantaika atgrasaus barba­
+    riškumo laikais vertė skandinavus
+    traukti į tas jūros keliones, o kartais
+    į didesnes išvykas, į kitą Baltijos pu­
+    sę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86723
+
+- id: c-171182
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 219."
+  citata_originali: |
+    Panemunių Žemaitijoje paplitęs garsus padavimas skel­
+    bia štai ką . Jūrininkai, atplaukę iš už jūros, plaukė Nemunu
+    10
+    Permė, arba Biarmija, buvo turtingas kraštas, ypač tauriųjų
+    metalų, todėl traukė plėšikus normanus; šito įrodymų yra šiaurės
+    sagose, tarp kitų Kormaks -  saga pasakoja, kad Norvegijos karalius
+    Hanaldas Graurokas darė jūros žygius į Biarmenlandiją. Tai buvo X
+    amžiaus pirmojoje pusėje (Sagaen Bibliothek v.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188289
+
 ## Ryšiai
 - Prekiavo su: [[objektai/grupes/Lietuviai]]
-- Normanai keliavo į [[objektai/vietos/Baltija]]
-- Normanai surengė žygį į [[objektai/vietos/Biarmija]]
-- Normanai gyveno [[objektai/vietos/Lietuva]]

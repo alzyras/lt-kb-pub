@@ -17,6 +17,18 @@ tags:
   - popiežius
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Volinija
 
@@ -29,44 +41,44 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
 <a id="claim-t-48788"></a>
 - t-001
   global_id: t-48788
-  teiginys: '1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje.'
+  teiginys: "1349 m. Kazimieras siekė Avignono palankumo ir patogesnės padėties tolesnei kovai Volinijoje."
   pagrindžia:
-    - c-005
+    - c-50926
 
 <a id="claim-t-48789"></a>
 - t-002
   global_id: t-48789
-  teiginys: 'Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes.'
+  teiginys: "Liubartas turėjo savo dalį Volinijoje ir galėjo reikšti pretenzijas į kitas Haličo-Vladimiro žemes."
   pagrindžia:
-    - c-004
+    - c-50925
 
 <a id="claim-t-48790"></a>
 - t-003
   global_id: t-48790
-  teiginys: 'Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos.'
+  teiginys: "Konflikte su lenkais buvo ginčijamasi dėl Podolės ir Volinijos."
   pagrindžia:
-    - c-002
+    - c-50923
 
 <a id="claim-t-48791"></a>
 - t-004
   global_id: t-48791
-  teiginys: 'Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.'
+  teiginys: "Po kietų kovų su Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas."
   pagrindžia:
-    - c-001
+    - c-32562
 
 <a id="claim-t-48792"></a>
 - t-005
   global_id: t-48792
-  teiginys: 'Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke.'
+  teiginys: "Po kovų su Lenkija Gediminaitis Liubartas išsilaikė Volinijoje, Lucke."
   pagrindžia:
-    - c-001
+    - c-32562
 
 <a id="claim-t-48793"></a>
 - t-006
   global_id: t-48793
-  teiginys: 'Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai.'
+  teiginys: "Liubartas, padedamas brolių, apgynė Voliniją Lietuvos Didžiajai Kunigaikštijai."
   pagrindžia:
-    - c-003
+    - c-50924
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05197|Liubartas]]: Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.
 - susijęs iš [[objektai/asmenys/Teodoras (Liubarto sūnus).md#claim-t-64171|Teodoras (Liubarto sūnus)]]: Vytautas iš Liubarto sūnaus Teodoro atėmė Volinijos Vladimirą ir paskyrė jį vietininku į Naugardą-Sieverską.
@@ -108,7 +120,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     sodino iš pirmųjų vedybų savo sūnus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -127,7 +140,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     byla (1429-1430).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -144,7 +158,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     rytus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -160,7 +175,8 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     kuris nebuvo gavęs dalies etnografinėje Lietuvoje.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -178,11 +194,105 @@ Taip yra, pvz., ir konflikte su lenkais dėl Podolės, dėl Volinijos. Taigi tur
     rališką titulą ir « papuošti karaliaus ženklais »^5.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Liubartas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gynė Voliniją: [[objektai/asmenys/Liubartas]]
+## Citatos
+
+- id: c-32562
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Netoliese nuo ten, būtent, Zaslavlyje (tarp
+    Volinijos ir Podolės) valdė Jaunučio sūnus. Po kietų kovų su
+    Lenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.
+    Rytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­
+    sodino iš pirmųjų vedybų savo sūnus.
+  citata_rodoma: "Po kietų kovų su\nLenkija, Volinijoje (Lucke) išsilaikė senas Gediminaitis Liubartas.\nRytinėse didžiosios Lietuvos kunigaikštijos žemėse Algirdas pa­\nsodino iš pirmųjų vedybų savo sūnus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-48791
+    - t-48792
+
+- id: c-50923
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Be to, Kronika apskritai buvo para­
+    šyta valstybinėje dvasioje, ir lietuvių-lenkų nesutarimų, ar tuome­
+    tinių lenkų tendencijų atvejais Stryjkovskis stoja ginti pirmųjų ir
+    patiekia savo kritiškus argumentus. Taip yra, pvz., ir konflikte
+    su lenkais dėl Podolės, dėl Volinijos. Bet pasitaiko, kad kartais
+    kronistas perduoda ir lenkų tezes, pvz., iš Dlugošo kronikos atsis­
+    pindi Žalgirio kautynių aprašymas, Vytauto D. karaliaus karūnos
+    byla (1429-1430).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-48790
+
+- id: c-50924
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Liudvikui mirus (1382), Liubartas pasiė­
+    mė kelias pilis, kurias karalius buvo pavedęs valdyti vengrams.
+    Per 60 metų išgyvenęs pietuose, Liubartas su brolių pagalba
+    didžiajai Lietuvos kunigaikštijai apgynė Voliniją. Radusi kietą
+    pasipriešinimą, Lenkija buvo sulaikyta nuo tolimesnio slinkimo į
+    rytus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-48793
+
+- id: c-50925
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1340 m. bevaikis žuvo paskutinis Haličo­
+    Vladimiro kunigaikštis Boleslovas-Jurgis (Mozūrijos Traidenio sū­
+    nus). Taigi turėdamas savo dalį Volinijoje, Liubartas, kurio žmona
+    buvo Vladimiro kunigaikštytė, galėjo reikšti pretenzijas ir į kitas
+    Haličo-Vladimiro žemes. Jis buvo vienintelis iš Gedimino sūnų,
+    kuris nebuvo gavęs dalies etnografinėje Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-48789
+
+- id: c-50926
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­
+    davo pasvarstyti krikšto pasiūlymų, juo labiau, kad jie ėjo ne iš
+    kryžiuočių.
+    Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge
+    susidaryti patogesnę būklę tolimesnei kovai Volinijoje, Lenkijos
+    Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis.
+    Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­
+    rališką titulą ir « papuošti karaliaus ženklais »^5.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-48788

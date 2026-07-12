@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karaimai
 
@@ -32,51 +44,58 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 <a id="claim-t-120184"></a>
 - t-001
   global_id: t-120184
-  teiginys: 'Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais.'
+  teiginys: "Karaimai į Lietuvą atkeliavo iš rytų, o jų atvykimas šaltinyje siejamas su Vytauto valdymo laikais."
   pagrindžia:
-    - c-005
+    - c-110243
 
 <a id="claim-t-120185"></a>
 - t-002
   global_id: t-120185
-  teiginys: 'Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus.'
+  teiginys: "Trakuose gyvenę karaimai vertėsi daržininkyste ir agurkus vežė į Vilniaus turgus."
   pagrindžia:
-    - c-006
+    - c-110245
 
 <a id="claim-t-120186"></a>
 - t-003
   global_id: t-120186
-  teiginys: 'Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams.'
+  teiginys: "Karaimų atvykimas į Lietuvą priskiriamas Vytauto viešpatavimo laikams."
   pagrindžia:
-    - c-006
+    - c-110245
 
 <a id="claim-t-120187"></a>
 - t-004
   global_id: t-120187
-  teiginys: 'Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.'
+  teiginys: "Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos."
   pagrindžia:
-    - c-003
+    - c-22443
 
 <a id="claim-t-120188"></a>
 - t-005
   global_id: t-120188
-  teiginys: 'Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis.'
+  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
   pagrindžia:
-    - c-001
+    - c-22441
 
 <a id="claim-t-120189"></a>
 - t-006
   global_id: t-120189
-  teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
+  teiginys: "Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes."
   pagrindžia:
-    - c-002
+    - c-22442
 
 <a id="claim-t-120190"></a>
 - t-007
   global_id: t-120190
-  teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
+  teiginys: "Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose."
   pagrindžia:
-    - c-004
+    - c-31094
+
+<a id="claim-t-183139"></a>
+- t-008
+  global_id: t-183139
+  teiginys: "Didieji kunigaikščiai labiau pasitikėjo karaimais ir totoriais, kurie tapo artimosios sargybos tautomis."
+  pagrindžia:
+    - c-166524
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23196|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės.
 - susijęs iš [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų.md#claim-t-23197|Isaakas ben Abrahamas iš Trakų]]: Isaakas ben Abrahamas iš Trakų iškilo iš LDK karaimų bendruomenės ir gyveno 1525–1586 m.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176715|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Lietuvos Didžiojoje Kunigaikštystėje apgyvendino musulmonų totorių ir karaimų bendruomenes.
@@ -119,7 +138,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     kurie tapo artimosios sargybos tautomis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -137,7 +157,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -154,7 +175,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -168,6 +190,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,6 +219,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     priglobdavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,6 +252,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     į Vilniaus turgus gabena.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -246,13 +271,172 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     todėl valdovai kvietė pirklius ir amatininkus iš svetur.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
 
+## Citatos
+
+- id: c-22441
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Senieji lietuviai neturėjo rašto ir sunku pasakyti, kokia yra tautinė be-
+    raštės visuomenės savimonė. Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis.
+  citata_rodoma: "čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120188
+
+- id: c-22442
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Aišku,
+    šios mažumos į LDK persikėlė iš Lenkijos ir galbūt iš Vengrijos, todėl
+    natūralu, kad čia jų būta mažiau. Tačiau XVII–XVIII a. bent jau Vilnius
+    prilygo, o gal net pradėjo lenkti (Vilniaus kaip „Lietuvos Jeruzalės“ idėja)
+    tokius žydų kultūros centrus kaip Krokuva, Liublinas ar Lvovas. Taigi net
+    jei žydų, o ypač armėnų, vaidmuo LDK buvo menkesnis nei Lenkijoje,
+    pastarojoje nebuvo tokių ryškių musulmonų totorių ir karaimų bendruo-
+    menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK.
+  citata_rodoma: "menių, kurias Lietuvos didysis kunigaikštis Vytautas apgyvendino LDK."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120189
+
+- id: c-22443
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Žygimanto Augusto privilegija, sulyginusi visų
+    krikščioniškų konfesijų teises, tai tapo ir Antrojo bei Trečiojo Lietuvos
+    Statutų teisine norma. Jau Pirmasis Lietuvos Statutas (1529), dar neži-
+    nant reformacijos, skiriamas ne tiktai katalikų, bet ir ortodoksų bajorijai.
+    Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-
+    čioniškų konfesijų (judėjų, karaimų ir musulmonų totorių), jų etninės
+    bendruomenės ir religija toleruojamos nuo XIV a. pabaigos.
+  citata_rodoma: "Nors šis įstatymų garantuotas lygiateisiškumas tiesiogiai nelietė nekrikš-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120187
+
+- id: c-31094
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Antrajame žygyje (1398) Vytautas Dniepro žiotyse pastatė
+    tvirtovę « Tavan’ » (šv. Jono pilį)^21. Berods, to žygio metu paim­
+    tieji karaimai buvo apgyvendinti Lucke ir Naujuosiuose Trakuose^22.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120190
+
+- id: c-110243
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jakob Levi, iš Vilniaus, 1427
+    m. rašė hebrajiškas knygas ir turėjo
+    Moreno, t. y. teologijos daktaro, var­
+    dą. Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo.
+  citata_rodoma: "teologijos daktaro, var­\ndą. Bet Vytauto privilegija negalio­\njo žydų kitai sektai, vadinamai ka­\nraimais, Lietuvoje, Trakų mieste, ir \nlabai menkoje Vilniaus dalyje įsikū- \nrusiems. Tie karaimai, kurie išties \ngalėtų būti vadinami žvdų disiden­\ntais, atkeliavo į Lietuvą iš rytų, o \nįvairias aplinkybes įvertinęs, numa­\nnau, kad jų atvykimą reikėtų Vytau­\nto viešpatavimo laikams priskirti, \njuk šis kunigaikštis, kurio valdžia \nsiekė tolimus rytų kraštus, noriai \npriimdavo ateivius iš tų šalių ir juos \npriglobdavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120184
+
+- id: c-110245
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bet Vytauto privilegija negalio­
+    jo žydų kitai sektai, vadinamai ka­
+    raimais, Lietuvoje, Trakų mieste, ir
+    labai menkoje Vilniaus dalyje įsikū-
+    rusiems. Tie karaimai, kurie išties
+    galėtų būti vadinami žvdų disiden­
+    tais, atkeliavo į Lietuvą iš rytų, o
+    įvairias aplinkybes įvertinęs, numa­
+    nau, kad jų atvykimą reikėtų Vytau­
+    to viešpatavimo laikams priskirti,
+    juk šis kunigaikštis, kurio valdžia
+    siekė tolimus rytų kraštus, noriai
+    priimdavo ateivius iš tų šalių ir juos
+    priglobdavo. Karaimai, gyvenantys
+    Trakuose, nors skurdžiai būdami ir
+    ne taip pašėlusiai besigriebiantys ri­
+    zikingiausių prekybinių sumany­
+    mų, kaip žydai, yra betgi garbingi,
+    ramūs ir darbštūs; gyvena Trakuo­
+    se, manydamiesi iš daržų, kur gau­
+    siai dera agurkai, kuriuos vežimais
+    į Vilniaus turgus gabena.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-120186
+    - t-120185
+
+- id: c-166524
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Didieji kunigaikščiai, reikšdami teritorines
+    pretenzijas, suvokė baltų erdvės giminingumą, o Vytautas kalbos bendru-
+    mu grindė žemaičių priklausomybę Lietuvai. Antra vertus, kunigaikš-
+    čiams visi buvo valdiniai – netgi labiau pasitikėta karaimais ir totoriais,
+    kurie tapo artimosios sargybos tautomis. Nepasitikėta ir savųjų įgūdžiais,
+    todėl valdovai kvietė pirklius ir amatininkus iš svetur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183139
+
 ## Ryšiai
 - Karaimai keliavo į [[objektai/vietos/Lietuva]]
-- Karaimai gynė [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Karaimai prekiavo su [[objektai/vietos/Vilniaus turgus]]
-- Karaimai gyveno [[objektai/vietos/Lietuva]], [[objektai/vietos/Luckas]], [[objektai/vietos/Trakai]]
+- Karaimai gyveno [[objektai/vietos/Luckas]], [[objektai/vietos/Trakai]]

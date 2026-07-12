@@ -14,6 +14,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais
 
@@ -26,17 +38,16 @@ amziai:
 <a id="claim-t-31960"></a>
 - t-001
   global_id: t-31960
-  teiginys: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266.'
+  teiginys: "A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266."
   pagrindžia:
-    - c-001
+    - c-33736
 
 <a id="claim-t-31961"></a>
 - t-002
   global_id: t-31961
-  teiginys: 'Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266.'
+  teiginys: "Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266."
   pagrindžia:
-    - c-002
-
+    - c-33737
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,6 +62,7 @@ amziai:
     D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,7 +78,47 @@ amziai:
     **10.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-33736
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    — (”) _O litewskich rodach
+    bojarskich zbratanych z szlachtą polską w Horodle_ , Miesięcznik Heral­
+    dyczny, 1914 ; tęsinys : Rocznik Towarz. heraldycznego, VII, 1924-1925.
+    — Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_
+    rink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_
+    D. L. K. ir Gardelio unija, Lietuvių Tauta, IV.
+  citata_rodoma: "— Šapoka, A. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_\nrink. : Jogaila, Kaunas 1935 185-266 p. — Viskontas, A. : _Vytautas_\nD."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31960
+
+- id: c-33737
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    I-II, III-
+    IV, Warszawa 1969, su S. M. Kuczyńskio įvadu, 5-75 p. — Šapoka,
+    Ad. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_ rink.
+    _Jogaila,_ Kaunas 1935, 187-266 p.
+    **10.
+  citata_rodoma: "— Šapoka,\nAd. : _Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais,_ rink.\n_Jogaila,_ Kaunas 1935, 187-266 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31961

@@ -15,6 +15,18 @@ tags:
   - miestas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokiškas universalusis kulkosvaidis MG 42
 
@@ -47,17 +59,16 @@ Nenurodyta
 <a id="claim-t-39303"></a>
 - t-001
   global_id: t-39303
-  teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas.'
+  teiginys: "Vokiškas universalusis kulkosvaidis MG 42 buvo sukurtas Antrojo pasaulinio karo metu kaip MG 34 pakaitalas."
   pagrindžia:
-    - c-001
+    - c-41107
 
 <a id="claim-t-183689"></a>
 - t-002
   global_id: t-183689
-  teiginys: 'Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.'
+  teiginys: "Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę."
   pagrindžia:
-    - c-002
-
+    - c-167080
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,6 +94,7 @@ Nenurodyta
     skirtas pakeisti savo pirmtaką MG 34.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +126,72 @@ Nenurodyta
     šūvių per minutę, svoris 11,57 kg (be trikojo).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-41107
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Partizanams vystant puolimą mieste-
+    lyje juos iš cerkvės pasitiko kulkosvaidžio
+    ugnis, vienam iš partizanų taiklia ugnimi
+    pavyko jį nutildyti, bet tą pačią akimirką iš
+    šalia esančios bažnyčios bokšto kulkosvai-
+    džio ugnimi buvo nukauti ir sužeisti keli
+
+    232
+
+    Vokiškas universalusis kulkosvaidis MG 42
+    (Maschinengewehr 42). Šovinys - 7,92x57 mm
+    Mauser, 50/250 šovinių juosta, 50 arba 75 šovinių
+    būgninė dėtuvė, šaudymo tempas - 900-1500
+    šūvių per minutę, svoris 11,57 kg (be trikojo).
+
+    Šis kulkosvaidis buvo sukurtas ir pradėtas
+    gaminti Antrojo pasaulinio karo metu ir buvo
+    skirtas pakeisti savo pirmtaką MG 34.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39303
+
+- id: c-167080
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Paaiškėjo, kad Druskininkų ba-
+    taliono grupei nepavyko įvykdyti jiems
+    pavestos užduoties ir nutraukti ryšio
+    linijų tarp Merkinės ir Druskininkų,
+    todėl sovietai per Druskininkus susi-
+    siekė su Alytumi ir išsikvietė pagalbą.
+    Partizanams vystant puolimą mieste-
+    lyje juos iš cerkvės pasitiko kulkosvaidžio
+    ugnis, vienam iš partizanų taiklia ugnimi
+    pavyko jį nutildyti, bet tą pačią akimirką iš
+    šalia esančios bažnyčios bokšto kulkosvai-
+    džio ugnimi buvo nukauti ir sužeisti keli
+
+    232
+
+    Vokiškas universalusis kulkosvaidis MG 42
+    (Maschinengewehr 42). Šovinys - 7,92x57 mm
+    Mauser, 50/250 šovinių juosta, 50 arba 75 šovinių
+    būgninė dėtuvė, šaudymo tempas - 900-1500
+    šūvių per minutę, svoris 11,57 kg (be trikojo).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183689

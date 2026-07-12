@@ -14,6 +14,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tautos istorijos atminties saugojimas piliečių lūpose
 
@@ -46,10 +58,9 @@ Nenurodyta
 <a id="claim-t-54358"></a>
 - t-001
   global_id: t-54358
-  teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
+  teiginys: "1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose."
   pagrindžia:
-    - c-001
-
+    - c-55214
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +77,32 @@ Nenurodyta
     Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55214
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas,
+    nesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis. Jas įsi-
+    mindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-
+    jais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi
+    1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui
+    Juzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija
+    turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“
+    Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną
+    Mačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu.
+  citata_rodoma: "Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, \nnesuvaidintas, dažnai pamokančias mūsų tautos istorines patirtis. Jas įsi-\nmindami, savaime tapsite gyvais Lietuvos istorijos liudininkais ir sergėto-\njais. Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi \n1859 m. lietuvių švietėjo Mikalojaus Akelaičio žodžiuose lenkų literatui \nJuzefui Ignacui Kraševskiui (Józef Ignacy Kraszewski): „Tautos istorija \nturi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“ \nBūtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Joną \nMačiulį-Maironį ir kt.) įamžinti savo šalies praeitį raštu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54358

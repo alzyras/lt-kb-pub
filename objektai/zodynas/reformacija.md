@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'X'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # reformacija
 
@@ -34,16 +46,16 @@ amziai:
 <a id="claim-t-77786"></a>
 - t-001
   global_id: t-77786
-  teiginys: 'Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią.'
+  teiginys: "Antruoju reformacijos etapu Lietuvos didikai pasirinko kalvinizmą, nes jis atitiko jų siekį silpninti didžiojo kunigaikščio valdžią ir Katalikų bažnyčią."
   pagrindžia:
-    - c-002
+    - c-75113
 
 <a id="claim-t-77788"></a>
 - t-002
   global_id: t-77788
-  teiginys: 'Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu.'
+  teiginys: "Abraomas Kulvietis reformacijos idėjas siejo su lietuvių kalbos pavertimu švietimo sistemos pagrindu ir lietuvių inteligentijos ugdymu."
   pagrindžia:
-    - c-001
+    - c-75112
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113894|Mikalojus Radvila Rudasis]]: Po Radvilos Juodojo mirties Mikalojus Radvila Rudasis vadovavo kalvinistinei reformacijai.
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-74888|Radvilos]]: Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.
 - susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20461|Reformacijos pradžia Lietuvoje]]: 1517 m. Martynas Liuteris pradėjo reformaciją, laikomą viena reikšmingiausių Naujųjų amžių apraiškų.
@@ -77,6 +89,7 @@ amziai:
     teresų lygį ir taip išugdyti lietuvių inteligentiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +113,58 @@ amziai:
     ją“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75112
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+    Vilniuje A. Kulvietis įkūrė mokyklą kilmingai jaunuomenei, kurioje mokėsi
+    60 mokinių, sakė pamokslus, kritikuojančius Katalikų bažnyčią, ir patraukė
+    į savo pusę daug žmonių, o 1542 m. turėjo emigruoti į protestantiškąją (nuo
+    1525 m.) Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-
+    sinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant
+    su Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo
+    padaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-
+    teresų lygį ir taip išugdyti lietuvių inteligentiją.
+  citata_rodoma: ") Prūsiją, kur jį priglobė kunigaikštis Albrechtas. A. Kulvietis, pa-\nsinaudodamas reformacija, iškėlusia gimtosios kalbos svarbą bendraujant \nsu Dievu, suformulavo tokią kultūrinę programą, kuri lietuvių kalbą turėjo \npadaryti visos švietimo sistemos pagrindu, pakelti šią kalbą į valstybės in-\nteresų lygį ir taip išugdyti lietuvių inteligentiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77788
+
+- id: c-75113
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    A. Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos
+    diduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama
+    rusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti:
+    lietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-
+    jektui Lietuvos visuomenė nebuvo pasirengusi.
+    Antruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą
+    protestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti
+    Bažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-
+    čios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-
+    giausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus
+    Radvila Juodasis (1515–1565), 1563 m. išleidęs lenkiškai „Brastos Bibli-
+    ją“.
+  citata_rodoma: "Kulvietis gerai suvokė probleminę kultūros situaciją: Lietuvos \ndiduomenė, neišplėtojusi lietuviškų raštijos tradicijų, o kartu atsisakydama \nrusėnų rašto kalbos, rinkosi lenkų kalbą ne tik raštijai, bet ir bendrauti: \nlietuviakalbės raštijos sureikšminimui ir oficialaus statuso suteikimo pro-\njektui Lietuvos visuomenė nebuvo pasirengusi. \nAntruoju etapu į reformaciją įsitraukė didikai, kurie pasirinko kitą \nprotestantizmo kryptį – kalvinizmą: jis geriau atitiko jų planus susilpninti \nBažnyčios autoritetu besiremiančio didžiojo kunigaikščio valdžią ir pa-\nčios Katalikų bažnyčios įtaką. Lietuvos reformacijos ryškiausia ir įtakin-\ngiausia protestantų figūra – LDK kancleris, Vilniaus vaivada Mikalojus \nRadvila Juodasis (1515–1565), 1563 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77786

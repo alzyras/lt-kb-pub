@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. M. Ammann
 
@@ -28,10 +40,9 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
 <a id="claim-t-30523"></a>
 - t-001
   global_id: t-30523
-  teiginys: 'A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius.'
+  teiginys: "A. M. Ammann yra 1947 m. Romoje išleisto veikalo „Storia della Chiesa Russa“ autorius."
   pagrindžia:
-    - c-001
-
+    - c-32877
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,29 @@ Ammann: Abriß der ost­ slawischen Kirchengeschichte, Wien 1950, 165p. (eit. Am
     (^63) **CEV, 205 p.**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32877
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Plačiau MaŠ.**
+    (^60) **PSRL, 17, 53 p.**
+    (^61) **O. Halecki :** **_From Florence to Brest_** **, Sacrum Poloniae Millennium,
+    V, 1958, 25-37 p. (išsamiai įvertintas Vytauto vaidmuo).**
+    (^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**
+    (^63) **CEV, 205 p.**
+  citata_rodoma: "**\n(^62) **A. M. Ammann : Storia della Chiesa Russa, Roma 1947, 105 p.**\n(^63) **CEV, 205 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30523

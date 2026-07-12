@@ -13,6 +13,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pranciškus Dmochovskis
 
@@ -21,16 +33,15 @@ periodo_grupes:
 Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą.
 
 ## Teiginiai
+
 <a id="claim-t-190449"></a>
 - t-001
   global_id: t-190449
-  teiginys: 'Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą.'
+  teiginys: "Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-173332
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dmochovskio „Iliados“ varian tas (Dziela Homerą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -40,8 +51,30 @@ Nar buto vertimas į lenkų kalbą, nes tuo metu buvo pa plitęs Pranciškaus Dm
     plitęs Pranciškaus Dmochovskio „Iliados“ varian­
     tas (Dziela Homerą. -  Tom drugi: Iliada. Przez
     Franciszka Dmochowskiego. -  Warszawa, 1805).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173332
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 470"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 470."
+  citata_originali: |
+    Tai galėtų būti ir paties T. Nar­
+    buto vertimas į lenkų kalbą, nes tuo metu buvo pa­
+    plitęs Pranciškaus Dmochovskio „Iliados“ varian­
+    tas (Dziela Homerą. -  Tom drugi: Iliada. Przez
+    Franciszka Dmochowskiego. -  Warszawa, 1805).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190449

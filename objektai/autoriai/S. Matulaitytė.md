@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # S. Matulaitytė
 
@@ -28,9 +40,9 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
 <a id="claim-t-30970"></a>
 - t-001
   global_id: t-30970
-  teiginys: 'S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.'
+  teiginys: "S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą."
   pagrindžia:
-    - c-001
+    - c-33133
 - susijęs iš [[objektai/autoriai/L. Truska.md#claim-t-30784|L. Truska]]: L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.
 - susijęs iš [[objektai/autoriai/S. Samalavičius.md#claim-t-30971|S. Samalavičius]]: S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179539|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Žostautaitė tyrė Prūsijos lietuvių vokietinimą ir pasipriešinimą jam 1848-1914 m.
@@ -52,7 +64,31 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
     MD, t. 30, 1969, 121-129 p.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33133
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    A. Šidlauskas
+    atkreipė dėmesį į mokyklų reformą Lietuvoje XVIII a. pabaigoje
+    (AkMD, t. 13, 1962, 37-56 p.), į kovą dėl gamtos mokslų įvedimo
+    (AkMD, t. 11, 1961, 133-142 p.); apie to laiko istorijos vadovėlius
+    (AkMD, t. 12, sąs. 2, 1972). S. Matulaitytė rašo apie astro­
+    nomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,
+    t. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­
+    MD, t. 30, 1969, 121-129 p.).
+  citata_rodoma: "S. Matulaitytė rašo apie astro­\nnomijos mokslo įvedimą Vilniaus universitete XVIII a. (AkMD,\nt. 29, 1969, 69-83 p.) ir astronomijos observatorijos įsteigimą (Ak­\nMD, t. 30, 1969, 121-129 p.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30970

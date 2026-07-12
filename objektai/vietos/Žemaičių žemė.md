@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių žemė
 
@@ -19,37 +31,51 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
 <a id="claim-t-187415"></a>
 - t-001
   global_id: t-187415
-  teiginys: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
+  teiginys: "Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę."
   pagrindžia:
-    - c-003
+    - c-170408
 
 <a id="claim-t-187416"></a>
 - t-002
   global_id: t-187416
-  teiginys: 'Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.'
+  teiginys: "Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus."
   pagrindžia:
-    - c-004
+    - c-170409
 
 <a id="claim-t-187417"></a>
 - t-003
   global_id: t-187417
-  teiginys: 'Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.'
+  teiginys: "Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene."
   pagrindžia:
-    - c-002
+    - c-170407
 
 <a id="claim-t-187418"></a>
 - t-004
   global_id: t-187418
-  teiginys: 'Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.'
+  teiginys: "Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę."
   pagrindžia:
-    - c-001
+    - c-170406
 
 <a id="claim-t-187419"></a>
 - t-005
   global_id: t-187419
-  teiginys: 'Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.'
+  teiginys: "Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus."
   pagrindžia:
-    - c-004
+    - c-170409
+
+<a id="claim-t-194044"></a>
+- t-006
+  global_id: t-194044
+  teiginys: "O didžiojo kunigaikščio Algirdo broliui Kęstučiui, kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū nūs2 5 ."
+  pagrindžia:
+    - c-176658
+
+<a id="claim-t-194045"></a>
+- t-007
+  global_id: t-194045
+  teiginys: "Ir atėjo mūsų tėvas su žemaičiais prie Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš čiu Kęstučiu."
+  pagrindžia:
+    - c-170409
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.
 - susijęs iš [[objektai/posakiai/Viskas yra viena - ir žemė, ir žmonės.md#claim-t-86845|Viskas yra viena - ir žemė, ir žmonės]]: Posakiu „Viskas yra viena - ir žemė, ir žmonės“ aiškinta, kodėl valdovo titule nerašomas Žemaitijos vardas.
 - susijęs iš [[objektai/posakiai/Viskas yra viena, viena žemė ir tie patys žmonės.md#claim-t-55202|Viskas yra viena, viena žemė ir tie patys žmonės]]: Balińskio vertime formulė perteikiama žodžiais „viskas yra viena - ir žemė, ir žmonės“.
@@ -85,7 +111,8 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
     Didžiosios Kunigaikštystės.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -103,7 +130,8 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
     giuoja Trakų link, apgula Trakus8 0 .
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -124,7 +152,8 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
     nūs2 5 .
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -140,12 +169,149 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
     čiu Kęstučiu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-005
+    - t-007
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Žemaičių žemė priklausė [[objektai/grupes/Kryžiuočių ordinas]]
+- c-005
+  santrauka: 'O didžiojo kunigaikščio Algirdo broliui Kęstučiui, kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū nūs2 5 .'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-170406
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Šventasis metropolitas
+    Kiprijonas2 7  su arkivyskupais ir vyskupais, su archi­
+    mandritais, igumenais ir su visų rangų dvasininkais pa­
+    sitiko ją priešais Maskvos miestą su pagarba, su kry­
+    žiais ir priderančiai sujungė vedybų ryšiu didįjį kuni­
+    gaikštį Vasilijų Dimitrijevičių su didžiąja kunigaikštyte
+    Sofija 2 S . fr buvo šaunios, didelės vestuvės, pagarbiai
+    minėtos ilgą laikąS 9 . Bet mes grįžkime prie ankstesnio.
+    Didysis kunigaikštis Vytautas, būdamas pas magist­
+    rą Vokietijoje3 0 , Marienburgo pilyje, sudarė sąjungą
+    su vokiečiais — su livoniečiais ir su prūsais, sukėlė vi­
+    sus juos, už* tris šimtus tūkstančių auksinų užstatė
+    jiems Žemaičių žemą3 1 , ir su visais tais minėtais vo­
+    kiečiais bei visomis jų vokiškomis bei savomis pajė­
+    gomis, ir su patrankomis, ir su daugeliu kitų įtaisymų
+    patraukė tiesiai į Vilnių3 2 , užimti Vilniaus miesto ir
+    Didžiosios Kunigaikštystės.
+  citata_rodoma: "Didysis kunigaikštis Vytautas, būdamas pas magist­\nrą Vokietijoje3 0 , Marienburgo pilyje, sudarė sąjungą \nsu vokiečiais — su livoniečiais ir su prūsais, sukėlė vi­\nsus juos, už* tris šimtus tūkstančių auksinų užstatė \njiems Žemaičių žemą3 1 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187418
+
+- id: c-170407
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­
+    čių žemę ir visą kariuomenę, traukia prie Neries. O di­
+    dysis kunigaikštis Vytautas, sutelkęs kariuomenę iš sa­
+    vo tėvonijos l7 , eina iš Gardino pasitikti savo tėvo. Ir
+    susijungia jiedu prie Neries, dvi mylios [aukščiau Kau­
+    no l8 [, ir ten su savo kariuomenėmis 1 8  persikelia ir žy­
+    giuoja Trakų link, apgula Trakus8 0 .
+  citata_rodoma: "Didysis kunigaikštis Kęstutis, sušaukęs savo Žemai­\nčių žemę ir visą kariuomenę, traukia prie Neries."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187417
+
+- id: c-170408
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Didžiajai kunigaikštienei Onai 1 5  mirus, didysis ku­
+    nigaikštis Algirdas vedė Tverės didžiojo kunigaikščio
+    dukterį, kunigaikštytę Julijoną Oljevną ia, ir su ja tu­
+    rėjo šešis sūnus1 7 . Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 .
+  citata_rodoma: "O didžiojo kunigaikščio Algirdo broliui Kęstučiui, \nkuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­\nnūs2 5 ."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187415
+
+- id: c-170409
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 174."
+  citata_originali: |
+    Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­
+    gaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­
+    nigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas
+    gauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie
+    Trakų, aš pats irgi buvau ten su savo tėvu kunigaikš­
+    čiu Kęstučiu.
+  citata_rodoma: "Mūsų tėvas grįžo iš karo žygio, o kunigaikštis Jo­\ngaila be jo žinios užėmė ir Trakus. Ir mūsų tėvas ku­\nnigaikštis Kęstutis nujojo tada į 2emaičius, norėdamas\ngauti pagalbos. Ir atėjo mūsų tėvas su žemaičiais prie\nTrakų, aš pats irgi buvau ten su savo tėvu kunigaikš­\nčiu Kęstučiu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187416
+    - t-187419
+    - t-194045
+
+- id: c-176658
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Vyriausias—Jogaila Vladislovas1 8 ;
+    antras — Skirgaila1 9 , trečias — Švitrigaila3 0 , ketvir­
+    tas— Kaributas2 1 , penktas — Dimitrijus2 2 , Koreco ku­
+    nigaikštis 2 3 , šeštas — kunigaikštis Vasilijus 2 4 .
+    O didžiojo kunigaikščio Algirdo broliui Kęstučiui,
+    kuris valdė Trakus ir Žemaičių žemę, buvo šeši sū­
+    nūs2 5 . Pirmas — Vytautas2 6 , o kai krikštijosi pravos­
+    lavu, buvo jam duotas Jurgio vardas, o kai priėmė len­
+    kų tikėjimo krikštą, jam davė Aleksandro vardą2 7 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194044

@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gedimino pergalės šventimas Kernavėje ir Trakų įkūrimas (1321 m.)
 
@@ -35,10 +47,9 @@ Nenurodyta
 <a id="claim-t-185701"></a>
 - t-001
   global_id: t-185701
-  teiginys: '1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę.'
+  teiginys: "1321 m. Gediminas Kernavėje atšventė pergalę prieš Rusią, pagerbė dievus ir paleido apmokėtą bei apdovanotą kariuomenę."
   pagrindžia:
-    - c-001
-
+    - c-169062
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +87,51 @@ Nenurodyta
     miestus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169062
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mat, kol
+    G e d im in a s n u g a lė tų ­
+    jų  tusu s v e ik in a m a s
+    k a ip
+    R usios
+    d id y sis
+    k u n ig a ik štis
+    2 04
+
+    ## Puslapis 203
+
+    nesustiprėja nugalėtųjų ir nugalėjusiųjų, turinčių vie­
+    ną valdovą, santarvė, kol nuolatinis bendravimas ne-
+    ištrina iš atminties nugalėtųjų ir nugalėjusiųjų sąvo­
+    kos, tol bet kokia menkiausia proga gali sukelti dide­
+    lių neramumų. Nugalėjęs ir apmalšinęs Rusią, Gedi­
+    minas
+    Kernavėje
+    atšventė
+    1321 m e ta i
+    pergalę: tėvų papročiu pa­
+    gerbęs dievus, paleido ka­
+    riuomenę sumokėjęs atlyginimą ir apdovanojęs dova­
+    nomis. Po to ėmėsi taikos meto darbų; kadangi dar
+    nebuvo praėjęs paliaubų su kryžiuočiais laikas, me­
+    džioklėse stengėsi
+    užmiršti karo rūpesčius; tokiomis
+    valandomis galvojo, kaip tvarkyti valstybę, kaip kurti
+    miestus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185701

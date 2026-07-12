@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kopysė
 
@@ -27,9 +39,16 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
 <a id="claim-t-38491"></a>
 - t-001
   global_id: t-38491
-  teiginys: 'Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį.'
+  teiginys: "Radvila pasiuntė kelias kavalerijos vėliavas į Kopysės pusę, kad atviliotų pagrindines rusų kariuomenės pajėgas į mūšį."
   pagrindžia:
-    - c-001
+    - c-40294
+
+<a id="claim-t-193769"></a>
+- t-002
+  global_id: t-193769
+  teiginys: "Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę."
+  pagrindžia:
+    - c-176424
 - susijęs iš [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.).md#claim-t-41392|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]: Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.
 ## Reikšmingi paminėjimai
 
@@ -44,10 +63,86 @@ Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko �
     riuomenės pajėgas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/asmenys/Radvila]]
+- c-002
+  santrauka: 'Kunigaikštis Čerkaskis, turėdamas apie 40000 karių, tuo metu nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Mūšis
+
+    Kariuomenės stovykloje prie Oršos
+    Radvila delsė siųsti pagrindines savo pa-
+    jėgas į mūšį su gausiomis priešo pajėgo-
+    mis. Etmonas siųsdavo atskirus dalinius
+    Smolensko link ir puldinėjo mažesnius
+    priešo dalinius. Caro kariuomenė prie
+    Smolensko taip pat nesiryžo imtis ryz-
+    tingesnių veiksmų ir šturmuoti tvirto-
+    vės, kol netoliese buvo J. Radvilos pajėgos.
+    Esant tokiai padėčiai atėjo 1654 m. rug-
+    pjūčio 12 diena. Kunigaikštis Čerkaskis,
+    turėdamas apie 40000 karių, tuo metu
+    nuo Smolensko žygiavo užimti Oršą
+
+    ir Kopysę.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-40294
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Apie 14 val. Radvila sužinojo, kad prie-
+    šas yra už kelių kilometrų ir ketina keltis
+    per Dnieprą. Jis pasiuntė keletą kavaleri-
+    jos vėliavų į Kopysės pusę, kurios turėjo
+    atvilioti į mūšį pagrindines rusų ka-
+    riuomenės pajėgas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38491
+
+- id: c-176424
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšis
+
+    Kariuomenės stovykloje prie Oršos
+    Radvila delsė siųsti pagrindines savo pa-
+    jėgas į mūšį su gausiomis priešo pajėgo-
+    mis. Etmonas siųsdavo atskirus dalinius
+    Smolensko link ir puldinėjo mažesnius
+    priešo dalinius. Caro kariuomenė prie
+    Smolensko taip pat nesiryžo imtis ryz-
+    tingesnių veiksmų ir šturmuoti tvirto-
+    vės, kol netoliese buvo J. Radvilos pajėgos.
+    Esant tokiai padėčiai atėjo 1654 m. rug-
+    pjūčio 12 diena. Kunigaikštis Čerkaskis,
+    turėdamas apie 40000 karių, tuo metu
+    nuo Smolensko žygiavo užimti Oršą
+
+    ir Kopysę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193769

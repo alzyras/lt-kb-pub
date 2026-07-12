@@ -16,6 +16,18 @@ tags:
   - ordinas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto sutartis su Ordinu dėl tėvonijos susigrąžinimo (1384 m.)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-86970"></a>
 - t-001
   global_id: t-86970
-  teiginys: '1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams.'
+  teiginys: "1384 m. sutartimi Ordinas prisiekė grąžinti Vytautui atimtą tėvoniją, o Vytautas be įpėdinių turėjo perleisti paveldėjimo teises kryžiuočiams."
   pagrindžia:
-    - c-001
-
+    - c-82949
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,7 +84,39 @@ Nenurodyta
     vo šios sutarties pasekmės?
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82949
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nuolatinių karų ir grobi­
+    mų virtinėje retai kur prasimuša padrikų ir neišsamių
+    įstatymų pėdsakai, ir sunku būtų bent ką surasti, kas pa­
+    dėtų susidaryti aiškų ir teisingą vaizdą apie krašto, juolab
+    41
+    Nebuvo tokio nusikaltimo, kurio Or­
+    dinas nebūtų griebęsis, kad tik su­
+    silpnintų Lietuvos galią. Kai Vytau­
+    tas po Kęstučio mirties užmezgė
+    ryšius su didžiuoju magistru, 1384
+    metais buvo sudaryta sutartis, ku­
+    ria Ordinas prisiekė atgauti Vytau­
+    tui iš jo atimtą tėvoniją, o Vytautas
+    tuo atveju, jeigu neturėtų įpėdinių,
+    savo paveldėjimo teises į valstybę
+    Perleistų kryžiuočiams. Kokios bu­
+    vo šios sutarties pasekmės?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86970

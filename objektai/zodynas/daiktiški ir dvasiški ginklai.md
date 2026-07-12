@@ -9,6 +9,19 @@ tags:
   - ginklas
   - karas
   - sąvoka
+  - teisinė-praktika
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # daiktiški ir dvasiški ginklai
 
@@ -21,10 +34,9 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
 <a id="claim-t-58934"></a>
 - t-001
   global_id: t-58934
-  teiginys: 'Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus.'
+  teiginys: "Dvasios ginklai apibūdinami kaip priemonės nugalėti tikybos ir bažnyčios priešus."
   pagrindžia:
-    - c-001
-
+    - c-59566
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +51,29 @@ Dusburgietis teigia, kad šitaip prasidėjo naujas karas, šitaip pradėta varto
     priešus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59566
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 49"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 49."
+  citata_originali: |
+    Apie šitokią kantrybę Grigalius sako: „Galime būti kankiniai ir be kalavijo, ir be liepsnų,
+    jei sieloje tikrai išsaugome kantrybę“. Jeronimas priduria: „Negi gali būti kas vainikuotas
+    šventojo vainiku, jeigu neturi kantrybės?“ Bažnyčiai nuo lopšio netrūko nei slogios
+    neteisybės, nei kantrios teisybės. Šitaip prasidėjo naujas karas, šitaip pradėta vartoti
+    naujas kovos priemones, leidusias mums dvasios ginklais nugalėti tikybos ir bažnyčios
+    priešus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58934

@@ -14,9 +14,22 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
+  - redaktorius
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos istorija (A. Alekna)
 
@@ -29,24 +42,23 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
 <a id="claim-t-97255"></a>
 - t-001
   global_id: t-97255
-  teiginys: 'Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą.'
+  teiginys: "Antanas Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. parengė platesnį ketvirtąjį jos leidimą."
   pagrindžia:
-    - c-001
+    - c-91739
 
 <a id="claim-t-97256"></a>
 - t-002
   global_id: t-97256
-  teiginys: '1936 m. „Lietuvos istoriją“ rašė penki autoriai, o jos redaktorius pats parengė didžiausią dalį ir vienodino kitų tekstus.'
+  teiginys: "1936 m. „Lietuvos istoriją“ rašė penki autoriai, o jos redaktorius pats parengė didžiausią dalį ir vienodino kitų tekstus."
   pagrindžia:
-    - c-002
+    - c-91741
 
 <a id="claim-t-97257"></a>
 - t-003
   global_id: t-97257
-  teiginys: 'Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.'
+  teiginys: "Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų."
   pagrindžia:
-    - c-001
-
+    - c-91739
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,6 +73,7 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     daugiau šaltinių ir mokslinių tyrinėjimų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -79,7 +92,49 @@ Jau 1911 m. jis išleido «Lietuvos istoriją», jos platesniajam leidimui, ketv
     dyti ir suvienodinti^91.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-91739
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
+    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
+    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
+    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
+    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
+    daugiau šaltinių ir mokslinių tyrinėjimų.
+  citata_rodoma: "Alekna buvo pirmasis (1922-1930) Lie­\ntuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­\ntojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­\nrijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,\njos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas\ndaugiau šaltinių ir mokslinių tyrinėjimų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97255
+    - t-97257
+
+- id: c-91741
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo
+    paskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­
+    nėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
+    menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
+    penki autoriai. Paties redaktoriaus įnašas buvo stambiausias, juo
+    labiau, kad jis kitų keturių bendradarbių rašytas dalis turėjo papil­
+    dyti ir suvienodinti^91.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97256

@@ -8,7 +8,20 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - institucija
   - ordinas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pijarų ordinas
 
@@ -21,30 +34,37 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
 <a id="claim-t-72601"></a>
 - t-001
   global_id: t-72601
-  teiginys: 'Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą.'
+  teiginys: "Pijarų ordinas išlaikė ypač daug mokyklų, kurių Edukacinė Komisija neperėmė, bet prižiūrėjo jų mokymą."
   pagrindžia:
-    - c-003
+    - c-71008
 
 <a id="claim-t-72602"></a>
 - t-002
   global_id: t-72602
-  teiginys: 'Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų.'
+  teiginys: "Pijarų mokyklos nebegalėjo konkuruoti su jėzuitų mokyklomis, nes jėzuitai prisitaikė prie naujųjų reikalavimų."
   pagrindžia:
-    - c-001
+    - c-71006
 
 <a id="claim-t-72604"></a>
 - t-003
   global_id: t-72604
-  teiginys: 'XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas.'
+  teiginys: "XVIII a. į Lietuvą atsikraustęs Pijarų ordinas rūpinosi jaunuomenės auklėjimu ir kūrė dievobaimingąsias mokyklas."
   pagrindžia:
-    - c-002
+    - c-71007
 
 <a id="claim-t-72605"></a>
 - t-004
   global_id: t-72605
-  teiginys: 'Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose.'
+  teiginys: "Pijarų ordinas turėjo pilnų kolegijų ir žemesniųjų mokyklų Vilniuje, Panevėžyje, Ukmergėje, Raseiniuose, Vitebske ir kitose vietose."
   pagrindžia:
-    - c-004
+    - c-71010
+
+<a id="claim-t-193122"></a>
+- t-005
+  global_id: t-193122
+  teiginys: "Pijarai, niekuo daugiau neužsiimdami, kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzuitai stengėsi visur apsigyventi."
+  pagrindžia:
+    - c-71010
 - susijęs iš [[objektai/zodynas/dievobaimingosios mokyklos scholae piae.md#claim-t-02977|dievobaimingosios mokyklos scholae piae]]: Pijarai XVIII a. Lietuvoje kūrė dievobaimingąsias mokyklas, lotyniškai vadintas scholae piae.
 ## Reikšmingi paminėjimai
 
@@ -62,7 +82,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     tai stengėsi visur apsigyventi.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -78,6 +99,7 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     kolegijų, kaip ir jėzuitai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -92,7 +114,8 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     neperėmė į savo žinią, nors mokymą jose vis dėlto prižiūrėjo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -110,11 +133,89 @@ Be to, XVIII amž. ir į Lietuvą atsikraustė specialiai jaunuomenės auklėjim
     leranavoj, Vitebske, Želviuose ir dar vienur kitur.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+    - t-005
+
+## Citatos
+
+- id: c-71006
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ypač dėl šito jėzuitų prisitaikymo prie naujųjų reika-
+    lavimų, jų mokyklos nenustojo klestėjusios, ir pijarų mokyklos
+    nebegalėjo su jomis konkuruoti (pijarų mokyklų buvo daug ma-
+    žiau, negu jėzuitų).
+    Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
+    nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72602
+
+- id: c-71007
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    tuvoje buvo jau gana daug. Be to, XVIII amž. ir į Lietuvą
+    atsikraustė specialiai jaunuomenės auklėjimu rūpinąsis pijarų
+    ordinas (pijarai kurdavo vadinamąsias dievobaimingąsias
+    mokyklas, lotyniškai _scholae piae;_ dėl to jie ir buvo vadinami
+    pijarais). Jie turėjo ne vien pradinių mokyklų, bet ir tokių pat
+    kolegijų, kaip ir jėzuitai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72604
+
+- id: c-71008
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ne visos tos mokyklos buvo išlaikomos Edukacinės Komisijos —
+    dalis jų tebebuvo išlaikoma vienuolynų. Ypač daug mokyklų tebe-
+    turėjo pijarai. Edukacinė Komisija nė vienos vienuolynų mokyklos
+    neperėmė į savo žinią, nors mokymą jose vis dėlto prižiūrėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72601
+
+- id: c-71010
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pijarai, kaip ir jėzuitai, steigė savo mokyklas iš atskirų didžiū-
+    nų ir bajorijos fundacijų. Pijarai, niekuo daugiau neužsiimdami,
+    kaip tik mokymu, gyveno tik ten, kur buvo jų mokyklų, o jėzui-
+    tai stengėsi visur apsigyventi. Pijarų mokyklos — vienur pilnos
+    kolegijos, kitur žemesniosios mokyklos — buvo įkurtos šiose vie-
+    tose: Vilniuje, Geranainyse, Dambravicoje, Blotnoje, Naujajam
+    Dolske, Ščucine, Panevėžy, Verenavoj, Ukmergėje, Raseiniuose, Va-
+    leranavoj, Vitebske, Želviuose ir dar vienur kitur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72605
+    - t-193122
 
 ## Ryšiai
 - Pijarų ordinas keliavo į [[objektai/vietos/Lietuva]]
-- Pijarų ordinas gyveno [[objektai/vietos/Vitebskas]], [[objektai/vietos/Želviai]]

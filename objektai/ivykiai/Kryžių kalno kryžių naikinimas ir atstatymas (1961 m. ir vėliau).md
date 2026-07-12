@@ -17,6 +17,18 @@ tags:
   - tikėjimas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžių kalno kryžių naikinimas ir atstatymas (1961 m. ir vėliau)
 
@@ -45,17 +57,16 @@ Nenurodyta
 <a id="claim-t-20233"></a>
 - t-001
   global_id: t-20233
-  teiginys: 'Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
+  teiginys: "Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota."
   pagrindžia:
-    - c-001
+    - c-166617
 
 <a id="claim-t-183229"></a>
 - t-002
   global_id: t-183229
-  teiginys: 'Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių.'
+  teiginys: "Valdžiai draudžiant statyti kryžius, 1961 m. Kryžių kalne buvo sunaikinti 2 179 kryžiai, bet žmonės naktimis statė vis daugiau naujų kryžių."
   pagrindžia:
-    - c-001
-
+    - c-166617
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,8 +84,33 @@ Nenurodyta
     Golgota.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-166617
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stipry-
+    bės ir vilties šaltinio, prasmė. Todėl Kryžių kalnas, esantis 12 km į šiaurę
+    nuo Šiaulių miesto, dėl kryžių gausos tapo plačiai žinomas ne tik Lietu-
+    voje, bet ir užsienyje, o kartu – kovos už tikėjimo laisvę simboliu. Val-
+    džiai draudžiant statyti kryžius, nuverstus pjaustant, deginant, daužant
+    (vien 1961 m. sunaikinti net 2 179 kalne stovėję įvairūs kryžiai), naktimis
+    Kryžių kalne žmonės statė jų vis daugiau. Taip Kryžių kalnas (jį 1993 m.
+    aplankė popiežius Jonas Paulius II) tapo simboliu ir pramintas lietuviška
+    Golgota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183229
+    - t-20233

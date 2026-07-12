@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kalvarija
 
@@ -19,9 +31,9 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
 <a id="claim-t-02484"></a>
 - t-001
   global_id: t-02484
-  teiginys: 'Kalvarijos mokykla buvo uždaryta kartu su Padubysio ir Kolainių mokyklomis.'
+  teiginys: "Kalvarijos mokykla buvo uždaryta kartu su Padubysio ir Kolainių mokyklomis."
   pagrindžia:
-    - c-001
+    - c-166418
 - susijęs iš Kolainiai: Kolainių mokykla buvo uždaryta kartu su Kalvarijos ir Padubysio mokyklomis.
 - susijęs iš Padubysys: Padubysio mokykla buvo uždaryta kartu su Kalvarijos ir Kolainių mokyklomis.
 - susijęs iš Žemaičių Kalvarija: Po 1958 m. valdžia ribojo atlaidų lankymą Žemaičių Kalvarijoje ir Šiluvoje.
@@ -46,7 +58,29 @@ Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir Kolainių mokyklos buvo 
     kurti rusiškos mokyklos: jos neturėdavo mokinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-166418
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Visa tai buvo daroma rusiškajam gaivalui su-
+    stiprinti.
+
+    Nebuvo aplenktos nė mokyklos: Kalvarijos, Padubysio ir
+    Kolainių mokyklos buvo uždarytos, o Kražių mokykla perkel-
+    ta į Kauną. Uždarytų mokyklų vietoje veltui buvo bandomos
+    kurti rusiškos mokyklos: jos neturėdavo mokinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02484

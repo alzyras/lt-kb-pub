@@ -13,6 +13,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Panevėžio batalionas
 
@@ -25,9 +37,9 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
 <a id="claim-t-80657"></a>
 - t-001
   global_id: t-80657
-  teiginys: '1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.'
+  teiginys: "1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava."
   pagrindžia:
-    - c-001
+    - c-42891
 - susijęs iš [[objektai/asmenys/J. Variakojis.md#claim-t-40166|J. Variakojis]]: J. Variakojo vadovaujamas Panevėžio batalionas saugojo Klovainių-Rozalimo ruožą.
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
@@ -55,12 +67,40 @@ BE Bolševikų gynybinės pozicijos iesteliai Panevėžio batalionui 1919 m. kov
     frontą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-42891
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    BE Bolševikų gynybinės pozicijos
+    iesteliai
+
+    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
+    ir jo apylinkių gyventojų įteikta vėliava. Vėliavą
+    įteikė Panevėžio lietuvių katalikių moterų draugija.
+    Ant vėliavos baltais šilkiniais siūlais išsiuvinėta:
+    „VALIO PANEVĖŽIO BATALIONAS. P. L. K. M. D. 1919. III. 25“
+
+    LIETUVIAI SUTINKA SAVO KARIUOMENĘ
+
+    2-ojo pėstininkų pulko I bataliono puskari-
+    ninkis Antanas Šukys prisimena bataliono su-
+    stojimą Pagirių kaime žygiuojant į Panevėžio
+    frontą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80657
+
 ## Ryšiai
 - Panevėžio batalionas puolė [[objektai/grupes/Bermontininkai]]
-- Panevėžio batalionas užėmė [[objektai/vietos/Meškuičiai]]
-- Panevėžio batalionas kariavo prieš [[objektai/grupes/Bermontininkai]]

@@ -1,0 +1,98 @@
+---
+tipas: ivykis
+pavadinimas: 'IV Pasaulio lietuvių sporto žaidynės Lietuvoje (1991 m. vasara)'
+saltiniai:
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1988 m.'
+  - '1991 m.'
+date_start: '1988'
+date_end: '1991'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - ivykis
+amziai:
+  - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# IV Pasaulio lietuvių sporto žaidynės Lietuvoje (1991 m. vasara)
+
+## Santrauka
+
+Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.
+
+## Laikotarpis ir datos
+
+Nenurodyta
+
+## Dalyviai ir vaidmenys
+
+Nenurodyta
+
+## Eiga
+
+Nenurodyta
+
+## Rezultatas
+
+Nenurodyta
+
+## Teiginiai
+
+<a id="claim-t-193681"></a>
+- t-001
+  global_id: t-193681
+  teiginys: "Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose."
+  pagrindžia:
+    - c-176350
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Atkūrus Lietuvą, beveik visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuose.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Viskas keitėsi bauginančiai ir kartu džiugiai. Atkūrus Lietuvą, beveik
+    visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuo-
+    se. Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
+    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
+    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
+    2 tūkst. lietuvių sportininkų iš viso pasaulio.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176350
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Viskas keitėsi bauginančiai ir kartu džiugiai. Atkūrus Lietuvą, beveik
+    visi jos sportininkai atsisakė dalyvauti SSRS rinktinėse ir čempionatuo-
+    se. Daug geriausių žaidėjų (krepšininkų, futbolininkų, rankininkų) nuo
+    1988 m. išvažiavo sportuoti į užsienio klubus. Tačiau 1991 m. vasarą
+    Lietuvoje surengtose IV Pasaulio lietuvių sporto žaidynėse dalyvavo apie
+    2 tūkst. lietuvių sportininkų iš viso pasaulio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193681

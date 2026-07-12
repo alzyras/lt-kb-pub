@@ -7,12 +7,20 @@ import { GlobalConfiguration } from "../cfg"
 import {
   isPeriodFilterTargetType,
   parseFrontmatterPeriodRange,
+  periodSlugExists,
   visiblePeriodDisplay,
 } from "../util/periodRange"
-import { CitationMetadata, collectCitationMetadata, collectClaimCount } from "../util/citationFilter"
+import {
+  CitationMetadata,
+  collectCitationMetadata,
+  collectClaimCount,
+} from "../util/citationFilter"
 import { tagKind } from "./TagList"
+import { concatenateResources } from "../util/resources"
 // @ts-ignore
 import periodFilterScript from "./scripts/period-filter.inline"
+// @ts-ignore
+import objectListControlsScript from "./scripts/object-list-controls.inline"
 
 export type SortFn = (f1: QuartzPluginData, f2: QuartzPluginData) => number
 
@@ -69,12 +77,14 @@ type Props = {
 
 type PreparedPage = {
   page: QuartzPluginData
+  originalIndex: number
   isTargetType: boolean
   range?: ReturnType<typeof parseFrontmatterPeriodRange>
   periodDisplay: ReturnType<typeof visiblePeriodDisplay>
 }
 
 const typeLabels: Record<string, string> = {
+  aplankas: "Aplankas",
   asmuo: "Asmenys",
   autorius: "Autoriai",
   daiktas: "Daiktai",
@@ -86,6 +96,19 @@ const typeLabels: Record<string, string> = {
   vieta: "Vietos",
   zodyno_irasas: "Sąvokos",
 }
+
+const objectFolderOrder = [
+  "objektai/asmenys",
+  "objektai/autoriai",
+  "objektai/ivykiai",
+  "objektai/vietos",
+  "objektai/grupes",
+  "objektai/daiktai",
+  "objektai/paprociai",
+  "objektai/posakiai",
+  "objektai/zodynas",
+  "objektai/saltiniai",
+]
 
 const typeOrder = [
   "ivykis",
@@ -108,7 +131,47 @@ function normalizedType(value: unknown): string {
 
 function shouldGroupByType(slug: string | undefined): boolean {
   const current = slug ?? ""
-  return current.startsWith("tags/") || current.startsWith("temos/") || current.startsWith("laikotarpiai/")
+  return current.startsWith("tags/")
+}
+
+function isObjectRoot(slug: string | undefined): boolean {
+  const current = slug ?? ""
+  return current === "objektai" || current === "objektai/index"
+}
+
+function isObjectTypeList(slug: string | undefined): boolean {
+  const current = (slug ?? "").replace(/\/index$/, "")
+  return current.startsWith("objektai/") && current.split("/").length === 2
+}
+
+function isObjectPage(page: QuartzPluginData, tipas = normalizedType(page.frontmatter?.tipas)) {
+  return (
+    tipas !== "aplankas" &&
+    Boolean(page.frontmatter?.tipas) &&
+    Boolean(page.slug?.startsWith("objektai/"))
+  )
+}
+
+function normalizeSortTitle(value: unknown): string {
+  return String(value ?? "")
+    .normalize("NFD")
+    .replace(/\p{Mark}/gu, "")
+    .toLocaleLowerCase("lt")
+    .trim()
+}
+
+function encodedTags(tags: string[]): string {
+  return tags.map((tag) => encodeURIComponent(tag)).join("|")
+}
+
+function objectFolderSorter(a: QuartzPluginData, b: QuartzPluginData): number {
+  const rankA = objectFolderOrder.indexOf(String(a.slug ?? "").replace(/\/index$/, ""))
+  const rankB = objectFolderOrder.indexOf(String(b.slug ?? "").replace(/\/index$/, ""))
+  const safeA = rankA === -1 ? objectFolderOrder.length : rankA
+  const safeB = rankB === -1 ? objectFolderOrder.length : rankB
+  return safeA === safeB
+    ? String(a.frontmatter?.title ?? "").localeCompare(String(b.frontmatter?.title ?? ""), "lt")
+    : safeA - safeB
 }
 
 const emptyCitationMetadata: CitationMetadata = {
@@ -156,19 +219,22 @@ function claimCountForPage(page: QuartzPluginData): number {
 }
 
 export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort }: Props) => {
-  const sorter = sort ?? byDateAndAlphabeticalFolderFirst(cfg)
+  const sorter =
+    sort ??
+    (isObjectRoot(fileData.slug) ? objectFolderSorter : byDateAndAlphabeticalFolderFirst(cfg))
   let list = allFiles.sort(sorter)
   if (limit) {
     list = list.slice(0, limit)
   }
 
-  const prepared = list.map((page) => {
+  let prepared = list.map((page, originalIndex) => {
     const tipas = page.frontmatter?.tipas
     const isTargetType = isPeriodFilterTargetType(tipas)
     const range =
       isTargetType && page.frontmatter ? parseFrontmatterPeriodRange(page.frontmatter) : undefined
     return {
       page,
+      originalIndex,
       isTargetType,
       range,
       periodDisplay: visiblePeriodDisplay(page.frontmatter),
@@ -176,15 +242,48 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   })
 
   const showPeriodFilter = prepared.some(({ isTargetType }) => isTargetType)
+  const showObjectListControls =
+    isObjectTypeList(fileData.slug) && prepared.some(({ page }) => isObjectPage(page))
+  if (showObjectListControls) {
+    prepared = [...prepared].sort((a, b) => {
+      const claimDiff = claimCountForPage(b.page) - claimCountForPage(a.page)
+      if (claimDiff !== 0) return claimDiff
+
+      const titleDiff = normalizeSortTitle(a.page.frontmatter?.title).localeCompare(
+        normalizeSortTitle(b.page.frontmatter?.title),
+        "lt",
+      )
+      return titleDiff === 0 ? a.originalIndex - b.originalIndex : titleDiff
+    })
+  }
+  const objectListTagOptions = showObjectListControls
+    ? [
+        ...new Set(
+          prepared
+            .filter(({ page }) => isObjectPage(page))
+            .flatMap(({ page }) => page.frontmatter?.tags ?? [])
+            .map((tag) => String(tag).trim())
+            .filter(Boolean),
+        ),
+      ].sort((a, b) => {
+        const rank = { topic: 0, period: 1, type: 2 }
+        const kindDiff = rank[tagKind(a)] - rank[tagKind(b)]
+        return kindDiff === 0 ? a.localeCompare(b, "lt") : kindDiff
+      })
+    : []
   const groupedByType = shouldGroupByType(fileData.slug)
   const groups = groupedByType
-    ? [...prepared.reduce((acc, item) => {
-        const key = normalizedType(item.page.frontmatter?.tipas)
-        const group = acc.get(key) ?? []
-        group.push(item)
-        acc.set(key, group)
-        return acc
-      }, new Map<string, PreparedPage[]>()).entries()].sort(([a], [b]) => {
+    ? [
+        ...prepared
+          .reduce((acc, item) => {
+            const key = normalizedType(item.page.frontmatter?.tipas)
+            const group = acc.get(key) ?? []
+            group.push(item)
+            acc.set(key, group)
+            return acc
+          }, new Map<string, PreparedPage[]>())
+          .entries(),
+      ].sort(([a], [b]) => {
         const rankA = typeOrder.indexOf(a)
         const rankB = typeOrder.indexOf(b)
         const safeA = rankA === -1 ? typeOrder.length : rankA
@@ -193,49 +292,62 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
       })
     : [["", prepared] as [string, PreparedPage[]]]
 
-  const renderItem = ({ page, isTargetType, range, periodDisplay }: PreparedPage) => {
+  const renderItem = ({
+    page,
+    originalIndex,
+    isTargetType,
+    range,
+    periodDisplay,
+  }: PreparedPage) => {
     const title = page.frontmatter?.title
-    const tags = page.frontmatter?.tags ?? []
+    const tags = (page.frontmatter?.tags ?? []).map((tag) => String(tag).trim()).filter(Boolean)
     const tipas = normalizedType(page.frontmatter?.tipas)
-    const isObjectPage = Boolean(page.frontmatter?.tipas) && Boolean(page.slug?.startsWith("objektai/"))
-    const citationMetadata = isObjectPage ? citationMetadataForPage(page) : emptyCitationMetadata
+    const objectPage = isObjectPage(page, tipas)
+    const citationMetadata = objectPage ? citationMetadataForPage(page) : emptyCitationMetadata
     const quoteCount = citationMetadata.quoteCount
     const citationSourceIds = citationMetadata.sourceIds
-    const claimCount = isObjectPage ? claimCountForPage(page) : 0
+    const claimCount = objectPage ? claimCountForPage(page) : 0
 
     return (
       <li
         class="section-li"
+        data-list-slug={page.slug}
+        data-original-index={`${originalIndex}`}
+        data-sort-title={normalizeSortTitle(title)}
         data-period-filterable={isTargetType ? "true" : "false"}
         data-period-start={range ? `${range.start}` : undefined}
         data-period-end={range ? `${range.end}` : undefined}
         data-period-match="true"
-        data-citation-filterable={isObjectPage ? "true" : "false"}
-        data-quote-count={isObjectPage ? `${quoteCount}` : undefined}
-        data-claim-count={isObjectPage ? `${claimCount}` : undefined}
-        data-citation-sources={isObjectPage ? citationSourceIds.join("|") : undefined}
+        data-object-tag-match="true"
+        data-list-tags={objectPage ? encodedTags(tags) : undefined}
+        data-citation-filterable={objectPage ? "true" : "false"}
+        data-quote-count={objectPage ? `${quoteCount}` : undefined}
+        data-claim-count={objectPage ? `${claimCount}` : undefined}
+        data-citation-sources={objectPage ? citationSourceIds.join("|") : undefined}
       >
         <div class="section">
-          <div class="meta-box" title={periodDisplay?.label}>
-            {periodDisplay?.chips.map((chip) =>
-              chip.slug ? (
-                <a
-                  class={`period-chip period-chip-${chip.kind}`}
-                  href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
-                >
-                  {chip.label}
-                </a>
-              ) : (
-                <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
-              ),
-            )}
-          </div>
-          <div class="desc">
+          <div class="listing-card-body">
+            <div class="listing-card-meta-row">
+              <span class="type-chip">{typeLabels[tipas] ?? tipas}</span>
+              <div class="meta-box" title={periodDisplay?.label}>
+                {periodDisplay?.chips.map((chip) =>
+                  chip.slug && periodSlugExists(chip.slug, allFiles) ? (
+                    <a
+                      class={`period-chip period-chip-${chip.kind}`}
+                      href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}
+                    >
+                      {chip.label}
+                    </a>
+                  ) : (
+                    <span class={`period-chip period-chip-${chip.kind}`}>{chip.label}</span>
+                  ),
+                )}
+              </div>
+            </div>
             <h3 class="title-row">
               <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
                 {title}
               </a>
-              <span class="type-chip">{typeLabels[tipas] ?? tipas}</span>
             </h3>
             {tags.length > 0 && (
               <ul class="tags inline-tags">
@@ -257,6 +369,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
                   ))}
               </ul>
             )}
+            {objectPage && (
+              <p class="listing-evidence-meta">
+                {claimCount.toLocaleString("lt-LT")} teig. / {quoteCount.toLocaleString("lt-LT")}{" "}
+                cit.
+              </p>
+            )}
           </div>
         </div>
       </li>
@@ -265,6 +383,69 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
 
   return (
     <>
+      {showObjectListControls && (
+        <div
+          class="object-list-controls"
+          data-object-list-controls="true"
+          data-object-list-prefix={(fileData.slug ?? "").replace(/\/index$/, "")}
+        >
+          <div class="object-list-control-group object-list-query-control">
+            <label for="object-list-query">Paieška</label>
+            <input
+              id="object-list-query"
+              type="search"
+              placeholder="Ieškoti šiame sąraše"
+              data-object-list-query=""
+            />
+          </div>
+          <div class="object-list-control-group">
+            <label for="object-list-sort">Rikiavimas</label>
+            <select id="object-list-sort" data-object-list-sort="">
+              <option value="current">Dabartinė</option>
+              <option value="title-asc">A-Z</option>
+              <option value="title-desc">Z-A</option>
+              <option value="claims-desc" selected>
+                Teiginiai ↓
+              </option>
+              <option value="claims-asc">Teiginiai ↑</option>
+            </select>
+          </div>
+          {objectListTagOptions.length > 0 && (
+            <div class="object-list-control-group object-list-tag-control">
+              <label for="object-list-tag-select">Tagai</label>
+              <select id="object-list-tag-select" data-object-list-tag-select="">
+                <option value="">Pasirinkti tagą</option>
+                {objectListTagOptions.map((tag) => (
+                  <option value={tag}>{tag}</option>
+                ))}
+              </select>
+              <div class="object-list-tag-pills" data-object-list-tag-pills="" />
+            </div>
+          )}
+          <span class="object-list-summary" data-object-list-summary="">
+            Rodoma 0 iš 0
+          </span>
+          <nav
+            class="object-list-pagination"
+            aria-label="Rezultatų puslapiai"
+            data-object-list-pagination=""
+          >
+            <a href="?page=1" data-object-list-previous aria-label="Ankstesnis puslapis">
+              ←
+            </a>
+            <span data-object-list-page-label>Puslapis 1</span>
+            <a href="?page=2" data-object-list-next aria-label="Kitas puslapis">
+              →
+            </a>
+          </nav>
+          <div class="object-list-active-filters" data-object-list-active-filters="" hidden>
+            <div data-object-list-active-pills="" />
+            <button type="button" data-object-list-reset="">
+              Atstatyti visus
+            </button>
+          </div>
+        </div>
+      )}
       {showPeriodFilter && (
         <div class="period-filter-controls" data-period-filter-controls="true">
           <div class="period-filter-header">
@@ -318,10 +499,11 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
           )}
           <ul
             class="section-ul"
+            data-object-list-sortable={showObjectListControls ? "true" : undefined}
             data-period-filter-list={showPeriodFilter ? "true" : undefined}
             data-period-filter-enabled={showPeriodFilter ? "true" : undefined}
           >
-            {items.map(renderItem)}
+            {(showObjectListControls ? items.slice(0, 50) : items).map(renderItem)}
           </ul>
         </section>
       ))}
@@ -329,31 +511,87 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
   )
 }
 
-PageList.afterDOMLoaded = periodFilterScript
+PageList.afterDOMLoaded = concatenateResources(periodFilterScript, objectListControlsScript)
 
 PageList.css = `
 .section h3 {
   margin: 0;
 }
 
+.section {
+  position: relative;
+  overflow: visible;
+  border: 0;
+  border-top: 1px solid var(--bm-border, var(--lightgray));
+  background: var(--bm-white, var(--light));
+  transition:
+    background 160ms ease,
+    border-color 160ms ease;
+}
+
+.section:hover {
+  border-top-color: var(--bm-red, var(--secondary));
+  background: color-mix(in srgb, var(--bm-white, var(--light)) 88%, var(--bm-red, var(--secondary)) 4%);
+}
+
 .section .title-row {
   display: flex;
-  align-items: center;
+  align-items: baseline;
   flex-wrap: wrap;
-  gap: 0.45rem;
+  gap: 0.55rem;
+  margin: 0;
 }
 
 .section .type-chip {
   display: inline-flex;
   align-items: center;
-  padding: 0.08rem 0.42rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 999rem;
-  color: var(--darkgray);
-  background: color-mix(in srgb, var(--lightgray) 36%, transparent);
-  font-size: 0.66rem;
-  font-weight: 750;
+  padding: 0.16rem 0.42rem;
+  border: 1px solid var(--bm-purple, var(--lightgray));
+  border-radius: 0;
+  color: var(--bm-purple, var(--darkgray));
+  background: transparent;
+  font-family: var(--codeFont);
+  font-size: 0.64rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
   line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.listing-card-meta-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.45rem 0.6rem;
+}
+
+.listing-card-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) max-content;
+  grid-template-areas:
+    "meta evidence"
+    "title evidence"
+    "tags evidence";
+  gap: 0.42rem 1.2rem;
+  min-width: 0;
+  padding: clamp(0.9rem, 1.8vw, 1.2rem) 0;
+}
+
+.listing-card-meta-row {
+  grid-area: meta;
+}
+
+.section .title-row {
+  grid-area: title;
+}
+
+.section .inline-tags {
+  grid-area: tags;
+}
+
+.listing-evidence-meta {
+  grid-area: evidence;
+  align-self: center;
 }
 
 .section .inline-tags {
@@ -379,10 +617,12 @@ PageList.css = `
   display: flex;
   align-items: center;
   gap: 0.55rem;
-  margin: 1rem 0 0.45rem;
-  color: var(--dark);
-  font-size: 1rem;
-  letter-spacing: 0.01em;
+  margin: 1.8rem 0 0.65rem;
+  padding-top: 0.9rem;
+  border-top: 1px solid var(--bm-purple, var(--dark));
+  color: var(--bm-purple, var(--dark));
+  font-size: 1.22rem;
+  line-height: 1.1;
 }
 
 .page-list-type-heading small {
@@ -392,12 +632,29 @@ PageList.css = `
   align-items: center;
   justify-content: center;
   padding: 0 0.35rem;
-  border-radius: 999rem;
-  background: color-mix(in srgb, var(--secondary) 12%, transparent);
-  color: var(--secondary);
+  border: 1px solid var(--bm-purple, var(--secondary));
+  border-radius: 0;
+  background: transparent;
+  color: var(--bm-purple, var(--secondary));
+  font-family: var(--codeFont);
   font-size: 0.72rem;
   font-weight: 800;
   font-variant-numeric: tabular-nums;
+}
+
+@media all and (max-width: 700px) {
+  .listing-card-body {
+    grid-template-columns: minmax(0, 1fr);
+    grid-template-areas:
+      "meta"
+      "title"
+      "tags"
+      "evidence";
+  }
+
+  .listing-evidence-meta {
+    align-self: start;
+  }
 }
 
 .section .meta-box {
@@ -413,37 +670,198 @@ PageList.css = `
   align-items: center;
   min-height: 1.25rem;
   padding: 0.1rem 0.42rem;
-  border: 1px solid color-mix(in srgb, var(--secondary) 28%, var(--lightgray));
-  border-radius: 999rem;
-  background: color-mix(in srgb, var(--secondary) 8%, transparent);
-  color: var(--darkgray);
+  border: 1px solid var(--bm-purple, var(--lightgray));
+  border-radius: 0;
+  background: transparent;
+  color: var(--bm-purple, var(--darkgray));
+  font-family: var(--codeFont);
   font-size: 0.7rem;
-  font-weight: 750;
+  font-weight: 800;
+  letter-spacing: 0.04em;
   line-height: 1.2;
   text-decoration: none;
 }
 
 .section a.period-chip {
-  color: var(--secondary);
+  color: var(--bm-red, var(--secondary));
 }
 
 .section .period-chip-date {
-  border-color: color-mix(in srgb, var(--darkgray) 22%, var(--lightgray));
-  background: color-mix(in srgb, var(--lightgray) 30%, transparent);
+  border-color: var(--bm-border, var(--lightgray));
+  background: var(--bm-white, var(--light));
   color: var(--darkgray);
   font-variant-numeric: tabular-nums;
 }
 
+.object-list-controls {
+  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: minmax(13rem, 1.2fr) minmax(10rem, 0.7fr) minmax(14rem, 1.4fr);
+  gap: 0.9rem 1rem;
+  align-items: end;
+  width: 100%;
+  margin: 1.15rem 0 1.1rem;
+  padding: 0.95rem 1.1rem;
+  border: 1px solid var(--bm-border, var(--lightgray));
+  border-top-color: var(--bm-purple, var(--dark));
+  background: var(--ui-surface, var(--light));
+}
+
+.object-list-control-group {
+  display: grid;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.object-list-control-group label,
+.object-list-summary {
+  color: var(--bm-red, var(--secondary));
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.object-list-control-group select,
+.object-list-control-group input {
+  width: 100%;
+  min-height: 2rem;
+  border: 1px solid var(--bm-border, var(--lightgray));
+  border-radius: 0;
+  background: var(--ui-input, var(--light));
+  color: var(--ui-text, var(--dark));
+  font: inherit;
+  font-size: 0.9rem;
+}
+
+.object-list-control-group input {
+  box-sizing: border-box;
+  padding: 0 0.65rem;
+}
+
+.object-list-tag-control {
+  grid-template-columns: minmax(9rem, 14rem) minmax(0, 1fr);
+  align-items: end;
+}
+
+.object-list-tag-control label {
+  grid-column: 1 / -1;
+}
+
+.object-list-tag-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  min-width: 0;
+}
+
+.object-list-tag-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 2rem;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid var(--bm-purple, var(--dark));
+  border-radius: 0;
+  background: transparent;
+  color: var(--bm-purple, var(--dark));
+  cursor: pointer;
+  font-family: var(--codeFont);
+  font-size: 0.72rem;
+  font-weight: 850;
+  letter-spacing: 0.04em;
+}
+
+.object-list-tag-pill:hover,
+.object-list-tag-pill:focus-visible {
+  border-color: var(--bm-red, var(--secondary));
+  color: var(--bm-red, var(--secondary));
+}
+
+.object-list-summary {
+  grid-column: 1 / span 2;
+  align-self: center;
+  color: var(--ui-muted, var(--gray));
+  white-space: nowrap;
+}
+
+.object-list-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.65rem;
+  font-family: var(--codeFont);
+  font-size: 0.75rem;
+  font-weight: 800;
+}
+
+.object-list-pagination a {
+  display: inline-grid;
+  width: 2rem;
+  height: 2rem;
+  place-items: center;
+  border: 1px solid var(--bm-purple, var(--secondary));
+  color: var(--bm-purple, var(--secondary));
+  text-decoration: none;
+}
+
+.object-list-pagination a[aria-disabled="true"] {
+  opacity: 0.32;
+  pointer-events: none;
+}
+
+.object-list-active-filters {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--bm-border, var(--lightgray));
+}
+
+.object-list-active-filters[hidden] { display: none; }
+.object-list-active-filters > div { display: flex; flex-wrap: wrap; gap: 0.35rem; }
+.object-list-active-filters button {
+  padding: 0.28rem 0.55rem;
+  border: 1px solid var(--bm-purple, var(--secondary));
+  border-radius: 0;
+  background: transparent;
+  color: var(--bm-purple, var(--secondary));
+  cursor: pointer;
+  font: 750 0.72rem/1.2 var(--codeFont);
+}
+
+@media all and (max-width: 850px) {
+  .object-list-controls { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
+  .object-list-query-control,
+  .object-list-tag-control,
+  .object-list-active-filters { grid-column: 1 / -1; }
+  .object-list-summary { grid-column: auto; white-space: normal; }
+}
+
+@media all and (max-width: 560px) {
+  .object-list-controls { grid-template-columns: minmax(0, 1fr); }
+  .object-list-query-control,
+  .object-list-tag-control,
+  .object-list-summary,
+  .object-list-pagination,
+  .object-list-active-filters { grid-column: 1; }
+  .object-list-tag-control { grid-template-columns: minmax(0, 1fr); }
+  .object-list-pagination { justify-content: flex-start; }
+  .object-list-active-filters { align-items: flex-start; flex-direction: column; }
+}
+
 .period-filter-controls {
-  width: min(42rem, 100%);
+  box-sizing: border-box;
+  width: min(52rem, 100%);
   margin: 1.25rem 0 1.4rem;
   padding: 1rem 1.1rem 1.05rem;
-  border-radius: 1rem;
-  border: 1px solid var(--lightgray);
-  background:
-    linear-gradient(135deg, color-mix(in srgb, var(--light) 90%, transparent), transparent),
-    color-mix(in srgb, var(--light) 72%, var(--dark) 8%);
-  box-shadow: 0 0.45rem 1.6rem color-mix(in srgb, var(--dark) 12%, transparent);
+  border-radius: 0;
+  border: 1px solid var(--bm-purple, var(--lightgray));
+  background: var(--bm-white, var(--light));
+  box-shadow: none;
 }
 
 .period-filter-header,
@@ -487,8 +905,8 @@ PageList.css = `
 .period-filter-track,
 .period-filter-range {
   position: absolute;
-  left: 0;
-  right: 0;
+  left: calc(var(--period-thumb-size) / 2);
+  right: calc(var(--period-thumb-size) / 2);
   top: calc((2.5rem - var(--period-track-height)) / 2);
   height: var(--period-track-height);
   border-radius: 999rem;
@@ -591,12 +1009,41 @@ PageList.css = `
 }
 
 @media all and (max-width: 600px) {
+  .object-list-controls {
+    grid-template-columns: minmax(0, 1fr);
+    align-items: start;
+    padding: 0.9rem;
+  }
+
+  .object-list-tag-control {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .object-list-summary {
+    justify-self: start;
+    white-space: normal;
+  }
+
   .period-filter-controls {
     padding: 0.9rem;
   }
 
+  .period-filter-header {
+    align-items: flex-start;
+  }
+
+  .period-filter-slider {
+    width: calc(100% - var(--period-thumb-size));
+    margin-inline: auto;
+  }
+
   .period-filter-footer {
     gap: 0.6rem 0.9rem;
+  }
+
+  .period-filter-summary,
+  .period-filter-unknown {
+    white-space: normal;
   }
 }
 `

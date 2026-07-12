@@ -13,6 +13,18 @@ tags:
   - elekcija
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jono Olbrachto išrinkimas Lenkijos karaliumi
 
@@ -47,17 +59,23 @@ Nenurodyta
 <a id="claim-t-186770"></a>
 - t-001
   global_id: t-186770
-  teiginys: 'Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d.'
+  teiginys: "Jonas Olbrachtas Petrakavo seime buvo išrinktas Lenkijos karaliumi 1492 m. liepos 27 d."
   pagrindžia:
-    - c-001
+    - c-169972
 
 <a id="claim-t-186771"></a>
 - t-002
   global_id: t-186771
-  teiginys: 'Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d.'
+  teiginys: "Jonas Olbrachtas buvo vainikuotas Krokuvoje 1492 m. rugsėjo 23 d."
   pagrindžia:
-    - c-001
+    - c-169972
 
+<a id="claim-t-193852"></a>
+- t-003
+  global_id: t-193852
+  teiginys: "Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petrakavo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
+  pagrindžia:
+    - c-169972
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,8 +85,30 @@ Nenurodyta
     vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-169972
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  citata_originali: |
+    1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka-
+    vo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23.
+  citata_rodoma: "1  Jonas Olbrachtas buvo išrinktas Lenkijos karaliumi Petraka- \nvo seime, 1492.V1I.27, vainikuotas Krokuvoje 1492.IX.23."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186770
+    - t-186771
+    - t-193852

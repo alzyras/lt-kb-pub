@@ -16,6 +16,18 @@ tags:
   - mokslininkas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karaliaus Žygimanto Senojo knygos Vilniaus pilyje
 
@@ -48,17 +60,16 @@ Nenurodyta
 <a id="claim-t-87079"></a>
 - t-001
   global_id: t-87079
-  teiginys: 'Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje.'
+  teiginys: "Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje."
   pagrindžia:
-    - c-002
+    - c-83059
 
 <a id="claim-t-87080"></a>
 - t-002
   global_id: t-87080
-  teiginys: 'Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.'
+  teiginys: "Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis."
   pagrindžia:
-    - c-001
-
+    - c-83058
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,6 +87,7 @@ Nenurodyta
     kalbomis saugojo Vilniaus pilyje25.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,10 +116,60 @@ Nenurodyta
     kyklos išlaikymas26.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Karaliaus Žygimanto Senojo knygos Vilniaus pilyje priklausė [[objektai/asmenys/Žygimantas Senasis]]
+## Citatos
+
+- id: c-83058
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Suklestėjus prekybai, sukru­
+    to ir iki tol apverktinoje padėtyje Vilniuje buvę amatai, o
+    išaugęs pasiturinčiųjų skaičius byloja apie miesto išteklius
+    ir krašto turtingumą, be kita ko, visi amatų srities pasieki­
+    mai aniems laikams dažniausiai buvo neblogi24.
+    Karalius Žygimantas mylėjo mokslus, pats gavęs gerą iš­
+    silavinimą, rėmė visa tai, kas tik galėjo prisidėti prie jų au­
+    gimo. Savo sukauptas knygas lotynų, lenkų, rusų ir čekų
+    kalbomis saugojo Vilniaus pilyje25.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87080
+
+- id: c-83059
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    97,
+    ten yra iš Lietuvos Metrikos paimtas
+    karaliaus knygų sąrašas. Kai kurias
+    Žygimantų bibliotekos knygas dar
+    iki šiol su šventa pagarba galima ap­
+    žiūrėti Vilniaus universiteto biblio­
+    tekoje.
+    270
+
+    ## Puslapis 287
+
+    IV  KNYGA
+    ko papročiu, veikiančių mieste prie vienuolynų, skaičius iš­
+    augo, Vilniaus vyskupui Jonui iš Lietuvos kunigaikščių 1522
+    metais prie katedros įkūrus penktąją scholastiko prelatūrą,
+    kadangi pagrindinė scholastiko pareiga buvo Katedros mo­
+    kyklos išlaikymas26.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87079

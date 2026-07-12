@@ -2,6 +2,7 @@
 tipas: daiktas
 pavadinimas: 'Akmeniniai kovos kirviai'
 saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1800 m.'
@@ -15,6 +16,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akmeniniai kovos kirviai
 
@@ -44,16 +57,54 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-71553"></a>
+<a id="claim-t-192054"></a>
 - t-001
-  global_id: t-71553
-  teiginys: 'Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais.'
+  global_id: t-192054
+  teiginys: "Indoeuropiečiai, pasiekę Nemuno baseiną ir Baltijos jūrą, buvo ginkluoti akmeniniais kovos kirviais."
   pagrindžia:
-    - c-001
+    - c-174926
 
+<a id="claim-t-192055"></a>
+- t-002
+  global_id: t-192055
+  teiginys: "Narbutas priduria, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
+  pagrindžia:
+    - c-174925
+
+<a id="claim-t-192492"></a>
+- t-003
+  global_id: t-192492
+  teiginys: "Narbutas pridėjo pastabą, kad akmeniniai kirviai randami laukuose ir prie senų sodybų, bet ne kapavietėse."
+  pagrindžia:
+    - c-174925
 ## Reikšmingi paminėjimai
 
 - c-001
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    sakinys/
+    T. Narbutas, rengdamas antrąjį LTI tomą, atsisakė žodžių: „kie­
+    to akmens — grinšteino (twardego kamienia grinsztejnu)
+    Vietoj
+    jų ketino įrašyti: „kietos geležies“ (PE. L. 241). Be to, pridėjo
+    sakinį: „Akmeniniai kirviai randami laukuose ir prie senų sody­
+    bų,
+    bet
+    ne
+    kapavietėse“
+    (Ten
+    pat).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+    - t-003
+    - t-005
+
+- c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
@@ -66,7 +117,59 @@ Nenurodyta
     dirbystę ir gyvulininkystę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-174925
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 506."
+  citata_originali: |
+    sakinys/
+    T. Narbutas, rengdamas antrąjį LTI tomą, atsisakė žodžių: „kie­
+    to akmens — grinšteino (twardego kamienia grinsztejnu)
+    Vietoj
+    jų ketino įrašyti: „kietos geležies“ (PE. L. 241). Be to, pridėjo
+    sakinį: „Akmeniniai kirviai randami laukuose ir prie senų sody­
+    bų,
+    bet
+    ne
+    kapavietėse“
+    (Ten
+    pat).
+  citata_rodoma: "„Akmeniniai kirviai randami laukuose ir prie senų sody­\nbų,\nbet\nne\nkapavietėse“"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192055
+    - t-192492
+    - t-005
+
+- id: c-174926
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir
+    kituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­
+    tijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti
+    ateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną
+    į miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­
+    žangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­
+    tojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­
+    dirbystę ir gyvulininkystę.
+  citata_rodoma: "Apie 2000-1800 m. pr. Kr. indoeuropiečiai plačiai išsiskleidė ir\nkituose Europos plotuose, pasiekdami Nemuno baseiną. Palei Bal­\ntijos jūrą šie ekspansyvus ir akmeniniais kovos kirviais ginkluoti\nateiviai nuklydo į šiaurę net iki Suomijos, o per Dniepro baseiną\nį miškingas Rusijos sritis. Kur jie pasirodė, nešdamiesi savo pa­\nžangesnės kultūros elementus, jie asimiliavo arba stūmė medžio­\ntojus-žvejus. Ir į šiaurės Pabaltijo sritį jie atnešė išvystytą žem­\ndirbystę ir gyvulininkystę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192054

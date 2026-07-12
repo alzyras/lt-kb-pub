@@ -15,6 +15,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # H. Useser
 
@@ -27,10 +39,9 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
 <a id="claim-t-30632"></a>
 - t-001
   global_id: t-30632
-  teiginys: 'H. Useseris nurodytas kaip veikalo „Götternamen“ autorius.'
+  teiginys: "H. Useseris nurodytas kaip veikalo „Götternamen“ autorius."
   pagrindžia:
-    - c-001
-
+    - c-32940
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,28 @@ Useser, H.: Götternamen, (cap. 7 : Solmseh, F.
     (cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32940
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    _Pagoniškųjų laidojimo papročių nykimas rytų Lietuvoje),_ AkMD, t. 48,
+    1974, 77-90 p. ; (2. _Pagonybės liekanos Pakalniškiuose XVI-XVII am­
+    žiais),_ AkMD, t. 49, 1974, 71-89 p. — (”) _Laidosena Lietuvoje XIV-XVII
+    amžiais,_ AkMD, t. 22, 1966, 105-119 p.—Useser, H.: _Götternamen,_
+    (cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896).
+  citata_rodoma: "—Useser, H.: _Götternamen,_\n(cap. 7 : Solmseh, F. : _Litauische Götternamen,_ Bonn 1896)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30632

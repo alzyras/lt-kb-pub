@@ -11,11 +11,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
+  - institucija
   - kunigaikštis
   - miestas
-  - saltinis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Raštas Vilniaus vaitui dėl Vilniaus miestiečių prievartavimo draudimo (1532 m.)
 
@@ -28,10 +40,9 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
 <a id="claim-t-88207"></a>
 - t-001
   global_id: t-88207
-  teiginys: '1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises.'
+  teiginys: "1532 m. raštu Vilniaus vaitui įsakyta neužkrauti miestiečiams prievolių ir gerbti jų Magdeburgo teises."
   pagrindžia:
-    - c-001
-
+    - c-84185
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +76,47 @@ Kreipėsi į mus Vilniaus miesto burmistrai ir tarybos nariai ir visi miestieči
     tarnautojas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84185
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O kalbant apie mūsų raštą, kurį esame
+    anais laikais tau davę dėl jų paklusnumo su mūsų rankos •
+    •
+    -----------
+    302
+
+    ## Puslapis 319
+
+    IV  KNYGA
+    parašu kaip garantiją, tai mes tau tokį raštą ne dėl to įsakė­
+    me duoti, kad tu juos, apipainiojęs tokiais suokalbiais, galė­
+    tum taip engti ir jų teises laužyti, ir tokiais nepakeliamais ir
+    nepriimtinais prasimanymais juos spausti ir skurdinti, bet
+    tai esame padarę dėl tavo nusižeminimo ir įsakę tau aną
+    raštą duoti, kad tu galėtumei jo dėka būti saugus. Dėl to
+    šiuo mūsų raštu tau primename ir tau įsakome, kad jiems tų
+    prievolių ir varginimų neužkrautumei, jų teisių, privilegijų
+    niekuo nepažeistumei ir neengtumei jų savo sumanymais ir
+    prievarta, ir visame kame jų atžvilgiu galutinai gerb tumei
+    jų Magdeburgo teises. Bet jeigu nepanorėtumei nuo to susi­
+    laikyti ir pakartotinai mus tokie žodžiai pasiektų, tada tik­
+    rai žinok, kad ne tik tą garantinį raštą, kurį esame tau davę,
+    bet ir tąją privilegiją, kurią esi toms pareigoms gavęs Vil­
+    niaus vaitystei, pats sulaužysi ir per tai nebebūsi ten mūsų
+    tarnautojas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88207

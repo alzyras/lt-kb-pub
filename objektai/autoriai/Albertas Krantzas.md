@@ -15,6 +15,18 @@ amziai:
   - 'XI'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Albertas Krantzas
 
@@ -27,23 +39,23 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 <a id="claim-t-54997"></a>
 - t-001
   global_id: t-54997
-  teiginys: 'Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.'
+  teiginys: "Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu."
   pagrindžia:
-    - c-001
+    - c-55562
 
 <a id="claim-t-54998"></a>
 - t-002
   global_id: t-54998
-  teiginys: 'Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti.'
+  teiginys: "Pasak Alberto Krantzo, Gediminas pareiškė, kad popiežiaus nei pažinojo, nei troško pažinti."
   pagrindžia:
-    - c-002
+    - c-55563
 
 <a id="claim-t-81884"></a>
 - t-003
   global_id: t-81884
-  teiginys: 'Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
+  teiginys: "Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą."
   pagrindžia:
-    - c-003
+    - c-78421
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/autoriai/Hermanas Korneris.md#claim-t-88062|Hermanas Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.
 - susijęs iš [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti.md#claim-t-86850|Gyventi ir mirti savo tėvų tikėjimą išpažindamas jokio kito įstatymo nenori priimti]]: Dusburgo pranešimu, Gediminas per pasiuntinį pareiškė, kad nepriims kitų teisių ir laikysis tų, kurių laikėsi jo tėvai.
@@ -61,7 +73,8 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     laiškus nėra girdėję, o viską priskiria arkivyskupui.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -78,6 +91,7 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     nei trokštu pažinti].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +108,62 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
     tėvų tikėjimą išpažindamas!
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55562
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    4) Vėlesni kronikininkai: A 1 b.
+    K r a n t z, Wand. L. VIII, p. 9, K o j e 1 a v i č i u s, p. 271,
+    Herm. Corneri Chron. p. 1000, nieko apie Gedimino
+    laiškus nėra girdėję, o viską priskiria arkivyskupui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54997
+
+- id: c-55563
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Taigi čia turime aiškų paties Gedimino prisipažinimą, kad
+    niekados jokių laiškų nei popiežiui, nei Vokietijos mies­
+    tams nebuvo rašęs nei liepęs rašyti ir apskritai niekados
+    net nebuvo pareiškęs noro priimti krikščionių tikėjimą.
+    Anot K r a n t z o, 1 c., Gediminas taip pat pareiškęs: Papam
+    vestrum nec novi, nec nosse cupio [Jūsų Tėvo nei pažinojau,
+    nei trokštu pažinti].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54998
+
+- id: c-78421
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tas pareiškimas prieštarauja Koje-
+    1 a v i č i a u s (p. 272), Hermano Kornerio (Chron. p. 1006),
+    Alberto Krantzo (Wandal. L. VIII, c. 9) teiginiams, esą
+    Gediminas buvo prisiekęs, kad nori gyventi ir mirti savo
+    tėvų tikėjimą išpažindamas!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81884

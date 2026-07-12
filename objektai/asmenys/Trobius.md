@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Trobius
 
@@ -17,23 +29,23 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
 <a id="claim-t-186082"></a>
 - t-001
   global_id: t-186082
-  teiginys: 'Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui.'
+  teiginys: "Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis bus pavaldus Lietuvos didžiajam kunigaikščiui."
   pagrindžia:
-    - c-001
+    - c-169443
 
 <a id="claim-t-186083"></a>
 - t-002
   global_id: t-186083
-  teiginys: 'Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą.'
+  teiginys: "Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą."
   pagrindžia:
-    - c-002
+    - c-169444
 
 <a id="claim-t-186084"></a>
 - t-003
   global_id: t-186084
-  teiginys: 'Kojelavičius Trobiaus buvimą didžiuoju kunigaikščiu siejo su jo įkurta Trobomis pavadinta sodybviete Lietuvos viduryje.'
+  teiginys: "Kojelavičius Trobiaus buvimą didžiuoju kunigaikščiu siejo su jo įkurta Trobomis pavadinta sodybviete Lietuvos viduryje."
   pagrindžia:
-    - c-003
+    - c-169445
 - susijęs iš [[objektai/ivykiai/Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu.md#claim-t-185712|Kernavės sueiga po Germanto mirties ir Giligino paskelbimas valdovu]]: Kernavės didikų sueigoje Germanto vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos valdovu, o jo broliui Trobiui patikėta pavaldžioji Žemaitija.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-188527|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Narbutas nurodo, kad Gediminas gimė 1257 m. iš pirmosios Vytenio žmonos.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
@@ -64,6 +76,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     bei lazdą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,6 +108,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     dytų savo maištingas sielas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,11 +133,97 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
     nieko nuveikti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-169443
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 131."
+  citata_originali: |
+    Netrukus po to Lietuvoje baigė dienas ir Ger­
+    mantas. Sukvietus Kernavėje didikų sueigą, Germanto
+    vyresnysis sūnus Giliginas buvo paskelbtas Lietuvos
+    valdovu, jo broliui Trobiui
+    patikėta Žemaitija su ta są­
+    lyga, kad jis bus pavaldus
+    Lietuvos didžiajam kunigaik­
+    ščiui. Rūmų maršalas, para­
+    ginęs vieną bei kitą siekti ir
+    karo, ir taikos metu tokios pat santarvės bei šlovės,
+    kokią paveldėjo iš protėvių, įteikė Giliginui kalaviją
+    bei lazdą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186082
+
+- id: c-169444
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 133"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 133."
+  citata_originali: |
+    Karas prasi­
+    dėjo dėl Daugpilio pilies, ku-
+    T robiu s — L ietu vo s
+    rią Dauguvos pakrantėse ren-
+    d id y s is  k u n ig a ik štis
+    gėsi statyti Livonijos ordinas,
+    o lietuviai visomis išgalėmis
+    stengėsi sutrukdyti.
+    Mirus po to Romuntui, Lietuvą valdyti pavesta Tro-
+    biui, Žemaitijos kunigaikščiui; rašytojai nesutaria, ar
+    jis turėjo rinkto valdovo, ar tik laikino valdytojo ti­
+    tulą. Tiesą sakant, nesuprantu, kam reikėjo globėjo ti­
+    tulu Trobiui valdyti Lietuvą, jeigu pakankamai buvo
+    išlikusių Romunto sūnų, tinkamų ir amžiumi, ir suge­
+    bėjimais; galimas daiktas, aukščiausia valdžia buvo pa­
+    tikėta dėdei dėl to, kad bijota nesantarvės, kurią gar­
+    bės troškimas lengvai galėjo sukelti tarp brolių, norė­
+    ta, kad broliai, jam paklusdami, neskaidytų tarp savęs
+    tėvonijos, o iš pagarbos aukščiausiajai valdžiai tram­
+    dytų savo maištingas sielas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186083
+
+- id: c-169445
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 134"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 134."
+  citata_originali: |
+    Negaliu patikėti, kad
+    jis iš tiesų nebūtų kreipęs nė kruopelytės dėmesio į
+    šią pareigybę ar dėl sunkių aplinkybių jos neatlikęs:
+    dėl susidariusios padėties negalima buvo gaišti, o rei­
+    kėjo skubėti. Kad Trobius apskritai yra buvęs didžiuo­
+    ju kunigaikščiu, įrodo ir tai, jog, savo protėvių papro­
+    čiu, jis Lietuvos viduryje buvo įkūręs naują sodyb­
+    vietę, pavadindamas ją nuo savo vardo Trobomis.
+    Viešpatavimo metu jis nieko daugiau nėra padaręs —
+    gal dėl to, kad mėgo ramybę ir buvo pasenęs, o gal
+    dėl to, kad, nė metų jam nepabuvus prie valdžios, už­
+    klupo jį mirtis — galvojantį apie žygius, bet nespėjusį
+    nieko nuveikti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186084
+
 ## Ryšiai
 - Broliai: [[objektai/asmenys/Giliginas]]
-- Trobius valdė [[objektai/vietos/Lietuva]], [[objektai/vietos/Žemaitija]]

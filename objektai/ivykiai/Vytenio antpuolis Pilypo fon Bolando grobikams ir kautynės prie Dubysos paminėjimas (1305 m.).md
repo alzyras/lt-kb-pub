@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytenio antpuolis Pilypo fon Bolando grobikams ir kautynės prie Dubysos paminėjimas (1305 m.)
 
@@ -35,17 +47,16 @@ Nenurodyta
 <a id="claim-t-185670"></a>
 - t-001
   global_id: t-185670
-  teiginys: '1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius.'
+  teiginys: "1305 m. Pilypas fon Bolandas, pasinaudojęs kunigaikščių ir bajorų išvykimu, nusiaubė Lietuvos pasienio kaimiečius."
   pagrindžia:
-    - c-001
+    - c-169031
 
 <a id="claim-t-185671"></a>
 - t-002
   global_id: t-185671
-  teiginys: 'Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą.'
+  teiginys: "Vytenis su 1500 raitelių netikėtai užpuolė iš Lietuvos pasitraukusių kryžiuočių ariergardą."
   pagrindžia:
-    - c-002
-
+    - c-169032
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,6 +86,7 @@ Nenurodyta
     pusėje krito keletas karių, susidūrimas liovėsi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +112,71 @@ Nenurodyta
     kaip baigėsi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169031
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
+  citata_originali: |
+    Kitais metais, kai Vytenis
+    abu luomus sukvietė į pasi-
+    1305 m e ta i
+    tarimą, Sembos vyskupystės
+    V y te n is
+    p e rse k io ja
+    fogtas Pilypas fon Bolandas,
+    k ry žiu o č iu s g ro b ik u s
+    pasinaudojęs progą, kad bu­
+    vo išvykę kunigaikščiai ir
+    bajorai, nusiaubė pasienio kaimiečius. Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185670
+
+- id: c-169032
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 181"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 181."
+  citata_originali: |
+    Kai valdovui
+    pranešė, jog įsibrovė priešas ir degina kaimus bei kie­
+    mus, jis greitosiomis su tūkstančiu penkiais šimtais
+    raitelių patraukė sustabdyti tolesnio veržimosi. Jau kry­
+    žiuočiai buvo pasitraukę iš krašto, kai Vytenis neti­
+    kėtai užpuolė nebesisaugančių priešų ariergardą; ko­
+    vėsi tada kraštinės susidūrusiųjų eilės: mat, ar dėl ku­
+    rios kitos priežasties, ar dėl to, kad ir vienos, ir kitos
+    kariuomenės dydis buvo nežinomas, vadai nežinojo,
+    kieno pusėje jėgos persvara; kai ir vienoje, ir kitoje
+    pusėje krito keletas karių, susidūrimas liovėsi. Šalti­
+    niai mini, jog tuo pačiu metu kautasi Livonijoje prie
+    D u bu os, tačiau nesako, nei dėl ko prasidėjo kova, nei
+    kaip baigėsi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185671

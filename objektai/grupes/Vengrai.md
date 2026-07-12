@@ -11,6 +11,18 @@ tags:
   - bajorija
   - grupe
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vengrai
 
@@ -23,37 +35,37 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 <a id="claim-t-66254"></a>
 - t-001
   global_id: t-66254
-  teiginys: 'Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių.'
+  teiginys: "Vengrai siaubė Kulmo žemę, o grįždami per mišką patyrė didelių nuostolių nuo kaimiečių parverstų medžių."
   pagrindžia:
-    - c-002
+    - c-66562
 
 <a id="claim-t-66255"></a>
 - t-002
   global_id: t-66255
-  teiginys: 'Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną.'
+  teiginys: "Zigmantas buvo įtraukęs vengrus į koaliciją prieš Lenkijos Karūną."
   pagrindžia:
-    - c-001
+    - c-66561
 
 <a id="claim-t-184584"></a>
 - t-003
   global_id: t-184584
-  teiginys: 'Vengrai nusigręžė nuo jaunikaičio, todėl jis nieko nepešęs turėjo grįžti į Lenkiją.'
+  teiginys: "Vengrai nusigręžė nuo jaunikaičio, todėl jis nieko nepešęs turėjo grįžti į Lenkiją."
   pagrindžia:
-    - c-003
+    - c-167945
 
 <a id="claim-t-184585"></a>
 - t-004
   global_id: t-184585
-  teiginys: 'Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių.'
+  teiginys: "Stipri vengrų kariuomenė susidūrė su Jonu, kuris turėjo vos keturis tūkstančius karių."
   pagrindžia:
-    - c-004
+    - c-167946
 
 <a id="claim-t-184586"></a>
 - t-005
   global_id: t-184586
-  teiginys: 'Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus.'
+  teiginys: "Lenkai, vengrai, čekai, lietuviai ir valachai sudarė sutartis dėl tarpusavio gynybos prasidėjus karui prieš turkus."
   pagrindžia:
-    - c-005
+    - c-167947
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185965|Jonas Olbrachtas]]: Jonas Olbrachtas su maža kariuomene stojo į lemtingą mūšį su stipria vengrų kariuomene ir po pralaimėjimo vos paspruko.
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82294|Elžbieta]]: Elžbieta buvo Vengrijos karalienė ir Jadvygos motina.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54970|Gabrielius Bekešas]]: Gabrielius Bekešas Skornatas buvo vengrų pulkų vadas, kurio nuopelnai apibūdinti kaip ištikimi, drąsūs ir pasiaukojami.
@@ -84,6 +96,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - susijęs iš Vengrija: Tėvo raginamas valdovo sūnus su karių parama leidosi į Vengriją, tačiau vengrai nuo jo nusigręžė.
 - susijęs iš Červinskas: Į Červinską atvyko vengrų pasiuntiniai iš kryžiuočių pusės teirautis Jogailos dėl taikos derybų vietos ir laiko.
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35029|Andrius Vosylius Jastrzębiecas]]: Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.
+- susijęs iš [[objektai/asmenys/Balušas.md#claim-t-191373|Balušas]]: 1055 m. poloviečių vadas Balušas kovojo su Rusia, bet po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54972|Gabrielius Bekešas]]: Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.
 - susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
@@ -102,6 +115,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184857|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Vengrijos seime daugelis rėmė Jono brolį Vladislovą.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93547|Vladislovas iš Opolės]]: Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93549|Vladislovas iš Opolės]]: Vladislovas iš Opolės sutiko, kad Dobrynė ir Kujavija būtų parduotos Ordinui, ir įkeitė Dobrynės žemę.
+- susijęs iš [[objektai/asmenys/Vsevolodas.md#claim-t-191485|Vsevolodas]]: 1055 m. poloviečių vadas Balušas po nesėkmingų kautynių sudarė paliaubas su kunigaikščiu Vsevolodu.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176771|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kėzmarke Vytautas Didysis atmetė Zigmanto siūlymą suardyti uniją ir priimti karaliaus karūną.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176871|Zigmantas Liuksemburgietis]]: Zigmantas Liuksemburgietis Kėzmarke pasiūlė Vytautui karaliaus karūną ir visišką nepriklausomybę nuo Jogailos bei Lenkijos.
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172866|J. Dlugošas]]: J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.
@@ -161,7 +175,8 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     tauto planus suparaližuoti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -187,6 +202,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     viešpats negalėjo nekeršyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -206,6 +222,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     jo iškaršęs tėvas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,6 +239,7 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     nugalėtojo rankų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,16 +260,125 @@ Olesnickis be Vy­ tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką
     tingos Ivano pinklės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
+## Citatos
+
+- id: c-66561
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas tuo buvo labai užgautas. Jogailos
+    paskutinioji žmona Zofija stengėsi gražiais žodžiais jį per­
+    prašyti, bet jis su ironija atsiprašymą atmetė. Olesnickis be Vy­
+    tauto pritarimo ėmė savarankiškai vesti Lenkijos politiką—ieš­
+    kojo būdu susitaikinti su Zigmantu D., rengė lenkų bajorų suva­
+    žiavimą su vengrais, kuriuos neseniai Zigmantas buvo įtraukęs
+    į koaliciją prieš Karūną. Tuo būdu Olesnickiui pasisekė Vy­
+    tauto planus suparaližuoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66255
+
+- id: c-66562
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 257"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 257."
+  citata_originali: |
+    Apie dievo kerštą
+
+      Tuo metu, kai vengrai siaubė Kulmo žemę, Vengrijos karalius su didžiausia kariuomene
+    patraukė prieš vieną karalių, jam pavaldų. Kai  jis brovėsi  į jo karalystę, to krašto
+    kaimiečiai su pjūklais taip papjovė medžius miškuose, kuriais turėjo vengrai grįždami
+    žygiuoti, kad vienas medis griūdamas parblokštų kitą ir taip toliau. Todėl, kai vengrai
+    grįždami įėjo  į šį mišką, mūsų jau minėti kaimiečiai pajudino medžius, o tie, griūdami
+    vienas ant kito iš vienos ir kitos pusės, nuslėgė galybę vengrų. Vis dėlto dievas, būdamas
+    ir geras, ir pakantus, ir gailestingas, galėdamas kantriai laukti ir daug atleisti, pasak
+    pranašo Nahumo, esąs taip pat „dievas pavydus ir keršijąs, viešpats yra keršytojas savo
+    nedraugams, ir jis rūstinasi ant savo priešų” (Nah 1, 2). Argi tad galėjo viešpats kantriai
+    ir gailestingai kęsti, kai šisai Vengrijos karalius siuntė savo tautą siaubti Kristaus bei
+    jo motinos žemės ir joje įsikūrusių brolių, pasiryžusių bet kurią dieną paaukoti ir savo
+    turtus, ir save ir atkeršyti už nukryžiuotojo viešpaties kančias. Kad ir kaip ten būtų buvę,
+    viešpats negalėjo nekeršyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66254
+
+- id: c-167945
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 535"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 535."
+  citata_originali: |
+    Kadangi tėvas karštai
+    reikalavo, kad jis pasinaudotų pasitaikiusia proga, jis,
+    gavęs iš jo karių, vis dėlto leidosi į Vengriją, puoselė­
+    damas šiokias tokias viltis, bet, kaip paaiškėjo, nepa­
+    grįstas. Mat vengrai nuo jo nusigręžė, ir jis, nieko ne­
+    pešęs, turėjo grįžti į Lenkiją. Sį laimės ar žmonių ne­
+    pastovumą kur kas nuosaikiau sutiko jaunikaitis nei
+    jo iškaršęs tėvas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184584
+
+- id: c-167946
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
+  citata_originali: |
+    Jonas beturėjo vos keturis tūkstančius karių, kai susi­
+    dūrė su stipria vengrų kariuomene. Jam stigo jėgų, bet
+    ne drąsos, štai todėl ir su tokia maža kariauna jis sto­
+    jo į lemtingą mūšį. Sumuštas vos ne vos paspruko iš
+    nugalėtojo rankų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184585
+
+- id: c-167947
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 556"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 556."
+  citata_originali: |
+    Po to Lietuvos Didžiosios Kunigaikštystės
+    vardu sudarė taiką su Steponu, Valachijos valdovu,
+    bei jo sūnumi Bogdanu. Galop visų, o ypač Vladislovo,
+    Vengrijos karaliaus, pastangomis lenkai, vengrai, če­
+    kai, lietuviai ir valachai sudarė sutartis, kuriomis ne
+    tik valdovai, bet ir visos jų karalystės bei žemės pa­
+    žadėjo viena kitą ginti, kai prasidės karas prieš turkus.
+    Dievobaimingas Aleksandro įstangas sužlugdė klas­
+    tingos Ivano pinklės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184586
+
 ## Ryšiai
 - Sąjungininkai: [[objektai/grupes/Lietuviai]]
-- Turėjo valdovą: [[objektai/asmenys/Gabrielius Bekešas]]
-- Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Paskyrė Vengrai: [[objektai/asmenys/Gabrielius Bekešas]]
-- Vengrai keliavo į [[objektai/vietos/Červinskas]]
-- Vengrai puolė [[objektai/vietos/Italija]], [[objektai/vietos/Kulmas]]
-- Vengrai sudarė sutartį su [[objektai/grupes/Lietuviai]], [[objektai/grupes/Valachai]]
+- Kariavo prieš: [[objektai/asmenys/Jonas Olbrachtas]]
+- Vengrai puolė [[objektai/vietos/Kulmas]]

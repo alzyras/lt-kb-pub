@@ -16,6 +16,18 @@ tags:
   - pilis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos
 
@@ -48,17 +60,16 @@ Nenurodyta
 <a id="claim-t-87018"></a>
 - t-001
   global_id: t-87018
-  teiginys: 'Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms.'
+  teiginys: "Barboros Radvilaitės rūmų griuvėsiai stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos, kol 1828 m. buvo parduoti plytoms."
   pagrindžia:
-    - c-001
+    - c-82997
 
 <a id="claim-t-87019"></a>
 - t-002
   global_id: t-87019
-  teiginys: 'Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
+  teiginys: "Barboros Radvilaitės rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies."
   pagrindžia:
-    - c-002
-
+    - c-82998
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -94,6 +105,7 @@ Nenurodyta
     tvenkiniai ir sodai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -117,10 +129,73 @@ Nenurodyta
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Barboros Radvilaitės rūmai, griuvėsiai ir parduotos plytos priklausė [[objektai/asmenys/Barbora Radvilaitė]]
+## Citatos
+
+- id: c-82997
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    31
+    Dar prieš kelerius metus Vilnių puo­
+    šė Barboros rūmų griuvėsiai, stovė­
+    ję tarp Katedros ir Šv. Jurgio bažny­
+    čios prie Vilijos. Su skausmu ir pa­
+    sibaisėjimu tenka pripažinti, kad
+    1828 metais tuometinė Radvilų pro-
+    kuratorija, pro pirštus žiūrėdama į
+    lietuviams brangius dingusios di­
+    dingos praeities paminklus, atėmė iš
+    miesto ir krašto, ir taip nedaug se­
+    novinių paminklų teturinčio, tuos
+    garbingus ir puikius griuvėsius, par­
+    duodama juos už 500 sidabrinių rub­
+    lių plytoms naujai statomam dvari­
+    ninko Kosobudžkio namui Nr.
+    priemiestyje už Aušros vartų. Dabar
+    jau nebeliko nieko, kas galėtų pri­
+    minti tą gražųjį Barboros būstą, iš­
+    skyrus tiktai iki šiol dar neužlygintų
+    tvenkinių žymes. Mūsų nuomone,
+    nebūtų buvę tinkamesnės vietos vi­
+    suomenės vaikštynėms kaip gražus
+    parkas Radvilų sklype, kur dabar
+    yra medinė krautuvė, ir toliau, kur
+    buvo karalienės Barboros rūmai,
+    tvenkiniai ir sodai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87018
+
+- id: c-82998
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87019

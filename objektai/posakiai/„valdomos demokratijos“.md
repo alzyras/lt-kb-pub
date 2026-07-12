@@ -14,6 +14,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „valdomos demokratijos“
 
@@ -26,9 +38,9 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
 <a id="claim-t-20957"></a>
 - t-001
   global_id: t-20957
-  teiginys: 'Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.'
+  teiginys: "Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje."
   pagrindžia:
-    - c-001
+    - c-23683
 - susijęs iš [[objektai/asmenys/Vladimiras Putinas.md#claim-t-19325|Vladimiras Putinas]]: Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.
 - susijęs iš [[objektai/zodynas/Valdoma demokratija.md#claim-t-22030|Valdoma demokratija]]: Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.
 - susijęs iš [[objektai/ivykiai/Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.).md#claim-t-20231|Konstitucinio akto dėl nesijungimo į postsovietines Rytų sąjungas priėmimas (1992 m. birželio 8 d.)]]: Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).
@@ -52,7 +64,32 @@ Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrą
     elgė Latvija ir Estija).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23683
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pagrindinė kliūtis –
+    skirtingos abiejų valstybių užsienio politikos geopolitinės orientacijos ir
+    skirtingas požiūris į netolimą istorinę praeitį bei demokratinę santvarką.
+    Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia
+    susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia su-
+    griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos
+    kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos
+    Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasi-
+    elgė Latvija ir Estija).
+  citata_rodoma: "griuvusios SSRS teritorijoje. Lietuva pasirinko euroatlantinės integracijos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20957

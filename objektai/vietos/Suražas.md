@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Suražas
 
@@ -19,9 +31,9 @@ Jonušas puolė Suražą.
 <a id="claim-t-187338"></a>
 - t-001
   global_id: t-187338
-  teiginys: 'Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą.'
+  teiginys: "Jonušas, atvykęs su kariuomene į Drohičiną, puolė Suražą, Kamenecą ir apgulė Brastą."
   pagrindžia:
-    - c-001
+    - c-170363
 - susijęs iš Brasta: Jogaila užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185986|Jonušas (Mazovijos kunigaikštis)]]: Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Poleksiją, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
@@ -48,10 +60,33 @@ Jonušas puolė Suražą.
     Brastą, o Brastoje — savo uošvę.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170363
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Mazovi­
+    jos kunigaikščiu. Pats išvyksta į Žemaičius, o savo sū­
+    nų. didįjį kunigaikštį Vytautą, palieka Gardine. Tačiau
+    jo žentas Jonušas, užmiršęs savo uošvio bei savo uoš­
+    vės bičiulystę, vyksta su kariuomene į Drohičinąl5 ,
+    pastato įgulą; puola Suražą, puola Kamenecą ir apgula
+    Brastą, o Brastoje — savo uošvę.
+  citata_rodoma: "jo žentas Jonušas, užmiršęs savo uošvio bei savo uoš­\nvės bičiulystę, vyksta su kariuomene į Drohičinąl5 , \npastato įgulą; puola Suražą, puola Kamenecą ir apgula \nBrastą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187338
 
 ## Ryšiai
 - Užėmė Suražą: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]]

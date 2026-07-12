@@ -14,6 +14,18 @@ tags:
   - daiktas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sabalų kailiniai
 
@@ -46,10 +58,9 @@ Nenurodyta
 <a id="claim-t-186868"></a>
 - t-001
   global_id: t-186868
-  teiginys: 'Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais.'
+  teiginys: "Komentare nurodoma, kad 1428 m. D. Naugardo delegacija Vilniuje ir Trakuose apdovanojo Vytautą sabalų kailiniais."
   pagrindžia:
-    - c-001
-
+    - c-170052
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +80,34 @@ Nenurodyta
     sabalais, šilko rietimais ir kt. dovanomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170052
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    —  Pagal J . Dlugošą 10 tūks­
+    tančių buvo vienkartinė kontribucija, kurią iš pusės sudėjo D. Nau­
+    gardas ir Pskovas 1428 m., kad Vytautas nutrauktų karo veiksmus,
+    1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos
+    Didžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­
+    vanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas
+    rytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­
+    lenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta
+    pati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje
+    ir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais
+    sabalais, šilko rietimais ir kt. dovanomis.
+  citata_rodoma: "1 1  BK versija apie Pskovo Ir D. Naugardo mokamą Lietuvos \nDidžiajai Kunigaikštystei duoklę gali būti paremta žinia apie do­\nvanas, kurias Vytautas gavo bene 1427 m. vasarą, vizituodamas \nrytines savo valstybės dalis. Kaip tik tos jo  kelionės metu į Smo­\nlenską buvo atvykusi D. Naugardo delegacija su dovanomis; ta \npati delegacija, 1428 m. kovo mėn. lankiusis pas Vytautą Vilniuje \nir Trakuose, taip pat apdovanojo Vytautą sabalų kailiniais, gyvais \nsabalais, šilko rietimais ir kt. dovanomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186868

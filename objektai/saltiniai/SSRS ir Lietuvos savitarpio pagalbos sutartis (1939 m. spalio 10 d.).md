@@ -18,6 +18,18 @@ tags:
   - sutartis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # SSRS ir Lietuvos savitarpio pagalbos sutartis (1939 m. spalio 10 d.)
 
@@ -30,24 +42,23 @@ amziai:
 <a id="claim-t-67530"></a>
 - t-001
   global_id: t-67530
-  teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
+  teiginys: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto."
   pagrindžia:
-    - c-001
+    - c-23951
 
 <a id="claim-t-67531"></a>
 - t-002
   global_id: t-67531
-  teiginys: '1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis.'
+  teiginys: "1939 m. spalio 10 d., spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, pasirašyta SSRS ir Lietuvos savitarpio pagalbos sutartis."
   pagrindžia:
-    - c-002
+    - c-67400
 
 <a id="claim-t-183382"></a>
 - t-003
   global_id: t-183382
-  teiginys: 'Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes.'
+  teiginys: "Pagal 1939 m. spalio 10 d. sutartį Lietuva gavo Vilnių ir dalį teritorijos, bet turėjo įsileisti sovietų karines bazes."
   pagrindžia:
-    - c-003
-
+    - c-166775
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,6 +74,7 @@ amziai:
     va prarado neutralios politikos statusą ir dalį suvereniteto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,6 +94,7 @@ amziai:
     nepriklausomybei.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +115,73 @@ amziai:
     teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-23951
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
+    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
+    teritorijos, o už tai turėjo įsileisti karines sovietų bazes. Berlynas ir Mas-
+    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
+    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
+    Vokietijos už 7,5 mln. aukso dolerių).
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto.
+  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67530
+
+- id: c-67400
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sovietai, pradžioje reikalavę įsileisti 50 000 karių, tą skaičių sumažino
+    iki 20 000. Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
+    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
+    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
+    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
+    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+    nepriklausomybei.
+  citata_rodoma: "santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67531
+
+- id: c-166775
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Įsitikinus, kad iš niekur jokios pagalbos negaus, kad Vokietija
+    jau atidavė Lietuvą SSRS įtakos sferai, agresyviai spaudžiant J. Stalinui ir
+    V. Molotovui, spalio 10 dieną pasirašyta Vilniaus perdavimo sutartis ir
+    SSRS ir Lietuvos savitarpio pagalbos sutartis. Nors paktas minėjo Lietu-
+    vos ir Sovietų Rusijos 1920 m. ir 1926 m. sutartis kaip bazinius dvišalių
+    santykių dokumentus, kiti sutarties straipsniai potencialiai grėsė Lietuvos
+    nepriklausomybei. Lietuva gavo 6,7 tūkst. kv. km teritoriją su Vilniumi
+    ir apie 0,5 mln. gyventojų – tik penktadalį užfiksuotos 1920 m. sutartyje
+    teritorijos, o už tai turėjo įsileisti karines sovietų bazes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183382

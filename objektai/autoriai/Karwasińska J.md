@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karwasińska J
 
@@ -27,10 +39,9 @@ Dusburgietis teigia, kad karwasińska J.
 <a id="claim-t-60725"></a>
 - t-001
   global_id: t-60725
-  teiginys: 'Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu.'
+  teiginys: "Karwasińska J. parašė straipsnį apie Karolio IV aukso bules Lietuvos krikšto klausimu."
   pagrindžia:
-    - c-001
-
+    - c-61357
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +52,25 @@ Dusburgietis teigia, kad karwasińska J.
     Studia z dziejów średniowiecznej kultury, Warszawa, 1976, s. 233—249.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  citata_originali: |
+    Karwasińska J. Złote bulle Karola IV w sprawie chrztu Litwy.— Cultus et cognitio:
+    Studia z dziejów średniowiecznej kultury, Warszawa, 1976, s. 233—249.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60725

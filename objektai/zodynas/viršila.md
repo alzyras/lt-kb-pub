@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # viršila
 
@@ -19,9 +31,9 @@ tags:
 <a id="claim-t-42522"></a>
 - t-001
   global_id: t-42522
-  teiginys: '6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime.'
+  teiginys: "6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisiminė pulko karių susitikimą Vidugirių kaime."
   pagrindžia:
-    - c-001
+    - c-45555
 - susijęs iš [[objektai/grupes/Marijampolės batalionas.md#claim-t-78386|Marijampolės batalionas]]: Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.
 - susijęs iš [[objektai/posakiai/MIRTIES AKIVAIZDOJE.md#claim-t-41454|MIRTIES AKIVAIZDOJE]]: „Mirties akivaizdoje“ siejamas su viršilos Antano Šukio aprašytu nutikimu žvalgyboje.
 - susijęs iš Atskirojo Marijampolės bataliono viršilos Antano Šukio pasvarstymai: 6-ojo pėstininkų pulko 1-ojo bataliono viršila Antanas Šukys pasakojo apie savo kuopos kontrataką prieš lenkų pajėgas tarp Seinų ir Gibų.
@@ -51,7 +63,31 @@ tags:
     „Vidugirių kaimą pasiekėme po pietų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45555
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1 batalionas irgi
+    buvo nuvestas pailsėti pievoj.“ |
+
+    | 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-
+    mena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir
+    vadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-
+    vusį to paties pulko I batalioną Vidugirių kaime.
+    „Vidugirių kaimą pasiekėme po pietų.
+  citata_rodoma: "“ |\n\n| 6-ojo pėstininkų pulko 1 bataliono viršila Antanas Šukys prisi-\nmena, kaip pervedus į lenkų frontą visą 6-ąjį pulką jo kariai ir\nvadas susitiko jau nuo vasaros vidurio kovose su lenkais dalyva-\nvusį to paties pulko I batalioną Vidugirių kaime.\n„Vidugirių kaimą pasiekėme po pietų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42522

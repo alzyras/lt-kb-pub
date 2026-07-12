@@ -5,6 +5,18 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šturmovųjų grupių fronto pralaužimo taktika
 
@@ -37,17 +49,16 @@ Nenurodyta
 <a id="claim-t-67244"></a>
 - t-001
   global_id: t-67244
-  teiginys: 'Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes.'
+  teiginys: "Lenkai frontui pralaužti atsivežė specialias šturmovąsias grupes."
   pagrindžia:
-    - c-002
+    - c-43183
 
 <a id="claim-t-67245"></a>
 - t-002
   global_id: t-67245
-  teiginys: 'Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi.'
+  teiginys: "Durtuvų kautynės šioms grupėms tapo netikėta kliūtimi."
   pagrindžia:
-    - c-001
-
+    - c-12437
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,7 +70,8 @@ Nenurodyta
     tai ir puolė tokiu pat būdu kaip ir bolševikus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -76,7 +88,45 @@ Nenurodyta
     | tai jie ir lindo kyliais vienas paskui kitą kaip skėriai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-12437
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    mūsiškiai metėsi durtuvų kautynėms, tai jie turėjo nusilenkti, nes
+    tai buvo jiems didelis netikėtumas. „Šturmovcai“ tą savo nepasi-
+    sekimą aiškino tuo, kad jie buvo atvežti tiesiog iš bolševikų fronto,
+    tai ir puolė tokiu pat būdu kaip ir bolševikus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67245
+
+- id: c-43183
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tam tikslui
+    | jie sutraukė daug pėstininkų, artilerijos ir kavalerijos
+    | dalinių. Mūsų frontui pralaužti specialiai atsigabeno
+    vadinamąsias „šturmovyji grupy“. Tokią grupę, kad ji būtų
+    lankstesnė ir paslankesné, sudarė nuo 50 iki 70 vyrų, kurie
+    | gerai apmokyti prancūzų taktikos. Kai prasidėjo puolimas,
+    | tai jie ir lindo kyliais vienas paskui kitą kaip skėriai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67244

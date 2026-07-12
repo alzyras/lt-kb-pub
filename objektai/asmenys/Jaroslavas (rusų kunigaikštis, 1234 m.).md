@@ -19,6 +19,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jaroslavas (rusų kunigaikštis, 1234 m.)
 
@@ -31,10 +43,9 @@ periodo_grupes:
 <a id="claim-t-40177"></a>
 - t-001
   global_id: t-40177
-  teiginys: '1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.'
+  teiginys: "1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais."
   pagrindžia:
-    - c-001
-
+    - c-44372
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,10 +66,39 @@ periodo_grupes:
     Šiaurės Vokietijos dalyje nuo Oderio iki
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44372
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Į karinę koaliciją prieš lietuvius įsijungė ir
+    šiaurės vakarų rusėnai. 1234 m. rusų ku-
+    nigaikštis Jaroslavas ir Naugardas sudarė
+    prieš Lietuva nukreiptą taiką su vokiečiais
+    (kalavijuočiais).
+
+    Mūšio išvakarėse
+
+    1236 m. vasario 19 d. bule popiežius, pre-
+    tekstu ginti nuo lietuvių jam pavaldžios
+    Livonijos, Žiemgalos, Kuršo ir Estijos
+    kraštus, paskelbė kryžiaus žygį didelėje
+    Šiaurės Vokietijos dalyje nuo Oderio iki
+  citata_rodoma: "1234 m. rusų ku-\nnigaikštis Jaroslavas ir Naugardas sudarė\nprieš Lietuva nukreiptą taiką su vokiečiais\n(kalavijuočiais).\n\nMūšio išvakarėse\n\n1236 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40177
 
 ## Ryšiai
 - Jaroslavas (rusų kunigaikštis, 1234 m.) sudarė sutartį su [[objektai/grupes/Kalavijuočių ordinas]]

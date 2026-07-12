@@ -1,5 +1,7 @@
 import test, { describe } from "node:test"
 import assert from "node:assert"
+import { FullSlug, resolveRelative } from "../../util/path"
+import { createRequestTracker, ensureSuccessfulSearchPreviewResponse } from "./searchPreview"
 
 type SearchOptionsState = {
   minClaimCount: number
@@ -293,6 +295,61 @@ describe("search option filters", () => {
         { minClaimCount: 1, sourceSelectionMode: "custom", selectedSourceIds: ["eidintas-2013"] },
       ),
       false,
+    )
+  })
+})
+
+describe("search preview requests", () => {
+  test("only the latest delayed preview may render", async () => {
+    const requests = createRequestTracker()
+    const rendered: string[] = []
+    let releaseFirst: (() => void) | undefined
+
+    const renderAfter = async (value: string, pending: Promise<void>) => {
+      const requestId = requests.begin()
+      await pending
+      if (requests.isCurrent(requestId)) rendered.push(value)
+    }
+
+    const firstPending = new Promise<void>((resolve) => {
+      releaseFirst = resolve
+    })
+    const first = renderAfter("old", firstPending)
+    const second = renderAfter("new", Promise.resolve())
+    await second
+    releaseFirst?.()
+    await first
+
+    assert.deepStrictEqual(rendered, ["new"])
+  })
+
+  test("rejects a 404 preview response", () => {
+    assert.throws(
+      () =>
+        ensureSuccessfulSearchPreviewResponse(
+          { ok: false, status: 404 },
+          "https://lietuvosistorija.eu/missing",
+        ),
+      /HTTP 404/,
+    )
+  })
+
+  test("accepts a successful preview response", () => {
+    assert.doesNotThrow(() =>
+      ensureSuccessfulSearchPreviewResponse(
+        { ok: true, status: 200 },
+        "https://lietuvosistorija.eu/objektai/asmenys/Steponas-Batoras",
+      ),
+    )
+  })
+
+  test("resolves the Steponas Batoras result from a nested page", () => {
+    assert.equal(
+      resolveRelative(
+        "objektai/vietos/Gardinas" as FullSlug,
+        "objektai/asmenys/Steponas-Batoras" as FullSlug,
+      ),
+      "../../objektai/asmenys/Steponas-Batoras",
     )
   })
 })

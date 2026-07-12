@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ginklas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Potsdamas
 
@@ -20,9 +32,9 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
 <a id="claim-t-38531"></a>
 - t-001
   global_id: t-38531
-  teiginys: 'Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna.'
+  teiginys: "Potsdame buvo pagamintas prūsiškas 17,4 mm kalibro karabinas su titnagine spyna."
   pagrindžia:
-    - c-001
+    - c-40335
 - susijęs iš [[objektai/asmenys/Borisas Jelcinas.md#claim-t-63521|Borisas Jelcinas]]: Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nepasiduoti reakcijos jėgoms.
 - susijęs iš [[objektai/ivykiai/B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.).md#claim-t-20166|B. Jelcino kreipimasis į Baltijos šalyse tarnaujančius karius po Sausio 13-osios (1991 m. sausio 14 d.)]]: Po 1991 m. sausio 13 d. įvykių Borisas Jelcinas ragino Baltijos šalyse tarnaujančius karius nepasiduoti reakcijos jėgoms.
 - susijęs iš Kaliningrado sritis: Potsdamo konferencijoje Kaliningrado sritis buvo 50 metų atiduota administruoti SSRS.
@@ -41,7 +53,24 @@ Kalibras - 17,4 mm. Pagamintas Potsdame.
     pusėje LDK daugumą šaunamųjų ginklų, skirtų pėstininkams ir kavalerijai, pirkdavo iš Prūsijos gamintojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40335
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prūsiškas karabinas su titnagine spyna. Kalibras - 17,4 mm. Pagamintas Potsdame. XVIII a. antrojoje
+    pusėje LDK daugumą šaunamųjų ginklų, skirtų pėstininkams ir kavalerijai, pirkdavo iš Prūsijos gamintojų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38531

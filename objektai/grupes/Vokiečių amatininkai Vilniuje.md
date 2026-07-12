@@ -14,6 +14,18 @@ tags:
   - grupe
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokiečių amatininkai Vilniuje
 
@@ -26,10 +38,9 @@ amziai:
 <a id="claim-t-86833"></a>
 - t-001
   global_id: t-86833
-  teiginys: 'Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.'
+  teiginys: "Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės."
   pagrindžia:
-    - c-001
-
+    - c-82812
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,10 +57,30 @@ amziai:
     naujakuriams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Vokiečių amatininkai Vilniuje gyveno [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-82812
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    24
+    Vilniuje Žygimanto Senojo laikais
+    auksakalių būta daug ir turtingų.
+    Garsėjo: Volfgangas Auksakalys -
+    1522 m., Štagelis - 1530 m. Tai vis
+    vokiečiai ar iš jų kilę, vadinasi, už jų
+    amatų paplitimą esame skolingi
+    naujakuriams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86833

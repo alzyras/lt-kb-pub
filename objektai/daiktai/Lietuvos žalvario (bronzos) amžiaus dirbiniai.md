@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'V'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos žalvario (bronzos) amžiaus dirbiniai
 
@@ -49,17 +61,16 @@ Nenurodyta
 <a id="claim-t-64966"></a>
 - t-001
   global_id: t-64966
-  teiginys: 'Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr.'
+  teiginys: "Pabaltijyje bronzos amžius datuojamas 1600-500 m. pr. Kr."
   pagrindžia:
-    - c-001
+    - c-05238
 
 <a id="claim-t-64967"></a>
 - t-002
   global_id: t-64967
-  teiginys: 'Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė.'
+  teiginys: "Lietuvos žalvario amžiaus dirbinių sąraše minimi kirviai, kalavijai, iečių galai, papuošalai ir statulėlė."
   pagrindžia:
-    - c-002
-
+    - c-65516
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +82,7 @@ Nenurodyta
     laikus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -85,7 +97,41 @@ Nenurodyta
     statulėlė, 22, 24—31 kirviai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-05238
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Prieš įsistiprinant Pabaltijyje bronzos amžiui (1600-500 m. pr.
+    Kr.)^9 , kai neolito šimtmečiais vario dirbiniai jau mažais kiekiais
+    buvo iš pietinių sričių importuojami, kalbama apie «chalkolito »
+    laikus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64966
+
+- id: c-65516
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Lietuvos žalvario (bronzos) amžiaus dirbiniai:**
+    1 — 10 kirviai, 11 — 13 kalavijai, 14, 19—21 iečių galai, 15—21 papuošalai,
+    statulėlė, 22, 24—31 kirviai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64967

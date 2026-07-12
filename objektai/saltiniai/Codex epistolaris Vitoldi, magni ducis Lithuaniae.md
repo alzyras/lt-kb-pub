@@ -20,6 +20,18 @@ tags: []
 amziai:
   - 'XIV'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Codex epistolaris Vitoldi, magni ducis Lithuaniae
 
@@ -32,10 +44,9 @@ amziai:
 <a id="claim-t-12448"></a>
 - t-001
   global_id: t-12448
-  teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
+  teiginys: "Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m."
   pagrindžia:
-    - c-002
-
+    - c-37190
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,6 +57,7 @@ amziai:
   citata_rodoma: ''
   statusas: verified
 
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - c-002
@@ -57,7 +69,8 @@ amziai:
     gestas Poloniae illustrantia“).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -72,5 +85,26 @@ amziai:
     (^13) **KolLJ, I, 51 p.**
   citata_rodoma: ''
   statusas: verified
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-37190
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.
+    1376—1430 Collec. opera A. Prochaska. Cracoviae,
+    1882 (VI tom. iš „Monumentą medii aevi historica res
+    gestas Poloniae illustrantia“).
+  citata_rodoma: "C. ep. V. = Codex epistolaris Vitoldi Magni Ducis Lithvan.\n1376—1430 Collec. opera A. Prochaska. Cracoviae,\n1882 (VI tom. iš „Monumentą medii aevi historica res\ngestas Poloniae illustrantia"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12448

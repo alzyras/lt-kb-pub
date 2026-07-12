@@ -15,6 +15,18 @@ tags:
   - mūšis
 amziai:
   - 'XII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuršo ir Žiemgalos kunigaikštystė
 
@@ -27,10 +39,16 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
 <a id="claim-t-38968"></a>
 - t-001
   global_id: t-38968
-  teiginys: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
+  teiginys: "Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų."
   pagrindžia:
-    - c-001
+    - c-40772
 
+<a id="claim-t-183656"></a>
+- t-002
+  global_id: t-183656
+  teiginys: "Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų."
+  pagrindžia:
+    - c-167048
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,6 +71,7 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
     torių (lengvoji kavalerija) vėliavos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,7 +99,64 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
     stovyklos apsauga.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-40772
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Be lie-
+    tuvių, mūšyje dalyvavo į pagalbą prieš
+    mėnesį karaliaus atsiųsti Lenkijos pės-
+    tininkų daliniai (trys lenkų pėstininkų
+    kuopos - apie 300 karių, viena jų mūšio
+    metu saugojo lietuvių stovyklą), ir lietu-
+    viams talkininkavusių leninės Kuršo ir
+    Žiemgalos kunigaikštystės dalinių — apie
+    300 Fridricho Ketlerio reitarų. Lietuvos
+    kariuomenę sudarė: kairysis sparnas, cen-
+    tras, dešinysis sparnas, nedidelis rezervas ir
+    stovyklos apsauga. Kairįjį sparną (1200 rai-
+    telių) sudarė husarų, raitarų ir Lietuvos to-
+    torių (lengvoji kavalerija) vėliavos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38968
+
+- id: c-167048
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    LDK didysis etmo-
+    nas Karolis Chodkevičius, matydamas
+
+    jau išsirikiavusius priešo karius, išvedė į
+    mūšio lauką ir savo kariuomenę. Be lie-
+    tuvių, mūšyje dalyvavo į pagalbą prieš
+    mėnesį karaliaus atsiųsti Lenkijos pės-
+    tininkų daliniai (trys lenkų pėstininkų
+    kuopos - apie 300 karių, viena jų mūšio
+    metu saugojo lietuvių stovyklą), ir lietu-
+    viams talkininkavusių leninės Kuršo ir
+    Žiemgalos kunigaikštystės dalinių — apie
+    300 Fridricho Ketlerio reitarų. Lietuvos
+    kariuomenę sudarė: kairysis sparnas, cen-
+    tras, dešinysis sparnas, nedidelis rezervas ir
+    stovyklos apsauga.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183656

@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos ir daugelio rusų karalium
 
@@ -27,10 +39,9 @@ tags:
 <a id="claim-t-06878"></a>
 - t-001
   global_id: t-06878
-  teiginys: 'Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi.'
+  teiginys: "Gediminas raštuose save titulavo Lietuvos ir daugelio rusų karaliumi."
   pagrindžia:
-    - c-001
-
+    - c-00253
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,28 @@ tags:
     ruthenorum)._
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-00253
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Gediminas jau aiškiai buvo nusistatęs prie savo valstybės pri-
+    jungti visą Rusiją. O kadangi tuo tarpu dar jos visõs nebuvo
+    užėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-
+    gelio rusų karalium" _(Rex lithuanorum et multorum
+    ruthenorum)._
+  citata_rodoma: "O kadangi tuo tarpu dar jos visõs nebuvo\nužėmęs, tai raštuose save tituluodavo „Lietuvos ir dau-\ngelio rusų karalium\" _(Rex lithuanorum et multorum\nruthenorum)._"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-06878

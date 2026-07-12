@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441
 
@@ -29,10 +41,9 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
 <a id="claim-t-31883"></a>
 - t-001
   global_id: t-31883
-  teiginys: 'C. A. Lückeratho „Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422–1441“ pasirodė 1969 m. 15 tome.'
+  teiginys: "C. A. Lückeratho „Paul von Rusdorf. Hochmeister des Deutschen Ordens 1422–1441“ pasirodė 1969 m. 15 tome."
   pagrindžia:
-    - c-001
-
+    - c-33689
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,27 @@ Hoch­ meister des Deutschen Ordens 1414-1422 ; t.
     (^169) **Juos išskaičiuoja Z. Ivinskis : LASD, t. 5, 530-533 p.**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33689
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Hoch­
+    meister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :
+    P** **_a_** **ul** **_von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441._**
+    (^169) **Juos išskaičiuoja Z. Ivinskis : LASD, t. 5, 530-533 p.**
+  citata_rodoma: "Hoch­\nmeister des Deutschen Ordens 1414-1422_** **; t. 15, 1969, yra C. A. Lückerath :\nP** **_a_** **ul** **_von Rusdorf. Hochmeister des Deutschen Ordens 1422-1441._**\n(^169) **Juos išskaičiuoja Z."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31883

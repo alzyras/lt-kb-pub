@@ -16,6 +16,18 @@ tags:
   - kunigaikštis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ostrovas
 
@@ -28,16 +40,16 @@ amziai:
 <a id="claim-t-36467"></a>
 - t-001
   global_id: t-36467
-  teiginys: 'Jogaila rugpjūčio 5 d. atvyko į Ostrovą netoli Lydos.'
+  teiginys: "Jogaila rugpjūčio 5 d. atvyko į Ostrovą netoli Lydos."
   pagrindžia:
-    - c-001
+    - c-37611
 
 <a id="claim-t-184317"></a>
 - t-002
   global_id: t-184317
-  teiginys: '1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti.'
+  teiginys: "1392 m. Vytauto ir Jogailos sudaryta Ostrovos sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti."
   pagrindžia:
-    - c-002
+    - c-167688
 - susijęs iš Ostrovo sutartis (1392 m.): Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.
 - susijęs iš Gardinas: Ostrovo taikos metu Jogaila grąžino Vytautui jo tėviškę, įskaitant Trakus ir Gardiną.
 - susijęs iš Luckas: Ostrovo taika Jogaila grąžino Vytautui Trakus ir Gardiną, o prie kitų žemių pridėjo Lucką.
@@ -54,6 +66,7 @@ amziai:
     jųdviejų susitaikinimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,10 +86,51 @@ amziai:
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-37611
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Painformuotas apie galutinius Vytauto žygius, Jogaila
+    rugpiūčio mėn. 5 d. atvyko Ostrovan, netoli Lydos. Čia Jogai­
+    los dvariškių ir Vytauto bajorų akivaizdoj įvyko iškilmingas
+    jųdviejų susitaikinimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36467
+
+- id: c-167688
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Šitų nepasitenkinusiųjų priešaky atsistojo pats
+    Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris
+    po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš
+    Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­
+    sančiais Rusų žemių plotais. Jo sudarytąja su Jogaila Ostrovos
+    sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
+    somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
+    tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184317
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]

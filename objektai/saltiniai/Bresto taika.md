@@ -10,9 +10,22 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bresto taika
 
@@ -25,24 +38,23 @@ amziai:
 <a id="claim-t-21028"></a>
 - t-001
   global_id: t-21028
-  teiginys: '1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.'
+  teiginys: "1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos."
   pagrindžia:
-    - c-002
+    - c-23750
 
 <a id="claim-t-21029"></a>
 - t-002
   global_id: t-21029
-  teiginys: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta.'
+  teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, o Lietuvos Tarybos delegacija į jas nebuvo pakviesta."
   pagrindžia:
-    - c-001
+    - c-23749
 
 <a id="claim-t-183358"></a>
 - t-003
   global_id: t-183358
-  teiginys: 'Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta.'
+  teiginys: "Bresto taikos derybose Vokietijai pravertė gruodžio 11-osios rezoliucija, bet Lietuvos Tarybos delegacija į derybas nebuvo pakviesta."
   pagrindžia:
-    - c-003
-
+    - c-166750
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,6 +70,7 @@ amziai:
     Lietuvos Tarybos delegacija net nebuvo pakviesta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,6 +93,7 @@ amziai:
     tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +112,74 @@ amziai:
     skilo ir pati Taryba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-23749
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau kitoje dalyje
+    Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
+    Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta
+    keturiomis konvencijomis (karinė, transporto, finansų, muitų). Nebeliko
+    nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+  citata_rodoma: "tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21029
+
+- id: c-23750
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kabinetas
+    pradėjo veikti 1918 m. lapkričio 11 d. Ekstravagantiškasis istorijos pro-
+    fesorius A. Voldemaras, tapęs dar ir užsienio reikalų ministru, gerokai
+    nustebino pareiškęs, kad neplanuoja kurti Lietuvos kariuomenės, nes esą
+    Lietuva nesiruošianti kariauti – užteksią milicijos…
+    Tačiau jau lapkričio 23-iąją A. Voldemarui teko skelbti mobilizaciją.
+    Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliu-
+    cijos eksportą, planuodami bolševizuoti Lenkiją, o per ją ir Vokietiją, ir
+    metė Raudonosios armijos divizijas paskui traukiančią namo vokiečių
+    kariuomenę. 1918 m. lapkričio 13 d. jie anulia­vo Bresto taikos sąlygas su
+    Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-
+    tuvos, Baltarusijos, Ukrainos išlaisvinimo iš vokiečių okupacijos“.
+  citata_rodoma: "Vokietija ir pra­dėjo atvirą karinę ir politinę kovą „dėl Estijos, Latvijos, Lie-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21028
+
+- id: c-166750
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nebeliko
+    nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+    Tačiau vienas teigiamas dalykas buvo – kilo skandalas, gruodžio
+    11-osios rezoliucija sukėlė negatyvias JAV ir Rusijos lietuvių reakcijas,
+    skilo ir pati Taryba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183358

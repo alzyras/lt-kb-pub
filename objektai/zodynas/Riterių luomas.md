@@ -5,6 +5,18 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Riterių luomas
 
@@ -29,23 +41,23 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
 <a id="claim-t-55269"></a>
 - t-001
   global_id: t-55269
-  teiginys: 'Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.'
+  teiginys: "Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą."
   pagrindžia:
-    - c-001
+    - c-55818
 
 <a id="claim-t-55270"></a>
 - t-002
   global_id: t-55270
-  teiginys: 'Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.'
+  teiginys: "Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija."
   pagrindžia:
-    - c-001
+    - c-55818
 
 <a id="claim-t-82096"></a>
 - t-003
   global_id: t-82096
-  teiginys: 'Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.'
+  teiginys: "Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos."
   pagrindžia:
-    - c-002
+    - c-78590
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
 - susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
@@ -66,6 +78,7 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     institucija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,7 +99,52 @@ Vartojama bendrame Europos viduramžių ir Kryžiaus karų poveikio miestams kon
     mokslai ir masino prekyba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55818
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kryžiaus karai, kurie XI amžiuje buvo sumaišę protus be­
+    veik visoje Europoje, iš pradžių laikyti tik savotiškais žygiais,
+    virto svarbiausiu įvykiu šios pasaulio dalies istorijoje. Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55269
+    - t-55270
+
+- id: c-78590
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jų įtaka
+    mūsuose ir Rytuose buvo neapsakoma, o pasekmės davė žmo­
+    nijai kuo didžiausios naudos. Visuotinai sutelkus dėmesį į Šven­
+    tąją žemę ir susirėmus su Rytais buvo sutramdytas sugedusio
+    feodalizmo piktnaudžiavimas, iš plėšikaujančios bajorijos su­
+    formuotas riterių luomas - pati garbingiausioji viduramžių
+    institucija. Tuo metu imtasi užmestos laivininkystės, iš Rytų plito
+    mokslai ir masino prekyba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82096

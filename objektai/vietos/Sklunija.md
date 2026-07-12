@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sklunija
 
@@ -27,9 +39,9 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
 <a id="claim-t-58725"></a>
 - t-001
   global_id: t-58725
-  teiginys: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
+  teiginys: "Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė."
   pagrindžia:
-    - c-001
+    - c-59357
 - susijęs iš [[objektai/asmenys/Misinas.md#claim-t-60175|Misinas]]: Misinas su Sklunijos valsčiaus vyrais pagrobė Karaliaučiaus brolių arklius.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.
 - susijęs iš [[objektai/asmenys/Juodutis.md#claim-t-60352|Juodutis]]: Juodutis buvo Naudžioto, sembų valstiečių išrinkto karvedžio, tėvas.
@@ -58,7 +70,34 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
     gana sunkiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59357
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 118-119"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 118-119."
+  citata_originali: |
+    Todėl maldininkai pasiruošė
+    kovai, Markos grafas narsiai užpuolė raitelius, o kiti — pėstininkus; dievo padedami,
+    jie šlovingai nugalėjo priešus, vienus išžudė kalaviju, kitus privertė sprukti, o trečius,
+    subėgusius  į kaimą, kitados vadinamą Kalija, o dabar — Sklunija371, irgi įveikė, tiesa,
+      369 1262—1263 m. (Voigt. J., Namen.., p. 3; AB, 2, sąs. 4, p. 539).
+      370 Vokietijos feodalai: Julicho (Pareinyje) grafas Vilhelmas IV  ir Brandenburgo
+    markos grafas Engelbertas I.
+      371 D.— quondam Calige modo Sclunien dicitur. Kalijos kaimas buvo žinomas  į
+    pietvakarius nuo Karaliaučiaus (Sch-K; Ewald A. L., Die Eroberung..., 4, p. 31—32; GAO,
+
+    gana sunkiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58725

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # stabmeldžiai
 
@@ -17,16 +29,16 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
 <a id="claim-t-185392"></a>
 - t-001
   global_id: t-185392
-  teiginys: 'Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse.'
+  teiginys: "Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisinti karą jų žemėse."
   pagrindžia:
-    - c-001
+    - c-168753
 
 <a id="claim-t-185393"></a>
 - t-002
   global_id: t-185393
-  teiginys: 'Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.'
+  teiginys: "Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys."
   pagrindžia:
-    - c-002
+    - c-168754
 - susijęs iš [[objektai/asmenys/Ditrichas iš Piremonto.md#claim-t-60267|Ditrichas iš Piremonto]]: Ditrichas iš Piremonto žuvo, kai vietos stabmeldžiai užpuolė nuo pilies pasitraukiančius Ordino brolius.
 - susijęs iš [[objektai/autoriai/Prūsijos kronikininkai.md#claim-t-190379|Prūsijos kronikininkai]]: Prūsijos kronikininkai kartojo, kad stabmeldžiai slėpė tam tikras religines apeigas.
 - susijęs iš Strėvos upė: Prie Strėvos upės susirėmė stabmeldžių ir krikščionių pajėgos.
@@ -75,6 +87,7 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
     ir galėjo tose žemėse kariauti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,7 +110,63 @@ Kryžiuočiai lietuvius ir po krikšto vadino stabmeldžiais, siekdami pateisint
     paklusnumo popiežiui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168753
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 370"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 370."
+  citata_originali: |
+    Užgrobę visus grūdus,
+    J ie  su daro k elia s pro-
+    gabenamus Vysla, kryžiuočiai
+    gas karu i
+    juos išsivežė kitur. Kai kara­
+    lius, pasiuntęs žygūną, parei­
+    kalavo nelaužyti susitarimo ir nedaryti skriaudų, šie
+    atrėžė, jog elgtasi jų teisingai ir teisėtai, nes atėmė
+    tai, ką karalius siuntė stabmeldžių tautai, kovojančiai
+    prieš krikščionis. Mat nors jie gerai žinojo, jog lietu­
+    vių tauta su savo didikais daugiau kaip prieš dvidešimt
+    metų priėmė krikščionybę, tačiau po senovei juos va­
+    dino stabmeldžiais, tariamu dievobaimingumu mulkin­
+    dami krikščioniškųjų šalių valdovus (ir net pačius Ro­
+    mos popiežius), dėl kurių paramos ar nuolaidžiavimo
+    ir galėjo tose žemėse kariauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185392
+
+- id: c-168754
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 383"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
+  citata_originali: |
+    Visi Lietuvos
+    iuvoje
+    bažnyčios tarnai, jų valdos ir
+    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
+    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
+    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
+    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
+    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
+    luomui pripažintos lengvatos negali būti teikiamos
+    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
+    paklusnumo popiežiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185393

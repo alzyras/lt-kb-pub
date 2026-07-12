@@ -9,6 +9,19 @@ tags:
   - elekcija
   - karalius
   - sąvoka
+  - teisinė-praktika
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # ciesorius
 
@@ -21,9 +34,9 @@ tags:
 <a id="claim-t-36772"></a>
 - t-001
   global_id: t-36772
-  teiginys: 'Zigmanto šalininkas teigė, kad ir neapkarūnuotas ciesorius turi teisę teikti investitūrą karaliams.'
+  teiginys: "Zigmanto šalininkas teigė, kad ir neapkarūnuotas ciesorius turi teisę teikti investitūrą karaliams."
   pagrindžia:
-    - c-001
+    - c-38725
 - susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/autoriai/Pranciškus de Comitibus.md#claim-t-35472|Pranciškus de Comitibus]]: Pranciškus de Comitibus užrašė, kad Vytauto bijojo ir jį gerbė totorių ciesorius, vyriausiasis chanas.
@@ -56,7 +69,31 @@ tags:
     nuomonę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38725
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Olesnickio, to universiteto rektoriaus, inspiruotą nuomo­
+    nę, atsakė Zigmanto pavedamas Dr. Baptistą Cigala. Šis įro­
+    dinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­
+    titūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­
+    cijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos
+    universiteto profesoriai, pakviesti Zigmanto pareiškti savo
+    nuomonę.
+  citata_rodoma: "Šis įro­\ndinėjo, kad ir neapkarūnuotas ciesorius turįs teisę teikti inves­\ntitūras į karalius; o Zigmanto valdžia paeinanti ne iš karūna­\ncijos fakto, bet iš elektorių rinkimo. Po jo atsiliepė ir Vienos\nuniversiteto profesoriai, pakviesti Zigmanto pareiškti savo\nnuomonę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36772

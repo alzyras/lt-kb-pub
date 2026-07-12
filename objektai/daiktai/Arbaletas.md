@@ -9,6 +9,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Arbaletas
 
@@ -41,16 +53,16 @@ Nenurodyta
 <a id="claim-t-64899"></a>
 - t-001
   global_id: t-64899
-  teiginys: 'XIV-XV a. Lietuvoje arbaletas buvo labiausiai paplitęs šaunamasis ginklas.'
+  teiginys: "XIV-XV a. Lietuvoje arbaletas buvo labiausiai paplitęs šaunamasis ginklas."
   pagrindžia:
-    - c-002
+    - c-65488
 
 <a id="claim-t-64900"></a>
 - t-002
   global_id: t-64900
-  teiginys: 'Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo.'
+  teiginys: "Sembų puolimo metu vienas Ordino brolis, gindamas pilį, paliko įtemptą arbaletą ir pabėgo."
   pagrindžia:
-    - c-001
+    - c-65487
 - susijęs iš [[objektai/asmenys/Arnoldas Krofas.md#claim-t-60240|Arnoldas Krofas]]: Brolis Arnoldas Krofas arbaleto strėle peršovė Divanui kaklą, po to puolėjai pasitraukė nebaigę puolimo.
 - susijęs iš [[objektai/grupes/Sembai.md#claim-t-175080|Sembai]]: Vienas sembas paėmė šį arbaletą ir pasikabino ant kaklo.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-59180|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Per sembų puolimą prie Karaliaučiaus vienas sembas žuvo nuo paimto arbaleto, todėl prūsai ėmė labai bijoti arbaletų.
@@ -71,7 +83,8 @@ Nenurodyta
     trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -91,7 +104,51 @@ Nenurodyta
     Rytų Europos centras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-65487
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 121"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 121."
+  citata_originali: |
+    Dėl to vieną kartą sembų kariuomenė, puldama šią pilį, taip įtūžo,
+    kad vienas brolis, gynęsis drauge su kitais, turėjo palikti įtemptą arbaletą ir bėgti. Vienas
+    sembas paėmė šį arbaletą  ir pasikabino ant kaklo. Kiti, apspitę  jį, didžiai stebėjosi,
+    nežinodami, kas tai yra, nes anksčiau tokių daiktų nebuvę matę; ilgai jį čiupinėję, galop
+    paspaudė ir atpalaidavo nuleistuką, o arbaleto templė nukirto jam kaklą, ir jis neilgai
+    trukus iškvėpė dvasią. Po šio įvykio prūsai labai bijojo arbaletų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64900
+
+- id: c-65488
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šaulys įkiša savo pėdą į arbaleto
+    kilpą (tokiu būdu stipriai atremdamas jį į žemę, tada
+    prie diržo kabančiu kabliu užkabina arbaleto templę
+    ir tiesdamasis ją tempia, kol užkabina už fiksatori-
+    aus, tada belieka įstatyti strėlę ir iššauti. Arbaletas —
+    XIV-XV a. Lietuvoje labiausiai paplitęs šaunamasis
+    ginklas
+
+    svarbus ekonominis, politinis, strateginis
+    Rytų Europos centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64899

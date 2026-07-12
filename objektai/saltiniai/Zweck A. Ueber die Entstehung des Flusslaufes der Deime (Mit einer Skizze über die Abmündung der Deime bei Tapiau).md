@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die Abmündung der Deime bei Tapiau)
 
@@ -27,10 +39,9 @@ Dusburgietis teigia, kad zweck A.
 <a id="claim-t-61389"></a>
 - t-001
   global_id: t-61389
-  teiginys: 'A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome.'
+  teiginys: "A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome."
   pagrindžia:
-    - c-001
-
+    - c-62021
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +52,25 @@ Dusburgietis teigia, kad zweck A.
     Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-62021
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 274"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 274."
+  citata_originali: |
+    Zweck A. Ueber die Entstehung des Flusslaufes der Deime (Mit einer Skizze über die
+    Abmündung der Deime bei Tapiau).— AM, 1896, Bd. 33, S. 110—136.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61389

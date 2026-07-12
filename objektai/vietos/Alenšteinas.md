@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alenšteinas
 
@@ -29,16 +41,16 @@ amziai:
 <a id="claim-t-51349"></a>
 - t-001
   global_id: t-51349
-  teiginys: 'Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
+  teiginys: "Kariuomenės taryba nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   pagrindžia:
-    - c-001
+    - c-37285
 
 <a id="claim-t-51350"></a>
 - t-002
   global_id: t-51350
-  teiginys: 'Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
+  teiginys: "Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą."
   pagrindžia:
-    - c-001
+    - c-37285
 - susijęs iš Drevenca: Sąjungininkai nutarė apeiti Drevencos upę pro Alenšteiną, kad tolimesniu keliu pasiektų Marienburgą.
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.
 - susijęs iš Girdava: Girdavos pilis buvo įkurta 1325 m.
@@ -59,8 +71,31 @@ amziai:
     jau surasti vadovai ir nustatytas kelias.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-37285
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Toji pati taryba turėjo išspręsti ir tolimesnį kariuome­
+    nių žygiavimą. Buvo nutarta pasitraukti kiek atgal, paskui ei­
+    ti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos
+    upę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­
+    jau surasti vadovai ir nustatytas kelias.
+  citata_rodoma: "Buvo nutarta pasitraukti kiek atgal, paskui ei­\nti į šiaurę, kad būtų galima pro Alenšteiną apeiti Drevencos\nupę ir, nors tolimesniu keliu, pasiekti Marienburgą. Buvo tuo­\njau surasti vadovai ir nustatytas kelias."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-51349
+    - t-51350

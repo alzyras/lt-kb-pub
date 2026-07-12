@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kolankowski L. Litwini a Prusacy
 
@@ -26,10 +38,9 @@ Dusburgietis teigia, kad kolankowski L.
 <a id="claim-t-61099"></a>
 - t-001
   global_id: t-61099
-  teiginys: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
+  teiginys: "L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje."
   pagrindžia:
-    - c-001
-
+    - c-61731
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,25 @@ Dusburgietis teigia, kad kolankowski L.
     polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61731
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 265"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 265."
+  citata_originali: |
+    Kolankowski L. Litwini a Prusacy.— Pamiętnik V powszechnego zjazdu historyków
+    polskich w Warszawie 1930 r., Lwów, 1931, t. 2, s. 158—162.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61099

@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)
 
@@ -35,17 +47,16 @@ Nenurodyta
 <a id="claim-t-185784"></a>
 - t-001
   global_id: t-185784
-  teiginys: '1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose.'
+  teiginys: "1509 m. Vilniaus seime nutarta teisti Glinskio šalininkus, o žymiausieji iš jų buvo įkalinti Trakuose."
   pagrindžia:
-    - c-001
+    - c-169145
 
 <a id="claim-t-185785"></a>
 - t-002
   global_id: t-185785
-  teiginys: 'Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.'
+  teiginys: "Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio."
   pagrindžia:
-    - c-002
-
+    - c-169146
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,6 +79,7 @@ Nenurodyta
     kai, įkalinti Trakuose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,7 +103,62 @@ Nenurodyta
     atidavė Mikalojui Radvilai, Lietuvos maršalui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-169145
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 608"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 608."
+  citata_originali: |
+    Karalius ketino atkeršyti už šią skriau­
+    dą, tačiau, Vladislovui, Vengrijos karaliui, tarpininkau­
+    jant, atgriaudėjanti karo audra buvo išsklaidyta, ka­
+    dangi Bogdanas pažadėjo sąžiningai grąžinti viską, ką
+    Po to Lietuvos luomai bu­
+    vo sušaukti į Vilniaus seimą.
+    Apie sausio vidurį atvyko
+    maskvėnų pasiuntiniai tartis
+    dėl taikos: sudarius sutartį,
+    buvo paleisti visi belaisviai. Maskvėnams išvykus, nu­
+    tarta teisti Glinskio šalininkus: daugelis už šį nusikal­
+    timą viešu luomų nutarimu buvo perduoti bajorų prie­
+    žiūrai, o žymiausieji, kaip iždininkai bei arklidinin-
+    kai, įkalinti Trakuose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185784
+
+- id: c-169146
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 608"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 608."
+  citata_originali: |
+    Mykolas Goštautas, Lietuvos
+    Didžiosios Kunigaikštystės arklidininkas, valdęs didžiu­
+    lius turtus Lietuvoje ir Rusioje, buvo vedęs Glinskio
+    dukterį; dėl šitokios artimos giminystės kai kas manė,
+    jog jis su broliu, vyriausiuoju mokesčių rinkėju, nelikęs
+    nuošalyje nuo šio antkryčio, apėmusio net svetimša­
+    lius. Vis dėlto neilgai trukus, patyrus jų nekaltumą,
+    abu broliai buvo karaliaus sprendimu paleisti. Glins­
+    kio turtai buvo perduoti karaliaus iždui, vėliau kara­
+    lius, remdamasis to paties seimo sprendimu, išdalijo
+    juos įvairiems asmenims, o Raigardą bei Goniondzą
+    atidavė Mikalojui Radvilai, Lietuvos maršalui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185785

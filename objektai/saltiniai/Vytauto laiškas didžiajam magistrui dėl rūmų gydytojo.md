@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XII'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto laiškas didžiajam magistrui dėl rūmų gydytojo
 
@@ -27,10 +39,9 @@ amziai:
 <a id="claim-t-88501"></a>
 - t-001
   global_id: t-88501
-  teiginys: 'Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
+  teiginys: "Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną."
   pagrindžia:
-    - c-001
-
+    - c-84480
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,29 @@ amziai:
     metų sausio 13 dieną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84480
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Napierskio  veikale, aukščiau
+    ne sykį cituotame Index Codicis Hist.
+    Dipl. Livon., N. 1189, - yra Vytauto
+    laiško, kuriuo prašoma šio gydyto­
+    jo, turinys. Laiškas datuotas Obol-
+    ce, tarp Vitebsko ir Smolensko, 1426
+    metų sausio 13 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88501

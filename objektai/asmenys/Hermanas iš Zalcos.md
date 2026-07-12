@@ -8,11 +8,6 @@ datos:
   - '1248 m.'
 date_start: '1210'
 date_end: '1248'
-description: 'Hermanas iš Zalcos – Teutonų ordino magistras 1210–1239 m., siejamas su Ordino privilegijomis, iškilimu ir relikvija Elbinge.'
-socialDescription: 'Sužinokite, kaip Hermanas iš Zalcos Dusburgiečio kronikoje siejamas su Teutonų ordino iškilimu, privilegijomis ir Elbingo relikvija.'
-seo_atnaujinta: '2026-07-02T20:14:54.809580+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -22,12 +17,24 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)
 
 ## Santrauka
 
-Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pasakojime vaizduojamas kaip iškalbingas, išmintingas bei garbingas magistras. Jo vadovavimo laikui priskiriamas Ordino sustiprėjimas, didelės popiežiaus ir imperatoriaus privilegijos, žemės Livonijoje ir Prūsijoje bei šventojo kryžiaus dalies perdavimas į Elbingo pilį. Kartu pažymima, kad tyrinėtojai dėl vieno išlikusio nuorašo abejoja, ar Hermano vardas ten neatsirado per klaidą.
+Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, siekęs sustiprinti Ordiną; jo vadovavimo laikui priskiriamas Ordino iškilimas, privilegijos, relikvijos gavimas ir kunigaikščio titulo suteikimas magistrams.
 
 ## Vaidmenys
 
@@ -45,129 +52,129 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
 <a id="claim-t-89819"></a>
 - t-001
   global_id: t-89819
-  teiginys: 'Hermanas iš Zalcos 1210-1239 m. vadovavo Teutonų ordinui ir buvo apibūdinamas kaip iškalbingas, mandagus bei išmintingas magistras.'
+  teiginys: "Hermanas iš Zalcos 1210-1239 m. vadovavo Teutonų ordinui ir buvo apibūdinamas kaip iškalbingas, mandagus bei išmintingas magistras."
   pagrindžia:
-    - c-006
+    - c-85747
 
 <a id="claim-t-89820"></a>
 - t-002
   global_id: t-89820
-  teiginys: 'Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino.'
+  teiginys: "Folkvinas šešerius metus per pasiuntinius ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną Livonijoje prie Teutonų ordino."
   pagrindžia:
-    - c-009
+    - c-85751
 
 <a id="claim-t-89821"></a>
 - t-003
   global_id: t-89821
-  teiginys: 'Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.'
+  teiginys: "Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas."
   pagrindžia:
-    - c-004
+    - c-56085
 
 <a id="claim-t-89822"></a>
 - t-004
   global_id: t-89822
-  teiginys: 'Kronikos pasakojime Hermanas iš Zalcos siekė sustiprinti Ordiną bent iki dešimties ginkluotų brolių riterių išlaikymo.'
+  teiginys: "Kronikos pasakojime Hermanas iš Zalcos siekė sustiprinti Ordiną bent iki dešimties ginkluotų brolių riterių išlaikymo."
   pagrindžia:
-    - c-006
+    - c-85747
 
 <a id="claim-t-89823"></a>
 - t-005
   global_id: t-89823
-  teiginys: 'Dusburgietis Hermaną iš Zalcos vaizduoja kaip iškalbingą, mandagų, išmintingą, apdairų ir garbingą magistrą.'
+  teiginys: "Dusburgietis Hermaną iš Zalcos vaizduoja kaip iškalbingą, mandagų, išmintingą, apdairų ir garbingą magistrą."
   pagrindžia:
-    - c-006
+    - c-85747
 
 <a id="claim-t-89824"></a>
 - t-006
   global_id: t-89824
-  teiginys: 'Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją.'
+  teiginys: "Dusburgietis vaizduoja Hermaną kaip pagrindinį Ordino sustiprėjimo ir iškilimo veikėją."
   pagrindžia:
-    - c-002
+    - c-56083
 
 <a id="claim-t-89825"></a>
 - t-007
   global_id: t-89825
-  teiginys: 'Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą.'
+  teiginys: "Tyrinėtojai mano, kad išlikusioje kopijoje Hermano vardas galėjo atsirasti per klaidą."
   pagrindžia:
-    - c-011
+    - c-85753
 
 <a id="claim-t-89826"></a>
 - t-008
   global_id: t-89826
-  teiginys: 'Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.'
+  teiginys: "Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai."
   pagrindžia:
-    - c-003
-    - c-004
+    - c-56084
+    - c-56085
 
 <a id="claim-t-89827"></a>
 - t-009
   global_id: t-89827
-  teiginys: 'Petras Dusburgietis Hermaną iš Zalcos apibūdino kaip iškalbingą, mandagų, išmintingą, apdairų, atsargų ir garbingą.'
+  teiginys: "Petras Dusburgietis Hermaną iš Zalcos apibūdino kaip iškalbingą, mandagų, išmintingą, apdairų, atsargų ir garbingą."
   pagrindžia:
-    - c-006
+    - c-85747
 
 <a id="claim-t-89828"></a>
 - t-010
   global_id: t-89828
-  teiginys: 'Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.'
+  teiginys: "Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį."
   pagrindžia:
-    - c-002
+    - c-56083
 
 <a id="claim-t-89829"></a>
 - t-011
   global_id: t-89829
-  teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.'
+  teiginys: "Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje."
   pagrindžia:
-    - c-006
+    - c-85747
 
 <a id="claim-t-89830"></a>
 - t-012
   global_id: t-89830
-  teiginys: 'Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą.'
+  teiginys: "Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą."
   pagrindžia:
-    - c-004
+    - c-56085
 
 <a id="claim-t-89831"></a>
 - t-013
   global_id: t-89831
-  teiginys: 'Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.'
+  teiginys: "Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą."
   pagrindžia:
-    - c-010
+    - c-85752
 
 <a id="claim-t-89832"></a>
 - t-014
   global_id: t-89832
-  teiginys: 'Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių.'
+  teiginys: "Išrinktas magistru, Hermanas iš Zalcos siekė, kad Ordinas jo vadovavimo metais galėtų išlaikyti bent dešimt ginkluotų brolių riterių."
   pagrindžia:
-    - c-008
+    - c-85750
 
 <a id="claim-t-89833"></a>
 - t-015
   global_id: t-89833
-  teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje.'
+  teiginys: "Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras ir buvo palaidotas Barletoje."
   pagrindžia:
-    - c-007
+    - c-85749
 
 <a id="claim-t-89834"></a>
 - t-016
   global_id: t-89834
-  teiginys: '1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.'
+  teiginys: "1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko."
   pagrindžia:
-    - c-012
+    - c-85754
 
 <a id="claim-t-89835"></a>
 - t-017
   global_id: t-89835
-  teiginys: 'Leidėjai jį priskyrė Hermanui iš Zalcos111.'
+  teiginys: "Leidėjai jį priskyrė Hermanui iš Zalcos111."
   pagrindžia:
-    - c-005
+    - c-85746
 
 <a id="claim-t-89836"></a>
 - t-018
   global_id: t-89836
-  teiginys: 'Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu.'
+  teiginys: "Dusburgietis Hermano vadovavimo laiką sieja su Ordino privilegijų, dovanų ir valdų išplėtimu."
   pagrindžia:
-    - c-001
+    - c-56082
 - susijęs iš [[objektai/asmenys/Burchardas iš Švandeno.md#claim-t-184050|Burchardas iš Švandeno]]: Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną.
 - susijęs iš [[objektai/asmenys/Burchardas iš Švandeno.md#claim-t-60099|Burchardas iš Švandeno]]: Burchardas iš Švandeno buvo devintas Teutonų ordino didysis magistras ir vėliau perėjo į hospitaljerų ordiną.
 - susijęs iš [[objektai/asmenys/Folkvinas.md#claim-t-60276|Folkvinas]]: Folkvinas, antras Kristaus karių ordino magistras Livonijoje, šešerius metus ragino Hermaną iš Zalcos prijungti Kristaus karių ordiną prie Teutonų ordino.
@@ -226,6 +233,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     žmogaus pastangomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,6 +253,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_vaizdinys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,6 +277,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -288,6 +298,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     pasitarnavo, draugiškai vieną su kitu taikydamas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -304,6 +315,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     iš Zalcos111.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -322,6 +334,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,6 +363,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -367,6 +381,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     nesiliaujantis palankiai rūpintis tais, kurie davė šventus įžadus?
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -385,6 +400,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
       254 1240 ar 1241 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -407,6 +423,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -424,6 +441,7 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     kaip vardo „Herman“ santrumpą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -448,16 +466,285 @@ Hermanas iš Zalcos 1210–1239 m. vadovavo Teutonų ordinui ir Dusburgiečio pa
     kas ten taisytina, ir įstatyti  į tinkamas vėžes269.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: terminas_ar_titulas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
 
+## Citatos
+
+- id: c-56082
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Be to, to paties brolio Hermano vadovavimo metais ir popiežius, ir imperatorius suteikė
+    Ordinui didelių privilegijų. Jo metais Ordinas gavo puikių dovanų Apulijoje, Romanijoje,
+    Armėnijoje, Vokietijoje, o Vengrijoje vadinamąją Burcos žemę159, be to, Livoniją ir Prūsiją.
+    Jo rūpesčiu Ordinas pasiekė tokių klestėjimo viršūnių, kokių nuo amžių niekas nebuvo
+    girdėjęs, nes vargu ar kuris vienuolynas bei ordinas yra šiame pasaulyje tiek laimėję vieno
+    žmogaus pastangomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89836
+
+- id: c-56083
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Dievas jam buvo suteikęs tokių malonių,
+    kad visi jį mylėjo, ir apie jį iš tiesų galima sakyti, jog buvo mielas dievui ir žmonėms.
+    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89828
+    - t-89824
+
+- id: c-56084
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89826
+
+- id: c-56085
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos. Tada
+    jo šventenybė popiežius bei imperatorius, norėdami pagerbti brolį Hermaną, suteikė
+    kunigaikščio titulą jam ir jo įpėdiniams — būsimiems Teutonų namų ordino magistrams.
+    Kaip šios valdžios žymenį popiežius jam padovanojo žiedą, o imperatorius suteikė teisę
+    turėti vėliavoje karališkąsias imperijos insignijas, ir po to magistras ne kartą juodviem
+    pasitarnavo, draugiškai vieną su kitu taikydamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89826
+    - t-89821
+    - t-89830
+
+- id: c-85746
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 22"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 22."
+  citata_originali: |
+    „Pranešimo apie Prūsijos užkariavimą“, priedo prie Naujesniosios didžiųjų magistrų
+    kronikos, XVI a. nuorašas aptiktas Ordino archyve Vienoje. Leidėjai jį priskyrė Hermanui
+    iš Zalcos111.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89835
+
+- id: c-85747
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  citata_originali: |
+    5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,
+    išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą. Išrinktas
+    magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
+    broliais, jog nepagailėtų  ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
+    sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių.
+  citata_rodoma: "5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą\n\n   Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,\no mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,\nišmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89829
+    - t-89823
+    - t-89819
+    - t-89822
+    - t-89827
+
+- id: c-85749
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  citata_originali: |
+    Apie brolį Hermaną, trečią magistrą
+
+       Trečias magistras brolis Hermanas, vadinamas Bartu, vadovavo daug metų, o mirė
+    gegužės 20 dieną ir palaidotas Akone157.
+
+
+
+
+                   5 Apie brolį Hermaną iš Zalcos, ketvirtą magistrą
+
+       Ketvirtas magistras brolis Hermanas iš Zalcos (1210—1239) vadovavo daug metų,
+    o mirė liepos 24 dieną  ir palaidotas Barletoje158.  Jis buvo iškalbingas, mandagus,
+    išmintingas, apdairus, atsargus, o  visi jo darbai rodo  jį buvus garbingą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89833
+
+- id: c-85750
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 40"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 40."
+  citata_originali: |
+    Išrinktas
+    magistru, jis, matydamas, koks silpnas esąs Ordinas, pareiškė pokalbyje su kai kuriais
+    broliais, jog nepagailėtų  ir vienos akies, kad tik Ordinas jo vadovavimo metais taip
+    sustiprėtų, kad stengtų išlaikyti nors dešimt ginkluotų brolių riterių. O ką esi tu šiuo
+    reikalu padaręs, gerasis Jėzau, niekad neišleidžiantis iš akių teisingų prašančiųjų norų ir
+    nesiliaujantis palankiai rūpintis tais, kurie davė šventus įžadus?
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89832
+
+- id: c-85751
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 82"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 82."
+  citata_originali: |
+    Kaip Teutonų namų ordino broliams atiteko Livonijos žemė
+
+      Tuo laiku brolis Folkvinas, antras Kristaus karių ordino magistras Livonijos žemėje,
+    šešerius metus per garbingus pasiuntinius ragino brolį Hermaną iš Zalcos, Teutonų
+    ordino didįjį magistrą, prijungti jo Ordiną prie savo Ordino. Šiuo reikalu brolis Hermanas,
+    minėtasis magistras, ir brolis Jonas iš Magdeburgo, brolio Folkvino pasiuntinys, kreipėsi
+      254 1240 ar 1241 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89820
+
+- id: c-85752
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 41"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 41."
+  citata_originali: |
+    Jį didžiai vertino ir popiežius,  ir imperatorius, nekalbant apie kitus kunigaikščius bei
+    didžiūnus, ir šitaip buvo jų širdis prie savęs palenkęs, kad gaudavo visa, ko beprašydavo
+    savo Ordino garbei bei naudai. Kai venedai buvo smarkiai sutramdyti po maišto, sukelto
+    prieš imperiją, jie paaukojo imperatoriui Fridrichui II ypatingą dovaną — didelę dalį
+    šventojo kryžiaus, kurią imperatorius perleido šiam magistrui, pasiuntusiam ją savo
+    ruožtu į Prūsijos kraštą, į Elbingo pilį, kur po šiai dienai ji krikščionių didžiai gerbiama dėl
+    dažnų stebuklų, kuriuos viešpats padaro per tą kryžių. Kartą, kai popiežius Honorijus III
+    ir imperatorius Fridrichas II surado dingstį kažkokiems slaptiems nesutarimams, juodu
+    patikėjo šį reikalą išspręsti tam pačiam broliui Hermanui, kuris, šitai išgirdęs, atsisakė,
+    tvirtindamas, kad jam nieku būdu nedera spręsti šio pasaulio valdovų bylos, kadangi pats
+    esąs paprastų paprasčiausias žmogus, neturįs nei kilnaus vardo, nei garbios vietos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89831
+
+- id: c-85753
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 23"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 23."
+  citata_originali: |
+    Tyrinėjimai rodo, jog pranešimas
+    parašytas ryšium su 1247—1248 m. procesu, kuris vyko ir Romoje, popiežiaus kurijoje,
+    ir Pomeranijoje, popiežiaus legato akivaizdoje.
+      Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.
+    Originale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato
+    kaip vardo „Herman“ santrumpą.
+  citata_rodoma: "procesu, kuris vyko ir Romoje, popiežiaus kurijoje,\nir Pomeranijoje, popiežiaus legato akivaizdoje.\n  Turime pagrindo manyti, kad į išlikusią kopiją „Hermano“ vardas pakliuvo per klaidą.\nOriginale vardas, matyt, buvo pažymėtas kriptonimu „H“, kurią kopijuotojas suprato\nkaip vardo „Herman“ santrumpą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89825
+
+- id: c-85754
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 84-85"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 84-85."
+  citata_originali: |
+    Apie apaštališkojo sosto pasiuntinį
+
+      Tuo metu popiežiumi buvo Inocentas IV, kuris pirmaisiais savo pontifikato metais,
+    tai yra 1243 viešpaties metais, supratęs iš garsių brolio Hermano iš Zalcos, Teutonų
+    ordino generalinio  magistro267, pareiškimų, kad naujas tikėjimo daigynas  Prūsijos
+    žemėje daug ko nustoja dėl minėtojo kunigaikščio Sventopelko žiaurumo, pasiuntė  į
+      266 Apie prūsų sukilimo pradžią ir datą žr. paaiškinimus D. III, 34, 271.
+      267 1243 m. Ordino didžiuoju magistru buvo ne Hermanas iš Zalcos, o Gerhardas iš
+    Malbergo (1240—1244).
+
+    šią žemę savo pasiuntinį Vilhelmą, buvusį Modenos vyskupą, vėliau tapusį popiežiumi
+    Aleksandru IV268, liepdamas šias žemes padalyti į keturias vyskupystes, pataisyti viską,
+    kas ten taisytina, ir įstatyti  į tinkamas vėžes269.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89834
+
 ## Ryšiai
-- Paskyrė Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.): [[objektai/asmenys/Fridrichas II]], [[objektai/asmenys/Popiežius Honorijus III]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mirė [[objektai/vietos/Salernas]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo palaidotas [[objektai/vietos/Barleta]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė [[objektai/vietos/Kulmas]], [[objektai/vietos/Štarkenbergas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į [[objektai/vietos/Elbingas]], [[objektai/vietos/Kulmas]], [[objektai/vietos/Kulmo žemė]], [[objektai/vietos/Livonija]], [[objektai/vietos/Prūsija]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) dalyvavo mūšyje [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo]], [[objektai/asmenys/Hermanas Balkas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) pastatė [[objektai/vietos/Kulmas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) siuntė į [[objektai/vietos/Elbingas]]
+- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) paskyrė [[objektai/asmenys/Ditrichas iš Bernheimo]]

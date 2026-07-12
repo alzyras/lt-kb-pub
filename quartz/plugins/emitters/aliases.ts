@@ -1,4 +1,4 @@
-import { FullSlug, isRelativeURL, joinSegments, resolveRelative } from "../../util/path"
+import { FullSlug, isRelativeURL, joinSegments, simplifySlug } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 import { write } from "./helpers"
 import { BuildCtx } from "../../util/ctx"
@@ -6,6 +6,7 @@ import { VFile } from "vfile"
 import path from "path"
 
 const MAX_SEGMENT_BYTES = 240
+const TRAILING_PARENTHETICAL = /-\([^)]{1,120}\)$/
 
 function hasOverlongSegment(slug: FullSlug): boolean {
   return String(slug)
@@ -51,7 +52,8 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
     )
     return null
   }
-  const redirUrl = resolveRelative(fromSlug, toSlug)
+  const targetPath = simplifySlug(toSlug)
+  const redirUrl = targetPath === "/" ? "/" : `/${targetPath}`
   const canonicalUrl = ctx.cfg.configuration.baseUrl
     ? joinSegments(`https://${ctx.cfg.configuration.baseUrl}`, toSlug)
     : redirUrl
@@ -71,6 +73,65 @@ function redirectPage(fromSlug: FullSlug, toSlug: FullSlug, ctx: BuildCtx) {
     slug: fromSlug,
     ext: ".html",
   })
+}
+
+function generatedAliasCandidates(ogSlug: FullSlug): FullSlug[] {
+  const candidates = new Set<string>()
+  const slug = String(ogSlug)
+  const segments = slug.split("/")
+  const last = segments.at(-1)
+
+  if (last) {
+    const withoutParenthetical = last.replace(TRAILING_PARENTHETICAL, "")
+    if (withoutParenthetical && withoutParenthetical !== last) {
+      candidates.add([...segments.slice(0, -1), withoutParenthetical].join("/"))
+    }
+  }
+
+  const commaCompat = slug.replace(/,/g, "-percent2C")
+  if (commaCompat !== slug) {
+    candidates.add(commaCompat)
+  }
+
+  return [...candidates].filter((candidate) => candidate !== slug) as FullSlug[]
+}
+
+function buildGeneratedAliasIndex(content: [unknown, VFile][]) {
+  const canonicalSlugs = new Set<FullSlug>()
+  const explicitAliasSlugs = new Set<FullSlug>()
+  const candidates = new Map<FullSlug, Set<FullSlug>>()
+
+  for (const [_tree, file] of content) {
+    const ogSlug = file.data.slug as FullSlug | undefined
+    if (!ogSlug) continue
+    canonicalSlugs.add(ogSlug)
+
+    for (const aliasTarget of file.data.aliases ?? []) {
+      const aliasTargetSlug = (
+        isRelativeURL(aliasTarget)
+          ? path.normalize(path.join(ogSlug, "..", aliasTarget))
+          : aliasTarget
+      ) as FullSlug
+      explicitAliasSlugs.add(aliasTargetSlug)
+    }
+
+    for (const candidate of generatedAliasCandidates(ogSlug)) {
+      if (!candidates.has(candidate)) {
+        candidates.set(candidate, new Set())
+      }
+      candidates.get(candidate)!.add(ogSlug)
+    }
+  }
+
+  const safeAliases = new Map<FullSlug, FullSlug>()
+  for (const [candidate, targets] of candidates) {
+    if (targets.size !== 1 || canonicalSlugs.has(candidate) || explicitAliasSlugs.has(candidate)) {
+      continue
+    }
+    safeAliases.set(candidate, [...targets][0])
+  }
+
+  return safeAliases
 }
 
 async function* processFile(ctx: BuildCtx, file: VFile) {
@@ -98,12 +159,23 @@ async function* processFile(ctx: BuildCtx, file: VFile) {
   }
 }
 
+async function* processGeneratedAliases(ctx: BuildCtx, content: [unknown, VFile][]) {
+  const aliases = buildGeneratedAliasIndex(content)
+  for (const [fromSlug, toSlug] of aliases) {
+    const page = redirectPage(fromSlug, toSlug, ctx)
+    if (page) {
+      yield page
+    }
+  }
+}
+
 export const AliasRedirects: QuartzEmitterPlugin = () => ({
   name: "AliasRedirects",
   async *emit(ctx, content) {
     for (const [_tree, file] of content) {
       yield* processFile(ctx, file)
     }
+    yield* processGeneratedAliases(ctx, content)
   },
   async *partialEmit(ctx, _content, _resources, changeEvents) {
     for (const changeEvent of changeEvents) {

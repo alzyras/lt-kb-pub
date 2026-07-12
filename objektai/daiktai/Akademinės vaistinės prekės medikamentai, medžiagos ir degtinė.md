@@ -12,8 +12,21 @@ atnaujinta: ''
 tags:
   - daiktas
   - seimas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akademinės vaistinės prekės medikamentai, medžiagos ir degtinė
 
@@ -46,10 +59,9 @@ Nenurodyta
 <a id="claim-t-87043"></a>
 - t-001
   global_id: t-87043
-  teiginys: 'Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių.'
+  teiginys: "Surašius, persvėrus ir įvertinus Akademinės vaistinės medžiagas, jų vertė buvo mažesnė 28 707 auksinais ir 12 grašių."
   pagrindžia:
-    - c-001
-
+    - c-83022
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +88,40 @@ Nenurodyta
     sorte krito.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83022
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Betgi pastaraisiais laikais, kelių vaisti­
+    ninkų dėka pradėjusi plėstis, ji pasiekė tą klestintį būvį, kaip
+    dabar (1780 metais).
+    Medžiagų in crudo [žaliavų], užjūrio ir vietinių prepara­
+    tų, užėjus vargo metams, negalėjo būti gauta pakankamos
+    quantitas, qualitas ir valor [kiekio, kokybės, vertės], kadangi
+    geram dalykų vertinimui reikėjo atsikviesti prisiekusių me­
+    dikų, kurie būtų padarę teisingą apskaitą; vis dėlto po tų
+    medžiagų surašymo, kiek sugebėta, persverta ir įvertinta, ir
+    tų visų medikamentų bei medžiagų vertė buvo mažesnė 28
+    707 auksinais ir 12 grašių.
+    Metinės pajamos, kaip kad įsitikinta peržiūrėjus kelioli­
+    kos metų darbą, buvo nevienodos ir priklausė nuo įvairių
+    aplinkybių, būtent: kol vaistinėje buvo leidžiama laikyti ir
+    pardavinėti degtinę, tol metinės pajamos galėdavo pasiekti
+    quantum 30 000 auksinų; seimo sprendimu buvo uždrausta
+    vaistinėse pardavinėti degtinę, tad pajamos tiesiog in tertio
+    sorte krito.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87043

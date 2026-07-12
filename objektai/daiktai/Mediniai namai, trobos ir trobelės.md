@@ -10,6 +10,18 @@ tags:
   - kunigaikštis
   - miestas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mediniai namai, trobos ir trobelės
 
@@ -42,17 +54,16 @@ Nenurodyta
 <a id="claim-t-87054"></a>
 - t-001
   global_id: t-87054
-  teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
+  teiginys: "XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė."
   pagrindžia:
-    - c-002
+    - c-83034
 
 <a id="claim-t-87055"></a>
 - t-002
   global_id: t-87055
-  teiginys: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
+  teiginys: "Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės."
   pagrindžia:
-    - c-001
-
+    - c-83033
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,6 +87,7 @@ Nenurodyta
     palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +111,61 @@ Nenurodyta
     ną tokį žygį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83033
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    17
+
+    ## Puslapis 34
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono
+    sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami
+    puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse
+    įkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo
+    seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
+    kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų,
+    supančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo
+    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
+    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
+    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87055
+
+- id: c-83034
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
+    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
+    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
+    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
+    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
+    surašytos klausantis jų skaldų, bei
+    šiaurės kronikos byloja ne apie vie­
+    ną tokį žygį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87054

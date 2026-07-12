@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # A. Veryha-Darevskis
 
@@ -27,17 +39,16 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
 <a id="claim-t-71487"></a>
 - t-001
   global_id: t-71487
-  teiginys: 'A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
+  teiginys: "A. Veryha-Darevskis šiame šaltinyje nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius."
   pagrindžia:
-    - c-001
+    - c-38774
 
 <a id="claim-t-71488"></a>
 - t-002
   global_id: t-71488
-  teiginys: 'A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius.'
+  teiginys: "A. Veryha-Darevskis nurodomas kaip veikalo „Lietuvos mokesčiai“ autorius."
   pagrindžia:
-    - c-001
-
+    - c-38774
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +61,30 @@ A. Veryha-Darevskis šiame šaltinyje minimas kaip veikalo „Lietuvos mokesčia
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-38774
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
+    išeidavo dūmai. Red.
+    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
+    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
+    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71487
+    - t-71488

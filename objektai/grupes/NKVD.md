@@ -16,6 +16,18 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # NKVD
 
@@ -64,23 +76,30 @@ Nenurodyta
 <a id="claim-t-71677"></a>
 - t-001
   global_id: t-71677
-  teiginys: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
+  teiginys: "Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais."
   pagrindžia:
-    - c-003
+    - c-70212
 
 <a id="claim-t-71680"></a>
 - t-002
   global_id: t-71680
-  teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
+  teiginys: "Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą."
   pagrindžia:
-    - c-004
+    - c-70213
 
 <a id="claim-t-71681"></a>
 - t-003
   global_id: t-71681
-  teiginys: 'Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių.'
+  teiginys: "Kovai su partizanais Lietuvoje dislokuotoje NKVD kariuomenėje 1945 m. vasarą buvo iki 20 tūkst., o 1946 m. apie 14 tūkst. karių."
   pagrindžia:
-    - c-001
+    - c-16639
+
+<a id="claim-t-193736"></a>
+- t-004
+  global_id: t-193736
+  teiginys: "Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą."
+  pagrindžia:
+    - c-42881
 - susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
 - susijęs iš [[objektai/grupes/Dzūkų būrys.md#claim-t-40877|Dzūkų būrys]]: Liepos 13 d. Dzūkų būrio partizanai prie Žuvinto ežero susidūrė su pasaloje laukusiais NKVD kareiviais ir vietiniais stribais.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65925|NKGB]]: Atkuriant stalininį režimą Lietuvoje, totalitariniam režimui dirigavo komunistų partija, NKGB ir NKVD struktūros.
@@ -189,6 +208,7 @@ Nenurodyta
     jus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -208,9 +228,25 @@ Nenurodyta
   citata_rodoma: ''
   statusas: verified
 
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - c-003
+  santrauka: 'Liepos 22 d. apie 1500 NKVD karių ir stribų apsupo partizanų stovyklą.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
+    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
+    iki 13 valandos drąsiai atmušinėjo priešo atakas.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+- c-004
   santrauka: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -226,12 +262,13 @@ Nenurodyta
     gyventojų neapykantą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-- c-004
+- c-005
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     So-
@@ -244,18 +281,91 @@ Nenurodyta
     bolševikų vykdytos politikos dalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-16639
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kovai su partizanais Lietuvoje dislokuota gausi NKVD kariuomenė:
+    1945 m. vasarą joje buvo iki 20 tūkst., 1946 m. – apie 14 tūkst. karių. NKVD
+    ir NKGB skyriai, įsikūrę visose apskrityse, koordinavo baudžiamąsias ope-
+    racijas, vadovavo joms ir žmonių gaudynėms, tardė suimtuosius, verbavo
+    agentus. Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė
+    „naikintojų batalionus“, lietuvių vadintus stribais (santrumpa nuo rus. pa-
+    vadinimo istrebitelnyje bataliony), į kuriuos agitavo stoti vietinius gyvento-
+    jus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71681
+
+- id: c-42881
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Išdavikas pranešė tikslią partizanų dislokacijos vietą. Liepos 22 d. apie
+    1500 NKVD karių ir stribų apsupo partizanų stovyklą. Partizanai nuo 10
+    iki 13 valandos drąsiai atmušinėjo priešo atakas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193736
+
+- id: c-70212
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos žydų sunaikinimas – Holokaustas
+    Vokietijai greitai užėmus Lietuvą labai mažai gyventojų pa-
+    sitraukė į Rytus, sovietai vos spėjo išgabenti į Maskvą LSSR vyriausybę.
+    Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus,
+    grąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą
+    juos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie
+    vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-
+    rais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-
+    nėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies
+    gyventojų neapykantą.
+  citata_rodoma: "Tai pražūtingai atsiliepė žydams – daugybė jų, besitraukiančių į Rytus, \ngrąžinti atgal lietuvių sukilėlių arba sugrįžo patys, nes kelyje į Maskvą \njuos aplenkė vermachtas, o iš kitos pusės, sovietų kariai ir NKVD prie \nvidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezerty-\nrais, panikos skleidėjais, vos tik pamatę dokumentus lietuvių kalba įtari-\nnėjo šnipinėjimu. Nuo pirmų nacių okupacijos dienų žydai pajuto dalies \ngyventojų neapykantą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71677
+
+- id: c-70213
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    So-
+    vietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai,
+    žmones imta kalinti ir tremti į SSRS gilumą. Net didžiausi SSRS simpatikai
+    prikando liežuvius – bolševizmą galima pažinti tik jame pagyvenus.
+    Represijos ir 1941 metų
+    Birželio sukilimas
+    Represijos, areštai, deportacijos, jų baimė – sudedamoji
+    bolševikų vykdytos politikos dalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71680
+
 ## Ryšiai
-- Sąjungininkai: [[objektai/grupes/NKGB]]
-- Kariavo prieš: [[objektai/grupes/Dzūkų būrys]], [[objektai/grupes/Lietuvos partizanai]]
-- Turėjo priklausinį: [[objektai/grupes/Naikintojų batalionai]]
-- NKVD keliavo į [[objektai/vietos/Kėdainiai]]
-- NKVD puolė [[objektai/grupes/Dainavos apygarda]], [[objektai/vietos/Kalniškės miškas]], [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]
-- NKVD apgulė [[objektai/vietos/Žuvinto ežeras]], [[objektai/vietos/Žuvinto palios]]
-- NKVD siuntė į [[objektai/vietos/SSRS]]
-- NKVD kariavo prieš [[objektai/grupes/Lietuviai]]
-- NKVD dalyvavo mūšyje [[objektai/ivykiai/Šimonių girios apgultis]], [[objektai/ivykiai/Šimonių girios apgultis (1949 m.)]], [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
+- NKVD puolė [[objektai/vietos/Trakiniai]], [[objektai/vietos/Žuvinto palios]]

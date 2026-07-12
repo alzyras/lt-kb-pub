@@ -21,6 +21,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas XXII (arkivyskupas, XIV a.)
 
@@ -33,23 +45,23 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
 <a id="claim-t-183545"></a>
 - t-001
   global_id: t-183545
-  teiginys: 'Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto.'
+  teiginys: "Popiežius Jonas XXII kėlė bažnytinės unijos idėją, o Gediminas jam siuntė laiškus dėl krikšto."
   pagrindžia:
-    - c-001
+    - c-166938
 
 <a id="claim-t-183840"></a>
 - t-002
   global_id: t-183840
-  teiginys: 'Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo.'
+  teiginys: "Popiežius Jonas XXII po pasitarimo su kardinolais paskelbė sprendimą dėl Kryžiuočių ordino ir Rygos Bažnyčios ginčo."
   pagrindžia:
-    - c-002
+    - c-167225
 
 <a id="claim-t-184095"></a>
 - t-003
   global_id: t-184095
-  teiginys: '1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę.'
+  teiginys: "1316 m. valdė popiežius Jonas XXII, o du karaliai buvo išrinkti per nesantarvę."
   pagrindžia:
-    - c-004
+    - c-167480
 - susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97447|Jonas XXII (popiežius)]]: 1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.
 - susijęs iš [[objektai/asmenys/Jonas XXII (popiežius).md#claim-t-97448|Jonas XXII (popiežius)]]: Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102844|Dusburgas]]: Dusburgas trumpai paminėjo, kad popiežius Jonas XXII Rygos arkivyskupo Fridricho ir miestiečių prašymu pasiuntė į Livoniją du legatus.
@@ -77,6 +89,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     o valstybės užkariavimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,6 +115,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
     kaudų jiems, jokių skriaudų Bažnyčiai nedaryti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,6 +144,7 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
   citata_rodoma: ''
   statusas: verified
 
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - c-004
@@ -146,10 +161,79 @@ Dusburgietis teigia, kad 1324 m. popiežius Jonas XXII pagrasęs ekskomunikuoti 
           119.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-166938
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gediminas kūrė stačiatikių metro-
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose
+    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
+    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
+    o valstybės užkariavimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183545
+
+- id: c-167225
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Įrodė, jog daugiausia kaltinimų anaiptol ne Ordinui ten­
+    ka, jis pats niekuo dėtas, daugelis kitų Ordino riterių irgi gali
+    būti pateisinti, o kai kurie priekaištai suvis prasimanyti33.
+    Popiežius po atskiro pasitarimo su kardinolais visuoti­
+    niame susirinkime pareiškė tokį sprendimą: „Kryžiuočių or­
+    dino riteriai turi Rygos Bažnyčiai, vyskupams bei kapitulai
+    atiduoti viską, ką paėmę, ir daugiau jų nepuldinėti; prakeiks­
+    mas kris ant to, kuris mūšyje sužeistą Ordino brolį pribaig­
+    tų arba skatintų tokį nusikaltimą daryti; niekas daugiau ne­
+    gali trukdyti arba kelti sunkumų tiems, kurie norėtų vykti
+    pas popiežių; visos sąjungos ir susimokiusiųjų sambūriai,
+    gresiantys Bažnyčios garbei, turi būti išsklaidyti ir ateityje
+    nekuriami. Kryžiuočiai turi gerbti dvasininkiją ir jokių nuos­
+    kaudų jiems, jokių skriaudų Bažnyčiai nedaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183840
+
+- id: c-167480
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 249."
+  citata_originali: |
+    118. Apie popiežių Joną XXII ir išrinktus [karalius]
+
+      1316 viešpaties metais valdė Jonas XXII, popiežius, ir šie du per nesantarvę išrinkti
+    karaliai.
+
+
+
+          119.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184095
 
 ## Ryšiai
 - Jonas XXII (arkivyskupas, XIV a.) siuntė į [[objektai/vietos/Livonija]]

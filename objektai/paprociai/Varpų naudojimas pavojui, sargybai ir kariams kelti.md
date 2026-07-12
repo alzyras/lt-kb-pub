@@ -11,12 +11,24 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Varpų naudojimas pavojui, sargybai ir kariams kelti
 
 ## Santrauka
 
-Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.
+Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo. Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.
 
 ## Laikotarpis ir datos
 Nenurodyta
@@ -34,16 +46,22 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189813"></a>
 - t-001
   global_id: t-189813
-  teiginys: 'Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.'
+  teiginys: "Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172696
 
+<a id="claim-t-194638"></a>
+- t-002
+  global_id: t-194638
+  teiginys: "Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą."
+  pagrindžia:
+    - c-177036
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Gumbinės (Gumbin) miesto pavadinimą kildino iš tokio varpo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -54,8 +72,72 @@ Nenurodyta
     aukojami gaidžiai, kaip budrumo simboliai.
     Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
     skirtų tam tikroms religinėms apeigoms.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Lietuviškai šis žo dis paraidžiui reiškia varpą, perkeltine prasme - žadinimą.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Lietuviškai šis žo­
+    dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.
+    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
+    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
+    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
+    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
+    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
+    nios miesteliu, tikroje lietuviškoje žemėje.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-172696
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  citata_originali: |
+    Gumbinės (Gumbin) miestas nuo
+    tokio varpo gavęs pavadinimą.
+    Kronikininkai taip pat mano, kad dievui Varpui būdavo
+    aukojami gaidžiai, kaip budrumo simboliai.
+    Senovės egiptiečiai, persai, graikai, romėnai turėjo varpų,
+    skirtų tam tikroms religinėms apeigoms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189813
+
+- id: c-177036
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 161"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 161."
+  citata_originali: |
+    Lietuviškai šis žo­
+    dis paraidžiui reiškia varpą, perkeltine prasme -  žadinimą.
+    Padavimai išsaugojo paprastų žmonių atminimą, kad lie­
+    tuvių garduose, arba pilyse, vadintose Tweras, būta varpų ka­
+    riams prikelti, ženklui sargybiniams paduoti, taip pat pavojui
+    paskelbti. 1780 metais* tokio varpo gabalą radau sename ap­
+    kase, arba pilies pylime, prie Gorodiščės kaimo, ties Rodū­
+    nios miesteliu, tikroje lietuviškoje žemėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194638

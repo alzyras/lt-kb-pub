@@ -10,6 +10,18 @@ tags:
   - kraštas
   - pilis
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # territorium lant valsčius
 
@@ -22,17 +34,16 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
 <a id="claim-t-58874"></a>
 - t-001
   global_id: t-58874
-  teiginys: 'Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas.'
+  teiginys: "Dusburgiečio kronikoje žemė susideda iš mažesnių teritorijų, kurioms istoriografijoje taikomas valsčiaus terminas."
   pagrindžia:
-    - c-001
+    - c-59506
 
 <a id="claim-t-58875"></a>
 - t-002
   global_id: t-58875
-  teiginys: 'Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais.'
+  teiginys: "Valsčių sudarė pilis, laukai, pievos ir miškeliai su bajorų kaimais bei žemdirbių sodžiais."
   pagrindžia:
-    - c-002
-
+    - c-59507
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,6 +61,7 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
     tai priimta) taikyti ir XIII—XIV a. pradžiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -65,7 +77,49 @@ Dusburgietis teigia, kad žemė susideda iš mažesnių „teritorijų” (in te
     p. 206—207).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-59506
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 55"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 55."
+  citata_originali: |
+    D. žemė susideda iš mažesnių „teritorijų” (in terrilorio Scoken, III, 6; ad territorium
+    Reysen, III, 11; de depredatione territorium Pastovie et Gesovie, III, 246 ir kt.); žinomas
+    tik lotyniškas šio teritorinio vieneto vardas (Jer —geblt), plg. HP, 1, 1, p. 284; Wenskus
+    R. Kleinverbände..., p. 201—254.
+      H. Lovmianskis šioms „žemės” dalims pavadinti įvedė sutartinį terminą — valsčių
+    (Łowmiański H. Studja..., 2, p. 5, 137). D. territorium atitinka kryžiuočių kelių aprašymų
+    lant (plg. D. III, 313 ir Weg. 86; D. III, 246 ir Weg. 33). Lant (kraštas) vėlesniuose
+    dokumentuose Lietuvoje vadinamas valsčiumi. Valsčiaus terminą galime (istoriografijoje
+    tai priimta) taikyti ir XIII—XIV a. pradžiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58874
+
+- id: c-59507
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 56"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 56."
+  citata_originali: |
+    Valsčių sudarė  pilis  ir didelis laukų, pievų, miškelių plotas su bajorų sodybomis
+    — kaimais ir žemdirbių — sodžiais (Jurginis J. Baudžiavos..., p. 168; Łowmiański H.
+    Studja..., 2, p. 6— 44, 78; Пашуто В. T. Образование..., c. 333; Pašuta V. Lietuvos...,
+    p. 206—207).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58875

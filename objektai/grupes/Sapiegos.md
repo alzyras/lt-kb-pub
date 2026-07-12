@@ -14,9 +14,22 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+  - šeima
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sapiegos
 
@@ -29,9 +42,16 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 <a id="claim-t-184581"></a>
 - t-001
   global_id: t-184581
-  teiginys: 'A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė.'
+  teiginys: "A. Kojelavičius pirmo ir antro tomų dedikacijas skyrė Sapiegoms, tačiau cenzoriai šių dedikacijų neskaitė."
   pagrindžia:
-    - c-001
+    - c-167942
+
+<a id="claim-t-193338"></a>
+- t-002
+  global_id: t-193338
+  teiginys: "Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty bei, taip pat Tavo senelio Jono Sapiegos, pelniusio trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo tarpu, kai Tu ėmeisi rūpintis valstybe."
+  pagrindžia:
+    - c-176066
 - susijęs iš [[objektai/zodynas/dvarų milicija.md#claim-t-182942|dvarų milicija]]: Sapiegų priešininkai atsivedė samdytos kariuomenės, vadintos savo dvarų milicija.
 - susijęs iš [[objektai/asmenys/H. Brantas.md#claim-t-40129|H. Brantas]]: H. Brantas buvo generolas, kurio kavaleriją sumušė J. P. Sapiegos, M. Vielamovskio ir M. Giedraičio vėliavos, priversdamos ją trauktis.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
@@ -45,7 +65,6 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40453|T. Dambrava]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
 - susijęs iš [[objektai/paprociai/Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje.md#claim-t-185867|Civilinės teisės dėstymo fundavimas ir pasauliečių profesorių išlaikymas Vilniaus akademijoje]]: Kazimieras Leonas Sapiega Vilniaus akademijoje įvedė teisės dėstymą ir skyrė lėšų dviem kanoninės bei dviem civilinės teisės katedroms.
 - susijęs iš Andrusavos taika (1667 m.): 1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.
 - susijęs iš Druja: Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
@@ -68,12 +87,110 @@ Po trejų metų Sapiegos buvo visiškai nugalėti. Gavę 100.000 talerių, Sapie
     santykius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty bei, taip pat Tavo senelio Jono Sapiegos, pelniusio trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo tarpu, kai Tu ėmeisi rūpintis valstybe.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
+    bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
+    trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius
+    plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo
+    tarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-
+    2 9 8
+
+    ## Puslapis 297
+
+    tiprinta ir padidinta dėl puikių Tavo protėvių sumany­
+    mų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,
+    bet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­
+    kė per dešimt metų, skirtų dievui bei valstybei, kad
+    turinčiam didelių užmojų protėvių praminti takai būtų
+    prieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­
+    gų pėdomis ženk į aukščiausią šlovę, įgyvendink visų
+    viltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­
+    sada buvo priešams nelyginant žaibas, nelyginant sky­
+    das, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau
+    linkiu, remdamasis visuotiniu geros valios žmonių pri­
+    tarimu, o ypatingai prijaučiant mano motinai, nuolan­
+    kiausiajai Jėzaus draugijai, kuri, dar negalėdama savo
+    patarnavimais pareikšti deramos pagarbos Tavo var­
+    dui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­
+    bėju ir kartu su manimi meldžiasi bei įžadus daro už
+    Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
+    tųsi ir didžiuotųsi.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-167942
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 8."
+  citata_originali: |
+    Cenzoriai neskaitė autoriaus pirmo ir antro tomų
+    dedikacijų Sapiegoms. Antrą tomą A. Kojelavičius pa­
+    skyrė Kazimierui Jonui, pirmojo, jau mirusio, dėdei.
+    Iš dedikacijų teksto, kupino įprastinio gražbyliavimo,
+    matyti A. Kojelavičiaus pažiūros į Lietuvos ir Lenkijos
+    santykius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184581
+
+- id: c-176066
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šiuos ir kitus garsiuosius Tavo Tėvo nuopelnus valsty­
+    bei, taip pat Tavo senelio Jono Sapiegos, pelniusio
+    trisdešimtkarčio Maskvos nugalėtojo vardą, jų žygius
+    plačiau išdėstys trečioji Istorijos dalis, vis dėlto ir tuo
+    tarpu, kai Tu ėmeisi rūpintis valstybe, kuri buvo sus-
+    2 9 8
+
+    ## Puslapis 297
+
+    tiprinta ir padidinta dėl puikių Tavo protėvių sumany­
+    mų ir žygių, norėjau Sapiegų šeimos šlovę trumpai,
+    bet ryškiai iškelti, paminėdamas, ką Tavo Tėvas nuvei­
+    kė per dešimt metų, skirtų dievui bei valstybei, kad
+    turinčiam didelių užmojų protėvių praminti takai būtų
+    prieš akis. Todėl, vedamas Tėvo, sek protėviais, Sapie­
+    gų pėdomis ženk į aukščiausią šlovę, įgyvendink visų
+    viltis, o pirmiausia išgarsink Sapiegos vardą, kuris vi­
+    sada buvo priešams nelyginant žaibas, nelyginant sky­
+    das, saugantis Tėvynę. Šito aš, paprastas žmogus, Tau
+    linkiu, remdamasis visuotiniu geros valios žmonių pri­
+    tarimu, o ypatingai prijaučiant mano motinai, nuolan­
+    kiausiajai Jėzaus draugijai, kuri, dar negalėdama savo
+    patarnavimais pareikšti deramos pagarbos Tavo var­
+    dui, iš anksto Tave, kaip Sapiegą, pripažįsta savo glo­
+    bėju ir kartu su manimi meldžiasi bei įžadus daro už
+    Tavo sveikatą ir laimę, kad vėliau tuo globėju džiaug­
+    tųsi ir didžiuotųsi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193338
+
 ## Ryšiai
 - Priešai: [[objektai/grupes/Lietuvos bajorija]]
-- Sąjungininkai: [[objektai/grupes/Švedai]]
-- Sapiegos keliavo į [[objektai/vietos/Viena]], [[objektai/vietos/Vilnius]]

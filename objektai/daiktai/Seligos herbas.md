@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Seligos herbas
 
@@ -40,9 +52,9 @@ Nenurodyta
 <a id="claim-t-186866"></a>
 - t-001
   global_id: t-186866
-  teiginys: 'Komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį, panašus į Davainų giminės ženklą.'
+  teiginys: "Komentare Seligos herbas aprašomas kaip kryžius, įstatytas į gulsčią pusmėnulį, panašus į Davainų giminės ženklą."
   pagrindžia:
-    - c-001
+    - c-170050
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186864|Dubnia herbas]]: Pagal herbynus Davainų giminės ženklas buvo ne Dubnios, o į Seligos herbą panašus kryžius gulsčiame pusmėnulyje.
 ## Reikšmingi paminėjimai
 
@@ -60,7 +72,31 @@ Nenurodyta
     nieckl, Herbarz polski, t. V, Warszawa, 1902. p. 5).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170050
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Bei pagal
+    herbynus Davainų giminės ženklas buvo n e Dubnios, o panašus
+    16 Lreluvos m etrai!!» 241
+
+    ## Puslapis 234
+
+    i ii Seligos herbas — kryžius, jslatytas i gulsčią pusmėnuli (A. Bo-
+    nieckl, Herbarz polski, t. V, Warszawa, 1902. p. 5).
+  citata_rodoma: "Bei pagal \nherbynus Davainų giminės ženklas buvo n e Dubnios, o panašus\ni ii Seligos herbas — kryžius, jslatytas i gulsčią pusmėnuli (A. Bo- \nnieckl, Herbarz polski, t. V, Warszawa, 1902. p. 5)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186866

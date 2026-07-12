@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augustavas
 
@@ -26,9 +38,9 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
 <a id="claim-t-73989"></a>
 - t-001
   global_id: t-73989
-  teiginys: 'Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože.'
+  teiginys: "Nepaisydamos Lietuvos neutraliteto, kariaujančios pusės puolė lietuvių įgulas Gardino ir Augustavo ruože."
   pagrindžia:
-    - c-001
+    - c-72073
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
 - susijęs iš [[objektai/asmenys/J. Čaplikas.md#claim-t-40171|J. Čaplikas]]: J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo.
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
@@ -77,12 +89,34 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
     liepos 27 d. nustatytos (tai antroji, arba Fošo, linija).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/A. Jakaitis]], [[objektai/asmenys/J. Čaplikas]]
-- Gynė Augustavą: [[objektai/grupes/2-oji divizija]]
-- Buvo žygio kryptis: [[objektai/asmenys/K. Ramanauskas]]
+## Citatos
+
+- id: c-72073
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Nepaisydami Lietuvos neutrali-
+    teto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu
+    puolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.
+    Norėdama išvengti susidūrimų kaip tik toj srity, kur sutartis
+    su Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-
+    rimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-
+
+    kacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.
+    Lenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-
+    riuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų
+    liepos 27 d. nustatytos (tai antroji, arba Fošo, linija).
+  citata_rodoma: "Nepaisydami Lietuvos neutrali-\nteto pareiškimo abiejų kariaujančių pusių atžvilgiu, jie kartu\npuolė ir lietuvių įgulas, esančias Gardino ir Augustavo ruože.\nNorėdama išvengti susidūrimų kaip tik toj srity, kur sutartis\nsu Maskva paliko sieną nustatyti Lietuvos tiesioginiam susita-\nrimu su Lenkija, mūsų vyriausybė čia pasiūlė laikinę demar-\n\nkacijos liniją, kuri eitų per Grabovą — Augustavą — Stabiną.\nLenkija to pasiūlymo nepriėmė ir reikalavo, kad lietuvių ka-\nriuomenė pasitrauktų ligi demarkacijos linijos, dar 1919 metų\nliepos 27 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73989

@@ -14,6 +14,18 @@ tags:
   - posakis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Vytautas negali sustoti, pasakyti — gana galybės.“
 
@@ -26,31 +38,30 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 <a id="claim-t-54386"></a>
 - t-001
   global_id: t-54386
-  teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų.'
+  teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujai uždedamų suvaržymų."
   pagrindžia:
-    - c-002
+    - c-55232
 
 <a id="claim-t-54387"></a>
 - t-002
   global_id: t-54387
-  teiginys: 'Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui.'
+  teiginys: "Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui."
   pagrindžia:
-    - c-001
+    - c-37180
 
 <a id="claim-t-54388"></a>
 - t-003
   global_id: t-54388
-  teiginys: 'Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę.'
+  teiginys: "Vytauto turima valdžia stūmė jį tolyn ir vertė vis didinti savo galybę."
   pagrindžia:
-    - c-001
+    - c-37180
 
 <a id="claim-t-54389"></a>
 - t-004
   global_id: t-54389
-  teiginys: 'Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų.'
+  teiginys: "Vytauto galybės didėjimas santykiuose su lenkais vertė jį laisvintis iš naujų suvaržymų."
   pagrindžia:
-    - c-002
-
+    - c-55232
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,7 +72,8 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -74,7 +86,44 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
     žymų. 1401, 1413, 1429 m. to proceso etapai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-37180
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Valdžia, mat, turi tendencijos vis didėt, plėto­
+    tis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­
+    ma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti.
+  citata_rodoma: "Valdžia, mat, turi tendencijos vis didėt, plėto­\ntis. Vytautas negali sustoti, pasakyti — gana galybės. Turi­\nma valdžia pati stumte stumia jį tolyn, verčia ją vis didinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54387
+
+- id: c-55232
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo
+    galybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­
+    žymų. 1401, 1413, 1429 m. to proceso etapai.
+  citata_rodoma: "Tas ypač pasireiškia jo santykiuose su lenkais. Bendras jo\ngalybės didėjimas verčia jį laisvintis iš naujų uždedamų suvar­\nžymų. 1401, 1413, 1429 m. to proceso etapai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54389

@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kauno getas
 
@@ -25,10 +37,9 @@ amziai:
 <a id="claim-t-21480"></a>
 - t-001
   global_id: t-21480
-  teiginys: 'Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.'
+  teiginys: "Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga."
   pagrindžia:
-    - c-001
-
+    - c-24169
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,10 +54,30 @@ amziai:
     doti kaip pigi darbo jėga.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Žydai]]
+## Citatos
+
+- id: c-24169
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Akcijose
+    prieš žydus Lietuvoje naciai panaudojo ir rusų Andrejaus Vlasovo armi-
+    jos dalinius, ukrainiečių, latvių policijos batalionus.
+    Taip diena po dienos 1941 m. vasarą ir rudenį tikrose skerdynėse su-
+    naikinta dauguma – apie 150 000 – Lietuvos žydų. Apie 50 tūkst. žydų
+    laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-
+    doti kaip pigi darbo jėga.
+  citata_rodoma: "laikinai palikti Vilniaus, Kauno, Šiaulių ir mažesniuose getuose, jie išnau-"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21480

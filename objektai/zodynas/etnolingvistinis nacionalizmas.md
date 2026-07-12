@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # etnolingvistinis nacionalizmas
 
@@ -19,10 +31,9 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
 <a id="claim-t-22137"></a>
 - t-001
   global_id: t-22137
-  teiginys: 'Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais.'
+  teiginys: "Lietuvių ir lenkų politinės grupuotės laikėsi etnolingvistinio nacionalizmo pozicijų ir kitos pusės siekius laikė neteisėtais."
   pagrindžia:
-    - c-001
-
+    - c-24823
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,35 @@ Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideologinės pakrai
     neteisėtais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-24823
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po revoliucijos, nelikus galimybių siekti Lietuvos politinės autonomi-
+    jos, lietuvių, beje, kaip ir lenkų veikėjai daugiausia dėmesio skyrė kultū-
+    rinei veiklai platesniuose visuomenės sluoksniuose, politiškai orientuo-
+    tuose į savąją valstybingumo viziją. Tikėtasi, kad anksčiau ar vėliau gali
+    susidaryti sąlygos konkrečiai politinei kovai dėl tos vizijos realizavimo, o
+    tai sieta arba su nauja revoliucija Rusijoje, arba su karu Europoje.
+    Propagandos lygmeniu vyko konkurencinė kova tarp skirtingos ideo-
+    loginės pakraipos politinių grupuočių (neretai pasivadinusių partijomis),
+    veikusių atskirai lietuvių ir lenkų bendruomenių vardu, kurios daugiau ar
+    mažiau laikėsi atitinkamai arba lietuvių, arba lenkų etnolingvistinio naci-
+    onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės
+    neteisėtais.
+  citata_rodoma: "onalizmo pozicijų ir a priori kitos pusės siekius laikė priešiškais ir iš esmės"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22137

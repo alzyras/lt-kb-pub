@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - kraštas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokiečių pirkliai
 
@@ -20,9 +32,9 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
 <a id="claim-t-86835"></a>
 - t-001
   global_id: t-86835
-  teiginys: 'Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą.'
+  teiginys: "Vytautas įsakė vokiečių pirkliams apie Sekmines palikti jo kraštą."
   pagrindžia:
-    - c-001
+    - c-82814
 - susijęs iš Kaunas: Vytauto valdymo metu vokiečių pirkliai Kaune turėjo miesto svarstykles, malūną, audimo ir vaško apdirbimo dirbtuves.
 - susijęs iš Padauguvis: Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.
 - susijęs iš Volynija: Vytauto laikais Volynijos miestus sausumos keliais lankydavo Krokuvos ir vokiečių pirkliai.
@@ -42,12 +54,29 @@ Dar duodame žinoti, Jūsų Prakilnybe Malonusis Pone Magistrė, ir apie tai, ka
     kliams įsakė apie Sekmines kraštą jo apleisti ...
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-82814
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dar duodame žinoti, Jūsų Prakilnybe Malonusis
+    Pone Magistrė, ir apie tai, kad (de Vörste) Vytautas vokiečių pir­
+    kliams įsakė apie Sekmines kraštą jo apleisti ...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86835
+
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Malūnas]]
-- Vokiečių pirkliai keliavo į [[objektai/vietos/Gardinas]], [[objektai/vietos/Krėva]], [[objektai/vietos/Padauguvis]], [[objektai/vietos/Vilnius]]
-- Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]], [[objektai/grupes/Rusai]]
+- Vokiečių pirkliai keliavo į [[objektai/vietos/Krėva]], [[objektai/vietos/Vilnius]]
+- Vokiečių pirkliai prekiavo su [[objektai/grupes/Aisčiai]], [[objektai/grupes/Lybiai]]

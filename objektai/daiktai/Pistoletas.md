@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pistoletas
 
@@ -39,9 +51,9 @@ Nenurodyta
 <a id="claim-t-40752"></a>
 - t-001
   global_id: t-40752
-  teiginys: 'Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą.'
+  teiginys: "Lenkas negalėjo panaudoti pistoleto, nes viena ranka laikė pavadžius, o kita kardą."
   pagrindžia:
-    - c-001
+    - c-42537
 - susijęs iš [[objektai/asmenys/Gaidys.md#claim-t-40115|Gaidys]]: Partizanas Gaidys buvo ginkluotas tik pistoletu.
 - susijęs iš [[objektai/daiktai/Pistoletas Browning HP (Hi-Power).md#claim-t-40749|Pistoletas Browning HP (Hi-Power)]]: Pistoletas Browning HP buvo sukurtas Džono Brauningo, išbaigtas Belgijoje ir pradėtas gaminti 1935 m.
 - susijęs iš [[objektai/daiktai/Pistoletas-kulkosvaidis MP 18.md#claim-t-40750|Pistoletas-kulkosvaidis MP 18]]: MP 18 pasirodė Pirmojo pasaulinio karo pabaigoje ir buvo pirmasis masiškai gamintas vokiečių pistoletas-kulkosvaidis.
@@ -69,7 +81,28 @@ Nenurodyta
     kinį ir išgelbėjo mūsų žvalgo gyvybę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42537
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Iš naujo pradėjęs švaistytis kardu, lenkas, matyt,
+    atsipeikėjo ir atsiminė, kad jis dar turįs pistoletą. Tiesa, jo iki šiol ir
+    panaudoti negalėjo, nes vienoje rankoje laikė pavadzius, o antroje
+    kardą. Lenkas vis tiek atsisegė makštį ir taikstėsi išsitraukti pistoletą,
+    bet tuo metu taiklus žvalgybos viršininko šūvis pataikė lenkui į smil-
+    kinį ir išgelbėjo mūsų žvalgo gyvybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40752

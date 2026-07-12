@@ -21,7 +21,7 @@ describe("periodRange", () => {
     )
     assert.deepEqual(
       display?.chips.map((chip) => chip.slug),
-      ["laikotarpiai/XIV amžius", "laikotarpiai/XV amžius"],
+      ["laikotarpiai/XIV-amzius", "laikotarpiai/XV-amzius"],
     )
   })
 

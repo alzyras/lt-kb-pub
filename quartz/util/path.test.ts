@@ -121,6 +121,7 @@ describe("transforms", () => {
           "objektai/saltiniai/Pabaltijo valstybių sąjungos sutartis (1934 m.).md",
           "objektai/saltiniai/Pabaltijo-valstybiu-sajungos-sutartis-(1934-m.)",
         ],
+        ["objektai/autoriai/Непокупный А. П.md", "objektai/autoriai/Непокупныи-А.-П"],
         ["notes.with.dots.md", "notes.with.dots"],
         ["test/special chars?.md", "test/special-chars"],
         ["test/special chars #3.md", "test/special-chars-3"],
@@ -242,6 +243,37 @@ describe("link strategies", () => {
       assert.strictEqual(path.transformLink(cur, "index", opts), "./")
       assert.strictEqual(path.transformLink(cur, "a/b/c", opts), "./a/b/c")
       assert.strictEqual(path.transformLink(cur, "a/b/index", opts), "./a/b/")
+    })
+
+    test("resolves safe generated aliases to canonical slugs", () => {
+      const cur = "laikotarpiai/XIV-amzius" as FullSlug
+      const opts: TransformOptions = {
+        strategy: "absolute",
+        allSlugs: [
+          "laikotarpiai/XIV-amzius",
+          "objektai/ivykiai/Zalgirio-musis-(1410-m.)",
+          "objektai/ivykiai/Lietuvos-krikstas-(1387-m.)",
+          "objektai/ivykiai/Lietuvos-krikstas-Vilniuje-(1387-m.)",
+          "objektai/paprociai/Belaisviu-apsikeitimas,-paliaubos-ir-riteriskas-vaisinimas",
+        ] as FullSlug[],
+      }
+
+      assert.strictEqual(
+        path.transformLink(cur, "objektai/ivykiai/Zalgirio-musis", opts),
+        "../objektai/ivykiai/Zalgirio-musis-(1410-m.)",
+      )
+      assert.strictEqual(
+        path.transformLink(
+          cur,
+          "objektai/paprociai/Belaisviu-apsikeitimas-percent2C-paliaubos-ir-riteriskas-vaisinimas",
+          opts,
+        ),
+        "../objektai/paprociai/Belaisviu-apsikeitimas,-paliaubos-ir-riteriskas-vaisinimas",
+      )
+      assert.strictEqual(
+        path.transformLink(cur, "objektai/ivykiai/Lietuvos-krikstas", opts),
+        "../objektai/ivykiai/Lietuvos-krikstas",
+      )
     })
   })
 

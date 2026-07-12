@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - miestas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nemuno žiotys
 
@@ -20,10 +32,9 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
 <a id="claim-t-02629"></a>
 - t-001
   global_id: t-02629
-  teiginys: 'Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą.'
+  teiginys: "Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos prekybą."
   pagrindžia:
-    - c-001
-
+    - c-02867
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,7 +48,29 @@ Nemuno žiotys buvo apgultos kryžiuočių, kurie stengėsi visaip trukdyti Liet
     kybą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02867
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Lietuvai buvo sunku prekiauti su Hanzos pirkliais, nes visą
+    pajūrį ir abiejų didžiųjų upių žiotis buvo užėmę kryžiuočiai.
+    Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-
+    kybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-
+    gultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-
+    kybą.
+  citata_rodoma: "Bet vis dėlto XIII ir XIV amžiuje Lietuvai pats svarbusis pre-\nkybos punktas buvo Rygos miestas. Nemuno žiotys buvo ap-\ngultos kryžiuočių, kurie stengėsi visaip trukdyti Lietuvos pre-\nkybą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02629

@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Racionžas
 
@@ -30,9 +42,9 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
 <a id="claim-t-178158"></a>
 - t-001
   global_id: t-178158
-  teiginys: '1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu.'
+  teiginys: "1404 m. Racionže buvo sudaryta nauja taika su Vokiečių ordinu."
   pagrindžia:
-    - c-001
+    - c-161938
 - susijęs iš [[objektai/ivykiai/Racionžo taika (1404 m.).md#claim-t-92939|Racionžo taika (1404 m.)]]: 1404 m. Racionžo taika atgaivino prekybą su Ordinu, kuri buvo suirusi po 1401 m. Žemaičių sukilimo prieš Ordiną.
 - susijęs iš Karaliaus ir Vytauto sutartis su kryžiuočiais Racionže (1404 m.): Racionže Jogaila, Vytautas ir magistras Jungingenas susitiko svarstyti taikos tarp Jogailos ir kryžiuočių.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176128|Žemaičiai]]: Racionžo taikoje Vytautas pažadėjo metus neleisti pirkliams prekiauti su Žemaičiais ir įvežti jiems druskos, javų bei geležies.
@@ -57,7 +69,28 @@ Todėl 1404 m. Racionže (Lenkijoje) buvo padaryta nauja taika su ordinu.
     maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-161938
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vytautui buvo svarbu turėti laisvas rankas atsi-
+    metusiam Smolenskui atgauti. Todėl 1404 m. Racionže
+    (Lenkijoje) buvo padaryta nauja taika su ordinu. Žemaičiai vėl
+    buvo atiduoti ordinui, bet sutartyje buvo įrašytas vienas Vytau-
+    tui labai naudingas nuostatas, — kad jis galėsiąs pasiimti iš Že-
+    maičių 250 gyventojų. Tatai jam vėliau labai pravertė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178158

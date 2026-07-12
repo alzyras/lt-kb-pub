@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Trepka
 
@@ -17,10 +29,9 @@ Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Gli
 <a id="claim-t-186168"></a>
 - t-001
   global_id: t-186168
-  teiginys: 'Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Glinskiui karaliaus valią.'
+  teiginys: "Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Glinskiui karaliaus valią."
   pagrindžia:
-    - c-001
-
+    - c-169529
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,36 @@ Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Gli
     lapties.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169529
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 627"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 627."
+  citata_originali: |
+    Tuo metu popiežiaus
+    legatas Pisonas, pasiųstas iš Romos sutaikyti Žygiman­
+    tą su Vasilijumi, sustojo Vilniuje, ketindamas netrukus
+    leistis į Maskvą, kur jo diena iš dienos laukė. Dėda­
+    masis jo žygūnu, lenkų bajoras Trepka, mokėjęs italų
+    bei vengrų kalbas, išvyko kelionėn, pasižadėjęs akis į
+    akį pranešti Glinskiui karaliaus valią. Pakelėje suimtas
+    ir siaubingai kankinamas, jis
+    P u ik u s ištv e r m ė s  p a -
+    nieko nepasakė ir neišdavė
+    v y z d y s
+    karaliaus jam patikėtos pas­
+    lapties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186168

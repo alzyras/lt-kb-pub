@@ -16,6 +16,18 @@ tags:
   - posakis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „primus inter pares“
 
@@ -28,10 +40,9 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
 <a id="claim-t-77853"></a>
 - t-001
   global_id: t-77853
-  teiginys: 'Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių.'
+  teiginys: "Stasys Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares, pirmą tarp lygiųjų tarp visų pasiuntinių."
   pagrindžia:
-    - c-001
-
+    - c-75171
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +61,33 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
     visų pasiuntinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75171
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Šie pinigai suteikė galimybę LDT išlai-
+    kyti savo pasiuntinybes ir personalą iki pat
+    diplomatinio darbo pabaigos.
+    LDT aukščiausia valdžia priklausė di-
+    plomatijos šefui, tas pareigas ėjo diplomatai
+    Stasys Lozoraitis (1940–1983 m.) ir Stasys
+    Antanas Bačkis (1983–1991 m.). S. Lozoraitis
+    diplomatijos šefo pareigas interpretavo kaip
+    primus inter pares (pirmas tarp lygiųjų) tarp
+    visų pasiuntinių.
+  citata_rodoma: "LDT aukščiausia valdžia priklausė di-\nplomatijos šefui, tas pareigas ėjo diplomatai \nStasys Lozoraitis (1940–1983 m.) ir Stasys \nAntanas Bačkis (1983–1991 m.). S. Lozoraitis \ndiplomatijos šefo pareigas interpretavo kaip \nprimus inter pares (pirmas tarp lygiųjų) tarp \nvisų pasiuntinių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77853

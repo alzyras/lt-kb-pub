@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ronneburgas
 
@@ -19,9 +31,9 @@ tags:
 <a id="claim-t-32511"></a>
 - t-001
   global_id: t-32511
-  teiginys: 'Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.'
+  teiginys: "Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas."
   pagrindžia:
-    - c-001
+    - c-34025
 - susijęs iš Livonija: Pagal Stryjkovskio kroniką buvo restauruoti Livonijos Ronneburgo analai ir nekrologas.
 ## Reikšmingi paminėjimai
 
@@ -36,10 +48,28 @@ tags:
     Stryjko vskis nesinaudojo tiksliai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Ronneburgas priklausė [[objektai/vietos/Livonija]]
+## Citatos
+
+- id: c-34025
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kai kurie jo kronikoje naudoti ir išversti šaltiniai nė­
+    ra išlikę iki mūsų dienų. Šitaip pagal Stryjkovskį buvo restauruoti
+    Livonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla
+    lotyniška restauracija parodė, kad analų originalo tekstu skubotas
+    Stryjko vskis nesinaudojo tiksliai.
+  citata_rodoma: "Šitaip pagal Stryjkovskį buvo restauruoti\nLivonijos Ronneburgo analai ir necrologium14 15. Bet toji akyla\nlotyniška restauracija parodė, kad analų originalo tekstu skubotas\nStryjko vskis nesinaudojo tiksliai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32511

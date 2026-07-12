@@ -10,6 +10,18 @@ tags:
   - karas
   - miestas
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Juška
 
@@ -22,9 +34,9 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
 <a id="claim-t-40156"></a>
 - t-001
   global_id: t-40156
-  teiginys: 'J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.'
+  teiginys: "J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių."
   pagrindžia:
-    - c-001
+    - c-44359
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.
 - susijęs iš J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes: J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.
 ## Reikšmingi paminėjimai
@@ -49,7 +61,38 @@ Juška: „Daug tą dieną žuvo mūsiškių, bet gal ne mažiau žuvo ir okupan
     dėstę kulkosvaidžius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44359
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Karas po karo
+
+    ## Puslapis 224
+
+    MUSIO DALYVIO ATSIMINIMAI
+
+    Prisimena mūšio dalyvis J. Juška:
+
+    „Daug tą dieną žuvo mūsiškių, bet gal
+    ne mažiau žuvo ir okupantų kariaunos.
+    Suprantama, jėgos buvo nelygios. Jie buvo
+    ginkluoti moderniais ginklais, po mišką
+    šlaistėsi tanketėmis, virš medžių skraidė
+    lėktuvas, o kvartalinėse linijose buvo išsi-
+    dėstę kulkosvaidžius.
+  citata_rodoma: "Karas po karo\n\n## Puslapis 224\n\nMUSIO DALYVIO ATSIMINIMAI\n\nPrisimena mūšio dalyvis J. Juška:\n\n„Daug tą dieną žuvo mūsiškių, bet gal\nne mažiau žuvo ir okupantų kariaunos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40156

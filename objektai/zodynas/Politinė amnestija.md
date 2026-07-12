@@ -16,6 +16,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Politinė amnestija
 
@@ -28,10 +40,9 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
 <a id="claim-t-38771"></a>
 - t-001
   global_id: t-38771
-  teiginys: 'Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams.'
+  teiginys: "Rusijos caras Aleksandras II 1856 m. paskelbė politinę amnestiją 1831 m. sukilimo tremtiniams."
   pagrindžia:
-    - c-001
-
+    - c-40575
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,29 @@ Rusijos caras Aleksandras 11 1856 m. paskelbė politinę amnestiją 1831 m. suki
     lesnei išsivadavimo kovai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40575
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rusijos caras Aleksandras 11 1856 m.
+    paskelbė politinę amnestiją 1831 m. su-
+    kilimo tremtiniams. Iš Sibiro bei kitų
+    tremties vietų ėmė grįžti daug patriotiš-
+    kai nusiteikusių žmonių. Dauguma
+    jų buvo tik dar labiau užsigrūdinę to-
+    lesnei išsivadavimo kovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38771

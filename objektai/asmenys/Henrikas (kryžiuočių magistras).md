@@ -13,6 +13,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Henrikas (kryžiuočių magistras)
 
@@ -25,24 +37,23 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
 <a id="claim-t-186002"></a>
 - t-001
   global_id: t-186002
-  teiginys: 'Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą.'
+  teiginys: "Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas priesaikos nesikišti į prūsų karą."
   pagrindžia:
-    - c-001
+    - c-169363
 
 <a id="claim-t-186003"></a>
 - t-002
   global_id: t-186003
-  teiginys: 'Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą.'
+  teiginys: "Magistras Henrikas, įkurdinęs stiprią įgulą Gotesverderio pilyje prie Kauno, su likusia kariuomene niokojo kraštą."
   pagrindžia:
-    - c-002
+    - c-169364
 
 <a id="claim-t-186004"></a>
 - t-003
   global_id: t-186004
-  teiginys: 'Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių.'
+  teiginys: "Mūšyje kryžiuočiai neteko ordino magistro Henriko ir dvidešimt šešių kilmingųjų ordino riterių."
   pagrindžia:
-    - c-003
-
+    - c-169365
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,6 +86,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     niais būriais, be kovos ženklų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,6 +112,7 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     nustumtas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +138,100 @@ Kryžiuočių magistras Henrikas atnaujino santarvę su Germantu, reikalaudamas 
     bėgti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-169363
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Atrodė, jog kryžiuočiams šį
+    5*
+    131
+
+    ## Puslapis 130
+
+    1274 m eta i
+    Ž em a ičia i gina p r ū ­
+    sus ir m u ša  k r y ž iu o ­
+    čius
+    karą pavyks užbaigti tada, kai sutrauks iš karto visas
+    jėgas ir neleis priešui kokiu nors būdu pasinaudoti sve­
+    tima pagalba. Tuo metu kryžiuočių riterių magistras
+    buvo Henrikas: jis pirmiausia atnaujino santarvę su
+    Germantu, reikalaudamas, kad šis prisiektų, jog lietu­
+    viai bei žemaičiai nesikiš j prūsų karą. Dėl tos pačios
+    priežasties valdovas neleido viešai teikti prūsams ko­
+    kios pagalbos prieš kryžiuo­
+    čius, tačiau nieko negalėjo
+    padaryti, kad slapta į Prūsi­
+    ją nežygiuotų Žemaitijoje su­
+    telkta kariuomenė, remiama
+    atskirų asmenų, tiesa, pavie­
+    niais būriais, be kovos ženklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186002
+
+- id: c-169364
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 249"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 249."
+  citata_originali: |
+    Šią naują
+    pilį, esančią per vieną mylią nuo Kauno, pavadino
+    Gotesverderiu. Įkurdinęs čia
+    K ry žiu o č ia i
+    p a sta to
+    stiprią įgulą, magistras Hen-
+    L ie tu v o je  p ilį
+    rikas su likusia kariuomene
+    patraukė krašto niokoti. Su­
+    grįžęs po to į Prūsiją, paragino maršalą Šindekopfą, ne­
+    seniai sutelktos kariuomenės vadą, vėl žygiuoti į Lie­
+    tuvą— ir tam, kad nauja pilis būtų geriau ginama, ir
+    tam, kad priešas, nuniokojus jo valdas, būtų toliau
+    nustumtas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186003
+
+- id: c-169365
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 251"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 251."
+  citata_originali: |
+    Prasidėjo iš tie­
+    sų žiaurus mūšis: ir vieni, ir
+    kiti puolė iš paskutiniųjų. Kovos lauke krito tūkstan­
+    tis lietuvių, tačiau ir kryžiuočiai neteko (neskaičiuo­
+    jant paprastų karių) dvidešimt šešių kilmingųjų ordi­
+    no riterių bei paties vado — ordino magistro Henriko;
+    kadangi abiejų šalių nuostoliai rodėsi vienodi, ligi vi­
+    durdienio nebuvo aišku, katron pusėn krypsta sėkmė.
+    Gal ir buvo pamato tikėtis pergalės, tačiau Kęstutis
+    bei Algirdas nenorėjo puoselėti abejotinų vilčių: abu
+    gerokai nuogąstavo, kad jų kariuomenė, ne tokia gau­
+    si ir ne taip gerai ginkluota (be to, smarkiai kovų iš­
+    sekinta), ilgainiui neprarastų drąsos ir nepasileistų
+    bėgti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186004

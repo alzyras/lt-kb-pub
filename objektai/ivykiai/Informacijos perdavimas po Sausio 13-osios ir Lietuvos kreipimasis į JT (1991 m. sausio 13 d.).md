@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Informacijos perdavimas po Sausio 13-osios ir Lietuvos kreipimasis į JT (1991 m. sausio 13 d.)
 
@@ -44,17 +56,16 @@ Nenurodyta
 <a id="claim-t-20208"></a>
 - t-001
   global_id: t-20208
-  teiginys: 'Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
+  teiginys: "Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos."
   pagrindžia:
-    - c-001
+    - c-22944
 
 <a id="claim-t-183223"></a>
 - t-002
   global_id: t-183223
-  teiginys: 'Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno.'
+  teiginys: "Sausio 13 d. nutrūkus radijo transliacijai, pradėjo dirbti Sitkūnų radijo stotis netoli Kauno."
   pagrindžia:
-    - c-002
-
+    - c-166610
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +81,7 @@ Nenurodyta
     Sitkūnų (netoli Kauno) radijo stotis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +99,48 @@ Nenurodyta
     vadovai nutrauktų karo veiksmus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-22944
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    „Solidarumas“ pradėjo, o Vokietijos susivie-
+    nijimas baigė griauti SSRS dominuojamą socialistinių šalių bloką (vadi-
+    namąjį soclagerį), o Sausio 13-oji galėtų žymėti pačios Sovietų imperijos
+    subyrėjimą, nes tada ir Rusijai tapo akivaizdu, kad SSRS pasmerkta žlugti.
+    Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
+    formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
+    Sitkūnų (netoli Kauno) radijo stotis.
+  citata_rodoma: "formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20208
+
+- id: c-166610
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios in-
+    formacijos. Sausio 13 dieną nutrūkus radijo transliacijai, pradėjo dirbti
+    Sitkūnų (netoli Kauno) radijo stotis. Apie tos dienos įvykius ir lietuvių
+    tautos kovą dėl laisvės Lietuvos valdžia informavo Jungtines Tautas. Va-
+    karų valstybės reagavo į įvykius, užjautė Lietuvą ir reikalavo, kad SSRS
+    vadovai nutrauktų karo veiksmus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183223

@@ -15,11 +15,6 @@ datos:
   - '2026 m.'
 date_start: '1350'
 date_end: '2026'
-description: 'Vorskla – Dniepro intakas, prie kurio 1399 m. Vytauto žygis prieš Timūr-Kutluko kariuomenę baigėsi pralaimėjimu.'
-socialDescription: 'Prie Vorsklos 1399 m. Vytauto jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene ir patyrė pralaimėjimą.'
-seo_atnaujinta: '2026-07-02T23:12:35.450924+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,77 +25,103 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vorskla
 
 ## Santrauka
 
-Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene. Žygis prie Vorsklos baigėsi pralaimėjimu, o šis pralaimėjimas sulėtino Lietuvos plėtrą rytuose. Prie Vorsklos 1399 m. žuvo ir Algirdo sūnus Andrius.
+Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­ nant paties Kotlogo. Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis buvo prie Vorsklos pralaimėtas.
 
 ## Teiginiai
 
 <a id="claim-t-178743"></a>
 - t-001
   global_id: t-178743
-  teiginys: 'Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene.'
+  teiginys: "Prie kairiojo Dniepro intako Vorsklos Lietuvos jungtinės pajėgos susitiko su Aukso ordos chano Timūr-Kutluko kariuomene."
   pagrindžia:
-    - c-003
+    - c-44046
 
 <a id="claim-t-178744"></a>
 - t-002
   global_id: t-178744
-  teiginys: 'Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.'
+  teiginys: "Rugpjūčio pradžioje Lietuvos jungtinė kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene."
   pagrindžia:
-    - c-003
+    - c-44046
 
 <a id="claim-t-178745"></a>
 - t-003
   global_id: t-178745
-  teiginys: 'Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais.'
+  teiginys: "Algirdo sūnus Andrius žuvo prie Vorsklos 1399 metais."
   pagrindžia:
-    - c-005
+    - c-162443
 
 <a id="claim-t-178746"></a>
 - t-004
   global_id: t-178746
-  teiginys: 'Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.'
+  teiginys: "Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga."
   pagrindžia:
-    - c-004
+    - c-162442
 
 <a id="claim-t-178747"></a>
 - t-005
   global_id: t-178747
-  teiginys: 'Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.'
+  teiginys: "Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
   pagrindžia:
-    - c-006
+    - c-162445
 
 <a id="claim-t-178748"></a>
 - t-006
   global_id: t-178748
-  teiginys: 'Kautynių vieta buvo numatyta Vorsklos upės apylinkėse.'
+  teiginys: "Kautynių vieta buvo numatyta Vorsklos upės apylinkėse."
   pagrindžia:
-    - c-001
+    - c-37851
 
 <a id="claim-t-178749"></a>
 - t-007
   global_id: t-178749
-  teiginys: 'Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos.'
+  teiginys: "Vytauto organizuotas kryžiaus žygis 1399 m. baigėsi pralaimėjimu prie Vorsklos."
   pagrindžia:
-    - c-007
+    - c-162446
 
 <a id="claim-t-178750"></a>
 - t-008
   global_id: t-178750
-  teiginys: 'Vytauto žygis prie Vorsklos buvo pralaimėtas.'
+  teiginys: "Vytauto žygis prie Vorsklos buvo pralaimėtas."
   pagrindžia:
-    - c-002
+    - c-37853
+
+<a id="claim-t-178747"></a>
+- t-009
+  global_id: t-178747
+  teiginys: "Vytauto pralaimėjimas totoriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose."
+  pagrindžia:
+    - c-162445
+
+<a id="claim-t-184325"></a>
+- t-010
+  global_id: t-184325
+  teiginys: "Vytauto žygis prie Vorsklos buvo pralaimėtas."
+  pagrindžia:
+    - c-167696
 
 <a id="claim-t-185211"></a>
 - t-011
   global_id: t-185211
-  teiginys: 'Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.'
+  teiginys: "Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais."
   pagrindžia:
-    - c-009
+    - c-168572
 - susijęs iš [[objektai/asmenys/Spytkas iš Melsztyno.md#claim-t-30384|Spytkas iš Melsztyno]]: Spytekas iš Melsztyno, Krokuvos vaivada ir Podolės valdytojas, žuvo prie Vorsklos.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54946|Andrius Algirdaitis]]: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.
 - susijęs iš [[objektai/asmenys/Hlebas.md#claim-t-30264|Hlebas]]: Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.
@@ -124,13 +145,6 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-184235|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Vorsklos mūšiui kautynių vieta buvo numatyta Vorsklos upės apylinkėse.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63377|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186583|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytautas su Tochtamyšu ištraukė prieš chaną Temir-Kutlujų su didele kariuomene.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186584|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis nurodo, kad Vorsklos mūšyje žuvo keli lietuvių kunigaikščiai, tarp jų Andrius Kęstutaitis, Glėbas Karijotaitis ir Simonas.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186585|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186586|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad prieš Vorsklos mūšį Vytauto pusėje buvo Tochtamyšo kariuomenė, lietuviai, lenkai, vokiečiai, žemaičiai, totoriai ir moldavai.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186587|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis pasakoja, kad Vorsklos mūšis prie Vorkslos upės įvyko antradienį, rugpjūčio dvyliktą dieną.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186589|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Po beveik visą dieną trukusios Vorsklos mūšio kovos totoriai sumušė Vytautą ir visą jo kariuomenę.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186591|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Vytautas prieš Vorsklos mūšį siekė atimti iš Temir-Kutlujaus karalystę ir pasodinti į sostą chaną Tochtamyšą.
 - susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78702|Kryžiaus žygių prieš totorius organizavimas]]: Reaguodamas į Serbijos sunaikinimą prie Kosovo, Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, 1399 m. pralaimėtą prie Vorsklos.
 - susijęs iš [[objektai/paprociai/Kryžiaus žygių prieš totorius organizavimas.md#claim-t-78704|Kryžiaus žygių prieš totorius organizavimas]]: Vytautas organizavo Nikopoliui analogišką kryžiaus žygį, kuris 1399 m. baigėsi pralaimėjimu prie Vorsklos.
 - susijęs iš Detmaro Liubeko kronikos tęsinys: Detmaro Liubeko kronikos tęsinyje teigiama, kad lietuviai prieš totorius laimėjo dvejas kautynes, o prie Vorsklos pralaimėjo.
@@ -204,7 +218,8 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     gos susitelkė kairiajame Vorsklos^1 ) upės krante.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -220,7 +235,8 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     nai su Lenkija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -252,7 +268,8 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     moldavai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -269,6 +286,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     tautu derėtis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -294,6 +312,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     nių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -311,6 +330,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     pasibaigusį 1435 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -333,6 +353,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     čionių pasaulio sienos“ (in finibus totius Christianitatis).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,6 +371,7 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     bar gerą progą pakelt savo galvas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -370,13 +392,216 @@ Vorskla – kairysis Dniepro intakas, prie kurio 1399 m. Vytauto vadovaujamos Li
     dumą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
 
+## Citatos
+
+- id: c-37851
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Visos tos didžiulės kariuomenės susirinkimo vieta buvo
+    paskirta Kijeve. Kautynėms vieta buvo numatyta Vorsklos
+    upės apylinkės. 1399 m. rugpiūčio pradžioj Vytauto karo jė­
+    gos susitelkė kairiajame Vorsklos^1 ) upės krante.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178748
+
+- id: c-37853
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis
+    buvo prie Vorsklos pralaimėtas. To išdavoj Vytauto taip auk­
+    štai iškilęs autoritetas krito ir jo kai kurie priešai pamatė da­
+    bar gerą progą pakelt savo galvas. Turėjo pasikeisti ir jo pla­
+    nai su Lenkija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178750
+
+- id: c-44046
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Buvo valakai, kryžiuo-
+    čių dalinys (100 riterių), vadovaujamas
+    Ragainės komtūro Markvardo. Rugpjūčio
+    pradžioje kariuomenė, persikėlusi per
+    Dnieprą, jo kairiuoju krantu patraukė į
+
+    Šarvinių
+    pirštinių
+    rekonstrukcija
+
+    stepes, kur laukė prie
+    kairiojo Dniepro intako
+    Vorsklos, prie Ordos valdų pari-
+    bių, susitiko su Aukso ordos chano
+    Timūr-Kutluko kariuomene.
+
+    Lietuvos jungtinės pajėgos
+
+    Lietuviai, žemaičiai, LDK rusų žemių ku-
+    nigaikščiai, Tochtamišo totoriai, talkinin-
+    kai iš Lenkijos, Kryžiuočių ordino kariai,
+    moldavai.
+  citata_rodoma: "Rugpjūčio\npradžioje kariuomenė, persikėlusi per\nDnieprą, jo kairiuoju krantu patraukė į\n\nŠarvinių\npirštinių\nrekonstrukcija\n\nstepes, kur laukė prie\nkairiojo Dniepro intako\nVorsklos, prie Ordos valdų pari-\nbių, susitiko su Aukso ordos chano\nTimūr-Kutluko kariuomene.\n\nLietuvos jungtinės pajėgos\n\nLietuviai, žemaičiai, LDK rusų žemių ku-\nnigaikščiai, Tochtamišo totoriai, talkinin-\nkai iš Lenkijos, Kryžiuočių ordino kariai,\nmoldavai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178743
+    - t-178744
+
+- id: c-162442
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tokios didelės
+    krikščionių kariuomenės rytų kraštuose niekas dar nebuvo ma­
+    tęs. Kai Vytautas prisiartino prie Vorsklos upės kranto, tuoj
+    ten atvyko ir vienas Timur-Kotlogo vadas Edyga ir laukė atei­
+    nant paties Kotlogo. Kad išloštų laiką, Edyga pradėjo su Vy­
+    tautu derėtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178746
+
+- id: c-162443
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Strijkovskis ir Koje-
+    1  a v i č i u s supainiojo Andrių, Al­
+    girdo sūnų, su Vaidotu, Kęstučio sū­
+    numi, todėl radosi jų minimas
+    Andrius Vaidotas, Kęstučio sūnus,
+    Polocko kunigaikštis - visai išgalvo­
+    tas. Andrius žuvo prie Vorsklos 1399
+    metais.
+    31
+    Strijkovskis, 1.465, o juo sekda­
+    mas ir K o j e 1  a v i č i u s, p. 361,
+    plačiai aprašo, kokių gudrybių tą­
+    kart ėmėsi Kęstutis, puldamas Vil-
+    nių.
+  citata_rodoma: "Strijkovskis ir Koje- \n1  a v i č i u s supainiojo Andrių, Al­\ngirdo sūnų, su Vaidotu, Kęstučio sū­\nnumi, todėl radosi jų minimas \nAndrius Vaidotas, Kęstučio sūnus, \nPolocko kunigaikštis - visai išgalvo­\ntas. Andrius žuvo prie Vorsklos 1399 \nmetais.\n31\nStrijkovskis, 1."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178745
+
+- id: c-162445
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Vienas galingiausių Lietuvos valdovų, didysis kunigaikštis
+    Vytautas maksimaliai išplėtė Lietuvos valstybę, rytuose prijungęs
+    Smolenską ir pasiekęs Juodąją jūrą. Vytauto pralaimėjimas toto-
+    riams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.
+
+    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
+    pasibaigusį 1435 m.
+  citata_rodoma: "Vytauto pralaimėjimas toto-\nriams prie Vorsklos 1399 m. sulėtino Lietuvos plėtrą rytuose.\n\nPo Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,\npasibaigusį 1435 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178747
+    - t-183817
+
+- id: c-162446
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Garsiajame
+    Lucko suvažiavime 1429 m. pas Vytautą rinkosi Vidurio ir Rytų
+    Europos valdovai svarstyti jau nebe Kryžiuočių ordino, o Osmanų
+    imperijos keliamo pavojaus. Vytautas ir pats buvo reagavęs į Ser-
+    bijos sunaikinimą prie Kosovo (1389) - organizavo analogišką
+    Nikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu
+    1399 m. prie Vorsklos.
+
+    Švitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-
+    čionių pasaulio sienos“ (in finibus totius Christianitatis).
+  citata_rodoma: "Vytautas ir pats buvo reagavęs į Ser-\nbijos sunaikinimą prie Kosovo (1389) - organizavo analogišką\nNikopoliui (1396) kryžiaus žygį, pasibaigusį taip pat pralaimėjimu\n1399 m. prie Vorsklos.\n\nŠvitrigaila popiežiui net rašys, kad Lietuva yra „ant viso krikš-\nčionių pasaulio sienos“ (in finibus totius Christianitatis)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-178749
+
+- id: c-167696
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kaip būtų Vytautas pasielgęs su
+    Lenkija, jei būtų iš to žygio grįžęs nugalėtoju, sunku pasakyti.
+    Bet deja, jam tokiu iš jo grįžti neteko: didelių užsimojimų žygis
+    buvo prie Vorsklos pralaimėtas. To išdavoj Vytauto taip auk­
+    štai iškilęs autoritetas krito ir jo kai kurie priešai pamatė da­
+    bar gerą progą pakelt savo galvas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184325
+
+- id: c-168572
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 355"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 355."
+  citata_originali: |
+    Nesutikdami jokio pasiprieši­
+    nimo, nuniokojo tolesnes že­
+    mes ir be mūšio persikėlė per Psiolo ir Sulos upes.
+    Prie Vorsklos upės galop pasirodė Edigejus, Tamer-
+    lano karvedys, su didžiuliais skitų būriais. Išvydus ne­
+    suskaičiuojamą daugybę priešų, kiekvienam parūpo su­
+    žinoti, kas jų visų laukia, iš priešų daugybės atspėti,
+    kaip baigsis mūšis, ir pasmerkti savo ankstesnį išdi­
+    dumą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185211
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Mirties vieta: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Hlebas]], [[objektai/asmenys/Spytkas iš Melsztyno]]
-- Buvo žygio kryptis: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gyvenamoji vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Mirties vieta: [[objektai/asmenys/Andrius Algirdaitis]], [[objektai/asmenys/Spytkas iš Melsztyno]]

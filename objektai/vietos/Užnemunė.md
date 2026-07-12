@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užnemunė
 
@@ -30,37 +42,51 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
 <a id="claim-t-182731"></a>
 - t-001
   global_id: t-182731
-  teiginys: 'Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę.'
+  teiginys: "Vytautas pretendavo į visą Žemaitiją iki Nemuno, Klaipėdą ir Užnemunę."
   pagrindžia:
-    - c-004
+    - c-166150
 
 <a id="claim-t-182735"></a>
 - t-002
   global_id: t-182735
-  teiginys: 'Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą.'
+  teiginys: "Lietuvos Užnemunėje caro valdžia nurodė kurti mokyklas rusų dėstomąja kalba, lietuvių kalbai paliekant disciplinos statusą."
   pagrindžia:
-    - c-003
+    - c-166149
 
 <a id="claim-t-182736"></a>
 - t-003
   global_id: t-182736
-  teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
+  teiginys: "Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija."
   pagrindžia:
-    - c-005
+    - c-166152
 
 <a id="claim-t-183097"></a>
 - t-004
   global_id: t-183097
-  teiginys: 'Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje.'
+  teiginys: "Užnemunė Prūsų valdžioje ir Lenkų karalystėje Užnemunė Prūsų karalystėje."
   pagrindžia:
-    - c-002
+    - c-46770
 
 <a id="claim-t-183098"></a>
 - t-005
   global_id: t-183098
-  teiginys: '1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei.'
+  teiginys: "1807 m. Užnemunė buvo priskirta Varšuvos kunigaikštystei."
   pagrindžia:
-    - c-001
+    - c-24526
+
+<a id="claim-t-193240"></a>
+- t-006
+  global_id: t-193240
+  teiginys: "Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės."
+  pagrindžia:
+    - c-175977
+
+<a id="claim-t-193653"></a>
+- t-007
+  global_id: t-193653
+  teiginys: "Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi."
+  pagrindžia:
+    - c-176322
 - susijęs iš [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.).md#claim-t-66999|Vytauto žygis į Ordino žemes (1377 m.)]]: Kęstučio lieptas Vytautas sunaikino ordino maisto atsargas nuo Nemuno iki Tamovos, todėl kryžiuočiai šešias dienas neturėjo duonos ir pašaro.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/ivykiai/Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas.md#claim-t-183279|Trečiojo Lenkijos ir Lietuvos valstybės padalijimo konvencijos pasirašymas]]: Po 1795 m. spalio 24 d. konvencijos etninės lietuvių žemės atiteko Rusijai, Prūsija prisijungė Užnemunę, o pietvakarinis LDK kampas – Austrijai.
@@ -148,6 +174,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     vos, tik be žemės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,6 +192,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     Lietuviškoji Užnemunė priklausė Balstogės departamentui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,6 +212,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     turintiems atestate lietuvių kalbos pažymį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -201,6 +230,7 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     priežastis – Žemaitija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -219,12 +249,184 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+- c-006
+  santrauka: 'Kaip visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Napoleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžiavos, tik be žemės.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
+    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
+    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
+    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+- c-007
+  santrauka: 'Nors didžiosios etninės Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios tautos formavimasis vyko ta pačia kryptimi.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Pastaroji oficialiai vadinta
+    Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
+    vo laikoma „organine“ Rusijos imperijos dalimi. Nors didžiosios etninės
+    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
+    tautos formavimasis vyko ta pačia kryptimi.
+    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
+    padėties iš esmės nepakeitė.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
+## Citatos
+
+- id: c-24526
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Užnemunė Varšuvos kunigaikštystėje ir Lenkų karalystėje.
+    1807 m. Prūsija buvo Napoleono užimta. Tais pačiais metais
+    Užnemunė buvo priskirta prie Varšuvos kunigaikštystės. Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183098
+
+- id: c-46770
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Užnemunė Prūsų valdžioje ir Lenkų karalystėje
+
+    **Užnemunė Prūsų karalystėje.** Prūsija per trečiąjį padalinimą
+    gautąsias žemes pavadino Naujaisiais Rytprūsiais.
+    Jos visos buvo padalintos į Plocko ir Balstogės departamentus.
+    Lietuviškoji Užnemunė priklausė Balstogės departamentui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183097
+
+- id: c-166149
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    „Lenkų suartinimo su rusais“ strategine nuostata caro valdžia tuo
+    pat metu siekė apsaugoti nuo sulenkėjimo karalystės ne etninius lenkus.
+    Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lie-
+    tuvių kalbai paliekant disciplinos statusą (žinoma, mokyti lietuviškai rei-
+    kėjo iš vadovėlių, parašytų kirilika). Kaip neprivaloma disciplina lietuvių
+    kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos uni-
+    versitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams,
+    turintiems atestate lietuvių kalbos pažymį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182735
+
+- id: c-166150
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Čia Vytautas pakartoja ankstesnių Lie-
+    tuvos valdovų nuostatą plėsti valstybę visoje baltų erdvėje. Tačiau vėliau
+    jis pretendavo tik į visą Žemaitiją iki Nemuno (vadinasi, ir Klaipėdą) bei
+    Užnemunę.
+    Taigi, net po Žalgirio mūšio pagrindinė Vytauto konflikto su Ordinu
+    priežastis – Žemaitija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182731
+
+- id: c-166152
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nuo ketvirtojo dešimtmečio rusiška administracinio teritorinio val-
+    dymo sistema įvesta ir Kongresinėje Lenkijoje. Lietuvos Užnemunė pri-
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    101
+    klausė gubernijai, kuri iš pradžių vadinta Augustavo, o nuo 1867 m. Su-
+    valkų gubernija – tai maždaug šeštadalis dabartinės Lietuvos teritorijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182736
+
+- id: c-175977
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kaip
+    visoje kunigaikštystėje, taip ir Užnemunėje buvo įvestas Na-
+    poleono kodeksas, kuriuo valstiečiai buvo atleisti nuo baudžia-
+    vos, tik be žemės.
+    Žuvus Napoleono galybei, Užnemunė taip pat pasiliko
+    Lenkų karalystėje, kur veikė Napoleono įstatymai; jie čia išliko
+    ir panaikinus Lenkų karalystę. Užnemunėje Napoleono kodek-
+    sas, — žinoma, labai papildytas, — tebeveikia dar ir dabar.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193240
+
+- id: c-176322
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pastaroji oficialiai vadinta
+    Lenkijos karalyste ir formaliu politiniu administraciniu požiūriu nebu-
+    vo laikoma „organine“ Rusijos imperijos dalimi. Nors didžiosios etninės
+    Lietuvos dalies raidos ir Užnemunės politinės sąlygos skyrėsi, modernios
+    tautos formavimasis vyko ta pačia kryptimi.
+    LDK branduolį sudariusių žemių prijungimas prie Rusijos valstiečių
+    padėties iš esmės nepakeitė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193653
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Gimimo vieta: [[objektai/asmenys/Jonas Basanavičius]]
-- Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Lenkijos karalystė]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]], [[objektai/vietos/Varšuvos kunigaikštystė]]
+- Užnemunė priklausė [[objektai/vietos/Augustavo gubernija]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Rusija]]

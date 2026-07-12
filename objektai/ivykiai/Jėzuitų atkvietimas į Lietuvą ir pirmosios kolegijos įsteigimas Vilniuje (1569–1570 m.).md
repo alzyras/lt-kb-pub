@@ -15,6 +15,18 @@ tags:
   - kraštas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jėzuitų atkvietimas į Lietuvą ir pirmosios kolegijos įsteigimas Vilniuje (1569–1570 m.)
 
@@ -39,10 +51,9 @@ Nenurodyta
 <a id="claim-t-01636"></a>
 - t-001
   global_id: t-01636
-  teiginys: '1570 m. jėzuitai Vilniuje įsteigė pirmąją kolegiją, o vėliau kolegijų atsirado ir kitose Lietuvos vietose.'
+  teiginys: "1570 m. jėzuitai Vilniuje įsteigė pirmąją kolegiją, o vėliau kolegijų atsirado ir kitose Lietuvos vietose."
   pagrindžia:
-    - c-001
-
+    - c-01874
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,7 +66,27 @@ Nenurodyta
     atsirado ir visame krašte.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01874
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kaip visur, taip ir Lietuvoje, pirmas jėzuitų darbas buvo
+    steigti mokyklos. Pradžios mokyklų jie nesteigė, o tik aukštes-
+    niąsias, vadinamas kolegijomis, ir akademijas. 1570 m.
+    Vilniuje jų buvo įsteigta pirmoji kolegija; netrukus kolegijų
+    atsirado ir visame krašte.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01636

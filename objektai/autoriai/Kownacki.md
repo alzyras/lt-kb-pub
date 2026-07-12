@@ -9,6 +9,18 @@ tags:
   - autorius
   - ginklas
   - miestas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kownacki
 
@@ -21,10 +33,9 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
 <a id="claim-t-88073"></a>
 - t-001
   global_id: t-88073
-  teiginys: 'Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių.'
+  teiginys: "Kownackis nenorėjo tikėti, kad miestai patys vieni galėjo pristatyti tokią daugybę ginkluotų žmonių."
   pagrindžia:
-    - c-001
-
+    - c-84052
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,32 @@ Bandtkie Dzieje Królestwa Polskiego, I, p. 211, ir paga­ liau Kownacki Histor.
     pristatyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84052
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ta­
+    čiau J. W. Bandtkie Zbiór roz­
+    praw o przedmiotach praw polskich,
+    I. 57 ir j. S . Bandtkie Dzieje
+    Królestwa Polskiego, I, p. 211, ir paga­
+    liau Kownacki  Histor. Bolesława
+    II, p. 114 - nenori tikėti, kad tokią
+    daugybę ginkluotų žmonių miestai
+    patys vieni būtų galėję anais laikais
+    pristatyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88073

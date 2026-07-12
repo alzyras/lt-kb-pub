@@ -13,11 +13,24 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - saltinis
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # KGB kontržvalgybos sąvokų žodynas
 
@@ -30,10 +43,9 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
 <a id="claim-t-41538"></a>
 - t-001
   global_id: t-41538
-  teiginys: 'KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu.'
+  teiginys: "KGB kontržvalgybos organai agentus-smogikus laikė rezervu kovai su žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gaujomis karo metu."
   pagrindžia:
-    - c-001
-
+    - c-44997
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +64,34 @@ Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudo
     1949 m. lapkričio 1 d.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44997
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
+    tai būdavo užverbuojami nacionalistinio pogrindžio nariai.
+
+    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
+
+    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
+    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
+
+    Antanas Starkus-Montė (1948 m. spalis -
+    1949 m. lapkričio 1 d.).
+  citata_rodoma: "1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-\ntai būdavo užverbuojami nacionalistinio pogrindžio nariai.\n\nEsant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.\n\nValstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja\nkaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-\njomis rezervą ypatinguoju laikotarpiu ar karo metu.“\n\nAntanas Starkus-Montė (1948 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41538

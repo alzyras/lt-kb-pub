@@ -13,6 +13,18 @@ tags:
   - daiktas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Panevėžio bataliono vėliava
 
@@ -45,10 +57,9 @@ Nenurodyta
 <a id="claim-t-80694"></a>
 - t-001
   global_id: t-80694
-  teiginys: 'Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.'
+  teiginys: "Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą."
   pagrindžia:
-    - c-001
-
+    - c-42529
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,7 +83,37 @@ Nenurodyta
     frontą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42529
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    BE Bolševikų gynybinės pozicijos
+    iesteliai
+
+    Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio
+    ir jo apylinkių gyventojų įteikta vėliava. Vėliavą
+    įteikė Panevėžio lietuvių katalikių moterų draugija.
+    Ant vėliavos baltais šilkiniais siūlais išsiuvinėta:
+    „VALIO PANEVĖŽIO BATALIONAS. P. L. K. M. D. 1919. III. 25“
+
+    LIETUVIAI SUTINKA SAVO KARIUOMENĘ
+
+    2-ojo pėstininkų pulko I bataliono puskari-
+    ninkis Antanas Šukys prisimena bataliono su-
+    stojimą Pagirių kaime žygiuojant į Panevėžio
+    frontą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-80694

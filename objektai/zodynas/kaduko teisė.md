@@ -9,6 +9,19 @@ tags:
   - bajorija
   - kunigaikštis
   - sąvoka
+  - teisinė-praktika
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kaduko teisė
 
@@ -21,17 +34,16 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
 <a id="claim-t-03021"></a>
 - t-001
   global_id: t-03021
-  teiginys: 'Kaduko teisė leido be įpėdinių išmirusios bajorų šeimos turtus ir dvarus perimti kunigaikščiui ir perduoti juos savo valia.'
+  teiginys: "Kaduko teisė leido be įpėdinių išmirusios bajorų šeimos turtus ir dvarus perimti kunigaikščiui ir perduoti juos savo valia."
   pagrindžia:
-    - c-001
+    - c-03259
 
 <a id="claim-t-182950"></a>
 - t-002
   global_id: t-182950
-  teiginys: 'Pagal kaduko teisę be įpėdinių išmirusios bajorų šeimos turtai ir dvarai atitekdavo kunigaikščiui.'
+  teiginys: "Pagal kaduko teisę be įpėdinių išmirusios bajorų šeimos turtai ir dvarai atitekdavo kunigaikščiui."
   pagrindžia:
-    - c-002
-
+    - c-166349
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,6 +61,7 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
     juos kam nors kitam (tai vadinamoji kaduko teisė).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -69,7 +82,54 @@ Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų turtai ir dvarai
     arkliu ir su savo maistu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-03259
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Negalėjo jie
+    laisvai elgtis tik su ta žeme, kurią jiems duodavo kunigaikštis
+    valdyti iki gyvos jų galvos ar iki pasikeis jo malonė: ta žemė
+    galėjo būti atimta ir kitam atiduota kiekvienu momentu arba iš-
+    ėjus kunigaikščio skirtajam laikui. Bet faktiškai ir ta žemė, pa-
+    tekusi į kurios nors šeimos rankas, iš jos jau retai kada be-
+    išeidavo.
+    Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
+    tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
+    juos kam nors kitam (tai vadinamoji kaduko teisė).
+  citata_rodoma: "Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-\ntai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo\njuos kam nors kitam (tai vadinamoji kaduko teisė)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03021
+
+- id: c-166349
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bet faktiškai ir ta žemė, pa-
+    tekusi į kurios nors šeimos rankas, iš jos jau retai kada be-
+    išeidavo.
+    Jei išmirdavo kuri nors bajorų šeima be įpėdinių, tai jų tur-
+    tai ir dvarai atitekdavo kunigaikščiui, ir jis savo valia atiduodavo
+    juos kam nors kitam (tai vadinamoji kaduko teisė).
+    Karinė prievolė bajorijai nebuvo lengva: kasmet vieną ar ke-
+    letą kartų tekdavo eiti į karą pačiam su savo ginklais, su savu
+    arkliu ir su savo maistu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182950

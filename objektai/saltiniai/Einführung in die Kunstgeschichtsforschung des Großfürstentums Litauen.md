@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen
 
@@ -25,10 +37,9 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
 <a id="claim-t-31676"></a>
 - t-001
   global_id: t-31676
-  teiginys: 'P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius.'
+  teiginys: "P. Rėklaičio „Einführung in die Kunstgeschichtsforschung des Großfürstentums Litauen“ išleista Marburge 1962 m. ir sužymėjo 944 bibliografinius numerius."
   pagrindžia:
-    - c-001
-
+    - c-33563
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +52,28 @@ Rėklaitis : Einführung in die Kunstgeschichtsforschung des Groß- iürstentums
     istorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33563
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Z. Ivinskis :** **_Vytautas D. istorinėje literatūroje ir jo periodo bibliografija,_**
+    **Athenaeum, t. 2, Nr. 1, Kaunas 1931, p. 89-141.
+    P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-
+    iürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos
+    istorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai.
+  citata_rodoma: "P. Rėklaitis :** **_Einführung in die Kunstgeschichtsforschung des Groß-\niürstentums Litauen,_** **Marburg 1962 (gausiai Įtraukta ir bendroji Lietuvos\nistorijos bibliografija. Iš viso sužymėta 944 bibliogr. numeriai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31676

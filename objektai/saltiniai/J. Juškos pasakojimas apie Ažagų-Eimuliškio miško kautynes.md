@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Juškos pasakojimas apie Ažagų-Eimuliškio miško kautynes
 
@@ -33,17 +45,16 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
 <a id="claim-t-67411"></a>
 - t-001
   global_id: t-67411
-  teiginys: 'J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus.'
+  teiginys: "J. Juška teigė, kad Ažagų-Eimuliškio miško kautynėse okupantų pajėgos žmonių skaičiumi galėjo būti 10 ar 20 kartų pranašesnės už partizanus."
   pagrindžia:
-    - c-002
+    - c-43255
 
 <a id="claim-t-67412"></a>
 - t-002
   global_id: t-67412
-  teiginys: 'J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario.'
+  teiginys: "J. Juška pasakojo, kad Ažagų-Eimuliškio miško kautynės prasidėjo ankstų rytą ir truko iki pavakario."
   pagrindžia:
-    - c-001
-
+    - c-11235
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,7 +82,8 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
     išsivežė. Mūsiškius paliko miške.“
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -101,7 +113,72 @@ Prisimena mūšio dalyvis J. Juška:. Prieš kokią valandą iki mūšio, - toli
     kiekvieną kelmą, kiekvieną krūmelį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-11235
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prieš
+    kokią valandą iki mūšio, - toliau prisimena
+    J. Juška, - labai žemai virš medžių viršūnių
+    praskrido lėktuvas. Taip, matyt, jie nustatė
+    mūsų buvimo vietas. Jei būtume žinoję, kad
+    mus ruošiasi pulti kariuomenė, būtume iš-
+    sisklaidę ir pasitraukę tolyn... Netrukus
+    miško link pradėjo važiuoti tanketės, sunk-
+    vežimiai, gurguolės, o lėktuvas vėl ėmė
+    skraidyti virš miško. Nebebuvo laiko slėp-
+    tis, reikėjo ruoštis gynybai. Mūšis prasi-
+    dėjo ankstų rytą. Mūsiškiai į juos šaudė iš
+    už medžių, iš už krūmų ir visą laiką sten-
+    gėsi išsiveržti iš apsupties zonos (miškas
+    buvo apsuptas nuo Ažagų kaimo ir Smilgių
+    miestelio pusės). Mūšis truko iki pavaka-
+    rio. Išvykdami raudonieji susirinko savo
+    žuvusiuosius, susikrovė į sunkvežimius ir
+    išsivežė. Mūsiškius paliko miške.“
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67412
+
+- id: c-43255
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Karas po karo
+
+    ## Puslapis 224
+
+    MUSIO DALYVIO ATSIMINIMAI
+
+    Prisimena mūšio dalyvis J. Juška:
+
+    „Daug tą dieną žuvo mūsiškių, bet gal
+    ne mažiau žuvo ir okupantų kariaunos.
+    Suprantama, jėgos buvo nelygios. Jie buvo
+    ginkluoti moderniais ginklais, po mišką
+    šlaistėsi tanketėmis, virš medžių skraidė
+    lėktuvas, o kvartalinėse linijose buvo išsi-
+    dėstę kulkosvaidžius. Jie ir žmonių skai-
+    čiumi buvo gal 10, o gal 20 kartų pranašesni
+    už mus. Mums kovoje padėjo tik mūsų bud-
+    rumas ir tai, kad gerai žinojome mišką -
+    kiekvieną kelmą, kiekvieną krūmelį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67411

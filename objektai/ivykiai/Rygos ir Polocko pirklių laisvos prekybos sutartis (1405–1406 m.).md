@@ -17,6 +17,18 @@ tags:
   - sutartis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos ir Polocko pirklių laisvos prekybos sutartis (1405–1406 m.)
 
@@ -45,10 +57,9 @@ Nenurodyta
 <a id="claim-t-34554"></a>
 - t-001
   global_id: t-34554
-  teiginys: '1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto.'
+  teiginys: "1405 m. Rygoje Rygos ir Polocko pirkliai sudarė sutartį laisvai prekiauti net kilus karui tarp Livonijos ordino ir Vytauto."
   pagrindžia:
-    - c-001
-
+    - c-35779
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,7 +74,30 @@ Nenurodyta
     neturinti su karu^2 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-35779
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Šituo pat laiku, kai buvo vedamos Racionžo taikos dery­
+    bos, tarėsi tarp savęs ir Rygos bei Polocko pirkliai. Jie buvo
+    labai nepatenkinti, kad Vytauto karai ir nesantaikos su Vokiečių
+    bei Livonijos Ordinais trukdo prekybą, ir todėl 1405 m. Rygoje
+    padarė sutartį laisvai prekiauti, jei net ištiktų ir karas tarp Li­
+    vonijos Ordino ir Vytauto, nes pasak jų, prekyba nieko bendro
+    neturinti su karu^2 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34554

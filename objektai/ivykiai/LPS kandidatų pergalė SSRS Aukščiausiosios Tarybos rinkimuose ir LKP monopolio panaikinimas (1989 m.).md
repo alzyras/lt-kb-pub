@@ -11,11 +11,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
+  - institucija
   - ivykis
   - tauta
-  - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # LPS kandidatų pergalė SSRS Aukščiausiosios Tarybos rinkimuose ir LKP monopolio panaikinimas (1989 m.)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-20250"></a>
 - t-001
   global_id: t-20250
-  teiginys: '1989 m. kovą LPS kandidatai laimėjo rinkimus į SSRS Aukščiausiąją Tarybą, o gruodžio 7 d. pataisos panaikino LKP valdžios monopolį.'
+  teiginys: "1989 m. kovą LPS kandidatai laimėjo rinkimus į SSRS Aukščiausiąją Tarybą, o gruodžio 7 d. pataisos panaikino LKP valdžios monopolį."
   pagrindžia:
-    - c-001
-
+    - c-22985
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +76,33 @@ Nenurodyta
     šalies politiniame gyvenime.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22985
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pagaliau 1989 m. gruodį,
+    veikiant visų Baltijos tautų atstovams, slaptųjų protokolų padarinius pa-
+    smerkė SSRS liaudies deputatų II suvažiavimas, nors tiesiogiai tų padari-
+    nių su Baltijos valstybių okupacija nesusiejo.
+    1989 m. lietuvių tautinis išsivadavimas įgijo politinį pobūdį. Jau tų
+    metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuškinamai
+    laimėjo LPS kandidatai, o gruodžio 7 dienos konstitucijos pataisomis pa-
+    naikintas LKP valdžios monopolis valstybėje ir visuomenėje ir sudarytos
+    sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti
+    šalies politiniame gyvenime.
+  citata_rodoma: "sąlygos kurti įvairias politines partijas LPS atvėrė kelią legaliai dalyvauti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20250

@@ -15,6 +15,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Francua Žozefas Noelis
 
@@ -23,32 +35,29 @@ periodo_grupes:
 Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno. Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla. Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
 
 ## Teiginiai
+
 <a id="claim-t-190295"></a>
 - t-001
   global_id: t-190295
-  teiginys: 'Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno.'
+  teiginys: "Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173178
+
 <a id="claim-t-190296"></a>
 - t-002
   global_id: t-190296
-  teiginys: 'Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla.'
+  teiginys: "Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla."
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173179
+
 <a id="claim-t-190297"></a>
 - t-003
   global_id: t-190297
-  teiginys: 'Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.'
+  teiginys: "Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-173180
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia ėmė ir iš Francua Žozefo Noelio mitologinio žodyno.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -57,11 +66,14 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
     puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
     kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Francua Žozefas Noelis manė, kad kabirus anksčiausiai pradėta garbinti Egipte, nes Memfyje buvusi seniausia jų šventykla.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -71,11 +83,14 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
     rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
     vo seniausia jų šventykla.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -87,8 +102,67 @@ Teodoras Narbutas palyginamąją kitų tautų mitologinę medžiagą daugiausia 
     syriaque e. a. -  Paris, 1803. -  T. I—II) buvo istoriko
     Šaurų dvaro bibliotekoje ([Narbutt T ] Spisanie Mu­
     zeum w Szawrach.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-173178
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 24"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 24."
+  citata_originali: |
+    Palyginamąją kitų tautų (graikų, romėnų, indų...) mitolo­
+    ginę medžiagą T. Narbutas daugiausia ėmė iš anuo metu po­
+    puliarių Pjero Šomprė (Dominyko Šybinskio išversto į lenkų
+    kalbą), Francua Noelio, Edvardo Mėjerio mitologinių žodynų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190295
+
+- id: c-173179
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 111"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 111."
+  citata_originali: |
+    Bochartas žodį Cabires išveda iš arabiško žodžioKabir, reiš­
+    kiančio galią. Romėnai tuos pačius dievus vadino Diipotentes,
+    Dii socii arbaAnactes -  monarchai. E Noelis mano, kad Kabi­
+    rus anksčiausiai pradėta garbinti Egipte, kadangi Memfyje bu­
+    vo seniausia jų šventykla.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190296
+
+- id: c-173180
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 472"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 472."
+  citata_originali: |
+    Francua Žozefo Noelio (1751-1841), prancūzų po­
+    litinio veikėjo ir mokslininko, veikalas (Noel Fran­
+    cois Joseph. Dictionnaire de la fable: Ou mytholo­
+    gie grecque, latine, égyptienne, celtique, persane,
+    syriaque e. a. -  Paris, 1803. -  T. I—II) buvo istoriko
+    Šaurų dvaro bibliotekoje ([Narbutt T ] Spisanie Mu­
+    zeum w Szawrach.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190297

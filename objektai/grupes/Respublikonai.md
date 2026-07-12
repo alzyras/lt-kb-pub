@@ -15,6 +15,18 @@ tags:
   - mūšis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Respublikonai
 
@@ -27,9 +39,9 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
 <a id="claim-t-41123"></a>
 - t-001
   global_id: t-41123
-  teiginys: 'Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę.'
+  teiginys: "Po Valkininkų nutarimo respublikonų kariuomenė Vilniaus Šnipiškių stovykloje iš esmės suformavo naują 7500 etatinių vienetų LDK kariuomenę."
   pagrindžia:
-    - c-001
+    - c-44839
 - susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
 - susijęs iš [[objektai/grupes/Sapiegų kariuomenė.md#claim-t-78448|Sapiegų kariuomenė]]: Sapiegų kariuomenės dalies gynyba sutrukdė respublikonams persekioti besitraukiančius Sapiegų giminės senjorus.
 - susijęs iš Leipūnai: Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.
@@ -83,10 +95,41 @@ Priėmusi nutarimą respublikonų kariuomenė nužygiavo į Vilnių, kur Šnipi�
     1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44839
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Priėmusi nutarimą respubli-
+    konų kariuomenė nužygiavo į Vilnių, kur
+    Šnipiškių priemiestyje įrengtoje stovykloje,
+
+    vykdant Valkininkų nutarimą, buvo iš
+    esmės suformuota nauja LDK kariuomenė -
+    7500 etatinių vienetų. Išsireikalavusi iš
+    Vilniaus miesto kontribuciją, respublikonų
+    kariuomenė iš sostinės pasitraukė į naujas
+    dislokavimo vietas.
+
+    Valkininkų mūšis galutinai sugriovė
+    Sapiegų hegemoniją Lietuvoje, užbaigė nuo
+
+    1700 m. lapkričio 18 d. VALKININKŲ MUSIS 139
+  citata_rodoma: "Priėmusi nutarimą respubli-\nkonų kariuomenė nužygiavo į Vilnių, kur\nŠnipiškių priemiestyje įrengtoje stovykloje,\n\nvykdant Valkininkų nutarimą, buvo iš\nesmės suformuota nauja LDK kariuomenė -\n7500 etatinių vienetų. Išsireikalavusi iš\nVilniaus miesto kontribuciją, respublikonų\nkariuomenė iš sostinės pasitraukė į naujas\ndislokavimo vietas.\n\nValkininkų mūšis galutinai sugriovė\nSapiegų hegemoniją Lietuvoje, užbaigė nuo\n\n1700 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41123
 
 ## Ryšiai
 - Respublikonai keliavo į [[objektai/vietos/Vilnius]]

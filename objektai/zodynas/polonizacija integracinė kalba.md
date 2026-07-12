@@ -10,6 +10,18 @@ tags:
   - mokslininkas
   - mūšis
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # polonizacija integracinė kalba
 
@@ -22,24 +34,23 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
 <a id="claim-t-22248"></a>
 - t-001
   global_id: t-22248
-  teiginys: 'Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone.'
+  teiginys: "Lenkų kalba LDK tapo bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų žemėse priemone."
   pagrindžia:
-    - c-001
+    - c-24937
 
 <a id="claim-t-22249"></a>
 - t-002
   global_id: t-22249
-  teiginys: 'Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos.'
+  teiginys: "Lenkų kalba Lietuvos bajorų reikalavimu Seime įteisinta kaip oficiali raštinių kalba vietoje rusėnų raštų kalbos."
   pagrindžia:
-    - c-002
+    - c-24938
 
 <a id="claim-t-22250"></a>
 - t-003
   global_id: t-22250
-  teiginys: 'Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių.'
+  teiginys: "Vyriausybei leidus steigti 70 lenkiškų mokyklų, kaltinimai polonizacija buvo siejami su pavojumi tautai dėl įtemptų Lietuvos ir Lenkijos santykių."
   pagrindžia:
-    - c-003
-
+    - c-24939
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,6 +64,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     žemėse priemone.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,6 +80,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     menės pasirinkimas, o ne polonizacija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,7 +95,63 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
     kiams, įvertinta kaip pavojus visai tautai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-24937
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl M. Daukšos lietuviakalbė programa nebuvo įgyvendinta. Gyveni-
+    mas reikalavo vis daugiau lietuviškų žodžių, bet, užuot juos kūrus, buvo
+    pasisavinami lenkiški. Taigi lietuvių kalbą, nesuspėjant kurti naujadarų
+    pagal gyvenimo poreikius, pradžioje lenkė rusėnų kalba, o vėliau lenkų,
+    tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų
+    žemėse priemone.
+  citata_rodoma: "tapusi LDK bajorijos integracine kalba ir Vakarų kultūros sklaidos rusėnų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22248
+
+- id: c-24938
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Seime jai suteikiamas oficialios raštinių kalbos
+    statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba
+    buvo įteisinta pačių Lietuvos bajorų reikalavimu, tai buvo Lietuvos visuo-
+    menės pasirinkimas, o ne polonizacija.
+  citata_rodoma: "statusas vietoje anksčiau vartotos rusėnų raštų kalbos. Taigi lenkų kalba"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22249
+
+- id: c-24939
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    „Bolševizaciją“ papildė kaltinimai polonizaci-
+    ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti
+    70 lenkiškų mokyklų, o tai, esant įtemptiems Lietuvos ir Lenkijos santy-
+    kiams, įvertinta kaip pavojus visai tautai.
+  citata_rodoma: "ja, mat vykdydama rinkiminius pažadus vyriausybė lenkams leido steigti"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22250

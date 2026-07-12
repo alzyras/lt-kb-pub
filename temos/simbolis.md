@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 26.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -24,9 +24,11 @@ Objektų skaičius: 26.
 - [[objektai/daiktai/Aukuras]]
 - [[objektai/daiktai/Baltijos kelio gedulo kaspinai ir žvakutės]]
 - [[objektai/daiktai/Bizantijos imperatorių herbas]]
+- [[objektai/daiktai/Deivės Laimos stabas prie Goplo ežero]]
 - [[objektai/daiktai/Dubnia herbas]]
 - [[objektai/daiktai/Gedimino antspaudas]]
 - [[objektai/daiktai/Herbai]]
+- [[objektai/daiktai/Kauno miesto dievo-globėjo (Penatis) stabas]]
 - [[objektai/daiktai/Kentauro herbas]]
 - [[objektai/daiktai/Kryžiuočių kariuomenės dalių vėliavos]]
 - [[objektai/daiktai/Kryžius]]
@@ -42,6 +44,6 @@ Objektų skaičius: 26.
 - [[objektai/daiktai/Romo Kalantos atminimo paminklai ir simboliai]]
 - [[objektai/daiktai/Seligos herbas]]
 - [[objektai/daiktai/Vytauto vėliava]]
-- [[objektai/daiktai/Vytauto ženklas]]
-- [[objektai/daiktai/Vėliavos]]
+- [Vytauto ženklas](../objektai/daiktai/Vytauto%20%C5%BEenklas)
+- [Vėliavos](../objektai/daiktai/V%C4%97liavos)
 - [Šv. Vaclovo karūna](../objektai/daiktai/%C5%A0v.%20Vaclovo%20kar%C5%ABna)

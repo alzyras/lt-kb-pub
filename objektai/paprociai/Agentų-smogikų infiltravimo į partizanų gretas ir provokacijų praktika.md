@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Agentų-smogikų infiltravimo į partizanų gretas ir provokacijų praktika
 
@@ -45,24 +57,23 @@ Nenurodyta
 <a id="claim-t-67035"></a>
 - t-001
   global_id: t-67035
-  teiginys: 'MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje.'
+  teiginys: "MGB-KGB agentai-smogikai suvaidino svarbų vaidmenį galutinai sunaikinant ginkluotą rezistenciją Lietuvoje."
   pagrindžia:
-    - c-001
+    - c-12363
 
 <a id="claim-t-67036"></a>
 - t-002
   global_id: t-67036
-  teiginys: 'Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę.'
+  teiginys: "Apie 1948 m. sovietai aktyviai infiltravo agentus-smogikus į partizanų gretas ir net jų vadovybę."
   pagrindžia:
-    - c-003
+    - c-12365
 
 <a id="claim-t-67037"></a>
 - t-003
   global_id: t-67037
-  teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
+  teiginys: "Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija."
   pagrindžia:
-    - c-002
-
+    - c-12364
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,7 +95,8 @@ Nenurodyta
     „kompromatas“ būtų pamestas tikriesiems partizanams.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -111,7 +123,8 @@ Nenurodyta
     jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -140,7 +153,95 @@ Nenurodyta
     dėjimą Lietuvoje.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-12363
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    MGB-KGB agentai smogikai suvaidino itin svarbų vaidmenį galu-
+    tinai sunaikinant ginkluotą rezistenciją Lietuvoje. Agentų smo-
+    gikų pagrindą sudarė atrinkti iš stribų gretų ir kitų sovietinių
+    respublikų atsiųsti čekistai su panašios veiklos patirtimi. Taip pat
+    agentai buvo verbuojami iš suimtųjų partizanų. Buvę partizanai
+    naikino ne tik buvusius bendražygius, bet ir civilius šalies gyven-
+    tojus. Civilius paprastai žudydavo siekdami sunaikinti galimus
+    liudytojus ir taip „pridengti“ specialiąsias saugumo operacijas.
+    . Smogikai veikdavo saugumo majoro Aleksejaus Sokolovo sufor-
+    muotose vadinamosiose specialiosiose grupėse, kurioms paprastai
+    vadovaudavo koks nors operatyvininkas. Tokių grupių priedangai
+    naudota griežta konspiracija, o jų nariai faktiškai neturėjo galimy-
+    bių pabėgti ar pasitraukti iš spec. grupių sudėties, nes tuojau pat
+    „kompromatas“ būtų pamestas tikriesiems partizanams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67035
+
+- id: c-12364
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    KGB kontržvalgybos sąvokų žodyne pateikiamas agentų-smogikų apibrėžimas.
+    „Agentas-smogikas - valstybės saugumo organų agentas, kovinėmis priemonėmis vyk-
+    dantis specialias užduotis. Paprastai jais verbuojami asmenys iš sovietinių patriotų, idė-
+    jiniu pagrindu, pasirengusių ryžtingiems veiksmams, pasirengusių rizikuoti savo gyvybe
+    ir turinčių tam reikiamų asmeninių savybių.
+
+    Taip pat agentais-smogikais galėdavo būti KGB organų sulaikyti ir užverbuoti priešiškų
+    žvalgybinių-diversinių ir nacionalistinių gaujų nariai.
+
+    1940-1950 m. Vakarų Ukrainoje ir Baltijos šalių teritorijoje agentais-smogikais papras-
+    tai būdavo užverbuojami nacionalistinio pogrindžio nariai.
+
+    Esant poreikiui agentai-smogikai apjungiami į kovines-agentūrines grupes.
+
+    Valstybės saugumo komiteto (KGB) kontržvalgybos organai agentus-smogikus naudoja
+    kaip kovos su priešiškomis žvalgybinėmis-diversinėmis grupėmis ir nacionalistinėmis gau-
+    jomis rezervą ypatinguoju laikotarpiu ar karo metu.“
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67037
+
+- id: c-12365
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šimonių girios operacija gerai atspindi
+    apie 1948 m. susidariusią tendenciją. So-
+    vietai visoje Lietuvoje ypač aktyviai ir efek-
+    tyviai naudojo agentus-smogikus laisvės
+    kovotojams aptikti ir sunaikinti, aktyviai
+    vykdoma agentūrinė veikla infiltruojant
+    agentus į partizanų gretas ir net į jų vado-
+    vybę. Partizanais apsimetę agentai-smo-
+    gikai vykdė civilių gyventojų žudynes,
+    diskredituodami partizanus tarp vietos
+    gyventojų. Sovietų valdžia ūkininkus prie-
+    varta suvarė į kolūkius, taip juos nuskur-
+    dindami ir atimdami iš partizanų galimybę
+    apsirūpinti maistu ir kita būtina materia-
+    lia gyventojų parama. Šios kompleksinės
+    priemonės galiausiai leido okupacinėms
+    pajėgoms galutinai palaužti partizaninį ju-
+    dėjimą Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67036

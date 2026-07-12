@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # ponai
 
@@ -50,23 +62,23 @@ Nenurodyta
 <a id="claim-t-186926"></a>
 - t-001
   global_id: t-186926
-  teiginys: 'Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika.'
+  teiginys: "Ponų Taryba pateikiama kaip didikų politinis organas, kurio viešpatavimą gina Bychovco kronika."
   pagrindžia:
-    - c-001
+    - c-170101
 
 <a id="claim-t-186927"></a>
 - t-002
   global_id: t-186927
-  teiginys: '„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją.'
+  teiginys: "„Ponai“ šiame leidinyje siejami su didikų sluoksniu ir jo požiūriu į valstybės istoriją."
   pagrindžia:
-    - c-001
+    - c-170101
 
 <a id="claim-t-186928"></a>
 - t-003
   global_id: t-186928
-  teiginys: 'Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai.'
+  teiginys: "Kronikos vaizdinyje „ponai“ perkeliami ir į ankstyvesnius laikus kaip valdovų rinkėjai bei patarėjai."
   pagrindžia:
-    - c-002
+    - c-170102
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179139|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai žiūrėjo į didėjantį Vytauto savarankiškumą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179179|Lenkai]]: Jadvyga ir lenkų ponai nepalankiai vertino Vytauto pastangas būti nepriklausomam.
@@ -118,8 +130,11 @@ Nenurodyta
 - susijęs iš Naugardas: Narbutas pasakojo, kad Tautvilos sūnus Jonas, gelbėdamas Polocko bajorus, išjojo į Naugardą ir ten tapo vienuoliu.
 - susijęs iš Polockas: 1264 metais Lietuvos ponai po Treniotos mirties pasiuntė Liutaurą užimti Polocko ir valdyti jį vietininku.
 - susijęs iš Žemaitija: Narbutas rašo, kad Liutauro sūnus Vytenis gimė 1232 m. Žemaitijoje, gyveno Ariogaloje ir kartu su tėvu valdė Polocką.
+- susijęs iš [[objektai/zodynas/Rejkis.md#claim-t-192571|Rejkis]]: Narbuto aiškinimu, krašto bajorai buvo priklausomi nuo provincijas valdžiusių karaliukų, vadinamų Rejkis ir Kunigas.
 - susijęs iš [[objektai/zodynas/bažnytinės cenzūros ir pasaulietinė valdžia.md#claim-t-86517|bažnytinės cenzūros ir pasaulietinė valdžia]]: Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia asmenims, ilgiau kaip metus vengiantiems bažnytinių cenzūrų.
 - susijęs iš [[objektai/zodynas/regestrai regestriniai kazokai.md#claim-t-74035|regestrai regestriniai kazokai]]: Nugalėti kazokai iš dalies patekdavo į regestrus, o kiti turėdavo dirbti žemę arba bėgdavo į Sičę.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192271|vitingas]]: Teodoras Narbutas vitingų titulo aiškinimą sieja su Sambijoje buvusia bajorų kasta, vadinta Withingen.
+- susijęs iš [[objektai/zodynas/vitingas.md#claim-t-192272|vitingas]]: Teodoras Narbutas vitingų titulą aiškina kaip skandinavų vikingų įpėdinių išsaugotą titulą tarp Sambijos bajorų.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -138,7 +153,8 @@ Nenurodyta
     gano — Ponų Tarybos — viešpatavimą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -162,7 +178,62 @@ Nenurodyta
     3 0  Kronika Macieia Slryikowskiego.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-170101
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 19."
+  citata_originali: |
+    Bychovco kronikoje dėstoma Lietuvos istorija —
+    tai politinė valstybės istorija, didžiųjų ir vasalinių ku­
+    nigaikščių, didikų istorija, pasakojama, visų pirma, di­
+    dikų-,,ponų" požiūriu, priešingų didžiojo kunigaikš­
+    čio valdžios stiprinimui. Luominės didikų prerogatyvos
+    didžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos
+    Aleksandro konflikto su Ponų Taryba aprašyme. By­
+    chovco kronika aiškiai gina XV a. antrosios pusės —
+    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
+    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
+    gano — Ponų Tarybos — viešpatavimą.
+  citata_rodoma: "Bychovco kronikoje dėstoma Lietuvos istorija —  \ntai politinė valstybės istorija, didžiųjų ir vasalinių ku­\nnigaikščių, didikų istorija, pasakojama, visų pirma, di­\ndikų-,,ponų\" požiūriu, priešingų didžiojo kunigaikš­\nčio valdžios stiprinimui. Luominės didikų prerogatyvos \ndidžiojo kunigaikščio valdžios atžvilgiu pabrėžiamos \nAleksandro konflikto su Ponų Taryba aprašyme. By­\nchovco kronika aiškiai gina XV a. antrosios pusės —  \nXVI a. pirmojo ketvirčio Lietuvos valstybės santvar­\nką, užtikrinančią didikų oligarchijos ir jų politinio or­\ngano — Ponų Tarybos — viešpatavimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186927
+    - t-186926
+
+- id: c-170102
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    By­
+    chovco kronika aiškiai gina XV a. antrosios pusės —
+    XVI a. pirmojo ketvirčio Lietuvos valstybės santvar­
+    ką, užtikrinančią didikų oligarchijos ir jų politinio or­
+    gano — Ponų Tarybos — viešpatavimą. Toji santvar­
+    ka vaizduojama kone amžina, nes jau Kentauro her­
+    bo dinastijos pradininkas Šventaragis ir Gediminaičių
+    dinastijos pradininkas Vytenis buvę „ponų" išrinkti.
+    Autoriui, matyt, apskritai tolima mintis, kad valstybės
+    santvarka gali keistis, todėl „ponai" patarėjai priski­
+    riami jau kunigaikščiui Erdvilai (XIII a.), o etmonams
+    liepiama veikti Gedimino laikais, nors etmono — nuo­
+    3 0  Kronika Macieia Slryikowskiego.
+  citata_rodoma: "Toji santvar­\nka vaizduojama kone amžina, nes jau Kentauro her­\nbo dinastijos pradininkas Šventaragis ir Gediminaičių \ndinastijos pradininkas Vytenis buvę „ponų\" išrinkti. \nAutoriui, matyt, apskritai tolima mintis, kad valstybės \nsantvarka gali keistis, todėl „ponai\" patarėjai priski­\nriami jau kunigaikščiui Erdvilai (XIII a.)"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186928

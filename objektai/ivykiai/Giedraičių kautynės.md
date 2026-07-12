@@ -17,6 +17,18 @@ tags:
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Giedraičių kautynės
 
@@ -45,9 +57,9 @@ Nenurodyta
 <a id="claim-t-41271"></a>
 - t-001
   global_id: t-41271
-  teiginys: 'Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios.'
+  teiginys: "Prie Giedraičių lietuvių nuostoliai siekė 15 žuvusių karių ir kelis karininkus, apie 60 sužeistųjų ir apie 70 dingusių be žinios."
   pagrindžia:
-    - c-001
+    - c-43046
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
 - susijęs iš [[objektai/autoriai/Ričardas Čekutis.md#claim-t-40672|Ričardas Čekutis]]: Ričardas Čekutis kartu su Daliumi Žygeliu parašė tekstus apie 1945 m. Kiauneliškių, Kalniškės ir Merkinės kautynes.
 ## Reikšmingi paminėjimai
@@ -75,10 +87,39 @@ Nenurodyta
     apie 70 dingo be žinios.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]
+## Citatos
+
+- id: c-43046
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau kovos
+    su Želigovskio kariuomene
+    baigėsi. Giliai užnugaryje |
+    atkirsta lenkų kavalerijos S /| SHB)
+    brigada iš Ukmergės apy-
+    linkių ėmė skubiai trauk-
+    tis persekiojama Lietuvos
+    pajėgų ir lapkričio 24 d.
+    ties Labanoro mieste-
+    liu perėjo fronto liniją.
+    Lenkų pajėgos prie
+    Giedraičių patyrė didelių
+    nuostolių, tačiau ir lietuvių
+    nuostoliai buvo nemenki,
+    žuvo 15 karių ir keli karinin-
+    kai, apie 60 buvo sužeista,
+    apie 70 dingo be žinios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41271

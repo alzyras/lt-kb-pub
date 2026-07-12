@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ernestas fon Racburgas
 
@@ -30,17 +42,16 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
 <a id="claim-t-40102"></a>
 - t-001
   global_id: t-40102
-  teiginys: 'Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu.'
+  teiginys: "Ernestas fon Racburgas buvo Livonijos ordino magistras ir žuvo kartu su danų vietininku Taline Eilartu fon Hobergu."
   pagrindžia:
-    - c-001
+    - c-167126
 
 <a id="claim-t-183738"></a>
 - t-002
   global_id: t-183738
-  teiginys: 'Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.'
+  teiginys: "Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti."
   pagrindžia:
-    - c-001
-
+    - c-167126
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +83,47 @@ Lietuviai „[...] brolis Ernestas buvo magistras.[...] Jis įvykdė didelį kar
     sumušti priešą dalimis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-167126
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ši mašina
+    veikia naudojant
+    sunkio jėgą Šūvio metu nuo
+    kablio atsikabina
+    virve pririštas
+    sviedinys
+
+    Po kiekvieno šūvio svaidymo
+    mašiną aptarnaujantys kariai
+    sukdami rankenas turi pakelti
+    atsvarą
+
+    negalėjo“. Žuvo Livonijos ordino magistras
+    Ernestas fon Racburgas, danų vietininkas
+    Taline Eilartas fon Hobergas, tik kai kam
+    pavyko ištrūkti.
+
+    Atkreiptinas dėmesys į reikšmingą lie-
+    tuvių mūšio taktiką, kurios tikslas buvo
+    išvilioti, tarsi bėgant iš mūšio lauko,
+    dalį priešo pajėgų, o po to persitvarkius
+
+    sumušti priešą dalimis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183738
+    - t-40102

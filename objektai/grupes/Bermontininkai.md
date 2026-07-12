@@ -16,6 +16,18 @@ tags:
   - mūšis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bermontininkai
 
@@ -28,23 +40,23 @@ amziai:
 <a id="claim-t-40866"></a>
 - t-001
   global_id: t-40866
-  teiginys: 'Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai.'
+  teiginys: "Bermontininkai buvo rusų monarchistų ir vokiečių organizuoti rusų bei vokiečių savanorių daliniai."
   pagrindžia:
-    - c-001
+    - c-42650
 
 <a id="claim-t-40867"></a>
 - t-002
   global_id: t-40867
-  teiginys: '1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos.'
+  teiginys: "1919 m. spalio 16 d. Lietuvos vyriausybė priėmė sprendimą jėga išvaryti bermontininkus iš Lietuvos."
   pagrindžia:
-    - c-003
+    - c-44726
 
 <a id="claim-t-40868"></a>
 - t-003
   global_id: t-40868
-  teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
+  teiginys: "Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius."
   pagrindžia:
-    - c-002
+    - c-42652
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66849|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
 - susijęs iš [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.).md#claim-t-66850|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]: 1919 m. lapkričio 22 d. Panevėžio batalionas išmušė bermontininkus iš Meškuičių, o Vilniaus batalionas - iš Pašiaušės ir Padubysio.
 - susijęs iš [[objektai/zodynas/Nepriklausomybės kovos.md#claim-t-42425|Nepriklausomybės kovos]]: 1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.
@@ -120,6 +132,7 @@ amziai:
     dalimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,6 +156,7 @@ amziai:
     kariuomenės dalinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,14 +179,95 @@ amziai:
     vanoriai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-42650
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    “LIETUVOS
+
+    asies
+
+    Mūšio priešistorė
+
+    Lemiamų kovų su bolševikais įkarštyje
+    Šiaurės Lietuvoje ir Latvijoje susitelkė
+    naujas Lietuvos ir kitų Baltijos valstybių
+    priešas - bermontininkai. Tai buvo rusų
+    monarchistų ir vokiečių organizuoti vokie-
+    čių nelaisvėje po Pirmojo pasaulinio karo
+    buvusių rusų ir vokiečių savanorių dali-
+    niai. Jie deklaravo kovojantys prieš bolše-
+    vikus, už monarchinės Rusijos imperijos
+    atkūrimą. Šių dalinių vadovybė nepripa-
+    žino Baltijos valstybių nepriklausomybės,
+    nes laikė šiuos kraštus neatskiriama Rusijos
+    dalimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40866
+
+- id: c-42652
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Bermontininkų rankose atsi-
+    dūrė Šiaurės Lietuva, palaipsniui judė-
+    dami į pietus bermontininkai pasiekė
+    net Raseinius. Lietuvos vyriausybė fak-
+    tiškai nustojo kontroliuoti didžiąją
+    dalį Šiaurės ir Vakarų Lietuvos.
+    Bermontininkams užėmus
+    Radviliškio geležinkelio stotį,
+    nutrūko susisiekimas geležin-
+    keliu tarp Kauno ir bolše-
+    vikų fronte veikusių Lietuvos
+    kariuomenės dalinių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40868
+
+- id: c-44726
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pasirengimas operacijai
+    Lietuvai iškilo naujas egzisten-
+    cinis pavojus. 1919 m. spalio 9 d.
+    Lietuvos vyriausybė paskelbė visoje
+    šalyje karo padėtį, spalio 16 d. buvo pri-
+    imtas sprendimas jėga išvaryti bermon-
+    tininkus iš Lietuvos. Lietuvos konfliktas
+    su bermontininkais labai pablogino
+    santykius su Vokietija, nes didelę dalį
+    Bermonto pajėgų sudarė vokiečių sa-
+    vanoriai.
+  citata_rodoma: "1919 m. spalio 9 d.\nLietuvos vyriausybė paskelbė visoje\nšalyje karo padėtį, spalio 16 d. buvo pri-\nimtas sprendimas jėga išvaryti bermon-\ntininkus iš Lietuvos. Lietuvos konfliktas\nsu bermontininkais labai pablogino\nsantykius su Vokietija, nes didelę dalį\nBermonto pajėgų sudarė vokiečių sa-\nvanoriai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40867
+
 ## Ryšiai
-- Puolė Bermontininkai: [[objektai/asmenys/Kazys Ladyga]], [[objektai/grupes/Panevėžio batalionas]]
-- Kariavo prieš: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Lietuvos Respublika]], [[objektai/grupes/Panevėžio batalionas]]
-- Bermontininkai keliavo į [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Raseiniai]]
-- Bermontininkai užėmė [[objektai/vietos/Kuršėnai]], [[objektai/vietos/Lietuva]]
-- Bermontininkai surengė žygį į [[objektai/vietos/Lietuva]]
+- Puolė Bermontininkai: [[objektai/grupes/Panevėžio batalionas]]
+- Kariavo prieš: [[objektai/grupes/Lietuvos Respublika]]
+- Bermontininkai keliavo į [[objektai/vietos/Raseiniai]]
+- Bermontininkai užėmė [[objektai/vietos/Lietuva]]

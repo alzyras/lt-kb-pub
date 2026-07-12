@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jogailaičiai
 
@@ -31,30 +43,37 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 <a id="claim-t-110661"></a>
 - t-001
   global_id: t-110661
-  teiginys: '1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą.'
+  teiginys: "1515 m. Vienos suvažiavimo kontekste Habsburgai, varžydamiesi su Jogailaičiais dėl Čekijos ir Vengrijos, nustojo remti Vokiečių ordiną ir Maskvą."
   pagrindžia:
-    - c-003
+    - c-102463
 
 <a id="claim-t-110662"></a>
 - t-002
   global_id: t-110662
-  teiginys: 'Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.'
+  teiginys: "Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą."
   pagrindžia:
-    - c-002
+    - c-102461
 
 <a id="claim-t-110663"></a>
 - t-003
   global_id: t-110663
-  teiginys: 'Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.'
+  teiginys: "Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių."
   pagrindžia:
-    - c-002
+    - c-102461
 
 <a id="claim-t-110664"></a>
 - t-004
   global_id: t-110664
-  teiginys: 'Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis.'
+  teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys siejami su žinomiausiomis Europos monarchijomis."
   pagrindžia:
-    - c-001
+    - c-22426
+
+<a id="claim-t-193537"></a>
+- t-005
+  global_id: t-193537
+  teiginys: "Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau."
+  pagrindžia:
+    - c-176217
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/asmenys/Kazimieras Didysis.md#claim-t-184415|Kazimieras Didysis]]: Kazimieras Didysis buvo paskutinysis Piastas, miręs 1370 m. prieš Jogailaičių epochos pradžią.
@@ -107,7 +126,8 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     monarchijoms ir nuo to mes jaučiamės smagiau.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -132,6 +152,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     dar ir naujų, amžiui priderančių, laisvių dalyviu72.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -154,10 +175,127 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
     1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+- c-004
+  santrauka: 'Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos monarchijoms ir nuo to mes jaučiamės smagiau.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-22426
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pabaiga arba išbarstyti
+    Lietuvos veidai
+    D
+    aug ko Lietuva negalėjo sureikšminti pasauliui XIX–
+    XX a. Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau.
+  citata_rodoma: "dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110664
+
+- id: c-102461
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    IV KNYGA
+    didžponiai, nors jų norą keltis į puikybę ir visur vadovauti
+    karalius prilaikydavo už vadžių. Bet jau tokia būna geni­
+    jaus įtaka menkesniems protams, kad dažnai net nenoro­
+    mis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio,
+    garbina ir vykdo didvyrio sumanymus, kurių iš paprasto
+    žmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas,
+    dviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­
+    liečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­
+    menyje neteko tokio globėjo, kokiu paskui netapo nė vienas
+    iš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­
+    gaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje,
+    panoro ne tik pripažinti jam senąjį įžymumą, bet padaryti
+    dar ir naujų, amžiui priderančių, laisvių dalyviu72.
+  citata_rodoma: "Bet jau tokia būna geni­\njaus įtaka menkesniems protams, kad dažnai net nenoro­\nmis lenkiasi jo narsumui, pakerėti pranašumo bei žavesio, \ngarbina ir vykdo didvyrio sumanymus, kurių iš paprasto \nžmogaus nenorėtų nei girdėti, nei žinoti. Miestiečių luomas, \ndviejų paskutiniųjų Jogailaičių paaukštintas iki tikrųjų pi­\nliečių ir stipriai palaikomas karaliaus Stepono, dabar jo as­\nmenyje neteko tokio globėjo, kokiu paskui netapo nė vienas \niš vėlesnių karalių; galiausiai pati tauta, atsibudusi iš pra­\ngaištingo letargo, tiesą sakant, per vėlai, nes jau pabaigoje, \npanoro ne tik pripažinti jam senąjį įžymumą, bet padaryti \ndar ir naujų, amžiui priderančių, laisvių dalyviu72."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110663
+    - t-110662
+
+- id: c-102463
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    To suartė-
+    jimo ryškiausia manifestacija buvo 1515 m.
+    suvažiavimas Vienoje. Nors Habsburgai
+    dinastinėje kovoje su Jogailaičiais dėl įtakos
+    Čekijoje ir Vengrijoje turėjo neabejotinai
+    daugiau naudos, bet nustojo remti amžinus
+    Lietuvos ir Lenkijos priešus - Vokiečių or-
+    diną ir Maskvą.
+
+    1514 m. rugsėjo 8 d. ORŠOS MŪŠIS 85
+  citata_rodoma: "suvažiavimas Vienoje. Nors Habsburgai\ndinastinėje kovoje su Jogailaičiais dėl įtakos\nČekijoje ir Vengrijoje turėjo neabejotinai\ndaugiau naudos, bet nustojo remti amžinus\nLietuvos ir Lenkijos priešus - Vokiečių or-\ndiną ir Maskvą.\n\n1514 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-110661
+
+- id: c-176217
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Okupacijos ir aneksijos, tremtys, genocidai ir
+    Holokaustas, kurio metu buvo sunaikinta pasaulinę šlovę Lietuvai sutei-
+    kusi žydų litvakų bendruomenė, nors ji išlaikė gyvąsias šaknis Lietuvoje,
+    JAV ir Palestinoje (vėliau Izraelio valstybėje). Gediminaičių ir Jogailaičių
+    dinastijų palikuonys perdavė savo genus visoms žinomiausioms Europos
+    monarchijoms ir nuo to mes jaučiamės smagiau. Davėme ir daug garsių
+    šeimų, aristokratų, o Amerikai ir Europai – darbščių angliakasių, statybi-
+    ninkų, audėjų, auklių, inžinierių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193537
+
 ## Ryšiai
-- Priešai: [[objektai/grupes/Habsburgai]], [[objektai/asmenys/Motiejus Huniadis]]
+- Priešai: [[objektai/asmenys/Motiejus Huniadis]]

@@ -13,11 +13,24 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - kraštas
   - saltinis
   - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstybės gynimo tarybos kariuomenės perorganizavimo planas (1935 m.)
 
@@ -30,10 +43,9 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
 <a id="claim-t-21290"></a>
 - t-001
   global_id: t-21290
-  teiginys: 'Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai.'
+  teiginys: "Valstybės gynimo tarybos priimtas kariuomenės perorganizavimo planas numatė apie 20 proc. biudžeto skirti krašto gynybai."
   pagrindžia:
-    - c-001
-
+    - c-23989
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +61,31 @@ Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m. Valstyb
     apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23989
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Panašiai A. Smetona
+    išrinktas prezidentu ir 1938 m. lapkričio 14 d. Kai Vokietijoje 1933 m.
+    į valdžią atėjo A. Hitleris, o 1934 m. po perversmų įsitvirtino autorita-
+    riniai režimai Estijoje ir Latvijoje, regione A. Smetonos režimas atrodė
+    visai liberalus.
+    Savo dalies kariuomenės modernizacijai reikalavo kariškiai – 1935 m.
+    Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –
+    apie 20 proc. biudžeto teko skirti krašto gynybos reikalams.
+  citata_rodoma: "Valstybės gynimo taryba priėmė kariuomenės perorganizavimo planą –"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21290

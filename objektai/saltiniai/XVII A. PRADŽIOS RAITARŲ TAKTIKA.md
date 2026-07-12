@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # XVII A. PRADŽIOS RAITARŲ TAKTIKA
 
@@ -26,10 +38,9 @@ PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail.
 <a id="claim-t-39971"></a>
 - t-001
   global_id: t-39971
-  teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios raitarų taktika“.'
+  teiginys: "Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios raitarų taktika“."
   pagrindžia:
-    - c-001
-
+    - c-41775
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,7 +49,23 @@ PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail.
     p. 103, „XVII A. PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail. Andžej Geglis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41775
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    p. 103, „XVII A. PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail. Andžej Geglis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39971

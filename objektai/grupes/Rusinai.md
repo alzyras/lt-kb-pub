@@ -5,91 +5,104 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-description: 'Rusinai Narbuto tekstuose siejami su lietuvių mitologijos pasakojimais, papročiais, prietarais ir kalbiniais aiškinimais.'
-socialDescription: 'Rusinai čia atsiskleidžia per Narbuto minimus Verpėjos, Zlydni, naminių žalčių, karvojaus ir krivių kilmės aiškinimus.'
-seo_atnaujinta: '2026-07-02T23:12:35.463011+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusinai
 
 ## Santrauka
 
-Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susijusi su pasakojimais, papročiais ir prietarais. Jiems priskiriamas Verpėjos pasakojimo žinojimas, Zlydni baidyklių vaizdiniai, prietarai apie naminius žalčius ir kai kurie kalbiniai aiškinimai. Narbutas taip pat siejo rusinus su vestuvių pyrago pavadinimu „karvojus“, Plikuoju kalnu ir skirtingais krivių kilmės aiškinimais.
+Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams, bet ir Lietuvos rusinams. Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų. Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.
 
 ## Teiginiai
+
 <a id="claim-t-189400"></a>
 - t-001
   global_id: t-189400
-  teiginys: 'Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams, bet ir Lietuvos rusinams.'
+  teiginys: "Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams, bet ir Lietuvos rusinams."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172287
+
 <a id="claim-t-189401"></a>
 - t-002
   global_id: t-189401
-  teiginys: 'Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų.'
+  teiginys: "Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų."
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172288
+
 <a id="claim-t-189402"></a>
 - t-003
   global_id: t-189402
-  teiginys: 'Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.'
+  teiginys: "Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172289
+
 <a id="claim-t-189403"></a>
 - t-004
   global_id: t-189403
-  teiginys: 'Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.'
+  teiginys: "Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus."
   pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172290
+
 <a id="claim-t-189404"></a>
 - t-005
   global_id: t-189404
-  teiginys: 'Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.'
+  teiginys: "Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių."
   pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172291
+
 <a id="claim-t-189405"></a>
 - t-006
   global_id: t-189405
-  teiginys: 'Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws.'
+  teiginys: "Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws."
   pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172292
+
 <a id="claim-t-189406"></a>
 - t-007
   global_id: t-189406
-  teiginys: 'Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas.'
+  teiginys: "Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas."
   pagrindžia:
-    - c-007
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172293
+
 <a id="claim-t-189407"></a>
 - t-008
   global_id: t-189407
-  teiginys: 'Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.'
+  teiginys: "Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius."
   pagrindžia:
-    - c-008
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172294
+
 <a id="claim-t-189408"></a>
 - t-009
   global_id: t-189408
-  teiginys: 'Narbutas citavo Faterio nuomonę, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadintų krieviais, pavadinimo nesupratimo.'
+  teiginys: "Narbutas citavo Faterio nuomonę, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadintų krieviais, pavadinimo nesupratimo."
   pagrindžia:
-    - c-009
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172295
+
+<a id="claim-t-194584"></a>
+- t-010
+  global_id: t-194584
+  teiginys: "Lietuvos rusinai savo pasakojimuose taip pat mini Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For tūna, būdama permaininga, vieniems būdavo gera, o kitiems - bloga."
+  pagrindžia:
+    - c-176983
+
+<a id="claim-t-194585"></a>
+- t-011
+  global_id: t-194585
+  teiginys: "Ten yra trys mūri nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o kitos dvi - rusinu, kur jie įprastai atlieka savo apeigas."
+  pagrindžia:
+    - c-176984
+- susijęs iš [[objektai/asmenys/Oramas.md#claim-t-191451|Oramas]]: Narbuto pasakojime Oramas, hano sūnėnas ir Krymo valdovas, vadovavo žygiui, kuriam padėjo Kijevo rusinai.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-188250|Lenkai]]: Aprašomoje vietoje viena iš trijų mūrinių šventyklų buvo lenkų, o dvi kitos - rusinų apeigoms.
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189473|Lietuvos rusinai]]: Narbutas rašė, kad Lietuvos rusinai pasakojimuose mini Dolą, panašią į permainingą romėnų Fortūną.
 - susijęs iš [[objektai/grupes/Lietuvos rusinai.md#claim-t-189474|Lietuvos rusinai]]: Narbutas teigė, kad pasakojimas apie Verpėją buvo žinomas ir vietiniams lietuviams, ir Lietuvos rusinams.
@@ -101,6 +114,8 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą.
 - susijęs iš [[objektai/zodynas/Czuhskas.md#claim-t-189289|Czuhskas]]: Narbutas rašė, kad latviai naminius žalčius, garbintus kaip fetišus, vadino Czuhskas, o šiuos prietarus žinojo ir Lietuvos rusinai.
 - susijęs iš [[objektai/zodynas/Vilkolakis Wilkats Wolkotak Witkatas.md#claim-t-189344|Vilkolakis Wilkats Wolkotak Witkatas]]: Vilkolakį Narbutas aiškina kaip latvių Wilkats, rusinų Wolkotak ir lietuvių Witkatas vadintą kerėtoją, mokantį pasiversti vilku.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192278|pilkapis]]: Teodoras Narbutas pilkapius apibrėžia kaip žmonių rankomis supiltas žemės kalvas, rusinų vadinamas kurhany.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
 - susijęs iš [[objektai/asmenys/Sveneldas.md#claim-t-190212|Sveneldas]]: Vla dimiro vietininkas Sveneldas tuo pat metu įvedė Perkūno kul tą Didžiajame Naugarde.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190280|Frydrichas Stenderis]]: Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių.
 - susijęs iš [[objektai/autoriai/Stenderis.md#claim-t-190453|Stenderis]]: Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.
@@ -114,7 +129,9 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
 - susijęs iš [[objektai/posakiai/oni sporzjadają.md#claim-t-189587|oni sporzjadają]]: Narbutas rašė, kad Lietuvos rusinai apie baidykles Zlydni sakydavo „oni sporzjadają“, aiškindami, jog jos per daug suėda.
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas rašo, kad Stenderio laikais Latvijoje dar buvo girdėti apie žynius, traukiančius lengvatikius iš apylinkių.
 - susijęs iš [[objektai/zodynas/Krieviai krivičiai gudai.md#claim-t-189226|Krieviai krivičiai gudai]]: Narbutas pateikia Faterio priekaištą, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadinamų krieviais, pavadinimo.
+- susijęs iš [[objektai/zodynas/pilkapis.md#claim-t-192281|pilkapis]]: Teodoras Narbutas nurodo, kad rusinai pilkapius vadina kurhany.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašė, kad pasakojimas apie Verpėją buvo žinomas ne tik lietuviams, bet ir Lietuvos rusinams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -130,11 +147,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
     jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
     lą, kuris baigiasi žvaigžde.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas nurodė, kad vestuvių pyrago pavadinimas „karvojus“ lietuvių vartosenoje buvo perimtas iš rusinų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -149,11 +169,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
     tas tas antrasis pavadinimas.
     Tačiau lietuviams tie du dalykai visiškai skirtingi.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas rašė, kad Lietuvos rusinai baidykles Zlydni vaizdavosi keliamečių vaikų pavidalo ir tikėjo jas kenkiant namams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -168,11 +191,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     suomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja
     ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
     dają -  jos per daug suėda.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: 'Narbutas teigė, kad Lietuvos rusinai žinojo prietarus apie naminius žalčius, latvių vadintus Czuhskas ir garbintus kaip fetišus.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -185,11 +211,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     nelaimę“.
     Latviai naminius žalčius, garbintus kaip fetišus, vadino
     Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: 'Narbutas Plikojo kalno pavadinimą siejo su rusinu, vienu iš miesto kolonistų, atgabentų iš Lietuvos Rusios kuriant Vilnių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -200,11 +229,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
     Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
     kusi.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Narbutas atmetė Stenderio aiškinimą, kad kriviai kildintini iš rusų žemės, nes latviai tenykščius rusinus vadino Kreews arba Kriws.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -219,11 +251,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     krivičių, o to pavadinimo etimologija slavų kalboje gali būti
     kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
     kaip ir lietuviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Narbutas rašė, kad rusinai vilku virstantį kerėtoją vadino Wolkotak, latviai - Wilkats, o lietuviai - Witkatas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -234,11 +269,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
     sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
     vidonas pridaro neapsakomai daug žalos.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: 'Narbutas nurodė, kad rusinai alaus tipo gėrimą vadino Ohij, o lietuviai, prūsai ir latviai turėjo giminingus pavadinimus Alaus, Alus ir Alius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -249,11 +287,14 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     Alus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­
     mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
     Bier.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Narbutas citavo Faterio nuomonę, kad Dusburgiečio žinia apie krivį kilo iš rusinų, latviškai vadintų krieviais, pavadinimo nesupratimo.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -264,11 +305,276 @@ Rusinai Narbuto tekstuose minimi kaip Lietuvos kultūrinės aplinkos dalis, susi
     tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad
     taip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.
     Šį priekaištą vos galima suprasti5.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
 
-## Ryšiai
-- Rusinai gyveno [[objektai/vietos/Lietuva]]
+- c-010
+  santrauka: 'Lietuvos rusinai savo pasakojimuose taip pat mini Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For tūna, būdama permaininga, vieniems būdavo gera, o kitiems - bloga.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-010
+
+- c-011
+  santrauka: 'Ten yra trys mūri nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o kitos dvi - rusinu, kur jie įprastai atlieka savo apeigas.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
+    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
+    nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o
+    kitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai
+    taip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą
+    medinę.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
+
+## Citatos
+
+- id: c-172287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    141
+
+    ## Puslapis 141
+
+    Verpėja (VVerpeja)
+    Nemarioji žmogaus gyvenimo siūlo verpėja.
+    Lietuviai pažinojo tiktai vienintelę Parką: apie ją skamba
+    liaudiškas pasakojimas, žinomas ne tik vietiniams lietuviams,
+    bet ir Lietuvos rusinams. Kai tik pasaulyje gimsta žmogus, tuo­
+    jau Verpėja (Werpeja) pradeda verpti danguje jo gyvenimo siū­
+    lą, kuris baigiasi žvaigžde.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189400
+
+- id: c-172288
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 143"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 143."
+  citata_originali: |
+    Ant apvalaus 10 colių skersmens duonos kepalo, apvy­
+    nioto baltu rankšluosčiu, statoma keturkampė figūra, visiškai
+    panaši į ulonų kepurę -  sulig alkūne aukščio, apsiūta balta
+    drobe, apačioje perjuosta siaurai susukta spalvota skarele; pati
+    figūra apjuosta kaspinais ir žalumynų vainikais, panašiais į ko­
+    kardas, girliandas, sukabintas puošiančiosios nuožiūra. Tokia
+    figūra kaip tik ir vadinasi Gondu; nors visi sako, kad tai karvo­
+    jus, tai yra vestuvių pyragas, įprastas rusinams, iš kurių perim­
+    tas tas antrasis pavadinimas.
+    Tačiau lietuviams tie du dalykai visiškai skirtingi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189401
+
+- id: c-172289
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    10*.
+    183
+
+    ## Puslapis 183
+
+    Lietuvos rusinai pasakoja apie panašias baidykles, turin­
+    čias keliamečių vaikų pavidalą, vadindami jas Zlydni. Jos vi­
+    suomet kenkia, o kai įsiskverbia į kieno nors namus, apsiryja
+    ir prisigeria iki nukritimo; įdomiai apie jas sako: oni sporzja-
+    dają -  jos per daug suėda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189402
+
+- id: c-172290
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 203"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 203."
+  citata_originali: |
+    Lasickis apie senovines apeigas sako: „Į tam tikrą šventę
+    pakviestas aukotojas maldomis ir užkeikimais sušaukia nami­
+    nius žalčius; šie baltu rankšluosčiu užšliaužia ant stalo ir ra­
+    gauja valgių, kuriuos paskui žmonės suvalgo, bet jeigu žalčiai
+    nenorėtų išlįsti arba ėsti, tai reikštų gresiančią namui didelę
+    nelaimę“.
+    Latviai naminius žalčius, garbintus kaip fetišus, vadino
+    Czuhskas. Šiuos prietarus žinojo ir Lietuvos rusinai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189403
+
+- id: c-172291
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 261."
+  citata_originali: |
+    Kal­
+    nas prie Palangos garsėjo Praurimės aukuru, prie Nevėžio -
+    šventykla. Vilniaus Plikasis kalnas, ant kurio stovi trys kryžiai,
+    turėjo būti pramintas rusinu -  miesto kolonistų, atgabentų iš
+    Lietuvos Rusios kuriant miestą. Jo viršaus didelė dalis nuslin-
+    kusi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189404
+
+- id: c-172292
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  citata_originali: |
+    Žyniai vilkėdavo įpras­
+    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
+    juosta, kuria apsivyniodavo septynis kartus.
+    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
+    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
+    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
+    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
+    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
+    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
+    kaip ir lietuviai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189405
+
+- id: c-172293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 299"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 299."
+  citata_originali: |
+    Lat­
+    vijoje ir dabar girdėti apie tokius žmones, sako Stenderis32.
+    Vilkolakis (Wilkats)
+    Latviai šitaip vadina kerėtoją, mokantį pasiversti vilku; mū­
+    sų rusinai tokį vadina Wolkotak, o lietuviai -  Witkatas. Šis ne­
+    vidonas pridaro neapsakomai daug žalos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189406
+
+- id: c-172294
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 307."
+  citata_originali: |
+    Tuo klausimu išsamiai įtikina Cac-
+    kis1. Skandinavai ir jų giminaičiai germanai tą gėrimą vadino
+    A e l, Al, rusinai -  Ohij1 2, lietuviai vadina alumi (Alaus), prūsai -
+    Alus, latviai Alius. Ponas Rėza „Dainų“ komentaruose pažy­
+    mi, kadAlus aiškiai skiriasi nuo to, kas Prūsų šalyje vadinama
+    Bier.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189407
+
+- id: c-172295
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 419"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 419."
+  citata_originali: |
+    Tad nedera ir
+    jų palikti be dėmesio.
+    Dusburgiečio kronikos žinia apie krivį, pasak Faterio (ci­
+    tuota vieta), „paremta veikiau nesusipratimu, kilusiu iš to, kad
+    taip vadinosi rusinai, dar iki šiol latviškai vadinami krieviais“.
+    Šį priekaištą vos galima suprasti5.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189408
+
+- id: c-176983
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 126."
+  citata_originali: |
+    Slavai garbino tą pačią dievybę, vadindami įvairiais tar­
+    miškais vardais: Kolitą, Dažba, Dachuba, Daszuba, Dazboh,
+    Dajebog. Lietuvos rusinai savo pasakojimuose taip pat mini
+    Dolą (Dola), atitinkančią šią dievybę, kuri, kaip romėnų For­
+    tūna, būdama permaininga, vieniems būdavo gera, o kitiems -
+    bloga. Senovės vokiečiai garbino dievaites „Pilwith“, „Pilwis“,
+    „Belewitt“**.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194584
+
+- id: c-176984
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 452"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 452."
+  citata_originali: |
+    Ten yra Karaliaus pilis ir rūmai, pastatyti ant aukš­
+    tesnės kalvos; tai karaliui užtikrina saugumą. Ten yra trys mūri­
+    nės šventyklos, nes visos kitos medinės; tarp jų viena yra lenkių o
+    kitos dvi -  rusinu, kur jie įprastai atlieka savo apeigas. Rusinai
+    taip pat turi priemiesčiuose dvi šventyklas: vieną mūrinę, kitą
+    medinę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194585

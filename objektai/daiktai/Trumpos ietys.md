@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Trumpos ietys
 
@@ -40,10 +52,16 @@ Nenurodyta
 <a id="claim-t-186832"></a>
 - t-001
   global_id: t-186832
-  teiginys: 'Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis.'
+  teiginys: "Lietuvos metraščio pasakojime jotvingiai susirėmime prieš vokiečius jodinėjo su trumpomis ietimis."
   pagrindžia:
-    - c-001
+    - c-170016
 
+<a id="claim-t-193872"></a>
+- t-002
+  global_id: t-193872
+  teiginys: "O rytojaus metą prieš vokiečius išjojo [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo mis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  pagrindžia:
+    - c-170016
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,7 +76,31 @@ Nenurodyta
     ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-002
+
+## Citatos
+
+- id: c-170016
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    (naktį) 2A išsiuntė savo svainį2 5 , ir tas išvaikė ir rusus,
+    ir jotvingius. O rytojaus metą prieš vokiečius išjojo
+    [Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­
+    sai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­
+    mis ietimis, ir vaikėsi po lauką, tarytum turnyre. Ir iš
+    ten (Tautvilą) sugrįžo namo į Žemaitiją 2 6 .
+  citata_rodoma: "O rytojaus metą prieš vokiečius išjojo \n[Mindaugo kariai), ginkluoti arbaletais; ir jodinėjo ru­\nsai bei poloviečiai su strėlėmis, o jotvingiai su trumpo­\nmis ietimis, ir vaikėsi po lauką, tarytum turnyre."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186832
+    - t-193872

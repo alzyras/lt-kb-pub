@@ -5,6 +5,18 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # ekspansija
 
@@ -17,17 +29,17 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
 <a id="claim-t-70130"></a>
 - t-001
   global_id: t-70130
-  teiginys: 'Ekspansija čia reiškia Lietuvos plėtimąsi į rytus.'
+  teiginys: "Ekspansija čia reiškia Lietuvos plėtimąsi į rytus."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-14689
+    - c-14690
 
 <a id="claim-t-70131"></a>
 - t-002
   global_id: t-70131
-  teiginys: 'Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais.'
+  teiginys: "Lietuvos ekspansija rytuose prasidėjo dar Mindaugo valdymo laikais."
   pagrindžia:
-    - c-001
+    - c-14689
 - susijęs iš [[objektai/grupes/Slavai.md#claim-t-89228|Slavai]]: Slavų ekspansija artėjo prie Lietuvos žemių.
 - susijęs iš [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.).md#claim-t-10289|Saulės mūšis (1236 m. rugsėjo 22 d.)]]: Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.
 - susijęs iš [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“.md#claim-t-186416|„senovės negriauname, naujovių neįvedame“]]: „Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.
@@ -57,7 +69,8 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -70,7 +83,47 @@ Ekspansija čia reiškia Lietuvos plėtimąsi į rytus. Lietuvos ekspansija rytu
     tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14689
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kaip Vytenis buvo nenuilstamas kovotojas ir tolimų
+    ekspedicijų organizatorius bei vadas, taip po jo viešpatavęs jo
+    brolis Gediminas (1316 — 1341) buvo didelis politikas, tikra­
+    sis Didžiosios Lietuvos kunigaikštijos organizatorius. Jis ne
+    tik glaudžiai sujungė bei sutvirtino valstybę, bet ir įvedė ją į
+    rytų politiškų galybių tarpą, kaip pirmaeilės reikšmės narį.
+    Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo.
+  citata_rodoma: "Lietuvos ekspansija rytuose prasidėjo dar prie Mindaugo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70130
+    - t-70131
+
+- id: c-14690
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Jau jis prijungė Lietuvai trikampį plotą tarp Gardino, L. Bras­
+    tos ir Naugarduko, t. y. vad. Juodąją Rusiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70130

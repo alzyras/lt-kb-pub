@@ -16,6 +16,18 @@ tags:
   - mūšis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Danijos karaliaus kariai iš Revelio
 
@@ -28,16 +40,16 @@ amziai:
 <a id="claim-t-40871"></a>
 - t-001
   global_id: t-40871
-  teiginys: 'Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje.'
+  teiginys: "Danijos karaliaus kariai iš Revelio nepritarė siūlymui kautis pėsčiomis, nes dėl sunkios ginkluotės manė neatsilaikysią mūšyje."
   pagrindžia:
-    - c-001
+    - c-44729
 
 <a id="claim-t-40872"></a>
 - t-002
   global_id: t-40872
-  teiginys: 'Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.'
+  teiginys: "Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį."
   pagrindžia:
-    - c-002
+    - c-44730
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09675|Palikime savo žirgus toli užpakalyje]]: „Palikime savo žirgus toli užpakalyje“ reiškė sumanymą atimti kariams viltį trauktis ir priversti juos nevengti mūšio.
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
 ## Reikšmingi paminėjimai
@@ -61,6 +73,7 @@ amziai:
     nepatogesnę padėtį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,10 +99,64 @@ amziai:
     gausiai suverbuoti kryžininkai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Danijos karaliaus kariai iš Revelio keliavo į [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-44729
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    kad neturėtume vilties prie jų sugrįžti,
+    ir patraukime link priešų pėsčiomis, nes
+    tada žmonės nesitikėdami išsigelbėsią žir-
+    gais, nevengs mūšio, antraip jie, be abejo-
+    nės, leisis bėgti.“ Šiam patarimui nepritarė
+    Danijos karaliaus kariai iš Revelio ir dau-
+    gybė kitų, tvirtindami, kad be žirgų jie nej-
+    stengsią mūšyje atsilaikyti dėl savo sunkios
+    ginkluotės.
+
+    Lietuvių kariuomenė pozicijas užėmė
+    rytiniame upelio krante, palikdama priešui
+    nepatogesnę padėtį.
+  citata_rodoma: "“ Šiam patarimui nepritarė\nDanijos karaliaus kariai iš Revelio ir dau-\ngybė kitų, tvirtindami, kad be žirgų jie nej-\nstengsią mūšyje atsilaikyti dėl savo sunkios\nginkluotės.\n\nLietuvių kariuomenė pozicijas užėmė\nrytiniame upelio krante, palikdama priešui\nnepatogesnę padėtį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40871
+
+- id: c-44730
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ordino pajėgos
+    1260 m. Klaipėdoje prieš Lietuvą buvo
+    sutelktos Livonijos ir Prūsijos kryžiuočių
+    ordinų pajėgos, broliai riteriai ir
+    i 4 jiems pavaldžių užgrobtų žemių
+    “prievarta buriami kariai (prūsai -
+    pamedėnai, notangai, varmiai, sem-
+    bai, o taip pat kuršiai, estai ir kt.), iš
+    Vokietijos žemių 30 naujai įstojusių Ordino
+    brolių būrys, Revelio (Talino) danų kariuo-
+    menė, vadovaujama švedų kunigaikščio
+    Karolio, turėjusio dar savo būrį. Į šią kry-
+    žiaus karo akciją buvo įtraukti ir prieš tuo
+    metu Rytų Europą užplūdusius totorius
+    gausiai suverbuoti kryžininkai.
+  citata_rodoma: "), iš\nVokietijos žemių 30 naujai įstojusių Ordino\nbrolių būrys, Revelio (Talino) danų kariuo-\nmenė, vadovaujama švedų kunigaikščio\nKarolio, turėjusio dar savo būrį. Į šią kry-\nžiaus karo akciją buvo įtraukti ir prieš tuo\nmetu Rytų Europą užplūdusius totorius\ngausiai suverbuoti kryžininkai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40872

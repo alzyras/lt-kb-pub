@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karine klasta paimamas kryžiuočių laivas
 
@@ -29,10 +41,9 @@ Nenurodyta
 <a id="claim-t-185802"></a>
 - t-001
   global_id: t-185802
-  teiginys: 'Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą.'
+  teiginys: "Kryžiuočiai, neįtarę klastos, priplaukė prie kranto, kur Nodamas su iš pasalų subėgusiais kariais užėmė jų laivą."
   pagrindžia:
-    - c-001
-
+    - c-169163
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,10 +65,36 @@ Nenurodyta
     gavę į priešo žemę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Užėmė Karine klasta paimamas kryžiuočių laivą: [[objektai/asmenys/Nodamas]]
+## Citatos
+
+- id: c-169163
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 163"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 163."
+  citata_originali: |
+    Kryžiuočiai
+    neįtarė nei klastos, nei pavojaus: krantai, medžiais ap­
+    augę, rodė, kad kraštas, ko gero, negyvenamas, moteris
+    tikrai nešauktų taip garsiai, jeigu arti kur būtų buvę
+    priešų. Todėl jie priplaukė prie kranto, ketindami tą
+    tariamą moterį paimti į laivą, tačiau Nodamas, staiga
+    prišokęs prie vandens, suriko, kviesdamasis bendrinin­
+    kus, ir taip tvirtai nutvėrė už laivo, kad irkluotojai ne­
+    įstengė jo pajudinti, kol nesubėgo iš pasalų kariai ir,
+    užėmę laivą, visų lig vieno neišžudė. Nuo Liudviko
+    Libencelės karių rankos tais pačiais metais krito dvi­
+    dešimt penki Aukaimio įgulos vyrai, neatsargiai nusi­
+    gavę į priešo žemę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185802

@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Kantrimas
 
@@ -28,10 +40,9 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
 <a id="claim-t-30682"></a>
 - t-001
   global_id: t-30682
-  teiginys: 'J. Kantrimas, tapatinamas su P. Joniku, 1947 m. „Aiduose“ paskelbė straipsnį „Baltų kalbos ir tautos“.'
+  teiginys: "J. Kantrimas, tapatinamas su P. Joniku, 1947 m. „Aiduose“ paskelbė straipsnį „Baltų kalbos ir tautos“."
   pagrindžia:
-    - c-001
-
+    - c-32969
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,30 @@ Kan­ trimas, J. (= Jonikas, P.) : Baltų kalbos ir tautos, Aidai, nr. 6, 1947, 
     263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32969
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    — Jodkowski, J. : _Grodno i okolice
+    w zaraniu dziejów Litwy i Rusi nad Niemnem,_ 1928. — Johansen, P. :
+    _Kurlands Bewohner zu Anfang der historischen Zeit_ , Baltische Lande,
+    I. Ostbaltische Frühzeit, 1939, 263-306 p. — Jonynas, lg. : _Lietuvių,
+    gentys iki XIX a.,_ Naujoji Romuva, nr. 17, 1939, 361-368 p. — Kan­
+    trimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,
+    263-267 p. -— Kiparsky, V. : _Kurenfrage,_ 1939.
+  citata_rodoma: "— Kan­\ntrimas, J. (= Jonikas, P.) : _Baltų kalbos ir tautos,_ Aidai, nr. 6, 1947,\n263-267 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30682

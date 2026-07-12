@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas III pirmasis kardu užatakavo Lietuvą
 
@@ -45,10 +57,9 @@ Nenurodyta
 <a id="claim-t-31420"></a>
 - t-001
   global_id: t-31420
-  teiginys: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.'
+  teiginys: "1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą."
   pagrindžia:
-    - c-001
-
+    - c-33395
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,7 +78,33 @@ Nenurodyta
     mui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33395
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
+    sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
+    buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
+    (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
+    viai lydėjęs jas per tolimesnius šimtmečius.
+    Kai 1492 metais, Bizantijos sosto palikuonę vedęs, Maskvos
+    didysis kunigaikštis Jonas III _pirmasis kardu užatakavo_ Lietuvą,
+    iš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo
+    (1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­
+    mui.
+  citata_rodoma: "Kai 1492 metais, Bizantijos sosto palikuonę vedęs, Maskvos\ndidysis kunigaikštis Jonas III _pirmasis kardu užatakavo_ Lietuvą,\niš Maskvos karų orbitos ji jau nebeišėjo iki paskutiniojo padalinimo\n(1795). Tos dvi reikšmingos datos patiekia ribas visam paskirsty­\nmui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31420

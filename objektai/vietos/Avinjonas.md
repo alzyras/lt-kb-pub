@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XI'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Avinjonas
 
@@ -32,16 +44,16 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
 <a id="claim-t-173341"></a>
 - t-001
   global_id: t-173341
-  teiginys: '1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis.'
+  teiginys: "1349 m. Lenkijos Kazimieras siekė Avinjono palankumo, pranešdamas Klemensui VI apie Kęstučio norą krikštytis."
   pagrindžia:
-    - c-001
+    - c-157664
 
 <a id="claim-t-173342"></a>
 - t-002
   global_id: t-173342
-  teiginys: '1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą.'
+  teiginys: "1323 m. rudenį popiežius į Avinjoną pakvietė didįjį magistrą."
   pagrindžia:
-    - c-002
+    - c-157665
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-87435|Karolis Tryrietis]]: Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
@@ -75,7 +87,8 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     rališką titulą ir « papuošti karaliaus ženklais »^5.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -105,11 +118,65 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     piežiaus maloniai bei pagarbiai priimtasy.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-157664
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvos valdovai tačiau, progai pasitaikius, nesikraty­
+    davo pasvarstyti krikšto pasiūlymų, juo labiau, kad jie ėjo ne iš
+    kryžiuočių.
+    Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge
+    susidaryti patogesnę būklę tolimesnei kovai Volinijoje, Lenkijos
+    Kazimieras informavo Klemensą VI apie Kęstučio norą krikštytis.
+    Kęstučiui ir jo įpėdiniams po krikšto popiežius žadėjo suteikti ka­
+    rališką titulą ir « papuošti karaliaus ženklais »^5.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173341
+
+- id: c-157665
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Popiežių, regis, pergudravo, įrodydamas jam, kokie
+    nepatikimi esą Lietuvos valdovo sumanymai, o kad dar la­
+    biau įtikintų savo žodžiais, 1325-ųjų balandį, kai popiežiaus
+    pasiuntiniai dar buvo Rygoje, ryžosi naujam žingsniui. Ne­
+    trukus po šių Gedimino laiškų paskelbimo Rygos arkivysku­
+    pas nuvyko į popiežiaus rūmusx, be abejonės, užsimojęs to­
+    liau vykdyti savo gudrius planus, o popiežius 1323 metų
+    X
+    R a y n a 1 d, annal eccles. an. 1323
+    N 62.
+    78
+
+    ## Puslapis 95
+
+    I  KNYGA
+    rudenį į Avinjoną pakvietė ir didįjį magistrą. Karolis, iki tol
+    dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
+    manančių teisę vyrų, didelio būrio savo riterių ir buvo po­
+    piežiaus maloniai bei pagarbiai priimtasy.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173342
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Baltramiejus (vyskupas)]], [[objektai/asmenys/Bernardas (abatas)]], [[objektai/asmenys/Karolis Tryrietis]]
+- Buvo kelionės vieta: [[objektai/asmenys/Karolis Tryrietis]]
 - Mirties vieta: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]

@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Odorico Raynaldo „Annales ecclesiasticae“
 
@@ -19,18 +31,15 @@ amziai:
 Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.
 
 ## Teiginiai
+
 <a id="claim-t-190552"></a>
 - t-001
   global_id: t-190552
-  teiginys: 'Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
+  teiginys: "Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-173435
 ## Reikšmingi paminėjimai
 
-## Bibliografiniai įrodymai
 - c-001
   santrauka: 'Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Raynaldo „Annales ecclesiasticae“ prie 1232 metų.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -40,8 +49,30 @@ Hartknochas kaip įrodymą pateikia Grigaliaus IX laiškus, nurodytus Odorico Ra
     Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
     // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
     1232. -  Nr. 7.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173435
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 318"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 318."
+  citata_originali: |
+    Kad nuramintume žmoniškumo gynėjus, turime
+    16
+    Įrodymui Hartknochas pateikia: Litterae Gregorii Papae IX
+    // Apud Odoricum Raynaldum. Annales ecclesiasticae. -  Ad annum
+    1232. -  Nr. 7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190552

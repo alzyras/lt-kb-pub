@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Merkys
 
@@ -31,44 +43,44 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
 <a id="claim-t-111944"></a>
 - t-001
   global_id: t-111944
-  teiginys: 'Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės.'
+  teiginys: "Mediniai rūmai ant aukšto mūrinio cokolio stovėjo ant kalvelės, puslankiu skalaujamos Merkio upės."
   pagrindžia:
-    - c-003
+    - c-103449
 
 <a id="claim-t-111945"></a>
 - t-002
   global_id: t-111945
-  teiginys: 'Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona.'
+  teiginys: "Prie Merkio ant nedidelės aukštumėlės stovėjo du mažesni namai, kuriuose gyvendavo Žygimantas Senasis ir karalienė Bona."
   pagrindžia:
-    - c-002
+    - c-103448
 
 <a id="claim-t-111946"></a>
 - t-003
   global_id: t-111946
-  teiginys: 'Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe.'
+  teiginys: "Želigovskio pajėgos su negausiomis lietuvių pajėgomis susidūrė ties Merkio upe."
   pagrindžia:
-    - c-001
+    - c-43641
 
 <a id="claim-t-111947"></a>
 - t-004
   global_id: t-111947
-  teiginys: 'Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai.'
+  teiginys: "Prie Merkio, ant nedidelės aukštumėlės, stovėjo du mažesni, veikiausiai dviejų aukštų namai."
   pagrindžia:
-    - c-002
+    - c-103448
 
 <a id="claim-t-111948"></a>
 - t-005
   global_id: t-111948
-  teiginys: 'Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės.'
+  teiginys: "Medžioklės rūmai prie Merkio buvo pastatyti iš medžio ant aukšto mūrinio cokolio ir stovėjo ant mažos kalvelės."
   pagrindžia:
-    - c-004
+    - c-103450
 
 <a id="claim-t-111949"></a>
 - t-006
   global_id: t-111949
-  teiginys: 'Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių.'
+  teiginys: "Palei Merkį, Nemuną, Nerį, Ūlą ir Katrą gausiai aptikta mezolito įrankių."
   pagrindžia:
-    - c-005
+    - c-103452
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169962|Antanas Merkys]]: Antanas Merkys psichologiškai palūžo nuo Viačeslavo Molotovo rėksmingų kaltinimų absurdiškumo.
 - susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-188484|V. Merkys]]: V. Merkys sudarė S. Daukanto „Raštų“ 1-ąjį tomą ir parašė šio tomo įvadą bei paaiškinimus.
 - susijęs iš [[objektai/autoriai/V. Merkys.md#claim-t-31039|V. Merkys]]: V. Merkys pateikė daug duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.
@@ -111,7 +123,8 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     Merkio upe.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -129,6 +142,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     vendavo viename, o karalienė Bona - antrame.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,6 +160,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     tas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -163,6 +178,7 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     tvenkinys, į jį upės vanduo patekdavo lataku.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -182,10 +198,109 @@ Mezolito įrankių gausiai aptikta palei upes Nemuną, Nerį, Merkį, Ūlą, Kat
     vos mėsos « konservavimas »)^3.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/asmenys/Bona]], [[objektai/asmenys/Žygimantas Senasis]]
+## Citatos
+
+- id: c-43641
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Spalio 8 d. prasidėjo puolimas. Beveik
+    visa Lietuvos kariuomenė buvo likusi
+    Pietų Lietuvoje (lenkams užėmus Varėną,
+    buvo neįmanoma greitai geležinkeliu
+
+    permesti pajėgų Vilniaus
+    gynybai). Želigovskio pajė-
+    gos su negausiomis lietu-
+    vių pajėgomis susidūrė ties
+    Merkio upe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111946
+
+- id: c-103448
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto pasakojama apie giliai gelmėje
+    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
+    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
+    gėlių. Per kelis šimtus žingsnių, ant nedidelės aukštumė­
+    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
+    taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
+    vendavo viename, o karalienė Bona - antrame.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111947
+    - t-111945
+
+- id: c-103449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pastatyti iš medžio ant aukšto mūrinio cokolio,
+    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
+    Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
+    tvenkinys, į jį upės vanduo patekdavo lataku. Tasai latakas
+    dar iki šiol nuo senųjų laikų išlikęs žemėje, visai nepakenk­
+    tas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111944
+
+- id: c-103450
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Čia
+    buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
+    karaliams. Pastatyti iš medžio ant aukšto mūrinio cokolio,
+    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
+    Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
+    tvenkinys, į jį upės vanduo patekdavo lataku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111948
+
+- id: c-103452
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lie­
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
+    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
+    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
+    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
+    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
+    vos mėsos « konservavimas »)^3.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-111949

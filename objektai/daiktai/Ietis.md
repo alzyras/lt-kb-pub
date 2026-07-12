@@ -4,10 +4,9 @@ pavadinimas: 'Ietis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1329 m.'
-  - '1368 m.'
-  - '1370 m.'
   - '1372 m.'
 date_start: '1329'
 date_end: '1372'
@@ -20,6 +19,18 @@ tags:
   - karalius
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ietis
 
@@ -49,26 +60,29 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-186834"></a>
+<a id="claim-t-192077"></a>
 - t-001
-  global_id: t-186834
-  teiginys: 'Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.'
+  global_id: t-192077
+  teiginys: "1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais."
   pagrindžia:
-    - c-003
+    - c-42503
 
-<a id="claim-t-186836"></a>
+<a id="claim-t-192078"></a>
 - t-002
-  global_id: t-186836
-  teiginys: '1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.'
+  global_id: t-192078
+  teiginys: "Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos."
   pagrindžia:
-    - c-001
+    - c-174948
 
-<a id="claim-t-186837"></a>
+<a id="claim-t-192079"></a>
 - t-003
-  global_id: t-186837
-  teiginys: 'Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.'
+  global_id: t-192079
+  teiginys: "Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos."
   pagrindžia:
-    - c-002
+    - c-174947
+- susijęs iš [[objektai/asmenys/Danielius.md#claim-t-191160|Danielius]]: Narbutas pasakoja, kad traukiantis jotvingiams Danielius pavijo vadą Nebrą, atėmė jo ietį ir jį sužeidė, bet grįžo padėti Vasilkai.
+- susijęs iš [[objektai/asmenys/Nebra.md#claim-t-191447|Nebra]]: Teodoro Narbuto pasakojime Danielius traukimosi metu pavijo jotvingių vadą Nebrą, atėmė iš jo ietį ir smarkiai sužeidė.
+- susijęs iš [[objektai/daiktai/Ietys.md#claim-t-192067|Ietys]]: Narbutas nurodė: Mūšyje su jotvingiais rūmų urėdas Andrius paleido iš rankų ietį ir, pasileidęs tarp priešo gretų, vos nebuvo nukautas.
 - susijęs iš [[objektai/daiktai/Karinė ginkluotė.md#claim-t-78665|Karinė ginkluotė]]: Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.
 - susijęs iš [[objektai/daiktai/Skydas.md#claim-t-111285|Skydas]]: Martynas, priešams miegant, vieną po kito išvogė jų skydus, kalavijus ir ietis.
 - susijęs iš [[objektai/daiktai/Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas.md#claim-t-59716|Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslas]]: Sūduviai iš Lenkijos išsivežė Švenčiausiosios Mergelės Marijos su kūdikėliu paveikslą ir ketino mėtyti į jį ietis.
@@ -89,6 +103,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-184286|Ulrichas von Jungingenas]]: Ulrichas von Jungingenas nukrito nuo arklio ir mirė.
+- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-191004|Ziemovitas]]: Narbutas pasakoja, kad atvykus rezervui į Vasilkos ir Ziemovito kariuomenę kilo žiaurus mūšis, kuriame abu vadai narsiai kovėsi.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78379|Lietuvos totoriai]]: Lietuvos totoriai naudodavo rytietiškas strėlines ir buvo ginkluoti lanku, kardu bei skydu.
 - susijęs iš [[objektai/grupes/Pabaltijo slavai.md#claim-t-189460|Pabaltijo slavai]]: Pasak Narbuto cituojamo Tado Volianskio, žąsis ant antspaudo priminė būrimą, kuriam Pabaltijo slavai naudojo žirgą.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
@@ -124,10 +139,11 @@ Nenurodyta
     raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-002
+    - t-001
 
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -146,13 +162,13 @@ Nenurodyta
     1368, 1370, 1372 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
 - c-003
-  santrauka: 'Lietuvos metraštis pasakoja, kad Algirdas atrėmė savo ietį į Maskvos sieną ir liepė prisiminti, jog „lietuvių ietis“ stovėjo prie Maskvos.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
     Ir tada didysis kuni­
@@ -174,7 +190,83 @@ Nenurodyta
     gojęs, išžygiavo namo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-001
+    - t-002
+
+## Citatos
+
+- id: c-42503
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.
+    lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai
+    iliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-
+    burgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie
+    raiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais.
+  citata_rodoma: "Lietuviai labai greitai įsisavindavo karybos naujoves. XIV a.\nlietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai\niliustruoja užfiksuota 1329 m. Čekijos karaliaus Jono Liuksem-\nburgiečio dvikova su lietuviu didiku Margaliu (Margiriu?). Kai jie\nraiti susirėmė ir sulaužę ietis ėmė kirstis kalavijais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192077
+
+- id: c-174947
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo
+    Maskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,
+    ir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“
+
+    Ir, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0
+    nujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis
+    stovėjo prie Maskvos!“
+
+    Kovos
+    kirviai
+
+    1368, 1370, 1372 m.
+  citata_rodoma: "„Nors mes su tavimi susitaikėme, bet man nedera kitaip pasielgti - turiu atremti į tavo\nMaskvos miesto sieną savi ietį ir vardan savo šlovės palikti ženklą, kad lietuvių, ir rusų,\nir žemaičių kunigaikštis Algirdas buvo atrėmęs savo ietį į Maskvos sieną.“\n\nIr, užšokęs ant žirgo, paėmė ietį rankon, prijojo prie miesto ir atrėmė savo ietį įsieną, 0\nnujodamas didžiu balsu sušuko: „Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis\nstovėjo prie Maskvos!“\n\nKovos\nkirviai\n\n1368, 1370, 1372 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192079
+
+- id: c-174948
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir tada didysis kuni­
+    gaikštis Algirdas tarė Maskvos didžiajam kunigaikš­
+    čiui: „Nors mes su tavimi susitaikėme, bet man nede­
+    ra kitaip pasielgti — turiu atremti į tavo Maskvosmies-
+    to sieną savo ietį ir vardan savo šlovės palikti ženklą,
+    kad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas
+    buvo atrėmęs savo ietį į Maskvos sieną."
+    Ir, užšokęs ant žirgo, paėmęs ietį rankon, prijojo
+    prie miesto ir atrėmė savo ietį į sieną, o nujodamas
+    didžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­
+    mink, kad lietuvių ietis stovėjo prie Maskvos!"
+    O vėliau didysis kunigaikštis Algirdas su visa savo
+    kariuomene ir su didžia šlove, su daugybe belaisvių ir
+    neapsakomu grobiu, nukariavęs ir paėmęs daug miestų
+    ir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį
+    žmonių paėmęs nelaisvėn, o visus savo žmones išsau­
+    gojęs, išžygiavo namo.
+  citata_rodoma: "Ir tada didysis kuni­\ngaikštis Algirdas tarė Maskvos didžiajam kunigaikš­\nčiui: „Nors mes su tavimi susitaikėme, bet man nede­\nra kitaip pasielgti — turiu atremti į tavo Maskvosmies- \nto sieną savo ietį ir vardan savo šlovės palikti ženklą, \nkad lietuvių, ir rusų, ir žemaičių kunigaikštis Algirdas \nbuvo atrėmęs savo ietį į Maskvos sieną.\"\nIr, užšokęs ant žirgo, paėmęs ietį rankon, prijojo \nprie miesto ir atrėmė savo ietį į sieną, o nujodamas \ndidžiu balsu sušuko: „Maskvos didysis kunigaikšti, at­\nmink, kad lietuvių ietis stovėjo prie Maskvos!\"\nO vėliau didysis kunigaikštis Algirdas su visa savo \nkariuomene ir su didžia šlove, su daugybe belaisvių ir \nneapsakomu grobiu, nukariavęs ir paėmęs daug miestų \nir nukėlęs sieną ligi Možaisko8  ir Kolomnos7 , daugelį \nžmonių paėmęs nelaisvėn, o visus savo žmones išsau­\ngojęs, išžygiavo namo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192078

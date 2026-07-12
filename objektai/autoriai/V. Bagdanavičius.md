@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # V. Bagdanavičius
 
@@ -27,10 +39,9 @@ Bagdanavičius, V.
 <a id="claim-t-31021"></a>
 - t-001
   global_id: t-31021
-  teiginys: 'V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją.'
+  teiginys: "V. Bagdanavičius 1959 m. paskelbė kritišką LTSR istorijos pirmojo tomo įvertinimą apie sovietinę Lietuvos istoriografiją."
   pagrindžia:
-    - c-001
-
+    - c-33164
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,30 @@ Bagdanavičius, V.
     5, 53-59 p. - HPol, t. 1, d. 2, p. 7-27.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33164
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Drauge čia paliečiame, kaip vystėsi _Lietuvos isto­
+    rijos mokslas_ jos aukštosiose mokyklose, ypač nepriklausomoje
+    Lietuvoje ir paskutinius dešimtmečius (tėvynėje ir emigracijoje).
+    Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas
+    LTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p. —Dundu­
+    lis, B. : _Lietuvos TSR istorijos pirmasis tomas,_ Komunistas, 1958, nr.
+    5, 53-59 p. - HPol, t. 1, d. 2, p. 7-27.
+  citata_rodoma: "Bagdanavičius, V. : _Sovietinė Lietuvos istoriografija_. _Kritiškas\nLTSR Istorijos I tomo įvertinimas,_ TaPr, I, 1, 1959, 3-24 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31021

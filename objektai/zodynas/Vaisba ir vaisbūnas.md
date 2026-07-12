@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaisba ir vaisbūnas
 
@@ -39,17 +51,16 @@ Nenurodyta
 <a id="claim-t-06181"></a>
 - t-001
   global_id: t-06181
-  teiginys: 'Žodis „vaisbūnas“ reiškia pirklį.'
+  teiginys: "Žodis „vaisbūnas“ reiškia pirklį."
   pagrindžia:
-    - c-001
+    - c-00296
 
 <a id="claim-t-06182"></a>
 - t-002
   global_id: t-06182
-  teiginys: 'Žodis „vaisba“ reiškia prekybą.'
+  teiginys: "Žodis „vaisba“ reiškia prekybą."
   pagrindžia:
-    - c-001
-
+    - c-00296
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,8 +72,29 @@ Nenurodyta
     kybą, vaisbūnas — pirklį.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-00296
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pažymėtina, kad „visbiečiai" ir „pirkliai" senovės lietuviams buvo
+    vienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-
+    dėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-
+    kybą, vaisbūnas — pirklį.
+  citata_rodoma: "Pažymėtina, kad „visbiečiai\" ir „pirkliai\" senovės lietuviams buvo\nvienareikšmės sąvokos. Kitokių pirklių jie, matyt, nė nepažino. To-\ndėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia pre-\nkybą, vaisbūnas — pirklį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-06182
+    - t-06181

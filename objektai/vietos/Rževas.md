@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rževas
 
@@ -35,23 +47,23 @@ amziai:
 <a id="claim-t-69216"></a>
 - t-001
   global_id: t-69216
-  teiginys: 'Šiaurės rytuose valstybė siekė Volgos aukštupių ties Rževu.'
+  teiginys: "Šiaurės rytuose valstybė siekė Volgos aukštupių ties Rževu."
   pagrindžia:
-    - c-001
+    - c-32404
 
 <a id="claim-t-69217"></a>
 - t-002
   global_id: t-69217
-  teiginys: 'Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską.'
+  teiginys: "Algirdas dar 1356 m. tvirtinosi Volgos aukštupyje, Rževe, ir atakavo Brianską bei Smolenską."
   pagrindžia:
-    - c-002
+    - c-68610
 
 <a id="claim-t-184397"></a>
 - t-003
   global_id: t-184397
-  teiginys: 'Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu.'
+  teiginys: "Iki Algirdo mirties Lietuvos valstybė šiaurės rytuose siekė Volgos aukštupių ties Rževu."
   pagrindžia:
-    - c-003
+    - c-167763
 - susijęs iš Velikije Lūki: 1406 m. pskoviečiai puolė Lietuvos miestais įvardytus Velikije Lūkus, Rževą ir Polocką.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78615|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Kristupas Radvila nusprendė imtis iniciatyvos ir pasuko Rževo link, į Rusijos teritorijos gilumą.
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.
@@ -86,7 +98,8 @@ amziai:
     nei religiniu atžvilgiu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -103,6 +116,7 @@ amziai:
     Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,11 +134,68 @@ amziai:
     link stepių Juodosios jūros srityje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-32404
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nuo Lenkijos pakraščio, nuo
+    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
+    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
+    link stepių Juodosios jūros srityje.
+    Tokia plati valstybė negalėjo būti vienalytiška nei tautiniu,
+    nei religiniu atžvilgiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69216
+
+- id: c-68610
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos valstybės dominavimas šiose te-
+    Algirdas dar 1356 m. tvirtinosi Volgos ritorijose ir stiprėjanti įtaka rytuose vedė
+    aukštupyje - Rževe atakavo Brianską ir prie atviro Lietuvos ir Aukso ordos totorių
+    Smolenską, 0 1359 m. užėmė Mstislavlį susidūrimo.
+    (piečiau Smolensko) ir galutinai įsitvirtino
+    Mūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m.
+  citata_rodoma: "(piečiau Smolensko) ir galutinai įsitvirtino\nMūšio priešistorė Rževe. Kiek anksčiau, apie 1357-1358 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69217
+
+- id: c-167763
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Per vieną šimtą metų, prieš Algirdui užmerkiant
+    akis, iš, palyginti, dar nedidelės Mindaugo valstybės buvo pasida­
+    riusi plati rytų Europos «imperija ». Nuo Lenkijos pakraščio, nuo
+    Prūsų ir Livonijos ordino sienų, šiaurės rytuose ji siekė Volgos
+    aukštupių (Rževo). Pietuose ji apėmė plačią Podoliją, nusitęsusią
+    link stepių Juodosios jūros srityje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184397
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Kristupas Radvila]]
-- Puolė Rževą: [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Radvilos]]
+- Puolė Rževą: [[objektai/grupes/Pskoviečiai]]

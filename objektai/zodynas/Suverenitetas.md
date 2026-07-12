@@ -19,6 +19,18 @@ tags:
   - sąvoka
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Suverenitetas
 
@@ -55,37 +67,37 @@ Nenurodyta
 <a id="claim-t-05427"></a>
 - t-001
   global_id: t-05427
-  teiginys: 'Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu.'
+  teiginys: "Tarybiniai istorikai Lietuvos Tarybų respublikos suverenitetą laikė 1940 m. įvykdytu plačiųjų lietuvių tautos masių siekimu."
   pagrindžia:
-    - c-004
+    - c-05558
 
 <a id="claim-t-05586"></a>
 - t-002
   global_id: t-05586
-  teiginys: 'Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.'
+  teiginys: "Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo."
   pagrindžia:
-    - c-005
+    - c-05559
 
 <a id="claim-t-10898"></a>
 - t-003
   global_id: t-10898
-  teiginys: 'Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.'
+  teiginys: "Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte."
   pagrindžia:
-    - c-001
+    - c-00297
 
 <a id="claim-t-10899"></a>
 - t-004
   global_id: t-10899
-  teiginys: '1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą.'
+  teiginys: "1926 m. Lietuva ir Sovietų Rusija nepuolimo sutartimi pasižadėjo gerbti viena kitos suverenitetą ir teritorinį neliečiamumą."
   pagrindžia:
-    - c-002
+    - c-00298
 
 <a id="claim-t-10900"></a>
 - t-005
   global_id: t-10900
-  teiginys: 'Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį.'
+  teiginys: "Suvereniteto sąvoka taikoma ir Lietuvos teisėms į Vilniaus sritį."
   pagrindžia:
-    - c-003
+    - c-00299
 - susijęs iš [[objektai/ivykiai/Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.).md#claim-t-75195|Lietuvos Respublikos Konstitucijos priėmimas referendume (1992 m. spalio 25 d.)]]: Konstitucija skelbė Lietuvą demokratine respublika, kurios suverenitetas priklauso tautai.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74771|Lietuvos Respublikos Seimas (seimas)]]: Konstitucija nustatė, kad valstybės valdžią Lietuvoje vykdo Seimas, Respublikos prezidentas, Vyriausybė ir teismas.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos Seimas.md#claim-t-74773|Lietuvos Respublikos Seimas (seimas)]]: Pagal Konstituciją Seimas kartu su Respublikos prezidentu, Vyriausybe ir teismu vykdo valstybės valdžią Lietuvoje.
@@ -117,6 +129,7 @@ Nenurodyta
     atsiskaitymus ir paties statuto keitimo procedūrą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,6 +151,7 @@ Nenurodyta
     susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -160,6 +174,7 @@ Nenurodyta
     12 dienos sutartim.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,6 +196,7 @@ Nenurodyta
     žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -198,7 +214,129 @@ Nenurodyta
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-00297
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **_Klaipėdos konvencija,_** kurią 1924 m. gegužės 8 d. pasirašė Pary-
+    žiuje Prancūzų ministeris pirmininkas ir užsienių reikalų ministeris
+    **_Poincarė,_** italų ambasadorius **_Avenzzana,_** japonų **_ambasadorius
+    Ishii,_** anglų markizas **_de Crewe_** ir Lietuvos ministeris pirmininkas ir
+    užsienių reikalų ministeris **_Galvanauskas,_** — susideda iš penkių da-
+    lių. Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-
+    nitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas
+    ir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius
+    ligi 1930 metų nuo karo prievolės ir duoda teisę Tautų S-gos tarybos
+    nariams atkreipti dėmesį į konvencijos laužymus; o jei dėl to ne-
+    būtų sutikimo su signatarais, šiems paliekama laisvė pateikti ginčą
+    Hagos Teismui. Antroji dalis yra priedėlis, kuris išdėsto au-
+    tonominį statutą, būtent apibrėžia vietinių organų kompetenciją,
+    nustato seimelio ir direktorijos sudarymą, gubernatoriaus funkcijas,
+    santykius tarp teismo organų, dviejų kalbų oficialumą, finansinius
+    atsiskaitymus ir paties statuto keitimo procedūrą.
+  citata_rodoma: "Pirmoji — pagrindinė konvencija perduoda Lietuvai suvere-\nnitetą Klaipėdos krašte, uždeda pareigą atlyginti okupacijos išlaidas\nir dalį reparacijų, nustato optacijos sąlygas, atleidžia klaipėdiečius"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10898
+
+- id: c-00298
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Iš politinių sutarčių paminėtinos yra drau-
+    gingumo sutartys su Sovietų Rusija ir 1934 m. pasirašytoji Pa-
+    baltijo valstybių sąjunga.
+    1920 m. padarius taiką su Sovietų Rusija, ši daug kartų yra
+    parodžiusi Lietuvai palankumo ir užstojusi Lietuvą jos kovose.
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų.
+  citata_rodoma: "šalys pasižadėjo visose aplinkybėse gerbti viena antros su-\nverenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat\nsusilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10899
+
+- id: c-00299
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Santykiams vis gerėjant, pagaliau 1926 m. (rugsėjo 28 d.) Mas-
+    kvoje buvo pasirašyta vadinamoji nepuolimo sutartis, kuria abi
+    šalys pasižadėjo visose aplinkybėse gerbti viena antros su-
+    verenumą ir teritorialinį integralumą bei neliečiamybę, o taip pat
+    susilaikyti nuo bet kurių agresyvinių (puolamųjų) veiksmų. Abi
+    šalys, be to, pasižadėjo neteikti paramos kitoms valstybėms,
+    kurios pultų vieną iš jų. Šios sutarties pasirašymo metu Sovietų
+    vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo
+    simpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-
+    somą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto
+    Vilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos
+    12 dienos sutartim.
+  citata_rodoma: "vyriausybė pareiškė atskiram laiške, kad, vadovaudamasi savo\nsimpatijomis ir nuolatiniu noru matyti lietuvių tautą nepriklau-\nsomą, ji nekeičia savo nusistatymo dėl teritorialinio suvereniteto\nVilniaus srity, kuri buvo pripažinta Lietuvai 1920 metų liepos\n12 dienos sutartim."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10900
+
+- id: c-05558
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Neigdami
+    tikrąją Vasario 16-tosios (1918) akto reikšmę čia tarybiniai istorikai
+    pabrėžė, jog tikrasis Lietuvos valstybingumas tebuvęs atkurtas
+    pasėkoje liaudies masių judėjimo ir proletarinės revoliucijos. Tada
+    Vinco Mickevičiaus-Kapsuko vadovaujama Laikinoji revoliucinė
+    darbininkų ir valstiečių Vyriausybė 1918 m. gruodžio 16 d. mani­
+    festu paskelbė įvedanti Tarybų valdžią Lietuvoje.
+    Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių
+    tautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­
+    žuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m.
+  citata_rodoma: "Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių\ntautos masių siekimas »^16 , sukliudytas užsienio intervencijų ir bur­\nžuazinės-fašistinės diktatūros, vėl buvęs įvykdytas 1940 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05427
+
+- id: c-05559
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
+    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
+    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
+    žinios, patarimo ir valios nepradėti karo.
+  citata_rodoma: "Kitu aktu buvo daroma savotiška karinė sąjunga. Jogaila\nordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal-\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri-\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05586

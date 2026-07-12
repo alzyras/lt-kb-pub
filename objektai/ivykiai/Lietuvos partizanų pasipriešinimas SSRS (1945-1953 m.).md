@@ -20,6 +20,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos partizanų pasipriešinimas SSRS (1945-1953 m.)
 
@@ -48,51 +60,58 @@ Nenurodyta
 <a id="claim-t-75180"></a>
 - t-001
   global_id: t-75180
-  teiginys: '1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija.'
+  teiginys: "1944–1953 m. Lietuvoje vyko Sovietų Sąjungos represijos, deportacijos, masinė kolektyvizacija ir ginkluota rezistencija."
   pagrindžia:
-    - c-002
+    - c-23076
 
 <a id="claim-t-75181"></a>
 - t-002
   global_id: t-75181
-  teiginys: '1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai.'
+  teiginys: "1944–1946 m. Lietuvoje susidarė dideli, iki 100 kovotojų siekę partizanų būriai."
   pagrindžia:
-    - c-003
+    - c-23079
 
 <a id="claim-t-75182"></a>
 - t-003
   global_id: t-75182
-  teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
+  teiginys: "Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą."
   pagrindžia:
-    - c-006
+    - c-73066
 
 <a id="claim-t-75183"></a>
 - t-004
   global_id: t-75183
-  teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
+  teiginys: "Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų."
   pagrindžia:
-    - c-005
+    - c-23081
 
 <a id="claim-t-75184"></a>
 - t-005
   global_id: t-75184
-  teiginys: 'Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai.'
+  teiginys: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atėmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
-    - c-004
+    - c-23080
 
 <a id="claim-t-75185"></a>
 - t-006
   global_id: t-75185
-  teiginys: 'Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m.'
+  teiginys: "Po Antrojo pasaulinio karo Lietuvos partizanų pasipriešinimas SSRS truko ištisą dešimtmetį, 1945–1953 m."
   pagrindžia:
-    - c-001
+    - c-23075
 
 <a id="claim-t-183254"></a>
 - t-007
   global_id: t-183254
-  teiginys: 'Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai.'
+  teiginys: "Sovietams izoliavus Lietuvą nuo laisvojo pasaulio informacijos, partizanų apygardose įkurti spaudos ir informacijos skyriai."
   pagrindžia:
-    - c-007
+    - c-166642
+
+<a id="claim-t-193573"></a>
+- t-008
+  global_id: t-193573
+  teiginys: "Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais."
+  pagrindžia:
+    - c-176250
 - susijęs iš [[objektai/grupes/Lietuvos partizanai.md#claim-t-74760|Lietuvos partizanai]]: Lietuvos partizanų pasipriešinimas SSRS truko visą dešimtmetį po Antrojo pasaulinio karo, 1945–1953 m.
 ## Reikšmingi paminėjimai
 
@@ -109,6 +128,7 @@ Nenurodyta
     o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,6 +146,7 @@ Nenurodyta
     vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -143,6 +164,7 @@ Nenurodyta
     Grupė Lietuvos partizanų 1947 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,6 +184,7 @@ Nenurodyta
     buvo leidžiama 80 pavadinimų periodinių leidinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,6 +204,7 @@ Nenurodyta
     ir kariuomenės neveiklumą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -203,6 +227,7 @@ Nenurodyta
     netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,7 +247,195 @@ Nenurodyta
     tai suimta 640 asmenų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+- c-008
+  santrauka: 'Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą maistu, medikamentais, drabužiais.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo
+    ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą
+    maistu, medikamentais, drabužiais. Pagalbos iš užsienio tikėtis nebuvo
+    įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
+    100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-
+    liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
+    sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-008
+
+## Citatos
+
+- id: c-23075
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Būtent šias vertybes ar prisiminimus nubraukė Sovietų Sąjunga,
+    1940 m. Lietuvą okupavusi, o 1944 m. – reokupavusi. Tačiau pergyvenusi
+    didžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos
+    vykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-
+    gebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-
+    nimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953),
+    o tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a.
+  citata_rodoma: "Tačiau pergyvenusi \ndidžiules netektis – Lietuvos žydų Holokaustą, masines Sovietų Sąjungos \nvykdytas deportacijas į Sibirą, emigraciją 1944 m. į Vakarus, Lietuva su-\ngebėjo pakilti į ilgiausią „karą po karo“ – Lietuvos partizanų pasiprieši-\nnimą SSRS ištisą dešimtmetį po Antrojo pasaulinio karo (1945–1953), \no tai kartais laikoma didžiausiu Lietuvos įnašu į Europos istoriją XX a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75185
+
+- id: c-23076
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sovietinio teroro ir trėmimų pradžia.
+    1941–1944
+    nacių Vokietijos okupacija ir žydų Holokaustas Lietuvoje.
+    1944–1953
+    Sovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-
+    vizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis.
+  citata_rodoma: "1944–1953\t\nSovietų Sąjungos organizuotų represijų, deportacijų, masinės kolekty-\nvizacijos ir Lietuvos ginkluotos rezistencijos laikotarpis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75180
+
+- id: c-23079
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pagalbos iš užsienio tikėtis nebuvo
+    įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
+    100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-
+    liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
+    sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį. Užimant
+    Grupė Lietuvos partizanų 1947 m.
+  citata_rodoma: "Užimant \nGrupė Lietuvos partizanų 1947 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75181
+
+- id: c-23080
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Partizanai
+    trukdė okupacinės valdžios rinkimus, apšaudydavo balsavimo būstines,
+    stabdė miško kirtimo ir išvežimo darbus, kovojo su prievartiniu kolūkių
+    kūrimu, partizanų karo lauko teismai teisė ir baudė mirties bausme trė-
+    mimų vykdytojus, sovietinius pareigūnus ir šnipus.
+    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
+    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
+    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
+    buvo leidžiama 80 pavadinimų periodinių leidinių.
+  citata_rodoma: "Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-\nmus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-\nmacijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau \nbuvo leidžiama 80 pavadinimų periodinių leidinių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75184
+
+- id: c-23081
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Visuotinį šio karo mastą rodo okupantų baudžiamųjų ak-
+    cijų duomenys: 1944–1953 m. MGB organai sunaikino 2 353 partizanų
+    grupes, nukovė 20 000 partizanų, suėmė 19 000 (iš viso nukovė, suėmė
+    ar legalizavo 120 000 žmonių), paėmė 9 patrankas, 30 prieštankinių šau-
+    tuvų, 31 minosvaidį, 3 002 kulkosvaidžius, 40 000 automatų, šautuvų ir
+    pistoletų, 557 rašomąsias mašinėles ir dauginimo aparatus. Laisvės ko-
+    votojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą
+    Lietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės
+    ir kariuomenės neveiklumą.
+  citata_rodoma: "Laisvės ko-\nvotojai savo drąsa, pasiaukojimu ir gyvybėmis įrodė, kad 1940 m. vasarą \nLietuva į SSRS įjungta prieš tautos valią ir atpirko Lietuvos vyriausybės \nir kariuomenės neveiklumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75183
+
+- id: c-73066
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau prieš tai vyko kruvina kova.
+    Karas po karo – ginkluota rezistencija
+    Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė
+    lietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas
+    dėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių
+
+    L I E T U V O S  I S T O R I J A
+    210
+    pasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais,
+    kad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui
+    įvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos
+    netekusioms šalims, kad Vakarai pakils į žygį prieš J. Stalino SSRS.
+  citata_rodoma: "Karas po karo – ginkluota rezistencija \nNuo 1944 m. vasaros sovietų represijos ir teroras kurstė \nlietuvių tautos pasipriešinimą, kilo dešimtmetį trukęs partizaninis karas \ndėl Lietuvos nepriklausomybės atkūrimo. Iš visų trijų Baltijos valstybių\n\nL I E T U V O S  I S T O R I J A\n210\npasipriešinimas Lietuvoje buvo stipriausias – čia dar naiviai tikėta Vakarais, \nkad komunistų valdymas ilgai netruks, o JAV ir Didžioji Britanija ilgainiui \nįvykdys Atlanto chartijos pažadus sugrąžinti nepriklausomybę dėl karo jos \nnetekusioms šalims, kad Vakarai pakils į žygį prieš J."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75182
+
+- id: c-166642
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sovietams užblokavus Lietuvą nuo laisvojo pasaulio informacijos, atė-
+    mus iš žmonių radijo imtuvus, visose apygardose įkurti spaudos ir infor-
+    macijos skyriai. Per visą partizaninio karo laikotarpį ilgiau ar trumpiau
+    buvo leidžiama 80 pavadinimų periodinių leidinių. Iš jų gyventojai suži-
+    nodavo apie partizanų poziciją kolaborantų atžvilgiu, pasaulio politikos
+    naujienas, partizanai parengė poezijos rinkinių, satyrų, prozos kūrinėlių,
+    partizanų maldynų. Spaudą daugiausia platino jaunimas, vien 1947 m. už
+    tai suimta 640 asmenų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183254
+
+- id: c-176250
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Antinacinė rezistencija koncentravosi miestuose, o antisovietinė buvo
+    ginkluota ir vyko kaime, kur partizanai galėjo gauti valstiečių paramą
+    maistu, medikamentais, drabužiais. Pagalbos iš užsienio tikėtis nebuvo
+    įmanoma, jie kovėsi vienų vieni. 1944–1946 m. susidarė dideli, net iki
+    100 kovotojų partizanų būriai – iš viso apie 30 tūkst. vyrų, kurie kontro-
+    liavo visą Lietuvą, išskyrus miestus, apsistodavo kaimuose, pastatydavo
+    sargybos postus, o pasirodžius NKVD dalims eidavo į mūšį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193573

@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Uzbeko
 
@@ -28,9 +40,9 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
 <a id="claim-t-30404"></a>
 - t-001
   global_id: t-30404
-  teiginys: 'Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
+  teiginys: "Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva."
   pagrindžia:
-    - c-001
+    - c-32816
 - susijęs iš [[objektai/asmenys/Dmitrijus Michailovičius.md#claim-t-87653|Dmitrijus Michailovičius]]: Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
 - susijęs iš [[objektai/asmenys/Danmilė.md#claim-t-87649|Danmilė]]: Danmilė per krikštą buvo pavadinta Elžbieta ir ištekinta už Mazovijos kunigaikščio Vaclovo.
@@ -52,7 +64,30 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
     yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32816
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Visos Rusi­
+    jos metropolito, graiko Teognosto kanceliarijos užrašai parodo, jog
+    Kijevo kunigaikščiu tuo metu buvo Gedimino brolis Teodoras^6.
+    Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo
+    palaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­
+    nosto užrašai (1330-31) su savo charakteringa pinigine apyskaita
+    yra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus.
+  citata_rodoma: "Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo\npalaikyti glaudesnių ryšių su Gedimino Lietuva. Apskritai Teog­\nnosto užrašai (1330-31) su savo charakteringa pinigine apyskaita\nyra autentiškas šaltinis nustatyti Gedimino ekspansijai į rytus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30404

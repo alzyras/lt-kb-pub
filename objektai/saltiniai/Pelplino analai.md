@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XII'
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pelplino analai
 
@@ -30,10 +42,9 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
 <a id="claim-t-61218"></a>
 - t-001
   global_id: t-61218
-  teiginys: 'Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97.'
+  teiginys: "Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97."
   pagrindžia:
-    - c-001
-
+    - c-61850
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +59,30 @@ Dusburgietis teigia, kad trumpų žinių apie Ordino praeitį pateikia „Pelpli
     m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61850
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  citata_originali: |
+    Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama
+    apie Ordino įsikūrimą Jeruzalėje 1190 m., po to — apie Ordino pilių statybą Prūsijoje,
+    pradedant Torune (1231 m.), lakoniškai pasakojama apie mūšius „zu Kuwerlant“
+    1260 m. (t. y. Kurše— Durbė), „zu Pocarwen“ ir kt., apie Vokietijos, Čekijos hercogų,
+    markgrafų, karalių atvykimą į Prūsiją. Tekstas baigiamas Skalvių pilies pastatymu 1293
+    m.
+  citata_rodoma: "Trumpų žinių apie Ordino praeitį pateikia „Pelplino analai“97. Pirmoje žinutėje kalbama\napie Ordino įsikūrimą Jeruzalėje 1190 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61218

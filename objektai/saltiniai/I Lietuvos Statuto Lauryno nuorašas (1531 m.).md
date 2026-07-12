@@ -12,8 +12,21 @@ atnaujinta: ''
 tags:
   - saltinis
   - valstybė
+  - šeima
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # I Lietuvos Statuto Lauryno nuorašas (1531 m.)
 
@@ -26,10 +39,9 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
 <a id="claim-t-13519"></a>
 - t-001
   global_id: t-13519
-  teiginys: 'I Lietuvos Statuto Lauryno nuorašo 1531 m. antraštiniame lape pavaizduotas Vytis.'
+  teiginys: "I Lietuvos Statuto Lauryno nuorašo 1531 m. antraštiniame lape pavaizduotas Vytis."
   pagrindžia:
-    - c-001
-
+    - c-75435
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +64,37 @@ Tačiau dalis etninės Lietuvos yra už šiandieninės Lietuvos ribų, antra ver
     taip pat plėtė savo įtaką į giminingų genčių teritorijas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Teritorija, kurioje lietuviai gy-
+    veno kurdami valstybę (iš esmės tai šiandieninė Lietuva), ir vadinama
+    etninėmis lietuvių žemėmis. Tačiau dalis etninės Lietuvos yra už šian-
+    dieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus
+    nuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-
+    galių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-
+    si branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),
+
+    L I E T U V O S  I S T O R I J A
+    14
+    Vytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.)
+    antraštinio lapo
+    tačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes,
+    taip pat plėtė savo įtaką į giminingų genčių teritorijas.
+  citata_rodoma: "Tačiau dalis etninės Lietuvos yra už šian-\ndieninės Lietuvos ribų, antra vertus, Lietuvos vardu vadinamos į vakarus \nnuo etninių žemių esančios senųjų žemaičių, dalies jotvingių, sėlių, žiem-\ngalių ir prūsų teritorijos. Ir tai dėsninga: Lietuvos valstybės formavimo-\nsi branduolys buvo „Lietuvos žemė“ (teritorija tarp Nemuno ir Neries),\n\nL I E T U V O S  I S T O R I J A\n14\nVytis iš I Lietuvos Statuto Lauryno nuorašo (1531 m.) \nantraštinio lapo\ntačiau jau Mindaugas jungė prie „Lietuvos žemės“ kitas lietuvių žemes, \ntaip pat plėtė savo įtaką į giminingų genčių teritorijas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13519

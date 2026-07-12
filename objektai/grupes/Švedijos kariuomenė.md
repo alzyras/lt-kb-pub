@@ -17,6 +17,18 @@ tags:
   - pilis
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švedijos kariuomenė
 
@@ -29,16 +41,16 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
 <a id="claim-t-41213"></a>
 - t-001
   global_id: t-41213
-  teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
+  teiginys: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
   pagrindžia:
-    - c-001
+    - c-42993
 
 <a id="claim-t-41214"></a>
 - t-002
   global_id: t-41214
-  teiginys: 'Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.'
+  teiginys: "Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti."
   pagrindžia:
-    - c-002
+    - c-44881
 - susijęs iš [[objektai/asmenys/Gustavas Adolfas.md#claim-t-79026|Gustavas Adolfas]]: Po 1629 m. paliaubų su ATR Gustavo Adolfo vadovaujama Švedijos kariuomenė Vokietijoje laimėjo prieš katalikų kariuomenes.
 - susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
@@ -69,6 +81,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     ir šaudmenis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,11 +101,57 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     mūšis“ fragmentas. Lietuvos
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-42993
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšio išvakarėse
+
+    1601 m. balandžio 1 d. Švedijos kariuomenė
+    šturmu užėmė Kuoknesės miestą ir apsupo
+    pilį, bet joje esanti lietuvių įgula nepasi-
+    davė. 2500 švedų karių įsitvirtino mieste ir
+    pradėjo pilies apgultį. Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41213
+
+- id: c-44881
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    J. K. Chodkevičius siekė neleisti švedams
+    susijungti, tačiau to padaryti nepavyko ir
+    rugsėjo 23 d. Švedijos kariuomenė apgulė
+    Rygą.
+
+    Apie 1619 m. nutapyto Pieterio
+    Snayerso paveikslo „Salaspilio
+    mūšis“ fragmentas. Lietuvos
+  citata_rodoma: "Chodkevičius siekė neleisti švedams\nsusijungti, tačiau to padaryti nepavyko ir\nrugsėjo 23 d. Švedijos kariuomenė apgulė\nRygą.\n\nApie 1619 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41214
+
 ## Ryšiai
-- Švedijos kariuomenė apgulė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
+- Švedijos kariuomenė apgulė [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - Švedijos kariuomenė užėmė [[objektai/vietos/Kuoknesė]], [[objektai/vietos/Paidė]], [[objektai/vietos/Viljandis]]

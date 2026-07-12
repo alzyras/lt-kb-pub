@@ -18,6 +18,18 @@ tags:
   - pinigai
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # JAV lietuviai
 
@@ -30,44 +42,44 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 <a id="claim-t-74137"></a>
 - t-001
   global_id: t-74137
-  teiginys: '1918 m. įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos pareikalavo Lietuvos nepriklausomybės.'
+  teiginys: "1918 m. įtakingiausios JAV lietuvių katalikų ir tautininkų organizacijos pareikalavo Lietuvos nepriklausomybės."
   pagrindžia:
-    - c-004
+    - c-72190
 
 <a id="claim-t-74138"></a>
 - t-002
   global_id: t-74138
-  teiginys: 'JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.'
+  teiginys: "JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“."
   pagrindžia:
-    - c-001
+    - c-22418
 
 <a id="claim-t-74139"></a>
 - t-003
   global_id: t-74139
-  teiginys: 'JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams.'
+  teiginys: "JAV lietuvių siunčiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo darbams."
   pagrindžia:
-    - c-003
+    - c-22420
 
 <a id="claim-t-74140"></a>
 - t-004
   global_id: t-74140
-  teiginys: 'Tuo metu JAV gyveno apie 350 tūkst. lietuvių, iš jų apie 180 tūkst. buvo gimę Lietuvoje.'
+  teiginys: "Tuo metu JAV gyveno apie 350 tūkst. lietuvių, iš jų apie 180 tūkst. buvo gimę Lietuvoje."
   pagrindžia:
-    - c-005
+    - c-72191
 
 <a id="claim-t-74141"></a>
 - t-005
   global_id: t-74141
-  teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
+  teiginys: "00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje."
   pagrindžia:
-    - c-003
+    - c-22420
 
 <a id="claim-t-74142"></a>
 - t-006
   global_id: t-74142
-  teiginys: 'Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną.'
+  teiginys: "Amerikos lietuviai siuntė paramą karo aukoms ir prašė prezidento Woodrow Wilsono paskelbti Lietuvos karo aukų dieną."
   pagrindžia:
-    - c-002
+    - c-22419
 - susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/asmenys/Juozas Gabrys-Paršaitis.md#claim-t-19014|Juozas Gabrys-Paršaitis]]: Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
@@ -108,6 +120,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     klausimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,6 +146,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     karo aukoms, jos metu surinkta 200 tūkst. dolerių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,6 +164,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     darbams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -172,6 +187,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     1917 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -192,11 +208,132 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     žinomais visuomenės veikėjais, diplomatais, kariškiais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
+## Citatos
+
+- id: c-22418
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Maždaug 300 000 karo pabėgėlių ir darbo migrantų lietuvių buvo išsi-
+    sklaidę didelėje Rusijos teritorijoje, tačiau Peterburge ir Voroneže susi-
+    formavo lietuvių centrai, kuriuose buvo lietuviškų laikraščių redakcijos,
+    gimnazijos, jaunimas ruoštas sugrįžimui į Lietuvą. Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m. kovą Petrograde susirinko Lietuvių seimas,
+    revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
+    laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
+    vioji dauguma apleido seimą.
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą.
+  citata_rodoma: "Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-\nnijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-\nrusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas \nį karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono \n(Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos \nklausimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74138
+
+- id: c-22419
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Rusijos revoliucija,
+    caro nuvertimas sudarė geresnes galimybes lietuvių veiklai, tačiau poli-
+    tiškai jie skilo: kai 1917 m. kovą Petrograde susirinko Lietuvių seimas,
+    revoliucijos euforijos apimtai kairei pasisakius už Lietuvos ateitį Rusijos
+    laisvų tautų federacijoje, aiškiai nepriklausomybės siekianti koservaty-
+    vioji dauguma apleido seimą.
+    Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilva-
+    nijoje) gyvenusių lietuvių imigrantų, gerai organizuotų į draugijas, sukū-
+    rusių gausią spaudą ir kultūrines organizacijas, suaktyvino JAV įstojimas
+    į karą prieš Vokietiją 1917 m. balandį, o ypač prezidento Vudrau Vilsono
+    (Woodrow Wilson) paskelbti „14 punktų“, davę progą kelti ir Lietuvos
+    klausimą. Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-
+    dentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos
+    karo aukoms, jos metu surinkta 200 tūkst. dolerių.
+  citata_rodoma: "Amerikos lietuviai siuntė paramą karo aukoms, paprašė prezi-\ndentą V. Vilsoną 1916 m. lapkričio 1-ąją paskelbti specialia diena Lietuvos \nkaro aukoms, jos metu surinkta 200 tūkst. dolerių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74142
+
+- id: c-22420
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
+    pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
+    Bronius Balutis, Jonas Žilius, Jonas Šliūpas, Steponas Darius ir kiti tapo
+    žinomais visuomenės veikėjais, diplomatais, kariškiais. JAV lietuvių siun-
+    čiami pinigai sudarė 1/10 Lietuvos valstybės biudžeto, išeivijos politinės
+    srovės finansavo Lietuvos politines partijas, rinko aukas valstybės kūrimo
+    darbams.
+  citata_rodoma: "lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę, \npradėjo verslus, atidarė pramonės įmones, bankus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74141
+    - t-74139
+
+- id: c-72190
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1918 m. kovą įtakingiausios JAV
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    135
+    lietuvių katalikų ir tautininkų organizacijos savo suvažiavimuose parei-
+    kalavo nepriklausomybės Lietuvai, jų atstovai dalyvavo keliose lietuvių
+    konferencijose Šveicarijoje, sustiprėjo užsienio lietuvių centrų ir Lietuvos
+    organizacijų veiklos koordinacija.
+    1918 metų Vasario 16 Aktas
+    1917 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74137
+
+- id: c-72191
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Apie 350 000 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lie-
+    tuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje. Pirmais neprik­
+
+    4 skyrius •  L I E T U V O S  VA L S T Y B Ė S  AT K Ū R I M A S
+    151
+    lausomybės metais tūkstančiai emigrantų grįžo į Lietuvą, pirko žemę,
+    pradėjo verslus, atidarė pramonės įmones, bankus. T. Naruševičius,
+    Bronius Balutis, Jonas Žilius, Jonas Šliūpas, Steponas Darius ir kiti tapo
+    žinomais visuomenės veikėjais, diplomatais, kariškiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74140
+
 ## Ryšiai
-- JAV lietuviai gyveno [[objektai/vietos/Niujorkas]]
 - JAV lietuviai rėmė [[objektai/grupes/Lietuvių informacijos biuras Lozanoje]]

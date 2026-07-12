@@ -19,6 +19,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ulrichas iš Magdeburgo
 
@@ -31,17 +43,23 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
 <a id="claim-t-60214"></a>
 - t-001
   global_id: t-60214
-  teiginys: 'Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.'
+  teiginys: "Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo."
   pagrindžia:
-    - c-001
+    - c-60846
 
 <a id="claim-t-184136"></a>
 - t-002
   global_id: t-184136
-  teiginys: 'Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją.'
+  teiginys: "Ulrichui iš Magdeburgo buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus, atplaukiančius į Prūsiją."
   pagrindžia:
-    - c-001
+    - c-60846
 
+<a id="claim-t-194521"></a>
+- t-003
+  global_id: t-194521
+  teiginys: "Apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio stipraus kūno sudėjimo, kad lenkė visus kitus vyrus."
+  pagrindžia:
+    - c-60846
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +74,34 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
     kurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-60846
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  citata_originali: |
+    Apie brolį Ulrichą ir 50 prūsų žūtį
+
+      Tuo metu Karaliaučiaus brolių konvente gyveno brolis Ulrichas iš Magdeburgo, tokio
+    stipraus kūno sudėjimo, kad lenkė visus kitus vyrus. Jis vienu pirštu paimdavęs už diržo
+    per nugarą du ginklanešius  ir, nors jie  ir priešindavosi, lyg niekur nieko pakeldavęs
+    aukštyn. Jam buvo patikėta su keliais broliais ir ginklanešiais saugoti krikščionių laivus,
+    kurie jūra atplaukdavo į Prūsijos žemę, nes prūsai anksčiau labai dažnai juos skandindavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60214
+    - t-184136
+    - t-194521

@@ -9,9 +9,22 @@ date_start: '1926'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - ["elekcija", "politinis-sprendimas"]
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # III Seimo rinkimai ir kairiosios valdančiosios koalicijos sudarymas (1926 m.)
 
@@ -46,31 +59,30 @@ Nenurodyta
 <a id="claim-t-45334"></a>
 - t-001
   global_id: t-45334
-  teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
+  teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo."
   pagrindžia:
-    - c-001
+    - c-22939
 
 <a id="claim-t-45335"></a>
 - t-002
   global_id: t-45335
-  teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo.'
+  teiginys: "1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo po trejų metų valdymo."
   pagrindžia:
-    - c-002
+    - c-48202
 
 <a id="claim-t-45336"></a>
 - t-003
   global_id: t-45336
-  teiginys: '1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas.'
+  teiginys: "1926 m. gegužės 8-9 d. rinkimuose į III Seimą pralaimėjo LKDP blokas."
   pagrindžia:
-    - c-001
+    - c-22939
 
 <a id="claim-t-45337"></a>
 - t-004
   global_id: t-45337
-  teiginys: '1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai.'
+  teiginys: "1926 m. birželį naują valdančiąją koaliciją pirmą kartą suformavo kairė: valstiečiai liaudininkai ir socialdemokratai."
   pagrindžia:
-    - c-001
-
+    - c-22939
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -88,7 +100,8 @@ Nenurodyta
     tinių mažumų atstovai Seime.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -108,7 +121,54 @@ Nenurodyta
     lyderis Kazys Grinius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-22939
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Bolševikų diktatūra
+    SSRS, Benito Musolinio (Benito Mussolini) atėjimas į valdžią Italijoje,
+    perversmai Bulgarijoje, Portugalijoje, o ypač karinis perversmas 1926 m.
+    gegužę Lenkijoje, kurio metu į valdžią grįžo J. Pilsudskis, skatino veikti
+    visus, nepatenkintus Seimo valdymu („seimokratija“). O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime.
+  citata_rodoma: "O čia dar po kie-\ntoko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės\n8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-\nlaimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –\nvalstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-\ntinių mažumų atstovai Seime."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45336
+    - t-45337
+    - t-45334
+
+- id: c-48202
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    O čia dar po kie-
+    toko trejų metų krikščionių demokratų bloko valdymo 1926 m. gegužės
+    8–9 d. rinkimai į 85 vietų III Seimą atnešė sensaciją – LKDP blokas pra-
+    laimėjo. Naują valdančiąją koaliciją birželį pirmą kartą suformavo kairė –
+    valstiečiai liaudininkai ir socialdemokratai, prie jų prisidėjo septyni tau-
+    tinių mažumų atstovai Seime. Prezidentu išrinktas valstiečių liaudininkų
+    lyderis Kazys Grinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45335

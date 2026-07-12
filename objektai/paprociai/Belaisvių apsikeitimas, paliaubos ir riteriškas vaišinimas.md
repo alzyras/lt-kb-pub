@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Belaisvių apsikeitimas, paliaubos ir riteriškas vaišinimas
 
@@ -46,17 +58,16 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
 <a id="claim-t-176226"></a>
 - t-001
   global_id: t-176226
-  teiginys: 'Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas.'
+  teiginys: "Kęstutis, kryžiuočių spaudžiamas labiau negu Jogaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti paliaubas."
   pagrindžia:
-    - c-001
+    - c-14483
 
 <a id="claim-t-176227"></a>
 - t-002
   global_id: t-176227
-  teiginys: 'Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti.'
+  teiginys: "Vinricho von Kniprodės laikais Kęstutis ir Ordinas pradėjo keistis belaisviais, daryti tarpukares ir riteriškai vienas kitą vaišinti."
   pagrindžia:
-    - c-001
-
+    - c-14483
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +83,34 @@ Praktika aprašoma kaip Vinricho von Kniprodės taikyta lankstesnė politika, no
     pukares, vienas kitą riteriškai pavaišinti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-14483
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­
+    gaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti
+    paliaubas. Čia reikia pastebėti, kad Vinrichas von Kniprodė,
+    būdamas gabus ir lankstus politikas, nuolat kariaudamas su
+    Kęstučiu, ėmėsi kitokios taktikos, negu jo pirmtakūnai. Nors
+    Vokiečių Ordino įstatai draudė su pagonimis daryti kokias nors
+    sutartis, vis dėlto jiedu pradėjo pasikeisti belaisviais, daryti tar­
+    pukares, vienas kitą riteriškai pavaišinti.
+  citata_rodoma: "Kęstutis kryžiuočių daug smarkiau spaudžiamas, negu Jo­\ngaila, pirmas pasiūlė Ordinui pasikeisti belaisviais ir padaryti\npaliaubas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176226
+    - t-176227

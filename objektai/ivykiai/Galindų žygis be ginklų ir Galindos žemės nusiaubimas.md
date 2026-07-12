@@ -10,6 +10,18 @@ tags:
   - ivykis
   - karas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Galindų žygis be ginklų ir Galindos žemės nusiaubimas
 
@@ -38,17 +50,16 @@ Nenurodyta
 <a id="claim-t-91904"></a>
 - t-001
   global_id: t-91904
-  teiginys: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
+  teiginys: "Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis."
   pagrindžia:
-    - c-001
+    - c-87546
 
 <a id="claim-t-91905"></a>
 - t-002
   global_id: t-91905
-  teiginys: 'Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija.'
+  teiginys: "Manoma, kad Galindos žemės nusiaubimą daugiausia lėmė XI-XIII a. pradžios pasienio karai, ypač su Lenkija."
   pagrindžia:
-    - c-002
-
+    - c-87547
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,6 +81,7 @@ Nenurodyta
     dienai paliko nusiaubta203.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +101,57 @@ Nenurodyta
     išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-87546
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    kuo rimčiausiai užtarti dėl šio dalyko. Ši, užjausdama savąją lytį, sušaukė pas save visos
+    žemės galingesniuosius ir jiems pasakė: „Jūsų dievai nori, kad be ginklų, be kalavijų ir
+    kitų gynimosi priemonių kariautumėte su krikščionimis“. Šitai išgirdę, jie bematant jos
+    paklausė, ir tie, kurie galėjo pakelti ginklą, visi it vienas, smagiai nusiteikę, įsibrovė  į
+    kaimynų krikščionių žemes. Be kitų nuostolių, kurių ten pridarė, išsivarė su savimi grobį
+    — nesuskaitomą daugybę žmonių ir gyvulių. Kai traukėsi atgal, kai kuriems belaisviams
+    pavyko slapta pasprukti; šie, grįžę pas tikinčiuosius, papasakojo, kad netikėlių kariuomenė
+    neturinti nei ginklų, nei nieko kita, su kuo galėtų gintis,  ir pradėjo nuoširdžiai juos
+    įkalbinėti drąsiai leistis iš paskos  ir pulti. Šių žodžių padrąsinti krikščionys, dideliais
+    būriais leidęsi iš paskos, užpuolė netikėlius ir išžudė visus, nė nebandžiusius priešintis;
+    sūduviai ir kitos kaimyninės gentys, šitai sužinojusios, įsibrovė į minėtąją Galindos žemę
+    ir išsivarė  į amžiną vergovę moteris, vaikus bei kitus likusius. Šitaip toji žemė po šiai
+    dienai paliko nusiaubta203.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91904
+
+- id: c-87547
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 64"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 64."
+  citata_originali: |
+    Šios klastingos tautos [gyvenamų žemių] viduryje, Nadruvoje,
+    buvo vieta, kurią vadino Romove204, gavusi savo vardą nuo Romos, o ten gyveno žmogus,
+      203 Manoma, kad pagrindinė Galindos žemės nusiaubimo priežastis buvo pasienio
+    karai, ypač su Lenkija XI—XIII a. pradžioje (Łowmiański H. Studja..., 1, p. 49—50;
+    Pollakówna M.,  Zanik...,  p. 165—166). Kai kurie  archeologiniai duomenys  leidžia
+    suabejoti D. teiginiu, kad Galinda, prieš atsikraustant kryžiuočiams, jau buvusi visiška
+    dykra (Kamiński A., Jaćwież, p. 58; Jasas R., Didysis..., p. 12). Dalis gyventojų galėjo
+    išlikti iki XIII a. (Powierski J. Krytyka koncepcji..., p. 303).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91905

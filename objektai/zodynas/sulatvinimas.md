@@ -7,24 +7,35 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # sulatvinimas
 
 ## Santrauka
 
-Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais.
+sulatvinimas: ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat- vėja. Apskritai stoka lietuviškų mokyklų ir savos inteligentijos, mišros vedybos ir bažnyčių sulatvinimas labai mažina lietuvių skaičių Latvijoje.
 
 ## Teiginiai
+
 <a id="claim-t-70339"></a>
 - t-001
   global_id: t-70339
-  teiginys: 'Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais.'
+  teiginys: "Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais."
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-69380
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
@@ -34,8 +45,30 @@ Lietuvių sulatvinimas vyko per latviškas mokyklas ir kitais būdais.
     kur lietuvių vaikų yra nedaug, jie visi eina į latviškas mokyklas.
     Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
     vėja.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-69380
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau darbą trukdo ne tik pašaliniai veiksniai, bet ir nesan-
+    taika pačių lietuvių tarpe. Trūksta ir lietuviškų mokyklų; tad,
+    kur lietuvių vaikų yra nedaug, jie visi eina į latviškas mokyklas.
+    Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-
+    vėja.
+  citata_rodoma: "Ne tik per mokyklas, bet ir kitokiais būdais dalis lietuvių sulat-\nvėja."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70339

@@ -10,6 +10,18 @@ tags:
   - kunigas
   - ordinas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Konstancija
 
@@ -22,37 +34,37 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
 <a id="claim-t-36321"></a>
 - t-001
   global_id: t-36321
-  teiginys: 'Į Konstancijos miestą, kuriame šauktas susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai iš visos Europos.'
+  teiginys: "Į Konstancijos miestą, kuriame šauktas susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai iš visos Europos."
   pagrindžia:
-    - c-001
+    - c-37464
 
 <a id="claim-t-36322"></a>
 - t-002
   global_id: t-36322
-  teiginys: 'Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą.'
+  teiginys: "Vytautas grasino Livonijos ordiną apskųsti Konstancijos susirinkimui dėl jo sutarties su Pskovu prieš Vytautą."
   pagrindžia:
-    - c-003
+    - c-38525
 
 <a id="claim-t-36323"></a>
 - t-003
   global_id: t-36323
-  teiginys: 'Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas.'
+  teiginys: "Vytautas ir Jogaila susitaikė, nes prieš Konstancijos suvažiavimą abiem rūpėjo kryžiuočių klausimas."
   pagrindžia:
-    - c-002
+    - c-37466
 
 <a id="claim-t-184304"></a>
 - t-004
   global_id: t-184304
-  teiginys: 'Į Konstanciją, kur buvo šaukiamas Bažnyčios susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai.'
+  teiginys: "Į Konstanciją, kur buvo šaukiamas Bažnyčios susirinkimas, suvažiavo dvasininkai, kunigaikščiai, diduomenė ir riteriai."
   pagrindžia:
-    - c-004
+    - c-167677
 
 <a id="claim-t-184305"></a>
 - t-005
   global_id: t-184305
-  teiginys: 'Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu.'
+  teiginys: "Vytautas ir Jogaila susitaikė, nes abiem rūpėjo kryžiuočių klausimas, susijęs su Konstancijoje vykusiu suvažiavimu."
   pagrindžia:
-    - c-005
+    - c-167678
 - susijęs iš [[objektai/asmenys/Petras iš Kustynės.md#claim-t-35265|Petras iš Kustynės]]: Petras iš Kustynės 1415 m. kaip Vilniaus vyskupas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
@@ -131,6 +143,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     dvasininkai ir pasauliniai atstovai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -149,6 +162,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     (^1) ) Prochaska kitaip mano (Žiur.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,6 +183,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     nas padarė amžiną taiką ir su Naugardu D. (1421).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -189,6 +204,7 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     terių^3 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,11 +225,120 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     reikaluose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Jonas (Breslavo vyskupas)]], [[objektai/asmenys/Jonas (Lvovo arkivyskupas)]], [[objektai/asmenys/Mikalojus (Gniezno arkivyskupas)]], [[objektai/asmenys/Mykolas Sapienskis]], [[objektai/asmenys/Petras iš Kustynės]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+## Citatos
+
+- id: c-37464
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Europos visuomenė labai juo
+    domėjosi ir į Konstancijos miestą (dabart. Šveicarijoje), kur bu­
+    vo šaukiamas susirinkimas, be aukštos dvasininkijos atstovų
+    (kardinolų, vyskupų ir mokytų kunigų teologų), suvažiavo ir iš
+    visos Europos labai daug kunigaikščių, diduomenės, būriai ri­
+    terių^3 ). Todėl šis susirinkimas buvo labai panašus į visos Eu­
+    ropos parlamentą, kurį sudarė krikščioniškųjų Europos tautų
+    dvasininkai ir pasauliniai atstovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36321
+
+- id: c-37466
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Čia susitaikino ir Vytautas su Jogaila,
+    nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu
+    suvažiavimu Konstancijoj^2 ). Bet ir po tos taikos, vokiečiams pa­
+    geidaujant, Vytautas padėjo išaiškinti kilusius tarp Lenkijos ir
+    Ordino nesusipratimus: jis tartum advokatas buvo savo ir lenkų
+    reikaluose. Tas ginčas ėjo dėl Žemaitijos, Sūdavijos, Micha-
+
+    (^1) ) Prochaska kitaip mano (Žiur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36323
+
+- id: c-38525
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ordinu
+    (1414) ir krikšto reikalais Žemaitijoje (1416), negalėjo tinkamai
+    totorių sudrausti.
+    Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris
+    tuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­
+    darė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­
+    tautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­
+    kais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos
+    susirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­
+    nas padarė amžiną taiką ir su Naugardu D. (1421).
+  citata_rodoma: "Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris\ntuo pat laiku, kai Konstancijon buvo siunčiamas Cemblakas, pa­\ndarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą. Vy­\ntautas išmetinėjo Ordinui, kad negarbinga susidėti su nekatali­\nkais prieš jį kataliką, ir grasino pasiųsti skundą Konstancijos\nsusirinkimui; bet ir tas nieko nepadėjo, nes po kelių metų Ordi­\nnas padarė amžiną taiką ir su Naugardu D."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36322
+
+- id: c-167677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kadangi jis
+    turėjo ne tiktai pašalinti Vakarų Bažnyčios schizmą, išrišti
+    daug tikėjimo klausimų, bet ir įvykdyti tarp krikščioniškų tau­
+    tų taiką, — tai katalikiška Vak. Europos visuomenė labai juo
+    domėjosi ir į Konstancijos miestą (dabart. Šveicarijoje), kur bu­
+    vo šaukiamas susirinkimas, be aukštos dvasininkijos atstovų
+    (kardinolų, vyskupų ir mokytų kunigų teologų), suvažiavo ir iš
+    visos Europos labai daug kunigaikščių, diduomenės, būriai ri­
+    terių^3 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184304
+
+- id: c-167678
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Už tai Jogaila ant jo smarkiai supyko,
+    lenkų bajorai pasistengė jį nuraminti, už ką Vytautas, žinoma,
+    gausiai jiems atsilygino, kai jie sekančiais metais drauge su ka­
+    ralium atvyko į Lietuvą. Čia susitaikino ir Vytautas su Jogaila,
+    nes abiem rūpėjo kryžiuočių klausimas sąryšy su įvykstančiu
+    suvažiavimu Konstancijoj^2 ). Bet ir po tos taikos, vokiečiams pa­
+    geidaujant, Vytautas padėjo išaiškinti kilusius tarp Lenkijos ir
+    Ordino nesusipratimus: jis tartum advokatas buvo savo ir lenkų
+    reikaluose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184305

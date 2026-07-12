@@ -13,9 +13,22 @@ atnaujinta: ''
 tags:
   - grupe
   - valstybė
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # NATO
 
@@ -28,16 +41,23 @@ amziai:
 <a id="claim-t-19949"></a>
 - t-001
   global_id: t-19949
-  teiginys: '2004 m. Lietuva tapo NATO ir Europos Sąjungos nare.'
+  teiginys: "2004 m. Lietuva tapo NATO ir Europos Sąjungos nare."
   pagrindžia:
-    - c-001
+    - c-22679
 
 <a id="claim-t-19950"></a>
 - t-002
   global_id: t-19950
-  teiginys: '2004 m. Lietuva tapo ES ir NATO nare.'
+  teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
   pagrindžia:
-    - c-002
+    - c-166560
+
+<a id="claim-t-19950"></a>
+- t-003
+  global_id: t-19950
+  teiginys: "2004 m. Lietuva tapo ES ir NATO nare."
+  pagrindžia:
+    - c-166560
 - susijęs iš [[objektai/grupes/Europos Sąjunga.md#claim-t-74117|Europos Sąjunga]]: 2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.
 - susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75219|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: 2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.
 - susijęs iš [[objektai/autoriai/Audronius Ažubalis.md#claim-t-63303|Audronius Ažubalis]]: Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.
@@ -60,7 +80,6 @@ amziai:
 - susijęs iš Vašingtonas: 1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą.
 - susijęs iš Vilnius: Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares.
 - susijęs iš [[objektai/asmenys/Džordžas Bušas.md#claim-t-26438|Džordžas Bušas]]: Džordžas Bušas Vilniuje pareiškė, kad JAV laikytų Lietuvos priešus ir savo priešais.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 - susijęs iš [[objektai/autoriai/Audronius Ažubalis.md#claim-t-63303|Audronius Ažubalis]]: Audroniui Ažubaliui einant ministro pareigas, Užsienio reikalų ministerija paprašė parengti glaustą Lietuvos istorijos veikalą.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181472|Petras Dusburgietis]]: Petras Dusburgietis pažymėjo, kad keturi tūkstančiai lietuvių niokojo Kuršo žemę, o po to stojo į mūšį.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-188464|Petras Dusburgietis]]: Dusburgietis rašė, kad Romovėje gyvenęs krivis buvo gerbiamas kaip popiežius, o jo pasiuntiniai su ženklu sulaukdavo didelės pagarbos.
@@ -92,6 +111,7 @@ amziai:
 - susijęs iš Lietuva: Sėkmingai dalyvaudama įvairiose NATO ir ES veiklos srityse, Lietuva akivaizdžiai sustiprino savo saugumą ir tarptautinį statusą, sutvirtėjo ekonomiškai.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-183434|Kolektyvinės savigynos teisė]]: Vašingtono sutarties 5-ajame straipsnyje garantuojama individualios ar kolektyvinės savigynos teisė, užpuolus vieną Aljanso narę.
 - susijęs iš [[objektai/zodynas/Kolektyvinės savigynos teisė.md#claim-t-21996|Kolektyvinės savigynos teisė]]: Kolektyvinės savigynos teisė reiškia, kad ginkluoto puolimo prieš vieną Aljanso narę atveju kitos narės ateina jai į pagalbą.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195008|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -108,6 +128,7 @@ amziai:
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,12 +145,53 @@ amziai:
     Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-002
 
+## Citatos
+
+- id: c-22679
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
+    toriją visam pasauliui.
+    Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
+    ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+  citata_rodoma: "jungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19949
+
+- id: c-166560
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Įvadas •  L I E T U VA  –  V I D U R I O  E U R O P O S  D A L I S
+    21
+    Sovietų Sąjungos aneksiją ir perestroikos bei naujo Atgimimo sąlygomis
+    atkurti Nepriklausomybę.
+    Ir dar labai svarbu žinoti – 2004 m. Lietuva tapo ES ir NATO nare.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183173
+    - t-19950
+
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/vietos/Lietuva]]
-- NATO gynė [[objektai/vietos/Lietuva]]

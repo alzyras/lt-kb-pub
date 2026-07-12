@@ -12,22 +12,29 @@ datos:
   - '1966 m.'
 date_start: '1323'
 date_end: '1966'
-description: 'Gedimino laiškai liudija 1323 m. Vilnių, kvietimus Vakarų pirkliams ir autentiškumo ginčą dėl Rygos arkivyskupo vaidmens.'
-socialDescription: '1323 m. Gedimino laiškai atskleidžia Vilniaus kaip karališkojo miesto vaizdinį, kvietimus Vakarų pirkliams ir vėlesnį autentiškumo ginčą.'
-seo_atnaujinta: '2026-07-02T23:12:35.210556+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gedimino laiškai
 
 ## Santrauka
 
-Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominikonams, Mažesniesiems broliams, pajūrio miestams ir Vakarų šalims. Laiškuose Vilnius vadinamas karališkuoju miestu, kviečiami pirkliai bei amatininkai, o pats šaltinis laikomas reikšmingu Gedimino politikos atspindžiu. Balińskis juos siejo su Vilniaus kaip miesto ir Gedimino sostinės liudijimu, nors Foigtas ginčijo autentiškumą ir laiškus priskyrė Rygos arkivyskupui.
+Gedimino laiškų grupė siejama su 1323 m. Vilniuje datuotais laiškais dominikonams, Mažesniesiems broliams ir pajūrio miestams. Balińskio pasakojime jie yra svarbūs Vilniaus miesto ir Gedimino sostinės paliudijimui, bet kartu pateikiamas Foigto autentiškumo ginčas, laiškus siejęs su Rygos arkivyskupo klastote.
 
 ## Bibliografiniai duomenys
 
@@ -45,118 +52,117 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
 <a id="claim-t-55211"></a>
 - t-001
   global_id: t-55211
-  teiginys: 'Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“.'
+  teiginys: "Gedimino laiškų ordinams ir Hanzos miestams 1323 m. notaro parengtas dokumentas buvo Karaliaučiaus Slaptajame archyve, o Kotzebue juos paskelbė „Prūsijos istorijoje“."
   pagrindžia:
-    - c-001
+    - c-55634
 
 <a id="claim-t-55212"></a>
 - t-002
   global_id: t-55212
-  teiginys: 'Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu.'
+  teiginys: "Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu."
   pagrindžia:
-    - c-002
-    - c-007
+    - c-55635
+    - c-55640
 
 <a id="claim-t-55213"></a>
 - t-003
   global_id: t-55213
-  teiginys: 'Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui.'
+  teiginys: "Foigtas ginčijo Gedimino laiškų autentiškumą ir jų parengimą priskyrė Rygos arkivyskupui."
   pagrindžia:
-    - c-003
-    - c-008
-    - c-009
+    - c-55636
+    - c-55641
+    - c-55642
 
 <a id="claim-t-55214"></a>
 - t-004
   global_id: t-55214
-  teiginys: 'Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė.'
+  teiginys: "Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė."
   pagrindžia:
-    - c-004
+    - c-55637
 
 <a id="claim-t-55215"></a>
 - t-005
   global_id: t-55215
-  teiginys: 'Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis.'
+  teiginys: "Balińskis Gedimino laiškus dėjo į papildymus kartu su lenkišku vertimu ir Foigto pastabomis."
   pagrindžia:
-    - c-005
+    - c-55638
 
 <a id="claim-t-55216"></a>
 - t-006
   global_id: t-55216
-  teiginys: 'Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams.'
+  teiginys: "Gedimino laiškai buvo adresuoti dominikonų ordino vyresniesiems, Mažesniųjų brolių ordinui ir pajūrio miestams."
   pagrindžia:
-    - c-006
+    - c-55639
 
 <a id="claim-t-55217"></a>
 - t-007
   global_id: t-55217
-  teiginys: 'Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų.'
+  teiginys: "Trijuose Gedimino laiškuose buvo įrašytas antspaudo tikrumą ginantis prakeiksmas tiems, kurie juo nepatikėtų."
   pagrindžia:
-    - c-010
+    - c-55643
 
 <a id="claim-t-171537"></a>
 - t-008
   global_id: t-171537
-  teiginys: '„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.'
+  teiginys: "„Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m."
   pagrindžia:
-    - c-013
+    - c-156042
 
 <a id="claim-t-171538"></a>
 - t-009
   global_id: t-171538
-  teiginys: 'Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus.'
+  teiginys: "Gediminas laiškais Vakarų šalims ir miestams kvietė į Lietuvą Vakarų pirklius ir amatininkus."
   pagrindžia:
-    - c-012
+    - c-156041
 
 <a id="claim-t-171539"></a>
 - t-010
   global_id: t-171539
-  teiginys: 'Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu.'
+  teiginys: "Gedimino laiškai laikomi reikšmingiausiu jo politikos atspindžiu."
   pagrindžia:
-    - c-015
+    - c-156044
 
 <a id="claim-t-171541"></a>
 - t-011
   global_id: t-171541
-  teiginys: 'Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą.'
+  teiginys: "Laiškų autorius Mazovijos kunigaikštį vadino Bonislavu, todėl, pasak kritikos, prastai žinojo to meto Mazovijos valdovą."
   pagrindžia:
-    - c-011
+    - c-156040
 
 <a id="claim-t-171542"></a>
 - t-012
   global_id: t-171542
-  teiginys: 'Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex.'
+  teiginys: "Gediminas laiškuose Vakarams vadinosi karaliumi, vartodamas titulą rex."
   pagrindžia:
-    - c-017
+    - c-156046
 
 <a id="claim-t-171544"></a>
 - t-013
   global_id: t-171544
-  teiginys: 'Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams.'
+  teiginys: "Balińskis laikėsi nuomonės, kad Gedimino laiškai buvo Rygos arkivyskupo prasimanyti iš neapykantos kryžiuočiams."
   pagrindžia:
-    - c-016
+    - c-156045
 
 <a id="claim-t-171545"></a>
 - t-014
   global_id: t-171545
-  teiginys: 'Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui.'
+  teiginys: "Balińskis laiškų netikrumą grindė jų turiniu ir posakiais, kurie esą nebūdingi dar tik krikščioniu norinčiam tapti žmogui."
   pagrindžia:
-    - c-014
+    - c-156043
 
 <a id="claim-t-171546"></a>
 - t-015
   global_id: t-171546
-  teiginys: 'Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą.'
+  teiginys: "Gedimino laiškų netikrumo įrodymu laikyta užuomina apie Mazoviją kaip laisvą ir saugų kelią svetimšaliams į Lietuvą."
   pagrindžia:
-    - c-019
+    - c-156048
 
 <a id="claim-t-171547"></a>
 - t-016
   global_id: t-171547
-  teiginys: 'Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą.'
+  teiginys: "Gediminas laiške žadėjo saugoti bažnytines teises, gerbti dvasininkiją ir gausinti Dievo šlovinimą."
   pagrindžia:
-    - c-018
-
+    - c-156047
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -196,6 +202,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     ninkus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -222,6 +229,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     Lietuvos sostinė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -243,6 +251,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     priešininko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -270,6 +279,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     ir šventoves.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -292,6 +302,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     (Žr. Il priedą).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -319,6 +330,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     įsakymais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -343,6 +355,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     nurodyti pranešimai bei įsipareigojimai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -363,6 +376,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     žiuočių Ordinu palankesnį sprendimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -388,6 +402,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     skleisti krikščionių tikėjimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -405,6 +420,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     kus, melagius ir jokios garbės neturinčius žmonės.].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -423,6 +439,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     vas, Mazovijos kunigaikštis]0.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -442,6 +459,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     XIV a. apibūdinama kaip karinė monarchija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -454,6 +472,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -479,6 +498,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     excellentissimum etc.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -506,6 +526,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -527,6 +548,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     teli.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -551,6 +573,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     vadus ar net rusų žemių kunigaikščius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -579,6 +602,7 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     mo nenori priimti, išskyrus tą, kurį jo protėviai paliko].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -600,7 +624,487 @@ Gedimino laiškai – 1323–1324 m. su Gediminu siejama korespondencija dominik
     timšalių atvykimo reikalus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
+## Citatos
+
+- id: c-55634
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    406, pri­
+    simena dar vieną Gedimino dukrą,
+    kuri esą buvusi anuomet garbingo
+    riterio Dovydo, Gardino kašteliono,
+    arba tiksliau kunigaikščio, viešpata­
+    vusio Gardino valdoje, žmona.
+    Il
+    Gedimino laiškuose, rašytuose do­
+    minikonų ir Mažesniųjų brolių, ar­
+    ba pranciškonų, ordinams bei Han­
+    zos miestams, kurių autentiškas
+    1323 metais notaro parengtas doku­
+    mentas yra Karaliaučiaus Slaptaja-
+    -  •  -
+    20
+
+    ## Puslapis 37
+
+    I  KNYGA
+    gumą nuo Rusios ir toli į tą pusę išplėtęs savo valdžią, Vil­
+    nių pasirinko jo valdomų visų kraštų sostine tikriausiai
+    todėl, kad būdamas arčiau sienų su kryžiuočiais turėjo
+    me archyve ir kuriuos Kotzebue
+    išspausdino savo Prūsijos istorijoje.
+    (Žr. Preussens aeltere Geschichte, Band
+    II, p. 353) - atsiskleidžia šio išskirti­
+    nio valdovo pastangų ženklai pada­
+    ryti Lietuvą gausesne gyventojų ir
+    pakelti jos gerovę atkviečiant iš sve­
+    tur įvairiais verslais besiverčiančius
+    amatininkus, žemdirbius ir dvasi­
+    ninkus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55211
+
+- id: c-55635
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    (Žr. Preussens aeltere Geschichte, Band
+    II, p. 353) - atsiskleidžia šio išskirti­
+    nio valdovo pastangų ženklai pada­
+    ryti Lietuvą gausesne gyventojų ir
+    pakelti jos gerovę atkviečiant iš sve­
+    tur įvairiais verslais besiverčiančius
+    amatininkus, žemdirbius ir dvasi­
+    ninkus. Be to, iš jo laiško, rašyto po­
+    piežiui, matyti turėjus norų priimti
+    krikščioniškąjį tikėjimą. Kai kurie tų
+    laiškų rašyti Vilniuje, datuoti 1323
+    metų gegužės 26-ąja diena, kur Ge­
+    diminas aiškiai jį vadina savo kara­
+    liškuoju miestu, yra svarbus liudiji­
+    mas, jog jau egzistavo istorinė
+    Lietuvos sostinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55212
+
+- id: c-55636
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau Foigtas
+    naujausios Prūsijos istorijos (Ge­
+    schichte Preussens. T. IV, p. 627 sq.)
+    autorius, kuris nenorėjo, kaip kad jo
+    pirmtakai, Prūsijos kronikininkai,
+    būti visada nešališkas lietuvių gen­
+    ties istorijos įvykių teisėjas, ginčija
+    tų laiškų autentiškumą, tvirtinda­
+    mas esą buvo parengti ir išsiuntinė­
+    ti Rygos arkivyskupo, kryžiuočių
+    priešininko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55213
+
+- id: c-55637
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    T. IV, p. 627 sq.)
+    autorius, kuris nenorėjo, kaip kad jo
+    pirmtakai, Prūsijos kronikininkai,
+    būti visada nešališkas lietuvių gen­
+    ties istorijos įvykių teisėjas, ginčija
+    tų laiškų autentiškumą, tvirtinda­
+    mas esą buvo parengti ir išsiuntinė­
+    ti Rygos arkivyskupo, kryžiuočių
+    priešininko. Tačiau jo įrodymai, ku­
+    rių negalima būtų pripažinti nesu­
+    griaunamais, iš tiesų kelia kiek abe­
+    jonių, kurios vis dėlto negali
+    nuneigti, kad Vilnius jau buvo mies­
+    tas ir Gedimino sostinė, ir kad mino-
+    ritai, pirmieji mūsų tikėjimo apašta­
+    lai, jau turėjo mieste savo prieglobstį
+    ir šventoves.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55214
+
+- id: c-55638
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Napiers-
+    k i s, išleidęs tik dokumentų rinkinio
+    apie Livoniją, Estiją ir Kuršą Rodyk­
+    lę, yra- gal labiau vertas pripažinimo
+    už daugelį kitų, spausdinančių sa­
+    vo gražbylius samprotavimus, ne
+    kartą istorinę tiesą užtemdžiusius,
+    istorija vadinamus. Apie Gedimino
+    laiškus pasakytina, kad juos įdeda­
+    me į papildymus kartu su vertimu į
+    lenkų kalbą ir Foigto pastabomis.
+    (Žr. Il priedą).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55215
+
+- id: c-55639
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Rašome apie
+    tai Jums, Šventasis Tėve, idant žinotume priežastis, per ku­
+    rias mūsų senoliai paliko šį pasaulį pagoniškoj klaidatiky-
+    bėj." Labai meldžia pagaliau Gediminas popiežių, kad at­
+    sižvelgtų į jo liūdną padėtį ir aiškiai pareiškia: „Esame
+    pasirengę, kaip ir kiti kunigaikščiai krikščionys, visame ka­
+    me klausyti jūsų valios ir priimti krikščioniškąjį tikėjimą,
+    kad tik neturėtume būti budeliams, tai yra Ordino Magist­
+    rui ir riteriams, už ką nors dėkingi"**.
+    Tuo pat metu buvo paskelbti ir kiti laiškai, kuriuos Ge­
+    diminas rašė dominikonų ordino vyresniesiems, būtent į
+    Saksoniją, Mažesniųjų brolių ordinui ir pajūrio miestams -
+    Liubekui, Rostokui, Zundui, Greifsvaldui, Štetinui ir Got-
+    landui, pranešdamas juose, kad kreipėsi į popiežių,
+    prašydamas išsiųsti pas jį pasiuntinius, kad jų nekantrau­
+    damas laukiąs, kad pasiryžęs sutikti su visais popiežiaus
+    įsakymais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55216
+
+- id: c-55640
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų
+    raštą tvirtiname dėdami antspaudą, kokį mes taip pat mū­
+    sų laiške Popiežiui uždėjome, tad pirma geležis į vašką, o
+    vanduo į plieną pavirs, nei mes savo žodį sulaužysime ar
+    atšauksime. Kryžiuočiai tą antspaudą mums panieką reikš­
+    dami į ugnį įmetė, kad sutrukdytų pradėto su Dievo pa­
+    galba sumanymo įgyvendinimą ir žmonėms akis užtem­
+    dytų; jei kas tuo antspaudu nepatikėtų ir jo tikrumą
+    piktžodžiaudami ginčytų, tą mūsų šiais laiškais skelbiame
+    tiesos nedraugu, velnio garbintoju, tikėjimo priešu, bedie­
+    viu, melagiu ir žmogum be garbės"*. Tie laiškai rašyti Vil­
+    niuje, datuoti 1323 metų gegužės 26 su pavedimu, kad juos
+    perskaičius būtų siunčiami toliau ir visur skelbiama juose
+    nurodyti pranešimai bei įsipareigojimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55212
+
+- id: c-55641
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kol kas niekas dar
+    negalėjo miglotos mįslės įminti! Juk suktybės ir melo jukinys
+    buvo taip gerai suregztas, kad pradžioje jo galų niekaip nega­
+    lima buvo aptikti. Tik po daugelio metų buvo atskleista ir visų
+    sužinota, jog ne kas kitas, o nenumaldomas Ordino priešas,
+    Rygos arkivyskupas, laiškus Gedimino vardu slapta buvo pa­
+    rašęs ir pasiuntęs popiežiui, pajūrio miestams ir vienuoliams,
+    idant gudrybe ir melu pasiektų savo tikslą - apjuodintų kry­
+    žiuočius popiežiaus rūmuose ir taip pelnytų savo ginčo su kry­
+    žiuočių Ordinu palankesnį sprendimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55213
+
+- id: c-55642
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Mūsų Prūsijos istorijoje, T. IV, p. 393, jau esame išsakę nuo­
+    monę, jog tiek tas laiškas popiežiui, tiek ir kiti abiems ordi­
+    nams bei Vokietijos miestams, ne tik kad nebuvo paties Ge­
+    dimino, bet nei su jo žinia, nei jo valia parašyti. Rygos
+    arkivyskupas, Gedimino vardu prisidengęs, juos parengė ir
+    išsiuntinėjo į svečias šalis, idant, savo kėslų siekdamas, tuo
+    melu ir klasta apšmeižtų popiežiaus rūmuose Kryžiuočių
+    ordiną ir per tai pelnytų sau palankų popiežiaus sprendimą
+    ginče su kryžiuočiais.
+    Šiuo teiginiu verčia tikėti tokie įrodymai: jeigu: 1) meste­
+    lėsime akį į laiško turinį popiežiui, nieko daugiau nepaste­
+    bėsime, vien tik šmeižtus bei skundus Ordinu, ir visu laišku
+    siekiama pavaizduoti jį didžiausia kliūtimi, trukdančia
+    skleisti krikščionių tikėjimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55213
+
+- id: c-55643
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Po šių paaiškinimų apie antspaudą visuose trijuose
+    laiškuose yra ypatingas prakeiksmas tų, kurie nepatikėtų jį
+    esant tikrai. Contradictores huius sigilli tanquam maliciosos, fi­
+    dei destructores, hereticos, mendaces repudiamus et omni honore
+    privatos in hiis scriptis [Šio antspaudo niekintojus šiuo savo
+    laišku pasmerkiame kaip bjaurius tikėjimo ardytojus, ereti­
+    kus, melagius ir jokios garbės neturinčius žmonės.].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55217
+
+- id: c-156040
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    398 ir 399.
+    Ne tik prieštaringi tokie jų santykiai, bet tas, kuris tuos laiš­
+    kus rašė, klydo įsivaizduodamas Gedimino mąstyseną Ma­
+    zovijos kunigaikščio atžvilgiu ir, matyt, net gerai nežinojo,
+    kas tuo metu buvo Mazovijos kunigaikštis. Savo dviejuose
+    laiškuose jį vadina dominus Bonizlaus dux Masovie [Bonisla-
+    vas, Mazovijos kunigaikštis]0.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171541
+
+- id: c-156041
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    36
+    Lietuvos valdovas Gediminas, titulavęsis Rex Lethowye ir vedęs inten-
+    syvias derybas dėl krikšto, savo laiškais Vakarų šalims ir miestams šalia
+    krikšto kvietė į Lietuvą Vakarų pirklius ir amatininkus. Lietuvos antiizo-
+    liacinės pastangos ilgai nedavė rezultatų, o ordinų karinė agresija ver-
+    tė Lietuvą visą energiją skirti karybai. Todėl kartais Lietuvos santvarka
+    XIV a. apibūdinama kaip karinė monarchija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171538
+
+- id: c-156042
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 263"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 263."
+  citata_originali: |
+    Gedimino laiškai / Parengė V. Pašuta ir J. Stal.—V., 1966.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171537
+
+- id: c-156043
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    To­
+    dėl pagaliau visų įtarinėjančių prakeiksmas žodžiais, kurie
+    galėjo sklisti tik iš lūpų žmogaus, gebančio imtis niekšybės,
+    apgaulės, melo ir turėjusio griebtis panašių būdų tam nu­
+    slėpti.
+    Kiti laiškų netikrumo įrodymai glūdi tiek jų turinyje, tiek
+    posakiuose; ir viena, ir antra visai nebūdingi žmogui, dar
+    tik norinčiam tapti krikščioniu ir tik vėliau privalėsiančiam
+    perprasti krikščionišką mokymą ir išsilavinimą; tai veikiau
+    žodžiai asmens, persiėmusio krikščioniškąja Bažnyčia, grei­
+    tesnio ir kuo platesnio krikščionybės skleidimo troškimu ir
+    popiežiaus garbinimu.
+    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
+    excellentissimum etc.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171545
+
+- id: c-156044
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
+    Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
+    tiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo
+    programą. Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
+    izoliaciją) Gedimino politinis akiratis. Gediminas kūrė stačiatikių metro-
+    poliją, ryžosi krikštytis pats ir įkurti katalikų arkivyskupiją. Šia bažnytine
+    politika jis sugebėjo sudominti popiežių Joną XXII, kuris jau tais laikais
+    kėlė bažnytinės unijos idėją. Jam Gediminas ir siuntė laiškus, kuriuose
+    pareiškė pageidavimą krikštytis: Lietuvos valdovai norį priimti katalikų
+    tikėjimą, bet priversti gintis nuo kryžiuočių, kuriems rūpįs ne krikštas,
+    o valstybės užkariavimas. Gediminas taip pat išsiuntė laiškus Vokietijos
+    miestams bei vienuolijoms, pranešdamas, kad laukia popiežiaus pasiun-
+    tinių tartis dėl krikšto. Jis kvietė į Lietuvą atvykti ir čia įsikurti vokiečių
+    riterius, pirklius, amatininkus, valstiečius, žadėjo jiems tokias pačias vei-
+    klos sąlygas kaip Europoje. Tačiau 1323–1324 m. Gedimino krikšto akcija
+    nepavyko dėl žemaičių ir stačiatikių dvariškių pasipriešinimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171539
+
+- id: c-156045
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    I  KNYGA
+    dux Masovie Vanczko prie 1328 m. aptinkame, o kitose to kraš­
+    to žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­
+    tas ir Traidenis.
+    Nebūtų sunku surinkti daugiau laiškų netikrumo įrody­
+    mų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš
+    tiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­
+    apykantos kryžiuočiams.
+    Baigiant šiuos svarstymus, mums dar viena pastaba ding­
+    teli.
+  citata_rodoma: "aptinkame, o kitose to kraš­\nto žemėse 1325 metais viešpatavo kunigaikščiai - Ziemovi­\ntas ir Traidenis.\nNebūtų sunku surinkti daugiau laiškų netikrumo įrody­\nmų, bet ir šių pakaks patvirtinti nuomonei, kad tie laiškai iš \ntiesų buvo prasimanyti, ir būtent Rygos arkivyskupo, iš ne­\napykantos kryžiuočiams.\nBaigiant šiuos svarstymus, mums dar viena pastaba ding­\nteli."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171544
+
+- id: c-156046
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    LIETUVOS KRIKŠTAS
+    P
+    o Mindaugo nebuvo nė vieno Lietuvos valdovo, kuris
+    nebūtų vedęs derybų dėl krikšto, o kartu dėl karūnaci-
+    jos – tai lėmė karas su Vokiečių ordinais (XIII a. pabaigoje jau ir Vokiečių
+    ordinas, nukariavęs prūsus, pradėjo agresiją prieš Lietuvą). Suvokę, kad
+    būti pakrikštytiems Ordino kainuos pernelyg brangiai, lietuvių valdovai
+    ieškojo naujų krikšto variantų per Čekiją, Vengriją, Lenkiją (stačiatikiškas
+    krikštas nebūtų išsprendęs ordinų agresijos problemos). Antra vertus, visi
+    Lietuvos valdovai vadinosi karaliais (pvz., Gediminas laiškuose Vakarams
+    rex; Algirdas laiškuose Bizantijos imperijai – bazileus). Taip juos vadino
+    Vokiečių ordinų šaltiniai, skirtingai nei kitų genčių, neturinčių valstybių,
+    vadus ar net rusų žemių kunigaikščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171542
+
+- id: c-156047
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ir kai čia jį patrem nostrum gloriosissimum, sanctissimum,
+    excellentissimum etc. [mūsų tėvu garbingiausiu, švenčiausiu,
+    aukščiausiu ir kt.] pavadina, kitais metais liepia popiežiaus
+    pasiuntiniams pasakyti: Papam vestrum nec novi, nec nosse cu­
+    pio [jūsų tėvo nei pažinojau, nei trokštu pažinti]. Laiške žada:
+    96
+
+    ## Puslapis 113
+
+    I  KNYGA
+    et Jūra ecclesiastica protegere, clerum honorare et cultum Dei am­
+    pliare [ir bažnytines teises proteguoti, dvasininkiją gerbti ir
+    Dievo šlovinimą gausinti], vėliau liepia atsakyti: quod ipse
+    per Deorum potentiam iuraverit, quod nunquam aliam legem vel­
+    let assumere, praeter eam, in qua progenitores sui decesserunt [kad
+    pats Dievų galia vykdo teisingumą ir kad jokio kito įstaty­
+    mo nenori priimti, išskyrus tą, kurį jo protėviai paliko].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171547
+
+- id: c-156048
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagaliau kodėl Ge­
+    diminas būtų slėpęs tą priežastį nuo legatų, ypač jei ji būtų
+    susijusi su Ordino riteriais?
+    Trečias ir itin svarbus laiškų netikrumo įrodymas yra
+    užuomina juose apie Mazoviją, kaip apie kraštą, per kurį
+    kviestieji svetimšaliai galį laisvai, saugiai ir be jokių vargi­
+    nančių mokesčių atvykti į Lietuvą ir iš jos grįžti atgal. Taigi
+    tą Mazovijos kunigaikštį reikėtų laikyti buvus Lietuvos val­
+    dovo sąjungininku, sutartinai veikiančiu sprendžiant sve­
+    timšalių atvykimo reikalus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171546

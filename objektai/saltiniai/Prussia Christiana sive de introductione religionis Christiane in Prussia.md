@@ -1,0 +1,85 @@
+---
+tipas: saltinis
+pavadinimas: 'Prussia Christiana sive de introductione religionis Christiane in Prussia'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+datos:
+  - '1738 m.'
+  - '1759 m.'
+date_start: '1738'
+date_end: '1759'
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Prussia Christiana sive de introductione religionis Christiane in Prussia
+
+## Santrauka
+
+„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais.
+
+## Teiginiai
+
+<a id="claim-t-191853"></a>
+- t-001
+  global_id: t-191853
+  teiginys: "„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais."
+  pagrindžia:
+    - c-174735
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: '„Prussia Christiana sive de introductione religionis Christiane in Prussia“ yra Andriaus Soto veikalas, išleistas 1738 metais.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Turimas omenyje žymaus bibliografo Andriaus
+    Soto
+    (Schott;
+    ?—1759)
+    veikalas;
+    Prussia
+    Christiana sive de introductione religionis
+    Christiane in Prussia. 1738.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174735
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 433"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 433."
+  citata_originali: |
+    Turimas omenyje žymaus bibliografo Andriaus
+    Soto
+    (Schott;
+    ?—1759)
+    veikalas;
+    Prussia
+    Christiana sive de introductione religionis
+    Christiane in Prussia. 1738.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191853

@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # seniūnas storasta
 
@@ -30,17 +42,16 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
 <a id="claim-t-36832"></a>
 - t-001
   global_id: t-36832
-  teiginys: '1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai.'
+  teiginys: "1411 m. Vytautas paskyrė seniūną iš Ordino atgautai Žemaitijai."
   pagrindžia:
-    - c-002
+    - c-37953
 
 <a id="claim-t-36834"></a>
 - t-002
   global_id: t-36834
-  teiginys: 'Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta.'
+  teiginys: "Pirmasis lenkų urėdas Lietuvoje vadinosi seniūnu, lenkiškai starosta."
   pagrindžia:
-    - c-001
-
+    - c-37952
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,6 +62,7 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
     jau minėtas vad. „Vilniaus seniūnas“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +79,45 @@ Lietuvoje buvo jau­ čiamas aiškus susiskaldymas, kurio likviduoti neįstengė
     paprastomis jo pajamomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37952
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pirmas lenkų urėdas atsiradęs Lietuvoje vadinosi seniūnu
+    (lenk. starosta). Tai buvo 1386 met. Jogailos Vilniun atsiųstas
+    jau minėtas vad. „Vilniaus seniūnas“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36834
+
+- id: c-37953
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    1411 m. jis
+    pats paskyrė seniūną iš Ordino atgautai Žemaitijai^1 ). Tai buvo
+    bendro valstybės valdymo organas su teismo valdžia ne tik d.
+    kunigaikščio domenuose, bet ir visos apylinkės bajorų ir Baž­
+    nyčios dvaruose. Jis naudojosi visomis vietininko teisėmis ir
+    paprastomis jo pajamomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36832

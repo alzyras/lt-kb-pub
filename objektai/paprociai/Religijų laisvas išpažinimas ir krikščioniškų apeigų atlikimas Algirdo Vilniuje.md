@@ -10,6 +10,18 @@ tags:
   - pilis
   - ritualas
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Religijų laisvas išpažinimas ir krikščioniškų apeigų atlikimas Algirdo Vilniuje
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-87248"></a>
 - t-001
   global_id: t-87248
-  teiginys: 'Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
+  teiginys: "Algirdo Vilniuje laisvai išpažįstamų religijų įvairovė kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų."
   pagrindžia:
-    - c-001
-
+    - c-83227
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +75,32 @@ Nenurodyta
     timu į tikėjimą, pasmerkė save skaudžioms kančioms.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83227
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mikalojaus, ten, kur ji yra ir dabar18; o palei Žemutinę
+    pilį gyveno pranciškonai, turėję dar Gedimino laikais pa­
+    statydintą bažnyčią toje vietoje, kur dabar yra Šventojo Kry­
+    žiaus bažnyčia ir bonifratrų špitolė. Tačiau per tą laisvai iš­
+    pažįstamų religijų įvairovę, palūžusios pagonybės
+    akivaizdoje kildavo didelių piktumų tarp skirtingą tikėjimą
+    išpažįstančiųjų ir jų dvasininkų. Ne kartą jau minoritai, apaš­
+    talavę Lietuvoje, krito kaip savo uolumo auka, o iš jų tarpo
+    pranciškonai, pranašesni savo drąsa ir uoliu žmonių atver­
+    timu į tikėjimą, pasmerkė save skaudžioms kančioms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87248

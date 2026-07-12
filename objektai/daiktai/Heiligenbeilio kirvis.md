@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Heiligenbeilio kirvis
 
@@ -34,16 +46,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189721"></a>
 - t-001
   global_id: t-189721
-  teiginys: 'Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.'
+  teiginys: "Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172604
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas pasakojo, kad Heiligenbeilio kirvis atšoko nuo švento ąžuolo kamieno ir mirtinai sužeidė žmogų, kai vyskupas Anzelmas liepė ąžuolą nukirsti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -62,8 +73,38 @@ Nenurodyta
 
     šventenybės paminklą, laikė atskiroje koplyčioje; iš to kilo ir
     miesto pavadinimas. Tai buvo 1258 metais“ .
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172604
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Sunaikinus Kurko šventyklą, tas ąžuolas dar stovėjo, ir pa­
+    prasti žmonės, nepaisydami Varmijos vyskupo Anzelmo pa­
+    mokslų ir pamokymų, nesiliovė po juo garbinti dievų. Tad, kai
+    vyskupas įsakė ąžuolą nukirsti, atsitiko taip, jog kirvis, atšokęs
+    nuo kamieno, mirtinai sužeidė žmogų, todėl krikščionys ne­
+    bedrįso jo liesti, kol pats vyskupas, paėmęs į rankas kirvį, ne­
+    pradėjo vadovauti kirtimui, tačiau ir šiaip be ugnies nepajėgta
+    susidoroti su ąžuolu. Kaimiečiai tą kirvį, kaip stabmeldiškos
+    237
+
+    ## Puslapis 237
+
+    šventenybės paminklą, laikė atskiroje koplyčioje; iš to kilo ir
+    miesto pavadinimas. Tai buvo 1258 metais“ .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189721

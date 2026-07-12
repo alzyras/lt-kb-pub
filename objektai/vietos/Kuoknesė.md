@@ -22,6 +22,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuoknesė
 
@@ -34,44 +46,51 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-79512"></a>
 - t-001
   global_id: t-79512
-  teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo.'
+  teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Kuoknesę, o 1608 m. rudenį Jonas Karolis Chodkevičius ją išvadavo."
   pagrindžia:
-    - c-002
+    - c-76498
 
 <a id="claim-t-79513"></a>
 - t-002
   global_id: t-79513
-  teiginys: 'Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.'
+  teiginys: "Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė."
   pagrindžia:
-    - c-001
+    - c-76495
 
 <a id="claim-t-79515"></a>
 - t-003
   global_id: t-79515
-  teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
+  teiginys: "1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį."
   pagrindžia:
-    - c-003
+    - c-76499
 
 <a id="claim-t-79516"></a>
 - t-004
   global_id: t-79516
-  teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
+  teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
   pagrindžia:
-    - c-002
+    - c-76498
+
+<a id="claim-t-79516"></a>
+- t-005
+  global_id: t-79516
+  teiginys: "Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį."
+  pagrindžia:
+    - c-76498
 
 <a id="claim-t-183788"></a>
 - t-006
   global_id: t-183788
-  teiginys: 'Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.'
+  teiginys: "Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus."
   pagrindžia:
-    - c-004
+    - c-167176
 
 <a id="claim-t-184997"></a>
 - t-007
   global_id: t-184997
-  teiginys: 'Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę.'
+  teiginys: "Arkivyskupas, nesitikėdamas pergalės kovos lauke, su rinktinių vyrų kariauna pasitraukė į Kuoknesę."
   pagrindžia:
-    - c-005
+    - c-168358
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41213|Švedijos kariuomenė]]: Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, bet joje esanti lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49164|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.
 - susijęs iš [[objektai/ivykiai/Kuoknesės mūšis (1601 m. birželio 23 d.).md#claim-t-49167|Kuoknesės mūšis (1601 m. birželio 23 d.)]]: 1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.
@@ -129,7 +148,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     ir šaudmenis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -153,6 +173,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     išvadavo Kuoknesę ir Viljandį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,6 +197,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,7 +224,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     maistą ir amuniciją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -226,13 +249,139 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     nepalaužė ginklas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
+## Citatos
+
+- id: c-76495
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšio išvakarėse
+
+    1601 m. balandžio 1 d. Švedijos kariuomenė
+    šturmu užėmė Kuoknesės miestą ir apsupo
+    pilį, bet joje esanti lietuvių įgula nepasi-
+    davė. 2500 švedų karių įsitvirtino mieste ir
+    pradėjo pilies apgultį. Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79513
+
+- id: c-76498
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Maža to,
+
+    ms
+
+    laivams iplaukti j Rygos uosta. Per trumpa
+    “| laiką Švedijos kariuomenė užėmė Paidę
+    (Weisenstein), Kuoknesę (Kokenhausen) ir
+    Viljandį (Fellin).
+
+    1608 m. rudenį numalšinus rokošą Len-
+    kijos karalystėje, Jonas Karolis Chodke-
+    vičius grįžo į Livoniją ir per trumpą laiką
+    išvadavo Kuoknesę ir Viljandį.
+  citata_rodoma: "Maža to,\n\nms\n\nlaivams iplaukti j Rygos uosta. Per trumpa\n“| laiką Švedijos kariuomenė užėmė Paidę\n(Weisenstein), Kuoknesę (Kokenhausen) ir\nViljandį (Fellin).\n\n1608 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79512
+    - t-79517
+    - t-79516
+
+- id: c-76499
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1608 m. rudenį numalšinus rokošą Len-
+    kijos karalystėje, Jonas Karolis Chodke-
+    vičius grįžo į Livoniją ir per trumpą laiką
+    išvadavo Kuoknesę ir Viljandį. 1609 m.
+    kovo mėnesį jis pabandė pulti Daugavgryvą
+    ir taip pralaužti Rygos blokadą, bet pa-
+    pildomais įtvirtinimais sustiprinę senąją
+    tvirtovę, Nilsomo Sternskioldomo vado-
+    dinamasis Zebžidovskio rokošas privertė vaujama 250 švedų karių įgula su 29 patran-
+    Joną Karolį Chodkevičių nutraukti karo komis sugebėjo atsilaikyti prieš netikėtą
+    veiksmus Livonijoje ir vykti į Lenkiją padėti lietuvių puolimą. Po nepavykusio puolimo
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79515
+
+- id: c-167176
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ge-
+    gužės 28 d. Lietuvos kariuomenė šį dalinį
+    sumušė ir išsklaidė. Paėmė beveik visus lai-
+    vus, kuriais Dauguvos upe švedai atplukdė
+
+    96 KUOKNESĖS MŪŠIS 1601 m. birželio 23 d.
+
+    L Arialentibas (Souk snjam Lirhuanis (rus (areli Duos
+    SadSijimunds Tereu Pisa S See Regs ac
+
+    newfie
+
+    Kuoknesés mūšis 1601 m. XVIII a. piešta iliustracija
+
+    maistą ir amuniciją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183788
+
+- id: c-168358
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Paleidęs seimą liepos pabaigoje, atvirai užpuolė
+    arkivyskupo valdas ir nelyginant koks priešas smarkiai
+    nusiaubė. Daugybė bajorų stojo už teisybę bei arki­
+    vyskupą, tačiau šis, nesitikėdamas pergalės kovos lau­
+    ke, patraukė su rinktinių vyrų kariauna į Kuoknesę.
+    Ilgai gynėsi apsuptieji tvirtovėje, pastatytoje ant išti­
+    sinės uolos, atremdami vieną po kito visus antpuolius,
+    69 7
+
+    ## Puslapis 696
+
+    vis dėlto galop badas privertė pasiduoti tuos, kurių
+    nepalaužė ginklas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184997
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
-- Apgulė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]
-- Užėmė Kuoknesę: [[objektai/asmenys/Jonas Karolis Chodkevičius]], [[objektai/asmenys/Jonas Karolis Katkevičius]], [[objektai/grupes/Švedijos kariuomenė]]
-- Gynė Kuoknesę: [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Vilhelmas (Rygos arkivyskupas)]]
+- Užėmė Kuoknesę: [[objektai/grupes/Švedijos kariuomenė]]

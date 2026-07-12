@@ -17,6 +17,18 @@ tags:
   - vieta
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Peštvė
 
@@ -29,23 +41,23 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
 <a id="claim-t-32446"></a>
 - t-001
   global_id: t-32446
-  teiginys: 'Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta.'
+  teiginys: "Kryžiuočiai sudegino Peštvės priešpilį Seredžiuje prie Dubysos žiočių, o pati Peštvė du kartus pamečiui buvo apgulta."
   pagrindžia:
-    - c-001
+    - c-33992
 
 <a id="claim-t-32447"></a>
 - t-002
   global_id: t-32447
-  teiginys: 'Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo.'
+  teiginys: "Pasak užrašo, Peštvės įgula pažadėjo apgulusiems kryžiuočiams krikštytis, bet po derybų nakčia išbėgiojo."
   pagrindžia:
-    - c-002
+    - c-33993
 
 <a id="claim-t-32448"></a>
 - t-003
   global_id: t-32448
-  teiginys: 'Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą.'
+  teiginys: "Kryžiuočiai grįždami sudegino Peštvę ir Veliuoną, dvi svarbias lietuvių pilis, ilgai rodžiusias tvirtą atsparumą."
   pagrindžia:
-    - c-003
+    - c-33994
 - susijęs iš [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.).md#claim-t-97019|Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]: 1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.
 - susijęs iš [[objektai/ivykiai/Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.).md#claim-t-97021|Junigėdos ir Peštvės priešpilių sudeginimas (1298 m.)]]: 1298 m. Brandenburgo komtūras su gausiu būriu sudegino Junigėdos ir Peštvės priešpilius.
 - susijęs iš Dubysa: Dubysos žemupyje suverstų medžių užtvara veikiausiai buvo padaryta po Peštvės ir Veliuonos pilių sunaikinimo 1363 m.
@@ -74,6 +86,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     stovie ») sritis^27.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +104,7 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,11 +121,69 @@ Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės (Seredžiuje �
     iki Kauno nebeliko jokio lietuvių gynimosi punkto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Puolė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]
-- Apgulė Peštvę: [[objektai/grupes/Kryžiuočių ordinas]]
+## Citatos
+
+- id: c-33992
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
+    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
+    kalne^25. Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės
+    (Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo
+    apgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­
+    graudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė
+    pasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,
+    nusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­
+    stovie ») sritis^27.
+  citata_rodoma: "Kryžiuočiams tada pasisekė sudeginti priešpilį ir Peštvės\n(Seredžiuje — prie Dubysos žiočių), kuri du kartu pamečiui buvo\napgulta, tuo pat metu Žemaičių pietvakariuose nuteriojant « Po­\ngraudą»^26. Taip pat du kartu (1292, 1294) ordino kariuomenė\npasiekė Nemuno dešiniojo kranto sritis tarp Dubysos ir Nevėžio,\nnusiaubdama Gaižuvos (« Gesovie ») ir prie Vilkijos Pačtuvos (« Pa­\nstovie ») sritis^27."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32446
+
+- id: c-33993
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tuo būdu Nemuno krantuose
+    iki Kauno nebeliko jokio lietuvių gynimosi punkto. Apie Peštvės
+    įgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi
+    krikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po
+    10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)
+    pakeliui į vyr. magistro stovyklą buvo išžudyti^16.
+  citata_rodoma: "Apie Peštvės\nįgulą yra užrašyta, jog ji, apgulusiems kryžiuočiams pasižadėjusi\nkrikštytis, po derybų nakčia išbėgiojusi. Veliuona tepasidavė po\n10 dienų apgulimo, o pilies gynėjai su vadu Goštautu (Gastot)\npakeliui į vyr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32447
+
+- id: c-33994
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Bet kryžiuočiai tuojau pat surengė naują
+    žygį ir dar pilnai neužbaigtą pilį sunaikino. Grįždami jie sudegino
+    dar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai
+    buvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose
+    iki Kauno nebeliko jokio lietuvių gynimosi punkto.
+  citata_rodoma: "Grįždami jie sudegino\ndar dvi svarbias lietuvių pilis — Peštvę ir Veliuoną, kurios ilgai\nbuvo rodžiusios tvirtą atsparumą. Tuo būdu Nemuno krantuose\niki Kauno nebeliko jokio lietuvių gynimosi punkto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32448

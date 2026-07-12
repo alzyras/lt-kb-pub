@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - karas
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šią knygą skaito visas pasaulis
 
@@ -20,10 +32,9 @@ tags:
 <a id="claim-t-36024"></a>
 - t-001
   global_id: t-36024
-  teiginys: 'Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių.'
+  teiginys: "Posakis „Šią knygą skaito visas pasaulis“ vartotas reklamuojant knygą, kurios vertimų buvo išpirkta daugiau kaip milijonas egzempliorių."
   pagrindžia:
-    - c-001
-
+    - c-38396
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,7 +49,30 @@ tags:
     žmonijos širdį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38396
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    4,—.
+    Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­
+    ta su viršum milijonas egz. Šioje knygoje visai tikrai atvaizduotos
+    visos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­
+    kai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku
+    žmonijos širdį.
+  citata_rodoma: "Šią knygą skaito visas pasaulis, jos jau kitomis kalbomis išpirk­\nta su viršum milijonas egz. Šioje knygoje visai tikrai atvaizduotos\nvisos Didžiojo karo baisybės: baisios atakos, nuodingos dujos, tan­\nkai, mirtis, šiurpulingi ir neužmirštami vaizdai, įstrigę į šių laiku\nžmonijos širdį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36024

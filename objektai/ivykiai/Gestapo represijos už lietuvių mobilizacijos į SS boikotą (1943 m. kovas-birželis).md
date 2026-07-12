@@ -14,6 +14,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)
 
@@ -42,17 +54,16 @@ Nenurodyta
 <a id="claim-t-20193"></a>
 - t-001
   global_id: t-20193
-  teiginys: 'Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus.'
+  teiginys: "Keršydamas už boikotą gestapas 1943 m. kovą Lietuvoje suėmė 46 visuomenės veikėjus, išvežė juos į Štuthofą ir uždarė Kauno bei Vilniaus universitetus."
   pagrindžia:
-    - c-001
+    - c-22935
 
 <a id="claim-t-20194"></a>
 - t-002
   global_id: t-20194
-  teiginys: '1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.'
+  teiginys: "1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną."
   pagrindžia:
-    - c-001
-
+    - c-22935
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,8 +84,38 @@ Nenurodyta
     grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-22935
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tai masiškiausia
+    antinacinė organizacija, ji numatė bent dalyje teritorijos paskelbus ne-
+    priklausomybę išlaikyti ją ginklu.
+    1943 m., kai okupacinė vokiečių valdžia, vermachtui pralaimint Rytų
+    fronte, pareikalavo iš okupuotų tautų, tarp jų ir lietuvių, siųsti vyrus į
+    Vokietijos karines pajėgas, pradėjo agituoti lietuvius stoti į SS batalio-
+    ną, lietuvių pogrindis boikotavo akciją (iš visų nacių okupuotų šalių tik
+    Lenkijoje ir Lietuvoje naciams nepavyko suformuoti Waffen SS divizijų).
+    Keršydamas už boikotą gestapas 1943 m. kovo viduryje Lietuvoje suėmė
+    46 žymius visuomenės veikėjus ir išvežė į Štuthofo koncentracijos stovy-
+    klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,
+    suėmė daug pogrindinės spaudos leidėjų ir bendradarbių, LLKS ir LLA
+    grupes, o gegužę–birželį – šešis iš devynių VLIK’o vadovybės narių.
+  citata_rodoma: "klą, uždarė Kauno ir Vilniaus universitetus, mokytojų seminarijas ir kt.,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20193
+    - t-20194

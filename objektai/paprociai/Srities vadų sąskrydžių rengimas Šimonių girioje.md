@@ -13,6 +13,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Srities vadų sąskrydžių rengimas Šimonių girioje
 
@@ -41,17 +53,16 @@ Nenurodyta
 <a id="claim-t-09606"></a>
 - t-001
   global_id: t-09606
-  teiginys: 'Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.'
+  teiginys: "Šimonių girioje būdavo rengiami srities vadų sąskrydžiai."
   pagrindžia:
-    - c-001
+    - c-12355
 
 <a id="claim-t-09607"></a>
 - t-002
   global_id: t-09607
-  teiginys: 'Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.'
+  teiginys: "Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai."
   pagrindžia:
-    - c-001
-
+    - c-12355
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,8 +76,31 @@ Nenurodyta
     rūnas (1947 m. gegužė - 1948 m. spalis) ir
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-12355
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Apygardos teritorijoje, Šimonių girioje,
+    bazavosi srities vadovybė, būdavo ren-
+    giami srities vadų sąskrydžiai. Apygarda
+    leido laikraštį „Partizanų kova“. Algimanto
+    apygardai vadovavo Antanas Slučka-Ša-
+    rūnas (1947 m. gegužė - 1948 m. spalis) ir
+  citata_rodoma: "Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo ren-\ngiami srities vadų sąskrydžiai. Apygarda\nleido laikraštį „Partizanų kova“. Algimanto\napygardai vadovavo Antanas Slučka-Ša-\nrūnas (1947 m. gegužė - 1948 m. spalis) ir"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09607
+    - t-09606

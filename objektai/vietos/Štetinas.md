@@ -9,6 +9,18 @@ tags:
   - miestas
   - popiežius
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Štetinas
 
@@ -21,9 +33,9 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
 <a id="claim-t-174590"></a>
 - t-001
   global_id: t-174590
-  teiginys: 'Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui.'
+  teiginys: "Trys laiškai buvo pasiųsti Hanzos miestams, tarp jų ir Štetinui."
   pagrindžia:
-    - c-001
+    - c-158753
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92956|Du pliki kardai]]: Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.
 - susijęs iš [[objektai/daiktai/Du pliki kardai.md#claim-t-92957|Du pliki kardai]]: Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
@@ -58,10 +70,29 @@ O trys laiškai (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir domin
     buvo parašyti popiežiui.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo siuntimo vieta: [[objektai/grupes/Hanza]]
+## Citatos
+
+- id: c-158753
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vienas tų
+    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
+    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
+    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
+    Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
+    buvo parašyti popiežiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-174590

@@ -15,6 +15,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Partizanų bunkeriai
 
@@ -56,16 +68,16 @@ Nenurodyta
 <a id="claim-t-13459"></a>
 - t-001
   global_id: t-13459
-  teiginys: 'Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose.'
+  teiginys: "Partizanai turėjo prisitaikyti prie gyvenimo miške ir bunkeriuose."
   pagrindžia:
-    - c-001
+    - c-16407
 
 <a id="claim-t-13460"></a>
 - t-002
   global_id: t-13460
-  teiginys: '1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus.'
+  teiginys: "1946 m. birželį–1948 m. lapkritį partizanai sodybose ir prie jų kasė požeminius bunkerius slėptis nuo priešų per šukavimus."
   pagrindžia:
-    - c-002
+    - c-22284
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis (1949 m.).md#claim-t-67009|Šimonių girios apgultis (1949 m.)]]: Didžiausio susirėmimo metu Šimonių girioje susprogdinti aštuoni partizanų bunkeriai, žuvo 33 partizanai, 10 pateko į nelaisvę, o 1949 m. rudenį sunaikinti Algimanto apygardos ir Šarūno rinktinės štabai.
 - susijęs iš [[objektai/ivykiai/Šimonių girios apgultis.md#claim-t-39118|Šimonių girios apgultis]]: Šimonių girioje sovietų kariai susprogdino aštuonis partizanų bunkerius: žuvo 33 partizanai, 10 laisvės kovotojų pateko į nelaisvę.
 - susijęs iš Denionių ežeras: Prie Denionių ežero buvusiame Tarzano bunkeryje buvo suimtas Vladas Karosas-Vilkas.
@@ -87,6 +99,7 @@ Nenurodyta
     mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +119,7 @@ Nenurodyta
     šukavimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -115,5 +129,45 @@ Nenurodyta
 
 Nenurodyta
 
-## Ryšiai
-- Partizanų bunkeriai priklausė [[objektai/vietos/Šimonių giria]]
+## Citatos
+
+- id: c-16407
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Partizanų būriai, pradėję kurtis 1944 m. vasaros pabaigoje, greitai di-
+    dėjo, susidarė jų rinktinės, apygardos, sritys. Partizanai vilkėjo Lietuvos ka-
+    rines uniformas, nors dauguma buvo jauni vyrai, ūkininkų, mažažemių ar
+    bežemių vaikai, netarnavę ginkluotosiose pajėgose. Įstoję į partizanų gretas
+    jie turėjo išmokti kariavimo gudrybių ir prisitaikyti prie sudėtingų gyveni-
+    mo sąlygų miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai.
+  citata_rodoma: "miške ir bunkeriuose, todėl būriuose rengti kariniai mokymai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13459
+
+- id: c-22284
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Iš jų gyventojai suži-
+    nodavo apie partizanų poziciją kolaborantų atžvilgiu, pasaulio politikos
+    naujienas, partizanai parengė poezijos rinkinių, satyrų, prozos kūrinėlių,
+    partizanų maldynų. Spaudą daugiausia platino jaunimas, vien 1947 m. už
+    tai suimta 640 asmenų.
+    Antrame etape (1946 m. birželį–1948 m. lapkritį), kovose netekę apie
+    10 tūkst. vyrų, partizanai sudarė mažus, mobilius būrius, sodybose ir
+    prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per
+    šukavimus.
+  citata_rodoma: "prie jų kasė požeminius bunkerius, kuriuose slėpdavosi nuo priešų per"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13460

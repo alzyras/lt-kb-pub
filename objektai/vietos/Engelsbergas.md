@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Engelsbergas
 
@@ -31,16 +43,23 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
 <a id="claim-t-58546"></a>
 - t-001
   global_id: t-58546
-  teiginys: 'Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai.'
+  teiginys: "Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai."
   pagrindžia:
-    - c-002
+    - c-167537
 
 <a id="claim-t-58547"></a>
 - t-002
   global_id: t-58547
-  teiginys: 'Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo.'
+  teiginys: "Engelsbergas tapatinamas su dabartiniu Pokživnu, esančiu daugiau kaip 8 km į pietryčius nuo Grudziondzo."
   pagrindžia:
-    - c-001
+    - c-59179
+
+<a id="claim-t-58546"></a>
+- t-003
+  global_id: t-58546
+  teiginys: "Kai kurie vienuoliai Engelsbergo pilį siejo su Angelų kalnu, nes, jų teigimu, jos gyventojai gyveno tarsi angelai."
+  pagrindžia:
+    - c-167537
 - susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89444|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Engelsbergo pilį aplankę vienuoliai jos gyventojų gyvenimą prilygino angelų gyvenimui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179122|Kryžiuočių ordinas]]: Baigos ir kitų pilių Ordino broliai laikėsi griežtų vienuoliškų regulų ir dažnai atlikdavo atgailos praktikas.
 - susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
@@ -63,6 +82,7 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
     Mroczko T., Ruch budowlany.., p. 298).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,8 +100,49 @@ Dusburgietis teigia, kad kai kurie vienuoliai, atėję į Engelsbergo pilį248 i
     „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-59179
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    248 Engelsbergas — dab. Pokživnas (Pokżywno, per 8 km į pietryčius nuo Grudziondzo).
+    1222 m. Mazovijos kunigaikštis Konradas perdavė Engelsbergą vyskupui. Kryžiuočių įgula
+    pilyje— nuo 1237 m. Išliko 1278—1339 m. statytos iš akmenų ir plytų pilies griuvėsiai
+    (plačiau žr. Тоерреn M., HCGP, p. 171; SZCh, p. 100—101; Byczko T., Z badań.., p. 153;
+    Mroczko T., Ruch budowlany.., p. 298).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58547
+
+- id: c-167537
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 80"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 80."
+  citata_originali: |
+    Niekad arba beveik niekad netruko čia
+    maldos namuose maldininkų, ir nerastum šiose pilyse tokio kampelio, kur po vakarinių ar
+    rytmetinių pamaldų tas ar kitas brolis neplaktų rykštėmis savo kūno. Kai kurie vienuoliai,
+    atėję į Engelsbergo pilį248 ir ten pamatę, kuo broliai gyvena ir kaip jie gyvena, paklausė,
+    kuo vardu jų pilis. Kai jiems atsakė, jog Engelsbergas, tai yra Angelų kalnas, šie atrėžė:
+    „Tikrai geru vardu pavadinta pilis, nes jos imbuviai gyvena nelyginant angelai“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184152
+    - t-58546

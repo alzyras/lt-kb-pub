@@ -9,6 +9,18 @@ tags:
   - autorius
   - dokumentas
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Koneczny
 
@@ -21,9 +33,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 <a id="claim-t-35455"></a>
 - t-001
   global_id: t-35455
-  teiginys: 'Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.'
+  teiginys: "Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką."
   pagrindžia:
-    - c-001
+    - c-38192
 - susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš F. Koneczny, Jagiełło i Witołd: F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.
@@ -42,7 +54,31 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     autentišką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38192
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kiek vėliau padary­
+    tas jo nuorašas aprašo keturias antspaudas, tarp kurių pirmoje
+    vietoje yra Vytauto: Sigillum Vitowdi ducis in Tracken.
+    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
+    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
+    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
+    autentišką.
+  citata_rodoma: "Dėl šitos sutarties autentiškumo keliama abejonių. Is­\ntorikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;\ntačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip\nautentišką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35455

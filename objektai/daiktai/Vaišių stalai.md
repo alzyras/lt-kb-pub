@@ -5,6 +5,18 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vaišių stalai
 
@@ -39,16 +51,16 @@ Nenurodyta
 <a id="claim-t-55058"></a>
 - t-001
   global_id: t-55058
-  teiginys: 'Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.'
+  teiginys: "Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais."
   pagrindžia:
-    - c-001
+    - c-55724
 
 <a id="claim-t-81865"></a>
 - t-002
   global_id: t-81865
-  teiginys: 'Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių.'
+  teiginys: "Martinas Galas rašė, kad Boleslovo Didžiojo dvare kasdien būdavo parengiama keturiasdešimt pagrindinių stalų, neskaitant mažesnių."
   pagrindžia:
-    - c-002
+    - c-78407
 - susijęs iš [[objektai/daiktai/Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai.md#claim-t-87108|Bibliotekos baldai dailidžių darbo spintos ir marmuro stalai]]: 1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.
 - susijęs iš [[objektai/asmenys/Boleslovas Didysis.md#claim-t-87636|Boleslovas Didysis]]: Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.
 - susijęs iš [[objektai/asmenys/Kazimieras Vežbickis.md#claim-t-87752|Kazimieras Vežbickis]]: 1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.
@@ -61,7 +73,6 @@ Nenurodyta
 - susijęs iš Krokuva: 1399 m. pavasarį Krokuvoje praleidęs Vytautas vykdė plačius pasiruošimus.
 - susijęs iš Liaudanskų mūrinis namas: 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai knygoms gausinti užrašė pajamas iš Liaudanskų mūrinio namo Turgaus gatvėje.
 - susijęs iš Ragainė: Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.
-- susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): 1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,6 +92,7 @@ Nenurodyta
     lindamas dovanasb).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,7 +120,62 @@ Nenurodyta
     giems jo pulkams teikėc).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-55724
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik
+    amžiumi vėliau, Lenkijoje pasuko vienas galingiausių anų lai­
+    kų karalių - Boleslovas Didysis, pramintas Narsiuoju. Jį galime
+    laikyti pirmuoju miestų įkūrėju Lenkijos žemėje, nes iki jo net ir
+    X amžiuje, be retų šen bei ten išsimėčiusių pilių ir gyvenviečių,
+    nematyti pėdsakų, rodančių, jog Lenkijoje būtų buvę gausu mies­
+    tų, kaip pastebima šio karaliaus laikais. Boleslovas dažniausiai
+    gyveno miestuose, savo paties pastatydintuose tam, kad išva­
+    duotų kaimiečius iš priespaudos, kurią paprastai jie turėjo kęsti
+    gyvendami netoli pono rūmų; jis telkė aplinkinius žmones kur­
+    tis miestuose, viliodamas nuolat padengtais vaišių stalais ir da­
+    lindamas dovanasb).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55058
+
+- id: c-78407
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau jam valdant Krušvica, Poznanė ir kiti
+    b)
+    Martini Gaili, Chronicon, ed. stalą kiek tvarkingai, tiek ir garbin-
+    Bandtk. Capit. XIV p. 70. Mensam ve- gai laikydavo, kad kiekvieną pa­
+    ro suam sic ordinate, sic honorifice re- prastą dieną keturiasdešimt pagrin-
+    tinebat, quod omni die privato quadra- dinių stalų, neskaitant mažesnių,
+    ginta mensas principales, exceptis parengti stovėdavo]. Tai, ką sako
+    minoribus, erigi faciebat, etc. [O savo Martinas Callas apie Boleslovą,
+    6
+
+    ## Puslapis 23
+
+    ĮVADAS
+    Didžiosios Lenkijos miestai garsėjo turtų ir gyventojų gausa; jau
+    daugybę narsių karių kartu su aplinkinėmis žemėmis pergalin­
+    giems jo pulkams teikėc).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81865

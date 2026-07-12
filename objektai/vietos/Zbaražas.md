@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zbaražas
 
@@ -17,9 +29,11 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
 <a id="claim-t-185321"></a>
 - t-001
   global_id: t-185321
-  teiginys: 'Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.'
+  teiginys: "Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams."
   pagrindžia:
-    - c-001
+    - c-168682
+- susijęs iš Mažoji Rosė (Roska): Mažoji Rosė, Narbuto vadinama ir Roska, prasideda kairiojoje Supo pakrantėje greta Kučincų kaimo.
+- susijęs iš Mažoji Rosė (Roska): Roska prie Rošovsko kaimo iš dešiniojo kranto įteka į Rosę, kuri drauge su Supo upe sudaro į Dneprą plaukiančių upių baseiną.
 - susijęs iš Višniovecas: Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.
 ## Reikšmingi paminėjimai
 
@@ -42,7 +56,36 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
     valdovų šlove.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168682
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 341"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 341."
+  citata_originali: |
+    Pasitenkinęs
+    šiomis didelėmis valdomis, liovėsi reikalavęs Seversko.
+    Išgarsėjęs daugybe žygių, jis
+    Iš jo  v e d a  s a v o  k ilm ę
+    įkūrė Zbaražo ir Višnioveco
+    V iš n io v e c o  k u n igaik-
+    miestus. Nuo tų miestų gavo
+    ščiai
+    vardą Kaributų kilmės Zba-
+    ražskių bei Višnioveckių ku­
+    nigaikščiai, Dimitro palikuonys, kurie ligi mūsų die­
+    nų nei Lenkijoje, nei Lietuvoje niekam nenusileidžia
+    valdovų šlove.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185321

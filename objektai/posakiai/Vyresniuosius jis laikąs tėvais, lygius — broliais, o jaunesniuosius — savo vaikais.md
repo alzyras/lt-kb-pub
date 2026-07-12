@@ -12,6 +12,18 @@ atnaujinta: ''
 tags:
   - popiežius
   - posakis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vyresniuosius jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vaikais
 
@@ -28,10 +40,9 @@ tags:
 <a id="claim-t-06884"></a>
 - t-001
   global_id: t-06884
-  teiginys: 'Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais.'
+  teiginys: "Gediminas laiške aiškino norą būti paklusniu popiežiaus sūnumi ir teigė vyresniuosius laikąs tėvais, lygius broliais, o jaunesniuosius savo vaikais."
   pagrindžia:
-    - c-001
-
+    - c-00375
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +60,33 @@ tags:
     kais.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-00375
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Rusiškosios sritys pagrasino, kad jo nebeklau-
+    sysiančios, o žemaičiai žadėjo net susidėti su ordinu ir iš-
+    naikinti visą Gedimino giminę, jeigu jis krikštytųsi. Todėl
+    Gediminas pareiškė delegatams, kad jis nė nežadėjęs krikštytis:
+    jis tik norėjęs taikos su krikščionimis, kad kiekvienam būtų
+    galima saviškai garbinti Dievą; jis savo valstybėje nedraudžiąs
+    krikščionių tikėjimo. Laiške jis pareiškęs norą būti paklusniu po-
+    piežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius
+    jis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-
+    kais.
+  citata_rodoma: "Laiške jis pareiškęs norą būti paklusniu po-\npiežiaus sūnum, nes popiežius esąs už jį vyresnis; vyresniuosius\njis laikąs tėvais, lygius — broliais, o jaunesniuosius — savo vai-\nkais."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-06884

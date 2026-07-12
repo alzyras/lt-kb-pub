@@ -7,8 +7,21 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karas
+  - socialinė-praktika
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pragaras
 
@@ -21,14 +34,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-188963"></a>
 - t-001
   global_id: t-188963
-  teiginys: 'Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.'
+  teiginys: "Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171852
 - susijęs iš [[objektai/asmenys/Mnelea ir Rolandas.md#claim-t-190186|Mnelea ir Rolandas]]: Narbutas rašo, kad Mnelea ir Rolandas Katarus aiškino kaip tris pragaro arba mirusiųjų dievus.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190284|Tadas Volianskis]]: Narbutas rašė, kad Tadas Volianskis Santvaro atvaizde matė ragus ir dėl nuogumo laikė jį pragaro dievybe.
 - susijęs iš [[objektai/grupes/Senovės egiptiečiai.md#claim-t-189417|Senovės egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su į pragarą pagrobtos deivės dukterimi.
@@ -36,8 +48,10 @@ Nenurodyta
 - susijęs iš [[objektai/zodynas/Nijolė Nijota Nijoliškos palaikos.md#claim-t-189164|Nijolė Nijota Nijoliškos palaikos]]: Narbutas Nijolę, dar vadintą Nijota, pristato kaip pragaro karalienę, Pokliaus žmoną ir Krūminės dukterį.
 - susijęs iš [[objektai/asmenys/Gregoravičius.md#claim-t-190096|Gregoravičius]]: Narbuto cituojamame kūrinio pavadinime 1749 m. birželio 8 d. Vilniaus gaisras kildinamas iš pono Gregoravičiaus dvarelio Subačiaus priemiestyje.
 - susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-189987|Tadas Volianskis]]: Narbutas rašo, kad Tadas Volianskis Santvaro atvaizde matė galvą su ragais, iš užpakalio panašiais į erelį su nagais.
+- susijęs iš [[objektai/asmenys/Tadas Volianskis.md#claim-t-190981|Tadas Volianskis]]: Tadas Volianskis figūroje įžvelgė galvą su ragais, kurie iš užpakalio jam buvo panašūs į erelį su nagais.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190291|Konstantinas Sirvydas (kunigas)]]: Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.
 - susijęs iš [[objektai/autoriai/Ksaveras Bogušas.md#claim-t-188438|Ksaveras Bogušas (kunigas, XIX a.)]]: Narbutas išnašoje nurodo kunigo Ksavero Bogušo studiją apie lietuvių tautos ir kalbos kilmę kaip šaltinį lietuviškiems žemdirbystės žodžiams.
+- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190803|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis statulėlės galvoje matė ragus, iš užpakalio panašius į erelį su nagais.
 - susijęs iš [[objektai/daiktai/Moliniai indai požemio dievų aukai.md#claim-t-189733|Moliniai indai požemio dievų aukai]]: Narbutas rašė, kad aukojant požemio dievams apeigiškai užkasdavo aukojamus dalykus ir sudaužytus molinius indus.
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-188175|Egiptiečiai]]: Narbutas rašė, kad egiptiečiai, finikiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.
 - susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-188181|Finikiečiai]]: Narbutas rašė, kad finikiečiai, egiptiečiai, graikai ir romėnai pasakojo apie Plutono vedybas su pagrobtos deivės dukterimi.
@@ -52,6 +66,7 @@ Nenurodyta
 - susijęs iš Užupis: Narbuto cituojamame kūrinio pavadinime 1748 m. birželio 11 d. Vilniaus gaisras priskirtas Rubino kaltei ir alaus daryklai Užupyje.
 - susijęs iš [[objektai/zodynas/Priesaika.md#claim-t-189174|Priesaika]]: Narbutas priesaiką priskyrė aukoms, nes ją aiškino kaip geranorišką savo paties sąžinės auką.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas Pragarą aiškina kaip lietuvišką peklos pavadinimą, siejamą su kankinimu ugnimi ir lietuvių kančių vaizdiniais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -69,8 +84,38 @@ Nenurodyta
     tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
     rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
     bulumą, būtiną amžinajam gyvenimui.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171852
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 389"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 389."
+  citata_originali: |
+    Vienas liaudies padavimas sa­
+    ko, kad palaimintojo vėlė po mirties gaunanti šimtą juslių,
+    kurių kiekviena leidžia pasitenkinti šimtu naujų malonumų.
+    Pekla lietuviškai turi originalų pavadinimą Pragaras; tai su­
+    siję su kankinimu ugnimi; taigi, jei šis žodis priklausė stab­
+    meldystės filosofijai, galime daryti išvadą, kad lietuviai turė­
+    jo kančių įvaizdį.
+    Sielos persikėlimą, arba metempsichozę, lietuviai suprato
+    taip, kad, jų manymu, vaiko arba žmogaus, nesulaukusio pil­
+    nametystės, taip pat bepročio vėlė po mirties tol klajojanti aukš­
+    tutinėje vėjų sferoje, kol vėl grįžtanti į kito žmogaus kūną, ku­
+    rį privalanti atgaivinti, o gyvendama jame, privalo pasiekti to­
+    bulumą, būtiną amžinajam gyvenimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188963

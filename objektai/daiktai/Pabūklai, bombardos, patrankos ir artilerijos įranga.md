@@ -16,6 +16,18 @@ tags:
   - ordinas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pabūklai, bombardos, patrankos ir artilerijos įranga
 
@@ -48,31 +60,30 @@ Nenurodyta
 <a id="claim-t-86996"></a>
 - t-001
   global_id: t-86996
-  teiginys: 'Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos.'
+  teiginys: "Długoszo tekste minima pieva, kurioje buvo sustatytos prūsų bombardos."
   pagrindžia:
-    - c-003
+    - c-82977
 
 <a id="claim-t-86997"></a>
 - t-002
   global_id: t-86997
-  teiginys: 'Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius.'
+  teiginys: "Patrankų padariniai kartu su anglų lankininkų veiksmais lėmė didelius Lietuvos patirtus smūgius."
   pagrindžia:
-    - c-004
+    - c-82978
 
 <a id="claim-t-86998"></a>
 - t-003
   global_id: t-86998
-  teiginys: 'Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus.'
+  teiginys: "Puolant Vilniaus Aukštutinę pilį, artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į mūrus."
   pagrindžia:
-    - c-001
+    - c-82975
 
 <a id="claim-t-86999"></a>
 - t-004
   global_id: t-86999
-  teiginys: '1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti.'
+  teiginys: "1383 m. puolant Trakų pilį, jos mūrai buvo sugriauti bombardomis, o įgula priversta pasiduoti."
   pagrindžia:
-    - c-002
-
+    - c-82976
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -87,6 +98,7 @@ Nenurodyta
     vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,6 +118,7 @@ Nenurodyta
     versta pasiduoti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,6 +139,7 @@ Nenurodyta
     conueniebat conditioni cruciavit.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,7 +170,100 @@ Nenurodyta
     vo likimą31.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82975
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Netrukus sąjungininkai puolė miestą. Vytautas su žemai­
+    čiais, šalimais Derbio kunigaikštis ir anglų pėstininkai ko­
+    vėsi su Karigaila, o vokiečiai, pasiskirstę į dvi - Livonijos ir
+    Prūsijos - stovyklas, priartėjo prie Aukštutinės pilies mūro
+    sienų. Visos tuometinės artilerijos karo mašinos ir ugnias-
+    vaidės bombardos ėmė be paliovos ir pašėlusiai šaudyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86998
+
+- id: c-82976
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86999
+
+- id: c-82977
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tatai yra tiesiog pažodinis D1 u-
+    g o š o, Lib. X, p. 129 vertimas. Vitol-
+    dus in duellando captum (Narimun-
+    dum) et in arbore Wiqz per pedes in pra-
+    to in quo bombardae pruthenicae
+    constiterant, suspensum, sagittis Litu-
+    cinorum, Tartarorum et Ruthenorum in
+    cum jactis, crudelius quam utriusque
+    conueniebat conditioni cruciavit.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86996
+
+- id: c-82978
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto visi
+    pasistengta rasti kelis išdavikus, ku- kryžiuočių raštai ir jų kronikininkų
+    rie per priešo puolimą sviedė deglą, pasakojimai užginčija buvus įšda-
+    Tokiu būdu paimta pilis ir nužudv- vvstę. Arkikomtūro laiškas Romos
+    - •
+    123
+
+    ## Puslapis 140
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Patrankų, apie kurias neseniai buvo sužinota, baisūs pa­
+    dariniai bei anglų lankininkų narsa ir sumanumas, mūšiuose
+    įgauti, lėmė Lietuvos patirtus didžiausius smūgius30. Siaubo
+    pagautų žmonių kamšatis ir visur umaru besibraunantis, įsi-
+    šėliojęs priešas atėmė iš vadų paskutinę galimybę išsigelbė­
+    ti; netgi pats vyriausiasis vadas kunigaikštis Karigaila, į Aukš­
+    tutinę pilį bėgęs gelbėtis, priešo užpultas ir neatpažintas, krito
+    mūšio lauke nukautas, ilgam palikęs visus nežinioje apie sa­
+    vo likimą31.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86997

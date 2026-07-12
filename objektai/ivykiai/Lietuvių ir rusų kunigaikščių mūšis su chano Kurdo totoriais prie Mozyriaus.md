@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių ir rusų kunigaikščių mūšis su chano Kurdo totoriais prie Mozyriaus (mūšis, XIV a.)
 
@@ -46,31 +58,30 @@ Nenurodyta
 <a id="claim-t-186687"></a>
 - t-001
   global_id: t-186687
-  teiginys: 'Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.'
+  teiginys: "Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo."
   pagrindžia:
-    - c-001
+    - c-169927
 
 <a id="claim-t-186688"></a>
 - t-002
   global_id: t-186688
-  teiginys: 'Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu.'
+  teiginys: "Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu."
   pagrindžia:
-    - c-002
+    - c-169928
 
 <a id="claim-t-186689"></a>
 - t-003
   global_id: t-186689
-  teiginys: 'Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi.'
+  teiginys: "Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi."
   pagrindžia:
-    - c-001
+    - c-169927
 
 <a id="claim-t-186690"></a>
 - t-004
   global_id: t-186690
-  teiginys: 'Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas.'
+  teiginys: "Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas."
   pagrindžia:
-    - c-002
-
+    - c-169928
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -85,6 +96,7 @@ Nenurodyta
     “ Okunlovkos upėvardis yra išnykęs.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,8 +113,52 @@ Nenurodyta
     paremtas kokiu nors vretos padavimu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-002
+
+## Citatos
+
+- id: c-169927
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    *  Kijevo kunigaikštis Svetoslavas kituose šaltiniuose nepallu-
+    dytas
+    s Tiksli M ozyriaus prijungimo prie LDK data ir aplinkybės
+    nežinomos. Neabejotinai buvo Lietuvos įtakoje XIV a antrajam e
+    ketvirtyje, valdant Gediminui. Galutinai prijungtas Algirdo XIV a.
+    viduryje,
+    “ Okunlovkos upėvardis yra išnykęs.
+  citata_rodoma: "s Tiksli M ozyriaus prijungimo prie LDK data ir aplinkybės \nnežinomos. Neabejotinai buvo Lietuvos įtakoje XIV a antrajam e \nketvirtyje, valdant Gediminui. Galutinai prijungtas Algirdo XIV a. \nviduryje,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186689
+    - t-186687
+
+- id: c-169928
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 198"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 198."
+  citata_originali: |
+    Tuo vardu, matyt, buvo
+    vadinamas kuris nors Pripetės žemupio Intakas.
+    '  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano
+    Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti
+    paremtas kokiu nors vretos padavimu.
+  citata_rodoma: "'  Pasakojimas apie lietuvių Ir rusų kunigaikščių mūšj su chano \nKurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas. Gali būti \nparemtas kokiu nors vretos padavimu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186690
+    - t-186688

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - autorius
   - bajorija
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kraševskis
 
@@ -20,21 +32,28 @@ tags:
 <a id="claim-t-01084"></a>
 - t-001
   global_id: t-01084
-  teiginys: 'Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos.'
+  teiginys: "Kraševskis buvo universiteto auklėtinis, pasižymėjęs lenkų romantinėje literatūroje, kuri temas ėmė iš Lietuvos istorijos."
   pagrindžia:
-    - c-001
+    - c-01322
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63665|J. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87432|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis savo Vilniaus istorijoje panaudojo archyvinę medžiagą, kronikas ir metraščius.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87433|Juozapas Ignas Kraševskis]]: Juozapas Ignas Kraševskis beveik tuo pat metu kaip M. Balinskis rašė savo Vilniaus miesto istoriją.
 - susijęs iš [[objektai/asmenys/Juozapas Ignas Kraševskis.md#claim-t-87434|Juozapas Ignas Kraševskis]]: Juozapo Igno Kraševskio darbai laikyti senosios Vilniaus istoriografijos pagrindo dalimi.
 - susijęs iš [[objektai/asmenys/Juozapas Ignotas Kraševskis.md#claim-t-190034|Juozapas Ignotas Kraševskis]]: Juozapui Ignotui Kraševskiui priskirta antroji didelė recenzija apie T. Narbuto „Lietuvių mitologiją“, paskelbta „Tygodnik Petersburski“.
+- susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-190901|Juzefas Ignacas Kraševskis]]: Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius.
 - susijęs iš [[objektai/asmenys/Juzefas Ignacas Kraševskis.md#claim-t-63788|Juzefas Ignacas Kraševskis]]: Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
 - susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
 - susijęs iš [[objektai/autoriai/J. I. Kraševskis.md#claim-t-78087|J. I. Kraševskis]]: J. I. Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.
+- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190746|Juozapas Ignacas Kraševskis]]: Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.
+- susijęs iš [[objektai/autoriai/Juozapas Ignacas Kraševskis.md#claim-t-190747|Juozapas Ignacas Kraševskis]]: Narbutui priskiriamame spėjime Kraševskio recenzija siejama su šaltais T. Narbuto ir J. I. Kraševskio santykiais.
+- susijęs iš [[objektai/autoriai/Juozapas Ignas Kraševskis.md#claim-t-191675|Juozapas Ignas Kraševskis]]: Juozapas Ignotas Kraševskis parašė antrąją didelę T. Narbuto „Lietuvių mitologijos“ recenziją, išspausdintą „Tygodnik Petersburski“.
+- susijęs iš [[objektai/ivykiai/J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.).md#claim-t-192046|J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.)]]: Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus.
 - susijęs iš J. I. Kraševskio Vilniaus miesto istorija: J. I. Kraševskio 1840–1842 m. išleista Vilniaus miesto istorija chronologiškai nušvietė miesto raidą iki 1750 m.
 - susijęs iš Pasivaikščiojimai po Vilnių ir jo apylinkes: Kirkoras „Pasivaikščiojimuose po Vilnių ir jo apylinkes“ rėmėsi Kraševskio ir Balinskio veikalais apie Vilnių.
 - susijęs iš Vilniaus miesto istorija nuo seniausių laikų iki Spalio revoliucijos: 1968 m. „Vilniaus miesto istorijos“ autoriai J. I. Kraševskio ir M. Balinskio darbus laikė senosios Vilniaus istoriografijos pagrindu.
+- susijęs iš [[objektai/ivykiai/Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija.md#claim-t-192045|Antrojo „Lietuvių tautos istorijos“ tomo recepcija ir neįvykusi J. I. Kraševskio recenzija]]: 1837–1838 m. J. I. Kraševskis „Tygodnik Petersburski“ pažadėjo atsiųsti Narbuto „Istorijos“ antro tomo kritiką, kai tik tomas jį pasieks.
+- susijęs iš [[objektai/ivykiai/J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.).md#claim-t-192046|J. I. Kraševskio straipsnio „Apie Lietuvos istoriją“ publikacija (1838 m.)]]: Griškaitės vertinimu, J. I. Kraševskio straipsnyje T. Narbutas nebuvo įvardytas, nors Kraševskis jau turėjo antrą ir trečią LTI tomus.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188635|Teodoras Narbutas]]: Oficialios recenzijos į Teodoro Narbuto „Lietuvių mitologiją“ pasirodė 1835 ir 1836 metais.
 - susijęs iš [[objektai/autoriai/Anoniminis „Lietuvių mitologijos“ recenzentas.md#claim-t-190309|Anoniminis „Lietuvių mitologijos“ recenzentas]]: Leidinio įvade anoniminė 1835 m. recenzija vadinama bene reikšmingiausia ir ypač didelės, 25 puslapių, apimties recenzija.
 - susijęs iš [[objektai/ivykiai/Pirmosios oficialios recenzijos į T. Narbuto „Lietuvių mitologiją“.md#claim-t-189609|Pirmosios oficialios recenzijos į T. Narbuto „Lietuvių mitologiją“]]: Pirmosios oficialios reakcijos į T. Narbuto „Lietuvių mitologiją“ buvo dvi 1835-1836 m. paskelbtos didelės recenzijos.
@@ -61,7 +80,31 @@ tags:
     iš liaudies tarpo kilusią lietuviškąją inteligentiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-01322
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Universitetui sukėlus susidomėjimą Lietuvos senove, iš-
+    kilo gausi lenkų romantiškoji literatūra, kuri beveik visas temas
+    ėmė iš Lietuvos istorijos. Čia ypač pasižymėjo universiteto
+    auklėtiniai Mickevičius, Kraševskis, Kondratavičius ir daugelis
+    kitų. Jų tad raštai, išidealizavę Lietuvos senovę, išauklėjo Lie-
+    tuvos bajoriją, kuri, ir lenkiškai kalbėdama, gerbė ir mylėjo
+    savo tėvynę Lietuvą, o save laikė tik lenkiškos kultūros lietu-
+    viais. Iš antros pusės, tie patys raštai kiek vėliau labai paveikė
+    iš liaudies tarpo kilusią lietuviškąją inteligentiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01084

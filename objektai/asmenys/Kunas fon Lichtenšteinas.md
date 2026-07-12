@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kunas fon Lichtenšteinas
 
@@ -20,10 +32,16 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
 <a id="claim-t-40298"></a>
 - t-001
   global_id: t-40298
-  teiginys: 'Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui.'
+  teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
   pagrindžia:
-    - c-001
+    - c-167138
 
+<a id="claim-t-40298"></a>
+- t-002
+  global_id: t-40298
+  teiginys: "Didysis komtūras Kunas fon Lichtenšteinas mūšio lauke vadovavo dešiniajam kariuomenės sparnui."
+  pagrindžia:
+    - c-167138
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,8 +67,41 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
     Pentinas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-167138
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kronikoje pavaizduoti žymesni mūšiai, kuriuose dalyvavo šveicarų samdiniai
+
+    palijus, sudrėko parakas, todėl patrankų
+    vaidmuo mūšyje buvo menkas.
+
+    Kariuomenei išsirikiavus mūšio lauke,
+    kairiajam sparnui vadovavo didysis mar-
+    šalas Frydrichas fon Valenrodas, deši-
+    niajam - didysis komtūras Kunas fon
+    Lichtenšteinas.
+
+    Vytautas
+
+    Vytauto - talentingo politiko ir karve-
+    džio charakteris formavosi sudėtingomis
+
+    Pentinas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183750
+    - t-40298

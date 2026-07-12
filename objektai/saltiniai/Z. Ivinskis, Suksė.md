@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Z. Ivinskis, Suksė
 
@@ -27,10 +39,9 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
 <a id="claim-t-30131"></a>
 - t-001
   global_id: t-30131
-  teiginys: 'Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje.'
+  teiginys: "Z. Ivinskio „Suksė“ 1963 m. nurodyta „Lietuvių enciklopedijos“ XXIX tome, 179 puslapyje."
   pagrindžia:
-    - c-001
-
+    - c-30036
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,26 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
     491 ; Z. Ivinskis, Suksė , LE XXIX, 1963, 179.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-30036
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    220c LReim 8108. Plg. P. Johansen, Eine Riga-Wisby-Urkunde des 13.
+    Jahrhunderts , Zeitschr. des Vereins für Lübekische Geschichte und Altertums­
+    kunde 38, 1958, 99-107. Žiūr. Z. Ivinskis, Nalšia , LE XIX, 1959, 490-
+    491 ; Z. Ivinskis, Suksė , LE XXIX, 1963, 179.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30131

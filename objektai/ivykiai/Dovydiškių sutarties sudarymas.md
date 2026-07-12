@@ -15,6 +15,18 @@ tags:
   - sutartis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dovydiškių sutarties sudarymas
 
@@ -46,37 +58,37 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
 <a id="claim-t-12402"></a>
 - t-001
   global_id: t-12402
-  teiginys: 'Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų.'
+  teiginys: "Vytautas dalyvavo medžioklėje, bet slaptos sutarties sudarymo nepajuto; jo dalyvavimu Jogaila prisidengė nuo Kęstučio įtarimų."
   pagrindžia:
-    - c-001
+    - c-14177
 
 <a id="claim-t-66523"></a>
 - t-002
   global_id: t-66523
-  teiginys: 'Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos.'
+  teiginys: "Ivinskis pabrėžia, kad Dovydiškių sutartis palieka svarbių neatsakytų klausimų dėl Vytauto žinojimo ir Jogailos laikysenos."
   pagrindžia:
-    - c-002
+    - c-66735
 
 <a id="claim-t-66524"></a>
 - t-003
   global_id: t-66524
-  teiginys: '1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino.'
+  teiginys: "1380 m. gegužės 31 d. Jogaila slapta sudarė Dovydiškių sutartį su kryžiuočiais medžioklės metu, turbūt arti Gardino."
   pagrindžia:
-    - c-003
+    - c-66736
 
 <a id="claim-t-66525"></a>
 - t-004
   global_id: t-66525
-  teiginys: '1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje.'
+  teiginys: "1380 m. Jogaila slapta, be Kęstučio žinios, sudarė Dovydiškių sutartį su ordinu tam surengtoje medžioklėje."
   pagrindžia:
-    - c-004
+    - c-66737
 
 <a id="claim-t-66526"></a>
 - t-005
   global_id: t-66526
-  teiginys: 'Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams.'
+  teiginys: "Dovydiškių sutartimi Kęstučio žemės buvo išskirtos ir paliktos tolesniems ordino naikinimams."
   pagrindžia:
-    - c-005
+    - c-66738
 - susijęs iš [[objektai/ivykiai/Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.).md#claim-t-54161|Dovydiškių sutarties sudarymas (1380 m. gegužės 31 d.)]]: Dovydiškių sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir paliktos tolesniems naikinimams.
 - susijęs iš Gardinas: Dovydiškių sutartis 1380 m. gegužės 31 d. slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino.
 - susijęs iš Gardinas: Dovydiškių sutartis buvo slapta surašyta medžioklės metu Dovydiškėse, turbūt arti Gardino, 1380 m. gegužės 31 d.
@@ -92,6 +104,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     dengti nuo visų Kęstučio įtarimų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,7 +123,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     tynes. Šituo slaptu dokumentu Lietuvoje tarp kunigaikščių buvo
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -127,7 +141,8 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     Gardino (1380.V.31).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: interpretacija
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -143,6 +158,7 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     dinama Dovydiškių sutartimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -158,7 +174,102 @@ Sutartis buvo nukreipta prieš Kęstutį ir jo vaikus.
     paliktos naikinimams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-14177
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kad susitarimas neišeitų aikštėn, reikia taip da­
+    ryti, tartum belaisviai būtų išperkami už pinigus. Nors Vytau­
+    tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­
+    rymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­
+    dengti nuo visų Kęstučio įtarimų.
+  citata_rodoma: "tas ir dalyvavo medžioklėje, bet šitos slaptos sutarties suda­\nrymo nepajuto. Jo dalyvavimu, be abejo, Jogaila norėjo prisi­\ndengti nuo visų Kęstučio įtarimų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12402
+
+- id: c-66735
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Dovydiškių sutartis palieka svarbių neatsakytų klausimų. Jeigu
+    Vytautas žinojo, kas buvo dokumente surašyta, tad ir jis drauge
+    su pusbroliu senelį Kęstutį apgaudinėjo. Sutartyje, pvz., yra punk­
+    tas, jog per klaidą Jogailos žemėse paimti belaisviai turi būti grą­
+    žinami, bet tai atliekama tokiu būdu, lyg jie butų išperkami. Su­
+    tartis neturėjo skaitytis sulaužyta, jei, ordinui užpuolus Kęstučio
+    žemes, Jogaila atvyktų su kariuomene. Tik jis turi nestoti į kau­
+    tynes. Šituo slaptu dokumentu Lietuvoje tarp kunigaikščių buvo
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66523
+
+- id: c-66736
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Savo sunkią padėtį Jogaila stengėsi lengvinti trimis naujomis
+    sutartimis. Tęsdamas tėvo prieš Maskvą nukreiptą politiką, jis su­
+    darė sąjungą su chanu Mamajumi ir su Riazanės kunigaikščiu
+    Olegu Jonaičiu. Svarbesnė buvo jo nauja taikos sutartis su kry­
+    žiuočiais — per 8 mėnesius iš eilės jau trečias dokumentas. Jis
+    buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti
+    Gardino (1380.V.31).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66524
+
+- id: c-66737
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bet tais pačiais (1380) metais Jogaila padarė naują
+    sutartį su visu ordinu. Ji buvo padaryta slaptai, be Kęstučio ži-
+    nios. Kad šis nieko nesuprastų, ji buvo pasirašyta tyčia tam
+    reikalui suruoštoje medžioklėje; nuo pasirašymo vietos ji va-
+    dinama Dovydiškių sutartimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66525
+
+- id: c-66738
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Veikliojo magistro Kniprodės išvystytoji sutarčių politika su
+    pagonimis, su kuriais kryžiuočiai dešimtmečiais tik kardo smūgiais
+    tebuvo kalbėjęsi, žadėjo pasisekimų, juo labiau, kad Dovydiškių
+    sutartimi pagoniškosios Kęstučio žemės buvo išskirtos ir toliau
+    paliktos naikinimams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66526

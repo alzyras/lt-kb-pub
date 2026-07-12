@@ -19,6 +19,18 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas
 
@@ -31,16 +43,16 @@ periodo_grupes:
 <a id="claim-t-87673"></a>
 - t-001
   global_id: t-87673
-  teiginys: 'Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste.'
+  teiginys: "Kardinolas Fridrichas su karaliene Elžbieta ir jos vaikais iškart po Velykų atvyko į Vilnių ir sukėlė džiaugsmą pilyje bei mieste."
   pagrindžia:
-    - c-001
+    - c-83652
 
 <a id="claim-t-184698"></a>
 - t-002
   global_id: t-184698
-  teiginys: 'Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo.'
+  teiginys: "Fridrichas, rugijų karaliaus Feletėjo sūnus, buvo išvytas po rugijų pralaimėjimo."
   pagrindžia:
-    - c-002
+    - c-168059
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54964|Fridrichas (Rygos arkivyskupas)]]: Kryžiuočių aplinkoje Rygos arkivyskupas Fridrichas buvo siejamas su Gedimino veikimu Livonijoje prieš Ordiną.
@@ -124,6 +136,7 @@ periodo_grupes:
     buvo nutraukta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,10 +166,69 @@ periodo_grupes:
     atviroje kovoje ir pasitraukė į Raveną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83652
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    _  .
+    230
+
+    ## Puslapis 247
+
+    III KNYGA
+    pavasario, kai Aleksandro motina karalienė Elžbieta su duk­
+    terimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­
+    vykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste.
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta.
+  citata_rodoma: "_  .\n230\n\n## Puslapis 247\n\nIII KNYGA\npavasario, kai Aleksandro motina karalienė Elžbieta su duk­\nterimis ir sūnumi, kardinolu Fridrichu, iškart po Velykų at­\nvykę į Vilnių, sukėlė visuotinį džiaugsmą pilyje ir mieste. \nDeja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­\nto ginčai, ir po kelerių metų (1500 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87673
+
+- id: c-168059
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 53"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 53."
+  citata_originali: |
+    Žygiuodamas toliau su kariuomene,
+    jis užėmė Romą ir, nukėlęs
+    475 m e ta i
+    nuo sosto Vakarų Romos im­
+    peratorių, viešpatavo kaip pir­
+    mas iš svetimšalių Romoje, tačiau nesisavino nei val­
+    dovo vardo, nei purpurinės mantijos. Dvyliktaisiais
+    viešpatavimo metais, laimėjęs keletą mūšių, sumušė
+    rugijus, paėmė į nelaisvę karalių Feletėją, o jo sūnų
+    Fridrichą išvijo. Nugalėtasis rugijų valdovas maldavo
+    gotą Teodoriką pagalbos, tuo tarpu herulas, porą kar­
+    tų gotų sumuštas, stengėsi
+    487 m e ta i
+    atkurti savo kariauną, telk­
+    damas vyrus iš to Germani-
+    jos krašto, kuris jam mokėjo duoklę; vėliau, keletą
+    kartų su jais nelauktai susidūręs, nebesitikėjo sėkmės
+    atviroje kovoje ir pasitraukė į Raveną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184698
 
 ## Ryšiai
 - Tėvai: [[objektai/asmenys/Feletėjas]]

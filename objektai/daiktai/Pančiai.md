@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pančiai
 
@@ -40,9 +52,9 @@ Nenurodyta
 <a id="claim-t-59698"></a>
 - t-001
   global_id: t-59698
-  teiginys: 'Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.'
+  teiginys: "Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio."
   pagrindžia:
-    - c-001
+    - c-60330
 - susijęs iš [[objektai/asmenys/Henrikas I Paukštininkas.md#claim-t-87688|Henrikas I Paukštininkas]]: Valdant Henrikui I Paukštininkui, X a. Vokietijos miestai sustiprėjo tiek, kad sulaikydavo vengrų antpuolius.
 - susijęs iš [[objektai/asmenys/Vitolfas.md#claim-t-190119|Vitolfas]]: Narbutas pasakoja legendą, kad Vitolfas po žirgo praradimo grįžo su kariuomene, nugalėjo slibiną Pukį ir susitaikė su karaliumi.
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60079|Šventoji Barbora]]: Broliai rūsyje rado dėžutę su šventosios Barboros galva ir pasiėmė ją kaip šventą relikviją.
@@ -66,7 +78,33 @@ Nenurodyta
     o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60330
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 157"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 157."
+  citata_originali: |
+    Pasiėmęs
+    su savimi kuriuos ne kuriuos brolius bei ginklanešius, patraukė į kelią; žygiuodamas jis
+    sutiko priešais atskubantį vyrą, kuris jį įspėjo dėl sumanytos išdavystės, tikindamas, kad
+    Sarkis su daugybe karių pakelėje tykojąs jo bei brolių, ketindamas visus išžudyti. Šitai
+    išgirdęs, komtūras, nenorėdamas, kad Sarkis turėtų kokios naudos iš tos nedorybės,
+    apsupo jį, staiga užpuolė  ir, kitiems iš baimės išsibėgiojus, pagavo  jį patį ir nusivedė
+    drauge su aštuoniais galingesniaisiais skalvių vyrais. Tačiau pačią pirmąją naktį, kai
+    broliai ilsėjosi savo palapinėse, Sarkis, be galo stiprus vyras, sutraukė pančius, kuriais
+    buvo pririštas prie medžio, ir, nutvėręs kalaviją, nužudė vieną brolį bei tris ginklanešius,
+    o kitam nukirto ranką, tačiau ir pats šioje kovoje padėjo galvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59698

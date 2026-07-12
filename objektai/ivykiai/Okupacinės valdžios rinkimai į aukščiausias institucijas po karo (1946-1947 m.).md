@@ -13,11 +13,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
+  - institucija
   - ivykis
   - karas
-  - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Okupacinės valdžios rinkimai į aukščiausias institucijas po karo (1946-1947 m.)
 
@@ -46,17 +58,16 @@ Nenurodyta
 <a id="claim-t-66803"></a>
 - t-001
   global_id: t-66803
-  teiginys: '1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas.'
+  teiginys: "1946 ir 1947 m. Lietuvoje pirmą kartą po karo vyko nedemokratiniai rinkimai į aukščiausias okupacinės valdžios institucijas."
   pagrindžia:
-    - c-002
+    - c-66931
 
 <a id="claim-t-66804"></a>
 - t-002
   global_id: t-66804
-  teiginys: 'Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą.'
+  teiginys: "Pokario okupacinės valdžios rinkimuose kandidatus galėjo siūlyti tik komunistų partija, o rezultatai buvo klastojami skelbiant per 90 proc. dalyvavimą."
   pagrindžia:
-    - c-001
-
+    - c-66930
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +88,7 @@ Nenurodyta
     centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +112,60 @@ Nenurodyta
     vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66930
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
+    Jaltoje duotą jau sergančiam Franklinui D. Ruzveltui (Franklin D. Roose-
+    velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
+    visai nedemokratiniai) rinkimai į aukščiausias okupacinės valdžios insti-
+    tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
+    (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
+    vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia. Vi-
+    suose rinkimuose kandidatus tegalėjo siūlyti vienintelė komunistų partija,
+    rinkimų rezultatai klastojami, oficialiai pranešant, jog rinkimuose dalyvavo
+    per 90 proc. rinkėjų, kurių absoliuti dauguma balsavo už iškeltus kandida-
+    tus. LSSR institucijos neturėjo jokios realios valdžios – net LKP (bolševikų)
+    centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises.
+  citata_rodoma: "centro komitetas turėjo tik eilinės Rusijos srities partijos komiteto teises."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66804
+
+- id: c-66931
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Totalitariniam režimui vėl ėmė diri-
+    guoti komunistų partija, valstybės saugumo (NKGB ir NKVD) struktū-
+    ros, sovietų valdininkai ir okupacinė kariuomenė. Iki 1945 m. pavasario
+    į Lietuvą buvo atsiųsta 6 tūkst. rusakalbių į svarbiausius kuriamos admi-
+    nistracijos postus.
+    Sugrąžindamas Lietuvoje sovietų valdžią J. Stalinas „tesėjo“ pažadą,
+    Jaltoje duotą jau sergančiam Franklinui D. Ruzveltui (Franklin D. Roose-
+    velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau
+    visai nedemokratiniai) rinkimai į aukščiausias okupacinės valdžios insti-
+    tucijas – SSRS Aukščiausiąją Tarybą, Lietuvos SSR Aukščiausiąją Tarybą
+    (pirmą kartą po karo į šias institucijas rinkimai vyko 1946 m. ir 1947 m.), į
+    vietines tarybas – juk formaliai SSRS buvo tarybų, arba sovietų, valdžia.
+  citata_rodoma: "velt) atsiklausti Baltijos valstybių gyventojų, todėl ir Lietuvoje rengti (tačiau"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66803

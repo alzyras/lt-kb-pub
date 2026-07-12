@@ -168,6 +168,23 @@
             width: min($pageWidth, 100%);
           }
 
+          & .search-preview-error {
+            padding: 2rem 0;
+
+            & > h3 {
+              margin-bottom: 0.5rem;
+            }
+
+            & > p {
+              margin: 0 0 1rem;
+            }
+
+            & > a {
+              color: var(--secondary);
+              font-weight: $boldWeight;
+            }
+          }
+
           a[role="anchor"] {
             background-color: transparent;
           }

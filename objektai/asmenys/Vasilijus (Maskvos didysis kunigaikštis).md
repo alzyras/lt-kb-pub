@@ -10,6 +10,18 @@ tags:
   - bajorija
   - kunigaikštis
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vasilijus (Maskvos didysis kunigaikštis)
 
@@ -22,10 +34,16 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
 <a id="claim-t-39662"></a>
 - t-001
   global_id: t-39662
-  teiginys: 'Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
+  teiginys: "Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
   pagrindžia:
-    - c-001
+    - c-41466
 
+<a id="claim-t-183765"></a>
+- t-002
+  global_id: t-183765
+  teiginys: "Sofijos Vytautaitės apsilankymas Smolenske pas Vytautą garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą."
+  pagrindžia:
+    - c-167153
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,6 +66,7 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
     Jogaila Algirdaitis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,7 +95,65 @@ Prieš mūšį Vytauto dukters Sofijos Vytautaitės, Maskvos didžiosios kunigai
     dovanų“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-41466
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prieš mūšį
+
+    Vytauto dukters Sofijos Vytautaitės,
+    Maskvos didžiosios kunigaikštienės su
+    vaikais lankymasis Smolenske pas Vytautą
+    garantavo Maskvos didžiojo kunigaikščio
+    Vasilijaus neutralumą. Dar anksčiau pas
+    Vytautą lankėsi ir Tverės didysis kunigaikš-
+    tis Ivanas su kunigaikštiene ir vaikais, savo
+    bajorais, išlydėtas „garbingai ir su daugybe
+    dovanų“.
+
+    Vytauto planams talkino pusbrolis
+    Jogaila Algirdaitis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39662
+
+- id: c-167153
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kafos apy-
+    linkės buvo pavestos valdyti į Lietuvos
+    pusę perėjusiam totorių caraičiui Musat-
+    Chanui, taigi perėjo į tam tikrą Lietuvos
+    kontrolę.
+
+    Prieš mūšį
+
+    Vytauto dukters Sofijos Vytautaitės,
+    Maskvos didžiosios kunigaikštienės su
+    vaikais lankymasis Smolenske pas Vytautą
+    garantavo Maskvos didžiojo kunigaikščio
+    Vasilijaus neutralumą. Dar anksčiau pas
+    Vytautą lankėsi ir Tverės didysis kunigaikš-
+    tis Ivanas su kunigaikštiene ir vaikais, savo
+    bajorais, išlydėtas „garbingai ir su daugybe
+    dovanų“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183765

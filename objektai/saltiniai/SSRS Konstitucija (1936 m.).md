@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # SSRS Konstitucija (1936 m.)
 
@@ -27,17 +39,16 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
 <a id="claim-t-21243"></a>
 - t-001
   global_id: t-21243
-  teiginys: 'Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją.'
+  teiginys: "Mokytojai buvo verčiami studijuoti SSRS konstituciją ir Sovietų Sąjungos komunistų partijos istoriją."
   pagrindžia:
-    - c-002
+    - c-23948
 
 <a id="claim-t-21244"></a>
 - t-002
   global_id: t-21244
-  teiginys: 'Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas.'
+  teiginys: "Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas."
   pagrindžia:
-    - c-001
-
+    - c-23947
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,6 +63,7 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -68,7 +80,49 @@ Stalino konstitucijos, rusų kalbos dėstymas, uždrausta tikyba, sumažintas li
     gą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23947
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Bet kuris kultūros veikėjas, atsisakęs vyk-
+    dyti režimo reikalavimus, galėjo sulaukti griežtų bausmių: 1944–1953 m.
+    suimtas 1 651 kūrybinės ir mokslinės inteligentijos atstovas, dauguma jų
+    ištremti arba įkalinti, kai kurie nužudyti. Todėl nemaža dalis kultūrininkų
+    stengėsi elgtis kaip reikalauta ir gyveno dvigubą – viešą ir asmeninį – gy-
+    venimą. Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos
+    dėstymas, uždrausta tikyba, sumažintas lietuvių kalbos pamokų skaičius.
+  citata_rodoma: "Mokyklose įvestas privalomas J. Stalino konstitucijos, rusų kalbos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21244
+
+- id: c-23948
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos teritorijos), gynybinis karinis kompleksas
+    reikalavo kvalifikuotos darbo jėgos. Ją ruošė totaliai kontroliuojama švieti-
+    mo sistema, o nepaklusnieji buvo baudžiami. Mokytojai verčiami studijuoti
+    V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų
+    partijos istoriją, SSRS konstituciją, SSKP suvažiavimų ir nutarimų medžia-
+    gą.
+  citata_rodoma: "V. Lenino, J. Stalino, Karlo Markso veikalus, Sovietų Sąjungos komunistų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21243

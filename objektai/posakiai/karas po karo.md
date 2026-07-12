@@ -13,6 +13,18 @@ tags:
   - posakis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # karas po karo
 
@@ -33,16 +45,16 @@ amziai:
 <a id="claim-t-09685"></a>
 - t-001
   global_id: t-09685
-  teiginys: 'Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu.'
+  teiginys: "Pavadinimas „karas po karo“ citatoje gretinamas su Lietuvos–SSRS karo (1945–1953) pavadinimu."
   pagrindžia:
-    - c-001
+    - c-12495
 
 <a id="claim-t-09686"></a>
 - t-002
   global_id: t-09686
-  teiginys: 'Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953).'
+  teiginys: "Ginkluota rezistencija šiandien vadinama „karu po karo“ arba Lietuvos–SSRS karu (1945–1953)."
   pagrindžia:
-    - c-001
+    - c-12495
 - susijęs iš [[objektai/asmenys/J. Juška.md#claim-t-40156|J. Juška]]: J. Juška prisiminė, kad tą dieną žuvo daug savųjų ir gal ne mažiau okupantų karių.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171499|Karolis Zikaras]]: Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171507|Karolis Zikaras]]: Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.
@@ -77,8 +89,31 @@ amziai:
     karu“.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-12495
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    dėjo pavėluotas pasipriešinimas - sukilimai (1794, 1831, 1863 m.)
+    ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba
+    Lietuvos-ssRS karu (1945-1953). Pastarajame galima surasti ne
+    vieną heroizmo pavyzdį, o gal net visą karą galima pavadinti he-
+    roizmu. Tiesa, kartais mūsų priešai jį bando vadinti „pilietiniu
+    karu“.
+  citata_rodoma: "ir ginkluota rezistencija, šiandien vadinama „karu po karo“ arba\nLietuvos-ssRS karu (1945-1953)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-09686
+    - t-09685

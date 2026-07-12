@@ -1,15 +1,27 @@
 ---
 tipas: kokybes_auditas
-pavadinimas: "Dviprasmių žmonių auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+pavadinimas: 'Dviprasmių žmonių auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 saltiniai:
-  - "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
-# Dviprasmių žmonių auditas
+# Dviprasmių žmonių auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 
 ## Vykdymo metaduomenys
+
 - knyga: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 - source_file: `darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - modelis: unknown
@@ -29,6 +41,7 @@ tags: []
   - `darbas/prompts/05_quality_control/05_audit_ambiguous_people.md`
 
 ## Meletijus ir Vaiselijus
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Du vardai minimi kartu, bet šioje ištraukoje neatskleisti jų atskiri vaidmenys ir tapatybės.
 - citata: |
@@ -40,6 +53,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Mnelea ir Rolandas
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: „Mnelea“ gali būti OCR iškraipa, o abu asmenys įvardyti be platesnio identifikavimo.
 - citata: |
@@ -56,6 +70,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Proitas
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Vienvardis asmuo naudojamas kaip chronologinis orientyras, bet nėra savarankiškai identifikuotas.
 - citata: |
@@ -67,6 +82,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Signotas
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Neaišku, ar „signotas“ yra individualus vardas, ar bendrinis žynio pavadinimas.
 - citata: |
@@ -77,6 +93,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## J. F. R.
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Inicialai gali būti šaltinio santrumpa; nepakanka asmens tapatybei.
 - citata: |
@@ -89,6 +106,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Pucilovskis
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Pavardė minima kaip chronologinis orientyras, be savarankiško veiksmo ar tapatybės duomenų.
 - citata: |
@@ -100,6 +118,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Kūnas
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Legendinis vienvardis kandidatas; nereikia automatiškai jungti su kitais Kūno / Kuno vardais.
 - citata: |
@@ -111,6 +130,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Agripa
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Pateiktas tik vienas vardas / pavardė be pilnos tapatybės.
 - citata: |
@@ -124,6 +144,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Potockis
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Tik pavardė / naudininko forma be vardo; keli galimi Potockiai.
 - citata: |
@@ -134,6 +155,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Žagelis
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Tik pavardė / naudininko forma be vardo; tapatybė nepakankama.
 - citata: |
@@ -144,6 +166,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Giedraitis
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Pavardės / giminės forma be vardo; tame pačiame kandidatų faile yra atskiras aiškus Melchioro Giedraičio kandidatas, todėl jungti negalima.
 - citata: |
@@ -156,6 +179,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Bolloysos
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Vardyno pavyzdys be individualaus konteksto.
 - citata: |
@@ -166,6 +190,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Jargallo
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Vardas yra sąrašo pavyzdys be individualios identifikacijos.
 - citata: |
@@ -176,6 +201,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Jaygello
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Vardas yra sąrašo pavyzdys be individualios identifikacijos.
 - citata: |
@@ -186,6 +212,7 @@ tags: []
 - būsena: palikti kandidatu
 
 ## Marco Ronis
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Neaišku, ar tai vienas asmuo, dvinarė forma, ar teksto / OCR iškraipa; pateikta tik kaip vardyno pavyzdys.
 - citata: |
@@ -196,6 +223,7 @@ tags: []
 - būsena: reikia patikrinti
 
 ## Pomoloys
+
 - failas: `darbas/tmp/candidates/people/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - problema: Vardas yra sąrašo pavyzdys be individualios identifikacijos.
 - citata: |

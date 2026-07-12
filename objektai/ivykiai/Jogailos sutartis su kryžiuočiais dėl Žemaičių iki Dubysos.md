@@ -15,6 +15,18 @@ tags:
   - sutartis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jogailos sutartis su kryžiuočiais dėl Žemaičių iki Dubysos (sutartis)
 
@@ -43,10 +55,9 @@ Nenurodyta
 <a id="claim-t-66570"></a>
 - t-001
   global_id: t-66570
-  teiginys: '1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis.'
+  teiginys: "1382 m. Jogaila sutartimi su kryžiuočiais atidavė jiems Žemaičius iki Dubysos ir pasižadėjo per ketverius metus krikštytis."
   pagrindžia:
-    - c-001
-
+    - c-66776
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,7 +72,30 @@ Nenurodyta
     mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66776
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    O
+    Jogaila 1382 m. buvo sudaręs su kryžiuočiais sutartį, kuria jis
+    atidavė kryžiuočiams Žemaičius iki Dubysos, pasižadėjo 4 metų
+    būvyje krikštytis, o be to, pasižadėjo be kryžiuočių pritarimo su
+    niekuo nekariauti ir nedaryti jokios taikos. Taigi Jogaila su-
+    tiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-
+    mas. Bet šitos sutarties jis vis dėlto neketino laikytis.
+  citata_rodoma: "Taigi Jogaila su-\ntiko klausyti kryžiuočių nurodymų, t. y. prisipažino jų priklauso-\nmas. Bet šitos sutarties jis vis dėlto neketino laikytis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66570

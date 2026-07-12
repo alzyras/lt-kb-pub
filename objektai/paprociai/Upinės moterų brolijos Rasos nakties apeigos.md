@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Upinės moterų brolijos Rasos nakties apeigos
 
@@ -34,16 +46,15 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189873"></a>
 - t-001
   global_id: t-189873
-  teiginys: 'Narbutas rašo, kad prie Upinės upelio buvęs deivės Upinės altorius, o vietos atmintis siejusi jį su moterų brolija, atlikinėjusia apeigas Upinei.'
+  teiginys: "Narbutas rašo, kad prie Upinės upelio buvęs deivės Upinės altorius, o vietos atmintis siejusi jį su moterų brolija, atlikinėjusia apeigas Upinei."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172756
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašo, kad prie Upinės upelio buvęs deivės Upinės altorius, o vietos atmintis siejusi jį su moterų brolija, atlikinėjusia apeigas Upinei.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -56,8 +67,33 @@ Nenurodyta
     gas tai Upinei. 1813 metais vietos kunigas klebonas Jankaus­
     kas (Jankowski) smulkiai pasakojo, ką pats prieš 40 metų ma­
     tęs.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 144"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 144."
+  citata_originali: |
+    Prie upelio, dešinėje vieš­
+    kelio pusėje, ant nedidelės žemės sankasos, kurią sakė buvus
+    deivės Upinės, kadaise to upelio globėjos, altoriumi, stovi me­
+    dinė koplytėlė su Nukryžiuotoju. Dar gyvas nesenas atmini­
+    mas apie buvusią kažkokią moterų broliją, atlikinėjusią apei­
+    gas tai Upinei. 1813 metais vietos kunigas klebonas Jankaus­
+    kas (Jankowski) smulkiai pasakojo, ką pats prieš 40 metų ma­
+    tęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189873

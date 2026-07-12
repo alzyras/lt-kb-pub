@@ -13,8 +13,21 @@ tags:
   - karas
   - saltinis
   - tauta
+  - teisinė-praktika
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių konferencijos sprendimai (1943 m. balandžio 5 d.)
 
@@ -27,10 +40,9 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
 <a id="claim-t-21118"></a>
 - t-001
   global_id: t-21118
-  teiginys: 'Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose.'
+  teiginys: "Lietuvių konferencijos sprendimai rodė dalyvių ir dalies Lietuvos visuomenės orientaciją į Vokietiją bei reikalavo kolaboruoti jos tarnybose."
   pagrindžia:
-    - c-001
-
+    - c-23829
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +60,33 @@ Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo pozicij
     darbo ir karo tarnybų struktūrose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23829
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Patirdama pralaimėjimų Rytų fronte okupacinė valdžia švelnino savo
+    poziciją ir leido lietuviams 1943 m. balandžio 5 d. Kaune sušaukti vadi-
+    namąją Lietuvių konferenciją. Ja naciai siekė užsitikrinti lietuvių visuo-
+    menės paramą savo mobilizaciniams siekiams, suteikti jiems teisėtumo
+    regimybę, o lietuvių veikėjai – išsaugoti tautą, išvengti represijų, išgauti
+    iš Vokietijos didesnių politinių nuolaidų ir Lietuvos suverenumo. Nors
+    konferencijos dalyviai negailėjo aštrios kritikos okupacinei valdžiai, pri-
+    imti sprendimai atspindėjo jos dalyvių ir dalies Lietuvos visuomenės
+    orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos
+    darbo ir karo tarnybų struktūrose.
+  citata_rodoma: "orientaciją į Vokietiją: juos vykdant reikėjo kolaboruoti su Vokietija jos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21118

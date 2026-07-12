@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytis
 
@@ -48,16 +60,23 @@ Nenurodyta
 <a id="claim-t-186858"></a>
 - t-001
   global_id: t-186858
-  teiginys: 'Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas.'
+  teiginys: "Komentare manoma, kad Vytis bent XIV a. antrojoje pusėje buvo Vilniaus žemės arba kunigaikštystės herbas."
   pagrindžia:
-    - c-002
+    - c-170042
 
 <a id="claim-t-186859"></a>
 - t-002
   global_id: t-186859
-  teiginys: 'Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis.'
+  teiginys: "Atkuriant Lietuvos valstybę sovietinį Lietuvos SSR herbą pakeitė Vytis."
   pagrindžia:
-    - c-001
+    - c-170041
+
+<a id="claim-t-193874"></a>
+- t-003
+  global_id: t-193874
+  teiginys: "Vytis buvo Vilniaus žemės arba ku nigaikštystės herbas, t."
+  pagrindžia:
+    - c-170042
 - susijęs iš [[objektai/asmenys/B. Kolyška.md#claim-t-40055|B. Kolyška]]: B. Kolyška norėjo su savo kariais vytis priešą, tačiau Z. Sierakauskas to neleido.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63909|Martynas iš Golino]]: Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.
@@ -163,6 +182,7 @@ Nenurodyta
     nis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -181,10 +201,61 @@ Nenurodyta
     kunigaikščiams.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+    - t-003
 
-## Ryšiai
-- Vytis priklausė [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-170041
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau šios konstitucijos veikimas visa apim-
+    timi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-
+    kinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs
+    susiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą,
+    bet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-
+    teisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai. Taip
+    įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-
+    tybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų
+    jurisdikcijos.
+    Sovietinį Lietuvos SSR herbą keičia Vytis
+
+    6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A
+    243
+    Sąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-
+    nis.
+  citata_rodoma: "Tačiau šios konstitucijos veikimas visa apim-\ntimi nebuvo atnaujintas, o už pusvalandžio sustabdytas ir patvirtinta lai-\nkinoji valstybės konstitucija – Laikinasis Pagrindinis Įstatymas, atitikęs \nsusiklosčiusius visuomeninius santykius ir valstybės valdymo struktūrą, \nbet panaikinęs visas buvusias Lietuvos ir jos piliečių prievoles, kurias ne-\nteisėtai nustatė Lietuvoje galiojusi sovietų konstitucija ir įstatymai. Taip \nįvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos vals-\ntybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų \njurisdikcijos. \nSovietinį Lietuvos SSR herbą keičia Vytis\n\n6 skyrius •  D A I N U O J A N T I  R E V O L I U C I J A\n243\nSąjūdį rėmė visa lietuvių tauta, jis buvo jos jėgos ir stiprybės šalti-\nnis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186859
+
+- id: c-170042
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 209"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 209."
+  citata_originali: |
+    Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai,
+    bent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­
+    nigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo
+    susijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo
+    antspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo
+    1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės
+    kunigaikščiams.
+  citata_rodoma: "Kalbama apie LDK herbą — Vyt). Manoma, kad anksčiausiai, \nbent XIV a. antrojoje pusėje. Vytis buvo Vilniaus žemės arba ku­\nnigaikštystės herbas, t. y. tos LDK dalies, su kurios valdymu buvo \nsusijusi Lietuvos didžiojo kunigaikščio valdžia. Pirmas Vyt| savo \nantspaude pradėjo vartoti bene Algirdas. Jo  sūnus Jogaila nuo \n1384 m. suteikė teis«; antspauduoti Vyčiu visiems Gedimino giminės \nkunigaikščiams."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186858
+    - t-193874

@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dubingiai
 
@@ -31,30 +43,37 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
 <a id="claim-t-71848"></a>
 - t-001
   global_id: t-71848
-  teiginys: 'Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių.'
+  teiginys: "Liucjanas Želigovskis lapkričio 17 d. auštant puolė lietuvių 1-osios pėstininkų divizijos barą nuo Nėries iki Dubingių."
   pagrindžia:
-    - c-003
+    - c-43417
 
 <a id="claim-t-71849"></a>
 - t-002
   global_id: t-71849
-  teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus.'
+  teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami iki keturių mylių nuo Vilniaus."
   pagrindžia:
-    - c-001
+    - c-32023
 
 <a id="claim-t-71850"></a>
 - t-003
   global_id: t-71850
-  teiginys: 'Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį.'
+  teiginys: "Spalio 26-27 d. lenkai apėjo kairįjį lietuvių sparną ir užėmė Giedraičius, Želvą, Dubingius, Vidiškį."
   pagrindžia:
-    - c-002
+    - c-43416
 
 <a id="claim-t-71851"></a>
 - t-004
   global_id: t-71851
-  teiginys: '1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus.'
+  teiginys: "1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per keturias mylias nuo Vilniaus."
   pagrindžia:
-    - c-001
+    - c-32023
+
+<a id="claim-t-193179"></a>
+- t-005
+  global_id: t-193179
+  teiginys: "Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose."
+  pagrindžia:
+    - c-175924
 - susijęs iš Želva: Spalio 26–27 d. lenkų pajėgos, apėjusios kairįjį lietuvių sparną, užėmė Želvą, Giedraičius, Dubingius ir Vidiškį.
 - susijęs iš Šešuoliai: 1334 m. kryžiuočiai nusiaubė Dubingius ir Šešuolius, priartėdami per 4 mylias prie Vilniaus.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113896|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis buvo Dubingių ir Biržų kunigaikštis, Vilniaus vaivada, LDK vyriausiasis kancleris, Mozyriaus ir Lydos seniūnas.
@@ -84,7 +103,8 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -104,6 +124,7 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     prarasti nepriklausomybę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,12 +146,109 @@ Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
     Gelogalių ir judėjo Balnininkų link.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+- c-004
+  santrauka: 'Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Grįždamas į Vilnių, jis ne-
+    pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-
+    naus vedybas. Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
+    Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams
+    atlydėti žmoną į Vilnių.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-32023
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1333 m. Aukštaičiuose kryžiuočiai pasiekė Ukmergės apylinkę, o
+    1334, nusiaubę Dubingius ir Šešuolius, jie buvo 4 mylios nuo Vil­
+    niaus. Tada abiejų lyčių lietuvių buvę nužudyta 1200^4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71851
+    - t-71849
+
+- id: c-43416
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvių pajėgos negalėjo
+    atsilaikyti prieš gausių lenkų pajėgų puo-
+    lima. Spalio 26-27 d. lenkai apėjo kai-
+
+    rįjį lietuvių sparną ir užėmė Giedraičius,
+    Želvą, Dubingius, Vidiškį. Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę.
+  citata_rodoma: "Spalio 26-27 d. lenkai apėjo kai-\n\nrįjį lietuvių sparną ir užėmė Giedraičius,\nŽelvą, Dubingius, Vidiškį. Susidarė pavo-\njinga padėtis, lenkams pasiekus savo puo-\nlimo tikslą, Lietuvai būtų iškilęs pavojus\nprarasti nepriklausomybę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71850
+
+- id: c-43417
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prieš kautynes
+
+    Sutelkęs stambias pajėgas, gen. L. Želi-
+    govskis lapkričio 17 d. auštant pradėjo
+    savo didžiąją ofenzyvą, puldamas lie-
+    tuvių 1-osios pėstininkų divizijos uži-
+    mamą barą nuo Nėries iki Dubingių.
+    Puolimas buvo staigus ir stiprus. Lenkų
+    pajėgos priartėjo prie Videniškio,
+    Gelogalių ir judėjo Balnininkų link.
+  citata_rodoma: "Prieš kautynes\n\nSutelkęs stambias pajėgas, gen. L. Želi-\ngovskis lapkričio 17 d. auštant pradėjo\nsavo didžiąją ofenzyvą, puldamas lie-\ntuvių 1-osios pėstininkų divizijos uži-\nmamą barą nuo Nėries iki Dubingių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71848
+
+- id: c-175924
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Grįždamas į Vilnių, jis ne-
+    pasakė tėvams tiesos, ir tėvas, netrukus miręs, nebesužinojo apie sū-
+    naus vedybas. Barbora tuo tarpu gyveno Radvilų dvare, Dubingiuose.
+    Gavęs žinią apie tėvo mirtį, Zigmantas tuojau įsakė tarybos ponams
+    atlydėti žmoną į Vilnių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193179
+
 ## Ryšiai
-- Turėjo valdovą: [[objektai/asmenys/Mikalojus Radvila Rudasis]]
 - Puolė Dubingiai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Užėmė Dubingiai: [[objektai/grupes/Lenkai]]

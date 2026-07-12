@@ -10,6 +10,18 @@ tags:
   - krikštas
   - paprotys
   - seimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus gyventojų krikštijimas ir baltų lininių marškinių dalijimas po apeigų
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-87232"></a>
 - t-001
   global_id: t-87232
-  teiginys: 'Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai.'
+  teiginys: "Vilniaus gyventojai, dar buvę pagonys, buvo pakrikštyti, o po apeigų žmonėms išdalyti balti lininiai marškiniai."
   pagrindžia:
-    - c-001
-
+    - c-83211
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,7 +81,39 @@ Nenurodyta
     po apeigų žmonėms išdalyti balti lininiai marškiniai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83211
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    I. 7
+    p. 11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis-
+    rašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa-
+    akalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi-
+    [tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,
+    Į1O
+
+    ## Puslapis 127
+
+    Il KNYGA
+    Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
+    taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­
+    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
+    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
+    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
+    po apeigų žmonėms išdalyti balti lininiai marškiniai.
+  citata_rodoma: "11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis- \nrašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa- \nakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- \n[tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,\nĮ1O\n\n## Puslapis 127\n\nIl KNYGA\nSu tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­\ntaus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­\nnigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­\nsirinkusiems žmonėms apie didelį ir esminį religijos pokytį. \nVisi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o \npo apeigų žmonėms išdalyti balti lininiai marškiniai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87232

@@ -4,6 +4,7 @@ pavadinimas: 'Florencija'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1432 m.'
   - '1434 m.'
@@ -18,6 +19,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Florencija
 
@@ -30,23 +43,30 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 <a id="claim-t-83346"></a>
 - t-001
   global_id: t-83346
-  teiginys: '1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos.'
+  teiginys: "1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos."
   pagrindžia:
-    - c-001
+    - c-79693
 
 <a id="claim-t-83347"></a>
 - t-002
   global_id: t-83347
-  teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
+  teiginys: "Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui."
   pagrindžia:
-    - c-001
+    - c-79693
 
 <a id="claim-t-83348"></a>
 - t-003
   global_id: t-83348
-  teiginys: 'Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje.'
+  teiginys: "Florencijoje galutinai susitarta dėl Bažnyčių unijos, kuri 1452 m. buvo paskelbta Konstantinopolyje."
   pagrindžia:
-    - c-002
+    - c-79695
+
+<a id="claim-t-192660"></a>
+- t-004
+  global_id: t-192660
+  teiginys: "Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams."
+  pagrindžia:
+    - c-175430
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 - susijęs iš [[objektai/ivykiai/Florencijos bažnytinė unija.md#claim-t-26394|Florencijos bažnytinė unija (unija)]]: 1439 m. Florencijos bažnytinė unija neįstengė sujungti Rytų ir Vakarų bažnyčių.
 - susijęs iš Nifono laiškas rusams dėl Florencijos tikėjimo santarvės: Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, dėl kurios sutarė Jonas Paleologas ir Rytų bažnyčios patriarchai.
@@ -105,6 +125,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     ir barbariškumo, nuo to laiko pradėjo smukti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +144,116 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
     su ja žlugo ir unija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+- c-003
+  santrauka: 'Prie Florencijos mūrų atėjusi 200 000 karių kariuomenės dalis beveik visiškai pralaimėjo Stilichono vadovaujamiems romėnams.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vėliau, kai im­
+    perijos rytuose po Alariko maišto prasidėjo kruvini su­
+    sidūrimai, hunų valdžioje buvusios tautos: alanai, bur-
+    gundai, šilingai, svebai, kvadai, gepidai, saksai ir heru-
+    lai pasitraukė j Panoniją, susijungė su vandalais ir iš­
+    keliavo Alpių link. Vėliau ši nesuskaičiuojama kariuo­
+    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
+    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
+    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
+    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
+    Italiją.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-004
+
+## Citatos
+
+- id: c-79693
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tai, ką mūsų kronikininkai kal­
+    ba apie Švitrigailos žmonos sugavi­
+    mą Ašmenoje, esą jis neįstengęs iš­
+    sivežti kartu - tai nėra tikslu, nes tais
+    pat 1432 metais lapkričio 30 dieną
+    Švitrigaila, rašydamas Livonijos ma­
+    gistrui, užsimena, kad žmona jam
+    pagimdžiusi sūnų. Tačiau ši jo žmo­
+    na Sofija, Tverės kunigaikščio Bori­
+    so duktė, vėliau pateko Žygimanto
+    galion; nes popiežius Eugenijus IV
+    užtarė ją laiške Žygimantui Kęstu-
+    taičiui, rašytame iš Florencijos 1434
+    metų spalio 20 dieną.
+    216
+
+    ## Puslapis 233
+
+    I I I  KNYGA
+    degė padegta gal Švitrigailos kariuomenės, o gal ir pačių
+    miestiečių17.0 Švitrigaila, nusigavęs į Polocką, ten įkūrė iršt­
+    vą, iš kurios beveik 6 metus po visas Lietuvos šalis tolydžio
+    sklido įnirtingi vaidai, nesiliaujantys puldinėjimai ir pilieti­
+    nis karas, ir anoji Lietuvos valstybė, Vytauto laikais pasie­
+    kusi tokios didžios galybės, alinama jo įpėdinių niekšybių
+    ir barbariškumo, nuo to laiko pradėjo smukti.
+  citata_rodoma: "Tačiau ši jo žmo­\nna Sofija, Tverės kunigaikščio Bori­\nso duktė, vėliau pateko Žygimanto\ngalion; nes popiežius Eugenijus IV\nužtarė ją laiške Žygimantui Kęstu-\ntaičiui, rašytame iš Florencijos 1434\nmetų spalio 20 dieną.\n216\n\n## Puslapis 233\n\nI I I  KNYGA\ndegė padegta gal Švitrigailos kariuomenės, o gal ir pačių\nmiestiečių17."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83347
+    - t-83346
+
+- id: c-79695
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Imperatorius, norėdamas gauti Vakarų para-
+    mos prieš turkus, taip pat pasiūlė Bazelio suvažiavimui sujungti
+    Bažnyčias. Tačiau galutinai dėl unijos buvo susitarta kiek vė-
+    liau Florencijoje. Tas susitarimas buvo paskelbtas Konstantino-
+    poly 1452 m., tik jau nebebuvo laiko jam įvykdyti: po pusės
+    metų (1453 m.) Konstantinopolį užėmė turkai, imperija žlugo, o
+    su ja žlugo ir unija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83348
+
+- id: c-175430
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 309"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 309."
+  citata_originali: |
+    Vėliau, kai im­
+    perijos rytuose po Alariko maišto prasidėjo kruvini su­
+    sidūrimai, hunų valdžioje buvusios tautos: alanai, bur-
+    gundai, šilingai, svebai, kvadai, gepidai, saksai ir heru-
+    lai pasitraukė j Panoniją, susijungė su vandalais ir iš­
+    keliavo Alpių link. Vėliau ši nesuskaičiuojama kariuo­
+    menė pasidalijo į dvi dalis: viena, kurioje buvo 200 000
+    karių, atėjo prie Florencijos mūrų, bet beveik visiškai
+    pralaimėjo Stilichono vadovaujamiems romėnams. Antra
+    dalis liko vietoje, laukdama progos, kuri atvertų kelią į
+    Italiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192660

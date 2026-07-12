@@ -12,8 +12,21 @@ atnaujinta: ''
 tags:
   - ivykis
   - miestas
+  - šeima
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)
 
@@ -42,10 +55,9 @@ Nenurodyta
 <a id="claim-t-31475"></a>
 - t-001
   global_id: t-31475
-  teiginys: '1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.'
+  teiginys: "1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą."
   pagrindžia:
-    - c-001
-
+    - c-33429
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,7 +72,30 @@ Nenurodyta
     vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33429
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs Jurgis ir jo brolis
+    Hlebas — pateko savitarpio nesantaikon. Remdamasis giminyste,
+    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
+    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
+    bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
+    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
+    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
+  citata_rodoma: "Remdamasis giminyste,\nVytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė\nSmolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­\nbindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31475

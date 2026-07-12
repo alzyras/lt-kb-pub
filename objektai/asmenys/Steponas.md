@@ -19,6 +19,18 @@ amziai:
   - 'X'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Steponas
 
@@ -31,17 +43,18 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 <a id="claim-t-64124"></a>
 - t-001
   global_id: t-64124
-  teiginys: 'Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų.'
+  teiginys: "Apaštalų darbuose rašoma, kad Steponas, pilnas malonės ir galios, darė didžių stebuklingų ženklų."
   pagrindžia:
-    - c-002
+    - c-64968
 
 <a id="claim-t-64125"></a>
 - t-002
   global_id: t-64125
-  teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
+  teiginys: "Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m."
   pagrindžia:
-    - c-001
+    - c-22021
 - susijęs iš [[objektai/asmenys/Šventasis Steponas (Permės vyskupas).md#claim-t-190060|Šventasis Steponas (Permės vyskupas)]]: Narbutas tikslino, kad Šventasis Steponas neišrado biarmiško raidyno, o sutvarkė jį pagal rusų abėcėlę ir rašė šiaurės slavų tarme.
+- susijęs iš [[objektai/autoriai/Eustatijas.md#claim-t-191595|Eustatijas]]: Narbutas nurodo, kad Eustatijas, kaip ir Steponas bei senovės scholastai, vartojo formą „’Iv8ixvję“.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186658|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad karaliui Olbrachtui perėjus miškus ir Bukoviną, Moldavijos vaivada Steponas su savo žmonėmis pasuko atgal.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186653|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Lietuvos metraštis pasakoja, kad Moldavijos vaivada Steponas pasiuntė pasiuntinius pas Olbrachtą ir sudarė su juo taiką.
@@ -62,6 +75,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
 - susijęs iš Putna: Putna buvo kalnuose esantis Stepono mėgstamas vienuolynas, kuriame jis apsistojo su visa kariuomene.
 - susijęs iš Sučiava: Sučiavos pilis šiame pasakojime įvardijama kaip Moldavijos vaivados Stepono sostinė.
 - susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
+- susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
 - susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/ivykiai/Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis.md#claim-t-186652|Jono Olbrachto žygis į Moldaviją ir Sučiavos apgultis]]: Olbrachtas pasitraukė nuo Sučiavos ir žygiavo gilyn į Moldaviją.
@@ -94,7 +109,8 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -111,16 +127,49 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
     valdovų, daug kartų šitai mėginusių padaryti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Steponas buvo valdovas [[objektai/vietos/Moldavija]]
-- Steponas valdė [[objektai/vietos/Moldavija]]
-- Steponas keliavo į [[objektai/vietos/Kolomyja]]
-- Steponas puolė [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]
-- Steponas gynė [[objektai/vietos/Sučiava]]
-- Steponas surengė žygį į [[objektai/vietos/Kamenecas]], [[objektai/vietos/Lvovas]], [[objektai/vietos/Tamovas]]
-- Steponas gyveno [[objektai/vietos/Putna]]
+## Citatos
+
+- id: c-22021
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Paminėkime tokią grandinę: Lenkijos valdovo
+    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
+    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: "Adalberto misija Prūsijoje (997), Norvegijos\nvaldovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-\nimtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-\njos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo\nkrikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64125
+
+- id: c-64968
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 33"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 33."
+  citata_originali: |
+    Apie didingus ženklus
+    „Apaštalų darbuose“ (Apd 6, 8) pasakyta, kad „Steponas, pilnas malonės ir galios, darė
+    žmonėse didžių stebuklingų ženklų“. Vargu ar kas galėtų suabejoti, kad Teutonų namų
+    broliai buvo pilni malonės ir galios, nes,  į tokį negausų būrį susispietę, pajungė tokią
+    galingą, tokią žiaurią ir nesuskaitomą prūsų gentį, kurios neįstengė pavergti daugybė
+    valdovų, daug kartų šitai mėginusių padaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64124

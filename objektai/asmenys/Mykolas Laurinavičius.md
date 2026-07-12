@@ -17,6 +17,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mykolas Laurinavičius
 
@@ -29,9 +41,9 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
 <a id="claim-t-87922"></a>
 - t-001
   global_id: t-87922
-  teiginys: '1485 m. Mykolas Laurinavičius buvo burmistras.'
+  teiginys: "1485 m. Mykolas Laurinavičius buvo burmistras."
   pagrindžia:
-    - c-001
+    - c-83901
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87353|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Jachna Laurinavičius sąraše nurodytas kaip žinomas nuo 1485 m., o tuo metu burmistru buvo Mykolas Laurinavičius.
 ## Reikšmingi paminėjimai
 
@@ -44,7 +56,26 @@ Jachna Laurinavičius žinomas nuo - 1485 m. Tuo metu burmistras Mykolas Laurina
     1501 m. burmistras Jonas Hanusavičius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83901
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jachna Laurinavičius žinomas nuo - 1485 m.
+    Tuo metu burmistras Mykolas Laurinavičius.
+    1501 m. burmistras Jonas Hanusavičius.
+  citata_rodoma: "Jachna Laurinavičius žinomas nuo - 1485 m.\nTuo metu burmistras Mykolas Laurinavičius.\n1501 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87922

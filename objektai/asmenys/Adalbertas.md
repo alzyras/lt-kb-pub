@@ -10,6 +10,18 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Adalbertas
 
@@ -22,9 +34,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 <a id="claim-t-18754"></a>
 - t-001
   global_id: t-18754
-  teiginys: 'Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.'
+  teiginys: "Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste."
   pagrindžia:
-    - c-001
+    - c-21539
 - susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188310|Prūsai]]: Narbutas, remdamasis Kozmo Prahiečio Adalberto biografija, rašo, kad prie Fišhauzeno prūsams užpuolus Adalbertą miniai vadovavo žynys Siggo.
 - susijęs iš [[objektai/zodynas/Signotai Signotas.md#claim-t-189209|Signotai Signotas]]: Narbutas signotus (Sigonotta) laiko Atrimpo arba Gardaičio žyniais, kurių būta pajūrio srityse.
@@ -34,6 +46,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
 - susijęs iš [[objektai/asmenys/Kozmas Prahietis.md#claim-t-190174|Kozmas Prahietis]]: Narbutas Kozmui Prahiečiui priskiria šventojo Adalberto biografiją, kurioje Siggo vaizduojamas kaip prūsų minios vadas ir pirmasis žudikas.
 - susijęs iš [[objektai/asmenys/Šventasis Adalbertas.md#claim-t-190225|Šventasis Adalbertas]]: Narbutas iš Kozmo Prahiečio biografijos kildino žinią, kad Šventąjį Adalbertą prie Fišhauzeno užpuolusių prūsų miniai vadovavo žynys Siggo.
 - susijęs iš [[objektai/autoriai/Kozmas Prahietis.md#claim-t-190435|Kozmas Prahietis]]: Narbutas rašo, kad Kozmo Prahiečio šv. Adalberto biografijoje prūsų minios vadu prie Fišhauzeno įvardytas žynys Siggo.
+- susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192023|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: Narbutas, remdamasis Foigtu ir vietiniais padavimais, Šv. Adalberto bažnytėlės pradžią sieja su XIII a. pabaiga, o mūrinę statybą – su 1422 m.
+- susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192024|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: 1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas.
+- susijęs iš [[objektai/ivykiai/Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra.md#claim-t-192491|Šv. Adalberto bažnytėlės datavimas, statyba ir 1669 m. audra]]: 1669 m. didžiulė audra visiškai išgriovė Šv. Adalberto bažnytėlės sienas.
 - susijęs iš [[objektai/asmenys/Kristoforas Hartknochas.md#claim-t-189978|Kristoforas Hartknochas]]: Narbutas rašo, kad Hartknochas signotus aiškino kaip bendruomenėje su tam tikromis teisėmis gyvenusius dvasininkus.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19172|Netimeras]]: Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.
@@ -63,11 +78,33 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-21539
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Paminėkime tokią grandinę: Lenkijos valdovo
+    Mieško krikštas (966), Kijevo Rusios valdovo Vladimiro krikštas (988),
+    kankinyste pasibaigusi šv. Adalberto misija Prūsijoje (997), Norvegijos
+    valdovo Olafo pradėta šalies christianizacija (997), Islandijos Altingo pri-
+    imtas sprendimas apsikrikštyti (1000), pirmojo tikro krikščionio Vengri-
+    jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo
+    krikštas (1008) ir štai – Lietuvos „karaliaus“ Netimero krikštas (1009).
+  citata_rodoma: "jos soste šv. Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-18754
+
 ## Ryšiai
 - Puolė Adalbertą: [[objektai/grupes/Prūsai]]
-- Adalbertas keliavo į [[objektai/vietos/Prūsija]]

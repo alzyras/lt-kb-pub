@@ -10,6 +10,18 @@ tags:
   - karas
   - mūšis
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos atsisakymas žygiuoti į Vilnių Vokietijos ir Lenkijos karo metu (1939 m. rugsėjis)
 
@@ -38,24 +50,23 @@ Nenurodyta
 <a id="claim-t-75132"></a>
 - t-001
   global_id: t-75132
-  teiginys: 'Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija.'
+  teiginys: "Užpuolusi Lenkiją, Vokietija spaudė Lietuvą žygiuoti į Vilnių ir žadėjo paramą aviacija, tankais bei artilerija."
   pagrindžia:
-    - c-001
+    - c-23022
 
 <a id="claim-t-75133"></a>
 - t-002
   global_id: t-75133
-  teiginys: 'Sovietai taip pat nepatarė Lietuvai imti Vilniaus.'
+  teiginys: "Sovietai taip pat nepatarė Lietuvai imti Vilniaus."
   pagrindžia:
-    - c-002
+    - c-23023
 
 <a id="claim-t-75134"></a>
 - t-003
   global_id: t-75134
-  teiginys: 'Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių.'
+  teiginys: "Vokietijos ir Lenkijos karo metu voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai ragino Lietuvos vyriausybę jėga atsiimti Vilnių."
   pagrindžia:
-    - c-001
-
+    - c-23022
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,7 +79,8 @@ Nenurodyta
     žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -85,7 +97,48 @@ Nenurodyta
     tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-23022
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Abi pusės pripažino Lietuvos interesus Vilniaus regione, tačiau jo sienų
+    nedetalizavo. O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai
+    kaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-
+    riausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą
+    žygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija.
+  citata_rodoma: "O voldemarininkai, Šaulių sąjunga ir jaunieji tautininkai\nkaltino valdžią impotencija ir Vokietijos ir Lenkijos karo metu ragino vy-\nriausybę jėga atsiimti Vilnių. Užpuolusi Lenkiją Vokietija spaudė Lietuvą\nžygiuoti į Vilnių, žadėdama paramą aviacija, tankais ir artilerija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75134
+    - t-75132
+
+- id: c-23023
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau
+    Lietuvos vyriausybė, lenkams pralaimint mūšius ir be vokiečių galėda-
+    ma užimti Vilnių, suvokė žygį į Vilnių ne kaip karinę, o kaip politinę
+    problemą ir tikino lenkus, kad nė vienas Lietuvos kareivis neperžengs
+    administracinės linijos. Kitaip Lietuva būtų tapusi agresore ir sugadin-
+    tų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai.
+  citata_rodoma: "Kitaip Lietuva būtų tapusi agresore ir sugadin-\ntų santykius su anglais ir prancūzais. Nepatarė imti Vilniaus ir sovietai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75133

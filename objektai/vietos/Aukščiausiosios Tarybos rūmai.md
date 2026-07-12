@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukščiausiosios Tarybos rūmai (institucija)
 
@@ -29,30 +41,44 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 <a id="claim-t-49628"></a>
 - t-001
   global_id: t-49628
-  teiginys: 'Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla.'
+  teiginys: "Aukščiausiosios Tarybos rūmų rūsyje gynybai buvo įrengtos ginklų remonto, šovinių ir sprogmenų gamybos dirbtuvės bei šaudykla."
   pagrindžia:
-    - c-004
+    - c-51594
 
 <a id="claim-t-49629"></a>
 - t-002
   global_id: t-49629
-  teiginys: 'Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais.'
+  teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
   pagrindžia:
-    - c-003
+    - c-51592
 
 <a id="claim-t-49630"></a>
 - t-003
   global_id: t-49630
-  teiginys: 'Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais.'
+  teiginys: "Aukščiausiosios Tarybos rūmų fojė ginkluoti vyrai buvo surinkti ir suskirstyti penketukais."
   pagrindžia:
-    - c-001
+    - c-51590
+
+<a id="claim-t-49629"></a>
+- t-004
+  global_id: t-49629
+  teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
+  pagrindžia:
+    - c-51592
 
 <a id="claim-t-49632"></a>
 - t-005
   global_id: t-49632
-  teiginys: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
+  teiginys: "1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis."
   pagrindžia:
-    - c-002
+    - c-51591
+
+<a id="claim-t-49629"></a>
+- t-006
+  global_id: t-49629
+  teiginys: "Ant Aukščiausiosios Tarybos rūmų stogo pritvirtinti metaliniai strypai turėjo apsunkinti šturmo grupių desantavimą sraigtasparniais."
+  pagrindžia:
+    - c-51592
 - susijęs iš [[objektai/asmenys/Vytautas Žukas.md#claim-t-40530|Vytautas Žukas]]: AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.
 - susijęs iš [[objektai/grupes/ATAS.md#claim-t-40833|ATAS]]: Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
@@ -141,7 +167,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -163,7 +190,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     viduje. Išoriniame perimetre smėlio bars-
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -177,7 +205,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     šturmo grupių desantavimą sraigtasparniais
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -191,7 +220,8 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     ir sprogmenys - gyventojų sunešti, gauti
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -214,13 +244,105 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     kais. Man priskyrė penkis KAD būrio vyrus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
     - t-004
 
-## Ryšiai
-- Gynė Aukščiausiosios Tarybos rūmai (institucija): [[objektai/grupes/ATAS]], [[objektai/asmenys/Vytautas Žukas]]
-- Turėjo priklausinį: [[objektai/daiktai/Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d|Plakatas prie Aukščiausiosios Tarybos rūmų 1990 m. kovo 11 d (institucija, XX a.)]]
-- Aukščiausiosios Tarybos rūmai (institucija) priklausė [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-51590
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
+    kais. Man priskyrė penkis KAD būrio vyrus. Mūsų vieta ir užduotis
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49630
+
+- id: c-51591
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Inžineriniai įtvirtinimai buvo įrenginė-
+    jami trimis etapais. Pirmiausia, dar sausio
+    11-12 d., rūmų viduje spygliuota viela buvo
+    apraizgyta dalis praėjimų ir ventiliacinių
+
+    ## Puslapis 261
+
+    angų, smėlio maišais ir armatūros tinklais
+    įtvirtintas pagrindinių AT rūmų pirmasis
+    aukštas, užminuoti laiptai į antrą aukštą,
+    pradėtos įrenginėti baldų barikados rūmų
+    viduje. Išoriniame perimetre smėlio bars-
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49632
+
+- id: c-51592
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    medžiokliniu šautuvu. Ant Aukščiausiosios Tarybos
+    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
+    šturmo grupių desantavimą sraigtasparniais
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49629
+
+- id: c-51594
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rengiantis gynybai AT rūsyje buvo įreng-
+    tos ginklų remonto ir šovinių, sprogmenų
+    gamybos dirbtuvės bei šaudykla. Ginklai
+    ir sprogmenys - gyventojų sunešti, gauti
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49628
+
+- id: c-167162
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ant Aukščiausiosios Tarybos
+    stogo pritvirtinti metaliniai strypai turėjo apsunkinti
+    šturmo grupių desantavimą sraigtasparniais
+
+    UŽDUOTIS
+
+    AT gynėjas Arvydas Pocius, vėliau tapęs generolu leitenantu,
+    Lietuvos kariuomenės vadu, pasakoja apie AT gynybą.
+    |
+
+    „Visus ginkluotus vyrus surinko AT rūmų fojė, suskirstė penketu-
+    kais. Man priskyrė penkis KAD būrio vyrus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183774
+    - t-49631

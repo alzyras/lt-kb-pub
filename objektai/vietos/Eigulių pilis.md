@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Eigulių pilis (pilis)
 
@@ -26,10 +38,9 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
 <a id="claim-t-32154"></a>
 - t-001
   global_id: t-32154
-  teiginys: '1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį.'
+  teiginys: "1382 m. birželio pabaigoje kryžiuočiai Kauno apylinkėje prie Neries sunaikino Eigulių pilį."
   pagrindžia:
-    - c-001
-
+    - c-33837
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,10 +54,29 @@ Tuo pat laiku (1382 birželio gale) kryžiuočiai įsiveržę Lietuvon ir sunaik
     pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Puolė Eigulių pilį (pilis): [[objektai/grupes/Kryžiuočių ordinas]]
+## Citatos
+
+- id: c-33837
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Galutinai subrendus vidaus karui, tik ginklas begalėjo surasti
+    išeitį iš susidariusios tragiškos būklės. Tuo pat laiku (1382 birželio
+    gale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj
+    ant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­
+    žuolės kaime liepos 6 d. Jogaila su ordinu pasirašė naują sutartį,
+    pasižadėdami iki rugsėjo 8 d. vienas kito nepuldinėti.
+  citata_rodoma: "Tuo pat laiku (1382 birželio\ngale) kryžiuočiai įsiveržę Lietuvon ir sunaikinę Kauno apylinkėj\nant Neries kranto Eigulių pilį, traukė prie Kęstučio Trakų. Brie­\nžuolės kaime liepos 6 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32154

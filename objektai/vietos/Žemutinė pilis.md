@@ -10,6 +10,18 @@ tags:
   - miestas
   - pilis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemutinė pilis
 
@@ -22,17 +34,17 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
 <a id="claim-t-86164"></a>
 - t-001
   global_id: t-86164
-  teiginys: 'Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas.'
+  teiginys: "Per puolimą Žemutinėje pilyje liepsna apėmė medinius statinius, aptvarus ir užkardas."
   pagrindžia:
-    - c-002
+    - c-82144
 
 <a id="claim-t-86165"></a>
 - t-002
   global_id: t-86165
-  teiginys: 'Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės.'
+  teiginys: "Žemutinė pilis driekėsi apačioje, buvo vadinta Kreivąja, o joje buvo kunigaikščių menės."
   pagrindžia:
-    - c-001
-- susijęs iš Vilniaus Žemutinė Kreivoji pilis (sujungti pirminiai pavadinimai Žemutinė pilis Kreivoji pilis; Žemutinė pilis; Kreivoji pilis; Žemutinė Kre: Žemutinė pilis taip pat vadinta Kreivąja pilimi.
+    - c-82143
+- susijęs iš Vilniaus Žemutinė pilis: Žemutinė pilis taip pat vadinta Kreivąja pilimi.
 - susijęs iš Žemutinė Kreivoji pilis: Žemutinė pilis taip pat vadinta Kreivąja pilimi.
 - susijęs iš Radvilų archyvo dekretų ir laiškų originalai: Radvilų archyvo dekretų ir laiškų originalų faksimilėse pateiktas Aleksandro Jogailaičio dovanojimas Vilniaus miestiečiui Maksimui.
 - susijęs iš Stepono Batoro 1576 m. gruodžio 20 d. laiškas: Stepono Batoro parašo faksimilė paimta iš jo 1576 m. gruodžio 20 d. rašyto laiško.
@@ -51,6 +63,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     tvirtų statinių tvorų ir griovių sutvirtinimais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,7 +83,48 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
     staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82143
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86165
+
+- id: c-82144
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O
+    šeštosios dienos rytą buvo pradėtas pagrindinis puolimas iš
+    visų pusių, sukaupus visas jėgas. Svetimšalių ataka buvo
+    smarki, tačiau ir lietuvių gynyba iš pradžių ne mažiau nar­
+    si; paskui ūmai keliose vietose nežinia kaip prasiveržė lieps­
+    na Žemutinėje pilyje ir pagavo medinius statinius, aptva­
+    rus, užkardas. Ar išdaviko, ar priešo sumaniai padegta ugnis
+    staiga apėmė Krautuvių pilį ir likusią Kreivosios dalį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86164

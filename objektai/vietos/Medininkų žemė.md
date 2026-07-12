@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Medininkų žemė
 
@@ -27,9 +39,9 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
 <a id="claim-t-41919"></a>
 - t-001
   global_id: t-41919
-  teiginys: '1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę.'
+  teiginys: "1355 m. pradžioje Kryžiuočių kariuomenė penkias dienas niokojo centrinę Žemaitijos Medininkų žemę."
   pagrindžia:
-    - c-001
+    - c-45212
 - susijęs iš Łowmiański H., Studja: Łowmiańskio veikalas nurodomas prie nuomonės, kad Medininkų žemė susiformavo XIV a. sujungus centrinius Žemaitijos valsčius.
 ## Reikšmingi paminėjimai
 
@@ -71,10 +83,59 @@ BAU = S 8 S m e-+ > os 2% ## Puslapis 40 SUS os : i Paha “| KARALYS' Mūšio p
     mis kuriam laikui normalizavosi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45212
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    S
+    sv
+    2.
+    BAU
+    =
+    S 8
+    S
+    m
+    e-+
+    >
+    os
+    2%
+
+    ## Puslapis 40
+
+    SUS os
+
+    : i Paha
+    “| KARALYS'
+
+    Mūšio priešistorė
+
+    Tesiantis Lietuvos karui su Vokiečių or-
+    dinu, 1355 m. pradžioje didelė Kryžiuočių
+    kariuomenė, vadovaujama maršalo, įsi-
+    veržusi penketą dienų niokojo centri-
+
+    nę Žemaitijos Medininkų žemę, po to
+    Vaikius (vakariau Raseinių), Ariogalą
+    prie Dubysos. Tais metais į Lietuvos pie-
+    tines žemes veržėsi Lenkijos ir Vengrijos
+    jėgos, nuo 1356 m. santykiai su tomis šali-
+    mis kuriam laikui normalizavosi.
+  citata_rodoma: "BAU\n=\nS 8\nS\nm\ne-+\n>\nos\n2%\n\n## Puslapis 40\n\nSUS os\n\n: i Paha\n“| KARALYS'\n\nMūšio priešistorė\n\nTesiantis Lietuvos karui su Vokiečių or-\ndinu, 1355 m. pradžioje didelė Kryžiuočių\nkariuomenė, vadovaujama maršalo, įsi-\nveržusi penketą dienų niokojo centri-\n\nnę Žemaitijos Medininkų žemę, po to\nVaikius (vakariau Raseinių), Ariogalą\nprie Dubysos. Tais metais į Lietuvos pie-\ntines žemes veržėsi Lenkijos ir Vengrijos\njėgos, nuo 1356 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41919
 
 ## Ryšiai
 - Puolė Medininkų žemę: [[objektai/grupes/Kryžiuočių ordinas]]

@@ -1,0 +1,81 @@
+---
+tipas: asmuo
+pavadinimas: 'Flokas'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Flokas
+
+## Santrauka
+
+Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
+
+## Teiginiai
+
+<a id="claim-t-191397"></a>
+- t-001
+  global_id: t-191397
+  teiginys: "Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius."
+  pagrindžia:
+    - c-174279
+- susijęs iš [[objektai/asmenys/Starkateras.md#claim-t-191319|Starkateras]]: Narbutas pasakoja, kad Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
+- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
+- susijęs iš [[objektai/asmenys/Vyresnysis Starkateras.md#claim-t-191241|Vyresnysis Starkateras]]: Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką sprukti iš rūmų ir pasisavino jo aukso bei sidabro lobius.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Narbuto pasakojime Starkateras privertė rusnėnų karaliuką Floką bėgti iš rūmų ir pasisavino jo aukso bei sidabro lobius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Šio nenaudėlio sukaupti ant Anapilio kalno tur­
+    tai atiteko Danijos karaliui ir padėjo rengiant karo žy­
+    gius3. Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+    238
+    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
+    Olandijos karaliaus Jarmeriko žygius.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174279
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 244."
+  citata_originali: |
+    Šio nenaudėlio sukaupti ant Anapilio kalno tur­
+    tai atiteko Danijos karaliui ir padėjo rengiant karo žy­
+    gius3. Tas pats Starkateras, privertęs rusnėnų karaliuką
+    Floką sprukti iš savo rūmų, pasisavino jo nesuskaičiuoja­
+    mus lobius, daugybę aukso ir sidabro4.
+    238
+    Čia dera prisiminti ir įžymaus Siaurės kraštų kariūno,
+    Olandijos karaliaus Jarmeriko žygius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191397

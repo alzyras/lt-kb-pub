@@ -24,6 +24,18 @@ tags:
   - mūšis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Saulės mūšis (1236 m. rugsėjo 22 d.)
 
@@ -52,59 +64,59 @@ Nenurodyta
 <a id="claim-t-10287"></a>
 - t-001
   global_id: t-10287
-  teiginys: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
+  teiginys: "1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti."
   pagrindžia:
-    - c-001
+    - c-11907
 
 <a id="claim-t-10288"></a>
 - t-002
   global_id: t-10288
-  teiginys: 'Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.'
+  teiginys: "Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių."
   pagrindžia:
-    - c-002
+    - c-11908
 
 <a id="claim-t-10289"></a>
 - t-003
   global_id: t-10289
-  teiginys: 'Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus.'
+  teiginys: "Saulės mūšis išstūmė vokiečių ekspansiją iki Dauguvos ir paskatino žiemgalių, kuršių bei saremiečių sukilimus."
   pagrindžia:
-    - c-003
+    - c-11909
 
 <a id="claim-t-10290"></a>
 - t-004
   global_id: t-10290
-  teiginys: '1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai.'
+  teiginys: "1236 m. pergalė Šiaulių žemėje buvo itin reikšminga Lietuvos, Baltijos regiono ir Rytų Europos istorinei raidai."
   pagrindžia:
-    - c-004
+    - c-11910
 
 <a id="claim-t-66879"></a>
 - t-005
   global_id: t-66879
-  teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
+  teiginys: "Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d."
   pagrindžia:
-    - c-006
-    - c-007
+    - c-66986
+    - c-66987
 
 <a id="claim-t-66880"></a>
 - t-006
   global_id: t-66880
-  teiginys: 'Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą.'
+  teiginys: "Prieš Saulės mūšį 1236 m. kalavijuočiai su svečiais įsiveržė į Lietuvą ir žiauriai nusiaubė kraštą."
   pagrindžia:
-    - c-005
+    - c-66984
 
 <a id="claim-t-66881"></a>
 - t-007
   global_id: t-66881
-  teiginys: 'Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą.'
+  teiginys: "Po pralaimėto Saulės mūšio likusieji kalavijuočiai paprašė kryžiuočius priimti juos į savo tarpą."
   pagrindžia:
-    - c-008
+    - c-66988
 
 <a id="claim-t-66882"></a>
 - t-008
   global_id: t-66882
-  teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
+  teiginys: "1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai."
   pagrindžia:
-    - c-007
+    - c-66987
 - susijęs iš [[objektai/autoriai/Hermanas Vartbergė.md#claim-t-171495|Hermanas Vartbergė]]: Hermano Vartbergės „Livonijos kronikoje“ aprašytas 1236 m. Saulės mūšis ir jo pasekmės Kalavijuočių ordinui.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
@@ -125,6 +137,7 @@ Nenurodyta
     (ties dab.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,6 +152,7 @@ Nenurodyta
     lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,6 +169,7 @@ Nenurodyta
     ribas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -179,6 +194,7 @@ Nenurodyta
     raidai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -195,7 +211,8 @@ Nenurodyta
     pastojo jiems kelią.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -225,6 +242,7 @@ Nenurodyta
     Schmidt Wilh.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,6 +260,7 @@ Nenurodyta
     o kitus bėglius pakelyje žudė žiemgaliai^77.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -259,7 +278,181 @@ Nenurodyta
     žius patvirtino jų susitarimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
+## Citatos
+
+- id: c-11907
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1236 m. rugsėjį į Lietuvą įžengusios
+    didžiulės tarptautinės kryžeivių pajėgos,
+    sudarytos iš Kalavijuočių ordino bro-
+    lių ir kryžininkų iš įvairių Europos šalių,
+    „pasidalino į būrius“ ir ėmė plėšti. Iš
+    įvairių šaltinių žinoma, kad po plėšimo
+    kariuomenė vėl susirinkdavo į nustatytą
+    vietą-stovyklą. Šiaulių žemėje pagrindinė
+    strateginė kelių sankryža yra Šiauliuose
+    (ties dab.
+  citata_rodoma: "1236 m. rugsėjį į Lietuvą įžengusios\ndidžiulės tarptautinės kryžeivių pajėgos,\nsudarytos iš Kalavijuočių ordino bro-\nlių ir kryžininkų iš įvairių Europos šalių,\n„pasidalino į būrius“ ir ėmė plėšti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10287
+
+- id: c-11908
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Po daugelio garsių ir laimingų kovų su netikėliais magistras Volkvinas su kariuomene
+    žygiavo į netikėlių lietuvių kraštą kartu su Haseldorpo ir ponu Donnenbergo grafu, ir
+    ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys
+    lietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium).
+  citata_rodoma: "ten Saulės žemėje (terram Sauleorum) šv. Maurikijaus ir jo draugų kankinių dieną patys\nlietuviai užmušė 50 ordino brolių ir daugybę tikratikių (multitudine fidelium)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10288
+
+- id: c-11909
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ordino sutriuškinimas buvo toks stiprus,
+    kad iš vokiečių jungo išsivadavo Rytinė
+    Žiemgala, paskui sukilo kuršiai, saremie-
+    čiai estai. Vokiečių ekspansija buvo nu-
+    blokšta iki Dauguvos, į XIII a. pradžios
+    ribas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10289
+
+- id: c-11910
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ties Šiauliais suduotas smūgis ne tik
+    Kalavijuočių ordinui, bet ir popiežiaus
+    kurijos organizuotam Vokietijos, Lenkijos,
+    Švedijos, Rusios kunigaikščių, vokiečių
+    Ordinų bendram puolimui.
+
+    Atrėmusi galingą priešą, Lietuva kuriam
+    laikui įgijo ramybę šiaurėje bei galimybę
+    stiprinti savo valstybingumą viduje ir tarp-
+    tautinėje arenoje. 1236 m. pergalė Šiaulių
+    žemėje yra itin reikšminga Lietuvos, Bal-
+    tijos regiono bei Rytų Europos istorinei
+    raidai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10290
+
+- id: c-66984
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kryžiaus karas buvo paskelbtas, ir į Livoniją atvyko daugy-
+    bė Europos riterių. 1236 m. kalavijuočiai su svečiais įsiveržė į Lie-
+    tuvą ir žiauriai nusiaubė kraštą. Pajutę susitelkusią lietuvių ka-
+    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
+    pastojo jiems kelią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66880
+
+- id: c-66986
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Sandomierius 213, 217, 269, 286
+    Sangava, bajoras 368
+    Sanguškos, kng. 259
+    Santoko pilis 336
+    Sargėnai 77, 113
+    Sarnes A. 372, 375
+    Saulažolių kaimas 105
+    Saulės-Šiaulių kautynės 1, 65, 66,
+    149, 158, 160, 168, 169, 181, 208,
+    210
+    Sausių pilkapiai 108
+    Sauslaukas, prie Durbės 107
+    Savickis V. 79-80
+    Saxo Grammaticus 115
+    Schalauenburgo pilis 212
+    Schiemann Th. 89, 270
+    Schleswig 111
+    Schlözer A. L. 49, 89
+    Schmid H. F. 293
+    Schmidt Wilh.
+  citata_rodoma: "Saulės-Šiaulių kautynės 1, 65, 66,\n149, 158, 160, 168, 169, 181, 208,\n210"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66879
+
+- id: c-66987
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vėl pasitelkę jungtinę vietinių tautų kariuomenę ir gavę
+    Vokietijos kryžininkų talkos, riteriai suruošė didelį žygį į šiaurinę
+    Lietuvą. Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
+    Šiaulių srityje, pelkėtoje vietoje, jie Žemaičių kunigaikščio Vykinto^75
+    vadovaujamų būrių buvo sumušti (šv. Mauricijaus dieną, 1236.IX.22).
+    Daugybės žuvusiųjų tarpe buvo pats Volkevinas ir 48 riteriai 7#,
+    o kitus bėglius pakelyje žudė žiemgaliai^77.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66879
+    - t-66882
+
+- id: c-66988
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Iš visos jų kariuomenės, kaip rašo
+    kronikos, grįžę namo vos kas dešimtas karys.
+    Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-
+    prašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-
+    žius patvirtino jų susitarimą.
+  citata_rodoma: "Skaudžiai pralaimėję šitą mūšį, likusieji kalavijuočiai pa-\nprašė kryžiuočius priimti juos į savo tarpą. 1237 m. popie-\nžius patvirtino jų susitarimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66881

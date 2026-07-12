@@ -17,6 +17,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liubartas Gediminaitis
 
@@ -29,9 +41,9 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
 <a id="claim-t-30353"></a>
 - t-001
   global_id: t-30353
-  teiginys: 'Liubartas Gediminaitis mirė apie 1385 m.'
+  teiginys: "Liubartas Gediminaitis mirė apie 1385 m."
   pagrindžia:
-    - c-001
+    - c-32786
 - susijęs iš [[objektai/asmenys/Marija (Vitebsko sosto įpėdinė).md#claim-t-30356|Marija (Vitebsko sosto įpėdinė)]]: Marija buvo vienintelė Vitebsko kunigaikščio sosto įpėdinė, o ją vedęs Algirdas po uošvio mirties paveldėjo Vitebską.
 - susijęs iš [[objektai/autoriai/J. Puzyna.md#claim-t-30698|J. Puzyna]]: J. Puzyna 1930 m. paskelbė darbą „Korjat i Korjatowicze“, o 1936 m. pasirodė jo papildymai.
 - susijęs iš A. Presnjakov Obrazovanie velikorusskogo gosudarstva: A. Presnjakovo „Obrazovanie velikorusskogo gosudarstva“ išleista Petrograde 1918 m.
@@ -49,7 +61,28 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
     valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-32786
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1384 m. vasarą jis buvo gavęs dalį tėvo valdų, būtent, Gardiną,
+    Lietuvos Brastą ir Palenkę su Drohičinu ir Mielniku^8. O mirus
+    senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų
+    kažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­
+    valdė dvi svarbiausias pilis — Lucką ir Vladimirą^7.
+  citata_rodoma: "O mirus\nsenam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų\nkažkokiu nežinomu būdu įsigyveno Volinijoje. Ten Vytautas už­\nvaldė dvi svarbiausias pilis — Lucką ir Vladimirą^7."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30353

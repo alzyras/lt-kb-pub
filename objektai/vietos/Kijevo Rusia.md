@@ -11,22 +11,29 @@ datos:
   - '1387 m.'
 date_start: '1183'
 date_end: '1387'
-description: 'Kijevo Rusia siejama su Rusios žemėmis, lietuvių žygiais nuo 1183 m. ir Lietuvos valstybės plėtra į stačiatikiškas erdves.'
-socialDescription: 'Kijevo Rusia Lietuvos istorijoje minima kaip Rusios žemių erdvė, kur vyko ankstyvi lietuvių žygiai ir Lietuvos valstybės plėtra.'
-seo_atnaujinta: '2026-07-02T23:12:35.406878+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kijevo Rusia
 
 ## Santrauka
 
-Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII a. pabaigos darė įtaką Lietuvai, o vėliau tapo lietuvių karo žygių kryptimi. 1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką. Vėliau pagoniška Lietuvos valstybė užvaldė dideles buvusios Kijevo Rusios stačiatikiškų žemių erdves ir tapo regionine didvalstybe.
+Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią užvaldė pagoniška Lietuvos valstybė tapdama regionine didvalstybe. Rusios žemės taip pat minimos kaip ankstyvų lietuvių karo žygių kryptis.
 
 ## Pavadinimai šaltiniuose
 
@@ -50,100 +57,107 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
 <a id="claim-t-83616"></a>
 - t-001
   global_id: t-83616
-  teiginys: 'Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
+  teiginys: "Lietuva iki XII a. pabaigos buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją."
   pagrindžia:
-    - c-004
+    - c-79905
 
 <a id="claim-t-83617"></a>
 - t-002
   global_id: t-83617
-  teiginys: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes.'
+  teiginys: "Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe, užvaldžiusia dideles buvusios Kijevo Rusios stačiatikiškas žemes."
   pagrindžia:
-    - c-001
+    - c-26798
 
 <a id="claim-t-83618"></a>
 - t-003
   global_id: t-83618
-  teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką.'
+  teiginys: "1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, nusiaubė Pskovą ir galbūt Polocką."
   pagrindžia:
-    - c-006
+    - c-79910
 
 <a id="claim-t-83619"></a>
 - t-004
   global_id: t-83619
-  teiginys: 'Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas.'
+  teiginys: "Lietuvai priklausančioje Rusioje nuo seno buvo įsitvirtinęs feodalinis valdymas."
   pagrindžia:
-    - c-007
+    - c-79912
 
 <a id="claim-t-83620"></a>
 - t-005
   global_id: t-83620
-  teiginys: 'Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių.'
+  teiginys: "Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių."
   pagrindžia:
-    - c-003
+    - c-79904
+
+<a id="claim-t-83620"></a>
+- t-006
+  global_id: t-83620
+  teiginys: "Iš Rusios pirkliai į Gedimino sostinę atveždavo kai kurių Rytų vaisių."
+  pagrindžia:
+    - c-79904
 
 <a id="claim-t-83622"></a>
 - t-007
   global_id: t-83622
-  teiginys: '1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą.'
+  teiginys: "1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes ir nusiaubė Pskovą."
   pagrindžia:
-    - c-002
+    - c-26799
 
 <a id="claim-t-83623"></a>
 - t-008
   global_id: t-83623
-  teiginys: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
+  teiginys: "Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją."
   pagrindžia:
-    - c-004
+    - c-79905
 
 <a id="claim-t-83624"></a>
 - t-009
   global_id: t-83624
-  teiginys: 'Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves.'
+  teiginys: "Pagoniška Lietuvos valstybė užvaldė didžiules buvusios Kijevo Rusios stačiatikiškų žemių erdves."
   pagrindžia:
-    - c-001
+    - c-26798
 
 <a id="claim-t-83625"></a>
 - t-010
   global_id: t-83625
-  teiginys: 'Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia dideles buvusios Kijevo Rusios žemes.'
+  teiginys: "Pagoniška Lietuvos valstybė pamažu tapo regionine didvalstybe arba imperija, užvaldžiusia dideles buvusios Kijevo Rusios žemes."
   pagrindžia:
-    - c-001
+    - c-26798
 
 <a id="claim-t-83627"></a>
 - t-011
   global_id: t-83627
-  teiginys: 'Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.'
+  teiginys: "Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms."
   pagrindžia:
-    - c-005
+    - c-79907
 
 <a id="claim-t-83628"></a>
 - t-012
   global_id: t-83628
-  teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui.'
+  teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas perėjo Algirdui."
   pagrindžia:
-    - c-005
+    - c-79907
 
 <a id="claim-t-185124"></a>
 - t-013
   global_id: t-185124
-  teiginys: 'Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią.'
+  teiginys: "Kukovaitis, nurimęs dėl vidaus reikalų, galėjo siųsti didesnę pagalbą Skirmantui į Rusią."
   pagrindžia:
-    - c-008
+    - c-168485
 
 <a id="claim-t-185125"></a>
 - t-014
   global_id: t-185125
-  teiginys: 'Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.'
+  teiginys: "Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius."
   pagrindžia:
-    - c-009
+    - c-168486
 
 <a id="claim-t-185126"></a>
 - t-015
   global_id: t-185126
-  teiginys: 'Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią.'
+  teiginys: "Kojelavičius artimesne tiesai laikė nuomonę, kad Vytautas pradėjo karą su skitais rūpindamasis apginti Rusią."
   pagrindžia:
-    - c-010
+    - c-168487
 - susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
@@ -194,7 +208,8 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     (buvusios Kijevo Rusios) erdves. 1387 m.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -212,7 +227,8 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -237,6 +253,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -267,6 +284,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     Lietuvos žemėje medinėms pilims ir tvirtovėms.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -288,6 +306,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     galingiausiu valdovu Šiaurės Europoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -307,6 +326,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     į Lenkiją bei Livoniją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,6 +349,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     matus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -354,6 +375,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     pareikalauti iš Rusios duoklės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -384,6 +406,7 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     vietininkai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,15 +429,264 @@ Kijevo Rusia šioje žinių bazėje siejama su Rusios žemėmis, kurios iki XII 
     rusiai pražūtingą skitų jėgą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
 
+## Citatos
+
+- id: c-26798
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    suspėjo krikštytis, o 1253 m. – karūnuotis
+    karaliumi. Vis dėlto tai liko istorinis epi-
+    zodas, nors pagoniška valstybė pamažu
+    tapo regionine didvalstybe arba imperija,
+    užvaldžiusia didžiules stačiatikiškų žemių
+    (buvusios Kijevo Rusios) erdves. 1387 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83624
+    - t-83625
+    - t-83617
+
+- id: c-26799
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Mindaugas sukuria Lietuvos valstybę.
+    Mindaugo karūnacija 1253 metais
+    Aktyviausi ir karingiausi iš baltų genčių XI–XII a. atrodė
+    kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83622
+
+- id: c-79904
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
+    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
+    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
+    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
+    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+
+    ## Puslapis 40
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    atveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­
+    minyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai.
+  citata_rodoma: "Iš Rusios,\nGedimino vasalės ar besigiminiavusios, pirkliai į sostinę\n23\nMažesnieji broliai (pranciškonų\natšaka).\n\n## Puslapis 40\n\nVILNIAUS MIESTO ISTORIJA I TOMAS\natveždavo kai kokių Rytų vaisių, o iš Lenkijos, glaudžia gi­\nminyste susietos, ir iš Livonijos pasiekdavo rykai ir rūbai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83620
+    - t-83621
+
+- id: c-79905
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Būtent toje epochoje narsių piratų
+    valdomi prasti, bet mitrūs ir lengvi
+    laivai pasklido iš Skandinavijos pu­
+    siasalio po visą Baltijos pakrantę.
+    Sagos, kitaip sakant, senovinės tos
+    tautos legendos, eilėmis ir proza
+    15
+
+    ## Puslapis 32
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Paskui Lietuva net iki XII amžiaus pabaigos buvo Rusios
+    įtakoje, bet kratydamasi mongolų jungo, patraukė iš girių
+    ir, atrėmusi azijiečius, savo antpuoliais ėmė bauginti Rusią
+    bei Lenkiją. Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83616
+    - t-83623
+
+- id: c-79907
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: "Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­\nrasis, Gedimino vertas įpėdinis, narsa ir proto guvumu\nnenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai\nLietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet\ngalingiausiu valdovu Šiaurės Europoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83627
+    - t-83628
+
+- id: c-79910
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Mindaugo karūnacija 1253 metais
+    Aktyviausi ir karingiausi iš baltų genčių XI–XII a. atrodė
+    kuršiai, o XII a. pabaigoje prasidėjo lietuvių karo žygiai. Žinoma, kad
+    1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per
+    kurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai
+    padažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir
+    į Lenkiją bei Livoniją.
+  citata_rodoma: "Žinoma, kad\n1183 m. lietuviai surengė pirmąjį savarankišką žygį į Rusios žemes, per\nkurį nusiaubė Pskovą, o pakeliui turbūt ir Polocką. Vėliau lietuvių žygiai\npadažnėjo – kasmet vyko po vieną–du žygius ir ne tik į rusų pusę, bet ir\nį Lenkiją bei Livoniją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83618
+
+- id: c-79912
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Juk jei visas kraštas, didesne dalimi anuomet dar laukinis,
+    svetimšaliams pirkliams galėjo būti pelno šaltinis, tai jo sos­
+    tinei, ypač turinčiai rūmus tokio galingo valdovo, koks bu­
+    vo Gediminas, tie ryšiai, suprantama, buvo pravartus.
+    Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje
+    ir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­
+    dymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno
+    Lenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­
+    dislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­
+    tos pasitarimus, taip klodami busimosios šlėktų laisvės pa­
+    matus.
+  citata_rodoma: "Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje\nir Livonijos vokiečių žemėse buvo įsitvirtinęs feodalinis val­\ndymas. Jo užuomazgos, mažumėlę kitoniškų formų, ruseno\nLenkijoje, kur turtingi aristokratai kartu su dvasininkija Vla­\ndislovo Lokietkos laikais pradėjo šaukti suvažiavimus ir tau­\ntos pasitarimus, taip klodami busimosios šlėktų laisvės pa­\nmatus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83619
+
+- id: c-168485
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 84."
+  citata_originali: |
+    Grėsminga tebuvo šiaurė, tačiau
+    tos pusės saugumą laidavo tai, kad vokiečiai ir latviai,
+    įsivėlę Livonijoje į vidaus karą, neturėjo laiko niokoti
+    Lietuvos. Todėl, būdamas ramus dėl vidaus reikalų,
+    Kukovaitis galėjo siųsti didesnę pagalbą Skirmantui į
+    Rusią. Karą prieš Skirmantą susimanė rengti Balakla-
+    jus, naujas Užvolgio skitų kunigaikštis, galimas daib-
+    tas, norėdamas išdildyti pri-
+    S k irm a n ta s su m u ša
+    siminimus apie pralaimėjimą,
+    sk itu s
+    patirtą prieš keletą metų;
+    teisėtos priežasties, jis išleido pasiuntinius, turėjusius
+    pareikalauti iš Rusios duoklės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185124
+
+- id: c-168486
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 248"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 248."
+  citata_originali: |
+    Kęstutis mė­
+    gino sutrukdyti, tačiau, du
+    K a zim ie ra s, L e n k ijo s
+    kartus saugos karių atrem-
+    k a ra liu s, a tim a  iš Jie-
+    tas, galop išsižadėjo šio su-
+    tu v ių  R u sią
+    manymo. Tais pačiais metais
+    Kazimieras,
+    Lenkijos kara­
+    lius, pasinaudojęs proga, jog lietuviai įsitraukė į karą
+    su kryžiuočiais, atėmė iš jų rusų valdas išvijęs iš Vo­
+    lynės Algirdo brolį Liubartą. Mat, nors visą Belzo
+    kunigaikštystę paliko Jurgiui Narimantaičiui, o Podo­
+    lės kunigaikščiui Aleksandrui Narimantaičiui atidavė
+    Volynę, tačiau abi šias žemes atidavė su ta sąlyga,
+    kad aukščiausią galią į Rusią turėsiąs Lenkijos kara­
+    lius, o pilis, miestus bei įgulas tvarkysią lenkų skirti
+    vietininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185125
+
+- id: c-168487
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 350"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 350."
+  citata_originali: |
+    Gerai žinau, kad, pasak kurių ne kurių metrašti­
+    ninkų, Vytautas ėmęsis tokio drąsaus sumanymo dėl to,
+    kad troško išgarsėti ir išplėsti savo valdžią. Vis dėlto
+    garbės jausmą jis puikiausiai galėjo patenkinti karuo­
+    se su kryžiuočiais, todėl atrodo, jog daug arčiau tiesos
+    tie, kurie sako, kad jis pradėjo karą su skitais, rūpin­
+    damasis apginti Rusią. Mat Tamerlanas, nuniokojęs
+    didelę pasaulio dalį ir sutriuškinęs turko Bajazito ga­
+    lybę, sukėlė visose karalystėse didžiulį siaubą, pirmiau­
+    sia jis įvarė baimės kaimyninei Rusiai, ne kartą paty­
+    rusiai pražūtingą skitų jėgą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185126
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jaroslavas]]
-- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Gynė Kijevo Rusią: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Kukovaitis]]
 - Buvo žygio kryptis: [[objektai/grupes/Lietuviai]]
 - Kijevo Rusia priklausė [[objektai/vietos/Lietuva]]

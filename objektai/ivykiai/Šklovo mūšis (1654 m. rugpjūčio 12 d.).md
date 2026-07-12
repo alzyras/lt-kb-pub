@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šklovo mūšis (1654 m. rugpjūčio 12 d.)
 
@@ -46,16 +58,16 @@ Nenurodyta
 <a id="claim-t-41392"></a>
 - t-001
   global_id: t-41392
-  teiginys: 'Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę.'
+  teiginys: "Šklovo mūšio dieną kunigaikštis Čerkaskis su maždaug 40 000 karių nuo Smolensko žygiavo užimti Oršą ir Kopysę."
   pagrindžia:
-    - c-001
+    - c-11948
 
 <a id="claim-t-41393"></a>
 - t-002
   global_id: t-41393
-  teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
+  teiginys: "Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila."
   pagrindžia:
-    - c-002
+    - c-43146
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
 
@@ -75,6 +87,7 @@ Nenurodyta
     ir Kopysę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,10 +108,54 @@ Nenurodyta
     sams pajėgų dydžiu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Turėjo dalyvį: [[objektai/grupes/Lietuviai]]
+## Citatos
+
+- id: c-11948
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Caro kariuomenė prie
+    Smolensko taip pat nesiryžo imtis ryz-
+    tingesnių veiksmų ir šturmuoti tvirto-
+    vės, kol netoliese buvo J. Radvilos pajėgos.
+    Esant tokiai padėčiai atėjo 1654 m. rug-
+    pjūčio 12 diena. Kunigaikštis Čerkaskis,
+    turėdamas apie 40000 karių, tuo metu
+    nuo Smolensko žygiavo užimti Oršą
+
+    ir Kopysę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41392
+
+- id: c-43146
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos pajėgos
+
+    Šklovo mūšyje LDK kariuomenei vadovavo
+
+    didysis etmonas kunigaikštis Jonušas Radvila
+    (1612-1655). 1654 m. liepos mėn. J. Radvilos
+
+    vadovaujamas LDK karines pajėgas sudarė
+    11261 karys. Lietuviai stipriai nusileido ru-
+    sams pajėgų dydžiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41393

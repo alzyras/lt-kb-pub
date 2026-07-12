@@ -16,6 +16,18 @@ tags:
   - pilis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Išganytojo (Spaso) bažnyčia Vilniuje
 
@@ -28,9 +40,9 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
 <a id="claim-t-86191"></a>
 - t-001
   global_id: t-86191
-  teiginys: '1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.'
+  teiginys: "1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia."
   pagrindžia:
-    - c-001
+    - c-82170
 - susijęs iš Kaunas: Narbutas nurodo, kad tarp Kauno ir Vilkijos, prie Zapyškio, tekėjo upelis, kadaise vadintas Upinės, o vėliau Išganytojo upeliu.
 - susijęs iš Vilkija: Kairiajame Nemuno krante tarp Kauno ir Vilkijos buvo Zapyškis, prie kurio tekėjo upelis, kadaise vadintas Upinės, vėliau Išganytojo vardu.
 - susijęs iš Zapyškis: Narbutas Zapyškį apibūdina kaip mažą miestelį kairiajame Nemuno krante tarp Kauno ir Vilkijos, prie upelio, kadaise vadinto Upinės, o jo metu - Išganytojo vardu.
@@ -63,7 +75,33 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
     so) bažnyčia ir penktuosius - nuo Pilies.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82170
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tad 1505 metais, kai tie barbarai buvo mažumėlę
+    aprimę, karalius savo sprendimu atleido Vilniaus gyvento­
+    jus nuo karo tarnybos vieneriems metams, su sąlyga, kad
+    apsaugojimui nuo priešų, ypač pagonių, antpuolių, apjuostų
+    miestą mūro siena, kiekvienas pagal jam priskirtą rajoną, o
+    kas negalėtų mūrinės pastatyti, tegu tveria statinių tvorą.
+    Šiuo sprendimu buvo nurodyta sienoje į miestą palikti tik­
+    tai penketą vartų: pirmuosius -Vilijos link, antruosius - prie
+    kelio į Trakus, trečiuosius - palei Švč. Trejybės cerkvę, kur
+    dabar yra Aušros vartai, ketvirtuosius - ties Išganytojo (Spa-
+    so) bažnyčia ir penktuosius - nuo Pilies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86191

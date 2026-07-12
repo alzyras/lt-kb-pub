@@ -17,6 +17,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # generalgubernatorius
 
@@ -29,23 +41,30 @@ Jį valdė Vilniaus generalgubernatorius.
 <a id="claim-t-45820"></a>
 - t-001
   global_id: t-45820
-  teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.'
+  teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
   pagrindžia:
-    - c-003
+    - c-48499
 
 <a id="claim-t-45822"></a>
 - t-002
   global_id: t-45822
-  teiginys: 'Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija.'
+  teiginys: "Imperijos sostinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė tarpinė grandis – generalgubernatoriaus institucija."
   pagrindžia:
-    - c-002
+    - c-48497
 
 <a id="claim-t-182947"></a>
 - t-003
   global_id: t-182947
-  teiginys: 'Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius.'
+  teiginys: "Rusijos šiaurės vakarų kraštą valdė Vilniaus generalgubernatorius."
   pagrindžia:
-    - c-001
+    - c-46900
+
+<a id="claim-t-183425"></a>
+- t-004
+  global_id: t-183425
+  teiginys: "Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgaliojimus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių."
+  pagrindžia:
+    - c-166819
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
 - susijęs iš [[objektai/asmenys/V. Nazimovas.md#claim-t-40489|V. Nazimovas]]: Šiaurės Vakarų krašto generalgubernatorius V. Nazimovas balandžio pabaigoje įsakė I. Ganeckiui žygiuoti į Ukmergės apskritį ir sunaikinti sukilėlius.
 - susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
@@ -71,6 +90,7 @@ Jį valdė Vilniaus generalgubernatorius.
     bernatorius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,6 +106,7 @@ Jį valdė Vilniaus generalgubernatorius.
     buvo ir šiose gubernijose dislokuota kariuomenė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +126,7 @@ Jį valdė Vilniaus generalgubernatorius.
     įstatymų aktuose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -123,7 +145,85 @@ Jį valdė Vilniaus generalgubernatorius.
     mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-46900
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Visos tos trys gubernijos iš pradžių ir Rusų valdžios buvo
+    vadinamos Lietuvos gubernijomis. Tačiau, kai pra-
+    sidėjo rusinimo pastangos, rusai jas ėmė vadinti Rusijos
+    šiaurės vakarų kraštu. Jį valdė Vilniaus generalgu-
+    bernatorius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182947
+
+- id: c-48497
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Imperijos sos-
+    tinių ir pakraščių regionuose tarp centro valdžios ir gubernijų dar veikė
+    tarpinė grandis – generalgubernatoriaus institucija. Caro skiriamas gene-
+    ralgubernatorius kontroliavo kelių gubernijų administraciją. Jam pavaldi
+    buvo ir šiose gubernijose dislokuota kariuomenė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45822
+
+- id: c-48499
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
+    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai
+    išmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių
+    reforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta
+    vykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m.
+    įstatymų aktuose.
+  citata_rodoma: "Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-\nnančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė \nryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-\nvas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-\nmus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių. Jis gudriai \nišmušė iš sukilimo vadovybės valstietišką kortą – pasiekė, kad valstiečių \nreforma Lietuvoje būtų pakoreguota jiems palankesne kryptimi ir imta \nvykdyti be jokio derinimo su dvarininkais, kaip buvo numatyta 1861 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45820
+
+- id: c-166819
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Į didesnius dalinius sukilėliai jau nesitelkė, vadovavosi
+    partizaninio karo nedidelių antpuolių taktika.
+    Anglijai ir Prancūzijai apsiribojus tik diplomatinėmis notomis, ragi-
+    nančiomis Rusiją vengti didesnio kraujo praliejimo, jos vyriausybė veikė
+    ryžtingai. Vilniaus generalgubernatoriumi paskirtas Michailas Muravjo-
+    vas, turėjęs ankstesnio sukilimo slopinimo patirties, gavęs caro įgalioji-
+    mus, ėmėsi demonstratyvaus žiaurumo ir teroro priemonių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183425

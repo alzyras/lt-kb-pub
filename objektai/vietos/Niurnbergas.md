@@ -14,9 +14,22 @@ atnaujinta: ''
 tags:
   - krikštas
   - vieta
+  - šeima
 amziai:
   - 'XVIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Niurnbergas
 
@@ -29,9 +42,16 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
 <a id="claim-t-47037"></a>
 - t-001
   global_id: t-47037
-  teiginys: 'Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.'
+  teiginys: "Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai."
   pagrindžia:
-    - c-001
+    - c-49573
+
+<a id="claim-t-193221"></a>
+- t-002
+  global_id: t-193221
+  teiginys: "Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis."
+  pagrindžia:
+    - c-175963
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113879|Mikalojus Radvila Juodasis]]: Mikalojus Radvila Juodasis buvo Lietuvos didysis kancleris ir maršalka; jo šarvų viršutinė dalis apie 1555 m. pagaminta Niurnberge.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.).md#claim-t-66817|Pasiuntinybė į Niurnbergą dėl krikšto (1358 m.)]]: 1358 m. Niurnbergo seimui pateiktas krikšto pasiūlymas buvo politinis manevras, nes jo sąlygos deryboms netiko.
@@ -65,10 +85,64 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
     Dail. J. Mackevičius, 1934 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
+- c-002
+  santrauka: 'Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino imperatorių, kad Lietuva tikrai krikštysis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Imperatorius parašė Algirdui
+    ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-
+    čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
+    narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
+    torių, kad Lietuva tikrai krikštysis. Tada imperatorius išsiuntė
+    į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
+    vaujamą.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-49573
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors Niurnbergo
+    auksakaliai jau buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai,
+    Lucko suvažiavimas.
+    Dail. J. Mackevičius, 1934 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-47037
+
+- id: c-175963
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Imperatorius parašė Algirdui
+    ir Kęstučiui laiškus, siūlydamas krikštytis. Abu kunigaikš-
+    čiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimos
+    narį (greičiausiai Kęstučio sūnų Patriką), kuris įtikino impera-
+    torių, kad Lietuva tikrai krikštysis. Tada imperatorius išsiuntė
+    į Lietuvą savo delegaciją, Prahos arkivyskupo Ernesto vado-
+    vaujamą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193221

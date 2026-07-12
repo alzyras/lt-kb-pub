@@ -17,11 +17,6 @@ datos:
   - '1920 m.'
 date_start: '1221'
 date_end: '1920'
-description: 'Paryžius žinių bazėje sieja Henriko artikulus, Paryžiaus taikos konferenciją, Lietuvos paramos paieškas ir Europos kronikų įvykius.'
-socialDescription: 'Paryžius Lietuvos istorijos kontekste: nuo Henriko artikulų iki Lietuvos delegacijos prie Paryžiaus taikos konferencijos.'
-seo_atnaujinta: '2026-07-02T23:12:35.318755+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -29,112 +24,131 @@ tags:
 amziai:
   - 'XIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Paryžius
 
 ## Santrauka
 
-Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės paramos vieta. Čia Henrikas ir Karolis IX mėgino keisti artikulų punktus, bet lenkų ir lietuvių delegacijoms nenusileidus sutiko ir prisiekė. 1919 m. prie Paryžiaus taikos konferencijos veikusi Lietuvos delegacija siekė nepriklausomybės pripažinimo, o Paryžiuje Lietuva gavo britų, JAV ir Prancūzijos paramą.
+Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo brolis Karolis IX stengėsi kai kuriuos punktus pakeisti, bet, delegacijoms nenusileidus, su viskuo sutiko ir prisiekė.
 
 ## Teiginiai
 
 <a id="claim-t-91235"></a>
 - t-001
   global_id: t-91235
-  teiginys: 'Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą.'
+  teiginys: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą."
   pagrindžia:
-    - c-003
+    - c-24366
 
 <a id="claim-t-91236"></a>
 - t-002
   global_id: t-91236
-  teiginys: '1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių.'
+  teiginys: "1940 m. birželio 14-osios rytą vermachtas įžengė į Paryžių."
   pagrindžia:
-    - c-009
+    - c-86962
 
 <a id="claim-t-91237"></a>
 - t-003
   global_id: t-91237
-  teiginys: 'Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė.'
+  teiginys: "Paryžiuje Henrikas ir Karolis IX mėgino pakeisti kai kuriuos artikulų punktus, bet delegacijoms nenusileidus sutiko ir prisiekė."
   pagrindžia:
-    - c-001
+    - c-24364
 
 <a id="claim-t-91238"></a>
 - t-004
   global_id: t-91238
-  teiginys: 'Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.'
+  teiginys: "Jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu."
   pagrindžia:
-    - c-012
+    - c-86967
 
 <a id="claim-t-91240"></a>
 - t-005
   global_id: t-91240
-  teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
+  teiginys: "1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių."
   pagrindžia:
-    - c-006
+    - c-86959
 
 <a id="claim-t-91241"></a>
 - t-006
   global_id: t-91241
-  teiginys: 'Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje.'
+  teiginys: "Popiežiaus priklausomybės reskriptas buvo perskaitytas ir sudegintas Paryžiaus karaliaus rūmuose dvasininkų bei pasauliečių akivaizdoje."
   pagrindžia:
-    - c-008
+    - c-86961
 
 <a id="claim-t-91242"></a>
 - t-007
   global_id: t-91242
-  teiginys: 'Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją.'
+  teiginys: "Paryžiaus taikos konferencijoje lietuviai žydams žadėjo plačią kultūrinę autonomiją."
   pagrindžia:
-    - c-010
+    - c-86963
 
 <a id="claim-t-91243"></a>
 - t-008
   global_id: t-91243
-  teiginys: 'Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje.'
+  teiginys: "Tamplierių ordino didysis magistras 1314 m. buvo sudegintas ant laužo Paryžiuje."
   pagrindžia:
-    - c-011
+    - c-86966
 
 <a id="claim-t-91244"></a>
 - t-009
   global_id: t-91244
-  teiginys: 'Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija.'
+  teiginys: "Po susitikimo Paryžiuje su Augustu Zaleskiu A. Voldemarą Kauno stotyje pasitiko karininkai, priešinęsi deryboms su Lenkija."
   pagrindžia:
-    - c-004
+    - c-86957
 
 <a id="claim-t-91245"></a>
 - t-010
   global_id: t-91245
-  teiginys: 'Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių.'
+  teiginys: "Voldemaras buvo nubaustas tremtimi iš Zarasų į Paryžių."
   pagrindžia:
-    - c-007
+    - c-86960
 
 <a id="claim-t-91246"></a>
 - t-011
   global_id: t-91246
-  teiginys: '1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose.'
+  teiginys: "1919 m. prasidėjusioje Paryžiaus taikos konferencijoje Lietuva nebuvo juridinė dalyvė ir veikė kuluaruose."
   pagrindžia:
-    - c-002
+    - c-24365
 
 <a id="claim-t-91247"></a>
 - t-012
   global_id: t-91247
-  teiginys: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
+  teiginys: "Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais."
   pagrindžia:
-    - c-013
+    - c-86969
 
 <a id="claim-t-91248"></a>
 - t-013
   global_id: t-91248
-  teiginys: 'Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose.'
+  teiginys: "Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferencijos ir veikė kuluaruose."
   pagrindžia:
-    - c-002
+    - c-24365
 
 <a id="claim-t-91249"></a>
 - t-014
   global_id: t-91249
-  teiginys: '1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko.'
+  teiginys: "1304 m. apie Kalėdas per potvynį Paryžiuje sugriuvo abu tiltai, ir jų žymės nebeliko."
   pagrindžia:
-    - c-005
+    - c-86958
+
+<a id="claim-t-183621"></a>
+- t-015
+  global_id: t-183621
+  teiginys: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Prancūzijos paramą."
+  pagrindžia:
+    - c-167013
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-60271|Egidijus (arkivyskupas, XIV a.)]]: Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
@@ -142,6 +156,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
+- susijęs iš [[objektai/asmenys/Jurgis de Biufonas.md#claim-t-191426|Jurgis de Biufonas]]: Jurgis de Biufonas (de Buffon, 1707-1788) buvo prancūzų gamtininkas ir Paryžiaus botanikos sodo direktorius.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/autoriai/Francua Žozefas Noelis.md#claim-t-190297|Francua Žozefas Noelis]]: Francua Žozefo Noelio 1803 m. Paryžiuje išleistas mitologinis žodynas buvo istoriko Šaurų dvaro bibliotekoje.
@@ -166,6 +181,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-183974|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-62527|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/paprociai/Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika.md#claim-t-77960|Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika]]: Tarpukariu jaunos poros laikė garbės reikalu susituokti Paryžiuje ir susipažinti su pasauline literatūra bei menu.
+- susijęs iš Jurgis de Buffonas, Gamtos istorija: Jurgis de Biufonas buvo prancūzų gamtininkas, Paryžiaus botanikos sodo direktorius ir 1749–1788 m. leistos „Gamtos istorijos“ autorius.
 - susijęs iš Paryžiaus akademijos „Užrašai“: Narbutas Paryžiaus akademijos „Užrašų“ XVII tomą nurodė kaip šaltinį pastaboms apie alaus mitologinę kilmę.
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
 - susijęs iš Berezina: Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.
@@ -211,10 +227,18 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
 - susijęs iš Vilnius: 1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.
 - susijęs iš Šveicarija: Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.
 - susijęs iš [[objektai/zodynas/Kahalai.md#claim-t-21993|Kahalai]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192252|Phyllantus Emblica]]: Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192253|Phyllantus Emblica]]: Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192254|Phyllantus Emblica]]: Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192255|Phyllantus Emblica]]: Narbutas Phyllantus Emblica vadina karšto klimato medžiu.
 - susijęs iš [[objektai/zodynas/autonomija autonominis statusas.md#claim-t-70093|autonomija autonominis statusas]]: Paryžiuje Lietuva pažadėjo plačią kultūrinę autonomiją žydams ir kitoms tautinėms mažumoms.
 - susijęs iš [[objektai/zodynas/kahalai sėslumo riba.md#claim-t-22176|kahalai sėslumo riba]]: 1920 m. nacionalinėje demokratiškai išrinktų žydų kahalų (bendruomenių) atstovų konferencijoje sudaryta Lietuvos žydų taryba (Vaad) iš 34 narių, kuri turėjo spręsti visus socialinius ir kultūrinius žydų reikalus.
 - susijęs iš [[objektai/zodynas/kultūrinė autonomija.md#claim-t-169916|kultūrinė autonomija]]: Paryžiaus taikos konferencijoje lietuviai žydams prižadėjo plačiausią kultūrinę autonomiją.
 - susijęs iš [[objektai/zodynas/neutralizacija.md#claim-t-70251|neutralizacija]]: Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192252|Phyllantus Emblica]]: Narbutas rašo, kad Phyllantus Emblica kaip karšto klimato medis neturėtų stebinti Prūsijoje tik jei minėtas vaisius neišaugo Emblikoje.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192253|Phyllantus Emblica]]: Narbuto pasakojimu, Halės botanikas Sprengelis pagal vaisiaus išvaizdą priskyrė gintarą prie Phyllantus Emblica.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192254|Phyllantus Emblica]]: Narbuto cituojamas Sprengelis svarstė, kad su Phyllantus Emblica sietas prūsų vaisius galėjo būti susijęs su palme.
+- susijęs iš [[objektai/zodynas/Phyllantus Emblica.md#claim-t-192255|Phyllantus Emblica]]: Narbutas Phyllantus Emblica vadina karšto klimato medžiu.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
 - susijęs iš Zarasai: Voldemaras buvo ištremtas iš Zarasų į Paryžių.
 - susijęs iš [[objektai/daiktai/Žemėlapis „Lituania Propria“.md#claim-t-26416|Žemėlapis „Lituania Propria“]]: „Lituania Propria“ žemėlapis pateiktas Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m.
@@ -238,6 +262,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     ir prisiekė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -262,6 +287,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     jos ir veikė kuluaruose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -279,6 +305,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     cūzijos paramą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -300,6 +327,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     zicijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -316,6 +344,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     patyrė baisybę nuostolių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -331,6 +360,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -344,6 +374,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -362,6 +393,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -384,6 +416,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     10 val. ryto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -403,6 +436,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -421,6 +455,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     argumentacijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -441,6 +476,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     sava filosofijos mokykla.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -466,6 +502,7 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -484,12 +521,311 @@ Paryžius žinių bazėje iškyla kaip politinių derybų ir tarptautinės param
     nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
 
+## Citatos
+
+- id: c-24364
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Karaliui prisiimtų sąlygų nevykdant, Henriko artikulai
+    leido jo neklausyti (tas punktas paprastai vadinamas _de поп
+    praestanda oboedientia_ — apie atsisakymą nuo paklusnumo).
+    **Henrikas** per savo atstovą elekciniam seime sutiko su viso-
+    mis sąlygomis. Lenkų ir lietuvių delegacijoms atvažiavus į Pa-
+    ryžių, pats Henrikas ir
+    jo brolis Karolis IX
+    stengėsi kai kuriuos
+    punktus pakeisti, bet,
+    delegacijoms nenusilei-
+    dus, su viskuo sutiko
+    ir prisiekė.
+  citata_rodoma: "Lenkų ir lietuvių delegacijoms atvažiavus į Pa-\nryžių, pats Henrikas ir\njo brolis Karolis IX\nstengėsi kai kuriuos\npunktus pakeisti, bet,\ndelegacijoms nenusilei-\ndus, su viskuo sutiko\nir prisiekė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91237
+
+- id: c-24365
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    greitosiomis kūrė Lietuvos karines pajėgas, pirmieji Lietuvos daliniai, pa-
+    dedami saksų savanorių dalinių, stojo į ginkluotą kovą prieš Raudonąją
+    armiją ir pagaliau ją sustabdė fronto linijoje Kaunas–Alytus.
+    Palaipsniui pasikeitė ir Lietuvos Tarybos vertinimas: provokiška
+    orientacija ją kaltinusi lietuvių kairė, lenkai ir net Antantė turėjo pripa-
+    žinti, kad sunkiomis sąlygomis, svetimųjų varžoma Lietuvos Taryba suge-
+    bėjo išlaviruoti ir iškelti Lietuvos nepriklausomybės klausimą, išsivaduoti
+    iš Vokietijos politikos diktato ir paskubomis kūrė valdžios ir savivaldybių
+    įstaigas.
+    Versalio sistemoje
+    Lietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje
+    prasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai
+    delegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-
+    jos ir veikė kuluaruose.
+  citata_rodoma: "Versalio sistemoje\nLietuva, kitaip negu Lenkija, nebuvo 1919 m. pradžioje \nprasidėjusios Paryžiaus taikos konferencijos juridinė dalyvė, tad oficialiai \ndelegacija vadinosi Lietuvos delegacija prie Paryžiaus taikos konferenci-\njos ir veikė kuluaruose."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91248
+    - t-91246
+
+- id: c-24366
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sėkmingai likviduotas ir bermontininkų
+    rengtas perversmas Kaune. Kovose gimę Lietuvos kariuomenės savanorių
+    pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones,
+    tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą.
+  citata_rodoma: "Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-\ncūzijos paramą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91235
+
+- id: c-86957
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    A. Voldemaras užsienio politiką
+    stumtelėjo radikalesne kryptimi, pabrėžęs, kad politika su Lenkija nesi-
+    keičia, tačiau be Vilniaus Lietuva nėra vienas kūnas. Neatsisakęs derybų
+    su Lenkija, manydamas jų metu parodyti, kad Vilniaus klausimas nėra
+    išspręstas, A. Voldemaras prašovė – 1927 m. balandį derybose Lenkija
+    atsisakė kalbėtis dėl Vilniaus. Po susitikimo Paryžiuje su Lenkijos užsie-
+    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
+    A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
+    suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
+    zicijos.
+  citata_rodoma: "Po susitikimo Paryžiuje su Lenkijos užsie-\nnio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną \nA. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam \nsuprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-\nzicijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91244
+
+- id: c-86958
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 245"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 245."
+  citata_originali: |
+    97. Apie potvynį
+
+      1304 viešpaties metais, apie kalėdas, taip ištvino vanduo, kad žmonės manė, jog žūsią
+    nuo tvano. Paryžiuje sugriuvo abudu tiltai, kurių nė žymės nebeliko, kitos provincijos irgi
+    patyrė baisybę nuostolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91249
+
+- id: c-86959
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 229."
+  citata_originali: |
+    26. Apie viešpaties erškėčių vainiko perkėlimą
+
+      1239 viešpaties metais Liudvikas, Prancūzijos karalius, perkėlė iš Konstantinopolio  į
+    Paryžių viešpaties erškėčių vainiką (Ptol. 21,36).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91240
+
+- id: c-86960
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tik A. Voldemaras šį kartą nubaustas ypač rimtai – iš
+    Lietuvos provincijos miestelio Zarasų ištremtas į Paryžių...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91245
+
+- id: c-86961
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 244"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 244."
+  citata_originali: |
+    Mat popiežius pasakė, kad ir pasaulietiški, ir dvasiški Prancūzijos
+    karalystės reikalai esą betarpiškai pavaldūs apaštališkajam sostui, ir pasiuntė popiežius
+    priklausomybės reskriptą su bule Prancūzijos karaliui, tvirtindamas, jog tas, kas teigiąs
+    priešingai, esąs eretikas. Šis reskriptas buvo perskaitytas  ir sudegintas Paryžiuje,
+    karaliaus rūmuose, daugybės dvasininkų bei pasauliečių akivaizdoje. Karalius paskelbė
+    15 kaltinimų popiežiui ir kreipėsi į busimąjį susirinkimą arba popiežių. Vis dėlto popiežius
+    Romos susirinkime išsiteisino nuo šių kaltinimų (Ptol. p. 1221 ir kt.; Mart. p. 438).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91241
+
+- id: c-86962
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nuo V. Molotovo rėksmingų kaltinimų
+    absurdiškumo A. Merkys palūžo psichologiškai. Birželio 10 dieną Kaune
+    sužinojus, kad A. Merkiui nesiseka normalizuoti situaciją, nutarta pasiųsti
+    į Maskvą ministrą J. Urbšį. Tačiau nei J. Urbšys, nei taikingas A. Smetonos
+    laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos
+    pareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus
+    į Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų
+    ultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-
+    timi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-
+    nę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos
+    10 val. ryto.
+  citata_rodoma: "Smetonos \nlaiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų Lietuvos \npareigūnų atleidimas nepadėjo – birželio 14-osios rytą vermachtui įžengus \nį Paryžių, tos pat dienos vakare 11:45 J. Urbšys gavo iš V. Molotovo rankų \nultimatumą – pareikalauta, kad Lietuva įsileistų papildomus, jokia sutar-\ntimi neribotus sovietų karinius dalinius, pakeistų vyriausybę į prosovieti-\nnę, nubaustų „kaltus“ pareigūnus ir duotų atsakymą iki birželio 15 dienos \n10 val."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91236
+
+- id: c-86963
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Žydų miesto bendruomenės ir jų prekybos, finan-
+    sų pajėgų parama dar nelietuviškuose miestuose buvo svarbi ir vidaus,
+    ir užsienio politikos sumetimais. 1918 m. gruodį žydų sionistai Jokūbas
+    Vygodskis ir S. Rozenbaumas tapo Lietuvos vyriausybės nariais atitin-
+    kamai kaip ministras be portfelio žydų reikalams ir užsienio reikalų vi-
+    ceministras. Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos
+    planų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie
+    tiktai prašė, visų pirma plačiausią kultūrinę autonomiją.
+  citata_rodoma: "Lietuviai nepuoselėjo antisemitizmo ir žydų asimiliacijos \nplanų, o žydams Paryžiaus taikos konferencijoje prižadėjo viską, ko tie \ntiktai prašė, visų pirma plačiausią kultūrinę autonomiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91242
+
+- id: c-86966
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 18"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 18."
+  citata_originali: |
+    Prancūzijoje prasidėjo tamplierių, po Jeruzalės karalystės žlugimo (1291
+    m.) įsikūrusių šioje žemėje, procesas. Gindamas popiežiaus ir karaliaus interesus, 1310
+    m. vyskupų sinodas pasmerkė 54 tamplierius sudeginti. Apkaltintas erezija Tamplierių
+    ordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo
+    Paryžiuje 1314 m.69
+      Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis
+    argumentacijos.
+  citata_rodoma: "Apkaltintas erezija Tamplierių\nordinas galutinai likviduotas 1312 m., o jo didysis magistras sudegintas ant laužo\nParyžiuje 1314 m.69\n  Tokiomis aplinkybėmis ir Kryžiuočių ordinui nebepakako tradicinės kovos prieš pagonis\nargumentacijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91243
+
+- id: c-86967
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kauno Vytauto Didžiojo universiteto veiklą papildė Žemės ūkio
+    akademija Dotnuvoje, Veterinarijos akademija Kaune, rengusios speci-
+    alistus žemės ūkiui, Pedagoginis institutas rengė mokytojus, Dailės mo-
+    kykla ir konservatorija ugdė menininkus, gavę valstybės stipendijas apie
+    1 500 jaunų lietuvių baigė užsienyje inžinerijos, jūreivystės, medicinos,
+    kalbų ir istorijos, karo mokslus.
+    Jaunos poros laikė garbės reikalu susituokti Paryžiuje, susipažinti su
+    pasauline literatūra, menu. Gimė profesionali lietuvių dailė, architektūra,
+    sava filosofijos mokykla.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91238
+
+- id: c-86969
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 239"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 239."
+  citata_originali: |
+    Šis
+    popiežius patvirtino karmelitų ordiną, dėl kurio Liono sinodas nebuvo nieko nutaręs, o
+    karmelitai šiurkščius marškinius pakeitė baltais abitais. Tuo pat metu Paryžiuje daugiau
+    triūsė augustinų ordinas, kai jį tvarkė nauji magistrai (Ptol. 24,13; Mart. p. 432; Ptol.
+    24, H).
+
+
+
+        72. Apie brolį Egidijų, švento Augustino ordino didįjį mokytoją, bei apie jo mirtį
+
+      Tuo metu garsėjo magistras Egidijus, didysis augustinų ordino mokytojas, vėliau
+    Bonifaco VIII, popiežiaus, paskirtas Beri arkivyskupu (Ptol. 24, 14), jis mirė Avinjone,
+    kai ten įsikūrė Romos kurija, Jono XXII, popiežiaus, laikais, 1316 viešpaties metų sausio
+    1 dieną, o palaidotas Paryžiuje su kitais savo ordino broliais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91247
+
+- id: c-167013
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kovose gimę Lietuvos kariuomenės savanorių
+    pulkai, partizanai mūšiuose dėl nepriklausomybės prarado 1 444 žmones,
+    tačiau apgynė kraštą ir išstūmė iš jo svetimas kariuomenes.
+    Paryžiuje Lietuva gavo politinę britų, materialinę – JAV, karinę – Pran-
+    cūzijos paramą. Pasamdyta užsienio karininkų tarnybai Lietuvoje, pra-
+    dėta formuoti JAV lietuvių karinė brigada – nors daug tokių sumanymų
+    nepavyko dėl finansų stokos, jie turėjo gerą atgarsį tarp sąjungininkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183621
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]], [[objektai/asmenys/Augustas Zaleskis]], [[objektai/asmenys/Augustinas Voldemaras]]
+- Buvo kelionės vieta: [[objektai/asmenys/A. Voldemaras]]
 - Turėjo palaidotą asmenį: [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]]
-- Turėjo priklausinį: [[objektai/daiktai/Žemėlapis „Lituania Propria“]]

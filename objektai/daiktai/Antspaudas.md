@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Antspaudas
 
@@ -49,23 +61,23 @@ Nenurodyta
 <a id="claim-t-64897"></a>
 - t-001
   global_id: t-64897
-  teiginys: '1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais.'
+  teiginys: "1401 m. kovo 11 d. Radome duoto Lenkų karališkosios tarybos dokumento originalas išliko Radvilų archyve su 49 antspaudais."
   pagrindžia:
-    - c-002
+    - c-14295
 
 <a id="claim-t-64898"></a>
 - t-002
   global_id: t-64898
-  teiginys: 'XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais.'
+  teiginys: "XIX a. pradžios istorikai teigė matę tos sutarties originalą su visų keturių valdovų sveikais antspaudais."
   pagrindžia:
-    - c-001
+    - c-14294
 
 <a id="claim-t-184601"></a>
 - t-003
   global_id: t-184601
-  teiginys: '1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu.'
+  teiginys: "1649 m. rugpjūčio 25 d. Vilniuje leidimas spausdinti Lietuvos istorijos pirmą dalį buvo paliudytas įprastiniu tarnybos antspaudu."
   pagrindžia:
-    - c-003
+    - c-167962
 - susijęs iš [[objektai/asmenys/Bičkus.md#claim-t-190227|Bičkus]]: Narbutas nurodo, kad Bičkus 1604 metais pridėjo antspaudą su driežiuko piešiniu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176340|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis darė išvadą, kad Gedimino vardu naudotas antspaudas nebuvo tikras ir buvo suklastotas.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176383|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gedimino vardu naudotame antspaude jis tituluotas lietuvių ir rusų karaliumi.
@@ -80,6 +92,7 @@ Nenurodyta
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-188660|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: Narbutas aprašė, kad 1436 m. Žygimanto Kęstutaičio didžiajame antspaude buvo keturi herbiniai skydai, tarp jų Lietuvos Vytis.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190288|Tadas Volianskis]]: Narbutas perteikė Tado Volianskio pastabą, kad Smilginio 1475 m. antspaudo žąsis primena Pabaltijo slavų būrimą žirgu.
 - susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190289|Tadas Volianskis]]: Tadas Volianskis Bartoševičiaus 1603 m. antspaudo runų užrašą skaitė kaip „Simeonas“.
+- susijęs iš [[objektai/autoriai/Tadas Volianskis.md#claim-t-190805|Tadas Volianskis]]: Teodoras Narbutas rašo, kad Tadas Volianskis antspaudo žąsį siejo su Pabaltijo slavų būrimu, kuriam naudotas žirgas.
 - susijęs iš [[objektai/daiktai/1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas.md#claim-t-87106|1547 m. Paleckio privilegijos Lietuvos Didžiosios Kunigaikštystės antspaudas]]: 1547 m. gegužės 22 d. Paleckiui duota privilegija turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.
 - susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87046|Antspaudai ir pergamentiniai privilegijų originalai]]: Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
@@ -219,9 +232,6 @@ Nenurodyta
 - susijęs iš Trakai: Trakų žydai prašė patvirtinti Aleksandro, arba Vytauto, suteiktas teises, laisves ir privilegijas.
 - susijęs iš Trakų pavietas arba vaivadija: Jonas Lenartaitis Kęsgaila prispaudė antspaudą prie 1490 m. sutarties, kurią sudarė Trakų pavieto, arba vaivadijos, bajorai.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilnius: Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.
 - susijęs iš Vilnius: Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.
@@ -246,6 +256,7 @@ Nenurodyta
     sveikas antspaudas^2 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -264,7 +275,8 @@ Nenurodyta
     (^2) ) C. ep. V., 223.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -294,10 +306,86 @@ Nenurodyta
     1649 viešpaties metais, rugpjūčio 25 dieną.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-14294
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    tikro prie šitos sutarties buvo Vytauto antspauda su jo ženklu
+    ir užrašu „S: DUCJS VITAUTE”, kas reiškia kunigaikščio
+    Vytauto antspaudą. 1379 metai yra pati pirmoji Vytauto ant­
+    spaudos pasirodymo data^1 ). Prūsų istorikas Voigtas (apie 1825
+    metus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­
+    mi tos sutarties originalą, sakė esą matę visų keturių valdovų
+    sveikas antspaudas^2 ).
+  citata_rodoma: "Prūsų istorikas Voigtas (apie 1825\nmetus) ir kiti to laiko istorikai, t. y. prieš šimtą metų, žiūrėda­\nmi tos sutarties originalą, sakė esą matę visų keturių valdovų\nsveikas antspaudas^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64898
+
+- id: c-14295
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^1) ) a) Vytauto dokumento, duoto 1401 m. sausio 18 d. Vilniuj, yra išli­
+    kęs iki mūsų laikų originalas (kun. Cartoriškių archyve).
+    b) Lietuvių bajorų dokumentas išduotas tais pačiais metais ir tą pačią
+    dieną Vilniuj; originalas žuvęs.
+    c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­
+    dome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj.
+    (^2) ) C. ep. V., 223.
+  citata_rodoma: "c) Lenkų karališkos tarybos dokumento, duoto 1401 m. kovo 11 d. Ra­\ndome, išlikęs originalas su 49 antspaudomis, yra Radvilų archyve Niesvyžiuj."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-64897
+
+- id: c-167962
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Tavo Aukštybės
+    žemiausiasis tarnas
+    Albertas Vijiikas-Kojelavičius
+    Jėzaus draugijos narys
+    40
+
+    ## Puslapis 39
+
+    LEIDIMAS
+    Aš, žemiau pasirašęs Lietuvos provincijos Jėzaus
+    draugijos viršininkas, remdamasis didžiai gerbiamo
+    mūsų tėvo Vincento Karafos, Generalinio Viršininko,
+    man šiuo atveju suteikta galia, leidžiu spausdinti Lie­
+    tuvos istorijos pirmą dalį, TĖVO ALBERTO KOJELA­
+    VIČIAUS surašytą ir kelių tos pačios Jėzaus draugi­
+    jos teologų peržiūrėtą bei aprobuotą. Šitai patvirtin­
+    damas, savo ranka surašiau šį dokumentą ir jį išdaviau,
+    paliudydamas įprastiniu tarnybos antspaudu. Vilniuje,
+    1649 viešpaties metais, rugpjūčio 25 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184601
+
 ## Ryšiai
-- Antspaudas priklausė [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]], [[objektai/asmenys/Katilas]], [[objektai/vietos/Vilnius]]
+- Antspaudas priklausė [[objektai/asmenys/Katilas]]

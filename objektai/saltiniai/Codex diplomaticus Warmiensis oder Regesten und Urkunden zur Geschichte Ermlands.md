@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
 
@@ -29,10 +41,9 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
 <a id="claim-t-61059"></a>
 - t-001
   global_id: t-61059
-  teiginys: 'Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m.'
+  teiginys: "Codex diplomaticus Warmiensis pirmasis tomas, apimantis 1231–1340 m., išleistas Maince 1860 m."
   pagrindžia:
-    - c-001
-
+    - c-61691
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,25 @@ Dusburgietis teigia, kad codex diplomaticus Warmiensis oder Regesten und Urkunde
     / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61691
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 261"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 261."
+  citata_originali: |
+    Codex diplomaticus Warmiensis oder Regesten und Urkunden zur Geschichte Ermlands
+    / K. P. Woelky und J. M. Saage.—Bd. 1 (1231 —1340), Mainz, 1860.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61059

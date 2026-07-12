@@ -6,7 +6,20 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - paprotys
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstiečių prievolių inventorizavimas ir suvienodinimas
 
@@ -34,10 +47,9 @@ Nenurodyta
 <a id="claim-t-02041"></a>
 - t-001
   global_id: t-02041
-  teiginys: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
+  teiginys: "Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos."
   pagrindžia:
-    - c-001
-
+    - c-02279
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +62,27 @@ Nenurodyta
     buvo įsteigti specialūs komitetai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02279
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Privatiniuose dvaruose tebuvo tik suvienodintos vals-
+    tiečių prievolės. Tam tikslui buvo įsakyta paruošti vadinamuo-
+    sius inventorius, kuriuose nuo seno buvo surašomos visos
+    valstiečių pareigos. Inventoriams suvienodinti visose gubernijose
+    buvo įsteigti specialūs komitetai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02041

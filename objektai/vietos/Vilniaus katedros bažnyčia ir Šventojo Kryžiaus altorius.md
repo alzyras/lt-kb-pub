@@ -8,6 +8,19 @@ atnaujinta: ''
 tags:
   - vieta
   - vyskupas
+  - šventė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus katedros bažnyčia ir Šventojo Kryžiaus altorius
 
@@ -20,10 +33,9 @@ tags:
 <a id="claim-t-86313"></a>
 - t-001
   global_id: t-86313
-  teiginys: 'Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu.'
+  teiginys: "Šventojo Kryžiaus altorius buvo Vilniaus katedros bažnyčioje ties šventovės viduriu."
   pagrindžia:
-    - c-001
-
+    - c-82292
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,7 +63,42 @@ tags:
     nuo Kristaus gimimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82292
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Val erianus Episcopus Vilnen. manu propria.
+    -- •
+    418
+
+    ## Puslapis 435
+
+    IV  KNYGA
+    norime, kad po mūsų mirties keturis kartus per metus į mū­
+    sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­
+    čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­
+    tas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas
+    ateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­
+    nigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­
+    gose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­
+    tą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota
+    ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­
+    sų rezidencijos name pirmadienį, po Velykų sekmadienio,
+    tūkstantis penki šimtai septyniasdešimt devintaisiais metais
+    nuo Kristaus gimimo.
+  citata_rodoma: "manu propria.\n-- • \n418\n\n## Puslapis 435\n\nIV  KNYGA\nnorime, kad po mūsų mirties keturis kartus per metus į mū­\nsų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­\nčio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­\ntas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas \nateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­\nnigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­\ngose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­\ntą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota \nir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­\nsų rezidencijos name pirmadienį, po Velykų sekmadienio, \ntūkstantis penki šimtai septyniasdešimt devintaisiais metais \nnuo Kristaus gimimo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86313

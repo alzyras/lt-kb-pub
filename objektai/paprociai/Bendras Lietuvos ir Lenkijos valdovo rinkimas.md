@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bendras Lietuvos ir Lenkijos valdovo rinkimas
 
@@ -50,24 +62,23 @@ Nenurodyta
 <a id="claim-t-93025"></a>
 - t-001
   global_id: t-93025
-  teiginys: 'Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose.'
+  teiginys: "Lietuvių bajorų aktas numatė, kad po Vytauto mirties lietuviai įgis teisę dalyvauti naujo kunigaikščio rinkimuose."
   pagrindžia:
-    - c-001
+    - c-37108
 
 <a id="claim-t-93026"></a>
 - t-002
   global_id: t-93026
-  teiginys: 'Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose.'
+  teiginys: "Lietuviai, mirus Vytautui, gavo teisę dalyvauti naujo kunigaikščio rinkimuose."
   pagrindžia:
-    - c-001
+    - c-37108
 
 <a id="claim-t-93027"></a>
 - t-003
   global_id: t-93027
-  teiginys: 'Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios.'
+  teiginys: "Lietuvių bajorų akte nustatyta, kad Jogailai mirus be įpėdinių Lenkija negalėtų rinktis karaliaus be Vytauto ir jo bajorų žinios."
   pagrindžia:
-    - c-002
-
+    - c-88434
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -83,6 +94,7 @@ Nenurodyta
     teisę seniau.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +114,52 @@ Nenurodyta
     tekti Vytautui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-37108
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Lenkų ponų
+    taryba Radome davė garantiją, kaip lietuv. bajorai Vilniuj len­
+    kams, kad Vytautui nebus atimta d. Lietuvos kunigaikštija. Lie­
+    tuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei
+    šis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna
+    teisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą
+    teisę seniau.
+  citata_rodoma: "Lie­\ntuvių bajorų aktas leidžia jiems daryti spaudimą į Vytautą, jei\nšis nesilaikytų unijos; taip pat lietuviai, mirus Vytautui, gauna\nteisę dalyvauti naujo kun. elekcijoj. Lenkų bajorija turėjo tą\nteisę seniau."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93025
+    - t-93026
+
+- id: c-88434
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet
+    užtat jų akte yra ir naujas punktas, kurio nėra Vytauto doku­
+    mente, pav.: jei Jogaila numirtų nepalikęs įpėdinių, Lenkija nega­
+    li rinktis sau karaliaus be Vytauto ir jo bajorų žinios^2 ). Šis punk­
+    tas praplatino Lietuvos teises ir tartum paruošė dirvą tam, kad
+    Jogailai mirus anksčiau už Vytautą, Lenkijos sostas galėtų ati­
+    tekti Vytautui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93027

@@ -11,13 +11,24 @@ date_start: '1666'
 date_end: '1667'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
-tags:
-  - asmuo
-  - privilegija
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Kazimieras
 
@@ -26,25 +37,25 @@ tags:
 Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėtai gauna privilegiją Vilniaus vaitystei, bet ją Jonas Kazimieras panaikina sausio 15 d. dekretu - 1667 15.
 
 ## Teiginiai
+
 <a id="claim-t-87912"></a>
 - t-001
   global_id: t-87912
-  teiginys: 'Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją.'
+  teiginys: "Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją."
   pagrindžia:
-    - c-001
+    - c-83891
 
 <a id="claim-t-188551"></a>
 - t-002
   global_id: t-188551
-  teiginys: 'Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms.'
+  teiginys: "Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms."
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171440
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87352|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Andrius Katavičius 1666 m. neteisėtai gavo privilegiją Vilniaus vaitystei, bet Jonas Kazimieras ją panaikino 1667 m. sausio 15 d. dekretu.
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Jonas Kazimieras 1667 m. sausio 15 d. dekretu panaikino Andriaus Katavičiaus neteisėtai gautą Vilniaus vaitystės privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -63,10 +74,12 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     15.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas rašė, kad valdant Jonui Kazimierui į Lietuvą persikėlė rusų sentikiai, nepritarę patriarcho Nikono Biblijos ir liturgijos pataisoms.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -79,8 +92,58 @@ Andrius Katavičius, didysis Lietuvos raštininkas, kovo 31 d. - 1666 neteisėta
     būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
     ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
     rių rusų sektantų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83891
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Juozapas Petravičius, iš Vilniaus miesto
+    raštininko paskirtas vaitu gruodžio 3 d. - 1649
+    13. Steponas Bilinskis, karališkosios didenybės
+    sekretorius, karališkasis juriskonsultas
+    (Jurisconsultus Regius), patvirtintas iš
+    magistrato - 1662
+    14. Andrius Katavičius, didysis Lietuvos
+    raštininkas, kovo 31 d. - 1666
+    neteisėtai gauna privilegiją Vilniaus vaitystei,
+    bet ją Jonas Kazimieras panaikina sausio 15 d.
+    dekretu - 1667
+    15.
+  citata_rodoma: "Andrius Katavičius, didysis Lietuvos\nraštininkas, kovo 31 d. - 1666\nneteisėtai gauna privilegiją Vilniaus vaitystei,\nbet ją Jonas Kazimieras panaikina sausio 15 d. \ndekretu - 1667\n15."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87912
+
+- id: c-171440
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 396"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 396."
+  citata_originali: |
+    Nuo
+    amžių sektantus vadina raskolnikais, tai yra atskalūnais. Pas
+    mus, valdant Jonui Kazimierui, atsirado rusų sentikių sekta iš
+    tų popų, kurie nenorėjo priimti Biblijos ir liturgijos, Maskvos
+    patriarcho Nikono pataisytos; persekiojami tėvynėje, jie visu
+    būriu persikėlė į Lietuvą. Bet dar prieš XVII amžių, kaip gali­
+    ma spėti iš Kulčinskio duomenų', pas mus buvo nemažai įvai­
+    rių rusų sektantų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188551

@@ -1,4 +1,5 @@
-let isReaderMode = false
+const READER_MODE_KEY = "readerMode"
+let isReaderMode = localStorage.getItem(READER_MODE_KEY) === "on"
 
 const emitReaderModeChangeEvent = (mode: "on" | "off") => {
   const event: CustomEventMap["readermodechange"] = new CustomEvent("readermodechange", {
@@ -12,6 +13,7 @@ document.addEventListener("nav", () => {
     isReaderMode = !isReaderMode
     const newMode = isReaderMode ? "on" : "off"
     document.documentElement.setAttribute("reader-mode", newMode)
+    localStorage.setItem(READER_MODE_KEY, newMode)
     emitReaderModeChangeEvent(newMode)
   }
 

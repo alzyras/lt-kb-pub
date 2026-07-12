@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Caro, Geschichte Polens
 
@@ -31,24 +43,23 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 <a id="claim-t-121038"></a>
 - t-001
   global_id: t-121038
-  teiginys: 'J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.'
+  teiginys: "J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   pagrindžia:
-    - c-002
+    - c-110943
 
 <a id="claim-t-121039"></a>
 - t-002
   global_id: t-121039
-  teiginys: 'J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m.'
+  teiginys: "J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m."
   pagrindžia:
-    - c-001
+    - c-03572
 
 <a id="claim-t-121040"></a>
 - t-003
   global_id: t-121040
-  teiginys: 'J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.'
+  teiginys: "J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m."
   pagrindžia:
-    - c-002
-
+    - c-110943
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,7 +70,8 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     1863-1888.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -71,8 +83,42 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
     **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003
+
+## Citatos
+
+- id: c-03572
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Smolka, Fr. Papėe.
+    GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha
+    1863-1888.
+  citata_rodoma: "GePCa = Caro, J. : Geschichte Polens, t. 2-5 (1300-1506), Gotha\n1863-1888."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121039
+
+- id: c-110943
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    — HrlU,
+    **IV, 127 p. — J.** Caro **:** **_Geschichte Polens,_** **III, 1869, 211** p.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-121038
+    - t-121040

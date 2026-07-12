@@ -15,6 +15,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Parulis
 
@@ -27,9 +39,9 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
 <a id="claim-t-87926"></a>
 - t-001
   global_id: t-87926
-  teiginys: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui, kad palūkanos būtų mokamos Švč. Trejybės špitolei.'
+  teiginys: "1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui, kad palūkanos būtų mokamos Švč. Trejybės špitolei."
   pagrindžia:
-    - c-001
+    - c-83905
 - susijęs iš [[objektai/asmenys/Mauricijus.md#claim-t-87776|Mauricijus]]: 1632 m. Mauricijus ir Uršulė už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš [[objektai/asmenys/Uršulė.md#claim-t-87930|Uršulė]]: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą ir perdavė jį Akademijos kolegijai.
 - susijęs iš Parulio mūras: 1632 m. Uršulė ir Mauricijus už 4750 auksinų nupirko Parulio mūrą iš magistrato ir perdavė jį Akademijos kolegijai.
@@ -45,11 +57,29 @@ Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo mūrinį namą įkeitė V
     tą mūrinį namą gaunamus, mokėtų Švč. Trejybės špitolei.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-83905
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1632. Prieš tai kažkoks Parulis, Vilniaus gyventojas, savo
+    mūrinį namą įkeitė Vilniaus magistratui už tam tikrą sumą,
+    įpareigodamas, kad magistratas procentus, nuo sumos už
+    tą mūrinį namą gaunamus, mokėtų Švč. Trejybės špitolei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87926
+
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/daiktai/Namas]]
 - Parulis gyveno [[objektai/vietos/Vilnius]]

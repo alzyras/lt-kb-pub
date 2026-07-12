@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dimitras sultanas
 
@@ -17,10 +29,9 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
 <a id="claim-t-186196"></a>
 - t-001
   global_id: t-186196
-  teiginys: 'Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei.'
+  teiginys: "Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikščių, vadovavusių padalytai priešo kariuomenei."
   pagrindžia:
-    - c-001
-
+    - c-169557
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -36,7 +47,30 @@ Prie Mėlynųjų Vandenų Dimitras sultanas buvo vienas iš trijų kunigaikšči
     rai pasirengę mūšiui ir negaišdami stos į kovą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169557
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 219"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 219."
+  citata_originali: |
+    Pražygiavęs Kanevą ir Čerka­
+    sus, jis priėjo vietą, kurią žmonės vadina Mėlynaisiais
+    Vandenimis, čia bekraštėje lygumoje pasirodė ir prie­
+    šas. Didžiulę į tris dalis padalytą kariuomenę vedė
+    trys kunigaikščiai: Kutlubugas sultanas, Chadžibėjus
+    Girėjus ir Dimitras sultanas. Buvo aišku, jog jie ge­
+    rai pasirengę mūšiui ir negaišdami stos į kovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186196

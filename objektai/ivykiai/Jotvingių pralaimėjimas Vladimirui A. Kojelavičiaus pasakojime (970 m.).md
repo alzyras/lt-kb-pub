@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jotvingių pralaimėjimas Vladimirui A. Kojelavičiaus pasakojime (970 m.)
 
@@ -29,10 +41,9 @@ Nenurodyta
 <a id="claim-t-185709"></a>
 - t-001
   global_id: t-185709
-  teiginys: 'Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę.'
+  teiginys: "Kojelavičiaus pasakojime jotvingiai buvo Vladimiro įveikti, pavergti ir įpareigoti kasmet mokėti nustatytą duoklę."
   pagrindžia:
-    - c-001
-
+    - c-169070
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -76,7 +87,57 @@ Nenurodyta
     gai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169070
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Ši tauta,
+    lietuvių kaimynė ir sąjungininkė, po daugybės per­
+    galingų karų su rusais pagaliau buvo įveikta Vladi­
+    miro, laimingiausiojo iš Kijevo kunigaikščių: ji tapo
+    pavergta, prarado laisvę ir kasmet turėjo mokėti nu-
+    puolė pečenegus ir prarado karius, sostą ir gyvybę.
+    Pečenegų kunigaikštis lietuvis Kuris, sakoma, liepęs iš
+    užmuštojo kaukolės padaryti taurę ir ten išskaptuoti
+    įrašą: „Svetimo beieškodamas, savo prarado". Tačiau
+    tuo metu rusai nieku būdu dar negalėjo turėti raš-
+    970 m eta i
+    J o tv in g ių  p ra la im ė ji­
+    m as
+    statytą duoklę. Vladimiro tė­
+    vas Sviatoslavas, per žygį į
+    Trakiją
+    smarkiai
+    sumušęs
+    graikus, grįždamas su ta pa­
+    čia pergalinga kariuomene,
+    62
+    I
+
+    ## Puslapis 61
+
+    P e č e n e g a i su m u ša ru
+    su s
+    P a lem o n o  sū n ū s L ie­
+    tu v o s  v a ld o v a i: Bar-
+    ku s,
+    S p era ,
+    K ū nasi-
+    ju s, arb a  K ū n as
+    to, o juo labiau — pečene­
+    gai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185709

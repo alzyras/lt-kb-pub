@@ -13,8 +13,21 @@ tags:
   - ivykis
   - krikštas
   - pilis
+  - šventė
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ragainės brolių žirgų pagrobimas ir Ragainės bei Skalvių papilių sudeginimas (1295 m.)
 
@@ -43,17 +56,23 @@ Nenurodyta
 <a id="claim-t-62449"></a>
 - t-001
   global_id: t-62449
-  teiginys: '1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus.'
+  teiginys: "1295 m. birželio 19 d. lietuviai saloje prie Ragainės pilies pagrobė brolių žirgus ir galvijus."
   pagrindžia:
-    - c-001
+    - c-63088
 
 <a id="claim-t-183959"></a>
 - t-002
   global_id: t-183959
-  teiginys: '1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius.'
+  teiginys: "1295 m. rudenį lietuviai sugriovė Ragainės ir Skalvių pilių papilius."
   pagrindžia:
-    - c-001
+    - c-63088
 
+<a id="claim-t-194419"></a>
+- t-003
+  global_id: t-194419
+  teiginys: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių sudeginimą Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai, slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus."
+  pagrindžia:
+    - c-63088
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,8 +91,39 @@ Nenurodyta
                262 (255).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+    - t-003
+
+## Citatos
+
+- id: c-63088
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 188"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 188."
+  citata_originali: |
+    Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių
+                                     sudeginimą
+
+       Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,
+    slaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus
+    ir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.
+
+
+
+
+               262 (255).
+  citata_rodoma: "Apie Ragainės brolių žirgų pagrobimą ir apie šios bei Skalvių pilies papilių\n                                 sudeginimą\n\n   Tais pačiais metais, sekmadienį prieš šventą Joną Krikštytoją (birželio 19), lietuviai,\nslaptai ir staigiai nusigavę į salą, esančią palei Ragainės pilį, pagrobė visus brolių žirgus\nir galvijus. Po to rudenį sugriovė abiejų pilių, būtent: Ragainės ir Skalvių, papilius.\n\n\n\n\n           262 (255)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62449
+    - t-183959
+    - t-194419

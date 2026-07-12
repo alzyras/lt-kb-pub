@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Akacijos šakelė
 
@@ -28,14 +40,13 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-189716"></a>
 - t-001
   global_id: t-189716
-  teiginys: 'Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.'
+  teiginys: "Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172599
 - susijęs iš [[objektai/daiktai/Masonų taurės raižinio objektai.md#claim-t-189730|Masonų taurės raižinio objektai]]: Lietuvos istorijos ir etnografijos muziejaus masonų taurės raižinyje pavaizduoti kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, svarstyklės, žiūronas ir žvakė.
 - susijęs iš [[objektai/paprociai/Masonų ugdymo uždaviniai ir apeiginė simbolika.md#claim-t-189846|Masonų ugdymo uždaviniai ir apeiginė simbolika]]: Masonų organizacijose kampainis simbolizavo sąžinę, akacijos šakelė - nemirtingumą, o skriestuvas - aukščiausiąjį protą.
 - susijęs iš [[objektai/daiktai/Kampainis.md#claim-t-189723|Kampainis]]: Masonų organizacijose kampainis simbolizavo sąžinę.
@@ -45,8 +56,10 @@ Nenurodyta
 - susijęs iš [[objektai/daiktai/Masonų apeigų taurė.md#claim-t-188384|Masonų apeigų taurė]]: Visuomenės švietimo ir ugdymo uždaviniai buvo suformu luoti masonų organizacijose.
 - susijęs iš [[objektai/daiktai/Skriestuvas.md#claim-t-189748|Skriestuvas]]: Lietuvos istorijos ir etnografijos muziejuje saugotos masonų taurės kompozicijoje šalia kitų daiktų buvo pavaizduotas skriestuvas.
 - susijęs iš [[objektai/ivykiai/T. Narbuto įstojimas į masonų organizaciją (1817 m.).md#claim-t-187976|T. Narbuto įstojimas į masonų organizaciją (1817 m.)]]: R. Klimavičiaus nuomone, 1817 m. T. Narbutas įstojo į masonų organizaciją.
+- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187824|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: R. Klimavičiaus nuomone, Teodoras Narbutas 1817 m. įstojo į masonų organizaciją, vėliau rašė ugdymo ir auklėjimo temomis.
 - susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187827|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: N. Vėlius teigia, kad visuomenės švietimo ir ugdymo uždaviniai buvo formuluojami masonų organizacijose, o T. Narbuto taurė aprašoma kaip masonų apeigų atributas.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Masonų taurės atvaizde akacijos šakelė gulėjo ant staltiese užtiesto stalo šalia kaukolės, kalavijo, kampainio, skriestuvo ir kitų simbolių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -66,8 +79,39 @@ Nenurodyta
     skrenda drugelis. Masonų organizacijose kampainis simboli­
     zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
     čiausiąjį protą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172599
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Lietuvos istorijos ir etnografijos
+    muziejaus rinkiniuose saugoma taurė -  masonų apeigų atri­
+    butas. Viename taurės šone išraižytas įrašas „Teodor Narbutt“,
+    7
+
+    ## Puslapis 7
+
+    s
+    s
+    kitame -  staltiese užtiestas stalas, ant kurio padėta žmogaus
+    kaukolė, kalavijas, akacijos šakelė, kampainis, skriestuvas, pa­
+    statytos svarstyklės, žiūronas ir deganti žvakė, į kurios šviesą
+    skrenda drugelis. Masonų organizacijose kampainis simboli­
+    zavo sąžine, akacijos šakelė -  nemirtingumą, skriestuvas -  aukš­
+    čiausiąjį protą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189716

@@ -13,8 +13,21 @@ tags:
   - elekcija
   - ivykis
   - seimas
+  - teisinė-praktika
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # III Seimo paleidimas (1927 m. balandžio 12 d.)
 
@@ -43,10 +56,9 @@ Nenurodyta
 <a id="claim-t-20199"></a>
 - t-001
   global_id: t-20199
-  teiginys: '1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti.'
+  teiginys: "1927 m. balandžio 12 d. prezidento aktu III Seimas buvo paleistas, o nauji rinkimai nepaskelbti."
   pagrindžia:
-    - c-001
-
+    - c-22938
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +76,32 @@ Nenurodyta
     šalies politinę jėgą – krikščionis demokratus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-22938
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Atsitokėjusi
+    kairioji opozicija dar pabandė perversmininkų stiliumi grąžinti Seimą,
+    tačiau 1927 m. pavasarį apie Seimo narį valstietį liaudininką Juozą Pajaujį
+    susibūrusios grupės perversmo planas, suėmus J. Pajaujį, žlugo. Opozi-
+    cijai protestuojant prieš J. Pajaujo suėmimą, nepritarus vyriausybės de-
+    klaracijai, 1927 m. balandžio 12 d. prezidento aktu III Seimas paleistas,
+    o nauji rinkimai neskelbiami, teisinantis rengiamu plebiscitu. Taip pre-
+    zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią
+    šalies politinę jėgą – krikščionis demokratus.
+  citata_rodoma: "zidentas A. Smetona vienu ypu nuo valdžios vairo nustūmė ir stipriausią"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20199

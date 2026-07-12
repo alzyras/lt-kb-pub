@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Druska
 
@@ -47,9 +59,9 @@ Nenurodyta
 <a id="claim-t-31104"></a>
 - t-001
   global_id: t-31104
-  teiginys: 'Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų.'
+  teiginys: "Druska buvo vienas būtiniausių dalykų, kuriuos Lietuva per Rygą gabendavosi iš Vakarų."
   pagrindžia:
-    - c-001
+    - c-33223
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.
 - susijęs iš [[objektai/ivykiai/Burgundijos kalno nuslinkimas (1225 m.).md#claim-t-62229|Burgundijos kalno nuslinkimas (1225 m.)]]: 1225 m. Burgundijos Druskos kalnuose dėl žemės drebėjimo kalnas nuslinko, užvertė slėnį ir nuslėgė penkis tūkstančius žmonių.
 - susijęs iš [[objektai/posakiai/„Lietuvos žemės druska“.md#claim-t-20855|„Lietuvos žemės druska“]]: Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.
@@ -67,12 +79,12 @@ Nenurodyta
 - susijęs iš Žygimanto Senojo privilegija dėl Vilijos tilto muito Ulrikui Hozijui ir Švenčiausiosios Trejybės prieglaudai (1536 m. rugpjūčio 6 d.): Žygimantas Senasis pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus.
 - susijęs iš Juodoji jūra: Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.
 - susijęs iš Marienburgas: 1401 m. sausio mėnesį į patį Marienburgą nuvykęs Žemaičių bajorų būrys ne tik ieškojo patvirtinimo savo turimoms luominėms teisėms, bet ir patys krikštijosi.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Prie Vilniaus buvusi perkėla per Viliją kėlė LDK valdiniams ir kitiems žmonėms sunkumų, išlaidų ir nepatogumų.
 - susijęs iš Vilijos upė: Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
-- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 - susijęs iš Vilnius: Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto.
 - susijęs iš [[objektai/zodynas/Saitininkai Sejtones.md#claim-t-189330|Saitininkai Sejtones]]: Narbutas Saitininkus apibūdino kaip pranašautojus gydytojus, gydžiusius ligas ant ligonio kaklo kabinamais amuletais.
+- susijęs iš [[objektai/daiktai/Terba.md#claim-t-195300|Terba]]: Piemens terboje laikomas maistas, kiaušiniai ir kitos įdėtos gėrybės.
+- susijęs iš [[objektai/posakiai/Prie mėsos reik drąsos.md#claim-t-195420|Prie mėsos reik drąsos]]: Į kvietimą prie mėsos atsakoma formule „Prie mėsos reik drąsos“.
+- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -86,7 +98,29 @@ Nenurodyta
     portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33223
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nuo Vytenio ir
+    Gedimino laikų Ryga išsivystė Lietuvai ypatingai svarbiu prekybos
+    centru. Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius
+    dalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji
+    galėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­
+    portuojamų prekių (vaško ir kailių) neišsenkančius kiekius.
+  citata_rodoma: "Per Rygą Lietuva traukėsi sau iš Vakarų būtiniausius\ndalykus, būtent, druską, vilnones medžiagas, geležį (ginklus). O ji\ngalėjo pasiūlyti Vakaruose gerą paklausą turinčių ir lengvai trans­\nportuojamų prekių (vaško ir kailių) neišsenkančius kiekius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31104

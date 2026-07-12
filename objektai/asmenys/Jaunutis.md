@@ -12,11 +12,6 @@ datos:
   - '1400 m.'
 date_start: '1301'
 date_end: '1400'
-description: 'Jaunutis – XIV a. Lietuvos valdovas, po tėvo mirties valdęs Vilnių ir gretimas sritis, 1345 m. brolių nušalintas nuo sosto.'
-socialDescription: 'Jaunučio istorija: Vilnius, brolių kivirčai ir 1345 m. Kęstučio vadovautas valdžios perėmimas.'
-seo_atnaujinta: '2026-07-02T21:03:54.577072+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,56 +22,89 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jaunutis (valdovas, XIV a.)
 
 ## Santrauka
 
-Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau karo reikaluose neprilygo Algirdui ir Kęstučiui. Brolių kivirčai ir slaptos sutartys lėmė jo nuvertimą: 1345 m. lapkričio 22 d. Kęstutis užėmė Vilniaus pilis. Jaunutis buvo išvytas iš Vilniaus, vėliau su broliais susitarė ir gavo valdyti Zaslaulį.
+Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie tėvų Vilniuje. Pirmą kartą, kaip visos Lietuvos valdovas, Algirdas, drauge su Kęstučiu, susidūrė su ordinu tais pačiais metais, kai buvo nuo sosto pašalintas Jaunutis (1345 m.).
 
 ## Teiginiai
 
 <a id="claim-t-176435"></a>
 - t-001
   global_id: t-176435
-  teiginys: 'Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.'
+  teiginys: "Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto."
   pagrindžia:
-    - c-003
+    - c-160449
 
 <a id="claim-t-176436"></a>
 - t-002
   global_id: t-176436
-  teiginys: 'Jaunutis iš Vilniaus buvo išvytas jėga.'
+  teiginys: "Jaunutis iš Vilniaus buvo išvytas jėga."
   pagrindžia:
-    - c-001
+    - c-36348
 
 <a id="claim-t-176438"></a>
 - t-003
   global_id: t-176438
-  teiginys: 'Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui.'
+  teiginys: "Jaunutis, neįgijęs karinės šlovės, saugojo Gedimino karūną ir Lietuvos valdžią, nors karo reikaluose neprilygo Algirdui ir Kęstučiui."
   pagrindžia:
-    - c-004
+    - c-160450
 
 <a id="claim-t-176439"></a>
 - t-004
   global_id: t-176439
-  teiginys: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
+  teiginys: "Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu."
   pagrindžia:
-    - c-002
+    - c-160448
 
 <a id="claim-t-184715"></a>
 - t-005
   global_id: t-184715
-  teiginys: 'Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą.'
+  teiginys: "Kęstutis nušalino Jaunutį, todėl, Kojelavičiaus pasakojimu, turėjo daugiau teisių į valdžią už Algirdą."
   pagrindžia:
-    - c-005
+    - c-168076
 
 <a id="claim-t-184717"></a>
 - t-006
   global_id: t-184717
-  teiginys: 'Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.'
+  teiginys: "Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško."
   pagrindžia:
-    - c-006
+    - c-168078
+
+<a id="claim-t-193392"></a>
+- t-007
+  global_id: t-193392
+  teiginys: "Jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu."
+  pagrindžia:
+    - c-176116
+
+<a id="claim-t-193914"></a>
+- t-008
+  global_id: t-193914
+  teiginys: "Didysis kunigaikštis Algirdas nespėjo skirtu lai ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa bėgo j Taurakalnį ir tenai naktį3."
+  pagrindžia:
+    - c-176539
+
+<a id="claim-t-193915"></a>
+- t-009
+  global_id: t-193915
+  teiginys: "Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį."
+  pagrindžia:
+    - c-176540
 - susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
 - susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
 - susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
@@ -126,6 +154,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     sunkų krašto vadovavimo darbą pusiau.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,6 +170,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,6 +192,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     chaną ieškojo prieglobsčio16 * .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -187,6 +218,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     neįgijęs, sergėjo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,6 +243,7 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     kai nepateisinami.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -235,15 +268,287 @@ Jaunutis po tėvo mirties tapo Vilniaus ir gretimų sričių valdovu, tačiau ka
     kariuomene.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
+- c-007
+  santrauka: 'Jaunutis buG ed im in o sūnūs vo paskyręs Manvydui Kernavę ir Slonimą, Narimantui — Pinską, Mozyrių ir Vladimiro žemės dalį, Algirdui — Krėvą ir visas žemes lig Berezinos, Kęstučiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos, Upytės žemes ir Poleksiją, Karijotui — Naugarduką, Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunučiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Breslaują, be to, pastarąjį jis paskyrė didžiuoju kunigaikščiu.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Be kelių dukterų (kurių
+    vieną buvo išleidęs už Kazimiero, lenkų valdovo, o
+    kitą — už Vaclovo, Mazovijos kunigaikščio), Gedimi­
+    nas turėjo keletą sūnų, dėl to galėjo valstybėje įsi­
+    liepsnoti nesantaika. Todėl, norėdamas iš anksto už­
+    kirsti kelią vaidams, jis bu-
+    G ed im in o  sūnūs
+    vo paskyręs Manvydui Ker­
+    navę ir Slonimą, Nariman­
+    tui — Pinską, Mozyrių ir Vladimiro žemės dalį, Al­
+    girdui — Krėvą ir visas žemes lig Berezinos, Kęstu­
+    čiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos,
+    Upytės žemes ir Poleksiją, Karijotui — Naugarduką,
+    Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunu­
+    čiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Bres-
+    laują, be to, pastarąjį jis paskyrė didžiuoju kunigaikš­
+    čiu. Kiti broliai dėl to piktinosi: ne dėl amžiaus ar
+    narsumo, bet iš neprotingos tėvo meilės jaunikaičiui
+    buvo suteikta pirmenybė.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-007
+
+- c-008
+  santrauka: 'Didysis kunigaikštis Algirdas nespėjo skirtu lai ku 2 iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa bėgo j Taurakalnį ir tenai naktį3.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    ## Puslapis 69
+
+    nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­
+    ku 2  iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
+    Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­
+    tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­
+    bėgo j Taurakalnį ir tenai naktį3  peršalo. Tenai jį su­
+    gavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-008
+
+- c-009
+  santrauka: 'Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir išvijo iš tenai Jaunutį.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo
+    prie jo, ir visos pilys pasidavė jam.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
+## Citatos
+
+- id: c-36348
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Jaunutis iš Vilniaus buvo išvytas jėga. Išsyk jis pabėgo
+    ieškoti pagalbos į Maskvą, bet vėliau su broliais susitarė ir
+    gavo valdyti Zaslaulį. Algirdas gi su Kęstučiu pasidalino
+    sunkų krašto vadovavimo darbą pusiau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176436
+
+- id: c-160448
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Likusiąją Lenkijos pasienio dalį, Voluinę su Lucku, valdė Liu-
+    bartas. Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs
+    jokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis
+    automatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu.
+  citata_rodoma: "Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs\njokios srities, o gyveno prie tėvų Vilniuje. Tėvui mirus, jis\nautomatiškai pasidarė Vilniaus ir gretimųjų sričių valdovu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176439
+
+- id: c-160449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kivirčai tarp brolių da­
+    vė pradžią slaptoms, bet sumaniai parengtoms sutartims
+    siekiant nuversti nuo sosto Jaunutį. Kęstutis iš Trakų, savo
+    valdos sostinės, turėjęs geriausių galimybių stebėti visus
+    brolio žingsnius, staiga 1345 m. lapkričio 22 dieną su stip­
+    riu pulku užpuola abi Vilniaus pilis ir apsupa didžiojo ku­
+    nigaikščio buveinę. Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176435
+
+- id: c-160450
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    ■  •  -
+    25
+
+    ## Puslapis 42
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    bet ir Ašmeną, Ukmergę ir Breslaują. Tik neilgai Lietuvos
+    sostinė šio naujo didžiojo kunigaikščio buvo valdoma. Jau­
+    nesnieji broliai, Algirdas - Vitebske ir Krėvoje, Kęstutis -
+    Žemaitijoje viešpatavę, dar tėvui gyvam esant, mūšių su Ma-
+    zovija, Rusia ir Prūsijos ordinu išgarsinti, pavydžiai dėbčio­
+    jo į Jaunutį, kuris, karo dalykuose aniems toli gražu nepri­
+    lygdamas, Gedimino karūną ir Lietuvos valdžią, šlovės
+    neįgijęs, sergėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176438
+
+- id: c-168076
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Visa tai jis aukojęs tėvynės labui. Užleidęs
+    valdžią Algirdui, nors į ją turėjęs daugiau teisių, nes
+    nušalinęs Jaunutį, po Algirdo mirties pagarbiai pripa­
+    žinęs didžiuoju kunigaikščiu jo sūnų Jogailą, kuris
+    savo dėdei atsimokėjęs klastingu nužudymu. Nors Jo­
+    gaila nusipelnęs lenkų pagarbos už Krėvos uniją ir
+    27
+
+    ## Puslapis 26
+
+    Lietuvos krikštą, tačiau jo klastingumas, prie kurio
+    priskiriami ir slapti sandėriai su kryžiuočiais, morališ­
+    kai nepateisinami.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184715
+
+- id: c-168078
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 216"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 216."
+  citata_originali: |
+    Kadangi Algirdas ar iš-
+    Iš Ja u n u čio  a tim a m a
+    sisukinėjo, ar tikrai sutartu
+    v a ld ž ia
+    laiku negalėjo iš Vitebsko
+    atvykti, Kęstutis, netoli sos­
+    tinės esančiuose Trakuose tvarkęs visus sąmokslo rei­
+    kalus, lapkričio 22 dieną slapta į Vilnių įvedė kariuo­
+    menę ir paryčiu užėmė abi pilis. Pabudęs iš miego ir
+    išgirdęs triukšmą, Jaunutis paspruko iš pilies ir pus­
+    nuogis pasileido bėgti, tačiau Kęstučio raiteliai jį iš
+    miško atgal sugrąžino. Vėlėliau atvyko ir Algirdas su
+    kariuomene.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184717
+
+- id: c-176116
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 215"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 215."
+  citata_originali: |
+    Be kelių dukterų (kurių
+    vieną buvo išleidęs už Kazimiero, lenkų valdovo, o
+    kitą — už Vaclovo, Mazovijos kunigaikščio), Gedimi­
+    nas turėjo keletą sūnų, dėl to galėjo valstybėje įsi­
+    liepsnoti nesantaika. Todėl, norėdamas iš anksto už­
+    kirsti kelią vaidams, jis bu-
+    G ed im in o  sūnūs
+    vo paskyręs Manvydui Ker­
+    navę ir Slonimą, Nariman­
+    tui — Pinską, Mozyrių ir Vladimiro žemės dalį, Al­
+    girdui — Krėvą ir visas žemes lig Berezinos, Kęstu­
+    čiui— Žemaitiją, be to, Trakus, Gardino, Kauno, Lydos,
+    Upytės žemes ir Poleksiją, Karijotui — Naugarduką,
+    Volkovyską, Liubartui — Vladimirą ir Volynę, Jaunu­
+    čiui— Vilnių, tautos sostinę, Ašmeną, Ukmergę, Bres-
+    laują, be to, pastarąjį jis paskyrė didžiuoju kunigaikš­
+    čiu. Kiti broliai dėl to piktinosi: ne dėl amžiaus ar
+    narsumo, bet iš neprotingos tėvo meilės jaunikaičiui
+    buvo suteikta pirmenybė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193392
+
+- id: c-176539
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    ## Puslapis 69
+
+    nučio. Didysis kunigaikštis Algirdas nespėjo skirtu lai­
+    ku 2  iš Vitebsko atvykti j Vilnių, o didysis kunigaikštis
+    Kęstutis, greitai atjojęs į Vilnių, užėmė Vilniaus mies­
+    tą; didysis kunigaikštis Jaunutis, išgirdęs apie tai, pa­
+    bėgo j Taurakalnį ir tenai naktį3  peršalo. Tenai jį su­
+    gavę, parvežė pas jo brolį, didįjį kunigaikštį Kęstutį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193914
+
+- id: c-176540
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį. Ir visi krašto žmonės prisidėjo
+    prie jo, ir visos pilys pasidavė jam.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193915
+
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Breslauja]], [[objektai/vietos/Ukmergė]]
+- Turėjo priklausinį: [[objektai/vietos/Ašmena]], [[objektai/vietos/Ukmergė]]
 - Jaunutis (valdovas, XIV a.) buvo valdovas [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]
-- Jaunutis (valdovas, XIV a.) valdė [[objektai/vietos/Ašmena]], [[objektai/vietos/Breslauja]], [[objektai/vietos/Ukmergė]], [[objektai/vietos/Zaslavlis]]
-- Jaunutis (valdovas, XIV a.) keliavo į [[objektai/vietos/Maskva]], [[objektai/vietos/Smolenskas]]
-- Jaunutis (valdovas, XIV a.) gynė [[objektai/vietos/Lietuva]]
+- Jaunutis (valdovas, XIV a.) valdė [[objektai/vietos/Breslauja]]
 - Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Vilnius]]

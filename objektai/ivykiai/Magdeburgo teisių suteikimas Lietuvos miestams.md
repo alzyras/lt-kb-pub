@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Magdeburgo teisių suteikimas Lietuvos miestams
 
@@ -48,17 +60,16 @@ Nenurodyta
 <a id="claim-t-66766"></a>
 - t-001
   global_id: t-66766
-  teiginys: 'Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams.'
+  teiginys: "Kaune Vytautas suteikė Magdeburgo teises (1408 m.) vokiečių pirkliams."
   pagrindžia:
-    - c-001
+    - c-37032
 
 <a id="claim-t-66767"></a>
 - t-002
   global_id: t-66767
-  teiginys: 'Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu.'
+  teiginys: "Vytautas palaikė Lietuvos miestus ir suteikė jiems daugiau laisvės Magdeburgo miesto pavyzdžiu."
   pagrindžia:
-    - c-002
-
+    - c-37033
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,6 +83,7 @@ Nenurodyta
     medžių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +100,47 @@ Nenurodyta
     tokias pat teises turėjo jau Vilnius (1387) ir kiti miestai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-37032
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bendrai, laikotarpis po Racionžo taikos prekybai buvo gana
+    palankus. Kaune Vytautas suteikė Magdeburgo teises (1408
+    m.) vokiečių pirkliams. Prekyba pasidarė daug gyvesnė. Lie­
+    tuvių pirkliai dabar nuvykdavo toli į Prūsus, pasiekdavo Danci­
+    gą, Rygą. Taip pat šiuo laiku Nemunu buvo plukdoma ir daug
+    medžių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66766
+
+- id: c-37033
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas kėlė Lietuvos prekybą ir kitais būdais, būtent, pa­
+    laikydamas miestus bei suteikdamas jiems daugiau laisvės Mag­
+    deburgo miesto pavyzdžiu. Taip, pav., minėjome, kad 1408
+    metais Vytautas suteikė Magdeburgo teises Kauno vokiečiams;
+    tokias pat teises turėjo jau Vilnius (1387) ir kiti miestai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66767

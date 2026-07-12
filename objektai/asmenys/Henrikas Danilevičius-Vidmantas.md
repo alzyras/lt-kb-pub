@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Henrikas Danilevičius-Vidmantas
 
@@ -19,10 +31,9 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
 <a id="claim-t-40134"></a>
 - t-001
   global_id: t-40134
-  teiginys: 'LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.'
+  teiginys: "LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene."
   pagrindžia:
-    - c-001
-
+    - c-44342
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,34 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
     davė 30 partizanų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44342
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Žukauskas. Po nelygios kovos su okupantų
+    kariuomene nusišovė LLKS vadovybės spec.
+    atstovas RL sričiai Henrikas Danilevičius-
+    Vidmantas, Aloyzas Žilys-Žirnis ir Šarūno
+    rinkt. adjutantas Juozas Lapienis-Darius,
+    pasidavė rinktinės vadas Stasys Gimbutas-
+    Tarzanas ir 4 partizanai; S. Gimbutas tapo
+    MGB agentu, dėl jo kaltės buvo aptikti ir su-
+    naikinti daugelis Rytų Lietuvos partizanų;
+    ten pat suimta Elena Velavičiūtė-Nida iš-
+    davė 30 partizanų.
+  citata_rodoma: "Po nelygios kovos su okupantų\nkariuomene nusišovė LLKS vadovybės spec.\natstovas RL sričiai Henrikas Danilevičius-\nVidmantas, Aloyzas Žilys-Žirnis ir Šarūno\nrinkt. adjutantas Juozas Lapienis-Darius,\npasidavė rinktinės vadas Stasys Gimbutas-\nTarzanas ir 4 partizanai; S."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40134

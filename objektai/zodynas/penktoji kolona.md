@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # penktoji kolona
 
@@ -19,16 +31,16 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
 <a id="claim-t-22241"></a>
 - t-001
   global_id: t-22241
-  teiginys: 'Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui.'
+  teiginys: "Prosovietinė organizacija „Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje ir priešinosi nepriklausomybės atkūrimui."
   pagrindžia:
-    - c-001
+    - c-24930
 
 <a id="claim-t-183450"></a>
 - t-002
   global_id: t-183450
-  teiginys: '„Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.'
+  teiginys: "„Jedinstvo“ veikė kaip sovietų penktoji kolona Lietuvoje, Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui."
   pagrindžia:
-    - c-002
+    - c-166845
 - susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-65206|Jedinstvo]]: Jedinstvo buvo prosovietinė organizacija, veikusi kaip sovietų penktoji kolona ir Maskvos nurodymu priešinusis Lietuvos nepriklausomybės atkūrimui.
 - susijęs iš [[objektai/grupes/Jedinstvo.md#claim-t-183135|Jedinstvo]]: Prosovietinė organizacija „Jedinstvo“ Maskvos nurodymu priešinosi Lietuvos nepriklausomybės atkūrimui, bet rimtesnės įtakos neturėjo.
 ## Reikšmingi paminėjimai
@@ -45,6 +57,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     mui, rimtesnės įtakos neturėjo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +76,49 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
     galėtų laikyti Lietuvą pririštą prie SSRS.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-24930
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą. Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją. Mažuma komunistų drauge su prosovietine
+    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
+    Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
+    mui, rimtesnės įtakos neturėjo.
+  citata_rodoma: "organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22241
+
+- id: c-166845
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Savarankiška LKP, vėliau
+    pasivadinusi Lietuvos demokratine darbo partija (LDDP), pasirinko so-
+    cialdemokratinę orientaciją. Mažuma komunistų drauge su prosovietine
+    organizacija „Jedinstvo“, veikusia kaip sovietų penktoji kolona Lietuvoje,
+    Maskvos nurodymu besipriešinanti Lietuvos nepriklausomybės atkūri-
+    mui, rimtesnės įtakos neturėjo. Nebeliko nė vienos politinės gijos, kuri
+    galėtų laikyti Lietuvą pririštą prie SSRS.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183450

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas (Meiseno markgrafas)
 
@@ -17,10 +29,9 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
 <a id="claim-t-186202"></a>
 - t-001
   global_id: t-186202
-  teiginys: 'Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės.'
+  teiginys: "Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, nepalikdavo kovos rikiuotės."
   pagrindžia:
-    - c-001
-
+    - c-169563
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,7 +49,32 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
     ralių, paaukojo gyvybę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169563
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 334"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 334."
+  citata_originali: |
+    Galustalėje
+    šau n ią p u o tą
+    sėdėjo austrų riteris Kinodi-
+    jus, kitados vienui vienas iš­
+    žudęs šešiasdešimt turkų, kurie jį vijosi. Greta jo įsitai­
+    sė Fridrichas, Meiseno markgrafas, nė vienas jo šeimos
+    vyras nebuvo palikęs kovos rikiuotės. Toliau ■— grafas
+    Hildermidas, škotas, sūnus tėvo, kuris, gelbėdamas ka­
+    ralių, paaukojo gyvybę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186202

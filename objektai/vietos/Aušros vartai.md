@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aušros vartai
 
@@ -26,10 +38,9 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
 <a id="claim-t-77779"></a>
 - t-001
   global_id: t-77779
-  teiginys: '1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų.'
+  teiginys: "1992 m. Prancūzijos prezidento Fransua Miterano vizito metu Vytautas Landsbergis su svečiu lankėsi Vilniaus senamiestyje prie Aušros vartų."
   pagrindžia:
-    - c-001
-
+    - c-75104
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,10 +56,29 @@ Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Au�
     Vilnius, 1992 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Vytautas Landsbergis]]
+## Citatos
+
+- id: c-75104
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Planinės
+    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
+    su svečiu Vilniaus senamiestyje  prie Aušros vartų.
+    Vilnius, 1992 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77779

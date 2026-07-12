@@ -11,11 +11,6 @@ datos:
   - '1398 m.'
 date_start: '1377'
 date_end: '1398'
-description: 'Jadvyga Jogailienė – Lenkijos karalienė, siejama su Jogailos vedybomis, 1387 m. Vilniaus misija ir ginčais su Vytautu.'
-socialDescription: 'Jadvyga Jogailienė: nuo Krokuvos karūnavimo ir Jogailos vedybų iki Vilniaus bei ginčų su Vytautu dėl Lietuvos ir Rusios žemių.'
-seo_atnaujinta: '2026-07-02T20:14:54.803706+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -24,140 +19,159 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jadvyga Jogailienė
 
 ## Santrauka
 
-Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netrukus karūnuota. Nors buvo pažadėta Vilhelmui Habsburgui, ją vedė Jogaila, o 1387 m. ji minima Vilniuje kartu su krikščionybės skleidėjais. Vėliau šaltiniuose išryškėja jos ginčai su Vytautu dėl Lietuvos ir Rusios žemių, laikytų jos kraičiu.
+Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpiūčio 5 d.). 1384 m., kada Jadvyga jau buvo atvažiavusi iš Vengrijos į Krokuvą ir buvo vainikuota Lenkijos karaliene, pas Jogailą atvyko speciali lenkų ponų delegacija. Su pačia Jadvyga nebuvo ko kalbėti, nes ji tebuvo dar vos 14 metų mergaitė, buvo įsimylėjusi savo sužadėtinį Vilhelmą ir apie Jogailą nenorėjo nė klausyti. Papildomai išryškinami jos politiniai ginčai su Vytautu dėl kraičiu laikytų Lietuvos ir Rusios žemių, nepalankus požiūris į jo rytų politiką ir mirtis prieš Vorsklos mūšį.
 
 ## Teiginiai
 
 <a id="claim-t-12172"></a>
 - t-001
   global_id: t-12172
-  teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu.'
+  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos valdytos Lietuvos ir Rusijos žemės buvo jai užrašytos kraičiu."
   pagrindžia:
-    - c-006
+    - c-160434
 
 <a id="claim-t-12173"></a>
 - t-002
   global_id: t-12173
-  teiginys: 'Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila.'
+  teiginys: "Lenkų karalaitė Jadvyga buvo pažadėta Vilhelmui Habsburgui, bet ją vedė Jogaila."
   pagrindžia:
-    - c-011
+    - c-160444
 
 <a id="claim-t-176413"></a>
 - t-003
   global_id: t-176413
-  teiginys: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą.'
+  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino didįjį magistrą 1385 m. rugpjūtį pulti Lietuvą."
   pagrindžia:
-    - c-012
+    - c-160446
 
 <a id="claim-t-176414"></a>
 - t-004
   global_id: t-176414
-  teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
+  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą, o po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   pagrindžia:
-    - c-001
+    - c-15945
 
 <a id="claim-t-176415"></a>
 - t-005
   global_id: t-176415
-  teiginys: 'Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi.'
+  teiginys: "Jadvyga 1384 m. spalio 13 d. iškilmingai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota Lenkijos karaliumi."
   pagrindžia:
-    - c-001
+    - c-15945
 
 <a id="claim-t-176416"></a>
 - t-006
   global_id: t-176416
-  teiginys: 'Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.'
+  teiginys: "Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais."
   pagrindžia:
-    - c-004
+    - c-160431
 
 <a id="claim-t-176417"></a>
 - t-007
   global_id: t-176417
-  teiginys: 'Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno.'
+  teiginys: "Karalienė Jadvyga Vilniaus Šv. Stanislovo katedrą apdovanojo brangiais rykais ir kita manta iš savo lobyno."
   pagrindžia:
-    - c-009
+    - c-160441
 
 <a id="claim-t-176420"></a>
 - t-008
   global_id: t-176420
-  teiginys: 'Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą.'
+  teiginys: "Žinia apie sėkmingas Jogailos derybas dėl Jadvygos rankos paskatino Konradą Ciolnerį Rotenšteiną 1385 metais pulti Lietuvą."
   pagrindžia:
-    - c-012
+    - c-160446
 
 <a id="claim-t-176422"></a>
 - t-009
   global_id: t-176422
-  teiginys: 'Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.'
+  teiginys: "Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai."
   pagrindžia:
-    - c-002
+    - c-36338
 
 <a id="claim-t-176425"></a>
 - t-010
   global_id: t-176425
-  teiginys: 'Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu.'
+  teiginys: "Jadvyga laišku priminė Vytautui, kad Jogailos prieš vedybas valdytos Lietuvos ir Rusijos žemės jai užrašytos kraičiu."
   pagrindžia:
-    - c-003
+    - c-36340
 
 <a id="claim-t-176427"></a>
 - t-011
   global_id: t-176427
-  teiginys: 'Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo.'
+  teiginys: "Netikėta Jadvygos Jogailienės mirtis, įvykusi pora savaičių prieš Vorsklos mūšį, pagreitino naują susiartinimą po 1398 m. susitarimo."
   pagrindžia:
-    - c-005
+    - c-160432
 
 <a id="claim-t-176428"></a>
 - t-012
   global_id: t-176428
-  teiginys: 'Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą.'
+  teiginys: "Krėvos sutarties sąlygomis Jogaila turėjo vesti Lenkijos karalaitę Jadvygą."
   pagrindžia:
-    - c-008
+    - c-160438
 
 <a id="claim-t-176429"></a>
 - t-013
   global_id: t-176429
-  teiginys: 'Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu.'
+  teiginys: "Jadvyga reikalavo, kad Vytautas mokėtų jai metinį činšą už Lietuvos ir Rusijos žemes, užrašytas jai kraičiu."
   pagrindžia:
-    - c-003
+    - c-36340
 
 <a id="claim-t-176430"></a>
 - t-014
   global_id: t-176430
-  teiginys: 'Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes.'
+  teiginys: "Jadvyga buvo viena iš dviejų dukterų, kurioms tėvas paskyrė Vengrijos ir Lenkijos karalystes."
   pagrindžia:
-    - c-002
+    - c-36338
 
 <a id="claim-t-176431"></a>
 - t-015
   global_id: t-176431
-  teiginys: 'Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė.'
+  teiginys: "Jadvyga Jogailienė buvo Vengrų karalienės Elžbietos duktė."
   pagrindžia:
-    - c-010
+    - c-160442
 
 <a id="claim-t-176433"></a>
 - t-016
   global_id: t-176433
-  teiginys: '1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi.'
+  teiginys: "1386 m. vasario 18 d. Jogaila susituokė su Jadvyga, o kovo 4 d. buvo karūnuotas Lenkijos karaliumi."
   pagrindžia:
-    - c-007
+    - c-160436
 
 <a id="claim-t-176434"></a>
 - t-017
   global_id: t-176434
-  teiginys: 'Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta.'
+  teiginys: "Karalienė Jadvyga iš savo lobyno apdovanojo pašventintą Vilniaus bažnyčią brangiais rykais ir kita manta."
   pagrindžia:
-    - c-009
+    - c-160441
 
 <a id="claim-t-184263"></a>
 - t-018
   global_id: t-184263
-  teiginys: 'Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra.'
+  teiginys: "Dlugošas rašė, kad Jadvyga Jogailienė buvo atvykusi į Lietuvą, bet šaltinyje nurodoma, jog tai nėra tikra."
   pagrindžia:
-    - c-013
+    - c-167647
+
+<a id="claim-t-193624"></a>
+- t-019
+  global_id: t-193624
+  teiginys: "ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas."
+  pagrindžia:
+    - c-176295
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
 - susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -180,7 +194,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
 - susijęs iš Praha: Karalienė Jadvyga Prahoje įkūrė lietuvių kolegiją ir paskyrė jai gausių lėšų.
 - susijęs iš Vokė: Vytauto atkeldinti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
 - susijęs iš Vokė: Vytauto į Lietuvą atkelti totoriai turėjo pagrindinę gyvenvietę prie Vokės upės.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš Jadvygos laiškas Vytautui: 1398 m. karalienė Jadvyga laišku prašė Vytauto mokėti činšą, priklausantį jai iš Lietuvos.
 ## Reikšmingi paminėjimai
 
@@ -197,6 +211,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     jos karalium“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -214,6 +229,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     go markagrafu, vėliau tapusiu ciesorium Zigmantu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -234,6 +250,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     tos žemės priklauso Lenkijai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -261,6 +278,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     krikštytieji Krokuvoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,6 +295,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     svyravo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -297,6 +316,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     činšą^3 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -312,6 +332,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -329,6 +350,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -350,6 +372,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     ką9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -370,6 +393,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     Cereteno vyskupu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -389,6 +413,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     kunigaikščio Algirdo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -415,6 +440,7 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     kotos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -434,14 +460,345 @@ Jadvyga Jogailienė buvo Lenkijos valdovė, 1384 m. atvykusi į Krokuvą ir netr
     lotų, teologijos daktarų, vienuolių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
 
+- c-014
+  santrauka: 'ABIEJŲ TAUTŲ RESPUBLIKA Liublino unija 1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos ir Lenkijos suartėjimas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-019
+
+## Citatos
+
+- id: c-15945
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nuo to laiko spėjo prabėgti apie pusantrų metų, bet karalie­
+    nė Elžbieta savo pažadų vis neištesėjo. Lenkai ėmė nekantrauti
+    ir vėl susivažiavę ir sudarę laikiną valdžią, pranešė karalienei,
+    kad, jei ji neatsiųs Jadvygos, jie ieškosis kito sau valdovo. Ka­
+    ralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­
+    riolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­
+    gai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­
+    jos karalium“.
+  citata_rodoma: "Ka­\nralienė Elžbieta bijodama nustoti Lenkijos, pasiuntė savo ketu­\nriolikos metų dukterį Jadvygą, kuri 1384 m. spalių 13 d. iškilmin­\ngai įvažiavo į Krokuvą ir po dviejų dienų buvo karūnuota „Lenki­\njos karalium“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176414
+    - t-176415
+
+- id: c-36338
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo laiku mirė lenkų karalius Liudvikas, nepalikęs nė vieno
+    įpėdinio. Bet jam pavyko dvi savo karalystes — Vengrų ir Len­
+    kijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi
+    jos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su
+    Austrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­
+    go markagrafu, vėliau tapusiu ciesorium Zigmantu.
+  citata_rodoma: "Bet jam pavyko dvi savo karalystes — Vengrų ir Len­\nkijos — paskirti savo dviem dukterim: Jadvygai ir Marijai. Abi\njos, tėvui mirštant, jau buvo sužieduotos: pirmoji (11 metų) su\nAustrijos hercogu Vilhelmu ir antroji (12 metų) su Brandenbur­\ngo markagrafu, vėliau tapusiu ciesorium Zigmantu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176430
+    - t-176422
+
+- id: c-36340
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Žodžiu, lenkai norėjo, kad kas teorijoj buvo užfik­
+    suota, būtų ir gyvenime realizuojama. Tada Jadvyga „mylimam
+    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
+    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
+    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
+    činšą^3 ).
+    Kiek toks reikalavimas buvo teisingas, sunku pasakyti, bet
+    tokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad
+    tos žemės priklauso Lenkijai.
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 ).\nKiek toks reikalavimas buvo teisingas, sunku pasakyti, bet\ntokių mokesčių mokėjimas būtų buvęs lenkams įrodymu, kad\ntos žemės priklauso Lenkijai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176425
+    - t-176429
+
+- id: c-160431
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    a «* J.« y.vfa1 ft I' W Ji,\V,|<jr iv try.,
+    106
+
+    ## Puslapis 123
+
+    Il KNYGA
+    Galop išsižadėjęs jau apnykusių pagonybės prietarų, kaip
+    naujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos
+    apaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­
+    je atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir
+    tauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­
+    čionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno
+    arkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­
+    čiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­
+    krikštytieji Krokuvoje.
+  citata_rodoma: "vfa1 ft I' W Ji,\\V,|<jr iv try.,\n106\n\n## Puslapis 123\n\nIl KNYGA\nGalop išsižadėjęs jau apnykusių pagonybės prietarų, kaip \nnaujas Kristaus tikėjimo išpažinėjas ir uolus savo tautos \napaštalas, 1387 metų sausį lietuvių žemėje Gedimino sostinė­\nje atsirado Vladislovas Jogaila. Kartu su juo atvyko žavesiu ir \ntauriais jausmais švytinti Jadvyga, irgi trokštanti skleisti krikš­\nčionybę, Jogailos giminės vasaliniai kunigaikščiai, Gniezno \narkivyskupas ir Krokuvos vyskupas, Mazovijos kunigaikš­\nčiai, daugybė lenkų didikų ir kunigaikščių, pagaliau pa­\nkrikštytieji Krokuvoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176416
+
+- id: c-160432
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo būdu po 1398 m. susitarimo
+    eita prie naujo. Pastarąjį susiartinimą pagreitino labai netikėta
+    Jadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.
+    Tada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­
+    svyravo.
+  citata_rodoma: "Pastarąjį susiartinimą pagreitino labai netikėta\nJadvygos mirtis, ištikusi pora savaičių prieš Vorsklos mūšį.\nTada Jogailos padėtis, kuri rėmėsi Lenkijoj tiktai žmona, su­\nsvyravo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176427
+
+- id: c-160434
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tą balsą, kaip ir pirma dėl
+    Podolijos, pakėlė Jadvyga, kuri rūpinosi, kad jos padaryta au­
+    ka nenueitų niekais, ir ponų taryba, kuri sumanė visos unijos
+    reikalą^1 ). Žodžiu, lenkai norėjo, kad kas teorijoj buvo užfik­
+    suota, būtų ir gyvenime realizuojama. Tada Jadvyga „mylimam
+    broliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir
+    Rusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­
+    tos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį
+    činšą^3 ).
+  citata_rodoma: "Tada Jadvyga „mylimam\nbroliui“ (taip ji rašė) Vytautui laišku priminė, kad tos Lietuvos ir\nRusijos žemės, kurias valdė Jogaila prieš ją vesdamas, užrašy­\ntos jai kraičiu1 2), ir todėl už jas reikalauja iš jo mokėti jai metinį\nčinšą^3 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12172
+
+- id: c-160436
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tada atnaujino tikėjimo išpažinimą
+    ir Vytautas, gaudamas Aleksandro vardą. Jogaila prie
+    krikšto gavo Vladislovo vardą. Po krikšto įvyko jo jung-
+    tuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo
+    1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.).
+  citata_rodoma: "Po krikšto įvyko jo jung-\ntuvės su Jadvyga ir karūnacija Lenkijos karalium (krikštas buvo\n1386 m. vasario 15, jungtuvės — 18 d., o karūnacija — kovo 4 d.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176433
+
+- id: c-160438
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1385 m. rugpjūčio 14 d. į Krėvos pilį atvyko lenkų delegacija. Lenkai,
+    regis, jau turėjo parengtą sutarties dokumentą. Jogaila su šio dokumento
+    turiniu sutiko, jis buvo priimtas ir į istoriją įėjo Krėvos sutarties vardu. Su-
+    tarties sąlygos: Jogaila ima žmona Lenkijos karalaitę Jadvygą, pažada įvesti
+    Lietuvoje katalikų tikėjimą, atgauti prarastas Lenkijos žemes, paleisti lenkų
+    belaisvius ir „prišlieti“ Lietuvą prie Lenkijos. „Prišlieti“ būtina rašyti su ka-
+    butėmis: mat iki šiol ginčijamasi, kaip išversti lotynišką žodį applicare.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176428
+
+- id: c-160441
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Stanislovo katedra8. Iškilmingai,
+    dalyvaujant lietuvių ir lenkų kunigaikščiams bei didikams,
+    ją pašventino Gniezno arkivyskupas Bodzanta, o karalienė
+    Jadvyga iš savo pačios lobyno skrynių apdovanojo brangiais
+    rykais ir visokia manta. Lenkų didžponiams patarus, pir­
+    muoju Vilniaus diecezijos vyskupu Vladislovas Jogaila iš­
+    rinko Andrių iš Vasilevo Važilą, dar vadinamą Vasilionu, iš
+    Jastžembcų giminės, lenką, Mažesniųjų brolių ordino vie­
+    nuolį, Cereto vyskupą, kadaise Vengrijos karalienės Elžbie­
+    tos nuodėmklausį, pavyzdingą vyrą ir garsų pamokslinin­
+    ką9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176417
+    - t-176434
+
+- id: c-160442
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vilniaus vyskupu paskirtas vysk. Andrius Vosylius Jas­
+    trzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­
+    vo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams
+    nebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­
+    nigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­
+    niuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­
+    ralienės Elžbietos, Jadvygos motinos. 1377 m. buvo paskirtas
+    Cereteno vyskupu.
+  citata_rodoma: "Andrius Vosylius Jas­\ntrzębiecas, kuris nuo pirmos Lietuvos krikšto dienos vadova­\nvo apaštalavimo darbui, nes mokėjo lietuviškai ir lietuviams\nnebuvo svetimas žmogus. Jis, būdamas dar pranciškonų ku­\nnigas, kartu su savo broliu prie Algirdo kurį laiką gyveno Vil­\nniuje, paskui ėjo kapeliono ir sekretoriaus pareigas Vengrų ka­\nralienės Elžbietos, Jadvygos motinos. 1377 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176431
+
+- id: c-160444
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    tą, paskirti vyskupą, kapitulą. Tuo reikalu pas popiežių buvo
+    siunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­
+    joje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs
+    Vilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad
+    kiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­
+    niai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­
+    pininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos
+    kunigaikščio Algirdo.
+  citata_rodoma: "Tuo reikalu pas popiežių buvo\nsiunčiamas kanauninkas Mykolas Trombas (Trąb), bet Vokieti­\njoje Habsburgai jį sulaikė, keršydami Jogailai, kad buvo vedęs\nVilhelmui Habsburgui pažadėtą lenkų karalaitę Jadvygą. Tad\nkiek vėliau pas popiežių Urboną VI buvo pasiųsti kiti pasiunti­\nniai su Poznaniaus vyskupu Dobrogosta, vieną kartą jau tar­\npininkavusiu tarp popiežiaus Inocento VI ir didžiojo Lietuvos\nkunigaikščio Algirdo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12173
+
+- id: c-160446
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    40
+
+    ## Puslapis 57
+
+    I  KNYGA
+    vokiečių nagų į Lietuvą, suduodamas jiems didelį smūgį41.
+    Kai tik Prūsiją pasiekė žinia, kad Jogailos derybos su Lenki­
+    jos didikais ir Vengrijos karaliene Elžbieta dėl Jadvygos ran­
+    kos sėkmingos, didysis magistras Konradas Ciolneris Ro-
+    tenšteinas tuojau pat, surinkęs didžiules pajėgas, 1385 metų
+    rugpjūtį ties Kaunu persikėlė per Nemuną ir ėmė siautėti
+    visame krašte. Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176420
+    - t-176413
+
+- id: c-167647
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kartu su jais atvyko
+    keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosylius,
+    didelis skaičius dvasininkų ir daug lietuvių bei lenkų didikų.
+    Lenkų kronikininkas Dlugošas rašo, kad buvo atvykusi ir Lenki­
+    jos karalienė Jadvyga, Jogailos žmona, bet tai nėra tikra, nes tuo
+    pat laiku ji buvo Juodoje Rusijoje. Dvasininkų tarpe buvo pra­
+    lotų, teologijos daktarų, vienuolių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184263
+
+- id: c-176295
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Šio karo
+    pasekmė – tiesioginis Rusijos kišimasis į Lenkijos ir Lietuvos vidaus rei-
+    kalus, galų gale privedęs prie Lenkijos ir Lietuvos Valstybės padalijimų ir
+    panaikinimo.
+    ABIEJŲ TAUTŲ RESPUBLIKA
+    Liublino unija
+    1386 m. Jogailos ir Jadvygos vedybomis prasidėjo Lietuvos
+    ir Lenkijos suartėjimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193624
+
 ## Ryšiai
 - Sutuoktiniai: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Tėvai: [[objektai/asmenys/Liudvikas]]
-- Turėjo priklausinį: [[objektai/vietos/Lietuva]]
-- Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]], [[objektai/vietos/Vilnius]]
-- Jadvyga Jogailienė rėmė [[objektai/grupes/Lietuviai]]
+- Jadvyga Jogailienė keliavo į [[objektai/vietos/Krokuva]]

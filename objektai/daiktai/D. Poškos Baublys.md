@@ -10,10 +10,22 @@ date_start: '1812'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XIX'
 tags:
   - daiktas
+amziai:
+  - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # D. Poškos Baublys
 
@@ -42,28 +54,30 @@ Jame buvo įtaisytas senienų muziejus.
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-07520"></a>
 - t-001
   global_id: t-07520
-  teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
+  teiginys: "D. Poška savo Baublyje įtaisė senienų muziejų."
   pagrindžia:
-    - c-001
+    - c-00228
 
 <a id="claim-t-07521"></a>
 - t-002
   global_id: t-07521
-  teiginys: 'D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės.'
+  teiginys: "D. Poškos iš tuščiavidurio ąžuolo padarytos trobelės tebestovėjo Bijotuose prie Skaudvilės."
   pagrindžia:
-    - c-002
+    - c-00229
 
-- t-004
-  teiginys: 'Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu.'
+<a id="claim-t-188379"></a>
+- t-003
+  global_id: t-188379
+  teiginys: "Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu."
   pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171273
 - susijęs iš [[objektai/zodynas/Baublys Baublis.md#claim-t-189218|Baublys Baublis]]: Narbutas Baublio vardą aiškino kaip žemaitišką buliaus baubimą primenantį ąžuolo, laikyto pranašaujančiu, pavadinimą.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -80,10 +94,12 @@ Nenurodyta
     ir Lietuvos istoriją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -99,10 +115,12 @@ Nenurodyta
     santvarkos formų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Narbutas Baublio vardą aiškina mitologiškai ir sieja su žemaitišku buliaus balso apibūdinimu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -116,8 +134,81 @@ Nenurodyta
     nei jautis14. Matyt, tai buvo vienas ąžuolų pranašautojų, iš ku­
     rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
     baubimą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-004
+    - t-003
+
+## Citatos
+
+- id: c-00228
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kad nebūtų darkoma
+    žemaičių kalba, bajorai ir ku-
+    nigai pradėjo spausdinti nau-
+    jų maldaknygių, giesmynų ir
+    elementorių.
+    Be to, buvo renkamos se-
+    nienos ir seni istoriniai doku-
+    mentai, o D. Poška savo
+    Baubly įtaisė net senienų mu-
+    ziejų. Jis taip pat bandė rašyti
+    ir Lietuvos istoriją.
+  citata_rodoma: "Be to, buvo renkamos se-\nnienos ir seni istoriniai doku-\nmentai, o D. Poška savo\nBaubly įtaisė net senienų mu-\nziejų. Jis taip pat bandė rašyti\nir Lietuvos istoriją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07520
+
+- id: c-00229
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Visi to sąjūdžio bajorai, kad ir mylėjo savo kraštą, kad ir
+    rūpinosi lietuviškosios kalbos grynumu, tačiau neskelbė jokių —
+    D. Poškos Baublys.
+    1812 m. Poška iš tuščiavidurio ąžuolo
+    padarė 3 trobeles, kuriose buvo įtaisyti
+    muziejėliai; Bijotuose, paliai Skaud-
+    vilę, jos dar tebestovi.
+    nei socialinių nei tautinių — idėjų, nes lietuviškasis elementas dar
+    nebuvo tiek susipratęs, kad galėtų veržtis iš nusistojusios
+    santvarkos formų.
+  citata_rodoma: "1812 m. Poška iš tuščiavidurio ąžuolo\npadarė 3 trobeles, kuriose buvo įtaisyti\nmuziejėliai; Bijotuose, paliai Skaud-\nvilę, jos dar tebestovi."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-07521
+
+- id: c-171273
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 237"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 237."
+  citata_originali: |
+    Šis tėvynės paminklų brangintojas liepė iš trūnijusiame
+    šio ąžuolo kamiene įrengti kabinetą, turintį 7 uolekčių, 18 co­
+    lių skersmenį, kuriame dabar jis laiko retų senienų kolekciją
+    ir istorijos veikalus apie krašto praeitį. Mitologinis šio ąžuolo
+    vardas yra Baublys (Baublis); žemaičių tarmėje tai turėtų reikšti
+    buliaus balso apibūdinimą, balso, kokiu nebliauna nei karvė,
+    nei jautis14. Matyt, tai buvo vienas ąžuolų pranašautojų, iš ku­
+    rio sutrūnijusio vidaus pasigirsdavo balsas, panašus į buliaus
+    baubimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188379

@@ -17,6 +17,18 @@ tags:
   - pilis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukaimio pilies srities teriojimas grįžtant nuo Junigėdos (1292 m.)
 
@@ -45,10 +57,9 @@ Nenurodyta
 <a id="claim-t-31405"></a>
 - t-001
   global_id: t-31405
-  teiginys: '1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį.'
+  teiginys: "1292 m. grįždami nuo Junigėdos kryžiuočiai teriojo 1291 m. sudegintos Aukaimio pilies sritį."
   pagrindžia:
-    - c-001
-
+    - c-33384
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +76,31 @@ Nenurodyta
     kalne^25.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33384
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1291 buvo pulta,
+    Dusburgo kronikoje pirmą kartą paminėta, Junigėda (nuo 1315
+    ten stovėjo Veliuona), bet, jos nepaėmus, netoliese buvo sunaikinta
+    pilis «Mederaba»^23. Grįždami nuo Junigėdos 1292, kryžiuočiai
+    teriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.
+    1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­
+    gindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies
+    kalne^25.
+  citata_rodoma: "Grįždami nuo Junigėdos 1292, kryžiuočiai\nteriojo sritį pernykščiai sudegintos Aukaimio (« Oukaym ») pilies^24.\n1293 pats ordino magistras dviem atvejais puolė Junigėdą, sude­\ngindamas du jos priešpilius (suburbia), vieną slėnyje, kitą pilies\nkalne^25."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31405

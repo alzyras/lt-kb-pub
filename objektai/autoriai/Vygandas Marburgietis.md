@@ -3,6 +3,7 @@ tipas: autorius
 pavadinimas: 'Vygandas Marburgietis'
 saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 datos:
   - '1323 m.'
@@ -17,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vygandas Marburgietis
 
@@ -34,81 +47,102 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
 <a id="claim-t-172965"></a>
 - t-001
   global_id: t-172965
-  teiginys: 'Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.'
+  teiginys: "Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją."
   pagrindžia:
-    - c-001
+    - c-42463
 
 <a id="claim-t-172967"></a>
 - t-002
   global_id: t-172967
-  teiginys: 'Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m.'
+  teiginys: "Vygandas Marburgietis „Naujojoje Prūsijos kronikoje“ aprašė lietuvių karaliaus dezinformaciją 1345 m."
   pagrindžia:
-    - c-001
+    - c-42463
 
 <a id="claim-t-172968"></a>
 - t-003
   global_id: t-172968
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
   pagrindžia:
-    - c-004
+    - c-157309
 
 <a id="claim-t-172969"></a>
 - t-004
   global_id: t-172969
-  teiginys: 'Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai.'
+  teiginys: "Vygandas Marburgietis pasakojo, kad Karolis Tryrietis popiežiaus rūmuose buvo priimtas pagarbiai ir draugiškai."
   pagrindžia:
-    - c-003
+    - c-157308
 
 <a id="claim-t-172970"></a>
 - t-005
   global_id: t-172970
-  teiginys: 'Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų.'
+  teiginys: "Vygando Marburgiečio kronikos ištraukos leidinyje pateiktos prie 1348 m. Strėvos mūšio ir pilies šturmo epizodų."
   pagrindžia:
-    - c-002
-    - c-004
+    - c-42467
+    - c-157309
 
 <a id="claim-t-172971"></a>
 - t-006
   global_id: t-172971
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos kronikos“ ištraukoje aprašomas pilies šturmas."
   pagrindžia:
-    - c-002
+    - c-42467
 
 <a id="claim-t-172972"></a>
 - t-007
   global_id: t-172972
-  teiginys: 'Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose.'
+  teiginys: "Vygandas Marburgietis pasakojo apie asmens atvykimą pas popiežių ir pagarbų priėmimą popiežiaus rūmuose."
   pagrindžia:
-    - c-003
+    - c-157308
 
-<a id="claim-t-172974"></a>
-- t-009
-  global_id: t-172974
-  teiginys: 'Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
+<a id="claim-t-172968"></a>
+- t-008
+  global_id: t-172968
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištrauka pateikta apie 1348 m. Strėvos mūšį."
   pagrindžia:
-    - c-006
+    - c-157309
+
+<a id="claim-t-172975"></a>
+- t-009
+  global_id: t-172975
+  teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
+  pagrindžia:
+    - c-157311
+
+<a id="claim-t-172975"></a>
+- t-010
+  global_id: t-172975
+  teiginys: "Vygandas Marburgietis ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria."
+  pagrindžia:
+    - c-157311
 
 <a id="claim-t-172976"></a>
 - t-011
   global_id: t-172976
-  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus.'
+  teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad per deginimą atsivėrusi kiaurymė įtraukė jo pelenus."
   pagrindžia:
-    - c-007
+    - c-157314
 
 <a id="claim-t-172977"></a>
 - t-012
   global_id: t-172977
-  teiginys: 'Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus.'
+  teiginys: "Vygandas Marburgietis aprašė Kęstučio laidotuves Vilniuje ir teigė, kad deginant palaikus atsivėrusi kiaurymė įtraukė pelenus."
   pagrindžia:
-    - c-005
+    - c-157310
 
 <a id="claim-t-172978"></a>
 - t-013
   global_id: t-172978
-  teiginys: 'Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius.'
+  teiginys: "Vygandas Marburgietis buvo „Naujosios Prūsijos žemės kronikos“ autorius."
   pagrindžia:
-    - c-001
-    - c-004
+    - c-42463
+    - c-157309
+
+<a id="claim-t-193881"></a>
+- t-014
+  global_id: t-193881
+  teiginys: "Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka riuomenė buvusi Karibulo Dimitro sumušta."
+  pagrindžia:
+    - c-176508
 - susijęs iš [[objektai/autoriai/T. Hiršas.md#claim-t-91955|T. Hiršas]]: T. Hiršas villa Culmen laikė rašybos klaida ir siejo šį vietovardį su Kulva.
 - susijęs iš Naujosios Prūsijos žemės kronika: Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.
 - susijęs iš Naujosios Prūsijos žemės kronika: Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.
@@ -128,7 +162,8 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
@@ -151,6 +186,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     liktų laisvas naudotis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -176,6 +212,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     įdėtus R a y n a 1  d, an.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -196,6 +233,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     Strėvos mūšį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -237,6 +275,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     žmonių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -256,6 +295,7 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     mo, Vilija taip buvo vadinama.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,7 +329,248 @@ Vygandas Marburgietis šiame leidinyje minimas kaip „Naujosios Prūsijos žem�
     dactus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+- c-008
+  santrauka: 'Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka riuomenė buvusi Karibulo Dimitro sumušta.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Žygio priežastis
+    buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,
+    juo buvo norima atitraukll Kęstuti iš Vilniaus, kad Jogaila galėtų
+    atgauti Lietuvos sostinę.
+    Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka­
+    riuomenė buvusi Karibulo Dimitro sumušta.
+    5  Hanulas (kituose dokumentuose vadinamas Manike, Hennike,
+    Hans) buvo Rygos kilimo Vilniaus pirklys, veikiausiai, Vilniaus
+    vokiečių pirklių bendruomenės galva.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-014
+
+## Citatos
+
+- id: c-42463
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“, kaip lietuvių
+    karalius 1345 m., siekdamas apsiginti nuo rengiamo kryžiuočių antpuolio, norėdamas
+    pats užpulti priešo teritoriją, jį dezinformuoja
+    „Ir iškilo [Ordino broliams] klausimas, ar žygiuoti toliau į [Lietuvos] žemę. Mat viena
+    klastinga stabmeldė pranešė magistrui, kad lietuvių karalius telkęs didelę daugybę ka-
+    riuomenės, su kuria norįs nusiaubti Sembos žemę. Todėl [Prūsijos] magistras ir kiti pagal
+    kilmingiausių [svečių] patarimą grįžta saugoti savo krašto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172978
+    - t-172965
+    - t-172967
+
+- id: c-42467
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    PILIES ŠTURMAS
+
+    Ištrauka iš Vygando Marburgiečio „Nau-
+    josios Prūsijos kronikos“.
+
+    „Susitaręs magistras užpila [priešpilio]
+    griovį ir pastato atitinkamo aukščio stati-
+    nius, kad jo [kariai] nuo jų galėtų įsiveržti
+    į pilį. Stabmeldžiai, tatai suprasdami, iškiša
+    iš mūro sijas, kad esąs pakeliamas tiltas
+    liktų laisvas naudotis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172971
+    - t-172970
+
+- id: c-157308
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    T. IV, p. 1034-1035;
+    kad Karolis Tryrietis, dar 1323 m.
+    rugpjūčiui įpusėjus, buvo Vokietijo­
+    je. Apie jo priėmimą popiežiaus
+    rūmuose pasakoja Vygandas
+    M a r b u r g a s, p. 279; Adiit papam,
+    u quo honorifice et amicabiliter suscep­
+    tus est [Atvyko pas popiežių, kurio
+    buvo pagarbiai ir draugiškai priim­
+    tas]. Žr. Kryžiuočių ordino Kroniką,
+    pateiktą M a t h e s s, p. 771.
+    z
+    Tokius skundo punktus randame
+    įdėtus R a y n a 1  d, an.
+  citata_rodoma: "Apie jo priėmimą popiežiaus\nrūmuose pasakoja Vygandas\nM a r b u r g a s, p. 279; Adiit papam,\nu quo honorifice et amicabiliter suscep­\ntus est [Atvyko pas popiežių, kurio\nbuvo pagarbiai ir draugiškai priim­\ntas]. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172972
+    - t-172969
+
+- id: c-157309
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau nea-
+    bejotinai mūšyje patyrė smūgį ir Ordinas,
+    jis po mūšio nežygiavo gilyn į Lietuvą, bet
+    grįžo atgal į Prūsiją.
+
+    STRĖVOS MUSIS
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie 1348 m.
+    Strėvos mūšį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172973
+    - t-172968
+    - t-172978
+    - t-172970
+
+- id: c-157310
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tas Vytauto pabėgimas turėjo priversti Jogailą nerimau­
+    ti, mat norėdamas garantuoto saugumo, kad kryžiuočiai ne­
+    grobtų jo žemių, net nemažą dalį Žemaitijos jiems paauko­
+    jo, 1382 metų lapkričio pradžioje Dubysos upės salelėje
+    sudarė su jais paliaubas. Tačiau ir tai negalėjo pasotinti go­
+    duolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­
+    36
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių.
+  citata_rodoma: "Tačiau ir tai negalėjo pasotinti go­\nduolio Ordino, kuris, priėmęs savo globon Vytautą ir Taut­\n36\nKlausimas, ar Kęstutis pats pasirin­\nkęs mirtį, - juk Skirgaila, važiavęs \njo aplankyti, netikėtai rado negyvą, \nar nužudytas, o jo žmona kunigaikš­\ntienė Birutė paskandinta, - nėra iki \nšiol aiškus ir rašantiesiems Lietuvos \nistoriją dera jo imtis.\n37\nVygandas  savo kronikoje, p. 298, \napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje, \nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu \nstebuklingu būdu žemėje atsivėrusi \ntokio gylio kiaurymė, jog vienas \nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172977
+
+- id: c-157311
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Upė Nerige, dažnai minima senovi­
+    niame Lietuvos kelių aprašyme,
+    esančiame Kryžiuočių archyve, yra
+    dabartinė Vilija. Vygandas ir
+    Lindenblattas, kronikininkai,
+    ją taip pat vadina - Nerga, Nerge, Ne-
+    rye ir Neria. Jau 1398 metais, po
+    krikščionių tikėjimo Vilniuje priėmi­
+    mo, Vilija taip buvo vadinama.
+  citata_rodoma: "Vygandas ir\nLindenblattas, kronikininkai,\nją taip pat vadina - Nerga, Nerge, Ne-\nrye ir Neria. Jau 1398 metais, po\nkrikščionių tikėjimo Vilniuje priėmi­\nmo, Vilija taip buvo vadinama."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172975
+    - t-172974
+
+- id: c-157314
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Klausimas, ar Kęstutis pats pasirin­
+    kęs mirtį, - juk Skirgaila, važiavęs
+    jo aplankyti, netikėtai rado negyvą,
+    ar nužudytas, o jo žmona kunigaikš­
+    tienė Birutė paskandinta, - nėra iki
+    šiol aiškus ir rašantiesiems Lietuvos
+    istoriją dera jo imtis.
+    37
+    Vygandas  savo kronikoje, p. 298,
+    apud V o i g t, V, 372, aprašinėda­
+    mas Kęstučio laidotuves Vilniuje,
+    kur kartu su palaikais buvo sudegin­
+    ti jo rūbai, ginklai, žirgai, medžiok­
+    liniai šunys ir paukščiai, prietarin­
+    gai priduria, kad to deginimo metu
+    stebuklingu būdu žemėje atsivėrusi
+    tokio gylio kiaurymė, jog vienas
+    žmogus galėjęs tilpti, ir įtraukė Kęs­
+    tučio pelenus, ką regėjusi daugybė
+    žmonių. Et duxit (Skirgajłło) eum (Kej-
+    stuta) in Wiliam ubi in cinerem est re­
+    dactus.
+  citata_rodoma: "37\nVygandas  savo kronikoje, p. 298,\napud V o i g t, V, 372, aprašinėda­\nmas Kęstučio laidotuves Vilniuje,\nkur kartu su palaikais buvo sudegin­\nti jo rūbai, ginklai, žirgai, medžiok­\nliniai šunys ir paukščiai, prietarin­\ngai priduria, kad to deginimo metu\nstebuklingu būdu žemėje atsivėrusi\ntokio gylio kiaurymė, jog vienas\nžmogus galėjęs tilpti, ir įtraukė Kęs­\ntučio pelenus, ką regėjusi daugybė\nžmonių. Et duxit (Skirgajłło) eum (Kej-\nstuta) in Wiliam ubi in cinerem est re­\ndactus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172976
+
+- id: c-176508
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 228."
+  citata_originali: |
+    Žygio priežastis
+    buvo Kaributo Dimitro su Jogaila sutartas maištas prieš Kęstutį,
+    juo buvo norima atitraukll Kęstuti iš Vilniaus, kad Jogaila galėtų
+    atgauti Lietuvos sostinę.
+    Kryžiuočių Vygando Marburgiškio duomenimis, Kęstučio ka­
+    riuomenė buvusi Karibulo Dimitro sumušta.
+    5  Hanulas (kituose dokumentuose vadinamas Manike, Hennike,
+    Hans) buvo Rygos kilimo Vilniaus pirklys, veikiausiai, Vilniaus
+    vokiečių pirklių bendruomenės galva.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193881

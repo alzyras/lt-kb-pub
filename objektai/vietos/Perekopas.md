@@ -21,6 +21,18 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Perekopas
 
@@ -33,30 +45,37 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
 <a id="claim-t-98771"></a>
 - t-001
   global_id: t-98771
-  teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   pagrindžia:
-    - c-001
+    - c-92960
 
 <a id="claim-t-98772"></a>
 - t-002
   global_id: t-98772
-  teiginys: 'Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.'
+  teiginys: "Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis."
   pagrindžia:
-    - c-002
+    - c-92962
+
+<a id="claim-t-98771"></a>
+- t-003
+  global_id: t-98771
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
+  pagrindžia:
+    - c-92960
 
 <a id="claim-t-183071"></a>
 - t-004
   global_id: t-183071
-  teiginys: 'Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.'
+  teiginys: "Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu."
   pagrindžia:
-    - c-003
+    - c-166462
 
 <a id="claim-t-187631"></a>
 - t-005
   global_id: t-187631
-  teiginys: 'Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu.'
+  teiginys: "Perekopo vardas siejamas su senovėje gynybos tikslais grioviu perkasta sąsmauka, jungiančia Krymą su žemynu."
   pagrindžia:
-    - c-004
+    - c-170578
 - susijęs iš [[objektai/asmenys/Chadži Girėjus.md#claim-t-87642|Chadži Girėjus]]: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87418|Šach Achmedas]]: Šach Achmedas, Perekopo ordos chanas ir Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius.
 - susijęs iš [[objektai/grupes/Perekopo orda.md#claim-t-86767|Perekopo orda]]: Perekopo ordos chanas Šach Achmedas savo pajėgomis rėmė lietuvius prieš Mendli Girėjų.
@@ -111,6 +130,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     tą38.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -128,6 +148,7 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     Lietuva.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -146,7 +167,8 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     naikino Auksinę Ordą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -164,7 +186,91 @@ Tuo metu totorių Auksinė Orda suskilo, ir Krime atsirado kitas — Perekopo ch
     ju s (1468— 1515 m.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-92960
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Daug jų vyko
+    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
+    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
+    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-98773
+    - t-98771
+
+- id: c-92962
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą. Tuo būdu Maskva atsipalaidavo nuo
+    totorių (1480 m.), ir vienintelis galingas jos konkurentas liko
+    Lietuva.
+  citata_rodoma: "Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-\nrado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-\nnės pilis)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-98772
+
+- id: c-166462
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Nuo jo laikų pra-
+    sidėjo Lietuvos nepasisekimai ir traukimasis atgal nuo Maskvos.
+
+    Tuo metu totorių Auksinė Orda suskilo, ir Krime atsi-
+    rado kitas — Perekopo chanatas (Perekopu vadinosi jų sosti-
+    nės pilis). Jonas III su naujuoju chanu padarė sąjungą ir su-
+    naikino Auksinę Ordą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183071
+
+- id: c-170578
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    27 Perckopas — slaviškas pavadinimas sąsmaukos, jungiančios
+    Krymo pusiasalį su žemynu. Dar senovėje gynybos tikslais ši są­
+    smauka siauriausioje vietoje perkasta grioviu (iš to ir Perekopo
+    vardas). Perekopu vadinamas taip  pat miestas siauriausioje sąsm au­
+    kos vietoje, atsiradęs iš tvirtovės Ferch-Kermen arba Or-Kapl (tur­
+    kiškai — Aukso vartai), kurią atnaujino Krymo chanas Mengll-Girė-
+    ju s (1468— 1515 m.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187631

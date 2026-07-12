@@ -17,6 +17,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Andrius Rudamina
 
@@ -33,37 +45,37 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
 <a id="claim-t-23221"></a>
 - t-001
   global_id: t-23221
-  teiginys: 'Andrius Rudamina buvo Vilniaus universiteto auklėtinis.'
+  teiginys: "Andrius Rudamina buvo Vilniaus universiteto auklėtinis."
   pagrindžia:
-    - c-001
+    - c-65256
 
 <a id="claim-t-23222"></a>
 - t-002
   global_id: t-23222
-  teiginys: 'Rudamina 1626–1634 m. misionieriavo Kinijoje.'
+  teiginys: "Rudamina 1626–1634 m. misionieriavo Kinijoje."
   pagrindžia:
-    - c-001
+    - c-65256
 
 <a id="claim-t-23223"></a>
 - t-003
   global_id: t-23223
-  teiginys: 'Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
+  teiginys: "Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   pagrindžia:
-    - c-001
+    - c-65256
 
 <a id="claim-t-23224"></a>
 - t-004
   global_id: t-23224
-  teiginys: 'Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
+  teiginys: "Andrius Rudamina, Vilniaus universiteto auklėtinis, 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba."
   pagrindžia:
-    - c-002
+    - c-166732
 
 <a id="claim-t-26708"></a>
 - t-005
   global_id: t-26708
-  teiginys: 'Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo.'
+  teiginys: "Andrius Rudamina nunešė Jėzaus draugijos idėjas iki Kinijos, kur 1626–1634 m. misionieriavo."
   pagrindžia:
-    - c-002
+    - c-166732
 - susijęs iš Kinija: Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.
 - susijęs iš Kinija: Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.
 ## Reikšmingi paminėjimai
@@ -80,7 +92,8 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     universiteto reikšmė.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -101,8 +114,54 @@ Andrius Rudamina minimas kaip Vilniaus universiteto auklėtinis, Kinijoje mision
     1626–1634 m. ir rašė asketikos veikalus kinų kalba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-004
+
+## Citatos
+
+- id: c-65256
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Be to, reikia neužmirš-
+    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
+    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+    1626–1634 m. ir rašė asketikos veikalus kinų kalba. Šiauriausias katali-
+    kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų
+    universiteto reikšmė.
+  citata_rodoma: "kiškas ir ryčiausias Europos universitetas – tai svarbiausia senojo jėzuitų"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-23221
+    - t-23222
+    - t-23223
+
+- id: c-166732
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kad toks universiteto vaidmuo nėra vien formalus, buvo
+    aišku jau akademiją steigusiems jėzuitams. Vienas jų tada rašė: „Reikia
+    taip pat neužmiršti, kad čia mums plačiai atsiveria durys į Maskoviją,
+    o iš jos per totorius galėsime pasiekti ir Kiniją. Be to, reikia neužmirš-
+    ti Švedijos ir Livonijos.“ Šios ambicijos nebeatrodo geografiškai tokios
+    naivios, kai prisimename Vilniaus universiteto auklėtinį Andrių Ruda-
+    miną, nunešusį Jėzaus draugijos idėjas iki Kinijos, kur misionieriavo
+    1626–1634 m. ir rašė asketikos veikalus kinų kalba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-26708
+    - t-23224

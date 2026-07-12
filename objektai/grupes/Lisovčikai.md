@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lisovčikai
 
@@ -19,10 +31,9 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
 <a id="claim-t-41063"></a>
 - t-001
   global_id: t-41063
-  teiginys: 'J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.'
+  teiginys: "J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus."
   pagrindžia:
-    - c-001
-
+    - c-44805
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,10 +51,35 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
     lus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44805
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    J. K. Chodkevičius pasiuntė ke-
+    lias raitarų ir „lisovčikų“ vėliavas
+    į kontrataką. Staigus puolimas
+    sukėlė paniką janičarų gretose.
+    Bėgantį priešą pradėjo vytis ir
+    kazokai, kurie, įsiveržę į turkų ar-
+    tilerijos baterijų pozicijas, išžudė
+    jų tarnybas ir sugadino pabūk-
+    lus.
+  citata_rodoma: "J. K. Chodkevičius pasiuntė ke-\nlias raitarų ir „lisovčikų“ vėliavas\nį kontrataką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41063
 
 ## Ryšiai
 - Lisovčikai puolė [[objektai/grupes/Janičarai]]

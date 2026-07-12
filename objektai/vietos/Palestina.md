@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Palestina
 
@@ -30,9 +42,9 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
 <a id="claim-t-183067"></a>
 - t-001
   global_id: t-183067
-  teiginys: 'Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis.'
+  teiginys: "Europoje skelbiami kryžiaus karai prieš turkus Palestinoje skatino savanorius karius vykti į kovas su pagonimis."
   pagrindžia:
-    - c-001
+    - c-166458
 - susijęs iš [[objektai/ivykiai/Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.).md#claim-t-62507|Totorių, armėnų ir gruzinų žygis į Siriją bei Palestiną (1311 m.)]]: 1311 m. totoriai su armėnais ir gruzinais žygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkst. raitelių.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171441|Totoriai]]: Totoriai su armėnais ir gruzinais nužygiavo į Siriją bei Palestiną, išvijo sultoną ir nukovė daugiau nei 10 tūkstančių raitelių.
 - susijęs iš [[objektai/grupes/Armėnai.md#claim-t-88520|Armėnai]]: Totoriai kartu su armėnais ir gruzinais žygiavo į Siriją bei Palestiną ir nukovė daugiau nei 10 tūkstančių raitelių.
@@ -76,11 +88,34 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
     reikėdavo ieškoti naujų karių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-166458
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Dažnai jis pats nuvykdavo į Vokietiją ir atsiveždavo
+    būrius karių ir riterių, kurie jam padėjo ne tik saugoti esančias
+    krikščionių bendruomenes, bet ir plėsti krikščionybę ir stiprinti
+    valdžią. Kadangi tuo metu Europoje buvo skelbiami kryžiaus
+    karai prieš turkus Palestinoje ir vyravo nuomonė, kad su neti-
+    kėliais pagonimis reikią kariauti, todėl savanorių karių atsiras-
+    davo nemaža. Bet atvykstančių karių pagalba buvo laikinė, nes,
+    pabuvę kiek laiko (dažniausiai metus), jie grįždavo atgal, ir vėl
+    reikėdavo ieškoti naujų karių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183067
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Žydai]]
-- Buvo žygio kryptis: [[objektai/grupes/Armėnai]], [[objektai/grupes/Gruzinai]], [[objektai/grupes/Totoriai]]
+- Buvo žygio kryptis: [[objektai/grupes/Totoriai]]

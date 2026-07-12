@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # tribunolas
 
@@ -32,37 +44,44 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 <a id="claim-t-82098"></a>
 - t-001
   global_id: t-82098
-  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
+  teiginys: "Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m."
   pagrindžia:
-    - c-002
+    - c-78594
 
 <a id="claim-t-82100"></a>
 - t-002
   global_id: t-82100
-  teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
+  teiginys: "Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje."
   pagrindžia:
-    - c-003
+    - c-78596
 
 <a id="claim-t-82101"></a>
 - t-003
   global_id: t-82101
-  teiginys: 'Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos.'
+  teiginys: "Vyriausiasis Lietuvos tribunolas buvo įkurtas 1581 m. ir su mažais pakeitimais išliko iki valstybės nepriklausomybės pabaigos."
   pagrindžia:
-    - c-002
+    - c-78594
 
 <a id="claim-t-82102"></a>
 - t-004
   global_id: t-82102
-  teiginys: 'Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  teiginys: "Oginskis siūlė Lietuvos kunigaikštijoje palikti Lietuvos statutą be apribojimų ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
   pagrindžia:
-    - c-001
+    - c-78593
 
 <a id="claim-t-182982"></a>
 - t-005
   global_id: t-182982
-  teiginys: 'Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
+  teiginys: "Oginskis siūlė numatomoje kunigaikštijoje palikti Lietuvos statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą."
   pagrindžia:
-    - c-004
+    - c-166380
+
+<a id="claim-t-193162"></a>
+- t-006
+  global_id: t-193162
+  teiginys: "O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai."
+  pagrindžia:
+    - c-175913
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113375|Vyriausiasis Lietuvos tribunolas]]: Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.
 - susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
@@ -119,6 +138,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     cija buvo Rusijos senatas).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,6 +158,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     pat išliko iki pat nepriklausomybės pabaigos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -169,6 +190,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     išleistų Varšuvoje, 1823 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -194,7 +216,167 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
     keli numatomos kunigaikštijos konstitucijos projektai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+- c-005
+  santrauka: 'O bajorijos byloms su dvasininkais būdavo sudaromas mišrasis teismas, arba dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų kapitulų skiriami kunigai ir 6 tribunolo deputatai.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Bylos bū-
+    davo sprendžiamos balsų dauguma. O bajorijos byloms su
+    dvasininkais būdavo sudaromas mišrasis teismas, arba
+    dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
+    kapitulų skiriami kunigai ir 6 tribunolo deputatai.
+
+
+    **8.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-78593
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Juo buvo siūloma iš
+    8 Rusijos gubernijų, ku-
+    riose veikė Lietuvos statu-
+    tas, sudaryti didžiąją Lie-
+    tuvos kunigaikštiją (įsidė-
+    mėtina, kad į ją buvo siū-
+    loma įterpti ir Voluinės,
+    Podolės ir Kijevo sritis,
+    kurios nuo 1569 m. buvo
+    Lenkijos ribose: mat, jose
+    taip pat visą laiką veikė
+    Lietuvos statutas). Ogins-
+    kis nurodinėjo, kad tuo
+    būdu kelias Nepoleono
+    įtakai Lietuvoje būtų už-
+    kirstas. Be to, jis siūlė pa-
+    likti toje kunigaikštijoje
+    Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
+  citata_rodoma: "Be to, jis siūlė pa-\nlikti toje kunigaikštijoje Lietuvos statutą be jokių\napribojimų ir įsteigti nuo\nPetrapilio visiškai nepri-\nklausomą tribunolą (mat,\ntada aukščiausioji instan-\ncija buvo Rusijos senatas)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82102
+
+- id: c-78594
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bet pagaliau,
+    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
+    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
+    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
+    Lietuvoje.
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
+  citata_rodoma: "Vyriausiojo Lietuvos tribunolo reikalas buvo\nsvarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-\ntinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82101
+    - t-82098
+
+- id: c-78596
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Neapsiribodamas pavyzdžio verta savo
+    labdaringa veikla, Protasevičius, be šių fundacijų, dar įstei­
+    gė neturtingiems studentams bursą, pavadintą Valerijono
+    vardu, jai mieste dovanojo tris mūrinius namus, pavedė juos
+    jėzuitų priežiūrai ir globai58. Protasevičiaus pėdomis sekė ir
+    jo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­
+    liau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­
+    kupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą
+    dvasiškai jaunuomenei lavintis, vadinamą seminarija59.
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m.
+  citata_rodoma: "Protasevičiaus pėdomis sekė ir \njo įpėdinis Vilniaus vyskupas kunigaikštis Jurgis Radvila, vė­\nliau kardinolas; jis nusipelnė Vilniui ir visai diecezijai iš vys­\nkupo dvaro pajamų 1582 metais įkurdamas svarbią mokyklą \ndvasiškai jaunuomenei lavintis, vadinamą seminarija59.\nLietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­\nkilmingai įvesdintas išlaisvino karalius nuo varginančio\n57\nVisas Vilniaus universiteto fundaci­\njos privilegijas kartu su atitinkama \npopiežiaus bule galima perskaityti \nveikale „Stepono Batoro valdymas\", \niš Albertrandžio rankraščių, rūpestin­\ngai profesoriaus Onacevičiaus \nišleistų Varšuvoje, 1823 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82100
+
+- id: c-166380
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ogins-
+    kis nurodinėjo, kad tuo
+    būdu kelias Nepoleono
+    įtakai Lietuvoje būtų už-
+    kirstas. Be to, jis siūlė pa-
+    likti toje kunigaikštijoje
+    Lietuvos statutą be jokių
+    apribojimų ir įsteigti nuo
+    Petrapilio visiškai nepri-
+    klausomą tribunolą (mat,
+    tada aukščiausioji instan-
+    cija buvo Rusijos senatas).
+    Kiek vėliau buvo paruošti
+    keli numatomos kunigaikštijos konstitucijos projektai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182982
+
+- id: c-175913
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bylos bū-
+    davo sprendžiamos balsų dauguma. O bajorijos byloms su
+    dvasininkais būdavo sudaromas mišrasis teismas, arba
+    dvasiškasis tribunolas, į kurį įeidavo 4 vyskupijų
+    kapitulų skiriami kunigai ir 6 tribunolo deputatai.
+
+
+    **8.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193162

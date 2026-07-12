@@ -1,0 +1,72 @@
+---
+tipas: vieta
+pavadinimas: 'Šv. Jono pilis'
+saltiniai:
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - pilis
+  - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Šv. Jono pilis
+
+## Santrauka
+
+Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.
+
+## Teiginiai
+
+<a id="claim-t-194990"></a>
+- t-001
+  global_id: t-194990
+  teiginys: "Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv."
+  pagrindžia:
+    - c-177373
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Elzbietos diena 348 Šv. Jono diena 336 Šv. Jono pilis 315 Šv.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Elzbietos diena 348
+    Šv. Jono diena 336
+    Šv. Jono pilis 315
+    Šv.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-177373
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Elzbietos diena 348
+    Šv. Jono diena 336
+    Šv. Jono pilis 315
+    Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194990

@@ -10,17 +10,24 @@ sukurta: ''
 atnaujinta: ''
 amziai: []
 periodo_grupes: []
-description: 'Alepas Narbuto pasakojime – paskutinis Prūsijos Krivių Krivaitis, kurio 1265 m. atsivertimas siejamas su Romove ir Lietuva.'
-socialDescription: 'Alepas čia pristatomas kaip Narbuto aprašytas paskutinis Prūsijos Krivių Krivaitis ir prūsų religijos lūžio figūra.'
-seo_atnaujinta: '2026-07-02T20:14:54.913689+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alepas
 
 ## Santrauka
 
-Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivaitis, susijęs su Romove ir prūsų religine tradicija. 1265 m. jis esą ragino žymiausius žmones priimti krikštą, o vėliau pats pasitraukė pas kryžiuočius. Narbutas Alepo atsivertimą aiškina kaip smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.
+Narbutas Alepą vaizduoja kaip paskutinį Prūsijos Krivių Krivaitį, kurio atsivertimą į krikščionybę sieja su prūsų stabmeldystės lūžiu ir religinės sostinės perkėlimu į Lietuvą. Kadangi pasakojimas yra religinis ir vertinamasis, teiginiai pateikiami kaip Narbuto ar jo minimų kronikų vaizdinys.
 
 ## Variantai
 
@@ -50,55 +57,60 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
       - Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 
 ## Teiginiai
+
+<a id="claim-t-187909"></a>
+- t-001
+  global_id: t-187909
+  teiginys: "Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu."
+  pagrindžia:
+    - c-170890
+
+<a id="claim-t-187910"></a>
+- t-002
+  global_id: t-187910
+  teiginys: "Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę."
+  pagrindžia:
+    - c-170892
+
+<a id="claim-t-187911"></a>
+- t-003
+  global_id: t-187911
+  teiginys: "Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių."
+  pagrindžia:
+    - c-170890
+
+<a id="claim-t-187912"></a>
+- t-004
+  global_id: t-187912
+  teiginys: "Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius."
+  pagrindžia:
+    - c-170891
+
+<a id="claim-t-187913"></a>
+- t-005
+  global_id: t-187913
+  teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą."
+  pagrindžia:
+    - c-170894
+
+<a id="claim-t-190646"></a>
+- t-006
+  global_id: t-190646
+  teiginys: "Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą."
+  pagrindžia:
+    - c-173529
+
 <a id="claim-t-190647"></a>
 - t-007
   global_id: t-190647
-  teiginys: 'Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu.'
+  teiginys: "Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-008
-  teiginys: 'Narbutas spėja, kad Alepas buvo išguitas iš Romovės, gyveno įvairiose vietovėse ir slapstėsi nuo kryžiuočių.'
-  pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-009
-  teiginys: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
-  pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-010
-  teiginys: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
-  pagrindžia:
-    - c-003
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-011
-  teiginys: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.'
-  pagrindžia:
-    - c-004
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-012
-  teiginys: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
-  pagrindžia:
-    - c-005
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-- t-013
-  teiginys: 'Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.'
-  pagrindžia:
-    - c-006
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173530
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-188215|Kryžiuočių ordinas]]: Narbutas pasakoja, kad paskutinis Prūsijos Krivių Krivaitis Alepas 1265 m. pabėgo pas kryžiuočius ir buvo pakrikštytas.
 - susijęs iš [[objektai/grupes/Prūsai.md#claim-t-188309|Prūsai]]: Narbutas spėja, kad paskutinis Prūsijos Krivių Krivaitis Alepas buvo išguitas iš Romovės ir slapstėsi nuo kryžiuočių, siekusių jį sučiupti.
 ## Reikšmingi paminėjimai
+
 - c-001
-  santrauka: 'Narbutas Alepą vadina paskutiniu Prūsijos Krivių Krivaičiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tada būtų pridėtos
@@ -109,33 +121,16 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
     rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
     je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
     žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-007
-    - t-008
+    - t-001
+    - t-003
+
 - c-002
-  santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    Todėl vyriausiųjų žy­
-    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
-    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
-    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
-    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
-    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
-    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
-    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
-    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
-    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
-    ir garantuotų sau politinę ramybę.
-  citata_rodoma: ""
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-- c-003
   santrauka: 'Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -151,13 +146,38 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
     apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
     kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
     kryžiuočius.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-010
+    - t-004
+
+- c-003
+  santrauka: 'Narbutas pasakoja, kad 1265 m. Alepas ragino žymiausius žmones išsižadėti stabmeldystės, priimti krikštą ir užsitikrinti politinę ramybę.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_vaizdinys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
 - c-004
-  santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip stiprų smūgį prūsų stabmeldystei ir sieja su religinės sostinės perkėlimu į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
     Tačiau dievai beveik niekad nepriimdavo šių maldavimų
@@ -170,11 +190,14 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
     čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
     tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
     metais visuotinai buvo priimtas krikščionių tikėjimas.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-011
+    - t-005
+
 - c-005
   santrauka: 'Narbutas Alepo atsivertimą į krikščionybę vaizduoja kaip smūgį prūsų stabmeldystei, po kurio religinė sostinė buvo perkelta į Lietuvą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -188,11 +211,14 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
     metais visuotinai buvo priimtas krikščionių tikėjimas. Straips­
     nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
     buveinių vietos Lietuvoje.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-012
+    - t-006
+
 - c-006
   santrauka: 'Narbutas, remdamasis Prūsijos kronikomis, nurodo, kad iki vyriausiojo žynio Alepo buvo 481 žynys, o 1265–1414 m. jų dar buvo 23.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -206,8 +232,154 @@ Alepas Narbuto pasakojime vaizduojamas kaip paskutinis Prūsijos Krivių Krivait
     iki 1414 metų, per 149 metus, jų buvo dar 23. Tą patvirtina
     mūsų anksčiau pasakyti dalykai apie šio padavimo autentiš­
     kumą (straipsnis „Žyniai“).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
-    - t-013
+    - t-007
+
+## Citatos
+
+- id: c-170890
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
+  citata_originali: |
+    Tada būtų pridėtos
+    žyniavimo pradžios, mirties datos bei kitos smulkmenos, su­
+    galvojamos lengviau nei tikriniai vardai. Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti.
+  citata_rodoma: "Paskutinis Prūsijos\nKrivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­\nrėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-\nje, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­\nžiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187909
+    - t-187911
+
+- id: c-170891
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
+  citata_originali: |
+    Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę. Bet tie įkalbinėjimai neda­
+    vė jokio rezultato: žmonės pasipiktino vyriausiuoju žyniu ir
+    net ėmė grasinti jį nužudysiu. Tasai senelis ir toliau nematė
+    būdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti
+    apie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­
+    kietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas
+    kryžiuočius.
+  citata_rodoma: "Tasai senelis ir toliau nematė\nbūdo, kaip prisidėti prie savo tautiečių gerovės; ėmė galvoti\napie save ir pagaliau, pasprukęs nuo savųjų užsispyrusių ir už­\nkietėjusių savo savasties gynėjų -  žynių ir liaudies, pabėgo pas\nkryžiuočius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187912
+
+- id: c-170892
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 286"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 286."
+  citata_originali: |
+    Todėl vyriausiųjų žy­
+    nių sąrašo autentiškumas nekelia įtarimo. Paskutinis Prūsijos
+    Krivių Krivaitis, kaip minėjome, vardu Alepas, tikriausiai tu­
+    rėjo būti išguitas iš savo pirmtakų sostinės, buvusios Romovė-
+    je, ir gyveno įvairiose vietovėse, nuolat slapstydamasis nuo kry­
+    žiuočių, nes šie, be abejo, smarkiai stengėsi jį sučiupti. Paga­
+    liau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­
+    žinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo
+    pažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­
+    ti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą
+    ir garantuotų sau politinę ramybę.
+  citata_rodoma: "Pagaliau 1265 metais, perpratęs aplinkybes ir, kaip matyti, susipa­\nžinęs su krikščionių mokslu iš savo tautiečių, kurie jame buvo\npažengę, jie susikvietė žymiausius ir atkakliausiai ėmė įtikinė­\nti juos, kad išsižadėtų stabmeldystės, priimtų išganingąjį krikštą\nir garantuotų sau politinę ramybę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187910
+
+- id: c-170894
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Tačiau dievai beveik niekad nepriimdavo šių maldavimų
+    ir aukų, kol pagaliau man pasakė: „Nesame pajėgūs tai pada­
+    ryti, kadangi krikščionių dievas yra galingesnis už visus: pripa­
+    žinkite jo galią ir tarnaukite jam“. Pagyvenęs su atgaila, netru­
+    kus pasimirė kaip krikščionis14.
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
+    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
+    metais visuotinai buvo priimtas krikščionių tikėjimas.
+  citata_rodoma: "Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­\ngį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­\nčionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­\ntė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387\nmetais visuotinai buvo priimtas krikščionių tikėjimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187913
+
+- id: c-173529
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 287"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 287."
+  citata_originali: |
+    Pagyvenęs su atgaila, netru­
+    kus pasimirė kaip krikščionis14.
+    Pirmą kartą griuvus prūsų stabmeldystei, kuriai stiprų smū­
+    gį kirto pats vyriausiasis žynys Alepas, pats atvirsdamas į krikš­
+    čionybę, religinė sostinė buvo perkelta į Lietuvą, kur susiklos­
+    tė nauja vyriausiųjų žynių tvarka, trukusi 122 metus, kol 1387
+    metais visuotinai buvo priimtas krikščionių tikėjimas. Straips­
+    nyje apie šventyklas skaitėme, kaip keitėsi vyriausiųjų žynių
+    buveinių vietos Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190646
+
+- id: c-173530
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 431"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 431."
+  citata_originali: |
+    Ma­
+    tyt, autorius turėjo rankoje istorijos šaltinį, iš kurio pasisėmė
+    žinią, kad paskutinis Krivių Krivaitis Gintautas buvo 74-asis
+    vyriausiųjų žynių eilėje. Žynių, anot Prūsijos kronikų, iki ga­
+    lutinio stabmeldystės žlugimo, arba iki vyriausiojo žynio Ale-
+    po, buvo 481 12; taigi nuo krikšto priėmimo datos, arba nuo 1265
+    iki 1414 metų, per 149 metus, jų buvo dar 23. Tą patvirtina
+    mūsų anksčiau pasakyti dalykai apie šio padavimo autentiš­
+    kumą (straipsnis „Žyniai“).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190647

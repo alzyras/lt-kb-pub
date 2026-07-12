@@ -6,11 +6,6 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Karalienė Bona minima prie Merkio, Vilniuje 1536 m., Vytauto atminimo įamžinime ir Veliuonos bažnyčios fundacijoje.'
-socialDescription: 'Karalienė Bona Lietuvos istorijos šaltiniuose siejama su Vilniaus miesto įstatymais, Vytauto atminimu ir Veliuonos bažnyčia.'
-seo_atnaujinta: '2026-07-02T21:03:54.613403+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -20,42 +15,54 @@ tags:
   - miestas
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bona
 
 ## Santrauka
 
-Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, gyvenusi viename iš mažesnių namų prie Merkio. Ji pritarė 1536 m. rugsėjo 9 d. paskelbtiems naujiems Vilniaus miesto įstatymams. Taip pat Bona siejama su Vytauto atminimo įamžinimu marmuriniu antkapiniu paminklu ir Veliuonos bažnyčios apdovanojimu turtais.
+Vėliau karalienė Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta klebonija tapo išties reikšmingiausia Žemaitijoje. Vis dėlto pirmieji nusveria antruo­ sius: juk visos Vytauto dorybės tik jo paties, gyvenusio 85 Tiesa, šimtmečiu vėliau karalienė Bona pagerbė Vytauto atminimą antkapiniu marmuro paminklu di­ džiojo altoriaus dešinėje pusėje. Žygimantas Senasis paprastai gy­ vendavo viename, o karalienė Bona - antrame.
 
 ## Teiginiai
 
 <a id="claim-t-87467"></a>
 - t-001
   global_id: t-87467
-  teiginys: 'Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio.'
+  teiginys: "Karalienė Bona paprastai gyvendavo viename iš dviejų mažesnių namų prie Merkio."
   pagrindžia:
-    - c-004
+    - c-83449
 
 <a id="claim-t-87468"></a>
 - t-002
   global_id: t-87468
-  teiginys: 'Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.'
+  teiginys: "Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje."
   pagrindžia:
-    - c-003
+    - c-83448
 
 <a id="claim-t-87469"></a>
 - t-003
   global_id: t-87469
-  teiginys: 'Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.'
+  teiginys: "Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje."
   pagrindžia:
-    - c-001
+    - c-83446
 
 <a id="claim-t-87470"></a>
 - t-004
   global_id: t-87470
-  teiginys: 'Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.'
+  teiginys: "Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus."
   pagrindžia:
-    - c-002
+    - c-83447
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173124|Bona Sforca]]: Karalienė Bona pritarė Žygimanto Senojo 1536 m. rugsėjo 9 d. įsakymui paskelbti naujus Vilniaus miesto įstatymus.
 - susijęs iš Karalienės Bonos testamentas: Karalienė Bona prieš mirtį testamente paskyrė sūnų Augustą viso savo turto paveldėtoju, bet jos valia nebuvo įvykdyta.
@@ -107,6 +114,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
     dro vardą" ir 1.1.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,6 +133,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
     Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,6 +154,7 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
     pavieto centras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,13 +172,101 @@ Karalienė Bona šaltiniuose minima kaip Žygimanto Senojo aplinkos asmenybė, g
     raliaus arklidės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Sūnūs: [[objektai/asmenys/Augustas]]
-- Priešai: [[objektai/asmenys/Papakoda]]
-- Bona keliavo į [[objektai/vietos/Italija]]
-- Bona gyveno [[objektai/vietos/Merkys]]
+## Citatos
+
+- id: c-83446
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Veiklus, santūrus, kilnus, my­
+    lintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika,
+    tačiau ūmus, per daug ambicingas, kartais siekiantis savo
+    tikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto
+    geri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­
+    sius: juk visos Vytauto dorybės tik jo paties, gyvenusio
+    85
+    Tiesa, šimtmečiu vėliau karalienė
+    Bona pagerbė Vytauto atminimą
+    antkapiniu marmuro paminklu di­
+    džiojo altoriaus dešinėje pusėje. Iš
+    vieno Vytauto dovanojimo akto Tra­
+    kų miestui, 1384 metų rugpjūčio 23
+    dieną rašyto, aišku, kaip tatai ir iš
+    istorijos žinoma, kad tuo metu jis jau
+    buvęs krikščionis, ką liudija patys
+    pirmieji to dokumento žodžiai:
+    „Mes, didysis kunigaikštis Vytautas,
+    švento krikšto metu gavęs Aleksan­
+    dro vardą" ir 1.1.
+  citata_rodoma: "Veiklus, santūrus, kilnus, my­\nlintis tėvynę, pasižymėjęs mūšiais, sumanymais ir politika, \ntačiau ūmus, per daug ambicingas, kartais siekiantis savo \ntikslo bet kokiomis priemonėmis, - tokie tad buvo Vytauto \ngeri ir blogi bruožai. Vis dėlto pirmieji nusveria antruo­\nsius: juk visos Vytauto dorybės tik jo paties, gyvenusio\n85\nTiesa, šimtmečiu vėliau karalienė \nBona pagerbė Vytauto atminimą \nantkapiniu marmuro paminklu di­\ndžiojo altoriaus dešinėje pusėje. Iš \nvieno Vytauto dovanojimo akto Tra­\nkų miestui, 1384 metų rugpjūčio 23 \ndieną rašyto, aišku, kaip tatai ir iš \nistorijos žinoma, kad tuo metu jis jau \nbuvęs krikščionis, ką liudija patys \npirmieji to dokumento žodžiai:\n„Mes, didysis kunigaikštis Vytautas, \nšvento krikšto metu gavęs Aleksan­\ndro vardą\" ir 1."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87469
+
+- id: c-83447
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+    Jais patvirtinama, kad magistrato paskirtis - valdyti miestą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87470
+
+- id: c-83448
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmoji baž­
+    nyčios fundacija priklauso Vytautui, tai viena pirmųjų baž­
+    nyčių Žemaitijoje po krikščionybės įvedimo. Vėliau karalienė
+    Bona ir Vladislovas IV taip gausiai pažėrė jai turtų, kad ta
+    klebonija tapo išties reikšmingiausia Žemaitijoje. Senoji pi­
+    liavietė rėpė du kalnus ties Nemunu, sujungtus tiltu, nu­
+    tiestu per gana gilią griovą, tarp kurios polių buvo net kalė­
+    jimas atitvertas, kai Veliuona kurį laiką buvo Žemaitijos
+    pavieto centras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87468
+
+- id: c-83449
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Per kelis šimtus žingsnių, ant nedidelės aukštumė­
+    lės, irgi prie Merkio, stovėjo du kiti mažesni namai, berods
+    taip pat dviejų aukštų. Žygimantas Senasis paprastai gy­
+    vendavo viename, o karalienė Bona - antrame. Netoliese
+    būta dar kitų pastatų medžiokliams bei dvariškiams ir ka­
+    raliaus arklidės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87467

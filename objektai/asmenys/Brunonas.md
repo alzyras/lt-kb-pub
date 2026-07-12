@@ -5,53 +5,61 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
-description: 'Brunonas minimas kaip misijonierius Bonifacas, Kristaus karių ordino vyras ir magistras prie Treiderės upės.'
-socialDescription: 'Brunono vardas šaltiniuose siejamas su aisčių krikšto misija, Kristaus karių ordinu ir kovomis prie Treiderės upės.'
-seo_atnaujinta: '2026-07-02T21:03:54.613704+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - kraštas
   - krikštas
+  - šventė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brunonas
 
 ## Santrauka
 
-Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių vienuolis Bonifacas, vykęs iš Lenkijos krikštyti aisčių, ir kaip Kristaus karių ordinui priskirtas žymus vyras. Misijonierius Brunonas 1008 m. gale išvyko su 18 palydovų, o 1009 m. vasario 14 d. buvo suimtas ir nužudytas. Kituose pasakojimuose magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.
+Brunonas: bet ir jo misijos nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais vasario 14 d. buvo suimtas ir su visais palydovais nužudytas. Brunonas: pagaliau 1008 m. gale jis iš- vyko iš Lenkijos aisčių krikštyti net su 18 palydovų. Brunonas: ir Bonifacas buvo paskelbtas šventuoju kankiniu.
 
 ## Teiginiai
 
 <a id="claim-t-89681"></a>
 - t-001
   global_id: t-89681
-  teiginys: 'Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.'
+  teiginys: "Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų."
   pagrindžia:
-    - c-001
+    - c-85622
 
 <a id="claim-t-89682"></a>
 - t-002
   global_id: t-89682
-  teiginys: 'Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų.'
+  teiginys: "Brunonas 1008 m. pabaigoje išvyko iš Lenkijos krikštyti aisčių su 18 palydovų."
   pagrindžia:
-    - c-003
+    - c-85624
 
 <a id="claim-t-89683"></a>
 - t-003
   global_id: t-89683
-  teiginys: '1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais.'
+  teiginys: "1009 m. vasario 14 d. Brunonas aisčių krašte buvo suimtas ir nužudytas su visais palydovais."
   pagrindžia:
-    - c-002
+    - c-85623
 
 <a id="claim-t-184682"></a>
 - t-004
   global_id: t-184682
-  teiginys: 'Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos.'
+  teiginys: "Magistras Brunonas prie Treiderės upės užpuolė grobiu apsikrovusius siaubėjus netoli Livonijos įlankos."
   pagrindžia:
-    - c-004
+    - c-168043
 - susijęs iš [[objektai/asmenys/Brunonas iš Kverfurto.md#claim-t-60256|Brunonas iš Kverfurto]]: Brunonas iš Kverfurto mirė 1009 m. ir buvo vienas pirmųjų misionierių, veikusių prūsų žemėse.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60096|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo buvo Magdeburgo burggrafas ir kilo iš tos pačios giminės kaip Brunonas iš Kverfurto.
 - susijęs iš [[objektai/ivykiai/Brunono misija į aisčių kraštą ir žūtis (1009 m.).md#claim-t-10801|Brunono misija į aisčių kraštą ir žūtis (1009 m.)]]: Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.
@@ -84,6 +92,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
     įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,6 +112,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
     vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -130,6 +140,7 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
     su 18 palydovų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -150,12 +161,106 @@ Brunonas šaltiniuose minimas keliais skirtingais kontekstais: kaip vokiečių v
     džiusi po kaimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
-## Ryšiai
-- Brunonas keliavo į [[objektai/vietos/Prieglius]]
-- Brunonas mirė [[objektai/vietos/Lietuva]], [[objektai/vietos/Rusija]]
-- Brunonas puolė [[objektai/grupes/Lietuviai]], [[objektai/vietos/Treiderės upė]]
+## Citatos
+
+- id: c-85622
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 44"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 44."
+  citata_originali: |
+    4. Apie Kristaus karių ordino brolius
+
+      Kai šis kunigaikštis, matydamas savo žemę taip negailestingai varginamą, pagaliau
+    suprato, kad  ji pati viena neįstengs apsiginti, jis, Prūsijos žemės vyskupo Kristijono
+    ir kai kurių savo didikų patariamas, savo žemei ginti ėmė burti brolius, kurie vadinosi
+    Kristaus kariais166 ir vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde; jie tuo
+    metu jau buvo įsikūrę Livonijoje ir palenkę daugelį netikėlių žemių Kristaus tikėjimui;
+    minėtasis vyskupas priskyrė šiam ordinui vieną žymų vyrą, vardu Brunonas, o drauge
+    su juo keturiolika kitų vyrų. Šitaip viską patvarkius, kunigaikštis pastatydino167 šiems
+      165 Dusburgietis čia nepateikia Hohenlohės pranešime (jo autorius galėjo remtis
+    įvykių liudytojais) minimų prūsų pasiuntinių vardų: Petraten.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89681
+
+- id: c-85623
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+    Bet ir jo misijos
+    nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais
+    vasario 14 d. buvo suimtas ir su visais palydovais nužudytas.
+  citata_rodoma: "Bet ir jo misijos\n  nebuvo sėkmingos. Toli įėjęs į aisčių kraštą, jis 1009 metais\n  vasario 14 d. buvo suimtas ir su visais palydovais nužudytas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89683
+
+- id: c-85624
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pagaliau
+    pas tą patį lenkų
+    kunigaikštį Boles-
+    lovą atvyko naujas
+    misijonierius vo-
+    kietis _Brunonas,_
+    kurs, būdamas vie-
+    nuolis, turėjo _Bo-
+    nifaco_ vardą. Bo-
+    leslovas jo misi-
+    joms pažadėjo pa-
+    ramos. Pagaliau
+    1008 m. gale jis iš-
+    vyko iš Lenkijos
+    aisčių krikštyti net
+    su 18 palydovų.
+  citata_rodoma: "Pagaliau 1008 m. gale jis iš-\n  vyko iš Lenkijos\n  aisčių krikštyti net\n  su 18 palydovų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89682
+
+- id: c-168043
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 175"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 175."
+  citata_originali: |
+    Po to nugalėtojai, paleisti pasiplėšti grobio,
+    nusiaubė visas apylinkes, naikindami ugnimi ir kala­
+    viju kaimus bei jų gyventojus. Pavijęs siaubėjus ne­
+    toli Livonijos įlankos, magistras Brunonas nirtulingai
+    juos užpuolė prie Treiderės upės, jau apsikrovusius
+    grobiu. Iš pradžių Vytenio padėtis rodėsi sunkoka gal
+    dėl to, kad neturėjo po ranka kariuomenės (paprastai
+    šitaip esti, kai gabenamas grobis), nes ji buvo išsisklai­
+    džiusi po kaimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184682

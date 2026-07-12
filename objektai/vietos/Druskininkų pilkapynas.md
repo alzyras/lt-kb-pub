@@ -12,6 +12,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Druskininkų pilkapynas
 
@@ -20,24 +32,22 @@ amziai:
 Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais. Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.
 
 ## Teiginiai
+
 <a id="claim-t-188933"></a>
 - t-001
   global_id: t-188933
-  teiginys: 'Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais.'
+  teiginys: "Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171822
+
 <a id="claim-t-188934"></a>
 - t-002
   global_id: t-188934
-  teiginys: 'Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.'
+  teiginys: "Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino."
   pagrindžia:
-    - c-002
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-171823
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio smėlio atidengtą pilkapyną, kurį kaimiečiai siejo su stabmeldystės laikais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -54,11 +64,14 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
     išblaškyti, maža tokių, kuriuose būtų buvę galima įžiūrėti ko­
     kią nors skeleto sandarą, bet pastebėjau, kad visi guli galvo­
     mis į vakarus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Narbutas mini chemiko raštelį, kuriame teigta, kad 1819 metais Druskininkų vandenyje aptikta bromo, bet pats šios žinios nepatvirtino.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -74,8 +87,61 @@ Narbutas rašo, kad prie Druskininkų kaimo matė daugiau kaip margo dydžio sm�
     paliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­
     stanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai
     teisybė.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-171822
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
+  citata_originali: |
+    Senoviniuose kapuose su kaulais randama me­
+    talinių daiktų, amato įrankių, šarvų, šalmų, kalavijų, pinigų.
+    Gardino apskrityje^ prie Druskininkų kaimo, žinomo gydomojo
+    vandens šaltiniais , netoli nuo Nemuno, mačiau platų, dau­
+    giau kaip margo dydžio pilkapyną, vėjams nu pusčius smėlį,
+    beveik visiškai atvirą; kaimiečiai tuos kapus priskiria stabmel­
+    dystės laikams; pasakoja, kad, prie skeletų būdavo randama
+    labai senų pinigų ir visokių metalo gabalų. 1826 metais turė­
+    jau progą apžiūrėti šį lauką, nusėtą žmonių kaulais: visi kapai
+    išblaškyti, maža tokių, kuriuose būtų buvę galima įžiūrėti ko­
+    kią nors skeleto sandarą, bet pastebėjau, kad visi guli galvo­
+    mis į vakarus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188933
+
+- id: c-171823
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 374"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 374."
+  citata_originali: |
+    Kaulai tiek supuvę, kad neradau nė vienos svei­
+    kos kaukolės; jos priklauso įvairaus amžiaus ir lyties asme­
+    nims; tuo mane įtikino apatiniai žandikauliai ir dantys, taip
+    pat ilgi plaukai po keliomis kaukolėmis, kurias atkasiau po 7
+    7
+    Lietuviškas šio kaimo pavadinimas lenkiškai reiškia Soleczniki.
+    Tenykščiuose mineraliniuose šaltiniuose esama kažkokių druskų, net
+    bromo, kaip sužinojau iš tyrimų vieno chemiko, kuris pas kaimietį
+    paliko vokišku raštu rašytą raštelį, kad 1819 metais susekęs tą sub­
+    stanciją Druskininkų vandenyje. Bet nežinau, kas jis buvo ir ar tai
+    teisybė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188934

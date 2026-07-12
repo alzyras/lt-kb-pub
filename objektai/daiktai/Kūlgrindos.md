@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - transportas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kūlgrindos
 
@@ -38,17 +50,16 @@ Nenurodyta
 <a id="claim-t-06734"></a>
 - t-001
   global_id: t-06734
-  teiginys: 'Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės.'
+  teiginys: "Kūlgrindomis galėjo naudotis tik prityrusio vadovo vedami žmonės."
   pagrindžia:
-    - c-001
+    - c-00209
 
 <a id="claim-t-06735"></a>
 - t-002
   global_id: t-06735
-  teiginys: 'Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais.'
+  teiginys: "Kūlgrindomis žemaičiai vadino akmenimis grįstus vingrius kelius su klastingais posūkiais."
   pagrindžia:
-    - c-001
-
+    - c-00209
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,8 +73,31 @@ Nenurodyta
     Lietuvoje tokių kelių liekanų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-00209
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tie keliai būdavo tokie
+    vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-
+    tyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais
+    naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami
+    kūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti
+    Lietuvoje tokių kelių liekanų.
+  citata_rodoma: "Tie keliai būdavo tokie vingrūs ir pilni klastingų posūkių, kad jais tegalėjo eiti tik pri-\ntyrusio vadovo vedami žmonės; niekas svetimas negalėjo jais naudotis. Tokie akmenimis grįsti keliai žemaičių buvo vadinami\nkūlgrindomis (kūlis—akmuo). Ir dabar dar galima rasti\nLietuvoje tokių kelių liekanų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-06735
+    - t-06734

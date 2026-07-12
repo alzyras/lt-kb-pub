@@ -13,12 +13,24 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
+  - institucija
   - karalius
-  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vladislovas (Jogailos sūnus)
 
@@ -31,17 +43,16 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 <a id="claim-t-35320"></a>
 - t-001
   global_id: t-35320
-  teiginys: '1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi.'
+  teiginys: "1425 m. šlėkta pasirinko Jogailos sūnų Vladislovą būsimu valdovu ir karaliumi."
   pagrindžia:
-    - c-002
+    - c-38140
 
 <a id="claim-t-35321"></a>
 - t-002
   global_id: t-35321
-  teiginys: '1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu.'
+  teiginys: "1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu."
   pagrindžia:
-    - c-001
-
+    - c-36541
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,6 +64,7 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     randame ir 1430 m. visuotiniame Jedlno seimo suvažiavime^1 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +84,50 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
     baronum ac militum“^2 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36541
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    1425 m. Bresto (Kujavijoj) seime lenkų didikai nuta­
+    rė, kad karalaitį Vladislovą pripažįsta sosto įpėdiniu pačiam
+    Vytautui, jo bajorų tarybai ir riteriams patariant. Tą pat mes
+    randame ir 1430 m. visuotiniame Jedlno seimo suvažiavime^1 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35321
+
+- id: c-38140
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kadangi vie­
+    toj įpėdinystės teisės Lenkijoj gavo viršų elekcija, tai jos luomai,
+    norėdami palaikyti su Lietuva ryšius, paremtus laisvu Vytauto ir
+    lietuvių didikų sutikimu, pripažino jiems teisę dalyvauti elekcijoj,
+    neatsižiūrint į tai, ar eis reikalas apie dinastijos pakeitimą ar ne..
+    Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­
+    tį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių
+    „de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,
+    baronum ac militum“^2 ).
+  citata_rodoma: "Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­\ntį Vladislovą, Jogailos sūnų, kaip būsimą savo valdovą, karalių\n„de speciali consilio et voluntate Vitoldi ipsiusque praelatorum,\nbaronum ac militum“^2 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35320

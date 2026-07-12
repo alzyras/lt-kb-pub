@@ -18,6 +18,18 @@ tags:
   - pilis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Junigėdos, Peštvės ir Pograudos kampanija (1293 m.)
 
@@ -46,17 +58,16 @@ Sudegė abiejų pilių papiliai.
 <a id="claim-t-70938"></a>
 - t-001
   global_id: t-70938
-  teiginys: '1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę.'
+  teiginys: "1293 m. liepos 25 d. Meinhardas su gausia raitija puolė Junigedą ir Pieštvę."
   pagrindžia:
-    - c-001
+    - c-69725
 
 <a id="claim-t-70941"></a>
 - t-002
   global_id: t-70941
-  teiginys: 'Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius.'
+  teiginys: "Magistras Meinhardas liepos 25 d. užpuolė Junigėdą ir Pieštvę, o nepajėgęs daugiau padaryti sudegino abiejų pilių papilius."
   pagrindžia:
-    - c-001
-
+    - c-69725
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,7 +80,8 @@ Sudegė abiejų pilių papiliai.
     pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -89,7 +101,8 @@ Sudegė abiejų pilių papiliai.
   citata_rodoma: ''
   statusas: verified
 
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
@@ -106,5 +119,26 @@ Sudegė abiejų pilių papiliai.
   citata_rodoma: ''
   statusas: verified
 
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-69725
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 185"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 185."
+  citata_originali: |
+    Tais pačiais metais, švento Jokūbo apaštalo dieną (liepos 25), brolis Meinhardas,
+    magistras, kurio nei vargai nepalaužė, nei mirtis nepalauš, kuris nei žūti nebijojo, nei
+    gyventi neatsižadėjo, subūrė galybę raitelių ir smarkiai užpuolė abi lietuvių pilis, būtent:
+    Junigedą ir Pieštvę541; kai abi šalys patyrė nuostolių užmuštaisiais ir sužeistaisiais, jie iki
+    pamatų sudegino abiejų pilių papilius, nes nieko daugiau nestengė padaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70938
+    - t-70941

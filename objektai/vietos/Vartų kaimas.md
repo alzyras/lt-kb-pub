@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vartų kaimas
 
@@ -25,10 +37,9 @@ Pavasarinės kovos Žuvinte ir Paliose 1945 m. balandžio 18 d. Buktos pamiškė
 <a id="claim-t-42247"></a>
 - t-001
   global_id: t-42247
-  teiginys: '1945 m. balandžio 18 d. Buktos pamiškėje ties Vartų kaimu, čekistams susidūrus su partizanais, žuvo penki Rėkaus būrio kovotojai ir būrio vadas.'
+  teiginys: "1945 m. balandžio 18 d. Buktos pamiškėje ties Vartų kaimu, čekistams susidūrus su partizanais, žuvo penki Rėkaus būrio kovotojai ir būrio vadas."
   pagrindžia:
-    - c-001
-
+    - c-45393
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +59,34 @@ Pavasarinės kovos Žuvinte ir Paliose 1945 m. balandžio 18 d. Buktos pamiškė
     todėl jie kovojo vangiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45393
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pavasarinės kovos Žuvinte ir Paliose
+    1945 m. balandžio 18 d. Buktos pamiš-
+    kėje, ties Vartų kaimu čekistams susidū-
+    rus su partizanais, žuvo penki Rėkaus
+    būrio kovotojai ir pats vadas. Didžiausias
+    mūšis įvyko Jurginių išvakarėse - balan-
+    džio 22-23 d. Stribams ir NKVD daliniams
+    į pagalbą buvo iškviesta reguliarioji ka-
+    riuomenė. Tačiau eiliniams kariams la-
+    biau rūpėjo ne partizanai, o sava gyvybė,
+    todėl jie kovojo vangiai.
+  citata_rodoma: "Pavasarinės kovos Žuvinte ir Paliose\n1945 m. balandžio 18 d. Buktos pamiš-\nkėje, ties Vartų kaimu čekistams susidū-\nrus su partizanais, žuvo penki Rėkaus\nbūrio kovotojai ir pats vadas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42247

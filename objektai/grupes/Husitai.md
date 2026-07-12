@@ -14,11 +14,6 @@ datos:
   - '2026 m.'
 date_start: '1421'
 date_end: '2026'
-description: 'Husitai kvietė Vytautą tapti jų karaliumi, naudojosi jo globa, o popiežius dėl Kaributo ir ryšių grasino Lietuvai kryžiaus žygiu.'
-socialDescription: '1421 m. husitai Varėnoje kvietė Vytautą tapti jų karaliumi. Jo globa ir Kaributo siuntimas į Čekiją sukėlė popiežiaus spaudimą Lietuvai.'
-seo_atnaujinta: '2026-07-02T23:12:35.417045+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -27,84 +22,103 @@ tags:
 amziai:
   - 'XV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Husitai
 
 ## Santrauka
 
-Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, sulaukė dėmesio Lenkijoje ir Lietuvoje, bet čia kilo ir opozicija jų mokymui. 1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių. Vytautas kišosi į Čekijos reikalus, siuntė Zigmantą Kaributą ir oficialiai teigė siekiantis sutaikyti husitus su Roma, tačiau popiežius grasino Lietuvai kryžiaus žygiu.
+Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių. Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 
 ## Teiginiai
 
 <a id="claim-t-172096"></a>
 - t-001
   global_id: t-172096
-  teiginys: 'Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.'
+  teiginys: "Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma."
   pagrindžia:
-    - c-005
+    - c-156523
 
 <a id="claim-t-172097"></a>
 - t-002
   global_id: t-172097
-  teiginys: 'Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką.'
+  teiginys: "Vytautas popiežiui rašė norįs be kraujo praliejimo atversti husitus ir prašė sustabdyti kryžiaus karus bei ekskomuniką."
   pagrindžia:
-    - c-004
+    - c-156521
 
-<a id="claim-t-172099"></a>
+<a id="claim-t-172106"></a>
 - t-003
-  global_id: t-172099
-  teiginys: 'Husitai ne kartą naudojosi Vytauto globa.'
+  global_id: t-172106
+  teiginys: "Husitai ne kartą naudojosi Vytauto globa."
   pagrindžia:
-    - c-008
+    - c-156526
 
 <a id="claim-t-172100"></a>
 - t-004
   global_id: t-172100
-  teiginys: 'Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais.'
+  teiginys: "Popiežius draudė Vytautui siųsti Kaributą ir grasė paskelbti Lietuvai kryžiaus žygį, jei jis nenutrauks ryšių su husitais."
   pagrindžia:
-    - c-003
+    - c-36797
 
 <a id="claim-t-172101"></a>
 - t-005
   global_id: t-172101
-  teiginys: 'Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais.'
+  teiginys: "Popiežius grasė paskelbti Lietuvai kryžiaus žygį, jei Vytautas neatšauks Kaributo ir nenutrauks santykių su husitais."
   pagrindžia:
-    - c-009
+    - c-156527
 
 <a id="claim-t-172102"></a>
 - t-006
   global_id: t-172102
-  teiginys: '1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių.'
+  teiginys: "1421 m. sausį į Varėną atvykę husitų pasiuntiniai kvietė Vytautą tapti jų karaliumi ir gavo iš jo vilčių."
   pagrindžia:
-    - c-006
+    - c-156524
 
 <a id="claim-t-172103"></a>
 - t-007
   global_id: t-172103
-  teiginys: 'Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos.'
+  teiginys: "Vytautas čekams husitams rašė nerėmęs jų mokslo ir siūlėsi tarpininkauti, jei jie atsisakytų erezijos."
   pagrindžia:
-    - c-007
+    - c-156525
 
 <a id="claim-t-172104"></a>
 - t-008
   global_id: t-172104
-  teiginys: 'Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą.'
+  teiginys: "Čekai husitai pasiūlė karališką vainiką Jogailai, bet Jogaila atsisakė jį priimti kaip eretikų siūlymą."
   pagrindžia:
-    - c-002
+    - c-36796
 
 <a id="claim-t-172105"></a>
 - t-009
   global_id: t-172105
-  teiginys: 'Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje.'
+  teiginys: "Lenkijoje, o vėliau ir Lietuvoje kilo opozicija husitams: imta kovoti su jų mokslu ir likta Bažnyčios pusėje."
   pagrindžia:
-    - c-001
+    - c-36795
+
+<a id="claim-t-172106"></a>
+- t-010
+  global_id: t-172106
+  teiginys: "Husitai ne kartą naudojosi Vytauto globa."
+  pagrindžia:
+    - c-156526
 
 <a id="claim-t-184478"></a>
 - t-011
   global_id: t-184478
-  teiginys: '1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje.'
+  teiginys: "1429 m. valdovų posėdyje imperatorius ragino sutelktomis jėgomis numalšinti husitus pirmiausia Čekijoje."
   pagrindžia:
-    - c-010
+    - c-167839
 - susijęs iš Čekija: Vytautas Didysis į Čekiją su kariuomene nusiuntė Zigmantą Kaributą padėti husitams kovoti su imperatoriumi Zigmantu.
 - susijęs iš [[objektai/asmenys/Zigmantas Liuksemburgietis.md#claim-t-176882|Zigmantas Liuksemburgietis]]: Vytautas pasiuntė Zigmantą Kaributą į Čekiją padėti husitams kovoti su imperatoriumi Zigmantu Liuksemburgiečiu.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
@@ -161,7 +175,8 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     čios pusėje.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
@@ -179,7 +194,8 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     ciesorium Zigmantu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -195,6 +211,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     jei jo neatšauktų ir nenutrauktų su husitais santykių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -215,6 +232,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     kreipti prieš Vytautą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -231,6 +249,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     pasitraukti nuo husitų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -245,6 +264,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -265,6 +285,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     kusiųjų turtą ir kt.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -284,6 +305,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -304,6 +326,7 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     munikuotas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -335,11 +358,224 @@ Husitai, Čekijoje kilus Katalikų Bažnyčiai priešingam Jono Huso mokslui, su
     siūlyti, nei įgyvendinti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
 
-## Ryšiai
-- Rėmė Husitai: [[objektai/asmenys/Kaributas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Husitai keliavo į [[objektai/vietos/Varėna]]
+## Citatos
+
+- id: c-36795
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Todėl kai Čekijoje pasklido Katalikų Bažnyčiai prie­
+    šingas Jono Huso mokslas, Konstancijos susirinkime pasmerk­
+    tas, per čekus jis ėmė skverbtis Lenkijon ir Lietuvon. Čia hu­
+    sitai rado sau pritarimo dar ir dėl to, kad jie buvo sukilę prieš
+    vokiečius, bendrus lietuvių ir lenkų priešus, nenorėdami savo
+    karalium pripažinti Vokietijos ciesoriaus Zigmanto Luksembur­
+    giečio. Bet pirma Lenkijoje, o paskui ir Lietuvoje kilo prieš
+    husitus opozicija — imta kovoti su jų mokslu, paliekant Bažny­
+    čios pusėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172105
+
+- id: c-36796
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Ir kai čekai husitai pasiūlė karališką vainiką Jo­
+    gailai, šis nesutiko jos priimti, nes tai buvo eretikų siūlymas.
+    Tada su tuo pačiu siūlymu jie kreipėsi į Vytautą Didįjį.
+    Iš pradžių Vytautas delsė, neduodamas tikro atsakymo, bet
+    po kiek laiko sutiko rūpintis jų reikalais ir į Čekiją su kariuo­
+    mene nusiuntė Zigmantą Kaributą padėti husitams kovose su
+    ciesorium Zigmantu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172104
+
+- id: c-36797
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tą patį rašė ir Rygos
+    arkivyskupui. Popiežius gal būtų ir palinkęs Vytauto pusėn,
+    bet ciesorius Zigmantas ir Ordinas pasistengė Martyną V nu­
+    kreipti prieš Vytautą. Popiežius draudė siųsti Kaributą, o kai
+    Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
+    jei jo neatšauktų ir nenutrauktų su husitais santykių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172100
+
+- id: c-156521
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vėliau Vytautas popiežiui dar rašė, kad jis nenu­
+    traukia ryšių su Bažnyčia, tik nori geruoju atversti husitus, iš­
+    vengiant kraujo praliejimo; prašė sustabdyti kryžiaus karus ir
+    nuimti ekskomuniką, nes griežtos priemonės gali nepasiekti sa­
+    vo tikslo; čekai yra pažadėję grįžti iš klaidos ir tuo reikalu pa­
+    siuntė pas popiežių savo pasiuntinius. Tą patį rašė ir Rygos
+    arkivyskupui. Popiežius gal būtų ir palinkęs Vytauto pusėn,
+    bet ciesorius Zigmantas ir Ordinas pasistengė Martyną V nu­
+    kreipti prieš Vytautą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172097
+
+- id: c-156523
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Šis veikė vardu « kviestojo Čekijos karaliaus Vytau­
+    to » (« postulati regis Bohemiae Vitoldi »)^17.
+    Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių,
+    Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti
+    husitus su Roma. Martynas V keliais atvejais ragino Vytautą
+    pasitraukti nuo husitų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172096
+
+- id: c-156524
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jogailai atsisakius priimti jam husitų siūlomą Čekijos karūną,
+    veiklusis pusbrolis čekams parodė žymiai daugiau palankumo.
+    1421 m. sausio mėn. Varėnon atvykusiems husitų pasiuntiniams,
+    kurie Vytautą kvietėsi savo karaliumi, šis davė aiškių vilčių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172102
+
+- id: c-156525
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tad Vytautas įsakė grįžti Kaributui į Lietuvą,
+    o čekams husitams nurašė laišką, kad niekada nerėmė jų mok­
+    slo, bet norėjo juos tiktai grąžinti Bažnyčiai; jeigu jie atsisakytų
+    nuo erezijos, tai sutinka būti tarpininku tarp jų ir Zigmanto, kitaip
+    turėsiąs padėti šiam pastarajam. 1424 m. Jogaila, Vytautas, jų
+    didikai, riteriai ir miestai sudarė didelę prieš husitus opo­
+    ziciją: nutarta su jais kovoti Lietuvoje ir Lenkijoje, vyti iš vals­
+    tybės husitų šalininkus, konfiskuoti su Kaributu Čekijon išvy­
+    kusiųjų turtą ir kt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172103
+
+- id: c-156526
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Daug
+    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
+    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
+    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
+    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
+    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
+    kartą Vytauto globa naudojosi. Šis kunigaikštis nė nedvejoda­
+    mas griebdavosi prie jo didybės nelabai derančių būdų, kad
+    tik nukreiptų Jogailos dėmesį nuo Lietuvos valdymo reikalų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172099
+    - t-172106
+
+- id: c-156527
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Popiežius draudė siųsti Kaributą, o kai
+    Vytautas nepaklausė, grasė paskelbsiąs Lietuvai kryžiaus žygį,
+    jei jo neatšauktų ir nenutrauktų su husitais santykių. Lenkų, o
+    tikriausiai ir Lietuvos vyskupai gavo iš popiežiaus raginimą,
+    kad bažnytinėmis bausmėmis priverstų Vytautą negloboti husi­
+    tų. 1422 m. lapkričio mėn. Vytautas gavo popiežiaus įsakymą
+    dviejų mėnesių bėgy atšaukti Kaributą, nes kitaip būsiąs eksko­
+    munikuotas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172101
+
+- id: c-167839
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Štai todėl vienaip kalbėjo im­
+    peratorius su Jogaila, kitaip
+    1429 m eta i
+    akis į akį su Vytautu. Valdo­
+    vų posėdyje jis visą laiką ra­
+    gino sudaryti santarvę, sutelktomis jėgomis numalšinti
+    husitus, pirmiausia, žinoma, Čekijoje, o vėliau visą
+    kariuomenę nukreipti prieš turkus ir saracėnus, kerši­
+    jant už Rytų imperijos griovimą. Iš tiesų didingi su­
+    manymai, ir daugelis jiems
+    J o g a ila  atsisako
+    nuoširdžiai
+    pritarė,
+    tačiau
+    kur kas lengviau juos pa-
+    416
+
+    ## Puslapis 415
+
+    siūlyti, nei įgyvendinti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184478

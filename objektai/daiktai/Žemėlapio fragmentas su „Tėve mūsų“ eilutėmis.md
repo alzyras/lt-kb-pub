@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XVIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis
 
@@ -48,10 +60,9 @@ Nenurodyta
 <a id="claim-t-75350"></a>
 - t-001
   global_id: t-75350
-  teiginys: '1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai.'
+  teiginys: "1741 m. Niurnberge išleistame žemėlapio fragmente pateiktos pirmosios „Tėve mūsų“ eilutės Europos kalbomis ir lietuviškai."
   pagrindžia:
-    - c-001
-
+    - c-73154
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,10 +78,29 @@ Nenurodyta
     Niurnbergas, 1741 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis priklausė [[objektai/vietos/Niurnbergas]]
+## Citatos
+
+- id: c-73154
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Unikali M. Daukšos veikla pa-
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    73
+    Žemėlapio fragmentas su pirmosiomis „Tėve mūsų“ eilutėmis visomis
+    Europos kalbomis ir lietuvių kalba (pažymėta raudona linija).
+    Niurnbergas, 1741 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-75350

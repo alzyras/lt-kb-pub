@@ -15,9 +15,22 @@ tags:
   - bajorija
   - saltinis
   - seimas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Napoleono teisynas
 
@@ -30,17 +43,16 @@ amziai:
 <a id="claim-t-97270"></a>
 - t-001
   global_id: t-97270
-  teiginys: 'Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.'
+  teiginys: "Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m."
   pagrindžia:
-    - c-001
+    - c-91754
 
 <a id="claim-t-97271"></a>
 - t-002
   global_id: t-97271
-  teiginys: '„Napoleono teisynas“ buvo išleistas 1930 m.'
+  teiginys: "„Napoleono teisynas“ buvo išleistas 1930 m."
   pagrindžia:
-    - c-001
-
+    - c-91754
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,8 +68,32 @@ amziai:
     veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-91754
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Poliublininius Lietuvos istorijos
+    kursus (XVII-XVIII amž.) skaitė Janulaitis ir Humanitarinių
+    mokslų fakultete.
+    Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923),
+    «Vyriausias Lietuvos Tribunolas XVI-XVIII amž. » (1927), «Užne­
+    munė po Prūsais 1795-1807 » (1928), «Napoleono teisynas» (1930).
+    Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų
+    veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-97271
+    - t-97270

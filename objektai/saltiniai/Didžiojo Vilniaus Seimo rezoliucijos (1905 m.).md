@@ -15,6 +15,18 @@ tags:
   - seimas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Didžiojo Vilniaus Seimo rezoliucijos (1905 m.)
 
@@ -27,10 +39,9 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
 <a id="claim-t-21038"></a>
 - t-001
   global_id: t-21038
-  teiginys: 'Į Didįjį Vilniaus Seimą susirinko apie 2 000 delegatų iš beveik visos etnografinės Lietuvos.'
+  teiginys: "Į Didįjį Vilniaus Seimą susirinko apie 2 000 delegatų iš beveik visos etnografinės Lietuvos."
   pagrindžia:
-    - c-001
-
+    - c-23758
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,30 @@ Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju 3 skyriu
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23758
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Į jį
+    susirinko apie 2 000 delegatų iš bemaž visų etnografinės Lietuvos vieto-
+    vių, atstovaujančių visiems visuomenės sluoksniams, visoms politinėms
+    srovėms ir tendencijoms, atvyko net iš tolimesnių Baltarusijos valsčių,
+    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
+    Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
+    dėl politinės autonomijos Lietuvai suteikimo priėmimas.
+  citata_rodoma: "dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21038

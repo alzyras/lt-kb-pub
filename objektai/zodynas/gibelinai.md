@@ -13,6 +13,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # gibelinai
 
@@ -25,9 +37,9 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
 <a id="claim-t-58902"></a>
 - t-001
   global_id: t-58902
-  teiginys: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas - bažnyčią.'
+  teiginys: "1228 m. Italijoje radosi gibelinų ir gvelfų partijos; Gibelinas rėmė imperatorių, o Gveltas - bažnyčią."
   pagrindžia:
-    - c-001
+    - c-59534
 - susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-183915|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
 - susijęs iš [[objektai/ivykiai/Daugelio tūkstančių gvelfų žūtis Italijoje.md#claim-t-62765|Daugelio tūkstančių gvelfų žūtis Italijoje]]: 1325 m. Italijoje gibelinai nužudė daug tūkstančių gvelfų.
 ## Reikšmingi paminėjimai
@@ -43,7 +55,28 @@ Dusburgietis teigia, kad apie gibelinus ir gvelfus 1228 viešpaties metais Itali
     (Ptol. 21,27).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-59534
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 228"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 228."
+  citata_originali: |
+    Apie gibelinus ir gvelfus
+
+      1228 viešpaties metais Italijoje radosi gibelinų  ir gvelfų partijos; šitai yra vardai
+    dviejų brolių, kurių keliai išsiskyrė. Gibelinas rėmė imperatorių, o Gveltas—bažnyčią
+    (Ptol. 21,27).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58902

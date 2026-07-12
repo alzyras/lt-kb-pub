@@ -11,6 +11,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karinė ginkluotė
 
@@ -43,59 +55,65 @@ Nenurodyta
 <a id="claim-t-08294"></a>
 - t-001
   global_id: t-08294
-  teiginys: 'Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę.'
+  teiginys: "Senovės kariai nešiojo šikšninį diržą su vario grandimis arba sagtimis ir įvairią ginkluotę."
   pagrindžia:
-    - c-002
+    - c-10250
 
 <a id="claim-t-08295"></a>
 - t-002
   global_id: t-08295
-  teiginys: 'Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo.'
+  teiginys: "Pėstųjų karinė ginkluotė apėmė rendėtus brūklius, kuriais jie daugiausia kariavo."
   pagrindžia:
-    - c-003
+    - c-10251
 
 <a id="claim-t-10150"></a>
 - t-003
   global_id: t-10150
-  teiginys: 'XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus.'
+  teiginys: "XIII a. Vakarų Europos pėstininkų karinė ginkluotė apėmė dvirankius artimosios kovos ginklus, lankus ir arbaletus."
   pagrindžia:
-    - c-004
+    - c-12233
 
 <a id="claim-t-10151"></a>
 - t-004
   global_id: t-10151
-  teiginys: 'XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį.'
+  teiginys: "XIII-XIV a. Lietuvos raitininko karinė ginkluotė galėjo apimti Desiukiškių tipo kalaviją, žieduočio šarvus ir krūtinšarvį."
   pagrindžia:
-    - c-005
+    - c-12234
 
 <a id="claim-t-10152"></a>
 - t-005
   global_id: t-10152
-  teiginys: 'Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas.'
+  teiginys: "Ginklai ir ypač šarvai buvo branginami, sugadinti perkalami, o didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas."
   pagrindžia:
-    - c-006
+    - c-12235
 
 <a id="claim-t-10153"></a>
 - t-006
   global_id: t-10153
-  teiginys: 'XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.'
+  teiginys: "XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai."
   pagrindžia:
-    - c-007
+    - c-12236
 
 <a id="claim-t-78663"></a>
 - t-007
   global_id: t-78663
-  teiginys: 'Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama.'
+  teiginys: "Didesnė Lietuvos karinės ginkluotės dalis galėjo būti saugoma valstybės, išduodama kariams prieš operacijas ir po jų grąžinama."
   pagrindžia:
-    - c-006
+    - c-12235
 
 <a id="claim-t-78665"></a>
 - t-008
   global_id: t-78665
-  teiginys: 'Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai.'
+  teiginys: "Lietuvių karinę ginkluotę sudarė skydai, šalmai, ietys ir kardai."
   pagrindžia:
-    - c-001
+    - c-05216
 
+<a id="claim-t-193744"></a>
+- t-009
+  global_id: t-193744
+  teiginys: "Didesnė dalis ginkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš operacijas, po to, žinoma, viską reikėdavo grąžinti."
+  pagrindžia:
+    - c-12235
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -109,7 +127,8 @@ Nenurodyta
     Vartojo lietuviai dar ietis ir kardus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -129,6 +148,7 @@ Nenurodyta
         įkabinęs, skraidė ant žirgo it paukštis neprietelių žvalgydamos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -141,6 +161,7 @@ Nenurodyta
     Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -161,6 +182,7 @@ Nenurodyta
     (lankus, arbaletus)
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,7 +206,8 @@ Nenurodyta
     XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -200,11 +223,13 @@ Nenurodyta
     ka sutinkama to meto Kryžiuočių ordine.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-007
+    - t-009
 
 - c-007
   santrauka: 'XIV a. Europos karinėje ginkluotėje plito lakštiniai šarvai, tačiau dėl brangumo plačiai naudoti ir žieduočio šarvai.'
@@ -219,10 +244,148 @@ Nenurodyta
     medžiagos pošarvis, kuris sugerdavo dalį priešininko smūgio jėgos.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
-## Ryšiai
-- Karinė ginkluotė priklausė [[objektai/grupes/Lietuviai]]
+## Citatos
+
+- id: c-05216
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Puikų lietuvių apginklavimą paliudija ir faktas, kad po per­
+    galės Livonijoje vokiečių kariuomenė dalinosi lietuvių ginklais.
+    Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė
+    grobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.
+    Vartojo lietuviai dar ietis ir kardus.
+  citata_rodoma: "Volinijos kunigaikštis Vasilkas Danieliui Romanaičiui pasiuntė\ngrobį iš lietuvių žygio, būtent, arklių su balnais, skydų, šalmų.\nVartojo lietuviai dar ietis ir kardus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78665
+
+- id: c-10250
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    kurio galvočium^1202 apvožęs savo galvą ir veidą, paskui susiveržė su šikšniniu diržu, ant kurio tiek
+        buvo vario grandžių arba sagčių antmautų, kiek buvo karėj neprietelių užmušęs; apsiavęs
+        vyženomis^1203 ar kojenomis^1204 , sieksninį kardą ar mietinį kalaviją pašonėj lunkų strikiu^1205 pajuosęs,
+        viena ranka turėdamos kestine^1206 ragotinę, taip vadinamą kartinį, ant kurio galo buvo landus ragas
+        antmautas, nuo ko ir vadinos ragotine, kaipogi gilioj senovėj geležies nežinojo, todėl kirviai,
+        bardišiai^1207 , kalavijai akmens ar uolos buvo; antroj rankoj turėjo turčią^1208 , arba skydą, kuria nuo
+        neprietelių siūčiu dangstės, buvo ji pailguotinai apvali, jau ištašyta, jau iš žilvičių nupinta. Pirma
+        pentinų nežinojo, bet, pradėję su vokiečių meldžionimis kariauti, įtiekė sau ir pentinus uolektinius,
+        kuriuos šiandien dar gal rasti tos gadynės karės kapuose. Ant galo seidoką ir vylyčių kurvį^1209 į pečius
+        įkabinęs, skraidė ant žirgo it paukštis neprietelių žvalgydamos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08294
+
+- id: c-10251
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Pėstieji daugiau kariavo rendėtais^1210 brūkliais, kokius gal dar regėti paskuojųjų laikų Lietuvos ūkės žymėj^1211. Artinantis neprieteliui, laidė
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08295
+
+- id: c-12233
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    XIII a. Vakarų Europos pėstininko rekonstrukcija.
+    Pėstininkai galėdavo būti apsaugoti žieduočio šarvų,
+    tačiau dažniau apsaugai naudodavo tiesiog storos
+    medžiagos pošarvį. Jie dėvėdavo atvirus šalmus arba
+    žiedučio gobtuvus. Dažniausiai nenaudodavo skydo,
+    neretai jų kojos ir rankos būdavo neapsaugotos. Pa-
+    prastai pėstininkai naudodavo dvirankius artimosios
+    kovos ginklus (kovos kirvius, ietis) ar šaunamuosius
+    (lankus, arbaletus)
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10150
+
+- id: c-12234
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Raitininkas dėvi savo metui būdingus žieduočio
+    šarvus ilgomis rankovėmis. Raitelio kojas taip pat
+    saugo žieduočio kelnės, sustiprintos kelių apsau-
+    gomis. Karys vilki tunika su Lietuvos valdovų heral-
+    dine simbolika. Po tunika - /amelaro krūtinšarvis ar
+    protobrigantina (kitokio tipo tam metui būdingas
+
+    iš metalinių segmentų sudarytas krūtinšarvis).
+
+    Prie krūtinšarvio pritvirtintos lapo formos pečių
+    apsaugos. Rankoje raitininkas laiko pusantros rankos
+    XIII-XIV a. Lietuvai būdingą Desiukiškių tipo kalaviją
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10151
+
+- id: c-12235
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tuo metu Lietuva ilgą laiką dalyva-
+    vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai
+    buvo labai branginami, sugadinti perkalami. Didesnė dalis gin-
+    kluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš
+    operacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-
+    ka sutinkama to meto Kryžiuočių ordine.
+  citata_rodoma: "vo intensyviuose kovos veiksmuose. Todėl ginklai ir ypač šarvai\nbuvo labai branginami, sugadinti perkalami. Didesnė dalis gin-\nkluotės galėjo būti saugoma valstybės ir išdalinama kariams prieš\noperacijas, po to, žinoma, viską reikėdavo grąžinti. Panaši prakti-\nka sutinkama to meto Kryžiuočių ordine."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10152
+    - t-78663
+    - t-193744
+
+- id: c-12236
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    xiv a. Europoje įvyko proveržis ginkluotės, o ypač šarvų technolo-
+    ginėje raidoje. Ėmė masiškai plisti lakštiniai šarvai (monolitiškais
+    plieno lakštais uždengiantys visą kūną. Tokie šarvai tapo vis pato-
+    gesni ir vis labiau prieinami. Vis dėlto jie buvo labai brangūs, todėl
+    ir toliau plačiai buvo naudojami žieduočio (grandijų ar grandini-
+    niai) šarvai. Svarbi bet kokių šarvų dalis buvo storos ir minkštos
+    medžiagos pošarvis, kuris sugerdavo dalį priešininko smūgio jėgos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10153

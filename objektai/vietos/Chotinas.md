@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Chotinas
 
@@ -35,37 +47,51 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
 <a id="claim-t-102179"></a>
 - t-001
   global_id: t-102179
-  teiginys: '1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai.'
+  teiginys: "1673 m. Chotino mūšio iliustracijoje priešais Chotino pilį pavaizduoti M. K. Radvilos kariai."
   pagrindžia:
-    - c-004
+    - c-43365
 
 <a id="claim-t-102181"></a>
 - t-002
   global_id: t-102181
-  teiginys: 'Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.'
+  teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
   pagrindžia:
-    - c-001
+    - c-43362
 
 <a id="claim-t-102182"></a>
 - t-003
   global_id: t-102182
-  teiginys: '1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus.'
+  teiginys: "1673 m. turkai prie Chotino įrengė stiprius lauko įtvirtinimus."
   pagrindžia:
-    - c-003
+    - c-43364
 
 <a id="claim-t-102183"></a>
 - t-004
   global_id: t-102183
-  teiginys: 'Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d.'
+  teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
   pagrindžia:
-    - c-002
+    - c-43363
+
+<a id="claim-t-102183"></a>
+- t-005
+  global_id: t-102183
+  teiginys: "Chotino mūšis vyko 1621 m. rugsėjo 22-spalio 10 d."
+  pagrindžia:
+    - c-43363
 
 <a id="claim-t-102185"></a>
 - t-006
   global_id: t-102185
-  teiginys: 'Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę.'
+  teiginys: "Mūšyje prie Chotino didysis etmonas, vadovaudamas jungtinei Lietuvos ir Lenkijos kariuomenei prieš turkus, pasiekė paskutinę pergalę."
   pagrindžia:
-    - c-005
+    - c-95519
+
+<a id="claim-t-183781"></a>
+- t-007
+  global_id: t-183781
+  teiginys: "Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale."
+  pagrindžia:
+    - c-167169
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-183674|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Chotino mūšis buvo paskutinė Jono Karolio Chodkevičiaus pasiekta pergalė.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41268|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
@@ -107,7 +133,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     sukurti galingiausią savo laiko karinę jėgą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -152,7 +179,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     objektu.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -171,6 +199,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -205,7 +234,8 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     1673 m.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -223,6 +253,7 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     gus didysis Lietuvos karvedys mirė Chotino pilyje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -247,11 +278,178 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
     pergale.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Turkijos kariuomenė]]
-- Apgulė Chotiną: [[objektai/asmenys/Jonas Tarnovskis]]
+## Citatos
+
+- id: c-43362
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šis laimėjimas - puikus gy-
+    nybinio mūšio pavyzdys. Chotino mūšis
+    tapo paskutine legendinio Lietuvos karve-
+    džio Jono Karolio Chodkevičiaus pasiekta
+    pergale. Šios pergalės dėka Lenkija buvo
+
+    sukurti galingiausią savo laiko karinę jėgą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102181
+
+- id: c-43363
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117
+
+    ## Puslapis 120
+
+    E _-KURSO KUNIGAIKŠTYSTĖ S
+    res Livontios KUNIGAIKŠTYSTĖ ||
+    PES
+    Sen
+
+    PRŪSIJOS
+    KUNIGAIKSTYSTE-
+
+    “yf
+
+    LIETUVOS
+
+    14 DIDŽIOJI
+    “KUNIGAIKŠTYSTĖ
+    >
+
+    PA |
+    7
+
+    a
+
+    LENKUOS | 3
+    | KARALYSTĖ | ) uae
+
+    Mūšio priešistorė
+    1514 m. Rusijos užgrobtas strategiškai svar-
+    bus tarp Dauguvos ir Dniepro upių išsidės-
+    tęs Smolenskas visuomet buvo laikomas
+    vartais į Rusiją, todėl ne kartą tapo kari-
+    nės konfrontacijos tarp Lietuvos ir Rusijos
+    objektu.
+  citata_rodoma: "1621 m. rugsėjo 22-spalio 10 d. CHOTINO MŪŠIS 117\n\n## Puslapis 120\n\nE _-KURSO KUNIGAIKŠTYSTĖ S\nres Livontios KUNIGAIKŠTYSTĖ ||\nPES\nSen\n\nPRŪSIJOS\nKUNIGAIKSTYSTE-\n\n“yf\n\nLIETUVOS\n\n14 DIDŽIOJI\n“KUNIGAIKŠTYSTĖ\n>\n\nPA |\n7\n\na\n\nLENKUOS | 3\n| KARALYSTĖ | ) uae\n\nMūšio priešistorė\n1514 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102184
+    - t-102183
+
+- id: c-43364
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Turkai, nujausdami lenkų ir lietuvių
+
+    ir privertė ją Atėjo žinia, kad Turkija ketina siekti puolimo kryptį, stiprino įtvirtinimus
+    daugiau ir surinkusi didžiulę kariuomenę prie Podolės Kameneco tvirtovės. Prie
+    ketina dar kartą pulti ir šį kartą užimti Chotino (beveik toje pačioje vietoje, kur
+    visą Respublikos teritoriją. Iškilo rim- 1621 m. buvo įrengti J. K. Chodkevičiaus
+    tas egzistencinis pavojus ATR. 1673 m. įtvirtinimai) turkai įrengė stiprius lauko
+    Abiejų Tautų Respublikos seimas atmetė įtvirtinimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102182
+
+- id: c-43365
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    | pad
+
+    <= a
+
+    1
+
+    latio "Tureau -
+    noni ae aaa
+
+    Chotino mūšis 1673 m. 1674 m. išleistos Jokūbo Beneto poemos „Viešpaties dešinės galybė“
+    Iliustracija. Pavaizduotas jungtinės kariuomenės lemiamas turkų stovyklos puolimas. Kairiajame
+    apatiniame kampe Lietuvos kariuomenė (8. Miles Lithuanus). Priekyje stovi du pėstininkų batalionai, 4 - :
+    ,lenkisko" („lietuviško“) tipo tautiniai pėstininkai (be iečių) ir šalia jų svetimšalių autoramento „vokiški“ F š ~ Husaro
+    pėstininkai (ietininkai stovi viduryje, šauliai iš kraštų). Už jy išsirikiavusios husarų vėliavos (raiteliai ; © krūtinšarvis.
+    su ietimis, apsigobę kailiais). Aukščiau husarų stovi svetimšalių autoramento pėstininkai, išsirikiavę 4 Abiejų Tautų
+    etalonine olandiška rikiuote - ietininkai viduryje, šauliai kraštuose. Prieš juos išdėstyta LDK artilerija Respublika,
+    (11. Tormenta M:D: Lithuania). Arčiau upės, priešais Chotino (2.) pilį lauko etmono M. K. Radvilos kariai 4, XVII-XVIII a.
+    (6.). Dešinėje pavaizduotos lenkų pajėgos (19. Miles Polonus). Priešais jungtinę kariuomenę, iliustraci-
+    jos centre, pylimais ir grioviais įtvirtinta turkų stovykla (4. Circumvalatio Turcarum). Upėje matomi
+    kauburėliai - mūšio pabaigoje bėgę ir įkritę į vandenį skęstantys turkai (24. Merguntum Turca)
+
+    Jungtinės pajėgos Moldavijos valdovas
+
+    1673 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102179
+
+- id: c-95519
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1617-1618 m. daly-
+    vavo žygyje į Maskvą, nepaisant tam tikrų laimėjimų,
+    Maskvos užimti nepavyko. 1621 m. didysis etmo-
+    nas, vadovaudamas jungtinei Lietuvos ir Lenkijos
+    kariuomenei prieš turkus, pasiekė savo paskutinę
+    pergalę,mūšyje prie Chotino. Dar mūšiui nepasibai-
+    gus didysis Lietuvos karvedys mirė Chotino pilyje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-102185
+
+- id: c-167169
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Darnios pėstininkų muškietų salvės
+    sulaikydavo puolančius turkų karius, o ga-
+    lingos ir veržlios kavalerijos kontratakos
+
+    Antrosios linijos brigados atsistodavo už tarpų
+    pirmoje linijoje, todėl reikalui esant pirmoji linija
+
+    priversdavo juos bėgti nuo gynybinių
+    įtvirtinimų. Šis laimėjimas - puikus gy-
+    nybinio mūšio pavyzdys. Chotino mūšis
+    tapo paskutine legendinio Lietuvos karve-
+    džio Jono Karolio Chodkevičiaus pasiekta
+    pergale.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183781

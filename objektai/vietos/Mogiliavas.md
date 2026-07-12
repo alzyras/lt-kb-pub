@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mogiliavas
 
@@ -29,16 +41,16 @@ amziai:
 <a id="claim-t-114776"></a>
 - t-001
   global_id: t-114776
-  teiginys: '1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę.'
+  teiginys: "1578 m. sausio 28 d. Steponas Batoras suteikė Mogiliavui privilegiją, kuria miestas gavo Magdeburgo teisę."
   pagrindžia:
-    - c-001
+    - c-105804
 
 <a id="claim-t-114777"></a>
 - t-002
   global_id: t-114777
-  teiginys: 'Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes.'
+  teiginys: "Žlugus deryboms, rusai Padneprėje įsiveržė į rytines LDK valdas ir sudegino Mogiliavą, siaubė Šklovo apylinkes."
   pagrindžia:
-    - c-002
+    - c-105805
 - susijęs iš Karaliaus Aleksandro privilegija Elenai dėl Mogiliavo pilies (1503 m.): 1503 m. Aleksandro privilegija suteikė karalienei Elenai teisę iki gyvos galvos turėti, naudotis ir ramiai valdyti Mogiliavo pilį su priklausiniais.
 - susijęs iš Mstislavlis: Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.
 - susijęs iš [[objektai/asmenys/M. K. Pacas.md#claim-t-40314|M. K. Pacas]]: Lauko etmono M. K. Paco kariai 1665 metais buvo apgulę Mogiliavą.
@@ -66,7 +78,8 @@ amziai:
     I, MocKBa, 1824, in 4to, p. 27.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -84,14 +97,47 @@ amziai:
     riuomenė patraukė į Pskovą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Buvo valdoma: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Puolė Mogiliavą: [[objektai/grupes/Rusai]]
-- Apgulė Mogiliavą: [[objektai/asmenys/M. K. Pacas]]
-- Užėmė Mogiliavą: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Mogiliavas priklausė [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
+## Citatos
+
+- id: c-105804
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mogiliavas - iš Stepono Batoro, sausio 28 dieną...............................1578 m.
+    Privilegija Mogiliavui, kuria gavo Magdeburgo teisę, išspausdinta su prie­
+    du apie tam miestui suteiktą herbą Baltarusijos Archyve, leistame garbin­
+    gos atminties kanclerio Rumiancevo lėšomis: EeAopyccKuü apxuBb, HacTb
+    I, MocKBa, 1824, in 4to, p. 27.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114776
+
+- id: c-105805
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Žlugus deryboms, rusai
+    Padneprėje įsiveržė į rytines LDK valdas ir
+    sudegino Mogiliavą, siaubė Šklovo apylin-
+    kes. Įsiveržusias rusų pajėgas ten sumušė
+    Radvilos Perkūno kariai.
+
+    Liepos 15 d. karaliaus S. Batoro ka-
+    riuomenė patraukė į Pskovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-114777

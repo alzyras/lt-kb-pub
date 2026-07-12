@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pilėnai
 
@@ -27,9 +39,9 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
 <a id="claim-t-32452"></a>
 - t-001
   global_id: t-32452
-  teiginys: 'Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi.'
+  teiginys: "Kunigaikščio Margirio vadovaujama apgultos Pilėnų pilies įgula narsiai gynėsi."
   pagrindžia:
-    - c-001
+    - c-33997
 - susijęs iš [[objektai/posakiai/Bemeilijo žūti ugny, negu pasiduoti vokiečiams.md#claim-t-06869|Bemeilijo žūti ugny, negu pasiduoti vokiečiams]]: 1336 m. kunigaikščio Margio vadovaujami lietuviai, nebegalėdami apsiginti, verčiau rinkosi žūti ugnyje, negu pasiduoti vokiečiams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184496|Kryžiuočių ordinas]]: Kryžiuočiai prie Veliuonos pastatė įtvirtinimus, įkurdino juose stiprias įgulas ir mėgino badu priversti pilėnus pasiduoti.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
@@ -183,11 +195,38 @@ Apgultos Pilėnų (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovauja
     vienas po kito patys išsižudė».
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-33997
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kai iš Vokietijos, Austrijos ir Prancūzijos susirinko pas
+    kryžiuočius už atgailą « pasižadėjusių kovoti prieš pagonis ir neti­
+    kinčius » kunigaikščių, didikų, riterių ir maldininkų, 1336 m. vasario
+    mėn. buvo suruoštas didelis žygis Lietuvon^15. Apgultos Pilėnų
+    (Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­
+    siai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­
+    sioje, kurią plačiai panaudojo C. Schuetz, yra aprašyta, kaip lietu­
+    viai, negalėdami atsispirti didžiai kryžiuočių jėgai, « kadangi pyli­
+    mas ir užtvaros, nuolat puolamos, jau buvo pralaužtos ir iš dalies
+    sunaikintos », pilies viduryje užkūrė didelį laužą, į jį sumetė savo
+    turtą, ir « nužudę visas moteris ir vaikus ir sumetę lavonus į ugnį,
+    vienas po kito patys išsižudė».
+  citata_rodoma: "Apgultos Pilėnų\n(Pillenen) pilies^16 įgula, kunigaikščio Margirio vadovaujama, nar­\nsiai gynėsi. Wigando Marburgiečio eiliuotinėje kronikoje, jau žuvu­\nsioje, kurią plačiai panaudojo C."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32452
+
 ## Ryšiai
-- Apgulė Pilėnai: [[objektai/grupes/Kryžiuočių ordinas]]
 - Gynė Pilėnai: [[objektai/grupes/Lietuviai]]

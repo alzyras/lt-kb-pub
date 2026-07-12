@@ -9,6 +9,18 @@ tags:
   - ežeras
   - ordinas
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gelvonai
 
@@ -21,9 +33,9 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
 <a id="claim-t-41728"></a>
 - t-001
   global_id: t-41728
-  teiginys: 'Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.'
+  teiginys: "Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link."
   pagrindžia:
-    - c-001
+    - c-45099
 - susijęs iš Pašilė: Švitrigailos ir Ordino pajėgos iš Vilkmergės traukė į pietus pro Pašilę Gelvonų link.
 - susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -52,10 +64,32 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
     ežero, kur išteka Žirnajos upelis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/asmenys/Švitrigaila]]
+## Citatos
+
+- id: c-45099
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sprendžiant iš pagrindinių istorinių
+    šaltinių, Švitrigailos ir Ordino pajėgos iš
+    Vilkmergės patraukė į pietus pro Pašilę
+    ir toliau keliu Gelvonų link, einančiu
+    per dabartinį Pabaiską, vakarine Žirnajų
+    ežero pakrante. Žygimanto kariuomenė
+    traukė į šiaurę rytine to paties ežero puse.
+    Jos viena kitą pastebėjo šiauriau Žirnajų
+    ežero, kur išteka Žirnajos upelis.
+  citata_rodoma: "Sprendžiant iš pagrindinių istorinių\nšaltinių, Švitrigailos ir Ordino pajėgos iš\nVilkmergės patraukė į pietus pro Pašilę\nir toliau keliu Gelvonų link, einančiu\nper dabartinį Pabaiską, vakarine Žirnajų\nežero pakrante. Žygimanto kariuomenė\ntraukė į šiaurę rytine to paties ežero puse."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41728

@@ -1,7 +1,16 @@
+import {
+  dispatchSettingsChange,
+  loadSourceCatalog,
+  readSettingsState,
+  writeSettingsState,
+} from "../../util/sourceSettings"
+
 const STORAGE_KEY = "advancedEvidenceMode"
 const DEFAULT_MODE: "on" | "off" = "off"
 
 function readMode(): "on" | "off" {
+  const settings = readSettingsState()
+  if (settings.advancedEvidence) return "on"
   const stored = localStorage.getItem(STORAGE_KEY)
   return stored === "on" ? "on" : DEFAULT_MODE
 }
@@ -17,10 +26,49 @@ document.addEventListener("nav", () => {
   mode = readMode()
   applyMode(mode)
 
+  const applyClaimHashTarget = () => {
+    document
+      .querySelectorAll<HTMLElement>('[data-claim-row="true"].is-targeted')
+      .forEach((row) => row.classList.remove("is-targeted"))
+
+    const hash = window.location.hash.slice(1)
+    if (!hash) {
+      return
+    }
+
+    let targetId = hash
+    try {
+      targetId = decodeURIComponent(hash)
+    } catch {
+      targetId = hash
+    }
+
+    const target = document.getElementById(targetId)
+    if (!target?.matches('[data-claim-row="true"]')) {
+      return
+    }
+
+    target.classList.add("is-targeted")
+    setClaimOpen(target, true)
+    window.requestAnimationFrame(() => {
+      target.scrollIntoView({ block: "center", behavior: "smooth" })
+    })
+  }
+
   const toggleMode = () => {
     mode = mode === "on" ? "off" : "on"
     localStorage.setItem(STORAGE_KEY, mode)
     applyMode(mode)
+    const settings = { ...readSettingsState(), advancedEvidence: mode === "on" }
+    loadSourceCatalog().then((catalog) => {
+      writeSettingsState(settings, catalog)
+      dispatchSettingsChange()
+    })
+    document.dispatchEvent(
+      new CustomEvent("analyticsfeature", {
+        detail: { name: "evidence_mode", action: mode === "on" ? "enable" : "disable" },
+      }),
+    )
   }
 
   for (const button of document.getElementsByClassName("advanced-evidence-toggle")) {
@@ -28,21 +76,57 @@ document.addEventListener("nav", () => {
     window.addCleanup(() => button.removeEventListener("click", toggleMode))
   }
 
-  const setClaimOpen = (row: HTMLElement, open: boolean) => {
-    const claimId = row.dataset.claimId
-    if (!claimId) {
+  const detailForRow = (row: HTMLElement): HTMLElement | null => {
+    const toggle = row.querySelector<HTMLElement>("[data-claim-toggle][aria-controls]")
+    const controls = toggle?.getAttribute("aria-controls")
+    if (controls) {
+      const controlled = document.getElementById(controls)
+      if (controlled instanceof HTMLElement) {
+        return controlled
+      }
+    }
+    const next = row.nextElementSibling
+    if (next instanceof HTMLElement && next.matches("[data-claim-detail]")) {
+      return next
+    }
+    return null
+  }
+
+  const setClaimOpen = (row: HTMLElement, open: boolean, userInitiated = false) => {
+    const detail = detailForRow(row)
+    if (!detail) {
       return
     }
 
-    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${claimId}"]`)
-    if (!detail) {
-      return
+    const wasHidden = detail.hidden
+    if (open) {
+      const content = detail.querySelector<HTMLElement>("[data-claim-detail-content]")
+      const payload = detail.querySelector<HTMLScriptElement>("[data-claim-detail-payload]")
+      if (content && payload) {
+        try {
+          const decoder = document.createElement("textarea")
+          decoder.innerHTML = payload.textContent ?? '""'
+          content.innerHTML = JSON.parse(decoder.value)
+          payload.remove()
+        } catch {
+          content.textContent = "Citatos duomenų nepavyko parodyti."
+        }
+      }
     }
 
     detail.hidden = !open
     row.classList.toggle("is-expanded", open)
     for (const toggle of row.querySelectorAll<HTMLElement>("[data-claim-toggle]")) {
       toggle.setAttribute("aria-expanded", String(open))
+    }
+    if (open && wasHidden && userInitiated) {
+      const citationKey =
+        row.dataset.supportingIds || row.dataset.globalClaimId || row.dataset.claimId || "evidence"
+      document.dispatchEvent(
+        new CustomEvent("citationopen", {
+          detail: { citationKey, sourceKind: "embedded_evidence" },
+        }),
+      )
     }
   }
 
@@ -52,8 +136,8 @@ document.addEventListener("nav", () => {
     if (!row) {
       return
     }
-    const detail = document.querySelector<HTMLElement>(`[data-claim-detail="${row.dataset.claimId ?? ""}"]`)
-    setClaimOpen(row, Boolean(detail?.hidden))
+    const detail = detailForRow(row)
+    setClaimOpen(row, Boolean(detail?.hidden), true)
   }
 
   const onClick = (event: MouseEvent) => {
@@ -85,8 +169,11 @@ document.addEventListener("nav", () => {
 
   document.addEventListener("click", onClick)
   document.addEventListener("keydown", onKeyDown)
+  applyClaimHashTarget()
+  window.addEventListener("hashchange", applyClaimHashTarget)
   window.addCleanup(() => {
     document.removeEventListener("click", onClick)
     document.removeEventListener("keydown", onKeyDown)
+    window.removeEventListener("hashchange", applyClaimHashTarget)
   })
 })

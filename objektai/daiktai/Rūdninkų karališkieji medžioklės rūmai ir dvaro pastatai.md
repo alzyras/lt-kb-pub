@@ -10,6 +10,18 @@ tags:
   - karalius
   - miestas
   - upė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai
 
@@ -42,17 +54,16 @@ Nenurodyta
 <a id="claim-t-87003"></a>
 - t-001
   global_id: t-87003
-  teiginys: 'Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.'
+  teiginys: "Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų."
   pagrindžia:
-    - c-001
+    - c-82982
 
 <a id="claim-t-87004"></a>
 - t-002
   global_id: t-87004
-  teiginys: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
+  teiginys: "Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai."
   pagrindžia:
-    - c-002
-
+    - c-82983
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +84,7 @@ Nenurodyta
     briedžių ir stirnų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -102,7 +114,64 @@ Nenurodyta
     gėlių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82982
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Per pusantros mylios nuo Rūdninkų Men-
+    dzižečės* link stūksojo nuostabiai gražus šilas, Žgviždos
+    Vienos iš Rūdninkų girios dalies bu­
+    vęs pavadinimas (vert. past.).
+    255
+
+    ## Puslapis 272
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    upės skiriamas, kelių mylių proskynoje tvarkingai statinių
+    tvora aptvertas, vadinamas žvėrynu. Jame veisėsi daug
+    briedžių ir stirnų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87003
+
+- id: c-82983
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto esama vieno gana nemažo
+    iš plytų ir akmens sumūryto pastato pamatų griuvėsių. Čia
+    buvo vadinamieji medžioklės rūmai, skirti apsistoti patiems
+    karaliams. Pastatyti iš medžio ant aukšto mūrinio cokolio,
+    stūksojo ant mažos kalvelės, puslankiu skalaujami veržlios
+    Merkio upės srovės. Iš šiaurės greta rūmų buvo nedidelis
+    tvenkinys, į jį upės vanduo patekdavo lataku. Tasai latakas
+    dar iki šiol nuo senųjų laikų išlikęs žemėje, visai nepakenk­
+    tas. Viršutiniame rūmų aukšte buvo alkierius ir karaliaus
+    apartamentai, juose įsikurdavo Žygimantas Augustas, apa­
+    čioje gyvendavo dvariškiai ir sargyba. Toji vieta, kur stovė­
+    jo anie rūmai, šiandien yra vietos klebono dirbamas lau­
+    kas, ir jau niekas nebeprimena senojo karaliaus dvaro, tik
+    daugybė plytų ir koklių nuolaužų, plačiai pasklidusių po
+    dirvas ir pievas. Vis dėlto pasakojama apie giliai gelmėje
+    glūdinčius požemius ir rūsius, ir pats mačiau čia kartais
+    išariamų Zigmanto III epochos sidabrinių ir varinių pini­
+    gėlių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87004

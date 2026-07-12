@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # M. Stanišauskas
 
@@ -19,16 +31,16 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
 <a id="claim-t-40321"></a>
 - t-001
   global_id: t-40321
-  teiginys: 'M. Stanišausko batalionai stovėjo kairiajame sparne.'
+  teiginys: "M. Stanišausko batalionai stovėjo kairiajame sparne."
   pagrindžia:
-    - c-001
+    - c-44446
 
 <a id="claim-t-40322"></a>
 - t-002
   global_id: t-40322
-  teiginys: 'M. Stanišauskas buvo paskirtas vienu iš batalionų vadų.'
+  teiginys: "M. Stanišauskas buvo paskirtas vienu iš batalionų vadų."
   pagrindžia:
-    - c-002
+    - c-44447
 - susijęs iš [[objektai/asmenys/D. Maleckis.md#claim-t-40080|D. Maleckis]]: D. Maleckis buvo paskirtas vienu iš batalionų vadų.
 - susijęs iš [[objektai/asmenys/Antonievičius.md#claim-t-40036|Antonievičius]]: Antonievičius buvo paskirtas vieno iš batalionų vadu.
 - susijęs iš [[objektai/asmenys/B. Žarskis.md#claim-t-40061|B. Žarskis]]: B. Žarskis buvo paskirtas vienu iš batalionų vadų.
@@ -53,6 +65,7 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     taliono kuopos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +85,56 @@ Stanišauskas. Stanišausko batalionai, centre pozicijas užsiėmė Antonieviči
     K. Maleckis, M. Stanišauskas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-44446
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Merlino dalinio kariais ir ne-
+    įvertino situacijos. Sukilėliai
+    paskubomis pasirengė gyny-
+    bai. Kairiame sparne stovėjo
+    B. Kolyškos bei M. Stanišausko
+    batalionai, centre pozici-
+    jas užsiėmė Antonievičius ir
+    D. Maleckis, dešiniajame sparne
+    stovėjo P. Vivulskio dalginin-
+    kai ir dvi rezervinės 4-tojo ba-
+    taliono kuopos.
+  citata_rodoma: "Kairiame sparne stovėjo\nB. Kolyškos bei M. Stanišausko\nbatalionai, centre pozici-\njas užsiėmė Antonievičius ir\nD. Maleckis, dešiniajame sparne\nstovėjo P. Vivulskio dalginin-\nkai ir dvi rezervinės 4-tojo ba-\ntaliono kuopos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40321
+
+- id: c-44447
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    sintus dalgius ir durtuvus. Batalionų vadais
+
+    buvo paskirti: B. Žarskis, J. Radavičius,
+
+    A. Mackevičius, Antonievičius, E. Vžes-
+
+    nievskis, S. Kozakauskas, D. Maleckis,
+
+    K. Maleckis, M. Stanišauskas.
+  citata_rodoma: "Batalionų vadais\n\nbuvo paskirti: B. Žarskis, J. Radavičius,\n\nA. Mackevičius, Antonievičius, E. Vžes-\n\nnievskis, S. Kozakauskas, D. Maleckis,\n\nK. Maleckis, M. Stanišauskas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40322

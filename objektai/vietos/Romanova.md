@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Romanova
 
@@ -17,9 +29,9 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
 <a id="claim-t-185273"></a>
 - t-001
   global_id: t-185273
-  teiginys: 'Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.'
+  teiginys: "Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti."
   pagrindžia:
-    - c-001
+    - c-168634
 - susijęs iš [[objektai/asmenys/Petras iš Dusburgo.md#claim-t-186246|Petras iš Dusburgo (kunigas)]]: Petras iš Dusburgo veikale tvirtino, kad Palemonas Romanovą paskyrė vyriausiajam žyniui tikėjimui saugoti.
 - susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-183670|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
 - susijęs iš [[objektai/grupes/Zemskinis susirinkimas.md#claim-t-41205|Zemskinis susirinkimas]]: 1613 m. Zemskinis susirinkimas išrinko caru Michailą Fiodorovičių Romanovą.
@@ -47,10 +59,35 @@ Kojelavičius rašo, kad Palemonas pirmąją Lietuvos sodybą Romanovą paskyrė
     laikų nei mūsų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Romanova priklausė [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-168634
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 60"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 60."
+  citata_originali: |
+    Daug kartų iš naujo
+    imdavo garbinti stabus tie, kurių šeimoms pradžią yra
+    davę herulų, gepidų, gotų ar langobardų likučiai, Šie
+    paveldėtus prietarus perduodavo vėlesnėms kartoms.
+    Tadgi Palemonas, iš tokių ir kilęs, nepanaikino Lie­
+    tuvoje daugelio dievų garbinimo: senąsias apeigas jis
+    dargi papildė naujais prietarais. Jis pirmąją Lietuvos
+    sodybą Romanovą paskyrė vyriausiajam žyniui, tu­
+    rinčiam saugoti tikėjimą; šitai tvirtina prieš keturis
+    šimtmečius surašytame veikale Petras iš Dusburgo, Li­
+    vonijos riterių kunigas ir istorikas, gyvenęs arčiau anų
+    laikų nei mūsų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185273

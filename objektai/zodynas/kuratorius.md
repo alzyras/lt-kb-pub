@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kuratorius
 
@@ -19,9 +31,16 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
 <a id="claim-t-03056"></a>
 - t-001
   global_id: t-03056
-  teiginys: 'Vilniaus švietimo apygardos kuratoriumi buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
+  teiginys: "Vilniaus švietimo apygardos kuratoriumi buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
   pagrindžia:
-    - c-001
+    - c-03294
+
+<a id="claim-t-193150"></a>
+- t-002
+  global_id: t-193150
+  teiginys: "Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis."
+  pagrindžia:
+    - c-175903
 - susijęs iš [[objektai/autoriai/Jonas Juškevičius.md#claim-t-01069|Jonas Juškevičius]]: Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.
 ## Reikšmingi paminėjimai
 
@@ -42,7 +61,84 @@ Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės d
     Adomas Čartoriskis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Apygardos viršininku — kuratorium buvo paskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas Adomas Čartoriskis.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Vienos tokios apygardos centru buvo Vilnius;
+    prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės
+    ir, be to, dar Voluinė, Podolė ir Kijevo sritis (vėliau tos apy-
+    gardos ribos buvo kaitaliojamos, bet jos centras visą laiką
+    buvo Vilnius). Apygardos viršininku — kuratorium buvo pa-
+    skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
+
+
+    Adomas Čartoriskis. Tuo pat metu įsteigtas Vilniaus
+    universitetas taip pat priklausė apygardos kuratoriui ir turėjo
+    prižiūrėti visas apygardoje
+    esančias žemesniąsias moky-
+    klas.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-03294
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Rusi-
+    joje įsteigė švietimo ministeriją ir visą imperiją padalino į 6 švie-
+    timo apygardas. Vienos tokios apygardos centru buvo Vilnius;
+    prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės
+    ir, be to, dar Voluinė, Podolė ir Kijevo sritis (vėliau tos apy-
+    gardos ribos buvo kaitaliojamos, bet jos centras visą laiką
+    buvo Vilnius). Apygardos viršininku — kuratorium buvo pa-
+    skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
+
+
+    Adomas Čartoriskis.
+  citata_rodoma: "Apygardos viršininku — kuratorium buvo pa-\nskirtas caro Aleksandro jaunystės draugas ir artimas patarėjas\nAdomas Čartoriskis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-03056
+
+- id: c-175903
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vienos tokios apygardos centru buvo Vilnius;
+    prie jos priklausė visos buvusios Lietuvos kunigaikštijos žemės
+    ir, be to, dar Voluinė, Podolė ir Kijevo sritis (vėliau tos apy-
+    gardos ribos buvo kaitaliojamos, bet jos centras visą laiką
+    buvo Vilnius). Apygardos viršininku — kuratorium buvo pa-
+    skirtas caro Aleksandro jaunystės draugas ir artimas patarėjas
+
+
+    Adomas Čartoriskis. Tuo pat metu įsteigtas Vilniaus
+    universitetas taip pat priklausė apygardos kuratoriui ir turėjo
+    prižiūrėti visas apygardoje
+    esančias žemesniąsias moky-
+    klas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193150

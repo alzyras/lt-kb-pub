@@ -17,6 +17,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Neifalta-Lakūnas
 
@@ -29,23 +41,23 @@ periodo_grupes:
 <a id="claim-t-79050"></a>
 - t-001
   global_id: t-79050
-  teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui.'
+  teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui."
   pagrindžia:
-    - c-002
+    - c-76150
 
 <a id="claim-t-79051"></a>
 - t-002
   global_id: t-79051
-  teiginys: 'Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas.'
+  teiginys: "Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas."
   pagrindžia:
-    - c-002
+    - c-76150
 
 <a id="claim-t-79052"></a>
 - t-003
   global_id: t-79052
-  teiginys: 'Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.'
+  teiginys: "Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį."
   pagrindžia:
-    - c-001
+    - c-76149
 - susijęs iš [[objektai/asmenys/Buiničius.md#claim-t-40074|Buiničius]]: Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.
 ## Reikšmingi paminėjimai
 
@@ -71,6 +83,7 @@ periodo_grupes:
     tarnavusių karių, šeima buvo persekiojama.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -93,11 +106,65 @@ periodo_grupes:
     Aleksandro Podemansko - Šarūno.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
 
-## Ryšiai
-- Rėmė Jonas Neifalta-Lakūną: [[objektai/asmenys/Aleksandras Podemanskas-Šarūnas]]
+## Citatos
+
+- id: c-76149
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    /  Partizaninio pasipriešinimo
+    pradžios Lietuvos laisvės
+    kovotojų raištis, naudotas
+    Pietų Lietuvoje
+
+    Dainavos apygardos
+    partizanai
+
+    ## Puslapis 227
+
+    Jonas Neifalta-Lakūnas (1910-1945) IŠ NKVD RAPORTO
+
+    Iki okupacijos tarnavo nepriklausomos Lietuvos ka-
+    riuomenėje - Alytuje, ulonų pulke, jam buvo suteik-
+    tas puskarininkio laipsnis. 1940 m. Jono Neifalto,
+    kaip ir kitų nepriklausomos Lietuvos kariuomenėje
+    tarnavusių karių, šeima buvo persekiojama.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79052
+
+- id: c-76150
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tuo būdu laimėta, kad ir
+    didžiausi bolševikų padlaižiai neišdrįsdavo imtis nenaudingos gyventojams ir pražūtingos
+    kraštui linijos, o išardytas tarybinis aparatas nepajėgė taip greit iščiulpti gyventojų turto,
+    gėrybių ir darbo jėgos. Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš
+    akis galimas partizanų negailestingas sankcijas.“
+
+    Partizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos
+    kariuomenės ulonų puskarininkio Jono
+    Neifalto- Lakūno ir jam talkinančio
+
+    Aleksandro Podemansko - Šarūno.
+  citata_rodoma: "Naujai paskirti pareigūnai bet ką pradėdami, nuolat turėjo prieš\nakis galimas partizanų negailestingas sankcijas.“\n\nPartizanų pajėgos kovinis vienetas, vadovaujamas Lietuvos\nkariuomenės ulonų puskarininkio Jono\nNeifalto- Lakūno ir jam talkinančio\n\nAleksandro Podemansko - Šarūno."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-79051
+    - t-79050

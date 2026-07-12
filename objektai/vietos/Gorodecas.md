@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gorodecas
 
@@ -26,16 +38,16 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
 <a id="claim-t-28339"></a>
 - t-001
   global_id: t-28339
-  teiginys: 'Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos.'
+  teiginys: "Gorodecas buvo viena iš paskutinių rytinių slavų pilių į rytus nuo lietuvių etnografinės ribos."
   pagrindžia:
-    - c-001
+    - c-28243
 
 <a id="claim-t-184957"></a>
 - t-002
   global_id: t-184957
-  teiginys: 'Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti.'
+  teiginys: "Polockiečiai su kariuomene patraukė iki Gorodeco miesto, bet Mingaila juos užpuolė ir privertė sprukti."
   pagrindžia:
-    - c-002
+    - c-168318
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-184790|Mingaila]]: Mingaila prie Gorodeco drąsiai užpuolė polockiečių kariuomenę ir privertė ją sprukti iš kovos lauko bei stovyklos.
 - susijęs iš [[objektai/grupes/Polockiečiai.md#claim-t-185443|Polockiečiai]]: Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos valdinių žemes.
@@ -53,6 +65,7 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     ten baigėsi lietuvių plotai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -80,12 +93,56 @@ Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas, Minskas, Zasla
     sprukti ir iš kovos lauko, ir iš stovyklos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Polockiečiai]]
-- Buvo žygio kryptis: [[objektai/grupes/Polockiečiai]]
-- Gorodecas priklausė [[objektai/grupes/Slavai]]
+## Citatos
+
+- id: c-28243
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Etnografinė lietuvių siena rytuose šiauriau Nemuno yra dar
+    sunkiau nustatoma, nes šis pakraštys nėra tiksliai ištyrinėtas.
+    Paskutinės rytinių slavų pilys čia buvo Lohajskas, Gorodecas,
+    Minskas, Zaslavlis. 1387 metų Jogailos rašte Skirgailai minimi prie
+    Molodečnos Lebedžiai (Lebedev) «na russkoj storone », rodo, jog
+    ten baigėsi lietuvių plotai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28339
+
+- id: c-168318
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Patys
+    tvarkykite savo valstybę, iš
+    savųjų parinkę tokių pilie-
+    83
+
+    ## Puslapis 82
+
+    galią; skriausdami sąjungininkus, jie kurstė priešus ir
+    karą prieš save. Arčiausiai puolančiųjų plytėjo Min-
+    gailos valdinių žemės: norėdamas atkeršyta už jų nu­
+    siaubimą, Mingaila rengėsi kariauti, tačiau polockiečiai
+    jas užėmė, šiek tiek anksčiau su kariuomene patraukę
+    ligi Gorodeco miesto. Juos pasitiko Mingaila ir, drą­
+    siai užpuolęs palaidą minią, narsią vien dėl gausumo,
+    o visai nemokančią kariauti, vienu smūgiu privertė
+    sprukti ir iš kovos lauko, ir iš stovyklos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184957

@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žiežmariai
 
@@ -29,16 +41,16 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
 <a id="claim-t-69972"></a>
 - t-001
   global_id: t-69972
-  teiginys: '1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų.'
+  teiginys: "1919 m. vasario pradžioje bolševikų karinė vadovybė, sužinojusi, kad nuo Žiežmarių iki Alytaus nėra lietuvių ir vokiečių dalinių, ryžosi pulti Kauną iš pietų."
   pagrindžia:
-    - c-001
+    - c-44121
 
 <a id="claim-t-69973"></a>
 - t-002
   global_id: t-69973
-  teiginys: 'Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.'
+  teiginys: "Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių."
   pagrindžia:
-    - c-002
+    - c-69155
 - susijęs iš [[objektai/ivykiai/Strėvos mūšis (1348 m.).md#claim-t-10297|Strėvos mūšis (1348 m.)]]: 1348 m. vasario 2 d. Strėvos kautynės vyko ties Žiežmarių brasta, o lietuviai ir rusų daliniai atakavo priešą ietimis ir lankais.
 - susijęs iš Strėva: Vasario 2 d. kryžiuočiai susitiko su Kęstučio ir Algirdo kariuomene prie Strėvos, arti Žiežmarių.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117251|Rusai]]: Strėvos mūšio pradžioje Lietuvos kariai rusai šaudė į priešą iš lankų.
@@ -72,7 +84,8 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     1919 m.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -89,7 +102,55 @@ Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d. apie 30 
     tyviai įsijungusios į vakarų Lietuvos gynybą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-44121
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
+    Gavusi iš savo žvalgų informaciją, jog
+    nuo Žiežmarių iki Alytaus nebuvo nei lie-
+    tuvių, nei vokiečių dalinių, bolševikų ka-
+    rinė vadovybė 1919 m. vasario pradžioje
+    ryžosi pradėti Kauno puolimą iš pietų
+    pusės. Beveik tuo pat metu, kai Kėdainius
+    puolė „Lietuvių“ (Pskovo) divizijos 2-asis
+
+    1919 m.
+  citata_rodoma: "Gavusi iš savo žvalgų informaciją, jog\nnuo Žiežmarių iki Alytaus nebuvo nei lie-\ntuvių, nei vokiečių dalinių, bolševikų ka-\nrinė vadovybė 1919 m. vasario pradžioje\nryžosi pradėti Kauno puolimą iš pietų\npusės. Beveik tuo pat metu, kai Kėdainius\npuolė „Lietuvių“ (Pskovo) divizijos 2-asis\n\n1919 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69972
+
+- id: c-69155
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vadovavo ordino vyr.
+    maršalas ir Karaliaučiaus komtūras Siegfridas von Dahnenfeld ir
+    didysis komtūras W. von Kniprodė (nuo 1351 m. vyr. magistras).
+    Kryžiuočiai su Kęstučio ir Algirdo kariuomene susitiko vasario 2 d.
+    apie 30 km atstu nuo Kęstučio Trakų, prie dešinio Nemuno prie­
+    upio Strėvos (arti Žiežmarių). Tuomet ir Algirdo valdos buvo ak­
+    tyviai įsijungusios į vakarų Lietuvos gynybą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-69973

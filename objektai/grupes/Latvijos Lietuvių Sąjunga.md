@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Latvijos Lietuvių Sąjunga
 
@@ -20,10 +32,9 @@ tags:
 <a id="claim-t-74046"></a>
 - t-001
   global_id: t-74046
-  teiginys: 'Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų.'
+  teiginys: "Latvijos Lietuvių Sąjunga tuo metu buvo viena iš Latvijos lietuvių organizacijų."
   pagrindžia:
-    - c-001
-
+    - c-72127
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,7 +50,29 @@ tags:
     taika pačių lietuvių tarpe.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-72127
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo būdu tautiškas darbas
+    žengia pirmyn. Šiuo metu Latvijos lietuviai turi 16 įvairių orga-
+    nizacijų, Latvijos Lietuvių Sąjungą, 2 laikraščius, 11 pradžios
+    mokyklų (iš jų 4 Rygoje), 7 lietuviškus skyrius prie latviškų
+    mokyklų, 1 gimnaziją ir apie 40 studentų Rygos universitete.
+    Tačiau darbą trukdo ne tik pašaliniai veiksniai, bet ir nesan-
+    taika pačių lietuvių tarpe.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-74046

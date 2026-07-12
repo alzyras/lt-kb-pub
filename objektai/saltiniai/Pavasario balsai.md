@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pavasario balsai
 
@@ -28,10 +40,9 @@ amziai:
 <a id="claim-t-78134"></a>
 - t-001
   global_id: t-78134
-  teiginys: 'Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis.'
+  teiginys: "Maironio poezijos knyga „Pavasario balsai“ išleista 1895 m., o jo eilėraščiai virto liaudies dainomis."
   pagrindžia:
-    - c-001
-
+    - c-75442
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -54,7 +65,37 @@ amziai:
     ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75442
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Savo programoje ji buvo įrašiusi suverenios
+    Lietuvos, valstybės, sujungtos laisvos federacijos (t. y. konfederacijos) ry-
+    šiais su gretimomis valstybėmis, siekius.
+    Tautos patriarchas dr. Jonas Basanavičius
+
+    L I E T U V O S  I S T O R I J A
+    120
+    Didžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-
+    viškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik
+    liaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus,
+    J.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia,
+    savotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-
+    ba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“
+    ir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis.
+  citata_rodoma: "Jonas Basanavičius\n\nL I E T U V O S  I S T O R I J A\n120\nDidžiulės reikšmės lietuvių tautinės savimonės plėtotei, plačiųjų lietu-\nviškai kalbančio kaimo masių tautiniam krikštui, t. y. pasijutimui ne tik \nliaudies, bet ir tautos nariais, turėjo lenkų romantikų (A. Mickevičiaus, \nJ.  Kraševskio) kūryba, o romantiškiausia, dainingiausia, lyriškiausia, \nsavotiškai kovinga buvo kunigo Jono Mačiulio-Maironio lietuvių kal-\nba rašyta poezija. 1895 m. išleistos Maironio knygos „Pavasario balsai“ \nir „Jaunoji Lietuva“, jo eilėraščiai virto liaudies dainomis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78134

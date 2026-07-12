@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuoknesės mūšis (1601 m. birželio 23 d.)
 
@@ -44,37 +56,37 @@ Nenurodyta
 <a id="claim-t-49163"></a>
 - t-001
   global_id: t-49163
-  teiginys: 'Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis.'
+  teiginys: "Po Kuoknesės mūšio Livonijoje prie Lietuvos kariuomenės prisijungė ir Lenkijos pajėgos, o vadovavimą perėmė Janas Zamoiskis."
   pagrindžia:
-    - c-002
+    - c-43062
 
 <a id="claim-t-49164"></a>
 - t-002
   global_id: t-49164
-  teiginys: '1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė.'
+  teiginys: "1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užėmė Kuoknesės miestą ir apsupo pilį, tačiau lietuvių įgula nepasidavė."
   pagrindžia:
-    - c-003
+    - c-43063
 
 <a id="claim-t-49165"></a>
 - t-003
   global_id: t-49165
-  teiginys: '1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas.'
+  teiginys: "1601 m. birželio 23 d. prie Kuoknesės pagrindinė Lietuvos kariuomenė stojo prieš švedų pajėgas."
   pagrindžia:
-    - c-001
+    - c-11864
 
 <a id="claim-t-49166"></a>
 - t-004
   global_id: t-49166
-  teiginys: 'Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams.'
+  teiginys: "Prieš Kuoknesės mūšį Kristupas Radvila Perkūnas birželio 2-3 d. pasiuntė Joną Sicinskį smogti K. Carlsono Gyllenhielmo kariams."
   pagrindžia:
-    - c-001
+    - c-11864
 
 <a id="claim-t-49167"></a>
 - t-005
   global_id: t-49167
-  teiginys: '1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį.'
+  teiginys: "1601 m. balandžio 1 d. švedai užėmė Kuoknesės miestą ir pradėjo pilies apgultį."
   pagrindžia:
-    - c-003
+    - c-43063
 - susijęs iš Kuoknesė: Prieš Kuoknesės mūšį Lietuvos kariuomenė sumušė švedų dalinį ir paėmė beveik visus Dauguva plukdytus laivus.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
 ## Reikšmingi paminėjimai
@@ -92,6 +104,7 @@ Nenurodyta
     kariuomenė stojo prieš švedų pajėgas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -113,6 +126,7 @@ Nenurodyta
     buvo įsiveržta net į Šiaurės Estiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -133,11 +147,80 @@ Nenurodyta
     ir šaudmenis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-005
+
+## Citatos
+
+- id: c-11864
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    maistą ir amuniciją. Birželio 2-3 d. LDK di-
+    dysis etmonas Kristupas Radvila Perkūnas
+    pasiuntė rotmistrą Joną Sicinskį su dali-
+    niu, kuris sudavė antrą smūgį K. Carlsono
+    Gyllenhielmo kariams. Pagaliau birželio
+    23 d. prie Kuoknesės pagrindinė Lietuvos
+    kariuomenė stojo prieš švedų pajėgas.
+  citata_rodoma: "Birželio 2-3 d. LDK di-\ndysis etmonas Kristupas Radvila Perkūnas\npasiuntė rotmistrą Joną Sicinskį su dali-\nniu, kuris sudavė antrą smūgį K. Carlsono\nGyllenhielmo kariams. Pagaliau birželio\n23 d. prie Kuoknesės pagrindinė Lietuvos\nkariuomenė stojo prieš švedų pajėgas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49166
+    - t-49165
+
+- id: c-43062
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po sėkmingo 1601 m. Kuoknesės mūšio
+    prie Lietuvos kariuomenės Livonijoje
+    prisijungė ir Lenkijos pajėgos, vadovau-
+    jamos karūnos didžiojo etmono Jano Za-
+    moiskio, kuris valdovo Zigmanto Vazos
+    III nurodymu perėmė vadovavimą jungti-
+    nėms pajėgoms, veikiančioms Livonijoje.
+    Jungtinė kariuomenė užėmė daug švedų
+    pilių, tarp jų - Valmierą, Rakverę, Paidę,
+    buvo įsiveržta net į Šiaurės Estiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49163
+
+- id: c-43063
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšio išvakarėse
+
+    1601 m. balandžio 1 d. Švedijos kariuomenė
+    šturmu užėmė Kuoknesės miestą ir apsupo
+    pilį, bet joje esanti lietuvių įgula nepasi-
+    davė. 2500 švedų karių įsitvirtino mieste ir
+    pradėjo pilies apgultį. Karolis Sudermanas
+    pasiuntė 2400 karių, kurie turėjo prista-
+    tyti apsiautusiai švedų kariuomenei maistą
+    ir šaudmenis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49164
+    - t-49167
 
 ## Ryšiai
 - Turėjo dalyvį: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Švedai]]

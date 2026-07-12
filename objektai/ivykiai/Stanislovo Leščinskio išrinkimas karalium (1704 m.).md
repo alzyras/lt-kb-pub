@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stanislovo Leščinskio išrinkimas karalium (1704 m.)
 
@@ -41,10 +53,9 @@ Nenurodyta
 <a id="claim-t-01806"></a>
 - t-001
   global_id: t-01806
-  teiginys: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
+  teiginys: "1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį."
   pagrindžia:
-    - c-001
-
+    - c-02044
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -62,7 +73,33 @@ Nenurodyta
     skį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02044
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl visuotinio sukilimo
+    prieš švedus, kaip 1656 m.,
+    nebegalėjo būti. Pagaliau
+    1704 m. Karolis privertė
+    sušaukti elekcinį seimą, ku-
+    ris, apstatytas švedų ka-
+    riuomene, paskelbė kara-
+    lium Poznanės vaivadą
+    Stanislovą Leščin-
+    skį.
+  citata_rodoma: "Pagaliau\n1704 m. Karolis privertė\nsušaukti elekcinį seimą, ku-\nris, apstatytas švedų ka-\nriuomene, paskelbė kara-\nlium Poznanės vaivadą\nStanislovą Leščin-\nskį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01806

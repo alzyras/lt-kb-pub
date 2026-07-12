@@ -11,6 +11,18 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karijotas
 
@@ -23,16 +35,16 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
 <a id="claim-t-179639"></a>
 - t-001
   global_id: t-179639
-  teiginys: 'Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo.'
+  teiginys: "Karijoto Gediminaičio sūnūs Borisas ir Konstantinas Podolėje prisidėjo prie Lietuvos ir Lenkijos suartėjimo."
   pagrindžia:
-    - c-001
+    - c-30227
 
 <a id="claim-t-183748"></a>
 - t-002
   global_id: t-183748
-  teiginys: 'Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.'
+  teiginys: "Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką."
   pagrindžia:
-    - c-002
+    - c-167136
 - susijęs iš [[objektai/asmenys/Teodoras (Karijoto sūnus).md#claim-t-35291|Teodoras (Karijoto sūnus)]]: Karijoto sūnus Teodoras buvo nepaklusnus Podolijos kunigaikštis, kurį Vytautas suvaldė Jogailos pritarimu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-184327|Karijotaičiai]]: Karijotaičių pasirodymo Podolėje laikas nėra galutinai išaiškintas.
@@ -76,6 +88,7 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     Lenkijos sąjungos šalininkas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -110,10 +123,66 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     lės jų baskakams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-30227
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai,
+    Podolėje įsikūrę dėdės Karijoto Gediminaičio sūnūs, ypač Borisas
+    ir Konstantinas. Būdami jau lotyniškai krikštyti, iš Podolės jie
+    palaikė ryšius su Krokuva ir ją lankė. Labiausiai Konstantinas,
+    kuriam rūpėjo Padolę apsaugoti nuo totorių, buvo Lietuvos ir
+    Lenkijos sąjungos šalininkas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-179639
+
+- id: c-167136
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Neišlaikę spaudimo totoriai bėgo“ žuvo
+    daug murzy ir ulonų.
+
+    Mūšio padariniai
+
+    „Pasakojime apie Podolę“ tei-
+    giama, kad Lietuvos valdovo
+    Algirdo brolio Karijoto, val-
+    dančio Lietuvos Naugarduką,
+    sūnūs - trys broliai Karijotaičiai,
+    leidus Algirdui, su Lietuvos
+    žemės pagalba, pa-
+    traukė į Podolės žemę
+    (Mažoji Podolė tarp Aukštutinių
+    Pietinio Bugo ir Dniestro, taigi
+
+    į vakarus nuo minėtos mūšio
+    vietos), kurioje nebuvo nė vie-
+    nos pilies. Jie susidraugavę su
+    vietiniais atamanais, ėmė ginti
+    Podolės žemę, neduoti duok-
+
+    lės jų baskakams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183748
 
 ## Ryšiai
 - Sūnūs: [[objektai/asmenys/Teodoras (Karijoto sūnus)]]

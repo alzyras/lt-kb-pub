@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švitrigailos 1435 m. žygis, Ukmergės apgultis ir Mykolo vadovaujama pergalė
 
@@ -35,10 +47,9 @@ Nenurodyta
 <a id="claim-t-185516"></a>
 - t-001
   global_id: t-185516
-  teiginys: '1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės.'
+  teiginys: "1435 m. Boleslovas Švitrigaila užėmė Breslaują, nusiaubė didelius Lietuvos plotus ir su kariuomene priartėjo prie Ukmergės."
   pagrindžia:
-    - c-001
-
+    - c-168877
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,33 @@ Nenurodyta
     priartėjo su kariuomene prie Ukmergės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168877
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 453."
+  citata_originali: |
+    Vladislovui ro-
+    1435 m e ta i
+    dėsi, jog būtų ne pro šalį
+    valdymo pradžioje sutramdy­
+    ti Boleslovą, pagarsėti sėkmingais karo žygiais ir įvaryti
+    baimės kitiems priešams. Todėl pasiuntė į Lietuvą pasi­
+    žymėjusį karvedį Jokūbą iš Kobylianų su aštuoniais
+    tūkstančiais lenkų. Boleslovas, jau po pirmo antpuolio
+    užėmęs Breslaują, nusiaubė didelius Lietuvos plotus ir
+    priartėjo su kariuomene prie Ukmergės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185516

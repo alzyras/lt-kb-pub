@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rytų Lietuva
 
@@ -31,9 +43,9 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
 <a id="claim-t-181515"></a>
 - t-001
   global_id: t-181515
-  teiginys: '1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai.'
+  teiginys: "1919 m. pavasarį Rytų Lietuvą kontroliavo bolševikai."
   pagrindžia:
-    - c-001
+    - c-165054
 - susijęs iš [[objektai/daiktai/J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“.md#claim-t-77925|J. Bulhako nuotrauka „Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras“]]: J. Bulhako nuotraukos antraštė Vilnių vadina 1916 m. lietuvių ir lenkų disputo epicentru.
 ## Reikšmingi paminėjimai
 
@@ -48,7 +60,27 @@ Rugsėjį Himansas dar pataisė planą lietuvių naudai – Vilniaus regionas ja
     Pe 2 o ai ) pridengtas tarpas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165054
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1919 m. pavasarį Lenkijos kariuomenė kovojo Ukrainoje prie
+    Lvovo. Tuo metu Rytų Lietuvą kontroliavo bolševikai. Bolševikų pa-
+    jėgos šiame rajone buvo išsklaidytos ir sutelktos kitose ilgo fronto
+    vietose, o tarp Marcinkonių ir Lydos rusų pozicijose susidarė menkai
+    Pe 2 o ai ) pridengtas tarpas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181515

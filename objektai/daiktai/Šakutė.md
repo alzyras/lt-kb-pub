@@ -9,9 +9,22 @@ date_start: '1519'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - buities-daiktas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šakutė
 
@@ -50,17 +63,16 @@ Nenurodyta
 <a id="claim-t-13464"></a>
 - t-001
   global_id: t-13464
-  teiginys: 'Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę.'
+  teiginys: "Bona Sforca į Lenkiją ir Lietuvą atnešė šakutę kaip itališkos kultūros naujovę."
   pagrindžia:
-    - c-001
+    - c-16412
 
 <a id="claim-t-13465"></a>
 - t-002
   global_id: t-13465
-  teiginys: 'Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse.'
+  teiginys: "Šakutė tuo metu buvo nežinoma Lietuvoje ir Skandinavijos šalyse."
   pagrindžia:
-    - c-001
-
+    - c-16412
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,6 +85,7 @@ Nenurodyta
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -82,3 +95,23 @@ Nenurodyta
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-16412
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
+    kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
+    pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „ita-
+    liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
+    tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-13464
+    - t-13465

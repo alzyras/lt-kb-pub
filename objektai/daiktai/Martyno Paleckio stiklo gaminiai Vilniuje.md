@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Martyno Paleckio stiklo gaminiai Vilniuje
 
@@ -46,38 +58,37 @@ Nenurodyta
 <a id="claim-t-55041"></a>
 - t-001
   global_id: t-55041
-  teiginys: 'Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą.'
+  teiginys: "Paleckio privilegija steigti stiklo liejyklą buvo duota 1547 m. gegužės 22 d. ir turėjo prikabintą Lietuvos Didžiosios Kunigaikštystės antspaudą."
   pagrindžia:
-    - c-001
+    - c-55384
 
 <a id="claim-t-55042"></a>
 - t-002
   global_id: t-55042
-  teiginys: 'Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą.'
+  teiginys: "Martynui Paleckiui ir jo palikuonims suteikta teisė supirkti į Vilnių iš Lenkijos vežamą stiklą, išskyrus Venecijos stiklą."
   pagrindžia:
-    - c-002
+    - c-55385
 
 <a id="claim-t-55043"></a>
 - t-003
   global_id: t-55043
-  teiginys: 'Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant.'
+  teiginys: "Privilegijoje nustatytos didelių ir mažų Kurovo stiklinių kainos ir nurodyta langų stiklą pardavinėti žmonių neapsunkinant."
   pagrindžia:
-    - c-002
+    - c-55385
 
 <a id="claim-t-55044"></a>
 - t-004
   global_id: t-55044
-  teiginys: 'Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių.'
+  teiginys: "Už karaliaus dovanotą žemę Martynas Paleckis kasmet turėjo pristatyti į karališkuosius Vilniaus rūmus po 200 didžiųjų ir mažesniųjų Kurovo stiklinių."
   pagrindžia:
-    - c-002
+    - c-55385
 
 <a id="claim-t-81855"></a>
 - t-005
   global_id: t-81855
-  teiginys: 'Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą.'
+  teiginys: "Martynas Paleckis Vilniuje gavo žemės sklypą, leidimą steigti stiklo liejyklą ir privilegiją pardavinėti lenkišką stiklą."
   pagrindžia:
-    - c-003
-
+    - c-78397
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -99,7 +110,8 @@ Nenurodyta
     gorodničių Povilą Giedraitį.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -129,7 +141,8 @@ Nenurodyta
     tus mažesniųjų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -157,7 +170,97 @@ Nenurodyta
     davinėti lenkišką stiklą34.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-55384
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Privilegija, duota Paleckiui steigti šią
+    liejyklą, yra rašyta slavų kalba, su lo­
+    tynišku karaliaus ir rusišku raštinin­
+    ko Valerijono parašu, su prikabintu
+    Lietuvos Didžiosios Kunigaikštystės
+    antspaudu. Duota 1547 metų gegu­
+    žės 22 dieną, 5 indikte. Sklypas, skir­
+    tas fabrikui statyti, buvo „prie Vil­
+    niaus miesto, už Vilijos upės, tarp
+    karaliaus šunidės ir Vilniaus vaiva­
+    dos ir karaliaus kanclerio Hlebavi-
+    čiaus plytinės", perduotas Paleckio
+    žiniai, karaliaus valia, per Vilniaus
+    gorodničių Povilą Giedraitį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55041
+
+- id: c-55385
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Atsi­
+    žvelgdamas į Paleckio prašymą, ka­
+    ralius suteikė tik jam ir jo palikuo­
+    nims teisę supirkti visokių rūšių į
+    Vilnių iš Lenkijos vežamą stiklą, iš­
+    skyrus Venecijos. Tačiau buvo įpa­
+    reigotas parduoti jį ne brangiau kaip:
+    didelę Kurovo stiklinę, į kurią telpa
+    dvi mažesnės, po 6 didžiąsias lietu­
+    viškas monetas. O nedidelės stikli­
+    nės turėjo būti parduodamos po 3
+    mažesnes monetas. O langų stiklą
+    „turi paklusniai ir dievobaimingai
+    pardavinėti žmonių neapsunkinda­
+    mas". Karalius už savo žemės do­
+    vanojimą įsakė Paleckiui, vietoje už­
+    mokesčio, į karališkuosius Vilniaus
+    rūmus kasmet pristatyti po 200 di­
+    džiųjų Kurovo stiklinių ir po du šim­
+    tus mažesniųjų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55042
+    - t-55043
+    - t-55044
+
+- id: c-78397
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr. III priedą. Žr. VIII šios knygos priedą.
+    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
+    274
+
+    ## Puslapis 291
+
+    IV KNYGA
+    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
+    davinėti lenkišką stiklą34.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81855

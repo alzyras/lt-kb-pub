@@ -16,6 +16,18 @@ tags:
   - upė
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Čekijos ir Vengrijos karalių karas (1260 m.)
 
@@ -44,10 +56,9 @@ Nenurodyta
 <a id="claim-t-62539"></a>
 - t-001
   global_id: t-62539
-  teiginys: '1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių.'
+  teiginys: "1260 m. Vengrijos karalius su įvairiataute 40 tūkstančių raitelių kariuomene užpuolė Čekijos karalių."
   pagrindžia:
-    - c-001
-
+    - c-63234
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +75,32 @@ Nenurodyta
     upėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63234
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 233"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 233."
+  citata_originali: |
+    Apie Čekijos ir Vengrijos karalių karą
+
+      1260  viešpaties metais  Vengrijos  karalius užpuolė  Čekijos  karalių, turėdamas
+    įvairiatautę 40 tūkstančių raitiją. Jam kelią pastojo Čekijos karalius su šimtu tūkstančių
+    raitelių ir septyniais tūkstančiais žirgų; kai šie vienu metu  jį užpuolė, taip uždulkėjo
+    laukas, kad žmogus žmogų vidurdienyje vargiai begalėjo  atpažinti. Galop sunkiai
+    sužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje
+    upėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407).
+  citata_rodoma: "Apie Čekijos ir Vengrijos karalių karą\n\n  1260  viešpaties metais  Vengrijos  karalius užpuolė  Čekijos  karalių, turėdamas\nįvairiatautę 40 tūkstančių raitiją. Jam kelią pastojo Čekijos karalius su šimtu tūkstančių\nraitelių ir septyniais tūkstančiais žirgų; kai šie vienu metu  jį užpuolė, taip uždulkėjo\nlaukas, kad žmogus žmogų vidurdienyje vargiai begalėjo  atpažinti. Galop sunkiai\nsužeistas Vengrijos karalius pabėgo su savo žmonėmis; neskaitant užmuštųjų, vienoje\nupėje prigėrė 14 tūkstančių Vengrijos karių (Mart. p. 406, 407)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62539

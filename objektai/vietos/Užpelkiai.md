@@ -13,6 +13,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užpelkiai
 
@@ -25,9 +37,9 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
 <a id="claim-t-42237"></a>
 - t-001
   global_id: t-42237
-  teiginys: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais.'
+  teiginys: "Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais."
   pagrindžia:
-    - c-001
+    - c-45388
 - susijęs iš [[objektai/asmenys/Petras Bartkus-Žadgaila.md#claim-t-39626|Petras Bartkus-Žadgaila]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo LLKS tarybos prezidiumo narys ir Prisikėlimo apygardos vadas Petras Bartkus-Žadgaila.
 - susijęs iš [[objektai/asmenys/Bronius Liesis-Naktis.md#claim-t-39499|Bronius Liesis-Naktis]]: Bronius Liesis-Naktis žuvo 1949 m. rugpjūčio 13 d., kai Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
 - susijęs iš [[objektai/asmenys/Vytautas Šniuolis-Svajūnas.md#claim-t-39681|Vytautas Šniuolis-Svajūnas]]: 1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.
@@ -71,10 +83,40 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
     žygį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-45388
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1949 m. rugpjūčio 10 d. iš Kęstučio apy-
+    gardos atvyko Prisikėlimo apygardos
+    vadas Petras Bartkus-Žadgaila. Užpelkių
+    miške buvo numatytas Prisikėlimo apy-
+    gardos štabo posėdis, susitikimas su vie-
+    tos kovotojais. Po poros dienų partizanai
+    Vytautas Šniuolis-Svajūnas, Žadgaila,
+    Bronius Liesis-Naktis, Laurynas
+    Mingilas-Džiugas ir Viktoras
+    Šniuolis-Vitvytis rugpjūčio 12 d.
+    vakare susirinkę reikiamus do-
+    kumentus, pasiėmę rotatorių,
+    rašomąją mašinėlę išsiruošė į
+    žygį.
+  citata_rodoma: "iš Kęstučio apy-\ngardos atvyko Prisikėlimo apygardos\nvadas Petras Bartkus-Žadgaila. Užpelkių\nmiške buvo numatytas Prisikėlimo apy-\ngardos štabo posėdis, susitikimas su vie-\ntos kovotojais. Po poros dienų partizanai\nVytautas Šniuolis-Svajūnas, Žadgaila,\nBronius Liesis-Naktis, Laurynas\nMingilas-Džiugas ir Viktoras\nŠniuolis-Vitvytis rugpjūčio 12 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42237
+
 ## Ryšiai
-- Mirties vieta: [[objektai/asmenys/Bronius Liesis-Naktis]], [[objektai/asmenys/Petras Bartkus-Žadgaila]], [[objektai/asmenys/Vytautas Šniuolis-Svajūnas]]
+- Mirties vieta: [[objektai/asmenys/Petras Bartkus-Žadgaila]]

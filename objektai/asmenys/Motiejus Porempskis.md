@@ -7,8 +7,20 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - privilegija
+  - teisinė-praktika
   - vyskupas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Motiejus Porempskis
 
@@ -21,9 +33,9 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
 <a id="claim-t-87797"></a>
 - t-001
   global_id: t-87797
-  teiginys: 'Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.'
+  teiginys: "Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę."
   pagrindžia:
-    - c-001
+    - c-83776
 - susijęs iš [[objektai/asmenys/Albertas Skvemevita.md#claim-t-87609|Albertas Skvemevita]]: Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Mikalojus Ungarns.md#claim-t-87789|Mikalojus Ungarns]]: Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.
@@ -52,7 +64,36 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
     kad ten į teismą būtų grąžintas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83776
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagal mūsų
+    pačių pranešimo šiandieninį terminą, nustatytą pačiame šau­
+    kime ir iki pat šios dienos pratęstą, abi pusės, pačios ir su
+    savo teisėtais įgaliotiniais, pas mus viešai atvyko, teisėtai
+    laikydamosi termino, ir taip pat savo nesutarimus pakarto­
+    jo. O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­
+    rns, Pilypas Glazeris ir Motiejus Porempskis per savo tarpi­
+    ninkus ir garsusis Albertas Skvemevita per savo įgaliotinius
+    paaiškino, kad minėtasis kaltinamasis turi gauti numatytą
+    jų privilegijoje bausmę, pripažinti civilinę teisę ir auksaka­
+    lių cechą ir laikytis paklusnumo minėtam cechui. O kaltina­
+    masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­
+    niaus vyskupijos valdinys ir pilietis, ir reikalaudamas siekė,
+    kad ten į teismą būtų grąžintas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87797

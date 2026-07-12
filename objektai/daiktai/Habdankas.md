@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Habdankas
 
@@ -40,16 +52,16 @@ Nenurodyta
 <a id="claim-t-186862"></a>
 - t-001
   global_id: t-186862
-  teiginys: 'Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe.'
+  teiginys: "Habdanko ženklas sudarė Dubnios herbo atmainos detalę: baltą W raidę apatiniame kairiajame raudono skydo kampe."
   pagrindžia:
-    - c-002
+    - c-170047
 
 <a id="claim-t-186863"></a>
 - t-002
   global_id: t-186863
-  teiginys: 'Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke.'
+  teiginys: "Habdankas buvo senovinis lenkų bajorų herbas su sidabriniu W raidę primenančiu ženklu raudoname lauke."
   pagrindžia:
-    - c-001
+    - c-170046
 - susijęs iš [[objektai/daiktai/Dubnia herbas.md#claim-t-186865|Dubnia herbas]]: Dubnios herbas buvo Habdanko herbo atmaina su baltu kryžiumi raudoname skyde ir kryžiumi tarp dviejų jaučio ragų virš skydo.
 ## Reikšmingi paminėjimai
 
@@ -64,7 +76,8 @@ Nenurodyta
     tautai ir jų tarpe Albertas Goštautas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -80,10 +93,46 @@ Nenurodyta
     apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Habdankas priklausė [[objektai/grupes/Bajorai]]
+## Citatos
+
+- id: c-170046
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1521. p. 248) nemini.
+    1 1  Habdankas (lenkiškai Abdank arba Awdaniec) — senovinis
+    lenkų bajorų herbas: sidabrinis ženklas, panašus j raidą W  raudo­
+    nam e lauke. Habdanko herbu antspaudavo Lietuvos didikai Goš­
+    tautai ir jų tarpe Albertas Goštautas.
+  citata_rodoma: "Habdankas (lenkiškai Abdank arba Awdaniec) — senovinis \nlenkų bajorų herbas: sidabrinis ženklas, panašus j raidą W  raudo­\nnam e lauke. Habdanko herbu antspaudavo Lietuvos didikai Goš­\ntautai ir jų tarpe Albertas Goštautas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186863
+
+- id: c-170047
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    IS  Istorija apie Davainos ir jo belaisvės vedybas žinoma tik
+    iš BK.
+    1 4  Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1
+    atmaina: per visą herbo skydą baltas kryžius raudonam e lauke;
+    apatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \V).
+  citata_rodoma: "Dubnla (lenkiškai D ąbno)— Habdanko herbo (žr. past. 12 1  \natmaina: per visą herbo skydą baltas kryžius raudonam e lauke; \napatiniame kairiajam e kampe baltas Habdanko ženklas (raidė \\V)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186862

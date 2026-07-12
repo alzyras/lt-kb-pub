@@ -18,6 +18,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vargulis
 
@@ -30,9 +42,9 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
 <a id="claim-t-60459"></a>
 - t-001
   global_id: t-60459
-  teiginys: 'Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo.'
+  teiginys: "Vargulis, Noliubės giminaitis, broliams pritarus išėjo į priekį ir įspėjo Noliubę dėl nepaklusnumo."
   pagrindžia:
-    - c-001
+    - c-61091
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89603|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Po Vargulio įspėjimo Noliubas pabėgo į Ziokos valsčių, o vėliau, nukamuotas antpuolių, nulenkė galvą prieš tikėjimą.
 - susijęs iš [[objektai/posakiai/Prakeiktasis Noliube, eik dabar ir būk valkata.md#claim-t-89602|Prakeiktasis Noliube, eik dabar ir būk valkata]]: Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.
 ## Reikšmingi paminėjimai
@@ -55,7 +67,35 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
     čia atvyksta“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61091
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 119-120"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 119-120."
+  citata_originali: |
+    Kai dėl to supykę
+    broliai ketino prieš jį traukti su kariuomene, jo giminaitis, vardu Vargulis, gailėdamasis
+    šiojo jaunatviško neapdairumo, broliams pritarus, išėjo į priekį ir pasakė jam: „Prakeiktasis
+    p. 54), kelio iš Kaliningrado į Laduškiną pradžioje. D. toliau mini Sklunijos valsčių (III,
+    262; vardas tapatinamas su 1249.II.9 sutarties dokumento Slinia — PUB, 1, 1, Nr. 218,
+    p. 163), kurio centras galėjo būti Kalijoje.
+      372  Plg. Ordino turto užrašymus prūsams, perėjusiems į kryžiuočių pusę (Pakarklis
+    P., Kryžiuočių..., p. 80—81 ir kt.).
+
+    Noliube, eik dabar ir būk valkata, ištremtas iš savo žemės, nes nepaklausei nei mano,
+    nei savo tėvų balso; jei ir dabar nepaklusi, tave nužudys broliai ir jų ginklanešiai, kurie
+    čia atvyksta“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60459

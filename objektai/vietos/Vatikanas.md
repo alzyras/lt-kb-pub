@@ -11,11 +11,24 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
+  - teisinė-praktika
   - valstybė
   - vieta
-  - vyskupas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vatikanas
 
@@ -28,9 +41,9 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
 <a id="claim-t-181301"></a>
 - t-001
   global_id: t-181301
-  teiginys: 'Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.'
+  teiginys: "Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu."
   pagrindžia:
-    - c-001
+    - c-164858
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75768|Augustinas Voldemaras]]: Augustinas Voldemaras 1927 m. rugsėjo 27 d. Romoje pasirašė konkordatą su Vatikanu.
 - susijęs iš [[objektai/ivykiai/Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.).md#claim-t-20230|Konkordato su Vatikanu pasirašymas (1927 m. rugsėjo 27 d.)]]: 1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.
@@ -68,7 +81,30 @@ Tačiau Vatikanas 1925 metais sudarė konkordatą su Lenkija, visai neatsižvelg
     dėl to santykiai su Vatikanu nutrūko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-164858
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl, užmezgus oficialinius santykius su Vati-
+    kanu, pirmas vyriausybės rūpestis buvo sudaryti atskirą Lie-
+    tuvos bažnytinę provinciją, iš kurios nebūtų išskirtas okupuo-
+    tasis Vilniaus kraštas. Tačiau Vatikanas 1925 metais sudarė
+    konkordatą su Lenkija, visai neatsižvelgdamas į Lietuvos teises
+    nepabaigtame ginče su Lenkija. Vyriausybė protestavo prieš
+    tokį Vatikano elgesį, kurio negalima buvo laikyti bešališku, ir
+    dėl to santykiai su Vatikanu nutrūko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181301

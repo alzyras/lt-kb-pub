@@ -16,6 +16,18 @@ tags:
   - tauta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karo padėties Klaipėdos krašte atšaukimas po Miuncheno susitarimo (1938 m. pabaiga)
 
@@ -44,17 +56,16 @@ Nenurodyta
 <a id="claim-t-169829"></a>
 - t-001
   global_id: t-169829
-  teiginys: 'Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų.'
+  teiginys: "Lietuvos vyriausybė į Klaipėdos uostą investavo 42 mln. litų, tačiau iš jo gavo tik 11 mln. litų pajamų."
   pagrindžia:
-    - c-002
+    - c-154514
 
 <a id="claim-t-169830"></a>
 - t-002
   global_id: t-169830
-  teiginys: 'Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai.'
+  teiginys: "Lietuviško mokymo ir lietuvių kalbos vartojimo skatinimas Klaipėdos krašte davė priešingą rezultatą, nes oponentai kliudė krašto integracijai."
   pagrindžia:
-    - c-001
-
+    - c-154512
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +82,7 @@ Nenurodyta
     mą laike sezoniniu dalyku.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -88,7 +100,51 @@ Nenurodyta
     tuviškose įstaigose ir bendrovėse.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-154512
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vokiškose įstaigose dominavo nacių ša-
+    lininkai, beveik visose mokyklose dėstyta vokiečių kalba, nors dauguma
+    mokinių buvo lietuviai. Įvesti mokymą lietuviškai pagal mokinių kilmę
+    nepavyko, o nurodymai tarnautojams darbe kalbėti lietuviškai, dalyvauti
+    lietuviškose šventėse davė atvirkščią rezultatą – oponentai efektyviai kliu-
+    dė integruoti Klaipėdos kraštą.
+    Lietuvos vyriausybė nerado atramos Klaipėdos krašto viduje: krašto
+    vokiečiams nepatiko būti „tautine mažuma“, jie apskritai Lietuvos valdy-
+    mą laike sezoniniu dalyku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169830
+
+- id: c-154514
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1938 m. pabaigoje, po Miuncheno susitarimo, karo padėtis Klaipėdos
+    krašte buvo atšaukta ir Lietuva jau nebevaldė situacijos. Nors Lietuvos
+    vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-
+    ta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti,
+    Lietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų
+    lygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-
+    tuviškose įstaigose ir bendrovėse.
+  citata_rodoma: "Nors Lietuvos \nvyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien į uostą investuo-\nta 42 mln. litų, o pajamų tegauta 11 mln., ištekliai pasirodė esą riboti, \nLietuvos vyriausybės įtaka krašte mažėjo: Statute užrašytas dviejų kalbų \nlygiateisiškumas tebuvo fikcija – lietuvių kalba galėjai susikalbėti tik lie-\ntuviškose įstaigose ir bendrovėse."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169829

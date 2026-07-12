@@ -16,6 +16,18 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # žirgininkas
 
@@ -28,16 +40,16 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
 <a id="claim-t-185418"></a>
 - t-001
   global_id: t-185418
-  teiginys: 'Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda.'
+  teiginys: "Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas į Maskvą kartu su Lukošiumi Garaburda."
   pagrindžia:
-    - c-001
+    - c-168779
 
 <a id="claim-t-187537"></a>
 - t-002
   global_id: t-187537
-  teiginys: 'Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos.'
+  teiginys: "Andrius Droždža apie 1500 m. tapo Vilniaus žirgininku ir 1503 m. gavo valdyti Belicą bei Zblianus prie Lydos."
   pagrindžia:
-    - c-002
+    - c-170487
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 - susijęs iš [[objektai/asmenys/Motiejus Kločka.md#claim-t-186070|Motiejus Kločka]]: Maršalas Motiejus Kločka buvo pasiuntinybės į Maskvą narys kartu su Vasilijumi Bogdanovičiumi Čižu ir Andriumi Mackevičiumi.
 ## Reikšmingi paminėjimai
@@ -59,6 +71,7 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
     tūkstančių kariuomenės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,7 +90,53 @@ Jonas Vilčekas, karališkasis Vilniaus vaivadijos žirgininkas, buvo pasiųstas
     Belicą (1503) ir Zblianus prie Lydos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168779
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 697"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 697."
+  citata_originali: |
+    Antra vertus, netrukus atvyksią į Maskvą jo įgalioti
+    legatai, kurie pasitarsią su Maskvos didikais ir pada­
+    rysią viską, kas naudinga valstybei.
+    Išsiuntus laišką, netrukus išvyko ir pasiuntiniai Lu­
+    košius Garaburda, Lietuvos raštininkas, ir Jonas Vil-
+    čekas, karališkasis Vilniaus vaivadijos žirgininkas, bet
+    nieko nepešė, nes maskvėnai atidėjo derybas, sakyda-
+    miesi lauksią didesnius įgaliojimus turinčių pasiunti­
+    nių.
+    Tuo tarpu Augustas patraukė į Livoniją su šimtu
+    tūkstančių kariuomenės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185418
+
+- id: c-170487
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    M A ndrius Droždža. Aleksandro favorito kunigaikščio Mykolo
+    Glinskio giminaitis, sūnus Aleksandro Droždžos, Kazimiero laikais
+    buvusio Lietuvos Kameneco (prie Brastosl valdytoju (1470—1479).
+    Pradėjus valdyti Aleksandrui. A ndrius Droždža gavo didžiojo kuni­
+    gaikščio taurininko vietą (1498 m.), vyko su diplomatine misija pas
+    totorius, o  apie 1500 m. tajio Vilniaus žirgininku ir gavo valdyti
+    Belicą (1503) ir Zblianus prie Lydos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187537

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ivykis
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sembų susitaikymas ir pakartotinis pasidavimas krikščionių tikėjimui
 
@@ -36,10 +48,9 @@ Nenurodyta
 <a id="claim-t-62473"></a>
 - t-001
   global_id: t-62473
-  teiginys: 'Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui.'
+  teiginys: "Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui."
   pagrindžia:
-    - c-001
-
+    - c-63126
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,7 +69,34 @@ Nenurodyta
                110 (105).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63126
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 123"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 123."
+  citata_originali: |
+    109 (104). Apie brolių ir sembų susitaikymą
+
+       Šiais  ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami
+    sembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė
+    krikščionių tikėjimui.
+
+
+
+
+               110 (105).
+  citata_rodoma: "109 (104). Apie brolių ir sembų susitaikymą\n\n   Šiais  ir kitais smūgiais brolių bei kitų krikščionių rankomis viešpaties baudžiami\nsembai, nepajėgdami ilgiau priešintis, atsiuntė savo sūnus kaip įkaitus ir vėl pasidavė\nkrikščionių tikėjimui.\n\n\n\n\n           110 (105)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62473

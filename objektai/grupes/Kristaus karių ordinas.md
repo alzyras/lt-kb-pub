@@ -10,6 +10,18 @@ tags:
   - miestas
   - ordinas
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kristaus karių ordinas
 
@@ -22,10 +34,9 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
 <a id="claim-t-63011"></a>
 - t-001
   global_id: t-63011
-  teiginys: 'Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.'
+  teiginys: "Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr."
   pagrindžia:
-    - c-001
-
+    - c-63921
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +60,39 @@ Dusburgietis teigia, kad kunigaikštystė pilis, miestas Dobrynės broliai (Dobr
     Dortmundas
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63921
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 301"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 301."
+  citata_originali: |
+    Diewenns
+    Dirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)
+    Diunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)
+    Dyrų sodyba
+    Dnepras, u.
+       padneprė
+    Dobinas
+    Dobre Miasto žr. Gutštatas
+    Dobrynė, ž. kunigaikštystė
+         pilis, miestas
+    Dobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas
+    Domijono šv. ordinas
+    Dona
+    Dorpatas
+    Dortmundas
+  citata_rodoma: "Diewenns\nDirsovija, Dirsovė (Dersowia, Dirsow; Dirschau, dab. Tčevas)\nDiunamiundė (Dunemunde, Dūnemünde, dab. Veca Daugavgryva)\nDyrų sodyba\nDnepras, u.\n   padneprė\nDobinas\nDobre Miasto žr. Gutštatas\nDobrynė, ž. kunigaikštystė\n     pilis, miestas\nDobrynės broliai (Dobrynės ordinas) žr. Kristaus karių ordinas\nDomijono šv. ordinas\nDona\nDorpatas\nDortmundas"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63011

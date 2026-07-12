@@ -10,12 +10,24 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - karalius
   - karas
   - miestas
-  - paprotys
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karo nualintų gyventojų aprūpinimas maistu ir drabužiais
 
@@ -48,10 +60,9 @@ Nenurodyta
 <a id="claim-t-87273"></a>
 - t-001
   global_id: t-87273
-  teiginys: '1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams.'
+  teiginys: "1390 m. Jogaila iš Lenkijos į Vilnių atgabeno maisto ir drabužių atsargų, kurios buvo dalijamos visą turtą praradusiems gyventojams."
   pagrindžia:
-    - c-001
-
+    - c-83252
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,7 +81,32 @@ Nenurodyta
     gyventojai ir statytis namus ant degėsių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83252
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Liūdnas buvo Vilniaus miesto ir jo apylinkių vaizdas 1390
+    metų pabaigoje, kai karalius Vladislovas Jogaila, nors jau
+    pavėluotai, pagaliau susiruošė gelbėti sielvarto prislėgtos
+    tėvynės ir su gausia kariuomene lapkričio mėnesį iš Lenki­
+    jos parvyko į griuvėsiais virtusį gimtąjį miestą. Nemažos
+    maisto ir drabužių atsargos, karaliaus atsigabentos iš Len­
+    kijos ir dosniai dalijamos liaudžiai, pravertė visą turtą pra-
+    radusiems gyventojams, o karaliaus buvimas stiprino tie­
+    kos negandų nualintą jų dvasią. Pamažu ėmė telktis išsisklaidę
+    gyventojai ir statytis namus ant degėsių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87273

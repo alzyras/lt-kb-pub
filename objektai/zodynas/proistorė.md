@@ -5,7 +5,20 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - istorinė-sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # proistorė
 
@@ -36,31 +49,47 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 <a id="claim-t-05457"></a>
 - t-001
   global_id: t-05457
-  teiginys: 'Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais.'
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
   pagrindžia:
-    - c-001
-    - c-002
+    - c-05587
+    - c-69344
 
 <a id="claim-t-05458"></a>
 - t-002
   global_id: t-05458
-  teiginys: 'Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija.'
+  teiginys: "Lietuvos proistorė remiasi archeologiniais duomenimis ir yra tyrinėjama kitais metodais nei rašytinė istorija."
   pagrindžia:
-    - c-001
+    - c-05587
+
+<a id="claim-t-05457"></a>
+- t-003
+  global_id: t-05457
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
+  pagrindžia:
+    - c-05587
+    - c-69344
 
 <a id="claim-t-05608"></a>
 - t-004
   global_id: t-05608
-  teiginys: 'Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis.'
+  teiginys: "Lietuvos proistorė apima seniausius laikus, paremtus archeologiniais duomenimis."
   pagrindžia:
-    - c-001
+    - c-05587
+
+<a id="claim-t-05457"></a>
+- t-005
+  global_id: t-05457
+  teiginys: "Lietuvos proistorė Ivinskio veikale apibūdinama kaip plačiai išaugusi į atskirą mokslą, tyrinėjamą kitais metodais."
+  pagrindžia:
+    - c-05587
+    - c-69344
 
 <a id="claim-t-70294"></a>
 - t-006
   global_id: t-70294
-  teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
+  teiginys: "Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai."
   pagrindžia:
-    - c-003
+    - c-69345
 - susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“
 - susijęs iš [[objektai/autoriai/St. Zajączkowski.md#claim-t-100100|St. Zajączkowski]]: St. Zajączkowski rašė apie jotvingių vardus ir Jotvos problemą istoriografijoje.
 - susijęs iš [[objektai/grupes/Didžiojo Naugardo respublika.md#claim-t-05243|Didžiojo Naugardo respublika]]: Lietuvių žygiai pasiekdavo Didžiojo Naugardo respublikos plotus.
@@ -86,7 +115,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     surankiojama vertingų žilos praeities paminklų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -104,7 +134,8 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -120,7 +151,64 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
     t. 1, 1955, 75-84 p.), apie įvairius tyrinėtus piliakalnius ir senka­
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-05587
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tik gana trumpai čia tėra apžvelgti patys seniausieji laikai,
+    paremti archeologiniais duomenimis. Lietuvos _proistorė_ yra jau
+    plačiai išaugusi į atskirą mokslą, kur tyrinėjama kitais metodais.
+    Ten su _kastuvu_ rankoje iš tos didžiosios konservatorės, mūsų žemės
+    surankiojama vertingų žilos praeities paminklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05457
+    - t-05458
+    - t-05607
+    - t-05608
+
+- id: c-69344
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Čia tenka paminėti bent iškilesnius tarybinius istori­
+    kus^94. Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
+    periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
+    ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-05457
+
+- id: c-69345
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Apie jų darbų atranką ir metodą buvo rašyta aukščiau,
+    periodizacijos skyrelyje. Lietuvos _proistorei_ geriau pažinti padeda
+    ten daromi gausus archeologiniai kasinėjimai bei tyrinėjimai. Šioje
+    srityje pirmiausiai minėtini archeologai: P. Kulikauskas,
+    pateikęs duomenų apie seniausiai Lietuvoje augintus javus (AkMD,
+    t. 1, 1955, 75-84 p.), apie įvairius tyrinėtus piliakalnius ir senka­
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70294

@@ -10,6 +10,18 @@ tags:
   - popiežius
   - sąvoka
   - valdovas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # dešimtinė
 
@@ -22,16 +34,16 @@ tags:
 <a id="claim-t-173012"></a>
 - t-001
   global_id: t-173012
-  teiginys: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
+  teiginys: "Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų."
   pagrindžia:
-    - c-002
+    - c-157351
 
 <a id="claim-t-173013"></a>
 - t-002
   global_id: t-173013
-  teiginys: 'Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę.'
+  teiginys: "Po dešimties metų atleidimo nuo mokesčių atvykę žemdirbiai turėjo mokėti pagal žemės rūšį nustatomą dešimtinę."
   pagrindžia:
-    - c-001
+    - c-157349
 - susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
 ## Reikšmingi paminėjimai
 
@@ -58,6 +70,7 @@ tags:
     resnė atrodytų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -99,7 +112,81 @@ tags:
     rendį įnirtingo pykčio apimtoms pusėms.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-157349
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Žemdirbiams, kurie norėtų
+    pas mus atsikelti ir įsikurti, duodame dešimties metų lai­
+    ką, per kurį jie bus atleisti nuo bet kokių mokesčių ir dar-
+    ł
+    To laiško nuorašas tais pačiais lai- Palyginimui žr. Gedimino laiškai p. 21
+    kais rašytas, ant pergamento, be da- (Leid. past.)
+    tos Slapt. arch. Spinta XVIII, Nr. 1.
+    72
+
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173013
+
+- id: c-157351
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    3 baigiamas
+    tokiais žodžiais: Cupientes igitur, ut
+    veritatis testimonium, quod coram vest­
+    ra protulimus sanctitate, fratribus pre-
+    notatis, utile et laudabile fiat nostrorum
+    duximus apensione fieri evidens sigil­
+    lorum [Taigi trokšdami, kad liudiji­
+    mo tikrumas, kurį jūsų šviesybės
+    akivaizdoje iškėlėme broliams minė­
+    tiems, būtų naudingas ir verta, pa­
+    raginame, kad būtų matomas prika­
+    binus mūsų antspaudusl.
+    77
+
+    ## Puslapis 94
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Jeigu dabar išnagrinėtume viską, ko tik kelerių metų tarps­
+    niu būta Ordino santykiuose arba su Lenkijos karaliumi, kad
+    ir Pamario valdymo klausimu, arba su lenkų vyskupais dėl
+    dešimtinės ir šv. Petro skatiko rinkliavų, arba su Rygos arki­
+    vyskupu, turint omenyje senus jo skundus, arba su Lietuvos
+    valdovu, už ir prieš kryžiuočius popiežiaus rūmuose Avinjo­
+    ne tieka priporinta, tad lengvai suprastume, kaip popiežiui bu­
+    vo neapsakomai sunku ir, žinia, dėl savo padėties, minėtų kraš­
+    tų tolybės, santykių nesupratimo, net neįmanoma išnarplioti
+    savaime susipainiojusių, o kartais ir tyčia suveltų sruogų, suk­
+    tybę nuo tiesos atskirti ir stoti pozicijon, kuri jam, kaip aukš­
+    čiausiajam teisėjui, derėtų, kad tartų griežtą galutinį nuosp­
+    rendį įnirtingo pykčio apimtoms pusėms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173012

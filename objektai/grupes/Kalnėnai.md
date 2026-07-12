@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kalnėnai
 
@@ -27,32 +39,32 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
 <a id="claim-t-65268"></a>
 - t-001
   global_id: t-65268
-  teiginys: 'Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių.'
+  teiginys: "Seniausia kalnėnų uždanga laikytos neišžengiamos girios, o vėliau tarpgiriai buvo kamšomi pilimis nuo neprietelių."
   pagrindžia:
-    - c-003
+    - c-10116
 
 <a id="claim-t-65270"></a>
 - t-002
   global_id: t-65270
-  teiginys: 'Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus.'
+  teiginys: "Senovės kalnėnai ir žemaičiai karo žygiuose turėjo šunį ir žirgą, o kautynėse naudojo raitelius ir pėstininkus."
   pagrindžia:
-    - c-001
-    - c-002
-    - c-003
+    - c-10114
+    - c-10115
+    - c-10116
 
 <a id="claim-t-65271"></a>
 - t-003
   global_id: t-65271
-  teiginys: 'Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį.'
+  teiginys: "Kalnėnai, traukdami į karę, kartu su žirgu vedėsi ir šunį, kuris mažomis rogėmis vežė įkaitį, karo padargą ir grįžtant grobį."
   pagrindžia:
-    - c-001
+    - c-10114
 
 <a id="claim-t-65272"></a>
 - t-004
   global_id: t-65272
-  teiginys: 'Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais.'
+  teiginys: "Kalnėnai, nors kariavo jodami, turėjo ir paslėptus pėsčiuosius, kuriuos jodino dvisėdais."
   pagrindžia:
-    - c-002
+    - c-10115
 - susijęs iš [[objektai/autoriai/J. Talmantas.md#claim-t-64648|J. Talmantas]]: J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.
 - susijęs iš [[objektai/daiktai/Kalvė.md#claim-t-08291|Kalvė]]: Kalvėje kalnėnai ir žemaičiai patys sau kalė padargus ir ginklus.
 - susijęs iš [[objektai/grupes/Giruliai.md#claim-t-07834|Giruliai]]: Šeštajame amžiuje giruliais arba girionimis vadinti žemaičiai ir kalnėnai mokėjo auginti linus.
@@ -106,7 +118,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -120,7 +133,8 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         pripadėjo^1244.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -137,13 +151,62 @@ Kalnėnai šiame tekste rodomi kaip su žemaičiais gretinama karinga bendruomen
         šiandien dar Žemaičiuose pilies kalnais, arba nuo žuvėdų pilimis, tebvadina.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
 
-## Ryšiai
-- Puolė Kalnėnai: [[objektai/grupes/Krikščionys]]
-- Kariavo prieš: [[objektai/grupes/Krikščionys]]
-- Turėjo priklausinį: [[objektai/daiktai/Ratai ant dviejų tekinių]]
+## Citatos
+
+- id: c-10114
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Senovės kalnėnai ir žemaičiai, traukdami į karę, du tarnu lygiai turėjo, beje, šunį ir žirgą, nesgi, ko
+        kareivis jodamas negalėjo ant žirgo pakelti, tą jo šuo, įkinkytas į mažas rogeles, po jo vilko, beje,
+        įkaištį^1183 ir karės padargą, grįžtant iš karės, pydė^1184 grobį, nuo neprietelių sugrietą^1185.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65270
+    - t-65271
+
+- id: c-10115
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Kaip kalnėnai, taip ir žemaičiai, noris visados joti tekariavo, tačiau turėjo lygiai ir pėsčiuosius
+        paslėptus, kuriuos dvisėdais jodino: susigrūmus pačiai jočiai su neprieteliais, pėstieji anai
+        pripadėjo^1244.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65270
+    - t-65272
+
+- id: c-10116
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Senų senovėj kalnėnai ir žemaičiai pilių neturėjo, kaipogi neišžengiamos girios jų pilimis, o pačių
+        narsybė ir kantrybė jų mūrais buvo, į kurias ir visų narsusis neprietelius nedrįso lįsti, bet ilgainiui,
+        praretėjus toms girioms, pradėjo tarpgiriuose neprieteliai, užvis žuvėdai, šmaižytis ir grobį grieti bei
+        pačius vergti; tą pritirdami^1251 , lietuviai ėmė tuos tarpgirius pilimis kamšyti, kuriomis ne vien kelią
+        neprieteliams užtaškavo^1252 , bet, kėlusis pavojui, ir patys tenai uždangą^1253 rado, kurių pilių palaikus
+        šiandien dar Žemaičiuose pilies kalnais, arba nuo žuvėdų pilimis, tebvadina.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65270
+    - t-65268

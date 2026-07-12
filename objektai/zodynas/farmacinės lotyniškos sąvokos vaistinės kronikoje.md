@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # farmacinės lotyniškos sąvokos vaistinės kronikoje
 
@@ -19,10 +31,9 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
 <a id="claim-t-86524"></a>
 - t-001
   global_id: t-86524
-  teiginys: 'Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas.'
+  teiginys: "Vaistininkai, ruošdami preparatus pagal pareigas ir gydydami žmones, didindavo vaistinės pajamas."
   pagrindžia:
-    - c-001
-
+    - c-82503
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,35 @@ Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­ rie be preparata ex o
     anasai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82503
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ne mažiau pajamų dydį lėmė vaistininkų nuovoka, ku­
+    rie be preparata ex officio suo [paruoštų pagal savo pareigas]
+    medikamentų, eidami dar ir gydytojo pareigas, ne tik ex
+    Pharmacis [vaistų] vaistinės pajamas padidindavo, juk ir pa­
+    tys gydydavo. Kaip kad paaiškėjo iš maloningojo Necelu
+    pavyzdžio, immediate [neseniai] mirusio, kuris, būdamas
+    vaistininkas, buvo kartu ir puikus gydytojas. Po pastarojo
+    mirties, kai dabartinis vaistininkas maloningasis ponas
+    Renkielis perėmė vaistinę, kad ir yra in sua arte [savo me­
+    ne] puikiai pasiruošęs ir savo profesoriui Necelui prilygs­
+    tantis, tačiau per tokį dar trumpą laiką nėra pelnęs dide­
+    lio palankumo, tad negali turėti tiek pajamų, kiek turėjo
+    anasai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86524

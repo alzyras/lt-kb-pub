@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kuršėnai
 
@@ -28,30 +40,30 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
 <a id="claim-t-68377"></a>
 - t-001
   global_id: t-68377
-  teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė.'
+  teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo didelė jų nesantarvė."
   pagrindžia:
-    - c-003
+    - c-67969
 
 <a id="claim-t-68378"></a>
 - t-002
   global_id: t-68378
-  teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
+  teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
   pagrindžia:
-    - c-002
+    - c-43557
 
 <a id="claim-t-68379"></a>
 - t-003
   global_id: t-68379
-  teiginys: '1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai.'
+  teiginys: "1919 m. liepos 26 d. į Kuršėnus įžengė pirmieji plk. Virgoličiaus vadovaujami bermontininkai."
   pagrindžia:
-    - c-001
+    - c-43556
 
 <a id="claim-t-183039"></a>
 - t-004
   global_id: t-183039
-  teiginys: 'Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas.'
+  teiginys: "Kuršėnuose įvyko paskutinis vadų pasitarimas, kuriame išryškėjo jų nesantarvė ir neveiklumas."
   pagrindžia:
-    - c-004
+    - c-166431
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40509|Virgoličius]]: 1919 m. liepos 26 d. pulkininko Virgoličiaus vadovaujami bermontininkai įžengė į Kuršėnus.
 - susijęs iš [[objektai/asmenys/Virgoličius.md#claim-t-40510|Virgoličius]]: Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
 - susijęs iš [[objektai/grupes/Virgoličiaus rinktinė.md#claim-t-39014|Virgoličiaus rinktinė]]: 1919 m. spalio 5 d. plk. Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.
@@ -80,6 +92,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     jus ir kitaip savivaliauti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,6 +110,7 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     sikėlė į Šiaulius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -119,7 +133,8 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -141,11 +156,100 @@ Tada Kuršėnuose įvyko paskutinis vadų pasitarimas, kur pasirodė didžiausia
     bajorija buvo labai nepatenkinta generolais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Bermontininkai]], [[objektai/grupes/Virgoličiaus rinktinė]]
-- Užėmė Kuršėnai: [[objektai/grupes/Bermontininkai]]
+## Citatos
+
+- id: c-43556
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Bermonto ėmė
+    bręsti karinis konfliktas.
+    1919 m. liepos 26 d. į
+    Kuršėnus įžengė pirmieji
+    bermontininkai, vado-
+    vaujami plk. Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
+  citata_rodoma: "1919 m. liepos 26 d. į\nKuršėnus įžengė pirmieji\nbermontininkai, vado-\nvaujami plk. Virgoličiaus,\nkur ėmė užiminėti pa-\ntalpas, plėšti gyvento-\njus ir kitaip savivaliauti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68379
+
+- id: c-43557
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Virgoličiaus,
+    kur ėmė užiminėti pa-
+    talpas, plėšti gyvento-
+    jus ir kitaip savivaliauti.
+    Spalio 5 d. plk. Virgoličiaus
+    rinktinė iš Kuršėnų per-
+    sikėlė į Šiaulius.
+  citata_rodoma: "Spalio 5 d. plk. Virgoličiaus\nrinktinė iš Kuršėnų per-\nsikėlė į Šiaulius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68378
+
+- id: c-67969
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Norėdami sukilėlių
+    nuotaiką pakelti, vadai nu-
+    sprendė pulti Šiaulius. Ta-
+    čiau ir čia nepasisekus,
+    nuotaika dar labiau nukri-
+    to. Tada Kuršėnuose
+    įvyko paskutinis vadų pa-
+    sitarimas, kur pasirodė di-
+    džiausia tarp jų nesantar-
+    vė: vieni kitiems prikai-
+    šiojo, kiekvienas norėjo
+    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo.
+  citata_rodoma: "Tada Kuršėnuose\nįvyko paskutinis vadų pa-\nsitarimas, kur pasirodė di-\ndžiausia tarp jų nesantar-\nvė: vieni kitiems prikai-\nšiojo, kiekvienas norėjo\nvadovauti, bet nieko neveikė, tiktai paradavo ir puotavo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-68377
+
+- id: c-166431
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ta-
+    čiau ir čia nepasisekus,
+    nuotaika dar labiau nukri-
+    to. Tada Kuršėnuose
+    įvyko paskutinis vadų pa-
+    sitarimas, kur pasirodė di-
+    džiausia tarp jų nesantar-
+    vė: vieni kitiems prikai-
+    šiojo, kiekvienas norėjo
+    vadovauti, bet nieko neveikė, tiktai paradavo ir puotavo. Krašto
+    bajorija buvo labai nepatenkinta generolais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183039

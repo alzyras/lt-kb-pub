@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # lengvoji kavalerija
 
@@ -19,9 +31,9 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 <a id="claim-t-42478"></a>
 - t-001
   global_id: t-42478
-  teiginys: 'Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus.'
+  teiginys: "Lengvoji kavalerija totoriams suteikė taktinį pranašumą, nes raiteliai su savimi vesdavosi po tris atsarginius žirgus."
   pagrindžia:
-    - c-001
+    - c-45531
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 - susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
@@ -51,7 +63,35 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
     rių reidą galėdavo užbėgti jiems už akių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45531
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nuo sėsliai gyvenančių visuomenių atskirti
+    plačių stepių ir turėdami „gerai užrakina-
+    mus Krymo vartus“ - įtvirtintą Perekopo
+    sąsmauką - totoriai turėjo sunkiai pasie-
+    kiamą lizdą, iš kurio, savo ruožtu, galėdavo
+    nesunkiai leistis į tolimus žygius. Taktinį
+    pranašumą sąlygojo jų lengvoji kavalerija.
+    Kiekvienas raitelis su savimi vesdavosi po
+    tris atsarginius žirgus, kuriuos keičiant
+    totorių raiteliai galėdavo judėti taip spar-
+    čiai, jog anaiptol ne visada žinia apie toto-
+    rių reidą galėdavo užbėgti jiems už akių.
+  citata_rodoma: "Taktinį\npranašumą sąlygojo jų lengvoji kavalerija.\nKiekvienas raitelis su savimi vesdavosi po\ntris atsarginius žirgus, kuriuos keičiant\ntotorių raiteliai galėdavo judėti taip spar-\nčiai, jog anaiptol ne visada žinia apie toto-\nrių reidą galėdavo užbėgti jiems už akių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42478

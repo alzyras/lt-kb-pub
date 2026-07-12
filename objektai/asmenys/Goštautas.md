@@ -9,11 +9,6 @@ datos:
   - '1432 m.'
 date_start: '1432'
 date_end: ''
-description: 'Goštautas minimas kaip Vilniaus vaivada, Vytauto pasiuntinys ir 1432 m. politinių įvykių dalyvis; jo vyskupystė abejotina.'
-socialDescription: 'Goštautas siejamas su XV a. Lietuvos didikų politika, Vytauto pasiuntinybėmis, 1432 m. įvykiais prie Ašmenos ir ginčytina tradicija apie pirmąjį Vilniaus vyskupą.'
-seo_atnaujinta: '2026-07-02T20:14:54.888367+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -23,70 +18,82 @@ amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Goštautas (vyskupas, XV a.)
 
 ## Santrauka
 
-Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jogailos, Švitrigailos ir Žygimanto aplinkoje. Jis minimas kaip Vilniaus vaivada, Vytauto pasiuntinys į Korčino seimą ir Žygimanto sąjungininkas 1432 m. įvykiuose prie Ašmenos. Kituose pasakojimuose Goštautui priskiriamas pranciškonų įkurdinimas Vilniuje Algirdo laikais, Podolės vietininko pareigos ir tariama pirmojo Vilniaus vyskupo tapatybė, tačiau ši vyskupystė šaltinyje vertinama kaip abejotina.
+Nuo Gedimino laikų pranciško­ nai ir domininkonai turėjo dvi bažnyčias Vilniuje ir vieną Nau­ garduke, o Algirdui viešpataujant, vienas didikas Goštautas apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­ nuolyną.
 
 ## Teiginiai
 
 <a id="claim-t-113785"></a>
 - t-001
   global_id: t-113785
-  teiginys: 'Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.'
+  teiginys: "Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos."
   pagrindžia:
-    - c-003
+    - c-104972
 
 <a id="claim-t-113786"></a>
 - t-002
   global_id: t-113786
-  teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.'
+  teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių."
   pagrindžia:
-    - c-001
+    - c-104969
 
 <a id="claim-t-113787"></a>
 - t-003
   global_id: t-113787
-  teiginys: 'Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną.'
+  teiginys: "Algirdo valdymo metu didikas Goštautas Vilniuje apgyvendino 12 pranciškonų ir įkūrė jiems vienuolyną."
   pagrindžia:
-    - c-002
+    - c-104970
 
 <a id="claim-t-113788"></a>
 - t-004
   global_id: t-113788
-  teiginys: 'Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu.'
+  teiginys: "Goštautas kai kurių autorių laikytas Podolės vaivada, pranciškonų vienuolynų Vilniuje steigėju ir pirmuoju Vilniaus vyskupu."
   pagrindžia:
-    - c-004
+    - c-104973
 
 <a id="claim-t-113789"></a>
 - t-005
   global_id: t-113789
-  teiginys: 'Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių.'
+  teiginys: "Jogaila išlaisvino Voluinėje į nelaisvę paimtus lietuvių didikus Rumbautą ir Goštautą ir atsiuntė juos Švitrigailai į Vilnių."
   pagrindžia:
-    - c-001
+    - c-104969
 
 <a id="claim-t-184707"></a>
 - t-006
   global_id: t-184707
-  teiginys: 'Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių.'
+  teiginys: "Goštautas buvo vienas iš didikų, kuriuos Vytautas pasikvietė palydovais vykdamas pas imperatorių."
   pagrindžia:
-    - c-005
+    - c-168068
 
 <a id="claim-t-184708"></a>
 - t-007
   global_id: t-184708
-  teiginys: 'Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą.'
+  teiginys: "Vilniaus vaivada Goštautas buvo vienas iš Vytauto pasiuntinių į Korčino seimą."
   pagrindžia:
-    - c-006
+    - c-168069
 
 <a id="claim-t-184709"></a>
 - t-008
   global_id: t-184709
-  teiginys: 'Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.'
+  teiginys: "Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku."
   pagrindžia:
-    - c-007
+    - c-168070
 - susijęs iš [[objektai/asmenys/H. Goštautas.md#claim-t-39734|H. Goštautas]]: Karininkas H. Goštautas vadovavo husarų eskadrono būriui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173205|Petras Goštautas]]: Petras Goštautas pagonišką dievaičių buveinę pavertė bažnyčia ir pašventė ją Šv. Petro vardui.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
@@ -149,7 +156,6 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
 - susijęs iš Aleksandro raštiškas pasižadėjimas dėl Elenos tikėjimo: Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėjimo, kad Elena liks rusų tikėjimo ir nebus verčiama pereiti į Romos tikėjimą.
 - susijęs iš Alšėnai: Voložine išgirdęs apie Žygimanto mirtį, Jonas Goštautas išskubėjo į Alšėnus pas Jurgį Simonaitį Alšėniškį.
 - susijęs iš Krokuva: Grzybowskio teigimu, Goštautas pranciškonu tapo Krokuvoje, o vėliau Vilniuje vertė miestiečius į krikščionybę.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoj nepatogios perkėlos.
 - susijęs iš Palenkė: Apie 1345 m. Goštautas šalies reikalais išvyko į Tikociną Palenkėje.
 - susijęs iš Podolė: Visa Lietuva rengėsi karui dėl Podolės, bet apsiribojo grasinimais ir kariuomenės telkimu.
 - susijęs iš Poleksija: Goštautui išvykus į Tikociną Palenkėje, arba Poleksijoje, Vilniuje minia nužudė krikščionių tikėjimo skelbėjus.
@@ -159,8 +165,6 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
 - susijęs iš Tikocinas: Goštautas kartą išvyko į Tikociną Palenkėje, arba Poleksijoje.
 - susijęs iš Ulriko Hozijaus tiltas per Viliją: 1536 metais Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
 - susijęs iš Vilija: Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.
 - susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
 - susijęs iš Vilnius: Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno.
 - susijęs iš Vingrių pelkė: Goštautas pakvietė vienuolių būrį į Vilnių, paskyrė jiems vietą netoli Vingrių pelkės ir žadėjo ten pastatyti Švč. Mergelės Marijos bažnyčią.
@@ -172,6 +176,8 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
 - susijęs iš [[objektai/zodynas/seniūnas.md#claim-t-187529|seniūnas]]: Algirdo valdymo laikotarpiu Vilniaus ir Trakų vaivadų pareigybių dar nebuvo; iki 1413 m. panašias funkcijas vykdė seniūnai.
 - susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185395|stabmeldžių apeigos]]: Goštauto globojami vienuoliai stengėsi įveikti stabmeldžių prietarus.
 - susijęs iš [[objektai/zodynas/vaivada.md#claim-t-187532|vaivada]]: Vilniaus ir Trakų vaivadų pareigybės įvestos 1413 m.; iki tol panašias vaivadų funkcijas vykdė seniūnai.
+- susijęs iš Vilniaus tiltas per Viliją: 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
+- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187736|Ponų taryba (institucija)]]: Kazimieras ir Didžiosios Kunigaikštystės Ponų taryba pasiuntė Joną Goštautą su kariuomene susigrąžinti nuo LDK atsiskyrusių miestų.
 ## Reikšmingi paminėjimai
 
@@ -198,7 +204,8 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     magistrui 1432 metų sausio 5 dieną.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -217,6 +224,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     nuolyną. Tuo pačiu laiku pranciškonai įsikūrė ir Lydoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -272,6 +280,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,6 +308,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     Goštauto tariamą vienuolystę ir vyskupystę, atmeta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -324,6 +334,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -346,6 +357,7 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     dovo reikalavimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -373,17 +385,229 @@ Goštautas šaltiniuose siejamas su Lietuvos didikų politine veikla Vytauto, Jo
     mis, nelietęs krašto, pavaldaus Lietuvai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
 
+## Citatos
+
+- id: c-104969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau šį sumanymą ir slaptus pasitarimus su Žygiman­
+    tu sugebėta išlaikyti gilioje paslaptyje. Jogaila, kad greičiau
+    įgyvendintų savo ketinimus, netgi sugebėjo sumaniai nu­
+    raminti jau nujautusį savo nesaugumą Švitrigailą, kai pa­
+    imtus į nelaisvę paskutiniame kare Voluinėje du lietuvių
+    didikus - Rumbautą ir Goštautą - išlaisvino ir atsiuntė jam
+    į Vilnių13.
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113786
+    - t-113789
+
+- id: c-104970
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Mindaugo krikštas ir kitų didžiųjų Lietuvos kunigaikščių,
+    kaip Gedimino, Algirdo ir Kęstučio mėginimai įvesti Lietuvoje
+    katalikų tikėjimą, rodė, kad Lietuva linksta i Vakarus, į Ro­
+    mos Bažnyčios prieglobstį. Nuo Gedimino laikų pranciško­
+    nai ir domininkonai turėjo dvi bažnyčias Vilniuje ir vieną Nau­
+    garduke, o Algirdui viešpataujant, vienas didikas Goštautas
+    apgyvendino Vilniuje dar 12 pranciškonų ir įkūrė jiems vie­
+    nuolyną. Tuo pačiu laiku pranciškonai įsikūrė ir Lydoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113787
+
+- id: c-104972
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+    Jame rašo, kad, gavęs laišką nuo ka­
+    raliaus, pastarasis išlaisvinęs Ram-
+    poldą ir Gastoldą ir jam atidavęs, ti­
+    kisi netrukus galėsiąs tą patį
+    didžiajam magistrui pranešti apie
+    landmaršalką bei kitus belaisvius,
+    kadangi jo pasiuntinys juos matęs
+    laisvus ir pietus su karaliumi val­
+    gančius pirmąją dieną. Žr. Kotze­
+    bue Switrig., p. 6 9 .
+    14
+    Dabartinė Ašmena, Vilniaus guber­
+    nijos apskrities miestas, nutolęs nuo
+    Vilniaus per 7 mylias, anais laikais
+    tebuvo kaimas, kitados išaugęs ša­
+    lia kunigaikščio dvaro, dabar Staros-
+    cino.-O pats miestas buvęs ten, kur
+    dabar stovi pranciškonų vienuoly­
+    nas bei mažas kaimelis, priklausan­
+    tis vienuolynui, čia pat, už dabarti­
+    nio miesto, vadinamas Senąja
+    Ašmena. Švitrigailos dvaras stovėjo
+    kaip tik toje vietoje, kur ir dabarti­
+    nis dvaras.
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113785
+
+- id: c-104973
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu. Bet­
+    gi Strijkovskio apie tai nė žodžiu nėra užsiminta, o jis, žinia,
+    i
+    Grzybowski knygoje Skarb
+    nieoszacowany O O. Franciszkanów.
+    189
+
+    ## Puslapis 206
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    savo Kronikoje nebūtų tos aplinkybės nutylėjęs, jeigu ji tik
+    būtų tikra, taigi tą, tikriausiai Gžibovskio prasimanytą,
+    Goštauto tariamą vienuolystę ir vyskupystę, atmeta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113788
+
+- id: c-168068
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vis dėlto buvo pamato būgštauti, kad jie gali
+    nepaisyti teisėto susitarimo iš palankumo žmonėms, su
+    kuriais susiję kalba ir kilme. Vytautas pats ėmėsi šio
+    uždavinio: pasikvietęs į palydovus didikus Goštautą,
+    Rumbaudą bei Radvilą, jis išvyko pas imperatorių.
+    Prieš tai susitarė slaptai su karaliumi (apie tai žinojo
+    tiktai karalystės pakancleris Trombą), kad, Vytautui
+    376
+
+    ## Puslapis 375
+
+    išsiaiškinus, jog imperatorius bei jo brolis neabejingi
+    jų reikalui, kuo greičiausiai, niekam nieko nesakyda­
+    mas, ten išvyks ir Jogaila patvirtinti naujo susitarimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184707
+
+- id: c-168069
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  citata_originali: |
+    Po to prasidėjo ilgos tarpusavio rietenos, kurias
+    nuolat kurstė ir Vytautas, ir
+    lenkai, siuntinėdami žygūnus:
+    Lietuvos didysis kunigaikštis
+    stengėsi iš lenkų išgauti suti­
+    kimą, o šie — priversti Vy­
+    tautą atsisakyti savo sumany­
+    mo. Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184708
+
+- id: c-168070
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 488"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 488."
+  citata_originali: |
+    Mirus Konstantinui Karijotaičiui, Podolės kuni­
+    gaikščiui, į jo vietą Algirdas paskyręs Teodorą, jo brolį.
+    Kadangi šis išdrįsęs nepaklusti Lietuvos kunigaikš­
+    čiui, pastarasis jį sumušęs, o Podolę pavertęs savo val­
+    da, paskirdamas vietininku Goštautą. Atidžiau pavartę
+    praėjusių laikų istoriją, lenkai, be abejo, gautų akivaiz­
+    džių įrodymų, jog tuo metu, kai Kazimieras Didysis rei­
+    kalavo, remdamasis giminyste, po Boleslovo, Mazovijos
+    kunigaikščio, mirties dalies Rusios žemių, esančių tarp
+    Lvovo ir Galičo, kita Podolės dalis priklausė lietuviams:
+    būtent
+    Liubartui — Lvovas,
+    Goštautui — Kamenecas,
+    Narimantui — Kremenecas, Kęstučiui — kitos pilys ir
+    dvarai, todėl, pasitenkinęs Boleslovo turėtomis valdo­
+    mis, nelietęs krašto, pavaldaus Lietuvai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184709
+
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Žygimantas]]
-- Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]]
-- Goštautas (vyskupas, XV a.) valdė [[objektai/vietos/Podolė]]
-- Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Ašmena]], [[objektai/vietos/Korčinas]], [[objektai/vietos/Tikocinas]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Voložinas]]
-- Goštautas (vyskupas, XV a.) pastatė [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) užėmė [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]
-- Goštautas (vyskupas, XV a.) gyveno [[objektai/vietos/Smolenskas]], [[objektai/vietos/Vilnius]]
-- Goštautas (vyskupas, XV a.) rėmė [[objektai/grupes/Pranciškonų ordinas]]
+- Paskyrė Goštautą (vyskupas, XV a.): [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- Goštautas (vyskupas, XV a.) keliavo į [[objektai/vietos/Alšėnai]], [[objektai/vietos/Tikocinas]]

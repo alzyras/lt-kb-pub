@@ -17,6 +17,18 @@ amziai:
   - 'XXI'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Eidintas A
 
@@ -29,24 +41,23 @@ Eidintas A. Eidintas A., Senn A.
 <a id="claim-t-19391"></a>
 - t-001
   global_id: t-19391
-  teiginys: 'A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.'
+  teiginys: "A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m."
   pagrindžia:
-    - c-001
+    - c-22128
 
 <a id="claim-t-19392"></a>
 - t-002
   global_id: t-19392
-  teiginys: 'A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai.'
+  teiginys: "A. Eidintas, A. E. Sennas ir V. Žalys yra leidinio „Lithuania in European Politics“ autoriai."
   pagrindžia:
-    - c-002
+    - c-166733
 
 <a id="claim-t-183342"></a>
 - t-003
   global_id: t-183342
-  teiginys: 'A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“.'
+  teiginys: "A. Eidintas kartu su A. E. Sennu ir V. Žaliu parengė leidinį „Lithuania in European politics“."
   pagrindžia:
-    - c-002
-
+    - c-166733
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,6 +68,7 @@ Eidintas A. Eidintas A., Senn A.
     Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -70,8 +82,42 @@ Eidintas A. Eidintas A., Senn A.
     politics. The Years of the First Republic, 1918–1940. New York, 1997.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-002
+
+## Citatos
+
+- id: c-22128
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1 t., Vil-
+    nius, 1999.
+    Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012.
+  citata_rodoma: "Eidintas A. Antanas Smetona ir jo aplinka. Vilnius, 2012."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-19391
+
+- id: c-166733
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Eidintas A., Senn A. E., Žalys V., edit. E. Tuskenis. Lithuania in European
+    politics. The Years of the First Republic, 1918–1940. New York, 1997.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183342
+    - t-19392

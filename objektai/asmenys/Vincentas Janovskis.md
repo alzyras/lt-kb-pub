@@ -15,6 +15,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vincentas Janovskis (teisėjas, XIX a.)
 
@@ -27,10 +39,9 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
 <a id="claim-t-186507"></a>
 - t-001
   global_id: t-186507
-  teiginys: 'Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus.'
+  teiginys: "Aleksandro Bychovco perduotą Bychovco kronikos rankraštį Vincentas Janovskis 1834 m. vasario 4 d. persiuntė Teodorui Narbutui į Saurus."
   pagrindžia:
-    - c-001
-
+    - c-169845
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,29 @@ Vincentas Janovskis buvo teisėjas, per kurį 1834 m. vasario 4 d. Bychovco kron
     paviete, Nočios parapijoje.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: tiesioginė-citata
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169845
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 9"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 9."
+  citata_originali: |
+    T. Narbuto prašomas, rankraščio savininkas Alek­
+    sandras Bychovcas perdavė jį istoriko pažįstamam tei­
+    sėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per­
+    siuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos
+    paviete, Nočios parapijoje.
+  citata_rodoma: "T. Narbuto prašomas, rankraščio savininkas Alek-\nsandras Bychovcas perdavė jį istoriko pažįstamam tei-\nsėjui Vincentui Janovskiui, o pastarasis 1834.II.4 per-\nsiuntė rankraštį T. Narbutui į jo Saurų dvarelį Lydos\npaviete, Nočios parapijoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186507

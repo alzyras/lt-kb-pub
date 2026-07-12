@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # luomai
 
@@ -17,37 +29,44 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 <a id="claim-t-185356"></a>
 - t-001
   global_id: t-185356
-  teiginys: 'Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo.'
+  teiginys: "Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luomų pritarimo."
   pagrindžia:
-    - c-001
+    - c-168717
 
 <a id="claim-t-185357"></a>
 - t-002
   global_id: t-185357
-  teiginys: 'Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.'
+  teiginys: "Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui."
   pagrindžia:
-    - c-002
+    - c-168718
 
 <a id="claim-t-185358"></a>
 - t-003
   global_id: t-185358
-  teiginys: 'Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo.'
+  teiginys: "Korčino seimo luomų susirinkime Goštautas ir Rumbaudas išdėstė Vytauto reikalavimus dėl vainikavimo."
   pagrindžia:
-    - c-003
+    - c-168719
 
 <a id="claim-t-185359"></a>
 - t-004
   global_id: t-185359
-  teiginys: 'Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.'
+  teiginys: "Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką."
   pagrindžia:
-    - c-004
+    - c-168720
 
 <a id="claim-t-185361"></a>
 - t-005
   global_id: t-185361
-  teiginys: 'Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams.'
+  teiginys: "Pasiuntiniams buvo uždrausta ką nors spręsti, todėl apie viską jie turėjo pranešti Bresto seime susirinkusiems luomams."
   pagrindžia:
-    - c-005
+    - c-168722
+
+<a id="claim-t-193380"></a>
+- t-006
+  global_id: t-193380
+  teiginys: "N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija."
+  pagrindžia:
+    - c-176105
 - susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185940|Augustas]]: Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184733|Jogaila (kunigaikštis, XIV–XV a.)]]: Iš Lucko grįžęs į Lenkiją, Jogaila Korčine sukvietė seimą, kad luomai nuspręstų, kaip priešintis Vytauto siekiams.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
@@ -92,6 +111,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
 - susijęs iš [[objektai/zodynas/Rusios didysis kunigaikštis.md#claim-t-185410|Rusios didysis kunigaikštis]]: Kijevo luomai pasveikino Gediminą kaip Kijevo ir Rusios didįjį kunigaikštį ir prisiekė su visomis žemėmis paklusti jo valdžiai.
 - susijęs iš [[objektai/zodynas/archikamerarijus.md#claim-t-185398|archikamerarijus]]: Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio miegamojo prižiūrėtoju, vadintu archikamerarijumi.
 - susijęs iš [[objektai/zodynas/graikų schizma.md#claim-t-185386|graikų schizma]]: Konstantinas, išpažindamas rusų tikėjimą, prisidėjo prie graikų schizmos ir išsižadėjo paklusnumo Romos popiežiui.
+- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-195008|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -113,6 +133,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -135,6 +156,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     paklusnumo popiežiui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -155,6 +177,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     karalius bei karalystės luomai pritartų jo vainikavimui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,6 +203,7 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     didžiai iškilnius savo siekius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -200,7 +224,171 @@ Karalius atsakė, kad svarbiais valstybės reikalais negali nieko nutarti be luo
     džiosios K unig aik šty stės sienos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+- c-006
+  santrauka: 'N o rs L ietuvos luom ai šiuo m etu įsitrau k ę į k a m u o ja n tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a rėsi dėl būd ų g alu tin ai L ietuvą su v ien y ti su L enkija.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    L ietuviai, su šau k ę B reste lu o ­
+    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
+    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
+    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
+    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
+    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
+    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
+    u n ijo s p ag rin d ais.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-168717
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šitaip paprastai esti, kai vienoje
+    valstybėje gyvena skirtingos tautos, tada kiekvienai
+    rūpi savo reikalai, tada kiekviena baudžiasi tvarkyti
+    krašto reikalus taip, kad nuostolių turėtų kita tauta,
+    o ne ji pati. Gal vengdamas aiškaus atsakymo į kry­
+    žiuočių klausimą, gal norėdamas turėti laiko pasitarti,
+    373
+
+    ## Puslapis 372
+
+    karalius atsakė, kad jis viešpataująs valstybėje, kurio­
+    je svarbiais reikalais nieko negalįs nutarti be luomų
+    pritarimo. Atleidęs žygūną, jis sušaukė Lenčicoje seimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185356
+
+- id: c-168718
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 383"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 383."
+  citata_originali: |
+    Visi Lietuvos
+    iuvoje
+    bažnyčios tarnai, jų valdos ir
+    pačias privilegijas, kokias šiuo metu turi šio luomo žmo­
+    nės Lenkijoje. Valdovas gali skirti į aukštąsias bei vie­
+    šąsias pareigybes tik Romos tikėjimo žmones, iš tų vie­
+    tų turi būti šalinami ne tik stabmeldžiai, bet ir krik­
+    ščionys, išsižadėję paklusti Romos popiežiui. Bajorų
+    luomui pripažintos lengvatos negali būti teikiamos
+    tiems, kurie neišpažįsta katalikų tikėjimo ir išsižada
+    paklusnumo popiežiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185357
+
+- id: c-168719
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 418"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 418."
+  citata_originali: |
+    Į Korčino seimą Vytautas iš pradžių nusiuntė Vil­
+    niaus vaivadą Goštautą bei Lietuvos maršalą Rumbaudą.
+    Luomų susirinkime jie trumpai, bet aiškiai išdėstė val­
+    dovo reikalavimus. Vytautas,
+    Vytauto pasiuntinybė
+    kaip laisvos tautos laisvas
+    valdovas, o ne dėl to, kad
+    žiūri vien savo reikalų, taip ryžtingai reikalaująs, kad
+    karalius bei karalystės luomai pritartų jo vainikavimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185358
+
+- id: c-168720
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 420"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 420."
+  citata_originali: |
+    Beje, ir Jogaila, smarkiai pasenęs ir su­
+    vokęs, jog valdymo našta dabar kur kas sunkesnė, nei
+    jis gali pakelti, be to, turėdamas mažametį ir negalintį
+    valdyti sūnų, ne taip jau labai būgštavo, kad Vytautas
+    tapsiąs jo įpėdiniu, guosdamasis viltimi, jog šis nebe-
+    susilauksiąs įpėdinių. Kai karalius bei luomai nuspren­
+    dė atverti Vytautui kitokias perspektyvas ir pasiūlyti
+    jam Lenkijos karalystės vainiką, pasiuntinybės vadovas,
+    pasak metraštininkų, prabilo šitokiais žodžiais. Lenkai
+    gerai žiną, jog Vytauto tikslas — vienaip ar kitaip gauti
+    karaliaus vardą bei karūną, todėl lenkų valstybės luo­
+    mų seimas nutaręs pasiūlyti jam vainiką, kurį pasiėmęs
+    jis nepadarysiąs jokios žalos valstybei ir patenkinsiąs
+    didžiai iškilnius savo siekius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185359
+
+- id: c-168722
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 734"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 734."
+  citata_originali: |
+    K okį atsak y m ą
+    g avo p asiuntin iai, šaltin iai n erašo . K ad iš esm ės n iek o
+    n eb u v o  su tarta, rodo v ėlesn i įvykiai: p asiu n tin iam s b u ­
+    v o  u žd rau sta b et k ą  spręsti, ir jie  tu rė jo  ap ie v isk ą p ra ­
+    n ešti luom am s, susirinkusiem s į B resto seim ą. Be abejo,
+    jie  n o rė jo  unijos, b et tokios, k ad n eb ū tų  p ažeistas v a l­
+    stybės orum as, p ak e ista p areig y b ės ir teism ai, b e to,
+    įstatym ai, p riv ileg ijo s, p ap ro čiai, p ag aliau  L ietuvos Di­
+    džiosios K unig aik šty stės sienos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185361
+
+- id: c-176105
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 733"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 733."
+  citata_originali: |
+    L ietuviai, su šau k ę B reste lu o ­
+    m us, n u siu n tė atsto v u s į Liubliną, k u r liepos 8 d. rin ­
+    kosi len k ų  seim as. P asiu n tin iai tu rė jo  p areik šti štai ką.
+    N o rs L ietuvos luom ai šiuo m etu  įsitrau k ę į k a m u o ja n ­
+    tį ir grėsm ingą k arą, vis dėlto, p arag in ti k a raliau s Ž y­
+    gim anto A ugusto, jie n o riai su v ažiav ę į B restą, k u r t a ­
+    rėsi dėl būd ų  g alu tin ai L ietuvą su v ien y ti su L enkija
+    u n ijo s p ag rin d ais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193380

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Turkija
 
@@ -27,9 +39,9 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 <a id="claim-t-170860"></a>
 - t-001
   global_id: t-170860
-  teiginys: 'Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.'
+  teiginys: "Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką."
   pagrindžia:
-    - c-001
+    - c-155467
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
 - susijęs iš [[objektai/asmenys/J. Sobieskis.md#claim-t-80734|J. Sobieskis]]: J. Sobieskis 1683 m. pradėjo karą su Turkija.
@@ -97,10 +109,34 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
     Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Turėjo priklausinį: [[objektai/grupes/Krymo chanatas]]
+## Citatos
+
+- id: c-155467
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-
+    tuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos
+    miestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir
+    ieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-
+    galvoji, kiek dar tokių vardų slepia Lietuva?
+    Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-
+    vičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos
+    scenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m. gimęs ir
+    mokęsis smuiko virtuozas Jascha Heifetz (Jaša Heifecas), parodas atidaro
+    ne tik dailininkai Stasys Kuzma ar Petras Repšys, bet ir Vakaruose garsūs
+    Chaim Soutin (Chaimas Sutinas), Jacques Lipchitz (Žakas Lipšicas) ar
+  citata_rodoma: "Visos šios pasaulinės teatro ir kino žvaigždės yra Lie-\ntuvos emigrantai arba kilusios iš jų šeimų. O kai pamatai po provincijos \nmiestelį Tryškius vaikštantį Erkiulį Puaro – aktorių Davidą Suchetą – ir \nieškantį savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR, pa-\ngalvoji, kiek dar tokių vardų slepia Lietuva?\nFantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinke-\nvičiaus ir Donato Katkaus orkestrais koncertuoja ne tik visose Europos \nscenose šiandien žinoma Violeta Urmana, bet ir Vilniuje 1901 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-170860

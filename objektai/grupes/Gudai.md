@@ -1,0 +1,79 @@
+---
+tipas: grupe
+pavadinimas: 'Gudai'
+saltiniai:
+  - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - grupe
+  - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Gudai
+
+## Santrauka
+
+Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
+
+## Teiginiai
+
+<a id="claim-t-193303"></a>
+- t-001
+  global_id: t-193303
+  teiginys: "Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais."
+  pagrindžia:
+    - c-176031
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195511|Dotnavos gudai]]: Dotnavos gudai su vietiniais gyveno jau antrą šimtmetį.
+- susijęs iš [[objektai/grupes/Dotnavos gudai.md#claim-t-195512|Dotnavos gudai]]: Dotnavos gudai nuo vietinių skyrėsi kalba ir būdu.
+- susijęs iš Daugava: Anapus Daugavos iki Gaujos gyvenusius lietuvius vadino latviais, o jų kraštą – Latvija.
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu jis norėjo ten sudaryti
+    tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
+    denis bloguoju gyveno (jis užėmė net jos valdytą Drohičiną).
+    Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
+    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
+    ne tik Mozūrus, bet ir tolimąją Krokuvą.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176031
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo būdu jis norėjo ten sudaryti
+    tvirtesnę atsparą prieš Voluinės kunigaikštystę, su kuria Trai-
+    denis bloguoju gyveno (jis užėmė net jos valdytą Drohičiną).
+    Mažiausia rūpesčių Traidenis turėjo su kaimynais gudais.
+    Tačiau su lenkais jam tekdavo nemažai kariauti; jis pasiekdavo
+    ne tik Mozūrus, bet ir tolimąją Krokuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193303

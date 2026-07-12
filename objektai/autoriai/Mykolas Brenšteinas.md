@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - autorius
   - ginklas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mykolas Brenšteinas
 
@@ -20,10 +32,9 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
 <a id="claim-t-34880"></a>
 - t-001
   global_id: t-34880
-  teiginys: 'Mykolas Brenšteinas, remdamasis kronikomis, manė, kad Vytauto laikų pabaigoje lietuvių artilerija jau buvo nemenka.'
+  teiginys: "Mykolas Brenšteinas, remdamasis kronikomis, manė, kad Vytauto laikų pabaigoje lietuvių artilerija jau buvo nemenka."
   pagrindžia:
-    - c-001
-
+    - c-36105
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,7 +51,32 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
     jos dėl savo aukštų kainų lietuviams buvo neįperkamos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-36105
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­
+    mis, mano, kad Vytauto amžiaus gale lietuvių artilerija buvo jau
+    nemenka ir kad to amato lietuviai išmokę iš kryžiuočiu; iš jų
+    retais atsitikimais gaudavę ir patranką. Vytautas Vilniuje tu­
+    rėjo įsteigęs tų pabūklų dirbtuvę. Jų gaudavo taip pat iš Ry­
+    gos ir Krokuvos. Tačiau visi šie parako ginklai nebuvo kurio
+    nors metalo liejiniai, bet sulenkti ir sunituoti paprastos geležies
+    vamzdžiai. Lietų patrankų buvo tada tik Vakarų Europoje; bet
+    jos dėl savo aukštų kainų lietuviams buvo neįperkamos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-34880

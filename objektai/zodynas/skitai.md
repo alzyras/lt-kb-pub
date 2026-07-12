@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # skitai
 
@@ -23,44 +35,44 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
 <a id="claim-t-185338"></a>
 - t-001
   global_id: t-185338
-  teiginys: 'Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją.'
+  teiginys: "Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti Jerim Berdį į Skitiją."
   pagrindžia:
-    - c-001
+    - c-168699
 
 <a id="claim-t-185339"></a>
 - t-002
   global_id: t-185339
-  teiginys: 'Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju.'
+  teiginys: "Skitai dviem žygio voromis užpuolė Lenkiją ir siaubė ją ugnimi bei kalaviju."
   pagrindžia:
-    - c-002
+    - c-168700
 
 <a id="claim-t-185340"></a>
 - t-003
   global_id: t-185340
-  teiginys: 'Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms.'
+  teiginys: "Kovos pradžioje skitai iš tolo apšaudė priešininkus strėlėmis dar neprasidėjus tikroms kautynėms."
   pagrindžia:
-    - c-003
+    - c-168701
 
 <a id="claim-t-185341"></a>
 - t-004
   global_id: t-185341
-  teiginys: 'Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas.'
+  teiginys: "Krymo skitų antpuoliai turėjo būti atremiami, o turkų pusiasalis neliečiamas."
   pagrindžia:
-    - c-004
+    - c-168702
 
 <a id="claim-t-185342"></a>
 - t-005
   global_id: t-185342
-  teiginys: 'Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją.'
+  teiginys: "Priešas, neįveikęs pilies, apiplėšė apylinkę ir patraukė į Skitiją."
   pagrindžia:
-    - c-005
+    - c-168703
 
 <a id="claim-t-185343"></a>
 - t-006
   global_id: t-185343
-  teiginys: 'Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius.'
+  teiginys: "Paaiškinimuose nurodoma, kad A. Kojelavičius skitais vadina mongolus bei totorius."
   pagrindžia:
-    - c-006
+    - c-168704
 - susijęs iš [[objektai/asmenys/Ibrahimas.md#claim-t-186112|Ibrahimas]]: Ibrahimas vadovavo turkams, atėjusiems į pagalbą Krymo skitams jų išpuoliuose prieš lietuvių žemes.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185964|Jonas Olbrachtas]]: 1489 m. Jonas Olbrachtas sutelkė Rusioje ir Lietuvoje kariuomenę ir prie Savranės upės susikovė su skitais.
 - susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
@@ -110,6 +122,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,6 +158,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     virame lauke susikovė su priešu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -168,6 +182,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     iš lankų, priversti kautis kardais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,6 +203,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     susimanytų griebtis prieš jį ginklo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -209,6 +225,7 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     sūnus Mechmet Girėjus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -230,7 +247,159 @@ Lietuvos maršalas Mikalojus Radvila turėjo sutelkti kariuomenę ir palydėti J
     A. Kojelavičius skitais vadina mongolus bei totorius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-168699
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 397"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 397."
+  citata_originali: |
+    Todėl ir Jerim Berdį iškilmingai paskelbė
+    teisėtu valdovu; kad niekas nesakytų, jog jis iš draugo
+    norėjęs tik pasityčioti, iškilmingai suteikdamas nieko
+    nereiškiantį titulą, pasiryžo visaip jį paremti ir sugrą­
+    žinti į valdžią. Jis įsakė Lietuvos maršalui Mikalojui
+    Radvilai skubiai sutelkti Lietuvos žemėse didelę kariuo­
+    menę ir su ja palydėti Jerim Berdį į Skitiją. Vykdyda­
+    mas šį įsakymą, Radvila ir patraukė į skitų kraštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185338
+
+- id: c-168700
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 533"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 533."
+  citata_originali: |
+    Štai
+    todėl pasirūpino, kad popiežius Inocentas paskelbtų
+    Fridrichą Krokuvos arkivyskupu ir įtrauktų į šventąją
+    kardinolų tarybą, be to, visomis priemonėmis stengė­
+    si pelnyti lenkų palankumą Jonui Olbrachtui, kurį ke­
+    tino palikti savo įpėdiniu. Todėl, sužinojęs, jog skitai
+    dviem žygio voromis užpuolė Lenkiją, siaubdami ją ug­
+    nimi ir kalaviju, jis ryžtingiau nei bet kada anksčiau
+    pradėjo rūpintis Lietuvos reikalais ir įsitraukė į karą
+    dėl Podolės, o sūnui karštai nurodė kuo apdairiausiai
+    pavaduoti karalių karo stovykloje. Kunigaikštis Jonas
+    Olbrachtas, uoliai vykdyda-
+    1489 m eta i
+    mas, kas buvo tėvo nurodyta,
+    K u n ig a ik štis
+    J o n a s
+    greitai sutelkė Rusioje ir Lie-
+    O lb ia c h ta s
+    sum u ša
+    tuvoje kariuomenę ir, patrau-
+    sk itu s
+    kęs į priekį su ryžtingiausiais
+    vyrais, prie Savranės upės at­
+    virame lauke susikovė su priešu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185339
+
+- id: c-168701
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Gurguolės, saugomos
+    nedidelio būrio, lėtai slinko iš paskos. Kovos pradžia
+    buvo gana sunki, nes, neprasidėjus tikroms kautynėms,
+    skitai iš tolo juos apšaudė strėlėmis. Štai todėl kuni­
+    gaikštis paragino savuosius paspaudus žirgus pentinais
+    5 3 5
+
+    ## Puslapis 534
+
+    šuoliais užpulti pagrindines priešų jėgas, susispietu­
+    sias apie jų kovos žymenį, ir, neleidžiant šaudyti
+    iš lankų, priversti kautis kardais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185340
+
+- id: c-168702
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 580"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 580."
+  citata_originali: |
+    Tiesa, karalius jį iškvietęs iš vietų, kur gyveno jo pro­
+    tėviai, bet juk jam buvę paskirti dideli plotai už Ki­
+    jevo. Antra vertus, jam laiku buvę pranešta, kad jo
+    uždavinys visomis jėgomis puldinėti Maskvos kuni­
+    gaikštystę, bet neliesti turkų pusiasalio, tiesa, atre-
+    miant visus įprastinius Krymo skitų antpuolius. Štai
+    dėl to karalius jam ir siūlęs įsikurti arčiau maskvėnų
+    žemių, kad Krymo skitai, išvydę jį kaimynystėje, ne­
+    susimanytų griebtis prieš jį ginklo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185341
+
+- id: c-168703
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  citata_originali: |
+    Netoliese, toje vietoje, kur Nemunas netrukdo rengti
+    išpuolių, įvyko smarkios kautynės, visa apylinkė liko
+    nusiaubta kalaviju ir ugnimi, tačiau, puldami pilį, ne­
+    susilaukė sėkmės. Vaivada Goštautas, pilies seniūnas
+    Maskevičius, Jonas Trizna, Nemyra ir kiti karvedžiai
+    taip nukamavo priešą, šaudydami iš patrankų bei reng­
+    dami išpuolius, kad tas, nebesitikėdamas užkariauti pi­
+    lies, apiplėšė apylinkę ir patraukė į Skitiją. Kur kas
+    smarkiau ir plačiau nusiaubė Lietuvą Mengli Girėjaus
+    sūnus Mechmet Girėjus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185342
+
+- id: c-168704
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    PABAIGA
+
+    ## Puslapis 755
+
+    P A A IŠ K IN IM A I
+    1 Skitais senovėje vadinta tautos, gyvenusios šiaurinėse Juodo­
+    sios jūros pakrantėse 7—3 a. prieš m. e. Manoma, kad jie priklausė
+    indoeuropiečių kalbų šeimos iranėnų grupei. Herodotas bei romėnų
+    autoriai rašė apie skitus kaip apie gerus karius, laukinius žmones.
+    A. Kojelavičius skitais vadina mongolus bei totorius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185343

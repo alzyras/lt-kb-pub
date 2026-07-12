@@ -1,0 +1,68 @@
+---
+tipas: saltinis
+pavadinimas: 'Karamzin, Istorija Gosudarstva Rossijskogo'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Karamzin, Istorija Gosudarstva Rossijskogo
+
+## Santrauka
+
+Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin.
+
+## Teiginiai
+
+<a id="claim-t-194897"></a>
+- t-001
+  global_id: t-194897
+  teiginys: "Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin."
+  pagrindžia:
+    - c-177293
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Tad jei laimin gas atsitiktinumas leido užklydusiems su gotais į Rytus 1 Karamzin.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tad jei laimin­
+    gas atsitiktinumas leido užklydusiems su gotais į Rytus
+    1 Karamzin. Istor. Hosud, Ross. T. II. S. 25 (2-asis leidimas).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-177293
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 298"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 298."
+  citata_originali: |
+    Tad jei laimin­
+    gas atsitiktinumas leido užklydusiems su gotais į Rytus
+    1 Karamzin. Istor. Hosud, Ross. T. II. S. 25 (2-asis leidimas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194897

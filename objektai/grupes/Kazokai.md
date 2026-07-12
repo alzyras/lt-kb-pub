@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XVII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kazokai
 
@@ -31,44 +43,51 @@ amziai:
 <a id="claim-t-65304"></a>
 - t-001
   global_id: t-65304
-  teiginys: 'Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus.'
+  teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
   pagrindžia:
-    - c-006
+    - c-42707
 
 <a id="claim-t-65305"></a>
 - t-002
   global_id: t-65305
-  teiginys: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
+  teiginys: "Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą."
   pagrindžia:
-    - c-003
+    - c-42704
 
 <a id="claim-t-65306"></a>
 - t-003
   global_id: t-65306
-  teiginys: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
+  teiginys: "Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija."
   pagrindžia:
-    - c-004
+    - c-42705
 
 <a id="claim-t-65307"></a>
 - t-004
   global_id: t-65307
-  teiginys: '1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką.'
+  teiginys: "1906 m. pavasarį caro valdžia kazokų ir kariuomenės pastangomis atkūrė savo kiek pakoreguotą tvarką."
   pagrindžia:
-    - c-002
+    - c-22455
 
 <a id="claim-t-65308"></a>
 - t-005
   global_id: t-65308
-  teiginys: '1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.'
+  teiginys: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai."
   pagrindžia:
-    - c-001
+    - c-22454
 
 <a id="claim-t-65309"></a>
 - t-006
   global_id: t-65309
-  teiginys: 'Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus.'
+  teiginys: "Kazokai buvo lengvoji raitija, kurios paskirtis buvo paremti husarus mūšyje ir naikinti jų sumuštus eskadronus."
   pagrindžia:
-    - c-005
+    - c-42706
+
+<a id="claim-t-183655"></a>
+- t-007
+  global_id: t-183655
+  teiginys: "Kazokai vijosi bėgantį priešą, įsiveržė į turkų artilerijos baterijų pozicijas, išžudė jų tarnybas ir sugadino pabūklus."
+  pagrindžia:
+    - c-167047
 - susijęs iš Vilnius: 1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
 - susijęs iš Ašmena: 1655 m. liepą rusai ir jų sąjungininkai kazokai sumušė lietuvius prie Ašmenos ir priartėjo prie Vilniaus.
@@ -184,7 +203,8 @@ amziai:
     rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -200,7 +220,8 @@ amziai:
     zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -221,6 +242,7 @@ amziai:
     mišką ir ten juos sunaikinti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -238,6 +260,7 @@ amziai:
     letą lengvosios kavalerijos - „lisovčikų“
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -262,6 +285,7 @@ amziai:
     1621 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -282,6 +306,7 @@ amziai:
     pozicijas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -301,21 +326,163 @@ amziai:
     turkų stovyklą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
+## Citatos
+
+- id: c-22454
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Du įvykiai turėjo nemažą įtaką lietuvių tautinio sąmoningumo for-
+    mavimuisi. 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti
+    kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-
+    kę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-
+    rų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“.
+  citata_rodoma: "1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti\nkazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirin-\nkę miestelio gyventojai. Buvo sužeistų ir užmuštų, išprievartautų mote-\nrų – liaudis tuos įvykius pavadino „Kražių skerdynėmis“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65308
+
+- id: c-22455
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kitose rezoliucijose žmonės raginti nemokėti valdžiai mokesčių, neiti į
+    kariuomenę, imtis organizuoti lokalinę savivaldą – tai paskatino Lietuvos
+    kaimus ir miestelius visiškai perimti į savo rankas valsčių savivaldybes.
+    Žiemą Lietuvos kaimas daug kur buvo perėjęs į vietos žmonių rankas.
+    Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-
+    zokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė.
+  citata_rodoma: "Tačiau, slūgstant revoliucijos bangai, caro valdžia 1906 m. pavasarį ka-\nzokų ir kariuomenės pastangomis savo kiek pakoreguotą tvarką atkūrė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65307
+
+- id: c-42704
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šiame sparne buvo sutelktos įvairios
+    kavalerijos rūšys. Šio sparno jėga - reitarų
+    sutelkta ugnis, husarų geležinis smūgis,
+    Lietuvos totorių ir kazokų manevringumas
+    persekiojant bėgantį priešą. Sparno užda-
+    vinys - apeiti priešininko dešinįjį sparną,
+    nustumti jį nuo Dauguvos kranto ir bendro-
+    mis jėgomis su visa Lietuvos kariuomene
+    nublokšti švedus į šiaurėje esantį pelkėtą
+    mišką ir ten juos sunaikinti.
+  citata_rodoma: "Šio sparno jėga - reitarų\nsutelkta ugnis, husarų geležinis smūgis,\nLietuvos totorių ir kazokų manevringumas\npersekiojant bėgantį priešą. Sparno užda-\nvinys - apeiti priešininko dešinįjį sparną,\nnustumti jį nuo Dauguvos kranto ir bendro-\nmis jėgomis su visa Lietuvos kariuomene\nnublokšti švedus į šiaurėje esantį pelkėtą\nmišką ir ten juos sunaikinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65305
+
+- id: c-42705
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pirmiausiai janičarai (turkų pėstininkai),
+    o po to ir turkų kavalerija atakavo atski-
+    rai įsikūrusių Ukrainos kazokų stovyklą.
+    Neatlaikę puolimo, kazokai ėmė trauk-
+    tis. LDK didysis etmonas pasiuntė ke-
+    letą lengvosios kavalerijos - „lisovčikų“
+  citata_rodoma: "Pirmiausiai janičarai (turkų pėstininkai),\no po to ir turkų kavalerija atakavo atski-\nrai įsikūrusių Ukrainos kazokų stovyklą.\nNeatlaikę puolimo, kazokai ėmė trauk-\ntis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65306
+
+- id: c-42706
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Gynybos linija prie Chocino buvo taip
+    įrengta, kad priešas negalėtų jos apeiti,
+    o jungtinės kariuomenės dalinių flanginė
+
+    „Toliau - lengvoji raitija, šios šalies kalba vadinama kazokais. Šie irgi yra bajorai ir
+    kaip husarai tarnauja vėliavose. Jų ginkluotę sudaro arba grandijų [žieduočio] marški-
+    niai, arba rankas iki pusės dengiantys grandijai. Šalia to jie dar dėvi geležines pirštines,
+    o galvą dengia šalmas iš žiedų (tokių pat kaip ant kūno), lenkiškai vadinamas misiurka.
+    Kazokų arkliai turi būti ištvermingi, greiti ir miklūs. Jų ginklai - lankai, strėlės ir pistole-
+    tai. Kazokų paskirtis - paremti husarus, šiems einant į mūšį, ir baigiant naikinti husarų
+    sumuštus eskadronus.“
+
+    1621 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65309
+
+- id: c-42707
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Bėgantį priešą pradėjo vytis ir
+    kazokai, kurie, įsiveržę į turkų ar-
+    tilerijos baterijų pozicijas, išžudė
+    jų tarnybas ir sugadino pabūk-
+    lus. Taip pat jie buvo įsiveržę ir į
+    turkų stovyklą. Temstant jungti-
+
+    nių pajėgų vadas liepė grįžti į savas | 4 rf
+    pozicijas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-65304
+
+- id: c-167047
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Staigus puolimas
+    sukėlė paniką janičarų gretose.
+    Bėgantį priešą pradėjo vytis ir
+    kazokai, kurie, įsiveržę į turkų ar-
+    tilerijos baterijų pozicijas, išžudė
+    jų tarnybas ir sugadino pabūk-
+    lus. Taip pat jie buvo įsiveržę ir į
+    turkų stovyklą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183655
+
 ## Ryšiai
-- Priešai: [[objektai/grupes/Totoriai]]
 - Sąjungininkai: [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]]
 - Puolė Kazokai: [[objektai/grupes/Janičarai]]
-- Kariavo prieš: [[objektai/asmenys/Jonas Karolis Chodkevičius]]
-- Kazokai keliavo į [[objektai/vietos/Dniepras]], [[objektai/vietos/Lojevas]]
-- Kazokai puolė [[objektai/vietos/Kražiai]], [[objektai/vietos/Kražių bažnyčia]], [[objektai/grupes/Švedai]]
-- Kazokai užėmė [[objektai/vietos/Kaunas]], [[objektai/vietos/Trakai]], [[objektai/vietos/Vilnius]]
-- Kazokai gynė [[objektai/vietos/Podolė]]
-- Kazokai surengė žygį į [[objektai/vietos/Mozyrius]], [[objektai/vietos/Starodubas]]
-- Kazokai kariavo prieš [[objektai/grupes/Lietuviai]], [[objektai/grupes/Totoriai]]
-- Kazokai dalyvavo mūšyje [[objektai/ivykiai/Kražių įvykiai]], [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]
-- Kazokai rėmė [[objektai/asmenys/Leontijus Bennigsenas]]
+- Kazokai puolė [[objektai/vietos/Kražiai]], [[objektai/vietos/Kražių bažnyčia]]
+- Kazokai užėmė [[objektai/vietos/Vilnius]]
+- Kazokai kariavo prieš [[objektai/grupes/Lietuviai]]
+- Kazokai dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]

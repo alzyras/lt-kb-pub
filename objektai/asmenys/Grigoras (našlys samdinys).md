@@ -1,0 +1,141 @@
+---
+tipas: 'asmuo'
+pavadinimas: 'Grigoras (našlys samdinys)'
+variantai:
+  - 'Grigoras'
+saltiniai:
+  - 'Mūsų tautosaka, t.4 (1931)'
+bukle: 'juodrastis'
+laikotarpis: ''
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys:
+  - 'samdinys'
+  - 'našlys'
+dalyviai: []
+susije_irasai: []
+patikimumas: 'vidutinis'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Grigoras (našlys samdinys)
+
+## Santrauka
+
+Grigoras šeimynos samdymo scenoje aprašomas kaip nejaunas našlys su jau užaugintais vaikais, mėgstantis degtinėlę, besiderantis dėl samdos drabužių ir vėliau nesilaikantis duoto žodžio.
+
+## Vaidmenys
+
+- samdinys
+- našlys
+
+## Teiginiai
+
+<a id="claim-t-195543"></a>
+- t-001
+  global_id: t-195543
+  teiginys: "Derėdamasis dėl samdos Grigoras pareikalavo ne tik algos, bet ir drobinių marškinių bei pasukinių kelnių."
+  pagrindžia:
+    - c-177959
+
+<a id="claim-t-195544"></a>
+- t-002
+  global_id: t-195544
+  teiginys: "Grigoras buvo nejaunas našlys, jau užauginęs vaikus ir mėgstantis degtinėlę."
+  pagrindžia:
+    - c-177961
+
+<a id="claim-t-195545"></a>
+- t-003
+  global_id: t-195545
+  teiginys: "Pasakojime pažymima, kad Grigoras duoto žodžio neištesėjo."
+  pagrindžia:
+    - c-177960
+- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195546|Jokūbas (samdytojas, XIX a.)]]: Lileika siūlė Jokūbui vietoj Petro samdyti Grigorą.
+- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195547|Jokūbas (samdytojas, XIX a.)]]: Jokūbas derėjosi su Grigoru dėl algos ir pasirūpino duoti du auksinus rankpinigių.
+- susijęs iš [[objektai/asmenys/Jokūbas (samdytojas, XIX a.).md#claim-t-195548|Jokūbas (samdytojas, XIX a.)]]: Po nesėkmingos baigties Jokūbui teko ieškoti kito berno.
+## Citatos
+
+- id: c-177959
+  autorius: "M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
+  puslapiai: "p. 157 (PDF 155)"
+  indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 157 (PDF 155)."
+  citata_originali: |
+    — Gi kiek ėmė praėjusius metus, tiek ims ir ateinančius — pen­
+    kiolika rublių.
+    — Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasuki­
+    nės — atsiliepė pirmą sykį Grigoras.
+  citata_rodoma: "— Dar marškiniai ir kelnės. Marškiniai drobiniai, kelnės pasukinės — atsiliepė pirmą sykį Grigoras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195543
+
+- id: c-177960
+  autorius: "M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
+  puslapiai: "p. 158 (PDF 156)"
+  indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 158 (PDF 156)."
+  citata_originali: |
+    Čia gavai
+    berną,
+    davei
+    „ant rankos“
+    — čia tau vėl at­
+    sakė,
+    grąžino rankpinigius.
+    Iš to susidėjo patarlė:
+    „Kalėdos —
+    visos bėdos“ . Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos
+    padarė, atsiprašant, kažin ką.
+  citata_rodoma: "Iš to susidėjo patarlė: „Kalėdos — visos bėdos“. Ir Grigoras netesėjo žodžio, jis, anot Lileikos, iš burnos padarė, atsiprašant, kažin ką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195545
+
+- id: c-177961
+  autorius: "M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
+  puslapiai: "p. 156 (PDF 154)"
+  indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 156 (PDF 154)."
+  citata_originali: |
+    Apsidraudę vietoje irgi eina: tiems reikia gir­
+    dėti naujienų, kas liko vietoje, kas ne. Vieni stovi, kiti pro juos slan­
+    kioja iš kertės
+    į kertę, iš kambariuko
+    Į kambariuką, viens kitą
+    klausinėja.
+    Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja
+    pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta deg­
+    tinėlę.
+  citata_rodoma: "Štai Grigoras, žmogus užauginęs jau vaikus ir našlys, tarnauja pas ūkininkus (jo vaikai irgi tarnauja), o kad nejaunas, mėgsta degtinėlę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195544

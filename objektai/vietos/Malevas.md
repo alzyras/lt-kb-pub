@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Malevas
 
@@ -19,17 +31,16 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
 <a id="claim-t-187259"></a>
 - t-001
   global_id: t-187259
-  teiginys: 'Malevas yra apie 18 km į šiaurę nuo Klecko.'
+  teiginys: "Malevas yra apie 18 km į šiaurę nuo Klecko."
   pagrindžia:
-    - c-001
+    - c-170316
 
 <a id="claim-t-187260"></a>
 - t-002
   global_id: t-187260
-  teiginys: 'Malevas yra kaimas pietiniame, kairiajame Ušos upės krante.'
+  teiginys: "Malevas yra kaimas pietiniame, kairiajame Ušos upės krante."
   pagrindžia:
-    - c-001
-
+    - c-170316
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,8 +56,33 @@ Malevas yra kaimas kairiajame Ušos krante. Malevas yra apie 18 km į šiaurę n
     apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-170316
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Veikiau­
+    siai, čia esama sudarkyto „na[d| Lipoj". t. y. turim as galvoje upelis
+    Lipa, įtekantis iš kairės į Ušų keli kilometrai aukščiau ( į pietus)
+    nuo m inėtojo Aukštojo Kranto kaimo, apie 10 km į vakarus nuo
+    Nesvyžiaus. Prie šio upelio kaip tik y ra kaimai Visokaja Lipa ir
+    Lipa.
+    8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante,
+    apie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko.
+  citata_rodoma: "8 0  M alevas — kaim as pietiniam e (kairiajame) Ušos upės krante, \napie 5 km į pietryčius nuo Lipos, apie 18 km į šiaurę nuo Klecko."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187260
+    - t-187259

@@ -16,6 +16,18 @@ tags:
   - mūšis
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vizenburgo pilies kautynės ir apleidimas (1263 m.)
 
@@ -44,19 +56,18 @@ Nenurodyta
 <a id="claim-t-62951"></a>
 - t-001
   global_id: t-62951
-  teiginys: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
+  teiginys: "1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link."
   pagrindžia:
-    - c-002
-    - c-003
+    - c-63835
+    - c-63836
 
 <a id="claim-t-62952"></a>
 - t-002
   global_id: t-62952
-  teiginys: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
+  teiginys: "Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė."
   pagrindžia:
-    - c-001
-    - c-002
-
+    - c-63834
+    - c-63835
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -72,6 +83,7 @@ Nenurodyta
     link Mazovijos kunigaikštystės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,6 +103,7 @@ Nenurodyta
     susidūrime tris nukovė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -111,6 +124,7 @@ Nenurodyta
     tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -127,5 +141,75 @@ Nenurodyta
     leidus, prūsai galop paėmė viršų ir nukovė dvidešimt brolių bei visą jų kariuomenę.
   citata_rodoma: ''
   statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+## Citatos
+
+- id: c-63834
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  citata_originali: |
+    117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis
+
+      Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
+    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės.
+  citata_rodoma: "117 (112). Apie tai, kaip buvo palikta Vizenburgo pilis\n\n  Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės."
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62952
+
+- id: c-63835
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  citata_originali: |
+    Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos
+    mašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio
+    vieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė.
+  citata_rodoma: "Vizenburgo pilis beveik trejus metus buvo apsupta prūsų, kurie pasistatė tris apgulos\nmašinas, su kuriomis kasdien puolė pilį; galop broliams pavyko po staigaus antpuolio\nvieną paimti ir nusigabenti į pilį, o su ja broliai ilgai gynėsi. Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62952
+    - t-62951
+
+- id: c-63836
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 126"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 126."
+  citata_originali: |
+    Neilgai trukus broliai, pristigę
+    maisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę
+    link Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi
+    juos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,
+    pasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,
+    bado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame
+    susidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris
+    tada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė.
+  citata_rodoma: "Neilgai trukus broliai, pristigę\nmaisto, paliko su savo ginklanešiais pilį 1263 viešpaties metais ir slapta pasitraukė pasukę\nlink Mazovijos kunigaikštystės. Šitai sužinojęs, Di-vanas, tuometinis bartų vadas, vijosi\njuos su daugybe karių, bet nestengė pasivyti, nes jų pailsinti arkliai pristojo; tada jis,\npasiėmęs trylika vyrų, jojusių eiklesniais žirgais, pralenkė kitus ir, priartėjęs prie brolių,\nbado nualintų ir dėl nuovargio nepajėgiančių kovoti, narsiai juos užpuolė, o pirmajame\nsusidūrime tris nukovė. Kiti, pradėję priešintis, sunkiai sužeidė minėtąjį Divaną, kuris\ntada liovėsi kariavęs, o broliai su savaisiais ramiai atsitraukė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62951

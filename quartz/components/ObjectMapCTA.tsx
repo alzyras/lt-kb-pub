@@ -1,0 +1,95 @@
+import { FullSlug, resolveRelative } from "../util/path"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { isObjectPage, objectGallerySlug, objectMediaSet } from "../util/objectMedia"
+import { graphSlugForPageData } from "../util/graphIdentity"
+// @ts-ignore
+import script from "./scripts/object-map-preview.inline"
+
+function displayTitle(value: unknown): string {
+  return String(value ?? "").trim()
+}
+
+const ObjectMapCTA: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
+  const slug = fileData.slug
+  if (!slug || !isObjectPage(slug) || slug.startsWith("objektai/saltiniai/")) {
+    return null
+  }
+
+  const currentSlug = slug as FullSlug
+  const isGalleryPage = slug.endsWith("/galerija")
+  const publicObjectSlug = (isGalleryPage ? slug.replace(/\/galerija$/, "") : slug) as FullSlug
+  const graphObjectSlug = graphSlugForPageData(fileData as Record<string, any>, publicObjectSlug)
+  const title =
+    displayTitle(fileData.frontmatter?.object_title) || displayTitle(fileData.frontmatter?.title)
+  const { direct, contextual, all, fallbackPrimary, totalCount } = objectMediaSet(
+    fileData.frontmatter,
+  )
+  const hasGallery = Boolean(fallbackPrimary && all.length > 0)
+  const objectHref = resolveRelative(currentSlug, publicObjectSlug)
+  const galleryHref = resolveRelative(currentSlug, objectGallerySlug(publicObjectSlug))
+  const mapHref = `/zemelapis/?focus=${encodeURIComponent(graphObjectSlug)}&depth=1&panel=details`
+
+  return (
+    <div
+      class="object-map-cta"
+      data-object-map-cta="true"
+      data-object-slug={graphObjectSlug}
+      data-public-object-slug={publicObjectSlug}
+      data-object-title={title}
+      data-object-map-href={mapHref}
+    >
+      <div class="object-map-cta-copy">
+        <div class="object-map-cta-actions">
+          {isGalleryPage && (
+            <a href={objectHref} class="object-map-object-action">
+              <strong>Objektas</strong>
+              <em aria-hidden="true">&gt;</em>
+            </a>
+          )}
+          <a href={mapHref} class={isGalleryPage ? "" : "is-active"}>
+            <strong>Žemėlapis</strong>
+            <em aria-hidden="true">&gt;</em>
+          </a>
+          {hasGallery && (
+            <a
+              href={galleryHref}
+              class={`object-map-gallery-action${isGalleryPage ? " is-active" : ""}`}
+            >
+              <strong>Galerija</strong>
+              <em aria-hidden="true">&gt;</em>
+            </a>
+          )}
+        </div>
+        <p class="object-map-cta-count" data-object-map-count="">
+          Kraunami ryšiai...
+        </p>
+        {hasGallery && (
+          <p class="object-map-cta-media">
+            {totalCount} vaizd. / {direct.length} tiesiog. / {contextual.length} susij.
+          </p>
+        )}
+      </div>
+      <a
+        class="object-map-preview-link"
+        href={mapHref}
+        aria-label={`Atidaryti ${title} ryšių žemėlapį`}
+      >
+        <canvas class="object-map-preview-canvas" data-object-map-canvas=""></canvas>
+        <span class="object-map-preview-status" data-object-map-status=""></span>
+      </a>
+      {!isGalleryPage && (
+        <nav class="object-section-nav" aria-label="Objekto skyriai">
+          <a href="#santrauka">Apžvalga</a>
+          <a href="#teiginiai">Teiginiai</a>
+          {hasGallery && <a href={galleryHref}>Vaizdai</a>}
+          <a href={mapHref}>Ryšiai</a>
+          <a href="#saltiniai">Šaltiniai</a>
+        </nav>
+      )}
+    </div>
+  )
+}
+
+ObjectMapCTA.afterDOMLoaded = script
+
+export default (() => ObjectMapCTA) satisfies QuartzComponentConstructor

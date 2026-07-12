@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonava
 
@@ -19,9 +31,9 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
 <a id="claim-t-02477"></a>
 - t-001
   global_id: t-02477
-  teiginys: 'Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais.'
+  teiginys: "Rusai atsiėmė Jonavą kartu su Ukmerge ir Šiauliais."
   pagrindžia:
-    - c-001
+    - c-02715
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.
 - susijęs iš [[objektai/grupes/Heinricho Hamano skrajojantis būrys.md#claim-t-19704|Heinricho Hamano skrajojantis būrys]]: Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.
 - susijęs iš [[objektai/grupes/Lietuvių policijos savisaugos batalionai.md#claim-t-19814|Lietuvių policijos savisaugos batalionai]]: Lietuvių savisaugos policijos grupės, tarp jų policijos batalionai, buvo įtrauktos į žudynių parengimą, aukų konvojavimą ir šaudymą.
@@ -47,7 +59,30 @@ Tuo tarpu rusai atsiėmė Ukmergę, Jonavą ir Šiaulius.
     lius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-02715
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau puo-
+    limas nepasisekė. Netekęs
+    2.000 žmonių, Gelgaudas
+    pasitraukė į Raseinius.
+    Tuo tarpu rusai atsiėmė
+    Ukmergę, Jonavą ir Šiau-
+    lius.
+  citata_rodoma: "Tuo tarpu rusai atsiėmė\nUkmergę, Jonavą ir Šiau-\nlius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-02477

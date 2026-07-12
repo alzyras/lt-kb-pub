@@ -16,6 +16,18 @@ tags:
   - tikėjimas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kilmingųjų ir jų šeimynų perėjimas pas brolius bei grupinis atsivertimas
 
@@ -48,10 +60,9 @@ Nenurodyta
 <a id="claim-t-62131"></a>
 - t-001
   global_id: t-62131
-  teiginys: 'Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.'
+  teiginys: "Skalvos viešpačiai Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius."
   pagrindžia:
-    - c-001
-
+    - c-62563
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +80,7 @@ Nenurodyta
     krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -96,5 +108,31 @@ Nenurodyta
           176 (171).
   citata_rodoma: ''
   statusas: verified
+
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
+## Citatos
+
+- id: c-62563
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 158"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 158."
+  citata_originali: |
+    Apie tai, kaip buvo apleista Skalvos žemė
+
+      Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai
+    galingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta
+    ir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai
+    palankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po
+    kito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,
+    kad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė
+    krikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų.
+  citata_rodoma: "Apie tai, kaip buvo apleista Skalvos žemė\n\n  Daug kitų karų broliai kariavo su skalviais, ir būtų atkaru aprašinėti kiekvieną. Kai\ngalingesnieji šios žemės žmonės, tokie, kaip viešpačiai [domini] Surbantas, Svisdeta\nir Surdeta, pamatė, jog dievas ant jų baisingai užsirūstinęs, o broliams nuostabiai\npalankus, jie, nedrįsdami ilgiau dievo galybei priešintis, paliko tėvonijas ir vienas po\nkito patraukė pas brolius su visais savo namais ir šeimyna. Paprasti žmonės, išgirdę,\nkad jų kariuomenės vadai, vadovavę jiems karo metais, yra pasitraukę, irgi pasidavė\nkrikščionių tikėjimui. Šitaip visa ši žemė liko ilgiems metams be gyventojų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62131

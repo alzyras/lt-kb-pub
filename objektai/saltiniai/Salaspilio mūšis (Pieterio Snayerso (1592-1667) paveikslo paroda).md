@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Salaspilio mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda)
 
@@ -29,10 +41,9 @@ amziai:
 <a id="claim-t-39909"></a>
 - t-001
   global_id: t-39909
-  teiginys: '„Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m.'
+  teiginys: "„Salaspilio mūšis“ yra Pieterio Snayerso paveikslo parodos informacinis leidinys, išleistas Vilniuje 2010 m."
   pagrindžia:
-    - c-001
-
+    - c-41713
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,25 @@ amziai:
     Vilnius, 2010.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-41713
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    P. 100-107, „Salaspilio mūšis“ fragmentai, dail. Pieteris Snayers, xvi a. pradžia. Salaspilio
+    mūšis (Pieterio Snayerso (1592-1667) paveikslo paroda). (Parodos informacinis leidinys),
+    Vilnius, 2010.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39909

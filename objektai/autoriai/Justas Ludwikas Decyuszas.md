@@ -18,6 +18,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Justas Ludwikas Decyuszas
 
@@ -30,10 +42,9 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
 <a id="claim-t-88094"></a>
 - t-001
   global_id: t-88094
-  teiginys: 'Justo Ludwiko Decyuszo sąskaitos išsamiai nušviečia naujų dirbtuvių padėtį Vilniuje.'
+  teiginys: "Justo Ludwiko Decyuszo sąskaitos išsamiai nušviečia naujų dirbtuvių padėtį Vilniuje."
   pagrindžia:
-    - c-001
-
+    - c-84073
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,7 +64,33 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
     apie daugelį įdomių detalių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84073
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jį karalius patvirtino tų pačių metų lapkričio
+    18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­
+    nojimų, be kita ko, bajorams, mieste įsigyjantiems namus,
+    37 v 38
+    Šių naujų dirbtuvių padėtį Vilniuje Žr. IV priedą,
+    išsamiai nušviečia Rachunki Justa Lud- *
+    wika Decyusza, Žygimanto Augusto Municipalinė teisė (willkühr - savi-
+    iždininko; iš rankraščio išspausdin- valė vok., vert. past.),
+    tos „Pamiętnik Warszawski", 1815
+    m., Il t., 1. 140. Čia galima sužinoti
+    apie daugelį įdomių detalių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88094

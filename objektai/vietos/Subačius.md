@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - mūšis
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Subačius
 
@@ -20,16 +32,16 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 <a id="claim-t-42170"></a>
 - t-001
   global_id: t-42170
-  teiginys: 'Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių.'
+  teiginys: "Gegužės 27 d. Panevėžio rinktinė, persekiodama priešą, užėmė Troškūnus ir Subačių."
   pagrindžia:
-    - c-002
+    - c-45349
 
 <a id="claim-t-42171"></a>
 - t-002
   global_id: t-42171
-  teiginys: 'Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje.'
+  teiginys: "Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pasitraukė Subačiaus kryptimi ir įsitvirtino Kupiškyje."
   pagrindžia:
-    - c-001
+    - c-45348
 - susijęs iš [[objektai/ivykiai/Antrasis Panevėžio puolimas.md#claim-t-41240|Antrasis Panevėžio puolimas]]: Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.
 - susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38892|Panevėžio rinktinė]]: Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.
 - susijęs iš Troškūnai: Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.
@@ -41,6 +53,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
 - susijęs iš [[objektai/paprociai/Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka.md#claim-t-87310|Vilniaus vandens tiekimo kanalais miesto reikmėms tvarka]]: Žygimantas Senasis Vilniaus vandens tiekimui skyrė savo šaltinį už Subačiaus vartų ir leido vandenį vamzdžiais išvedžioti po namus.
 - susijęs iš Subačiaus priemiestis: Narbutas cituoja kūrinio pavadinimą, kuriame 1749 m. birželio 8 d. Vilniaus gaisras siejamas su Subačiaus priemiesčiu ir Gregoravičiaus dvareliu.
 - susijęs iš Troškūnai: Panevėžio rinktinė gegužės 27 d., persekiodama priešą, užėmė Troškūnus ir Subačių.
+- susijęs iš [[objektai/asmenys/Juozapas Pomarnackis.md#claim-t-190898|Juozapas Pomarnackis]]: Juozapas Pomarnackis padovanojo Narbutui radinius ir atsiuntė jų atradimo aprašymą, datuotą 1839 m. lapkričio 10 d.
 - susijęs iš [[objektai/daiktai/Vilniaus vandentiekio vamzdžiai ir kanalai.md#claim-t-87040|Vilniaus vandentiekio vamzdžiai ir kanalai]]: Žygimantas leido iš miesto šaltinio vandenį vamzdžiais išvedžioti po Vilniaus namus.
 - susijęs iš [[objektai/grupes/Algimanto apygarda.md#claim-t-78161|Algimanto apygarda]]: Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172081|Dominikonų ordinas]]: Aleksandras, įkurdinęs dominikonus, negrąžino Vingrių šaltinių Vilniaus miestui ir sutiko juos su klebonija perleisti dominikonams.
@@ -66,6 +79,7 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     tvirtino Kupiškyje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,10 +101,61 @@ Naktį iš gegužės 22 d. į 23 d. bolševikai paliko Panevėžio apylinkes, pa
     sitraukė ir iš Kupiškio.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45348
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Persitvarkę ir sulaukę pastiprinimų,
+    bolševikai puolė miestą. Jiems pavyko
+    pasiekti Panevėžio prieigas, tačiau įveikti
+    lietuvių gynybos rusai nepajėgė. Naktį iš
+    gegužės 22 d. į
+    23 d. bolševikai
+    paliko Panevėžio
+    apylinkes, pasi-
+    traukė Subačiaus
+    kryptimi ir įsi-
+    tvirtino Kupiškyje.
+  citata_rodoma: "Naktį iš\ngegužės 22 d. į\n23 d. bolševikai\npaliko Panevėžio\napylinkes, pasi-\ntraukė Subačiaus\nkryptimi ir įsi-\ntvirtino Kupiškyje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42171
+
+- id: c-45349
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšio pasekmės
+    Išvadavusi
+    Panevėžį, Pane-
+    vėžio rinktinė
+    toliau parsekio-
+    dama priešą ge-
+    gužės 27 d. užėmė Troškūnus ir Subačių.
+    Biržus jau 26 d. buvo išvadavęs Šiaurės
+    Lietuvoje veikęs partizanų batalionas.
+    Galiausiai bolševikai gegužės 30-31 d. at-
+    sitraukė ir iš Kupiškio.
+  citata_rodoma: "Mūšio pasekmės\nIšvadavusi\nPanevėžį, Pane-\nvėžio rinktinė\ntoliau parsekio-\ndama priešą ge-\ngužės 27 d. užėmė Troškūnus ir Subačių.\nBiržus jau 26 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42170
 
 ## Ryšiai
 - Užėmė Subačių: [[objektai/grupes/Panevėžio rinktinė]]

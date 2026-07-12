@@ -16,6 +16,18 @@ tags:
   - saltinis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui
 
@@ -28,10 +40,9 @@ amziai:
 <a id="claim-t-88512"></a>
 - t-001
   global_id: t-88512
-  teiginys: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
+  teiginys: "1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą."
   pagrindžia:
-    - c-001
-
+    - c-84491
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -60,7 +71,42 @@ amziai:
     bue Switrig., p. 6 9 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84491
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Švitrigaila buvojo savo dvare prie Ašmenos miesto14, tu­
+    rėdamas prie savęs tiktai nedidelę sargybą, o tuo metu Žy­
+    gimantas, susijungęs su Alšėnų kunigaikščiu Simonu, Nau­
+    garduko vaivada Petrašu Montgirdaičiu, Vilniaus vaivada
+    Goštautu ir daugeliu kitų bajorų, galingos kariuomenės
+    13
+    Tą patvirtina Slaptajame Karaliau­
+    čiaus archyve esantis Švitrigailos
+    laiškas, rašytas iš Vilniaus didžiajam
+    magistrui 1432 metų sausio 5 dieną.
+    Jame rašo, kad, gavęs laišką nuo ka­
+    raliaus, pastarasis išlaisvinęs Ram-
+    poldą ir Gastoldą ir jam atidavęs, ti­
+    kisi netrukus galėsiąs tą patį
+    didžiajam magistrui pranešti apie
+    landmaršalką bei kitus belaisvius,
+    kadangi jo pasiuntinys juos matęs
+    laisvus ir pietus su karaliumi val­
+    gančius pirmąją dieną. Žr. Kotze­
+    bue Switrig., p. 6 9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88512

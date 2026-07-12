@@ -15,6 +15,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naujosios Prūsijos žemės kronika
 
@@ -36,38 +48,37 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 <a id="claim-t-171552"></a>
 - t-001
   global_id: t-171552
-  teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
+  teiginys: "Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m."
   pagrindžia:
-    - c-001
+    - c-11260
 
 <a id="claim-t-171553"></a>
 - t-002
   global_id: t-171553
-  teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.'
+  teiginys: "Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas."
   pagrindžia:
-    - c-002
+    - c-43288
 
 <a id="claim-t-171555"></a>
 - t-003
   global_id: t-171555
-  teiginys: 'Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.'
+  teiginys: "Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės."
   pagrindžia:
-    - c-003
+    - c-156051
 
 <a id="claim-t-171556"></a>
 - t-004
   global_id: t-171556
-  teiginys: '1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.'
+  teiginys: "1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą."
   pagrindžia:
-    - c-002
+    - c-43288
 
 <a id="claim-t-171557"></a>
 - t-005
   global_id: t-171557
-  teiginys: 'Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.'
+  teiginys: "Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją."
   pagrindžia:
-    - c-003
-
+    - c-156051
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +88,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     pilies šturmą 1384 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +115,8 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -133,8 +146,85 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
     kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-005
+
+## Citatos
+
+- id: c-11260
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos kronikos“ apie Marienverderio
+    pilies šturmą 1384 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171552
+
+- id: c-43288
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Piksidomis (ma-
+    žesnio kalibro pabūklais) daugelį jų karių
+
+    Ištrauka iš Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ apie tai,
+    kaip 1376 m. Algirdas ir Kęstutis siaubia Ordino valdas.
+
+    „Tais pačiais metais Kęstutis ir Algirdas, pagavę [Ordino] sargybinius, trimis voromis
+    įsiveržia į neįspėtą Nadruvos kraštą ir aplink Įsruties pilį viską išdegina. Nusivaro vyrus,
+    moteris, taip pat [Ordino] brolių arklius su milžinišku grobiu. Kita kariuomenės vora kaip
+    priešai užpuola Narkyčius. Tenai niokoja taip kaip prieš tai. Pagaliau [niokoja] Taplaukio
+    krašte ir Nadruvoje, [nusinesdami] pakankamą grobį ir t.t. Trečioji vora - Vėluvos žemėje,
+    kurią parbėga, degindami ir naikindami kaimus, bažnyčias, ir viską žudydami ar imdami
+    į nelaisvę. Panašiai pasielgė Karaliaučiaus kanauninkų Želvos valsčiuje, išvesdami vyrus
+    ir moteris. Paskui skuba prie Jurgenburgo - vyskupo pilies ir t.t.“
+
+    Naujoji Prūsijos kronika apie lietuvių reidą į ordino žemes 1376 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171556
+    - t-171553
+
+- id: c-156051
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Augustiną, tai
+    yra, rugpjūčio 28-ą, o priartėta prie
+    Vilniaus buvo rugsėjo 4-ą. Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171555
+    - t-171557

@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # B. P. Sapiega
 
@@ -19,9 +31,9 @@ Sapiega ir maršalas A.
 <a id="claim-t-40057"></a>
 - t-001
   global_id: t-40057
-  teiginys: 'Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis.'
+  teiginys: "Iždininkas B. P. Sapiega pasitraukė kartu su maršalu A. P. Sapiega ir totorių vėliavomis."
   pagrindžia:
-    - c-001
+    - c-44302
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53890|J. P. Sapiega]]: Maršalas A. P. Sapiega pasitraukė kartu su B. P. Sapiega ir totorių vėliavomis.
 - susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40316|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.
 - susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40317|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega, gavęs Višnioveckių saugumo garantijas, pasidavė respublikonams su likusia kariuomene.
@@ -43,7 +55,32 @@ Sapiega ir maršalas A.
     las A. P. Sapiega bei totorių vėliavos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44302
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Užnugaryje buvę Sapiegas rėmę
+    bajorų pašauktiniai pasitraukė iš
+    mūšio lauko. Etmonas, pama-
+    tęs, kad jo kariuomenė supama,
+    ir kad respublikonai jau užėmė
+    gurguolę, nusprendė trauktis į
+    Vilnių. Kartu su juo pasitraukė
+    iždininkas B. P. Sapiega ir marša-
+    las A. P. Sapiega bei totorių vėliavos.
+  citata_rodoma: "Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40057

@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Birbynės
 
@@ -39,10 +51,9 @@ Nenurodyta
 <a id="claim-t-186853"></a>
 - t-001
   global_id: t-186853
-  teiginys: 'Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.'
+  teiginys: "Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės."
   pagrindžia:
-    - c-001
-
+    - c-170036
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,30 @@ Nenurodyta
     gė per upę.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170036
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 169"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 169."
+  citata_originali: |
+    Kunigaikš­
+    tis Mykolas !3, matydamas su didikais ir su visa kariuo­
+    mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
+    pulkams žengti abiem perėjimais per upę.
+    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
+    gė per upę.
+  citata_rodoma: "Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­\ngė per upę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186853

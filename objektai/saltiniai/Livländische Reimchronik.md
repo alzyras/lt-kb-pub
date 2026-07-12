@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Livländische Reimchronik
 
@@ -30,10 +42,9 @@ LReim = Livländische Reimchronik, išl.
 <a id="claim-t-31833"></a>
 - t-001
   global_id: t-31833
-  teiginys: '„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m.'
+  teiginys: "„Livländische Reimchronik“ leidimą parengė Leo Meyeris, o jis buvo išleistas Paderborne 1876 m."
   pagrindžia:
-    - c-001
-
+    - c-33654
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,26 @@ LReim = Livländische Reimchronik, išl.
     LTI = Lietuvos TSR Istorija, t. 1, nuo seniausių laikų iki 1861 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33654
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876
+    (Nachdruck 1963, Hildesheim) (cituota pagal eilutes).
+    LTI = Lietuvos TSR Istorija, t. 1, nuo seniausių laikų iki 1861 m.
+  citata_rodoma: "LReim = Livländische Reimchronik, išl. Leo Meyer, Paderborn 1876\n(Nachdruck 1963, Hildesheim) (cituota pagal eilutes).\nLTI = Lietuvos TSR Istorija, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31833

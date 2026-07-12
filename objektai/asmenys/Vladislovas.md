@@ -10,6 +10,18 @@ tags:
   - asmuo
   - karalius
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vladislovas
 
@@ -22,23 +34,23 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 <a id="claim-t-40522"></a>
 - t-001
   global_id: t-40522
-  teiginys: 'Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui.'
+  teiginys: "Karalaičiui Vladislovui įkalbėjus, LDK kariuomenė laikinai sutiko paklusti Stanislovui Liubomirskiui."
   pagrindžia:
-    - c-001
+    - c-44570
 
 <a id="claim-t-184855"></a>
 - t-002
   global_id: t-184855
-  teiginys: 'Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru.'
+  teiginys: "Gediminas padėjo Vladislovui kariauti su Brandenburgo markgrafu Voldemaru."
   pagrindžia:
-    - c-002
+    - c-168216
 
 <a id="claim-t-184856"></a>
 - t-003
   global_id: t-184856
-  teiginys: 'Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums.'
+  teiginys: "Gediminas atskubėjo į pagalbą Vladislovui ir kariuomenės dalinius patikėjo vadovauti savo sūnums."
   pagrindžia:
-    - c-003
+    - c-168217
 - susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186022|Vladislovas (karalius, Kazimiero brolis)]]: Karalius Vladislovas atšiauriai priėmė pasiuntinius, prašiusius patvirtinti pavojaus baimės nulemtas priemones.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
@@ -53,6 +65,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184527|Lenkai]]: Kazimieras su žymiaisiais lenkų didikais viešėjo Sandomire, kai karalius Vladislovas buvo išvykęs iš Lenkijos.
 - susijęs iš Maskvos bajorų raštas dėl Vladislovo išrinkimo caru (1610 m.): 1610 m. Maskvos bajorų raštu buvo patvirtintas Vladislovo išrinkimas caru.
 - susijęs iš Vladislovo ir popiežiaus laiškas Ivanui dėl bendro karo prieš turkus: Vladislovas pasiuntė Zigmantą Santajį pas Ivaną su savo ir popiežiaus laišku dėl bendro krikščionių karo prieš turkus.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184749|Kazimieras Jogailaitis]]: Kazimieras Jogailaitis priėmė po kojų puolusį prašytoją, pažadėjo jam malonę ir leido laisvai toliau žygiuoti.
 - susijęs iš [[objektai/asmenys/Liudvikas (Čekijos karalius).md#claim-t-186144|Liudvikas (Čekijos karalius)]]: Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tėvą ir valdovą.
@@ -107,6 +120,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     Venecijos Schiavona (tariasi skjavona).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,6 +153,7 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     mui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -164,13 +179,107 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
     karo naštą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
+## Citatos
+
+- id: c-44570
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Visi įsa-
+    kymai vis dar tebebuvo duodami jo vardu,
+    kad kariuomenėje nekiltų panika. Vėliau,
+    kai kariai sužinojo apie savo vado mirtį,
+    lietuvių kariuomenė nenorėjo paklusti
+    karalystės didžiajam etmonui Stanislovui
+    Liubomirskiui, tik karalaičiui Vladislovui
+    įkalbėjus LDK kariuomenė sutiko jam laiki-
+    nai paklusti.
+
+    Mūšio padariniai
+    Mūšyje prie Chotino lietuvių ir lenkų ka-
+    riuomenės, kompensuodamos artilerijos
+
+    Kautynėse sulaužę
+    savo ietis, husarai
+    išsitraukdavo pala-
+    šus, konceržus arba
+    kardus
+
+    Venecijos Schiavona (tariasi skjavona).
+  citata_rodoma: "Vėliau,\nkai kariai sužinojo apie savo vado mirtį,\nlietuvių kariuomenė nenorėjo paklusti\nkaralystės didžiajam etmonui Stanislovui\nLiubomirskiui, tik karalaičiui Vladislovui\nįkalbėjus LDK kariuomenė sutiko jam laiki-\nnai paklusti.\n\nMūšio padariniai\nMūšyje prie Chotino lietuvių ir lenkų ka-\nriuomenės, kompensuodamos artilerijos\n\nKautynėse sulaužę\nsavo ietis, husarai\nišsitraukdavo pala-\nšus, konceržus arba\nkardus\n\nVenecijos Schiavona (tariasi skjavona)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40522
+
+- id: c-168216
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Dvidešimt keturis tūkstančius lenkų be­
+    laisvių dovanojo nelyginant kraitį. Lenkai ėmė naujas
+    2 J 2
+
+    ## Puslapis 211
+
+    viltis puoselėti; naudodamiesi tvirta taika, jie ėmė rū­
+    pestingai prižiūrėti tas pasienio žemes, kurias arba prie­
+    šas buvo kalaviju nusiaubęs, arba patys palikę ne­
+    gyvenamas dėl nuolatinių antpuolių, Gediminas padėjo
+    vėliau Vladislovui kariauti
+    su Voldemaru, Brandenburgo
+    markgrafu. Šiuo žygiu buvo
+    nusiaubti
+    didžiuliai
+    priešo
+    valdų plotai, ypač dėl to, kad
+    lietuviai nelyginant laukiniai
+    stabmeldžiai niokojo šventas ir nešventas vietas, nie­
+    ko nepaisydami ir nerodydami jokios pagarbos tikėji­
+    mui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184855
+
+- id: c-168217
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 213"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 213."
+  citata_originali: |
+    Mat Lenkija, kuri visaip
+    iki šiol stengėsi išsaugoti taiką, ėmė rengtis karui su
+    ordinu; skriausdami kaimynus, kaip ligi šiol skriaudė,
+    kryžiuočiai ir padarė karą neišvengiamą. Vladislovui į
+    pagalbą nuskubėjo pats Gediminas, atskiriems kariuo­
+    menės daliniams vadovauti
+    patikėjęs sūnums. Nunioko­
+    jęs Kulmo kraštą, nuvijęs
+    kryžiuočius ligi Drevantos,
+    apiplėšęs ir išdeginęs bemaž
+    visą* Prūsiją ir kelis kartus į
+    Lietuvą išsivaręs didžiulį gro­
+    bį, Gediminas ilgainiui ant savo pečių užsikrovė visą
+    karo naštą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184856
+
 ## Ryšiai
-- Broliai: [[objektai/asmenys/Jonas Olbrachtas]]
 - Rėmė Vladislovą: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
-- Vladislovas mirė [[objektai/vietos/Bulgarija]]
-- Vladislovas dalyvavo mūšyje [[objektai/ivykiai/Varnos mūšis|Varnos mūšis (mūšis, XV a.)]]

@@ -23,6 +23,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Salaspilio mūšis
 
@@ -35,24 +47,23 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
 <a id="claim-t-41578"></a>
 - t-001
   global_id: t-41578
-  teiginys: 'Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“.'
+  teiginys: "Salaspilio mūšio schemų viršus orientuotas į pietus, kad jos sutaptų su P. Snayerso paveikslu „Salaspilio mūšis“."
   pagrindžia:
-    - c-002
+    - c-167093
 
 <a id="claim-t-41579"></a>
 - t-002
   global_id: t-41579
-  teiginys: 'Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną.'
+  teiginys: "Apie 1619 m. Pieterio Snayerso paveiksle „Salaspilio mūšis“ Lietuvos husarai vaizduojami naikinantys švedų pėstininkų batalioną."
   pagrindžia:
-    - c-001
+    - c-45014
 
 <a id="claim-t-183705"></a>
 - t-003
   global_id: t-183705
-  teiginys: 'Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą.'
+  teiginys: "Salaspilio mūšyje Karolio IX vadovaujami švedai tuoj pat pradėjo puolimą."
   pagrindžia:
-    - c-002
-
+    - c-167093
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +88,7 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     niuose veiksmuose prieš Ukrainos kazokus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -109,8 +121,75 @@ Apie 1619 m. nutapyto Pieterio Snayerso paveikslo „Salaspilio mūšis“ fragm
     garį ir nustumti į Dauguvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-45014
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Apie 1619 m. nutapyto Pieterio
+    Snayerso paveikslo „Salaspilio
+    mūšis“ fragmentas. Lietuvos
+
+    kariuomenės husarai sunaikina
+    švedų pėstininkų batalioną
+
+    Jonas Karolis Chodkevičius
+
+    Jonas Karolis Chodkevičius (1560-
+
+    1621 m.) - Lietuvos Didžiosios Kuni-
+    gaikštystės (LDK) kariuomenės lauko
+    etmonas - 1600-1605 m., didysis etmonas -
+    1605-1621 m., vienas žymiausių Europos
+    karvedžių. 1595-1596 m. dalyvavo kari-
+    niuose veiksmuose prieš Ukrainos kazokus.
+  citata_rodoma: "Apie 1619 m. nutapyto Pieterio\nSnayerso paveikslo „Salaspilio\nmūšis“ fragmentas. Lietuvos\n\nkariuomenės husarai sunaikina\nšvedų pėstininkų batalioną\n\nJonas Karolis Chodkevičius\n\nJonas Karolis Chodkevičius (1560-\n\n1621 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41579
+
+- id: c-167093
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    A
+
+    Ė 3 “ tuoti atsitraukimą.
+    2 Ba Karolis IX Švedai tuoj pat pradeda puolimą ir
+    E ž
+
+    *Salaspilio mūšio schemų viršus suorentuotas
+    neįšiaurę, bet į pietus, siekiant jas sutapatinti
+    su P. Snayerso paveikslu „Salaspilio mūšis“
+
+    te
+    Brandtas
+    tates
+
+    7,
+    =
+    a de
+
+    tuviy kariuomenės dešinįjį
+    sparną, išeiti jiems į užnu-
+    garį ir nustumti į Dauguvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183705
+    - t-41578

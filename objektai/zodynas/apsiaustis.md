@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # apsiaustis
 
@@ -20,9 +32,9 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
 <a id="claim-t-38742"></a>
 - t-001
   global_id: t-38742
-  teiginys: 'Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų.'
+  teiginys: "Pavėluota Marienburgo, Ordino sostinės ir tvirtovės, apsiaustis nedavė rezultatų."
   pagrindžia:
-    - c-001
+    - c-40546
 - susijęs iš [[objektai/daiktai/Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“.md#claim-t-40709|Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“]]: Eriko Dalbergo graviūra „Urbs et Castellum Brestzie Litewski a S.R.M. Suecix die“ vaizduoja 1657 m. švedų apsiaustą Lietuvos Brastą.
 - susijęs iš [[objektai/ivykiai/Lietuvos Brastos apsiaustis (1657 m.).md#claim-t-80678|Lietuvos Brastos apsiaustis (1657 m.)]]: 1657 m. Lietuvos Brastos apsiaustis baigėsi miesto pasidavimu priešui, po kurio miestas buvo gerokai suniokotas.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
@@ -43,7 +55,28 @@ Pavėluota šios Ordino tvirtovės apsiaustis nedavė rezultatų.
     Plauenas spėjo pasirengti ir apsigynė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-40546
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sąjungininkai užtruko pergalės vietoje ir
+    nepasinaudojo proga greitai užimti Or-
+    dino sostinę Marienburgą. Pavėluota šios
+    Ordino tvirtovės apsiaustis nedavė re-
+    zultatų. Naujasis magistras Henrikas fon
+    Plauenas spėjo pasirengti ir apsigynė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-38742

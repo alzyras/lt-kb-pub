@@ -9,6 +9,18 @@ tags:
   - asmuo
   - didikas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mikalojus Sapienskis
 
@@ -21,17 +33,16 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
 <a id="claim-t-35229"></a>
 - t-001
   global_id: t-35229
-  teiginys: 'Mikalojus Sapienskis lenkų didikų susirinkime kalbėjo kaip Vytauto atstovas.'
+  teiginys: "Mikalojus Sapienskis lenkų didikų susirinkime kalbėjo kaip Vytauto atstovas."
   pagrindžia:
-    - c-002
+    - c-38096
 
 <a id="claim-t-35230"></a>
 - t-002
   global_id: t-35230
-  teiginys: 'Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris.'
+  teiginys: "Mikalojus Sapienskis buvo Vytauto sekretorius arba kancleris."
   pagrindžia:
-    - c-001
-
+    - c-38095
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,6 +54,7 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     tautui jo karūnacijos projektą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -59,7 +71,48 @@ Rado čia ir Vytauto sekretorių ar kanclerį Mikalojų Sapienskį^1 ). Sapiensk
     królewstwo“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38095
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nors buvo jau vakaras, Zigmantas
+    aplankė Vytautą. Rado čia ir Vytauto sekretorių ar kanclerį
+    Mikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­
+    tautui jo karūnacijos projektą.
+  citata_rodoma: "Rado čia ir Vytauto sekretorių ar kanclerį\nMikalojų Sapienskį^1 ). Tuojau Romos ciesorius ir patiekė Vy­\ntautui jo karūnacijos projektą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35230
+
+- id: c-38096
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^1) ) C. ep. V. 816 p. (^2) ) T. p.
+    (^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­
+    kė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość
+    król Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się
+    wnieść na królewską godność, a z księstwa Litewskiego nowe uczynić
+    królewstwo“.
+  citata_rodoma: "(^3) ) M. Sapienskis, Vytauto atstovas, lenkų didikų susirinkime pasa­\nkė: „Nalega na pana mojego, ksiąźecia Witolda“, Zygmunt Jego Miłość\nkról Rzymski, prośba, radą i namową, ażeby z książęcej dozwoli! się\nwnieść na królewską godność, a z księstwa Litewskiego nowe uczynić\nkrólewstwo“."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35229

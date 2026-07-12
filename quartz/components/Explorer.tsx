@@ -81,6 +81,8 @@ export default ((userOpts?: Partial<Options>) => {
           class="explorer-toggle mobile-explorer hide-until-loaded"
           data-mobile={true}
           aria-controls={id}
+          aria-expanded={false}
+          aria-label="Atidaryti naršyklę"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -101,7 +103,9 @@ export default ((userOpts?: Partial<Options>) => {
           type="button"
           class="title-button explorer-toggle desktop-explorer"
           data-mobile={false}
-          aria-expanded={true}
+          aria-expanded={false}
+          aria-controls={id}
+          aria-label="Atidaryti naršyklę"
         >
           <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
           <svg
@@ -120,7 +124,49 @@ export default ((userOpts?: Partial<Options>) => {
           </svg>
         </button>
         <div id={id} class="explorer-content" aria-expanded={false} role="group">
-          <OverflowList class="explorer-ul" />
+          <OverflowList class="explorer-ul">
+            <li data-explorer-fallback="true">
+              <a href="/laikotarpiai">laikotarpiai</a>
+            </li>
+            <li data-explorer-fallback="true">
+              <a href="/objektai">objektai</a>
+              <ul>
+                <li>
+                  <a href="/objektai/asmenys">asmenys</a>
+                </li>
+                <li>
+                  <a href="/objektai/autoriai">autoriai</a>
+                </li>
+                <li>
+                  <a href="/objektai/ivykiai">įvykiai</a>
+                </li>
+                <li>
+                  <a href="/objektai/vietos">vietos</a>
+                </li>
+                <li>
+                  <a href="/objektai/grupes">grupės</a>
+                </li>
+                <li>
+                  <a href="/objektai/daiktai">daiktai</a>
+                </li>
+                <li>
+                  <a href="/objektai/paprociai">papročiai</a>
+                </li>
+                <li>
+                  <a href="/objektai/posakiai">posakiai</a>
+                </li>
+                <li>
+                  <a href="/objektai/zodynas">žodynas</a>
+                </li>
+                <li>
+                  <a href="/objektai/saltiniai">šaltiniai</a>
+                </li>
+              </ul>
+            </li>
+            <li data-explorer-fallback="true">
+              <a href="/temos">temos</a>
+            </li>
+          </OverflowList>
         </div>
         <template id="template-file">
           <li>

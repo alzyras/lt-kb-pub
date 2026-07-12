@@ -24,11 +24,13 @@
 }
 
 .advanced-evidence-line {
+  display: none;
   font-size: 0.85rem;
   color: var(--gray);
   line-height: 1.35;
 }
 
+:root:not([advanced-evidence="on"]),
 :root[advanced-evidence="off"] {
   .advanced-evidence-line {
     display: none !important;
@@ -38,6 +40,11 @@
 :root[advanced-evidence="on"] {
   .advanced-evidence-line {
     display: block;
+  }
+
+  table.advanced-evidence-line,
+  .advanced-evidence-line table {
+    display: table;
   }
 }
 
@@ -143,8 +150,17 @@ article table:has(.evidence-pill) {
 }
 
 article table.advanced-claims-table {
+  td:first-child {
+    width: 100%;
+  }
+
+  td:last-child {
+    white-space: normal;
+  }
+
   tr[data-claim-row="true"] {
     cursor: pointer;
+    scroll-margin-top: 6rem;
 
     &:hover,
     &:focus-within,
@@ -152,9 +168,37 @@ article table.advanced-claims-table {
       background: color-mix(in srgb, var(--secondary) 7%, transparent);
     }
 
+    &:target,
+    &.is-targeted {
+      background: color-mix(in srgb, var(--secondary) 14%, var(--light) 86%);
+      outline: 2px solid color-mix(in srgb, var(--secondary) 56%, transparent);
+      outline-offset: -2px;
+      animation: claim-target-pulse 1.6s ease-out 1;
+    }
+
+    &:target td:first-child,
+    &.is-targeted td:first-child {
+      box-shadow: inset 4px 0 0 var(--secondary);
+    }
+
+    &:target .claim-deeplink,
+    &.is-targeted .claim-deeplink {
+      color: var(--secondary);
+    }
+
     &.is-expanded .claim-evidence-toggle-icon {
       transform: rotate(90deg);
     }
+  }
+}
+
+@keyframes claim-target-pulse {
+  0% {
+    box-shadow: 0 0 0 0 color-mix(in srgb, var(--secondary) 36%, transparent);
+  }
+
+  100% {
+    box-shadow: 0 0 0 0.8rem transparent;
   }
 }
 
@@ -172,6 +216,24 @@ article table.advanced-claims-table {
   overflow-wrap: anywhere;
 }
 
+.claim-technical-audit {
+  margin: 0 0 0.85rem;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid color-mix(in srgb, var(--secondary) 18%, transparent);
+  border-left: 3px solid color-mix(in srgb, var(--secondary) 48%, transparent);
+  border-radius: 6px;
+  background: color-mix(in srgb, var(--light) 82%, var(--secondary) 4%);
+
+  h4 {
+    margin: 0 0 0.5rem;
+    color: var(--gray);
+    font-size: 0.78rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+}
+
 .claim-citation-card {
   margin: 0 0 0.85rem;
   padding: 0.72rem 0.85rem;
@@ -184,10 +246,16 @@ article table.advanced-claims-table {
   }
 }
 
+.claim-citation-author,
+.claim-citation-contributor,
 .claim-citation-source {
   margin-top: 0.45rem;
   color: var(--darkgray);
   font-size: 0.92rem;
+}
+
+.claim-citation-source {
+  margin-top: 0.2rem;
 }
 
 .claim-evidence-summary {
@@ -290,20 +358,31 @@ article blockquote {
   margin: 0.5rem 0 1.15rem;
   border-collapse: collapse;
   font-size: 0.82rem;
+  table-layout: fixed;
 
   th,
   td {
-    padding: 0.35rem 0.5rem;
-    border: 1px solid var(--lightgray);
+    padding: 0.45rem 0.55rem;
+    border: 1px solid color-mix(in srgb, var(--gray) 14%, transparent);
     vertical-align: top;
+    overflow-wrap: anywhere;
   }
 
   th {
-    width: 11rem;
-    color: var(--gray);
-    font-weight: 700;
+    width: min(13rem, 34%);
+    background: color-mix(in srgb, var(--light) 72%, var(--gray) 5%);
+    color: var(--darkgray);
+    font-size: 0.72rem;
+    font-weight: 800;
+    letter-spacing: 0.055em;
     text-align: left;
-    white-space: nowrap;
+    text-transform: uppercase;
+    white-space: normal;
+  }
+
+  td {
+    color: var(--darkgray);
+    line-height: 1.45;
   }
 
   pre {

@@ -9,10 +9,10 @@ const AdvancedEvidenceToggle: QuartzComponent = ({ displayClass }: QuartzCompone
     <button
       class={classNames(displayClass, "advanced-evidence-toggle")}
       aria-label="Rodyti arba slėpti išplėstus metaduomenis"
-      title="Advanced metaduomenys"
+      title="Išplėstiniai duomenys"
       type="button"
     >
-      <span class="advanced-evidence-toggle-label">Adv</span>
+      <span class="advanced-evidence-toggle-label">Tyrimas</span>
     </button>
   )
 }

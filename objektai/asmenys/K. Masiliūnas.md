@@ -3,11 +3,32 @@ tipas: asmuo
 pavadinimas: 'K. Masiliūnas (viceministeris)'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+datos:
+  - '1936 m.'
+date_start: '1936'
+date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
   - tauta
+amziai:
+  - 'XX'
+periodo_grupes:
+  - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # K. Masiliūnas (viceministeris)
 
@@ -25,17 +46,23 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
 <a id="claim-t-00008"></a>
 - t-001
   global_id: t-00008
-  teiginys: 'K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius.'
+  teiginys: "K. Masiliūno rūpesčiu buvo suburti penki žmonės, sutikę rašyti atskirus tautos gyvenimo laikotarpius."
   pagrindžia:
-    - c-001
+    - c-00117
 
 <a id="claim-t-00009"></a>
 - t-002
   global_id: t-00009
-  teiginys: 'K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui.'
+  teiginys: "K. Masiliūnas kartu su J. Tonkūnu rūpinosi bendradarbių rinkimu ir teikė paramą atliekamam darbui."
   pagrindžia:
-    - c-002
+    - c-00118
 
+<a id="claim-t-193625"></a>
+- t-003
+  global_id: t-193625
+  teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka."
+  pagrindžia:
+    - c-176296
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,7 +75,8 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     laikotarpį.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -65,7 +93,88 @@ K. Masiliūnas minimas kaip viceministeris, rūpinęsis veikalo bendradarbių su
     bui ir teikė reikiamos paramos.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-003
+  santrauka: '1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Kazimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų parašė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas Šapoka.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Kartais juos
+    inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
+    bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty-
+    vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu.
+    1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-00117
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ypač dėl jo sielojosi Švietimo
+    Ministerija. Pagaliau p. Viceministerio K. Masiliūno rūpesčiu
+    buvo suburta penketas žmonių, sutikusių imtis to darbo ir su-
+    tarusių parašyti kiekvienas apie atskirą mūsų tautos gyvenimo
+    laikotarpį.
+  citata_rodoma: "|"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00008
+
+- id: c-00118
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Norėtumėm pareikšti viltį, kad vadovėlis nors iš dalies pa-
+    tenkins gyvą visuomenės ir mokyklos reikalą, o kartu ir padė-
+    koti visiems, kurie prisidėjo prie jo pasirodymo. Pirmiausia
+    tenka padėkoti p. Švietimo Ministeriui prof. J. Tonkūnui ir Vi-
+    ceministeriui K. Masiliūnui, kurie daugiausia rūpinosi renkant
+    bendradarbius, o vėliau visą laiką rodė dėmesį dirbamajam dar-
+    bui ir teikė reikiamos paramos.
+  citata_rodoma: "|"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-00009
+
+- id: c-176296
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kartais juos
+    inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
+    bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty-
+    vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu.
+    1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193625

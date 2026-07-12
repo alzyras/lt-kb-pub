@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos TSR Istorijos Šaltiniai
 
@@ -27,24 +39,23 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
 <a id="claim-t-89528"></a>
 - t-001
   global_id: t-89528
-  teiginys: 'Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m.'
+  teiginys: "Pirmasis „Lietuvos TSR istorijos šaltinių“ tomas išleistas Vilniuje 1955 m."
   pagrindžia:
-    - c-002
+    - c-85476
 
 <a id="claim-t-89530"></a>
 - t-002
   global_id: t-89530
-  teiginys: 'Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“.'
+  teiginys: "Kai kurios Dusburgiečio kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“."
   pagrindžia:
-    - c-001
+    - c-85474
 
 <a id="claim-t-89531"></a>
 - t-003
   global_id: t-89531
-  teiginys: 'Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95.'
+  teiginys: "Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95."
   pagrindžia:
-    - c-001
-
+    - c-85474
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -59,6 +70,7 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     kronikos vertimas čia publikuojamas pirmą kartą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -72,7 +84,45 @@ LIŠ = Lietuvos TSR Istorijos Šaltiniai, t.
     Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-85474
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 21"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 21."
+  citata_originali: |
+    Lotyniškojo
+    originalo ir lietuviškojo vertimo paragrafai, atskleidžiantys įvairius prūsų (32 paragrafai)
+    ir lietuvių (14 paragrafų) kovų su Ordinu momentus (iki 1324 m.), tarpais sutrumpinti,
+    paskelbti J. Užpurvio parengtuose „Lietuvių tautos istorijos šaltiniuose“95. Kai kurios
+    kronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas
+    kronikos vertimas čia publikuojamas pirmą kartą.
+  citata_rodoma: "Kai kurios\nkronikos vietos lietuvių kalba publikuotos „Lietuvos TSR istorijos šaltiniuose“96. Pilnas\nkronikos vertimas čia publikuojamas pirmą kartą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89530
+    - t-89531
+
+- id: c-85476
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 266"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 266."
+  citata_originali: |
+    Lietuvos TSR istorijos šaltiniai.— T. 1.— V., 1955.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-89528

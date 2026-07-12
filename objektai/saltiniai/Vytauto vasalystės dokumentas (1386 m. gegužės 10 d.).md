@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytauto vasalystės dokumentas (1386 m. gegužės 10 d.)
 
@@ -26,17 +38,16 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
 <a id="claim-t-93072"></a>
 - t-001
   global_id: t-93072
-  teiginys: 'Vytauto vasalystės dokumentu nebuvo įsteigta kitokių institucijų.'
+  teiginys: "Vytauto vasalystės dokumentu nebuvo įsteigta kitokių institucijų."
   pagrindžia:
-    - c-001
+    - c-88478
 
 <a id="claim-t-93073"></a>
 - t-002
   global_id: t-93073
-  teiginys: 'Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d.'
+  teiginys: "Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d."
   pagrindžia:
-    - c-001
-
+    - c-88478
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +61,31 @@ Vilniaus - (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, 
     duotą 1386 m. gegužės 10 d. Žiūr.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-88478
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet Vytautui mirus, vėl
+    jo valdžia turėjo atitekti į Jogailos ir karūnos rankas. Kitokios
+    institucijos minėtais dokumentais nebuvo įsteigtos. Vilniaus -
+
+    (^1) ) Vytautas, matyt, čia kalba apie savo vasalystės dokumentą, iš­
+    duotą 1386 m. gegužės 10 d. Žiūr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-93073
+    - t-93072

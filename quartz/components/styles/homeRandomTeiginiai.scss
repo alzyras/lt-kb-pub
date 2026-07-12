@@ -1,29 +1,37 @@
 .home-random-teiginiai {
-  margin: 1.25rem 0;
-  padding: 0.9rem 1rem;
-  border: 1px solid var(--lightgray);
-  border-radius: 10px;
-  background: color-mix(in srgb, var(--light) 92%, var(--highlight));
+  margin: 3.25rem 0 0;
+  padding: 1.2rem 0 0;
+  border-top: 1px solid var(--dark);
+  background: transparent;
 }
 
 .home-random-teiginiai-title {
-  margin: 0 0 0.6rem;
-  font-size: 1rem;
+  margin: 0 0 0.85rem;
+  color: var(--dark);
+  font-size: clamp(1.55rem, 3vw, 2.35rem);
+  line-height: 1.08;
 }
 
 .home-random-teiginiai-list {
   margin: 0;
-  padding-left: 1.2rem;
+  padding: 0;
   display: grid;
-  gap: 0.35rem;
+  gap: 0;
+  list-style: none;
+  border-top: 1px solid var(--lightgray);
 }
 
 .home-random-teiginiai-list li a {
+  display: block;
+  padding: 0.85rem 0;
+  border-bottom: 1px solid var(--lightgray);
+  color: var(--dark);
   text-decoration: none;
 }
 
 .home-random-teiginiai-list li a:hover {
-  text-decoration: underline;
+  color: var(--secondary);
+  text-decoration: none;
 }
 
 .home-random-teiginiai-loading,

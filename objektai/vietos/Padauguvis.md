@@ -19,6 +19,18 @@ atnaujinta: ''
 amziai:
   - 'XII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Padauguvis
 
@@ -42,16 +54,16 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
 <a id="claim-t-73355"></a>
 - t-001
   global_id: t-73355
-  teiginys: 'Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai.'
+  teiginys: "Nuo XI a., skandinavams liovusis lankytis Padauguvyje, į šį kraštą pradėjo atvykti vokiečių pirkliai."
   pagrindžia:
-    - c-001
+    - c-46658
 
 <a id="claim-t-73356"></a>
 - t-002
   global_id: t-73356
-  teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
+  teiginys: "Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių."
   pagrindžia:
-    - c-002
+    - c-46659
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52464|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.
 - susijęs iš [[objektai/grupes/Voluiniečiai.md#claim-t-52465|Voluiniečiai]]: Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
@@ -78,6 +90,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     čia tik sustodavo, vykdami prekiauti į rusų kraštus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,10 +110,51 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
     kluotą savo tikinčiųjų apsaugą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+## Citatos
+
+- id: c-46658
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Pirmosios vokiečių kolonijos Padauguvy.** Nuo XI amž.,
+    kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo
+    lankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba
+    čia tik sustodavo, vykdami prekiauti į rusų kraštus.
+  citata_rodoma: ",\nkai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo\nlankytis vokiečių pirkliai. Jie prekiavo su lybiais ir aisčiais arba\nčia tik sustodavo, vykdami prekiauti į rusų kraštus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73355
+
+- id: c-46659
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pirmasis pago-
+    nių krikštu susirūpino misijonierius Meinhardas, kuris
+    buvo paskirtas ir pirmuoju Livonijos vyskupu (apie 1180 m.).
+    Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,
+    ir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,
+    jų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos
+    vyskupas, Albertas (1199—1229 m.), ėmė organizuoti gin-
+    kluotą savo tikinčiųjų apsaugą.
+  citata_rodoma: "Bet pirmoji krikščionių bendruomenė Padauguvy buvo silpna,\nir pagonys labai dažnai ją išnaikindavo, gyventojus išžudydavo,\njų sodybas ir bažnyčias sudegindavo. Todėl trečiasis Livonijos\nvyskupas, Albertas (1199—1229 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-73356
+
 ## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių pirkliai]]
+- Buvo kelionės vieta: [[objektai/grupes/Vokiečiai]]

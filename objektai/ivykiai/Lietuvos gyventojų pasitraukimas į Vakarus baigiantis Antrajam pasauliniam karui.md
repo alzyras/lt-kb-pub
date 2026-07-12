@@ -14,6 +14,18 @@ tags:
   - karas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos gyventojų pasitraukimas į Vakarus baigiantis Antrajam pasauliniam karui
 
@@ -42,24 +54,30 @@ Nenurodyta
 <a id="claim-t-45355"></a>
 - t-001
   global_id: t-45355
-  teiginys: 'Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų.'
+  teiginys: "Baigiantis Antrajam pasauliniam karui tūkstančiai Lietuvos gyventojų pasitraukė į Vakarus, bijodami Raudonosios armijos sugrįžimo ir deportacijų."
   pagrindžia:
-    - c-001
+    - c-48209
 
-<a id="claim-t-45356"></a>
+<a id="claim-t-45357"></a>
 - t-002
-  global_id: t-45356
-  teiginys: 'Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai.'
+  global_id: t-45357
+  teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
   pagrindžia:
-    - c-001
+    - c-48209
+
+<a id="claim-t-45357"></a>
+- t-003
+  global_id: t-45357
+  teiginys: "Pabėgėlių gretas papildė nacių okupacijos metais prievarta į Vokietiją dirbti išvežti lietuviai."
+  pagrindžia:
+    - c-48209
 
 <a id="claim-t-183241"></a>
 - t-004
   global_id: t-183241
-  teiginys: 'Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių.'
+  teiginys: "Tarp lietuvių dipukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų sąjungos narių, tūkstančiai mokytojų, inžinierių."
   pagrindžia:
-    - c-002
-
+    - c-166629
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -77,6 +95,7 @@ Nenurodyta
     įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -94,7 +113,50 @@ Nenurodyta
     iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-48209
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos diplomatinė tarnyba ir išeivija
+    Baigiantis Antrajam pasauliniam karui, bijodami artėjan-
+    čios Raudonosios armijos sugrįžimo ir deportacijų, tūkstančiai Lietuvos
+    gyventojų pasitraukė į Vakarus. Įvairiais duomenimis, 1945 m. Vakarų
+    Europoje lietuvių pabėgėlių ir tremtinių buvo daugiau kaip 72 tūkst. (la-
+    tvių – daugiau kaip 111 tūkst., estų – apie 31 tūkst.). Pabėgėlių gretas pa-
+    pildė nacių okupacijos metais prievarta išvežti į Vokietiją dirbti lietuviai.
+    Vokietijai pralaimėjus karą, kai kurie jų pateko į vadinamąsias dipukų
+    (angl. displaced persons (DP) – perkeltieji asmenys) – karo pabėgėlių, dėl
+    įvairių priežasčių atsidūrusių už tėvynės ribų, stovyklas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-45355
+    - t-45357
+    - t-45356
+
+- id: c-166629
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tarp lietuvių di-
+    pukų buvo 400 Kauno ir Vilniaus universiteto dėstytojų, pusė rašytojų
+    sąjungos narių, tūkstančiai mokytojų, inžinierių. Tad lietuvių inteligentija
+    iškeliavo dviem kryptimis – į Vakarus ar į Sibirą...
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183241

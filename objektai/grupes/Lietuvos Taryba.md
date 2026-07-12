@@ -14,12 +14,24 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - kraštas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos Taryba (institucija)
 
@@ -32,44 +44,44 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
 <a id="claim-t-182708"></a>
 - t-001
   global_id: t-182708
-  teiginys: 'Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona.'
+  teiginys: "Konferencijoje išrinkta 20 asmenų Lietuvos Taryba pradėjo veikti rugsėjo 24 d., o jos pirmininku tapo Antanas Smetona."
   pagrindžia:
-    - c-003
+    - c-166125
 
 <a id="claim-t-182709"></a>
 - t-002
   global_id: t-182709
-  teiginys: 'Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis.'
+  teiginys: "Lietuvos Taryba, vykdydama Vokietijos reikalavimą, pasisakė už tvirtą Lietuvos valstybės sąjungą su Vokietija, numatytą keturiomis konvencijomis."
   pagrindžia:
-    - c-002
+    - c-166124
 
 <a id="claim-t-182710"></a>
 - t-003
   global_id: t-182710
-  teiginys: '1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.'
+  teiginys: "1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą."
   pagrindžia:
-    - c-004
+    - c-166127
 
 <a id="claim-t-182904"></a>
 - t-004
   global_id: t-182904
-  teiginys: 'Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai.'
+  teiginys: "Konferencija programai vykdyti išrinko 20 asmenų Lietuvos Tarybą, kurią vėliau turėjo papildyti tautinių mažumų atstovai."
   pagrindžia:
-    - c-005
+    - c-166308
 
 <a id="claim-t-182905"></a>
 - t-005
   global_id: t-182905
-  teiginys: 'Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius.'
+  teiginys: "Valstybės Taryba spalio pabaigos sesijoje išleido laikinės konstitucijos pamatinius dėsnius."
   pagrindžia:
-    - c-006
+    - c-166309
 
 <a id="claim-t-182906"></a>
 - t-006
   global_id: t-182906
-  teiginys: 'Valstybės Taryba turėjo leisti įstatymus, sudaryti sutartis su kitomis valstybėmis ir naudotis interpeliacijų bei paklausimų teise.'
+  teiginys: "Valstybės Taryba turėjo leisti įstatymus, sudaryti sutartis su kitomis valstybėmis ir naudotis interpeliacijų bei paklausimų teise."
   pagrindžia:
-    - c-001
+    - c-22583
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75779|Augustinas Voldemaras]]: Augustinas Voldemaras vadovavo Lietuvos delegacijai prie Paryžiaus taikos konferencijos.
 - susijęs iš [[objektai/asmenys/J. Basanavičius.md#claim-t-63664|J. Basanavičius]]: 1918 m. vasario 16 d. J. Basanavičiaus vadovaujama Lietuvos Taryba paskelbė nepriklausomos Lietuvos valstybės atkūrimą.
@@ -102,6 +114,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     Jai priklausė taip pat interpeliacijų ir paklausimų teisė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -120,6 +133,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     Lietuvos Tarybos delegacija net nebuvo pakviesta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,6 +159,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,6 +177,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     ja ir aneksuoja Lietuvos Respubliką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,6 +200,7 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     pirmininku Taryba išsirinko A. Smetoną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -204,10 +221,135 @@ Konferencijos sudarytai programai vykdyti buvo išrinkta Taryba iš 20 asmenų, 
     reigas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
-## Ryšiai
-- Lietuvos Taryba (institucija) paskyrė [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+## Citatos
+
+- id: c-22583
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Prezidiumas savo valdžią turėjo vykdyti per ministe-
+    rių kabinetą, atsakingą prieš Valstybės Tarybą. Ši pastaroji tu-
+    rėjo leisti įstatymus ir daryti sutartis su kitomis valstybėmis.
+    Jai priklausė taip pat interpeliacijų ir paklausimų teisė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182906
+
+- id: c-166124
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau kitoje dalyje
+    Taryba, vykdydama Vokietijos reikalavimą, pasisakė „už amžiną, tvirtą
+    Lietuvos valstybės sąjungą su Vokietijos valstybe“, kuri būtų įgyvendinta
+    keturiomis konvencijomis (karinė, transporto, finansų, muitų). Nebeliko
+    nė žodžio apie Steigiamąjį Seimą. Žinoma, Vokietijai ši rezoliucija praver-
+    tė Bresto taikos (Brastos taikos, Brest Litovsko taikos) derybose, į kurias
+    Lietuvos Tarybos delegacija net nebuvo pakviesta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182709
+
+- id: c-166125
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Konferencijoje išrinkta 20 asmenų Lietuvos Taryba (ji pradėjo veikti
+    rugsėjo 24 dieną) kaip vykdomasis Lietuvos žmonių organas, o jos pirmi-
+    ninku – teisininkas, lietuviškų laikraščių redaktorius A. Smetona, tikintis,
+    Lietuvių konferencijos Vilniuje prezidiumas (1917 m. rugsėjis)
+
+    L I E T U V O S  I S T O R I J A
+    134
+    kad jis įveiks prieštaravimus tarp Tarybos radikaliosios ir konservatyvio-
+    sios dalies. Reali valdžia Tarybai nebuvo suteikta, tad ji ėmėsi sunkaus
+    vaidmens – tarpininkės tarp lietuvių tautos ir Oberosto, stengdamasi pa-
+    sinaudoti Vokietijoje prasibrėžiančiais skirtumais tarp kaizerio, Užsienio
+    reikalų ministerijos ir Reichstago centro (katalikų) deputatų ir trukdyti
+    Lietuvos aneksijos planus.
+    Viena iš svarbiausių diskusijos temų – būsimos Lietuvos teritorija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182708
+
+- id: c-166127
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Didžioji Lietuvos dalis atitenka Rusijai.
+    1918 II 16
+    Vokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-
+    vos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą.
+    1940 VI 15
+    realizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-
+    ja ir aneksuoja Lietuvos Respubliką.
+  citata_rodoma: "1918 II 16\t\nVokietijos okupacijos sąlygomis J. Basanavičiaus vadovaujama Lietu-\nvos Taryba paskelbia Nepriklausomos Lietuvos valstybės atkūrimą. \n1940 VI 15\t\nrealizuodama Molotovo–Ribentropo paktą, Sovietų Sąjunga okupuo-\nja ir aneksuoja Lietuvos Respubliką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182710
+
+- id: c-166308
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Konferencijos sudarytai programai vykdyti buvo išrinkta
+    Taryba iš 20 asmenų, prie kurių vėliau turėjo būti pririnkti
+    tautinių mažumų atstovai.
+
+
+    Lietuvos Tarybos nariai buvo šie: J. Basanavičius, (†), S. Ba-
+    naitis (†), M. Biržiška, K. Bizauskas, P. Dovydaitis, S. Kairys, P.
+    Klimas, D. Malinauskas, P. Mironas, S. Narutavičius (†), A. Pet-
+    rulis (†), A. Smetona, J. Smilgevičius, J. Staugaitis, A. Stulginskis,
+    J. Šaulys, K. Šaulys, J. Šernas (†), J. Vailokaitis, J. Vileišis. Savo
+    pirmininku Taryba išsirinko A. Smetoną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182904
+
+- id: c-166309
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vyriausybė pradėjo veikti, vaduodamasi vadinamaisiais
+    laikinės konstitucijos pamatiniais dėsniais, kuriuos išleido Vals-
+    tybės Taryba savo sesijoj spalių mėnesio pabaigoj. Aukščiau-
+
+
+    siojo valdžios organo kompetencija buvo atiduota Tarybos pre-
+    zidiumui, kurį sudarė pirmininkas (A. Smetona) ir du vicepirmi-
+    ninkai (J. Staugaitis ir S. Šilingas). Jie trise ėjo prezidento pa-
+    reigas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182905

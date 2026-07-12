@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Juozas Paliūnas-Rytas
 
@@ -27,16 +39,16 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
 <a id="claim-t-40238"></a>
 - t-001
   global_id: t-40238
-  teiginys: 'Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju.'
+  teiginys: "Maironio rinktinės vadas Juozas Paliūnas-Rytas per reorganizaciją tapo Prisikėlimo apygardos vado pavaduotoju."
   pagrindžia:
-    - c-001
+    - c-44393
 
 <a id="claim-t-183746"></a>
 - t-002
   global_id: t-183746
-  teiginys: 'Juozas Paliūnas-Rytas, Maironio rinktinės vadas, tapo Prisikėlimo apygardos vado pavaduotoju.'
+  teiginys: "Juozas Paliūnas-Rytas, Maironio rinktinės vadas, tapo Prisikėlimo apygardos vado pavaduotoju."
   pagrindžia:
-    - c-002
+    - c-167134
 - susijęs iš [[objektai/grupes/Maironio rinktinė.md#claim-t-41085|Maironio rinktinė]]: Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.
 - susijęs iš [[objektai/asmenys/Povilas Morkūnas-Rimantas.md#claim-t-183759|Povilas Morkūnas-Rimantas]]: Per Prisikėlimo apygardos reorganizaciją jos vadu tapo Povilas Morkūnas-Rimantas.
 - susijęs iš [[objektai/grupes/Prisikėlimo apygarda.md#claim-t-41115|Prisikėlimo apygarda]]: 1949 m. rugpjūčio 13 d. Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.
@@ -56,6 +68,7 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +91,53 @@ Apygradoje prasidėjo reorganizacija: Prisikėlimo apygardos vadu tapo Povilas M
     nės vadas Juozas Paliūnas-Rytas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-44393
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rusų nuostoliai nežinomi. Apygradoje
+    prasidėjo reorganizacija: Prisikėlimo
+    apygardos vadu tapo Povilas Morkūnas-
+    Rimantas, pavaduotoju - Maironio rinkti-
+    nės vadas Juozas Paliūnas-Rytas.
+
+    242  UŽPELKIŲ KAUTYNĖS 1949 m. rugpjūčio 13 d.
+  citata_rodoma: "Rusų nuostoliai nežinomi. Apygradoje\nprasidėjo reorganizacija: Prisikėlimo\napygardos vadu tapo Povilas Morkūnas-\nRimantas, pavaduotoju - Maironio rinkti-\nnės vadas Juozas Paliūnas-Rytas.\n\n242  UŽPELKIŲ KAUTYNĖS 1949 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40238
+
+- id: c-167134
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Žuvo LLKS tarybos pre-
+    zidiumo nariai Petras Bartkus-Žadgaila
+    (Prisikėlimo apygardos vadas) ir Bronius
+    Liesis-Naktis, Prisikėlimo apygardos
+    štabo viršininkas Vytautas Šniuolis-Svajū-
+    nas ir dar trys neatpažinti partizanai.
+    Rusų nuostoliai nežinomi. Apygradoje
+    prasidėjo reorganizacija: Prisikėlimo
+    apygardos vadu tapo Povilas Morkūnas-
+    Rimantas, pavaduotoju - Maironio rinkti-
+    nės vadas Juozas Paliūnas-Rytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183746

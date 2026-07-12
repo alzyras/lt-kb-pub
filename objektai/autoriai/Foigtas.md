@@ -5,22 +5,40 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Foigtas
 
 ## Santrauka
 
-Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos.
+Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos. Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
 
 ## Teiginiai
+
 <a id="claim-t-190389"></a>
 - t-001
   global_id: t-190389
-  teiginys: 'Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos.'
+  teiginys: "Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173272
+
+<a id="claim-t-194652"></a>
+- t-002
+  global_id: t-194652
+  teiginys: "Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe."
+  pagrindžia:
+    - c-177049
 - susijęs iš [[objektai/asmenys/Johanas Foigtas.md#claim-t-190032|Johanas Foigtas]]: Narbutas rašo, kad Johanas Foigtas vyriausiųjų žynių legendą laikė tuščiagarbio vienuolio išmone, bet šį priekaištą perėmė iš Hartknocho.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188616|Simonas Grunau]]: Narbutas gynė Grunau nuo Foigto kritikos ir manė, kad žinią apie vyriausiuosius žynius jis paėmė iš vyskupo Kristijono kronikos.
 - susijęs iš [[objektai/autoriai/J. Foigtas.md#claim-t-188412|Johanas Foigtas]]: Narbutas rašo, kad Foigtas legendą apie vyriausiuosius žynius laikė tuščiagarbio vienuolio išmone.
@@ -39,6 +57,7 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
 - susijęs iš [[objektai/zodynas/Krivis Krewe Crive.md#claim-t-189106|Krivis Krewe Crive]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
 - susijęs iš [[objektai/zodynas/Krivis Krewe Kriwe.md#claim-t-189198|Krivis Krewe Kriwe]]: Narbutas atmeta Foigto bandymą krivio vardą kildinti iš germanų „Greve“ ar „Graff“ pareigybės.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų tautoms seniai žinomos garbingos pareigos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -48,8 +67,65 @@ Narbutas rašo, kad Foigtas žodį krivis kildino iš Greve arba Graff, germanų
     ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
     seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
     pratimu sunku su tuo sutikti.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Ponas Foigtas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-173272
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 281"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 281."
+  citata_originali: |
+    Dėl krivio pavadinimo kilmės buvo daug spėliojimų, bet
+    jų visiškai negalima pripažinti teisingais. Ponas Foigtas trokš­
+    ta žodį krivis kildinti iš Greve, Graff- garbingos pareigos, nuo
+    seno žinomos germanų tautoms. Tačiau mūsų to dalyko su­
+    pratimu sunku su tuo sutikti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190389
+
+- id: c-177049
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 279"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 279."
+  citata_originali: |
+    Tie­
+    sa, mes nemokame deramai išaiškinti, ką reiškia tas pavadinimas,
+    kadangi jo kilmės mįslė dingsta žilos senovės toliuose. Ponas Foig-
+    tas, norėdamas suteikti vokiškumo atspalvį, rašo Griwe.
+    4 Dusburg.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194652

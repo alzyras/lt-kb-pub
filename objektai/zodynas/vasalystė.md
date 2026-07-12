@@ -14,6 +14,18 @@ tags:
   - sąvoka
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # vasalystė
 
@@ -26,17 +38,16 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 <a id="claim-t-12606"></a>
 - t-001
   global_id: t-12606
-  teiginys: 'Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.'
+  teiginys: "Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę."
   pagrindžia:
-    - c-001
+    - c-14724
 
 <a id="claim-t-12607"></a>
 - t-002
   global_id: t-12607
-  teiginys: 'Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.'
+  teiginys: "Vasalystė čia reiškia priklausomybės ir ištikimybės santykį."
   pagrindžia:
-    - c-001
-
+    - c-14724
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,8 +61,31 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
     nesant teisėtų įpėdinių, jo žemės turi tekti Ordinui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-14724
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Joje 1384 metų birželio mėn. 14 d. Vytautas ir magis­
+    tras iš naujo patvirtino vienas antram anksčiau duotus pažadus.
+    Magistras vėl pakartojo Vytautui savo sutikimą padėti atgauti
+    jo žemes, o Vytautas iš savo pusės jam pasižadėjo savo vasa­
+    lystę. Sutarties akte buvo pažymėta, jog po Vytauto mirties,
+    nesant teisėtų įpėdinių, jo žemės turi tekti Ordinui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12606
+    - t-12607

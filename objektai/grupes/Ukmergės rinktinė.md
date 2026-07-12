@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ukmergės rinktinė
 
@@ -20,9 +32,9 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
 <a id="claim-t-39009"></a>
 - t-001
   global_id: t-39009
-  teiginys: 'Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija.'
+  teiginys: "Ukmergės rinktinei per daug išsiveržus į priekį, kariuomenės vadovybė įsakė sustabdyti tolesnį puolimą, kad išsilygintų fronto linija."
   pagrindžia:
-    - c-001
+    - c-40813
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės-Utenos-Zarasų kryptimi, o Panevėžio rinktinė - Kėdainių-Panevėžio-Rokiškio kryptimi.
 - susijęs iš Ukmergė: Kariuomenės vadovybė sustabdė Ukmergės rinktinės puolimą, nes ši buvo per daug išsiveržusi į priekį ir reikėjo išlyginti fronto liniją.
 - susijęs iš Ukmergė: Ukmergės rinktinė turėjo veržtis Ukmergės, Utenos ir Zarasų kryptimi.
@@ -54,10 +66,38 @@ Po mūšio Kadangi Ukmergės rinktinė buvo per daug išsiveržusi į priekį, k
     Bružų-Balčių- Naujasodžio linijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Ukmergės rinktinė keliavo į [[objektai/vietos/Ukmergė]], [[objektai/vietos/Utena]], [[objektai/vietos/Zarasai]]
+## Citatos
+
+- id: c-40813
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po mūšio
+    Kadangi Ukmergės rinktinė buvo per daug
+    išsiveržusi į priekį, kariuomenės vadovybė
+    įsakė tolimesnį puolimą sustabdyti, kad
+    išsilygintų fronto linija. Panevėžio rinktinė
+    nuo Ukmergės buvo atsilikusi apie 20 km.
+    Kovose prie Utenos lietuviams kaip
+    trofėjus atiteko bolševikų šarvuotas
+
+    automobilis, į nelaisvę pateko per 100 bol-
+    ševikų, taip pat buvo paimta daug šau-
+    tuvų ir šaudmenų bei kitokio grobio.
+    Ukmergės rinktinės persekiojami, bol-
+    ševikai visgi sugebėjo gana tvarkingai
+    atsitraukti ir įsitvirtinti Pūslių- Vajasiškio—
+    Bružų-Balčių- Naujasodžio linijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39009

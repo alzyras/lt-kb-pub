@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XVIII'
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Astrachanas
 
@@ -21,17 +33,19 @@ amziai:
 Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes.
 
 ## Teiginiai
+
 <a id="claim-t-188977"></a>
 - t-001
   global_id: t-188977
-  teiginys: 'Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes.'
+  teiginys: "Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171866
 - susijęs iš [[objektai/autoriai/Janas Potockis.md#claim-t-190336|Janas Potockis]]: Jano Potockio kelionės į Astrachanę ir jos apylinkes 1797 m. aprašymas buvo paskelbtas „Dziennik Wilenski“ 1828 m.
 - susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190328|Jonas Potockis]]: Narbutas turėjo omenyje Jono Potockio 1797 m. kelionės į Astrachanę aprašymą, publikuotą „Dziennik Wilenski“ 1828 m.
+- susijęs iš [[objektai/autoriai/Jonas Potockis.md#claim-t-190735|Jonas Potockis]]: Narbutas turėjo omenyje straipsnį „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“, paskelbtą „Dziennik Wilenski“.
+- susijęs iš J. Potockio „Podrož Hrabiego Jana Potockiego do Astrachanu i okolic przyleglych, w roku 1797“: Jano Potockio kelionės į Astrachanę ir apylinkes 1797 m. aprašymas buvo publikuotas „Dziennik Wilenski“ 1828 m. penktame tome.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potockio straipsnį apie kelionę į Astrachaną ir jo apylinkes.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -40,8 +54,29 @@ Narbutas turėjo omenyje 1828 m. „Dziennik Wilenski“ paskelbtą Jano Potocki
     Hrabiego Jana Potockiego do Astrachanu i okolic
     przyleglych, w roku 1797 // Dziennik Wilenski. -
     1828. -  T. V. -  S. 222-240; 284-304.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171866
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 483"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 483."
+  citata_originali: |
+    Šį kartą istorikas turėjo omenyje straipsnį: Podrož
+    Hrabiego Jana Potockiego do Astrachanu i okolic
+    przyleglych, w roku 1797 // Dziennik Wilenski. -
+    1828. -  T. V. -  S. 222-240; 284-304.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188977

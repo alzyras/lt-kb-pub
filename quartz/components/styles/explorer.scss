@@ -130,12 +130,38 @@ button.desktop-explorer {
       color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
+      display: inline;
 
       &.active {
         opacity: 1;
         color: var(--tertiary);
       }
     }
+  }
+
+  .explorer-file-title {
+    display: inline;
+  }
+
+  .explorer-claim-badge {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1.45em;
+    height: 1.45em;
+    padding: 0 0.35em;
+    border: 1px solid var(--tertiary);
+    border-radius: 999px;
+    background: var(--light);
+    color: var(--tertiary);
+    font-family: var(--codeFont);
+    font-size: 0.64rem;
+    font-weight: 800;
+    line-height: 1;
+    letter-spacing: 0;
+    margin-left: 0.35rem;
+    transform: translateY(-0.05em);
+    vertical-align: baseline;
   }
 
   .folder-outer {
@@ -228,6 +254,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       & > .explorer-content {
         transform: translateX(-100vw);
         visibility: hidden;
+        pointer-events: none;
       }
     }
 
@@ -237,6 +264,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       & > .explorer-content {
         transform: translateX(0);
         visibility: visible;
+        pointer-events: auto;
       }
     }
 
@@ -259,6 +287,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       height: 100dvh;
       max-height: 100dvh;
       visibility: hidden;
+      pointer-events: none;
     }
 
     .mobile-explorer {

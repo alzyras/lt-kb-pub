@@ -10,6 +10,18 @@ tags:
   - ordinas
   - paprotys
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių kariavimo būdas ir pilių įgulos
 
@@ -42,38 +54,44 @@ Nenurodyta
 <a id="claim-t-78714"></a>
 - t-001
   global_id: t-78714
-  teiginys: 'XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų.'
+  teiginys: "XIII a. pabaigoje–XV a. pradžioje vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, valdomą valdovo paskirtų pareigūnų."
   pagrindžia:
-    - c-001
+    - c-75910
 
 <a id="claim-t-78715"></a>
 - t-002
   global_id: t-78715
-  teiginys: 'XIII a. pabaigoje - XV a. pradžioje Lietuva palei naująją sieną sukūrė lietuviškų pilių tinklą, kurio pilys buvo ir gynybos fortai, ir administraciniai centrai.'
+  teiginys: "XIII a. pabaigoje - XV a. pradžioje Lietuva palei naująją sieną sukūrė lietuviškų pilių tinklą, kurio pilys buvo ir gynybos fortai, ir administraciniai centrai."
   pagrindžia:
-    - c-003
+    - c-75913
 
 <a id="claim-t-78716"></a>
 - t-003
   global_id: t-78716
-  teiginys: 'Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau.'
+  teiginys: "Vakarinės lietuvių žemės sudarė vieningą valstybinę sistemą, todėl vokiečiai nebegalėjo atplėšti paskirų teritorijų kaip anksčiau."
   pagrindžia:
-    - c-001
+    - c-75910
 
 <a id="claim-t-78717"></a>
 - t-004
   global_id: t-78717
-  teiginys: 'Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
+  teiginys: "Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės."
   pagrindžia:
-    - c-002
+    - c-75911
 
 <a id="claim-t-183693"></a>
 - t-005
   global_id: t-183693
-  teiginys: 'Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis.'
+  teiginys: "Gedimino laikais Lietuvoje buvo išplėtotas mūrinių pilių tinklas ir susiformavo nuolatinių karo tarnybininkų sluoksnis."
   pagrindžia:
-    - c-004
+    - c-167083
 
+<a id="claim-t-193746"></a>
+- t-006
+  global_id: t-193746
+  teiginys: "Vokiečiai jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau, palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietuvių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo | valdomos ne savarankiškų kunigaikštukų, bet valdovo."
+  pagrindžia:
+    - c-75910
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -91,11 +109,13 @@ Nenurodyta
     viršininkai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-003
+    - t-006
 
 - c-002
   santrauka: 'Gedimino laikais Lietuvoje susiformavo nuolatinių karo tarnybininkų sluoksnis: pilėnai, raiteliai ir gerieji žmonės.'
@@ -110,7 +130,8 @@ Nenurodyta
     žmonės - kariai, galintys bet kada stoti į tarnybą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -125,7 +146,8 @@ Nenurodyta
     centrais, tiesiogiai kontroliuojamais centrinės valdžios.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -146,7 +168,92 @@ Nenurodyta
     mongolus prie Mėlynųjų vandenų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
+## Citatos
+
+- id: c-75910
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuva palei naująją sieną XIII a.
+    pabaigoje - xv a. pradžioje sukūrė lietuviškų pilių tinklą. Šios
+    pilys tapo ne tik sienos gynybos fortais, bet ir administraciniais
+    centrais, tiesiogiai kontroliuojamais centrinės valdžios. Vokiečiai
+    jau nebegalėjo atplėšti paskirų teritorijų, kaip tai darė anksčiau,
+    palaipsniui nukariaudami kitas baltų teritorijas, nes visos lietu-
+    vių žemės vakaruose sudarė vieningą valstybinę sistemą ir buvo |
+    valdomos ne savarankiškų kunigaikštukų, bet valdovo paskirtų
+    pareigūnų, kurie buvo ir valdovo civiliai vietininkai, ir pilių įgulų }
+    viršininkai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78714
+    - t-78716
+    - t-193746
+
+- id: c-75911
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prie jau anksčiau lietuvių užvaldytų
+    Juodosios Rusios (Naugarduko žemių) ir Polocko Gediminas
+    pridėjo užkariautas Haličo-Voluinės, Vitebsko ir Kijevo žemes.
+    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78717
+
+- id: c-75913
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nuo tada kryžiuočiai
+    ėmė sistemingai pulti Lietuvą. Lietuva palei naująją sieną XIII a.
+    pabaigoje - xv a. pradžioje sukūrė lietuviškų pilių tinklą. Šios
+    pilys tapo ne tik sienos gynybos fortais, bet ir administraciniais
+    centrais, tiesiogiai kontroliuojamais centrinės valdžios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78715
+
+- id: c-167083
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuva tapo didvalstybe - regiono lydere. Gedimino laikais Lie-
+    tuvoje buvo išplėtotas mūrinių pilių tinklas, susiformavo nuo-
+    latinių karo tarnybininkų sluoksnis - pilėnai, raiteliai, gerieji
+    žmonės - kariai, galintys bet kada stoti į tarnybą.
+
+    ## Puslapis 21
+
+    Gerai organizuota Lietuvos kariuomenė, vedama Lietuvos val-
+    dovo Algirdo, rusų žemėse sutriuškino su lietuviais konkuravusius
+    mongolus prie Mėlynųjų vandenų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183693

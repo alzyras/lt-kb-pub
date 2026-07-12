@@ -9,6 +9,18 @@ tags:
   - elekcija
   - ivykis
   - karalius
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Augusto II elekcija (1697 m.)
 
@@ -33,25 +45,41 @@ Nenurodyta
 Nenurodyta
 
 ## Teiginiai
+
 <a id="claim-t-66463"></a>
 - t-001
   global_id: t-66463
-  teiginys: '1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas.'
+  teiginys: "1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas."
   pagrindžia:
-    - c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
+    - c-66692
+
 <a id="claim-t-66464"></a>
 - t-002
   global_id: t-66464
-  teiginys: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
+  teiginys: "Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį."
   pagrindžia:
-    - c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  statusas: patvirtinta
-
+    - c-66691
 ## Reikšmingi paminėjimai
+
 - c-001
+  santrauka: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tuo būdu didelė dalis ba-
+    jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
+    tija tačiau atskirai paskelbė išrinktu princą Kontį. Bet Augus-
+    tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
+    rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
+    konfederaciją jam paremti.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+- c-002
   santrauka: '1697 m. elekcijoje po Jono Sobieskio mirties iš 18 kandidatų stipriausi atrodė princas Kontys ir Austrijos remiamas Jokūbas.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -65,14 +93,20 @@ Nenurodyta
     karaliaus sūnus Jokūbas.
     Bet Jokūbas buvo nepo-
     puliarus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
-- c-002
-  santrauka: 'Per 1697 m. elekciją dalis bajorijos karaliumi paskelbė Fridriką Augustą, o prancūziškoji partija atskirai išrinktu paskelbė princą Kontį.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+
+## Citatos
+
+- id: c-66691
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Tuo būdu didelė dalis ba-
     jorijos paskelbė karalium Fridriką Augustą. Prancūziškoji par-
@@ -80,8 +114,32 @@ Nenurodyta
     tas jau su paruošta kariuomene atskubėjo į Krokuvą ir čia ka-
     rūnavosi. Kontys irgi atplaukė į Dancigą. Jo šalininkai sudarė
     konfederaciją jam paremti.
-  citata_rodoma: ""
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+  pagrindzia:
+    - t-66464
+
+- id: c-66692
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-
+    soje Respublikos istorijoje: joje viską lėmė papirkimai. Iš
+    daugybės kandidatų (jų
+    buvo net 18) stipriausi
+    atrodė Prancūzų princas
+    Kontys _(de Conti)_ ir Au-
+    strų remiamas velionies
+    karaliaus sūnus Jokūbas.
+    Bet Jokūbas buvo nepo-
+    puliarus.
+  citata_rodoma: "Elekcija po Jono Sobieskio buvo viena iš nešvariausių vi-\nsoje Respublikos istorijoje: joje viską lėmė papirkimai. Iš\ndaugybės kandidatų (jų\nbuvo net 18) stipriausi\natrodė Prancūzų princas\nKontys _(de Conti)_ ir Au-\nstrų remiamas velionies\nkaraliaus sūnus Jokūbas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66463

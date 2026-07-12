@@ -14,6 +14,18 @@ tags:
   - ivykis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos įsiveržimas į Estiją ir kryžiuočių įsiveržimas į Žemaitiją (1322 m.)
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-28845"></a>
 - t-001
   global_id: t-28845
-  teiginys: '1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą.'
+  teiginys: "1322 m. lietuviai įsiveržė į Estiją, o kryžiuočiai per lietuvių puolimą Livonijoje įsiveržė į Žemaitijos gilumą."
   pagrindžia:
-    - c-001
-
+    - c-28749
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,26 @@ Nenurodyta
     padarė daug nuostolių^6.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-28749
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuviams užteko jėgos ne tik gintis, bet ir priešą puldinėti
+    Prūsuose ir Livonijoje (1318-19). 1322 m. jie įsiveržė Estijon. Lie­
+    tuviams puolant Livoniją, kryžiuočiai įsiveržė Žemaičių gilumon ir
+    padarė daug nuostolių^6.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28845

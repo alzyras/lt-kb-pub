@@ -9,6 +9,18 @@ atnaujinta: ''
 tags:
   - ordinas
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ordino brolis
 
@@ -21,16 +33,16 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
 <a id="claim-t-58861"></a>
 - t-001
   global_id: t-58861
-  teiginys: 'Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.'
+  teiginys: "Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius."
   pagrindžia:
-    - c-001
+    - c-59493
 
 <a id="claim-t-184631"></a>
 - t-002
   global_id: t-184631
-  teiginys: 'Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.'
+  teiginys: "Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais."
   pagrindžia:
-    - c-002
+    - c-167992
 - susijęs iš [[objektai/asmenys/Verneris iš Orzelno.md#claim-t-64234|Verneris iš Orzelno (kryžiuočių ordino magistras, XIV a.)]]: 1326 m. Petras iš Dusburgo užbaigė „Prūsijos žemės kroniką“ ir įteikė ją Ordino magistrui Verneriui iš Orzelno.
 - susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102849|Dusburgas]]: 1985 m. leidinio įžangoje Petras iš Dusburgo apibūdinamas kaip Kryžiuočių ordino brolis kunigas, 1326 m. užbaigęs savo kroniką; nurodoma, kad ji pratęsta iki 1330 m.
 - susijęs iš [[objektai/autoriai/Petras Dusburgietis.md#claim-t-181473|Petras Dusburgietis]]: Petras iš Dusburgo šiame šaltinyje apibūdinamas kaip Ordino brolis kunigas, 1326 m. užbaigęs savo kroniką ir įteikęs ją magistrui.
@@ -80,6 +92,7 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
         šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -103,7 +116,62 @@ Dusburgietis teigia, kad magistras br — Ordino brolis mkg.— markgrafas did. 
     neįmanoma nė suskaičiuoti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-59493
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 292"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 292."
+  citata_originali: |
+    (žr. Povilas)
+    Pelužis (D.— Peluse)
+    Perkūnas
+    Perlbachas M. (Perlbach)
+    Petras Atsiskyrėlis
+        br. kunigas Brandenburge (Pr.)
+        iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br.
+       kunigas, Prūsijos žemės kronikos autorius žr visame įvado bei paaiškinimų tekste
+        iš Rozenbergo
+        iš Čekijos
+        iš Tarantezo (žr. Inocentas V)
+       Ordino dvasininkas
+        šv.
+  citata_rodoma: ")\n    iš Dusburgo, Dusburgietis (D.— Petrus de Dusburgk, Jer.— P. von Dûsburc), Or. br."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58861
+
+- id: c-167992
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 103"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 103."
+  citata_originali: |
+    Taigi pasitrau-
+    d in a m i
+    ku ršin in k a is,
+    kę ir atsimetę nuo krikščio-
+    Tada, vienoje pusėje padaugėjus jėgų, kitoje — su­
+    mažėjus, prasidėjo
+    kova: tame mūšyje Livonijos
+    kariuomenė buvo žiauriai sutriuškinta. Žuvo tada
+    pats Livonijos magistras, Prūsijos maršalas Henrikas
+    Botelis ir šimtas penkiasdešimt ordino riterių, papras­
+    tai vadinamų broliais. O kiek žuvo paprastųjų karių,
+    neįmanoma nė suskaičiuoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184631

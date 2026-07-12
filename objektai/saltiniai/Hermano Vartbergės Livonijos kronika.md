@@ -15,6 +15,18 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hermano Vartbergės Livonijos kronika
 
@@ -39,24 +51,30 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 <a id="claim-t-171548"></a>
 - t-001
   global_id: t-171548
-  teiginys: 'Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį.'
+  teiginys: "Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka, kurioje rodoma, kaip lietuviai su apgulimo mašinomis sunaikina Piltenės pilį."
   pagrindžia:
-    - c-001
+    - c-11232
 
 <a id="claim-t-171549"></a>
 - t-002
   global_id: t-171549
-  teiginys: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
+  teiginys: "„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos."
   pagrindžia:
-    - c-002
+    - c-11233
 
 <a id="claim-t-171550"></a>
 - t-003
   global_id: t-171550
-  teiginys: 'Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės.'
+  teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
   pagrindžia:
-    - c-003
+    - c-167090
 
+<a id="claim-t-171550"></a>
+- t-004
+  global_id: t-171550
+  teiginys: "Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės."
+  pagrindžia:
+    - c-167090
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,7 +84,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     šinomis sunaikina Piltenės pilį.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -79,7 +98,8 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -113,8 +133,76 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
     Karuzo šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
     - t-003
+
+## Citatos
+
+- id: c-11232
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Ištrauka iš Hermano Vartbergės „Livonijos kronikos“ kaip lietuviai su apgulimo ma-
+    šinomis sunaikina Piltenės pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171548
+
+- id: c-11233
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „1329 m. [1330 m. kovo pradžioje] lietuvių karalius su didele kariuomene atvyko rygiečių
+    kviestas prie Piltenės vyskupo pilies ir nuo jos su įvairiomis apgulimo mašinomis pradėjo
+    puolimą. [...] Nuniokojęs kraštą jis [Gediminas] grįžo atgal.“
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171549
+
+- id: c-167090
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Juose rasite papildomos
+    informacijos apie to meto politinius, karinius įvykius, karybos
+    ir ginkluotės raidą.
+
+    Blokeliuose su skyriaus spalvos
+    juostele pateikiamos įvykių
+    liudininkų, amžininkų ar tų
+    laikų dokumentų citatos
+
+    Ryškesniu šriftu
+
+    išskirtos citatoje
+    aptariamų įvykių
+    aplinkybės
+
+    Ištrauka iš Hermano Vartbergės „Livonijos
+    kronikos“ apie Ordino brolių sumušimą prie
+
+    Karusės.
+
+    „Betgi magistrą Otto su 52 ordino broliais ir
+    600 krikščionių Viko krašte (in Maritima) prie
+    Karuzo šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183700
+    - t-171550

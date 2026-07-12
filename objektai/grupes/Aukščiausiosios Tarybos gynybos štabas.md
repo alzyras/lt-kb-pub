@@ -11,8 +11,21 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukščiausiosios Tarybos gynybos štabas (institucija)
 
@@ -25,9 +38,9 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
 <a id="claim-t-40860"></a>
 - t-001
   global_id: t-40860
-  teiginys: '1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas.'
+  teiginys: "1991 m. Aukščiausiosios Tarybos gynybos štabe buvo Audrius Butkevičius, Česlovas Jezerskas, Virginijus Česnulevičius ir Jonas Gečas."
   pagrindžia:
-    - c-001
+    - c-42645
 - susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40046|Audrius Butkevičius]]: 1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.
 - susijęs iš [[objektai/asmenys/Jonas Gečas.md#claim-t-40217|Jonas Gečas]]: 1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.
 - susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79217|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.
@@ -44,7 +57,25 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
     Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42645
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
+
+    Česlovas Jezerskas, Virginijus Česnulevičius, Jonas Gečas, KAM.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40860

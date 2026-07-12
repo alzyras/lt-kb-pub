@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1411
 
@@ -29,10 +41,9 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
 <a id="claim-t-36090"></a>
 - t-001
   global_id: t-36090
-  teiginys: 'M. Oehlerio „Der Krieg zwischen dem deutschen Orden mit Polen-Lithauen 1409–1411“ buvo išleistas Elbinge 1910 m. su žemėlapiais.'
+  teiginys: "M. Oehlerio „Der Krieg zwischen dem deutschen Orden mit Polen-Lithauen 1409–1411“ buvo išleistas Elbinge 1910 m. su žemėlapiais."
   pagrindžia:
-    - c-001
-
+    - c-38424
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,28 @@ Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen - Lithauen 1409—1
     Prochaska, A., Dzieje Witolda, Vilnius, 1914.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38424
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Lwów, 1923.
+    Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen -
+    Lithauen 1409—1411, Elbląg, 1910 (Pridėta ir žemėlapiai).
+    Prochaska, A., Dzieje Witolda, Vilnius, 1914.
+  citata_rodoma: "Oehler, M., Der Krieg zwischen dem deutschen Orden mit Polen -\nLithauen 1409—1411, Elbląg, 1910 (Pridėta ir žemėlapiai).\nProchaska, A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36090

@@ -13,10 +13,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)
 
@@ -29,30 +42,44 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
 <a id="claim-t-168139"></a>
 - t-001
   global_id: t-168139
-  teiginys: 'Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams.'
+  teiginys: "Komitetas gynė žmones nuo okupacinės valdžios žiaurumų, rekvizicijų ir neteisybių bei atstovavo lietuvių politiniams reikalams."
   pagrindžia:
-    - c-003
+    - c-46269
 
 <a id="claim-t-168140"></a>
 - t-002
   global_id: t-168140
-  teiginys: 'Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui.'
+  teiginys: "Komiteto pasiuntiniai slapta veikė Lietuvoje, telkdami krašte likusius inteligentus Lietuvos atstatymo darbui."
   pagrindžia:
-    - c-001
+    - c-00307
 
 <a id="claim-t-168143"></a>
 - t-003
   global_id: t-168143
-  teiginys: 'Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.'
+  teiginys: "Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo."
   pagrindžia:
-    - c-004
+    - c-152973
 
 <a id="claim-t-168144"></a>
 - t-004
   global_id: t-168144
-  teiginys: 'Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.'
+  teiginys: "Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje."
   pagrindžia:
-    - c-002
+    - c-46268
+
+<a id="claim-t-182885"></a>
+- t-005
+  global_id: t-182885
+  teiginys: "Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje."
+  pagrindžia:
+    - c-166289
+
+<a id="claim-t-193087"></a>
+- t-006
+  global_id: t-193087
+  teiginys: "Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose)."
+  pagrindžia:
+    - c-175852
 - susijęs iš Voronežas: Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.
 ## Reikšmingi paminėjimai
 
@@ -68,6 +95,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     vežti į Vokietiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,6 +114,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     specialią dieną rinkliavai).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -108,6 +137,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     atstatymo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,6 +159,7 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     okupuotoje Lietuvoje, tiek Rusijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -145,13 +176,147 @@ Lapkričio mėnesį Vilniuje buvo įkurtas Centralinis Komitetas Nukentėjusiems
     dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
 
-## Ryšiai
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gynė [[objektai/grupes/Lietuviai]]
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) siuntė į [[objektai/vietos/Lietuva]]
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) gyveno [[objektai/vietos/Petrapilis]]
-- Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija) rėmė [[objektai/grupes/Lietuviai]]
+- c-006
+  santrauka: 'Lietuvių tremtiniai Rusijoje Lietuvių Komitetas, persikėlęs į Petrapilį (dabartinį Leningradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuomenės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    ##### 2. Lietuvių tremtiniai Rusijoje
+
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
+    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
+    zijose). Studentams buvo duodamos pašalpos universitetuose ir
+    steigiami bendrabučiai.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-006
+
+## Citatos
+
+- id: c-00307
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Komiteto pasiuntiniai slapta pasklido po Lietuvą burti
+    į tą darbą visų krašte likusių inteligentiškų pajėgų. Buvo pa-
+    skleista nemaža slaptų atsišaukimų su šūkiais ruoštis į Lietuvos
+    atstatymo darbą, nepaisant žiaurių okupacijos sąlygų. Daug
+    žmonių dėl to nukentėjo — buvo susodinti į kalėjimus arba iš-
+    vežti į Vokietiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168140
+
+- id: c-46268
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuomet ir seniau išblaškyti po plačiąją
+    Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
+    būsimajai Lietuvai. Komitetas rūpinosi per savo atstovus Skan-
+    dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje. Ko-
+    miteto įgaliotiniai, nusiųsti į Šiaurės Ameriką, paskatino ten lie-
+    tuvius rinkti aukas (Amerikos prezidentas Vilsonas net paskyrė
+    specialią dieną rinkliavai).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168144
+
+- id: c-46269
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Komitetas, kiek leido aplinkybės, užstodamas žmones prieš
+    okupacinės valdžios žiaurumus, nepakeliamas rekvizicijas ir vi-
+    sokias neteisybes, atstovavo ir lietuvių politiniams reikalams.
+
+
+    Pirmoji proga viešai prabilti pasitaikė 1916 m. gegužės mėnesį,
+    Rusijos pavergtoms tautoms kreipiantis į Jungtinių Amerikos
+    Valstybių prezidentą Vilsoną. Kiek vėliau trys Komiteto dele-
+    gatai išvyko į Lozaną _(Lausanne,_ Šveicarijoje), kur tų pavergtų
+    tautų kongresas pareikalavo visai nepriklausomos Lietuvos
+    atstatymo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168139
+
+- id: c-152973
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Partijų kovoms nė tuomet
+    neaprimus, Komitete kilo ginčų, ir trys paskutinieji (kairiųjų pažiū-
+    rų) nariai iš jo išstojo.
+
+    Kai 1915 metų vasarą Vokietija didelėmis jėgomis puolė
+    Rusiją, paėmė Kauną, o rugsėjo mėnesį Vilnių, — dalis Centra-
+    linio Komiteto narių pasiliko Vilniuje, o kita dalis pasitraukė į
+    Rusiją. Tuo būdu ta pati didžioji ir pastovioji lietuvių orga-
+    nizacija viena atstovavo to meto lietuvių reikalams tiek vokiečių
+    okupuotoje Lietuvoje, tiek Rusijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-168143
+
+- id: c-166289
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Studentams buvo duodamos pašalpos universitetuose ir
+    steigiami bendrabučiai. Tuomet ir seniau išblaškyti po plačiąją
+    Rusiją inteligentai buvo suburti į tautos pajėgų ruošiamąjį darbą
+    būsimajai Lietuvai. Komitetas rūpinosi per savo atstovus Skan-
+    dinavijoje ir Šveicarijoje ir lietuvių belaisviais Vokietijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182885
+
+- id: c-175852
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    ##### 2. Lietuvių tremtiniai Rusijoje
+
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
+    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
+    zijose). Studentams buvo duodamos pašalpos universitetuose ir
+    steigiami bendrabučiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193087

@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Oblastnoe delenie L.R.Q
 
@@ -27,10 +39,9 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
 <a id="claim-t-36089"></a>
 - t-001
   global_id: t-36089
-  teiginys: 'Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m.'
+  teiginys: "Liubavskio „Oblastnoe delenie L.R.Q.“ buvo išleista Maskvoje 1892 m."
   pagrindžia:
-    - c-001
-
+    - c-38423
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,29 @@ iš Liubavski, Oblastnoe delenie L.R.Q.
     ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38423
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    (^1) ) Dūmas — atskiras ūkis, turįs vieną kaminą ar aukštini, pro kur
+    išeidavo dūmai. Red.
+    (^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,
+    Oblastnoe delenie L.R.Q. Moskva 1892, p. 321). 3
+    ) J. Jakubowski, Opis Księstwa Trockiego (Kwartalnink hist.
+  citata_rodoma: "(^2) ) A. Veryha - Darevskis, Lietuvos mokesčiai, 19 p., (Cit. iš Liubavski,\nOblastnoe delenie L.R.Q. Moskva 1892, p. 321)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36089

@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Salynas
 
@@ -31,51 +43,51 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
 <a id="claim-t-51874"></a>
 - t-001
   global_id: t-51874
-  teiginys: '1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
+  teiginys: "1398 m. spalio 12 d. Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   pagrindžia:
-    - c-002
+    - c-37708
 
 <a id="claim-t-51876"></a>
 - t-002
   global_id: t-51876
-  teiginys: '1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas.'
+  teiginys: "1398 metų spalio 12 dieną Salyne įvyko Vytauto ir kryžiuočių magistro suvažiavimas."
   pagrindžia:
-    - c-002
+    - c-37708
 
 <a id="claim-t-51877"></a>
 - t-003
   global_id: t-51877
-  teiginys: 'Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
+  teiginys: "Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi."
   pagrindžia:
-    - c-003
+    - c-37709
 
 <a id="claim-t-51878"></a>
 - t-004
   global_id: t-51878
-  teiginys: '1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi.'
+  teiginys: "1398 metų pabaigoje Salyne Vytauto bajorai paskelbė jį Lietuvos ir Rusijos žemių karaliumi."
   pagrindžia:
-    - c-003
+    - c-37709
 
 <a id="claim-t-51879"></a>
 - t-005
   global_id: t-51879
-  teiginys: '1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio.'
+  teiginys: "1398 m. Salyno sutartimi Vytautas užleido Ordinui visą Žemaitiją iki Nevėžio."
   pagrindžia:
-    - c-004
+    - c-37710
 
 <a id="claim-t-51880"></a>
 - t-006
   global_id: t-51880
-  teiginys: 'Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas.'
+  teiginys: "Salyno saloje Nemune spalio 12 d. įvyko iškilmingas sutarties ratifikavimas."
   pagrindžia:
-    - c-001
+    - c-37707
 
 <a id="claim-t-183089"></a>
 - t-007
   global_id: t-183089
-  teiginys: 'Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas.'
+  teiginys: "Salynas buvo Nemuno sala apie dabartinę Kulautuvą, kurioje vyko Salyno sutarties susitikimas."
   pagrindžia:
-    - c-005
+    - c-166477
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178862|Kryžiuočių ordinas]]: Kryžiuočių ordinas, remdamasis Salyno sutartimi, reikalavo grąžinti jam pabėgėlius žemaičius.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179360|Livonijos ordinas]]: Per Prūsų ir Livonijos magistrų surengtą puotą Salyno suvažiavime Vytautas paskelbtas Lietuvos karaliumi.
 - susijęs iš [[objektai/ivykiai/Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.).md#claim-t-95957|Gardino preliminarinė sutartis ir Salyno ratifikavimas (1398 m.)]]: 1398 m. spalio 12 d. Gardino sutartis buvo iškilmingai ratifikuota Salyno saloje Nemune.
@@ -142,7 +154,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     rų ir palydovų.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
@@ -159,6 +172,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     gistro suvažiavimas^1 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -177,6 +191,7 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     ke, pas karalių Zigmantą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -191,7 +206,8 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     suvaldyti ją^6 ).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -208,11 +224,108 @@ Susitikimas buvo Salyne (sala Nemune, buvusi apie dabartinę Kulautuvą). Nuo pa
     Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
 
+## Citatos
+
+- id: c-37707
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Iškilmingas tos sutarties ratifikavimas (patvir­
+    tinimas) įvyko tų pačių metų spalių 12 d. Salyno saloj (Ne­
+    mune). Dalyvavo Prūsų ir Livonijos Ordinų magistrai, Var­
+    mijos ir Sambijos vyskupai ir daug komtūrų. Iš lietuvių pusės
+    dalyvavo Vytautas su žmona Ona, daugybė kunigaikščių, bajo­
+    rų ir palydovų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-51880
+
+- id: c-37708
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Momentas buvo labai sumaniai pa­
+    sirinktas: dabar kaip tik Vytautui buvo labai reikalinga parama
+    prieš Lenkijos pretenzijas, pareikštas karalienės Jadvygos laiš­
+    ke ir totorius. Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­
+    sta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­
+    gistro suvažiavimas^1 ).
+  citata_rodoma: "Tuo tikslu, t. y. gauti iš Ordino pagalbos ir įvyk­\nsta 1398 m. spalių mėn. 12 d. Salyne Vytauto ir kryžiuočių ma­\ngistro suvažiavimas^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-51876
+    - t-51874
+
+- id: c-37709
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytau­
+    tas su Jogaila tuo reikalu rūpinosi Romos kurijoj. Tų pačių
+    metų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir
+    Rusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­
+    kyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­
+    ke, pas karalių Zigmantą.
+  citata_rodoma: "Tų pačių\nmetų pabaigoj Salyne Vytautą jo bajorai paskelbė Lietuvos ir\nRusijos žemių karalium. Po dvylikos metų šis klausimas vėl iš­\nkyla aikštėn ir, būtent tuo metu, kai Vytautas lankėsi Kėzmar­\nke, pas karalių Zigmantą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-51878
+    - t-51877
+
+- id: c-37710
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    1398 mt. Salyno sutartimi jis pats užleido Ordinui visą Žemai­
+    tiją, net iki Nevėžio^5 ). O 1400 met. net ginklu padėjo Ordinui
+    suvaldyti ją^6 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-51879
+
+- id: c-166477
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Susitikimas buvo Salyne (sala
+    Nemune, buvusi apie dabartinę Kulautuvą). Nuo pasirašymo vie-
+    tos ir sutartis vadinama Salyno sutartim. Ja Vytautas sutiko už-
+    leisti ordinui Žemaičius iki pat Nevėžio; ordinui, be to, buvo pa-
+    likta šiaurinė Suvalkų krašto dalis (anapus linijos, einančios nuo
+    Salyno tiesiog į Šešupę, ir kairysis Šešupės krantas).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183089
+
 ## Ryšiai
-- Turėjo priklausinį: [[objektai/vietos/Salyno sala]]
 - Salynas priklausė [[objektai/vietos/Nemunas]]

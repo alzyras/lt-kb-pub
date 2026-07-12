@@ -16,6 +16,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zofija (Jurgio Sniadeckio dukra)
 
@@ -28,10 +40,9 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
 <a id="claim-t-87894"></a>
 - t-001
   global_id: t-87894
-  teiginys: '1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.'
+  teiginys: "1820 m. M. Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą."
   pagrindžia:
-    - c-001
-
+    - c-83873
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,10 +59,31 @@ Balinskis vedė Zofiją, universiteto profesoriaus Jurgio Sniadeckio dukrą.
     gyveno Vilniuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Zofija (Jurgio Sniadeckio dukra) gyveno [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-83873
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    M. Balinskis daugelį iš jų asmeniškai pažinojo,
+    VII
+
+    ## Puslapis 8
+
+    1819 m. pats įstojo į šią ložę. 1820 m. M. Balinskis vedė Zofiją,
+    universiteto profesoriaus Jurgio Sniadeckio dukrą. Jaunavedžiai
+    gyveno Vilniuje.
+  citata_rodoma: "Balinskis daugelį iš jų asmeniškai pažinojo,\nVII\n\n## Puslapis 8\n\n1819 m. pats įstojo į šią ložę. 1820 m. M. Balinskis vedė Zofiją, \nuniversiteto profesoriaus Jurgio Sniadeckio dukrą. Jaunavedžiai \ngyveno Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87894

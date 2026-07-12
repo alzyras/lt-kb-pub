@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Memmingenas
 
@@ -27,10 +39,9 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
 <a id="claim-t-32359"></a>
 - t-001
   global_id: t-32359
-  teiginys: 'Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene.'
+  teiginys: "Lietuvių Bibliografinės Tarnybos biuletenis „Knygų lentyna“ buvo pradėtas leisti Vokietijos Memmingene."
   pagrindžia:
-    - c-001
-
+    - c-33949
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,7 +53,27 @@ leisto Lietuvių Bibliografinės Tarnybos Biu­ letenio Knygų Lentyna (pradėta
     Danville, III., JAV).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33949
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ruža-
+    niec-Ružancovo 1948-1965 m. leisto Lietuvių Bibliografinės Tarnybos Biu­
+    letenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.
+    Danville, III., JAV).
+  citata_rodoma: "leisto Lietuvių Bibliografinės Tarnybos Biu­\nletenio** **_Knygų Lentyna_** **(pradėtas Vokietijos Memmingene, nuo 1949 m.\nDanville, III., JAV)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32359

@@ -9,6 +9,18 @@ tags:
   - autorius
   - kraštas
   - ordinas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Posilge
 
@@ -21,16 +33,16 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
 <a id="claim-t-29505"></a>
 - t-001
   global_id: t-29505
-  teiginys: 'Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.'
+  teiginys: "Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų."
   pagrindžia:
-    - c-001
+    - c-29410
 
 <a id="claim-t-184350"></a>
 - t-002
   global_id: t-184350
-  teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.'
+  teiginys: "Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus."
   pagrindžia:
-    - c-002
+    - c-167720
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179643|Skirgaila]]: 1393 m. tarp Vytauto ir Skirgailos kilo smarkus ginčas, kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
 - susijęs iš [[objektai/asmenys/Jadvyga.md#claim-t-176407|Jadvyga]]: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos smarkaus ginčo.
 - susijęs iš Vilnius: 1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.
@@ -50,6 +62,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
     giškus santykius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -67,7 +80,47 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
     taip pasidavęs »^9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-29410
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Daug įdomių žinių iš to
+    laikotarpio yra patiekęs kronikininkas Jonas von Posilge. Jis pa­
+    žymėjo : « Ordinui šį kartą pasidavė visa Žemaičių žemė, ir daug
+    įkaitų davė krašto kilmingieji; dar niekados jis ordinui nebuvo
+    taip pasidavęs »^9.
+    Kryžiuočiai dėjo visas pastangas su Vytautu palaikyti drau­
+    giškus santykius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-29505
+
+- id: c-167720
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Gi įkaitus
+    kryžiuočiai ėmė šimtais iš įvairių vietų. Daug įdomių žinių iš to
+    laikotarpio yra patiekęs kronikininkas Jonas von Posilge. Jis pa­
+    žymėjo : « Ordinui šį kartą pasidavė visa Žemaičių žemė, ir daug
+    įkaitų davė krašto kilmingieji; dar niekados jis ordinui nebuvo
+    taip pasidavęs »^9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184350

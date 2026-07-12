@@ -19,6 +19,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Chojevskis
 
@@ -31,10 +43,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
 <a id="claim-t-87715"></a>
 - t-001
   global_id: t-87715
-  teiginys: 'Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas.'
+  teiginys: "Pšemislio vyskupas Jonas Chojevskis 1533 m. liepos 26 d. Vilniuje dalyvavo kaip karaliaus Žygimanto rašto liudininkas."
   pagrindžia:
-    - c-001
-
+    - c-83694
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -70,7 +81,49 @@ Dalyvaujant didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­ kupui 
     Viešpaties vardu Amen.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83694
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio rašto patikimumui mūsų antspaudas yra prikabintas.
+    Duota Vilniuje, liepos dvidešimt šeštąją, tūkstantis penki
+    šimtai trisdešimt trečiaisiais Viešpaties metais. Dalyvaujant
+    didžiai gerbiamiems Kristuje tėvams ponams Pšemislio vys­
+    kupui Jonui Chojevskiui, Vilniaus vyskupui Jonui, prakil­
+    niesiems ir garbingiesiems Vilniaus kaštelionui ir Lietuvos
+    Didžiosios Kunigaikštystės rūmų bei kariuomenės maršal­
+    kai, taip pat vyriausiajam Gardino seniūnui Jurgiui Radvi­
+    lai, Naugarduko vaivadai Albertui Goštautui, Vitebsko vai­
+    vadai Motiejui Ochmistrovičiui, mūsų Lietuvos Didžiosios
+    Kunigaikštystės iždininkui Ivanui Homostajui ir daugeliui
+    kitų liudininkų.
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 402
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    ŠVIESIAUSIOJO KARALIAUS ŽYGIMANTO SENOJO
+    PRIVILEGIJA
+    DĖL TEISĖS RINKTI MUITĄ IŠ PRAEIVIŲ TILTU
+    PER VILIJOS UPĘ SUTEIKIMO PIRMIAUSIA
+    ULRIKUI HOZIJUI, PASKUI ŠVENČIAUSIOSIOS TREJYBĖS
+    PRIEGLAUDAI (ŠPITOLEI),
+    IŠLEISTA" 1536 METŲ RUGPJŪČIO 6 DIENĄ
+    LOTYNŲ KALBA
+    (Išrašo iš magistrato knygų vertimas)
+    Viešpaties vardu Amen.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87715

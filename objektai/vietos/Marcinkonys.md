@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Marcinkonys
 
@@ -19,10 +31,9 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
 <a id="claim-t-41896"></a>
 - t-001
   global_id: t-41896
-  teiginys: 'Rugsėjo 24 d. lenkai užėmė Marcinkonis ir atkirtо atsitraukimo kelią į šiaurę.'
+  teiginys: "Rugsėjo 24 d. lenkai užėmė Marcinkonis ir atkirtо atsitraukimo kelią į šiaurę."
   pagrindžia:
-    - c-001
-
+    - c-45200
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,10 +48,33 @@ Rugsėjo 24 d. lenkai užima Marcinkonis ir atkerta atsitraukimo kelią į šiau
     troliuojamą Lietuvos teritoriją iš rytų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45200
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rugsėjo 24 d. lenkai užima Marcinkonis ir at-
+    kerta atsitraukimo kelią į šiaurę.
+
+    7-asis ir 2-asis pėst. p. priverstas trauktis į rytus.
+    Už Lydos pavyksta aplenkti lenkų pajėgas ir
+    spalio 1 d. sugrįžti į Lietuvos kariuomenės kon-
+    troliuojamą Lietuvos teritoriją iš rytų.
+  citata_rodoma: "Rugsėjo 24 d. lenkai užima Marcinkonis ir at-\nkerta atsitraukimo kelią į šiaurę.\n\n7-asis ir 2-asis pėst."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41896
 
 ## Ryšiai
 - Užėmė Marcinkonį: [[objektai/grupes/Lenkai]]

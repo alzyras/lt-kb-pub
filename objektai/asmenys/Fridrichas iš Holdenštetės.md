@@ -17,6 +17,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fridrichas iš Holdenštetės
 
@@ -29,17 +41,23 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
 <a id="claim-t-60119"></a>
 - t-001
   global_id: t-60119
-  teiginys: 'Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397.'
+  teiginys: "Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397."
   pagrindžia:
-    - c-002
+    - c-167449
 
 <a id="claim-t-60120"></a>
 - t-002
   global_id: t-60120
-  teiginys: 'Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.'
+  teiginys: "Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje."
   pagrindžia:
-    - c-001
+    - c-60752
 
+<a id="claim-t-60119"></a>
+- t-003
+  global_id: t-60119
+  teiginys: "Tuo metu maršalu buvo brolis Fridrichas iš Holdenštetės397."
+  pagrindžia:
+    - c-167449
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -55,6 +73,7 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
     Štai šiuo būdu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -76,11 +95,56 @@ Dusburgietis teigia, kad tuo metu maršalu buvo brolis Fridrichas iš Holdenšte
                     125 (120).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
 
-## Ryšiai
-- Fridrichas iš Holdenštetės puolė [[objektai/vietos/Notanga]]
+## Citatos
+
+- id: c-60752
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 131"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 131."
+  citata_originali: |
+    130 (125). Apie Brandenburgo pilies sunaikinimą
+
+       Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais
+    atvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,
+    degindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai
+    traukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta
+    Štai šiuo būdu.
+  citata_rodoma: "Apie Brandenburgo pilies sunaikinimą\n\n   Brolis Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais bei ginklanešiais\natvyko į Notangos valsčių, vardu Saldava403, buvusį netoli Kroicburgo pilies, ir jį nusiaubė,\ndegindamas bei plėšdamas, daug žmonių išžudydamas ar paimdamas  į nelaisvę. Kai\ntraukė namo, sutiko pasiuntinį, kuris pasakė, kad Brandenburgo pilis esanti sunaikinta\nŠtai šiuo būdu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60120
+
+- id: c-167449
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 129"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 129."
+  citata_originali: |
+    Apie brolį Liudviką, septintą Prūsijos žemės magistrą
+
+       Brolis  Liudvikas  iš Baldensheimo,  septintas  Prūsijos  magistras, vadovavo nuo
+    1265 viešpaties metų šešerius metus396. Tuo metu maršalu buvo brolis Fridrichas iš
+    Holdenštetės397.
+
+
+
+
+                    125 (120).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184064
+    - t-60119

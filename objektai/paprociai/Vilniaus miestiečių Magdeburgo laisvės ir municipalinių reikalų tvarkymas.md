@@ -10,6 +10,18 @@ tags:
   - miestas
   - paprotys
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-87288"></a>
 - t-001
   global_id: t-87288
-  teiginys: 'Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose.'
+  teiginys: "Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose."
   pagrindžia:
-    - c-001
-
+    - c-83267
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -73,7 +84,41 @@ Nenurodyta
     kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dabar tik kai
+    kuriuos miestus palyginsime su Vil­
+    niumi.
+    —  • -
+    152
+
+    ## Puslapis 169
+
+    Il KNYGA
+    Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­
+    burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­
+    mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­
+    mo žmonės; pagaliau Vilniaus, pralobusio per atsivėrusią
+    galimybę prekiauti su Juodosios jūros uostais, klestėjimas Vy­
+    tautą įtikino leisti miestiečių luomui dalyvauti tautos pasitari­
+    muose79. Šit kodėl ilgas šio kunigaikščio viešpatavimas, ne­
+    paisant ir negandų, kokių patyrė, nepaisant ne kartą
+    pasitaikiusio karinės valdžios kišimosi į municipalinius rei­
+    kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87288

@@ -16,6 +16,18 @@ tags:
   - paprotys
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prekybos sutarčių, saugumo garantijų ir pirklių judėjimo laisvės praktika
 
@@ -48,17 +60,16 @@ Nenurodyta
 <a id="claim-t-87146"></a>
 - t-001
   global_id: t-87146
-  teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais.'
+  teiginys: "Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykstančiam į Gdanską prekybos reikalais."
   pagrindžia:
-    - c-001
+    - c-83124
 
 <a id="claim-t-87147"></a>
 - t-002
   global_id: t-87147
-  teiginys: 'Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės.'
+  teiginys: "Vasario pradžioje Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl abipusio saugumo ir prekybos laisvės."
   pagrindžia:
-    - c-002
-
+    - c-83125
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -98,6 +109,7 @@ Nenurodyta
     mo".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -122,7 +134,78 @@ Nenurodyta
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-83124
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    8
+    Iki mūsų laikų Slaptajame Karaliau­
+    čiaus archyve išliko didžiojo kuni­
+    gaikščio Švitrigailos laiškas, kuriame
+    didžiojo magistro prašo saugumo ga­
+    rantijų Bomannui, Vilniaus gyvento­
+    jui, vykstančiam į Gdanską su pre­
+    kybiniais reikalais. Id. Ibid.
+    9
+    Kotzebue Switrigail, p. 83, cituo­
+    ja Slaptajame archyve esantį Švitrigai­
+    los laišką didžiajam magistrui, rašy­
+    tą iš Trakų, trečiadienį prieš Švč.
+    Mergelės Marijos ėmimą į dangų, tai
+    yra, 1432 metų rugpjūčio 13 dieną.
+    Jame pasakoja, kad „pasiunčiau nuo
+    savęs maloningąjį poną Konradą,
+    Vroclavo vyskupą, mylimą brolį, pa­
+    geidaudamas, kad didysis magistras
+    lieptų jį palydėti į Kistriną ir pasi­
+    teirauti kunigaikščio Štolpenskio, ar
+    minėtasis vyskupas turįs ar neturįs
+    dėl ko nuogąstauti iš jo ir tų, kurie
+    jam pavaldūs, pusės?" Tame pačia­
+    me laiške Švitrigaila prideda prašy­
+    mą: „kad Vroclavo gyventojams
+    duotų garantiją vykti per Ordino že­
+    mes, kad jie galėtų laisvai ir nevar­
+    žomai keliauti su savo prekėmis,
+    kadangi mums rodo daug palanku­
+    mo".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87146
+
+- id: c-83125
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87147

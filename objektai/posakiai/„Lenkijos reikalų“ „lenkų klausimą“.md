@@ -16,6 +16,18 @@ tags:
   - sukilimas
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „Lenkijos reikalų“ „lenkų klausimą“
 
@@ -28,10 +40,9 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
 <a id="claim-t-20849"></a>
 - t-001
   global_id: t-20849
-  teiginys: '1863–1864 m. sukilėliai kariniu požiūriu neturėjo galimybių laimėti, o Vakarai nesiruošė lieti kraujo dėl „Lenkijos reikalų“.'
+  teiginys: "1863–1864 m. sukilėliai kariniu požiūriu neturėjo galimybių laimėti, o Vakarai nesiruošė lieti kraujo dėl „Lenkijos reikalų“."
   pagrindžia:
-    - c-001
-
+    - c-23575
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,28 @@ sukilėlių neturėjo jokių galimybių laimėti, viltys, dėtos į valstiečių
     Į katorgą ir tremtį išsiųsta apie 25 tūkst. žmonių, daugiausia jaunų vyrų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23575
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kariniu požiūriu 60 tūkst. sukilėlių neturėjo jokių galimybių laimė-
+    ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi
+    nesiruošė lieti kraujo dėl „Lenkijos reikalų“. Mūšiuose buvusios LDK te-
+    ritorijoje žuvo per 6 tūkst. sukilėlių ir tik apie 320 Rusijos armijos karių.
+    Į katorgą ir tremtį išsiųsta apie 25 tūkst. žmonių, daugiausia jaunų vyrų.
+  citata_rodoma: "ti, viltys, dėtos į valstiečių sukilimą Rusijoje, tebuvo iliuzija, Vakarai irgi"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20849

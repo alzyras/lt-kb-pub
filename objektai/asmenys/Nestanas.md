@@ -13,6 +13,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Nestanas
 
@@ -25,10 +37,9 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
 <a id="claim-t-186242"></a>
 - t-001
   global_id: t-186242
-  teiginys: 'Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių.'
+  teiginys: "Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę ir buvo išsiųstas į Vilnių."
   pagrindžia:
-    - c-001
-
+    - c-169603
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -61,10 +72,50 @@ Nestanas, Teodoro vardu valdęs Podolę, Kamenece pateko Algirdui į nelaisvę i
     tės teisėmis iš motinos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-169603
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 229"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 229."
+  citata_originali: |
+    Kadangi Teodoras buvo išvykęs (įkurdinęs pily­
+    se stiprias valachų įgulas, jis leidosi iš Podolės pas
+    Vengrijos karalių pagalbos, išsiveždamas visus pini­
+    gus ir auksą) ir neskubėjo grįžti su kariuomene, Al­
+    girdas užėmė reikšmingas Braclavo, Smotričiaus, So-
+    koleco, Skalos, Kameneco, Červonogrado pilis, vienur
+    stodamas į atvirą kovą, kitur greitumu palauždamas
+    gynėjus, ir, visą Podolę paskelbęs savo valda, paskyrė
+    jos seniūnu Goštautą. Visas valachų įgulas jis sumušė,
+    o Nestaną, valdžiusį Teodoro vardu Podolę, paėmė Ka-
+    menece į nelaisvę ir išsiuntė į Vilnių. Mirus po to
+    Mazovijos kunigaikščiui Boleslovui, rusų neseniai nu­
+    nuodytam, kilo nesutarimai
+    1340 m e ta i
+    dėl Rusios; mat Boleslovas
+    D ėl R u sios
+    k y la  ki-
+    savavališkai valdė Rusios že-
+    v irč a i ta rp
+    le n k ų  ir
+    m e s tarp Galičo ir Lvovo,
+    lie tu v ių
+    kurios jam atiteko įpėdinys­
+    tės teisėmis iš motinos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186242
 
 ## Ryšiai
 - Nestanas valdė [[objektai/vietos/Podolė]]

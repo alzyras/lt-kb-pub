@@ -19,6 +19,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # kunigaikštija
 
@@ -31,16 +43,24 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
 <a id="claim-t-36801"></a>
 - t-001
   global_id: t-36801
-  teiginys: 'Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje.'
+  teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
   pagrindžia:
-    - c-004
+    - c-38747
+
+<a id="claim-t-36802"></a>
+- t-002
+  global_id: t-36802
+  teiginys: "Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savarankiškumą viduje."
+  pagrindžia:
+    - c-38744
+    - c-38745
 
 <a id="claim-t-36803"></a>
 - t-003
   global_id: t-36803
-  teiginys: 'Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.'
+  teiginys: "Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža."
   pagrindžia:
-    - c-003
+    - c-38746
 - susijęs iš [[objektai/autoriai/Alfredas Bumblauskas.md#claim-t-169885|Alfredas Bumblauskas]]: A. Bumblausko veikalai „Lietuvos Didžioji Kunigaikštija ir jos tradicija“ ir „Senosios Lietuvos istorija: 1009–1795“ nurodyti iliustracijų šaltiniuose.
 - susijęs iš [[objektai/autoriai/Bumblauskas A.md#claim-t-64572|Bumblauskas A]]: A. Bumblauskas parašė veikalą „Lietuvos Didžioji Kunigaikštija ir jos tradicija“, išleistą Vilniuje 2010 m.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169682|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija dėl Vokiečių ordino pavojaus pamažu stiprino ryšius su Lenkija, o XV–XVI a.
@@ -98,6 +118,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     krašto viduje savarankiškumą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +135,8 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     naujinimas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -132,6 +154,7 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     ir jo palikuonys.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,7 +171,92 @@ Vytautas naikino atskiras kunigaikštijas, siekdamas sustiprinti krašto savaran
     Maskvos įtakon.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38744
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Priežastis — nereikia manyt, ją buvus svarbiausią —
+    atgavimas Skirgailai Kijevo, kuris jam pagal sutartį buvo paža­
+    dėtas atiduoti. Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­
+    jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
+    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
+    krašto viduje savarankiškumą.
+  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36802
+
+- id: c-38745
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    vietininko, Lenkijos duoto, atskiru monarchu^1 ). Tai būtų buvusi
+    didelė pažanga padaryta atsipalaiduojant nuo Lenkijos, ko taip
+    Vytautas troško. Todėl ir nenuostabu, kad po Ostrovos sutarties,
+    t. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­
+    torijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­
+    naujinimas.
+  citata_rodoma: "Todėl ir nenuostabu, kad po Ostrovos sutarties,\nt. y. d. Lietuvos kunigaikštijos žemių rekonstrukcijos, logiškai is­\ntorijos faktams besivystant, turėjo iškilti ir jos valstybiškumo at­\nnaujinimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36802
+
+- id: c-38746
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vyguntas, būdamas
+    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
+    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
+    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
+    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
+    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
+    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
+    ir jo palikuonys.
+  citata_rodoma: "Vyguntas, būdamas\nVladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos\ngalvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­\nkia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36803
+
+- id: c-38747
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kad išpildytų tą sutartį, Vytautui reikėjo iš Ki­
+    jevo pašalinti Algirdo sūnų Vladimirą. Tuo pat metu, kaip ži­
+    nom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų
+    krašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti
+    rytuose, nes naminio karo metu Rusijos kraštai buvo patekę
+    Maskvos įtakon.
+  citata_rodoma: "Tuo pat metu, kaip ži­\nnom, jis jau naikino ir atskiras kunigaikštijas, kad sustiprintų\nkrašto viduje savarankiškumą. Ir, be to, Vytautui reikėjo kovoti\nrytuose, nes naminio karo metu Rusijos kraštai buvo patekę\nMaskvos įtakon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36801

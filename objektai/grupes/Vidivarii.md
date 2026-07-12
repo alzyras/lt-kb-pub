@@ -10,6 +10,18 @@ tags:
   - karalius
   - tauta
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vidivarii
 
@@ -22,9 +34,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 <a id="claim-t-31369"></a>
 - t-001
   global_id: t-31369
-  teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
+  teiginys: "Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų."
   pagrindžia:
-    - c-001
+    - c-33363
 - susijęs iš De origine actibusque Getharum: Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87383|Zigmantas (Romos imperatorius)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos santykį.
@@ -49,10 +61,34 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
     375 m.) buvęs savo valstybei pajungęs ir aisčius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33363
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Įdomu tai, kad aisčių vardas VI
+    amž. buvo žinomas. Padarydamas santrauką vėliau dingusios
+    Kassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine
+    actibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą
+    tautą («pacatum hominum genus omnino »), užėmusią labai ilgą
+    pajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­
+    nes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs
+    375 m.) buvęs savo valstybei pajungęs ir aisčius.
+  citata_rodoma: "Padarydamas santrauką vėliau dingusios\nKassiodoro rašytos gotų istorijos, rašytojas Jordanes (« De origine\nactibusque Getharum ») 551 m. minėjo Aesti kaip visiškai taikingą\ntautą («pacatum hominum genus omnino »), užėmusią labai ilgą\npajūrio krantą į rytus nuo prie Vyslos gyvenusių Vidivarii. Jorda­\nnes mini, kad gotų karalius Herrnanarikas (Herrnanaricus, miręs\n375 m.) buvęs savo valstybei pajungęs ir aisčius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31369
 
 ## Ryšiai
 - Vidivarii gyveno [[objektai/vietos/Vysla]]

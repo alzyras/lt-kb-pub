@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bombardos
 
@@ -51,30 +63,37 @@ Nenurodyta
 <a id="claim-t-113454"></a>
 - t-001
   global_id: t-113454
-  teiginys: 'Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.'
+  teiginys: "Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė."
   pagrindžia:
-    - c-002
+    - c-42485
 
 <a id="claim-t-113456"></a>
 - t-002
   global_id: t-113456
-  teiginys: '1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė.'
+  teiginys: "1383 m. rugsėjo 11 d. apsuptos Trakų pilies mūrai po kelių dienų atakos buvo sugriauti bombardomis, o įgula pasidavė."
   pagrindžia:
-    - c-004
+    - c-104689
 
 <a id="claim-t-113457"></a>
 - t-003
   global_id: t-113457
-  teiginys: 'Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.'
+  teiginys: "Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną."
   pagrindžia:
-    - c-003
+    - c-104687
 
 <a id="claim-t-113458"></a>
 - t-004
   global_id: t-113458
-  teiginys: '1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.'
+  teiginys: "1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį."
   pagrindžia:
-    - c-001
+    - c-05201
+
+<a id="claim-t-193743"></a>
+- t-005
+  global_id: t-193743
+  teiginys: "Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė."
+  pagrindžia:
+    - c-176408
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176377|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Olivos metraščiai teigė, kad Gediminas žuvo nuo Marijano paleisto šūvio iš bombardos.
 - susijęs iš [[objektai/autoriai/Olivos metraščiai.md#claim-t-88077|Olivos metraščiai]]: Olivos metraščiai rašo, kad Gediminui ar jo kariui stumiant karinę mašiną pataikė Marijano iš bombardos paleistas šūvis.
 - susijęs iš [[objektai/daiktai/Bombardos, patrankos ir artilerijos karo mašinos.md#claim-t-87024|Bombardos, patrankos ir artilerijos karo mašinos]]: Vilniaus puolimo metu artilerijos karo mašinos ir ugniasvaidės bombardos be paliovos šaudė į Aukštutinės pilies mūrus.
@@ -95,7 +114,8 @@ Nenurodyta
     1384.XI.6 d. tekrito.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -114,6 +134,7 @@ Nenurodyta
     iš mašinos paleistas akmuo nunešė galvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -138,6 +159,7 @@ Nenurodyta
     keitė sveikieji.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -157,7 +179,133 @@ Nenurodyta
     versta pasiduoti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+- c-005
+  santrauka: 'Primityvus apgulos bombardų lafetas — nejudamai prie žemės pritvirtinta masyvi medinė dėžė.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Metalinis vamzdis, nukaltas
+    iš atskirų segmentų.
+
+    Primityvus apgulos bombardų lafetas —
+    nejudamai prie žemės pritvirtinta masyvi
+    medinė dėžė. Apgulos metu perkelinėti
+    ugnies nereikėdavo, buvo šaudoma į tą
+    pačią sienos vietą, kol ši sugriūdavo.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-005
+
+## Citatos
+
+- id: c-05201
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    O 1384 m. rudenį abu
+    pusbroliai su bombardomis apgulė Kauno Marienwerderi. Viskuo
+    gerai aprūpinta pilis atlaikė keliolikos savaičių apgniimą ir tik
+    1384.XI.6 d. tekrito.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113458
+
+- id: c-42485
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji. Mūšio įkarštyje komtūrui
+    iš mašinos paleistas akmuo nunešė galvą.
+  citata_rodoma: "Po keturių savaičių apgulties, po dauge-\nlio susidūrimų meistras Hermanas vienoje\npilies angoje pastatė bombardą prieš lie-\ntuvius, tačiau lietuviai, priešpriešiais įtaisę\ntokį pat pabūklą, užmušė minėtą meistrą.\nPo sunkių kovų buvo „pilyje daug brolių\nsužeistų, netinkamų gynybai , tačiau juos\nkeitė sveikieji."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113454
+
+- id: c-104687
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau
+    lietuviai sunaikino pilies priešakinius įtvir-
+    tinimus ir užpylė griovius, kryžiuočiai iš
+    papilio buvo priversti trauktis į pačią pilį.
+
+    Po keturių savaičių apgulties, po dauge-
+    lio susidūrimų meistras Hermanas vienoje
+    pilies angoje pastatė bombardą prieš lie-
+    tuvius, tačiau lietuviai, priešpriešiais įtaisę
+    tokį pat pabūklą, užmušė minėtą meistrą.
+    Po sunkių kovų buvo „pilyje daug brolių
+    sužeistų, netinkamų gynybai , tačiau juos
+    keitė sveikieji.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113457
+
+- id: c-104689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau kiti, 1383 metai, atnešė Vilniui dar
+    didesnę nelaimę. Didelė kryžiuočių kariauna, vadovauja­
+    ma Ordino didžiojo magistro ir maršalo Konrado Valen­
+    rodo, išvien su Vytautu ir jo šalininkais atžygiavę atsiimti
+    Skirgailos užvaldyto šio paveldo, rugsėjo 11-ą apsupo Tra­
+    kų pilį. Nepaisant įnirtingos gynybos, kelias dienas užsi­
+    tęsus atakai, mūrai buvo bombardų sugriauti, įgula pri­
+    versta pasiduoti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-113456
+
+- id: c-176408
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Metalinis vamzdis, nukaltas
+    iš atskirų segmentų.
+
+    Primityvus apgulos bombardų lafetas —
+    nejudamai prie žemės pritvirtinta masyvi
+    medinė dėžė. Apgulos metu perkelinėti
+    ugnies nereikėdavo, buvo šaudoma į tą
+    pačią sienos vietą, kol ši sugriūdavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193743

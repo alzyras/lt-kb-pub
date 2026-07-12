@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kazimiero Jogailaičio mirtis ir palaidojimas
 
@@ -45,17 +57,16 @@ Nenurodyta
 <a id="claim-t-186768"></a>
 - t-001
   global_id: t-186768
-  teiginys: 'Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine.'
+  teiginys: "Nuo 1492 m. gegužės 16 d. Kazimieras Jogailaitis tikrai buvo Gardine."
   pagrindžia:
-    - c-001
+    - c-169971
 
 <a id="claim-t-186769"></a>
 - t-002
   global_id: t-186769
-  teiginys: 'Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną.'
+  teiginys: "Kazimieras Jogailaitis susirgo vidurių liga po 1492 m. gegužės 8 d. Trakuose, kelionėje iš Vilniaus į Gardiną."
   pagrindžia:
-    - c-001
-
+    - c-169971
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +77,28 @@ Nenurodyta
     gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-169971
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­
+    se, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m.
+    gegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404).
+  citata_rodoma: "4  Karalius Kazimieras susirgo Vidurių liga po 1492.V.8 Trakuo­\nse, kelionėje Iš Vilniaus j Gardiną. Tikrai buvo G ardine nuo 1492 m. \ngegužės 16 d. (F. Papėe, Polska i Litwa. I, p. 404)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186769
+    - t-186768

@@ -10,6 +10,18 @@ tags:
   - dokumentas
   - ordinas
   - sutartis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prochaska
 
@@ -22,9 +34,9 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
 <a id="claim-t-35473"></a>
 - t-001
   global_id: t-35473
-  teiginys: 'Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką.'
+  teiginys: "Prochaska, vadinamas dideliu Vytauto epochos žinovu, dokumentą priėmė kaip autentišką."
   pagrindžia:
-    - c-001
+    - c-38197
 - susijęs iš [[objektai/autoriai/Antoni Prochaska.md#claim-t-35431|Antoni Prochaska]]: Antoni Prochaska dokumentą, kurį Danilavičius ir Koneczny laikė falsifikatu, pripažino autentišku.
 - susijęs iš [[objektai/autoriai/Danilavičius.md#claim-t-35432|Danilavičius]]: Danilavičius ir Koneczny šią sutartį laikė falsifikatu, nors Prochaska ją priėmė kaip autentišką.
 - susijęs iš [[objektai/autoriai/Koneczny.md#claim-t-35455|Koneczny]]: Koneczny kartu su Danilavičiumi tą dokumentą laikė falsifikatu, nors Prochaska jį priėmė kaip autentišką.
@@ -44,7 +56,30 @@ Is­ torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu; tačiau
     minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38197
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Dėl šitos sutarties autentiškumo keliama abejonių. Is­
+    torikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;
+    tačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip
+    autentišką.
+    Įgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik
+    minėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius.
+  citata_rodoma: "Is­\ntorikai Danilavičius ir Koneczny tą dokumentą laiko falsifikatu;\ntačiau didelis Vytauto epochos žinovas Prochaska priima jį kaip\nautentišką.\nĮgijimas šitos Žemaičių srities, kurią Vytautas Ordinui ką tik\nminėta sutartimi užrašė, buvo pelningas Ordino triūso vaisius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35473

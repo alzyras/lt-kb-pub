@@ -14,6 +14,18 @@ tags:
   - miestas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Polocko apsiaustis (1563 m. sausio 31 d.)
 
@@ -42,17 +54,16 @@ Nenurodyta
 <a id="claim-t-41344"></a>
 - t-001
   global_id: t-41344
-  teiginys: 'Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė.'
+  teiginys: "Polocko praradimas buvo skaudi netektis Lietuvai, nes miestas buvo svarbus prekybos centras ir stipriausia rytinių žemių tvirtovė."
   pagrindžia:
-    - c-001
+    - c-43106
 
 <a id="claim-t-41345"></a>
 - t-002
   global_id: t-41345
-  teiginys: '1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį.'
+  teiginys: "1563 m. sausio 31 d. Ivanas Rūstusis su 60 tūkst. karių pradėjo Polocko apsiaustį."
   pagrindžia:
-    - c-002
-
+    - c-44925
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -68,6 +79,7 @@ Nenurodyta
     žemėse.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +99,52 @@ Nenurodyta
     šintis, pasidavė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-43106
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Polocko netektis buvo netikėta kaip per-
+    kūnas iš giedro dangaus. Gavęs šią žinią,
+    Žygimantas Augustas net apsiverkė. Miesto
+    praradimas buvo nepaprastai skausmingas
+    Lietuvai, nes Polockas buvo ne tik vienas
+    seniausių jos miestų, svarbus prekybos
+    centras, bet ir stipriausia tvirtove rytinėse
+    žemėse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41344
+
+- id: c-44925
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    nių rezultatų nepasiekė. Tačiau 1563 m. pra-
+
+    džioje caras Ivanas Rūstusis, asmeniškai
+    vadovaudamas 60 tūkstančių karių, įsi-
+    veržė į Lietuvos Didžiąją Kunigaikštystę
+    ir sausio 31 d. pradėjo Polocko apsiaustį.
+    Nors miestas didvyriškai gynėsi, po dviejų
+    savaičių kovos įgula, nebegalėdama prie-
+    šintis, pasidavė.
+  citata_rodoma: "Tačiau 1563 m. pra-\n\ndžioje caras Ivanas Rūstusis, asmeniškai\nvadovaudamas 60 tūkstančių karių, įsi-\nveržė į Lietuvos Didžiąją Kunigaikštystę\nir sausio 31 d. pradėjo Polocko apsiaustį.\nNors miestas didvyriškai gynėsi, po dviejų\nsavaičių kovos įgula, nebegalėdama prie-\nšintis, pasidavė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41345

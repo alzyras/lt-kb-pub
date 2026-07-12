@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Noragai
 
@@ -38,9 +50,9 @@ Nenurodyta
 <a id="claim-t-08310"></a>
 - t-001
   global_id: t-08310
-  teiginys: 'Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais.'
+  teiginys: "Laukai buvo ariami medžio noragais, ne geležiniais, o kai kurie storastos bandė įsakyti arti gelžiniais noragais."
   pagrindžia:
-    - c-001
+    - c-10265
 - susijęs iš [[objektai/autoriai/Guagnini.md#claim-t-30624|Guagnini]]: Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.
 - susijęs iš [[objektai/daiktai/Medžio noragai geležiniai noragai.md#claim-t-92024|Medžio noragai geležiniai noragai]]: Mediniai noragai buvo dirbami tada, kai dėl užimtų pajūrio pilių nebegauta geležies žambių noragams.
 ## Reikšmingi paminėjimai
@@ -51,7 +63,8 @@ Nenurodyta
     Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -59,3 +72,19 @@ Nenurodyta
 ## Pastabos
 
 - čia daiktas aprašytas kartu su žemdirbystės įpročiu, bet pats norago tipas aiškiai materiališkas.
+
+## Citatos
+
+- id: c-10265
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti.
+  citata_rodoma: "Žemę aria medžio noragais, ne geležies, tas dar yra stebuklingesniu, jog jų grumtai^594 yra kieti, ne smiltėti. Paprastai aria sau medžio noragus po juosta pakišę, idant, vienam nulūžus, netrukdami kitą antmautų^595. Nekurie Storastos, norėdami palengvinti orę, įsakė laukus arti gelžiniais noragais; jei tą metą ar atentį^596 nepaderėjo javai dėl giedrų ar lytų taip, kaip svietas kad buvo geidęs, tad pradėjo jis stigavoti, jog nuo gelžinių noragų javai nevykstantys, nesgi kito lyčiaus nenumanė. Storasta, krūpaudamas, kad svietas, įpuolęs į rūpesnį, nepatraktų, liepė vėl po seno mediniais noragais laukus arti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-08310

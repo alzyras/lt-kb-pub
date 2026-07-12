@@ -3,24 +3,43 @@ tipas: autorius
 pavadinimas: 'Stenderis'
 saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Stenderis
 
 ## Santrauka
 
-Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.
+Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės. Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.
 
 ## Teiginiai
+
 <a id="claim-t-190453"></a>
 - t-001
   global_id: t-190453
-  teiginys: 'Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.'
+  teiginys: "Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173336
+
+<a id="claim-t-190792"></a>
+- t-002
+  global_id: t-190792
+  teiginys: "Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos."
+  pagrindžia:
+    - c-173674
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189992|Frydrichas Stenderis]]: Narbutas nesutinka su Stenderio siejimu ir Tiimpus laiko ne Atrimpo vardu, o paprastu girtuoklių globėjo epitetu.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189993|Frydrichas Stenderis]]: Narbutas vertina, kad Stenderis savo latvių mitologijos straipsniuose pateikė klaidingas išvadas ir nutolo nuo esmės bei tiesos.
 - susijęs iš [[objektai/asmenys/Frydrichas Stenderis.md#claim-t-189994|Frydrichas Stenderis]]: Narbutas nurodo Stenderio pastabą, kad latviai turėjo deivę Dyžą arba Dyszą, kuri savybėmis atitikusi Pergrubę.
@@ -35,6 +54,10 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190277|Frydrichas Stenderis]]: Stenderis barstukų vardą kildino iš latviškų žodžių Berhns, lietuviškai bernas, ir Stuhke, reiškiančio lėlę.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190280|Frydrichas Stenderis]]: Stenderis rašė, kad Latvijoje dar girdėti apie žynius, kurie pritraukia lengvatikius iš artimesnių ir tolimesnių apylinkių.
 - susijęs iš [[objektai/autoriai/Frydrichas Stenderis.md#claim-t-190281|Frydrichas Stenderis]]: Stenderis nurodė, kad latvių senieji mėnesiai buvo skaičiuojami nuo jauno iki jauno mėnulio ir jų buvo trylika.
+- susijęs iš [[objektai/autoriai/Gotthard Friedrich Stender.md#claim-t-191624|Gotthard Friedrich Stender]]: Gotthardas Friedrichas Stenderis perdavė karininko pasakojimą, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
+- susijęs iš [[objektai/autoriai/Gotthardas Friedrichas Stenderis.md#claim-t-191539|Gotthardas Friedrichas Stenderis]]: Narbutas Stenderiui priskiria žinią, kad Belgorodo totorių kalba buvo panaši į latvių ir suprantama lyviams bei kuršiams.
+- susijęs iš [[objektai/grupes/Latviai.md#claim-t-192420|Latviai]]: Teodoras Narbutas latvių kalbos skirtumą nuo estų grindė Stenderio žodžiais apie latvių ir estų nesimaišymą Kurše.
+- susijęs iš Gotthard Friedrich Stender, Lettische Grammatik: Gotthardas Friedrichas Stenderis rašė, kad latvių kalba nuo estų kalbos nutolusi „taip, kaip dangus ir žemė“.
 - susijęs iš Stenderio „Lettische Grammatik“ latvių mitologijos straipsniai: Narbutas rašo, kad Stenderis savo latvių mitologijoje prisiminė buvęs Auskučio sukeltų neramumų liudytojas.
 - susijęs iš Stenderio „Lettische Grammatik“ latvių mitologijos straipsniai: Narbutas nurodo, kad Stenderio duomenimis latviai Datoną vadino Pilnyčiu (Pilnitis).
 - susijęs iš Stenderio „Lettische Grammatik“: Narbutas vertino Stenderio latvių mitologijos straipsnius kaip saviškai pateikiančius klaidingas išvadas ir nutolstančius nuo tiesos.
@@ -55,7 +78,9 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
 - susijęs iš [[objektai/paprociai/Aušlavio Auskučio gydymo kultas ir sudėtinė auka ligų metu.md#claim-t-189802|Aušlavio Auskučio gydymo kultas ir sudėtinė auka ligų metu]]: Narbutas nurodo, kad Stenderis latvių mitologijoje prisiminė buvęs panašių su Auskučiu sietų neramumų liudytojas.
 - susijęs iš [[objektai/paprociai/Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius.md#claim-t-187834|Mitologijos aprašymas renkant rašytinius, tautosakinius, etnografinius ir materialius šaltinius]]: Įžangos autorius nurodo, kad T. Narbutas mitologijos duomenis rinko iš rašytinių istorijų, mokslinių tyrimų, padavimų, dainų ir paminklų liekanų.
 - susijęs iš Mykolo Lietuvio fragmentai Elzeviro leidinyje: Narbutas remiasi Mykolu Lietuviu teigdamas, kad Lietuvoje Eskulapo garbinimas išliko kaip žalčių laikymas.
+- susijęs iš Toloma: Teodoras Narbutas nurodo, kad senovės tyrinėtojai Tolomą siejo su Valmieros apylinkėmis Uždauguvio skirstyme.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Livonijos buvusios rusų žemės.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -70,8 +95,70 @@ Narbutas kritikavo Stenderio aiškinimą, kad kriviai kilę iš į rytus nuo Liv
     krivičių, o to pavadinimo etimologija slavų kalboje gali būti
     kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
     kaip ir lietuviai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Teodoras Narbutas, remdamasis Stenderio latvių gramatika, kėlė galimą vieno Odoakro vado vardo kildinimą iš latvių kalbos.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender. Lettische Gramm. S. 37).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-173336
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 290"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 290."
+  citata_originali: |
+    Žyniai vilkėdavo įpras­
+    tu kitiems žmonėms drabužiu, būdavo susijuosę baltos drobės
+    juosta, kuria apsivyniodavo septynis kartus.
+    Veltui Stenderis savo latvių mitologijoje stengiasi išve­
+    džioti, kad kriviai kilę iš rusų žemės, esančios į rytus nuo Li­
+    vonijos, kadangi latviai tenykščius rusinus vadiną Kreews ar­
+    ba Kriws, nes tai buvo žemė, gyvenama slavų -  krevičių, arba
+    krivičių, o to pavadinimo etimologija slavų kalboje gali būti
+    kitokia. Arba šitaip vadinosi dėl to, kad buvo vieno tikėjimo
+    kaip ir lietuviai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190453
+
+- id: c-173674
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 317"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 317."
+  citata_originali: |
+    Odoakras,
+    tapęs karaliumi, prisiminė šią pranašystę ir pažadėjo
+    1 Šio vado vardas gali, būti kildinamas iš latvių kalbos; jis dia­
+    lekto atžvilgiu yra artimiausias herulų žodžiui duhkt, virti, griaudėti,
+    kelti triukšmą (Stender. Lettische Gramm. S. 37).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190792

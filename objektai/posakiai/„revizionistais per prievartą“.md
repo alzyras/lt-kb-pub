@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - posakis
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # „revizionistais per prievartą“
 
@@ -20,9 +32,9 @@ tags:
 <a id="claim-t-77855"></a>
 - t-001
   global_id: t-77855
-  teiginys: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
+  teiginys: "Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“."
   pagrindžia:
-    - c-001
+    - c-75173
 - susijęs iš [[objektai/zodynas/revizionistinė valstybė revizionistai per prievartą.md#claim-t-22279|revizionistinė valstybė revizionistai per prievartą]]: Lietuviai tapo „revizionistais per prievartą“.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101572|buferinė valstybė saugumo kordonas cordon sanitaire]]: Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101573|buferinė valstybė saugumo kordonas cordon sanitaire]]: Sąjungininkų pokario tvarkos architektai įsivaizdavo Lietuvą buferine valstybe, turėjusia sudaryti saugumo kordoną nuo bolševizmo.
@@ -42,7 +54,30 @@ tags:
     sijos padedami, tačiau pastarųjų tai neviliojo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75173
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ta-
+    čiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti
+    Vilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis
+    netgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo
+    „revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras
+    A. Voldemaras) prieš Varšuvą bandė atsilaikyti Vokietijos ar Sovietų Ru-
+    sijos padedami, tačiau pastarųjų tai neviliojo.
+  citata_rodoma: "Ta-\nčiau Lietuva tik iš dalies tapo buferine valstybe, nes jos siekiai atgauti \nVilnių vedė ją į revizionistinių valstybių draugiją, nors revizijos siekis \nnetgi grėsė nepriklausomybės praradimu. Žinoma, kad lietuviai tapo \n„revizionistais per prievartą“. Pradžioje (ypač užsienio reikalų ministras \nA."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-77855

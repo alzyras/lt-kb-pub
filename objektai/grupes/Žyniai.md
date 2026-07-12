@@ -5,22 +5,40 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žyniai
 
 ## Santrauka
 
-Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.
+Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę. Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu.
 
 ## Teiginiai
+
 <a id="claim-t-189398"></a>
 - t-001
   global_id: t-189398
-  teiginys: 'Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.'
+  teiginys: "Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-172285
+
+<a id="claim-t-194606"></a>
+- t-002
+  global_id: t-194606
+  teiginys: "Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu."
+  pagrindžia:
+    - c-177005
 - susijęs iš [[objektai/asmenys/Adomas Bremenietis.md#claim-t-190039|Adomas Bremenietis]]: Narbutas cituoja Adomą Bremenietį apie Upsalos žynius, kurie esą buvo įpratę tarnauti piktosioms dvasioms.
 - susijęs iš [[objektai/asmenys/Alepas.md#claim-t-187912|Alepas]]: Narbutas vaizduoja Alepą kaip pasprukusį nuo žynių ir liaudies, kuriuos vadina užsispyrusiais savasties gynėjais, ir pabėgusį pas kryžiuočius.
 - susijęs iš [[objektai/asmenys/Bolloysos.md#claim-t-190138|Bolloysos]]: Narbutas polemikoje mini Bolloysos kaip vieną vyriausiųjų žynių vardų, kurie kritikui kėlė įtarimą ir skambėjo neprūsiškai.
@@ -114,6 +132,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/paprociai/Mirštančiųjų reikalavimų vykdyti laidotuvių apeigas laikymas šventais.md#claim-t-189963|Mirštančiųjų reikalavimų vykdyti laidotuvių apeigas laikymas šventais]]: Narbutas aiškina, kad lietuviai prieš mirtį reikalaudavo laidotuvių apeigų, nes rūpinosi vėlės likimu ir bijojo dievų keršto.
 - susijęs iš [[objektai/paprociai/Nuolatinis amžinosios ugnies kurstymas.md#claim-t-189849|Nuolatinis amžinosios ugnies kurstymas]]: Narbutas nuolatinę auką apibūdino kaip negęstančios ugnies kurstymą Praurimės, Kurko, Perkūno ir Amžinosios ugnies aukuruose.
 - susijęs iš [[objektai/paprociai/Permaldavimo aukos Pokliui ir kraujo atnašavimas.md#claim-t-189774|Permaldavimo aukos Pokliui ir kraujo atnašavimas]]: Narbutas rašė, kad vėliau kruviną permaldavimo auką pakeitė vaidilos kraujo atnašavimas ir gyvulio galvos padėjimas prie Pokliaus stabo.
+- susijęs iš [[objektai/paprociai/Skitų svetingumas ir taikūs prekybiniai santykiai.md#claim-t-193019|Skitų svetingumas ir taikūs prekybiniai santykiai]]: Klajojantys skitai, iš pradžių vengę graikų atvykėlių, vėliau pradėjo su jais bendrauti ir pirkti civilizuoto pasaulio dirbinius.
 - susijęs iš [[objektai/paprociai/Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą.md#claim-t-189965|Vaidilų skaistybės norma ir sudeginimas už svetimoteriavimą]]: Narbutas rašo, kad vaidilos laikėsi dorovės papročių, buvo nevedę, o už svetimoteriavimą galėjo būti gyvi sudeginami.
 - susijęs iš [[objektai/paprociai/Šventosios ugnies atkūrimas titnagu ir ugnies sergėtojų bausmė.md#claim-t-189954|Šventosios ugnies atkūrimas titnagu ir ugnies sergėtojų bausmė]]: Narbutas aprašo, kad užgesus šventajai ugniai žyniai ją išskeldavo iš Perkūno stabo laikyto titnago ir sudegindavo ugnies sergėtojus.
 - susijęs iš [[objektai/paprociai/Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė.md#claim-t-189969|Žynių ir vaidilučių skaistybės norma bei sudeginimo bausmė]]: Narbutas rašo, kad žyniai ir vaidilutės privalėjo likti viengungiai, laikytis nepriekaištingos skaistybės ir už nusižengimą būdavo sudeginami.
@@ -141,6 +160,7 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
 - susijęs iš [[objektai/zodynas/Užuotas ąžuolas.md#claim-t-189121|Užuotas ąžuolas]]: Narbutas spėjo, kad senovės žyniai galėjo dirbtinai apauginti šventąjį ąžuolą amalu, kad jo vainikas žaliuotų ir žiemą.
 - susijęs iš [[objektai/zodynas/Žvaigždininkas Zwajždinikas.md#claim-t-189352|Žvaigždininkas Zwajždinikas]]: Narbutas žvaigždininką (Zwajždinikas) sieja su pranašavimu iš žvaigždžių ir liaudies padavimuose prilygina juodaknygininkui.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl milžino, juo sudaužiusio bokštą ir išvadavusio pagrobtą saulę.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -156,12 +176,84 @@ Narbutas perteikia žynių aiškinimą, kad geležinis kūjis garbintas dėl mil
     gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
     tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
     no paviete, kur lietuviai gyvena, ir Trakų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+- c-002
+  santrauka: 'Tuomet žyniai nakčia kreipdavosi į ugnį, o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy venti, šešėlis stovėdavęs veidu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Vėliau
+    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
+    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
+    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
+    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
+    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
+    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
+    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
+    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
+    dydavo nugara į ugnį, neabejotinai laukė mirtis.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-172285
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  citata_originali: |
+    Jeronimas įtikino, kad tai apgavystė, sugriovė
+    šventyklą, užpylė ugnį ir įvedė krikščioniškus papročius. Ke­
+    liaudamas toliau, atrado saulės garbintojus; jie ypač garbino
+    didžiulį geležinį kūjį. Žyniai, paklausti, ką reiškiąs tas garbini­
+    mas, atsakė, kad seniau ištisus mėnesius nematydavo saulės,
+    kadangi vienas galingas karalius pagrobęs ją laikė uždarytą
+    tvirtame bokšte; tuomet vienas milžinas išgelbėjo saulę, šiuo
+    didžiuliu kūju sudaužydamas bokštą ir išvaduotą saulę sugrą­
+    gaikštystė, o kadangi Gardino pavietas priklausė Trakų kunigaikš­
+    tystei, kuri buvo laikoma žemaitiška, tai jis turėjo apaštalauti Gardi­
+    no paviete, kur lietuviai gyvena, ir Trakų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189398
+
+- id: c-177005
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 453"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 453."
+  citata_originali: |
+    Vėliau
+    jis aptikęs, kad žmonės garbinę ugnį ir vadinę ją Amžinąja.
+    Prie šventovių gyvenančių žynių darbas buvo rūpintis ku­
+    ru, kad ugnis niekad neužgestų. Bičiuliai teiraudavosi žynių,
+    ar ligoniai išliks gyvi. Tuomet žyniai nakčia kreipdavosi į ugnį,
+    o rytą atsakydavo klausėjams, kad prie šventosios ugnies matę
+    ligonio šešėlį; šildydamasis prie ugnies, jis parūdydavęs arba
+    mirties, arba gyvybės ženklus: jeigu ligoniui būdavę lemta gy­
+    venti, šešėlis stovėdavęs veidu į ugnį; priešingai, jeigu pasiro­
+    dydavo nugara į ugnį, neabejotinai laukė mirtis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194606
+
 ## Ryšiai
-- Žyniai pastatė [[objektai/daiktai/Aukurai]]
-- Žyniai gyveno [[objektai/vietos/Romovė]], [[objektai/vietos/Upsala]]
+- Žyniai gyveno [[objektai/vietos/Upsala]]

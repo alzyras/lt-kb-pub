@@ -13,6 +13,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ostrovo sutartis (1392 m.)
 
@@ -30,10 +42,9 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
 <a id="claim-t-176235"></a>
 - t-001
   global_id: t-176235
-  teiginys: 'Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte.'
+  teiginys: "Ostrovo sutartis padėjo pagrindą Lietuvos nepriklausomybei atstatyti ir turėjo užtikrinti taiką bei tvarką krašte."
   pagrindžia:
-    - c-001
-
+    - c-160256
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +60,32 @@ Ostrovo sutartimi Jogaila atidavė Vytautui valdyti visą didžiąją Lietuvos k
     tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-160256
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Šitų nepasitenkinusiųjų priešaky atsistojo pats
+    Vytautas, Lietuvos ir jos visuomenės reikalų gynėjas, kuris
+    po ilgų ir sunkių kovų, ne be svetimos pagalbos, iškovojo iš
+    Jogailos ne tik savo tėviškę, bet ir visą Lietuvą su jai priklau­
+    sančiais Rusų žemių plotais. Jo sudarytąja su Jogaila Ostrovos
+    sutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­
+    somybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir
+    tvarką išvargintam ir nualintam ilgų naminių karų kraštui.
+  citata_rodoma: "Jo sudarytąja su Jogaila Ostrovos\nsutartimi (1392) buvo padėtas ir pagrindas Lietuvos nepriklau­\nsomybei atstatyti^1 ). Be to, ši sutartis turėjo užtikrinti ir taiką ir\ntvarką išvargintam ir nualintam ilgų naminių karų kraštui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-176235

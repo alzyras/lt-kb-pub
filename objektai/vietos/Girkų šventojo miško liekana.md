@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Girkų šventojo miško liekana
 
@@ -13,16 +25,15 @@ atnaujinta: ''
 Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana.
 
 ## Teiginiai
+
 <a id="claim-t-189001"></a>
 - t-001
   global_id: t-189001
-  teiginys: 'Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana.'
+  teiginys: "Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-171890
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni medžiai buvo šventojo miško liekana.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -45,8 +56,42 @@ Narbutas perduoda padavimą, kad prie Girkų kaimo Lydos apskrityje augę seni m
     su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
     čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
     kiausiame miške ar nuošaliausiose vietose.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-171890
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    263
+
+    ## Puslapis 263
+
+    lai, po jų -  tuopos -  baltosios, sidabrinės. Lydos apskrityje,
+    prie Girkų kaimo, tikrojoje Lietuvoje, yra plotas tokių me­
+    džių, labai senų ir gražiai augančių; apie juos esama padavi­
+    mo, kad tai liekana šventojo miško, kuris buvo mirtinai per­
+    sekiojamųjų prieglobstis, o nematoma jėga, sauganti tokius
+    žmones, stebuklingu būdu juos maitinusi, kol jie ten gyven­
+    davę.
+    Lietuvių prisirišimas prie šventųjų miškų neišnyko iš kar­
+    to, pasikeitus tikėjimui; vietos dokumentuose, senesniuose už
+    XVIII amžių, tarp reikšmingesnių nekilnojamojo turto objektų
+    randame nuolat minimus miškus: kartais kalbama apie mišką
+    su kovarniais, tai reikštų seniai suaugusį mišką, nes tie paukš­
+    čiai yra įpratę krauti lizdus aukščiausiuose medžiuose, tan­
+    kiausiame miške ar nuošaliausiose vietose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189001

@@ -15,8 +15,21 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - redaktorius
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tauro apygarda
 
@@ -29,23 +42,23 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
 <a id="claim-t-49111"></a>
 - t-001
   global_id: t-49111
-  teiginys: 'Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė.'
+  teiginys: "Nuo 1947 m. apie Kauną veikė partizanų Tauro apygardos Birutės rinktinė."
   pagrindžia:
-    - c-002
+    - c-51211
 
 <a id="claim-t-49112"></a>
 - t-002
   global_id: t-49112
-  teiginys: 'Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.'
+  teiginys: "Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas."
   pagrindžia:
-    - c-003
+    - c-51212
 
 <a id="claim-t-49113"></a>
 - t-003
   global_id: t-49113
-  teiginys: 'Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu.'
+  teiginys: "Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu."
   pagrindžia:
-    - c-001
+    - c-51210
 - susijęs iš Suvalkija: Tauro apygarda vienijo Suvalkijos regiono antisovietinio pasipriešinimo dalyvius.
 ## Reikšmingi paminėjimai
 
@@ -63,7 +76,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     suvažiavime.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -80,7 +94,8 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     prūsti per „geležinę uždangą“ į Vakarus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -115,10 +130,87 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
     Perlojos stribų įgulą ir ją sunaikino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Tauro apygarda gyveno [[objektai/vietos/Kaunas]]
+## Citatos
+
+- id: c-51210
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Dešinėje TAURO APYGARDOS vadas, LLks Deklaracijos signataras
+    Aleksandras Grybinas-Faustas (1920-1949). Partizanas nuo 1945 m.
+    Dalyvavo kuriant Tauro apygardos Žalgirio
+    rinktinę. 1948 m. spalio 8 d. tapo Tauro
+    apygardos, vienijusios Suvalkijos re-
+    giono antisovietino pasipriešinimo
+    dalyvius, vadu. 1949 m. vasario mėn.
+    dalyvavo visos Lietuvos partizanų vadų
+    suvažiavime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49113
+
+- id: c-51211
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prisidėjo organizuo-
+    jant visų Lietuvos partizanų Vyriausiąją vadovybę.
+    Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų
+    Tauro apygardos Birutės rinktinei. Buvo vienas retų
+    Lietuvos partizanų, kuriems pavyko sėkmingai pras-
+    prūsti per „geležinę uždangą“ į Vakarus.
+  citata_rodoma: "Nuo 1947 m. vadovavo apie Kauną veikusiai partizanų\nTauro apygardos Birutės rinktinei. Buvo vienas retų\nLietuvos partizanų, kuriems pavyko sėkmingai pras-\nprūsti per „geležinę uždangą“ į Vakarus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49111
+
+- id: c-51212
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    į suvažiavimą susitikę Vakarų
+    Lietuvos (Jūros) ir Pietų Lietuvos
+    (Nemuno) partizanų atstovai ir
+    vadai. Antroje eilėje (stovi) iš kairės:
+    ketvirtas - Vakarų Lietuvos srities
+    štabo viršininkas Vytautas Gužas-
+    Kardas, penktas - Tauro apygardos
+    vadas Aleksandras Grybinas-Faus-
+    tas, septintas — Vakarų Lietuvos sri-
+    ties vadas Aleksandras Milaševičius-
+    Ruonis, devintas - Pietų Lietuvos
+    srities vadas Adolfas Ramanauskas-
+    Vanagas, dešimtas - Kęstučio
+    apygardos štabo viršininkas
+    Robertas Gedvilas-Remigijus, vie-
+    nuoliktas - Vakarų Lietuvos srities
+    Agitacijos ir propagandos skyriaus
+    viršininkas Antanas Liesys-Idenas
+
+    pateko į iš anksto parengtą pasalą ir pa-
+    tyrę nuostolių buvo priversti grįžti atgal.
+    Marcinkonių bataliono vyrams buvo
+    nesmagu dėl savo pavėlavimo į kauty-
+    nes, todėl jie kitą, gruodžio 16 d. puolė
+    Perlojos stribų įgulą ir ją sunaikino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-49112

@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Voluiniečiai
 
@@ -27,17 +39,16 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 <a id="claim-t-52464"></a>
 - t-001
   global_id: t-52464
-  teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.'
+  teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais."
   pagrindžia:
-    - c-001
+    - c-46415
 
 <a id="claim-t-52465"></a>
 - t-002
   global_id: t-52465
-  teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.'
+  teiginys: "Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais."
   pagrindžia:
-    - c-001
-
+    - c-46415
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,8 +62,31 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
     lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-46415
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-
+    sidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-
+    navai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.
+    XIII amž. į aisčių gyvenamuosius kraštus atsikraustė vokiečiai
+    ir čia sukūrė savo valstybes. Vieni jų atsikraustė į Padauguvį (ka-
+    lavijuočiai), o kiti į Pavyslį (kryžiuočiai).
+  citata_rodoma: "Tuo būdu pirmosios tautos, su kuriomis aisčiams teko su-\nsidurti ankstyvaisiais istoriniais laikais, buvo ateiviai skandi-\nnavai ir slavai: pietuose lenkai ir voluiniečiai, o rytuose gudai.\nXIII amž."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-52465
+    - t-52464

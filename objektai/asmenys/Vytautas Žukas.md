@@ -7,8 +7,21 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - institucija
   - miestas
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vytautas Žukas
 
@@ -21,10 +34,9 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
 <a id="claim-t-40530"></a>
 - t-001
   global_id: t-40530
-  teiginys: 'AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.'
+  teiginys: "AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus."
   pagrindžia:
-    - c-001
-
+    - c-44574
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,10 +50,29 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
     gynybos principus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Vytautas Žukas gynė [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]
+## Citatos
+
+- id: c-44574
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tūkstančių žmonių (!)
+
+    AUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA
+
+    AT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT
+    gynybos principus.
+  citata_rodoma: ")\n\nAUKŠČIAUSIOSIOS TARYBOS RŪMAI - PASKUTINĖ RIBA\n\nAT gynėjas, vėliau Lietuvos kariuomenės gen. mjr. Vytautas Žukas pasakoja apie AT\ngynybos principus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40530

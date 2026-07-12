@@ -1,19 +1,20 @@
 @use "../../styles/variables.scss" as *;
 
 ul.section-ul {
+  display: block;
   list-style: none;
-  margin-top: 2em;
+  margin: 1.6rem 0 0;
   padding-left: 0;
 }
 
 li.section-li {
-  margin-bottom: 1em;
+  margin: 0;
+  border-bottom: 0;
 
   & > .section {
-    display: grid;
-    grid-template-columns: 8rem minmax(0, 1fr);
-    align-items: start;
-    column-gap: 0.9rem;
+    display: block;
+    height: 100%;
+    align-items: stretch;
 
     & > .desc > h3 > a {
       background-color: transparent;
@@ -22,14 +23,31 @@ li.section-li {
     & .meta-box {
       min-height: 1.4rem;
       color: var(--gray);
-      font-size: 0.88rem;
+      font-family: var(--codeFont);
+      font-size: 0.78rem;
+      font-weight: 800;
       line-height: 1.2;
-      white-space: nowrap;
+      white-space: normal;
       overflow: hidden;
       text-overflow: ellipsis;
       padding-top: 0.12rem;
     }
+
+    & .desc {
+      min-width: 0;
+    }
   }
+}
+
+.listing-evidence-meta {
+  margin: 0.42rem 0 0;
+  color: var(--bm-muted, var(--gray));
+  font-family: var(--codeFont);
+  font-size: 0.74rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  line-height: 1.25;
+  text-transform: uppercase;
 }
 
 // modifications in popover context
@@ -38,9 +56,12 @@ li.section-li {
 }
 
 @media all and ($mobile) {
+  ul.section-ul {
+    display: block;
+  }
+
   li.section-li > .section {
-    grid-template-columns: 6.75rem minmax(0, 1fr);
-    column-gap: 0.65rem;
+    display: block;
   }
 
   li.section-li > .section .meta-box {

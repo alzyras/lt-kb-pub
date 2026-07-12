@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - sukilimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandras III
 
@@ -20,10 +32,9 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
 <a id="claim-t-18775"></a>
 - t-001
   global_id: t-18775
-  teiginys: 'Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.'
+  teiginys: "Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu."
   pagrindžia:
-    - c-001
-
+    - c-21560
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,36 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
     įmanoma pasiekti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-21560
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    LIAUDIS VIRSTA TAUTA
+    N
+    ors Rusijos imperijos vidaus politika nerusiškų im-
+    perijos regionų ir „pakraščių“ atžvilgiu tuomet dar
+    nebuvo beatodairiškai persmelkta rusų nacionalizmo (pastarasis princi-
+    pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III
+    (1881–1894) laikais), abu sukilimai Rusijos aukštuosiuose sluoksniuose
+    sukėlė rusiško nacionalizmo ir polonofobijos bangą. Imperijos politiko-
+    je „lenkų klausimu“ viršų gavo tie, kurie manė, kad regione reikia veikti
+    jėga, neieškant konsensuso su vietos visuomene. Jie tikėjosi pakeisti pa-
+    čią kultūros dirvą, leidžiančią separatizmui nuolat atsigauti, ir manė, kad
+    po baudžiavos panaikinimo, valstiečius pavertus savarankišku luomu, tai
+    įmanoma pasiekti.
+  citata_rodoma: "pas taps vyraujančiu imperijos vidaus politikos principu Aleksandro III"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-18775

@@ -6,23 +6,30 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'Karolis Zikaras - Lietuvos karybos ir valstybingumo istorija besidomintis istorikas, leidinyje rengęs įvadus, tekstus ir blokus.'
-socialDescription: 'Karolis Zikaras šiame leidinyje minimas kaip istorikas, skyrių įvadų autorius, iliustracijų rinkėjas ir kelių tekstų bei informacinių blokų autorius.'
-seo_atnaujinta: '2026-07-02T23:12:35.356199+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karolis Zikaras
 
 ## Santrauka
 
-Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuvos įvairių laikotarpių karybos istorija, jos didaktika ir valstybingumo istorija. Jis nurodomas kaip skyrių įvadų autorius, iliustracijų bei istorijos šaltinių citatų rinkėjas. Leidinyje Karoliui Zikarui priskiriami keli tekstai ir informaciniai blokai, tarp jų „Leičiai - valdovo valios įgyvendintojai“, „Kryžiuočiai prieš Lietuvą XIV a.“ ir „Partizanų bunkeriai“.
+Karolis Zikaras šiame leidinyje įvardytas kaip atsakingasis redaktorius, sudarytojas, skyrių įvadų autorius ir kelių straipsnių bei informacinių blokų autorius. Autorių sąraše jis apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.
 
 ## Darbai
 
@@ -38,86 +45,86 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
 <a id="claim-t-171496"></a>
 - t-001
   global_id: t-171496
-  teiginys: 'Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.'
+  teiginys: "Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų."
   pagrindžia:
-    - c-005
+    - c-156018
 
 <a id="claim-t-171497"></a>
 - t-002
   global_id: t-171497
-  teiginys: 'Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius.'
+  teiginys: "Karolis Zikaras yra informacinio bloko „Leičiai - valdovo valios įgyvendintojai“ autorius."
   pagrindžia:
-    - c-003
+    - c-42426
 
 <a id="claim-t-171498"></a>
 - t-003
   global_id: t-171498
-  teiginys: 'Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“.'
+  teiginys: "Karolis Zikaras nurodytas prie teksto „Valstybės smukimas“."
   pagrindžia:
-    - c-008
+    - c-156021
 
 <a id="claim-t-171499"></a>
 - t-004
   global_id: t-171499
-  teiginys: 'Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius.'
+  teiginys: "Karolis Zikaras yra informacinio bloko „Partizanų bunkeriai“ autorius."
   pagrindžia:
-    - c-006
+    - c-156019
 
 <a id="claim-t-171500"></a>
 - t-005
   global_id: t-171500
-  teiginys: 'Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.'
+  teiginys: "Karolis Zikaras buvo šio leidinio skyrių įvadų autorius."
   pagrindžia:
-    - c-002
+    - c-42424
 
 <a id="claim-t-171501"></a>
 - t-006
   global_id: t-171501
-  teiginys: 'Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius.'
+  teiginys: "Karolis Zikaras yra informacinio bloko „Didysis artilerijos menas“ autorius."
   pagrindžia:
-    - c-010
+    - c-156023
 
 <a id="claim-t-171502"></a>
 - t-007
   global_id: t-171502
-  teiginys: 'Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas.'
+  teiginys: "Autorių sąraše Karolis Zikaras apibūdinamas kaip Lietuvos karybos istorija, jos didaktika ir valstybingumo istorija besidomintis istorikas."
   pagrindžia:
-    - c-001
+    - c-11411
 
 <a id="claim-t-171504"></a>
 - t-008
   global_id: t-171504
-  teiginys: 'Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“.'
+  teiginys: "Karolis Zikaras nurodytas prie tekstų „1991 m. Sausio 13 d.“ ir „1991 m. Rugpjūčio Maskvos pučas“."
   pagrindžia:
-    - c-011
+    - c-156024
 
 <a id="claim-t-171505"></a>
 - t-009
   global_id: t-171505
-  teiginys: 'Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“'
+  teiginys: "Karolis Zikaras nurodytas prie teksto „Kryžiuočiai prieš Lietuvą XIV a.“"
   pagrindžia:
-    - c-004
+    - c-42427
 
 <a id="claim-t-171506"></a>
 - t-010
   global_id: t-171506
-  teiginys: 'Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“.'
+  teiginys: "Karolis Zikaras nurodytas prie tekstų „Vyties kryžius“ ir „Šarvuotas traukinys Gediminas“."
   pagrindžia:
-    - c-007
+    - c-156020
 
 <a id="claim-t-171507"></a>
 - t-011
   global_id: t-171507
-  teiginys: 'Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai.'
+  teiginys: "Karolis Zikaras ir Loreta Uzdraitė yra teksto apie 1923 m. sausio 9-15 d. sukilėlių žygį į Klaipėdos kraštą autoriai."
   pagrindžia:
-    - c-012
+    - c-156025
 
 <a id="claim-t-171508"></a>
 - t-012
   global_id: t-171508
-  teiginys: 'Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.'
+  teiginys: "Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai."
   pagrindžia:
-    - c-009
+    - c-156022
 - susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71496|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
 - susijęs iš [[objektai/autoriai/Andžej Geglis.md#claim-t-71503|Andžej Geglis]]: Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.
 - susijęs iš [[objektai/autoriai/Loreta Uzdraitė.md#claim-t-78780|Loreta Uzdraitė]]: Loreta Uzdraitė, Karolis Zikaras ir Dalius Žygelis nurodyti kaip teksto apie Lietuvos partizanų apygardas autoriai.
@@ -150,7 +157,8 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     mis bei Lietuvos valstybingumo istorija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
@@ -259,6 +267,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     Lietuvos karinė padėtis 1919 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -277,6 +286,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -289,6 +299,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -325,6 +336,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     tel. 8 5 266 7711
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -341,6 +353,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p. 226, „ŽALIUKAI“, Karolis Zikaras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -354,6 +367,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p. 202, „ŠARVUOTAS TRAUKINYS GEDIMINAS“, Karolis Zikaras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -370,6 +384,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p. 170, „SAKSŲ SAVANORIAI“, Vytautas Lesčius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -389,6 +404,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     Karolis Zikaras, Loreta Uzdraitė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -403,6 +419,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p. 126, „TVANAS“, Karolis Zikaras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -417,6 +434,7 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     p. 263, „1991 M. RUGPJŪČIO MASKVOS PUČAS“, Karolis Zikaras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -437,7 +455,332 @@ Karolis Zikaras šiame leidinyje pristatomas kaip istorikas, besidomintis Lietuv
     Dalius Žygelis, Loreta Uzdraitė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
+## Citatos
+
+- id: c-11411
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Karolis Zikaras (gimęs 1979 m.), Vilniaus universiteto Istorijos
+    fakultete įgijo bakalauro ir magistro laipsnius. Domisi Lietuvos
+    įvairių laikotarpių karybos istorija ir jos didaktikos problemo-
+    mis bei Lietuvos valstybingumo istorija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171502
+
+- id: c-42424
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    šaltieji ginklai)
+
+    Skyrių įvadų autorius
+    Karolis Zikaras
+
+    Istorijos šaltinių citatas rinko:
+    Auksė Ūsienė,
+    Karolis Zikaras
+
+    Antras pataisytas leidimas
+
+    O UAB „ALIO“, Vilnius
+
+    ISBN 978-9986-827-05-4
+
+    ## Puslapis 7
+
+    Turinys
+
+    Apie šią knygą 6
+
+    Mūšiai už Lietuvą: pergalės ir pralaimėjimai, rezignacijos
+    ir heroizmai Alfredas Bumblauskas 8
+
+    Lietuvos mūšiai Valdas Rakutis 14
+
+    NUO PAGONIŠKOSIOS
+    IKI VYTAUTO IMPERIJOS 18
+
+    Saulės (Šiaulių) mūšis 1236 Romas Batūra 20
+    Durbės mūšis 1260 Romas Batūra 24
+
+    Karusės mūšis 1270 Romas Batūra 28
+
+    Aizkrauklės mūšis 1279 Romas Batūra 30
+
+    Irpenės mūšis apie 1325 Romas Batūra 33
+
+    Strėvos mūšis 1348 Romas Batūra 36
+
+    Kauno gynyba 1362/1363 Romas Batūra 38
+
+    Mūšis prie Mėlynųjų Vandenų 1363 Romas Batūra 44
+    Algirdo žygiai į Maskvą 1368, 1370, 1372 Romas Batūra 46
+    Marienverderio paėmimas 1384 Romas Batūra 50
+    Vorsklos mūšis 1399 Romas Batūra 52
+
+    Žalgirio (Griunvaldo) mūšis 1410 Karolis Zikaras 56
+    Pabaisko (Ukmergės) mūšis 1435 Romas Batūra 66
+
+    VAKARŲ KRIKŠČIONYBĖS
+    TVIRTOVĖ RYTUOSE 72
+
+    Vedrošos mūšis 1500 Karolis Zikaras 74
+
+    Klecko mūšis 1506 Darius Baronas 75
+
+    Oršos mūšis 1514 Mintautas Čiurinskas 80
+
+    Ulos (Čašnikų) mūšis 1564 Eduardas Brusokas 86
+    K. Radvilos Perkūno reidas 1581 Karolis Zikaras 90
+    Kuoknesės mūšis 1601 Arvydas Pociūnas 96
+    Salaspilio (Kircholmo) mūšis 1605 Arvydas Pociūnas 100
+    Salacgryvos jūrų mūšis 1609 Gintautas Jakštys 110
+    Chotino mūšis 1621 Arvydas Pociūnas 112
+    Smolensko apgultis 1632-1634 Karolis Zikaras 118
+    Lojevo mūšis 1649 Lina Vidauskytė 120
+
+    Šklovo mūšis 1654 Lina Vidauskyté 124
+
+    Prostkų mūšis 1656 Karolis Zikaras 127
+
+    Chotino mūšis 1673 Arvydas Pociūnas 128
+
+    NUOPUOLIS IR
+
+    KOVA DĖL LAISVĖS 134
+    Valkininkų mūšis 1700 Gintautas Sliesoriūnas 136
+    Bezdežo (Antopolio) mūšis 1771 Karolis Zikaras 141
+    Lietuvos Brastos mūšis 1792 Eduardas Brusokas 143
+
+    Kovos dėl Vilniaus 1794 Arvydas Pociūnas 148
+    Panerių mūšis 1831 Arvydas Pociūnas 154
+    Biržų (Medeikių) mūšis 1863 Algimantas Daugirdas 158
+
+    NEPRIKLAUSOMYBĖS
+    KOVOS 166
+
+    Kėdainių-Šėtos kautynės 1919 Vytautas Lesčius 168
+    Jiezno kautynės 1919 Vytautas Lesčius 174
+
+    Kovos dėl Panevėžio 1919 Vytautas Lesčius 178
+
+    Utenos užėmimas 1919 Vytautas Lesčius 182
+
+    Zarasų operacija 1919 Vytautas Lesčius 186
+
+    Lietuvos karinė padėtis 1919 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171500
+
+- id: c-42426
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Bendrųjų Informacinių blokų sąrašas
+
+    NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJOS
+
+    p. 29, „LEIČIAI - VALDOVO VALIOS ĮGYVENDINTOJAI“, Karolis Zikaras.
+
+    p- 31, „PAVOJAI TRAIDENIO LIETUVAI IS RYTŲ“, Romas Batūra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171497
+
+- id: c-42427
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    P. 43, „KRYŽIUOČIAI PRIEŠ LIETUVĄ XIV A.‘ Karolis Zikaras.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171505
+
+- id: c-156018
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kalbos redaktorius
+    doc. dr. Jonas Arvasevičius
+
+    Korektorė
+    Ieva Puluikienė
+
+    Fotografė
+    Giedrė Maksimovicz
+
+    Iliustracijas rinko:
+    Karolis Zikaras,
+    Dalius Čižeika,
+    Auksė Ūsienė,
+    Tomas Čeponis
+    Dailininkė
+
+    Loreta Uzdraitė
+
+    Išleido
+
+    Leidykla UAB „ALIO“
+    Šeimyniškių 23/2,
+    LT-09236 Vilnius
+
+    tel. 8 5 266 7711
+  citata_rodoma: "dr. Jonas Arvasevičius\n\nKorektorė\nIeva Puluikienė\n\nFotografė\nGiedrė Maksimovicz\n\nIliustracijas rinko:\nKarolis Zikaras,\nDalius Čižeika,\nAuksė Ūsienė,\nTomas Čeponis\nDailininkė\n\nLoreta Uzdraitė\n\nIšleido\n\nLeidykla UAB „ALIO“\nŠeimyniškių 23/2,\nLT-09236 Vilnius\n\ntel."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171496
+
+- id: c-156019
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    KARAS PO KARO
+
+    p. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.
+
+    p. 226, „ŽALIUKAI“, Karolis Zikaras.
+  citata_rodoma: "KARAS PO KARO\n\np. 222-223, „PARTIZANŲ BUNKERIAI“, Karolis Zikaras.\n\np."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171499
+
+- id: c-156020
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.
+    p. 202, „ŠARVUOTAS TRAUKINYS GEDIMINAS“, Karolis Zikaras.
+  citata_rodoma: "p. 185, „VYTIES KRYŽIUS“, Karolis Zikaras.\np."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171506
+
+- id: c-156021
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    NUOPUOLIS IR KOVA DĖL LAISVĖS
+    P. 140, „VALSTYBĖS SMUKIMAS“, Karolis Zikaras.
+
+    NEPRIKLAUSOMYBĖS KOVOS
+    p. 170, „SAKSŲ SAVANORIAI“, Vytautas Lesčius.
+  citata_rodoma: "NUOPUOLIS IR KOVA DĖL LAISVĖS\nP. 140, „VALSTYBĖS SMUKIMAS“, Karolis Zikaras.\n\nNEPRIKLAUSOMYBĖS KOVOS\np."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171498
+
+- id: c-156022
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+
+    P. 238-239, „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“, Arvydas Anušauskas,
+    Karolis Zikaras, Loreta Uzdraitė.
+  citata_rodoma: "KARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė.\n\nP."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171508
+
+- id: c-156023
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE
+    p. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.
+    p. 126, „TVANAS“, Karolis Zikaras.
+  citata_rodoma: "VAKARŲ KRIKŠČIONYBĖS TVIRTOVĖ RYTUOSE\np. 115, „DIDYSIS ARTILERIJOS MENAS“, Karolis Zikaras.\np."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171501
+
+- id: c-156024
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    LIETUVOS ATSIKŪRIMAS
+    p. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras.
+    p. 263, „1991 M. RUGPJŪČIO MASKVOS PUČAS“, Karolis Zikaras.
+  citata_rodoma: "LIETUVOS ATSIKŪRIMAS\np. 251, „1991 M. SAUSIO 13 D.“, Karolis Zikaras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171504
+
+- id: c-156025
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    p. 213, Sukilėlių žygis į Klaipėdos kraštą ir sukilimo eiga 1923 m. sausio 9-15 d.,
+
+    Karolis Zikaras, Loreta Uzdraitė.
+
+    KARAS PO KARO
+
+    P. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,
+
+    Dalius Žygelis, Loreta Uzdraitė.
+  citata_rodoma: ",\n\nKarolis Zikaras, Loreta Uzdraitė.\n\nKARAS PO KARO\n\nP. 236-237, „Lietuvos partizaninų apygardos ir jų žymesni atstovai“, Karolis Zikaras,\n\nDalius Žygelis, Loreta Uzdraitė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-171507

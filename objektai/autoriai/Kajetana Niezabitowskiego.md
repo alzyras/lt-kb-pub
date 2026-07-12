@@ -13,6 +13,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kajetana Niezabitowskiego
 
@@ -21,16 +33,16 @@ periodo_grupes:
 Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.
 
 ## Teiginiai
+
 <a id="claim-t-190433"></a>
 - t-001
   global_id: t-190433
-  teiginys: 'Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.'
+  teiginys: "Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173316
 - susijęs iš [[objektai/autoriai/Kajetonas Niezabitowskis.md#claim-t-190434|Kajetonas Niezabitowskis]]: Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetono Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Niezabitowskio straipsnį apie Dionizo Poškos rinkinį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -42,8 +54,32 @@ Narbutas turėjo omenyje 1823 m. „Dziennik Wileński“ paskelbtą Kajetano Ni
     zego Paszkiewicza pisarza ziem. ptu Rosienskiego,
     przez Kajetana Niezabitowskiego H Dziennik Wi-
     lenski. -  1823. -  T. II. -  S. 157-161.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173316
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 506"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 506."
+  citata_originali: |
+    T. Nar­
+    butas turėjo omenyje straipsnį: Krotki spis
+    niektorych starožytnych zabytkow, znajdujących się
+    w zbiorze obywatela prowincyi Zmudzkiej Dioni-
+    zego Paszkiewicza pisarza ziem. ptu Rosienskiego,
+    przez Kajetana Niezabitowskiego H Dziennik Wi-
+    lenski. -  1823. -  T. II. -  S. 157-161.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190433

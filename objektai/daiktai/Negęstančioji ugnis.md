@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - tikėjimas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Negęstančioji ugnis
 
@@ -40,10 +52,9 @@ Nenurodyta
 <a id="claim-t-59695"></a>
 - t-001
   global_id: t-59695
-  teiginys: 'Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.'
+  teiginys: "Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį."
   pagrindžia:
-    - c-001
-
+    - c-60327
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -58,7 +69,30 @@ Nenurodyta
     žinoma, [tikėjo] ne taip, kaip dera.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-60327
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 68"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 68."
+  citata_originali: |
+    Toks didelis buvo jo autoritetas,
+    kad ne tik jis pats, ne tik jo gentainiai, bet ir jo pasiuntinys, su jo krivūle206 ar kokiu
+    kitu žinomu ženklu keliaudamas per šių netikėlių žemes, susilaukdavo didžios pagarbos
+    iš kunigaikščių, kilmingųjų207 bei prastuomenės208. Be to, jie garbino, kaip buvo įprasta
+    senovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,
+    žinoma, [tikėjo] ne taip, kaip dera.
+  citata_rodoma: "Be to, jie garbino, kaip buvo įprasta\nsenovėje, negęstančiąją ugnį. Prūsai tikėjo, kad kūnas prisikelia iš numirusiųjų, bet,\nžinoma, [tikėjo] ne taip, kaip dera."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59695

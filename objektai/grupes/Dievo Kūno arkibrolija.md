@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XVI'
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dievo Kūno arkibrolija
 
@@ -36,23 +48,23 @@ Religinė brolija ir Vilniaus arkikonfratrija.
 <a id="claim-t-54837"></a>
 - t-001
   global_id: t-54837
-  teiginys: 'Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.'
+  teiginys: "Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule."
   pagrindžia:
-    - c-001
+    - c-55859
 
 <a id="claim-t-54838"></a>
 - t-002
   global_id: t-54838
-  teiginys: '1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.'
+  teiginys: "1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija."
   pagrindžia:
-    - c-001
+    - c-55859
 
 <a id="claim-t-54839"></a>
 - t-003
   global_id: t-54839
-  teiginys: 'Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.'
+  teiginys: "Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta."
   pagrindžia:
-    - c-001
+    - c-55859
 - susijęs iš Dievo Kūno arkibrolijos steigimo bulė: 1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę, kuria įsteigta Dievo Kūno arkibrolija.
 - susijęs iš Grigaliaus XIII bulė dėl Vilniaus arkikonfratrijos: 1573 m. vasario 3 d., valdant Žygimantui Augustui, buvo funduota Vilniaus arkikonfratrija.
 - susijęs iš Inocento X patvirtinimas dėl Vilniaus arkikonfratrijos: Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.
@@ -76,12 +88,38 @@ Religinė brolija ir Vilniaus arkikonfratrija.
     piežius Inocentas X irgi patvirtino.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-003
     - t-001
 
-## Ryšiai
-- Dievo Kūno arkibrolija gyveno [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-55859
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Išlikę
+    dokumentai, iš įvairių rankų gauti, tai patikina. 1539 metais
+    kardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri­
+    jonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib-
+    rolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au­
+    gustui, buvo funduota arkikonfratrija ir tais pačiais metais
+    lapkričio 27 dieną to paties vyskupo surengtas iškilmingas
+    įvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539
+    metų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon­
+    fratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po­
+    piežius Inocentas X irgi patvirtino.
+  citata_rodoma: "1539 metais \nkardinolas Komendoni atsiuntė Vilniaus vyskupui Valeri-\njonui Protasevičiui bulę, kuria steigiama Dievo Kūno arkib- \nrolija, o 1573 metų vasario 3 dieną, valdant Žygimantui Au-\ngustui, buvo funduota arkikonfratrija ir tais pačiais metais \nlapkričio 27 dieną to paties vyskupo surengtas iškilmingas \nįvesdinimas. 1577 metų gruodžio 19 dienos, o pirmesne 1539 \nmetų Grigaliaus XIII bule buvo patvirtinta Vilniaus arkikon-\nfratrija ir agreguota prie Romos, ką vėliau, 1646 metais, po-\npiežius Inocentas X irgi patvirtino."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54838
+    - t-54839
+    - t-54837

@@ -13,11 +13,6 @@ datos:
   - '2026 m.'
 date_start: '1881'
 date_end: '2026'
-description: 'Alytus žymi mezolito radinių ruožą, 1919 m. kovas su bolševikais prie Nemuno ir sovietmečio pramonės vietinių darbininkų mastą.'
-socialDescription: 'Alytus Lietuvos istorijos įrašuose siejamas su mezolito radiniais, 1919 m. kovomis su bolševikais ir vietos pramonės raida.'
-seo_atnaujinta: '2026-07-02T23:12:35.498304+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -25,77 +20,103 @@ tags:
 amziai:
   - 'XIX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Alytus
 
 ## Santrauka
 
-Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolito radinių ruožu nuo Lydos iki Alytaus ir palei Nemuną. 1919 m. prie Alytaus vyko kovos su bolševikais, kurių pajėgos planavo per Nemuną pulti Kauną iš pietų. Vėlesniuose įrašuose Alytus minimas ir sovietmečio pramonės kontekste, kai vietos gamyklose didelę darbininkų dalį sudarė miesto ar rajono gyventojai.
+Alytus šiame veikale minimas kaip pietinės Lietuvos orientyras, iki kurio siekia mezolito radinių ruožas paežerėse. Senesniame įraše yra likęs ir lakoniškas paminėjimas apie kovas prie Alytaus.
 
 ## Teiginiai
 
 <a id="claim-t-109066"></a>
 - t-001
   global_id: t-109066
-  teiginys: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
+  teiginys: "Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai."
   pagrindžia:
-    - c-006
+    - c-101170
 
 <a id="claim-t-109067"></a>
 - t-002
   global_id: t-109067
-  teiginys: '1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.'
+  teiginys: "1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava."
   pagrindžia:
-    - c-001
+    - c-24038
 
 <a id="claim-t-109068"></a>
 - t-003
   global_id: t-109068
-  teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
+  teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną."
   pagrindžia:
-    - c-008
+    - c-101173
 
 <a id="claim-t-109069"></a>
 - t-004
   global_id: t-109069
-  teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną.'
+  teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje ir iš pietų pulti Kauną."
   pagrindžia:
-    - c-003
+    - c-43311
 
-<a id="claim-t-109071"></a>
+<a id="claim-t-109072"></a>
 - t-005
-  global_id: t-109071
-  teiginys: 'Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus.'
+  global_id: t-109072
+  teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
   pagrindžia:
-    - c-004
+    - c-101165
+
+<a id="claim-t-109072"></a>
+- t-006
+  global_id: t-109072
+  teiginys: "Michało Balińskio manymu, slaptas sandėris sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli Alytaus."
+  pagrindžia:
+    - c-101165
 
 <a id="claim-t-109073"></a>
 - t-007
   global_id: t-109073
-  teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų.'
+  teiginys: "Bolševikų pajėgos planavo persikelti per Nemuną Alytuje ir Prienuose, kad galėtų pulti Kauną iš pietų."
   pagrindžia:
-    - c-003
+    - c-43311
 
 <a id="claim-t-109075"></a>
 - t-008
   global_id: t-109075
-  teiginys: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
+  teiginys: "Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
   pagrindžia:
-    - c-007
+    - c-101172
 
 <a id="claim-t-109076"></a>
 - t-009
   global_id: t-109076
-  teiginys: '1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
+  teiginys: "1919 m. vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus."
   pagrindžia:
-    - c-005
+    - c-101168
 
 <a id="claim-t-109077"></a>
 - t-010
   global_id: t-109077
-  teiginys: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
+  teiginys: "Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą."
   pagrindžia:
-    - c-002
+    - c-31935
+
+<a id="claim-t-193761"></a>
+- t-011
+  global_id: t-193761
+  teiginys: "Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link."
+  pagrindžia:
+    - c-12696
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79052|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas iki okupacijos tarnavo Alytaus ulonų pulke ir turėjo puskarininkio laipsnį.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66777|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Druskininkų bataliono grupei nenutraukus ryšio linijų tarp Merkinės ir Druskininkų, sovietai susisiekė su Alytumi ir išsikvietė pagalbą.
 - susijęs iš [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.).md#claim-t-71780|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]: 1945 m. rugpjūčio 18 d. Alytaus NKVD slaptame pranešime J. Bartašiūnui rašyta, kad operacijos metu nukauta 17 partizanų.
@@ -140,6 +161,22 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
 ## Reikšmingi paminėjimai
 
 - c-001
+  santrauka: 'Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.'
+  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
+  citata_originali: |
+    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
+    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
+    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
+    kelį pro Lentvarį pulti Vilnių.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-011
+
+- c-002
   santrauka: '1919 m. kovos su bolševikais vyko prie Alytaus, o kovo mėnesį iš rusų buvo atimti Jėznas, Butrimonys ir Krekenava.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -153,12 +190,13 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     nava.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-- c-002
+- c-003
   santrauka: 'Mezolito įrankių gausiai aptikta paežerėse nuo Lydos iki Alytaus, taip pat palei Nemuną, Nerį, Merkį, Ūlą ir Katrą.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -173,12 +211,13 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     vos mėsos « konservavimas »)^3.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
 
-- c-003
+- c-004
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     173
@@ -228,13 +267,14 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     pusės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-004
 
-- c-004
+- c-005
   santrauka: 'Slaptas sandėris buvo sudarytas girioje prie dabartinių Daugų, Trakų paviete, netoli nuo Alytaus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -255,13 +295,14 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     Voigt, T. V, 355.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-006
 
-- c-005
+- c-006
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     prieš tai nieko nepranešę atsitraukė ir
@@ -275,12 +316,13 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     traukti Lietuvos valstybės egzistavimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
 
-- c-006
+- c-007
   santrauka: 'Alytaus, Plungės ir Utenos gamyklose 50–70 proc. darbininkų buvo to paties miesto ar rajono gyventojai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -293,12 +335,13 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     ir tik 3–5 proc. – atvykėliai iš SSRS.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-- c-007
+- c-008
   santrauka: 'Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -316,12 +359,13 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     čiai išstūmė bolševikus iš Alytaus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
 
-- c-008
+- c-009
   santrauka: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad iš pietų pultų Kauną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -370,10 +414,278 @@ Alytus žinių bazėje iškyla kaip pietinės Lietuvos vieta, siejama su mezolit
     gimusį Lietuvos valstybingumą, dalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- Užėmė Alytų: [[objektai/grupes/Lietuviai]], [[objektai/grupes/Vokiečiai]]
+## Citatos
+
+- id: c-12696
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
+    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
+    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
+    kelį pro Lentvarį pulti Vilnių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193761
+
+- id: c-24038
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vokie-
+    čiai, saugodami savo dalis Latvijoj, vasario mėnesio pradžioj
+    atmušė rusus nuo Sedos ir Mažeikių. Mūsiškiai, pradėję ka-
+    riauti su bolševikais, pirmą mūšį laimėjo prie Kėdainių, kur
+    žuvo pirmas fronto kareivis Povilas Lukšys (1919 m.
+    vasario 7—9 d.). Kovos ėjo prie Alytaus, ir kovo mėnesį iš
+    rusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-
+    nava.
+  citata_rodoma: "Kovos ėjo prie Alytaus, ir kovo mėnesį iš\nrusų buvo atimtas Jėznas, Butrimonys ir toliau, šiaurėj, Kreke-\nnava."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109067
+
+- id: c-31935
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lie­
+    tuvoje tos medžiotojų — žvejų kultūros, kuri visada vadinama svi­
+    drinės kultūros vardu (Swidry — prie Vyslos Lenkijoje), židinių
+    yra ne maža^2. Mezolito įrankių gausiai aptikta palei upes Nemuną,
+    Nerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­
+    munės durpynuose.
+    Į mezolito laikotarpio galą jau buvo pažįstamas ir pirmas
+    prijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­
+    vos mėsos « konservavimas »)^3.
+  citata_rodoma: "Mezolito įrankių gausiai aptikta palei upes Nemuną,\nNerį, Merkį, Ūlą, Katrą, paežerėse nuo Lydos iki Alytaus ir Užne­\nmunės durpynuose.\nĮ mezolito laikotarpio galą jau buvo pažįstamas ir pirmas\nprijaukintas gyvulys, būtent šuo, kuris tada vartotas ir mėsai (gy­\nvos mėsos « konservavimas »)^3."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109077
+
+- id: c-43311
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    173
+
+    r
+    ‘wv
+    2
+
+    m
+
+    =
+
+    o
+
+    vi
+
+    =
+    =
+    x
+    rą
+
+    a
+
+    7
+    sa
+
+    kovos
+
+    ## Puslapis 176
+
+    LIETUVOS,
+    RESPUBLIKA
+
+    Prieš mūšį
+    Įgyvendindamos Kauno užėmimo planą
+    bolševikų pajėgos ketino veržtis iki
+    Nemuno, persikelti per jį Prienuose ir
+    Alytuje ir pulti Kauną iš pietų. Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
+    Gavusi iš savo žvalgų informaciją, jog
+    nuo Žiežmarių iki Alytaus nebuvo nei lie-
+    tuvių, nei vokiečių dalinių, bolševikų ka-
+    rinė vadovybė 1919 m. vasario pradžioje
+    ryžosi pradėti Kauno puolimą iš pietų
+    pusės.
+  citata_rodoma: "173\n\nr\n‘wv\n2\n\nm\n\n=\n\no\n\nvi\n\n=\n=\nx\nrą\n\na\n\n7\nsa\n\nkovos\n\n## Puslapis 176\n\nLIETUVOS,\nRESPUBLIKA\n\nPrieš mūšį\nĮgyvendindamos Kauno užėmimo planą\nbolševikų pajėgos ketino veržtis iki\nNemuno, persikelti per jį Prienuose ir\nAlytuje ir pulti Kauną iš pietų. Tai buvo\nsvarbi kompleksinių Raudonosios armi-\njos veiksmų plano, nukreipto prieš at-\ngimusį Lietuvos valstybingumą, dalis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109073
+    - t-109069
+
+- id: c-101165
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kitais
+    metais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­
+    driaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė
+    tikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.
+    28
+    Tas sandėris buvo sudarytas slapta
+    girioje, prie dabartinių Daugų, Tra­
+    kų paviete, netoli nuo Alytaus, kaip
+    manau (auf dem Felde Daudisken);
+    tarp atvykusiųjų į tariamą medžiok­
+    lę buvo: Jogaila, lydimas Lietuvos
+    kunigaikščių Vytauto ir Jono, bei
+    Vaidilos, ir didysis komtūras, ku­
+    ris jiems iškėlė puikias vaišes. Žr.
+    Voigt, T. V, 355.
+  citata_rodoma: "Kitais \nmetais, kai Jogaila savo įbrolio, bet Kęstučiui palankaus An­\ndriaus Algirdaičio vietoje į Polocko kunigaikštystę pasiuntė \ntikrą brolį Skirgailą, buvo prieita iki atviro susirėmimo30.\n28\nTas sandėris buvo sudarytas slapta \ngirioje, prie dabartinių Daugų, Tra­\nkų paviete, netoli nuo Alytaus, kaip \nmanau (auf dem Felde Daudisken); \ntarp atvykusiųjų į tariamą medžiok­\nlę buvo: Jogaila, lydimas Lietuvos \nkunigaikščių Vytauto ir Jono, bei \nVaidilos, ir didysis komtūras, ku­\nris jiems iškėlė puikias vaišes. Žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109071
+    - t-109072
+
+- id: c-101168
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    prieš tai nieko nepranešę atsitraukė ir
+    paliko juos vienus Alytuje). Tačiau va-
+    sario 14-15 d. naktį lietuviai ir vokie-
+    čiai išstūmė bolševikus iš Alytaus.
+    Pralaimėjimas Jiezne ir nesėkmė pie-
+    tinėje Lietuvoje prie Nemuno galuti-
+    nai sužlugdė bolševikų planus užimti
+    Kauną - laikinąją Lietuvos sostinę ir nu-
+    traukti Lietuvos valstybės egzistavimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109076
+
+- id: c-101170
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Absoliučią daugumą
+    šių miestų pramonės įmonių darbuotojų sudarė iš kaimo atvykę lietuviai,
+    nes lietuviškuose provincijos miestuose nenorėjo kurtis iš SSRS atvyks-
+    tantys rusakalbiai migrantai. Decentralizuotai plėtojant pramonę, geriau
+    panaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose
+    nuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai
+    ir tik 3–5 proc. – atvykėliai iš SSRS.
+  citata_rodoma: "Decentralizuotai plėtojant pramonę, geriau \npanaudoti vietiniai darbo ištekliai, Alytaus, Plungės, Utenos gamyklose \nnuo 50 iki 70 proc. darbininkų buvo to paties miesto ar rajono gyventojai \nir tik 3–5 proc. – atvykėliai iš SSRS."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109066
+
+- id: c-101172
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tai buvo pirmas tokios rūšies karo
+    grobis ir tuo pačiu pirmas Lietuvos aviacijos karo lėktuvas.“
+
+    pulko kario
+    kepurė
+
+    Rusiška 1881 modelio dragūnų šaškė
+
+    prieš tai nieko nepranešę atsitraukė ir
+    paliko juos vienus Alytuje). Tačiau va-
+    sario 14-15 d. naktį lietuviai ir vokie-
+    čiai išstūmė bolševikus iš Alytaus.
+  citata_rodoma: "“\n\npulko kario\nkepurė\n\nRusiška 1881 modelio dragūnų šaškė\n\nprieš tai nieko nepranešę atsitraukė ir\npaliko juos vienus Alytuje). Tačiau va-\nsario 14-15 d. naktį lietuviai ir vokie-\nčiai išstūmė bolševikus iš Alytaus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109075
+
+- id: c-101173
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Atgarsis apie šią
+    pergalę plačiai pasklido po visą Lietuvą,
+    įkvėpdamas lietuvius tolesnei kovai.
+
+    173
+
+    r
+    ‘wv
+    2
+
+    m
+
+    =
+
+    o
+
+    vi
+
+    =
+    =
+    x
+    rą
+
+    a
+
+    7
+    sa
+
+    kovos
+
+    ## Puslapis 176
+
+    LIETUVOS,
+    RESPUBLIKA
+
+    Prieš mūšį
+    Įgyvendindamos Kauno užėmimo planą
+    bolševikų pajėgos ketino veržtis iki
+    Nemuno, persikelti per jį Prienuose ir
+    Alytuje ir pulti Kauną iš pietų. Tai buvo
+    svarbi kompleksinių Raudonosios armi-
+    jos veiksmų plano, nukreipto prieš at-
+    gimusį Lietuvos valstybingumą, dalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-109068

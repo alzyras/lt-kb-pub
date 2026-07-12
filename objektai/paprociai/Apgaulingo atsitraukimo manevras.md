@@ -16,6 +16,18 @@ atnaujinta: ''
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Apgaulingo atsitraukimo manevras
 
@@ -48,31 +60,30 @@ Nenurodyta
 <a id="claim-t-71787"></a>
 - t-001
   global_id: t-71787
-  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę.'
+  teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą ir juo versdavo priešininką suardyti savo rikiuotę."
   pagrindžia:
-    - c-002
+    - c-43151
 
 <a id="claim-t-71788"></a>
 - t-002
   global_id: t-71788
-  teiginys: 'Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti.'
+  teiginys: "Lietuvių karvedžiai nuo seno mėgo apgaulingo atsitraukimo manevrą, kurį su laiku vis įdomiau įgyvendindavo ir provokuodami suardyti priešo rikiuotę priversdavo jį pralaimėti."
   pagrindžia:
-    - c-002
+    - c-43151
 
 <a id="claim-t-71789"></a>
 - t-003
   global_id: t-71789
-  teiginys: 'Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.'
+  teiginys: "Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius."
   pagrindžia:
-    - c-001
+    - c-12367
 
 <a id="claim-t-71790"></a>
 - t-004
   global_id: t-71790
-  teiginys: 'Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu.'
+  teiginys: "Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu."
   pagrindžia:
-    - c-001
-
+    - c-12367
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -90,7 +101,8 @@ Nenurodyta
     daug kitų).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -111,8 +123,58 @@ Nenurodyta
     kavalerija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-12367
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pagaliau Karolis Chodkevičius davė
+    komandą visam frontui pradėti imituoti
+    atsitraukimą. Atsukę priešui nugaras, lietu-
+    viai pradėjo trauktis. Švedijos kariuomenės
+    vadovybė iškart sureagavo į šį manevrą ir
+    buvo duotas įsakymas pulti „besitraukian-
+    čius“ lietuvius (šis manevras labai pri-
+    mena 1270 m. Karusės, 1279 m. Aizkraulės,
+    1410 m. Žalgirio, 1514 m. Oršos mūšius ir
+    daug kitų).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71790
+    - t-71789
+
+- id: c-43151
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Oršos mūšius ir
+    daug kitų). Lietuvių karvedžiai nuo seno
+    mėgo apgaulingo atsitraukimo manevrą,
+    kurį su laiku vis įdomiau įgyvendindavo ir
+    provokuodami suardyti priešo rikiuotę pri-
+    versdavo jį pralaimėti.
+
+    Pirmoji puolimą pradėjo švedų kai-
+    riojo, o netrukus ir dešiniojo sparno
+    kavalerija.
+  citata_rodoma: "Lietuvių karvedžiai nuo seno\nmėgo apgaulingo atsitraukimo manevrą,\nkurį su laiku vis įdomiau įgyvendindavo ir\nprovokuodami suardyti priešo rikiuotę pri-\nversdavo jį pralaimėti.\n\nPirmoji puolimą pradėjo švedų kai-\nriojo, o netrukus ir dešiniojo sparno\nkavalerija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-71788
+    - t-71787

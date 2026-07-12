@@ -12,6 +12,18 @@ tags:
   - autorius
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Wróblewski R
 
@@ -24,10 +36,9 @@ Dusburgietis teigia, kad wróblewski R.
 <a id="claim-t-60821"></a>
 - t-001
   global_id: t-60821
-  teiginys: 'R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m.'
+  teiginys: "R. Wróblewskis 1970 m. Lodzėje paskelbė straipsnį apie jotvingių problemą Boleslovo Droviojo politikoje 1248–1264 m."
   pagrindžia:
-    - c-001
-
+    - c-61453
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,7 +49,25 @@ Dusburgietis teigia, kad wróblewski R.
     1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61453
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 273"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 273."
+  citata_originali: |
+    Wróblewski R. Problem jaćwieski w polityce Bolesława Wstydliwego w latach 1248—
+    1264,—Nauki humanistyczno społeczne, Łódź, 1970, z. 72, s. 3—18.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60821

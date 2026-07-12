@@ -18,6 +18,18 @@ tags:
   - sutartis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Brodnica
 
@@ -27,26 +39,33 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
 
 ## Teiginiai
 
-<a id="claim-t-83242"></a>
+<a id="claim-t-83244"></a>
 - t-001
-  global_id: t-83242
-  teiginys: 'Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.'
+  global_id: t-83244
+  teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
   pagrindžia:
-    - c-003
+    - c-79613
 
 <a id="claim-t-83243"></a>
 - t-002
   global_id: t-83243
-  teiginys: 'Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu.'
+  teiginys: "Vytautas 1414-1418 m. paliaubų pasitarimuose Brodnicoje gynė prekybos reikalus su Ordinu."
   pagrindžia:
-    - c-002
+    - c-79612
+
+<a id="claim-t-83244"></a>
+- t-003
+  global_id: t-83244
+  teiginys: "Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių."
+  pagrindžia:
+    - c-79613
 
 <a id="claim-t-83245"></a>
 - t-004
   global_id: t-83245
-  teiginys: 'Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą.'
+  teiginys: "Vytautas paliko Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats skubiai grįžo į Lietuvą."
   pagrindžia:
-    - c-001
+    - c-37316
 - susijęs iš Tariamasis Brodnicos komtūro laiškas: Kiuchelmeisteris sugalvojo parašyti tariamąjį Brodnicos komtūro laišką apie varganą Brodnicos padėtį.
 - susijęs iš Tariamasis Brodnicos komtūro laiškas: Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.
 - susijęs iš Drevenca: Plėšikautojų būrys per Drevencą įsiveržė į Brodnicos apylinkes, nužudė apie šešiasdešimt žmonių ir padarė Ordinui nuostolių.
@@ -71,7 +90,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     rezultatai buvo menki.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -90,7 +110,8 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     (^1) ) Hirt.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -109,8 +130,74 @@ Pametė Jogailą ir lenkų būrius prie Brodnicos mūrų, o pats paskubom sugrį
     kardo, kiti į nelaisvę papuolę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-001
+
+## Citatos
+
+- id: c-37316
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas skubiai
+    įvykdė savo pasiryžimą. Pametė Jogailą ir lenkų būrius prie
+    Brodnicos mūrų, o pats paskubom sugrįžo į Lietuvą^1 ). Todėl
+    nė kiek netenka abejoti Vytautą prisidėjus prie to, kad to karo
+    rezultatai buvo menki.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83245
+
+- id: c-79612
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Darydamas su jais atskiras sutartis, jis didino savo iždą
+    auksu, sidabru, audimais, brangiais kailiais, ką vėliau duosniai
+    dalindavo^1 ). Jis gynė pirklių reikalus, padėjo išieškoti skolas,
+    reikalavo atlyginti nuskriaustų pirklių šeimynoms^2 ).
+    Toliau Vytautas prekybos reikalus gynė beveik visose su
+    Ordinu padarytose sutartyse (Salyno, Racionžo, Torno), pasita­
+    rimuose paliaubų metu 1414—1418 (Grabove, Brodnicoje, Ve­
+
+    (^1) ) Hirt.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83243
+
+- id: c-79613
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ištisi kaimai visoje kunigaikš­
+    tystėje, dešimtys bažnyčių buvo apiplėšta ir sudeginta: pa­
+    imtų į nelaisvę priskaičiuota iki devynių tūkstančių. Tuo lai­
+    ku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos
+    (Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių
+    ir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per
+    pusantrų metų žuvo apie dvidešimt tūkstančių krikščionių
+    iš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio
+    kardo, kiti į nelaisvę papuolę.
+  citata_rodoma: "Tuo lai­\nku kitas plėšikautojų būrys per Drevencą įsiveržė į Brodnicos\n(Strasburgas) apylinkes, nužudė apie šešiasdešimt žmonių\nir padarė Ordinui nuostolių už tūkstantį grivinų*. Taigi per\npusantrų metų žuvo apie dvidešimt tūkstančių krikščionių\niš Prūsijos, Livonijos ir Dobrynės - vieni krito nuo pagonio\nkardo, kiti į nelaisvę papuolę."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-83244
+    - t-83242

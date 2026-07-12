@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vonsdorfas
 
@@ -19,9 +31,9 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
 <a id="claim-t-58770"></a>
 - t-001
   global_id: t-58770
-  teiginys: 'Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis.'
+  teiginys: "Prūsijos žemės kronikos rodyklėje Vonsdorfas siejamas su formomis Wohenstorph, Wünsdorf, Wonsdorff, Wansdorf ir Unzatrapis."
   pagrindžia:
-    - c-001
+    - c-59402
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/ivykiai/Kapstetos pilies paėmimas Vonsdorfo žemėje.md#claim-t-91914|Kapstetos pilies paėmimas Vonsdorfo žemėje]]: Karaliaučiaus komtūras su sembų kariuomene įsiveržė į Vonsdorfo žemę, užėmė Kapstetos pilį, ją sudegino ir nusiaubė kraštą.
 - susijęs iš Kapsteta: Sembų kariuomenė, vedama Tirsko, užkariavo Kapstetos pilį Vonsdorfo žemėje ir ją sudegino.
@@ -71,11 +83,46 @@ Dusburgietis teigia, kad valevona) Vizna Vloclavekas Vokietija Vakarų Vokietija
     Vurungenas
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Puolė Vonsdorfą: [[objektai/grupes/Sembai]], [[objektai/asmenys/Tirskas]]
-- Turėjo priklausinį: [[objektai/vietos/Auktalitas]]
+## Citatos
+
+- id: c-59402
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 322"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 322."
+  citata_originali: |
+    Viškonys
+    Višogrudas (Wischerot, Wischegrot, dab. Fordonas)
+    Vištytis, ež.
+    Vištytis, miestelis
+    Vitchendorfas, k. Saksonijoje
+    Vitlandas (Witland, Withlandia)
+    Viurcburgas
+    Vizenburgas  (žr. Valevona)
+    Vizna
+    Vloclavekas
+    Vokietija
+       Vakarų Vokietija
+        vokiečiai
+    Volfenbiutelis
+    Volferštorfas
+    Volynė
+    Vona, Vonė
+    Vonbžeznas
+    Vonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)
+    Vroclavas
+    Vundenava, Vuntenovė (žr. Baiga)
+    Vurungenas
+  citata_rodoma: "Valevona)\nVizna\nVloclavekas\nVokietija\n   Vakarų Vokietija\n    vokiečiai\nVolfenbiutelis\nVolferštorfas\nVolynė\nVona, Vonė\nVonbžeznas\nVonsdorfas (Wohenstorph, Wünsdorf; Wonsdorff, Wansdorf — Unzatrapis)\nVroclavas\nVundenava, Vuntenovė (žr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-58770

@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # 9-asis pėstininkų pulkas
 
@@ -19,10 +31,9 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
 <a id="claim-t-40831"></a>
 - t-001
   global_id: t-40831
-  teiginys: 'Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes.'
+  teiginys: "Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pulkų pradėjo kontrpuolimą ir po permainingų ir nemažai nuostolių pareikalavusių kovų atsiėmė po paskutinio lenkų puolimo prarastas Lietuvos žemes."
   pagrindžia:
-    - c-001
-
+    - c-44714
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,10 +53,35 @@ Spalio 30 d. trys lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo pėstininkų pu
     į Giedraičius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- 9-asis pėstininkų pulkas puolė [[objektai/grupes/Lenkai]]
+## Citatos
+
+- id: c-44714
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Susidarė pavo-
+    jinga padėtis, lenkams pasiekus savo puo-
+    limo tikslą, Lietuvai būtų iškilęs pavojus
+    prarasti nepriklausomybę. Spalio 30 d. trys
+    lietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo
+    pėstininkų pulkų pradėjo kontrpuolimą
+
+    ir po permainingų ir nemažai nuostolių
+    pareikalavusių kovų atsiėmė po pasku-
+    tinio lenkų puolimo prarastas Lietuvos
+    žemes. Lapkričio 1 d. lietuviai įžengė
+    į Giedraičius.
+  citata_rodoma: "Spalio 30 d. trys\nlietuvių batalionai iš 2-ojo, 7-ojo ir 9-ojo\npėstininkų pulkų pradėjo kontrpuolimą\n\nir po permainingų ir nemažai nuostolių\npareikalavusių kovų atsiėmė po pasku-\ntinio lenkų puolimo prarastas Lietuvos\nžemes. Lapkričio 1 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40831

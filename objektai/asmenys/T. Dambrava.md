@@ -10,6 +10,18 @@ tags:
   - karalius
   - kunigaikštis
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # T. Dambrava
 
@@ -22,24 +34,23 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
 <a id="claim-t-40452"></a>
 - t-001
   global_id: t-40452
-  teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.'
+  teiginys: "T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne."
   pagrindžia:
-    - c-002
+    - c-44527
 
 <a id="claim-t-40453"></a>
 - t-002
   global_id: t-40453
-  teiginys: 'J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.'
+  teiginys: "J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija."
   pagrindžia:
-    - c-001
+    - c-42251
 
 <a id="claim-t-40454"></a>
 - t-003
   global_id: t-40454
-  teiginys: 'Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
+  teiginys: "Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis."
   pagrindžia:
-    - c-003
-
+    - c-44528
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,6 +62,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     flanguose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -73,6 +85,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     pėstininkų ir juos pradėjo trypti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -91,10 +104,69 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
     nerolas Andrius Lennartssonas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
 
-## Ryšiai
-- T. Dambrava keliavo į [[objektai/vietos/Dauguva]]
+## Citatos
+
+- id: c-42251
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    @ J.P. Sapiegos ir T. Dambravos raiteliai su-
+    sikauna su atakuojančia švedų kavalerija
+    flanguose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40453
+
+- id: c-44527
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rotmistrų J. P. Sapiegos ir T. Dambra-
+    vos kavalerija susikovė su švedų kairiojo
+    ir dešiniojo sparnų kavalerija. Rotmistro
+    "T. Dambravos vadovaujama viena rei-
+    tarų vėliava prajojo Dauguvos pakrante ir
+    atsidūrė generolo E J. Mansfeldo kavale-
+    rijos dešiniajame sparne. Vienu metu, iš
+    šono ir priekio, reitarų ir husarų vėliavos
+    sudavė tokį stiprų smūgį, kad švedų ka-
+    valerija buvo nublokšta tiesiai ant savųjų
+    pėstininkų ir juos pradėjo trypti.
+  citata_rodoma: "Rotmistro\n\"T. Dambravos vadovaujama viena rei-\ntarų vėliava prajojo Dauguvos pakrante ir\natsidūrė generolo E J. Mansfeldo kavale-\nrijos dešiniajame sparne."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40452
+
+- id: c-44528
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prasidėjo žiau-
+    rios besitraukiančio priešo kapotynés.
+    Teigiama, kad mūšio metu nuo rotmistro
+    T. Dambravos kirčio žuvo karaliaus žen-
+    tas kunigaikštis Fridrichas Liuneburgietis.
+    Žuvo centro pėstininkams vadovavęs ge-
+    nerolas Andrius Lennartssonas.
+  citata_rodoma: "Teigiama, kad mūšio metu nuo rotmistro\nT. Dambravos kirčio žuvo karaliaus žen-\ntas kunigaikštis Fridrichas Liuneburgietis.\nŽuvo centro pėstininkams vadovavęs ge-\nnerolas Andrius Lennartssonas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40454

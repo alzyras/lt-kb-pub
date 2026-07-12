@@ -13,11 +13,23 @@ atnaujinta: ''
 tags:
   - bajorija
   - kunigas
-  - privilegija
   - saltinis
+  - valstybė
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Horodlės aktai (1413 m.)
 
@@ -30,10 +42,9 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
 <a id="claim-t-12451"></a>
 - t-001
   global_id: t-12451
-  teiginys: '1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei.'
+  teiginys: "1413 m. Horodlės unija nesuteikė privilegijų stačiatikiams, ypač jų diduomenei."
   pagrindžia:
-    - c-001
-
+    - c-13849
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +60,31 @@ Kai kurie stačiatikiai, ypač jų di­ duomenė, buvo nepatenkinti ir tuo, kad 
     ir buvo atleisti nuo daugelio pareigų valstybei.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-13849
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tie raštai, suprantama, kėlė tarp sta­
+    čiatikių nesutikimų ir neramumų, nes vieni palaikė Gregorijų
+    Cemblaką, o kiti — Focijų. Kai kurie stačiatikiai, ypač jų di­
+    duomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija
+    nei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai
+    tuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę
+    ir buvo atleisti nuo daugelio pareigų valstybei.
+  citata_rodoma: "Kai kurie stačiatikiai, ypač jų di­\nduomenė, buvo nepatenkinti ir tuo, kad nei 1387 m. privilegija\nnei 1413 m. Horodlės unija nesuteikia jiems jokių privilegijų, kai\ntuo tarpu bajorai katalikai buvo gavę plačių laisvių į nuosavybę\nir buvo atleisti nuo daugelio pareigų valstybei."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12451

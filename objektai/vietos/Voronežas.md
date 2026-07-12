@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Voronežas
 
@@ -27,9 +39,9 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
 <a id="claim-t-181304"></a>
 - t-001
   global_id: t-181304
-  teiginys: 'Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą.'
+  teiginys: "Lietuvių Komitetas Voroneže įsteigtose lietuviškose gimnazijose organizavo jaunuomenės mokymą."
   pagrindžia:
-    - c-001
+    - c-164861
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
 - susijęs iš Peterburgas: Pirmojo pasaulinio karo metais Peterburge ir Voroneže susiformavo lietuvių centrai su laikraščių redakcijomis ir gimnazijomis.
 - susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
@@ -54,10 +66,29 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
     steigiami bendrabučiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]
+## Citatos
+
+- id: c-164861
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    ##### 2. Lietuvių tremtiniai Rusijoje
+
+    **Lietuvių Komitetas,** persikėlęs į Petrapilį (dabartinį Lenin-
+    gradą), organizavo ne tik tremtinių šelpimą, bet ir visos jaunuo-
+    menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimna-
+    zijose). Studentams buvo duodamos pašalpos universitetuose ir
+    steigiami bendrabučiai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181304

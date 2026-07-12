@@ -14,6 +14,18 @@ tags:
   - kunigaikštis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos okupacija (1940 m.)
 
@@ -42,9 +54,9 @@ Nenurodyta
 <a id="claim-t-28842"></a>
 - t-001
   global_id: t-28842
-  teiginys: '1940 m. komunistams okupavus Lietuvą, buvo atsisakyta tradicinės Lietuvos istorijos periodizacijos.'
+  teiginys: "1940 m. komunistams okupavus Lietuvą, buvo atsisakyta tradicinės Lietuvos istorijos periodizacijos."
   pagrindžia:
-    - c-001
+    - c-28746
 - susijęs iš Molotovo–Ribentropo paktas: Svarbiausių datų sąraše 1940 m. birželio 15 d. Sovietų Sąjungos įvykdyta Lietuvos okupacija ir aneksija aiškinama kaip Molotovo–Ribentropo pakto realizavimas.
 ## Reikšmingi paminėjimai
 
@@ -60,7 +72,29 @@ Nenurodyta
     buvo kitaip pertvarkyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-28746
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tos tradicinės periodizacijos tačiau buvo atsisakyta, kai tik
+    Lietuva buvo komunistų okupuota (1940). Buvo charakteringa,
+    kad spaudoje tuoj prasidėjo niekinimas ne tik prezidento Smetonos
+    ir jo sistemos, bet ir didžiųjų Lietuvos kunigaikščių, labiausiai
+    kritikuojant Vytautą Didįjį^13. Antrojoje okupacijoje sistemingai
+    naujai perrašant Lietuvos istoriją, ir jos vystymosi laikotarpiai
+    buvo kitaip pertvarkyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28842

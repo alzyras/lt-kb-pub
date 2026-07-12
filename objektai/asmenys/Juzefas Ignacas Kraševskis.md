@@ -3,6 +3,7 @@ tipas: asmuo
 pavadinimas: 'Juzefas Ignacas Kraševskis'
 saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
   - '1841 m.'
   - '1851 m.'
@@ -17,6 +18,18 @@ amziai:
   - 'XIX'
 periodo_grupes:
   - 'naujieji laikai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Juzefas Ignacas Kraševskis
 
@@ -29,10 +42,16 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
 <a id="claim-t-63788"></a>
 - t-001
   global_id: t-63788
-  teiginys: 'Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“.'
+  teiginys: "Juzefas Ignacas Kraševskis 1841–1851 m. Vilniuje leido kultūrinio pobūdžio žurnalą „Atheneum“."
   pagrindžia:
-    - c-001
+    - c-64728
 
+<a id="claim-t-190901"></a>
+- t-002
+  global_id: t-190901
+  teiginys: "Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius."
+  pagrindžia:
+    - c-173783
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +65,69 @@ Suvokimas, kad be tautos atminties nebus ir tautos ateities, atsispindi 1859 m. 
     kultūrinio pobūdžio žurnalą „Atheneum“.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Šaltinio komentare spėjama, kad ši recenzija galėjo pradėti šaltus T. Narbuto ir J. I. Kraševskio santykius.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Galima
+    spėti, jog būtent ši recenzija
+    davė pradžią šaltiems
+    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
+    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
+    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
+    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
+    ševskio istorinių darbų išsakė identiškų priekaištų.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-64728
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vilniuje lenkų kalba išeina devyni tomai karo in-
+    žinieriaus ir istoriko Teodoro Narbuto „Lietuvių tautos istorijos“, skirtos
+    Lietuvos istorijai iki Liublino unijos. Čia rašė produktyvusis lenkų rašyto-
+    jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs
+    kultūrinio pobūdžio žurnalą „Atheneum“.
+  citata_rodoma: "jas, Lietuvos (LDK) patriotas J. I. Kraševskis, 1841–1851 m. Vilniuje leidęs"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-63788
+
+- id: c-173783
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 451"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 451."
+  citata_originali: |
+    Galima
+    spėti, jog būtent ši recenzija
+    davė pradžią šaltiems
+    T. Narbuto ir J. I. Kraševskio santykiams (nors, jeigu
+    tikėsime pirmuoju, jie niekuomet nebuvo asmeniškai pa­
+    žįstami). Ši nuostata ypač ryški istoriko laiškuose arti-
+    miausiems bičiuliams. Beje, T. Narbutas dėl J. I. Kra­
+    ševskio istorinių darbų išsakė identiškų priekaištų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190901

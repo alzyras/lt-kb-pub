@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus vyskupijos klierikų kolegija
 
@@ -33,58 +45,58 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 <a id="claim-t-55100"></a>
 - t-001
   global_id: t-55100
-  teiginys: 'Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo.'
+  teiginys: "Jurgis Radvila Vilniaus diecezijoje nusprendė steigti ir funduoti kolegiją dėl kunigų ir kitų patarnautojų trūkumo."
   pagrindžia:
-    - c-004
+    - c-78323
 
 <a id="claim-t-55101"></a>
 - t-002
   global_id: t-55101
-  teiginys: 'Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius.'
+  teiginys: "Kolegijoje turėjo būti išlaikomas ir dievobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuolių skaičius."
   pagrindžia:
-    - c-004
+    - c-78323
 
 <a id="claim-t-55102"></a>
 - t-003
   global_id: t-55102
-  teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete.'
+  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti skyrė Vozgėliškių dvarelį Vilniaus paviete."
   pagrindžia:
-    - c-001
+    - c-55908
 
 <a id="claim-t-55103"></a>
 - t-004
   global_id: t-55103
-  teiginys: 'Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai.'
+  teiginys: "Vozgėliškių dvarelis su teisėmis, pajamomis, medžiokle, žūkle ir dominijos teise buvo neatšaukiamai perduotas klierikų kolegijai."
   pagrindžia:
-    - c-002
+    - c-55909
 
 <a id="claim-t-55104"></a>
 - t-005
   global_id: t-55104
-  teiginys: 'Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą.'
+  teiginys: "Karaliaus Stepono buvo prašoma priimti Vilniaus seminariją į savo globą ir gynybą."
   pagrindžia:
-    - c-003
+    - c-55910
 
 <a id="claim-t-55105"></a>
 - t-006
   global_id: t-55105
-  teiginys: 'Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
+  teiginys: "Klierikų mokymas ir kolegijos vadovavimas buvo patikėti Vilniaus Jėzaus draugijos kolegijai."
   pagrindžia:
-    - c-003
+    - c-55910
 
 <a id="claim-t-81748"></a>
 - t-007
   global_id: t-81748
-  teiginys: 'Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti.'
+  teiginys: "Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams išlaikyti bei auklėti."
   pagrindžia:
-    - c-004
+    - c-78323
 
 <a id="claim-t-81749"></a>
 - t-008
   global_id: t-81749
-  teiginys: 'Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete.'
+  teiginys: "Jurgis Radvila Vilniaus vyskupijos klierikų kolegijai funduoti ir aprūpinti pridėjo Vozgėliškėmis vadintą dvarelį Vilniaus paviete."
   pagrindžia:
-    - c-001
+    - c-55908
 - susijęs iš [[objektai/asmenys/Jurgis Astikas.md#claim-t-87741|Jurgis Astikas]]: Jurgis Astikas 1580 m. birželio 18 d. buvo nukirsdintas Vilniaus turguje už klastą ir tėvynės išdavystę.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
 - susijęs iš [[objektai/grupes/Vilniaus jėzuitų kolegija.md#claim-t-86706|Vilniaus jėzuitų kolegija]]: Vilniaus Jėzaus draugijos kolegijai buvo patikėtas klierikų mokymas ir seminarijos valdymas.
@@ -123,9 +135,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
 - susijęs iš Kalnas prie Vilnelės: 1580 m. prie Kasparo Bekešo kapo ant kalno prie Vilnelės buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Suvalkai: Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
 - susijęs iš Veiveriai: 1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.
-- susijęs iš Vilnelė: 1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnelė: 1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnius: Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.
 - susijęs iš Vilnius: Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.
 - susijęs iš Vilnius: Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.
@@ -164,6 +174,7 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,7 +213,8 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     laširdingą!
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -229,7 +241,8 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     mūsų seminarija.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -264,12 +277,155 @@ Vilniaus diecezijos seminarija ir religinė švietimo institucija.
     lių skaičius.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-001
     - t-002
 
-## Ryšiai
-- Rėmė Vilniaus vyskupijos klierikų kolegiją: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]]
+## Citatos
+
+- id: c-55908
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota. Nors, esant dabartinėms
+    nelaimėms, nuolatiniams nuostoliams dėl karo su Maskva,
+    mes neprivalome savęs apsunkinti naujais vargais, atsižvelg­
+    dami į savo padėtį, sunkiai galime aprūpinti lėšomis, tačiau
+    tikėdamiesi, kad Viešpaties, kurismeapleidžia gerų darbų,
+    ranka nesutrumpėjusi, paties Viešpaties Dievo vardu nu­
+    sprendžiame ir funduojame mūsų klierikų kolegiją ir fun-
+    davimui bei jos aprūpinimui jai pridedame mūsų patrimo-
+    nialinį dvarelį Vilniaus paviete, vadinamą Vozgėliškėmis*.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55102
+    - t-81749
+
+- id: c-55909
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    IV KNYGA
+    Tą dvarelį su žmonėmis, namais, laukais, pievomis, ganyk­
+    lomis, bitynais, miškais, miškeliais, šilais, gojais, krūmynais,
+    kalvomis ir lygumomis, medžiais, vandenimis, upėmis, tven­
+    kiniais, ežerais, upeliais, vandenų srovėmis, malūnais ir jų
+    gaminiais, činšais, pajamomis, pelnu, arklių pašaru, visų lau­
+    kinių žvėrių ir paukščių medžiokle, rinkliavomis ir žūkla-
+    vimu, žinoma, su visomis savo teisėmis, priklausomybėmis,
+    visomis apylinkėmis, kokias mes patys turėjome ir iki šiol
+    turime, ir kaip mūsų ranka surašytame ir užantspauduota­
+    me sąraše išdėstyta, savo noru priėmę sprendimą ir gerai
+    bei tvirtai apgalvoję, dovanojame neatšaukiamu dovanoji­
+    mu, užleidžiame ir duodame amžiams turėti, laikyti ir tai­
+    kiai valdyti minėtai klierikų kolegijai, jai ir kiekvienam, ir
+    visiems būsiantiems klierikams, perimantiems pilną valdžią
+    ir dominijos teisę bei visus mūsų darbus, susijusius su šiuo
+    dvareliu, mums ar paveldėtojams, ar mūsų įpėdiniams jo­
+    kios teisės į patį dvarelį nepasilikdami ir neišsaugodami. O
+    brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios
+    prelatus ir kanauninkus, ir kitus mūsų diecezijos beneficijo­
+    se ką nors turinčius, raginame, kad kokią nors savo dalį mi­
+    nėtai kolegijai laisvai ir paslaugiai atiduotų ir skirtų. Todėl
+    pagal mūsų tarnybai priklausančias pareigas turėsime rū­
+    pintis ir dėti pastangas, kad tiek iš anksčiau paminėtų dalių
+    ir iš tikinčiųjų Kristumi dosnumo, ir iš aukų, tiek taip pat iš
+    bet kokių šviesiausiojo karaliaus mūsų pono Stepono mie­
+    laširdingą!
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55103
+
+- id: c-55910
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O kadangi no­
+    rime, kad ši pastatyta ir įkurta seminarija amžinai gyvuotų
+    ir klestėtų, dabar laimingai karaliaujančio šviesiausiojo ir
+    katalikiškiausiojo mūsų kunigaikščio karaliaus Stepono mie­
+    laširdingą! prašome, kad laikytų verta prisiimti į savo globą
+    ir gynybą pačią Vilniaus seminariją. Ir mūsų įpėdinius ragi­
+    name ir prašome, kad, iškilus seminarijoje įvairiems sunku­
+    mams, kreiptųsi į pačią karališkąją Didenybę ar į kitus ka­
+    raliaus įpėdinius ir nieko, kas susiję su seminarijos ir jos turtų
+    valdymu, be jų pritarimo nedarytų. Tai jų sąžinei griežtai
+    pavedame. Klierikų mokymo reikalus ir vadovavimą kole­
+    gijai patikime didžiai gerbiamam tėvui Rektoriui ir visai Vil­
+    niaus Jėzaus draugijos kolegijai, ir, mielai leidus didžiai* ger­
+    biamam tėvui generaliniam Prepozitui (kuriam dėl šio
+    reikalo nusiuntėme laišką ir neabejojame, kad mums bus pa­
+    lankus), tuos pačius karštai raginame, kad imtų rūpintis šia
+    mūsų seminarija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55104
+    - t-55105
+
+- id: c-78323
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Quod quidem praedium cum kominikus, villis,
+    426
+
+    ## Puslapis 443
+
+    IV KNYGA
+    Vardan Kristaus Amen. Amžinai dalykų atminčiai. Šven­
+    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
+    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
+    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
+    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
+    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
+    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
+    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81748
+    - t-55100
+    - t-55101

@@ -16,6 +16,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kremenecas
 
@@ -28,16 +40,16 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
 <a id="claim-t-32259"></a>
 - t-001
   global_id: t-32259
-  teiginys: 'Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m.'
+  teiginys: "Švitrigaila dėl naujo sąmokslo su ordinu buvo uždarytas į Kremeneco kalėjimą Volinijoje, iš kur pabėgo tik 1418 m."
   pagrindžia:
-    - c-001
+    - c-33900
 
 <a id="claim-t-184990"></a>
 - t-002
   global_id: t-184990
-  teiginys: 'Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius.'
+  teiginys: "Karaliaus vadas Šafranecas prie Kremeneco smarkiai sumušė įsibrovėlius."
   pagrindžia:
-    - c-002
+    - c-168351
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186118|Jurgis Narimantaitis]]: Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje.
 - susijęs iš [[objektai/asmenys/Konradas Frankenbergas.md#claim-t-186228|Konradas Frankenbergas]]: Rusų sąmokslininkai nužudė sargybos viršininką Konradą Frankenbergą ir paleido Švitrigailą iš Kremeneco kalėjimo.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179672|Skirgaila]]: Skirgaila mirė 1395 m., po to Kremenecas vėl susijungė su Volynija.
@@ -65,6 +77,7 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -90,10 +103,58 @@ Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys jau Maskvos žygio metu �
     laukinių žvėrių įsiūtį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Kremenecas priklausė [[objektai/vietos/Volynija]]
+## Citatos
+
+- id: c-33900
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Net Švitrigaila, kuris iš Maskvos Vosyliaus buvo gavęs eilę žemių^59 ,
+    grįžo atgal. Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys
+    jau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­
+    tas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė
+    pabėgti — vėl pas kryžiuočius — tik 1418 m.
+    Dar tebevykstant Maskvos žygiams, Vytautas 1407 m. susi­
+    taikė su Didžiuoju Naugardu, kur, pačios respublikos prašymu,
+    Vytautas grąžino sau ištikimą Lengvenį Algirdaitį^60.
+  citata_rodoma: "Bet dėl savo naujo sąmokslo su ordinu, kurio dalinys\njau Maskvos žygio metu įtartinai laikėsi, Švitrigaila buvo uždary­\ntas į Kremenetso (Volinijoje) kalėjimą, iš kur jam tepasisekė\npabėgti — vėl pas kryžiuočius — tik 1418 m.\nDar tebevykstant Maskvos žygiams, Vytautas 1407 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32259
+
+- id: c-168351
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 436"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 436."
+  citata_originali: |
+    Abie­
+    jų šalių pasiuntiniams ginči-
+    Išsk la id o  le n k ų  jė g a s
+    jantis dėl taikos sąlygų, Bo­
+    leslovas įsiveržė į Chelmo
+    apygardą, atėmė iš karaliaus Ratną, labai patogioje vie­
+    toje esančią bei svarbią tvirtovę, ir nusiaubė jo apylin­
+    kes. Bajorai, vadovaujami karaliaus vadų Cioleko ir
+    Šafraneco, griebėsi ginklo: pirmas baisiai sumušė įsi­
+    brovėlius netoli Chelmo, o antras — prie Kremeneco.
+    Tuo tarpu karalius po senovei iš visų pusių kamavo
+    antpuoliais Lucko pilį, tačiau apsuptieji neprarado nei
+    drąsos, nei vilties, anaiptol, jų narsa rodėsi panaši į
+    laukinių žvėrių įsiūtį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184990

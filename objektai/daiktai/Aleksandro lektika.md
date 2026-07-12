@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - transportas
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aleksandro lektika
 
@@ -39,9 +51,9 @@ Nenurodyta
 <a id="claim-t-54484"></a>
 - t-001
   global_id: t-54484
-  teiginys: 'Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui.'
+  teiginys: "Galutinai paliegęs Aleksandras lektikoje buvo nugabentas į Vilnių, jį lydint Elenai, Vilniaus vyskupui Vaitiekui Taborui, Jonui Zabžezinskiui ir Jonui Laskiui."
   pagrindžia:
-    - c-001
+    - c-55371
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
 - susijęs iš [[objektai/asmenys/Jonas Laskis.md#claim-t-87725|Jonas Laskis]]: Karalystės kancleris Jonas Laskis lydėjo į Vilnių lektikoje gabenamą paliegusį karalių Aleksandrą.
@@ -66,7 +78,33 @@ Nenurodyta
     Laskis.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55371
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau neilga buvo karaliaus vieš­
+    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
+    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
+    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
+    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
+    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
+    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
+    nių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus
+    Taboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas
+    Laskis.
+  citata_rodoma: "Kilo didelis pavojus karaliaus \nsaugumui, tad Aleksandras, ponų patarimu, kariuomenei \nvadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­\nkiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­\nnių. Jį lydėjo karalienė Elena, Vilniaus vyskupas Vaitiekus \nTaboras, Jonas Zabžezinskis ir Karalystės kancleris Jonas \nLaskis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54484

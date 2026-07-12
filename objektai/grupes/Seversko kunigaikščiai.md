@@ -5,21 +5,40 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Seversko kunigaikščiai
 
 ## Santrauka
 
-Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.
+Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos. Susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.
 
 ## Teiginiai
 
 <a id="claim-t-185437"></a>
 - t-001
   global_id: t-185437
-  teiginys: 'Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos.'
+  teiginys: "Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstybę ir visas savo valdas prijungė prie Maskvos."
   pagrindžia:
-    - c-001
+    - c-168798
+
+<a id="claim-t-193339"></a>
+- t-002
+  global_id: t-193339
+  teiginys: "Susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po."
+  pagrindžia:
+    - c-176067
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.
 ## Reikšmingi paminėjimai
 
@@ -43,10 +62,99 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
     tuoti per pasiuntinį V a itie k ų  K iočką dėl šios skriaudos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+- c-002
+  santrauka: 'Susirinko gausybė didikų, ypač daug — iš Seversko že mės, nes visus juos baugino Seversko ku n igaikšdėl pavojingo artumo kaimyčiai atsiskiria nuo ninės Maskvos galybė ir verL ie tu v o s tė labiau rūpintis valstybe, kuri iro, patirdama vieną nuo stolį po.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+    Susirinko gausybė didikų, ypač daug — iš Seversko že­
+    mės, nes visus juos baugino
+    Seversko
+    ku n igaikš-
+    dėl pavojingo artumo kaimy-
+    čiai
+    atsiskiria
+    nuo
+    ninės Maskvos galybė ir ver-
+    L ie tu v o s
+    tė labiau rūpintis valstybe,
+    kuri iro, patirdama vieną nuo­
+    stolį po kito. Visi ketino senate sutartinai paraginti ir
+    šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
+    tos žemės gynyba.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-002
+
+## Citatos
+
+- id: c-168798
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
+  citata_originali: |
+    Mažai
+    tesutramdė užsispyrėlius ir Josifo, Kijevo metropolito,
+    pavyzdys bei rūpestis, ir Nifono, Konstantinopolio p a t­
+    riarcho, tais metais išleistas laiškas, kuris rimčių rim­
+    čiausiai ragino visus rusus tvirtai laikytis tos tikėjimo
+    santarvės, dėl kurios sutarė Rytų imperatorius Jonas
+    Paleologas, K on stantinopolio patriarchas Juozapas bei
+    kiti to meto Graikijos patriarchai ir valdovai, dalyva­
+    vę Florencijos suvažiavime. Dėl šių priežasčių Severs­
+    ko kunigaikščiai, atsiskyrę nuo karaliaus bei Lietuvos,
+    išdavė valstybę ir v isas savo valdas prijungė prie Mas­
+    kvos. Ž inia apie atsiskyrimą smarkiai išgąsdino karalių,
+    tačiau jis nieko kito nesugebėjo padaryti, tik užprotes­
+    tuoti per pasiuntinį V a itie k ų  K iočką dėl šios skriaudos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185437
+
+- id: c-176067
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 536"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 536."
+  citata_originali: |
+    Apie šiuos susitarimus karalius nieko nežinojo, mat
+    tuo metu buvo išvykęs į Lietuvą, kur sušaukė seimą.
+    Susirinko gausybė didikų, ypač daug — iš Seversko že­
+    mės, nes visus juos baugino
+    Seversko
+    ku n igaikš-
+    dėl pavojingo artumo kaimy-
+    čiai
+    atsiskiria
+    nuo
+    ninės Maskvos galybė ir ver-
+    L ie tu v o s
+    tė labiau rūpintis valstybe,
+    kuri iro, patirdama vieną nuo­
+    stolį po kito. Visi ketino senate sutartinai paraginti ir
+    šiaip, ir taip išsisukinėjantį karalių rimtai susirūpinti
+    tos žemės gynyba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193339
 
 ## Ryšiai
 - Seversko kunigaikščiai gyveno [[objektai/vietos/Seversko Naugardas]]

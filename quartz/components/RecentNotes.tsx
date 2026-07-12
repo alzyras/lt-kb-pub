@@ -6,7 +6,7 @@ import style from "./styles/recentNotes.scss"
 import { GlobalConfiguration } from "../cfg"
 import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
-import { visiblePeriodDisplay } from "../util/periodRange"
+import { periodSlugExists, visiblePeriodDisplay } from "../util/periodRange"
 
 interface Options {
   title?: string
@@ -57,7 +57,7 @@ export default ((userOpts?: Partial<Options>) => {
                   {periodDisplay && (
                     <p class="meta" title={periodDisplay.label}>
                       {periodDisplay.chips.map((chip) =>
-                        chip.slug ? (
+                        chip.slug && periodSlugExists(chip.slug, allFiles) ? (
                           <a
                             class={`period-chip period-chip-${chip.kind}`}
                             href={resolveRelative(fileData.slug!, chip.slug as FullSlug)}

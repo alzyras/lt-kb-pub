@@ -14,6 +14,18 @@ atnaujinta: ''
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # saar
 
@@ -22,25 +34,24 @@ amziai:
 <a id="claim-t-70315"></a>
 - t-001
   global_id: t-70315
-  teiginys: '1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.'
+  teiginys: "1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas."
   pagrindžia:
-    - c-002
-    - c-003
+    - c-14708
+    - c-14709
 
 <a id="claim-t-70316"></a>
 - t-002
   global_id: t-70316
-  teiginys: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
+  teiginys: "Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje."
   pagrindžia:
-    - c-001
+    - c-14707
 
 <a id="claim-t-70318"></a>
 - t-003
   global_id: t-70318
-  teiginys: 'Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų.'
+  teiginys: "Vytautas apie 30 metų rėmė saarus ir sulaukė totorių tarpe sau visiškai paklusnių valdovų."
   pagrindžia:
-    - c-002
-
+    - c-14708
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -52,7 +63,8 @@ amziai:
     suskilusi, atskiri „saarai“ vedė nuolatinius karus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -68,7 +80,8 @@ amziai:
     gaspadoriui pasipriešinti“.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -84,7 +97,66 @@ amziai:
     marių pakraščio ir Krymo totorius.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-14707
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi,
+    puolama Algirdo ir Maskvos kunigaikščio Dimitro. Vytauto
+    laikais totorių valstybė kaip tik pergyveno krizį. Orda buvo
+    suskilusi, atskiri „saarai“ vedė nuolatinius karus.
+  citata_rodoma: "Vytauto\nlaikais totorių valstybė kaip tik pergyveno krizį. Orda buvo\nsuskilusi, atskiri „saarai“ vedė nuolatinius karus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70316
+
+- id: c-14708
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nuolat remdamas juos per 30 me­
+    tų jis sulaukė totorių tarpe sau visiškai paklusnių „saarų“. Dėl
+    vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo
+    1411 met., kada įsiviešpatavo Dželad-Eddinas, nė vienas jų,
+    kaip sako „Vytauto panegirika”^4 ), „niekad nedrįso galingajam
+    gaspadoriui pasipriešinti“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70318
+    - t-70315
+
+- id: c-14709
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Buvo laikai, kad jo būklė būdavo labai kritiška. Iš karto atsi­
+    rasdavo net keli „saarai“ (pav. 1427 mt. pradžioje jų buvo dar
+    5), bet 1427 met. gale Vytauto palaikomasis Machmetas įsiga­
+    lėjo galutinai. Jis suima savo valdžion visus Pavolgio, Juod­
+    marių pakraščio ir Krymo totorius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70315

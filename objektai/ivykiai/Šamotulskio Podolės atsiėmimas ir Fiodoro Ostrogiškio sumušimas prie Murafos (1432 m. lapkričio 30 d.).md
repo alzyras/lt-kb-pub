@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šamotulskio Podolės atsiėmimas ir Fiodoro Ostrogiškio sumušimas prie Murafos (1432 m. lapkričio 30 d.)
 
@@ -35,24 +47,23 @@ Nenurodyta
 <a id="claim-t-185501"></a>
 - t-001
   global_id: t-185501
-  teiginys: 'Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo.'
+  teiginys: "Fiodoras vengė atviros kovos su Šamotulskiu, o Šamotulskis žygiuodamas pirmyn be vargo atsiėmė kelias pilis ir priartėjo prie Braclavo."
   pagrindžia:
-    - c-001
+    - c-168862
 
 <a id="claim-t-185502"></a>
 - t-002
   global_id: t-185502
-  teiginys: 'Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę.'
+  teiginys: "Prie Murafos lenkų kariuomenei teko įveikti per tankias girias tarp žemų nendrėtų krantų tekančią Murafos upę."
   pagrindžia:
-    - c-002
+    - c-168863
 
 <a id="claim-t-185503"></a>
 - t-003
   global_id: t-185503
-  teiginys: '1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo.'
+  teiginys: "1432 m. lapkričio 30 d. Šamotulskio ir Fiodoro Ostrogiškio pajėgos kovojo maždaug už keturiasdešimties mylių nuo Lvovo."
   pagrindžia:
-    - c-003
-
+    - c-168864
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,6 +92,7 @@ Nenurodyta
     Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,6 +119,7 @@ Nenurodyta
     guolės ir kiti būriai pamažu slinko jiems iš paskos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -126,7 +139,91 @@ Nenurodyta
     mas iš priešo atimtas vėliavas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-168862
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 443"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 443."
+  citata_originali: |
+    Fiodoras, su leng­
+    vąja rusų, valachų bei skitų raitija labiau linkęs pa­
+    salas rengti, nei stoti į atvirą kovą, vengė susidurti su
+    Šamotulskiu akis į akį, tačiau, puldinėdamas iš tolo,
+    vargino ir alino lenkus, Šamotulskis, patraukęs su pa­
+    grindinėmis jėgomis į priekį, be vargo atsiėmė vieną
+    kitą pražygiuojamą pilį ir priartėjo prie Braclavo. Fio­
+    doras, nenorėdamas, kad len-
+    S a m o tu lsk is
+    a tsiim a
+    kai, atsiėmę visą ten sukrau-
+    P o d o lę
+    tą grobį, atsigautų apsirūpinę
+    maistu ir kitais būtiniausiais
+    reikmenimis, pasiuntė būrį eikliausių raitelių ir įsakė
+    sudeginti pilį bei miestą. Artėjo lapkričio pabaiga, tin­
+    kamiausias metas grįžti į žiemos stovyklas kariams,
+    kurie čia neturėjo ko veikti, nes priešo kariuomenė iš
+    paskutiniųjų vengė bet kokio susirėmimo. Štai todėl
+    Šamotulskis ir patraukė su visa kariuomene į Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185501
+
+- id: c-168863
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Len­
+    kams beliko įveikti Murafos upę, tekančią tankiomis
+    4 45
+
+    ## Puslapis 444
+
+    giriomis tarp žemų nendrėtų krantų. Šaltis jau spėjo
+    padengti ją ledu, tačiau keltis dėl to kariams nieku
+    būdu nebuvo lengviau, nes ledas dar negalėjo atlai­
+    kyti jų svorio. Todėl kariuomenė turėjo sustoti ir pa­
+    laukti, kol suneš kiek reikia šakų bei žabų ir greito­
+    siomis nuties per pelkes žemgrindą. Lenkams įsitrau­
+    kus į šį darbą, Fiodoras persikėlė su saviškiais kitoje
+    vietoje per upę ir, išdėstęs priekyje pasalas, užtvėrė
+    guolės ir kiti būriai pamažu slinko jiems iš paskos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185502
+
+- id: c-168864
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 445"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 445."
+  citata_originali: |
+    Lapkričio 30 d. jie kovojo
+    maždaug už keturiasdešimties mylių nuo Lvovo. Tuo
+    tarpu žinia apie jų pergalę, pasak ne visai patikimų
+    liudytojų, dar tą pačią dieną pasklido po miestą ir
+    pasiekė karalių, kuris su žmonėmis bažnyčioje meldėsi
+    aukščiausiajam. Jau kitą dieną atvyko pas karalių ir
+    pergalę laimėjusios kariuomenės žygūnas, atsivežda-
+    mas iš priešo atimtas vėliavas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185503

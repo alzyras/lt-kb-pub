@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liepona
 
@@ -20,9 +32,9 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 <a id="claim-t-32306"></a>
 - t-001
   global_id: t-32306
-  teiginys: 'Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.'
+  teiginys: "Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę."
   pagrindžia:
-    - c-001
+    - c-33925
 - susijęs iš Merūniškiai: Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
 - susijęs iš Preivosto šilai: Per dykrą einanti siena tiesėsi į Preivosto šilus, o iš ten - tiesia linija į Merūniškius ir Vystyčio ežerą.
 - susijęs iš Vystyčio ežeras: Siena ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.
@@ -43,7 +55,29 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
     Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33925
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Iš čia ji tęsėsi vėl per dykrą tiesiai
+    į Preivosto (Prawdzisken) šilus, o iš ten tiesia linija į Merūniškius
+    ir Vystyčio ežerą, kuris liko ordino pusėje.
+    Sūduvos dykroje toliau siena buvo nužymėta upių krantais :
+    visu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo
+    Šešupėn. Šešupės krantu ji ėjo per girių masyvus.
+  citata_rodoma: "Sūduvos dykroje toliau siena buvo nužymėta upių krantais :\nvisu Lieponos paupiu iki Širvintos upės ir šios krantu iki įtekėjimo\nŠešupėn. Šešupės krantu ji ėjo per girių masyvus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32306

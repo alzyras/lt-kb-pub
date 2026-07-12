@@ -9,6 +9,18 @@ tags:
   - daiktas
   - ginklas
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pėstininkų muškieta titnagine spyna
 
@@ -41,9 +53,9 @@ Nenurodyta
 <a id="claim-t-39216"></a>
 - t-001
   global_id: t-39216
-  teiginys: 'Pėstininkų muškieta titnagine spyna, arba pėstininkų fuzėja, buvo 18 mm kalibro XVIII a. pabaigos Prūsijos ginklas.'
+  teiginys: "Pėstininkų muškieta titnagine spyna, arba pėstininkų fuzėja, buvo 18 mm kalibro XVIII a. pabaigos Prūsijos ginklas."
   pagrindžia:
-    - c-001
+    - c-41020
 - susijęs iš Prūsija: XVIII a. pabaigoje didesnė dalis LDK kariuomenei skirtų muškietų buvo nupirkta stiprią karinę pramonę turėjusioje Prūsijoje.
 ## Reikšmingi paminėjimai
 
@@ -57,6 +69,7 @@ Nenurodyta
     pagrindas, artimajame mūšyje juos naudodavo su pritvirtintais durtuvais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -66,5 +79,21 @@ Nenurodyta
 
 Nenurodyta
 
-## Ryšiai
-- Pėstininkų muškieta titnagine spyna priklausė [[objektai/vietos/Prūsija]]
+## Citatos
+
+- id: c-41020
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    ## Puslapis 151
+
+    Pėstininkų muškieta titnagine spyna (pėstininkų fuzėja). Kalibras — 18 mm, Prūsija, XVIII a.
+    pabaiga. Lygiavamzdžiai šautuvai titnaginėmis spynomis XVIII-XIX a. buvo pėstininkų ginkluotės
+    pagrindas, artimajame mūšyje juos naudodavo su pritvirtintais durtuvais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39216

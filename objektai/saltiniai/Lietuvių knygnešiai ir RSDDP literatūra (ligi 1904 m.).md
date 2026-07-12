@@ -15,6 +15,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)
 
@@ -27,10 +39,9 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
 <a id="claim-t-100183"></a>
 - t-001
   global_id: t-100183
-  teiginys: '„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m.'
+  teiginys: "„Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.)“ paskelbtas „Lietuvos istorijos metraštyje“ 1972 m. tome, išleistame 1973 m."
   pagrindžia:
-    - c-001
-
+    - c-31686
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,7 +58,30 @@ Be to, jis rašė : Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904 m.) (L
     mi « Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje ».
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-31686
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Be to, jis
+    rašė :** **_Lietuvių knygnešiai ir RSDDP literatūra (ligi 1904_** **m.) (Liet. istorijos
+    metraštis 1972 m. (1973), 41-55 p.).**
+
+
+    (^82) ĮVADAS
+    ILKI, « Lietuvos Istorijos Metraštis », be to, kas antri metai leidžia­
+    mi « Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje ».
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-100183

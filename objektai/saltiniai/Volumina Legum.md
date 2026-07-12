@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Volumina Legum
 
@@ -28,17 +40,16 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
 <a id="claim-t-67580"></a>
 - t-001
   global_id: t-67580
-  teiginys: 'XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“.'
+  teiginys: "XVIII a. visos konstitucijos buvo surinktos ir išspausdintos aštuonių tomų rinkinyje „Volumina Legum“."
   pagrindžia:
-    - c-002
+    - c-67430
 
 <a id="claim-t-67581"></a>
 - t-002
   global_id: t-67581
-  teiginys: '„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m.'
+  teiginys: "„Volumina legum“ šeši tomai buvo išleisti Peterburge 1859 m."
   pagrindžia:
-    - c-001
-
+    - c-37269
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,6 +59,7 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     Vol. 1. = Volumina legum, 6 t., Petersburg 1859.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -63,7 +75,42 @@ Vėliau, XVIII amžiuje, visos konstitucijos buvo surinktos ir išspausdintos sp
     spausdinta 8 tomai.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-37269
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vol. 1. = Volumina legum, 6 t., Petersburg 1859.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67581
+
+- id: c-67430
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Po seimo paprastai jie būdavo išspaus-
+    dinami ir pranešami visam kraštui. Vėliau, XVIII amžiuje, visos
+    konstitucijos buvo surinktos ir išspausdintos specialiuose rinki-
+    niuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-
+    spausdinta 8 tomai.
+  citata_rodoma: "Vėliau, XVIII amžiuje, visos\nkonstitucijos buvo surinktos ir išspausdintos specialiuose rinki-\nniuose, vadinamuose **_Volumina Legum._** Jų tada buvo iš viso iš-\nspausdinta 8 tomai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67580

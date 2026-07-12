@@ -15,6 +15,18 @@ tags:
   - grupe
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rytų Lietuvos sritis
 
@@ -27,24 +39,23 @@ amziai:
 <a id="claim-t-41137"></a>
 - t-001
   global_id: t-41137
-  teiginys: 'Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys.'
+  teiginys: "Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys."
   pagrindžia:
-    - c-002
+    - c-44844
 
 <a id="claim-t-41138"></a>
 - t-002
   global_id: t-41138
-  teiginys: 'Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
+  teiginys: "Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje."
   pagrindžia:
-    - c-001
+    - c-42917
 
 <a id="claim-t-183667"></a>
 - t-003
   global_id: t-183667
-  teiginys: 'Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu.'
+  teiginys: "Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas bunkeryje susisprogdino su žmona Joana Railaite-Neringa ir partizanu Juozu Jovaiša-Lokiu."
   pagrindžia:
-    - c-003
-
+    - c-167059
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,6 +74,7 @@ amziai:
     šaulių pulko 3-iojo bataliono kareiviai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -83,6 +95,7 @@ amziai:
     1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS 243
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,7 +118,78 @@ amziai:
     3 štabo bunkerius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-42917
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po intensyvių tardymų
+    bei kankinimų abu sutiko bendradarbiauti
+    ir spalio 28 d. atvedė čekistus prie tuome-
+    tinio Šiaurės Rytų partizanų srities štabo
+    bunkerio Anykščių valsčiaus, Butkiškio
+    vienkiemio Jovaišų sodyboje. Rūgštymas
+    buvo pristatytas prie pagrindinio įėjimo,
+    o Vijoklis — prie atsarginio. Išdavikus ly-
+    dėjo ir visą operaciją vykdė MGB 298-ojo
+    šaulių pulko 3-iojo bataliono kareiviai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41138
+
+- id: c-44844
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nematydami kitos išeities, bunkeryje
+    susisprogdino Rytų Lietuvos srities vadas
+    Antanas Slučka-Šarūnas kartu su savo
+    žmona, RL štabo nare, štabo sekretore Joana
+    Railaite-Neringa ir partizanu Juozu Jovaiša-
+    Lokiu. Štabo adjutantas Balys Žukauskas-
+    Princas pasidavė gyvas ir nurodė dar
+    3 štabo bunkerius.
+
+    1949 m. lapkričio 1-3 d. ŠIMONIŲ GIRIOS APGULTIS 243
+  citata_rodoma: "Nematydami kitos išeities, bunkeryje\nsusisprogdino Rytų Lietuvos srities vadas\nAntanas Slučka-Šarūnas kartu su savo\nžmona, RL štabo nare, štabo sekretore Joana\nRailaite-Neringa ir partizanu Juozu Jovaiša-\nLokiu. Štabo adjutantas Balys Žukauskas-\nPrincas pasidavė gyvas ir nurodė dar\n3 štabo bunkerius.\n\n1949 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-41137
+
+- id: c-167059
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Išdavikus ly-
+    dėjo ir visą operaciją vykdė MGB 298-ojo
+    šaulių pulko 3-iojo bataliono kareiviai.
+    Nematydami kitos išeities, bunkeryje
+    susisprogdino Rytų Lietuvos srities vadas
+    Antanas Slučka-Šarūnas kartu su savo
+    žmona, RL štabo nare, štabo sekretore Joana
+    Railaite-Neringa ir partizanu Juozu Jovaiša-
+    Lokiu. Štabo adjutantas Balys Žukauskas-
+    Princas pasidavė gyvas ir nurodė dar
+    3 štabo bunkerius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183667

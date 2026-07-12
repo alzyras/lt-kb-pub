@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - grupe
   - pilis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # LDK 4-ojo pėstininkų regimento
 
@@ -20,9 +32,9 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
 <a id="claim-t-40976"></a>
 - t-001
   global_id: t-40976
-  teiginys: 'Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.'
+  teiginys: "Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos."
   pagrindžia:
-    - c-001
+    - c-44781
 - susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
 - susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
 - susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
@@ -46,7 +58,35 @@ Lietuvos pajėgos Vilniaus puolime balandžio 23 d. dalyvavo LDK 4-ojo pėstinin
     ginkluotų civilių Vilniaus gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44781
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos pajėgos
+    Vilniaus puolime balandžio 23 d. daly-
+    vavo LDK 4-ojo pėstininkų regimento
+    (pulko) dvi sumažintos kuopos, 7-ojo
+    fuzilierių regimento dvi sumažintos
+    kuopos, LDK tribunolo vengrų vėliavos
+    dalinio 50 karių, artilerijos ir inžineri-
+    jos korpusų kariai. Iš viso apie 580 karių
+    ir 20 vienetų artilerijos pabūklų (visi jie
+    buvo pilies arsenale stacionariose po-
+    zicijose). Jiems talkino apie 500 įvairiai
+    ginkluotų civilių Vilniaus gyventojų.
+  citata_rodoma: "Lietuvos pajėgos\nVilniaus puolime balandžio 23 d. daly-\nvavo LDK 4-ojo pėstininkų regimento\n(pulko) dvi sumažintos kuopos, 7-ojo\nfuzilierių regimento dvi sumažintos\nkuopos, LDK tribunolo vengrų vėliavos\ndalinio 50 karių, artilerijos ir inžineri-\njos korpusų kariai. Iš viso apie 580 karių\nir 20 vienetų artilerijos pabūklų (visi jie\nbuvo pilies arsenale stacionariose po-\nzicijose)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40976

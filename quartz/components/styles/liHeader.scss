@@ -1,0 +1,444 @@
+@use "../../styles/variables.scss" as *;
+
+header:has(.li-header-shell) {
+  display: block;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  overflow: visible;
+}
+
+header:has(.li-header-shell) > .options-panel-root {
+  position: absolute;
+  top: 0;
+  right: max(1rem, calc((100% - var(--bm-site-max, 1600px)) / 2 + 1.55rem));
+  z-index: 80;
+  height: 2.45rem;
+}
+
+header:has(.li-header-shell) > .search {
+  display: contents;
+}
+
+header:has(.li-header-shell) > .search > .search-button,
+header:has(.li-header-shell) > .darkmode,
+header:has(.li-header-shell) > .readermode,
+header:has(.li-header-shell) > .advanced-evidence-toggle {
+  display: none;
+}
+
+/* Keep legacy utility components loaded for their scripts, but never render their
+   standalone Quartz buttons in the Lietuvos istorija header. This must not rely
+   only on :has(), because otherwise the buttons can leak next to the search UI. */
+header > .darkmode,
+header > .readermode,
+header > .advanced-evidence-toggle {
+  display: none !important;
+}
+
+header:has(.li-header-shell) > .options-panel-root .options-panel-toggle {
+  height: 2.45rem;
+  padding: 0 0.1rem;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  border-radius: 0;
+}
+
+header:has(.li-header-shell) > .options-panel-root .options-panel-toggle .options-panel-icon {
+  display: none;
+}
+
+header:has(.li-header-shell) > .options-panel-root .options-panel-toggle:hover,
+header:has(.li-header-shell) > .options-panel-root .options-panel-toggle:focus-visible,
+header:has(.li-header-shell) > .options-panel-root .options-panel-toggle[aria-expanded="true"] {
+  color: #fff;
+  outline: 0;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 0.35rem;
+}
+
+header:has(.li-header-shell) > .options-panel-root .options-panel-popover {
+  top: calc(100% + 0.65rem);
+  right: 0;
+  left: auto;
+  color: var(--dark);
+}
+
+.li-header-shell {
+  box-sizing: border-box;
+  width: min(100%, var(--bm-site-max, 1600px));
+  margin: 0 auto;
+  background: #000;
+  color: #fff;
+  font-family: var(--bm-font);
+}
+
+.li-header-shell *,
+.li-header-shell *::before,
+.li-header-shell *::after {
+  box-sizing: border-box;
+}
+
+.li-header-hours {
+  display: flex;
+  min-height: 2.45rem;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  padding: 0 1.55rem;
+  background: #333;
+  color: #fff;
+}
+
+.li-header-hours p {
+  margin: 0;
+  color: #fff;
+  font-size: 0.82rem;
+  line-height: 1.25;
+}
+
+.li-header-status {
+  font-family: var(--codeFont);
+  font-size: 0.68rem !important;
+  font-weight: 780;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.li-header-tools {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.9rem;
+  padding-right: 6rem;
+}
+
+.li-header-tools button {
+  border: 0;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  font-family: var(--codeFont);
+  font-size: 0.68rem;
+  font-weight: 850;
+  letter-spacing: 0.08em;
+  line-height: 1;
+  text-transform: uppercase;
+}
+
+.li-header-main {
+  display: grid;
+  grid-template-columns: minmax(18rem, 0.36fr) minmax(0, 1fr);
+  min-height: 4.95rem;
+  align-items: stretch;
+  background: #000;
+}
+
+.li-header-brand,
+.li-header-nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.li-header-brand {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  padding: 0.74rem 1.55rem 0.8rem;
+  font-family: var(--bm-font);
+  line-height: 1;
+}
+
+.li-header-brand .lt-history-lockup {
+  --lt-history-accent: #cf4d31;
+}
+
+.li-header-brand .lt-history-lockup-copy {
+  gap: 0.18rem;
+}
+
+.li-header-brand .lt-history-lockup-name span {
+  font-size: clamp(0.96rem, 1.14vw, 1.12rem);
+}
+
+.li-header-brand .lt-history-lockup-name strong {
+  font-size: clamp(1.72rem, 2.5vw, 2.5rem);
+}
+
+.li-header-brand .lt-history-lockup small {
+  color: rgba(255, 255, 255, 0.7);
+  font-size: 0.56rem;
+  letter-spacing: 0.13em;
+}
+
+.li-header-nav {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(1.15rem, 2.55vw, 3rem);
+  padding: 0 1.55rem;
+}
+
+.li-header-nav > a,
+.li-header-menu-trigger {
+  position: relative;
+  padding: 0.5rem 0;
+  font-size: clamp(0.98rem, 1.22vw, 1.12rem);
+  font-weight: 850;
+  line-height: 1;
+  white-space: nowrap;
+}
+
+.li-header-nav > a::after,
+.li-header-menu-trigger::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0.12rem;
+  left: 0;
+  height: 2px;
+  background: #fff;
+  opacity: 0;
+  transform: translateY(0.22rem);
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease;
+}
+
+.li-header-brand:hover,
+.li-header-nav a:hover,
+.li-header-nav a:focus-visible,
+.li-header-tools button:hover,
+.li-header-tools button:focus-visible {
+  color: #fff;
+  outline: 0;
+}
+
+.li-header-nav > a:hover::after,
+.li-header-nav > a:focus-visible::after,
+.li-header-menu:hover .li-header-menu-trigger::after,
+.li-header-menu:focus-within .li-header-menu-trigger::after,
+.li-header-menu.is-open .li-header-menu-trigger::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+.li-header-menu {
+  position: relative;
+  display: flex;
+  align-items: center;
+  align-self: stretch;
+}
+
+.li-header-menu-trigger {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.42rem;
+}
+
+.li-header-menu-trigger::before {
+  content: "";
+  display: block;
+  order: 2;
+  width: 0.42rem;
+  height: 0.42rem;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform: rotate(45deg) translateY(-0.1rem);
+}
+
+.li-header-dropdown {
+  position: absolute;
+  top: calc(100% - 0.45rem);
+  right: 50%;
+  z-index: 20;
+  display: grid;
+  width: min(22rem, calc(100vw - 2rem));
+  max-height: min(32rem, calc(100vh - 8rem));
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  border: 1px solid #fff;
+  background: #000;
+  box-shadow: 0 1rem 2.8rem rgba(0, 0, 0, 0.32);
+  opacity: 0;
+  overflow-y: auto;
+  pointer-events: none;
+  transform: translate(50%, 0.55rem);
+  transition:
+    opacity 160ms ease,
+    transform 160ms ease;
+}
+
+.li-header-dropdown--topics {
+  width: min(42rem, calc(100vw - 2rem));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.li-header-dropdown--periods {
+  width: min(25rem, calc(100vw - 2rem));
+}
+
+.li-header-dropdown a {
+  min-width: 0;
+  padding: 0.82rem 0.95rem;
+  border-right: 1px solid rgba(255, 255, 255, 0.22);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.22);
+  color: #fff;
+  font-size: 0.88rem;
+  font-weight: 850;
+  line-height: 1.12;
+  text-decoration: none;
+}
+
+.li-header-dropdown a::after {
+  display: none;
+}
+
+.li-header-dropdown a:hover,
+.li-header-dropdown a:focus-visible {
+  background: var(--bm-red, #d6421f);
+  color: #fff;
+  outline: 0;
+}
+
+.li-header-menu:hover .li-header-dropdown,
+.li-header-menu:focus-within .li-header-dropdown,
+.li-header-menu.is-open .li-header-dropdown {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translate(50%, 0);
+}
+
+@media all and ($tablet) {
+  .li-header-main {
+    grid-template-columns: 1fr;
+  }
+
+  .li-header-nav {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    overflow: visible;
+    gap: 0.75rem 1.15rem;
+    padding: 0 1rem 1rem;
+    scrollbar-width: none;
+  }
+
+  .li-header-nav::-webkit-scrollbar,
+  .li-header-tools::-webkit-scrollbar {
+    display: none;
+  }
+
+  .li-header-brand {
+    padding: 1rem 1rem 0.6rem;
+  }
+
+  .li-header-menu {
+    position: static;
+    align-self: center;
+  }
+
+  .li-header-dropdown {
+    top: auto;
+    right: 1rem;
+    left: 1rem;
+    width: auto;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    max-height: min(26rem, 70vh);
+    overflow-y: auto;
+    transform: translateY(0.55rem);
+  }
+
+  .li-header-menu:hover .li-header-dropdown,
+  .li-header-menu:focus-within .li-header-dropdown,
+  .li-header-menu.is-open .li-header-dropdown {
+    transform: translateY(0);
+  }
+}
+
+@media all and ($mobile) {
+  .li-header-main {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .li-header-hours {
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 0.55rem;
+    padding: 0.65rem 7.25rem 0.65rem 1rem;
+  }
+
+  header:has(.li-header-shell) > .options-panel-root {
+    right: 1rem;
+    height: 2.35rem;
+  }
+
+  header:has(.li-header-shell) > .options-panel-root .options-panel-toggle {
+    height: 2.35rem;
+  }
+
+  header:has(.li-header-shell) > .options-panel-root .options-panel-popover {
+    width: min(22rem, calc(100vw - 2rem));
+  }
+
+  .li-header-tools {
+    width: 100%;
+    justify-content: flex-start;
+    overflow-x: auto;
+    padding-right: 0;
+  }
+
+  .li-header-nav {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0 0.8rem;
+    padding: 0 1rem 0.75rem;
+    overflow: visible;
+  }
+
+  .li-header-brand strong {
+    font-size: 2.45rem;
+  }
+
+  .li-header-brand .lt-history-lockup small {
+    display: none;
+  }
+
+  .li-header-nav > a,
+  .li-header-menu-trigger {
+    display: flex;
+    align-items: center;
+    min-height: 2.8rem;
+    padding: 0.65rem 0;
+    border-top: 0;
+    white-space: nowrap;
+    line-height: 1.05;
+  }
+
+  .li-header-menu {
+    position: static;
+    align-self: stretch;
+    display: block;
+    min-width: 0;
+  }
+
+  .li-header-dropdown {
+    top: auto;
+    right: 1rem;
+    left: 1rem;
+    grid-template-columns: 1fr;
+    width: auto;
+    max-height: min(26rem, 70vh);
+    overflow-y: auto;
+    transform: translateY(0.55rem);
+  }
+
+  .li-header-menu:hover .li-header-dropdown,
+  .li-header-menu:focus-within .li-header-dropdown,
+  .li-header-menu.is-open .li-header-dropdown {
+    transform: translateY(0);
+  }
+}

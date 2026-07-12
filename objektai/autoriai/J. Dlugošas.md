@@ -7,6 +7,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos: []
 date_start: ''
 date_end: ''
@@ -16,124 +17,143 @@ variantai:
   - 'Joannis Dlugosii'
 sukurta: ''
 atnaujinta: ''
-amziai: []
-periodo_grupes: []
-description: 'J. Dlugošas – istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio aplinkybes.'
-socialDescription: 'J. Dlugošo raštai padeda atkurti Vorsklos, Žalgirio ir kitų Lietuvos istorijos epizodų pasakojimus.'
-seo_atnaujinta: '2026-07-02T23:12:35.335302+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 tags:
   - autorius
   - mūšis
+amziai: []
+periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # J. Dlugošas
 
 ## Santrauka
 
-J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šaltinis. Jo raštais remiamasi aiškinant Vorsklos mūšio vaizdinį, Vytauto liepos 5 d. kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes. Minimi ir kiti jo liudijimai apie Gedimino žūtį, Kęstučio veiksmus Vilniuje, Švitrigailos bei Livonijos ordino pajėgas ir Upytės krašto niokojimą.
+J. Dlugošas viešuose įrašuose jau minimas kaip istorikas. Šiame leidinyje jis papildomai naudojamas kaip istorinio pasakojimo šaltinis apie Vorsklos mūšį, Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes; prieduose nurodoma ir jo raštų publikacija.
 
 ## Teiginiai
+
 <a id="claim-t-172865"></a>
 - t-001
   global_id: t-172865
-  teiginys: 'J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama.'
+  teiginys: "J. Dlugošas aprašė Vorsklos mūšį, kuriame Edigėjaus kariuomenė atrodė akimis neaprėpiama."
   pagrindžia:
-    - c-001
+    - c-13011
 
 <a id="claim-t-172866"></a>
 - t-002
   global_id: t-172866
-  teiginys: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
+  teiginys: "J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje."
   pagrindžia:
-    - c-007
+    - c-157232
 
 <a id="claim-t-172867"></a>
 - t-003
   global_id: t-172867
-  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais.'
+  teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje rikiavo lietuvių kariuomenę pulkais ir daliniais."
   pagrindžia:
-    - c-003
+    - c-42415
 
 <a id="claim-t-172868"></a>
 - t-004
   global_id: t-172868
-  teiginys: 'Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą.'
+  teiginys: "Petro Dusburgiečio leidinio įvade J. Dlugošas pristatomas kaip autorius, savo Lenkijos istorijos „Analuose, arba kronikose“ panaudojęs Mikalojaus iš Jerošino vertimą."
   pagrindžia:
-    - c-006
+    - c-56037
 
 <a id="claim-t-172869"></a>
 - t-005
   global_id: t-172869
-  teiginys: 'J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių.'
+  teiginys: "J. Dlugošas tarp Švitrigailos ir Livonijos ordino pajėgų mini apie 100 Prūsijos magistro karių."
   pagrindžia:
-    - c-005
+    - c-42417
 
 <a id="claim-t-172870"></a>
 - t-006
   global_id: t-172870
-  teiginys: 'J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų.'
+  teiginys: "J. Dlugošas tvirtino, kad Vilniaus Žemutinės pilies dvejus vartus padegė kažkurie iš apgultųjų."
   pagrindžia:
-    - c-009
+    - c-157234
 
 <a id="claim-t-172873"></a>
 - t-007
   global_id: t-172873
-  teiginys: 'J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.'
+  teiginys: "J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti."
   pagrindžia:
-    - c-004
+    - c-42416
 
-<a id="claim-t-172874"></a>
+<a id="claim-t-172877"></a>
 - t-008
-  global_id: t-172874
-  teiginys: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
+  global_id: t-172877
+  teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
   pagrindžia:
-    - c-010
+    - c-157237
 
 <a id="claim-t-172875"></a>
 - t-009
   global_id: t-172875
-  teiginys: 'J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.'
+  teiginys: "J. Dlugošas nurodė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį."
   pagrindžia:
-    - c-008
+    - c-157233
 
 <a id="claim-t-172876"></a>
 - t-010
   global_id: t-172876
-  teiginys: 'Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes.'
+  teiginys: "Šiame leidinyje J. Dlugošo raštai naudojami aprašant Vytauto kariuomenės rikiuotę ir Žalgirio mūšio aplinkybes."
   pagrindžia:
-    - c-002
+    - c-13013
+
+<a id="claim-t-172877"></a>
+- t-011
+  global_id: t-172877
+  teiginys: "J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės."
+  pagrindžia:
+    - c-157237
 
 <a id="claim-t-172878"></a>
 - t-012
   global_id: t-172878
-  teiginys: 'J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais.'
+  teiginys: "J. Dlugošas aprašė, kaip Vytautas liepos 5 d. stovykloje lietuvių kariuomenę paskirstė raitelių pulkais ir daliniais."
   pagrindžia:
-    - c-003
+    - c-42415
 
 <a id="claim-t-184606"></a>
 - t-013
   global_id: t-184606
-  teiginys: 'Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.'
+  teiginys: "Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto."
   pagrindžia:
-    - c-011
+    - c-167967
 
 <a id="claim-t-188406"></a>
 - t-014
   global_id: t-188406
-  teiginys: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
+  teiginys: "Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo."
   pagrindžia:
-    - c-013
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171296
+
 <a id="claim-t-188414"></a>
 - t-015
   global_id: t-188414
-  teiginys: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
+  teiginys: "Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais."
   pagrindžia:
-    - c-012
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171304
+
+<a id="claim-t-190732"></a>
+- t-016
+  global_id: t-190732
+  teiginys: "„Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta."
+  pagrindžia:
+    - c-173614
 - susijęs iš [[objektai/asmenys/Dobeslavas Skoračevskis.md#claim-t-80710|Dobeslavas Skoračevskis]]: Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87984|J. Dlugošas Długosz]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. Dlugošas Długosz.md#claim-t-87985|J. Dlugošas Długosz]]: J. Dlugošas rašė, kad Kęstutis slapta atėjo į Vilnių ir užėmė Jogailą bei Vilniaus pilį.
@@ -154,6 +174,7 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
 - susijęs iš Upytė: Rugpjūčio pabaigoje trys Livonijos daliniai paeiliui įsibrovė į Žemaitiją ir niokojo Upytės kraštą.
 - susijęs iš Vilnius: Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -165,10 +186,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     pulkai atrodė smulkia saujele.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -181,10 +204,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-003
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -203,11 +228,13 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     plotį užėmė nustatyto ilgio tarpą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-012
+
 - c-004
   santrauka: 'J. Dlugošas mini, kad Upytės kraštą niokojęs Livonijos dalinys miške buvo apsuptas, apšaudytas strėlėmis ir priverstas pasiduoti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -227,10 +254,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     kaip pergalės simbolis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-005
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -249,10 +278,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     30 000).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -263,10 +294,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-007
   santrauka: 'J. Dlugošas pateikė Dobeslavo Skoračevskio pokalbį su didžiuoju magistru po pasiuntinio vizito Jogailos stovykloje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -291,10 +324,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     magistru.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-008
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -313,10 +348,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     užėmė]. X. 63.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-009
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -331,10 +368,12 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     nai Naruševičiaus Proces ory- lies dvejus vartus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-010
   santrauka: 'J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -350,11 +389,13 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     strėlės pervertas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
     - t-011
+
 - c-011
   santrauka: 'Pasak Dlugošo, lenkų stovykloje buvo didikų, kurie Lucko apsuptiesiems teikė žinių ir maisto.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -380,11 +421,34 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     ninkų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-012
+  santrauka: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
+    torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
+    nes Vladislovas Jogaila pasiuntiniu į tą susirinkimą specialiai
+    nusiuntė dominikoną, pramintą Teodoru Lenku (Theodoras
+    Polonus), kad jis išdėstytų skundus prieš kryžiuočius, savo žiau­
+    rumais atgrasančius lietuvius veiksmingai priimti šventąjį ti­
+    kėjimą. Apie tai žinome iš Dlugošo. Mūsų autorius buvo to
+    paties susirinkimo narys, tad medžiagos savo rašiniui galėjo
+    gauti iš artimų šaltinių.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-014
+
+- c-013
   santrauka: 'Narbutas rašo, kad iš senesniųjų istorikų vienas Dlugošas aiškiai pripažino lietuvių genties tautas tikėjus fetišais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -399,14 +463,310 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
     minė, jokie namai, net daug pavienių asmenų negyveno be
     savo asmeninių fetišų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-- c-013
-  santrauka: 'Narbutas nurodo, kad apie Jogailos pasiųstą Teodorą Lenką į Konstancos susirinkimą žinota iš Dlugošo.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+
+- c-014
+  santrauka: '„Slavų senienų“ autoriaus nuomone, jau J. Dlugošo laikais slavai lietuvius laikė labai maža ir silpna tauta.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Vis dėlto žmogus, mokantis šias kalbas, ne­
+    ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
+    mu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi
+    viena nuo kitos kaip dangus ir žemė
+    „Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­
+    kur neatkeliavo, o nuo neatmenamų laikų gyveno prie
+    Baltijos jūros kartu su slavų gentimis. Be to, jo nuomo­
+    ne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­
+    ža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių
+    padermė ir savo skaičiumi, ir savo jėga buvo maža, ne­
+    žymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­
+    kiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu
+    krauju negalėjo nei turtėti, nei augti“1.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-016
+
+## Citatos
+
+- id: c-13011
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1399 m. rugpjūčio 12 d., „dvi valan-
+    dos iki saulėlydžio“ prasidėjo „didžiausias
+    mūšis“. J. Dlugošo žodžiais, Edigėjaus ka-
+    riuomenė buvo akimis neaprėpiama, prieš
+    kurią Vytauto ir krikščionių kunigaikščių
+    pulkai atrodė smulkia saujele.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172865
+
+- id: c-13013
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    P. 57 „LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS“, Joannis Dlugosii Opera omnia,
+
+    cura Alexandri Przedziecki edita, t. x111: Historiae Polonicae libri xu, t. rv: Libri
+
+    XI, XII, Krakow, 1877, P. 17. Publikacijos internete: http://www.polona.pl/dlibra/
+    doccontent?id=17339&from=FBC; http://archive.org/details/dzieawszystkieoounkngoog.
+    P. 5% „VYTAUTAS RIKIUOJA PULKUS“ Joannis Dlugosii Opera omnia..., p. 19-20.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172876
+
+- id: c-42415
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Dobeslavas: „Norėčiau, kad patikėtum, magistre, jog Vytauto kariuomenė yra ne tik
+    didelė ir galinga, bet apsiginklavusi puikiausia ginkluote.“
+
+    VYTAUTAS RIKIUOJA PULKUS
+
+    Dlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė
+    lietuvių kariuomenę:
+
+    „Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename
+    pulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,
+    o juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti. Ir tokiu būdu suglaudus
+    ir subūrus pulkus buvo išvengta gretų retumo, o vienas pulkas už kito išsitęsęs per savo
+    plotį užėmė nustatyto ilgio tarpą.
+  citata_rodoma: "“\n\nVYTAUTAS RIKIUOJA PULKUS\n\nDlugošas aprašo tai, kaip Vytautas žygio metu (liepos 5 d.) stovykloje išrikiavęs tvarkė\nlietuvių kariuomenę:\n\n„Senu Tėvynės papročiu paskirstęs ją raitelių pulkais (pleištais) ir daliniais; kiekviename\npulke raitelius ant žemesnių arklių arba pernelyg menkai apsiginklavusius sustatė viduryje,\no juos supo kiti, jojantys ant stipresnių žirgų ir puikiai ginkluoti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172867
+    - t-172878
+
+- id: c-42416
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Rugpjūčio pabaigoje į Žemaitiją paeiliui
+    įsibrovė trys Livonijos daliniai, jie niokojo
+    Upytės kraštą. Begrįžtantis priešas buvo
+    sumuštas, pirmiausia Kuldigos 40 raitelių
+    ir apie 1000 pėstininkų dalinys. J. Dlugošas
+    mini, kad priešas, jau manęs esąs saugus,
+    viename miške buvo apsuptas ir užblokuo-
+    tas medžių užtvaromis, ir iš už jų priedan-
+    gos gausiai strėlėmis apšaudomas, buvo
+    priverstas pasiduoti. Paimtos 7 livonie-
+    čių vėliavos, kurios buvo nugabentos į
+    Vilniaus šv. Stanislovo bažnyčią - katedrą
+    kaip pergalės simbolis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172873
+
+- id: c-42417
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Švitrigailos ir Livonijos ordino pajėgos
+    Švitrigailą remiantys lietuviai, rytinių
+
+    LDK slaviškų žemių (Smolensko, Kijevo,
+    Vitebsko, Polocko) kariai - apie 6000, apie
+    500 totorių; Kryžiuočių ordino Livonijos
+    atšakos „Rygos“ magistro pajėgos — apie
+    500 riterių, apie 100 riterių — „svečių iš už-
+    jūrio“ (J. Dlugošas mini Prūsijos magistro
+    karius), Livonijos samdiniai - apie 4500.
+    Iš viso - apie 11000 žmonių (istoriogra-
+    fijoje šis skaičius kartais padidinamas iki
+    30 000).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172869
+
+- id: c-56037
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  citata_originali: |
+    Su Mikalojaus iš Jerošino eiliuotu vertimu buvo susipažinęs J. Dlugošas, kuris panaudojo
+    jį savo Lenkijos istorijos „Analuose, arba kronikose“, rašytose 1455—1480 m. 1464 m.
+    Dlugošo paprašytas mažai žinomas dvasininkas iš Geismaro skubiai išvertė Mikalojaus iš
+    Jerošino kroniką į lotynų kalbą; Dlugošas, pasinaudojęs rankraščiu, grąžino jį vertėjui.
+    Skubotai verstame tekste atsiradusios klaidos pakliuvo ir į Dlugošo veikalą80.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172868
+
+- id: c-157232
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Raitelio
+    pėdas saugo metaliniai antbačiai —
+    sabatonai. Aukštesnio rango kariai
+    turėdavo ir puošnius durklus. Rankoje
+    karys laiko to meto Lietuvai būdingą
+    pusantros rankos kalaviją, prie šono
+    įmantriai dekoruotos odinės kalavijo
+    makštys su odoje įspaustais ornamentais
+
+    Nuo pagoniškosios
+    iki Vytauto imperijos
+
+    LIETUVOS KARIUOMENĖ ŠNIPO AKIMIS
+
+    J. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-
+    vykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis
+    | buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju
+    magistru.
+  citata_rodoma: "Aukštesnio rango kariai\nturėdavo ir puošnius durklus. Rankoje\nkarys laiko to meto Lietuvai būdingą\npusantros rankos kalaviją, prie šono\nįmantriai dekoruotos odinės kalavijo\nmakštys su odoje įspaustais ornamentais\n\nNuo pagoniškosios\niki Vytauto imperijos\n\nLIETUVOS KARIUOMENĖ ŠNIPO AKIMIS\n\nJ. Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, at-\nvykusio pas Jogailą į stovyklą derėtis Ordino vardu dėl taikos (tikroji vizito priežastis\n| buvo informacijos rinkimas apie sąjungininkų pajėgas) pokalbį grįžus su didžiuoju\nmagistru."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172866
+
+- id: c-157233
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau, regis, toks stai­
+    gus Vilniaus užėmimas tik dėl Kęs­
+    tučio miklumo ir žygio sumanų už-
+    slaptinimo pavyko, ir kad mūsų
+    Lietuvos istorikas stengėsi pagražin­
+    ti savaime aiškų dalyką. Dlugošas
+    nieko apie tai neužsimena, tik apie
+    patį Kęstutį, nurodydamas: ad Vilna
+    agmine silenti veniens et JagyelJonem
+    ducem et castrum Vilnense comprehen­
+    dit [Į Vilnių su būriu slaptu atėjęs ir
+    kunigaikštį Jogailą, ir Vilniaus pilį
+    užėmė]. X. 63.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172875
+
+- id: c-157234
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    29
+    Įvairios buvo amžininkų nuomonės ta daugybė ten buvusių žmonių/'
+    apie Vilniaus pilių sudeginimą, ta- Mūsų istorikai, būtent Dlugošas,
+    tai iki šiol dar nėra išaiškinta. Jogai- p. 128 ir K o j e 1 a v i č i u s, p. 20, tą
+    Ia ir lenkai nuolatos tvirtindavo, kad patį tvirtina. Pastarieji dar priduria,
+    papirkti išdavikai sukėlę gaisrą. Do- kad kažkurie iš apgultųjų, ar Vytau-
+    niesienie polskie, anksčiau minėti, Foi to pažadų suvilioti, ar iš neapykan-
+    E, p. 70, regis, taip pat, kaip ir mini- tos Skirgailai, padegę Žemutinės pi­
+    nai Naruševičiaus Proces ory- lies dvejus vartus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172870
+
+- id: c-157237
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nors Strijkovskis yra pasakęs, kad Gedimino pa­
+    laikai buvo atvežti į Vilnių ir iškilmingai palaidoti, betgi,
+    žinodami apie Veliuonoje iki šiol esančią kapavietę Gedi­
+    mino kalne, manytume greičiau jį esant čia palaidotą. Rau­
+    donė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot
+    Kai dėl rūšies ginklo, nuo kurio žuvo
+    Gediminas: Dlugošas Lib. IX,
+    p. 923, nurodo, kad buvo ugninės
+    strėlės pervertas.
+  citata_rodoma: "Rau­\ndonė, arba Bajerburgas, Lietuvos galutinai užvaldytas, anot\nKai dėl rūšies ginklo, nuo kurio žuvo \nGediminas: Dlugošas Lib. IX, \np. 923, nurodo, kad buvo ugninės \nstrėlės pervertas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-172874
+    - t-172877
+
+- id: c-167967
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 435"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 435."
+  citata_originali: |
+    Žmonės visuomet linkę ką įtari­
+    nėti, todėl ir kariai netrukus ėmė burnoti prieš karalių,
+    kad, girdi, sutikdamas su paliaubomis, jis sąmoningai
+    išleidęs iš rankų pergalę, kad jam kur kas labiau rūpi
+    brolis Boleslovas nei karalystės reikalai, tik dėl akių,
+    girdi, supama pilis, o iš tikrųjų sekinamos ir alinamos
+    kariuomenės jėgos. Šitaip priekaištavo karaliui eiliniai
+    kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau,
+    antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje
+    didikų, kurie apsuptiesiems teikė žinių ir maisto. Kol
+    dar Luckas laikėsi, Boleslo-
+    Š v itrig a ila
+    d e d a si
+    vas neprarado vilties užbaigti
+    tro k štą s ta ik o s
+    karą taip, kaip norėjo; nuta­
+    ręs pataisyti savo pakrikusius
+    reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi­
+    ninkų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184606
+
+- id: c-171296
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
   citata_originali: |
     Tuometinės Lietuvos bažnyčios būklė ir smulkesnė jos is­
     torija Konstancos susirinkimo tėvams šiaip nebuvo nežinoma,
@@ -417,8 +777,58 @@ J. Dlugošas šioje žinių bazėje pristatomas kaip istorinio pasakojimo šalti
     kėjimą. Apie tai žinome iš Dlugošo. Mūsų autorius buvo to
     paties susirinkimo narys, tad medžiagos savo rašiniui galėjo
     gauti iš artimų šaltinių.
-  citata_rodoma: ""
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
+  pagrindzia:
+    - t-188406
+
+- id: c-171304
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    201
+
+    ## Puslapis 201
+
+    mitologas mokėdavo atskirti fetišus nuo kitų dievų, kadangi
+    gal ir nežinojo to termino. Iš mūsų senesniųjų istorikų vienas
+    Dlugošas aiškiai pripažįsta, kad lietuvių genties tautos tikėjo
+    fetišais. Lasickis, tiesa, šio termino nenurodo, tačiau dalyką
+    išaiškina smulkiau: pasak jo, jokia šventovė, jokia žymesnė gi­
+    minė, jokie namai, net daug pavienių asmenų negyveno be
+    savo asmeninių fetišų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188414
+
+- id: c-173614
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 16"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 16."
+  citata_originali: |
+    Vis dėlto žmogus, mokantis šias kalbas, ne­
+    ras nieko, kas galėtų jį įtikinti šios hipotezės teisingu­
+    mu, nes lietuvių, germanų, finų ir slavų kalbos skiriasi
+    viena nuo kitos kaip dangus ir žemė
+    „Slavų senienų“ autoriaus įsitikinimu, lietuviai iš nie­
+    kur neatkeliavo, o nuo neatmenamų laikų gyveno prie
+    Baltijos jūros kartu su slavų gentimis. Be to, jo nuomo­
+    ne, jau J. Dlugošo laikais slavai lietuvius laikė labai ma­
+    ža ir silpna tauta. Jis rašė: „Senaisiais laikais lietuvių
+    padermė ir savo skaičiumi, ir savo jėga buvo maža, ne­
+    žymi, engiama; kaip lapai ir žiedai krito ant svetimo, vo­
+    kiečių, jungo, ir, be jokios abejonės, ši ¡padermė svetimu
+    krauju negalėjo nei turtėti, nei augti“1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190732

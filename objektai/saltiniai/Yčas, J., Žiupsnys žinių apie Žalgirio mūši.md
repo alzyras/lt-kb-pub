@@ -19,6 +19,18 @@ tags:
 amziai:
   - 'XIX'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Yčas, J., Žiupsnys žinių apie Žalgirio mūši
 
@@ -31,10 +43,9 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
 <a id="claim-t-36135"></a>
 - t-001
   global_id: t-36135
-  teiginys: 'J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu.'
+  teiginys: "J. Yčo „Žiupsnys žinių apie Žalgirio mūšį“ siejamas su 1914 m. Vilniuje leista „Lietuvių tauta“ ir 1930 m. Kaune leistu „Vasario 16“ leidiniu."
   pagrindžia:
-    - c-001
-
+    - c-38444
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +56,27 @@ Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr.
     Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38444
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Berlin, 1906.
+    Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,
+    Vilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930).
+  citata_rodoma: "Yčas, J., Žiupsnys žinių apie Žalgirio mūši (žiūr. „Lietuviu tauta“,\nVilnius, 1914 ir „Vasario 16“, Šauliu Sąjungos leidinys, Kaunas, 1930)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36135

@@ -15,13 +15,25 @@ date_end: '1915'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karalius
   - saltinis
   - valdovas
-  - vyskupas
 amziai:
   - 'XVIII'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gegužės 3 d. konstitucija (1791 m.)
 
@@ -34,59 +46,65 @@ amziai:
 <a id="claim-t-78088"></a>
 - t-001
   global_id: t-78088
-  teiginys: 'Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.'
+  teiginys: "Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų."
   pagrindžia:
-    - c-007
+    - c-75398
 
 <a id="claim-t-78090"></a>
 - t-002
   global_id: t-78090
-  teiginys: 'Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją.'
+  teiginys: "Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Prancūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių deklaraciją."
   pagrindžia:
-    - c-002
+    - c-75392
 
 <a id="claim-t-78092"></a>
 - t-003
   global_id: t-78092
-  teiginys: '1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją.'
+  teiginys: "1793 m. rugpjūčio 19 d. Gardino seimas ir Stanislovas Augustas buvo priversti atšaukti Gegužės 3 d. konstituciją."
   pagrindžia:
-    - c-005
+    - c-75396
 
 <a id="claim-t-78093"></a>
 - t-004
   global_id: t-78093
-  teiginys: 'Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas.'
+  teiginys: "Gegužės 3 d. konstitucija buvo suvokiama kaip Lietuvos atgaivinimo aktas."
   pagrindžia:
-    - c-003
+    - c-75394
 
 <a id="claim-t-78094"></a>
 - t-005
   global_id: t-78094
-  teiginys: 'Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja.'
+  teiginys: "Gegužės 3 d. konstitucija baigiama tautos kaip valstybės vientisumo ir suverenumo idėja."
   pagrindžia:
-    - c-006
+    - c-75397
 
 <a id="claim-t-78095"></a>
 - t-006
   global_id: t-78095
-  teiginys: '1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą.'
+  teiginys: "1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimas priėmė konstituciją, panaikinusią valdovų elekciją ir paskelbusią sosto paveldimumą."
   pagrindžia:
-    - c-001
+    - c-23764
 
 <a id="claim-t-78096"></a>
 - t-007
   global_id: t-78096
-  teiginys: 'Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.'
+  teiginys: "Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją."
   pagrindžia:
-    - c-004
+    - c-75395
 
 <a id="claim-t-78097"></a>
 - t-008
   global_id: t-78097
-  teiginys: 'Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą.'
+  teiginys: "Gegužės 3 d. konstitucijos III ir IV skyriuose „Respublikos valstybės“ reiškė Lenkiją ir Lietuvą."
   pagrindžia:
-    - c-008
+    - c-75400
 
+<a id="claim-t-193593"></a>
+- t-009
+  global_id: t-193593
+  teiginys: "Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas."
+  pagrindžia:
+    - c-176268
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -107,6 +125,7 @@ amziai:
     reiškėjas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,6 +148,7 @@ amziai:
     mėnesiais aplenkusi Prancūzijos konstituciją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -153,6 +173,7 @@ amziai:
     jai, o dar 27 seimeliai jai tik pritarė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -180,6 +201,7 @@ amziai:
     ti prieš Seimo nutarimus ir žlugdyti jo darbą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -202,6 +224,7 @@ amziai:
     Kosciuška.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -226,6 +249,7 @@ amziai:
     santvarką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -242,6 +266,7 @@ amziai:
     Rusiją vyko su Gegužės trečiosios konstitucijos idėjų vėliava.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -260,7 +285,233 @@ amziai:
     gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
+- c-009
+  santrauka: 'Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo ministro užsienio reikalams postas.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo
+    ministro užsienio reikalams postas. Ta funkcija 1791 m. birželio 8 d.
+    patikėta ATR vicekancleriui nuo LDK Joachimui Liutaurui Chreptavi-
+    čiui (Joachim Litawor Chreptowicz). Jis sukomplektavo pirmąją Užsie-
+    nio reikalų ministeriją. Formaliai URM pradėjo veikti 1791-ųjų birželio
+    19-ąją.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
+## Citatos
+
+- id: c-23764
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    ANKSČIAUSIA KONSTITUCIJA EUROPOJE
+    IR JOS PANAIKINIMAS
+    R
+    usijos įtakos stiprėjimas lėmė 1772 m. pirmąjį Res-
+    publikos padalijimą, kuriame dalyvavo ir Austrija bei
+    Prūsija. Ši aplinkybė, taip pat Apšvietos idėjų plėtra vedė prie reformų,
+    kuriomis bandyta stiprinti valstybę atsisakant akivaizdžiai į politines rea-
+    lijas nesugebančios atsakyti „bajoriškosios demokratijos“ santvarkos. Šių
+    bandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo
+    priimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir
+    skelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios
+    reiškėjas.
+  citata_rodoma: "Šių \nbandymų viršūne tapo 1791 m. gegužės 3 d. Lenkijos ir Lietuvos Seimo \npriimta konstitucija, kurioje naikinamas valdovų elekcijos principas ir \nskelbiamas sosto paveldimumas, tačiau monarchas yra tiktai tautos valios \nreiškėjas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78095
+
+- id: c-75392
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gegužės trečiosios konstitucijos projekto apmatai parašyti pagal Pran-
+    cūzijos revoliucijos metu (1789) priimtą Žmogaus ir piliečio teisių de-
+    klaraciją. Taigi Lenkijos ir Lietuvos reformatoriai akivaizdžiai orientavosi
+    į Prancūzijos didžiąją revoliuciją. Ne veltui 1791 m. vasarą Lenkijos ir
+    Lietuvos valdovas Stanislovas Augustas Poniatovskis rašė Prancūzijos
+    steigiamajam susirinkimui, kad, be Prancūzijos, „yra dar viena tauta Eu-
+    ropoje“. Iškalbingi žodžiai absoliutizmų apsuptyje. Lenkijos ir Lietuvos
+    konstitucijos konstruojama santvarka turėjo lygiuotis į Anglijoje prieš
+    100 metų įvestą santvarką, tiesa, taip ir nesulaukusią rašytinės konstitu-
+    cijos. Tokia pirmoji pasaulyje buvo priimta JAV – 1783 m. konstitucija.
+    Taigi, LLV Konstitucija buvo antroji pasaulyje ir pirmoji Europoje, keliais
+    mėnesiais aplenkusi Prancūzijos konstituciją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78090
+
+- id: c-75394
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Dėl to Gegužės trečiosios konstitucija buvo suvokiama kaip Lietuvos
+    atgaivinimo aktas. „Šlovinga Lenkijos ir Lietuvos Konstitucija“ vėl sutei-
+    kė Lietuvai prarastą „būsimos didybės viltį“. Reformos ne tik pažangia
+    linkme kreipė socialinę ir politinę Lietuvos visuomenės raidą, bet ir teikė
+    naujų galimybių lietuviakalbei kultūrai. Neatsitiktinai tuo metu konsti-
+    tucija išverčiama ir į lietuvių kalbą, o tai yra per mažai įvertinta Lietuvos
+    kultūros istorijoje, nes iki tol lietuviškai teturėjome religinės ir grožinės
+    literatūros tekstų. Taigi Gegužės trečiosios konstitucijos vertimas – pir-
+    masis politinis ir teisinis dokumentas lietuvių kalba. Net 27 LDK bajorų
+    pavietų seimeliai iš 33 susirinkusių 1792 m. vasarį prisiekė Konstitucijai,
+    o kiti šeši jai pritarė. Šiuo požiūriu Konstitucija turėjo daugiau šalininkų
+    Lietuvoje nei Lenkijoje, kurioje iš 45 seimelių tik 10 prisiekė Konstituci-
+    jai, o dar 27 seimeliai jai tik pritarė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78093
+
+- id: c-75395
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    91
+    Gegužės trečiosios konstitucija ir
+    Abiejų Tautų tarpusavio įžadas
+    Nuo 1788 m. pradėjęs posėdžiauti didysis Ketverių metų
+    seimas priėmė Gegužės trečiosios konstituciją. Prieš tai Seimas ėmėsi la-
+    bai svarbių socialinių reformų – pirmą kartą bandyta miestiečių luomui
+    suteikti beveik lygias teises su bajorais ar bent pradėti šį procesą. Mies-
+    tiečių teises ir įformino Gegužės trečiosios konstitucija. Joje pirmąkart
+    užsiminta ir apie tai, kad valstybė teikia globą valstiečiams jų santykiuose
+    su dvarininkais. Taigi konstitucijoje vartojamas terminas „tauta“ jau ne-
+    reiškė tik „bajorų tautos“, o apėmė lygiai bajorus, miestiečius ir valstie-
+    čius. Konstitucija, aptardama valstybės politinę santvarką, rėmėsi Šarlio
+    Monteskjė (Charles de Montesquieu) valdžių padalijimo principu. Įstaty-
+    mus turi leisti Seimas. Panaikinama liberum veto – bajorų teisė protestuo-
+    ti prieš Seimo nutarimus ir žlugdyti jo darbą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78096
+
+- id: c-75396
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tuo metu Rusija privertė Stanislovą Augustą targovitėnų valdo-
+    mame Gardine 1793 m. birželio 17 d. sušaukti Seimą, kuris turėjo pritarti
+    naujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą.
+    Nors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus
+    rusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-
+    dalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-
+    gustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti
+    ikikonstitucinę „auksinių laisvių“ santvarką.
+    1794 m. kovą Lenkijoje prasidėjo sukilimas, kuriam vadovavo iš LDK
+    kilęs ir kovose dėl JAV nepriklausomybės pasižymėjęs generolas Tadas
+    Kosciuška.
+  citata_rodoma: "sušaukti Seimą, kuris turėjo pritarti \nnaujai LLV ir Rusijos taikos sutarčiai ir taip patvirtinti antrąjį padalijimą. \nNors Seimas bandė priešintis, keletą deputatų suėmus, Seimą apsupus \nrusų kariuomenei ir į salę įvedus rusų karininkus, rugpjūčio 19 dieną pa-\ndalijimo rezultatai buvo patvirtinti – Gardino seimas ir Stanislovas Au-\ngustas buvo priversti atšaukti Gegužės trečiosios konstituciją ir atkurti \nikikonstitucinę „auksinių laisvių“ santvarką. \n1794 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78092
+
+- id: c-75397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors Seimui pirmininkauti
+    turi karalius, jo įstatymų leidybos galios yra ribotos, o karaliaus vaidmuo
+    didėja vykdomojoje valdžioje. Atšaukiama karalių renkamumo tvarka,
+    dėl kurios Lenkija ir Lietuva nusirito į anarchijos liūną, valstybė skelbia-
+    ma paveldima monarchija. Tvarkyti valstybės reikalus valdovui turi pa-
+    dėti vyriausybė, vadinama Teisių sargyba, į kurią, be karaliaus, įėjo naujai
+    kuriamų bendrų Lenkijai ir Lietuvai centrinių valdžios institucijų – iždo,
+    karo, policijos komisijų – pirmininkai (ministrai). Konstitucija baigiama
+    tautos kaip valstybės vientisumo ir suverenumo idėja. Ne monarchas su
+    kariuomene, bet kiekvienas valstybės pilietis privalo ginti savo tautos lais-
+    vę. Taigi LLV gavo naujųjų laikų dvasią ir pilietinės visuomenės principus
+    atitinkantį pagrindinį įstatymą, formuojantį konstitucinės monarchijos
+    santvarką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78094
+
+- id: c-75398
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors Gegužės trečiosios konstitucija radikalumu toli gražu neprilygo
+    Prancūzijos revoliucijos dokumentams, būtent ją reikėtų laikyti riba tarp
+    senosios bajoriškosios santvarkos ir moderniųjų laikų, taigi riba tarp Ba-
+    roko ir Apšvietos epochų. Visi XIX a. Lenkijos ir Lietuvos sukilimai prieš
+    Rusiją vyko su Gegužės trečiosios konstitucijos idėjų vėliava.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78088
+
+- id: c-75400
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kartais abejojama, ar Gegužės trečioji yra ir Lietuvos valdymo įstaty-
+    mas. Keista, nes ja vykdoma ne tik ,,Lenkijos pertvarka“. Konstitucijoje
+    yra rašoma daugiskaita apie „Respublikos valstybes“, t. y. turima omenyje
+    ir Lietuva. Nepaisant visų unitarinių tendencijų, konstitucijos teksto III ir
+    IV skyriuose juodu ant balto parašyta ,,Respublikos valstybės“ – Lenkija
+    ir Lietuva. Minimi ne tik bendri valdovai, bet ir Lietuvos didysis kuni-
+    gaikštis Vytautas ir jo privilegijos Lietuvos bajorams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78097
+
+- id: c-176268
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gegužės trečiosios konstitucijos pagrindu buvo įsteigtas antspaudo
+    ministro užsienio reikalams postas. Ta funkcija 1791 m. birželio 8 d.
+    patikėta ATR vicekancleriui nuo LDK Joachimui Liutaurui Chreptavi-
+    čiui (Joachim Litawor Chreptowicz). Jis sukomplektavo pirmąją Užsie-
+    nio reikalų ministeriją. Formaliai URM pradėjo veikti 1791-ųjų birželio
+    19-ąją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193593

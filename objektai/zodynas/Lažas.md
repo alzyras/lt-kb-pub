@@ -5,6 +5,18 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # lažas
 
@@ -26,10 +38,9 @@ Vartojamos formos: `lažu`.
 <a id="claim-t-70014"></a>
 - t-001
   global_id: t-70014
-  teiginys: '`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu.'
+  teiginys: "`Lažas` siejamas su baudžiavos įvedimu ir laikomas lenkišku žodžiu."
   pagrindžia:
-    - c-001
-
+    - c-09700
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,28 @@ Vartojamos formos: `lažu`.
         žodžiai patys rodo: pavynastis^1496 , lažas, donis yra lenkiški žodžiai, ne lietuviški.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-09700
+  autorius: "Simonas Daukantas"
+  šaltinis: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių"
+  indeksas: "Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių."
+  citata_originali: |
+    Kas Lietuvoj lenkiškai nekalbėjo, tas neb žmogum bebuvo, nes vergu to, kurs lenkiškai
+        kalbėjo; kaipogi lenkai, įsiveržę į Lietuvą, piktino lietuvių diduomenę savo darbais ir rėdės savo daba,
+        kaip jei Lenkuose; ir taip, kaip jei Lenkų žemėj, nebleido Lietuvoj artojui pagal lietuvių būdą namų
+        savo beparduoti ir kokį norint tinkamą sau amatą įsiimti ir verstis, bet laikė it jautį ant sieto pririštą
+        vienoj vietoj it mėšlui minti, taip ir šį vieną dirvai arti ne dėl savęs, bet dėl svetimo, ką šiandien
+        žodžiai patys rodo: pavynastis^1496 , lažas, donis yra lenkiški žodžiai, ne lietuviški.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-70014

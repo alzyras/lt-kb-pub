@@ -13,11 +13,23 @@ tags:
   - autorius
   - miestas
   - pilis
-  - upė
+  - teisinė-praktika
 amziai:
   - 'XIII'
 periodo_grupes:
   - 'viduramžiai'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gierszewski S
 
@@ -30,10 +42,9 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
 <a id="claim-t-91949"></a>
 - t-001
   global_id: t-91949
-  teiginys: 'S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises.'
+  teiginys: "S. Gierszewski cituojamas teiginiui, kad greta Elbingo pilies augęs miestas 1246 m. gavo Liubeko teises."
   pagrindžia:
-    - c-001
-
+    - c-87590
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -47,7 +58,28 @@ Dusburgietis teigia, kad upės krante, greta pilies, augo miestas, 1246 m. gavę
     Truso vaidmenį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-87590
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 77"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 77."
+  citata_originali: |
+    Elbingo pilis
+    buvusi apie dab. Služevskos g-vę (plačiau žr. Massalski R., Zamek Elbląski..., p. 39—41,
+    78—79). Deš. upės krante, greta pilies, augo miestas, 1246 m. gavęs Liubeko teises
+    (Gierszewski S., Elbląg, p. 22, 25). Kryžiuočių Elbingas perėmė senojo prūsų centro
+    Truso vaidmenį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-91949

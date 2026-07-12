@@ -17,6 +17,18 @@ tags:
   - vyskupas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Roma
 
@@ -29,20 +41,21 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
 <a id="claim-t-180499"></a>
 - t-001
   global_id: t-180499
-  teiginys: 'Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą.'
+  teiginys: "Romos kurija manė, kad Vytautas ir Jogaila galės išspręsti husitų klausimą."
   pagrindžia:
-    - c-002
+    - c-164108
 
 <a id="claim-t-180501"></a>
 - t-002
   global_id: t-180501
-  teiginys: '1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai.'
+  teiginys: "1595 m. Hipatas Pociejus ir Kirilas Terleckis Romoje gavo popiežiaus Klemenso VIII pritarimą bažnytinei unijai."
   pagrindžia:
-    - c-001
+    - c-164107
 - susijęs iš [[objektai/asmenys/Enėjas.md#claim-t-190093|Enėjas]]: Narbutas pasakoja, kad Enėjas iš Trojos į Italiją atsinešė Karibų garbinimą, vėliau siejamą su Alba ir Roma.
 - susijęs iš [[objektai/grupes/Husitai.md#claim-t-172096|Husitai]]: Kišdamasis į Čekijos reikalus ir tuo erzindamas imperatorių, Vytautas oficialiai savo nusistatymą grindė pastangomis sutaikyti husitus su Roma.
 - susijęs iš Lisabona: XVI–XVII a. Lisabona kartu su Roma ir Madridu skleidė katalikybės bei barokinės architektūros ir dailės įtaką iki Meksikos ir Paragvajaus.
 - susijęs iš [[objektai/zodynas/Budintoja Varpas Paparona.md#claim-t-189284|Budintoja Varpas Paparona]]: Narbutas žodį Paparona laikė grynai lietuvišku sargyboje stovinčio kariškio pavadinimu, o ne kilusiu iš Parta Roma.
+- susijęs iš [[objektai/asmenys/Justinianas.md#claim-t-190900|Justinianas]]: Kai Roma antrąkart pateko Totilai, Justinianas surinko kariuomenę, kurioje greta longobardų ir persų buvo herulų.
 - susijęs iš [[objektai/autoriai/A. Baltinis.md#claim-t-30496|A. Baltinis]]: A. Baltinis parašė veikalą „Vysk. V. Borisevičiaus gyvenimas ir darbai“, išleistą Romoje 1975 m.
 - susijęs iš [[objektai/autoriai/A. Dambrauskas-Jakštas.md#claim-t-30503|A. Dambrauskas-Jakštas]]: A. Dambrausko-Jakšto „Užgesę Žiburiai“ antrasis leidimas 1975 m. išėjo Romoje.
 - susijęs iš [[objektai/autoriai/A. Kučas.md#claim-t-30513|A. Kučas]]: A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.
@@ -77,6 +90,7 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     pravoslavų vardu padarė bažnytinę uniją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -95,7 +109,51 @@ Roma: kai vyskupas Vaitiekus panorėjo ją sustiprinti, čekai sukilo, ir jis bu
     pajėgumo parodė imperatorius Zigmantas L.^3 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-164107
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Di-
+    džiausi jos šalininkai buvo Vladimiro vyskupas Hipatas Po-
+    ciejus ir Lucko vyskupas Kirilas Terleckis; jais pasekė
+    ir metropolitas Ragoza. Vėliau prisidėjo ir kiti vyskupai.
+    Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-
+    žiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos
+    pravoslavų vardu padarė bažnytinę uniją.
+  citata_rodoma: "Pociejus su Terleckiu, 1595 m. nuvykę į Romą ir gavę popie-\nžiaus Klemenso VIII visišką pritarimą, visų Lietuvos ir Lenkijos\npravoslavų vardu padarė bažnytinę uniją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180501
+
+- id: c-164108
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Neapsirikta ir šį kartą.
+    Ypatingai sekė jo užsimojimus Romos kurija, teisingai iš
+    anksto numatydama jį veiksiant Lucke prieš Martyno V planus
+    dėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik
+    abu lietuviai, t. y. Vytautas ir Jogaila kaip reikiant galės iš­
+    spręsti šį husitų klausimą, dėl kurio tiek daug nerangumo ir ne­
+    pajėgumo parodė imperatorius Zigmantas L.^3 ).
+  citata_rodoma: "Neapsirikta ir šį kartą.\nYpatingai sekė jo užsimojimus Romos kurija, teisingai iš\nanksto numatydama jį veiksiant Lucke prieš Martyno V planus\ndėl Čekų husitų reikalo. Roma buvo tvirtai įsitikinusi, kad tik\nabu lietuviai, t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-180499

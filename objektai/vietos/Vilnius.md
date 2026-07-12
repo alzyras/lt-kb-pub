@@ -10,6 +10,7 @@ saltiniai:
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -23,22 +24,30 @@ date_start: '1000'
 date_end: '1395'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'X'
   - 'XIV'
-description: 'Vilnius – Gedimino sostinė, valdžios ir pilies centras, minimas nuo 1322–1323 m. iki XX a. politinių įvykių.'
-socialDescription: 'Vilnius žinių bazėje atsiskleidžia kaip Lietuvos sostinės, Gedimino valdžios centro, vidaus kovų ir modernios istorijos įvykių vieta.'
-seo_atnaujinta: '2026-07-02T23:12:34.815531+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
-tags:
-  - vieta
+media_total_count: '15'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg'
+media_primary_directness: 'direct'
+media_primary_relation_type: 'map_of'
+media_primary_json: |-
+  {"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"„Vilna Lituaniae metropolis“ - istorinis Vilniaus miesto vaizdas.","originalTitle":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":6468,"height":4988,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398175+03:00","reviewedAt":"2026-07-11T02:36:34.669772+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visas istorinis Vilniaus miesto vaizdas su gatvėmis, pastatais, upe, pilies ir miesto teritorijomis bei užrašu „Vilna Litvaniae metropolis“.","metadataEvidence":"Aprašyme nurodytas objektas Vilnius, pavadinime „Vilna Lituaniae metropolis“, kūrėjai Braun ir Hogenberg.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilnių.","isPrimary":0}
+media_direct_json: |-
+  [{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Istorinis Vilniaus miesto vaizdas / planas „Vilna Litvaniae“.","originalTitle":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_vol-iii-59-vilna-litvaniae-vilnius-12126364 https://archive.org/download/dr_vol-iii-59-vilna-litvaniae-vilnius-12126364/12126364.jpg","dateDisplay":"2026-06-26 19:48:52","dateStart":null,"dateEnd":null,"width":1536,"height":1024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401248+03:00","reviewedAt":"2026-07-11T00:06:08.898824+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senovinis miesto panoraminis planas su gatvėmis, pastatais, upe, pilies ir miesto centro vaizdu; viršuje aiškus užrašas „Vilna Litvaniae“.","metadataEvidence":"Pavadinime nurodyta „Vilna Litvaniae (Vilnius)“, aprašyme siejama su Civitates Orbis Terrarum miesto vaizdų atlasu, objektas identifikuotas kaip Vilnius.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilniaus miesto planą / panoramą, todėl ryšys su target Vilnius yra aiškus.","isPrimary":1},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"J. Narbouth sudarytas topografinis Vilniaus planas.","originalTitle":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","dateStart":null,"dateEnd":null,"width":7712,"height":5747,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.399037+03:00","reviewedAt":"2026-07-11T02:36:34.676595+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas rankraštinis ar spausdintas planas su miesto gatvių tinklu, upėmis, reljefu ir antrašte „Plan Topographique de Vilna“.","metadataEvidence":"Pavadinime nurodyta „Plan topographique de Vilna“, aprašyme tema „Vilnius“, kūrėjas J. Narbouth.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja Vilniaus topografinį planą.","isPrimary":0},{"mediaId":"m-01c144ea0b1fdb350fa02b6a","title":"Royal Palace of Lithuania in Vilnius.jpg","caption":"Napoleono Ordos XIX a. Vilniaus Valdovų rūmų vaizdas.","originalTitle":"Royal Palace of Lithuania in Vilnius.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":799,"height":556,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARoyal_Palace_of_Lithuania_in_Vilnius.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Royal_Palace_of_Lithuania_in_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Royal_Palace_of_Lithuania_in_Vilnius.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T17:21:47.228582+03:00","reviewedAt":"2026-07-11T19:42:40.714987+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis architektūrinis ansamblis su rūmais, bažnytiniu pastatu ir miesto erdve.","metadataEvidence":"Pavadinimas nurodo „Royal Palace of Lithuania in Vilnius“, aprašas - „Royal Palace in 19th century, Lithuania“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis istorinis Vilniaus vietos atvaizdas.","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"„Vilna Lituaniae metropolis“ - istorinis Vilniaus miesto vaizdas.","originalTitle":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":6468,"height":4988,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398175+03:00","reviewedAt":"2026-07-11T02:36:34.669772+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visas istorinis Vilniaus miesto vaizdas su gatvėmis, pastatais, upe, pilies ir miesto teritorijomis bei užrašu „Vilna Litvaniae metropolis“.","metadataEvidence":"Aprašyme nurodytas objektas Vilnius, pavadinime „Vilna Lituaniae metropolis“, kūrėjai Braun ir Hogenberg.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis","originalTitle":"Vilniaus miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-03-02","dateStart":null,"dateEnd":null,"width":1074,"height":1079,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402758+03:00","reviewedAt":"2026-07-11T02:36:34.688290+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto administracinių ribų ir vidaus padalijimų planas su upėmis.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Vilniaus miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiesioginis Vilniaus miesto žemėlapis.","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis.","originalTitle":"Vilniaus seniunijos.png","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2018-12-31","dateStart":null,"dateEnd":null,"width":1418,"height":1418,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401511+03:00","reviewedAt":"2026-07-11T00:06:08.903359+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Vilniaus administracinių dalių žemėlapis su seniūnijų pavadinimais, pvz., Antakalnis, Verkių, Senamiesčio, Naujosios Vilnios, Panerių.","metadataEvidence":"Pavadinimas „Vilniaus seniunijos.png“, aprašymas „Vilniaus seniūnijų žemėlapis“ tiesiogiai identifikuoja Vilnių.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Vilniaus miesto teritorijos administracinis žemėlapis, todėl vaizdo ryšys su target yra aiškus.","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Brauno ir Hogenbergo Vilniaus žemėlapis, vaizduojantis miestą 1576 m.","originalTitle":"Vilnius - map by Braun Hogenberg (34065617).jpg","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"16","dateStart":null,"dateEnd":null,"width":11913,"height":8778,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398735+03:00","reviewedAt":"2026-07-11T02:36:34.673953+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus senasis Vilniaus miesto vaizdas su gatvių tinklu, pastatais, upe, pilies zona ir užrašu „Vilna Litvaniae Metropolis“.","metadataEvidence":"Pavadinime ir aprašyme nurodyta, kad tai Georgo Brauno Vilniaus žemėlapis, vaizduojantis Vilnių 1576 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai identifikuoja ir vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Brauno ir Hogenbergo Vilniaus žemėlapio vidutinio dydžio versija.","originalTitle":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"16","dateStart":null,"dateEnd":null,"width":5000,"height":3684,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401820+03:00","reviewedAt":"2026-07-11T02:36:34.680982+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus istorinis Vilniaus miesto vaizdas su gatvėmis, pastatais, upe, miesto siena ir užrašu „Vilna Litvaniae Metropolis“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vilnius - map by Braun Hogenberg“ ir „Map of Vilnius in 1576“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Vilniaus vaizdas ir planas 1576 m.","originalTitle":"Vilnius 1576.jpg","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Original publication: Cities of the World (Civitates orbis terrarum. Koeln, 1581. T.3) Digital file: Historic Cities Center of the Department of Geography, the Hebrew University of Jerusalem and the Jewish National and University Library.","dateDisplay":"Drawn 1576; published in 1581","dateStart":null,"dateEnd":null,"width":2667,"height":1973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.396900+03:00","reviewedAt":"2026-07-11T02:36:34.692265+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto panoraminis planas su užrašu „Vilna Litvaniae Metropolis“, gatvėmis, pastatais ir pilies/miesto struktūra.","metadataEvidence":"Pavadinimas „Vilnius 1576.jpg“, aprašas „Map of Vilnius in 1576“, data nurodo istorinį Vilniaus atvaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus istorinis Vilniaus miesto vaizdas ir žemėlapis.","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Vilniaus ir apylinkių topografinis žemėlapis su šiuolaikinėmis ribomis.","originalTitle":"Wilno - mapa topograficzna WIG (1928-35).png","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from pl.wikipedia to Commons by Piotrus using CommonsHelper .","dateDisplay":"17 October 2007 (original upload date)","dateStart":null,"dateEnd":null,"width":2303,"height":2288,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398440+03:00","reviewedAt":"2026-07-11T02:36:34.671825+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas topografinis žemėlapis, centre pažymėtas Wilno/Vilnius, aplinkui rodomos gyvenvietės, keliai, reljefas ir rožinės ribos.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Wilno/Vilnius“ topografinį WIG žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis tiesiogiai vaizduoja Vilnių ir jo apylinkes.","isPrimary":0}]
+media_contextual_json: |-
+  [{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Vilniaus geto žemėlapis Vilniaus senamiestyje.","originalTitle":"Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work This PNG graphic was created with Inkscape . Used map by the Vilna Gaon Jewish State Museum as the main source plus street names from Yitzhak Arad's map ( low quality copy ) and points of interest from Exploring the Vilnius Ghetto: A Digital Monument","dateDisplay":"2017-07-15","dateStart":null,"dateEnd":null,"width":1023,"height":1059,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė_sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.397826+03:00","reviewedAt":"2026-07-11T02:36:34.661800+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto kvartalų žemėlapis su gatvių pavadinimais, geto teritorijų ribomis, vartais, sinagogomis ir kitais pažymėtais objektais.","metadataEvidence":"Pavadinimas ir aprašymas identifikuoja „Map of Vilna Ghetto“, t. y. Vilniaus geto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendras Vilniaus vaizdas, o konkrečios Vilniaus istorinės teritorijos žemėlapis, todėl priimtina kaip kontekstinis ryšys.","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Vilniaus geto žemėlapis","originalTitle":"Map of Vilna Ghetto.svg","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work This W3C-unspecified vector image was created with Inkscape .","dateDisplay":"2017-07-15","dateStart":null,"dateEnd":null,"width":307,"height":318,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402017+03:00","reviewedAt":"2026-07-11T02:36:34.683524+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas gatvių planas su Vilniaus senamiesčio gatvių pavadinimais ir pažymėtomis zonomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Map of Vilna Ghetto“, t. y. Vilniaus geto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Vilniumi aiškus, tačiau tai konkretaus Vilniaus istorinio rajono, o ne viso miesto, žemėlapis.","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Vilniaus krašto perdavimo Lietuvai 1939 m. žemėlapis","originalTitle":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"https://francis-maks.livejournal.com/204632.html","dateDisplay":"2014","dateStart":null,"dateEnd":null,"width":1600,"height":1600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402521+03:00","reviewedAt":"2026-07-11T02:36:34.686272+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas regioninis žemėlapis su pažymėtu Vilno/Vilniaus miestu ir aplinkinėmis teritorijomis.","metadataEvidence":"Aprašas nurodo Vilniaus miesto ir dalies Vilniaus regiono perdavimą Lietuvai pagal 1939-10-10 sutartį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne miesto vaizdas siaurąja prasme, bet aiškus istorinis Vilniaus politinio-teritorinio konteksto žemėlapis.","isPrimary":0},{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio privilegija, išduota Vilniuje 1503 m. rugpjūčio 17 d.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.078204+03:00","reviewedAt":"2026-07-11T19:42:40.713816+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas pergamentinis valdovo privilegijos dokumentas su pakabinamu raudonu antspaudu.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad dokumentas išduotas Vilniuje 1503 m. rugpjūčio 17 d.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai nėra Vilniaus vaizdas, bet konkretus istorinis dokumentas, aiškiai identifikuotas kaip išduotas Vilniuje.","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Tekstinis leidinio lapas, susijęs su „Vilna Lituaniae metropolis“ publikacija.","originalTitle":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":6472,"height":5002,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.399608+03:00","reviewedAt":"2026-07-11T02:36:34.678819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas spaudinio puslapis su antrašte „VILENSKI“ ir ilgu tekstu, bet be miesto vaizdo ar žemėlapio.","metadataEvidence":"Pavadinimas ir aprašymas sieja lapą su „Vilna Lituaniae metropolis“ byla, kurios tema yra Vilnius.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nevaizduoja Vilniaus tiesiogiai, bet yra aiškiai susijęs dokumentinis/leidinio lapas apie Vilnių.","isPrimary":0}]
+media_all_json: |-
+  [{"mediaId":"m-654d51c18bcc72bb19969a80","title":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","caption":"Istorinis Vilniaus miesto vaizdas / planas „Vilna Litvaniae“.","originalTitle":"Vol III (59) Vilna Litvaniae (Vilnius). (IA dr vol-iii-59-vilna-litvaniae-vilnius-12126364).jpg","creator":"Braun, Georg, 1541-1622 Hogenberg, Franz, 1539-1590 Novellanus, Simon, d. 1590 Hoefnagel, Joris, 1542-1600","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Internet Archive identifier : dr_vol-iii-59-vilna-litvaniae-vilnius-12126364 https://archive.org/download/dr_vol-iii-59-vilna-litvaniae-vilnius-12126364/12126364.jpg","dateDisplay":"2026-06-26 19:48:52","dateStart":null,"dateEnd":null,"width":1536,"height":1024,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/c/cc/Vol_III_%2859%29_Vilna_Litvaniae_%28Vilnius%29._%28IA_dr_vol-iii-59-vilna-litvaniae-vilnius-12126364%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401248+03:00","reviewedAt":"2026-07-11T00:06:08.898824+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senovinis miesto panoraminis planas su gatvėmis, pastatais, upe, pilies ir miesto centro vaizdu; viršuje aiškus užrašas „Vilna Litvaniae“.","metadataEvidence":"Pavadinime nurodyta „Vilna Litvaniae (Vilnius)“, aprašyme siejama su Civitates Orbis Terrarum miesto vaizdų atlasu, objektas identifikuotas kaip Vilnius.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilniaus miesto planą / panoramą, todėl ryšys su target Vilnius yra aiškus.","isPrimary":1},{"mediaId":"m-de0ab001c36d76858910c3e9","title":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","caption":"J. Narbouth sudarytas topografinis Vilniaus planas.","originalTitle":"Plan topographique de Vilna - dessiné par J. Narbouth - btv1b8440688k.jpg","creator":"Narbouth, J.. Auteur du texte","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"2 nd millennium date QS:P571,+1500-00-00T00:00:00Z/6","dateStart":null,"dateEnd":null,"width":7712,"height":5747,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APlan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/8/87/Plan_topographique_de_Vilna_-_dessin%C3%A9_par_J._Narbouth_-_btv1b8440688k.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.399037+03:00","reviewedAt":"2026-07-11T02:36:34.676595+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas rankraštinis ar spausdintas planas su miesto gatvių tinklu, upėmis, reljefu ir antrašte „Plan Topographique de Vilna“.","metadataEvidence":"Pavadinime nurodyta „Plan topographique de Vilna“, aprašyme tema „Vilnius“, kūrėjas J. Narbouth.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja Vilniaus topografinį planą.","isPrimary":0},{"mediaId":"m-01c144ea0b1fdb350fa02b6a","title":"Royal Palace of Lithuania in Vilnius.jpg","caption":"Napoleono Ordos XIX a. Vilniaus Valdovų rūmų vaizdas.","originalTitle":"Royal Palace of Lithuania in Vilnius.jpg","creator":"Napoleon Orda","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"[1]","dateDisplay":"19 th century date QS:P,+1850-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":799,"height":556,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ARoyal_Palace_of_Lithuania_in_Vilnius.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Royal_Palace_of_Lithuania_in_Vilnius.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/77/Royal_Palace_of_Lithuania_in_Vilnius.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.82},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.82},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82},{"code":"pilis","label":"pilis","facetKind":"tema","confidence":0.82},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"depicts","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T17:21:47.228582+03:00","reviewedAt":"2026-07-11T19:42:40.714987+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas istorinis architektūrinis ansamblis su rūmais, bažnytiniu pastatu ir miesto erdve.","metadataEvidence":"Pavadinimas nurodo „Royal Palace of Lithuania in Vilnius“, aprašas - „Royal Palace in 19th century, Lithuania“.","confidenceLevel":"high","relationType":"depicts","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis istorinis Vilniaus vietos atvaizdas.","isPrimary":0},{"mediaId":"m-98e05f2ae66bdeea3de74381","title":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","caption":"„Vilna Lituaniae metropolis“ - istorinis Vilniaus miesto vaizdas.","originalTitle":"Vilna Lituaniae metropolis - btv1b53178841j (1 of 2).jpg","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":6468,"height":4988,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/60/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%281_of_2%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398175+03:00","reviewedAt":"2026-07-11T02:36:34.669772+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas visas istorinis Vilniaus miesto vaizdas su gatvėmis, pastatais, upe, pilies ir miesto teritorijomis bei užrašu „Vilna Litvaniae metropolis“.","metadataEvidence":"Aprašyme nurodytas objektas Vilnius, pavadinime „Vilna Lituaniae metropolis“, kūrėjai Braun ir Hogenberg.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-0efaad06ba00ce92f567f5a8","title":"Vilniaus miesto zemelapis.png","caption":"Vilniaus miesto žemėlapis","originalTitle":"Vilniaus miesto zemelapis.png","creator":"Tocekas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 3.0","rightsNote":"Creative Commons Attribution-Share Alike 3.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/3.0","attribution":"Own work","dateDisplay":"2011-03-02","dateStart":null,"dateEnd":null,"width":1074,"height":1079,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_miesto_zemelapis.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/2/21/Vilniaus_miesto_zemelapis.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402758+03:00","reviewedAt":"2026-07-11T02:36:34.688290+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto administracinių ribų ir vidaus padalijimų planas su upėmis.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo „Vilniaus miesto žemėlapis“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tiesioginis Vilniaus miesto žemėlapis.","isPrimary":0},{"mediaId":"m-4279286d288a6ba1598e86c7","title":"Vilniaus seniunijos.png","caption":"Vilniaus seniūnijų žemėlapis.","originalTitle":"Vilniaus seniunijos.png","creator":"Bearas","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work","dateDisplay":"2018-12-31","dateStart":null,"dateEnd":null,"width":1418,"height":1418,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilniaus_seniunijos.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b1/Vilniaus_seniunijos.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401511+03:00","reviewedAt":"2026-07-11T00:06:08.903359+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas spalvotas Vilniaus administracinių dalių žemėlapis su seniūnijų pavadinimais, pvz., Antakalnis, Verkių, Senamiesčio, Naujosios Vilnios, Panerių.","metadataEvidence":"Pavadinimas „Vilniaus seniunijos.png“, aprašymas „Vilniaus seniūnijų žemėlapis“ tiesiogiai identifikuoja Vilnių.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai tiesioginis Vilniaus miesto teritorijos administracinis žemėlapis, todėl vaizdo ryšys su target yra aiškus.","isPrimary":0},{"mediaId":"m-dc3fe0a168d8d707651d48cf","title":"Vilnius - map by Braun Hogenberg (34065617).jpg","caption":"Brauno ir Hogenbergo Vilniaus žemėlapis, vaizduojantis miestą 1576 m.","originalTitle":"Vilnius - map by Braun Hogenberg (34065617).jpg","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"16","dateStart":null,"dateEnd":null,"width":11913,"height":8778,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/b8/Vilnius_-_map_by_Braun_Hogenberg_%2834065617%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398735+03:00","reviewedAt":"2026-07-11T02:36:34.673953+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus senasis Vilniaus miesto vaizdas su gatvių tinklu, pastatais, upe, pilies zona ir užrašu „Vilna Litvaniae Metropolis“.","metadataEvidence":"Pavadinime ir aprašyme nurodyta, kad tai Georgo Brauno Vilniaus žemėlapis, vaizduojantis Vilnių 1576 m.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai identifikuoja ir vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-5c3330fe5500bb781a535344","title":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","caption":"Brauno ir Hogenbergo Vilniaus žemėlapio vidutinio dydžio versija.","originalTitle":"Vilnius - map by Braun Hogenberg (middle size) (34065617).jpg","creator":"Georg Braun","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"National Library of Poland","dateDisplay":"16","dateStart":null,"dateEnd":null,"width":5000,"height":3684,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/5/5a/Vilnius_-_map_by_Braun_Hogenberg_%28middle_size%29_%2834065617%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"miesto-panorama","label":"miesto-panorama","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.401820+03:00","reviewedAt":"2026-07-11T02:36:34.680982+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas detalus istorinis Vilniaus miesto vaizdas su gatvėmis, pastatais, upe, miesto siena ir užrašu „Vilna Litvaniae Metropolis“.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Vilnius - map by Braun Hogenberg“ ir „Map of Vilnius in 1576“.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas tiesiogiai vaizduoja istorinį Vilnių.","isPrimary":0},{"mediaId":"m-d9c7a19da6f6d56ef839a3f8","title":"Vilnius 1576.jpg","caption":"Vilniaus vaizdas ir planas 1576 m.","originalTitle":"Vilnius 1576.jpg","creator":"German cartographer and church diplomat G. Braun (1541-1622) and his assistants","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Original publication: Cities of the World (Civitates orbis terrarum. Koeln, 1581. T.3) Digital file: Historic Cities Center of the Department of Geography, the Hebrew University of Jerusalem and the Jewish National and University Library.","dateDisplay":"Drawn 1576; published in 1581","dateStart":null,"dateEnd":null,"width":2667,"height":1973,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilnius_1576.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a6/Vilnius_1576.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95},{"code":"istorinis-planas","label":"istorinis-planas","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.396900+03:00","reviewedAt":"2026-07-11T02:36:34.692265+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senasis miesto panoraminis planas su užrašu „Vilna Litvaniae Metropolis“, gatvėmis, pastatais ir pilies/miesto struktūra.","metadataEvidence":"Pavadinimas „Vilnius 1576.jpg“, aprašas „Map of Vilnius in 1576“, data nurodo istorinį Vilniaus atvaizdą.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Aiškus istorinis Vilniaus miesto vaizdas ir žemėlapis.","isPrimary":0},{"mediaId":"m-87a10f107e92a00093602e46","title":"Wilno - mapa topograficzna WIG (1928-35).png","caption":"Vilniaus ir apylinkių topografinis žemėlapis su šiuolaikinėmis ribomis.","originalTitle":"Wilno - mapa topograficzna WIG (1928-35).png","creator":"Aotearoa at Polish Wikipedia","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Transferred from pl.wikipedia to Commons by Piotrus using CommonsHelper .","dateDisplay":"17 October 2007 (original upload date)","dateStart":null,"dateEnd":null,"width":2303,"height":2288,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AWilno_-_mapa_topograficzna_WIG_%281928-35%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a8/Wilno_-_mapa_topograficzna_WIG_%281928-35%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"direct"}],"firstDiscoveredAt":"2026-07-11T00:02:36.398440+03:00","reviewedAt":"2026-07-11T02:36:34.671825+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas topografinis žemėlapis, centre pažymėtas Wilno/Vilnius, aplinkui rodomos gyvenvietės, keliai, reljefas ir rožinės ribos.","metadataEvidence":"Pavadinimas ir aprašymas nurodo „Wilno/Vilnius“ topografinį WIG žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"direct","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Žemėlapis tiesiogiai vaizduoja Vilnių ir jo apylinkes.","isPrimary":0},{"mediaId":"m-fc8bf2d86ffbd844788f3718","title":"Map of Vilna Ghetto.png","caption":"Vilniaus geto žemėlapis Vilniaus senamiestyje.","originalTitle":"Map of Vilna Ghetto.png","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work This PNG graphic was created with Inkscape . Used map by the Vilna Gaon Jewish State Museum as the main source plus street names from Yitzhak Arad's map ( low quality copy ) and points of interest from Exploring the Vilnius Ghetto: A Digital Monument","dateDisplay":"2017-07-15","dateStart":null,"dateEnd":null,"width":1023,"height":1059,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/4/4d/Map_of_Vilna_Ghetto.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"istorinė_sąvoka","label":"istorinė-sąvoka","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.397826+03:00","reviewedAt":"2026-07-11T02:36:34.661800+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas miesto kvartalų žemėlapis su gatvių pavadinimais, geto teritorijų ribomis, vartais, sinagogomis ir kitais pažymėtais objektais.","metadataEvidence":"Pavadinimas ir aprašymas identifikuoja „Map of Vilna Ghetto“, t. y. Vilniaus geto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne bendras Vilniaus vaizdas, o konkrečios Vilniaus istorinės teritorijos žemėlapis, todėl priimtina kaip kontekstinis ryšys.","isPrimary":0},{"mediaId":"m-247b4f830176fce8c37589e1","title":"Map of Vilna Ghetto.svg","caption":"Vilniaus geto žemėlapis","originalTitle":"Map of Vilna Ghetto.svg","creator":"Renata3","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 4.0","rightsNote":"Creative Commons Attribution-Share Alike 4.0","licenseUrl":"https://creativecommons.org/licenses/by-sa/4.0","attribution":"Own work This W3C-unspecified vector image was created with Inkscape .","dateDisplay":"2017-07-15","dateStart":null,"dateEnd":null,"width":307,"height":318,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AMap_of_Vilna_Ghetto.svg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/f/f2/Map_of_Vilna_Ghetto.svg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"miestas","label":"miestas","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402017+03:00","reviewedAt":"2026-07-11T02:36:34.683524+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas gatvių planas su Vilniaus senamiesčio gatvių pavadinimais ir pažymėtomis zonomis.","metadataEvidence":"Pavadinimas ir aprašas nurodo „Map of Vilna Ghetto“, t. y. Vilniaus geto žemėlapį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Ryšys su Vilniumi aiškus, tačiau tai konkretaus Vilniaus istorinio rajono, o ne viso miesto, žemėlapis.","isPrimary":0},{"mediaId":"m-1cf69545bb7bea149127c57b","title":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","caption":"Vilniaus krašto perdavimo Lietuvai 1939 m. žemėlapis","originalTitle":"Vilna region transfer to Lithuania 10 October 1939 map.jpg","creator":"Francis Maks","provider":"commons","providerLabel":"Wikimedia Commons","license":"CC BY-SA 2.5","rightsNote":"Creative Commons Attribution-Share Alike 2.5","licenseUrl":"https://creativecommons.org/licenses/by-sa/2.5","attribution":"https://francis-maks.livejournal.com/204632.html","dateDisplay":"2014","dateStart":null,"dateEnd":null,"width":1600,"height":1600,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/7/78/Vilna_region_transfer_to_Lithuania_10_October_1939_map.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"žemėlapis","label":"žemėlapis","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95},{"code":"žemėlapis","label":"žemėlapis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"map_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.402521+03:00","reviewedAt":"2026-07-11T02:36:34.686272+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas regioninis žemėlapis su pažymėtu Vilno/Vilniaus miestu ir aplinkinėmis teritorijomis.","metadataEvidence":"Aprašas nurodo Vilniaus miesto ir dalies Vilniaus regiono perdavimą Lietuvai pagal 1939-10-10 sutartį.","confidenceLevel":"high","relationType":"map_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Tai ne miesto vaizdas siaurąja prasme, bet aiškus istorinis Vilniaus politinio-teritorinio konteksto žemėlapis.","isPrimary":0},{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio privilegija, išduota Vilniuje 1503 m. rugpjūčio 17 d.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.078204+03:00","reviewedAt":"2026-07-11T19:42:40.713816+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas pergamentinis valdovo privilegijos dokumentas su pakabinamu raudonu antspaudu.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad dokumentas išduotas Vilniuje 1503 m. rugpjūčio 17 d.","confidenceLevel":"medium","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai nėra Vilniaus vaizdas, bet konkretus istorinis dokumentas, aiškiai identifikuotas kaip išduotas Vilniuje.","isPrimary":0},{"mediaId":"m-eb45745ac724947284669a13","title":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","caption":"Tekstinis leidinio lapas, susijęs su „Vilna Lituaniae metropolis“ publikacija.","originalTitle":"Vilna Lituaniae metropolis - btv1b53178841j (2 of 2).jpg","creator":"Braun, Georg (1541-1622). Éditeur scientifique Hogenberg, Frans (1539?-1590?). Graveur Van Belle, Jérôme. Traducteur","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Bibliothèque nationale de France","dateDisplay":"1645 date QS:P571,+1645-00-00T00:00:00Z/9","dateStart":null,"dateEnd":null,"width":6472,"height":5002,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AVilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/ea/Vilna_Lituaniae_metropolis_-_btv1b53178841j_%282_of_2%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.82},{"code":"knyga","label":"knyga","facetKind":"tema","confidence":0.82},{"code":"saltinis","label":"saltinis","facetKind":"tema","confidence":0.82},{"code":"vieta","label":"vieta","facetKind":"tema","confidence":0.82},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/vietos/Vilnius.md","title":"Vilnius","itemType":"vieta","relationType":"edition_image_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T00:02:36.399608+03:00","reviewedAt":"2026-07-11T02:36:34.678819+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas senas spaudinio puslapis su antrašte „VILENSKI“ ir ilgu tekstu, bet be miesto vaizdo ar žemėlapio.","metadataEvidence":"Pavadinimas ir aprašymas sieja lapą su „Vilna Lituaniae metropolis“ byla, kurios tema yra Vilnius.","confidenceLevel":"medium","relationType":"edition_image_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nevaizduoja Vilniaus tiesiogiai, bet yra aiškiai susijęs dokumentinis/leidinio lapas apie Vilnių.","isPrimary":0}]
 ---
 # Vilnius
 
 ## Santrauka
 
-Vilnius šioje žinių bazėje pristatomas kaip Gedimino sostinė, valdžios centras ir svarbi Lietuvos politinių kovų vieta. Šaltiniuose minimi Gedimino laiškai, sostinės perkėlimas į Vilnių, 1382 m. pilies užėmimas, Vytauto laikų miesto augimas ir vėlesni miesto istorijos epizodai iki XX a. pabaigos.
+Vilnius šiame šaltinyje rodomas kaip valdžios ir pilies centras, dėl kurio 1382 m. vyko kova, kaip svarbi Vytauto bažnytinės veiklos vieta ir kaip vienas iš miestų, kuriuose buvo sprendžiamas Lietuvos valdžios likimas.
 
 ## Pavadinimai šaltiniuose
 
@@ -55,2349 +64,2526 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 Šaltinyje Vilnius pasirodo Gedimino sostinės, Vytauto laikų valstybės stiprėjimo ir miestų savivaldos plėtros kontekste. Miestas minimas ir kaip svarbi vėlesnių politinių, kultūrinių ir religinių procesų vieta.
 
 ## Teiginiai
+
 <a id="claim-t-10864"></a>
 - t-001
   global_id: t-10864
-  teiginys: '1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine.'
+  teiginys: "1323 m. Gediminas gyveno Vilniuje, iš čia rašė laiškus ir derėjosi su Ryga bei Ordinu, o Vilnius tapo nuolatine Lietuvos sostine."
   pagrindžia:
-    - c-022
+    - c-46800
 
 <a id="claim-t-10868"></a>
 - t-002
   global_id: t-10868
-  teiginys: 'Vytauto laikais Vilnius išaugo į didelį rytų Europos miestą.'
+  teiginys: "Vytauto laikais Vilnius išaugo į didelį rytų Europos miestą."
   pagrindžia:
-    - c-054
+    - c-165198
 
 <a id="claim-t-10869"></a>
 - t-003
   global_id: t-10869
-  teiginys: 'Švitrigaila savo kovose buvo pasiekęs ir Vilnių.'
+  teiginys: "Švitrigaila savo kovose buvo pasiekęs ir Vilnių."
   pagrindžia:
-    - c-080
+    - c-165234
 
 <a id="claim-t-181634"></a>
 - t-004
   global_id: t-181634
-  teiginys: 'Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.'
+  teiginys: "Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu."
   pagrindžia:
-    - c-116
+    - c-165274
 
 <a id="claim-t-181635"></a>
 - t-005
   global_id: t-181635
-  teiginys: '1382-1392 m. vidaus kovų laikotarpiu, Vilniuje nesant stiprios valdžios, rytinės Gediminaičių sritys ėmė tolti nuo centro.'
+  teiginys: "1382-1392 m. vidaus kovų laikotarpiu, Vilniuje nesant stiprios valdžios, rytinės Gediminaičių sritys ėmė tolti nuo centro."
   pagrindžia:
-    - c-228
+    - c-165426
 
 <a id="claim-t-181636"></a>
 - t-006
   global_id: t-181636
-  teiginys: 'Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
+  teiginys: "Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų."
   pagrindžia:
-    - c-133
+    - c-165299
 
 <a id="claim-t-181637"></a>
 - t-007
   global_id: t-181637
-  teiginys: 'XIX a. pradžioje įkurta Vilniaus švietimo apygarda apėmė visas prie Rusijos prijungtas buvusios LLV žemes ir 9 mln. gyventojų.'
+  teiginys: "XIX a. pradžioje įkurta Vilniaus švietimo apygarda apėmė visas prie Rusijos prijungtas buvusios LLV žemes ir 9 mln. gyventojų."
   pagrindžia:
-    - c-092
+    - c-165247
 
 <a id="claim-t-181638"></a>
 - t-008
   global_id: t-181638
-  teiginys: '1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
+  teiginys: "1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai."
   pagrindžia:
-    - c-122
+    - c-165283
 
 <a id="claim-t-181639"></a>
 - t-009
   global_id: t-181639
-  teiginys: '1933 m. vasarą Šapoka Vilniuje rinko archyvinę medžiagą apie Ketverių metų seimo laikotarpį.'
+  teiginys: "1933 m. vasarą Šapoka Vilniuje rinko archyvinę medžiagą apie Ketverių metų seimo laikotarpį."
   pagrindžia:
-    - c-005
+    - c-32530
 
 <a id="claim-t-181640"></a>
 - t-010
   global_id: t-181640
-  teiginys: '1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.'
+  teiginys: "1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę."
   pagrindžia:
-    - c-103
+    - c-165261
 
 <a id="claim-t-181641"></a>
 - t-011
   global_id: t-181641
-  teiginys: 'Jonas Kristupas Glaubicas suformavo analogų neturinčią Vilniaus baroko mokyklą.'
+  teiginys: "Jonas Kristupas Glaubicas suformavo analogų neturinčią Vilniaus baroko mokyklą."
   pagrindžia:
-    - c-139
+    - c-165307
 
 <a id="claim-t-181642"></a>
 - t-012
   global_id: t-181642
-  teiginys: 'Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.'
+  teiginys: "Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną."
   pagrindžia:
-    - c-069
+    - c-165219
 
 <a id="claim-t-181643"></a>
 - t-013
   global_id: t-181643
-  teiginys: 'Per 20 metų kryžiuočiai surengė 70 žygių į Lietuvą ir pirmą kartą pasiekė Vilnių bei Trakus, o lietuviai atsakė 30 žygių į Ordino teritoriją.'
+  teiginys: "Per 20 metų kryžiuočiai surengė 70 žygių į Lietuvą ir pirmą kartą pasiekė Vilnių bei Trakus, o lietuviai atsakė 30 žygių į Ordino teritoriją."
   pagrindžia:
-    - c-077
+    - c-165231
 
 <a id="claim-t-181644"></a>
 - t-014
   global_id: t-181644
-  teiginys: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
+  teiginys: "Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo."
   pagrindžia:
-    - c-126
+    - c-165289
 
 <a id="claim-t-181645"></a>
 - t-015
   global_id: t-181645
-  teiginys: 'Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.'
+  teiginys: "Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą."
   pagrindžia:
-    - c-242
+    - c-165445
 
 <a id="claim-t-181646"></a>
 - t-016
   global_id: t-181646
-  teiginys: 'Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.'
+  teiginys: "Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių."
   pagrindžia:
-    - c-053
+    - c-165197
 
 <a id="claim-t-181647"></a>
 - t-017
   global_id: t-181647
-  teiginys: '1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.'
+  teiginys: "1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje."
   pagrindžia:
-    - c-232
+    - c-165430
 
 <a id="claim-t-181648"></a>
 - t-018
   global_id: t-181648
-  teiginys: 'Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius.'
+  teiginys: "Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius."
   pagrindžia:
-    - c-213
+    - c-165404
 
-<a id="claim-t-181650"></a>
+<a id="claim-t-181745"></a>
 - t-019
-  global_id: t-181650
-  teiginys: 'Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija.'
+  global_id: t-181745
+  teiginys: "Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija."
   pagrindžia:
-    - c-137
+    - c-165305
 
 <a id="claim-t-181651"></a>
 - t-020
   global_id: t-181651
-  teiginys: 'Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.'
+  teiginys: "Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai."
   pagrindžia:
-    - c-144
+    - c-165316
 
 <a id="claim-t-181652"></a>
 - t-021
   global_id: t-181652
-  teiginys: 'Ignas Onacevičius nuo 1818 m. Vilniaus universitete dėstė istoriją, o nuo 1821 m. statistiką ir diplomatiką.'
+  teiginys: "Ignas Onacevičius nuo 1818 m. Vilniaus universitete dėstė istoriją, o nuo 1821 m. statistiką ir diplomatiką."
   pagrindžia:
-    - c-193
+    - c-165379
 
 <a id="claim-t-181653"></a>
 - t-022
   global_id: t-181653
-  teiginys: 'Lietuvių konferencija 1917 m. rugsėjo 18–22 d. vyko Vilniaus miesto teatre; į ją atvyko 213 dalyvių, dar 9 buvo kooptuoti.'
+  teiginys: "Lietuvių konferencija 1917 m. rugsėjo 18–22 d. vyko Vilniaus miesto teatre; į ją atvyko 213 dalyvių, dar 9 buvo kooptuoti."
   pagrindžia:
-    - c-145
+    - c-165317
 
 <a id="claim-t-181655"></a>
 - t-023
   global_id: t-181655
-  teiginys: 'Jogailos šalininkai Vilniuje, pasinaudoję Vytauto išvykimu, Jogailos vardu užėmė pilį.'
+  teiginys: "Jogailos šalininkai Vilniuje, pasinaudoję Vytauto išvykimu, Jogailos vardu užėmė pilį."
   pagrindžia:
-    - c-011
+    - c-37819
 
 <a id="claim-t-181656"></a>
 - t-024
   global_id: t-181656
-  teiginys: 'Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis.'
+  teiginys: "Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis."
   pagrindžia:
-    - c-199
+    - c-165386
 
 <a id="claim-t-181657"></a>
 - t-025
   global_id: t-181657
-  teiginys: 'Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.'
+  teiginys: "Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje."
   pagrindžia:
-    - c-101
+    - c-165259
 
 <a id="claim-t-181658"></a>
 - t-026
   global_id: t-181658
-  teiginys: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
+  teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
   pagrindžia:
-    - c-172
+    - c-165355
 
 <a id="claim-t-181659"></a>
 - t-027
   global_id: t-181659
-  teiginys: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.'
+  teiginys: "1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo."
   pagrindžia:
-    - c-247
+    - c-165452
 
 <a id="claim-t-181660"></a>
 - t-028
   global_id: t-181660
-  teiginys: 'Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.'
+  teiginys: "Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis."
   pagrindžia:
-    - c-106
+    - c-165264
 
 <a id="claim-t-181661"></a>
 - t-029
   global_id: t-181661
-  teiginys: 'Po 1938 m. ultimatumo Lietuva turėjo įsteigti konsulatą Vilniuje ir paleisti patriotinę Vilniui vaduoti sąjungą.'
+  teiginys: "Po 1938 m. ultimatumo Lietuva turėjo įsteigti konsulatą Vilniuje ir paleisti patriotinę Vilniui vaduoti sąjungą."
   pagrindžia:
-    - c-030
+    - c-165169
 
 <a id="claim-t-181662"></a>
 - t-030
   global_id: t-181662
-  teiginys: '1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu.'
+  teiginys: "1325 m. Vilniuje pasirašyta Gedimino sutartis su Łokietka dėl bendros kovos su Prūsijos ordinu."
   pagrindžia:
-    - c-052
+    - c-165196
 
 <a id="claim-t-181663"></a>
 - t-031
   global_id: t-181663
-  teiginys: 'XIV a. Vilniuje turėjo būti susiformavusi rusėnų pusė, stačiatikių gyvenama miesto dalis.'
+  teiginys: "XIV a. Vilniuje turėjo būti susiformavusi rusėnų pusė, stačiatikių gyvenama miesto dalis."
   pagrindžia:
-    - c-171
+    - c-165354
 
 <a id="claim-t-181664"></a>
 - t-032
   global_id: t-181664
-  teiginys: 'Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.'
+  teiginys: "Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų."
   pagrindžia:
-    - c-148
+    - c-165321
 
 <a id="claim-t-181665"></a>
 - t-033
   global_id: t-181665
-  teiginys: 'Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui.'
+  teiginys: "Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų pavasarį buvo įsimintinas miestui."
   pagrindžia:
-    - c-140
+    - c-165308
 
 <a id="claim-t-181666"></a>
 - t-034
   global_id: t-181666
-  teiginys: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
+  teiginys: "Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku."
   pagrindžia:
-    - c-235
+    - c-165434
 
 <a id="claim-t-181668"></a>
 - t-035
   global_id: t-181668
-  teiginys: '1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
+  teiginys: "1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas."
   pagrindžia:
-    - c-049
+    - c-165192
 
 <a id="claim-t-181669"></a>
 - t-036
   global_id: t-181669
-  teiginys: 'Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.'
+  teiginys: "Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą."
   pagrindžia:
-    - c-129
+    - c-165292
 
 <a id="claim-t-181670"></a>
 - t-037
   global_id: t-181670
-  teiginys: '1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.'
+  teiginys: "1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi."
   pagrindžia:
-    - c-239
+    - c-165440
 
 <a id="claim-t-181671"></a>
 - t-038
   global_id: t-181671
-  teiginys: 'Rengiantis 1579 m. žygiui Vilniuje buvo įsteigta patrankų liejykla.'
+  teiginys: "Rengiantis 1579 m. žygiui Vilniuje buvo įsteigta patrankų liejykla."
   pagrindžia:
-    - c-027
+    - c-46812
 
 <a id="claim-t-181673"></a>
 - t-039
   global_id: t-181673
-  teiginys: 'V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.'
+  teiginys: "V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje."
   pagrindžia:
-    - c-254
+    - c-165459
 
 <a id="claim-t-181674"></a>
 - t-040
   global_id: t-181674
-  teiginys: 'Jėzuitai Lietuvoje sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.'
+  teiginys: "Jėzuitai Lietuvoje sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas."
   pagrindžia:
-    - c-102
+    - c-165260
 
 <a id="claim-t-181676"></a>
 - t-041
   global_id: t-181676
-  teiginys: 'Vytautas su savo šalininkais nutarė slapčia užimti Vilnių, bet jų sumanymas buvo išduotas.'
+  teiginys: "Vytautas su savo šalininkais nutarė slapčia užimti Vilnių, bet jų sumanymas buvo išduotas."
   pagrindžia:
-    - c-012
+    - c-37821
 
 <a id="claim-t-181678"></a>
 - t-042
   global_id: t-181678
-  teiginys: 'Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru.'
+  teiginys: "Gedimino valdymo metu Vilnius ėmė tapti gana svarbiu prekybos centru."
   pagrindžia:
-    - c-035
+    - c-165174
 
 <a id="claim-t-181679"></a>
 - t-043
   global_id: t-181679
-  teiginys: 'Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus.'
+  teiginys: "Prancūzijos nacionalinis geografijos institutas Europos centro statmenį nustatė 25 km į šiaurę nuo Vilniaus."
   pagrindžia:
-    - c-124
+    - c-165286
 
 <a id="claim-t-181680"></a>
 - t-044
   global_id: t-181680
-  teiginys: 'Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.'
+  teiginys: "Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu."
   pagrindžia:
-    - c-127
+    - c-165290
 
 <a id="claim-t-181681"></a>
 - t-045
   global_id: t-181681
-  teiginys: 'Per epidemiją Vilniuje mirė daugiau kaip dvidešimt tūkstančių žmonių.'
+  teiginys: "Per epidemiją Vilniuje mirė daugiau kaip dvidešimt tūkstančių žmonių."
   pagrindžia:
-    - c-074
+    - c-165226
 
 <a id="claim-t-181682"></a>
 - t-046
   global_id: t-181682
-  teiginys: 'Po Lietuvos krikšto LDK buvo suformuota Vilniaus katalikų vyskupija.'
+  teiginys: "Po Lietuvos krikšto LDK buvo suformuota Vilniaus katalikų vyskupija."
   pagrindžia:
-    - c-111
+    - c-165269
 
 <a id="claim-t-181683"></a>
 - t-047
   global_id: t-181683
-  teiginys: 'Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius.'
+  teiginys: "Mikalojus Radvila Juodasis Lukiškėse pastatė kalvinų bažnyčią ir traukė į ją vilniečius."
   pagrindžia:
-    - c-026
+    - c-46809
 
 <a id="claim-t-181684"></a>
 - t-048
   global_id: t-181684
-  teiginys: 'Italų meistrai šešerius metus dirbo Vilniuje ir Šv. Stanislovo bažnyčioje pastatė marmurinius Elžbietos ir Barboros antkapius.'
+  teiginys: "Italų meistrai šešerius metus dirbo Vilniuje ir Šv. Stanislovo bažnyčioje pastatė marmurinius Elžbietos ir Barboros antkapius."
   pagrindžia:
-    - c-125
+    - c-165287
 
 <a id="claim-t-181686"></a>
 - t-049
   global_id: t-181686
-  teiginys: 'Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
+  teiginys: "Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises."
   pagrindžia:
-    - c-032
+    - c-165171
 
 <a id="claim-t-181687"></a>
 - t-050
   global_id: t-181687
-  teiginys: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.'
+  teiginys: "Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno."
   pagrindžia:
-    - c-169
+    - c-165352
 
 <a id="claim-t-181688"></a>
 - t-051
   global_id: t-181688
-  teiginys: 'Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo.'
+  teiginys: "Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo."
   pagrindžia:
-    - c-166
+    - c-165347
 
 <a id="claim-t-181689"></a>
 - t-052
   global_id: t-181689
-  teiginys: 'Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų.'
+  teiginys: "Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų."
   pagrindžia:
-    - c-019
+    - c-44014
 
 <a id="claim-t-181692"></a>
 - t-053
   global_id: t-181692
-  teiginys: 'Vietoje, kur dabar stovi Vilnius, ant Vilnios slėnį supančių kalvų iki Gedimino veikiausiai būta medinės tvirtovės.'
+  teiginys: "Vietoje, kur dabar stovi Vilnius, ant Vilnios slėnį supančių kalvų iki Gedimino veikiausiai būta medinės tvirtovės."
   pagrindžia:
-    - c-164
+    - c-165345
 
 <a id="claim-t-181693"></a>
 - t-054
   global_id: t-181693
-  teiginys: 'Po 1604 m. kanonizacijos šv. Kazimieras tapo svarbiausiu Lietuvos ir Vilniaus globėju, o Kaziuko mugė liko LDK laikų tradicija.'
+  teiginys: "Po 1604 m. kanonizacijos šv. Kazimieras tapo svarbiausiu Lietuvos ir Vilniaus globėju, o Kaziuko mugė liko LDK laikų tradicija."
   pagrindžia:
-    - c-135
+    - c-165303
 
 <a id="claim-t-181694"></a>
 - t-055
   global_id: t-181694
-  teiginys: 'A. Šapoka, pradėjęs dėstyti Vilniaus universitete, paskaitose specialiau domėjosi Vilniaus istorija.'
+  teiginys: "A. Šapoka, pradėjęs dėstyti Vilniaus universitete, paskaitose specialiau domėjosi Vilniaus istorija."
   pagrindžia:
-    - c-006
+    - c-32531
 
 <a id="claim-t-181695"></a>
 - t-056
   global_id: t-181695
-  teiginys: '1579 m. spalio 29 d. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.'
+  teiginys: "1579 m. spalio 29 d. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu."
   pagrindžia:
-    - c-174
+    - c-165357
 
 <a id="claim-t-181696"></a>
 - t-057
   global_id: t-181696
-  teiginys: '1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.'
+  teiginys: "1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos."
   pagrindžia:
-    - c-165
+    - c-165346
 
 <a id="claim-t-181697"></a>
 - t-058
   global_id: t-181697
-  teiginys: '1535 m. Žygimantas Senasis Vilniuje apžiūrėjo versmę, kad nustatytų, ar ji trykšta karaliaus žemėje.'
+  teiginys: "1535 m. Žygimantas Senasis Vilniuje apžiūrėjo versmę, kad nustatytų, ar ji trykšta karaliaus žemėje."
   pagrindžia:
-    - c-036
+    - c-165175
 
 <a id="claim-t-181698"></a>
 - t-059
   global_id: t-181698
-  teiginys: 'Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir iki pat Vilniaus degino kaimus, plėšė turtą bei ėmė žmones į nelaisvę.'
+  teiginys: "Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir iki pat Vilniaus degino kaimus, plėšė turtą bei ėmė žmones į nelaisvę."
   pagrindžia:
-    - c-142
+    - c-165311
 
 <a id="claim-t-181699"></a>
 - t-060
   global_id: t-181699
-  teiginys: 'Vytauto laikais Vilniaus žemėse buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.'
+  teiginys: "Vytauto laikais Vilniaus žemėse buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų."
   pagrindžia:
-    - c-040
+    - c-165179
 
 <a id="claim-t-181701"></a>
 - t-061
   global_id: t-181701
-  teiginys: 'Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį.'
+  teiginys: "Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį."
   pagrindžia:
-    - c-231
+    - c-165429
 
 <a id="claim-t-181703"></a>
 - t-062
   global_id: t-181703
-  teiginys: 'Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.'
+  teiginys: "Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus."
   pagrindžia:
-    - c-153
+    - c-165327
 
 <a id="claim-t-181704"></a>
 - t-063
   global_id: t-181704
-  teiginys: '1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.'
+  teiginys: "1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu."
   pagrindžia:
-    - c-245
+    - c-165448
 
 <a id="claim-t-181705"></a>
 - t-064
   global_id: t-181705
-  teiginys: 'Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.'
+  teiginys: "Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus."
   pagrindžia:
-    - c-182
+    - c-165367
+
+<a id="claim-t-181689"></a>
+- t-065
+  global_id: t-181689
+  teiginys: "Lietuviams puolant balandžio 23 d., Vilniuje buvusią rusų įgulą sudarė 2500 pėstininkų, 300 raitelių ir 19 artilerijos pabūklų."
+  pagrindžia:
+    - c-44014
 
 <a id="claim-t-181707"></a>
 - t-066
   global_id: t-181707
-  teiginys: '1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.'
+  teiginys: "1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje."
   pagrindžia:
-    - c-094
+    - c-165250
 
 <a id="claim-t-181709"></a>
 - t-067
   global_id: t-181709
-  teiginys: 'XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale.'
+  teiginys: "XVIII a. Vilnius tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu ir buvo pavadintas Lietuvos Jeruzale."
   pagrindžia:
-    - c-046
+    - c-165188
 
 <a id="claim-t-181710"></a>
 - t-068
   global_id: t-181710
-  teiginys: 'Į Lietuvą siunčiama pagalbinė kariuomenė iki Vilniaus turėjo vykti su savo maistu, o toliau ją turėjo aprūpinti Jogaila.'
+  teiginys: "Į Lietuvą siunčiama pagalbinė kariuomenė iki Vilniaus turėjo vykti su savo maistu, o toliau ją turėjo aprūpinti Jogaila."
   pagrindžia:
-    - c-105
+    - c-165263
 
 <a id="claim-t-181711"></a>
 - t-069
   global_id: t-181711
-  teiginys: 'Balińskis Vilniaus vardą siejo su Vilnios upe ir manė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios.'
+  teiginys: "Balińskis Vilniaus vardą siejo su Vilnios upe ir manė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios."
   pagrindžia:
-    - c-107
+    - c-165265
 
 <a id="claim-t-181714"></a>
 - t-070
   global_id: t-181714
-  teiginys: 'Vilnius liko šalies sostine ir nuolatine aukščiausiojo Lietuvos valdovo buveine.'
+  teiginys: "Vilnius liko šalies sostine ir nuolatine aukščiausiojo Lietuvos valdovo buveine."
   pagrindžia:
-    - c-152
+    - c-165326
 
 <a id="claim-t-181715"></a>
 - t-071
   global_id: t-181715
-  teiginys: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.'
+  teiginys: "1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių."
   pagrindžia:
-    - c-219
+    - c-165416
 
 <a id="claim-t-181716"></a>
 - t-072
   global_id: t-181716
-  teiginys: 'Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.'
+  teiginys: "Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis."
   pagrindžia:
-    - c-128
+    - c-165291
 
 <a id="claim-t-181717"></a>
 - t-073
   global_id: t-181717
-  teiginys: 'Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.'
+  teiginys: "Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra."
   pagrindžia:
-    - c-104
+    - c-165262
 
 <a id="claim-t-181718"></a>
 - t-074
   global_id: t-181718
-  teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
+  teiginys: "Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu."
   pagrindžia:
-    - c-098
+    - c-165255
 
 <a id="claim-t-181719"></a>
 - t-075
   global_id: t-181719
-  teiginys: 'Rusios kronikininkai liudija, kad XII a. Vilnius jau egzistavo, o jo gyventojai pasidavė Haličo karaliaus valdžiai.'
+  teiginys: "Rusios kronikininkai liudija, kad XII a. Vilnius jau egzistavo, o jo gyventojai pasidavė Haličo karaliaus valdžiai."
   pagrindžia:
-    - c-215
+    - c-165409
 
-<a id="claim-t-181720"></a>
+<a id="claim-t-181880"></a>
 - t-076
-  global_id: t-181720
-  teiginys: '1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus.'
+  global_id: t-181880
+  teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus."
   pagrindžia:
-    - c-015
+    - c-44008
 
 <a id="claim-t-181721"></a>
 - t-077
   global_id: t-181721
-  teiginys: 'Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių.'
+  teiginys: "Apie 1345 m. Vilniaus prastuomenė užėmė pranciškonų vienuolyną ir nužudė keturiolika vienuolių."
   pagrindžia:
-    - c-217
+    - c-165412
 
 <a id="claim-t-181722"></a>
 - t-078
   global_id: t-181722
-  teiginys: 'Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares.'
+  teiginys: "Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares."
   pagrindžia:
-    - c-220
+    - c-165417
 
 <a id="claim-t-181723"></a>
 - t-079
   global_id: t-181723
-  teiginys: '1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.'
+  teiginys: "1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti."
   pagrindžia:
-    - c-210
+    - c-165399
 
 <a id="claim-t-181724"></a>
 - t-080
   global_id: t-181724
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai."
   pagrindžia:
-    - c-211
+    - c-165401
 
 <a id="claim-t-181726"></a>
 - t-081
   global_id: t-181726
-  teiginys: 'Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą.'
+  teiginys: "Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą."
   pagrindžia:
-    - c-142
+    - c-165311
 
 <a id="claim-t-181727"></a>
 - t-082
   global_id: t-181727
-  teiginys: 'Vilniuje iškilo Kardinalija, buvo užbaigta ir pašventinta Šv. Onos bažnyčia, pradėta Šv. Kazimiero bažnyčia.'
+  teiginys: "Vilniuje iškilo Kardinalija, buvo užbaigta ir pašventinta Šv. Onos bažnyčia, pradėta Šv. Kazimiero bažnyčia."
   pagrindžia:
-    - c-058
+    - c-165203
 
 <a id="claim-t-181728"></a>
 - t-083
   global_id: t-181728
-  teiginys: 'Vilniaus vyskupas Povilas ir Vilniaus miesto piliečių bendrija ginčijosi dėl mėsinių turguje ir miesto aikštėje.'
+  teiginys: "Vilniaus vyskupas Povilas ir Vilniaus miesto piliečių bendrija ginčijosi dėl mėsinių turguje ir miesto aikštėje."
   pagrindžia:
-    - c-042
+    - c-165182
 
 <a id="claim-t-181729"></a>
 - t-084
   global_id: t-181729
-  teiginys: 'Didysis Vilniaus Seimas vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.'
+  teiginys: "Didysis Vilniaus Seimas vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis."
   pagrindžia:
-    - c-056
+    - c-165200
 
 <a id="claim-t-181730"></a>
 - t-085
   global_id: t-181730
-  teiginys: 'Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.'
+  teiginys: "Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę."
   pagrindžia:
-    - c-121
+    - c-165281
 
 <a id="claim-t-181731"></a>
 - t-086
   global_id: t-181731
-  teiginys: 'Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku.'
+  teiginys: "Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku."
   pagrindžia:
-    - c-167
+    - c-165349
 
 <a id="claim-t-181732"></a>
 - t-087
   global_id: t-181732
-  teiginys: 'Dėl netvarkos Vilniaus administracijoje Žygimantas Senasis įvedė naują ir griežtą miesto tvarką.'
+  teiginys: "Dėl netvarkos Vilniaus administracijoje Žygimantas Senasis įvedė naują ir griežtą miesto tvarką."
   pagrindžia:
-    - c-168
+    - c-165351
 
 <a id="claim-t-181733"></a>
 - t-088
   global_id: t-181733
-  teiginys: '1919 m. balandžio 19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš miesto.'
+  teiginys: "1919 m. balandžio 19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš miesto."
   pagrindžia:
-    - c-021
+    - c-44018
 
 <a id="claim-t-181734"></a>
 - t-089
   global_id: t-181734
-  teiginys: 'Dėstydamas Vilniaus universitete Šapoka paskaitose labiau susidomėjo sostinės istorija.'
+  teiginys: "Dėstydamas Vilniaus universitete Šapoka paskaitose labiau susidomėjo sostinės istorija."
   pagrindžia:
-    - c-006
+    - c-32531
 
 <a id="claim-t-181735"></a>
 - t-090
   global_id: t-181735
-  teiginys: 'Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.'
+  teiginys: "Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine."
   pagrindžia:
-    - c-160
+    - c-165339
 
 <a id="claim-t-181736"></a>
 - t-091
   global_id: t-181736
-  teiginys: 'Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
+  teiginys: "Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo."
   pagrindžia:
-    - c-038
+    - c-165177
 
 <a id="claim-t-181737"></a>
 - t-092
   global_id: t-181737
-  teiginys: 'Pasak padavimo, Gediminas Tauro kalne pastatydino Aukštutinę pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.'
+  teiginys: "Pasak padavimo, Gediminas Tauro kalne pastatydino Aukštutinę pilį, o slėnyje - medinę pilį, pavadintą Vilniumi."
   pagrindžia:
-    - c-209
+    - c-165398
 
 <a id="claim-t-181738"></a>
 - t-093
   global_id: t-181738
-  teiginys: 'Michałas Balińskis gyveno Vilniuje, bendradarbiavo miesto periodinėje spaudoje ir rinko dokumentus apie Vilniaus istoriją.'
+  teiginys: "Michałas Balińskis gyveno Vilniuje, bendradarbiavo miesto periodinėje spaudoje ir rinko dokumentus apie Vilniaus istoriją."
   pagrindžia:
-    - c-045
+    - c-165187
 
 <a id="claim-t-181739"></a>
 - t-094
   global_id: t-181739
-  teiginys: '1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.'
+  teiginys: "1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje."
   pagrindžia:
-    - c-221
+    - c-165418
 
 <a id="claim-t-181741"></a>
 - t-095
   global_id: t-181741
-  teiginys: 'Balińskis Žygimanto Augusto laikus Vilniui vadino aukso amžiumi, o jo mirtį siejo su visuotiniu sielvartu.'
+  teiginys: "Balińskis Žygimanto Augusto laikus Vilniui vadino aukso amžiumi, o jo mirtį siejo su visuotiniu sielvartu."
   pagrindžia:
-    - c-039
+    - c-165178
 
 <a id="claim-t-181742"></a>
 - t-096
   global_id: t-181742
-  teiginys: 'Vilniaus miesto taryba ir Vilniaus katedros kapitula ginčijosi dėl kapitulos jurisdikcijos miesto gyventojams.'
+  teiginys: "Vilniaus miesto taryba ir Vilniaus katedros kapitula ginčijosi dėl kapitulos jurisdikcijos miesto gyventojams."
   pagrindžia:
-    - c-072
+    - c-165223
 
 <a id="claim-t-181743"></a>
 - t-097
   global_id: t-181743
-  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere."
   pagrindžia:
-    - c-241
+    - c-165443
+
+<a id="claim-t-181745"></a>
+- t-098
+  global_id: t-181745
+  teiginys: "Kijevo ir visos Rusios metropolitas buvo įkurdintas Vilniuje, kur jam pastatyta katedra ir rezidencija."
+  pagrindžia:
+    - c-165305
 
 <a id="claim-t-181746"></a>
 - t-099
   global_id: t-181746
-  teiginys: 'Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė.'
+  teiginys: "Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė."
   pagrindžia:
-    - c-157
+    - c-165332
 
 <a id="claim-t-181747"></a>
 - t-100
   global_id: t-181747
-  teiginys: 'Apie 1555 m. Vilniuje pasirodė kunigas, slapta persiėmęs viklifininkų sektos nuostatomis.'
+  teiginys: "Apie 1555 m. Vilniuje pasirodė kunigas, slapta persiėmęs viklifininkų sektos nuostatomis."
   pagrindžia:
-    - c-075
+    - c-165229
 
 <a id="claim-t-181748"></a>
 - t-101
   global_id: t-181748
-  teiginys: 'Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.'
+  teiginys: "Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio."
   pagrindžia:
-    - c-057
+    - c-165201
 
 <a id="claim-t-181749"></a>
 - t-102
   global_id: t-181749
-  teiginys: 'Vytautas bandė užimti Vilnių, į dengtas roges su atsargomis paslėpęs ginkluotų žmonių būrį.'
+  teiginys: "Vytautas bandė užimti Vilnių, į dengtas roges su atsargomis paslėpęs ginkluotų žmonių būrį."
   pagrindžia:
-    - c-138
+    - c-165306
 
 <a id="claim-t-181750"></a>
 - t-103
   global_id: t-181750
-  teiginys: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.'
+  teiginys: "Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila."
   pagrindžia:
-    - c-136
+    - c-165304
 
 <a id="claim-t-181752"></a>
 - t-104
   global_id: t-181752
-  teiginys: '1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.'
+  teiginys: "1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas."
   pagrindžia:
-    - c-184
+    - c-165370
 
 <a id="claim-t-181754"></a>
 - t-105
   global_id: t-181754
-  teiginys: 'Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.'
+  teiginys: "Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos."
   pagrindžia:
-    - c-190
+    - c-165376
 
 <a id="claim-t-181755"></a>
 - t-106
   global_id: t-181755
-  teiginys: '7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.'
+  teiginys: "7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78."
   pagrindžia:
-    - c-120
+    - c-165279
 
 <a id="claim-t-181756"></a>
 - t-107
   global_id: t-181756
-  teiginys: 'Vytautui nepavyko įveikti Vilniaus, kuriame jis neturėjo palaikytojų.'
+  teiginys: "Vytautui nepavyko įveikti Vilniaus, kuriame jis neturėjo palaikytojų."
   pagrindžia:
-    - c-134
+    - c-165301
 
 <a id="claim-t-181757"></a>
 - t-108
   global_id: t-181757
-  teiginys: 'Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.'
+  teiginys: "Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių."
   pagrindžia:
-    - c-087
+    - c-165242
 
 <a id="claim-t-181758"></a>
 - t-109
   global_id: t-181758
-  teiginys: 'Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
+  teiginys: "Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė."
   pagrindžia:
-    - c-229
+    - c-165427
 
 <a id="claim-t-181759"></a>
 - t-110
   global_id: t-181759
-  teiginys: 'Aleksandras, pasirinkęs Vilnių nuolatine gyvenamąja vieta ir laikęs prabangų dvarą, atgaivino sostinę.'
+  teiginys: "Aleksandras, pasirinkęs Vilnių nuolatine gyvenamąja vieta ir laikęs prabangų dvarą, atgaivino sostinę."
   pagrindžia:
-    - c-188
+    - c-165374
 
 <a id="claim-t-181762"></a>
 - t-111
   global_id: t-181762
-  teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad šis nesutaria su bendruomene ir neturi gaisrui gesinti reikmenų.'
+  teiginys: "1524 m. karalius priekaištavo Vilniaus magistratui, kad šis nesutaria su bendruomene ir neturi gaisrui gesinti reikmenų."
   pagrindžia:
-    - c-201
+    - c-165390
 
 <a id="claim-t-181763"></a>
 - t-112
   global_id: t-181763
-  teiginys: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.'
+  teiginys: "Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju."
   pagrindžia:
-    - c-034
+    - c-165173
 
 <a id="claim-t-181764"></a>
 - t-113
   global_id: t-181764
-  teiginys: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.'
+  teiginys: "Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas."
   pagrindžia:
-    - c-088
+    - c-165243
 
 <a id="claim-t-181765"></a>
 - t-114
   global_id: t-181765
-  teiginys: 'Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų.'
+  teiginys: "Vilnius tuo metu tapo vienu gražiausių Rytų Europos miestų ir turėjo daug ponų rūmų."
   pagrindžia:
-    - c-024
+    - c-46806
 
 <a id="claim-t-181766"></a>
 - t-115
   global_id: t-181766
-  teiginys: 'Balińskis Vilnių apibūdino kaip gausiai gyvenamą, didelį ir turtingą miestą, dar neatsikračiusį barbariškumo apnašų.'
+  teiginys: "Balińskis Vilnių apibūdino kaip gausiai gyvenamą, didelį ir turtingą miestą, dar neatsikračiusį barbariškumo apnašų."
   pagrindžia:
-    - c-151
+    - c-165325
 
 <a id="claim-t-181767"></a>
 - t-116
   global_id: t-181767
-  teiginys: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
+  teiginys: "1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu."
   pagrindžia:
-    - c-180
+    - c-165365
 
 <a id="claim-t-181768"></a>
 - t-117
   global_id: t-181768
-  teiginys: '1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė.'
+  teiginys: "1323 m. spalio 2 d. Vilniuje pasirašyta sutartis laikoma pirmu autentišku paliudijimu, kad Vilnius buvo miestas ir Gedimino sostinė."
   pagrindžia:
-    - c-047
+    - c-165190
 
 <a id="claim-t-181769"></a>
 - t-118
   global_id: t-181769
-  teiginys: '1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.'
+  teiginys: "1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius."
   pagrindžia:
-    - c-253
+    - c-165458
 
 <a id="claim-t-181770"></a>
 - t-119
   global_id: t-181770
-  teiginys: 'Sudimantas, perspėtas gyventojų, sutrukdė rogėse paslėptiems žmonėms užimti Vilnių Vytauto naudai.'
+  teiginys: "Sudimantas, perspėtas gyventojų, sutrukdė rogėse paslėptiems žmonėms užimti Vilnių Vytauto naudai."
   pagrindžia:
-    - c-207
+    - c-165396
 
 <a id="claim-t-181771"></a>
 - t-120
   global_id: t-181771
-  teiginys: 'Vilniaus Bernardinų bažnyčios centrinė nava citatoje minima kaip Lietuvos gotikai būdingų aukštų erdvių pavyzdys.'
+  teiginys: "Vilniaus Bernardinų bažnyčios centrinė nava citatoje minima kaip Lietuvos gotikai būdingų aukštų erdvių pavyzdys."
   pagrindžia:
-    - c-155
+    - c-165330
 
 <a id="claim-t-181772"></a>
 - t-121
   global_id: t-181772
-  teiginys: '1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.'
+  teiginys: "1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu."
   pagrindžia:
-    - c-052
+    - c-165196
 
 <a id="claim-t-181773"></a>
 - t-122
   global_id: t-181773
-  teiginys: '1428 m. Vilniuje Jogaila iškėlė Vytauto karūnacijos klausimą.'
+  teiginys: "1428 m. Vilniuje Jogaila iškėlė Vytauto karūnacijos klausimą."
   pagrindžia:
-    - c-118
+    - c-165276
 
 <a id="claim-t-181774"></a>
 - t-123
   global_id: t-181774
-  teiginys: 'Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą.'
+  teiginys: "Vilniaus įkūrimo legenda pasakoja, kad Gedimino sapno geležinis vilkas pranašavo būsimo miesto garsą."
   pagrindžia:
-    - c-007
+    - c-32534
 
 <a id="claim-t-181775"></a>
 - t-124
   global_id: t-181775
-  teiginys: 'Po Varšuvos seimo atvykęs į Vilnių valdovas sušaukė lietuvių seimą ir tarėsi, kaip toliau veikti kare.'
+  teiginys: "Po Varšuvos seimo atvykęs į Vilnių valdovas sušaukė lietuvių seimą ir tarėsi, kaip toliau veikti kare."
   pagrindžia:
-    - c-028
+    - c-46813
 
 <a id="claim-t-181777"></a>
 - t-125
   global_id: t-181777
-  teiginys: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius.'
+  teiginys: "Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius."
   pagrindžia:
-    - c-206
+    - c-165395
 
 <a id="claim-t-181778"></a>
 - t-126
   global_id: t-181778
-  teiginys: '1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją.'
+  teiginys: "1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją."
   pagrindžia:
-    - c-066
+    - c-165213
 
 <a id="claim-t-181779"></a>
 - t-127
   global_id: t-181779
-  teiginys: 'Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu.'
+  teiginys: "Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu."
   pagrindžia:
-    - c-059
+    - c-165204
 
 <a id="claim-t-181780"></a>
 - t-128
   global_id: t-181780
-  teiginys: '1578 m. Vilniaus jėzuitai paprašė leisti įkurti Vilniuje akademiją, o Steponas Batoras tam pritarė.'
+  teiginys: "1578 m. Vilniaus jėzuitai paprašė leisti įkurti Vilniuje akademiją, o Steponas Batoras tam pritarė."
   pagrindžia:
-    - c-029
+    - c-46815
 
 <a id="claim-t-181781"></a>
 - t-129
   global_id: t-181781
-  teiginys: 'Vilniuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie dešimt cerkvių.'
+  teiginys: "Vilniuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie dešimt cerkvių."
   pagrindžia:
-    - c-154
+    - c-165328
 
 <a id="claim-t-181782"></a>
 - t-130
   global_id: t-181782
-  teiginys: '1655 m. rusams užėmus Vilnių, gaisras mieste siautė net 17 dienų.'
+  teiginys: "1655 m. rusams užėmus Vilnių, gaisras mieste siautė net 17 dienų."
   pagrindžia:
-    - c-200
+    - c-165388
 
 <a id="claim-t-181784"></a>
 - t-131
   global_id: t-181784
-  teiginys: 'Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.'
+  teiginys: "Žemesnio rango jaunesnieji karininkai atsargos leitenanto Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lietuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje."
   pagrindžia:
-    - c-113
+    - c-165271
 
 <a id="claim-t-181785"></a>
 - t-132
   global_id: t-181785
-  teiginys: 'Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą.'
+  teiginys: "Ivinskis Vilniaus kaip valstybės sostinės įkūrimą apibūdino kaip gražia legenda apipintą pasakojimą."
   pagrindžia:
-    - c-001
+    - c-05676
 
 <a id="claim-t-181787"></a>
 - t-133
   global_id: t-181787
-  teiginys: 'Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai.'
+  teiginys: "Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai."
   pagrindžia:
-    - c-176
+    - c-165359
 
 <a id="claim-t-181788"></a>
 - t-134
   global_id: t-181788
-  teiginys: '1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
+  teiginys: "1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje."
   pagrindžia:
-    - c-230
+    - c-165428
 
 <a id="claim-t-181789"></a>
 - t-135
   global_id: t-181789
-  teiginys: '1920 m. liepos 15 d. į Vilnių Lietuvos kariuomenė įžengė po Raudonosios armijos kavalerijos korpusų.'
+  teiginys: "1920 m. liepos 15 d. į Vilnių Lietuvos kariuomenė įžengė po Raudonosios armijos kavalerijos korpusų."
   pagrindžia:
-    - c-240
+    - c-165441
 
 <a id="claim-t-181790"></a>
 - t-136
   global_id: t-181790
-  teiginys: 'Vilniaus universitetas tapo didžiulės Vilniaus švietimo apygardos centru.'
+  teiginys: "Vilniaus universitetas tapo didžiulės Vilniaus švietimo apygardos centru."
   pagrindžia:
-    - c-092
+    - c-165247
 
 <a id="claim-t-181791"></a>
 - t-137
   global_id: t-181791
-  teiginys: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame miestas pavadintas „gražiausiu Lenkijos karalystės perlu“.'
+  teiginys: "1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame miestas pavadintas „gražiausiu Lenkijos karalystės perlu“."
   pagrindžia:
-    - c-238
+    - c-165439
 
 <a id="claim-t-181792"></a>
 - t-138
   global_id: t-181792
-  teiginys: 'Balińskis atmetė prielaidą, kad Dusburgo minima Castrum Gedemini galėjo būti Vilnius.'
+  teiginys: "Balińskis atmetė prielaidą, kad Dusburgo minima Castrum Gedemini galėjo būti Vilnius."
   pagrindžia:
-    - c-156
+    - c-165331
 
 <a id="claim-t-181793"></a>
 - t-139
   global_id: t-181793
-  teiginys: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
+  teiginys: "Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   pagrindžia:
-    - c-214
+    - c-165405
 
 <a id="claim-t-181794"></a>
 - t-140
   global_id: t-181794
-  teiginys: 'A. Šapoka, 1933 m. vasarą Vilniuje prisirinkęs archyvinės medžiagos, paskelbė keturias studijas apie Ketverių metų seimą.'
+  teiginys: "A. Šapoka, 1933 m. vasarą Vilniuje prisirinkęs archyvinės medžiagos, paskelbė keturias studijas apie Ketverių metų seimą."
   pagrindžia:
-    - c-005
+    - c-32530
 
 <a id="claim-t-181796"></a>
 - t-141
   global_id: t-181796
-  teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundėsi, kad vaitas nesilaiko Magdeburgo teisės ir pažeidžia jų privilegijas.'
+  teiginys: "Vilniaus burmistrai, tarybos nariai ir miestiečiai skundėsi, kad vaitas nesilaiko Magdeburgo teisės ir pažeidžia jų privilegijas."
   pagrindžia:
-    - c-223
+    - c-165421
 
 <a id="claim-t-181797"></a>
 - t-142
   global_id: t-181797
-  teiginys: 'Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos.'
+  teiginys: "Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos."
   pagrindžia:
-    - c-123
+    - c-165284
 
 <a id="claim-t-181798"></a>
 - t-143
   global_id: t-181798
-  teiginys: '1859 m. vadove po Vilnių Adomas Honorijus Kirkoras rašė, kad miestas jau turi savo istorikus.'
+  teiginys: "1859 m. vadove po Vilnių Adomas Honorijus Kirkoras rašė, kad miestas jau turi savo istorikus."
   pagrindžia:
-    - c-070
+    - c-165221
 
 <a id="claim-t-181799"></a>
 - t-144
   global_id: t-181799
-  teiginys: 'Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
+  teiginys: "Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija."
   pagrindžia:
-    - c-085
+    - c-165239
 
 <a id="claim-t-181800"></a>
 - t-145
   global_id: t-181800
-  teiginys: '1430 m. mirus Vytautui, jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
+  teiginys: "1430 m. mirus Vytautui, jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti."
   pagrindžia:
-    - c-222
+    - c-165419
 
 <a id="claim-t-181801"></a>
 - t-146
   global_id: t-181801
-  teiginys: 'Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.'
+  teiginys: "Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties."
   pagrindžia:
-    - c-055
+    - c-165199
 
 <a id="claim-t-181802"></a>
 - t-147
   global_id: t-181802
-  teiginys: 'Michałas Balińskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis.'
+  teiginys: "Michałas Balińskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei miesto kultūrinio gyvenimo dalyvis."
   pagrindžia:
-    - c-109
+    - c-165267
 
 <a id="claim-t-181803"></a>
 - t-148
   global_id: t-181803
-  teiginys: 'Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų.'
+  teiginys: "Vilniuje ponai prisistatė daugybę rūmų, o miestas tapo vienu gražiausių Rytų Europos miestų."
   pagrindžia:
-    - c-024
+    - c-46806
 
 <a id="claim-t-181804"></a>
 - t-149
   global_id: t-181804
-  teiginys: 'Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys.'
+  teiginys: "Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys."
   pagrindžia:
-    - c-196
+    - c-165382
 
 <a id="claim-t-181805"></a>
 - t-150
   global_id: t-181805
-  teiginys: 'Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
+  teiginys: "Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
   pagrindžia:
-    - c-089
+    - c-165244
 
 <a id="claim-t-181806"></a>
 - t-151
   global_id: t-181806
-  teiginys: '1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.'
+  teiginys: "1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu."
   pagrindžia:
-    - c-158
+    - c-165335
 
 <a id="claim-t-181807"></a>
 - t-152
   global_id: t-181807
-  teiginys: 'Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.'
+  teiginys: "Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią."
   pagrindžia:
-    - c-149
+    - c-165323
 
 <a id="claim-t-181808"></a>
 - t-153
   global_id: t-181808
-  teiginys: 'Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.'
+  teiginys: "Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis."
   pagrindžia:
-    - c-099
+    - c-165256
 
 <a id="claim-t-181809"></a>
 - t-154
   global_id: t-181809
-  teiginys: '1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
+  teiginys: "1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą."
   pagrindžia:
-    - c-198
+    - c-165385
 
 <a id="claim-t-181810"></a>
 - t-155
   global_id: t-181810
-  teiginys: 'Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių.'
+  teiginys: "Miestuose, ypač Vilniuje, kur mišrai gyveno katalikai su protestantais, kildavo visokių nesusipratimų ir muštynių."
   pagrindžia:
-    - c-131
+    - c-165296
 
 <a id="claim-t-181811"></a>
 - t-156
   global_id: t-181811
-  teiginys: 'Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.'
+  teiginys: "Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje."
   pagrindžia:
-    - c-093
+    - c-165248
 
 <a id="claim-t-181812"></a>
 - t-157
   global_id: t-181812
-  teiginys: 'Vilniuje buvo įsteigta vidurinė mokykla, tačiau aukštesniosios mokyklos tuo metu nebuvo.'
+  teiginys: "Vilniuje buvo įsteigta vidurinė mokykla, tačiau aukštesniosios mokyklos tuo metu nebuvo."
   pagrindžia:
-    - c-097
+    - c-165253
 
 <a id="claim-t-181813"></a>
 - t-158
   global_id: t-181813
-  teiginys: 'Vilnius tuo metu turėjo 155 tūkst. gyventojų, o prieš Pirmąjį pasaulinį karą jų skaičius siekė 200 tūkst.'
+  teiginys: "Vilnius tuo metu turėjo 155 tūkst. gyventojų, o prieš Pirmąjį pasaulinį karą jų skaičius siekė 200 tūkst."
   pagrindžia:
-    - c-041
+    - c-165180
 
 <a id="claim-t-181814"></a>
 - t-159
   global_id: t-181814
-  teiginys: '1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
+  teiginys: "1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare."
   pagrindžia:
-    - c-112
+    - c-165270
 
 <a id="claim-t-181815"></a>
 - t-160
   global_id: t-181815
-  teiginys: 'Vytautui išvykus iš Vilniaus, Jogailos šalininkai jo vardu užėmė pilį.'
+  teiginys: "Vytautui išvykus iš Vilniaus, Jogailos šalininkai jo vardu užėmė pilį."
   pagrindžia:
-    - c-011
+    - c-37819
 
 <a id="claim-t-181816"></a>
 - t-161
   global_id: t-181816
-  teiginys: 'Po Algirdo didžiojo kunigaikščio valdžią Vilniuje perėmė jo vyriausias sūnus Jogaila.'
+  teiginys: "Po Algirdo didžiojo kunigaikščio valdžią Vilniuje perėmė jo vyriausias sūnus Jogaila."
   pagrindžia:
-    - c-010
+    - c-37818
 
-<a id="claim-t-181817"></a>
+<a id="claim-t-181919"></a>
 - t-162
-  global_id: t-181817
-  teiginys: 'Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui.'
+  global_id: t-181919
+  teiginys: "Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui."
   pagrindžia:
-    - c-071
+    - c-165222
 
 <a id="claim-t-181819"></a>
 - t-163
   global_id: t-181819
-  teiginys: 'Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.'
+  teiginys: "Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją."
   pagrindžia:
-    - c-251
+    - c-165456
 
 <a id="claim-t-181820"></a>
 - t-164
   global_id: t-181820
-  teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo Algirdui.'
+  teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats miestas perėjo Algirdui."
   pagrindžia:
-    - c-048
+    - c-165191
 
 <a id="claim-t-181821"></a>
 - t-165
   global_id: t-181821
-  teiginys: 'Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų.'
+  teiginys: "Liepos 19-20 d. Vilnių ir jo apylinkes gynė apie 4 tūkst. kovotojų su 13 artilerijos pabūklų."
   pagrindžia:
-    - c-018
+    - c-44013
 
 <a id="claim-t-181822"></a>
 - t-166
   global_id: t-181822
-  teiginys: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.'
+  teiginys: "1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga."
   pagrindžia:
-    - c-192
+    - c-165378
 
 <a id="claim-t-181823"></a>
 - t-167
   global_id: t-181823
-  teiginys: '1586 m. buvo prašoma Vilniuje suteikti nakvynę čiaušui, jo 22 tarnams ir vertėjui Asianui Abrahimovičiui.'
+  teiginys: "1586 m. buvo prašoma Vilniuje suteikti nakvynę čiaušui, jo 22 tarnams ir vertėjui Asianui Abrahimovičiui."
   pagrindžia:
-    - c-243
+    - c-165446
 
 <a id="claim-t-181824"></a>
 - t-168
   global_id: t-181824
-  teiginys: '1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.'
+  teiginys: "1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą."
   pagrindžia:
-    - c-100
+    - c-165257
 
 <a id="claim-t-181825"></a>
 - t-169
   global_id: t-181825
-  teiginys: 'Po Algirdo mirties didžiojo kunigaikščio valdžią Vilniuje perėmė jo vyriausias sūnus Jogaila.'
+  teiginys: "Po Algirdo mirties didžiojo kunigaikščio valdžią Vilniuje perėmė jo vyriausias sūnus Jogaila."
   pagrindžia:
-    - c-010
+    - c-37818
 
 <a id="claim-t-181826"></a>
 - t-170
   global_id: t-181826
-  teiginys: 'Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.'
+  teiginys: "Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo."
   pagrindžia:
-    - c-081
+    - c-165235
 
 <a id="claim-t-181827"></a>
 - t-171
   global_id: t-181827
-  teiginys: 'Pranciškonų kankinių istorija Gedimino laikais davė pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  teiginys: "Pranciškonų kankinių istorija Gedimino laikais davė pradžią vienai ilgaamžiškiausių Vilniaus legendų."
   pagrindžia:
-    - c-062
+    - c-165207
 
 <a id="claim-t-181828"></a>
 - t-172
   global_id: t-181828
-  teiginys: 'Pranciškonų kankinių istorija davė pradžią vienai ilgaamžiškiausių Vilniaus legendų.'
+  teiginys: "Pranciškonų kankinių istorija davė pradžią vienai ilgaamžiškiausių Vilniaus legendų."
   pagrindžia:
-    - c-062
+    - c-165207
 
 <a id="claim-t-181829"></a>
 - t-173
   global_id: t-181829
-  teiginys: 'Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai.'
+  teiginys: "Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai."
   pagrindžia:
-    - c-233
+    - c-165431
 
 <a id="claim-t-181830"></a>
 - t-174
   global_id: t-181830
-  teiginys: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
+  teiginys: "1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui."
   pagrindžia:
-    - c-141
+    - c-165310
 
 <a id="claim-t-181831"></a>
 - t-175
   global_id: t-181831
-  teiginys: 'Vilniuje Bernardinų gatvėje mūrinis namas buvo padovanotas kaip bursa neturtingiems studijas tęsiantiems studentams.'
+  teiginys: "Vilniuje Bernardinų gatvėje mūrinis namas buvo padovanotas kaip bursa neturtingiems studijas tęsiantiems studentams."
   pagrindžia:
-    - c-073
+    - c-165224
 
 <a id="claim-t-181832"></a>
 - t-176
   global_id: t-181832
-  teiginys: '1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.'
+  teiginys: "1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos."
   pagrindžia:
-    - c-255
+    - c-165460
 
 <a id="claim-t-181833"></a>
 - t-177
   global_id: t-181833
-  teiginys: '1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti.'
+  teiginys: "1919 m. balandžio pradžioje Lietuvos karinė vadovybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti Vilnių ir pirmiau nei lenkai jį užimti."
   pagrindžia:
-    - c-031
+    - c-165170
 
 <a id="claim-t-181834"></a>
 - t-178
   global_id: t-181834
-  teiginys: 'Gedimino laiškai siejami su pirmuoju Vilniaus paminėjimu rašto šaltiniuose ir Lietuvos europėjimo programa.'
+  teiginys: "Gedimino laiškai siejami su pirmuoju Vilniaus paminėjimu rašto šaltiniuose ir Lietuvos europėjimo programa."
   pagrindžia:
-    - c-237
+    - c-165437
 
 <a id="claim-t-181835"></a>
 - t-179
   global_id: t-181835
-  teiginys: '1538 m. Abraomas Kulvietis Vilniuje atidarė protestantiškąją mokyklą, bet netrukus buvo priverstas ją uždaryti ir pasišalinti.'
+  teiginys: "1538 m. Abraomas Kulvietis Vilniuje atidarė protestantiškąją mokyklą, bet netrukus buvo priverstas ją uždaryti ir pasišalinti."
   pagrindžia:
-    - c-025
+    - c-46808
 
 <a id="claim-t-181836"></a>
 - t-180
   global_id: t-181836
-  teiginys: '1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.'
+  teiginys: "1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais."
   pagrindžia:
-    - c-202
+    - c-165391
 
 <a id="claim-t-181837"></a>
 - t-181
   global_id: t-181837
-  teiginys: '1552 m. Vilniaus valdžia ir piliečiai sudarė teismo proceso tvarką pagal Magdeburgo teisę.'
+  teiginys: "1552 m. Vilniaus valdžia ir piliečiai sudarė teismo proceso tvarką pagal Magdeburgo teisę."
   pagrindžia:
-    - c-163
+    - c-165344
 
 <a id="claim-t-181838"></a>
 - t-182
   global_id: t-181838
-  teiginys: 'Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.'
+  teiginys: "Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių."
   pagrindžia:
-    - c-084
+    - c-165238
 
 <a id="claim-t-181839"></a>
 - t-183
   global_id: t-181839
-  teiginys: '1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.'
+  teiginys: "1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje."
   pagrindžia:
-    - c-194
+    - c-165380
 
 <a id="claim-t-181840"></a>
 - t-184
   global_id: t-181840
-  teiginys: '1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų.'
+  teiginys: "1655 m. rusams užėmus Vilnių, mieste kilęs gaisras siautė 17 dienų."
   pagrindžia:
-    - c-249
+    - c-165454
 
 <a id="claim-t-181841"></a>
 - t-185
   global_id: t-181841
-  teiginys: 'Lenkai nusprendė pasinaudoti spraga bolševikų pozicijose ir surengti stambią puolamąją operaciją Vilniui užimti.'
+  teiginys: "Lenkai nusprendė pasinaudoti spraga bolševikų pozicijose ir surengti stambią puolamąją operaciją Vilniui užimti."
   pagrindžia:
-    - c-033
+    - c-165172
 
 <a id="claim-t-181842"></a>
 - t-186
   global_id: t-181842
-  teiginys: 'Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.'
+  teiginys: "Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus."
   pagrindžia:
-    - c-095
+    - c-165251
 
 <a id="claim-t-181843"></a>
 - t-187
   global_id: t-181843
-  teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
+  teiginys: "1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių."
   pagrindžia:
-    - c-225
+    - c-165423
 
 <a id="claim-t-181844"></a>
 - t-188
   global_id: t-181844
-  teiginys: 'Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
+  teiginys: "Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti."
   pagrindžia:
-    - c-114
+    - c-165272
 
 <a id="claim-t-181845"></a>
 - t-189
   global_id: t-181845
-  teiginys: '1392 m. Vytautas, nors dokumentuose tai neminima, turėjo gauti ir Vilnių.'
+  teiginys: "1392 m. Vytautas, nors dokumentuose tai neminima, turėjo gauti ir Vilnių."
   pagrindžia:
-    - c-003
+    - c-05679
 
 <a id="claim-t-181846"></a>
 - t-190
   global_id: t-181846
-  teiginys: '1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
+  teiginys: "1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus."
   pagrindžia:
-    - c-050
+    - c-165193
 
 <a id="claim-t-181847"></a>
 - t-191
   global_id: t-181847
-  teiginys: 'Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu.'
+  teiginys: "Nuo XIX a. Vilniaus įkūrimo legenda siejo miesto pradžią su Pilies kalno medžiokle ir Gedimino Geležinio vilko sapnu."
   pagrindžia:
-    - c-002
+    - c-05677
 
 <a id="claim-t-181848"></a>
 - t-192
   global_id: t-181848
-  teiginys: 'Balińskis teigė, kad Vitas negalėjo būti Vilniaus vyskupas, nes jo laikais apie Vilnių dar nebuvo girdėti.'
+  teiginys: "Balińskis teigė, kad Vitas negalėjo būti Vilniaus vyskupas, nes jo laikais apie Vilnių dar nebuvo girdėti."
   pagrindžia:
-    - c-175
+    - c-165358
 
 <a id="claim-t-181849"></a>
 - t-193
   global_id: t-181849
-  teiginys: 'Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną.'
+  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
   pagrindžia:
-    - c-020
+    - c-44015
 
 <a id="claim-t-181850"></a>
 - t-194
   global_id: t-181850
-  teiginys: 'XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų.'
+  teiginys: "XVI–XVIII a. Vilnius tapo Europos sostine ant dviejų pasaulių ribos, kurioje sugyveno dešimt konfesijų."
   pagrindžia:
-    - c-044
+    - c-165186
 
 <a id="claim-t-181851"></a>
 - t-195
   global_id: t-181851
-  teiginys: 'Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui.'
+  teiginys: "Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas, kaip ir pats Vilnius, perėjo Algirdui."
   pagrindžia:
-    - c-048
+    - c-165191
 
 <a id="claim-t-181852"></a>
 - t-196
   global_id: t-181852
-  teiginys: 'Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai.'
+  teiginys: "Į Vilnių buvo pasiųsta daug Maskvos bajorų ir pravoslavų dvasininkų, turėjusių šnipinėti ir teikti žinias Maskvai."
   pagrindžia:
-    - c-023
+    - c-46803
 
 <a id="claim-t-181853"></a>
 - t-197
   global_id: t-181853
-  teiginys: '1832 m. nutarta uždaryti Vilniaus universitetą, kurį uždarymo iniciatoriai vadino „Lietuvos laisvamanybės lizdu“.'
+  teiginys: "1832 m. nutarta uždaryti Vilniaus universitetą, kurį uždarymo iniciatoriai vadino „Lietuvos laisvamanybės lizdu“."
   pagrindžia:
-    - c-234
+    - c-165433
 
 <a id="claim-t-181855"></a>
 - t-198
   global_id: t-181855
-  teiginys: 'Vietovė, kurioje yra Vilnius, Islandijos keliautojų pasakojimuose minima jau XII a., o XIII a. viduryje joje būta medinių namų gyvenvietės.'
+  teiginys: "Vietovė, kurioje yra Vilnius, Islandijos keliautojų pasakojimuose minima jau XII a., o XIII a. viduryje joje būta medinių namų gyvenvietės."
   pagrindžia:
-    - c-173
+    - c-165356
 
 <a id="claim-t-181856"></a>
 - t-199
   global_id: t-181856
-  teiginys: 'Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.'
+  teiginys: "Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius."
   pagrindžia:
-    - c-067
+    - c-165217
 
 <a id="claim-t-181857"></a>
 - t-200
   global_id: t-181857
-  teiginys: 'Kęstutis, susitaręs su Algirdu, 1344-1345 m. žiemą užėmė Vilnių ir suėmė Jaunutį.'
+  teiginys: "Kęstutis, susitaręs su Algirdu, 1344-1345 m. žiemą užėmė Vilnių ir suėmė Jaunutį."
   pagrindžia:
-    - c-079
+    - c-165233
 
 <a id="claim-t-181858"></a>
 - t-201
   global_id: t-181858
-  teiginys: '1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu.'
+  teiginys: "1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu."
   pagrindžia:
-    - c-186
+    - c-165372
 
 <a id="claim-t-181859"></a>
 - t-202
   global_id: t-181859
-  teiginys: '1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.'
+  teiginys: "1387 m. pradžioje Jogaila atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus."
   pagrindžia:
-    - c-212
+    - c-165403
 
 <a id="claim-t-181860"></a>
 - t-203
   global_id: t-181860
-  teiginys: 'Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto.'
+  teiginys: "Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto."
   pagrindžia:
-    - c-061
+    - c-165206
 
 <a id="claim-t-181861"></a>
 - t-204
   global_id: t-181861
-  teiginys: 'Vilniaus istorija, anot šaltinio, prasideda 1321 m., kai Gediminas tapo Lietuvos ir Rusios valdovu.'
+  teiginys: "Vilniaus istorija, anot šaltinio, prasideda 1321 m., kai Gediminas tapo Lietuvos ir Rusios valdovu."
   pagrindžia:
-    - c-195
+    - c-165381
 
 <a id="claim-t-181862"></a>
 - t-205
   global_id: t-181862
-  teiginys: 'Po Varšuvos seimo Vilniuje buvo sušauktas vien Lietuvos seimas, kuriame susitarta dėl tolesnių karo veiksmų.'
+  teiginys: "Po Varšuvos seimo Vilniuje buvo sušauktas vien Lietuvos seimas, kuriame susitarta dėl tolesnių karo veiksmų."
   pagrindžia:
-    - c-028
+    - c-46813
 
 <a id="claim-t-181863"></a>
 - t-206
   global_id: t-181863
-  teiginys: '1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.'
+  teiginys: "1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą."
   pagrindžia:
-    - c-096
+    - c-165252
 
 <a id="claim-t-181864"></a>
 - t-207
   global_id: t-181864
-  teiginys: '1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną.'
+  teiginys: "1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną."
   pagrindžia:
-    - c-187
+    - c-165373
 
 <a id="claim-t-181865"></a>
 - t-208
   global_id: t-181865
-  teiginys: 'Į Vilnių iš Liublino seimo atvykęs karalius ėmėsi reikalų su totoriais.'
+  teiginys: "Į Vilnių iš Liublino seimo atvykęs karalius ėmėsi reikalų su totoriais."
   pagrindžia:
-    - c-147
+    - c-165320
 
 <a id="claim-t-181866"></a>
 - t-209
   global_id: t-181866
-  teiginys: 'Lenkijos valia vykusiuose rinkimuose Liucijano Želigovskio užimtoje Vidurinėje Lietuvoje su Vilniumi balsuota už prijungimą prie Lenkijos.'
+  teiginys: "Lenkijos valia vykusiuose rinkimuose Liucijano Želigovskio užimtoje Vidurinėje Lietuvoje su Vilniumi balsuota už prijungimą prie Lenkijos."
   pagrindžia:
-    - c-183
+    - c-165368
 
 <a id="claim-t-181867"></a>
 - t-210
   global_id: t-181867
-  teiginys: 'Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų.'
+  teiginys: "Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų."
   pagrindžia:
-    - c-082
+    - c-165236
 
 <a id="claim-t-181868"></a>
 - t-211
   global_id: t-181868
-  teiginys: 'XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.'
+  teiginys: "XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui."
   pagrindžia:
-    - c-150
+    - c-165324
 
 <a id="claim-t-181869"></a>
 - t-212
   global_id: t-181869
-  teiginys: '1569 m. Vilniuje vyskupo kvietimu pasirodę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.'
+  teiginys: "1569 m. Vilniuje vyskupo kvietimu pasirodę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą."
   pagrindžia:
-    - c-226
+    - c-165424
 
 <a id="claim-t-181870"></a>
 - t-213
   global_id: t-181870
-  teiginys: '1323 m. Gediminas perkėlė Lietuvos sostinę iš Trakų į Vilnių.'
+  teiginys: "1323 m. Gediminas perkėlė Lietuvos sostinę iš Trakų į Vilnių."
   pagrindžia:
-    - c-051
+    - c-165194
 
 <a id="claim-t-181871"></a>
 - t-214
   global_id: t-181871
-  teiginys: 'Sovietmečiu rusakalbiai lengviau kėlėsi į Vilnių, kur vyravo jiems sava rusakalbė aplinka, nei į mažai žinomus LSSR pramonės miestus.'
+  teiginys: "Sovietmečiu rusakalbiai lengviau kėlėsi į Vilnių, kur vyravo jiems sava rusakalbė aplinka, nei į mažai žinomus LSSR pramonės miestus."
   pagrindžia:
-    - c-076
+    - c-165230
 
 <a id="claim-t-181872"></a>
 - t-215
   global_id: t-181872
-  teiginys: 'Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.'
+  teiginys: "Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių."
   pagrindžia:
-    - c-043
+    - c-165183
 
 <a id="claim-t-181873"></a>
 - t-216
   global_id: t-181873
-  teiginys: 'Po Lietuvos krikšto LDK buvo suformuota Vilniaus vyskupija, viena iš keturių katalikų vyskupijų.'
+  teiginys: "Po Lietuvos krikšto LDK buvo suformuota Vilniaus vyskupija, viena iš keturių katalikų vyskupijų."
   pagrindžia:
-    - c-111
+    - c-165269
 
 <a id="claim-t-181874"></a>
 - t-217
   global_id: t-181874
-  teiginys: '1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės.'
+  teiginys: "1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės."
   pagrindžia:
-    - c-132
+    - c-165297
 
 <a id="claim-t-181875"></a>
 - t-218
   global_id: t-181875
-  teiginys: 'Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.'
+  teiginys: "Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis."
   pagrindžia:
-    - c-227
+    - c-165425
 
 <a id="claim-t-181876"></a>
 - t-219
   global_id: t-181876
-  teiginys: 'Vilniaus ir Klaipėdos problemos buvo laikomos svarbiausiomis Lietuvos užsienio politikos problemomis.'
+  teiginys: "Vilniaus ir Klaipėdos problemos buvo laikomos svarbiausiomis Lietuvos užsienio politikos problemomis."
   pagrindžia:
-    - c-248
+    - c-165453
 
 <a id="claim-t-181877"></a>
 - t-220
   global_id: t-181877
-  teiginys: 'XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale.'
+  teiginys: "XVI–XVIII a. Vilnius buvo Europos sostinė, kurioje sugyveno dešimt konfesijų, o žydų pasaulyje jis vadintas Vilniaus Gaono miestu ir Šiaurės Jeruzale."
   pagrindžia:
-    - c-044
+    - c-165186
 
 <a id="claim-t-181878"></a>
 - t-221
   global_id: t-181878
-  teiginys: 'Į Vilnių atvykus Žygimantui, Glogovo kunigaikščiui iš Silezijos, šalis išvengė grėsusio pilietinio karo.'
+  teiginys: "Į Vilnių atvykus Žygimantui, Glogovo kunigaikščiui iš Silezijos, šalis išvengė grėsusio pilietinio karo."
   pagrindžia:
-    - c-090
+    - c-165245
 
 <a id="claim-t-181879"></a>
 - t-222
   global_id: t-181879
-  teiginys: 'Jėzuitų švietimo sistemos viršūne tapo 1579 m. įkurtas Vilniaus universitetas.'
+  teiginys: "Jėzuitų švietimo sistemos viršūne tapo 1579 m. įkurtas Vilniaus universitetas."
   pagrindžia:
-    - c-119
+    - c-165278
+
+<a id="claim-t-181880"></a>
+- t-223
+  global_id: t-181880
+  teiginys: "1655 m. liepą rusai ir jų sąjungininkai kazokai, sumušę lietuvius prie Ašmenos, priartėjo prie Vilniaus."
+  pagrindžia:
+    - c-44008
+
+<a id="claim-t-181881"></a>
+- t-224
+  global_id: t-181881
+  teiginys: "Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis."
+  pagrindžia:
+    - c-44003
 
 <a id="claim-t-181882"></a>
 - t-225
   global_id: t-181882
-  teiginys: 'Vietovė, kurioje dabar yra Vilnius, Islandijos keliautojų pasakojimuose minima jau XII a., o XIII a. viduryje ten būta medinių namų gyvenvietės.'
+  teiginys: "Vietovė, kurioje dabar yra Vilnius, Islandijos keliautojų pasakojimuose minima jau XII a., o XIII a. viduryje ten būta medinių namų gyvenvietės."
   pagrindžia:
-    - c-173
+    - c-165356
 
 <a id="claim-t-181883"></a>
 - t-226
   global_id: t-181883
-  teiginys: 'Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.'
+  teiginys: "Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d."
   pagrindžia:
-    - c-177
+    - c-165361
 
 <a id="claim-t-181884"></a>
 - t-227
   global_id: t-181884
-  teiginys: '1396 m. Vilniuje pilies kalno nuošliaužos užslinko ant vaivados Manvydo rūmų, bet Aukštutinės pilies mūrai nenukentėjo.'
+  teiginys: "1396 m. Vilniuje pilies kalno nuošliaužos užslinko ant vaivados Manvydo rūmų, bet Aukštutinės pilies mūrai nenukentėjo."
   pagrindžia:
-    - c-205
+    - c-165394
 
 <a id="claim-t-181885"></a>
 - t-228
   global_id: t-181885
-  teiginys: '1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus.'
+  teiginys: "1382 m. birželio 12 d. į Vilnių atvykusiam Jogailai Hanulis įteikė pilies raktus."
   pagrindžia:
-    - c-009
+    - c-32538
 
 <a id="claim-t-181886"></a>
 - t-229
   global_id: t-181886
-  teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių.'
+  teiginys: "1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių."
   pagrindžia:
-    - c-170
+    - c-165353
 
 <a id="claim-t-181887"></a>
 - t-230
   global_id: t-181887
-  teiginys: '1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės.'
+  teiginys: "1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės."
   pagrindžia:
-    - c-108
+    - c-165266
 
 <a id="claim-t-181888"></a>
 - t-231
   global_id: t-181888
-  teiginys: 'Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę.'
+  teiginys: "Gedimino rūpesčiu Vilnius iškilo iš mažareikšmės gyvenvietės į galingos valstybės sostinę."
   pagrindžia:
-    - c-063
+    - c-165209
 
 <a id="claim-t-181889"></a>
 - t-232
   global_id: t-181889
-  teiginys: 'Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai.'
+  teiginys: "Vilniaus pilininkas ir miestiečiai naktį sumušė Kęstučio įgulą ir Žemutinę bei Aukštutinę pilis atidavė Jogailai."
   pagrindžia:
-    - c-144
+    - c-165316
 
 <a id="claim-t-181890"></a>
 - t-233
   global_id: t-181890
-  teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
+  teiginys: "Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad geografinis Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus."
   pagrindžia:
-    - c-124
+    - c-165286
 
 <a id="claim-t-181891"></a>
 - t-234
   global_id: t-181891
-  teiginys: 'Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams.'
+  teiginys: "Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams."
   pagrindžia:
-    - c-065
+    - c-165212
 
 <a id="claim-t-181892"></a>
 - t-235
   global_id: t-181892
-  teiginys: '1506 m. totoriams nusitaikius į Vilnių, miestiečiai apjuosė miestą mūro pylimu.'
+  teiginys: "1506 m. totoriams nusitaikius į Vilnių, miestiečiai apjuosė miestą mūro pylimu."
   pagrindžia:
-    - c-037
+    - c-165176
 
 <a id="claim-t-181894"></a>
 - t-236
   global_id: t-181894
-  teiginys: '1941 m. liepą Heinrichas Himmleris perdavė Vilniuje veikusiai einzatsgrupei B nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.'
+  teiginys: "1941 m. liepą Heinrichas Himmleris perdavė Vilniuje veikusiai einzatsgrupei B nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus."
   pagrindžia:
-    - c-236
+    - c-165435
 
 <a id="claim-t-181895"></a>
 - t-237
   global_id: t-181895
-  teiginys: '1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas.'
+  teiginys: "1382 m. birželio 12 d. Vilniuje miesčionys užėmė pilį ir išmušė Kęstučio sargybas."
   pagrindžia:
-    - c-004
+    - c-14891
 
 <a id="claim-t-181896"></a>
 - t-238
   global_id: t-181896
-  teiginys: 'Gedimino valdymo laikais Vilnius ėmė darytis svarbiu prekybos centru.'
+  teiginys: "Gedimino valdymo laikais Vilnius ėmė darytis svarbiu prekybos centru."
   pagrindžia:
-    - c-035
+    - c-165174
 
 <a id="claim-t-181897"></a>
 - t-239
   global_id: t-181897
-  teiginys: 'Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę.'
+  teiginys: "Napoleonas leido Vilniuje įkurti jo pareigūnų prižiūrimą Laikinąją LDK vyriausybę."
   pagrindžia:
-    - c-244
+    - c-165447
 
 <a id="claim-t-181898"></a>
 - t-240
   global_id: t-181898
-  teiginys: 'Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai.'
+  teiginys: "Gedimino rūpesčiu iškilusiame Vilniuje buvo prigiję feodalinio valdymo principai."
   pagrindžia:
-    - c-063
+    - c-165209
 
 <a id="claim-t-181899"></a>
 - t-241
   global_id: t-181899
-  teiginys: '1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų.'
+  teiginys: "1377 m. birželio pabaigoje Ordino pajėgos puolė Vilnių, o padegtas miestas neteko dviejų trečdalių namų."
   pagrindžia:
-    - c-159
+    - c-165336
 
 <a id="claim-t-181901"></a>
 - t-242
   global_id: t-181901
-  teiginys: '1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija.'
+  teiginys: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, kuria buvo įsteigiama ir aprūpinama vyskupo institucija."
   pagrindžia:
-    - c-117
+    - c-165275
 
 <a id="claim-t-181902"></a>
 - t-243
   global_id: t-181902
-  teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
+  teiginys: "Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių."
   pagrindžia:
-    - c-078
+    - c-165232
+
+<a id="claim-t-181849"></a>
+- t-244
+  global_id: t-181849
+  teiginys: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus ir Aukštadvarį ir pasiekė Jiezną."
+  pagrindžia:
+    - c-44015
 
 <a id="claim-t-181904"></a>
 - t-245
   global_id: t-181904
-  teiginys: 'Vytautui nepavyko įveikti Vilniaus, nes mieste jis neturėjo palaikytojų.'
+  teiginys: "Vytautui nepavyko įveikti Vilniaus, nes mieste jis neturėjo palaikytojų."
   pagrindžia:
-    - c-134
+    - c-165301
 
 <a id="claim-t-181905"></a>
 - t-246
   global_id: t-181905
-  teiginys: 'Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją, o vėliau dalis vietinių dailininkų įsteigė Vilniaus dailės draugiją.'
+  teiginys: "Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją, o vėliau dalis vietinių dailininkų įsteigė Vilniaus dailės draugiją."
   pagrindžia:
-    - c-197
+    - c-165384
 
 <a id="claim-t-181906"></a>
 - t-247
   global_id: t-181906
-  teiginys: '1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas.'
+  teiginys: "1382 m. birželio 12 d. Vilniaus miesčionys užėmė pilį ir išmušė Kęstučio sargybas."
   pagrindžia:
-    - c-004
+    - c-14891
 
 <a id="claim-t-181907"></a>
 - t-248
   global_id: t-181907
-  teiginys: 'Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.'
+  teiginys: "Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas."
   pagrindžia:
-    - c-083
+    - c-165237
 
 <a id="claim-t-181908"></a>
 - t-249
   global_id: t-181908
-  teiginys: 'Per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai, o lenkų Vilniuje liko 20 procentų.'
+  teiginys: "Per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai, o lenkų Vilniuje liko 20 procentų."
   pagrindžia:
-    - c-064
+    - c-165211
 
 <a id="claim-t-181909"></a>
 - t-250
   global_id: t-181909
-  teiginys: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje.'
+  teiginys: "1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje."
   pagrindžia:
-    - c-060
+    - c-165205
 
 <a id="claim-t-181910"></a>
 - t-251
   global_id: t-181910
-  teiginys: '1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.'
+  teiginys: "1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius."
   pagrindžia:
-    - c-115
+    - c-165273
 
 <a id="claim-t-181911"></a>
 - t-252
   global_id: t-181911
-  teiginys: 'Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.'
+  teiginys: "Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai."
   pagrindžia:
-    - c-203
+    - c-165392
 
 <a id="claim-t-181912"></a>
 - t-253
   global_id: t-181912
-  teiginys: 'Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis.'
+  teiginys: "Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradėjo liuteronas Abraomas Kulvietis."
   pagrindžia:
-    - c-191
+    - c-165377
 
 <a id="claim-t-181914"></a>
 - t-254
   global_id: t-181914
-  teiginys: 'Pranciškus Skorina 1522 m. įkūrė spaustuvę Vilniuje.'
+  teiginys: "Pranciškus Skorina 1522 m. įkūrė spaustuvę Vilniuje."
   pagrindžia:
-    - c-110
+    - c-165268
 
 <a id="claim-t-181915"></a>
 - t-255
   global_id: t-181915
-  teiginys: 'Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto.'
+  teiginys: "Sapiegas persekiojęs respublikonų kariuomenės dalinys įžengė į Vilnių, kai Sapiegos jau buvo išvykę iš miesto."
   pagrindžia:
-    - c-016
+    - c-44010
 
 <a id="claim-t-181916"></a>
 - t-256
   global_id: t-181916
-  teiginys: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Komunistų partijos veiklai.'
+  teiginys: "1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Komunistų partijos veiklai."
   pagrindžia:
-    - c-143
+    - c-165315
 
 <a id="claim-t-181917"></a>
 - t-257
   global_id: t-181917
-  teiginys: 'Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  teiginys: "Lietuvos metraštis nurodo, kad rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
   pagrindžia:
-    - c-216
+    - c-165410
 
 <a id="claim-t-181918"></a>
 - t-258
   global_id: t-181918
-  teiginys: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
+  teiginys: "1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose."
   pagrindžia:
-    - c-161
+    - c-165340
+
+<a id="claim-t-181919"></a>
+- t-259
+  global_id: t-181919
+  teiginys: "Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui."
+  pagrindžia:
+    - c-165222
 
 <a id="claim-t-181920"></a>
 - t-260
   global_id: t-181920
-  teiginys: 'XIX a. pradžioje Vilniuje veikė kelios masonų ložės.'
+  teiginys: "XIX a. pradžioje Vilniuje veikė kelios masonų ložės."
   pagrindžia:
-    - c-204
+    - c-165393
 
 <a id="claim-t-181921"></a>
 - t-261
   global_id: t-181921
-  teiginys: '1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų.'
+  teiginys: "1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų."
   pagrindžia:
-    - c-017
+    - c-44012
 
 <a id="claim-t-181922"></a>
 - t-262
   global_id: t-181922
-  teiginys: 'Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla.'
+  teiginys: "Rengiant 1579 m. karo žygį Vilniuje buvo įsteigta patrankų liejykla."
   pagrindžia:
-    - c-027
+    - c-46812
 
 <a id="claim-t-181923"></a>
 - t-263
   global_id: t-181923
-  teiginys: 'Sapiegų etmonas, iždininkas ir maršalas vakare pasiekė Vilnių ir svarbiausias rūmų vertybes suvežė į dominikonų vienuolyną.'
+  teiginys: "Sapiegų etmonas, iždininkas ir maršalas vakare pasiekė Vilnių ir svarbiausias rūmų vertybes suvežė į dominikonų vienuolyną."
   pagrindžia:
-    - c-016
+    - c-44010
 
 <a id="claim-t-181925"></a>
 - t-264
   global_id: t-181925
-  teiginys: 'Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.'
+  teiginys: "Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius."
   pagrindžia:
-    - c-185
+    - c-165371
+
+<a id="claim-t-181926"></a>
+- t-265
+  global_id: t-181926
+  teiginys: "V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje."
+  pagrindžia:
+    - c-165414
 
 <a id="claim-t-181927"></a>
 - t-266
   global_id: t-181927
-  teiginys: 'Jogailos šalininkai užėmė Vytauto saugotą Vilniaus pilį, išžudę Kęstučio sargybas.'
+  teiginys: "Jogailos šalininkai užėmė Vytauto saugotą Vilniaus pilį, išžudę Kęstučio sargybas."
   pagrindžia:
-    - c-068
+    - c-165218
+
+<a id="claim-t-181858"></a>
+- t-267
+  global_id: t-181858
+  teiginys: "1323 m. gegužės 26 d. Vilniuje rašytuose laiškuose Gediminas vadino Vilnių savo karališkuoju miestu."
+  pagrindžia:
+    - c-165372
 
 <a id="claim-t-181929"></a>
 - t-268
   global_id: t-181929
-  teiginys: 'Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių.'
+  teiginys: "Vėliausiai 1322 m. Gediminas jau buvo perkėlęs savo sostinę į Vilnių."
   pagrindžia:
-    - c-002
+    - c-05677
 
 <a id="claim-t-181931"></a>
 - t-269
   global_id: t-181931
-  teiginys: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.'
+  teiginys: "Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį."
   pagrindžia:
-    - c-178
+    - c-165363
 
 <a id="claim-t-181932"></a>
 - t-270
   global_id: t-181932
-  teiginys: 'Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu.'
+  teiginys: "Vilniaus sostinės įkūrimo legenda siejama su Gedimino medžiokle ir Lizdeikos išaiškintu sapnu."
   pagrindžia:
-    - c-001
+    - c-05676
 
 <a id="claim-t-181933"></a>
 - t-271
   global_id: t-181933
-  teiginys: 'Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai.'
+  teiginys: "Su kunigaikštiene Elena į Vilnių buvo pasiųsta Maskvos bajorų ir pravoslavų dvasininkų šnipinėti Maskvai."
   pagrindžia:
-    - c-023
+    - c-46803
 
 <a id="claim-t-181934"></a>
 - t-272
   global_id: t-181934
-  teiginys: 'Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.'
+  teiginys: "Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų."
   pagrindžia:
-    - c-013
+    - c-37823
 
 <a id="claim-t-181935"></a>
 - t-273
   global_id: t-181935
-  teiginys: 'Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje.'
+  teiginys: "Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje."
   pagrindžia:
-    - c-130
+    - c-165294
 
 <a id="claim-t-181936"></a>
 - t-274
   global_id: t-181936
-  teiginys: 'Po 1604 m. kanonizacijos šv. Kazimieras tapo svarbiausiu Lietuvos ir Vilniaus globėju.'
+  teiginys: "Po 1604 m. kanonizacijos šv. Kazimieras tapo svarbiausiu Lietuvos ir Vilniaus globėju."
   pagrindžia:
-    - c-162
+    - c-165342
 
 <a id="claim-t-181937"></a>
 - t-275
   global_id: t-181937
-  teiginys: 'Lietuvą vienu metu valdė du didieji kunigaikščiai: Algirdas Vilniuje, o Kęstutis Trakuose.'
+  teiginys: "Lietuvą vienu metu valdė du didieji kunigaikščiai: Algirdas Vilniuje, o Kęstutis Trakuose."
   pagrindžia:
-    - c-013
+    - c-37823
 
 <a id="claim-t-181938"></a>
 - t-276
   global_id: t-181938
-  teiginys: 'Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują.'
+  teiginys: "Sapiegų etmonas, iždininkas ir maršalas po nakvynės Vilniuje iš tikrųjų pasitraukė į Kuršą, Bauskę ir Mintaują."
   pagrindžia:
-    - c-016
+    - c-44010
 
 <a id="claim-t-181939"></a>
 - t-277
   global_id: t-181939
-  teiginys: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
+  teiginys: "Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje."
   pagrindžia:
-    - c-086
+    - c-165241
 
 <a id="claim-t-181940"></a>
 - t-278
   global_id: t-181940
-  teiginys: 'Vilnius tuomet turėjo apie 25 tūkst. gyventojų ir buvo trečias pagal dydį Rusijos imperijos miestas.'
+  teiginys: "Vilnius tuomet turėjo apie 25 tūkst. gyventojų ir buvo trečias pagal dydį Rusijos imperijos miestas."
   pagrindžia:
-    - c-224
+    - c-165422
 
 <a id="claim-t-181941"></a>
 - t-279
   global_id: t-181941
-  teiginys: '1812 m. rugsėjo 22 d. Michałas Balińskis įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą.'
+  teiginys: "1812 m. rugsėjo 22 d. Michałas Balińskis įstojo į Vilniaus universiteto Fizikos ir matematinių mokslų fakultetą."
   pagrindžia:
-    - c-252
+    - c-165457
 
 <a id="claim-t-181942"></a>
 - t-280
   global_id: t-181942
-  teiginys: 'Ankstyvasis Vilnius, anot šaltinio, labiau priminė kelis sujungtus didelius kaimus negu mūro sienų ir bokštų saugomą miestą.'
+  teiginys: "Ankstyvasis Vilnius, anot šaltinio, labiau priminė kelis sujungtus didelius kaimus negu mūro sienų ir bokštų saugomą miestą."
   pagrindžia:
-    - c-084
+    - c-165238
 
 <a id="claim-t-181943"></a>
 - t-281
   global_id: t-181943
-  teiginys: '1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
+  teiginys: "1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą."
   pagrindžia:
-    - c-208
+    - c-165397
 
 <a id="claim-t-181945"></a>
 - t-282
   global_id: t-181945
-  teiginys: 'Vilniaus prekyba su Juodosios jūros uostais prisidėjo prie miesto klestėjimo Vytauto laikais.'
+  teiginys: "Vilniaus prekyba su Juodosios jūros uostais prisidėjo prie miesto klestėjimo Vytauto laikais."
   pagrindžia:
-    - c-189
+    - c-165375
 
 <a id="claim-t-181946"></a>
 - t-283
   global_id: t-181946
-  teiginys: 'Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys.'
+  teiginys: "Nuo XIV amžiaus pirmos pusės Vilnius ir Kremlius pateikiami kaip Lietuvos ir Maskvos dinastinio antagonizmo ašys."
   pagrindžia:
-    - c-250
+    - c-165455
 
 <a id="claim-t-181947"></a>
 - t-284
   global_id: t-181947
-  teiginys: 'Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą.'
+  teiginys: "Netekusi Vilniaus, Lietuva atsisuko į Mažąją Lietuvą."
   pagrindžia:
-    - c-146
+    - c-165319
 
 <a id="claim-t-181948"></a>
 - t-285
   global_id: t-181948
-  teiginys: 'Slaptas sutarties papildymas leido raudoniesiems 1920 m. liepos 14 d. okupuoti Vilnių ir per miestą permesti kariuomenę į lenkų frontą.'
+  teiginys: "Slaptas sutarties papildymas leido raudoniesiems 1920 m. liepos 14 d. okupuoti Vilnių ir per miestą permesti kariuomenę į lenkų frontą."
   pagrindžia:
-    - c-246
+    - c-165449
 
 <a id="claim-t-181949"></a>
 - t-286
   global_id: t-181949
-  teiginys: 'Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.'
+  teiginys: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrindinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
   pagrindžia:
-    - c-181
+    - c-165366
 
 <a id="claim-t-181950"></a>
 - t-287
   global_id: t-181950
-  teiginys: 'Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi.'
+  teiginys: "Pirmasis autentiškas Vilniaus kaip miesto ir Gedimino sostinės paliudijimas siejamas su 1323 m. spalio 2 d. Vilniuje pasirašyta sutartimi."
   pagrindžia:
-    - c-047
+    - c-165190
 
 <a id="claim-t-181951"></a>
 - t-288
   global_id: t-181951
-  teiginys: 'Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.'
+  teiginys: "Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo."
   pagrindžia:
-    - c-091
+    - c-165246
 
 <a id="claim-t-181952"></a>
 - t-289
   global_id: t-181952
-  teiginys: '1392 m. Vytautas turėjo gauti ir Vilnių, nors dokumentuose tai nepaminėta.'
+  teiginys: "1392 m. Vytautas turėjo gauti ir Vilnių, nors dokumentuose tai nepaminėta."
   pagrindžia:
-    - c-003
+    - c-05679
 
 <a id="claim-t-181954"></a>
 - t-290
   global_id: t-181954
-  teiginys: 'Vilnius dėl palankios gamtos aplinkos galėjo būti priskiriamas prie seniausių Lietuvos tvirtovių.'
+  teiginys: "Vilnius dėl palankios gamtos aplinkos galėjo būti priskiriamas prie seniausių Lietuvos tvirtovių."
   pagrindžia:
-    - c-179
+    - c-165364
+
+<a id="claim-t-183815"></a>
+- t-291
+  global_id: t-183815
+  teiginys: "Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje."
+  pagrindžia:
+    - c-167200
+
+<a id="claim-t-183876"></a>
+- t-292
+  global_id: t-183876
+  teiginys: "Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine."
+  pagrindžia:
+    - c-167261
+
+<a id="claim-t-183877"></a>
+- t-293
+  global_id: t-183877
+  teiginys: "Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį."
+  pagrindžia:
+    - c-167262
 
 <a id="claim-t-185179"></a>
 - t-294
   global_id: t-185179
-  teiginys: 'Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno.'
+  teiginys: "Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno."
   pagrindžia:
-    - c-259
+    - c-168540
 
 <a id="claim-t-185180"></a>
 - t-295
   global_id: t-185180
-  teiginys: 'Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.'
+  teiginys: "Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą."
   pagrindžia:
-    - c-260
+    - c-168541
 
 <a id="claim-t-185181"></a>
 - t-296
   global_id: t-185181
-  teiginys: 'Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą.'
+  teiginys: "Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą."
   pagrindžia:
-    - c-261
+    - c-168542
 
 <a id="claim-t-185182"></a>
 - t-297
   global_id: t-185182
-  teiginys: 'Kojelavičius Vilnių vadino garsiausiu iš visų sarmatų miestų ir valdovų, teismų, mokslo, prekybos bei bažnytinio gyvenimo centru.'
+  teiginys: "Kojelavičius Vilnių vadino garsiausiu iš visų sarmatų miestų ir valdovų, teismų, mokslo, prekybos bei bažnytinio gyvenimo centru."
   pagrindžia:
-    - c-262
+    - c-168543
 
 <a id="claim-t-185183"></a>
 - t-298
   global_id: t-185183
-  teiginys: 'Maskvos pasiuntinys grasino, kad per Velykas Maskvos valdovas kaip nugalėtojas įžengs į Vilnių.'
+  teiginys: "Maskvos pasiuntinys grasino, kad per Velykas Maskvos valdovas kaip nugalėtojas įžengs į Vilnių."
   pagrindžia:
-    - c-263
+    - c-168544
 
 <a id="claim-t-185184"></a>
 - t-299
   global_id: t-185184
-  teiginys: 'Vilniaus vaivada Petras Goštautas pakvietė į Vilnių švento Pranciškaus ordino vienuolių ir juos įkurdino būsimos Šv. Kryžiaus bažnyčios vietoje.'
+  teiginys: "Vilniaus vaivada Petras Goštautas pakvietė į Vilnių švento Pranciškaus ordino vienuolių ir juos įkurdino būsimos Šv. Kryžiaus bažnyčios vietoje."
   pagrindžia:
-    - c-264
+    - c-168545
 
 <a id="claim-t-185185"></a>
 - t-300
   global_id: t-185185
-  teiginys: 'Jogaila, gavęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus.'
+  teiginys: "Jogaila, gavęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus."
   pagrindžia:
-    - c-265
+    - c-168546
 
 <a id="claim-t-185186"></a>
 - t-301
   global_id: t-185186
-  teiginys: 'Jogaila siūlė Kęstučiui ir Vytautui vykti į Vilnių, ten pailsėti, papuotauti ir kitą dieną baigti derybas.'
+  teiginys: "Jogaila siūlė Kęstučiui ir Vytautui vykti į Vilnių, ten pailsėti, papuotauti ir kitą dieną baigti derybas."
   pagrindžia:
-    - c-266
+    - c-168547
 
 <a id="claim-t-185187"></a>
 - t-302
   global_id: t-185187
-  teiginys: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
+  teiginys: "Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje."
   pagrindžia:
-    - c-267
+    - c-168548
 
 <a id="claim-t-185188"></a>
 - t-303
   global_id: t-185188
-  teiginys: 'Vytautas, išsiuntęs žygūną Olesnickiui pranešti apie atvykimą, patraukė tiesiai į Vilnių.'
+  teiginys: "Vytautas, išsiuntęs žygūną Olesnickiui pranešti apie atvykimą, patraukė tiesiai į Vilnių."
   pagrindžia:
-    - c-268
+    - c-168549
 
 <a id="claim-t-185189"></a>
 - t-304
   global_id: t-185189
-  teiginys: 'Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių.'
+  teiginys: "Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių."
   pagrindžia:
-    - c-269
+    - c-168550
 
 <a id="claim-t-185190"></a>
 - t-305
   global_id: t-185190
-  teiginys: 'Prie Lietuvos sienų iškilmingai sutiktas karalius buvo palydėtas į Vilnių.'
+  teiginys: "Prie Lietuvos sienų iškilmingai sutiktas karalius buvo palydėtas į Vilnių."
   pagrindžia:
-    - c-270
+    - c-168551
 
 <a id="claim-t-185191"></a>
 - t-306
   global_id: t-185191
-  teiginys: 'Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.'
+  teiginys: "Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių."
   pagrindžia:
-    - c-271
+    - c-168552
 
 <a id="claim-t-185192"></a>
 - t-307
   global_id: t-185192
-  teiginys: 'Kazimieras, norėdamas sutvarkyti valstybės reikalus, sušaukė Vilniuje gausų seimą.'
+  teiginys: "Kazimieras, norėdamas sutvarkyti valstybės reikalus, sušaukė Vilniuje gausų seimą."
   pagrindžia:
-    - c-272
+    - c-168553
 
 <a id="claim-t-185193"></a>
 - t-308
   global_id: t-185193
-  teiginys: 'Seversko didikai Vilniuje vykusius santykius su Lietuvos didikais suprato kaip savęs niekinimą.'
+  teiginys: "Seversko didikai Vilniuje vykusius santykius su Lietuvos didikais suprato kaip savęs niekinimą."
   pagrindžia:
-    - c-273
+    - c-168554
 
 <a id="claim-t-185194"></a>
 - t-309
   global_id: t-185194
-  teiginys: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
+  teiginys: "Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių."
   pagrindžia:
-    - c-274
+    - c-168555
 
 <a id="claim-t-185196"></a>
 - t-310
   global_id: t-185196
-  teiginys: 'Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.'
+  teiginys: "Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi."
   pagrindžia:
-    - c-275
+    - c-168557
 
 <a id="claim-t-185197"></a>
 - t-311
   global_id: t-185197
-  teiginys: 'Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.'
+  teiginys: "Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę."
   pagrindžia:
-    - c-276
+    - c-168558
 
 <a id="claim-t-185198"></a>
 - t-312
   global_id: t-185198
-  teiginys: 'Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.'
+  teiginys: "Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą."
   pagrindžia:
-    - c-277
+    - c-168559
 
 <a id="claim-t-185199"></a>
 - t-313
   global_id: t-185199
-  teiginys: 'Vilniuje Viklifo pasekėjas gavo vyskupo leidimą kalbėti apie tikėjimą šv. Onos bažnyčioje ir ten laikyti pamaldas.'
+  teiginys: "Vilniuje Viklifo pasekėjas gavo vyskupo leidimą kalbėti apie tikėjimą šv. Onos bažnyčioje ir ten laikyti pamaldas."
   pagrindžia:
-    - c-278
+    - c-168560
 
 <a id="claim-t-185200"></a>
 - t-314
   global_id: t-185200
-  teiginys: 'Karalius sušaukė Vilniuje bajorų seimą, norėdamas palankiai nuteikti lietuvius Livonijos klausimu.'
+  teiginys: "Karalius sušaukė Vilniuje bajorų seimą, norėdamas palankiai nuteikti lietuvius Livonijos klausimu."
   pagrindžia:
-    - c-279
+    - c-168561
 
 <a id="claim-t-187670"></a>
 - t-315
   global_id: t-187670
-  teiginys: 'Lietuvos metraščio pasakojime Kęstutis sutartą dieną atvyko prie Vilniaus pilies, užėmė Vilnių ir išvijo Jaunutį.'
+  teiginys: "Lietuvos metraščio pasakojime Kęstutis sutartą dieną atvyko prie Vilniaus pilies, užėmė Vilnių ir išvijo Jaunutį."
   pagrindžia:
-    - c-280
+    - c-170611
 
 <a id="claim-t-187671"></a>
 - t-316
   global_id: t-187671
-  teiginys: 'Po Algirdo mirties Kęstutis pripažino Jogailą valdovu Vilniuje ir važinėjo pas jį tartis dėl reikalų.'
+  teiginys: "Po Algirdo mirties Kęstutis pripažino Jogailą valdovu Vilniuje ir važinėjo pas jį tartis dėl reikalų."
   pagrindžia:
-    - c-281
+    - c-170612
 
 <a id="claim-t-187672"></a>
 - t-317
   global_id: t-187672
-  teiginys: 'Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.'
+  teiginys: "Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė."
   pagrindžia:
-    - c-282
+    - c-170613
 
 <a id="claim-t-187673"></a>
 - t-318
   global_id: t-187673
-  teiginys: 'Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai.'
+  teiginys: "Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai."
   pagrindžia:
-    - c-283
+    - c-170614
 
 <a id="claim-t-187674"></a>
 - t-319
   global_id: t-187674
-  teiginys: 'Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.'
+  teiginys: "Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine."
   pagrindžia:
-    - c-284
+    - c-170615
 
 <a id="claim-t-187675"></a>
 - t-320
   global_id: t-187675
-  teiginys: 'Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.'
+  teiginys: "Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą."
   pagrindžia:
-    - c-285
+    - c-170616
 
 <a id="claim-t-187676"></a>
 - t-321
   global_id: t-187676
-  teiginys: 'Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.'
+  teiginys: "Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui."
   pagrindžia:
-    - c-286
+    - c-170617
 
 <a id="claim-t-187677"></a>
 - t-322
   global_id: t-187677
-  teiginys: 'Lietuvos metraščio pasakojime Kęstutis užėmė Vilnių ir paėmė į nelaisvę Jogailą, jo brolius bei motiną.'
+  teiginys: "Lietuvos metraščio pasakojime Kęstutis užėmė Vilnių ir paėmė į nelaisvę Jogailą, jo brolius bei motiną."
   pagrindžia:
-    - c-287
+    - c-170618
 
 <a id="claim-t-187678"></a>
 - t-323
   global_id: t-187678
-  teiginys: '1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos valdovu.'
+  teiginys: "1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos valdovu."
   pagrindžia:
-    - c-288
+    - c-170619
 
 <a id="claim-t-187679"></a>
 - t-324
   global_id: t-187679
-  teiginys: '1495 m. vasario 15 d. Maskvos kunigaikštytė Elena atvyko į Vilnių, kur tą pačią dieną Vilniaus katedroje įvyko jos jungtuvės su Aleksandru.'
+  teiginys: "1495 m. vasario 15 d. Maskvos kunigaikštytė Elena atvyko į Vilnių, kur tą pačią dieną Vilniaus katedroje įvyko jos jungtuvės su Aleksandru."
   pagrindžia:
-    - c-289
+    - c-170620
 
 <a id="claim-t-188859"></a>
 - t-325
   global_id: t-188859
-  teiginys: 'Vilniaus universitete tuo metu dėstė Joachimas Lelevelis, Ignotas Danilavičius ir Ignotas Onacevičius.'
+  teiginys: "Vilniaus universitete tuo metu dėstė Joachimas Lelevelis, Ignotas Danilavičius ir Ignotas Onacevičius."
   pagrindžia:
-    - c-290
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171748
+
 <a id="claim-t-188860"></a>
 - t-326
   global_id: t-188860
-  teiginys: 'Vilniuje spaudai buvo rengiamas XVI a. kronikininko Motiejaus Strijkovskio veikalas.'
+  teiginys: "Vilniuje spaudai buvo rengiamas XVI a. kronikininko Motiejaus Strijkovskio veikalas."
   pagrindžia:
-    - c-291
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171749
+
 <a id="claim-t-188861"></a>
 - t-327
   global_id: t-188861
-  teiginys: 'Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.'
+  teiginys: "Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti."
   pagrindžia:
-    - c-292
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171750
+
 <a id="claim-t-188862"></a>
 - t-328
   global_id: t-188862
-  teiginys: 'Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis.'
+  teiginys: "Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis."
   pagrindžia:
-    - c-293
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171751
+
 <a id="claim-t-188863"></a>
 - t-329
   global_id: t-188863
-  teiginys: 'Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.'
+  teiginys: "Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją."
   pagrindžia:
-    - c-294
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171752
+
 <a id="claim-t-188864"></a>
 - t-330
   global_id: t-188864
-  teiginys: 'Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.'
+  teiginys: "Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą."
   pagrindžia:
-    - c-295
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171753
+
 <a id="claim-t-188865"></a>
 - t-331
   global_id: t-188865
-  teiginys: 'Narbutas, remdamasis Strijkovskiu, rašė, kad Vilniuje prie Perkūno šventyklos šliužai buvo laikomi atskiroje koplyčioje.'
+  teiginys: "Narbutas, remdamasis Strijkovskiu, rašė, kad Vilniuje prie Perkūno šventyklos šliužai buvo laikomi atskiroje koplyčioje."
   pagrindžia:
-    - c-296
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171754
+
 <a id="claim-t-188866"></a>
 - t-332
   global_id: t-188866
-  teiginys: 'Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.'
+  teiginys: "Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį."
   pagrindžia:
-    - c-297
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171755
+
 <a id="claim-t-188867"></a>
 - t-333
   global_id: t-188867
-  teiginys: 'Narbutas padavimų kontekste rašė, kad XIII a. didžioji šventykla vėliau buvusi Kernavėje, o galiausiai Vilniuje.'
+  teiginys: "Narbutas padavimų kontekste rašė, kad XIII a. didžioji šventykla vėliau buvusi Kernavėje, o galiausiai Vilniuje."
   pagrindžia:
-    - c-298
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171756
+
 <a id="claim-t-188868"></a>
 - t-334
   global_id: t-188868
-  teiginys: 'Narbutas rašė, kad XVIII a. pabaigoje Vilniuje, kasant katedros pamatų duobes, žemėje rastas rūsys su panašiais dalykais.'
+  teiginys: "Narbutas rašė, kad XVIII a. pabaigoje Vilniuje, kasant katedros pamatų duobes, žemėje rastas rūsys su panašiais dalykais."
   pagrindžia:
-    - c-299
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171757
+
 <a id="claim-t-188869"></a>
 - t-335
   global_id: t-188869
-  teiginys: 'Narbutas rašė, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
+  teiginys: "Narbutas rašė, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis."
   pagrindžia:
-    - c-300
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171758
+
 <a id="claim-t-188870"></a>
 - t-336
   global_id: t-188870
-  teiginys: 'Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.'
+  teiginys: "Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos."
   pagrindžia:
-    - c-301
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171759
+
 <a id="claim-t-190657"></a>
 - t-337
   global_id: t-190657
-  teiginys: 'Narbutas rašė, kad žiniose apie Vilniaus Perkūno šventyklą minimas Nemuno žemupyje buvęs pranašas, klaustas apie jos likimą.'
+  teiginys: "Narbutas rašė, kad žiniose apie Vilniaus Perkūno šventyklą minimas Nemuno žemupyje buvęs pranašas, klaustas apie jos likimą."
   pagrindžia:
-    - c-302
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173540
+
 <a id="claim-t-190658"></a>
 - t-338
   global_id: t-190658
-  teiginys: 'Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina uždraudė paprotį, siejamą su piktnaudžiavimu stipriaisiais gėrimais.'
+  teiginys: "Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina uždraudė paprotį, siejamą su piktnaudžiavimu stipriaisiais gėrimais."
   pagrindžia:
-    - c-303
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173541
+
 <a id="claim-t-190659"></a>
 - t-339
   global_id: t-190659
-  teiginys: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
+  teiginys: "Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį."
   pagrindžia:
-    - c-304
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173542
+
 <a id="claim-t-190660"></a>
 - t-340
   global_id: t-190660
-  teiginys: 'Narbutas spėjo, kad Vilniuje kunigaikščių pelenai turėtų būti pakasti Pilies kalno rytinėje pusėje.'
+  teiginys: "Narbutas spėjo, kad Vilniuje kunigaikščių pelenai turėtų būti pakasti Pilies kalno rytinėje pusėje."
   pagrindžia:
-    - c-305
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173543
+
 <a id="claim-t-190661"></a>
 - t-341
   global_id: t-190661
-  teiginys: 'Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.'
+  teiginys: "Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių."
   pagrindžia:
-    - c-306
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173544
+
 <a id="claim-t-190662"></a>
 - t-342
   global_id: t-190662
-  teiginys: 'VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą.'
+  teiginys: "VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą."
   pagrindžia:
-    - c-307
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173545
+
 <a id="claim-t-190663"></a>
 - t-343
   global_id: t-190663
-  teiginys: 'Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.'
+  teiginys: "Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius."
   pagrindžia:
-    - c-308
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173546
+
+<a id="claim-t-192774"></a>
+- t-344
+  global_id: t-192774
+  teiginys: "Su Vilniaus universitetu buvo susiję dauguma leidinio „Wizerunki i Roztrząsania Naukowe“ literatų autorių."
+  pagrindžia:
+    - c-175544
+
+<a id="claim-t-192775"></a>
+- t-345
+  global_id: t-192775
+  teiginys: "Narbutas rašė, kad XVII amžiaus pradžioje jėzuitai prie Vilniaus esančio kaimo mokykloje pastebėjo mokinį su žalčio kultu siejamu maišeliu."
+  pagrindžia:
+    - c-175545
+
+<a id="claim-t-192776"></a>
+- t-346
+  global_id: t-192776
+  teiginys: "Algirdo privilegijos nuoraše minimas Ostapui Kropotkovui suteiktas herbas buvo datuotas Vilniuje 1354 metų rugpjūčio 7 dieną."
+  pagrindžia:
+    - c-175546
+
+<a id="claim-t-193247"></a>
+- t-347
+  global_id: t-193247
+  teiginys: "Todėl Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr."
+  pagrindžia:
+    - c-46814
+
+<a id="claim-t-193248"></a>
+- t-348
+  global_id: t-193248
+  teiginys: "Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų."
+  pagrindžia:
+    - c-175981
+
+<a id="claim-t-193249"></a>
+- t-349
+  global_id: t-193249
+  teiginys: "Čia jie pirmiausia Vilniuje įkūrė savo kolegiją, o vėliau ir akademiją."
+  pagrindžia:
+    - c-175982
+
+<a id="claim-t-193433"></a>
+- t-350
+  global_id: t-193433
+  teiginys: "Galop lenkai sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv."
+  pagrindžia:
+    - c-176155
+
+<a id="claim-t-193655"></a>
+- t-351
+  global_id: t-193655
+  teiginys: "Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų."
+  pagrindžia:
+    - c-176324
+
+<a id="claim-t-194269"></a>
+- t-352
+  global_id: t-194269
+  teiginys: "Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei."
+  pagrindžia:
+    - c-176862
+
+<a id="claim-t-194270"></a>
+- t-353
+  global_id: t-194270
+  teiginys: "Pagaliau Antakalnio vardas pirm tikriausiai buvo duotas tik tai vietovei, kurioje stovėjo pagonių šven tykla, o ne dabartiniam priemiesčiui, VILNIAUS MIESTO ISTORIJA / TOMAS Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu ma aprūkusios nuo dūmų."
+  pagrindžia:
+    - c-176863
+
+<a id="claim-t-194271"></a>
+- t-354
+  global_id: t-194271
+  teiginys: "Aktuota ir duota Vilniuje visuotiniame sei me artimiausią antradienį po Visų šventųjų dienos tūkstan tis penki šimtai penkiasdešimt pirmaisiais Viešpaties metais, o mūsų valdymo dvidešimt antraisiais."
+  pagrindžia:
+    - c-176864
+
+<a id="claim-t-194272"></a>
+- t-355
+  global_id: t-194272
+  teiginys: "Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris dešimt šeštaisiais."
+  pagrindžia:
+    - c-176865
+
+<a id="claim-t-194273"></a>
+- t-356
+  global_id: t-194273
+  teiginys: "Atlikta ir duota Vilniuje, antradie nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai siais."
+  pagrindžia:
+    - c-176866
+
+<a id="claim-t-194274"></a>
+- t-357
+  global_id: t-194274
+  teiginys: "Duo ta Vilniuje, artimiausią šeštadienį po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt ant raisiais Viešpaties metais."
+  pagrindžia:
+    - c-176867
+
+<a id="claim-t-194275"></a>
+- t-358
+  global_id: t-194275
+  teiginys: "Aktuota ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū sų rezidencijos name pirmadienį, po Velykų sekmadienio, tūkstantis penki šimtai septyniasdešimt devintaisiais metais nuo Kristaus gimimo."
+  pagrindžia:
+    - c-176868
+
+<a id="claim-t-194276"></a>
+- t-359
+  global_id: t-194276
+  teiginys: "Die 19 9 bris [lapkričio 17 dieną] Vilniuje sumokėjau 185 raud. auks."
+  pagrindžia:
+    - c-176869
+
+<a id="claim-t-194938"></a>
+- t-360
+  global_id: t-194938
+  teiginys: "Vilniuje lietuviškus pamokslus kunigai iš ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2."
+  pagrindžia:
+    - c-177334
 - susijęs iš [[objektai/asmenys/Jascha Heifetz.md#claim-t-26445|Jascha Heifetz]]: Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
 - susijęs iš [[objektai/asmenys/Jaunė (Jievna).md#claim-t-34795|Jaunė (Jievna)]]: Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.
@@ -2896,6 +3082,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
 - susijęs iš [[objektai/asmenys/Ona (Vytauto sesuo).md#claim-t-87810|Ona (Vytauto sesuo)]]: Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.
 - susijęs iš [[objektai/asmenys/Ona Lukauskaitė-Poškienė.md#claim-t-19182|Ona Lukauskaitė-Poškienė]]: Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė.
+- susijęs iš [[objektai/asmenys/Ostapas Kropotkovas.md#claim-t-191967|Ostapas Kropotkovas]]: Ostapui Kropotkovui, kaip nurodė Narbutas, 1354 m. rugpjūčio 7 d. Vilniuje už nuopelnus kare su totoriais duotas herbas ir Podbužo dvaras Voluinėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173207|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus ir saugojo juos nuo pavojų Vilniuje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173208|Petras Goštautas]]: Apie 1345 m. Petras Goštautas dėl šalies reikalų išvyko iš Vilniaus į Tikociną Palenkėje.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-173209|Petras Goštautas]]: Pasak Grzybowskio, Petras Goštautas Krokuvoje tapo pranciškonu, apsigyveno Vilniuje ir vertė miestiečius į krikščionybę.
@@ -3030,7 +3217,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Zigmantas Sierakauskas.md#claim-t-64422|Zigmantas Sierakauskas]]: Gegužės pradžioje prie Biržų Zigmantas Sierakauskas buvo sužeistas, pateko į nelaisvę ir netrukus viešai pakartas Vilniuje.
 - susijęs iš [[objektai/asmenys/Česchonis.md#claim-t-87896|Česchonis]]: Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.
 - susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186025|Šich Achmetas]]: Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras.
 - susijęs iš [[objektai/asmenys/Štagelis.md#claim-t-87935|Štagelis]]: Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.
 - susijęs iš [[objektai/asmenys/Šv. Kazimieras.md#claim-t-78017|Šv. Kazimieras]]: XVI a. pradžioje karalaitis Kazimieras buvo garbinamas Vilniaus apylinkėse.
 - susijęs iš [[objektai/asmenys/Šventasis Kazimieras.md#claim-t-87899|Šventasis Kazimieras]]: Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d.
@@ -3086,6 +3272,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/autoriai/Antanas Dambrauskas.md#claim-t-190345|Antanas Dambrauskas]]: Antanas Dambrauskas išvertė cituotą Ovidijaus „Metamorfozių“ ištrauką, naudotą pagal 1979 m. Vilniaus leidimą.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187936|Antanas Marcinovskis]]: Įvado autorė Antaną Marcinovskį apibūdina kaip Vilniaus literatą, redaktorių, spaustuvės savininką ir ryškų to meto intelektualą.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187938|Antanas Marcinovskis]]: Leidinio pastaboje Antanas Marcinovskis vadinamas Vilniaus literatu, redaktoriumi, leidėju ir T. Narbuto LTI leidėju.
+- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-190690|Antanas Marcinovskis]]: Antanas Marcinovskis buvo „Lietuvių tautos istorijos“ leidėjas, Vilniaus literatas, redaktorius ir spaustuvės savininkas.
 - susijęs iš [[objektai/autoriai/Antoni Melissanius de Macro.md#claim-t-88053|Antoni Melissanius de Macro]]: Antoni Melissanius de Macro pasakojo, kad 1333 m. Petras Goštautas į Vilnių atkvietė keturiolika pranciškonų.
 - susijęs iš [[objektai/autoriai/Anušauskas A.md#claim-t-17683|Anušauskas A]]: A. Anušauskas parašė veikalą „Teroras. 1940–1958 m.“, išleistą Vilniuje 2012 m.
 - susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78746|Arvydas Anušauskas]]: Arvydas Anušauskas gimė 1963 m. ir 1989 m. baigė Vilniaus universitetą.
@@ -3172,6 +3359,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/autoriai/P. Gudynas.md#claim-t-19459|P. Gudynas]]: P. Gudynas buvo 1976 m. Vilniuje išleisto leidinio „Lietuvos tapyba“ sudarytojas.
 - susijęs iš [[objektai/autoriai/Petras Kojelavičius.md#claim-t-88015|Petras Kojelavičius]]: Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.
 - susijęs iš [[objektai/autoriai/Petras Kojelavičius.md#claim-t-88016|Petras Kojelavičius]]: Petras Kojelavičius 1654 m. Vilniuje išleido „Elogia Episcoporum Vilnensium“.
+- susijęs iš [[objektai/autoriai/Petras Lavrovas.md#claim-t-191614|Petras Lavrovas]]: Petras Lavrovas buvo Lydos bajorų mokyklos vyresnysis mokytojas ir Vilniaus gubernijos statistikos komiteto narys.
 - susijęs iš [[objektai/autoriai/Pranciškus Malevskis.md#claim-t-55020|Pranciškus Malevskis]]: Pranciškus Malevskis Balinskio medžiagos rinkiniams parūpino gausių išrašų apie Vilnių iš Lietuvos Metrikos.
 - susijęs iš [[objektai/autoriai/Pranciškus Malevskis.md#claim-t-81962|Pranciškus Malevskis]]: Pranciškus Malevskis iš senosios Lietuvos Metrikos parūpino gausių išrašų apie Vilnių.
 - susijęs iš [[objektai/autoriai/R. Kulikauskienė.md#claim-t-97215|R. Kulikauskienė]]: R. Kulikauskienė-Volkaitė parengė 1958 m. Vilniuje išleistą straipsnių rinkinį „Lietuvos archeologiniai paminklai ir jų tyrinėjimai“.
@@ -3351,7 +3539,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179317|Lietuviai]]: Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179338|Lietuviai]]: Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/grupes/Lietuvių Dailės Draugija.md#claim-t-74623|Lietuvių Dailės Draugija]]: Lietuvių dailės draugija Vilniuje veikė dailės, vaizduojamojo meno ir architektūros draugijų paralelizmo sąlygomis.
-- susijęs iš [[objektai/grupes/Lietuvių Mokslo Draugija.md#claim-t-74628|Lietuvių Mokslo Draugija]]: Lietuvių mokslo draugija plėtojo etninių lietuvių tautinį sąjūdį po nesėkmingų pastangų atkurti Vilniaus universitetą.
 - susijęs iš [[objektai/grupes/Lietuvos Respublikos kultūros ministerija.md#claim-t-86805|Lietuvos Respublikos kultūros ministerija]]: Lietuvos Respublikos kultūros ministerija parėmė 2007 m. lietuviško leidimo „Vilniaus miesto istorija“ leidybą.
 - susijęs iš [[objektai/grupes/Lietuvos dailės muziejus.md#claim-t-19859|Lietuvos dailės muziejus]]: Lietuvos dailės muziejuje 2000 m. kovą–rugsėjį vyko paroda „Vilniaus klasicizmas“.
 - susijęs iš [[objektai/grupes/Lietuvos didikai.md#claim-t-184559|Lietuvos didikai]]: Kai žymiausieji didikai pažadėjo savo balsus, apie spalio vidurį Vilniuje buvo sušauktas luomų seimas.
@@ -3585,6 +3772,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-183203|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Šaulių sąjunga.md#claim-t-20098|Šaulių sąjunga]]: Vokietijos ir Lenkijos karo metu Šaulių sąjunga kaltino valdžią impotencija ir ragino vyriausybę jėga atsiimti Vilnių.
 - susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-188109|Šubravcų draugija]]: Šubravcų tradicijų tęsėju sumanytame leidinyje „Wizerunki i Roztrząsania Naukowe“ rašė buvę Vilniaus universiteto profesoriai, mokslininkai ir literatai.
+- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-192485|Šubravcų draugija]]: „Wizerunki i Roztrząsania Naukowe“ buvo sumanytas kaip šubravcų tradicijų tęsėjas, o leidinyje rašė 18 buvusių Vilniaus universiteto profesorių, 8 kiti mokslininkai ir 19 literatų.
 - susijęs iš [[objektai/grupes/Šv. Bazilijaus ordinas.md#claim-t-86841|Šv. Bazilijaus ordinas]]: Algirdo valdymo pradžioje Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
 - susijęs iš [[objektai/grupes/Šv. Jono brolija.md#claim-t-54836|Šv. Jono brolija]]: Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams.
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86778|Švitrigailos šalininkai]]: Švitrigailos grupuotė kartu su Žygimanto šalininkais po vidaus karo išbandymų vėl taikėsi į Vilnių.
@@ -3608,6 +3796,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/ivykiai/Algirdo žygiai į Maskvą.md#claim-t-20161|Algirdo žygiai į Maskvą]]: Algirdo pretenzijos, kad visa Rusia turėtų priklausyti lietuviams, liko neįgyvendintos, o Vilnius netapo „antruoju Kijevu“.
 - susijęs iš [[objektai/ivykiai/Altambo šventyklos pastatymas Vilniuje.md#claim-t-189618|Altambo šventyklos pastatymas Vilniuje]]: Narbutas Altambo šventyklos pastatymą Vilniuje sieja su Vilniaus tapimu sostine ir didesniu gyventojų srautu nei į Trakus.
 - susijęs iš [[objektai/ivykiai/Astravos sutartis.md#claim-t-12399|Astravos sutartis]]: Po Astravos sutarties Jogaila Vilniuje išplėtė Vytauto valdžią visose Lietuvos ir Rusijos žemėse.
+- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192025|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį.
+- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
 - susijęs iš [[objektai/ivykiai/Badas Lietuvoje ir seimo perkėlimas į Brestą.md#claim-t-185692|Badas Lietuvoje ir seimo perkėlimas į Brestą (seimas)]]: Skėriams sunaikinus javus, Lietuvoje kilo maisto stoka, todėl lietuvių seimas buvo sušauktas Breste, o ne Vilniuje.
 - susijęs iš [[objektai/ivykiai/Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje.md#claim-t-86941|Bazilijonų įsikūrimas Vilniuje Algirdo valdymo pradžioje]]: Algirdo valdymo pradžioje jo žmonos, Tverės kunigaikštytės, atkvieti Šv. Bazilijaus ordino vienuoliai įsikūrė Vilniuje ir turėjo medinę bažnyčią.
 - susijęs iš [[objektai/ivykiai/Didysis Vilniaus Seimas.md#claim-t-77881|Didysis Vilniaus Seimas]]: Gavus valdžios sutikimą, Didysis Vilniaus Seimas vyko Vilniaus Miesto salėje gruodžio 4–5 dienomis.
@@ -3947,6 +4137,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš 1524 m. karaliaus priekaištas Vilniaus magistratui: 1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene, neišpirktos privilegijos, gaisro įrankių stokos ir kliudymo skųstis karaliui.
 - susijęs iš 1533 m. Jono Zabžezinskio dovanojimo aktas Vilniaus vyskupui Jonui: 1533 m. spalio 26 d. Jono Zabžezinskio dovanojimo akte Vilniaus vyskupui Jonui paminėtas didelis gaisras.
 - susijęs iš 1536 m. Žygimanto Senojo Vilniaus miesto įstatymai: 1536 m. rugsėjo 9 d. Žygimantas Senasis Vilniuje įsakė paskelbti naujus miesto įstatymus, pritarus karalienei Bonai.
+- susijęs iš 1538 m. Žygimanto Senojo privilegija Petrui Laurinavičiui: 1538 m. sausio 25 d. Piotrkove Žygimanto Senojo privilegija Petrui Laurinavičiui patvirtino įvairius Vilniaus piliečio pirkimus.
 - susijęs iš 1542 m. Žygimanto Senojo dekretas dėl Abraomo Kulviečio: 1542 m. Vilniuje išleistas dekretas patvirtino Vilniaus ir kitų Lietuvos vyskupų valdžią tirti, įspėti ir bausti eretikus.
 - susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: Žygimanto Senojo rašte nurodyta, kad Vilniaus vyskupas Povilas Abraomą iš Kulvos kaltino atsiskyrimu nuo Romos katalikų Bažnyčios ir kitų klaidinimu.
 - susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: 1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus, saugotą Vilniaus kapitulos rankraščiuose.
@@ -4005,6 +4196,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Dinaburgo komtūro laiškas Livonijos magistrui apie Švitrigailą ir Pilies kalno griūtį: Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas.
 - susijęs iš Dogelio rankraščiai Vilniaus universiteto bibliotekoje: Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.
 - susijęs iš Dogiel, Codex Diplomaticus: Dogielio „Codex Diplomaticus“ pateikia 1413 m. vasario 6 d. Vilniuje Jogailos ir Vytauto duotą įgaliojimą deryboms su kryžiuočiais.
+- susijęs iš Dogiel, Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae: Motiejaus Dominiko Dogelio „Codex diplomaticus Regni Poloniae et Magni Ducatus Lituaniae“ cituojamas kaip 1758, 1759 ir 1764 m. Vilniuje leista šaltinių publikacija.
 - susijęs iš Dr. A. Alseika, „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku”: Dr. A. Alseikos „Vytauto D. sumanymas vainikuotis Lietuvos karaliaus vainiku“ išleistas Vilniuje 1924 m.
 - susijęs iš Dusburgo kronika: Balińskis iš Dusburgo pasakojimo sprendė, kad Castrum Gedemini jau egzistavo 1304 metais, o Vilniaus pilis pastatyta tik 1322 metais.
 - susijęs iš Dusburgo kronika: Michałas Balińskis atmetė Hartknocho nuomonę, kad Dusburgo minima Castrum Gedemini buvo Vilnius.
@@ -4012,7 +4204,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš E. Galvanausko nota dėl Lenkijos rytinių sienų nustatymo: E. Galvanausko nota prisidėjo prie 1923 m. kovo 15 d. sprendimo Vilnių palikti Lenkijai.
 - susijęs iš Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
 - susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): Fulvio Ruggieri 1572 m. aprašyme rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
-- susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
 - susijęs iš Gedimino laiškai: „Gedimino laiškus“ parengė V. Pašuta ir J. Stal, o leidinys išleistas Vilniuje 1966 m.
 - susijęs iš Gedimino laiškai: Kai kurie Gedimino laiškai rašyti Vilniuje 1323 m. gegužės 26 d. ir Vilnių vadina karališkuoju miestu.
 - susijęs iš Gedimino laiškai: Abejonės dėl Gedimino laiškų autentiškumo, Balińskio vertinimu, nepaneigia, kad Vilnius jau buvo miestas ir Gedimino sostinė.
@@ -4085,6 +4276,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Maskva patvirtino, kad sutartis su Lietuva tebegalioja ir kad Lietuva turi suverenias teises į Vilnių.
 - susijęs iš Lietuvos ir Sovietų Rusijos taikos sutartis (1920 m. liepos 12 d.): Pagal 1920 m. Maskvos ir 1921 m. Rygos sutarčių punktus dėl Vilniaus turėjo susitarti Lietuva ir Lenkija.
 - susijęs iš Lietuvos istorija ligi Liublino unijos: M. Liubavskio „Lietuvos istorija ligi Liublino unijos“ lietuviškas vertimas išleistas Vilniuje 1922 m. dviem dalimis.
+- susijęs iš Lietuvos metraštis (Bychovco kronika): Lietuviškame „Lietuvos metraščio“ leidime, išleistame Vilniuje 1971 m., žodis 45 puslapyje pateiktas kaip Litusbania.
 - susijęs iš Lietuvos metraštis Bychovco kronika Parengė R. Jasas: R. Jasas parengė leidinį „Lietuvos metraštis: Bychovco kronika“, išleistą Vilniuje 1971 m.
 - susijęs iš Lietuvos sukilimo aktas (1794 m.): Lietuvos sukilimo aktas paskelbtas Vilniaus Rotušės aikštėje 1794 m. balandį, sukilėliams išvadavus miestą iš Rusijos kariuomenės.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.
@@ -4110,6 +4302,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš M. Strijkovskio kronika: Strijkovskio kronikoje Vilniaus įkūrimas priskiriamas Gediminui ir siejamas su medžiokle Šventaragio slėnyje.
 - susijęs iš M. Strijkovskio kronika: Vilniaus įkūrimo pasakojime Lizdeika geležinio vilko sapną aiškina kaip būsimos pilies ir Lietuvos sostinės ženklą.
 - susijęs iš Mažiulis V. Baltų ir kitų indoeuropiečių kalbų santykiai Deklinacija: V. Mažiulio „Baltų ir kitų indoeuropiečių kalbų santykiai: Deklinacija“ išleistas Vilniuje 1970 m.
+- susijęs iš Michał Baliński, Opisanie statystyczne miasta Wilna: Michało Balińskio „Opisanie statystyczne miasta Wilna“ Narbuto cituojamas kaip 1835 m. Vilniuje išleistas veikalas.
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): Įvade nurodyta siekti iš kronikų ir archyvinių rankraščių surinkti žinias apie Vilniaus kilmę, miesto teises ir privilegijas.
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): Įvade Vilnius apibūdinamas kaip beveik du amžius buvusi vienos galingiausių Šiaurės Europos šalių sostinė ir vėlesnis mokslo bei vyriausiosios valdžios centras Lietuvoje.
 - susijęs iš Michał Baliński, Vilniaus miesto istorija (2007 m.): Tituliniame puslapyje veikalas pristatomas kaip Mykolo Balinskio „Vilniaus miesto istorijos“ I tomas, apimantis Vilniaus istoriją nuo miesto įkūrimo iki 1430 m.
@@ -4121,6 +4314,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Mūsų Vilnius: Lietuviams teko nutraukti žurnalo „Mūsų Vilnius“ leidimą ir paleisti 700 000 narių turėjusią „Vilniui vaduoti sąjungą“.
 - susijęs iš Napierskio Index Cod. Hist. Dipl. Livoniae: Napierskio „Index Cod. Hist. Dipl. Livoniae“ siejamas su Dinaburgo komtūro pranešimu apie Vilniaus miesto, kapitulos ir pilies gaisrą.
 - susijęs iš Narbutt T., Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się: T. Narbutas šią informaciją vėliau įtraukė į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczegolnie do historyi Litwy odnoszące się“.
+- susijęs iš Narbutt T., Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się: Teodoras Narbutas šią informaciją vėliau įdėjo į 1852 m. Vilniuje išleistus „Pomniejsze pisma historyczne szczególnie do historyi Litwy odnoszące się“.
 - susijęs iš Naujosios Prūsijos žemės kronika: Naujosios Prūsijos žemės kronika nurodo, kad prie Vilniaus penkias savaites dieną ir naktį vyko kautynės.
 - susijęs iš Nepokupnas A. Baltai slavų giminaičiai: A. Nepokupno darbas „Baltai slavų giminaičiai“ išleistas Vilniuje 1983 metais.
 - susijęs iš Nikono metraštis: Balińskis įdėjo visą Nikono metraščio vietą, kurioje kalbama apie tariamus Vilniaus kunigaikščius.
@@ -4232,6 +4426,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve.
 - susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): 1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.
 - susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.
+- susijęs iš „Dziennik Wilenski“: Teodoras Narbutas Saurų dvaro bibliotekoje saugojo visą „Dziennik Wilenski“ komplektą, surinktą padedant Vilniaus kolekcionieriams.
 - susijęs iš Anglija: Tuo metu Anglijoje gyveno apie 6 000 lietuvių, o JAV ir Vilniaus krašte gyveno didesnės lietuvių bendruomenės.
 - susijęs iš Antakalnis: Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.
 - susijęs iš Aukščiausios Tarybos rūmai (institucija): 1990 m. kovo 11 d. prie Aukščiausios Tarybos rūmų Vilniuje mergaitė laikė plakatą, reikalaujantį LR vietoj LSSR.
@@ -4260,8 +4455,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Bulgarija: Jonas Basanavičius, grįžęs iš emigracijos Bulgarijoje, buvo Didžiojo Vilniaus Seimo sumanymo iniciatorius.
 - susijęs iš Dambrava: Dambravos kaimas prie Vilniaus buvo tarp valdų, kuriomis iškilmingu aktu buvo aprūpinta Vilniaus katedra.
 - susijęs iš Daugai: 1919 m. balandžio 3-8 d. Pietinė lietuvių grupė turėjo užimti Daugus ir Varėną, o tada pro Lentvarį pulti Vilnių.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis, turtingesnėmis gyvenvietėmis.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.
 - susijęs iš Didysis Naugardas: Pskovas ir Didysis Naugardas buvo įkurti anksčiau už Vilnių ir greičiau virto tankiai gyvenamomis bei turtingesnėmis gyvenvietėmis.
 - susijęs iš Didysis Naugardas: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila sutartį dėl saugumo ir prekybos laisvės.
 - susijęs iš Didysis Naugardas: Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė su Švitrigaila saugumo ir prekybos laisvės sutartį.
@@ -4288,8 +4481,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Kailiadirbių namai Vilniuje: Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių.
 - susijęs iš Kaliningrado sritis: Maskva grasino prijungti Klaipėdos kraštą prie RSFSR Kaliningrado srities ir Vilniaus regione kurti autonomiją.
 - susijęs iš Kalnas prie Vilnelės: Kasparas Bekešas buvo palaidotas ant kalno už Vilniaus miesto, po apvaliu bokštu.
-- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.
-- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš Kardinalija: Kardinalija buvo vienas didžiausių Vilniaus namų, statytas kardinolo Jurgio Radvilos lėšomis.
 - susijęs iš Kaunas: 1919 m. balandžio 3-8 d. lietuviai iš Kauno puolė Vilniaus link.
@@ -4347,7 +4538,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į protėvių kapą Vilniaus katedroje.
 - susijęs iš Luckas: 1452 m. vasarį Švitrigaila mirė Lucke, o jo kūnas buvo perkeltas į Vilniaus katedrą.
 - susijęs iš Lvovas: Lvovo arkivyskupui ir Vilniaus vyskupui laišku buvo patikėta įsteigti Žemaičių vyskupystę.
-- susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš Maskva: Maskva, nepaisydama Lenkijos nepasitenkinimo, pripažino Lietuvos suverenitetą Vilniuje.
 - susijęs iš Maskva: 1939 m. spalio 3 d. Maskvoje Josifas Stalinas spaudė Juozą Urbšį pasirašyti sutartis dėl savitarpio pagalbos, Vilniaus krašto ir pietvakarių Lietuvos.
 - susijęs iš Maskva: 1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.
@@ -4373,8 +4563,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Naugardukas: Naugarduke buvo pastatyta viena iš dviejų pranciškonų bažnyčių, kita stovėjo Vilniuje.
 - susijęs iš Nemėžis: 1495 m. sužadėtinę Eleną Aleksandras sutiko kelyje į Nemėžį, per pusę mylios nuo Vilniaus.
 - susijęs iš Nemėžis: Vytauto įkurdinti totoriai gyveno ir Nemėžiu vadintoje vietovėje, esančioje per mylią į rytus nuo Vilniaus.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1547 m. privilegijoje fabrikui skirtas sklypas apibūdintas kaip esantis už Vilijos upės prie Vilniaus miesto.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Perkėlimai plaustais per Viliją buvo uždrausti tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.
 - susijęs iš Oksfordas: Oksfordo daktarai rėmėsi Martyno Smigleckio „Logika“ (1618 m.), vienu iš Vilniaus universiteto profesorių veikalų, pasiekusių protestantiškąją Angliją.
 - susijęs iš Paleckio stiklo liejykla prie Vilijos: Sutartis su stiklo liejyklos savininku Paleckiu išlaisvino Vilnių nuo stiklo monopolio grėsmės.
 - susijęs iš Paleckio stiklo liejykla prie Vilijos: Martynas Paleckis gavo sklypą už Vilijos ir leidimą steigti stiklo liejyklą prie Vilniaus.
@@ -4451,20 +4639,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Verkiai: Verkių kaimai prie Vilniaus buvo įtraukti į valdas, kuriomis iškilmingu dovanojimo aktu aprūpinta Vilniaus katedra.
 - susijęs iš Vidurinė Lietuva: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota Vidurinė Lietuva.
 - susijęs iš Vidurinė Lietuva: 1920 m. Lenkijos ir Lietuvos konflikto dėl Vilniaus metu Vilniaus krašte buvo suformuota „Vidurinė Lietuva“.
-- susijęs iš Vilnelė: 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1522 metais prie Vilnelės iškilo popieriaus malūnas, buvęs aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Balińskis manė, kad iki Gedimino ant Vilnios srovę supančių kalvų, kur dabar stovi Vilnius, tikėtina, buvo medinė tvirtovė.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Narbutas Vilnios, arba Vilnelės, vardą laikė pirminiu ir iš jo kildino Vilniaus bei vėliau Vilija pramintos Neries pavadinimus.
 - susijęs iš Vilnia: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilnia: 1469 metais bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis, nusidriekęs palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
@@ -4477,12 +4651,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilnia: Gediminas, statydindamas pilį, iškasė Vilniai naują vagą ir iškastomis žemėmis paaukštino Pilies kalną.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
 - susijęs iš Vilnia: Strijkovskio ir Kojelavičiaus pasakojime Šventaragio slėnis buvo vieta, kur Vilnios upė įteka į Viliją.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Jogailos laikų Vilniaus miesto plane Aukštutinė pilis nurodyta ant Tauro kalno.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
-- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 - susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas manė, kad Vilniaus Plikasis kalnas su trimis kryžiais buvo pavadintas rusinų kolonistų, atgabentų kuriant miestą.
 - susijęs iš Vilniaus Plikasis kalnas: Narbutas rašė, kad pirmieji misionieriai pranciškonai ant Vilniaus Plikojo kalno pastatė tris kryžius kaip savo misijos ženklą.
@@ -4496,17 +4664,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilniaus gubernija: 1840 m. Lietuvos vardas pašalintas iš Vilniaus ir Gardino gubernijų pavadinimų, o buvusios LDK teritorija pavadinta Šiaurės Vakarų kraštu.
 - susijęs iš Vilniaus gubernija: 1917 m. Berno konferencijoje būsimos Lietuvos teritorijai priskirta kone visa Vilniaus gubernija, išskyrus stačiatikiškas apskritis.
 - susijęs iš Vilniaus gubernija: Lietuviai pretendavo į buvusias Rusijos imperijos Vilniaus, Kauno, Suvalkų ir Gardino gubernijų žemes, kurias ir Rusijos vyriausybės tradiciškai vadindavo lietuviškomis.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus vyskupo Povilo poelgis privertė karalių atsisakyti ketinimo ir pasukti į katalikų katedrą.
 - susijęs iš Vilniaus katedra: 1389 m. Vilniaus bažnyčia, pastatyta ant pagonių šventyklos griuvėsių, buvo pripažinta katedra.
 - susijęs iš Vilniaus katedra: Vilniaus katedros fasado skulptūros, sukurtos 1784–1787 m., žymėjo baroko epochos Lietuvoje pabaigos ribą.
 - susijęs iš Vilniaus katedra: 1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.
@@ -4540,21 +4697,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalno griūtis palietė tik kalną, o pilies mūrai išliko sveiki.
 - susijęs iš Vilniaus pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus pilies kalną ištiko griūtis.
 - susijęs iš Vilniaus pilies kalnas: Vilniaus pilies kalnas nuslinko ant Manvydo rūmo ir pridarė daug nuostolių.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
 - susijęs iš Vilniaus pilis: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
 - susijęs iš Vilniaus pilis: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš Vilniaus pilis: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
@@ -4565,25 +4707,9 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilniaus pilis: Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.
 - susijęs iš Vilniaus pilis: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
 - susijęs iš Vilniaus pilis: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
-- susijęs iš Vilniaus pilys: Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.
-- susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
-- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
-- susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
-- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
 - susijęs iš Vilniaus popieriaus malūnas prie Vilnelės: 1522 m. prie Vilnelės, aukščiau Vilniaus vaivados malūno ir žemiau Charitonovo palivarko, iškilo popieriaus malūnas.
 - susijęs iš Vilniaus regionas: Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.
 - susijęs iš Vilniaus sporto rūmai: Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1529 m. Albertas Goštautas gavo karaliaus leidimą priešais Žemutinės Vilniaus pilies vartus nutiesti tiltą per Viliją.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
-- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
-- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
-- susijęs iš Vilniaus tiltas per Viliją: Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
-- susijęs iš Vilniaus turgus ir aikštė (sujungti pirminiai pavadinimai Vilniaus turgus; Vilniaus turgus ir aikštė): Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.
-- susijęs iš Vilniaus turgus ir aikštė (sujungti pirminiai pavadinimai Vilniaus turgus; Vilniaus turgus ir aikštė): Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
-- susijęs iš Vilniaus turgus ir aikštė: Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.
-- susijęs iš Vilniaus turgus ir aikštė: Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
 - susijęs iš Vilniaus turgus: 1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.
 - susijęs iš Vilniaus universitetas: Senojo jėzuitų Vilniaus universiteto svarbiausia reikšmė buvo jo padėtis kaip šiauriausio katalikiško ir ryčiausio Europos universiteto.
 - susijęs iš Vilniaus universitetas: Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.
@@ -4604,7 +4730,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia priskiriama europinės reikšmės kūriniams.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
 - susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
 - susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila atėjo nuo Vitebsko į Vilnių ir, šalininkų remiamas, jį paėmė.
 - susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.
@@ -4619,18 +4744,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Šiauliai: Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.
 - susijęs iš Šv. Dvasios dominikonų vienuolynas Vilniuje: Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Šv. Dvasios prieglaudos statybos, aprūpinimo ir vargšų priežiūros administravimas patikėtas Vilniaus vyskupui ir kapitulai.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš Šv. Jurgio bažnyčia ir karmelitų vienuolynas Vilniuje: Barboros rūmų griuvėsiai Vilniuje stovėjo tarp Katedros ir Šv. Jurgio bažnyčios prie Vilijos.
 - susijęs iš Šv. Kazimiero koplyčia: Narbutas, remdamasis Strijkovskiu, Šv. Kazimiero koplyčią siejo su Vilniaus Perkūno šventykloje laikytų šliužų koplyčia.
 - susijęs iš Šv. Kryžiaus koplyčia Vilniuje: Sudegus medinei Šv. Kryžiaus bažnytėlei, Vilniaus vyskupas Povilas Alšėniškis savo sode pastatydino nedidelę koplyčią.
 - susijęs iš Šv. Mykolo bažnyčia Vilniuje: Ties Šv. Mykolo bažnyčia Vilniuje buvo išmūryti didieji reformos šalininkų maldos namai.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Naujoji Šv. Onos bažnyčia Vilniaus pilyje buvo nurodyta kaip palaidojimo vieta mirties Lietuvos Kunigaikštystėje atveju.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
 - susijęs iš Šv. Stanislovo katedra: Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš Švedija: Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę.
 - susijęs iš Šventaragio slėnis: Balińskis Šventaragio slėnio lydimus siejo su senovinės Vilniaus gyvenvietės plėtra nuo Vilnios krantų Vilijos link.
@@ -4638,13 +4755,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Šventaragio slėnis: Pasakojama, kad Gediminas po Trakų pilies įkūrimo su palyda nusigavo į Šventaragio slėnį prie Vilnios žiočių.
 - susijęs iš Švenčionėliai: Spalio 17 d. lenkai užėmė Švenčionėlius, o batalionai iki vakaro gynėsi ties Merkiu ir atsitraukė į pietines Vilniaus prieigas.
 - susijęs iš Švč. Trejybės cerkvė Vilniuje: Karalienė Elena 1510 metais iš vyro Žygimanto Senojo iki gyvos galvos gavo dalį Švč. Trejybės vienuolyne Vilniuje.
-- susijęs iš Švč. Trejybės špitolė Vilniuje: 1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.
-- susijęs iš Švč. Trejybės špitolė prieglauda Vilniuje (sujungti pirminiai pavadinimai Švč. Trejybės špitolė; Švč. Trejybės špitolė Vilniuje; Šventosios: 1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.
 - susijęs iš Žemaičių vyskupystė: Žemaičių vyskupystė 1849 m. buvo padidinta, prie jos prijungus 93 Vilniaus vyskupystės parapijas.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Iš Žemutinės pilies vakarinių vartų kelias vedė per du tiltus, nutiestus per Vilnią ir Vingrių upokšnį.
 - susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Didelė medinė Kreivoji pilis minima kryžiuočių kronikos 1390 m. Vilniaus puolimo aprašyme.
 - susijęs iš Ženeva: Ženevoje pasiektus rezultatus Lietuva ir Lenkija laikė pergale, tačiau Vilnius dar labiau nutolo nuo Lietuvos.
-- susijęs iš Žuvų turgus Vilniuje (sujungti pirminiai pavadinimai Žuvų turgavietė; Žuvų turgus Vilniuje): Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žuvų turgus Vilniuje: Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.
 - susijęs iš Žąsliai: 1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui.
 - susijęs iš Žąsliai: 1457 m. lapkričio 28 d. Kazimieras davė Žąslius Vilniaus vaivadai Jonui Goštautui.
@@ -4675,7 +4789,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101587|federacija federacinė valstybė]]: Lietuviai vengė federacijos su Lenkija, bet sutiko derėtis, jei Varšuva pripažintų Lietuvą su sostine Vilniumi.
 - susijęs iš [[objektai/zodynas/federacija federacinė valstybė.md#claim-t-101588|federacija federacinė valstybė]]: P. Himansas parengė Lietuvos federacinės valstybės, sudarytos iš Kauno ir Vilniaus kantonų, projektą.
 - susijęs iš [[objektai/zodynas/in partibus infidelium.md#claim-t-86589|in partibus infidelium]]: Vitas laikytas Lietuvos vyskupu in partibus infidelium, o ne Vilniaus vyskupu.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173021|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
 - susijęs iš [[objektai/zodynas/kaštelionas.md#claim-t-182952|kaštelionas]]: Kaštelionai karo reikaluose ir teismuose buvo tarsi Vilniaus ir Trakų vaivadų padėjėjai.
 - susijęs iš [[objektai/zodynas/komtūras.md#claim-t-183834|komtūras]]: Ordino maršalas Gotfridas Lindenas su komtūrais sudegino Semeliškes Trakų paviete ir veržėsi iki Vilniaus tvirtovių.
 - susijęs iš [[objektai/zodynas/kontrevoliucija.md#claim-t-36796|kontrevoliucija]]: Jogailos kontrevoliucijos sėkmei daug įtakos turėjo vokiečių Rygos pirkliai, prekiavę su Vilniumi.
@@ -4719,21 +4832,73 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108302|Pranciškonų ordinas]]: Gediminas prašė pranciškonų šiais metais paskirti keturis brolius prie bažnyčių Vilniuje ir Naugarduke.
 - susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55109|Šubravcų draugija]]: Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
 - susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55110|Šubravcų draugija]]: Šubravcų draugijos nariai pasivadino senovės lietuvių dievybių vardais.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195574|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: Kelionių maršrute buvo Kaunas, Tilžė, Karaliaučius, Vilnius ir Ryga.
+- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192025|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas rašo, kad piktnaudžiavimas stipriaisiais gėrimais Vilniaus vyskupą Abraomą Vainą paskatino uždrausti ir likviduoti aukojimo puotų paprotį.
+- susijęs iš [[objektai/ivykiai/Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio.md#claim-t-192026|Aukojimo puotų papročio uždraudimas Vilniaus vyskupų Abraomo Vainos ir Bžostovskio]]: Narbutas nurodo, kad Vilniaus vyskupas Bžostovskis 1710 m. dar matė aukojimo puotų paprotį ir griežtai jį uždraudė.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186575|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraštis pasakoja, kad Kęstutis po Algirdo mirties pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
 - susijęs iš [[objektai/ivykiai/Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje.md#claim-t-186576|Jogailos pripažinimas didžiuoju kunigaikščiu Vilniuje]]: Lietuvos metraščio pasakojime Kęstutis po Algirdo mirties 1377 m. pripažino Jogailą didžiuoju kunigaikščiu Vilniuje.
+- susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
 - susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75303|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
 - susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-75305|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: 1915 m. pavasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o rugsėjo 15 d. įžengė į Vilnių.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-183825|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto ginkluoti žmonės dengtose rogėse pasiekė pilį, tačiau Sudimantas, perspėtas gyventojų, sužlugdė Vilniaus užėmimo planą.
 - susijęs iš [[objektai/paprociai/Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi.md#claim-t-87212|Karių infiltravimas dengtose rogėse ir vestuvių iškilmių dingstimi]]: Vytauto žmonės dengtose rogėse pateko į Žemutinę pilį, bet Sudimantas, perspėtas gyventojų, sutrukdė mėginimą užimti Vilnių.
 - susijęs iš Annales Minorum seu trium ordinum a S. Francisco institutorum: Annales Minorum pasakojime Petras Goštautas 1333 m. į Vilnių atkvietė keturiolika pranciškonų ir apgyvendino juos prie Šv. Kryžiaus bažnyčios.
+- susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ spausdintuose straipsniuose M. Balińskis aprašė Vilniaus archeologinės komisijos veiklą ir lenkų literatūros problemas.
+- susijęs iš Uusi Suomi: „Uusi Suomi“ spausdino prof. Niemio raštus, tarp jų ir apie Vilnių.
+- susijęs iš Didžioji gatvė Vilniuje: 1507 m. dokumente minimas objektas stovėjo Vilniaus Didžiojoje gatvėje, arti Švč. Trejybės vienuolyno.
+- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
+- susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš Naugardukas: Gediminas prašė atsiųsti keturis brolius prie Vilniuje ir Naugarduke pastatytų bažnyčių.
 - susijęs iš Pilies kalnas Vilniuje (pilis): Narbutas spėja, kad Vilniuje kunigaikščių pelenai gali būti pakasti Pilies kalne iš saulėtekio pusės.
+- susijęs iš Pilies kalnas: Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
+- susijęs iš Pilies kalnas: Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.
+- susijęs iš Pilies kalnas: 1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
+- susijęs iš Pilies kalnas: Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki.
+- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
+- susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Vilniaus Aukštutinę mūro pilį.
+- susijęs iš Vilniaus Aušros broma: Vilniaus Aušros broma minima kaip viena iš šventų vietų, iš kurių parnešamas palaiminimas.
+- susijęs iš Vilniaus pilys: Vilniaus vyskupas Povilas parodė karaliui į katedros bažnyčią pilyje ir privertė jį pakeisti ketinimą.
+- susijęs iš Vilniaus pilys: Beveik visą amžių Lietuvos valdovai retai gyvendavo Žemutinėje Vilniaus pilyje, pirmenybę teikdami Trakų piliai.
+- susijęs iš Vilniaus pilys: 1440 m. Daugirdas žemutinę Vilniaus pilį laikinai užėmė Švitrigailai, o Narbutas naktį užgrobė aukštutinę tvirtovę.
+- susijęs iš Vilniaus pilys: Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.
+- susijęs iš Vilniaus pilys: Dalis vietos gyventojų, siekdami apsisaugoti nuo kryžiuočių, ieškojo prieglobsčio prie Vilniaus pilies.
+- susijęs iš Vilniaus pilys: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
+- susijęs iš Vilniaus pilys: Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.
+- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, palaikę Jogailą, naktį sumušė Kęstučio įgulą ir atidavė Žemutinę bei Aukštutinę pilis Jogailai.
+- susijęs iš Vilniaus pilys: Balińskis nurodė, kad po Šv. Onos bažnyčios fundacijos įrodymų tolesnių jos egzistavimo Vilniaus pilyje pėdsakų nėra.
+- susijęs iš Vilniaus pilys: [Rūstusai Žygimante, kaip senasis karalius mėtau žaibus, Nejaugi manai, kad tik karaliams paklūsta žaibai?] Vietovių pavadinimai yra tokie: Pirmajame plane - Vilniaus arsenalas, antrame ir trečia me: Vilniaus pilis, Vinica, Žitomiras, Naugardukas, Poloc kas.
+- susijęs iš Vilniaus pilys: 1506 m. buvo taisomos daug kur pakrypusios ir suskilusios Žemutinės Vilniaus pilies sienos.
+- susijęs iš Vilniaus pilys: Vilniaus pilininkas ir miestiečiai, sumušę Kęstučio įgulą, Žemutinę ir Aukštutinę pilis atidavė Jogailai.
+- susijęs iš Vilniaus pilys: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
+- susijęs iš Vilniaus pilys: Po Vilniaus gaisrų susirūpinta senų Vilniaus pilies ir Katedros pastatų remontu bei atnaujinimu.
+- susijęs iš Vilniaus pilys: Prie Vilniaus pilies buvo įkurta didžioji ginklų liejykla, turėjusi daug įtakos amatininkų gerovei ir tobulėjimui.
+- susijęs iš Vilniaus pilys: Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.
+- susijęs iš Vilniaus pilys: 1377 m. birželio pabaigoje 12 000 žmonių kariuomenė sustojo prie Vilniaus pilių, kurias gynė Algirdas.
+- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus didelėmis lėšomis pastatė ir sutvirtino tiltą per Viliją prie Vilniaus.
+- susijęs iš Vilniaus tiltas per Viliją: Siekiant apsaugoti Vilniaus tilto muitą, buvo uždrausta statyti kitus tiltus per Viliją tarp Bistryčios ir Kernavės.
+- susijęs iš Vilniaus tiltas per Viliją: Dėl nepatogios perkėlos per Viliją prie Vilniaus karalius pavedė Ulrikui Hozijui savo lėšomis pastatyti tvirtą tiltą.
+- susijęs iš Vilniaus turgus ir aikštė: Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.
+- susijęs iš Vilniaus turgus ir aikštė: Dėl mėsinių Vilniaus turguje ir aikštėje kilo ginčas tarp Vilniaus vyskupo Povilo ir miesto vaito, tarėjų bei miestiečių.
 - susijęs iš Vitebskas: 1382 m. birželio 12 d. Jogaila nuo Vitebsko atėjo į Vilnių ir, šalininkų remiamas, jį paėmė.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčiai Vilniuje buvo paskirta išduoti rūmų iždo bažnytinį auksą, sidabrą, indus ir apdarus.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: Dvasios bažnyčios pastatyti vie šą špitolę (prieglaudą) ir visada ją išlaikyti, priežiūrai vado vaujant Vilniaus vyskupui18.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: 1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.
+- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
+- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-192167|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192169|jurisdikcija]]: Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192170|jurisdikcija]]: Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192171|jurisdikcija]]: Valerijono Bursos namų jurisdikcija palikta Vilniaus vyskupų įpėdiniams, nes namai stovėjo vyskupijos žemėje.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192173|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78000|A. Voldemaras]]: 1927 m. rugsėjo 27 d. A. Voldemaras Romoje pasirašė konkordatą su Vatikanu dėl Lietuvos katalikų bažnyčios padėties valstybėje.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
 - susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190127|Abraomas Vaina]]: Narbutas piktnaudžiavimą stipriaisiais gėrimais sieja su Vilniaus vyskupo Abraomo Vainos sprendimu uždrausti ir likviduoti tą paprotį.
+- susijęs iš [[objektai/asmenys/Abraomas Vaina.md#claim-t-190834|Abraomas Vaina]]: Narbutas aiškina, kad piktnaudžiavimas stipriaisiais gėrimais paskatino Vilniaus vyskupą Abraomą Vainą uždrausti aukojimo puotų paprotį.
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18758|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18759|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
@@ -4787,6 +4952,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87386|Andrius Važila]]: 1397 m. Jogaila ir Vytautas laidavo Vilniaus vyskupui Andriui Važilai dviejų šimtų markių metines pajamas.
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
+- susijęs iš [[objektai/asmenys/Anicetas Renjė.md#claim-t-190847|Anicetas Renjė]]: 1839 m. gruodžio 15 d. laiške iš Vilniaus medicinos daktaras Anicetas Renjė rašė, kad Podčašinskis pastebėjimą padarė prieš Renjė aprašymą.
 - susijęs iš [[objektai/asmenys/Antanas Gelgaudas.md#claim-t-63477|Antanas Gelgaudas]]: Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.
 - susijęs iš [[objektai/asmenys/Antanas Marcinovskis.md#claim-t-190020|Antanas Marcinovskis]]: Narbutas nurodo, kad „Kurjer Litewski“ redaktorius ir jo veikalų leidėjas Marcinovskis atsiuntė jam tikslią piešinio kopiją.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.
@@ -4844,8 +5010,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97314|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Dimitras (Tverės kunigaikštis).md#claim-t-97315|Dimitras (Tverės kunigaikštis)]]: Gedimino duktė Marija ištekėjo už didžiojo Tverės kunigaikščio Dimitro, Mykolo sūnaus.
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
+- susijęs iš [[objektai/asmenys/Eduardas Eichvaldas.md#claim-t-191343|Eduardas Eichvaldas]]: Eduardas Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“ apie Darijaus žygį prieš skitus.
 - susijęs iš [[objektai/asmenys/Eduardas Karolis Eichvaldas.md#claim-t-18879|Eduardas Karolis Eichvaldas]]: Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.
 - susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
+- susijęs iš [[objektai/asmenys/Eichvaldas.md#claim-t-191390|Eichvaldas]]: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį apie Darijaus žygį prieš skitus ir jame Darijaus žygio vietą siejo su Polese.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54958|Elena (vyskupas, XV–XVI a.)]]: Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54962|Elena (vyskupas, XV–XVI a.)]]: 1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.
@@ -5224,6 +5392,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87477|Stanislovas Goštautas]]: 1494 m. balandžio 18 d. Maskvoje Žemaičių seniūnas Stanislovas Goštautas pasirašė amžinos taikos sutartį su caru.
 - susijęs iš [[objektai/asmenys/Stanislovas Goštautas.md#claim-t-87479|Stanislovas Goštautas]]: 1542 metais Vilniuje Naugarduko vaivada Stanislovas Goštautas dalyvavo patvirtinant raštą valdovo antspaudu.
 - susijęs iš [[objektai/asmenys/Stanislovas Jonas Da Vaina.md#claim-t-87859|Stanislovas Jonas Da Vaina]]: Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.
+- susijęs iš [[objektai/asmenys/Stanislovas Laurinavičius.md#claim-t-192602|Stanislovas Laurinavičius]]: Stanislovas Laurinavičius, Narbuto rankraščio liudijimu, mirė beveik devyniasdešimties metų amžiaus beveik prieš devynerius metus.
 - susijęs iš [[objektai/asmenys/Stanislovas Rapolionis.md#claim-t-19244|Stanislovas Rapolionis]]: Stanislovas Rapolionis kartu su Abraomu Kulviečiu tapo vienu pirmųjų 1544 m. įkurto Karaliaučiaus universiteto profesorių.
 - susijęs iš [[objektai/asmenys/Stanislovas Sabina.md#claim-t-87459|Stanislovas Sabina]]: 1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo.
 - susijęs iš [[objektai/asmenys/Stanislovas Veenas.md#claim-t-87864|Stanislovas Veenas]]: Stanislovas Veenas buvo raštininkas, dalyvavęs 1501 m. Baltramiejaus šventės metu priimtame sprendime.
@@ -5409,6 +5578,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/autoriai/Antanas Kulakauskas.md#claim-t-26605|Antanas Kulakauskas]]: Redaktoriaus žodyje Antanas Kulakauskas pristatomas kaip Vytauto Didžiojo universiteto profesorius, parašęs III skyrių apie lietuvių gyvenimą Rusijos imperijoje 1795-1915 m.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187935|Antanas Marcinovskis]]: 1835 m. Vilniuje pirmasis „Dzieje starożytne narodu Litewskiego“ tomas išėjo A. Marcinovskio lėšomis ir spaustuvėje.
 - susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-187937|Antanas Marcinovskis]]: Narbutas Marcinovskį įvardijo kaip „Kurjer Litewski“ redaktorių ir savo veikalų leidėją.
+- susijęs iš [[objektai/autoriai/Antanas Marcinovskis.md#claim-t-190691|Antanas Marcinovskis]]: Antanas Marcinovskis, „Kurjer Litewski“ redaktorius ir Narbuto veikalų leidėjas, atsiuntė Narbutui tikslią monetos piešinio kopiją.
 - susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179498|Archeologai ir priešistorės tyrėjai]]: R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema.
 - susijęs iš [[objektai/autoriai/Archeologai ir priešistorės tyrėjai.md#claim-t-179501|Archeologai ir priešistorės tyrėjai]]: P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.
 - susijęs iš [[objektai/autoriai/Arvydas Anušauskas.md#claim-t-78744|Arvydas Anušauskas]]: Arvydas Anušauskas yra Lietuvos naujausių laikų istorijos specialistas ir pripažintas rezistencinių kovų istorijos žinovas.
@@ -5444,6 +5614,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/autoriai/J. Dlugošas.md#claim-t-172877|J. Dlugošas]]: J. Dlugošas nurodė, kad Gediminas žuvo pervertas ugninės strėlės.
 - susijęs iš [[objektai/autoriai/J. G. Vachteris Wächter.md#claim-t-88010|J. G. Vachteris Wächter]]: J. G. Vachterio germanų kalbos žodyne žodis „Hof“ aiškintas kaip dvaro arba ūkio pastatų sąvoka.
 - susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-188423|Jonas Lasickis]]: Narbutas naudojosi 1823 m. Vilniaus periodikoje išspausdintu lenkišku Jono Lasickio mitologijos vertimu.
+- susijęs iš [[objektai/autoriai/J. Ozemblovskis.md#claim-t-191647|J. Ozemblovskis]]: J. Ozemblovskis padarė monetos piešinį, kurį Antanas Marcinovskis nusiuntė T. Narbutui vietoj paties radinio.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71516|Jakštas, J]]: J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71517|Jakštas, J]]: J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.
 - susijęs iš [[objektai/autoriai/Jakštas, J.md#claim-t-71519|Jakštas, J]]: J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.
@@ -5594,6 +5765,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92962|Herbai]]: Herbyne „Stemmata Polonica“ užfiksuotas XVI a. vidurio LDK herbas Vytis.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92963|Herbai]]: Gedimino stulpai ir Jogailos kryžius XVI a. viduryje buvo pavaizduoti herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92964|Herbai]]: LDK herbas Vytis XVI a. viduryje buvo pavaizduotas herbyno „Stemmata Polonica“ egzemplioriuje, saugomame Paryžiuje.
+- susijęs iš [[objektai/daiktai/Herbas.md#claim-t-192498|Herbas]]: Narbutas rašo, kad Algirdo privilegija patvirtino Ostapo Kropotkovo riterišką kilmę ir herbą, duotą su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64929|Iždo ir pilių raktai]]: Dlugošo aprašymu, Vytautas prieš mirtį pavedė Lietuvą Jogailai ir liepė jam atiduoti iždo ir pilių raktus.
 - susijęs iš [[objektai/daiktai/Iždo ir pilių raktai.md#claim-t-64930|Iždo ir pilių raktai]]: 1382 m. birželio 12 d. Rygos pirklys Hanulo Vilniuje įteikė Jogailai pilies raktus.
 - susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
@@ -5823,8 +5995,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190586|Lietuviai]]: Narbutas cituojamame pasakojime nurodė, kad Vilniui tapus Lietuvos sostine Trakai, nors turėjo pilį ir kunigaikščio rūmus, sumenko.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190588|Lietuviai]]: Narbutas rašė, kad po prūsų stabmeldystės smūgio religinė sostinė buvo perkelta į Lietuvą, o vyriausiųjų žynių tvarka truko iki 1387 m.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-190591|Lietuviai]]: Narbutas rašė, kad kiekviena lietuvių genties tauta dievams aukojamiems arkliams rinkdavosi savitą plauką ir ženklus.
+- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-192429|Lietuviai]]: Teodoras Narbutas, remdamasis padavimais ir senaisiais autoriais, teigė, kad lietuvių genties tautoms žemės priklausė dar gerokai prieš VI amžių.
 - susijęs iš [[objektai/grupes/Lietuvių Dailės Draugija.md#claim-t-74621|Lietuvių Dailės Draugija]]: Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją ir pradėjo rengti viešas dailės parodas.
-- susijęs iš [[objektai/grupes/Lietuvių Mokslo Draugija.md#claim-t-74631|Lietuvių Mokslo Draugija]]: Lietuvių mokslo draugija veikė Lietuvoje greta lenkų kultūrinių organizacijų.
 - susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50694|Lietuvių bajorija]]: Lietuvių bajorų aktas leido bajorams spausti Vytautą, jei jis nesilaikytų unijos.
 - susijęs iš [[objektai/grupes/Lietuvių krikščionys demokratai.md#claim-t-74627|Lietuvių krikščionys demokratai]]: Krikščionims demokratams padėjo demonstruotas lojalumas caro valdžiai, todėl caro administracija jų veiklai didesnių kliūčių nekėlė.
 - susijęs iš [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas.md#claim-t-86802|Lietuvių kunigaikščių ir bajorų visuotinis seimas]]: Lietuvių kunigaikščių ir bajorų visuotinis seimas sostinėje paskelbė apie didelį ir esminį religijos pokytį.
@@ -6042,6 +6214,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/ivykiai/Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas.md#claim-t-185798|Bogdano įsiveržimas į Rusią ir neįvykęs Valachijos karas]]: Kol karalius buvo išvykęs, Bogdanas smarkiai nuniokojo Rusią, sudegino kelis miestus ir daugybę bažnyčių.
 - susijęs iš [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.).md#claim-t-86908|Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]: 1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.
 - susijęs iš [[objektai/ivykiai/Brastos pasipriešinimas 1792 m. kare.md#claim-t-20173|Brastos pasipriešinimas 1792 m. kare]]: 1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, bet liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.
+- susijęs iš [[objektai/ivykiai/Darijaus žygis prieš skitus.md#claim-t-191011|Darijaus žygis prieš skitus]]: Narbutas spėja, kad persai, remdami Skitijos graikų kolonistus, palaikė jų siekį sunaikinti seną krašto tvarką.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186624|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jonui Goštautui ginklu sugrąžinus miestus Didžiajai Kunigaikštystei, Jurgis Nosuta pabėgo į Mazoviją.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186626|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Kazimieras ir Didžiosios Kunigaikštystės Ponų Taryba skubiai pasiuntė Joną Goštautą su kariuomene.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186627|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jonas Goštautas didžiojo kunigaikščio įsakymu ginklo jėga sugrąžino miestus Didžiajai Kunigaikštystei.
@@ -6057,6 +6230,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/ivykiai/Gedimino sąjunga su Lenkija (1325 m.).md#claim-t-86946|Gedimino sąjunga su Lenkija (1325 m.)]]: 1325 m. Vilniuje Gediminas sudarė sutartį su Lokietka dėl bendros kovos su Prūsijos ordinu.
 - susijęs iš [[objektai/ivykiai/Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis).md#claim-t-20194|Gestapo represijos už lietuvių mobilizacijos į SS boikotą (1943 m. kovas-birželis)]]: 1943 m. lietuvių pogrindis boikotavo vokiečių okupacinės valdžios agitaciją lietuviams stoti į SS batalioną.
 - susijęs iš [[objektai/ivykiai/Herasimo sąmokslas ir sudeginimas ant laužo.md#claim-t-01622|Herasimo sąmokslas ir sudeginimas ant laužo]]: Herasimas rengė sąmokslą perduoti Smolensko žemę Zigmantui, bet buvo susektas ir Švitrigailos įsakymu sudegintas ant laužo.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192037|Herbo suteikimas Ostapui Kropotkovui]]: 1354 m. rugpjūčio 7 d. Vilniuje Ostapui Kropotkovui buvo duotas herbas kartu su Podbužo dvaru Voluinėje.
 - susijęs iš [[objektai/ivykiai/J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.).md#claim-t-20209|J. Tūbelio kabineto atsistatydinimas po Lenkijos ultimatumo (1938 m.)]]: Priėmus Lenkijos ultimatumą atsistatydino J. Tūbelio ministrų kabinetas, o premjeru tapo Vladas Mironas.
 - susijęs iš [[objektai/ivykiai/Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.).md#claim-t-86910|Jaunučio nuvertimas Vilniuje (1345 m. lapkričio 22 d.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo Jaunučio buveinę.
 - susijęs iš [[objektai/ivykiai/Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas.md#claim-t-186714|Jogailos atvykimas į Krokuvą, krikštas, jungtuvės ir vainikavimas (krikštas, XIV a.)]]: Komentare nurodoma, kad Jogailos krikštas įvyko 1386 m. vasario 15 d., jungtuvės su Jadvyga vasario 18 d., o vainikavimas kovo 4 d.
@@ -6136,6 +6310,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186649|Parčevo seimas (seimas, XV a.)]]: Lenkijos karaliaus Olbrachto ir Lietuvos didžiojo kunigaikščio Aleksandro atstovai per pasitarimą nutarė sušaukti seimą Parčeve.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186650|Parčevo seimas (seimas, XV a.)]]: Lietuvos metraštis pasakoja, kad Parčevo seime priimti sumanymai ir nutarimai liko didelė paslaptis.
+- susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192047|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas.
+- susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192048|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: T. Narbuto mokslinėje korespondencijoje išlikę 1847-1848 m. Petro Lavrovo, Lydos bajorų mokyklos vyresniojo mokytojo, laiškai.
 - susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185635|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.
 - susijęs iš [[objektai/ivykiai/Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.).md#claim-t-23353|Pirmasis Lietuvos gyventojų surašymas (1923 m. rugsėjo 17 d.)]]: 1923 m. rugsėjo 17 d. įvyko pirmasis Lietuvos gyventojų surašymas.
 - susijęs iš [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas.md#claim-t-77887|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]: 1897 m. surašymo duomenimis, gyventojų skaičius maždaug dabartinės Lietuvos ribose (be Klaipėdos krašto) siekė apie 2,7 mln.
@@ -6460,6 +6636,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Dogelio rankraščiai Vilniaus universiteto bibliotekoje: Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.
 - susijęs iš Dusburgo kronika: Iš Dusburgo žinių daroma išvada, kad Gedimino pilis buvo Lietuvos ar Žemaitijos pasienyje ir galėjo stovėti prie Nemuno.
 - susijęs iš Dziennik Wileński Nr. 1 (1829 m.) žygio į Vilnių aprašymas: Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.
+- susijęs iš Eichvaldo straipsnis „Darijus, Histapo sūnus, Pinsko apylinkėse“: Eichvaldas „Dorpater Jahrbuch“ paskelbė straipsnį „Darijus, Histapo sūnus, Pinsko apylinkėse“, kuriame nagrinėjo Darijaus žygį prieš skitus.
 - susijęs iš F. Koneczny, Jagiełło i Witołd: F. Koneczny veikalas „Jagiełło i Witołd“ buvo išleistas Lvove 1893 m.
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: 1323 metų gegužės 26 dieną Vilniuje rašytuose Gedimino laiškuose nurodyta juos skaityti, siųsti toliau ir viešai skelbti.
 - susijęs iš Gedimino laiškai ordinams ir Vokietijos miestams: Balińskis laikėsi nuomonės, kad laiškas popiežiui ir laiškai ordinams bei Vokietijos miestams nebuvo parašyti Gedimino valia.
@@ -6592,6 +6769,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Stepono Batoro įsakymas Vilniaus vyskupijos gyventojams dėl atleidimo nuo Vilniaus miesto cechų įsipareigojimų (1584 m.): 1584 m. Gardine duotas Stepono Batoro raštas buvo patvirtintas karaliaus antspaudu.
 - susijęs iš Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): 1571 m. rugpjūčio 18 d. Vilniuje 666 kapoms lietuviškomis monetomis nurodytos 91 florino, 19 grašių ir 6 lietuviškų denarų išlaidos.
 - susijęs iš Sąrašas visų nuostolių Lietuvos monetas keičiant į lenkiškus pinigus (1570 m.): 1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.
+- susijęs iš T. Narbuto „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znajduiących się“: Narbuto autografe „Opisanie wizerunkow bogow i ludzi historycznie pamiętnych w Muzeum Wilenskim znajduiących się“ aprašytas deivės Mildos stabas.
 - susijęs iš Teki Wileńskie: Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.
 - susijęs iš Teodoro Narbuto „Lietuvių tautos istorija“: 1835–1841 m. Vilniuje lenkų kalba išėjo devyni Teodoro Narbuto „Lietuvių tautos istorijos“ tomai apie Lietuvos istoriją iki Liublino unijos.
 - susijęs iš The Boundaries of Lithuania: Jono Žiliaus knygoje „The Boundaries of Lithuania“, išleistoje Paryžiuje 1920 m., buvo žemėlapis „Lituania Propria“.
@@ -6664,13 +6842,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Ašmena: Jaunutis paveldėjo ne tik Lietuvos didžiojo kunigaikščio sostą, bet ir Ašmeną, Ukmergę bei Breslaują.
 - susijęs iš Ašmena: Prieš vyskupijos įkūrimą Jogaila rytų Lietuvoje aplankė Ašmeną, kur vietiniai žmonės buvo mokomi tikėjimo tiesų ir krikštijami.
 - susijęs iš Ašmena: Apie rugpjūčio 28 d. Žygimantas slapta nužygiavo į Ašmeną ir įsiveržė į Švitrigailos dvarą, bet jo ten neberado.
-- susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
 - susijęs iš Bajerburgas Raudonė: Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Vytauto užkariavimai pastūmė Lietuvos sienas nuo Baltijos iki Juodosios jūros.
-- susijęs iš Baltijos jūra (sujungti pirminiai pavadinimai Baltijos jūra; Baltijos krantai): Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Nuo I amžiaus po Kristaus gimimo slavų gentis, vadinta venedais, buvo užėmusi Baltijos jūros pakrantę nuo Vyslos žiočių iki pat Samlandijos (Sembos).
-- susijęs iš Baltijos jūra: Po Karolio Didžiojo monarchijos žlugimo skandinavų piratų laivai pasklido po visą Baltijos pakrantę.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies vykdavo į mūšius su Baltojoje Rusioje maištavusiais įvairių valdų kunigaikščiais.
 - susijęs iš Baltoji Rusia: Skirgaila iš Trakų pilies išvykdavo į mūšius su Prūsijos ordinu arba su Baltojoje Rusioje maištaujančiais kunigaikščiais.
 - susijęs iš Baltvyžių girios: Baltvyžių giriose Sviatopolkas Mirskis ir Veriovkinas per medžioklę sutarė prikalbėti carą atšaukti spaudos draudimą.
@@ -6716,20 +6888,10 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Bychovo tvirtovė: Etmonas, iždininkas ir maršalas paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, tačiau iš tikrųjų traukėsi į Kuršą.
 - susijęs iš Chotynas: 1673 m. Chotyno mūšyje Lenkijos ir Lietuvos kariuomenė sumušė turkus.
 - susijęs iš Cudzeniškiai: 1396 m. Vilniuje surašyta privilegija Vytautas dovanojo Vilniaus katedros kapitulai Cudzeniškių valdą prie Medininkų pilies.
-- susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Vytauto laikais išplitę Vilniaus prekybiniai ryšiai pasiekė Gdanską, Sileziją, Karaliaučių, Rygą ir rusų miestus.
-- susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.
 - susijęs iš Daugai: Lietuvos kariuomenei puolant Vilniaus link pavyko iš bolševikų išvaduoti tik Daugus ir Žąslius.
-- susijęs iš Daugava Dvina (sujungti pirminiai pavadinimai Daugava; Dvina): Į rytus nuo Dvinos prie venedų gyvenviečių šliejosi estų, gausios suomių padermės atšakos, gyvenvietės.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytauto laikais Vilniaus prekyba išsiplėtė su Pskovu, Naugardu, Maskva, Prūsijos ir Livonijos miestais.
 - susijęs iš Didysis Naugardas: 1428 m. Vytautas surengė paskutinį savo žygį į Didįjį Naugardą ir paėmė iš jo 10 000 rublių kontribuciją.
 - susijęs iš Didysis Naugardas: Didysis Naugardas netrukus išslydo iš Vytauto įtakos.
 - susijęs iš Didžioji Lietuva: 1914 m. Gintarinėje deklaracijoje lietuviai siekė sujungti Didžiąją ir Mažąją Lietuvą bei gauti autonomiją Rusijos tautų šeimoje.
-- susijęs iš Didžioji gatvė Vilniuje (sujungti pirminiai pavadinimai Didžioji gatvė Vilniuje; Didžioji gatvė): 1507 m. dokumente minimas objektas stovėjo Vilniaus Didžiojoje gatvėje, arti Švč. Trejybės vienuolyno.
-- susijęs iš Didžioji gatvė Vilniuje: 1507 m. dokumente minimas objektas stovėjo Vilniaus Didžiojoje gatvėje, arti Švč. Trejybės vienuolyno.
 - susijęs iš Didžiųjų Lukų tvirtovė: Į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti pusei metų.
 - susijęs iš Dievo Kūno koplyčia: Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.
 - susijęs iš Dievo Kūno koplyčia: 1610 m. Vilniaus kanauninkas Vilčiopolskis mūrinį namą su sklypu užrašė Akademijos kolegijai, 25 metų činšą paskirdamas Dievo Kūno koplyčiai.
@@ -6738,9 +6900,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Dinaburgas: Dinaburgas nurodytas kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.
 - susijęs iš Diunamundė: Diunamundė nurodyta kaip viena iš Livonijos pilių tarp aprašytų vietovių pavadinimų.
 - susijęs iš Dobrynės kunigaikštystė: Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.
-- susijęs iš Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): Užimtame Dobrynės mieste žuvo apie du tūkstančius gyventojų, o kunigaikštystėje buvo plėšiami ir deginami kaimai bei bažnyčios.
-- susijęs iš Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): 1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.
-- susijęs iš Dobrynės žemė: 1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.
 - susijęs iš Drohičinas: Vilniaus katedra gavo didelius valsčius Drohičino, Brastos ir Dubno pavietuose su įvairiais ten renkamais mokesčiais.
 - susijęs iš Drohičinas: Švitrigaila su kryžiuočių pulku įsibrovė į Lietuvą ir sudegino Drohičiną, Naugarduką, Mirą bei Lydą.
 - susijęs iš Druckas: 1505 m. totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes.
@@ -6819,9 +6978,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Karaliaučius: Karaliaučiaus archyve buvo saugomi autentiški Jogailos dokumentai, rašyti prieš jo krikštą.
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai apėmė Karaliaučių, su kuriuo prekiauta nuo seno.
 - susijęs iš Karaliaučius: Vytauto laikais išplitę Vilniaus prekybiniai ryšiai siekė Karaliaučių, Rygą, Gdanską, Sileziją ir rusų miestus.
-- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
-- susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
-- susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
 - susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Kardinalija: Dabartinį Kardinalijos sparną nuo Didžiosios gatvės užėmė Filipovo namai, kurių savininku tapo Mikalojus Kristupas Radvila.
 - susijęs iš Kaskhauzenas: Kaskhauzenas buvo įvardytas tarp Livonijos pilių.
@@ -6874,10 +7030,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Klaipėda: Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.
 - susijęs iš Klaipėda: Maskva grasino prijungti lietuvišką Klaipėdos kraštą prie RSFSR Kaliningrado srities.
 - susijęs iš Klaipėda: Vilniaus ir Klaipėdos problemos laikytos dviem svarbiausiomis Lietuvos užsienio politikos problemomis.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Totoriai ties Kłecku įsirengė stovyklą ir nemažą būrį pasiuntė į Naugarduką.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): Mikalojus Radvila apie 1514 metus pastatė Šv. Jurgio bažnyčią pergalei ties Kłecku prieš totorius atminti.
-- susijęs iš Kleckas (sujungti pirminiai pavadinimai Kleckas; Kłeckas): 1506 metų rugpjūtį ties Kłecku Lietuvos pajėgos pasiekė lemiamą pergalę prieš Krymo ordos karius.
-- susijęs iš Kleckas: Apie liepos 20–22 d. totoriai įsirengė stovyklą prie Klecko, nes 1503 m. jų sunaikintas miestas buvo patogus išpuoliams.
+- susijęs iš Kleckas: Mykolas Glinskis ir Lietuvos kariuomenė po kautynių grįžo į stovyklą prie Klecko su belaisviais ir grobiu.
 - susijęs iš Knišinas: Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.
 - susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
 - susijęs iš Kremlius: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
@@ -6962,6 +7115,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Lietuva: Lietuvos delegacija tarptautiniame forume memorandumais, straipsniais ir pasisakymais kėlė Lietuvos valstybės pripažinimo klausimą.
 - susijęs iš Lietuva: Sugriovus pilis, žemdirbiai palikdavo kaimus, o priešas leisdavosi vis toliau į Lietuvos gilumą.
 - susijęs iš Lietuva: Narbutas citavo priekaištą, kad per 400 metų Lietuvos praeitimi rūpinosi tik Kojalavičius, Mykolas Lietuvis ir Teodoras Narbutas.
+- susijęs iš Lietuva: Narbutas rašo, kad XVI a. teismuose nuosprendžiai būdavo sakomi lietuviškai, o į knygas įrašomi rusiškai, lotyniškai arba lenkiškai.
 - susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus Seimo rezoliucijoje Lietuvos autonomijos teritorijai priskirta ir Užnemunė, arba Suvalkija.
 - susijęs iš Lietuvos Užnemunė: Didžiojo Vilniaus seimo rezoliucijoje autonomijos teritorija apibrėžta kaip etnografinės lietuvių žemės, įskaitant Užnemunę arba Suvalkiją.
 - susijęs iš Liksna: Dinaburgo komtūro pranešimas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Viešpaties Prisikėlimo.
@@ -7085,19 +7239,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Nemunas: Remdamasis Dusburgu, Baliński darė išvadą, kad Gedimino pilis galėjo stovėti prie Nemuno, Lietuvos ar Žemaitijos pasienyje.
 - susijęs iš Nemunas: Narbutas rašė, kad žinioje apie Vilniaus Perkūno šventyklą minimas garsus pranašas kažkur Nemuno žemupyje.
 - susijęs iš Neries sritis: 1362 m. išgriovę Kauno pilį, vokiečiai pradėjo brautis gilyn į Lietuvą ir pasiekė Vilniaus bei Neries sritis.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1492 m. Aleksandras garantavo Vilniaus miestiečiams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1536 m. Žygimantas Senasis suteikė Ulrikui Hozijui teisę pastatyti tiltą per Viliją vietoj nepatogios perkėlos.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Nuo 1556 m. Mikalojaus Radvilos Juodojo dvaras Lukiškėse prie Vilijos tapo reformos šalininkų prieglobsčiu ir mokykla.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): 1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Žemiau Vilniaus Vilijos pakrantėse gyvenę lietuviai kaimiečiai šią upę vadino Nerimi.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Baliński teigė, kad Vilniaus vardas kilo nuo į Viliją įtekančios Vilnios, todėl pirmykštė gyvenvietė turėjo būti prie Vilnios.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Prie Vilniaus buvusi perkėla per Viliją kėlė LDK valdiniams ir kitiems žmonėms sunkumų, išlaidų ir nepatogumų.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Baliński spėjo, kad Vilijos vardas lietuviškai galėjo kilti iš „vilioju“ arba „vylius“ ir reikšti Vilioklę.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Vilnius buvo įsikūręs dviejų upių, Vilijos arba Neries ir Vilnios, santakoje.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Vilniaus pirklių vytinėms buvo leista laisvai plaukioti Vilijos upe.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Barboros rūmai stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
-- susijęs iš Neris: Per mūšius prie Vilniaus plačiai išsiliejusi Neris ir vandens pilni grioviai trukdė galutinai laimėti.
+- susijęs iš Neris: Narbutas cituoja apostrofą Vilijos upei, kurioje Neris prašoma pranešti dievams lyrinio kalbėtojo kančias ir sielvartą.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Nesvyžius: Radvila Juodasis 1562 m. įkūrė spaustuvę Nesvyžiuje.
 - susijęs iš Nesvyžius: Kleckas buvo prie kelių į Pinską, Vilnių, Nesvyžių ir Slucką, todėl totoriams tiko išpuoliams mažesniais būriais.
@@ -7137,10 +7279,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Pernava: Pernava nurodyta kaip viena iš Livonijos pilių.
 - susijęs iš Peterburgas: Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.
 - susijęs iš Peterburgas: Vilniaus Romos katalikų dvasinė akademija buvo perkelta į Sankt Peterburgą, o Vilniaus medicinos-chirurgijos akademija uždaryta.
-- susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Vilniaus Aukštutinės pilies kalnas užslinko ant Manvydo namo ir pridarė daug nuostolių.
-- susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Dinaburgo komtūras Livonijos magistrui pranešė, kad Vilniaus Pilies kalną ištiko griūtis.
-- susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): 1396 m. Vilniaus Pilies kalną ištiko smarki griūtis, kurios nuošliaužos užslinko ant vaivados Manvydo rūmų.
-- susijęs iš Pilies kalnas (sujungti pirminiai pavadinimai Pilies kalnas; Vilniaus pilies kalnas): Vilniaus Pilies kalno griūtis palietė kalną, bet pilies mūrai liko sveiki.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 - susijęs iš Plikieji kalnai: Strijkovskio pasakojime Gediminas medžiojo girioje tarp kalnų, kurie vadinti Plikaisiais.
 - susijęs iš Plockas: 1386 m. Šv. Jono bažnyčią per iškilmes pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
@@ -7340,7 +7478,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vaivados malūnas Užupyje: 1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.
 - susijęs iš Vaivados malūnas Užupyje: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą prie Vilniaus vaivados Mikalojaus Radvilos malūno Užupyje.
 - susijęs iš Vakarų Prūsija: Nuo 1466 m. Vakarų Prūsija ir Varmė buvo tiesiogiai prijungtos prie Lenkijos.
-- susijęs iš Valerijono Bursa (sujungti pirminiai pavadinimai Valerijono bursos; Valerijono Bursa): 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
+- susijęs iš Valerijono bursa: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Valerijono bursos: 1579 m. Vilniaus vyskupas Protasevičius nustatė, kad Akademijai užrašyti namai būtų vadinami Valerijono bursomis.
 - susijęs iš Valkaviskas: Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.
 - susijęs iš Valkaviskas: 1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.
@@ -7387,30 +7525,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Vilija: Balińskis Vilniaus vardą siejo su Vilnia, o ne Vilija, ir iš to sprendė, kad pirmykštė gyvenvietė buvo prie Vilnios.
 - susijęs iš Vilijos upė: Per Vilijos upę tarp Verkių ir Panerių buvo uždrausti perkėlimai plaustais, kad nebūtų kenkiama nustatytam muitui.
 - susijęs iš Vilijos upė: Prie Vilniaus per Vilijos upę naudota perkėla kėlė sunkumų, išlaidų ir nepatogumų LDK valdiniams bei kitiems žmonėms.
-- susijęs iš Vilnelė: 1522 m. prie Vilnelės iškilo popieriaus malūnas.
-- susijęs iš Vilnelė: 1580 metais ant kalno prie Vilnelės, prie Kasparo Bekešo kapo, pastatytas apvalaus bokšto pavidalo paminklas.
 - susijęs iš Vilnelė: 1580 m. ant kalno prie Vilnelės Kasparo Bekešo kapą pažymėjo apvalaus bokšto pavidalo paminklas.
-- susijęs iš Vilnelė: Maksimui Vasiljevičiui buvo dovanota šienaujama pieva prie kelio į Užupį, už Vilnelės.
-- susijęs iš Vilnelė: Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio iš miesto į Užupį.
-- susijęs iš Vilnelė: Gedimino legendoje medžioklė vyko kalne prie Neries ir Vilnelės santakos, o sapną Šventaragio slėnyje išaiškino Lizdeika.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Gediminas įsakė pastatyti mūrinę pilį Vilnelės ir Vilijos upių santakoje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): 1580 metais ant kalno prie Vilnelės Kasparo Bekešo kapui buvo pastatytas apvalaus bokšto pavidalo paminklas.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Pasak autoriaus, Gediminas, statydindamas pilį, iškasė Vilnelei kitą vagą.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
 - susijęs iš Vilniaus gubernija: Per 1863 metus atkakliausiai sukilėliai kovėsi su caro kariuomene Kauno gubernijoje, kurioje įvyko 168 mūšiai ir susidūrimai su caro kariuomene.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Stanislovo garbei, iškilmingai pripažinta katedra.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Elžbieta, Ferdinando duktė ir Žygimanto Augusto žmona, mirė Vilniuje 1545 metais ir buvo palaidota katedros koplyčioje šalia Aleksandro.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš Vilniaus katedra: Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.
 - susijęs iš Vilniaus katedra: Stanislovo garbei, iškilmingai pripažinta katedra.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus pilis: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
 - susijęs iš Vilniaus rotušė: 1547 m. Vilniuje padieniams darbininkams nurodyta rinktis prie rotušės, kad miestiečiai galėtų lengviau juos pasisamdyti.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
-- susijęs iš Vilniaus tiltas per Viliją (sujungti pirminiai pavadinimai Ulriko Hozijaus tiltas per Viliją; Vilniaus tiltas per Viliją): 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Visų Šventųjų bažnyčia: Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.
 - susijęs iš Vitebskas: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
@@ -7466,28 +7586,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Šiaurės Vakarų kraštas: Vilniuje statytomis ir „atstatytomis“ cerkvėmis siekta parodyti, kad Šiaurės Vakarų krašto centras yra ir stačiatikiškas.
 - susijęs iš Štuthofas: Keršydamas už lietuvių pogrindžio boikotą, gestapas 1943 m. kovo viduryje išvežė 46 Lietuvos visuomenės veikėjus į Štuthofą.
 - susijęs iš Štuthofas: 1943 m. kovo viduryje gestapas suėmė 46 Lietuvos visuomenės veikėjus ir išvežė juos į Štuthofo koncentracijos stovyklą.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.
 - susijęs iš Šv. Dvasios dominikonų bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Ulrikas Hozijus pradėjo mūryti prieglaudą prie dominikonų vienuolyno, bet mirė jos nebaigęs.
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Šv. Dvasios prieglaudos sklypo riba prasidėjo nuo vartų priešais Šv. Dvasios bažnyčios kapinių vartus.
 - susijęs iš Šv. Dvasios prieglauda Vilniuje: Valdovo tarėjams buvo pavesta atnaujinti Ulriko Hozijaus pradėtą Šv. Dvasios prieglaudą ir apžiūrėti, kaip ją būtų galima pabaigti.
 - susijęs iš Šv. Jono akademijos spaustuvė: Akademijos kolegija vėlesniais laikais 1631 m. įgytą mūrinį namą ir sklypą pavertė spaustuve.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.
 - susijęs iš Šv. Jono bažnyčia: Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
 - susijęs iš Šv. Jono gatvė: Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.
 - susijęs iš Šv. Jonų bažnyčia: Šv. Jonų bažnyčioje buvo įkurtas Mokslo muziejus.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
 - susijęs iš Šv. Petro vienuolyno vieta Antakalnyje: Narbutas mini padavimą, kad Vilniaus Antakalnyje, dabartinio Šv. Petro vienuolyno vietoje, stovėjusi Mildos šventykla arba koplyčia.
 - susijęs iš Šv. Stanislovo bažnyčia: Šv. Stanislovo bažnyčioje buvo pastatyti marmuriniai Elžbietos ir Barboros antkapiai, vėliau pražuvę Katedros griuvėsiuose.
 - susijęs iš Švarcenburgas: Švarcenburgas nurodytas tarp Livonijos pilių.
@@ -7571,6 +7677,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/Planinė ekonomika.md#claim-t-183452|Planinė ekonomika]]: Planinės ekonomikos metais Lietuvos visuomenėje tikėta, kad perėmus gamybą bus galima ją paskirstyti pagal poreikius ir valstybė suklestės.
 - susijęs iš [[objektai/zodynas/Plikasis kalnas Lyse góry.md#claim-t-189172|Plikasis kalnas Lyse góry]]: Narbutas rašė, kad lietuviai turėjo dievams skirtų kalnų, tačiau tikrai lietuviškuose pasakojimuose Plikasis kalnas neminimas.
 - susijęs iš [[objektai/zodynas/Puotininkai Potinikas Pietiniki.md#claim-t-189321|Puotininkai Potinikas Pietiniki]]: Narbutas Ragučio šventikus pietiniki, arba Puotininkus (Potinikaj), aiškino kaip senojo miško pavadinimo Petionka kilmę.
+- susijęs iš [[objektai/zodynas/Regentas.md#claim-t-192327|Regentas]]: Narbutas Vaitiekų Jučą apibūdina kaip buvusį Vilniaus Vyriausiojo teismo departamento regentą.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
 - susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
 - susijęs iš [[objektai/zodynas/Rusų-lietuvių valstybė.md#claim-t-86639|Rusų-lietuvių valstybė]]: Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.
@@ -7626,7 +7733,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/demobilizacija.md#claim-t-42443|demobilizacija]]: Kazys Ladyga po demobilizacijos grįžo į Lietuvą ir prisidėjo prie pirmųjų Lietuvos kariuomenės dalinių organizavimo.
 - susijęs iš [[objektai/zodynas/dešimtinė.md#claim-t-173012|dešimtinė]]: Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131657|diarchija]]: Lietuvos žemių dviejų kunigaikščių valdymas istorikų vadintas dualizmu arba diarchija ir nežuvo po Algirdo mirties 1377 m.
-- susijęs iš [[objektai/zodynas/diecezija.md#claim-t-86522|diecezija]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86463|disidentai reformatai reformatoriai]]: Disidentų pusėje Andrius Volanas beveik vienas atremdinėjo jėzuitų priešinimąsi.
 - susijęs iš [[objektai/zodynas/disidentai reformatai reformatoriai.md#claim-t-86465|disidentai reformatai reformatoriai]]: Andrius Volanas Vilniuje buvo laikomas uoliu reformatų idėjų skleidėju.
@@ -7663,10 +7769,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/zodynas/jazai.md#claim-t-86590|jazai]]: Valdiniams uždrausta per Vilijos upę nuo Nemenčinės dvaro iki Kernavės statyti mažus tiltelius, vadinamus jazais.
 - susijęs iš [[objektai/zodynas/ješiva.md#claim-t-23436|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
 - susijęs iš [[objektai/zodynas/ješiva.md#claim-t-26964|ješiva]]: Vilniaus Gaono siūlymu ješivose buvo pertvarkytas žydų teologijos dėstymas ir patobulintos Talmudo studijos jidiš kalba.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173018|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173019|jurisdikcija]]: Vilniaus tarėjai reikalavo atleisti miestą nuo Vilniaus kapitulos naujai pasisavintos jurisdikcijos.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173020|jurisdikcija]]: Vilniaus katedros kapitula bažnytinėse savo asmenų ir valdinių bylose turėjo jurisdikciją su ekskomunikacijos teise.
-- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-173022|jurisdikcija]]: Vilniaus vyskupui ir jo įpėdiniams suteikta mėsos krautuvių kūrimo jurisdikcija Vilniaus bažnyčios teritorijoje.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86529|kahalas]]: Akademijos rektorius Juraha nuėmė viderkafto mokestį nuo Švarco namu vadinto mūro ir priskyrė jį kahale investuotoms sumoms.
 - susijęs iš [[objektai/zodynas/kahalas.md#claim-t-86530|kahalas]]: Vilniaus kahalas iki 1763 m. nuo 5500 auksinų sumos Valerijono konvikto gyventojams mokėjo 8 procentus.
 - susijęs iš [[objektai/zodynas/kantonas kantoninis principas.md#claim-t-104189|kantonas kantoninis principas]]: Lietuviams sutikus derėtis tik dėl Lietuvos su sostine Vilniumi, P. Himansas parengė Kauno ir Vilniaus kantonų projektą.
@@ -7877,8 +7979,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Vilniaus rusinai.md#claim-t-86775|Vilniaus rusinai]]: Didesnę Vilniaus miestiečių dalį sudarė graikų apeigų tikėjimą išpažinę rusinai.
 - susijęs iš Rusų žemė: Pasak Lietuvos metraščio, Aleksandras su Elena ir didikais tą žiemą važiavo apžiūrėti Rusų žemės ir lankėsi Smolenske, Vitebske bei Polocke.
 - susijęs iš Rusų žemė: Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke, o pavasariop grįžo į Vilnių.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš [[objektai/ivykiai/Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.).md#claim-t-86948|Jogailos ir Skirgailos pergalė prieš Ragainės komtūrą (1384 m.)]]: 1384 m. Jogaila ir Skirgaila tarp Vilniaus ir Ukmergės nugalėjo Ragainės komtūrą ir sunaikino jo kariauną.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
@@ -7886,6 +7986,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40372|Nikolajus Arsenjevas]]: Nikolajus Arsenjevas buvo rusų Vilniaus įgulos vadas, kurį sukilėliai paėmė į nelaisvę Pacų rūmuose.
 - susijęs iš [[objektai/asmenys/Nikolajus Arsenjevas.md#claim-t-40373|Nikolajus Arsenjevas]]: Sukilėliams puolant miestą, Vilniaus įgulai tiesiogiai vadovavo generolas majoras Nikolajus Arsenjevas.
 - susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87576|Snorro Sturleson]]: Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.
+- susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-193043|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176687|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis Trakuose ir Algirdo šeimoje Vilniuje susidurdavo su krikščionybės idėjomis.
 - susijęs iš [[objektai/asmenys/Česchonis.md#claim-t-87896|Česchonis]]: Česchonis buvo Vilniaus miestietis, kurio namas minėtas apibrėžiant Vilniaus miesto dalies ribas.
 - susijęs iš [[objektai/autoriai/Stryjkowski Strijkovskis.md#claim-t-88007|Stryjkowski Strijkovskis]]: Strijkovskis savo kronikoje Vilniaus įkūrimą priskyrė Gediminui.
@@ -7904,25 +8005,49 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai.md#claim-t-86813|Naugardo, Pskovo, Rygos ir Maskvos pirkliai]]: Algirdo laikais Vilniuje vyko laisvi prekių mainai tarp Naugardo, Pskovo, Rygos ir Maskvos pirklių.
 - susijęs iš [[objektai/grupes/Pranciškonų ordinas.md#claim-t-108305|Pranciškonų ordinas]]: Grzybowskis rašė, kad Goštautas, tapęs pranciškonu Krokuvoje, Vilniuje vertė miestiečius į krikščionių tikėjimą.
 - susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86689|Vilniaus gyventojai]]: Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.
+- susijęs iš [[objektai/ivykiai/Herbo suteikimas Ostapui Kropotkovui.md#claim-t-192036|Herbo suteikimas Ostapui Kropotkovui]]: Ostapui Kropotkovui herbas ir Podbužo dvaras Voluinėje buvo suteikti už nuopelnus kare su totoriais.
 - susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186804|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: Nuo 1502 m. Krymo totorių antpuoliai persikėlė į šiaurę nuo Pripetės pelkių, į Naugarduko ir Vilniaus vaivadijas.
+- susijęs iš [[objektai/ivykiai/Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo.md#claim-t-192047|Petro Lavrovo laiškas Teodorui Narbutui dėl lietuvių kilmės tyrinėjimo]]: Narbutas nurodė: Griškaitės aiškinimu, Lavrovo laiškai rodė, kad lietuvių kilmės klausimas penktajame dešimtmetyje tebebuvo diskusijų objektas.
 - susijęs iš [[objektai/ivykiai/Reformacijos pradžia Lietuvoje.md#claim-t-20460|Reformacijos pradžia Lietuvoje]]: Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.
 - susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos.md#claim-t-87272|Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]: Aleksandras lydėjo rogėse sėdinčią Eleną į Vilnių, kur ji po graikų apeigų mišių buvo nuvesta į Šv. Stanislovo katedrą.
-- susijęs iš [[objektai/paprociai/Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje.md#claim-t-187826|Masonų ložių ir studentų organizacijų kultūrinis bei dorovinis lavinimasis Vilniuje]]: Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.
 - susijęs iš [[objektai/paprociai/Panedėlio už grieką laikymas.md#claim-t-07797|Panedėlio už grieką laikymas]]: Daug lietuvių panedėly vengė tolimos kelionės ar sunkaus darbo, nes šią dieną laikė grieku ir dangstė karaliaus dienos šventimu.
 - susijęs iš [[objektai/paprociai/Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui.md#claim-t-87148|Valdovų ir pasiuntinių suvažiavimo sušaukimas karūnacijos ir tarptautinių klausimų svarstymui]]: 1430 m. Vytautas sukvietė į Trakus ir Vilnių šiaurės šalių kunigaikščius arba jų pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.
 - susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
+- susijęs iš Gazeta Warszawska: „Gazeta Warszawska“ buvo svarbi M. Balinskio publicistinės literatūros dalis.
 - susijęs iš K. Chodynicki Legenda o męczeństwie czternastu Franciszkanów w Wilnie: K. Chodynickio „Legenda o męczeństwie czternastu Franciszkanów w Wilnie“ 1927 m. paskelbta AW IV tome, 53–78 puslapiuose.
 - susijęs iš Naujosios Prūsijos žemės kronika: Vygando liudijimu, po penkias savaites trukusių kautynių kryžiuočiai atsitraukė nuo Vilniaus ir grįžo į Prūsiją bei Livoniją.
+- susijęs iš Uusi Suomi: „Uusi Suomi“ šiame šaltinyje apibūdinamas kaip vienas didžiausių ir įtakingiausių suomių dienraščių.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
+- susijęs iš Daugava: Bremeno pirkliai 1158 m. atrado vakarinės Dvinos, arba Dauguvos, žiotis ir užmezgė prekybinius ryšius su tenykščiu pamariu.
+- susijęs iš Dobrynės žemė: 1323 ir 1324 metais Gedimino kariauna įsiveržė į Mazoviją ir Dobrynės žemę bei žiauriai siaubė gyventojus.
 - susijęs iš Druja: Sapiegos paskleidė gandą, kad vyksta į Drują ir Bychovo tvirtovę, bet iš tikrųjų traukėsi į Kuršą.
-- susijęs iš Karališkasis malūnas Vilniuje: Karališkasis malūnas Vilniuje Lietuvos Metrikoje buvo įvardytas kaip Molendinum Vilnense, arba Vilniaus malūnas.
+- susijęs iš Karališkasis malūnas Vilniuje: 1515 m. Žygimantas Senasis leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.
 - susijęs iš Kijevo Rusia: Politiniai pokyčiai Vilniuje Lietuvos ir Rusios valdymą perleido Algirdo rankoms.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Rūdninkų vartai ir Rūdninkų gatvė Vilniuje: Žygimantų laikais Vilniuje atsiradę nauji vartai ir nuo jų vingiuojanti gatvė gavo Rūdninkų vardą.
+- susijęs iš Vilniaus Aukštutinė pilis: Pagal Lizdeikos sapno aiškinimą Gediminas ant Tauro kalno pastatydino Aukštutinę mūro pilį.
+- susijęs iš Vilniaus Aukštutinė pilis: Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš Vilniaus pilys: Vilnelės ir Vilijos santakoje buvo įsakyta pastatyti mūrinę pilį ant žmonių rankomis paaukštinto kalno.
+- susijęs iš Vilniaus tiltas per Viliją: Ulrikas Hozijus įvykdė karaliaus pavedimą: per Viliją pastatė mūrinį tiltą, o po jo mirties darbus užbaigė sūnus Jonas.
+- susijęs iš Vilniaus tiltas per Viliją: 1536 m. Žygimantas Senasis Ulrikui Hozijui suteikė teisę pastatyti tiltą per Viliją vietoje nepatogios perkėlos.
 - susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir išlaikyti viešą špitolę.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šv. Dvasios bažnyčios kapinių vartai buvo priešais įėjimą į prieglaudos namus.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Šv. Dvasios dominikonų bažnyčioje buvo galima matyti karaliaus Aleksandro ir kunigo Korčiako portretus ant priešais stovinčių kolonų.
+- susijęs iš Šv. Dvasios bažnyčia Vilniuje: Hozijus buvo įpareigotas prie dominikonų Šv. Dvasios bažnyčios pastatyti ir nuolat išlaikyti viešą špitolę.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: 1386 m. Šv. Jono bažnyčią, pradėtą statyti Vladislovo Jogailos lėšomis ir užbaigtą Vytauto, pašventino Kijevo vyskupas Mykolas ir Plocko vyskupas Stanislovas.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: 1668 m. gegužės 17 d. karaliaus raštu Šv. Jono bažnyčios priklausomybė pripažinta vienuoliams jėzuitams.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Balińskis nurodė, kad jo prielaidos dėl Šv. Onos bažnyčios atsiradimo pateiktos 268 puslapyje.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: Karalius testamentu pavedė seserims plėsti Švč. Trejybės prieglaudą, supirkinėjant aplinkinius namus.
+- susijęs iš Švč. Trejybės špitolė Vilniuje: Šventosios Trejybės prieglaudą buvo numatyta plėsti supirkus namelius prie Šventosios Trejybės ir Šv. Dvasios bažnyčių.
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54805|Cechas]]: Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.
+- susijęs iš [[objektai/zodynas/jurisdikcija.md#claim-t-192172|jurisdikcija]]: 1578 m. Steponas Batoras atleido Akademijos profesorius ir studentus nuo dvasinės ir pasaulietinės jurisdikcijos bei mokesčių.
 - susijęs iš [[objektai/ivykiai/Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m..md#claim-t-186805|Krymo totorių antpuoliai LDK teritorijoje 1502-1503 m.]]: 1502-1503 m. Krymo totorių antpuoliai pasiekė valstybės centrą ir, komentaro vertinimu, darė didelį nemalonų įspūdį LDK visuomenei.
 - susijęs iš [[objektai/zodynas/svečiai Svečių namai.md#claim-t-86552|svečiai Svečių namai]]: Aleksandras leido Vilniui statyti Svečių namus, siekdamas miesto bei muito pelno ir išorinio saugumo.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-184717|Jaunutis (valdovas, XIV a.)]]: Kęstučiui užėmus Vilniaus pilis, Jaunutis pabėgo iš pilies, bet Kęstučio raiteliai jį sugrąžino iš miško.
@@ -7973,8 +8098,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje.md#claim-t-86717|Lenkų įgula Vilniaus Aukštutinėje pilyje]]: Po mūšio tarp Verkių ir Šeškinės visa lenkų įgula ir dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose bei aptvaruose.
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-26900|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de Lite).
 - susijęs iš [[objektai/posakiai/„Lietuvos Jeruzalė“ „Jerušalaim de Lite“.md#claim-t-67312|„Lietuvos Jeruzalė“ „Jerušalaim de Lite“]]: XVIII a. Vilnius buvo pavadintas „Lietuvos Jeruzale“, nes tapo žydų gyvenimo pastovumo ir kultūros klestėjimo simboliu.
-- susijęs iš Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje): 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
-- susijęs iš Karališkasis malūnas Vilniuje: 1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54975|Kazimieras Karigaila]]: Karigaila kovėsi su Vytautu, žemaičiais, Derbio kunigaikščiu ir anglų pėstininkais Vilniaus puolimo metu.
@@ -7994,7 +8117,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą.md#claim-t-87234|Vilniaus miestiečių gynybinė prievolė statyti miesto sieną ir eiti vartų sargybą]]: Vilniaus miestiečiai turėjo dieną ir naktį eiti sargybą prie miesto vartų.
 - susijęs iš Knyga su Lietuvos Metrikos archyvo sąrašu: Lietuvos Metrikos archyvo sąraše užfiksuota, kad Janas Filipovičius pardavė karalienei Elenai sklypą Vilniaus pilyje už 90 kapų.
 - susijęs iš Naugardukas: Per ankstesnį žygį totoriai siaubė Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Dabartinė Šv. Onos bažnyčia prie bernardinų bažnyčios buvo užbaigta ir pašventinta 1581 m., po Žygimanto Augusto mirties.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173189|Kazimieras Karigaila]]: Kazimieras Karigaila žuvo mūšio lauke, bėgdamas gelbėtis į Aukštutinę pilį ir priešų neatpažintas.
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-54976|Kazimieras Karigaila]]: Karigaila, vadinamas vyriausiuoju vadu, žuvo bėgdamas į Aukštutinę pilį.
 - susijęs iš [[objektai/autoriai/Walsinghamas.md#claim-t-88085|Walsinghamas]]: Walsinghamas savo kronikoje 1390 m. Vilniaus užėmimo garbę priskyrė Derbio grafui ir nurodė apie 4 000 užmuštų bei sužeistų lietuvių.
@@ -8015,7 +8137,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/ivykiai/Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.).md#claim-t-24531|Lenino paminklo pašalinimas Vilniuje (1991 m. rugpjūčio 23 d.)]]: Vilniuje buvo pašalintas Lenino paminklas.
 - susijęs iš Kauno Vilniaus pirklių prekių sandėlis: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
 - susijęs iš Visų Šventųjų bažnyčia: Vilniaus Visų Šventųjų bažnyčioje sovietmečiu veikė Liaudies meno muziejus.
-- susijęs iš Šv. Dvasios bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Dvasios dominikonų bažnyčia Vilniuje; Šv. Dvasios bažnyčia Vilniuje): 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš Šv. Dvasios dominikonų bažnyčia Vilniuje: 1501 m. Aleksandras pakvietė dominikonus į Vilnių, atidavė jiems Šv. Dvasios kleboniją ir skyrė lėšų bažnyčiai bei vienuolynui statyti.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179317|Lietuviai]]: Po mūšio tarp Verkių ir Šeškinės dalis lietuvių pajėgų užsidarė Vilniaus tvirtovių mūruose ir aptvaruose.
 - susijęs iš Lindenblatt Jahrbücher: Lindenblatt Jahrbücher kryžiuočių persikėlimą per Viliją datavo rugpjūčio 28 d., o priartėjimą prie Vilniaus - rugsėjo 4 d.
@@ -8024,7 +8145,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
 - susijęs iš Karališkasis malūnas: 1469 m. bernardinams Vilniuje buvo atiduotas platus slėnis palei Vilnios upę prie Karališkojo malūno.
 - susijęs iš Naugardukas: Totorių žygis nusiaubė Naugarduko ir Slucko apylinkes, priklausiusias tankiai apgyventam LDK branduoliui.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vingrių šaltiniai: Prie Vilniaus, ant tilto, kur Vingrių versmės plovė miesto aptvarus, užvirė atkaklus mūšis.
 - susijęs iš Vroclavas: 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
 - susijęs iš Vroclavas: 1432 m. Vroclavo gyventojai per Ordino žemes atvykdavo į Lietuvą ir Vilnių su savo prekėmis.
@@ -8042,7 +8162,6 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš Minskas: Nors Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų veržimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai priartėjo prie Vilniaus.
 - susijęs iš Silezija: Į Vilnių atvykę amatininkai iš Silezijos ir kitų Vokietijos žemių tapo turtingiausiu miesto gyventojų sluoksniu.
 - susijęs iš Šv. Dvasios dominikonų vienuolynas Vilniuje: Prieglaudos namus vargšams ir ligoniams buvo numatyta statyti prie Šv. Dvasios dominikonų vienuolyno Vilniuje.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
 - susijęs iš [[objektai/asmenys/Henrikas Plauenas.md#claim-t-87689|Henrikas Plauenas]]: Henrikas Plauenas 1468 m. Vilniuje lenkėsi prieš Kazimiero Jogailaičio sostą.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-54987|Petras Goštautas]]: Petras Goštautas, valdovo vietininkas Lietuvoje, globojo pranciškonus Vilniuje ir saugojo juos nuo negandų.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179726|Švitrigaila]]: Livonijos magistro ir totorių remiamas Švitrigaila vėl užėmė Ašmeną ir priartėjo prie Vilniaus per septynetą mylių.
@@ -8089,6 +8208,7 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
 - susijęs iš [[objektai/paprociai/Arijonų ir svetimšališkas laidojimas už miesto ant kalno.md#claim-t-87261|Arijonų ir svetimšališkas laidojimas už miesto ant kalno]]: Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.
 - susijęs iš Vitebskas: Prieš žygį į Lietuvą Švitrigaila savo ir pavaldžių rusų kunigaikščių pajėgas sutelkė Vitebske.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8102,11 +8222,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jėgęs tik vyriausias žynys Lizdeika išaiškinti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-270
     - t-132
+
 - c-002
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8118,11 +8240,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jau buvo perkėlęs savo sostinę^15.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-268
     - t-191
+
 - c-003
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8132,11 +8256,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kronikininkas J. Posilge — « didžiuoju seniūnu »^25.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-289
     - t-189
+
 - c-004
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8152,11 +8278,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gos pirklys Hanulo įteikė jam pilies raktus^1 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-237
     - t-247
+
 - c-005
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8171,11 +8299,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
     - t-140
+
 - c-006
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8188,11 +8318,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     penki autoriai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-089
     - t-055
+
 - c-007
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8206,10 +8338,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pasieksiąs didelio garso.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-123
+
 - c-008
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -8219,6 +8353,8 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     etnografinių lietuvių žemių rytuose.
   citata_rodoma: ''
   statusas: verified
+
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
 - c-009
@@ -8230,10 +8366,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jau nieko nebegalėjo padaryti.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-228
+
 - c-010
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8246,11 +8384,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-161
     - t-169
+
 - c-011
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8263,11 +8403,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     užėmė pilį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: interpretacija
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-160
     - t-023
+
 - c-012
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8279,10 +8421,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     traukti į Prūsus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-041
+
 - c-013
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8296,11 +8440,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     (1377).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-275
     - t-272
+
 - c-014
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8312,10 +8458,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lenkijos atžvilgiu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-224
+
 - c-015
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8328,11 +8476,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-223
     - t-076
+
 - c-016
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8353,12 +8503,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jau išvykus iš miesto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-263
     - t-276
     - t-255
+
 - c-017
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8376,10 +8528,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ginkluotų civilių Vilniaus gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-261
+
 - c-018
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8422,10 +8576,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nėjų artilerija nebuvo papildyta.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-165
+
 - c-019
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8449,11 +8605,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     telių ir 19 artilerijos pabūklų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-052
     - t-065
+
 - c-020
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8464,11 +8622,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     | šiek tiek pakenčiamus batus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-193
     - t-244
+
 - c-021
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8480,10 +8640,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Smurgainis (E).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-088
+
 - c-022
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8492,10 +8654,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tolesni politiniai įvykiai jai sutrukdė tinkamai plėtotis ir stiprėti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-023
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8510,11 +8674,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     palaikė ryšius su Lietuvos priešu, Krimo chanu Mengli-Girėju,
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-196
     - t-271
+
 - c-024
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8524,11 +8690,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     bininkų ir mokslininkų humanistų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-114
     - t-148
+
 - c-025
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8541,10 +8709,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gaikščio koplyčios.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-179
+
 - c-026
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8557,10 +8727,12 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     katalikų kunigus, pakeisdamas juos kalvinais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-047
+
 - c-027
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8574,11 +8746,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kariuomenę, kuri buvo suspiesta Pskove.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-038
     - t-262
+
 - c-028
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -8595,12 +8769,33 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nežinoma).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-124
     - t-205
+
 - c-029
+  santrauka: 'Todėl Vilniaus vyskupas Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jėzuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadinamą kolegija (žiūr.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Todėl Vilniaus vyskupas
+    Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo
+    ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jė-
+    zuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadi-
+    namą kolegija (žiūr. 254 psl.). Maža to, vyskupas Protasevičius,
+    nesigailėdamas savo turtų, rūpinosi įkurti Vilniuje ir aukštąją
+    mokyklą. Tatai jis irgi pavedė padaryti tiems patiems jėzuitams.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-347
+
+- c-030
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl kai 1578 m. Vilniaus
@@ -8611,11 +8806,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tvirtino ir popiežius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-128
-- c-030
+
+- c-031
   santrauka: 'Po 1938 m. ultimatumo Lietuva turėjo įsteigti konsulatą Vilniuje ir paleisti patriotinę Vilniui vaduoti sąjungą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -8629,11 +8826,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vilnius yra Lietuvos sostinė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
-- c-031
+
+- c-032
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     1919 m. balandžio pradžioje Lietuvos karinė vado-
@@ -8646,11 +8845,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kelį pro Lentvarį pulti Vilnių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-177
-- c-032
+
+- c-033
   santrauka: 'Karalius Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8673,11 +8874,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tės, valdovas Vilniui suteikė Magdeburgo teises15.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-049
-- c-033
+
+- c-034
   santrauka: 'Lenkai nusprendė pasinaudoti spraga bolševikų pozicijose ir surengti stambią puolamąją operaciją Vilniui užimti.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8694,11 +8897,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vilnių ir pirmiau nei lenkai jį užimti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-185
-- c-034
+
+- c-035
   santrauka: 'Po nesėkmingos Vilniaus pilies apsupties kryžiuočiai atsitraukė, nusiaubę kraštą ugnimi ir kalaviju.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8724,11 +8929,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     fas Algardas34.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-112
-- c-035
+
+- c-036
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Gedimi­
@@ -8746,12 +8953,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     atšaka).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-042
     - t-238
-- c-036
+
+- c-037
   santrauka: '1535 m. Žygimantas Senasis Vilniuje apžiūrėjo versmę, kad nustatytų, ar ji trykšta karaliaus žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8766,11 +8975,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-058
-- c-037
+
+- c-038
   santrauka: '1506 m. totoriams nusitaikius į Vilnių, miestiečiai apjuosė miestą mūro pylimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8786,11 +8997,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     limu, išmetę medinius statinius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-235
-- c-038
+
+- c-039
   santrauka: 'Karalius Vilniuje užkirto kelią piktnaudžiavimams ir maištams dėl pataisyto kalendoriaus įvedimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8808,11 +9021,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     stengtasi kuo rimčiau saugoti nuo pažeidimų67.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-091
-- c-039
+
+- c-040
   santrauka: 'Balińskis Žygimanto Augusto laikus Vilniui vadino aukso amžiumi, o jo mirtį siejo su visuotiniu sielvartu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8824,11 +9039,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     anuomet jam buvo mieliausias iš visų Lenkijos miestų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-095
-- c-040
+
+- c-041
   santrauka: 'Vytauto laikais Vilniaus žemėse buvo gausu didžiojo kunigaikščio dvarų ir ūkio centrų.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -8841,11 +9058,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     arčiau didž. Lietuvos kunigaikščio būstinės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-060
-- c-041
+
+- c-042
   santrauka: 'Vilnius tuo metu turėjo 155 tūkst. gyventojų, o prieš Pirmąjį pasaulinį karą jų skaičius siekė 200 tūkst.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -8853,11 +9072,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jau 200 tūkst.), Kaunas – daugiau kaip 70 tūkst. gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-158
-- c-042
+
+- c-043
   santrauka: 'Vilniaus vyskupas Povilas ir Vilniaus miesto piliečių bendrija ginčijosi dėl mėsinių turguje ir miesto aikštėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -8880,11 +9101,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nuo minėto pono Vilniaus vyskupo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-083
-- c-043
+
+- c-044
   santrauka: 'Sapiegų etmonas, pamatęs supamą kariuomenę ir respublikonų užimtą gurguolę, nusprendė trauktis į Vilnių.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -8899,11 +9122,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     las A. P. Sapiega bei totorių vėliavos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-215
-- c-044
+
+- c-045
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XVI a. vidu-
@@ -8928,12 +9153,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-194
     - t-220
-- c-045
+
+- c-046
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Jaunavedžiai
@@ -8944,11 +9171,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     rinkti su miesto istorija susijusius dokumentus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-093
-- c-046
+
+- c-047
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Tačiau kartu litvakais imta vadinti žydus, kuriems
@@ -8960,11 +9189,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-067
-- c-047
+
+- c-048
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS Ml L  STO ISTORIJA / TOMAS
@@ -8984,12 +9215,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-117
     - t-287
-- c-048
+
+- c-049
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Jaunutis išsigelbėjo pabėgda­
@@ -9004,12 +9237,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     galingiausiu valdovu Šiaurės Europoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-195
     - t-164
-- c-049
+
+- c-050
   santrauka: '1801 m. Vilniuje pradėjusi veikti generalgubernatoriaus institucija valdė Lietuvos Vilniaus ir Lietuvos Gardino gubernijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -9022,11 +9257,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-035
-- c-050
+
+- c-051
   santrauka: '1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9040,11 +9277,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vilniaus miesto gerovės ir reikmių40.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-190
-- c-051
+
+- c-052
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1316–1341
@@ -9055,11 +9294,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Krėvos sutartis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-213
-- c-052
+
+- c-053
   santrauka: '1325 m. Vilniuje buvo pasirašyta Gedimino sutartis su Lokietka dėl bendros kovos su Prūsijos ordinu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9080,12 +9321,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tų vėlesnio susijungimo ir galios pirmosios gijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-121
     - t-030
-- c-053
+
+- c-054
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
@@ -9099,11 +9342,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     krikščioniškąja kultūra26.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
-- c-054
+
+- c-055
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Prasi-
@@ -9112,11 +9357,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džiu, Vytautas padėjo pamatus naujajai Lietuvai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
-- c-055
+
+- c-056
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Pranciškaus
@@ -9144,11 +9391,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     miestą nuo visiškos pražūties.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-146
-- c-056
+
+- c-057
   santrauka: 'Didysis Vilniaus Seimas vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -9165,11 +9414,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dėl politinės autonomijos Lietuvai suteikimo priėmimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-084
-- c-057
+
+- c-058
   santrauka: 'Didysis magistras su visa kariauna patraukė į Vilnių, kai lietuvių vadas pasitraukė iš kryžiuočių akiračio.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9185,11 +9436,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     goti daliniams, išleistiems parūpinti maisto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-101
-- c-058
+
+- c-059
   santrauka: 'Vilniuje iškilo Kardinalija, buvo užbaigta ir pašventinta Šv. Onos bažnyčia, pradėta Šv. Kazimiero bažnyčia.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9206,11 +9459,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     te, pradėta Šv. Kazimiero bažnyčia71.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-082
-- c-059
+
+- c-060
   santrauka: 'Atvykusiems lenkams anuometinis Vilnius pasirodė niūrokas, bet išsiskyrė gražiu kraštovaizdžiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9226,11 +9481,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-127
-- c-060
+
+- c-061
   santrauka: '1432 m. rugsėjo 23 d. Žygimantas suteikė Vilniaus miestiečiams teisę be muitų gabenti prekes Lietuvos žemėje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9249,11 +9506,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čio 19 d. Ind.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-250
-- c-061
+
+- c-062
   santrauka: 'Ulrikui Hozijui buvo pavesta savo lėšomis pastatyti tvirtą tiltą per Viliją prie Vilniaus miesto.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9295,11 +9554,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     varomas parduoti, - vienas denaras arba obolas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-203
-- c-062
+
+- c-063
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
@@ -9310,12 +9571,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     trų vienuolynas).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-171
     - t-172
-- c-063
+
+- c-064
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Betgi toje epochoje, kai naujos civilizacijos
@@ -9344,12 +9607,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dinę keletą namų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-231
     - t-240
-- c-064
+
+- c-065
   santrauka: 'Per pusę šimtmečio Vilniaus demografinė padėtis pasikeitė lietuvių naudai, o lenkų Vilniuje liko 20 procentų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -9370,11 +9635,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     su Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-249
-- c-065
+
+- c-066
   santrauka: 'Gedimino laiške Vilnius minimas kaip valdovo miestas, kuriame pastatyta bažnyčia minoritams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9398,11 +9665,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nus ir sielas žaloja.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-234
-- c-066
+
+- c-067
   santrauka: '1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9418,11 +9687,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-126
-- c-067
+
+- c-068
   santrauka: 'Stepono Batoro laikais Vilniuje gerokai išaugo spaustuvių skaičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9450,11 +9721,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir katalikams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-199
-- c-068
+
+- c-069
   santrauka: 'Jogailos šalininkai užėmė Vytauto saugotą Vilniaus pilį, išžudę Kęstučio sargybas.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -9466,11 +9739,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vilniaus miesto vokiečiai suvaidino žymų vaidmenį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-266
-- c-069
+
+- c-070
   santrauka: 'Gedimino laiškas buvo duotas Vilniuje 1323 m. Kristaus Kūno dieną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9483,11 +9758,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kūno dienoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
-- c-070
+
+- c-071
   santrauka: '1859 m. vadove po Vilnių Adomas Honorijus Kirkoras rašė, kad miestas jau turi savo istorikus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9500,11 +9777,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-143
-- c-071
+
+- c-072
   santrauka: 'Strijkovskis ir Kojelavičius Vilniaus įkūrimą priskyrė Gediminui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9522,12 +9801,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nuo Trakų, kur Vilnios upė įteka į Viliją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-259
     - t-162
-- c-072
+
+- c-073
   santrauka: 'Vilniaus miesto taryba ir Vilniaus katedros kapitula ginčijosi dėl kapitulos jurisdikcijos miesto gyventojams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9553,11 +9834,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     civilinei įstaigai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-096
-- c-073
+
+- c-074
   santrauka: 'Vilniuje Bernardinų gatvėje mūrinis namas buvo padovanotas kaip bursa neturtingiems studijas tęsiantiems studentams.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9589,11 +9872,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     diligenter rogamus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-175
-- c-074
+
+- c-075
   santrauka: 'Per epidemiją Vilniuje mirė daugiau kaip dvidešimt tūkstančių žmonių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9613,11 +9898,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     padariniai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-045
-- c-075
+
+- c-076
   santrauka: 'Apie 1555 m. Vilniuje pasirodė kunigas, slapta persiėmęs viklifininkų sektos nuostatomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9630,11 +9917,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mokyti vokiečių kilmės pirklius ir amatininkus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-100
-- c-076
+
+- c-077
   santrauka: 'Sovietmečiu rusakalbiai lengviau kėlėsi į Vilnių, kur vyravo jiems sava rusakalbė aplinka, nei į mažai žinomus LSSR pramonės miestus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -9651,11 +9940,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     viai sudarė apie 80 proc. visų gyventojų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-214
-- c-077
+
+- c-078
   santrauka: 'Per 20 metų kryžiuočiai surengė 70 žygių į Lietuvą ir pirmą kartą pasiekė Vilnių bei Trakus, o lietuviai atsakė 30 žygių į Ordino teritoriją.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -9666,11 +9957,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
-- c-078
+
+- c-079
   santrauka: 'Vilniaus vyskupas Valerijonas Protasevičius 1569 m. pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9693,11 +9986,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mingų faktų, kurie padarė stiprią įtaką viso krašto likimui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-243
-- c-079
+
+- c-080
   santrauka: 'Kęstutis, susitaręs su Algirdu, 1344-1345 m. žiemą užėmė Vilnių ir suėmė Jaunutį.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -9708,11 +10003,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nutį suėmė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-200
-- c-080
+
+- c-081
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Be to, bajorų pravoslavų teisės
@@ -9724,11 +10021,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nieko nelaimėdavo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
-- c-081
+
+- c-082
   santrauka: 'Žygimanto Augusto laikais į Vilnių atvyko Krokuvos amatininkai, prisidėję prie miesto cechų organizavimo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9750,11 +10049,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     antspaudu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-170
-- c-082
+
+- c-083
   santrauka: 'Sukilimui apėmus Lietuvą, Rusijos valdžia kontroliavo tik Vilnių, iš kurio į sukilėlių gretas pasitraukė keli šimtai studentų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9766,11 +10067,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     netrukus paleistas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-210
-- c-083
+
+- c-084
   santrauka: 'Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9800,11 +10103,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Algirdaičių tiko į didžiuosius kunigaikščius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-248
-- c-084
+
+- c-085
   santrauka: 'Prie Vilniaus pilies prieglobsčio ieškojo žmonės, tikėjęsi apsisaugoti nuo kryžiuočių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9820,12 +10125,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ninko - Vokietijai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-182
     - t-280
-- c-085
+
+- c-086
   santrauka: 'Nepavykus atkurti universiteto Vilniuje, buvo įkurtos Lietuvių mokslo draugija ir Vilniaus mokslo bičiulių draugija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -9840,11 +10147,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     telkusi lenkiškai kalbančiuosius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-144
-- c-086
+
+- c-087
   santrauka: 'Karalaitės buvo įpareigotos funduoti ir aprūpinti Šv. Onos bažnyčios kleboniją didžiojoje Vilniaus pilyje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9867,11 +10176,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Dievo tarnystei prie anos bažnyčios pasiliktų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-277
-- c-087
+
+- c-088
   santrauka: 'Vladislovas Jogaila skyrė Vilniaus katedrai ir vyskupams miesto plotą nuo pilies iki Šv. Mikalojaus kapinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9885,11 +10196,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     aikštes, ir namus, net su gyventojais11.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-108
-- c-088
+
+- c-089
   santrauka: 'Algirdas leido Romos vienuoliams Vilniuje skelbti evangeliją, o graikų apeigų dvasininkams atlikti savo apeigas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9915,11 +10228,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-113
-- c-089
+
+- c-090
   santrauka: 'Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9935,11 +10250,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Il indikte.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-150
-- c-090
+
+- c-091
   santrauka: 'Į Vilnių atvykus Žygimantui, Glogovo kunigaikščiui iš Silezijos, šalis išvengė grėsusio pilietinio karo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9956,11 +10273,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ežerų apsuptai Trakų piliai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-221
-- c-091
+
+- c-092
   santrauka: 'Vėlesniais Vytauto valdymo metais Vilnius atsigavo po Skirgailos valdymo žaizdų ir praturtėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -9981,11 +10300,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-288
-- c-092
+
+- c-093
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     XIX a. pradžioje Vilniaus intelektualams gelbėjant parengta visos Ru-
@@ -9997,12 +10318,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lį ir gavęs Imperatoriškojo universiteto statusą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
     - t-136
-- c-093
+
+- c-094
   santrauka: 'Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10017,11 +10340,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vos miestuose ir miesteliuose, jam pastatyti paminklai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-156
-- c-094
+
+- c-095
   santrauka: '1586 m. Lietuvos Ponų Taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10081,11 +10406,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     į Gardiną, suvažiuos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-066
-- c-095
+
+- c-096
   santrauka: 'Žygimantas po nesėkmingo Švitrigailos persekiojimo Ašmenoje tučtuojau užėmė Vilnių ir Trakus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10116,11 +10443,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     navės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-186
-- c-096
+
+- c-097
   santrauka: '1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10143,11 +10472,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-206
-- c-097
+
+- c-098
   santrauka: 'Vilniuje buvo įsteigta vidurinė mokykla, tačiau aukštesniosios mokyklos tuo metu nebuvo.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -10160,11 +10491,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nebuvo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-157
-- c-098
+
+- c-099
   santrauka: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10179,11 +10512,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ju kunigaikščiu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-074
-- c-099
+
+- c-100
   santrauka: 'Vilniuje buvo įsteigtas pirmasis stiklo fabrikas, kurį steigti leidimą gavo karaliaus dvariškis Martynas Paleckis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10210,11 +10545,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     legiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-153
-- c-100
+
+- c-101
   santrauka: '1794 m. balandį sukilėliai išvadavo Vilnių iš rusų ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10227,11 +10564,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sudaryta sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-168
-- c-101
+
+- c-102
   santrauka: 'Gediminas laiške skelbė pastatęs pranciškonų bažnyčią savo karališkajame mieste Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10253,11 +10592,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vienas pagal savo apeigas galėtų garbinti dievą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
-- c-102
+
+- c-103
   santrauka: 'Jėzuitai Lietuvoje sukūrė kolegijų tinklą, kurio viršūnėje buvo 1579 m. įkurtas Vilniaus universitetas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10271,11 +10612,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tas 1579 m.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-040
-- c-103
+
+- c-104
   santrauka: '1976 m. rudenį Vilniuje įsikūrė Helsinkio grupė, panaši į gegužės 12 d. įkurtą Maskvos Helsinkio grupę.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10290,11 +10633,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tinėmis grupėmis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
-- c-104
+
+- c-105
   santrauka: 'Vilniuje pakrikštyti pagonys gyventojai, užgesinta amžinoji ugnis ir pradėta statyti Šv. Stanislovo katedra.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10319,11 +10664,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     liavietės, pradėta statyti Šv. Stanislovo katedra8.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-073
-- c-105
+
+- c-106
   santrauka: 'Į Lietuvą siunčiama pagalbinė kariuomenė iki Vilniaus turėjo vykti su savo maistu, o toliau ją turėjo aprūpinti Jogaila.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -10335,11 +10682,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     žinios, patarimo ir valios nepradėti karo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-068
-- c-106
+
+- c-107
   santrauka: 'Mykolas Balinskis buvo Vilniaus universiteto suklestėjimo ir žlugimo liudininkas bei Vilniaus kultūrinio gyvenimo dalyvis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10356,11 +10705,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
-- c-107
+
+- c-108
   santrauka: 'Balińskis Vilniaus vardą siejo su Vilnios upe ir manė, kad pirmykštė gyvenvietė turėjo būti prie Vilnios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10382,11 +10733,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-069
-- c-108
+
+- c-109
   santrauka: '1559 m. dokumentas buvo duotas Vilniuje artimiausią ketvirtadienį po Šv. Baltramiejaus šventės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10414,11 +10767,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     statyto muito mokesčio.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-230
-- c-109
+
+- c-110
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
@@ -10433,11 +10788,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pagrindus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-147
-- c-110
+
+- c-111
   santrauka: 'Pranciškus Skorina 1522 m. įkūrė spaustuvę Vilniuje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10449,11 +10806,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-254
-- c-111
+
+- c-112
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
@@ -10464,12 +10823,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-216
     - t-046
-- c-112
+
+- c-113
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
@@ -10479,11 +10840,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-159
-- c-113
+
+- c-114
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ši organizacija iki Lietuvos nepriklausomybės atkūrimo
@@ -10494,11 +10857,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-131
-- c-114
+
+- c-115
   santrauka: 'Vilniaus vyskupas Jurgis Radvila nusprendė įsteigti kolegiją lietuvių ir rusų jaunuoliams auklėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10527,11 +10892,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     minėtos kolegijos ir inkorporuota.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-188
-- c-115
+
+- c-116
   santrauka: '1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10551,11 +10918,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-251
-- c-116
+
+- c-117
   santrauka: 'Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10569,11 +10938,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     bėgant, tapo Švč.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
-- c-117
+
+- c-118
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Stanislovo garbei („kad abi lygiateisės tautos
@@ -10584,11 +10955,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     svarbiausias krikščionybės įvedimo Lietuvoje aktas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-242
-- c-118
+
+- c-119
   santrauka: '1428 m. Vilniuje Jogaila iškėlė Vytauto karūnacijos klausimą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -10598,11 +10971,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-122
-- c-119
+
+- c-120
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Epochos simboline
@@ -10616,11 +10991,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     („Didysis artilerijos menas“) (1650).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-222
-- c-120
+
+- c-121
   santrauka: '7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -10632,11 +11009,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Mikalojus iš Jerošino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-106
-- c-121
+
+- c-122
   santrauka: 'Pagal šaltinyje pateiktą sąrašą Vilnius 1387 m. iš Vladislovo Jogailos gavo Magdeburgo teisę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10651,11 +11030,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     .................1387 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-085
-- c-122
+
+- c-123
   santrauka: '1991 m. sausio 10–11 d. naktį Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10669,11 +11050,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir nuversti teisėtą Lietuvos valdžią.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
-- c-123
+
+- c-124
   santrauka: 'Po rimtesnių kautynių birželio 11 d. prie Myro Vilnius birželio 14 d. buvo atiduotas be kovos.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10686,11 +11069,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     prie Targovicos konfederacijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-142
-- c-124
+
+- c-125
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
@@ -10703,12 +11088,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-233
     - t-043
-- c-125
+
+- c-126
   santrauka: 'Italų meistrai šešerius metus dirbo Vilniuje ir Šv. Stanislovo bažnyčioje pastatė marmurinius Elžbietos ir Barboros antkapius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10730,11 +11117,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vai darbuotis amatininkus, didino jų skaičių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-048
-- c-126
+
+- c-127
   santrauka: 'Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10746,11 +11135,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pažino Lietuvos suverenitetą Vilniuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
-- c-127
+
+- c-128
   santrauka: 'Vilnius tapo Žygimanto ir Švitrigailos grupuočių kovos taikiniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10767,11 +11158,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-044
-- c-128
+
+- c-129
   santrauka: 'Iki 1565 m. Žygimanto Augusto lėšomis pagamintų ginklų ir amunicijos dalis buvo palikta Vilniuje, o kita išsiųsta į pilis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10801,11 +11194,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     niuje, išsiuntinėtus po kitas pilis".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-072
-- c-129
+
+- c-130
   santrauka: 'Prie Vilniaus pilies įkurta didžioji ginklų liejykla stipriai veikė miesto amatininkų gerovę ir tobulėjimą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10821,11 +11216,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Podolės ir Ukrainos pilis38.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-036
-- c-130
+
+- c-131
   santrauka: 'Balińskis svarstė, kad Vilniaus pradžia galėjo siekti IX-X a. normanus, kūrusius seniausias gyvenvietes Lietuvoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10841,11 +11238,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     rimą ne Gediminui, bet jo pirmtakams dera priskirti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-273
-- c-131
+
+- c-132
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tačiau protestantizmas
@@ -10859,11 +11258,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-155
-- c-132
+
+- c-133
   santrauka: '1916 m. Vilnius buvo lietuvių ir lenkų disputo epicentras, nes nesutarta dėl Vilniaus ir visos Rytų Lietuvos priklausomybės.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10881,11 +11282,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     argumentus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-217
-- c-133
+
+- c-134
   santrauka: 'Vilniaus tarėjams nurodyta su valdinių turinčiais ponais susitarti dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10929,11 +11332,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     miestui teisių ir privilegijų, lieka laisvos vien tik piliečiams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
-- c-134
+
+- c-135
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     12), nes Trakuose buvo jo šalininkų. Įveikti tačiau Vilnių, kur
@@ -10941,12 +11346,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     prarasti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-107
     - t-245
-- c-135
+
+- c-136
   santrauka: 'Po 1604 m. kanonizacijos šv. Kazimieras tapo svarbiausiu Lietuvos ir Vilniaus globėju, o Kaziuko mugė liko LDK laikų tradicija.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -10957,11 +11364,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gės – tai iki šių dienų iš LDK laikų ateinanti tradicija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-054
-- c-136
+
+- c-137
   santrauka: 'Didžiojo Naugardo bojarinai Ivanas Jermoliničius ir Chariničius Vilniuje sudarė sutartį su Švitrigaila.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -10980,11 +11389,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-103
-- c-137
+
+- c-138
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1415 m. Naugarduke sušaukęs LDK stačiatikių
@@ -10998,12 +11409,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     idėją (ji įgyvendinta vėliau – 1439 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
     - t-098
-- c-138
+
+- c-139
   santrauka: 'Vytautas bandė užimti Vilnių, į dengtas roges su atsargomis paslėpęs ginkluotų žmonių būrį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11022,11 +11435,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kariais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-102
-- c-139
+
+- c-140
   santrauka: 'Jonas Kristupas Glaubicas suformavo analogų neturinčią Vilniaus baroko mokyklą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -11036,11 +11451,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     architektūrinių elementų deriniu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
-- c-140
+
+- c-141
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Smig-
@@ -11061,11 +11478,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     valstybės veikėjas], gim.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-033
-- c-141
+
+- c-142
   santrauka: '1545 m. gegužės 4 d. Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11077,11 +11496,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     titulą nuo vyskupo karalius perkėlė sau.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-174
-- c-142
+
+- c-143
   santrauka: 'Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir žygiuodamas iki Vilniaus degino kaimus bei plėšė žmonių turtą.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -11096,12 +11517,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sunaikinti vokiečių maisto atsargą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-081
     - t-059
-- c-143
+
+- c-144
   santrauka: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Komunistų partijos veiklai.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -11115,11 +11538,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lietuviai) XX suvažiavimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-256
-- c-144
+
+- c-145
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Re­
@@ -11140,12 +11565,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pagalbą sūnui pagaliau nebūtų atvykęs.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-232
     - t-020
-- c-145
+
+- c-146
   santrauka: 'Lietuvių konferencija 1917 m. rugsėjo 18–22 d. vyko Vilniaus miesto teatre; į ją atvyko 213 dalyvių, dar 9 buvo kooptuoti.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -11158,11 +11585,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
-- c-146
+
+- c-147
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Netekusi Vilniaus, Lietuva atsisuko į
@@ -11172,11 +11601,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     uostas labai rūpėjo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-284
-- c-147
+
+- c-148
   santrauka: 'Į Vilnių iš Liublino seimo atvykęs karalius ėmėsi reikalų su totoriais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11197,11 +11628,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kuriavo karaliaus45.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-208
-- c-148
+
+- c-149
   santrauka: 'Po 1991 m. sausio 13 d. įvykių Vilniuje Borisas Jelcinas kreipėsi į Baltijos šalyse tarnaujančius karius, ragindamas nešturmuoti civilinių pastatų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -11216,11 +11649,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     apie Rusijos ir jos tautų ateitį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-032
-- c-149
+
+- c-150
   santrauka: 'Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11234,11 +11669,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sutelkė pagrindinę lietuvių feodalų valdžią.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-152
-- c-150
+
+- c-151
   santrauka: 'XVI a. antrojoje pusėje Jonas Chodkevičius Petro Dusburgiečio kroniką perdavė Vilniaus vaitui Augustinui Rotundui.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -11247,11 +11684,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-211
-- c-151
+
+- c-152
   santrauka: 'Balińskis Vilnių apibūdino kaip gausiai gyvenamą, didelį ir turtingą miestą, dar neatsikračiusį barbariškumo apnašų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11276,11 +11715,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     valumais ir tvirtai siekiantis įvesti tvarką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-115
-- c-152
+
+- c-153
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Nepaliovė Vilnius buvęs šalies sostine ir nuola­
@@ -11292,11 +11733,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kės atimamos39.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-070
-- c-153
+
+- c-154
   santrauka: 'Jogaila 1387 m. pradžioje atvyko į Vilnių, pakeliui paėmęs Lietuvos kunigaikščių paklusnumo raštus.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -11309,11 +11752,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džioje atvyko Vilniun.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-062
-- c-154
+
+- c-155
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Vil-
@@ -11322,11 +11767,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     centras yra ne ką mažiau stačiatikiškas nei katalikiškas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-129
-- c-155
+
+- c-156
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuvos gotikinė architektūra perėmė pagrindi-
@@ -11335,11 +11782,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     bažnyčias statė aukščiausios klasės meistrai iš užsienio.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-120
-- c-156
+
+- c-157
   santrauka: 'Balińskis atmetė prielaidą, kad Dusburgo minima Castrum Gedemini galėjo būti Vilnius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11357,11 +11806,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Post haec XI Kalendas Junii Fr.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-138
-- c-157
+
+- c-158
   santrauka: 'Didysis magistras tris savaites ir dvi dienas apgulė Vilniaus pilis, bet jų neužėmė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11376,11 +11827,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     drąsos, sumanė griebtis klastos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-099
-- c-158
+
+- c-159
   santrauka: '1544 m. Žygimantui perdavus Lietuvos valdžią sūnui, Vilnius vėl tapo pagrindiniu valdžios židiniu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11396,11 +11849,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tėjimo viršūnės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-151
-- c-159
+
+- c-160
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Vis dėlto Algirdo valdymo pa­
@@ -11418,11 +11873,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-241
-- c-160
+
+- c-161
   santrauka: 'Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11441,11 +11898,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tvarkos, kokia buvo ir kitur.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-090
-- c-161
+
+- c-162
   santrauka: '1432 m. rugsėjo 1 d. Žygimantas Kęstutaitis buvo pasodintas didžiuoju kunigaikščiu Vilniuje ir Trakuose.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -11465,11 +11924,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-258
-- c-162
+
+- c-163
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
@@ -11479,11 +11940,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sukūrimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-274
-- c-163
+
+- c-164
   santrauka: '1552 m. Vilniaus valdžia ir piliečiai sudarė teismo proceso tvarką pagal Magdeburgo teisę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11501,11 +11964,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Šių naujų dirbtuvių padėtį Vilniuje Žr.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-181
-- c-164
+
+- c-165
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     17
@@ -11525,11 +11990,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-053
-- c-165
+
+- c-166
   santrauka: '1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11587,11 +12054,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tui suteikė nemažai orumo ir naudos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-057
-- c-166
+
+- c-167
   santrauka: 'Žinia apie pergalę Aleksandrą pasiekė Vilniuje, kai valdovas jau merdėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11617,11 +12086,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lėtoju ir į kapą nužengė triumfuodamas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-051
-- c-167
+
+- c-168
   santrauka: 'Stepono Batoro laikais Vilnius tapo katalikų ir protestantų žodžio bei rašto varžybų lauku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11637,11 +12108,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tynių lauku.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-086
-- c-168
+
+- c-169
   santrauka: 'Dėl netvarkos Vilniaus administracijoje Žygimantas Senasis įvedė naują ir griežtą miesto tvarką.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11656,11 +12129,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-087
-- c-169
+
+- c-170
   santrauka: 'Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą per Šv. Jokūbą vėl išsiruošė anapus Nemuno.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11674,11 +12149,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dinti ir stiprinti Rittersverderio pilį52.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-050
-- c-170
+
+- c-171
   santrauka: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į atgautą istorinę sostinę Vilnių.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -11698,11 +12175,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sakis „Vilnius mūsų, o mes rusų“).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-229
-- c-171
+
+- c-172
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Ryškiausiai dviejų visuomenių – pagoniškos ir stačiatikiškos – suartėji-
@@ -11711,11 +12190,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     t. y. stačiatikių gyvenama miesto dalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-031
-- c-172
+
+- c-173
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Kilmingi žuvusieji buvo atvežti ir palai-
@@ -11728,11 +12209,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1530 m. gaisrą).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
-- c-173
+
+- c-174
   santrauka: 'Vietovė, kurioje yra Vilnius, Islandijos keliautojų pasakojimuose minima jau XII a., o XIII a. viduryje joje būta medinių namų gyvenvietės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11750,12 +12233,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ną tokį žygį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-198
     - t-225
-- c-174
+
+- c-175
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     L I E T U V O S  I S T O R I J A
@@ -11766,11 +12251,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-056
-- c-175
+
+- c-176
   santrauka: 'Balińskis teigė, kad Vitas negalėjo būti Vilniaus vyskupas, nes jo laikais apie Vilnių dar nebuvo girdėti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11787,11 +12274,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-192
-- c-176
+
+- c-177
   santrauka: 'Žygimantas Augustas savo turtingą biblioteką, pradėtą tėvo ir jo paties kauptą, atidavė Vilniaus jėzuitų kolegijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11814,11 +12303,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     niaus katedros kustodas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-133
-- c-177
+
+- c-178
   santrauka: 'Valerijonas Protasevičius Šuškovskis 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11833,11 +12324,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gusto seserimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-226
-- c-178
+
+- c-179
   santrauka: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11857,11 +12350,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gandomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-269
-- c-179
+
+- c-180
   santrauka: 'Vilnius dėl palankios gamtos aplinkos galėjo būti priskiriamas prie seniausių Lietuvos tvirtovių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11891,11 +12386,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     na iš seniausių įtvirtintų vietovių prie Vilniaus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-290
-- c-180
+
+- c-181
   santrauka: '1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11912,11 +12409,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tą38.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-116
-- c-181
+
+- c-182
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Naujoji mokykla vadinosi Academia et Universitas Vilnensis
@@ -11927,11 +12426,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     universitetą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-286
-- c-182
+
+- c-183
   santrauka: 'Vokiečių pirkliai lankė Vilnių, Krėvę, Trakus, Gardiną ir kitus Lietuvos miestus.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -11942,11 +12443,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ėjo daug vandens ir sausumos kelių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-064
-- c-183
+
+- c-184
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lenkijos valia vykusiuose rinkimuose gen. Liucijano
@@ -11958,11 +12461,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-209
-- c-184
+
+- c-185
   santrauka: '1580 m. birželio 18 d. Vilniaus turguje už klastą ir tėvynės išdavystę buvo nukirsdintas Jurgis Astikas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -11980,11 +12485,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vozgėliškėmis [Vaisgėliškis].
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-104
-- c-185
+
+- c-186
   santrauka: 'Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12009,11 +12516,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     su kuriais turėjo daugiausia darbo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-264
-- c-186
+
+- c-187
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Be to, iš jo laiško, rašyto po­
@@ -12029,12 +12538,14 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     schichte Preussens.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-201
     - t-267
-- c-187
+
+- c-188
   santrauka: '1503 m. Gardine Aleksandro privilegija nurodė Vilniuje statyti miesto gynybinę mūro sieną.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -12056,11 +12567,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     prie Lenkijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-207
-- c-188
+
+- c-189
   santrauka: 'Aleksandras, pasirinkęs Vilnių nuolatine gyvenamąja vieta ir laikęs prabangų dvarą, atgaivino sostinę.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12075,11 +12588,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     metais, palaidota graikų apeigų kop- dalį Švč.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-110
-- c-189
+
+- c-190
   santrauka: 'Vilniaus prekyba su Juodosios jūros uostais prisidėjo prie miesto klestėjimo Vytauto laikais.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12104,11 +12619,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-282
-- c-190
+
+- c-191
   santrauka: 'Vilnius dėl stiprių tvirtovių įgulų išvengė puolimo, bet didysis magistras nuniokojo apylinkes iki Medininkų ir Ašmenos.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12123,11 +12640,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-105
-- c-191
+
+- c-192
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
@@ -12136,11 +12655,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-253
-- c-192
+
+- c-193
   santrauka: '1323 m. spalio 2 d. Lietuva Vilniuje sudarė taikos sutartį su Livonijos vyskupais, danų vietininku, Livonijos ordinu ir Ryga.'
   šaltinis: Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)
   citata_originali: |
@@ -12153,11 +12674,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-166
-- c-193
+
+- c-194
   santrauka: 'Ignas Onacevičius nuo 1818 m. Vilniaus universitete dėstė istoriją, o nuo 1821 m. statistiką ir diplomatiką.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -12168,11 +12691,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     — statistiką ir diplomatiką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
-- c-194
+
+- c-195
   santrauka: '1915 m. rugsėjo 15 d. vokiečiai įžengė į Vilnių, o senoji Lenkijos ir Lietuvos valstybės teritorija atsidūrė Vokietijos ir Austrijos kariuomenių kontrolėje.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -12189,11 +12714,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kariuomenių kontroliuojamoje zonoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-183
-- c-195
+
+- c-196
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Wilno 1740 in 8vo, skyr. I. Esą
@@ -12221,11 +12748,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     torių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-204
-- c-196
+
+- c-197
   santrauka: 'Sename pranešime Vilnius vadintas pavojingiausiu lietuvių žemių miestu, kuriame buvo trys įgulos saugomos pilys.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12242,11 +12771,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pilys, saugomos įgulos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-149
-- c-197
+
+- c-198
   santrauka: 'Lietuviai Vilniuje įkūrė Lietuvių dailės draugiją, o vėliau dalis vietinių dailininkų įsteigė Vilniaus dailės draugiją.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -12262,11 +12793,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     džiama priklausyti ir abiem tuo pat metu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-246
-- c-198
+
+- c-199
   santrauka: '1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12295,11 +12828,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-154
-- c-199
+
+- c-200
   santrauka: 'Priešui nuniokojus Vilniaus apylinkes keturių mylių spinduliu, didysis magistras įsakė trauktis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12324,11 +12859,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     anuomet buvo Vilniuje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
-- c-200
+
+- c-201
   santrauka: '1655 m. rusams užėmus Vilnių, gaisras mieste siautė net 17 dienų.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -12340,11 +12877,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ras jame siautė net 17 dienų).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-130
-- c-201
+
+- c-202
   santrauka: '1524 m. karalius priekaištavo Vilniaus magistratui, kad šis nesutaria su bendruomene ir neturi gaisrui gesinti reikmenų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12361,11 +12900,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Už visa tai karalius baudžia šimto kapų grašių bauda.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-111
-- c-202
+
+- c-203
   santrauka: '1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -12376,11 +12917,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-180
-- c-203
+
+- c-204
   santrauka: 'Vilniuje gauta žinia, kad Podolės bajorai atplėšė Podolę nuo Lietuvos ir perdavė ją Lenkijai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12401,11 +12944,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sai nejautė savo įdūkio ribų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-252
-- c-204
+
+- c-205
   santrauka: 'XIX a. pradžioje Vilniuje veikė kelios masonų ložės.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12420,11 +12965,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1819 m. pats įstojo į šią ložę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-260
-- c-205
+
+- c-206
   santrauka: '1396 m. Vilniuje pilies kalno nuošliaužos užslinko ant vaivados Manvydo rūmų, bet Aukštutinės pilies mūrai nenukentėjo.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12436,11 +12983,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-227
-- c-206
+
+- c-207
   santrauka: 'Vilniaus miestiečiams ir pirkliams buvo nurodyta apskaičiuoti ir sumokėti muitus bei Czopowe ir Szosowe mokesčius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12462,11 +13011,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     reikalo, tegu padeda.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-125
-- c-207
+
+- c-208
   santrauka: 'Sudimantas, perspėtas gyventojų, sutrukdė rogėse paslėptiems žmonėms užimti Vilnių Vytauto naudai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12483,11 +13034,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     šv. Stanislovo garbei, iškilmingai pripažinta katedra.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-119
-- c-208
+
+- c-209
   santrauka: '1920 m. spalio 9 d. Liucijanas Želigovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos sudarymą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -12505,11 +13058,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     (Litwa środkowa) sudarymą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-281
-- c-209
+
+- c-210
   santrauka: 'Pasak padavimo, Gediminas Tauro kalne pastatydino Aukštutinę pilį, o slėnyje - medinę pilį, pavadintą Vilniumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12542,11 +13097,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     XI Knyga, sk.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-092
-- c-210
+
+- c-211
   santrauka: '1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12567,11 +13124,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     visur atleidžiama nuo bet kokių mokesčių41.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-079
-- c-211
+
+- c-212
   santrauka: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12595,11 +13154,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     eretikai būsią šiek tiek apmalšinti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-080
-- c-212
+
+- c-213
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Išėjęs iš politinės krizės, Jogaila tuojau ėmė vykdyti vieną
@@ -12611,11 +13172,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     miausia turėjo būti krikštijami bajorai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-202
-- c-213
+
+- c-214
   santrauka: 'Vytautas skelbė sprendimus, varžiusius toleranciją, kuria nuo seno garsėjo Vilnius.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12630,11 +13193,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kartą Vytauto globa naudojosi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
-- c-214
+
+- c-215
   santrauka: 'Aleksandras garantavo Vilniaus miestiečių laivams laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12653,11 +13218,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     siljevičiaus užmačių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-139
-- c-215
+
+- c-216
   santrauka: 'Rusios kronikininkai liudija, kad XII a. Vilnius jau egzistavo, o jo gyventojai pasidavė Haličo karaliaus valdžiai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12684,11 +13251,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     išvijo į Graikiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-075
-- c-216
+
+- c-217
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
     Lietuvos metraščio liudijimu, „Lietuva
@@ -12702,11 +13271,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-257
-- c-217
+
+- c-218
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     VILNIAUS MIESTO ISTORIJA / TOMAS
@@ -12731,11 +13302,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     į Vilnių keturiolika Šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-077
-- c-218
+
+- c-219
   santrauka: 'V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -12750,11 +13323,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     «Lietuvos istorijos vaizdai ir raštai» (1939).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-265
-- c-219
+
+- c-220
   santrauka: '1539 m. Abraomas Kulvietis Vilniuje pirmasis skleidė Martyno Liuterio religines idėjas ir savo mokykloje išlavino šešiasdešimt mokinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12774,11 +13349,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mokykloje išlavino net šešiasdešimt mokinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-071
-- c-220
+
+- c-221
   santrauka: 'Lapkričio 23 d. Vilniuje JAV prezidentas Džordžas Bušas pareiškė, kad NATO sąjunga pasiryžusi ginti savo nares.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -12788,11 +13365,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-078
-- c-221
+
+- c-222
   santrauka: '1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.'
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
@@ -12803,11 +13382,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     visa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-094
-- c-222
+
+- c-223
   santrauka: '1430 m. mirus Vytautui, jo palaikai buvo atvežti į Vilnių ir iškilmingai palaidoti.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12822,11 +13403,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mingai palaidoti85.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-145
-- c-223
+
+- c-224
   santrauka: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundėsi, kad vaitas nesilaiko Magdeburgo teisės ir pažeidžia jų privilegijas.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12844,11 +13427,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tirsite.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-141
-- c-224
+
+- c-225
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Apie 250 tūkst.
@@ -12858,11 +13443,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-278
-- c-225
+
+- c-226
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
@@ -12870,11 +13457,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vandeniu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-187
-- c-226
+
+- c-227
   santrauka: '1569 m. Vilniuje vyskupo kvietimu pasirodę jėzuitai gavo lėšų kolegijai ir planavo ją pertvarkyti į universitetą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -12883,11 +13472,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ti į universitetą. Oficialiai kolegija buvo atidaryta 1570 m. liepos 17 d.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-212
-- c-227
+
+- c-228
   santrauka: 'Septynios paimtos livoniečių vėliavos buvo nugabentos į Vilniaus Šv. Stanislovo katedrą kaip pergalės simbolis.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -12902,11 +13493,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kaip pergalės simbolis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-218
-- c-228
+
+- c-229
   santrauka: '1382-1392 m. vidaus kovų laikotarpiu, Vilniuje nesant stiprios valdžios, rytinės Gediminaičių sritys ėmė tolti nuo centro.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -12919,11 +13512,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     diminaitis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
-- c-229
+
+- c-230
   santrauka: 'Laiško kopijoje pranešama, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -12958,11 +13553,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     plieskė ugnis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-109
-- c-230
+
+- c-231
   santrauka: '1505 m. totoriai niokojo Vilniaus, Polocko, Vitebsko, Drucko, Naugarduko ir Slucko apylinkes LDK branduolyje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -12976,11 +13573,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sėkmė nuo jų šį kartą nusisuks.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-134
-- c-231
+
+- c-232
   santrauka: 'Švitrigailos bandymas per rusų vienuolius padegti Vilniaus pilies bokštus nepavyko, todėl jis su didžiuoju magistru nutraukė apgultį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13004,11 +13603,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tį54.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-061
-- c-232
+
+- c-233
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Tuo būdu 1544 m. Zigmantas Augustas apsigyveno
@@ -13018,11 +13619,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     valstybių valdovu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
-- c-233
+
+- c-234
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Todėl belieka pasiti­
@@ -13034,11 +13637,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gerbiamus žalčius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-173
-- c-234
+
+- c-235
   santrauka: '1832 m. nutarta uždaryti Vilniaus universitetą, kurį uždarymo iniciatoriai vadino „Lietuvos laisvamanybės lizdu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13052,11 +13657,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-197
-- c-235
+
+- c-236
   santrauka: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13070,11 +13677,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čio dvare9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-034
-- c-236
+
+- c-237
   santrauka: '1941 m. liepą Heinrichas Himmleris perdavė Vilniuje veikusiai einzatsgrupei B nurodymą žudyti ne tik žydų vyrus, bet ir moteris bei vaikus.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13086,11 +13695,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vyrus, bet ir moteris, vaikus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-236
-- c-237
+
+- c-238
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
@@ -13100,11 +13711,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     izoliaciją) Gedimino politinis akiratis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-178
-- c-238
+
+- c-239
   santrauka: '1915 m. vokiečiai Vilniuje išplatino atsišaukimą, kuriame miestas pavadintas „gražiausiu Lenkijos karalystės perlu“.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13115,11 +13728,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kimus nudraskė. Vos už pusmečio vokiečiai jau gerai žinojo kur esą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-137
-- c-239
+
+- c-240
   santrauka: '1564 m. pradžioje į LDK įsiveržusios dvi Maskvos kariuomenės planavo pulti Minsko, Naugarduko ir Vilniaus kryptimi.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -13139,11 +13754,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vėliau Vilniaus kryptimi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-037
-- c-240
+
+- c-241
   santrauka: '1920 m. liepos 15 d. į Vilnių Lietuvos kariuomenė įžengė po Raudonosios armijos kavalerijos korpusų.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13153,11 +13770,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-135
-- c-241
+
+- c-242
   santrauka: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13172,11 +13791,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-097
-- c-242
+
+- c-243
   santrauka: 'Popiežiui buvo įteiktas 1323 m. Vilniuje sudarytos sutarties nuorašas, išverstas iš vokiečių į lotynų kalbą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13193,11 +13814,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     lo, išverstos iš vokiečių į lotynų kalbą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
-- c-243
+
+- c-244
   santrauka: '1586 m. buvo prašoma Vilniuje suteikti nakvynę čiaušui, jo 22 tarnams ir vertėjui Asianui Abrahimovičiui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13212,11 +13835,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Rašytas Gardine. 1586 metų gruodžio mėnesio 13 dieną.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-167
-- c-244
+
+- c-245
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
     Napoleonas leido Vilniuje
@@ -13228,11 +13853,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kija, susigrąžinant LDK prarastas žemes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-239
-- c-245
+
+- c-246
   santrauka: '1579 m. popiežius Grigalius XIII patvirtino Vilniaus kolegiją universitetu.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13244,11 +13871,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-063
-- c-246
+
+- c-247
   santrauka: 'Slaptas sutarties papildymas leido raudoniesiems 1920 m. liepos 14 d. okupuoti Vilnių ir per miestą permesti kariuomenę į lenkų frontą.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13263,11 +13892,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sumokėti kainą už Vilniaus pripažinimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-285
-- c-247
+
+- c-248
   santrauka: '1393 m. Jogaila ir Jadvyga nuvyko į Vilnių spręsti Vytauto ir Skirgailos ginčo.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -13280,11 +13911,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
-- c-248
+
+- c-249
   santrauka: 'Vilniaus ir Klaipėdos problemos buvo laikomos svarbiausiomis Lietuvos užsienio politikos problemomis.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13297,11 +13930,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     su sostine Vilniumi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-219
-- c-249
+
+- c-250
   šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   citata_originali: |
     Todėl suprantama, kad po visų karų krašto ūkis
@@ -13311,11 +13946,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir sudeginti, o jų valstiečiai išbėgioję.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-184
-- c-250
+
+- c-251
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
     Lietuviai romantikai su pagrindu didžiavosi laikais, kai Lie­
@@ -13332,11 +13969,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     viai lydėjęs jas per tolimesnius šimtmečius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-283
-- c-251
+
+- c-252
   santrauka: 'Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -13352,11 +13991,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pradžios, 1934).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-163
-- c-252
+
+- c-253
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
     Sūnaus brendimo ir mokslo metai praėjo Vil­
@@ -13367,11 +14008,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Napoleono karo kampaniją Rusijos imperijos gilumoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-279
-- c-253
+
+- c-254
   santrauka: '1928 m. Lietuvos konstitucijoje Lietuvos sostine buvo įrašytas Vilnius.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
   citata_originali: |
@@ -13383,11 +14026,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-118
-- c-254
+
+- c-255
   santrauka: 'V. Daugirdaitė-Sruogienė iki 1944 m. buvo istorijos mokytoja Kaune ir Vilniuje.'
   šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
   citata_originali: |
@@ -13399,11 +14044,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-039
-- c-255
+
+- c-256
   santrauka: '1391 m. liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus ir kitų miestų be jo žinios niekam neatiduos.'
   šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
   citata_originali: |
@@ -13417,11 +14064,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir jo palikuonys.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-176
-- c-256
+
+- c-257
   santrauka: 'Kilmingi žuvusieji buvo atvežti ir palaidoti Vilniuje.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
   citata_originali: |
@@ -13437,11 +14086,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vėliavos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-291
-- c-257
+
+- c-258
   santrauka: 'Gedimino laikais Vilnius iš mažos gyvenvietės išaugo į miestą ir buvo pasirinktas Lietuvos karalystės sostine.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13459,11 +14110,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     karalystės sostine.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-292
-- c-258
+
+- c-259
   santrauka: 'Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didelį gaisrą, sunaikinusį didelę miesto dalį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -13482,11 +14135,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sostinę nuo puolimo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-293
-- c-259
+
+- c-260
   santrauka: 'Vilniuje minia nužudė keturiolika krikščionių vienuolių: septynis aikštėje, o septynis prie Plikojo kalno.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13507,11 +14162,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     taus žodį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-294
-- c-260
+
+- c-261
   santrauka: 'Kariuomenė slapta išvesta nuolaidžiais Vilnios krantais užpuolė vokiečių stovyklą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13530,11 +14187,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     laisvę, tuo tarpu lietuviai neprarado nė vieno kario.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-295
-- c-261
+
+- c-262
   santrauka: 'Baigęs studijas Nesvyžiaus kolegijoje Albertas Vijūkas-Kojelavičius grįžo į Vilniaus teologijos fakultetą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13545,11 +14204,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nėje kolegijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-296
-- c-262
+
+- c-263
   santrauka: 'Kojelavičius Vilnių vadino garsiausiu iš visų sarmatų miestų ir valdovų, teismų, mokslo, prekybos bei bažnytinio gyvenimo centru.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13567,11 +14228,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     čių narsumu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-297
-- c-263
+
+- c-264
   santrauka: 'Maskvos pasiuntinys grasino, kad per Velykas Maskvos valdovas kaip nugalėtojas įžengs į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13587,11 +14250,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mokėti valdinys.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-298
-- c-264
+
+- c-265
   santrauka: 'Vilniaus vaivada Petras Goštautas pakvietė į Vilnių švento Pranciškaus ordino vienuolių ir juos įkurdino būsimos Šv. Kryžiaus bažnyčios vietoje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13622,11 +14287,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nytėlė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-299
-- c-265
+
+- c-266
   santrauka: 'Jogaila, gavęs paramos iš Livonijos ir Prūsijos, su kariuomene traukė iš Vilniaus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13645,11 +14312,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     jie neprilygsta nei ginkluote, nei karių skaičiumi.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-300
-- c-266
+
+- c-267
   santrauka: 'Jogaila siūlė Kęstučiui ir Vytautui vykti į Vilnių, ten pailsėti, papuotauti ir kitą dieną baigti derybas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13668,11 +14337,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     galima atitaisyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-301
-- c-267
+
+- c-268
   santrauka: 'Jogaila įsakė suimti Kęstutį ir Vytautą: Kęstutį nuvežti į Krėvą, o Vytautą įkalinti Vilniuje.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13698,11 +14369,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Krėvos kalėjime jį pasmaugė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-302
-- c-268
+
+- c-269
   santrauka: 'Vytautas, išsiuntęs žygūną Olesnickiui pranešti apie atvykimą, patraukė tiesiai į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13717,11 +14390,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     įlydėjo jį į miestą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-303
-- c-269
+
+- c-270
   santrauka: 'Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13742,11 +14417,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     seną, teisėtai jam priklausančią valdą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-304
-- c-270
+
+- c-271
   santrauka: 'Prie Lietuvos sienų iškilmingai sutiktas karalius buvo palydėtas į Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13765,11 +14442,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     seniai dėjosi, ir išklojo, kas jam gulėjo ant širdies.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-305
-- c-271
+
+- c-272
   santrauka: 'Kazimieras patraukė į Vilnių ir netrukus atvyko į miestą, sveikinamas didžiulės minios žmonių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13797,11 +14476,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tininkui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-306
-- c-272
+
+- c-273
   santrauka: 'Kazimieras, norėdamas sutvarkyti valstybės reikalus, sušaukė Vilniuje gausų seimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13817,11 +14498,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Goštautui įsakė apvalyti Palenkę nuo priešų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-307
-- c-273
+
+- c-274
   santrauka: 'Seversko didikai Vilniuje vykusius santykius su Lietuvos didikais suprato kaip savęs niekinimą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13851,11 +14534,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     zmos, kurios atkakliai laikėsi Seversko didikai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-308
-- c-274
+
+- c-275
   santrauka: 'Dažni skitų žygiai į Lietuvos gilumą paskatino luomus geriau sutvirtinti Vilnių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13869,11 +14554,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tvirtinti Vilnių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-309
-- c-275
+
+- c-276
   santrauka: 'Maskvos pasiuntinybė pareikalavo, kad po Lietuvą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių ir geriau laikomi.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13898,11 +14585,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ištikusios nelaimės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-310
-- c-276
+
+- c-277
   santrauka: 'Sugrįžęs iš Maskvos Jesmanas Vilniuje rado karalių ir karalienę.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13922,11 +14611,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ją susitarimą,— ir Lietuvos kunigaikštystės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-311
-- c-277
+
+- c-278
   santrauka: 'Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13943,11 +14634,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     meniniai atskirų didikų nesutarimai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-312
-- c-278
+
+- c-279
   santrauka: 'Vilniuje Viklifo pasekėjas gavo vyskupo leidimą kalbėti apie tikėjimą šv. Onos bažnyčioje ir ten laikyti pamaldas.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13962,11 +14655,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ir ten pat laikyti pamaldas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-313
-- c-279
+
+- c-280
   santrauka: 'Karalius sušaukė Vilniuje bajorų seimą, norėdamas palankiai nuteikti lietuvius Livonijos klausimu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
   citata_originali: |
@@ -13986,11 +14681,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ištesėjo, trokšdamas, kad šie pritartų jo sumanymams.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-314
-- c-280
+
+- c-281
   santrauka: 'Lietuvos metraščio pasakojime Kęstutis sutartą dieną atvyko prie Vilniaus pilies, užėmė Vilnių ir išvijo Jaunutį.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14002,11 +14699,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     išvijo iš tenai Jaunutį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-315
-- c-281
+
+- c-282
   santrauka: 'Po Algirdo mirties Kęstutis pripažino Jogailą valdovu Vilniuje ir važinėjo pas jį tartis dėl reikalų.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14022,11 +14721,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-316
-- c-282
+
+- c-283
   santrauka: 'Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14043,11 +14744,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     do.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-317
-- c-283
+
+- c-284
   santrauka: 'Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14061,11 +14764,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     niaus Aukštutinę pilį Mykoliukui * * .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-318
-- c-284
+
+- c-285
   santrauka: 'Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14091,11 +14796,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     pamotė6 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-319
-- c-285
+
+- c-286
   santrauka: 'Tą pačią vasarą į Vilnių pas Aleksandrą atvyko jo motina Elžbieta, brolis Fridrichas ir seserys Barbora bei Elžbieta, o metraštis pabrėžia džiaugsmingą jų priėmimą.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14113,11 +14820,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     mylimam broliui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-320
-- c-286
+
+- c-287
   santrauka: 'Lietuvos metraščio pasakojime Gediminas prieš žūtį perdavė aukščiausią valdžią Vilniuje Jaunučiui.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14141,11 +14850,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     nutį išvyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-321
-- c-287
+
+- c-288
   santrauka: 'Lietuvos metraščio pasakojime Kęstutis užėmė Vilnių ir paėmė į nelaisvę Jogailą, jo brolius bei motiną.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14173,11 +14884,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Vitebske.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-322
-- c-288
+
+- c-289
   santrauka: '1492 m. liepos 18 d. Vilniuje visų LDK žemių seimas patvirtino Aleksandrą Lietuvos valdovu.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14185,11 +14898,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     LDK žemių seimas Vilniuje, 1492.VII.18.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-323
-- c-289
+
+- c-290
   santrauka: '1495 m. vasario 15 d. Maskvos kunigaikštytė Elena atvyko į Vilnių, kur tą pačią dieną Vilniaus katedroje įvyko jos jungtuvės su Aleksandru.'
   šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
   citata_originali: |
@@ -14198,11 +14913,13 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     did. kunigaikščiu Aleksandru.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-324
-- c-290
+
+- c-291
   santrauka: 'Vilniaus universitete tuo metu dėstė Joachimas Lelevelis, Ignotas Danilavičius ir Ignotas Onacevičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14215,12 +14932,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
     ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
     kus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-325
-- c-291
+
+- c-292
   santrauka: 'Vilniuje spaudai buvo rengiamas XVI a. kronikininko Motiejaus Strijkovskio veikalas.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14229,12 +14949,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
     Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
     Vilhelmo Gizo, Johano Miulerio -  darbus.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-326
-- c-292
+
+- c-293
   santrauka: 'Pasakojama, kad į Vilniaus bažnyčią suvežtą Saurų dvaro biblioteką ir rankraščius sargas už rublį leisdavo išgabenti.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14244,12 +14967,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
     ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
     lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-327
-- c-293
+
+- c-294
   santrauka: 'Narbutas rašė, kad Vilniuje ir kitose vietose būta aukurų, kuriuose degė vaidilučių saugoma Amžinoji ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14260,12 +14986,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­
     goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
     lietuviškai Wejdalotenie.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-328
-- c-294
+
+- c-295
   santrauka: 'Narbuto minima knygelė eilėmis pasakojo 1748 ir 1749 m. Vilniuje įvykusių gaisrų istoriją.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14279,12 +15008,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
     įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
     degusių namų sąrašą.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-329
-- c-295
+
+- c-296
   santrauka: 'Narbutas piktukų pavadinimą siejo su žodžiu „piktas“ ir minėjo netoli Vilniaus esantį Piktukonių kaimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14293,12 +15025,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
     Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
     vadinosi pursčiai (Puršcie).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-330
-- c-296
+
+- c-297
   santrauka: 'Narbutas, remdamasis Strijkovskiu, rašė, kad Vilniuje prie Perkūno šventyklos šliužai buvo laikomi atskiroje koplyčioje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14309,12 +15044,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
     kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
     riumi.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-331
-- c-297
+
+- c-298
   santrauka: 'Narbutas rašė, kad XVII a. pradžioje jėzuitai greta Vilniaus esančio kaimo mokykloje ant mokinio kaklo pastebėjo maišelį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14325,12 +15063,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     žiaus pradžioje. Šie kunigai vienoje greta Vilniaus esančio kai­
     mo mokykloje, mokydami vaikus katekizmo, ant vieno mokinio
     kaklo pastebėjo kabantį maišelį.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-332
-- c-298
+
+- c-299
   santrauka: 'Narbutas padavimų kontekste rašė, kad XIII a. didžioji šventykla vėliau buvusi Kernavėje, o galiausiai Vilniuje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14340,12 +15081,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
     gė šventoji ugnis.
     4.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-333
-- c-299
+
+- c-300
   santrauka: 'Narbutas rašė, kad XVIII a. pabaigoje Vilniuje, kasant katedros pamatų duobes, žemėje rastas rūsys su panašiais dalykais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14357,12 +15101,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ros bažnyčios pamatams, žemėje buvo rastas rūsys, kuris buvo
     pilnas panašių dalykų. Tokie atradimai primena paprotį už­
     kasti žemėje aukų likučius požemio dievų garbei.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-334
-- c-300
+
+- c-301
   santrauka: 'Narbutas rašė, kad Strijkovskis mini Vilniaus Perkūno šventykloje buvusį didžiulį juodą akmenį, iš kurio buvo įskeliama ugnis.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14374,12 +15121,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
     šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
     čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-335
-- c-301
+
+- c-302
   santrauka: 'Narbutas Gedimino sapno pasakojime rašė, kad Gediminas nakvojo Šventaragiu vadintame miške prie Vilnios ir Neries santakos.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14398,12 +15148,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
     kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
     čiui -  kas nors panašaus prisisapnuotų.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-336
-- c-302
+
+- c-303
   santrauka: 'Narbutas rašė, kad žiniose apie Vilniaus Perkūno šventyklą minimas Nemuno žemupyje buvęs pranašas, klaustas apie jos likimą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14418,12 +15171,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
     Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
     našystėmis tikėta.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-337
-- c-303
+
+- c-304
   santrauka: 'Narbutas rašė, kad Vilniaus vyskupas Abraomas Vaina uždraudė paprotį, siejamą su piktnaudžiavimu stipriaisiais gėrimais.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14437,12 +15193,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
     amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
     metais tą paprotį m atė ir griežtai jį uždraudė10 1.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-338
-- c-304
+
+- c-305
   santrauka: 'Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14459,12 +15218,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     ## Puslapis 372
 
     vedančio iš Užupio į Antakalnį.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-339
-- c-305
+
+- c-306
   santrauka: 'Narbutas spėjo, kad Vilniuje kunigaikščių pelenai turėtų būti pakasti Pilies kalno rytinėje pusėje.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14477,12 +15239,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     Mano kaimynystėje, prie Nočios miestelio, atsitiktinai at­
     kasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­
     tos geležies.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-340
-- c-306
+
+- c-307
   santrauka: 'Narbutas senajame Vilniaus miesto herbe matė milžiną Alcį, žengiantį per vandenį su moterimi ant pečių.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14493,12 +15258,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     šas: Sigillum civiiįatis] Viln[ensis],Ann[o] VIIurb[eJ condĮita]
     inst[itutum] (Vilniaus miesto antspaudas, įvestas 7 metais nuo
     miesto įkūrimo).
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-341
-- c-307
+
+- c-308
   santrauka: 'VI lentelės 40-ajame piešinyje Narbutas nurodė Vilniaus miesto senovinį herbą.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14512,12 +15280,15 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     das horizontaliai turėtų būti padalytas į du tokius plotus.
     40pav. Vilniaus miesto senovinis herbas
     41 pav.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-342
-- c-308
+
+- c-309
   santrauka: 'Karalius Žygimantas po Piotrkovo seimo su kariuomene išžygiavo iš Vilniaus, bet pasiekė tik Radaškovičius.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
   citata_originali: |
@@ -14532,28 +15303,8097 @@ Vilnius čia yra sostinė ir miestas, kuriame telkėsi Lietuvos valdovas, buvo d
     riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
     daškovičius; ten jis susitiko su caro pasiuntiniais,
     pareiškusiais pageidavimą taikytis.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-343
 
+- c-310
+  santrauka: 'Su Vilniaus universitetu buvo susiję dauguma leidinio „Wizerunki i Roztrząsania Naukowe“ literatų autorių.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
+    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
+    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
+    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
+    buvusių Vilniaus universiteto profesorių, astuoni su šia
+    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
+    dauguma buvo to universiteto absolventai.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-344
+
+- c-311
+  santrauka: 'Narbutas rašė, kad XVII amžiaus pradžioje jėzuitai prie Vilniaus esančio kaimo mokykloje pastebėjo mokinį su žalčio kultu siejamu maišeliu.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Kaip buvo įsišaknijęs tikėjimas žalčiais, kaip dievais-globė-
+    jais, užtenka pateikti pavyzdį iš jėzuitų pastebėjimų XVII am­
+    žiaus pradžioje. Šie kunigai vienoje greta Vilniaus esančio kaimo
+    mokykloje, mokydami vaikus katekizmo, ant vieno mokinio kaklo
+    pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
+    sakė: „Mano dievas, kurį man davė motina“.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-345
+
+- c-312
+  santrauka: 'Algirdo privilegijos nuoraše minimas Ostapui Kropotkovui suteiktas herbas buvo datuotas Vilniuje 1354 metų rugpjūčio 7 dieną.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
+    Vilniuje 1354 metų rugpjūčio 7 dieną.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-346
+
+- c-313
+  santrauka: 'Rusai iš Vilniaus į Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi į Stokholmą net akademijos biblioteką ir daugybę kitų kultūros turtų.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Daugelis brangeny-
+    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
+    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
+    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
+    ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
+    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
+    šiandien.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-348
+
+- c-314
+  santrauka: 'Čia jie pirmiausia Vilniuje įkūrė savo kolegiją, o vėliau ir akademiją.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Tam pa-
+    čiam reikalui jėzuitai buvo atkviesti ir į Lietuvą. Čia jie pir-
+    miausia Vilniuje įkūrė savo kolegiją, o vėliau ir akademiją.
+    Nesitenkindami Vilnium, jie labai greit savo mokyklų tinklą
+    išplėtė po visą kraštą (žiūr.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-349
+
+- c-315
+  santrauka: 'Galop lenkai sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.'
+  šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
+  citata_originali: |
+    Galop lenkai
+    sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.
+    Stanislovo katedroje, šalia brolio šv. Kazimiero.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-350
+
+- c-316
+  santrauka: 'Seimo pirmininkas Vytautas Landsbergis su svečiu Vilniaus senamiestyje prie Aušros vartų.'
+  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
+  citata_originali: |
+    Planinės
+    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
+    su svečiu Vilniaus senamiestyje  prie Aušros vartų.
+    Vilnius, 1992 m.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-351
+
+- c-317
+  santrauka: 'Vis dėlto gal po ta genealogi nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas bus valdęs, bet šito nei tvirtai teigti, nei.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė. Vis dėlto gal po ta genealogi­
+    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
+    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
+    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
+    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
+    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-352
+
+- c-318
+  santrauka: 'Pagaliau Antakalnio vardas pirm tikriausiai buvo duotas tik tai vietovei, kurioje stovėjo pagonių šven tykla, o ne dabartiniam priemiesčiui, VILNIAUS MIESTO ISTORIJA / TOMAS Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu ma aprūkusios nuo dūmų.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Antakalnis yra pava­
+    dintas arba nuo žodžių: ant-to-Kal-
+    no, arba: ant-Pakalnės, pagal tai, kaip
+    pirmasis davęs pavadinimą, Ant­
+    akalnį stebėjo; juk plaukiančiam Vi­
+    lija atrodytų esantis ant aukštumos,
+    o stovintis ant upės kranto Antakal­
+    nį regėtų plokštumoje, kalno papė­
+    dėje. Pagaliau Antakalnio vardas
+    pirm tikriausiai buvo duotas tik tai
+    vietovei, kurioje stovėjo pagonių šven­
+    tykla, o ne dabartiniam priemiesčiui,
+    109
+
+    ## Puslapis 126
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­
+    ma aprūkusios nuo dūmų, nedailiai suręstos ir be jokios tvar­
+    kos palei klampius kelius išbarstytos. Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-353
+
+- c-319
+  santrauka: 'Aktuota ir duota Vilniuje visuotiniame sei me artimiausią antradienį po Visų šventųjų dienos tūkstan tis penki šimtai penkiasdešimt pirmaisiais Viešpaties metais, o mūsų valdymo dvidešimt antraisiais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Amžinam šio dalyko patikimumui šį mūsų
+    raštą savo ranka pasirašėme ir įsakėme patvirtinti antspau­
+    do prikabinimu. Aktuota ir duota Vilniuje visuotiniame sei­
+    me artimiausią antradienį po Visų šventųjų dienos tūkstan­
+    tis penki šimtai penkiasdešimt pirmaisiais Viešpaties metais,
+    o mūsų valdymo dvidešimt antraisiais. Dalyvaujant didžiai
+    gerbiamiems, šviesiesiems, didingiesiems ir kilniesiems vys­
+    kupams, maršalkoms, kaštelionams, vaivadoms ir kitiems
+    309
+
+    ## Puslapis 326
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Magnificis et Generosis Episcopis, Marscbalcis, Castellanis,
+    Palatinis et alliis Baronibus, Consiliariis, Capitaneis, et Offi­
+    cialibus nostris sincere et fideliter nobis dilectis in diplomate
+    confirmationis nostrae expressis.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-354
+
+- c-320
+  santrauka: 'Duota Vilniuje, penktadienį, rytojaus dieną po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt antraisiais Viešpaties metais ir mūsų kara lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris dešimt šeštaisiais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Šiuo raštu skel­
+    biame tokią mūsų valią, kuriai jei kas išdrįstų nepaklusti, tą
+    mūsų įsakymų niekintoją ir pažeidėją laikysime maištinin­
+    ku ir pagal mūsų sprendimą nubausime. To dalyko patiki­
+    mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­
+    kabintas. Duota Vilniuje, penktadienį, rytojaus dieną po
+    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
+    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
+    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
+    dešimt šeštaisiais.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-355
+
+- c-321
+  santrauka: 'Atlikta ir duota Vilniuje, antradie nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai siais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    366
+
+    ## Puslapis 383
+
+    IV  KNYGA
+    vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors
+    būdu dabar esančiais ir priklausančiais bei ateityje kokios
+    nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir
+    didėti į plotį, ilgį ir aplinkui, žiūrint, kaip pačios dvaro že­
+    mės savo sienomis yra apribotos ir apibrėžtos, minėtajai mū­
+    sų žmonai, šviesiausiajai karalienei Elenai turėti, laikyti, nau­
+    dotis, taikiai ir ramiai valdyti, kaip yra pasakyta, iki gyvos
+    galvos. To viso aiškiam paliudijimui mūsų antspaudas prie
+    šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­
+    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
+    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
+    siais.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-356
+
+- c-322
+  santrauka: 'Duo ta Vilniuje, artimiausią šeštadienį po Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai keturiasdešimt ant raisiais Viešpaties metais.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Jį laikysime maištininku ir mūsų įstatymų nie­
+    kintoju ir bausime arba pagal statutą ir šios kunigaikštystės
+    papročius, arba mūsų nuožiūra. Kad šis dalykas amžinai ir
+    visais laikais galiotų, yra prikabintas mūsų antspaudas. Duo­
+    ta Vilniuje, artimiausią šeštadienį po Viešpaties žengimo į
+    dangų šventės, tūkstantis penki šimtai keturiasdešimt ant­
+    raisiais Viešpaties metais.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-357
+
+- c-323
+  santrauka: 'Aktuota ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū sų rezidencijos name pirmadienį, po Velykų sekmadienio, tūkstantis penki šimtai septyniasdešimt devintaisiais metais nuo Kristaus gimimo.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    -- •
+    418
+
+    ## Puslapis 435
+
+    IV  KNYGA
+    norime, kad po mūsų mirties keturis kartus per metus į mū­
+    sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­
+    čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­
+    tas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas
+    ateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­
+    nigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­
+    gose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­
+    tą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota
+    ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­
+    sų rezidencijos name pirmadienį, po Velykų sekmadienio,
+    tūkstantis penki šimtai septyniasdešimt devintaisiais metais
+    nuo Kristaus gimimo. Šalia dalyvaujant didžiai gerbia­
+    miems, garbiesiems, prakilniesiems ir kilmingiesiems po­
+    nams dekanui Jonui Jarčevskiui, kantoriui Simonui iš Bže-
+    zinos, mūsų Vilniaus katedros bažnyčios prelatams ir
+    kanauninkams - Laurynui Volskiui, Tomui Makoveckiui,
+    Vilniaus Jėzaus Draugijos kolegijos Rektoriui tėvui Jokūbui
+    Vagronicijui, pamokslininkui Petrui Skargai, šventovės pre­
+    fektui Mykolui Sedkovskiui, abiejų teisių daktarui, karališ­
+    kajam sekretoriui, Stakliškių seniūnui, karališkojo Vilniaus
+    miesto advokatui Augustinui Rotundui Mieleskiui, mūsų
+    Vilniaus miesto piliečių advokatui, Igumenio urėdui Jonui
+    Podoskiui, mūsų virtuvininkui Motiejui Volskiui ir kitiems
+    ponams draugams ir mūsų šeimynykščiams.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-358
+
+- c-324
+  santrauka: 'Die 19 9 bris [lapkričio 17 dieną] Vilniuje sumokėjau 185 raud. auks.'
+  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
+  citata_originali: |
+    Die 19 9 bris [lapkričio 17 dieną] Vilniuje sumokėjau 185
+    raud. auks. po 44 gr. 2 den, po to juos pakeičiau kiekvienam
+    išleisdamas po 2 liet. den. Išlaidos lenkiškais pinigais: 1 flor.,
+    16 gr. 2 liet. den.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-359
+
+- c-325
+  santrauka: 'Vilniuje lietuviškus pamokslus kunigai iš ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Atvirkščiai,
+    visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.
+    Yra dokumentinių įrodymų, jog teismuose XVI amžiuje nuospren­
+    džius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­
+    niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
+    ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-360
+
+## Citatos
+
+- id: c-05676
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    XVI amž. plačioji Lietuvos metraščio
+    redakcija mini įkūrimą išgarsėjusios Trakų pilies, 5 mylios atstu nuo
+    Kernavės, toje girios vietoje, kur Gediminas primedžiojęs daug
+    žvėrienos. Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti.
+  citata_rodoma: "Gražia legenda yra apipintas Vilniuje valstybės sostinės\nįkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­\ntakoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje\n(kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­\njėgęs tik vyriausias žynys Lizdeika išaiškinti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181932
+    - t-181785
+
+- id: c-05677
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nuo XIX amž. Vilniaus įkūrimo legenda taip įaugo
+    į savo praeitį pamilusios tautos sąmonę, jog Vilniaus pradžia be
+    «Taurakalnio » (Pilies kalno) medžioklės ir Gedimino « Geležinio
+    vilko » sapno yra nebeįsivaizduojama.
+    Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun
+    jau buvo perkėlęs savo sostinę^15.
+  citata_rodoma: "Istoriškai yra tikra, kad vėliausiai 1322 m. Gediminas Vilniun\njau buvo perkėlęs savo sostinę^15."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181929
+    - t-181847
+
+- id: c-05679
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    čiai jį jau pripažino nuo 1390 m. Nors 1392 m. dokumentuose nie­
+    kur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24. Dlu­
+    gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
+    kronikininkas J. Posilge — « didžiuoju seniūnu »^25.
+  citata_rodoma: "Nors 1392 m. dokumentuose nie­\nkur nepaminėta, bet Vytautas tada turėjo gauti ir Vilnių^24."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181952
+    - t-181845
+
+- id: c-14891
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Nepatenkinti
+    lietuviškai tautiška Kęstučio politika, kuri kenkė jų prekybos
+    reikalams, jie laukė tik progos padėti Jogailai atgauti valdžią,
+    kurio jie anksčiau buvo stipriai palaikomi. Vokiečių Ordinas,
+    gerai žinodamas, kas dedasi Lietuvoje, irgi nemiegojo.
+    Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­
+    mušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su
+    ta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo
+    Vitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­
+    gos pirklys Hanulo įteikė jam pilies raktus^1 ).
+  citata_rodoma: "Tą pačią dieną, kada Vilniuje miesčionys užėmė pilį ir iš­\nmušė Kęstučio sargybas, t. y. 1382 m. birželio 12 d., Jogaila su\nta kariuomene, kurią buvo Kęstučiui žadėjęs pagalbai, atėjo nuo\nVitebsko Vilniun ir, šalininkų remiamas, tuojau jį paėmė, o Ry­\ngos pirklys Hanulo įteikė jam pilies raktus^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181895
+    - t-181906
+
+- id: c-32530
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Nespausdinta yra likusi Lietuvoje Šapokos habilitacija « 1655
+    metų Kėdainių sutartis, arba švedai Lietuvoje 1655-1656 m. »,kuri
+    yra paremta svarbia archyvine medžiaga, labiausiai panaudojant
+    švedų archyvus. Savo išvadas jis yra davęs straipsniuose apie
+    Jonušą Radvilą ir Švediją (Židinys, 1939) ir Kėdainių sutartį
+    (LE, t, 11).
+    Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­
+    pio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,
+    Šapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1).
+  citata_rodoma: "Iš Ketverių metų seimo arba Didžiojo reformų seimo laikotar­\npio, 1933 m. vasarą prisirinkęs Vilniuje ir archyvinės medžiagos,\nŠapoka paskelbė keturias studijas (Senovė, 1936; LP, t. 1)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181639
+    - t-181794
+
+- id: c-32531
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (atspaudai iš
+    Praeities t. 1-3).
+    Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo
+    paskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­
+    nėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­
+    menėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė
+    penki autoriai.
+  citata_rodoma: "Ėmęs dėstyti Vilniaus universitete, Šapoka specialiau savo\npaskaitose susidomėjo sostinės istorija ir tremtyje paskelbė tyri­\nnėjimų. Su jo kaip redaktoriaus vardu labiausiai lietuvių visuo­\nmenėje yra surišta populiari «Lietuvos istorija» (1936), kurią rašė\npenki autoriai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181734
+    - t-181694
+
+- id: c-32534
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Gražia legenda yra apipintas Vilniuje valstybės sostinės
+    įkūrimas^14. Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­
+    takoje), Gediminas nukovęs taurą, o paskni Šventaragio slėnyje
+    (kur vėliau pastatyta katedra) susapnavęs įdomų sapną, kurį tepa­
+    jėgęs tik vyriausias žynys Lizdeika išaiškinti. Valdovo sapne gir­
+    dėtas staugimas «geležinio vilko », «lyg jame butų staugę šimtas
+    vilkų », reiškęs, jog toje vietoje busiąs pastatytas miestas, kuris
+    pasieksiąs didelio garso.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181774
+
+- id: c-32538
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kai 1382.VI.
+    12 d. iš Vitebsko atvyko į Vilnių Jogaila, Hanulis jam įteikė pilies
+    raktus^13 , ir Vytautas, atvykęs su savo kariuomene prie pilies mūrų,
+    jau nieko nebegalėjo padaryti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181885
+
+- id: c-37818
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuojau po 1377 metų Vytauto sėkmingo žygio baigė savo amžių
+    didysis Lietuvos kunigaikštis Algirdas. Didžiojo kunigaikščio
+    valdžią Vilniuje, kaip Kęstučio su Algirdu buvo sutarta, užėmė
+    jo vyriausias sūnus Jogaila, Vytauto amžininkas. Jaunam Jo­
+    gailai tapus didžiuoju kunigaikščiu, Kęstutis vis tiek, kaip ir pir­
+    miau, stengėsi palaikyti gerus santykius su Vilniaus kunigaikš­
+    čio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą.
+  citata_rodoma: "Didžiojo kunigaikščio\nvaldžią Vilniuje, kaip Kęstučio su Algirdu buvo sutarta, užėmė\njo vyriausias sūnus Jogaila, Vytauto amžininkas. Jaunam Jo­\ngailai tapus didžiuoju kunigaikščiu, Kęstutis vis tiek, kaip ir pir­\nmiau, stengėsi palaikyti gerus santykius su Vilniaus kunigaikš­\nčio dvaru ir važinėjo ten į didžiojo kunigaikščio tarybą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181816
+    - t-181825
+
+- id: c-37819
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kaip Lietuvos metraštis sako, Kęstutis, palikęs Vytau­
+    tą Vilniuje, pats išsirengė sudrausti nepaklusnaus kunigaikščio.
+    Iš Jogailos pažadėtos pagalbos negavęs, jis ne tik Dimitro ne­
+    nuveikė, bet dar turėjo nuostolių. Tuo tarpu Vilniuje, dar sti­
+    pri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,
+    pasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu
+    užėmė pilį.
+  citata_rodoma: "Tuo tarpu Vilniuje, dar sti­\npri Jogailos partija ir visi Kęstučio priešai apie ją susispietę,\npasinaudodami Vytauto iš miesto išvykimu, Jogailos vardu\nužėmė pilį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181815
+    - t-181655
+
+- id: c-37821
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Susišaukęs savo šalinin­
+    kus nutarė slapčia užimti Vilnių. Bet jų sumanymas liko iš­
+    duotas. Nepavykus paimti Vilniaus ir dar labiau po to pasun­
+    kėjus padėčiai, Vytautui su savo šalininkais nieko kito nebeliko
+    daryti, kaip vėl eiti tuo pačiu keliu, jau kartą išmėgintu: pa­
+    traukti į Prūsus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181676
+
+- id: c-37823
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo pačiu bus aptarta ir tų santykių forma,
+    kuri buvo susidariusi tarp Lietuvos ir Lenkijos, kad ir Vytau­
+    to laikais.
+    Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­
+    nigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­
+    vos žemių dviejų kun. valdymas istorijoj vadinamas vienų is­
+    torikų dualizmu, kitų — diarchija nežuvo ir kai mirė Algirdas
+    (1377).
+  citata_rodoma: "Mes žinom, kad Lietuvą savo laiku valdė du didžiuoju ku­\nnigaikščiu: Algirdas Vilniuj, Trakuose Kęstutis. Toks Lietu­\nvos žemių dviejų kun."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181937
+    - t-181934
+
+- id: c-44003
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Paimtos 7 livonie-
+    čių vėliavos, kurios buvo nugabentos į
+    Vilniaus šv. Stanislovo bažnyčią - katedrą
+    kaip pergalės simbolis. Tačiau Ordinas vis
+    dar siekė išlaikyti savo pozicijas Lietuvos ir
+    Lenkijos atžvilgiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181881
+
+- id: c-44008
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tais pa-
+    čiais metais Rusija pasiuntė savo gausią kariuomenę į Lietuvą. Nors
+    Lietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-
+    žimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą
+    lietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai
+    priartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas
+    užėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas.
+  citata_rodoma: "Nors\nLietuvos kariuomenė 1654-1655 m. kiek galėdama stabdė rusų ver-\nžimąsi, 1655 m. pavasarį Rusijos kariuomenė užėmė Minską, o liepą\nlietuvius prie Ašmenos sumušę, rusai ir jų sąjungininkai kazokai\npriartėjo prie Vilniaus. Rugpjūčio 7 d. po aršių kautynių priešas\nužėmė Lietuvos sostinę, netrukus buvo užimti Trakai ir Kaunas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181880
+    - t-181720
+
+- id: c-44010
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Šios Sapiegų kariuomenės
+    dalies gynyba neleido respubliko-
+    nams organizuoti besitraukiančių
+    Sapiegų giminės senjorų persekio-
+    jimą. Etmonas, iždininkas ir marša-
+    las vakare pasiekė Vilnių, iš visų savo
+    rūmų suvežė svarbiausias vertybes į
+    dominikonų vienuolyną, kuriame ir
+    pernakvojo, o ryte, paskleidę gandą,
+    kad vyksta į Drują bei Bychovo tvir-
+    tovę, iš tikrųjų suskubo trauktis į
+    Kuršą - į Bauskę ir Mintaują. Juos
+    persekiojęs respublikonų kariuome-
+    nės dalinys įžengė į Vilnių Sapiegoms
+    jau išvykus iš miesto.
+  citata_rodoma: "Etmonas, iždininkas ir marša-\nlas vakare pasiekė Vilnių, iš visų savo\nrūmų suvežė svarbiausias vertybes į\ndominikonų vienuolyną, kuriame ir\npernakvojo, o ryte, paskleidę gandą,\nkad vyksta į Drują bei Bychovo tvir-\ntovę, iš tikrųjų suskubo trauktis į\nKuršą - į Bauskę ir Mintaują. Juos\npersekiojęs respublikonų kariuome-\nnės dalinys įžengė į Vilnių Sapiegoms\njau išvykus iš miesto."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181923
+    - t-181938
+    - t-181915
+
+- id: c-44012
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos pajėgos
+    Vilniaus puolime balandžio 23 d. daly-
+    vavo LDK 4-ojo pėstininkų regimento
+    (pulko) dvi sumažintos kuopos, 7-ojo
+    fuzilierių regimento dvi sumažintos
+    kuopos, LDK tribunolo vengrų vėliavos
+    dalinio 50 karių, artilerijos ir inžineri-
+    jos korpusų kariai. Iš viso apie 580 karių
+    ir 20 vienetų artilerijos pabūklų (visi jie
+    buvo pilies arsenale stacionariose po-
+    zicijose). Jiems talkino apie 500 įvairiai
+    ginkluotų civilių Vilniaus gyventojų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181921
+
+- id: c-44013
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Vėliau Vilnių nuo rusų puolimo gynė
+    gen. mjr. Jono Mejeno divizija, kurią sudarė
+    2-0ji ir 3-ioji Tautinės kavalerijos brigados,
+    mjr. Jozefo Grabinskio Jėgerių batalionas,
+
+    LDK kariuomenės
+    artileristai prasidėjus
+    sukilimui Vilniuje
+    (2004 m. vykusi
+    1794 m. sukilimo
+    kovų inscenizacija)
+
+    du 4-ojo pėstininkų regimento kadriniai
+    batalionai. Iš viso divizijoje buvo 876 pés-
+    tininkai ir 591 raitelis (1467 kariai). Divizija
+    turėjo 6 pabūklus, kurių dauguma buvo iš-
+    dėstyta įtvirtinimuose Liepkalnyje. Vilniaus
+    miesto įgulą sudarė nedideli 4-ojo ir 8-ojo
+    pėstininkų regimentų ir raitelių atsarginiai
+    padaliniai - apie 1000 karių, tik 420 tu-
+    réjo šautuvus, taip pat 7 artilerijos pabū-
+    klus. Įguloje taip pat buvo Vilniaus pavieto
+    (žemės gen. mjr. T. Korsako) milicijos ba-
+    talionas ir keli eskadronai bei keletas kitų
+    smulkesnių sukilėlių padalinių. Gynyboje
+    dalyvavo apie 1500 ginkluotų Vilniaus gy-
+    ventojų, iš kurių apie 500 turėjo šaunamuo-
+    sius ginklus, likę buvo ginkluoti specialiai
+    kovai perdarytais dalgiais ir nukaltomis
+    ietimis. Iš viso liepos 19-20 dienomis
+    Vilnių ir jo apylinkes gynė apie 4 tūkstan-
+    čiai kovotojų su 13 artilerijos pabūklų.
+    Trečiojoje kovų fazėje (rugpjūčio 11 d.)
+    Vilniaus įgula buvo papildyta regulia-
+    riais daliniais ir išaugo maždaug iki
+    5 tūkstančių karių, tačiau Vilniaus gy-
+    nėjų artilerija nebuvo papildyta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181821
+
+- id: c-44014
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Tačiau sprendžiant iš 1792 m. dokumentuose aptinkamų žinių, kartais
+    Prūsijoje būdavo įsigyjama ne ypač geros kokybės šautuvų. Mėginta šautuvus gaminti Gardine,
+
+    tačiau vadovybė savais gamintojais nepasitikėjo
+
+    Rusijos pajėgos
+
+    Lietuviams puolant balandžio 23 d.
+    Vilniuje buvusią rusų įgulą sudarė:
+    Narvos muškietininkų pulko vienas
+    batalionas ir trys kompanijos (kuo-
+    pos), Pskovo muškietininkų pul-
+    ko du batalionai, Dono kazokų
+    pulkas, keturios lauko artileri-
+    jos kompanijos (kuopos) ir ke-
+    letas kitų smulkesnių dalinių. Iš
+    viso 2500 pėstininkų, 300 rai-
+    telių ir 19 artilerijos pabūklų.
+  citata_rodoma: "Mėginta šautuvus gaminti Gardine,\n\ntačiau vadovybė savais gamintojais nepasitikėjo\n\nRusijos pajėgos\n\nLietuviams puolant balandžio 23 d.\nVilniuje buvusią rusų įgulą sudarė:\nNarvos muškietininkų pulko vienas\nbatalionas ir trys kompanijos (kuo-\npos), Pskovo muškietininkų pul-\nko du batalionai, Dono kazokų\npulkas, keturios lauko artileri-\njos kompanijos (kuopos) ir ke-\nletas kitų smulkesnių dalinių. Iš\nviso 2500 pėstininkų, 300 rai-\ntelių ir 19 artilerijos pabūklų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181689
+    - t-181706
+
+- id: c-44015
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    |
+    | Kovo mėnesį vieną dieną pradėta organizuoti rinktinė iš Kauno ir Aukštosios Panemunės |
+    | įgulų puolančiam priešui atremti. Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |
+    | Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |
+    | šiek tiek pakenčiamus batus.
+  citata_rodoma: "Pagrindinė priešo vora slinko iš Vilniaus pro Trakus, |\n| Aukštadvarį ir pasiekė Jiezną. Į rinktinę buvo priimami tik tie savanoriai, kurie turėjo bent |\n| šiek tiek pakenčiamus batus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181849
+    - t-181903
+
+- id: c-44018
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    — 1919 m. balandžio 16-17 lenkai užėmė Lydą E). Balandžio
+    19-21 d. po sunkių kovų lenkai užėmė Vilnių ir išstūmė bolševikus iš
+    meso Pasitraukus į vakarus vokiečių pajėgoms, lenkai balan-
+    džio 27 d. užėmė Gardin Iki gegužės 1 d. lenkų kariai užėmė
+    Musninkus, Giedraičius £PA, Švenčionis, Adutiši
+    Smurgainis (E).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181733
+
+- id: c-46800
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Vilnius pasidarė didelis rytų Europos miestas. Žo-
+    džiu, Vytautas padėjo pamatus naujajai Lietuvai. Tik, deja,
+    tolesni politiniai įvykiai jai sutrukdė tinkamai plėtotis ir stiprėti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10864
+
+- id: c-46803
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kunigaikštienė Ele-
+    na tapo abiejų pusių politinių sumetimų auka. Pirmiausia jos
+    tėvas pareikalavo, kad ji liktų pravoslavė; su ja į Vilnių buvo
+    pasiųstas didokas skaičius Maskvos bajorų ir pravoslavų dva-
+    sininkų, kurie čia turėjo šnipinėti ir teikti žinias Maskvai. Jai
+    pačiai tėvas griežtai nurodė, kaip ji turi laikytis Vilniuje, kokiuos
+    santykius turi palaikyti su katalikais ir t.t. Tuo būdu iš pada-
+    rytosios (1494 m.) taikos neišėjo nieko gero: Jonas **III** ir toliau
+    palaikė ryšius su Lietuvos priešu, Krimo chanu Mengli-Girėju,
+  citata_rodoma: "Pirmiausia jos\ntėvas pareikalavo, kad ji liktų pravoslavė; su ja į Vilnių buvo\npasiųstas didokas skaičius Maskvos bajorų ir pravoslavų dva-\nsininkų, kurie čia turėjo šnipinėti ir teikti žinias Maskvai. Jai\npačiai tėvas griežtai nurodė, kaip ji turi laikytis Vilniuje, kokiuos\nsantykius turi palaikyti su katalikais ir t.t."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181852
+    - t-181933
+
+- id: c-46806
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tada ir ponai prisi-
+    statė Vilniuje daugybę rūmų. Tais laikais Vilnius pasidarė vienas
+    gražiausių rytų Europos miestų. Jame tada buvo pilna italų staty-
+    bininkų ir mokslininkų humanistų.
+  citata_rodoma: "Tais laikais Vilnius pasidarė vienas\ngražiausių rytų Europos miestų. Jame tada buvo pilna italų staty-\nbininkų ir mokslininkų humanistų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181765
+    - t-181803
+
+- id: c-46808
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kol buvo gyvas Zigmantas II Senasis, niekas nedrįso Lie-
+    tuvoje atvirai skelbti protestantizmo. 1538 m. Abraomas Kul-
+    vietis buvo atidaręs Vilniuje savo protestantiškąją mokyklą,
+    tačiau veikiai buvo priverstas ją uždaręs pasišalinti. Bet Zig-
+    manto Augusto laikais virto kitaip: tuomet protestantų buvo
+    pilnas Vilnius; jų mokslas buvo skelbiamas net iš didžiojo kuni-
+    gaikščio koplyčios.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181835
+
+- id: c-46809
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Lietuvoje protestantų galva ir uoliausias protestantizmo
+    skleidėjas pasidarė artimiausias Zigmanto Augusto patarėjas
+    Mikalojus Radvila Juodasis. Tam tikslui jis nau-
+    dojo visą savo valdžią ir turtą. Lukiškiuose (Vilniaus prie-
+    miesty) jis pastatė kalvinų bažnyčią ir traukė į ją visus vilnie-
+    čius. Savo dvaruose, kurių buvo pilna Lietuva, jis pašalino
+    katalikų kunigus, pakeisdamas juos kalvinais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181683
+
+- id: c-46812
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Pagaliau laimėjo lietuviai
+    ir karalius; lenkai irgi sutiko apsidėti mokesčiais. Lietuva noriai
+    pasižadėjo duoti 10.000 karių. Tuo būdu surinkus pinigų, prisi-
+    samdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-
+    gaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),
+
+    1579 m. vasarą pats karalius iš Vilniaus išžygiavo prieš caro
+    kariuomenę, kuri buvo suspiesta Pskove.
+  citata_rodoma: "Tuo būdu surinkus pinigų, prisi-\nsamdžius Vengrijoje ir Vokietijoje kareivių, prisipirkus ir prisi-\ngaminus ginklų (tada Vilniuje buvo įsteigta patrankų liejykla),\n\n1579 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181671
+    - t-181922
+
+- id: c-46813
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Len-
+    kai ir šitam seime nenorėjo
+    duoti daugiau mokesčių, ta-
+    čiau karaliui vis dėlto pa-
+    sisekė juos palenkti. Po Var-
+    šuvos seimo atvykęs į Vil-
+    nių, jis čia sušaukė vienų lietuvių seimą, kur padė-
+    kojęs jiems už uolų dalyvavimą kare, susitarė, kaip toliau veikti.
+    Buvo suorganizuota dar didesnė kariuomenė (lietuviai dabar
+    davė net 12.700 karių; kiek šį kartą buvo lenkų karių, tikrai
+    nežinoma).
+  citata_rodoma: "Po Var-\nšuvos seimo atvykęs į Vil-\nnių, jis čia sušaukė vienų lietuvių seimą, kur padė-\nkojęs jiems už uolų dalyvavimą kare, susitarė, kaip toliau veikti.\nBuvo suorganizuota dar didesnė kariuomenė (lietuviai dabar\ndavė net 12."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181775
+    - t-181862
+
+- id: c-46814
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl Vilniaus vyskupas
+    Protasevičius, norėdamas paruošti kunigų iš savo žmonių tarpo
+    ir rūpindamasis kovoti su protestantais, atsikvietė į Vilnių jė-
+    zuitų; jie čia įkūrė pirmą aukštesniąją mokyklą Lietuvoje, vadi-
+    namą kolegija (žiūr. 254 psl.). Maža to, vyskupas Protasevičius,
+    nesigailėdamas savo turtų, rūpinosi įkurti Vilniuje ir aukštąją
+    mokyklą. Tatai jis irgi pavedė padaryti tiems patiems jėzuitams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193247
+
+- id: c-46815
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl kai 1578 m. Vilniaus
+    jėzuitai per vysk. Protasevičių ir J. Radvilą paprašė jį leisti
+    įkurti Vilniuje akademiją, Stp. Batoras labai mielai sutiko ir
+    davė privilegijos raštą, kurį jis antrą kartą iškilmingai patvirtino
+    atvykęs į Lietuvą (1579 m.). Netrukus akademijos įkūrimą pa-
+    tvirtino ir popiežius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181780
+
+- id: c-165169
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko
+    liautis minėti spalio 9-ąją – Vilniaus praradimo dieną, apsikeisti pasiun-
+    tinybėmis, įsteigti Vilniuje Lietuvos konsulatą, paleisti 700 000 narių
+    turėjusią patriotinę „Vilniui vaduoti sąjungą“, nutraukti žurnalo „Mūsų
+    Vilnius“ leidimą. Nors diplomatiniai santykiai buvo atkurti, Lenkijos ir
+    Lietuvos bendradarbiavimas nesusiklostė. Lietuva tai laikė taktiniu atsi-
+    traukimu ir 1938 m. gegužę priimtoje naujoje konstitucijoje vėl įrašė, kad
+    Vilnius yra Lietuvos sostinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181661
+
+- id: c-165170
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1919 m. balandžio pradžioje Lietuvos karinė vado-
+    vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
+    Vilnių ir pirmiau nei lenkai jį užimti.
+
+    Balandžio 3-8 d. lietuviai iš Alytaus ir Kauno puolė Vilniaus link.
+    Šiaurinė (Kauno) grupė turėjo pulti per Žiežmarius, Zaslius, Vievį
+    Pietinė grupė turėjo užimti Daugus ir Varéng@, tada palei gelezin-
+    kelį pro Lentvarį pulti Vilnių.
+  citata_rodoma: "1919 m. balandžio pradžioje Lietuvos karinė vado-\nvybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti\nVilnių ir pirmiau nei lenkai jį užimti.\n\nBalandžio 3-8 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181833
+
+- id: c-165171
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Buvo juk to­
+    kia visuotinė pirmykščių krikščionių
+    bažnyčios taisyklė - pagonis atver­
+    čiant į tikrąjį tikėjimą bažnyčias
+    113
+
+    ## Puslapis 130
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Sutvarkęs Vilniuje tikybos reikalus, karalius atkreipė dė­
+    mesį į savo senosios sostinės padėtį. Atmindamas Vilniaus
+    gyventojų ištikimybę ir nepalaužtą jų prieraišumą kivirčų
+    su Kęstučiu krašto viduje laikais, gelbėdamas miestą nuo
+    valdžios nepastovumo ir sumaišties, į kurią buvo įstūmę kai­
+    mynų puldinėjimai ir tarpusavio vaidai, iškilmingu aktu,
+    rašytu Merkinėje, kitą dieną po Šv. Benedikto, abato, šven­
+    tės, valdovas Vilniui suteikė Magdeburgo teises15.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181686
+
+- id: c-165172
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Bolševikų pa-
+    jėgos šiame rajone buvo išsklaidytos ir sutelktos kitose ilgo fronto
+    vietose, o tarp Marcinkonių ir Lydos rusų pozicijose susidarė menkai
+    Pe 2 o ai ) pridengtas tarpas. || :
+    Rezalima: 02 di ian enkai nusprendė tuo pasinaudoti: surengti vieną pirmųjų
+
+    \DVILISI Žo ių a A 4 : 7a savo stambesnių puolamųjų operacijų ir užimti Vilnių.
+
+    1919 m. balandžio pradžioje Lietuvos karinė vado-
+    vybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti
+    Vilnių ir pirmiau nei lenkai jį užimti.
+  citata_rodoma: "|| :\nRezalima: 02 di ian enkai nusprendė tuo pasinaudoti: surengti vieną pirmųjų\n\n\\DVILISI Žo ių a A 4 : 7a savo stambesnių puolamųjų operacijų ir užimti Vilnių.\n\n1919 m. balandžio pradžioje Lietuvos karinė vado-\nvybė, sužinojusi apie telkiamas lenkų pajėgas, nutarė pulti\nVilnių ir pirmiau nei lenkai jį užimti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181841
+
+- id: c-165173
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vygan­
+    das  tačiau byloja: Steterunt V septi­
+    manis in continuo agone nocte dieque
+    et pugna et ex utraque parte multi sunt
+    occisi [stovėjo 5 savaites nuolatinėse
+    kautynėse dieną naktį ir kovoje iš
+    abiejų pusių daug buvo užmuštų].
+    - • —
+    126
+
+    ## Puslapis 143
+
+    Il KNYGA
+    po įtemptos, tačiau perniek nuėjusios, pilies apsupties, kry­
+    žiuočiai galop atsitraukė ir, palikę Vilnių, kraštą ugnimi ir
+    kalaviju nusiaubę, grįžo į Prūsiją ir Livoniją. Puolėjų nuos­
+    toliai buvo irgi ne mažesni; be daugybės nukautų karių, prie
+    Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis, Kęstu­
+    čio sūnus, Vytauto tikras brolis Tautvilas ir Hohenšteino gra­
+    fas Algardas34.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181763
+
+- id: c-165174
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gedimi­
+    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
+    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
+    ninko - Vokietijai.
+    Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­
+    nėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­
+    kusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be
+    Rygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­
+    vas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,
+    Gedimino vasalės ar besigiminiavusios, pirkliai į sostinę
+    23
+    Mažesnieji broliai (pranciškonų
+    atšaka).
+  citata_rodoma: "Vilnius, regis, dar Gediminui valdant, ėmė darytis jau ga­\nnėtinai svarbiu prekybos centru; Lietuvoje ligi šiol yra išli­\nkusių svarbių jo privilegijų Rygos pirkliams pėdsakų; ir be\nRygos buvę sąjungoje su juo ir kurį laiką jam priklausę Psko­\nvas bei Naugardas ne mažesnę globą patyrė. Iš Rusios,\nGedimino vasalės ar besigiminiavusios, pirkliai į sostinę\n23\nMažesnieji broliai (pranciškonų\natšaka)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181678
+    - t-181896
+
+- id: c-165175
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Netgi pats, 1535 metais būdamas Vilniuje, važi­
+    nėjo už miesto apžiūrėti tos versmės ir įsitikinti, jog ji
+    trykšta karaliaus, o ne privačioje žemėje8. Tokias dideles
+    karaliaus pastangas miestą aprūpinti vandeniu nulėmė ne
+    tik patogumo siekis ir atkaklūs miestiečių prašymai, bet ir
+    du baisūs gaisrai, kilę 1513 metų vasario 21 dieną ir 1530
+    metais, Vilniui padarę labai didelių nuostolių. Per pirmąjį
+    gaisrą buvo sunaikinta Aukštutinė pilis, per antrąjį lieps­
+    nose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181697
+
+- id: c-165176
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Miestiečiai prie jų
+    dieną ir naktį turėjo eiti sargybą, jiems buvo suteikta laisvė
+    imti po vieną pinigą kas dveji metai, arba po vieną akmenį
+    nuo kiekvieno vežimo, gabenančio javus ar kokius kitus pro­
+    duktus. Tačiau šis karaliaus nurodymas gal taip greitai ne­
+    būtų buvęs įgyvendintas, jeigu 1506 metais totoriai, nusiau­
+    bę Slucko ir Minsko apylinkes, nebūtų pradėję taikytis į
+    Vilnių. Jų pabūgę miestiečiai, raginami ir remiami Vilniaus
+    vyskupo Vaitiekaus Taboro, visą miestą apjuosė mūro py­
+    limu, išmetę medinius statinius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181892
+
+- id: c-165177
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    294
+
+    ## Puslapis 311
+
+    IV KNYGA
+    vo teismui66. Lygiai taip pat įžvalgiai karalius užkirto kelią
+    jau pradėjusiems Vilniuje reikštis piktnaudžiavimams ir
+    maištams dėl pataisyto kalendoriaus įvedimo. Graikų apei­
+    gų išpažinėjai karaliaus autoritetu buvo apsaugoti nuo sto­
+    jimo prieš teismus šventomis dienomis pagal senąjį kalen­
+    dorių, ir visas abiejų tikėjimų - katalikų ir graikų - apeigas
+    stengtasi kuo rimčiau saugoti nuo pažeidimų67.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181736
+
+- id: c-165178
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Žygimanto Augusto laikai Vilniui buvo aukso amžius, o
+    jo mirtis - visuotinio sielvarto ir sunkios netekties diena. Čia
+    jis pirmiausia mokėsi valdymo meno, galbūt čia pirmą kar­
+    tą savo širdyje patyrė maloniausius jausmus, pagaliau čia,
+    Vilniuje, atrado tai, kas jam buvo brangiausia. Užtat Vilnius
+    anuomet jam buvo mieliausias iš visų Lenkijos miestų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181741
+
+- id: c-165179
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vytautas Didysis, ėmęs valdyti Lietuvą, taip pat pasidarė
+    didelis žemvaldys, paveldėdamas didž. kunigaikščiui priklau­
+    sančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų
+    gausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­
+    maičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau
+    apgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat
+    arčiau didž. Lietuvos kunigaikščio būstinės.
+  citata_rodoma: "kunigaikščiui priklau­\nsančias žemes ir jų dvarus. Jo laikais tokių dvarų - ūkio centrų\ngausiai buvo pačioje Lietuvoje—Vilniaus, Trakų ir iš dalies Že­\nmaičių žemėse, ir Volynijoje bei Podolijoje, nes tai buvo labiau\napgyventos vietos; be to, Trakų ir Vilniaus žemės buvo taip pat\narčiau didž. Lietuvos kunigaikščio būstinės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181699
+
+- id: c-165180
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vilnius tuo metu turėjo 155 tūkst. gyventojų (prieš Pirmąjį pasaulinį karą
+    jau 200 tūkst.), Kaunas – daugiau kaip 70 tūkst. gyventojų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181813
+
+- id: c-165182
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo raštu skelbiame visiems ir
+    kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
+    yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai
+    gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al-
+    šėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­
+    siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš
+    kitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­
+    no vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat
+    vaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė
+    ar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­
+    čiomis nemažą turgaus plotą, ir norėdami pačią turgavietę
+    ir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­
+    je vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių,
+    tiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė
+    ir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto
+    vietoje vien tik minėto miesto reikmėms, tuo atsiskirdami
+    nuo minėto pono Vilniaus vyskupo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181728
+
+- id: c-165183
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Užnugaryje buvę Sapiegas rėmę
+    bajorų pašauktiniai pasitraukė iš
+    mūšio lauko. Etmonas, pama-
+    tęs, kad jo kariuomenė supama,
+    ir kad respublikonai jau užėmė
+    gurguolę, nusprendė trauktis į
+    Vilnių. Kartu su juo pasitraukė
+    iždininkas B. P. Sapiega ir marša-
+    las A. P. Sapiega bei totorių vėliavos.
+  citata_rodoma: "Etmonas, pama-\ntęs, kad jo kariuomenė supama,\nir kad respublikonai jau užėmė\ngurguolę, nusprendė trauktis į\nVilnių. Kartu su juo pasitraukė\niždininkas B. P. Sapiega ir marša-\nlas A. P. Sapiega bei totorių vėliavos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181872
+
+- id: c-165186
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    XVI a. vidu-
+    ryje buvo sudaryta unija su Lenkijos Karalyste ir susiformavo jungtinė
+    valstybė – Abiejų Tautų Respublika. Paprastai moksle laikoma, kad ši
+    valstybė Europos ir pasaulio civilizacijai XVII–XVIII a. davė labai reikš-
+    mingus fenomenus, kurių trumpa formulė būtų tokia – duona, toleran-
+    cija, demokratija, konstitucija, barokas. Taigi Abiejų Tautų Respublika:
+    •	 aprūpino Vakarus (per Gdanską į Amsterdamą) javais,
+    •	 sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir
+    bajoriškosios demokratijos tradiciją,
+    •	 Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių
+    ribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-
+    sauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,
+    •	 iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-
+    poje Vilniaus universitetą, turintį savitas misionierių, kankinių ir
+    šventųjų, poetų, retorikų ir logikų tradicijas,
+    •	 išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-
+    tūros mokyklą,
+    • sukūrė teisinę tradiciją, kuri XVI a. davė sistemingiausius Europoje
+    teisės kodeksus – Lietuvos Statutus, o 1791 m. kartu su Lenkija –
+    konstituciją, tapusią ankstyviausia rašytine konstitucija Europoje.
+  citata_rodoma: "Taigi Abiejų Tautų Respublika:\n•\t aprūpino Vakarus (per Gdanską į Amsterdamą) javais, \n•\t sukūrė Vakarams tuomet beveik nežinomą religinės tolerancijos ir \nbajoriškosios demokratijos tradiciją, \n•\t Vilnius XVI–XVIII a. tapo vienintele stovinčia ant dviejų pasaulių \nribos Europos sostine, kurioje sugyveno dešimt konfesijų, o žydų pa-\nsauliui tai buvo Vilniaus Gaono miestas ir „Šiaurės Jeruzalė“,\n•\t iškėlė plačiausios poveikio erdvės ir vieną seniausių Vidurio Euro-\npoje Vilniaus universitetą, turintį savitas misionierių, kankinių ir \nšventųjų, poetų, retorikų ir logikų tradicijas,\n•\t išpuoselėjo europiniu mastu reikšmingą Vilniaus baroko architek-\ntūros mokyklą,\n• sukūrė teisinę tradiciją, kuri XVI a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181850
+    - t-181877
+
+- id: c-165187
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jaunavedžiai
+    gyveno Vilniuje. Čia jis kurį laiką dirbo Edukacinėje teismo ko­
+    misijoje, aktyviai bendradarbiavo Vilniaus periodinėje spaudo­
+    je rašydamas švietėjiško - pažintinio pobūdžio straipsnius ir fel­
+    jetonus. Būdamas darbštus ir plačių interesų, Vilniuje pradėjo
+    rinkti su miesto istorija susijusius dokumentus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181738
+
+- id: c-165188
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau kartu litvakais imta vadinti žydus, kuriems
+    būdinga savita gyvensena, išlikusi ir po LDK sunaikinimo.
+    Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-
+    tėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de
+    Lite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam
+    žydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-
+    no, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado).
+  citata_rodoma: "Taip Vilnius XVIII a. tapo žydų gyvenimo pastovumo ir kultūros kles-\ntėjimo simboliu ir buvo pavadintas „Lietuvos Jeruzale“ (Jerušalaim de \nLite). Šiandien mokslas XVIII–XIX a. sandūros Vilnių priskiria pirmam \nžydų pasaulinių kultūros centrų dešimtukui (šalia Amsterdamo, Londo-\nno, Varšuvos, Lvovo, Salonikų, Stambulo, Tuniso ir Bagdado)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181709
+
+- id: c-165190
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    VILNIAUS Ml L  STO ISTORIJA / TOMAS
+    daugiau galimybių stebėti jų gynybą ir užbėgti už akių jų
+    puolimams. Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo.
+  citata_rodoma: "Pirmąjį Vilniaus paminėjimą, pirmą autentišką\npaliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be\nabejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­\nniuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip\npat su Vokiečių ordino Livonijoje magistru ir broliais - iš\nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo\nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino\nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181768
+    - t-181950
+
+- id: c-165191
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto Jaunutis išsigelbėjo pabėgda­
+    mas kartu su jam palankiu broliu Narimantu, Pinsko
+    kunigaikščiu; pirmasis - Smolenske, antrasis pas totorių
+    chaną ieškojo prieglobsčio16 * . Tie politiniai pokyčiai Vilniu­
+    je, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­
+    dymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­
+    rasis, Gedimino vertas įpėdinis, narsa ir proto guvumu
+    nenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai
+    Lietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet
+    galingiausiu valdovu Šiaurės Europoje.
+  citata_rodoma: "Tie politiniai pokyčiai Vilniu­\nje, išties pirmi, įkūrus jame sostinę, Lietuvos ir Rusios val­\ndymą, kaip ir patį miestą, perleido į Algirdo rankas. Pasta­\nrasis, Gedimino vertas įpėdinis, narsa ir proto guvumu\nnenusileidęs tėvo šlovei ir kivirčų krašto viduje sukrėstai\nLietuvos valstybei grąžinęs vienybę ir galią, tapo anuomet\ngalingiausiu valdovu Šiaurės Europoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181851
+    - t-181820
+
+- id: c-165192
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Iš pradžių aneksuotoje teritorijoje pradėtos kurti dvi gubernijos, tačiau
+    tepraėjus tik metams sujungtos į vieną Lietuvos vardu (Litovskaja guber-
+    nija). 1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos
+    Gardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-
+    dėjusiai veikti generalgubernatoriaus institucijai. 1819 m. nuo Vilniaus
+    gubernijos atskirtas ir Kuršo (Kurliandijos) gubernijai perduotas siauras
+    Lietuvos pajūrio ruožas – Palangos ir Šventosios apylinkės.
+  citata_rodoma: "1801 m. ši gubernija vėl padalyta į dvi: Lietuvos Vilniaus ir Lietuvos \nGardino gubernijas, kurios tapo pavaldžios tais pat metais Vilniuje pra-\ndėjusiai veikti generalgubernatoriaus institucijai. 1819 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181668
+
+- id: c-165193
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    O svarbiausia, jog 1560 metais Lietuvos Didžiosios Kuni­
+    gaikštystės Ponų Tarybos seime, vykusiame Vilniuje, kara­
+    lius leido bajorams rinkti delegatus, kurie vėliau sudarė ant­
+    ruosius lietuvių tautos reprezentavimo rūmus. Ir magistratas,
+    keleliais metais vėliau, gavo teisę pasiųsti du arba tris pata­
+    rėjus į visus didžiuosius seimus, vykstančius Karalystėje ar­
+    ba Lietuvoje. Jie, kaip ir krašto pasiuntiniai, turėjo tartis dėl
+    Vilniaus miesto gerovės ir reikmių40.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181846
+
+- id: c-165194
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1316–1341
+    Gediminaičių dinastijai vardą davusio Gedimino valdymas.
+    1323
+    Gediminas perkelia Lietuvos sostinę iš Trakų į Vilnių.
+    1385
+    Krėvos sutartis.
+  citata_rodoma: "1323\t\nGediminas perkelia Lietuvos sostinę iš Trakų į Vilnių. \n1385\t\nKrėvos sutartis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181870
+
+- id: c-165196
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmąjį Vilniaus paminėjimą, pirmą autentišką
+    paliudijimą, kad jau buvęs miestas ir Gedimino sostinė, be
+    abejonių, mums pateikia sutartis, iškilmingai pasirašyta Vil­
+    niuje 1323 metų spalio 2 d. iš vienos pusės, - valdovo su Ry­
+    gos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­
+    pitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip
+    pat su Vokiečių ordino Livonijoje magistru ir broliais - iš
+    kitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­
+    tais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo
+    laisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­
+    ria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­
+    nu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino
+    duktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad
+    iš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­
+    tų vėlesnio susijungimo ir galios pirmosios gijos.
+  citata_rodoma: "iš vienos pusės, - valdovo su Ry­\ngos arkivyskupu, Eželio, Dorpato, Revelio vyskupais, jų ka­\npitulomis ir miestais, Danijos ginkluotųjų pajėgų vadu, taip \npat su Vokiečių ordino Livonijoje magistru ir broliais - iš \nkitos12. Dar didesnis garsas apie Vilnių pasklido 1325 me­\ntais, kai ryšius nutraukus su kryžiuočiais tame mieste buvo \nlaisva valia pasirašyta toji Gedimino sutartis su Łokietka, ku­\nria nutarta bendromis jėgomis stoti į kovą su Prūsijos ordi­\nnu, išvaduota 20 000 lenkų belaisvių ir Aldona, Gedimino \nduktė, išleista už Lokietkos sūnaus Kazimiero Didžiojo. Tad \niš to naujai iškilusio miesto nusidriekė dviejų kaimyninių tau­\ntų vėlesnio susijungimo ir galios pirmosios gijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181772
+    - t-181662
+
+- id: c-165197
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nepaisant tų smūgių, kuriuos patyrė Vilnius, prekyba,
+    plitusi Lietuvoje Algirdo galios ir rūpesčio dėka, sostinę da­
+    rė gyvą. Jo laikais jau būdavo saugu visuose kraštuose, ku­
+    riuos jis valdė, Vilniuje vykdavo laisvi prekių mainai tarp
+    Naugardo, Pskovo, Rygos ir Maskvos pirklių. Vilniaus
+    miestiečiai, gavę svarbią privilegiją laisvai prekiauti viso­
+    je Lietuvos valstybėje, nemokėdami muito mokesčių, pradė­
+    jo lankytis tolimose provincijose, kur artimiau susipažino su
+    krikščioniškąja kultūra26.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181646
+
+- id: c-165198
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Prasi-
+    dėjo glaudūs prekybos ryšiai su Vakarais, ir Lietuva žymiai
+    praturtėjo. Vilnius pasidarė didelis rytų Europos miestas. Žo-
+    džiu, Vytautas padėjo pamatus naujajai Lietuvai.
+  citata_rodoma: "Vilnius pasidarė didelis rytų Europos miestas. Žo-\ndžiu, Vytautas padėjo pamatus naujajai Lietuvai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10868
+
+- id: c-165199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pranciškaus
+    vienuolius, kunigus, į Vilnių tas pats
+    Petras Goštautas atkvietė, dar prieš
+    80 metų iki Jogailos viešpatavimo;
+    o vienas medis, liepa, priešais seno­
+    sios bažnyčios duris, kurią pats Goš­
+    tautas savo rankomis buvo pasodinęs,
+    kaip 1621 metais rašė maldingasis
+    kunigas Petras Korkonas, Antakalnio
+    29
+
+    ## Puslapis 46
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Didelė ir galinga buvo Algirdo viešpatija: šalys, jo
+    valdžioje buvusios, driekėsi nuo Brastos iki Možaisko į ry­
+    tus ir nuo Baltijos krantų iki Juodosios jūros į pietus. Vis
+    dėlto ne tokios jėgų įtampos iš lietuvių reikalavo šio karžygio
+    ekspedicijos į Rusią, kokie būdavo kruvini mūšiai su Ordi­
+    nu. Ir todėl, nepaisant viso Algirdo veiklumo, Lietuvos sos­
+    tinė keletą kartų, jam gyvam esant, buvo žiauriai nunioko­
+    ta. Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181801
+
+- id: c-165200
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gavus valdžios sutikimą, suvažiavimas, vėliau pavadintas Didžiuoju
+
+    3 skyrius •  R U S I J O S  I M P E R I J O S  VA L D O M A  L I E T U VA  ( 1 7 9 5 – 1 9 1 5 )
+    123
+    Vilniaus Seimu, vyko Vilniuje, Miesto salėje, gruodžio 4–5 dienomis. Į jį
+    susirinko apie 2 000 delegatų iš bemaž visų etnografinės Lietuvos vieto-
+    vių, atstovaujančių visiems visuomenės sluoksniams, visoms politinėms
+    srovėms ir tendencijoms, atvyko net iš tolimesnių Baltarusijos valsčių,
+    dalyvavo ir lenkakalbės dvarininkijos atstovai, Lenkų socialistų partijos
+    Lietuvoje delegatai. Kulminacinis suvažiavimo įvykis buvo rezoliucijos
+    dėl politinės autonomijos Lietuvai suteikimo priėmimas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181729
+
+- id: c-165201
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Matydamas šitai, lietuvių vadas din­
+    go kryžiuočiams iš akių, o magistras su visa kariauna
+    patraukė į Vilnių. Negalėjo didysis kunigaikštis atvirame
+    mūšio lauke drąsiai stoti prieš daug pajėgesnį priešą, tad
+    sumaniai įtvirtinęs įgulas abiejose pilyse ir mieste, pats už­
+    ėmė Vilniaus miškingas apylinkes, kad užkirstų visus ke­
+    lius užpuolikams gabentis maistą ir užkamuotų priešą nuo­
+    lat gresiančiais pavojais. Ir vos tik magistras prie Vilniaus
+    įsirengė stovyklą, bemat turėjo siųsti keturis pulkus apsau­
+    goti daliniams, išleistiems parūpinti maisto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181748
+
+- id: c-165203
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    ## Puslapis 314
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    ir valdant jo pirmtakui, mieste radosi vis didingesnių ir puoš­
+    nesnių pastatų. Maždaug tuo metu vienas didžiausių Vil­
+    niaus namų, iki tol vadintas Kardinalija, statytas kunigaikš­
+    čio ir Vilniaus vyskupo kardinolo Jurgio Radvilos lėšomis,
+    iškilo tarp senų mūrinių namų ir medinių dvarų70. Vietoje
+    senosios medinės buvo užbaigta ir pašventinta maža, bet
+    graži Šv. Onos bažnyčia, retas gotikos pavyzdys mūsų kraš­
+    te, pradėta Šv. Kazimiero bažnyčia71.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181727
+
+- id: c-165204
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dar
+    niūrokas tuomet, bet visais laikais kerintis gražiu krašto­
+    vaizdžiu buvo anuometinis Vilnius, iškilęs prieš akis atvyku-
+    siems lenkams. Iš žalio slėnio gilumos, ant paskutiniojo iš kal­
+    nų, supančių Vilnelės upės vagą, ir ten, kur ji įteka į Viliją,
+    buvo iškilusi mūro tvirtovė, galingojo Gedimino pastatydin­
+    ta, saugoma aukštų sienų ir trijų bokštų. O pilies kalno pietų
+    pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai vieno gar­
+    siausių Lietuvos didikų Manvydo rūmai, o kalno papėdėje,
+    palei Viliją, driekėsi Žemutinė pilis, vadinta Kreivąja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181779
+
+- id: c-165205
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+    Tų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­
+    pročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos
+    ir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti
+    prekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­
+    toje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­
+    rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo
+    17
+    Apie tai didžiajam magistrui pra­
+    neša komtūras iš Lealio, iš Rygos,
+    laiške, datuotame 1432 metų rugpjū­
+    čio 19 d. Ind.
+  citata_rodoma: "Šis teisingu­\nmas buvo Vilniui anksčiau negu kitiems miestams taikomas. \nTų pačių metų rugsėjo 23 dieną Žygimantas, protėvių pa­\npročiu, Vilniaus miestiečiams suteikė laisvę imtis prekybos \nir be muito mokesčio nuo kelių, tiltų ir visų perėjų gabenti \nprekes visoje Lietuvos žemėje: Lucke, Kaune, Minske, Bras­\ntoje, Naugarduke, Smolenske ir Podolėje. Vėliau, po ketu­\nrių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo\n17\nApie tai didžiajam magistrui pra­\nneša komtūras iš Lealio, iš Rygos, \nlaiške, datuotame 1432 metų rugpjū­\nčio 19 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181909
+
+- id: c-165206
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo raštu
+    skelbiame visiems bendrai ir kiekvienam atskirai, tiek dabar
+    esantiems, tiek ateityje būsiantiems, kuriuos žinia apie jį pa­
+    sieks. Kai mes ankstesniais metais svarstėme mūsų LDK val­
+    dinių, o ir kitų žmonių sunkumus, išlaidas ir nepatogumus,
+    kuriuos perkėloje per Vilijos upę prie mūsų Vilniaus miesto
+    patirdavę, besikeliant per tą upę nukentėdavę jų daiktai. Ap­
+    mąstydami, kaip mūsų pavaldiniai galėtų išvengti šių nepa­
+    togumų, sumanėme per tą upę pastatydinti tvirtą tiltą, dėl ko
+    mus anksčiau ragino ir garbingasis Ulrikas Hozijus, mūsų Vii-
+    ----• ----
+    386
+
+    ## Puslapis 403
+
+    IV KNYGA
+    niaus pilies viršininkas, todėl mes nusprendėme, kad tai rei­
+    kalingas dalykas, ir trokšdami tai įgyvendinti, gerai pažin­
+    dami ir deramai įvertindami šio garbingo Ulriko Hozijaus
+    dorumą ir sąžiningumą, pavedėme jam, kad jis tą tiltą per
+    Vilijos upę prie mūsų Vilniaus miesto nutiestų ir pastatytų,
+    kiek įmanoma, ir kaip jam atrodytų, kuo tvirtesnį savo lėšo­
+    mis ir išlaidomis pagal žemiau aprašytas sąlygas ir taisykles,
+    būtent: kad pastačius ir atidarius žadėtąjį tiltą, per kurį va­
+    žiuojantys žmonės patogiai ten ir atgal galėtų vykti, tam pa­
+    čiam Ulrikui Hozijui, mūsų įstatymu ir leidimu, leista laisvai
+    ir teisėtai rinkti ir reikalauti muitų arba mokestį nuo praeivių
+    žemiau aprašytu būdu, tai yra, nuo vieno vežimo malkų ar
+    šiaudų, šieno ir bet kokios rūšies javų, kaip ir kitų produktų,
+    kuriuos kas nors vežtų parduoti vienu arkliu - denaras arba
+    obolas; nuo vieno saiko arba statinės druskos - vienas obo-
+    las, nuo vieno prikrauto prekių vežimo, traukiamo arklio, -
+    3 denarai arba obolai; nuo vieno dvikinkio briko, prikrauto
+    prekių, - penki denarai arba obolai; nuo kiekvieno jaučio ir
+    karvės, kaip ir nuo viso to, kas už upės būtų vedamas ar
+    varomas parduoti, - vienas denaras arba obolas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181860
+
+- id: c-165207
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    lonistus. Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-
+    ji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių
+    Vilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų
+    nužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų
+    palaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-
+    trų vienuolynas).
+  citata_rodoma: "Apie atvykėlius vienuolius jau Gedimino laikais byloja mįslingo-\nji pranciškonų kankinių istorija, davusi pradžią vienai ilgaamžiškiausių \nVilniaus legendų. Nuo XIV a. žinoma istorija apie dviejų pranciškonų \nnužudymą Vilniuje Gedimino valdymo pabaigoje, o XVI a. pradžioje jų \npalaidojimo vietoje statoma koplyčia (prie kurios vėliau įsikurs Bonifra-\ntrų vienuolynas)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181827
+    - t-181828
+
+- id: c-165209
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Betgi toje epochoje, kai naujos civilizacijos
+    spinduliai Lietuvos žemėje buvo tik pradėję blykčioti, kai,
+    nepaisant Lietuvos valdovų išmintingų siekių, karo reikalai
+    ir užgrobimai labiau už įstatymų leidimą ar krašto valdy­
+    mą visiems rūpėjo, dar skendint barbariškų laikų tamsoj ar­
+    gi galima laiduoti už bet kokių įstatymų pastovumą ir pati­
+    kimumą? O vis dėlto Vilniuje, galingos valstybės sostinėje,
+    Gedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­
+    tės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­
+    čionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­
+    giję feodalinio valdymo principai.
+    Po Gedimino, nužudyto 1337 metais prie Bajerburgo pi­
+    lies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­
+    nutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su
+    valdovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,
+    13
+    Rygos miestas buvo įkurtas 1200
+    metais, ant kalno, vadinto Righe,
+    Dvinos pakrantėje, vyskupo Alber­
+    to fon Apeldemo, pasiųsto skleisti
+    krikščioniškąjį tikėjimą Livonijoje,
+    bet ten dar prieš aštuonerius metus
+    Bremeno pirkliai jau buvo pastaty­
+    dinę keletą namų.
+  citata_rodoma: "O vis dėlto Vilniuje, galingos valstybės sostinėje,\nGedimino uolaus rūpesčio dėka iš mažareikšmės gyvenvie­\ntės iškilusioje, tėvynainių ir nausėdžių gyvenamoje, krikš­\nčionybei ir prekybai klestint, kaip ir visame krašte, buvo pri­\ngiję feodalinio valdymo principai.\nPo Gedimino, nužudyto 1337 metais prie Bajerburgo pi­\nlies, per mylią nuo Veliuonos15, mūšyje su kryžiuočiais, Jau­\nnutis, vyriausias jo sūnus, paveldėjo ne tik sostą kartu su\nvaldovo, arba Lietuvos didžiojo kunigaikščio, pareigomis,\n13\nRygos miestas buvo įkurtas 1200\nmetais, ant kalno, vadinto Righe,\nDvinos pakrantėje, vyskupo Alber­\nto fon Apeldemo, pasiųsto skleisti\nkrikščioniškąjį tikėjimą Livonijoje,\nbet ten dar prieš aštuonerius metus\nBremeno pirkliai jau buvo pastaty­\ndinę keletą namų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181888
+    - t-181898
+
+- id: c-165211
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vokie-
+    tija, po Antrojo pasaulinio karo prievarta išstumta iš Rytprūsių (dabar-
+    tinės Kaliningrado srities), neturėdama sienos su Lietuva, nepretendavo
+    į Klaipėdos kraštą, kurio daugumą gyventojų sudarė lietuviai. Geryn
+    klostėsi santykiai su kaimyne Lenkija, mat Vilniuje per pusę šimtme-
+
+    L I E T U V O S  I S T O R I J A
+    256
+    čio demografinė padėtis pasikeitė lietuvių naudai, lenkų Vilniuje liko
+    20  proc. Nepaisant nepriklausomybės pradžioje susovietintų Vilniaus
+    krašto lenkų komunistinių funkcionierių planų (Maskvos inspiruota
+    akcija) turėti savo, jų supratimu, teritorinę autonomiją (į ją turėjo įeiti
+    Vilniaus apskritis, apimanti lenkiškus Vilniaus ir Šalčininkų rajonus),
+    Lietuvos valdžiai terminuotai įvedus juose tiesioginį valdymą, santykiai
+    su Lenkija nepablogėjo – Varšuva suprato, kas ten suka reikalus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181908
+
+- id: c-165212
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    72
+
+    ## Puslapis 89
+
+    I  KNYGA
+    bo prievolių, tam laikui praėjus, turės, priklausomai nuo
+    žemės rūšies, tokią dešimtinę mokėti, kokią yra įprasta imti
+    kitose šalyse; visiems atvykėliams galioja Rygos miesto tei­
+    sė, nebent teisės žinovų potvarkiu kita nustatyta jiems ge­
+    resnė atrodytų. Jau yra pastatytos dvi bažnyčios minori-
+    tams, viena valdovo mūsų mieste - Vilniuje, kita -
+    Naugarduke, trečiąją paskyrėme dominikonų brolijos vie­
+    nuoliams, kad kiekvienas galėtų pagal savo apeigas Die­
+    vui melstis. Toms bažnyčioms prašytume dar šiais metais
+    ketverto vienuolių, mokančių lenkų, prūsų ir žemgalių kal­
+    bas; tik darome išimtį visiems dvasininkams, kurie savo
+    vienuolynus verčia plėšikų prieglaudom, žudo Dievo tar­
+    nus ir sielas žaloja.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181891
+
+- id: c-165213
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pavyzdžiui,
+    1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus
+    miesto istoriją, prie kurios dirbau nuo 1818 m., mano tikslas bu­
+    vo Lietuva ir jos senoji sostinė, o ne Lenkija. Šiame veikale pa­
+    rodžiau, kad Lietuva turėjo savo kalbą ir savitą pagonišką reli­
+    giją, besiskiriančią nuo Lenkijos, kad jos politinė padėtis buvo
+    visiškai skirtinga negu Lenkijos; pagaliau vienas pirmųjų įro­
+    džiau, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų
+    -lietuvių valstybė <....>. Tad kokiu būdu galima suderinti man
+    primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181778
+
+- id: c-165217
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagaliau vaitas
+    įrodė, kad paimtos rusų prekės ne tik
+    nesiekė 2 000 auksinų, kaip anie įver­
+    tino, bet vos dvidešimt, ką pats ma­
+    tęs, įsakęs juos miesto sargybiniams
+    295
+
+    ## Puslapis 312
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    be to, jo tėviška globa, skiriama lygiai visiems luomams, lei­
+    do prasiskleisti visoms pramonės šakoms senojoje Jogailai-
+    čių buveinėje. Jo laikais gerokai išaugo spaustuvių skaičius
+    Vilniuje. Dar prieš įžengiant karaliui Steponui į sostą, Lie­
+    tuvos piliečių brolių Mamoničių namuose įsteigta spaustu­
+    vė visų pirma spausdino slaviškas knygas68. Iš lenkiškų ir
+    lotyniškų spaustuvių, be aukščiau paminėtos Radvilų, o pas­
+    kui jėzuitų, apie 1580 metus klestėjo: evangelikų reformatų -
+    Danieliaus iš Lenčicos, globojama Minsko kašteliono Jono
+    Hlebavičiaus bei Jono Karcano69, ir Kasparo Vilkovskio
+    spaustuvės, be paliovos spausdinusios knygas evangelikams
+    ir katalikams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181856
+
+- id: c-165218
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kai
+    šis kariavo su nepaklusniu sūnėnu, Vilniuje, kuris buvo paliktas
+    saugoti Vytautui, buvo įvykdytas perversmas.
+    Vytautui išvykus į Trakus, Jogailos šalininkai išžudė Kęstučio
+    sargybas ir užėmė pilį. Rygiečio pirklio Hanulio vadovaujami,
+    Vilniaus miesto vokiečiai suvaidino žymų vaidmenį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181927
+
+- id: c-165219
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio antspaudo niekintojus šiuo savo laišku pasmerkiame
+    kaip bjaurius tikėjimo ardytojus, eretikus, melagius ir jokios
+    garbės neturinčius žmones.
+    Per viešpaties Mazovijos kunigaikščio Boleslavo kunigaikš­
+    tystę galės kiekvienas saugiai atvykti į mano valdomą žemę.
+    Duota Vilniuje 1323 viešpaties metais, pačioje Kristaus
+    kūno dienoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181642
+
+- id: c-165221
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    1859 m. išleistame vadove po Vilnių autorius Adomas Ho­
+    norijus Kirkoras su pasitenkinimu pastebėjo, kad jo mylimas
+    miestas jau turi savo istorikus. „Vilniuje sulig kiekvienu žings­
+    niu užtiksite ką nors įdomaus, pamokomo, kas primins jums
+    šlovingus lietuvių žygius, atvers dorybių ir nuopelnų, ydų ir
+    aistrų kupiną jų gyvenimo knygą. Vilnius - tai gyva senosios
+    Lietuvos kronika, jos buvusios šlovės ir nuosmukių liudytojas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181798
+
+- id: c-165222
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Chron. prus. p. 400.
+    48
+
+    ## Puslapis 65
+
+    I  KNYGA
+    Strijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­
+    čius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­
+    dami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas,
+    po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­
+    dangino su visu guotu į Šventaragio slėnį, už keturių mylių
+    nuo Trakų, kur Vilnios upė įteka į Viliją.
+  citata_rodoma: "400.\n48\n\n## Puslapis 65\n\nI  KNYGA\nStrijkovskis savo kronikoje1 1 , o juo sekdamas ir Kojelavi­\nčius' Vilniaus įkūrimą priskiria pačiam Gediminui, aprašy­\ndami įvykį, kuris galėjo būti tam vada. Anot jų, Gediminas, \npo Trakų pilies įkūrimo medžiojęs aplinkinėse giriose, nusi­\ndangino su visu guotu į Šventaragio slėnį, už keturių mylių \nnuo Trakų, kur Vilnios upė įteka į Viliją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181919
+    - t-181817
+
+- id: c-165223
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo raštu skelbiame visiems, kam da­
+    bar ar ateityje kokiu nors būdu derės tai žinoti. Kad mus
+    pasiekė žinia apie nesutarimus, kilusius tarp tarėjų ir visos
+    mūsų Vilniaus miesto tarybos - iš vienos pusės, ir garbin­
+    gųjų prelatų ir kanauninkų bei visos Vilniaus katedros baž­
+    nyčios kapitulos - iš kitos pusės, dėl jurisdikcijos, kurią, kaip
+    savo ir viso minėto miesto vardu tvirtino vaitas ir tarėjai,
+    pati kapitula prieš Vilniaus miesto gyventojus nepagrįstai
+    išplečia ir faktiškai juos [bausdama] negaliojančiomis baus­
+    mėmis užkerta kelią bažnyčiai bendrauti su žmonėmis. Kai
+    anksčiau ne kieno nors kito, kaip tik didžiai gerbiamo pono
+    Vilniaus vyskupo ar paties vikaro ir tuo metu einančio pa­
+    reigas oficijolo paprastai būdavo iškviečiami, teisiami ir eks-
+    komunikuojami, jie manė ateitį būsiant sunkią ir nepakelia­
+    mą, kadangi privalo paklusti gausybei teisėjų ir būti jų
+    baudžiami pagal tos [kapitulos] tvarką, ypač esant grynai
+    pasaulietiniams reikalams, iškilusiems ir vykstantiems tarp
+    pasauliečių, kuriuos, kad būtų įvesta ir išsaugota gera tvar­
+    ka šiame mieste, skirta [tvarkyti] ne privatiems žmonėms, o
+    civilinei įstaigai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181742
+
+- id: c-165224
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Taigi
+    davėme ir dovanojome, ir šiuo mūsų raštu duodame ir dova­
+    nojame amžiną ir neatšaukiamą dovaną - minėtų vargstan­
+    čių dėl sunkios padėties, bet turinčių tikslą pabaigti studijas
+    413
+
+    ## Puslapis 430
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    ferremus. Proinde dedimus ac donavimus, et praesentibus li­
+    teris nostris damus, donamusque perpetua et irrevocabili do­
+    natione, pro libera praedictorum inopia laborantium studio­
+    sorum habitatione, cuiuscunque nationis illi fuerint, et
+    continuandorum studiorum propositum babuerint, domum
+    nostram lapideam, seu alias muratam in Civitate Vilnen., pla­
+    tea vero Bemardinorum, ad boc ipsum vczt in Bursam, a no­
+    bis de industria sumptibus propriis extructam, bac quidem
+    ratione, atque lege, ut in bac praedicta domo, seu Bursa, sit
+    inter studiosos aliquis praefectus, vėl ut dicitur more aliarum
+    Accademicarum Senior, qui semel institutum pietatis, hones­
+    tatis, et concordiae fraternae modum, et rationem vigilanter
+    inter eos teneat, huius autem officii sui potestatem, a Reve­
+    rendo Patre eiusdem Collegii nostri, pro tempore existente
+    Rectore, commissam et mandatam habebit, in cuius ut etiam
+    cum omnibus studiosis administratione, atque disciplina sit,
+    diligenter rogamus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181831
+
+- id: c-165226
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    286
+
+    ## Puslapis 303
+
+    IV KNYGA
+    to epidemiją, kad išsibėgiojus turtingiausiems gyventojams,
+    kapitulai ir jėzuitams, Vilniuje išmirė daugiau negu dvi­
+    dešimt tūkstančių žmonių52. Didžioji dalis žmonių tikriau­
+    siai buvo subėgę į miestą iš apylinkių, ieškodami pagalbos
+    ištikus tokiai žiauriai nelaimei53. Vis dėlto, užgriuvus to­
+    kiai negandai, kovai su ja buvo suorganizuota bendra tar­
+    nyba, turėjusi vadovauti medicinos policijai Vilniuje ir vi­
+    soje Lietuvoje, ir daug nuveikusi, kad sumažėtų bado
+    padariniai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181681
+
+- id: c-165229
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šitaip nuteikus jau linkstančius į
+    kitatikystę Vilniaus gyventojų protus, apie 1555 metus sos­
+    tinėje apsireiškė kitas kunigas, pažiūrėti, taip pat uolus ka­
+    talikas, o slapčiomis vėlgi persiėmęs kitos, viklifininkų sek­
+    tos, maksimomis. Jis, taip pat iš vokiškų kraštų atvykęs, gavo
+    to paties vyskupo Povilo leidimą Šv. Onos bažnyčioje viešai
+    mokyti vokiečių kilmės pirklius ir amatininkus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181747
+
+- id: c-165230
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    – atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į
+    naujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas
+    dalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė
+    aplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius,
+    kur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-
+    gyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje
+
+    L I E T U V O S  I S T O R I J A
+    218
+    Lietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m. lietu-
+    viai sudarė apie 80 proc. visų gyventojų.
+  citata_rodoma: "– atvykėliai iš SSRS. Rusų tautybės gyventojams keltis į \nnaujuosius LSSR pramonės miestus kliudė psichologinis barjeras: vienas \ndalykas keltis gyventi į Rygą, Taliną, Vilnių, kur vyravo sava, rusakalbė \naplinka („svoji“), visai kas kita – važiuoti į niekada negirdėtus miestelius, \nkur vyresnieji net nekalba rusiškai. Nors sovietmečiu daug rusakalbių apsi-\ngyveno Vilniuje, Klaipėdoje ir Sniečkuje (dabar Visaginas), suindustrintoje\n\nL I E T U V O S  I S T O R I J A\n218\nLietuvoje, kur buvo ypač išplėtotas pramoninis žemės ūkis, 1990 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181871
+
+- id: c-165231
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1362 m. krito svarbiausia Nemuno
+    gynybinės sistemos pilis - Kaunas. Per 20 metų kryžiuočiai su-
+    rengė 70 žygių į Lietuvą, pirmą kartą pasiekdami Vilnių ir Trakus,
+    lietuviai į tai atsakė 30 žygių į Ordino teritoriją. Lietuvos gynyba
+    ėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti.
+  citata_rodoma: "Per 20 metų kryžiuočiai su-\nrengė 70 žygių į Lietuvą, pirmą kartą pasiekdami Vilnių ir Trakus,\nlietuviai į tai atsakė 30 žygių į Ordino teritoriją. Lietuvos gynyba\nėmė trūkinėti ir tik didžiulių pastangų dėka pavyko atsilaikyti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181643
+
+- id: c-165232
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    284
+
+    ## Puslapis 301
+
+    IV KNYGA
+    talikų ir kitatikių nuėjus taip toli, vien tik norėdamas palai­
+    kyti ramybę savo krašte ir užbėgti už akių piktnaudžiavi­
+    mams, pirmųjų kartais nereikalingą uolumą stengėsi pristab­
+    dyti, o antrųjų - pažinti tikslus, reformą veikiau palikdamas
+    savieigai, negu jai padėdamas47. O Vilniaus vyskupas Vale­
+    rijonas Protasevičius, uždegtas kapitulos pastangų, nors su­
+    tramdo sunkiai atremiamus ginčus, bet matydamas, kad
+    įprastu būdu nieko neįrodys, pirmasis 1569 metais į Vilnių
+    pakviečia jėzuitų ordiną48. Šio įžymaus ordino, pagarsėju­
+    sio talentais, mokslu ir jam būdingu gudrumu, įsitvirtini­
+    mas Lietuvos sostinėje laikui bėgant pagrindė daugelį reikš­
+    mingų faktų, kurie padarė stiprią įtaką viso krašto likimui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181902
+
+- id: c-165233
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jaunutis stovėjo nuošaliai nuo visų tų svarbių valstybės rūpes­
+    čių. Juos į savo rankas perėmė paskutinieji du pasilikę pagonys,
+    žymiausieji Gedimino sūnūs, būtent: Algirdas ir Kęstutis. Susitaręs
+    su broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­
+    nutį suėmė.
+  citata_rodoma: "Juos į savo rankas perėmė paskutinieji du pasilikę pagonys,\nžymiausieji Gedimino sūnūs, būtent: Algirdas ir Kęstutis. Susitaręs\nsu broliu, Kęstutis 1344-1345 m. žiemą užėmė Vilnių, o patį Jau­\nnutį suėmė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181857
+
+- id: c-165234
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to, bajorų pravoslavų teisės
+    buvo sulygintos su bajorų katalikų teisėmis; pravoslavams be-
+    liko tik vienas suvaržymas: jie negalėjo būti tiktai aukštaisiais
+    urėdais.
+    **Ukmergės mūšis** (1435 **m.).** Švitrigaila daug kartų puolė
+    Zigmantą ir kartą net pasiekė Vilnių ir Trakus, tačiau vis
+    nieko nelaimėdavo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-10869
+
+- id: c-165235
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio karaliaus laikais Vilnius buvo aprūpintas geriausiais
+    amatininkais iš Krokuvos, kurie, apsigyvenę mieste, daug
+    prisidėjo prie karaliaus uoliai steigiamų cechų organizavi­
+    mo. Dailieji menai, architektūra, tapyba ir skulptūra, mažai
+    pažįstami Lietuvos sostinėje, iki tol prastais ir negrabiais pa­
+    vyzdžiais plūdę iš rytų, šiuo laikotarpiu ėmė klestėti. Trys į
+    Vilnių pakviesti lenkų tapytojai: Martynas Ostrovskis, Vai­
+    tiekus Chelminskis iš Inovroclavo ir Stanislovas Ratka iš Poz­
+    nanės, o du architektai ir raižytojai - Jonas Marija ir Jonas
+    34
+    Privilegija, duota Paleckiui steigti šią
+    liejyklą, yra rašyta slavų kalba, su lo­
+    tynišku karaliaus ir rusišku raštinin­
+    ko Valerijono parašu, su prikabintu
+    Lietuvos Didžiosios Kunigaikštystės
+    antspaudu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181826
+
+- id: c-165236
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau pavasarį
+    sukilimas spontaniškai prasidėjo Žemaitijoje ir greitai apėmė
+    visą Lietuvą. Rusų valdžia kontroliavo tik Vilniaus miestą, iš
+    kurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­
+    kilėlių gretas. Gegužės mėnesį buvo areštuotas M. Balinskis, bet
+    netrukus paleistas.
+  citata_rodoma: "Rusų valdžia kontroliavo tik Vilniaus miestą, iš\nkurio pasitraukė keli šimtai universiteto studentų ir įsiliejo į su­\nkilėlių gretas. Gegužės mėnesį buvo areštuotas M."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181867
+
+- id: c-165237
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kazimiero mirtis —  Didysis kunigaikštis
+    Aleksandras suteikia Vilniui naujų privilegijų —  Jo vedybos su
+    didžiąja kunigaikštyte Elena —  Prašmatnios vestuvės Vilniuje —
+    Svečių namai - Sack Achmedas įkalinamas Vilniuje —  Miestas
+    sutvirtinamas siena nuo totorių antpuolių —  Vilniaus vyskupas
+    Albertas Taboras —  Aleksandro liga —  Alchemikas —  Karalius
+    Lydoje mirtinai suserga —  Totoriai žygiuoja į Lydą —  Karalių
+    gab ena į Vilnių —  Pergalė prie Kiecko —  Aleksandro mirtis
+    Vilniuje —  Vilniaus pilis Aleksandro laikais —  Monetų kalykla —
+    Dominikonai —  Vaistinė —  Gydy Lojai.
+    ---- • ----
+    209
+    III
+
+    ## Puslapis 226
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Po Vytauto mirties karalius Vladislovas Jogaila netrukus
+    paskyrė savo vietininką Lietuvai. Švitrigaila, neseniai susi­
+    vienijęs su Vytautu, kuris jam buvo perleidęs Kamenecą ir
+    kitas pilis Podolėje, paskubėjo atvykti į Vilnių anksčiau nei
+    tas valdovas numirs ir, remiamas galingų šalininkų - rusų
+    apeigų Lietuvos kunigaikščių bei didikų - labiausiai iš kitų
+    Algirdaičių tiko į didžiuosius kunigaikščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181907
+
+- id: c-165238
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagaliau nemažai įvairių tenykš­
+    čių, manydami apsisaugosią nuo kryžiuočių, ieškojo prie­
+    globsčio prie Vilniaus pilies. Taip kūrėsi Vilnius, kuris tuo­
+    met, regis, buvo panašesnis į keletą didelių kaimų, sujungtų
+    į vieną, negu į tokį padorų, bokštų ir mūro sienų saugomą
+    miestą, kokie XIV amžiuje kilo jau visoje Vokietijoje, ar ko­
+    kiais Kazimieras Didysis puošė ir tvirtino Lenkiją. Gedimi­
+    no viešpatavimas Lietuvai anuomet buvo tokia pat epocha,
+    kokia Lenkijai buvo Boleslovo Didžiojo, o Henriko Paukšti-
+    ninko - Vokietijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181838
+    - t-181942
+
+- id: c-165239
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Be to, etnografi-
+    nės Lietuvos miestuose didžiausia tautinė grupė buvo žydai, o gatvėse po
+    1905 m. lenkų kalba nustūmė rusų kalbą į antrąją vietą.
+    Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-
+    jos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos
+    1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad
+    jame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija,
+    plėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija,
+    telkusi lenkiškai kalbančiuosius.
+  citata_rodoma: "Lygia greta Lietuvoje veikė ir lenkų bei lietuvių kultūrinės organizaci-\njos. Kadangi universiteto Vilniuje atkurti nepavyko (nors tokios pastangos \n1905 m. dėtos, beje, solidariai lietuvių ir lenkų intelektualų, susitarus, kad \njame būtų dėstoma bent trimis kalbomis), įkurtos Lietuvių mokslo draugija, \nplėtojusi etninių lietuvių tautinį sąjūdį, ir Vilniaus mokslo bičiulių draugija, \ntelkusi lenkiškai kalbančiuosius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181799
+
+- id: c-165241
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tad šių, mūsų valdų, ir dvarų, taip pat
+    ir kito judamo ir nejudamo turto, kurį turime ir valdome,
+    bet kokia teise mums priklausančio ir bet kokiu besivadi­
+    nančio, darome, skelbiame paveldėtojomis karalaites: jos di­
+    denybę Kotryną, Švedijos karalienę, jos didenybę karalaitę
+    Sofiją, Braunsbergo kunigaikštienę, jos didenybę Oną, dar
+    iki šiol tebemergaujančią, šiuos visus dvarus lygiomis dali­
+    mis jų didenybėms duodame, dovanojame ir paskiriame bet
+    kurioje valstybėje arba paviete esančius ir bet kur saugoja­
+    mus su visa valstybinės nuosavybės teise, kaip juos patys
+    turėjome ir valdėme, turime ir valdome. O už tai jų dideny­
+    bes įpareigojame, kad mylimo Dievo garbei ir šlovei fun-
+    duotų ir aprūpintų Šv. Onos bažnyčios kleboniją ir didžio­
+    joje Vilniaus pilyje su dviem mūsų mansionieriais ir, kaip
+    reikiant, pagal savo nuomonę, priderančiomis pajamomis
+    bei tinkama provizija, kuria šie galėtų išsilaikyti ir mylimo
+    Dievo tarnystei prie anos bažnyčios pasiliktų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181939
+
+- id: c-165242
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ati­
+    teko jai ir Dubrovno pavietas, kadaise buvusi iš Lietuvos
+    istorijos žinomo Jogailos patikėtinio Vaidilos nuosavybė. Tas
+    lėšas Vladislovas Jogaila dar padidino skirdamas katedrai
+    ir vyskupams nemažą Vilniaus miesto dalį - visą plotą nuo
+    pilies iki pat Šv. Mikalojaus kapinių netoli Rūdninkų vartų,
+    o kitoje pusėje - ligi Trakų kelio, dovanodamas ten ir
+    aikštes, ir namus, net su gyventojais11.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181757
+
+- id: c-165243
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jau apsipratęs su
+    16
+    Jaunutis, pasak Rusios metraštinin- miennik Sofijski. T. I, p. 327; apud
+    kų, naktį perkopęs miestą juosusią Daniłowicz: Latopisiec Lit. i Kron.
+    sieną, pabėgo ir pasislėpė pas didį- Rus., 1.168, ir K a r a m z i n: M cmopim
+    jį Maskvos kunigaikštį Simoną ir TocygapcmBa PoccuūcKaro. T. IV,
+    ten kartu su lydėjusiais jį lietuviais p. 259. 2 leid. Strijkovskis ir Kojela-
+    pasikrikštijo Jono vardu, priėmęs vidus klysta tvirtindami, esą Jaunu-
+    graikų apeigų tikėjimą. Žr. V\lre- tis buvęs Kęstudo karių suduptas.
+    26
+
+    ## Puslapis 43
+
+    I  KNYGA
+    krikščionišku tikėjimu, pirmiausia per vedybas su Vitebs­
+    ko kunigaikštyte Julijona, vėliau - su Tverės kunigaikštyte
+    Marija, sekdamas Gedimino politika, leido, be skirtumo, iš
+    Romos atsiųstiems vienuoliams Vilniuje skelbti evangeliją,
+    o graikų apeigų dvasininkams atlikti savo tikėjimo apei­
+    gas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181764
+
+- id: c-165244
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams. Rašytas Vilniuje, sausio 13 dieną,
+    Il indikte.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181805
+
+- id: c-165245
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau netrukus į Vilnių at­
+    vyko Žygimantas, Glogovo kunigaikštis iš Silezijos, mirusio
+    karaliaus brolis, visi nurimo, ir šalis buvo apsaugota nuo jai
+    grėsusio pilietinio karo.
+    Trumpas Aleksandro valdymas, gana nesėkmingas Lie­
+    tuvai, nuo kurios visiems laikams buvo atplėšta tiek žemių,
+    jos sostinei tam tikru atžvilgiu buvo naudingas. Beveik visą
+    amžių Lietuvos valdovai, retai kada tegyvendavo Žemuti­
+    nėje Vilniaus pilyje, nes, kelissyk įbauginti kryžiuočių ant­
+    puolių, pirmenybę teikė nuošaliai, bet patogiai ir saugiai,
+    ežerų apsuptai Trakų piliai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181878
+
+- id: c-165246
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Veržli Vytauto prigimtis neleido jam ilgai išbūti už­
+    siėmus taikiais reikalais; amžinos kovos su Rusios kunigaikš­
+    čiais ir totorių ordos chanais, įtempti karai su dar nenumal-
+    dytais kryžiuočiais vertė šį šiaurės krašto karžygį pakelti
+    kardą čia vienoje valstybės pusėje, čia kitoje, dažnai atplėš­
+    davo jį nuo sostinės. Vis dėlto nereikėtų manyti, kad Vilnius
+    ypač vėlesniais Vytauto valdymo laikais neužgydė žaizdų,
+    patirtų nesėkmingai valdant Skirgailai, ir nepraturtėjo. Juk
+    tas didis žmogus mėgo tvarką ir krašte jos reikalaudavo, glo­
+    bojo pirklius, ir prekyba Vilniuje jau plačiai išsišakojo - su
+    Prūsijos bei Livonijos miestais, su Pskovu, Naugardu ir Mask­
+    va, o naudodamasi galingo monarcho parama, jau pasiekė ir
+    tolimus kraštus, bet jai trukdydavo dažni karai: ir, regis, Vil­
+    nius savo dydžiu ir turtais nepasiekė tokių aukštumų, iki ko­
+    kių turėjo išaugti būdamas tokios didelės valstybės sostinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181951
+
+- id: c-165247
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    XIX a. pradžioje Vilniaus intelektualams gelbėjant parengta visos Ru-
+    sijos švietimo reforma, orientuojantis į veikusį LLV Edukacinės komisijos
+    modelį. Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda,
+    kurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-
+    mės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas,
+    1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-
+    lį ir gavęs Imperatoriškojo universiteto statusą.
+  citata_rodoma: "Vykdant šią reformą, įkurta didžiulė Vilniaus švietimo apygarda, \nkurios valdžioje atsidūrė visos prie Rusijos prijungtos buvusios LLV že-\nmės ir 9 mln. jų gyventojų. Šios apygardos centras – Vilniaus universitetas, \n1803 m. reorganizuotas pagal populiariausią Europos universitetų mode-\nlį ir gavęs Imperatoriškojo universiteto statusą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181637
+    - t-181790
+
+- id: c-165248
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vytauto tolerancija patiko tautinėms mažumoms –
+    juk jis pasikvietė totorius į Lietuvą, o žydams suteikė tokių privilegijų, ko-
+    kias Europoje jie gavo gerokai vėliau. Be to, Vytautas įkūnijo kiekvienam
+    lietuviui priimtiną tautinį ir politinį idealą – vadavo Lietuvą iš priklau-
+    somybės nuo lenkų, jis ir palaidotas Vilniuje. Vytauto Didžiojo mirties
+    500-ųjų metinių komitetas nutarė pastatyti Kaune Vytauto Didžiojo karo
+    muziejų, kaip atminimo panteoną, po visą Lietuvą nešiotas Vytauto pa-
+    veikslas – šias apeigas lydėjo daugybė įvairiausių renginių visuose Lietu-
+    vos miestuose ir miesteliuose, jam pastatyti paminklai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181811
+
+- id: c-165250
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    354
+
+    ## Puslapis 371
+
+    IV KNYGA
+    B) ATVIRAS LIETUVOS PONŲ
+    TARYBOS LAIŠKAS
+    DUOTAS IŠ GARDINO 1586 METŲ GRUODŽIO 13 DIENĄ
+    TURKIJOS ČLAUŠUI IBRAHIMUI,
+    SKIRTAS KUNIGAIKŠČIUI KRISTUPUI RADVILAI,
+    VILNIAUS VAIVADAI, LDK LAUKO ETMONUI IR T T,
+    O JO NESANT VILNIUJE, VAIVADIJOS VIETININKUI
+    KUNIGAIKŠČIUI JONUI BOLESLAVOVIČIUI SVIRSKIUI IR
+    VILNIAUS VAITUI STANISLOVUI SABINAI,
+    ĮPAREIGOJANTIS VILNIAUS MIESTE PARINKTI
+    GERUS NAMUS APSISTOTI TAM ČIAUŠUI IR
+    ATITINKAMAM LAIKUI GARANTUOTI SAUGŲ GYVENIMĄ
+    (Iš originalo)
+    Šviesiajam dauggaliui ponui Jo Malonybei Kristupui Rad­
+    vilai, Dubingių ir Biržų kunigaikščiui, Vilniaus vaivadai, Lie­
+    tuvos Didžiosios Kunigaikštystės lauko etmonui, Solecko, Ūž-
+    endovo ir Borisovo seniūnui, Eustachijus Valavičius, Vilniaus
+    kaštelionas, Lietuvos Didžiosios kunigaikštystės kancleris, Be-
+    restos ir Kobrino seniūnas, Mikalojus Manvydas Dorohostais-
+    kis, Polocko vaivada, Lepelio seniūnas, Šerešovo valdytojas
+    ir Veliuonos tėvonis Žemaičių Gondingos ir Baisogalos že­
+    mėje, Mikalojus Tolvaišas, Žemaičių kaštelionas, Rodūnios
+    seniūnas, Leonas Sapiega, Lietuvos Didžiosios Kunigaikštys­
+    tės pakancleris, Slonimo, Markovo ir Medilo seniūnas, Teodo­
+    ras Skuminas, Krašto iždininkas ir Lietuvos Didžiosios Kuni­
+    gaikštystės raštininkas, Breslaujos ir Alytaus seniūnas, - o jo
+    malonybės nesant, tuo laiku - ponui Vilniaus vaivadai, Vil­
+    niaus vietininkui Jo Malonybei tenykščiam kunigaikščiui
+    355
+
+    ## Puslapis 372
+
+    VILNIAUS MIESTO ISTORIJA // TOMAS
+    Jonui Boleslavovičiui Svirskiui, jo karališkosios malonybės
+    maršalkai, Maišiagalos valdytojui ir taip pat gerbiamam Sta­
+    nislovui Sabinai, Jo Malonybės karaliaus sekretoriui, Vilniaus
+    vaitui, kad tuo laiku Turkijos imperatoriaus čiaušas Ibrahi-
+    mas, atvažiavęs nuo didžiojo Maskvos kunigaikščio, turėda­
+    mas tam tikrų reikalų į jo karališkąją malonybę, palikęs Vil­
+    niaus mieste tarnus su žirgais ir kai kuriais savo daiktais, būtų
+    atvažiavęs čia, pas jo malonybę karalių į Gardiną, bet Vieš­
+    pats Dievas savo šventąja valia tuo laiku jo karališkąją malo­
+    nybę mūsų valdovą teikėsi pašaukti į savo šventąją garbę,
+    mus ir visą Respubliką ištikus nelaimei, tasai čiaušas negali
+    būti šiuo metu išsiųstas neišsprendus tų reikalų, dėl kurių
+    buvo Turkijos imperatoriaus atsiųstas pas jo karališkąją ma­
+    lonybę. Todėl, jo pageidavimu, jam leidome kurį laiką pagy­
+    venti Vilniaus mieste, kol jų malonybės tarybos ponai visi čia,
+    į Gardiną, suvažiuos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181707
+
+- id: c-165251
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    —  • —
+    215
+
+    ## Puslapis 232
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    priekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie
+    rugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten
+    jo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy-
+    do, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­
+    gimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius
+    dėl šių staigių permainų ir abipusių karinių gaudynių, atro­
+    do, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-
+    15
+    Nors Kotzebue loco cit. pasakoja,
+    kad tai įvykę tarp rugpjūčio 14 ir 28
+    dienos, tačiau tai negalėjo įvykti
+    anksčiau, nebent prieš pat 28-ą;
+    Slaptajame archyve yra didžiojo ku­
+    nigaikščio Boleslovo Švitrigailos
+    pavedimas didžiajam magistrui su
+    antspaudais su juo sudarytoms su­
+    tartims antspauduoti, datuota dar
+    1432 metų rugpjūčio 13 dieną iš Ker­
+    navės.
+  citata_rodoma: "—  • —  \n215\n\n## Puslapis 232\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\npriekyje skubiai ir slapčiomis nužygiavęs į Ašmeną, apie \nrugpjūčio 28-ą įžūliai įsiveržė į Švitrigailos dvarą15, bet ten \njo jau nerado, nes šis, ką tik įspėtas Trakų vaivados Manvy- \ndo, lydimas kelių totorių vadų, išsigelbėjo pabėgdamas. Žy­\ngimantas tučtuojau užėmė Vilnių ir Trakus16, taigi Vilnius \ndėl šių staigių permainų ir abipusių karinių gaudynių, atro­\ndo, bus vėl patyręs nesėkmių. Mat nemaža miesto dalis su-\n15\nNors Kotzebue loco cit."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181842
+
+- id: c-165252
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    278
+
+    ## Puslapis 295
+
+    IV  KNYGA
+    pavedė bet kokia teise paklusti magistratui. O 1568 metų
+    birželio 15 dieną Lietuvos seime Gardine iškilmingiausiu
+    sprendimu apsaugojo miestiečius nuo engiančio užrašinėji-
+    mo jų namuose apsigyventi dvariškiams, karaliaus valdi­
+    ninkams ir svetimšaliams pasiuntiniams, be miesto tarybos
+    žinios ir leidimo. Tas pats Gardino seimas Vilniaus miesto
+    gyventojams buvo labai įsimintinas dėl suteiktos privilegi­
+    jos, kurios galia kiekvienas miestietis, nepriekaištingai ėjęs
+    vaito, tarybos nario ar šuolininko pareigas Vilniaus magist­
+    rate, su palikuonimis buvo visiems laikams pakeltas į bajo­
+    rų luomą ir įgijo teisę į visus pasaulietinius ir dvasinius ran­
+    gus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181863
+
+- id: c-165253
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl normaliai kraštui plėtotis ir kilti sąlygos buvo palankios.
+    Bet vis dėlto labai mažai buvo rūpintasi savo kultūros kėlimu.
+    Jo laikais Lietuvoje atsirado daugiau pradžios mokyklų, Vilniuje
+
+
+    buvo įsteigta net vidurinė mokykla, bet aukštesniosios mokyklos
+    nebuvo.
+  citata_rodoma: "Bet vis dėlto labai mažai buvo rūpintasi savo kultūros kėlimu.\nJo laikais Lietuvoje atsirado daugiau pradžios mokyklų, Vilniuje\n\n\nbuvo įsteigta net vidurinė mokykla, bet aukštesniosios mokyklos\nnebuvo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181812
+
+- id: c-165255
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jogaila taip pat
+    nesvyravo, ar jam, tikram broliui, pavesti savo valdžią Lie­
+    tuvoje, juolab kad žinojo, jog šį kartą aplenkdamas Švitri­
+    gailą, uoliai prisirišusį prie graikų tikėjimo ir todėl turintį
+    daug bičiulių, krašte sukeltų pilietinį karą1 . Taigi Švitrigaila
+    Lenkijos labui atsisakė Kameneco ir tolesnių pilių Podolė­
+    je2, ir Vilniaus vyskupas Mikalojus, karaliaus įsakymu, sos­
+    tinės Šv. Stanislovo katedroje jį iškilmingai paskelbė didžiuo­
+    ju kunigaikščiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181718
+
+- id: c-165256
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tais pačiais metais Vilniuje buvo įsteigtas pirmasis stik­
+    lo fabrikas. Karaliaus dvariškis Martynas Paleckis, žmogus
+    išradingas ir apsukrus, atvykęs iš Lenkijos, Lietuvos mar­
+    šalkos Mikalojaus Radvilos užtartas, iš karaliaus gavo ati­
+    tinkamą žemės sklypą prie miesto, už Vilijos, ir leidimą steig-
+    32 33
+    Žr. III priedą. Žr. VIII šios knygos priedą.
+    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
+    274
+
+    ## Puslapis 291
+
+    IV KNYGA
+    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
+    davinėti lenkišką stiklą34. Ši teisė, duota išimtinai Paleckiui,
+    nors ir sugriežtinta nustatant tam tikrą stiklo kainą, vis dėl­
+    to tapo daugelio skundų karaliui priežastimi. Bet Žygiman­
+    tas Augustas, matydamas Vilnių turint nemaža naudos iš
+    naujojo amato ir baimindamasis, kad toks naudingas fabri­
+    kas nesužlugtų, po kelerių metų patvirtino dovanotą privi-
+    legiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181808
+
+- id: c-165257
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvoje sukilimas prasidėjo 1794 m. balandžio 16 d. Šiau-
+    liuose, sukilėlių vadu tapo Jokūbas Jasinskis. Sukilėliai balandį išvadavo
+    iš rusų Vilnių ir Rotušės aikštėje paskelbė Lietuvos sukilimo aktą, kuriuo
+
+    2 skyrius •  L E N K I J O S  I R  L I E T U V O S  VA L S T Y B I Ų  J U N G T U V Ė S
+    97
+    sudaryta sukilėlių vyriausybė – Lietuvos tautinė aukščiausioji taryba.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181824
+
+- id: c-165259
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Žemdirbiams, norintiems atvykti į mūsų karalystę ir čia
+    pasilikti, duodame [žemę] bei suteikiame [privilegiją] de­
+    šimt metų [ją] dirbti laisvai ir be mokesčių, o pusę to laiko
+    tebūna jie atleisti nuo bet kokios karališkos prievolės; mi­
+    nėtam terminui praėjus, priklausomai nuo žemės derlin­
+    gumo, jie duos dešimtinę, kaip ir kitose karalystėse bei tau­
+    tose paprastai jie duodavo, tačiau su tokiu [skirtumu], kad
+    mūsuose grūdas bus gausesnis, negu paprastai yra kitose
+    karalystėse.
+    Tie visi žmonės tesinaudoja Rygos miesto civiline teise,
+    jei paskui nebus geriau sumanyta išmintingųjų tarybos. Tuo
+    tikslu, kad jūs mažiau abejotumėte dėl saugumo ir labiau
+    pasitikėtumėte, [pranešame], jog esame pastatę dvi pranciš­
+    konų bažnyčias: vieną mūsų karališkajame mieste, vardu
+    Vilnius, ir antrą Naugarduke, o trečią dominikonų, kad kiek­
+    vienas pagal savo apeigas galėtų garbinti dievą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181657
+
+- id: c-165260
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl ir Lietuvos XVII–XVIII a. istoriją apibūdi-
+    name Baroko epochos sąvoka, suteikdami jai tokį patį turinį, kokį Vakarų
+    Europoje teikiame Renesanso ir Apšvietos epochoms. Epochos simboline
+    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.).
+  citata_rodoma: "jėzuitų ordino pasirodymą Lietuvoje. \nJėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi \npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181674
+
+- id: c-165261
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėju-
+    sios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios ki-
+    tas valstybes apie žmogaus teisių pažeidimus. 1976 m. gegužės 12 d. įkurta
+    pirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-
+    naši grupė įsikūrė Vilniuje. Grupei priklausė kun. Karolis Garuckas, fizi-
+    kas Eitanas Finkelšteinas, poetė, buvusi kalinė Ona Lukauskaitė-Poškienė,
+    poetas Tomas Venclova ir buvęs politinis kalinys Viktoras Petkus, palaikę
+    ryšius su Maskvos, kitų SSRS regionų ir žmogaus teisių gynimo tarptau-
+    tinėmis grupėmis.
+  citata_rodoma: "1976 m. gegužės 12 d. įkurta \npirmoji Maskvos Helsinkio grupė (vadovas Jurijus Orlovas), o rudenį pa-\nnaši grupė įsikūrė Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181640
+
+- id: c-165262
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    I. 7
+    p. 11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis-
+    rašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa-
+    akalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi-
+    [tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,
+    Į1O
+
+    ## Puslapis 127
+
+    Il KNYGA
+    Su tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­
+    taus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­
+    nigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­
+    sirinkusiems žmonėms apie didelį ir esminį religijos pokytį.
+    Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o
+    po apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­
+    mingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­
+    griauta Perkūno šventykla, ir būtent toje vietoje, vidur pi-
+    liavietės, pradėta statyti Šv. Stanislovo katedra8.
+  citata_rodoma: "11, apie Antakalnį pasakodamas, Tas Vilniaus, kaip jis atrodęs Vladis- \nrašo: quern locum vulgari lingua, Ant- lovo Jogailos laikais, aprašymas pa- \nakalnie, id est, antemontanum dicimus remtas ne tik Strijkovskio, Kojelavi- \n[tą vietą liaudies kalba Antakalniu, čiaus ir kronikininkų pasakojimais,\nĮ1O\n\n## Puslapis 127\n\nIl KNYGA\nSu tokiu tat rūbu Vilnius pasirodė čia atvykusiems Kris­\ntaus tikėjimo išpažinėjams. Tuoj pat sušauktas lietuvių ku­\nnigaikščių ir bajorų visuotinis seimas paskelbė į sostinę su­\nsirinkusiems žmonėms apie didelį ir esminį religijos pokytį. \nVisi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o \npo apeigų žmonėms išdalyti balti lininiai marškiniai. Iškil­\nmingai užgesinta amžinoji ugnis, iškirstos šventos girios, su­\ngriauta Perkūno šventykla, ir būtent toje vietoje, vidur pi- \nliavietės, pradėta statyti Šv. Stanislovo katedra8."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181717
+
+- id: c-165263
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Jogaila
+    ordinui žadėjo padėti prieš jo priešus. Į Lietuvą siunčiama pagal­
+    binė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo
+    būti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­
+    namas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo
+    žinios, patarimo ir valios nepradėti karo.
+  citata_rodoma: "Į Lietuvą siunčiama pagal­\nbinė kariuomenė, iki Vilniaus atvykusi su savo maistu, toliau turėjo\nbūti viskuo Jogailos aprūpinta. Bet šio suverenumas buvo siauri­\nnamas, kai jis įsipareigojo ordinui padėti prieš jo priešus ir be jo\nžinios, patarimo ir valios nepradėti karo."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181710
+
+- id: c-165264
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vytautas Berenis
+    Mykolas Balinskis -
+    Vilniaus miesto istorikas
+    1*1 ykolo Balinskio (1794-1864) gyvenimas ir veikla atspindė­
+    jo plačią ir sudėtingą pirmosios XIX a. pusės Lietuvos istorijos
+    įvykių raidą. Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
+    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
+    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
+    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
+    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
+    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
+  citata_rodoma: "Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų \nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181660
+
+- id: c-165265
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Taigi ta vietovė, žinia, jei ji buvo parinkta to­
+    kiai reikšmingai paskirčiai, jau anksčiau turėjo būti užstaty­
+    ta ir gyvenama. Netgi pats Vilniaus vardas, paeinantis ne
+    nuo didesniosios Vilijos, bet nuo mažesniosios upės, Vilnios,
+    į aną įtekančios, rodo, kad pirmykštė gyvenvietė turėjo būti
+    prie Vilnios, ir kad Germantas, Šventaragio slėnyje miškus
+    lydimais vertęs, kaip ir Gediminas keliasdešimt metų vė­
+    liau ant kalno statydinęs mūro tvirtovę, iškilusią jo viršūnė­
+    je, nieko daugiau nedarę, tik artinę Vilijos link ir plėtę seno­
+    vinę Vilniaus gyvenvietę, palei Vilnios, arba Vilnelės,
+    krantus nusidriekusią ir medinės pilies saugomą. Pagaliau
+    visas tas aplinkinis kraštas, kuriame yra Vilnius, kaip nuo
+    Rusios sienų netoli esantis, jau labai seniai turėjo būti apgy­
+    vendintas, ką liudija tokios tankiai gyvenamos vietovės ir
+    pilys, pirmiausia medinės, o jau XIV amžiuje perstatytos į
+    mūrines, kaip antai: Kernavė, Senieji ir Naujieji Trakai1 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181711
+
+- id: c-165266
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio dalyko patikimumui dabartinį raštą
+    savo ranka pasirašėme ir liepėme mūsų antspaudą prika­
+    binti. Duota Vilniuje, artimiausią ketvirtadienį po apaštalo
+    Šv. Baltramiejaus šventės, tūkstantis penki šimtai penkiasde­
+    šimt devintaisiais Viešpaties metais, o mūsų valdymo tris­
+    dešimtaisiais.
+    Karalius ŽYGIMANTAS AUGUSTAS
+
+    ## Puslapis 344
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    VII
+    DVIEJŲ KARALIAUS STEPONO BATORO LAIŠKŲ,
+    RAŠYTŲ RADVILOMS, TURINYS:
+    APIE MUITUS IR MOKESČIUS
+    VILNIAUS PIRKLIAMS IR MIESTIEČIAMS
+    Autentiškų karaliaus Stepono laiškų, rašytų Radviloms,
+    rinkinyje, saugomame Radvilų archyve, Kardinalijoje, yra
+    du laiškai, atskleidžiantys, kad vis dėlto karalius, nenoriai
+    ir tai tik atkakliai prašomas Lietuvos senatorių ir protestuo­
+    jant Vilniaus pirkliams, laikinai juos atleido nuo naujai nu­
+    statyto muito mokesčio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181887
+
+- id: c-165267
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo atžvilgiu jam pasisekė. Gimęs Lenkijos-Lie­
+    tuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­
+    tiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­
+    lų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų
+    bajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­
+    gimo liudininkas, miesto kultūrinio gyvenimo dalyvis.
+    Lenkų ir lietuvių istoriografijoje M. Balinskio asmenybė yra
+    neblogai žinoma, tačiau ji niekada nebuvo laikoma ypatinga,
+    padėjusia ateinančioms kartoms formuoti istorinės savimonės
+    pagrindus.
+  citata_rodoma: "Gimęs Lenkijos-Lie­\ntuvos valstybės žlugimo išvakarėse, kai Tadas Kosciuška bevil­\ntiškai mėgino gelbėti šalį nuo godžių kaimyninių valstybių kės­\nlų, M. Balinskis, kaip ir tūkstančiai jo bendraamžių, jaunųjų\nbajoriškų atžalų, buvo Vilniaus universiteto suklestėjimo ir žlu­\ngimo liudininkas, miesto kultūrinio gyvenimo dalyvis.\nLenkų ir lietuvių istoriografijoje M."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181802
+
+- id: c-165268
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustu-
+    vininkas – Polocko pirklių šeimoje gimęs Pranciškus Skorina (Franciscus
+    Skorina, 1490–1541), Paduvos universiteto absolventas, įgijęs ten me-
+    dicinos daktaro laipsnį, 1517–1519 m. Prahoje parengęs ir išspausdinęs
+    psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų
+    Biblija“. 1522 m. jis įkūrė spaustuvę Vilniuje.
+  citata_rodoma: "Prahoje parengęs ir išspausdinęs \npsalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų \nBiblija“. 1522 m. jis įkūrė spaustuvę Vilniuje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181914
+
+- id: c-165269
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo. Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-
+    pijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių,
+    Lucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-
+    tynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios
+    18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine.
+  citata_rodoma: "Tuoj pat po krikšto LDK šalia jau veikusių stačiatikių vysku-\npijų buvo suformuotos keturios katalikų vyskupijos (Vilniaus, Žemaičių, \nLucko ir Kijevo), steigėsi vienuolijos. Iki XVI  a. vidurio susikūrė sep-\ntynios vienuolijos (žymiausios – pranciškonų ir bernardinų), turinčios \n18 vienuolynų – keturi įsikūrė Vilniuje, po du Kaune ir Gardine."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181873
+    - t-181682
+
+- id: c-165270
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Prasidėjo neramumai Lenkijoje, 1863 m. sukilimas. Po sukilimo
+    vykusios represijos sustabdė istoriko planų įgyvendinimą, nors
+    jis matė naujai paskirto Vilniaus generalgubernatoriaus Michai­
+    lo Muravjovo - Koriko represijas krašte. 1864 m. sausio 1 d.
+    M. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare.
+  citata_rodoma: "1864 m. sausio 1 d.\nM. Balinskis mirė Vilniuje, palaidotas Jašiūnų dvare."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181814
+
+- id: c-165271
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ši organizacija iki Lietuvos nepriklausomybės atkūrimo
+    turėjo atlikti nelegalios Lietuvos vyriausybės funkcijas, vadovauti pasi-
+    priešinimo judėjimui ir ginti Lietuvos suvereniteto teises šalies viduje
+    ir užsienyje. Žemesnio rango jaunesnieji karininkai atsargos leitenanto
+    Kazio Veverskio iniciatyva telkėsi slaptoje karinėje organizacijoje Lie-
+    tuvos laisvės armija (LLA), įkurtoje 1941 m. Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181784
+
+- id: c-165272
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šven­
+    tasis ekumeninis Tridento Sinodas nusprendė, kad norint
+    išlaikyti Dievo garbinimą, išsaugoti ir skleisti katalikiškąjį
+    tikėjimą, nieko vertingesnio negalima padaryti, kaip kiek­
+    vienoje krikščioniškojo pasaulio diecezijoje įkurti amžinai
+    gyvuojančią seminariją, iš kur jaunuoliai, nuo jaunystės įgi­
+    ję dievobaimingumo, išmokyti geriausių menų, išeitų vyk­
+    dyti bažnytinių pareigų. Taigi, kai mes, Jurgis Radvila,
+    Dievo malone Vilniaus vyskupas, Olykos ir Nesvyžiaus ku­
+    nigaikštis, pamatėme, kokią naudą teikia tiek Romos, kitų
+    miestų mokytojos, mieste, tiek ir kitose vietose įsteigtos ir
+    funduotos klierikų seminarijos, šioje mūsų Vilniaus diece­
+    zijoje, kurioje pastebėjome, jog yra didelis kunigų ir kitų pa­
+    tarnautojų trūkumas Viešpaties vynuogyne, nusprendėme
+    įsteigti ir funduoti kolegiją, kurioje būtų išlaikomas ir die­
+    vobaimingai auklėjamas nustatytas lietuvių ir rusų jaunuo­
+    lių skaičius. Suprantame, kad mūsų ganytojiškoms parei­
+    goms priklauso pasirūpinti, kad iš bendrų vyskupijos stalo
+    pajamų ir kapitulos, ir visokios rūšies vertybių, personatų,
+    pelno, abatijų turto dalies bei visokių kitokių beneficijų, mū­
+    sų diecezijoje egzistuojančių, būtų paimta tam tikra dalis ar
+    porcija, ir ta dalis, taip išimta, būtų prijungta prie anksčiau
+    minėtos kolegijos ir inkorporuota.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181844
+
+- id: c-165273
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Žinodamas karalių esant įtarų, gebėjo supykinti jį su žmona,
+    taip gana ilgam sudrumstęs namų ramybę, privertė lenkus
+    gaišti dėl nesvarbių reikalų.
+    Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­
+    vo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­
+    keršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų
+    miestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­
+    syk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­
+    mingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių
+    Pskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną
+    Sidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­
+    leisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar
+    250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po-
+    sadniką Silvestrą Levontjevičių ir vietininką Parfėjų81.
+  citata_rodoma: "Jau senyvo amžiaus sulaukęs, Lietuvos kunigaikštis bu­\nvo priverstas kovoti su Pskovu ir Naugardu, nes norėjo at­\nkeršyti už įvairias skriaudas, kurių Lietuvai iš tų galingų \nmiestų tekdavo patirti. Pergalė jam buvo lemta ir tąsyk: du­\nsyk pakartotas žygis, nepaisant didelių pavojų ir pasalų, sėk­\nmingai pasibaigęs (1427 metais), prispyrė atkakti į Vilnių \nPskovo pasiuntinius bojarinus Joachimą Pavlovičių ir Ivaną \nSidorovičių, kurie, pakloję 1 000 sidabro rublių, meldė pa­\nleisti belaisvius, bet Vytautas jų neišleido tol, kol jam dar \n250 rublių nepridėjo (1429 m.) per antrąkart atsiųstus: po- \nsadniką Silvestrą Levontjevičių ir vietininką Parfėjų81."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181910
+
+- id: c-165274
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, miesto palivarkus imta
+    saugoti nuo kariškių spaudimo bei žemietijos valdininkų
+    piktnaudžiavimo7.
+    Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
+    liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­
+    gumui ir patogumui svarbų objektą, kurio vardas - Vingrių
+    šaltiniai. Jų vandenys kadaise priklausė miestui, bet, laikui
+    bėgant, tapo Švč.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181634
+
+- id: c-165275
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Stanislovo garbei („kad abi lygiateisės tautos
+    turėtų vieną globėją ir užtarėją“), o didysis jos altorius buvo toje vietoje,
+    kur anksčiau degė pagonių amžinoji ugnis.
+    1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-
+    ria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra
+    svarbiausias krikščionybės įvedimo Lietuvoje aktas.
+  citata_rodoma: "1387 m. vasario 17 d. Jogaila išleido privilegiją Vilniaus vyskupui, ku-\nria buvo įsteigiama ir aprūpinama vyskupo institucija. Ši privilegija yra \nsvarbiausias krikščionybės įvedimo Lietuvoje aktas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181901
+
+- id: c-165276
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tai atsitiko 1429 m. Lucke^1 ).
+
+    (^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­
+    simas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj.
+  citata_rodoma: "Lucke^1 ).\n\n(^1) ) Dar prieš Lucko suvažiavimą, 1428 m., Vytauto karūnacijos klau­\nsimas buvo pakeltas paties Jogailos, kai jis buvo Vilniuj."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181773
+
+- id: c-165278
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Epochos simboline
+    pradžia galėtume laikyti 1569 m. jėzuitų ordino pasirodymą Lietuvoje.
+    Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi
+    pakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-
+    klų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-
+    tas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė
+    solidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu
+    darbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“
+    („Didysis artilerijos menas“) (1650).
+  citata_rodoma: "Jėzuitai, atnešę į Lietuvą atsinaujinančią katalikybę, valstybės palaikomi \npakėlė Lietuvos švietimo lygį į naują pakopą – sukūrė aukštesniųjų moky-\nklų – kolegijų tinklą, o šios sistemos viršūnėje – Vilniaus universitetą (įkur-\ntas 1579 m.). Lietuvos siekis būti integralia Vidurio Europos dalimi lėmė \nsolidžią ir originalią karinės inžinerijos mokyklą, kurios reikšmingiausiu \ndarbu tapo Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ \n(„Didysis artilerijos menas“) (1650)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181879
+
+- id: c-165279
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 20"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 20."
+  citata_originali: |
+    Štai net 1781 m. kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto
+    buvo išversta  į vokiečių kalbą (kaip ir originale čia randame ne tik patį Dusburgiečio
+    tekstą, bet ir jo tęsinj, apžvelgiantį ir Vytauto valdymo laikotarpį, be to, išrašus iki XV a.
+    7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78.
+      XIV a. IV-ajame dešimtmetyje Dusburgiečio kroniką eilėmis  į vokiečių kalbą išvertė
+    Mikalojus iš Jerošino.
+  citata_rodoma: "Štai net 1781 m. kronika iš Karaliaučiaus karališkosios bibliotekos lotyniškojo teksto\nbuvo išversta  į vokiečių kalbą (kaip ir originale čia randame ne tik patį Dusburgiečio\ntekstą, bet ir jo tęsinj, apžvelgiantį ir Vytauto valdymo laikotarpį, be to, išrašus iki XV a.\n7-ojo dešimtmečio), vertimas dabar saugomas Vilniuje78."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181755
+
+- id: c-165281
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vytauto
+    viešpatavimo laikams einant į pabaigą, šis kunigaikštis, to­
+    lydžio neišvengiantis tam tikros trinties su feodaline valdžia,
+    nenorėjo sąžiningai laikytis Horodlės susitarimo sąlygų;
+    Taigi
+    Vilnius - Gedimino suteikta vokiečių teise, Rygos pavyzdžiu
+    remiantis....................................................................1321 m.
+    iš Vladislovo Jogailos gauta Magdeburgo teisė
+    .................1387 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181730
+
+- id: c-165283
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Naktį iš sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šar-
+    vuočiai. Sausio 11-ąją sovietų kariuomenė jėga užėmė Spaudos rūmus
+    ir Krašto apsaugos tarnybos pastatus Vilniuje, Šiauliuose, Alytuje, vė-
+    liau – Vilniaus geležinkelio mazgą. Promaskviniai būriai turėjo įsiveržti
+    į AT-AS, išvaikyti parlamentą, o sovietų kariuomenė ir specialios paskir-
+    ties būriai („Alfa“) įsikišti į „pilietinį konfliktą“ (pasinaudota premjerės
+    Kazimieros Prunskienės sprendimu padidinti maisto produktų kainas)
+    ir nuversti teisėtą Lietuvos valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181638
+
+- id: c-165284
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Jėgos buvo
+    nelygios, todėl numatyta, kad besipriešinanti kariuomenė turi trauktis
+    Varšuvos link. Rimtesnės kautynės vyko birželio 11 dieną prie Myro,
+    tačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje
+    gynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-
+    ėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą
+    prie Targovicos konfederacijos.
+  citata_rodoma: "Rimtesnės kautynės vyko birželio 11 dieną prie Myro, \ntačiau birželio 14-ąją Vilnius buvo atiduotas be kovos. Liepos pabaigoje \ngynyba jau telkėsi prie Brastos, bet kaip tik tuo metu – liepos 24 dieną at-\nėjo žinia iš Varšuvos apie Stanislovo Augusto kapituliaciją ir prisijungimą \nprie Targovicos konfederacijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181797
+
+- id: c-165286
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Europos žemėlapyje nubrėžus linijas, jungiančias Gibral-
+    tarą su šiaurine Uralo kalnų dalimi, Škotiją su Kaukazo kalnais, pietines
+    Graikijos salas su Norvegijos šiaure, beveik visos šios linijos susikerta
+    Lietuvoje, kurioje ir yra geografinis Europos centras. Visai neseniai Pran-
+    cūzijos nacionalinis geografijos institutas atliko naujus skaičiavimus, pa-
+    gal kuriuos iš 180 km aukščio geografiškai išvestas centro statmuo yra
+    25 km į šiaurę nuo Lietuvos sostinės Vilniaus. Europos centro koordina-
+    tės 54o55’ šiaurės platumos, 25o19’ rytų ilgumos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181890
+    - t-181679
+
+- id: c-165287
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    — • —
+    275
+
+    ## Puslapis 292
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    de Senis iš Italijos - papuošė Vilnių nuostabaus darbo savo
+    meno kūriniais. Italai, čia nuolat dirbdami šešerius metus,
+    iš brangaus marmuro pastatė du puikius antkapius kara­
+    liaus žmonoms - Elžbietai ir Barborai Šv. Stanislovo bažny­
+    čioje, deja, dėl kapitulos priekaištingo aplaidumo vėliau,
+    XVIII amžiuje, tie antkapiai visiems laikams pražuvo seno­
+    sios Katedros griuvėsiuose. Dažnas Žygimanto Augusto, jo
+    palydos, svetimšalių pasiuntinių ir didikų buvojimas Vil­
+    niuje, tvarkingesnių, net puikių pastatų statymas vertė gy­
+    vai darbuotis amatininkus, didino jų skaičių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181684
+
+- id: c-165289
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Sutartyje SSRS patvirtino, kad išlieka visos 1920 m. sutarties są-
+    lygos. Georgijaus Čičerino nota prie šio pakto patvirtino Lietuvos intere-
+    sus Vilniuje; sovietai užtikrino lietuviams, kad de facto esantys Lietuvos
+    sienos pažeidimai nepakeitė Maskvos pozicijų dėl Lietuvos teritorinio
+    suverenumo. Taigi Maskva, nepaisydama Lenkijos nepasitenkinimo, pri-
+    pažino Lietuvos suverenitetą Vilniuje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181644
+
+- id: c-165290
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilnius, drau­
+    ge su visu kraštu patyręs likimo išbandymus, vėl tapo dvie­
+    jų lygiai tokių pat galingų, kaip ir viena kitos nekenčiančių
+    Žygimanto ir Švitrigailos grupuočių taikiniu. Vis dėlto pir­
+    masis, vos tik perėmęs valdžią ir Vilniuje iškilmingai atsisė­
+    dęs į Didžiosios Kunigaikštystės sostą, kad kuo greičiau ten
+    įsitvirtintų, ėmė visokiais būdais garsiai tvirtinti visus do­
+    vanojimus, Vytauto suteiktus bajorams ir miestui, ko Švitri­
+    gaila ne tik nepadarė, bet, savavališkai atimdamas palikimą
+    iš įvairių šeimynų, visus prieš save sukiršino18. Šis teisingu­
+    mas buvo Vilniui anksčiau negu kitiems miestams taikomas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181680
+
+- id: c-165291
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    IV KNYGA
+    mūsų ponams tarėjams, seniūnams ir pareigūnams, nuošir­
+    džiai ištikimiems ir mums mieliems, paminėtiems mūsų pa­
+    tvirtinimo akte.
+    Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS
+    AUGUSTAS savo ranka.
+
+    ## Puslapis 328
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    IV
+    GINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO
+    KARALIŠKOSIOS DIDENYBĖS LĖŠOMIS
+    PAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I
+    PASIENIO PILIS
+    1565 METŲ 39 LAPŲ RANKRAŠTIS
+    (Iš Pulavų bibliotekos rankraščių)
+    Taip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­
+    liotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­
+    kraštis, perrašytas iš originalo, esančio Stokholme, ten lan­
+    kantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir
+    amuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos
+    Didžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­
+    niuje, išsiuntinėtus po kitas pilis".
+  citata_rodoma: "Karalius ir didysis Lietuvos kunigaikštis ŽYGIMANTAS \nAUGUSTAS savo ranka.\n\n## Puslapis 328\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nIV\nGINKLAI IR SPROGMENYS, ASMENIŠKOMIS JO \nKARALIŠKOSIOS DIDENYBĖS LĖŠOMIS \nPAGAMINTI VILNIUJE IR IŠSIUNTINĖTI I \nPASIENIO PILIS\n1565 METŲ 39 LAPŲ RANKRAŠTIS \n(Iš Pulavų bibliotekos rankraščių)\nTaip šio rankraščio turinį jo pradžioje aprašė Pulavų bib­\nliotekos prižiūrėtojas Lukašas Golembiovskis: „Šis ran­\nkraštis, perrašytas iš originalo, esančio Stokholme, ten lan­\nkantis V. Bernackiui, detalizuoja įvairių rūšių ginklus ir \namuniciją, Žygimanto Augusto lėšomis gamintus Lietuvos \nDidžiojoje Kunigaikštystėje iki 1565 metų ir, dalį palikus Vil­\nniuje, išsiuntinėtus po kitas pilis\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181716
+
+- id: c-165292
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau daugiausia įtakos amatininkų gerovei ir tobulėji­
+    mui turėjo didžiosios ginklų liejyklos įkūrimas prie Vilniaus
+    pilies. Ten jų reikėjo daugybės ir visokių. Alavas ir varis iš
+    Vengrijos buvo gabenamas į Krokuvą, o ten superkamas į
+    Vilnių; plienas ir geležis buvo vežami iš Alkuskų kasyklos37.
+    Šiame anuomet garsiame fabrike išlieta labai daug pabūk­
+    lų, gaminta bombos ir kiti karo reikmenys. Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181669
+
+- id: c-165294
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tad galėjo čia
+    pirmiau būti skandinavų nausėdijos, taigi Vilniaus pradžia
+    gal siekia normanų piratus, kūrusius Lietuvoje seniausias
+    gyvenvietes IX-X amžiuje. Netgi kai kuriuose Jogailos au­
+    tentiškuose dokumentuose, rašytuose prieš jo krikštą ir iki
+    šiol išsaugotuose Karaliaučiaus archyve, Vilniaus vardas -
+    Vylne, Velne, labai panėši į vardą, duotą jam Snorro. Tad
+    kad ir kurią iš visų tų legendų pripažintume esant tikro-
+    viškiausia, vis vien neabejotinas dalykas, jog Vilniaus įkū­
+    rimą ne Gediminui, bet jo pirmtakams dera priskirti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181935
+
+- id: c-165296
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau protestantizmas
+    galėjo klestėti tik jų dvaruose:
+    į katalikų ponų žemes jis nepa-
+    tekdavo. Miestuose, ypač Vil-
+    niuje, kur mišrai gyveno katali-
+    kai su protestantais, kildavo vi-
+    sokių nesusipratimų ir muš-
+    tynių. Dažniausiai muštynių atsitikdavo švenčių metu, per
+    procesijas, kada ypatingai vieni kitus gebėdavo įžeisti.
+  citata_rodoma: "Miestuose, ypač Vil-\nniuje, kur mišrai gyveno katali-\nkai su protestantais, kildavo vi-\nsokių nesusipratimų ir muš-\ntynių. Dažniausiai muštynių atsitikdavo švenčių metu, per\nprocesijas, kada ypatingai vieni kitus gebėdavo įžeisti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181810
+
+- id: c-165297
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus
+    Vilnius 1916 m. – lietuvių ir lenkų disputo epicentras.
+    J. Bulhako nuotrauka
+
+    L I E T U V O S  I S T O R I J A
+    140
+    juos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-
+    syti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-
+    rija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai,
+    o Vilnius – lenkiškas miestas. Kadangi iki XX a. nė viena pusė neneigė,
+    kad Vilnius yra istorinė LDK sostinė, lietuviai atkakliai kartojo istorinius
+    argumentus.
+  citata_rodoma: "Pasitarimai vyko, teikta ir pasiūlymų, tačiau visus \nVilnius 1916 m. – lietuvių ir lenkų disputo epicentras. \nJ. Bulhako nuotrauka\n\nL I E T U V O S  I S T O R I J A\n140\njuos lenkų delegacija atmetė – nesutarta dėl Vilniaus ir kam turi priklau-\nsyti visa Rytų Lietuva. Lietuviai motyvavo, kad tai yra jų istorinė terito-\nrija, lenkai aiškino, kad Vilnijos gyventojai daugiausia kalba lenkiškai, \no Vilnius – lenkiškas miestas. Kadangi iki XX a."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181874
+
+- id: c-165299
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau, kad dėl Vilniaus miesto
+    gyventojų, priklausančių visokiems ponams, įvairumo, ne­
+    kiltų per didelė suirutė ir netvarka pačiame mieste, norime,
+    kad mūsų Vilniaus tarėjai po kiek laiko su visais ponais, tu­
+    rinčiais Vilniaus mieste ir už jo ribų valdinių, kartu susi­
+    rinktų ir tiek dėl duonos dydžio bei svorio, tiek dėl kitų da­
+    lykų, nuo kurių priklauso gera tvarka, bendrai susitartų ir
+    visi kartu, ir kiekvienas atskirai pasirūpintų, kad to, kas ben­
+    dru sutarimu buvo nutarta, jų valdiniai laikytųsi. Taip ant­
+    radieniais ir penktadieniais, be jokio kito rašto ir nepriešta­
+    raujant regulai, yra leidžiama kapitulos valdiniams, taip pat
+    383
+
+    ## Puslapis 400
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    feriis, absque praescripto, et regula liceat, permissumque sit
+    subditis Capituli, etiam de Villis eorum, panes in Civitatem
+    Vilnensem ducere, et vendere, alijs diebus pro Civibus dunta-
+    xat liberis manentibus, juribus et privilegijs Civitati Vilnen.
+    concessis salvis remanentibus. Harum quibus sigillum n-rum
+    est subappensum, testimonio literarum. Datum Vilnae vige­
+    sima sexta Julii Anno Domini Millesimo Quingentesimo Tri­
+    gesimo tertio. Praesentibus R-ndis in Cbr-o Patribus D -nis
+    Joanne Cbojewski Premislien., Joanne Viln. Episcopis, nec
+    non. Mag-cis g-nosis, Georgio Radiwił Castellano Vilnen., et
+    Mag. Lit. Duc. Curiae Marscbalco ac exercituum et Grod-
+    nensi summo Capitaneo, Stanislao Alberti Gastold Nowog­
+    rodem Matb iae Ocbmistrowicz Vitepscen. Palatinis. Iwan Hor-
+    nostay Thesaurario nostro Mag. Due. Litu-ae, ac alijs quam
+    plurimis circa praemissa testibus. SIGISMUNDUS Rex.
+
+    ## Puslapis 401
+
+    IV KNYGA
+    iš jų kaimų, gabenti duoną į Vilniaus miestą, į viešąjį turgų
+    ir parduoti, o kitos dienos, nepažeidžiant duotų Vilniaus
+    miestui teisių ir privilegijų, lieka laisvos vien tik piliečiams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181636
+
+- id: c-165301
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    12), nes Trakuose buvo jo šalininkų. Įveikti tačiau Vilnių, kur
+    Vytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo
+    prarasti.
+  citata_rodoma: "Įveikti tačiau Vilnių, kur\nVytautas palaikytojų neturėjo, nepasisekė. Bet ir Trakai greit buvo\nprarasti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181756
+    - t-181904
+
+- id: c-165303
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Kazimiero
+    kultas rodė, jog Lietuvoje susiformavo stipri, į Vakarų Europą orientuota
+    religinė savimonė. Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
+    siu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mu-
+    gės – tai iki šių dienų iš LDK laikų ateinanti tradicija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181693
+
+- id: c-165304
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Volumes gyventojai, jausdami karaliui anti­
+    patiją dėl trukdymo laisvai išpažinti savo tikėjimą ir dėl rusų
+    apeigų cerkvių pakeitimo katalikiškomis bažnyčiomis, anaip­
+    tol nebuvo palankūs lenkams, o Švitrigailai šis žygis buvo ga­
+    nėtinai sėkmingas, taigi karalius, negalėdamas nieko jam pa­
+    tarti, sudarė su juo ilgalaikes paliaubas. Tik tada Švitrigaila
+    energingai ėmėsi taikos reikalų; į Vilnių iš Didžiojo Naugardo
+    pasiųsti bojarinai - Ivanas Jermoliničius ir Chariničius - pir­
+    momis vasario dienomis sudarė su juo sutartį, kuria buvo ga­
+    rantuojama abipusis saugumas ir prekybos laisvė6. Anų laikų
+    Vilniaus prekybiniai ryšiai, Vytauto laikais išplitę, jau buvo
+    pasiekę Gdanską ir Sileziją, neskaitant Karaliaučiaus, Rygos
+    ir rusų miestų, su kuriais buvo prekiaujama nuo seno.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181750
+
+- id: c-165305
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1415 m. Naugarduke sušaukęs LDK stačiatikių
+    vyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją
+    paskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-
+    blaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas
+    Vilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“
+    suformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o
+    G. Camblako vadovaujama LDK stačiatikių delegacija nuvyko į Katalikų
+    bažnyčios susirinkimą Konstance, kur iškėlė visuotinės bažnyčių unijos
+    idėją (ji įgyvendinta vėliau – 1439 m.
+  citata_rodoma: "Naugarduke sušaukęs LDK stačiatikių \nvyskupų suvažiavimą, Vytautas įkūrė LDK stačiatikių metropoliją ir į ją \npaskyrė vieną žymiausių to meto stačiatikybės teologų Grigorijų Cam-\nblaką. Be to, „Kijevo ir visos Rusios“ metropolitas buvo tvirtai įkurdintas \nVilniuje: jam pastatyta katedra ir rezidencija, Vilniaus „rusėnų pusėje“ \nsuformuota metropolito jurisdikcija, gyvavusi iki pat XVIII a. pabaigos, o \nG."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181650
+    - t-181745
+
+- id: c-165306
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    116
+
+    ## Puslapis 133
+
+    Il KNYGA
+    Skirgailai išvykus į Polocką jam buvo gera proga įgyvendin­
+    ti savo sumanymą. Tuo tikslu paskleidęs gandą, esą turįs at­
+    vykti į Vilnių sudaryti tam tikrų sutarčių, pirma išsiuntė daug
+    dengtų rogių, prikrautų įvairių atsargų, ten sutalpino ir gin­
+    kluotų žmonių būrį. Pastarieji, gurguolei atvykus iki Žemu­
+    tinės pilies, turėjo ją užimti, mat menkai teapsaugota ji buvo,
+    ir atiduoti į Vytauto rankas, kuris manė suskubsiąs su savo
+    kariais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181749
+
+- id: c-165307
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    J. K. Glaubi-
+    cas suformavo baroko architektūrinio stiliaus atmainą, neturinčią analogo –
+    Vilniaus baroko mokyklą. Mokykla išsiskiria dekoratyvių, kompozicinių ir
+    architektūrinių elementų deriniu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181641
+
+- id: c-165308
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Smig-
+    288
+
+    ## Puslapis 305
+
+    IV KNYGA
+    jo žmonai palikta išimtinė privilegija supirkinėti stiklą, o
+    po jų mirties palikuonims skirta teisė atiteko miestui56.
+    Pirmasis Stepono Batoro atvykimas į Vilnių 1579 metų
+    pavasarį buvo įsimintinas miestui. Kuo rimčiausiai rengian­
+    tis žygiui į Livoniją, kai Vilniaus ginklų liejykla beveik ka­
+    raliaus akyse liejo grėsmingus pabūklus pagal geriausius
+    pavyzdžius, kai skaitlingi rinktinės kariuomenės būriai Vil­
+    niaus gatvėmis traukė į stovyklą Svyre, šis didysis karalius,
+    lecki Loik i Statysta [pasaulietis ir
+    valstybės veikėjas], gim.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181665
+
+- id: c-165310
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pirmiausia karaliaus dėmesį patraukė Švč. Trejybės prie­
+    glauda (špitolė), mieste garsi savo labdaringa veikla. 1545
+    metų gegužės 4 dieną išleistu įsakymu, prieglaudos paja­
+    mų valdymas buvo patikėtas Vilniaus magistratui; Jonui
+    Hozijui pasitraukus iš šių pareigų, vyriausiojo jos globėjo
+    titulą nuo vyskupo karalius perkėlė sau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181830
+
+- id: c-165311
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuokart jis pasirodė savarankiškas lie­
+    tuvių kariuomenės vadas. Kada Kryžiuočių Ordino maršalka
+    Gotfrydas von Lindenas įsiveržė į Lietuvos gilumą ir, nueida­
+    mas net lig pat Vilniaus, degino kaimus, plėšė žmonių turtą ir
+    juos pačius ėmė nelaisvėn, tuo metu Algirdas, negalėdamas sku­
+    biai suorganizuoti apsigynimo, užsidaręs Vilniaus pilyje, pasi­
+    kvietęs maršalką ir išmetinėjęs jam neriterišką elgesį; o Kęstutis,
+    keršydamas už krašto teriojimą, pasiuntė Vytautą į Užnemunę
+    sunaikinti vokiečių maisto atsargą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181726
+    - t-181698
+
+- id: c-165315
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Per pusantrų metų Sąjūdžio atliktais darbais lietuvių tauta žengė
+    platų žingsnį Lietuvos nepriklausomybės atkūrimo link.
+    Lietuvos nepriklausomybės atkūrimas
+    1989 m. pabaigoje LPS virtus politiniu judėjimu, jo gretose
+    buvo daug LKP (SSKP sudėtyje) narių, kurie atsisakė toliau vykdyti Mas-
+    kvos nurodymus. Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
+    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
+    lietuviai) XX suvažiavimas.
+  citata_rodoma: "Komunistų partijos veiklai didelę įtaką turėjo 1989 m. \ngruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc. \nlietuviai) XX suvažiavimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181916
+
+- id: c-165316
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Re­
+    gis, iš jo kilusi Hanulu giminė, kurių
+    36
+
+    ## Puslapis 53
+
+    I  KNYGA
+    Vilniaus pilininkas, ir miestiečiai, labiau linkę palaikyti Jo­
+    gailą negu jo dėdę, naktį staiga sumušę Kęstučio įgulą, abi
+    pilis, Žemutinę ir Aukštutinę, atidavė į Jogailos rankas33. Tas
+    Vilniaus gyventojų palankumas didžia dalimi nulėmė eigą
+    kovos, kai Vytautas jau neįstengė pasipriešinti Jogailai: mat
+    pralaimėjęs mūšį, praradęs netoli Vilniaus tūkstantį žmo­
+    nių, turėjo slėptis Trakų pilyje34. Ir šią pilį Jogaila būtų leng­
+    vai užėmęs, jeigu Kęstutis su stipriais pulkais iš Žemaitijos į
+    pagalbą sūnui pagaliau nebūtų atvykęs.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181889
+    - t-181651
+
+- id: c-165317
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    nizacinis komitetas (Mykolas Biržiška, Petras Klimas, A. Smetona, kun.
+    Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko
+    iš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių
+    grupių atstovus. Konferencija, į kurią lenkų dvarininkai nebuvo pakviesti,
+    nes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-
+    tre, atvyko 213 dalyvių, dar 9 buvo kooptuoti. Konferencijoje dominavo
+    kunigai – 66, valstiečiai – 65 ir inteligentai – 59.
+  citata_rodoma: "Juozas Stankevičius ir Jurgis Šaulys) į konferencijos dalyvių sąrašą atrinko \niš kiekvienos apskrities po 5–8 aktyviausius įvairių socialinių ir politinių \ngrupių atstovus. Konferencija, į kurią lenkų dvarininkai nebuvo pakviesti, \nnes ji vadinta lietuvių, vyko rugsėjo 18–22 dienomis Vilniaus miesto tea-\ntre, atvyko 213 dalyvių, dar 9 buvo kooptuoti. Konferencijoje dominavo \nkunigai – 66, valstiečiai – 65 ir inteligentai – 59."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181653
+
+- id: c-165319
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Netekusi Vilniaus, Lietuva atsisuko į
+    Mažąją Lietuvą. Britai tuo tarpu iškėlė idėją, kad Lietuva už prarastą Vil-
+    nių turi gauti Klaipėdą, nors vėliau pasisakė už „laisvojo miesto“ statusą.
+    Lietuviams mainų principas netiko, nes Vilnius – senoji sostinė, tačiau
+    uostas labai rūpėjo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181947
+
+- id: c-165320
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Atrodo, kad tais metais bu­
+    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
+    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
+    232
+
+    ## Puslapis 249
+
+    III KNYGA
+    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
+    veinei*.
+    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
+    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
+    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
+    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
+    kuriavo karaliaus45.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181865
+
+- id: c-165321
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Atkūrusios nepriklausomybę Lietuvos valstybės teritorija Vakaruo-
+    se įgijo sieną su Rusija, Kaliningrado sritimi, Potsdamo konferencijoje
+    atiduota 50-čiai metų administruoti SSRS. Demokratinė Rusija, kaip ir
+    Lietuva siekusi atsiskirti nuo SSRS, atvirai rėmė lietuvių tautos kovą dėl
+    nepriklausomybės. Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių
+    Vilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir
+    Estijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos
+    jėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti
+    apie Rusijos ir jos tautų ateitį.
+  citata_rodoma: "Kitą dieną po 1991 m. sausio 13 d. kruvinųjų įvykių \nVilniuje Rusijos vadovas Borisas Jelcinas kreipėsi į Lietuvos, Latvijos ir \nEstijos teritorijoje tarnaujančius karius kviesdamas nepasiduoti reakcijos \njėgoms ir, prieš šturmuojant civilinius pastatus Baltijos šalyse, susimąstyti \napie Rusijos ir jos tautų ateitį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181664
+
+- id: c-165323
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lietuvoje, priešingai,
+    dar nebuvo jokių miestų, o ir pats feodalizmas dėl išskaidytų ku­
+    nigaikštysčių dar nebuvo tvirtai suręstas: kaip anksčiau minėjo­
+    me, kur ne kur stūksojo vienišos pilys su skurdžiomis gyvenvie­
+    tėmis prie jų. Miestai kūrėsi tuomet, kai aukštesnieji Lietuvos
+    kunigaikščiai jau buvo galingi, daug prisigrobę ir užsigarantavę
+    tvirtą viršenybę. Vienas jų - Gediminas - pats įkūrė Vilnių ir ten
+    sutelkė pagrindinę lietuvių feodalų valdžią.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181807
+
+- id: c-165324
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 19"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 19."
+  citata_originali: |
+    Petro iš Dusburgo kronikos nuorašas buvo ir Livonijoje, Roneburgo (Raunos, Cėsių rj.)
+    pilies bažnyčioje. Jį ten XVI a. II-ojoje pusėje rado etmonas Jonas Chodkevičius, kuris
+    perdavė kroniką Vilniaus vaitui Augustinui Rotundui (mirusiam 1582 m.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181868
+
+- id: c-165325
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Miesto teisė, po kurios skraiste Yilniaus gyventojai naudo­
+    josi savo nuosavybe ir tam tikromis laisvėmis, kai kada bu­
+    vo vaivados arba jo vietininko galioje, dažnai dargi paklus­
+    dama savavališkai vaitų arba miesto viršininkų valdžiai.
+    Žodžiu, Vilnius, nors tuomet jau gausiai gyvenamas, dide­
+    lis ir turtingas miestas, dar nebuvo galutinai atsikratęs bar­
+    bariškumo apnašų. Bet Lietuvos valdymą perėmė karalius
+    —  • —
+    257
+
+    ## Puslapis 274
+
+    258
+
+    ## Puslapis 275
+
+    IV KNYGA
+    Žygimantas Senasis, apdovanotas proto ir charakterio pri­
+    valumais ir tvirtai siekiantis įvesti tvarką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181766
+
+- id: c-165326
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Nepaliovė Vilnius buvęs šalies sostine ir nuola­
+    tine aukščiausiojo Lietuvos valdovo buveine38. Jos gyvento­
+    jai mainėsi savo darbo vaisiais su krikščionimis ne tik pačioje
+    Lietuvoje, bet ir kaimyniniuose kraštuose. Tačiau ši preky­
+    ba ne kartą nukentėjo dėl nesibaigiančių ir nuostolingų vai­
+    dų su Prūsija: vilniečiai prekijai būdavo įkalinami, o jų pre­
+    kės atimamos39.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181714
+
+- id: c-165327
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vėliau laisvę atgavęs, Andrius žuvo Vytauto pusėje 1399 m. besi­
+    kaudamas su totoriais prie Vorsklos.
+    Išėjęs iš politinės krizės, Jogaila tuojau ėmė vykdyti vieną
+    reikšmingą Kriavo pažadų punktą — 1386 m. gale jis vyko Lietuvos
+    krikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
+    raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
+    džioje atvyko Vilniun.
+  citata_rodoma: "gale jis vyko Lietuvos\nkrikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo\nraštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­\ndžioje atvyko Vilniun."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181703
+
+- id: c-165328
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vil-
+    niuje pastatyta ir „atstatyta“ (tose vietose, kur jos buvo iki XVII a.) apie
+    dešimt cerkvių. Tuo norėta pademonstruoti, kad Šiaurės Vakarų krašto
+    centras yra ne ką mažiau stačiatikiškas nei katalikiškas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181781
+
+- id: c-165330
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuvos gotikinė architektūra perėmė pagrindi-
+    nius šio stiliaus bruožus – aukštas erdves (Vilniaus Bernardinų bažny-
+    čios centrinė nava) ir grakštumą (Vilniaus Šv. Onos bažnyčia). Tiesa, šias
+    bažnyčias statė aukščiausios klasės meistrai iš užsienio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181771
+
+- id: c-165331
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jeigu mes net tarsime, kad ta pilis Vilniuje
+    gerokai anksčiau pastatyta, tai Dusburgas, Gedimino
+    amžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­
+    demini, juk pats Gediminas, arba rygiečiai, dar prieš metus
+    viešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­
+    niaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­
+    gi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs
+    būti ta vadinama Castrum Gedemini, yra visiškai atmestina.
+    Mes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį
+    manytume buvus.
+    g
+    Post haec XI Kalendas Junii Fr.
+  citata_rodoma: "Jeigu mes net tarsime, kad ta pilis Vilniuje \ngerokai anksčiau pastatyta, tai Dusburgas, Gedimino \namžininkas būdamas, 1324 metais nevadintų jos Castrum Ge­\ndemini, juk pats Gediminas, arba rygiečiai, dar prieš metus \nviešuose laiškuose ir dokumentuose aiškiai ją vadina Vil­\nniaus ir sutartis tuo vardu vadinamame mieste pasirašo. Tai­\ngi atrodo, kad ta Hartknocho prielaida, esą Vilnius turėjęs \nbūti ta vadinama Castrum Gedemini, yra visiškai atmestina. \nMes net veikiau Veliuonoje negu Vilniuje tą Gedimino pilį \nmanytume buvus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181792
+
+- id: c-165332
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau šis tiek netikėtas,
+    tiek sėkmingas susirėmimas magistrui nuėjo perniek. Iš­
+    stovėjo jis tris savaites ir dvi dienas prie Vilniaus pilių be
+    paliovos treškindamas sienas ir bokštus, bet negalėjo jų
+    užimti dėl didelių griovių ir perkasų aplink tvirtovę ir dėl
+    Vytauto sumanumo mūšio lauke. Pagaliau tokia be nau­
+    dos apgultis įkyrėjo vokiečiams ir Švitrigailai, kuris, ma­
+    tydamas, jog niekaip negebės įveikti apdairios Vytauto
+    drąsos, sumanė griebtis klastos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181746
+
+- id: c-165335
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau šis Statutas tarnavo išim­
+    tinai tik šlėktų luomui, nes miestui kuo iškilmingiausiai bu­
+    vo garantuojamos Magdeburgo teisės. Tame pačiame seime
+    Lietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­
+    raliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­
+    tas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.)
+    Brastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­
+    niu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­
+    jorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­
+    tėjimo viršūnės.
+  citata_rodoma: "Tame pačiame seime \nLietuvos deputatai sutiko Žygimantą Augustą pripažinti ka­\nraliumi po tėvo mirties. Bet Žygimantas, metų naštos prislėg­\ntas, dar prieš mirtį atidavė sūnui Lietuvos valdžią (1544 m.) \nBrastos seime, ir šis įvykis, vėl darydamas Vilnių pagrindi­\nniu valdžios židiniu ir prašmatnaus dvaro bei turtingų ba­\njorų buveine, iškėlė Lietuvos sostinę iki aukščiausio sukles­\ntėjimo viršūnės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181806
+
+- id: c-165336
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vis dėlto Algirdo valdymo pa­
+    baigoje Vilnius neišvengė seniai jam grėsusio pavojaus. Pra­
+    ėjus dvejiems metams po paskutinio žygio, Prūsijos ordi­
+    no didysis magistras pasiuntė užimti tą miestą Ordino
+    maršalą Gotfridą Lindeną kartu su arkikomtūru Redigeriu
+    Elneriu. 12 000 žmonių vedini, pakeliui sudeginę Trakų mies­
+    tą, kur dėl Kęstučio narsios gynybos pilių neįstengė užimti,
+    1377 metų birželio pabaigoje jie sustojo su visomis pajėgo­
+    mis prie Vilniaus. Ten anuomet su vaikais ir žmona buvo
+    senasis Algirdas. Užvirė kova: abiejose tvirtovėse nuo gau­
+    sesnių pajėgų narsiai gynėsi įgudęs mūšiuose Lietuvos val­
+    dovas, bet miestas, priešo padegtas, prarado du trečdalius
+    namų, kitą trečdalį miestiečiai vos pajėgė išgelbėti24.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181899
+
+- id: c-165339
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gediminas, supamas tokių įvairių kaimyninio val­
+    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
+    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
+    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
+    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
+    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
+    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine. Valstybėje nusistovėjus leninio valdymo
+    principams, Gedimino veiklumo ir didžių jo politinių sie­
+    kių dėka pagaliau buvo įgyvendintos Mindaugo pastangos;
+    Vilnius savo kilimo pradžioje turėjo laikytis tokios pačios
+    tvarkos, kokia buvo ir kitur.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181735
+
+- id: c-165340
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sąmokslininkai 1432 m. rugpjūčio
+    31 d. naktį užpuolė Švitrigailą Ašmenos
+    dvare, kai jis vyko į derybas su lenkais
+    Lietuvos Brastoje. Švitrigaila spėjo pabėgti
+    į Polocką.
+
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
+
+    ## Puslapis 69
+
+    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m.
+  citata_rodoma: "Švitrigaila spėjo pabėgti\nį Polocką.\n\nLietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181918
+
+- id: c-165342
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po kanonizacijos (1604) šv. Kazimieras tapo svarbiau-
+    siu Lietuvos bei Vilniaus globėju ir pagrindiniu šventuoju, o Kaziuko mu-
+    gės – tai iki šių dienų iš LDK laikų ateinanti tradicija.
+    Lietuvos europėjimas neįsivaizduojamas be bažnytinės organizacijos
+    sukūrimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181936
+
+- id: c-165344
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bet šis žygis greitai baigėsi dėl didžiojo
+    magistro visiško nuolankumo Žygimantui Augustui ir pri­
+    pažinimo jam valdžios Livonijoje.
+    1552 metais miesto valdžia kartu su piliečiais sudarė Wiel-
+    kierzą* [ Wilkirz, Willkühren], arba teismo proceso būdą pagal
+    Magdeburgo teisę, kad būtų išvengta piktnaudžiavimo įvai­
+    riais mokesčiais, kuriais valdininkai apkraudavo besibyli­
+    nėjančias šalis. Jį karalius patvirtino tų pačių metų lapkričio
+    18 dieną ir vėliau miestui suteikė daug kitų naudingų dova­
+    nojimų, be kita ko, bajorams, mieste įsigyjantiems namus,
+    37 v 38
+    Šių naujų dirbtuvių padėtį Vilniuje Žr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181837
+
+- id: c-165345
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    17
+
+    ## Puslapis 34
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    Vilnele, ilgą laiką ji nebuvo jokio svarbaus Lietuvos regiono
+    sostinė, mat kunigaikščiai, arba tos tautos vadai, rengdami
+    puolimus vis gilyn į Rusią, užgrobtose šio krašto žemėse
+    įkurdavo savo valdžios buveines. Bet labai tikėtina, kad nuo
+    seno, iki Gedimino, kai lietuviams dar stigo drąsos būti už­
+    kariautojais, toje vietoje, kur dabar stovi Vilnius, ant kalvų,
+    supančių Vilnios srovę, būta medinės tvirtovės6. Čia buvo
+    pirmykštė gyvenvietė, kurios vardas paskui buvo duotas ten
+    išaugusiam miestui, pagaliau nuo tos tvirtovės prie Vilnios
+    palei krantą pažemiais tęsėsi trobelės iki pat Vilijos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181692
+
+- id: c-165346
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lietuvai paskirtas Tribunolas ir 1581 metais Vilniuje iš­
+    kilmingai įvesdintas išlaisvino karalius nuo varginančio
+    57
+    Visas Vilniaus universiteto fundaci­
+    jos privilegijas kartu su atitinkama
+    popiežiaus bule galima perskaityti
+    veikale „Stepono Batoro valdymas",
+    iš Albertrandžio rankraščių, rūpestin­
+    gai profesoriaus Onacevičiaus
+    išleistų Varšuvoje, 1823 m. Il t. Dar žr.
+    III priedą prie II knygos.
+    58
+    Valerianae Bursae Erectio et Provisio
+    [Valerijono bursos statyba ir aprū­
+    pinimas], Vilniaus kapitulos archy­
+    ve. Šis bursos fundacijos dokumen­
+    tas datuotas: Vilnae in curia nostra
+    Episcopali et domo solitae residendae
+    nostrae, feria secunda post Dominicam
+    conductus Paschae anno a nativ. Christi
+    1579 [Vilniuje, mūsų vyskupo dva­
+    re ir įprastuose mūsų rezidencijos
+    namuose, pirmadienį po Velykų
+    sekmadienio, Viešpaties gimimo
+    metais 1579]. Iš liudininkų paminė­
+    ti: Petrus Skarga Condonator, Augus­
+    tinus Rotundus Mieleski, juris Utrius-
+    que Doctor, Secretarius Regius,
+    Capitaneus in Stokliszki, Civitatis Re­
+    giae Vilnensis Advocatus [Petras Skar­
+    ga, pamokslininkas, Augustinas Ro­
+    tundas Mieleskis, abiejų teisių
+    daktaras, karališkasis sekretorius,
+    Stakliškių seniūnas, karališkasis Vil­
+    niaus miesto vaitas). Parašas: Vale­
+    rianus Episcopus Viln. manu propria
+    [Vilniaus vyskupas Valerijonas sa­
+    vo ranka]. Žr. tarp dekretų pabai­
+    goje.
+    59
+    Vilniaus kapitulos archyvas. Funda­
+    tio Seminarii Episcopalis ex bonis men­
+    sae Epiis Wozgieliski dictis. Datum et
+    actum Vilnae die 11 Januarii anno 1582
+    — • —
+    291
+
+    ## Puslapis 308
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    darbo asmeniškai spręsti įvairaus pobūdžio ginčus, o mies­
+    tui suteikė nemažai orumo ir naudos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181696
+
+- id: c-165347
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ši trokštama žinia jau merdintį
+    Aleksandrą pasiekė Vilniuje. Nors visą gyvenimą nebuvo
+    lemta laimėti karų, paskutinę savo valandą pasijuto nuga-
+    sukčiumi ir šimtininku. Tačiau, ob- vo įkalintas. Pagaliau, turtą išleidęs
+    jektyviai vertinant, tai buvo iliuzio- auksui daryti ir alcheminiams ban-
+    nistas, prisisiurbęs keisto mokslo tai- dymams, kaip karšinčius savo die-
+    syklių, kurias anais laikais tiek kartų nas baigė besiginčydamas su Kroku-
+    įrodė ir gydė taip, kaip šiandieniniai vos miestiečiais dėl pinigų.
+    Le Roi ir homeopatijos mėgėjai. Sun- 47
+    kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,
+    mo ir alchemijos aistrą; pirmiausia po 1. 681-687, plačiai ir ganėtinai žais-
+    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
+    niuje iki pat Žygimanto atvykimo, o pergalę.
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
+
+    ## Puslapis 251
+
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181688
+
+- id: c-165349
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jėzuitų apsigyvenimas Vil­
+    niuje jau Stepono Batoro laikais pakirto protestantų įtaką
+    Lietuvoje. Nepaisant Volano, Tšecieskio ir kitų karštų refor­
+    matų talentų, nepaisant garbingiausių Lietuvos giminių prie­
+    lankumo Kalvino mokslui, vis dėlto disidentai negalėjo su­
+    telkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo
+    tvirtai susieti savo brolijos regulų, žinojo daugiau būdų, kaip
+    veikti sumaniau ir įtaigiau, daugiau iš įvairių kraštų tam
+    tikslui surinktų žmonių. Vilnius tapo žodžio ir rašto rung­
+    tynių lauku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181731
+
+- id: c-165351
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio išmintingo karaliaus nuopel­
+    nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
+    nėje.
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181732
+
+- id: c-165352
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Visa tai vyko žiemos pabaigo­
+    je, tik staigus atodrėkis privertė vokiečių kariuomenę skubi­
+    nai grįžti į savo kraštą, taigi jie nepriėjo iki sostinės ir pen­
+    kiolika dienų teplėšė Lietuvą. Didysis magistras, vis dar
+    laikydamasis ankstesnių ketinimų atimti Vilnių iš Vytauto,
+    tais pačiais metais, vasarą, per Šv. Jokūbą, vėl išsiruošė ana­
+    pus Nemuno ir, dar nesulaukęs savo raitelių, ėmėsi staty­
+    dinti ir stiprinti Rittersverderio pilį52.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181687
+
+- id: c-165353
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Berlynas ir Mas-
+    kva susitarė kol kas pietvakarinių lietuvių žemių klausimo neliesti (beje,
+    1941 m. sausio 10 d. SSRS pagal dar vieną slaptą protokolą jas nusipirks iš
+    Vokietijos už 7,5 mln. aukso dolerių).
+    Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-
+    va prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus,
+    Lietuvos kariuomenė įžengia į Vilnių
+    (1939 m. spalio pabaiga)
+
+    L I E T U V O S  I S T O R I J A
+    186
+    istorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje,
+    o Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-
+    sakis „Vilnius mūsų, o mes rusų“).
+  citata_rodoma: "Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietu-\nva prarado neutralios politikos statusą ir dalį suvereniteto. Tik Vilniaus, \nLietuvos kariuomenė įžengia į Vilnių  \n(1939 m. spalio pabaiga)\n\nL I E T U V O S  I S T O R I J A\n186\nistorinės sostinės, atgavimas buvo šviesos spindulėlis niūrioje situacijoje, \no Lietuva tapo priklausoma nuo SSRS (liaudyje tuojau paplito taiklus po-\nsakis „Vilnius mūsų, o mes rusų“)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181886
+
+- id: c-165354
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ryškiausiai dviejų visuomenių – pagoniškos ir stačiatikiškos – suartėji-
+    mas turėjo būti matomas valstybės sostinėje Vilniuje. Tai atsispindi senojo
+    Vilniaus istorijoje. Jame XIV a. turėjo būti susiformavusi „rusėnų pusė“,
+    t. y. stačiatikių gyvenama miesto dalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181663
+
+- id: c-165355
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Kilmingi žuvusieji buvo atvežti ir palai-
+    doti Vilniuje. Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos. (Kaip liudija Mykolas Lietuvis,
+    jos su kitomis čia saugotomis sudegė per
+    1530 m. gaisrą).
+  citata_rodoma: "Kilmingi žuvusieji buvo atvežti ir palai-\ndoti Vilniuje. Čia, valdovui grįžus, įvyko\ntriumfo iškilmės, eisenoje buvo vedami\nbelaisviai Maskvos karvedžiai ir kariai,\nVilniaus katedroje pakabintos trofėjinės\nvėliavos. (Kaip liudija Mykolas Lietuvis,\njos su kitomis čia saugotomis sudegė per\n1530 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181658
+
+- id: c-165356
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo metu poreikis turėti savą gynybą ir per ne­
+    paliaujamus karus pažintis su kaimyninėmis šalimis, jau at-
+    sikračiusiomis netašyto barbariškumo, davė pradžią rastis
+    Lietuvos žemėje medinėms pilims ir tvirtovėms.
+    Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­
+    liautojų pasakojimų žinoma jau XII amžiuje; XIII amžiui įpu­
+    sėjus ten būta medinių namų gyvenvietės4. Nors ir patogio­
+    je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upių
+    santakoje: Vilijos, arba Neries5, ir Vilnios, vėliau pavadintos
+    surašytos klausantis jų skaldų, bei
+    šiaurės kronikos byloja ne apie vie­
+    ną tokį žygį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181855
+    - t-181882
+
+- id: c-165357
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    L I E T U V O S  I S T O R I J A
+    80
+    Vilniaus akademijos atidarymo privileginį raštą. 1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181695
+
+- id: c-165358
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Stanislo­
+    vo, kankinio, kanonizavimą ir palaikų pakylėjimą tarp da­
+    lyvavusių buvęs Lietuvos vyskupas Vitas, dominikonas.
+    Tačiau tai nebuvo Vilniaus vyskupas, juk tuo laiku apie Vil­
+    nių dar nebuvo nieko girdėti; greičiau tą Vitą reikėtų laikyti
+    Lietuvos vyskupu, in partibus infidelium [netikėlių kraštuo­
+    se]. Betgi po Vilniaus pilių įkūrimo, kai Vilnius jau tapo mies­
+    tu ir Algirdo sostine, kai kurių autorių dvasininkų1  many­
+    mu, Podolės vaivada ir pranciškonų vienuolynų Vilniuje
+    steigėjas Goštautas, arba tiksliau Gastowdas, esą paskui pats
+    tapęs vienuoliu ir pagaliau pirmuoju Vilniaus vyskupu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181848
+
+- id: c-165359
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mir­
+    damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
+    tuvos sostinę: užbaigti pradėtą statyti Šv. Onos bažnyčią,
+    išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­
+    dė kelissyk testamente minimoms seserims ir respublikai, o
+    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
+    atidavė Vilniaus jėzuitų kolegijai. Tačiau šio karaliaus val­
+    dymo saulėlydyje, 1571 metais, baisus badas nuo pusiau­
+    žiemio apėmęs visą kraštą, rudenį sostinėje sukėlė tokio mas-
+    50
+    Petrus Maureus Royzius, gimęs Al-
+    cagnizo [ Alkaniso] mieste Aragono-
+    je, kilęs iš ispanų Ruiz de Moros gi­
+    minės, įvairiomis bylomis išgarsėjęs
+    teisininkas, pagaliau buvęs LDK
+    miesto reikalų referendorius ir Vil­
+    niaus katedros kustodas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181787
+
+- id: c-165361
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    14. Valerijonas Protasevičius Šuškovskis, pirma Vilniaus
+    dekanas, paskui Lietuvos didysis raštininkas, po to Lucko
+    vyskupas, pagaliau, 1556 m. į Vilniaus katedrą perkeltas,
+    baigė gyvenimo dienas 1579 metais gruodžio 21 dieną. La­
+    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
+    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181883
+
+- id: c-165363
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
+    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
+    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
+    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
+    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
+    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
+    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
+    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
+    sostinę nuo puolimo. Tuo metu pakitusi kaimyninės Lenki­
+    jos padėtis, nauji Jogailos politikos užmojai ilgam įžiebė Prū­
+    sijos kerštą ir Lietuvai bei Vilniui grėsė neapsakomomis ne­
+    gandomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181931
+
+- id: c-165364
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vieno­
+    je Vytauto privilegijoje, suteiktoje
+    Trakams, rašytoje pod lita Bożeho na-
+    roienia 1384, mca Augusta 23 dnia In-
+    dykta, skaitome, kad Trakai jau tuo­
+    met, tai yra prieš krikščionybės
+    įvedimą Lietuvoje, buvo ganėtinai
+    svarbus Lietuvos miestas, kad ten
+    jau būta krikščionių bažnyčių, ir kad
+    už ežero, skalaujančio pilį, vadina­
+    mo Galve, buvęs kunigaikščio žvė­
+    rynas.
+    51
+
+    ## Puslapis 68
+
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    nebūtų nuo tiesos nutolta, jeigu Vilnius, tokios palankios
+    gamtos aplinkumoje stovėdamas, prie seniausių Lietuvos
+    tvirtovių būtų priskirtas. Pilaitė, jėzuitų buvusi, per mylią
+    nuo Vilniaus atstu, dešiniajame Vilijos krante, kur pastarai­
+    siais metais buvo agronomijos institutas, dabar priklauso
+    buvusiam to instituto direktoriui ponui Fričinskiui, yra vie­
+    na iš seniausių įtvirtintų vietovių prie Vilniaus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181954
+
+- id: c-165365
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Daug jų vyko
+    pačiame Vilniuje35, o vienas, 1464 metų, įsimintinas įstaty­
+    mų, veikusių iki Lietuvos Statuto, paskelbimu visai valsty­
+    bei36. Čia, Vilniuje (1443 metais), totorių pasiuntinių
+    prašymu, caras Chadži Girėjus buvo iškilmingai paskelb­
+    tas Perekopo chanu. Čia 1448 metais su Prūsijos ordinu su­
+    daryta37 garsi sutartis, o po dvidešimties metų (1468 me­
+    tais) pats didžiojo magistro pavaduotojas Henrikas Plauenas
+    toje Lietuvos sostinėje, kurios sienas jo pirmtakai kadaise
+    įžūliai griovė, žemai lenkėsi prieš galingojo Kazimiero sos­
+    tą38.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181767
+
+- id: c-165366
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
+    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko
+    epochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus
+    universitetą.
+  citata_rodoma: "Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras. Baroko \nepochos kultūros turinį nulėmę jėzuitai skleidė savo idėjas per Vilniaus \nuniversitetą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181949
+
+- id: c-165367
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Juose buvo daugiausia
+    įsigalėję vokiečių pirkliai, turėdami čia savo kontoras. Lankė
+    jie ir kitus Lietuvos miestus, kaip Vilnių, Krėvę, Trakus, Gardi­
+    ną ir kitus. Kaunas buvo Lietuvos prekybos židinys, nes į jį
+    ėjo daug vandens ir sausumos kelių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181705
+
+- id: c-165368
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lenkijos valia vykusiuose rinkimuose gen. Liucijano
+    Želigovskio (Lucjan Żeligowski) užimtoje teritorijoje, vadinamoje „Vi-
+    durinė Lietuva“ su Vilniumi, balsuota taip, kad ji taptų Lenkijos dalimi.
+    Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais
+    pagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo
+    valstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos
+    valstybės kūrėjai pretendavo į Mažosios Lietuvos žemes.
+  citata_rodoma: "Savo ruožtu lietuviai buvo apsisprendę kurti Lietuvos valstybę etniniais \npagrindais, nebepretendavo į „Minsko Lietuvą“, tačiau neįsivaizdavo savo \nvalstybės be istorinės sostinės Vilniaus. Be to, moderniosios Lietuvos \nvalstybės kūrėjai pretendavo į Mažosios Lietuvos žemes."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181866
+
+- id: c-165370
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pagaliau čia, Vilniuje,
+    šis didis karalius, nenuilstamai rūpindamasis krašto saugu­
+    mu, naudodamasis jam patikėta valdžia, griežtai, bet teisin­
+    gai bausdavo išdavikus ir apdovanodavo doruosius bei nu­
+    sipelniusius. Vilniaus turguje 1580 metų birželio 18 dieną
+    buvo nukirsdintas Jurgis Astikas - už klastą ir tėvynės išda­
+    vystę61. Narsiojo Kasparo Bekešo atminimas Vilniuje 1580
+    metais buvo pagerbtas prie jo kapo, ant kalno prie Vilnelės,
+    pastačius apvalaus bokšto pavidalo paminklą, išlikusį iki
+    [Vyskupo seminarijos fundacija iš
+    vyskupo stalo dvaro, vadinamo
+    Vozgėliškėmis [Vaisgėliškis].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181752
+
+- id: c-165371
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Datum et
+    actum Vilnae die 11 Januarii anno 1582
+    — • —
+    291
+
+    ## Puslapis 308
+
+    VILNIAUS MIESTO ISTORIJA I I  TOMAS
+    darbo asmeniškai spręsti įvairaus pobūdžio ginčus, o mies­
+    tui suteikė nemažai orumo ir naudos.
+    Būdamas arčiausiai karo židinio, Stepono Batoro laikais
+    Vilnius virto pagrindine kariuomenių susibūrimo vieta; la­
+    bai dažnai čia būdavo ir pats karalius. Iš šio miesto 1579
+    metais jis išsiuntė svarbią pasiuntinybę į Rusiją per Bazilijų
+    Lopacinskį ir 1581 metais į Švediją per garsųjį Lauryną Gos-
+    lickį60, be to, pats priėmė garbingas pasiuntinybes: nuo toto­
+    rių chano 1579 ir 1582 metais ir 1579 metais patį Gotardą
+    Ketlerį, Kuršo kunigaikštį, be šių, ir Maskvos pasiuntinius,
+    su kuriais turėjo daugiausia darbo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181925
+
+- id: c-165372
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be to, iš jo laiško, rašyto po­
+    piežiui, matyti turėjus norų priimti
+    krikščioniškąjį tikėjimą. Kai kurie tų
+    laiškų rašyti Vilniuje, datuoti 1323
+    metų gegužės 26-ąja diena, kur Ge­
+    diminas aiškiai jį vadina savo kara­
+    liškuoju miestu, yra svarbus liudiji­
+    mas, jog jau egzistavo istorinė
+    Lietuvos sostinė. Tačiau Foigtas
+    naujausios Prūsijos istorijos (Ge­
+    schichte Preussens.
+  citata_rodoma: "Kai kurie tų\nlaiškų rašyti Vilniuje, datuoti 1323\nmetų gegužės 26-ąja diena, kur Ge­\ndiminas aiškiai jį vadina savo kara­\nliškuoju miestu, yra svarbus liudiji­\nmas, jog jau egzistavo istorinė\nLietuvos sostinė. Tačiau Foigtas\nnaujausios Prūsijos istorijos (Ge­\nschichte Preussens."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181858
+    - t-181928
+
+- id: c-165373
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Iki XV a. pabaigos gynybinės sienos saugojo
+    tik Vilniaus pilis, miestas buvo neapsaugotas. Kai Krymo totorių antpuoliai ėmė
+
+    | | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-
+
+    mas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti
+
+    a i miesto gynybinę mūro sieną
+
+    ## Puslapis 79
+
+    Nuo 1466 m. ry
+    Vakarų Prūsija ir
+    Varmė buvo pri-
+    jungtos tiesiogiai
+    prie Lenkijos.
+  citata_rodoma: "Kai Krymo totorių antpuoliai ėmė\n\n| | pasiekti Vilniaus apylinkes, Lietuvos didysis kunigaikštis Aleksandras, tenkinda-\n\nmas Vilniaus gyventojų prašymą, 1503 m. Gardine išleista privilegija nurodė statyti\n\na i miesto gynybinę mūro sieną\n\n## Puslapis 79\n\nNuo 1466 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181864
+
+- id: c-165374
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­
+    tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti,
+    miestas neplečiamas ir negražinamas. Tik Aleksandras, nuo­
+    latiniam gyvenimui pasirinkęs Vilnių ir po savo vedybų su
+    Elena išlaikydamas prabangų dvarą, pirmasis atgaivino sos­
+    tinę. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
+    48
+    Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė
+    metais, palaidota graikų apeigų kop- dalį Švč.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181759
+
+- id: c-165375
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dabar tik kai
+    kuriuos miestus palyginsime su Vil­
+    niumi.
+    —  • -
+    152
+
+    ## Puslapis 169
+
+    Il KNYGA
+    Iš Lenkijos miestų nusižiūrėtos laisvės, antra vertus, Magde­
+    burgo teisių savaiminė išdava lėmė tai, kad miestiečių luo­
+    mas užėmė aukštesnę visuomeninę padėtį negu nelaisvi kai­
+    mo žmonės; pagaliau Vilniaus, pralobusio per atsivėrusią
+    galimybę prekiauti su Juodosios jūros uostais, klestėjimas Vy­
+    tautą įtikino leisti miestiečių luomui dalyvauti tautos pasitari­
+    muose79. Šit kodėl ilgas šio kunigaikščio viešpatavimas, ne­
+    paisant ir negandų, kokių patyrė, nepaisant ne kartą
+    pasitaikiusio karinės valdžios kišimosi į municipalinius rei­
+    kalus, vis dėlto yra svarbi epocha Vilniaus istorijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181945
+
+- id: c-165376
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilnius, tiesa, turėdamas tvirtovėse labai stip­
+    rias įgulas, išvengė puolimo, bet aplinkinės žemės iki Medi­
+    ninkų, netgi iki pat Ašmenos, buvo didžiojo magistro nunio­
+    kotos. Tačiau tai buvo jau paskutinis smūgis, krikščioniškojo
+    Ordino riterių kirstas pagoniškai Lietuvai. Juk kai per Jogai­
+    los apsukrų laviravimą žlugo visos kryžiuočių jam daromos
+    kliūtys siekti Lenkijos sosto, 1385 metų pabaigoje Lietuvos
+    valdovas paliko savo senąją sostinę ir gausios lietuvių kuni­
+    gaikščių ir didikų svitos lydimas išvyko į Krokuvą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181754
+
+- id: c-165377
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų
+    Europos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-
+    jo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-
+    tuva tapo europinės struktūros šalimi, bet ir A. Kulviečio asmenybės mastą.
+  citata_rodoma: "Lietuva katalikybę priėmė 1000 metų vėliau nei Vakarų \nEuropos šalys, o reformacija vėlavo tik 22 metais: 1539 m. Vilniuje ją pradė-\njo liuteronas Abraomas Kulvietis. Tokia įvykių seka rodė ne tik tai, kad Lie-\ntuva tapo europinės struktūros šalimi, bet ir A."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181912
+
+- id: c-165378
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 14"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 14."
+  citata_originali: |
+    Šie pareiškimai, taip pat Gedimino laiškai, adresuoti žymiems
+    Europos miestams Liubekui, Bremenui, Kelnui ir kitiems „iki pat Romos“, „kiekvienam
+    geros valios žmogui“, dominikonų  ir pranciškonų ordinams51, turėjo platų tarptautinį
+    atgarsį. Lietuvos valstybė sugebėjo pirmą kartą tokiu mastu kuriam laikui izoliuoti bei
+    sukompromituoti Kryžiuočių ordiną krikščioniškosios feodalinės Europos akivaizdoje.
+    Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos
+    sutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52.
+  citata_rodoma: "Gedimino vyriausybės pastangų dėka 1323 m. spalio 2 d. Lietuva sudarė Vilniuje taikos\nsutartį su Livonijos vyskupais, Revelio žemės danų vietininku, Livonijos ordinu ir Ryga52."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181822
+
+- id: c-165379
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ten lietuviams studentams
+    daug įtakos turėjo Lietuvos praeitimi dideliai susižavėjęs ir jau
+    mažiau kritiškumo parodęs Ignas Onacevičius (Onacewicz)^49.
+    Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.
+    — statistiką ir diplomatiką.
+  citata_rodoma: "Jis nuo 1818 m. Vilniaus universitete dėstė istoriją, nuo 1821 m.\n— statistiką ir diplomatiką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181652
+
+- id: c-165380
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Idėja skynėsi kelią ne tik Europo-
+    je – rugsėjį Lietuvos autonomijai pritarė lietuvių katalikų seimas Čikagoje
+    (JAV). Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo
+    etnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios
+    Lietuvos koziriu bandydami jį internacionalizuoti.
+    Kitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams
+    nusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-
+    vasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o
+    rugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės
+    teritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos
+    kariuomenių kontroliuojamoje zonoje.
+  citata_rodoma: "Dabar jau koordinuotoje akcijoje dalis lietuvių veikėjų deklaravo \netnopolitinį lietuvių atskirumą ir kėlė Lietuvos statuso klausimą, Mažosios \nLietuvos koziriu bandydami jį internacionalizuoti.\nKitas valstybės modeliavimo etapas prasidėjo, kai, karo veiksmams \nnusiaubus Lietuvos žemes, ji pateko į Vokietijos okupaciją – 1915 m. pa-\nvasarį vokiečiai be mūšio paėmė strategiškai svarbią Kauno tvirtovę, o \nrugsėjo 15-ąją įžengė į Vilnių – taip senoji Lenkijos ir Lietuvos valstybės \nteritorija, per padalijimus tekusi Rusijai, atsidūrė Vokietijos ir Austrijos \nkariuomenių kontroliuojamoje zonoje."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181839
+
+- id: c-165381
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Wilno 1740 in 8vo, skyr. I. Esą
+    pirmasis toje vietovėje įkurdinęs gy­
+    venvietę Germantas, vykdydamas
+    savo tėvo, kunigaikščio Šventaragio,
+    pasak jų, viešpatavusio Lietuvoje
+    apie 1268 m., valią, tam slėny pir­
+    masis miškus išnaikinęs ir savo tė­
+    vo bei savo paties įpėdinių kapavie­
+    tėms skyręs; pavadino ją vardu tėvo,
+    Šventaragio, kas reikštų Šventą al-
+    18
+
+    ## Puslapis 35
+
+    I  KNYGA
+    Urna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų
+    nebuvo Europai žinomas kaip miestas, nebuvo pirmapradė
+    vietovė kokios nors mažos kunigaikščio dalinės valdos Lie­
+    tuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­
+    okratinio valdymo centrų tikrai galėjo būti8.
+    Tačiau Vilniaus istorija prasideda tik 1321 metais, kai
+    Gediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,
+    torių.
+  citata_rodoma: ", valią, tam slėny pir­\nmasis miškus išnaikinęs ir savo tė­\nvo bei savo paties įpėdinių kapavie­\ntėms skyręs; pavadino ją vardu tėvo,\nŠventaragio, kas reikštų Šventą al-\n18\n\n## Puslapis 35\n\nI  KNYGA\nUrna būtų prieiti prie išvados: jei Vilnius iki Gedimino laikų\nnebuvo Europai žinomas kaip miestas, nebuvo pirmapradė\nvietovė kokios nors mažos kunigaikščio dalinės valdos Lie­\ntuvoje, tai vienas svarbiausių jau nykstančio tame krašte te­\nokratinio valdymo centrų tikrai galėjo būti8.\nTačiau Vilniaus istorija prasideda tik 1321 metais, kai\nGediminas, Vytenio įpėdinis, Lietuvos ir Rusios valdovas,\ntorių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181861
+
+- id: c-165382
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    28
+    Das Cromehus arba Kromhus - senuo­
+    siuose kryžiuočiu raštuose. K a r a-
+    1 i a u č. S1 a p t. arch., anot F o i g-
+    t o, V, p. 544, yra vienas pranešimas
+    iš lenkų krašto, rašytas senąja vokie­
+    čių kalba: Fol. E, p. 70, kuriame esa­
+    ma tokių žodžių: „Apsupome W ille
+    (tai yra Vilnių), lietuvių žemėse patį
+    pavojingiausią miestą, kur buvo trys
+    pilys, saugomos įgulos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181804
+
+- id: c-165384
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Dailės ir vaizduojamojo me-
+    no bei architektūros srityje taip
+    pat pastebėtas draugijų paraleliz-
+    mas. Lietuviai pirmieji Vilniuje
+    įkūrė Lietuvių dailės draugiją, pra-
+    dėjo rengti viešas dailės parodas,
+    bet netrukus tie vietiniai dailininkai, kurie nenorėjo tapatintis su etninių
+    lietuvių tautinio sąjūdžio tikslais, įkūrė atskirą Vilniaus dailės draugiją. Kai
+    kas nelengvai apsispręsdavo, kuriai draugijai priklausyti, nors nebuvo drau-
+    džiama priklausyti ir abiem tuo pat metu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181905
+
+- id: c-165385
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iš kur jis atsiradęs, tai gal vėliau
+    daugiau paaiškės.
+    40
+    Dar prieš kelerius metus, nes jau 1563
+    metais Vilniaus burmistrai - Lukas
+    Opachovskis ir Zenonas Zažeckis -
+    atstovavo Lietuvos Didžiosios Kuni­
+    gaikštystės miestams Karalystės sei­
+    me Varšuvoje ir yra paminėti to pa-
+    280
+
+    ## Puslapis 297
+
+    IV KNYGA
+    Vilnius ir pasinaudojo savo prerogatyva abiejų tautų Unijos
+    seime, vykusiame Liubline, ir sostinės Vilniaus pasiuntiniai bur­
+    mistrai Francas Dumikas, Teodoras Jackovičius ir raštininkas
+    Jeronimas Opachovskis kartu su kitais Didžiosios kunigaikš­
+    tystės delegatais 1569 metų liepos 1-ą dieną pasirašė šlovingąjį
+    susivienijimo dekretą, Lietuvos paskelbtą Lenkijos pasiunti­
+    niams. Čia paminėti įstatymai gali būti laikomi galutiniu išsi­
+    vadavimu arba veikiau aukščiausia teisių veikimo riba, kurią
+    pasiekė miestiečių luomas Vilniuje ir visoje Lietuvoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181809
+
+- id: c-165386
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vienas tik Sudimantas, lietuvių vadas, sučiuptas per
+    puolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­
+    das, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė
+    nuteisdami jį pakarti kaip išdaviką. Vilniaus apylinkės, ke­
+    turių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­
+    kotos, ir tik tada didysis magistras įsakė trauktis. Tačiau
+    atsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­
+    siartinus prie Strėvos upės Trakų paviete, tankiame miške
+    iš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,
+    54
+    Stryjkowski, p. 464, aiškiai
+    nurodo, kad Švitrigaila pilies užėmi­
+    mo dėlei turėjo būti pasinaudojęs ru­
+    sų vienuolių, vadintų „čiornais", iš­
+    davyste; tačiau čia ateina į galvą
+    mintis, kad „čiornų" (prasčiokai)
+    vardu buvo vadinama ir rusų gyven­
+    tojų prastuomenė, kurių nemažai
+    anuomet buvo Vilniuje.
+  citata_rodoma: "Vienas tik Sudimantas, lietuvių vadas, sučiuptas per \npuolimą, tapo tarsi koks atpildas prūsams už triūsą ir išlai­\ndas, dykai eikvotas, tad gavę progą pagiežą išlieti, atsigriebė \nnuteisdami jį pakarti kaip išdaviką. Vilniaus apylinkės, ke­\nturių mylių nuotoliu buvo priešo ligi paskutiniųjų nunio­\nkotos, ir tik tada didysis magistras įsakė trauktis. Tačiau \natsitraukiant jo laukė nauji pavojai: mat jų kariaunai pri­\nsiartinus prie Strėvos upės Trakų paviete, tankiame miške \niš pasalų juos apsupo žemaičių būriai ir, prikirtę medžių,\n54\nStryjkowski, p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181656
+
+- id: c-165388
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
+    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
+    šiandien. Todėl suprantama, kad po visų karų krašto ūkis
+    buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
+    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
+    ras jame siautė net 17 dienų).
+  citata_rodoma: "Todėl suprantama, kad po visų karų krašto ūkis\nbuvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai\nbuvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-\nras jame siautė net 17 dienų)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181782
+
+- id: c-165390
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Rašyta Krokuvoje, Viešpaties gimimo metais
+    1532, lapkričio mėnesio 27 dieną, šeštajame indikte.
+    Raštininkas Mikola
+    Panašiai 1524 metais, kaip patvirtina ta pati Lietuvos Met­
+    rika, XVI, 80, karalius priekaištavo Vilniaus magistratui:
+    Kad nesutaria su bendruomene.
+    Kad neišperka iš Vilniaus vaivados privilegijos už ben­
+    drus pinigus.
+    Kad neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.
+    Kad trukdo skųstis karaliui.
+    Už visa tai karalius baudžia šimto kapų grašių bauda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181762
+
+- id: c-165391
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Yra
+    žinoma, kad Gediminas turėjo su Volgos totorių chanu Uzbeku rimtai skaitytis.
+    1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje. O jau kitais
+    metais Uzbeko kunigaikščiai savo karo žygyje esą Gediminui pridarę daug
+    pikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189).
+  citata_rodoma: "1324 m. jis derėjosi su totoriais savo naujoje sostinėje Vilniuje. O jau kitais\nmetais Uzbeko kunigaikščiai savo karo žygyje esą Gediminui pridarę daug\npikta (mnogo zla) ir su daug belaisvių grįžę atgal (PSRL X, 189)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181836
+
+- id: c-165392
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    210
+
+    ## Puslapis 227
+
+    III KNYGA
+    čų su Vytautu nuolat susijęs su Ordinu, visiškai pasidavęs jo
+    įtakai, dabar, remiamas stipraus šalininko ir visos Prūsijos
+    bei Livonijos kryžiuočių galybės, buvo taip pakerėtas noro
+    tapti Lietuvos valdovu, jog nebeįstengė slėpti troškimo at­
+    keršyti. Šį norą dar labiau sustiprino Vilniuje gauta žinia, kad
+    Podolės bajorai, vadovaujami Gregoro Kierdėjaus, klastingai
+    sugavę Daugirdą Gedgailą, anuomet Vytauto vardu valdžiusį
+    Podolę, visą šį kraštą nuo Lietuvos atplėšė Lenkijai, atiduo­
+    dami viršenybę Bučackiams. Įširdęs Švitrigaila tuomet jau vi­
+    sai nejautė savo įdūkio ribų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181911
+
+- id: c-165393
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo metu
+    Vilniuje veikė kelios masonų ložės. 1816 m. ložės Uolusis Lietu­
+    vis sąraše buvo 114 narių, tarp kurių nemažai Vilniaus universi­
+    teto profesorių. M. Balinskis daugelį iš jų asmeniškai pažinojo,
+    VII
+
+    ## Puslapis 8
+
+    1819 m. pats įstojo į šią ložę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181920
+
+- id: c-165394
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kitais metais jis buvo išvaduotas dviejų jam palan­
+    kių kunigaikščių ir vėl patraukė į mūšio lauką56.1396-ieji me­
+    tai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties
+    bei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados
+    Manvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir
+    turtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57.
+  citata_rodoma: "1396-ieji me­\ntai Vilniui atmintini dar ir dėl pilies kalno smarkios griūties \nbei alpių karščių. Šlaito nuošliaužos užslinko ant vaivados \nManvydo rūmų, stovėjusių pakalnėje, užgriuvo jo tarnus ir \nturtus. O Aukštutinės pilies mūrai jokių nuostolių nepatyrė57."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181884
+
+- id: c-165395
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Reg­
+    ni Vero nostri anno primo [Tad Jūsų Didenybė tegu ne tik kad
+    neprieštarauja šių padidintų muitų išreikalavimui, bet sa­
+    vuoju senatoriaus autoritetu ir savo giminės iškilumu bei
+    kilmingumu kad netgi panorėtų ir kitus priversti paklusti
+    šiam sprendimui, nes tai neprieštarauja kitados karaliaus
+    Žygimanto Augusto priimtam nutarimui, taip pat mūsų at­
+    naujintų ir pataisytų nustatytų mokesčių išieškojimui. O la­
+    biausiai [pageidaujame], kad Jūsų Didenybė Vilniaus mies­
+    te pagal savo pareigą įsakytų Vilniaus miestiečiams ir
+    pirkliams neprieštaraujant apskaičiuoti ir sumokėti šiuos
+    muitus, be to, ir vadinamuosius Czopowe i Szosowe mokes­
+    čius taip, kaip šiais metais visi mūsų miestai sumokėjo. Ir
+    ponui krašto iždininkui ir jo raštininkams, paskirtiems šiems
+    mokesčiams rinkti, jeigu būtų kokių nors sunkumų dėl šio
+    reikalo, tegu padeda.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181777
+
+- id: c-165396
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Rogėse pasislėpusiems žmonėms pavyko patekti į
+    pilį, bet sargybai vadovavęs Sudimantas, perspėtas gyven­
+    tojų, davė atkirtį, visas tas pastangas užimti Vilnių niekais
+    pavertė anksčiau negu suspėjo Vytautas su kariauna19. Ne­
+    paisant tos Vilniuje buvusios maišaties, vis dėlto 1389 me­
+    tams baigiantis atvyko Poznanės vyskupas Dobrogostas ir
+    kaip popiežiaus Urbono VI pasiuntinys paskelbė bulę, ku­
+    rios galia, atsiliepiant į karaliaus Vladislovo ir karalienės Jad­
+    vygos prašymą, vietovė, vadinama Vilniumi ir laikytina mies­
+    tu, o bažnyčia, pastatyta ant pagonių šventyklos griuvėsių,
+    šv. Stanislovo garbei, iškilmingai pripažinta katedra.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181770
+
+- id: c-165397
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Lietuviai atmetė
+    bolševikų klasinės diferenciacijos schemą – M. Sleževičius pabrėžė, kad
+    lietuviai yra arba valstiečiai, arba jų vaikai, kad bus dalijama lenkų dva-
+    rininkų, kurių vaikai nuėjo į Lenkijos kariuomenę, žemė, kad jos gaus
+    bežemiai ir mažažemiai – dėl to dauguma gyventojų parėmė vyriausybę.
+    Pabuvęs Lietuvos rankose vos porą mėnesių Vilnius, Lenkijai sumušus
+    Raudonąją armiją, nuo 1920 m. rudens atiteko Lenkijai. Nors 1920 m.
+    spalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį
+    susitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-
+    vos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-
+    ligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos
+    (Litwa środkowa) sudarymą.
+  citata_rodoma: "Nors 1920 m. \nspalio 7 d. Lenkijos ir Lietuvos delegacijos Suvalkuose pasirašė karinį \nsusitarimą dėl kariuomenių demarkacijos linijos, paliekant Vilnių Lietu-\nvos pusėje, spalio 9-ąją, dar prieš įsigalint susitarimui, lenkų gen. L. Že-\nligovskis su savo daliniais įžengė į Vilnių ir paskelbė Vidurinės Lietuvos \n(Litwa środkowa) sudarymą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181943
+
+- id: c-165398
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    „Tad tenai Gedimi­
+    nas (Strijkovskio žodžiai), prie pasakojimais apipintų ugnia­
+    kurų, girioje tarpu kalnų, kuriuos dabar Plikaisiais vadina,
+    medžiodamas, be daugybės kitų žvėrių, pats strėle iš kilpi­
+    nės pašovė didžiulį taurą ir pribaigė jį ant to kalno, kur dabar
+    Vilniaus Aukštutinė pilis - pastarąjį kalną ir dabar Tauro kal­
+    nu vadina, o to tauro kailį ir ragus, auksu aptaisytus, su ver­
+    tingomis brangenybėmis ilgai ižde saugojo, net iki Vytauto
+    laikų, o Vytautas, kuris paprastai dideliuose susiėjimuose ir
+    svetimšalių pasiuntinių priėmimuose iš tų ragų gerdavo, vie­
+    ną jų tad kaip didžią dovaną kartą garbingame valdovų ir
+    kunigaikščių suvažiavime Lucke 1429 metais įteikė Romos
+    imperatoriui Vengrijos karaliui Zigmantui/7  ir t. t. Gedimi­
+    nas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne
+    regėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­
+    vęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­
+    deika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas,
+    išaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi
+    apkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­
+    tuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­
+    bę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks
+    šio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­
+    kas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro
+    pilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­
+    no Vilniumi pagal Vilnios upės vardą.
+    h i
+    XI Knyga, sk.
+  citata_rodoma: "Gedimi­\nnas, nuvargęs visą dieną bemedžiodamas, kai užmigo, sapne \nregėjo geležinį vilką, nepaprasto didumo, o jo kauksmas bu­\nvęs toks galingas, kad atrodė, tarsi šimtas vilkų staugtų. Liz­\ndeika, vyriausiasis žynys, paklaustas, ką reiškia šitas sapnas, \nišaiškino didžiajam kunigaikščiui, kad regėti vilką, geležimi \napkaustytą, yra ženklas, jog čia būsianti pastatyta pilis ir Lie­\ntuvos valstybės sostinė, o šimtas kitų vilkų - jo galią ir didy­\nbę žymi, apie kurią garsas skilsiąs po visas pasaulio šalis. Toks \nšio sapno aiškinimas turėjo Gediminui būti vada, Dievui au­\nkas sudėjus, ant Tauro kalno pastatydinti Aukštutinę mūro \npilį, o kitą - kalno papėdėje, slėnyje, - medinę, kurią pavadi­\nno Vilniumi pagal Vilnios upės vardą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181737
+
+- id: c-165399
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    III KNYGA
+    Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
+    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
+    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
+    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
+    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41.
+  citata_rodoma: ") didžiųjų Lietuvos kunigaikščių Vilniui \nduoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­\nsandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­\nrėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto \ngyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo \nduotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181723
+
+- id: c-165401
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­
+    galiau pakviestas atvyksta Jogaila, lydimas gausaus Len-
+    karalių Zigmantą nuo ketinimo ka­
+    rūnuoti Vytautą, ir Nr. 101, kuria­
+    me, rašydamas Vytautui, reiškia
+    džiaugsmą dėl jo susitaikymo su Jo­
+    gaila ir todėl dedąs viltis, jog čekų
+    eretikai būsią šiek tiek apmalšinti.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84. Pa­\ngaliau pakviestas atvyksta Jogaila, lydimas gausaus Len-\nkaralių Zigmantą nuo ketinimo ka­\nrūnuoti Vytautą, ir Nr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181724
+
+- id: c-165403
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Išėjęs iš politinės krizės, Jogaila tuojau ėmė vykdyti vieną
+    reikšmingą Kriavo pažadų punktą — 1386 m. gale jis vyko Lietuvos
+    krikštyti. Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo
+    raštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­
+    džioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­
+    tas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­
+    miausia turėjo būti krikštijami bajorai.
+  citata_rodoma: "Pakeliui iš Lietuvos kunigaikščių paėmęs paklusnumo\nraštus sau, Lenkijos karalienei ir Karūnai, Jogaila 1387 m. pra­\ndžioje atvyko Vilniun. Kaip prieš metus Krokuvoje buvo įvykdy­\ntas Lietuvos kunigaikščių krikštas, taip Gedimino sostinėje pir­\nmiausia turėjo būti krikštijami bajorai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181859
+
+- id: c-165404
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tik prisimetė esąs paklusnus karaliui kaip savo viršesniam
+    valdovui; vis dėlto nesantaikos vengė: vienijosi su Lenkija, bet
+    niekados neišleisdavo iš akių išimtinai Lietuvos interesų. Daug
+    prisidėjo prie pergalių prieš kryžiuočius, tačiau nesiekė visiš­
+    ko jų Ordino sunaikinimo, nors turėjo tam galimybių; pritarė
+    ir skelbė sprendimus, varžančius toleranciją, kuria nuo seno
+    Vilnius garsėjo, betgi nė vienos kurios nors tikybos išpažini­
+    mas dėl to per daug nekentėjo. Pavyzdžiui, husitai dargi ne
+    kartą Vytauto globa naudojosi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181648
+
+- id: c-165405
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181793
+
+- id: c-165409
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    PIRMOSIOS
+    KNYGOS
+    PABAIGA
+
+    ## Puslapis 59
+
+    VILNIAUS
+    MIESTO
+    ISTORIJOS
+    I
+    KNYGOS
+    PRIEDAI
+    STUDIJA APIE VILNIAUS MIESTO ATSIRADIMĄ
+    Rusios kronikininkai, tarp kitų ir Voskresenski Letopis
+    (BocKpeceHCK. AeTon. I. 48), liudija, kad XII amžiuje jau
+    būta Vilniaus ir kad šio miesto gyventojai, bijodami Mstis­
+    lavo Didžiojo kariaunos, kuris 1128 metais užvaldė krivi-
+    čių žemę, pasidavė Vengrijos, tai yra Haličo, karaliaus
+    valdžiai, vietininkais pasikvietę Dovilą ir Maukoldą, sū­
+    nus Rostislavo Rogvoldovičiaus, kurį tas pats Mstislavas
+    išvijo į Graikiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181719
+
+- id: c-165410
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Lietuvos metraščio liudijimu, „Lietuva
+    pasodino didįjį kunigaikštį Žygimantą
+    Kęstutaitį didžiojoje kunigaikštystėje
+    Vilniuje ir Trakuose rugsėjo 1 d.“ Greitai
+
+    ## Puslapis 69
+
+    Žygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m. Kazimierui.
+    S *Ė - Pabaisko mūšyje Livonijos Suomijos įlanka ) | Jogailaičiui.
+  citata_rodoma: "Lietuvos metraščio liudijimu, „Lietuva\npasodino didįjį kunigaikštį Žygimantą\nKęstutaitį didžiojoje kunigaikštystėje\nVilniuje ir Trakuose rugsėjo 1 d.“ Greitai\n\n## Puslapis 69\n\nŽygimanto Kęstutaičio val- Po pralaimėjimo Lietuvai yr A \\ Vidinė politinė kova Lietuvoje nurimo soste įsitvirtinus 1440 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181917
+
+- id: c-165412
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    sykiu su pranciškonais daug prisidėjo tą tikėjimą įtvirtinant
+    Vilniuje. Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­
+    mėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­
+    kalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­
+    menė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o
+    gal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,
+    smurtu užėmusi pranciškonų vienuolyną, septynis vienuo­
+    lius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos
+    bėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms
+    atminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios
+    19
+    Waddyngas,  Mažesniųjų brolių
+    ordino istorijos autorius, ir jo komen­
+    tatorius Antoni Melissanius
+    de Macro pasakoja, kad dar 1333
+    metais (prieš Gedimino mirtį) Pet­
+    ras Goštautas, būdamas Podolės vai­
+    vada, iš Rusios ir Podolės atkvietęs
+    į Vilnių keturiolika Šv.
+  citata_rodoma: "Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­\nmėjęs sostą, netrukus išvyko iš sostinės, o Goštautą šalies rei­\nkalai prispyrė keliauti į Palenkę, į Tikociną, Vilniaus prastuo­\nmenė, gal Perkūno garbintojų ir šventos ugnies saugotojų, o\ngal Rytų Bažnyčios išpažinėjų pakiršinta, apie 1345 metus,\nsmurtu užėmusi pranciškonų vienuolyną, septynis vienuo­\nlius turgaus aikštėje žiauriai nužudė, o kiti septyni, kuriuos\nbėgančius sučiupo ant Plikojo kalno, kur ligi šiol jų kančioms\natminti stovi kryžiai, Vilnios upės bangose žūtį rado19. Šios\n19\nWaddyngas,  Mažesniųjų brolių\nordino istorijos autorius, ir jo komen­\ntatorius Antoni Melissanius\nde Macro pasakoja, kad dar 1333\nmetais (prieš Gedimino mirtį) Pet­\nras Goštautas, būdamas Podolės vai­\nvada, iš Rusios ir Podolės atkvietęs\nį Vilnių keturiolika Šv."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181721
+
+- id: c-165414
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Ir jų pagrindiniu dėmesio objektu, su keletą
+    išimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.
+    Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune
+    ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė. Baigusi
+    Humanitarinių mokslų fakultetą (1929), ji Lietuvos periodikoje
+    rašė daug straipsnių iš Lietuvos praeities, išspausdino (Senovė
+    1938) «Žemaičių bajorų ūkis I pusėje XIX šimtmečio», 1935 m.
+    išleido populiarų Lietuvos istorijos vadovėlį, duodama papildymui
+    «Lietuvos istorijos vaizdai ir raštai» (1939).
+  citata_rodoma: "Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune\nir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė. Baigusi\nHumanitarinių mokslų fakultetą (1929), ji Lietuvos periodikoje\nrašė daug straipsnių iš Lietuvos praeities, išspausdino (Senovė\n1938) «Žemaičių bajorų ūkis I pusėje XIX šimtmečio», 1935 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181926
+
+- id: c-165416
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    8, p. 490; Rotundą vadina: vir ju- jį garbino Janickis. Petras Roizijus,
+    281
+
+    ## Puslapis 298
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Šitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­
+    ventojų protus sujaudino nauji ir netikėti įvykiai. Dar 1539
+    metais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­
+    niaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­
+    gijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­
+    tijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo
+    naujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje
+    mokykloje išlavino net šešiasdešimt mokinių.
+  citata_rodoma: "490; Rotundą vadina: vir ju- jį garbino Janickis. Petras Roizijus,\n281\n\n## Puslapis 298\n\nVILNIAUS MIESTO ISTORIJA// TOMAS\nŠitaip klestint miestui, iki tol ramiai besiilsėjusius jo gy­\nventojų protus sujaudino nauji ir netikėti įvykiai. Dar 1539 \nmetais, Vilniaus dieceziją valdant Alšėnų kunigaikščiui Vil­\nniaus vyskupui Povilui, kunigas Abraomas Kulvietis, teolo­\ngijos daktaras, lietuvių kilmės, bet į Vilnių atvykęs iš Vokie­\ntijos, kur ilgai ėjo mokslus, pirmasis šiame mieste pasėjo \nnaujas Martyno Liuterio religijos opinijas42 ir savo įsteigtoje \nmokykloje išlavino net šešiasdešimt mokinių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181715
+
+- id: c-165417
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Postūmį įstoti į NATO ypač sustiprino lapkričio 23 dieną JAV prezidento
+    Džordžo Bušo (George Bush) Vilniuje pasakyti istoriniai žodžiai: „Mūsų
+    sąjunga pasiryžusi ginti savo nares. Tie, kurie pasirinktų Lietuvą savo
+    priešu, taptų ir Jungtinių Amerikos Valstijų priešu.“ Dž.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181722
+
+- id: c-165418
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Mat, didžiajam kunigaikščiui gy-
+    venant Krokuvoje, lenkai, jį veikdami, galėjo kištis į Lietuvos
+    reikalus. Tuo būdu 1544 m. Zigmantas Augustas apsigyveno
+    Vilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko
+    visa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181739
+
+- id: c-165419
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tuo tarpu karalius, regėdamas didįjį kunigaikštį kasdien
+    silpstantį ir būdamas tikras, kad šis jau galutinai atsisakė
+    savo sumanymo, aukštuosius didikus iš savo tarybos išsiun­
+    tė atgal į Lenkiją, kad jam netrukdytų Vytauto mirties atve­
+    ju. Mirtis ta galop ištiko 1430 metų spalio 30 dieną Trakuose,
+    gedint visai Lietuvai ir net lenkams, kuriuos tiek kartų vedė
+    į pergalingo mūšio lauką, kurių karalių tvirtu petimi parėmė
+    ir apsaugojo. Vytauto palaikai buvo atvežti į Vilnių ir iškil­
+    mingai palaidoti85.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181800
+
+- id: c-165421
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vilniaus vaitui............Kreipėsi į mus Vilniaus miesto
+    burmistrai ir tarybos nariai ir visi miestiečiai, skųsdamiesi
+    esą labai varginami dėl to, kad nesilaikai jų atžvilgiu Mag­
+    deburgo teisės ir labai juos vargini, ir esą daugelyje tų teisių
+    punktų pažeidi jų privilegijas ir kad esą labiausiai dėl to
+    viso griežtumo remiesi mūsų raštu, kurį mes anuo metu su
+    mūsų rankos parašu tau į rankas įdavėme, kad jie tau visa­
+    me kame paklustų, o esą dėl to, kad susitaręs su kokiais nors
+    vyresniaisiais kunigaikščiais ir ponais bajorais ir jiems da­
+    rai didelį spaudimą ir kad esą taip kalbi: kad noriu būti jūsų
+    didžiausias priešas, kurio priešiškumą greitai iš manęs pa­
+    tirsite.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181796
+
+- id: c-165422
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Apie 250 tūkst.
+    žmonių gyveno Lietuvos Užnemunėje. Vilnius tuomet turėjo apie 25 tūkst.
+    gyventojų, ir tai buvo trečias pagal dydį Rusijos imperijos miestas, nors be-
+    maž 10 kartų mažesnis už Sankt Peterburgą ir Maskvą. Prieš baudžiavos
+    panaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst.
+  citata_rodoma: "Vilnius tuomet turėjo apie 25 tūkst. \ngyventojų, ir tai buvo trečias pagal dydį Rusijos imperijos miestas, nors be-\nmaž 10 kartų mažesnis už Sankt Peterburgą ir Maskvą. Prieš baudžiavos \npanaikinimą Vilniaus gyventojų skaičius priartėjo prie 60 tūkst."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181940
+
+- id: c-165423
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių. Kilmingieji bajorai
+    krikštytis kviesti į Vilnių su šeimomis ir kiekvienas atskirai pašlakstytas
+    vandeniu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181843
+
+- id: c-165424
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Todėl 1569 m. Vilniuje vyskupo kvietimu pasiro-
+    dę jėzuitai gavo lėšų savo kolegijai, ateityje buvo numatę ją pertvarky-
+    ti į universitetą. Oficialiai kolegija buvo atidaryta 1570 m. liepos 17 d.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181869
+
+- id: c-165425
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    J. Dlugošas
+    mini, kad priešas, jau manęs esąs saugus,
+    viename miške buvo apsuptas ir užblokuo-
+    tas medžių užtvaromis, ir iš už jų priedan-
+    gos gausiai strėlėmis apšaudomas, buvo
+    priverstas pasiduoti. Paimtos 7 livonie-
+    čių vėliavos, kurios buvo nugabentos į
+    Vilniaus šv. Stanislovo bažnyčią - katedrą
+    kaip pergalės simbolis.
+  citata_rodoma: "Dlugošas\nmini, kad priešas, jau manęs esąs saugus,\nviename miške buvo apsuptas ir užblokuo-\ntas medžių užtvaromis, ir iš už jų priedan-\ngos gausiai strėlėmis apšaudomas, buvo\npriverstas pasiduoti. Paimtos 7 livonie-\nčių vėliavos, kurios buvo nugabentos į\nVilniaus šv. Stanislovo bažnyčią - katedrą\nkaip pergalės simbolis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181875
+
+- id: c-165426
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Per 15 metų po Algirdo mirties, ypač vidaus kovų dešimtme­
+    tyje (1382-92), Lietuvoje buvo įvykę žymių pasikeitimų. Bet tuo
+    pat laiku, nesant Vilniuje stiprios valdžios, Gediminaičių rytuose
+    įgytosios sritys ėmė atsipalaiduoti ir netekti glaudaus ryšio su
+    centru. Energingos Vytauto reformos ir naujų žemių laimėjimai
+    užtikrino jam jėgą rytuose, kokios iki tol nebuvo įgijęs jokis Ge­
+    diminaitis.
+  citata_rodoma: "Bet tuo\npat laiku, nesant Vilniuje stiprios valdžios, Gediminaičių rytuose\nįgytosios sritys ėmė atsipalaiduoti ir netekti glaudaus ryšio su\ncentru. Energingos Vytauto reformos ir naujų žemių laimėjimai\nužtikrino jam jėgą rytuose, kokios iki tol nebuvo įgijęs jokis Ge­\ndiminaitis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181635
+
+- id: c-165427
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Lietuvos
+    istorijos tyrinėtojams Vilniaus gaisras apie tą laiką nėra ži­
+    nomas).
+    Copia
+    Minen wilgen Horsam mit gantzer Stedicheit tonoren Er-
+    same lene Her Mester Wetet dat ik enen Dener gesant kadde
+    tor Vylle vnd ke seckt tidunge dat de stat tor Vylle altomale
+    vorkrant sy vnd de dom de is ok vorkrant vnd des Königes
+    Kemenade (Scklosz-Gewölke, Sckatz-Kammer) de is vork-
+    rannt mit alle dėmė sckatte vnd Kleynoede dat darynne was
+    ok so sint dėmė Könige Vitoweten vorkrant Xj Hyngeste Sun­
+    der ander Perde vnd ander Quek (Viek) in eyme stalle vnd vte
+    dėmė stalle dar was dat vner ute gekomen vnd des Königes
+    Hofdar selnest tor Vylle de is ok altomale vorkrant vnd vėlė
+    ---- • ----
+    168
+
+    ## Puslapis 185
+
+    Il KNYGA
+    Kopija
+    Pirmiausia, Jūsų Malonybe Pone Magistrė, būdamas nuo­
+    lankus ir ištikimai tarnystę Jums eidamas, pranešu, kad bu­
+    vau pasiuntęs tarną į Vilnių, o pastarasis man atnešė žinią,
+    jog Vilniaus miestas visiškai sudegė; katedra ir karaliaus
+    iždas su visais jame buvusiais turtais bei brangenybėmis ir­
+    gi sudegė. Be to, dar (dėmė Könige) sudegė Vytauto vienuoli­
+    ka eržilų, be kitų žirgų ir gyvulių arklidėse, kur būtent užsi­
+    plieskė ugnis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181758
+
+- id: c-165428
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1506 m. vasarą totoriai įsiveržė į LDK valdas
+    gerai nusiteikę. Prieš metus įvykęs jų žygis
+    leido jiems „smagintis“ Vilniaus ir Polocko,
+    Vitebsko ir Drucko, Naugarduko ir Slucko
+    apylinkėse - tikrajame LDK branduolyje,
+    tankiausiai apgyventame ir turtingiausiame
+    krašte. Totoriai neturėjo pagrindo įtarti, kad
+    sėkmė nuo jų šį kartą nusisuks.
+  citata_rodoma: "Prieš metus įvykęs jų žygis\nleido jiems „smagintis“ Vilniaus ir Polocko,\nVitebsko ir Drucko, Naugarduko ir Slucko\napylinkėse - tikrajame LDK branduolyje,\ntankiausiai apgyventame ir turtingiausiame\nkrašte. Totoriai neturėjo pagrindo įtarti, kad\nsėkmė nuo jų šį kartą nusisuks."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181788
+
+- id: c-165429
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    —  •  —
+    137
+
+    ## Puslapis 154
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    tarp miesto gyventojų, mat nemažą dalį miestiečių sudarė
+    rusinai ir rusų vienuoliai, žmonių vadinami „čiornais", tie,
+    kurie nuo Gedimino laikų, kaip matėme, turėjo savo vie­
+    nuolyną. Tad pasiuntęs vieną iš saviškių, kuris apsukriai
+    sugebėjo prasigauti į pilis, įkalbėjo tuos „čiornus", kad pa­
+    degtų du medinius bokštus tuo metu, kai jis pradės ataką;
+    manė taip lengviau užimsiąs tvirtovę. Tačiau veltui Švit­
+    rigaila ėmėsi tos suktybės; mat vienas vienuolis, kuriam
+    buvo patikėta paslaptis, ją išdavė pilies įgulos vadui, tad
+    ir šį kartą visos pastangos užimti Vilnių nuėjo perniek, o
+    Švitrigaila su didžiuoju magistru turėjo nutraukti apgul­
+    tį54.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181701
+
+- id: c-165430
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo būdu 1544 m. Zigmantas Augustas apsigyveno
+    Vilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko
+    visa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.
+    Po tėvo mirties 1548 m. jis be jokių rinkimų savaime tapo abiejų
+    valstybių valdovu.
+  citata_rodoma: "Tuo būdu 1544 m. Zigmantas Augustas apsigyveno\nVilniuje, kaip didysis Lietuvos kunigaikštis, ir jam atiteko\nvisa valdžia Lietuvoj; tėvas pasiliko tik iždo ir užsienio reikalus.\nPo tėvo mirties 1548 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181647
+
+- id: c-165431
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Todėl belieka pasiti­
+    kėti vieninteliu plačiu šaltiniu apie krikštą, būtent, Dlugošo kro­
+    nika.
+    Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje
+    alkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo
+    liepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose
+    gerbiamus žalčius.
+  citata_rodoma: "Paties Jogailos įsakymu Vilniaus pilies papėdėje esančioje\nalkvietėje ir kitur aplink buvo sunaikinti aukų židiniai. Buvo\nliepta iškirsti šventais laikomus medžius ir giraites, išmušti namuose\ngerbiamus žalčius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181829
+
+- id: c-165433
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nustatyta, kad vietos bajorai
+    gali dirbti vietos administracijos įstaigose tik tada, kai 10 metų atidirbs
+    kitose Rusijos gubernijose.
+    1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-
+    ciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-
+    siteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų
+    ministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-
+    gijos akademija ir Vilniaus Romos katalikų dvasinė akademija.
+  citata_rodoma: "1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo ini-\nciatorių, „Lietuvos laisvamanybės lizdą“. Tiesa, tuomet dviejų šio univer-\nsiteto fakultetų bazėje buvo įsteigtos dvi atskiros, Rusijos vidaus reikalų \nministerijai pavaldžios aukštosios mokyklos: Vilniaus medicinos-chirur-\ngijos akademija ir Vilniaus Romos katalikų dvasinė akademija."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181853
+
+- id: c-165434
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Per itin galingas Švitrigailos sąjungas radosi di­
+    desnis pasitikėjimas, o prekyba išsiplėtė net iki atokiausių
+    Vokietijos žemių. Valdant Švitrigailai, Vilniaus miestietis
+    Bomannas, tikriausiai garsus pirklys, prekiavo su Gdans­
+    ku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­
+    no žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o
+    turtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­
+    čio dvare9.
+  citata_rodoma: "Valdant Švitrigailai, Vilniaus miestietis \nBomannas, tikriausiai garsus pirklys, prekiavo su Gdans­\nku8. Silezijos, o ypač Vroclavo (1432 m.) gyventojai per Ordi­\nno žemes atvykdavo į Lietuvą ir į Vilnių su savo prekėmis, o \nturtingiausi Silezijos didikai viešėdavo didžiojo kunigaikš­\nčio dvare9."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181666
+
+- id: c-165435
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po pirmųjų SD einzatskomandų akcijų 1941 m. rugpjūčio pradžioje
+    95 proc. Lietuvos žydų dar buvo gyvi. Tačiau 1941 m. liepą reichskomi-
+    saras Heinrichas Himleris (Heinrich Himmler) pats asmeniškai apke-
+    liavo visą užimtą vakarinę SSRS dalį, perteikdamas einzatsgrupėms (A,
+    veikusiai Kaune, ir B, veikusiai Vilniuje), kad žudyti reikia ne tik žydų
+    vyrus, bet ir moteris, vaikus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181894
+
+- id: c-165437
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Reikšmingiausiu Gedimino politikos atspindžiu yra laikomi jo laiškai.
+    Nors jie dažniausiai siejami tik su pirmu Vilniaus paminėjimu rašto šal-
+    tiniuose, kartu rodo, kad Gediminas kūrė nuoseklią Lietuvos europėjimo
+    programą. Iš jų matyti labai platus (turint galvoje tarptautinę Lietuvos
+    izoliaciją) Gedimino politinis akiratis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181834
+
+- id: c-165439
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Toje teritorijoje gyveno lenkai,
+    lietuviai, latviai ir baltarusiai. Dar nesusigaudę kur pateko, vokiečiai Vil-
+    niuje išplatino atsišaukimą, kuriame Vilnius buvo pavadintas „gražiausiu
+    Lenkijos karalystės perlu“, tačiau, lietuviams užprotestavus, tuos atsišau-
+    kimus nudraskė. Vos už pusmečio vokiečiai jau gerai žinojo kur esą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181791
+
+- id: c-165440
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Prieš mūšį
+    1564 m. pradžioje, iš Maskvos į Vilnių dar
+    nespėjus parvykti pasiuntiniams su žinia,
+    kad dėl paliaubų susitarti nepavyko, į
+    Lietuvos Didžiąją Kunigaikštystę įsiveržė
+    dvi didelės - po kelias dešimtis tūkstančių
+    karių, kariuomenės. Viena jų, vadovaujama
+    kunigaikščio Baziliaus Serebriano, pajudėjo
+    iš Smolensko, kita, vadovaujama patyru-
+    sio karvedžio kunigaikščio Petro Šuiskio,
+
+    iš Polocko traukė į Drucką. Čia jos turėjo
+    susijungti ir pulti Minsko, Naugarduko, o
+    vėliau Vilniaus kryptimi.
+  citata_rodoma: "Prieš mūšį\n1564 m. pradžioje, iš Maskvos į Vilnių dar\nnespėjus parvykti pasiuntiniams su žinia,\nkad dėl paliaubų susitarti nepavyko, į\nLietuvos Didžiąją Kunigaikštystę įsiveržė\ndvi didelės - po kelias dešimtis tūkstančių\nkarių, kariuomenės. Viena jų, vadovaujama\nkunigaikščio Baziliaus Serebriano, pajudėjo\niš Smolensko, kita, vadovaujama patyru-\nsio karvedžio kunigaikščio Petro Šuiskio,\n\niš Polocko traukė į Drucką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181670
+
+- id: c-165441
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau lenkų kariškiai neskubėjo perduoti Vilniaus
+    lietuviams ir pirmi į jį įžengė Raudonosios armijos kavalerijos korpusai, o
+    Lietuvos kariuomenė – tik liepos 15-ąją jau padėjus parašus po sutartimi
+    Maskvoje... Tad Vilnių Lietuvai perdavė ne lenkai, o bolševikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181789
+
+- id: c-165443
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  citata_rodoma: ") anoji sutartis su caru \nbuvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­\ntė prekybinius Vilniaus santykius su Rusios miestais ir ska­\ntino steigti naujas užeigas pirkliams, atvykstantiems į Lie­\ntuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės. \nKaralius leido miestui pastatyti Svečių namus, kuriuose rusų \npirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie \nsavo atvykimą iškart pranešti pilininkui4 3  44."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181743
+
+- id: c-165445
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Atvykę taip pat Rygos miesto pasiun­
+    tiniai pranešė popiežiui, kad Gediminas prašęs Ordino ri­
+    terių, vyskupų ir Livonijos miestų tarpininkauti sudarant
+    taiką, kad dėl to tartasi ir kartu apsvarstytas valdovo laiškų,
+    rašytų į Vokietiją, tikrumas ir pagaliau po pasitarimų pas
+    jį išleista ori misija, kuri pagarbiai sutikta, iškilmingai pri­
+    imta ir kuri pagal turimus įgaliojimus sudarė taikos sutar­
+    tį, ištisai visą abiejų besitariančių pusių priesaikomis pa­
+    tvirtintą. Popiežiui buvo įteiktas nuorašas tos sutarties,
+    sudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv. Myko­
+    lo, išverstos iš vokiečių į lotynų kalbą.
+  citata_rodoma: "Popiežiui buvo įteiktas nuorašas tos sutarties, \nsudarytos Vilniuje, 1323 m., pirmąją savaitę po Šv. Myko­\nlo, išverstos iš vokiečių į lotynų kalbą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181645
+
+- id: c-165446
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kartu su juo yra siunčiamas ir mūsų
+    priskirtas vertėjas Asianas Abrahimovičius, taigi prašome Jū­
+    sų Malonybės, pone vaivada, o jo malonybei nesant Vilniuje,
+    Tavo Malonybei, pone vietininke ir pone vaite, liepsime, kad
+    tąjį čiaušą ir jo tarnus, kurių jis turi dvidešimt du žmones,
+    ten, Vilniaus mieste, aprūpintumėte nakvyne ir garantuotu­
+    mėte ramų, be užpuldinėjimų gyvenimą per visą tą laiką, prie­
+    šingu atveju dėl to tegu jums bus atmintis mūsų pamokymai.
+    Rašytas Gardine. 1586 metų gruodžio mėnesio 13 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181823
+
+- id: c-165447
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Napoleonas leido Vilniuje
+    įkurti savo pareigūnų prižiūrimą Laikinąją LDK vyriausybę, kuri palaikė
+    viešąją tvarką krašte ir įsipareigojo organizuoti karinius dalinius, prisidė-
+    siančius prie Napoleono kariuomenės (trečdalį jos sudarė Varšuvos kuni-
+    gaikštystės pulkai). Liepos mėn. Vilniaus katedroje, dalyvaujant Varšuvos
+    kunigaikštystės delegacijai, deklaruotas noras iš naujo susivienyti su Len-
+    kija, susigrąžinant LDK prarastas žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181897
+
+- id: c-165448
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1579 m. spalio 29 d.
+    popiežius Grigalius XIII išleido bulę, patvirtinusią Vilniaus kolegiją uni-
+    versitetu. Naujoji mokykla vadinosi Academia et Universitas Vilnensis
+    Societatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.
+    Vilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-
+    dinė Lietuvos mokykla, bet ir svarbiausias kultūros centras.
+  citata_rodoma: "Naujoji mokykla vadinosi Academia et Universitas Vilnensis \nSocietatis Iesu – Vilniaus Jėzaus draugijos akademija ir universitetas.\nVilniaus universitetas iki pat uždarymo 1832 m. buvo ne tik pagrin-\ndinė Lietuvos mokykla, bet ir svarbiausias kultūros centras."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181704
+
+- id: c-165449
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Negalėjo šios sutarties ignoruoti ir Vakarų valstybės.
+    Tačiau sutartis turėjo silpną vietą – prie jos 2 straipsnio sovietai įbruko
+    slaptą papildymą, kad Rusijos dalinių įėjimas į Lietuvos teritoriją karo su
+    Lenkija metu nebus traktuojamas kaip sutarties pažeidimas ar „nedrau-
+    giškas aktas“ prieš Lietuvą. Tai leido raudoniesiems 1920 m. liepos 14 d.
+    okupuoti Vilnių ir permesti per miestą kariuomenę į lenkų frontą – Len-
+    kijos ir Sovietų Rusijos kare Lietuva jau nebeatrodė neutrali, kaip skelbė-
+    si, o lenkams ji tapo bendro fronto prieš bolševikus išdavikė – tokią teko
+    sumokėti kainą už Vilniaus pripažinimą.
+  citata_rodoma: "Tai leido raudoniesiems 1920 m. liepos 14 d. \nokupuoti Vilnių ir permesti per miestą kariuomenę į lenkų frontą – Len-\nkijos ir Sovietų Rusijos kare Lietuva jau nebeatrodė neutrali, kaip skelbė-\nsi, o lenkams ji tapo bendro fronto prieš bolševikus išdavikė – tokią teko \nsumokėti kainą už Vilniaus pripažinimą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181948
+
+- id: c-165452
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Dlu­
+    gošas jį pavadino «Lietuvos žemės valdytoju », o žymus ordino
+    kronikininkas J. Posilge — « didžiuoju seniūnu »^25. « Didžiojo ku­
+    nigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo
+    Jogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis
+    kunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,
+    kuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių.
+  citata_rodoma: "« Didžiojo ku­\nnigaikščio » titulo Vytautas tada dar negavo^26 , ir formaliai tebuvo\nJogailos vietininkas, nors jau pačioje pradžioje elgėsi kaip didysis\nkunigaikštis. 1393 m. tarp jo ir Skirgailos vėl kilo smarkus ginčas,\nkuriam išspręsti Jogaila ir Jadvyga nuvyko į Vilnių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181659
+
+- id: c-165453
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tačiau tai ir vieni, ir kiti darė savanaudiškai, nenu-
+    matydami bendros strateginės partnerystės.
+    Galima sakyti, kad dvi svarbiausios užsienio politikos problemos –
+    Vilniaus ir Klaipėdos, – lėmė ir Lietuvos žydų bei lenkų padėtį. Netu-
+    rinčią savo stiprios vadovaujančios vidurinės klasės, nedidelę lietuvių
+    inteligentijos grupę domino žydų parama, ypač jeigu Lietuva atsikurtų
+    su sostine Vilniumi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181876
+
+- id: c-165454
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Todėl suprantama, kad po visų karų krašto ūkis
+    buvo labai sunaikintas ir negreit tegalėjo atsigauti. Miestai
+    buvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-
+    ras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti
+    ir sudeginti, o jų valstiečiai išbėgioję.
+  citata_rodoma: "Miestai\nbuvo apiplėšti ir sudeginti (1655 m. rusams užėmus Vilnių, gais-\nras jame siautė net 17 dienų). Dvarai taip pat buvo sunaikinti\nir sudeginti, o jų valstiečiai išbėgioję."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181840
+
+- id: c-165455
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Lietuviai romantikai su pagrindu didžiavosi laikais, kai Lie­
+    tuva plačiai išplėtė savo valstybingumą aname rytiniame šone iki
+    anapus Dniepro ir taip sukūrė rytų Europoje žymiausią valstybę.
+    Bet tie patys romantikai jau nebesidomėjo ir net kartais nebelaikė
+    Lietuvos istorijos dalimi laikų, kada tuose pat rytuose ant Maskvos
+    upės kranto išaugusi jėga, daugiausia yra parodžiusi aktyvumo
+    Lietuvos ir Lenkijos unijinę valstybę «išbraukti » iš žemėlapio.
+    Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino
+    sostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus
+    buvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų
+    (Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­
+    viai lydėjęs jas per tolimesnius šimtmečius.
+  citata_rodoma: "Galima sakyti jau nuo XIV amžiaus pirmos pusės į Gedimino\nsostinės Vilniaus ir į Jono Kalitos tvirtovės Kremliaus pamatus\nbuvo įmūrytas tų dviejų valstybių ir jas valdančiųjų dinastijų\n(Gediminaičių-Riurikaičių) _antagonizmas_ (H. Paszkiewicz), pasto­\nviai lydėjęs jas per tolimesnius šimtmečius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181946
+
+- id: c-165456
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Z. I v i n s k i s, 1933 m. rudenį perėmęs po A. Aleknos mirties
+    vakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­
+    kulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos
+    šaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo
+    bolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­
+    minių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.
+    1933 m. išleidęs Berlyne disertaciją apie Lietuvos valstiečių
+    luomo pradžią ir jo išsivystymą (IvB), jis paskelbė iš Lietuvos
+    ūkio istorijos «Lietuvos prekyba su Prūsais» (1 d. iki XVI amž.
+    pradžios, 1934).
+  citata_rodoma: "Aleknos mirties\nvakuojančią visuotinės istorijos katedrą Teologijos-Filosofijos fa­\nkulteto Filosofijos skyriuje, visą laiką dėstė Lietuvos istoriją, jos\nšaltinius ir jos istorinę geografiją. Jis tęsė tą darbą po pirmojo\nbolševikmečio pertraukos Filosofijos fakultete (Kaune) ir Ekono­\nminių mokslų fakultete (Vilniuje) skaitė Lietuvos ūkio istoriją.\n1933 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181819
+
+- id: c-165457
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Sūnaus brendimo ir mokslo metai praėjo Vil­
+    niuje. Baigęs gimnaziją, 1812 m. rugsėjo 22 d. jis įstojo į Vilniaus
+    universiteto Fizikos ir matematinių mokslų fakultetą. Tuo me­
+    tu Vilnius, kaip ir visa Lietuva, buvo patekusi prancūzų val­
+    džion, ir krašto bajorai, užgniaužę kvapą, laukdavo žinių apie
+    Napoleono karo kampaniją Rusijos imperijos gilumoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181941
+
+- id: c-165458
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Po susitikimo Paryžiuje su Lenkijos užsie-
+    nio reikalų ministru Augustu Zaleskiu (August Zaleski) birželio 22 dieną
+    A. Voldemarą Kauno stotyje pasitiko grupė karininkų, kurie davė jam
+    suprasti, kad tokiomis sąlygomis derybos su lenkais sulauks kietos opo-
+    zicijos. A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o
+    1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius.
+  citata_rodoma: "A. Smetona su A. Voldemaru tapo atsargesni – derybos sustojo, o \n1928 m. Lietuvos konstitucijoje Lietuvos sostine įrašytas Vilnius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181769
+
+- id: c-165459
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Bet
+    buvo atsiradę iškilesnių istorikų, kurie davė mokslinių, ar pusiau
+    mokslinių tyrinėjimų. Ir jų pagrindiniu dėmesio objektu, su keletą
+    išimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.
+    Pirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune
+    ir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė.
+  citata_rodoma: "Ir jų pagrindiniu dėmesio objektu, su keletą\nišimčių, buvo anie romantikų išgarbintieji Lietuvos galybės laikai.\nPirmiausia minėtina žymi veikėja ir istorijos mokytoja Kaune\nir Vilniuje (iki 1944) V. Daugirdaitė-Sruogienė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181673
+
+- id: c-165460
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Vyguntas, būdamas
+    Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos
+    galvos, nes pati Kernavės kunigaikštija buvo maža. Kad šito­
+    kia reforma buvo manoma padaryti, rodo ir šis faktas. 1391 m.
+    liepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus
+    ir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo
+    broliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila
+    ir jo palikuonys.
+  citata_rodoma: "1391 m.\nliepos 22 d. Jogaila išdavė Skirgailai dokumentą, kad Vilniaus\nir kitų miestų be jo žinios niekam neatiduos, net ir tikram savo\nbroliui, ir kad Vilnių ir kitus miestus valdys tiesiog pats Jogaila\nir jo palikuonys."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-181832
+
+- id: c-167200
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po mūšio galutinai
+    įsigalėjo nuomonė, kad rusai atvirame
+    lauke negali atsispirti lietuviams.
+
+    Kilmingi žuvusieji buvo atvežti ir palai-
+    doti Vilniuje. Čia, valdovui grįžus, įvyko
+    triumfo iškilmės, eisenoje buvo vedami
+    belaisviai Maskvos karvedžiai ir kariai,
+    Vilniaus katedroje pakabintos trofėjinės
+    vėliavos.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183815
+
+- id: c-167261
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai kurie miestai tvarkėsi bendruomeninio val­
+    dymo pavyzdžiu, bet visas kraštas, tempdamas kietą Kap-
+    čiako chanų jungą, tebuvo kruvinų žudynių ir niokojimų
+    laukas. Gediminas, supamas tokių įvairių kaimyninio val­
+    dymo elementų, savo valstybėje turėdamas net dvi skirtin­
+    gų kalbų ir religijų, lietuvių ir rusų, tautas, savo naujos, per
+    jį iškilusios, monarchijos galią grindė tvirtesne negu buvo
+    ligi šiol kunigaikščių, įvairiais laikais pajungtų, sąjunga ir
+    abiejų tautų riterių priklausomybe aukščiausiajai jo feodali­
+    nei valdžiai. Vilnius, Gedimino dėka nuo mažos gyvenvie­
+    tės iškilęs iki miesto lygmens, buvo išrinktas visos Lietuvos
+    karalystės sostine.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183876
+
+- id: c-167262
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jurgio vėliava puolė į mūšį Ordino
+    riteriai, bet, narsiai lietuvių atremti, patyrę didelių nuosto­
+    lių, turėjo grįžti prie likusių karių. Tačiau mūšio metu į me­
+    dinius miesto namus mestas deglas sukėlė didžiulį gaisrą,
+    per kurį didelę Vilniaus dalį pasiglemžė ugnis. Tas pašėlęs
+    lietuvių priešinimasis nė kiek neatbaidė vokiečių nuo kas­
+    metinių žygių iki pat Vilniaus, kuris tolydžio gyveno apim­
+    tas naujo puolimo grėsmės; 1384 metais, nepaisant skaudžių
+    netekčių, Ordino patirtų Lietuvoje, jo antpuoliai jau siekda­
+    vo Kernavę, bet lemtinga Jogailos ir Skirgailos pergalė prieš
+    Ragainės komtūrą, laimėta tarp Vilniaus ir Ukmergės, ir vi­
+    siškas pastarojo kariaunos sunaikinimas tąkart apsaugojo
+    sostinę nuo puolimo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183877
+
+- id: c-168540
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 225"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 225."
+  citata_originali: |
+    Kol jis pats gyveno
+    Vilniuje, krikščionių tikėjimo skelbėjai buvo saugūs,
+    tačiau, jam išvykus (kartą iškeliavo į Tikociną Palen­
+    kėję, arba Poleksijoje), minia, kažin kieno sukursty­
+    ta, žiauriai su jais susidorojo. Vienas būrelis iš sep­
+    tynių vienuolių buvo prievarta išvilktas iš namų į aikš­
+    tę, kur jie, miniai piktažodžiaujant, buvo nukirsdinti,
+    tuo būdu pašventindami savo krauju lietuvių žemes
+    Kristaus mokslo sėjai; kitas būrelis, taip pat iš septy­
+    nių vienuolių, buvo nutemptas į kalną, kurį žmonės
+    vadina Plikuoju, čia juos prie kryžių pririšo ir nuo
+    stataus kalno šlaito nustūmė į papėdėje tekančią Vil­
+    nią. Šventus nužudytųjų kūnus Goštautas įsakė surasti
+    ir palaidoti toje pačioje aikštėje, kur jie skelbė Kris­
+    taus žodį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185179
+
+- id: c-168541
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Todėl, neilgai laukęs, nutarė pulti
+    priešą, kol dar tas kaip reikiant nesutvirtino stovyklos.
+    322
+
+    ## Puslapis 321
+
+    Jis pakėlė J kovą visus narsiausius vyrus, surikiavo
+    kautynių rikiuotę už pylimo, įvairiems būriams paskirs­
+    tė skirtingus uždavinius, o tada, nuolaidžiais Vilnios
+    krantais slapta išvedęs kariuomenę, užpuolė vokiečių
+    stovyklą. Priešas netrukus buvo išstumtas iš artimiau­
+    sių pozicijų, daugybė kryžiuočių žuvo ar pateko į ne­
+    laisvę, tuo tarpu lietuviai neprarado nė vieno kario.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185180
+
+- id: c-168542
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 5."
+  citata_originali: |
+    Po
+    poros metų A. Kojelavičius pasiunčiamas į Nesvyžiaus
+    kolegiją tęsti studijų. Jas baigęs, grįžo į Vilnių, į teo­
+    logijos fakultetą. Studijuodamas dėstė retoriką vieti­
+    nėje kolegijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185181
+
+- id: c-168543
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 205"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 205."
+  citata_originali: |
+    Mūsų laikus jis
+    pasiekė taip viskuo garsėdamas, kad su įžymiaisiais
+    miestais gali lenktyniauti. Savo didumu, turtais, gy­
+    ventojų gausumu, atvykstančių svetimšalių įvairove ir
+    daugumu, šventovių didybe, universitetu, prekybos
+    platumu ir kitais miestus puošiančiais dalykais Vilnius
+    yra garsiausias iš visų sarmatų miestų: jis — valdovų
+    buveinė, teismų, mokslo ir prekybos, bažnytinio ir vals­
+    tybinio gyvenimo centras. Nieko jo garbei netrūksta,
+    išskyrus tai, ko ir turėjo trūkti tautoje, kuri Laisvę ir
+    Taiką užsitikrindavo ne sienomis ir pylimais, o pilie­
+    čių narsumu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185182
+
+- id: c-168544
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 221"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 221."
+  citata_originali: |
+    Pasiuntinys elgėsi išdidžiai ir atšiauriai: mat ne
+    tiek karą skelbė, kiek grasino visokeriopomis bėdo­
+    mis. Atnešęs ugnį bei kalaviją, tarė: šių dovanų tegu
+    laukiąs iš jo kunigaikščio Vilniuje per Velykas, kai,
+    per metus pavergęs visą Lietuvą, Maskvos valdovas
+    ten įžengsiąs nugalėtoju. Jeigu norįs laiku išvengti to­
+    kio žymaus valdovo rūstybės, tegu pasitraukiąs iš Ru­
+    sios, o Lietuvą perleidžiąs Maskvos kunigaikščiui,
+    tegu nedelsdamas imąs mokėti duoklę, kokią privalo
+    mokėti valdinys.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185183
+
+- id: c-168545
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Palankumą krikščionybei jis, be to, parodė,
+    žiauriai tuo metu atkeršydamas už krikščionių šventi­
+    kų nužudymą. Vilniaus vaivada Petras Goštautas, ve-
+    A lg iid a s
+    įžen g ia
+    į
+    M a s k v o s  m ie stą  ir įs­
+    m e ig ia
+    ie tį
+    į
+    p ilies
+    v a r tu s
+    226
+
+    ## Puslapis 225
+
+    dęs kilmingiausią lenkų mergelę, paeinančią iš Bučac-
+    kių šeimos, viešai tapo Romos apeigų krikščioniu; ir
+    dėl savo asmeniško pamaldumo, ir norėdamas skleisti
+    tarp savo gentainių Kristaus žodį, jis pakvietė į Vil­
+    nių švento Pranciškaus ordino vienuolių ir juos įkur­
+    dino toje aikštėje, kur dabar
+    1333 m e ta i
+    pastatyta šv. Kryžiaus baž­
+    nytėlė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185184
+
+- id: c-168546
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Mat tuo metu
+    paaiškėjo, kad Jonušas nesuteiks pagalbos; anaiptol,
+    nutaręs, jog dabar tinkama proga nebaudžiamam su­
+    laužyti sutartį, jis užpuolė Poleksiją ir, staiga įsiver­
+    žęs, užėmė Drohičiną, Melniką, Suražą bei Kamenecą.
+    2 7 0
+
+    ## Puslapis 269
+
+    Be to, Jogaila, sulaukęs paramos iš Livonijos ir Prūsi­
+    jos, jau traukė su kariuomene iš Vilniaus. Kęstutis ži­
+    nojo, kad priešas vedasi didžiulę kariuomenę, kuriai
+    jie neprilygsta nei ginkluote, nei karių skaičiumi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185185
+
+- id: c-168547
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 270"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 270."
+  citata_originali: |
+    Reikią dar kelių valan­
+    dų galutinai susitarti, o kadangi jau temsta, reikėtų
+    atidėti rytdienai. Kadangi susitarė dėl daugelio klausi­
+    mų, nesą jokio reikalo tokioje nepatogioje vietoje to­
+    liau vargti, geriau visiems joti į Vilnių, ten, naktį
+    pailsėję bei draugiškai papuotavę, jie padarysią pra­
+    džią būsimam susitarimui, o rytoj galutinai užbaigsią
+    tartis. Ir Kęstutis, ir Vytautas, ir keli didikai, kurie ten
+    buvo atlydėję kunigaikščius, pajuto, kur sukama, su­
+    prato, ką galvoja Jogaila, sakydamas tuos žodžius, ta­
+    čiau dabar jie galėjo tik smerkti savo aklą neapdairu­
+    mą, atvedusį juos į šias pasalas, nes nieko nebuvo
+    galima atitaisyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185186
+
+- id: c-168548
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 271"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 271."
+  citata_originali: |
+    Mat nei geros savijautos,
+    nei pasitikėjimo duotu žodžiu negali būti tada, kai,
+    susitarus dėl ko su priešu, šis nepaliauja galvojęs apie
+    naudą. Tą pačią naktį Jogaila, pamynęs draugystės bei
+    giminystės ryšius, sulaužęs priesaiką ir sutrypęs sve­
+    tingumą, įsakė suimti Kęstutį bei Vytautą: pirmąjį
+    liepė nuvežti į Krėvą, antrąjį — įkalinti Vilniuje. Ši­
+    taip tas didvyris, ne vieną kartą ištrūkęs iš priešo na­
+    gų, dėl savo sumanumo tikras Lietuvos Odisėjas, o
+    dėl narsumo — Achilas, žuvo gimtajame krašte per
+    brolėno kaltę: penktą naktį
+    Jogailos
+    pasiųsti
+    budeliai
+    (žymiausi
+    iš
+    jų — valdovo
+    miegamojo prižiūrėtojai Pro-
+    kša, Bilgenis, Lisica ir kiti)
+    Krėvos kalėjime jį pasmaugė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185187
+
+- id: c-168549
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 327"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 327."
+  citata_originali: |
+    Todėl kuo greičiausiai patraukė su savo
+    vyrais prie tvirtovių, be jokio vargo užėmė beveik ne­
+    ginamus įtvirtinimus, juos nusiaubė, sudegino, sugriovė
+    ir po pergalės sugrįžo pas saviškius. Išsiuntęs žygūną,
+    turintį Olesnickiui pranešti apie jo atvykimą, patraukė
+    liesiai į Vilnių. Olesnickis, iš anksto gavęs karaliaus
+    nurodymus, nerimastingai visą laiką laukė Vytauto,
+    dabar, rodydamas atvykusiam visokiausią prielankumą,
+    įlydėjo jį į miestą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185188
+
+- id: c-168550
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 344"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 344."
+  citata_originali: |
+    Perdavus pilį ir visą Podolę vėl prijungus prie Lietuvos,
+    pilyse bei miestuose paliko lietuvių karių įgulas ir lietu­
+    vių kilmės vietininkus. Kunigaikštį Teodorą su šeimy­
+    na išgabeno į Vilnių. Po šio
+    Su len k a is tariasi d ė l
+    žygio smarkiai sunerimo len-
+    P o d o lės v a ld y m o
+    kai, būgštaudami, kad Vytau­
+    to pergalės nepaverstų nie­
+    kais jų senų ketinimų valdyti Podolę, ypač dėl to, kad
+    Vytautas, gerai prisimindamas karus, kuriuos vedė Al­
+    girdo vadovaujami lietuviai, vydami iš Podolės skitus,
+    neslėpė, jog šią žemę jis imąs į savo rankas ne tik kaip
+    karo laimikį, atitekusį po pergalingo karo, bet ir kaip
+    seną, teisėtai jam priklausančią valdą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185189
+
+- id: c-168551
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 424"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 424."
+  citata_originali: |
+    Lenkams rodėsi įtartinas šitoks netikėtas Vytauto nuo­
+    lankumas, todėl dabar, kaip ir anksčiau, ryžtingai ne­
+    pritarė karaliaus kelionei į Lietuvą; kai šis galop su­
+    siruošė į kelią, priskyrė jam kelis senatorius, garsėju­
+    sius tvirtumu bei atkaklumu. Iškilmingai sutiktas prie
+    Lietuvos sienų, karalius buvo iškilmingai palydėtas į
+    Vilnių. Po kelias dienas už-
+    P rašo ir k u rsto
+    trukusių pobūvių ir priėmi­
+    mų, surengtų karaliui bei
+    lenkų didikams, Vytautas, pasikvietęs valdovą vienui
+    vieną, be palydovų, pats užvedė kalbą apie tai, kas ne­
+    seniai dėjosi, ir išklojo, kas jam gulėjo ant širdies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185190
+
+- id: c-168552
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 468"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 468."
+  citata_originali: |
+    Patekęs į tokią ne­
+    aiškią padėtį, jis, be galo išsi­
+    gandęs ir nė nemėginęs bėgti, nes šitaip dar labiau bū­
+    tų pabloginęs savo padėtį, nušoko nuo žirgo ir, puolęs
+    Kazimierui po kojų, jį pasveikino kaip Lietuvos didįjį
+    kunigaikštį bei nuolankiai paprašė nubausti jo tėvo žu­
+    dikus, o jo paties, visiškai atsiduodančio valdovo malo­
+    nei, neatiduoti žmogžudžiams. Kazimieras, maloniai pri­
+    ėmęs ir atidžiai išklausęs, leido jam, pažadėjęs savo ma­
+    lonę, laisvai toliau žygiuoti, o pats patraukė į Vilnių ir
+    netrukus atvyko į miestą sveikinamas didžiulės minios
+    žmonių, karštai trokštančių jį išvysti ir puoselėjančių
+    viltį, jog štai galop įsiviešpataus ramybė.
+    Čia lenkai ir lietuviai vėl pradėjo nesutarti, nes pir­
+    mieji atkakliai laikėsi nuomo­
+    nės, jog Kazimieras negalįs
+    būti, nepažeidžiant susitarimo,
+    išrinktas Lietuvos didžiuoju
+    kunigaikščiu, nes negalima
+    pakelti į sostą to, kuriam ka­
+    ralius Vladislovas leidęs valdyti Lietuvą kaip savo vie­
+    tininkui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185191
+
+- id: c-168553
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 470"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 470."
+  citata_originali: |
+    Štai todėl,
+    pasitaręs su Lietuvos senatu, Kazimieras išsiuntė į Len­
+    kiją šio krašto didikus gausiai juos apdovanojęs ir dar
+    daugiau dovanų pažadėjęs.
+    S u šau kia se im ą
+    Po to, nutaręs deramai su­
+    tvarkyti valstybės reikalus,
+    sušaukė Vilniuje seimą pasistengęs, kad jame dalyvau­
+    tų kuo daugiau žmonių. Tuo tarpu rūmų maršalui Jonui
+    Goštautui įsakė apvalyti Palenkę nuo priešų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185192
+
+- id: c-168554
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 537"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 537."
+  citata_originali: |
+    Įžeistos širdys
+    visur pradėjo matyti įžeidinėjimą ir godžiai klausytis
+    tų, kurie patarė atsiskirti. Visa tai, kas tarp jų ir kitų
+    Lietuvos didikų Vilniuje dėjosi, nors šitaip n eišv en g ia­
+    m ai ir turėjo dėtis tarp skirtingo tikėjimo bei auklėji­
+    mo žmonių, jie d a b a r suprato kaip sav ęs niekinimą ir
+    pradėjo taip nekęsti Lietuvos, kad n e t įniko veidmainin­
+    gai skųstis, jog, juos priimant, buvęs užgautas jų oru­
+    mas. Beje, d a r vienas dalykas užgavo jiems širdis:
+    k a raliu s mat buvo išleidęs
+    Rusai
+    v e r č ia m i
+    pri-
+    griežtus potvarkius,
+    k u riais
+    p a žin ti u n iją  su Ro-
+    sakėsi
+    remiąs
+    Florencijoje
+    m o s b a žn y č ia
+    sudarytą Romos bažnyčios su­
+    sitarimą su Rytų bažnyčia ti­
+    kėjimo reikalais, tuo užgaudamas p ase k ėju s Rytų schi­
+    zmos, kurios atkakliai laikėsi Seversko didikai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185193
+
+- id: c-168555
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 583"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 583."
+  citata_originali: |
+    Žmonės pa­
+    sakojo, kad šimtą tūkstančių žmonių, jaunų ir stiprių,
+    priešas išsivarė iš Baltarusijos ir Lietuvos į nelaisvę,
+    neskaitant žuvusių visokiausiose skerdynėse nuo kar­
+    do senių bei vaikų. Po priešo niokojamo antpuolio
+    Minske ir kituose miestuose užėjo maras. Dažni skitų
+    žygiai į Lietuvos gilumą paskatino luomus geriau su­
+    tvirtinti Vilnių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185194
+
+- id: c-168557
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 652"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 652."
+  citata_originali: |
+    Kai Vasilijaus legatai patvirtino šį susi­
+    tarimą karaliaus bei senato
+    M a sk v o s v a ld o v a s  ti-
+    akivaizdoje, susiderėjo, kad
+    tu lu o ja m a s d id žiu o ju
+    pasieniuose kylantiems gin-
+    v is o s  R u sios v a ld o v u
+    čams spręsti abi šalys pas-
+    kirsiančios nepaprastus tei­
+    sėjus, kurie ir teis kaimynystėje gyvenančius žmones.
+    Ta pati pasiuntinybė pareikalavo, kad po visą Lietu­
+    vą išmėtyti maskvėnų belaisviai būtų suvaryti į Vilnių
+    ir geriau užlaikomi. Šios paliaubos iš tiesų laiku suda­
+    rytos, nes tuo metu karalius
+    Ž ū sta
+    L iu d vik a s,
+    didžiai liūdėjo dėl jo šeimą
+    V e n g rijo s ka ra liu s
+    ištikusios nelaimės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185196
+
+- id: c-168558
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 655"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 655."
+  citata_originali: |
+    Galop jis pa­
+    prašė leisti laisvai sugrįžti į Maskvą tiems pirkliams
+    ir žygūnams, kurie buvo sulaikyti, kai maskvėnai su­
+    ėmė karališkuosius teisėjus.
+    Sugrįžęs iš Maskvos, Jes-
+    manas išvydo karalių bei ka­
+    ralienę Vilniuje. Karalius, su­
+    laukęs senyvo amžiaus, nuo­
+    gąstavo, kad, jam staiga mi­
+    rus, jo sūnus Augustas, dar
+    visai vaikas, beje, tokio am­
+    žiaus, kada nepajėgiama valdyti valstybės, gali netekti
+    Lenkijos sosto, o sudarius lenkams bei lietuviams nau­
+    ją susitarimą,— ir Lietuvos kunigaikštystės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185197
+
+- id: c-168559
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 683"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 683."
+  citata_originali: |
+    Stanislovo bazilikoje. Tuo
+    tarpu Lietuvą užgriuvo siaubingas badas, o Volynę nu­
+    siaubė skitai, kurie staigiu antpuoliu nuniokojo dide­
+    lius plotus, užėmė ir sudegino Braclavą ir nebaudžiami
+    išsigabeno didžiulį grobį bei išsivarė daugybę belais­
+    vių. Rugsėjo pabaigoje luomai susirinko Vilniuje į
+    seimą, kuriame karalius pareikalavo, kad liautųsi pa­
+    vojingai kivirčijęsi Trakų vaivada Mikalojus Radvila
+    ir Vitebsko Stanislovas Kiška, nes gerai žinojo, kad
+    niekas taip nekenkia visuomenės reikalams, kaip as­
+    meniniai atskirų didikų nesutarimai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185198
+
+- id: c-168560
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 694"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 694."
+  citata_originali: |
+    Nauji tikybiniai įsitikinimai laisvai plito po didikų
+    bei bajorų dvarus, nuolatos pripilamų taurių kurstomi,
+    kėlė galvą per puotas ir gėrynes, tačiau kelias į baž­
+    nyčias jiems ilgai buvo užkirstas. Galop Vilniuje, gy­
+    vam tebesant vyskupui Povilui, kažkoks Viklifo pase­
+    kėjas, apsirengęs kunigo rūbais, gavo iš vyskupo lei­
+    dimą kalbėti šv. Onos bažnyčioje apie tikėjimo dalykus
+    vokiečių kilmės žmonėms, amatininkams ir pirkliams,
+    ir ten pat laikyti pamaldas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185199
+
+- id: c-168561
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 701"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 701."
+  citata_originali: |
+    Patyrinėjęs, ką šiuo reikalu
+    mano lenkai, ir sužinojęs, jog jiems visai nerūpi Livo­
+    nija, karalius, šiek tiek padrąsinęs Gotardą, nusiuntė jį
+    į Lietuvą, sakydamas, kad ten ir bus dėl visko susitarta.
+    Kadangi žmogus kur kas žvaliau imasi to reikalo, kurį
+    laisva valia pats pasiūlo, karalius sušaukė Vilniuje ba­
+    jorų seimą, norėdamas deramai nuteikti lietuvius. Sako,
+    suvažiavo į seimą galybė ba-
+    L ie tu v ia i k e tin a  gin-
+    jorų, kurie daug ką jame lai-
+    ti L iv o n iją
+    mėjo, nes karalius visa ko
+    prižadėjo ir visus pažadus
+    ištesėjo, trokšdamas, kad šie pritartų jo sumanymams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185200
+
+- id: c-170611
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 172"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 172."
+  citata_originali: |
+    Ir sutarė dieną, kurią jie turės būti prie
+    Vilniaus.
+    Mūsų tėvas Kęstutis paskirtą dieną atvyko prie Vil­
+    niaus pilies, o kunigaikštis Algirdas negalėjo atvykti.
+    Ir mūsų tėvas kunigaikštis Kęstutis užėmė Vilnių ir
+    išvijo iš tenai Jaunutį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187670
+
+- id: c-170612
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Kunigaikštis Jogaila ir kunigaikštis Vy­
+    tautas, jų tėvams dar gyviems esant, buvo labai su­
+    sidraugavę.
+    O paskui didysis kunigaikštis Algirdas 1377 me­
+    tais3 5  pasimirė. Didysis kunigaikštis Kęstutis, atsižvelg­
+    damas j susitarimą bei savo brolišką meilę ir santar-
+    mę, kurios ligi jo mirties buvo laikęsis, pripažino di­
+    džiuoju kunigaikščiu Vilniuje jo sūnų, didįjį kunigaikštį
+    Jogailą, ir ėmė pas jį važinėti tartis dėl reikalų, kaip
+    anksčiau, būdavo, atvažiuoja pas vyriausiąjį brolį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187671
+
+- id: c-170613
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Daugelį kitų kunigaikščių ir bajorų paėmė gyvus: ku­
+    nigaikštį Simoną, Jaunučio sūnų I S , Smolensko kuni­
+    gaikštį Glėbą, Svetoslavo sūnų l6 , kunigaikštį Glėbą,
+    Konstantino sūnų l7 , kunigaikštį Joną Tetą1 * , Levą Plak-
+    sičių '9 , ir paėmė daugelį kitų kunigaikščių.
+    Kunigaikštis Vytautas su visomis pajėgomis vėl iš­
+    žygiavo ir apgulė Vilniaus miestą, ir pradėjo šturmuoti
+    Kreivąją pilį bei šaudyti iš patrankų. Paėmė Kreivąją
+    pilį * °, o lenkų [įgula 2 I], buvusi tuomet Aukštojoje pi­
+    lyje, pasiliko ir kunigaikščio Vytauto2 2  į pilį neįsilei­
+    do.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187672
+
+- id: c-170614
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    . 8 1
+    Jo sūnus Mykoliukas, tai išgirdęs, užsidarė Trakų
+    Mažojoje pilyje2 2 , o Leliušas — Trakų Didžiojoje pily­
+    je * * , kaip buvo su Daugirdu susitarę, o Daugirdas už­
+    ėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikš­
+    čiui Švitrigailai.
+    Narbutas 2 \  įjojęs per nepakeltą tiltą, užėmė Vil­
+    niaus Aukštutinę pilį Mykoliukui * * .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187673
+
+- id: c-170615
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Netrukus iš Volynės atvyko kunigaikščiai Sanguš-
+    kos1  ir visi kiti Volynės kunigaikščiai bei bajorai ir
+    nusilenkė didžiajam kunigaikščiui Kazimierui, prisiek­
+    dami jam ir Lietuvos Didžiajai Kunigaikštystei ištikimai
+    tarnauti2 . Ir didysis kunigaikštis Kazimieras priėmė
+    volyniečius, ir su visais tais Lietuvos kunigaikščiais bei
+    Tarybos ponais išvyko į Vilnių, į savo dėdės Vytauto
+    sostinę.
+    O 2ygimanto sūnus Mykoliukas, sužinojęs, kad Lie­
+    tuvos kunigaikščiai ir Ponų Taryba jau tikrai pasirin­
+    128
+
+    ## Puslapis 124
+
+    ko valdovu karalaitį Kazimierą iš Lenkijos ir Brasto­
+    j e 3  pakėlė jį Lietuvos didžiuoju kunigaikščiu, išvyko
+    iš Trakų pilies, skubėdamas į Mazoviją,4  pas savo te­
+    tą, Mazovijos kunigaikštienę Jonušienę, kadangi ji bu­
+    vo tikra jo tėvo sesuo5 , kunigaikštienės Boleslovienės
+    pamotė6 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187674
+
+- id: c-170616
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O paskui, po vestuvių, Maskvos pasiuntiniai, di­
+    džiai pagerbti ir gausiai apdovanoti, buvo išleisti at­
+    galios.
+    Tą pačią vasarą 2 6  pas didįjį kunigaikštį Aleksandrą
+    į Vilnių atvažiavo jo motina, karalienė Elžbieta, su sa­
+    vo sūnumi, jo broliu karalaičiu Fridrichu2 6  — Lenki­
+    jos kardinolu ir arkivyskupu, Krokuvos vyskupu2 7 , ir
+    su dviem dukterimis karalaitėmis — Barbora 2 8  ir Elžbie­
+    ta 2 9 . Jis priėmė jas su didžiausiu džiaugsmu ir daug
+    dienų kėlė puotas ir nesuskaičiuojamas pramogas, kaip
+    geras sūnus mylimai motinai ir kaip ištikimas brolis
+    mylimam broliui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187675
+
+- id: c-170617
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    . 2 0
+
+    ## Puslapis 171
+
+    PRIEDAI
+
+    ## Puslapis 172
+
+    Prieš mūsų tėvo tėvui žūvant, mūsų senelis 1  vieton
+    savęs davė aukščiausią valdžią Vilniuje Jaunučiui;
+    Jogailos tėvui Algirdui — valdžią Vitebske, o mano tė­
+    vui kunigaikščiui Kęstučiui—Trakuose. Ir kadangi
+    mūsų tėvai, kunigaikštis Algirdas ir kunigaikštis Kęs­
+    tutis, nuo jaunystės sutarė, o dabar pamatė jiems ku­
+    nigaikščio Jaunučio kai kurias neteisybes, tai susitarė
+    kunigaikštis Algirdas su mūsų tėvu kunigaikščiu Kęs­
+    tučiu, kad jie, šiaip ar taip, turi užimti Vilnių ir Jau­
+    nutį išvyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187676
+
+- id: c-170618
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 173"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 173."
+  citata_originali: |
+    Ir paskui mūsų tėvas patyrė iš kai kurių savo drau­
+    gų, kad kunigaikštis Jogaila be mūsų tėvo žinios, nu­
+    slėpdamas nuo mūsų tėvo, sudarė taiką su Prūsų kraštu
+    ir su Livonijos kraštu ir mūsų tėvą išdavė; tasai, kurs
+    turėjo ir prižadėjo kariauti, nebenorėjo mūsų tėvui pa­
+    dėti ir nuolatos galvojo tik, kaip mano tėvą ir mane
+    patį sugauti ir kaip mano tėvą ir mane nužudyti ir mū­
+    sų žemę pasiglemžti. Mūsų tėvas šitą tikrai patyrė
+    ir, pamatęs ant savo galvos nelaimę, nužygiavo į Vil­
+    nių, užėmė Vilnių, paėmė į nelaisvę patį kunigaikštį
+    Jogailą, ir jo brolius, ir jo motiną, ir jo visas žemes
+    bei pilis jis paėmė taip pat į savo rankas; ir jo auksą,
+    ir iždą, ir žirgyną, viską tą jis paėmė.
+    Tačiau mūsų tėvas, vengdamas apie save piktų kal­
+    bų ir nenorėdamas nieko iš savo giminės išvyti, sugrą­
+    žino jam visą jo tėvo dalį — Vitebską ir kitas sritis,
+    kurios buvo jo tėvo,— ir auksą, ir iždą, ir žirgyną, o ku­
+    nigaikštis Jogaila prižadėjo mūsų tėvui su savo motina
+    ir savo broliais ir prisiekė ištikimybę, sutvirtindamas
+    tai raštais ta prasme, kad jis Vilniaus niekados nebe-
+    reikalaus ir bus mūsų tėvui paklusnus savo tėvo dalyje
+    Vitebske.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187677
+
+- id: c-170619
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187678
+
+- id: c-170620
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 307"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 307."
+  citata_originali: |
+    ”  Maskvos kunigaikštytė Elena atvyko | Vilnių I495.II.IS ir
+    tų pačių dienų Vilniaus katedroje įvyko jos jungtuvės su Lietuvos
+    did. kunigaikščiu Aleksandru.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187679
+
+- id: c-171748
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Išsamesnėms krašto praeities studijoms istoriką galė­
+    jo paskatinti pusbrolio Justino parašyta nedidelė knygelė
+    „Trumpa lietuvių tautos istorijos bruožų apybraiža“. Tuo me­
+    tu susidomėjimas istorija buvo didelis, Vilniaus universitete
+    dėstė Joachimas Lelevelis, Ignotas Danilavičius, Ignotas Ona­
+    cevičius. Adomo Mickevičiaus draugai filomatai ir filaretai su­
+    sirinkimuose diskutavo apie krašto praeitį, liaudies padavimus
+    ir dainas, kuriose jie atsekdavo sustingusius praeities pėdsa­
+    kus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188859
+
+- id: c-171749
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 6"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 6."
+  citata_originali: |
+    Vilniuje buvo rengiamas spaudai XVI a. kroniki­
+    ninko Motiejaus Strijkovskio veikalas. Vilniaus universiteto
+    auklėtiniai vertė žymiausių XVIII-XIX a. Europos istorikų -
+    Vilhelmo Robertsono, Adomo Fergusono, Pranciškaus Petro
+    Vilhelmo Gizo, Johano Miulerio -  darbus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188860
+
+- id: c-171750
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 13"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 13."
+  citata_originali: |
+    Rusijos valdžia
+    Saurų dvarą sekvestravo. Knygas, archyvus, muziejaus ekspo­
+    natus suvežė į vieną iš Vilniaus bažnyčių, iš kurios, pasakoja­
+    ma, už rublio mokestį sargas leisdavo ten saugomą biblioteką
+    ir rankraščius išgabenti. Taip nyko dešimtmečius kaupta bib­
+    lioteka, istorijos dokumentų archyvas, nespausdinti darbai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188861
+
+- id: c-171751
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 114"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 114."
+  citata_originali: |
+    Strijkov­
+    skis, pasakodamas apie kunigaikščio Kęstučio ir Birutės vedy­
+    bas, aiškiai mini ją buvus panašia žyne, arba vestale. Mat ant
+    švento kalno prie Palangos, prie Nevėžio upės, Vilniuje ir ki­
+    tose vietose būta aukurų, kuriuose degė Amžinoji ugnis, sau­
+    goma mergelių. Jos visuotinai buvo vadinamos vaidilutėmis,
+    lietuviškai Wejdalotenie.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188862
+
+- id: c-171752
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    149
+
+    ## Puslapis 149
+
+    Neris (Neris)
+    Vilija laikoma deive arba veikiau tos upės nimfa.
+    Rankoje turiu knygelę25, kurios autorius nurodytas antraš­
+    tėje „Į skaitytoją“, dėsto eilėmis 1748 ir 1749 metais Vilniuje
+    įvykusių gaisrų nelaimingą istoriją. Toliau jis pateikia ilgą su­
+    degusių namų sąrašą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188863
+
+- id: c-171753
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 179"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 179."
+  citata_originali: |
+    Tą vardą Stenderis išveda
+    iš latviškų žodžių Berhns, lietuviškai bernas (Barnus), ir Stuh-
+    ke -  lėlė. Kitaip juos vadindavo piktukais nuo Piktas', netoli
+    Vilniaus yra Piktukonių (Piktukance) kaimas. Kitose vietose
+    vadinosi pursčiai (Puršcie).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188864
+
+- id: c-171754
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 201."
+  citata_originali: |
+    Gyvatė (Giwojte)
+    Nuodingas šliužas. Šios rūšies būtybės buvo traktuojamos
+    kaip namų dievaičiai, jas gyvas labai rūpestingai prižiūrėdavo.
+    Strijkovskis aiškiai sako, kad Vilniuje, prie didžiosios Perkū­
+    no šventyklos, tokie šliužai buvo laikomi atskiroje koplyčioje,
+    kurią ir dabar galima pamatyti Katedroje, po didžiuoju alto­
+    riumi.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188865
+
+- id: c-171755
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 204"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 204."
+  citata_originali: |
+    Burtininkių visuomet į
+    naudą išeidavo šios rūšies fetišų vartojimas.
+    Kaip buvo įsišaknijęs tikėjimas žalčiais, kaip dievais-globė-
+    jais, užtenka pateikti pavyzdį iš jėzuitų pastebėjimų XVII am­
+    žiaus pradžioje. Šie kunigai vienoje greta Vilniaus esančio kai­
+    mo mokykloje, mokydami vaikus katekizmo, ant vieno mokinio
+    kaklo pastebėjo kabantį maišelį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188866
+
+- id: c-171756
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 224."
+  citata_originali: |
+    To­
+    kie yra praamžių padavimai. XIII amžiuje, vyriausiesiems žy­
+    niams persikėlus į Lietuvą, didžioji šventykla buvo įvairiose
+    vietose, vėliau Kernavėje, pagaliau Vilniuje, joje panašiai de­
+    gė šventoji ugnis.
+    4.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188867
+
+- id: c-171757
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    242
+
+    ## Puslapis 242
+
+    je. Vilniuje praeito amžiaus pabaigoje kasant duobes kated­
+    ros bažnyčios pamatams, žemėje buvo rastas rūsys, kuris buvo
+    pilnas panašių dalykų. Tokie atradimai primena paprotį už­
+    kasti žemėje aukų likučius požemio dievų garbei.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188868
+
+- id: c-171758
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Skulptorių ir dailininkų stoką atstojo vaiz­
+    243
+
+    ## Puslapis 243
+
+    duotė. Strijkovskis kalba apie didžiulį juodą Vilniaus Perkūno
+    šventykloje esantį akmenį, iš kurio buvo įskeliama ugnis. Ta­
+    čiau mūsų istorikas šito dalyko nuodugniau neišlukštena.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188869
+
+- id: c-171759
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    304
+
+    ## Puslapis 304
+
+    tinai turi išaugti į didelį miestą, kadangi tą nuostabiai skati­
+    no ir vietos padėtis.
+    Lizdeika išaiškino sapną Gediminui po to, kai jis, nukovęs
+    didžiulį taurą ant aukščiausio kalno, stūksančio Antakalnio
+    link, -  išmanantys tėvynės istoriją dabar jį vadina Tauro kal­
+    nu -  nakvojo šventajame miške prie Vilnios ir Neries santa­
+    kos, vadintame Šventaragiu; jam prisisapnavo, kad matęs mil­
+    žinišką vilką, visą šarvuotą geležiniais šarvais, o jo viduje stau­
+    gę šimtas kitų vilkų. Tą naktį gretimame miške tikrai galėjo
+    kaukti vilkai, tad nedaug reikėjo, kad medžiotojui -  kunigaikš­
+    čiui -  kas nors panašaus prisisapnuotų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188870
+
+- id: c-173540
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 304"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 304."
+  citata_originali: |
+    Anksčiau sakėme, kad žyniai stebėdavo dangaus kūnų ju­
+    dėjimą, norėdami padalyti laiką į atkarpas, bet kadangi su jų
+    padėtimi pynėsi mitologija, tai turėjo būti žinomas ir pranaša­
+    vimas iš žvaigždžių; kaip tik todėl liaudies padavimuose žodis
+    žvaigždininkas (Zwajždinikas) -  astronomas -  turi tą pačią
+    prasmę kaip juodaknygininkas (Juodukniginikas).
+    Iš pirmiau pateiktos žinios apie Perkūno šventyklą, buvu­
+    sią Vilniuje, sužinome, kad kažkur Nemuno žemupyje būta
+    garsaus pranašo, kurio teirautasi apie tos šventyklos likimą.
+    Įvairiose vietose gyveno moterų pranašautojų, kurių pra­
+    našystėmis tikėta.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190657
+
+- id: c-173541
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    310
+
+    ## Puslapis 310
+
+    puotų likutis. Vėliau piktnaudžiavim as stipriaisiais gėrimais, ku ­
+    riuos tikriausiai pristatydavo Izraelio sūnūs ir kurie tais laikais
+    labiau išplito, Vilniaus vyskupą Abraom ą Vainą paskatino už­
+    drausti ir visiškai likviduoti tą paprotį9. Bet jis išliko iki X V II
+    amžiaus pradžios, nes Vilniaus vyskupas Bžostovskis dar 1710
+    metais tą paprotį m atė ir griežtai jį uždraudė10 1.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190658
+
+- id: c-173542
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    Lietuvos didžiojo kunigaikščio Gedimino kapas yra
+    prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio,
+    1 Principum viromm tumulis injiciunt omnes humum urtatim, et
+    avide cupientes tumulos, quam maximos efficere (Herodotas). Luka-
+    nas apie juos sako: Regum cineres extmcto monte quiescunt (Karalių
+    pelenai ilsisi supiltame kalne).
+    2 Straipsnį apie tai paskelbiau viename buvusio Tygodnik Wilenski
+    numeryje**.
+    372
+
+    ## Puslapis 372
+
+    vedančio iš Užupio į Antakalnį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190659
+
+- id: c-173543
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 377"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 377."
+  citata_originali: |
+    Pagaliau panašių atradimų retumas mūsų krašte verčia
+    daryti išvadą, kad mirusiųjų kūnai būdavo deginami retai ar­
+    ba kad pelenus dažniausiai užkasdavo induose iš medžiagos,
+    neatsparios puvimui. Vilniuje, kaip spėjama, kunigaikščių pe­
+    lenai turi būti pakasti Pilies kalne iš saulėtekio pusės, ir jei jie
+    buvo supilti į patvarias urnas, tai turėtų gulėti giliai kalne.
+    Mano kaimynystėje, prie Nočios miestelio, atsitiktinai at­
+    kasus vieną kapą, rastas akmeninis kirvukas, padarytas iš kie­
+    tos geležies.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190660
+
+- id: c-173544
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 406"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 406."
+  citata_originali: |
+    VI lentelė, 40-asis piešinys. Senasis Vilniaus miesto her­
+    bas. Čia yra tiesiog pavaizduotas milžinas Alcis, apie kurį jau
+    anksčiau kalbėjome. Jis žengia per kažkokį vandenį, ramsty-
+    damasis medžiu; ant pečių jam sėdi moteris. Aplinkui užra­
+    šas: Sigillum civiiįatis] Viln[ensis],Ann[o] VIIurb[eJ condĮita]
+    inst[itutum] (Vilniaus miesto antspaudas, įvestas 7 metais nuo
+    miesto įkūrimo).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190661
+
+- id: c-173545
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)."
+  citata_originali: |
+    O  z ¿ęM fniA ieor'
+
+    ## Puslapis 464
+
+    VI lentelė
+    39pav. Senovės lietuvių tautinis herbas: dvi karūnos -  mėlyna ir
+    geltona, pirmoji -  geltoname fone, antroji -  mėlyname. Todėl ir sky­
+    das horizontaliai turėtų būti padalytas į du tokius plotus.
+    40pav. Vilniaus miesto senovinis herbas
+    41 pav.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190662
+
+- id: c-173546
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 514"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 514."
+  citata_originali: |
+    Iš tikrųjų tais me­
+    tais vyko Lenkijos seimas Piotrkove, trukęs ilgai
+    ir sėkmingai posėdžiavęs. Tais metais karaliui Žy­
+    gimantui buvo daug darbų ir rūpesčių; mat, be ši­
+    to darbštaus seimo, dar kariavo šiaurėje karą su
+    Rusija. Romanas Sanguška kovojo kruvinus mū­
+    šius su Rusija; įvyko taip, kad karalius, Piotrkovo
+    seime parengęs abiejų tautų žygį, rudenį su ka­
+    riuomene išžygiavo iš Vilniaus, bet pasiekė tik Ra-
+    daškovičius; ten jis susitiko su caro pasiuntiniais,
+    pareiškusiais pageidavimą taikytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190663
+
+- id: c-175544
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 449"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 449."
+  citata_originali: |
+    Sunku identifikuoti ir recenzijos autorių. ,,Wizerunki i
+    Roztrząsania Naukowe“ puslapiuose anonimiškumas buvo
+    įprastas reiškinys. Šio leidinio, kuris buvo sumanytas kaip
+    šubravcų tradicijų tęsėjas, autoriai buvo aštuoniolika
+    buvusių Vilniaus universiteto profesorių, astuoni su šia
+    įstaiga nesusiję mokslininkai ir devyniolika literatų, kurių
+    dauguma buvo to universiteto absolventai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192774
+
+- id: c-175545
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 479"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 479."
+  citata_originali: |
+    Kaip buvo įsišaknijęs tikėjimas žalčiais, kaip dievais-globė-
+    jais, užtenka pateikti pavyzdį iš jėzuitų pastebėjimų XVII am­
+    žiaus pradžioje. Šie kunigai vienoje greta Vilniaus esančio kaimo
+    mokykloje, mokydami vaikus katekizmo, ant vieno mokinio kaklo
+    pastebėjo kabantį maišelį. Vaikas, paklaustas, kas ten yra, at­
+    sakė: „Mano dievas, kurį man davė motina“.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192775
+
+- id: c-175546
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 510"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 510."
+  citata_originali: |
+    Rankoje turiu nuorašą Švitrigailos
+    privilegijos, datuotos Lucke 1451 metų vasario 18 dieną, kuria jis
+    pakartoja 1439 metų kovo 3 dienos Vytauto privilegiją, taip pat
+    atnaujina Algirdo privilegiją (nuorašas), kuria patvirtinama rite­
+    riška kilmė ir herbas raudoname lauke: ryšulys strėlių, tris kartus
+    kryžmai perjuostų auksine juosta, o iš abiejų pusių du pusmėnu­
+    liai, žiūrintys vienas j kitą, ant šalmo— riterio kepurė, o abipus du
+    erelio sparnai. Herbas buvo duotas Ostapui Kropotkovui kartu su
+    Podbužo dvaru Voluinėje už nuopelnus kare su totoriais. Datuotas
+    Vilniuje 1354 metų rugpjūčio 7 dieną.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-192776
+
+- id: c-175981
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Daugelis brangeny-
+    bių buvo išvežta į Maskvą ir į Švediją. Rusai iš Vilniaus į
+    Maskvą išvežė net brangius ponų rūmų baldus, o švedai vežėsi
+    į Stokholmą net akademijos biblioteką ir daugybę kitų kultū-
+    ros turtų. Biblioteka pakeliui iš jų buvo atimta ir grąžinta, bet
+    vis dėlto daug kas buvo išvežta, o kai kas tenai tebėra dar ir
+    šiandien.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193248
+
+- id: c-175982
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tam pa-
+    čiam reikalui jėzuitai buvo atkviesti ir į Lietuvą. Čia jie pir-
+    miausia Vilniuje įkūrė savo kolegiją, o vėliau ir akademiją.
+    Nesitenkindami Vilnium, jie labai greit savo mokyklų tinklą
+    išplėtė po visą kraštą (žiūr.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193249
+
+- id: c-176155
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 590"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 590."
+  citata_originali: |
+    Galop lenkai
+    sutiko, kad Aleksandras būtų palaidotas Vilniuje, šv.
+    Stanislovo katedroje, šalia brolio šv. Kazimiero.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193433
+
+- id: c-176324
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Planinės
+    ekonomikos metais Lietuvos visuomenėje vyravo nuostata, kad, paėmus
+    į savo rankas gamybą, bus galima ją pasiskirstyti pagal savo poreikius
+    Pirmasis Prancūzijos prezidento Fransua Miterano
+    vizitas į Lietuvą. Seimo pirmininkas  Vytautas Landsbergis
+    su svečiu Vilniaus senamiestyje  prie Aušros vartų.
+    Vilnius, 1992 m.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193655
+
+- id: c-176862
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau atsižvelgdami į tai, jog jis tikriausiai
+    buvo vienuolis, menkai nutuokęs apie jam svetimo krašto
+    praeitį, tik fragmentiškai aprašęs įvykius Rusioje, - neturė­
+    tume stebėtis, kad jis viską tempė ant savo kurpalio ir, ko
+    nebuvo matęs, tą pats prikūrė. Vis dėlto gal po ta genealogi­
+    nės painiavos migla slypi krislelis tiesos, galbūt Vilnius, kaip
+    anksčiau minėjome, dar Mindaugo laikais buvo nedidelė Lie­
+    tuvos kunigaikščių valda, gal jame ir kažkoks Maukoldas
+    bus valdęs, bet šito nei tvirtai teigti, nei išsiaiškinti iki šiol
+    neįmanoma. Dlugošas nurodo, jog Vilnius yra senovinis
+    miestas, lietuvių tautos protėvių įkurtas ir gavęs vardą nuo
+    vado Viliaus, kuris juos iš Italijos atvedęs0.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194269
+
+- id: c-176863
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Antakalnis yra pava­
+    dintas arba nuo žodžių: ant-to-Kal-
+    no, arba: ant-Pakalnės, pagal tai, kaip
+    pirmasis davęs pavadinimą, Ant­
+    akalnį stebėjo; juk plaukiančiam Vi­
+    lija atrodytų esantis ant aukštumos,
+    o stovintis ant upės kranto Antakal­
+    nį regėtų plokštumoje, kalno papė­
+    dėje. Pagaliau Antakalnio vardas
+    pirm tikriausiai buvo duotas tik tai
+    vietovei, kurioje stovėjo pagonių šven­
+    tykla, o ne dabartiniam priemiesčiui,
+    109
+
+    ## Puslapis 126
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    Aplink pilį spietėsi miestas: medinės trobos, kurių didžiu­
+    ma aprūkusios nuo dūmų, nedailiai suręstos ir be jokios tvar­
+    kos palei klampius kelius išbarstytos. Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194270
+
+- id: c-176864
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Amžinam šio dalyko patikimumui šį mūsų
+    raštą savo ranka pasirašėme ir įsakėme patvirtinti antspau­
+    do prikabinimu. Aktuota ir duota Vilniuje visuotiniame sei­
+    me artimiausią antradienį po Visų šventųjų dienos tūkstan­
+    tis penki šimtai penkiasdešimt pirmaisiais Viešpaties metais,
+    o mūsų valdymo dvidešimt antraisiais. Dalyvaujant didžiai
+    gerbiamiems, šviesiesiems, didingiesiems ir kilniesiems vys­
+    kupams, maršalkoms, kaštelionams, vaivadoms ir kitiems
+    309
+
+    ## Puslapis 326
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    Magnificis et Generosis Episcopis, Marscbalcis, Castellanis,
+    Palatinis et alliis Baronibus, Consiliariis, Capitaneis, et Offi­
+    cialibus nostris sincere et fideliter nobis dilectis in diplomate
+    confirmationis nostrae expressis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194271
+
+- id: c-176865
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo raštu skel­
+    biame tokią mūsų valią, kuriai jei kas išdrįstų nepaklusti, tą
+    mūsų įsakymų niekintoją ir pažeidėją laikysime maištinin­
+    ku ir pagal mūsų sprendimą nubausime. To dalyko patiki­
+    mumui patvirtinti prie šio rašto mūsų antspaudas yra pri­
+    kabintas. Duota Vilniuje, penktadienį, rytojaus dieną po
+    Viešpaties žengimo į dangų šventės, tūkstantis penki šimtai
+    keturiasdešimt antraisiais Viešpaties metais ir mūsų kara­
+    lystės bei Lietuvos Didžiosios Kunigaikštystės valdymo tris­
+    dešimt šeštaisiais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194272
+
+- id: c-176866
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    366
+
+    ## Puslapis 383
+
+    IV  KNYGA
+    vadintųsi, nuo seno prie minėtos Mogiliavo pilies kokiu nors
+    būdu dabar esančiais ir priklausančiais bei ateityje kokios
+    nors žmogiškos veiklos ar proto dėka galinčiais atsirasti ir
+    didėti į plotį, ilgį ir aplinkui, žiūrint, kaip pačios dvaro že­
+    mės savo sienomis yra apribotos ir apibrėžtos, minėtajai mū­
+    sų žmonai, šviesiausiajai karalienei Elenai turėti, laikyti, nau­
+    dotis, taikiai ir ramiai valdyti, kaip yra pasakyta, iki gyvos
+    galvos. To viso aiškiam paliudijimui mūsų antspaudas prie
+    šio rašto yra prikabintas. Atlikta ir duota Vilniuje, antradie­
+    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
+    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
+    siais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194273
+
+- id: c-176867
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jį laikysime maištininku ir mūsų įstatymų nie­
+    kintoju ir bausime arba pagal statutą ir šios kunigaikštystės
+    papročius, arba mūsų nuožiūra. Kad šis dalykas amžinai ir
+    visais laikais galiotų, yra prikabintas mūsų antspaudas. Duo­
+    ta Vilniuje, artimiausią šeštadienį po Viešpaties žengimo į
+    dangų šventės, tūkstantis penki šimtai keturiasdešimt ant­
+    raisiais Viešpaties metais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194274
+
+- id: c-176868
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    -- •
+    418
+
+    ## Puslapis 435
+
+    IV  KNYGA
+    norime, kad po mūsų mirties keturis kartus per metus į mū­
+    sų katedros bažnyčią prie šventojo Kryžiaus altoriaus, esan­
+    čio ties šventovės viduriu, kur ir bus mūsų kūnas palaido­
+    tas, vieną tik to metų ketvirčio dieną, penktadienį, kiekvienas
+    ateitų ir, koncelebruojant prie to paties altoriaus mūsų ku­
+    nigui, kuriam ir priklauso tas altorius, dalyvautų gedulin­
+    gose mišiose, laikomose už Bursos įkūrėjo sielą, ir šią šven­
+    tą ir krikščionišką pareigą atliktų kiekvienais metais. Aktuota
+    ir duota Vilniuje, mūsų vyskupijos kurijoje bei įprastos mū­
+    sų rezidencijos name pirmadienį, po Velykų sekmadienio,
+    tūkstantis penki šimtai septyniasdešimt devintaisiais metais
+    nuo Kristaus gimimo. Šalia dalyvaujant didžiai gerbia­
+    miems, garbiesiems, prakilniesiems ir kilmingiesiems po­
+    nams dekanui Jonui Jarčevskiui, kantoriui Simonui iš Bže-
+    zinos, mūsų Vilniaus katedros bažnyčios prelatams ir
+    kanauninkams - Laurynui Volskiui, Tomui Makoveckiui,
+    Vilniaus Jėzaus Draugijos kolegijos Rektoriui tėvui Jokūbui
+    Vagronicijui, pamokslininkui Petrui Skargai, šventovės pre­
+    fektui Mykolui Sedkovskiui, abiejų teisių daktarui, karališ­
+    kajam sekretoriui, Stakliškių seniūnui, karališkojo Vilniaus
+    miesto advokatui Augustinui Rotundui Mieleskiui, mūsų
+    Vilniaus miesto piliečių advokatui, Igumenio urėdui Jonui
+    Podoskiui, mūsų virtuvininkui Motiejui Volskiui ir kitiems
+    ponams draugams ir mūsų šeimynykščiams.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194275
+
+- id: c-176869
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Die 19 9 bris [lapkričio 17 dieną] Vilniuje sumokėjau 185
+    raud. auks. po 44 gr. 2 den, po to juos pakeičiau kiekvienam
+    išleisdamas po 2 liet. den. Išlaidos lenkiškais pinigais: 1 flor.,
+    16 gr. 2 liet. den.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194276
+
+- id: c-177334
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 513"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 513."
+  citata_originali: |
+    Atvirkščiai,
+    visi prieinami tyrinėjimai rodo, kad toji tauta skyrėsi nuo lietuvių.
+    Yra dokumentinių įrodymų, jog teismuose XVI amžiuje nuospren­
+    džius sakydavo lietuviškai, o į knygas įrašydavo rusiškai, loty­
+    niškai arba lenkiškai1. Vilniuje lietuviškus pamokslus kunigai iš
+    ambonų sakydavo iki XVII amžiaus pirmojo ketvirčio2.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194938
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Hanulas]], [[objektai/asmenys/Hanulas, arba Hanka]], [[objektai/asmenys/Janas Filipovičius]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]], [[objektai/asmenys/Motiejus]], [[objektai/asmenys/Petras Pliuščius]], [[objektai/grupes/Rusai]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Stanislovas Sabina]], [[objektai/asmenys/Steponas Batoras]], [[objektai/grupes/Vilniaus magistratas]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Buvo kelionės vieta: [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]], [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Aleksandras]], [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]], [[objektai/asmenys/Augustas]], [[objektai/grupes/Bajorai]], [[objektai/grupes/Bernardinų ordinas]], [[objektai/asmenys/Chariničius]], [[objektai/asmenys/Daugirdas]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Dobrogostas]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Elžbieta]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Geremferdenas]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Gregorijus Cemblakas]], [[objektai/asmenys/Henrikas Plauenas]], [[objektai/asmenys/Ivanas Jermoliničius]], [[objektai/asmenys/Ivanas Sidorovičius]], [[objektai/asmenys/Jadvyga]], [[objektai/asmenys/Jadvyga Jogailienė]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Joachimas Pavlovičius]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Laskis]], [[objektai/asmenys/Jonas Marija]], [[objektai/asmenys/Jonas Ritvianskis]], [[objektai/asmenys/Jonas Zabžezinskis]], [[objektai/asmenys/Julija Žymantienė-Žemaitė]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Krymo orda]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/L. Želigovskis]], [[objektai/grupes/Leibgvardijos lietuviškasis pėstininkų pulkas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Liucijanas Želigovskis]], [[objektai/asmenys/Martynas Ostrovskis]], [[objektai/grupes/Maskvos kunigaikštystė]], [[objektai/grupes/Maskvos pasiuntiniai]], [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]], [[objektai/grupes/Mazovijos kunigaikščiai]], [[objektai/asmenys/Mikalojus Michalovskis]], [[objektai/asmenys/Mykolas Glinskis]], [[objektai/asmenys/Mykolas Rusalka]], [[objektai/grupes/oji rezervo divizija]], [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Petras Kriaučiūnas]], [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]], [[objektai/asmenys/Pisonas]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Respublikonai]], [[objektai/asmenys/Rumbautas]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenės korpusas]], [[objektai/grupes/Rusų pirkliai]], [[objektai/grupes/Sapiegos]], [[objektai/grupes/Silezijos ir Vroclavo gyventojai]], [[objektai/asmenys/Silvestras Levontjevičius]], [[objektai/asmenys/Snorro Sturleson]], [[objektai/asmenys/Stanislovas Ostrorogas]], [[objektai/asmenys/Stanislovas Ratka]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Šach Achmedas]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vladislavas Ačalovas]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Vokiečių pirkliai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]], [[objektai/asmenys/Žygimantas Senasis]]
-- Gimimo vieta: [[objektai/asmenys/Andrius (Vilniaus vyskupas)]], [[objektai/asmenys/Jascha Heifetz]], [[objektai/asmenys/Jonas Lasavičius]], [[objektai/asmenys/Senda Berenson-Abbot]]
-- Mirties vieta: [[objektai/asmenys/Aleksandras Balinskis]], [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Algardas Hohenšteino grafas]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]], [[objektai/asmenys/Jurgis Astikas]], [[objektai/asmenys/Kazimieras Karigaila]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Zigmantas Sierakauskas]]
-- Turėjo palaidotą asmenį: [[objektai/asmenys/Kasparas Bekešas]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Žygimantas]], [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]
-- Buvo pastatyta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Bona Sforca]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Konstantinas Ostrogiškis]], [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]]
-- Puolė Vilnių: [[objektai/grupes/7-ojo fuzilierių regimento]], [[objektai/grupes/Anglai]], [[objektai/asmenys/Gotfridas Lindenas]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Krymo totoriai]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys]], [[objektai/grupes/Lenkijos karalystės kariuomenė]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenės korpusas]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Apgulė Vilnių: [[objektai/asmenys/Boleslovas Švitrigaila]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Vilnių: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]], [[objektai/grupes/Kazokai]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Liucijanas Želigovskis]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/grupes/Vokiečiai]], [[objektai/grupes/Želigovskininkai]], [[objektai/asmenys/Žygimantas]]
-- Gynė Vilnių: [[objektai/grupes/2-oji ir 3-ioji Tautinės kavalerijos brigados]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Mejenas]], [[objektai/grupes/Jono Mejeno divizija]], [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]], [[objektai/asmenys/Kazimieras Karigaila]], [[objektai/asmenys/Klemensas Moskorzewskis]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lenkų įgula Vilniaus Aukštutinėje pilyje]], [[objektai/grupes/Lietuviai]], [[objektai/asmenys/Nikolajus Arsenjevas]], [[objektai/asmenys/Skirgaila]], [[objektai/asmenys/Sudimantas]], [[objektai/grupes/Vilniaus gyventojai]], [[objektai/grupes/Vilniaus miestiečių luomas]]
-- Buvo siuntimo vieta: [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jedigėjus]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lenkijos senatas]], [[objektai/asmenys/Petras Goštautas]], [[objektai/asmenys/Teodoras Narbutas]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Buvo žygio kryptis: [[objektai/asmenys/Engelhardas Rabė]], [[objektai/asmenys/Gotfridas Lindenas]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vilhelmas fon Helfelšteinas]], [[objektai/asmenys/Vinrichas Kniprodė]], [[objektai/grupes/Vokiečiai]]
-- Prekiavo su: [[objektai/vietos/Livonija]], [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]], [[objektai/grupes/Naugardo, Pskovo, Rygos ir Maskvos pirkliai]], [[objektai/vietos/Pskovas]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rygos pirkliai]], [[objektai/vietos/Silezija]], [[objektai/vietos/Vengrija]], [[objektai/grupes/Vokiečiai]], [[objektai/vietos/Vokietija]], [[objektai/vietos/Vroclavas]]
-- Gyvenamoji vieta: [[objektai/grupes/107-oji motošaulių divizija]], [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Aleksandras Vygantas]], [[objektai/asmenys/Andrius Volanas]], [[objektai/asmenys/Bomannas]], [[objektai/asmenys/Česchonis]], [[objektai/grupes/Dievo Kūno arkibrolija]], [[objektai/asmenys/Donatas Malinauskas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Goštautas|Goštautas (vyskupas, XV a.)]], [[objektai/asmenys/Jaunė (Jievna)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Jonas Kristupas Glaubicas]], [[objektai/grupes/Kalvinai]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Lietuvių kunigaikščių ir bajorų visuotinis seimas]], [[objektai/grupes/Liuterionys]], [[objektai/asmenys/Manvydas]], [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]], [[objektai/asmenys/Parulis]], [[objektai/asmenys/Petras iš Kustynės]], [[objektai/asmenys/Petras Klimas]], [[objektai/asmenys/Petras Roizijus]], [[objektai/asmenys/Petras Timofiejevas Mstislavliškis]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/asmenys/Romain Garry]], [[objektai/grupes/Rusai]], [[objektai/grupes/Stačiatikiai]], [[objektai/asmenys/Šach Achmedas]], [[objektai/asmenys/Štagelis]], [[objektai/grupes/Šubravcų draugija]], [[objektai/grupes/Šv. Bazilijaus ordinas]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Vendrichovskis]], [[objektai/grupes/Vilniaus gyventojai]], [[objektai/grupes/Vilniaus rusinai]], [[objektai/grupes/Vilniaus rusų vienuoliai „čiornai“]], [[objektai/grupes/Vokiečių amatininkai Vilniuje]], [[objektai/asmenys/Volfgangas Auksakalys]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zigmantas Augustas]], [[objektai/asmenys/Zofija (Jurgio Sniadeckio dukra)]], [[objektai/grupes/Žydai]]
-- Turėjo priklausinį: [[objektai/vietos/Antakalnis]], [[objektai/daiktai/Antspaudas]], [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]], [[objektai/daiktai/Herbas]], [[objektai/vietos/Karališkasis malūnas Vilniuje]], [[objektai/vietos/Karališkasis malūnas Vilniuje (sujungti pirminiai pavadinimai Karališkasis malūnas; Karališkasis malūnas Vilniuje)]], [[objektai/vietos/Karalių koplyčia Vilniuje]], [[objektai/vietos/Kardinalija]], [[objektai/vietos/Kauno gubernija]], [[objektai/vietos/Kauno Vilniaus pirklių prekių sandėlis]], [[objektai/grupes/Laikinoji LDK vyriausybė]], [[objektai/daiktai/Lenino paminklas Vilniuje]], [[objektai/grupes/Lietuvos laisvės armija]], [[objektai/vietos/Pilaitė]], [[objektai/vietos/Pilies kalnas Vilniuje|Pilies kalnas Vilniuje (pilis)]], [[objektai/daiktai/Pranciškonų kankinių palaidojimo vietos koplyčia]], [[objektai/vietos/Rotušės aikštė]], [[objektai/vietos/Rūdninkų vartai ir Rūdninkų gatvė Vilniuje]], [[objektai/vietos/Šv. Dvasios dominikonų vienuolynas Vilniuje]], [[objektai/vietos/Šv. Jono bažnyčia]], [[objektai/vietos/Šv. Jono bažnyčia Vilniuje]], [[objektai/vietos/Šv. Mykolo bažnyčia Vilniuje]], [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]], [[objektai/vietos/Verkiai]], [[objektai/daiktai/Vėliavos]], [[objektai/vietos/Vidurinė Lietuva]], [[objektai/vietos/Vilniaus ginklų liejykla]], [[objektai/grupes/Vilniaus miesto auksakalių cechas]], [[objektai/grupes/Vilniaus miesto cechai]], [[objektai/vietos/Vilniaus miesto vartai]], [[objektai/vietos/Vilniaus Perkūno šventykla]], [[objektai/vietos/Vingrių šaltiniai]], [[objektai/vietos/Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)]], [[objektai/vietos/Visų Šventųjų bažnyčia]], [[objektai/vietos/Vitebskas]], [[objektai/daiktai/Vytis]], [[objektai/vietos/Žemutinė pilis Kreivoji pilis|Žemutinė pilis Kreivoji pilis (pilis)]], [[objektai/vietos/Žirmūnai]]
-- Vilnius prekiavo su [[objektai/vietos/Černigovas]], [[objektai/vietos/Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas)]], [[objektai/vietos/Gdanskas]], [[objektai/vietos/Gniezno]], [[objektai/vietos/Karaliaučius]], [[objektai/vietos/Kaunas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]], [[objektai/vietos/Maskva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Pskovas]], [[objektai/grupes/Rusai]], [[objektai/vietos/Ryga]], [[objektai/vietos/Silezija]], [[objektai/vietos/Smolenskas]], [[objektai/vietos/Tverė]]
-- Vilnius priklausė [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]], [[objektai/grupes/Lietuviai]]
+- Buvo valdoma: [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Skirgaila]]
+- Buvo kelionės vieta: [[objektai/asmenys/Abraomas Kulvietis]], [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]], [[objektai/asmenys/Augustas]], [[objektai/grupes/Bernardinų ordinas]], [[objektai/asmenys/Chariničius]], [[objektai/asmenys/Daugirdas]], [[objektai/grupes/Didžiojo Naugardo bojarinai]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Elžbieta]], [[objektai/asmenys/Geremferdenas]], [[objektai/asmenys/Gregorijus Cemblakas]], [[objektai/asmenys/Jadvyga]], [[objektai/grupes/Jėzuitų ordinas]], [[objektai/asmenys/Joachimas Pavlovičius]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jonas Laskis]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/grupes/Maskvos, totorių ir valakų pirkliai]], [[objektai/asmenys/Mykolas Glinskis]], [[objektai/grupes/Pranciškonų ordinas]], [[objektai/grupes/Pskoviečiai]], [[objektai/grupes/Respublikonai]], [[objektai/grupes/Rusijos kariuomenės korpusas]], [[objektai/grupes/Rusų pirkliai]], [[objektai/grupes/Silezijos ir Vroclavo gyventojai]], [[objektai/asmenys/Steponas Batoras]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]], [[objektai/asmenys/Vasilijus Vasiljevičius]], [[objektai/asmenys/Vladislavas Ačalovas]], [[objektai/asmenys/Vladislovas Jogaila]], [[objektai/grupes/Vokiečių pirkliai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]], [[objektai/asmenys/Zbignevas Olesnickis|Zbignevas Olesnickis (vyskupas)]], [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas (arkivyskupas, XVI a.)]], [[objektai/asmenys/Žygimantas Senasis]]
+- Gimimo vieta: [[objektai/asmenys/Jascha Heifetz]], [[objektai/asmenys/Senda Berenson-Abbot]]
+- Mirties vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Algardas Hohenšteino grafas]], [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]], [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]], [[objektai/asmenys/Tautvila]], [[objektai/asmenys/Tautvilas]], [[objektai/asmenys/Zigmantas Sierakauskas]]
+- Turėjo palaidotą asmenį: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/asmenys/Švitrigaila]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo pastatyta: [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]
+- Puolė Vilnių: [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenės korpusas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Apgulė Vilnių: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Užėmė Vilnių: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]], [[objektai/grupes/Kazokai]], [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]], [[objektai/grupes/Lenkai]], [[objektai/asmenys/Liucijanas Želigovskis]], [[objektai/grupes/Rusai]], [[objektai/grupes/Rusijos kariuomenė]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Totorių pajėgos]], [[objektai/grupes/Želigovskininkai]]
+- Gynė Vilnių: [[objektai/asmenys/Jonas Mejenas]], [[objektai/grupes/Jono Mejeno divizija]]
+- Buvo siuntimo vieta: [[objektai/grupes/76-osios oro desanto divizijos 234-asis pulkas]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Jedigėjus]], [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/grupes/Lenkijos senatas]], [[objektai/asmenys/Teodoras Narbutas]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Buvo žygio kryptis: [[objektai/grupes/Kryžiuočių ordinas]], [[objektai/asmenys/Vilhelmas fon Helfelšteinas]]
+- Prekiavo su: [[objektai/grupes/Rygos pirkliai]]
+- Gyvenamoji vieta: [[objektai/asmenys/Aleksandras Jogailaitis]], [[objektai/asmenys/Aleksandras Vygantas]], [[objektai/asmenys/Gediminas|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]], [[objektai/asmenys/Jaunė (Jievna)]], [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]], [[objektai/asmenys/Kazimieras Jogailaitis]], [[objektai/asmenys/Parulis]], [[objektai/grupes/Šv. Bazilijaus ordinas]], [[objektai/grupes/Totoriai]], [[objektai/grupes/Vilniaus gyventojai]], [[objektai/asmenys/Zigmantas Augustas]]
+- Turėjo priklausinį: [[objektai/daiktai/Herbas]], [[objektai/vietos/Rotušės aikštė]]
+- Vilnius prekiavo su [[objektai/vietos/Gdanskas]], [[objektai/vietos/Livonija]], [[objektai/vietos/Maskva]], [[objektai/vietos/Naugardas]], [[objektai/vietos/Prūsija]], [[objektai/vietos/Pskovas]], [[objektai/vietos/Ryga]], [[objektai/vietos/Silezija]]
+- Vilnius priklausė [[objektai/vietos/Lenkija]]

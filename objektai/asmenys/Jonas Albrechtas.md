@@ -13,10 +13,23 @@ tags:
   - asmuo
   - karalius
   - kraštas
+  - šventė
 amziai:
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jonas Albrechtas
 
@@ -29,10 +42,9 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
 <a id="claim-t-87714"></a>
 - t-001
   global_id: t-87714
-  teiginys: 'Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.'
+  teiginys: "Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą."
   pagrindžia:
-    - c-001
-
+    - c-83693
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,7 +65,34 @@ Prabėgus aštuoneriems metams, pats karalius Kazimieras, būdamas Vilniuje, gau
     al fresco ant kairės Šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83693
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Vėliau jo pamaldumą pripažino
+    Romos Bažnyčios galva, suteikė jam Šventojo vardą ir šlo­
+    vę, o kartu ir visam kraštui Globėjo vardą39. Prabėgus
+    aštuoneriems metams, pats karalius Kazimieras, būdamas
+    Vilniuje, gauna žinią apie sūnaus Jono Albrechto sutriuški­
+    nimą Vengrijoje ir palaužtas sielvarto, susirgęs kelyje iš Vil­
+    niaus į Trakus, 1492 metų birželio mėnesio 7 dieną apleidžia
+    šį pasaulį.
+    39
+    Šventasis Kazimieras, kurio mirtis,
+    tapytojo Dankerso pavaizduota
+    al fresco ant kairės Šv.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87714

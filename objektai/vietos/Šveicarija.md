@@ -12,11 +12,24 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - karas
   - vieta
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šveicarija
 
@@ -29,16 +42,23 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
 <a id="claim-t-169555"></a>
 - t-001
   global_id: t-169555
-  teiginys: 'Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises.'
+  teiginys: "Neutralioje Šveicarijoje susidaręs negausus lietuvių būrys šelpė lietuvius belaisvius Vokietijoje ir skleidė žinias apie lietuvių teises."
   pagrindžia:
-    - c-001
+    - c-154264
 
 <a id="claim-t-169557"></a>
 - t-002
   global_id: t-169557
-  teiginys: 'Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu.'
+  teiginys: "Antrojoje Lozanos konferencijoje nutarta politinės propagandos centrą įkurti Šveicarijoje ir remtis nepriklausomybės reikalavimu."
   pagrindžia:
-    - c-002
+    - c-154266
+
+<a id="claim-t-193261"></a>
+- t-003
+  global_id: t-193261
+  teiginys: "Šveicarijos komitetai darbavosi ligi karo pabaigos."
+  pagrindžia:
+    - c-175993
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75723|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1940 m. birželį iš Lietuvos išvykęs Antanas Smetona per Vokietiją, Šveicariją ir Portugaliją pasitraukė į JAV.
@@ -93,6 +113,7 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     reikalaujamąsias teises savarankiškai tvarkytis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -112,11 +133,90 @@ Kitas labai negausus, bet aktyvus lietuvių būrys susidarė neutralinėje Švei
     bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
+- c-003
+  santrauka: 'Šveicarijos komitetai darbavosi ligi karo pabaigos.'
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  citata_originali: |
+    Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą). Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+    Tokiais pat uždaviniais buvo susirūpinta Švedijoje ir Da-
+    nijoje, kur Rusijos lietuvių Komitetas nusiuntė savo atstovų.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-003
+
+## Citatos
+
+- id: c-154264
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Lietuvių amerikiečių delegatai vėliau
+    prisidėjo prie Lietuvos delegacijos Paryžiuje bendrai ginti Lie-
+    tuvos reikalų taikos kongrese 1919 m.
+    Kitas labai negausus, bet aktyvus lietuvių būrys susidarė
+    neutralinėje Šveicarijoje. Ypačiai Amerikos lietuvių
+    organizacijų teikiamomis lėšomis tas būrys šelpė lietuvius be-
+    laisvius Vokietijoje ir skleidė žinias apie lietuvių tautą ir jos
+    reikalaujamąsias teises savarankiškai tvarkytis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169555
+
+- id: c-154266
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Šita konferencija tegvildeno propagandos organizacijos
+    klausimus ir protestavo prieš vokiečių okupacijos žiaurumus
+    Lietuvoje ir krašto naikinimą.
+    Antroj Lozanos konferencijoj tų pačių metų birželio 30 —
+    liepos 4 d. dalyvavo iš okupuotosios Lietuvos atvykę delegatai.
+    Buvo nutarta politinės propagandos centrą padaryti Šveicarijoje
+    ir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-
+    bo pagrindu buvo paimtas nepriklausomybės reikalavimas.
+  citata_rodoma: "dalyvavo iš okupuotosios Lietuvos atvykę delegatai.\nBuvo nutarta politinės propagandos centrą padaryti Šveicarijoje\nir čia sukurti Rusijos, Lietuvos ir Amerikos lietuvių tarybą; dar-\nbo pagrindu buvo paimtas nepriklausomybės reikalavimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-169557
+
+- id: c-175993
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Konfe-
+    rencija patvirtino Vilniaus konferencijos nutarimus ir iškėlė rei-
+    kalą būsimajai Lietuvai turėti uostą (Klaipėdą). Šveicarijos ko-
+    mitetai darbavosi ligi karo pabaigos.
+    Tokiais pat uždaviniais buvo susirūpinta Švedijoje ir Da-
+    nijoje, kur Rusijos lietuvių Komitetas nusiuntė savo atstovų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193261
+
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
-- Gyvenamoji vieta: [[objektai/grupes/Lietuviai]]

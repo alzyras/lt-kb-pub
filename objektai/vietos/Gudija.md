@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gudija
 
@@ -30,9 +42,9 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
 <a id="claim-t-67987"></a>
 - t-001
   global_id: t-67987
-  teiginys: 'Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje.'
+  teiginys: "Ivinskis Mohilną, prie kurios Lietuvos metraštis mini 1234 m. kovą su totoriais, lokalizuoja Nemuno aukštupyje dabartinėje Gudijoje."
   pagrindžia:
-    - c-001
+    - c-32067
 - susijęs iš [[objektai/autoriai/D. Pochilevyč.md#claim-t-29457|D. Pochilevyč]]: D. Pochilevyč buvo Lvovo universiteto profesorius ir tyrinėjo Lietuvos, Gudijos bei Ukrainos kaimo ūkinius santykius.
 - susijęs iš [[objektai/autoriai/Rusų ir ukrainiečių istorikai.md#claim-t-47900|Rusų ir ukrainiečių istorikai]]: Rusų ir ukrainiečių istorikai davė naujų tyrinėjimų apie Lietuvos, Gudijos ir Ukrainos (t.
 - susijęs iš [[objektai/grupes/Nacių Vokietija.md#claim-t-74876|Nacių Vokietija]]: 1941 m. liepos 17 d. Nacių Vokietija iš Lietuvos, Latvijos, Estijos ir Gudijos sudarė Ostlando reicho komisariatą.
@@ -60,11 +72,30 @@ Liepos 17-osios nutarimu iš „buvusių laisvų Lietuvos, Latvijos, Estijos val
     kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Nacių Vokietija]]
-- Gudija priklausė [[objektai/vietos/Rytų kraštas (Ostlandas)]]
+## Citatos
+
+- id: c-32067
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    (^182) II SKYRIUS: VALSTYBĖS IŠKILIMAS
+    krūvos. Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas
+    (Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo
+    prieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie
+    Mohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­
+    dovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų
+    kunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142.
+  citata_rodoma: "Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas\n(Bychovco kronikoje jis čia pavadintas Ringaudu) 1234 m. kovojo\nprieš totorius «nuo saulės patekėjimo iki jos nusileidimo» prie\nMohilnos (Nemuno aukštupio dabartinėje Gudijoje). Lietuvos val­\ndovas, pagal Lietuvos metraštį, totorius ir jų sąjungininkus rusų\nkunigaikščius galutinai sutriuškinęs (« na golovu poraził »)^142."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67987

@@ -9,6 +9,19 @@ tags:
   - daiktas
   - kunigas
   - ordinas
+  - šventė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Altorius
 
@@ -41,20 +54,21 @@ Nenurodyta
 <a id="claim-t-59677"></a>
 - t-001
   global_id: t-59677
-  teiginys: 'Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių.'
+  teiginys: "Markburge priimami riteriai prieš įvilktuves kniūpsti puolė prieš altorių."
   pagrindžia:
-    - c-001
+    - c-60309
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87469|Bona]]: Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.
 - susijęs iš [[objektai/daiktai/Pirmosios katedros didysis altoriaus kryžius.md#claim-t-11542|Pirmosios katedros didysis altoriaus kryžius]]: Iš pirmosios katedros išlikęs didžiojo altoriaus kryžius.
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-188203|Jėzuitų ordinas]]: Narbutas rašo, kad jėzuitai minėtose vietovėse išdraskė šešis altorius ir iškirto aukojimams skirtus ąžuolus bei liepas.
 - susijęs iš [[objektai/ivykiai/Briksijos altoriaus stebuklas.md#claim-t-62218|Briksijos altoriaus stebuklas]]: Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.
 - susijęs iš [[objektai/ivykiai/Vytauto palaidojimas Vilniaus katedroje.md#claim-t-01872|Vytauto palaidojimas Vilniaus katedroje]]: Vytauto palaikai 8 dienas laikyti gimtojoje pilyje, paskui pervežti į Vilnių ir palaidoti katedros rūsyje po šv. Mykolo Arkangelo altoriumi.
 - susijęs iš [[objektai/ivykiai/Šventos Elžbietos kanonizavimas (1235 m.).md#claim-t-62547|Šventos Elžbietos kanonizavimas (1235 m.)]]: 1235 m. popiežius Grigalius IX Perudžoje kanonizavo šventą Elžbietą ir jos garbei paskyrė altorių.
+- susijęs iš [[objektai/paprociai/Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė.md#claim-t-193029|Gelonų ir budinų helenų dievų šventovės bei Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
+- susijęs iš [[objektai/paprociai/Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė.md#claim-t-192509|Gelonų medinės helenų dievų šventovės ir kas trejus metus švenčiama Dioniso šventė]]: Narbutas cituoja, kad gelonai turėjo medinių helenų dievų šventyklų, altorių ir koplytėlių ir kas trejus metus šventė Dioniso šventę.
 - susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.
 - susijęs iš Ptolomėjaus iš Lukos Analai: Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.
 - susijęs iš Tibras: 1277 m. Romoje Tibras ištvino ir pakilo daugiau kaip keturias pėdas virš Švč. Marijos altoriaus rotondoje.
 - susijęs iš Vilniaus Perkūno šventykla: Pasak Narbuto perteikiamo Strijkovskio, prie Vilniaus Perkūno šventyklos gyvatės buvo laikomos atskiroje koplyčioje po Katedros didžiuoju altoriumi.
-- susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.
 - susijęs iš Vilniaus katedra: Didžiojo valdovo palaikai buvo pervežti į Vilnių ir palaidoti Vilniaus katedros rūsyje po Šv. Mykolo Arkangelo altoriumi.
 - susijęs iš Vilniaus katedra: Vilniaus katedroje karalienė Bona altoriaus vietoje pastatė marmurinį paminklą, kuris žuvo per 1610 m. katedros gaisrą.
 - susijęs iš Vilniaus katedra: Pasak Narbuto perteikiamo Strijkovskio, Vilniaus katedroje po didžiuoju altoriumi buvo koplyčia, kur laikytos gyvatės.
@@ -97,10 +111,35 @@ Nenurodyta
     buvo susitepęs paleistuvystės nuodėme.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Altorius priklausė [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]
+## Citatos
+
+- id: c-60309
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 231"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231."
+  citata_originali: |
+    Išgirdęs
+    šiuos žodžius, landgrafas taip nudžiugo, kad, puolęs iš džiaugsmo jam  į glėbį, atleido
+    nusikaltimą. Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su
+    daugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,
+    kur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš
+    altorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,
+    nusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo
+    labiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.
+    Šį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis
+    ėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas
+    buvo susitepęs paleistuvystės nuodėme.
+  citata_rodoma: "Po to su šiuo riteriu bei anksčiau minėtaisiais Hermanu ir Ditrichu bei su\ndaugybe kitų riterių ir kilmingųjų atvyko pas Teutonų namų ordino brolius Markburge,\nkur tuo metu (lapkričio 18), kai jie prieš įvelkami kaip paprastai kniūpsti puolė prieš\naltorių, o kunigas, ilgai meldęsis, garsiai užgiedojo: „Aleliuja, ateik šventoji dvasia“,\nnusileido ant jų kūniškai apčiuopiama šventoji dvasia nelyginant ugnies liepsnelė ir juo\nlabiau kuris iš jų degė dievo meile, tuo didesnė ši liepsnelė rodėsi ten stovintiesiems.\nŠį brolį Konradą, landgrafą, magistrą, taip apšvietė šventosios dvasios malonė, kad jis\nėmė permanyti visas žmonių paslaptis, todėl negalėjo pakęsti prie savęs nė vieno, kas\nbuvo susitepęs paleistuvystės nuodėme."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59677

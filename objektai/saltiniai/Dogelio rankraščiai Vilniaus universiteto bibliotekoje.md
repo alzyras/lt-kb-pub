@@ -14,9 +14,21 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - privilegija
+  - saltinis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Dogelio rankraščiai Vilniaus universiteto bibliotekoje
 
@@ -29,17 +41,16 @@ amziai:
 <a id="claim-t-88248"></a>
 - t-001
   global_id: t-88248
-  teiginys: 'Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas.'
+  teiginys: "Dogelio rankraščiuose Vilniaus universiteto bibliotekoje buvo Žygimanto Augusto 1551 m. privilegijos tekstas."
   pagrindžia:
-    - c-002
+    - c-84229
 
 <a id="claim-t-88249"></a>
 - t-002
   global_id: t-88249
-  teiginys: 'Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas.'
+  teiginys: "Dogelio rankraščiuose buvo 1570 m. nuostolių, patirtų Lietuvos monetas keičiant į lenkiškus pinigus, sąrašas."
   pagrindžia:
-    - c-001
-
+    - c-84228
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,6 +77,7 @@ amziai:
     šius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -106,7 +118,82 @@ amziai:
     In Nomine Domini, Amen.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-84228
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Duota Gardine
+    artimiausią penktadienį prieš Sekmines, tūkstantis penki
+    šimtai aštuoniasdešimt ketvirtaisiais Viešpaties metais, mū­
+    sų karaliavimo devintaisiais.
+    Karalius Steponas
+
+    ## Puslapis 456
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    SĄRAŠAS VISŲ NUOSTOLIŲ LIETUVOS MONETAS
+    KEIČIANT J LENKIŠKUS PINIGUS
+    1570 METAIS
+    (Iš Dogelio rankraščių buv. Vilniaus universiteto bibliotekoje)
+    Pirmiausia už 3&1 talerį, už kurį Lenkijoje moka po 30
+    grašių, juos ponas Motiejus Kaviečnijskis atsiuntė pro 1  Junii
+    [birželio 1-ai] į Varšuvą, Lietuvoje už juos mokėdamas, Jo
+    Karališkosios Didenybės paliepimu, po 25 lietuviškus gra­
+    šius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88249
+
+- id: c-84229
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kad trukdo skųstis karaliui.
+    Už visa tai karalius baudžia šimto kapų grašių bauda.
+    —  • —
+    303
+
+    ## Puslapis 320
+
+    [tuščias arba OCR reikalingas puslapis]
+
+    ## Puslapis 321
+
+    IV KNYGA
+    III
+    KARALIAUS ŽYGIMANTO AUGUSTO PRIVILEGIJA,
+    DUOTA MIKALOJUI RADVILAI, OLYKOS IR
+    NESVYŽIAUS KUNIGAIKŠČIUI, VILNIAUS VAIVADAI,
+    LDK MARŠALKAI IR KANCLERIUI,
+    1551 M. VILNIAUS SEIME, LEIDŽIANTI JAM IR
+    JO PALIKUONIMS AMŽINAI TURĖTI IR SAUGOTI
+    SAVO ARCHYVUOSE VISAS PRIVILEGIJAS IR LAISVES,
+    KARALIŲ SUTEIKTAS
+    LIETUVOS DIDŽIAJAI KUNIGAIKŠTYSTEI
+    (Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)
+    305
+
+    ## Puslapis 322
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    In Nomine Domini, Amen.
+  citata_rodoma: "Už visa tai karalius baudžia šimto kapų grašių bauda.\n—  • —\n303\n\n## Puslapis 320\n\n[tuščias arba OCR reikalingas puslapis]\n\n## Puslapis 321\n\nIV KNYGA\nIII\nKARALIAUS ŽYGIMANTO AUGUSTO PRIVILEGIJA, \nDUOTA MIKALOJUI RADVILAI, OLYKOS IR \nNESVYŽIAUS KUNIGAIKŠČIUI, VILNIAUS VAIVADAI, \nLDK MARŠALKAI IR KANCLERIUI,\n1551 M. VILNIAUS SEIME, LEIDŽIANTI JAM IR \nJO PALIKUONIMS AMŽINAI TURĖTI IR SAUGOTI \nSAVO ARCHYVUOSE VISAS PRIVILEGIJAS IR LAISVES, \nKARALIŲ SUTEIKTAS \nLIETUVOS DIDŽIAJAI KUNIGAIKŠTYSTEI\n(Iš Dogelio rankraščių Vilniaus universiteto bibliotekoje)\n305\n\n## Puslapis 322\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nIn Nomine Domini, Amen."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88248

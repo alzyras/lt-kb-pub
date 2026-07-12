@@ -14,6 +14,18 @@ tags:
   - mūšis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Prisikėlimo apygardos partizanų antsiuvas
 
@@ -43,13 +55,19 @@ Nenurodyta
 
 ## Teiginiai
 
-<a id="claim-t-78675"></a>
+<a id="claim-t-78676"></a>
 - t-001
-  global_id: t-78675
-  teiginys: 'Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu.'
+  global_id: t-78676
+  teiginys: "Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu."
   pagrindžia:
-    - c-001
+    - c-75889
 
+<a id="claim-t-78676"></a>
+- t-002
+  global_id: t-78676
+  teiginys: "Prisikėlimo apygardos partizanų antsiuvas nuo 1949 m. buvo patvirtintas bendru LLKS antsiuvu."
+  pagrindžia:
+    - c-75889
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -74,11 +92,41 @@ Nenurodyta
     Išaušo gražus rugpjūčio 13-osios rytas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
 
-## Ryšiai
-- Prisikėlimo apygardos partizanų antsiuvas priklausė [[objektai/grupes/Lietuvos laisvės kovos sąjūdis]]
+## Citatos
+
+- id: c-75889
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Visi po žygio sukrito pailsėti.
+    Spėjama, kad partizanų sto-
+    vyklą išdavė ryšininkas Leonas
+    Juškus-Dangus, atvedęs čekis-
+    tus tiesiai į Užpelkių miško aikš-
+    telę netoli Godų kaimo.
+    Partizanai pratybose
+
+    sass |
+
+    Prisikėlimo apygardos
+    partizanų antsiuvas,
+    nuo 1949 m. patvirtintas
+    bendru LLKS antsiuvu
+
+    Mūšis
+    Išaušo gražus rugpjūčio 13-osios rytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78676
+    - t-78675

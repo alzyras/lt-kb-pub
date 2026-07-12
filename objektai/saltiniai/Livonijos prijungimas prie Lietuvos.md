@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XVI'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Livonijos prijungimas prie Lietuvos
 
@@ -32,10 +44,9 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 <a id="claim-t-31834"></a>
 - t-001
   global_id: t-31834
-  teiginys: 'Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“.'
+  teiginys: "Sužiedėlis 1933 m. „Athenaeume“ paskelbė studiją „Livonijos prijungimas prie Lietuvos“."
   pagrindžia:
-    - c-001
-
+    - c-33655
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -53,7 +64,33 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
     didesniu moksliniu veikalu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33655
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    4), apie Lietuvą pradedant Jogailai
+    valdyti (JoŠ).
+    Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki
+    tol Lietuvos istorijoje beveik visai užmirštus klausimus ir davė
+    Athenaeume tris pagrindines studijas: 1) «Livonijos prijungimas
+    prie Lietuvos» (1933); 2) «Mykolo Radvilos pastangos prijungti
+    Lietuvai Rygą» (1936); 3) «Lietuvos ir Livonijos konfliktas 1556-
+    1557 » (1937). Žinomi politiniai įvykiai Pabaltijo valstybėse su­
+    trukdė Sužiedėliui užbaigti šį svarbų tyrinėjimą, kuris turėjo tapti
+    didesniu moksliniu veikalu.
+  citata_rodoma: "Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki\ntol Lietuvos istorijoje beveik visai užmirštus klausimus ir davė\nAthenaeume tris pagrindines studijas: 1) «Livonijos prijungimas\nprie Lietuvos» (1933); 2) «Mykolo Radvilos pastangos prijungti\nLietuvai Rygą» (1936); 3) «Lietuvos ir Livonijos konfliktas 1556-\n1557 » (1937). Žinomi politiniai įvykiai Pabaltijo valstybėse su­\ntrukdė Sužiedėliui užbaigti šį svarbų tyrinėjimą, kuris turėjo tapti\ndidesniu moksliniu veikalu."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31834

@@ -14,6 +14,18 @@ tags:
   - karalius
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilhelmo Olandiečio išrinkimas Romos karaliumi ir žūtis (1249 m.)
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-62528"></a>
 - t-001
   global_id: t-62528
-  teiginys: '1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai.'
+  teiginys: "1249 m., mirus landgrafui, Olandijos grafas Vilhelmas buvo išrinktas Romos karaliumi, tačiau netrukus jį nužudė frizai."
   pagrindžia:
-    - c-001
-
+    - c-63219
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,7 +75,34 @@ Nenurodyta
                           35.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-63219
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 231-232"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 231-232."
+  citata_originali: |
+    Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi
+
+      1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas
+    Romos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas
+
+    negavo imperatoriaus vainiko (Ptol. 22,9).
+
+
+
+                          35.
+  citata_rodoma: "Apie Vilhelmo, Olandijos grafo, išrinkimą Romos karaliumi\n\n  1249 viešpaties metais, mirus landgrafui, Vilhelmas, Olandijos grafas, buvo išrinktas\nRomos karaliumi, tačiau neilgai trukus frizai  jį nužudė, ir šitaip nei vienas, nei kitas\n\nnegavo imperatoriaus vainiko (Ptol. 22,9).\n\n\n\n                      35."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-62528

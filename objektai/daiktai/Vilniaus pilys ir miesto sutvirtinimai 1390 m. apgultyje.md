@@ -16,6 +16,18 @@ tags:
   - miestas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vilniaus pilys ir miesto sutvirtinimai 1390 m. apgultyje
 
@@ -48,24 +60,23 @@ Nenurodyta
 <a id="claim-t-87015"></a>
 - t-001
   global_id: t-87015
-  teiginys: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
+  teiginys: "1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais."
   pagrindžia:
-    - c-002
+    - c-82995
 
 <a id="claim-t-87016"></a>
 - t-002
   global_id: t-87016
-  teiginys: '1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila.'
+  teiginys: "1390 m. Vilniaus apgultyje vienai iš trijų miesto pilių, vadintai Krautuvių pilimi, vadovavo Jogailos brolis Kazimieras Karigaila."
   pagrindžia:
-    - c-003
+    - c-82996
 
 <a id="claim-t-87017"></a>
 - t-003
   global_id: t-87017
-  teiginys: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
+  teiginys: "1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu."
   pagrindžia:
-    - c-001
-
+    - c-82994
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -112,6 +123,7 @@ Nenurodyta
     Długosz Histor.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,6 +144,7 @@ Nenurodyta
     mi28.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -165,7 +178,115 @@ Nenurodyta
     tikras brolis Kazimieras - kunigaikštis Karigaila.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-82994
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    35
+    Stryjkowski loco cit., plačiai
+    aprašinėdamas Vilniaus apgultį,
+    taip svarsto apie Moskoževskio gy­
+    nybą Aukštutinėje pilyje: „Aukštu­
+    tinę pilį lenkai su Vilniaus seniūnu
+    Mikalojumi Moskorovskiu narsiai
+    gynė, tad nei padegdami Žemutinę
+    pilį, nei grasinimais kiršindami, nei
+    rodydami kunigaikščio Karigailos
+    galvą, nei nuožmiai ir staigiai pul­
+    dami į ataką, nei be paliovos šaudy­
+    dami iš patrankų, kurios didesnę da­
+    lį mūro sienų pramušė ir sugriovė,
+    neprivertė pasiduoti. O bijodami iš­
+    davystės, iš savųjų tarpo galinčios
+    rastis, rusus ir įtartinus žmones iš­
+    vijo iš pilies, patys narsiai gynėsi, o
+    vokiečius, dieną ir naktį atakuojan­
+    čius, atremdami, tas vietas, kur mū­
+    rai nuo nuolatinio šaudymo griuvo,
+    žeme ir mėšlu užtaisydavo ir galvi­
+    jų oda, taip pat maišais, prikimštais
+    vilnų, dangstė, ir taip vokiečių pa­
+    trankų šūvių išvengdavo, pagaliau
+    kūnais savo dengdami pramuštas
+    angas, stojo prieš pašėlusiai puolan­
+    čius ir atkakliai į pilį besibraunan­
+    čius priešus ir stūmė rąstais, basliais,
+    ginė akmenimis ir aliojimais nuo ap­
+    griauto mūro viršaus, o vokiečiai
+    kūlversčiais lėkė žemyn, talžyte su-
+    talžyti, tarsi sviediniai, o kiti žiau­
+    riai sulaužytomis rankomis, kojo­
+    mis, suknežintais sprandais, pirm
+    nei nuriedėjo į apačią, mirė."
+    36
+    Długosz Histor.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87017
+
+- id: c-82995
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kryžiuočiai priešais regėjo dvi galingas tvirtoves, prieš
+    kurias buvo užsimota. Aukštutinė pilis, aukštų mūrų bei
+    bokštų saugoma, ir Žemutinė, apačioje besidriekianti, kur
+    buvo kunigaikščių menės, vadinta Kreivąja. Prie jos šliejosi
+    pats miesto centras, nedidelis, su mediniais namais, bet su
+    tvirtų statinių tvorų ir griovių sutvirtinimais. Čia slėpdavo­
+    si gyventojai iš priemiesčių ir nuošalių namų bei pirkliai su
+    prekėmis, todėl vokiečių ji buvo praminta Krautuvių Pili­
+    mi28.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87015
+
+- id: c-82996
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    544, yra vienas pranešimas
+    iš lenkų krašto, rašytas senąja vokie­
+    čių kalba: Fol. E, p. 70, kuriame esa­
+    ma tokių žodžių: „Apsupome W ille
+    (tai yra Vilnių), lietuvių žemėse patį
+    pavojingiausią miestą, kur buvo trys
+    pilys, saugomos įgulos. Viena jų va­
+    dinama Krautuvių Pilimi, kurioje su­
+    sirinko keletas tūkstančių ginkluotų
+    žmonių, vyresnieji bei abiejų lyčių
+    prastuomenė, - ir pilies ginti, ir ieš­
+    kodami ten saugaus prieglobsčio. To­
+    je pilyje krikščionis kunigaikštis, mū­
+    sų mielasis brolis, ponas Kazimieras,
+    vadovavo įgulai."
+    122
+
+    ## Puslapis 139
+
+    Il KNYGA
+    lyje ir kitose miesto tvirtovėse lietuviams vadovavo Jogailos
+    tikras brolis Kazimieras - kunigaikštis Karigaila.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87016

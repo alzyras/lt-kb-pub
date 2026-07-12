@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - upė
   - vieta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šešuolė
 
@@ -20,9 +32,9 @@ tags:
 <a id="claim-t-42360"></a>
 - t-001
   global_id: t-42360
-  teiginys: 'Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją.'
+  teiginys: "Giedraičius gynęs 2-asis pulkas atsitraukė į Šešuolės ir Virintos upių liniją."
   pagrindžia:
-    - c-001
+    - c-45460
 - susijęs iš Kertuša: Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.
 - susijęs iš Kertuša: Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.
 - susijęs iš Skočiūnų dvaras: Pabaisko parapijos riba ėjo ties Skočiūnų dvaru, kur Šešulka, dar vadinama Šešuolėle, įteka į Šventąją.
@@ -48,7 +60,29 @@ tags:
     puolimui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-45460
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Užėmę Kurklius, lenkai veržėsi Vidiškių
+    ir Ukmergės link. Giedraičius gynęs
+    2-asis pulkas buvo priverstas atsi-
+    traukti į Šešuolės- Virintos upių liniją.
+    Lietuvių pajėgos ėmė rengtis kontr-
+    puolimui.
+  citata_rodoma: "Giedraičius gynęs\n2-asis pulkas buvo priverstas atsi-\ntraukti į Šešuolės- Virintos upių liniją.\nLietuvių pajėgos ėmė rengtis kontr-\npuolimui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-42360

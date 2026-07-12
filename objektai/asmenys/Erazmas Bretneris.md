@@ -16,6 +16,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Erazmas Bretneris
 
@@ -28,9 +40,9 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
 <a id="claim-t-87660"></a>
 - t-001
   global_id: t-87660
-  teiginys: 'Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei.'
+  teiginys: "Vilniaus burmistras ir auksakalys Erazmas Bretneris 1546 m. testamentu skyrė savo namą Švč. Trejybės špitolei."
   pagrindžia:
-    - c-001
+    - c-83639
 - susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
 - susijęs iš 1546 m. Erazmo Bretnerio testamentas: 1546 m. Vilniaus burmistras ir auksakalys Erazmas Bretneris testamentu paskyrė savo namą Švč. Trejybės špitolei.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183846|Žygimantas Augustas (arkivyskupas, XVI a.)]]: 1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.
@@ -55,10 +67,36 @@ Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­ vė), kurio savininkas b
     Trejybės Špitolei, Žr. D u b i ń s k i, p. 79.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-83639
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jono Kolegijos Vaistinės kronika
+    1546. Žygimanto Augusto laikais to mūrinio namo vie­
+    toje, kur buvo Jėzuitų, paskui Universiteto, o dabar Medici­
+    nos Akademijos vaistinė, stovėjo medinis namas su dideliu
+    sklypu, apstatytu mažais nameliais, kampinis, sukant iš
+    Šv. Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo
+    (Šv. Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­
+    vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­
+    lys (Proconsul et aurifex) Erazmas Bretneris. Tas Erazmas Bret-
+    neris testamentu, tais pat metais surašytu, šį namą skyrė Švč.
+    Trejybės Špitolei, Žr. D u b i ń s k i, p. 79.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87660
 
 ## Ryšiai
 - Turėjo priklausinį: [[objektai/daiktai/Namas]]

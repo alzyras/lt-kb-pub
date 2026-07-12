@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valachija
 
@@ -17,9 +29,9 @@ atnaujinta: ''
 <a id="claim-t-185255"></a>
 - t-001
   global_id: t-185255
-  teiginys: 'Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos.'
+  teiginys: "Švitrigaila, siekdamas pataisyti pakrikusius reikalus, pasikvietė samdininkų iš Valachijos ir Skitijos."
   pagrindžia:
-    - c-001
+    - c-168616
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185694|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: Karalius paskelbė Steponą ir Valachiją savo globotiniais ir nusiuntė jiems tris tūkstančius rinktinių karių.
@@ -65,7 +77,42 @@ atnaujinta: ''
     ką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-168616
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Šitaip priekaištavo karaliui eiliniai
+    kariai, kurie visuomet mėgsta laidyti liežuvį, tačiau,
+    antra vertus, netrūko, pasak Dlugošo, lenkų stovykloje
+    didikų, kurie apsuptiesiems teikė žinių ir maisto. Kol
+    dar Luckas laikėsi, Boleslo-
+    Š v itrig a ila
+    d e d a si
+    vas neprarado vilties užbaigti
+    tro k štą s ta ik o s
+    karą taip, kaip norėjo; nuta­
+    ręs pataisyti savo pakrikusius
+    reikalus, jis pasikvietė iš Valachijos bei Skitijos samdi­
+    ninkų. Kadangi šie vargu ar būtų įstengę laiku ateiti
+    437
+
+    ## Puslapis 436
+
+    į pagalbą, jis, norėdamas, kad Luckas nors kurį laiką
+    nebūtų puolamas visomis jėgomis, pasiūlė karaliui tai­
+    ką.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185255

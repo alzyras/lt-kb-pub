@@ -5,6 +5,7 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
+  - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
   - '1251 m.'
   - '1253 m.'
@@ -21,6 +22,18 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Karūna
 
@@ -53,58 +66,65 @@ Nenurodyta
 <a id="claim-t-12301"></a>
 - t-001
   global_id: t-12301
-  teiginys: 'Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje.'
+  teiginys: "Cigala ir Rothas ragino Vytautą karūnuotis ir patarė kaldinti karūnas Vilniuje."
   pagrindžia:
-    - c-006
+    - c-170002
 
 <a id="claim-t-186813"></a>
 - t-002
   global_id: t-186813
-  teiginys: 'Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją.'
+  teiginys: "Vytautas laiške Zigmantui rašė, kad Zigmantas galėsiąs siųsti jam karūną tiesiog per Lenkiją."
   pagrindžia:
-    - c-002
+    - c-169997
 
 <a id="claim-t-186814"></a>
 - t-003
   global_id: t-186814
-  teiginys: 'Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.'
+  teiginys: "Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų."
   pagrindžia:
-    - c-005
+    - c-170001
 
 <a id="claim-t-186815"></a>
 - t-004
   global_id: t-186815
-  teiginys: 'Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas.'
+  teiginys: "Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas."
   pagrindžia:
-    - c-007
+    - c-170003
 
 <a id="claim-t-186816"></a>
 - t-005
   global_id: t-186816
-  teiginys: 'Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d.'
+  teiginys: "Mindaugo krikšto svarbiausias tikslas buvo karūna, kurią jis pasiekė 1253 m. liepos 6 d."
   pagrindžia:
-    - c-003
+    - c-169999
 
 <a id="claim-t-186818"></a>
 - t-006
   global_id: t-186818
-  teiginys: 'Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai.'
+  teiginys: "Komentare nurodoma, kad šiame šaltinyje teigiama, kad karališkieji vainikai Vytautui ir Julijonai buvo nukalti Niurnbergo auksakalių; Šiame gabale vainikai apibūdinami kaip iš Vokietijos gabenti karūnacijos daiktai."
   pagrindžia:
-    - c-004
+    - c-170000
 
 <a id="claim-t-186819"></a>
 - t-007
   global_id: t-186819
-  teiginys: 'Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas.'
+  teiginys: "Komentare nurodoma, kad šiame šaltinyje minima legenda, kad Vytauto vainikas buvo sulydytas į Krokuvos vyskupų mitrą; Šiame gabale Vytauto karūna minima kaip vėlyvesnių politinių pretenzijų ir atminties objektas."
   pagrindžia:
-    - c-001
+    - c-169996
 
 <a id="claim-t-186821"></a>
 - t-008
   global_id: t-186821
-  teiginys: 'Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną.'
+  teiginys: "Po ilgo pamokslo Olesnickis pasiūlė Vytautui Jogailos karūną."
   pagrindžia:
-    - c-008
+    - c-170005
+
+<a id="claim-t-194984"></a>
+- t-009
+  global_id: t-194984
+  teiginys: "Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną."
+  pagrindžia:
+    - c-177369
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176298|Algirdas (Lietuvos valdovas)]]: Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176330|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas ir Algirdas vadinosi karaliais nelaukdami pripažinimo ir karūnos iš Vakarų.
 - susijęs iš [[objektai/asmenys/Hinka iš Valdšteino.md#claim-t-34792|Hinka iš Valdšteino]]: 1421 m. čekų pasiuntinys Hinka iš Valdšteino pasiūlė karūną Jogailai, o šiam delsus čekai kreipėsi į Vytautą.
@@ -181,11 +201,11 @@ Nenurodyta
 - susijęs iš Kėzmarkas: 1429 m., praėjus dvidešimt metų po Kėzmarko suvažiavimo, vėl iškilo Vytauto karūnos klausimas.
 - susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš [[objektai/zodynas/dominija.md#claim-t-173016|dominija]]: Vytauto valdytos Lietuvos dominijos, žemės, turtai ir kunigaikštijos turėjo tekti Jogailai, jo įpėdiniams, karūnai ir Lenkijos karalystei.
 - susijęs iš [[objektai/zodynas/inkorporacija.md#claim-t-47923|inkorporacija]]: Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna.
 - susijęs iš [[objektai/zodynas/inkorporacija.md#claim-t-47924|inkorporacija]]: 1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.
 - susijęs iš [[objektai/zodynas/karūnacija karūnuotis.md#claim-t-104168|karūnacija karūnuotis]]: Vytautas paskyrė karūnacijos datą, rugsėjo 8 d., susikvietė svečių ir laukė imperatoriaus žadėtos karūnos su dokumentais.
+- susijęs iš Vilniaus Aukštutinė pilis: Aukštutinėje tvirtovėje užsidarė lenkai, kuriems vadovavo Karūnos pakancleris Mikalojus Moskoževskis.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176300|Algirdas (Lietuvos valdovas)]]: Algirdas viešpatavo Vitebske ir Krėvoje ir dar Gediminui gyvam esant išgarsėjo mūšiais su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05167|Gediminas (Lietuvos didysis kunigaikštis, XIV a.)]]: Gediminas buvo vadinamas didžiuoju Lietuvos valstybės atnaujintoju.
@@ -319,6 +339,7 @@ Nenurodyta
     gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -336,6 +357,7 @@ Nenurodyta
     Lenkiją^4 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -351,6 +373,7 @@ Nenurodyta
     mas ir vienintelis vainikuotas Lietuvos karalius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -368,6 +391,7 @@ Nenurodyta
     o  ne iš Romos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -385,6 +409,7 @@ Nenurodyta
     mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -399,6 +424,7 @@ Nenurodyta
     karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -413,6 +439,7 @@ Nenurodyta
     karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -429,10 +456,202 @@ Nenurodyta
     vo priimtas paskutiniame Sandomiriaus suvažiavime.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
 
-## Ryšiai
-- Karūna priklausė [[objektai/vietos/Lenkija]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- c-009
+  santrauka: 'Visu savo veikimu jis reiškėsi kaip didis kara lius, bet mirtis sutrukdė jam užsidėti karališką karūną.'
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
+    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
+    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
+    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
+    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
+    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
+    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-009
+
+## Citatos
+
+- id: c-169996
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 264."
+  citata_originali: |
+    *  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų
+    mitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­
+    sispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius
+    ir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­
+    gustą Krokuvoje esančia ar turinčia būti Vytauto karūna.
+  citata_rodoma: "*  Versija apie Vytauto vainiko sulydymą su Krokuvos vyskupų \nmitra yra, veikiausiai, legenda, Išlikusi ligi XVI a. pradžios. JI at­\nsispindi ir 1526 m. LDK atstovų reikalavime, kad Lenkijos karalius \nir Ldk 2ygtmanlas Senasis vainikuotų savo sūnų Žygimantą Au­\ngustą Krokuvoje esančia ar turinčia būti Vytauto karūna."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186819
+
+- id: c-169997
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Kitus Jogailos pa­
+    lydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­
+    ko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj
+    karališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­
+    tikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui
+    rašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per
+    Lenkiją^4 ).
+  citata_rodoma: "Kitus Jogailos pa­\nlydovus Vytautui pasisekė patraukti savo pusėn^2 ). Bet ir tai nie­\nko nepadėjo. Tada dar kartą nutarta kreiptis į likusią Lenkijoj\nkarališką tarybą^3 ) ir, matyt, jau tikrai tikėtasi gauti iš jos su­\ntikimą, nes tuo laiku Vytautas viename savo laiške Zigmantui\nrašo, kad jis dabar galėsiąs jam siųsti karūną tiesiog per\nLenkiją^4 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186813
+
+- id: c-169999
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-
+    jos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-
+    rūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo
+    dienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-
+    mas ir vienintelis vainikuotas Lietuvos karalius.
+  citata_rodoma: "1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaiti-\njos Livonijos ordinui. Svarbiausias tikslas, kurio siekta krikštijantis, – ka-\nrūna. Tikslas buvo pasiektas 1253 m. liepos 6-ąją. Mindaugo vainikavimo\ndienai priklauso garbinga vieta mūsų kalendoriuje: juk Mindaugas – pir-\nmas ir vienintelis vainikuotas Lietuvos karalius."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186816
+
+- id: c-170000
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 264"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 264."
+  citata_originali: |
+    1  Vytautas susirgo 1430 m. tarp spalio 18 ir 21 d., vykdamas
+    su Jogaila j Trakus; kaip J. Dlugošas nurodo - nukrito nuo žirgo.
+    * Vytauto mirties data BK klaidinga. Vytautas mirė Trakuose
+    1430 m. spalio 27 d.
+    ’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo
+    nukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami,
+    o  ne iš Romos.
+  citata_rodoma: "’ Karališkieji vainikai Vytautui ir jo  žmonai Julijonai buvo \nnukalti Niurnbergo (Bavarija) auksakalių ir iš ten buvo gabenami, \no  ne iš Romos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186818
+
+- id: c-170001
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nors nebus nė vieno kunigaikščio,
+    kuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-
+    leisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą
+    nuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl
+    tiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-
+    tur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps
+    mandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų.
+  citata_rodoma: "Nors nebus nė vieno kunigaikščio,\nkuris nevestų derybų dėl krikšto, kryžiaus karų epochos Europa, nebe-\nleisdama valstybėms savarankiškai krikštytis, pati tarsi atstums Lietuvą\nnuo krikščionybės. Lietuva liks savarankiška civilizacinė monada, todėl\ntiek Gediminas, tiek Algirdas, nelaukdami pripažinimo ir karūnos iš sve-\ntur, nemandagiai (Vakarų žvilgsniu) vadinsis karaliais. Tik Vytautas taps\nmandagesnis ir sieks įgyti karūną ir pripažinimą iš Vakarų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186814
+
+- id: c-170002
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tuo tarpu atvyko į Vilnių ir lenkų dele­
+    gacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­
+    liovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj
+    karūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų.
+  citata_rodoma: "Tuo tarpu atvyko į Vilnių ir lenkų dele­\ngacija^6 ). Čia dar tebebuvo ir Cigala ir Rothas, kurie nesi­\nliovė Vytautą įkalbinėt karūnuotis, patardami kaldinti Vilniuj\nkarūnas ir jomis karūnuotis. Tą ir pats Zigmantas esą patvirtintų."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-12301
+
+- id: c-170003
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gerbti ir garbinti
+    Vytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,
+    laimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai
+    karaliaus karūnos, kurią „nugvelbė“ klastingi lenkai...
+  citata_rodoma: "Gerbti ir garbinti\nVytautą Didįjį, suaktualinus jo istorinį vaidmenį, tiko visiems: karvedys,\nlaimėjęs Žalgirio mūšį, išplėtęs Lietuvą nuo jūrų iki jūrų, siekęs Lietuvai\nkaraliaus karūnos, kurią „nugvelbė“ klastingi lenkai..."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186815
+
+- id: c-170005
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­
+    kis, kažin keno naudai būtų pasibaigęs.
+
+    Pasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­
+    siūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­
+    vo priimtas paskutiniame Sandomiriaus suvažiavime.
+  citata_rodoma: "Tad ir kilęs karas, galvojant taip, kaip galvojo Olesnic­\nkis, kažin keno naudai būtų pasibaigęs.\n\nPasakęs tokį ilgą ir griaudingą pamokslą, Olesnickis pa­\nsiūlė Vytautui Jogailos karūną^2 ). Toks sumanymas, matyt, bu­\nvo priimtas paskutiniame Sandomiriaus suvažiavime."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186821
+
+- id: c-177369
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Dar labiau lietuvio dėmesį nuo seno traukia garsas ir
+    darbai kito valdovo. Visu savo veikimu jis reiškėsi kaip didis kara­
+    lius, bet mirtis sutrukdė jam užsidėti karališką karūną. Abu tuos du
+    valdovus jungia vienas bendras bruožas : judviejų politikos ir vei­
+    kimo klausimais istorikai, nors apie abu yra gana daug rašę, iki šiol
+    dar tebesiginčija, nepajėgdami suderinti kai kurių prieštaravimų,
+    negalėdami pasakyti galutino žodžio dėl kai kurių problemų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194984

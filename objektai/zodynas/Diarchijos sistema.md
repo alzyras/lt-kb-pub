@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Diarchijos sistema
 
@@ -19,9 +31,9 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
 <a id="claim-t-28579"></a>
 - t-001
   global_id: t-28579
-  teiginys: 'Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.'
+  teiginys: "Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo."
   pagrindžia:
-    - c-001
+    - c-28483
 - susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.
 ## Reikšmingi paminėjimai
 
@@ -34,7 +46,26 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
     Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-28483
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Anot Lietuvos Metraščio, Algirdas ir Kęstutis susitarė, jog
+    ateityje bendromis jėgomis įsigytos žemės turės būti pasidalintos
+    pusiau^2. Pagal tą susitarimą Kęstutis buvo Algirdo padėjėjas.
+    Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28579

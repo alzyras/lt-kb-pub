@@ -24,6 +24,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ambrassat A. Die Provinz Ostpreussen
 
@@ -36,17 +48,16 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
 <a id="claim-t-60947"></a>
 - t-001
   global_id: t-60947
-  teiginys: 'Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo.'
+  teiginys: "Ambrassato veikalo puslapis 421 nurodomas prie Gilgenburgo pilies ir miesto datavimo aptarimo."
   pagrindžia:
-    - c-002
+    - c-61581
 
 <a id="claim-t-60949"></a>
 - t-002
   global_id: t-60949
-  teiginys: 'A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m.'
+  teiginys: "A. Ambrassato veikalas „Die Provinz Ostpreussen“ išleistas Karaliaučiuje 1912 m."
   pagrindžia:
-    - c-001
-
+    - c-61580
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -56,6 +67,7 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +87,45 @@ Dusburgietis teigia, kad 33, p. 286; MGP, p. 50; Ambrassat A., Die Provinz Ostpr
     HGAPW).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61580
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 260"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 260."
+  citata_originali: |
+    Ambrassat A. Die Prowinz Ostpreussen —Königsberg i. Pr., 1912.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60949
+
+- id: c-61581
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 224"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 224."
+  citata_originali: |
+    595 D.— Ylienburgk, Jer.— Ilgenburc; 1339—1340 m — Ylienburc, Ylienburgk (PUB,
+    3, 1, Nr. 258, 330), 1347, 1350 m.— Ylginburg (ten pat, 4, Nr. 180, 605), 1348—1351
+    m. — Ilgenburgk (ten pat, Nr. 349, 455, 615, 692); tai vėlesnis Gilgenburgas (dab.
+    Dąbrówno) sąsmaukoje tarp dviejų ežerų, senoje Sasnos žemėje. Ordino pilis statyta
+    1319 m., prie jos miestas įkurtas 1326 m. (PUB, 3, 3, p. 708, 697; Weber L., Preussen...,
+    p. 473; Ambrassat A., Die Provinz..., p. 421). Apylinkėse prie minėtų ežerų yra trys
+    piliakalniai (Sch-K XVI; CV, t. 32. 2 (1939), p. 313; MGP, II G Nr. 91, II H Nr. 46, 47;
+    HGAPW).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-60947

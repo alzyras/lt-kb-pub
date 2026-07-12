@@ -15,11 +15,6 @@ datos:
   - '2026 m.'
 date_start: '1389'
 date_end: '2026'
-description: 'Riazanė Lietuvos istorijoje minima kaip Vytauto rytų politikos taikinys, susijęs su Smolensku, Maskva, Trakais ir Vilniumi.'
-socialDescription: 'Riazanė Vytauto laikais buvo svarbi rytų politikos kryptis: čia susikirto Lietuvos, Maskvos, Tverės ir vietos kunigaikščių interesai.'
-seo_atnaujinta: '2026-07-02T23:12:35.408504+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -30,105 +25,117 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Riazanė
 
 ## Santrauka
 
-Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vytautas siekė valdžios arba stiprios politinės įtakos. Šaltiniuose ji siejama su Vytauto žygiais iš Smolensko, konfliktu su Riazanės kunigaikščiu Olegu ir Maskvos valdovo slapta sąjunga prieš Vytautą. 1430 m. Riazanės kunigaikščiai minimi tarp atvykusių į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
+Šito žygio metu buvo pasiekta net Tula, Kaluga ir Riazanė. Be paties Vytauto ir Jogailos, čia atvyko Maskvos, Tverės, Riazanės kunigaikščiai; atvyko daugybė Vytauto priklausomų rusų kunigaikščių; pagaliau atvyko pats imperatorius Zigmantas, popiežiaus legatas ir daugelio Vokietijos miestų ir kunigaikščių atstovų. Riazanei buvo palikta teisė pačiai pasirinkti sau globą.
 
 ## Teiginiai
 
 <a id="claim-t-99062"></a>
 - t-001
   global_id: t-99062
-  teiginys: 'Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką.'
+  teiginys: "Vytautas siekė paimti Riazanę ir kitas rytų žemes savo valdžion arba turėti joms didelę įtaką."
   pagrindžia:
-    - c-004
+    - c-37695
 
 <a id="claim-t-99064"></a>
 - t-002
   global_id: t-99064
-  teiginys: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
+  teiginys: "1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi."
   pagrindžia:
-    - c-007
+    - c-93193
 
 <a id="claim-t-99065"></a>
 - t-003
   global_id: t-99065
-  teiginys: 'Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos.'
+  teiginys: "Iš Smolensko puldamas Riazanę Vytautas priartėjo prie savo žento Vosyliaus I valdų, nors oficialiai laikėsi su juo taikos."
   pagrindžia:
-    - c-001
+    - c-32383
 
 <a id="claim-t-99066"></a>
 - t-004
   global_id: t-99066
-  teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.'
+  teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą."
   pagrindžia:
-    - c-005
+    - c-93189
 
 <a id="claim-t-99067"></a>
 - t-005
   global_id: t-99067
-  teiginys: 'Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką.'
+  teiginys: "Vytautas siekė Riazanę ir kitas rytų žemes paimti savo valdžion arba turėti joms didelę įtaką."
   pagrindžia:
-    - c-004
+    - c-37695
 
 <a id="claim-t-99069"></a>
 - t-006
   global_id: t-99069
-  teiginys: 'Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė.'
+  teiginys: "Jurgis pabėgo į Riazanę pas savo uošvį kunigaikštį Olegą, kuris jį priėmė."
   pagrindžia:
-    - c-003
+    - c-37694
 
 <a id="claim-t-99070"></a>
 - t-007
   global_id: t-99070
-  teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
+  teiginys: "Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies."
   pagrindžia:
-    - c-005
+    - c-93189
 
 <a id="claim-t-99072"></a>
 - t-008
   global_id: t-99072
-  teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.'
+  teiginys: "1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų."
   pagrindžia:
-    - c-007
+    - c-93193
 
 <a id="claim-t-99073"></a>
 - t-009
   global_id: t-99073
-  teiginys: 'Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles.'
+  teiginys: "Vytautas ties Niekudavu sutriuškino Riazanės kunigaikščio eiles."
   pagrindžia:
-    - c-002
+    - c-32384
 
 <a id="claim-t-99074"></a>
 - t-010
   global_id: t-99074
-  teiginys: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
+  teiginys: "Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą."
   pagrindžia:
-    - c-006
+    - c-93192
 
 <a id="claim-t-183088"></a>
 - t-011
   global_id: t-183088
-  teiginys: 'Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė.'
+  teiginys: "Vytauto žygio metu buvo pasiektos Tula, Kaluga ir Riazanė."
   pagrindžia:
-    - c-008
+    - c-166476
 
 <a id="claim-t-185123"></a>
 - t-012
   global_id: t-185123
-  teiginys: 'Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių.'
+  teiginys: "Stanislovas, kijeviečiams ginantis nuo Gedimino, pabėgo į Riazanę ir ten išsižadėjo bet kokių vilčių."
   pagrindžia:
-    - c-009
+    - c-168484
 
 <a id="claim-t-187646"></a>
 - t-013
   global_id: t-187646
-  teiginys: 'Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių.'
+  teiginys: "Jurgis Svetoslavovičius tuo metu viešėjo Riazanėje pas savo uošvį Olegą Ivanovičių."
   pagrindžia:
-    - c-010
+    - c-170592
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę.md#claim-t-186578|Vytauto siųstas žygis į Riazanę]]: Lietuvos metraštis pasakoja, kad 1396 m. Vytautas prieš Riazanės kunigaikštį Olegą pasiuntė Simoną Lengvenį su Smolensko pajėgomis.
@@ -194,11 +201,10 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
 - susijęs iš Tverė: 1449 m. Kazimieras ir Maskva pasidalijo įtakos sritimis, o Tverė liko Lietuvos įtakoje.
 - susijęs iš Tverė: Kazimierui pasidalijus įtakos sritimis su Maskva, Tverė buvo palikta Lietuvos įtakoje.
 - susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
-- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 - susijęs iš Vitebskas: Vytautas apsupo Vitebską ir po keturias savaites trukusio puolimo užėmė miestą.
 - susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
 - susijęs iš [[objektai/zodynas/tėvonies kunigaikštis.md#claim-t-187562|tėvonies kunigaikštis]]: Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių vadina tėvonies kunigaikščiu, kurio norėjo dalis miestiečių.
+- susijęs iš Vilniaus Aukštutinė pilis: Dmitrijus Kaributas su žmona ir vaikais buvo uždarytas Vilniaus Aukštutinėje pilyje ir ilgai saugomas sargybos.
 - susijęs iš [[objektai/ivykiai/Vytauto šalininkų žygis į Riazanę.md#claim-t-185834|Vytauto šalininkų žygis į Riazanę]]: Simonas Lengvenis su lietuvių kariuomenės dalimi nusiaubė Riazanės kunigaikščio valdas tarp Okos ir Dono.
 ## Reikšmingi paminėjimai
 
@@ -216,6 +222,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     Tverės kunigaikštį Mykolą10 11.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -231,6 +238,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     vai artimas žemes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -250,6 +258,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -268,6 +277,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     ar bent turėti jiems didelę įtaką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -299,6 +309,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -316,6 +327,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     įvarė baimės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -340,6 +352,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     magistras, Mazovijos kunigaikščiai ir totorių chanai84.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -357,6 +370,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     išdrįso kariauti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -379,6 +393,7 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     Valdovo nusivylimas palaužė apgultųjų drąsą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -406,12 +421,242 @@ Riazanė Lietuvos istorijos kontekste iškyla kaip viena rytų žemių, kur Vyta
     auksiniais indais ir bachmatais ls.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
 
+## Citatos
+
+- id: c-32383
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
+    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
+    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
+    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
+    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
+    (1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas
+    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
+    Tverės kunigaikštį Mykolą10 11.
+  citata_rodoma: "Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos. Maskvos valdovas\ntačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar\nTverės kunigaikštį Mykolą10 11."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99065
+
+- id: c-32384
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kai Vytautas ties Niekudavu (Ka­
+    lugos gubern.) sutriuškino Riazanės kunigaikščio eiles, Vosyliui tai
+    įvarė baimės. Jis du kartu pasimatė su Vytautu (prie Kolomnos
+    netoli Maskvos ir Smolenske)^11 , sutikdamas perleisti jo įtakai Mask­
+    vai artimas žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99073
+
+- id: c-37694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Pily savo vietininkais Vytautas pali­
+    ko kun. Jomantą ir Vosylių Boreikovičių (Boreiką) ir, neilgai
+    buvęs, su dideliu skaičium belaisvių bei dideliais turtais sugrįžo
+    į Lietuvą^1 ).
+    Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir
+    savo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­
+    bo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris
+    jį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti.
+  citata_rodoma: "Šis įvykis, smarkiai sustiprinęs Lietuvos galybę, turėjo ir\nsavo išdavų, nes Jurgis, bijodamas, kad ir jo nesulauktų Hle­\nbo likimas, pabėgo į Riazanių pas savo uošvį kun. Olegą, kuris\njį priėmė. Už tai Vytautas pavedė Olegą Lengveniui nubausti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99069
+
+- id: c-37695
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Palaikydamas labai gyvus politinius santykius
+    su lenkais ir Ordinu, Vytautas turėjo visą laiką kreipti daug
+    dėmesio ir į rytus. Per metų metus rytų reikalai jam vyrauja;
+    jis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas
+    rytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­
+    gardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­
+    čiai, totoriai. Vytautas nori visus juos paimti savo valdžion
+    ar bent turėti jiems didelę įtaką.
+  citata_rodoma: "Per metų metus rytų reikalai jam vyrauja;\njis taikosi ir su vakarų kaimynais, kad tik turėtų laisvas rankas\nrytuose, kur jam ir priešų ir draugų buvo daug: Pskovas, Nau­\ngardas, Maskva, Tveris, Riazanė, Okos aukštupio kunigaikš­\nčiai, totoriai. Vytautas nori visus juos paimti savo valdžion\nar bent turėti jiems didelę įtaką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99067
+    - t-99062
+
+- id: c-93189
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Paminėsime tad tik
+    žymesnius įvykius, kurie dėjosi Vilniuje Vytauto laikais.
+    Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­
+    ventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri-
+    jaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam
+    nepanorus mokėti nuo Seversko duoklės kaipo viršesniam
+    valdovui, sumušęs pradinėse kautynėse prie Nedokudo-
+    vo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs
+    patį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­
+    gaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur
+    gana ilgai buvo saugomas sargybos, kol, atkakliai prašant
+    ir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo
+    139
+
+    ## Puslapis 156
+
+    VILNIAUS MIESTO ISTORIJA / TOMAS
+    paleistas ir iš Seversko valstybės, jau prijungtos prie Lie­
+    tuvos, perkeltas į Volumes ir Podolės didžiules vaidas55.
+  citata_rodoma: "Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­\nventojai vilniečiai sulaukė vieno iš Algirdo sūnų Dmitri- \njaus Kaributo, Seversko kunigaikščio, kurį Vytautas, anam \nnepanorus mokėti nuo Seversko duoklės kaipo viršesniam \nvaldovui, sumušęs pradinėse kautynėse prie Nedokudo- \nvo, paskui apsupo Seversko Naugarde ir tą miestą užėmęs \npatį Kaributą sučiupo. Paimtas su žmona ir vaikais, kuni­\ngaikštis buvo uždarytas Vilniaus Aukštutinėje pilyje, kur \ngana ilgai buvo saugomas sargybos, kol, atkakliai prašant \nir laiduojant Riazanės kunigaikščiui Olegui, jo uošviui, buvo\n139\n\n## Puslapis 156\n\nVILNIAUS MIESTO ISTORIJA / TOMAS\npaleistas ir iš Seversko valstybės, jau prijungtos prie Lie­\ntuvos, perkeltas į Volumes ir Podolės didžiules vaidas55."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99070
+    - t-99066
+
+- id: c-93192
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Maskvos valdovas
+    tačiau slapton sąjungon prieš uošvį buvo įtraukęs Riazanę ir dar
+    Tverės kunigaikštį Mykolą10 11. Kai Vytautas ties Niekudavu (Ka­
+    lugos gubern.) sutriuškino Riazanės kunigaikščio eiles, Vosyliui tai
+    įvarė baimės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99074
+
+- id: c-93193
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    VILNIAUS MIESTO ISTORIJA I TOMAS
+    priešinimasis, nei pagaliau Jogailos pasiskelbimas, kad per­
+    leidžiąs Lenkijos karūną Vytautui. Vytautas, vienintelio
+    troškimo apimtas, sukviečia pas save įžymiausius šiaurės
+    šalių kunigaikščius arba jų pasiuntinius, ketindamas jiems
+    dalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430
+    metais), kur didysis kunigaikštis paprastai gyvendavo di­
+    džiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­
+    gaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir
+    Riazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­
+    vos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­
+    nus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos
+    magistras, Mazovijos kunigaikščiai ir totorių chanai84.
+  citata_rodoma: "Vytautas, vienintelio \ntroškimo apimtas, sukviečia pas save įžymiausius šiaurės \nšalių kunigaikščius arba jų pasiuntinius, ketindamas jiems \ndalyvaujant karūnuotis Lietuvos karaliumi. Į Trakus (1430 \nmetais), kur didysis kunigaikštis paprastai gyvendavo di­\ndžiulėje pilyje, ir į Vilnių atvyksta: Maskvos didysis kuni­\ngaikštis Vasilijus Vasiljevičius, vadintas Akluoju, Tverės ir \nRiazanės kunigaikščiai bei daugelis kitų iš Rusios; Mask­\nvos metropolitas Fotijas, Valakijos vaivada Aleksandro sū­\nnus Elijas, Prūsijos didysis magistras Rusdorfas, Livonijos \nmagistras, Mazovijos kunigaikščiai ir totorių chanai84."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-99064
+    - t-99072
+
+- id: c-166476
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Be to, jis pats pasidarė
+    savo vaikaičio, Maskvos kunigaikščio, globėju. Šito žygio metu
+    buvo pasiekta net Tula, Kaluga ir Riazanė. Iš tikro tai buvo
+    ne karas, o vien kelionės žygis, nes rusų kunigaikštėliai net ne-
+    išdrįso kariauti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183088
+
+- id: c-168484
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 201"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 201."
+  citata_originali: |
+    Be abejo, miestas ilgai būtų valiojęs stabdyti per­
+    galingą lietuvių veržimąsi, jeigu Stanislovas būtų čia
+    iš visur sutraukęs savo karių ir sąjungininkų būrius
+    ir sudaręs galimybę neįstengiant atnaujinti karo su­
+    laukti kokios paramos. Kai kijeviečiai, įveikę'baimę ir
+    mintis apie pasidavimą, atgavo drąsą ir atstūmė lie­
+    tuvius ginklais bei narsa nuo sienų, iš paskutiniųjų
+    trukdydami Gediminui laimėti pergalę, Stanislovas gė­
+    dingai pabėgo net į Riazanę, kur, neturėdamas nei ka­
+    riuomenės, nei valdžios, išsižadėjo bet kokių vilčių.
+    Valdovo nusivylimas palaužė apgultųjų drąsą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185123
+
+- id: c-170592
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    O kunigaikštis Jurgis Svetoslavovičius tuo metu
+    viešėjo Riazanėje pas savo uošvį, kunigaikštį Olegą
+
+    ## Puslapis 97
+
+    Ivanovičių IJ. Didysis kunigaikštis Vytautas prieš Ria-
+    zanės kunigaikštį Olegą pasiuntė kunigaikštį Simoną
+    Lengvenį su didele kariuomene ir su Smolensko pajė­
+    gomis; tie parsivarė daugybę belaisvių riazaniečių ir
+    su dideliu grobiu sugrįžo pas Vytautą (1396)1 3 .
+    Tą pačią žiemą, pavasariop H , į Smolenską, pas savo
+    tėvą uošvį, didįjį kunigaikštį Vytautą, atvažiavo Mask­
+    vos didysis kunigaikštis Vasilijus Dimitrijevičius ir pa­
+    gerbė didįjį kunigaikštį brangiomis dovanomis; auksi­
+    nėmis grandinėmis ir diržais, sabalais, brangakmeniais,
+    auksiniais indais ir bachmatais ls.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187646
+
 ## Ryšiai
-- Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]], [[objektai/grupes/Užvolgio totoriai]], [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Užėmė Riazanę: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
-- Buvo siuntimo vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
+- Puolė Riazanę: [[objektai/asmenys/Chudandachas]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]

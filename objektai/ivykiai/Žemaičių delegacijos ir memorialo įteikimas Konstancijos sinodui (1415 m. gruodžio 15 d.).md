@@ -14,6 +14,18 @@ tags:
   - kunigas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žemaičių delegacijos ir memorialo įteikimas Konstancijos sinodui (1415 m. gruodžio 15 d.)
 
@@ -42,10 +54,9 @@ Nenurodyta
 <a id="claim-t-35923"></a>
 - t-001
   global_id: t-35923
-  teiginys: '1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“.'
+  teiginys: "1415 m. gruodžio 15 d. į Konstancijos sinodą buvo nusiųsta 60 pakrikštytų žemaičių bajorų, kurie įteikė memorialą „Propositio Samaytarum“."
   pagrindžia:
-    - c-001
-
+    - c-38334
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,7 +74,34 @@ Nenurodyta
     skaityti^3 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-38334
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Prieš Ordiną toliau Vytautas kartu su Lenkija
+    vedė tai ginklu, tai diplomatišką kovą siekdamas išgauti amžiną
+    atsisakymą nuo Žemaitijos. Tos kovos metu jis vėl pagarsino
+    savo darbus ir sukompromitavo katalikiško pasaulio akyse
+    Ordiną. Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios
+    sinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­
+    joru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­
+    sitio Samaytarum” kurio dėl graudingumo, kaip sako prof.
+    kunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis
+    skaityti^3 ).
+  citata_rodoma: "Jis 1415 mt. gruodžio 15 d. į visuotinį Bažnyčios\nsinodą Konstancijoje nusiuntė net 60 apkrikštytu žemaičių ba­\njoru, kurie įteikė sinodui ilgą memorialą — skundą „Propo­\nsitio Samaytarum” kurio dėl graudingumo, kaip sako prof.\nkunigas Dr. J. Fijalek, ir šiandien dar negalima sausomis akimis\nskaityti^3 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35923

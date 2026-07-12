@@ -17,6 +17,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Mstislavlis
 
@@ -29,44 +41,44 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
 <a id="claim-t-182082"></a>
 - t-001
   global_id: t-182082
-  teiginys: 'Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai.'
+  teiginys: "Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo paklusnumą Jogailai."
   pagrindžia:
-    - c-002
+    - c-165574
 
 <a id="claim-t-182083"></a>
 - t-002
   global_id: t-182083
-  teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.'
+  teiginys: "Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą."
   pagrindžia:
-    - c-001
+    - c-165572
 
 <a id="claim-t-182085"></a>
 - t-003
   global_id: t-182085
-  teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
+  teiginys: "Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį."
   pagrindžia:
-    - c-003
+    - c-165575
 
 <a id="claim-t-185058"></a>
 - t-004
   global_id: t-185058
-  teiginys: 'Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį.'
+  teiginys: "Praradę viltį užimti Smolenską, Šemiačičiai patraukė prie Mstislavlio, bet Ivanas Solomereckis atrėmė antpuolį."
   pagrindžia:
-    - c-004
+    - c-168419
 
 <a id="claim-t-187618"></a>
 - t-005
   global_id: t-187618
-  teiginys: 'Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo.'
+  teiginys: "Lietuvos metraštis vaizduoja, kad Gavėnios metu Svetoslavas su Smolensko bajorais patraukė į Mstislavlį ir ten praliejo daug krikščioniško kraujo."
   pagrindžia:
-    - c-005
+    - c-170565
 
 <a id="claim-t-187619"></a>
 - t-006
   global_id: t-187619
-  teiginys: 'Lietuvos metraščio pasakojime kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų.'
+  teiginys: "Lietuvos metraščio pasakojime kunigaikštis Svetoslavas stovėjo prie Mstislavlio ir šaudė į miestą iš patrankų."
   pagrindžia:
-    - c-006
+    - c-170566
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179685|Sviatoslavas]]: Sviatoslavas žuvo prie Mstislavlio ant Vechros kranto.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
@@ -133,6 +145,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     (^16) **MLLG, V, 1907, 358-361 p.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -148,6 +161,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -162,6 +176,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     Bet maištininkai greitai buvo įveikti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -188,6 +203,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     apygarda, sėkmingai atrėmė antpuolį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -210,6 +226,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     praliejo daug krikščioniško kraujo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -228,16 +245,136 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
     gaila IJ.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
+## Citatos
+
+- id: c-165572
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    jo garnizonai įsikūrė Rževe ir Bialoje. Iki 1362 jis užėmė Smolensko
+    kunigaikštijai priklausantį Mogiliavą, Toropiecą, Mstislavlį ir kt.
+    Pats Smolenskas tapo apsuptas Algirdo valdomis, taigi jo valiai
+    (^16) **MLLG, V, 1907, 358-361 p.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182083
+
+- id: c-165574
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Bet maištininkai greitai buvo įveikti. Pačiam Sviatoslavui žuvus
+    prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo
+    Jogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur
+    jis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon.
+  citata_rodoma: "Pačiam Sviatoslavui žuvus\nprie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo\nJogailai paklusnumą. O Skirgaila, sėkmingai apgulęs Polocką, kur\njis pats atsisėdo, Andrių paėmė nelaisvėn ir išsiuntė Lenkijon."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182082
+
+- id: c-165575
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Už pažadą ginti nuo priešų, jis ordinui buvo
+    užrašęs «visą savo Polocko karalystę». Būdamas sąjungoje su
+    Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
+    Bet maištininkai greitai buvo įveikti.
+  citata_rodoma: "Būdamas sąjungoje su\nAndriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.\nBet maištininkai greitai buvo įveikti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182085
+
+- id: c-168419
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neimdami į rankas kir-
+    paliaubų są ly g a
+    vių, pjūklais kariai prisipjo­
+    vė medžių ir taip žvaliai bei
+    5 67
+
+    ## Puslapis 566
+
+    išmoningai užtaisė rąstais visus sienų plyšius, kad Še-
+    miačičiai rytą suprato nieku būdu negalėsią užimti pi­
+    lies. Praradę viltį užkariauti Smolenską, jie savo jėgas
+    patraukė prie Mstislavlio, bet ir čia nesusilaukė dides­
+    nės sėkmės. Mat kunigaikštis Ivanas Solomereckis, pa­
+    garsėjęs karvedys, kuriam buvo patikėtas miestas ir
+    apygarda, sėkmingai atrėmė antpuolį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185058
+
+- id: c-170565
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir prisikariavę bei paėmę belaisvių, bet neįveikę pi­
+    lių sugrįžo, iš kur atėję.
+    Tą pačią žiemą, Gavėnios metu, Svetoslavas su Smo­
+    lensko bajorais ėmė tartis dėl krikščionių kraujo pra­
+    liejimo ir patraukė į Mstislavlio miestą8 . Sustoję prie
+
+    ## Puslapis 89
+
+    Mstislavlio, pradėjo šturmuoti miestą ir daužyti iš pa­
+    trankų, o savo karius paleido po Mstislavlio žemų ir
+    praliejo daug krikščioniško kraujo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187618
+
+- id: c-170566
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Žygiuokime prieš jį,
+    pasitikėdami dievu ir krikščionių galybe."
+    Ir atžygiavo prie Mstislavlio. O kunigaikštis Sveto­
+    slavas, kuris stovėjo prie miesto ir šaudė į Mstislavlį
+    iš patrankų, išgirdo Didžiosios Savaitės 1 1  penktadienį,
+    kad prieš jį ateina su broliais didysis kunigaikštis Skir­
+    gaila IJ.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187619
+
 ## Ryšiai
 - Turėjo valdovą: [[objektai/asmenys/Karigaila]]
-- Buvo valdoma: [[objektai/grupes/Gediminaičiai]], [[objektai/asmenys/Sviatoslavas]]
-- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]], [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis (valdovas, XIV a.)]]
+- Buvo valdoma: [[objektai/asmenys/Sviatoslavas]]
+- Buvo kelionės vieta: [[objektai/grupes/Lietuvos kariuomenė]]
 - Mirties vieta: [[objektai/asmenys/Sviatoslavas]]
 - Užėmė Mstislavlį: [[objektai/asmenys/A. N. Trubeckojus]], [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]], [[objektai/asmenys/Sviatoslavas]]
-- Buvo žygio kryptis: [[objektai/grupes/Bajorai]]
-- Mstislavlis priklausė [[objektai/vietos/Smolenskas]]

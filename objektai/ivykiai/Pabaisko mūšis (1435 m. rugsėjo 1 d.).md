@@ -22,6 +22,18 @@ tags:
   - mūšis
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Pabaisko mūšis (1435 m. rugsėjo 1 d.)
 
@@ -50,45 +62,44 @@ Nenurodyta
 <a id="claim-t-66810"></a>
 - t-001
   global_id: t-66810
-  teiginys: 'Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau.'
+  teiginys: "Priešas Pabaisko apylinkėse atsitraukė į patogesnes pozicijas, bet lietuvių-lenkų kariuomenė jį smogė ir perskėlė pusiau."
   pagrindžia:
-    - c-001
+    - c-13100
 
 <a id="claim-t-66811"></a>
 - t-002
   global_id: t-66811
-  teiginys: 'Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas.'
+  teiginys: "Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą, pasibaigusį 1435 m. Pabaisko mūšiu, o jame dalyvavęs Livonijos ordinas buvo visiškai susilpnintas."
   pagrindžia:
-    - c-003
+    - c-13104
 
 <a id="claim-t-66812"></a>
 - t-003
   global_id: t-66812
-  teiginys: '1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas.'
+  teiginys: "1435 m. rugsėjo 1 d. prie Ukmergės, prie Šventosios upės, įvyko mūšis, kuriame Žygimantas ir jo sūnus Mykolas sumušė Švitrigailos pajėgas."
   pagrindžia:
-    - c-004
+    - c-43098
 
 <a id="claim-t-66813"></a>
 - t-004
   global_id: t-66813
-  teiginys: 'Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę.'
+  teiginys: "Pabaisko mūšyje Švitrigailos ir Ordino kariuomenė palūžo ir bėgo, o daug žmonių pateko į nelaisvę."
   pagrindžia:
-    - c-002
+    - c-13101
 
 <a id="claim-t-66814"></a>
 - t-005
   global_id: t-66814
-  teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.'
+  teiginys: "Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis."
   pagrindžia:
-    - c-005
+    - c-43099
 
 <a id="claim-t-66815"></a>
 - t-006
   global_id: t-66815
-  teiginys: 'Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią.'
+  teiginys: "Žygimantas Kęstutaitis pergalei Pabaiske atminti pastatė parapinę bažnyčią."
   pagrindžia:
-    - c-006
-
+    - c-43100
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -120,7 +131,8 @@ Nenurodyta
     gelio aukų. Pagaliau, nežiūrint viršijančių
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -141,7 +153,8 @@ Nenurodyta
     kovos paėmė į nelaisvę.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
@@ -154,7 +167,8 @@ Nenurodyta
     ir jame dalyvavęs vis dar Lietuvai grasinęs Livonijos ordinas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -168,7 +182,8 @@ Nenurodyta
     vėn arba nukovė daugelį kunigaikščių.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -194,7 +209,8 @@ Nenurodyta
     „Žalgiris“ Livonijos ordinui.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
@@ -213,10 +229,151 @@ Nenurodyta
     šiandien tebestovi Pabaiske.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
 
+## Citatos
+
+- id: c-13100
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Kariuomenės sustojo viena prieš kitą ne-
+    toliese, taip, kad jas tik mažas upelis skyrė“.
+    Taip jos kelias paras stovėjo, susikaupę
+    laukė mūšio. Šią kariuomenių išsidėstymo
+    situaciją natūroje atitinka ne Žirnajos (kaip
+    įprasta istoriografijoje), bet jos dešiniojo
+    intako Vintaros, tekančios per dabartinį
+    Pabaisko miestelį, padėtis.
+
+    Kokiose pozicijose buvo sustojusi kelyje
+    Gelvonų link Švitrigailos - Ordino ka-
+    riuomenė, ar buvo perėjusi Žirnajos upę
+    (kaip teigiama istoriografijoje), nėra aišku.
+    Greičiausiai tame kelyje tebuvo pereita tik
+    Vintara.
+
+    Švitrigaila ir Ordinas nutarė rugsėjo
+    1-ąją atsitraukti į patogesnes pozicijas. Kai
+    šį kariuomenės judėjimą pastebėjo lie-
+    tuvių-lenkų kariuomenė, ji smogė besi-
+    traukiančio priešo būriams, pirmiausia
+    livoniečiams. Priešo kariuomenė buvo
+    perskelta pusiau. Mūšis pareikalavo dau-
+    gelio aukų. Pagaliau, nežiūrint viršijančių
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66810
+
+- id: c-13101
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Švitrigailos ir Ordino jėgų, „kryžiuočių, li-
+    voniečių, totorių ir rusėnų kariuomenė pa-
+    lūžo ir bėgo“. Lietuvių ir lenkų kariuomenė
+    vijosi priešą, daug jų pateko į nelaisvę, pa-
+    skendo Šventojoje. 15 dienų buvo gaudomi
+    po miškus klaidžiojantys „kryžiuočių ir
+    livoniečių bėgliai“. Dar nesuspėję į mūšį
+    atvykti rezerviniai livoniečių daliniai, suži-
+    noję apie pralaimėjimą, pasislėpė netoliese,
+    apie tai sužinoję lietuviai greitai juos be
+    kovos paėmė į nelaisvę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66813
+
+- id: c-13104
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Po Vytauto mirties kilusios sosto dalybos sukėlė pilietinį karą,
+    pasibaigusį 1435 m. Pabaisko mūšiu. Buvo visiškai susilpnintas
+    ir jame dalyvavęs vis dar Lietuvai grasinęs Livonijos ordinas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66811
+
+- id: c-43098
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Ir buvo mūšis rugsėjo pirmąją dieną, per šventą Simoną. Kovėsi už Ukmergės, prie
+    Šventosios upės. Ir dievas padėjo didžiajam kunigaikščiui Žygimantui ir jo sūnui, kuni- |
+    gaikščiui Mykolui; jie sumušė kunigaikštį Švitrigailą bei visas jo pajėgas ir paėmė nelais- |
+    vėn arba nukovė daugelį kunigaikščių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66812
+
+- id: c-43099
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pabaisko (Šventosios) mūšyje žuvo
+    Livonijos magistras Kerskorfas, marša-
+
+    las Nesselrodė, žuvo dauguma Livonijos
+    komtūrų ir riterijos krito, paimta į ne-
+    laisvę daug Švitrigailos karių. Be to, paimta
+    daug priešo vėliavų, kurios pergalės garbei
+    buvo pakabintos Vilniaus katedroje. Po šio
+    mūšio Livonijos ordinas nebedarė jokios
+    įtakos Lietuvos vidaus reikalams, jis vis
+    labiau silpo ir nebeteko jokios politinės
+    reikšmės. Pabaisko mūšis imperatoriaus
+    laiške didžiajam magistrui lyginamas su
+    Tanenbergo- Žalgirio kautynėmis. Tai buvo
+    „Žalgiris“ Livonijos ordinui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66814
+
+- id: c-43100
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pabaisko mūšis imperatoriaus
+    laiške didžiajam magistrui lyginamas su
+    Tanenbergo- Žalgirio kautynėmis. Tai buvo
+    „Žalgiris“ Livonijos ordinui. Didysis ku-
+    nigaikštis Žygimantas Kęstutaitis pergalei
+
+    atminti pastatė parapinę bažnyčią (1436-
+    1440 m.), kuri daug kartų perstatyta ir
+    šiandien tebestovi Pabaiske.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66815
+
 ## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Lenkai]], [[objektai/grupes/Lietuviai]], [[objektai/grupes/Livonijos ordinas]], [[objektai/grupes/Rusėnai]], [[objektai/asmenys/Švitrigaila]], [[objektai/grupes/Totoriai]], [[objektai/asmenys/Žygimantas]]
+- Turėjo dalyvį: [[objektai/asmenys/Kerskorfas]], [[objektai/grupes/Livonijos ordinas]], [[objektai/asmenys/Švitrigaila]]

@@ -14,6 +14,18 @@ tags:
   - miestas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kristupo Mikalojaus Radvilos Perkūno šarvai
 
@@ -46,10 +58,9 @@ Nenurodyta
 <a id="claim-t-40733"></a>
 - t-001
   global_id: t-40733
-  teiginys: 'Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.'
+  teiginys: "Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a."
   pagrindžia:
-    - c-001
-
+    - c-44662
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,7 +74,29 @@ Nenurodyta
     Kristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-44662
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    P. 90, 1579 m. Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos
+    pasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ
+
+    p. 91, Lietuvos Didžiosios Kunigaikštystės didžiojo etmono ir Vilniaus vaivados
+
+    Kristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr.
+  citata_rodoma: "Niurnberge išleisto leidinio, skirto nušviesti tais pačiais metais Lietuvos\npasiektą pergalę prieš maskvėnus atsiimant Polocko miestą, fragmentas (piešinys), MCZ\n\np. 91, Lietuvos Didžiosios Kunigaikštystės didžiojo etmono ir Vilniaus vaivados\n\nKristupo Mikalojaus Radvilos Perkūno šarvai xvI-xv1I a. MwP, Maciej Skocren nuotr."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40733

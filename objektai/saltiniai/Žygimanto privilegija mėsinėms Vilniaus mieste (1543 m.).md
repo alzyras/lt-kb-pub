@@ -17,6 +17,18 @@ tags:
   - saltinis
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.)
 
@@ -29,24 +41,23 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
 <a id="claim-t-88221"></a>
 - t-001
   global_id: t-88221
-  teiginys: 'Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve.'
+  teiginys: "Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve."
   pagrindžia:
-    - c-001
+    - c-84199
 
 <a id="claim-t-88222"></a>
 - t-002
   global_id: t-88222
-  teiginys: '1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje.'
+  teiginys: "1543 m. privilegijoje minimas ginčas tarp Vilniaus vyskupo Povilo ir Vilniaus vaito, tarėjų bei miestiečių dėl mėsinių turguje."
   pagrindžia:
-    - c-002
+    - c-84201
 
 <a id="claim-t-88223"></a>
 - t-003
   global_id: t-88223
-  teiginys: 'Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams.'
+  teiginys: "Žygimanto privilegija leido Vilniaus vyskupui Povilui ir jo įpėdiniams steigti mėsos prekyvietes, kurių mokesčiai turėjo būti mokami bažnyčios muzikantams."
   pagrindžia:
-    - c-003
-
+    - c-84202
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -69,6 +80,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     notitiam kakituris.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -97,6 +109,7 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     nuo minėto pono Vilniaus vyskupo.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -129,7 +142,98 @@ Karalius ŽYGIMANTAS ## Puslapis 422 VILNIAUS MIESTO ISTORIJA// TOMAS ŽYGIMANTO
     Valerianus DEI gratia Episcopus Vilnensis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-84199
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Karalius ŽYGIMANTAS
+
+    ## Puslapis 422
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    ŽYGIMANTO PRIVILEGIJA
+    MĖSINĖMS VILNIAUS MIESTE
+    1543 METAI
+    (Iš Vilniaus kapitulos archyvo)
+    Sigismundus DEI gratia Rex Pol oniae, Magnus Dux Lit-
+    kuaniae, Russiae, Prussiae, Masoviae, Samogitiae, etc. Do­
+    minus et kaeres. Significamus tenore praesentium, quikus
+    expedit universis et singulis, praesentikus et futuris, karum
+    notitiam kakituris.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88221
+
+- id: c-84201
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šiuo raštu skelbiame visiems ir
+    kiekvienam, kam dabar ar ateityje bus pravartu žinoti. Kad
+    yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai
+    gerbiamo Kristuje tėvo pono Povilo, Vilniaus vyskupo, Al-
+    šėnų kunigaikščio, tikrai mums mielo, iš vienos pusės, ir gar­
+    siųjų vaito ir tarėjų bei Vilniaus miesto piliečių bendrijos, iš
+    kitos pusės, dėl turguje ir Vilniaus aikštėje esančių pačio po­
+    no vyskupo, jo Vilniaus bažnyčios ir miestiečių mėsinių. Mat
+    vaitas ir patys Vilniaus tarėjai matydami, jog miesto aikštė
+    ar turgavietė yra perpildyta mėsos prekyvietėmis, užiman­
+    čiomis nemažą turgaus plotą, ir norėdami pačią turgavietę
+    ir aikštę praplėsti bei padidinti, visas toje turgavietėje seno­
+    je vietoje įrengtas mėsos prekyvietes, tiek savas, miestiečių,
+    tiek ir bažnyčios, be pačio pono vyskupo sutikimo nugriovė
+    ir kitas, naujas mėsines iš degintų plytų įtaisė kitoje miesto
+    vietoje vien tik minėto miesto reikmėms, tuo atsiskirdami
+    nuo minėto pono Vilniaus vyskupo.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88222
+
+- id: c-84202
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Norime ir įsakome, kad lei­
+    dimas minėtam ponui vyskupui Povilui ir jo įpėdiniams Vil­
+    niaus vyskupams steigti minėtas mėsos prekyvietes su mo­
+    kesčių iš tokių mėsinių mokėjimu bažnyčios muzikantams
+    būtų amžinas ir nepakeistas, ir į bažnytinį, pas mus priimtą,
+    imunitetą tai įrašome ir inkorporuojame šiuo raštu, prie
+    kurio patikimumui patvirtinti pakabinamas antspaudas.
+    Duota Velavičiuose artimiausią pirmadienį po šv. Liucijos,
+    mergelės ir kankinės, šventės, tūkstantis penki šimtai ketu­
+    riasdešimt trečiaisiais Viešpaties metais.
+    Karalius ŽYGIMANTAS
+    411
+
+    ## Puslapis 428
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    VALERIJONO BURSOS PASTATYMAS IR
+    APRŪPINIMAS
+    1579 METAI
+    (Iš Vilniaus kapitulos archyvo)
+    Valerianus DEI gratia Episcopus Vilnensis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-88223

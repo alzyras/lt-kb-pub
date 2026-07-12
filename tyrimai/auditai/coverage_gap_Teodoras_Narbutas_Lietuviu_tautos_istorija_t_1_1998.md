@@ -1,22 +1,34 @@
 ---
 tipas: kokybes_auditas
-pavadinimas: "Coverage gap auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+pavadinimas: 'Coverage gap auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 saltiniai:
-  - "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
-bukle: juodrastis
-sukurta: '2026-07-02'
-atnaujinta: '2026-07-02'
-tags: []
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
-# Coverage gap auditas
+# Coverage gap auditas: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 
 ## Vykdymo metaduomenys
+
 - knyga: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
 - source_file: `darbas/sources/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`
 - data_ir_laikas: 2026-07-02, Europe/Vilnius
 - patikrinta: `darbas/tmp/evidence/Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.).md`, `darbas/tmp/candidates/`, `darbas/tmp/candidate_ledger_index.md`, public projection under `../lt-kb-pub/objektai/`
 
 ## Nepadengta svarbi medžiaga
+
 - quote_id: people/chunk_0001/Teodoras Narbutas
 - kategorija: asmuo
 - kandidatas: Teodoras Narbutas
@@ -97,6 +109,7 @@ tags: []
 - siūlomas veiksmas: regeneruoti arba papildyti evidence ledger iš visų kategorijų kandidatų, tada kartoti coverage auditą pagal quote hash / offset.
 
 ## Kategorijų aprėpties santrauka
+
 | kategorija | kandidatai | public įrašai | audite / praleista | boundary_conflicts | statusas |
 |---|---:|---:|---:|---:|---|
 | people / asmenys | 901 | 11 | 0 | 0 | aukštas prioritetas: kandidatai yra, bet ledger neturi šios kategorijos; Teodoras Narbutas nepadengtas šiuo šaltiniu asmens įraše |
@@ -111,6 +124,7 @@ tags: []
 | groups / grupes | 534 | 11 | 37 | 119 | dalinė aprėptis; daug grupių teiginių yra `unused`, ypač Lietuvos bajorija, Bazilijonų ordinas, masonų ir draugijų kontekstai |
 
 ## Sąmoningai praleista
+
 - quote_id: autorius-0007-4523540f
 - priežastis: citata yra vien skaičius `17`; tai puslapio / OCR artefaktas, negali pagrįsti Stanislovo Stašico autoriaus įrašo.
 
@@ -118,10 +132,12 @@ tags: []
 - priežastis: citatoje apie Bazilijonų ordiną įsiterpę išnašų ir puslapio artefaktai; prieš viešą naudojimą reikia paimti švaresnį kūno teksto sakinį iš šaltinio offseto.
 
 ## Dubliai
+
 - quote_id: candidate_ledger_index duplicate whole-source/chunk rows
 - dubliuoja: daug kandidatų indekso eilučių kartojasi tiek viso šaltinio kandidatų faile, tiek chunk failuose su tais pačiais quote_hash ir offsetais; coverage vertinime naudotini unikalūs hash / offset vienetai.
 
 ## Ribų konfliktai
+
 - kandidatas: Akacijos šakelė; Kampainis; Skriestuvas
 - galimos kategorijos: daiktas, paprotys, zodynas
 - pasirinkta pirminė kategorija: daiktas, jei kuriamas materialaus objekto įrašas; paprotys, jei teiginys formuluojamas apie masonų apeiginę simboliką.

@@ -16,6 +16,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'XX a.'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jakubovskij, A. J
 
@@ -28,17 +40,16 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
 <a id="claim-t-54121"></a>
 - t-001
   global_id: t-54121
-  teiginys: 'A. J. Jakubovskij su B. D. Grekovu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“.'
+  teiginys: "A. J. Jakubovskij su B. D. Grekovu 1950 m. Maskvoje-Leningrade išleido veikalą „Zolotaja Orda i ee padenije“."
   pagrindžia:
-    - c-001
+    - c-55069
 
 <a id="claim-t-54122"></a>
 - t-002
   global_id: t-54122
-  teiginys: 'A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m.'
+  teiginys: "A. J. Jakubovskij su B. D. Grekovu parašė veikalą „Zolotaja Orda i ee padenije“, išleistą Maskvoje ir Leningrade 1950 m."
   pagrindžia:
-    - c-001
-
+    - c-55069
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +61,27 @@ Grekov, B. D. i Jakubov ­ skij, A. J. : Zolotaja Orda i ee padenije, Moskva-Len
     bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-55069
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    —Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-
+    Vladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_
+    skij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati
+    bibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek).
+  citata_rodoma: "—Filevič, I. L. : _Bor’ba Pol’ši i Litvy-Rusi za Galicko-\nVladimirskoje nasledije,_ Peterburg 1890. — Grekov, B. D. i Jakubov _­_\nskij, A. J. : _Zolotaja Orda i ee padenije,_ Moskva-Leningrad 1950 (plati\nbibliogr.) ; Varšuvoje 1953 išl. lenk. vertimas (Złota Orda i jej upadek)."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54121

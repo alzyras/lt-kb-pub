@@ -18,6 +18,18 @@ tags:
 amziai:
   - 'VII'
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gotlandas
 
@@ -30,16 +42,16 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 <a id="claim-t-173439"></a>
 - t-001
   global_id: t-173439
-  teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
+  teiginys: "Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams."
   pagrindžia:
-    - c-002
+    - c-157740
 
 <a id="claim-t-173440"></a>
 - t-002
   global_id: t-173440
-  teiginys: 'Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija.'
+  teiginys: "Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija."
   pagrindžia:
-    - c-001
+    - c-32061
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112517|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112519|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė piligrimus.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
@@ -82,7 +94,8 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     (prie Durbės).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
@@ -99,10 +112,47 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
     buvo parašyti popiežiui.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Buvo kelionės vieta: [[objektai/grupes/Švedai]]
+## Citatos
+
+- id: c-32061
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Archeolo­
+    giniai duomens parodo apie 650 m. prasidedančią didelę švedų
+    ekspansiją iš Gotlando ir vidurio Švedijos. VII amž. gale jie įsi­
+    kūrė Grobine, kur turėjo savo svarbią karinę bazę Seeburgą, užėmė
+    Apuolės pilį (prie Skuodo). VIII amž. pusėje jie randami Sauslauke
+    (prie Durbės).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173440
+
+- id: c-157740
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Vienas tų
+    laiškų (1323.1.24), skirtas «visai krikščionijai», buvo išsiuntinėtas
+    penkiems Vokietijos miestams ir Romai (Avignonui). O trys laiškai
+    (V.26) buvo pasiųsti Saksų provincijos pranciškonams ir dominin­
+    konams ir Hanzos miestams (Liubekui, Rostokui, Stralsundui,
+    Greifswaldni, Stettinui ir Gotlando salai). Du, o gal ir trys laiškai
+    buvo parašyti popiežiui.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173439

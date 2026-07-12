@@ -15,6 +15,18 @@ tags:
   - vieta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kezmarkas
 
@@ -27,9 +39,9 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
 <a id="claim-t-32241"></a>
 - t-001
   global_id: t-32241
-  teiginys: 'Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.'
+  teiginys: "Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką."
   pagrindžia:
-    - c-001
+    - c-33887
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-10729|Lietuvos pinigai]]: Vytauto laikų pinigėliai dokumentuose minimi jau 1387 m., o jų nominalai buvo siejami su skatikais ir denarais.
@@ -47,10 +59,32 @@ Su juo tartis į Vengrijos pasienio miestą Kezmarką nuvyko pats Vytautas.
     (^2) **Raczyński, E.: RaCD, 104-107 p.**
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33887
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Zigmantas galėjo tapti rimtu kryžiuočių sąjungininku ir pavo­
+    jingu pusbrolių priešų. Su juo tartis į Vengrijos pasienio miestą
+    Kezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo
+
+    (^1) **CEV, 205 p.**
+    (^2) **Raczyński, E.: RaCD, 104-107 p.**
+  citata_rodoma: "Su juo tartis į Vengrijos pasienio miestą\nKezmarką nuvyko pats Vytautas. Kaip 1409 vasarą ordinas buvo\n\n(^1) **CEV, 205 p."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-32241
 
 ## Ryšiai
 - Buvo kelionės vieta: [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

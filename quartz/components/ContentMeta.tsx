@@ -5,7 +5,8 @@ import { i18n } from "../i18n"
 import { JSX } from "preact"
 import style from "./styles/contentMeta.scss"
 import { FullSlug, resolveRelative } from "../util/path"
-import { PeriodChip, visiblePeriodDisplay } from "../util/periodRange"
+import { PeriodChip, periodSlugExists, visiblePeriodDisplay } from "../util/periodRange"
+import { QuartzPluginData } from "../plugins/vfile"
 
 interface ContentMetaOptions {
   /**
@@ -20,7 +21,15 @@ const defaultOptions: ContentMetaOptions = {
   showComma: true,
 }
 
-function PeriodChips({ chips, currentSlug }: { chips: PeriodChip[]; currentSlug: FullSlug }) {
+function PeriodChips({
+  chips,
+  currentSlug,
+  allFiles,
+}: {
+  chips: PeriodChip[]
+  currentSlug: FullSlug
+  allFiles: QuartzPluginData[]
+}) {
   if (chips.length === 0) {
     return null
   }
@@ -28,7 +37,7 @@ function PeriodChips({ chips, currentSlug }: { chips: PeriodChip[]; currentSlug:
   return (
     <span class="period-chips" aria-label="Laikotarpis">
       {chips.map((chip) =>
-        chip.slug ? (
+        chip.slug && periodSlugExists(chip.slug, allFiles) ? (
           <a
             class={`period-chip period-chip-${chip.kind}`}
             href={resolveRelative(currentSlug, chip.slug as FullSlug)}
@@ -47,7 +56,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
   // Merge options with defaults
   const options: ContentMetaOptions = { ...defaultOptions, ...opts }
 
-  function ContentMetadata({ cfg, fileData, displayClass }: QuartzComponentProps) {
+  function ContentMetadata({ cfg, fileData, allFiles, displayClass }: QuartzComponentProps) {
     const text = fileData.text
 
     if (text) {
@@ -58,7 +67,11 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         segments.push(
           <span class="period-meta" title={periodDisplay.label}>
             <span class="period-meta-label">Laikotarpis</span>
-            <PeriodChips chips={periodDisplay.chips} currentSlug={fileData.slug} />
+            <PeriodChips
+              chips={periodDisplay.chips}
+              currentSlug={fileData.slug}
+              allFiles={allFiles}
+            />
           </span>,
         )
       }

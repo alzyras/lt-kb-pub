@@ -12,11 +12,24 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - šeima
 amziai:
   - 'XIV'
   - 'XV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Hlebas
 
@@ -29,16 +42,16 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
 <a id="claim-t-30263"></a>
 - t-001
   global_id: t-30263
-  teiginys: 'Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą.'
+  teiginys: "Vytautas pasiuntė belaisvį Hlebą į Krokuvą, o po to užėmė Smolensko leną Viazmą."
   pagrindžia:
-    - c-002
+    - c-32739
 
 <a id="claim-t-30264"></a>
 - t-002
   global_id: t-30264
-  teiginys: 'Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais.'
+  teiginys: "Hlebas žuvo Vytauto pusėje prie Vorsklos kartu su kitais Riurikaičiais."
   pagrindžia:
-    - c-001
+    - c-32738
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1395 m. rugsėjo 28 d.).md#claim-t-34497|Smolensko užėmimas (1395 m. rugsėjo 28 d.)]]: 1395 m. rugsėjo 28 d. lietuviai įėjo į Smolenską po to, kai Vytautas suėmė Hlebą ir išsiuntė jį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Jomantas.md#claim-t-63714|Jomantas]]: Vytautas Lietuvai naujai prijungtose žemėse vietininkais paskyrė Jomantą ir Vosylių Boreikaičius.
 - susijęs iš [[objektai/asmenys/Jurgis Sviatoslavaitis.md#claim-t-30320|Jurgis Sviatoslavaitis]]: Jurgį Sviatoslovaitį savo globon buvo paėmusi Riazanė, kurią iš Smolensko puolė Vytautas.
@@ -58,6 +71,7 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     nebuvo sustabdyta rytų krizė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,10 +91,50 @@ VORSKLOS KATASTROFA 313 Sviatoslavo sūnūs — Jogailai paklusnumą žadėjęs 
     (1389-1425), su kuriuo oficialiai laikėsi taikos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Hlebas mirė [[objektai/vietos/Vorskla]]
+## Citatos
+
+- id: c-32738
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Sukilusių miestiečių ir savo šalininkų Smo­
+    lenske remiamas, grįžo ir įsigalėjo išvarytasis Jurgis (Jurijus) Svia­
+    toslavaitis. Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas
+    buvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar
+    nebuvo sustabdyta rytų krizė.
+  citata_rodoma: "Drauge su visa eile kitų Riurikaičių, jo brolis Hlebas\nbuvo žuvęs Vytauto pusėje prie Vorsloos. Smolensko užėmimu dar\nnebuvo sustabdyta rytų krizė."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30264
+
+- id: c-32739
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Remdamasis giminyste,
+    Vytautas pasisiūlė tarpininkauti ir ta proga 1396 m. rudenį užėmė
+    Smolenską, iškilmingai miestan įžengdamas ir amžininkus nuste­
+    bindamas. Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė
+    ir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse
+    vietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.
+    Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį
+    Sviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I
+    (1389-1425), su kuriuo oficialiai laikėsi taikos.
+  citata_rodoma: "Belaisvį Hlebą pasiuntęs Krokuvon, Vytautas užėmė\nir Smolensko leną Viazmą, o Lietuvai naujai prijungtose žemėse\nvietininkais paskyrė Jomantą (Jamontą) ir Vosylių Boreikaičius^9.\nIš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį\nSviatoslovaitį, Vytautas priartėjo prie valdų savo žento Vosyliaus I\n(1389-1425), su kuriuo oficialiai laikėsi taikos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30263

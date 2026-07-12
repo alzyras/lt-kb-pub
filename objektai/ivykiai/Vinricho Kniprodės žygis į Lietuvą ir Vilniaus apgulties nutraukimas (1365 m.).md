@@ -13,6 +13,18 @@ tags:
   - karas
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vinricho Kniprodės žygis į Lietuvą ir Vilniaus apgulties nutraukimas (1365 m.)
 
@@ -47,24 +59,23 @@ Nenurodyta
 <a id="claim-t-55149"></a>
 - t-001
   global_id: t-55149
-  teiginys: '1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių.'
+  teiginys: "1365 m. Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir, sudeginęs valsčius iki Kernavės bei Maišiagalos, priartėjo prie Vilniaus pilių."
   pagrindžia:
-    - c-001
+    - c-55689
 
 <a id="claim-t-81836"></a>
 - t-002
   global_id: t-81836
-  teiginys: '1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių.'
+  teiginys: "1365 m. didysis Prūsijos magistras Vinrichas Kniprodė su didele kariauna įsiveržė į Lietuvą ir priartėjo prie Vilniaus pilių."
   pagrindžia:
-    - c-001
+    - c-55689
 
 <a id="claim-t-81837"></a>
 - t-003
   global_id: t-81837
-  teiginys: 'Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį.'
+  teiginys: "Keturių Butauto tarnų perbėgimas į Vilnių suardė Vinricho Kniprodės planus ir privertė jį nutraukti apgultį."
   pagrindžia:
-    - c-002
-
+    - c-78383
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -81,6 +92,7 @@ Nenurodyta
     Maišiagalos, priartėjo prie Vilniaus pilių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -134,7 +146,85 @@ Nenurodyta
     degindamas ir siaubdamas miesto apylinkės22.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-55689
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Laimė, kad šio valdovo narsa visada valiodavo išgelbėti
+    miestą nuo visiškos pražūties. Pirmą kartą 1365 m., kai di­
+    dysis Prūsijos magistras Vinrichas Kniprodė, naudodama­
+    sis dviejų jaunų Lietuvos kunigaikščių - Butauto, Kęstučio
+    sūnaus, ir Survilos, jo artimo giminaičio, pabėgimu, Kara­
+    liaučiuje juos pakrikštijęs, su didele kariauna įsiveržė į Lie­
+    tuvą21. Nemažas būrys, vadovaujamas paties Vinricho, su­
+    deginęs visus valsčius nuo Labūnavos iki pat Kernavės ir
+    Maišiagalos, priartėjo prie Vilniaus pilių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-55149
+    - t-81836
+
+- id: c-78383
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau keturių
+    Butauto tarnų perbėgimas naktį iš kryžiuočių stovyklos į
+    Vilnių suardė didžiojo magistro karinius planus, ir šis pa­
+    būgęs, kad jo užmojai netikėtai užpulti gintis pasiryžusią
+    Lietuvą bus atskleisti, tuojau pat nutraukė apgultį ir bėgo,
+    klebonas, net jo laikais vešli, drūta
+    ir virš bažnyčios išsistiebusi buvo
+    matoma, ir visų buvo vadinama
+    Goštauto liepa." Šiame teiginyje apie
+    pirmąją Šv. Petro bažnyčią klystama
+    nurodant pastatymo laiką. Algirdas,
+    didžiulių pagoniškų kraštų valdo­
+    vas, negalėjo naikinti vyravusios re­
+    ligijos, tautos religijos, šventovės,
+    juk nebuvo užsimojęs vykdyti vi­
+    suotinės reformos, ko vėliau ėmėsi
+    Jogaila, ir tai tik dėl to, kad paten­
+    kintų vieno iš savo vasalų norą. To­
+    leravo Algirdas krikščionybę ir tik­
+    riausiai išmanė pravarčius jos
+    padarinius esant; tačiau dar nebuvo
+    atėjęs laikas Perkūno garbinimą už­
+    ginti, todėl pagonių šventyklos ne­
+    galėjo būti pakeistos krikščionių
+    bažnyčiomis. Tačiau Šv. Petro baž­
+    nyčia tikriausiai pastatydinta Vladis­
+    lovo Jogailos laikais, visuotinės re­
+    ligijos kaitos laikais, ano Goštauto
+    sūnaus, tos šventovės, visiems die­
+    vaičiams pašvęstos, vietoje. Taigi iš­
+    likusią parapijoje senosios Goštau­
+    to Liepos vardo tradiciją galima būti
+    priskirti ir vėlesniam laikotarpiui.
+    21
+    V o i g t, T. V, p. 178.
+    30
+
+    ## Puslapis 47
+
+    I  KNYGA
+    degindamas ir siaubdamas miesto apylinkės22.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-81837

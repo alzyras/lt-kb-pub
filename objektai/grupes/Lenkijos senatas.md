@@ -11,6 +11,18 @@ tags:
   - karalius
   - karas
   - kunigaikštis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lenkijos senatas
 
@@ -23,44 +35,44 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
 <a id="claim-t-86758"></a>
 - t-001
   global_id: t-86758
-  teiginys: 'Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos.'
+  teiginys: "Be Vladislovo Jogailos ir Lenkijos senato valios Vytautui nebuvo galima uždėti Lietuvos karaliaus karūnos."
   pagrindžia:
-    - c-002
+    - c-82738
 
 <a id="claim-t-86759"></a>
 - t-002
   global_id: t-86759
-  teiginys: 'Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo.'
+  teiginys: "Lenkijos senato siųsti Zbignevas Olesnickis ir Mikalojus Michalovskis Vilniuje grasino Vytautui karu, jei jis neatsisakys sumanymo."
   pagrindžia:
-    - c-001
+    - c-82737
 
 <a id="claim-t-184537"></a>
 - t-003
   global_id: t-184537
-  teiginys: 'Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui.'
+  teiginys: "Lenkijos senatas po Vytauto išėjimo paaiškino karaliui, kad pritardamas imperatoriaus sumanymams jis nusileistų Lietuvos ir Lenkijos priešui."
   pagrindžia:
-    - c-003
+    - c-167898
 
 <a id="claim-t-184538"></a>
 - t-004
   global_id: t-184538
-  teiginys: 'Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.'
+  teiginys: "Žygimanto pasiuntiniai turėjo pranešti senatui įvykius ir reikalauti paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu."
   pagrindžia:
-    - c-004
+    - c-167899
 
 <a id="claim-t-184539"></a>
 - t-005
   global_id: t-184539
-  teiginys: 'Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu.'
+  teiginys: "Senatas nutarė išsiųsti į Lietuvą pasiuntinybę, įgaliotą tam tikromis sąlygomis pakelti Žygimantą didžiuoju kunigaikščiu."
   pagrindžia:
-    - c-005
+    - c-167900
 
 <a id="claim-t-184540"></a>
 - t-006
   global_id: t-184540
-  teiginys: 'Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą.'
+  teiginys: "Liudvikas stengėsi sužinoti, kas svarstoma slaptuose senato posėdžiuose, ir siekė paveikti Žygimantą."
   pagrindžia:
-    - c-006
+    - c-167901
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176718|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas siekė Lietuvos karaliaus karūnos, tačiau tam priešinosi Vladislovas Jogaila ir Lenkijos senatas.
 ## Reikšmingi paminėjimai
 
@@ -79,6 +91,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     vė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +114,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     džiamiems.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -132,6 +146,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -156,6 +171,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     da, kai galutinai sutriuškinsiąs Boleslovą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -184,6 +200,7 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     gimantą į Lietuvos didžiuosius kunigaikščius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -211,10 +228,174 @@ Dar prieš tai į Vilnių atvažiavę karaliaus ir Lenkijos senato siųsti Zbign
     pačią uniją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
+## Citatos
+
+- id: c-82737
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Deja, tik dalis tos pasiuntinybės pasie­
+    kė Lietuvos sostinę: kai kuriuos jų didžialenkiai sulaikė prie
+    sienos ir imperatoriaus aktus, kuriais Vytautui pripažįsta­
+    mas karaliaus titulas, atėmė. Dar prieš tai į Vilnių atvažiavę
+    karaliaus ir Lenkijos senato siųsti Zbignevas Olesnickis ir
+    Sandomiro vaivada Mikalojus Michalovskis grasino Vytau­
+    tui karu, jeigu jis neatsisakysiąs savo sumanymo. Bet jokiems
+    įkalbinėjimams ir grasinimams senasis Vytautas nepasida­
+    vė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86759
+
+- id: c-82738
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Puikų suruošia Vytautas priėmimą,
+    bemaž du mėnesius užsitęsusį, mat nuo rugpjūčio pradžios
+    iki rugsėjo pabaigos vyko tas svarbus kunigaikščių susibū­
+    rimas. Tačiau galima buvo numatyti, kad tas prašmatnias
+    iškilmes, tą smagią viešnagę nutrauks liūdni įvykiai. Len­
+    kų priešinimasis buvo pernelyg grėsmingas, pernelyg tvir­
+    ti ir šventi jau buvo tuomet ryšiai, sieję Lietuvą su Lenkija,
+    o karalių su Vytautu, kad prieš Vladislovo Jogailos ir Len­
+    kijos senato valią galima būtų didžiajam kunigaikščiui už­
+    dėti Lietuvos karaliaus karūną ir paskui išlaikyti ją nebau­
+    džiamiems.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86758
+
+- id: c-167898
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Vytautas, pasipiktinęs ne tiek
+    dėl pralaimėjimo, kiek dėl
+    P a sip ik tin ęs pasišali-
+    drąsių kalbų, išėjo iš senato
+    na
+    posėdžio, o pasišalindamas at­
+    virai pagrasino, sakydamas,
+    14*
+    4 1 9
+
+    ## Puslapis 418
+
+    jog jis, nepaisydamas lenkų norų, pasieksiąs tai, ką pa­
+    siryžęs pasiekti. Vytautui išėjus, senatas kuo rimčiau­
+    siai paaiškino karaliui, kad, pritardamas pavojingiems ir
+    suktiems imperatoriaus sumanymams, nusileistų žmo­
+    gui, kuris ne tik jo šeimos, bet ir Lietuvos bei Lenkijos
+    priešas, nes šitai esąs parodęs praeityje ne vieną kar­
+    tą. Štai todėl karalius po senato posėdžio, net neatsi­
+    sveikinęs su imperatoriumi, skubiai išvyko iš Lucko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184537
+
+- id: c-167899
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
+  citata_originali: |
+    Žygimantas, beveik be kovos laimėjęs karą,
+    paėmė be kraujo praliejimo į savo rankas Vilnių, Tra­
+    kus, Gardiną bei visas kitas Lietuvos pilis ir, pasiun­
+    tęs Joną Nemiravičių, pareiškė karaliui pagarbą ir
+    pranešė, kad Boleslovas išvytas iš Lietuvos. Truputį
+    vėliau į kelią leidosi kiti pasiuntiniai, kurie turėjo pa­
+    pasakoti senatui, kas ir kaip čia dėjosi, ir pareikalauti
+    paskelbti Žygimantą Lietuvos didžiuoju kunigaikščiu.
+    Nugalėtojas turėjo gauti atlyginimą, pažadėtą kara­
+    liaus ir valstybės vardu, ypač dėl to, kad pasiuntiniai
+    davė iškilmingą pažadą, jog Žygimantas visada pripa-
+    žinsiąs karaliaus valdžią ir paliausiąs kariauti tik ta­
+    da, kai galutinai sutriuškinsiąs Boleslovą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184538
+
+- id: c-167900
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 440"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 440."
+  citata_originali: |
+    Atidėlioti šį
+    reikalą būtų buvę pavojinga,
+    K araliau s p a siu n tin ia i
+    mat prasidėjus naujiems ne-
+    a tv y k s ta
+    p a s Ž y g i-
+    ramumams, dažnai pačios ap-
+    m a n tą
+    linkybės tramdo vienos šalies
+    siekimus, tačiau skatina ki­
+    tos. Kadangi reikėjo skubėti, senatas ir nutarė išsiųsti
+    į Lietuvą pasiuntinybę, sudarytą iš dorų ir sumanių
+    vyrų: vyskupą Zbignevą Olesnickį, Krokuvos vaivadą
+    Jarandą iš Brudzevo, Bresto vaivadą Joną iš Lichino,
+    Lauryną Zarembą ir kitus. Jie karaliaus ir valstybės
+    vardu buvo įgalioti tam tikromis sąlygomis pakelti Žy­
+    gimantą į Lietuvos didžiuosius kunigaikščius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184539
+
+- id: c-167901
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 442"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 442."
+  citata_originali: |
+    Tada Žygimantas pagal senus papročius
+    buvo maršalų paskelbtas didžiuoju kunigaikščiu ir pa­
+    keltas į sostą, į dešinę jam įteikiant apnuogintą ka­
+    laviją, kurį buvo atsiuntęs karalius. Dėl šių iškilmių
+    didžiai susikrimto Liudvikas, Toninės komtūras, kuris
+    su trimis savo draugais, kryžiuočių ordino riteriais, gy­
+    veno Vilniuje, prisidengdamas pasiuntinio skraiste, o iš
+    tikrųjų uoliai eidamas žvalgo pareigas. Jis visaip sten­
+    gėsi iššniukštinėti, kas aptariama slaptuose senato po­
+    sėdžiuose, viliojo valdovą bei didikus, žadėdamas kry­
+    žiuočių palankumą, ir ėmėsi visų kitų priemonių, ku­
+    rios, jo galva, priverstų Žy­
+    gimantą netesėti, ką žadėjo
+    lenkams, ir, ko gero, niekais
+    paverstų visus susitarimus ir
+    pačią uniją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184540
 
 ## Ryšiai
 - Lenkijos senatas siuntė į [[objektai/vietos/Lietuva]], [[objektai/vietos/Vilnius]]

@@ -13,6 +13,18 @@ tags:
 amziai:
   - 'M'
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # O. Maksimaitienė
 
@@ -25,9 +37,9 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
 <a id="claim-t-30883"></a>
 - t-001
   global_id: t-30883
-  teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
+  teiginys: "O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus."
   pagrindžia:
-    - c-001
+    - c-33081
 - susijęs iš [[objektai/autoriai/E. Griškūnaitė.md#claim-t-30592|E. Griškūnaitė]]: E. Griškūnaitė rašė apie 1905 m. sukilimą Lietuvoje.
 - susijęs iš [[objektai/autoriai/L. Mulevičius.md#claim-t-30781|L. Mulevičius]]: L. Mulevičius rašė apie to laiko žemėvaldos klausimus.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179545|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Bičkauskas-Gentvila 1958 m. rašė apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje.
@@ -51,7 +63,34 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
     apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33081
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1831 m. sukilimą liečia F. Sliesoriūno
+    straipsniai^117. Apie 1863 m. sukilimą Lietuvoje ir Baltarusijoje
+    pasirodė keletas kolektyvinių veikalų 1964 ir 1965 m.; apie jį rašė
+    L. Bičkauskas - Gentvila (1958), kuris taip pat svarstė
+    ir žemėvaldos teisių apribojimą bei išpirkos mokesčius Lietuvoje ir
+    Baltarusijoje^118 ; V. Černeckis rašė apie kapitalistinės pramo­
+    nės formavimąsi Kaune 1861-1913 m. (IstV, t. 9, 1968, 57-79 p. ;
+    O. Maksimaitienė pateikė duomenų apie sukilėlių kovinius
+    veiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-
+    166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;
+    apie to laiko žemėvaldos klausimus rašė L. Mulevičius 120.
+  citata_rodoma: ";\nO. Maksimaitienė pateikė duomenų apie sukilėlių kovinius\nveiksmus 1863 m. Augustavo gubernijoje (AkMD, t. 19, 1965, 143-\n166 p.), apie sukilėlių antspaudus (AkMD, t. 22, 1966, 121-131 p.)^119 ;\napie to laiko žemėvaldos klausimus rašė L."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30883

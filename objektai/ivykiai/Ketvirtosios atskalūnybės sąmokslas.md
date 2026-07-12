@@ -12,9 +12,22 @@ atnaujinta: ''
 tags:
   - ivykis
   - karalius
+  - teisinė-praktika
   - valdovas
 amziai:
   - 'XIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ketvirtosios atskalūnybės sąmokslas
 
@@ -43,10 +56,16 @@ Nenurodyta
 <a id="claim-t-62823"></a>
 - t-001
   global_id: t-62823
-  teiginys: 'Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti.'
+  teiginys: "Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti."
   pagrindžia:
-    - c-001
+    - c-167315
 
+<a id="claim-t-62823"></a>
+- t-002
+  global_id: t-62823
+  teiginys: "Ketvirtosios atskalūnybės sąmokslas buvo susektas statant Ragainės pilį, o kaltinami bartai ir pagudėnai buvo nubausti."
+  pagrindžia:
+    - c-167315
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -66,8 +85,36 @@ Nenurodyta
     pagudėnas, kaltinamas dėl šio niekingo sąmokslo, gavo tinkamą atpildą už savo darbus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-167315
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 174"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 174."
+  citata_originali: |
+    Apie ketvirtąją atskalūnybę ir apie tai, kaip už ją buvo keršijama
+
+      1286 viešpaties metais brolis Ditrichas, Sembos fogtas, galėjo taip sakyti, kaip
+    kadaise bylojęs Jobas: „Atėjo baisenybė, kurios bijojau“, mat bartai, ką tik atgavę brolių
+    palankumą,  ir pagudėnai bei kiti Prūsijos [žmonės], paklusę savo piktam įpročiui  ir
+    sugalvoję dar kartą sukilti prieš brolius, susimokė su kai kuriais kitais prūsais, kurių
+    šlykštus elgesys teisėtai skatina viešai paskelbti jų vardus, tačiau šito nedarome iš
+    pagarbos jų dabartinei padėčiai. Taigi jie susitarė pakviesti rugijų kunigaikštį522 su stipria
+    kariuomene ir, išvijus brolius iš Prūsijos žemės, jį paskirti savo karaliumi bei valdovu. Sis
+    šlykštus sąmokslas buvo susektas tada, kai statė Ragainės pilį523, ir kiekvienas bartas bei
+    pagudėnas, kaltinamas dėl šio niekingo sąmokslo, gavo tinkamą atpildą už savo darbus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183930
+    - t-62823

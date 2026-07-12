@@ -15,6 +15,18 @@ atnaujinta: ''
 amziai:
   - 'XV'
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Ač-Girėjaus valdžios atstatymas Kryme
 
@@ -49,17 +61,16 @@ Nenurodyta
 <a id="claim-t-186758"></a>
 - t-001
   global_id: t-186758
-  teiginys: '1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį.'
+  teiginys: "1971 m. leidinio pastaba Ač-Girėjaus valdžios atstatymą Kryme sieja su antruoju jo valdžios atkūrimu 1449 m. rugpjūtį."
   pagrindžia:
-    - c-001
+    - c-169966
 
 <a id="claim-t-186759"></a>
 - t-002
   global_id: t-186759
-  teiginys: 'Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas.'
+  teiginys: "Bychovco kronika Radvilos Astikaičio vaidmenį Ač-Girėjaus grįžime į Krymą vaizduoja kitaip negu J. Dlugošas."
   pagrindžia:
-    - c-001
-
+    - c-169966
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,8 +82,29 @@ Nenurodyta
     menj BK piešia kitaip, negu J. Dlugošas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
+## Citatos
+
+- id: c-169966
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą
+    Kryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus
+    grižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid-
+    menj BK piešia kitaip, negu J. Dlugošas.
+  citata_rodoma: "M  Čia kalbama apie antrąjj Ač-Girėjaus valdžios atstatymą \nKryme 1449 m. rugpiūčio mėn. Sis pasakojim as apie Ač-Girėjaus \ngrižimą į Krymą yra žinomas tik iš BK. Radvilos Astikaičio vaid- \nmenj BK piešia kitaip, negu J. Dlugošas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186758
+    - t-186759

@@ -7,7 +7,20 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - teisinė-praktika
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Zilijos valsčiaus nusiaubimas ir antrasis Liudviko paėmimas į nelaisvę
 
@@ -36,17 +49,16 @@ Nenurodyta
 <a id="claim-t-59459"></a>
 - t-001
   global_id: t-59459
-  teiginys: 'Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį.'
+  teiginys: "Konradas iš Tirbergo su didele kariuomene įsiveržė į Sūduvos Zilijos valsčių, sudegino pastatus ir išsigabeno grobį."
   pagrindžia:
-    - c-001
+    - c-60091
 
 <a id="claim-t-59460"></a>
 - t-002
   global_id: t-59460
-  teiginys: 'Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai.'
+  teiginys: "Antrą kartą patekęs į nelaisvę, brolis Liudvikas iš Libencelės buvo nuvestas pas kilmingąjį Kantigirdą ir pavestas jo globai."
   pagrindžia:
-    - c-002
-
+    - c-60092
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +83,7 @@ Nenurodyta
     Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +102,59 @@ Nenurodyta
     kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-60091
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 167-168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 167-168."
+  citata_originali: |
+    Apie Sūduvos valsčiaus, vardu Zilija, nusiaubimą ir apie tai, kaip brolis Liu­
+                            dvikas antrą kartą pakliuvo į nelaisvę
+
+      Tuo metu, kai brolis Mangoldas, magistras, keliavo  į kapitulą, brolis Konradas iš
+    Tirbergo, maršalas, įsiveržė su daugybe brolių ir didžiule kariuomene į Sūduvos valsčių,
+    vardu Zilija504. Ši kariuomenė buvo tokia didelė, kad ji nusidriekė per daugelį mylių. Ji
+
+      503 Turbūt į Lietuvos valstybės teritoriją, gal į Gardino apylinkes (plg. D. III, 217, 219,
+    223). Apie sūduvių (jotvingių) apgyvendinimą Lietuvos valstybės teritorijoje žr. Kamiński
+    A., Jaćwież..., p. 67—71. Jų sodybos randamos XIII a. etninio lietuvių ploto rytiniame
+    pakraštyje — Dainavos (Dojnova) gyvenvietės prie Radoškovičių ir kitur (Ochmański J.,
+    Litewska granica..., p.. 36—37).
+      504 D. — territorium [...] Siliam, Jer.— zu Silien; Liber censuum Daniae — Syllonis
+
+    pavertė pelenais visus pastatus minėtajame valsčiuje, nukovė vieną kilmingąjį, vardu
+    Vadolis505, tenykštį vadą, bei daugybę kitų ir išsigabeno nesuskaičiuojamą grobį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59459
+
+- id: c-60092
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 168"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 168."
+  citata_originali: |
+    Sunkiai
+    šiame žygyje sužeistas brolis Liudvikas iš Libencelės buvo pusgyvis paliktas sniegynuose.
+    Neilgai trukus jį aptiko sūduviai ir, uždėję ant arklio taip, kad galva bei rankos karojo
+    viename arklio šone, o kojos kitame, nusigabeno, bet taip nevykusiai, kad iš apkrešėjusių
+    žaizdų vėl smarkiai paplūdo kraujas, o šitai ir išgelbėjo sužeistąjį, kaip jis pats vėliau
+    teisingai sakė. Antrą kartą pakliuvęs į nelaisvę, brolis Liudvikas buvo nuvestas pas vieną
+    kilmingąjį, vardu Kantigirdas506, ir pavestas jo globai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-59460

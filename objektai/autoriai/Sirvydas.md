@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sirvydas
 
@@ -13,21 +25,23 @@ atnaujinta: ''
 Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“.
 
 ## Teiginiai
+
 <a id="claim-t-190404"></a>
 - t-001
   global_id: t-190404
-  teiginys: 'Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“.'
+  teiginys: "Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-173287
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188566|Konstantinas Sirvydas (kunigas, XVII a.)]]: Konstantinas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.
 - susijęs iš [[objektai/asmenys/Konstantinas Sirvydas.md#claim-t-188567|Konstantinas Sirvydas (kunigas, XVII a.)]]: Konstantinas Sirvydas savo žodyne Aitvarą vadino Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190291|Konstantinas Sirvydas (kunigas)]]: Narbutas skaitytojui nurodo Sirvydo žodyną greta Ksavero Bogušo studijos apie lietuvių tautos ir kalbos kilmę.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190292|Konstantinas Sirvydas (kunigas)]]: Narbutas rašo, kad kunigas Sirvydas savo žodyne Vilijos upę lietuviškai vadina Nerimi.
 - susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190293|Konstantinas Sirvydas (kunigas)]]: Narbutas nurodo, kad kunigas Sirvydas savo žodyne Aitvarą vadina Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.
+- susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190748|Konstantinas Sirvydas (kunigas)]]: Narbutas, remdamasis K. Sirvydo žodynu, žodį „dykra“ aiškino kaip „Solitudo“ ir „Giria“.
+- susijęs iš [[objektai/autoriai/Konstantinas Sirvydas.md#claim-t-190749|Konstantinas Sirvydas (kunigas)]]: Narbutas K. Sirvydo žodyne nurodė lietuviškas formas „Pridegis“ ir „Priderinis“ kaip aptariamo pavadinimo atitikmenis.
 - susijęs iš K. Sirvydo žodynas: Narbutas nurodo, kad kunigas Sirvydas savo žodyne Vilijos upę lotyniškai vadino Vilia, o lietuviškai Nerimi.
 - susijęs iš K. Sirvydo žodynas: Narbutas rašo, kad kunigas Sirvydas savo žodyne Aitvarą vadino lietuviškai Ajtwaros, lotyniškai Incubus, lenkiškai Latawiec.
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192195|Wespats]]: Teodoro Narbuto perteikimu, Sirvydo žodyne Wespats tiksliau aiškinamas kaip visagalis ponas.
 - susijęs iš [[objektai/asmenys/Bazilijus Bonifacas Jakimavičius.md#claim-t-190062|Bazilijus Bonifacas Jakimavičius]]: Narbutas Jakimavičiaus žodžius laikė pagrindu įtraukti naują objektą į savo deivių rinkinį.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-188615|Simonas Grunau]]: Narbutas Simoną Grunau vadino seniausiu žinomu šio pasakojimo šaltiniu ir gynė jį kaip didesnės pagarbos vertą kronikininką.
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-188630|Teodoras Narbutas]]: Vytauto Berenio teigimu, Teodoras Narbutas šaltinius rinkosi panašiai kaip pirmtakai, bet juos pralenkė tautosakos ir etnografijos gausa.
@@ -44,7 +58,15 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
 - susijęs iš Simono Grunau kronika: Narbutas Simoną Grunau vadina suniekintu, bet didesnės pagarbos vertu kronikininku, nors pripažįsta jo šališkumą ir nekritiškumą.
 - susijęs iš [[objektai/zodynas/Aitvaras viršgulis.md#claim-t-189110|Aitvaras viršgulis]]: Narbutas Aitvarą viršgulį apibūdina kaip vyrų paleistuvavimo dievaitį, kuris užgula miegančias moteris.
 - susijęs iš [[objektai/zodynas/Vylius Wilius.md#claim-t-189258|Vylius Wilius]]: Narbutas, remdamasis Sirvydo žodynu, nurodo, kad Zdrada, Dolus, fraus, falacia ir perfidia lietuviškai atitinka Vylius (Wilius).
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192193|Wespats]]: Teodoro Narbuto aiškinimu, Wespats lietuvių kalba reiškia poną.
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192194|Wespats]]: Teodoro Narbuto aiškinimu, Wespats, vartojamas su kitu žodžiu, reiškia patvaldystę.
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192195|Wespats]]: Teodoro Narbuto perteikimu, Sirvydo žodyne Wespats tiksliau aiškinamas kaip visagalis ponas.
+- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192193|Wespats]]: Teodoro Narbuto aiškinimu, Wespats lietuvių kalba reiškia poną.
+- susijęs iš [[objektai/zodynas/Wespats.md#claim-t-192194|Wespats]]: Teodoro Narbuto aiškinimu, Wespats, vartojamas su kitu žodžiu, reiškia patvaldystę.
+- susijęs iš [[objektai/zodynas/karaliukas.md#claim-t-192247|karaliukas]]: Teodoras Narbutas herulų vadus Farą, Filemutą, Fanotėjų ir Fulkarį vadina karaliukais.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką žodį „nukrypęs“.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -57,8 +79,33 @@ Narbutas išnašoje nurodo Sirvydo žodyno 119 puslapį aptardamas lietuvišką 
     sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
     provincijoje.
     21 Sirvydo žodynas. -  P. 119.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-173287
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 291"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 291."
+  citata_originali: |
+    Lietuviai, artimesni prūsams,krzywy\adincLKreiwas -
+    iš slavų kalbos, o kiti, kaip antai mano užkampiečiai, turi tam
+    tikslui liaudišką žodį „nukrypęs“ (Nukripis) . Taigi neneigda­
+    mi, kad vaitų lazdas vadino krivūlėmis (Krywuli) ir kad galbūt
+    panašiomis lazdomis naudojosi ir žemesnieji kriviai, nekildin­
+    sime jų pavadinimo iš slaviško žodžio, pasiskolinto tik vienoje
+    provincijoje.
+    21 Sirvydo žodynas. -  P. 119.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190404

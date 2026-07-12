@@ -16,6 +16,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Jordanas iš Pelplino
 
@@ -28,9 +40,9 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
 <a id="claim-t-87529"></a>
 - t-001
   global_id: t-87529
-  teiginys: 'Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.'
+  teiginys: "Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą."
   pagrindžia:
-    - c-001
+    - c-83508
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
 - susijęs iš Olivos ir Pelplino abatų laiškas dėl Teutonų ordino garbės (1324 m.): Olivos abatas Paulius ir Pelplino abatas Jordanas laiškais popiežiui gynė Teutonų ordino brolių garbę.
 - susijęs iš [[objektai/asmenys/Paulius iš Olivos.md#claim-t-87818|Paulius iš Olivos]]: Paulius iš Olivos kartu su Jordanu iš Pelplino laiškais popiežiui gynė kryžiuočius nuo Gedimino skundo.
@@ -65,12 +77,37 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
     liepė parengti, yra Slapt. Archyve.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
+## Citatos
+
+- id: c-83508
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Minėti
+    pasiuntiniai, be abejonės, iš Liube­
+    ko buvo išsiųsti pas Gediminą.
+    Mažesniųjų brolių laiškas, rašytas in
+    Culmine [Kulme], datuotas fl. d. 1323
+    in die S. Katherine, du originalai (XI,
+    Nr. 19, 20) ir nuorašas (LII, Spinta
+    Nr. 1), kurį magistras Fridrichas fon
+    Vildenbergas Meve 1324 m., daly­
+    vaujant Pelplino abatui Jordanui,
+    liepė parengti, yra Slapt. Archyve.
+  citata_rodoma: "Mažesniųjų brolių laiškas, rašytas in \nCulmine [Kulme], datuotas fl. d. 1323 \nin die S. Katherine, du originalai (XI, \nNr. 19, 20) ir nuorašas (LII, Spinta \nNr. 1), kurį magistras Fridrichas fon \nVildenbergas Meve 1324 m., daly­\nvaujant Pelplino abatui Jordanui, \nliepė parengti, yra Slapt. Archyve."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87529
+
 ## Ryšiai
-- Sąjungininkai: [[objektai/asmenys/Paulius iš Olivos]]
-- Jordanas iš Pelplino gynė [[objektai/grupes/Teutonai]]
 - Jordanas iš Pelplino rėmė [[objektai/grupes/Kryžiuočių ordinas]]

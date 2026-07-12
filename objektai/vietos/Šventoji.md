@@ -15,6 +15,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šventoji
 
@@ -27,9 +39,9 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
 <a id="claim-t-182117"></a>
 - t-001
   global_id: t-182117
-  teiginys: 'Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji.'
+  teiginys: "Siena į Nemuną buvo išvesta ties vieta, priešais kurią dešinėje Nemuno pusėje įteka Šventoji."
   pagrindžia:
-    - c-001
+    - c-165605
 - susijęs iš [[objektai/asmenys/Šventoji Barbora.md#claim-t-60081|Šventoji Barbora]]: Šventoji Barbora moteriai tris kartus pasirodė naktį ir sakė ketinanti eiti į Kulmo miestą klausyti mišių.
 - susijęs iš [[objektai/daiktai/Vaikių pilis ir aplinkiniai pastatai.md#claim-t-87095|Vaikių pilis ir aplinkiniai pastatai]]: Vaikių krašte šventoji giria, netoliese stovėjusi pilis ir aplinkiniai pastatai per vieną naktį buvo sudeginti iki pamatų.
 - susijęs iš [[objektai/paprociai/Aisčių ugnies kultas ir šventoji namų ugnelė.md#claim-t-10816|Aisčių ugnies kultas ir šventoji namų ugnelė]]: Namų židinyje nuolat kūrenama šventoji namų ugnelė buvo vadinama gabija.
@@ -112,7 +124,30 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
     muną dviejų mylių ruože^31.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-165605
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Šešupės krantu ji ėjo per girių masyvus. Jos žemupys
+    paliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena
+    tiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­
+    muno pusėje įteka Šventoji.
+    Žemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui
+    stačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­
+    muną dviejų mylių ruože^31.
+  citata_rodoma: "Jos žemupys\npaliekamas ordinui, nes nuo į vakarus pasukančios Šešupės siena\ntiesia linija į Nemuną buvo išvesta ten, kur priešais dešinėje Ne­\nmuno pusėje įteka Šventoji.\nŽemaičių pusėje siena turėjo kilti Šventąja dvi mylias, paskui\nstačiai per dykrą į vakarus — Juros upėn, ordinui paliekant Ne­\nmuną dviejų mylių ruože^31."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182117

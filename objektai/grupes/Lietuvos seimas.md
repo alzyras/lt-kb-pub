@@ -16,6 +16,18 @@ tags:
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Lietuvos seimas (seimas)
 
@@ -28,16 +40,16 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 <a id="claim-t-72534"></a>
 - t-001
   global_id: t-72534
-  teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
+  teiginys: "Lietuvos seimas liepos 30 d. ratifikavo konvenciją."
   pagrindžia:
-    - c-001
+    - c-46373
 
 <a id="claim-t-72535"></a>
 - t-002
   global_id: t-72535
-  teiginys: 'Lietuvos seimas konvenciją ratifikavo liepos 30 d.'
+  teiginys: "Lietuvos seimas konvenciją ratifikavo liepos 30 d."
   pagrindžia:
-    - c-001
+    - c-46373
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75745|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. A. Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks radikaliosios ir konservatyviosios dalių prieštaravimus.
 - susijęs iš [[objektai/grupes/Ambasadorių Konferencija.md#claim-t-152692|Ambasadorių Konferencija]]: 1923 m. vasario 17 d. Ambasadorių konferencija perleido suverenias Klaipėdos teises Lietuvai.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179217|Lietuviai]]: Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.
@@ -75,11 +87,32 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
     **4.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
 
-## Ryšiai
-- Lietuvos seimas (seimas) rėmė [[objektai/grupes/Vyriausias Mažosios Lietuvos gelbėjimo komitetas]]
+## Citatos
+
+- id: c-46373
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Ket-
+    virtoji dalis liečia tranzitą upe ir geležinkeliais. Pagaliau
+    penktoje dalyje signatarai apsiima pripažinti po ratifikacijos
+    teisėtais Lietuvos vyriausybės aktus, kuriais ji palaikė tvarką šalyje.
+    Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
+
+    **4.
+  citata_rodoma: "Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.\n\n**4."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72534
+    - t-72535

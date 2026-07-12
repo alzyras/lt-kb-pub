@@ -14,6 +14,18 @@ tags:
   - sutartis
 amziai:
   - 'XIV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Naugardo respublika
 
@@ -26,10 +38,9 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
 <a id="claim-t-31324"></a>
 - t-001
   global_id: t-31324
-  teiginys: 'Algirdas siekė priversti Naugardo respubliką paklusti, tačiau prieš jo mirtį joje įsigalėjo Maskvos įtaka.'
+  teiginys: "Algirdas siekė priversti Naugardo respubliką paklusti, tačiau prieš jo mirtį joje įsigalėjo Maskvos įtaka."
   pagrindžia:
-    - c-001
-
+    - c-33336
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,29 @@ Ilgą laiką panašiai buvo ir su Naugardo respublika, nors Algirdas siekė ją 
     D. Naugardas su Dimitru padarė sutartį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33336
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Kartais tos kunigaikštijos taip pasiprie­
+    šindavo abiem varžovam, jog išsikovodavo visišką nepriklausomu­
+    mą, kaip pvz., Pskovas. Ilgą laiką panašiai buvo ir su Naugardo
+    respublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo
+    mirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375
+    D. Naugardas su Dimitru padarė sutartį.
+  citata_rodoma: "Ilgą laiką panašiai buvo ir su Naugardo\nrespublika, nors Algirdas siekė ją priversti paklusti. Prieš Algirdo\nmirtį ten laimėjo pagaliau Maskvos įtaka, kurios pasėkoje 1375\nD. Naugardas su Dimitru padarė sutartį."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31324

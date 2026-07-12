@@ -12,11 +12,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - karas
   - seimas
-  - sutartis
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Gardino seimas
 
@@ -29,37 +41,37 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
 <a id="claim-t-72073"></a>
 - t-001
   global_id: t-72073
-  teiginys: 'Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti.'
+  teiginys: "Gardino seimas buvo sušauktas padalinimui patvirtinti ir naujai taikos sutarčiai su apkarpyta Respublika sudaryti."
   pagrindžia:
-    - c-001
+    - c-46280
 
 <a id="claim-t-72074"></a>
 - t-002
   global_id: t-72074
-  teiginys: 'Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos.'
+  teiginys: "Gardino seime buvo atgaivinta Nuolatinė Taryba ir po pirmojo padalijimo veikusios karo bei iždo komisijos."
   pagrindžia:
-    - c-002
+    - c-46281
 
 <a id="claim-t-72075"></a>
 - t-003
   global_id: t-72075
-  teiginys: '1793 m. Gardino seime Rusija siekė sugrąžinti tvarką, buvusią po pirmojo Respublikos padalijimo.'
+  teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti tvarką, buvusią po pirmojo Respublikos padalijimo."
   pagrindžia:
-    - c-003
+    - c-70499
 
 <a id="claim-t-72076"></a>
 - t-004
   global_id: t-72076
-  teiginys: '1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką.'
+  teiginys: "1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką."
   pagrindžia:
-    - c-003
+    - c-70499
 
 <a id="claim-t-72077"></a>
 - t-005
   global_id: t-72077
-  teiginys: 'Gardino seimas buvo sušauktas patvirtinti Respublikos padalijimą ir sudaryti naują taikos sutartį su apkarpyta valstybe.'
+  teiginys: "Gardino seimas buvo sušauktas patvirtinti Respublikos padalijimą ir sudaryti naują taikos sutartį su apkarpyta valstybe."
   pagrindžia:
-    - c-001
+    - c-46280
 - susijęs iš [[objektai/asmenys/Stanislovas Augustas Poniatovskis.md#claim-t-170094|Stanislovas Augustas Poniatovskis (valdovas)]]: Rusija privertė Stanislovą Augustą 1793 m. birželio 17 d. Gardine sušaukti Seimą, turėjusį patvirtinti antrąjį LLV padalijimą.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80772|Abiejų Tautų Respublika]]: 1793 m. Rusija ir Prūsija įvykdė antrąjį Abiejų Tautų Respublikos padalijimą, kurį Gardino seimas buvo priverstas patvirtinti.
 - susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. Gardino seimo privilegija nepriekaištingai Vilniaus magistrate tarnavusius miestiečius ir jų palikuonis visam laikui pakėlė į bajorų luomą.
@@ -90,6 +102,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     Tam tikslui Gardine buvo sušauktas seimas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -107,6 +120,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     tada veikusios karo ir iždo komisijos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,11 +138,69 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
     padaryti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
     - t-004
 
-## Ryšiai
-- Apgulė Gardino seimą: [[objektai/grupes/Rusai]]
+## Citatos
+
+- id: c-46280
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Rusija sau tenkančias žemes tuo metu jau buvo užėmusi; Prū-
+    sija savąsias irgi tuojau okupavo. Tuomet, kaip ir 1772 m., iš
+    karaliaus ir seimo tereikėjo gauti tik padalinimo patvirtinimą;
+    su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.
+    Tam tikslui Gardine buvo sušauktas seimas.
+  citata_rodoma: "su apkarpyta Respublika reikėjo padaryti naują taikos sutartį.\nTam tikslui Gardine buvo sušauktas seimas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72077
+    - t-72073
+
+- id: c-46281
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kaip pirmą padalinimą patvirtinusiame seime, taip ir šitame
+    šeimininkavo Kotrynos ambasadorius, Ziversas. Buvo sudaryta
+    naujoji valstybės konstitucija, kuria buvo grąžinta santvarka,
+    buvusi po I padalinimo. Buvo atgaivinta Nuolatinė Taryba ir
+    tada veikusios karo ir iždo komisijos.
+  citata_rodoma: "Buvo atgaivinta Nuolatinė Taryba ir\ntada veikusios karo ir iždo komisijos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72074
+
+- id: c-70499
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tačiau Rusijai buvo patogiau, kad valstybės priešaky liktų ka-
+    ralius: mat, laikant jį savo įtakoj, lengviau prižiūrėti visą vals-
+    tybės politiką; palikus bajoriškąją demokratiją, tektų skaitytis
+    su daugybe ponų, o daugelį suvaldyti visada sunkiau. Todėl
+    Rusija norėjo sugrąžinti tokią tvarką, kokia buvo po I padali-
+    nimo. Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai
+    padaryti.
+  citata_rodoma: "Taigi minėtame Gardino seime (1793 m.) ir reikėjo tatai\npadaryti."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72075
+    - t-72076

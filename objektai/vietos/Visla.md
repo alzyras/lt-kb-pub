@@ -17,6 +17,18 @@ tags:
   - tauta
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Visla
 
@@ -29,30 +41,30 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
 <a id="claim-t-36682"></a>
 - t-001
   global_id: t-36682
-  teiginys: '1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.'
+  teiginys: "1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos."
   pagrindžia:
-    - c-001
+    - c-38677
 
 <a id="claim-t-184323"></a>
 - t-002
   global_id: t-184323
-  teiginys: 'Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį.'
+  teiginys: "Prūsijos kraštas apie Vislos ir Dresvenco upes pateko į karo sūkurį."
   pagrindžia:
-    - c-002
+    - c-167694
 
 <a id="claim-t-187680"></a>
 - t-003
   global_id: t-187680
-  teiginys: 'Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos.'
+  teiginys: "Lietuvos metraštis Jogailos žygius į Lenkų žemę vaizduoja kaip žalą ir krikščionių kraujo praliejimą nuo Lietuvos sienų iki Vislos."
   pagrindžia:
-    - c-003
+    - c-170621
 
 <a id="claim-t-187681"></a>
 - t-004
   global_id: t-187681
-  teiginys: 'Po Šventojo Kryžiaus medžio pagrobimo Jogaila, metraščio teigimu, nukėlė sieną su Lenkija iki Baltojo vandens, tai yra Vislos.'
+  teiginys: "Po Šventojo Kryžiaus medžio pagrobimo Jogaila, metraščio teigimu, nukėlė sieną su Lenkija iki Baltojo vandens, tai yra Vislos."
   pagrindžia:
-    - c-004
+    - c-170622
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178972|Kryžiuočių ordinas]]: Vokiečių ordinas Prūsuose įsigijo didelius žemės plotus, juos kolonizavo ir, laimėjęs Vislos žiotis bei Pamarį, sustiprėjo.
 - susijęs iš Melno ežeras: 1422 m. rugsėjo 27 d. taika buvo sudaryta prie Melno ežero netoli Vislos.
 - susijęs iš Opatovas: Opatovas yra Lenkijos Kielcų vaivadijos miestas, esantis apie 30 km į vakarus nuo Zavichosto ir Vislos.
@@ -85,6 +97,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     Melno ežero (netoli Vislos)^1 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -101,6 +114,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     ro sūkurin. Daugiausia buvo varginama Kulmijos šalis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -124,6 +138,7 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     šais Zavichostą \  ėmė tartis, kaip persikelti per upę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -139,7 +154,89 @@ Vi­ sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­ ro sūkuri
     29.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
+## Citatos
+
+- id: c-38677
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tik
+    kada patys Prūsijos krašto gyventojai prieš kryžiuočius sukilo,
+    o Zigmanto žadėtos pagalbos nesulaukė, magistras turėjo nu­
+    sileisti.
+    Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie
+    Melno ežero (netoli Vislos)^1 ).
+  citata_rodoma: "Taika buvo padaryta 1422 m. rugsėjo mėn. 27 d. prie\nMelno ežero (netoli Vislos)^1 )."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-36682
+
+- id: c-167694
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tačiau šį kartą Vytautui neteko
+    su Ordino kariuomene susitikti atvirame mūšyje, nes vokiečiai
+    buvo užsidarę pilyse ir reikėjo kiekvieną jų imti atskirai. Vi­
+    sas Prūsijos kraštas apie Vislos ir Dresvenco upes pateko ka­
+    ro sūkurin. Daugiausia buvo varginama Kulmijos šalis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184323
+
+- id: c-170621
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 84"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 84."
+  citata_originali: |
+    APIE JOGAILOS ŽYGĮ I LENKIJĄ IR ŠVENTOJO KRYŽIAUS
+    MEDŽIO PAGROBIMĄ
+    Jogaila valdydamas visą Lietuvos Didžiąją Kuni­
+    gaikštystę, pradėjo kariauti su Mazovija2  ir su Len­
+    kais, nes Mazovijos kunigaikštis, Lenkų padedamas,
+    buvo užgrobęs Drohičiną ir Melniką. Jogaila daug kar­
+    tų žygiavo į Lenkų žemę ir padarė daug žalos Lenkų
+    bei Mozūrų žemėms, ir praliejo daug Romos tikėjimo
+    krikščionių kraujo nuo Lietuvos sienų ligi pat Vislos
+    upės 3.
+    Ir atžygiavę su didele kariuomene prie Vislos, prie­
+    šais Zavichostą \  ėmė tartis, kaip persikelti per upę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187680
+
+- id: c-170622
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Bet grįžkime atgalios.
+    Ir po to pagrobimo Jogaila nukėlė sieną su Lenkija
+    ligi Baltojo vandens, tai yra ligi Vislos upės l5 .
+    29.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187681

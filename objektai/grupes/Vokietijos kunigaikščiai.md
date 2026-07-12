@@ -15,6 +15,18 @@ tags:
   - ordinas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vokietijos kunigaikščiai
 
@@ -27,10 +39,9 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
 <a id="claim-t-31373"></a>
 - t-001
   global_id: t-31373
-  teiginys: 'Vokietijos kunigaikščiai galėjo paremti ordiną.'
+  teiginys: "Vokietijos kunigaikščiai galėjo paremti ordiną."
   pagrindžia:
-    - c-001
-
+    - c-33366
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -44,7 +55,29 @@ Vokietijos kunigaikščiai galėjo paremti ordiną.
     čiams naudingus Raciąžo susitarimus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33366
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Pvz., Zig­
+    manto skatinamas Transilvanijos vaivada 1410 m. rudenį puolė
+    Lenkiją su 10 vėliavų^38. Vokietijos kunigaikščiai galėjo paremti
+    ordiną.
+    Torno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­
+    čiams naudingus Raciąžo susitarimus.
+  citata_rodoma: "Vokietijos kunigaikščiai galėjo paremti\nordiną.\nTorno taika ordino ir Lenkijos santykiuose vėl įgalino kryžiuo­\nčiams naudingus Raciąžo susitarimus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31373

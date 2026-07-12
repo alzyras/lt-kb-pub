@@ -18,6 +18,18 @@ amziai:
   - 'XIV'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Getautas
 
@@ -30,10 +42,9 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 <a id="claim-t-30255"></a>
 - t-001
   global_id: t-30255
-  teiginys: 'Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
+  teiginys: "Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą."
   pagrindžia:
-    - c-001
-
+    - c-32731
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -48,10 +59,30 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
     gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Getautas keliavo į [[objektai/vietos/Nevėžis]]
+## Citatos
+
+- id: c-32731
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Grūdų sulaikymas Vytautui akivaizdžiai parodė, ką reiškė
+    neturėjimas Nemuno žiočių, ir tai paskatino jį veikti. Jo pareigū­
+    nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
+    sigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­
+    navos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių
+    bajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­
+    gaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą.
+  citata_rodoma: "Jo pareigū­\nnas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­\nsigaila, Vasibutas) persikėlė per Nevėžį ir nuo Surviliškio — Kreke­\nnavos pradėjo užimti sukilusį kraštą. Įdomu tai, kad Raseinių\nbajoras « Clawssegail » 1390 Karaliaučiuje su kitais Žemaičių kilmin­\ngaisiais buvo pažadėjęs remti į ordiną pabėgusį Vytautą."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30255

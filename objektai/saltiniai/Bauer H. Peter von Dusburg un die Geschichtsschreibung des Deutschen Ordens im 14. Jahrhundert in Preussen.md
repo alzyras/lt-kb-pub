@@ -13,6 +13,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen
 
@@ -25,10 +37,9 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
 <a id="claim-t-61051"></a>
 - t-001
   global_id: t-61051
-  teiginys: 'H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m.'
+  teiginys: "H. Bauerio veikalas „Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im 14. Jahrhundert in Preussen“ išleistas Berlyne 1935 m."
   pagrindžia:
-    - c-001
-
+    - c-61683
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -41,7 +52,27 @@ Dusburgietis teigia, kad pAPILDYMAS Bauer H.
     14. Jahrhundert in Preussen.—Berlin 1935.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-61683
+  autorius: "Petras Dusburgietis"
+  šaltinis: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.)"
+  puslapiai: "PDF 278"
+  indeksas: "Petras Dusburgietis, Prūsijos žemės kronika (1985 m.), PDF 278."
+  citata_originali: |
+    PAPILDYMAS
+
+      Bauer H. Peter von Dusburg un die Geschichtsschreibung des Deutschen Ordens im
+    14. Jahrhundert in Preussen.—Berlin 1935.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-61051

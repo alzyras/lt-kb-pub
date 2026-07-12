@@ -10,6 +10,18 @@ tags:
   - krikštas
   - sąvoka
   - valstybė
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # gotika
 
@@ -22,16 +34,16 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
 <a id="claim-t-22154"></a>
 - t-001
   global_id: t-22154
-  teiginys: 'XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą.'
+  teiginys: "XIV a. pabaigoje Lietuvoje pradėjusi rastis gotika Europoje jau turėjo pusantro šimto metų tradiciją ir buvo pasiekusi brandųjį etapą."
   pagrindžia:
-    - c-001
+    - c-24840
 
 <a id="claim-t-22155"></a>
 - t-002
   global_id: t-22155
-  teiginys: 'Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa.'
+  teiginys: "Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa."
   pagrindžia:
-    - c-002
+    - c-24841
 - susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-183553|Konstantinas Ostrogiškis]]: Konstantinas Ostrogiškis gotikos stiliumi perstatydino Vilniaus ir Naugarduko cerkves ir skleidė gotiką savo tėvonijoje Voluinėje.
 - susijęs iš Myro pilis (pilis): Myro pilis prie Nesvyžiaus yra gotikinių LDK cerkvių stiliaus analogas rezidencijų architektūroje.
 - susijęs iš Nesvyžius: Myro pilis prie Nesvyžiaus laikoma viena iš gotikinių LDK cerkvių stiliaus analogijų rezidencijų architektūroje.
@@ -59,6 +71,7 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     pastatų architektūroje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -75,7 +88,49 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
     (Vilniuje katedra, Šv.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-24840
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Vertikalios gotikinių bažnyčių linijos ir ky-
+    lantys į dangų bokštai simbolizavo žmogaus veržimąsi Dievo link. XIV a.
+    pabaigoje, kai gotika tik pradėjo rastis Lietuvoje, Europoje šis meno sti-
+    lius turėjo jau pusantro šimto metų tradiciją, perėjo į brandųjį etapą ir pa-
+    veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos
+    regionų gotikinio meno ypatumai, bene ryškiausiai matomi sakralinių
+    pastatų architektūroje.
+  citata_rodoma: "veikė visas žmogaus kūrybinės veiklos sritis. Susiklostė atskirų Europos"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22154
+
+- id: c-24841
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Taigi išsiskyrė du ryškūs akme-
+    nų ir plytų (raudonosios) gotikos regionai ir tipai. Į Lietuvą atėjo plytų
+    gotikos stilius.
+    Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas
+    ir po jo pradėta įgyvendinti Vytauto mūrinių bažnyčių statybos programa
+    (Vilniuje katedra, Šv.
+  citata_rodoma: "Gotikinės architektūros plitimą pirmiausia paskatino valstybės krikštas"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-22155

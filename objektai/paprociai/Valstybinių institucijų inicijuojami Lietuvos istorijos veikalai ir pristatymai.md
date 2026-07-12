@@ -15,11 +15,24 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - diplomatas
+  - institucija
   - paprotys
   - tauta
 amziai:
   - 'XX'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Valstybinių institucijų inicijuojami Lietuvos istorijos veikalai ir pristatymai (institucija)
 
@@ -52,31 +65,37 @@ Nenurodyta
 <a id="claim-t-54362"></a>
 - t-001
   global_id: t-54362
-  teiginys: '1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
+  teiginys: "1936 m. Lietuvos Respublikos švietimo ministerijos iniciatyva lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją."
   pagrindžia:
-    - c-003
+    - c-166726
 
 <a id="claim-t-54363"></a>
 - t-002
   global_id: t-54363
-  teiginys: '2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją.'
+  teiginys: "2013 m. Lietuvos pirmininkavimas Europos Sąjungai buvo siejamas su proga tęsti Lietuvos ir jos istorijos pristatymo pasauliui tradiciją."
   pagrindžia:
-    - c-001
+    - c-55217
 
 <a id="claim-t-54364"></a>
 - t-003
   global_id: t-54364
-  teiginys: 'Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių.'
+  teiginys: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių."
   pagrindžia:
-    - c-002
+    - c-55218
+
+<a id="claim-t-54364"></a>
+- t-004
+  global_id: t-54364
+  teiginys: "Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio reikalų ministerija inicijavo specialų Lietuvos skyrių."
+  pagrindžia:
+    - c-55218
 
 <a id="claim-t-183336"></a>
 - t-005
   global_id: t-183336
-  teiginys: 'Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva.'
+  teiginys: "Valstybės institucijos kartais inicijuoja apibendrinamuosius istorijos darbus, kad valstybės kelias būtų įamžintas ir įvertintas platesne perspektyva."
   pagrindžia:
-    - c-003
-
+    - c-166726
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -93,6 +112,7 @@ Nenurodyta
     jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -114,7 +134,8 @@ Nenurodyta
     toriją visam pasauliui.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -134,8 +155,77 @@ Nenurodyta
     Šapoka.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
     - t-001
+
+## Citatos
+
+- id: c-55217
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
+    toriją visam pasauliui.
+    Šiandien yra bene geriausia proga šią gražią diplomatinę tradici-
+    ją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę,
+    2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare,
+    2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-
+    jungai – laisvų ir demokratinių Europos valstybių susivienijimui.
+  citata_rodoma: "Šiuo ir kitais atvejais mūsų intelektualai, akademikai, \nmenininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-\ntoriją visam pasauliui.\nŠiandien yra bene geriausia proga šią gražią diplomatinę tradici-\nją pratęsti ir sustiprinti. 1990 m. kovo 11 d. atkūrusi nepriklausomybę, \n2004 m. tapusi visateise demokratinių NATO ir ES valstybių šeimos nare, \n2013-aisiais Lietuva imsis istorinės pareigos pirmininkauti Europos Są-\njungai – laisvų ir demokratinių Europos valstybių susivienijimui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54363
+
+- id: c-55218
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-
+    saulį pasklidusių išeivių veikloje.
+    Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-
+    kos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo
+    ir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-
+    rių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį
+    svarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų
+    dailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai,
+    menininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-
+    toriją visam pasauliui.
+  citata_rodoma: "archajiškiausioje ir savo grožiu išskirtinėje lietuvių kalboje bei po pa-\nsaulį pasklidusių išeivių veikloje.\nRuošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respubli-\nkos užsienio reikalų ministerija (ministras Stasys Lozoraitis) inicijavo \nir, Magdalenai Avietėnaitei vadovaujant, parengė specialų Lietuvos sky-\nrių, atskleidusį meno, tautodailės, ekonomikos pasiekimus ir parodžiusį \nsvarbiausius Lietuvos istorijos įvykius monumentaliose žymiausių mūsų \ndailininkų drobėse. Šiuo ir kitais atvejais mūsų intelektualai, akademikai, \nmenininkai buvo skatinami telktis ir vieningai pristatyti Lietuvą ir jos is-\ntoriją visam pasauliui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54364
+
+- id: c-166726
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Apibendrinamojo pobūdžio istorijos darbai paprastai gimsta lūži-
+    niais valstybės raidos etapais ir išskirtinėmis progomis. Kartais juos
+    inicijuoja valstybės institucijos, kurių pareiga – užtikrinti, kad valsty-
+    bės nueitas kelias būtų įamžintas ir įvertintas iš platesnės perspekty-
+    vos – patriotiniu, bet teisingu, skvarbiu, visumą apimančiu žvilgsniu.
+    1936 m. Lietuvos Respublikos švietimo ministerijos (viceministro Ka-
+    zimiero Masiliūno) iniciatyva ir rūpesčiu grupė lietuvių istorikų para-
+    šė ir išleido plačios apimties Lietuvos istoriją, kurią redagavo Adolfas
+    Šapoka.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183336
+    - t-54362

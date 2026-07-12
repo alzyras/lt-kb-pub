@@ -1,0 +1,73 @@
+---
+tipas: saltinis
+pavadinimas: 'Skarbiec'
+saltiniai:
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
+datos:
+  - '1883 m.'
+date_start: '1883'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+amziai:
+  - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Skarbiec
+
+## Santrauka
+
+A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883).
+
+## Teiginiai
+
+<a id="claim-t-194163"></a>
+- t-001
+  global_id: t-194163
+  teiginys: "A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883)."
+  pagrindžia:
+    - c-176776
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių išvijimų ii LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Danilowicz, Skarbiec, 1 1 , Nr. 1883).'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių
+    išvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani-
+    lowicz, Skarbiec, 1 1 , Nr. 1883).
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-176776
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    A pie pilių ir miestų atsiėmimų iš Mykolo 2ygim antalčio Ir totorių
+    išvijimų ii  LDK teritorijos rašo pats Kazimieras Ì449.VIII.1 (Dani-
+    lowicz, Skarbiec, 1 1 , Nr. 1883).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194163

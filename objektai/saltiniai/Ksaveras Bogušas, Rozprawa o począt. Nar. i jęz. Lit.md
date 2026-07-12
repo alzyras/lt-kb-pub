@@ -1,0 +1,84 @@
+---
+tipas: saltinis
+pavadinimas: 'Ksaveras Bogušas, Rozprawa o począt. Nar. i jęz. Lit'
+saltiniai:
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
+sukurta: ''
+atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Ksaveras Bogušas, Rozprawa o począt. Nar. i jęz. Lit
+
+## Santrauka
+
+Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalboje laikė nereikalingomis, nes lietuvis galįs rasti lietuviškų atitikmenų.
+
+## Teiginiai
+
+<a id="claim-t-191756"></a>
+- t-001
+  global_id: t-191756
+  teiginys: "Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalboje laikė nereikalingomis, nes lietuvis galįs rasti lietuviškų atitikmenų."
+  pagrindžia:
+    - c-174638
+## Reikšmingi paminėjimai
+
+- c-001
+  santrauka: 'Ksaveras Bogušas, Narbuto perteikimu, slavų kalbos priemaišas lietuvių kalboje laikė nereikalingomis, nes lietuvis galįs rasti lietuviškų atitikmenų.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tuo­
+    met šis mokytas vyras gal būtų apsiribojęs savo pirmu
+    teiginiu, kuris kilo jam pirmiausia gilinantis į senovę;
+    jis būtų sutikęs su mūsų nuomone, jog tai tauta, iš tik­
+    rųjų kilusi iš gelonų, kurie buvo trakų-pelazgų heleriai
+    (§62). Slavų kalbos priemaišos lietuvių kalboje yra labai
+    nesenos, jose vyrauja baltarusių ir lenkų dialektai, pasi­
+    skolinti dėl vėlesnių amžių įtakos. Visi šie žodžiai, kaip
+    mano Ksaveras Bogušas1, yra nereikalingi, nes gerai mo­
+    kantis savo kalbą lietuvis vos ne kiekvienam jų ras savo
+    kalbos atitikmenį.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
+## Citatos
+
+- id: c-174638
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 198"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 198."
+  citata_originali: |
+    Tuo­
+    met šis mokytas vyras gal būtų apsiribojęs savo pirmu
+    teiginiu, kuris kilo jam pirmiausia gilinantis į senovę;
+    jis būtų sutikęs su mūsų nuomone, jog tai tauta, iš tik­
+    rųjų kilusi iš gelonų, kurie buvo trakų-pelazgų heleriai
+    (§62). Slavų kalbos priemaišos lietuvių kalboje yra labai
+    nesenos, jose vyrauja baltarusių ir lenkų dialektai, pasi­
+    skolinti dėl vėlesnių amžių įtakos. Visi šie žodžiai, kaip
+    mano Ksaveras Bogušas1, yra nereikalingi, nes gerai mo­
+    kantis savo kalbą lietuvis vos ne kiekvienam jų ras savo
+    kalbos atitikmenį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-191756

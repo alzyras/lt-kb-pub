@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # T. Korsakas
 
@@ -19,9 +31,9 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 <a id="claim-t-40455"></a>
 - t-001
   global_id: t-40455
-  teiginys: 'T. Korsakas buvo Vilniaus pavieto žemės generolas majoras, kurio milicijos batalionas buvo įguloje.'
+  teiginys: "T. Korsakas buvo Vilniaus pavieto žemės generolas majoras, kurio milicijos batalionas buvo įguloje."
   pagrindžia:
-    - c-001
+    - c-44529
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23259|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23260|Tadas Korsakas]]: Tadas Korsakas žuvo ginant Varšuvą.
 - susijęs iš [[objektai/autoriai/Tadas Korsakas.md#claim-t-23262|Tadas Korsakas]]: Tadas Korsakas buvo Gegužės trečiosios konstitucijos pataisos autorius ir žuvo ginant Varšuvą.
@@ -46,11 +58,32 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
     smulkesnių sukilėlių padalinių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- T. Korsakas mirė [[objektai/vietos/Varšuva]]
-- T. Korsakas gynė [[objektai/vietos/Varšuva]]
+## Citatos
+
+- id: c-44529
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Vilniaus
+    miesto įgulą sudarė nedideli 4-ojo ir 8-ojo
+    pėstininkų regimentų ir raitelių atsarginiai
+    padaliniai - apie 1000 karių, tik 420 tu-
+    réjo šautuvus, taip pat 7 artilerijos pabū-
+    klus. Įguloje taip pat buvo Vilniaus pavieto
+    (žemės gen. mjr. T. Korsako) milicijos ba-
+    talionas ir keli eskadronai bei keletas kitų
+    smulkesnių sukilėlių padalinių.
+  citata_rodoma: "Įguloje taip pat buvo Vilniaus pavieto\n(žemės gen. mjr. T. Korsako) milicijos ba-\ntalionas ir keli eskadronai bei keletas kitų\nsmulkesnių sukilėlių padalinių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40455

@@ -20,6 +20,18 @@ tags:
 amziai:
   - 'XIV'
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Bajorijos stiprinimas valdovo privilegijomis (privilegija)
 
@@ -52,17 +64,16 @@ Nenurodyta
 <a id="claim-t-28917"></a>
 - t-001
   global_id: t-28917
-  teiginys: 'Bajorija valdovo privilegijomis 1387, 1413, 1434 ir 1447 m. buvo palaikoma ir stiprinama kaip atskiras galingas visuomenės sluoksnis.'
+  teiginys: "Bajorija valdovo privilegijomis 1387, 1413, 1434 ir 1447 m. buvo palaikoma ir stiprinama kaip atskiras galingas visuomenės sluoksnis."
   pagrindžia:
-    - c-001
+    - c-28821
 
 <a id="claim-t-184345"></a>
 - t-002
   global_id: t-184345
-  teiginys: 'Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį.'
+  teiginys: "Valdovo privilegijos 1387, 1413, 1434 ir 1447 m. palaikė bajoriją kaip atskirą ir stiprėjantį visuomenės sluoksnį."
   pagrindžia:
-    - c-002
-
+    - c-167715
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -78,6 +89,7 @@ Nenurodyta
     privilegija (1447) padėjo pagrindą baudžiavinei epochai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -100,7 +112,53 @@ Nenurodyta
     vių sąlyčių su rytais, aiškiai pasuko Vakarų link.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-28821
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    _Socialiniu_ atžvilgiu ši epocha yra charakterizuojama išryškė­
+    jusią luomine diferenciacija. Šalia stambiųjų didikų bei kunigaikš­
+    čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį,
+    valdovo privilegijomis (1387, 1413, 1434, 1447) vis palaikomą ir
+    stiprinamą. Uždrausdamas bajoro valstiečiams išsikelti, perduo­
+    damas juos ir teismo atžvilgiu pono valdžion ir šio labui juos
+    paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
+    privilegija (1447) padėjo pagrindą baudžiavinei epochai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-28917
+
+- id: c-167715
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Šalia stambiųjų didikų bei kunigaikš­
+    čių, bajorija ėmė išsivystyti į atskirą galingą visuomenės sluoksnį,
+    valdovo privilegijomis (1387, 1413, 1434, 1447) vis palaikomą ir
+    stiprinamą. Uždrausdamas bajoro valstiečiams išsikelti, perduo­
+    damas juos ir teismo atžvilgiu pono valdžion ir šio labui juos
+    paliuosuodamas nuo piniginės prievolės valstybei, Kazimieras savo
+    privilegija (1447) padėjo pagrindą baudžiavinei epochai.
+
+    _Kultūriniu_ atžvilgiu vyko reikšmingas persilaužimas, nes lie­
+    tuvių tauta, nors ir valdydama daug rusų žemių ir turėdama pasto­
+    vių sąlyčių su rytais, aiškiai pasuko Vakarų link.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184345

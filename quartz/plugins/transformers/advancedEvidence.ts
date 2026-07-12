@@ -6,6 +6,7 @@ import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 const TARGET_SECTIONS = new Set([
   "Teiginiai",
   "Reikšmingi paminėjimai",
+  "Citatos",
   "Šaltiniai ir įrodymai",
   "Bibliografiniai įrodymai",
 ])
@@ -15,9 +16,17 @@ const ADVANCED_KEYS = new Set([
   "patikimumo_saltinis",
   "patikimumo_pagrindimas",
   "sudarymo_pagrindimas",
+  "susije_objektai",
+  "semantiniai_rysiai",
   "temporaliniai_duomenys",
   "temporalinis_paaiskinimas",
   "temporalinis_llm_pakomentavimas",
+  "šaltinio_profilis",
+  "saltinio_profilis",
+  "irodymo_stiprumas",
+  "saltinio_vieta",
+  "sprendimo_priezastis",
+  "atnaujinimo_run_id",
   "ryšio_patikimumas",
   "ryšio_patikimumo_lygis",
   "ryšio_patikimumo_priezastys",
@@ -25,6 +34,7 @@ const ADVANCED_KEYS = new Set([
   "ryšio_subjekto_parinkimas",
   "ryšio_targeto_parinkimas",
   "ryšio_slopinti_kandidatai",
+  "ryšio_slopinimo_priezastys",
   "ryšio_paaiskinimas",
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
@@ -33,6 +43,72 @@ const ADVANCED_KEYS = new Set([
   "pagrindžia",
   "global_id",
 ])
+const ADVANCED_LABELS = new Map<string, string>([
+  ["global_id", "Globalus ID"],
+  ["public_id", "Viešas ID"],
+  ["original_local_id", "Originalus lokalus ID"],
+  ["teiginio_tipas", "Teiginio tipas"],
+  ["patikimumo_lygis", "Patikimumas"],
+  ["patikimumo_saltinis", "Patikimumo šaltinis"],
+  ["patikimumo_pagrindimas", "Patikimumo pagrindas"],
+  ["sudarymo_pagrindimas", "Teiginio sudarymas"],
+  ["susije_objektai", "Susiję objektai"],
+  ["semantiniai_rysiai", "Ryšiai"],
+  ["temporaliniai_duomenys", "Laikotarpiai"],
+  ["temporalinis_paaiskinimas", "Laiko paaiškinimas"],
+  ["temporalinis_llm_pakomentavimas", "Laiko interpretacija"],
+  ["šaltinio_profilis", "Šaltinio profilis"],
+  ["saltinio_profilis", "Šaltinio profilis"],
+  ["irodymo_stiprumas", "Įrodymo stiprumas"],
+  ["saltinio_vieta", "Citatos vieta šaltinyje"],
+  ["sprendimo_priezastis", "Sprendimo priežastis"],
+  ["ryšio_patikimumas", "Ryšio patikimumas"],
+  ["ryšio_patikimumo_lygis", "Ryšio patikimumo lygis"],
+  ["ryšio_patikimumo_priezastys", "Ryšio patikimumo priežastys"],
+  ["ryšio_sprendimo_taisykle", "Ryšio taisyklė"],
+  ["ryšio_subjekto_parinkimas", "Ryšio subjektas"],
+  ["ryšio_targeto_parinkimas", "Ryšio objektas"],
+  ["ryšio_slopinti_kandidatai", "Atmesti ryšio kandidatai"],
+  ["ryšio_slopinimo_priezastys", "Ryšio slopinimo priežastys"],
+  ["ryšio_paaiskinimas", "Ryšio paaiškinimas"],
+  ["ai_siulomas_patikimumas", "AI siūlomas patikimumas"],
+  ["ai_siulymo_pagrindimas", "AI siūlymo pagrindas"],
+  ["vertinimo_atnaujinta", "Atnaujinta"],
+  ["vertinimo_autorius", "Atnaujino"],
+  ["atnaujinimo_run_id", "Run ID"],
+  ["citata_originali", "Originali citata"],
+])
+const CLAIM_ADVANCED_KEYS = [
+  "teiginio_tipas",
+  "patikimumo_lygis",
+  "patikimumo_saltinis",
+  "patikimumo_pagrindimas",
+  "sudarymo_pagrindimas",
+  "susije_objektai",
+  "semantiniai_rysiai",
+  "temporaliniai_duomenys",
+  "temporalinis_paaiskinimas",
+  "temporalinis_llm_pakomentavimas",
+  "šaltinio_profilis",
+  "saltinio_profilis",
+  "irodymo_stiprumas",
+  "saltinio_vieta",
+  "sprendimo_priezastis",
+  "ryšio_patikimumas",
+  "ryšio_patikimumo_lygis",
+  "ryšio_patikimumo_priezastys",
+  "ryšio_sprendimo_taisykle",
+  "ryšio_subjekto_parinkimas",
+  "ryšio_targeto_parinkimas",
+  "ryšio_slopinti_kandidatai",
+  "ryšio_slopinimo_priezastys",
+  "ryšio_paaiskinimas",
+  "ai_siulomas_patikimumas",
+  "ai_siulymo_pagrindimas",
+  "vertinimo_atnaujinta",
+  "vertinimo_autorius",
+  "atnaujinimo_run_id",
+]
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
 const QUOTE_LEGACY_DISPLAY_KEY = "citata"
@@ -77,13 +153,33 @@ function pill(id: string): string {
   return `<span class="evidence-pill evidence-pill-${kind}">${escapeHtml(normalized)}</span>`
 }
 
-function claimAnchorId(globalId: string): string {
-  const code = globalId
+function sanitizeClaimDomKey(raw: string): string {
+  return raw
     .trim()
     .toLowerCase()
     .replace(/[^a-z0-9_-]+/g, "-")
     .replace(/^-+|-+$/g, "")
-  return code ? `claim-${code}` : ""
+}
+
+function claimPublicId(index: number): string {
+  return `t-${String(index + 1).padStart(3, "0")}`
+}
+
+function claimDomKey(entry: EvidenceEntry, index: number, usedKeys: Set<string>): string {
+  const globalId = entry.fields.get("global_id")?.trim()
+  const raw = globalId || `${entry.id}-${index + 1}`
+  const base = sanitizeClaimDomKey(raw) || `claim-${index + 1}`
+  let candidate = base
+  if (usedKeys.has(candidate)) {
+    candidate = `${base}-${index + 1}`
+  }
+  let suffix = 2
+  while (usedKeys.has(candidate)) {
+    candidate = `${base}-${index + 1}-${suffix}`
+    suffix += 1
+  }
+  usedKeys.add(candidate)
+  return candidate
 }
 
 function claimDeeplinkPill(localId: string, anchorId: string): string {
@@ -100,12 +196,51 @@ function markdownCell(text: string): string {
     .trim()
 }
 
+function firstCitationField(entry: EvidenceEntry, keys: string[]): string {
+  for (const key of keys) {
+    const value = entry.fields.get(key)
+    if (value?.trim()) {
+      return value.trim()
+    }
+  }
+  return ""
+}
+
+const CITATION_CONTRIBUTOR_FIELDS = [
+  { keys: ["autorius"], label: "Autorius", className: "author" },
+  { keys: ["autoriai"], label: "Autoriai", className: "author" },
+  { keys: ["redaktorius"], label: "Redaktorius", className: "editor" },
+  { keys: ["redaktoriai"], label: "Redaktoriai", className: "editor" },
+  { keys: ["sudarytojas"], label: "Sudarytojas", className: "compiler" },
+  { keys: ["sudarytojai"], label: "Sudarytojai", className: "compiler" },
+  { keys: ["vertėjas", "vertejas"], label: "Vertėjas", className: "translator" },
+  { keys: ["vertėjai", "vertejai"], label: "Vertėjai", className: "translator" },
+]
+
+function citationAuthor(entry: EvidenceEntry): string {
+  return firstCitationField(entry, ["autorius", "autoriai"])
+}
+
+function citationContributorRows(entry: EvidenceEntry): string {
+  return CITATION_CONTRIBUTOR_FIELDS.map((field) => {
+    const value = firstCitationField(entry, field.keys)
+    if (!value) {
+      return ""
+    }
+    return `<div class="claim-citation-contributor claim-citation-${field.className}"><strong>${field.label}:</strong> ${markdownCell(value)}</div>`
+  }).join("")
+}
+
 function markdownText(text: string): string {
   return text.replace(/\r?\n+/g, " ").trim()
 }
 
 function advancedCell(text: string): string {
   return escapeHtml(text).replace(/\r?\n/g, "<br>")
+}
+
+function advancedLabel(key: string): string {
+  return ADVANCED_LABELS.get(key) ?? key
 }
 
 function normalizeLabelKey(label: string): string {
@@ -417,32 +552,35 @@ function renderClaimsSection(
   const out = [
     "",
     `<div class="claims-section" data-claims-section="true">`,
-    `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th><th>Kontekstas</th><th>Pagrindžia</th></tr></thead><tbody>`,
+    `<table class="advanced-claims-table" data-claims-table="true"><thead><tr><th>Teiginys</th></tr></thead><tbody>`,
   ]
-  for (const entry of entries) {
-    const { claim, context } = splitClaimAndContext(entry)
+  const usedDomKeys = new Set<string>()
+  entries.forEach((entry, index) => {
+    const { claim } = splitClaimAndContext(entry)
     const refs = entry.lists.get("pagrindžia") ?? []
-    const refsHtml =
-      refs.length > 0
-        ? refs.map((ref) => `<button class="evidence-pill-button" type="button" data-claim-toggle="true">${pill(ref)}</button>`).join(" ")
-        : ""
     const globalId = entry.fields.get("global_id") ?? ""
-    const anchorId = claimAnchorId(globalId)
+    const publicId = claimPublicId(index)
+    const domKey = claimDomKey(entry, index, usedDomKeys)
+    const anchorId = `claim-${domKey}`
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
-    const claimPill = claimDeeplinkPill(entry.id, anchorId)
-    const advanced = claimAdvancedRows(entry, resolveIndex)
-    const detailId = `claim-evidence-${entry.id}`
+    const claimPill = claimDeeplinkPill(publicId, anchorId)
+    const detailId = `claim-evidence-${domKey}`
     const toggle = `<button class="claim-evidence-toggle-button" type="button" data-claim-toggle="true" aria-expanded="false" aria-controls="${escapeHtml(detailId)}"><span class="claim-evidence-toggle-icon" aria-hidden="true">▸</span><span class="sr-only">Rodyti citatas</span></button>`
-    const claimCell =
-      advanced.length > 0
-        ? `${toggle}${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
-        : `${toggle}${claimPill} ${markdownCell(claim)}`
+    const claimCell = `${toggle}${claimPill} ${markdownCell(claim)}`
     out.push(
-      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td><td>${markdownCell(context)}</td><td>${refsHtml}</td></tr>`,
-      renderClaimEvidenceDetailRow(entry, detailId, refs, citationsById, resolveIndex),
+      `<tr${anchorAttr} data-claim-row="true" data-claim-id="${escapeHtml(domKey)}" data-claim-key="${escapeHtml(domKey)}" data-public-claim-id="${escapeHtml(publicId)}" data-original-claim-id="${escapeHtml(entry.id)}"${globalAttrs} data-supporting-ids="${escapeHtml(refs.join("|"))}"><td>${claimCell}</td></tr>`,
+      renderClaimEvidenceDetailRow(
+        entry,
+        detailId,
+        domKey,
+        publicId,
+        refs,
+        citationsById,
+        resolveIndex,
+      ),
     )
-  }
+  })
   out.push(
     `</tbody></table>`,
     `<p class="options-filter-empty" data-claims-empty-state hidden>Nėra teiginių pagal pasirinktus filtrus.</p>`,
@@ -453,43 +591,35 @@ function renderClaimsSection(
   return out
 }
 
-function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
+function claimAdvancedRows(
+  entry: EvidenceEntry,
+  publicId: string,
+  resolveIndex: SlugResolveIndex,
+): string[] {
   const rows: string[] = []
+  rows.push(
+    `<tr><th>${escapeHtml(advancedLabel("public_id"))}</th><td>${escapeHtml(markdownText(publicId))}</td></tr>`,
+  )
+  rows.push(
+    `<tr><th>${escapeHtml(advancedLabel("original_local_id"))}</th><td>${escapeHtml(markdownText(entry.id))}</td></tr>`,
+  )
   const globalId = entry.fields.get("global_id")
   if (globalId) {
-    rows.push(`<tr><th>global_id</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`)
+    rows.push(
+      `<tr><th>${escapeHtml(advancedLabel("global_id"))}</th><td>${escapeHtml(markdownText(globalId))}</td></tr>`,
+    )
   }
-  for (const key of [
-    "teiginio_tipas",
-    "patikimumo_lygis",
-    "patikimumo_saltinis",
-    "patikimumo_pagrindimas",
-    "sudarymo_pagrindimas",
-    "susije_objektai",
-    "semantiniai_rysiai",
-    "temporaliniai_duomenys",
-    "temporalinis_paaiskinimas",
-    "temporalinis_llm_pakomentavimas",
-    "ryšio_patikimumas",
-    "ryšio_patikimumo_lygis",
-    "ryšio_patikimumo_priezastys",
-    "ryšio_sprendimo_taisykle",
-    "ryšio_subjekto_parinkimas",
-    "ryšio_targeto_parinkimas",
-    "ryšio_slopinti_kandidatai",
-    "ryšio_paaiskinimas",
-    "ai_siulomas_patikimumas",
-    "ai_siulymo_pagrindimas",
-    "vertinimo_atnaujinta",
-    "vertinimo_autorius",
-  ]) {
+  for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
-        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+        key === "susije_objektai" ||
+        key === "semantiniai_rysiai" ||
+        key === "temporaliniai_duomenys" ||
+        key === "saltinio_vieta"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : advancedCell(value)
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows
@@ -573,6 +703,7 @@ function renderCitationCard(
   const quote = citationQuote(citationEntry)
   const rows = advancedRows(citationEntry, quote, resolveIndex)
   const summaryHtml = renderEvidenceSummary(claimEntry, citationEntry, resolveIndex)
+  const contributorHtml = citationContributorRows(citationEntry)
   const sourceHtml = source
     ? `<div class="claim-citation-source"><strong>Šaltinis:</strong> ${markdownCell(source)}</div>`
     : `<div class="claim-citation-source claim-citation-source-missing">Šaltinis nenurodytas</div>`
@@ -584,25 +715,32 @@ function renderCitationCard(
       ? `<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="technical_fields"><tbody>${rows.join("")}</tbody></table>`
       : ""
 
-  return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
+  return `<article class="claim-citation-card" data-claim-citation-id="${escapeHtml(citationEntry.id)}">${pill(citationEntry.id)}${contributorHtml}${sourceHtml}${summaryHtml}${quoteHtml}${advancedHtml}</article>`
 }
 
 function renderClaimEvidenceDetailRow(
   claimEntry: EvidenceEntry,
   detailId: string,
+  domKey: string,
+  publicId: string,
   refs: string[],
   citationsById: CitationMap,
   resolveIndex: SlugResolveIndex,
 ): string {
+  const claimTechnicalRows = claimAdvancedRows(claimEntry, publicId, resolveIndex)
+  const claimTechnicalHtml =
+    claimTechnicalRows.length > 0
+      ? `<section class="claim-technical-audit advanced-evidence-line" data-adv-key="claim_technical_fields"><h4>Teiginio techniniai duomenys</h4><table class="advanced-evidence-table"><tbody>${claimTechnicalRows.join("")}</tbody></table></section>`
+      : ""
   const cards = refs
     .map((ref) => citationsById.get(normalizeEvidenceId(ref)))
     .filter((entry): entry is EvidenceEntry => Boolean(entry))
     .map((entry) => renderCitationCard(claimEntry, entry, resolveIndex))
-  const content =
-    cards.length > 0
-      ? cards.join("")
-      : `<p class="claim-citation-missing">Citata nerasta.</p>`
-  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(claimEntry.id)}" hidden><td colspan="3"><div class="claim-evidence-detail">${content}</div></td></tr>`
+  const citationContent =
+    cards.length > 0 ? cards.join("") : `<p class="claim-citation-missing">Citata nerasta.</p>`
+  const content = `${claimTechnicalHtml}${citationContent}`
+  const payload = JSON.stringify(content).replaceAll("<", "\\u003c")
+  return `<tr class="claim-evidence-detail-row" id="${escapeHtml(detailId)}" data-claim-detail="${escapeHtml(domKey)}" data-original-claim-id="${escapeHtml(claimEntry.id)}" data-public-claim-id="${escapeHtml(publicId)}" hidden><td colspan="1"><div class="claim-evidence-detail" data-claim-detail-content="true"></div><script type="application/json" data-claim-detail-payload="true">${payload}</script></td></tr>`
 }
 
 function advancedRows(
@@ -613,47 +751,27 @@ function advancedRows(
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
-    rows.push(`<tr><th>citata_originali</th><td>${advancedCell(original)}</td></tr>`)
+    rows.push(
+      `<tr><th>${escapeHtml(advancedLabel("citata_originali"))}</th><td>${advancedCell(original)}</td></tr>`,
+    )
   }
-  for (const key of [
-    "teiginio_tipas",
-    "patikimumo_lygis",
-    "patikimumo_saltinis",
-    "patikimumo_pagrindimas",
-    "sudarymo_pagrindimas",
-    "susije_objektai",
-    "semantiniai_rysiai",
-    "temporaliniai_duomenys",
-    "temporalinis_paaiskinimas",
-    "temporalinis_llm_pakomentavimas",
-    "ryšio_patikimumas",
-    "ryšio_patikimumo_lygis",
-    "ryšio_patikimumo_priezastys",
-    "ryšio_sprendimo_taisykle",
-    "ryšio_subjekto_parinkimas",
-    "ryšio_targeto_parinkimas",
-    "ryšio_slopinti_kandidatai",
-    "ryšio_paaiskinimas",
-    "ai_siulomas_patikimumas",
-    "ai_siulymo_pagrindimas",
-    "vertinimo_atnaujinta",
-    "vertinimo_autorius",
-  ]) {
+  for (const key of CLAIM_ADVANCED_KEYS) {
     const value = entry.fields.get(key)
     if (value) {
       const rendered =
-        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+        key === "susije_objektai" ||
+        key === "semantiniai_rysiai" ||
+        key === "temporaliniai_duomenys" ||
+        key === "saltinio_vieta"
           ? renderLinkifiedAdvancedCell(value, resolveIndex)
           : escapeHtml(markdownText(value))
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
+      rows.push(`<tr><th>${escapeHtml(advancedLabel(key))}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows
 }
 
-function renderMentionsSection(
-  sectionLines: string[],
-): string[] | null {
+function renderMentionsSection(sectionLines: string[]): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
   if (entries.length === 0) {
     return null
@@ -665,10 +783,11 @@ function renderMentionsSection(
   ]
   for (const entry of entries) {
     const source = entry.fields.get("šaltinis") ?? entry.fields.get("saltinis") ?? ""
+    const author = citationAuthor(entry)
     const sourceId = source ? normalizeCitationSourceId(source) : ""
 
     out.push(
-      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}"></section>`,
+      `<section class="citation-entry" data-citation-entry="true" data-citation-id="${escapeHtml(entry.id)}" data-citation-source-id="${escapeHtml(sourceId)}" data-citation-source-title="${escapeHtml(source)}" data-citation-author="${escapeHtml(author)}"></section>`,
     )
   }
   out.push(
@@ -690,6 +809,7 @@ function renderStructuredSection(
   }
   if (
     title === "Reikšmingi paminėjimai" ||
+    title === "Citatos" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   ) {
@@ -701,6 +821,7 @@ function renderStructuredSection(
 function isEvidenceStoreSection(title: string): boolean {
   return (
     title === "Reikšmingi paminėjimai" ||
+    title === "Citatos" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   )

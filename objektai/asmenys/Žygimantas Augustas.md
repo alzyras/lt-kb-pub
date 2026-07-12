@@ -10,162 +10,174 @@ saltiniai:
 datos: []
 date_start: ''
 date_end: ''
-description: 'XVI a. Žygimantas Augustas: politiniai aktai, Vilniaus gyvenimas, Barbora Radvilaitė, Renesansas ir Žemutinė pilis.'
-socialDescription: 'Žygimantas Augustas XVI a. šaltiniuose iškyla per LDK politinius lūžius, Vilniaus miesto epizodus, Barborą Radvilaitę ir Renesanso kultūrą.'
-seo_atnaujinta: '2026-07-02T20:14:54.788438+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'true'
 sukurta: ''
 atnaujinta: ''
-amziai:
-  - 'XVI'
-periodo_grupes: []
 tags:
   - asmuo
   - kunigaikštis
+amziai:
+  - 'XVI'
+periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žygimantas Augustas (arkivyskupas, XVI a.)
 
 ## Santrauka
 
-Žygimantas Augustas siejamas su XVI a. Lietuvos Didžiosios Kunigaikštijos politiniais sprendimais, Vilniumi ir Renesanso aplinka. Šaltiniuose minimi jo aktai dėl Palenkės, Voluinės, Kijevo ir Podolės vaivadijų prijungimo prie Lenkijos, 1547 m. potvarkis dėl supirkinėtojų ir Vilniaus Žemutinės pilies statyba. Pasakojimuose taip pat ryškūs ryšiai su Barbora Radvilaite, Kotrynos Jogailaitės santuoka Vilniuje ir Polocko netekties epizodas.
+Dusburgietis teigia, kad rotundas, pavestas Žygimanto Augusto, lotyniškai rašęs pirmąją Lietuvos istoriją (rankraštis vėliau dingo).
 
 ## Teiginiai
+
 <a id="claim-t-182749"></a>
 - t-001
   global_id: t-182749
-  teiginys: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
+  teiginys: "Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė."
   pagrindžia:
-    - c-001
+    - c-166162
 
 <a id="claim-t-183581"></a>
 - t-002
   global_id: t-183581
-  teiginys: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
+  teiginys: "Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį."
   pagrindžia:
-    - c-002
+    - c-166974
 
 <a id="claim-t-183582"></a>
 - t-003
   global_id: t-183582
-  teiginys: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.'
+  teiginys: "Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas."
   pagrindžia:
-    - c-003
+    - c-166975
 
 <a id="claim-t-183845"></a>
 - t-004
   global_id: t-183845
-  teiginys: '1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.'
+  teiginys: "1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui."
   pagrindžia:
-    - c-004
+    - c-167230
 
 <a id="claim-t-183846"></a>
 - t-005
   global_id: t-183846
-  teiginys: '1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
+  teiginys: "1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu."
   pagrindžia:
-    - c-005
+    - c-167231
 
 <a id="claim-t-183847"></a>
 - t-006
   global_id: t-183847
-  teiginys: 'Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.'
+  teiginys: "Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu."
   pagrindžia:
-    - c-006
+    - c-167232
 
 <a id="claim-t-183848"></a>
 - t-007
   global_id: t-183848
-  teiginys: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
+  teiginys: "Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė."
   pagrindžia:
-    - c-007
+    - c-167233
 
 <a id="claim-t-183849"></a>
 - t-008
   global_id: t-183849
-  teiginys: '1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus.'
+  teiginys: "1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus."
   pagrindžia:
-    - c-008
+    - c-167234
 
 <a id="claim-t-183850"></a>
 - t-009
   global_id: t-183850
-  teiginys: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
+  teiginys: "Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją."
   pagrindžia:
-    - c-009
+    - c-167235
 
 <a id="claim-t-183851"></a>
 - t-010
   global_id: t-183851
-  teiginys: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
+  teiginys: "Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui."
   pagrindžia:
-    - c-010
+    - c-167236
 
 <a id="claim-t-183852"></a>
 - t-011
   global_id: t-183852
-  teiginys: '1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.'
+  teiginys: "1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje."
   pagrindžia:
-    - c-011
+    - c-167237
 
 <a id="claim-t-183853"></a>
 - t-012
   global_id: t-183853
-  teiginys: '1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.'
+  teiginys: "1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios."
   pagrindžia:
-    - c-012
+    - c-167238
 
 <a id="claim-t-183854"></a>
 - t-013
   global_id: t-183854
-  teiginys: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
+  teiginys: "Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą."
   pagrindžia:
-    - c-013
+    - c-167239
 
 <a id="claim-t-184910"></a>
 - t-014
   global_id: t-184910
-  teiginys: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
+  teiginys: "1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį."
   pagrindžia:
-    - c-014
+    - c-168271
 
 <a id="claim-t-184911"></a>
 - t-015
   global_id: t-184911
-  teiginys: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
+  teiginys: "Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą."
   pagrindžia:
-    - c-015
+    - c-168272
 
 <a id="claim-t-184912"></a>
 - t-016
   global_id: t-184912
-  teiginys: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
+  teiginys: "Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei."
   pagrindžia:
-    - c-016
+    - c-168273
 
 <a id="claim-t-184913"></a>
 - t-017
   global_id: t-184913
-  teiginys: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
+  teiginys: "Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį."
   pagrindžia:
-    - c-017
+    - c-168274
 
 <a id="claim-t-188657"></a>
 - t-018
   global_id: t-188657
-  teiginys: 'Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.'
+  teiginys: "Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu."
   pagrindžia:
-    - c-018
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171546
+
 <a id="claim-t-188658"></a>
 - t-019
   global_id: t-188658
-  teiginys: 'Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams.'
+  teiginys: "Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams."
   pagrindžia:
-    - c-019
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171547
+
+<a id="claim-t-194728"></a>
+- t-020
+  global_id: t-194728
+  teiginys: "1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis."
+  pagrindžia:
+    - c-177124
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
 - susijęs iš Karalių koplyčia Vilniuje: 1547 m. rugsėjį Žygimantas Augustas ir Barbora Radvilaitė slapta susituokė Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
@@ -193,6 +205,8 @@ tags:
 - susijęs iš Brasta: Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.
 - susijęs iš Knišinas: Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.
 - susijęs iš Livonija: Numalšinęs Livoniją, Žygimantas Augustas pasiuntė pasiuntinius derėtis dėl taikos su Maskva.
+- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
+- susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
 - susijęs iš [[objektai/asmenys/Albinas (Vilniaus sufraganas).md#claim-t-87611|Albinas (Vilniaus sufraganas)]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54953|Barbora Radvilaitė]]: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mylimos žmonos Barboros Radvilaitės atminimui.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113975|Steponas Batoras]]: 1576 m. rugsėjo 23 d. laiške Steponas Batoras pareiškė, kad muito nenustatys be Senato tarybos sutikimo.
@@ -225,7 +239,6 @@ tags:
 - susijęs iš Knišinas: Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
 - susijęs iš Lietuva: Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.
-- susijęs iš Malburgas Marienburgas (sujungti pirminiai pavadinimai Malburgas; Marienburgas): 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš Marienburgas: 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.
 - susijęs iš Marienburgas: 1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške Steponas Batoras sutiko atidėti muito rinkimą iki seimo.
 - susijęs iš Marienburgas: Lietuvos metraštyje Vytautui būnant pas magistrą Marienburge, pas jį atvyko daug lietuvių kunigaikščių ir bajorų.
@@ -236,18 +249,16 @@ tags:
 - susijęs iš Vilnius: Narbutas Gedimino kapą lokalizavo prie Vilniaus, dešiniajame Vilnios krante, į kairę nuo kelio iš Užupio į Antakalnį.
 - susijęs iš Voluinė: Žygimantas Augustas prie Lenkijos prijungė Voluinės, Kijevo ir Podolės vaivadijas bei Palenkę.
 - susijęs iš Šv. Barboros bažnyčia Žemutinėje pilyje: Žygimantas Augustas Žemutinėje pilyje pastatydino Šv. Barboros bažnyčią mirusios žmonos atminimui.
-- susijęs iš Šv. Jono bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Jono bažnyčia Vilniuje; Šv. Jono bažnyčia): 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Šv. Jono bažnyčia Vilniuje: 1571 m. kovo 10 d. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Žygimantas Augustas pilies teritorijoje pradėjo statyti Šv. Onos bažnyčią, skirtą jo žmonų ir jo paties palaidojimui.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
 - susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86512|arkipresbiteris nuolatinis vikaras adjutoriai]]: 1571 m. Žygimantas Augustas Šv. Jono bažnyčią su turtu ir arkipresbiterio namais prijungė prie Jėzaus Draugijos kolegijos.
 - susijęs iš [[objektai/zodynas/lietuviška moneta ir lenkiški pinigai.md#claim-t-86478|lietuviška moneta ir lenkiški pinigai]]: Žygimantas Augustas įsakė lietuvišką monetą, kurios vertė buvo du lietuviški grašiai, priimti už pustrečio lenkiško grašio.
 - susijęs iš [[objektai/zodynas/mansionieriai.md#claim-t-86537|mansionieriai]]: Žygimantas Augustas prie Šv. Onos bažnyčios ketino funduoti kleboniją ir namus mansionieriams.
 - susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86425|muitas thelonea]]: Steponas Batoras laikinai atleido Vilniaus pirklius nuo naujai nustatyto muito mokesčio.
 - susijęs iš [[objektai/zodynas/sufraganas kleras arkipresbiteris.md#claim-t-86551|sufraganas kleras arkipresbiteris]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
+- susijęs iš Malburgas: 1576 m. rugsėjo 23 d. Marienburge Steponas Batoras parašė laišką Vilniaus vyskupui ir Vilniaus vaivadai Radvilai.
 - susijęs iš [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai.md#claim-t-87130|Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]: Mirdamas Knišine Žygimantas Augustas savo turtingą, tėvo pradėtą ir paties kauptą biblioteką atidavė Vilniaus jėzuitų kolegijai.
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Gavęs žinią apie Polocko netektį, Žygimantas Augustas apsiverkė.'
   šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
@@ -261,10 +272,12 @@ tags:
     Žygimantas Augustas net apsiverkė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
 - c-002
   santrauka: 'Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -276,10 +289,12 @@ tags:
     tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
 - c-003
   santrauka: 'Žygimantas Augustas savo aktais prie Lenkijos prijungė Palenkę, Voluinės, Kijevo ir Podolės vaivadijas.'
   šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
@@ -292,10 +307,12 @@ tags:
     prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
 - c-004
   santrauka: '1555 m. Žygimantas Augustas patvirtino Radvilos dovanojimą gydytojui Cimermanui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -307,10 +324,12 @@ tags:
     tas Augustas patvirtino.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-005
   santrauka: '1546 m. Žygimanto Augusto laikais būsimos vaistinės vietoje stovėjo medinis namas su dideliu sklypu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -326,10 +345,12 @@ tags:
     lys (Proconsul et aurifex) Erazmas Bretneris.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-006
   santrauka: 'Kotryna Jogailaitė, Žygimanto Augusto sesuo, Vilniuje susituokė su Suomijos kunigaikščiu Jonu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -343,10 +364,12 @@ tags:
     —  •  .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-007
   santrauka: 'Žygimantas Augustas laisvesnes akimirkas leisdavo šalia Barboros Radvilaitės, kol galiausiai su ja susituokė.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -365,10 +388,12 @@ tags:
     Barboros, kol pagaliau su ja susituokė30.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-007
+
 - c-008
   santrauka: '1547 m. Žygimantas Augustas paskelbė potvarkį dėl supirkinėtojų, už miesto branginusių iš kaimų atvežamus produktus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -386,10 +411,12 @@ tags:
     vyzdžiu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-009
   santrauka: 'Žygimantas Augustas po kelerių metų patvirtino Paleckiui suteiktą stiklo gamybos privilegiją.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -410,10 +437,12 @@ tags:
     legiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-010
   santrauka: 'Žygimantas Augustas nemažomis lėšomis pastatydino Šv. Barboros bažnyčią žmonos Barboros Radvilaitės atminimui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -433,10 +462,12 @@ tags:
     serims36.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-011
   santrauka: '1557 m. žygis į Livoniją baigėsi, kai didysis magistras pripažino Žygimanto Augusto valdžią Livonijoje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -454,10 +485,12 @@ tags:
     pažinimo jam valdžios Livonijoje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-012
   santrauka: '1564 m. liepos 7 d. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Statuto galios.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -479,10 +512,12 @@ tags:
     žmonių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
+
 - c-013
   santrauka: 'Mirdamas Knišine Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią ir išplėsti Švč. Trejybės prieglaudą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -496,10 +531,12 @@ tags:
     atidavė Vilniaus jėzuitų kolegijai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-014
   santrauka: '1543 m. Žygimantas Augustas vedė Austrijos kunigaikštytę Elžbietą, Romos karaliaus Ferdinando dukterį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -522,10 +559,12 @@ tags:
     jant su Vladislovu bei Liudviku.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-015
   santrauka: 'Karalius Augustas, gindamas arkivyskupą Vilhelmą, išsiuntė pas magistrą kilmingą bajorą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -542,10 +581,12 @@ tags:
     liaujantį pasiuntinį ir nužudė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-016
   santrauka: 'Žygimantas Augustas slėpė Rygos katedros kolegijos atsimetimą nuo katalikų tikėjimo, todėl pasklido gandai apie jo palankumą liuteronybei.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -571,10 +612,12 @@ tags:
     Kotryna.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
+
 - c-017
   santrauka: 'Žygimanto Augusto išsiskyrimas su Kotryna įžeidė Romos popiežių, kuris buvo leidęs jam vesti mirusios žmonos seserį.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -596,10 +639,12 @@ tags:
     lė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-018
   santrauka: 'Narbutas Žygimantą Augustą vadino paskutiniu savarankišku Lietuvos valdovu ir paskutiniu vyriškuoju Jogailos palikuoniu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -610,11 +655,14 @@ tags:
     kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
     sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
     žau plunksną prie jo karsto“7.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-019
   santrauka: 'Valdant Žygimantui Augustui Veliuonos klebonas Ragauskas priėmė Socino tikėjimą, o vietos bažnyčia ilgai priklausė evangelikams reformatams.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -627,21 +675,480 @@ tags:
     cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
     iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
     Zigmantui III.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
 
+- c-020
+  santrauka: '1185) pasakoja, kad tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma žesnes rusų cerkves vadinti sinagogomis.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
+  citata_originali: |
+    3 Dėl netolerantiškumo net vėlesniais laikais taikyta tas pats pa­
+    vadinimas. Cackis (t. I. -  P. 208. -  Prierašas nr. 1185) pasakoja, kad
+    tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma­
+    žesnes rusų cerkves vadinti sinagogomis.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-020
+
+## Citatos
+
+- id: c-166162
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Nors miestas didvyriškai gynėsi, po dviejų
+    savaičių kovos įgula, nebegalėdama prie-
+    šintis, pasidavė.
+
+    Polocko netektis buvo netikėta kaip per-
+    kūnas iš giedro dangaus. Gavęs šią žinią,
+    Žygimantas Augustas net apsiverkė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-182749
+
+- id: c-166974
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tai ji atsivežė į Lenkiją ir Lietuvą italų architektų, dailinin-
+    kų ir muzikų, išugdė Renesanso dvasia Žygimantą Augustą, kartu su juo
+    pastatydino Vilniaus Žemutinę pilį, įdiegė daug naujų dalykų: nuo „ita-
+    liškų pasivaikščiojimų“ – pokylių šokių – iki... šakutės, tuo metu nežino-
+    tos ne tik Lietuvoje, bet ir Skandinavijos šalyse.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183581
+
+- id: c-166975
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Nesusitarus Lietuvos delegacija kovo 1 dieną išvyko iš
+    Liublino. Tada Lietuvai buvo suduotas skaudus smūgis – karalius Žygi-
+    mantas Augustas, palaikydamas Lenkiją, savo aktais prie jos prijungė be-
+    veik pusę Lietuvos Didžiosios Kunigaikštijos teritorijos (Palenkę ir Volui-
+    nės, Kijevo ir Podolės (Braclavo) vaivadijas). Prijungtų sričių bajorai turėjo
+    prisiekti Lenkijai, o jų atstovai dalyvauti Lenkijos Seime.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183582
+
+- id: c-167230
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Sklypą ir mūrinį namą Vitinskis pardavė Vilniaus
+    vaivadai Mikalojui Radvilai.
+    1555. Radvila tą mūrinį namą ir sklypą dovanojo savo
+    gydytojui Cimermanui, o tą dovanojimą Karalius Žygiman­
+    tas Augustas patvirtino.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183845
+
+- id: c-167231
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Jono Kolegijos Vaistinės kronika
+    1546. Žygimanto Augusto laikais to mūrinio namo vie­
+    toje, kur buvo Jėzuitų, paskui Universiteto, o dabar Medici­
+    nos Akademijos vaistinė, stovėjo medinis namas su dideliu
+    sklypu, apstatytu mažais nameliais, kampinis, sukant iš
+    Šv. Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo
+    (Šv. Jono gatvėje, kur ligi šiol buvo Akademijos spaustu­
+    vė), kurio savininkas buvo Vilniaus burmistras ir auksaka­
+    lys (Proconsul et aurifex) Erazmas Bretneris.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183846
+
+- id: c-167232
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    La­
+    biausia išgarsėjo atkviesdamas į Vilnių jėzuitus ir įkurda-
+    mas Akademiją. Jis taip pat palaimino Vilniuje Suomijos
+    kunigaikščio Jono, kuris vėliau tapo Švedijos karaliumi,
+    santuoką su Kotryna Jogailaite, karaliaus Žygimanto Au­
+    gusto seserimi.
+    —  •  .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183847
+
+- id: c-167233
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    272
+
+    ## Puslapis 289
+
+    IV KNYGA
+    Pakerėtas gražiosios Barboros Radvilaitės, Vilniaus kaš­
+    teliono Jurgio dukters, ir Goštauto, Trakų vaivados, naš­
+    lės, žavesio, dar stipriau prie jos prisirišo, kai greta grožio
+    atrado kuklumą ir sulaukė prielankumo. Barboros rūmai
+    stovėjo prie Vilijos, tarp sodų, prie pat Žemutinės pilies.
+    Ten visas laisvesnes akimirkas Augustas praleisdavo šalia
+    Barboros, kol pagaliau su ja susituokė30.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183848
+
+- id: c-167234
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Dvasios bažnyčią stovin­
+    čius33. Nepaprastas įvairaus maisto brangymetis 1547 me­
+    tais Vilniuje kilo dėl čionai atvykstančių karaliaus dvariš­
+    kių ir šiaip padaugėjus gyventojų; tai nulėmė reikšmingą
+    Žygimanto Augusto potvarkį, liečiantį supirkinėtojus, už
+    miesto superkančius visus iš kaimų atvežamus produktus
+    ir labai pakeliančius visa ko kainas. Taip pat, kad miesto
+    gyventojai savo reikmėms galėtų lengviau pasisamdyti pa­
+    dienius darbininkus, visiems padienininkams nuo tol nu­
+    rodyta rinktis prie rotušės, Krokuvoje įvestos tvarkos pa­
+    vyzdžiu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183849
+
+- id: c-167235
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    V I  L  N 7  I  A U S MIESTO ISTORIJA II TOM A S
+    274
+
+    ## Puslapis 291
+
+    IV KNYGA
+    ti stiklo liejyklą, o kartu privilegiją, leidžiančią Vilniuje par­
+    davinėti lenkišką stiklą34. Ši teisė, duota išimtinai Paleckiui,
+    nors ir sugriežtinta nustatant tam tikrą stiklo kainą, vis dėl­
+    to tapo daugelio skundų karaliui priežastimi. Bet Žygiman­
+    tas Augustas, matydamas Vilnių turint nemaža naudos iš
+    naujojo amato ir baimindamasis, kad toks naudingas fabri­
+    kas nesužlugtų, po kelerių metų patvirtino dovanotą privi-
+    legiją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183850
+
+- id: c-167236
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Be kitų, Že­
+    mutinėje pilyje buvo pastatyta Šv. Barboros bažnyčia, kurią
+    Augustas nemažomis lėšomis pastatydino mylimos žmonos
+    atminimui, po jos mirties visur ieškodamas paguodos savo
+    skausmui numalšinti35. Taip pat savo lėšomis pilies teritori­
+    joje karalius pradėjo statyti Šv. Onos bažnyčią, ten turėjo
+    funduoti dar ir kleboniją, o prie jos namus mansionieriams,
+    naują šventovę skirdamas palaidoti savo žmonoms - Elžbie­
+    tai ir Barborai - ir sau, jeigu kartais numirtų Lietuvoje. Ta­
+    čiau, karaliui esant gyvam, pastatų užbaigti nepavyko, ir
+    visų su šia bažnyčia susijusių savo sumanymų įgyvendini­
+    mą Žygimantas Augustas testamentu rūpestingai pavedė se­
+    serims36.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183851
+
+- id: c-167237
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Apsirūpinus ar­
+    tilerija ir svarbiausia amunicija Vilniuje, likusieji ginklai bu­
+    vo siuntinėjami po įvairias Lietuvos, Rusios, Voluinės,
+    Podolės ir Ukrainos pilis38. Karaliui, turinčiam tokias dide­
+    les karinės amunicijos atsargas, nesunku buvo apginkluoti
+    gausią kariuomenę, 1557 metais sutelktą Vilniuje, iš kur žy­
+    giavo į Livoniją prieš didįjį kalavijuočių riterių ordino ma­
+    gistrą Firstembergą, nuo seno engusį karaliaus giminaitį Ry­
+    gos arkivyskupą. Bet šis žygis greitai baigėsi dėl didžiojo
+    magistro visiško nuolankumo Žygimantui Augustui ir pri­
+    pažinimo jam valdžios Livonijoje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183852
+
+- id: c-167238
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Kai dar 1564 metais Bełsko seime Žygimantas Augustas
+    tvirtino Lietuvai Antrąjį Statutą, atsimindamas naudą, ku­
+    rią miestai teikė kraštui, ir rūpindamasis Vilniaus gerove,
+    atsižvelgdamas į gautus Vilniaus miesto burmistrų prašy­
+    mus, atskiru liepos 7 d. sprendimu, jis visus miestiečius at­
+    ribojo nuo Statuto galios, šitaip suteikdamas jiems daugiau
+    bylinėjimosi teismuose laisvės pagal Magdeburgo teisę, kaip
+    savo metu darė ir Žygimantas Senasis, paskelbdamas Pir­
+    mąjį Statutą. Miestų pastangos apsisaugoti nuo bajorų įta­
+    kos buvo juo didesnės, juo stipriau oligarchija bandė įsitvir­
+    tinti Lenkijos žemėje valdant paskutiniajam Jogailaičiui.
+    Anuo metu Vilnius galėjo drąsiai ir sumaniai atremti mies­
+    to teisių priešininkus, nes buvo globojamas išsilavinusio ka­
+    raliaus, be to, ir savo valdžios viršūnėse turėjo daug įžymių
+    žmonių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183853
+
+- id: c-167239
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mir­
+    damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­
+    tuvos sostinę: užbaigti pradėtą statyti Šv. Onos bažnyčią,
+    išplėsti Švč. Trejybės prieglaudą ir ją geriau aprūpinti pave­
+    dė kelissyk testamente minimoms seserims ir respublikai, o
+    turtingą savo biblioteką, tėvo pradėtą, jo paties irgi kauptą,
+    atidavė Vilniaus jėzuitų kolegijai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183854
+
+- id: c-168271
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 671"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 671."
+  citata_originali: |
+    1543 m e ta i
+    Ž y g im a n ta s
+    A u g u s­
+    ta s v e d a  a u strų  k u ­
+    n ig a ik š ty tę  E lžb ietą
+    Sugrįžęs į Lenkiją, kara­
+    lius suskato apvesdinti sūnų
+    Augustą. Nutarta susigimi­
+    niuoti su Austrijos valdovų
+    šeima ir paprašyti Augustui
+    Romos karaliaus Ferdinando
+    dukters Elžbietos rankos. Ir jos tėvas, ir dėdė impera­
+    torius Karolis V didžiai pritarė šiai santuokai, įsitikinę,
+    kad ji dar labiau sustiprins santarvę ir gerus santy­
+    kius, kuriems padėta pamatai anksčiau, susigiminiuo­
+    jant su Vladislovu bei Liudviku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184910
+
+- id: c-168272
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 696"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 696."
+  citata_originali: |
+    Kapituliacijos sąlygos nebuvo sun­
+    kios, bet Fiurstenbergas nei duoto žodžio laikėsi, nei
+    Vilhelmo kilmingumo paisė: kai šį atvilko magistro ša­
+    lininkai, įsakė, visaip iš jo pasityčiojęs, įmesti į kalė­
+    jimą ir jėga užėmė kitas jo pilis, nors žadėjo to neda­
+    ryti. Sužinojęs apie šį sambrūzdį, karalius Augustas,
+    suskatęs ginti arkivyskupą, išsiuntė pas magistrą vie­
+    ną kilmingą bajorą. Tuo tarpu naujo tikėjimo šalinin­
+    kai taip jau nebesiskaitė su įstatymais, kad suėmė ke­
+    liaujantį pasiuntinį ir nužudė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184911
+
+- id: c-168273
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Neteisėtu būdu įsigiję žemių ir dvarų, jie pa­
+    sirūpino sutvarkyti šį reikalą, bijodami, kad jų bend­
+    rininkai Kunheimas ir Štrubicas, nepatekę į šventojo
+    R y g o s k a te d ro s k o le ­
+    g ija  a tsisa k o  k a ta lik ų
+    tik ė jim o
+    738
+
+    ## Puslapis 737
+
+    turto dalybas, nepradėtų ginčo ir neatimtų to, ką už­
+    grobė asmeniško godumo skatinami. Jų atsimetimą nuo
+    prosenelių tikėjimo karalius Augustas slėpė net ir
+    Lietuvoje, ir štai dėl to pasklido apie jį žmonėse viso­
+    kių negerų kalbų, kad esąs perėjęs į liuteronų atskalą18.
+    Žmonės dar labiau patikėjo šiais gandais, kai jis ga­
+    lop ryžosi įvykdyti prieš kelerius metus sugalvotą su­
+    manymą ir atvirai išsiskyrė su austrų kunigaikštyte
+    Kotryna.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184912
+
+- id: c-168274
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 737"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 737."
+  citata_originali: |
+    Šis veiksmas didžiai įžeidė Romos popiežių,
+    kuris, Augustui tuokiantis su Kotryna, leido jam ne­
+    paisyti įstatymų, draudžiančių
+    K a ra liu s A u g u sta s iš-
+    po žmonos mirties vesti jos
+    sisk iria  su  žm o n a
+    seserį. Karalius teisinosi, jog
+    jam geriau mirti, nei su Kot­
+    ryna gyventi, nes dangus, bausdamas jį už nedorovin­
+    gas jungtuves, pasiuntęs ir jo šeimai, ir valstybei ne­
+    gandų ir neramumų. Aiškiai šitokius ir kitokius daly­
+    kus atskleidė imperatoriaus pasiuntinys, Pečo vyskupas,
+    tuo tarpu žmonėse sklido kalbos, jog šitos apgau­
+    lės griebtis jį tikriausiai paskatinusi nusikalstama mei­
+    lė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184913
+
+- id: c-171546
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 8"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 8."
+  citata_originali: |
+    Istorijos veikalą T. Narbutas baigia tokiais žodžiais: „Aš pri­
+    vedžiau savo rašinį iki epochos, kuria baigėsi tautos savaran­
+    kiškumas. Čia turiu perduoti darbą tęsti lenkų istorikams. Pas­
+    kutinis savarankiškas Lietuvos valdovas ir paskutinis vyriška­
+    sis Jogailos palikuonis Žygimantas Augustas mirė, ir aš lau- j?
+    žau plunksną prie jo karsto“7.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188657
+
+- id: c-171547
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 130"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 130."
+  citata_originali: |
+    1414 metais
+    kunigaikštis Vytautas, gyvendamas Veliuonos pilyje, administ­
+    ravo tą kraštą, įsteigė Veliuonos vėliavininkų ą, arba apskritį,
+    užrašė bažnyčiai daugiau pajamų. Valdant Žygimantui Augus­
+    tui, vietos kunigas klebonas Ragauskas (Rogowski) priėmė So-
+    cino tikėjimą, ir toji bažnyčia ilgai priklausė evangelikams re-
+    iormatams. Katalikams ji sugrįžo jėzuitų pastangomis, valdant
+    Zigmantui III.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188658
+
+- id: c-177124
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 398"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 398."
+  citata_originali: |
+    3 Dėl netolerantiškumo net vėlesniais laikais taikyta tas pats pa­
+    vadinimas. Cackis (t. I. -  P. 208. -  Prierašas nr. 1185) pasakoja, kad
+    tik valdant Žygimantui Augustui karališkoji kanceliarija nustojo ma­
+    žesnes rusų cerkves vadinti sinagogomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-194728
+
 ## Ryšiai
-- Žmonos: [[objektai/asmenys/Barbora Radvilaitė]]
-- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]], [[objektai/asmenys/Kotryna]]
-- Turėjo priklausinį: [[objektai/daiktai/Žygimanto Augusto biblioteka Vilniaus jėzuitų kolegijai]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) buvo valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) valdė [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Sutuoktiniai: [[objektai/asmenys/Barbora Radvilaitė]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) keliavo į [[objektai/vietos/Vilnius]]
 - Žygimantas Augustas (arkivyskupas, XVI a.) mirė [[objektai/vietos/Knišinas]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) pastatė [[objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje]], [[objektai/vietos/Šv. Onos bažnyčia Vilniuje]], [[objektai/vietos/Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia)]], [[objektai/vietos/Vilnius]], [[objektai/daiktai/Žygimanto Augusto pilies bažnyčių pastatai]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) gynė [[objektai/vietos/Lietuva]], [[objektai/vietos/Livonija]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
-- Žygimantas Augustas (arkivyskupas, XVI a.) rėmė [[objektai/grupes/Vilniaus jėzuitų kolegija]]
+- Žygimantas Augustas (arkivyskupas, XVI a.) pastatė [[objektai/vietos/Šv. Barboros bažnyčia Žemutinėje pilyje]]

@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - daiktas
   - kunigaikštis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šarvinių pirštinių, žasto, dilbio, kelio ir blauzdos apsaugos
 
@@ -40,10 +52,9 @@ Nenurodyta
 <a id="claim-t-40805"></a>
 - t-001
   global_id: t-40805
-  teiginys: 'Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a.'
+  teiginys: "Žasto, dilbio, kelio ir blauzdos apsaugos datuojamos XIV a. pabaiga ir XV a."
   pagrindžia:
-    - c-001
-
+    - c-42591
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,28 @@ Nenurodyta
     xv a. Rekonstrukcija.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-42591
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Taip buvo delsiama, kol atvyko
+    visoje Ordoje garsus kunigaikštis - emyras
+
+    Žasto, dilbio, kelio ir blauz-
+    dos apsaugos. XIV a. pabaiga-
+    xv a. Rekonstrukcija.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40805

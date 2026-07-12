@@ -15,6 +15,18 @@ amziai:
   - 'XX'
 periodo_grupes:
   - 'modernioji Lietuva'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # P. Boissonade
 
@@ -27,10 +39,9 @@ Boissonade, P.
 <a id="claim-t-30891"></a>
 - t-001
   global_id: t-30891
-  teiginys: 'P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“.'
+  teiginys: "P. Boissonade 1923 m. Paryžiuje paskelbė darbą „Du nouveau sur la Chanson de Roland“."
   pagrindžia:
-    - c-001
-
+    - c-33087
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -57,7 +68,42 @@ Boissonade, P.
     dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33087
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tokių nuo Lietuvos pusiau priklausančių žemių, kurios
+    sudarė plačią zoną, lietuviai nebeliesdavo. Per jas lietuviai atlik­
+    davo į rytus gana tolimus karo žygius, apie kuriuos ir «lietopisiai »
+    nepagailėjo žinių XIII amž.
+    Antoniewicz, J. : _The Mysterious Sudovian People_ , Archaeology,
+    II, nr. 3, New York 1958, 158-161 p. — (”) TaPr, I, 1, 1959, 63-64 p. —
+    (”) _O kilku importach prowincialno-rzymskich i kultury « weuedzkiej »,
+    znalezionych na obszarach plemiennych Jaćwiezy_ , RoB, III, 1962, 183-
+    204 p. — (”) _Odkrycie grobu rolnika Jaćwieskiego z narzędziami produkcji
+    z okresu Rzymskiego_ , RoB, III, 1962, 205-223 p. (Žr. T. Dzierzykray-
+    Rogalski padarytą to kapo analizę : RoB, III, 1962, 225-252 p.). -—-
+    (”) _Niektóre sporne aspekty kontaktów Balto-Słowiańskich w świetle źródeł
+    archeologicznych, onomastycznych i pisanych_ , ABaSl, VI, 1969, 105-116 p.
+    — Dziebzykbay-Rogalski, T. : _Z badań nad niektórymi zagadnieniami
+    typologicznymi Jaćwingów,_ ABaSl, I, 1964, 65-75 p. — Boissonade, P. :
+    _Du nouveau sur la Chanson de Roland_ , Par's 1923, 171-174 p. — Būga,
+    K. : _Die litauisch-weissrussischen Beziehungen und ihr Alter,_ Ze’tsehr.
+    für slawsche Philologie, hgg. von M. Vasmer, I, 1925, 26-55 p. — En-
+    dzelin, J.: _Altpreussische Grammatik,_ Riga 1944.
+  citata_rodoma: "— Boissonade, P. :\n_Du nouveau sur la Chanson de Roland_ , Par's 1923, 171-174 p. — Būga,\nK."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-30891

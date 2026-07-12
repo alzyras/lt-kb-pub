@@ -14,6 +14,18 @@ tags:
   - mūšis
 amziai: []
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Thunert, E
 
@@ -26,10 +38,9 @@ Thunert, E.
 <a id="claim-t-31016"></a>
 - t-001
   global_id: t-31016
-  teiginys: 'E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą.'
+  teiginys: "E. Thunertas 1886 m. Dancige paskelbė darbą apie 1410-1411 m. Lenkijos ir Vokiečių ordino karą."
   pagrindžia:
-    - c-001
-
+    - c-33161
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -46,7 +57,32 @@ Thunert, E.
     1960.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33161
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Zu einem Buch von Stefan M. Kuczyński_ , ZfO, t. 22,
+    1973, 475-486 p. — Stavenhagen, O. : _Livland und die Schlacht bei
+    Tanneuberg_ , Baltische Monatschrift, t. 54, 1902, 235-265, 310-336, 365-
+    381 p. — Thunert, E. : _Der grosse Krieg zwischen Polen und dem
+    Deutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-
+    scnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410
+    metų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.
+
+    1960.
+  citata_rodoma: "— Thunert, E. : _Der grosse Krieg zwischen Polen und dem\nDeutschen Orden 1410 bis Februar 1411_ , Zeitschr. des Westpreuss. Ge-\nscnichtsvereins, t. 16, Danzig 1886, 37-104 p. — Urbonas, O. : _1410\nmetų karas su kryžiuočiais ir Žalgirio mūšis_ , Kario leid., Brooklyn, N. Y.\n\n1960."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31016

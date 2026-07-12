@@ -7,7 +7,20 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Latvių Tautos Taryba (institucija)
 
@@ -20,24 +33,23 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
 <a id="claim-t-72360"></a>
 - t-001
   global_id: t-72360
-  teiginys: 'Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje.'
+  teiginys: "Latvių Tautos Taryba protestavo, kai Brastos taikoje bolševikai paliko Pabaltijį vokiečių valdžioje."
   pagrindžia:
-    - c-003
+    - c-70764
 
 <a id="claim-t-72361"></a>
 - t-002
   global_id: t-72361
-  teiginys: 'Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją.'
+  teiginys: "Vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, siekusi kurti nepriklausomą Latviją."
   pagrindžia:
-    - c-002
+    - c-70763
 
 <a id="claim-t-72362"></a>
 - t-003
   global_id: t-72362
-  teiginys: 'Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu.'
+  teiginys: "Latvių Tautos Taryba susidarė vokiečių neužimtoje Latvijos dalyje ir su Petrapilio latvių pabėgėlių komitetu rūpinosi nepriklausomos Latvijos kūrimu."
   pagrindžia:
-    - c-001
-
+    - c-70762
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -51,7 +63,8 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
@@ -69,6 +82,7 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     vokiečių valdžioje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -86,10 +100,66 @@ Tuo tarpu vokiečių neužimtoje Latvijos dalyje susidarė Tautos Taryba, kuri k
     testą.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Latvių Tautos Taryba (institucija) priklausė [[objektai/vietos/Latvija]]
+## Citatos
+
+- id: c-70762
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Dabartinė Latvija yra atsiradusi taip pat po didžiojo karo,
+    kaip ir Lietuva. Kai Rusijoje kilo revoliucija, beveik visa Lat-
+    vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
+    visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72362
+
+- id: c-70763
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Kai Rusijoje kilo revoliucija, beveik visa Lat-
+    vija buvo užimta vokiečių, kurie svajojo paimti į savo valdžią
+    visą Pabaltijį. Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
+    kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
+    vokiečių valdžioje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72361
+
+- id: c-70764
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Tuo tarpu vokiečių neužimtoje Latvijos dalyje su-
+    sidarė Tautos Taryba, kuri kartu su Petrapilio latvių pabėgėlių
+    komitetu ėmė rūpintis sukurti nepriklausomą Latviją. Bolševi-
+    kai, Brastoje darydami taiką su vokiečiais, visą Pabaltijį paliko
+    vokiečių valdžioje. Latvių Tautos Taryba pareiškė dėl to pro-
+    Latvijos laisvės paminklas Rygoje.
+    testą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-72360

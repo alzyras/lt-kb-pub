@@ -14,6 +14,18 @@ tags:
 amziai:
   - 'IMM'
 periodo_grupes: []
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Immanuel Kant
 
@@ -26,9 +38,9 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
 <a id="claim-t-78054"></a>
 - t-001
   global_id: t-78054
-  teiginys: 'Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.'
+  teiginys: "Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą."
   pagrindžia:
-    - c-001
+    - c-75362
 - susijęs iš [[objektai/asmenys/Kristijonas Gotlibas Milkus.md#claim-t-63851|Kristijonas Gotlibas Milkus]]: Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmėje cituotas Immanuelis Kantas.
 - susijęs iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodynas“: Kristijono Gotlibo Milkaus žodyno pratarmėje Immanuelis Kantas pabrėžė išskirtinius lietuvių kalbos pagyrimus.
 - susijęs iš [[objektai/asmenys/Kristijonas Gotlibas Milkus.md#claim-t-63850|Kristijonas Gotlibas Milkus]]: Immanuelio Kanto tekstas apie lietuvių kalbą buvo išspausdintas Kristijono Gotlibo Milkaus lietuvių ir vokiečių kalbų žodyno pratarmėje.
@@ -64,7 +76,41 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
     liudą“).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-75362
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    III s k y r i u s
+    Rusijos imperijos
+    valdoma Lietuva
+    (1795–1915)
+    „Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių
+    pagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė
+    už tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai
+    išvystytos žmonių kalbos su savita gražia ir aiškia fonologija.
+    Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai
+    gebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“
+    Immanuel Kant (1724–1804)
+    Iš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir
+     vokiečių–lietuvių kalbų žodyno“ pratarmės
+    Š
+    iuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės)
+    priklausė autokratinei Rusijos imperijai (išskyrus pus-
+    mečiui 1812 m. antrojoje pusėje įsiterpusį Napoleono Bonaparto „inter-
+    liudą“).
+  citata_rodoma: "III s k y r i u s\nRusijos imperijos  \nvaldoma Lietuva  \n(1795–1915)\n„Iš tikrųjų jokia kita pasaulio kalba nėra gavusi tiek aukščiausių \npagyrimų kaip lietuvių kalba. Lietuvių tautai priskirta didelė garbė \nuž tai, kad ji sukūrė, išdailino detales ir vartojimą aukščiausiai \nišvystytos žmonių kalbos su savita gražia ir aiškia fonologija.  \nBe to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai \ngebanti atstovauti pirmykštei arijų civilizacijai ir kultūrai“ \nImmanuel Kant (1724–1804)\nIš Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir \n vokiečių–lietuvių kalbų žodyno“ pratarmės \nŠ\niuo laikotarpiu Lietuva (darant išlygą dėl Užnemunės) \npriklausė autokratinei Rusijos imperijai (išskyrus pus-\nmečiui 1812 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78054

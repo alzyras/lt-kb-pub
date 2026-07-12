@@ -14,6 +14,18 @@ tags:
   - simbolis
 amziai:
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kentauro herbas
 
@@ -46,10 +58,9 @@ Nenurodyta
 <a id="claim-t-186855"></a>
 - t-001
   global_id: t-186855
-  teiginys: 'M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.'
+  teiginys: "M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės."
   pagrindžia:
-    - c-001
-
+    - c-170038
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -63,7 +74,28 @@ Nenurodyta
     Lietuvos valdovas".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-170038
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    1 1  Po šio žodžio BK rankraštyje buvo spraga, kurią T. Narbutas
+    pažymėjo daugtaškiu. M. Strijkovskis savo kronikoje (1766 m. lei­
+    dimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė
+    Kukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto
+    Lietuvos valdovas".
+  citata_rodoma: "M. Strijkovskis savo kronikoje (1766 m. lei­\ndimas, p. 2391 tęsia pasakojimą tokiu sakiniu: „Tuo pat metu mirė \nKukovaitis, 2ivinbudo iš Kentauro herbo giminės sūnus. Užnerto \nLietuvos valdovas\"."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186855

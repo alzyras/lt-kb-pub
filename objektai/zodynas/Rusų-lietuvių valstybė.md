@@ -16,6 +16,18 @@ tags:
   - valstybė
 amziai:
   - 'XIX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rusų-lietuvių valstybė
 
@@ -28,10 +40,9 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
 <a id="claim-t-86639"></a>
 - t-001
   global_id: t-86639
-  teiginys: 'Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė.'
+  teiginys: "Michałas Balińskis teigė įrodęs, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų-lietuvių valstybė."
   pagrindžia:
-    - c-001
-
+    - c-82618
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +61,32 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
     primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82618
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Pavyzdžiui,
+    1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilniaus
+    miesto istoriją, prie kurios dirbau nuo 1818 m., mano tikslas bu­
+    vo Lietuva ir jos senoji sostinė, o ne Lenkija. Šiame veikale pa­
+    rodžiau, kad Lietuva turėjo savo kalbą ir savitą pagonišką reli­
+    giją, besiskiriančią nuo Lenkijos, kad jos politinė padėtis buvo
+    visiškai skirtinga negu Lenkijos; pagaliau vienas pirmųjų įro­
+    džiau, kad iki susijungimo su Lenkija Lietuva iš esmės buvo rusų
+    -lietuvių valstybė <....>. Tad kokiu būdu galima suderinti man
+    primetamą tariamą patriotizmą su tokia mano veikalo dvasia?"9.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86639

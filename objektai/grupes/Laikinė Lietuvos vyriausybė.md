@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Laikinė Lietuvos vyriausybė
 
@@ -20,10 +32,9 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
 <a id="claim-t-01362"></a>
 - t-001
   global_id: t-01362
-  teiginys: 'Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas.'
+  teiginys: "Lietuvos bajorijai buvo leista sudaryti laikinę Lietuvos vyriausybę, kurios priešakyje stojo grafas Soltanas."
   pagrindžia:
-    - c-001
-
+    - c-01600
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -37,10 +48,29 @@ Tačiau jis leido Lietuvos bajorijai sudaryti laikinę savo valdžią.
     atsistojo grafas Soltanas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Laikinė Lietuvos vyriausybė priklausė [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-01600
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bajorijos atsiunčiamoms de-
+    legacijoms jis nieko tikro nežadėjo, nes dar tebebuvo neaiški
+    karo pabaiga. Tačiau jis leido Lietuvos bajorijai sudaryti lai-
+    kinę savo valdžią.
+    Laikinės Lietuvos vyriausybės priešaky
+    atsistojo grafas Soltanas.
+  citata_rodoma: "Tačiau jis leido Lietuvos bajorijai sudaryti lai-\nkinę savo valdžią.\nLaikinės Lietuvos vyriausybės priešaky\natsistojo grafas Soltanas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01362

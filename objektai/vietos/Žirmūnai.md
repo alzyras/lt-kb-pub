@@ -14,6 +14,18 @@ tags:
   - vieta
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Žirmūnai
 
@@ -26,9 +38,9 @@ amziai:
 <a id="claim-t-21971"></a>
 - t-001
   global_id: t-21971
-  teiginys: '1962–1969 m. Vilniuje pastatyti Žirmūnai buvo pirmasis stambiaplokščių daugiabučių mikrorajonas.'
+  teiginys: "1962–1969 m. Vilniuje pastatyti Žirmūnai buvo pirmasis stambiaplokščių daugiabučių mikrorajonas."
   pagrindžia:
-    - c-001
+    - c-24652
 - susijęs iš [[objektai/zodynas/Trakai Troki.md#claim-t-189142|Trakai Troki]]: Narbutas kaip Trakų vardo paplitimo pavyzdį nurodė Trakais vadintą mišką Lydos apskrities Žirmūnų parapijoje.
 - susijęs iš Žizdra: Žizdra šiame gabale tikėtina įtraukta į vietovardžių rodyklę.
 - susijęs iš [[objektai/zodynas/Risietis.md#claim-t-189327|Risietis]]: Narbutas „Risietis“ laikė lietuvišku diržų pavadinimu ir tuo grindė mintį, kad šio žodžio nereikėjo skolintis iš svetimos kalbos.
@@ -46,10 +58,29 @@ amziai:
     rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Žirmūnai priklausė [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-24652
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Gyvenamųjų namų statyba
+    standartizuota pagal tipinius projektus, daugiausia naudotos surenka-
+    mosios stambiaplokštės konstrukcijos. 1962–1969 m. pastatytas pirmasis
+    tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,
+    sunaudojantys daug energijos šildymui daugiabučių gyvenamųjų namų
+    rajonai tapo vienu ryškiausių sovietinės urbanizacijos ženklų.
+  citata_rodoma: "tokių namų mikrorajonas Vilniuje – Žirmūnai. Tokie vienodi, beveidžiai,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21971

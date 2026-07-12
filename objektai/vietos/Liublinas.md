@@ -19,11 +19,6 @@ datos:
   - '2026 m.'
 date_start: '1251'
 date_end: '2026'
-description: 'Liublinas siejamas su Jogailos išrinkimu 1386 m., 1569 m. Liublino seimu ir Lietuvos bei Lenkijos valstybinių santykių nustatymu.'
-socialDescription: 'Liublinas žinių bazėje minimas kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta ir 1569 m. seimo erdvė, kur spręsti Lietuvos bei Lenkijos valstybiniai santykiai.'
-seo_atnaujinta: '2026-07-02T23:12:35.349331+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -31,112 +26,138 @@ tags:
 amziai:
   - 'XIII'
   - 'XXI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Liublinas
 
 ## Santrauka
 
-Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių sprendimų vieta. 1386 m. čia Jogaila buvo išrinktas Lenkijos karaliumi, o 1569 m. Liubline galutinai nustatyti Lietuvos ir Lenkijos valstybiniai santykiai. Šaltiniuose miestas siejamas ir su derybomis, seimu, Liublino unijos vertinimais bei platesniu Lietuvos valstybingumo klausimu.
+Liublinas šiame šaltinyje minimas ir kaip 1386 m. Jogailos išrinkimo Lenkijos karaliumi vieta, ir kaip 1569 m. erdvė, kur galutinai nustatyti abiejų tautų valstybiniai santykiai. Šiame šaltinyje Liublino unija taip pat žymi naujo Lietuvos istorijos laikotarpio pradžią.
 
 ## Teiginiai
 
 <a id="claim-t-173685"></a>
 - t-001
   global_id: t-173685
-  teiginys: '1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi.'
+  teiginys: "1386 m. Jogaila nuvyko į Liubliną ir ten buvo išrinktas Lenkijos karaliumi."
   pagrindžia:
-    - c-001
+    - c-05658
 
 <a id="claim-t-173687"></a>
 - t-002
   global_id: t-173687
-  teiginys: 'XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų.'
+  teiginys: "XIV a. Liublino gatvės buvo siejamos su gotikos rūmais, apsuptais aukštų sienų."
   pagrindžia:
-    - c-005
+    - c-157969
 
 <a id="claim-t-173688"></a>
 - t-003
   global_id: t-173688
-  teiginys: '1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo.'
+  teiginys: "1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo."
   pagrindžia:
-    - c-007
+    - c-157971
 
 <a id="claim-t-173689"></a>
 - t-004
   global_id: t-173689
-  teiginys: 'Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą.'
+  teiginys: "Liubline stovyklininkas Pavlikas keitė lietuviškas monetas į lenkiškas, kad pinigai būtų pasiųsti į Leipcigą."
   pagrindžia:
-    - c-003
+    - c-157964
 
 <a id="claim-t-173690"></a>
 - t-005
   global_id: t-173690
-  teiginys: 'Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.'
+  teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
   pagrindžia:
-    - c-010
+    - c-167244
 
 <a id="claim-t-173691"></a>
 - t-006
   global_id: t-173691
-  teiginys: 'Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.'
+  teiginys: "Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d."
   pagrindžia:
-    - c-008
+    - c-157972
 
 <a id="claim-t-173693"></a>
 - t-007
   global_id: t-173693
-  teiginys: 'Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis.'
+  teiginys: "Krokuvos ir Liublino gatvės buvo siejamos su gotikos rūmais ir aukštomis sienomis."
   pagrindžia:
-    - c-005
+    - c-157969
 
-<a id="claim-t-173694"></a>
+<a id="claim-t-173697"></a>
 - t-008
-  global_id: t-173694
-  teiginys: 'Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika.'
+  global_id: t-173697
+  teiginys: "Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika."
   pagrindžia:
-    - c-002
+    - c-157963
 
 <a id="claim-t-173695"></a>
 - t-009
   global_id: t-173695
-  teiginys: '1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai.'
+  teiginys: "1569 m. Liubline galutinai nustatyti abiejų tautų tarpusavio valstybiniai santykiai."
   pagrindžia:
-    - c-006
+    - c-157970
 
 <a id="claim-t-173696"></a>
 - t-010
   global_id: t-173696
-  teiginys: '1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.'
+  teiginys: "1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje."
   pagrindžia:
-    - c-004
+    - c-157965
+
+<a id="claim-t-173697"></a>
+- t-011
+  global_id: t-173697
+  teiginys: "Kojalavičius džiaugėsi Liublino unijoje įvykusia santaika."
+  pagrindžia:
+    - c-157963
 
 <a id="claim-t-173698"></a>
 - t-012
   global_id: t-173698
-  teiginys: 'Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą.'
+  teiginys: "Vasarį stovyklininkas Pavlikas Liubline keitė lietuviškas monetas į lenkiškas, kad pinigai būtų išsiųsti į Leipcigą."
   pagrindžia:
-    - c-003
+    - c-157964
 
 <a id="claim-t-173699"></a>
 - t-013
   global_id: t-173699
-  teiginys: 'Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises.'
+  teiginys: "Liublinas Vladislovo Lokietkos laikais, 1317 m., ėmė tvarkytis pagal vokiečių miestų teises."
   pagrindžia:
-    - c-009
+    - c-157974
+
+<a id="claim-t-173690"></a>
+- t-014
+  global_id: t-173690
+  teiginys: "Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais."
+  pagrindžia:
+    - c-167244
 
 <a id="claim-t-185020"></a>
 - t-015
   global_id: t-185020
-  teiginys: 'Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.'
+  teiginys: "Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus."
   pagrindžia:
-    - c-011
+    - c-168381
 
 <a id="claim-t-187598"></a>
 - t-016
   global_id: t-187598
-  teiginys: 'Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.'
+  teiginys: "Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve."
   pagrindžia:
-    - c-012
+    - c-170545
 - susijęs iš Sandomierius: 1300 m. lietuviai drauge su rusais puolė Sandomieriaus ir Liublino žemes.
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178770|Jotvingiai]]: 1282 m. lietuviai drauge su jotvingiais teriojo Liublino ir Sandomiero žemes.
 - susijęs iš Sandomierius: 1296 lietuviai įsiveržė į Sandomieriaus ir Kujavijos žemes.
@@ -405,7 +426,8 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     karaliumi (II.2).
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -422,7 +444,8 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     gerokai buvo niveliavęsi^31.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
@@ -443,6 +466,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -459,6 +483,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     čių atstovais - Brastoje). Gegužės 15 d.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -484,6 +509,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     juosta statinių tvoromis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -503,6 +529,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     ir netikėtinumų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -524,6 +551,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     1 d.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -544,6 +572,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     kad abidvi valstybės pasiliktų savarankiškos.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -564,6 +593,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -590,6 +620,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     kuriavo karaliaus45.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -623,6 +654,7 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     rie pagalbon buvo pasikvietę skitus ir lietuvius.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -649,14 +681,293 @@ Liublinas Lietuvos istorijos žinių bazėje iškyla kaip svarbi politinių spre
     vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
 
+## Citatos
+
+- id: c-05658
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Valkaviske Lenkijos pasiuntinių sutiktas (1386.I.12), Jogaila
+    nuvyko į kilmingųjų seimą Liubline, kur buvo išrinktas Lenkijos
+    karaliumi (II.2).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173685
+
+- id: c-157963
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Tad Koja­
+    lavičiui, kuris iš esmės terašė gražia, klasikine lotynų kalba pasi­
+    skaitymų knygą, Lietuvos ir Lenkijos politiniai skirtumai nebe­
+    buvo tokie ryškus kaip Stryjkovskiui. Jis džiaugėsi ir Liublino
+    unijoje «įvykusia santaika»^30. Kojalavičiui, išleidusiam I-jį tomą
+    beveik 70 metų po Stryjkovskio, Lietuvos ir Lenkijos skirtumai
+    gerokai buvo niveliavęsi^31.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173694
+    - t-173697
+
+- id: c-157964
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­
+    aris [vasarį], kai buvo iš anksto pasiųstas su pinigais, kad
+    443
+
+    ## Puslapis 460
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    juos laiku pasiųstų JMCPP* : Mlodyčiui į Leipcigą ir ponui
+    Plockiui sumokėti skolą iš lietuviškų monetų, jas keičiant į
+    lenkiškas, pridėjau 1310 flor. (23 fl.: 88) (6) 9 den.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173689
+    - t-173698
+
+- id: c-157965
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1432 m. pradžioje derybos tarp lenkų
+    ir lietuvių strigo (tuo metu Jogaila sto-
+    vėjo Liubline, Švitrigaila su kryžiuo-
+    čių atstovais - Brastoje). Gegužės 15 d.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173696
+
+- id: c-157969
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Visi tie pastatai, at­
+    skirti žiogriais, arba statinių tvoromis, su tarp jų įsiterpusiais
+    daržų ir pievų plotais, labiau panėšėjo į kelis didžiulius kai­
+    mus, besišliejančius prie pilių, negu į tokius miestus, kokie
+    jau XIV amžiuje puošė Lenkiją. Lietuvai, ilgai nuo krikščio­
+    niškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių
+    antpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­
+    kos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,
+    nors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam
+    laikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės
+    prekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­
+    dur namų samplaikos, iškilesnėje vietovėje nei Šventaragio
+    slėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­
+    tuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­
+    juosta statinių tvoromis.
+  citata_rodoma: "Lietuvai, ilgai nuo krikščio­\nniškojo pasaulio civilizacijos užsisklendusiai ir kryžiuočių\nantpuolių tolydžio alinamai, dar nepažįstami buvo tie goti­\nkos rūmai, apsupti aukštų sienų, iš kurių susidarė tiesios,\nnors ir siauros Krokuvos ar Liublino gatvės, nei tokie, tam\nlaikui neįprastai dideli pastatai, kaip Krokuvos Gelumbės\nprekybos namai, statydinti Kazimiero Didžiojo. Vilniuje, vi­\ndur namų samplaikos, iškilesnėje vietovėje nei Šventaragio\nslėnis, plytėjo ganėtinai didelė aikštė, aplipusi prekijų krau­\ntuvėlėmis ir, atsargumo dėlei, nuo kryžiuočių antpuolių ap­\njuosta statinių tvoromis."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173693
+    - t-173687
+
+- id: c-157970
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    1569 metais Liubline « abiejų tautų » galutinai nustatyti tarpu­
+    saviai valstybiniai santykiai, lygiai kaip ir įkandin prasidedąs
+    periodas bendrų renkamųjų valdovų, kurių kiekvienas tapdavo ir
+    didžiuoju Lietuvos kunigaikščiu, nepaliko be neigiamų pasėkų
+    atskiros Lietuvos valstybinės sąmonės lauke. Prisiimdami lenkų
+    kultūrą ir kalbą, Lietuvos kilmingieji lenkėjo ir sąmonės atžvilgiu.
+    Tai buvo ilgametis procesas nuo Vazų dinastijos laikų, be šuolių
+    ir netikėtinumų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173695
+
+- id: c-157971
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
+    sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
+    1569 m. sausio 10 d.
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,
+    per kurias vienų kitiems buvo pasakyta daug karčių žodžių,
+    lietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo
+    1 d.).
+  citata_rodoma: "** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos. Po ilgokų derybų,\nper kurias vienų kitiems buvo pasakyta daug karčių žodžių,\nlietuviai staiga nutraukė derybas ir išvažiavo iš Liublino (kovo\n1 d."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173688
+
+- id: c-157972
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bet vis dėlto pasiliko svar-
+    biausias į uniją traukiąs veiksnys — nebaigtas karas su Maskva.
+    Dėl to bajorija ir toliau reikalavo išspręsti unijos klausimą ir
+    sušaukti tam reikalui specialų seimą, kurs pagaliau susirinko
+    1569 m. sausio 10 d.
+    **Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime
+    (1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-
+    tybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,
+    kad abidvi valstybės pasiliktų savarankiškos.
+  citata_rodoma: "**Liublino seimo eiga ir unijos aktas.** Kaip Varšuvos seime\n(1563—4 m.), taip ir Liubline lenkai reikalavo visiško abiejų vals-\ntybių sujungimo, o lietuviai atsivežė savo projektus, reikalaudami,\nkad abidvi valstybės pasiliktų savarankiškos."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173691
+
+- id: c-157974
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tad jau
+    nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę
+    tvarką, puošnius statinius ir teutonų teises (1257 metais) sko­
+    linga Boleslovui Droviajam, už svarbias privilegijas, svetimtau­
+    čių antplūdį ir geriausiai sutvirtintas mūro sienas - Lešekui Juo­
+    dajam. Poznanė dar anksčiau už Krokuvą - 1253 metais,
+    Sandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­
+    ketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų
+    teises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -
+    1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus.
+  citata_rodoma: "Poznanė dar anksčiau už Krokuvą - 1253 metais,\nSandomiras - vėliau, 1286 metais, o Liublinas Vladislavo Lo­\nketkos laikais -1317 metais, ėmė tvarkytis pagal vokiečių miestų\nteises. Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos -\n1280 metais, pastatydintas Leono, Darnios iš Haličo sūnaus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-173699
+
+- id: c-167244
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Atrodo, kad tais metais bu­
+    vo pataisytos ir Žemutinės pilies sienos, daugelyje vietų pa­
+    krypusios ir suskilusios, be to, išaugo panašūs ir erdvūs
+    232
+
+    ## Puslapis 249
+
+    III KNYGA
+    mediniai rūmai, tikriausiai, skirti karaliaus ir Elenos bu­
+    veinei*.
+    Po tokių sostinės apsaugos priemonių karalius, į Vilnių
+    atvykęs iš Liublino seimo, ėmėsi reikalų su totoriais. Aplink
+    miestą su savo palyda palapinėse klajojo Šach Achmedas, o
+    Krymo ir Nogajaus ordos pasiuntiniai už Vilniaus sienų lū­
+    kuriavo karaliaus45.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183859
+    - t-173690
+
+- id: c-168381
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Po
+    to santarvė su rusais atitraukė lietuvius nuo žygių į
+    181
+
+    ## Puslapis 180
+
+    1302 m eta i
+    K a  as ta rp
+    len k ų  ir
+    rusų,
+    k u rie m s lie tu ­
+    v ia i ein a  į p a g a lb ą  ir
+    k u rie  su m u ša m i
+    Prūsiją ir Livoniją. Mat len­
+    kai ginklu stengėsi iš rusų at­
+    siimti Liubliną, kurio buvo
+    netekę prieš penkiasdešimt
+    septynerius metus. Abi pusės
+    sutelkė šiam karui didžiules
+    kariuomenes, ypač rusai, ku­
+    rie pagalbon buvo pasikvietę skitus ir lietuvius.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185020
+
+- id: c-170545
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 . Paskui abi šalys su visais
+    savo Tarybų ponais suvažiavo į Parčevą 6  dalyvauti sei­
+    me, ir visi išbuvo Parčeve dvi savaites; ką vieni su ki­
+    tais sumanė ir nutarė — visa tai paliko didelė paslap­
+    tis 7 , Ir išvažinėjo savais keliais; Olbrachtas j Kroku­
+    vą ® ,  o didysis kunigaikštis Aleksandras — į Vilnių9 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-187598
+
 ## Ryšiai
-- Buvo valdoma: [[objektai/grupes/Rusai]]
-- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]], [[objektai/asmenys/Pavlikas]], [[objektai/asmenys/Petras Semaška]], [[objektai/asmenys/Teodoras Vodka]]
-- Puolė Liubliną: [[objektai/grupes/Jotvingiai]], [[objektai/grupes/Lietuviai]]
-- Gyvenamoji vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Liublinas priklausė [[objektai/vietos/Vokietija]]
+- Buvo kelionės vieta: [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
+- Puolė Liubliną: [[objektai/grupes/Lietuviai]]

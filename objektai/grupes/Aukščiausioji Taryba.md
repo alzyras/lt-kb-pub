@@ -11,11 +11,23 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Aukščiausioji Taryba (institucija)
 
@@ -28,16 +40,16 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
 <a id="claim-t-40858"></a>
 - t-001
   global_id: t-40858
-  teiginys: '1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią.'
+  teiginys: "1991 m. sausio 8 d. perversmininkų minia bandė įsiveržti į Aukščiausiosios Tarybos rūmus ir nuversti nepriklausomos Lietuvos valdžią."
   pagrindžia:
-    - c-001
+    - c-42644
 
 <a id="claim-t-40859"></a>
 - t-002
   global_id: t-40859
-  teiginys: '1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.'
+  teiginys: "1991 m. sausio 12 d. Vytauto Landsbergio vadovaujama Aukščiausioji Taryba – Atkuriamasis Seimas priėmė nutarimą „Dėl priemonių Lietuvos Respublikai ginti“."
   pagrindžia:
-    - c-002
+    - c-44722
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170248|Vytautas Landsbergis]]: Sausio 12 d. Vytautas Landsbergis vadovavo Aukščiausiajai Tarybai - Atkuriamajam Seimui, priėmusiam nutarimą „Dėl priemonių Lietuvos Respublikai ginti“.
 - susijęs iš [[objektai/grupes/Aukščiausioji Taryba-Atkuriamasis Seimas.md#claim-t-65067|Aukščiausioji Taryba-Atkuriamasis Seimas]]: 1990 m. kovo 11 d. Lietuvos Respublikos Aukščiausioji Taryba paskelbė Lietuvos nepriklausomybės atkūrimą.
 - susijęs iš [[objektai/grupes/Lietuvos tautinė aukščiausioji taryba.md#claim-t-77828|Lietuvos tautinė aukščiausioji taryba]]: 1794 m. balandį Vilniuje paskelbtu Lietuvos sukilimo aktu buvo sudaryta Lietuvos tautinė aukščiausioji taryba.
@@ -84,6 +96,7 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     išrinkti tautos atstovai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -104,7 +117,66 @@ Sausio 12 d. Aukščiausioji Taryba - Atkuriamasis Seimas, vadovaujamas pirminin
     pajudėjo Parlamento link.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-42644
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Sausio 13-osios
+    dienos brolijos
+    (organizacijos, vie-
+
+    Mėginimas įvykdyti perversmą
+
+    Sovietai pradėjo rengtis valstybiniam per-
+    versmui. Jį įgyvendinti turėjo prosovietiškos
+    Lietuvos komunistų partijos (nuo sovietų ko-
+    munistų partijos neatsiskyrusios partijos da-
+    lies) suorganizuoti ir antivalstybinės organizacijos „Jedinstvo“
+    (Vienybė) vedami rusakalbiai sąjunginio pavaldumo gamyklų
+    darbininkai. Perversme turėjo aktyviai dalyvauti ir sovietų ka-
+    riuomenė. 1991 m. pradžioje iš Pskovo į Lietuvą buvo perkelti
+    specialios paskirties desantininkų daliniai. Sausio 8 d. pervers-
+    mininkų minia, reikalavusi atkurti sovietų valdžią ir įvesti tiesio-
+    ginį ssRS prezidento valdymą, bandė įsiveržti į Aukščiausiosios
+    Tarybos rūmus (seimą) ir nuversti nepriklausomos Lietuvos val-
+    džią, tačiau rūmų apsaugai pavyko atlaikyti šturmą, o netrukus
+    ėmė rinktis daug gausesnė Lietuvos nepriklausomybės šalininkų
+    minia, gyvu žiedu apjuosusi rūmus, kuriuose posėdžiavo teisėtai
+    išrinkti tautos atstovai.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40858
+
+- id: c-44722
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    su Vilniumi. Sausio 12 d. Aukščiausioji
+    Taryba - Atkuriamasis Seimas, vadovau-
+    jamas pirmininko Vytauto Landsbergio,
+    priėmė nutarimą „Dėl priemonių Lietuvos
+    Respublikai ginti“. Jau sausio 13-osios
+    naktį sovietai šturmavo Vilniaus televi-
+    zijos bokštą, Lietuvos radijo ir televizi-
+    jos komitetą, o tankų ir šarvuočių vora
+    pajudėjo Parlamento link.
+  citata_rodoma: "Sausio 12 d. Aukščiausioji\nTaryba - Atkuriamasis Seimas, vadovau-\njamas pirmininko Vytauto Landsbergio,\npriėmė nutarimą „Dėl priemonių Lietuvos\nRespublikai ginti“. Jau sausio 13-osios\nnaktį sovietai šturmavo Vilniaus televi-\nzijos bokštą, Lietuvos radijo ir televizi-\njos komitetą, o tankų ir šarvuočių vora\npajudėjo Parlamento link."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40859

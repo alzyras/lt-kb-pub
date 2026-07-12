@@ -16,6 +16,18 @@ amziai:
   - 'XIII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Glebas (Smolensko kunigaikštis)
 
@@ -28,9 +40,9 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 <a id="claim-t-40124"></a>
 - t-001
   global_id: t-40124
-  teiginys: 'Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.'
+  teiginys: "Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą."
   pagrindžia:
-    - c-001
+    - c-44336
 - susijęs iš [[objektai/ivykiai/Smolensko prastųjų žmonių sukilimas.md#claim-t-186631|Smolensko prastųjų žmonių sukilimas (sukilimas)]]: Lietuvos metraštis teigia, kad Smolensko sukilimo metu Andriaus šalininkai susirėmė su prastaisiais žmonėmis prie šv. Boriso ir Glebo cerkvės.
 - susijęs iš Belčica: Belčicos vyrų vienuolynas, įkurtas XI ir XII a. sandūroje, XII a. turėjo keturias Boriso ir Glebo cerkves.
 - susijęs iš [[objektai/asmenys/Olegas (Romano sūnus).md#claim-t-40378|Olegas (Romano sūnus)]]: Olegas, Briansko kunigaikščio Romano sūnus, buvo priverstas dalyvauti totorių antpuolyje prieš Lietuvą.
@@ -55,10 +67,31 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
     Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Glebas (Smolensko kunigaikštis) puolė [[objektai/vietos/Lietuva]]
+## Citatos
+
+- id: c-44336
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1275 m. pradžioje chanas Mengu Timūras prieš Lietuvą pasiuntė
+    kariuomenę, vadovaujamą Jagurčino, įsakęs eiti į žygį ir rusėnų
+    Uždnieprės kunigaikščiams. Taigi Lietuvos antpuolyje su toto-
+    riais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo
+    sūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo
+    metu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje
+    prieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,
+    Vladimiro, taip pat Pinsko, Turovo - kunigaikščiai.
+  citata_rodoma: "Taigi Lietuvos antpuolyje su toto-\nriais buvo priversti dalyvauti Briansko kunigaikštis Romanas ir jo\nsūnus Olegas, Smolensko kunigaikštis Glebas ir daug kitų, nes tuo\nmetu rusėnų „visi kunigaikščiai totorių valioje buvo“. Antpuolyje\nprieš Lietuvą taip pat dalyvavo Pietvakarių Rusios - Haličo, Lucko,\nVladimiro, taip pat Pinsko, Turovo - kunigaikščiai."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40124

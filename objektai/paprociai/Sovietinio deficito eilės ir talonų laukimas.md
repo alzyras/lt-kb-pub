@@ -5,7 +5,21 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - kasdienybė
+  - socialinė-praktika
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Sovietinio deficito eilės ir talonų laukimas
 
@@ -45,10 +59,9 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 <a id="claim-t-20819"></a>
 - t-001
   global_id: t-20819
-  teiginys: 'Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti.'
+  teiginys: "Sovietmečiu parduotuvės buvo apytuštės, trūko maisto produktų, o žmonės ilgose eilėse laukdavo talonų vartojimo prekėms įsigyti."
   pagrindžia:
-    - c-001
-
+    - c-23540
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -65,7 +78,8 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
     tiškai viskas buvo deficitas.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
@@ -73,3 +87,27 @@ Sovietmečio kasdienybėje deficitas reiškė apytuštes parduotuves, maisto ir 
 ## Šaltiniai ir įrodymai
 
 Nenurodyta
+
+## Citatos
+
+- id: c-23540
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Tokia
+    politika pasiteisino ir pagal to meto sąlygas davė palyginti gerų rezultatų.
+    Neatsitiktinai Lietuva vadinta Sovietų Sąjungos ferma, nes daug investicijų
+    nukreipta į žemės ūkio ir maisto pramonės sektorius. Tačiau tai nereiškė
+    gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės buvo apytuštės, trū-
+    ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,
+    ilgose eilėse žmonės laukdavo talonų (leidimo) įsigyti baldus, indus, tele-
+    vizorius, be to, katastrofiškai trūko butų, medicinos reikmenų, vaistų – fak-
+    tiškai viskas buvo deficitas.
+  citata_rodoma: "ko mėsos, daržovių, sviesto, dažnai netgi duonos ir kitų maisto produktų,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-20819

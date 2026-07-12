@@ -10,9 +10,22 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - ivykis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Užpelkių kautynės
 
@@ -41,9 +54,9 @@ Nenurodyta
 <a id="claim-t-39139"></a>
 - t-001
   global_id: t-39139
-  teiginys: '1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
+  teiginys: "1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas."
   pagrindžia:
-    - c-001
+    - c-40943
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79101|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/asmenys/Laurynas Mingilas-Džiugas.md#claim-t-79102|Laurynas Mingilas-Džiugas]]: Partizanas Laurynas Mingilas-Džiugas aprašė 1949 m. rugpjūčio 13 d. Užpelkių kautynes.
 - susijęs iš [[objektai/autoriai/Dalius Žygelis.md#claim-t-40613|Dalius Žygelis]]: Dalius Žygelis buvo kelių tekstų apie 1945–1949 m. Lietuvos partizanų kautynes bendraautoris.
@@ -73,10 +86,35 @@ Nenurodyta
     nės vadas Juozas Paliūnas-Rytas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Turėjo dalyvį: [[objektai/asmenys/Petras Bartkus-Žadgaila]]
+## Citatos
+
+- id: c-40943
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1949 m. rugpjūčio 13 d. Radviliškio r.
+    Užpelkių miške sunaikintas Prisikėlimo
+    apygardos štabas. Žuvo LLKS tarybos pre-
+    zidiumo nariai Petras Bartkus-Žadgaila
+    (Prisikėlimo apygardos vadas) ir Bronius
+    Liesis-Naktis, Prisikėlimo apygardos
+    štabo viršininkas Vytautas Šniuolis-Svajū-
+    nas ir dar trys neatpažinti partizanai.
+    Rusų nuostoliai nežinomi. Apygradoje
+    prasidėjo reorganizacija: Prisikėlimo
+    apygardos vadu tapo Povilas Morkūnas-
+    Rimantas, pavaduotoju - Maironio rinkti-
+    nės vadas Juozas Paliūnas-Rytas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39139

@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Florijonas Zebžidovskis
 
@@ -17,10 +29,9 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
 <a id="claim-t-186109"></a>
 - t-001
   global_id: t-186109
-  teiginys: 'Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.'
+  teiginys: "Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką."
   pagrindžia:
-    - c-001
-
+    - c-169470
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -38,10 +49,32 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
     Sm olensko.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Florijonas Zebžidovskis surengė žygį į [[objektai/vietos/Polockas]]
+## Citatos
+
+- id: c-169470
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 716"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 716."
+  citata_originali: |
+    Tiesa, jis n eu žp u o lė L ivonijos, žinodam as, k ad  ten
+    g erai p asiren g u si k o v ai k a riu o m e n ė lau k ia ženklo du o ti
+    tin k am ą atkirtį, bet, n e tik ė ta i įsiv eržęs į B altarusiją,
+    sm arkiai n u siau b ė V itebsko, D ubrovno, O ršos, K opysės,
+    Š klovo apylinkes. G avęs ap ie tai žinią, k araliu s A u g u s­
+    tas p ad alijo  sav o  jėg as į dv i dalis. K araly stės lau k o  e t­
+    m onui F lo rijo n u i Z ebžidovskiui įsak ė len k u s v esti į
+    Polocką, o M ik alo ju i R advilai tra u k ti su  lietu v iais link
+    Sm olensko.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-186109

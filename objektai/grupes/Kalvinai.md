@@ -15,8 +15,21 @@ tags:
   - grupe
   - miestas
   - seimas
+  - šventė
 amziai:
   - 'XVII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kalvinai
 
@@ -29,16 +42,16 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
 <a id="claim-t-01342"></a>
 - t-001
   global_id: t-01342
-  teiginys: '1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti.'
+  teiginys: "1639 m. po šūvio iš kalvinų bažnyčios šventoriaus Vilniuje minia apgriovė kalvinų bažnyčią, o seimas vėliau nutarė ją nugriauti."
   pagrindžia:
-    - c-001
+    - c-01580
 
 <a id="claim-t-01343"></a>
 - t-002
   global_id: t-01343
-  teiginys: 'Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.'
+  teiginys: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
   pagrindžia:
-    - c-002
+    - c-01581
 - susijęs iš [[objektai/grupes/Liuterionys.md#claim-t-01413|Liuterionys]]: Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
 - susijęs iš [[objektai/ivykiai/Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.).md#claim-t-01845|Vilniaus kalvinų bažnyčios nugriovimas ir naujos bažnyčios pastatymas (1639–1640 m.)]]: Po ilgos bylos seimas nusprendė nugriauti Vilniaus kalvinų bažnyčią, o 1640 m. kita kalvinų bažnyčia pastatyta už miesto.
 - susijęs iš Brasta: Brastoje buvo įkurta protestantų mokykla, o pradžios mokyklų protestantai turėjo beveik kiekvienoje savo parapijoje.
@@ -62,6 +75,7 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     miesto (1640 m.).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -77,10 +91,47 @@ Vilniuje liuterionys ir kalvinai turėjo po bažnyčią. 1639 m. tyčia ar nety�
     kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Kalvinai gyveno [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-01580
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    1639 m. tyčia ar netyčia iš kalvinų bažnyčios šventoriaus kaž-
+    kas įšovė pro langą į pranciškonių vienuolyno bažnyčią. Mieste
+    tuojau kilo triukšmas: kalvinai buvo apkaltinti išniekinę baž-
+    nyčią, ir minia už tai apgriovė jų bažnyčią. Paskui prasidėjo
+    ilga byla, ir galų gale seimo sprendimu kalvinų bažnyčia Vil-
+    niuje buvo nugriauta. Kita kalvinų bažnyčia buvo pastatyta už
+    miesto (1640 m.).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01342
+
+- id: c-01581
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Protestantai buvo silpnesni, todėl jie daugiau ir nu-
+    kentėdavo. Pavyzdžiui, 1611 m. per Dievo Kūno procesiją vie-
+    nas protestantas, Ostijos garbinimą išvadinęs stabmeldyste,
+    buvo minios apkultas, suimtas, o vėliau pasmerktas mirti ir nu-
+    kankintas. Vilniuje liuterionys ir kalvinai turėjo po bažnyčią.
+  citata_rodoma: "Vilniuje liuterionys ir kalvinai turėjo po bažnyčią."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-01343

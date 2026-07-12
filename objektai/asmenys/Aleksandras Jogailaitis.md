@@ -3,35 +3,45 @@ tipas: asmuo
 pavadinimas: 'Aleksandras Jogailaitis'
 saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
+  - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
+  - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 datos:
-  - '1492 m.'
+  - '1461 m.'
   - '1536 m.'
-date_start: '1492'
+date_start: '1461'
 date_end: '1536'
-description: 'Aleksandras Jogailaitis: Vilniaus privilegijos, laivyba Vilija, ryšiai su Rusios miestais, totorių grėsmė ir mirtis 1506 m.'
-socialDescription: 'Aleksandro Jogailaičio istorija apie Vilniaus atgaivinimą, prekybos privilegijas, santuoką su Elena, totorių grėsmę ir paskutines dienas Žemutinėje pilyje.'
-seo_atnaujinta: '2026-07-02T20:14:54.776991+03:00'
-seo_policy_version: 'seo_summary_v1'
-seo_nepakanka_duomenu: 'false'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - kunigaikštis
+  - valdovas
 amziai:
   - 'XV'
   - 'XVI'
 periodo_grupes:
   - 'LDK'
-tags:
-  - karalius
-  - kunigaikštis
-  - valdovas
+media_total_count: '6'
+media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png'
+media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png'
+media_primary_directness: 'contextual'
+media_primary_relation_type: 'seal_of'
+media_primary_json: |-
+  {"mediaId":"m-c1aa40f008a3154e64fffaa7","title":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","caption":"Litografija su Lenkijos karaliaus Aleksandro Jogailaičio antspaudais.","originalTitle":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","creator":"Kajetan Wincenty Kielisiński (creator of seal lithography)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Zbiór praw litewskich od roku 1389 do roku 1529 tudzież rozprawy sejmowe o tychże prawach od roku 1544 do roku 1563 [1] , card IX (at the end of the book), Poznań (1841).","dateDisplay":"16 th century date QS:P571,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1707,"height":2076,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.82},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.006855+03:00","reviewedAt":"2026-07-11T19:42:40.571871+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduoti trys antspaudai su heraldiniais skydais, Vyčio motyvu ir legendomis; viename matoma platesnė valdovo herbų kompozicija.","metadataEvidence":"Pavadinimas ir aprašas nurodo King Alexander of Poland antspaudus, sukurtus pagal realius karaliaus antspaudus.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Aleksandras Lenkijos karalius šiame kontekste atitinka Aleksandrą Jogailaitį; vaizdas rodo jo antspaudų reprodukcijas.","isPrimary":0}
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  [{"mediaId":"m-c23a6b706b890b9fbc4f4c65","title":"Alaksandar, Pahonia. Аляксандар, Пагоня (1492, 1930).jpg","caption":"Aleksandro Jogailaičio antspaudo su Vyčiu reprodukcija, siejama su 1492 m.","originalTitle":"Alaksandar, Pahonia. Аляксандар, Пагоня (1492, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1492, 1930","dateStart":null,"dateEnd":null,"width":267,"height":268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:46.937079+03:00","reviewedAt":"2026-07-11T19:42:40.567713+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudo atspaudas su raiteliu centre ir legenda pakraštyje.","metadataEvidence":"Aprašas tiesiogiai įvardija didžiojo kunigaikščio Aleksandro antspaudą su Pahonia; data siejama su 1492 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Ryšys su target aiškus per konkretų Aleksandro Jogailaičio antspaudą.","isPrimary":0},{"mediaId":"m-6d4a40d06eb12f0d7ea200a6","title":"Alaksandar, Pahonia. Аляксандар, Пагоня (K. Kielisiński, 1501, 1841).jpg","caption":"Kajetano Kielisińskio 1841 m. piešinys pagal Aleksandro Jogailaičio antspaudą su Vyčiu.","originalTitle":"Alaksandar, Pahonia. Аляксандар, Пагоня (K. Kielisiński, 1501, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"1. Biblioteka Narodowa. G.23848/I. 2. Album K. W. Kielisińskiego. Poznań, 1853. Biblioteka Narodowa. A.2738/G.XIX/III-45. 3. Vossberg F. A. Siegel des mittelalters von Polen, Lithauen, Schlesien, Pommern und Preussen ein Beitrag zur Förderung diplomatischen, genealogischer, numismatischer und kunstgeschichtlicher Studien über ursprünglich slavische Theile der preussischen Monarchie mit XXV Kupfertafeln. Berlin, 1854.","dateDisplay":"1501, 1841","dateStart":null,"dateEnd":null,"width":3135,"height":3048,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg/1920px-Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:46.940819+03:00","reviewedAt":"2026-07-11T19:42:40.566284+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudas su Vyčiu centre, legenda aplink, vaizdas pateiktas kaip senovinė graviūra ar piešinys.","metadataEvidence":"Pavadinimas ir aprašas nurodo Alaksandar/Aleksandrą ir didžiojo kunigaikščio Aleksandro antspaudą su Pahonia.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nėra portretas, bet aiškiai vaizduoja Aleksandro Jogailaičio valdovo antspaudą.","isPrimary":0},{"mediaId":"m-c1aa40f008a3154e64fffaa7","title":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","caption":"Litografija su Lenkijos karaliaus Aleksandro Jogailaičio antspaudais.","originalTitle":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","creator":"Kajetan Wincenty Kielisiński (creator of seal lithography)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Zbiór praw litewskich od roku 1389 do roku 1529 tudzież rozprawy sejmowe o tychże prawach od roku 1544 do roku 1563 [1] , card IX (at the end of the book), Poznań (1841).","dateDisplay":"16 th century date QS:P571,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1707,"height":2076,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.82},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.006855+03:00","reviewedAt":"2026-07-11T19:42:40.571871+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduoti trys antspaudai su heraldiniais skydais, Vyčio motyvu ir legendomis; viename matoma platesnė valdovo herbų kompozicija.","metadataEvidence":"Pavadinimas ir aprašas nurodo King Alexander of Poland antspaudus, sukurtus pagal realius karaliaus antspaudus.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Aleksandras Lenkijos karalius šiame kontekste atitinka Aleksandrą Jogailaitį; vaizdas rodo jo antspaudų reprodukcijas.","isPrimary":0},{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota Vilniuje 1503 m. rugpjūčio 17 d.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.077747+03:00","reviewedAt":"2026-07-11T19:42:40.570361+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas pergamentinis lotyniškas dokumentas su pakabinamu raudonu antspaudu ant virvelių.","metadataEvidence":"Pavadinimas ir aprašas nurodo Aleksandro Jogailaičio privilegiją su jo asmeniniu antspaudu, išduotą Vilniuje 1503-08-17.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Aleksandro Jogailaičio išduotas aktas, todėl ryšys su target aiškus, bet dokumentinis.","isPrimary":0},{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio herbinis antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu, 1492–1506 m.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-11T19:57:48.027748+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi apvalaus antspaudo atspaudas su karūnuotu herbu centre, ketvirčiuotu skydu, heraldiniais gyvūnais ir užrašo žiedu aplink kraštą.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo, kad tai Aleksandro Jogailaičio herbinis antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu, datuojamas 1492–1506 m., t. y. jo valdymo laikotarpiu.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus ryšys su target įrodytas metaduomenimis ir vaizdo turiniu: tai ne atsitiktinis simbolis, o Aleksandro Jogailaičio valdovo antspaudas, todėl priimtina kaip kontekstinis objektas.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas su Vyčiu, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95},{"code":"didysis-antspaudas","label":"didysis antspaudas","facetKind":"tema","confidence":0.82},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.168853+03:00","reviewedAt":"2026-07-11T19:42:40.568889+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudonas vaškinis antspaudas su sudėtinga kompozicija ir centriniu Vyčio motyvu.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.","confidenceLevel":"medium","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Priimtina kaip aiškiai su Aleksandro valdymu susietas antspaudas, nors pats vaizdas nėra valdovo portretas.","isPrimary":0}]
+media_all_json: |-
+  [{"mediaId":"m-c23a6b706b890b9fbc4f4c65","title":"Alaksandar, Pahonia. Аляксандар, Пагоня (1492, 1930).jpg","caption":"Aleksandro Jogailaičio antspaudo su Vyčiu reprodukcija, siejama su 1492 m.","originalTitle":"Alaksandar, Pahonia. Аляксандар, Пагоня (1492, 1930).jpg","creator":"Marian Gumowski","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Gumowski M. Pieczecie Ksiazat Litewskich // Ateneum Wilenskie. Z. 3—4, 1930. S. 722—723.","dateDisplay":"1492, 1930","dateStart":null,"dateEnd":null,"width":267,"height":268,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/6/6c/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%281492%2C_1930%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"atvaizdas","label":"atvaizdas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:46.937079+03:00","reviewedAt":"2026-07-11T19:42:40.567713+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudo atspaudas su raiteliu centre ir legenda pakraštyje.","metadataEvidence":"Aprašas tiesiogiai įvardija didžiojo kunigaikščio Aleksandro antspaudą su Pahonia; data siejama su 1492 m.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Ryšys su target aiškus per konkretų Aleksandro Jogailaičio antspaudą.","isPrimary":0},{"mediaId":"m-6d4a40d06eb12f0d7ea200a6","title":"Alaksandar, Pahonia. Аляксандар, Пагоня (K. Kielisiński, 1501, 1841).jpg","caption":"Kajetano Kielisińskio 1841 m. piešinys pagal Aleksandro Jogailaičio antspaudą su Vyčiu.","originalTitle":"Alaksandar, Pahonia. Аляксандар, Пагоня (K. Kielisiński, 1501, 1841).jpg","creator":"Kajetan Wincenty Kielisiński","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"1. Biblioteka Narodowa. G.23848/I. 2. Album K. W. Kielisińskiego. Poznań, 1853. Biblioteka Narodowa. A.2738/G.XIX/III-45. 3. Vossberg F. A. Siegel des mittelalters von Polen, Lithauen, Schlesien, Pommern und Preussen ein Beitrag zur Förderung diplomatischen, genealogischer, numismatischer und kunstgeschichtlicher Studien über ursprünglich slavische Theile der preussischen Monarchie mit XXV Kupfertafeln. Berlin, 1854.","dateDisplay":"1501, 1841","dateStart":null,"dateEnd":null,"width":3135,"height":3048,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AAlaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/a/a0/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg/1920px-Alaksandar%2C_Pahonia._%D0%90%D0%BB%D1%8F%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%2C_%D0%9F%D0%B0%D0%B3%D0%BE%D0%BD%D1%8F_%28K._Kielisi%C5%84ski%2C_1501%2C_1841%29.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"pahonia","label":"Pahonia","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"graviūra","label":"graviūra","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.95},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:46.940819+03:00","reviewedAt":"2026-07-11T19:42:40.566284+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas apvalus antspaudas su Vyčiu centre, legenda aplink, vaizdas pateiktas kaip senovinė graviūra ar piešinys.","metadataEvidence":"Pavadinimas ir aprašas nurodo Alaksandar/Aleksandrą ir didžiojo kunigaikščio Aleksandro antspaudą su Pahonia.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Vaizdas nėra portretas, bet aiškiai vaizduoja Aleksandro Jogailaičio valdovo antspaudą.","isPrimary":0},{"mediaId":"m-c1aa40f008a3154e64fffaa7","title":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","caption":"Litografija su Lenkijos karaliaus Aleksandro Jogailaičio antspaudais.","originalTitle":"Great Seal of the Realm and two other seals of Alexander of Poland (lithography).png","creator":"Kajetan Wincenty Kielisiński (creator of seal lithography)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Zbiór praw litewskich od roku 1389 do roku 1529 tudzież rozprawy sejmowe o tychże prawach od roku 1544 do roku 1563 [1] , card IX (at the end of the book), Poznań (1841).","dateDisplay":"16 th century date QS:P571,+1550-00-00T00:00:00Z/7","dateStart":null,"dateEnd":null,"width":1707,"height":2076,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AGreat_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bf/Great_Seal_of_the_Realm_and_two_other_seals_of_Alexander_of_Poland_%28lithography%29.png","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"iliustracija","label":"iliustracija","facetKind":"vaizdo_tipas","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.82},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.82},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.82},{"code":"iliustracija","label":"iliustracija","facetKind":"tema","confidence":0.82},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.82},{"code":"litografija","label":"litografija","facetKind":"tema","confidence":0.82},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.82},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.006855+03:00","reviewedAt":"2026-07-11T19:42:40.571871+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Pavaizduoti trys antspaudai su heraldiniais skydais, Vyčio motyvu ir legendomis; viename matoma platesnė valdovo herbų kompozicija.","metadataEvidence":"Pavadinimas ir aprašas nurodo King Alexander of Poland antspaudus, sukurtus pagal realius karaliaus antspaudus.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Aleksandras Lenkijos karalius šiame kontekste atitinka Aleksandrą Jogailaitį; vaizdas rodo jo antspaudų reprodukcijas.","isPrimary":0},{"mediaId":"m-3a1850362be25d83cc9a830a","title":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","caption":"Aleksandro Jogailaičio privilegija su asmeniniu antspaudu, išduota Vilniuje 1503 m. rugpjūčio 17 d.","originalTitle":"Privilege of Aleksandras Jogailaitis (in Latin language) with his personal seal, confirming the foundation of the Vitebsk church, issued on 17 August 1503 in Vilnius, Lithuania.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Lietuvos mokslų akademijos Vrublevskių biblioteka","dateDisplay":"1503-08-17","dateStart":null,"dateEnd":null,"width":1000,"height":807,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3APrivilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/e/eb/Privilege_of_Aleksandras_Jogailaitis_%28in_Latin_language%29_with_his_personal_seal%2C_confirming_the_foundation_of_the_Vitebsk_church%2C_issued_on_17_August_1503_in_Vilnius%2C_Lithuania.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"dokumentas","label":"dokumentas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"aktas","label":"aktas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"dokumentas","label":"dokumentas","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"privilegija","label":"privilegija","facetKind":"tema","confidence":0.95},{"code":"rankraštis","label":"rankraštis","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vilnius","label":"vilnius","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"event_documentation_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.077747+03:00","reviewedAt":"2026-07-11T19:42:40.570361+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas pergamentinis lotyniškas dokumentas su pakabinamu raudonu antspaudu ant virvelių.","metadataEvidence":"Pavadinimas ir aprašas nurodo Aleksandro Jogailaičio privilegiją su jo asmeniniu antspaudu, išduotą Vilniuje 1503-08-17.","confidenceLevel":"high","relationType":"event_documentation_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Tai konkretus Aleksandro Jogailaičio išduotas aktas, todėl ryšys su target aiškus, bet dokumentinis.","isPrimary":0},{"mediaId":"m-96e827a2c461b90141a4f08e","title":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","caption":"Aleksandro Jogailaičio herbinis antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu, 1492–1506 m.","originalTitle":"Seal with the coat of arms of Aleksandras Jogailaitis with the Polish Eagle and Lithuanian Vytis (Waykimas), 1492-1506.jpg","creator":"Unknown author Unknown author","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"Hubert-herald.nl","dateDisplay":"1492-1506","dateStart":null,"dateEnd":null,"width":481,"height":576,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3ASeal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/b/bc/Seal_with_the_coat_of_arms_of_Aleksandras_Jogailaitis_with_the_Polish_Eagle_and_Lithuanian_Vytis_%28Waykimas%29%2C_1492-1506.jpg","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"jogailaičiai","label":"Jogailaičiai","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"karalius","label":"karalius","facetKind":"tema","confidence":0.95},{"code":"kunigaikštis","label":"kunigaikštis","facetKind":"tema","confidence":0.95},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T11:56:26.080572+03:00","reviewedAt":"2026-07-11T19:57:48.027748+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matosi apvalaus antspaudo atspaudas su karūnuotu herbu centre, ketvirčiuotu skydu, heraldiniais gyvūnais ir užrašo žiedu aplink kraštą.","metadataEvidence":"Pavadinimas ir aprašas tiesiogiai nurodo, kad tai Aleksandro Jogailaičio herbinis antspaudas su Lenkijos Ereliu ir Lietuvos Vyčiu, datuojamas 1492–1506 m., t. y. jo valdymo laikotarpiu.","confidenceLevel":"high","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.95,"sourceMethod":"media_collector","judgeModel":"gpt-5.5","judgeReason":"Konkretus ryšys su target įrodytas metaduomenimis ir vaizdo turiniu: tai ne atsitiktinis simbolis, o Aleksandro Jogailaičio valdovo antspaudas, todėl priimtina kaip kontekstinis objektas.","isPrimary":0},{"mediaId":"m-547e7226472ac5ae9878a6e7","title":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","caption":"Lietuvos didysis antspaudas su Vyčiu, naudotas Aleksandro Jogailaičio valdymo metu, 1503 m.","originalTitle":"The Great Seal of Lithuania with Lithuanian Vytis (Waykimas) in the centre, used during the reign of Aleksandras Jogailaitis, 1503.gif","creator":"Alexander Jagiellon (1461 – 1506)","provider":"commons","providerLabel":"Wikimedia Commons","license":"Public domain","rightsNote":"Public domain","licenseUrl":"","attribution":"7md.lt","dateDisplay":"1503","dateStart":null,"dateEnd":null,"width":199,"height":201,"canonicalUrl":"https://commons.wikimedia.org/wiki/File%3AThe_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","sourceUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","thumbUrl":"https://upload.wikimedia.org/wikipedia/commons/d/db/The_Great_Seal_of_Lithuania_with_Lithuanian_Vytis_%28Waykimas%29_in_the_centre%2C_used_during_the_reign_of_Aleksandras_Jogailaitis%2C_1503.gif","institution":"","collection":"","country":"","language":"","tags":[{"code":"antspaudas","label":"antspaudas","facetKind":"vaizdo_tipas","confidence":1.0},{"code":"waykimas","label":"Waykimas","facetKind":"tema","confidence":0.95},{"code":"antspaudas","label":"antspaudas","facetKind":"tema","confidence":0.95},{"code":"didysis-lietuvos-antspaudas","label":"didysis Lietuvos antspaudas","facetKind":"tema","confidence":0.95},{"code":"heraldika","label":"heraldika","facetKind":"tema","confidence":0.95},{"code":"lietuva","label":"lietuva","facetKind":"tema","confidence":0.95},{"code":"lietuvos_didžioji_kunigaikštystė","label":"lietuvos-didžioji-kunigaikštystė","facetKind":"tema","confidence":0.95},{"code":"simbolis","label":"simbolis","facetKind":"tema","confidence":0.95},{"code":"valdovas","label":"valdovas","facetKind":"tema","confidence":0.95},{"code":"valdovo-antspaudas","label":"valdovo-antspaudas","facetKind":"tema","confidence":0.95},{"code":"vytis","label":"vytis","facetKind":"tema","confidence":0.95},{"code":"didysis-antspaudas","label":"didysis antspaudas","facetKind":"tema","confidence":0.82},{"code":"sfragistika","label":"sfragistika","facetKind":"tema","confidence":0.82}],"relatedObjects":[{"notePath":"objektai/asmenys/Aleksandras Jogailaitis.md","title":"Aleksandras Jogailaitis","itemType":"asmuo","relationType":"seal_of","directness":"contextual"}],"firstDiscoveredAt":"2026-07-11T17:21:47.168853+03:00","reviewedAt":"2026-07-11T19:42:40.568889+03:00","visualReviewVersion":"media-visual-validator-v1","visualEvidence":"Matomas raudonas vaškinis antspaudas su sudėtinga kompozicija ir centriniu Vyčio motyvu.","metadataEvidence":"Pavadinimas ir aprašas nurodo, kad tai Lietuvos didysis antspaudas, naudotas Aleksandro Jogailaičio valdymo metu 1503 m.","confidenceLevel":"medium","relationType":"seal_of","directness":"contextual","reviewStatus":"accepted","confidence":0.82,"sourceMethod":"theme_media_crawl_v1","judgeModel":"gpt-5.5","judgeReason":"Priimtina kaip aiškiai su Aleksandro valdymu susietas antspaudas, nors pats vaizdas nėra valdovo portretas.","isPrimary":0}]
 ---
 # Aleksandras Jogailaitis
 
 ## Santrauka
 
-Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniaus dovanojimus ir suteikęs privilegijų prekybai, miestiečių buičiai bei laivybai Vilija iki Kauno. Jo vedybos su Elena turėjo slopinti vaidus su Ivanu Vasiljevičiumi, tačiau kartu praplėtė Vilniaus ryšius su Rusios miestais ir paskatino Svečių namų rusų pirkliams steigimą. Pasakojime išryškėja ir valdovo silpnumas: totorių grėsmė, Michało Balińskio minėta ryžto stoka, liga Vilniuje ir mirtis Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio…
+Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi laivyba Vilija, vedė Eleną ir Vilnių pasirinko nuolatiniam gyvenimui. Pasakojime taip pat pabrėžiama jo ligos, 1506 m. Kłecko pergalės žinios ir mirties Žemutinėje Vilniaus pilyje aplinkybės.
 
 ## Variantai
 
@@ -64,210 +74,244 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
       - Michał Baliński, Vilniaus miesto istorija (2007 m.)
 
 ## Teiginiai
+
 <a id="claim-t-54935"></a>
 - t-001
   global_id: t-54935
-  teiginys: '1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.'
+  teiginys: "1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį."
   pagrindžia:
-    - c-001
+    - c-55307
 
 <a id="claim-t-54936"></a>
 - t-002
   global_id: t-54936
-  teiginys: 'Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.'
+  teiginys: "Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal."
   pagrindžia:
-    - c-001
+    - c-55307
 
 <a id="claim-t-54937"></a>
 - t-003
   global_id: t-54937
-  teiginys: 'Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
+  teiginys: "Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
   pagrindžia:
-    - c-007
+    - c-78658
 
 <a id="claim-t-54938"></a>
 - t-004
   global_id: t-54938
-  teiginys: 'Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.'
+  teiginys: "Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams."
   pagrindžia:
-    - c-002
+    - c-55309
 
 <a id="claim-t-54939"></a>
 - t-005
   global_id: t-54939
-  teiginys: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
+  teiginys: "Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi."
   pagrindžia:
-    - c-003
+    - c-55310
 
 <a id="claim-t-54940"></a>
 - t-006
   global_id: t-54940
-  teiginys: 'Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos.'
+  teiginys: "Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos."
   pagrindžia:
-    - c-004
+    - c-55311
 
 <a id="claim-t-54941"></a>
 - t-007
   global_id: t-54941
-  teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
+  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros."
   pagrindžia:
-    - c-016
+    - c-78667
 
 <a id="claim-t-54942"></a>
 - t-008
   global_id: t-54942
-  teiginys: 'Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę.'
+  teiginys: "Aleksandras pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena atgaivino sostinę."
   pagrindžia:
-    - c-005
+    - c-55313
 
 <a id="claim-t-82170"></a>
 - t-009
   global_id: t-82170
-  teiginys: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
+  teiginys: "Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui."
   pagrindžia:
-    - c-010
+    - c-78661
 
 <a id="claim-t-82171"></a>
 - t-010
   global_id: t-82171
-  teiginys: 'Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
+  teiginys: "Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį."
   pagrindžia:
-    - c-006
+    - c-78657
 
 <a id="claim-t-82172"></a>
 - t-011
   global_id: t-82172
-  teiginys: 'Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų.'
+  teiginys: "Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų."
   pagrindžia:
-    - c-017
+    - c-78668
 
 <a id="claim-t-82173"></a>
 - t-012
   global_id: t-82173
-  teiginys: 'Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
+  teiginys: "Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną."
   pagrindžia:
-    - c-007
+    - c-78658
 
 <a id="claim-t-82174"></a>
 - t-013
   global_id: t-82174
-  teiginys: 'Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.'
+  teiginys: "Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus."
   pagrindžia:
-    - c-019
+    - c-78670
 
 <a id="claim-t-82175"></a>
 - t-014
   global_id: t-82175
-  teiginys: 'Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.'
+  teiginys: "Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui."
   pagrindžia:
-    - c-012
+    - c-78663
 
 <a id="claim-t-82176"></a>
 - t-015
   global_id: t-82176
-  teiginys: 'Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.'
+  teiginys: "Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis."
   pagrindžia:
-    - c-009
+    - c-78660
 
 <a id="claim-t-82177"></a>
 - t-016
   global_id: t-82177
-  teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.'
+  teiginys: "Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį."
   pagrindžia:
-    - c-016
+    - c-78667
 
 <a id="claim-t-82178"></a>
 - t-017
   global_id: t-82178
-  teiginys: 'Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.'
+  teiginys: "Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių."
   pagrindžia:
-    - c-018
+    - c-78669
 
 <a id="claim-t-82179"></a>
 - t-018
   global_id: t-82179
-  teiginys: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
+  teiginys: "Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu."
   pagrindžia:
-    - c-013
+    - c-78664
 
 <a id="claim-t-82180"></a>
 - t-019
   global_id: t-82180
-  teiginys: 'Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.'
+  teiginys: "Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą."
   pagrindžia:
-    - c-015
+    - c-78666
 
 <a id="claim-t-82181"></a>
 - t-020
   global_id: t-82181
-  teiginys: 'Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.'
+  teiginys: "Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai."
   pagrindžia:
-    - c-011
+    - c-78662
 
 <a id="claim-t-82182"></a>
 - t-021
   global_id: t-82182
-  teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
+  teiginys: "Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje."
   pagrindžia:
-    - c-014
+    - c-78665
 
 <a id="claim-t-82183"></a>
 - t-022
   global_id: t-82183
-  teiginys: 'Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.'
+  teiginys: "Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija."
   pagrindžia:
-    - c-008
+    - c-78659
 
 <a id="claim-t-184657"></a>
 - t-023
   global_id: t-184657
-  teiginys: 'Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu.'
+  teiginys: "Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu."
   pagrindžia:
-    - c-020
+    - c-168018
 
 <a id="claim-t-184658"></a>
 - t-024
   global_id: t-184658
-  teiginys: 'Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių.'
+  teiginys: "Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių."
   pagrindžia:
-    - c-021
+    - c-168019
 
 <a id="claim-t-184659"></a>
 - t-025
   global_id: t-184659
-  teiginys: 'Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą.'
+  teiginys: "Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą."
   pagrindžia:
-    - c-022
+    - c-168020
 
 <a id="claim-t-184660"></a>
 - t-026
   global_id: t-184660
-  teiginys: 'Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose.'
+  teiginys: "Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose."
   pagrindžia:
-    - c-023
+    - c-168021
 
 <a id="claim-t-184661"></a>
 - t-027
   global_id: t-184661
-  teiginys: 'Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.'
+  teiginys: "Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus."
   pagrindžia:
-    - c-024
+    - c-168022
 
 <a id="claim-t-184662"></a>
 - t-028
   global_id: t-184662
-  teiginys: 'Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba.'
+  teiginys: "Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba."
   pagrindžia:
-    - c-025
+    - c-168023
 
 <a id="claim-t-188510"></a>
 - t-029
   global_id: t-188510
-  teiginys: 'Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.'
+  teiginys: "Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija."
   pagrindžia:
-    - c-026
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
+    - c-171400
+
+<a id="claim-t-190845"></a>
+- t-030
+  global_id: t-190845
+  teiginys: "Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija."
+  pagrindžia:
+    - c-173727
+
+<a id="claim-t-193886"></a>
+- t-031
+  global_id: t-193886
+  teiginys: "APIE LENKUOS KARALIAUS OLBRACHTO IR JO BROLIO ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA SU MOLDAVUOS VAIVADA STEPONU Tą patį rudenį1 Lenkijos karaliaus Olbrachto ir jo brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto vai suvažiavo į pasitarimą2."
+  pagrindžia:
+    - c-176511
+
+<a id="claim-t-193887"></a>
+- t-032
+  global_id: t-193887
+  teiginys: "Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą."
+  pagrindžia:
+    - c-176512
+
+<a id="claim-t-193888"></a>
+- t-033
+  global_id: t-193888
+  teiginys: "Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje 1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus Albrechto dukters Elžbietos ketvirtasis sūnus."
+  pagrindžia:
+    - c-176513
+
+<a id="claim-t-193889"></a>
+- t-034
+  global_id: t-193889
+  teiginys: "Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų LDK žemių seimas Vilniuje, 1492.VII.18."
+  pagrindžia:
+    - c-176514
 - susijęs iš Borisovas: 1500 m. Borisove datuotu sprendimu karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną.
 - susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
@@ -290,6 +334,7 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
 - susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
 - susijęs iš Rusų žemė: Rusų žemė minima kaip Aleksandro, Elenos ir didikų lankytas regionas su Smolensku, Vitebsku ir Polocku.
 - susijęs iš Soroka: Soroka minima kaip didžiojo kunigaikščio Aleksandro planuoto žygio į Moldavijos žemę krypties orientyras.
+- susijęs iš Vilniaus pilys: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Maksimas Vasiljevičius.md#claim-t-87769|Maksimas Vasiljevičius]]: Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.
 - susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
@@ -328,13 +373,10 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
 - susijęs iš Užupis: 1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.
 - susijęs iš Užupis: 1493 m. Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui pievą Užupyje.
 - susijęs iš Vaivados malūnas Užupyje: 1493 m. Aleksandro Jogailaičio dovanojimo akte minima pieva ties Vaivados malūnu Užupyje.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
-- susijęs iš Vilniaus pilis pilys (sujungti pirminiai pavadinimai Vilniaus pilis; Vilniaus pilys): Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš Vilniaus pilis: Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.
 - susijęs iš Vilnius: Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.
 - susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
 - susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
 - susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
 - susijęs iš [[objektai/zodynas/avangardas.md#claim-t-187541|avangardas]]: Žvalgai Aleksandrui prie Bobro upės pranešė, kad jo kariuomenės avangardas buvo sumuštas ties Vedroša.
 - susijęs iš [[objektai/zodynas/dijokas.md#claim-t-187550|dijokas]]: Maskvos didžiojo kunigaikščio Ivano Vasiljevičiaus pasiuntinių grupėje su Elena į Lietuvą vyko dijokas Vasilijus Kulešinas.
@@ -342,6 +384,7 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176256|vietininkas]]: Aleksandras Jogailaitis nurodė, kad Vilniaus vaivados vietininkams nereikia mokėti po grašį nuo krovinio perkėloje ties Vilniumi.
 ## Reikšmingi paminėjimai
+
 - c-001
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -362,11 +405,13 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     visur atleidžiama nuo bet kokių mokesčių41.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
     - t-002
+
 - c-002
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -381,10 +426,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     savo atvykimą iškart pranešti pilininkui4 3  44.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-004
+
 - c-003
   santrauka: 'Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -400,10 +447,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     naudoti savo galios ir susidoroti su savo priešais.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-005
+
 - c-004
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -418,10 +467,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     aiškiaregystes sumokėjęs laisvė46.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-006
+
 - c-005
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
   citata_originali: |
@@ -435,10 +486,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     tinę.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: vertinimas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-008
+
 - c-006
   santrauka: 'Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -455,10 +508,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     Il indikte.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-010
+
 - c-007
   santrauka: 'Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -479,11 +534,13 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-012
     - t-003
+
 - c-008
   santrauka: 'Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -503,10 +560,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     siljevičiaus užmačių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-022
+
 - c-009
   santrauka: 'Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -548,10 +607,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     sicut expressum est ad tempora vitae suae.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-015
+
 - c-010
   santrauka: 'Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -572,10 +633,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     nebuvo, tas stebuklų neregėjo].
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-009
+
 - c-011
   santrauka: 'Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -635,10 +698,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     nių.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-020
+
 - c-012
   santrauka: 'Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -659,10 +724,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     rams numatytos bausmės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-014
+
 - c-013
   santrauka: 'Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -683,10 +750,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     Mstislavlis (vert.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-018
+
 - c-014
   santrauka: 'Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -717,10 +786,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     lėtoju ir į kapą nužengė triumfuodamas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-021
+
 - c-015
   santrauka: 'Aleksandras Jogailaitis pasirinko Vilnių nuolatiniam gyvenimui ir po vedybų su Elena išlaikė prabangų dvarą.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -736,10 +807,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     metais, palaidota graikų apeigų kop- dalį Švč.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-019
+
 - c-016
   santrauka: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 metų rugpjūčio 10-osios naktį.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -760,11 +833,13 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     dėl pavojingos Glinskio puikybės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-016
     - t-007
+
 - c-017
   santrauka: 'Dėl silpnos Aleksandro Jogailaičio valdžios Vilniaus miesto administracijoje įsitvirtino netvarka ir kilo kivirčų.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -780,10 +855,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-011
+
 - c-018
   santrauka: 'Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -806,10 +883,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     miestui padaryto.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-017
+
 - c-019
   santrauka: 'Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.'
   šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
@@ -839,10 +918,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     išpildyti.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-013
+
 - c-020
   santrauka: 'Kazimieras prieš mirtį prašė lietuvių paskelbti Aleksandrą Jogailaitį Lietuvos valdovu.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -860,10 +941,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     Aleksandrą pasirūpinti broliu Žygimantu.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-023
+
 - c-021
   santrauka: 'Kojelavičius Aleksandrą Jogailaitį vaizduoja kaip jaunuolį, turėjusį valdovui deramų savybių.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -881,10 +964,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     laukęs jo tėvas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-024
+
 - c-022
   santrauka: 'Aleksandras Jogailaitis iš Vilniaus seimo buvo palydėtas į Šv. Stanislovo katedrą ir pasodintas į tėvo sostą.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -905,10 +990,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     katedrą ir pasodino į tėvo sostą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-025
+
 - c-023
   santrauka: 'Aleksandras Jogailaitis apie pralaimėjimą sužinojo prie Bobro upės ir įrengė karo stovyklą Obolcuose.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -925,10 +1012,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     galėjau.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-026
+
 - c-024
   santrauka: 'Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -955,10 +1044,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-027
+
 - c-025
   santrauka: 'Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba.'
   šaltinis: Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)
@@ -978,10 +1069,12 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     pagarba ir pasisodino dešinėje.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-028
+
 - c-026
   santrauka: 'Valdant karaliui Aleksandrui Jogailaičiui, jo įsakymu pagoniškos šventyklos vietoje Ramygalos parapijoje buvo pastatyta filija.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -993,19 +1086,950 @@ Aleksandras Jogailaitis vaizduojamas kaip valdovas, 1492 m. patvirtinęs Vilniau
     toje buvo pastatyta filija .
     Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
     vių, kurios priklausė ugnies šventovėms piratėjoms.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-029
 
+- c-027
+  santrauka: 'Narbutas Aleksandrą Jogailaitį vadina karaliumi ir rašo, kad jo įsakymu pagoniškos šventyklos vietoje pastatyta filija.'
+  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)
+  citata_originali: |
+    Tai tik­
+    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
+    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
+    ir Zurblio (2urblis)
+    pievos.
+    Valdant
+    karaliui
+    Aleksandrui,
+    jo
+    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
+    ,9a Ludwik z Pokiewia.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-030
+
+- c-028
+  santrauka: 'APIE LENKUOS KARALIAUS OLBRACHTO IR JO BROLIO ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA SU MOLDAVUOS VAIVADA STEPONU Tą patį rudenį1 Lenkijos karaliaus Olbrachto ir jo brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto vai suvažiavo į pasitarimą2.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-031
+
+- c-029
+  santrauka: 'Ir didysis kunigaikštis Aleksandras, maty damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir ties perduoti etmono vietą.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-032
+
+- c-030
+  santrauka: 'Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje 1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus Albrechto dukters Elžbietos ketvirtasis sūnus.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
+    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
+    Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
+    vo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: saltinio_teiginys
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-033
+
+- c-031
+  santrauka: 'Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų LDK žemių seimas Vilniuje, 1492.VII.18.'
+  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-034
+
+## Citatos
+
+- id: c-55307
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    III KNYGA
+    Iki tol (1492 m.) didžiųjų Lietuvos kunigaikščių Vilniui
+    duoti dovanojimai buvo ne tik patvirtinti karaliaus Alek­
+    sandro, Kazimiero įpėdinio, bet dar pasipildė naujais, tu­
+    rėjusiais gerokai pagyvinti prekybą ir pagerinti šio miesto
+    gyventojų buitį. Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54935
+    - t-54936
+
+- id: c-55309
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Deja, vestuvių linksmybes drumsdavo dažni uošvio ir žen­
+    to ginčai, ir po kelerių metų (1500 m.) anoji sutartis su caru
+    buvo nutraukta. Tačiau Aleksandro ir Elenos santuoka išplė­
+    tė prekybinius Vilniaus santykius su Rusios miestais ir ska­
+    tino steigti naujas užeigas pirkliams, atvykstantiems į Lie­
+    tuvos sostinę iš Maskvos, Naugardo, Pskovo ir Tverės.
+    Karalius leido miestui pastatyti Svečių namus, kuriuose rusų
+    pirkliai privalėdavo apsistoti, sumokėti prekių muitą ir apie
+    savo atvykimą iškart pranešti pilininkui4 3  44.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54938
+
+- id: c-55310
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tarp Aleksan­
+    dro ir jo uošvio vyko nuolatinės rietenos. Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54939
+
+- id: c-55311
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau Aleksandro planai pasirodė esą klaidingi, nes
+    totoriai, nepaisydami grasinimų, jog Šach Achmedas bet ka­
+    da gali būti išlaisvintas ir kenkti jiems, netrukus su didžiu­
+    lėmis pajėgomis įsiveržė į Lietuvą. Karalių tuo metu ėmė
+    kamuoti sunki liga; jau anksčiau ištiktas paralyžiaus, Vil­
+    niuje jis vis labiau juto negalią. Nepagelbėjo jam ir iš Kroku­
+    vos pakviestas tuose kraštuose pagarsėjęs ano meto alche­
+    mikas Balinskis, vėliau už gydymo nesėkmę ar už savo
+    aiškiaregystes sumokėjęs laisvė46.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54940
+
+- id: c-55313
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Toksai pagrindinės valdžios nutolimas
+    nuo sostinės galėjo turėti blogos įtakos jos gerovei.
+    Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­
+    tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti,
+    miestas neplečiamas ir negražinamas. Tik Aleksandras, nuo­
+    latiniam gyvenimui pasirinkęs Vilnių ir po savo vedybų su
+    Elena išlaikydamas prabangų dvarą, pirmasis atgaivino sos­
+    tinę.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-54942
+
+- id: c-78657
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    PATS ALEKSANDRAS,
+    DIEVO MALONE DIDYSIS LIETUVOS,
+    RUSIOS, ŽEMAIČIŲ IR KITŲ
+    KUNIGAIKŠTIS
+    Vilniaus vaivadai mūsų kancleriui ponui Mikalojui Rad­
+    vilai. Dovanojame Vilniaus miestiečiui Maksimui Vasiljevi-
+    čiui šienaujamą pievą palei tavo malūną prie kelio, vedan­
+    čio iš miesto į Užupį, už Vilnelės. Tai davėme jam ir jo
+    vaikams visiems laikams. Rašytas Vilniuje, sausio 13 dieną,
+    Il indikte.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82171
+
+- id: c-78658
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    229
+
+    ## Puslapis 246
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    su Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­
+    kreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai
+    ir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­
+    tarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­
+    džiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m.)
+    balandžio 18 d. amžinos taikos sutartį su caru pasirašė Lie­
+    tuvos pasiuntiniai: Petras Białas, Trakų vaivada ir Stanis­
+    lovas Goštautas, Žemaičių seniūnas, Aleksandras prisie­
+    kė Vilniuje, iš Maskvos atvykusių pasiuntinių akivaizdoje.
+  citata_rodoma: "229\n\n## Puslapis 246\n\nVILNIAUS MIESTO ISTORIJA II TOMAS\nsu Taurijos chanu Mendli Girėjumi prieš Aleksandrą, nu­\nkreipė visą jo dėmesį į save. Tarp jų kilo audringi vaidai \nir, norėdamas juos sėkmingai užgesinti, Aleksandras nu­\ntarė to siekti, vesdamas Ivano Vasiljevičiaus dukterį di­\ndžiąją kunigaikštytę Eleną. Pirmiausia Maskvoje (1494 m."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82173
+    - t-54937
+
+- id: c-78659
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Ta pačia privilegija, kuria Vilniui buvo
+    duotos Magdeburgo teisės (Trakuose, 1492 m.), Aleksan­
+    dras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo
+    metu vadintą Zabójnica (žudike), panaikindamas visas pri­
+    vačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­
+    mazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­
+    kymu, buvo kuo rūpestingiausiai garantuojama laisva
+    laivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­
+    niaus miestiečių laivams su prekėmis, o keliantis perkėla
+    visur atleidžiama nuo bet kokių mokesčių41. Toks didžio­
+    jo kunigaikščio Aleksandro rūpinimasis savo sostinės
+    gyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va-
+    siljevičiaus užmačių.
+  citata_rodoma: "), Aleksan­\ndras suteikė miestui laisvę laikyti vaško dirbtuvę, anuo \nmetu vadintą Zabójnica (žudike), panaikindamas visas pri­\nvačias, išskyrus Karališkąją, Vyskupo ir Vaivadų bei Mal­\nmazijos ir kitų bet kokios rūšies vynų propinaciją40. Jo įsa­\nkymu, buvo kuo rūpestingiausiai garantuojama laisva \nlaivyba Vilija nuo Vilniaus iki Kauno ir atgal visiems Vil­\nniaus miestiečių laivams su prekėmis, o keliantis perkėla \nvisur atleidžiama nuo bet kokių mokesčių41. Toks didžio­\njo kunigaikščio Aleksandro rūpinimasis savo sostinės \ngyventojų gerove buvo nutrauktas grėsmingų caro Ivano Va- \nsiljevičiaus užmačių."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82183
+
+- id: c-78660
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Todėl mes,
+    Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios, Prūsijos, Žemaitijos ir 1.1, kunigaikštis. Ponas
+    ir tėvonis. Amžinai dalykų atminčiai. Šiuo raštu skelbiame
+    visiems, kam dabar ar ateityje reikės žinoti, kad atsižvelg­
+    damas į šviesiausiosios karalienės, mūsų brangiausiosios
+    žmonos, ponios Elenos meilumą ir vedybinę ištikimybę ir
+    norėdamas ją apdovanoti ir pradžiuginti mūsų geradarybė,
+    jai dovanojome, užrašėme ir šiuo raštu duodame, užrašome
+    ir dovanojame tik tam laikui, kol bus gyva, Mogiliavo pilį,
+    stovinčią šalia Dniepro upės, su visomis žemėmis, ir kitas
+    valdas, prie šios pilies nuo seno esančias ir jai priklausan­
+    čias su žmonėmis ir jų patarnavimais bei darbais, činšais,
+    pajamomis, mokesčiais - ar grašiais, ar medumi, rinkliavo­
+    mis, dvareliais, dirvomis, laukais ir ganyklomis, gervuogių
+    krūmais, krūmynais, miškeliais, miškais, gojais, šilais, bity­
+    nais, bebrų, laukinių žvėrių ir paukščių medžiokle, miškų
+    aptvarais, krūmais, vandenimis, upėmis, tvenkiniais, eže­
+    rais, upeliais, upeliūkščiais, žuvingomis kūdromis, žūkla-
+    vimu, malūnais ir jų produktais, apskritai, su visais priklau-
+    siniais, priedėliais ir visais priedais, kad ir kokiu vardu jie
+    365
+
+    ## Puslapis 382
+
+    VILNIAUS MIESTO ISTORIJA// TOMAS
+    et appendicibus universis, quocunque nomine aliter nuncu­
+    patis, ad expressum castellum Mobilow quomodolibet ex an­
+    tiquo spectantibus; et pertinentibus, quae sunt, et in poste­
+    rum quocunque ingenio, ac industria bumana fieri, et angeri
+    possint, ita late, longe, et circumferentialiter prout ipsa bona
+    in suis graniciebus limitata sunt, et distincta per expressum —
+    illustrissimam Helenam Reginam Consortem nostram haben­
+    dum, tenendum, utifruendum pacifice, et quiete possidendum,
+    sicut expressum est ad tempora vitae suae.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82176
+
+- id: c-78661
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Krymo totorių
+    orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes,
+    paklūstančias Aleksandro skeptrui, ir kilo grėsmė Kijevui.
+    Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus
+    Mendli Girėjaus priešas, savo pajėgomis rėmė lietuvius, -
+    Aleksandro veiksmams stigo ryžto ir, nors buvo išrinktas
+    Lenkijos karaliumi (1501 metais), jis vis dėlto negebėjo pa­
+    naudoti savo galios ir susidoroti su savo priešais. Šach Ach­
+    medas, apleistas sąjungininko, Mendli Girėjaus sumuštas,
+    43
+    Žinome, kad Maskvoje iki šiol dar
+    išlikęs priežodis: Kto w Wilnie nie by­
+    wał, tot czudes nie widał [Kas Vilniuje
+    nebuvo, tas stebuklų neregėjo].
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82170
+
+- id: c-78662
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Bet, kai totoriai didele
+    *
+    Karalienė Elena pati savo lėšomis
+    pastatydino atskirą namą Vilniaus
+    pilyje, skirtą apsistoti pas ją iš Mask­
+    vos atvykstantiems bojarinams ir pa­
+    siuntiniams. Knygoje, apimančioje
+    Lietuvos Metrikos archyvo sąrašą,
+    apie jį yra tokia žinia: „Namui Vil­
+    niaus pilyje, kur Maskvą laiko, ger­
+    biamas Janas Filipovičius, daktaras,
+    kustodas ir Vilniaus kanauninkas
+    (Jan Philipowicz Doctor Custos i Cano-
+    nik Wileński), pardavė savo paveldė­
+    tą sklypą Vilniaus pilyje su mūriniu
+    rūsiu karalienei Elenai už devynias­
+    dešimt kapų amžina teise", Vilniu­
+    je, vasario 12-tą dieną, 12 indikte, su
+    antspaudu. Raidė aa.
+    45
+    Stryjkowski edyc.Warsz., 1.678.
+    46
+    Aleksandras iš Balino Balinskis, Kro­
+    kuvos bajoraitis nuo Olkušo, pa­
+    skendęs alchemijoje, ėmė taip gar­
+    sėti savo gydymo sėkme, kad, nors
+    vargšus ir Krokuvos miestiečius vel­
+    tui gelbėjęs patarimais bei vaistais,
+    tačiau, kai ir turtingieji pradėjo prie
+    jo skverbtis, nevengdamas prisi­
+    kimšti kišenes, ėmęs nuo jų po 100
+    dukatų. Miechovita, Bielskis, o ypač
+    Strijkovskis savo metraščiuose, su­
+    pykę už karaliaus Aleksandro gydy­
+    mą Vilniuje, kuris vos neužduso per
+    ilgai laikomas stiprių žolių garo vo­
+    nioje, savo metraščiuose vadino jį
+    233
+
+    ## Puslapis 250
+
+    VILNIAUS MIESTO ISTORIJA II TOMAS
+    banga vėl plūstelėjo į Lietuvą, karalius Aleksandras, nors
+    ir nusilpęs, kad sutaikytų susipykusius bajorus su Glins­
+    kiu, savo numylėtiniu, ir paakintų juos atremti pagonis, pa­
+    judėjo iš Vilniaus į Lydą. Tačiau neilga buvo karaliaus vieš­
+    nagė šioje pilyje, kadangi, vos dienai praėjus, pakeliui
+    piešdami ir degindami, prie Lydos prisiartino Krymo cha­
+    no sūnūs su 20 000 totorių. Kilo didelis pavojus karaliaus
+    saugumui, tad Aleksandras, ponų patarimu, kariuomenei
+    vadovauti pavedęs etmonui Kiškai ir kunigaikščiui Glins­
+    kiui, pats galutinai paliegęs lektikoje buvo nugabentas į Vil­
+    nių.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82181
+
+- id: c-78663
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Transilvanijos kunigaikštis. Šiuo raštu skel­
+    biame visiems ir kiekvienam, kam dera žinoti, kad pas mus
+    ir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems
+    senjorams* ir visam mūsų Vilniaus miesto auksakalių ce­
+    chui, buvo pakviestas garsusis Steponas Genseris, auksaka­
+    lys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį
+    turėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip
+    pat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro,
+    mūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­
+    to auksakalių cechui duotai ir mūsų patvirtintai privilegi­
+    jai, nebijodamas toje pačioje privilegijoje nedrausmingiems,
+    besiverčiantiems auksakalystės menu nesilaikant civilinės
+    teisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­
+    rams numatytos bausmės.
+  citata_rodoma: "Šiuo raštu skel­\nbiame visiems ir kiekvienam, kam dera žinoti, kad pas mus \nir į mūsų teismą raštišku šaukimu, reikalaujant garbiesiems \nsenjorams* ir visam mūsų Vilniaus miesto auksakalių ce­\nchui, buvo pakviestas garsusis Steponas Genseris, auksaka­\nlys, tiek dėl jo paties, tiek dėl jo nekilnojamojo turto, jei kokį \nturėtų. Už tai, kad jis nepakluso Lenkijos karaliaus it taip \npat didžiojo Lietuvos kunigaikščio šviesiausiojo Aleksandro, \nmūsų pirmtako, minėtiems senjorams ir mūsų Vilniaus mies­\nto auksakalių cechui duotai ir mūsų patvirtintai privilegi­\njai, nebijodamas toje pačioje privilegijoje nedrausmingiems, \nbesiverčiantiems auksakalystės menu nesilaikant civilinės \nteisės ir atsiskyrusiems nuo Vilniaus auksakalių cecho meist­\nrams numatytos bausmės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82175
+
+- id: c-78664
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Mes, Aleksandras, Dievo malone didysis
+    Lietuvos, Žemaitijos, Rusios, Kijevo ir 1.1, kunigaikštis. Po­
+    nas ir tėvonis. Šiuo raštu skelbiame visiems, kam dabar ar
+    ateityje reikės žinoti, kad, kai mes įsitikinome šviesiausio­
+    sios ponios Elenos, Dievo malone didžiosios kunigaikštie­
+    nės, brangiausios mūsų žmonos, vedybine meile ir jos išti­
+    kimybe, norėdami ją mūsų malone ir geradarybe
+    pradžiuginti ir ja pasirūpinti, jai ir jos palikuonims [dova­
+    nojame] turtus ar dvarus su visomis žemėmis, vadinamus
+    Kniazičiai ir Teterinas, bei pilį, vadinamą Popova Hura, ku­
+    riuos anksčiau valdė Seisla vo* kunigaikštis Ivanas Jurgėvi-
+    čius, ir kitas valdas, nuo seno priklausančias tiems patiems
+    *
+    Mstislavlis (vert.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82179
+
+- id: c-78665
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Gausūs Krymo ordos ka­
+    rių būriai susirėmė su mūsiškiais ties Kłecku, ir lemtinga
+    Lietuvos pergalė, pasiekta 1506 metų rugpjūtį, ir ateityje
+    užkirto šiems azijiečiams kelią į artimiausias šios valsty­
+    bės vaivadijų sostines47. Ši trokštama žinia jau merdintį
+    Aleksandrą pasiekė Vilniuje. Nors visą gyvenimą nebuvo
+    lemta laimėti karų, paskutinę savo valandą pasijuto nuga-
+    sukčiumi ir šimtininku. Tačiau, ob- vo įkalintas. Pagaliau, turtą išleidęs
+    jektyviai vertinant, tai buvo iliuzio- auksui daryti ir alcheminiams ban-
+    nistas, prisisiurbęs keisto mokslo tai- dymams, kaip karšinčius savo die-
+    syklių, kurias anais laikais tiek kartų nas baigė besiginčydamas su Kroku-
+    įrodė ir gydė taip, kaip šiandieniniai vos miestiečiais dėl pinigų.
+    Le Roi ir homeopatijos mėgėjai. Sun- 47
+    kiai atkentėjo Balinskis už savo gydy- Strijkovskis savo metraštyje,
+    mo ir alchemijos aistrą; pirmiausia po 1. 681-687, plačiai ir ganėtinai žais-
+    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
+    niuje iki pat Žygimanto atvykimo, o pergalę.
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
+
+    ## Puslapis 251
+
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82182
+
+- id: c-78666
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Iš daugelio didžiųjų kunigaikščių privilegijų ir ediktų ma­
+    tyti, kad čia gerokai sumažėjo gyventojų, pastatai apleisti,
+    miestas neplečiamas ir negražinamas. Tik Aleksandras, nuo­
+    latiniam gyvenimui pasirinkęs Vilnių ir po savo vedybų su
+    Elena išlaikydamas prabangų dvarą, pirmasis atgaivino sos­
+    tinę. Kai kurie karaliaus potvarkiai dėl prekybos ir daugybės
+    48
+    Karalienė Elena mirė Vilniuje 1513 gavusi iš vyro, 1510 metais jai skyrė
+    metais, palaidota graikų apeigų kop- dalį Švč.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82180
+
+- id: c-78667
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    681-687, plačiai ir ganėtinai žais-
+    karaliaus mirties sėdėjo kalėjime Vii- mingai eilėmis aprašo šią svarbią
+    niuje iki pat Žygimanto atvykimo, o pergalę.
+    paskui, sugrįžęs į Krokuvą, vėl bu-
+    234
+
+    ## Puslapis 251
+
+    III KNYGA
+    lėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­
+    tinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o
+    jo palaikai iškart buvo palaidoti koplyčioje, prie katedros,
+    greta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą
+    dėl pavojingos Glinskio puikybės.
+  citata_rodoma: "paskui, sugrįžęs į Krokuvą, vėl bu-\n234\n\n## Puslapis 251\n\nIII KNYGA\nlėtoju ir į kapą nužengė triumfuodamas. Mirė karalius Žemu­\ntinėje Vilniaus pilyje 1506 metų rugpjūčio 10 dienos naktį, o \njo palaikai iškart buvo palaidoti koplyčioje, prie katedros, \ngreta Šv. Kazimiero, nes lietuviai bijojo jį vežti į Krokuvą \ndėl pavojingos Glinskio puikybės."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82177
+    - t-54941
+
+- id: c-78668
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Šio išmintingo karaliaus nuopel­
+    nas - vietinio Lietuvos ūkio pradmenys bei tvarka jos sosti­
+    nėje.
+    Netvarka ir apsileidimas, įsitvirtinę miesto administra­
+    cijoje dėl silpnos karaliaus Aleksandro valdžios, ir iš to nuolat
+    kylantys kivirčai tarp miesto valdžios ir Vilniaus gyventojų
+    privertė Žygimantą Senąjį įvesti naują ir griežtą tvarką. 1536
+    metų rugsėjo 9 dieną, lankydamasis Vilniuje, jis įsakė, pri­
+    tariant karalienei Bonai, paskelbti naujus miesto įstatymus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82172
+
+- id: c-78669
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Aleksandro Jogailaičio nerūpestingumas ir išlaidumas vė­
+    liau, valdant Žygimantui, sukėlė diskusiją apie Vilniaus sau­
+    gumui ir patogumui svarbų objektą, kurio vardas - Vingrių
+    šaltiniai. Jų vandenys kadaise priklausė miestui, bet, laikui
+    bėgant, tapo Švč. Trejybės klebonijos nuosavybe. Aleksan­
+    dras, toje vietoje įkurdinęs dominikonus, Vingrių šaltinių
+    nesugrąžino miestui, bet sutiko juos kartu su klebonija
+    6
+    Tai matyti iš Žygimanto Senojo 1536
+    metų rugpjūčio 29 dienos (Archiwum
+    Miejs. MSS.) privilegijos patvirtini­
+    mo, leidžiančio parduoti plytinę ir
+    žemes, esančias už Vilijos, ant kal­
+    no priešais tiltą, - tais pačiais me­
+    tais kunigaikščio Poznanės vyskupo,
+    miestui padaryto.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82178
+
+- id: c-78670
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Quem quidem vitae spiritum
+    368
+
+    ## Puslapis 385
+
+    IV KNYGA
+    Vardan Viešpaties Amen. Amžinai dalykų atminčiai.
+    Aleksandras, Dievo malone Lenkijos karalius, didysis Lie­
+    tuvos, Rusios, Prūsijos kunigaikštis. Ponas ir tėvonis. Skel­
+    biame visiems ir kiekvienam, norėsiančiam su šiuo raštu su­
+    sipažinti. Kad mes mūsų senatorių ir žemiau surašytųjų
+    liudytojų akivaizdoje, nors ir esame kūnu nusilpę, tačiau su
+    sąmone ir sveiko proto, iš anksto rūpindamiesi, kad mirties
+    galios, kurios valdžiai pagal gyvybės ir laikinumo neišven­
+    giamus dėsnius paklūsta visa, kas sukurta, netikėtai iš šio
+    mirties patalo ir laikinosios Didenybės šlovės nebūtume pa­
+    imti, ir trokšdami, taip, kaip katalikiškajam karaliui bei aukš­
+    čiausiajam kunigaikščiui, taip pat ir bet kuriam mirtinga­
+    jam krikščioniui derėtų, paskutiniais mūsų karališkais
+    nurodymais tiek siela, tiek kilnojamuoju ir nekilnojamuoju
+    turtu pasirūpinti visomis tinkamesnėmis priemonėmis - tei­
+    se, nurodymu ir raštu, įsakėme ateityje, po mūsų mirties,
+    išpildyti.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-82174
+
+- id: c-168018
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 538"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 538."
+  citata_originali: |
+    Kai gydytojas Jokūbas Zaleskis, palieptas atvirai išklo­
+    ti, ar karalius atlaikys ligą, nieko gero negalėjo paža­
+    dėti, karalius pasakė: „Vadinasi, reikia mirti" ir visą
+    savo dėmesį nukreipė į paskutiniuosius mirtingųjų rū­
+    pesčius. Sudaręs testamentą, visus pinigus, po ranka
+    turimus, padalijęs tarp čia pat esančių sūnų, kreipėsi į
+    lenkų didikus, prašydamas, kad, jam mirus, paskirtų
+    sosto įpėdiniu Joną, o po to, beveik ašarodamas, tarė
+    trumpą kalbą lietuviams, reikalaudamas, kad Aleksand­
+    rą paskelbtų Lietuvos valdovu. Paskui paragino Joną ir
+    Aleksandrą pasirūpinti broliu Žygimantu.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184657
+
+- id: c-168019
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 540"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 540."
+  citata_originali: |
+    Gerokai nesutarė tie, kurie, visaip meilin-
+    damiesi, tylomis medžiojo sau kitų balsus, ir tie, kurie
+    atvirai siūlė Simoną Olelkaitį. Vis dėlto šiuos užmojus
+    sutramdė dar tebegyva jų širdyse Kazimiero įtaka ir
+    pagarba jam: jie negalėjo aplenkti jo sūnų, ypač Alek­
+    sandro, kurį paskutinę gyvenimo valandą Kazimieras
+    priešmirtiniais žodžiais jiems pasiūlė į valdovus. Be to,
+    ir pats Aleksandras, jaunikaitis, kupinas valdovui de­
+    ramų savybių, žadino viltį, jog per savo gabumus susi­
+    lauks tokios pat sėkmės, kokios iš pradžių buvo susi­
+    laukęs jo tėvas.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184658
+
+- id: c-168020
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Akivaizdus ir nepaprastas tautos pritarimas
+    ju  k u n ig a ik ščiu
+    susirinko į Vilniaus seimą. At­
+    vyko ir tokie žymūs vyrai,
+    5 4 2
+
+    ## Puslapis 541
+
+    neleido atidėlioti vainikavimo
+    P a k ėlim a s į so stą
+    dienos: iš tos vietos, kur po­
+    sėdžiavo seimas, valdovo ap­
+    daru pasipuošusį Aleksandrą palydėjo į šv. Stanislovo
+    katedrą ir pasodino į tėvo sostą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184659
+
+- id: c-168021
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 560"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 560."
+  citata_originali: |
+    Atvestas pas Ivaną, Konstan­
+    tinas, tironui įsakius, turėjo iškęsti neapsakomus kan­
+    kinimus: ne tik kojas jam it vergui surakino grandinė­
+    mis, bet ir rankas užlaužė už nugaros ir nelyginant
+    raiščiais apliejo ištirpintu švinu. Apie šį pralaimėjimą
+    Aleksandras sužinojo prie Bobro upės; norėdamas su­
+    stabdyti priešo žygį, jis įtaisė karo stovyklą Obolcuo-
+    se. Kodėl vėliau Aleksandras su kariuomene patraukė
+    link Polocko, nei kur parašyta radau, nei pats atspėti
+    galėjau.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184660
+
+- id: c-168022
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
+  citata_originali: |
+    Neatsispyręs kas dieną girdimiems Glinskio
+    klastingiems
+    raginimams,
+    Karalius
+    pasmerkia
+    Aleksandras pasmerkė mir-
+    mirčiai
+    žymiausius
+    čiai Žemaitijos seniūną Sta-
+    Lietuvos didikus
+    nislovą Žarnovskį, Smolens­
+    ko vietininką Stanislovą Kiš­
+    ką, Polocko vaivadą Stanislovą Glebavičių, Lietuvos
+    maršalą Joną Zaberezinskį ir kitus to paties luomo ir
+    tos pačios minties žmones. Jis sušaukė Breste seimą,
+    ketindamas kokia nors dingstimi sukviesti ten žymiau­
+    sius didikus į pilį, suimti ir išžudyti. Nieko nežinoda­
+    mi apie karaliaus sumanymus, į seimą kaip paprastai
+    suvažiavo gausybė bajorų, tačiau, karalystės kanclerio
+    Jono Laskio laiku įspėti, išsisukinėjo kviečiami į pilį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184661
+
+- id: c-168023
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 579"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 579."
+  citata_originali: |
+    Į seimą atvyko iš Vilniaus
+    Skitas Sich Achmetas
+    Šich Achmetas, Užvolgio ski-
+    tariasi su karaliumi
+    tų valdovas, o šiuo metu
+    Breste ir Radome
+    tremtinys ir beveik belaisvis.
+    Aleksandras jį pasitiko už
+    penkių mylių: pastačius plyname lauke puošnią pala­
+    pinę, jo laukė prie plačiu kilimu užtiesto kelio, kuriuo
+    Sich Achmetas, palikęs žirgą, turėjo pėsčiomis eiti prie
+    karaliaus. Aleksandras Šich Achmetą priėmė su didele
+    pagarba ir pasisodino dešinėje.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-184662
+
+- id: c-171400
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 276"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 276."
+  citata_originali: |
+    Tai tikriausiai pati seniausia šventovė Že­
+    maitijoje, Ramygalos parapijoje, tarp Nevėžio ir Agluonos upių,
+    Vilkatupės (Wilkotupy) ežero ir Žurblio (Žurblis) pievos. Val­
+    dant karaliui Aleksandrui^ jo įsakymu, pagoniškos šventyklos vie­
+    toje buvo pastatyta filija .
+    Lietuviai dar turėjo kilnojamųjų, arba stovyklinių, švento­
+    vių, kurios priklausė ugnies šventovėms piratėjoms.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-188510
+
+- id: c-173727
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)"
+  puslapiai: "PDF 494"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.), PDF 494."
+  citata_originali: |
+    Tai tik­
+    riausiai pati seniausia šventovė Žemaitijoje, Ramygalos parapi­
+    joje, tarp Nevėžio ir Aluonos upių, Vilkatupės (Wilkotupy) ežero
+    ir Zurblio (2urblis)
+    pievos.
+    Valdant
+    karaliui
+    Aleksandrui,
+    jo
+    įsakymu, pagoniškos šventyklos vietoje buvo pastatyta filija19b.
+    ,9a Ludwik z Pokiewia.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-190845
+
+- id: c-176511
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    APIE LENKUOS KARALIAUS OLBRACHTO IR JO  BROLIO
+    ALEKSANDRO, LIETUVOS DIDŽIOJO KUNIGAIKŠČIO, KARA
+    SU MOLDAVUOS VAIVADA STEPONU
+    Tą patį rudenį1  Lenkijos karaliaus Olbrachto ir jo
+    brolio Lietuvos didžiojo kunigaikščio Aleksandro atsto­
+
+    ## Puslapis 146
+
+    vai suvažiavo į pasitarimą2 , ir abi šalys nutarė sušaukti
+    seimą Parčeve. Tą pačią žiemą didysis kunigaikštis
+    Aleksandras su didžiąja kunigaikštiene Elena bei su
+    didikais važiavo apžiūrėti Rusų žemės ir lankėsi Smo­
+    lenske, ir Vitebske, ir Polocke, ir pavasariop pargrįžo
+    j Vilnių 3 .
+    Septyni tūkstančiai ketvirtaisiais metais, o nuo Kris­
+    taus gimimo tūkstantis keturi šimtai devyniasdešimt
+    šeštaisiais didysis kunigaikštis Aleksandras išvyko
+    į Brastą \  o karalius Olbrachtas su jų broliu, karalai­
+    čiu Zigmantu — į Liubliną 5 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193886
+
+- id: c-176512
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    Ir didysis kunigaikštis Aleksandras, maty­
+    damas jį nebetvirtą esant, tarėsi su juo, kam po jo mir­
+    ties perduoti etmono vietą. Ponas Petras patarė per­
+    duoti Volynės kunigaikščiui Konstantinui Ostrogiš-
+    kiui2 4 . Ir pagal tą Trakų vaivados patarimą karalius
+    davė etmono vietą kunigaikščiui Konstantinui2 5 .
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193887
+
+- id: c-176513
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.)."
+  citata_originali: |
+    5 Trisdešimt vienerių metų Aleksandras (gimė Krokuvoje
+    1461.V1I1.5) buvo Lk ir Ldk Kazimiero ir Vokietijos im peratoriaus
+    Albrechto dukters Elžbietos ketvirtasis sūnus. Tėvui mirštant, bu­
+    vo n e  Gardine, o Vilniuje, paliktas ten karaliaus vietininku.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193888
+
+- id: c-176514
+  autorius: "Anoniminis metraštininkas"
+  šaltinis: "Lietuvos metraštis, Bychovco kronika (1971 m.)"
+  puslapiai: "PDF 305"
+  indeksas: "Anoniminis metraštininkas, Lietuvos metraštis, Bychovco kronika (1971 m.), PDF 305."
+  citata_originali: |
+    1 Lietuvos didžiuoju kunigaikščiu Aleksandrų patvtitino visų
+    LDK žemių seimas Vilniuje, 1492.VII.18.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-193889
+
 ## Ryšiai
 - Žmonos: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Sutuoktiniai: [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]]
-- Priešai: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]], [[objektai/asmenys/Zaberezinskis]]
 - Turėjo priklausinį: [[objektai/daiktai/Malūnas]]
-- Aleksandras Jogailaitis buvo valdovas [[objektai/vietos/Kijevas]], [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
-- Aleksandras Jogailaitis keliavo į [[objektai/vietos/Braclavas]], [[objektai/vietos/Parčevas]], [[objektai/vietos/Polockas]], [[objektai/vietos/Rusų žemė]], [[objektai/vietos/Soroka]], [[objektai/vietos/Vilnius]], [[objektai/vietos/Vitebskas]]
+- Aleksandras Jogailaitis buvo valdovas [[objektai/vietos/Lenkija]], [[objektai/vietos/Lietuva]]
+- Aleksandras Jogailaitis keliavo į [[objektai/vietos/Vilnius]]
 - Aleksandras Jogailaitis mirė [[objektai/vietos/Vilnius]]
 - Aleksandras Jogailaitis siuntė į [[objektai/vietos/Maskva]]
 - Aleksandras Jogailaitis gyveno [[objektai/vietos/Vilnius]]

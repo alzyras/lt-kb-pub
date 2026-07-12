@@ -5,6 +5,18 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Šešerių metų paliaubos tarp Lietuvos ir Maskvos
 
@@ -29,24 +41,23 @@ Nenurodyta
 <a id="claim-t-185678"></a>
 - t-001
   global_id: t-185678
-  teiginys: 'Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega.'
+  teiginys: "Lietuvos ir Maskvos paliaubų pasiuntinybei vadovavo Petras Miškovskis, Stanislovas Glebavičius, Vaitiekus Kločka ir Jonas Sapiega."
   pagrindžia:
-    - c-001
+    - c-169039
 
 <a id="claim-t-185679"></a>
 - t-002
   global_id: t-185679
-  teiginys: 'Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį.'
+  teiginys: "Lietuvos pasiuntiniams buvo nurodyta siekti, kad Maskvos valdovas atstatytų pilis, grąžintų belaisvius bei perbėgėlius ir įtrauktų Livonijos magistrą į sutartį."
   pagrindžia:
-    - c-002
+    - c-169040
 
 <a id="claim-t-185680"></a>
 - t-003
   global_id: t-185680
-  teiginys: 'Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos.'
+  teiginys: "Lietuva ir Maskva sutarė paliaubų metu derėtis dėl amžinos taikos."
   pagrindžia:
-    - c-003
-
+    - c-169041
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -75,6 +86,7 @@ Nenurodyta
     gomis.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -105,6 +117,7 @@ Nenurodyta
     pasiliko Maskvos rankose.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -125,7 +138,95 @@ Nenurodyta
     spiriama pereiti į Romos tikėjimą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-169039
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Pasiun­
+    tinybei vadovavo Petras Miškovskis, Lenčicos vaiva­
+    da, Stanislovas Glebavičius, Lietuvos maršalas, Vaitie­
+    kus Kločka, karalienės rūmininkas, Jonas Sapiega, Lie­
+    tuvos raštininkas. Išvykstantiems pasiuntiniams buvo
+    nurodyta, kad amžina taika galinti būti sudaryta, jei­
+    gu Maskvos valdovas priimsiąs šias svarbiausias są-
+    5 73
+
+    ## Puslapis 572
+
+    lygas: atstatyti pilis, sugrą-
+    Sudaro šešerių  m e tų
+    žinti belaisvius bei perbėgė-
+    pa lia u b a s
+    liūs ir įtraukti į sutarties
+    tekstą Livonijos riterių ma­
+    gistrą. Vargais negalais abi pusės sutarė dėl šešerių
+    metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
+    gomis.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185678
+
+- id: c-169040
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)."
+  citata_originali: |
+    Išvykstantiems pasiuntiniams buvo
+    nurodyta, kad amžina taika galinti būti sudaryta, jei­
+    gu Maskvos valdovas priimsiąs šias svarbiausias są-
+    5 73
+
+    ## Puslapis 572
+
+    lygas: atstatyti pilis, sugrą-
+    Sudaro šešerių  m e tų
+    žinti belaisvius bei perbėgė-
+    pa lia u b a s
+    liūs ir įtraukti į sutarties
+    tekstą Livonijos riterių ma­
+    gistrą. Vargais negalais abi pusės sutarė dėl šešerių
+    metų paliaubų, tiesa, gana bjauriomis Lietuvai sąly­
+    gomis. Pavyko atgauti vieną kitą nereikšmingą pilį,
+    bet neatgavo nei pabėgėlių, nei ištisų žemių, nei pa­
+    galiau didikų, prie Vedrošos paimtų į nelaisvę, kurie
+    pasiliko Maskvos rankose.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185679
+
+- id: c-169041
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 572"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 572."
+  citata_originali: |
+    Derantis dėl Livonijos, var­
+    gais negalais pavyko pasiekti, kad Naugardo ir Psko­
+    vo vaivadoms buvo įsakyta tartis su magistro atsto­
+    vais dėl taikos. Be to, sutarė paliaubų metu derėtis
+    dėl amžinos taikos. Po to į Vilnių atvyko Maskvos
+    pasiuntiniai, turėję patvirtinti paliaubas, tačiau labiau­
+    siai norėję gauti iš Krokuvos bei Vilniaus vyskupų
+    laidavimą, jog karalius neįeisiąs, kad karalienė būtų
+    spiriama pereiti į Romos tikėjimą.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185680

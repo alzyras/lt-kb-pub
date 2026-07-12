@@ -18,6 +18,18 @@ amziai:
   - 'XVII'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Petras Pliuščius
 
@@ -30,9 +42,9 @@ periodo_grupes:
 <a id="claim-t-87927"></a>
 - t-001
   global_id: t-87927
-  teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
+  teiginys: "Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų."
   pagrindžia:
-    - c-001
+    - c-83906
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87350|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: 1620 m. burmistrais buvo nurodyti katalikų atstovas Petras Pliuščius ir stačiatikių atstovas Leonas Mamoničius.
 - susijęs iš [[objektai/asmenys/Kiti priedo I vaitų ir burmistrų sąrašo kandidatai.md#claim-t-87351|Kiti priedo I vaitų ir burmistrų sąrašo kandidatai]]: Motiejus, arba Matas, Božiminskis 1597 m. karaliaus Zigmanto Vazos raštu iš Varšuvos buvo paskirtas Vilniaus vaitu.
 - susijęs iš [[objektai/asmenys/Leonas Mamoničius.md#claim-t-87915|Leonas Mamoničius]]: 1620 m. Leonas Mamoničius ėjo Vilniaus burmistro nuo stačiatikių pareigas.
@@ -64,10 +76,43 @@ periodo_grupes:
     11.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
 
-## Ryšiai
-- Petras Pliuščius valdė [[objektai/vietos/Vilnius]]
+## Citatos
+
+- id: c-83906
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    9. Motiejus (arba Matas) Božiminskis, iš bajorų,
+    paskirtas karaliaus Zigmanto Vazos raštu,
+    rašytu spalio 30 d. iš Varšuvos -
+    Burmistras Kuzma Mamoničius -
+    10. Aleksandras Chaleckis, karaliaus dvariškis,
+    iš bajorų, Zigmanto Vazos lapkričio 10 d.
+    privilegija -
+    1597 m.
+    1600 m.
+    1610 m.
+    300
+
+    ## Puslapis 317
+
+    IV  KNYGA
+    Paliko vaito pareigas to paties karaliaus
+    sutikimu kovo 11 d. - 1620
+    Burmistrai: nuo katalikų - Petras Pliuščius - 1620
+    nuo stačiatikių - Leonas Mamoničius
+    11.
+  citata_rodoma: "300\n\n## Puslapis 317\n\nIV  KNYGA\nPaliko vaito pareigas to paties karaliaus \nsutikimu kovo 11 d. - 1620\nBurmistrai: nuo katalikų - Petras Pliuščius - 1620\nnuo stačiatikių - Leonas Mamoničius\n11."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-87927

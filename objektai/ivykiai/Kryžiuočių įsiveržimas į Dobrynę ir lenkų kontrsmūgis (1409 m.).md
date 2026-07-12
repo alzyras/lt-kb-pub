@@ -11,6 +11,18 @@ sukurta: ''
 atnaujinta: ''
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)
 
@@ -35,17 +47,16 @@ Nenurodyta
 <a id="claim-t-185601"></a>
 - t-001
   global_id: t-185601
-  teiginys: 'Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.'
+  teiginys: "Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį."
   pagrindžia:
-    - c-001
+    - c-168962
 
 <a id="claim-t-185602"></a>
 - t-002
   global_id: t-185602
-  teiginys: 'Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio.'
+  teiginys: "Karalius, labiau troškęs taikos nei karo, sutiko su kryžiuočiais sudaryti paliaubas iki kitų metų birželio."
   pagrindžia:
-    - c-002
-
+    - c-168963
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -64,6 +75,7 @@ Nenurodyta
     ties užėmė Zlotoriją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -87,7 +99,58 @@ Nenurodyta
     vėmis ir nuniokojo aplinkines žemes.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: saltinio_teiginys
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-168962
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 372"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 372."
+  citata_originali: |
+    Kai pasiuntinys išvyko, jis
+    Įsiv e ržia  į D o b ry n ę  ir
+    nedelsdamas įsakė pulkams
+    ją  u žim a
+    traukti į Lenkiją. Užpuolęs
+    Dobrynę užėmė ją ir sudegi­
+    no, išžudė visą įgulą ir nukovė seniūną Plominskį. Žiau­
+    riai nusiaubė Lipną ir Ripiną. Kai pasidavė Bobrovnikai
+    ir buvo išduotas Bidgoščius, po aštuonių dienų apsup­
+    ties užėmė Zlotoriją.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185601
+
+- id: c-168963
+  autorius: "Albertas Vijūkas-Kojelavičius"
+  šaltinis: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)"
+  puslapiai: "PDF 373"
+  indeksas: "Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.), PDF 373."
+  citata_originali: |
+    Tą rude­
+    nį jie būtų buvę galutinai su­
+    triuškinti, jeigu čekų karaliaus pasiuntiniai nebūtų su­
+    stabdę sėkmingo kariuomenės žygio. Kadangi karalius
+    labiau troško taikos nei karo, kryžiuočiai, pasirodžius
+    taikos prošvaistėms, be didelio vargo pasiekė, kad jis,
+    išleidęs iš rankų progą sėkmingai užbaigti karą, sutiko
+    sudaryti paliaubas, kurios turėjo trukti ligi kitų metų
+    birželio. Kol dar žinia apie šį susitarimą nebuvo pasie­
+    kusi Lietuvos, kunigaikštis Žygimantas Kaributaitis,
+    staiga įsiveržęs į Prūsiją, užėmė tris miestus su tvirto­
+    vėmis ir nuniokojo aplinkines žemes.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-185602

@@ -16,6 +16,18 @@ tags:
   - vyskupas
 amziai:
   - 'XVI'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Skapo sklypas
 
@@ -28,10 +40,9 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
 <a id="claim-t-86235"></a>
 - t-001
   global_id: t-86235
-  teiginys: '1573 m. kovo 26 d. kunigaikštis Kristupas kapitului mainais atidavė Skapo vardu vadintą sklypą Skapo gatvės kampe.'
+  teiginys: "1573 m. kovo 26 d. kunigaikštis Kristupas kapitului mainais atidavė Skapo vardu vadintą sklypą Skapo gatvės kampe."
   pagrindžia:
-    - c-001
-
+    - c-82214
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -50,7 +61,32 @@ Kunigaikštis Kristupas jai mainais atidavė savo sklypą, „einant Vyskupų ga
     Skapo vardu".
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-82214
+  autorius: "Michał Baliński"
+  šaltinis: "Michał Baliński, Vilniaus miesto istorija (2007 m.)"
+  indeksas: "Michał Baliński, Vilniaus miesto istorija (2007 m.)."
+  citata_originali: |
+    Tačiau 1573 metais
+    kovo 26 dieną su kapitula įsigaliojo
+    sutartis. Kunigaikštis Kristupas jai
+    mainais atidavė savo sklypą, „einant
+    Vyskupų gatve nuo Jo Didenybės Vil­
+    niaus vyskupo dvaro link prieglau­
+    dos ir Šv. Marijos Magdalenos baž­
+    nyčios, po dešine ranka Skapo gatvėje
+    ant paties kampo esantį ir vadinamą
+    Skapo vardu".
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-86235

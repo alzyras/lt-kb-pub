@@ -14,6 +14,18 @@ tags:
   - saltinis
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Savarankiškos LKP programa ir statutas
 
@@ -26,10 +38,9 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
 <a id="claim-t-21256"></a>
 - t-001
   global_id: t-21256
-  teiginys: 'Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP.'
+  teiginys: "Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP."
   pagrindžia:
-    - c-001
-
+    - c-23960
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -43,7 +54,29 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
     turinti reformuotą programą ir naują statutą.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-23960
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Komunistų partijos veiklai didelę įtaką turėjo 1989 m.
+    gruodį Vilniuje įvykęs LKP (turėjusios 200 tūkst. narių, iš kurių 70 proc.
+    lietuviai) XX suvažiavimas. Suvažiavimo metu „už savarankišką LKP, tu-
+    rinčią savo programą ir statutą“, iš 1 033 delegatų balsavo 855 ir LKP atsi-
+    skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,
+    turinti reformuotą programą ir naują statutą.
+  citata_rodoma: "skyrė nuo SSKP. Taip atsirado nacionalinė eurokomunistinio tipo partija,"
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-21256

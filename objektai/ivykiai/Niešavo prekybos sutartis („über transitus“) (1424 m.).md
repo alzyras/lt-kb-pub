@@ -16,6 +16,18 @@ tags:
   - ordinas
 amziai:
   - 'XV'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Niešavo prekybos sutartis („über transitus“) (1424 m.)
 
@@ -44,17 +56,16 @@ Nenurodyta
 <a id="claim-t-35870"></a>
 - t-001
   global_id: t-35870
-  teiginys: '1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.'
+  teiginys: "1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių."
   pagrindžia:
-    - c-001
+    - c-37041
 
 <a id="claim-t-35871"></a>
 - t-002
   global_id: t-35871
-  teiginys: 'Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus.'
+  teiginys: "Niešavos prekybos sutartis užbaigė lietuvių prekybą ilgai trikdžiusius neramumus."
   pagrindžia:
-    - c-002
-
+    - c-38321
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -71,6 +82,7 @@ Nenurodyta
     čiau išvardintuose kraštuose^4 ).
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -89,7 +101,54 @@ Nenurodyta
     diną ir galutinai atėmė iš jo Žemaitiją.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-37041
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Tiktai po Melno taikos, prasidėjus geriems Vytauto
+    santykiams su magistru Russdorfu, nebepasitaikė daugiau su­
+    varžymų ir represijų, kurios būtų palietusios vokiečių arba Lie­
+    tuvos pirklius. 1424 metais buvo dar padaryta prekybos sutar­
+    tis Niešavo miestelyje. Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ).
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35870
+
+- id: c-38321
+  autoriai: "A. Kučinskas; A. Šapoka; M. Krasauskaitė; P. Šležas; S. Sužiedėlis; V. Dėdinas; Zenonas Ivinskis"
+  redaktorius: "P. Šležas"
+  šaltinis: "Vytautas Didysis 1350-1430 (1930 m.)"
+  indeksas: "A. Kučinskas, A. Šapoka, M. Krasauskaitė, P. Šležas, S. Sužiedėlis, V. Dėdinas, Zenonas Ivinskis, Vytautas Didysis 1350-1430 (1930 m.)."
+  citata_originali: |
+    Čia aktu, pavadintu „über transitus“
+    (laisvas tranzitas), nustatyta, kad Lietuvos, Žemaičių, Lenkijos,
+    Maskvos ir Rusijos pirkliai galės visai laisvai prekiauti Vokie­
+    čių ir Livonijos Ordinų žemėse, o šių pastarųjų pirkliai — aukš­
+    čiau išvardintuose kraštuose^4 ). Tuo būdu buvo užbaigti painūs
+    ir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai
+    dabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­
+    diną ir galutinai atėmė iš jo Žemaitiją.
+  citata_rodoma: "Tuo būdu buvo užbaigti painūs\nir daug lietuvių prekybą trukdę neramumai. Lietuvos pirkliai\ndabar galėjo laisviau atsikvėpti Vytauto dėka, kuris įveikė Or­\ndiną ir galutinai atėmė iš jo Žemaitiją."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-35871

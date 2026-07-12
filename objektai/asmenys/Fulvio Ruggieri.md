@@ -19,6 +19,18 @@ amziai:
   - 'XVI'
 periodo_grupes:
   - 'LDK'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Fulvio Ruggieri
 
@@ -31,16 +43,23 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
 <a id="claim-t-78981"></a>
 - t-001
   global_id: t-78981
-  teiginys: 'Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą.'
+  teiginys: "Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą."
   pagrindžia:
-    - c-001
+    - c-76069
+
+<a id="claim-t-78981"></a>
+- t-002
+  global_id: t-78981
+  teiginys: "Fulvio Ruggieri 1572 m. aprašė Lenkijos ir Lietuvos kariuomenių struktūrą."
+  pagrindžia:
+    - c-76069
 
 <a id="claim-t-78983"></a>
 - t-003
   global_id: t-78983
-  teiginys: 'Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą.'
+  teiginys: "Fulvio Ruggieri 1572 m. aprašė kazokų ginkluotę ir kariavimo būdą."
   pagrindžia:
-    - c-002
+    - c-76071
 - susijęs iš Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
 - susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.)“ šiame veikale cituojamas chunk_0010: siauresnis to paties aprašymo išskyrimas apie artileriją.
 - susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): Fulvio Ruggieri 1572 m. aprašė, kad kavalerijoje kapitonas vadovavo šimtui raitininkų, o pėstininkų kapitonas paprastai turėjo 200 pėstininkų.
@@ -73,6 +92,7 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
     Gardino vaizdas.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -98,7 +118,61 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
     Rytietiška strėlinė.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-003
+
+## Citatos
+
+- id: c-76069
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    1560 m. Maskva tęsė karo puolimą Livonijoje. 1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,
+    didesnė dalis Livonijos tapo Lietuvos dalimi
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir
+    Lietuvos kariuomenių struktūrą:
+
+    „Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-
+    tui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai
+    vadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;
+
+    Gardino vaizdas.
+  citata_rodoma: "1561 m. sutartimi su LDK panaikinta Livonijos konfederacija,\ndidesnė dalis Livonijos tapo Lietuvos dalimi\n\nIštrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie Lenkijos ir\nLietuvos kariuomenių struktūrą:\n\n„Kiekvienas vaivada tarp savų viršiausias; kavalerija turi po kapitoną [Capitano] šim-\ntui raitininkų ir dviems šimtams vėliavininką; kiekvienas pėstininkų kapitonas paprastai\nvadovauja dviem šimtams pėstininkų, o kai kurie - trim šimtams;\n\nGardino vaizdas."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78982
+    - t-78981
+
+- id: c-76071
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Jungtinėje
+    kariuomenėje buvo 33180 karių
+    (daugiau nei devyniolika tūkstančių
+    kavalerijos ir apie keturiolika tūks-
+    tančių pėstininkų) LDK kariuomenę
+    sudarė 3350 husarų, 750 reitarų, 2200
+    kazokų ir totorių, 2350 pėstininkų. Iš
+
+    Ištrauka iš popiežiaus diplomato Fulvio Ruggieri (1572 m.) aprašymo apie
+    kazokų ginkluotę bei kariavimo būdą, kuriems už pagalbą Lenkijos-Lietuvos
+
+    valdovas moka atlygį.
+
+    Rytietiška strėlinė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-78983

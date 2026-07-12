@@ -5,6 +5,18 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)'
 sukurta: ''
 atnaujinta: ''
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Tasai ponas Volianskis šiandien yra žymiausias archeologas
 
@@ -13,16 +25,15 @@ atnaujinta: ''
 Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.
 
 ## Teiginiai
+
 <a id="claim-t-189590"></a>
 - t-001
   global_id: t-189590
-  teiginys: 'Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.'
+  teiginys: "Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu."
   pagrindžia:
-    - c-001
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  statusas: patvirtinta
-
+    - c-172476
 ## Reikšmingi paminėjimai
+
 - c-001
   santrauka: 'Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neišaiškintų paminklų šifruotoju ir geranorišku tautiečiu.'
   šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
@@ -34,8 +45,32 @@ Narbutas T. Volianskį laiške S. Daukantui vadino žymiausiu archeologu, neiša
     minga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta
     šiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­
     torikui didžiausią įspūdį.
-  citata_rodoma: ""
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-172476
+  autorius: "Teodoras Narbutas"
+  šaltinis: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)"
+  puslapiai: "PDF 71"
+  indeksas: "Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.), PDF 71."
+  citata_originali: |
+    Savo entuziazmu T. Narbutas pasidalijo ir su
+    S. Daukantu. Jis rašė: „Tasai ponas Volianskis šiandien yra žy­
+    miausias archeologas, iki šiol neišaiškintų paminklų šifruoto­
+    jas; jis -  mūsų tautietis, labai geranoriškas“46. Ši frazė itin reikš­
+    minga, jeigu prisiminsime tai, kas jau buvo anksčiau pasakyta
+    šiame rašinyje. Būtent T. Volianskio geranoriškumas darė is­
+    torikui didžiausią įspūdį.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-189590

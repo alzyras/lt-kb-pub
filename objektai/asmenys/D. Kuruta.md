@@ -8,6 +8,18 @@ atnaujinta: ''
 tags:
   - asmuo
   - mūšis
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # D. Kuruta
 
@@ -20,17 +32,16 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
 <a id="claim-t-40078"></a>
 - t-001
   global_id: t-40078
-  teiginys: 'Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.'
+  teiginys: "Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą."
   pagrindžia:
-    - c-001
+    - c-41883
 
 <a id="claim-t-40079"></a>
 - t-002
   global_id: t-40079
-  teiginys: 'Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.'
+  teiginys: "Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui."
   pagrindžia:
-    - c-002
-
+    - c-44314
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,6 +56,7 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
     ir ryte pulti Vilnių nuo Ukmergės pusės.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -78,7 +90,65 @@ Kuruta, bet pastarasis vadovavimą (laikinai) perdavė gabiam generolui leitenan
     žudiškose kautynėse.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
+
+## Citatos
+
+- id: c-41883
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Mūšio padariniai
+
+    Mūšiui pasibaigus, gen. ltn. D. Kuruta pri-
+    siminė, kad jis čia vyriausias ir įsakė sukilė-
+    lių persekiojimą nutraukti. Jis būgštavo, kad
+    sukilėliai gali atsitraukę naktį persitvarkyti
+    ir ryte pulti Vilnių nuo Ukmergės pusės.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40078
+
+- id: c-44314
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Pabūklo vamzdis
+
+    Granata ir parako užtaisas sujungti į vientisą „šovinį“
+
+    ## Puslapis 157
+
+    leitenantas grafas D. Kuruta,
+    bet pastarasis vadovavimą
+    (laikinai) perdavė gabiam
+    generolui leitenantui baro-
+    nui D. Osten-Sakenui.
+    Leibgvardijos lietuviškojo |
+    pėstininkų, Leibgvardijos
+    Podolės kirasyrų, atski-
+    rojo lietuviškojo korpuso
+    Vilniaus pėstininkų, 48-ojo
+    jėgerių pulkuose eiliniai
+    kareiviai, raiteliai, zemes-
+    nio laipsnio karininkai buvo 42
+    daugiausiai kilę iš Lietuvos.
+    Žiaurus likimas juos vertė
+    kautis prieš tautiečius brol-
+    žudiškose kautynėse.
+  citata_rodoma: "Pabūklo vamzdis\n\nGranata ir parako užtaisas sujungti į vientisą „šovinį“\n\n## Puslapis 157\n\nleitenantas grafas D. Kuruta,\nbet pastarasis vadovavimą\n(laikinai) perdavė gabiam\ngenerolui leitenantui baro-\nnui D. Osten-Sakenui."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-40079

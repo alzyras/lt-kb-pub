@@ -7,6 +7,18 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Vileniškis
 
@@ -19,17 +31,16 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
 <a id="claim-t-39668"></a>
 - t-001
   global_id: t-39668
-  teiginys: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio.'
+  teiginys: "Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais kelias valandas neleido lenkams prisiartinti prie traukinio."
   pagrindžia:
-    - c-001
+    - c-41472
 
 <a id="claim-t-183766"></a>
 - t-002
   global_id: t-183766
-  teiginys: 'Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos.'
+  teiginys: "Jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais buvo paliktas pridengti besitraukiančios traukinio įgulos."
   pagrindžia:
-    - c-002
-
+    - c-167154
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -42,6 +53,7 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     irgi sėkmingai pasitraukė.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
@@ -57,10 +69,42 @@ Priedangai buvo paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosva
     valandas neleido lenkams prisiartinti prie traukinio.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
 
-## Ryšiai
-- Vileniškis gynė [[objektai/grupes/Lenkai]]
+## Citatos
+
+- id: c-41472
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    Priedangai buvo
+    paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais. Jie dar kelias
+    valandas neleido lenkams prisiartinti prie traukinio. Vėliau, pasinaudoję prieblanda, jie
+    irgi sėkmingai pasitraukė.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-39668
+
+- id: c-167154
+  sudarytojas: "Karolis Zikaras"
+  šaltinis: "Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)"
+  indeksas: "Sud. Karolis Zikaras, Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)."
+  citata_originali: |
+    „Gedimino“ įgula atmušė dar kelias lenkų atakas, kovoms aprimus, traukinio vadas įsakė
+    įgulai nuimti ginkluotę, ir palikus traukinio vagonus, trauktis pėsčiomis. Priedangai buvo
+    paliktas jaunesnysis leitenantas Vileniškis su keliais kulkosvaidininkais. Jie dar kelias
+    valandas neleido lenkams prisiartinti prie traukinio.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-183766

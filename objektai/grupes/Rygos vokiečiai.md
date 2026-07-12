@@ -9,6 +9,18 @@ tags:
   - grupe
   - krikštas
   - tauta
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Rygos vokiečiai
 
@@ -21,10 +33,9 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
 <a id="claim-t-31351"></a>
 - t-001
   global_id: t-31351
-  teiginys: 'Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui.'
+  teiginys: "Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais nebuvo palanki Livonijos ordino magistrui Andriui von Stirlandui."
   pagrindžia:
-    - c-001
-
+    - c-33354
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -39,10 +50,33 @@ Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes ir magistrui Dani
     būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-33354
+  autorius: "Zenonas Ivinskis"
+  šaltinis: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)"
+  indeksas: "Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)."
+  citata_originali: |
+    Naudodamasis tokia savo priešų nesantaika, Mindaugas pirmasis iš
+    lietuvių kunigaikščių gelbėjosi iš savo sunkios padėties, kreipdamasis
+    į Livonijos ordino magistrą ir siųsdamas jam įvairių brangių dovanų^86.
+    Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes
+    ir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais
+    nebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog
+    būtinai jam reikia krikštytis^87 , magistras su juo padarė taiką.
+  citata_rodoma: "Mindaugui pavyko su Andrium von Stirland užmegzti kalbą, nes\nir magistrui Danieliaus ir Tautvilo sąjunga su Rygos vokiečiais\nnebuvo pakeliui. Įtikinęs Mindaugą, žadėjusį užrašyti žemių, jog\nbūtinai jam reikia krikštytis^87 , magistras su juo padarė taiką."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-31351
 
 ## Ryšiai
 - Sąjungininkai: [[objektai/asmenys/Tautvilas]]

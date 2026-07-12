@@ -16,6 +16,18 @@ tags:
   - mokslininkas
 amziai:
   - 'XX'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Susivienijimas Lietuvių Rymo Katalikų Amerikoje
 
@@ -28,10 +40,9 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
 <a id="claim-t-66151"></a>
 - t-001
   global_id: t-66151
-  teiginys: 'Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių.'
+  teiginys: "Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių turėjo 704 narius, o 1936 m. turėjo daugiau kaip 300 kuopų ir 20 000 narių."
   pagrindžia:
-    - c-001
-
+    - c-66462
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -49,7 +60,31 @@ Susivienijimas Lietuvių Rymo Katalikų Amerikoje iš pradžių teturėjo vos 70
     gresus.
   citata_rodoma: ''
   statusas: verified
-  patikimumo_lygis: vidutinis
+  teiginio_tipas: faktas
+  patikimumo_lygis: aukstas
   patikimumo_saltinis: ai
   pagrindžia:
     - t-001
+
+## Citatos
+
+- id: c-66462
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    **Susivienijimas Lietuvių Rymo Katalikų
+    Amerikoje** iš pradžių teturėjo vos 704 narius, o dabar turi
+    300 su viršum kuopų ir 20.000 narių. Turto jis turi apie 1.200.000
+    dolerių. Jo organas anksčiau buvo „Žvaigždė" ir „Drau-
+
+
+    gas", nuo 1917 metų tapo „Garsas". Susivienijimo pirmi-
+    ninku paprastai renkamas kunigas. Susivienijimas daro kon-
+    gresus.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-66151

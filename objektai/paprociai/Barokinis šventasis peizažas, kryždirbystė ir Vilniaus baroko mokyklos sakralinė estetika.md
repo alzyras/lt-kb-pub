@@ -11,11 +11,25 @@ date_end: '1787'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - kraštas
   - paprotys
+  - šventė
 amziai:
   - 'XVI'
   - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
 ---
 # Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika
 
@@ -48,17 +62,16 @@ Nenurodyta
 <a id="claim-t-67056"></a>
 - t-001
   global_id: t-67056
-  teiginys: 'Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko.'
+  teiginys: "Lietuvos barokas architektūroje perėjo nuo importo etapo prie savitos Vilniaus baroko mokyklos ir medinio provincijos baroko."
   pagrindžia:
-    - c-001
+    - c-67105
 
 <a id="claim-t-67057"></a>
 - t-002
   global_id: t-67057
-  teiginys: 'Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje.'
+  teiginys: "Lietuvoje barokas geriausiai matomas architektūroje, ypač bažnyčių architektūroje."
   pagrindžia:
-    - c-001
-
+    - c-67105
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -84,8 +97,42 @@ Nenurodyta
     bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
   citata_rodoma: ''
   statusas: verified
+  teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindžia:
     - t-002
     - t-001
+
+## Citatos
+
+- id: c-67105
+  autoriai: "Alfonsas Eidintas; Alfredas Bumblauskas; Antanas Kulakauskas; Mindaugas Tamošaitis"
+  šaltinis: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)"
+  indeksas: "Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)."
+  citata_originali: |
+    Ryčiausia ir šiauriausia Europoje
+    baroko architektūra
+    Baroko sąvoka, kaip minėjome, atėjusi iš meno, ypač iš ar-
+    chitektūros, istorijos, o pats žodis „barokas“ siejamas su isp. barrueco,
+    port. barroco, reiškiančiu netaisyklingos formos perlą. Lietuvoje barokas
+    geriausiai matomas architektūroje, ypač bažnyčių. Jis perėjo keletą raidos
+    tarpsnių – nuo kuklaus, dar Renesanso veikiamo baroko prie vėlyvojo, ra-
+    finuotai puošnaus baroko ir rokoko, nuo „importo“ etapo prie labai savitos
+    Vilniaus baroko mokyklos ir provincijos medinio baroko, nuo visuomenės
+    elitui kurto meno prie pačios liaudies barokinės kūrybos. Baroko interje-
+    rai įsiveržė į ankstesnių stilių mūro bažnyčias, barokas tapo reikšmingu
+    skulptūros ir tapybos stiliumi, atsirado nauja meno šaka – teatras, išplito
+    iki kasdienybės dalykų – baldų, indų, drabužių, knygų. Su baroku susiję
+    didieji liaudies meno reiškiniai – stogastulpiai su rūpintojėliais, pietomis ir
+    šventųjų skulptūrėlėmis. Susiformavo barokinis kraštovaizdis, kuriam bū-
+    dinga bažnyčios, vienuolynai, kalvarijos, koplyčios, koplytstulpiai, kryžiai –
+    „šventasis peizažas“, organiškai pritapęs prie natūralios aplinkos, o kryždir-
+    bystė išliko vienas svarbiausių lietuvių liaudies meno atpažinimo ženklų.
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-67057
+    - t-67056
