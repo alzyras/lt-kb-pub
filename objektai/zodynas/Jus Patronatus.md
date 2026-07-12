@@ -11,8 +11,8 @@ date_end: '1651'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - teisinis-terminas
   - sąvoka
-  - teisinė-praktika
 amziai:
   - 'XVI'
   - 'XVII'

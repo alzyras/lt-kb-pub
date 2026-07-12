@@ -16,10 +16,9 @@ date_end: '1557'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - valdovas
   - vieta
+  - gyvenvietė
+  - upė
 amziai:
   - 'XIV'
   - 'XVI'

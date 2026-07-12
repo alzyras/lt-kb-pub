@@ -12,9 +12,9 @@ date_end: '2000'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - ordinas
-  - pilis
+  - karas
 amziai:
   - 'XIV'
   - 'XX'

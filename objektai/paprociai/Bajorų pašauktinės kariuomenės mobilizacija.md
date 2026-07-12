@@ -9,6 +9,8 @@ date_start: '1506'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -14,8 +14,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - paliaubos
-  - sutartis
 amziai:
   - 'XX'
   - 'XXI'

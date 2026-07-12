@@ -10,6 +10,8 @@ date_start: '1545'
 date_end: '1546'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

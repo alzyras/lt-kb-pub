@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XV'

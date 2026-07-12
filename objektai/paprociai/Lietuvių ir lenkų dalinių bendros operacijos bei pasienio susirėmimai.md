@@ -11,6 +11,10 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - karyba
+  - paprotys
 amziai:
   - 'XX'
   - 'XXI'

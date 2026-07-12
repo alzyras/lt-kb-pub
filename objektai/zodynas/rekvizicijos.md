@@ -11,10 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
   - sąvoka
-  - valstybė
+  - ekonominis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

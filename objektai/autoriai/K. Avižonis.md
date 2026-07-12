@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
-  - valstybė
+  - karalius
 amziai:
   - 'XX'
 periodo_grupes:

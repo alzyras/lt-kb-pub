@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - pilis
-  - šeima
+  - karalius
 amziai:
   - 'XIV'
 periodo_grupes:

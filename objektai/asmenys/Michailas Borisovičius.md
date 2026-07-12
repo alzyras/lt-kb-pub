@@ -10,6 +10,9 @@ date_start: '1453'
 date_end: '1505'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XV'
   - 'XVI'

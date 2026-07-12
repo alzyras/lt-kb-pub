@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
+  - pareigūnas
 amziai:
   - 'XV'
 periodo_grupes:

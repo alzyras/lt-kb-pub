@@ -16,6 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - miestelis
 amziai:
   - 'XII'
   - 'XXI'

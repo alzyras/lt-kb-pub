@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - religinis-įvykis
 amziai:
   - 'XII'
 media_total_count: '0'

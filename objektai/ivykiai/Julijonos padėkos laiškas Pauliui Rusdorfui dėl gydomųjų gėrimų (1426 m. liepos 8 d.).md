@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
 amziai:
   - 'XIII'
   - 'XV'

@@ -16,7 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - valstybė
 amziai:
   - 'XIV'
 media_total_count: '0'

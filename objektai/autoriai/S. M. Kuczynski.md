@@ -9,6 +9,9 @@ date_start: '1965'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

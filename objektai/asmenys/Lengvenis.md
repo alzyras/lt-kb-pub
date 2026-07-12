@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kunigaikštis
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

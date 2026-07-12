@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XVI'

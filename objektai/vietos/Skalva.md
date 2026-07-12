@@ -12,10 +12,9 @@ date_end: '1259'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - karas
   - pilis
-  - valdovas
+  - vieta
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

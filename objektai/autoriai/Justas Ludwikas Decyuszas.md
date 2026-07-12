@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - karalius
-  - miestas
 amziai:
   - 'XIX'
 periodo_grupes:

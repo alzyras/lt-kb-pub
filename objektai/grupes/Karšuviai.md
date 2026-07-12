@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - tauta
   - grupe
-  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

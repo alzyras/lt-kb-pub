@@ -16,6 +16,9 @@ date_start: '1909'
 date_end: '1991'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XX'
 media_total_count: '0'

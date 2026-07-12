@@ -10,6 +10,9 @@ date_start: '1331'
 date_end: '1416'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
   - 'XV'

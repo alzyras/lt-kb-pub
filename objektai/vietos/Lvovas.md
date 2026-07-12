@@ -20,8 +20,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - vieta
+  - miestas
 amziai:
   - 'XIII'
   - 'XXI'

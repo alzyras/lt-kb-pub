@@ -15,6 +15,7 @@ atnaujinta: ''
 amziai:
   - 'XX'
 tags:
+  - kaimas
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

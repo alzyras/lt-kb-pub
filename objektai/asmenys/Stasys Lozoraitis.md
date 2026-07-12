@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - institucija
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

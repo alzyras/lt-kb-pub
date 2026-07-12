@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - popiežius
-  - tikėjimas
 amziai:
   - 'XV'
 media_total_count: '0'

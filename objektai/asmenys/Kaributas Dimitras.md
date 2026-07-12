@@ -10,6 +10,9 @@ date_start: '1380'
 date_end: '1404'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XIV'
   - 'XV'

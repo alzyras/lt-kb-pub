@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kraštas
-  - miestas
   - saltinis
 amziai:
   - 'XIX'

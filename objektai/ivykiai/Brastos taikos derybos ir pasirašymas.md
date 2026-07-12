@@ -11,7 +11,9 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
+  - diplomatinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

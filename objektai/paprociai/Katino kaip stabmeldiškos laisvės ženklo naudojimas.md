@@ -9,6 +9,9 @@ date_start: '1483'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tikėjimas
+  - paprotys
 amziai:
   - 'XV'
 media_total_count: '0'

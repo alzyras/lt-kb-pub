@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - dvasininkas
+  - rašytojas
 amziai:
   - 'XVI'
 periodo_grupes:

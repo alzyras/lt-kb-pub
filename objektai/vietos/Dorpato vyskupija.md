@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - valdovas
+  - regionas
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

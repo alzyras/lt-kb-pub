@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - institucija
+  - istorikas
+  - redaktorius
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

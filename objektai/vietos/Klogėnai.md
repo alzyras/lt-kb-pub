@@ -9,6 +9,8 @@ date_start: '1322'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,10 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - kunigas
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
   - 'XXI'

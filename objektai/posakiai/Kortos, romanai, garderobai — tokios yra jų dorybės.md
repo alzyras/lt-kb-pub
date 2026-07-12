@@ -9,6 +9,9 @@ date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - posakis
 amziai:
   - 'XIX'
 media_total_count: '0'

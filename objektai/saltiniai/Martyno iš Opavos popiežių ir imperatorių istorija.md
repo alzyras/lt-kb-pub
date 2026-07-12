@@ -15,10 +15,7 @@ date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - saltinis
 amziai:
   - 'XIII'
   - 'XIV'

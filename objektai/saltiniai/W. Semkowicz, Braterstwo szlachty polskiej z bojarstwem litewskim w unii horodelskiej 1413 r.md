@@ -11,7 +11,6 @@ date_end: '1914'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - saltinis
 amziai:
   - 'XV'

@@ -11,9 +11,8 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - miestas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XV'
   - 'XVIII'

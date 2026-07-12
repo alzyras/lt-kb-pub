@@ -13,7 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - valstybė
+  - politinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XX'
   - 'XXI'

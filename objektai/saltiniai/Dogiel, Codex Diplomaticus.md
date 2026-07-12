@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - saltinis
-  - vyskupas
+  - dokumentas
 amziai:
   - 'XV'
 media_total_count: '0'

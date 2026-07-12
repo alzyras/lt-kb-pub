@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kraštas
-  - miestas
+  - prekyba
   - paprotys
 amziai:
   - 'XVI'

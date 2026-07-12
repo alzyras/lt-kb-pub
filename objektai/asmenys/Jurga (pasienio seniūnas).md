@@ -9,6 +9,9 @@ date_start: '1449'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

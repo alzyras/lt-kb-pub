@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:

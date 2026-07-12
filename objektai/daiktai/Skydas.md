@@ -11,6 +11,9 @@ date_start: '2026'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ginklas
+  - daiktas
 amziai:
   - 'XXI'
 media_total_count: '0'

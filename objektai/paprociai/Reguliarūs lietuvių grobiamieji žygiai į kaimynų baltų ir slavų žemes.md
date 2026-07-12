@@ -9,6 +9,10 @@ date_start: '1183'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - karyba
+  - paprotys
 amziai:
   - 'XII'
 media_total_count: '0'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - institucija
-  - karalius
-  - kunigaikštis
+  - laidotuvės
+  - paprotys
+  - ritualas
 amziai:
   - 'XV'
 media_total_count: '0'

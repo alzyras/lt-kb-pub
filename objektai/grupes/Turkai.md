@@ -12,6 +12,8 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - tauta
+  - etninė-grupė
   - grupe
 amziai:
   - 'XIV'

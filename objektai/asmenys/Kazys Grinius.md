@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - seimas
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

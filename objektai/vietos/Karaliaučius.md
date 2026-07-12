@@ -29,6 +29,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - pilis
+  - sostinė
 amziai:
   - 'XII'
   - 'XIX'

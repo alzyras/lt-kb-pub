@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - ordinas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
 amziai:
   - 'XIII'
 media_total_count: '0'

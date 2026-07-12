@@ -11,8 +11,6 @@ date_end: '1217'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - pilis
   - saltinis
 amziai:
   - 'XIII'

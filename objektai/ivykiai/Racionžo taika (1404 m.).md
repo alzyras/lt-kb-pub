@@ -14,8 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - pilis
   - sutartis
 amziai:
   - 'XV'

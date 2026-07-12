@@ -11,6 +11,9 @@ date_start: '1794'
 date_end: '1864'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XVIII'
   - 'XIX'

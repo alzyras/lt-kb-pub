@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - mūšis
-  - ordinas
   - pilis
+  - vieta
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

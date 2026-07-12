@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dokumentas
+  - citata
   - posakis
-  - reforma
 amziai:
   - 'XVIII'
 media_total_count: '0'

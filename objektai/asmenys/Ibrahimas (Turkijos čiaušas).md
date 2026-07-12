@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - karalius
   - kunigaikštis
+  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:

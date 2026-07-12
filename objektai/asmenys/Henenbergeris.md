@@ -10,6 +10,9 @@ date_start: '1584'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
+  - istorikas
 amziai:
   - 'XVI'
 periodo_grupes:

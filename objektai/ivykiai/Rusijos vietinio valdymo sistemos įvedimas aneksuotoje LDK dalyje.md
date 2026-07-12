@@ -12,10 +12,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
-  - miestas
-  - teisinė-praktika
+  - reforma
+  - politinis-sprendimas
 amziai:
   - 'XVIII'
   - 'XXI'

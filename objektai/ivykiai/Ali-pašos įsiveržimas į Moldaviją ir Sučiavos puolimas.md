@@ -11,6 +11,9 @@ date_start: '1484'
 date_end: '1486'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

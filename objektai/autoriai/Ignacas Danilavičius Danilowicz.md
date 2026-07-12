@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
   - mokslininkas
-  - valstybė
 amziai:
   - 'D'
 periodo_grupes: []

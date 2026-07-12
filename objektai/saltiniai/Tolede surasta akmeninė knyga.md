@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - saltinis
-  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

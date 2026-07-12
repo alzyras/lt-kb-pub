@@ -11,10 +11,8 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
-  - institucija
-  - tauta
-  - valstybė
 amziai:
   - 'XIX'
   - 'XX'

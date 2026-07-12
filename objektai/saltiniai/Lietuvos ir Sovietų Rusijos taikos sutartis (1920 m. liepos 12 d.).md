@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
   - saltinis
-  - sutartis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - mūšis
 amziai:
   - 'XIII'
 periodo_grupes:

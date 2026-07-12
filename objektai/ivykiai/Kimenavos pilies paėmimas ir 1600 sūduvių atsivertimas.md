@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - pilis
-  - tikėjimas
 amziai:
   - 'XVI'
 media_total_count: '0'

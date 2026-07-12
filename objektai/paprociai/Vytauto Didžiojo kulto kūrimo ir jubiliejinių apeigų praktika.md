@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - socialinė-praktika
   - šventė
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

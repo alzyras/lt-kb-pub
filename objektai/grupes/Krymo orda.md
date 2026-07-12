@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - karalius
-  - kunigaikštis
 amziai:
   - 'XVI'
 media_total_count: '0'

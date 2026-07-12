@@ -12,9 +12,8 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
-  - kunigas
-  - mokslininkas
   - tauta
 amziai:
   - 'XIX'

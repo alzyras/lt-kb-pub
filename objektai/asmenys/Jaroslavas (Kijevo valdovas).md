@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
   - valdovas
-  - valstybė
 amziai:
   - 'XI'
 periodo_grupes:

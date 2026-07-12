@@ -9,6 +9,10 @@ date_start: '1813'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - ritualas
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

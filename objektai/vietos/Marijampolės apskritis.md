@@ -10,6 +10,9 @@ date_start: '1809'
 date_end: '1813'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - regionas
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

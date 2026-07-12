@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - miestas
-  - pilis
+  - vietovardis
   - sąvoka
 amziai:
   - 'XIII'

@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - valstybė
+  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - miestas
   - mūšis
 amziai:
   - 'XIV'

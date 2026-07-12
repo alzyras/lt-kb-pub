@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

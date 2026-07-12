@@ -11,6 +11,9 @@ date_start: '1569'
 date_end: '1837'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - skolinys
+  - sąvoka
 amziai:
   - 'XVI'
   - 'XIX'

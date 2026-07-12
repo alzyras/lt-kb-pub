@@ -9,6 +9,9 @@ date_start: '1546'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - priesaika
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

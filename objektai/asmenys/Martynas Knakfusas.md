@@ -10,7 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - vyskupas
 amziai:
   - 'XIX'

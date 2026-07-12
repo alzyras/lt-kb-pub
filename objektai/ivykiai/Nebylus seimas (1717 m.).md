@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - seimas
   - ivykis
-  - karalius
-  - valdovas
 amziai:
   - 'XVIII'
 media_total_count: '0'

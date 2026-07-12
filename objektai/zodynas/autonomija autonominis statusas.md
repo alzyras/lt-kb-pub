@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
-  - reforma
+  - politinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

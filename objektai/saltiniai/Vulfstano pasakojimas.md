@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - ežeras
-  - karas
-  - kraštas
+  - saltinis
 amziai:
   - 'IX'
 media_total_count: '0'

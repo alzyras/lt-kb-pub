@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kunigaikštis
-  - miestas
+  - mūšis
 amziai:
   - 'XVIII'
 media_total_count: '0'

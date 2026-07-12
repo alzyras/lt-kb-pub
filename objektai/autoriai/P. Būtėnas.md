@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - kraštas
+  - karys
+  - karalius
 amziai:
   - 'XX'
 periodo_grupes:

@@ -14,8 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - popiežius
   - sutartis
 amziai:
   - 'XIII'

@@ -9,6 +9,9 @@ date_start: '1534'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
+  - pareigūnas
 amziai:
   - 'XVI'
 periodo_grupes:

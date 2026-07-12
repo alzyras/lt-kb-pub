@@ -14,7 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - šeima
+  - dvaras
 amziai:
   - 'XIX'
 media_total_count: '0'

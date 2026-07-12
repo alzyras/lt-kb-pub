@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - sutartis
   - vieta
 amziai:
   - 'XIV'

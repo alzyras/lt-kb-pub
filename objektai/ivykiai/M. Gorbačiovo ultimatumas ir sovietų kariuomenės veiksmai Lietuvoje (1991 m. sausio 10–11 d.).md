@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - kraštas
-  - teisinė-praktika
+  - okupacija
 amziai:
   - 'XX'
 media_total_count: '0'

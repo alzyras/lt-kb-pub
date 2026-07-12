@@ -9,6 +9,9 @@ date_start: '1579'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kultūrinis-įvykis
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

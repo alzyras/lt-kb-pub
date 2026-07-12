@@ -11,7 +11,6 @@ date_end: '1764'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - dokumentas
   - saltinis
 amziai:

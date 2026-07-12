@@ -16,8 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
-  - sukilimas
+  - kariuomenė
 amziai:
   - 'XVII'
   - 'XXI'

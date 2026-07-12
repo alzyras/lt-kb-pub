@@ -14,8 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - sutartis
-  - valstybė
+  - politinė-grupė
 amziai:
   - 'XVI'
   - 'XXI'

@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - mūšis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

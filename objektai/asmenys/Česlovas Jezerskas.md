@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - seimas
+  - karys
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

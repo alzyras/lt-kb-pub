@@ -12,10 +12,10 @@ date_end: '1371'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
-  - tikėjimas
   - upė
+  - vieta
+  - žemė
 amziai:
   - 'XIII'
   - 'XIV'

@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - miestas
-  - pilis
 amziai:
   - 'XIV'
   - 'XV'

@@ -17,7 +17,6 @@ tags:
   - bajorija
   - grupe
   - tauta
-  - valstybė
 amziai:
   - 'XIX'
   - 'XX'

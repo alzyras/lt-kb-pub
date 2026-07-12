@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - pilis
+  - karas
+  - žygis
 amziai:
   - 'XIV'
 media_total_count: '0'

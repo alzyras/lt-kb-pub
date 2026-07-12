@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - miestas
   - vieta
 media_total_count: '0'

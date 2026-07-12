@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - pareigybė
   - sąvoka
-  - teisinė-praktika
-  - šventė
 amziai:
   - 'XVI'
 media_total_count: '0'

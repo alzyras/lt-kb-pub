@@ -14,9 +14,8 @@ date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - vieta
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

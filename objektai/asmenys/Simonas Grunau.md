@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - papuošalas
-  - šventė
+  - metraštininkas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

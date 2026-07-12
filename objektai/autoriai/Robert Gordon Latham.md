@@ -14,9 +14,9 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
   - mokslininkas
-  - šeima
+  - redaktorius
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

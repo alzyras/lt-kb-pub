@@ -11,10 +11,7 @@ date_end: '1550'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - reforma
   - saltinis
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -11,10 +11,8 @@ date_end: '1775'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - ivykis
-  - kraštas
-  - valstybė
+  - seimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

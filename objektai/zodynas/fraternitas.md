@@ -11,10 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - karalius
-  - seimas
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XX'
   - 'XXI'

@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - diplomatinis-įvykis
   - ivykis
 amziai:
   - 'XX'

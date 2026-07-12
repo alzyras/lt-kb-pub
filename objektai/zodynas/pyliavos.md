@@ -14,8 +14,7 @@ date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - miestas
+  - mokestis
   - sąvoka
 amziai:
   - 'XX'

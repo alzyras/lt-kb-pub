@@ -12,6 +12,9 @@ date_start: '1089'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XI'
 periodo_grupes:

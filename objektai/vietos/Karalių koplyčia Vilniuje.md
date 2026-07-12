@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - vieta
-  - šeima
+  - šventvietė
 amziai:
   - 'XVI'
 media_total_count: '0'

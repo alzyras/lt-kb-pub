@@ -21,6 +21,7 @@ media_all_json: |-
   []
 tags:
   - vieta
+  - gamtinis-objektas
 ---
 # Luononmaa sala
 

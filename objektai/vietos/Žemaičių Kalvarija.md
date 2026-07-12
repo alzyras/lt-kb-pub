@@ -24,7 +24,9 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
-tags: []
+tags:
+  - miestelis
+  - vieta
 ---
 # Žemaičių Kalvarija
 

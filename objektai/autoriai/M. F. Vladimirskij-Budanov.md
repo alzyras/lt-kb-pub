@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - teisinė-praktika
-  - valstybė
+  - istorikas
 amziai:
   - 'XIX'
   - 'XX'

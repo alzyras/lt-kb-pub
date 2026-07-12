@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - kalbininkas
 amziai:
   - 'XX'
 periodo_grupes:

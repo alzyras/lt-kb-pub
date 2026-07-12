@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - ministras
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -11,10 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - mūšis
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

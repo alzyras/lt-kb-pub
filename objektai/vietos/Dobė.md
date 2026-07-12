@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - teisinė-praktika
   - vieta
 amziai:
   - 'XIII'

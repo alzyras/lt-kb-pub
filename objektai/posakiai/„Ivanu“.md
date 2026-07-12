@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-  - valstybė
+  - frazė
 amziai:
   - 'XVII'
   - 'XVIII'

@@ -12,6 +12,7 @@ date_end: '1340'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kraštas
   - vieta
 amziai:
   - 'XIV'

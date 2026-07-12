@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
+  - mokestis
   - sąvoka
+  - ekonominis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

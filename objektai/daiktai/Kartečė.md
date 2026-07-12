@@ -9,6 +9,10 @@ date_start: '1602'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ginklas
+  - karo-reikmuo
+  - daiktas
 amziai:
   - 'XVII'
 media_total_count: '0'

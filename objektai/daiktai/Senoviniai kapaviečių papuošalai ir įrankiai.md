@@ -9,6 +9,10 @@ date_start: '1826'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - papuošalas
+  - įrankis
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

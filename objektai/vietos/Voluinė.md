@@ -24,7 +24,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - valstybė
   - vieta
 amziai:

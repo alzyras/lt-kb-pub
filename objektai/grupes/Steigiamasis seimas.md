@@ -16,8 +16,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
-  - seimas
+  - institucija
+  - politinė-grupė
 amziai:
   - 'XX'
 media_total_count: '0'

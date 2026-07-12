@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - paminklas
   - simbolis
+  - daiktas
 amziai:
   - 'XX'
 media_total_count: '0'

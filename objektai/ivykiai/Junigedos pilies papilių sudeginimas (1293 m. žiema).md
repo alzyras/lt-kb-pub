@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
-  - tikėjimas
+  - mūšis
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
 amziai:
   - 'XIV'
   - 'XV'

@@ -15,9 +15,9 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - institucija
+  - ministras
   - mokslininkas
+  - autorius
 amziai:
   - 'XX'
   - 'XXI'

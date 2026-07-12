@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
+  - pareigybė
   - sąvoka
 amziai:
   - 'XIX'

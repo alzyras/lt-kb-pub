@@ -11,10 +11,8 @@ date_end: '1921'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
+  - politinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XVI'
   - 'XX'

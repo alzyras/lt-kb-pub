@@ -7,7 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - pilis
+  - karo-reikmuo
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -16,8 +16,8 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - posakis
+  - formulė
 amziai:
   - 'XV'
 media_total_count: '0'

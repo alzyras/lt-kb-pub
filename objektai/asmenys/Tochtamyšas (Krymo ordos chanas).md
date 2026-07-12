@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - valdovas
 amziai:
   - 'XIV'
   - 'XV'

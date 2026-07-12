@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'

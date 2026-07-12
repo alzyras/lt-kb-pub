@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

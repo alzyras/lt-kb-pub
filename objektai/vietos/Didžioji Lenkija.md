@@ -15,8 +15,8 @@ date_end: '1431'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - unija
   - vieta
+  - regionas
 amziai:
   - 'XIII'
   - 'XV'

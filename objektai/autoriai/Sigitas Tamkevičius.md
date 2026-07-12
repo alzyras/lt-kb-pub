@@ -15,10 +15,9 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
   - kunigas
   - redaktorius
-  - valstybė
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

@@ -8,6 +8,9 @@ variantai:
 saltiniai:
   - 'objektai/saltiniai/Mūsų tautosaka, t.4 (1931).md'
 atnaujinta: '2026-07-12'
+tags:
+  - ūkio-įrankis
+  - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

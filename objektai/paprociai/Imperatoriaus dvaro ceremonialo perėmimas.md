@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - politinė-praktika
 amziai:
   - 'XV'
   - 'XVI'

@@ -10,6 +10,11 @@ date_start: '1488'
 date_end: '1544'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - karalius
+  - rašytojas
+  - asmuo
 amziai:
   - 'XV'
   - 'XVI'

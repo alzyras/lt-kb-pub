@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinis-įvykis
   - ivykis
-  - karalius
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

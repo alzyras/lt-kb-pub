@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - paprotys
   - teisinė-praktika
 media_total_count: '0'

@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - mūšis
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
+  - politinė-grupė
 amziai:
   - 'XVI'
 media_total_count: '0'

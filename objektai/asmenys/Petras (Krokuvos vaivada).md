@@ -9,6 +9,9 @@ date_start: '1266'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

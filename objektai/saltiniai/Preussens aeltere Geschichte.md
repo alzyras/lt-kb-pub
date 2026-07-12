@@ -11,10 +11,7 @@ date_end: '1808'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
   - saltinis
-  - valdovas
 amziai:
   - 'XIV'
   - 'XIX'

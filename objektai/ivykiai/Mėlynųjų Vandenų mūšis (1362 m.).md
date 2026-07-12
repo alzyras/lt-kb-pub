@@ -19,6 +19,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - mūšis
+  - žygis
 amziai:
   - 'XIV'
   - 'XXI'

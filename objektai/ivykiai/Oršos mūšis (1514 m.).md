@@ -17,7 +17,6 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - karas
   - mūšis

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - karinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

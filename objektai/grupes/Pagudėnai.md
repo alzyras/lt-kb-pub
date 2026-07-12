@@ -15,10 +15,8 @@ date_end: '1274'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gentis
   - grupe
-  - kunigaikštis
-  - miestas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

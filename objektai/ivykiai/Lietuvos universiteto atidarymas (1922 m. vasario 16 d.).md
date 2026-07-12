@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - mokslininkas
 amziai:
   - 'XX'
 media_total_count: '0'

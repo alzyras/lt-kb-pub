@@ -9,6 +9,9 @@ date_start: '1710'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-įvykis
+  - ivykis
 amziai:
   - 'XVIII'
 media_total_count: '0'

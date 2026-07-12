@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - politinis-sprendimas
+  - religinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

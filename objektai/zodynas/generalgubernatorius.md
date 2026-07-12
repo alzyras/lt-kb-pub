@@ -13,8 +13,8 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - sąvoka
+  - pareigybė
 amziai:
   - 'XIX'
 media_total_count: '0'

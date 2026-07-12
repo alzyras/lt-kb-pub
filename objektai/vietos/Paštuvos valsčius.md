@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
+  - kaimas
 amziai:
   - 'XIII'
   - 'XIV'

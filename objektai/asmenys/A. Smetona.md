@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - institucija
   - mokslininkas
 amziai:
   - 'XX'

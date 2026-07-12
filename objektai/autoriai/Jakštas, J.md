@@ -11,8 +11,8 @@ date_end: '1960'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

@@ -12,9 +12,6 @@ date_end: '1198'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - ordinas
-  - popiežius
   - posakis
 amziai:
   - 'XII'

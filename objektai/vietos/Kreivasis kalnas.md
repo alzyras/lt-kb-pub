@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gamtinis-objektas
   - vieta
 amziai:
   - 'XIV'

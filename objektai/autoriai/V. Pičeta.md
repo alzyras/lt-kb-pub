@@ -11,9 +11,8 @@ date_end: '1958'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - institucija
-  - reforma
 amziai:
   - 'XX'
 periodo_grupes:

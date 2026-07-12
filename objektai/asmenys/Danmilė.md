@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - krikštas
   - kunigaikštis
 amziai:
   - 'XIV'

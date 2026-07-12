@@ -9,6 +9,9 @@ date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
+  - pareigūnas
 amziai:
   - 'XIX'
 periodo_grupes:

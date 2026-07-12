@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - pilis
-  - tauta
+  - karas
+  - religinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

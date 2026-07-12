@@ -6,10 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - miestas
-  - pilis
-  - upė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

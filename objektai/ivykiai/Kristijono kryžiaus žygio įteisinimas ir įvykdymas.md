@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - popiežius
   - sutartis
+  - žygis
 amziai:
   - 'XIII'
 media_total_count: '0'

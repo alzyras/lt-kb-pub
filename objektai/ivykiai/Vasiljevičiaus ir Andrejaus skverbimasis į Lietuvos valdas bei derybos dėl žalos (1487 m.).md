@@ -9,6 +9,9 @@ date_start: '1487'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -9,6 +9,9 @@ date_start: '1331'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-terminas
+  - sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

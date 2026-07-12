@@ -11,7 +11,7 @@ date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

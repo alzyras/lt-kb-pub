@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - sutartis
+  - karys
 amziai:
   - 'XIII'
 periodo_grupes:

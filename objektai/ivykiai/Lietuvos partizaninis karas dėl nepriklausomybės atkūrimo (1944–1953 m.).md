@@ -15,10 +15,8 @@ date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - karas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

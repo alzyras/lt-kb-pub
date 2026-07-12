@@ -9,6 +9,9 @@ date_start: '1006'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - autorius
 amziai:
   - 'XI'
 periodo_grupes:

@@ -9,6 +9,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai: []
 periodo_grupes: []

@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - pilis
+  - pareigūnas
 amziai:
   - 'XIII'
 periodo_grupes:

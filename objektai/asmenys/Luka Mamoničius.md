@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
 amziai:
   - 'XVI'
 periodo_grupes:

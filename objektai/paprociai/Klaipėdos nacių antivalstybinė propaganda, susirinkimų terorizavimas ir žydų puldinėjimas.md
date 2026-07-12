@@ -11,10 +11,8 @@ date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - kraštas
   - paprotys
-  - sukilimas
+  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

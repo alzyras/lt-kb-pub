@@ -13,10 +13,8 @@ date_end: '1619'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - kunigaikštis
-  - miestas
+  - dokumentas
+  - saltinis
 amziai:
   - 'XVI'
   - 'XVII'

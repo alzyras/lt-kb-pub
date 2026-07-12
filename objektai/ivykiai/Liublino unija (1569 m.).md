@@ -14,10 +14,9 @@ date_end: '1795'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - diplomatas
+  - unija
   - ivykis
-  - karalius
+  - seimas
 amziai:
   - 'XIV'
   - 'XVIII'

@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - seimas
-  - tauta
 amziai:
   - 'XIX'
 periodo_grupes:

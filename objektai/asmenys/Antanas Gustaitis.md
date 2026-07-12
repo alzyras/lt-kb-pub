@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

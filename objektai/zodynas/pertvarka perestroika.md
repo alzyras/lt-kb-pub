@@ -11,8 +11,9 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
+  - istorinė-sąvoka
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

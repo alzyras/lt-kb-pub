@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karalius
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

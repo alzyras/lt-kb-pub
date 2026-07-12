@@ -10,7 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
   - vyskupas
 amziai: []
 periodo_grupes: []

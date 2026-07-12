@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - socialinė-praktika
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

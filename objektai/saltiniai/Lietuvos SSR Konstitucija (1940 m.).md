@@ -11,9 +11,7 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - saltinis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

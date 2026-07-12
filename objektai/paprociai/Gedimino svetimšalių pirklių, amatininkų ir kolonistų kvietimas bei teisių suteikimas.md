@@ -11,9 +11,6 @@ date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - paprotys
 amziai:
   - 'XIV'

@@ -13,9 +13,6 @@ date_end: '1575'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
-  - reforma
   - saltinis
 amziai:
   - 'XVI'

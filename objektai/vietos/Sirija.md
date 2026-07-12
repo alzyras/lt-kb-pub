@@ -12,10 +12,8 @@ date_end: '1836'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - ordinas
-  - popiežius
+  - vieta
+  - kraštas
 amziai:
   - 'XIII'
   - 'XIX'

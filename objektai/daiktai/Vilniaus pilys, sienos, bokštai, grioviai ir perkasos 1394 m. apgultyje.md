@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - miestas
-  - mūšis
 amziai:
   - 'XIV'
 media_total_count: '0'

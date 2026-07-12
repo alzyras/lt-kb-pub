@@ -10,6 +10,8 @@ date_start: '1443'
 date_end: '1923'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XV'
   - 'XX'

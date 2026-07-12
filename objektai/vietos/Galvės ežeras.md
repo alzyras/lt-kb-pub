@@ -16,6 +16,7 @@ tags:
   - ežeras
   - pilis
   - vieta
+  - miestas
 amziai:
   - 'XV'
   - 'XXI'

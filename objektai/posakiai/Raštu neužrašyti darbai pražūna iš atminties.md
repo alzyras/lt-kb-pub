@@ -9,6 +9,9 @@ date_start: '1536'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - posakis
 amziai:
   - 'XVI'
 media_total_count: '0'

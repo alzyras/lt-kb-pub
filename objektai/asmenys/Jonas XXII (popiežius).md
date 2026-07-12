@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
   - popiežius
   - valdovas
 amziai:

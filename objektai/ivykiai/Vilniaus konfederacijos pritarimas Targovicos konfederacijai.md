@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - valdovas
-  - vyskupas
 amziai:
   - 'XVIII'
 media_total_count: '0'

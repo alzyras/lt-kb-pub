@@ -13,10 +13,8 @@ date_end: '2001'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - grupe
   - institucija
-  - mokslininkas
 amziai:
   - 'XX'
   - 'XXI'

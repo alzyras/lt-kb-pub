@@ -12,10 +12,8 @@ date_end: '1997'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
   - sutartis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

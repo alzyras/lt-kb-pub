@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
   - sukilimas
 amziai:
   - 'XV'

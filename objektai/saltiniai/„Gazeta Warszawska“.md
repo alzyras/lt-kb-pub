@@ -10,6 +10,8 @@ date_start: '1856'
 date_end: '1859'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIX'
 media_total_count: '0'

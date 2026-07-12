@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

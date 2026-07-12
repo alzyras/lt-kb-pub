@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - karalius
-  - karas
 amziai:
   - 'XVIII'
 periodo_grupes:

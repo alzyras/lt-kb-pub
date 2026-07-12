@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
   - vieta
 media_total_count: '0'

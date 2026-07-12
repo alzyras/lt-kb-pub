@@ -19,7 +19,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
+  - valdovas
+  - karalius
 amziai:
   - 'XIII'
 periodo_grupes:

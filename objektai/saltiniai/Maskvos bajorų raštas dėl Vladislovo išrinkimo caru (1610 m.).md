@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - dokumentas
   - saltinis
 amziai:
   - 'XVII'

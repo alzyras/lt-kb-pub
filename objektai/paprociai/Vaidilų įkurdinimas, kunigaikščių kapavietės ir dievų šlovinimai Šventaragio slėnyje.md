@@ -11,10 +11,8 @@ date_end: '1697'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
   - paprotys
-  - tauta
+  - šeima
 amziai:
   - 'XII'
   - 'XVII'

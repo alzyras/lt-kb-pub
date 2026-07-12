@@ -9,6 +9,8 @@ date_start: '1940'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XX'
 media_total_count: '0'

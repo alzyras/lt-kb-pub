@@ -11,8 +11,8 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - sutartis
 amziai:
   - 'XX'
 periodo_grupes:

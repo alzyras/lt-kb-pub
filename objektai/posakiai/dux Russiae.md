@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - formulė
   - posakis
-  - tauta
-  - unija
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

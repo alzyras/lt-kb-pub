@@ -5,6 +5,9 @@ saltiniai:
   - 'Albertas Vijūkas-Kojelavičius, Lietuvos istorija (1989 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
+  - miestas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

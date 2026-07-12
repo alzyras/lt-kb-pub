@@ -12,10 +12,8 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - diplomatinis-įvykis
   - ivykis
-  - mokslininkas
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'

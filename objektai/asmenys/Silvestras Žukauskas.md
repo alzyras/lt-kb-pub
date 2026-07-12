@@ -11,10 +11,8 @@ date_end: '1916'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - karas
-  - reforma
-  - tikėjimas
 amziai:
   - 'XIX'
   - 'XX'

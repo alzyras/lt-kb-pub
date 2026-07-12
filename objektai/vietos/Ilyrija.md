@@ -9,6 +9,9 @@ date_start: '1190'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - vieta
 amziai:
   - 'XII'
 media_total_count: '0'

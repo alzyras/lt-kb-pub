@@ -10,6 +10,8 @@ date_start: '1799'
 date_end: '1848'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XVIII'
   - 'XIX'

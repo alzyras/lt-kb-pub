@@ -11,7 +11,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sutartis
+  - miestas
   - vieta
 amziai:
   - 'XXI'

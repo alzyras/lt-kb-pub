@@ -16,7 +16,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - upė
 amziai:
   - 'XX'
   - 'XXI'

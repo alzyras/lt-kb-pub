@@ -14,7 +14,7 @@ tags:
   - pilis
   - upė
   - vieta
-  - šventė
+  - kaimas
 amziai:
   - 'XVI'
   - 'XX'

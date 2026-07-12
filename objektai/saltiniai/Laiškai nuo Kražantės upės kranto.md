@@ -12,10 +12,7 @@ date_end: '1855'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
   - saltinis
-  - sukilimas
-  - upė
 amziai:
   - 'XIX'
 media_total_count: '0'

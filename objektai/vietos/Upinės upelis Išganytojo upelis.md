@@ -9,6 +9,9 @@ date_start: '1785'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestelis
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

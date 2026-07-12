@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

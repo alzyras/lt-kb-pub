@@ -12,9 +12,8 @@ date_end: '1929'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - sąvoka
-  - tauta
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

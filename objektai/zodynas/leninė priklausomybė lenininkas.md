@@ -11,10 +11,8 @@ date_end: '1660'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
-  - kunigaikštis
-  - miestas
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XVII'
 media_total_count: '0'

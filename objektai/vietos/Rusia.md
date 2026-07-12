@@ -14,10 +14,8 @@ date_end: '1621'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - kunigas
-  - ordinas
+  - vieta
+  - pilis
 amziai:
   - 'XV'
   - 'XVII'

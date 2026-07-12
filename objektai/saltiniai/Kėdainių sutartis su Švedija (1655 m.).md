@@ -12,8 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
-  - sutartis
 amziai:
   - 'XVII'
   - 'XXI'

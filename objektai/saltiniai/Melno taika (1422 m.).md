@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - karas
-  - kraštas
-  - ordinas
+  - saltinis
 amziai:
   - 'XV'
 media_total_count: '0'

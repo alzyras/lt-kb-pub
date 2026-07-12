@@ -11,6 +11,8 @@ date_start: '1503'
 date_end: '1528'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

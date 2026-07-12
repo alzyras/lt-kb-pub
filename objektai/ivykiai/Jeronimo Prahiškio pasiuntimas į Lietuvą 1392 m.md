@@ -9,6 +9,9 @@ date_start: '1392'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-įvykis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

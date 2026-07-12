@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - sukilimas
 amziai:
   - 'VII'

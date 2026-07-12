@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - saltinis
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

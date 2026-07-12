@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
+  - citata
   - posakis
-  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'

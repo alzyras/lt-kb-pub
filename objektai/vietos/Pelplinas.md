@@ -11,10 +11,8 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - karalius
-  - popiežius
-  - tauta
+  - vieta
+  - miestas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,10 +11,7 @@ date_end: '1501'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
-  - pilis
+  - saltinis
 amziai:
   - 'XV'
   - 'XVI'

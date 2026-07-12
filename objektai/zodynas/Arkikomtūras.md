@@ -11,10 +11,8 @@ date_end: '1380'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mūšis
-  - ordinas
-  - pilis
+  - pareigybė
+  - sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -14,10 +14,8 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - drabužis
+  - institucija
   - grupe
-  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

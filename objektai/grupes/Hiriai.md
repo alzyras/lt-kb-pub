@@ -9,6 +9,10 @@ date_start: '1121'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - gentis
+  - tauta
+  - grupe
 amziai:
   - 'XII'
 media_total_count: '0'

@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - krikštas
-  - tikėjimas
-  - šeima
+  - karvedys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

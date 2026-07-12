@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - miestas
+  - politinis-sprendimas
 amziai:
   - 'XVI'
 media_total_count: '0'

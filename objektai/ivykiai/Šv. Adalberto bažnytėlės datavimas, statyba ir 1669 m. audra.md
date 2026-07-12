@@ -10,6 +10,8 @@ date_start: '1422'
 date_end: '1669'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XV'
   - 'XVII'

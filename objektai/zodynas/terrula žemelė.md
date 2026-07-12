@@ -13,10 +13,8 @@ date_end: '1737'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - kraštas
   - sąvoka
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XII'
   - 'XVIII'

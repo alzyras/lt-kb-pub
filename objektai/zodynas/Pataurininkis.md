@@ -13,7 +13,7 @@ date_end: '1495'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - pareigybė
   - sąvoka
 amziai:
   - 'XV'

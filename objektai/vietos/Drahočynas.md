@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - kunigaikštis
-  - ordinas
   - vieta
 amziai:
   - 'XIV'

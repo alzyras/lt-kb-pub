@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - miestas
-  - pilis
+  - dvasininkas
 amziai:
   - 'XIII'
 periodo_grupes:

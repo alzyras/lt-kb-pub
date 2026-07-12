@@ -15,7 +15,6 @@ atnaujinta: ''
 tags:
   - kraštas
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XXI'

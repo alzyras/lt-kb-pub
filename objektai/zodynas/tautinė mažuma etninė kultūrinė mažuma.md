@@ -11,10 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - sąvoka
-  - tauta
-  - valstybė
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

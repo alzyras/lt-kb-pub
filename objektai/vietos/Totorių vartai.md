@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tikėjimas
+  - miestas
   - vieta
-  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'

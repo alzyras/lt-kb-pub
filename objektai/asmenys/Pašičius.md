@@ -8,6 +8,8 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

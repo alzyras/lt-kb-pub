@@ -11,9 +11,8 @@ date_end: '1579'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - ordinas
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

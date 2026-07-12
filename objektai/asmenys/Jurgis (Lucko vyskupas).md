@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
   - vyskupas
 amziai:
   - 'XVI'

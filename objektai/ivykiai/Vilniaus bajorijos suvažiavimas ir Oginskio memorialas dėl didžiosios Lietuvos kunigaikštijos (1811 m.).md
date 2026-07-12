@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - seimas
-  - bajorija
   - ivykis
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

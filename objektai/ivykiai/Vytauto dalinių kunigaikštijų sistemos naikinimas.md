@@ -12,9 +12,9 @@ date_end: '1395'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
-  - kunigaikštis
+  - reforma
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'

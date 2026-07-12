@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
+  - religinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

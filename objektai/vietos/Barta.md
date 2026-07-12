@@ -15,9 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - ordinas
   - upė
   - valstybė
+  - vieta
 amziai:
   - 'XIII'
   - 'XX'

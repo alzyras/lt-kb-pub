@@ -12,6 +12,7 @@ date_end: '1667'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
 amziai:
   - 'XVII'

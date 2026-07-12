@@ -11,9 +11,7 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
   - grupe
-  - seimas
   - tauta
 amziai:
   - 'XX'

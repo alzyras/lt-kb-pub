@@ -12,6 +12,8 @@ date_start: '1347'
 date_end: '1827'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XIX'

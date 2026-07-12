@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - mūšis
+  - tauta
 amziai:
   - 'XIII'
 media_total_count: '0'

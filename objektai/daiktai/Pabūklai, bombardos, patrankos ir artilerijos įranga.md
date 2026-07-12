@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
   - daiktas
-  - kunigaikštis
-  - miestas
-  - ordinas
+  - karo-reikmuo
 amziai:
   - 'XIV'
 media_total_count: '0'

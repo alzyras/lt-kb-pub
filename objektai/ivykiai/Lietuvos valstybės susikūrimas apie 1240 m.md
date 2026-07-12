@@ -15,9 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - tauta
+  - politinis-sprendimas
 amziai:
   - 'XIII'
 media_total_count: '0'

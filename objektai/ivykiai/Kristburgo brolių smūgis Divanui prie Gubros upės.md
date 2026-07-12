@@ -11,10 +11,9 @@ date_end: '1388'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - mūšis
   - ivykis
-  - upė
-  - šeima
+  - karas
 amziai:
   - 'XIII'
   - 'XIV'

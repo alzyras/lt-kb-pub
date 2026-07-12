@@ -14,9 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - miestas
   - reforma
+  - seimas
 amziai:
   - 'XVIII'
   - 'XXI'

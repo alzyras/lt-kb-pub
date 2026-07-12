@@ -6,10 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
+  - politinė-praktika
   - paprotys
-  - pinigai
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

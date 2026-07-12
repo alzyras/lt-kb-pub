@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - kunigas
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

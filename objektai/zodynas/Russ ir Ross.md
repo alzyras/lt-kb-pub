@@ -9,6 +9,9 @@ date_start: '1805'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

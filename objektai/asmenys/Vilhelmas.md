@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

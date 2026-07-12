@@ -11,10 +11,8 @@ date_end: '1820'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - paprotys
-  - valdovas
+  - šeima
 amziai:
   - 'XIV'
   - 'XIX'

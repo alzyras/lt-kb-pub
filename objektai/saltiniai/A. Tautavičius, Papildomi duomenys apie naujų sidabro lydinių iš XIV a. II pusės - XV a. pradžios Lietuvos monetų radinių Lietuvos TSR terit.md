@@ -14,9 +14,7 @@ date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - saltinis
-  - tauta
 amziai:
   - 'XIV'
   - 'XX'

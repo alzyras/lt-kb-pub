@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - žygis
   - ivykis
   - karas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

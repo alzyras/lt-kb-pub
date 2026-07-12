@@ -16,6 +16,9 @@ variantai:
   - 'Padaugavys'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'XII'
   - 'XXI'

@@ -12,7 +12,6 @@ date_end: '2010'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
 amziai:
   - 'XVI'

@@ -11,6 +11,7 @@ date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai:
   - 'XX'

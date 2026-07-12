@@ -11,6 +11,7 @@ date_end: '1264'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigybė
   - sąvoka
 amziai:
   - 'XIII'

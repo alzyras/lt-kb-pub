@@ -11,6 +11,7 @@ date_end: '1311'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
 amziai:
   - 'XIII'

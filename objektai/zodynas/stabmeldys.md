@@ -11,10 +11,8 @@ date_end: '1348'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kraštas
-  - ordinas
   - sąvoka
+  - religinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

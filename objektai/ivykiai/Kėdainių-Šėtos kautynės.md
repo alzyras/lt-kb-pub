@@ -13,7 +13,6 @@ tags:
   - ivykis
   - karas
   - krikštas
-  - ritualas
 amziai:
   - 'XX'
 media_total_count: '0'

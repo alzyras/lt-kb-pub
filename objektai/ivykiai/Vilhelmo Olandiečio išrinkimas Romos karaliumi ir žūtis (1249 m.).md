@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - elekcija
   - ivykis
-  - karalius
 amziai:
   - 'XIII'
 media_total_count: '0'

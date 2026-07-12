@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tikėjimas
+  - gamtinis-objektas
   - vieta
-  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'

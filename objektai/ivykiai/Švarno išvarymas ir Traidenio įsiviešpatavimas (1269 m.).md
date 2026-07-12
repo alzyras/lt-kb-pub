@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - valdovas
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

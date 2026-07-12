@@ -9,6 +9,9 @@ date_start: '267'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'III'
 periodo_grupes:

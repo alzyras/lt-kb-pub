@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
 amziai:
   - 'XIX'
 periodo_grupes:

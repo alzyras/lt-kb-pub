@@ -10,6 +10,9 @@ date_start: '1767'
 date_end: '1791'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - bajoras
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

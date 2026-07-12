@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

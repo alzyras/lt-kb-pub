@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIV'
 media_total_count: '0'

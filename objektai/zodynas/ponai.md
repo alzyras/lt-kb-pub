@@ -10,6 +10,9 @@ date_start: '1401'
 date_end: '1500'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

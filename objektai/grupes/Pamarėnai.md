@@ -14,9 +14,8 @@ date_end: '1245'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - grupe
-  - popiežius
+  - tauta
 amziai:
   - 'XIII'
 media_total_count: '0'

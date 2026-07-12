@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - miestas
-  - reforma
-  - ritualas
 amziai:
   - 'XVI'
 periodo_grupes:

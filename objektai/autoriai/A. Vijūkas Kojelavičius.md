@@ -17,6 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
 amziai:
   - 'XVII'
 periodo_grupes:

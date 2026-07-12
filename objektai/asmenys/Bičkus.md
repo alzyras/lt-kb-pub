@@ -9,6 +9,8 @@ date_start: '1604'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVII'
 periodo_grupes:

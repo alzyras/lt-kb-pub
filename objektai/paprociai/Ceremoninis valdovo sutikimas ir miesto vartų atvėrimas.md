@@ -5,6 +5,8 @@ saltiniai:
   - 'Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

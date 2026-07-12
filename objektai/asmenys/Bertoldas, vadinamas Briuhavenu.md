@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

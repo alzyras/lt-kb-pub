@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
-  - ordinas
+  - vyskupas
 amziai:
   - 'XII'
 periodo_grupes:

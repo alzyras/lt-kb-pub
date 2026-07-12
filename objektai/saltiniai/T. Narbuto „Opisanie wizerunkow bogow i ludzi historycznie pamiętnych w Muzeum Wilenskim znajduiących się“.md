@@ -9,6 +9,10 @@ date_start: '2012'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rankraštis
+  - dokumentas
+  - saltinis
 amziai:
   - 'XXI'
 media_total_count: '0'

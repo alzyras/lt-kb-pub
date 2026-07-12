@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
-  - pilis
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - seimas
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

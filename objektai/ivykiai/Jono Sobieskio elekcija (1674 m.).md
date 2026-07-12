@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - elekcija
   - ivykis
   - karas
+  - seimas
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -15,7 +15,6 @@ date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - kraštas
   - valstybė
   - vieta

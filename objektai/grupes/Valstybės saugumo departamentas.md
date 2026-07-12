@@ -11,8 +11,9 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
+  - organizacija
   - grupe
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

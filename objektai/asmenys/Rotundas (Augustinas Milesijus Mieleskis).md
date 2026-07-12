@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - karalius
   - mokslininkas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

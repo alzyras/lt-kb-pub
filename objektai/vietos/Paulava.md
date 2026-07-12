@@ -13,10 +13,8 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - ordinas
-  - seimas
   - valstybė
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

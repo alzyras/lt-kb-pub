@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - karas
+  - dokumentas
   - saltinis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

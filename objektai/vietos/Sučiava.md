@@ -12,6 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - sostinė
+  - pilis
+  - žemė
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -12,8 +12,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - paliaubos
+  - miestas
   - vieta
 amziai:
   - 'XVI'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
-  - seimas
+  - ekonominis-terminas
   - sąvoka
-  - valstybė
+  - teisinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

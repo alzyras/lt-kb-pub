@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
+  - šventvietė
   - vieta
 amziai:
   - 'XX'

@@ -14,8 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - vieta
+  - pilis
 amziai:
   - 'XVI'
   - 'XXI'

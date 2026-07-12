@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - didikas
 amziai:
   - 'XVII'
 periodo_grupes:

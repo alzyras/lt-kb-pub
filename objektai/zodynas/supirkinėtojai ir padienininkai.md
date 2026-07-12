@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XVI'

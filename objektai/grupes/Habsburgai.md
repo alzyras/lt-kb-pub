@@ -11,9 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dinastija
   - grupe
-  - valdovas
-  - šeima
 amziai:
   - 'XVI'
   - 'XXI'

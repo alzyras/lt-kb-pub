@@ -24,10 +24,8 @@ date_end: '1550'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - mokslininkas
-  - valdovas
+  - miestas
+  - vieta
 amziai:
   - 'XII'
   - 'XVI'

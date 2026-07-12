@@ -11,8 +11,7 @@ date_end: '1505'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigas
+  - šventvietė
   - vieta
 amziai:
   - 'XVI'

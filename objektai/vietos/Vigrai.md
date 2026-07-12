@@ -11,9 +11,7 @@ date_end: '1818'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
   - vieta
-  - vyskupas
 amziai:
   - 'XVIII'
   - 'XIX'

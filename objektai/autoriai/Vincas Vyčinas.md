@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
-  - ordinas
-  - sutartis
+  - redaktorius
 amziai:
   - 'XX'
   - 'XXI'

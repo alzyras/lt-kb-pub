@@ -12,8 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - kunigaikštis
+  - karalius
+  - vyskupas
 amziai:
   - 'XI'
 periodo_grupes:

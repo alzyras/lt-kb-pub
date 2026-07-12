@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1567'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
+  - institucija
 amziai:
   - 'XVI'
 media_total_count: '0'

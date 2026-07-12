@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
+  - citata
   - posakis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

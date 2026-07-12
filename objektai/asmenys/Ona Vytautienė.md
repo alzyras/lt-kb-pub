@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
 amziai:
   - 'XIV'
 periodo_grupes:

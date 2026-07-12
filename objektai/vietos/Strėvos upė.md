@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
   - upė
   - vieta
 amziai:

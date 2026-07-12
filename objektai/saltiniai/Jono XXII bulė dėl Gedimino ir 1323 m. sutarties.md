@@ -11,10 +11,7 @@ date_end: '1894'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
   - saltinis
-  - sutartis
-  - valdovas
 amziai:
   - 'XIV'
   - 'XIX'

@@ -10,6 +10,9 @@ date_start: '1018'
 date_end: '1024'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XI'
 periodo_grupes:

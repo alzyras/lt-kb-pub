@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - ordinas
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

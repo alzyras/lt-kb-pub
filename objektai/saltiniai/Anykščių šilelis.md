@@ -14,10 +14,7 @@ date_end: '1902'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - mokslininkas
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

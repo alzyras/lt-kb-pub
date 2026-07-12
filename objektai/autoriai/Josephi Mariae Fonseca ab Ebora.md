@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - autorius
+  - redaktorius
 amziai:
   - 'XVIII'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1818'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

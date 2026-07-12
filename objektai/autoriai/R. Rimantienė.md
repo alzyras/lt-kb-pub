@@ -11,8 +11,8 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - redaktorius
   - autorius
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

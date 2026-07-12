@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - gyvenvietė
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

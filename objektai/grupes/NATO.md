@@ -11,9 +11,8 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - valstybė
-  - šeima
 amziai:
   - 'XX'
   - 'XXI'

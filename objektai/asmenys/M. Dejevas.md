@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - ginklas
-  - miestas
 amziai:
   - 'XVIII'
 periodo_grupes:

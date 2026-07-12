@@ -15,8 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
-  - popiežius
   - tauta
 amziai:
   - 'XX'

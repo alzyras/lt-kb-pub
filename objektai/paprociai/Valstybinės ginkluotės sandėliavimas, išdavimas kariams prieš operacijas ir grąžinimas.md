@@ -10,6 +10,10 @@ date_start: '1301'
 date_end: '1400'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - karyba
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

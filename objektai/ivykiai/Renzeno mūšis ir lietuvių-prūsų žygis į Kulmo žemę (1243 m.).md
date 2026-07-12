@@ -13,9 +13,9 @@ date_end: '1243'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
   - mūšis
-  - ordinas
   - sukilimas
 amziai:
   - 'XIII'

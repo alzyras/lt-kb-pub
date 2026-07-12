@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - asmuo
-  - mūšis
 amziai:
   - 'XVII'
 periodo_grupes:

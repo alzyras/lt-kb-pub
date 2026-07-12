@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - paliaubos
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

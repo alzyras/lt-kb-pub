@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - kraštas
   - miestas
-  - seimas
   - vieta
 amziai:
   - 'XX'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - metraštininkas
   - autorius
-  - tikėjimas
-  - upė
 amziai:
   - 'XIV'
 periodo_grupes:

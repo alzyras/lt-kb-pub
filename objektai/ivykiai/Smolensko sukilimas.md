@@ -6,9 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilimas
   - ivykis
   - karas
-  - kunigaikštis
   - mūšis
 media_total_count: '0'
 media_primary_thumb_url: ''

@@ -11,9 +11,9 @@ date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - diplomatinis-įvykis
   - ivykis
-  - karalius
-  - popiežius
+  - konfliktas
 amziai:
   - 'XIII'
   - 'XIV'

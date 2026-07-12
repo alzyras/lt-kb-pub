@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

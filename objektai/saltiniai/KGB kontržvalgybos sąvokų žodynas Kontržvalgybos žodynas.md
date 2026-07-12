@@ -14,10 +14,7 @@ date_end: '1972'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
   - saltinis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -14,6 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - bajoras
+  - kunigaikštis
+  - pareigūnas
 amziai:
   - 'XIV'
   - 'XV'

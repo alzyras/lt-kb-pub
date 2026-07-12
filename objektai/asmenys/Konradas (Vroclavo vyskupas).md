@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
   - vyskupas
 amziai:
   - 'XV'

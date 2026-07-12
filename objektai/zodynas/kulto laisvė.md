@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - institucija
-  - kunigas
+  - religinis-terminas
   - sąvoka
+  - teisinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - drabužis
+  - kultūrinis-įvykis
   - ivykis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

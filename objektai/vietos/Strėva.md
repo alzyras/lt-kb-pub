@@ -13,7 +13,6 @@ date_end: '1805'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - upė
   - vieta
 amziai:

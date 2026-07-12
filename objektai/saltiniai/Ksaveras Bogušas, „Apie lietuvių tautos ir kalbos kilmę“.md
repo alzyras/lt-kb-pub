@@ -11,10 +11,7 @@ date_end: '1818'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - mokslininkas
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

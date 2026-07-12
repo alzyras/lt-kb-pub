@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
-  - miestas
 amziai:
   - 'XIII'
 media_total_count: '0'

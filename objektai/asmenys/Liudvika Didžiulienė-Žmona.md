@@ -11,6 +11,7 @@ date_end: '1912'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
   - asmuo
   - mokslininkas
 amziai:

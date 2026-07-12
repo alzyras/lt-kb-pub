@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
   - autorius
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

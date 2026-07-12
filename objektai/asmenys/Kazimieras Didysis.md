@@ -17,6 +17,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - istorikas
+  - karalius
 amziai:
   - 'XIV'
 periodo_grupes:

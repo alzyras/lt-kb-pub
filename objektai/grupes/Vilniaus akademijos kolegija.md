@@ -12,10 +12,8 @@ date_end: '1651'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - karalius
-  - teisinė-praktika
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'

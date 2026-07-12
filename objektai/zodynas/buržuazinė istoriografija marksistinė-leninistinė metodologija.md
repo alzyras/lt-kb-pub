@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

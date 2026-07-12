@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

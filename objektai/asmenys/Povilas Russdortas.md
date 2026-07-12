@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - ordinas
   - popiežius
 amziai:
   - 'XV'

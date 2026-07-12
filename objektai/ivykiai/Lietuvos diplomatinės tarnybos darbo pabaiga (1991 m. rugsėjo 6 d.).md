@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
   - karas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

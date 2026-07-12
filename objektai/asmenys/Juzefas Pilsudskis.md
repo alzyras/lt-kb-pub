@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - miestas
-  - sutartis
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

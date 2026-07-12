@@ -13,8 +13,8 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

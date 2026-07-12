@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - seimas
   - sutartis
+  - mūšis
 amziai:
   - 'XVIII'
 media_total_count: '0'

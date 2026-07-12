@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karo-reikmuo
+  - daiktas
 amziai:
   - 'XIV'
 media_total_count: '0'

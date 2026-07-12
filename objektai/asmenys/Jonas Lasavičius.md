@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
   - vyskupas
 amziai:
   - 'XV'

@@ -11,8 +11,8 @@ date_end: '1946'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

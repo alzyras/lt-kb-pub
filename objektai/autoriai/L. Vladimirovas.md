@@ -11,6 +11,7 @@ date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai:
   - 'XIX'

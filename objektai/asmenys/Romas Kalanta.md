@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - laidotuvės
-  - miestas
+  - sukilėlis
 amziai:
   - 'XX'
 periodo_grupes:

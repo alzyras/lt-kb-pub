@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
 amziai:
   - 'XVIII'
 media_total_count: '0'

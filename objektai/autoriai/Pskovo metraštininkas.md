@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - metraštininkas
   - autorius
-  - miestas
 amziai:
   - 'XIV'
 periodo_grupes:

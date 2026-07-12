@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - paliaubos
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

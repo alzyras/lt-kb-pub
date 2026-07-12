@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
-  - tauta
-  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:

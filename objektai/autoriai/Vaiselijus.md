@@ -10,6 +10,9 @@ date_start: '1684'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - autorius
 amziai:
   - 'XVII'
 periodo_grupes:

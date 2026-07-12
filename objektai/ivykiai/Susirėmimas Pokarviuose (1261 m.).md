@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
   - ivykis
-  - miestas
-  - tikėjimas
-  - valdovas
+  - karas
 amziai:
   - 'XIII'
 media_total_count: '0'

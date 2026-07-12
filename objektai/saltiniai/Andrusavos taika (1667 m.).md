@@ -14,9 +14,7 @@ date_end: '1772'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - paliaubos
   - saltinis
-  - sutartis
 amziai:
   - 'XVII'
   - 'XVIII'

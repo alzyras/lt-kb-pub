@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - elekcija
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

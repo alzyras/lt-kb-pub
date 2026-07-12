@@ -13,10 +13,9 @@ date_end: '1988'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - politinis-terminas
   - sąvoka
-  - teisinė-praktika
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

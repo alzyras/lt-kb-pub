@@ -12,10 +12,9 @@ date_end: '1529'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - pilis
-  - tauta
   - upė
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

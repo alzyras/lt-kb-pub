@@ -13,10 +13,9 @@ date_end: '1234'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žemė
   - kraštas
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

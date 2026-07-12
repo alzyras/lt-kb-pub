@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
   - karas
-  - kraštas
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

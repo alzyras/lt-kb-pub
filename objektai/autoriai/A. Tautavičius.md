@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
-  - tauta
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

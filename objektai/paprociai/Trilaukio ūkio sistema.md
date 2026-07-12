@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ūkis
   - paprotys
-  - reforma
 amziai:
   - 'XVI'
 media_total_count: '0'

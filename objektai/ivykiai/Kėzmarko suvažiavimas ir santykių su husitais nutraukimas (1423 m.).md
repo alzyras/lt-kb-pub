@@ -11,8 +11,8 @@ date_end: '1923'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - popiežius
 amziai:
   - 'XV'
   - 'XX'

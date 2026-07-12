@@ -13,9 +13,7 @@ date_end: '1737'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - mokslininkas
   - vieta
 amziai:
   - 'XVI'

@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - popiežius
-  - vyskupas
+  - religinis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

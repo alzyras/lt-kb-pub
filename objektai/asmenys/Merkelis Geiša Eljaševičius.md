@@ -10,8 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - miestas
   - vyskupas
 amziai: []
 periodo_grupes: []

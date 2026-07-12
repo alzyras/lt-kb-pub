@@ -13,10 +13,8 @@ date_end: '1449'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
   - 'XV'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
-  - krikštas
-  - ordinas
+  - citata
+  - posakis
 amziai:
   - 'XIV'
 media_total_count: '0'

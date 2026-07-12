@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - pinigai
   - sąvoka
-  - šventė
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

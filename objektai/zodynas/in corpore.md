@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

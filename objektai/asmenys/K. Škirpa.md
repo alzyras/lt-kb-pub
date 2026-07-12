@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - karvedys
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - popiežius
   - unija
-  - vyskupas
 amziai:
   - 'XV'
 media_total_count: '0'

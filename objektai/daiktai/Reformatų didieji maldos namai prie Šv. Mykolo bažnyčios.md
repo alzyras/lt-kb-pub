@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - paminklas
   - daiktas
-  - miestas
-  - reforma
-  - ritualas
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - dvasininkas
 amziai:
   - 'XVI'
 periodo_grupes:

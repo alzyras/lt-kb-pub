@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - konfliktas
   - ivykis
-  - kunigaikštis
-  - tikėjimas
-  - valdovas
 amziai:
   - 'XIII'
 media_total_count: '0'

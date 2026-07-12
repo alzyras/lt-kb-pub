@@ -12,10 +12,8 @@ date_end: '1882'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
   - paprotys
+  - religinė-praktika
 amziai:
   - 'XIV'
   - 'XIX'

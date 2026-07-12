@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žygis
+  - karas
   - ivykis
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

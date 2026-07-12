@@ -12,8 +12,6 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - pilis
   - saltinis
 amziai:
   - 'XIII'

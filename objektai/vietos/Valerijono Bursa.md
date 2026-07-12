@@ -20,9 +20,6 @@ aliases:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - mokslininkas
-  - teisinė-praktika
   - vieta
 amziai:
   - 'XVI'

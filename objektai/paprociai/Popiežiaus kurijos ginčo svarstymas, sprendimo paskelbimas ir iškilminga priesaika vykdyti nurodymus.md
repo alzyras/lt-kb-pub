@@ -12,10 +12,8 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
+  - priesaika
   - paprotys
-  - popiežius
 amziai:
   - 'XI'
   - 'XIV'

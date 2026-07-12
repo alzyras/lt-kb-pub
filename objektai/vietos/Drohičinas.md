@@ -19,8 +19,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - vieta
+  - kraštas
 amziai:
   - 'XIII'
   - 'XXI'

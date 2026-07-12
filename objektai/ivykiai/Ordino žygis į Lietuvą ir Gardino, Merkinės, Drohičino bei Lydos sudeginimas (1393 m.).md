@@ -11,8 +11,8 @@ date_end: '1394'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

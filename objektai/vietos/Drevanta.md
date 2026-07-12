@@ -14,10 +14,10 @@ date_end: '1301'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - ežeras
   - upė
   - vieta
+  - žemė
 amziai:
   - 'XIII'
   - 'XIV'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - kunigaikštis
-  - pilis
-  - tikėjimas
+  - mūšis
 amziai:
   - 'XIII'
 media_total_count: '0'

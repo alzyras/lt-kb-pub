@@ -18,7 +18,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
+  - kunigaikštis
 amziai:
   - 'XIV'
   - 'XV'

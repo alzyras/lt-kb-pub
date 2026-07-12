@@ -10,6 +10,9 @@ date_start: '1836'
 date_end: '1840'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinis-terminas
+  - sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

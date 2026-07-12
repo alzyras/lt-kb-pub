@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ordinas
   - vieta
 amziai:
   - 'XV'

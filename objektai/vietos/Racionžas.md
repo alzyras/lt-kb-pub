@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - sutartis
   - vieta
+  - gyvenvietė
 amziai:
   - 'XV'
   - 'XXI'

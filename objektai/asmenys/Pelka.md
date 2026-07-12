@@ -9,8 +9,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - popiežius
   - asmuo
-  - ordinas
   - vyskupas
 amziai: []
 periodo_grupes: []

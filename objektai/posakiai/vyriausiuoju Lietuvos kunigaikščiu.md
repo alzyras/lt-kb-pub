@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - frazė
   - posakis
 amziai:
   - 'XV'

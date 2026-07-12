@@ -9,6 +9,9 @@ date_start: '1223'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

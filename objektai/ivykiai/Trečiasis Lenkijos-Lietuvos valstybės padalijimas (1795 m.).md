@@ -9,6 +9,10 @@ date_start: '1795'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - konfliktas
+  - ivykis
 amziai:
   - 'XVIII'
 media_total_count: '0'

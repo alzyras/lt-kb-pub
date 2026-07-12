@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kraštas
-  - ordinas
+  - teisinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

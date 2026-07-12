@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - ordinas
 amziai:
   - 'XIII'
 media_total_count: '0'

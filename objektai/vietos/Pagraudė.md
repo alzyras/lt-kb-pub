@@ -12,8 +12,6 @@ date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
   - pilis
   - vieta
 amziai:

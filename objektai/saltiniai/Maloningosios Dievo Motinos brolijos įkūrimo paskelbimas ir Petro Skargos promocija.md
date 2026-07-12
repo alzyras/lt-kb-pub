@@ -13,8 +13,6 @@ date_end: '1664'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - miestas
   - saltinis
 amziai:
   - 'XVI'

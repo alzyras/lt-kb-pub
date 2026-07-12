@@ -19,6 +19,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
+  - kunigaikštis
 amziai:
   - 'XIII'
 periodo_grupes:

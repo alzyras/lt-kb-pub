@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
 amziai:
   - 'XIII'
 media_total_count: '0'

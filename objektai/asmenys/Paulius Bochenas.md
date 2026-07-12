@@ -11,8 +11,8 @@ date_end: '1737'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - miestas
 amziai:
   - 'XVII'
   - 'XVIII'

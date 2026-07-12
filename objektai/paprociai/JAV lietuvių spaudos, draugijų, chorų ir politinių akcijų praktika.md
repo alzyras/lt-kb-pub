@@ -13,7 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - tauta
+  - socialinė-praktika
+  - politinė-praktika
 amziai:
   - 'XIX'
   - 'XX'

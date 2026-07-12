@@ -12,7 +12,7 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - upė
   - miestas
   - pilis
   - vieta

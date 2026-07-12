@@ -11,9 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
   - sąvoka
-  - teisinė-praktika
+  - teisinis-terminas
 amziai:
   - 'XVI'
   - 'XXI'

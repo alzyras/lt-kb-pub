@@ -10,6 +10,9 @@ date_start: '1836'
 date_end: '1840'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

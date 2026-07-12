@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
+  - karas
+  - mūšis
 amziai:
   - 'X'
   - 'XIV'

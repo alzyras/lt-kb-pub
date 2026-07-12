@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
+  - karas
 amziai:
   - 'XII'
 media_total_count: '0'

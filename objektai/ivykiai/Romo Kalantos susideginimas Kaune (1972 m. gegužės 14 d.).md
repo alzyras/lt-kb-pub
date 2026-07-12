@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinis-įvykis
   - ivykis
-  - miestas
 amziai:
   - 'XX'
 media_total_count: '0'

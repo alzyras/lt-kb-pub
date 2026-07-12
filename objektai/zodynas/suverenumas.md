@@ -11,9 +11,8 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - politinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

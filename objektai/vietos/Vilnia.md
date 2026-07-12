@@ -13,10 +13,10 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - valdovas
+  - vieta
+  - gyvenvietė
+  - upė
+  - sostinė
 amziai:
   - 'XV'
 media_total_count: '1'

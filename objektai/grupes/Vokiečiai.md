@@ -18,8 +18,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - tauta
+  - ordinas
 amziai:
   - 'XIII'
   - 'XXI'

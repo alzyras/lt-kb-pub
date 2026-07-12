@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
+  - istorinė-sąvoka
   - sąvoka
-  - valstybė
 amziai:
   - 'XVIII'
 media_total_count: '0'

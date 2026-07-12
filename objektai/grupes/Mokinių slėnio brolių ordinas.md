@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - popiežius
-  - valdovas
 amziai:
   - 'XIII'
 media_total_count: '0'

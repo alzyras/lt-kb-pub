@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - pilis
   - saltinis
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
+  - teisinis-terminas
   - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''

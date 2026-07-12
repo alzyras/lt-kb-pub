@@ -13,7 +13,6 @@ tags:
   - autorius
   - kunigaikštis
   - mokslininkas
-  - reforma
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
   - mokslininkas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - mūšis
   - popiežius
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

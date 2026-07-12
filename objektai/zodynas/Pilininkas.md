@@ -11,6 +11,9 @@ date_start: '1382'
 date_end: '1385'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigybė
+  - sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

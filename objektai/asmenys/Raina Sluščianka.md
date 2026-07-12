@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - sutartis
 amziai:
   - 'XVII'
 periodo_grupes:

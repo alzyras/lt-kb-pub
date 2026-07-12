@@ -17,8 +17,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - vieta
+  - miestelis
 amziai:
   - 'XX'
   - 'XXI'

@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - diplomatas
-  - karalius
+  - politinė-praktika
   - paprotys
 amziai:
   - 'XVI'

@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - tauta
   - valstybė
   - vieta
 media_total_count: '0'

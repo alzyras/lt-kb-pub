@@ -12,10 +12,8 @@ date_end: '1795'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - ivykis
   - reforma
-  - valdovas
 amziai:
   - 'XVIII'
 media_total_count: '0'

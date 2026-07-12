@@ -12,10 +12,7 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - paprotys
-  - popiežius
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

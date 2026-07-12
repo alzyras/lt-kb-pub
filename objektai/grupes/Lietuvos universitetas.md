@@ -11,8 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - mokslininkas
 amziai:
   - 'XX'
 media_total_count: '0'

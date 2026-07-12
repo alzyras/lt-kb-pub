@@ -11,9 +11,7 @@ date_end: '1822'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - pilis
-  - popiežius
+  - dokumentas
   - saltinis
 amziai:
   - 'XIV'

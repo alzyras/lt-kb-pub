@@ -14,8 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - upė
-  - šeima
+  - tauta
 amziai:
   - 'XI'
   - 'XII'

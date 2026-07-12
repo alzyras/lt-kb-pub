@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - karas
   - ivykis
-  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

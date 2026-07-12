@@ -11,10 +11,8 @@ date_end: '1257'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - daiktas
-  - miestas
-  - pilis
+  - paminklas
 amziai:
   - 'XII'
   - 'XIII'

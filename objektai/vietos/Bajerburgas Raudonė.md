@@ -11,10 +11,9 @@ date_end: '1346'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - ordinas
   - vieta
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

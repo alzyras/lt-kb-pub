@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - pilis
 amziai:
   - 'XIV'
   - 'XV'

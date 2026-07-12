@@ -9,6 +9,9 @@ date_start: '1000'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kalbininkas
+  - asmuo
 amziai:
   - 'X'
 periodo_grupes:

@@ -12,6 +12,7 @@ date_end: '2003'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
 amziai:
   - 'XX'

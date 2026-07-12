@@ -11,9 +11,8 @@ date_end: '1313'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - popiežius
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

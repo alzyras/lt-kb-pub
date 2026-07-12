@@ -11,8 +11,8 @@ date_end: '1945'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - okupacija
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,9 +11,9 @@ date_end: '1545'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - miestas
-  - pilis
+  - didikas
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -34,6 +34,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - kraštas
 amziai:
   - 'IX'
   - 'XXI'

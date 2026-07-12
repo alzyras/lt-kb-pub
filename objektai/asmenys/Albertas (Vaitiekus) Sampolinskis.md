@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
   - karalius
 media_total_count: '0'

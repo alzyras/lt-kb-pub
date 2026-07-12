@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

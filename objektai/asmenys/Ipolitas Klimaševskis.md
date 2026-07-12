@@ -10,6 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - sukilėlis
 amziai:
   - 'XIX'
 periodo_grupes: []

@@ -10,6 +10,9 @@ date_start: '1242'
 date_end: '1253'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - gamtinis-objektas
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

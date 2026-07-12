@@ -13,8 +13,7 @@ date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - institucija
+  - suvažiavimas
   - ivykis
   - karas
 amziai:

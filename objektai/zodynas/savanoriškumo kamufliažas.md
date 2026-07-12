@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - seimas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

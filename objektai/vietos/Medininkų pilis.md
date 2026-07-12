@@ -11,6 +11,9 @@ date_start: '1492'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

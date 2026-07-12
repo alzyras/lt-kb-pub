@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - dokumentas
-  - miestas
-  - sukilimas
 amziai:
   - 'XX'
 media_total_count: '0'

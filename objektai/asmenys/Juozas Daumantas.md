@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

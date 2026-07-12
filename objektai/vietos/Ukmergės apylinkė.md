@@ -12,6 +12,7 @@ date_end: '1334'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - regionas
   - vieta
 amziai:
   - 'XII'

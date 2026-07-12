@@ -11,7 +11,7 @@ date_end: '1360'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - miestelis
   - vieta
 amziai:
   - 'XIV'

@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - vyskupas
 amziai:
   - 'V'
 periodo_grupes: []

@@ -11,8 +11,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - mūšis
   - pilis
   - vieta
 amziai:

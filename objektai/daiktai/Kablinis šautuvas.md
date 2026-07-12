@@ -8,7 +8,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - kraštas
   - transportas
 media_total_count: '0'
 media_primary_thumb_url: ''

@@ -11,9 +11,9 @@ date_end: '1568'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
+  - didikas
   - asmuo
-  - teisinė-praktika
-  - šeima
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - rankraštis
 amziai:
   - 'XIX'
 media_total_count: '0'

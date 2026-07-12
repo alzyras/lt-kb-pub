@@ -9,6 +9,9 @@ date_start: '520'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - asmuo
 amziai:
   - 'VI'
 periodo_grupes:

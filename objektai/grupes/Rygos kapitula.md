@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
   - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 media_total_count: '0'

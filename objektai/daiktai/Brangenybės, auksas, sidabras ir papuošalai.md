@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - miestas
   - papuošalas
 amziai:
   - 'XIV'

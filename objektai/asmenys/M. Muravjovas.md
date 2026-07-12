@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - kunigas
-  - sukilimas
 amziai:
   - 'XIX'
   - 'XX'

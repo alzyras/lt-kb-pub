@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - posakis
-  - schema
+  - frazė
 amziai:
   - 'XX'
   - 'XXI'

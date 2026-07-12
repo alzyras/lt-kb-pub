@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
   - pinigai
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

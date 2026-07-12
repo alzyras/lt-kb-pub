@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
+  - giesmė
   - posakis
 amziai:
   - 'XIX'

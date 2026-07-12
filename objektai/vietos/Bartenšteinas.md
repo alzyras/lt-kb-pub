@@ -14,7 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - pilis
   - vieta
 amziai:

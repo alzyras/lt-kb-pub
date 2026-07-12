@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - kunigaikštis
   - pilis
   - vieta
 media_total_count: '0'

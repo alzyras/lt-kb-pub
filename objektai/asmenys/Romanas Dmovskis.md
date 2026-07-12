@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
-  - unija
 amziai:
   - 'XX'
 periodo_grupes:

@@ -16,10 +16,8 @@ date_end: '1306'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - ežeras
   - ivykis
-  - miestas
+  - religinis-įvykis
 amziai:
   - 'XIII'
   - 'XIV'

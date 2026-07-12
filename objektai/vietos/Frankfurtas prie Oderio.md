@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - valstybė
   - vieta
 amziai:
   - 'XIV'

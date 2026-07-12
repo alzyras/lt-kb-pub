@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
-  - pilis
+  - frazė
   - posakis
 amziai:
   - 'XIII'

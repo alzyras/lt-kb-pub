@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - tauta
-  - žemėlapis
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

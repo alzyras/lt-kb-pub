@@ -21,7 +21,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigas
+  - kariuomenė
+  - gentis
 amziai:
   - 'XIII'
   - 'XX'

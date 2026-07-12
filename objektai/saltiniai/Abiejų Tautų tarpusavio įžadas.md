@@ -13,10 +13,7 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
   - saltinis
-  - tauta
 amziai:
   - 'XVIII'
   - 'XX'

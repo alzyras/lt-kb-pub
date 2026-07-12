@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - pilis
-  - upė
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

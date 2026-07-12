@@ -18,47 +18,35 @@ Objektų skaičius: 31.
 
 ## Susiję objektai
 
-### Asmenys
-- [[objektai/asmenys/Ernekė]]
-- [[objektai/asmenys/Gerlachas Rudasis]]
-- [[objektai/asmenys/Gzovskis]]
-- [[objektai/asmenys/Jonas iš Vienos]]
-- [[objektai/asmenys/Konradas (Baigos kunigas)]]
-- [[objektai/asmenys/Surminas]]
-- [[objektai/asmenys/Vladas Jazokas-Petraitis]]
-- [[objektai/asmenys/Volradas Nuostabusis]]
-- [[objektai/asmenys/Žalinskis Zaleskis]]
-
 ### Daiktai
 - [[objektai/daiktai/1900 m. Paryžiaus parodos lietuvių ekspozicijos daiktai]]
+- [[objektai/daiktai/1919 m. Lietuvos kariuomenės pėstininko žieminė kepurė]]
+- [[objektai/daiktai/Balta marška]]
+- [[objektai/daiktai/Baltas apsiaustas su juodu kryžiumi]]
+- [[objektai/daiktai/Baltas apsiaustas su raudonu kalaviju bei žvaigžde]]
+- [[objektai/daiktai/Baltas trinytinis maišas su rankovėmis]]
+- [[objektai/daiktai/Balti vilnoniai marškiniai]]
 - [[objektai/daiktai/Baroko kasdienybės daiktai]]
+- [[objektai/daiktai/Brangūs aksomai]]
+- [[objektai/daiktai/Kelnės]]
+- [[objektai/daiktai/Kilimas]]
+- [[objektai/daiktai/Konfederatka]]
+- [[objektai/daiktai/Kraičvežių atributai]]
+- [[objektai/daiktai/Kristupo Mikalojaus Radvilos Perkūno šarvai]]
+- [[objektai/daiktai/Krivio balta drobės juosta]]
 - [[objektai/daiktai/Kęstučio laidotuvių rūbai ir ginklai]]
-
-### Grupės
-- [[objektai/grupes/Lietuvos diplomatinė tarnyba]]
-
-### Papročiai
-- [[objektai/paprociai/Barokinis šventasis peizažas, kryždirbystė ir Vilniaus baroko mokyklos sakralinė estetika]]
-- [[objektai/paprociai/Burtų traukimas prieš svarbesnius darbus]]
-- [[objektai/paprociai/Gedėjimas plėšant drabužius ir apsivelkant ašutinėmis]]
-- [[objektai/paprociai/Karo nualintų gyventojų aprūpinimas maistu ir drabužiais]]
-- [[objektai/paprociai/Žydų ir krikščionių bylų liudijimo bei priesaikos tvarka]]
-
-### Posakiai
-- [[objektai/posakiai/Deja mums Kam mes gimėme]]
-- [[objektai/posakiai/Pasiimk šį savo dievo paveikslą]]
-- [[objektai/posakiai/Tikiu dievą tėvą, visagalį]]
-- [[objektai/posakiai/Šiandien prisiminkite puikius drabužius]]
-
-### Įvykiai
-- [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]
-- [[objektai/ivykiai/Lencenbergo pilies ir jos kilmingųjų sudeginimas|Lencenbergo pilies ir jos kilmingųjų sudeginimas (pilis)]]
-- [[objektai/ivykiai/Lietuvių prisistatymas 1900 m. Paryžiaus pasaulinėje parodoje]]
-- [Rudino brolių susidūrimas su trimis ir penkiais prūsais](../objektai/ivykiai/Rudino%20broli%C5%B3%20susid%C5%ABrimas%20su%20trimis%20ir%20penkiais%20pr%C5%ABsais)
-- [Skomanto mirtis](../objektai/ivykiai/Skomanto%20mirtis)
-
-### Žodynas
-- [akcijos](../objektai/zodynas/akcijos)
-- [pasaulietis](../objektai/zodynas/pasaulietis)
-- [Watmal Vatmalis](../objektai/zodynas/Watmal%20Vatmalis)
-- [žygūnai](../objektai/zodynas/%C5%BEyg%C5%ABnai)
+- [[objektai/daiktai/Lietuvos partizanų uniformos]]
+- [[objektai/daiktai/Milinis apsiaustas]]
+- [[objektai/daiktai/Mėškininko apeiginis apdaras]]
+- [[objektai/daiktai/Nuometai]]
+- [[objektai/daiktai/Paprasti kailiniai]]
+- [[objektai/daiktai/Perlais siuvinėti drabužiai]]
+- [[objektai/daiktai/Rūbai]]
+- [[objektai/daiktai/Sabalų kailiniai]]
+- [[objektai/daiktai/Vaidilų apeiginiai drabužiai]]
+- [Vienuolio rūbai](../objektai/daiktai/Vienuolio%20r%C5%ABbai)
+- [Viršutinis apsiaustas](../objektai/daiktai/Vir%C5%A1utinis%20apsiaustas)
+- [Vyriausiojo žynio apeiginiai drabužiai](../objektai/daiktai/Vyriausiojo%20%C5%BEynio%20apeiginiai%20drabu%C5%BEiai)
+- [Vyriška apranga](../objektai/daiktai/Vyri%C5%A1ka%20apranga)
+- [Vyža](../objektai/daiktai/Vy%C5%BEa)
+- [Vyženos](../objektai/daiktai/Vy%C5%BEenos)

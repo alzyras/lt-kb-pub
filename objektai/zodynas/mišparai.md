@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - religinis-terminas
   - sąvoka
-  - tauta
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
   - reforma
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -17,7 +17,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - šeima
 amziai:
   - 'IV'
   - 'XXI'

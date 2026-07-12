@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - pilis
-  - upė
+  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - asmuo
-  - bajorija
 amziai:
   - 'XVI'
 periodo_grupes:

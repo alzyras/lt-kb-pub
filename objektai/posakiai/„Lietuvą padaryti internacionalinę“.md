@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - šūkis
 amziai:
   - 'XX'
   - 'XXI'

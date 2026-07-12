@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - seimas
+  - ivykis
 amziai:
   - 'XVI'
   - 'XX'

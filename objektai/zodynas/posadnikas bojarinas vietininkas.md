@@ -11,8 +11,7 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
+  - pareigybė
   - sąvoka
 amziai:
   - 'XV'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
+  - dokumentas
   - saltinis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

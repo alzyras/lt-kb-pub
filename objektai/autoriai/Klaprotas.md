@@ -9,6 +9,10 @@ date_start: '1590'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
+  - istorikas
 amziai:
   - 'XVI'
 periodo_grupes:

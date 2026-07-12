@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
   - sąvoka
-  - unija
+  - teisinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

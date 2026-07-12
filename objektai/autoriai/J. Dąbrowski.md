@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

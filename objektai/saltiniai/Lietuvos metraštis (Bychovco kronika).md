@@ -17,6 +17,8 @@ date_start: '1368'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XXI'

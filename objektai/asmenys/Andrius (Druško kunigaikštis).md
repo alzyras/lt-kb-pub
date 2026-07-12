@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - upė
   - vyskupas
 amziai:
   - 'XV'

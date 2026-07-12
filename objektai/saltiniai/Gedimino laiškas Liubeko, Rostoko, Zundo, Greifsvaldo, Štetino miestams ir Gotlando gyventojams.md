@@ -11,10 +11,7 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
   - saltinis
-  - valdovas
 amziai:
   - 'XII'
   - 'XIV'

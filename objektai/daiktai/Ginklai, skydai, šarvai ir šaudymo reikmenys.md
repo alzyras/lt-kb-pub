@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - institucija
-  - karalius
-  - ordinas
+  - rankraštis
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - didikas
+  - karvedys
 amziai:
   - 'XVII'
 periodo_grupes:

@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - upė
 amziai:
   - 'XX'
 periodo_grupes:

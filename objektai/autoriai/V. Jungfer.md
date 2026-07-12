@@ -11,6 +11,8 @@ date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
+  - karys
   - autorius
 amziai:
   - 'XX'

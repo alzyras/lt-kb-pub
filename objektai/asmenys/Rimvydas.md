@@ -9,6 +9,9 @@ date_start: '1483'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - bajoras
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

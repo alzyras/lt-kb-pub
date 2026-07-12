@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - sutartis
-  - unija
 amziai:
   - 'XX'
 media_total_count: '0'

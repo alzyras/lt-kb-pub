@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - tauta
-  - teisinė-praktika
-  - valstybė
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

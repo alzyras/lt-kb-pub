@@ -13,9 +13,8 @@ date_end: '1380'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
   - vieta
+  - miestas
 amziai:
   - 'XIV'
 media_total_count: '0'

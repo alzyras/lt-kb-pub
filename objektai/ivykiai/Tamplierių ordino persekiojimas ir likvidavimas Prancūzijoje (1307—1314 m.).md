@@ -16,9 +16,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - ordinas
-  - popiežius
+  - religinis-įvykis
+  - konfliktas
 amziai:
   - 'XIII'
   - 'XIV'

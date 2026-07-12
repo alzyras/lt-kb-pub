@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - ordinas
   - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''

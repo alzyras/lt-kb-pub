@@ -12,6 +12,7 @@ date_end: '1965'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XX'

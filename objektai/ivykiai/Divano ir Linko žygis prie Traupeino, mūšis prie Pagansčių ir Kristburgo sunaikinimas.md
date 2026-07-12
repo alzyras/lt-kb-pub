@@ -12,10 +12,9 @@ date_end: '1271'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
+  - žygis
   - ivykis
-  - miestas
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

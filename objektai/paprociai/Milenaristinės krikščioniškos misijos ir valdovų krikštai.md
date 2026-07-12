@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - kunigaikštis
+  - religinė-praktika
   - paprotys
+  - tikėjimas
 amziai:
   - 'XI'
 media_total_count: '0'

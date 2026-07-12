@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gyvenvietė
+  - miestelis
   - vieta
 amziai:
   - 'XIII'

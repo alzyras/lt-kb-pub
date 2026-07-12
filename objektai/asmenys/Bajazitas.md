@@ -11,8 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - popiežius
   - asmuo
-  - mūšis
 amziai:
   - 'XIV'
 periodo_grupes:

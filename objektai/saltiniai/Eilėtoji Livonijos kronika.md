@@ -20,6 +20,8 @@ variantai:
   - 'Livonijos Eiliuotinė kronika'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIII'
   - 'XXI'

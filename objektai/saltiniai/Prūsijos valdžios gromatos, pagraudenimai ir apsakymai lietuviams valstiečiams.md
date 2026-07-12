@@ -11,7 +11,6 @@ date_end: '1961'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - redaktorius
   - saltinis
 amziai:
   - 'XX'

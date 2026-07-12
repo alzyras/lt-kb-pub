@@ -16,7 +16,8 @@ variantai:
   - 'Codex ep. Vitoldi'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XIX'

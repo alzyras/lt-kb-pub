@@ -9,6 +9,9 @@ date_start: '1785'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

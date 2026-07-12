@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
-  - valdovas
+  - mūšis
 amziai:
   - 'XII'
   - 'XIV'

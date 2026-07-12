@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - karas
   - vyskupas
-  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:

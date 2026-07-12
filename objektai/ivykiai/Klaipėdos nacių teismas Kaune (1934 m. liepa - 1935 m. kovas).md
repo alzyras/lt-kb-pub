@@ -12,9 +12,8 @@ date_end: '1937'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - teisinė-praktika
+  - politinis-sprendimas
 amziai:
   - 'XX'
 media_total_count: '0'

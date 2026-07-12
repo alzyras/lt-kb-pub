@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

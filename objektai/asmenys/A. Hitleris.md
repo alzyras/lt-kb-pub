@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - sutartis
-  - šventė
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

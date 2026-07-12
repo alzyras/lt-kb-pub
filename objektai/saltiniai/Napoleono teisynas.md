@@ -12,10 +12,8 @@ date_end: '1936'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - saltinis
-  - seimas
-  - teisinė-praktika
+  - dokumentas
 amziai:
   - 'XVIII'
   - 'XX'

@@ -9,6 +9,9 @@ date_start: '1315'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

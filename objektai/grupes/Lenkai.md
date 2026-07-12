@@ -28,7 +28,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - valstybė
+  - kariuomenė
 amziai:
   - 'XII'
   - 'XX'

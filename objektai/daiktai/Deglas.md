@@ -10,6 +10,8 @@ date_start: '1383'
 date_end: '1384'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XIV'
 media_total_count: '0'

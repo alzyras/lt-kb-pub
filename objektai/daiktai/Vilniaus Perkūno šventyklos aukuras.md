@@ -10,6 +10,8 @@ date_start: '1263'
 date_end: '1817'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XIII'
   - 'XIX'

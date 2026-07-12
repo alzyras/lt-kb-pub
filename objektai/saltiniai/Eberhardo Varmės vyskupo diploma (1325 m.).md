@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tikėjimas
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

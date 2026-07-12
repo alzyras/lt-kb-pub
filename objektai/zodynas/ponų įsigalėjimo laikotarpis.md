@@ -11,7 +11,7 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XV'

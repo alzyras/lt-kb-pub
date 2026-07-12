@@ -11,7 +11,7 @@ date_end: '1311'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - miestas
   - vieta
 amziai:
   - 'XIII'

@@ -25,10 +25,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - miestas
   - vieta
+  - pilis
 amziai:
   - 'X'
   - 'XXI'

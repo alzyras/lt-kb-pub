@@ -38,6 +38,7 @@ media_all_json: |-
   []
 tags:
   - autorius
+  - rašytojas
 ---
 # Lonnrotas (Kalevalos kūrėjas)
 

@@ -11,6 +11,9 @@ date_start: '1947'
 date_end: '1949'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

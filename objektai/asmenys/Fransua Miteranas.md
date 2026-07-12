@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - seimas
+  - diplomatas
 amziai:
   - 'XX'
 periodo_grupes:

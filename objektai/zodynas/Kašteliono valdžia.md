@@ -11,10 +11,9 @@ date_end: '1280'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
+  - pareigybė
   - sąvoka
-  - teisinė-praktika
+  - politinis-terminas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -7,6 +7,8 @@ tevinis_saltinis: "Mūsų tautosaka, t. 4 (1931)"
 puslapiai: "187-189"
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -12,8 +12,8 @@ date_end: '1992'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-terminas
   - sąvoka
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

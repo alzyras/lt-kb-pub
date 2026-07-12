@@ -14,8 +14,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigas
   - asmuo
-  - tauta
 amziai:
   - 'XIV'
 periodo_grupes:

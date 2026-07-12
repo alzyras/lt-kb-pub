@@ -11,7 +11,6 @@ date_end: '1240'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - valstybė
   - vieta
 amziai:

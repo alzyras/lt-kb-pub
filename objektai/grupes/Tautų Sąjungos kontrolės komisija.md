@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
-  - kunigaikštis
+  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

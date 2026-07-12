@@ -10,9 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - tauta
-  - valstybė
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

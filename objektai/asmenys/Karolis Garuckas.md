@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigas
   - asmuo
-  - teisinė-praktika
 amziai:
   - 'XX'
 periodo_grupes:

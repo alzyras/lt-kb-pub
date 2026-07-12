@@ -6,8 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - popiežius
+  - valstybė
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

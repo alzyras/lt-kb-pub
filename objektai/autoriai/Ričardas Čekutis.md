@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
-  - karas
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

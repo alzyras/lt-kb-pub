@@ -9,6 +9,9 @@ date_start: '1563'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - seimas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

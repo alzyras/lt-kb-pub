@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - suvažiavimas
   - ivykis
 amziai:
   - 'XVII'

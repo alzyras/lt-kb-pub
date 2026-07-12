@@ -12,9 +12,8 @@ date_end: '1978'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - unija
   - vieta
-  - vyskupas
+  - miestas
 amziai:
   - 'XX'
 media_total_count: '0'

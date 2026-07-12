@@ -9,6 +9,9 @@ date_start: '1385'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
+  - institucija
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,10 +11,9 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - kunigaikštis
-  - miestas
-  - valdovas
+  - mūšis
 amziai:
   - 'XII'
   - 'XIV'

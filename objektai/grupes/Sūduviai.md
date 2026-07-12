@@ -18,9 +18,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
-  - miestas
   - ordinas
+  - kariuomenė
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - miestas
-  - ordinas
   - saltinis
 amziai:
   - 'XIV'

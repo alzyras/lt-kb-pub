@@ -14,9 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - pilis
   - vieta
+  - dvaras
 amziai:
   - 'XIII'
 media_total_count: '0'

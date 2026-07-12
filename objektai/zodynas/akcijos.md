@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - drabužis
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

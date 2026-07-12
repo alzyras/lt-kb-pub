@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - frazė
   - posakis
-  - valstybė
 amziai:
   - 'XIV'
 media_total_count: '0'

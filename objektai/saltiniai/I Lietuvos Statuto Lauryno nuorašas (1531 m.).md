@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rankraštis
   - saltinis
-  - valstybė
-  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

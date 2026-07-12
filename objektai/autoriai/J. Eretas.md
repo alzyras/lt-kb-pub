@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - tauta
+  - redaktorius
 amziai:
   - 'XX'
 periodo_grupes:

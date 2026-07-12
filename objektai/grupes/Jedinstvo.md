@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - organizacija
 amziai:
   - 'XX'
   - 'XXI'

@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - kraštas
-  - teisinė-praktika
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

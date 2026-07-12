@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - tikėjimas
   - vyskupas
 amziai:
   - 'XVI'

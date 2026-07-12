@@ -11,6 +11,7 @@ date_end: '1911'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XX'

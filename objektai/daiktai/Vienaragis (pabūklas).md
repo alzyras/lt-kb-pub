@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

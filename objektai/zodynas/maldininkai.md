@@ -14,10 +14,10 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - sąvoka
-  - valdovas
+  - religinis-terminas
+  - karinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XI'
   - 'XIV'

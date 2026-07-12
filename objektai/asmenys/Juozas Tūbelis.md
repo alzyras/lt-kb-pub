@@ -11,10 +11,9 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - institucija
-  - kraštas
-  - tauta
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

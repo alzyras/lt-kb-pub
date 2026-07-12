@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - ordinas
-  - pilis
+  - pareigūnas
+  - diplomatas
+  - karvedys
 amziai:
   - 'XV'
 periodo_grupes:

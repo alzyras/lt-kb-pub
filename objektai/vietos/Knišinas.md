@@ -12,9 +12,7 @@ date_end: '1576'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - kraštas
-  - valdovas
   - vieta
 amziai:
   - 'XVI'

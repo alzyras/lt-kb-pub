@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - pilis
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'

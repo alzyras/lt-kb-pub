@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - pilis
-  - upė
-  - šeima
 amziai:
   - 'XVII'
 periodo_grupes:

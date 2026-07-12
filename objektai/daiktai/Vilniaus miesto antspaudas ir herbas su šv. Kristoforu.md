@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - antspaudas
   - daiktas
-  - institucija
-  - karalius
 amziai:
   - 'XVI'
 media_total_count: '0'

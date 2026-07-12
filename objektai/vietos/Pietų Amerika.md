@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - kraštas
 amziai:
   - 'XX'
 media_total_count: '0'

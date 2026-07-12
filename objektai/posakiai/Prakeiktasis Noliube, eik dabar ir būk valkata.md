@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
+  - citata
   - posakis
-  - sutartis
 amziai:
   - 'XIII'
 media_total_count: '0'

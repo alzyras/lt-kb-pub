@@ -9,9 +9,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - karas
-  - mūšis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

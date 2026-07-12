@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

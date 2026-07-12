@@ -11,10 +11,9 @@ date_end: '1419'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
+  - ritualas
   - paprotys
-  - tauta
+  - politinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

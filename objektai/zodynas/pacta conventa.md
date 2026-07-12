@@ -11,9 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - sutartis
   - sąvoka
+  - teisinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

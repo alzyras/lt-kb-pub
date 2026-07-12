@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - kunigas
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - tauta
-  - šeima
 amziai:
   - 'XX'
 periodo_grupes:

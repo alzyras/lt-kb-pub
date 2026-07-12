@@ -15,7 +15,6 @@ date_end: '1386'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - pilis
   - vieta
 amziai:

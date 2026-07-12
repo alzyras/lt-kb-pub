@@ -12,10 +12,8 @@ date_end: '1417'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - krikštas
-  - tikėjimas
 amziai:
   - 'XIV'
   - 'XV'

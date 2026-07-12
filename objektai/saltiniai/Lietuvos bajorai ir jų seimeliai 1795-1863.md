@@ -15,9 +15,7 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - saltinis
-  - seimas
 amziai:
   - 'XVIII'
   - 'XX'

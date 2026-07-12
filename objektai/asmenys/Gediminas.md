@@ -21,7 +21,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - ginklas
+  - kunigaikštis
+  - karys
 amziai:
   - 'XIV'
 periodo_grupes: []

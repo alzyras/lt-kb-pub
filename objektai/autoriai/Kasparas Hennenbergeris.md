@@ -9,6 +9,8 @@ date_start: '1584'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

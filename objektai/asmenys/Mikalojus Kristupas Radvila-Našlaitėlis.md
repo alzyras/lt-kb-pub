@@ -13,6 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - didikas
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

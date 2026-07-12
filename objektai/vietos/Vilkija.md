@@ -14,9 +14,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - upė
   - vieta
+  - kraštas
+  - kaimas
 amziai:
   - 'XVIII'
   - 'XXI'

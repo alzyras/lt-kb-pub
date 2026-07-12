@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - miestas
-  - mūšis
   - vieta
 amziai:
   - 'XVII'

@@ -9,6 +9,9 @@ date_start: '1370'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

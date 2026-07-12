@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - upė
 amziai:
   - 'XVI'
 periodo_grupes:

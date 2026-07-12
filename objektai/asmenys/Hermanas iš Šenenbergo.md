@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
   - karvedys
-  - kraštas
 amziai:
   - 'XIII'
 periodo_grupes:

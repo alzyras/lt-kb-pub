@@ -12,9 +12,7 @@ date_end: '1586'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
+  - šventė
   - paprotys
 amziai:
   - 'XVI'

@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - vyskupas
-  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

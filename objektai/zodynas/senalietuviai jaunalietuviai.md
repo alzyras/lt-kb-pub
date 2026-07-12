@@ -14,9 +14,8 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

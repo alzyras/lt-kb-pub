@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kunigaikštis
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

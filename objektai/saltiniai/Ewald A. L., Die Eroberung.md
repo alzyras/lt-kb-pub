@@ -17,9 +17,6 @@ date_end: '1283'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - ordinas
-  - pilis
   - saltinis
 amziai:
   - 'XIII'

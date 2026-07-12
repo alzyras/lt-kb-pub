@@ -11,6 +11,7 @@ date_end: '1957'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilėlis
   - autorius
 amziai:
   - 'XIX'

@@ -11,6 +11,9 @@ date_start: '1354'
 date_end: '1451'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - bajoras
+  - asmuo
 amziai:
   - 'XIV'
   - 'XV'

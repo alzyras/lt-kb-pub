@@ -11,10 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigas
-  - ordinas
-  - popiežius
+  - sąvoka
+  - religinis-terminas
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,8 +11,8 @@ date_end: '1260'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - teisinis-terminas
   - sąvoka
-  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

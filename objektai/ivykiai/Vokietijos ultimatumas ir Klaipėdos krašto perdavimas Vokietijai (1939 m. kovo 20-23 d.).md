@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
   - sutartis
 amziai:
   - 'XX'

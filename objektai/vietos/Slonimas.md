@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - ordinas
   - vieta
 amziai:
   - 'XIII'

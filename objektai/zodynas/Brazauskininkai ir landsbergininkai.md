@@ -12,7 +12,7 @@ date_end: '1996'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
+  - politinis-terminas
   - sąvoka
 amziai:
   - 'XX'

@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - formulė
+  - posakis
 amziai:
   - 'XV'
   - 'XXI'

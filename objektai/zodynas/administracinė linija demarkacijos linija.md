@@ -15,10 +15,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - politinis-terminas
   - sąvoka
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

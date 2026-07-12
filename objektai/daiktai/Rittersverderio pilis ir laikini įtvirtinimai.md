@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kraštas
-  - kunigaikštis
-  - miestas
+  - paminklas
 amziai:
   - 'XIV'
 media_total_count: '0'

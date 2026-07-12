@@ -9,6 +9,10 @@ date_start: '1342'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
+  - tauta
+  - etninė-grupė
 amziai:
   - 'XIV'
 media_total_count: '0'

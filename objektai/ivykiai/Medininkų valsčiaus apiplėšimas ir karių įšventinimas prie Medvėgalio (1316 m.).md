@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - kraštas
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

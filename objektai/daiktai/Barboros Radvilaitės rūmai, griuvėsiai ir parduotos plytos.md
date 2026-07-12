@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kraštas
-  - miestas
-  - pilis
 amziai:
   - 'XIX'
 media_total_count: '0'

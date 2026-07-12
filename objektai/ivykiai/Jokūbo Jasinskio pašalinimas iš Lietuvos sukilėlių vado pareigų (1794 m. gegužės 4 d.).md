@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - institucija
   - ivykis
   - karas
+  - sukilimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - miestas
   - mokslininkas
+  - kunigaikštis
 amziai:
   - 'XVI'
 periodo_grupes:

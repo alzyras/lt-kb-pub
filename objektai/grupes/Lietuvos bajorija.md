@@ -18,8 +18,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XV'
   - 'XXI'

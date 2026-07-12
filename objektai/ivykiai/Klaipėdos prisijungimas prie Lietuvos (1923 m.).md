@@ -12,7 +12,10 @@ date_end: '1924'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ["politinis-sprendimas", "konfliktas"]
+  - žygis
+  - sukilimas
+  - seimas
+  - konfliktas
 amziai:
   - 'XX'
 media_total_count: '0'

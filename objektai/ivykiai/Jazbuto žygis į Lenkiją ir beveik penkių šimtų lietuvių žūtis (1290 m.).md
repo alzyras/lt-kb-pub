@@ -11,8 +11,8 @@ date_end: '1290'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - upė
 amziai:
   - 'XII'
   - 'XIII'

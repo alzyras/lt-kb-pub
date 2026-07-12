@@ -10,6 +10,9 @@ date_start: '1567'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestas
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

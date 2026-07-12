@@ -11,7 +11,7 @@ date_end: '1435'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - prekyba
   - paprotys
 amziai:
   - 'XV'

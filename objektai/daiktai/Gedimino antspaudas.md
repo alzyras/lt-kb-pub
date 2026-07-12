@@ -11,7 +11,9 @@ date_end: '1966'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - antspaudas
   - simbolis
+  - daiktas
 amziai:
   - 'XIV'
   - 'XX'

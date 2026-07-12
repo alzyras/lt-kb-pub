@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
   - sutartis
-  - teisinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

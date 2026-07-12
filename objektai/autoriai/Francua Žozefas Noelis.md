@@ -10,6 +10,9 @@ date_start: '1751'
 date_end: '1841'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - mokslininkas
 amziai:
   - 'XVIII'
   - 'XIX'

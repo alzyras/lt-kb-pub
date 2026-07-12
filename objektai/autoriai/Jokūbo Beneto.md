@@ -11,8 +11,8 @@ date_end: '1674'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
-  - mūšis
 amziai:
   - 'XVII'
 periodo_grupes:

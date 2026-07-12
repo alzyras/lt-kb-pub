@@ -10,7 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - saltinis
 amziai:
   - 'XX'

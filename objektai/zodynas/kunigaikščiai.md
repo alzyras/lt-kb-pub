@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
+  - politinis-terminas
+  - pareigybė
   - sąvoka
-  - valdovas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

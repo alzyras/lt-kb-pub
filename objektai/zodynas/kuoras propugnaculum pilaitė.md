@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - pilis
   - sąvoka
-  - upė
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

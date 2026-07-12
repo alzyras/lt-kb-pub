@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - laidotuvės
-  - miestas
   - paprotys
   - socialinė-praktika
 media_total_count: '0'

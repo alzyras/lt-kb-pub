@@ -16,6 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - kraštas
 amziai:
   - 'XIV'
 media_total_count: '0'

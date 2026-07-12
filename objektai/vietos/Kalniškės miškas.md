@@ -12,8 +12,7 @@ date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - mūšis
+  - gamtinis-objektas
   - vieta
 amziai:
   - 'XX'

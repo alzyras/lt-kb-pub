@@ -11,10 +11,7 @@ date_end: '1430'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
   - posakis
-  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

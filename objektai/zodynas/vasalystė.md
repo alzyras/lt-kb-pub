@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sutartis
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIV'

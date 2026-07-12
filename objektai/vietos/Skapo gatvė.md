@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - sutartis
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

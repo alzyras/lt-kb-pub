@@ -17,7 +17,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
   - mūšis
 amziai:
   - 'XIV'

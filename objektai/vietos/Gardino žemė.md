@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - pilis
   - vieta
 media_total_count: '0'

@@ -13,10 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - paliaubos
-  - sutartis
   - vieta
+  - miestas
 amziai:
   - 'XX'
   - 'XXI'

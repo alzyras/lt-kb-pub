@@ -11,10 +11,8 @@ date_end: '1416'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - karas
-  - kraštas
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

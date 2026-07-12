@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - formulė
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

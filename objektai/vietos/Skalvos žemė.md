@@ -14,6 +14,8 @@ atnaujinta: ''
 tags:
   - upė
   - vieta
+  - žemė
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

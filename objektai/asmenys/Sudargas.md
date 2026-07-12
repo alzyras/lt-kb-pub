@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - ordinas
-  - šeima
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
   - saltinis
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

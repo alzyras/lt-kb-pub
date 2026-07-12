@@ -9,6 +9,8 @@ date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

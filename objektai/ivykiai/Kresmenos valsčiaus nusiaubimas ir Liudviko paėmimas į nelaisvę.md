@@ -19,10 +19,8 @@ date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - karas
   - ivykis
-  - miestas
-  - ordinas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - mokslininkas
-  - vyskupas
+  - dokumentas
 amziai:
   - 'XX'
 media_total_count: '0'

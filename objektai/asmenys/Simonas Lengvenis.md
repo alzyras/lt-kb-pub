@@ -13,8 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - kunigaikštis
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

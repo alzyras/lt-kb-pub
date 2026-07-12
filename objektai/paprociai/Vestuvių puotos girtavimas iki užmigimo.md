@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - paprotys
   - šeima
 media_total_count: '0'

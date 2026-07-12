@@ -10,6 +10,9 @@ date_start: '1311'
 date_end: '1313'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

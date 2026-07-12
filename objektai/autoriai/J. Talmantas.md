@@ -13,6 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - karalius
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

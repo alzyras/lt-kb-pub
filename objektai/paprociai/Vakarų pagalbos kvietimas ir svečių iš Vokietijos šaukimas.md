@@ -11,6 +11,9 @@ date_start: '1202'
 date_end: '1203'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XIII'
 media_total_count: '0'

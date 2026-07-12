@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - karalius
-  - miestas
+  - vyskupas
+  - bajoras
 amziai:
   - 'XVI'
 periodo_grupes:

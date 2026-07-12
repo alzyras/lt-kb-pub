@@ -11,6 +11,9 @@ date_start: '1382'
 date_end: '1459'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XIV'
   - 'XV'

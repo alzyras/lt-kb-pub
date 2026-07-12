@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - popiežius
-  - sutartis
 amziai:
   - 'XIII'
 periodo_grupes:

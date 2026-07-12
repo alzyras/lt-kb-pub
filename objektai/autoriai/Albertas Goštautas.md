@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
+  - pareigūnas
   - autorius
-  - institucija
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XVI'
 periodo_grupes:

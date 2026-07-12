@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigas
   - ordinas
-  - popiežius
 amziai:
   - 'XX'
   - 'XXI'

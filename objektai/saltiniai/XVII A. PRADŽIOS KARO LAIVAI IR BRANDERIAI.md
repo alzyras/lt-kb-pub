@@ -11,7 +11,6 @@ date_end: '1700'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - saltinis
 amziai:
   - 'XVII'

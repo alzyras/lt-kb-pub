@@ -17,10 +17,8 @@ date_end: '2002'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - vieta
-  - vyskupas
-  - šeima
+  - miestas
 amziai:
   - 'XV'
   - 'XXI'

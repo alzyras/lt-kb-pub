@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - karinis-terminas
   - religinis-terminas
+  - sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

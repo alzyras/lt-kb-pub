@@ -13,8 +13,8 @@ date_end: '1132'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - posakis
+  - frazė
 amziai:
   - 'XI'
   - 'XII'

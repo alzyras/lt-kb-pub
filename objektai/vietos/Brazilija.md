@@ -12,6 +12,7 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valstybė
   - vieta
 amziai:
   - 'XX'

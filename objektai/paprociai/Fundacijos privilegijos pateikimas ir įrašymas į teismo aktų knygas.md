@@ -12,10 +12,8 @@ date_end: '1785'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigas
-  - miestas
   - paprotys
+  - prekyba
 amziai:
   - 'XV'
   - 'XVIII'

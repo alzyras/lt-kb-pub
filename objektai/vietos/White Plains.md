@@ -12,7 +12,7 @@ date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
+  - miestas
   - vieta
 amziai:
   - 'XX'

@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - kunigaikštis
   - miestas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
   - 'XV'

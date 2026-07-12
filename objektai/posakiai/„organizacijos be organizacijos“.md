@@ -13,9 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - posakis
-  - tauta
+  - frazė
 amziai:
   - 'XX'
   - 'XXI'

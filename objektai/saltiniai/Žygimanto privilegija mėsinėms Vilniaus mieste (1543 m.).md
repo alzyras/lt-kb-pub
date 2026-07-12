@@ -11,9 +11,6 @@ date_end: '1579'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - saltinis
 amziai:
   - 'XVI'

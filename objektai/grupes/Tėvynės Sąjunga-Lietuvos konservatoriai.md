@@ -12,8 +12,8 @@ date_end: '1996'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
   - grupe
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'

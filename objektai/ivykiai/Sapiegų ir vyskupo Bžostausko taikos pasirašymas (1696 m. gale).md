@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
-  - vyskupas
+  - diplomatinis-įvykis
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - kunigaikštis
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

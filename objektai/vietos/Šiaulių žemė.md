@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - žemė
   - pilis
   - vieta
 amziai:

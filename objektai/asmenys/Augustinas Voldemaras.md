@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - karas
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

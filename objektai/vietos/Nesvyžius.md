@@ -21,6 +21,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - pilis
 amziai:
   - 'XVI'
   - 'XVIII'

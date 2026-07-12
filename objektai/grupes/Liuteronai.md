@@ -18,8 +18,8 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - reforma
 amziai:
   - 'XVI'
   - 'XVIII'

@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
   - mūšis
-  - pilis
 amziai:
   - 'X'
   - 'XIV'

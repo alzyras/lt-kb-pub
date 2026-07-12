@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
   - vieta
-  - vyskupas
+  - dvaras
 amziai:
   - 'XIV'
   - 'XXI'

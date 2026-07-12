@@ -14,7 +14,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - formulė
   - posakis
 amziai:
   - 'XIV'

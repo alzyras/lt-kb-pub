@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - karas
-  - valstybė
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

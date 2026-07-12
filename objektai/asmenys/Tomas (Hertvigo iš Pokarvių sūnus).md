@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

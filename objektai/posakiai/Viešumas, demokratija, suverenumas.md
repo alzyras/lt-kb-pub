@@ -9,6 +9,10 @@ date_start: '1988'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šūkis
+  - formulė
+  - posakis
 amziai:
   - 'XX'
 media_total_count: '0'

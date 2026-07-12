@@ -10,6 +10,8 @@ date_start: '1700'
 date_end: '1767'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVII'
   - 'XVIII'

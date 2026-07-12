@@ -10,6 +10,9 @@ date_start: '1560'
 date_end: '1563'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

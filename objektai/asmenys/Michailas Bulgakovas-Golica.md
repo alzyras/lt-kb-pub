@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - mūšis
 amziai:
   - 'XVI'
 periodo_grupes:

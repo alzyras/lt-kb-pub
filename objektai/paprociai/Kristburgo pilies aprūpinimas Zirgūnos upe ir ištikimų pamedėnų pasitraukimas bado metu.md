@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - pilis
   - teisinė-praktika
   - tikėjimas
 media_total_count: '0'

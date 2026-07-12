@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - sąvoka
-  - valstybė
+  - istorinė-sąvoka
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

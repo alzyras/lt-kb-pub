@@ -9,6 +9,9 @@ date_start: '1385'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - ivykis
-  - karalius
   - karas
+  - mūšis
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -12,10 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
-  - karalius
-  - popiežius
+  - krikštas
 amziai:
   - 'XIV'
   - 'XXI'

@@ -11,7 +11,7 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

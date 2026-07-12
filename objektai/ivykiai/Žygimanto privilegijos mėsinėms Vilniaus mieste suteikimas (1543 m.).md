@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - miestas
+  - ekonominis-įvykis
+  - politinis-sprendimas
 amziai:
   - 'XVI'
 media_total_count: '0'

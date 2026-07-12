@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - karūnacija
   - ivykis
   - krikštas
-  - kunigaikštis
 amziai:
   - 'XIV'
 media_total_count: '0'

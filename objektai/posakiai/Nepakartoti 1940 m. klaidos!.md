@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - formulė
 amziai:
   - 'XX'
   - 'XXI'

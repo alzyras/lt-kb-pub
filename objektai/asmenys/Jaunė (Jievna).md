@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - šeima
+  - kunigaikštis
 amziai:
   - 'XIII'
   - 'XIV'

@@ -13,8 +13,8 @@ date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
+  - rankraštis
 amziai:
   - 'XIV'
 media_total_count: '0'

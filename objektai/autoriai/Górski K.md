@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - autorius
   - diplomatas
-  - miestas
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

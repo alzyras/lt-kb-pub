@@ -23,8 +23,8 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kraštas
   - tauta
+  - ordinas
 amziai:
   - 'XIV'
   - 'XXI'

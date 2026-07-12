@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3.
+Objektų skaičius: 11.
 
 ## Kaip naudoti
 
@@ -19,6 +19,14 @@ Objektų skaičius: 3.
 ## Susiję objektai
 
 ### Papročiai
+- [[objektai/paprociai/Aleksandro ir Elenos sutikimo, jungtuvių ir vestuvių vaišinimo apeigos]]
+- [[objektai/paprociai/Gedimino dinastinė vedybų politika]]
+- [[objektai/paprociai/LDK užimtų Rusios žemių senosios tvarkos palikimas]]
+- [[objektai/paprociai/Lotyniško krikšto privalomumas ir mišrių moterystių draudimas|Lotyniško krikšto privalomumas ir mišrių moterystių draudimas (krikštas)]]
+- [[objektai/paprociai/Mergaičių, nuotakų, žmonų ir našlių galvos puošyba]]
+- [[objektai/paprociai/Tarpukario jaunos poros santuokos Paryžiuje kaip prestižinė kultūrinė praktika]]
+- [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]
 - [[objektai/paprociai/Vestuvių ir pokylių alaus nešėjas]]
 - [[objektai/paprociai/Vestuvių kraičio vežimo, išpirkimo ir kraičvežių vaišinimo paprotys]]
+- [[objektai/paprociai/Vėlyvos santuokos, kraitis ir vestuvių sutartys]]
 - [[objektai/paprociai/„Prikeltuvių“ ir jaunamarčios apdovanojimo paprotys]]

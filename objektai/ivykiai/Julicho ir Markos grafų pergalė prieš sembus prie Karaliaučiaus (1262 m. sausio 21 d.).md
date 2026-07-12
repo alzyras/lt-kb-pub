@@ -11,10 +11,8 @@ date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - mūšis
   - ivykis
-  - pilis
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

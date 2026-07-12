@@ -13,7 +13,9 @@ date_end: '1915'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XVIII'
   - 'XX'

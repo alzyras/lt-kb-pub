@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - ginklas
 amziai:
   - 'XVIII'
   - 'XX'

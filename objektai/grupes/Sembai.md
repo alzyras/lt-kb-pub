@@ -23,6 +23,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - gentis
 amziai:
   - 'XI'
   - 'XXI'

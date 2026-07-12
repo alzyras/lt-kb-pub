@@ -22,6 +22,9 @@ date_start: '675'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - vieta
 amziai:
   - 'VII'
   - 'XXI'

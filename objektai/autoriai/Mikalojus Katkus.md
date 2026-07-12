@@ -35,6 +35,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - rašytojas
   - autorius
 ---
 # Mikalojus Katkus

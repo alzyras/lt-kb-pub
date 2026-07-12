@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - miestas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

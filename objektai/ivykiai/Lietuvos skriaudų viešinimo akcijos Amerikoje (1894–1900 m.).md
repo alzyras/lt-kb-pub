@@ -7,9 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigas
-  - tauta
-  - teisinė-praktika
+  - kultūrinis-įvykis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

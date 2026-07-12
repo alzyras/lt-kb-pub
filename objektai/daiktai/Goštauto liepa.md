@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - kunigas
-  - tauta
 amziai:
   - 'XIV'
   - 'XVII'

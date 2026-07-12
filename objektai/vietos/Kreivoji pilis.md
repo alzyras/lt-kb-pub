@@ -9,6 +9,9 @@ date_start: '1390'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

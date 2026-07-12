@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - paliaubos
-  - pilis
 amziai:
   - 'M'
 periodo_grupes: []

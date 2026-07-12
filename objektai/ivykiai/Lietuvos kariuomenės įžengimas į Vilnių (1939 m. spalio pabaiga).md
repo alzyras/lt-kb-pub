@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - sutartis
 amziai:
   - 'XX'
 media_total_count: '0'

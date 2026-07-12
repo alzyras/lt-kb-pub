@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
+  - žygis
   - ivykis
-  - karalius
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

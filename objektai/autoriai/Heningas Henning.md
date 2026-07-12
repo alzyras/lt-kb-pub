@@ -10,6 +10,9 @@ date_start: '1264'
 date_end: '1283'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai:
   - 'XIII'
 periodo_grupes:

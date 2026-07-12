@@ -12,10 +12,8 @@ date_end: '1436'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
-  - sutartis
-  - teisinė-praktika
-  - šeima
 amziai:
   - 'XV'
 periodo_grupes:

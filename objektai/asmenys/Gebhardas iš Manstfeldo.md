@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - kraštas
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

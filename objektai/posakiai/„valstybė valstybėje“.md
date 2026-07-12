@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - frazė
   - posakis
-  - tauta
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

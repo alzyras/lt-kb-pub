@@ -29,6 +29,8 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - kariuomenė
+  - ordinas
 amziai:
   - 'XI'
   - 'XVI'

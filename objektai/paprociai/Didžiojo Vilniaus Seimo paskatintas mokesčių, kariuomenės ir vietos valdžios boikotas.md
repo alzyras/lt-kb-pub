@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - paprotys
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

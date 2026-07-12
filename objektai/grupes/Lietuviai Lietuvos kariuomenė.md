@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
+  - kariuomenė
   - grupe
-  - miestas
   - ordinas
 amziai:
   - 'XIV'

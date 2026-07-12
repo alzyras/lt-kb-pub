@@ -16,6 +16,8 @@ variantai:
   - 'Ipatijaus metraštis'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIII'
 media_total_count: '0'

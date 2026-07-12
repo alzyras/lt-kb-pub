@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - ordinas
-  - pilis
+  - istorikas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -20,8 +20,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - mūšis
   - ordinas
+  - kariuomenė
 amziai:
   - 'XIII'
   - 'XXI'

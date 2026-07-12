@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - popiežius
-  - tikėjimas
   - vieta
 amziai:
   - 'XX'

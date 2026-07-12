@@ -14,7 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - valdovas
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

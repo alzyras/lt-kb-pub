@@ -11,9 +11,8 @@ date_end: '1390'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - sąvoka
-  - vyskupas
+  - ekonominis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

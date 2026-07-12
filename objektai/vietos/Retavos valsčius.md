@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - žemėlapis
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

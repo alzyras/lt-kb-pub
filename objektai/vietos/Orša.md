@@ -11,9 +11,7 @@ date_end: '1514'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - kunigaikštis
+  - miestas
   - vieta
 amziai:
   - 'XVI'

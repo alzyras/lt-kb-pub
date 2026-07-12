@@ -9,6 +9,9 @@ date_start: '1852'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kapavietė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

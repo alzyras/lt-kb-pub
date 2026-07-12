@@ -11,9 +11,6 @@ date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - sąvoka
 amziai:
   - 'XVI'

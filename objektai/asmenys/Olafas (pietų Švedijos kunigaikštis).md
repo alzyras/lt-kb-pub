@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - krikštas
   - kunigaikštis
+  - valdovas
 amziai:
   - 'XI'
 periodo_grupes:

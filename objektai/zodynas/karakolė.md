@@ -12,6 +12,9 @@ date_start: '1601'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinis-terminas
+  - sąvoka
 amziai:
   - 'XVII'
   - 'XXI'

@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - ordinas
 amziai:
   - 'XII'
   - 'XIII'

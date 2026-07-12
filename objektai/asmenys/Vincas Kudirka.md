@@ -16,8 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - institucija
   - redaktorius
 amziai:
   - 'XIX'

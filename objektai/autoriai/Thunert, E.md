@@ -10,8 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - karas
-  - mūšis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

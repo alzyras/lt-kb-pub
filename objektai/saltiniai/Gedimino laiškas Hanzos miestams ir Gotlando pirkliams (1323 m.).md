@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - kunigas
   - saltinis
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

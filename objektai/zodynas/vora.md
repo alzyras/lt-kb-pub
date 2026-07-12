@@ -12,6 +12,7 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIII'

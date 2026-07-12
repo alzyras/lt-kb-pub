@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - valstybė
+  - politinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

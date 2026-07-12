@@ -11,7 +11,6 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
 amziai:
   - 'XV'

@@ -11,10 +11,10 @@ date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
   - pilis
   - valstybė
+  - vieta
 amziai:
   - 'XIV'
   - 'XX'

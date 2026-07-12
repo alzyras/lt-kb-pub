@@ -10,6 +10,9 @@ date_start: '1863'
 date_end: '1864'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sukilimas
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

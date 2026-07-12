@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
   - vieta
+  - kaimas
 amziai:
   - 'XX'
 media_total_count: '0'

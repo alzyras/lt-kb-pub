@@ -11,10 +11,8 @@ date_end: '1795'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
   - paprotys
-  - seimas
+  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

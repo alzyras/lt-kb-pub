@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - dokumentas
   - saltinis
-  - valdovas
-  - valstybė
 amziai:
   - 'XVIII'
 media_total_count: '0'

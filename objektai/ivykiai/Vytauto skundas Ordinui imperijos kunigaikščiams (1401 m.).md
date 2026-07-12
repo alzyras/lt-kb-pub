@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - ginklas
+  - diplomatinis-įvykis
   - ivykis
-  - kunigaikštis
+  - politinis-sprendimas
 amziai:
   - 'XV'
 media_total_count: '0'

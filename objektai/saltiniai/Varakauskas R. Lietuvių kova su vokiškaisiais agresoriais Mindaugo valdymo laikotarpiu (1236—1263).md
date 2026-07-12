@@ -12,9 +12,7 @@ date_end: '1958'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
-  - valstybė
 amziai:
   - 'XIII'
   - 'XX'

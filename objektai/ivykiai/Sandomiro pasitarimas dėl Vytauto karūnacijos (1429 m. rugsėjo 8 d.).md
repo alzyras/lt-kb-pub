@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
+  - karūnacija
   - ivykis
 amziai:
   - 'XV'

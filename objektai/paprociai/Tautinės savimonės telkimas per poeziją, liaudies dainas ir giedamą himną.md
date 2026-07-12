@@ -11,9 +11,6 @@ date_end: '1895'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigas
-  - mokslininkas
   - paprotys
 amziai:
   - 'XIX'

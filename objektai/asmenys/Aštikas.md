@@ -11,6 +11,7 @@ date_end: '1436'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
 amziai:
   - 'XV'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
-  - tauta
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

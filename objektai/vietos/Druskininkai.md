@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - ežeras
   - kraštas
-  - sutartis
   - vieta
 amziai:
   - 'XX'

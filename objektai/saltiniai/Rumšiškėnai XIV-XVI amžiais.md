@@ -13,7 +13,6 @@ date_end: '1970'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
   - saltinis
 amziai:
   - 'XX'

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
 amziai:
   - 'XIII'
 media_total_count: '0'

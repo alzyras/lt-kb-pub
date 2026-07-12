@@ -14,8 +14,8 @@ date_end: '1541'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - šeima
 amziai:
   - 'XV'
   - 'XVI'

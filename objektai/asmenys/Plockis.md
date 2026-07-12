@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - pinigai
 amziai:
   - 'XIV'
 periodo_grupes:

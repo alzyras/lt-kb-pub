@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - saltinis
-  - valdovas
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

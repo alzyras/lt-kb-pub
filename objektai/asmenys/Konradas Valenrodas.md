@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - pilis
-  - tikėjimas
+  - mokslininkas
 amziai:
   - 'XIV'
 periodo_grupes:

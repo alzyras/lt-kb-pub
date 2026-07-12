@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kunigas
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
+  - dokumentas
   - saltinis
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'

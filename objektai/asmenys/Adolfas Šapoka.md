@@ -9,6 +9,10 @@ date_start: '1936'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - redaktorius
+  - asmuo
 amziai:
   - 'XX'
 periodo_grupes:

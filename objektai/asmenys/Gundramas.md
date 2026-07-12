@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - ginklas
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

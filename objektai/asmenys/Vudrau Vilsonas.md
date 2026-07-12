@@ -11,8 +11,9 @@ date_end: '1917'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
+  - pareigūnas
   - asmuo
-  - karas
 amziai:
   - 'XX'
 periodo_grupes:

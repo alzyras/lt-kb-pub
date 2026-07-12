@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - valstybė
-  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

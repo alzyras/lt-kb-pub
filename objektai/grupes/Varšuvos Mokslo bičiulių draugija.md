@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
+  - institucija
 amziai:
   - 'XIX'
 media_total_count: '0'

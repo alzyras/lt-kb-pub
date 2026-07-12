@@ -11,7 +11,7 @@ date_end: '1413'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - citata
   - posakis
 amziai:
   - 'XV'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - pinigai
   - popiežius
 amziai:
   - 'XIII'

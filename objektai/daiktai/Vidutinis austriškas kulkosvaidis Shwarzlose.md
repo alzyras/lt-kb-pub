@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
+  - karo-reikmuo
   - daiktas
 amziai:
   - 'X'

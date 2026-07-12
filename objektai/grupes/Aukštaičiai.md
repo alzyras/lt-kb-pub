@@ -11,9 +11,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
   - ordinas
-  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'

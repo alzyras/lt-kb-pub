@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sukilimas
   - vyskupas
 amziai:
   - 'XVIII'

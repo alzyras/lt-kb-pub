@@ -11,6 +11,8 @@ date_start: '1830'
 date_end: '1855'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

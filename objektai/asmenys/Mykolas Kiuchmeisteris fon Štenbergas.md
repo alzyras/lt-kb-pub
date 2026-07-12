@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
+  - pareigūnas
   - asmuo
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

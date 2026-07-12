@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mokslininkas
+  - švietimas
+  - socialinė-praktika
   - paprotys
-  - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

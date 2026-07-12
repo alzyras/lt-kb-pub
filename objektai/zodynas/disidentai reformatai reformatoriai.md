@@ -12,10 +12,9 @@ date_end: '1576'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - karalius
-  - kunigaikštis
+  - religinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

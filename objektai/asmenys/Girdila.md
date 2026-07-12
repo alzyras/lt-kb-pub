@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -11,7 +11,7 @@ date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - kaimas
   - vieta
 amziai:
   - 'XIII'

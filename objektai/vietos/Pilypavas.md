@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - gyvenvietė
 amziai:
   - 'XVII'
 media_total_count: '0'

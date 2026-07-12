@@ -13,6 +13,9 @@ date_start: '1298'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIII'
   - 'XXI'

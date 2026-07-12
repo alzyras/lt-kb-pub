@@ -13,6 +13,7 @@ date_end: '2000'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - tauta
   - grupe
 amziai:
   - 'XIX'

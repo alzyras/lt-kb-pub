@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - seimas
 amziai:
   - 'XX'
 periodo_grupes:

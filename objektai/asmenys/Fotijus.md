@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
+  - karalius
 amziai:
   - 'XV'
 periodo_grupes:

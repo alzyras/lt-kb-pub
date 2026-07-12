@@ -5,6 +5,11 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - istorikas
+  - valdovas
+  - asmuo
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

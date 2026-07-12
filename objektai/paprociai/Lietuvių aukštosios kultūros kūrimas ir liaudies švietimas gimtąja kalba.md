@@ -13,8 +13,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - švietimas
   - paprotys
-  - tauta
   - šeima
 amziai:
   - 'XVIII'

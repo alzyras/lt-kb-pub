@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - vieta
-  - vyskupas
+  - pilis
 amziai:
   - 'XIV'
   - 'XXI'

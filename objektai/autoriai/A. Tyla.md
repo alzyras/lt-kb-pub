@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - sukilimas
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -11,9 +11,8 @@ date_end: '1292'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - pilis
-  - teisinė-praktika
 amziai:
   - 'XIII'
 periodo_grupes:

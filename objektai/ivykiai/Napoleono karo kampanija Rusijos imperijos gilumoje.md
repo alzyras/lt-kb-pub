@@ -11,10 +11,8 @@ date_end: '1814'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - karas
-  - kraštas
 amziai:
   - 'XIX'
 media_total_count: '0'

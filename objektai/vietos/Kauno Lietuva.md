@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - lietuva
   - vieta
+  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

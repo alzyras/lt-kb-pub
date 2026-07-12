@@ -11,10 +11,8 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - seimas
+  - politinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

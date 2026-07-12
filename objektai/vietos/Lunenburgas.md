@@ -11,8 +11,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - pilis
   - vieta
 amziai:

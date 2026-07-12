@@ -10,6 +10,9 @@ date_start: '1532'
 date_end: '1597'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -15,7 +15,6 @@ tags:
   - ivykis
   - seimas
   - sutartis
-  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'

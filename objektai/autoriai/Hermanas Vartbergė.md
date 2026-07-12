@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - karalius
-  - ordinas
-  - pilis
+  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'

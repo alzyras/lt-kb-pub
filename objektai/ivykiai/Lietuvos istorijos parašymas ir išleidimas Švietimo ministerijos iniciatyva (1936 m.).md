@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - kultūrinis-įvykis
   - ivykis
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

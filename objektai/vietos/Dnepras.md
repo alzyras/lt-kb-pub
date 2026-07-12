@@ -12,6 +12,9 @@ date_start: '1540'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

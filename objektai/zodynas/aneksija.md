@@ -13,10 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - seimas
   - sąvoka
-  - tauta
+  - politinis-terminas
 amziai:
   - 'XV'
   - 'XXI'

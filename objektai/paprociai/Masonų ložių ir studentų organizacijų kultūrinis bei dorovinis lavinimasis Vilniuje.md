@@ -12,7 +12,6 @@ date_end: '1817'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - paprotys
   - ritualas
 amziai:

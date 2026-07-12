@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - miestas
-  - mokslininkas
 amziai:
   - 'XX'
 media_total_count: '0'

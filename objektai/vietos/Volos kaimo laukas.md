@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - elekcija
   - valstybė
   - vieta
 media_total_count: '0'

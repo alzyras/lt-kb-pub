@@ -12,6 +12,7 @@ date_end: '1350'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XIV'

@@ -18,7 +18,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - miestas
   - tauta
 amziai:
   - 'XVIII'

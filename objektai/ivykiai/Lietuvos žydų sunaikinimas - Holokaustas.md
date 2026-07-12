@@ -16,8 +16,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - miestas
-  - tauta
+  - okupacija
 amziai:
   - 'XX'
 media_total_count: '0'

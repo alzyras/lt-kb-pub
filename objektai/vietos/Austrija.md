@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - reforma
-  - tikėjimas
   - valstybė
+  - vieta
 amziai:
   - 'XVIII'
   - 'XXI'

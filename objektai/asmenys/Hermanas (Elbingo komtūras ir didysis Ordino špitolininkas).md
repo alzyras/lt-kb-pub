@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ežeras
-  - miestas
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

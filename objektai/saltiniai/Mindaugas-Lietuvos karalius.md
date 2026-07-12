@@ -14,10 +14,7 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - saltinis
-  - šeima
 amziai:
   - 'XIII'
   - 'XX'

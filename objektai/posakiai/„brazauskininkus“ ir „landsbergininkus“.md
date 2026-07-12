@@ -13,9 +13,8 @@ date_end: '2000'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
+  - citata
   - posakis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

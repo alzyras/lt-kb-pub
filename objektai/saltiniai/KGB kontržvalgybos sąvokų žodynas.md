@@ -13,10 +13,7 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
   - saltinis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

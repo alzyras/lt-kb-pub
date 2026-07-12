@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - institucija
+  - šūkis
   - posakis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

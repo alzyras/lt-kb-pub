@@ -16,9 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
-  - ordinas
 amziai:
   - 'XI'
   - 'XIV'

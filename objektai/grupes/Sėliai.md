@@ -11,7 +11,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gentis
   - grupe
+  - etninė-grupė
 amziai:
   - 'XX'
   - 'XXI'

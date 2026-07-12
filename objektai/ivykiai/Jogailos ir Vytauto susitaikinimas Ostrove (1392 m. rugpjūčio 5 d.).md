@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - karas
-  - kraštas
+  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

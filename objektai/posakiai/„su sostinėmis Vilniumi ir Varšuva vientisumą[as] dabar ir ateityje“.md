@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - citata
   - posakis
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - žemė
 amziai:
   - 'XIII'
   - 'XXI'

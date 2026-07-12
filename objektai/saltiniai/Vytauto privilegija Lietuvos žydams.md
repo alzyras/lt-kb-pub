@@ -12,9 +12,7 @@ date_end: '1807'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - tauta
 amziai:
   - 'XV'
   - 'XIX'

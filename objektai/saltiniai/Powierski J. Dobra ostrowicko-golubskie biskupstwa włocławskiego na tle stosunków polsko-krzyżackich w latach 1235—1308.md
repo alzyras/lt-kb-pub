@@ -15,7 +15,6 @@ date_end: '1308'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - saltinis
 amziai:
   - 'XIII'

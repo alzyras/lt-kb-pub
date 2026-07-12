@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
   - seimas
-  - šventė
 amziai:
   - 'XVII'
 media_total_count: '0'

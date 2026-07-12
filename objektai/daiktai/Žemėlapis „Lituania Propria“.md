@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - tauta
   - žemėlapis
 amziai:
   - 'XX'

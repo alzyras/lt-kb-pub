@@ -9,6 +9,9 @@ date_start: '1297'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

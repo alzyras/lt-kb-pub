@@ -10,6 +10,9 @@ date_start: '1350'
 date_end: '1425'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - asmuo
 amziai:
   - 'XIV'
   - 'XV'

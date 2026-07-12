@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - pinigai
-  - sukilimas
+  - istorikas
 amziai:
   - 'XVIII'
 periodo_grupes:

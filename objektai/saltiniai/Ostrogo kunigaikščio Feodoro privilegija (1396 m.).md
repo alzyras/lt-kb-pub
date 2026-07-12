@@ -11,7 +11,6 @@ date_end: '1396'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - saltinis
 amziai:
   - 'XIV'

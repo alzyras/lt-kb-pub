@@ -9,6 +9,9 @@ date_start: '269'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - asmuo
 amziai:
   - 'III'
 periodo_grupes:

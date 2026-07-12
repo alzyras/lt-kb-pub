@@ -9,6 +9,9 @@ date_start: '340'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai:
   - 'IV'
 periodo_grupes:

@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - reforma
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'

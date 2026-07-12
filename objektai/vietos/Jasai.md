@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - miestas
   - vieta
 amziai:
   - 'XVII'

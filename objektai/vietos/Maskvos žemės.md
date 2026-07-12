@@ -13,9 +13,7 @@ date_end: '1376'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
-  - mūšis
+  - kraštas
   - vieta
 amziai:
   - 'XIV'

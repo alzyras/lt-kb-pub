@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - sukilimas
 amziai:
   - 'XIX'
 periodo_grupes:

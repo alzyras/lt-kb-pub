@@ -13,10 +13,8 @@ date_end: '1828'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - giminė
   - grupe
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XV'
   - 'XIX'

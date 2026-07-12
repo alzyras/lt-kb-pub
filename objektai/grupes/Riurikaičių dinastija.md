@@ -14,8 +14,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - kunigaikštis
-  - šeima
 amziai:
   - 'XVI'
   - 'XXI'

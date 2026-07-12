@@ -14,10 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
   - saltinis
-  - valdovas
+  - dokumentas
 amziai:
   - 'XVI'
   - 'XXI'

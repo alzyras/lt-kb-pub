@@ -9,6 +9,9 @@ date_start: '1945'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sukilėlis
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

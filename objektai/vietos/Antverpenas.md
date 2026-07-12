@@ -10,6 +10,9 @@ date_start: '1650'
 date_end: '1669'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestas
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

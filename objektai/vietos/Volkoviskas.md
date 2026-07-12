@@ -13,8 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
   - vieta
+  - miestas
 amziai:
   - 'XX'
   - 'XXI'

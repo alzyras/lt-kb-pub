@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - sukilimas
+  - karvedys
+  - sukilėlis
 amziai:
   - 'XIX'
 periodo_grupes:

@@ -11,6 +11,9 @@ date_start: '1263'
 date_end: '1399'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - simbolis
+  - daiktas
 amziai:
   - 'XIII'
   - 'XIV'

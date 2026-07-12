@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - kunigas
 amziai:
   - 'L'
 periodo_grupes: []

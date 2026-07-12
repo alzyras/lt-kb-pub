@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
+  - karo-reikmuo
   - daiktas
-  - institucija
-  - karalius
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

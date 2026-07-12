@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

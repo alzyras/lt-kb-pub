@@ -15,7 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
+  - kunigaikštis
 amziai:
   - 'XIV'
   - 'XV'

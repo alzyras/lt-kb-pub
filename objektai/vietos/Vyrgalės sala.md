@@ -11,7 +11,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - upė
   - vieta
 amziai:

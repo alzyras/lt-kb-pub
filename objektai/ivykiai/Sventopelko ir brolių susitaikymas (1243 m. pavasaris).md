@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - pilis
   - sutartis
 amziai:
   - 'XIII'

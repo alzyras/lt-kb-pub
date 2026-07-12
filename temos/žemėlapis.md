@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 19.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -18,35 +18,7 @@ Objektų skaičius: 19.
 
 ## Susiję objektai
 
-### Asmenys
-- [[objektai/asmenys/Mikalojus Daukša]]
-
-### Autoriai
-- [[objektai/autoriai/Aldona Bieliūnienė]]
-- [[objektai/autoriai/J. Andrius]]
-- [[objektai/autoriai/Lianskoronskij, V]]
-- [[objektai/autoriai/P. Šinkūnas]]
-- [[objektai/autoriai/Saulius Kaubrys]]
-- [[objektai/autoriai/T. Lehr-Splawiński]]
-- [[objektai/autoriai/Tarasenka P]]
-- [[objektai/autoriai/Zenonas Butkus]]
-- [[objektai/autoriai/Тоерреn M]]
-
 ### Daiktai
 - [[objektai/daiktai/Lenkijos ir Lietuvos Valstybės žemėlapis]]
 - [[objektai/daiktai/Žemėlapio fragmentas su „Tėve mūsų“ eilutėmis]]
 - [[objektai/daiktai/Žemėlapis „Lituania Propria“]]
-
-### Grupės
-- [[objektai/grupes/Arabai]]
-
-### Posakiai
-- [[objektai/posakiai/„Lithuania Propria“]]
-
-### Įvykiai
-- [[objektai/ivykiai/Dviejų Nadruvos pilių užėmimas Retavos valsčiuje]]
-- [[objektai/ivykiai/Sarajevo atentatas ir Pirmojo pasaulinio karo pradžia]]
-
-### Žodynas
-- [[objektai/zodynas/egzilinė vyriausybė]]
-- [[objektai/zodynas/monografija]]

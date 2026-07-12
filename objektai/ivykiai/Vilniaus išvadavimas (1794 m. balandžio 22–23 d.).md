@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - miestas
-  - pilis
+  - sukilimas
+  - mūšis
 amziai:
   - 'XVIII'
 media_total_count: '0'

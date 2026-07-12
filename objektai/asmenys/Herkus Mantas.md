@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - ordinas
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

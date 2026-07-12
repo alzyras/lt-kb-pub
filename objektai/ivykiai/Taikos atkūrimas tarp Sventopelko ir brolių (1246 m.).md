@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - ordinas
   - paliaubos
+  - sutartis
 amziai:
   - 'XIII'
 media_total_count: '0'

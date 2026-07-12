@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
   - mūšis
 amziai:
   - 'XIII'

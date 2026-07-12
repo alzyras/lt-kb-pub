@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - miestas
   - saltinis
 amziai:
   - 'XV'

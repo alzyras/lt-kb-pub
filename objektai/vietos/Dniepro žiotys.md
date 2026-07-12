@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - kraštas
   - vieta
+  - jūra
 amziai:
   - 'XIV'
   - 'XXI'

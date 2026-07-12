@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - ordinas
   - vieta
+  - regionas
 amziai:
   - 'XX'
   - 'XXI'

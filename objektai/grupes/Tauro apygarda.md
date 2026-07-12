@@ -14,8 +14,9 @@ date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - redaktorius
+  - organizacija
 amziai:
   - 'XX'
 media_total_count: '0'

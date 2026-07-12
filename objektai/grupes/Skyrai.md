@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
-  - miestas
   - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''

@@ -14,10 +14,9 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
+  - papuošalas
   - daiktas
-  - karalius
-  - ordinas
-  - valdovas
 amziai:
   - 'XV'
   - 'XX'

@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kraštas
   - saltinis
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

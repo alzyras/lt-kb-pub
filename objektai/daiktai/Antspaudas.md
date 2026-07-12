@@ -14,6 +14,8 @@ atnaujinta: ''
 tags:
   - daiktas
   - simbolis
+  - antspaudas
+  - dokumentas
 amziai:
   - 'XV'
   - 'XVII'

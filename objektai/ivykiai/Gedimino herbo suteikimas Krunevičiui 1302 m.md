@@ -9,6 +9,8 @@ date_start: '1302'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

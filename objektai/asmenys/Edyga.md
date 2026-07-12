@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - kraštas
-  - mūšis
+  - valdovas
+  - karvedys
 amziai:
   - 'XV'
 periodo_grupes:

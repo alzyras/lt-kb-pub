@@ -9,6 +9,8 @@ date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XVI'
 media_total_count: '0'

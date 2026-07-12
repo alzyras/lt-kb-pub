@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
-  - kraštas
-  - pilis
+  - saltinis
 amziai:
   - 'XVI'
 media_total_count: '0'

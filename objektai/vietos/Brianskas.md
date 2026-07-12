@@ -18,8 +18,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - vieta
+  - miestas
 amziai:
   - 'XIII'
   - 'XXI'

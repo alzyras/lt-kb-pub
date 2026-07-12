@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - frazė
+  - posakis
 amziai:
   - 'XV'
   - 'XXI'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - ginklas
-  - mūšis
-  - transportas
+  - metraštininkas
 amziai:
   - 'XIV'
 periodo_grupes:

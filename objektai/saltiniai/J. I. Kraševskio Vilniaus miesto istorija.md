@@ -12,8 +12,6 @@ date_end: '1842'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mokslininkas
   - saltinis
 amziai:
   - 'XVIII'

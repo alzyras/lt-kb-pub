@@ -9,6 +9,8 @@ date_start: '450'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'V'
 periodo_grupes:

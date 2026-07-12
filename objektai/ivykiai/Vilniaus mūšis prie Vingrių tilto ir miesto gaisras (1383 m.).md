@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - miestas
   - mūšis
 amziai:
   - 'XIV'

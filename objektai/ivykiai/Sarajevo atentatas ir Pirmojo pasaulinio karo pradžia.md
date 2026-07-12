@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - tauta
-  - žemėlapis
 amziai:
   - 'XX'
 media_total_count: '0'

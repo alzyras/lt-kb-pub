@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - miestas
   - paprotys
+  - kasdienybė
 amziai:
   - 'XVI'
 media_total_count: '0'

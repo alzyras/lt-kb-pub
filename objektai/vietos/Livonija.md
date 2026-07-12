@@ -27,10 +27,9 @@ date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - vieta
-  - vyskupas
+  - miestas
+  - valstybė
 amziai:
   - 'XII'
   - 'XVI'

@@ -17,9 +17,6 @@ date_end: '1992'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
-  - kraštas
   - saltinis
 amziai:
   - 'XVI'

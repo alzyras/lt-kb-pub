@@ -11,9 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - ordinas
   - sąvoka
+  - pareigybė
 amziai:
   - 'XVI'
 media_total_count: '0'

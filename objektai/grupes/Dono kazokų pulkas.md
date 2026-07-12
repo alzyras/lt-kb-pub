@@ -11,6 +11,7 @@ date_end: '1794'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
 amziai:
   - 'XVIII'

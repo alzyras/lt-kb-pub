@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - karalius
 amziai: []
 periodo_grupes: []
 media_total_count: '15'

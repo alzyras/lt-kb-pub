@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
   - ordinas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

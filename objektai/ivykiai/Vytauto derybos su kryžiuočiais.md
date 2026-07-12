@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - diplomatinis-įvykis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - šeima
 amziai:
   - 'XVIII'
   - 'XXI'

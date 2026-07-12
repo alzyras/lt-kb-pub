@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - sąvoka
-  - tauta
+  - politinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,8 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigas
   - tauta
+  - organizacija
 amziai:
   - 'XIX'
   - 'XX'

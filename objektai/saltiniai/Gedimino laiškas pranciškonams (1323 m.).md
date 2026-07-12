@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - kunigas
   - saltinis
 amziai:
   - 'XIV'

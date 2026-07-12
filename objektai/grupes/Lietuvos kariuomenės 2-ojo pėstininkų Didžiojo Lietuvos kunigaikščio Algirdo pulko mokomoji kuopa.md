@@ -11,9 +11,8 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - kunigaikštis
-  - mūšis
 amziai:
   - 'XX'
 media_total_count: '0'

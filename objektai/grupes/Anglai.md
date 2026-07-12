@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - tauta
 amziai:
   - 'XIV'
   - 'XIX'

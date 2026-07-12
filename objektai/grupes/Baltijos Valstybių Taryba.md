@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - sutartis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

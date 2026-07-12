@@ -16,9 +16,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - upė
   - vieta
+  - pilis
+  - sostinė
 amziai:
   - 'XIII'
   - 'XXI'

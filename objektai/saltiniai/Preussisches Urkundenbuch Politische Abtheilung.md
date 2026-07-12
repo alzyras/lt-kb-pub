@@ -19,6 +19,7 @@ date_end: '1975'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
 amziai:
   - 'XII'

@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

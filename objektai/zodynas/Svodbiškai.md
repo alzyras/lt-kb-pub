@@ -21,7 +21,9 @@ dalyviai: []
 susije_irasai: []
 patikimumas: ''
 atnaujinta: '2026-07-12'
-tags: []
+tags:
+  - sąvoka
+  - archajiškas-žodis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

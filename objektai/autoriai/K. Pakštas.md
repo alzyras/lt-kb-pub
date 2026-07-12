@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - tauta
-  - upė
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:

@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - kunigaikštis
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XI'

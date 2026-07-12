@@ -10,6 +10,9 @@ date_start: '1424'
 date_end: '1432'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karūnacija
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

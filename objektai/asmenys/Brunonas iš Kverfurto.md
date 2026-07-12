@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - misionierius
   - asmuo
-  - šeima
 amziai:
   - 'XI'
 periodo_grupes:

@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
-  - šeima
 amziai:
   - 'XX'
 periodo_grupes:

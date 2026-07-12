@@ -9,6 +9,11 @@ date_start: '1221'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - gamtinis-objektas
+  - šventvietė
+  - kapavietė
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

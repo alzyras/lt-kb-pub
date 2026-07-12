@@ -12,10 +12,8 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - sutartis
+  - politinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

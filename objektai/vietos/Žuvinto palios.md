@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - ginklas
-  - karas
   - vieta
 amziai:
   - 'XX'

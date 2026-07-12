@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karo-reikmuo
   - daiktas
-  - karalius
-  - kunigaikštis
-  - kunigas
 amziai:
   - 'XVI'
 media_total_count: '0'

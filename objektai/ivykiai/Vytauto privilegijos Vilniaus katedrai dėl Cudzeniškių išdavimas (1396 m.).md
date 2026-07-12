@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - pilis
+  - politinis-sprendimas
 amziai:
   - 'XIV'
   - 'XIX'

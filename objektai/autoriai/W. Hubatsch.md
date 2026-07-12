@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
+  - mokslininkas
 amziai:
   - 'XX'
 periodo_grupes:

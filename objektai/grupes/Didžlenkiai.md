@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - bajorija
-  - didikas
   - grupe
-  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

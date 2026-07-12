@@ -13,10 +13,8 @@ date_end: '1952'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - seimas
+  - miestas
   - vieta
-  - šeima
 amziai:
   - 'XIX'
   - 'XX'

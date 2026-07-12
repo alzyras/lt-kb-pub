@@ -12,10 +12,7 @@ date_end: '1372'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - saltinis
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

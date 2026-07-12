@@ -12,10 +12,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - karas
   - kraštas
   - vieta
+  - regionas
 amziai:
   - 'XX'
   - 'XXI'

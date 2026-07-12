@@ -19,9 +19,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - pilis
   - valstybė
+  - vieta
 amziai:
   - 'XIV'
   - 'XX'

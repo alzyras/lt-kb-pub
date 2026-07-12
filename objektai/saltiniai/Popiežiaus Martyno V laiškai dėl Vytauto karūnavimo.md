@@ -12,8 +12,6 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
   - saltinis
 amziai:
   - 'XIV'

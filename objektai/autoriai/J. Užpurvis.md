@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - redaktorius
   - autorius
-  - ordinas
-  - tauta
 amziai:
   - 'XIV'
 periodo_grupes:

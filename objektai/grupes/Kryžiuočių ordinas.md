@@ -31,7 +31,6 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - sukilimas
 amziai:
   - 'XII'
   - 'XVI'

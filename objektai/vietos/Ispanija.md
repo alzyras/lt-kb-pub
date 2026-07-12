@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - valstybė
   - vieta
+  - jūra
 amziai:
   - 'XIII'
   - 'XX'

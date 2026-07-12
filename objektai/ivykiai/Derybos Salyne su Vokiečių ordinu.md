@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - konfliktas
   - ivykis
-  - ordinas
-  - pilis
+  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'

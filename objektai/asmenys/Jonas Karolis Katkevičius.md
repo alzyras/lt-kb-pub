@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
   - vyskupas
 amziai:
   - 'XVI'

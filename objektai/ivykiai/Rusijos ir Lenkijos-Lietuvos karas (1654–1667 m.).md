@@ -16,7 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
   - mūšis
 amziai:

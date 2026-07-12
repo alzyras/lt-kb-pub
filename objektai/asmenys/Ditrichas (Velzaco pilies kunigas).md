@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

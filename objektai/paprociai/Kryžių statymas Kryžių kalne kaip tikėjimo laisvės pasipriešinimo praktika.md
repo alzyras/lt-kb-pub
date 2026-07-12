@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - religinė-praktika
   - tikėjimas
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

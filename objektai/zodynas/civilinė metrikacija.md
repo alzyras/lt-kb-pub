@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigas
-  - seimas
+  - teisinis-terminas
   - sąvoka
 amziai:
   - 'XX'

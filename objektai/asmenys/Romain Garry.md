@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - rašytojas
 amziai:
   - 'XIX'
   - 'XX'

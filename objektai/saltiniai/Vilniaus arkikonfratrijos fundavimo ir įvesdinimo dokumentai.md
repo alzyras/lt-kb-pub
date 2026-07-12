@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'

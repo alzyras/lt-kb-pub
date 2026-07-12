@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
+  - karalienė
+  - karalius
 amziai:
   - 'XVI'
 periodo_grupes:

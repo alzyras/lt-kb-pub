@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - įrankis
+  - daiktas
 amziai:
   - 'XVIII'
 media_total_count: '0'

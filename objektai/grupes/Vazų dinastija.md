@@ -21,8 +21,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - karalius
-  - karas
 amziai:
   - 'XVI'
   - 'XXI'

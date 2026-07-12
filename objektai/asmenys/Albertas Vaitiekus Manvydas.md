@@ -10,6 +10,10 @@ date_start: '1397'
 date_end: '1422'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - didikas
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XIV'
   - 'XV'

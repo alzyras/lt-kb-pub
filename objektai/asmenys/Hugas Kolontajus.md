@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
   - valdovas
 media_total_count: '0'

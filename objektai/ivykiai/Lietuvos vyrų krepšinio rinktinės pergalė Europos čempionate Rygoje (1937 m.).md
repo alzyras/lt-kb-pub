@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

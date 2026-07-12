@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - reforma
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XVII'

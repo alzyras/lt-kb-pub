@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - karalius
-  - kunigaikštis
+  - karas
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

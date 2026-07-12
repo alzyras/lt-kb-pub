@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - reforma
+  - religinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

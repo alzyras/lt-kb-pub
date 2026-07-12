@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - pilis
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

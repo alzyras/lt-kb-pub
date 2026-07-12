@@ -10,6 +10,9 @@ date_start: '1835'
 date_end: '1836'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

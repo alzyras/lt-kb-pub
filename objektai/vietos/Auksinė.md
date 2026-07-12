@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
   - upė
   - vieta
-  - žemėlapis
 amziai:
   - 'XVI'
 media_total_count: '0'

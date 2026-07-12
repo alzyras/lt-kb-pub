@@ -11,9 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - dokumentas
   - saltinis
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'

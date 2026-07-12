@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
+  - suvažiavimas
   - ivykis
-  - karalius
 amziai:
   - 'XV'
 media_total_count: '0'

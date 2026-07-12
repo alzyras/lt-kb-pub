@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - kraštas
-  - sutartis
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

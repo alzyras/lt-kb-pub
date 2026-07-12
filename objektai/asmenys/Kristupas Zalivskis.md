@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - didikas
 amziai:
   - 'XVI'
 periodo_grupes:

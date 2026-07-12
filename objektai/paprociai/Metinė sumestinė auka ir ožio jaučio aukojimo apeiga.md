@@ -9,6 +9,10 @@ date_start: '1520'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - aukojimas
+  - religinė-praktika
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

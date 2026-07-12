@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - karalius
-  - kunigaikštis
+  - formulė
   - posakis
 amziai:
   - 'XV'

@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
-  - pilis
   - saltinis
 amziai:
   - 'XVI'

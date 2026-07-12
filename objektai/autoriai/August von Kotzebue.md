@@ -12,7 +12,7 @@ tags:
   - autorius
   - kunigaikštis
   - mokslininkas
-  - ordinas
+  - vyskupas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

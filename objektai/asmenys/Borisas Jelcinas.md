@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
+  - valdovas
 amziai:
   - 'XX'
 periodo_grupes:

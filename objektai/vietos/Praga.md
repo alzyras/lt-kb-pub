@@ -15,10 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - elekcija
-  - seimas
   - vieta
+  - miestas
 amziai:
   - 'XIII'
   - 'XXI'

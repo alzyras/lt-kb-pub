@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

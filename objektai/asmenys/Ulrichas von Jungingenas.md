@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - pilis
+  - karvedys
 amziai:
   - 'XV'
 periodo_grupes:

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
-  - seimas
-  - sutartis
 amziai:
   - 'XVIII'
 media_total_count: '0'

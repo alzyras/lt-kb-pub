@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
   - valstybė
   - vieta
 amziai:

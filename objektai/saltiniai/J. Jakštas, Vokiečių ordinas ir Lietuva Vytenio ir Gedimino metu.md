@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - ordinas
   - saltinis
-  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

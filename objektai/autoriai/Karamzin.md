@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - karalius
   - kunigaikštis
 amziai:

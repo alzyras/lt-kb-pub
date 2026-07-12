@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - mūšis
+  - karvedys
 amziai:
   - 'XV'
 periodo_grupes:

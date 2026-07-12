@@ -23,6 +23,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - upė
 amziai:
   - 'XIII'
   - 'XXI'

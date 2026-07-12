@@ -12,10 +12,8 @@ date_end: '1372'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
-  - kunigaikštis
-  - teisinė-praktika
+  - dinastija
 amziai:
   - 'XIV'
 media_total_count: '0'

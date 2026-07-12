@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - reforma
 amziai:
   - 'XX'
 media_total_count: '0'

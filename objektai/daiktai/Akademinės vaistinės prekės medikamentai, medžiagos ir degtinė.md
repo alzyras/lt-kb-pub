@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - seimas
-  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

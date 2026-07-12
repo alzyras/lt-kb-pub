@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - šeima
 amziai:
   - 'XIX'
 periodo_grupes:

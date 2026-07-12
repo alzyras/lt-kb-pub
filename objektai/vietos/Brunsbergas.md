@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
-  - valdovas
   - vieta
+  - pilis
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

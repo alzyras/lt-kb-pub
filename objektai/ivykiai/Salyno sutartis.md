@@ -21,9 +21,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - ordinas
   - sutartis
+  - paliaubos
+  - suvažiavimas
 amziai:
   - 'XIV'
 media_total_count: '0'

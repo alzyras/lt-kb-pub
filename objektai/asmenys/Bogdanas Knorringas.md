@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - karvedys
 amziai:
   - 'XVIII'
 periodo_grupes:

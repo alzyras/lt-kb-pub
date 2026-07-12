@@ -20,6 +20,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - mokestis
+  - ekonominis-terminas
 amziai:
   - 'XIV'
   - 'XVIII'

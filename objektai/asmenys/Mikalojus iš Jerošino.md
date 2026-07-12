@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - popiežius
   - valdovas
 amziai:

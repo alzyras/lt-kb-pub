@@ -9,6 +9,9 @@ date_start: '1829'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kultūrinis-įvykis
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

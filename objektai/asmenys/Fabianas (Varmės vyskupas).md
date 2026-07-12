@@ -13,7 +13,7 @@ tags:
   - asmuo
   - diplomatas
   - karalius
-  - miestas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

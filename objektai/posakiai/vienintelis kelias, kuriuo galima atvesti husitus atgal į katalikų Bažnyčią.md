@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kraštas
-  - ordinas
-  - popiežius
+  - posakis
+  - frazė
 amziai:
   - 'XV'
 media_total_count: '0'

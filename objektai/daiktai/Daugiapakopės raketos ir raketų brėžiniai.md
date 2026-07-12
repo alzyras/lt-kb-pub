@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karas
 amziai:
   - 'XVII'
 media_total_count: '0'

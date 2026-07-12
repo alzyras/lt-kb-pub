@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

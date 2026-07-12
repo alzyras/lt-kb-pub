@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - tauta
   - vieta
 amziai:
   - 'XX'

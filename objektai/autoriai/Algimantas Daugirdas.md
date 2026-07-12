@@ -10,7 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - karas
+  - istorikas
 amziai:
   - 'D'
 periodo_grupes: []

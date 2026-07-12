@@ -12,7 +12,6 @@ date_end: '1983'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - saltinis
 amziai:
   - 'XIX'

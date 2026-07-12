@@ -18,8 +18,8 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
   - tauta
+  - kariuomenė
 amziai:
   - 'XX'
 media_total_count: '0'

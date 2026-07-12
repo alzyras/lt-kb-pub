@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
   - popiežius
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

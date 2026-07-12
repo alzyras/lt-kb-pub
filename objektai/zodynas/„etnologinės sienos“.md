@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - seimas
+  - istorinė-sąvoka
   - sąvoka
-  - valstybė
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

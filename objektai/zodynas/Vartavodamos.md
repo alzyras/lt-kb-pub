@@ -9,6 +9,10 @@ date_start: '1595'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ekonominis-terminas
+  - sąvoka
+  - archajiškas-žodis
 amziai:
   - 'XVI'
 media_total_count: '0'

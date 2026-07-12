@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - ordinas
   - vyskupas
 amziai:
   - 'XIV'

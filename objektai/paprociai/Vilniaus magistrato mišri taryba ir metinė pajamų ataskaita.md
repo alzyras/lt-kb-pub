@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
   - paprotys
+  - tikėjimas
 amziai:
   - 'XVI'
 media_total_count: '0'

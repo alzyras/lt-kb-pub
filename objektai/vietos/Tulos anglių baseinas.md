@@ -11,7 +11,7 @@ date_end: '1946'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
+  - regionas
   - vieta
 amziai:
   - 'XX'

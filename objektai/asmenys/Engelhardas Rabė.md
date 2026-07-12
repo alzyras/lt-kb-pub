@@ -14,8 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - sutartis
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

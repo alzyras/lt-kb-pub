@@ -7,10 +7,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
-  - krikštas
   - kunigaikštis
-  - pilis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

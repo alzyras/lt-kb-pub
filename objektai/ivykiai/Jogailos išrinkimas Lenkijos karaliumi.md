@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - seimas
 amziai:
   - 'XIV'

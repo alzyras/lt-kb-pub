@@ -26,7 +26,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
+  - valdovas
 amziai:
   - 'XIII'
   - 'XIV'

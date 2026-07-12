@@ -14,8 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - popiežius
+  - politinis-sprendimas
 amziai:
   - 'XII'
   - 'XIV'

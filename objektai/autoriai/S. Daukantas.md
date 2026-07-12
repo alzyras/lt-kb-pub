@@ -16,6 +16,8 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - istorikas
+  - rašytojas
 amziai:
   - 'XVIII'
   - 'XIX'

@@ -21,6 +21,7 @@ atnaujinta: ''
 tags:
   - miestas
   - vieta
+  - valstybė
 amziai:
   - 'XVII'
   - 'XX'

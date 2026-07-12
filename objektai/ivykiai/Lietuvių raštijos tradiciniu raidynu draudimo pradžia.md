@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - politinis-sprendimas
 amziai:
   - 'XIX'
   - 'XXI'

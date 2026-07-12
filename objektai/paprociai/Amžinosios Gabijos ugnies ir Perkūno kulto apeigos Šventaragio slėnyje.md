@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - pilis
   - ritualas
   - šventė
 media_total_count: '0'

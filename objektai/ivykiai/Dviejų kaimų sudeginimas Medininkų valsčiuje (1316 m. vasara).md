@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

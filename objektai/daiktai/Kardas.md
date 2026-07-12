@@ -13,9 +13,7 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - daiktas
-  - didikas
   - ginklas
 amziai:
   - 'XX'

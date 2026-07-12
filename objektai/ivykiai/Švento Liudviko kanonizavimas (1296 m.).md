@@ -11,10 +11,8 @@ date_end: '1296'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - karalius
-  - popiežius
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

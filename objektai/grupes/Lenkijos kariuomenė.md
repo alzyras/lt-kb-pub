@@ -15,9 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
-  - mūšis
-  - sutartis
+  - kariuomenė
 amziai:
   - 'XX'
   - 'XXI'

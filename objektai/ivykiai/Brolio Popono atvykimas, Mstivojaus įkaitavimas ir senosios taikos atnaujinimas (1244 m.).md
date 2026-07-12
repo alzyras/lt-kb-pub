@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - kunigaikštis
-  - ordinas
+  - sutartis
+  - diplomatinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

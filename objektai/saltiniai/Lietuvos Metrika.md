@@ -13,9 +13,6 @@ date_end: '1794'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
-  - kunigaikštis
   - saltinis
 amziai:
   - 'XVI'

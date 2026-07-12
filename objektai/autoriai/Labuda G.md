@@ -14,7 +14,6 @@ tags:
   - autorius
   - diplomatas
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -11,6 +11,9 @@ date_start: '1379'
 date_end: '1401'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-terminas
+  - sąvoka
 amziai:
   - 'XIV'
   - 'XV'

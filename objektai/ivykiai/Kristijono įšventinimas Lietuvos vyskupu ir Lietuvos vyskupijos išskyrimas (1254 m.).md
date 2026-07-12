@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - karalius
-  - popiežius
-  - valstybė
 amziai:
   - 'XIII'
 media_total_count: '0'

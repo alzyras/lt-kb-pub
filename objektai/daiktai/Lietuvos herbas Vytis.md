@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - simbolis
   - daiktas
-  - tauta
-  - valdovas
 amziai:
   - 'XX'
 media_total_count: '0'

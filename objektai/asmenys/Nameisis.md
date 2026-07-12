@@ -11,8 +11,8 @@ date_end: '1281'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

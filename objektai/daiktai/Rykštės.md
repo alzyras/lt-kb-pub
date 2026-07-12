@@ -9,6 +9,9 @@ date_start: '1850'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - buities-daiktas
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

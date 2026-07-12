@@ -9,6 +9,10 @@ date_start: '1291'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - paliaubos
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

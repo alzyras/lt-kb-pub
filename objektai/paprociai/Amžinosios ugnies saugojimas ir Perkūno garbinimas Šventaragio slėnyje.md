@@ -10,8 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - garbinimas
   - religinė-praktika
   - tikėjimas
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

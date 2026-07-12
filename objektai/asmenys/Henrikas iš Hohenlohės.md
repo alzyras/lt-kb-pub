@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
+  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:

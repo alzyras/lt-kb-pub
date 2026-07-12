@@ -15,7 +15,6 @@ tags:
   - ivykis
   - karas
   - sukilimas
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XIX'

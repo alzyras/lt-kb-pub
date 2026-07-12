@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:

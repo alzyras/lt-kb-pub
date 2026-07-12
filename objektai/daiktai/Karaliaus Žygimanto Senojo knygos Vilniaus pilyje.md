@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - kunigaikštis
-  - mokslininkas
 amziai:
   - 'XVI'
 media_total_count: '0'

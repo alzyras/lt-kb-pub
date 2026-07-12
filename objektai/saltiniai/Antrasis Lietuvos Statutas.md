@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
   - saltinis
-  - seimas
 amziai:
   - 'XVI'
 media_total_count: '0'

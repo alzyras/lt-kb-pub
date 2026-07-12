@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - kunigaikštis
-  - mūšis
+  - ordinas
+  - kariuomenė
 amziai:
   - 'XIII'
 media_total_count: '0'

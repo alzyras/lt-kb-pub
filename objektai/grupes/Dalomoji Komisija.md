@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - pinigai
 amziai:
   - 'XVIII'
 media_total_count: '0'

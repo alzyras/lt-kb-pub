@@ -12,7 +12,6 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - saltinis
   - žemėlapis
 amziai:

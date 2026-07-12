@@ -11,8 +11,8 @@ date_end: '1840'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - posakis
+  - formulė
 amziai:
   - 'XIX'
 media_total_count: '0'

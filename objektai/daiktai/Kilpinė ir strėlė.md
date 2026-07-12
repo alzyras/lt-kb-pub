@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
   - daiktas
-  - kunigaikštis
-  - pilis
-  - upė
 amziai:
   - 'XV'
 media_total_count: '0'

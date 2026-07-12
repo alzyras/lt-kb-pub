@@ -12,7 +12,6 @@ date_end: '1323'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - mūšis
 amziai:

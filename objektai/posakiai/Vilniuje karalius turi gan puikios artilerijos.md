@@ -11,7 +11,7 @@ date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - citata
   - posakis
 amziai:
   - 'XVI'

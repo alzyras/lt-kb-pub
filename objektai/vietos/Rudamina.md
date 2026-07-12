@@ -12,8 +12,8 @@ date_end: '1571'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - miestelis
 amziai:
   - 'XV'
   - 'XVI'

@@ -11,7 +11,6 @@ date_end: '1737'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
 amziai:
   - 'XVII'

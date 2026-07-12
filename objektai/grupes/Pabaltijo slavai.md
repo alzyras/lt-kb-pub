@@ -11,6 +11,9 @@ date_start: '1112'
 date_end: '1475'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XII'
   - 'XV'

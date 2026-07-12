@@ -14,8 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - kunigaikštis
+  - karalius
 amziai:
   - 'XV'
 periodo_grupes:

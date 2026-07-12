@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
   - popiežius
 amziai:
   - 'XIII'

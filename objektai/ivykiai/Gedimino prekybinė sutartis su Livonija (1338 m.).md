@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - prekyba
   - sutartis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

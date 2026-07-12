@@ -12,10 +12,8 @@ date_end: '1381'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
-  - karas
-  - mūšis
-  - sutartis
 amziai:
   - 'XIV'
 periodo_grupes:

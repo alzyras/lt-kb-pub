@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - karo-reikmuo
 amziai:
   - 'XIII'
   - 'XXI'

@@ -16,7 +16,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kunigaikštis
   - tauta
 amziai:
   - 'XV'

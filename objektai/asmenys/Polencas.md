@@ -9,6 +9,9 @@ date_start: '1530'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

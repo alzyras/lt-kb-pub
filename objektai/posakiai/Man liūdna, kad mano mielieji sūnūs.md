@@ -11,9 +11,7 @@ date_end: '1259'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - citata
   - posakis
 amziai:
   - 'XIII'

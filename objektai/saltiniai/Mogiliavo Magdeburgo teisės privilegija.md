@@ -11,9 +11,7 @@ date_end: '1824'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XVI'
   - 'XIX'

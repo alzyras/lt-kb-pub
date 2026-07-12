@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - karalius
-  - krikštas
-  - miestas
+  - sąvoka
+  - teisinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

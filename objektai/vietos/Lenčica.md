@@ -12,9 +12,8 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - tauta
   - vieta
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

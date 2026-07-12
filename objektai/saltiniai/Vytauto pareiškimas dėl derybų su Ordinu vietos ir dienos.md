@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
+  - dokumentas
   - saltinis
 amziai:
   - 'XV'

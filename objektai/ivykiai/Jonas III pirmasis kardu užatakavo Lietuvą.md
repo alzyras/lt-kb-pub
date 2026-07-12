@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kunigaikštis
 amziai:
   - 'XV'
   - 'XVIII'

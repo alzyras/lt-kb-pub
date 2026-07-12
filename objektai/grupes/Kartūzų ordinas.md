@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - popiežius
 amziai:
   - 'XI'
 media_total_count: '0'

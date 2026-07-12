@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - valstybė
+  - ekonominis-terminas
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

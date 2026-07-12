@@ -11,6 +11,7 @@ date_end: '1634'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valstybė
   - vieta
 amziai:
   - 'XVII'

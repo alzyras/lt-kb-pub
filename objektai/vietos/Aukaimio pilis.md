@@ -14,9 +14,7 @@ date_end: '1305'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
-  - tikėjimas
   - vieta
 amziai:
   - 'XIII'

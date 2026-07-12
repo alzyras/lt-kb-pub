@@ -12,9 +12,8 @@ date_end: '1967'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
-  - tauta
   - vieta
+  - žemė
 amziai:
   - 'XV'
   - 'XX'

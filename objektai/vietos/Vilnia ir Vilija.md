@@ -6,8 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sostinė
   - kraštas
-  - kunigaikštis
   - miestas
   - vieta
 media_total_count: '0'

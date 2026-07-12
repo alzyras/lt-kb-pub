@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
-  - sutartis
 amziai:
   - 'XVI'
 media_total_count: '0'

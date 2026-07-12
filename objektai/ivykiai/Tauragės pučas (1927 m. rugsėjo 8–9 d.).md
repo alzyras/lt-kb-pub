@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - miestas
   - sukilimas
 amziai:
   - 'XX'

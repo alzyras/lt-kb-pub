@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - kraštas
   - pilis
-  - teisinė-praktika
   - vieta
 amziai:
   - 'X'

@@ -11,6 +11,7 @@ date_end: '2001'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
   - asmuo
 amziai:
   - 'XX'

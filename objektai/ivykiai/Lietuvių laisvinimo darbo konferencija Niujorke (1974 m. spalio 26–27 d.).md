@@ -12,9 +12,8 @@ date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - suvažiavimas
   - ivykis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

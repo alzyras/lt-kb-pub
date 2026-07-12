@@ -12,9 +12,8 @@ date_end: '1650'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - švietimas
   - paprotys
-  - valstybė
 amziai:
   - 'XVI'
   - 'XVII'

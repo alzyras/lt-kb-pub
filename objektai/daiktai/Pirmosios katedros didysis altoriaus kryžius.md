@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
+  - daiktas
 amziai:
   - 'XIV'
   - 'XVI'

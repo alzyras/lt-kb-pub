@@ -11,10 +11,7 @@ date_end: '1978'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
   - saltinis
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
+  - dokumentas
 amziai:
   - 'XX'
 media_total_count: '0'

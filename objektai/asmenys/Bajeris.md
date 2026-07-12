@@ -9,6 +9,8 @@ date_start: '1590'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

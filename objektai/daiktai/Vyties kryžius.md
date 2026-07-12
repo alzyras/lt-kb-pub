@@ -11,6 +11,7 @@ date_end: '1928'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
   - daiktas
 amziai:
   - 'XX'

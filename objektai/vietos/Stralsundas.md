@@ -13,8 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - popiežius
   - vieta
+  - kraštas
 amziai:
   - 'XIV'
   - 'XXI'

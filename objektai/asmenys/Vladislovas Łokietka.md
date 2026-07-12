@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
+  - valdovas
   - asmuo
-  - ordinas
-  - sutartis
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -14,10 +14,8 @@ date_end: '1322'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - sąvoka
-  - valdovas
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

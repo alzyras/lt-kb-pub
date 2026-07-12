@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - miestas
-  - ordinas
+  - paminklas
 amziai:
   - 'XIV'
 media_total_count: '0'

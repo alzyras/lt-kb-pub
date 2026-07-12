@@ -13,6 +13,9 @@ date_start: '1160'
 date_end: '1506'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
+  - paminklas
 amziai:
   - 'XII'
   - 'XVI'

@@ -17,9 +17,6 @@ date_end: '1611'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
-  - kunigaikštis
   - saltinis
 amziai:
   - 'XIV'

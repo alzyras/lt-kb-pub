@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - paprotys
+  - politinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

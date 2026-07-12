@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - didikas
-  - kraštas
 amziai:
   - 'XVIII'
   - 'XIX'

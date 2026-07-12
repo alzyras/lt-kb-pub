@@ -14,8 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - valdovas
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'

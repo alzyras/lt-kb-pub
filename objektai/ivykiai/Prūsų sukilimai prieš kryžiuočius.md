@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - ordinas
   - sukilimas
 media_total_count: '0'
 media_primary_thumb_url: ''

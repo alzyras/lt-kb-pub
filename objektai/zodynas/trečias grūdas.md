@@ -11,9 +11,7 @@ date_end: '1522'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kraštas
-  - miestas
+  - mokestis
   - sąvoka
 amziai:
   - 'XVI'

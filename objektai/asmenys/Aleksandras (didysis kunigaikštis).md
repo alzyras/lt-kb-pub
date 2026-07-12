@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - dokumentas
   - kunigaikštis
+  - karalius
+  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
 amziai:
   - 'XVI'
 periodo_grupes:

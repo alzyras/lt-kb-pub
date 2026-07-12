@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mūšis
   - paprotys
   - tikėjimas
 media_total_count: '0'

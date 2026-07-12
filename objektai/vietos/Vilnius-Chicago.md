@@ -9,6 +9,8 @@ date_start: '1990'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XX'
 media_total_count: '0'

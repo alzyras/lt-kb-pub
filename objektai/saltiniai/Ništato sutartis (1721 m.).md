@@ -11,6 +11,9 @@ date_start: '1721'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XVIII'
   - 'XXI'

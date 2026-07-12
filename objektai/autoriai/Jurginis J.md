@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - kunigaikštis
   - valdovas
 media_total_count: '0'

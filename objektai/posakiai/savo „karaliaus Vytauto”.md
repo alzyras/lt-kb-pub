@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - posakis
+  - frazė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,8 +11,8 @@ date_end: '1311'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karūnacija
   - ivykis
-  - karalius
 amziai:
   - 'XIII'
   - 'XIV'

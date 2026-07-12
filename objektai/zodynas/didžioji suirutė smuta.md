@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

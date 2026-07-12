@@ -15,7 +15,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - kraštas
   - tauta
 amziai:
   - 'XX'

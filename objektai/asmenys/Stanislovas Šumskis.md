@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilėlis
   - asmuo
-  - institucija
-  - sukilimas
 amziai:
   - 'XIX'
 periodo_grupes:

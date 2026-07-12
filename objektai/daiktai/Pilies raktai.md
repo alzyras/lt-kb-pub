@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - pilis
+  - buities-daiktas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - religinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'

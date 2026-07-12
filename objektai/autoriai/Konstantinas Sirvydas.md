@@ -11,6 +11,11 @@ date_start: '1620'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - karalienė
+  - karalius
+  - autorius
 amziai:
   - 'XVII'
 periodo_grupes:

@@ -14,10 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - tauta
-  - unija
   - vieta
+  - miestas
 amziai:
   - 'XV'
   - 'XXI'

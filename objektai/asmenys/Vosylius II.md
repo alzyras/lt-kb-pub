@@ -13,7 +13,7 @@ tags:
   - asmuo
   - didikas
   - kunigaikštis
-  - valstybė
+  - karalius
 amziai:
   - 'XV'
 periodo_grupes:

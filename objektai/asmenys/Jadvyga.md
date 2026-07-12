@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kunigaikštis
+  - popiežius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

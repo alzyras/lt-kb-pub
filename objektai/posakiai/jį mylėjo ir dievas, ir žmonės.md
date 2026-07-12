@@ -11,7 +11,7 @@ date_end: '1306'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
+  - citata
   - posakis
 amziai:
   - 'XIV'

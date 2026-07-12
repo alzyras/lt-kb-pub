@@ -12,7 +12,9 @@ date_end: '1967'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - redaktorius
   - autorius
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

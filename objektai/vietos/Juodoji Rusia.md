@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
+  - žemė
 amziai:
   - 'XXI'
 media_total_count: '0'

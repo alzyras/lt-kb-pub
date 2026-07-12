@@ -10,9 +10,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
   - karalius
   - mokslininkas
+  - valdovas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

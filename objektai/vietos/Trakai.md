@@ -25,6 +25,7 @@ atnaujinta: ''
 tags:
   - miestas
   - vieta
+  - žemė
 amziai:
   - 'X'
   - 'XVI'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
+  - pareigybė
   - sąvoka
-  - šventė
 amziai:
   - 'XVI'
 media_total_count: '0'

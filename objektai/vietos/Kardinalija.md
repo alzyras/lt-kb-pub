@@ -11,9 +11,7 @@ date_end: '1601'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - mokslininkas
   - vieta
 amziai:
   - 'XVI'

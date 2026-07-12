@@ -12,7 +12,6 @@ date_end: '1772'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - ivykis
   - karas
   - mūšis

@@ -13,6 +13,10 @@ date_start: '1399'
 date_end: '1434'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - karas
+  - ivykis
 amziai:
   - 'XIV'
   - 'XV'

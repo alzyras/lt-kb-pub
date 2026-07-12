@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinė-praktika
   - paprotys
-  - tauta
+  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

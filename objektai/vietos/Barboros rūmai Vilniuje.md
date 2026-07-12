@@ -9,6 +9,9 @@ date_start: '1828'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvaras
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

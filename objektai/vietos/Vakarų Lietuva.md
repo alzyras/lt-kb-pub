@@ -12,9 +12,7 @@ date_end: '1952'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - ginklas
-  - tauta
+  - kaimas
   - vieta
 amziai:
   - 'XX'

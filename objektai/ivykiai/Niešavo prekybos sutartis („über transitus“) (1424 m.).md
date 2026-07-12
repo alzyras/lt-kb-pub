@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - miestas
-  - ordinas
+  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'

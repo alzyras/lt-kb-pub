@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - ordinas
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

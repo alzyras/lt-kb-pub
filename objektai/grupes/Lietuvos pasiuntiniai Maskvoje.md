@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - sutartis
+  - institucija
 amziai:
   - 'XV'
 media_total_count: '0'

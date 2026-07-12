@@ -13,8 +13,7 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
-  - karas
+  - frazė
   - posakis
 amziai:
   - 'XVI'

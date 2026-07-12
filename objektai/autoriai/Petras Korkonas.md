@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigas
-  - miestas
-  - tauta
 amziai:
   - 'XVII'
 periodo_grupes:

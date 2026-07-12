@@ -11,10 +11,8 @@ date_end: '1401'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
-  - sutartis
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIV'
   - 'XV'

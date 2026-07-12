@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - elekcija
-  - seimas
+  - pareigūnas
 amziai:
   - 'XX'
   - 'XXI'

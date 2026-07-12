@@ -13,8 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - mokslininkas
-  - teisinė-praktika
   - vieta
 amziai:
   - 'XVI'

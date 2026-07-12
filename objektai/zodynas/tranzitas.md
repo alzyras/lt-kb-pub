@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XX'

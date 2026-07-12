@@ -11,6 +11,9 @@ date_start: '1835'
 date_end: '1856'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - kultūrinis-įvykis
 amziai:
   - 'XIX'
 media_total_count: '0'

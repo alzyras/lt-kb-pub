@@ -11,8 +11,8 @@ date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -9,6 +9,10 @@ date_start: '1370'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

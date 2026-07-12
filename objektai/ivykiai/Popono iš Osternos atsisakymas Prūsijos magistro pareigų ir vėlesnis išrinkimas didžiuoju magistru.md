@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
 amziai:
   - 'XIII'
 media_total_count: '0'

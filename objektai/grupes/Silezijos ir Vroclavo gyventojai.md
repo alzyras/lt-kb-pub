@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - grupe
-  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

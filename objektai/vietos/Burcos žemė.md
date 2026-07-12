@@ -11,10 +11,8 @@ date_end: '1225'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
-  - ordinas
-  - popiežius
+  - žemė
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

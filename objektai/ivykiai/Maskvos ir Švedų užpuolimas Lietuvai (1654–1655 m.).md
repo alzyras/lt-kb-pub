@@ -11,6 +11,8 @@ date_end: '1655'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - invazija
+  - karas
   - ivykis
 amziai:
   - 'XVII'

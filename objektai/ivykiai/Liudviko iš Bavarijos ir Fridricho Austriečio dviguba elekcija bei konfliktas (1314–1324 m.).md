@@ -12,10 +12,10 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - konfliktas
   - elekcija
   - ivykis
   - karas
-  - kunigaikštis
 amziai:
   - 'XIV'
 media_total_count: '0'

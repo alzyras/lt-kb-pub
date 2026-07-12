@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - pilis
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

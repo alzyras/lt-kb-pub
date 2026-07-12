@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - mūšis
   - ivykis
+  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

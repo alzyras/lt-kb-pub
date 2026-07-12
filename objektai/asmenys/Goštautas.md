@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

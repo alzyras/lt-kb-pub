@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - popiežius
+  - žygis
 amziai:
   - 'XIII'
   - 'XIX'

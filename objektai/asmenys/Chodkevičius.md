@@ -9,6 +9,9 @@ date_start: '1605'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XVII'
 periodo_grupes:

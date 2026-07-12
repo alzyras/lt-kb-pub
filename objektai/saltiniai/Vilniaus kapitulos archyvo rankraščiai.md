@@ -11,10 +11,7 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - teisinė-praktika
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

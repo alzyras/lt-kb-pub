@@ -19,8 +19,7 @@ amziai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - ginklas
+  - žemė
   - miestas
   - vieta
 media_total_count: '0'

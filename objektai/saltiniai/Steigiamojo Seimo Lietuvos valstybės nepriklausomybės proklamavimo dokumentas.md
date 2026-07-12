@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - seimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

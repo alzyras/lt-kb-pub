@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - metraštininkas
 amziai:
   - 'XX'
 periodo_grupes:

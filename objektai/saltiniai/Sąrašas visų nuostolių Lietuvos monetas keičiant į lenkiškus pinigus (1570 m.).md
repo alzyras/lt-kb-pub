@@ -12,9 +12,7 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
-  - pinigai
+  - dokumentas
   - saltinis
 amziai:
   - 'XVI'

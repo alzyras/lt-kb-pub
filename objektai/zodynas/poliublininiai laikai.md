@@ -12,10 +12,8 @@ date_end: '1933'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - ordinas
+  - istorinė-sąvoka
   - sąvoka
-  - unija
 amziai:
   - 'XVI'
   - 'XX'

@@ -14,6 +14,8 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - kunigas
+  - rašytojas
 amziai:
   - 'XIX'
 periodo_grupes:

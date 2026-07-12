@@ -11,10 +11,8 @@ date_end: '1421'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - vyskupas
   - asmuo
-  - kraštas
-  - unija
-  - valstybė
 amziai:
   - 'XV'
 periodo_grupes:

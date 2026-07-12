@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kraštas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - seimas
   - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

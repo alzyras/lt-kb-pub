@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
   - paprotys
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

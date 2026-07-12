@@ -11,8 +11,9 @@ date_end: '1657'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
+  - mūšis
   - ivykis
-  - miestas
 amziai:
   - 'XVII'
 media_total_count: '0'

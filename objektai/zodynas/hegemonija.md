@@ -6,9 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-terminas
   - sąvoka
-  - tauta
-  - valstybė
+  - istorinė-sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

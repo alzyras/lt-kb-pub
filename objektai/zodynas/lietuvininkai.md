@@ -11,10 +11,8 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
   - sąvoka
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XV'
   - 'XX'

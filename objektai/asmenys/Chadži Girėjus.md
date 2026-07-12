@@ -11,9 +11,8 @@ date_end: '1468'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
-  - ordinas
-  - sutartis
 amziai:
   - 'XV'
 periodo_grupes:

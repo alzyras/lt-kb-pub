@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - mūšis
   - vieta
 amziai:
   - 'XX'

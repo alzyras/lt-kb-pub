@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XIV'

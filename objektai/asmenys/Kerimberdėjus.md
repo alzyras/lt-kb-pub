@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - tauta
   - valdovas
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

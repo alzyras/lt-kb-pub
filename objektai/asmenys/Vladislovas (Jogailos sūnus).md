@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - institucija
   - karalius
+  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:

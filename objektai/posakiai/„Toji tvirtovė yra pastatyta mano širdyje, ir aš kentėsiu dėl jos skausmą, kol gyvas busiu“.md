@@ -11,6 +11,7 @@ date_end: '1279'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
 amziai:
   - 'XIII'

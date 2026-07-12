@@ -13,7 +13,7 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
+  - invazija
   - ivykis
   - karas
 amziai:

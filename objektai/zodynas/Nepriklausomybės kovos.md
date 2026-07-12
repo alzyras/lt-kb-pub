@@ -11,8 +11,10 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karinis-terminas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

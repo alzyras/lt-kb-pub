@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - sutartis
 amziai:
   - 'XVI'
   - 'XVII'

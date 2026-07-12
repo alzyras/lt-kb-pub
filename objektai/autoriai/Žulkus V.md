@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
 amziai:
   - 'XX'
 periodo_grupes:

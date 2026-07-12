@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - sutartis
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

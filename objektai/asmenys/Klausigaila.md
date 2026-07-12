@@ -11,10 +11,8 @@ date_end: '1409'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - bajorija
-  - ordinas
-  - sukilimas
 amziai:
   - 'XIV'
   - 'XV'

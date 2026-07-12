@@ -17,6 +17,9 @@ date_start: '1447'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinis-terminas
+  - sąvoka
 amziai:
   - 'XV'
   - 'XXI'

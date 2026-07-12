@@ -14,10 +14,9 @@ date_end: '1383'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - pilis
   - sąvoka
-  - upė
+  - pareigybė
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

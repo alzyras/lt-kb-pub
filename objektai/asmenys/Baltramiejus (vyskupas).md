@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - krikštas
   - popiežius
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

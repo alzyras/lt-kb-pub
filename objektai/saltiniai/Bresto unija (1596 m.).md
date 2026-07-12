@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - ritualas
   - saltinis
-  - unija
 amziai:
   - 'XVI'
 media_total_count: '0'

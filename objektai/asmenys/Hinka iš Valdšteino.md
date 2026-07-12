@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - diplomatas
   - asmuo
-  - seimas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -10,6 +10,10 @@ date_start: '1405'
 date_end: '1416'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - karalius
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

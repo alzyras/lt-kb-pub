@@ -11,9 +11,6 @@ date_end: '1387'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - popiežius
   - saltinis
 amziai:
   - 'XIV'

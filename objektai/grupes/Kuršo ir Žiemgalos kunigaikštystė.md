@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - mūšis
 amziai:
   - 'XII'
 media_total_count: '0'

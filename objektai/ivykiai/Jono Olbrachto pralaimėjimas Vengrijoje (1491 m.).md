@@ -9,6 +9,10 @@ date_start: '1491'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - mūšis
+  - žygis
 amziai:
   - 'XV'
 media_total_count: '0'

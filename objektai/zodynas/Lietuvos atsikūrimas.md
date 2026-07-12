@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

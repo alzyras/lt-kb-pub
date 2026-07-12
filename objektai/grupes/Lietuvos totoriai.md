@@ -11,9 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
-  - mūšis
+  - kariuomenė
 amziai:
   - 'XVI'
 media_total_count: '0'

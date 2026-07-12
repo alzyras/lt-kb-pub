@@ -16,8 +16,8 @@ date_end: '1305'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - sąvoka
+  - pareigybė
 amziai:
   - 'XIII'
   - 'XIV'

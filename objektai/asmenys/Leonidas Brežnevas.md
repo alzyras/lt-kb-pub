@@ -11,6 +11,7 @@ date_end: '1975'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
 amziai:
   - 'XX'

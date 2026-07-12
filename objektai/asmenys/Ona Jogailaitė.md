@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalienė
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

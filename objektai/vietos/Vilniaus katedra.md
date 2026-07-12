@@ -21,7 +21,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - valdovas
   - vieta
 amziai:
   - 'XIV'

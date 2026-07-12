@@ -7,9 +7,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - ordinas
-  - popiežius
+  - religinis-įvykis
+  - politinis-sprendimas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

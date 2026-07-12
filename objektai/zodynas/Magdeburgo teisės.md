@@ -23,6 +23,10 @@ variantai:
   - 'magdeburginės teisės'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinis-terminas
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIV'
   - 'XXI'

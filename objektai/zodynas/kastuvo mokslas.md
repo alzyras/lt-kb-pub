@@ -11,7 +11,7 @@ date_end: '890'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'IX'

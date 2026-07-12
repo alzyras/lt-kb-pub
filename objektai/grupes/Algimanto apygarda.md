@@ -14,9 +14,8 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - kunigaikštis
-  - mūšis
 amziai:
   - 'XX'
 media_total_count: '0'

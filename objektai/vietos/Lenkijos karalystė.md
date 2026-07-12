@@ -12,7 +12,6 @@ date_end: '1906'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - valstybė
   - vieta
 amziai:

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - karas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

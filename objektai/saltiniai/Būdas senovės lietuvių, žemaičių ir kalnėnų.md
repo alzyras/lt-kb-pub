@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

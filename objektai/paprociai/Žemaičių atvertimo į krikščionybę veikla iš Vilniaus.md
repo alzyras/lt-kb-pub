@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - religinė-praktika
   - paprotys
-  - sutartis
-  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

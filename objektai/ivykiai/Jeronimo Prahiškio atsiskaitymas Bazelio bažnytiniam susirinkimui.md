@@ -11,6 +11,9 @@ date_start: '1392'
 date_end: '1835'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-įvykis
+  - ivykis
 amziai:
   - 'XIV'
   - 'XIX'

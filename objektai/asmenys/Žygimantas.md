@@ -17,7 +17,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - šeima
+  - karalius
 amziai:
   - 'XVI'
 periodo_grupes:

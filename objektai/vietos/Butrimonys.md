@@ -20,7 +20,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - šeima
+  - miestelis
 amziai:
   - 'XIX'
   - 'XXI'

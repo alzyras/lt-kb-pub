@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - miestas
   - pilis
-  - popiežius
   - vieta
 amziai:
   - 'VII'

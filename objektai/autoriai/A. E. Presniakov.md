@@ -11,8 +11,8 @@ date_end: '1910'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - unija
 amziai:
   - 'XX'
 periodo_grupes:

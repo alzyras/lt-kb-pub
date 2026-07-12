@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - tauta
+  - politinis-sprendimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

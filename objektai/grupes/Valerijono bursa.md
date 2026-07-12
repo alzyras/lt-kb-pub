@@ -9,6 +9,9 @@ date_start: '1579'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
+  - organizacija
 amziai:
   - 'XVI'
 media_total_count: '0'

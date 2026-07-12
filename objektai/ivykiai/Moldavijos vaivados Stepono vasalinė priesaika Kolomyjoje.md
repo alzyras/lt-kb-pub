@@ -9,6 +9,9 @@ date_start: '1485'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - diplomatinis-įvykis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

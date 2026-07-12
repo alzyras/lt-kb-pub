@@ -11,10 +11,7 @@ date_end: '1576'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

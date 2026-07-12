@@ -17,10 +17,7 @@ date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - miestas
-  - ordinas
-  - pilis
+  - saltinis
 amziai:
   - 'XIV'
   - 'XX'

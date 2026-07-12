@@ -11,10 +11,8 @@ date_end: '1259'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - karas
-  - mūšis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

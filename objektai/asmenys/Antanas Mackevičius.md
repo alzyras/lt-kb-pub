@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sukilimas
+  - kunigas
 amziai:
   - 'XIX'
 periodo_grupes:

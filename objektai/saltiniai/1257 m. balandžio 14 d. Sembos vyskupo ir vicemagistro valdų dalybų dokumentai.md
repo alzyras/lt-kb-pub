@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

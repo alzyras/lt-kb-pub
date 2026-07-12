@@ -10,6 +10,8 @@ date_start: '1320'
 date_end: '1326'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

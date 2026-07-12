@@ -13,10 +13,9 @@ date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
   - daiktas
-  - karalius
-  - miestas
-  - tauta
+  - karo-reikmuo
 amziai:
   - 'XII'
   - 'XIV'

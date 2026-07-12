@@ -11,8 +11,8 @@ date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - pilis
 amziai:
   - 'X'
   - 'XIII'

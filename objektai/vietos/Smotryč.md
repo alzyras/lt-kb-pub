@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - pilis
   - valstybė
   - vieta

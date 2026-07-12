@@ -12,6 +12,8 @@ atnaujinta: ''
 tags:
   - bajoras
   - karvedys
+  - karalius
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

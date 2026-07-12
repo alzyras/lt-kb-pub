@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - socialinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

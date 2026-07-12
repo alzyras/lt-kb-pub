@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - pilis
   - vieta
 media_total_count: '0'

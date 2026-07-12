@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - vieta
+  - kapavietė
 amziai:
   - 'XX'
 media_total_count: '0'

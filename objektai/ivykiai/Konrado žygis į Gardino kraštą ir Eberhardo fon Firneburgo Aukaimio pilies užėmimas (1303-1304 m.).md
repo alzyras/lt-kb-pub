@@ -10,6 +10,10 @@ date_start: '1303'
 date_end: '1304'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - karas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -12,9 +12,8 @@ date_end: '1393'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - autorius
-  - ordinas
-  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

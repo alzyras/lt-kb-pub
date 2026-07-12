@@ -11,10 +11,8 @@ date_end: '1420'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - pilis
-  - popiežius
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

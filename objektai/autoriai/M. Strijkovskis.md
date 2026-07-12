@@ -16,6 +16,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - diplomatas
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '1'

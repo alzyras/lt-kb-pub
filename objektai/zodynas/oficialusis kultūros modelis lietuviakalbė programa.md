@@ -15,10 +15,8 @@ date_end: '1741'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - mokslininkas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
   - 'XVIII'

@@ -12,7 +12,7 @@ date_end: '1860'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - dokumentas
   - saltinis
 amziai:
   - 'XIII'

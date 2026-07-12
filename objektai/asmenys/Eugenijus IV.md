@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
   - popiežius
 amziai:
   - 'XV'

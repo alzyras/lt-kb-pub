@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
-  - miestas
-  - pilis
+  - istorikas
 amziai:
   - 'XIII'
 periodo_grupes:

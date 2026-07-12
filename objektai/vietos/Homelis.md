@@ -10,6 +10,9 @@ date_start: '1440'
 date_end: '1447'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestas
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

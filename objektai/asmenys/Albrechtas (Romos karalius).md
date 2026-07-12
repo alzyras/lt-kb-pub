@@ -13,6 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - kunigaikštis
+  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'

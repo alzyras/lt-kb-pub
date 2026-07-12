@@ -11,10 +11,8 @@ date_end: '1384'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - sutartis
   - vieta
-  - šventė
+  - gyvenvietė
 amziai:
   - 'XIII'
   - 'XIV'

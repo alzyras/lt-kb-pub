@@ -13,6 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - karalius
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

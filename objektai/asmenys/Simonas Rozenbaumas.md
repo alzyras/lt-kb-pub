@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - miestas
-  - sutartis
+  - ministras
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

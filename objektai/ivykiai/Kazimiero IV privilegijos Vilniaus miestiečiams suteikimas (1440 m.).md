@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - kunigaikštis
-  - miestas
+  - ekonominis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

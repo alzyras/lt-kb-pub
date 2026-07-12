@@ -11,9 +11,6 @@ date_end: '1822'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
-  - popiežius
   - saltinis
 amziai:
   - 'XIII'

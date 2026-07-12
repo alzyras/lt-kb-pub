@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - paprotys
-  - vyskupas
+  - socialinė-praktika
+  - švietimas
 amziai:
   - 'XX'
 media_total_count: '0'

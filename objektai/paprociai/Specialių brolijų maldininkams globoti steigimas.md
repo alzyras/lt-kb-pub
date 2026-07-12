@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - religinė-praktika
+  - paprotys
 amziai:
   - 'XI'
 media_total_count: '0'

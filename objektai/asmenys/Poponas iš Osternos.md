@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - kunigaikštis
-  - ordinas
+  - karys
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
-  - karas
 amziai:
   - 'XVII'
 periodo_grupes:

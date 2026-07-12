@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - mokslininkas
+  - diplomatinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

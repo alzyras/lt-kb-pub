@@ -13,10 +13,8 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
-  - reforma
   - sąvoka
-  - tauta
+  - religinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

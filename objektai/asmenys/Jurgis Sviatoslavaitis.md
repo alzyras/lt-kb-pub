@@ -14,7 +14,6 @@ tags:
   - asmuo
   - kunigaikštis
   - valdovas
-  - valstybė
 amziai:
   - 'XIV'
   - 'XV'

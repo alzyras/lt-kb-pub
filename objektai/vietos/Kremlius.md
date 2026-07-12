@@ -10,6 +10,8 @@ date_start: '1368'
 date_end: '1372'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

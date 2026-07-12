@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
-  - popiežius
   - saltinis
 amziai:
   - 'XIV'

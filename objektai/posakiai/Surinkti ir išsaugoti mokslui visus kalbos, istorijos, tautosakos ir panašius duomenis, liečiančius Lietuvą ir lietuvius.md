@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
+  - citata
   - posakis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

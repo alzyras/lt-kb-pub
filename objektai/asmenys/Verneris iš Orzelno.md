@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
+  - kunigas
 amziai:
   - 'XIII'
   - 'XIV'

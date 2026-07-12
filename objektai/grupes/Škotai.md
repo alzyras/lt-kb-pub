@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
   - ordinas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

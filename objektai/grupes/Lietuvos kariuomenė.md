@@ -20,6 +20,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - kariuomenė
+  - giminė
 amziai:
   - 'XIII'
   - 'XXI'

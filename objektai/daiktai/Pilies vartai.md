@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - pilis
-  - šeima
+  - paminklas
 amziai:
   - 'XIV'
 media_total_count: '0'

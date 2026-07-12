@@ -11,6 +11,7 @@ date_end: '1547'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
 amziai:
   - 'XVI'

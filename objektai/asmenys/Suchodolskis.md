@@ -11,6 +11,7 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
 amziai:
   - 'XIX'

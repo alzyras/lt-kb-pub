@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - karalius
-  - miestas
+  - ekonominis-įvykis
+  - politinis-sprendimas
 amziai:
   - 'XVI'
 media_total_count: '0'

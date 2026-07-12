@@ -19,6 +19,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - gentis
 amziai:
   - 'XIII'
 media_total_count: '0'

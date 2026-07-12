@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - politinis-sprendimas
   - ivykis
-  - kraštas
 amziai:
   - 'XX'
 media_total_count: '0'

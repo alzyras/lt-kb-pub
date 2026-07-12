@@ -11,10 +11,7 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
-  - unija
-  - valstybė
 amziai:
   - 'XVI'
   - 'XX'

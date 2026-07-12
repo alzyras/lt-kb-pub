@@ -12,8 +12,7 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - sukilimas
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

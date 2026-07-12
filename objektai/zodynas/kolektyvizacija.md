@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

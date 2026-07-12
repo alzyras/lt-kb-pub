@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - pilis
   - upė
+  - vieta
 amziai:
   - 'XIII'
   - 'XIV'

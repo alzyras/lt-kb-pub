@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - žemėlapis
 amziai:
   - 'XIV'
 periodo_grupes:

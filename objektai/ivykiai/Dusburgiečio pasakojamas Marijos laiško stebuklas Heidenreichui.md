@@ -12,10 +12,8 @@ date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - ordinas
-  - pilis
-  - upė
 amziai:
   - 'XIII'
   - 'XIV'

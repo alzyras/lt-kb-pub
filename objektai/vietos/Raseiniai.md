@@ -19,9 +19,8 @@ date_end: '1836'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - vieta
-  - vyskupas
+  - dvaras
 amziai:
   - 'XIV'
   - 'XIX'

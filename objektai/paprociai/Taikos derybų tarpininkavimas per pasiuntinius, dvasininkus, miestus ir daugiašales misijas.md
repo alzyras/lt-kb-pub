@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - paprotys
-  - popiežius
-  - valdovas
+  - politinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -9,6 +9,10 @@ date_start: '1223'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - karvedys
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

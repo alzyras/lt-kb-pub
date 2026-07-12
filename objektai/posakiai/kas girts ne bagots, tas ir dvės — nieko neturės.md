@@ -7,6 +7,9 @@ variantai:
   - 'darbas/tmp/source_chunks/Mu_su_tautosaka_t.4_1931/chunk_0007.md'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - patarlė
+  - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -18,10 +18,8 @@ date_end: '1248'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - diplomatas
   - grupe
-  - kunigaikštis
+  - ordinas
 amziai:
   - 'XIII'
 media_total_count: '0'

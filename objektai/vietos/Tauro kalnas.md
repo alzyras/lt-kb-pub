@@ -15,9 +15,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - sukilimas
-  - tauta
   - valstybė
+  - vieta
+  - pilis
 amziai:
   - 'XV'
   - 'XXI'

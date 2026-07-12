@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - institucija
-  - karas
-  - kunigaikštis
+  - simbolis
 amziai:
   - 'XX'
   - 'XXI'

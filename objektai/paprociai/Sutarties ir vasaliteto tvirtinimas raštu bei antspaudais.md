@@ -10,6 +10,10 @@ date_start: '1384'
 date_end: '1385'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinė-praktika
+  - paprotys
+  - politinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

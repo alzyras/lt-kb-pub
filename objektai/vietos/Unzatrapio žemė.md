@@ -12,8 +12,7 @@ date_end: '1258'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
+  - žemė
   - pilis
   - vieta
 amziai:

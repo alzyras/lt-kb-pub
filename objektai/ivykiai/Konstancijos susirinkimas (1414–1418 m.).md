@@ -12,10 +12,9 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
+  - suvažiavimas
   - ivykis
-  - kunigaikštis
-  - kunigas
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

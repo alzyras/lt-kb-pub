@@ -14,8 +14,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kunigas
-  - miestas
 amziai:
   - 'XVI'
   - 'XVIII'

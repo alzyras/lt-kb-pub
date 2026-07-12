@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - tauta
+  - pareigūnas
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

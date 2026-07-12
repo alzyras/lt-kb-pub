@@ -11,7 +11,6 @@ date_end: '1269'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - valstybė
   - vieta
 amziai:

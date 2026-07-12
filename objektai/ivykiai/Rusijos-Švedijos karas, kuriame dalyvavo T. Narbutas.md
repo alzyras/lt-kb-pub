@@ -11,6 +11,9 @@ date_start: '1807'
 date_end: '1809'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

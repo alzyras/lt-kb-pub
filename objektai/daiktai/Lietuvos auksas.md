@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
+  - daiktas
 amziai:
   - 'XX'
 media_total_count: '0'

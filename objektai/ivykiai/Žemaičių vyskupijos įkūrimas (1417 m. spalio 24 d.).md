@@ -12,10 +12,8 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - kraštas
-  - popiežius
-  - upė
 amziai:
   - 'XV'
 media_total_count: '0'

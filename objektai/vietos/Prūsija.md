@@ -31,6 +31,10 @@ variantai:
   - 'Parusis'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - valstybė
+  - vieta
 amziai:
   - 'IX'
   - 'XIX'

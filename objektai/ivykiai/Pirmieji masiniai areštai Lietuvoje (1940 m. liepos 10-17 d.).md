@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

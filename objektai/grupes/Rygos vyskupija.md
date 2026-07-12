@@ -13,10 +13,8 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - grupe
   - ordinas
-  - popiežius
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -15,9 +15,9 @@ date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - karas
+  - okupacija
 amziai:
   - 'XX'
 media_total_count: '0'

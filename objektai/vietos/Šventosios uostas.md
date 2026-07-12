@@ -12,8 +12,7 @@ date_end: '1660'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
+  - uostas
   - miestas
   - vieta
 amziai:

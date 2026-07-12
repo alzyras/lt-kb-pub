@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - unija
 amziai:
   - 'XVI'
 media_total_count: '0'

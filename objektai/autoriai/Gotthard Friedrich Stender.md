@@ -9,6 +9,9 @@ date_start: '1761'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kalbininkas
+  - autorius
 amziai:
   - 'XVIII'
 periodo_grupes:

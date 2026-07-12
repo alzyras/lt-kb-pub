@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-terminas
   - sąvoka
-  - tikėjimas
 amziai:
   - 'XIV'
 media_total_count: '0'

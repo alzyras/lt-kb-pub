@@ -12,8 +12,6 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
   - miestas
   - vieta
 amziai:

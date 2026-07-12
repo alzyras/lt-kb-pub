@@ -9,9 +9,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - asmuo
-  - ginklas
-  - šeima
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

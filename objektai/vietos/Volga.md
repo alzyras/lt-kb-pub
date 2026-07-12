@@ -11,6 +11,9 @@ date_start: '1101'
 date_end: '1127'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - upė
+  - vieta
 amziai:
   - 'XII'
 media_total_count: '0'

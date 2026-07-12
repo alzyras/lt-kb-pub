@@ -11,10 +11,8 @@ date_end: '1300'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
   - ivykis
-  - ordinas
-  - pilis
+  - mūšis
 amziai:
   - 'XIII'
 media_total_count: '0'

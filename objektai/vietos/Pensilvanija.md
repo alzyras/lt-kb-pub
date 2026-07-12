@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - valstybė
   - vieta
 amziai:
   - 'XX'

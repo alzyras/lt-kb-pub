@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - miestas
-  - tikėjimas
 amziai:
   - 'XV'
 media_total_count: '0'

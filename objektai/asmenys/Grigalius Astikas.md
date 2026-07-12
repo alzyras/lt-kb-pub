@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
   - vyskupas
 amziai:
   - 'XVI'

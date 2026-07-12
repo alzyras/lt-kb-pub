@@ -11,10 +11,9 @@ date_end: '1236'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - popiežius
   - asmuo
-  - ginklas
   - kunigaikštis
-  - mūšis
 amziai:
   - 'XIII'
 periodo_grupes:

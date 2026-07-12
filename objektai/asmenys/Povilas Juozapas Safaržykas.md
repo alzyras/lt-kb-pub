@@ -9,6 +9,10 @@ date_start: '1799'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - mokslininkas
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

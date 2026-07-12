@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
+  - daiktas
 amziai:
   - 'XIV'
 media_total_count: '0'

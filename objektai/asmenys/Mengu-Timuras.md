@@ -9,6 +9,9 @@ date_start: '1276'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

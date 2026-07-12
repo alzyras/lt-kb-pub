@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
+  - citata
   - posakis
-  - seimas
 amziai:
   - 'XVI'
 media_total_count: '0'

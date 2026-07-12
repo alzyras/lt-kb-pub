@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - tikėjimas
   - vieta
 amziai:
   - 'XIX'

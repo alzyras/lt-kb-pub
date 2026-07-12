@@ -21,6 +21,7 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
+  - sostinė
 amziai:
   - 'XIV'
   - 'XXI'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - mokslininkas
-  - ordinas
+  - konfliktas
 amziai:
   - 'XIV'
 media_total_count: '0'

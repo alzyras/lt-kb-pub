@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
+  - diplomatinis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

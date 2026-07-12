@@ -12,7 +12,6 @@ date_end: '1948'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - saltinis
 amziai:
   - 'XII'

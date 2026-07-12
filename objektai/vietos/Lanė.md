@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - upė
 amziai:
   - 'VI'
 media_total_count: '0'

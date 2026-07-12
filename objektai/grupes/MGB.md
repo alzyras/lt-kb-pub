@@ -15,10 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
   - institucija
-  - karas
 amziai:
   - 'XX'
   - 'XXI'

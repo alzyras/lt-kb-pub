@@ -11,9 +11,8 @@ date_end: '1866'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-terminas
   - sąvoka
-  - valstybė
-  - šventė
 amziai:
   - 'XIX'
 media_total_count: '0'

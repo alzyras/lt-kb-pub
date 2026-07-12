@@ -5,6 +5,8 @@ saltiniai:
   - 'Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

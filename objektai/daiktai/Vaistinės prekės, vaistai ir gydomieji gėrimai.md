@@ -10,6 +10,8 @@ date_start: '1426'
 date_end: '1780'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XV'
   - 'XVIII'

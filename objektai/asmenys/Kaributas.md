@@ -16,7 +16,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - pinigai
 amziai:
   - 'XIV'
 periodo_grupes:

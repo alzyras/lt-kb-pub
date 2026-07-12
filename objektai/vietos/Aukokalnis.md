@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - tauta
-  - tikėjimas
   - upė
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

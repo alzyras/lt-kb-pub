@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - mokslininkas
+  - istorikas
 amziai:
   - 'XVIII'
   - 'XIX'

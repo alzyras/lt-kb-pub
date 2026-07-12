@@ -13,6 +13,7 @@ date_end: '1831'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rankraštis
   - daiktas
 amziai:
   - 'XV'

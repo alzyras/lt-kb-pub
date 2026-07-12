@@ -6,9 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - bajorija
-  - kraštas
   - valdovas
 media_total_count: '0'
 media_primary_thumb_url: ''

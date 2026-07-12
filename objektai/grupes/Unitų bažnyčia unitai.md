@@ -12,7 +12,9 @@ date_end: '1839'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
+  - institucija
 amziai:
   - 'XVI'
   - 'XIX'

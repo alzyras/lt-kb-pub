@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
-  - ordinas
-  - sutartis
 amziai:
   - 'XIII'
 periodo_grupes:

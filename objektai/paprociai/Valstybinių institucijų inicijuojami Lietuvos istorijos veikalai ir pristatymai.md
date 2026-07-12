@@ -14,10 +14,8 @@ date_end: '2013'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
   - paprotys
-  - tauta
+  - šeima
 amziai:
   - 'XX'
   - 'XXI'

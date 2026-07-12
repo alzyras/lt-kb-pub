@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - popiežius
 amziai:
   - 'XIII'

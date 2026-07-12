@@ -9,6 +9,9 @@ date_start: '1527'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
+  - karvedys
 amziai:
   - 'XVI'
 periodo_grupes:

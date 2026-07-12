@@ -9,6 +9,10 @@ date_start: '1807'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - karas
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
+  - pareigūnas
 amziai:
   - 'XIV'
 periodo_grupes:

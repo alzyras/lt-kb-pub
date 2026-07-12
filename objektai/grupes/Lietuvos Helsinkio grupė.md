@@ -11,10 +11,8 @@ date_end: '1988'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - organizacija
   - grupe
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

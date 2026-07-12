@@ -12,6 +12,7 @@ date_end: '1952'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
 amziai:
   - 'XX'

@@ -11,10 +11,8 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
   - sąvoka
+  - ekonominis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

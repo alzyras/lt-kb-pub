@@ -11,6 +11,7 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

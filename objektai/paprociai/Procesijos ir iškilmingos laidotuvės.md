@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - laidotuvės
   - paprotys
 media_total_count: '0'

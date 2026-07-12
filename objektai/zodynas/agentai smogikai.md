@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
   - sąvoka
+  - karinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

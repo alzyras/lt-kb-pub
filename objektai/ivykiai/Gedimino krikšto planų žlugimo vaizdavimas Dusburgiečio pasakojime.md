@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - ivykis
   - krikštas
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

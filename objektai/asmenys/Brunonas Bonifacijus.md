@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - krikštas
-  - šventė
+  - misionierius
 amziai:
   - 'XI'
 periodo_grupes:

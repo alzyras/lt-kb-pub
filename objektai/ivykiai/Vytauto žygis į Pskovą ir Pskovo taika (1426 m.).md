@@ -11,9 +11,9 @@ date_end: '1426'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
   - karas
-  - vyskupas
 amziai:
   - 'X'
   - 'XV'

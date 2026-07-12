@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - reforma
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

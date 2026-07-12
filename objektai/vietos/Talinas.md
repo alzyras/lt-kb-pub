@@ -21,7 +21,6 @@ tags:
   - miestas
   - pilis
   - vieta
-  - vyskupas
 amziai:
   - 'XII'
   - 'XXI'

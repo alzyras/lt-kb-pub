@@ -11,8 +11,8 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'

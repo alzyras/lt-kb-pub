@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - seimas
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

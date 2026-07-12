@@ -10,6 +10,9 @@ date_start: '1820'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žemė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

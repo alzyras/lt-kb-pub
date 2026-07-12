@@ -13,10 +13,7 @@ date_end: '1211'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
-  - miestas
-  - ordinas
+  - saltinis
 amziai:
   - 'XII'
   - 'XIII'

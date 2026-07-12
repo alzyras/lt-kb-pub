@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - saltinis
   - žemėlapis
 media_total_count: '0'

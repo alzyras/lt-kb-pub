@@ -10,6 +10,8 @@ date_start: '1748'
 date_end: '1753'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

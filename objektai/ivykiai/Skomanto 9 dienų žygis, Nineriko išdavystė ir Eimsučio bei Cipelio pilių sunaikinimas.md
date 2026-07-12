@@ -13,9 +13,8 @@ date_end: '1273'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - miestas
-  - pilis
   - sutartis
 amziai:
   - 'XIII'

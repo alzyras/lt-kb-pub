@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
   - tauta
 media_total_count: '0'

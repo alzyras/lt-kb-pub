@@ -10,6 +10,8 @@ date_start: '1158'
 date_end: '1192'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
 amziai:
   - 'XII'
 media_total_count: '0'

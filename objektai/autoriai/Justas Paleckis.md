@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - kraštas
-  - seimas
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

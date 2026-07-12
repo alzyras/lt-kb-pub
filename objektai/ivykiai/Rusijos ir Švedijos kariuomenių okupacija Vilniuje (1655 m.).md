@@ -9,6 +9,9 @@ date_start: '1655'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - okupacija
+  - ivykis
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -9,6 +9,11 @@ date_start: '1515'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - suvažiavimas
+  - diplomatinis-įvykis
+  - sutartis
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

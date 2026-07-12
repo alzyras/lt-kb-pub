@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
-  - sukilimas
   - valdovas
 amziai:
   - 'XIII'

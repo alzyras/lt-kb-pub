@@ -13,9 +13,8 @@ date_end: '1219'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - kraštas
-  - popiežius
   - sutartis
 amziai:
   - 'XIII'

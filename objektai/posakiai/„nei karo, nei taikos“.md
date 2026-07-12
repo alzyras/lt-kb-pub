@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - karas
-  - kraštas
+  - frazė
   - posakis
 amziai:
   - 'XX'

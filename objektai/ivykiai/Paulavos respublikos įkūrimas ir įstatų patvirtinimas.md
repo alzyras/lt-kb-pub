@@ -13,9 +13,7 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - ordinas
   - seimas
 amziai:
   - 'XVIII'

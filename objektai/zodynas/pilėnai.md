@@ -11,6 +11,9 @@ date_start: '1313'
 date_end: '1314'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinis-terminas
+  - sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

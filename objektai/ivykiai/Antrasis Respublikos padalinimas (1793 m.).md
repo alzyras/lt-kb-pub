@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - seimas
   - sutartis
 amziai:

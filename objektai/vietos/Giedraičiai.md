@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - tauta
   - vieta
+  - miestelis
 amziai:
   - 'XX'
   - 'XXI'

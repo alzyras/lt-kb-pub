@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
+  - dokumentas
 amziai:
   - 'XVI'
 media_total_count: '0'

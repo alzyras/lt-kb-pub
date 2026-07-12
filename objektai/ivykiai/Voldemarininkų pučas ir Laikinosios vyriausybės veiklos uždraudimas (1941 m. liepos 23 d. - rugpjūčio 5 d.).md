@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - okupacija
+  - sukilimas
 amziai:
   - 'XX'
 media_total_count: '0'

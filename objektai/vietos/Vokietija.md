@@ -24,10 +24,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - kraštas
-  - mokslininkas
-  - ordinas
+  - vieta
 amziai:
   - 'XI'
   - 'XXI'

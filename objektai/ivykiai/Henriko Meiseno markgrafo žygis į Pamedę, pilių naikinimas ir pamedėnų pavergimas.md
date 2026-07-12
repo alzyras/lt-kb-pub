@@ -12,10 +12,8 @@ date_end: '1437'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - žygis
   - ivykis
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
   - 'XV'

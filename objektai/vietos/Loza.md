@@ -11,7 +11,7 @@ date_end: '1246'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - gyvenvietė
   - ežeras
   - vieta
 amziai:

@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
+  - kariuomenė
 amziai:
   - 'XV'
 media_total_count: '0'

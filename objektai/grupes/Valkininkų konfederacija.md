@@ -14,8 +14,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - karas
-  - kraštas
+  - kariuomenė
 amziai:
   - 'XVII'
   - 'XXI'

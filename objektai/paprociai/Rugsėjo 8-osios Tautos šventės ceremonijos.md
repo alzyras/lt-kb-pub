@@ -11,10 +11,8 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - paprotys
-  - tauta
-  - valstybė
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'

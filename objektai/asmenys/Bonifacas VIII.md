@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - ordinas
+  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'

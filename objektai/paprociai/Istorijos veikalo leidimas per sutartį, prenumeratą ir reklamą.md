@@ -9,6 +9,8 @@ date_start: '1837'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

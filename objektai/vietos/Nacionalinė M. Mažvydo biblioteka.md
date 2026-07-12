@@ -10,7 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - miestas
   - vieta
 amziai:

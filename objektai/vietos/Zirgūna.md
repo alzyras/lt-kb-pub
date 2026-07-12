@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - tikėjimas
   - upė
   - vieta
 media_total_count: '0'

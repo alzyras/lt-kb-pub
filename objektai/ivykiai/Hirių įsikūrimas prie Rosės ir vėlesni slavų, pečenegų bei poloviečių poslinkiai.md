@@ -12,6 +12,9 @@ date_start: '1031'
 date_end: '1128'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - socialinis-įvykis
 amziai:
   - 'XI'
   - 'XII'

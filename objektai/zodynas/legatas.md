@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
-  - popiežius
+  - pareigybė
   - sąvoka
 amziai:
   - 'XVI'

@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
   - ordinas
-  - pilis
+  - kariuomenė
 amziai:
   - 'XIV'
   - 'XXI'

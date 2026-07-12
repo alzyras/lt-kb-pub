@@ -11,7 +11,7 @@ date_end: '1526'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - žemė
   - vieta
 amziai:
   - 'XVI'

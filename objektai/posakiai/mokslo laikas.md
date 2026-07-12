@@ -6,8 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - ordinas
+  - frazė
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''

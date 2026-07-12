@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
-  - sutartis
+  - teisinis-terminas
   - sąvoka
 amziai:
   - 'XI'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - redaktorius
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -20,8 +20,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - unija
-  - valdovas
 amziai:
   - 'XIV'
   - 'XXI'

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - mūšis
 amziai:
   - 'XVI'
   - 'XVII'

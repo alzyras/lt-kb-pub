@@ -14,8 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - mokslininkas
   - reforma
 amziai:
   - 'XX'

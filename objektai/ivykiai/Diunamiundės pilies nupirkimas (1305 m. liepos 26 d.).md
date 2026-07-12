@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-įvykis
   - ivykis
-  - ordinas
-  - pilis
-  - teisinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

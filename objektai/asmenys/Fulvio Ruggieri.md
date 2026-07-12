@@ -14,7 +14,7 @@ tags:
   - asmuo
   - diplomatas
   - popiežius
-  - sutartis
+  - valdovas
 amziai:
   - 'XVI'
 periodo_grupes:

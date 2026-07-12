@@ -9,6 +9,9 @@ date_start: '1689'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - autorius
 amziai:
   - 'XVII'
 periodo_grupes:

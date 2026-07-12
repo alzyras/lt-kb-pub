@@ -11,6 +11,7 @@ date_end: '1613'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
 amziai:
   - 'XVII'

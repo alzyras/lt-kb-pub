@@ -9,6 +9,9 @@ date_start: '1623'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valstybė
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

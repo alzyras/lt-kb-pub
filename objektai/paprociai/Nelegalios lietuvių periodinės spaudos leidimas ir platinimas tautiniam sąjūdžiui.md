@@ -15,10 +15,8 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - mokslininkas
   - paprotys
-  - redaktorius
+  - švietimas
 amziai:
   - 'XIX'
   - 'XX'

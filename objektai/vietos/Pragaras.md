@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - socialinė-praktika
   - upė
   - vieta
 media_total_count: '0'

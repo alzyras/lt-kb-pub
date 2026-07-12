@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
+  - diplomatinis-įvykis
   - ivykis
-  - ordinas
+  - karūnacija
 amziai:
   - 'XV'
 media_total_count: '0'

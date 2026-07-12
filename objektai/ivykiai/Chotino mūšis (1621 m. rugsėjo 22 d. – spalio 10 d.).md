@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
+  - paliaubos
+  - ivykis
 amziai:
   - 'XVII'
   - 'XXI'

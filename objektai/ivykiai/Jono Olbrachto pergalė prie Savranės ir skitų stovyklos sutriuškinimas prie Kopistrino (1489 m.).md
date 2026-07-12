@@ -9,6 +9,9 @@ date_start: '1489'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

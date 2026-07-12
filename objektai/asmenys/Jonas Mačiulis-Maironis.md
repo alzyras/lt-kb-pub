@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigas
-  - tauta
 amziai:
   - 'M'
 periodo_grupes: []

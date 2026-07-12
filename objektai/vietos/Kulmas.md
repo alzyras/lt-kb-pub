@@ -20,6 +20,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - miestas
+  - pilis
+  - žemė
 amziai:
   - 'XIII'
   - 'XXI'

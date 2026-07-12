@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
+  - mokslininkas
 amziai:
   - 'XX'
 periodo_grupes:

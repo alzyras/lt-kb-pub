@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - okupacija
+  - politinis-sprendimas
   - ivykis
-  - kraštas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

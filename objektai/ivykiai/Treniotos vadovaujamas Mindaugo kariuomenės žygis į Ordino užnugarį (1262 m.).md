@@ -11,9 +11,8 @@ date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - ordinas
-  - pilis
   - sukilimas
 amziai:
   - 'XIII'

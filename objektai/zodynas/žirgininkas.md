@@ -13,6 +13,9 @@ date_start: '1470'
 date_end: '1503'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigybė
+  - sąvoka
 amziai:
   - 'XV'
   - 'XVI'

@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - tauta
   - šventė
 media_total_count: '0'
 media_primary_thumb_url: ''

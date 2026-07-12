@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - kraštas
   - vieta
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -9,6 +9,9 @@ date_start: '1396'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

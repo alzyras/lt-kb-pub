@@ -9,6 +9,9 @@ date_start: '1396'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

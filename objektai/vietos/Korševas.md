@@ -11,10 +11,9 @@ date_end: '1363'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - miestas
-  - ordinas
   - upė
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

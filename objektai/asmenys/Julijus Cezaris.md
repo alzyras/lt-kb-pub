@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-  - ordinas
-  - valstybė
+  - vyskupas
+  - rašytojas
 amziai:
   - 'I'
   - 'II'

@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

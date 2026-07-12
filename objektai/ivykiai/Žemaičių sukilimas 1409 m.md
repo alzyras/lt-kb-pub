@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
-  - valdovas
+  - sukilimas
+  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

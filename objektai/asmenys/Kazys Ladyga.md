@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - karas
-  - teisinė-praktika
+  - karvedys
 amziai:
   - 'XIX'
   - 'XX'

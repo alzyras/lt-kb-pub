@@ -22,6 +22,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - transportas
+  - karo-reikmuo
 amziai:
   - 'XII'
   - 'XIV'

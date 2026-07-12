@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - popiežius
+  - religinis-įvykis
 amziai:
   - 'XIII'
   - 'XIV'

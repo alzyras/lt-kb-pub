@@ -6,10 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - sąvoka
-  - upė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

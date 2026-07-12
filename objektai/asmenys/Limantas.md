@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - bajorija
-  - krikštas
 amziai:
   - 'XIV'
 periodo_grupes:

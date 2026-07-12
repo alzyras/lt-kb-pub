@@ -28,10 +28,8 @@ date_end: '1568'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
   - vieta
+  - pilis
 amziai:
   - 'XIII'
   - 'XVI'

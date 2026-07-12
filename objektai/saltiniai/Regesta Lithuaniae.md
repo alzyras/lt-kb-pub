@@ -16,10 +16,7 @@ date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - karas
   - saltinis
-  - vyskupas
 amziai:
   - 'XIII'
   - 'XX'

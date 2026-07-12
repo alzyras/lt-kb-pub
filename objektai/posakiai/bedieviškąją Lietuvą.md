@@ -13,8 +13,7 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - ordinas
+  - citata
   - posakis
 amziai:
   - 'XIX'

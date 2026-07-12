@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XI'
 media_total_count: '0'

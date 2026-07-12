@@ -14,7 +14,7 @@ tags:
   - bajorija
   - grupe
   - ordinas
-  - valdovas
+  - kariuomenė
 amziai:
   - 'XIII'
   - 'XVI'

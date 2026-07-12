@@ -15,10 +15,9 @@ date_end: '1231'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - ordinas
-  - pilis
-  - vyskupas
+  - invazija
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -13,7 +13,7 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - tikėjimas
+  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:

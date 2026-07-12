@@ -14,8 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - teisinė-praktika
-  - valstybė
   - žemėlapis
 amziai:
   - 'XIX'

@@ -11,6 +11,7 @@ date_end: '1453'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
 amziai:
   - 'XIV'

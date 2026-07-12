@@ -11,6 +11,7 @@ date_end: '1917'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
 amziai:
   - 'XX'

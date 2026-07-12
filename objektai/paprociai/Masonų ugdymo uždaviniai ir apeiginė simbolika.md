@@ -9,6 +9,9 @@ date_start: '1817'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - švietimas
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - kunigaikštis
 amziai:
   - 'XV'
 media_total_count: '0'

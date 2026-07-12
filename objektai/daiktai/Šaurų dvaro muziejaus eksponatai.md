@@ -9,6 +9,9 @@ date_start: '1864'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - muziejaus-eksponatas
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

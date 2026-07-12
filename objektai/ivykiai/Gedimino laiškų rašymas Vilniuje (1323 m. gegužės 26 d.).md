@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - kunigaikštis
-  - miestas
+  - diplomatinis-įvykis
 amziai:
   - 'XIV'
 media_total_count: '0'

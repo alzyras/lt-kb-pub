@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - antspaudas
+  - dokumentas
   - daiktas
-  - upė
 amziai:
   - 'XV'
 media_total_count: '0'

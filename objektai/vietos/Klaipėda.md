@@ -27,6 +27,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - uostas
+  - miestas
+  - regionas
 amziai:
   - 'XIII'
   - 'XX'

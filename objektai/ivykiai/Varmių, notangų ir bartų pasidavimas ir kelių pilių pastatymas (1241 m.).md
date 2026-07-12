@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
-  - pilis
+  - karas
+  - krikštas
 amziai:
   - 'XIII'
 media_total_count: '0'

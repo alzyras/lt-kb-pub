@@ -15,10 +15,9 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
-  - valstybė
+  - politinis-terminas
 amziai:
   - 'XIV'
   - 'XX'

@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - popiežius
+  - diplomatinis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

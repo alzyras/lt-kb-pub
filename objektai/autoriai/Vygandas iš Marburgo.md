@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - metraštininkas
   - autorius
-  - karas
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

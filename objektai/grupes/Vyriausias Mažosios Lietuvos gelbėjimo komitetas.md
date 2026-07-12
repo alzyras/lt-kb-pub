@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - seimas
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

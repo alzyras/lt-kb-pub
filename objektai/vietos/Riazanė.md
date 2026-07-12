@@ -18,9 +18,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - popiežius
   - vieta
 amziai:
   - 'XIV'

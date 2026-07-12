@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
-  - kunigaikštis
+  - religinė-praktika
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

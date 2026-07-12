@@ -12,9 +12,8 @@ date_end: '1380'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - paliaubos
   - ivykis
-  - karalius
-  - kunigaikštis
   - mūšis
 amziai:
   - 'XIV'

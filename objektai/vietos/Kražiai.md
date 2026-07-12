@@ -16,10 +16,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
   - vieta
-  - vyskupas
+  - miestelis
 amziai:
   - 'XVII'
   - 'XXI'

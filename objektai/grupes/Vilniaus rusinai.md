@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
-  - ritualas
   - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''

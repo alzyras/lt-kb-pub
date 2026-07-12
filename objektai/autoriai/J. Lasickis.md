@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
-  - teisinė-praktika
 amziai:
   - 'L'
 periodo_grupes: []

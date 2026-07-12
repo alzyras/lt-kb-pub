@@ -11,8 +11,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - miestas
-  - mūšis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

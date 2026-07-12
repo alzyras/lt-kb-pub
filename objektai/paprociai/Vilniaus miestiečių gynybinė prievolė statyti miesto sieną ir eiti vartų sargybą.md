@@ -11,10 +11,9 @@ date_end: '1506'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
+  - karinė-praktika
   - paprotys
-  - pilis
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

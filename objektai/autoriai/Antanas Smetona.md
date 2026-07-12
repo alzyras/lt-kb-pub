@@ -10,6 +10,9 @@ date_start: '1919'
 date_end: '1940'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - redaktorius
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

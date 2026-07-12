@@ -11,10 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - karalius
-  - kunigaikštis
   - vieta
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

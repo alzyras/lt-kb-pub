@@ -17,9 +17,7 @@ date_end: '1908'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kraštas
-  - ordinas
+  - vietovardis
   - sąvoka
 amziai:
   - 'XII'

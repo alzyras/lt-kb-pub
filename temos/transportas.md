@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 21.
+Objektų skaičius: 35.
 
 ## Kaip naudoti
 
@@ -18,37 +18,39 @@ Objektų skaičius: 21.
 
 ## Susiję objektai
 
-### Asmenys
-- [[objektai/asmenys/Edigėjus]]
-- [[objektai/asmenys/Gzovskis]]
-- [[objektai/asmenys/J. Juška]]
-- [[objektai/asmenys/Stanislovas Kiška]]
-
-### Autoriai
-- [[objektai/autoriai/Giovanni Villani]]
-
 ### Daiktai
 - [[objektai/daiktai/Aleksandro lektika]]
 - [[objektai/daiktai/ANBO lėktuvai]]
+- [[objektai/daiktai/Aukso balnai]]
+- [[objektai/daiktai/Balnas]]
 - [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai]]
 - [[objektai/daiktai/Geležinėmis grandinėmis kaustyti vežimai]]
 - [[objektai/daiktai/Kablinis šautuvas]]
+- [[objektai/daiktai/Karo laivai „Piligrimas“ ir „Fridlandas“]]
 - [[objektai/daiktai/Kūlgrindos]]
+- [[objektai/daiktai/Laivai]]
+- [[objektai/daiktai/Laivai Memelyje]]
+- [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai]]
+- [[objektai/daiktai/LG C.VI lėktuvas]]
+- [[objektai/daiktai/Lėktuvai]]
+- [[objektai/daiktai/Pastotė]]
+- [[objektai/daiktai/Pavaža]]
+- [[objektai/daiktai/Ratai ant dviejų tekinių]]
+- [[objektai/daiktai/Rogas]]
+- [[objektai/daiktai/Rogės]]
+- [[objektai/daiktai/Saulės vežimas]]
+- [[objektai/daiktai/Sklandytuvai]]
 - [[objektai/daiktai/Sovietų tankai ir šarvuočiai]]
+- [[objektai/daiktai/Telegrafo linijos, garlaiviai, geležinkelis, telefono linijos ir automobiliai]]
 - [[objektai/daiktai/Tiltai, jazai ir vandens infrastruktūra]]
-- [[objektai/daiktai/Vežimai su kailiais ir šienu]]
-
-### Papročiai
-- [[objektai/paprociai/Karių infiltravimas persirengus pirkliais ir slepiantis vežimuose]]
-- [[objektai/paprociai/Totorių raitoji karyba be vežimų ir tarnyba kariuomenėje]]
-
-### Posakiai
-- [[objektai/posakiai/juk čia ne jūsų, bet dievo kova]]
-
-### Įvykiai
-- [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų]]
-
-### Žodynas
-- [[objektai/zodynas/buožės darbo valstiečiai]]
-- [[objektai/zodynas/gurguolė]]
-- [[objektai/zodynas/Savanoris]]
+- [[objektai/daiktai/Valtys]]
+- [Vežimai](../objektai/daiktai/Ve%C5%BEimai)
+- [Vežimai su kailiais ir šienu](../objektai/daiktai/Ve%C5%BEimai%20su%20kailiais%20ir%20%C5%A1ienu)
+- [Vežimai, rogės, karietos ir brikai](../objektai/daiktai/Ve%C5%BEimai%2C%20rog%C4%97s%2C%20karietos%20ir%20brikai)
+- [Vilijos krovininiai laivai strungai](../objektai/daiktai/Vilijos%20krovininiai%20laivai%20strungai)
+- [Vilijos tiltas su pirklų būdelėmis ir stoginėmis](../objektai/daiktai/Vilijos%20tiltas%20su%20pirkl%C5%B3%20b%C5%ABdel%C4%97mis%20ir%20stogin%C4%97mis)
+- [Šarvuočiai](../objektai/daiktai/%C5%A0arvuo%C4%8Diai)
+- [Žiemos kinkinys](../objektai/daiktai/%C5%BDiemos%20kinkinys)
+- [Žiguliai](../objektai/daiktai/%C5%BDiguliai)
+- [Žirgai](../objektai/daiktai/%C5%BDirgai)
+- [„Lituanica“ lėktuvas](../objektai/daiktai/%E2%80%9ELituanica%E2%80%9C%20l%C4%97ktuvas)

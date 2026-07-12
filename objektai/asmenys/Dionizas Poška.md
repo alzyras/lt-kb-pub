@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - rašytojas
 amziai:
   - 'XIX'
 periodo_grupes:

@@ -14,7 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tikėjimas
   - vyskupas
 amziai:
   - 'XIV'

@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - karas
   - popiežius
 amziai:
   - 'XV'

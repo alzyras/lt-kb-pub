@@ -13,10 +13,8 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - tauta
-  - valstybė
+  - suvažiavimas
 amziai:
   - 'XX'
 media_total_count: '0'

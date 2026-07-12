@@ -10,7 +10,8 @@ date_start: '1837'
 date_end: '1995'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - saltinis
 amziai:
   - 'XIX'
   - 'XX'

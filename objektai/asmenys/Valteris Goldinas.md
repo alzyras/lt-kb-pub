@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

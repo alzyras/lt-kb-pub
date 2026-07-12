@@ -15,6 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kunigaikštis
+  - karalius
 amziai:
   - 'XV'
   - 'D'

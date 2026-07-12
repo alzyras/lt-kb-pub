@@ -18,9 +18,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - vieta
-  - vyskupas
+  - pilis
+  - upė
 amziai:
   - 'XIII'
   - 'XV'

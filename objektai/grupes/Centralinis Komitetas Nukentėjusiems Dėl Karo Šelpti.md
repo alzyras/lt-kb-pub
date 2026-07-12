@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
 amziai:
   - 'XX'
   - 'XXI'

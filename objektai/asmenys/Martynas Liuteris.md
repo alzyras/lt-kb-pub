@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
+  - dvasininkas
 amziai:
   - 'XVI'
 periodo_grupes:

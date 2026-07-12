@@ -13,9 +13,7 @@ date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

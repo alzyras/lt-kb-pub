@@ -11,7 +11,6 @@ date_end: '1651'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - sukilimas
 amziai:

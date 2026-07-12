@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

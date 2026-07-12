@@ -8,6 +8,10 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - kunigaikštis
+  - asmuo
 amziai: []
 periodo_grupes: []
 media_total_count: '14'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - didikas
-  - karas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
+  - dokumentas
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XIX'
 media_total_count: '0'

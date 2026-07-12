@@ -14,7 +14,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
   - pilis
   - vieta

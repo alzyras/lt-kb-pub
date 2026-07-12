@@ -18,6 +18,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pinigai
+  - daiktas
 amziai:
   - 'XIV'
   - 'XX'

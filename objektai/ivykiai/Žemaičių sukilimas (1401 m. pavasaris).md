@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
   - sukilimas
 amziai:
   - 'XV'

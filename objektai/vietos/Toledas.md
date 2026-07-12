@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
+  - miestas
   - vieta
-  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -11,8 +11,9 @@ date_end: '1462'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - antspaudas
   - daiktas
-  - vyskupas
+  - simbolis
 amziai:
   - 'XV'
 media_total_count: '0'

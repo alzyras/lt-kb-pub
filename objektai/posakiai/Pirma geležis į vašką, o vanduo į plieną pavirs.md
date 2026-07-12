@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
+  - citata
   - posakis
-  - tikėjimas
 amziai:
   - 'XIV'
 media_total_count: '0'

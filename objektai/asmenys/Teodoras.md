@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dinastija
-  - karas
-  - paliaubos
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

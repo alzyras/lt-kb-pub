@@ -10,6 +10,10 @@ date_start: '1432'
 date_end: '1433'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
+  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

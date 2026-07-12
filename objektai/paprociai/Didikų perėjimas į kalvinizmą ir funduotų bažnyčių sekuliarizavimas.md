@@ -12,10 +12,7 @@ date_end: '1565'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigaikštis
   - paprotys
-  - reforma
 amziai:
   - 'XVI'
 media_total_count: '0'

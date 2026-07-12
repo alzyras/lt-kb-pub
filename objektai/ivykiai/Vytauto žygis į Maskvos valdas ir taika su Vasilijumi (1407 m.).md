@@ -10,6 +10,10 @@ date_start: '1407'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - karas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

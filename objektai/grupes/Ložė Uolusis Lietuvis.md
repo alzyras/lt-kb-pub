@@ -10,6 +10,9 @@ date_start: '1816'
 date_end: '1819'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XIX'
 media_total_count: '0'

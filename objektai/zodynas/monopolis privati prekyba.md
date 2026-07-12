@@ -14,10 +14,8 @@ date_end: '1640'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - kunigaikštis
-  - miestas
+  - sąvoka
+  - ekonominis-terminas
 amziai:
   - 'XVI'
   - 'XVII'

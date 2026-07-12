@@ -6,9 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
+  - politinis-terminas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

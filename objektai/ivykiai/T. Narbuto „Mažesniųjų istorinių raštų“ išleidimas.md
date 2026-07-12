@@ -10,6 +10,9 @@ date_start: '1852'
 date_end: '1856'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kultūrinis-įvykis
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

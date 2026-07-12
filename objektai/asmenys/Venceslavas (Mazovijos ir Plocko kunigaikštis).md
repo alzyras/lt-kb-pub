@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

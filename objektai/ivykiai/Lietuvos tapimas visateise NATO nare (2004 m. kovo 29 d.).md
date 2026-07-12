@@ -13,7 +13,6 @@ date_end: '2002'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
   - seimas
   - sutartis

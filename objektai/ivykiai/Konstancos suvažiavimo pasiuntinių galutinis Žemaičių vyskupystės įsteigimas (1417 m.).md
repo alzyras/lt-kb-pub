@@ -9,6 +9,9 @@ date_start: '1417'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-įvykis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

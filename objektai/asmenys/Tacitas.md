@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - krikštas
   - kunigaikštis
+  - mokslininkas
 amziai:
   - 'X'
   - 'XI'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - sutartis
+  - šventvietė
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -14,9 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
   - vieta
-  - vyskupas
+  - miestas
 amziai:
   - 'XIV'
   - 'XXI'

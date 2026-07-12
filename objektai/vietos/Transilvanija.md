@@ -13,9 +13,7 @@ date_end: '1611'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
-  - valdovas
+  - kraštas
   - vieta
 amziai:
   - 'XVI'

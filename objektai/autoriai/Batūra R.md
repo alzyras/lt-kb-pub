@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - karas
-  - valstybė
   - vyskupas
 amziai:
   - 'XIII'

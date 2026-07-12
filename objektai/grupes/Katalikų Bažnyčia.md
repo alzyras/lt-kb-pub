@@ -23,6 +23,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - religinė-bendruomenė
 amziai:
   - 'XIV'
   - 'XXI'

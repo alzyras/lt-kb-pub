@@ -15,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
   - tauta
 amziai:
   - 'XIV'

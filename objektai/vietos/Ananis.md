@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - popiežius
   - vieta
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

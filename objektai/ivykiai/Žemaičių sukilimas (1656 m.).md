@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ginklas
   - ivykis
   - sukilimas
+  - unija
 amziai:
   - 'XVII'
 media_total_count: '0'

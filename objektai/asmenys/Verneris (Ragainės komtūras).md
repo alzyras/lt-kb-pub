@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - karas
-  - mūšis
 amziai:
   - 'XIV'
 periodo_grupes:

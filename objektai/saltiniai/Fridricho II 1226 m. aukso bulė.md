@@ -17,10 +17,7 @@ date_end: '1330'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
-  - sutartis
-  - teisinė-praktika
 amziai:
   - 'XIII'
   - 'XIV'

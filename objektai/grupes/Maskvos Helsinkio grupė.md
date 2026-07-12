@@ -12,9 +12,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - teisinė-praktika
-  - valstybė
+  - politinė-grupė
 amziai:
   - 'XX'
   - 'XXI'

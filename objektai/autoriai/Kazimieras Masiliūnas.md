@@ -14,8 +14,8 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - institucija
+  - ministras
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

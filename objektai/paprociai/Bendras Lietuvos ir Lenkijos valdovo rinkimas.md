@@ -11,10 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - elekcija
   - paprotys
-  - seimas
 amziai:
   - 'XX'
   - 'XXI'

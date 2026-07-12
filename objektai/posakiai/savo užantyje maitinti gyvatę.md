@@ -13,6 +13,9 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - frazė
+  - posakis
 amziai:
   - 'XIV'
   - 'XXI'

@@ -15,6 +15,7 @@ date_end: '1946'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - regionas
   - vieta
 amziai:
   - 'XVII'

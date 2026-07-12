@@ -11,9 +11,7 @@ date_end: '1780'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVIII'

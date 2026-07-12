@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - miestas
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

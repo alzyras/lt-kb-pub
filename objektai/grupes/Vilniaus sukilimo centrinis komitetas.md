@@ -10,6 +10,10 @@ date_start: '1830'
 date_end: '1831'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - politinė-grupė
+  - grupe
 amziai:
   - 'XIX'
 media_total_count: '0'

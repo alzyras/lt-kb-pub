@@ -13,7 +13,6 @@ date_end: '1964'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
 amziai:
   - 'XV'

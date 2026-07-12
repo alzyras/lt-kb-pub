@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - paprotys
-  - sutartis
   - tikėjimas
 media_total_count: '0'
 media_primary_thumb_url: ''

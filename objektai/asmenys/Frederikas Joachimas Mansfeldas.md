@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - miestas
-  - pilis
 amziai:
   - 'XVII'
 periodo_grupes:

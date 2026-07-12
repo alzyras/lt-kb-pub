@@ -13,10 +13,8 @@ date_end: '1356'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
+  - pareigybė
   - sąvoka
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

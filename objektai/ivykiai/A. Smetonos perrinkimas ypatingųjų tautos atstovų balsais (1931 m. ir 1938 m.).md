@@ -13,9 +13,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - tauta
+  - elekcija
 amziai:
   - 'XX'
 media_total_count: '0'

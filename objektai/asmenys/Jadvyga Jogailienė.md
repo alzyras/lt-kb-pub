@@ -15,6 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karalienė
+  - karalius
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

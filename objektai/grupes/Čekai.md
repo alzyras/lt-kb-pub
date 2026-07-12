@@ -15,9 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - kunigas
-  - mokslininkas
+  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -15,10 +15,8 @@ date_end: '1245'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
-  - ordinas
-  - pilis
+  - saltinis
+  - dokumentas
 amziai:
   - 'XI'
   - 'XIII'

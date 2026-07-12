@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
+  - citata
   - posakis
-  - reforma
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

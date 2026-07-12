@@ -9,6 +9,9 @@ date_start: '1521'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-bendruomenė
+  - grupe
 amziai:
   - 'XVI'
 media_total_count: '0'

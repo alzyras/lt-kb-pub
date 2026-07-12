@@ -10,6 +10,10 @@ date_start: '1863'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - švietimas
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XIX'
   - 'XXI'

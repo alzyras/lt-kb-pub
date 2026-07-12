@@ -15,8 +15,7 @@ date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

@@ -9,6 +9,9 @@ date_start: '1190'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - metraštininkas
+  - asmuo
 amziai:
   - 'XII'
 periodo_grupes:

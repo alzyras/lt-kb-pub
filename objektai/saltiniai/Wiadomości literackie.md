@@ -10,6 +10,8 @@ date_start: '1759'
 date_end: '1760'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XVIII'
 media_total_count: '0'

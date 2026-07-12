@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - kultūrinis-įvykis
 amziai:
   - 'XVIII'
 media_total_count: '0'

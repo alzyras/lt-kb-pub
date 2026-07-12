@@ -9,6 +9,9 @@ date_start: '1520'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - didikas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

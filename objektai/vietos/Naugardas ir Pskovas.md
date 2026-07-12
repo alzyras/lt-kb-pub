@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - kraštas
   - miestas
   - vieta

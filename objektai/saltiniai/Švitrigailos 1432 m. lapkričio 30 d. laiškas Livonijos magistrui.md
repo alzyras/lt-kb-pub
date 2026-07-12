@@ -11,8 +11,6 @@ date_end: '1434'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - popiežius
   - saltinis
 amziai:
   - 'XV'

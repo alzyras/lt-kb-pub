@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilėlis
   - asmuo
-  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

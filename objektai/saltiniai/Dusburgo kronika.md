@@ -13,7 +13,6 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
 amziai:
   - 'XIV'

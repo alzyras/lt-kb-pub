@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - dinastija
-  - pilis
+  - muziejaus-eksponatas
+  - simbolis
 amziai:
   - 'XIX'
 media_total_count: '0'

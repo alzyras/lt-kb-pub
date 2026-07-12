@@ -9,6 +9,9 @@ date_start: '1789'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - laidotuvės
+  - paprotys
 amziai:
   - 'XVIII'
 media_total_count: '0'

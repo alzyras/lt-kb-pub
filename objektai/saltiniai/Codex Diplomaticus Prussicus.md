@@ -15,6 +15,9 @@ date_start: '1299'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XIII'
   - 'XXI'

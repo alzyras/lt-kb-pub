@@ -12,9 +12,8 @@ date_end: '1295'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

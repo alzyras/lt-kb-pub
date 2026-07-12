@@ -10,6 +10,9 @@ variantai:
   - 'Eime, užkariausime totorių žemę, sumušime Temir-Kutlujų, pasodinsime sostan chaną Tochtamyšą, o jis mus pasodins valdyti visos Rusų žemės'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

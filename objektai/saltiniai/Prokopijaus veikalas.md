@@ -9,6 +9,8 @@ date_start: '559'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'VI'
 media_total_count: '0'

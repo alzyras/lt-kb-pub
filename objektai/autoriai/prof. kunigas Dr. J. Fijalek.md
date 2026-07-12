@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigas
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

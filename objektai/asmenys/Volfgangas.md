@@ -9,6 +9,9 @@ date_start: '1363'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

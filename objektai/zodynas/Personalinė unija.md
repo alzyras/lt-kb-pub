@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XV'
   - 'XX'

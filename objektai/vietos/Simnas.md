@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - šventė
 amziai:
   - 'XX'
   - 'XXI'

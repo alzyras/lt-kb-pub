@@ -11,10 +11,7 @@ date_end: '1863'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - paprotys
-  - reforma
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

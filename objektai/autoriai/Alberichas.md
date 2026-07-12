@@ -9,6 +9,9 @@ date_start: '1228'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - metraštininkas
+  - autorius
 amziai:
   - 'XIII'
 periodo_grupes:

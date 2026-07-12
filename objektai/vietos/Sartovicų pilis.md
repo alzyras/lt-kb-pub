@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - pilis
-  - tikėjimas
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

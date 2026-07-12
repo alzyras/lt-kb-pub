@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - tauta
 amziai:
   - 'XX'

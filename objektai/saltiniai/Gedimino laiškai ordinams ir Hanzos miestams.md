@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
-  - miestas
   - saltinis
+  - dokumentas
 amziai:
   - 'XIV'
 media_total_count: '0'

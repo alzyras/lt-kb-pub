@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - popiežius
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

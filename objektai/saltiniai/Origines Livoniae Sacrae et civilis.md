@@ -9,6 +9,8 @@ date_start: '378'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'IV'
 media_total_count: '0'

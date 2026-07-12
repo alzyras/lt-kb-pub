@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
-  - kraštas
-  - kunigas
   - tauta
 amziai:
   - 'XX'

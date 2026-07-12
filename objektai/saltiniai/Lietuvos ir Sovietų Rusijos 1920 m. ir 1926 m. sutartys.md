@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - sutartis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -10,6 +10,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
+  - redaktorius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

@@ -10,7 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
+  - konfliktas
+  - okupacija
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -14,8 +14,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - ginklas
   - grupe
   - institucija
 amziai:

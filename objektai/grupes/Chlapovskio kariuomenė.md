@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
+  - bajorija
 amziai:
   - 'XIX'
 media_total_count: '0'

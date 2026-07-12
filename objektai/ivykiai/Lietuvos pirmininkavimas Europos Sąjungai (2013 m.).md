@@ -13,10 +13,9 @@ date_end: '2013'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
   - ivykis
-  - mokslininkas
+  - politinis-sprendimas
+  - diplomatinis-įvykis
 amziai:
   - 'XI'
   - 'XXI'

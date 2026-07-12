@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - kunigaikštis
-  - miestas
+  - saltinis
 amziai:
   - 'XIV'
 media_total_count: '0'

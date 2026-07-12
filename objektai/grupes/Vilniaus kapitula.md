@@ -18,6 +18,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - institucija
 amziai:
   - 'XI'
   - 'XXI'

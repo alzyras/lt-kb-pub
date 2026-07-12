@@ -12,10 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - posakis
-  - upė
-  - žemėlapis
+  - frazė
 amziai:
   - 'XX'
   - 'XXI'

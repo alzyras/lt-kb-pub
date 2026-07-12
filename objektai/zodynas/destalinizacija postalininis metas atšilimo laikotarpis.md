@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
-  - teisinė-praktika
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

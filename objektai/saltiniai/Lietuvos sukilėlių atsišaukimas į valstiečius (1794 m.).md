@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - dokumentas
   - saltinis
 amziai:
   - 'XVIII'

@@ -12,9 +12,9 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
+  - politinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

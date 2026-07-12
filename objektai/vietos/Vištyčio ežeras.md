@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - ordinas
   - upė
   - vieta
 amziai:

@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - karas
+  - politinis-sprendimas
 amziai:
   - 'XIII'
 media_total_count: '0'

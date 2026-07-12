@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - ekonominis-terminas
 amziai:
   - 'X'
 media_total_count: '0'

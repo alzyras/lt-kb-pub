@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - ordinas
-  - popiežius
+  - citata
   - posakis
 amziai:
   - 'XIII'

@@ -10,6 +10,9 @@ date_start: '1228'
 date_end: '1325'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinė-grupė
+  - grupe
 amziai:
   - 'XIII'
   - 'XIV'

@@ -12,10 +12,8 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - šūkis
   - posakis
-  - seimas
-  - sutartis
-  - tikėjimas
 amziai:
   - 'XXI'
 media_total_count: '0'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
   - autorius
-  - žemėlapis
 amziai:
   - 'XX'
 periodo_grupes:

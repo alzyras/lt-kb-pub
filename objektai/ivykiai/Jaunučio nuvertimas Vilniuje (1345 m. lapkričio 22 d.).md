@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - pilis
   - sutartis
 amziai:
   - 'XIV'

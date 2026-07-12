@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
   - valdovas
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

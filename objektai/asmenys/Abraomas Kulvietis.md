@@ -13,6 +13,8 @@ atnaujinta: ''
 tags:
   - kunigas
   - mokslininkas
+  - vyskupas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

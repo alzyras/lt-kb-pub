@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - kraštas
-  - miestas
+  - frazė
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''

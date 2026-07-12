@@ -6,6 +6,9 @@ saltiniai:
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - drabužis
+  - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

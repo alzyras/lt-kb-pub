@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
-  - kunigaikštis
-  - pilis
+  - religinė-bendruomenė
 amziai:
   - 'XIII'
 media_total_count: '0'

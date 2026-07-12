@@ -9,6 +9,10 @@ date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - paprotys
+  - tikėjimas
 amziai:
   - 'XVI'
 media_total_count: '0'

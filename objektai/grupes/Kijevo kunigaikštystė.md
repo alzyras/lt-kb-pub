@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
-  - valstybė
+  - politinė-grupė
 amziai:
   - 'XIV'
 media_total_count: '0'

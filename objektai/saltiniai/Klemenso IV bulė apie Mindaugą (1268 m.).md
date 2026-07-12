@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - dokumentas
   - saltinis
 amziai:
   - 'XIII'

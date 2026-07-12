@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - miestas
-  - teisinė-praktika
+  - didikas
+  - pareigūnas
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1609'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvaras
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

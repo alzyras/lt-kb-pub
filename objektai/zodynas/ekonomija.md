@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - ordinas
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XV'

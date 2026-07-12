@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - okupacija
+  - suvažiavimas
   - elekcija
-  - institucija
   - ivykis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

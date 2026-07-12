@@ -14,7 +14,6 @@ tags:
   - asmuo
   - karalius
   - valdovas
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

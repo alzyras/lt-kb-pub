@@ -9,6 +9,10 @@ date_start: '1286'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - konfliktas
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

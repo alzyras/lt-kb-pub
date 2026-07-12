@@ -11,6 +11,8 @@ date_start: '1333'
 date_end: '1733'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
   - 'XVIII'

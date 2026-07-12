@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - miestas
-  - sutartis
+  - socialinė-grupė
 amziai:
   - 'XV'
 media_total_count: '0'

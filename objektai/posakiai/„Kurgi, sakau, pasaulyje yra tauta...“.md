@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-  - tauta
-  - valstybė
+  - formulė
 amziai:
   - 'XVI'
 media_total_count: '0'

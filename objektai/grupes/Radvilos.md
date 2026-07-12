@@ -20,8 +20,7 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kunigaikštis
-  - šeima
+  - kariuomenė
 amziai:
   - 'XIV'
   - 'XVII'

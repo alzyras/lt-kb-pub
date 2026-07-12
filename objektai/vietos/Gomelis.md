@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - upė
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

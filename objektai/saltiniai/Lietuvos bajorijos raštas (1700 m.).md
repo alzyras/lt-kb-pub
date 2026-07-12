@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - miestas
   - saltinis
+  - dokumentas
 amziai:
   - 'XVII'
 media_total_count: '0'

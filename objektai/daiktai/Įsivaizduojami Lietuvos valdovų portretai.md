@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - dinastija
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XIV'
   - 'XIX'

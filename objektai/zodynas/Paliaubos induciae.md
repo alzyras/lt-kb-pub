@@ -11,10 +11,9 @@ date_end: '1382'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - paliaubos
   - sąvoka
-  - tauta
+  - teisinis-terminas
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

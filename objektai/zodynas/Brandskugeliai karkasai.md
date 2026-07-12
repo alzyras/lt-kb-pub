@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XVIII'

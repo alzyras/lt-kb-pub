@@ -10,7 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - redaktorius
   - saltinis
 amziai:
   - 'XX'

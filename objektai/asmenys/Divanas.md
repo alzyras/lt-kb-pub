@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - mūšis
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

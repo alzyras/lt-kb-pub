@@ -10,6 +10,10 @@ date_start: '1502'
 date_end: '1503'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - invazija
+  - karas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -10,6 +10,8 @@ date_start: '1276'
 date_end: '1277'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

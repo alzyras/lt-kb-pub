@@ -31,6 +31,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - valstybė
 amziai:
   - 'XI'
   - 'XX'

@@ -11,10 +11,9 @@ date_end: '1452'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - laidotuvės
   - paprotys
-  - pilis
-  - vyskupas
+  - ritualas
 amziai:
   - 'XV'
 media_total_count: '0'

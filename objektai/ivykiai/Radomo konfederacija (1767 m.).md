@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - teisinė-praktika
+  - karas
 amziai:
   - 'XVIII'
 media_total_count: '0'

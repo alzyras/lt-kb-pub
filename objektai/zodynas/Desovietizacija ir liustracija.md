@@ -11,6 +11,7 @@ date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-terminas
   - sąvoka
 amziai:
   - 'XX'

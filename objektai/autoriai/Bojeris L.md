@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
 amziai:
   - 'XX'

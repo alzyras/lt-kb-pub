@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - ordinas
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -11,7 +11,6 @@ date_end: '1481'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
   - pilis
   - vieta

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - grupe
   - institucija
-  - kunigas
 amziai:
   - 'XX'
 media_total_count: '0'

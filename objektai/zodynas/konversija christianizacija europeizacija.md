@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - sąvoka
-  - tauta
+  - religinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XI'
 media_total_count: '0'

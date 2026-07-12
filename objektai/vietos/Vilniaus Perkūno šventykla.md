@@ -11,6 +11,7 @@ date_end: '1387'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - šventvietė
   - vieta
 amziai:
   - 'XIII'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XI'
 media_total_count: '0'

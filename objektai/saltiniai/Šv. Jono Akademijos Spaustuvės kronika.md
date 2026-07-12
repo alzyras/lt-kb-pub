@@ -11,7 +11,6 @@ date_end: '1631'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
 amziai:
   - 'XVI'

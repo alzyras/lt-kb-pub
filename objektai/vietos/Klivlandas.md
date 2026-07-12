@@ -11,6 +11,7 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XX'

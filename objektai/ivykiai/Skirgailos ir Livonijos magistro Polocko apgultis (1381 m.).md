@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
   - paliaubos
 amziai:
   - 'XIV'

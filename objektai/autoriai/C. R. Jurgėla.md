@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - seimas
-  - tauta
-  - unija
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

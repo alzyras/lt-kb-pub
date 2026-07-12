@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - pilis
-  - tikėjimas
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

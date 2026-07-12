@@ -25,10 +25,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
   - upė
   - valstybė
+  - vieta
 amziai:
   - 'VII'
   - 'XXI'

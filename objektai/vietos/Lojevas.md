@@ -7,7 +7,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - miestas
   - upė
   - vieta

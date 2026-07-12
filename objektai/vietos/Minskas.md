@@ -20,8 +20,6 @@ date_end: '1960'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
   - miestas
   - vieta
 amziai:

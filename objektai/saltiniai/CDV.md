@@ -12,9 +12,7 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - saltinis
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

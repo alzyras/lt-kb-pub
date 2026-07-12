@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
   - 'XV'

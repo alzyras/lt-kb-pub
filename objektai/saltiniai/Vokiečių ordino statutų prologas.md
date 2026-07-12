@@ -13,10 +13,8 @@ date_end: '1264'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - saltinis
+  - dokumentas
 amziai:
   - 'XII'
   - 'XIII'

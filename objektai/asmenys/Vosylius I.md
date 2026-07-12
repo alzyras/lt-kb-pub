@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
   - valdovas
 amziai:

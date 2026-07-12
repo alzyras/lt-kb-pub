@@ -11,8 +11,8 @@ date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

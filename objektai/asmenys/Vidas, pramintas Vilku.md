@@ -12,7 +12,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - miestas
 amziai:
   - 'VID'
 periodo_grupes: []

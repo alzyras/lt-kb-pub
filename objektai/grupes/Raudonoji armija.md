@@ -16,9 +16,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
-  - sukilimas
-  - sutartis
+  - tauta
+  - kariuomenė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,9 +11,8 @@ date_end: '1875'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
+  - regionas
   - vieta
-  - vyskupas
 amziai:
   - 'XIX'
 media_total_count: '0'

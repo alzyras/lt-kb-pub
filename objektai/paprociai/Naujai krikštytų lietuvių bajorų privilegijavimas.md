@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - krikštas
   - paprotys
-  - unija
+  - teisinė-praktika
+  - religinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

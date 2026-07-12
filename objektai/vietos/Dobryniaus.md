@@ -11,6 +11,7 @@ date_end: '1307'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - regionas
   - vieta
 amziai:
   - 'XIII'

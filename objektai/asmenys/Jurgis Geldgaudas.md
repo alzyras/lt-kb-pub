@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - krikštas
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

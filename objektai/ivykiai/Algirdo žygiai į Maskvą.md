@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

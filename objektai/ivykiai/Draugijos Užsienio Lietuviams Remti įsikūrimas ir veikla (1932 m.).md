@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
+  - kultūrinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -13,9 +13,7 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - kunigaikštis
   - mūšis
 amziai:
   - 'XI'

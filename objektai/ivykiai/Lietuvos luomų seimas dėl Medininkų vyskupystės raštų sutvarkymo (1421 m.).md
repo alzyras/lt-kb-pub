@@ -9,6 +9,9 @@ date_start: '1421'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - seimas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

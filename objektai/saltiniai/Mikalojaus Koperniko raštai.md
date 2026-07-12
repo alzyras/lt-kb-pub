@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - ordinas
   - saltinis
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

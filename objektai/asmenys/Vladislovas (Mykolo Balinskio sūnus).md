@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - šeima
 amziai:
   - 'XIX'
 periodo_grupes:

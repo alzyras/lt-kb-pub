@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
   - karalius
-  - kraštas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -12,8 +12,9 @@ date_end: '1315'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - pilis
+  - konfliktas
 amziai:
   - 'XIII'
   - 'XIV'

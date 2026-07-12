@@ -10,6 +10,8 @@ date_start: '1823'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

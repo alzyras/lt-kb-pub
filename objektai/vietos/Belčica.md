@@ -11,6 +11,7 @@ date_end: '1140'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - upė
   - vieta
 amziai:
   - 'XII'

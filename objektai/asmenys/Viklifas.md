@@ -9,6 +9,9 @@ date_start: '1405'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

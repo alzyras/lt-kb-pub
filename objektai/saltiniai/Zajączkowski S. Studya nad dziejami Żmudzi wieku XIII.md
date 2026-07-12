@@ -12,10 +12,8 @@ date_end: '1415'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
-  - pilis
   - saltinis
+  - žemėlapis
 amziai:
   - 'XII'
   - 'XV'

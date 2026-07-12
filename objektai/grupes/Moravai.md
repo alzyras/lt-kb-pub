@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - tauta
   - grupe
-  - mokslininkas
-  - mūšis
 amziai:
   - 'XV'
 media_total_count: '0'

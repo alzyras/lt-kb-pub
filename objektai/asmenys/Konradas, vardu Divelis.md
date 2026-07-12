@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - kunigaikštis
 amziai:
   - 'XIII'

@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigas
-  - tauta
-  - valstybė
+  - rašytojas
 amziai:
   - 'XIX'
 periodo_grupes:

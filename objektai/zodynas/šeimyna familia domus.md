@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - pilis
   - sąvoka
-  - upė
+  - socialinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

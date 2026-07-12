@@ -13,7 +13,6 @@ tags:
   - asmuo
   - didikas
   - kunigaikštis
-  - miestas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -11,10 +11,8 @@ date_end: '1428'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žygis
   - ivykis
-  - kunigaikštis
-  - miestas
 amziai:
   - 'X'
   - 'XV'

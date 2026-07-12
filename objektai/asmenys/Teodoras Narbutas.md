@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - tauta
-  - unija
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '1'

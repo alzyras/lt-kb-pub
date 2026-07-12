@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
-  - ežeras
-  - pilis
+  - kalbininkas
 amziai:
   - 'XIII'
 periodo_grupes:

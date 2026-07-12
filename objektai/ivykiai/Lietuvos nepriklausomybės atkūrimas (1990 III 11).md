@@ -13,10 +13,8 @@ date_end: '2013'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
+  - politinis-sprendimas
   - ivykis
-  - tauta
 amziai:
   - 'XX'
   - 'XXI'

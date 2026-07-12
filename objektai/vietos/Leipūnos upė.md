@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - ordinas
   - upė
   - vieta
 media_total_count: '0'

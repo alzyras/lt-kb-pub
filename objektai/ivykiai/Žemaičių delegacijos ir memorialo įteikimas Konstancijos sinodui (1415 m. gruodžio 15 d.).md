@@ -11,7 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigas
+  - diplomatinis-įvykis
+  - religinis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

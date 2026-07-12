@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'V'

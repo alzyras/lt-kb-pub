@@ -5,6 +5,9 @@ saltiniai:
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - metraštininkas
+  - autorius
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

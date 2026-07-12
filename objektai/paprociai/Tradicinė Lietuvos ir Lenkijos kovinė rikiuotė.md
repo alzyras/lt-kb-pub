@@ -10,6 +10,10 @@ date_start: '1401'
 date_end: '1500'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - karyba
+  - paprotys
 amziai:
   - 'XV'
 media_total_count: '0'

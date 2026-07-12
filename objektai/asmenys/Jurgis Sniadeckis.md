@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - mokslininkas
 amziai:
   - 'XIX'
 periodo_grupes:

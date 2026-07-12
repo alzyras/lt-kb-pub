@@ -12,10 +12,8 @@ date_end: '1496'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
+  - ritualas
   - paprotys
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - bajoras
+  - sukilėlis
 amziai:
   - 'XVIII'
   - 'XIX'

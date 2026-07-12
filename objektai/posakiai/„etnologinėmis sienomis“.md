@@ -12,10 +12,8 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - citata
   - posakis
-  - seimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

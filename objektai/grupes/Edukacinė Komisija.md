@@ -17,8 +17,7 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - seimas
-  - valstybė
+  - institucija
 amziai:
   - 'XVI'
   - 'XXI'

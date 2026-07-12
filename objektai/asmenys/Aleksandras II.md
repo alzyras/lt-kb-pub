@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - tauta
-  - teisinė-praktika
+  - valdovas
+  - pareigūnas
 amziai:
   - 'XIX'
 periodo_grupes:

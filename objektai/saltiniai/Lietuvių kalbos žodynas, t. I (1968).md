@@ -10,6 +10,8 @@ date_start: '1118'
 date_end: '1968'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XII'
   - 'XX'

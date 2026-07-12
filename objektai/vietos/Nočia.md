@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - teisinė-praktika
   - vieta
+  - miestelis
 amziai:
   - 'XVI'
 media_total_count: '0'

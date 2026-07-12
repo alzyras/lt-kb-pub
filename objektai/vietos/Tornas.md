@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - kraštas
-  - kunigaikštis
-  - ordinas
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

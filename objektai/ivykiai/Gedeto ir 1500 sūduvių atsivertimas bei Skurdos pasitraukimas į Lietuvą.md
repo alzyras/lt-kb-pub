@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - tikėjimas
-  - šeima
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - elekcija
   - popiežius
-  - seimas
+  - ministras
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
-  - sukilimas
 amziai:
   - 'XIX'
 periodo_grupes:

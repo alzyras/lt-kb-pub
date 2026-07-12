@@ -13,7 +13,10 @@ date_end: '1513'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - vyskupas
   - karalienė
+  - karalius
+  - dvasininkas
 amziai:
   - 'XV'
   - 'XVI'

@@ -8,6 +8,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
+  - regionas
   - miestas
   - vieta
 media_total_count: '0'

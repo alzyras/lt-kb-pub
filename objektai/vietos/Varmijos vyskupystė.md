@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - vieta
-  - vyskupas
 amziai:
   - 'XV'
   - 'XVI'

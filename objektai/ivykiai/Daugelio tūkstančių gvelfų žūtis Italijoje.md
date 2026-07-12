@@ -11,7 +11,9 @@ date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
+  - konfliktas
 amziai:
   - 'XIV'
 media_total_count: '0'

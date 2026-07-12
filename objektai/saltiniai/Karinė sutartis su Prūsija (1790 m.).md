@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
-  - seimas
-  - sutartis
+  - dokumentas
 amziai:
   - 'XVIII'
 media_total_count: '0'

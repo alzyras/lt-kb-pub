@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
-  - institucija
   - ivykis
   - karas
 amziai:

@@ -18,6 +18,7 @@ tags:
   - kraštas
   - pilis
   - vieta
+  - miestas
 amziai:
   - 'XII'
   - 'XXI'

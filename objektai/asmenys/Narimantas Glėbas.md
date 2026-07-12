@@ -10,6 +10,9 @@ date_start: '1330'
 date_end: '1348'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -13,6 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - metraštininkas
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '1'

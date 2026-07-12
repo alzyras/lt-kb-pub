@@ -16,9 +16,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
-  - ordinas
+  - krikštas
 amziai:
   - 'XIII'
   - 'XXI'

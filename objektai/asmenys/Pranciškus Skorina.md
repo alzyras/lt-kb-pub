@@ -10,6 +10,9 @@ date_start: '1490'
 date_end: '1541'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - asmuo
 amziai:
   - 'XV'
   - 'XVI'

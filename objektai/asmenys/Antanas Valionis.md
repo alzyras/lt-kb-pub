@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - sutartis
 amziai:
   - 'XXI'
 periodo_grupes:

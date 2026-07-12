@@ -15,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - mokslininkas
   - vieta
 amziai:
   - 'XVII'

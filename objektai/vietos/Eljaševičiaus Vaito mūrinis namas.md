@@ -11,10 +11,8 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - miestas
   - vieta
-  - vyskupas
 amziai:
   - 'XVII'
   - 'XVIII'

@@ -13,8 +13,6 @@ date_end: '1933'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - saltinis
 amziai:
   - 'XIII'

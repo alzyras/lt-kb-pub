@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - kraštas
   - vieta
 media_total_count: '0'

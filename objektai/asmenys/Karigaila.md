@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
   - 'XV'

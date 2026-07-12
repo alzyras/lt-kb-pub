@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
 amziai:
   - 'XIV'
 periodo_grupes:

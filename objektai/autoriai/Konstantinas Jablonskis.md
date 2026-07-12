@@ -10,9 +10,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
-  - miestas
   - mokslininkas
+  - redaktorius
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

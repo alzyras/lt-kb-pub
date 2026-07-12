@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - elekcija
-  - institucija
   - ivykis
 amziai:
   - 'XX'

@@ -13,6 +13,9 @@ date_start: '1929'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XX'
   - 'XXI'

@@ -12,9 +12,8 @@ date_end: '1234'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
-  - popiežius
+  - politinis-terminas
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIII'

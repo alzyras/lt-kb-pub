@@ -13,10 +13,9 @@ date_end: '1954'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - miestas
-  - šeima
+  - konfliktas
+  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

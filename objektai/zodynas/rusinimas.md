@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sukilimas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

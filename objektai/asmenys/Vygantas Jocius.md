@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
+  - karys
 amziai:
   - 'XX'
   - 'XXI'

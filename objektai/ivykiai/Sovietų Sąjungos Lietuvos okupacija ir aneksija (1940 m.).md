@@ -12,9 +12,8 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - okupacija
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

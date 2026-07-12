@@ -11,10 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - miestas
   - posakis
-  - valdovas
+  - formulė
 amziai:
   - 'XXI'
 media_total_count: '0'

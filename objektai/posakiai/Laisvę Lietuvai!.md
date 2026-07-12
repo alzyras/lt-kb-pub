@@ -10,6 +10,9 @@ date_start: '1971'
 date_end: '1972'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - frazė
+  - posakis
 amziai:
   - 'XX'
 media_total_count: '0'

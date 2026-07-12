@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karalius
+  - žemė
   - miestas
   - vieta
+  - jūra
 amziai:
   - 'XIV'
 media_total_count: '0'

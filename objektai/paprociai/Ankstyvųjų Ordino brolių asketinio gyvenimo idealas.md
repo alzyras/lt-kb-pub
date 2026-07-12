@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
   - paprotys
   - tikėjimas
 media_total_count: '0'

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - mūšis
-  - šventė
 amziai:
   - 'XVI'
 media_total_count: '0'

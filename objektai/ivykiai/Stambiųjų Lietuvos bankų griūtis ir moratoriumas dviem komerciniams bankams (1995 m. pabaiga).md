@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-įvykis
   - ivykis
 amziai:
   - 'XX'

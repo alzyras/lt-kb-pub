@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - teisinė-praktika
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

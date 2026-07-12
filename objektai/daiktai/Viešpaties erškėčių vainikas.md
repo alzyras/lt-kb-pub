@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
+  - simbolis
 amziai:
   - 'XIII'
 media_total_count: '0'

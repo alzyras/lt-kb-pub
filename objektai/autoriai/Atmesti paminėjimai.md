@@ -10,6 +10,9 @@ date_start: '1332'
 date_end: '1416'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - autorius
 amziai:
   - 'XIV'
   - 'XV'

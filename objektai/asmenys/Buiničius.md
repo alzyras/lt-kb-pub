@@ -11,9 +11,8 @@ date_end: '1945'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - mūšis
-  - ordinas
 amziai:
   - 'XX'
 periodo_grupes:

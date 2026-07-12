@@ -11,10 +11,8 @@ date_end: '1274'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - miestas
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

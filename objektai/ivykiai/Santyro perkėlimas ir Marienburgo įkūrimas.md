@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

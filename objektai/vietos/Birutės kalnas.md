@@ -11,8 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - šventvietė
   - vieta
-  - šventė
 amziai:
   - 'XXI'
 media_total_count: '0'

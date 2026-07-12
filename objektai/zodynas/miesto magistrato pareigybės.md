@@ -12,9 +12,7 @@ date_end: '1568'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
-  - karalius
+  - pareigybė
   - sąvoka
 amziai:
   - 'XVI'

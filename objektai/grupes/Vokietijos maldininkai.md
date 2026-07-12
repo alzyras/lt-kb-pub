@@ -15,8 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

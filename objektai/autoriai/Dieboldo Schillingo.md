@@ -11,9 +11,8 @@ date_end: '1486'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - metraštininkas
   - autorius
-  - ginklas
-  - mūšis
 amziai:
   - 'XV'
 periodo_grupes:

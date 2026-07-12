@@ -15,8 +15,8 @@ date_end: '1950'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - kunigaikštis
 amziai:
   - 'XIX'
   - 'XX'

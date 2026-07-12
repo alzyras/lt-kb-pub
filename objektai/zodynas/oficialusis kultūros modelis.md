@@ -11,10 +11,8 @@ date_end: '1599'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - mokslininkas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

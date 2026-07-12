@@ -6,7 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - žygis
   - ivykis
   - karas
   - mūšis

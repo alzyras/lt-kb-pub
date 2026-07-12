@@ -11,6 +11,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
+  - pareigybė
   - sąvoka
 amziai:
   - 'XX'

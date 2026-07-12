@@ -14,8 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIII'
   - 'XXI'

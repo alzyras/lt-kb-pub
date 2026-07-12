@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
+  - istorinė-sąvoka
   - sąvoka
-  - teisinė-praktika
+  - teisinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

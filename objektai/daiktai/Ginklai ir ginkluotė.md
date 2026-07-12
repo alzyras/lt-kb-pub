@@ -13,9 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karas
-  - miestas
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

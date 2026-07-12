@@ -10,6 +10,9 @@ date_start: '1468'
 date_end: '1515'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vietovardis
+  - sąvoka
 amziai:
   - 'XV'
   - 'XVI'

@@ -11,9 +11,8 @@ date_end: '1904'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - sąvoka
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
   - 'XX'

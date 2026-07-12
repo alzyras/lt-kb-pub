@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
+  - mūšis
 amziai:
   - 'XIII'
   - 'XIV'

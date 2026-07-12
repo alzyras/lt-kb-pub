@@ -12,6 +12,8 @@ atnaujinta: ''
 tags:
   - elekcija
   - karūnacija
+  - seimas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

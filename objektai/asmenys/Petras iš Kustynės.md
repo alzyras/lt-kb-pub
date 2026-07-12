@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - kraštas
-  - krikštas
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

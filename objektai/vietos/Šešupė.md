@@ -14,8 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - vieta
+  - upė
 amziai:
   - 'XX'
   - 'XXI'

@@ -10,6 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - kunigaikštis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

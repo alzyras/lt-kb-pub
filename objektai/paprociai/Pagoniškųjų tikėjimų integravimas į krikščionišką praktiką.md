@@ -11,7 +11,6 @@ date_end: '1417'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - paprotys
   - tikėjimas
   - šventė

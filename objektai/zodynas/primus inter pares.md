@@ -12,7 +12,7 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

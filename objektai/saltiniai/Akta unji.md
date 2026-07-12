@@ -19,7 +19,6 @@ atnaujinta: ''
 tags:
   - dokumentas
   - saltinis
-  - sutartis
 amziai:
   - 'XIV'
   - 'XX'

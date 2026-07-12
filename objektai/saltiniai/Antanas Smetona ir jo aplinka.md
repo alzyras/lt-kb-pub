@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
+  - žemėlapis
 amziai:
   - 'XX'
   - 'XXI'

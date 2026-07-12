@@ -26,6 +26,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
+  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'

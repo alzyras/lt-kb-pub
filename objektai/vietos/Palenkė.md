@@ -17,10 +17,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
-  - sutartis
   - vieta
+  - pilis
+  - žemė
 amziai:
   - 'XIV'
   - 'XXI'

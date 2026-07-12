@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - kariuomenė
   - grupe
 amziai:
   - 'XIX'

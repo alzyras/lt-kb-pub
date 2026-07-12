@@ -17,7 +17,7 @@ date_end: '1923'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - miestas
   - vieta
 amziai:
   - 'XIX'

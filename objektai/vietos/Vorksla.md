@@ -9,6 +9,9 @@ date_start: '1399'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - upė
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

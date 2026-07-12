@@ -10,6 +10,9 @@ date_start: '1609'
 date_end: '1657'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XVII'
 periodo_grupes:

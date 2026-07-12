@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

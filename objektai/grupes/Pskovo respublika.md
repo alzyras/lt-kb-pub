@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
-  - kunigas
-  - valstybė
+  - politinė-grupė
 amziai:
   - 'XV'
   - 'XXI'

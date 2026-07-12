@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - sąvoka
-  - valstybė
+  - politinis-terminas
 amziai:
   - 'XX'
   - 'XXI'

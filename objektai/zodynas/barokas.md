@@ -15,10 +15,8 @@ date_end: '1787'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - istorinė-sąvoka
   - sąvoka
-  - valdovas
-  - šventė
 amziai:
   - 'XVI'
   - 'XVIII'

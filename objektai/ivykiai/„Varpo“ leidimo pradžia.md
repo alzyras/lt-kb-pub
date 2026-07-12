@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - redaktorius
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

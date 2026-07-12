@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kraštas
   - saltinis
 amziai:
   - 'XXI'

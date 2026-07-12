@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

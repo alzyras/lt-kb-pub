@@ -11,10 +11,8 @@ date_end: '1290'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - kunigas
-  - valdovas
+  - žemė
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

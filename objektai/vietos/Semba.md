@@ -25,6 +25,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - gyvenvietė
+  - pilis
 amziai:
   - 'XI'
   - 'XXI'

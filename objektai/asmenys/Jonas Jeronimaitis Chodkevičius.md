@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - seimas
-  - unija
+  - diplomatas
 amziai:
   - 'XVI'
 periodo_grupes:

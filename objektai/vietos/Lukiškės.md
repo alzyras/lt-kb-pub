@@ -11,10 +11,8 @@ date_end: '1557'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - ordinas
   - vieta
-  - vyskupas
+  - dvaras
 amziai:
   - 'XVI'
 media_total_count: '0'

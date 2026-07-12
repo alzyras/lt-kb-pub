@@ -20,6 +20,9 @@ date_start: '1386'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - grupe
 amziai:
   - 'XIV'
   - 'XXI'

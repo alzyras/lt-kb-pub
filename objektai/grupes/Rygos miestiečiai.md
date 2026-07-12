@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
   - ordinas
-  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'

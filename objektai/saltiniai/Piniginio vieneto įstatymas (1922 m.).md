@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - saltinis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

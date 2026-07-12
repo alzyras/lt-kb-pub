@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - elekcija
-  - seimas
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

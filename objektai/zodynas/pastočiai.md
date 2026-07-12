@@ -11,10 +11,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - pilis
-  - pinigai
+  - teisinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XV'
   - 'XXI'

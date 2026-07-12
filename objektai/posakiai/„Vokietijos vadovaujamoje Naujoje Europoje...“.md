@@ -11,9 +11,8 @@ date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

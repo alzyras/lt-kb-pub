@@ -11,8 +11,8 @@ date_end: '1999'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-įvykis
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - metraštininkas
 amziai:
   - 'XI'
 periodo_grupes:

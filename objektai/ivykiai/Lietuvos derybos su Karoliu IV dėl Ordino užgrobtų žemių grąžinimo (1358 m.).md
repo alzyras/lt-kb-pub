@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - diplomatinis-įvykis
   - ivykis
-  - ordinas
-  - upė
 amziai:
   - 'XIV'
 media_total_count: '0'

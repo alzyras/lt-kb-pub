@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - miestas
   - reforma
+  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - reforma
-  - seimas
+  - institucija
 amziai:
   - 'XVIII'
 media_total_count: '0'

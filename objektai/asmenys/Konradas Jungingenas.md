@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
+  - karvedys
   - asmuo
-  - karas
-  - kraštas
 amziai:
   - 'XIV'
 periodo_grupes:

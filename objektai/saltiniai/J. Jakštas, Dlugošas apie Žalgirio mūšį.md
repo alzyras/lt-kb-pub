@@ -11,9 +11,7 @@ date_end: '1960'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

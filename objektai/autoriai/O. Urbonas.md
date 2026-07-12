@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - karas
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

@@ -13,10 +13,8 @@ date_end: '1260'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - ordinas
-  - pilis
   - posakis
+  - frazė
 amziai:
   - 'XI'
   - 'XIII'

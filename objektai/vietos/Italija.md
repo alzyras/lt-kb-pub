@@ -21,9 +21,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - kunigaikštis
-  - mokslininkas
-  - ordinas
+  - vieta
 amziai:
   - 'XII'
   - 'XXI'

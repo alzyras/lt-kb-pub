@@ -10,6 +10,9 @@ date_start: '1767'
 date_end: '1800'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
+  - pareigūnas
 amziai:
   - 'XVIII'
 periodo_grupes:

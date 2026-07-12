@@ -12,9 +12,6 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - miestas
-  - mokslininkas
   - paprotys
 amziai:
   - 'XV'

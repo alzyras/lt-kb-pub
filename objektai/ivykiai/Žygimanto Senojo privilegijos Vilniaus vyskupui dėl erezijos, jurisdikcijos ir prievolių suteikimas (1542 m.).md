@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - ritualas
-  - tikėjimas
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -13,6 +13,8 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-terminas
+  - teisinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

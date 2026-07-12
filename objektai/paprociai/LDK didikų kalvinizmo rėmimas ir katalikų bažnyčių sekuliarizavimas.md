@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - paprotys
-  - reforma
   - tikėjimas
 amziai:
   - 'XVI'

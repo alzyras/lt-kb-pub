@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - ordinas
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -11,7 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - valdovas
+  - karvedys
 amziai:
   - 'XVIII'
 periodo_grupes:

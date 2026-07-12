@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - valstybė
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -10,9 +10,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - redaktorius
-  - tauta
+  - vyskupas
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes: []

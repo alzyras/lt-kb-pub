@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
   - saltinis
-  - seimas
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

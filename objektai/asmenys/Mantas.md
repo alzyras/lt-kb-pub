@@ -11,9 +11,8 @@ date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - mūšis
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

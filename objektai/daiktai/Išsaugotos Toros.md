@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - daiktas
 amziai:
   - 'XXI'
 media_total_count: '0'

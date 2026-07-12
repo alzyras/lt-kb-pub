@@ -11,7 +11,7 @@ date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIV'

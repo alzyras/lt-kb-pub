@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mokslininkas
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

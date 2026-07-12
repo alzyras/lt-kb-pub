@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
-  - ritualas
   - saltinis
 amziai:
   - 'XIV'

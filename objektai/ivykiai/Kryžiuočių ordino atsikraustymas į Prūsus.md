@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - karas
 amziai:
   - 'XIII'
 media_total_count: '0'

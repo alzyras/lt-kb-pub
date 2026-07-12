@@ -9,6 +9,8 @@ date_start: '1805'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

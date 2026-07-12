@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
   - paprotys
   - šeima
 media_total_count: '0'

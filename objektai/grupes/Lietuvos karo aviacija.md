@@ -11,8 +11,8 @@ date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

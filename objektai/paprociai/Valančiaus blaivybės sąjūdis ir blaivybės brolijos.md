@@ -11,9 +11,9 @@ date_end: '1860'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - paprotys
-  - vyskupas
+  - socialinė-praktika
+  - religinė-praktika
 amziai:
   - 'XIX'
 media_total_count: '0'

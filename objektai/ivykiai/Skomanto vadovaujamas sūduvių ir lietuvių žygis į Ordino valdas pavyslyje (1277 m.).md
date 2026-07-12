@@ -11,9 +11,8 @@ date_end: '1282'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 media_total_count: '0'

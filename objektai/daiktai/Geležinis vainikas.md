@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
 amziai:
   - 'XIII'
   - 'XIV'

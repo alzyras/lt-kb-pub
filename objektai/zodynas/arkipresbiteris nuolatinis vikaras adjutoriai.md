@@ -12,10 +12,8 @@ date_end: '1571'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigas
+  - pareigybė
   - sąvoka
-  - vyskupas
 amziai:
   - 'XV'
   - 'XVI'

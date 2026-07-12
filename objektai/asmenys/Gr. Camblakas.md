@@ -13,6 +13,7 @@ date_end: '1439'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
 amziai:
   - 'XV'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
-  - ordinas
-  - valdovas
+  - vieta
 amziai:
   - 'XII'
 media_total_count: '0'

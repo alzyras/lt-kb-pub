@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kraštas
-  - miestas
+  - teisinė-praktika
   - paprotys
 amziai:
   - 'XVI'

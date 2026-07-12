@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mokslininkas
   - saltinis
 amziai:
   - 'XV'

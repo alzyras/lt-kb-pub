@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - tauta
 amziai:
   - 'XX'
   - 'XXI'

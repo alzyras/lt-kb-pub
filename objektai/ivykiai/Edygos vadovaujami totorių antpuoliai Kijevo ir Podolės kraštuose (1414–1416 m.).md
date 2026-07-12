@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
-  - ordinas
+  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -15,7 +15,6 @@ date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
   - saltinis
 amziai:
   - 'XIV'

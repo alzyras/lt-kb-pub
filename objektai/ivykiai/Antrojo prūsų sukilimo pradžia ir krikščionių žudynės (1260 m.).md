@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilimas
   - ivykis
-  - kunigas
-  - ordinas
-  - pilis
+  - religinis-įvykis
+  - mūšis
 amziai:
   - 'XIII'
 media_total_count: '0'

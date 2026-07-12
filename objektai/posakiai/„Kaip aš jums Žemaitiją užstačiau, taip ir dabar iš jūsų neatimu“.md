@@ -10,6 +10,9 @@ variantai:
   - 'Kaip aš jums Žemaitiją užstačiau, taip ir dabar iš jūsų neatimu'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

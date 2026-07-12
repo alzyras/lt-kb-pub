@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

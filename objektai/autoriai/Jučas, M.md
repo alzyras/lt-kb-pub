@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

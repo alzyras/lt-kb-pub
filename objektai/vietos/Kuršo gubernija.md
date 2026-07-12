@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - regionas
 amziai:
   - 'XV'
   - 'XXI'

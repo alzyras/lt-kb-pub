@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

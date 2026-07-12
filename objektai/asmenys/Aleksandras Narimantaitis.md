@@ -9,6 +9,9 @@ date_start: '1367'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

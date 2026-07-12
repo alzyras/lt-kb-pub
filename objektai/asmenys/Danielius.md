@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - tauta
 amziai:
   - 'XIII'
 periodo_grupes:

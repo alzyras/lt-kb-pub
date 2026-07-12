@@ -13,6 +13,10 @@ date_start: '1253'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šventė
+  - paprotys
+  - politinė-praktika
 amziai:
   - 'XIII'
   - 'XXI'

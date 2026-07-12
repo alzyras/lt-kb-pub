@@ -12,10 +12,8 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
-  - karas
   - valstybė
+  - vieta
 amziai:
   - 'XX'
 media_total_count: '0'

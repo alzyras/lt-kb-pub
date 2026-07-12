@@ -11,10 +11,8 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - reforma
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
-  - pilis
+  - rankraštis
+  - saltinis
 amziai:
   - 'XVI'
 media_total_count: '0'

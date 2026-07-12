@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - miestas
-  - vyskupas
+  - politinis-sprendimas
 amziai:
   - 'XVI'
 media_total_count: '0'

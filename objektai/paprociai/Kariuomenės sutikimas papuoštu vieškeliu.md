@@ -10,6 +10,10 @@ date_start: '1919'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinė-praktika
+  - paprotys
+  - karinė-praktika
 amziai:
   - 'XX'
   - 'XXI'

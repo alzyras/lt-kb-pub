@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - paprotys
-  - valdovas
+  - ritualas
+  - religinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

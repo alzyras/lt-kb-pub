@@ -13,10 +13,7 @@ date_end: '1330'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
-  - ordinas
-  - paliaubos
+  - saltinis
 amziai:
   - 'XIII'
   - 'XIV'

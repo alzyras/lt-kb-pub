@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
-  - miestas
-  - teisinė-praktika
 amziai:
   - 'XVII'
 periodo_grupes:

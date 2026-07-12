@@ -12,9 +12,8 @@ date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - žemė
   - miestas
-  - ordinas
   - vieta
 amziai:
   - 'XII'

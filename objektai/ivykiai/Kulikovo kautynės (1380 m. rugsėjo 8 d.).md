@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - upė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalienė
   - asmuo
   - karalius
   - kunigaikštis
-  - kunigas
 amziai:
   - 'XIV'
 periodo_grupes:

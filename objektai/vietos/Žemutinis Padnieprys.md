@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - regionas
   - vieta
 amziai:
   - 'XIV'

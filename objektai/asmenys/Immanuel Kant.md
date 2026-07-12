@@ -10,7 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
 amziai:
   - 'IMM'
 periodo_grupes: []

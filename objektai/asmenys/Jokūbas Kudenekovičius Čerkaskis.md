@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
-  - miestas
 amziai:
   - 'XVII'
 periodo_grupes:

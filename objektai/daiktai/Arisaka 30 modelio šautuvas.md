@@ -13,8 +13,8 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
   - daiktas
-  - karas
 amziai:
   - 'XIII'
   - 'XIX'

@@ -10,6 +10,9 @@ date_start: '1190'
 date_end: '1271'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XII'
   - 'XIII'

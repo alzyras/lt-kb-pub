@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - seimas
+  - valdovas
 amziai:
   - 'XX'
 periodo_grupes:

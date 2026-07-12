@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
+  - religinis-terminas
   - sąvoka
-  - vyskupas
+  - teisinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -12,10 +12,7 @@ date_end: '1235'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
-  - kraštas
-  - ordinas
+  - saltinis
 amziai:
   - 'XIII'
 media_total_count: '0'

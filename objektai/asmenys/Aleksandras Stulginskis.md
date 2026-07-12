@@ -11,10 +11,9 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - dokumentas
-  - seimas
-  - tauta
+  - valdovas
 amziai:
   - 'XX'
 periodo_grupes:

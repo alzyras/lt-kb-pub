@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - krikštas
-  - kunigas
 amziai:
   - 'XIII'
 media_total_count: '0'

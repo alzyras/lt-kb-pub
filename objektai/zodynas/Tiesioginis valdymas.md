@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - politinis-terminas
   - sąvoka
+  - teisinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

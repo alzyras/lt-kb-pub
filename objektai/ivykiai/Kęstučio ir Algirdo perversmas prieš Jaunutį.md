@@ -9,6 +9,9 @@ date_start: '1345'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

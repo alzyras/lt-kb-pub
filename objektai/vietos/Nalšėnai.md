@@ -12,10 +12,8 @@ date_end: '1268'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - kunigas
   - vieta
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - religinis-terminas
   - sąvoka
-  - tauta
-  - vyskupas
+  - istorinė-sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - karalius
-  - miestas
 amziai:
   - 'V'
 periodo_grupes: []

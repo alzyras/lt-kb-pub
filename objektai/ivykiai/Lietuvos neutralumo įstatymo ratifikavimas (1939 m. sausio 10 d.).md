@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - tauta
-  - valstybė
+  - politinis-sprendimas
 amziai:
   - 'XX'
 media_total_count: '0'

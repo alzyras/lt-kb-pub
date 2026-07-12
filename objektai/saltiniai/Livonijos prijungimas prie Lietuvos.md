@@ -14,9 +14,7 @@ date_end: '1937'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
-  - valstybė
 amziai:
   - 'XVI'
   - 'XX'

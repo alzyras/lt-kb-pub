@@ -14,10 +14,8 @@ date_end: '1313'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - pilis
   - sąvoka
-  - tikėjimas
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -12,7 +12,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
   - vieta
 amziai:

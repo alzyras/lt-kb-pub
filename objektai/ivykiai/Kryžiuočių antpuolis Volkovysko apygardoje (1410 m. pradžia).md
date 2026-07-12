@@ -9,6 +9,10 @@ date_start: '1410'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - ivykis
+  - invazija
 amziai:
   - 'XV'
 media_total_count: '0'

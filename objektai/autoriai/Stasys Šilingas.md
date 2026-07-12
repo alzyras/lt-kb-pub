@@ -14,10 +14,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - institucija
-  - karas
-  - tauta
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

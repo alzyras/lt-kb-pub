@@ -10,6 +10,9 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XIV'
   - 'XXI'

@@ -9,6 +9,9 @@ date_start: '1220'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - giminė
+  - grupe
 amziai:
   - 'XIII'
 media_total_count: '0'

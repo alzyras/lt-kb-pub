@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - sutartis
+  - karalius
+  - kunigaikštis
 amziai:
   - 'VL'
 periodo_grupes: []

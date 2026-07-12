@@ -12,9 +12,8 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - redaktorius
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

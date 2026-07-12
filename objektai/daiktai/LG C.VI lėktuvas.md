@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
+  - karo-reikmuo
   - daiktas
-  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

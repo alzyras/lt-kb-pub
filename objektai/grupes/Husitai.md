@@ -18,7 +18,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
+  - ordinas
 amziai:
   - 'XV'
   - 'XXI'

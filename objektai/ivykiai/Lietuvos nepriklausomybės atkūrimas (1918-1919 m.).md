@@ -11,9 +11,8 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - valstybė
+  - politinis-sprendimas
 amziai:
   - 'XX'
 media_total_count: '0'

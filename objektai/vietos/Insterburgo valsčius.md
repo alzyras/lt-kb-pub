@@ -9,6 +9,9 @@ date_start: '1664'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - regionas
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

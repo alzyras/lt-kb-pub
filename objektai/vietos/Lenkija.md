@@ -27,10 +27,9 @@ date_end: '1936'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - miestas
-  - ordinas
-  - valdovas
+  - valstybė
+  - vieta
 amziai:
   - 'XI'
   - 'XX'

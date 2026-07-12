@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
+  - karo-reikmuo
   - daiktas
-  - karas
-  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

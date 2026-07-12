@@ -17,8 +17,6 @@ date_end: '1737'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigas
   - miestas
   - vieta
 amziai:

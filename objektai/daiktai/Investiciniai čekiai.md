@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - dokumentas
   - pinigai
+  - daiktas
 amziai:
   - 'XX'
 media_total_count: '0'

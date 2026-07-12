@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - religinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

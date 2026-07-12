@@ -10,6 +10,9 @@ date_start: '1336'
 date_end: '1337'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

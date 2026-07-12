@@ -9,7 +9,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 3.
+Objektų skaičius: 49.
 
 ## Kaip naudoti
 
@@ -19,8 +19,54 @@ Objektų skaičius: 3.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Albertas Tžasibroda]]
+- [[objektai/asmenys/Aleksandras Baltramiejevičius]]
+- [[objektai/asmenys/Augustinas Rotundas Milesijus]]
+- [[objektai/asmenys/Felicija Osčiluvna]]
 - [[objektai/asmenys/Gabrielius Bekešas]]
+- [[objektai/asmenys/Galminas]]
+- [[objektai/asmenys/Gedetas]]
+- [[objektai/asmenys/Getautas]]
+- [[objektai/asmenys/Gotardas]]
+- [[objektai/asmenys/Hertvigas]]
+- [[objektai/asmenys/Jonas Lenartaitis Kęsgaila]]
+- [[objektai/asmenys/Jonas Stančikavičius]]
+- [[objektai/asmenys/Kantigirdas]]
+- [[objektai/asmenys/Kasparas Januševičius]]
+- [[objektai/asmenys/Klausigaila]]
+- [[objektai/asmenys/Krunevičius]]
+- [[objektai/asmenys/Limantas]]
+- [[objektai/asmenys/Motiejus Božiminskis]]
+- [[objektai/asmenys/Motiejus Januševičius]]
+- [[objektai/asmenys/Ona Tarnavska]]
+- [[objektai/asmenys/Ostapas Kropotkovas]]
+- [[objektai/asmenys/Petras Malachovskis]]
+- [[objektai/asmenys/Pisonas]]
+- [[objektai/asmenys/Povilas Jurevičius]]
+- [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
+- [Rimvydas](../objektai/asmenys/Rimvydas)
+- [Rotundas (Augustinas Milesijus Mieleskis)](../objektai/asmenys/Rotundas%20%28Augustinas%20Milesijus%20Mieleskis%29)
+- [Rumbaudas](../objektai/asmenys/Rumbaudas)
+- [Samilis](../objektai/asmenys/Samilis)
+- [Skabeika](../objektai/asmenys/Skabeika)
+- [Sklodas iš Kvedenavos](../objektai/asmenys/Sklodas%20i%C5%A1%20Kvedenavos)
+- [Skumas](../objektai/asmenys/Skumas)
+- [Sofija Šimonova](../objektai/asmenys/Sofija%20%C5%A0imonova)
+- [Stanislovas Milinavičius](../objektai/asmenys/Stanislovas%20Milinavi%C4%8Dius)
+- [Stanislovas Piotrasavičius](../objektai/asmenys/Stanislovas%20Piotrasavi%C4%8Dius)
+- [Stanislovas Sabina](../objektai/asmenys/Stanislovas%20Sabina)
+- [Stucė](../objektai/asmenys/Stuc%C4%97)
+- [Trepka](../objektai/asmenys/Trepka)
+- [Vaidila](../objektai/asmenys/Vaidila)
+- [Vaitiekus Taboras (vyskupas, XV–XVI a.)](../objektai/asmenys/Vaitiekus%20Taboras)
+- [Vasibutas](../objektai/asmenys/Vasibutas)
+- [Vladislovas Jogaila](../objektai/asmenys/Vladislovas%20Jogaila)
+- [Vydimantas](../objektai/asmenys/Vydimantas)
 
 ### Autoriai
-- [[objektai/autoriai/Mykolas Kleopas Oginskis]]
-- [[objektai/autoriai/Tadas Korsakas]]
+- [Augustinas Mieleckis Rotundas](../objektai/autoriai/Augustinas%20Mieleckis%20Rotundas)
+- [Janockis](../objektai/autoriai/Janockis)
+- [Laurynas Ivinskis](../objektai/autoriai/Laurynas%20Ivinskis)
+- [Mykolas Kleopas Oginskis](../objektai/autoriai/Mykolas%20Kleopas%20Oginskis)
+- [Petras Malachovskis](../objektai/autoriai/Petras%20Malachovskis)
+- [Tadas Korsakas](../objektai/autoriai/Tadas%20Korsakas)

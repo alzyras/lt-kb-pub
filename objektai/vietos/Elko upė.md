@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - upė
   - vieta
 media_total_count: '0'

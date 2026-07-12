@@ -11,9 +11,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - kraštas
-  - sukilimas
 amziai:
   - 'XIX'
 periodo_grupes:

@@ -12,10 +12,9 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

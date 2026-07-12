@@ -11,6 +11,9 @@ date_start: '1564'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XVI'
   - 'XXI'

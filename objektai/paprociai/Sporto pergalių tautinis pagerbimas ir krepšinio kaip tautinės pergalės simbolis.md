@@ -13,7 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - tauta
+  - socialinė-praktika
+  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'

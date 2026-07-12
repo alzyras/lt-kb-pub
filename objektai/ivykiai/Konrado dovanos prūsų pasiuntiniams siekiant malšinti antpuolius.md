@@ -14,9 +14,8 @@ date_end: '1225'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - drabužis
   - ivykis
-  - kunigaikštis
+  - diplomatinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

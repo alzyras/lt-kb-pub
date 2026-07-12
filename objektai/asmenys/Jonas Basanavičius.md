@@ -14,7 +14,7 @@ tags:
   - asmuo
   - mokslininkas
   - redaktorius
-  - tauta
+  - kalbininkas
 amziai:
   - 'XIX'
   - 'XX'

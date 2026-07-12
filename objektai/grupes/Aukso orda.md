@@ -21,7 +21,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - teisinė-praktika
+  - politinė-grupė
 amziai:
   - 'XIV'
   - 'XXI'

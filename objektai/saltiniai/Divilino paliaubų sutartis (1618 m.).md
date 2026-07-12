@@ -12,9 +12,8 @@ date_end: '1618'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - paliaubos
   - saltinis
-  - sutartis
+  - dokumentas
 amziai:
   - 'XVI'
   - 'XVII'

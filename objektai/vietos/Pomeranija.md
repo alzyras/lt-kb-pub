@@ -16,6 +16,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - žemė
+  - jūra
+  - kraštas
 amziai:
   - 'XIII'
   - 'XXI'

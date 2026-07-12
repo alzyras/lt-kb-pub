@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
-  - mokslininkas
   - ordinas
 amziai:
   - 'XVI'

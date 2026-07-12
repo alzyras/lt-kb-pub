@@ -9,6 +9,9 @@ date_start: '269'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
 amziai:
   - 'III'
 media_total_count: '0'

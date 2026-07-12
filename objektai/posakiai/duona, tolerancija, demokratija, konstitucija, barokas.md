@@ -10,6 +10,9 @@ date_start: '1601'
 date_end: '1800'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XVII'
   - 'XVIII'

@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - tauta
+  - draugija
 amziai:
   - 'XX'
   - 'XXI'

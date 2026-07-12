@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - ekonominis-įvykis
   - ivykis
-  - karalius
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

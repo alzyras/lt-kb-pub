@@ -17,9 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - mokslininkas
-  - unija
-  - valstybė
+  - tauta
 amziai:
   - 'XIX'
   - 'XXI'

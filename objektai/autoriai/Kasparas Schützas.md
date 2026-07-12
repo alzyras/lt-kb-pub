@@ -9,6 +9,8 @@ date_start: '1769'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XVIII'
 periodo_grupes:

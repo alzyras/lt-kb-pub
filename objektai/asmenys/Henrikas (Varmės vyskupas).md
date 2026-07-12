@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - pilis
   - valdovas
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

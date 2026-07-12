@@ -12,6 +12,7 @@ date_end: '1908'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemėlapis
   - saltinis
 amziai:
   - 'XIX'

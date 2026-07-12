@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - kraštas
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

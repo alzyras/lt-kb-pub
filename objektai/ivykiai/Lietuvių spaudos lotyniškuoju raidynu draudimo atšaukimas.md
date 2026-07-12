@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - kraštas
+  - kultūrinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

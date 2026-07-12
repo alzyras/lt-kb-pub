@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - pinigai
 amziai:
   - 'XIV'
 periodo_grupes:

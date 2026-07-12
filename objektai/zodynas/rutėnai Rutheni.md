@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - sąvoka
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

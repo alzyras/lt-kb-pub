@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - pilis
-  - tikėjimas
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

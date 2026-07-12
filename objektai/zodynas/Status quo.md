@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - sąvoka
+  - politinis-terminas
+  - skolinys
 amziai:
   - 'XX'
 media_total_count: '0'

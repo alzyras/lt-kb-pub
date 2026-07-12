@@ -11,10 +11,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
   - pilis
   - upė
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

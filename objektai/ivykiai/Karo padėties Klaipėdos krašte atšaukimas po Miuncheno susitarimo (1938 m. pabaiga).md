@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

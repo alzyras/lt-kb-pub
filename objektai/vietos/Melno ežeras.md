@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - karas
-  - ordinas
   - upė
+  - vieta
 amziai:
   - 'XV'
   - 'XXI'

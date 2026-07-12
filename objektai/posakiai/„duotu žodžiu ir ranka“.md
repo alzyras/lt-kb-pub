@@ -10,6 +10,10 @@ variantai:
   - 'duotu žodžiu ir ranka'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - priesaika
+  - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

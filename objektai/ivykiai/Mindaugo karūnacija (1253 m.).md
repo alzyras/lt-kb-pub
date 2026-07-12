@@ -15,6 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karūnacija
+  - žygis
+  - ivykis
 amziai:
   - 'XIII'
   - 'XX'

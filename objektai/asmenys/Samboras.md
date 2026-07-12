@@ -11,8 +11,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - tauta
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

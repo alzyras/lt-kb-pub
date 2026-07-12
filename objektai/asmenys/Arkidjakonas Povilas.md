@@ -9,6 +9,9 @@ date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

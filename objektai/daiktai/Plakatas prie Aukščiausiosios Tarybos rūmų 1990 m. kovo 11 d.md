@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - institucija
+  - simbolis
 amziai:
   - 'XX'
 media_total_count: '0'

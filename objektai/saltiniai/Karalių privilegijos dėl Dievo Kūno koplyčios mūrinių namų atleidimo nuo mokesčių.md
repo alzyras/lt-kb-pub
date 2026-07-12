@@ -12,7 +12,6 @@ date_end: '1664'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
 amziai:
   - 'XVII'

@@ -24,7 +24,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - sukilimas
+  - kariuomenė
+  - ordinas
 amziai:
   - 'XIII'
   - 'XX'

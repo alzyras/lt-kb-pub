@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - unija
 amziai:
   - 'XVII'
 media_total_count: '0'

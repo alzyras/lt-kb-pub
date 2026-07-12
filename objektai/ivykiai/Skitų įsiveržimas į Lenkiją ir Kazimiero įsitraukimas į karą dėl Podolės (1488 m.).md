@@ -10,6 +10,10 @@ date_start: '1488'
 date_end: '1489'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - invazija
+  - karas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

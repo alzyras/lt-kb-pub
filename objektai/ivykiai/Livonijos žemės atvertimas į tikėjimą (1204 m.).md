@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - krikštas
+  - religinis-įvykis
   - ivykis
-  - popiežius
-  - tikėjimas
 amziai:
   - 'XIII'
 media_total_count: '0'

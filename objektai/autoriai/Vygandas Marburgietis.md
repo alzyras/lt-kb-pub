@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - karalius
 amziai:
   - 'XIV'
 periodo_grupes:

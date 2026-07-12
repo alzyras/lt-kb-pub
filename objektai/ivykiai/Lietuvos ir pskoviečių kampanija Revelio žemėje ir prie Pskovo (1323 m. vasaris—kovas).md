@@ -13,10 +13,9 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - miestas
-  - ordinas
-  - vyskupas
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

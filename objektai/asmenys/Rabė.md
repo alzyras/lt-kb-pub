@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - kunigaikštis
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

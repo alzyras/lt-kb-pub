@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kraštas
-  - miestas
-  - pilis
+  - rankraštis
 amziai:
   - 'XVI'
 media_total_count: '0'

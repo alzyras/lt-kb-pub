@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - miestas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

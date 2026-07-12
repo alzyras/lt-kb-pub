@@ -6,9 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - paprotys
-  - vyskupas
+  - politinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
+  - rašytojas
 amziai:
   - 'XVI'
   - 'XVII'

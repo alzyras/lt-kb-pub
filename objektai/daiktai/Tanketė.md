@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - miestas
-  - mūšis
 amziai:
   - 'XX'
 media_total_count: '0'

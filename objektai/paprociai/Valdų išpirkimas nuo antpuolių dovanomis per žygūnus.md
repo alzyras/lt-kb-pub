@@ -9,6 +9,9 @@ date_start: '1449'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
+  - politinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

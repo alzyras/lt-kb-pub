@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - sutartis
 amziai:
   - 'XVII'
   - 'XX'

@@ -9,6 +9,9 @@ date_start: '1435'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

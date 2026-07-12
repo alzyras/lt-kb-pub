@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - sutartis
 amziai:
   - 'XIII'
 periodo_grupes:

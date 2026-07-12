@@ -14,7 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - seimas
+  - žemėlapis
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - rašytojas
 amziai:
   - 'XVIII'
 periodo_grupes:

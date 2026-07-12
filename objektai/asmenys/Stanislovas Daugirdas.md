@@ -9,6 +9,10 @@ date_start: '1509'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - karalius
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

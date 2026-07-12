@@ -13,10 +13,9 @@ date_end: '1447'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
+  - politinė-praktika
   - paprotys
-  - valdovas
+  - teisinė-praktika
 amziai:
   - 'XIV'
   - 'XV'

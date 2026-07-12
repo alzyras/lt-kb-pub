@@ -16,8 +16,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - mūšis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIV'
   - 'XVI'

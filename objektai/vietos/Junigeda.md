@@ -13,8 +13,6 @@ date_end: '1315'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
   - pilis
   - vieta
 amziai:

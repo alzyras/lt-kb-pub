@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - žemėlapis
+  - redaktorius
 amziai:
   - 'XX'
   - 'XXI'

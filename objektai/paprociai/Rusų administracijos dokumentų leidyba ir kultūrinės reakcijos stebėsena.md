@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dokumentas
-  - kraštas
   - paprotys
+  - politinė-praktika
 amziai:
   - 'XIX'
 media_total_count: '0'

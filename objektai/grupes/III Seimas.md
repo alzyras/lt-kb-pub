@@ -11,10 +11,8 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
   - grupe
-  - karas
-  - seimas
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'

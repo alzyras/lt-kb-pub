@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - miestas
-  - pilis
+  - politinė-grupė
 amziai:
   - 'XVI'
 media_total_count: '0'

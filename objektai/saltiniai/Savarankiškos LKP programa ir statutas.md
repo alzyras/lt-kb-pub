@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

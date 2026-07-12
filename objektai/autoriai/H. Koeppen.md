@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - redaktorius
 amziai:
   - 'XIV'
 periodo_grupes:

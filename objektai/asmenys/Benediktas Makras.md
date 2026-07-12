@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - bajorija
-  - kraštas
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

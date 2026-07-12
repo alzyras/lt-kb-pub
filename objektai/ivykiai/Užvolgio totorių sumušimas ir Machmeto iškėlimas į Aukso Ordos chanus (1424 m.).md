@@ -11,7 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
+  - mūšis
+  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -9,6 +9,10 @@ date_start: '1304'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigūnas
+  - karvedys
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -17,6 +17,8 @@ variantai:
   - 'Henriko Latvio kronika'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIII'
   - 'XX'

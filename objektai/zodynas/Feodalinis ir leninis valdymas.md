@@ -11,10 +11,8 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
+  - politinis-terminas
   - sąvoka
-  - valdovas
 amziai:
   - 'XII'
   - 'XIV'

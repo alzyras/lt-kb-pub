@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
-  - mokslininkas
+  - teisinė-praktika
   - paprotys
+  - politinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

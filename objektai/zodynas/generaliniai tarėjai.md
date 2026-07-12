@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - pareigybė
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

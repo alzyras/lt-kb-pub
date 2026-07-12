@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - paminklas
 amziai:
   - 'XIX'
   - 'XX'

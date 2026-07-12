@@ -9,6 +9,8 @@ date_start: '1979'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

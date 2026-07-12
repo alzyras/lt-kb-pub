@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ["elekcija", "politinis-sprendimas"]
+  - elekcija
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XX'
 media_total_count: '0'

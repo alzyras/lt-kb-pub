@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
-  - šeima
 amziai:
   - 'XVIII'
   - 'XIX'

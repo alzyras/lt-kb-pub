@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
-  - unija
+  - bajoras
 amziai:
   - 'XVI'
 periodo_grupes:

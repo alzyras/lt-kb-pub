@@ -9,6 +9,9 @@ date_start: '1530'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - etninė-grupė
+  - grupe
 amziai:
   - 'XVI'
 media_total_count: '0'

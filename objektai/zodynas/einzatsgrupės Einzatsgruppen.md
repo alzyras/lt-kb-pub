@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - karinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

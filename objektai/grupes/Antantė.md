@@ -13,10 +13,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
   - institucija
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - sutartis
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

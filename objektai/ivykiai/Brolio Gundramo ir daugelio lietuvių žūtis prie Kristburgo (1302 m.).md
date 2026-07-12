@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - pilis
+  - mūšis
 amziai:
   - 'XIV'
 media_total_count: '0'

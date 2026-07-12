@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - teisinė-praktika
-  - valdovas
+  - sukilimas
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

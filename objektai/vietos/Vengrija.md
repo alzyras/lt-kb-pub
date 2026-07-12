@@ -22,10 +22,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karalius
-  - ordinas
   - valstybė
+  - vieta
 amziai:
   - 'XIII'
   - 'XXI'

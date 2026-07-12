@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
+  - rašytojas
 amziai:
   - 'L'
 periodo_grupes: []

@@ -11,10 +11,9 @@ date_end: '1377'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
-  - kunigaikštis
   - paprotys
-  - tauta
+  - religinė-praktika
+  - politinė-praktika
 amziai:
   - 'XIII'
   - 'XIV'

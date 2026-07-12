@@ -18,7 +18,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - vieta
 amziai:
   - 'XIV'

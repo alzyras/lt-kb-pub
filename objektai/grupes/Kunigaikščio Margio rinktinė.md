@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - karas
-  - kunigaikštis
 amziai:
   - 'XX'
 media_total_count: '0'

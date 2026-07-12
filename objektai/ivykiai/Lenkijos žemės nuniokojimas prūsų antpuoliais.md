@@ -11,10 +11,8 @@ date_end: '1973'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - kunigaikštis
-  - pilis
+  - invazija
 amziai:
   - 'XIII'
   - 'XX'

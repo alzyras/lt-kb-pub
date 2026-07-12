@@ -13,6 +13,7 @@ date_end: '1501'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - upė
   - vieta
 amziai:
   - 'XIII'

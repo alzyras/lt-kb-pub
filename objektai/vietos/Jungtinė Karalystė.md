@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - valstybė
   - vieta
 amziai:
   - 'XX'

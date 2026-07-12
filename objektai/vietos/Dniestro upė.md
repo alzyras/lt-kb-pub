@@ -11,8 +11,6 @@ date_end: '1623'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - paliaubos
-  - tauta
   - upė
   - vieta
 amziai:

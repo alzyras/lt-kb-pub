@@ -16,6 +16,8 @@ atnaujinta: ''
 tags:
   - religinė-praktika
   - ritualas
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
   - 'XV'

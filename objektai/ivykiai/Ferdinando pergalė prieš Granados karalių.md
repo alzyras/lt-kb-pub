@@ -11,8 +11,8 @@ date_end: '1241'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - karalius
 amziai:
   - 'X'
   - 'XIII'

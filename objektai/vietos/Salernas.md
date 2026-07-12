@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - vieta
 amziai:
   - 'XIII'

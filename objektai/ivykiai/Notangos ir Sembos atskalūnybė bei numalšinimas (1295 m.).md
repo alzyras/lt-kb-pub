@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilimas
   - ivykis
-  - karvedys
-  - kunigaikštis
-  - tauta
 amziai:
   - 'XIII'
 media_total_count: '0'

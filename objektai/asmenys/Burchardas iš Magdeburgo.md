@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - pilis
-  - šeima
+  - karys
 amziai:
   - 'XI'
 periodo_grupes:

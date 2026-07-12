@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - regionas
 amziai:
   - 'XX'
   - 'XXI'

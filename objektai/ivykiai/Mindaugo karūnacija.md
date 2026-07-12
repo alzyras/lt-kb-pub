@@ -13,10 +13,9 @@ date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karūnacija
   - ivykis
-  - karalius
   - krikštas
-  - ordinas
 amziai:
   - 'XIII'
   - 'XX'

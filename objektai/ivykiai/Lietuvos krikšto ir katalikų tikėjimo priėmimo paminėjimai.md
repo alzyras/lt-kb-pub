@@ -10,6 +10,9 @@ date_start: '1240'
 date_end: '1386'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - krikštas
+  - ivykis
 amziai:
   - 'XIII'
   - 'XIV'

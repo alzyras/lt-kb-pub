@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - politinis-terminas
   - sąvoka
-  - valstybė
-  - žemėlapis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - karalius
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

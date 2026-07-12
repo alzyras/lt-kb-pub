@@ -9,6 +9,9 @@ date_start: '1859'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - frazė
+  - posakis
 amziai:
   - 'XIX'
 media_total_count: '0'

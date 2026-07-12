@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - kunigaikštis
-  - pilis
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

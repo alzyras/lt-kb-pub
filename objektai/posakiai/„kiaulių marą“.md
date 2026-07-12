@@ -11,9 +11,7 @@ date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - miestas
-  - mokslininkas
+  - citata
   - posakis
 amziai:
   - 'XX'

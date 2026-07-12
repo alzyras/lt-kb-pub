@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - sąvoka
-  - teisinė-praktika
+  - socialinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

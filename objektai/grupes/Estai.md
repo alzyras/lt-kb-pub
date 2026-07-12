@@ -16,7 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - redaktorius
   - tauta
 amziai:
   - 'XIII'

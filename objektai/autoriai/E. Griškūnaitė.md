@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - sukilimas
 amziai:
   - 'XIX'
   - 'XX'

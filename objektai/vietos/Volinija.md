@@ -11,10 +11,8 @@ date_end: '1349'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - papuošalas
-  - popiežius
+  - vieta
+  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

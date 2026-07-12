@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - miestelis
 amziai:
   - 'XIX'
 media_total_count: '0'

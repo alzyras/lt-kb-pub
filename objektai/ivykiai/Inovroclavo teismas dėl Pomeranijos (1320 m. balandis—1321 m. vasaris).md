@@ -11,10 +11,8 @@ date_end: '1321'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - diplomatinis-įvykis
   - ivykis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 media_total_count: '0'

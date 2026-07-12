@@ -12,10 +12,9 @@ date_end: '1428'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - karalius
   - karas
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

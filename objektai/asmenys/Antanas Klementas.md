@@ -9,6 +9,8 @@ date_start: '1794'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
+  - religinė-bendruomenė
   - grupe
-  - miestas
-  - šeima
 amziai:
   - 'XVII'
 media_total_count: '0'

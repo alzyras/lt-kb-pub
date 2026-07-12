@@ -16,10 +16,9 @@ date_end: '1578'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
+  - teisinis-terminas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XVI'

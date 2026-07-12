@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
+  - mokslininkas
   - autorius
 amziai:
   - 'XX'

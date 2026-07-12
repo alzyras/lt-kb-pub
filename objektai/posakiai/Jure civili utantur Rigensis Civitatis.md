@@ -10,6 +10,9 @@ date_start: '1200'
 date_end: '1337'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XII'
   - 'XIV'

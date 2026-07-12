@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - formulė
   - posakis
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

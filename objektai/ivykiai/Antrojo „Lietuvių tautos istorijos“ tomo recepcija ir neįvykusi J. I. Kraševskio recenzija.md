@@ -10,6 +10,9 @@ date_start: '1837'
 date_end: '1838'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - kultūrinis-įvykis
 amziai:
   - 'XIX'
 media_total_count: '0'

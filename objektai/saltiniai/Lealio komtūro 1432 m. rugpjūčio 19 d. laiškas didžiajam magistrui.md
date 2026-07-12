@@ -11,7 +11,6 @@ date_end: '1432'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
 amziai:
   - 'XIV'

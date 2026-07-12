@@ -10,9 +10,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - karalius
-  - pilis
+  - citata
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''

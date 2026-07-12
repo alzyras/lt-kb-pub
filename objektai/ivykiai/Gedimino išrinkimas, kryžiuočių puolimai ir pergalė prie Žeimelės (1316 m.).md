@@ -9,6 +9,10 @@ date_start: '1316'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - mūšis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

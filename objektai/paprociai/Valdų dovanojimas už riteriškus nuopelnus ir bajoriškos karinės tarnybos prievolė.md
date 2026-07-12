@@ -6,9 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
-  - kraštas
+  - teisinė-praktika
+  - karinė-praktika
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

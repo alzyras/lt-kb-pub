@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

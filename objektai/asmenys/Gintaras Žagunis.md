@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:

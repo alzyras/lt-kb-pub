@@ -8,6 +8,9 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - autorius
 amziai:
   - 'M'
 periodo_grupes: []

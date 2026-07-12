@@ -14,10 +14,8 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
+  - religinė-bendruomenė
   - grupe
-  - kunigaikštis
-  - reforma
 amziai:
   - 'XVI'
   - 'XVIII'

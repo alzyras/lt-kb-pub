@@ -13,6 +13,9 @@ date_start: '1384'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'XIV'
   - 'XXI'

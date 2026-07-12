@@ -8,6 +8,9 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

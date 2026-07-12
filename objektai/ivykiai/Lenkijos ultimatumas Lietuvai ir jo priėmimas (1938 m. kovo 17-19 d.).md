@@ -11,10 +11,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
   - karas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

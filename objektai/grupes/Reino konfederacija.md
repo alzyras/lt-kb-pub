@@ -11,8 +11,8 @@ date_end: '1255'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - miestas
 amziai:
   - 'XIII'
 media_total_count: '0'

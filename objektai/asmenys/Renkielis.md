@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
 amziai:
   - 'XVIII'
 periodo_grupes:

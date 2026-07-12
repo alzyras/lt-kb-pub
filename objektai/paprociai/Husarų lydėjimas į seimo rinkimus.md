@@ -10,6 +10,8 @@ date_start: '1699'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
 amziai:
   - 'XVII'
   - 'XXI'

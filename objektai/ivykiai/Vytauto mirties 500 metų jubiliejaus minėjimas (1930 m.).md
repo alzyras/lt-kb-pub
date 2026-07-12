@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - kunigaikštis
-  - tauta
+  - kultūrinis-įvykis
+  - socialinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

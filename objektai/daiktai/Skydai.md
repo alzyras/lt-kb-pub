@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - pilis
+  - ginklas
 amziai:
   - 'XX'
 media_total_count: '0'

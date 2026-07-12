@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ritualas
+  - religinis-terminas
+  - teisinis-terminas
   - sąvoka
-  - tikėjimas
-  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

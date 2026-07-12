@@ -12,9 +12,7 @@ date_end: '1294'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - pilis
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIII'

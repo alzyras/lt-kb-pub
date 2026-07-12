@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

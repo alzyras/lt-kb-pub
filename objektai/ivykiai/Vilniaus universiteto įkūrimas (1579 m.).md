@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - popiežius
-  - valdovas
+  - unija
 amziai:
   - 'XVI'
   - 'XIX'

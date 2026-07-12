@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - karas
   - kunigaikštis
 amziai:
   - 'XIV'

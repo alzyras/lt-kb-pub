@@ -11,8 +11,8 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - diplomatas
   - asmuo
-  - sutartis
 amziai:
   - 'XX'
 periodo_grupes:

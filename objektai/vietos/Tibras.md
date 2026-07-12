@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
+  - upė
   - vieta
 amziai:
   - 'XIII'

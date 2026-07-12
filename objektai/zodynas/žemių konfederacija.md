@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - politinis-terminas
+  - istorinė-sąvoka
   - sąvoka
-  - valdovas
-  - valstybė
 amziai:
   - 'XIII'
 media_total_count: '0'

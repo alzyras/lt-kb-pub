@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - religinis-terminas
+  - sąvoka
 amziai:
   - 'XIII'
   - 'XV'

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - sukilimas
   - valstybė
   - vieta
 amziai:

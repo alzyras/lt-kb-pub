@@ -19,9 +19,8 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - pilis
   - posakis
+  - citata
 amziai:
   - 'XIII'
   - 'XV'

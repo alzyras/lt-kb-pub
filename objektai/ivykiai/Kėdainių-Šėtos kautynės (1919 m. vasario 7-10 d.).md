@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
+  - krikštas
+  - ivykis
 amziai:
   - 'XX'
 media_total_count: '0'

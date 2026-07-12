@@ -12,7 +12,6 @@ date_end: '1859'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
 amziai:
   - 'XVI'

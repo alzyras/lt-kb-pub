@@ -16,8 +16,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - karas
-  - valdovas
 amziai:
   - 'XVI'
   - 'XVIII'

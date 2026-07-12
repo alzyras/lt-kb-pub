@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - ordinas
-  - pilis
+  - citata
   - posakis
 amziai:
   - 'XV'

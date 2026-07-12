@@ -9,6 +9,9 @@ date_start: '1258'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šventvietė
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

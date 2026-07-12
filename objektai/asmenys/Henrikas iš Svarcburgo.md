@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - teisinė-praktika
-  - tikėjimas
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

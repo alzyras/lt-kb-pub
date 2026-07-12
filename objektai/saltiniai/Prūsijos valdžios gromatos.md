@@ -17,9 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - kraštas
   - saltinis
-  - valstybė
 amziai:
   - 'XII'
   - 'XVIII'

@@ -13,10 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
-  - kraštas
   - saltinis
+  - dokumentas
 amziai:
   - 'XX'
   - 'XXI'

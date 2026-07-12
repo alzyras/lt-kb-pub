@@ -10,6 +10,10 @@ date_start: '2013'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinė-praktika
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XXI'
 media_total_count: '0'

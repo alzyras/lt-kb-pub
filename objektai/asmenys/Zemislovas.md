@@ -9,6 +9,10 @@ date_start: '1269'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - valdovas
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

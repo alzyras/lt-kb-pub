@@ -11,6 +11,10 @@ date_start: '1419'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - etninė-grupė
+  - grupe
 amziai:
   - 'XV'
 media_total_count: '0'

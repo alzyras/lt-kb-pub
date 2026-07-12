@@ -15,9 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - kunigaikštis
-  - tauta
+  - mūšis
 amziai:
   - 'XIV'
   - 'XXI'

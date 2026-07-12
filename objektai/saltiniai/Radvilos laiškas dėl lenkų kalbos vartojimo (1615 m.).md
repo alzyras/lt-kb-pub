@@ -13,7 +13,6 @@ date_end: '1697'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - saltinis
 amziai:
   - 'XVII'

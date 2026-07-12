@@ -13,6 +13,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
   - daiktas
 amziai:
   - 'XX'

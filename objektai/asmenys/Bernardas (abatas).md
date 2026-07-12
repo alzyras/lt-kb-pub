@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - krikštas
   - popiežius
 amziai:
   - 'XIV'

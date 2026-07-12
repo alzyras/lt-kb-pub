@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
-  - karas
   - tauta
 amziai:
   - 'XX'

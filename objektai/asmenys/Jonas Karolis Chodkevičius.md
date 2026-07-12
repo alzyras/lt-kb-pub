@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - mūšis
 amziai:
   - 'XVII'
 periodo_grupes:

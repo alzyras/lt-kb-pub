@@ -9,6 +9,9 @@ date_start: '1648'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-terminas
+  - sąvoka
 amziai:
   - 'XVII'
 media_total_count: '0'

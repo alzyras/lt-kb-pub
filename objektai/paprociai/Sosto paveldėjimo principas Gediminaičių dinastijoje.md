@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - paprotys
-  - pilis
-  - valstybė
+  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

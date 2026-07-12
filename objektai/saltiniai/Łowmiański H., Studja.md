@@ -13,9 +13,6 @@ date_end: '1372'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
-  - pilis
   - saltinis
 amziai:
   - 'XIII'

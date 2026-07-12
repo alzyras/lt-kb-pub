@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - dokumentas
   - saltinis
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

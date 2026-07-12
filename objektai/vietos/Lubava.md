@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - ordinas
   - pilis
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIV'
 media_total_count: '0'

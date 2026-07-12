@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
-  - sukilimas
+  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'

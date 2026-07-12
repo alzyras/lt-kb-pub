@@ -9,6 +9,10 @@ date_start: '1525'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sutartis
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

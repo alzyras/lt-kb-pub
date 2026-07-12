@@ -15,8 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - vieta
+  - regionas
 amziai:
   - 'XIII'
   - 'XXI'

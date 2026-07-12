@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - institucija
   - grupe
-  - karalius
-  - miestas
+  - religinė-bendruomenė
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -7,8 +7,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - sąvoka
+  - mokestis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

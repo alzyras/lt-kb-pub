@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
-  - pilis
-  - popiežius
+  - saltinis
 amziai:
   - 'XI'
 media_total_count: '0'

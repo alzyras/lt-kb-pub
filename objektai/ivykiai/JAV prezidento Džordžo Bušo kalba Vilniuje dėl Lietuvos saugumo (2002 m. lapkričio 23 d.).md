@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - tikėjimas
+  - diplomatinis-įvykis
 amziai:
   - 'XXI'
 media_total_count: '0'

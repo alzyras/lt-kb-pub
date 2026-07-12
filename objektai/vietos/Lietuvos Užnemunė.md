@@ -11,10 +11,9 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - kraštas
-  - tauta
   - valstybė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

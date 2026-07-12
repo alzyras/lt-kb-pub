@@ -10,6 +10,9 @@ date_start: '1810'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

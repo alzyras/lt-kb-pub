@@ -9,6 +9,9 @@ date_start: '1547'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - buities-daiktas
+  - daiktas
 amziai:
   - 'XVI'
 media_total_count: '0'

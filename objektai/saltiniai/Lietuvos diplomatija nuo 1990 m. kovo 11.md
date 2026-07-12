@@ -13,9 +13,8 @@ date_end: '2001'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
   - saltinis
+  - žemėlapis
 amziai:
   - 'XX'
   - 'XXI'

@@ -12,8 +12,7 @@ date_end: '1440'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
+  - miestas
   - vieta
 amziai:
   - 'XIV'

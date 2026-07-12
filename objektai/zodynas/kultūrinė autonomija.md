@@ -14,10 +14,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XVIII'
   - 'XX'

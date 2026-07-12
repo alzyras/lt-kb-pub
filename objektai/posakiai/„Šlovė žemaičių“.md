@@ -12,10 +12,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - frazė
   - posakis
-  - tauta
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XIX'

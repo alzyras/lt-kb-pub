@@ -10,6 +10,8 @@ date_start: '1847'
 date_end: '1848'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XIX'
 media_total_count: '0'

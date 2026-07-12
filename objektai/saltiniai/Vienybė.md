@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

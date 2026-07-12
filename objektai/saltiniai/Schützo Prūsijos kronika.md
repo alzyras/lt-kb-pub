@@ -11,9 +11,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
-  - ordinas
   - saltinis
 amziai:
   - 'XIII'

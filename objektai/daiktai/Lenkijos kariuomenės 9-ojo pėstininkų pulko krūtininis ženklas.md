@@ -11,7 +11,9 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
   - daiktas
+  - karo-reikmuo
 amziai:
   - 'XX'
 media_total_count: '0'

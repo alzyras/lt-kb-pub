@@ -9,6 +9,9 @@ date_start: '1818'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

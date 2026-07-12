@@ -17,6 +17,7 @@ tags:
   - asmuo
   - valdovas
   - vyskupas
+  - karalius
 amziai:
   - 'XV'
 periodo_grupes:

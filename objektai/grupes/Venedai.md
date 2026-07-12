@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - miestas
   - tauta
+  - gentis
 amziai:
   - 'III'
   - 'XIV'

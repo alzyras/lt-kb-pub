@@ -13,8 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - vyskupas
+  - karalius
 amziai:
   - 'XIII'
 periodo_grupes:

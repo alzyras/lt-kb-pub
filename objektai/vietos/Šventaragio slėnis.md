@@ -15,8 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - valdovas
   - vieta
+  - gyvenvietė
 amziai:
   - 'XV'
   - 'XXI'

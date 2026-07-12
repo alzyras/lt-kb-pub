@@ -13,7 +13,6 @@ tags:
   - bajorija
   - grupe
   - institucija
-  - karalius
 amziai:
   - 'XVI'
 media_total_count: '0'

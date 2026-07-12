@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - ivykis
-  - miestas
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

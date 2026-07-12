@@ -14,6 +14,7 @@ atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - karinis-terminas
+  - sąvoka
 amziai:
   - 'XVII'
 media_total_count: '0'

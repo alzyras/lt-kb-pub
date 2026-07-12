@@ -12,8 +12,8 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

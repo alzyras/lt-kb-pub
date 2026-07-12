@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - religinis-terminas
   - sąvoka
-  - valstybė
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

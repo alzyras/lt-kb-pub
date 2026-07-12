@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - paminklas
 amziai:
   - 'XVI'
   - 'XVIII'

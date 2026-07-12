@@ -11,6 +11,8 @@ date_end: '1994'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-įvykis
+  - reforma
   - ivykis
 amziai:
   - 'XX'

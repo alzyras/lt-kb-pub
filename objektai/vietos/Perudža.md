@@ -11,10 +11,8 @@ date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - popiežius
+  - miestas
   - vieta
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

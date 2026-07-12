@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
   - sutartis
+  - unija
 amziai:
   - 'XII'
   - 'XIV'

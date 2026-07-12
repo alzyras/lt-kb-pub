@@ -23,9 +23,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - reforma
-  - sukilimas
   - valstybė
+  - vieta
+  - miestelis
 amziai:
   - 'XVIII'
   - 'XX'

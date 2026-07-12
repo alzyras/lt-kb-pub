@@ -11,10 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - karas
-  - tikėjimas
-  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:

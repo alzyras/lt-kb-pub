@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
-  - tauta
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

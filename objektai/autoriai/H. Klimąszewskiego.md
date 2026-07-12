@@ -10,6 +10,8 @@ date_start: '1830'
 date_end: '1831'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

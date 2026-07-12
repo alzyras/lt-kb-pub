@@ -13,10 +13,9 @@ date_end: '1829'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - ordinas
+  - pareigybė
   - sąvoka
-  - šventė
+  - karinis-terminas
 amziai:
   - 'XIV'
   - 'XIX'

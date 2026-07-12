@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - dinastija
-  - ordinas
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

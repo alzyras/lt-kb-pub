@@ -9,6 +9,9 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

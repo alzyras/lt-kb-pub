@@ -12,10 +12,9 @@ date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - miestas
-  - reforma
   - valstybė
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

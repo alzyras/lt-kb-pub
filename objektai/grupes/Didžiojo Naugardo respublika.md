@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - politinė-grupė
 amziai:
   - 'XIV'
   - 'XV'

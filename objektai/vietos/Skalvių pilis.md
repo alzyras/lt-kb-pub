@@ -11,10 +11,8 @@ date_end: '1293'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
   - pilis
-  - tikėjimas
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

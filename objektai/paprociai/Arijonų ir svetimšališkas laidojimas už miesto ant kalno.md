@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - paprotys
   - socialinė-praktika
 media_total_count: '0'

@@ -12,10 +12,9 @@ date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - kraštas
-  - kunigaikštis
   - miestas
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

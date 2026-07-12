@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
-  - miestas
+  - žygis
 amziai:
   - 'XVI'
 media_total_count: '0'

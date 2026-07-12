@@ -26,6 +26,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - dokumentas
   - saltinis
 ---
 # Kvieslys (Kutsu)

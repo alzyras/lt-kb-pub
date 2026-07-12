@@ -11,6 +11,8 @@ date_start: '1804'
 date_end: '1877'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

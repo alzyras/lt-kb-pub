@@ -9,6 +9,9 @@ date_start: '1519'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ritualas
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

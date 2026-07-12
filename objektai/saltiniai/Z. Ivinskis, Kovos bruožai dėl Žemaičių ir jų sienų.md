@@ -13,7 +13,6 @@ date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - saltinis
 amziai:
   - 'XIV'

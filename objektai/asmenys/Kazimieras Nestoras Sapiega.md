@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - seimas
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XVIII'
 periodo_grupes:

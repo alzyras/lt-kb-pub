@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - mokslininkas
-  - tauta
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

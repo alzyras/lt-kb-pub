@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - tauta
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XX'
   - 'XXI'

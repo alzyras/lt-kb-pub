@@ -11,10 +11,8 @@ date_end: '1657'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
   - pilis
-  - sukilimas
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

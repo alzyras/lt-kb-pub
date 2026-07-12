@@ -12,10 +12,8 @@ date_end: '1280'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - valdovas
+  - vieta
+  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

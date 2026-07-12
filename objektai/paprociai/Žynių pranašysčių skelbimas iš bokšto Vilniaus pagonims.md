@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
+  - religinė-praktika
   - paprotys
-  - pilis
-  - upė
 amziai:
   - 'XIX'
 media_total_count: '0'

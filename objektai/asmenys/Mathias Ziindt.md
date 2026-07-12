@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - seimas
 amziai:
   - 'XVI'
 periodo_grupes:

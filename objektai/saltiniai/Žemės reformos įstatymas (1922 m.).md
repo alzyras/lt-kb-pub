@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
   - saltinis
-  - seimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

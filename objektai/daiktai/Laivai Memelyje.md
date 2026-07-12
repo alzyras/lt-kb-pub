@@ -11,10 +11,9 @@ date_end: '1325'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
+  - karo-reikmuo
   - daiktas
-  - karalius
-  - miestas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

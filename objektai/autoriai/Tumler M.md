@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
 amziai:
   - 'XIII'
 periodo_grupes:

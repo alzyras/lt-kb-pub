@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
 amziai:
   - 'XV'
   - 'XX'

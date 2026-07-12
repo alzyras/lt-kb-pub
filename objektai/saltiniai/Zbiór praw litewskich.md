@@ -12,6 +12,7 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
 amziai:
   - 'XIX'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
 amziai:
   - 'XIII'
 periodo_grupes:

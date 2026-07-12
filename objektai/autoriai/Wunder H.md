@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

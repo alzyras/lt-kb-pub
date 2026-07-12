@@ -11,10 +11,8 @@ date_end: '1958'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
   - vieta
-  - vyskupas
+  - kraštas
 amziai:
   - 'XII'
   - 'XX'

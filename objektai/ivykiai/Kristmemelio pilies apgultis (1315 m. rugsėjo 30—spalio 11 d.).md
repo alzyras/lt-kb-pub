@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
   - ivykis
-  - karalius
-  - pilis
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

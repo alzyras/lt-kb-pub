@@ -20,8 +20,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - upė
-  - šventė
+  - kariuomenė
 amziai:
   - 'XIII'
   - 'XXI'

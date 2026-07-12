@@ -11,6 +11,9 @@ date_start: '1440'
 date_end: '1831'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - konfliktas
+  - ivykis
 amziai:
   - 'XV'
   - 'XIX'

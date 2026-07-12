@@ -13,9 +13,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
   - upė
   - vieta
+  - sostinė
 amziai:
   - 'XX'
   - 'XXI'

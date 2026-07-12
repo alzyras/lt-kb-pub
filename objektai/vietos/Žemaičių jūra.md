@@ -9,6 +9,10 @@ date_start: '1561'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - jūra
+  - kraštas
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

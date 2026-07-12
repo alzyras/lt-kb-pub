@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - valstybė
-  - šeima
 amziai:
   - 'XV'
 periodo_grupes:

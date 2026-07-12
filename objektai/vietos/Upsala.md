@@ -11,6 +11,7 @@ date_end: '1150'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XII'

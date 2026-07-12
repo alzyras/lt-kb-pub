@@ -11,8 +11,9 @@ date_end: '1303'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ordinas
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

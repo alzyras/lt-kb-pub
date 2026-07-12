@@ -15,7 +15,6 @@ tags:
   - asmuo
   - karalius
   - popiežius
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

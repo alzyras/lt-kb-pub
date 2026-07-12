@@ -15,8 +15,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - tauta
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

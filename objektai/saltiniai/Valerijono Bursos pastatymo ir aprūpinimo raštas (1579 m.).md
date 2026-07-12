@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - karalius
-  - miestas
   - saltinis
 amziai:
   - 'XVI'

@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
   - vyskupas
+  - karalienė
 amziai:
   - 'XVI'
 periodo_grupes:

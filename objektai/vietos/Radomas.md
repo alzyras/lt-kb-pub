@@ -16,9 +16,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dokumentas
   - vieta
+  - miestas
 amziai:
   - 'XV'
   - 'XXI'

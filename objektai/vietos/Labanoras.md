@@ -13,10 +13,10 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - miestas
   - pilis
   - vieta
+  - kaimas
 amziai:
   - 'XIV'
   - 'XXI'

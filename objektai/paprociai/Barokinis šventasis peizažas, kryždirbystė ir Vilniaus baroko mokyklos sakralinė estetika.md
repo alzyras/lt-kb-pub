@@ -11,8 +11,6 @@ date_end: '1787'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - drabužis
-  - kraštas
   - paprotys
   - šventė
 amziai:

@@ -11,10 +11,9 @@ date_end: '1306'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - kraštas
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
   - 'XIV'

@@ -11,10 +11,10 @@ date_end: '1416'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - krikštas
   - ivykis
-  - kunigas
   - mūšis
-  - tauta
+  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

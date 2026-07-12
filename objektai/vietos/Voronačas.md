@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

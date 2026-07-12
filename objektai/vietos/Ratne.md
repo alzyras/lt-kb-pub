@@ -11,8 +11,8 @@ date_end: '1399'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tikėjimas
   - vieta
+  - miestelis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,9 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

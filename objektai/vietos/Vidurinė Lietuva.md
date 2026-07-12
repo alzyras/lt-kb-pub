@@ -11,8 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - lietuva
   - vieta
+  - žemė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,7 +11,6 @@ date_end: '1526'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - ivykis
   - mūšis
 amziai:

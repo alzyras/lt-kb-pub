@@ -13,8 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
+  - popiežius
 amziai:
   - 'XIV'
 periodo_grupes:

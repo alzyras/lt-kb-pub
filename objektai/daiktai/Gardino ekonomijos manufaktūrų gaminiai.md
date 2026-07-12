@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - reforma
   - transportas
 amziai:
   - 'XVIII'

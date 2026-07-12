@@ -12,10 +12,8 @@ date_end: '1270'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - pilis
-  - sukilimas
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

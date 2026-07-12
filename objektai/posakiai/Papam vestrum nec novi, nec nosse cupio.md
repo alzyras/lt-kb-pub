@@ -9,6 +9,9 @@ date_start: '1324'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XIV'
 media_total_count: '0'

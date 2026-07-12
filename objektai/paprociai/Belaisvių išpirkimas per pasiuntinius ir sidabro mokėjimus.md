@@ -11,10 +11,7 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
   - paprotys
-  - valdovas
 amziai:
   - 'X'
   - 'XV'

@@ -6,9 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - miestas
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

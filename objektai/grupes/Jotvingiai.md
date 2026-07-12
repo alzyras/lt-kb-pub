@@ -23,7 +23,6 @@ tags:
   - grupe
   - ordinas
   - tauta
-  - valstybė
 amziai:
   - 'XIII'
   - 'XXI'

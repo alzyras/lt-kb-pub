@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - karalius
 amziai:
   - 'XV'
 periodo_grupes:

@@ -10,6 +10,9 @@ date_start: '1568'
 date_end: '1644'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XVI'
   - 'XVII'

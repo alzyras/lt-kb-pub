@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
   - popiežius
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:

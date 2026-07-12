@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - kunigas
-  - miestas
 amziai:
   - 'XX'
 periodo_grupes:

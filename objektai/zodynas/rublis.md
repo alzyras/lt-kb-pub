@@ -11,8 +11,7 @@ date_end: '1390'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - pinigai
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XIV'

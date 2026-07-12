@@ -15,7 +15,6 @@ atnaujinta: ''
 tags:
   - valstybė
   - vieta
-  - įrankis
 amziai:
   - 'XX'
   - 'XXI'

@@ -9,6 +9,9 @@ date_start: '1505'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

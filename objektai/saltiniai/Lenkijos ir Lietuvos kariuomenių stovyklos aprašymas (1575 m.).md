@@ -12,6 +12,9 @@ date_start: '1564'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XVI'
   - 'XXI'

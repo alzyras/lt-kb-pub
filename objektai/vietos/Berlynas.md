@@ -20,6 +20,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - miestas
 amziai:
   - 'XIV'
   - 'XXI'

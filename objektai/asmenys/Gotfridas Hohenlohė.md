@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - ordinas
-  - pilis
+  - karalius
 amziai:
   - 'XIII'
   - 'XIV'

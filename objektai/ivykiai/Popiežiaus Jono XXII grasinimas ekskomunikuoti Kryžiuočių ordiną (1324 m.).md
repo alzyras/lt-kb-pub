@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 media_total_count: '0'

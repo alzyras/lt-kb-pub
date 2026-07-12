@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
-  - tikėjimas
-  - šeima
+  - mūšis
 amziai:
   - 'XIV'
 media_total_count: '0'

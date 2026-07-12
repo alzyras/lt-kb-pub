@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
 amziai:
   - 'XXI'
 periodo_grupes:

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - reforma
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

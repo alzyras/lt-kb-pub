@@ -13,8 +13,6 @@ date_end: '1322'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
   - pilis
   - vieta
 amziai:

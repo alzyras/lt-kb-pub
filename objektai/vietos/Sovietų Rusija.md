@@ -13,8 +13,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - sutartis
   - valstybė
   - vieta
 amziai:

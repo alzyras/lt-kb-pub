@@ -11,7 +11,6 @@ date_end: '1416'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - posakis
 amziai:
   - 'XV'

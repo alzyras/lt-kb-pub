@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - sukilėlis
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

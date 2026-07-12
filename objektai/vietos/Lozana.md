@@ -12,8 +12,8 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
   - vieta
+  - miestas
 amziai:
   - 'XX'
 media_total_count: '0'

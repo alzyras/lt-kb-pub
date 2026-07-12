@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinė-grupė
   - grupe
+  - organizacija
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,10 +12,9 @@ date_end: '1513'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
   - miestas
   - pilis
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

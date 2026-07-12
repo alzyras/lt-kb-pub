@@ -14,8 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - pilis
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

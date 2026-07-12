@@ -12,10 +12,8 @@ date_end: '1468'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kraštas
-  - miestas
-  - ordinas
+  - paprotys
+  - politinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

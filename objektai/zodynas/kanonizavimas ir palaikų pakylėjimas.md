@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-terminas
   - sąvoka
-  - vyskupas
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

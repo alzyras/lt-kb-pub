@@ -9,6 +9,10 @@ date_start: '1466'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
+  - karas
 amziai:
   - 'XV'
 media_total_count: '0'

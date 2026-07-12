@@ -11,6 +11,7 @@ date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - regionas
   - vieta
 amziai:
   - 'XX'

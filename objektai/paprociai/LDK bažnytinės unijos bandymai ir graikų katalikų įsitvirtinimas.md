@@ -11,9 +11,8 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-praktika
   - paprotys
-  - unija
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'

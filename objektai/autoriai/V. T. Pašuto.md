@@ -11,8 +11,8 @@ date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:

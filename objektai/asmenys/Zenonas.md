@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - popiežius
 amziai:
   - 'XV'

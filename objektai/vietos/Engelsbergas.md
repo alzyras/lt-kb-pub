@@ -12,10 +12,8 @@ date_end: '1339'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - pilis
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'

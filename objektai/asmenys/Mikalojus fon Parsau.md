@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - kunigas
-  - ordinas
+  - popiežius
 amziai:
   - 'XIV'
 periodo_grupes:

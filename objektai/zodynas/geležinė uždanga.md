@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - popiežius
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

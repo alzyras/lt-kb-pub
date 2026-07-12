@@ -9,6 +9,8 @@ date_start: '1649'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XVII'
 media_total_count: '0'

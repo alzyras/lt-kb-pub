@@ -13,7 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
+  - bajoras
+  - istorikas
 amziai:
   - 'XIX'
 periodo_grupes:

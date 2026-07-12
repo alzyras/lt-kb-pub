@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
   - sukilimas
-  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'

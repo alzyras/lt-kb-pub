@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - valstybė
-  - šeima
+  - politinis-sprendimas
 amziai:
   - 'XVIII'
   - 'XIX'

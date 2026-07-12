@@ -12,7 +12,7 @@ tags:
   - asmuo
   - didikas
   - karalius
-  - kraštas
+  - mokslininkas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

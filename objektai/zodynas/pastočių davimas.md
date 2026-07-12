@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - miestas
-  - sutartis
+  - teisinis-terminas
+  - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

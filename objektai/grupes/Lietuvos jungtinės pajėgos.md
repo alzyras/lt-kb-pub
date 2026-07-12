@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
   - ordinas
 media_total_count: '0'

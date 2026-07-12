@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karalius
-  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'

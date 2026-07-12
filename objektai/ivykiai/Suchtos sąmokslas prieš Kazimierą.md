@@ -10,6 +10,9 @@ date_start: '1444'
 date_end: '1453'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - konfliktas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - tauta
-  - valstybė
+  - sutartis
 amziai:
   - 'XX'
 media_total_count: '0'

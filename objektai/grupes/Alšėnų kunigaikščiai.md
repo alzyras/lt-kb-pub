@@ -14,8 +14,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - kunigaikštis
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

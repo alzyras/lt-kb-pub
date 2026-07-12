@@ -5,6 +5,10 @@ saltiniai:
   - 'Lietuvos metraštis, Bychovco kronika (1971 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - tikėjimas
+  - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -9,6 +9,10 @@ variantai:
   - 'valdymierai'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-terminas
+  - archajiškas-žodis
+  - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

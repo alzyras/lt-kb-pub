@@ -10,6 +10,9 @@ date_start: '1265'
 date_end: '1414'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XIII'
   - 'XV'

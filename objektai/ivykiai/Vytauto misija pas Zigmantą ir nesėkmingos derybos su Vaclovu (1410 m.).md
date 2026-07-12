@@ -9,6 +9,10 @@ date_start: '1410'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - diplomatinis-įvykis
+  - sutartis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - mokslininkas
-  - tauta
+  - kalbininkas
 amziai:
   - 'XIX'
   - 'XX'

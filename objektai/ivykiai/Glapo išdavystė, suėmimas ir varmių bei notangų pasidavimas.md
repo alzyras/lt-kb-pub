@@ -17,9 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - pilis
-  - tikėjimas
+  - konfliktas
 amziai:
   - 'XIII'
   - 'XV'

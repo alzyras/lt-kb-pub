@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - miestas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1823'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

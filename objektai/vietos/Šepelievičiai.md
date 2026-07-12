@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - kaimas
   - vieta
 amziai:
   - 'XVII'

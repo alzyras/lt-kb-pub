@@ -16,9 +16,8 @@ date_end: '1458'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - pilis
   - sąvoka
+  - pareigybė
 amziai:
   - 'XIV'
   - 'XV'

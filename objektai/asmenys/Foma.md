@@ -6,9 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
   - kunigaikštis
-  - tikėjimas
   - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''

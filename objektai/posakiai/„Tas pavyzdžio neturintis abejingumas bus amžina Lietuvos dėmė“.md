@@ -10,6 +10,9 @@ variantai:
   - 'Tas pavyzdžio neturintis abejingumas bus amžina Lietuvos dėmė'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - citata
+  - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

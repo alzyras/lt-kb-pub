@@ -11,10 +11,9 @@ date_end: '1327'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - asmuo
-  - dokumentas
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

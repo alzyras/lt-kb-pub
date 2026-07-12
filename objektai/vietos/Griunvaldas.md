@@ -18,8 +18,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
   - vieta
 amziai:
   - 'XIV'

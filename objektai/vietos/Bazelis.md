@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - unija
   - vieta
 amziai:
   - 'XV'

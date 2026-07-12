@@ -21,10 +21,9 @@ date_end: '1899'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
   - miestas
   - valstybė
+  - vieta
 amziai:
   - 'XIV'
   - 'XIX'

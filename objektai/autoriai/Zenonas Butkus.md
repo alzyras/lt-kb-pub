@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - redaktorius
   - autorius
-  - žemėlapis
 amziai:
   - 'XX'
 periodo_grupes:

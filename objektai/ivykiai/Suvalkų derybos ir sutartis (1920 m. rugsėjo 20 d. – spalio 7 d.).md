@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
   - karas
   - sutartis

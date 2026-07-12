@@ -12,10 +12,7 @@ date_end: '1807'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - kunigaikštis
-  - miestas
+  - saltinis
 amziai:
   - 'XVI'
   - 'XIX'

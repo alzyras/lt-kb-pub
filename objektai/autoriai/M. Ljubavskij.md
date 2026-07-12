@@ -11,8 +11,8 @@ date_end: '1921'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - unija
 amziai:
   - 'XIX'
   - 'XX'

@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - ežeras
-  - miestas
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

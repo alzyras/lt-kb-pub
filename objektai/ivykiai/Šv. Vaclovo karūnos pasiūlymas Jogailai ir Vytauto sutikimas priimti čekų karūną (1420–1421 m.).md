@@ -12,8 +12,10 @@ date_end: '1423'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karūnacija
   - ivykis
-  - karalius
+  - diplomatinis-įvykis
+  - politinis-sprendimas
 amziai:
   - 'XV'
 media_total_count: '0'

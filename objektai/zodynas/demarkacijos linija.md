@@ -12,10 +12,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
   - sąvoka
-  - tauta
+  - politinis-terminas
+  - teisinis-terminas
 amziai:
   - 'XX'
   - 'XXI'

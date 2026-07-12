@@ -12,6 +12,8 @@ date_start: '1500'
 date_end: '1699'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XV'
   - 'XVII'

@@ -15,8 +15,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - kraštas
-  - miestas
 amziai:
   - 'XIV'
   - 'XXI'

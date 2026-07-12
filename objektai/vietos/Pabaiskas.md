@@ -16,6 +16,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - kaimas
+  - upė
+  - žemė
 amziai:
   - 'XIV'
   - 'XXI'

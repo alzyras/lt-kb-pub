@@ -11,6 +11,9 @@ date_start: '1315'
 date_end: '1330'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ["politinis-sprendimas"]
+  - socialinis-įvykis
+  - ivykis
+  - politinis-sprendimas
 amziai:
   - 'XX'
 media_total_count: '0'

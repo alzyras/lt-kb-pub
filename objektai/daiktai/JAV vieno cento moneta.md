@@ -12,6 +12,7 @@ date_end: '1924'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - moneta
   - daiktas
 amziai:
   - 'XIX'

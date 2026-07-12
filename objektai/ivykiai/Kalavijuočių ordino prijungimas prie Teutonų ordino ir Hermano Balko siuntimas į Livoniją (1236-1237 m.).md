@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - mūšis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

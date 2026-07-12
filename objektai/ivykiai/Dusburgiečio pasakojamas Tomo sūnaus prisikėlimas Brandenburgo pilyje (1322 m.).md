@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - kraštas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

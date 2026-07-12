@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
-  - miestas
-  - pilis
+  - socialinė-grupė
 amziai:
   - 'XIII'
 media_total_count: '0'

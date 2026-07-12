@@ -15,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - sukilimas
 amziai:
   - 'XIV'
   - 'XX'

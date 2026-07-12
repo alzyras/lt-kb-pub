@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kunigas
 amziai:
   - 'XX'
 periodo_grupes:

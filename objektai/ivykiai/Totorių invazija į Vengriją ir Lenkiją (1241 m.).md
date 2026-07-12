@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - invazija
   - ivykis
-  - karalius
-  - kunigaikštis
   - mūšis
 amziai:
   - 'XIII'

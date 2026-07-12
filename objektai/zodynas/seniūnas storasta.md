@@ -11,10 +11,8 @@ date_end: '1411'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - pareigybė
+  - sąvoka
 amziai:
   - 'XIV'
   - 'XV'

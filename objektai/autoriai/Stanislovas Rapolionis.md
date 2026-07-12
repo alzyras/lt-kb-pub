@@ -10,6 +10,9 @@ date_start: '1525'
 date_end: '1547'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

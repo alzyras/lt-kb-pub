@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - citata
   - posakis
-  - seimas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

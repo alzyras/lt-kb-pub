@@ -10,6 +10,10 @@ date_start: '1101'
 date_end: '1127'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - karvedys
+  - asmuo
 amziai:
   - 'XII'
 periodo_grupes:

@@ -11,10 +11,8 @@ date_end: '1240'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - invazija
   - ivykis
-  - kunigaikštis
-  - valdovas
-  - šeima
 amziai:
   - 'XIII'
 media_total_count: '0'

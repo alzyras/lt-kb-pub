@@ -11,10 +11,9 @@ date_end: '1417'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - paprotys
-  - tauta
   - tikėjimas
+  - šventė
 amziai:
   - 'XIV'
   - 'XV'

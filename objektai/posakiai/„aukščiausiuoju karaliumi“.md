@@ -15,10 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
+  - citata
   - posakis
-  - valstybė
 amziai:
   - 'XIII'
   - 'XXI'

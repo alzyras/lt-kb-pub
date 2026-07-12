@@ -10,6 +10,8 @@ date_start: '1242'
 date_end: '1253'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIII'
 media_total_count: '0'

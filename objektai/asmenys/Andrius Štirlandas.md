@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
-  - krikštas
+  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:

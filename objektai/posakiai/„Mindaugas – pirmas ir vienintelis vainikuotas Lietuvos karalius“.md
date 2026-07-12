@@ -15,10 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - ordinas
   - posakis
+  - frazė
 amziai:
   - 'XIII'
   - 'XXI'

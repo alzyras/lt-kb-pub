@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - paprotys
-  - seimas
   - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''

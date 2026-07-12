@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - gyvenvietė
   - vieta
 amziai:
   - 'XIV'

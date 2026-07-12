@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -15,9 +15,8 @@ date_end: '1565'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gentis
   - grupe
-  - kraštas
-  - miestas
   - tauta
 amziai:
   - 'XIV'

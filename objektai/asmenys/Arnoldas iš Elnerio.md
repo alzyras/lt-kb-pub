@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
+  - karys
 amziai:
   - 'XIV'
 periodo_grupes:

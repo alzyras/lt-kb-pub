@@ -9,6 +9,9 @@ date_start: '1920'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kasdienybė
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

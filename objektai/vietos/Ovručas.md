@@ -13,6 +13,7 @@ date_end: '1394'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pilis
   - vieta
 amziai:
   - 'XIV'

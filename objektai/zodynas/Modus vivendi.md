@@ -14,7 +14,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - politinis-terminas
   - sąvoka
 amziai:
   - 'XX'

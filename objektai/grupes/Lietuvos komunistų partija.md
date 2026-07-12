@@ -19,10 +19,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
   - grupe
   - institucija
-  - seimas
+  - kariuomenė
 amziai:
   - 'XX'
   - 'XXI'

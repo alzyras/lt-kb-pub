@@ -11,10 +11,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - mokslininkas
   - saltinis
-  - upė
 amziai:
   - 'XIX'
 media_total_count: '0'

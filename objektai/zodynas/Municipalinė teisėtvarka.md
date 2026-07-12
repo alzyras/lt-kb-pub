@@ -10,6 +10,9 @@ date_start: '1020'
 date_end: '1257'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinis-terminas
+  - sąvoka
 amziai:
   - 'XI'
   - 'XIII'

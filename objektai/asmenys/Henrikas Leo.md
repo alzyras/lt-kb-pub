@@ -10,6 +10,9 @@ date_start: '1725'
 date_end: '1845'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XVIII'
   - 'XIX'

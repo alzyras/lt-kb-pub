@@ -9,6 +9,9 @@ date_start: '1550'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

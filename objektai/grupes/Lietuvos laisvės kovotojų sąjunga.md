@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
+  - organizacija
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -16,7 +16,6 @@ tags:
   - asmuo
   - karalius
   - popiežius
-  - valstybė
 amziai:
   - 'XV'
 periodo_grupes:

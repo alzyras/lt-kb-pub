@@ -11,8 +11,8 @@ date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ordinas
 amziai:
   - 'XV'
 periodo_grupes:

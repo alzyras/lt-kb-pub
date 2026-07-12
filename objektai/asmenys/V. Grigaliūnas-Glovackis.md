@@ -11,9 +11,8 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - institucija
-  - kraštas
 amziai:
   - 'XIX'
   - 'XX'

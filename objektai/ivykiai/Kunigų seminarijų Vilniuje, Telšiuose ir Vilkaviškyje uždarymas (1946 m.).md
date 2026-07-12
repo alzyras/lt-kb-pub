@@ -11,8 +11,8 @@ date_end: '1962'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - kunigas
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -10,6 +10,10 @@ date_start: '1205'
 date_end: '1210'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-terminas
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

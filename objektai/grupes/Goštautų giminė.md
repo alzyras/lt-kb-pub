@@ -12,6 +12,9 @@ date_start: '1377'
 date_end: '1458'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - giminė
+  - grupe
 amziai:
   - 'XIV'
   - 'XV'

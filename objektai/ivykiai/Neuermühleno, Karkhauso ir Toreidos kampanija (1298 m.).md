@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - ordinas
-  - pilis
-  - upė
+  - žygis
 amziai:
   - 'XIII'
 media_total_count: '0'

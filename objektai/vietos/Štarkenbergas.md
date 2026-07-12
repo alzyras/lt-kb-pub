@@ -11,7 +11,6 @@ date_end: '1326'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
   - upė
   - vieta

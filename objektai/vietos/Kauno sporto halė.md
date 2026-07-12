@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
+  - valstybė
   - vieta
 amziai:
   - 'XX'

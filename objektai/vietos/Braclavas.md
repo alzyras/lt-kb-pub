@@ -13,10 +13,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - unija
   - valstybė
   - vieta
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

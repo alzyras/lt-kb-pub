@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - saltinis
-  - tauta
+  - dokumentas
 amziai:
   - 'XV'
 media_total_count: '0'

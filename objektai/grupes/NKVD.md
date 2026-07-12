@@ -13,6 +13,9 @@ date_start: '1500'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kariuomenė
+  - grupe
 amziai:
   - 'XV'
   - 'XXI'

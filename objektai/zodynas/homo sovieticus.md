@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - sąvoka
-  - tauta
-  - teisinė-praktika
+  - istorinė-sąvoka
+  - socialinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

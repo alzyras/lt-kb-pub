@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - karalius
-  - reforma
 amziai:
   - 'XVI'
 media_total_count: '0'

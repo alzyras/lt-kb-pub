@@ -14,8 +14,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - bajorija
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

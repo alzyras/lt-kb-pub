@@ -11,10 +11,8 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
+  - teisinė-praktika
   - paprotys
-  - valdovas
 amziai:
   - 'XII'
   - 'XIV'

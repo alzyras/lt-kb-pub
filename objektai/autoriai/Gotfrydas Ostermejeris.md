@@ -10,6 +10,9 @@ date_start: '1716'
 date_end: '1800'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - mokslininkas
 amziai:
   - 'XVIII'
 periodo_grupes:

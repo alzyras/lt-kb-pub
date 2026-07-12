@@ -12,9 +12,9 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - ordinas
+  - religinė-praktika
   - paprotys
+  - teisinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,6 +11,7 @@ date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

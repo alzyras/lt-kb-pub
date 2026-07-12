@@ -10,6 +10,9 @@ date_start: '1826'
 date_end: '1832'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kaimas
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

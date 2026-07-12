@@ -12,9 +12,8 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
   - vieta
-  - šeima
+  - miestas
 amziai:
   - 'XVIII'
   - 'XX'

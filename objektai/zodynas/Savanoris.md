@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - miestas
   - sąvoka
-  - tauta
+  - karinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

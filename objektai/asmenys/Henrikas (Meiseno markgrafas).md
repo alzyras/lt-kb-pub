@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - pilis
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:

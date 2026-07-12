@@ -10,6 +10,9 @@ date_start: '1351'
 date_end: '1355'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

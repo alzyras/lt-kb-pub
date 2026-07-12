@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - paliaubos
   - vieta
+  - miestelis
 amziai:
   - 'XX'
 media_total_count: '0'

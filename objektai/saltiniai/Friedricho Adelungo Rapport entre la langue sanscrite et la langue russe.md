@@ -9,6 +9,8 @@ date_start: '1811'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIX'
 media_total_count: '0'

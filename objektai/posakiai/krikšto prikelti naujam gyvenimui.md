@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
+  - frazė
   - posakis
-  - tikėjimas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - krikštas
 amziai:
   - 'XX'
 periodo_grupes:

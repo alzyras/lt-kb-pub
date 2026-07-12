@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
-  - kraštas
-  - kunigaikštis
+  - vedybos
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

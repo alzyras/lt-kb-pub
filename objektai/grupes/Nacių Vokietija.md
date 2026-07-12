@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - tauta
-  - valstybė
+  - organizacija
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -17,9 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - krikštas
-  - šventė
 amziai:
   - 'XI'
 media_total_count: '0'

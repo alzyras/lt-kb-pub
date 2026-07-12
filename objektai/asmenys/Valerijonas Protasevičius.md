@@ -12,6 +12,8 @@ atnaujinta: ''
 tags:
   - dvasininkas
   - vyskupas
+  - karalius
+  - asmuo
 amziai:
   - 'V'
 periodo_grupes: []

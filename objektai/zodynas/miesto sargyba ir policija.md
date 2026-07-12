@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
-  - pilis
+  - sąvoka
+  - karinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - vieta
+  - regionas
 amziai:
   - 'XVIII'
 media_total_count: '0'

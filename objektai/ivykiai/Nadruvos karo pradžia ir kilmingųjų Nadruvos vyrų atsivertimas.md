@@ -13,7 +13,6 @@ tags:
   - ivykis
   - karas
   - krikštas
-  - tikėjimas
 amziai:
   - 'XIII'
 media_total_count: '0'

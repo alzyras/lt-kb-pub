@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
+  - didikas
   - asmuo
 amziai:
   - 'XIV'

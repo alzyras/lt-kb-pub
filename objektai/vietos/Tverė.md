@@ -23,10 +23,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
-  - popiežius
   - vieta
+  - miestas
 amziai:
   - 'XIV'
   - 'XXI'

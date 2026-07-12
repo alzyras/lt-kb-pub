@@ -14,8 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
   - pinigai
+  - moneta
 amziai:
   - 'XVI'
 media_total_count: '0'

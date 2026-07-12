@@ -9,6 +9,9 @@ date_start: '1380'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XIV'
 media_total_count: '0'

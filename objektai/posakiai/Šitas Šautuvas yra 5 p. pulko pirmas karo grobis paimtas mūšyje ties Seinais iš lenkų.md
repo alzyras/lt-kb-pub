@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
+  - frazė
   - posakis
 amziai:
   - 'XX'

@@ -6,6 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kaimas
+  - miestelis
   - miestas
   - vieta
 media_total_count: '0'

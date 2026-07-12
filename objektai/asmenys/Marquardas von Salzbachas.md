@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - kasdienybė
   - ūkis
+  - paprotys
 amziai:
   - 'XVI'
   - 'XXI'

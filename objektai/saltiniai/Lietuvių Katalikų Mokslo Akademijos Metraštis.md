@@ -11,7 +11,6 @@ date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
 amziai:
   - 'XX'

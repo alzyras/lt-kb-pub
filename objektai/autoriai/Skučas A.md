@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
+  - rašytojas
 amziai:
   - 'XXI'
 periodo_grupes:

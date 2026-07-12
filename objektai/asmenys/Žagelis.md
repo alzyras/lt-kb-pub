@@ -9,6 +9,8 @@ date_start: '1840'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

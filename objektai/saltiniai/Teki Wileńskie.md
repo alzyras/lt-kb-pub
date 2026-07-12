@@ -11,10 +11,7 @@ date_end: '1858'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - mokslininkas
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

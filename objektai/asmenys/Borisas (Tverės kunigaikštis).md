@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - karalius
   - kunigaikštis
+  - popiežius
 amziai:
   - 'XV'
 periodo_grupes:

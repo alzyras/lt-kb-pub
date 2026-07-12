@@ -11,9 +11,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-terminas
   - sąvoka
-  - valdovas
-  - valstybė
+  - istorinė-sąvoka
 amziai:
   - 'XI'
   - 'XXI'

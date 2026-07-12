@@ -10,6 +10,9 @@ date_start: '1495'
 date_end: '1501'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - patarlė
+  - posakis
 amziai:
   - 'XV'
   - 'XVI'

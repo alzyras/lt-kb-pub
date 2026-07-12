@@ -12,10 +12,8 @@ date_end: '1323'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
   - ivykis
-  - miestas
-  - ordinas
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

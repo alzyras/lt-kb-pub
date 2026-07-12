@@ -19,10 +19,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mokslininkas
-  - valdovas
   - vieta
+  - sostinė
 amziai:
   - 'XV'
   - 'XXI'

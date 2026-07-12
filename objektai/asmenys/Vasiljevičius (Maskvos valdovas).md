@@ -10,6 +10,9 @@ date_start: '1486'
 date_end: '1487'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

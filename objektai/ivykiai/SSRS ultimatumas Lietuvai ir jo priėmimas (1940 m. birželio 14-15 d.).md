@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - karas
-  - miestas
 amziai:
   - 'XX'
 media_total_count: '0'

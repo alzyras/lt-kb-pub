@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
   - saltinis
-  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'

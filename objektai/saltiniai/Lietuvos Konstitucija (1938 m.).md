@@ -13,10 +13,7 @@ date_end: '1990'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - saltinis
-  - sutartis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

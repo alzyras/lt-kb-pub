@@ -11,7 +11,7 @@ date_end: '800'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
+  - kraštas
   - vieta
 amziai:
   - 'IV'

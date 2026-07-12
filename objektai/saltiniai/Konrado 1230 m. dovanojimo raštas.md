@@ -13,8 +13,6 @@ date_end: '1861'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - popiežius
   - saltinis
 amziai:
   - 'XIII'

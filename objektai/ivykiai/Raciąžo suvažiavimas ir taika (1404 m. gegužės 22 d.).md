@@ -11,9 +11,8 @@ date_end: '1404'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

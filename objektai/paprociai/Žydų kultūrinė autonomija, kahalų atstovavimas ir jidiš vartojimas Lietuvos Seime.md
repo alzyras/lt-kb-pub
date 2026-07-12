@@ -12,10 +12,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - miestas
   - paprotys
-  - tauta
+  - politinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

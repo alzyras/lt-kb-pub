@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - tauta
   - vieta
 amziai:
   - 'XIX'

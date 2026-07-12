@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

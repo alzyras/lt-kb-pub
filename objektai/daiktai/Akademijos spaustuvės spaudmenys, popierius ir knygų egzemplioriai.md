@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - daiktas
-  - karalius
 amziai:
   - 'XX'
 media_total_count: '0'

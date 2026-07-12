@@ -11,8 +11,6 @@ date_end: '1294'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - ordinas
   - pilis
   - vieta
 amziai:

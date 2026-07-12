@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
   - mūšis
 media_total_count: '0'

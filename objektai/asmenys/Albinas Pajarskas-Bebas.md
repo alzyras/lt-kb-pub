@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - ginklas
 amziai:
   - 'XX'
 periodo_grupes:

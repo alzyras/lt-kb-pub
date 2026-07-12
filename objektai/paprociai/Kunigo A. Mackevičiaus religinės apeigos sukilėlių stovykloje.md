@@ -13,6 +13,10 @@ date_start: '1801'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - ritualas
+  - paprotys
 amziai:
   - 'XIX'
   - 'XXI'

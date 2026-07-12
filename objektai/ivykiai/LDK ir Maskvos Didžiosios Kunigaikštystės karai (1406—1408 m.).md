@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karas
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
   - 'XV'

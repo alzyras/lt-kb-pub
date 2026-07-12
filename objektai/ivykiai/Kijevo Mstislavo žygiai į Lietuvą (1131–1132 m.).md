@@ -16,7 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
+  - žygis
 amziai:
   - 'XII'
   - 'XIII'

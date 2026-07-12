@@ -11,10 +11,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalienė
+  - valdovas
   - asmuo
   - karalius
-  - miestas
-  - pilis
 amziai:
   - 'XV'
 periodo_grupes:

@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - krikštas
   - kunigas
-  - tauta
 amziai:
   - 'XIX'
 periodo_grupes:

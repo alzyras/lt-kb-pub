@@ -14,10 +14,8 @@ date_end: '1327'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
-  - ordinas
   - vieta
+  - pilis
 amziai:
   - 'XIII'
   - 'XIV'

@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
-  - seimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

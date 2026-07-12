@@ -9,6 +9,9 @@ date_start: '1530'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-terminas
+  - sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

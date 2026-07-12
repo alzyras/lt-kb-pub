@@ -11,6 +11,9 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIV'
   - 'XXI'

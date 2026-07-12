@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - paprotys
   - šeima
 media_total_count: '0'

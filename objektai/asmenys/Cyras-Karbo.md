@@ -9,6 +9,8 @@ date_start: '1190'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XII'
 periodo_grupes:

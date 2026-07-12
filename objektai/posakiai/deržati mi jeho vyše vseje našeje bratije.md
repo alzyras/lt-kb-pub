@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - dokumentas
-  - kraštas
+  - formulė
   - posakis
 media_total_count: '0'
 media_primary_thumb_url: ''

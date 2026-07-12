@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
-  - upė
+  - mokslininkas
 amziai:
   - 'XIII'
 periodo_grupes:

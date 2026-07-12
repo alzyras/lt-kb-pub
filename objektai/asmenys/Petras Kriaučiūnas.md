@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - kalbininkas
 amziai:
   - 'XX'
 periodo_grupes:

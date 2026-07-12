@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - istorinė-sąvoka
   - teisinis-terminas
+  - sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

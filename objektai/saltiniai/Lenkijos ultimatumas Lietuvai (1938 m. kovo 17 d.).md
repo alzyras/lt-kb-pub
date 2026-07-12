@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karas
-  - miestas
   - saltinis
 amziai:
   - 'XX'

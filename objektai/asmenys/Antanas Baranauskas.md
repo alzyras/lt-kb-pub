@@ -18,7 +18,7 @@ tags:
   - asmuo
   - kunigas
   - mokslininkas
-  - tauta
+  - vyskupas
 amziai:
   - 'XIX'
   - 'XX'

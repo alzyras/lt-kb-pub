@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - karalius
-  - seimas
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -11,6 +11,7 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai:
   - 'XX'

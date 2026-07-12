@@ -9,6 +9,9 @@ date_start: '1763'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - istorikas
 amziai:
   - 'XVIII'
 periodo_grupes:

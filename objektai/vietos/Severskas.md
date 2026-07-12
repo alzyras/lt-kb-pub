@@ -11,10 +11,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - valstybė
   - miestas
   - pilis
-  - valdovas
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,9 +11,8 @@ date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - religinis-terminas
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'

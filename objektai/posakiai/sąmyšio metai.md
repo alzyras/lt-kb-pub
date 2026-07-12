@@ -12,10 +12,8 @@ date_end: '1613'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dinastija
   - posakis
-  - tauta
-  - šeima
+  - frazė
 amziai:
   - 'XVI'
   - 'XVII'

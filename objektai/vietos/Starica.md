@@ -8,7 +8,6 @@ atnaujinta: ''
 tags:
   - miestas
   - upė
-  - valdovas
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

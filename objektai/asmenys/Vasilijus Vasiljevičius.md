@@ -11,10 +11,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
   - karalius
   - kunigaikštis
-  - pilis
 amziai:
   - 'XV'
 periodo_grupes:

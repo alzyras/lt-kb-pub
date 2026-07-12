@@ -11,9 +11,8 @@ date_end: '1542'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - bajorija
-  - teisinė-praktika
 amziai:
   - 'XVI'
 periodo_grupes:

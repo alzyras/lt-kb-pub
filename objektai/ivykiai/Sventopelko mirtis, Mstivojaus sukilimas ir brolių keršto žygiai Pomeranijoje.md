@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
   - sukilimas
-  - upė
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - sutartis
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

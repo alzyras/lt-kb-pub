@@ -10,9 +10,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - miestas
   - vyskupas
+  - kunigas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

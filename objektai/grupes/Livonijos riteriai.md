@@ -10,6 +10,9 @@ date_start: '1243'
 date_end: '1316'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ordinas
+  - grupe
 amziai:
   - 'XIII'
   - 'XIV'

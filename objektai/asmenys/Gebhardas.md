@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - ginklas
-  - mūšis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

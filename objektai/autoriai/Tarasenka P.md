@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - žemėlapis
 amziai:
   - 'XX'
 periodo_grupes:

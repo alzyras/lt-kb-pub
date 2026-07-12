@@ -13,7 +13,7 @@ date_end: '1923'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sukilimas
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

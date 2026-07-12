@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - mokslininkas
   - reforma
 amziai:
   - 'XX'

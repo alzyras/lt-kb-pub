@@ -10,6 +10,9 @@ date_start: '1707'
 date_end: '1788'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

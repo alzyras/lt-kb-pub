@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - tauta
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

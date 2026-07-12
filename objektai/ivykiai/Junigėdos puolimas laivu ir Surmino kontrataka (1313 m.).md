@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
 amziai:
   - 'XIV'

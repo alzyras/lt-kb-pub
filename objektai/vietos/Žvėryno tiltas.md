@@ -11,8 +11,6 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - institucija
   - vieta
 amziai:
   - 'XX'

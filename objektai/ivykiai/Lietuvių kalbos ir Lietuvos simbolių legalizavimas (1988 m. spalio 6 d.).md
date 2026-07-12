@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - politinis-sprendimas
   - ivykis
-  - tauta
-  - valstybė
+  - kultūrinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - kaimas
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - vyskupas
 amziai:
   - 'XVIII'
 media_total_count: '0'

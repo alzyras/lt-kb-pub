@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - miestas
-  - pilis
   - saltinis
 amziai:
   - 'XIV'

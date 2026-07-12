@@ -11,8 +11,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - švietimas
   - paprotys
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

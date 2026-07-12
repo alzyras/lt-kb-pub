@@ -13,6 +13,9 @@ date_start: '1270'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XIII'
   - 'XXI'

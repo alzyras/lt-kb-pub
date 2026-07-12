@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - pilis
 amziai:
   - 'XV'
 media_total_count: '0'

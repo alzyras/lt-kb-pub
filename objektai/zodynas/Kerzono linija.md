@@ -13,10 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - institucija
-  - kraštas
-  - paliaubos
+  - politinis-terminas
+  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - regionas
 amziai:
   - 'XIII'
 media_total_count: '0'

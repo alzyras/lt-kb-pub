@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
   - tauta
 amziai:
   - 'XX'

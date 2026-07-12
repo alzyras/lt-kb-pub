@@ -21,8 +21,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
   - vieta
+  - pilis
 amziai:
   - 'XII'
   - 'XXI'

@@ -15,8 +15,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - reforma
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XXI'

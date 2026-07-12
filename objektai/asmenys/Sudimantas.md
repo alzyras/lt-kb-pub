@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - pilis
   - popiežius
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

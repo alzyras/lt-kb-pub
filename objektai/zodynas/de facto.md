@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - teisinė-praktika
-  - valstybė
+  - teisinis-terminas
+  - politinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

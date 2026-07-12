@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - mokslininkas
-  - seimas
 amziai:
   - 'XX'
 periodo_grupes:

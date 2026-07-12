@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - mokslininkas
+  - pareigybė
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

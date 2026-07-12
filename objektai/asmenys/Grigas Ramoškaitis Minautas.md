@@ -9,6 +9,8 @@ date_start: '1485'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

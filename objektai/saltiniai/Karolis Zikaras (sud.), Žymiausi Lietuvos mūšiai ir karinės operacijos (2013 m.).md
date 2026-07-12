@@ -9,6 +9,8 @@ date_start: '2013'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XXI'
 media_total_count: '0'

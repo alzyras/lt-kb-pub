@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - miestas
   - seimas
 amziai:
   - 'XX'

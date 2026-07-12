@@ -9,6 +9,9 @@ date_start: '253'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - ivykis
 amziai:
   - 'III'
 media_total_count: '0'

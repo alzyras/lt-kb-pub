@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - popiežius
-  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
-  - pilis
+  - karas
 amziai:
   - 'XIII'
 media_total_count: '0'

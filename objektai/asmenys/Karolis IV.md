@@ -14,7 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
   - popiežius
 amziai:
   - 'XIV'

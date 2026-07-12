@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
   - paprotys
-  - pilis
 amziai:
   - 'XV'
 media_total_count: '0'

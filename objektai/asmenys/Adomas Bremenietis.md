@@ -10,6 +10,10 @@ date_start: '1009'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - metraštininkas
+  - istorikas
+  - asmuo
 amziai:
   - 'XI'
 periodo_grupes:

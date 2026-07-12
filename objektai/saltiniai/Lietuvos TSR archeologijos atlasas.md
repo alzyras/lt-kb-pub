@@ -11,8 +11,8 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemėlapis
   - saltinis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

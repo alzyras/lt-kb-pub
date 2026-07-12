@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - reforma
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

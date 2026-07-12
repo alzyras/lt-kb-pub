@@ -13,10 +13,7 @@ date_end: '1902'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - redaktorius
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

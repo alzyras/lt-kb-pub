@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sukilimas
+  - sukilėlis
 amziai:
   - 'XVIII'
 periodo_grupes:

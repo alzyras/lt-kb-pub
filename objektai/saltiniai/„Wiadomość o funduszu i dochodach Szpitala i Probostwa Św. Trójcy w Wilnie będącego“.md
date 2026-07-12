@@ -11,7 +11,7 @@ date_end: '1789'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
+  - dokumentas
   - saltinis
 amziai:
   - 'XVIII'

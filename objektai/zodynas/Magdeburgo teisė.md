@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
-  - seimas
+  - teisinis-terminas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XVI'

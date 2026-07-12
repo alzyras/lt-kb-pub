@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
-  - karalius
-  - ordinas
+  - sutartis
+  - žygis
 amziai:
   - 'XV'
 media_total_count: '0'

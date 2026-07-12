@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - tikėjimas
   - valdovas
 amziai:
   - 'XIV'

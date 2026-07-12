@@ -9,6 +9,10 @@ date_start: '1388'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - diplomatinis-įvykis
+  - ivykis
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - kraštas
-  - miestas
 amziai:
   - 'XVI'
 periodo_grupes:

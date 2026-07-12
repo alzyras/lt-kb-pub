@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - mūšis
   - sukilimas
 amziai:

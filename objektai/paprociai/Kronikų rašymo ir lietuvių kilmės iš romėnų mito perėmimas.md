@@ -12,10 +12,7 @@ date_end: '1575'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kraštas
   - paprotys
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'

@@ -12,10 +12,7 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

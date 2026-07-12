@@ -15,9 +15,8 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
   - 'XIV'

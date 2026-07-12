@@ -11,8 +11,8 @@ date_end: '1953'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - karas
 amziai:
   - 'XX'
 periodo_grupes:

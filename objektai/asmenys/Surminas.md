@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - drabužis
   - karalius
-  - pilis
 amziai:
   - 'XIII'
   - 'XIV'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žygis
   - ivykis
-  - kunigaikštis
-  - tikėjimas
 amziai:
   - 'XIII'
 media_total_count: '0'

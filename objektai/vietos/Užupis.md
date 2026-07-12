@@ -15,8 +15,8 @@ date_end: '1794'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - vieta
+  - miestas
 amziai:
   - 'XV'
   - 'XVIII'

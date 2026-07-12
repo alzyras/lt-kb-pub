@@ -10,7 +10,9 @@ date_start: '1323'
 date_end: '1325'
 sukurta: ''
 atnaujinta: ''
-tags: []
+tags:
+  - krikštas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

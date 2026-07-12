@@ -9,6 +9,9 @@ date_start: '1858'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sostinė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

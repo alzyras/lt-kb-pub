@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigas
-  - tauta
   - vyskupas
 amziai:
   - 'XIX'

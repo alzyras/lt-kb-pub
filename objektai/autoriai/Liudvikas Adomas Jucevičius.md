@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - rašytojas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

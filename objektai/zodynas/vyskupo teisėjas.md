@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - pareigybė
   - sąvoka
-  - upė
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

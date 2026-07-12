@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - teisinė-praktika
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

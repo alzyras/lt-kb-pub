@@ -14,7 +14,6 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ritualas
   - saltinis
 amziai:
   - 'XVI'

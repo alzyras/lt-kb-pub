@@ -13,9 +13,8 @@ date_end: '1952'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - posakis
-  - šeima
+  - citata
 amziai:
   - 'XIX'
   - 'XX'

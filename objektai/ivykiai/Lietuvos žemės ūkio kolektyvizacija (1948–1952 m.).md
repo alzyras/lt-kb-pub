@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - valstybė
-  - šeima
 amziai:
   - 'XX'
   - 'XXI'

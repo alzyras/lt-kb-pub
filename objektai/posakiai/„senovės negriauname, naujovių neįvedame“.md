@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
   - posakis
-  - reforma
+  - frazė
 amziai:
   - 'XV'
 media_total_count: '0'

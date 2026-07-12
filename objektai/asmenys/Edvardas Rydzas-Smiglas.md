@@ -11,8 +11,9 @@ date_end: '1939'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
+  - pareigūnas
   - asmuo
-  - šventė
 amziai:
   - 'XX'
 periodo_grupes:

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
   - paprotys
-  - pilis
+  - karinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

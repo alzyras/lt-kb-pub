@@ -9,6 +9,9 @@ date_start: '2026'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - paprotys
 amziai:
   - 'XXI'
 media_total_count: '0'

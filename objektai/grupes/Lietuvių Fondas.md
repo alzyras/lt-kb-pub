@@ -11,6 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
 amziai:
   - 'XX'

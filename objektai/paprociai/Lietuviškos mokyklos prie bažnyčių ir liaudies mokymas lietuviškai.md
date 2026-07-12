@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - mokslininkas
+  - švietimas
   - paprotys
-  - vyskupas
 amziai:
   - 'XIX'
 media_total_count: '0'

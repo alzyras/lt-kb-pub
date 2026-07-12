@@ -8,6 +8,9 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

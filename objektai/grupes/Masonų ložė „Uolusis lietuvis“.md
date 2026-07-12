@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - organizacija
+  - draugija
 amziai:
   - 'XIX'
 media_total_count: '0'

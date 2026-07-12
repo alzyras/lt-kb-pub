@@ -11,9 +11,7 @@ date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - politinė-praktika
   - paprotys
 amziai:
   - 'XV'

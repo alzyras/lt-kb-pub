@@ -9,6 +9,9 @@ date_start: '1529'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
+  - reforma
 amziai:
   - 'XVI'
 media_total_count: '0'

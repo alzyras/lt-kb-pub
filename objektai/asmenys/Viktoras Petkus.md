@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - teisinė-praktika
 amziai:
   - 'XX'
 periodo_grupes:

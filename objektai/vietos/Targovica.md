@@ -13,8 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - reforma
   - vieta
+  - miestelis
+  - pilis
 amziai:
   - 'XVIII'
   - 'XXI'

@@ -14,9 +14,7 @@ date_end: '1940'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
-  - dinastija
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIV'

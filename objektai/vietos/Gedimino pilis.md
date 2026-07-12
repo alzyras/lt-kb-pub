@@ -15,8 +15,6 @@ date_end: '1357'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - pilis
   - vieta
 amziai:

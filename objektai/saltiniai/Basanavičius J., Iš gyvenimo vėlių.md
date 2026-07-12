@@ -13,9 +13,6 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - kunigaikštis
-  - pilis
   - saltinis
 amziai:
   - 'XIV'

@@ -11,7 +11,6 @@ date_end: '1254'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
   - vieta
 amziai:

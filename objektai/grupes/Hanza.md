@@ -17,7 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
+  - organizacija
 amziai:
   - 'XIII'
   - 'XXI'

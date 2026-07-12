@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
 media_total_count: '0'

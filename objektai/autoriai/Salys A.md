@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - kraštas
-  - ordinas
-  - pilis
+  - kalbininkas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

@@ -11,9 +11,9 @@ date_end: '1210'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - sąvoka
-  - valstybė
+  - politinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

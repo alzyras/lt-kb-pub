@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
+  - diplomatinis-įvykis
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

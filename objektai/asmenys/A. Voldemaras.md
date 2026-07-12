@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - seimas
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

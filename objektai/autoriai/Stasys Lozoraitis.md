@@ -10,6 +10,9 @@ date_start: '1932'
 date_end: '1934'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ministras
+  - autorius
 amziai:
   - 'XX'
 periodo_grupes:

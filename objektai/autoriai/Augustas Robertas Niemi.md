@@ -41,6 +41,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - mokslininkas
   - autorius
 ---
 # Augustas Robertas Niemi

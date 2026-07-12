@@ -18,6 +18,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - jūra
 amziai:
   - 'XIV'
   - 'XXI'

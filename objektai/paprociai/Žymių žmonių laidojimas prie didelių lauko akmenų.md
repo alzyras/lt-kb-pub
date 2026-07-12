@@ -9,6 +9,9 @@ date_start: '1822'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - laidotuvės
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

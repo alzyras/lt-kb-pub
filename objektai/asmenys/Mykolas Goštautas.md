@@ -11,6 +11,9 @@ date_start: '1471'
 date_end: '1481'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - didikas
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

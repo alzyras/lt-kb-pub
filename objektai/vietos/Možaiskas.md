@@ -12,6 +12,7 @@ date_end: '1479'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XV'

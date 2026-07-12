@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kunigaikštis
   - tauta
 amziai:
   - 'XIV'

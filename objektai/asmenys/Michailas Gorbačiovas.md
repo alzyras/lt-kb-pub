@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
-  - valstybė
+  - valdovas
 amziai:
   - 'XX'
 periodo_grupes:

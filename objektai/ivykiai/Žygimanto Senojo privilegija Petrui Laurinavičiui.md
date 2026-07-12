@@ -9,6 +9,9 @@ date_start: '1538'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

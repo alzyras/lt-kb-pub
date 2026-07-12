@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilimas
   - ivykis
+  - konfliktas
 amziai:
   - 'XIV'
 media_total_count: '0'

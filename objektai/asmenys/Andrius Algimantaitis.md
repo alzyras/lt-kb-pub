@@ -10,6 +10,9 @@ date_start: '1401'
 date_end: '1433'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

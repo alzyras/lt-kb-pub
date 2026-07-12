@@ -11,10 +11,9 @@ date_end: '1337'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
+  - teisinis-terminas
   - sąvoka
-  - valdovas
+  - istorinė-sąvoka
 amziai:
   - 'XII'
   - 'XIV'

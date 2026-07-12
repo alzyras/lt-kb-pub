@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - pilis
-  - upė
 amziai:
   - 'XII'
 periodo_grupes:

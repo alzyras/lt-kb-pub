@@ -11,10 +11,8 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - miestas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
   - 'XX'

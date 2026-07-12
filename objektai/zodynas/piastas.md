@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - politinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XX'
   - 'XXI'

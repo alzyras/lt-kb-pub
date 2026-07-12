@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

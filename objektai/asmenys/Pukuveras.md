@@ -13,7 +13,7 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - ordinas
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:

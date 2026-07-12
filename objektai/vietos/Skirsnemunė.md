@@ -15,10 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ordinas
   - pilis
-  - sutartis
+  - vieta
 amziai:
   - 'XV'
   - 'XXI'

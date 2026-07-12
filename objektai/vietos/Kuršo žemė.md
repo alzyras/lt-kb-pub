@@ -12,10 +12,10 @@ date_end: '1261'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - kraštas
-  - mūšis
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

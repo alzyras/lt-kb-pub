@@ -11,9 +11,8 @@ date_end: '1259'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - kraštas
-  - valstybė
 amziai:
   - 'XIII'
 periodo_grupes:

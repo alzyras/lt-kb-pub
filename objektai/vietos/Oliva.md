@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
-  - popiežius
-  - tauta
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

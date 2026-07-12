@@ -26,6 +26,11 @@ date_start: '1320'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - jūra
+  - kraštas
+  - pilis
+  - vieta
 amziai:
   - 'XIV'
   - 'XXI'

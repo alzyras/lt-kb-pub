@@ -12,9 +12,8 @@ date_end: '1976'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - miestas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

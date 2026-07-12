@@ -7,9 +7,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - kraštas
-  - kunigaikštis
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

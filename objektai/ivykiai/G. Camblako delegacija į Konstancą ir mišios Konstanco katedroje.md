@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - tauta
   - unija
 amziai:
   - 'XV'

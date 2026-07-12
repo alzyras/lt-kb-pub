@@ -11,9 +11,8 @@ date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
   - paprotys
+  - šventė
 amziai:
   - 'XIII'
   - 'XX'

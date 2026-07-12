@@ -9,6 +9,8 @@ date_start: '1809'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

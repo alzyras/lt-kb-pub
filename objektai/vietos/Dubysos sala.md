@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ordinas
-  - popiežius
+  - gamtinis-objektas
   - vieta
 amziai:
   - 'XIV'

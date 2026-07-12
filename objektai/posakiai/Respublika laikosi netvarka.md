@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - frazė
   - posakis
 media_total_count: '0'

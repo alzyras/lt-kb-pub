@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

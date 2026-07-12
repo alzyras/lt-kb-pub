@@ -14,10 +14,8 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - formulė
   - posakis
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

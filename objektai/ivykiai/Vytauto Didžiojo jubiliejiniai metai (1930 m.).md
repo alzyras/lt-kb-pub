@@ -13,6 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - kultūrinis-įvykis
+  - socialinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

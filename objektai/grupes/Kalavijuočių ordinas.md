@@ -23,8 +23,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
+  - ordinas
+  - gentis
 amziai:
   - 'XII'
   - 'XXI'

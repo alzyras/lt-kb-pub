@@ -10,6 +10,9 @@ date_start: '1514'
 date_end: '1565'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

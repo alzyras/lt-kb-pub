@@ -11,6 +11,7 @@ date_end: '1382'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - vieta
 amziai:
   - 'XIV'

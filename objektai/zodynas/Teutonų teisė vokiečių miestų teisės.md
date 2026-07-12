@@ -12,10 +12,8 @@ date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
+  - teisinis-terminas
   - sąvoka
-  - teisinė-praktika
 amziai:
   - 'XIII'
   - 'XIV'

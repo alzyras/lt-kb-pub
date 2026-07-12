@@ -9,6 +9,9 @@ date_start: '1817'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

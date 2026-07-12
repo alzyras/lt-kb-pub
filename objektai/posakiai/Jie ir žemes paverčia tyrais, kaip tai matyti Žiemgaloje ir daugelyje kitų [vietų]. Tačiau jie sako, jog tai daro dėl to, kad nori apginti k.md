@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - ordinas
-  - popiežius
   - posakis
 amziai:
   - 'XIV'

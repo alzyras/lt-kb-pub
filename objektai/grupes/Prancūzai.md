@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - miestas
-  - mūšis
+  - tauta
 amziai:
   - 'XII'
   - 'XIV'

@@ -6,7 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - dvaras
   - valstybė
   - vieta
 media_total_count: '0'

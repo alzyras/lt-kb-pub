@@ -14,10 +14,7 @@ date_end: '1413'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigaikštis
   - saltinis
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,8 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
-  - krikštas
 amziai:
   - 'XIV'
 periodo_grupes:

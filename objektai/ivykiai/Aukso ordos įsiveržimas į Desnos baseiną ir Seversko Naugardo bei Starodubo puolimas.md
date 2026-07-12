@@ -11,6 +11,9 @@ date_start: '1500'
 date_end: '1502'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sutartis
+  - ivykis
 amziai:
   - 'XV'
   - 'XVI'

@@ -10,6 +10,9 @@ date_start: '1319'
 date_end: '1320'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

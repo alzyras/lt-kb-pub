@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
+  - miestas
   - vieta
-  - vyskupas
 amziai:
   - 'XV'
 media_total_count: '0'

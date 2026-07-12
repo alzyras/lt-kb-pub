@@ -17,10 +17,7 @@ date_end: '1285'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - paprotys
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

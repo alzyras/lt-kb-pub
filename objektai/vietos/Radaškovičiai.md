@@ -9,6 +9,9 @@ date_start: '1567'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - gyvenvietė
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

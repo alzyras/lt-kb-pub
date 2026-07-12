@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kraštas
-  - krikštas
-  - kunigas
 amziai:
   - 'XIII'
 media_total_count: '0'

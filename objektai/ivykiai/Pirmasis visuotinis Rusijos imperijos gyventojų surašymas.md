@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
-  - kraštas
-  - miestas
+  - socialinis-įvykis
+  - politinis-sprendimas
 amziai:
   - 'XIX'
 media_total_count: '0'

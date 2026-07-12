@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
   - kunigaikštis
 amziai:
   - 'XVII'

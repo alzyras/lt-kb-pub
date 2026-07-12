@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - reforma
-  - sukilimas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XVIII'
 media_total_count: '0'

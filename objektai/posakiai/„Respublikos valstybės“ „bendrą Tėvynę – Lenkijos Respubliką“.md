@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
   - posakis
-  - tauta
+  - frazė
 amziai:
   - 'XVIII'
 media_total_count: '0'

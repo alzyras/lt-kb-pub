@@ -10,6 +10,9 @@ date_start: '1323'
 date_end: '1894'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XIV'
   - 'XIX'

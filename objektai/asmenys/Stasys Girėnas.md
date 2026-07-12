@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - mūšis
 amziai:
   - 'XX'
 periodo_grupes:

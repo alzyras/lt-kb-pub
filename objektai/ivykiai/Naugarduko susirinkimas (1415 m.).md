@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - teisinė-praktika
-  - vyskupas
-  - šventė
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,10 +11,9 @@ date_end: '1279'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - karas
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

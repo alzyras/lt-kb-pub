@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - paliaubos
   - vyskupas
 amziai:
   - 'XIV'

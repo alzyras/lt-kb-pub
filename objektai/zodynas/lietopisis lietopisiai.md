@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
-  - tauta
-  - valdovas
+  - skolinys
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

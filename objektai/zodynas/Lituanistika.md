@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

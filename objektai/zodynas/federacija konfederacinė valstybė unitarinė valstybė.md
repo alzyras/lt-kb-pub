@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
+  - politinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XVI'
 media_total_count: '0'

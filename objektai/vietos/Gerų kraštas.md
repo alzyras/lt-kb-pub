@@ -9,6 +9,10 @@ date_start: '1810'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - upė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

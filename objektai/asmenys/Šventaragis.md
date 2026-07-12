@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - kunigaikštis
-  - miestas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -10,6 +10,9 @@ date_start: '1501'
 date_end: '1600'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XVI'
 media_total_count: '0'

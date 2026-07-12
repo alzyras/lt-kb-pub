@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
+  - socialinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

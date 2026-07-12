@@ -11,9 +11,8 @@ date_end: '1287'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - kraštas
-  - kunigas
 amziai:
   - 'XIII'
 media_total_count: '0'

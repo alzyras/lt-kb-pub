@@ -9,6 +9,9 @@ date_start: '1362'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - laidotuvės
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

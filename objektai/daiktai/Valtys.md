@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - transportas
 amziai:
   - 'IX'
 media_total_count: '0'

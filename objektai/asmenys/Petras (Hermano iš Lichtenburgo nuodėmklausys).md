@@ -6,8 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - karas
   - kunigas
 media_total_count: '0'
 media_primary_thumb_url: ''

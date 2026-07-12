@@ -16,9 +16,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - unija
   - vieta
+  - miestas
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - upė
+  - diplomatas
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

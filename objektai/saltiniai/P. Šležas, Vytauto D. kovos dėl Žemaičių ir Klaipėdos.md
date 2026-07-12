@@ -13,7 +13,6 @@ date_end: '1933'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
 amziai:
   - 'XIII'

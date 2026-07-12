@@ -11,10 +11,9 @@ date_end: '1384'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mūšis
-  - ordinas
+  - karinė-praktika
   - paprotys
+  - karyba
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - sostinė
 amziai:
   - 'XV'
 media_total_count: '0'

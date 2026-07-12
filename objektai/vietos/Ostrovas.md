@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
   - kraštas
-  - kunigaikštis
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
-  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XVI'

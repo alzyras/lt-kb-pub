@@ -9,6 +9,10 @@ date_start: '1485'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - karalius
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

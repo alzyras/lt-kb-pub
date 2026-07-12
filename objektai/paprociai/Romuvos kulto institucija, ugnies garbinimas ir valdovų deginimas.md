@@ -11,9 +11,8 @@ date_end: '1866'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - garbinimas
   - paprotys
-  - valdovas
-  - valstybė
   - šventė
 amziai:
   - 'XIX'

@@ -11,6 +11,7 @@ date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
 amziai:
   - 'XV'

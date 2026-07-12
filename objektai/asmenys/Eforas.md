@@ -9,6 +9,9 @@ date_start: '1815'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

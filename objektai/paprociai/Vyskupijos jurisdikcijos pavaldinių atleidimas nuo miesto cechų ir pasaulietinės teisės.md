@@ -11,9 +11,7 @@ date_end: '1584'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - kunigaikštis
+  - teisinė-praktika
   - paprotys
 amziai:
   - 'XVI'

@@ -14,8 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
   - valdovas
+  - karalius
 amziai:
   - 'XVII'
   - 'XVIII'

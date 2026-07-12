@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - paprotys
-  - tauta
-  - vyskupas
+  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,6 +11,9 @@ date_start: '1200'
 date_end: '1700'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XII'
   - 'XVII'

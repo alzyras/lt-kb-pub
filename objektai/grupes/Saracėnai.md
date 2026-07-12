@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karalius
-  - karas
-  - valdovas
+  - tauta
 amziai:
   - 'X'
   - 'XV'

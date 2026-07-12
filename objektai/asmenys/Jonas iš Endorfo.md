@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - tauta
-  - šventė
+  - karys
 amziai:
   - 'XIV'
 periodo_grupes:

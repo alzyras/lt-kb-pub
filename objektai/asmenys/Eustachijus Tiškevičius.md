@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
   - mokslininkas
 amziai:
   - 'XIX'

@@ -11,6 +11,7 @@ date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinė-grupė
   - grupe
 amziai:
   - 'XX'

@@ -13,10 +13,7 @@ date_end: '1948'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - popiežius
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

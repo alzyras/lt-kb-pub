@@ -12,10 +12,8 @@ date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - pilis
   - saltinis
-  - upė
+  - žemėlapis
 amziai:
   - 'XII'
   - 'XX'

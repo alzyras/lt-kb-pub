@@ -14,7 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - mokslininkas
 amziai:
   - 'XIX'
   - 'XX'

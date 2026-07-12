@@ -11,6 +11,7 @@ date_end: '1889'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigas
   - autorius
 amziai:
   - 'XIX'

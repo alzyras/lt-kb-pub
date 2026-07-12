@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
   - paliaubos
+  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

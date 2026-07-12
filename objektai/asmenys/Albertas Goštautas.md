@@ -12,6 +12,10 @@ date_start: '1522'
 date_end: '1529'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - didikas
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

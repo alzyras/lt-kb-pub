@@ -10,6 +10,9 @@ date_start: '1839'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - papuošalas
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

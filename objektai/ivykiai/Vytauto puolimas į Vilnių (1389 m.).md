@@ -14,7 +14,6 @@ tags:
   - ivykis
   - karas
   - krikštas
-  - kunigaikštis
 amziai:
   - 'XIV'
 media_total_count: '0'

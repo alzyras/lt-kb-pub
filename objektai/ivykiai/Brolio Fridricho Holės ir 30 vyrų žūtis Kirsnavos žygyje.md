@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
   - ivykis
-  - ordinas
-  - pilis
+  - žygis
 amziai:
   - 'XIV'
 media_total_count: '0'

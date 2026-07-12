@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
+  - prekyba
   - paprotys
-  - sutartis
+  - teisinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigas
   - sukilimas
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

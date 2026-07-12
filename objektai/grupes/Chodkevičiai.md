@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - mūšis
+  - kariuomenė
 amziai:
   - 'XVI'
   - 'XVII'

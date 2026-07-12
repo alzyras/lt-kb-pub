@@ -11,6 +11,7 @@ date_end: '1607'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - giminė
   - grupe
 amziai:
   - 'XVI'

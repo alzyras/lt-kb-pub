@@ -9,6 +9,10 @@ date_start: '1836'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

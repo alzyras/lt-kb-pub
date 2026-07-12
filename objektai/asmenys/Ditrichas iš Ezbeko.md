@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - mūšis
-  - pilis
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

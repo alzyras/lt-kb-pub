@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - tikėjimas
+  - mokslininkas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -16,8 +16,7 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karalius
-  - kunigaikštis
+  - bajorija
 amziai:
   - 'XIV'
   - 'XXI'

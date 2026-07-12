@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - popiežius
+  - religinis-įvykis
 amziai:
   - 'XIII'
   - 'XIV'

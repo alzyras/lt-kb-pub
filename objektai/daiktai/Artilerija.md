@@ -14,7 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - valstybė
+  - karo-reikmuo
+  - ginklas
 amziai:
   - 'XVI'
   - 'XX'

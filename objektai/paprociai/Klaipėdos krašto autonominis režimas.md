@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
   - paprotys
-  - seimas
-  - valstybė
+  - politinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

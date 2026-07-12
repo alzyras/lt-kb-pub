@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - popiežius
-  - šventė
+  - religinis-įvykis
+  - konfliktas
 amziai:
   - 'XIII'
   - 'XIV'

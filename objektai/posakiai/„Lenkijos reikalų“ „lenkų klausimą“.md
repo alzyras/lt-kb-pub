@@ -11,9 +11,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - frazė
   - posakis
-  - sukilimas
 amziai:
   - 'XIX'
 media_total_count: '0'

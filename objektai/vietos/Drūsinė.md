@@ -13,7 +13,7 @@ tags:
   - ežeras
   - kraštas
   - pilis
-  - valdovas
+  - vieta
 amziai:
   - 'IX'
 media_total_count: '0'

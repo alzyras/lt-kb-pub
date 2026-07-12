@@ -11,9 +11,8 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
+  - vietovardis
   - sąvoka
-  - upė
 amziai:
   - 'XIV'
   - 'XX'

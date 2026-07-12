@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karinis-terminas
+  - sąvoka
 amziai:
   - 'XXI'
 media_total_count: '0'

@@ -14,9 +14,8 @@ date_end: '1527'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - grupe
-  - valstybė
+  - bajorija
 amziai:
   - 'XV'
   - 'XVI'

@@ -14,9 +14,7 @@ date_end: '1219'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - popiežius
-  - sutartis
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIII'

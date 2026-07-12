@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - šeima
+  - miestas
 amziai:
   - 'XVII'
   - 'XXI'

@@ -12,10 +12,8 @@ date_end: '1572'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - paprotys
-  - pinigai
-  - seimas
+  - prekyba
 amziai:
   - 'XVI'
 media_total_count: '0'

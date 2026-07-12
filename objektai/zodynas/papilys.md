@@ -14,10 +14,8 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - pilis
   - sąvoka
-  - upė
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
   - 'XIV'

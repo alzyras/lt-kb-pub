@@ -13,8 +13,8 @@ date_end: '1269'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - valstybė
 amziai:
   - 'XIII'
 media_total_count: '0'

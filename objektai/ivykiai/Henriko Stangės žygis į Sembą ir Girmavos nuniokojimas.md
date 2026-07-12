@@ -12,7 +12,7 @@ date_end: '1254'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žygis
   - ivykis
   - karas
 amziai:

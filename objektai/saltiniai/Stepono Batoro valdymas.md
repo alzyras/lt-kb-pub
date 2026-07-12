@@ -11,9 +11,6 @@ date_end: '1823'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - popiežius
   - saltinis
 amziai:
   - 'XVI'

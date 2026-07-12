@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
 amziai:
   - 'XV'
 media_total_count: '0'

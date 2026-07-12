@@ -13,10 +13,9 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
+  - teisinė-praktika
   - paprotys
-  - valdovas
+  - ūkis
 amziai:
   - 'XV'
 media_total_count: '0'

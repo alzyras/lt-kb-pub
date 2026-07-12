@@ -11,9 +11,8 @@ date_end: '1904'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - citata
   - posakis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

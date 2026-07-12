@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - dvasininkas
 amziai:
   - 'XX'
 periodo_grupes:

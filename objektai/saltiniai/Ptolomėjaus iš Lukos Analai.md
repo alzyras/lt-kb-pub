@@ -17,9 +17,6 @@ date_end: '1327'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
-  - popiežius
   - saltinis
 amziai:
   - 'XII'

@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'

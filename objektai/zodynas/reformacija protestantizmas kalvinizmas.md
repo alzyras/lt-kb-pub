@@ -13,9 +13,7 @@ date_end: '1547'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigaikštis
-  - reforma
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XVI'

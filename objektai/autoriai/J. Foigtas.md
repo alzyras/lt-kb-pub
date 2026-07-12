@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
   - mokslininkas
-  - pilis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

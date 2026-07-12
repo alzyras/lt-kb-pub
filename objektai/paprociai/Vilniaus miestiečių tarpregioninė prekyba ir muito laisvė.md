@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
-  - miestas
+  - prekyba
   - paprotys
 amziai:
   - 'XV'

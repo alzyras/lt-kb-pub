@@ -11,7 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

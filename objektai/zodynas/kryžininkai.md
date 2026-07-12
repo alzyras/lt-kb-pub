@@ -11,10 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
-  - ordinas
   - sąvoka
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

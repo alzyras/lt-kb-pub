@@ -16,6 +16,9 @@ date_start: '1128'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pareigybė
+  - sąvoka
 amziai:
   - 'XII'
   - 'XXI'

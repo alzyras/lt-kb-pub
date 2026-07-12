@@ -12,7 +12,6 @@ date_end: '1290'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
 amziai:
   - 'XIII'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

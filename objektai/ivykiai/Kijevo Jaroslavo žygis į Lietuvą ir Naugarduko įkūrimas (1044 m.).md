@@ -14,7 +14,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - karas
+  - ivykis
 amziai:
   - 'XI'
   - 'XXI'

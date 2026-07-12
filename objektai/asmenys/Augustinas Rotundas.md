@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - pareigūnas
 amziai:
   - 'XVI'
 periodo_grupes:

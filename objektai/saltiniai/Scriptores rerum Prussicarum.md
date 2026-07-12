@@ -12,7 +12,6 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - saltinis
 amziai:
   - 'XIX'

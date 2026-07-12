@@ -11,7 +11,6 @@ date_end: '1924'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
 amziai:
   - 'XIV'

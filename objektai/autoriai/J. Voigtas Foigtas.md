@@ -9,6 +9,9 @@ date_start: '1669'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVII'
 periodo_grupes:

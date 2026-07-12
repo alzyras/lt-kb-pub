@@ -14,6 +14,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - karinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

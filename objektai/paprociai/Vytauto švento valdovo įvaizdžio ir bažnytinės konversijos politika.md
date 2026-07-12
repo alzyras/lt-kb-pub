@@ -11,10 +11,9 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
+  - religinė-praktika
   - paprotys
-  - tauta
+  - politinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

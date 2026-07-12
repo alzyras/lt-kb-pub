@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dokumentas
   - ivykis
   - reforma
+  - seimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

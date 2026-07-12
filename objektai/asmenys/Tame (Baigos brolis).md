@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
-  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

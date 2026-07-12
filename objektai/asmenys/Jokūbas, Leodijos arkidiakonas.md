@@ -9,6 +9,9 @@ date_start: '1249'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

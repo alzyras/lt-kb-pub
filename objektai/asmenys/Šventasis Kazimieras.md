@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - kraštas
   - kunigaikštis
 amziai:
   - 'XV'

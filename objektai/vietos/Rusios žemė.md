@@ -10,10 +10,10 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - miestas
   - pilis
   - upė
-  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

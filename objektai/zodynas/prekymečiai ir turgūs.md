@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
+  - ekonominis-terminas
   - sąvoka
-  - teisinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

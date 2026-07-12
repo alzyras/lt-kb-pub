@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pilis
   - kraštas
   - vieta
 media_total_count: '0'

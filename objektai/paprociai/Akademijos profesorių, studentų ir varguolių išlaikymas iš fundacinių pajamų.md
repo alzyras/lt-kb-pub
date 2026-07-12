@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - paprotys
   - teisinė-praktika
 media_total_count: '0'

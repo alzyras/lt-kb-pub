@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
   - valdovas
+  - kunigaikštis
 amziai:
   - 'XV'
   - 'XVI'

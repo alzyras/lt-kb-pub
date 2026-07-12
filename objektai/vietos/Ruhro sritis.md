@@ -12,8 +12,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - sukilimas
   - valstybė
   - vieta
 amziai:

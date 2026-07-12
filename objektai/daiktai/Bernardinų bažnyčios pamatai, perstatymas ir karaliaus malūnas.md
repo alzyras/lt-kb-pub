@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
 amziai:
   - 'XV'
 media_total_count: '0'

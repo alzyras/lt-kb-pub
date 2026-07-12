@@ -11,10 +11,9 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - elekcija
-  - miestas
-  - tauta
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

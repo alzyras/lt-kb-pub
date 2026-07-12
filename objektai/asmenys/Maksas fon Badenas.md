@@ -11,8 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

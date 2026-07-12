@@ -11,10 +11,9 @@ date_end: '1581'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
-  - kunigas
+  - teisinė-praktika
   - paprotys
+  - politinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

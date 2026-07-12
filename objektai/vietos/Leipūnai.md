@@ -12,9 +12,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - vieta
-  - šeima
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,6 +11,10 @@ date_start: '1323'
 date_end: '1325'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - valdovas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

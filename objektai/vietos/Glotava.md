@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - upė
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

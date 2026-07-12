@@ -14,10 +14,8 @@ date_end: '1696'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - miestas
-  - ordinas
+  - vieta
 amziai:
   - 'XV'
   - 'XVII'

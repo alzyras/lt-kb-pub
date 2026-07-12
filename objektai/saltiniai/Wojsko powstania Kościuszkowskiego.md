@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

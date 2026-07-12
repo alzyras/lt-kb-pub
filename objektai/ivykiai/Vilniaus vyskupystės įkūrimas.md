@@ -15,7 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - vyskupas
+  - religinis-įvykis
+  - krikštas
 amziai:
   - 'XIV'
   - 'XXI'

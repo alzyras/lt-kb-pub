@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - institucija
   - ivykis
-  - kunigas
+  - religinis-įvykis
 amziai:
   - 'XX'
 media_total_count: '0'

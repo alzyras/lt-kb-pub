@@ -11,10 +11,8 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
   - seimas
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

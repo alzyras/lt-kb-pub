@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-  - tauta
+  - šūkis
 amziai:
   - 'XX'
 media_total_count: '0'

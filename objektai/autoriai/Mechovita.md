@@ -9,6 +9,9 @@ date_start: '1517'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

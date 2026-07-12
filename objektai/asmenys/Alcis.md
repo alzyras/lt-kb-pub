@@ -9,6 +9,8 @@ date_start: '1325'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

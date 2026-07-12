@@ -11,10 +11,8 @@ date_end: '1263'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - ginklas
-  - pilis
-  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:

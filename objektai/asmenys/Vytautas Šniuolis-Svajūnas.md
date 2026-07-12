@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
+  - karvedys
   - asmuo
-  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

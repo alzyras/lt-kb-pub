@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - mokslininkas
   - saltinis
 amziai:
   - 'XVI'

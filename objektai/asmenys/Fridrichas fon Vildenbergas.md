@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - kraštas
   - kunigaikštis
 amziai:
   - 'XIV'

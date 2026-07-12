@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
-  - tauta
-  - unija
-  - valstybė
+  - frazė
 amziai:
   - 'XIV'
   - 'XVI'

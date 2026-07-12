@@ -10,6 +10,8 @@ date_start: '1257'
 date_end: '1315'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XIII'
   - 'XIV'

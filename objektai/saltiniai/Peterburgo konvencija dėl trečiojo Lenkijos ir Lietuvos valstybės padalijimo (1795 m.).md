@@ -12,10 +12,8 @@ date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - saltinis
-  - sukilimas
-  - valstybė
+  - dokumentas
 amziai:
   - 'XVIII'
   - 'XIX'

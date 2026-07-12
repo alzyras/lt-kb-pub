@@ -11,6 +11,9 @@ date_start: '1782'
 date_end: '1839'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai:
   - 'XVIII'
   - 'XIX'

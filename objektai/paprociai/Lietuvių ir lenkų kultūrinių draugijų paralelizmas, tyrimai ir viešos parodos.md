@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - paprotys
-  - tauta
+  - švietimas
+  - socialinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

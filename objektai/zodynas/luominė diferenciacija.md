@@ -13,10 +13,8 @@ date_end: '1447'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
+  - socialinis-terminas
   - sąvoka
-  - valdovas
 amziai:
   - 'XIV'
   - 'XV'

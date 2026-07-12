@@ -9,6 +9,9 @@ date_start: '1780'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XVIII'
 media_total_count: '0'

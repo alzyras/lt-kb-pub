@@ -10,6 +10,9 @@ date_start: '1770'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

@@ -14,7 +14,6 @@ date_end: '1293'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - pilis
   - vieta
 amziai:

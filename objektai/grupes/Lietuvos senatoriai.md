@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - karalius
-  - kraštas
 amziai:
   - 'XVI'
 media_total_count: '0'

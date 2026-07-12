@@ -11,8 +11,7 @@ date_end: '1660'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
+  - miestas
   - vieta
 amziai:
   - 'XVII'

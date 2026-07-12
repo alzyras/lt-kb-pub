@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - ordinas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

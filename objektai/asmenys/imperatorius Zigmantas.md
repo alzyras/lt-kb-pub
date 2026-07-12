@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
+  - pareigūnas
 amziai:
   - 'XV'
 periodo_grupes:

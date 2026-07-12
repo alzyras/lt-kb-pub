@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - krikštas
-  - pilis
-  - šventė
 amziai:
   - 'XIV'
 periodo_grupes:

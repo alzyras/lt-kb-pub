@@ -12,10 +12,8 @@ date_end: '1763'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - paprotys
   - teisinė-praktika
-  - vyskupas
 amziai:
   - 'XV'
   - 'XVIII'

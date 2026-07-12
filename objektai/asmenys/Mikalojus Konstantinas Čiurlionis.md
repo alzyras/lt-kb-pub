@@ -8,6 +8,8 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'D'
 periodo_grupes: []

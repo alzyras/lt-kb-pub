@@ -11,9 +11,9 @@ date_end: '1957'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - reforma
   - ivykis
-  - teisinė-praktika
+  - politinis-sprendimas
 amziai:
   - 'XX'
 media_total_count: '0'

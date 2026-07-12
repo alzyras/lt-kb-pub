@@ -9,6 +9,9 @@ date_start: '1991'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šūkis
+  - posakis
 amziai:
   - 'XX'
 media_total_count: '0'

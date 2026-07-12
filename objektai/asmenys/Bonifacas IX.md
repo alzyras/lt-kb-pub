@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
   - popiežius
-  - tauta
+  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'

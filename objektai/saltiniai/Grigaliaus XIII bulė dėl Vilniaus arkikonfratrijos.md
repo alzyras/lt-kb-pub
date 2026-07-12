@@ -12,10 +12,8 @@ date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
   - dokumentas
   - saltinis
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XVII'

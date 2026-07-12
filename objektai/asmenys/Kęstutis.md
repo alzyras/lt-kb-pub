@@ -19,6 +19,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
+  - vyskupas
 amziai:
   - 'V'
   - 'XV'

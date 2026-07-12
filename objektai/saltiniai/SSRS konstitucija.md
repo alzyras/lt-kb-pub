@@ -11,8 +11,7 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kraštas
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

@@ -11,7 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
+  - karas
+  - okupacija
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - politinis-sprendimas
   - ivykis
-  - tauta
-  - teisinė-praktika
+  - reforma
 amziai:
   - 'XX'
 media_total_count: '0'

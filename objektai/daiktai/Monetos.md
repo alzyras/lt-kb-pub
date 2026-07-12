@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - moneta
 amziai:
   - 'XV'
   - 'XIX'

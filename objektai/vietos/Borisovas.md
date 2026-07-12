@@ -12,8 +12,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

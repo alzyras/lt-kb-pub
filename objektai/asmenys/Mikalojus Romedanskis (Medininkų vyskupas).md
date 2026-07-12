@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-  - teisinė-praktika
   - vyskupas
 amziai:
   - 'XV'

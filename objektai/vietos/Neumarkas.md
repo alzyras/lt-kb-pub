@@ -11,7 +11,6 @@ date_end: '1382'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - valstybė
   - vieta
 amziai:

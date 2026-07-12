@@ -10,6 +10,10 @@ date_start: '1940'
 date_end: '1991'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karinė-praktika
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XX'
 media_total_count: '0'

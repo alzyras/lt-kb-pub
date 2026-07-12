@@ -11,10 +11,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - sukilimas
   - sąvoka
-  - vyskupas
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

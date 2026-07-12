@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - krikštas
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

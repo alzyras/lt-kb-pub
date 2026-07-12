@@ -11,10 +11,9 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - teisinė-praktika
   - valstybė
   - vieta
+  - kraštas
 amziai:
   - 'XX'
 media_total_count: '0'

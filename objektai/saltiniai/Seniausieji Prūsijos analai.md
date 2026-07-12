@@ -11,9 +11,7 @@ date_end: '1293'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
-  - valstybė
 amziai:
   - 'XIII'
 media_total_count: '0'

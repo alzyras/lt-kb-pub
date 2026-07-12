@@ -12,10 +12,9 @@ date_end: '2005'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - miestas
   - pilis
-  - tikėjimas
+  - vieta
 amziai:
   - 'XI'
   - 'XXI'

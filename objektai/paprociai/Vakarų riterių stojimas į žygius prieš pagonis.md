@@ -6,8 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
+  - karinė-praktika
+  - karyba
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

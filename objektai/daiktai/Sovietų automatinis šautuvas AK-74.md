@@ -11,6 +11,7 @@ date_end: '1974'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
   - daiktas
 amziai:
   - 'XX'

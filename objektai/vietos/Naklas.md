@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karvedys
   - pilis
   - vieta
 media_total_count: '0'

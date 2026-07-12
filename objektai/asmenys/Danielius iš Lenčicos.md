@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - reforma
 amziai:
   - 'XVI'
 periodo_grupes:

@@ -11,9 +11,6 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - paliaubos
-  - sutartis
   - vieta
 amziai:
   - 'XV'

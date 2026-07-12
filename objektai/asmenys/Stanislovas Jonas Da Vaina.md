@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
   - kunigaikštis
   - vyskupas
 media_total_count: '0'

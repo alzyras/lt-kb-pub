@@ -9,6 +9,8 @@ date_start: '1029'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XI'
 periodo_grupes:

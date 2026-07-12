@@ -11,8 +11,6 @@ date_end: '1495'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kunigaikštis
   - miestas
   - vieta
 amziai:

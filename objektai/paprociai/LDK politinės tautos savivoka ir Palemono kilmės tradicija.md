@@ -6,10 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dinastija
   - paprotys
-  - tauta
+  - šeima
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

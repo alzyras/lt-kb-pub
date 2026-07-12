@@ -9,6 +9,9 @@ date_start: '1260'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - upė
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

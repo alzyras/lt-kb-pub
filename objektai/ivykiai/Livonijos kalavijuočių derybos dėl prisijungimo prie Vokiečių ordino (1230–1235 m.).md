@@ -11,9 +11,8 @@ date_end: '1235'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - ordinas
+  - diplomatinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

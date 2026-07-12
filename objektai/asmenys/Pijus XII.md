@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
   - popiežius
 amziai:
   - 'XX'

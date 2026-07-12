@@ -9,6 +9,9 @@ date_start: '477'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kraštas
+  - vieta
 amziai:
   - 'V'
 media_total_count: '0'

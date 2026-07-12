@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
+  - didikas
   - asmuo
 amziai:
   - 'XVII'

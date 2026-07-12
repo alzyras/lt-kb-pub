@@ -13,6 +13,9 @@ date_start: ''
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai: []
 periodo_grupes: []
 media_total_count: '1'

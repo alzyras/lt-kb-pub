@@ -39,6 +39,7 @@ media_all_json: |-
   []
 tags:
   - autorius
+  - kunigas
 ---
 # A. Sabaliauskas
 

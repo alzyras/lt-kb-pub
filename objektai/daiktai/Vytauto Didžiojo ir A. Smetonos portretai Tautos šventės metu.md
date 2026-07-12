@@ -11,10 +11,8 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
   - daiktas
-  - miestas
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,8 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - sąvoka
+  - pareigybė
 amziai:
   - 'XVI'
 media_total_count: '0'

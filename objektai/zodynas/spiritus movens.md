@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

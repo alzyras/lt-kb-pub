@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
+  - politinis-terminas
+  - istorinė-sąvoka
   - sąvoka
-  - teisinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigas
+  - istorinė-sąvoka
   - sąvoka
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,9 +11,8 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - ordinas
-  - teisinė-praktika
 amziai:
   - 'XX'
 periodo_grupes:

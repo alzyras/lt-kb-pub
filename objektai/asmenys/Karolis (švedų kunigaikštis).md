@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

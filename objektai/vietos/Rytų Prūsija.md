@@ -14,7 +14,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
+  - regionas
   - vieta
 amziai:
   - 'XVI'

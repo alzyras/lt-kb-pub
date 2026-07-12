@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinis-terminas
   - sąvoka
 amziai:
   - 'XX'

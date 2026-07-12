@@ -6,7 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - miestelis
   - miestas
   - vieta
 media_total_count: '0'

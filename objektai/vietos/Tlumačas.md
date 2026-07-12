@@ -11,6 +11,7 @@ date_end: '1440'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestelis
   - vieta
 amziai:
   - 'XV'

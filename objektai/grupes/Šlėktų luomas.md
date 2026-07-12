@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinė-grupė
   - grupe
-  - karalius
-  - kunigaikštis
-  - miestas
 amziai:
   - 'XVI'
 media_total_count: '0'

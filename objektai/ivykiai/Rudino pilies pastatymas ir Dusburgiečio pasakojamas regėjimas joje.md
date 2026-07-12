@@ -17,10 +17,8 @@ date_end: '1266'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
   - ivykis
-  - kunigaikštis
-  - ordinas
+  - religinis-įvykis
 amziai:
   - 'XII'
   - 'XIII'

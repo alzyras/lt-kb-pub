@@ -22,10 +22,10 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - miestas
-  - sutartis
   - valstybė
+  - kraštas
+  - miestelis
 amziai:
   - 'XIV'
   - 'XX'

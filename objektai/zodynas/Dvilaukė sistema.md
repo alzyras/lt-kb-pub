@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
   - sąvoka
-  - šeima
+  - ekonominis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

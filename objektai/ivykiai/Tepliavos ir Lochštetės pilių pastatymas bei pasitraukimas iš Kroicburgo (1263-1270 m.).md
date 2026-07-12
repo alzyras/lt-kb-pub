@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
   - sukilimas
 amziai:
   - 'XIII'

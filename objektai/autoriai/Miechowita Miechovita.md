@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - bajorija
   - karalius
-  - miestas
+  - mokslininkas
 amziai:
   - 'XIV'
 periodo_grupes:

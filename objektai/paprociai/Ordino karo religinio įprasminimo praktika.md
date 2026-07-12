@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
-  - ordinas
   - paprotys
+  - religinė-praktika
+  - karyba
 amziai:
   - 'XIV'
 media_total_count: '0'

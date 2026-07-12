@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - karas
-  - kraštas
-  - mūšis
 amziai:
   - 'XX'
 media_total_count: '0'

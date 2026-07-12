@@ -11,6 +11,9 @@ date_start: '1546'
 date_end: '1699'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - grupe
 amziai:
   - 'XVI'
   - 'XVII'

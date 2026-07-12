@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - upė
+  - kalbininkas
 amziai:
   - 'XX'
 periodo_grupes:

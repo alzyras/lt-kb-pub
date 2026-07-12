@@ -15,10 +15,8 @@ date_end: '1489'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - sąvoka
-  - transportas
-  - valdovas
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XV'

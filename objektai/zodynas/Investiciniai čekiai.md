@@ -5,6 +5,9 @@ saltiniai:
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ekonominis-terminas
+  - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

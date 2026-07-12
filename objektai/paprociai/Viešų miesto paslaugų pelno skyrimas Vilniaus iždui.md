@@ -12,10 +12,9 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - paprotys
+  - ūkis
+  - teisinė-praktika
 amziai:
   - 'XV'
   - 'XVI'

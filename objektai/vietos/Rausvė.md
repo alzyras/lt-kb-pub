@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - žemėlapis
+  - upė
 amziai:
   - 'XVII'
 media_total_count: '0'

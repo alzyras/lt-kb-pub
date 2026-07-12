@@ -11,8 +11,8 @@ date_end: '1314'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'

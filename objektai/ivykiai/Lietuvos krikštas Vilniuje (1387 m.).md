@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - krikštas
+  - seimas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

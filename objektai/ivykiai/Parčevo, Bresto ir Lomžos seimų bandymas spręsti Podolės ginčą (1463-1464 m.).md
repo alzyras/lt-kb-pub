@@ -10,6 +10,10 @@ date_start: '1463'
 date_end: '1464'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - seimas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

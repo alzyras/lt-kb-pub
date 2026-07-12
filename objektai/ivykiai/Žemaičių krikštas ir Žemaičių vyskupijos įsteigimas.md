@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
-  - ordinas
-  - tauta
+  - krikštas
 amziai:
   - 'XV'
 media_total_count: '0'

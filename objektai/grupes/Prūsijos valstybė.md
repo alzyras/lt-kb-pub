@@ -13,7 +13,6 @@ tags:
   - grupe
   - ordinas
   - tauta
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -15,6 +15,8 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - karalius
+  - popiežius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

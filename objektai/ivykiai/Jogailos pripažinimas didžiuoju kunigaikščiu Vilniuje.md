@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

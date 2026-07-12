@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - valstybė
+  - sutartis
+  - diplomatinis-įvykis
 amziai:
   - 'XIV'
 media_total_count: '0'

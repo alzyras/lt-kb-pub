@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
-  - mokslininkas
   - tauta
 amziai:
   - 'XX'

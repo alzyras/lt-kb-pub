@@ -11,8 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - sutartis
+  - politinis-terminas
   - sąvoka
 amziai:
   - 'XX'

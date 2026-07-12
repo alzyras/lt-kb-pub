@@ -13,8 +13,8 @@ date_end: '1925'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - kunigas
 amziai:
   - 'XIX'
   - 'XX'

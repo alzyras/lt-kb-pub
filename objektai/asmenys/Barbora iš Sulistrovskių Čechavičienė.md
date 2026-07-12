@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - didikas
 amziai:
   - 'XVIII'
 periodo_grupes:

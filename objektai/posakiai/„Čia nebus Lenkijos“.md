@@ -11,9 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - posakis
-  - sukilimas
+  - frazė
 amziai:
   - 'XXI'
 media_total_count: '0'

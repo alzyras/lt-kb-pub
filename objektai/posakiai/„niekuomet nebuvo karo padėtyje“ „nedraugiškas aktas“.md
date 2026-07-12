@@ -11,10 +11,8 @@ date_end: '1920'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - citata
   - posakis
-  - sutartis
-  - tikėjimas
 amziai:
   - 'XVIII'
   - 'XX'

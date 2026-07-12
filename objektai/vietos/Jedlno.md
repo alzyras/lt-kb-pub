@@ -6,9 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - unija
-  - valdovas
+  - gyvenvietė
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

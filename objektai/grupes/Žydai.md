@@ -23,6 +23,7 @@ tags:
   - bajorija
   - grupe
   - tauta
+  - institucija
 amziai:
   - 'XIII'
   - 'XXI'

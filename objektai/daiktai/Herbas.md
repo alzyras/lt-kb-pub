@@ -13,10 +13,7 @@ date_end: '1451'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - daiktas
-  - kraštas
-  - tauta
 amziai:
   - 'XIV'
   - 'XV'

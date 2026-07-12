@@ -11,8 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - vieta
+  - miestelis
 amziai:
   - 'XIX'
   - 'XXI'

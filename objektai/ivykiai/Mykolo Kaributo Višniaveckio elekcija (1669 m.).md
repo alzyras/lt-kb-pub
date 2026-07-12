@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
   - elekcija
   - ivykis
 media_total_count: '0'

@@ -15,7 +15,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - miestas
 amziai:
   - 'XVI'
 periodo_grupes:

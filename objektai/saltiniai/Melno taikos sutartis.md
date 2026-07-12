@@ -11,10 +11,8 @@ date_end: '1422'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
-  - kunigaikštis
   - saltinis
+  - dokumentas
 amziai:
   - 'XV'
 media_total_count: '0'

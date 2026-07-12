@@ -11,8 +11,8 @@ date_end: '1934'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
-  - kraštas
 amziai:
   - 'XX'
 media_total_count: '0'

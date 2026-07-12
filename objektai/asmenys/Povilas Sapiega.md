@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pinigai
+  - didikas
+  - karvedys
 amziai:
   - 'XVII'
 periodo_grupes:

@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
+  - transportas
 amziai:
   - 'XIV'
   - 'XXI'

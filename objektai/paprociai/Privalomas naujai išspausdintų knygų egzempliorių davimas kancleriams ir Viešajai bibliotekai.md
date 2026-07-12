@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - paprotys
+  - teisinė-praktika
 amziai:
   - 'XVII'
 media_total_count: '0'

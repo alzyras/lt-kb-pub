@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
+  - teisinis-terminas
   - sąvoka
-  - teisinė-praktika
-  - unija
 amziai:
   - 'XVIII'
 media_total_count: '0'

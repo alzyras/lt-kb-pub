@@ -12,8 +12,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - ivykis
+  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

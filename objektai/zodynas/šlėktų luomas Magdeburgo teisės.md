@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
+  - socialinis-terminas
+  - teisinis-terminas
   - sąvoka
 amziai:
   - 'XVI'

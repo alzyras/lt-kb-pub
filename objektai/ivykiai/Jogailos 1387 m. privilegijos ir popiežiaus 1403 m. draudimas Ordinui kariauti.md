@@ -12,10 +12,9 @@ date_end: '1400'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - ivykis
-  - ordinas
-  - popiežius
+  - krikštas
+  - politinis-sprendimas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,6 +10,9 @@ date_start: '1835'
 date_end: '1836'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

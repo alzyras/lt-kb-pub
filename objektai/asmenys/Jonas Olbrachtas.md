@@ -10,6 +10,11 @@ date_start: '1488'
 date_end: '1489'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - kunigaikštis
+  - popiežius
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

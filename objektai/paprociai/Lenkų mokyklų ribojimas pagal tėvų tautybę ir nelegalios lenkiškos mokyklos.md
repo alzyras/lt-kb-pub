@@ -11,10 +11,8 @@ date_end: '1936'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
+  - švietimas
   - paprotys
-  - pinigai
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

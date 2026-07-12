@@ -16,10 +16,8 @@ date_end: '1977'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - valstybė
   - vieta
-  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

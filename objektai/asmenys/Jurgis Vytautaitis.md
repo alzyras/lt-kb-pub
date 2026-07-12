@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - mūšis
-  - ordinas
+  - pareigūnas
+  - karys
 amziai:
   - 'XIV'
 periodo_grupes:

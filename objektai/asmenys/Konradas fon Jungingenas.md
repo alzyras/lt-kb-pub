@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - mūšis
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - formulė
 amziai:
   - 'XVI'
   - 'XIX'

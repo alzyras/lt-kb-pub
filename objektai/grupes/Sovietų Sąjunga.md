@@ -14,8 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
-  - valstybė
+  - kariuomenė
 amziai:
   - 'XX'
 media_total_count: '0'

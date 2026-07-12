@@ -9,6 +9,9 @@ date_start: '1386'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sutartis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - miestas
-  - pilis
-  - upė
 amziai:
   - 'XIX'
 media_total_count: '0'

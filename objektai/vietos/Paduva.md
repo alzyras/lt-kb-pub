@@ -11,8 +11,8 @@ date_end: '1519'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
-  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

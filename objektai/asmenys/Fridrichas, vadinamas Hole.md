@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
-  - ordinas
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1605'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rankraštis
+  - saltinis
 amziai:
   - 'XVII'
 media_total_count: '0'

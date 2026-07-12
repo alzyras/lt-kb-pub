@@ -11,8 +11,8 @@ atnaujinta: ''
 tags:
   - autorius
   - karalius
-  - ordinas
   - popiežius
+  - vyskupas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

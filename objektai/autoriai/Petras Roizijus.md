@@ -9,6 +9,9 @@ date_start: '1571'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai:
   - 'XVI'
 periodo_grupes:

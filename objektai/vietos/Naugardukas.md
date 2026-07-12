@@ -21,10 +21,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
   - miestas
   - vieta
+  - pilis
 amziai:
   - 'XI'
   - 'XXI'

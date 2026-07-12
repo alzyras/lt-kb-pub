@@ -11,6 +11,11 @@ date_start: '1412'
 date_end: '1423'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - diplomatinis-įvykis
+  - politinis-sprendimas
+  - sutartis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

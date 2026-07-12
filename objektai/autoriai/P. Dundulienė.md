@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - įrankis
-  - šventė
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

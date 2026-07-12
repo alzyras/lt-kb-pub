@@ -14,7 +14,7 @@ tags:
   - ežeras
   - pilis
   - upė
-  - valdovas
+  - vieta
 amziai:
   - 'X'
   - 'XVI'

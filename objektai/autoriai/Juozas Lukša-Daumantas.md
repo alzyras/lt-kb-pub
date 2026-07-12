@@ -11,6 +11,7 @@ date_end: '1945'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilėlis
   - autorius
 amziai:
   - 'XX'

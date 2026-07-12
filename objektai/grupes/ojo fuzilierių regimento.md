@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - valstybė
 amziai:
   - 'XVIII'
 media_total_count: '0'

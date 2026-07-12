@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - karas
-  - mokslininkas
 amziai:
   - 'XX'
 media_total_count: '0'

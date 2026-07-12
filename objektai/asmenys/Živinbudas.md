@@ -11,10 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
-  - kraštas
   - popiežius
-  - sutartis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

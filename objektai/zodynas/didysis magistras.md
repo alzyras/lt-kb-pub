@@ -19,9 +19,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - ordinas
   - sąvoka
+  - pareigybė
 amziai:
   - 'XIV'
   - 'XXI'

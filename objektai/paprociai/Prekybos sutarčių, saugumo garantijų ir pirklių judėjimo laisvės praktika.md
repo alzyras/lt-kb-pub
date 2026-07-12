@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - karalius
-  - kunigaikštis
+  - prekyba
   - paprotys
 amziai:
   - 'XV'

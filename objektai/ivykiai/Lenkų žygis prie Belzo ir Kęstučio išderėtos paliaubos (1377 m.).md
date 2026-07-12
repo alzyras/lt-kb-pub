@@ -9,6 +9,10 @@ date_start: '1377'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paliaubos
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

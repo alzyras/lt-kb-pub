@@ -11,9 +11,8 @@ date_end: '1564'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - mūšis
   - vieta
+  - upė
 amziai:
   - 'XIII'
   - 'XVI'

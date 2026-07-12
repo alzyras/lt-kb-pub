@@ -24,6 +24,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - pilis
 amziai:
   - 'XII'
   - 'XXI'

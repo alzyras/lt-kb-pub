@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
-  - miestas
 amziai:
   - 'XIII'
 periodo_grupes:

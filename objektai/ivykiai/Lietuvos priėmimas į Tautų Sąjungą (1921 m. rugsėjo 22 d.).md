@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - diplomatinis-įvykis
   - ivykis
-  - tauta
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

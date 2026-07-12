@@ -11,8 +11,8 @@ date_end: '1937'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
   - daiktas
-  - karas
 amziai:
   - 'XX'
 media_total_count: '0'

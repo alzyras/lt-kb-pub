@@ -10,6 +10,8 @@ date_start: '1439'
 date_end: '1451'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

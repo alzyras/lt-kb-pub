@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - unija
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

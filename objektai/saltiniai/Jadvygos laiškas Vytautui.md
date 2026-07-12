@@ -11,10 +11,7 @@ date_end: '1966'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
   - saltinis
-  - tauta
 amziai:
   - 'XIV'
   - 'XX'

@@ -12,6 +12,9 @@ date_start: '1388'
 date_end: '1395'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - pilis
   - posakis
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

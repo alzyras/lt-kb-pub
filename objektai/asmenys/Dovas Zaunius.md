@@ -11,9 +11,8 @@ date_end: '1927'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ministras
   - asmuo
-  - karas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

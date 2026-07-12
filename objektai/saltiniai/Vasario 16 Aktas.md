@@ -10,6 +10,9 @@ date_start: '1918'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XX'
   - 'XXI'

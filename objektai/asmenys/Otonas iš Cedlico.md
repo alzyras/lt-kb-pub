@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - ginklas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

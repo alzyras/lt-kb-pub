@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - karalius
   - kunigaikštis
 amziai:

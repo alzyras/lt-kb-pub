@@ -14,6 +14,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - karas
+  - sutartis
+  - mūšis
+  - ivykis
 amziai:
   - 'XVII'
 media_total_count: '0'

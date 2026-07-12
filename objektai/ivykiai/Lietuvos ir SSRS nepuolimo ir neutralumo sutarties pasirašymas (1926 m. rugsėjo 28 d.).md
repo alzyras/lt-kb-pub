@@ -11,7 +11,8 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ["sutartis"]
+  - sutartis
+  - ivykis
 amziai:
   - 'XX'
 media_total_count: '0'

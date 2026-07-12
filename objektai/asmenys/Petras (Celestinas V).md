@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - popiežius
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

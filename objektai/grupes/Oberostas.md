@@ -12,6 +12,10 @@ date_start: '1915'
 date_end: '1918'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - organizacija
+  - grupe
 amziai:
   - 'XX'
 media_total_count: '0'

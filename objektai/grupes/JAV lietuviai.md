@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - karas
-  - kraštas
-  - pinigai
+  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

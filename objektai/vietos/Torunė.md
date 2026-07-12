@@ -20,10 +20,10 @@ date_end: '1983'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - pilis
   - upė
+  - miestas
+  - vieta
 amziai:
   - 'V'
   - 'XX'

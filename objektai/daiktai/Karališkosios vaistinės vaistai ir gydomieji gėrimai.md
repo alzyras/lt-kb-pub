@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - daiktas
-  - karalius
-  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

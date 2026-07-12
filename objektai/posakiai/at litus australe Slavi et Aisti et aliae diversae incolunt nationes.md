@@ -12,7 +12,7 @@ date_end: '890'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - citata
   - posakis
 amziai:
   - 'IX'

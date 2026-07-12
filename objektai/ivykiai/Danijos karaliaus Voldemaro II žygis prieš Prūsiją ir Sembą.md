@@ -11,9 +11,8 @@ date_end: '1212'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - karalius
-  - kunigaikštis
 amziai:
   - 'XIII'
 media_total_count: '0'

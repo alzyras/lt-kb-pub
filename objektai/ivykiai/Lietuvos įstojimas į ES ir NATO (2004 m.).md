@@ -16,10 +16,8 @@ date_end: '2013'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - institucija
+  - diplomatinis-įvykis
   - ivykis
-  - valstybė
 amziai:
   - 'XX'
   - 'XXI'

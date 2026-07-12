@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

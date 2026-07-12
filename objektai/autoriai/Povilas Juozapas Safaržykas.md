@@ -9,6 +9,9 @@ date_start: '1842'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

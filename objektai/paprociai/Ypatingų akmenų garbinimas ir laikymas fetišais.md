@@ -9,6 +9,9 @@ date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - garbinimas
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

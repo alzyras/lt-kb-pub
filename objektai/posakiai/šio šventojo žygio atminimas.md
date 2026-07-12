@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - pinigai
+  - frazė
   - posakis
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

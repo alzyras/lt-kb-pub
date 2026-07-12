@@ -20,7 +20,6 @@ atnaujinta: ''
 tags:
   - grupe
   - tauta
-  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'

@@ -11,10 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
   - sąvoka
-  - teisinė-praktika
+  - politinis-terminas
 amziai:
   - 'XIX'
   - 'XXI'

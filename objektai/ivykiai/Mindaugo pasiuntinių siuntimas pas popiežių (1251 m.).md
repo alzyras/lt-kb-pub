@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - diplomatinis-įvykis
   - ivykis
-  - popiežius
-  - valdovas
 amziai:
   - 'XIII'
 media_total_count: '0'

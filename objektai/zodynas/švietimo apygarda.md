@@ -11,8 +11,8 @@ date_end: '1825'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

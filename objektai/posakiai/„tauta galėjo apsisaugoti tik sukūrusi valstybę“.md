@@ -6,10 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - frazė
   - posakis
-  - tauta
-  - valdovas
-  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

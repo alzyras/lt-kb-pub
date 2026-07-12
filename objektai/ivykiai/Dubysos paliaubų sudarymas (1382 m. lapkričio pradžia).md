@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
   - paliaubos
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

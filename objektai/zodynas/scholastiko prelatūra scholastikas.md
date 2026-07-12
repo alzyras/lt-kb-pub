@@ -11,10 +11,8 @@ date_end: '1525'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
+  - pareigybė
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

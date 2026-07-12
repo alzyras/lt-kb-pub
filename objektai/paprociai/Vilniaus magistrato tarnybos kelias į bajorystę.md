@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
-  - karalius
-  - miestas
+  - teisinė-praktika
+  - paprotys
+  - politinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

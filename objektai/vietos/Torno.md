@@ -12,8 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sutartis
   - vieta
+  - miestas
 amziai:
   - 'XV'
   - 'XXI'

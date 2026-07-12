@@ -11,7 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - vieta
+  - regionas
 amziai:
   - 'XIV'
 media_total_count: '0'

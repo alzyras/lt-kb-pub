@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
-  - vyskupas
+  - žygis
 amziai:
   - 'XIII'
 media_total_count: '0'

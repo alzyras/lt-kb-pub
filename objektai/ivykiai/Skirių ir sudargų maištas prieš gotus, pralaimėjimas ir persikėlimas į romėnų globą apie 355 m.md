@@ -9,6 +9,10 @@ date_start: '355'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sukilimas
+  - ivykis
+  - karas
 amziai:
   - 'IV'
 media_total_count: '0'

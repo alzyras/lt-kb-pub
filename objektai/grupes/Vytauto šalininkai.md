@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - pilis
-  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

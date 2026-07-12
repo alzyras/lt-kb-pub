@@ -9,6 +9,10 @@ date_start: '1293'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
+  - karas
 amziai:
   - 'XIII'
 media_total_count: '0'

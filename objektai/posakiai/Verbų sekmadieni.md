@@ -11,6 +11,9 @@ date_start: '1440'
 date_end: '1971'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - formulė
+  - posakis
 amziai:
   - 'XV'
   - 'XX'

@@ -11,10 +11,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karas
   - sąvoka
-  - tauta
+  - istorinė-sąvoka
 amziai:
   - 'XIX'
 media_total_count: '0'

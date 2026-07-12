@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - sutartis
 amziai:
   - 'XIII'
 periodo_grupes:

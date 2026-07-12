@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - socialinė-grupė
 amziai:
   - 'XVI'
 media_total_count: '0'

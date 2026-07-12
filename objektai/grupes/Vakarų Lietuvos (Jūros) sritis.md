@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
+  - kariuomenė
   - grupe
 amziai:
   - 'XX'

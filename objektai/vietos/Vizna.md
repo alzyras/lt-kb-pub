@@ -11,9 +11,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - pilis
-  - tikėjimas
   - vieta
 amziai:
   - 'XIII'

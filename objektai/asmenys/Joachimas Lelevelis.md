@@ -13,6 +13,7 @@ date_end: '1861'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - asmuo
   - mokslininkas
 amziai:

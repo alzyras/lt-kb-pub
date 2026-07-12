@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - karas
   - kraštas
-  - tauta
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

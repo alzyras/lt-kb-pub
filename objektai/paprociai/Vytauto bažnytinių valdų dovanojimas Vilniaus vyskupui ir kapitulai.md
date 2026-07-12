@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - valdovas
-  - vyskupas
   - šventė
 amziai:
   - 'XV'

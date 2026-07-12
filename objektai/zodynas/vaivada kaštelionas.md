@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - miestas
-  - sutartis
+  - pareigybė
   - sąvoka
 amziai:
   - 'XV'

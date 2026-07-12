@@ -9,6 +9,9 @@ date_start: '1805'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - istorikas
 amziai:
   - 'XIX'
 periodo_grupes:

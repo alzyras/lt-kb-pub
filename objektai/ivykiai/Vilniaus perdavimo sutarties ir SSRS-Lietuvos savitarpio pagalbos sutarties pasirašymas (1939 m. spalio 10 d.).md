@@ -14,7 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - sutartis
 amziai:
   - 'XX'

@@ -9,6 +9,9 @@ date_start: '1505'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dinastija
+  - grupe
 amziai:
   - 'XVI'
 media_total_count: '0'

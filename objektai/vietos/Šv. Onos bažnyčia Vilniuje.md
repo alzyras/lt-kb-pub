@@ -18,7 +18,6 @@ amziai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - pilis
   - valstybė
   - vieta

@@ -11,10 +11,8 @@ date_end: '1242'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
-  - karas
-  - mūšis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

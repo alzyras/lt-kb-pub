@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XVII'
 media_total_count: '0'

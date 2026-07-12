@@ -14,10 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
-  - ordinas
-  - paliaubos
+  - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XV'
   - 'XXI'

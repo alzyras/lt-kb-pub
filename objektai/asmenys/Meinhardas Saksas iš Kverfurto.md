@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - pilis
-  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:

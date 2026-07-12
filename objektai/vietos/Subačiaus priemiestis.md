@@ -10,6 +10,9 @@ date_start: '1748'
 date_end: '1749'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestelis
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

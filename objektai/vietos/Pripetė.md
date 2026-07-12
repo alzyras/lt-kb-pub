@@ -13,8 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - vieta
+  - upė
 amziai:
   - 'XX'
   - 'XXI'

@@ -11,6 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ežeras
+  - jūra
   - valstybė
   - vieta
 amziai:

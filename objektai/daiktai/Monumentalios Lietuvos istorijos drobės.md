@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - institucija
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

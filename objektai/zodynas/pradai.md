@@ -11,10 +11,8 @@ date_end: '1894'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - sukilimas
   - sąvoka
-  - tauta
+  - politinis-terminas
 amziai:
   - 'XIX'
 media_total_count: '0'

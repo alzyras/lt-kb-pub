@@ -12,6 +12,10 @@ date_start: '1835'
 date_end: '1851'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - autorius
+  - redaktorius
 amziai:
   - 'XIX'
 periodo_grupes:

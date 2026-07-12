@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

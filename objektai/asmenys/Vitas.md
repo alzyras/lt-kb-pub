@@ -10,8 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - ordinas
   - vyskupas
 amziai: []
 periodo_grupes: []

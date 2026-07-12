@@ -9,6 +9,9 @@ date_start: '1058'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - asmuo
 amziai:
   - 'XI'
 periodo_grupes:

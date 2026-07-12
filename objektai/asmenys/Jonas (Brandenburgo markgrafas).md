@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-  - tikėjimas
   - valdovas
 amziai:
   - 'XIII'

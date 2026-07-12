@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
-  - reforma
   - saltinis
 amziai:
   - 'XX'

@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - miestas
-  - pilis
+  - vyskupas
+  - kunigaikštis
+  - bajoras
 amziai:
   - 'XIV'
 periodo_grupes:

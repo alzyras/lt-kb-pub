@@ -12,7 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
+  - karalius
+  - kunigaikštis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

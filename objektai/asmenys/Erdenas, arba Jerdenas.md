@@ -13,7 +13,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - miestas
 amziai:
   - 'XII'
 periodo_grupes:

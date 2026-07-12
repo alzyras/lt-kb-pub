@@ -11,6 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - mūšis
+  - karas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

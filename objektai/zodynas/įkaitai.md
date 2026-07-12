@@ -11,9 +11,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ordinas
   - sąvoka
+  - teisinis-terminas
+  - socialinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'

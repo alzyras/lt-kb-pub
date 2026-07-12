@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - kraštas
-  - sutartis
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

@@ -14,8 +14,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
-  - pinigai
+  - popiežius
 amziai:
   - 'XII'
 periodo_grupes:

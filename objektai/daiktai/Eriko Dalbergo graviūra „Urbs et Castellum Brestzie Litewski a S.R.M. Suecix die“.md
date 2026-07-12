@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - miestas
 amziai:
   - 'XVII'
 media_total_count: '0'

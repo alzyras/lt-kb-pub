@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
 amziai:
   - 'XIII'
   - 'XIV'

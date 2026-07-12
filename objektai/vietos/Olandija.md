@@ -12,6 +12,7 @@ date_end: '1795'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valstybė
   - vieta
 amziai:
   - 'XVI'

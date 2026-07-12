@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - mūšis
   - ordinas
 amziai:
   - 'XX'

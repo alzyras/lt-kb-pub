@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dinastija
-  - dokumentas
+  - istorikas
+  - mokslininkas
 amziai:
   - 'XX'
 periodo_grupes:

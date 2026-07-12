@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - karas
-  - miestas
-  - tikėjimas
 amziai:
   - 'XIV'
 media_total_count: '0'

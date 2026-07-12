@@ -11,6 +11,7 @@ date_end: '1946'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
 amziai:
   - 'XX'

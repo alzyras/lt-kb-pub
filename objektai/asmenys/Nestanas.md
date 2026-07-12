@@ -9,6 +9,9 @@ date_start: '1340'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

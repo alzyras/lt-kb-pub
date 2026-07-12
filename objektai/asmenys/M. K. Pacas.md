@@ -11,8 +11,8 @@ date_end: '1665'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - miestas
 amziai:
   - 'XVII'
 periodo_grupes:

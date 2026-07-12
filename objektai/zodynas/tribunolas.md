@@ -13,10 +13,8 @@ date_end: '1823'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigas
-  - seimas
   - sąvoka
+  - teisinis-terminas
 amziai:
   - 'XVI'
   - 'XIX'

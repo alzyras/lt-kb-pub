@@ -14,6 +14,7 @@ tags:
   - autorius
   - dvasininkas
   - mokslininkas
+  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:

@@ -12,9 +12,6 @@ date_end: '1601'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - sutartis
-  - teisinė-praktika
   - vieta
 amziai:
   - 'XVI'

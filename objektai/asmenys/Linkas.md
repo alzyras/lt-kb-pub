@@ -11,9 +11,8 @@ date_end: '1265'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - miestas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

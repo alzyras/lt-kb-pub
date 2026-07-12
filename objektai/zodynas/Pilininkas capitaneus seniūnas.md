@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - mūšis
-  - pilis
   - sąvoka
+  - pareigybė
 amziai:
   - 'XIV'
 media_total_count: '0'

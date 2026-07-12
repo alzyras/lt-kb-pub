@@ -11,6 +11,7 @@ date_end: '1873'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kalbininkas
   - autorius
 amziai:
   - 'XIX'

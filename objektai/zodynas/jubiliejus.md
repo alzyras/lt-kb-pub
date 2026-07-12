@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
+  - religinis-terminas
   - sąvoka
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -9,6 +9,9 @@ date_start: '1219'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

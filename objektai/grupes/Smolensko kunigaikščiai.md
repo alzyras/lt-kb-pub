@@ -11,6 +11,9 @@ date_start: '1386'
 date_end: '1404'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dinastija
+  - grupe
 amziai:
   - 'XIV'
   - 'XV'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - politinis-terminas
   - sąvoka
-  - tauta
-  - valdovas
+  - istorinė-sąvoka
 amziai:
   - 'XVIII'
 media_total_count: '0'

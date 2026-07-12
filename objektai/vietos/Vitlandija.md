@@ -10,6 +10,9 @@ date_start: '1224'
 date_end: '1246'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
+  - regionas
 amziai:
   - 'XIII'
 media_total_count: '0'

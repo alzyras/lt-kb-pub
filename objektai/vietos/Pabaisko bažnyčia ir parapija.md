@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - kunigas
+  - šventvietė
   - vieta
 amziai:
   - 'XV'

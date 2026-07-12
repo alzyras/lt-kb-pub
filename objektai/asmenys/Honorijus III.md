@@ -9,6 +9,9 @@ date_start: '1224'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - popiežius
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -18,6 +18,7 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
+  - asmuo
 amziai:
   - 'XV'
   - 'XVI'

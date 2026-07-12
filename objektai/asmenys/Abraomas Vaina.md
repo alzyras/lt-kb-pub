@@ -10,6 +10,9 @@ date_start: '1710'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - asmuo
 amziai:
   - 'XVIII'
 periodo_grupes:

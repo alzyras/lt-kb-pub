@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
-  - pilis
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIII'

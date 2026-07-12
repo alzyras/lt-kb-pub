@@ -9,6 +9,9 @@ date_start: '1785'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-terminas
+  - sąvoka
 amziai:
   - 'XVIII'
 media_total_count: '0'

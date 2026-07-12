@@ -12,10 +12,8 @@ date_end: '1902'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - mokslininkas
+  - citata
   - posakis
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

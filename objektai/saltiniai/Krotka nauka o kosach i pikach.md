@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - sukilimas
+  - dokumentas
 amziai:
   - 'XVIII'
 media_total_count: '0'

@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - pilis
   - vyskupas
 amziai:
   - 'XIV'

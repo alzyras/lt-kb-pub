@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - ordinas
-  - pilis
-  - šventė
 amziai:
   - 'XIII'
 periodo_grupes:

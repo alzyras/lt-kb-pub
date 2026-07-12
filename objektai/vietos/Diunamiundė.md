@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
-  - teisinė-praktika
   - vieta
 amziai:
   - 'XIV'

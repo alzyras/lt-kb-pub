@@ -11,6 +11,7 @@ date_end: '1166'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - vieta
 amziai:
   - 'XI'

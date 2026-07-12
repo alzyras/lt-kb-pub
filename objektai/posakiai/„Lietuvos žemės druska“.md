@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kraštas
+  - frazė
   - posakis
 amziai:
   - 'XX'

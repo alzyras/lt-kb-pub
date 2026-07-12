@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
-  - ežeras
 amziai:
   - 'XV'
 periodo_grupes:

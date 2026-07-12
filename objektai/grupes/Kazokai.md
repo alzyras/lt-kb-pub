@@ -15,7 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
+  - kariuomenė
 amziai:
   - 'XVII'
   - 'XXI'

@@ -11,10 +11,8 @@ date_end: '1621'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - kunigas
-  - ordinas
+  - vieta
+  - kraštas
 amziai:
   - 'XV'
   - 'XVII'

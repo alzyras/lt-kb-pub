@@ -11,6 +11,9 @@ date_start: '1333'
 date_end: '1345'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-įvykis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

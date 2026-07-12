@@ -11,10 +11,8 @@ date_end: '1580'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - giminė
   - grupe
-  - miestas
-  - reforma
-  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

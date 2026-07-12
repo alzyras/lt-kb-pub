@@ -13,7 +13,7 @@ date_end: '1283'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - upė
   - vieta
 amziai:
   - 'XIII'

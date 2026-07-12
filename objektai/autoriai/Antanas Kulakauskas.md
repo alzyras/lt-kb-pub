@@ -15,6 +15,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - ministras
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

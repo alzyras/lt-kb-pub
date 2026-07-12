@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - mūšis
-  - schema
 amziai:
   - 'XIX'
 periodo_grupes:

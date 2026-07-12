@@ -11,10 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
   - sąvoka
+  - teisinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

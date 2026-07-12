@@ -9,6 +9,8 @@ date_start: '1323'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XIV'
 media_total_count: '0'

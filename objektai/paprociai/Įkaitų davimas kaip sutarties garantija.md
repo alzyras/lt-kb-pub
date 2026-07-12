@@ -13,6 +13,9 @@ date_start: '1383'
 date_end: '1396'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,6 +10,9 @@ date_start: '1354'
 date_end: '1451'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XIV'
   - 'XV'

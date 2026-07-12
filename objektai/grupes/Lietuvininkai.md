@@ -9,6 +9,9 @@ date_start: '1919'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XX'
 media_total_count: '0'

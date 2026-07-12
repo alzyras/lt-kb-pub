@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - karas
-  - ordinas
+  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:

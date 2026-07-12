@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - diplomatinis-įvykis
   - ivykis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIV'
 media_total_count: '0'

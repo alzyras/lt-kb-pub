@@ -9,6 +9,10 @@ date_start: '1414'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - kunigas
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

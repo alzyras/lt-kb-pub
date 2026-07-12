@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - suvažiavimas
   - ivykis
-  - mokslininkas
   - seimas
 amziai:
   - 'XX'

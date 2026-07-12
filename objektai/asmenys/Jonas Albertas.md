@@ -10,6 +10,9 @@ date_start: '1490'
 date_end: '1492'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - asmuo
 amziai:
   - 'XV'
 periodo_grupes:

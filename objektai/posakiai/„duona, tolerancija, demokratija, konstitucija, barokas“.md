@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - mokslininkas
-  - ordinas
+  - formulė
   - posakis
 amziai:
   - 'XVIII'

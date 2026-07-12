@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigas
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:

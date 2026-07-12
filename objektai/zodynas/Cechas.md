@@ -10,6 +10,9 @@ date_start: '1101'
 date_end: '1584'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ekonominis-terminas
+  - sąvoka
 amziai:
   - 'XII'
   - 'XVI'

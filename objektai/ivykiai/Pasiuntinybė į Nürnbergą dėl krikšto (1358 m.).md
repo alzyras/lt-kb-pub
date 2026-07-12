@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - ordinas
-  - upė
 amziai:
   - 'XIV'
 media_total_count: '0'

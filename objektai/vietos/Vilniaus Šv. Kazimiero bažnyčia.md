@@ -11,6 +11,7 @@ date_end: '1586'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - šventvietė
   - vieta
 amziai:
   - 'XVI'

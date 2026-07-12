@@ -16,7 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - mūšis
   - pilis
   - vieta
 amziai:

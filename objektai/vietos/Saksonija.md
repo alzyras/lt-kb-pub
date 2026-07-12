@@ -14,9 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
   - vieta
+  - regionas
 amziai:
   - 'XVII'
   - 'XXI'

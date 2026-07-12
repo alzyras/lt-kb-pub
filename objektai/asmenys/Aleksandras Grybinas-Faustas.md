@@ -6,6 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
+  - sukilėlis
   - asmuo
 media_total_count: '0'
 media_primary_thumb_url: ''

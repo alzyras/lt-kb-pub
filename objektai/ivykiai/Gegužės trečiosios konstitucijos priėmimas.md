@@ -12,10 +12,8 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
   - ivykis
-  - karalius
+  - seimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

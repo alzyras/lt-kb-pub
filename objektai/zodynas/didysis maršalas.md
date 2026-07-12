@@ -11,7 +11,7 @@ date_end: '1312'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - pareigybė
   - sąvoka
 amziai:
   - 'XIV'

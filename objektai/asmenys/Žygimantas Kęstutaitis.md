@@ -18,7 +18,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - valstybė
 amziai:
   - 'XIV'
   - 'XV'

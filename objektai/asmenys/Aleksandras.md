@@ -15,7 +15,7 @@ tags:
   - asmuo
   - karvedys
   - kunigaikštis
-  - mūšis
+  - valdovas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

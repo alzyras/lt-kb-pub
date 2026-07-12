@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
+  - karas
   - ivykis
-  - kunigaikštis
-  - miestas
 amziai:
   - 'XIV'
 media_total_count: '0'

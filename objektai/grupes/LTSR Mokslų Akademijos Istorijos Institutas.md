@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - mokslininkas
   - tauta
 amziai:
   - 'XX'

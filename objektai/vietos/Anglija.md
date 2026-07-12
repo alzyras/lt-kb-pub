@@ -18,7 +18,6 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sutartis
   - valstybė
   - vieta
 amziai:

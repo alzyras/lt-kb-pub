@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - paprotys
   - šventė
 media_total_count: '0'

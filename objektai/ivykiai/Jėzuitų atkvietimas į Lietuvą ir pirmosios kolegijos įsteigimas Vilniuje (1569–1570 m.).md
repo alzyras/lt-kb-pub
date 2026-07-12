@@ -11,8 +11,8 @@ date_end: '1570'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kultūrinis-įvykis
   - ivykis
-  - kraštas
 amziai:
   - 'XVI'
 media_total_count: '0'

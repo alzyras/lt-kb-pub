@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - simbolis
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

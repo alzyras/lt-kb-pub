@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestelis
   - vieta
 amziai:
   - 'XV'

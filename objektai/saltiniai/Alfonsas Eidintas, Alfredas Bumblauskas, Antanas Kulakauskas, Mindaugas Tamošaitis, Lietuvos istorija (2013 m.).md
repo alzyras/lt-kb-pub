@@ -12,6 +12,8 @@ date_start: '1009'
 date_end: '2012'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XI'
   - 'XXI'

@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - mokslininkas
   - saltinis
 amziai:
   - 'XVI'

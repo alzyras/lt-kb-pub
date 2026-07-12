@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - kraštas
 amziai:
   - 'XX'
 periodo_grupes:

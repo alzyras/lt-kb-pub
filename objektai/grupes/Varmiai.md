@@ -16,7 +16,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
   - ordinas
 amziai:
   - 'XIII'

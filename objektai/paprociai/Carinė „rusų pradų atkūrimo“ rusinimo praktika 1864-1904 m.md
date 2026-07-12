@@ -11,9 +11,7 @@ date_end: '1904'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - paprotys
-  - tauta
   - tikėjimas
 amziai:
   - 'XIX'

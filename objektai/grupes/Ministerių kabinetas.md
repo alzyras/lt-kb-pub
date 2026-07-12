@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - seimas
   - tauta
 amziai:
   - 'XX'

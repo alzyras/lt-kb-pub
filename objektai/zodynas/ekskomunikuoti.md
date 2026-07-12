@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - popiežius
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

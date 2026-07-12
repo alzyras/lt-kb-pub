@@ -19,6 +19,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - vyskupas
+  - kunigaikštis
+  - kunigas
 amziai:
   - 'XIII'
 periodo_grupes:

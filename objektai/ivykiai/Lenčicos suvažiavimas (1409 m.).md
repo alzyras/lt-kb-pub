@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

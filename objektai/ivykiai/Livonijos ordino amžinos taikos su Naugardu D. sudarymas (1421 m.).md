@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
-  - ordinas
-  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'

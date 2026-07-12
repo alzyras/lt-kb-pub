@@ -10,6 +10,8 @@ date_start: '1562'
 date_end: '1569'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

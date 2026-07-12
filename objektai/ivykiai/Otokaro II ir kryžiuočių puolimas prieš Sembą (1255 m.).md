@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
+  - karas
   - ivykis
-  - karalius
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - sutartis
+  - diplomatinis-įvykis
 amziai:
   - 'XX'
   - 'XXI'

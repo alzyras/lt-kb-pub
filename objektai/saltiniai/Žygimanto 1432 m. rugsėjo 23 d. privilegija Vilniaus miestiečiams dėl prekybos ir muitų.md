@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XV'
 media_total_count: '0'

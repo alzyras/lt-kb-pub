@@ -21,8 +21,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - vieta
+  - pilis
+  - upė
 amziai:
   - 'XIII'
   - 'XXI'

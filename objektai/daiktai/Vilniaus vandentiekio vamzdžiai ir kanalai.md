@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - miestas
-  - ordinas
+  - įrankis
 amziai:
   - 'XVI'
 media_total_count: '0'

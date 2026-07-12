@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valstybė
   - miestas
   - vieta
 media_total_count: '0'

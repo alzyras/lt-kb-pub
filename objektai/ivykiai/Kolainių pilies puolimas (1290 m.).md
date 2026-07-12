@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

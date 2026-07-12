@@ -15,10 +15,8 @@ date_end: '1861'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - popiežius
   - saltinis
+  - dokumentas
 amziai:
   - 'XIII'
   - 'XIX'

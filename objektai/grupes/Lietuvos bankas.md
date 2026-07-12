@@ -12,6 +12,7 @@ date_end: '1995'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
 amziai:
   - 'XX'

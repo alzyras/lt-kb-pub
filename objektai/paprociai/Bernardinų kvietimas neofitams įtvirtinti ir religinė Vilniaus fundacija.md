@@ -12,9 +12,6 @@ date_end: '1492'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
-  - ordinas
   - paprotys
 amziai:
   - 'XV'

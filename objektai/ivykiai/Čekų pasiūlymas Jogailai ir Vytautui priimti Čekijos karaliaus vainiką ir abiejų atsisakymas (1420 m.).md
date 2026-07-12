@@ -9,6 +9,11 @@ date_start: '1420'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karūnacija
+  - diplomatinis-įvykis
+  - ivykis
+  - politinis-sprendimas
 amziai:
   - 'XV'
 media_total_count: '0'

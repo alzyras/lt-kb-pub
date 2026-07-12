@@ -9,6 +9,10 @@ date_start: '1566'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - unija
+  - seimas
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

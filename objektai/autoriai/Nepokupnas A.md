@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - autorius
-  - šeima
 amziai:
   - 'XX'
 periodo_grupes:

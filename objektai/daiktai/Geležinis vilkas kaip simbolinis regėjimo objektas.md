@@ -7,9 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - pilis
-  - valstybė
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

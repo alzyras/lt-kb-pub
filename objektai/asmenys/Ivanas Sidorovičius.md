@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
 amziai:
   - 'XV'
 periodo_grupes:

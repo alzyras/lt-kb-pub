@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - moneta
   - daiktas
-  - karalius
 amziai:
   - 'XVI'
 media_total_count: '0'

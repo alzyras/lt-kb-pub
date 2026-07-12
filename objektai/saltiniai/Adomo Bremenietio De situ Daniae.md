@@ -9,6 +9,8 @@ date_start: '1009'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XI'
 media_total_count: '0'

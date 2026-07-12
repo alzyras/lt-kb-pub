@@ -9,6 +9,9 @@ date_start: '1618'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - aukojimas
+  - paprotys
 amziai:
   - 'XVII'
 media_total_count: '0'

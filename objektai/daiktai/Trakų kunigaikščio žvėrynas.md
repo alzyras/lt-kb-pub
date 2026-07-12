@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - ežeras
-  - kunigaikštis
-  - miestas
 amziai:
   - 'XIV'
 media_total_count: '0'

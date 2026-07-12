@@ -6,6 +6,8 @@ saltiniai:
   - 'Teodoras Narbutas, Lietuvių tautos istorija, t. 2 (1995 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - daiktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

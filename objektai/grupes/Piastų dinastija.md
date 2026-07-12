@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - teisinė-praktika
-  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

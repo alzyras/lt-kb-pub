@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
-  - tauta
 amziai:
   - 'XIII'
 periodo_grupes:

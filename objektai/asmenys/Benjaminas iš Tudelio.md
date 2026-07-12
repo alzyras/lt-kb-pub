@@ -10,6 +10,8 @@ date_start: '1160'
 date_end: '1257'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - asmuo
 amziai:
   - 'XII'
   - 'XIII'

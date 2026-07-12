@@ -13,6 +13,7 @@ date_end: '1646'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - asmuo
 amziai:
   - 'XVII'

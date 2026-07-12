@@ -11,6 +11,9 @@ date_start: '1855'
 date_end: '1858'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - grupe
 amziai:
   - 'XIX'
 media_total_count: '0'

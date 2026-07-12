@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
-  - elekcija
+  - istorinė-sąvoka
+  - teisinis-terminas
   - sąvoka
-  - tauta
 amziai:
   - 'XXI'
 media_total_count: '0'

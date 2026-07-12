@@ -12,6 +12,8 @@ atnaujinta: ''
 tags:
   - politinis-sprendimas
   - reforma
+  - seimas
+  - ivykis
 amziai:
   - 'XX'
 media_total_count: '0'

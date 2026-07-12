@@ -12,10 +12,10 @@ date_end: '1225'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - asmuo
   - kunigaikštis
-  - ordinas
-  - sutartis
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:

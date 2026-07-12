@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - valdovas
+  - politinis-sprendimas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -12,9 +12,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - religinis-įvykis
+  - karas
+  - diplomatinis-įvykis
 amziai:
   - 'XIII'
 media_total_count: '0'

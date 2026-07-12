@@ -24,6 +24,7 @@ tags:
   - upė
   - valstybė
   - vieta
+  - žemė
 media_total_count: '8'
 media_primary_thumb_url: 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Vilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg/1920px-Vilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg'
 media_primary_canonical_url: 'https://commons.wikimedia.org/wiki/File%3AVilnia%2C_Vialla._%D0%92%D1%96%D0%BB%D1%8C%D0%BD%D1%8F%2C_%D0%92%D1%8F%D0%BB%D1%8C%D0%BB%D1%8F_%28S._Fleury%2C_1895%29.jpg'

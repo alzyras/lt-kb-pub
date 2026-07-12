@@ -11,9 +11,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - karas
   - mūšis
+  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

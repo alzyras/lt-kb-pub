@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dinastija
   - karalius
-  - tauta
+  - valdovas
 amziai:
   - 'XVII'
   - 'XVIII'

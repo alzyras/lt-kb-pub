@@ -11,6 +11,9 @@ date_start: '1388'
 date_end: '1390'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

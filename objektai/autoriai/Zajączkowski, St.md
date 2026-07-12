@@ -10,7 +10,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - sutartis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

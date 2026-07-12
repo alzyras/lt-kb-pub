@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - institucija
-  - miestas
 amziai:
   - 'XX'
 periodo_grupes:

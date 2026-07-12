@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - transportas
+  - daiktas
 amziai:
   - 'XVI'
 media_total_count: '0'

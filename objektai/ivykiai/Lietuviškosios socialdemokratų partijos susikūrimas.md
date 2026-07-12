@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - tauta
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

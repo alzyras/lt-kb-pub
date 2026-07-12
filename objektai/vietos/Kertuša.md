@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - upė
 amziai:
   - 'XX'
 media_total_count: '0'

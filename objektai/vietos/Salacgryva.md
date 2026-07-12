@@ -12,8 +12,8 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - uostas
 amziai:
   - 'XVI'
   - 'XX'

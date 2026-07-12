@@ -11,10 +11,8 @@ date_end: '1621'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - mūšis
+  - frazė
   - posakis
-  - upė
 amziai:
   - 'XVI'
   - 'XVII'

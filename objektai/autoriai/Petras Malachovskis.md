@@ -9,6 +9,9 @@ date_start: '1780'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - bajoras
+  - autorius
 amziai:
   - 'XVIII'
 periodo_grupes:

@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - ordinas
-  - sutartis
+  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:

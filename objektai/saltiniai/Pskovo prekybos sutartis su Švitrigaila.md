@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - sutartis
 amziai:
   - 'XV'
 media_total_count: '0'

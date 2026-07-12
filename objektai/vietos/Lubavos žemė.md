@@ -12,9 +12,7 @@ date_end: '1234'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - žemė
   - vieta
 amziai:
   - 'XIII'

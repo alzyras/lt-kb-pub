@@ -28,10 +28,9 @@ date_end: '1580'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - kraštas
-  - kunigaikštis
   - vieta
+  - upė
 amziai:
   - 'XII'
   - 'XVI'

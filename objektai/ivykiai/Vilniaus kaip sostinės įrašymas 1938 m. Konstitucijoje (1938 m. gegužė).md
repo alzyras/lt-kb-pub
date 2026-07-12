@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
+  - politinis-sprendimas
   - ivykis
 amziai:
   - 'XX'

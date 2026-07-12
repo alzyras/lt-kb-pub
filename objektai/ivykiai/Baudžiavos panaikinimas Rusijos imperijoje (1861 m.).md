@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - institucija
   - ivykis
   - reforma
 media_total_count: '0'

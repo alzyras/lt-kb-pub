@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - krikštas
-  - ordinas
-  - tikėjimas
+  - karvedys
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

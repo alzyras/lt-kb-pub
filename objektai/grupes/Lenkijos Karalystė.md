@@ -14,6 +14,10 @@ date_start: '1342'
 date_end: '1815'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kariuomenė
+  - bajorija
+  - grupe
 amziai:
   - 'XIV'
   - 'XIX'

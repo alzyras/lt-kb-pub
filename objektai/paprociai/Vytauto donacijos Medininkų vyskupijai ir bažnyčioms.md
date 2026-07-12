@@ -11,10 +11,8 @@ date_end: '1421'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
   - paprotys
   - teisinė-praktika
-  - vyskupas
 amziai:
   - 'XV'
 media_total_count: '0'

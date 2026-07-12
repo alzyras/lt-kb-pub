@@ -6,8 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
   - valstybė
   - vieta
 media_total_count: '0'

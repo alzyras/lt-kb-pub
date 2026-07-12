@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
   - mūšis
 media_total_count: '0'
 media_primary_thumb_url: ''

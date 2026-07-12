@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - mūšis
-  - pilis
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

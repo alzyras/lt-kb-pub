@@ -28,6 +28,7 @@ media_all_json: |-
   []
 tags:
   - vieta
+  - regionas
 ---
 # Kariela
 

@@ -10,6 +10,9 @@ date_start: '1819'
 date_end: '1826'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kapavietė
+  - vieta
 amziai:
   - 'XIX'
 media_total_count: '0'

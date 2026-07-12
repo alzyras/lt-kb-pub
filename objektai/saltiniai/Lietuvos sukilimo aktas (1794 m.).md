@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - saltinis
-  - sukilimas
-  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'

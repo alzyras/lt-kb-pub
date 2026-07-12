@@ -12,8 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - karas
+  - karys
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

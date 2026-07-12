@@ -5,6 +5,9 @@ saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - grupe
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

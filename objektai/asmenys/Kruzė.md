@@ -9,6 +9,9 @@ date_start: '1835'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

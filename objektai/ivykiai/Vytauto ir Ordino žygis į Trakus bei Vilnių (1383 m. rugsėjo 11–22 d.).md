@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - ordinas
-  - pilis
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

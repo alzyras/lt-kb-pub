@@ -26,10 +26,8 @@ date_end: '1654'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
-  - kunigaikštis
   - miestas
+  - vieta
 amziai:
   - 'XIII'
   - 'XVII'

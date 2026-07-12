@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - miestas
   - pilis
-  - sutartis
   - vieta
 amziai:
   - 'XIII'

@@ -13,6 +13,11 @@ date_start: '1227'
 date_end: '1322'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-terminas
+  - karinis-terminas
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIII'
   - 'XIV'

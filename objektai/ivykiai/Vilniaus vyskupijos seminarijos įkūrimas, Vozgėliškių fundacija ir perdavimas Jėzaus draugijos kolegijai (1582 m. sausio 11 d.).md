@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - kunigas
+  - religinis-įvykis
 amziai:
   - 'XVI'
 media_total_count: '0'

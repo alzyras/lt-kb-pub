@@ -14,8 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - kraštas
-  - tauta
+  - vyskupas
+  - popiežius
 amziai:
   - 'XV'
 periodo_grupes:

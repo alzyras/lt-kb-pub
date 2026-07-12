@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XXX'

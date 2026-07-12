@@ -11,6 +11,7 @@ date_end: '1239'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
 amziai:
   - 'XIII'

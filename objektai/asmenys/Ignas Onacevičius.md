@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
   - mokslininkas
-  - ordinas
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

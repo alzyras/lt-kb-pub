@@ -12,10 +12,8 @@ date_end: '1586'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - reforma
+  - istorinė-sąvoka
   - sąvoka
-  - unija
 amziai:
   - 'XVI'
 media_total_count: '0'

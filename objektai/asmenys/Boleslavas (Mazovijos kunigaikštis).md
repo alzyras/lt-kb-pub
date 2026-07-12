@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - tikėjimas
 amziai:
   - 'XIV'
 periodo_grupes:

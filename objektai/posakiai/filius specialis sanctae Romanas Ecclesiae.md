@@ -11,9 +11,8 @@ date_end: '1253'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - popiežius
+  - formulė
   - posakis
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

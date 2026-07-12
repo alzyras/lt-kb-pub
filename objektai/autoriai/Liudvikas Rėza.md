@@ -10,6 +10,9 @@ date_start: '1818'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
+  - kalbininkas
 amziai:
   - 'XIX'
 periodo_grupes:

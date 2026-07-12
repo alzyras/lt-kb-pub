@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - didikas
   - ginklas
-  - karalius
 amziai:
   - 'XIV'
 media_total_count: '0'

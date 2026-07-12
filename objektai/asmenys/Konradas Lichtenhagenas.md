@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
+  - karvedys
   - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

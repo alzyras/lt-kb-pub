@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
+  - kunigaikštis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

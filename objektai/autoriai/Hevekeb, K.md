@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - mokslininkas
 amziai:
   - 'XIX'
   - 'XX'

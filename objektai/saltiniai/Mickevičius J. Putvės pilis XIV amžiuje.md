@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - pilis
   - saltinis
-  - upė
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -14,10 +14,8 @@ date_end: '1600'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - kraštas
-  - seimas
-  - unija
 amziai:
   - 'XVI'
 media_total_count: '0'

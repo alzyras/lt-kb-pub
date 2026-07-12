@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

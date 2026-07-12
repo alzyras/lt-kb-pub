@@ -11,10 +11,9 @@ date_end: '1435'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
-  - ordinas
+  - istorinė-sąvoka
   - sąvoka
+  - religinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

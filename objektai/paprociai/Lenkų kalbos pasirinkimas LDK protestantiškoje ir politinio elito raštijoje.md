@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - paprotys
-  - reforma
+  - socialinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

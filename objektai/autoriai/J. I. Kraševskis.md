@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
+  - redaktorius
   - autorius
-  - karas
-  - tauta
-  - unija
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - teisinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

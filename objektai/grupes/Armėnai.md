@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigaikštis
+  - tauta
 amziai:
   - 'XIII'
 media_total_count: '0'

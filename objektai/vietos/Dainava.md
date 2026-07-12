@@ -11,7 +11,7 @@ date_end: '1259'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - kraštas
   - vieta
 amziai:
   - 'XIII'

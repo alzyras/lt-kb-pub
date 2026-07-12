@@ -13,7 +13,7 @@ tags:
   - asmuo
   - didikas
   - karalius
-  - krikštas
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

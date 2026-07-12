@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - papuošalas
 amziai:
   - 'XIV'
 periodo_grupes:

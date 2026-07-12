@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - ordinas
-  - pilis
-  - tauta
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

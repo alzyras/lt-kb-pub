@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - kraštas
-  - miestas
 amziai:
   - 'XIX'
 media_total_count: '0'

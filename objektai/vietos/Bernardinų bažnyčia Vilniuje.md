@@ -10,6 +10,9 @@ date_start: '1500'
 date_end: '1501'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šventvietė
+  - vieta
 amziai:
   - 'XV'
   - 'XVI'

@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
   - karalius
-  - miestas
 amziai:
   - 'XVIII'
 periodo_grupes:

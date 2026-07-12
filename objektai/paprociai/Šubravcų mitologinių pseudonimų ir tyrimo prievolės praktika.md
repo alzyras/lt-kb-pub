@@ -10,6 +10,9 @@ date_start: '1816'
 date_end: '1822'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinė-praktika
+  - paprotys
 amziai:
   - 'XIX'
 media_total_count: '0'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - pareigybė
   - sąvoka
-  - tikėjimas
-  - valstybė
 amziai:
   - 'XIII'
 media_total_count: '0'

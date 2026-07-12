@@ -21,6 +21,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - kaimas
   - vieta
 ---
 # Pašušvis

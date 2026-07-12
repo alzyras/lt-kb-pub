@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - buities-daiktas
+  - daiktas
 amziai:
   - 'XVI'
 media_total_count: '0'

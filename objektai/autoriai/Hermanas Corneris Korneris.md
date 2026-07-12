@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
-  - tikėjimas
+  - dvasininkas
 amziai:
   - 'XI'
 periodo_grupes:

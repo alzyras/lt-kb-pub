@@ -13,7 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
+  - karalienė
+  - karalius
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

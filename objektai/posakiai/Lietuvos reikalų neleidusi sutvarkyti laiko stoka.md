@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - diplomatas
-  - karas
   - posakis
+  - frazė
 amziai:
   - 'XIX'
 media_total_count: '0'

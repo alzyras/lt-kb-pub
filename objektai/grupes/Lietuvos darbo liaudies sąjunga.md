@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
+  - politinė-grupė
   - grupe
-  - seimas
 amziai:
   - 'XX'
 media_total_count: '0'

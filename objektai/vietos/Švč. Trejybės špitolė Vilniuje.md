@@ -16,9 +16,7 @@ amziai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - teisinė-praktika
   - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''

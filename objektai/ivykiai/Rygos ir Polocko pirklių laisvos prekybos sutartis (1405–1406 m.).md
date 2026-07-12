@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
   - sutartis
 amziai:
   - 'XV'

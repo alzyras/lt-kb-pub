@@ -14,10 +14,10 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - grupe
   - institucija
-  - mokslininkas
+  - tauta
+  - organizacija
 amziai:
   - 'XX'
   - 'XXI'

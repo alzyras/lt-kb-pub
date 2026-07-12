@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - vieta
+  - gamtinis-objektas
 amziai:
   - 'XIII'
 media_total_count: '0'

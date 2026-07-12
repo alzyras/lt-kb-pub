@@ -11,6 +11,7 @@ date_end: '1411'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
 amziai:
   - 'XV'

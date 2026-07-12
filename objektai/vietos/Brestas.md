@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - mūšis
-  - tauta
+  - miestas
   - vieta
 amziai:
   - 'XIV'

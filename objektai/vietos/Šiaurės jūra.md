@@ -7,6 +7,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - jūra
+  - upė
   - miestas
   - vieta
 media_total_count: '0'

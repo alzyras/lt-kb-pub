@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - saltinis
-  - šeima
 amziai:
   - 'XV'
 media_total_count: '0'

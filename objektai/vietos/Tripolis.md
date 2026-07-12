@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - ordinas
-  - popiežius
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

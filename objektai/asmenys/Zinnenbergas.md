@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
+  - karys
 amziai:
   - 'XIV'
 periodo_grupes:

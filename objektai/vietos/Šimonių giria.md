@@ -12,6 +12,7 @@ date_end: '1949'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gamtinis-objektas
   - vieta
 amziai:
   - 'XX'

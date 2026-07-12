@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karalius
-  - valdovas
 amziai:
   - 'XVIII'
 media_total_count: '0'

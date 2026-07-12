@@ -10,6 +10,10 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinis-terminas
+  - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'

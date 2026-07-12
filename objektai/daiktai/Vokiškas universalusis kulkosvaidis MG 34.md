@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - karas
-  - miestas
 amziai:
   - 'XX'
 media_total_count: '0'

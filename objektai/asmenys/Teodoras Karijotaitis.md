@@ -12,6 +12,7 @@ date_end: '1414'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
 amziai:
   - 'XIV'

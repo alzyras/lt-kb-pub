@@ -13,6 +13,8 @@ date_end: '1076'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
+  - metraštininkas
   - autorius
 amziai:
   - 'XI'

@@ -12,6 +12,9 @@ date_start: '1978'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
+  - miestas
 amziai:
   - 'XX'
   - 'XXI'

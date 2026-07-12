@@ -15,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - seimas
   - sukilimas
 amziai:

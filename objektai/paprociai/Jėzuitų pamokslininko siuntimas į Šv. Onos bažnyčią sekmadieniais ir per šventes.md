@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - paprotys
   - šventė
 media_total_count: '0'

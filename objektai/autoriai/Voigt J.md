@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dokumentas
-  - ginklas
-  - pilis
+  - istorikas
 amziai:
   - 'XIII'
 periodo_grupes:

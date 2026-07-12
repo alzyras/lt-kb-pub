@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - mokslininkas
-  - šventė
 amziai:
   - 'XX'
 media_total_count: '0'

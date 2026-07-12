@@ -16,6 +16,8 @@ variantai:
   - 'Molotovo-Ribentropo paktas'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 amziai:
   - 'XX'
 media_total_count: '0'

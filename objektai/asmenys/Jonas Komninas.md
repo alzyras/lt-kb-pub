@@ -9,6 +9,9 @@ date_start: '1121'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XII'
 periodo_grupes:

@@ -16,9 +16,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
-  - paliaubos
   - vieta
+  - miestas
 amziai:
   - 'XIV'
   - 'XXI'

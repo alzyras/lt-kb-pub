@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
-  - tauta
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

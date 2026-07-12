@@ -9,6 +9,10 @@ date_start: '1494'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinis-terminas
+  - sąvoka
+  - politinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

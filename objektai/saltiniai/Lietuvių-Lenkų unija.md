@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - unija
 amziai:
   - 'XIX'
   - 'XX'

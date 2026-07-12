@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalienė
   - asmuo
-  - institucija
   - karalius
-  - kraštas
 amziai:
   - 'XVI'
 periodo_grupes:

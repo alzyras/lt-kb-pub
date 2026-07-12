@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ežeras
-  - mūšis
   - vieta
 amziai:
   - 'XX'

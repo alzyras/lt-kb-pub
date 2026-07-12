@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - kraštas
-  - ordinas
-  - tauta
+  - metraštininkas
 amziai:
   - 'XIII'
 periodo_grupes:

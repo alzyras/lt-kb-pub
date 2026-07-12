@@ -11,8 +11,6 @@ date_end: '1395'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - kunigaikštis
   - paprotys
 amziai:
   - 'XIV'

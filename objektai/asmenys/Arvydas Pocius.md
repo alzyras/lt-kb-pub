@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - ginklas
-  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
   - mūšis
   - sukilimas
 media_total_count: '0'

@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - miestelis
 amziai:
   - 'XX'
 media_total_count: '0'

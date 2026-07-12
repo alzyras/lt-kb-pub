@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - mūšis
   - ivykis
-  - karalius
-  - miestas
 amziai:
   - 'XIII'
   - 'XV'

@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - invazija
   - ivykis
-  - ordinas
+  - žygis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,6 +13,10 @@ date_start: '1183'
 date_end: '1387'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valstybė
+  - kraštas
+  - vieta
 amziai:
   - 'XII'
   - 'XIV'

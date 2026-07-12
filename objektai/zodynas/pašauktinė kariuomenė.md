@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - sąvoka
+  - karinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

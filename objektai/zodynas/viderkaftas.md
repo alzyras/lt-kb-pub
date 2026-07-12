@@ -6,7 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - mokestis
+  - ekonominis-terminas
   - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''

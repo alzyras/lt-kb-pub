@@ -10,6 +10,9 @@ date_start: '1263'
 date_end: '1265'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XIII'
 periodo_grupes:

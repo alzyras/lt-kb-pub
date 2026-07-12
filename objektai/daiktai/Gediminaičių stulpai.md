@@ -14,9 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - dinastija
-  - institucija
-  - tauta
 amziai:
   - 'XIV'
   - 'XXI'

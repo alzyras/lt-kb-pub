@@ -9,6 +9,9 @@ date_start: '1584'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XVI'
 media_total_count: '0'

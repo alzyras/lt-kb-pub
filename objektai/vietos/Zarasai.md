@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - vyskupas
+  - miestelis
 amziai:
   - 'XX'
   - 'XXI'

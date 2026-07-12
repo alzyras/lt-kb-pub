@@ -14,6 +14,7 @@ date_end: '1995'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XX'

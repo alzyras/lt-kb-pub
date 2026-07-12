@@ -11,7 +11,7 @@ date_end: '1935'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - frazė
   - posakis
 amziai:
   - 'XX'

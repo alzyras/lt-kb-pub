@@ -11,9 +11,8 @@ date_end: '1933'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - posakis
-  - unija
+  - frazė
 amziai:
   - 'XVI'
   - 'XX'

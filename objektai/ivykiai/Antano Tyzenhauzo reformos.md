@@ -12,9 +12,7 @@ date_end: '1773'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - ordinas
   - reforma
 amziai:
   - 'XVIII'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - miestas
   - upė
-  - valdovas
   - vieta
 amziai:
   - 'XVI'

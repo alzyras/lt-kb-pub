@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
+  - citata
   - posakis
 amziai:
   - 'XIV'

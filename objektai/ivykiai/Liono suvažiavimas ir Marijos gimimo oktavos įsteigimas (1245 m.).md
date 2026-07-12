@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - seimas
   - ivykis
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

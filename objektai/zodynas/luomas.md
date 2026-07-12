@@ -14,10 +14,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - miestas
   - sąvoka
-  - tauta
+  - socialinis-terminas
 amziai:
   - 'XIV'
   - 'XXI'

@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - ordinas
-  - pilis
+  - pareigūnas
+  - karvedys
 amziai:
   - 'XIV'
   - 'XV'

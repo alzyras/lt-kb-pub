@@ -11,10 +11,9 @@ date_end: '1440'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - kunigaikštis
-  - miestas
+  - religinis-terminas
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIV'
   - 'XV'

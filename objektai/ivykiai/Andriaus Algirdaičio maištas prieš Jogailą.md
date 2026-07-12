@@ -12,6 +12,10 @@ date_start: '1381'
 date_end: '1387'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sukilimas
+  - ivykis
+  - konfliktas
 amziai:
   - 'XIV'
 media_total_count: '0'

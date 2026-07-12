@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - elekcija
-  - tauta
+  - simbolis
 amziai:
   - 'XIV'
 media_total_count: '0'

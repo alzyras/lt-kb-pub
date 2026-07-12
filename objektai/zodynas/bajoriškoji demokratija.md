@@ -12,8 +12,9 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - sąvoka
+  - politinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XVIII'
   - 'XXI'

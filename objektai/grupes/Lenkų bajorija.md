@@ -14,7 +14,6 @@ tags:
   - bajorija
   - grupe
   - institucija
-  - unija
 amziai:
   - 'XV'
 media_total_count: '0'

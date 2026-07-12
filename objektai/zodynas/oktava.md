@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - sąvoka
+  - religinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

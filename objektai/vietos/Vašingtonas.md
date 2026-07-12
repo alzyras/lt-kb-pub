@@ -11,8 +11,7 @@ date_end: '1999'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
-  - sutartis
+  - sostinė
   - vieta
 amziai:
   - 'XX'

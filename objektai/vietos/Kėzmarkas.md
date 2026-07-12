@@ -11,10 +11,8 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
-  - ordinas
-  - paliaubos
+  - vieta
+  - miestelis
 amziai:
   - 'XV'
 media_total_count: '0'

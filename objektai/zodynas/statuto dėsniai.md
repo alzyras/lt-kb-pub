@@ -11,8 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - teisinis-terminas
   - sąvoka
-  - unija
 amziai:
   - 'XX'
   - 'XXI'

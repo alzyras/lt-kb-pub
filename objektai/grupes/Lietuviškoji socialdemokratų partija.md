@@ -13,8 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
-  - reforma
   - tauta
 amziai:
   - 'XIX'

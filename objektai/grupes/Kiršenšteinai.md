@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - giminė
   - grupe
-  - miestas
-  - mūšis
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - karinė-praktika
+  - karyba
   - paprotys
-  - pilis
-  - upė
 amziai:
   - 'XIX'
 media_total_count: '0'

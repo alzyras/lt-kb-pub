@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
+  - karys
 amziai:
   - 'XIII'
 periodo_grupes:

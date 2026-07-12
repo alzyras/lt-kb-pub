@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - ginklas
   - karalius
 amziai:
   - 'XIV'

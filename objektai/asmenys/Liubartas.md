@@ -15,6 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - valdovas
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

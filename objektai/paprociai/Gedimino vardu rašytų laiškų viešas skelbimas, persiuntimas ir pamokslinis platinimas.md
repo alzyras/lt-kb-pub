@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - krikštas
-  - miestas
   - paprotys
 amziai:
   - 'XIV'

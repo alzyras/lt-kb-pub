@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - elekcija
   - karalius
-  - seimas
+  - valdovas
 amziai:
   - 'XVII'
 periodo_grupes:

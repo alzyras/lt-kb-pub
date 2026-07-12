@@ -11,10 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - suvažiavimas
   - ivykis
-  - karalius
-  - kunigaikštis
-  - popiežius
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,10 +11,7 @@ date_end: '1432'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - miestas
   - saltinis
-  - tauta
 amziai:
   - 'XIV'
   - 'XV'

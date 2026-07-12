@@ -11,10 +11,7 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - saltinis
-  - seimas
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

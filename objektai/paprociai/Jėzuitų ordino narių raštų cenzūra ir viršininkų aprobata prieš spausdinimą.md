@@ -9,6 +9,9 @@ date_start: '1663'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
+  - religinė-praktika
 amziai:
   - 'XVII'
 media_total_count: '0'

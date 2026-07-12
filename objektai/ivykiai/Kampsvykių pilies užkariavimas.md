@@ -6,8 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žygis
   - ivykis
-  - pilis
+  - konfliktas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

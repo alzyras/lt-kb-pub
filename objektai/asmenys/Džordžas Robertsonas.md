@@ -11,6 +11,7 @@ date_end: '2004'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
 amziai:
   - 'XX'

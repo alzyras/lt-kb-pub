@@ -11,8 +11,8 @@ date_end: '1917'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - mokslininkas
 amziai:
   - 'XX'
 media_total_count: '0'

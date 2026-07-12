@@ -12,6 +12,7 @@ date_end: '1815'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - regionas
   - vieta
 amziai:
   - 'XVIII'

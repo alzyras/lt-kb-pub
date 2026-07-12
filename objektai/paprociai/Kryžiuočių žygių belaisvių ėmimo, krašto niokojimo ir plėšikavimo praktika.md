@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kraštas
-  - kunigaikštis
-  - ordinas
+  - karinė-praktika
+  - paprotys
+  - karyba
 amziai:
   - 'XIV'
 media_total_count: '0'

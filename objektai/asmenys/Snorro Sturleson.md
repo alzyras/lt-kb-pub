@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - miestas
-  - tauta
+  - istorikas
 amziai:
   - 'XII'
 periodo_grupes:

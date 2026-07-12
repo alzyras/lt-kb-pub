@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - elekcija
   - ivykis
-  - kraštas
 amziai:
   - 'XX'
 media_total_count: '0'

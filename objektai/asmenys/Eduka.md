@@ -9,6 +9,9 @@ date_start: '355'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - asmuo
 amziai:
   - 'IV'
 periodo_grupes:

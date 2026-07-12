@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIX'
   - 'XX'

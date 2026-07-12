@@ -13,7 +13,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

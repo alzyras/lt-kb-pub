@@ -6,7 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - daiktas
+  - karo-reikmuo
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

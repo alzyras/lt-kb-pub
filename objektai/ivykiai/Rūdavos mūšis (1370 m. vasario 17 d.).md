@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - mūšis
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

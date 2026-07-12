@@ -12,10 +12,8 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - ordinas
-  - paliaubos
-  - sutartis
+  - miestas
+  - vieta
 amziai:
   - 'XV'
 media_total_count: '0'

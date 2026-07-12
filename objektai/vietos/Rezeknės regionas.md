@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - popiežius
-  - tikėjimas
-  - valdovas
+  - regionas
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

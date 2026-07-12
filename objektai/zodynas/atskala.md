@@ -9,6 +9,9 @@ date_start: '1424'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinis-terminas
+  - sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

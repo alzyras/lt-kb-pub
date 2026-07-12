@@ -11,8 +11,6 @@ date_end: '1886'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
   - saltinis
 amziai:
   - 'XV'

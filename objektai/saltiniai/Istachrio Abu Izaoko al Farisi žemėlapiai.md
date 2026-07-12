@@ -9,6 +9,9 @@ date_start: '1835'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žemėlapis
+  - saltinis
 amziai:
   - 'XIX'
 media_total_count: '0'

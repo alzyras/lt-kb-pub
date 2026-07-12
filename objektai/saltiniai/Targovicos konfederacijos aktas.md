@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - miestas
-  - reforma
   - saltinis
 amziai:
   - 'XVIII'

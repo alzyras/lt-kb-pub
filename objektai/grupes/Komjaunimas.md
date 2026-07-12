@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
 media_total_count: '0'
 media_primary_thumb_url: ''

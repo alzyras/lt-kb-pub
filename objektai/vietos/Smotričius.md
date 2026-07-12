@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - gyvenvietė
+  - miestelis
 amziai:
   - 'XIII'
   - 'XIV'

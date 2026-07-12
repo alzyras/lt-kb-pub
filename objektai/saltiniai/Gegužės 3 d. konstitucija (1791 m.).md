@@ -15,10 +15,7 @@ date_end: '1915'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
   - saltinis
-  - valdovas
 amziai:
   - 'XVIII'
   - 'XX'

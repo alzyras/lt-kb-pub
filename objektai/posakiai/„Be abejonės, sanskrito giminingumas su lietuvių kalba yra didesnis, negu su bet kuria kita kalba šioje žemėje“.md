@@ -12,9 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
   - posakis
-  - šeima
+  - citata
 amziai:
   - 'XX'
   - 'XXI'

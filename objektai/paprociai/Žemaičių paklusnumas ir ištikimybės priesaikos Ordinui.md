@@ -11,6 +11,10 @@ date_start: '1301'
 date_end: '1400'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - priesaika
+  - politinė-praktika
+  - paprotys
 amziai:
   - 'XIV'
 media_total_count: '0'

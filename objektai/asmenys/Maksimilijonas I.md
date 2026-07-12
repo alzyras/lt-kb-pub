@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
 amziai:
   - 'XVI'

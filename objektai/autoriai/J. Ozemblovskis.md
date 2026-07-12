@@ -10,6 +10,8 @@ date_start: '1781'
 date_end: '1859'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XVIII'
   - 'XIX'

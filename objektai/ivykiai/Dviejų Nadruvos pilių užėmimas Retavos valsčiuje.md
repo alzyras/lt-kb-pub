@@ -12,9 +12,8 @@ date_end: '1292'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - pilis
-  - žemėlapis
 amziai:
   - 'XIII'
 media_total_count: '0'

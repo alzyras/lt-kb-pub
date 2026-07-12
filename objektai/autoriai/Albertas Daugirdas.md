@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - istorikas
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

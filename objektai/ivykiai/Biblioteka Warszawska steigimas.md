@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - kultūrinis-įvykis
 amziai:
   - 'XIX'
 media_total_count: '0'

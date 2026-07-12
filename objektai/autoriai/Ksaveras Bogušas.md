@@ -13,6 +13,7 @@ date_end: '1818'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigas
   - autorius
   - dvasininkas
   - mokslininkas

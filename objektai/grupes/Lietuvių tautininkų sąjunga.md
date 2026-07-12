@@ -14,8 +14,7 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - miestas
-  - seimas
+  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

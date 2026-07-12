@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - didikas
   - karalienė
+  - asmuo
 amziai: []
 periodo_grupes: []
 media_total_count: '1'

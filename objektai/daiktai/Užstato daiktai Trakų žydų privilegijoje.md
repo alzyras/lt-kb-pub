@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
+  - daiktas
 amziai:
   - 'XIV'
   - 'XVI'

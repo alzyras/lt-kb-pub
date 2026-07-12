@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ["sutartis", "politinis-sprendimas"]
+  - sutartis
+  - politinis-sprendimas
+  - ivykis
 amziai:
   - 'XX'
 media_total_count: '0'

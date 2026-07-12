@@ -15,7 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - unija
 amziai:
   - 'XVI'

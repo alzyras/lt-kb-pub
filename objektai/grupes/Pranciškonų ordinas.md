@@ -24,6 +24,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - ordinas
 amziai:
   - 'XI'
   - 'XXI'

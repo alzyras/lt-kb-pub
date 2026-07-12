@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - ežeras
   - kraštas
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
   - 'XV'

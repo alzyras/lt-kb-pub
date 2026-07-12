@@ -11,8 +11,8 @@ date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karys
   - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -12,9 +12,8 @@ date_end: '1303'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - karalius
-  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'

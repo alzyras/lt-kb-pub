@@ -8,6 +8,8 @@ puslapiai: "13-186"
 autorius: "M. Katkus"
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

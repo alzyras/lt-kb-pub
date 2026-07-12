@@ -12,7 +12,6 @@ date_end: '1957'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - saltinis
 amziai:
   - 'XIX'

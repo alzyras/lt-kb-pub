@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - sutartis
-  - šeima
+  - karalius
 amziai:
   - 'XVI'
 periodo_grupes:

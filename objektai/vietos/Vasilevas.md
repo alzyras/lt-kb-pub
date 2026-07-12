@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
-  - vyskupas
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
+  - pareigybė
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

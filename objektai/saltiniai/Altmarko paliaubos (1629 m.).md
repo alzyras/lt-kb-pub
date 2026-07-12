@@ -11,7 +11,6 @@ date_end: '1635'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - paliaubos
   - saltinis
 amziai:
   - 'XVII'

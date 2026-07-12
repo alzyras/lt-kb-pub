@@ -14,7 +14,7 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - ordinas
+  - popiežius
 amziai:
   - 'XV'
 periodo_grupes:

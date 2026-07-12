@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - karalius
+  - karinė-praktika
   - paprotys
-  - popiežius
 amziai:
   - 'XIV'
 media_total_count: '0'

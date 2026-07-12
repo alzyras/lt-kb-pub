@@ -16,10 +16,8 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karvedys
-  - tauta
-  - valdovas
+  - vieta
+  - miestas
 amziai:
   - 'XVI'
   - 'XX'

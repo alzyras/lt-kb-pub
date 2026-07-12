@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
+  - karvedys
   - asmuo
-  - ežeras
-  - karas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

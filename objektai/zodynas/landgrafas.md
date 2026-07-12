@@ -11,10 +11,9 @@ date_end: '1246'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
-  - ordinas
   - sąvoka
+  - pareigybė
+  - politinis-terminas
 amziai:
   - 'XIII'
 media_total_count: '0'

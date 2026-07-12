@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - dvasininkas
 amziai:
   - 'XIV'
 periodo_grupes:

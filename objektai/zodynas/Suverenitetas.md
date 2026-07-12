@@ -17,6 +17,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - politinis-terminas
+  - teisinis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

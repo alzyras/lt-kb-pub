@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - krikštas
 amziai:
   - 'XIV'
 periodo_grupes:

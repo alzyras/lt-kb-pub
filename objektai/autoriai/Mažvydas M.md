@@ -10,7 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - šventė
+  - rašytojas
 amziai:
   - 'M'
 periodo_grupes: []

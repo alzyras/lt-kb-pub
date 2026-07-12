@@ -11,8 +11,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - krikštas
-  - kunigas
   - miestas
   - vieta
 amziai:

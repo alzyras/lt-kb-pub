@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - karas
-  - mūšis
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - kunigas
-  - šeima
 amziai:
   - 'XIII'
 periodo_grupes:

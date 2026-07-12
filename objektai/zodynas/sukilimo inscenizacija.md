@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kraštas
-  - sukilimas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XX'

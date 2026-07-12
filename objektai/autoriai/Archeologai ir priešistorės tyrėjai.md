@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - tauta
+  - mokslininkas
 amziai:
   - 'XX'
 periodo_grupes:

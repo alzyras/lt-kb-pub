@@ -11,10 +11,8 @@ date_end: '1619'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - miestas
-  - mūšis
-  - pilis
 amziai:
   - 'XVII'
 media_total_count: '0'

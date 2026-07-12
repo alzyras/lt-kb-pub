@@ -10,6 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
+  - institucija
   - grupe
 amziai:
   - 'XIX'

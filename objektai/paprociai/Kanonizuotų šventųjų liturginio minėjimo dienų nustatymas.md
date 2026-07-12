@@ -12,10 +12,8 @@ date_end: '1317'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - paprotys
-  - popiežius
+  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

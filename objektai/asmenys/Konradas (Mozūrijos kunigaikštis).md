@@ -15,6 +15,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
+  - vyskupas
+  - popiežius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

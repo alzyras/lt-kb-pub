@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - tauta
   - vieta
 amziai:
   - 'XIV'

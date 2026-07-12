@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
-  - miestas
-  - ordinas
+  - dvasininkas
 amziai:
   - 'XIII'
   - 'XIV'

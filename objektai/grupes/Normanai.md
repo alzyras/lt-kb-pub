@@ -11,10 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - tauta
   - grupe
-  - kunigaikštis
-  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

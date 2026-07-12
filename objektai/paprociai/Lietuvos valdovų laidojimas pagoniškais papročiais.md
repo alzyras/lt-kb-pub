@@ -13,9 +13,8 @@ date_end: '1385'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - laidotuvės
   - paprotys
-  - tauta
-  - valdovas
 amziai:
   - 'XIII'
   - 'XIV'

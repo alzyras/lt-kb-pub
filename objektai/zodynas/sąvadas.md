@@ -11,6 +11,9 @@ date_start: '1377'
 date_end: '1446'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XIV'
   - 'XV'

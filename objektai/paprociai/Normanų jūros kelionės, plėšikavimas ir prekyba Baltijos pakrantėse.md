@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - kraštas
-  - kunigaikštis
+  - prekyba
   - paprotys
 amziai:
   - 'XV'

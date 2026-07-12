@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
   - redaktorius
 amziai:
   - 'XXI'

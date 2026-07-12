@@ -22,10 +22,8 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
   - vieta
+  - miestas
 amziai:
   - 'X'
   - 'XV'

@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - reforma
-  - seimas
+  - valdovas
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

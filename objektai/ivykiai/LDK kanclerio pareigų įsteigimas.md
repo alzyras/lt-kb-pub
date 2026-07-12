@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
   - unija
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

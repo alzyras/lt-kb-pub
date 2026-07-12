@@ -13,10 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - diplomatas
-  - karas
   - vieta
+  - miestas
 amziai:
   - 'XIX'
   - 'XXI'

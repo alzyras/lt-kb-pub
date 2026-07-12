@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - miestas
 amziai:
   - 'XIII'
 periodo_grupes:

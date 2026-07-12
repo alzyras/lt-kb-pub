@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - kunigas
-  - tikėjimas
 amziai:
   - 'XV'
 media_total_count: '0'

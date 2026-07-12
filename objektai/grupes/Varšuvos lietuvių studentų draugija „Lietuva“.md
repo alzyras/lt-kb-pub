@@ -11,6 +11,7 @@ date_end: '1890'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - draugija
   - grupe
 amziai:
   - 'XIX'

@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - pareigūnas
 amziai:
   - 'XX'
 periodo_grupes:

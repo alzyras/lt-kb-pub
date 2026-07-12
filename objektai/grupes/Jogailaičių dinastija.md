@@ -17,7 +17,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - karalius
 amziai:
   - 'XIV'
   - 'XXI'

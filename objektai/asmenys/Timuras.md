@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
+  - valdovas
 amziai:
   - 'XIV'
 periodo_grupes:

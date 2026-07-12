@@ -12,8 +12,8 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
-  - tauta
+  - istorikas
+  - autorius
 amziai:
   - 'XVIII'
   - 'XIX'

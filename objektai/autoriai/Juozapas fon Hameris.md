@@ -9,6 +9,9 @@ date_start: '1845'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mokslininkas
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

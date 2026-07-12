@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
-  - miestas
-  - mūšis
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -11,6 +11,7 @@ date_end: '1864'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karvedys
   - asmuo
 amziai:
   - 'XIX'

@@ -11,6 +11,7 @@ date_end: '1784'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
 amziai:
   - 'XVIII'

@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - pilis
+  - ekonominis-terminas
   - sąvoka
 amziai:
   - 'XIV'

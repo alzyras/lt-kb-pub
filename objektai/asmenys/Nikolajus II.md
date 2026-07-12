@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
-  - elekcija
 amziai:
   - 'XX'
 periodo_grupes:

@@ -11,9 +11,8 @@ date_end: '1768'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - didikas
   - asmuo
-  - reforma
-  - seimas
 amziai:
   - 'XVIII'
 periodo_grupes:

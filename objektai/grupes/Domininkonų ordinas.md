@@ -19,6 +19,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - ordinas
 amziai:
   - 'XIII'
   - 'XXI'

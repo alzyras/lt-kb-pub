@@ -17,6 +17,9 @@ date_start: '1323'
 date_end: '1569'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - socialinė-grupė
+  - grupe
 amziai:
   - 'XIV'
   - 'XVI'

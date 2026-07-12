@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - frazė
   - posakis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

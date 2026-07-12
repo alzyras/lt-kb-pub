@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - metraštininkas
   - autorius
-  - tikėjimas
 amziai:
   - 'XI'
 periodo_grupes:

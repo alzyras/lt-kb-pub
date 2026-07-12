@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - teisinis-terminas
+  - sąvoka
 amziai:
   - 'XX'
   - 'XXI'

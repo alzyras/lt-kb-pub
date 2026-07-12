@@ -11,6 +11,7 @@ date_end: '1969'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - gyvenvietė
   - vieta
 amziai:
   - 'XX'

@@ -12,10 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - karas
-  - seimas
   - vieta
+  - kraštas
 amziai:
   - 'XVI'
   - 'XXI'

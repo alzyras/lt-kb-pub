@@ -7,9 +7,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - pilis
-  - popiežius
+  - karas
+  - invazija
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

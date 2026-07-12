@@ -11,7 +11,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
+  - dvaras
   - vieta
 amziai:
   - 'XIX'

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - karas
 amziai:
   - 'XX'
 periodo_grupes:

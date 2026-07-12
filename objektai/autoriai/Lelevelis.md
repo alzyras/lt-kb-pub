@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
+  - istorikas
 amziai:
   - 'XIX'
 periodo_grupes:

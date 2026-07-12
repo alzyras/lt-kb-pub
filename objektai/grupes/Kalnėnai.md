@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - etninė-grupė
 amziai:
   - 'XIV'
   - 'XXI'

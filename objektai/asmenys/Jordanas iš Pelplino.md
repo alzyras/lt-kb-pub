@@ -11,6 +11,7 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - asmuo
 amziai:
   - 'XIV'

@@ -9,6 +9,10 @@ date_start: '1298'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - mūšis
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

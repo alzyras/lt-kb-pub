@@ -11,9 +11,8 @@ date_end: '1838'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - istorinė-sąvoka
   - sąvoka
-  - valstybė
 amziai:
   - 'XIX'
 media_total_count: '0'

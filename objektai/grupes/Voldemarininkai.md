@@ -10,6 +10,9 @@ date_start: '1938'
 date_end: '1939'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinė-grupė
+  - grupe
 amziai:
   - 'XX'
 media_total_count: '0'

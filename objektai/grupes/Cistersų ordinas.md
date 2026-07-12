@@ -12,10 +12,8 @@ date_end: '1212'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - grupe
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XI'
   - 'XIII'

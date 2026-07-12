@@ -15,6 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - žemė
+  - upė
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - kariuomenė
 amziai:
   - 'XIII'
   - 'XIV'

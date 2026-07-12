@@ -26,8 +26,6 @@ atnaujinta: ''
 tags:
   - dinastija
   - grupe
-  - valdovas
-  - valstybė
 amziai:
   - 'XIV'
   - 'XXI'

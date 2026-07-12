@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - autorius
 amziai:
   - 'XX'

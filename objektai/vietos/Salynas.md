@@ -12,10 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - ordinas
-  - sutartis
   - vieta
+  - gamtinis-objektas
 amziai:
   - 'XIV'
   - 'XXI'

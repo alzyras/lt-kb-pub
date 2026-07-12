@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - sutartis
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

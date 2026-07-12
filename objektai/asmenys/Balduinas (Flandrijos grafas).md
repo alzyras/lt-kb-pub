@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
-  - miestas
 amziai:
   - 'XII'
 periodo_grupes:

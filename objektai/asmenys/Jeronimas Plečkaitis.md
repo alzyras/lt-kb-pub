@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sukilėlis
   - asmuo
-  - ginklas
-  - miestas
-  - sukilimas
 amziai:
   - 'XX'
 periodo_grupes:

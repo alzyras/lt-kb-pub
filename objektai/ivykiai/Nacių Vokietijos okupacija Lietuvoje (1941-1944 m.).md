@@ -11,6 +11,7 @@ date_end: '1944'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - okupacija
   - ivykis
 amziai:
   - 'XX'

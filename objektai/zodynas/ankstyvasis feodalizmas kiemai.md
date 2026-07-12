@@ -11,6 +11,7 @@ date_end: '1341'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIV'

@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - paprotys
-  - vyskupas
+  - religinė-praktika
 amziai:
   - 'XIV'
 media_total_count: '0'

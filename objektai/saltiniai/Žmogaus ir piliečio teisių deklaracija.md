@@ -11,9 +11,7 @@ date_end: '1791'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XVIII'
 media_total_count: '0'

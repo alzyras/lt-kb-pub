@@ -12,7 +12,7 @@ date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - okupacija
   - ivykis
 amziai:
   - 'XX'

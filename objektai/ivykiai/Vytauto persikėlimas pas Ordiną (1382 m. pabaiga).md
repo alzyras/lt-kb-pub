@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - ordinas
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

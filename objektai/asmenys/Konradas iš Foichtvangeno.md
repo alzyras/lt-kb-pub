@@ -11,10 +11,9 @@ date_end: '1295'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ginklas
-  - karas
-  - ordinas
+  - karvedys
 amziai:
   - 'XIII'
 periodo_grupes:

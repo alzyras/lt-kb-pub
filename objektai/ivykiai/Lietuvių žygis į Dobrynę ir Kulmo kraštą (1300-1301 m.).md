@@ -10,6 +10,9 @@ date_start: '1300'
 date_end: '1301'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - ivykis
 amziai:
   - 'XIII'
   - 'XIV'

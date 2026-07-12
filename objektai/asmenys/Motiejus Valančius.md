@@ -10,6 +10,9 @@ date_start: '1863'
 date_end: '1864'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vyskupas
+  - asmuo
 amziai:
   - 'XIX'
 periodo_grupes:

@@ -17,6 +17,7 @@ atnaujinta: ''
 tags:
   - valstybė
   - vieta
+  - dvaras
 amziai:
   - 'XX'
 media_total_count: '0'

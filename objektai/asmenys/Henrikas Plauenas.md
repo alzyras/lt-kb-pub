@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
-  - seimas
 amziai:
   - 'XV'
 periodo_grupes:

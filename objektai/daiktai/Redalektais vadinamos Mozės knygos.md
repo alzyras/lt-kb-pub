@@ -7,8 +7,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - socialinė-praktika
-  - teisinė-praktika
+  - dokumentas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

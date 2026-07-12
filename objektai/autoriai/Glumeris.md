@@ -9,6 +9,9 @@ date_start: '1243'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigas
+  - autorius
 amziai:
   - 'XIII'
 periodo_grupes:

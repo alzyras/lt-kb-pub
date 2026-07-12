@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - kraštas
-  - šventė
 amziai:
   - 'XV'
 periodo_grupes:

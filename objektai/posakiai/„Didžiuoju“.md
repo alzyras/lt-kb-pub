@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - posakis
+  - frazė
 amziai:
   - 'XXI'
 media_total_count: '0'

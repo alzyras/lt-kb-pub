@@ -11,9 +11,8 @@ date_end: '1302'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - pilis
-  - šeima
 amziai:
   - 'XIV'
 media_total_count: '0'

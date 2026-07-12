@@ -21,10 +21,8 @@ date_end: '1786'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - institucija
   - grupe
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XIV'
   - 'XVIII'

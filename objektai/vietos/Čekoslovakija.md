@@ -10,8 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - sutartis
-  - teisinė-praktika
   - valstybė
   - vieta
 amziai:

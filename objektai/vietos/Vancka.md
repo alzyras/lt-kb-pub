@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
   - pilis
   - vieta
 amziai:

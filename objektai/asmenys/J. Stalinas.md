@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigas
-  - miestas
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
-  - drabužis
-  - ginklas
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

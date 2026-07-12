@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:

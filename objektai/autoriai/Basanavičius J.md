@@ -11,8 +11,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - ordinas
-  - pilis
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - karas
+  - politinis-sprendimas
 amziai:
   - 'XX'
   - 'XXI'

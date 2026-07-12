@@ -12,8 +12,7 @@ date_end: '1648'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - karas
+  - karinis-terminas
   - sąvoka
 amziai:
   - 'XVII'

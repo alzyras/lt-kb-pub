@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - pilis
-  - teisinė-praktika
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1521'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - religinė-praktika
+  - paprotys
 amziai:
   - 'XVI'
 media_total_count: '0'

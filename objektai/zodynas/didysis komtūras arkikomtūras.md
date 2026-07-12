@@ -12,9 +12,8 @@ date_end: '1393'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - pareigybė
   - sąvoka
-  - šventė
 amziai:
   - 'XIV'
 media_total_count: '0'

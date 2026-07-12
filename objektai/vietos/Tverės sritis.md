@@ -13,7 +13,7 @@ date_end: '1287'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - regionas
   - vieta
 amziai:
   - 'XIII'

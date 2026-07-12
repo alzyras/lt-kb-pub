@@ -9,6 +9,9 @@ date_start: '1342'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

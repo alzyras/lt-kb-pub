@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - miestas
-  - ordinas
-  - pilis
+  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:

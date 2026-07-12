@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - kraštas
-  - miestas
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

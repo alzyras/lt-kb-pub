@@ -11,9 +11,6 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - miestas
   - saltinis
 amziai:
   - 'XVI'

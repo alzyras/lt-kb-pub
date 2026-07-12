@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karinis-terminas
   - sąvoka
-  - šeima
 amziai:
   - 'XX'
 media_total_count: '0'

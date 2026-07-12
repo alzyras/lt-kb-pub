@@ -12,6 +12,9 @@ date_start: '1268'
 date_end: '1348'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - kunigaikštis
+  - asmuo
 amziai:
   - 'XIII'
   - 'XIV'

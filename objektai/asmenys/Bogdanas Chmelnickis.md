@@ -9,6 +9,9 @@ date_start: '1648'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - sukilėlis
+  - asmuo
 amziai:
   - 'XVII'
 periodo_grupes:

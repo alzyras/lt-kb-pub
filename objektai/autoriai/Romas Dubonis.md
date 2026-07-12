@@ -9,6 +9,9 @@ date_start: '2007'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - redaktorius
+  - autorius
 amziai:
   - 'XXI'
 periodo_grupes:

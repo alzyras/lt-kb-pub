@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
-  - miestas
-  - ordinas
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

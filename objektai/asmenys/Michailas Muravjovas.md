@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
-  - sukilimas
+  - pareigūnas
 amziai:
   - 'XIX'
 periodo_grupes:

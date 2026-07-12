@@ -10,6 +10,9 @@ date_start: '1797'
 date_end: '1828'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVIII'
   - 'XIX'

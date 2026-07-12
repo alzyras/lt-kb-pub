@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - valstybė
 amziai:
   - 'XIV'
 periodo_grupes:

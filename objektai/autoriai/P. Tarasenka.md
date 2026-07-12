@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - ritualas
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

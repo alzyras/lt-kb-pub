@@ -19,8 +19,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kunigas
   - ordinas
+  - organizacija
 amziai:
   - 'XVI'
   - 'XXI'

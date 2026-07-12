@@ -11,7 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
+  - konfliktas
 amziai:
   - 'XIII'
 media_total_count: '0'

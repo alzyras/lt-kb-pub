@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
   - krikštas
-  - kunigaikštis
 amziai:
   - 'X'
   - 'XI'

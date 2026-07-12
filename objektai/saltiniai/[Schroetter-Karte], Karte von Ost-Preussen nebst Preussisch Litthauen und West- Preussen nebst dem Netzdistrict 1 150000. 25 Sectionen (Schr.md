@@ -14,6 +14,7 @@ date_end: '1978'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemėlapis
   - saltinis
 amziai:
   - 'XVIII'

@@ -13,10 +13,8 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - citata
   - posakis
-  - seimas
-  - tauta
 amziai:
   - 'XIX'
   - 'XX'

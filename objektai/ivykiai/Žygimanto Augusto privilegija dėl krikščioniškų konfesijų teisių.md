@@ -12,7 +12,6 @@ date_end: '1573'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - reforma
   - unija

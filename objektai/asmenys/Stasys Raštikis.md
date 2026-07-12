@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - valstybė
-  - šventė
+  - ministras
 amziai:
   - 'XX'
 periodo_grupes:

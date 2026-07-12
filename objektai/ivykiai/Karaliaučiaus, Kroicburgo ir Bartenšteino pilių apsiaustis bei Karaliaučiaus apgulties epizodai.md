@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - ordinas
-  - pilis
+  - mūšis
 amziai:
   - 'III'
   - 'XIX'

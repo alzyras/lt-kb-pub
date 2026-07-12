@@ -11,6 +11,7 @@ date_end: '1550'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
 amziai:
   - 'XVI'

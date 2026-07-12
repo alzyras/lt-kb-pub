@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - unija
-  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

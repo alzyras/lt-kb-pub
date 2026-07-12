@@ -11,6 +11,10 @@ date_start: '1350'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karo-reikmuo
+  - ginklas
+  - daiktas
 amziai:
   - 'XIV'
   - 'XXI'

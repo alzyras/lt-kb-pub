@@ -6,9 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - religinė-praktika
   - paprotys
-  - pilis
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

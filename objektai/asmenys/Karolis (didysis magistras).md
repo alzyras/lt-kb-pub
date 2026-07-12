@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
-  - šventė
+  - valdovas
 amziai:
   - 'XIII'
   - 'XIV'

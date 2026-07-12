@@ -11,8 +11,7 @@ date_end: '1673'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - seimas
-  - tauta
+  - pilis
   - vieta
 amziai:
   - 'XVII'

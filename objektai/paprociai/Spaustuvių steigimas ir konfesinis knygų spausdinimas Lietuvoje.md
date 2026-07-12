@@ -17,7 +17,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - reforma
   - šeima
 amziai:
   - 'XV'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - asmuo
-  - dokumentas
-  - ordinas
-  - valstybė
 amziai:
   - 'XIX'
 periodo_grupes:

@@ -15,9 +15,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
-  - seimas
   - vieta
+  - regionas
 amziai:
   - 'XV'
   - 'XXI'

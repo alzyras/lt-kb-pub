@@ -13,8 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - bajorija
-  - kraštas
   - kunigaikštis
 amziai:
   - 'XV'

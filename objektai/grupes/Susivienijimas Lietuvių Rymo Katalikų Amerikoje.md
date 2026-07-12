@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - organizacija
   - grupe
-  - karas
-  - kunigas
-  - mokslininkas
+  - religinė-bendruomenė
 amziai:
   - 'XX'
 media_total_count: '0'

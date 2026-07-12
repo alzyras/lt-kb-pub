@@ -11,9 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - mūšis
   - vieta
+  - valstybė
 amziai:
   - 'XV'
 media_total_count: '0'

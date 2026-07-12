@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigas
-  - miestas
+  - religinis-įvykis
+  - reforma
 amziai:
   - 'XVI'
 media_total_count: '0'

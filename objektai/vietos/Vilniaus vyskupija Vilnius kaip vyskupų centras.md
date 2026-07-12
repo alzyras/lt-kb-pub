@@ -9,6 +9,8 @@ date_start: '1710'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

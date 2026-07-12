@@ -9,6 +9,9 @@ date_start: '1663'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - upė
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

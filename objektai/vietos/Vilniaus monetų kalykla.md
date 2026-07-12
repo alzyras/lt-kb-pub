@@ -9,6 +9,8 @@ date_start: '1505'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

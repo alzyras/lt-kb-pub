@@ -15,7 +15,9 @@ date_end: '1919'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ginklas
   - daiktas
+  - karo-reikmuo
 amziai:
   - 'XII'
   - 'XX'

@@ -6,9 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - vyskupas
+  - politinis-sprendimas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

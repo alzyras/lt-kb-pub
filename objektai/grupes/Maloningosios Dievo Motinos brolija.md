@@ -13,9 +13,8 @@ date_end: '1664'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - kunigas
-  - miestas
 amziai:
   - 'XVI'
   - 'XVII'

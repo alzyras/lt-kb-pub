@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
-  - šventė
 amziai:
   - 'XIII'
 media_total_count: '0'

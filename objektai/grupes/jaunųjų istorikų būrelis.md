@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - organizacija
 amziai:
   - 'XX'
 media_total_count: '0'

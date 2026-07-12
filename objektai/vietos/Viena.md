@@ -18,8 +18,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - sostinė
 amziai:
   - 'XV'
   - 'XXI'

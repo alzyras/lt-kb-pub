@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - žemė
   - pilis
-  - tikėjimas
   - vieta
 amziai:
   - 'XIII'

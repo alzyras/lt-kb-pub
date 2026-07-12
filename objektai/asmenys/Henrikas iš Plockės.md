@@ -12,9 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - kraštas
-  - pilis
+  - karvedys
+  - pareigūnas
 amziai:
   - 'XIV'
 periodo_grupes:

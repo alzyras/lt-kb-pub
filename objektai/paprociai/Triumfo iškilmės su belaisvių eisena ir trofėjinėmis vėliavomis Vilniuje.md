@@ -10,6 +10,10 @@ date_start: '1530'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - šventė
+  - karinė-praktika
+  - paprotys
 amziai:
   - 'XVI'
   - 'XXI'

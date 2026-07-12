@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
+  - kunigas
 amziai:
   - 'XIX'
 periodo_grupes:

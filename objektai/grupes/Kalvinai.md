@@ -12,10 +12,8 @@ date_end: '1640'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinė-bendruomenė
   - grupe
-  - miestas
-  - seimas
-  - šventė
 amziai:
   - 'XVII'
 media_total_count: '0'

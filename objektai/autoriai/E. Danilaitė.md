@@ -12,6 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - karys
 amziai:
   - 'XX'
 periodo_grupes:

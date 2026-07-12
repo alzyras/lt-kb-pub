@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

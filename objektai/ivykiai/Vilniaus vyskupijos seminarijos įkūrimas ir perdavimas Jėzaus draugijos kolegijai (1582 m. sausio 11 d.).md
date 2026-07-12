@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-įvykis
   - ivykis
-  - karalius
-  - kunigaikštis
-  - popiežius
 amziai:
   - 'XVI'
 media_total_count: '0'

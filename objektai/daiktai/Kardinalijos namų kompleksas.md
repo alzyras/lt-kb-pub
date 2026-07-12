@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - kunigaikštis
-  - miestas
-  - vyskupas
 amziai:
   - 'XVII'
 media_total_count: '0'

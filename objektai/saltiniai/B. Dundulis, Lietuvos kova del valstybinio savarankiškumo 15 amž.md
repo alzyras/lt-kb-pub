@@ -12,7 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - valstybė
 amziai:
   - 'XV'
   - 'XX'

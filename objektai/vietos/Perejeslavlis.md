@@ -12,7 +12,7 @@ date_end: '1380'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
+  - miestas
   - vieta
 amziai:
   - 'XIV'

@@ -13,10 +13,9 @@ date_end: '1613'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - dinastija
+  - konfliktas
   - ivykis
-  - tauta
+  - karas
 amziai:
   - 'XVI'
   - 'XVII'

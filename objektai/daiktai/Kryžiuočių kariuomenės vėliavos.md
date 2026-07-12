@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
+  - karo-reikmuo
   - daiktas
-  - karas
-  - mūšis
-  - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

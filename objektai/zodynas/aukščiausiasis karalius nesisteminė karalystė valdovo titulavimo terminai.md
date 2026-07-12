@@ -13,10 +13,9 @@ date_end: '1386'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
   - sąvoka
+  - politinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
   - 'XIV'

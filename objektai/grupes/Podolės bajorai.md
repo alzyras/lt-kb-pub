@@ -8,7 +8,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - kraštas
   - ordinas
 media_total_count: '0'
 media_primary_thumb_url: ''

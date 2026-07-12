@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - sąvoka
+  - karinis-terminas
+  - istorinė-sąvoka
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - miestas
-  - pilis
+  - konfliktas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,8 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - pilis
-  - šeima
+  - pareigūnas
 amziai:
   - 'XIV'
 periodo_grupes:

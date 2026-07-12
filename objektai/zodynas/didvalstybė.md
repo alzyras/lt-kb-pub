@@ -11,7 +11,9 @@ date_end: '1377'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

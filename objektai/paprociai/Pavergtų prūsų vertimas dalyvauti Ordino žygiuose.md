@@ -14,9 +14,8 @@ date_end: '1410'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - karyba
   - paprotys
-  - pilis
 amziai:
   - 'XIII'
   - 'XV'

@@ -26,6 +26,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - sostinė
 amziai:
   - 'X'
   - 'XIV'

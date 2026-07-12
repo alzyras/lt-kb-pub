@@ -6,8 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - mūšis
+  - kapavietė
   - pilis
   - vieta
 media_total_count: '0'

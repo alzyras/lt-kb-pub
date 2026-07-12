@@ -10,6 +10,8 @@ date_start: '401'
 date_end: '500'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - posakis
 amziai:
   - 'V'
 media_total_count: '0'

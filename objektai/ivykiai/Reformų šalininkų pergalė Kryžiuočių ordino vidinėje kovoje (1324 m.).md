@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - ordinas
   - reforma
 amziai:
   - 'XIV'

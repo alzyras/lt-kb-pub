@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
+  - socialinis-terminas
   - sąvoka
-  - valdovas
+  - politinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -11,6 +11,7 @@ date_end: '2006'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai:
   - 'XX'

@@ -12,10 +12,8 @@ date_end: '1933'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - dinastija
-  - mokslininkas
-  - ordinas
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XVI'
   - 'XX'

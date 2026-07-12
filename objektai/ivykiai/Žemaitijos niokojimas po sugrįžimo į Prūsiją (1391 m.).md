@@ -9,6 +9,10 @@ date_start: '1391'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - žygis
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

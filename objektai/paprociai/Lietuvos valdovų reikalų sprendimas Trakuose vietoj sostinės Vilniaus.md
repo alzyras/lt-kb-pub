@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - politinė-praktika
   - paprotys
-  - pilis
-  - valdovas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - autorius
   - diplomatas
-  - dokumentas
 amziai:
   - 'D'
 periodo_grupes: []

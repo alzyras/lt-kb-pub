@@ -12,7 +12,6 @@ date_end: '2007'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - saltinis
 amziai:
   - 'XX'

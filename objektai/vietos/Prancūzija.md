@@ -23,7 +23,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - mokslininkas
   - vieta
 amziai:
   - 'XIII'

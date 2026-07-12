@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - regionas
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -15,10 +15,8 @@ date_end: '1993'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
-  - miestas
-  - seimas
+  - institucija
 amziai:
   - 'XX'
 media_total_count: '0'

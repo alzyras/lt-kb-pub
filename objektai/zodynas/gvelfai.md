@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XIII'
 media_total_count: '0'

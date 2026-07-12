@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - pilis
+  - mūšis
 amziai:
   - 'XIII'
 media_total_count: '0'

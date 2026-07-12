@@ -13,6 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

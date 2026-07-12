@@ -12,7 +12,6 @@ date_end: '1971'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - saltinis
 amziai:
   - 'XX'

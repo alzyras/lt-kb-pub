@@ -18,10 +18,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
   - vieta
-  - šeima
+  - žemė
 amziai:
   - 'XIII'
   - 'XXI'

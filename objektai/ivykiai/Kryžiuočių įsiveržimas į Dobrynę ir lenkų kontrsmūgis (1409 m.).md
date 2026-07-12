@@ -9,6 +9,10 @@ date_start: '1409'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karas
+  - mūšis
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

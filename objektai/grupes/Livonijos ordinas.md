@@ -29,7 +29,7 @@ atnaujinta: ''
 tags:
   - grupe
   - ordinas
-  - pilis
+  - kariuomenė
 amziai:
   - 'XIII'
   - 'XV'

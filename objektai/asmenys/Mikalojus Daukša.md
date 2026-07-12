@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - tauta
-  - valstybė
-  - žemėlapis
+  - kunigas
 amziai:
   - 'D'
 periodo_grupes: []

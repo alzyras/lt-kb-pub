@@ -9,6 +9,9 @@ date_start: '1760'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - upė
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

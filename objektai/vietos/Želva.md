@@ -22,9 +22,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - vieta
-  - šeima
+  - miestelis
 amziai:
   - 'XIX'
   - 'XXI'

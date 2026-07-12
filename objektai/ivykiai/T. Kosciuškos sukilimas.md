@@ -7,7 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
   - seimas
   - sukilimas
 media_total_count: '0'

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - miestas
 amziai:
   - 'XII'
 media_total_count: '0'

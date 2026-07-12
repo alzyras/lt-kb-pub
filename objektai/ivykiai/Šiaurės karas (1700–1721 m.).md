@@ -14,7 +14,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - karas
-  - miestas
 amziai:
   - 'XVII'
   - 'XVIII'

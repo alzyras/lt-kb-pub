@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
+  - švietimas
+  - teisinė-praktika
 amziai:
   - 'XIX'
   - 'XX'

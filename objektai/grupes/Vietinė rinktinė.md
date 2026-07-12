@@ -12,8 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - grupe
+  - kariuomenė
 amziai:
   - 'XX'
   - 'XXI'

@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dinastija
-  - tauta
   - valdovas
 amziai:
   - 'XVI'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
-  - teisinė-praktika
+  - šventvietė
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

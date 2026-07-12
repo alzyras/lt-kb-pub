@@ -12,8 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - dinastija
-  - valstybė
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

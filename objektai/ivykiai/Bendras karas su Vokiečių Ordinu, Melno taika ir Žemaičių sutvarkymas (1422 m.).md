@@ -13,10 +13,8 @@ date_end: '1423'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - kraštas
-  - ordinas
-  - tauta
 amziai:
   - 'XI'
   - 'XV'

@@ -11,9 +11,7 @@ date_end: '1429'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - krikštas
-  - ordinas
+  - politinė-praktika
   - paprotys
 amziai:
   - 'XIV'

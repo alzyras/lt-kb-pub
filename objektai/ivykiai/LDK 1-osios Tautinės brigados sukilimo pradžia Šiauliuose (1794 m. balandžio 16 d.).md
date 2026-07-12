@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - sukilimas
-  - tauta
 amziai:
   - 'XVIII'
 media_total_count: '0'

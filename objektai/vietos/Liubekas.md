@@ -17,9 +17,7 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - miestas
-  - ordinas
   - vieta
 amziai:
   - 'XII'

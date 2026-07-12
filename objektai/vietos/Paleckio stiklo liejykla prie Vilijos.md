@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - sutartis
   - upė
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

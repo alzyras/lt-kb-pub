@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - mūšis
   - paprotys
-  - valstybė
+  - tikėjimas
 amziai:
   - 'XIV'
 media_total_count: '0'

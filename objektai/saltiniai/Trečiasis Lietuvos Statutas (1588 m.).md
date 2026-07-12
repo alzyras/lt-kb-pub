@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dokumentas
   - saltinis
-  - seimas
-  - tauta
-  - valdovas
 amziai:
   - 'XVI'
 media_total_count: '0'

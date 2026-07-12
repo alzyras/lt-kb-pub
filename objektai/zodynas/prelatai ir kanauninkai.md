@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karalius
-  - kunigas
   - sąvoka
+  - pareigybė
+  - religinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

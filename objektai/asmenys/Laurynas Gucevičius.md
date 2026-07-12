@@ -13,8 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - kraštas
-  - sukilimas
 amziai:
   - 'XVIII'
 periodo_grupes:

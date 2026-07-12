@@ -11,10 +11,8 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - kunigaikštis
-  - miestas
-  - mūšis
+  - sąvoka
+  - pareigybė
 amziai:
   - 'XIII'
   - 'XV'

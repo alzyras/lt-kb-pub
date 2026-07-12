@@ -11,8 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - citata
   - posakis
-  - valstybė
 amziai:
   - 'XXI'
 media_total_count: '0'

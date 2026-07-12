@@ -9,6 +9,9 @@ date_start: '1365'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vieta
+  - šventvietė
 amziai:
   - 'XIV'
 media_total_count: '0'

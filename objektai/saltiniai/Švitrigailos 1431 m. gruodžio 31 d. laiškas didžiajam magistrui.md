@@ -11,9 +11,6 @@ date_end: '1432'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigaikštis
-  - miestas
   - saltinis
 amziai:
   - 'XV'

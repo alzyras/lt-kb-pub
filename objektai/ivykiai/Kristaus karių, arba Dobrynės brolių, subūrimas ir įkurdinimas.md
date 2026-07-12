@@ -16,10 +16,8 @@ date_end: '1248'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - diplomatas
   - ivykis
-  - kunigaikštis
+  - politinis-sprendimas
 amziai:
   - 'XIII'
 media_total_count: '0'

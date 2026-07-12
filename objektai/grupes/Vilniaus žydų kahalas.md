@@ -11,6 +11,9 @@ date_start: '1500'
 date_end: '1763'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - institucija
+  - grupe
 amziai:
   - 'XV'
   - 'XVIII'

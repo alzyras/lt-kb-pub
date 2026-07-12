@@ -13,9 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - diplomatinis-įvykis
 amziai:
   - 'XIV'
 media_total_count: '0'

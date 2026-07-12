@@ -13,7 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - paprotys
-  - valdovas
 amziai:
   - 'XV'
 media_total_count: '0'

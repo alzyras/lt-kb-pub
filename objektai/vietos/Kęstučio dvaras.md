@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvaras
   - valstybė
   - vieta
 media_total_count: '0'

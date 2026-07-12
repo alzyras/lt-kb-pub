@@ -16,8 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - krikštas
-  - šeima
+  - kunigaikštis
 amziai:
   - 'XIV'
 periodo_grupes:

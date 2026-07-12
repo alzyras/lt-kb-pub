@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - mūšis
-  - šeima
 amziai:
   - 'XV'
   - 'XVI'

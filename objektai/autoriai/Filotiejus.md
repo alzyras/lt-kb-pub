@@ -11,6 +11,7 @@ date_end: '1533'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvasininkas
   - autorius
 amziai:
   - 'XVI'

@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - mokslininkas
   - saltinis
-  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

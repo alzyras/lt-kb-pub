@@ -12,6 +12,8 @@ date_end: '1041'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
+  - vyskupas
   - asmuo
   - valdovas
 amziai:

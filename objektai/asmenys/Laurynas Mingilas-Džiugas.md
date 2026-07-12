@@ -11,7 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
+  - karys
+  - sukilėlis
 amziai:
   - 'XX'
 periodo_grupes:

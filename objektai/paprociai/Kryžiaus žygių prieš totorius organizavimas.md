@@ -13,6 +13,9 @@ date_start: '1389'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karyba
+  - paprotys
 amziai:
   - 'XIV'
   - 'XXI'

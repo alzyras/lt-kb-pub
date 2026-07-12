@@ -11,10 +11,8 @@ date_end: '1582'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - karalius
-  - popiežius
   - saltinis
+  - dokumentas
 amziai:
   - 'XVI'
 media_total_count: '0'

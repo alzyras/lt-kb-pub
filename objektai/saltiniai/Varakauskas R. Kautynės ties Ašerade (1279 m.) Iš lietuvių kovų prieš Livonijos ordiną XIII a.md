@@ -11,8 +11,6 @@ date_end: '1963'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mokslininkas
-  - ordinas
   - saltinis
 amziai:
   - 'XIII'

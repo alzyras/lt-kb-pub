@@ -13,8 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - teisinė-praktika
-  - valstybė
+  - istorikas
 amziai:
   - 'XX'
 periodo_grupes:

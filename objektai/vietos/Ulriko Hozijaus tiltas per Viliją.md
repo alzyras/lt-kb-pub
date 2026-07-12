@@ -12,9 +12,7 @@ date_end: '1536'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - tauta
   - vieta
 amziai:
   - 'XVI'

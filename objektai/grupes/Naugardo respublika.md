@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinė-grupė
   - grupe
-  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

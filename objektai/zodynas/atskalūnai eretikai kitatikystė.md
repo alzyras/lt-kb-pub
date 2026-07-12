@@ -11,9 +11,9 @@ date_end: '1555'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
+  - religinis-terminas
   - sąvoka
-  - teisinė-praktika
+  - teisinis-terminas
 amziai:
   - 'XVI'
 media_total_count: '0'

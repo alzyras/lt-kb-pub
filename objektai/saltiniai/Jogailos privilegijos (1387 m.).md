@@ -11,10 +11,7 @@ date_end: '1413'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - saltinis
-  - unija
-  - valstybė
 amziai:
   - 'XIV'
   - 'XV'

@@ -9,6 +9,9 @@ date_start: '1367'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - invazija
+  - ivykis
 amziai:
   - 'XIV'
 media_total_count: '0'

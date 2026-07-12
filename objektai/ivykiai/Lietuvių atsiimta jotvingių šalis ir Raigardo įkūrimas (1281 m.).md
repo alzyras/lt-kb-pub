@@ -9,6 +9,10 @@ date_start: '1281'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - invazija
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - sukilimas
   - vieta
-  - vyskupas
+  - dvaras
 amziai:
   - 'XV'
 media_total_count: '0'

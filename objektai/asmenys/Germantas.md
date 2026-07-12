@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:

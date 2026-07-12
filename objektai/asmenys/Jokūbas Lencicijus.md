@@ -10,6 +10,9 @@ date_start: '1583'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - misionierius
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

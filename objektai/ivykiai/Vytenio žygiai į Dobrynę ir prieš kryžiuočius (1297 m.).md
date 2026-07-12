@@ -9,6 +9,11 @@ date_start: '1297'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - žygis
+  - karas
+  - mūšis
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

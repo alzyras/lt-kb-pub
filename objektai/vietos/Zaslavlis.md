@@ -15,6 +15,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIV'
   - 'XXI'

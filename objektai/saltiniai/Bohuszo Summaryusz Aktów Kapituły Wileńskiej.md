@@ -10,8 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - reforma
+  - dokumentas
   - saltinis
 amziai:
   - 'XVI'

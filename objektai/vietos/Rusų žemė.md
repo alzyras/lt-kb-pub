@@ -11,7 +11,10 @@ date_end: '1496'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - žemė
   - vieta
+  - pilis
+  - regionas
 amziai:
   - 'XV'
 media_total_count: '0'

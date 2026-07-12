@@ -11,9 +11,6 @@ date_end: '1381'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
-  - sutartis
   - vieta
 amziai:
   - 'XIV'

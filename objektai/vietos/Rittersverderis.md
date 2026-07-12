@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - pilis
-  - tauta
-  - valdovas
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

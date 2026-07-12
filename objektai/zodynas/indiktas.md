@@ -14,9 +14,7 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XV'

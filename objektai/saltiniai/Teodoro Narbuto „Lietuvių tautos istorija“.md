@@ -12,10 +12,7 @@ date_end: '1841'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - saltinis
-  - tauta
-  - unija
 amziai:
   - 'XIX'
 media_total_count: '0'

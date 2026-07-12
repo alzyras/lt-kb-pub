@@ -12,9 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - karalius
-  - miestas
-  - pilis
 amziai:
   - 'XVI'
   - 'XVIII'

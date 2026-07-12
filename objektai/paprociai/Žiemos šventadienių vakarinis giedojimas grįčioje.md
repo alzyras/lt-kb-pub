@@ -19,7 +19,6 @@ dalyviai: []
 susije_irasai: []
 patikimumas: ''
 tags:
-  - giesmė
   - paprotys
   - religinė-praktika
 media_total_count: '0'

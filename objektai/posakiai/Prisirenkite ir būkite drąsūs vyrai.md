@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - ordinas
-  - popiežius
+  - citata
   - posakis
+  - šūkis
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - paprotys
   - teisinė-praktika
-  - vyskupas
 amziai:
   - 'XVI'
 media_total_count: '0'

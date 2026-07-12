@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - miestas
   - saltinis
-  - tauta
 amziai:
   - 'XIX'
 media_total_count: '0'

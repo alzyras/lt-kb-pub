@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ordinas
-  - pilis
-  - tikėjimas
+  - karys
 amziai:
   - 'XIII'
 periodo_grupes:

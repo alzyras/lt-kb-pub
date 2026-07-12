@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - ivykis
   - mūšis
-  - pilis
 amziai:
   - 'XIII'
 media_total_count: '0'

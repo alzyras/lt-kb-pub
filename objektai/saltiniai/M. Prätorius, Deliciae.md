@@ -15,8 +15,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - upė
-  - šventė
   - žemėlapis
 amziai:
   - 'XVI'

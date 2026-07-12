@@ -7,8 +7,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
-  - institucija
   - kunigaikštis
 media_total_count: '0'
 media_primary_thumb_url: ''

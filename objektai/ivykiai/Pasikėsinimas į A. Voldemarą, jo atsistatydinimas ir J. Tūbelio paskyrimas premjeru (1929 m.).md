@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
+  - konfliktas
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - pilis
-  - šeima
 amziai:
   - 'XIV'
 periodo_grupes:

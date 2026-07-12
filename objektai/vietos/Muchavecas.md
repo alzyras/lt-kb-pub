@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - mūšis
-  - seimas
   - upė
+  - vieta
 amziai:
   - 'XVIII'
 media_total_count: '0'

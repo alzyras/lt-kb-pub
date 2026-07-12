@@ -10,6 +10,9 @@ date_start: '1601'
 date_end: '1700'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XVII'
 media_total_count: '0'

@@ -23,6 +23,9 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
+tags:
+  - buities-daiktas
+  - daiktas
 ---
 # Taurės
 

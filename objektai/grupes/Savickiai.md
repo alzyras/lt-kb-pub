@@ -11,8 +11,8 @@ date_end: '1583'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - giminė
   - grupe
-  - karalius
 amziai:
   - 'XVI'
 media_total_count: '0'

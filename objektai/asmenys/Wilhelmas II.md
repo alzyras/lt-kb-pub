@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - institucija
-  - tauta
+  - valdovas
 amziai:
   - 'XX'
 periodo_grupes:

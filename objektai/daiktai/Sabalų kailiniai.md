@@ -11,6 +11,7 @@ date_end: '1428'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - drabužis
   - daiktas
 amziai:
   - 'XV'

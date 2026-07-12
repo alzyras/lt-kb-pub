@@ -17,7 +17,6 @@ atnaujinta: ''
 tags:
   - bajorija
   - grupe
-  - seimas
 amziai:
   - 'XVIII'
   - 'XX'

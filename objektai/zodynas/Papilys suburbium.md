@@ -12,8 +12,9 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
   - sąvoka
+  - istorinė-sąvoka
+  - karinis-terminas
 amziai:
   - 'XIV'
 media_total_count: '0'

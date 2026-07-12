@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - pilis
   - posakis
-  - upė
 amziai:
   - 'XV'
 media_total_count: '0'

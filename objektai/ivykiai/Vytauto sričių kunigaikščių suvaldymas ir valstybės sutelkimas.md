@@ -11,10 +11,9 @@ date_end: '1397'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - didikas
+  - politinis-sprendimas
   - ivykis
-  - kunigaikštis
+  - reforma
 amziai:
   - 'XIV'
 media_total_count: '0'

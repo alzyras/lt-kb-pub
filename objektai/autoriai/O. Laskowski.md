@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

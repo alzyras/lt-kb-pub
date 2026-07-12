@@ -9,6 +9,9 @@ date_start: '559'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'VI'
 media_total_count: '0'

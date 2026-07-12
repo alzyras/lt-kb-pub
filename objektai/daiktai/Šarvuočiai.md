@@ -11,6 +11,8 @@ date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - transportas
+  - karo-reikmuo
   - daiktas
 amziai:
   - 'XX'

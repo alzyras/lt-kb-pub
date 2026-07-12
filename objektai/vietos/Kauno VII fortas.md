@@ -11,7 +11,6 @@ date_end: '1941'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
   - vieta
 amziai:
   - 'XX'

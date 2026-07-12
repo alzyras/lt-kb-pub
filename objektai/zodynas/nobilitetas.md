@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - sąvoka
+  - socialinis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

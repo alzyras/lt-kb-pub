@@ -11,6 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - politinis-sprendimas
 amziai:
   - 'XVIII'
 media_total_count: '0'

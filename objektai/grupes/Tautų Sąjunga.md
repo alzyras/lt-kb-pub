@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - grupe
   - institucija
-  - karas
   - tauta
+  - kariuomenė
 amziai:
   - 'XX'
   - 'XXI'

@@ -13,10 +13,8 @@ date_end: '1330'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pilis
+  - religinis-terminas
   - sąvoka
-  - vyskupas
-  - šeima
 amziai:
   - 'XI'
   - 'XIV'

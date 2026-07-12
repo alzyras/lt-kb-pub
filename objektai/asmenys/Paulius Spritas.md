@@ -9,6 +9,9 @@ date_start: '1530'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - asmuo
 amziai:
   - 'XVI'
 periodo_grupes:

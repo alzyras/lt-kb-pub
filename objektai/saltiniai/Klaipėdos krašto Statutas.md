@@ -14,7 +14,7 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
+  - dokumentas
   - saltinis
 amziai:
   - 'XX'

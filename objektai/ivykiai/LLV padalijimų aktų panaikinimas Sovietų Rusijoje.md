@@ -11,9 +11,8 @@ date_end: '1918'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - politinis-sprendimas
   - ivykis
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XVIII'
   - 'XX'

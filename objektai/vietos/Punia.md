@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - valstybė
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
 media_total_count: '0'

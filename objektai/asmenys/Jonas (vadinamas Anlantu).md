@@ -13,7 +13,6 @@ tags:
   - asmuo
   - karalius
   - kunigaikštis
-  - teisinė-praktika
 amziai:
   - 'XIV'
 periodo_grupes:

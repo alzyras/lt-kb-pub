@@ -12,10 +12,9 @@ date_end: '1500'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
+  - žygis
   - ivykis
-  - kunigaikštis
-  - miestas
-  - popiežius
 amziai:
   - 'XIII'
   - 'XV'

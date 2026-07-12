@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
+  - suvažiavimas
   - ivykis
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XV'
 media_total_count: '0'

@@ -6,10 +6,9 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
+  - teisinė-praktika
   - paprotys
-  - pilis
+  - karinė-praktika
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

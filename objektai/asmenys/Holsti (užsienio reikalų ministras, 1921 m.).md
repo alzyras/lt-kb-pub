@@ -36,6 +36,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - ministras
   - asmuo
 ---
 # Holsti (užsienio reikalų ministras, 1921 m.)

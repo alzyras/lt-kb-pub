@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - pilis
 amziai:
   - 'XVI'
 media_total_count: '0'

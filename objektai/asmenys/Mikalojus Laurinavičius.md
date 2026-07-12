@@ -13,8 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
-  - tikėjimas
 amziai:
   - 'XV'
 periodo_grupes:

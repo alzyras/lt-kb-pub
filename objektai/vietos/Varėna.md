@@ -11,10 +11,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - karas
   - miestas
-  - sutartis
+  - vieta
 amziai:
   - 'XV'
   - 'XXI'

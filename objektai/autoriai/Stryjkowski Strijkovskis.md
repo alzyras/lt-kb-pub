@@ -11,7 +11,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - miestas
   - valdovas
 amziai: []
 periodo_grupes: []

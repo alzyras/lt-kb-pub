@@ -11,8 +11,8 @@ date_end: '1930'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorinė-sąvoka
   - sąvoka
-  - valdovas
 amziai:
   - 'XIV'
   - 'XX'

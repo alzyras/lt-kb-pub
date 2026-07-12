@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - miestas
+  - karvedys
 amziai:
   - 'XX'
 periodo_grupes:

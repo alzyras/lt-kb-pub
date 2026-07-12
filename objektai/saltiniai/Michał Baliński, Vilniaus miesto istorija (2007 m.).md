@@ -14,7 +14,7 @@ date_end: '2007'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - vilnius
+  - saltinis
 amziai:
   - 'XV'
   - 'XXI'

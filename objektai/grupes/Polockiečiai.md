@@ -10,6 +10,9 @@ date_start: '1273'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tauta
+  - grupe
 amziai:
   - 'XIII'
 media_total_count: '0'

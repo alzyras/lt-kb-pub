@@ -14,6 +14,9 @@ date_start: '1323'
 date_end: '1966'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XIV'
   - 'XX'

@@ -11,8 +11,8 @@ date_end: '1922'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - institucija
 amziai:
   - 'XX'
 periodo_grupes:

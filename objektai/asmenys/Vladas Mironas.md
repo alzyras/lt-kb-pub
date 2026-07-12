@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
+  - ministras
+  - kunigas
 amziai:
   - 'XX'
 periodo_grupes:

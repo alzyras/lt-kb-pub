@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

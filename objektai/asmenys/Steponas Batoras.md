@@ -13,9 +13,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - elekcija
-  - karas
   - popiežius
+  - istorikas
+  - karalius
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

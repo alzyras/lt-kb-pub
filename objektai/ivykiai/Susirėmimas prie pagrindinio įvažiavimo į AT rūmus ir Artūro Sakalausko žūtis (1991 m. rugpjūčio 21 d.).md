@@ -10,7 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - konfliktas
   - ivykis
+  - mūšis
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - sukilimas
   - tauta
 amziai:
   - 'XVIII'

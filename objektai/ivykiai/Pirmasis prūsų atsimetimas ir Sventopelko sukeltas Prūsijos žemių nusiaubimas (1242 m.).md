@@ -13,9 +13,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - ordinas
-  - tauta
+  - karas
+  - sukilimas
 amziai:
   - 'XIII'
 media_total_count: '0'

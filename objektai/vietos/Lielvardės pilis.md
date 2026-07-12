@@ -9,6 +9,9 @@ date_start: '1262'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

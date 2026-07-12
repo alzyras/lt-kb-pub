@@ -12,10 +12,8 @@ date_end: '1236'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mūšis
   - ivykis
-  - kunigaikštis
-  - ordinas
-  - popiežius
 amziai:
   - 'XIII'
 media_total_count: '0'

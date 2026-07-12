@@ -6,9 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
-  - mūšis
-  - pilis
   - sąvoka
 media_total_count: '0'
 media_primary_thumb_url: ''

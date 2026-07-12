@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - sutartis
+  - karvedys
 amziai:
   - 'XIV'
 periodo_grupes:

@@ -9,6 +9,10 @@ date_start: '1419'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - politinis-sprendimas
+  - ivykis
+  - diplomatinis-įvykis
 amziai:
   - 'XV'
 media_total_count: '0'

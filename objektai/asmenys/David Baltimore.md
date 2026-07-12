@@ -9,8 +9,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - mokslininkas
   - asmuo
-  - šeima
 amziai:
   - 'D'
 periodo_grupes: []

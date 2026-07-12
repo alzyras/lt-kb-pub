@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - popiežius
   - vieta
 amziai:
   - 'XIV'

@@ -11,6 +11,9 @@ date_start: '650'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - pilis
+  - vieta
 amziai:
   - 'VII'
   - 'XXI'

@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - diplomatas
-  - miestas
-  - ordinas
+  - vyskupas
+  - karalius
 amziai:
   - 'XIV'
 periodo_grupes:

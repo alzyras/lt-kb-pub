@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - karalius
-  - miestas
+  - ekonominis-įvykis
 amziai:
   - 'XVI'
 media_total_count: '0'

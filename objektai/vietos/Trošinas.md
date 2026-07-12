@@ -9,6 +9,9 @@ date_start: '1260'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - miestelis
+  - vieta
 amziai:
   - 'XIII'
 media_total_count: '0'

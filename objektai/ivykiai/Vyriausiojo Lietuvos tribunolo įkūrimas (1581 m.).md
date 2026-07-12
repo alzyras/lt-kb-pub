@@ -11,9 +11,7 @@ date_end: '1581'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
-  - miestas
   - seimas
 amziai:
   - 'XVI'

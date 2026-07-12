@@ -10,9 +10,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
-  - sutartis
-  - tikėjimas
+  - ministras
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

@@ -11,8 +11,8 @@ date_end: '1385'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigaikštis
   - asmuo
-  - pilis
 amziai:
   - 'XIV'
 periodo_grupes:

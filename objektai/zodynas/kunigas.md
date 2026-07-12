@@ -11,9 +11,9 @@ date_end: '890'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
-  - kunigas
   - sąvoka
+  - archajiškas-žodis
+  - socialinis-terminas
 amziai:
   - 'IX'
 media_total_count: '0'

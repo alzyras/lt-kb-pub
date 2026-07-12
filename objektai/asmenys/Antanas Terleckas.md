@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - reforma
-  - teisinė-praktika
+  - sukilėlis
 amziai:
   - 'XX'
 periodo_grupes:

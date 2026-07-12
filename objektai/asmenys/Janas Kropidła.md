@@ -12,8 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - mūšis
-  - pilis
+  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

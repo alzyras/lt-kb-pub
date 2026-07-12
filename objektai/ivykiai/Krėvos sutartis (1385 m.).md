@@ -11,10 +11,8 @@ date_end: '1387'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - sutartis
   - ivykis
-  - karalius
-  - kunigaikštis
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -9,6 +9,9 @@ date_start: '1557'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XVI'
 media_total_count: '0'

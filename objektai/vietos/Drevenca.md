@@ -7,7 +7,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
   - upė
   - vieta
 media_total_count: '0'

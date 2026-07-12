@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - sąvoka
+  - politinis-terminas
 amziai:
   - 'XIX'
   - 'XXI'

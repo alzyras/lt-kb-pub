@@ -15,9 +15,7 @@ date_end: '1565'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - didikas
-  - kunigaikštis
-  - reforma
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'X'

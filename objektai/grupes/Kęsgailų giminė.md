@@ -10,6 +10,9 @@ date_start: '1490'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - giminė
+  - grupe
 amziai:
   - 'XV'
 media_total_count: '0'

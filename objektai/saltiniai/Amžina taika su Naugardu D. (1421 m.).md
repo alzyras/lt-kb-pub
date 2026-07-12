@@ -10,9 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
   - saltinis
-  - tauta
 amziai:
   - 'XV'
 media_total_count: '0'

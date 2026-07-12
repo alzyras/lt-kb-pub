@@ -11,6 +11,9 @@ date_start: '1672'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - saltinis
+  - dokumentas
 amziai:
   - 'XVII'
   - 'XXI'

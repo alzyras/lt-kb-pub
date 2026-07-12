@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - didikas
-  - valstybė
 amziai:
   - 'XIX'
 periodo_grupes:

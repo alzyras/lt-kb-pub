@@ -12,10 +12,8 @@ date_end: '1536'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - miestas
-  - mūšis
-  - ordinas
+  - vieta
 amziai:
   - 'XIV'
   - 'XVI'

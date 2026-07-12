@@ -11,6 +11,7 @@ date_end: '1925'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - istorikas
   - autorius
 amziai:
   - 'XX'

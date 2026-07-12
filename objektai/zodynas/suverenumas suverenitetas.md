@@ -11,10 +11,8 @@ date_end: '1989'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - reforma
+  - politinis-terminas
   - sąvoka
-  - tauta
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

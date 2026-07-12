@@ -12,9 +12,7 @@ date_end: '1862'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
   - paprotys
-  - sukilimas
   - teisinė-praktika
 amziai:
   - 'XVIII'

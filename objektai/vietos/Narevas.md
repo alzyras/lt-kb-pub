@@ -17,6 +17,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - upė
 amziai:
   - 'XII'
   - 'XXI'

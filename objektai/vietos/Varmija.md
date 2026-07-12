@@ -11,9 +11,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - kaimas
   - kraštas
-  - ordinas
   - vieta
 amziai:
   - 'XIV'

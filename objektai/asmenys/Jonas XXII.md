@@ -15,8 +15,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - ordinas
   - popiežius
+  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

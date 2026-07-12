@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kariuomenė
   - grupe
   - institucija
-  - karalius
-  - kunigaikštis
 amziai:
   - 'XVI'
 media_total_count: '0'

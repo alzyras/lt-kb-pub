@@ -11,6 +11,9 @@ date_start: '1750'
 date_end: '1842'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rašytojas
+  - autorius
 amziai:
   - 'XVIII'
   - 'XIX'

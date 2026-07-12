@@ -14,6 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - vieta
+  - regionas
 amziai:
   - 'XIV'
   - 'XXI'

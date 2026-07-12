@@ -10,6 +10,9 @@ date_start: '1341'
 date_end: '1345'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
+  - socialinė-grupė
 amziai:
   - 'XIV'
 media_total_count: '0'

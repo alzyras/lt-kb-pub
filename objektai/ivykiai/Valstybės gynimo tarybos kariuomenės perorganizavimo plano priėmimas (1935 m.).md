@@ -13,10 +13,8 @@ date_end: '1938'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - kraštas
-  - valstybė
+  - reforma
 amziai:
   - 'XX'
 media_total_count: '0'

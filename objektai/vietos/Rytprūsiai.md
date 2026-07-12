@@ -12,8 +12,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - tauta
   - vieta
+  - regionas
 amziai:
   - 'XXI'
 media_total_count: '0'

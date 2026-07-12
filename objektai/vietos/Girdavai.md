@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - pilis
-  - tauta
-  - tikėjimas
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIII'
 media_total_count: '0'

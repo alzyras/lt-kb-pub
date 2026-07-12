@@ -12,10 +12,7 @@ date_end: '1393'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - ordinas
   - paprotys
-  - pilis
 amziai:
   - 'XIV'
 media_total_count: '0'

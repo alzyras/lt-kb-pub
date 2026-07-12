@@ -16,10 +16,8 @@ date_end: '1280'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
+  - mūšis
   - ivykis
-  - karalius
-  - kraštas
 amziai:
   - 'XIII'
 media_total_count: '0'

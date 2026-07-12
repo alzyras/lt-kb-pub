@@ -6,6 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - dvaras
   - upė
   - vieta
 media_total_count: '0'

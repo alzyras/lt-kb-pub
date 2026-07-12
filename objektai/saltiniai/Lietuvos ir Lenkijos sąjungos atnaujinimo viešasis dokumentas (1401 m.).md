@@ -9,6 +9,9 @@ date_start: '1401'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dokumentas
+  - saltinis
 amziai:
   - 'XV'
 media_total_count: '0'

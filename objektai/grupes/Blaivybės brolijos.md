@@ -32,8 +32,7 @@ laikotarpis: '1858–1863 m.'
 periodas: 'naujieji_laikai'
 tags:
   - grupe
-  - kraštas
-  - vyskupas
+  - organizacija
 ---
 # Blaivybės brolijos
 

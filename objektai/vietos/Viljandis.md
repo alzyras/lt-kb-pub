@@ -12,6 +12,7 @@ date_end: '1609'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - miestas
   - vieta
 amziai:
   - 'XVII'

@@ -11,8 +11,7 @@ date_end: '1324'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - popiežius
+  - formulė
   - posakis
 amziai:
   - 'XIV'

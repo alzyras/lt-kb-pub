@@ -25,10 +25,9 @@ date_end: '1589'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - unija
   - valstybė
   - vieta
+  - miestas
 amziai:
   - 'XII'
   - 'XVI'

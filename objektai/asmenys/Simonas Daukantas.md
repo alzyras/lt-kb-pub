@@ -14,9 +14,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - dokumentas
-  - kraštas
-  - valstybė
+  - istorikas
 amziai:
   - 'XVIII'
   - 'XIX'

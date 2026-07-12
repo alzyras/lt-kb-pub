@@ -23,6 +23,7 @@ media_contextual_json: |-
 media_all_json: |-
   []
 tags:
+  - drabužis
   - daiktas
 ---
 # Vyža

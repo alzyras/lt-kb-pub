@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - popiežius
   - sutartis
 amziai:
   - 'XV'

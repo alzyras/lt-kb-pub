@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - miestas
   - sąvoka
+  - ekonominis-terminas
 amziai:
   - 'XV'
 media_total_count: '0'

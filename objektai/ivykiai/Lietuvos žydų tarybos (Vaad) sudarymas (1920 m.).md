@@ -10,7 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
+  - politinis-sprendimas
   - ivykis
 amziai:
   - 'XX'

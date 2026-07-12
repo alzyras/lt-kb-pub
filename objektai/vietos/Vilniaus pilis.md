@@ -14,10 +14,9 @@ date_end: '1581'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - valdovas
+  - pilis
   - vieta
+  - gyvenvietė
 amziai:
   - 'XIV'
   - 'XVI'

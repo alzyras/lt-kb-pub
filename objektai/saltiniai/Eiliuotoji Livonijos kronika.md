@@ -10,9 +10,6 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - mūšis
-  - ordinas
   - saltinis
 amziai:
   - 'XIII'

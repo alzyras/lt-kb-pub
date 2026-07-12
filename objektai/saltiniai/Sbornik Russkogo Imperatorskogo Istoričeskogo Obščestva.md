@@ -12,7 +12,6 @@ date_end: '1892'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - diplomatas
   - saltinis
 amziai:
   - 'XV'

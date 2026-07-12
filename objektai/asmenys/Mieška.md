@@ -13,8 +13,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - krikštas
   - kunigaikštis
+  - valdovas
 amziai:
   - 'X'
   - 'XI'

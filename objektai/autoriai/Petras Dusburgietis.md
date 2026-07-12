@@ -16,8 +16,7 @@ atnaujinta: ''
 tags:
   - autorius
   - karalius
-  - mūšis
-  - ordinas
+  - kunigas
 amziai:
   - 'XIII'
   - 'XIV'

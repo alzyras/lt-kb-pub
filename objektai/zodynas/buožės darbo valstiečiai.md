@@ -11,10 +11,10 @@ date_end: '1951'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - istorinė-sąvoka
+  - socialinis-terminas
   - sąvoka
-  - transportas
-  - valstybė
+  - ekonominis-terminas
 amziai:
   - 'XX'
 media_total_count: '0'

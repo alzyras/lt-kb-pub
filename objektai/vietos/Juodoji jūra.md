@@ -12,6 +12,10 @@ variantai:
   - 'Uksinė marė'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - jūra
+  - pilis
+  - vieta
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

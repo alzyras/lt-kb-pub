@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - kraštas
   - vieta
-  - vyskupas
 amziai:
   - 'XI'
 media_total_count: '0'

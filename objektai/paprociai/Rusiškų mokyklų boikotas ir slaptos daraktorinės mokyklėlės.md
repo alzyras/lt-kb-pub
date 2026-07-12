@@ -12,10 +12,8 @@ date_end: '1897'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
+  - švietimas
   - paprotys
-  - sukilimas
-  - vyskupas
 amziai:
   - 'XIX'
 media_total_count: '0'

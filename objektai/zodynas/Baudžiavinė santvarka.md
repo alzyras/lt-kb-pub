@@ -13,8 +13,7 @@ date_end: '1900'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - reforma
+  - istorinė-sąvoka
   - sąvoka
 amziai:
   - 'XIX'

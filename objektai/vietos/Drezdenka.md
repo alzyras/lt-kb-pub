@@ -6,7 +6,6 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - kraštas
   - pilis
   - vieta

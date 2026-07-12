@@ -11,10 +11,7 @@ date_end: '1755'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - saltinis
-  - seimas
-  - unija
 amziai:
   - 'XV'
   - 'XVIII'

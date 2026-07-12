@@ -9,6 +9,9 @@ date_start: '1440'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - konfliktas
+  - ivykis
 amziai:
   - 'XV'
 media_total_count: '0'

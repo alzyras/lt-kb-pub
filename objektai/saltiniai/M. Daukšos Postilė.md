@@ -12,8 +12,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - saltinis
-  - tauta
-  - valstybė
 amziai:
   - 'XVI'
 media_total_count: '0'

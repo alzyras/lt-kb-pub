@@ -13,7 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kraštas
+  - okupacija
 amziai:
   - 'XX'
   - 'XXI'

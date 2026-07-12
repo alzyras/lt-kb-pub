@@ -11,9 +11,8 @@ date_end: '1568'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
   - daiktas
-  - vyskupas
-  - šeima
 amziai:
   - 'XVI'
 media_total_count: '0'

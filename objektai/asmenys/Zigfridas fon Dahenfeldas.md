@@ -10,6 +10,10 @@ date_start: '1356'
 date_end: '1360'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karvedys
+  - pareigūnas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

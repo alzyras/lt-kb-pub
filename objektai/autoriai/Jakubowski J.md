@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - rašytojas
   - autorius
-  - tauta
 amziai:
   - 'XX'
 periodo_grupes:

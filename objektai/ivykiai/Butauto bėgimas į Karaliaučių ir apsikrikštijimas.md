@@ -11,8 +11,8 @@ date_end: '1369'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - krikštas
   - ivykis
-  - karalius
 amziai:
   - 'XIV'
 media_total_count: '0'

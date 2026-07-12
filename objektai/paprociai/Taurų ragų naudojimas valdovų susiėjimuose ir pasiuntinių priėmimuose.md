@@ -9,6 +9,9 @@ date_start: '1429'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - paprotys
+  - ritualas
 amziai:
   - 'XV'
 media_total_count: '0'

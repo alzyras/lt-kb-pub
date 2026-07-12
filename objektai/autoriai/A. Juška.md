@@ -10,8 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karalius
   - autorius
-  - krikštas
 amziai:
   - 'XX'
 periodo_grupes:

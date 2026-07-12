@@ -11,9 +11,7 @@ date_end: '1905'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - elekcija
-  - institucija
-  - karalius
+  - politinis-terminas
   - sąvoka
 amziai:
   - 'XIX'

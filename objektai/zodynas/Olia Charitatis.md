@@ -10,9 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - pinigai
   - sąvoka
-  - teisinė-praktika
+  - socialinis-terminas
 amziai:
   - 'XVIII'
 media_total_count: '0'

@@ -10,6 +10,9 @@ date_start: '1387'
 date_end: '1388'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - valdovas
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

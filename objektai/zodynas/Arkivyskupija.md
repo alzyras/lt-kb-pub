@@ -10,6 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - religinis-terminas
   - sąvoka
 amziai:
   - 'XIV'

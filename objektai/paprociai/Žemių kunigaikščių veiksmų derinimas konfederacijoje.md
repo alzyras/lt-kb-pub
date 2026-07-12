@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - paprotys
-  - sutartis
-  - valdovas
+  - politinė-praktika
 amziai:
   - 'XIII'
 media_total_count: '0'

@@ -12,6 +12,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
+  - gentis
+  - etninė-grupė
 amziai:
   - 'XIII'
 media_total_count: '0'

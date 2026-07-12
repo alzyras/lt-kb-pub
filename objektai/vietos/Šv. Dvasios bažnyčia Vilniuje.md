@@ -12,10 +12,8 @@ variantai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - teisinė-praktika
+  - šventvietė
   - vieta
-  - vyskupas
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

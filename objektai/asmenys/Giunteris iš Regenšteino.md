@@ -10,10 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - valdovas
   - asmuo
-  - ginklas
   - kunigaikštis
-  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:

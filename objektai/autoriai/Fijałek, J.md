@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - autorius
   - kunigaikštis
-  - ordinas
 amziai:
   - 'XX'
 periodo_grupes:

@@ -9,6 +9,9 @@ date_start: '1290'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - mūšis
+  - ivykis
 amziai:
   - 'XIII'
 media_total_count: '0'

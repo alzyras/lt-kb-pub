@@ -11,7 +11,7 @@ date_end: '1398'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - pilis
   - vieta
 amziai:
   - 'XIV'

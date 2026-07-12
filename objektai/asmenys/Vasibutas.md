@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajoras
   - asmuo
-  - bajorija
-  - kraštas
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

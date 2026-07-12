@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - ordinas
+  - politinis-sprendimas
 amziai:
   - 'XIII'
 media_total_count: '0'

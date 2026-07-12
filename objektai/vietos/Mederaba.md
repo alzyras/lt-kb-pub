@@ -13,7 +13,6 @@ atnaujinta: ''
 tags:
   - pilis
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'

@@ -11,6 +11,9 @@ date_start: '400'
 date_end: '484'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karalius
+  - autorius
 amziai:
   - 'IV'
   - 'V'

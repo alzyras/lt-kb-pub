@@ -10,6 +10,8 @@ date_start: '1567'
 date_end: '1568'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - grupe
 amziai:
   - 'XVI'
 media_total_count: '0'

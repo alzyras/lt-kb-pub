@@ -13,7 +13,7 @@ atnaujinta: ''
 tags:
   - autorius
   - mokslininkas
-  - vilnius
+  - istorikas
 amziai: []
 periodo_grupes: []
 media_total_count: '0'

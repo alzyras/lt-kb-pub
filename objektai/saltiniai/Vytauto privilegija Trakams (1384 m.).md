@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ežeras
-  - kunigaikštis
-  - miestas
-  - pilis
+  - saltinis
 amziai:
   - 'XIV'
 media_total_count: '0'

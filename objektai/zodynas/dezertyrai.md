@@ -12,9 +12,8 @@ date_end: '1945'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - karinis-terminas
   - sąvoka
-  - teisinė-praktika
 amziai:
   - 'XX'
 media_total_count: '0'

@@ -9,6 +9,9 @@ date_start: '1784'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorikas
+  - autorius
 amziai:
   - 'XVIII'
 periodo_grupes:

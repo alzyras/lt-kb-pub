@@ -12,7 +12,7 @@ date_end: '1418'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ordinas
+  - miestas
   - vieta
 amziai:
   - 'XV'

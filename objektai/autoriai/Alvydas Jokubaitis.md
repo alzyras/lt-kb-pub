@@ -11,8 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - institucija
   - mokslininkas
+  - ministras
 amziai:
   - 'XXI'
 periodo_grupes:

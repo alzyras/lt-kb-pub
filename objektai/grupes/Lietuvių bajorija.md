@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - bajorija
   - grupe
   - institucija
-  - kunigaikštis
   - ordinas
 amziai:
   - 'XV'

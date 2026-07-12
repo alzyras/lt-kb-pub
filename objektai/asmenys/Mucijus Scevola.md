@@ -9,6 +9,9 @@ date_start: '1326'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - karys
+  - asmuo
 amziai:
   - 'XIV'
 periodo_grupes:

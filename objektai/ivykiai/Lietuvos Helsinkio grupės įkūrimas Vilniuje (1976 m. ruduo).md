@@ -11,10 +11,7 @@ date_end: '1988'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - dokumentas
   - ivykis
-  - teisinė-praktika
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

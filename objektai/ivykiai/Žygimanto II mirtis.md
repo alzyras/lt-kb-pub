@@ -9,6 +9,8 @@ date_start: '1548'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - ivykis
 amziai:
   - 'XVI'
 media_total_count: '0'

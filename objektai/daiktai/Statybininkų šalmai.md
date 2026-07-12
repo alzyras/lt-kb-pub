@@ -11,8 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - institucija
-  - miestas
+  - karo-reikmuo
 amziai:
   - 'XX'
 media_total_count: '0'

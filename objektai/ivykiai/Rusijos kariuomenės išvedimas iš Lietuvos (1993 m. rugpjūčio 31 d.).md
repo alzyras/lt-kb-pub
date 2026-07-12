@@ -13,6 +13,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
+  - diplomatinis-įvykis
 amziai:
   - 'XX'
   - 'XXI'

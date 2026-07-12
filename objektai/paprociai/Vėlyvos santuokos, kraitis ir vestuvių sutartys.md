@@ -10,6 +10,10 @@ date_start: '1340'
 date_end: '2026'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - vedybos
+  - šeima
+  - paprotys
 amziai:
   - 'XIV'
   - 'XXI'

@@ -11,8 +11,8 @@ date_end: '1241'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pareigūnas
   - asmuo
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:

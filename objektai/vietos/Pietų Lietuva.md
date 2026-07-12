@@ -12,7 +12,7 @@ date_end: '1956'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
+  - kaimas
   - vieta
 amziai:
   - 'XX'

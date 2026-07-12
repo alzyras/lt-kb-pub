@@ -12,8 +12,7 @@ date_end: '1923'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karas
-  - sukilimas
+  - miestas
   - vieta
 amziai:
   - 'XIII'

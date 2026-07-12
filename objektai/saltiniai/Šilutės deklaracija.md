@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
-  - kraštas
   - saltinis
-  - seimas
+  - dokumentas
 amziai:
   - 'XX'
 media_total_count: '0'

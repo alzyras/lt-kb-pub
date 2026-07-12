@@ -9,6 +9,9 @@ date_start: '1531'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - istorinė-sąvoka
+  - sąvoka
 amziai:
   - 'XVI'
 media_total_count: '0'

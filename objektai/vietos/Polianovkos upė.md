@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - mūšis
-  - sutartis
   - upė
+  - vieta
 amziai:
   - 'XVII'
 media_total_count: '0'

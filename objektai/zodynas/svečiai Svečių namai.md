@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - miestas
-  - sutartis
   - sąvoka
+  - istorinė-sąvoka
 amziai:
   - 'XV'
 media_total_count: '0'

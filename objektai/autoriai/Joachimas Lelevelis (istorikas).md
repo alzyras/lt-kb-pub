@@ -11,8 +11,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - asmuo
+  - istorikas
   - mokslininkas
+  - autorius
 amziai:
   - 'XIX'
 periodo_grupes:

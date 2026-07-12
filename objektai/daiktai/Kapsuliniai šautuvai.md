@@ -14,8 +14,6 @@ atnaujinta: ''
 tags:
   - daiktas
   - ginklas
-  - karas
-  - mūšis
 amziai:
   - 'XIX'
 media_total_count: '0'

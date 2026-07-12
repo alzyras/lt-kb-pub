@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - miestas
-  - reforma
-  - ritualas
-  - tikėjimas
+  - vieta
 amziai:
   - 'XVI'
 media_total_count: '0'

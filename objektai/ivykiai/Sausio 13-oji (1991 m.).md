@@ -15,10 +15,10 @@ date_end: '1991'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - institucija
   - ivykis
-  - karalius
-  - tauta
+  - okupacija
+  - socialinis-įvykis
+  - konfliktas
 amziai:
   - 'XX'
 media_total_count: '0'

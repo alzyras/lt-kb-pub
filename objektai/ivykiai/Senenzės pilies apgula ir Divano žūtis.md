@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - mūšis
   - ivykis
-  - pilis
+  - karas
 amziai:
   - 'XIII'
 media_total_count: '0'

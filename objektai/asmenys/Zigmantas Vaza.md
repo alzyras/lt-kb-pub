@@ -15,8 +15,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - karalius
-  - karas
-  - upė
 amziai:
   - 'XVI'
   - 'XVII'

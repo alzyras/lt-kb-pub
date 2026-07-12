@@ -12,7 +12,6 @@ date_end: '1899'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
   - saltinis
 amziai:
   - 'XIX'

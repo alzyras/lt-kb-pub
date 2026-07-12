@@ -12,9 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
-  - miestas
-  - popiežius
+  - sutartis
 amziai:
   - 'XIV'
 media_total_count: '0'

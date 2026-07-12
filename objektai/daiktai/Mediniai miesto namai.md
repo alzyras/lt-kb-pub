@@ -11,9 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - daiktas
-  - miestas
-  - mūšis
-  - ordinas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -13,10 +13,8 @@ date_end: '1536'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - ordinas
   - grupe
-  - karalius
-  - kunigaikštis
-  - valdovas
 amziai:
   - 'XIII'
   - 'XVI'

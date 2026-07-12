@@ -12,8 +12,6 @@ atnaujinta: ''
 tags:
   - asmuo
   - kunigaikštis
-  - miestas
-  - ritualas
 amziai:
   - 'XV'
 periodo_grupes:

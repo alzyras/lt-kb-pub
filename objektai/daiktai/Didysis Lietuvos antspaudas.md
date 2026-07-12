@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - antspaudas
   - daiktas
-  - diplomatas
-  - karalius
-  - tauta
 amziai:
   - 'XVI'
 media_total_count: '0'

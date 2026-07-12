@@ -15,8 +15,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
-  - pilis
+  - karalius
+  - kunigaikštis
 amziai:
   - 'XVI'
 periodo_grupes:

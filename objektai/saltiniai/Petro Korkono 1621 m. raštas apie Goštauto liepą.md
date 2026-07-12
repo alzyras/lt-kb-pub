@@ -10,10 +10,8 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigas
-  - miestas
+  - dokumentas
   - saltinis
-  - tauta
 amziai:
   - 'XVII'
 media_total_count: '0'

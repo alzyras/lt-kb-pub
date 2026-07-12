@@ -12,6 +12,7 @@ date_end: '1334'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kaimas
   - vieta
 amziai:
   - 'XII'

@@ -12,10 +12,10 @@ date_end: '1253'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - krikštas
   - ivykis
-  - karalius
   - karas
-  - ordinas
+  - karūnacija
 amziai:
   - 'XIII'
 media_total_count: '0'

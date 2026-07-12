@@ -16,9 +16,6 @@ date_end: '1621'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
-  - ginklas
-  - mūšis
   - saltinis
 amziai:
   - 'XVI'

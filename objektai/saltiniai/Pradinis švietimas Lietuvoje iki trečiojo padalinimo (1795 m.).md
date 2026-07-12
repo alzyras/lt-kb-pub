@@ -14,8 +14,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - dokumentas
-  - institucija
-  - kraštas
   - saltinis
 amziai:
   - 'XVIII'

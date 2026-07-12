@@ -9,6 +9,9 @@ date_start: '1232'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - dvasininkas
+  - autorius
 amziai:
   - 'XIII'
 periodo_grupes:

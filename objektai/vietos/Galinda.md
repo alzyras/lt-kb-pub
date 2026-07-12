@@ -15,6 +15,7 @@ tags:
   - ežeras
   - upė
   - vieta
+  - žemė
 amziai:
   - 'XIII'
 media_total_count: '0'

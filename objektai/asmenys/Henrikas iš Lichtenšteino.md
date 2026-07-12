@@ -11,9 +11,8 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - karas
   - kunigaikštis
-  - mūšis
+  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:

@@ -11,6 +11,10 @@ date_start: '1263'
 date_end: '1399'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - tikėjimas
+  - paprotys
+  - religinė-praktika
 amziai:
   - 'XIII'
   - 'XIV'

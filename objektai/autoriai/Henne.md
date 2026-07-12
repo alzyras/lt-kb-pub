@@ -9,6 +9,8 @@ date_start: '1273'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - autorius
 amziai:
   - 'XIII'
 periodo_grupes:

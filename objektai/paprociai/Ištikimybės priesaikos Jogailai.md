@@ -13,9 +13,8 @@ date_end: '2026'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
   - paprotys
+  - priesaika
 amziai:
   - 'XV'
   - 'XXI'

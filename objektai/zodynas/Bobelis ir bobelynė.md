@@ -33,7 +33,9 @@ media_contextual_json: |-
   []
 media_all_json: |-
   []
-tags: []
+tags:
+  - socialinis-terminas
+  - sąvoka
 ---
 # Bobelis ir bobelynė
 

@@ -13,8 +13,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - ordinas
-  - sutartis
   - vieta
 amziai:
   - 'XV'

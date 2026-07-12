@@ -10,8 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - kunigas
   - asmuo
-  - bajorija
+  - rašytojas
 amziai:
   - 'XX'
 periodo_grupes:

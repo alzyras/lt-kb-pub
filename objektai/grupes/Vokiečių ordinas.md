@@ -16,9 +16,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - grupe
-  - kraštas
   - ordinas
-  - pilis
 amziai:
   - 'XV'
   - 'XXI'

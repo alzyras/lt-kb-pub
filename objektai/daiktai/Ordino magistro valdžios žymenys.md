@@ -6,10 +6,8 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
+  - simbolis
   - daiktas
-  - kunigaikštis
-  - ordinas
-  - popiežius
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''

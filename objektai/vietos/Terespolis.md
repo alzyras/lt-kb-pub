@@ -12,8 +12,8 @@ date_end: '1811'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - mūšis
   - vieta
+  - miestas
 amziai:
   - 'XVIII'
   - 'XIX'

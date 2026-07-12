@@ -11,10 +11,9 @@ date_end: '1538'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
-  - kunigaikštis
-  - ordinas
+  - ūkis
   - paprotys
+  - teisinė-praktika
 amziai:
   - 'XVI'
 media_total_count: '0'

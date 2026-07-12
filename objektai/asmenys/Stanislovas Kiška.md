@@ -14,7 +14,8 @@ atnaujinta: ''
 tags:
   - asmuo
   - karvedys
-  - transportas
+  - valdovas
+  - kunigaikštis
 amziai:
   - 'XV'
   - 'XVI'

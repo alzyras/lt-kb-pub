@@ -12,10 +12,9 @@ date_end: '1771'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - bajorija
   - ivykis
   - karas
-  - kraštas
+  - mūšis
 amziai:
   - 'XVII'
   - 'XVIII'

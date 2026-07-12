@@ -10,10 +10,7 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - pilis
   - saltinis
-  - tauta
 amziai:
   - 'XX'
 media_total_count: '0'

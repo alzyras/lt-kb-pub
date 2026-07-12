@@ -12,10 +12,8 @@ date_end: '1553'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - vieta
-  - vyskupas
-  - šeima
+  - kaimas
 amziai:
   - 'XVI'
 media_total_count: '0'

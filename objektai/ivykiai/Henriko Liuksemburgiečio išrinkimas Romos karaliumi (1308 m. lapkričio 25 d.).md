@@ -11,10 +11,8 @@ date_end: '1308'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - elekcija
   - ivykis
-  - karalius
-  - valdovas
-  - šventė
 amziai:
   - 'XIII'
   - 'XIV'

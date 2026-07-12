@@ -11,6 +11,9 @@ date_start: '1539'
 date_end: '1646'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - organizacija
+  - grupe
 amziai:
   - 'XVI'
   - 'XVII'

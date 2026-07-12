@@ -9,6 +9,9 @@ date_start: '1757'
 date_end: ''
 sukurta: ''
 atnaujinta: ''
+tags:
+  - teisinis-terminas
+  - sąvoka
 amziai:
   - 'XVIII'
 media_total_count: '0'

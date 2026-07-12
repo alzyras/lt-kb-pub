@@ -12,7 +12,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - kunigaikštis
+  - karas
 amziai:
   - 'XIV'
 media_total_count: '0'

@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - ginklas
   - karalius
-  - ordinas
 amziai:
   - 'XVI'
 periodo_grupes:

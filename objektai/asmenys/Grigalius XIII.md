@@ -12,6 +12,7 @@ atnaujinta: ''
 tags:
   - asmuo
   - popiežius
+  - karalius
 amziai:
   - 'XVI'
 periodo_grupes:

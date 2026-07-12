@@ -11,6 +11,7 @@ date_end: '1580'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - pilis
   - vieta
 amziai:
   - 'XVI'

@@ -12,7 +12,6 @@ atnaujinta: ''
 tags:
   - ivykis
   - krikštas
-  - tauta
 amziai:
   - 'XIV'
 media_total_count: '0'

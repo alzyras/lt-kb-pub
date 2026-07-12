@@ -11,7 +11,6 @@ date_end: '1411'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kunigaikštis
   - saltinis
 amziai:
   - 'XV'

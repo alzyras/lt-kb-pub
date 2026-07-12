@@ -13,10 +13,8 @@ date_end: '1832'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - kraštas
-  - mokslininkas
+  - švietimas
   - paprotys
-  - valstybė
 amziai:
   - 'XVII'
   - 'XIX'

@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
+  - karas
+  - mūšis
   - ivykis
-  - miestas
 amziai:
   - 'XVIII'
 media_total_count: '0'

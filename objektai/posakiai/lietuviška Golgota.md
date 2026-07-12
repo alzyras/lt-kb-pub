@@ -11,10 +11,8 @@ date_end: '1993'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - miestas
-  - popiežius
+  - frazė
   - posakis
-  - tikėjimas
 amziai:
   - 'XX'
 media_total_count: '0'

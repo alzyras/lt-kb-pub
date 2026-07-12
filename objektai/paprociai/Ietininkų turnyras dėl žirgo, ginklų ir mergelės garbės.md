@@ -6,8 +6,7 @@ saltiniai:
 sukurta: ''
 atnaujinta: ''
 tags:
-  - ginklas
-  - ordinas
+  - karyba
   - paprotys
 media_total_count: '0'
 media_primary_thumb_url: ''

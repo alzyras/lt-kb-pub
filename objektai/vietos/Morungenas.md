@@ -12,8 +12,8 @@ atnaujinta: ''
 tags:
   - ežeras
   - miestas
-  - ordinas
   - pilis
+  - vieta
 amziai:
   - 'XIV'
 media_total_count: '0'

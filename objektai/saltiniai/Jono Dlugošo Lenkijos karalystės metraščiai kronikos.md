@@ -18,7 +18,6 @@ date_end: '1978'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - karalius
   - saltinis
 amziai:
   - 'XIX'

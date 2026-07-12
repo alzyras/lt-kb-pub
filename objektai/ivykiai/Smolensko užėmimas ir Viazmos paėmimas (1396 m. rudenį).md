@@ -10,9 +10,9 @@ date_end: ''
 sukurta: ''
 atnaujinta: ''
 tags:
+  - karas
   - ivykis
-  - miestas
-  - šeima
+  - žygis
 amziai:
   - 'XIV'
 media_total_count: '0'

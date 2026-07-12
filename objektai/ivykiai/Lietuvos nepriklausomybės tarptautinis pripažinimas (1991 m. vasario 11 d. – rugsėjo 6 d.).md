@@ -11,9 +11,7 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - ivykis
-  - laidotuvės
   - reforma
-  - valstybė
 amziai:
   - 'XX'
 media_total_count: '0'

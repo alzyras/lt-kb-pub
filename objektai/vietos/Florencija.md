@@ -15,8 +15,8 @@ date_end: '1453'
 sukurta: ''
 atnaujinta: ''
 tags:
-  - unija
   - vieta
+  - miestas
 amziai:
   - 'XV'
 media_total_count: '0'

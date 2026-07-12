@@ -11,7 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - autorius
-  - ordinas
 amziai:
   - 'XIV'
 periodo_grupes:

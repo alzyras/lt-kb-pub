@@ -15,6 +15,7 @@ tags:
   - asmuo
   - kunigas
   - vyskupas
+  - kunigaikštis
 amziai:
   - 'XVI'
 periodo_grupes: []

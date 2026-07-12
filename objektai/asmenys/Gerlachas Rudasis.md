@@ -11,8 +11,6 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - asmuo
-  - drabužis
-  - ordinas
   - popiežius
 amziai:
   - 'XIII'

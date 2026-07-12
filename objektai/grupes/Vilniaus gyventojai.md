@@ -13,10 +13,8 @@ date_end: '1788'
 sukurta: ''
 atnaujinta: ''
 tags:
+  - socialinė-grupė
   - grupe
-  - karalius
-  - kunigaikštis
-  - kunigas
 amziai:
   - 'XIV'
   - 'XVIII'

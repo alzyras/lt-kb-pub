@@ -10,6 +10,9 @@ date_start: '1846'
 date_end: '1863'
 sukurta: ''
 atnaujinta: ''
+tags:
+  - rankraštis
+  - daiktas
 amziai:
   - 'XIX'
 media_total_count: '0'

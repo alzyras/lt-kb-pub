@@ -20,9 +20,9 @@ sukurta: ''
 atnaujinta: ''
 tags:
   - kraštas
-  - kunigaikštis
   - miestas
   - pilis
+  - vieta
 amziai:
   - 'XIII'
   - 'XXI'
