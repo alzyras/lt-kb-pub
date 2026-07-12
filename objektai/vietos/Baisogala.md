@@ -39,21 +39,21 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 ## Teiginiai
 
 <a id="claim-t-125424"></a>
-- t-006
+- t-001
   global_id: t-125424
   teiginys: "1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas."
   pagrindžia:
     - c-114631
 
 <a id="claim-t-125425"></a>
-- t-001
+- t-002
   global_id: t-125425
   teiginys: "1949 m. vasario 2–22 d. bunkeryje tarp Radviliškio ir Baisogalos įvyko pirmasis ir paskutinis visos Lietuvos partizanų vadų suvažiavimas."
   pagrindžia:
     - c-114632
 
 <a id="claim-t-125426"></a>
-- t-005
+- t-003
   global_id: t-125426
   teiginys: "Minaičių kaimas (tarp Radviliškio ir Baisogalos), 1949 m. vasario 11 d. Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos (Nemuno) partizanų atstovai ir vadai."
   pagrindžia:
@@ -63,62 +63,6 @@ sėkmingų L I E T U V O S I S T O R I J A 212 bandymų 1949 m. vasario 2–22 d
 - susijęs iš [[objektai/asmenys/V. Grigaliūnas-Glovackis.md#claim-t-49493|V. Grigaliūnas-Glovackis]]: V. Grigaliūnas-Glovackis vadovavo rezerve buvusiam 2-ajam pėstininkų pulkui.
 - susijęs iš Atviras Lietuvos ponų tarybos laiškas dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje (1586 m. gruodžio 13 d.): 1586 m. gruodžio 13 d. Lietuvos ponų taryba leido Turkijos čiaušui Ibrahimui kurį laiką gyventi Vilniuje ir nurodė pasirūpinti jo nakvyne bei saugumu.
 - susijęs iš Gardinas: 1586 metų gruodžio 13 dieną Gardine Lietuvos ponų taryba parengė laišką dėl Turkijos čiaušo Ibrahimo apgyvendinimo Vilniuje.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    1948 m. lapkritį–1953 m. gegužę pagaliau sukurtos centralizuo-
-    tos struktūros, tačiau jos greitai sunaikintos. Po daugelio nesėkmingų
-
-    L I E T U V O S  I S T O R I J A
-    212
-    bandymų 1949 m. vasario 2–22 d.
-    įvyko pirmasis ir paskutinis visos
-    Lietuvos partizanų vadų suvažiavi-
-    mas bunkeryje tarp Radviliškio ir
-    Baisogalos. Suvažiavime patvirtin-
-    tas naujas organizacijos pavadini-
-    mas: Lietuvos laisvės kovos sąjūdis
-    (LLKS), o patys partizanai pradėti
-    vadinti laisvės kovotojais (oku-
-    pacinė sovietų valdžia paprastai
-    Lietuvos partizanus vadino ban-
-    ditais).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-    - t-001
-
-- c-002
-  šaltinis: Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)
-  citata_originali: |
-    bandymų 1949 m. vasario 2–22 d.
-    įvyko pirmasis ir paskutinis visos
-    Lietuvos partizanų vadų suvažiavi-
-    mas bunkeryje tarp Radviliškio ir
-    Baisogalos. Suvažiavime patvirtin-
-    tas naujas organizacijos pavadini-
-    mas: Lietuvos laisvės kovos sąjūdis
-    (LLKS), o patys partizanai pradėti
-    vadinti laisvės kovotojais (oku-
-    pacinė sovietų valdžia paprastai
-    Lietuvos partizanus vadino ban-
-    ditais). Sąjūdis ėmėsi vadovauti ir
-    politinei, ir karinei pasipriešinimo
-    organizacijų veiklai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-114631

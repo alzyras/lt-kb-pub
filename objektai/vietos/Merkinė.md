@@ -48,98 +48,98 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 ## Teiginiai
 
 <a id="claim-t-180304"></a>
-- t-015
+- t-001
   global_id: t-180304
   teiginys: "1920 m. spalio 7 d. Suvalkų sutartis visą Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje."
   pagrindžia:
     - c-163930
 
 <a id="claim-t-180305"></a>
-- t-016
+- t-002
   global_id: t-180305
   teiginys: "Karaliaus Aleksandro testamento liudytojų sąraše Jonas iš Zabrežjės įvardytas Merkinės laikytoju."
   pagrindžia:
     - c-163935
 
 <a id="claim-t-180306"></a>
-- t-018
+- t-003
   global_id: t-180306
   teiginys: "Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami."
   pagrindžia:
     - c-163941
 
 <a id="claim-t-180307"></a>
-- t-021
+- t-004
   global_id: t-180307
   teiginys: "Po 1945 m. gruodžio 15 d. Merkinės puolimo jame dalyvavę partizanų būriai pamažu atsitraukė iš Merkinės."
   pagrindžia:
     - c-163931
 
 <a id="claim-t-180308"></a>
-- t-007
+- t-005
   global_id: t-180308
   teiginys: "Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo tiesų ir krikštijami."
   pagrindžia:
     - c-163933
 
 <a id="claim-t-180309"></a>
-- t-017
+- t-006
   global_id: t-180309
   teiginys: "1503 m. Vilniuje duotame dokumente Jonas iš Zabrežjės minimas kaip Merkinės laikytojas."
   pagrindžia:
     - c-163935
 
 <a id="claim-t-180311"></a>
-- t-008
+- t-007
   global_id: t-180311
   teiginys: "1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene."
   pagrindžia:
     - c-163939
 
 <a id="claim-t-180312"></a>
-- t-009
+- t-008
   global_id: t-180312
   teiginys: "1945 m. Merkinės puolimas buvo pasiūlytas kaip keršto priešui veiksmas."
   pagrindžia:
     - c-163932
 
 <a id="claim-t-180313"></a>
-- t-010
+- t-009
   global_id: t-180313
   teiginys: "Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę."
   pagrindžia:
     - c-163937
 
 <a id="claim-t-180314"></a>
-- t-011
+- t-010
   global_id: t-180314
   teiginys: "Po 1945 m. gruodžio 15 d. Merkinės puolimo partizanų būriai pamažu atsitraukė iš miestelio."
   pagrindžia:
     - c-163931
 
 <a id="claim-t-180315"></a>
-- t-016
+- t-011
   global_id: t-180315
   teiginys: "1920 m. spalio 7 d. Suvalkų sutartis Gardino apskritį iki Merkinės, Varėnos ir Bastūnų paliko Lenkijos pusėje."
   pagrindžia:
     - c-163930
 
 <a id="claim-t-180316"></a>
-- t-013
+- t-012
   global_id: t-180316
   teiginys: "Jogaila aplankė Merkinę, kur sukvietus vietinius ir apylinkių žmones jie buvo mokomi tikėjimo tiesų ir krikštijami."
   pagrindžia:
     - c-163933
 
 <a id="claim-t-180317"></a>
-- t-014
+- t-013
   global_id: t-180317
   teiginys: "Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos."
   pagrindžia:
     - c-163936
 
 <a id="claim-t-180318"></a>
-- t-012
+- t-014
   global_id: t-180318
   teiginys: "Nuo Gardino link Merkinės besitęsęs Nemuno aukštupio dešiniojo kranto miškų masyvas buvo ištisai lietuvių gyvenamas."
   pagrindžia:
@@ -172,6 +172,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Nemunas: Keliautojai Nemunu vyko iš Merkinės į Kauną, o iš ten Nemunu ir Dubysa pasiekė Aukokalnį ties dabartine Betygala.
 - susijęs iš Turgeliai: Prie Turgelių, netoli Vilniaus, buvusio Merkinės dvaro valstiečiai buvo atleisti už piniginį mokestį ir gavo savivaldybę.
 - susijęs iš Varėnos, Valkininkų ir Merkinės miškai: Balińskis Varėnos, Valkininkų ir Merkinės miškus priskyrė amžinosioms girioms, esą siekiančioms žmonijos pradžią.
+- susijęs iš [[objektai/ivykiai/1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją.md#claim-t-195578|1910-1912 m. A. R. Niemio kelionės po Lietuvą ir Latviją]]: 1911 m. A. R. Niemis keliavo Dzūkijoje per Valkininkus, Merkinę ir Daugus.
 - susijęs iš [[objektai/asmenys/Karalius Kazimieras (1483 m. privilegijos davėjas).md#claim-t-190123|Karalius Kazimieras (1483 m. privilegijos davėjas)]]: Narbutas 1483 metų karaliaus Kazimiero privilegijoje matė įrodymą, kad katinas lietuviams buvo Lietuvos simbolis.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
@@ -199,7 +200,6 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš Dubysa: Žygio į Žemaitiją metu kelias Nemunu vedė iki Dubysos upės ir toliau iki Aukokalnio.
 - susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
 - susijęs iš Dubysos upė: Kelionė iš Kauno tęsėsi Nemunu iki Dubysos upės, o Dubysa - iki Aukokalnio ties dabartine Betygala.
-- susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Lazūnai: Lazūnai, esantys į rytus nuo Lydos, minimi kaip lietuvių kalbos sala gudiškai kalbančiųjų plote arti Nemuno.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
@@ -212,260 +212,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113643|Magdeburgo teisės]]: Vladislovas Jogaila Merkinėje rašytu aktu kitą dieną po Šv. Benedikto, abato, šventės suteikė Vilniui Magdeburgo teises.
 - susijęs iš [[objektai/zodynas/didysis kunigaikštis.md#claim-t-185401|didysis kunigaikštis]]: Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/zodynas/tenuta laikytojas.md#claim-t-86575|tenuta laikytojas]]: 1503 m. Vilniuje duotame rašte Stanislovas Hlebavičius minimas kaip Polocko laikytojas, o Albertas Janavičius - kaip Kauno laikytojas.
+- susijęs iš Dzūkija: Žinios apie Dzūkijos partizanų sėkmę paskatino kitur Lietuvoje veikusius laisvės kovotojus imtis aktyvesnių veiksmų.
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173248|Vladislovas Jogaila]]: Vladislovas Jogaila Merkinėje rašytu iškilmingu aktu suteikė Vilniui Magdeburgo teises.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Dešinysis Nemuno aukštupio krantas, kurio plote nuo Gardino
-    link Merkinės tęsėsi miškų masyvas, buvo ištisai lietuvių gyvena­
-    mas. Tai parodo, be kitko, iki pat dabar gudiškai kalbančiųjų
-    plote, arti Nemuno, išlikusi lietuvių kalbos sala — Lazūnai (į rytus
-    nuo Lydos).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-014
-
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Lietuvos vyriausybė, ir šį kartą
-    tikėdamasi geruoju susitarti, sutiko.
-    Suvalkų derybos pasibaigė susitarimu, kurį abi ša-
-    lys pasirašė 1920 metų spalių mėn. 7 d. Ta sutartis, nespręs-
-    dama sienų klausimo, nustatė demarkacijos liniją Suvalkų kraš-
-    te, kaip ją buvo nustačiusi 1919 metų gruodžio 8 d. Aukščiau-
-    sioji Santarvės Taryba (Kerzono linija); bet toliau už Nemuno
-    — visą Gardino apskritį ligi Merkinės, Varėnos ir Bastūnų
-
-    (prie Lydos—Vilniaus geležinkelio) sutartis paliko Lenkų pu-
-    sėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-    - t-011
-
-- c-003
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Antrasis būrys be įsakymo
-
-    MERKINĖS PUOLIMAS 1945 m. gruodžio 15 d.
-
-    dalyvavę būriai ir pamažu atsitraukė
-
-    iš miestelio. Stipriai nukentėjęs priešas
-
-    atsitraukiančių partizanų nepersekiojo.
-    Kautynių metu iš Alytaus rusai trimis
-
-    sunkvežimiais skubėjo į pagalbą Merkinės
-
-    NKVD kariams ir stribams. Tačiau jie
-
-    ## Puslapis 235
-
-    LIETUVOS REZISTENCINIO JUDĖJIMO CENTRALIZACIJA
-
-    1949 m. vasarį įvyko partizanų apygardų atstovų suvažiavimas,
-    kuris suvienijo antisovietinio pasipriešinimo kovotojus į bendrą
-    organizaciją - Lietuvos laisvės kovos sąjūdį (LLKs).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-010
-    - t-004
-
-- c-004
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Nutarėme priešui atkeršyti. Pasiūliau pulti Merkinę.
-
-    MERKINĖS PUOLIMAS 1945
-
-    netrukus buvo paskelbta mobilizacija į
-    sovietų kariuomenę, visuomenė ap-
-    sisprendė netarnauti okupantų ka-
-    AC riuomenėje, kaip netarnavo ir
-    ae até vokiečiams.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-008
-
-- c-005
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
-    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
-    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
-    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
-    kius juos tikėjimo tiesų, krikštijami. Į kitas mažiau apgyven­
-    tas vietas, kur karalius neužvažiuodavo, buvo siunčiami žmonių
-    krikštyti kunigai ir vienuoliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-012
-    - t-005
-
-- c-006
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Atlikta ir duota Vilniuje, antradie­
-    nį, po Trijų Karalių šventės, tūkstantis penki šimtai trečiai­
-    siais Viešpaties metais nuo jo gimimo, mūsų valdymo antrai­
-    siais. Ten pat dalyvaujant didžiai gerbiamam Kristuje tėvui
-    ir Vilniaus vyskupui Albertui, didingiesiems ir prakilniesiems
-    LDK didžiajam maršalkai, Trakų vaivadai Jonui iš Zabrežjės,
-    Merkinės laikytojui, mūsų Lietuvos rūmų maršalkai, Glins-
-    ko kunigaikščiui Mykolui, Polocko laikytojui Stanislovui Hle-
-    bavičiui, Kauno laikytojui, mūsų maršalkai ir jos šviesybės
-    rūmininkui Albertui Janavičiui, apaštališkojo sosto protono-
-    taro, Vilniaus prepozito ir Vroclavo scholasto, garbingojo
-    Erazmo, dalyvavusio sprendime, ranka.
-
-    ## Puslapis 384
-
-    VILNIAUS MIESTO ISTORIJA// TOMAS
-    KARALIAUS ALEKSANDRO TESTAMENTAS
-    1506 METAI
-    (Iš Dogelio rankraščių buv.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-    - t-006
-
-- c-007
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Taigi Žalgirio mūšis ir Torno taika galutinai išsprendė Že­
-    maičių krikšto klausimą. Tačiau Vytautas dar dvejus metus už­
-    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
-    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-013
-
-- c-008
-  santrauka: 'Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė sutelkti apylinkių partizanų dalinius ir pulti Merkinę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Ryšininkas Juozas Jakavonis rado Merkiu
-    ant ledo lyties plaukiančią žuvusių par-
-    tizanų maldaknygę ir perdavė ją Merkio
-    rinktinės vadui Adolfui Ramanauskui-
-    Vanagui. Vanagas, pasitaręs su A apygar-
-    dos vadu Juozu Vitkumi-Kazimieraičiu,
-    nutarė sutelkti apylinkių partizanų da-
-    linius ir pulti Merkinės miestelį, at-
-    keršijant už kovos draugų žūtį.
-
-    Dainavos apygardos
-
-    ## Puslapis 233
-
-    Adolfas Ramanauskas-Vanagas
-
-    (1918-1957)
-
-    Būsimasis Dzūkijos partizanų vadas gimė mažažemių
-    dzūkų ūkininkų šeimoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-009
-
-- c-009
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Tačiau Vytautas dar dvejus metus už­
-    truko su kitais reikalais (Horodlės unija ir Makro lankymasis)
-    ir tiktai 1413 metų rudenį kartu su Jogaila atvyko į Žemaitiją.
-    Keliavo jie Nemunu iš Merkinės į Kauną kartu su būriu kuni­
-    gijos ir daug diduomenės, o iš čia Nemunu iki Dubysos upės ir
-    ja iki Aukokalnio, buvusio ties dabartine Betygala. Nuo šios
-    vietos ir buvo pradėtas apaštalavimo darbas Žemaitijoje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-010
-  santrauka: 'Prieš Vilniaus vyskupijos įkūrimą Jogaila aplankė Merkinę, kur vietiniai ir apylinkių žmonės buvo mokomi tikėjimo ir krikštijami.'
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Motiejus,
-    vėliau Žemaičių ir Vilniaus vyskupas, ir vienas kunigas iš
-    Kauno^1 ).
-    Dar prieš vyskupijos įkūrimą Jogaila iš Vilniaus išvyko į
-    rytų Lietuvą. Čia jis aplankė didesnius Lietuvos miestelius,
-    kaip Ašmeną, Lydą, Krėvę, Eišiškius, Merkinę, Gardiną ir k.,
-    kur buvo sukviečiami vietiniai ir iš apylinkių žmonės ir, pamo­
-    kius juos tikėjimo tiesų, krikštijami.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-011
-  santrauka: 'Narbutas rašė matęs prie Merkinės valstiečio rastą aukso žiedą su raudonu akmeniu, gaidžiu skyde ir raidžių ženklais.'
-  šaltinis: Teodoras Narbutas, Lietuvių tautos istorija, t. 1 (1998 m.)
-  citata_originali: |
-    IV lentelė, 28-asis piešinys. Mačiau aukso žiedą su raudo­
-    nu akmeniu, valstiečio rastą prie Merkinės. Jo skyde gaidys su
-    pridėtu kažkokiu ženklu, panašiu į biarmišką raidę Pej, arba P.
-    Virš skydo tarytum kita tos abėcėlės raidė -  Mena, arba M;
-    žiedo auksakalio darbas labai gražus, graviravimas grubus ir
-    tarsi demonstruojantis pirmą raižytojo gabumų išmėginimą,
-    bet išrėžta labai giliai.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-015
-
 ## Citatos
 
 - id: c-32239

@@ -38,14 +38,14 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 ## Teiginiai
 
 <a id="claim-t-171658"></a>
-- t-002
+- t-001
   global_id: t-171658
   teiginys: "Geležinkelio linija Klaipėda–Šiauliai per Kretingą ir Kužius buvo baigta tiesti tik 1936 m."
   pagrindžia:
     - c-43518
 
 <a id="claim-t-171659"></a>
-- t-010
+- t-002
   global_id: t-171659
   teiginys: "Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą."
   pagrindžia:
@@ -71,74 +71,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
 - susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
 - susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
 - susijęs iš [[objektai/zodynas/einzatsgrupės Einzatsgruppen.md#claim-t-22131|einzatsgrupės Einzatsgruppen]]: Einzatsgrupės terorą organizavo taip, kad pirmieji pogromai ir „apsivalymo“ akcijos atrodytų vykdomi vietinių gyventojų.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    @ Geležinkelio linija tarp Klaipėdos ir Šiaulių
-    (Kretinga-Kužiai) buvo baigta tiesti tik 1936 m.,
-
-    >“ Klovainiai
-
-    Kris
-    RADVILIŠKIS Smilgiai
-
-    a A
-    V
-
-    — m ——
-
-    DA Griškabūdis
-
-    4 todėl sukilėliai turėjo traukiniu iki sienos su
-
-    Klaipėdos kraštu vykti per Latviją (tai buvo ne-
-    oficialiai suderinta su Latvijos vyriausybe).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    © M. Kalmantavičiaus-Bajoro traukinys išvyksta
-    į Tauragę.
-
-    @ 1. Budrio traukinys per Mažeikius, per Latvijos
-    teritoriją (Priekulę) atvyksta į Kretingą.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'IV Kražių apygardoje apygardėlinės mokyklos buvo Kaune, Kretingoje, Panevėžyje, Raseiniuose ir Ukmergėje.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    I Gardino apygardoj apygardėlinių mokyklų buvo šiose vie-
-    tose: Vilniuje, Volkoviske, Višniove, Pastoviuose, Lydoje, Merkinėje,
-    ir Ščucine; II Naugarduko apygardoje jų buvo Minske, Cho-
-    lopieničiuose, Nesvyžiuje, Slucke, Bobruiske, Berezvieče ir Lužkose.
-    III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje,
-    Dombrovicoje, Liubešave ir Žuravicuose. IV Kražių apygar-
-    doje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmergėje.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
+- susijęs iš [[objektai/paprociai/Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje.md#claim-t-195389|Mišių ir aukų už pamestus ar pavogtus daiktus praktika prie Švento Antano Kretingoje]]: Elgeta rinko pinigus mišioms dėl pamestų ar pavogtų turtų atradimo ir Šventą Antaną vadino pamestų daiktų patronu.
 ## Citatos
 
 - id: c-43518

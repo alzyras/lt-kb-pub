@@ -39,14 +39,14 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 ## Teiginiai
 
 <a id="claim-t-181533"></a>
-- t-017
+- t-001
   global_id: t-181533
   teiginys: "1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją."
   pagrindžia:
     - c-43959
 
 <a id="claim-t-181535"></a>
-- t-016
+- t-002
   global_id: t-181535
   teiginys: "Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus."
   pagrindžia:
@@ -70,62 +70,6 @@ Sapiegoms visus jėga tramdant, vis dėlto 1700 m. visam krašte atsirado daugyb
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno.
 - susijęs iš Nemunas: Varėnos, Valkininkų ir Merkinės miškai driekėsi nuo Rūdninkų link Nemuno ir Balińskio priskirti amžinosioms girioms.
 - susijęs iš [[objektai/zodynas/etatiniai vienetai.md#claim-t-42450|etatiniai vienetai]]: Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1700 m. lapkričio 19–24 d. Valkininkuose vykęs respublikonų bajorijos suvažiavimas priėmė Valkininkų nutarimą ir įkūrė LDK bajorijos generalinę konfederaciją.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    1700 m. lapkričio 19-24 d. Valki-
-    ninkuose vyko respublikonų bajorijos
-
-    „Toliau - totoriai, kuriuos nugalėjęs Lietuvos didysis kunigaikštis parsivedė daugybę
-    šeimų ir vėliau jas įkurdino po visą Lietuvą kraštui apgyvendinti. Visoje šalyje jie valdo
-    laisvuosius dvarus, bet neturi nei rango, nei balso tarp bajorijos. Totoriai taip pat sudaro
-    lengvąją raitiją, gerai aprūpintą ir ginkluotą kaip kazokų, ir nuo pastarųjų skiriasi tik
-    tuo, kad nenešioja grandijų. Jų alga - trisdešimt livry už ketvirtį.“
-
-    suvažiavimas, priėmęs „Valkininkų nuta-
-    rimą“, kuriuo buvo įkurta LDK bajorijos
-    generalinė konfederacija, suformuoti ypa-
-    tingieji LDK valdžios organai, nutarta atimti
-    iš Sapiegų jų turėtas pareigybes, o dvarus
-    konfiskuoti.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Nugalėtojai su belaisviais, 8 patrankomis ir apie šimtu gurguolės vežimų vakare grįžo į Valkininkus.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Šie pabūklai
-    mūšio.
-
-    Mūšio padariniai
-
-    Nugalėtojai su belaisviais ir visais trofė-
-    jais - 8 patrankom ir apie šimtu gurguo-
-    lės vežimų vakare grįžo į Valkininkus.
-
-    Lauko artilerija, išdėstoma daž-
-    niausiai ant aukštumų, veikdavo
-
-    Pėstininkų padaliniams priskirti mažo kalibro
-
-    judėdavo į priekį kartu su pėstininkais.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
 ## Citatos
 
 - id: c-43959

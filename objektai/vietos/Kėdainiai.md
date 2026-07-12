@@ -40,21 +40,21 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 ## Teiginiai
 
 <a id="claim-t-182770"></a>
-- t-041
+- t-001
   global_id: t-182770
   teiginys: "1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius."
   pagrindžia:
     - c-43559
 
 <a id="claim-t-183041"></a>
-- t-007
+- t-002
   global_id: t-183041
   teiginys: "Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru."
   pagrindžia:
     - c-166433
 
 <a id="claim-t-193200"></a>
-- t-042
+- t-003
   global_id: t-193200
   teiginys: "Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje)."
   pagrindžia:
@@ -149,71 +149,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41297|Kėdainių-Šėtos kautynės]]: Kėdainių gynyboje J. Mikoliūnas ir K. Dragunevičius apie 80 savanorių išskleidė abipus vieškelio Kėdainiai-Šėta ir sustabdė bolševikų puolimą.
 - susijęs iš Šėta: Po nesėkmingo puolimo Kėdainių apylinkėse bolševikai tą vakarą atsitraukė į Šėtą.
 - susijęs iš Betygala: 1945 m. vasario 15 d. NKVD Betygalos stribai prie Šilainių miško pateko į Vlado Pabarčiaus partizanų būrio pasalą.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    ## Puslapis 173
-
-    —————
-
-    Dar 1918 m. gruodžio 29 d. paskir-
-    tas Panevėžio srities apsaugos viršininku
-    karin. J. Variakojis, nuvykęs į pasky-
-    rimo vietą, energingai ėmėsi organi-
-    zuoti savanorių būrį. Tačiau tų metų
-    sausio 9 d. stambioms bolševikų pajė-
-    goms užimant Panevėžį, J. Variakojis
-    su pirmuoju savanorių būriu paliko
-    miestą ir atvyko į Kėdainius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Kėdainių mokykla išgarsėjo, kai Radvilos Kėdainius darė protestantų kultūros centru.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Tada pražydo protestantų Radvilų centruose
-    esančios Kėdainių ir Slucko mokyklos, kurioms atiteko daugumas
-    Vilniaus mokyklos turtų. Ypač garsėjo Kėdainių mokykla: mat,
-    Radvilų pastangomis Kėdainiai buvo daromi protestantų kultūros
-    centru. Čia net buvo įsteigta spaustuvė, kurioje buvo spausdina-
-    mos religinio turinio knygos.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pats
-    apsukrusis ir įtakingasis to meto Lietuvos politikos veikėjas,
-    Žemaičių seniūnas ir Livonijos valdytojas Jonas Jeronimas Kat-
-    kevičius, ne tik patsai metė kalvinizmą, bet taip pat ir savo
-    sūnų Joną Karolį, — būsimąjį Vilniaus vaivadą, hetmoną, ge-
-    nialųjį karo vadą, — atidavė auklėti jėzuitams.
-    Radvilų šeimos buvo dvi šakos. Vienos centras buvo Biržai
-    ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Voluinėje).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
 ## Citatos
 
 - id: c-43559

@@ -34,6 +34,7 @@ media_all_json: |-
   teiginys: "Lietuva Žemaičiuose apėmė į vakarus nuo Nevėžio buvusį Šušvės baseiną."
   pagrindžia:
     - c-34118
+- susijęs iš Josvainiai: Šušvė įteka į Nevėžį ties Josvainiais.
 - susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais ir beveik trečdalį kronikos skyrė Livonijos ordino santykiams su Lietuva.
 - susijęs iš Eilėtoji Livonijos kronika: Eiliuotinės Livonijos kronikos autorius žemaičius tapatino su lietuviais.
 - susijęs iš Dubysa: Lietuva Žemaičiuose apėmė Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
@@ -42,25 +43,6 @@ media_all_json: |-
 - susijęs iš Venta: Lietuva Žemaičiuose apėmė Ventos ir Minijos aukštupius.
 - susijęs iš Šventaragio slėnis: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
 - susijęs iš Šventaragio slėnys: Mergelės šventė (IX.8) 374 Šventaragio slėnys 244 Šv.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Beveik trečdalį savo
-    kronikos paskyręs Livonijos ordino santykiams su Lietuva, Eiliuo­
-    tinės Livonijos kronikos autorius Žemaičius tapatino su lietuviais
-    (« den Lettowen, die Sameiten sin genannt », eil. 4466).
-    Lietuva Žemaičiuose apėmė plotą į vakarus nuo Nevėžio, t. y.
-    Šušvės ir Dubysos baseinus, Ventos ir Minijos aukštupius.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-34118

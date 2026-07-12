@@ -56,48 +56,20 @@ Nenurodyta
     - c-10292
 
 <a id="claim-t-186852"></a>
-- t-003
+- t-002
   global_id: t-186852
   teiginys: "Lietuvos metraščio pasakojime kariuomenė, sutrimitavusi trimitais ir užgrojusi birbynėmis, žengė per upę."
   pagrindžia:
     - c-170035
 - susijęs iš [[objektai/grupes/Radvilos.md#claim-t-188322|Radvilos]]: Šalia aprašyto antspaudo buvo kitas antspaudas su skyde pavaizduotu Vyčiu po karūna ir apačioje esančiu Radvilų Trimitų herbu.
+- susijęs iš [[objektai/posakiai/Trimitais trimituoti, dambreliais uždambriuoti.md#claim-t-195421|Trimitais trimituoti, dambreliais uždambriuoti]]: Dainose randama formulė apie trimitus ir dambrelius.
 - susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82629|Mykolas Glinskis]]: Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.
 - susijęs iš [[objektai/daiktai/Birbynės.md#claim-t-186853|Birbynės]]: Kunigaikščio Mykolo kariuomenei žengiant per upę, buvo sutrimitavę trimitai ir užgrotos birbynės.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-187751|Totoriai]]: Totoriai puolė per upę besikeliančių lietuvių dešinįjį sparną ir nukovė daug jo karių.
 - susijęs iš [[objektai/zodynas/Sutartinės.md#claim-t-07663|sutartinės]]: Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.
 ## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Simonas Daukantas, Būdas senovės lietuvių, kalnėnų ir žemaičių.clean
-  citata_originali: |
-    Tų trimitų balsas yra graudžiai malonus, daugiau rūstas, nekaip linksmas, keliąs klausantiems aitrą ir gailesį, kursai savo gausmu, graudingumu lyginos su šios dienos variniais karės trūbais. Tokie Lietuvos trimitai yra jau minavojami 1180 gudų raštuose, kaipo įvairiu ir neregėtu daiktu.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: 'Lietuvos metraščio pasakojime kariuomenė, sutrimitavusi trimitais ir užgrojusi birbynėmis, žengė per upę.'
-  šaltinis: Lietuvos metraštis, Bychovco kronika (1971 m.)
-  citata_originali: |
-    Kunigaikš­
-    tis Mykolas !3, matydamas su didikais ir su visa kariuo­
-    mene jų tyčiojimąsi ir pajuoką, greitai įsakė visiems
-    pulkams žengti abiem perėjimais per upę.
-    Ir, sutrimitavę trimitais ir užgroję birbynėmis žen­
-    gė per upę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
+Nenurodyta
 
 ## Pastabos
 

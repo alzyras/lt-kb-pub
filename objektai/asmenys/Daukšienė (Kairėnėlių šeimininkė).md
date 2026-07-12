@@ -1,0 +1,75 @@
+---
+tipas: 'asmuo'
+pavadinimas: 'Daukšienė (Kairėnėlių šeimininkė)'
+variantai:
+  - 'Daukšienė'
+saltiniai:
+  - 'Mūsų tautosaka, t.4 (1931)'
+bukle: 'juodrastis'
+laikotarpis: ''
+datos: []
+periodas: ''
+periodo_grupes: []
+amziai: []
+date_start: ''
+date_end: ''
+vaidmenys:
+  - 'šeimininkė'
+dalyviai: []
+susije_irasai: []
+patikimumas: 'vidutinis'
+sukurta: ''
+atnaujinta: ''
+tags:
+  - asmuo
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Daukšienė (Kairėnėlių šeimininkė)
+
+## Santrauka
+
+Daukšienė vestuvių pasakojime pristatoma kaip Kairėnėlių šeimininkė, su duona ir rūgštimi pasitinkanti jaunuosius.
+
+## Vaidmenys
+
+- šeimininkė
+
+## Teiginiai
+
+<a id="claim-t-195564"></a>
+- t-001
+  global_id: t-195564
+  teiginys: "Kairėnėliuose Daukšienė su duona ir rūgštimi pasitiko jaunuosius."
+  pagrindžia:
+    - c-177981
+
+## Citatos
+
+- id: c-177981
+  autorius: "M. Katkus"
+  šaltinis: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“"
+  puslapiai: "p. 117 (PDF 115)"
+  indeksas: "Mūsų tautosaka, t.4 (1931) — M. Katkus, „Balanos gadynė“, p. 117 (PDF 115)."
+  citata_originali: |
+    Vestuvininkai nuvažiavo į Kairėnėlius.
+    Ten jaunuosius pasitiko
+    su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte ne­
+    šina.
+  citata_rodoma: "Vestuvininkai nuvažiavo į Kairėnėlius. Ten jaunuosius pasitiko su duona ir rūkštimi. Šeimininkė Daukšienė išėjo į kiemą lėkšte nešina."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-195564

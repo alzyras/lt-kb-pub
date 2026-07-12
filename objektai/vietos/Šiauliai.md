@@ -41,35 +41,35 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 ## Teiginiai
 
 <a id="claim-t-182783"></a>
-- t-055
+- t-001
   global_id: t-182783
   teiginys: "Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius."
   pagrindžia:
     - c-12723
 
 <a id="claim-t-182785"></a>
-- t-054
+- t-002
   global_id: t-182785
   teiginys: "1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada."
   pagrindžia:
     - c-44078
 
 <a id="claim-t-182786"></a>
-- t-053
+- t-003
   global_id: t-182786
   teiginys: "Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža."
   pagrindžia:
     - c-166193
 
 <a id="claim-t-193258"></a>
-- t-056
+- t-004
   global_id: t-193258
   teiginys: "Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai."
   pagrindžia:
     - c-175990
 
 <a id="claim-t-193783"></a>
-- t-057
+- t-005
   global_id: t-193783
   teiginys: "Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410)."
   pagrindžia:
@@ -148,101 +148,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-183490|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
 - susijęs iš [[objektai/posakiai/lietuviška Golgota.md#claim-t-20835|lietuviška Golgota]]: Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.
-## Reikšmingi paminėjimai
-
-- c-001
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Spalio 5 d. plk. Virgoličiaus
-    rinktinė iš Kuršėnų per-
-    sikėlė į Šiaulius. Lietuvos
-    vyriausybė negalėjo už-
-    kirsti jai kelio, nes tuo metu
-    Lietuvos kariuomenė dar
-    tęsė kovas su bolševikais Dauguvos fronte.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-002
-  santrauka: '1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Pirmoji kovų fazė: Vilniaus
-
-    išvadavimas
-
-    1794 m. balandžio 16 d. Šiauliuose ir jo apy-
-    linkėse sukilimą pradėjo LDK 1-oji Tautinė
-    brigada (ankščiau vadinta Kauno husarų).
-    Tuo metu Žemaitijoje praktiškai nebuvo
-    Rusijos kariuomenės.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-003
-  santrauka: 'Šiauliuose, ties dabartinių Tilžės ir Vilniaus gatvių sankryža, buvo pagrindinė Šiaulių žemės strateginė kelių sankryža.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Iš
-    įvairių šaltinių žinoma, kad po plėšimo
-    kariuomenė vėl susirinkdavo į nustatytą
-    vietą-stovyklą. Šiaulių žemėje pagrindinė
-    strateginė kelių sankryža yra Šiauliuose
-    (ties dab. Tilžės ir Vilniaus gatvių san-
-    kryža), kur plėtojosi senovės gyvenvietė.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-003
-
-- c-004
-  santrauka: 'Ties Šiauliais įvyko didelis mūšis, kurį laimėjo lietuviai.'
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Pajutę susitelkusią lietuvių ka-
-    riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai
-    pastojo jiems kelią. Ties Šiauliais įvyko didelis mūšis, kurį
-    laimėjo lietuviai. Kalavijuočių žuvo visa vadovybė su pačiu
-    magistru ir daugybė svečių.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-005
-  santrauka: 'Mindaugo ir vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių ordinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių iki pat Žalgirio (1410).'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Visus valstybės kūrimus lydėjo kovos ir mūšiai. Mindaugo ir
-    vėlesnių Lietuvos valdovų Lietuva turėjo kovoti su Vokiečių or-
-    dinu prie Saulės (1236), Durbės (1260) ir gausybėje kitų mūšių
-    iki pat Žalgirio (1410). Nepaisant pavojų Vakaruose, Lietuvos
-
-    1923 m.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-
 ## Citatos
 
 - id: c-12723

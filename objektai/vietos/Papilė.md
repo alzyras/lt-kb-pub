@@ -42,26 +42,6 @@ Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš 
   teiginys: "Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę."
   pagrindžia:
     - c-176450
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Mūšio išvakarėse 1359 m. Livonijos magistras surengė didelį žygį prieš lietuvius į Papilės žemę.'
-  šaltinis: Karolis Zikaras (sud.), Žymiausi Lietuvos mūšiai ir karinės operacijos (2013 m.)
-  citata_originali: |
-    Tačiau tai, be abejo, nebuvo priimtina nei
-    Šventosios Romos imperijai, nei Ordinui.
-
-    Mūšio išvakarėse
-
-    1359 m. Livonijos magistras surengė didelį
-    žygį prieš lietuvius į Papilės žemę.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
 
 ## Citatos
 
