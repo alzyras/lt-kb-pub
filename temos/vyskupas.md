@@ -1,0 +1,280 @@
+---
+tipas: tema
+pavadinimas: "vyskupas"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 250
+graph_hub: false
+sukurta: '2026-04-26'
+tags: []
+---
+
+# vyskupas
+
+Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Objektų skaičius: 250.
+
+## Kaip naudoti
+
+- Eik per šį hub'ą, kai nori naršyti susijusius objektus pagal bendrą temą.
+- Tolimesni ryšiai matomi pačiuose objektų puslapiuose, kur išlieka tikslesni šaltinių ir citatų kontekstai.
+
+## Susiję objektai
+
+### Asmenys
+- [[objektai/asmenys/Aaronas]]
+- [[objektai/asmenys/Abraomas Kulvietis]]
+- [[objektai/asmenys/Abraomas Vaina]]
+- [[objektai/asmenys/Albertas]]
+- [[objektai/asmenys/Albertas (Rygos vyskupas)]]
+- [[objektai/asmenys/Albertas (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Albertas Janavičius]]
+- [[objektai/asmenys/Albertas Skvemevita]]
+- [[objektai/asmenys/Albrechtas (Pamedės vyskupas)]]
+- [[objektai/asmenys/Aleksandras Jurgėvičius]]
+- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
+- [[objektai/asmenys/Andriejus (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Andrius (Druško kunigaikštis)]]
+- [[objektai/asmenys/Andrius (Vilniaus vyskupas)]]
+- [[objektai/asmenys/Andrius iš Vasilevo]]
+- [[objektai/asmenys/Andrius Vasila]]
+- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Anonas (didysis magistras)]]
+- [[objektai/asmenys/Antanas Baranauskas]]
+- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]]
+- [[objektai/asmenys/Augustas Oktavianas]]
+- [[objektai/asmenys/Avigenas]]
+- [[objektai/asmenys/Baltramiejus (Aleto vyskupas)]]
+- [[objektai/asmenys/Baltramiejus (vyskupas)]]
+- [[objektai/asmenys/Bernardas (Šv. Teofrido vienuolyno abatas)]]
+- [Bodzanta (arkivyskupas, XIV a.)](../objektai/asmenys/Bodzanta)
+- [Boguslavas (jaunesnysis Dirsovijos grafas)](../objektai/asmenys/Boguslavas%20%28jaunesnysis%20Dirsovijos%20grafas%29)
+- [Boguslavas (vyresnysis Dirsovijos grafas)](../objektai/asmenys/Boguslavas%20%28vyresnysis%20Dirsovijos%20grafas%29)
+- [Boleslovas Narsusis](../objektai/asmenys/Boleslovas%20Narsusis)
+- [Bonifacas IX](../objektai/asmenys/Bonifacas%20IX)
+- [Brunonas](../objektai/asmenys/Brunonas)
+- [Bžostovskis (Vilniaus vyskupas)](../objektai/asmenys/B%C5%BEostovskis%20%28Vilniaus%20vyskupas%29)
+- [Danielius Lenčickis](../objektai/asmenys/Danielius%20Len%C4%8Dickis)
+- [Dobrogostas](../objektai/asmenys/Dobrogostas)
+- [Dytmaras](../objektai/asmenys/Dytmaras)
+- [Eberhardas (Varmės vyskupas)](../objektai/asmenys/Eberhardas%20%28Varm%C4%97s%20vyskupas%29)
+- [Elena (vyskupas, XV–XVI a.)](../objektai/asmenys/Elena)
+- [Emanuelis Vega](../objektai/asmenys/Emanuelis%20Vega)
+- [Engelbertas](../objektai/asmenys/Engelbertas)
+- [Erazmas Bretneris](../objektai/asmenys/Erazmas%20Bretneris)
+- [Erazmas Stela](../objektai/asmenys/Erazmas%20Stela)
+- [Eufimėjus](../objektai/asmenys/Eufim%C4%97jus)
+- [Fabianas (Varmės vyskupas)](../objektai/asmenys/Fabianas%20%28Varm%C4%97s%20vyskupas%29)
+- [Fabijonas (Varmės vyskupas)](../objektai/asmenys/Fabijonas%20%28Varm%C4%97s%20vyskupas%29)
+- [Focijus (Maskvos „visos Rusijos“ metropolitas)](../objektai/asmenys/Focijus%20%28Maskvos%20%E2%80%9Evisos%20Rusijos%E2%80%9C%20metropolitas%29)
+- [Foma](../objektai/asmenys/Foma)
+- [Fridrichas (Rygos vyskupas)](../objektai/asmenys/Fridrichas%20%28Rygos%20vyskupas%29)
+- [Fridrichas iš Libencelės (vyskupas, XIV a.)](../objektai/asmenys/Fridrichas%20i%C5%A1%20Libencel%C4%97s)
+- [Gedūnas](../objektai/asmenys/Ged%C5%ABnas)
+- [Gernuldas](../objektai/asmenys/Gernuldas)
+- [Giunteris (Mazovijos vyskupas)](../objektai/asmenys/Giunteris%20%28Mazovijos%20vyskupas%29)
+- [Gotszalk Schutte](../objektai/asmenys/Gotszalk%20Schutte)
+- [Goštautas (vyskupas, XV a.)](../objektai/asmenys/Go%C5%A1tautas)
+- [Gregorijus (Vladimiro vyskupas)](../objektai/asmenys/Gregorijus%20%28Vladimiro%20vyskupas%29)
+- [Grigalius (vicekancleris)](../objektai/asmenys/Grigalius%20%28vicekancleris%29)
+- [Grigalius Astikas](../objektai/asmenys/Grigalius%20Astikas)
+- [Heidenreichas (vyskupas, XIII–XIV a.)](../objektai/asmenys/Heidenreichas)
+- [Henrikas (Mazovijos kunigaikštis)](../objektai/asmenys/Henrikas%20%28Mazovijos%20kunigaik%C5%A1tis%29)
+- [Henrikas (Plocko vyskupas)](../objektai/asmenys/Henrikas%20%28Plocko%20vyskupas%29)
+- [Henrikas (Varmės vyskupas)](../objektai/asmenys/Henrikas%20%28Varm%C4%97s%20vyskupas%29)
+- [Henrikas iš Izenbergo](../objektai/asmenys/Henrikas%20i%C5%A1%20Izenbergo)
+- [Henrikas iš Svarcburgo](../objektai/asmenys/Henrikas%20i%C5%A1%20Svarcburgo)
+- [Hugonas Butyras](../objektai/asmenys/Hugonas%20Butyras)
+- [Ignotas Masalskis](../objektai/asmenys/Ignotas%20Masalskis)
+- [Inocentas IV](../objektai/asmenys/Inocentas%20IV)
+- [Inocentas IX](../objektai/asmenys/Inocentas%20IX)
+- [Inocentas VI](../objektai/asmenys/Inocentas%20VI)
+- [Isamas (Rygos arkivyskupas)](../objektai/asmenys/Isamas%20%28Rygos%20arkivyskupas%29)
+- [Jadvyga (Jogailos duktė)](../objektai/asmenys/Jadvyga%20%28Jogailos%20dukt%C4%97%29)
+- [Janas Kropidła](../objektai/asmenys/Janas%20Kropid%C5%82a)
+- [Jaranda iš Brudzevo (vyskupas)](../objektai/asmenys/Jaranda%20i%C5%A1%20Brudzevo)
+- [Jaroslavas](../objektai/asmenys/Jaroslavas)
+- [Jeronimas Kninskis](../objektai/asmenys/Jeronimas%20Kninskis)
+- [Jodokas](../objektai/asmenys/Jodokas)
+- [Jokūbas (vėliau Urbonas IV)](../objektai/asmenys/Jok%C5%ABbas%20%28v%C4%97liau%20Urbonas%20IV%29)
+- [Jokūbas Babičius](../objektai/asmenys/Jok%C5%ABbas%20Babi%C4%8Dius)
+- [Jokūbas I](../objektai/asmenys/Jok%C5%ABbas%20I)
+- [Jonas (Breslavo vyskupas)](../objektai/asmenys/Jonas%20%28Breslavo%20vyskupas%29)
+- [Jonas (kancleris)](../objektai/asmenys/Jonas%20%28kancleris%29)
+- [Jonas (Lvovo arkivyskupas)](../objektai/asmenys/Jonas%20%28Lvovo%20arkivyskupas%29)
+- [Jonas (Vilniaus vyskupas)](../objektai/asmenys/Jonas%20%28Vilniaus%20vyskupas%29)
+- [Jonas Chojevskis](../objektai/asmenys/Jonas%20Chojevskis)
+- [Jonas Habundi](../objektai/asmenys/Jonas%20Habundi)
+- [Jonas Hlebavičius](../objektai/asmenys/Jonas%20Hlebavi%C4%8Dius)
+- [Jonas Hozijus](../objektai/asmenys/Jonas%20Hozijus)
+- [Jonas II](../objektai/asmenys/Jonas%20II)
+- [Jonas iš Lichino (vyskupas)](../objektai/asmenys/Jonas%20i%C5%A1%20Lichino)
+- [Jonas iš Lietuvos kunigaikščių](../objektai/asmenys/Jonas%20i%C5%A1%20Lietuvos%20kunigaik%C5%A1%C4%8Di%C5%B3)
+- [Jonas iš Tarnovo](../objektai/asmenys/Jonas%20i%C5%A1%20Tarnovo)
+- [Jonas iš Zabrežjės](../objektai/asmenys/Jonas%20i%C5%A1%20Zabre%C5%BEj%C4%97s)
+- [Jonas Karolis Katkevičius](../objektai/asmenys/Jonas%20Karolis%20Katkevi%C4%8Dius)
+- [Jonas Kropidla](../objektai/asmenys/Jonas%20Kropidla)
+- [Jonas Kropidlas (vyskupas)](../objektai/asmenys/Jonas%20Kropidlas)
+- [Jonas Kropidła](../objektai/asmenys/Jonas%20Kropid%C5%82a)
+- [Jonas Lasavičius](../objektai/asmenys/Jonas%20Lasavi%C4%8Dius)
+- [Jonas Lonei](../objektai/asmenys/Jonas%20Lonei)
+- [Jonas Pliekta](../objektai/asmenys/Jonas%20Pliekta)
+- [Jonas XXII (arkivyskupas, XIV a.)](../objektai/asmenys/Jonas%20XXII)
+- [Jonas Zabžezinskis](../objektai/asmenys/Jonas%20Zab%C5%BEezinskis)
+- [Jonas Švitrigaila](../objektai/asmenys/Jonas%20%C5%A0vitrigaila)
+- [Julijus Cezaris (vyskupas)](../objektai/asmenys/Julijus%20Cezaris)
+- [Juozapas Kosakovskis (vyskupas)](../objektai/asmenys/Juozapas%20Kosakovskis)
+- [Jurgis (Lucko vyskupas)](../objektai/asmenys/Jurgis%20%28Lucko%20vyskupas%29)
+- [Jurgis Astikaitis](../objektai/asmenys/Jurgis%20Astikaitis)
+- [Jurgis Astikas](../objektai/asmenys/Jurgis%20Astikas)
+- [Jurgis Matulaitis](../objektai/asmenys/Jurgis%20Matulaitis)
+- [Jurgis Radvila (vyskupas, XVI a.)](../objektai/asmenys/Jurgis%20Radvila)
+- [Kazimieras Jogailaitis](../objektai/asmenys/Kazimieras%20Jogailaitis)
+- [Kerimberdėjus](../objektai/asmenys/Kerimberd%C4%97jus)
+- [Kiprijonas](../objektai/asmenys/Kiprijonas)
+- [Klemensas VIII](../objektai/asmenys/Klemensas%20VIII)
+- [Konradas (Mozūrijos kunigaikštis)](../objektai/asmenys/Konradas%20%28Moz%C5%ABrijos%20kunigaik%C5%A1tis%29)
+- [Konradas (Vroclavo vyskupas)](../objektai/asmenys/Konradas%20%28Vroclavo%20vyskupas%29)
+- [Kotryna](../objektai/asmenys/Kotryna)
+- [Kristijonas (vyskupas, XIII a.)](../objektai/asmenys/Kristijonas)
+- [Kristupas Pacas](../objektai/asmenys/Kristupas%20Pacas)
+- [Kristupas Varševickis](../objektai/asmenys/Kristupas%20Var%C5%A1evickis)
+- [Kulešinas](../objektai/asmenys/Kule%C5%A1inas)
+- [Kurovičius](../objektai/asmenys/Kurovi%C4%8Dius)
+- [Kęstutis (vakarų pasienio valdovas, XIV–XV a.)](../objektai/asmenys/K%C4%99stutis)
+- [Luterbergas](../objektai/asmenys/Luterbergas)
+- [M. Vaina](../objektai/asmenys/M.%20Vaina)
+- [Mantautas](../objektai/asmenys/Mantautas)
+- [Martynas Knakfusas (vyskupas, XVIII–XIX a.)](../objektai/asmenys/Martynas%20Knakfusas)
+- [Meinhardas](../objektai/asmenys/Meinhardas)
+- [Melchioras Giedraitis (vyskupas)](../objektai/asmenys/Melchioras%20Giedraitis)
+- [Merkelis Geiša Eljaševičius](../objektai/asmenys/Merkelis%20Gei%C5%A1a%20Elja%C5%A1evi%C4%8Dius)
+- [Mikalojus (Gniezno arkivyskupas)](../objektai/asmenys/Mikalojus%20%28Gniezno%20arkivyskupas%29)
+- [Mikalojus (Medininkų vyskupas nominatas)](../objektai/asmenys/Mikalojus%20%28Medinink%C5%B3%20vyskupas%20nominatas%29)
+- [Mikalojus (Trakų klebonas)](../objektai/asmenys/Mikalojus%20%28Trak%C5%B3%20klebonas%29)
+- [Mikalojus (Vilniaus vyskupas)](../objektai/asmenys/Mikalojus%20%28Vilniaus%20vyskupas%29)
+- [Mikalojus Dzerško](../objektai/asmenys/Mikalojus%20Dzer%C5%A1ko)
+- [Mikalojus Dziežgavičius](../objektai/asmenys/Mikalojus%20Dzie%C5%BEgavi%C4%8Dius)
+- [Mikalojus Kurovskis](../objektai/asmenys/Mikalojus%20Kurovskis)
+- [Mikalojus Romedanskis (Medininkų vyskupas)](../objektai/asmenys/Mikalojus%20Romedanskis%20%28Medinink%C5%B3%20vyskupas%29)
+- [Mikalojus Ungarns](../objektai/asmenys/Mikalojus%20Ungarns)
+- [Motiejus](../objektai/asmenys/Motiejus)
+- [Motiejus (Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28Vilniaus%20vyskupas%29)
+- [Motiejus Porempskis](../objektai/asmenys/Motiejus%20Porempskis)
+- [Motiejus Valančius](../objektai/asmenys/Motiejus%20Valan%C4%8Dius)
+- [Mstivojus](../objektai/asmenys/Mstivojus)
+- [Muka](../objektai/asmenys/Muka)
+- [Mykolas (Glinsko kunigaikštis)](../objektai/asmenys/Mykolas%20%28Glinsko%20kunigaik%C5%A1tis%29)
+- [Mykolas (Kijevo vyskupas)](../objektai/asmenys/Mykolas%20%28Kijevo%20vyskupas%29)
+- [Mykolas (Kujavijos vyskupas)](../objektai/asmenys/Mykolas%20%28Kujavijos%20vyskupas%29)
+- [Mykolas Pacas](../objektai/asmenys/Mykolas%20Pacas)
+- [Mykolas Skirgaila](../objektai/asmenys/Mykolas%20Skirgaila)
+- [Mykolas Tromba](../objektai/asmenys/Mykolas%20Tromba)
+- [Nestoras](../objektai/asmenys/Nestoras)
+- [Otto Blanehom](../objektai/asmenys/Otto%20Blanehom)
+- [Ottonas Luterbergas](../objektai/asmenys/Ottonas%20Luterbergas)
+- [P. Speratas](../objektai/asmenys/P.%20Speratas)
+- [Pelka](../objektai/asmenys/Pelka)
+- [Petras (Poznanės vyskupas)](../objektai/asmenys/Petras%20%28Poznan%C4%97s%20vyskupas%29)
+- [Petras (Vilniaus vyskupas)](../objektai/asmenys/Petras%20%28Vilniaus%20vyskupas%29)
+- [Petras d'Ailli](../objektai/asmenys/Petras%20d%27Ailli)
+- [Petras iš Kustynės](../objektai/asmenys/Petras%20i%C5%A1%20Kustyn%C4%97s)
+- [Petras Kustynia](../objektai/asmenys/Petras%20Kustynia)
+- [Petras Puzdravičius](../objektai/asmenys/Petras%20Puzdravi%C4%8Dius)
+- [Philippe de Mezières](../objektai/asmenys/Philippe%20de%20Mezi%C3%A8res)
+- [Pilypas (Fermo vyskupas)](../objektai/asmenys/Pilypas%20%28Fermo%20vyskupas%29)
+- [Pilypas Frizijus](../objektai/asmenys/Pilypas%20Frizijus)
+- [Pilypas Glazeris](../objektai/asmenys/Pilypas%20Glazeris)
+- [Polencas](../objektai/asmenys/Polencas)
+- [Povilas (Vilniaus vyskupas)](../objektai/asmenys/Povilas%20%28Vilniaus%20vyskupas%29)
+- [Povilas Algimantas](../objektai/asmenys/Povilas%20Algimantas)
+- [Povilas Piestavičius](../objektai/asmenys/Povilas%20Piestavi%C4%8Dius)
+- [Pranciškus (popiežiaus legatas)](../objektai/asmenys/Pranci%C5%A1kus%20%28popie%C5%BEiaus%20legatas%29)
+- [Rapolovska](../objektai/asmenys/Rapolovska)
+- [Rotundas (Augustinas Milesijus Mieleskis)](../objektai/asmenys/Rotundas%20%28Augustinas%20Milesijus%20Mieleskis%29)
+- [Rudolfas (Pamedės vyskupas)](../objektai/asmenys/Rudolfas%20%28Pamed%C4%97s%20vyskupas%29)
+- [Saladinas](../objektai/asmenys/Saladinas)
+- [Semionas (Smolensko vyskupas)](../objektai/asmenys/Semionas%20%28Smolensko%20vyskupas%29)
+- [Simonas Kosakovskis](../objektai/asmenys/Simonas%20Kosakovskis)
+- [St. Ciolką](../objektai/asmenys/St.%20Ciolk%C4%85)
+- [Stanislovas (Plocko vyskupas)](../objektai/asmenys/Stanislovas%20%28Plocko%20vyskupas%29)
+- [Stanislovas Ciołek](../objektai/asmenys/Stanislovas%20Cio%C5%82ek)
+- [Stanislovas Goštautas](../objektai/asmenys/Stanislovas%20Go%C5%A1tautas)
+- [Stanislovas Jonas Da Vaina](../objektai/asmenys/Stanislovas%20Jonas%20Da%20Vaina)
+- [Stanislovas Veenas](../objektai/asmenys/Stanislovas%20Veenas)
+- [Steponas Genseris](../objektai/asmenys/Steponas%20Genseris)
+- [Sudimantas](../objektai/asmenys/Sudimantas)
+- [Teodosijus](../objektai/asmenys/Teodosijus)
+- [Teodozijus](../objektai/asmenys/Teodozijus)
+- [Teofilis (arkivyskupas)](../objektai/asmenys/Teofilis%20%28arkivyskupas%29)
+- [Tochtamišas](../objektai/asmenys/Tochtami%C5%A1as)
+- [Treteris](../objektai/asmenys/Treteris)
+- [Ulrikas Hozijus](../objektai/asmenys/Ulrikas%20Hozijus)
+- [Urbonas VI](../objektai/asmenys/Urbonas%20VI)
+- [Vaclovas (Medininkų vyskupas)](../objektai/asmenys/Vaclovas%20%28Medinink%C5%B3%20vyskupas%29)
+- [Vaidila](../objektai/asmenys/Vaidila)
+- [Vaiselijus](../objektai/asmenys/Vaiselijus)
+- [Vaitiekus (Lucko vyskupas)](../objektai/asmenys/Vaitiekus%20%28Lucko%20vyskupas%29)
+- [Vaitiekus II Radvila](../objektai/asmenys/Vaitiekus%20II%20Radvila)
+- [Vaitiekus Janavičius](../objektai/asmenys/Vaitiekus%20Janavi%C4%8Dius)
+- [Vaitiekus Jastrzembiec](../objektai/asmenys/Vaitiekus%20Jastrzembiec)
+- [Vaitiekus Narutavičius](../objektai/asmenys/Vaitiekus%20Narutavi%C4%8Dius)
+- [Valerijonas (raštininkas)](../objektai/asmenys/Valerijonas%20%28ra%C5%A1tininkas%29)
+- [Valerijonas Protasevičius (vyskupas)](../objektai/asmenys/Valerijonas%20Protasevi%C4%8Dius)
+- [Valerijonas Suškovskis Protasevičius (vyskupas)](../objektai/asmenys/Valerijonas%20Su%C5%A1kovskis%20Protasevi%C4%8Dius)
+- [Vilhelmas (dekanas)](../objektai/asmenys/Vilhelmas%20%28dekanas%29)
+- [Vilhelmas (Rygos arkivyskupas)](../objektai/asmenys/Vilhelmas%20%28Rygos%20arkivyskupas%29)
+- [Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)](../objektai/asmenys/Vilhelmas%20i%C5%A1%20Modenos)
+- [Vinrichas Kniprodė](../objektai/asmenys/Vinrichas%20Kniprod%C4%97)
+- [Visvaldis](../objektai/asmenys/Visvaldis)
+- [Vitas](../objektai/asmenys/Vitas)
+- [Vladislovas (karalius, Stepono pirmtakas)](../objektai/asmenys/Vladislovas%20%28karalius%2C%20Stepono%20pirmtakas%29)
+- [Volkvinas](../objektai/asmenys/Volkvinas)
+- [Zbignevas Olesnickis (vyskupas)](../objektai/asmenys/Zbignevas%20Olesnickis)
+- [Zbignievas Olesnickis](../objektai/asmenys/Zbignievas%20Olesnickis)
+- [Zygfridas iš Da\[he\]nfeldo](../objektai/asmenys/Zygfridas%20i%C5%A1%20Da%5Bhe%5Dnfeldo)
+- [Česchonis](../objektai/asmenys/%C4%8Ceschonis)
+- [Štenkelis iš Bentheimo](../objektai/asmenys/%C5%A0tenkelis%20i%C5%A1%20Bentheimo)
+- [Šv. Stanislovas](../objektai/asmenys/%C5%A0v.%20Stanislovas)
+- [Šventasis Steponas (Permės vyskupas)](../objektai/asmenys/%C5%A0ventasis%20Steponas%20%28Perm%C4%97s%20vyskupas%29)
+
+### Autoriai
+- [Antoni Melissanius de Macro](../objektai/autoriai/Antoni%20Melissanius%20de%20Macro)
+- [August von Kotzebue](../objektai/autoriai/August%20von%20Kotzebue)
+- [Augustinas Mieleckis Rotundas](../objektai/autoriai/Augustinas%20Mieleckis%20Rotundas)
+- [Batūra R](../objektai/autoriai/Bat%C5%ABra%20R)
+- [Beckherrn C](../objektai/autoriai/Beckherrn%20C)
+- [Dytmaras Merzeburgietis](../objektai/autoriai/Dytmaras%20Merzeburgietis)
+- [Erazmas Stela](../objektai/autoriai/Erazmas%20Stela)
+- [Faber K](../objektai/autoriai/Faber%20K)
+- [Gaudencijus](../objektai/autoriai/Gaudencijus)
+- [Godzislavas Baško](../objektai/autoriai/Godzislavas%20Ba%C5%A1ko)
+- [Grigalius Kniaževičius](../objektai/autoriai/Grigalius%20Knia%C5%BEevi%C4%8Dius)
+- [Hennenberger C](../objektai/autoriai/Hennenberger%20C)
+- [Hermanas Vartbergė](../objektai/autoriai/Hermanas%20Vartberg%C4%97)
+- [Jaroslavas](../objektai/autoriai/Jaroslavas)
+- [Juozas Arnulfas Giedraitis](../objektai/autoriai/Juozas%20Arnulfas%20Giedraitis)
+- [Kamerotos vyskupas Petras](../objektai/autoriai/Kamerotos%20vyskupas%20Petras)
+- [Kristijonas](../objektai/autoriai/Kristijonas)
+- [Kristijonas Henenbergeris](../objektai/autoriai/Kristijonas%20Henenbergeris)
+- [M. Wolonczewskis (Valančius)](../objektai/autoriai/M.%20Wolonczewskis%20%28Valan%C4%8Dius%29)
+- [Manteufel T](../objektai/autoriai/Manteufel%20T)
+- [Mažiulis V](../objektai/autoriai/Ma%C5%BEiulis%20V)
+- [Motiejus Valančius](../objektai/autoriai/Motiejus%20Valan%C4%8Dius)
+- [Nestoras](../objektai/autoriai/Nestoras)
+- [Ossoliński](../objektai/autoriai/Ossoli%C5%84ski)
+- [Paszkiewicz H](../objektai/autoriai/Paszkiewicz%20H)
+- [Petras Kojelavičius](../objektai/autoriai/Petras%20Kojelavi%C4%8Dius)
+- [Prūsijos vyskupas Kristijonas](../objektai/autoriai/Pr%C5%ABsijos%20vyskupas%20Kristijonas)
+- [Romas Batūra](../objektai/autoriai/R.%20Bat%C5%ABra)
+- [Soltykovičius](../objektai/autoriai/Soltykovi%C4%8Dius)
+- [V. Mažiulis](../objektai/autoriai/V.%20Ma%C5%BEiulis)
+- [Vaiselijus](../objektai/autoriai/Vaiselijus)
+- [Vysk. Valančius](../objektai/autoriai/Vysk.%20Valan%C4%8Dius)
+- [Waddyngas Luca Vaddingo](../objektai/autoriai/Waddyngas%20Luca%20Vaddingo)
+- [Šventasis Steponas](../objektai/autoriai/%C5%A0ventasis%20Steponas)
+- [Гуревич Ф. Д](../objektai/autoriai/%D0%93%D1%83%D1%80%D0%B5%D0%B2%D0%B8%D1%87%20%D0%A4.%20%D0%94)

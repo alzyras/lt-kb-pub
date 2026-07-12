@@ -159,6 +159,7 @@ const publicNavigationSuppressedLinkPrefixes = [
   "objektai/saltiniai/",
   "objektai/vietos/",
 ]
+const publicNavigationSuppressedSourceOnlyPrefixes = ["temos/"]
 
 export function isPublicNavigationSuppressedSlug(slug: SimpleSlug | string): boolean {
   const value = String(slug)
@@ -169,7 +170,13 @@ export function filterPublicNavigationLinks(
   links: SimpleSlug[],
   sourceSlug?: SimpleSlug | string,
 ): SimpleSlug[] {
-  if (sourceSlug && isPublicNavigationSuppressedSlug(sourceSlug)) {
+  if (
+    sourceSlug &&
+    (isPublicNavigationSuppressedSlug(sourceSlug) ||
+      publicNavigationSuppressedSourceOnlyPrefixes.some((prefix) =>
+        String(sourceSlug).startsWith(prefix),
+      ))
+  ) {
     return []
   }
   return links.filter((link) => {

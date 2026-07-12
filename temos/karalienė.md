@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'karalienė'
+pavadinimas: "karalienė"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 28
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 31.
+Objektų skaičius: 28.
 
 ## Kaip naudoti
 
@@ -21,7 +28,6 @@ Objektų skaičius: 31.
 ### Asmenys
 - [[objektai/asmenys/Aldona Gediminaitė]]
 - [[objektai/asmenys/Andrius iš Vasilevo Važila]]
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
 - [[objektai/asmenys/Augmundas]]
 - [[objektai/asmenys/Barbora (Aleksandro sesuo)]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
@@ -38,17 +44,15 @@ Objektų skaičius: 31.
 - [[objektai/asmenys/Jadvyga Jogailienė]]
 - [[objektai/asmenys/Janas Filipovičius]]
 - [[objektai/asmenys/Jonas Laskis]]
-- [[objektai/asmenys/Jonas Zabžezinskis]]
 - [[objektai/asmenys/Kiška]]
 - [[objektai/asmenys/Kotryna (Austrijos kunigaikštytė)]]
 - [[objektai/asmenys/Kotryna Jogailaitė]]
 - [[objektai/asmenys/Maksimilijonas]]
 - [[objektai/asmenys/Ona Jogailaitė]]
-- [Pranciškus Gonzaga](../objektai/asmenys/Pranci%C5%A1kus%20Gonzaga)
-- [Valerijonas (raštininkas)](../objektai/asmenys/Valerijonas%20%28ra%C5%A1tininkas%29)
+- [[objektai/asmenys/Pranciškus Gonzaga]]
+- [[objektai/asmenys/Valerijonas (raštininkas)]]
 - [Vladislovas IV](../objektai/asmenys/Vladislovas%20IV)
 
 ### Autoriai
 - [Konstantinas Sirvydas (kunigas)](../objektai/autoriai/Konstantinas%20Sirvydas)
-- [Ksaveras Bogušas (kunigas, XIX a.)](../objektai/autoriai/Ksaveras%20Bogu%C5%A1as)
 - [Machiavellio](../objektai/autoriai/Machiavellio)

@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'tarmybė'
+pavadinimas: "tarmybė"
+kanonine_tema: true
+tema_kategorija: "terminai"
+tema_kategorijos_pavadinimas: "Žodyno įrašai"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 5
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

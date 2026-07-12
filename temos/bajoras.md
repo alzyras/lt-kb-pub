@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'bajoras'
+pavadinimas: "bajoras"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 46
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 49.
+Objektų skaičius: 46.
 
 ## Kaip naudoti
 
@@ -45,7 +52,6 @@ Objektų skaičius: 49.
 - [[objektai/asmenys/Povilas Jurevičius]]
 - [[objektai/asmenys/Povilas Ksaveras Bžostovskis]]
 - [Rimvydas](../objektai/asmenys/Rimvydas)
-- [Rotundas (Augustinas Milesijus Mieleskis)](../objektai/asmenys/Rotundas%20%28Augustinas%20Milesijus%20Mieleskis%29)
 - [Rumbaudas](../objektai/asmenys/Rumbaudas)
 - [Samilis](../objektai/asmenys/Samilis)
 - [Skabeika](../objektai/asmenys/Skabeika)
@@ -58,9 +64,7 @@ Objektų skaičius: 49.
 - [Stucė](../objektai/asmenys/Stuc%C4%97)
 - [Trepka](../objektai/asmenys/Trepka)
 - [Vaidila](../objektai/asmenys/Vaidila)
-- [Vaitiekus Taboras (vyskupas, XV–XVI a.)](../objektai/asmenys/Vaitiekus%20Taboras)
 - [Vasibutas](../objektai/asmenys/Vasibutas)
-- [Vladislovas Jogaila](../objektai/asmenys/Vladislovas%20Jogaila)
 - [Vydimantas](../objektai/asmenys/Vydimantas)
 
 ### Autoriai

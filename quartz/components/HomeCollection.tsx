@@ -13,6 +13,7 @@ import {
 } from "../util/homeCollectionSelection"
 import { cleanText, displayCaption, objectMediaSet, type MediaEntry } from "../util/objectMedia"
 import { FullSlug, resolveRelative } from "../util/path"
+import { selectTopThemes } from "../util/themeCatalog"
 import { BrandLockup } from "./BrandLockup"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 // @ts-ignore
@@ -613,13 +614,13 @@ function browseGroups(
       label: "Temos",
       description: "Teminiai keliai per objektus, šaltinius ir teiginius.",
       href: "temos" as FullSlug,
-      links: largestHubLinks(
-        allFiles,
-        "temos/",
-        undefined,
-        "category-temos",
-        "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
-      ),
+      links: selectTopThemes(allFiles).map((theme) => ({
+        title: theme.title,
+        slug: theme.slug,
+        meta: objectCountText(theme.objectCount),
+        imageKey: "category-temos",
+        imageAlt: "1696 m. Lietuvos ir Lenkijos žemėlapio fragmentas",
+      })),
     },
     {
       kind: "periods",

@@ -1,11 +1,18 @@
 ---
 tipas: tema
-pavadinimas: 'vilnius'
+pavadinimas: "kreipinys"
+kanonine_tema: true
+tema_kategorija: "posakiai"
+tema_kategorijos_pavadinimas: "Posakiai"
+tema_aprasymas: ""
+tema_graph_role: "supporting"
+tema_objektu_skaicius: 3
+graph_hub: false
 sukurta: '2026-04-26'
 tags: []
 ---
 
-# vilnius
+# kreipinys
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
@@ -18,9 +25,7 @@ Objektų skaičius: 3.
 
 ## Susiję objektai
 
-### Autoriai
-- [[objektai/autoriai/Mykolas Balinskis]]
-
 ### Posakiai
-- [[objektai/posakiai/Vilnius - tai gyva senosios Lietuvos kronika]]
-- [[objektai/posakiai/Vilnius tapo žodžio ir rašto rungtynių lauku]]
+- [[objektai/posakiai/kiekvienam geros valios žmogui]]
+- [[objektai/posakiai/nesibaiminkite visokeriopų vargų]]
+- [[objektai/posakiai/Valioi mano dalgeeeeli, valiooooi, valiooooi!]]

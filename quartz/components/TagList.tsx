@@ -1,6 +1,7 @@
-import { FullSlug, resolveRelative } from "../util/path"
+import { resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { tagDestination } from "../util/themeCatalog"
 
 export const typeTags = new Set([
   "asmuo",
@@ -39,7 +40,7 @@ const TagList: QuartzComponent = ({ fileData, displayClass }: QuartzComponentPro
     return (
       <ul class={classNames(displayClass, "tags", "tags-curated")}>
         {orderedTags.map((tag) => {
-          const linkDest = resolveRelative(fileData.slug!, `tags/${tag}` as FullSlug)
+          const linkDest = resolveRelative(fileData.slug!, tagDestination(tag))
           const kind = tagKind(tag)
           return (
             <li>

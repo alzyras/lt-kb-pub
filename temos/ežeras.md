@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'ežeras'
+pavadinimas: "ežeras"
+kanonine_tema: true
+tema_kategorija: "vietos"
+tema_kategorijos_pavadinimas: "Vietų tipai"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 87
+graph_hub: false
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 37.
+Objektų skaičius: 87.
 
 ## Kaip naudoti
 
@@ -18,55 +25,91 @@ Objektų skaičius: 37.
 
 ## Susiję objektai
 
-### Asmenys
-- [[objektai/asmenys/A. Jakaitis]]
-- [[objektai/asmenys/Ghillebert de Lannoy]]
-- [[objektai/asmenys/Hermanas (Elbingo komtūras ir didysis Ordino špitolininkas)]]
-- [[objektai/asmenys/K. Ramanauskas]]
-- [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis]]
-- [[objektai/asmenys/Skomantas (lietuvių vadas)]]
-
-### Autoriai
-- [[objektai/autoriai/A. Kočubinskij]]
-- [[objektai/autoriai/Ambrassat A]]
-- [[objektai/autoriai/Baranowski T]]
-- [[objektai/autoriai/Dundulienė P]]
-- [[objektai/autoriai/Engel C]]
-- [[objektai/autoriai/Górnowicz H]]
-- [[objektai/autoriai/Kujot S]]
-- [[objektai/autoriai/Leyding G]]
-- [[objektai/autoriai/Sobolevskij]]
-- [[objektai/autoriai/Zajączkowski W]]
-
-### Daiktai
-- [[objektai/daiktai/Trakų kunigaikščio žvėrynas]]
-
-### Grupės
-- [[objektai/grupes/Dzūkų būrys]]
-- [[objektai/grupes/Normanai]]
-
-### Papročiai
-- [[objektai/paprociai/Lietuvos valdovų reikalų sprendimas Trakuose vietoj sostinės Vilniaus]]
-- [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]
-- [[objektai/paprociai/Vytauto donacijos Medininkų vyskupijai ir bažnyčioms]]
-
-### Posakiai
-- [[objektai/posakiai/Maldininke, nuramink žęmę]]
-- [[objektai/posakiai/„Jei Šveicarijai būdinga aukšti kalnai, Italijai – meno kūriniai, Suomijai – ežerai, o Lietuvą reikėtų pavadinti kraštu, kuriame labai pavoj]]
-
-### Įvykiai
-- [[objektai/ivykiai/Bartenšteino pilies apsiaustis, trijų kuorų sunaikinimas ir apleidimas (1264 m.)]]
-- [Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas](../objektai/ivykiai/Henriko%20Meiseno%20markgrafo%20%C5%BEygis%20%C4%AF%20Pamed%C4%99%2C%20pili%C5%B3%20naikinimas%20ir%20pamed%C4%97n%C5%B3%20pavergimas)
-- [Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę](../objektai/ivykiai/Kresmenos%20vals%C4%8Diaus%20nusiaubimas%20ir%20Liudviko%20pa%C4%97mimas%20%C4%AF%20nelaisv%C4%99)
-- [Kristburgo brolių smūgis Divanui prie Gubros upės](../objektai/ivykiai/Kristburgo%20broli%C5%B3%20sm%C5%ABgis%20Divanui%20prie%20Gubros%20up%C4%97s)
-- [Kulmo vyskupijos katedros ir miesto Culmense įkūrimas (1251 m.)](../objektai/ivykiai/Kulmo%20vyskupijos%20katedros%20ir%20miesto%20Culmense%20%C4%AFk%C5%ABrimas%20%281251%20m.%29)
-- [Meiseno markgrafo karo laivų „Piligrimas“ ir „Fridlandas“ panaudojimas bei pasitraukimas](../objektai/ivykiai/Meiseno%20markgrafo%20karo%20laiv%C5%B3%20%E2%80%9EPiligrimas%E2%80%9C%20ir%20%E2%80%9EFridlandas%E2%80%9C%20panaudojimas%20bei%20pasitraukimas)
-- [Pakimos valsčiaus nusiaubimas](../objektai/ivykiai/Pakimos%20vals%C4%8Diaus%20nusiaubimas)
-- [Rudino pilies pastatymas ir Dusburgiečio pasakojamas regėjimas joje](../objektai/ivykiai/Rudino%20pilies%20pastatymas%20ir%20Dusburgie%C4%8Dio%20pasakojamas%20reg%C4%97jimas%20joje)
-- [Vartenbergo apylinkių žmonių žudynės](../objektai/ivykiai/Vartenbergo%20apylinki%C5%B3%20%C5%BEmoni%C5%B3%20%C5%BEudyn%C4%97s)
-- [Veklico pilies ir vienos pilaitės sugriovimas](../objektai/ivykiai/Veklico%20pilies%20ir%20vienos%20pilait%C4%97s%20sugriovimas)
-- [Veliuonos suvažiavimas dėl Žemaičių sienos (1420 m. rugsėjo 8 d.)](../objektai/ivykiai/Veliuonos%20suva%C5%BEiavimas%20d%C4%97l%20%C5%BDemai%C4%8Di%C5%B3%20sienos%20%281420%20m.%20rugs%C4%97jo%208%20d.%29)
-
-### Žodynas
-- [Kerzono linija](../objektai/zodynas/Kerzono%20linija)
-- [servitutas](../objektai/zodynas/servitutas)
+### Vietos
+- [[objektai/vietos/Aismares]]
+- [[objektai/vietos/Aiviekstė]]
+- [[objektai/vietos/Aizkrauklė]]
+- [[objektai/vietos/Akmenų Brasta]]
+- [[objektai/vietos/Aleknonių kaimas]]
+- [[objektai/vietos/Angeteta]]
+- [[objektai/vietos/Apaščia]]
+- [[objektai/vietos/Barta]]
+- [[objektai/vietos/Buktos (Žaliosios) miškas]]
+- [[objektai/vietos/Burtnieko ežeras]]
+- [[objektai/vietos/Chełmža]]
+- [[objektai/vietos/Danija]]
+- [[objektai/vietos/Daugų ežeras]]
+- [[objektai/vietos/Denionių ežeras]]
+- [[objektai/vietos/Drevanta]]
+- [[objektai/vietos/Druskininkai]]
+- [[objektai/vietos/Drūsinė]]
+- [[objektai/vietos/Drūsinės ežeras]]
+- [[objektai/vietos/Dubingių valsčius]]
+- [[objektai/vietos/Dubičių ežeras]]
+- [[objektai/vietos/Durbės ežeras]]
+- [[objektai/vietos/Elniakampiai]]
+- [[objektai/vietos/Engūrės ežeras]]
+- [[objektai/vietos/Ežeronis]]
+- [[objektai/vietos/Galinda]]
+- [Galvės ežeras](../objektai/vietos/Galv%C4%97s%20e%C5%BEeras)
+- [Gardino apskritis](../objektai/vietos/Gardino%20apskritis)
+- [Gelvonai](../objektai/vietos/Gelvonai)
+- [Grajevas](../objektai/vietos/Grajevas)
+- [Grajevo](../objektai/vietos/Grajevo)
+- [Indija](../objektai/vietos/Indija)
+- [Juodelių sodyba](../objektai/vietos/Juodeli%C5%B3%20sodyba)
+- [Kaspija](../objektai/vietos/Kaspija)
+- [Kimenava](../objektai/vietos/Kimenava)
+- [Kobelio ežeras](../objektai/vietos/Kobelio%20e%C5%BEeras)
+- [Konstanco ežeras](../objektai/vietos/Konstanco%20e%C5%BEeras)
+- [Kresmena](../objektai/vietos/Kresmena)
+- [Kriukai](../objektai/vietos/Kriukai)
+- [Lakajų ežeras](../objektai/vietos/Lakaj%C5%B3%20e%C5%BEeras)
+- [Latgalija](../objektai/vietos/Latgalija)
+- [Laubner ežeras](../objektai/vietos/Laubner%20e%C5%BEeras)
+- [Leipūnos upė](../objektai/vietos/Leip%C5%ABnos%20up%C4%97)
+- [Liubano ežeras](../objektai/vietos/Liubano%20e%C5%BEeras)
+- [Lovetės giria](../objektai/vietos/Lovet%C4%97s%20giria)
+- [Loza](../objektai/vietos/Loza)
+- [Melno ežeras](../objektai/vietos/Melno%20e%C5%BEeras)
+- [Meotidė](../objektai/vietos/Meotid%C4%97)
+- [Merūniškiai](../objektai/vietos/Mer%C5%ABni%C5%A1kiai)
+- [Morungenas](../objektai/vietos/Morungenas)
+- [Mūša](../objektai/vietos/M%C5%AB%C5%A1a)
+- [Nagutinas](../objektai/vietos/Nagutinas)
+- [Obelių ežeras](../objektai/vietos/Obeli%C5%B3%20e%C5%BEeras)
+- [Orthus ežeras](../objektai/vietos/Orthus%20e%C5%BEeras)
+- [Pašilė](../objektai/vietos/Pa%C5%A1il%C4%97)
+- [Peipaus ežeras](../objektai/vietos/Peipaus%20e%C5%BEeras)
+- [Preivosto šilai](../objektai/vietos/Preivosto%20%C5%A1ilai)
+- [Priepado ežeras](../objektai/vietos/Priepado%20e%C5%BEeras)
+- [Pukančiai](../objektai/vietos/Pukan%C4%8Diai)
+- [Ragordo ežerai](../objektai/vietos/Ragordo%20e%C5%BEerai)
+- [Raigardo ežeras](../objektai/vietos/Raigardo%20e%C5%BEeras)
+- [Romintės giria](../objektai/vietos/Romint%C4%97s%20giria)
+- [Skomanto ežeras](../objektai/vietos/Skomanto%20e%C5%BEeras)
+- [Smalininkai](../objektai/vietos/Smalininkai)
+- [Smardonė](../objektai/vietos/Smardon%C4%97)
+- [Snervai](../objektai/vietos/Snervai)
+- [Stabo ežeras](../objektai/vietos/Stabo%20e%C5%BEeras)
+- [Sūduva](../objektai/vietos/S%C5%ABduva)
+- [Toropecas](../objektai/vietos/Toropecas)
+- [Točilovo ežerai](../objektai/vietos/To%C4%8Dilovo%20e%C5%BEerai)
+- [Točilovo ežeras](../objektai/vietos/To%C4%8Dilovo%20e%C5%BEeras)
+- [Vaišvilčiai](../objektai/vietos/Vai%C5%A1vil%C4%8Diai)
+- [Vangrapė](../objektai/vietos/Vangrap%C4%97)
+- [Vartenbergas](../objektai/vietos/Vartenbergas)
+- [Virogorų ežeras](../objektai/vietos/Virogor%C5%B3%20e%C5%BEeras)
+- [Visla](../objektai/vietos/Visla)
+- [Vištyčio ežeras](../objektai/vietos/Vi%C5%A1ty%C4%8Dio%20e%C5%BEeras)
+- [Volia](../objektai/vietos/Volia)
+- [Vystyčio ežeras](../objektai/vietos/Vysty%C4%8Dio%20e%C5%BEeras)
+- [Širvintos upė](../objektai/vietos/%C5%A0irvintos%20up%C4%97)
+- [Žaslių ežeras](../objektai/vietos/%C5%BDasli%C5%B3%20e%C5%BEeras)
+- [Želvos ežerai](../objektai/vietos/%C5%BDelvos%20e%C5%BEerai)
+- [Žirnajos upelis](../objektai/vietos/%C5%BDirnajos%20upelis)
+- [Žirnajų ežeras](../objektai/vietos/%C5%BDirnaj%C5%B3%20e%C5%BEeras)
+- [Žizdra](../objektai/vietos/%C5%BDizdra)
+- [Žuvintas](../objektai/vietos/%C5%BDuvintas)
+- [Žuvinto ežeras](../objektai/vietos/%C5%BDuvinto%20e%C5%BEeras)
+- [Žuvinto palios](../objektai/vietos/%C5%BDuvinto%20palios)

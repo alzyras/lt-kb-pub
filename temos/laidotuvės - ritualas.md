@@ -1,6 +1,13 @@
 ---
-tipas: tema
-pavadinimas: 'laidotuvės - ritualas'
+tipas: temu_sankirta
+pavadinimas: "laidotuvės - ritualas"
+kanonine_tema: false
+tema_kategorija: "sankirtos"
+tema_kategorijos_pavadinimas: "Temų sankirtos"
+tema_aprasymas: "Kelių kanoninių temų sankirta."
+tema_graph_role: "core"
+tema_objektu_skaicius: 8
+graph_hub: false
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -8,6 +15,8 @@ tags: []
 # laidotuvės - ritualas
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
+
+Kelių kanoninių temų sankirta.
 
 Objektų skaičius: 8.
 

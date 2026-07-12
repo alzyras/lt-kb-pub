@@ -69,4 +69,14 @@ describe("ContentIndex links", () => {
 
     assert.deepStrictEqual(links, [])
   })
+
+  test("keeps theme browse lists out of graph edges", () => {
+    assert.deepStrictEqual(
+      filterPublicNavigationLinks(
+        ["objektai/asmenys/Vytautas" as SimpleSlug],
+        "temos/valdovas" as SimpleSlug,
+      ),
+      [],
+    )
+  })
 })

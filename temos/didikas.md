@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'didikas'
+pavadinimas: "didikas"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 89
+graph_hub: false
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 57.
+Objektų skaičius: 89.
 
 ## Kaip naudoti
 
@@ -19,72 +26,94 @@ Objektų skaičius: 57.
 ## Susiję objektai
 
 ### Asmenys
+- [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]]
+- [[objektai/asmenys/Adomas Chreptavičius]]
 - [[objektai/asmenys/Adomas Jurgis Čartoriskis]]
+- [[objektai/asmenys/Albertas Goštautas]]
+- [[objektai/asmenys/Albertas Vaitiekus Manvydas]]
+- [[objektai/asmenys/Albrechtas (Prūsijos hercogas)]]
+- [[objektai/asmenys/Albrechtas Radvila]]
 - [[objektai/asmenys/Aleksandras I]]
+- [[objektai/asmenys/Aleksandras Vyguntas]]
 - [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]]
+- [[objektai/asmenys/Antoine Gramont]]
+- [[objektai/asmenys/B. P. Sapiega]]
 - [[objektai/asmenys/Barbora Cyleikaitė]]
+- [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė]]
 - [[objektai/asmenys/Barbora Radvilaitė]]
-- [[objektai/asmenys/Goštautas]]
-- [[objektai/asmenys/Jurgis Boliminas]]
-- [[objektai/asmenys/Jurgis Cemblakas]]
-- [[objektai/asmenys/Jurgis Galminas]]
-- [[objektai/asmenys/Jurgis Gedgaudas]]
-- [[objektai/asmenys/Jurgis Geldgaudas]]
-- [[objektai/asmenys/Margalis (Margirius )]]
-- [[objektai/asmenys/Mikalojus Kristupas Radvila-Našlaitėlis|Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)]]
-- [[objektai/asmenys/Mikalojus Radvila Juodasis]]
-- [[objektai/asmenys/Mikalojus Radvila Rudasis]]
-- [[objektai/asmenys/Mikalojus Sapienskis]]
-- [[objektai/asmenys/Mikalojus Sepienskis]]
-- [[objektai/asmenys/Mykolas Sapienskis]]
-- [[objektai/asmenys/Petras Goštautas]]
-- [[objektai/asmenys/Petras iš Kustynės]]
-- [[objektai/asmenys/Vladislovas (Jogailos sūnus)]]
-- [[objektai/asmenys/Vosylius II]]
+- [[objektai/asmenys/Bernardas iš Svidnicos]]
+- [[objektai/asmenys/Boguslavas Bousevičius]]
+- [[objektai/asmenys/Bousas|Bousas (didikas, XVI a.)]]
+- [[objektai/asmenys/Derska]]
+- [[objektai/asmenys/Dobeslavas Skoračevskis]]
+- [[objektai/asmenys/Dominykas Radvila]]
+- [[objektai/asmenys/Engelbertas I]]
+- [[objektai/asmenys/Fridrichas (Meiseno markgrafas)]]
+- [[objektai/asmenys/Fridrichas fon Bebirsteynas]]
+- [[objektai/asmenys/Fridrichas fon Vildenbergas]]
+- [Geroldzekas iš Švabijos](../objektai/asmenys/Geroldzekas%20i%C5%A1%20%C5%A0vabijos)
+- [Goštautas (vyskupas, XV a.)](../objektai/asmenys/Go%C5%A1tautas)
+- [Hartnumdas Grumbachas](../objektai/asmenys/Hartnumdas%20Grumbachas)
+- [Hildermidas](../objektai/asmenys/Hildermidas)
+- [Jonas (Sembos vyskupas)](../objektai/asmenys/Jonas%20%28Sembos%20vyskupas%29)
+- [Jonas Paleologas](../objektai/asmenys/Jonas%20Paleologas)
+- [Jonas Švitrigaila](../objektai/asmenys/Jonas%20%C5%A0vitrigaila)
+- [Julijonas Dausprungas](../objektai/asmenys/Julijonas%20Dausprungas)
+- [Jurgis (Vilniaus kaštelionas, Barboros tėvas)](../objektai/asmenys/Jurgis%20%28Vilniaus%20ka%C5%A1telionas%2C%20Barboros%20t%C4%97vas%29)
+- [Jurgis Boliminas](../objektai/asmenys/Jurgis%20Boliminas)
+- [Jurgis Cemblakas](../objektai/asmenys/Jurgis%20Cemblakas)
+- [Jurgis Galminas](../objektai/asmenys/Jurgis%20Galminas)
+- [Jurgis Gedgaudas](../objektai/asmenys/Jurgis%20Gedgaudas)
+- [Jurgis Geldgaudas](../objektai/asmenys/Jurgis%20Geldgaudas)
+- [Karolis Stanislovas Radvila](../objektai/asmenys/Karolis%20Stanislovas%20Radvila)
+- [Kazimieras Nestoras Sapiega](../objektai/asmenys/Kazimieras%20Nestoras%20Sapiega)
+- [Kazimieras Sapiega](../objektai/asmenys/Kazimieras%20Sapiega)
+- [Kiprijonas (Vilniaus sufraganas)](../objektai/asmenys/Kiprijonas%20%28Vilniaus%20sufraganas%29)
+- [Konradas (Mazovijos kunigaikštis)](../objektai/asmenys/Konradas%20%28Mazovijos%20kunigaik%C5%A1tis%29)
+- [Konradas Ciolneris Rotenšteinas](../objektai/asmenys/Konradas%20Ciolneris%20Roten%C5%A1teinas)
+- [Kosakovskis](../objektai/asmenys/Kosakovskis)
+- [Kristupas II Radvila](../objektai/asmenys/Kristupas%20II%20Radvila)
+- [Kristupas Zalivskis](../objektai/asmenys/Kristupas%20Zalivskis)
+- [Leonas Sapiega](../objektai/asmenys/Leonas%20Sapiega)
+- [Liudvikas (Brandenburgo markgrafas)](../objektai/asmenys/Liudvikas%20%28Brandenburgo%20markgrafas%29)
+- [M. K. Pacas](../objektai/asmenys/M.%20K.%20Pacas)
+- [M. P. Sapiega](../objektai/asmenys/M.%20P.%20Sapiega)
+- [Machmetas](../objektai/asmenys/Machmetas)
+- [Mantautas](../objektai/asmenys/Mantautas)
+- [Manvydas](../objektai/asmenys/Manvydas)
+- [Margalis (Margirius )](../objektai/asmenys/Margalis%20%28Margirius%20%29)
+- [Mikalojus (Medininkų vyskupas nominatas)](../objektai/asmenys/Mikalojus%20%28Medinink%C5%B3%20vyskupas%20nominatas%29)
+- [Mikalojus Kristupas Radvila-Našlaitėlis (didikas, XVI a.)](../objektai/asmenys/Mikalojus%20Kristupas%20Radvila-Na%C5%A1lait%C4%97lis)
+- [Mikalojus Radvila Juodasis](../objektai/asmenys/Mikalojus%20Radvila%20Juodasis)
+- [Mikalojus Radvila Rudasis](../objektai/asmenys/Mikalojus%20Radvila%20Rudasis)
+- [Mikalojus Sapienskis](../objektai/asmenys/Mikalojus%20Sapienskis)
+- [Mikalojus Sepienskis](../objektai/asmenys/Mikalojus%20Sepienskis)
+- [Mikolajus Kulmietis](../objektai/asmenys/Mikolajus%20Kulmietis)
+- [Motiejus (Vilniaus vyskupas)](../objektai/asmenys/Motiejus%20%28Vilniaus%20vyskupas%29)
+- [Mykolas Goštautas](../objektai/asmenys/Mykolas%20Go%C5%A1tautas)
+- [Mykolas Sapienskis](../objektai/asmenys/Mykolas%20Sapienskis)
+- [Mykolas Skirgaila](../objektai/asmenys/Mykolas%20Skirgaila)
+- [Ožechovskis](../objektai/asmenys/O%C5%BEechovskis)
+- [Petras Goštautas](../objektai/asmenys/Petras%20Go%C5%A1tautas)
+- [Petras iš Kustynės](../objektai/asmenys/Petras%20i%C5%A1%20Kustyn%C4%97s)
+- [Petras Semaška](../objektai/asmenys/Petras%20Sema%C5%A1ka)
+- [Plihta](../objektai/asmenys/Plihta)
+- [Povilas Sapiega](../objektai/asmenys/Povilas%20Sapiega)
+- [Pranciškus Ferdinandas](../objektai/asmenys/Pranci%C5%A1kus%20Ferdinandas)
+- [Puzinienė iš Oginskių](../objektai/asmenys/Puzinien%C4%97%20i%C5%A1%20Oginski%C5%B3)
+- [Rudolfas (Pomezanijos vyskupas)](../objektai/asmenys/Rudolfas%20%28Pomezanijos%20vyskupas%29)
+- [Rumbautas](../objektai/asmenys/Rumbautas)
+- [Rupertas](../objektai/asmenys/Rupertas)
+- [Spytekas iš Melštino](../objektai/asmenys/Spytekas%20i%C5%A1%20Mel%C5%A1tino)
+- [Spytkas iš Melsztyno](../objektai/asmenys/Spytkas%20i%C5%A1%20Melsztyno)
+- [Spytkas iš Melštino](../objektai/asmenys/Spytkas%20i%C5%A1%20Mel%C5%A1tino)
+- [Surbantas](../objektai/asmenys/Surbantas)
+- [Surdeta](../objektai/asmenys/Surdeta)
+- [Svisdeta](../objektai/asmenys/Svisdeta)
+- [Teodoras Vodka](../objektai/asmenys/Teodoras%20Vodka)
+- [Verneris fon Hoinbergas (didikas)](../objektai/asmenys/Verneris%20fon%20Hoinbergas)
+- [Vladislovas (Jogailos sūnus)](../objektai/asmenys/Vladislovas%20%28Jogailos%20s%C5%ABnus%29)
+- [Vosylius II](../objektai/asmenys/Vosylius%20II)
 
-### Daiktai
-- [[objektai/daiktai/Ietis]]
-- [[objektai/daiktai/Kardas]]
-- [[objektai/daiktai/Taurės]]
-
-### Grupės
-- [Didžlenkiai](../objektai/grupes/Did%C5%BElenkiai)
-- [Evangelikų reformatų bažnyčia](../objektai/grupes/Evangelik%C5%B3%20reformat%C5%B3%20ba%C5%BEny%C4%8Dia)
-- [Evangelikų reformatų bažnyčia Lietuvos evangelikai reformatai](../objektai/grupes/Evangelik%C5%B3%20reformat%C5%B3%20ba%C5%BEny%C4%8Dia%20Lietuvos%20evangelikai%20reformatai)
-- [LDK didikai](../objektai/grupes/LDK%20didikai)
-- [Lietuvos didikai](../objektai/grupes/Lietuvos%20didikai)
-- [Lietuvos evangelikai reformatai](../objektai/grupes/Lietuvos%20evangelikai%20reformatai)
-- [Protestantai](../objektai/grupes/Protestantai)
-
-### Papročiai
-- [Bajorijos ir didikų pasipelnymo įprotis viešuosiuose reikaluose](../objektai/paprociai/Bajorijos%20ir%20didik%C5%B3%20pasipelnymo%20%C4%AFprotis%20vie%C5%A1uosiuose%20reikaluose)
-- [Bajorijos stiprinimas valdovo privilegijomis (privilegija)](../objektai/paprociai/Bajorijos%20stiprinimas%20valdovo%20privilegijomis)
-- [Baudžiauninkų tikėjimo priklausomybė nuo pono paskirto kunigo](../objektai/paprociai/Baud%C5%BEiaunink%C5%B3%20tik%C4%97jimo%20priklausomyb%C4%97%20nuo%20pono%20paskirto%20kunigo)
-- [Didikų perėjimas į kalvinizmą ir funduotų bažnyčių sekuliarizavimas](../objektai/paprociai/Didik%C5%B3%20per%C4%97jimas%20%C4%AF%20kalvinizm%C4%85%20ir%20funduot%C5%B3%20ba%C5%BEny%C4%8Di%C5%B3%20sekuliarizavimas)
-- [Procesijos ir iškilmingos laidotuvės](../objektai/paprociai/Procesijos%20ir%20i%C5%A1kilmingos%20laidotuv%C4%97s)
-
-### Posakiai
-- [deržati mi jeho vyše vseje našeje bratije](../objektai/posakiai/der%C5%BEati%20mi%20jeho%20vy%C5%A1e%20vseje%20na%C5%A1eje%20bratije)
-- [Jūs abu esate mūsų viešpačiai](../objektai/posakiai/J%C5%ABs%20abu%20esate%20m%C5%ABs%C5%B3%20vie%C5%A1pa%C4%8Diai)
-
-### Įvykiai
-- [1413 m. Horodlės unijos peržiūra ir naujas ištikimybės pažadas (unija)](../objektai/ivykiai/1413%20m.%20Horodl%C4%97s%20unijos%20per%C5%BEi%C5%ABra%20ir%20naujas%20i%C5%A1tikimyb%C4%97s%20pa%C5%BEadas)
-- [1425 m. Bresto (Kujavijoj) seimas (seimas, XV a.)](../objektai/ivykiai/1425%20m.%20Bresto%20%28Kujavijoj%29%20seimas)
-- [1426 m. Lietuvos Brastos suvažiavimas](../objektai/ivykiai/1426%20m.%20Lietuvos%20Brastos%20suva%C5%BEiavimas)
-- [Baro konfederacija (1768–1772 m.)](../objektai/ivykiai/Baro%20konfederacija%20%281768%E2%80%931772%20m.%29)
-- [Mykolo Kaributo Višniaveckio elekcija (1669 m.)](../objektai/ivykiai/Mykolo%20Kaributo%20Vi%C5%A1niaveckio%20elekcija%20%281669%20m.%29)
-- [Padalinamasis seimas (1773–1775 m.)](../objektai/ivykiai/Padalinamasis%20seimas%20%281773%E2%80%931775%20m.%29)
-- [Vilniaus akademijos įkūrimas (1579 m.)](../objektai/ivykiai/Vilniaus%20akademijos%20%C4%AFk%C5%ABrimas%20%281579%20m.%29)
-- [Vytauto sričių kunigaikščių suvaldymas ir valstybės sutelkimas](../objektai/ivykiai/Vytauto%20sri%C4%8Di%C5%B3%20kunigaik%C5%A1%C4%8Di%C5%B3%20suvaldymas%20ir%20valstyb%C4%97s%20sutelkimas)
-
-### Žodynas
-- [lenas](../objektai/zodynas/lenas)
-- [luominė diferenciacija](../objektai/zodynas/luomin%C4%97%20diferenciacija)
-- [lėnininkai](../objektai/zodynas/l%C4%97nininkai)
-- [plikbajoris](../objektai/zodynas/plikbajoris)
-- [poliublininis laikotarpis poliublininiai laikai](../objektai/zodynas/poliublininis%20laikotarpis%20poliublininiai%20laikai)
-- [reformacija protestantizmas kalvinizmas](../objektai/zodynas/reformacija%20protestantizmas%20kalvinizmas)
-- [tėvonija](../objektai/zodynas/t%C4%97vonija)
-- [tėvonija tėvų palikimas](../objektai/zodynas/t%C4%97vonija%20t%C4%97v%C5%B3%20palikimas)
-- [valstybingumo sąmonė](../objektai/zodynas/valstybingumo%20s%C4%85mon%C4%97)
-- [žemės santykiais pagrįsta periodizacija](../objektai/zodynas/%C5%BEem%C4%97s%20santykiais%20pagr%C4%AFsta%20periodizacija)
+### Autoriai
+- [Albertas Goštautas](../objektai/autoriai/Albertas%20Go%C5%A1tautas)

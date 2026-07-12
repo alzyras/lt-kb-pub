@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'giminė'
+pavadinimas: "giminė"
+kanonine_tema: true
+tema_kategorija: "grupes"
+tema_kategorijos_pavadinimas: "Grupės ir institucijos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 44
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 45.
+Objektų skaičius: 44.
 
 ## Kaip naudoti
 
@@ -40,11 +47,10 @@ Objektų skaičius: 45.
 - [[objektai/grupes/Korano giminė]]
 - [[objektai/grupes/Kęsgailų giminė]]
 - [[objektai/grupes/Kęstučio šeima]]
-- [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė]]
 - [[objektai/grupes/Lietuvos kariuomenė]]
 - [[objektai/grupes/Linartai]]
 - [[objektai/grupes/Mamoničių giminė]]
-- [Mantiminų giminė](../objektai/grupes/Mantimin%C5%B3%20gimin%C4%97)
+- [[objektai/grupes/Mantiminų giminė]]
 - [Mikalauskų giminė](../objektai/grupes/Mikalausk%C5%B3%20gimin%C4%97)
 - [Mikuckių giminė](../objektai/grupes/Mikucki%C5%B3%20gimin%C4%97)
 - [Narbutai](../objektai/grupes/Narbutai)

@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'aukojimas'
+pavadinimas: "aukojimas"
+kanonine_tema: true
+tema_kategorija: "paprociai"
+tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 40
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

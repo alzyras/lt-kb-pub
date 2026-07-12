@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'ūkis'
+pavadinimas: "ūkis"
+kanonine_tema: true
+tema_kategorija: "paprociai"
+tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 22
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

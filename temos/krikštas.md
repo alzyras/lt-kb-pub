@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'krikštas'
+pavadinimas: "krikštas"
+kanonine_tema: true
+tema_kategorija: "ivykiai"
+tema_kategorijos_pavadinimas: "Įvykiai"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 56
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

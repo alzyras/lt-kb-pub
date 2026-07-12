@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'misionierius'
+pavadinimas: "misionierius"
+kanonine_tema: true
+tema_kategorija: "asmenys"
+tema_kategorijos_pavadinimas: "Asmenys ir vaidmenys"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 3
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---
@@ -9,7 +16,7 @@ tags: []
 
 Šis teminis puslapis jungia objektus pagal patvirtintas, įrodymais paremtas žymas.
 
-Objektų skaičius: 4.
+Objektų skaičius: 3.
 
 ## Kaip naudoti
 
@@ -22,4 +29,3 @@ Objektų skaičius: 4.
 - [[objektai/asmenys/Brunonas Bonifacijus]]
 - [[objektai/asmenys/Brunonas iš Kverfurto]]
 - [[objektai/asmenys/Jokūbas Lencicijus]]
-- [[objektai/asmenys/Netimeras]]

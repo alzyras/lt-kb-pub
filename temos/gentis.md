@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'gentis'
+pavadinimas: "gentis"
+kanonine_tema: true
+tema_kategorija: "grupes"
+tema_kategorijos_pavadinimas: "Grupės ir institucijos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 48
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

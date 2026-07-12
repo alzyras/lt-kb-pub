@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'šventė'
+pavadinimas: "šventė"
+kanonine_tema: true
+tema_kategorija: "paprociai"
+tema_kategorijos_pavadinimas: "Papročiai ir praktikos"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 57
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

@@ -1,6 +1,13 @@
 ---
 tipas: tema
-pavadinimas: 'papuošalas'
+pavadinimas: "papuošalas"
+kanonine_tema: true
+tema_kategorija: "daiktai"
+tema_kategorijos_pavadinimas: "Daiktai"
+tema_aprasymas: ""
+tema_graph_role: "core"
+tema_objektu_skaicius: 19
+graph_hub: true
 sukurta: '2026-04-26'
 tags: []
 ---

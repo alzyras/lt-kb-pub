@@ -3,6 +3,7 @@ import { concatenateResources } from "../util/resources"
 import { BrandLockup } from "./BrandLockup"
 import GoogleTranslate from "./GoogleTranslate"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { selectTopThemes } from "../util/themeCatalog"
 // @ts-ignore
 import script from "./scripts/li-header.inline"
 import styles from "./styles/liHeader.scss"
@@ -21,60 +22,6 @@ const objectLinks = [
   ["Posakiai", "objektai/posakiai"],
   ["Žodynas", "objektai/zodynas"],
   ["Šaltiniai", "objektai/saltiniai"],
-] as const
-
-const topicLinks = [
-  ["Visos temos", "temos"],
-  ["Aktas", "temos/aktas"],
-  ["Aktas - dokumentas", "temos/aktas - dokumentas"],
-  ["Bajoras", "temos/bajoras"],
-  ["Bibliografija", "temos/bibliografija"],
-  ["Buities daiktas", "temos/buities-daiktas"],
-  ["Didikas", "temos/didikas"],
-  ["Dinastija", "temos/dinastija"],
-  ["Dokumentas", "temos/dokumentas"],
-  ["Drabužis", "temos/drabužis"],
-  ["Dvasininkas", "temos/dvasininkas"],
-  ["Ežeras", "temos/ežeras"],
-  ["Formulė", "temos/formulė"],
-  ["Frazė", "temos/frazė"],
-  ["Ginklas", "temos/ginklas"],
-  ["Istorinė sąvoka", "temos/istorinė-sąvoka"],
-  ["Įrankis", "temos/įrankis"],
-  ["Karalienė", "temos/karalienė"],
-  ["Karinis terminas", "temos/karinis-terminas"],
-  ["Karo reikmuo", "temos/karo-reikmuo"],
-  ["Karūnacija", "temos/karūnacija"],
-  ["Karvedys", "temos/karvedys"],
-  ["Karyba", "temos/karyba"],
-  ["Kasdienybė", "temos/kasdienybė"],
-  ["Konfliktas", "temos/konfliktas"],
-  ["Krikštas", "temos/krikštas"],
-  ["Laidotuvės", "temos/laidotuvės"],
-  ["Metraštis", "temos/metraštis"],
-  ["Mūšis", "temos/mūšis"],
-  ["Paliaubos", "temos/paliaubos"],
-  ["Papuošalas", "temos/papuošalas"],
-  ["Politinis sprendimas", "temos/politinis-sprendimas"],
-  ["Popiežius", "temos/popiežius"],
-  ["Popiežius - valdovas", "temos/popiežius - valdovas"],
-  ["Privilegija", "temos/privilegija"],
-  ["Redaktorius", "temos/redaktorius"],
-  ["Religinė praktika", "temos/religinė-praktika"],
-  ["Religinis terminas", "temos/religinis-terminas"],
-  ["Ritualas", "temos/ritualas"],
-  ["Schema", "temos/schema"],
-  ["Simbolis", "temos/simbolis"],
-  ["Socialinė praktika", "temos/socialinė-praktika"],
-  ["Šeima", "temos/šeima"],
-  ["Teisinis terminas", "temos/teisinis-terminas"],
-  ["Tikėjimas", "temos/tikėjimas"],
-  ["Transportas", "temos/transportas"],
-  ["Ūkio įrankis", "temos/ūkio-įrankis"],
-  ["Upė", "temos/upė"],
-  ["Valdovas", "temos/valdovas"],
-  ["Vilnius", "temos/vilnius"],
-  ["Žemėlapis", "temos/žemėlapis"],
 ] as const
 
 const periodLinks = [
@@ -137,8 +84,12 @@ function HeaderDropdown({
 }
 
 const LIHeader: QuartzComponent = (props: QuartzComponentProps) => {
-  const { fileData } = props
+  const { fileData, allFiles } = props
   const currentSlug = fileData.slug ?? ("index" as FullSlug)
+  const topicLinks = [
+    ...selectTopThemes(allFiles).map((theme) => [theme.title, theme.slug] as const),
+    ["Visos temos", "temos" as FullSlug] as const,
+  ]
 
   return (
     <div class="li-header-shell">
