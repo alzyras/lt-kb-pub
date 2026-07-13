@@ -1,5 +1,13 @@
 export const ANALYTICS_SCHEMA_VERSION = "ga4_events_v1"
 
+export type GtagCommand = (...args: unknown[]) => void
+
+export function createGtagCommandQueue(dataLayer: unknown[]): GtagCommand {
+  return function gtag() {
+    dataLayer.push(arguments)
+  }
+}
+
 export const ANALYTICS_EVENT_NAMES = [
   "page_view",
   "object_view",

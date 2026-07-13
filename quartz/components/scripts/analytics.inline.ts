@@ -5,6 +5,7 @@ import {
   ExplorationState,
   advanceExploration,
   analyticsDedupeKey,
+  createGtagCommandQueue,
   emptyExplorationState,
   normalizeSearchTerm,
   searchTermContainsPotentialPii,
@@ -24,7 +25,7 @@ type AnalyticsRuntime = {
 
 type AnalyticsWindow = Window & {
   liAnalytics?: AnalyticsRuntime
-  dataLayer?: unknown[][]
+  dataLayer?: unknown[]
 }
 
 const analyticsWindow = window as AnalyticsWindow
@@ -138,7 +139,7 @@ function installAnalytics() {
   if (analyticsWindow.liAnalytics || !analyticsEnabled()) return
 
   analyticsWindow.dataLayer = analyticsWindow.dataLayer || []
-  const gtag = (...args: unknown[]) => analyticsWindow.dataLayer!.push(args)
+  const gtag = createGtagCommandQueue(analyticsWindow.dataLayer)
   const sessionKeys = readStringSet(SESSION_DEDUPE_KEY)
   let pageKeys = new Set<string>()
   let lastPageLocation = ""
