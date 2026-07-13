@@ -46,6 +46,34 @@ describe("ContentIndex sitemap", () => {
     assert.doesNotMatch(xml, /<lastmod>2026-05-01T12:00:00\.000Z<\/lastmod>/)
     assert.doesNotMatch(xml, /undefined|false|xmlns:xhtml/)
   })
+
+  test("adds generated gallery pages and image locations to the sitemap", () => {
+    const idx: ContentIndexMap = new Map([["index" as FullSlug, page()]])
+
+    const xml = generateSiteMap(cfg, idx, [
+      {
+        slug: "galerija" as FullSlug,
+        modifiedDate: new Date("2026-07-13T10:00:00.000Z"),
+        imageUrls: ["https://upload.wikimedia.org/example/Vytautas portrait.jpg"],
+      },
+      {
+        slug: "galerija/vytauto-portretas--m-one" as FullSlug,
+        imageUrls: ["https://upload.wikimedia.org/example/Vytautas portrait.jpg"],
+      },
+    ])
+
+    assert.match(xml, /xmlns:image="http:\/\/www\.google\.com\/schemas\/sitemap-image\/1\.1"/)
+    assert.match(xml, /<loc>https:\/\/example\.com\/base\/galerija<\/loc>/)
+    assert.match(
+      xml,
+      /<loc>https:\/\/example\.com\/base\/galerija\/vytauto-portretas--m-one<\/loc>/,
+    )
+    assert.match(
+      xml,
+      /<image:loc>https:\/\/upload\.wikimedia\.org\/example\/Vytautas portrait\.jpg<\/image:loc>/,
+    )
+    assert.match(xml, /<lastmod>2026-07-13T10:00:00\.000Z<\/lastmod>/)
+  })
 })
 
 describe("ContentIndex links", () => {

@@ -3,6 +3,7 @@ import { FullSlug, joinSegments } from "./path"
 
 export type MediaEntry = {
   mediaId?: string
+  detailUrl?: string
   title?: string
   caption?: string
   originalTitle?: string
@@ -95,7 +96,9 @@ export function mergeMediaEntries(entries: MediaEntry[]): MediaEntry[] {
     }
     const tags = new Map((current.tags ?? []).map((tag) => [tag.code, tag]))
     for (const tag of entry.tags ?? []) tags.set(tag.code, tag)
-    const objects = new Map((current.relatedObjects ?? []).map((object) => [object.notePath, object]))
+    const objects = new Map(
+      (current.relatedObjects ?? []).map((object) => [object.notePath, object]),
+    )
     for (const object of entry.relatedObjects ?? []) objects.set(object.notePath, object)
     current.tags = [...tags.values()]
     current.relatedObjects = [...objects.values()]
@@ -107,6 +110,35 @@ export function mergeMediaEntries(entries: MediaEntry[]): MediaEntry[] {
 
 export function objectGallerySlug(objectSlug: FullSlug): FullSlug {
   return joinSegments(objectSlug, "galerija") as FullSlug
+}
+
+export function mediaTitleSlug(value: unknown, maxLength = 96): string {
+  const normalized = cleanText(value)
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLocaleLowerCase("lt")
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/^-+|-+$/g, "")
+
+  if (!normalized) return "vaizdas"
+  const shortened = normalized.slice(0, Math.max(1, maxLength)).replace(/-+$/g, "")
+  return shortened || "vaizdas"
+}
+
+export function mediaDetailSlug(entry: MediaEntry): FullSlug {
+  const mediaId = cleanText(entry.mediaId).replace(/[^a-zA-Z0-9_-]+/g, "-") || "media"
+  return joinSegments(
+    "galerija",
+    `${mediaTitleSlug(displayCaption(entry))}--${mediaId}`,
+  ) as FullSlug
+}
+
+export function mediaDetailUrl(entry: MediaEntry): string {
+  return `/${entry.detailUrl?.replace(/^\/+/, "") || mediaDetailSlug(entry)}`
+}
+
+export function withMediaDetailUrl(entry: MediaEntry): MediaEntry {
+  return { ...entry, detailUrl: `/${mediaDetailSlug(entry)}` }
 }
 
 export function parseMediaEntries(value: unknown): MediaEntry[] {
@@ -133,7 +165,9 @@ export function parseMediaEntry(value: unknown): MediaEntry | undefined {
   if (!text) return undefined
   try {
     const parsed = JSON.parse(text)
-    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? (parsed as MediaEntry) : undefined
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed)
+      ? (parsed as MediaEntry)
+      : undefined
   } catch {
     return undefined
   }
@@ -191,16 +225,30 @@ export function directnessLabel(directness: string | undefined): string {
 }
 
 export function cleanText(value: unknown): string {
-  return String(value ?? "").replace(/\s+/g, " ").trim()
+  return String(value ?? "")
+    .replace(/\s+/g, " ")
+    .trim()
 }
 
 export function displayCaption(entry: MediaEntry): string {
   return cleanText(entry.caption) || cleanText(entry.title) || "Atvaizdas"
 }
 
+export function displayCreator(value: unknown): string {
+  return cleanText(value).replace(/^w:/i, "").trim()
+}
+
+export function displayDate(value: unknown): string {
+  return cleanText(value)
+    .replace(/\s+date\s+QS:.*$/i, "")
+    .trim()
+}
+
 export function displayMeta(entry: MediaEntry): string {
-  const date = cleanText(entry.dateDisplay).replace(/\s+date\s+QS:.*$/i, "").trim()
-  const parts = [cleanText(entry.creator), date, cleanText(entry.providerLabel || entry.provider)]
-    .filter(Boolean)
+  const parts = [
+    displayCreator(entry.creator),
+    displayDate(entry.dateDisplay),
+    cleanText(entry.providerLabel || entry.provider),
+  ].filter(Boolean)
   return parts.join(" • ")
 }

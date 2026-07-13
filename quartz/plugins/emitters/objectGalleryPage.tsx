@@ -1,6 +1,4 @@
 import { createHash } from "node:crypto"
-import { readFileSync } from "node:fs"
-import { resolve } from "node:path"
 import { QuartzEmitterPlugin } from "../types"
 import { QuartzComponentProps } from "../../components/types"
 import BodyConstructor from "../../components/Body"
@@ -13,12 +11,16 @@ import { defaultProcessedContent } from "../vfile"
 import { write } from "./helpers"
 import {
   cleanText,
+  displayCaption,
+  displayCreator,
+  displayDate,
   isObjectPage,
   MediaEntry,
+  mediaDetailSlug,
   mergeMediaEntries,
   objectGallerySlug,
-  objectMediaSet,
 } from "../../util/objectMedia"
+import { buildMediaCatalog, mediaEntriesByObject } from "../../util/mediaCatalog"
 import {
   computeFacetSummary,
   MEDIA_GALLERY_PAGE_SIZE,
@@ -37,18 +39,63 @@ function lightEntry(entry: MediaEntry): MediaEntry {
   return light
 }
 
-function loadCanonicalMediaCatalog(): MediaEntry[] {
-  try {
-    const path = resolve(process.cwd(), "quartz/static/mediaCatalogSource.json")
-    const payload = JSON.parse(readFileSync(path, "utf8")) as { entries?: unknown }
-    return Array.isArray(payload.entries)
-      ? payload.entries.filter(
-          (entry): entry is MediaEntry => Boolean(entry && typeof entry === "object"),
-        )
-      : []
-  } catch {
-    return []
+function mediaDescription(entry: MediaEntry): string {
+  const details = [
+    displayCreator(entry.creator),
+    displayDate(entry.dateDisplay),
+    cleanText(entry.institution),
+  ]
+    .filter(Boolean)
+    .join(" · ")
+  const base = displayCaption(entry)
+  return details ? `${base} ${details}.` : base
+}
+
+function absolutePageUrl(baseUrl: string | undefined, slug: FullSlug): string {
+  return new URL(`/${encodeURI(slug)}`, `https://${baseUrl ?? "example.com"}`).toString()
+}
+
+function mediaStructuredData(entry: MediaEntry, pageUrl: string, description: string): string {
+  const imageId = `${pageUrl}#image`
+  const creator = displayCreator(entry.creator)
+  const contentUrl = cleanText(entry.sourceUrl || entry.thumbUrl)
+  const thumbnailUrl = cleanText(entry.thumbUrl || entry.sourceUrl)
+  const creditText = cleanText(
+    entry.attribution || entry.institution || entry.providerLabel || entry.provider,
+  )
+  const license = cleanText(entry.licenseUrl)
+  const object = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": pageUrl,
+        url: pageUrl,
+        name: displayCaption(entry),
+        description,
+        primaryImageOfPage: { "@id": imageId },
+      },
+      {
+        "@type": "ImageObject",
+        "@id": imageId,
+        name: displayCaption(entry),
+        caption: displayCaption(entry),
+        description,
+        contentUrl: contentUrl || undefined,
+        thumbnailUrl: thumbnailUrl || undefined,
+        width: entry.width || undefined,
+        height: entry.height || undefined,
+        creator: creator ? { "@type": "Person", name: creator } : undefined,
+        creditText: creditText || undefined,
+        copyrightNotice: cleanText(entry.rightsNote) || undefined,
+        license: license || undefined,
+        acquireLicensePage: cleanText(entry.canonicalUrl) || undefined,
+        representativeOfPage: true,
+        mainEntityOfPage: { "@id": pageUrl },
+      },
+    ],
   }
+  return JSON.stringify(object)
 }
 
 export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
@@ -74,29 +121,8 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
     async *emit(ctx, content, resources) {
       const cfg = ctx.cfg.configuration
       const allFiles = content.map((c) => c[1].data)
-      const objectEntries = new Map<string, MediaEntry[]>()
-      const allEntries: MediaEntry[] = []
-
-      for (const [_tree, file] of content) {
-        const slug = file.data.slug
-        if (!slug || !isObjectPage(slug) || slug.endsWith("/galerija")) continue
-        const entries = objectMediaSet(file.data.frontmatter).all
-        if (!entries.length) continue
-        const notePath = `${slug}.md`
-        objectEntries.set(notePath, entries)
-        allEntries.push(...entries)
-      }
-
-      const canonicalCatalog = loadCanonicalMediaCatalog()
-      const catalog = mergeMediaEntries([...canonicalCatalog, ...allEntries])
-      objectEntries.clear()
-      for (const entry of catalog) {
-        for (const object of entry.relatedObjects ?? []) {
-          const notePath = cleanText(object.notePath)
-          if (!notePath) continue
-          objectEntries.set(notePath, [...(objectEntries.get(notePath) ?? []), entry])
-        }
-      }
+      const catalog = buildMediaCatalog(allFiles)
+      const objectEntries = mediaEntriesByObject(catalog)
       const lightCatalog = catalog.map(lightEntry)
       const catalogContent = JSON.stringify(lightCatalog)
       const catalogVersion = createHash("sha256").update(catalogContent).digest("hex").slice(0, 12)
@@ -119,6 +145,7 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
       const emitPage = async function* (
         slug: FullSlug,
         title: string,
+        description: string,
         entries: MediaEntry[],
         frontmatter: Record<string, unknown>,
       ) {
@@ -133,11 +160,15 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         const [tree, vfile] = defaultProcessedContent({
           slug,
           text: title,
-          description: `${title} – patikrintų Lietuvos istorijos vaizdų katalogas.`,
+          description,
           frontmatter: {
             title,
+            description,
             media_gallery_page: true,
             media_gallery_bootstrap_json: JSON.stringify(bootstrap),
+            media_primary_thumb_url: entries[0]?.thumbUrl || entries[0]?.sourceUrl || "",
+            media_primary_width: entries[0]?.width,
+            media_primary_height: entries[0]?.height,
             ...frontmatter,
           },
         })
@@ -159,7 +190,13 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         })
       }
 
-      yield* emitPage("galerija" as FullSlug, "Galerija", lightCatalog, {})
+      yield* emitPage(
+        "galerija" as FullSlug,
+        "Lietuvos istorijos vaizdų galerija",
+        "Patikrinti Lietuvos istorijos vaizdai iš atvirų kultūros paveldo rinkinių.",
+        lightCatalog,
+        {},
+      )
 
       for (const [_tree, file] of content) {
         const rawObjectSlug = file.data.slug
@@ -171,11 +208,57 @@ export const ObjectGalleryPage: QuartzEmitterPlugin = () => {
         const objectTitle =
           cleanText(file.data.frontmatter?.title) || objectSlug.split("/").at(-1) || "Objektas"
         const entries = mergeMediaEntries(objectEntries.get(notePath) ?? []).map(lightEntry)
-        yield* emitPage(objectGallerySlug(objectSlug), objectTitle, entries, {
-          object_title: objectTitle,
-          object_slug: objectSlug,
-          object_note_path: notePath,
-          object_gallery_page: true,
+        const galleryTitle = `${objectTitle} – vaizdų galerija`
+        yield* emitPage(
+          objectGallerySlug(objectSlug),
+          galleryTitle,
+          `${objectTitle}: patikrinti atvaizdai, kūriniai ir istorinis kontekstas.`,
+          entries,
+          {
+            object_title: objectTitle,
+            object_slug: objectSlug,
+            object_note_path: notePath,
+            object_gallery_page: true,
+          },
+        )
+      }
+
+      for (const entry of catalog) {
+        if (!entry.mediaId) continue
+        const slug = mediaDetailSlug(entry)
+        const title = displayCaption(entry)
+        const description = mediaDescription(entry)
+        const pageUrl = absolutePageUrl(cfg.baseUrl, slug)
+        const [tree, vfile] = defaultProcessedContent({
+          slug,
+          text: title,
+          description,
+          frontmatter: {
+            title,
+            description,
+            media_detail_page: true,
+            media_detail_json: JSON.stringify(entry),
+            media_primary_thumb_url: entry.thumbUrl || entry.sourceUrl || "",
+            media_primary_width: entry.width,
+            media_primary_height: entry.height,
+            structured_data_json: mediaStructuredData(entry, pageUrl, description),
+          },
+        })
+        const externalResources = pageResources(pathToRoot(slug), resources)
+        const componentData: QuartzComponentProps = {
+          ctx,
+          fileData: vfile.data,
+          externalResources,
+          cfg,
+          children: [],
+          tree,
+          allFiles,
+        }
+        yield write({
+          ctx,
+          content: renderPage(cfg, slug, componentData, opts, externalResources),
+          slug,
+          ext: ".html",
         })
       }
     },

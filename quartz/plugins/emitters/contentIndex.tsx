@@ -21,8 +21,20 @@ import {
   parseEvidenceSections,
 } from "../../util/citationFilter"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
+import { buildMediaCatalog, MediaCatalogFile, mediaEntriesByObject } from "../../util/mediaCatalog"
+import {
+  cleanText,
+  isObjectPage as isMediaObjectPage,
+  mediaDetailSlug,
+  objectGallerySlug,
+} from "../../util/objectMedia"
 
 export type ContentIndexMap = Map<FullSlug, ContentDetails>
+export type SitemapExtraEntry = {
+  slug: FullSlug
+  modifiedDate?: Date
+  imageUrls?: string[]
+}
 export type ContentDetails = {
   slug: FullSlug
   filePath: FilePath
@@ -524,20 +536,95 @@ function parseFrontmatterDate(value: unknown): Date | undefined {
   return Number.isNaN(date.getTime()) ? undefined : date
 }
 
-export function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
+function newestDate(dates: Array<Date | undefined>): Date | undefined {
+  return dates
+    .filter((date): date is Date => Boolean(date))
+    .sort((left, right) => right.getTime() - left.getTime())[0]
+}
+
+function entryModifiedDate(value: unknown): Date | undefined {
+  return parseFrontmatterDate(value)
+}
+
+export function gallerySitemapEntries(files: MediaCatalogFile[]): SitemapExtraEntry[] {
+  const catalog = buildMediaCatalog(files)
+  if (!catalog.length) return []
+  const byObject = mediaEntriesByObject(catalog)
+  const imageUrl = (entry: (typeof catalog)[number]) => cleanText(entry.sourceUrl || entry.thumbUrl)
+  const modifiedDate = (entry: (typeof catalog)[number]) =>
+    entryModifiedDate(entry.reviewedAt || entry.firstDiscoveredAt)
+  const entries: SitemapExtraEntry[] = [
+    {
+      slug: "galerija" as FullSlug,
+      modifiedDate: newestDate(catalog.map(modifiedDate)),
+      imageUrls: [...new Set(catalog.map(imageUrl).filter(Boolean))],
+    },
+  ]
+
+  for (const file of files) {
+    const slug = file.slug
+    if (!slug || !isMediaObjectPage(slug) || slug.endsWith("/galerija")) continue
+    const related = byObject.get(`${slug}.md`) ?? []
+    if (!related.length) continue
+    entries.push({
+      slug: objectGallerySlug(slug as FullSlug),
+      modifiedDate: newestDate(related.map(modifiedDate)),
+      imageUrls: [...new Set(related.map(imageUrl).filter(Boolean))],
+    })
+  }
+
+  for (const entry of catalog) {
+    const url = imageUrl(entry)
+    entries.push({
+      slug: mediaDetailSlug(entry),
+      modifiedDate: modifiedDate(entry),
+      imageUrls: url ? [url] : [],
+    })
+  }
+  return entries
+}
+
+export function generateSiteMap(
+  cfg: GlobalConfiguration,
+  idx: ContentIndexMap,
+  extraEntries: SitemapExtraEntry[] = [],
+): string {
   const base = cfg.baseUrl ?? ""
-  const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => {
-    const lastmodDate = content.modifiedDate
+  const createURLEntry = (
+    slug: SimpleSlug,
+    lastmodDate?: Date,
+    imageUrls: string[] = [],
+  ): string => {
     const lastmod = lastmodDate ? `\n    <lastmod>${lastmodDate.toISOString()}</lastmod>` : ""
+    const images = imageUrls
+      .slice(0, 1000)
+      .map(
+        (url) =>
+          `\n    <image:image>\n      <image:loc>${escapeHTML(url)}</image:loc>\n    </image:image>`,
+      )
+      .join("")
     return `  <url>
-    <loc>${escapeHTML(canonicalUrl(base, slug))}</loc>${lastmod}
+    <loc>${escapeHTML(canonicalUrl(base, slug))}</loc>${lastmod}${images}
   </url>`
   }
-  const urls = Array.from(idx)
-    .map(([slug, content]) => createURLEntry(simplifySlug(slug), content))
+  const urls = [
+    ...Array.from(idx).map(([slug, content]) => ({
+      slug: simplifySlug(slug),
+      modifiedDate: content.modifiedDate,
+      imageUrls: [] as string[],
+    })),
+    ...extraEntries.map((entry) => ({ ...entry, slug: simplifySlug(entry.slug) })),
+  ]
+    .filter(
+      (entry, index, all) => all.findIndex((candidate) => candidate.slug === entry.slug) === index,
+    )
+    .map((entry) => createURLEntry(entry.slug, entry.modifiedDate, entry.imageUrls))
     .join("\n")
+  const imageNamespace = extraEntries.some((entry) => (entry.imageUrls?.length ?? 0) > 0)
+    ? '\n  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"'
+    : ""
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"${imageNamespace}>
 ${urls}
 </urlset>
 `
@@ -647,9 +734,10 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       }
 
       if (opts?.enableSiteMap) {
+        const generatedGalleryEntries = gallerySitemapEntries(content.map((item) => item[1].data))
         yield write({
           ctx,
-          content: generateSiteMap(cfg, linkIndex),
+          content: generateSiteMap(cfg, linkIndex, generatedGalleryEntries),
           slug: "sitemap" as FullSlug,
           ext: ".xml",
         })
