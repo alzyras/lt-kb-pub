@@ -5,10 +5,33 @@ import {
   advanceExploration,
   analyticsDedupeKey,
   classifyAnalyticsPage,
+  createGtagCommandQueue,
   emptyExplorationState,
   normalizeSearchTerm,
   searchTermContainsPotentialPii,
 } from "../../util/analytics"
+
+test("queues gtag commands as Arguments objects required by gtag.js", () => {
+  const dataLayer: unknown[] = []
+  const gtag = createGtagCommandQueue(dataLayer)
+
+  gtag("config", "G-TEST", { send_page_view: false })
+  gtag("event", "page_view", { page_title: "Test" })
+
+  assert.equal(dataLayer.length, 2)
+  assert.equal(Array.isArray(dataLayer[0]), false)
+  assert.equal(Object.prototype.toString.call(dataLayer[0]), "[object Arguments]")
+  assert.deepEqual(Array.from(dataLayer[0] as IArguments), [
+    "config",
+    "G-TEST",
+    { send_page_view: false },
+  ])
+  assert.deepEqual(Array.from(dataLayer[1] as IArguments), [
+    "event",
+    "page_view",
+    { page_title: "Test" },
+  ])
+})
 
 test("classifies only recognized object pages as objects", () => {
   assert.equal(classifyAnalyticsPage("objektai/asmenys/Gediminas", "asmuo").pageType, "object")
