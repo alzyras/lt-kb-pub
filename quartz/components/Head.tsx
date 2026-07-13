@@ -16,7 +16,7 @@ export default (() => {
       fileData.frontmatter?.title ?? i18n(cfg.locale).propertyDefaults.title,
     ).trim()
     const siteTitle = String(cfg.pageTitle ?? "").trim()
-    const titleSuffix = titleBase === siteTitle ? "" : cfg.pageTitleSuffix ?? ""
+    const titleSuffix = titleBase === siteTitle ? "" : (cfg.pageTitleSuffix ?? "")
     const title = titleBase + titleSuffix
     const description =
       fileData.frontmatter?.socialDescription ??
@@ -25,6 +25,15 @@ export default (() => {
     const mediaPrimaryThumb =
       String(fileData.frontmatter?.media_primary_thumb_url ?? "").trim() ||
       String(fileData.frontmatter?.media_primary_canonical_url ?? "").trim()
+    const mediaPrimaryWidth = Number(fileData.frontmatter?.media_primary_width ?? 0)
+    const mediaPrimaryHeight = Number(fileData.frontmatter?.media_primary_height ?? 0)
+    const structuredDataValue = fileData.frontmatter?.structured_data_json
+    const structuredData =
+      typeof structuredDataValue === "string"
+        ? structuredDataValue.trim()
+        : structuredDataValue && typeof structuredDataValue === "object"
+          ? JSON.stringify(structuredDataValue)
+          : ""
 
     const { css, js, additionalHead } = externalResources
 
@@ -77,8 +86,18 @@ export default (() => {
             <meta property="og:image" content={ogImagePath} />
             <meta property="og:image:url" content={ogImagePath} />
             <meta name="twitter:image" content={ogImagePath} />
-            {!mediaPrimaryThumb && <meta property="og:image:width" content="1200" />}
-            {!mediaPrimaryThumb && <meta property="og:image:height" content="675" />}
+            {(mediaPrimaryWidth > 0 || !mediaPrimaryThumb) && (
+              <meta
+                property="og:image:width"
+                content={String(mediaPrimaryWidth > 0 ? mediaPrimaryWidth : 1200)}
+              />
+            )}
+            {(mediaPrimaryHeight > 0 || !mediaPrimaryThumb) && (
+              <meta
+                property="og:image:height"
+                content={String(mediaPrimaryHeight > 0 ? mediaPrimaryHeight : 675)}
+              />
+            )}
             {!mediaPrimaryThumb && <meta property="og:image:type" content="image/jpeg" />}
           </>
         )}
@@ -95,6 +114,12 @@ export default (() => {
         {canonicalUrl && <link rel="canonical" href={canonicalUrl} />}
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        {structuredData && (
+          <script
+            type="application/ld+json"
+            dangerouslySetInnerHTML={{ __html: structuredData.replace(/</g, "\\u003c") }}
+          />
+        )}
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js
