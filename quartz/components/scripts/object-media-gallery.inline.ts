@@ -2,14 +2,7 @@ import createJustifiedLayout from "justified-layout"
 import PhotoSwipe from "photoswipe"
 import PhotoSwipeLightbox from "photoswipe/lightbox"
 import type { MediaEntry } from "../../util/objectMedia"
-import {
-  cleanText,
-  displayCaption,
-  displayCreator,
-  displayDate,
-  mediaDetailUrl,
-  relationLabel,
-} from "../../util/objectMedia"
+import { cleanText, displayCaption, relationLabel } from "../../util/objectMedia"
 import {
   buildMediaSearchIndex,
   computeDynamicFacetCounts,
@@ -28,17 +21,7 @@ import {
 } from "../../util/mediaGallery"
 import { readSettingsState, sourceMatchesSelection } from "../../util/sourceSettings"
 
-const FACET_KEYS: MediaFacetKey[] = [
-  "types",
-  "directness",
-  "objects",
-  "tags",
-  "periods",
-  "objectTypes",
-  "providers",
-  "institutions",
-  "licenses",
-]
+const FACET_KEYS: MediaFacetKey[] = ["types", "directness", "objects", "tags", "periods", "objectTypes", "providers", "institutions", "licenses"]
 const FACET_VISIBLE_LIMIT: Partial<Record<MediaFacetKey, number>> = { objects: 24, tags: 18 }
 const facetVisibleLimit = (key: MediaFacetKey) => FACET_VISIBLE_LIMIT[key] ?? 10
 const catalogRequests = new Map<string, Promise<MediaEntry[]>>()
@@ -46,11 +29,8 @@ const detailCache = new Map<string, Promise<MediaEntry>>()
 const naturalSizeCache = new Map<string, Promise<{ width: number, height: number } | null>>()
 
 const text = (value: unknown) => cleanText(value)
-const escapeHtml = (value: unknown) =>
-  text(value).replace(
-    /[&<>"]/g,
-    (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[char] ?? char,
-  )
+const displayDate = (value: unknown) => text(value).replace(/\s+date\s+QS:.*$/i, "").trim()
+const escapeHtml = (value: unknown) => text(value).replace(/[&<>"]/g, (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[char] ?? char)
 
 function readDimension(value: unknown): number | null {
   const dimension = Number(value)
@@ -102,11 +82,8 @@ function parseBootstrap(root: HTMLElement): MediaGalleryBootstrap {
     if (value && Array.isArray(value.initialEntries)) return value as MediaGalleryBootstrap
   } catch {}
   return {
-    initialEntries: [],
-    totalCount: 0,
-    facetSummary: computeFacetSummary([]),
-    catalogUrl: root.dataset.catalogUrl || "/static/mediaCatalog.json",
-    catalogVersion: root.dataset.catalogVersion || "unknown",
+    initialEntries: [], totalCount: 0, facetSummary: computeFacetSummary([]),
+    catalogUrl: root.dataset.catalogUrl || "/static/mediaCatalog.json", catalogVersion: root.dataset.catalogVersion || "unknown",
   }
 }
 
@@ -119,7 +96,7 @@ function loadCatalog(url: string, retry = false): Promise<MediaEntry[]> {
         if (!response.ok) throw new Error(`media catalog ${response.status}`)
         return response.json()
       })
-      .then((value) => (Array.isArray(value) ? value : []))
+      .then((value) => Array.isArray(value) ? value : [])
     catalogRequests.set(url, request)
   }
   return request
@@ -131,7 +108,7 @@ function loadDetail(entry: MediaEntry): Promise<MediaEntry> {
   let request = detailCache.get(mediaId)
   if (!request) {
     request = fetch(`/static/media/${encodeURIComponent(mediaId)}.json`)
-      .then((response) => (response.ok ? response.json() : entry))
+      .then((response) => response.ok ? response.json() : entry)
       .catch(() => entry)
     detailCache.set(mediaId, request)
   }
@@ -140,40 +117,23 @@ function loadDetail(entry: MediaEntry): Promise<MediaEntry> {
 
 function providerAllowed(entry: MediaEntry): boolean {
   const settings = readSettingsState()
-  return sourceMatchesSelection(
-    {
-      id: `media-${text(entry.provider).toLowerCase() || "other"}`,
-      title: text(entry.providerLabel || entry.provider),
-      channel: "media",
-      kind: "image",
-      objectCount: 0,
-      claimCount: 0,
-      quoteCount: 0,
-      mediaCount: 1,
-    },
-    settings.mediaSources,
-  )
+  return sourceMatchesSelection({
+    id: `media-${text(entry.provider).toLowerCase() || "other"}`,
+    title: text(entry.providerLabel || entry.provider), channel: "media", kind: "image",
+    objectCount: 0, claimCount: 0, quoteCount: 0, mediaCount: 1,
+  }, settings.mediaSources)
 }
 
 function objectHref(notePath: string): string {
   return `/${notePath.replace(/\.md$/i, "").split("/").map(encodeURIComponent).join("/")}`
 }
 
-function galleryUrl(state: GalleryState, mediaId = "", galleryPath = location.pathname): string {
-  return `${galleryPath}${serializeGalleryState(state, mediaId)}${location.hash}`
+function galleryUrl(state: GalleryState, mediaId = ""): string {
+  return `${location.pathname}${serializeGalleryState(state, mediaId)}${location.hash}`
 }
 
-function writeUrl(
-  state: GalleryState,
-  mediaId = "",
-  mode: "replace" | "push" = "replace",
-  galleryPath = location.pathname,
-) {
-  history[mode === "push" ? "pushState" : "replaceState"](
-    {},
-    "",
-    galleryUrl(state, mediaId, galleryPath),
-  )
+function writeUrl(state: GalleryState, mediaId = "", mode: "replace" | "push" = "replace") {
+  history[mode === "push" ? "pushState" : "replaceState"]({}, "", galleryUrl(state, mediaId))
 }
 
 function stateValues(state: GalleryState, key: MediaFacetKey): string[] {
@@ -204,12 +164,9 @@ function card(entry: MediaEntry, index: number): HTMLElement {
   article.dataset.mediaId = text(entry.mediaId)
   const caption = displayCaption(entry)
   const date = displayDate(entry.dateDisplay)
-  const creator = displayCreator(entry.creator)
-  const objects = (entry.relatedObjects ?? [])
-    .slice(0, 2)
-    .map((object) => object.title)
-    .join(" · ")
-  const href = mediaDetailUrl(entry)
+  const creator = text(entry.creator)
+  const objects = (entry.relatedObjects ?? []).slice(0, 2).map((object) => object.title).join(" · ")
+  const href = galleryUrl(emptyGalleryState(), text(entry.mediaId))
   article.innerHTML = `<a href="${escapeHtml(href)}" data-media-open="${index}" aria-label="Atidaryti: ${escapeHtml(caption)}">
     <span class="media-gallery-card-media"><img src="${escapeHtml(entry.thumbUrl || entry.sourceUrl)}" alt="${escapeHtml(caption)}" ${entry.width ? `width="${Number(entry.width)}"` : ""} ${entry.height ? `height="${Number(entry.height)}"` : ""} loading="lazy" decoding="async">
     <span class="media-gallery-card-overlay"><span class="media-gallery-card-title">${escapeHtml(caption)}</span>${date ? `<span>${escapeHtml(date)}</span>` : ""}</span>
@@ -226,31 +183,18 @@ function detailsSkeleton(entry: MediaEntry): string {
 }
 
 function detailsHtml(entry: MediaEntry): string {
-  const objects = (entry.relatedObjects ?? [])
-    .map(
-      (object) =>
-        `<a href="${escapeHtml(objectHref(object.notePath))}">${escapeHtml(object.title)}</a>`,
-    )
-    .join("")
-  const uniqueTags = [
-    ...new Map((entry.tags ?? []).map((tag) => [tag.code || tag.label, tag])).values(),
-  ]
-  const tags = uniqueTags
-    .map(
-      (tag) =>
-        `<button type="button" data-viewer-tag="${escapeHtml(tag.code)}">#${escapeHtml(tag.label)}</button>`,
-    )
-    .join("")
+  const objects = (entry.relatedObjects ?? []).map((object) => `<a href="${escapeHtml(objectHref(object.notePath))}">${escapeHtml(object.title)}</a>`).join("")
+  const uniqueTags = [...new Map((entry.tags ?? []).map((tag) => [tag.code || tag.label, tag])).values()]
+  const tags = uniqueTags.map((tag) => `<button type="button" data-viewer-tag="${escapeHtml(tag.code)}">#${escapeHtml(tag.label)}</button>`).join("")
   const originalTitle = text(entry.originalTitle || entry.title)
-  const creator = displayCreator(entry.creator)
+  const creator = text(entry.creator)
   const date = displayDate(entry.dateDisplay)
   const imageType = relationLabel(entry.relationType)
   const institution = text(entry.institution)
   const provider = text(entry.providerLabel || entry.provider)
   const collection = text(entry.collection)
   const license = mediaLicenseLabel(entry.license)
-  const fact = (label: string, value: string) =>
-    value ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>` : ""
+  const fact = (label: string, value: string) => value ? `<div><dt>${escapeHtml(label)}</dt><dd>${escapeHtml(value)}</dd></div>` : ""
   return `<div class="media-viewer-panel-inner">
     <header class="media-viewer-heading">
       <p class="media-viewer-kicker">Vaizdo informacija</p>
@@ -267,13 +211,7 @@ function detailsHtml(entry: MediaEntry): string {
   </div>`
 }
 
-function initViewer(
-  root: HTMLElement,
-  getEntries: () => MediaEntry[],
-  getState: () => GalleryState,
-  rerender: () => void,
-  galleryPath: string,
-) {
+function initViewer(root: HTMLElement, getEntries: () => MediaEntry[], getState: () => GalleryState, rerender: () => void) {
   let details: HTMLElement | undefined
   let openedWithPush = false
   let openedScrollY = 0
@@ -310,19 +248,12 @@ function initViewer(
     syncSlideDimensions(index, resolved)
   }
   const lightbox = new PhotoSwipeLightbox({
-    dataSource: dataSource(),
-    pswpModule: PhotoSwipe,
-    bgOpacity: 0.985,
-    closeTitle: "Uždaryti",
-    zoomTitle: "Didinti",
-    arrowPrevTitle: "Ankstesnis vaizdas",
-    arrowNextTitle: "Kitas vaizdas",
+    dataSource: dataSource(), pswpModule: PhotoSwipe, bgOpacity: 0.985,
+    closeTitle: "Uždaryti", zoomTitle: "Didinti", arrowPrevTitle: "Ankstesnis vaizdas", arrowNextTitle: "Kitas vaizdas",
     paddingFn: () => {
       const header = document.querySelector<HTMLElement>(".li-header-shell")
       const mobileBrand = header?.querySelector<HTMLElement>(".li-header-brand")
-      const top = Math.ceil(
-        (innerWidth <= 900 ? mobileBrand : header)?.getBoundingClientRect().height ?? 0,
-      )
+      const top = Math.ceil((innerWidth <= 900 ? mobileBrand : header)?.getBoundingClientRect().height ?? 0)
       if (innerWidth <= 900) {
         const bottom = Math.ceil(Math.min(innerHeight * 0.46, 390))
         return { top: top + 8, right: 8, bottom: bottom + 8, left: 8 }
@@ -333,9 +264,7 @@ function initViewer(
   })
   lightbox.on("uiRegister", () => {
     lightbox.pswp?.ui?.registerElement({
-      name: "media-details",
-      order: 20,
-      appendTo: "root",
+      name: "media-details", order: 20, appendTo: "root",
       onInit: (element, pswp) => {
         details = element
         element.className = "pswp__media-details"
@@ -348,52 +277,35 @@ function initViewer(
           const detail = getEntries()[pswp.currIndex] ?? entry
           if (getEntries()[pswp.currIndex]?.mediaId !== requestedId) return
           element.innerHTML = detailsHtml(detail)
-          element
-            .querySelector<HTMLButtonElement>("[data-copy-media]")
-            ?.addEventListener("click", async () => {
-              const copy = element.querySelector<HTMLButtonElement>("[data-copy-media]")!
-              try {
-                await navigator.clipboard.writeText(
-                  new URL(mediaDetailUrl(detail), location.origin).toString(),
-                )
-                copy.textContent = "Nukopijuota"
-                copy.classList.add("is-copied")
-                window.setTimeout(() => {
-                  copy.textContent = "Kopijuoti nuorodą"
-                  copy.classList.remove("is-copied")
-                }, 1800)
-              } catch {
-                copy.textContent = "Nepavyko nukopijuoti"
-              }
-            })
-          element.querySelectorAll<HTMLButtonElement>("[data-viewer-tag]").forEach((button) =>
-            button.addEventListener("click", () => {
-              const code = button.dataset.viewerTag || ""
-              const state = getState()
-              if (code && !state.tags.includes(code)) state.tags.push(code)
-              openedWithPush = false
-              pswp.close()
-              rerender()
-            }),
-          )
+          element.querySelector<HTMLButtonElement>("[data-copy-media]")?.addEventListener("click", async () => {
+            const copy = element.querySelector<HTMLButtonElement>("[data-copy-media]")!
+            try {
+              await navigator.clipboard.writeText(new URL(galleryUrl(getState(), text(detail.mediaId)), location.origin).toString())
+              copy.textContent = "Nukopijuota"
+              copy.classList.add("is-copied")
+              window.setTimeout(() => { copy.textContent = "Kopijuoti nuorodą"; copy.classList.remove("is-copied") }, 1800)
+            } catch {
+              copy.textContent = "Nepavyko nukopijuoti"
+            }
+          })
+          element.querySelectorAll<HTMLButtonElement>("[data-viewer-tag]").forEach((button) => button.addEventListener("click", () => {
+            const code = button.dataset.viewerTag || ""
+            const state = getState()
+            if (code && !state.tags.includes(code)) state.tags.push(code)
+            openedWithPush = false
+            pswp.close()
+            rerender()
+          }))
         }
-        pswp.on("change", () => {
-          void update()
-          const entry = getEntries()[pswp.currIndex]
-          if (entry && openedWithPush) history.replaceState({}, "", mediaDetailUrl(entry))
-        })
+        pswp.on("change", () => { void update(); const entry = getEntries()[pswp.currIndex]; if (entry) writeUrl(getState(), text(entry.mediaId)) })
         void update()
       },
     })
     lightbox.pswp?.ui?.registerElement({
-      name: "media-position",
-      order: 8,
-      appendTo: "bar",
+      name: "media-position", order: 8, appendTo: "bar",
       onInit: (element, pswp) => {
         element.className = "pswp__media-position"
-        const update = () => {
-          element.textContent = `${pswp.currIndex + 1} / ${getEntries().length}`
-        }
+        const update = () => { element.textContent = `${pswp.currIndex + 1} / ${getEntries().length}` }
         pswp.on("change", update)
         update()
       },
@@ -407,11 +319,12 @@ function initViewer(
   })
   lightbox.on("close", () => {
     document.body.classList.remove("media-viewer-open")
-    if (openedWithPush && location.pathname !== galleryPath) {
+    if (openedWithPush && new URLSearchParams(location.search).has("media")) {
       openedWithPush = false
       history.back()
       requestAnimationFrame(() => scrollTo({ top: openedScrollY }))
-    } else writeUrl(getState(), "", "replace", galleryPath)
+    }
+    else writeUrl(getState())
   })
   lightbox.on("contentLoadImage", ({ content }) => {
     const imageElement = content.element
@@ -432,13 +345,8 @@ function initViewer(
     else imageElement.addEventListener("load", syncFromImage, { once: true })
     imageElement.addEventListener("error", () => {
       const entry = getEntries()[lightbox.pswp?.currIndex ?? 0]
-      const original = entry?.canonicalUrl
-        ? ` <a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>`
-        : ""
-      details?.insertAdjacentHTML(
-        "afterbegin",
-        `<p class="media-viewer-error">Vaizdo nepavyko užkrauti.${original}</p>`,
-      )
+      const original = entry?.canonicalUrl ? ` <a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>` : ""
+      details?.insertAdjacentHTML("afterbegin", `<p class="media-viewer-error">Vaizdo nepavyko užkrauti.${original}</p>`)
     }, { once: true })
   })
   lightbox.init()
@@ -446,22 +354,14 @@ function initViewer(
     if (index < 0 || index >= getEntries().length) return false
     openedWithPush = push
     openedScrollY = scrollY
-    if (push) history.pushState({}, "", mediaDetailUrl(getEntries()[index]!))
+    if (push) writeUrl(getState(), text(getEntries()[index]?.mediaId), "push")
     await hydrateEntry(index)
     lightbox.loadAndOpen(index)
     return true
   }
   const onRootClick = (event: MouseEvent) => {
     const link = (event.target as Element).closest<HTMLAnchorElement>("[data-media-open]")
-    if (
-      !link ||
-      event.button !== 0 ||
-      event.metaKey ||
-      event.ctrlKey ||
-      event.shiftKey ||
-      event.altKey
-    )
-      return
+    if (!link || event.button !== 0 || event.metaKey || event.ctrlKey || event.shiftKey || event.altKey) return
     const mediaId = link.closest<HTMLElement>("[data-media-id]")?.dataset.mediaId || ""
     const index = getEntries().findIndex((entry) => text(entry.mediaId) === mediaId)
     if (index < 0) return
@@ -473,9 +373,7 @@ function initViewer(
   return {
     lightbox,
     open,
-    refresh: () => {
-      lightbox.options.dataSource = dataSource()
-    },
+    refresh: () => { lightbox.options.dataSource = dataSource() },
     destroy: () => {
       openedWithPush = false
       root.removeEventListener("click", onRootClick)
@@ -500,34 +398,20 @@ function applyJustifiedLayout(grid: HTMLElement, entries: MediaEntry[]) {
     return Number.isFinite(ratio) && ratio > 0 ? ratio : 4 / 3
   })
   const layout = createJustifiedLayout(ratios, {
-    containerWidth: width,
-    containerPadding: 0,
-    boxSpacing: 10,
-    targetRowHeight: innerWidth < 1050 ? 190 : 245,
-    targetRowHeightTolerance: 0.2,
-    showWidows: true,
-    widowLayoutStyle: "left",
+    containerWidth: width, containerPadding: 0, boxSpacing: 10,
+    targetRowHeight: innerWidth < 1050 ? 190 : 245, targetRowHeightTolerance: 0.2,
+    showWidows: true, widowLayoutStyle: "left",
   })
   grid.classList.add("is-justified")
   grid.style.height = `${Math.ceil(layout.containerHeight)}px`
   cards.forEach((card, index) => {
     const box = layout.boxes[index]
     if (!box) return
-    Object.assign(card.style, {
-      left: `${box.left}px`,
-      top: `${box.top}px`,
-      width: `${box.width}px`,
-      height: `${box.height}px`,
-    })
+    Object.assign(card.style, { left: `${box.left}px`, top: `${box.top}px`, width: `${box.width}px`, height: `${box.height}px` })
   })
 }
 
-function renderFacetOptions(
-  root: HTMLElement,
-  state: GalleryState,
-  base: MediaFacetSummary,
-  counts: MediaFacetSummary,
-) {
+function renderFacetOptions(root: HTMLElement, state: GalleryState, base: MediaFacetSummary, counts: MediaFacetSummary) {
   for (const key of FACET_KEYS) {
     const group = root.querySelector<HTMLElement>(`[data-facet-group="${key}"]`)
     const container = group?.querySelector<HTMLElement>("[data-facet-options]")
@@ -536,28 +420,19 @@ function renderFacetOptions(
     const countMap = new Map((counts[key] ?? []).map((option) => [option.value, option.count]))
     const options = [...(base[key] ?? [])]
     selected.forEach((value) => {
-      if (!options.some((option) => option.value === value))
-        options.push({ value, label: value, count: 0 })
+      if (!options.some((option) => option.value === value)) options.push({ value, label: value, count: 0 })
     })
     const visibleLimit = facetVisibleLimit(key)
-    container.innerHTML = options
-      .map(
-        (
-          option,
-          index,
-        ) => `<label class="media-facet-option" data-facet-option ${index >= visibleLimit ? 'data-facet-extra="true"' : ""}>
+    container.innerHTML = options.map((option, index) => `<label class="media-facet-option" data-facet-option ${index >= visibleLimit ? 'data-facet-extra="true"' : ""}>
       <input type="checkbox" value="${escapeHtml(option.value)}" data-facet-input="${key}" ${selected.includes(option.value) ? "checked" : ""}>
-      <span class="media-facet-check" aria-hidden="true"></span><span class="media-facet-label">${escapeHtml(option.label)}</span><span class="media-facet-count">${countMap.get(option.value) ?? 0}</span></label>`,
-      )
-      .join("")
+      <span class="media-facet-check" aria-hidden="true"></span><span class="media-facet-label">${escapeHtml(option.label)}</span><span class="media-facet-count">${countMap.get(option.value) ?? 0}</span></label>`).join("")
     const selectedCount = group.querySelector<HTMLElement>("[data-facet-selected-count]")
     if (selectedCount) selectedCount.textContent = selected.length ? String(selected.length) : ""
     group.classList.toggle("has-selection", selected.length > 0)
     const expand = group.querySelector<HTMLButtonElement>("[data-facet-expand]")
     if (expand) {
       expand.hidden = options.length <= 8
-      expand.textContent =
-        group.dataset.expanded === "true" ? "Rodyti mažiau" : `Rodyti visus (${options.length})`
+      expand.textContent = group.dataset.expanded === "true" ? "Rodyti mažiau" : `Rodyti visus (${options.length})`
     }
   }
 }
@@ -571,7 +446,6 @@ function initGallery(root: HTMLElement) {
   root.dataset.galleryInitialized = "true"
   const bootstrap = parseBootstrap(root)
   const lockedObject = root.dataset.objectPath || bootstrap.lockedObject || ""
-  const galleryPath = root.dataset.galleryPath || location.pathname
   let state = parseGalleryState(location.search, lockedObject)
   let catalog = bootstrap.initialEntries
   let catalogComplete = false
@@ -608,72 +482,31 @@ function initGallery(root: HTMLElement) {
     filterBadge.textContent = String(selected)
   }
 
-  const labels = () =>
-    Object.fromEntries(
-      FACET_KEYS.map((key) => [
-        key,
-        new Map((baseFacets[key] ?? []).map((option) => [option.value, option.label])),
-      ]),
-    ) as Record<MediaFacetKey, Map<string, string>>
+  const labels = () => Object.fromEntries(FACET_KEYS.map((key) => [key, new Map((baseFacets[key] ?? []).map((option) => [option.value, option.label]))])) as Record<MediaFacetKey, Map<string, string>>
 
-  const layout = () =>
-    requestAnimationFrame(() => applyJustifiedLayout(grid, filtered.slice(0, visibleLimit)))
+  const layout = () => requestAnimationFrame(() => applyJustifiedLayout(grid, filtered.slice(0, visibleLimit)))
 
   const render = (writeState = true) => {
     filtered = filterMediaEntries(catalog, state, searchIndex, { lockedObject, providerAllowed })
     grid.replaceChildren(...filtered.slice(0, visibleLimit).map(card))
-    const shownCount = catalogComplete
-      ? filtered.length
-      : activeFilterCount(state)
-        ? filtered.length
-        : bootstrap.totalCount
+    const shownCount = catalogComplete ? filtered.length : (activeFilterCount(state) ? filtered.length : bootstrap.totalCount)
     count.textContent = `${shownCount} ${shownCount === 1 ? "vaizdas" : "vaizdų"}`
     mobileCount.textContent = String(shownCount)
     empty.hidden = filtered.length > 0 || (!catalogComplete && bootstrap.totalCount > 0)
     sentinel.hidden = !catalogComplete || visibleLimit >= filtered.length
-    const dynamicCounts = computeDynamicFacetCounts(
-      catalog,
-      state,
-      searchIndex,
-      lockedObject,
-      providerAllowed,
-    )
+    const dynamicCounts = computeDynamicFacetCounts(catalog, state, searchIndex, lockedObject, providerAllowed)
     renderFacetOptions(root, state, baseFacets, dynamicCounts)
     const optionLabels = labels()
-    const chips = FACET_KEYS.flatMap((key) =>
-      stateValues(state, key).map((value) => ({
-        key,
-        value,
-        label: optionLabels[key].get(value) ?? value,
-      })),
-    )
-    activeFilters.innerHTML = chips
-      .map(
-        ({ key, value, label }) =>
-          `<button type="button" class="media-filter-chip" data-remove-facet="${key}" data-remove-value="${escapeHtml(value)}">${escapeHtml(label)} <span aria-hidden="true">×</span></button>`,
-      )
-      .join("")
+    const chips = FACET_KEYS.flatMap((key) => stateValues(state, key).map((value) => ({ key, value, label: optionLabels[key].get(value) ?? value })))
+    activeFilters.innerHTML = chips.map(({ key, value, label }) => `<button type="button" class="media-filter-chip" data-remove-facet="${key}" data-remove-value="${escapeHtml(value)}">${escapeHtml(label)} <span aria-hidden="true">×</span></button>`).join("")
     syncInputs()
     refreshViewer()
     layout()
-    if (writeState)
-      writeUrl(
-        state,
-        new URLSearchParams(location.search).get("media") || "",
-        "replace",
-        galleryPath,
-      )
+    if (writeState) writeUrl(state, new URLSearchParams(location.search).get("media") || "")
   }
 
-  const reset = () => {
-    state = emptyGalleryState()
-    visibleLimit = MEDIA_GALLERY_PAGE_SIZE
-    render()
-  }
-  const closeFilters = () => {
-    root.classList.remove("filters-open")
-    document.body.classList.remove("media-filters-open")
-  }
+  const reset = () => { state = emptyGalleryState(); visibleLimit = MEDIA_GALLERY_PAGE_SIZE; render() }
+  const closeFilters = () => { root.classList.remove("filters-open"); document.body.classList.remove("media-filters-open") }
 
   root.addEventListener("change", (event) => {
     const input = (event.target as Element).closest<HTMLInputElement>("[data-facet-input]")
@@ -687,103 +520,54 @@ function initGallery(root: HTMLElement) {
   })
   root.addEventListener("click", (event) => {
     const target = event.target as Element
-    if (target.closest("[data-media-reset]")) {
-      reset()
-      closeFilters()
-      return
-    }
-    if (target.closest("[data-media-filter-open]")) {
-      root.classList.add("filters-open")
-      document.body.classList.add("media-filters-open")
-      return
-    }
-    if (target.closest("[data-media-filter-close]")) {
-      closeFilters()
-      return
-    }
-    if (target.closest("[data-media-search-clear]")) {
-      state.q = ""
-      visibleLimit = MEDIA_GALLERY_PAGE_SIZE
-      render()
-      search.focus()
-      return
-    }
+    if (target.closest("[data-media-reset]")) { reset(); closeFilters(); return }
+    if (target.closest("[data-media-filter-open]")) { root.classList.add("filters-open"); document.body.classList.add("media-filters-open"); return }
+    if (target.closest("[data-media-filter-close]")) { closeFilters(); return }
+    if (target.closest("[data-media-search-clear]")) { state.q = ""; visibleLimit = MEDIA_GALLERY_PAGE_SIZE; render(); search.focus(); return }
     const remove = target.closest<HTMLButtonElement>("[data-remove-facet]")
     if (remove) {
       const key = remove.dataset.removeFacet as MediaFacetKey
-      setStateValues(
-        state,
-        key,
-        stateValues(state, key).filter((value) => value !== remove.dataset.removeValue),
-      )
-      render()
-      return
+      setStateValues(state, key, stateValues(state, key).filter((value) => value !== remove.dataset.removeValue))
+      render(); return
     }
     const expand = target.closest<HTMLButtonElement>("[data-facet-expand]")
     if (expand) {
       const group = expand.closest<HTMLElement>("[data-facet-group]")!
       group.dataset.expanded = group.dataset.expanded === "true" ? "false" : "true"
-      expand.textContent =
-        group.dataset.expanded === "true"
-          ? "Rodyti mažiau"
-          : `Rodyti visus (${group.querySelectorAll("[data-facet-option]").length})`
+      expand.textContent = group.dataset.expanded === "true" ? "Rodyti mažiau" : `Rodyti visus (${group.querySelectorAll("[data-facet-option]").length})`
     }
   })
   root.addEventListener("input", (event) => {
     const query = (event.target as Element).closest<HTMLInputElement>("[data-media-search]")
-    if (query) {
-      state.q = query.value
-      visibleLimit = MEDIA_GALLERY_PAGE_SIZE
-      render()
-      return
-    }
+    if (query) { state.q = query.value; visibleLimit = MEDIA_GALLERY_PAGE_SIZE; render(); return }
     const facetSearch = (event.target as Element).closest<HTMLInputElement>("[data-facet-search]")
     if (facetSearch) {
       const normalized = facetSearch.value.toLocaleLowerCase("lt")
-      facetSearch
-        .closest("[data-facet-group]")
-        ?.querySelectorAll<HTMLElement>("[data-facet-option]")
-        .forEach((option) => {
-          option.hidden = !text(option.textContent).toLocaleLowerCase("lt").includes(normalized)
-        })
+      facetSearch.closest("[data-facet-group]")?.querySelectorAll<HTMLElement>("[data-facet-option]").forEach((option) => {
+        option.hidden = !text(option.textContent).toLocaleLowerCase("lt").includes(normalized)
+      })
     }
   })
-  sort.addEventListener("change", () => {
-    state.sort = sort.value as GalleryState["sort"]
-    render()
-  })
-  root
-    .querySelector<HTMLButtonElement>("[data-media-retry]")
-    ?.addEventListener("click", () => void hydrate(true))
+  sort.addEventListener("change", () => { state.sort = sort.value as GalleryState["sort"]; render() })
+  root.querySelector<HTMLButtonElement>("[data-media-retry]")?.addEventListener("click", () => void hydrate(true))
 
   const resizeObserver = new ResizeObserver(layout)
   resizeObserver.observe(grid)
-  const intersectionObserver = new IntersectionObserver(
-    (entries) => {
-      if (entries.some((entry) => entry.isIntersecting) && visibleLimit < filtered.length) {
-        visibleLimit += MEDIA_GALLERY_PAGE_SIZE
-        render(false)
-      }
-    },
-    { rootMargin: "500px 0px" },
-  )
+  const intersectionObserver = new IntersectionObserver((entries) => {
+    if (entries.some((entry) => entry.isIntersecting) && visibleLimit < filtered.length) {
+      visibleLimit += MEDIA_GALLERY_PAGE_SIZE
+      render(false)
+    }
+  }, { rootMargin: "500px 0px" })
   intersectionObserver.observe(sentinel)
 
   render(false)
-  const viewer = initViewer(
-    root,
-    () => filtered,
-    () => state,
-    () => render(),
-    galleryPath,
-  )
+  const viewer = initViewer(root, () => filtered, () => state, () => render())
   refreshViewer = viewer.refresh
   refreshViewer()
 
   const openRequestedMedia = () => {
-    const requested =
-      new URLSearchParams(location.search).get("media") ||
-      filtered.find((entry) => mediaDetailUrl(entry) === location.pathname)?.mediaId
+    const requested = new URLSearchParams(location.search).get("media")
     if (!requested || viewer.lightbox.pswp) return
     void viewer.open(filtered.findIndex((entry) => entry.mediaId === requested), false)
   }
@@ -792,15 +576,10 @@ function initGallery(root: HTMLElement) {
   async function hydrate(retry = false) {
     showStatus(retry ? "Katalogas kraunamas iš naujo…" : "")
     try {
-      catalog = await loadCatalog(
-        bootstrap.catalogUrl || root.dataset.catalogUrl || "/static/mediaCatalog.json",
-        retry,
-      )
+      catalog = await loadCatalog(bootstrap.catalogUrl || root.dataset.catalogUrl || "/static/mediaCatalog.json", retry)
       catalogComplete = true
       searchIndex = buildMediaSearchIndex(catalog)
-      baseFacets = computeFacetSummary(
-        filterMediaEntries(catalog, emptyGalleryState(), undefined, { lockedObject }),
-      )
+      baseFacets = computeFacetSummary(filterMediaEntries(catalog, emptyGalleryState(), undefined, { lockedObject }))
       showStatus("")
       render(false)
       openRequestedMedia()
@@ -815,15 +594,11 @@ function initGallery(root: HTMLElement) {
     state = parseGalleryState(location.search, lockedObject)
     visibleLimit = MEDIA_GALLERY_PAGE_SIZE
     render(false)
-    const mediaId =
-      new URLSearchParams(location.search).get("media") ||
-      filtered.find((entry) => mediaDetailUrl(entry) === location.pathname)?.mediaId
+    const mediaId = new URLSearchParams(location.search).get("media")
     if (!mediaId && viewer.lightbox.pswp) viewer.lightbox.pswp.close()
     else if (mediaId && !viewer.lightbox.pswp) openRequestedMedia()
   }
-  const onKeyDown = (event: KeyboardEvent) => {
-    if (event.key === "Escape" && root.classList.contains("filters-open")) closeFilters()
-  }
+  const onKeyDown = (event: KeyboardEvent) => { if (event.key === "Escape" && root.classList.contains("filters-open")) closeFilters() }
   const onSettingsRefresh = () => render()
   window.addEventListener("popstate", onPopState)
   document.addEventListener("keydown", onKeyDown)
@@ -847,8 +622,4 @@ function initGalleries() {
 
 initGalleries()
 document.addEventListener("nav", initGalleries)
-document.addEventListener("quartz-settings-change", () =>
-  document
-    .querySelectorAll<HTMLElement>("[data-media-gallery]")
-    .forEach((root) => root.dispatchEvent(new Event("media-settings-refresh"))),
-)
+document.addEventListener("quartz-settings-change", () => document.querySelectorAll<HTMLElement>("[data-media-gallery]").forEach((root) => root.dispatchEvent(new Event("media-settings-refresh"))))
