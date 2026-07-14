@@ -2,6 +2,7 @@
 tipas: autorius
 pavadinimas: 'A. Alekna'
 saltiniai:
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Vytautas Didysis 1350-1430 (1930 m.)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
 datos:
@@ -35,7 +36,7 @@ media_all_json: |-
 
 ## Santrauka
 
-A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios istorijos veikalų autorius bei pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete. Šiame šaltinyje jis papildomai rodomas kaip monografijos apie Vytautą Didįjį patarėjas, peržiūrėtojas ir bibliografiškai cituojamas Lietuvos istorijos autorius.
+Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius. Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius. A. Alekna, remdamasis Kauno vyskupijos kurijos archyvine medžiaga, 1923 m. išleido veikalą „Žemaičių vysk. M. Valančius“.
 
 ## Darbai
 
@@ -108,94 +109,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - susijęs iš Lietuvos istorija (A. Alekna): Alekna 1911 m. išleido „Lietuvos istoriją“, o 1923 m. ketvirtajam leidimui panaudojo daugiau šaltinių ir tyrinėjimų.
 - susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
 - susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Gause, Karaliaučius - Marburgas 1936-
-    1970.
-    AlBL = Alekna, A. : Katalikų Bažnyčia Lietuvoje, Kaunas 1936
-    (spaudai paruošė kim. J. Stakauskas).
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-007
-
-- c-002
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Kartu taip pat norėtume padėti mūsų platesnei vi­
-    suomenei pažinti tą didį Žmogų, kuri, tikime, šį darbą nuo­
-    širdžiai sutiks.
-    Pagaliau nieku būdu negalime praeiti pro šalį nepareiškę
-    didelio dėkingumo gerb. prof. A. Aleknai mielai padėju­
-    siam naudingais patarimais šią monografiją rašant bei reda­
-    guojant, ir kartu apgailestaujam, kad gerb, profesorius dėl
-    ligos negalėjo parašyti šiai knygai įžangos žodžio.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
-- c-003
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Alekna, A., Lietuvos istorija. Antras leidimas. Tilžė, 1923.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-004
-
-- c-004
-  šaltinis: Vytautas Didysis 1350-1430 (1930 m.)
-  citata_originali: |
-    Vytauto Didžiojo 500 jubiliejaus metu proga „Sakalo“ B-vė išleido apie
-    Vytautą Didįjį plačią monografiją. Ją parašė istorikų būrelis, redagavo
-    S. Daukanto mok. Sem-jos istorijos mok. P. Šležas. Monografiją peržiū­
-    rėjo ir patikrino prof. A. Alekna.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-006
-
-- c-005
-  santrauka: 'Antanas Alekna 1922–1930 m. buvo pirmasis Lietuvos istorijos, jos šaltinių ir istorinės geografijos dėstytojas Teologijos-Filosofijos fakultete.'
-  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
-  citata_originali: |
-    Kanauninkas Ant. Alekna buvo pirmasis (1922-1930) Lie­
-    tuvos istorijos, jos šaltinių ir Lietuvos istorinės geografijos dėsty­
-    tojas Teologijos-Filosofijos fakulteto Filosofijos skyriuje ir ten isto­
-    rijos katedros vedėjas. Jau 1911 m. jis išleido «Lietuvos istoriją»,
-    jos platesniajam leidimui, ketvirtam iš eilės (1923), panaudodamas
-    daugiau šaltinių ir mokslinių tyrinėjimų. A. Aleknos «Katalikų
-    Bažnyčia Lietuvoje » (1936) parodė jo sugebėjimą šaltinius kritiškai
-    ir objektyviai vertinti. Plačiai pasiremdamas Kauno vyskupijos
-    kurijos archyvine medžiaga, jis išleido « Žemaičiu vysk. M. Valan­
-    čius » (1923) 81a.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-005
-    - t-003
-    - t-002
-
 ## Citatos
 
 - id: c-03954
@@ -288,6 +201,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-64504
-    - t-64502
     - t-64501
+    - t-64502
+    - t-64504

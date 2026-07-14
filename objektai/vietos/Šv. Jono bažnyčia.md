@@ -2,6 +2,7 @@
 tipas: vieta
 pavadinimas: 'Šv. Jono bažnyčia'
 saltiniai:
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
   - 'Michał Baliński, Vilniaus miesto istorija (2007 m.)'
 sukurta: ''
 atnaujinta: ''
@@ -25,7 +26,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jono bažnyčią, visą mū­ rinį.
+Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią. Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.
 
 ## Teiginiai
 
@@ -45,51 +46,6 @@ Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujušino protus65. Jon
 - susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172812|Vilniaus magistratas]]: 1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.
 - susijęs iš Šv. Jono bažnyčia Vilniuje: Šv. Jono bažnyčia Vilniuje įkurta 1386 m., pabaigta 1426 m. ir pašventinta 1427 m. sausio 10 d.
 - susijęs iš [[objektai/zodynas/arkipresbiteris nuolatinis vikaras adjutoriai.md#claim-t-86511|arkipresbiteris nuolatinis vikaras adjutoriai]]: Nuo įkūrimo Šv. Jono bažnyčia buvo pavesta klebonams, turėjusiems arkipresbiterių titulus ir kelis pagalbininkus kunigus.
-## Reikšmingi paminėjimai
-
-- c-001
-  santrauka: 'Vyskupas Protasevičius įsakė viešai deginti surinktas disidentų knygas priešais Šv. Jono bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Uolus, bet ir sumanus, šis ordinas nesiliovė sa­
-    vo disputais ir raštais spaudęs savo priešininkus, nekan­
-    traudamas trokštamos pergalės, ėmėsi smarkių priemonių,
-    bet jos, valdant išmintingam ir narsiam Steponui, negalėjo
-    jo atvesti į užsibrėžtą tikslą. Jėzuitų pakurstytas vyskupas
-    Protasevičius, nepaprastai užsidegęs išnaikinti eretikus, įsa­
-    kė surinktas disidentų knygas, viešai deginti priešais Šv.
-    Jono bažnyčią, tokiu būdu iki aukščiausio laipsnio sujuši-
-    no protus65.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-002
-
-- c-002
-  santrauka: 'Goštautų vardu vadintas mūrinis namas stovėjo priešais Šv. Jono bažnyčią.'
-  šaltinis: Michał Baliński, Vilniaus miesto istorija (2007 m.)
-  citata_originali: |
-    Mes cituojame tik tuos, kuriuos
-    matėme patys.
-    70
-    Detali Kardinalijos istorija yra tokia:
-    kunigaikštis Jurgis Radvila, dar bū­
-    damas Vilniaus vyskupijos koadju­
-    torius, su broliu gavo palikimo mū­
-    rinį namą, Goštautų vardo, stovintį
-    priešais Šv. Jono bažnyčią, visą mū­
-    rinį.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
-  pagrindžia:
-    - t-001
-
 ## Citatos
 
 - id: c-82259

@@ -3,17 +3,19 @@ tipas: zodyno_irasas
 pavadinimas: 'seimelis'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede'
 datos:
+  - '1749 m.'
+  - '1752 m.'
   - '1588 m.'
-date_start: '1588'
-date_end: ''
-sukurta: ''
-atnaujinta: ''
-tags:
-  - sąvoka
-  - politinis-terminas
+date_start: '1749'
+date_end: '1752'
 amziai:
   - 'XVI'
+  - 'XVIII'
+sukurta: ''
+atnaujinta: ''
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -35,71 +37,148 @@ media_all_json: |-
 
 ## Teiginiai
 
-<a id="claim-t-72752"></a>
+<a id="claim-t-200630"></a>
 - t-001
-  global_id: t-72752
-  teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
-  pagrindžia:
-    - c-71123
-
-<a id="claim-t-72755"></a>
-- t-002
-  global_id: t-72755
+  global_id: t-200630
   teiginys: "Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus."
   pagrindžia:
-    - c-71124
+    - c-184025
+    - c-184026
+    - c-184027
 
-<a id="claim-t-72756"></a>
-- t-003
-  global_id: t-72756
+<a id="claim-t-200631"></a>
+- t-002
+  global_id: t-200631
   teiginys: "Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas."
   pagrindžia:
-    - c-71123
-## Reikšmingi paminėjimai
+    - c-184029
+    - c-184026
+    - c-184027
 
-- c-001
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
-    teismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-
-    stovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai
-    buvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo
-    atskirus vardus: priešseiminiuose seimeliuose bū-
-    davo renkami atstovai į seimą; reliaciniuose atstovai,
-    grįžę iš seimo, padarydavo pranešimus apie seimo darbus;
-    elekciniuose būdavo renkami pavieto arba vaivadijos urė-
-    dai, ir t. t.
-    **3.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: aukstas
-  patikimumo_saltinis: ai
+<a id="claim-t-200632"></a>
+- t-003
+  global_id: t-200632
+  teiginys: "Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus."
   pagrindžia:
-    - t-001
-    - t-003
+    - c-184029
+    - c-184026
 
-- c-002
-  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
-  citata_originali: |
-    Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-
-    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
-    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
-    sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: ''
-  statusas: verified
-  teiginio_tipas: faktas
-  patikimumo_lygis: vidutinis
-  patikimumo_saltinis: ai
+<a id="claim-t-200667"></a>
+- t-004
+  global_id: t-200667
+  teiginys: "1749 m. Smolensko pavieto seimelyje buvo renkami tokie pareigūnai kaip vėliavininkas, žemės teisėjas, iždininkas ir žemės raštininkas."
   pagrindžia:
-    - t-002
+    - c-184013
 
+<a id="claim-t-200694"></a>
+- t-005
+  global_id: t-200694
+  teiginys: "1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas, žemės teisėju - Karolis Eidžiatovičius."
+  pagrindžia:
+    - c-184043
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200657|Vilniaus seimelis]]: 1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200658|Vilniaus seimelis]]: 1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/asmenys/Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.).md#claim-t-200480|Karolis Eidžiatovičius (Smolensko pavieto žemės teisėjas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Eidžiatovičius buvo išrinktas žemės teisėju.
+- susijęs iš [[objektai/asmenys/Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.).md#claim-t-200482|Karolis Piotrovskis (Smolensko pavieto žemės raštininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelyje Karolis Piotrovskis ėjo žemės raštininko pareigas.
+- susijęs iš [[objektai/asmenys/Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.).md#claim-t-200481|Liudvikas Dylevskis (Smolensko pavieto iždininkas, 1749 m.)]]: Domininkas Burba nurodo, kad 1749 m. Smolensko pavieto seimelyje iždininku minėtas Liudvikas Dylevskis arba Juozapas Anupras Kulieša.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200488|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: 1757 m. Vitebsko kaštelionas Martynas Tiškevičius tarėsi su Jonu Dominyku Lopacinskiu dėl seimelio reikalų ir Sapiegų interesų.
+- susijęs iš [[objektai/asmenys/Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.).md#claim-t-200534|Mykolas Kazimieras Radvila Žuvelė (Vilniaus vaivada, XVIII a.)]]: 1752 m. Jonas Dominykas Lopacinskis tikėjosi per seimelį pasiderėti su Vilniaus vaivada Mykolu Kazimieru Radvila Žuvele dėl brolio interesų.
+- susijęs iš [[objektai/asmenys/Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.).md#claim-t-200479|Povilas Vladislovas Košycas (Smolensko pavieto vėliavininkas, 1749 m.)]]: 1749 m. Smolensko pavieto seimelio vėliavininku išrinktas Povilas Vladislovas Košycas.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200650|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, žemės raštininku Karolis Piotrovskis.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200651|Smolensko pavieto seimelis]]: 1749 m. įvyko Smolensko pavieto seimelis.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200652|Smolensko pavieto seimelis]]: 1749 m. Smolensko pavieto seimelyje vėliavininku išrinktas Povilas Vladislovas Košycas / Kašicas, žemės teisėju Karolis Eidžiatovičius, iždininku Liudvikas Dylevskis arba Juozapas Anupras Kulieša, o žemės raštininku Karolis Piotrovskis.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200656|Vilniaus seimelis]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasiderėti dėl brolio interesų.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200657|Vilniaus seimelis]]: 1753 m. J. D. Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200658|Vilniaus seimelis]]: 1753 m. Jonas Dominykas Lopacinskis sužinojo, kad Vilniaus seimelis bus nutrauktas.
+- susijęs iš [[objektai/grupes/Vilniaus seimelis.md#claim-t-200659|Vilniaus seimelis]]: 1752 m. Mykolas Kazimieras Radvila Žuvelė buvo labai patenkintas Vilniaus seimelio rezultatais.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200619|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1757 m. Lopacinskis su Vitebsko kaštelionu Martynu Tiškevičiumi tarėsi dėl seimelio reikalų ir Sapiegų interesų.
+- susijęs iš [[objektai/paprociai/Derybos ir interesų derinimas per seimelius Vilniuje.md#claim-t-200620|Derybos ir interesų derinimas per seimelius Vilniuje]]: 1752 m. Jonas Dominykas Lopacinskis Vilniaus seimelį laikė proga pasikalbėti ir pasiderėti dėl brolio interesų.
+- susijęs iš [[objektai/asmenys/Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.).md#claim-t-200483|Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)]]: Antanas Tadas Pšezdeckis buvo LDK referendorius.
+- susijęs iš [[objektai/asmenys/Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.).md#claim-t-200484|Antanas Tadas Pšezdeckis (LDK referendorius, XVIII a.)]]: 1756 m. J. D. Lopacinskio parama Smolensko pateisėjininkaičiui buvo nenaudinga jo draugystei su Antanu Tadu Pšezdeckiu.
+- susijęs iš [[objektai/asmenys/Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.).md#claim-t-200487|Martynas Tiškevičius (Vitebsko kaštelionas, XVIII a.)]]: Martynas Tiškevičius buvo Vitebsko kaštelionas.
+- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200485|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Per 1756 m. Starodubo seimelį Stanislovą Pšezdeckį protegavo LDK referendorius Antanas Tadas Pšezdeckis.
+- susijęs iš [[objektai/asmenys/Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.).md#claim-t-200486|Stanislovas Pšezdeckis (Smolensko pilies teisėjas, XVIII a.)]]: Stanislovas Pšezdeckis buvo Smolensko pilies teisėjas.
+- susijęs iš [[objektai/grupes/Smolensko pavieto seimelis.md#claim-t-200653|Smolensko pavieto seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
+- susijęs iš [[objektai/grupes/Starodubo seimelis.md#claim-t-200688|Starodubo seimelis]]: 1752 m. J. D. Lopacinskis minėjo būsimus Smolensko ir Starodubo seimelius.
 ## Citatos
 
-- id: c-71123
+- id: c-184013
+  autorius: "Domininkas Burba"
+  šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
+  citata_originali: |
+    Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-
+    nėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,
+    seimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
+    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
+    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
+    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
+    Karolis Piotrovskis (Karol Piotrowski) [9].
+  citata_rodoma: "Iš politinių institucijų bene dažniausiai kanauninko bei bajorų pasauliečių susiraši-\nnėjimuose būdavo minimi Vilniaus, taip pat sostinėje vykdavę Smolensko ir Starodubo,\nseimeliai. 1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-\nninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /\nKaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas\nDylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –\nKarolis Piotrovskis (Karol Piotrowski) [9]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200667
+
+- id: c-184025
+  redaktorius: "A. Šapoka"
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-
+    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
+    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
+    sario 2 d.) ir darbuodavos tribunole vienus metus.
+  citata_rodoma: "Su mažais pakeitimais jis toks\npat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-\njais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-\ndavo renkami specialiai šaukiamame Grabnyčių seimely (apie va-\nsario 2 d.) ir darbuodavos tribunole vienus metus."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200630
+
+- id: c-184026
   redaktorius: "A. Šapoka"
   šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Seimeliai. Žemės teismams rinkti buvo įvesti viso pavieto
+    arba vaivadijos bajorų suvažiavimai, vadinami seimeliais.
+    Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
+    teismą ir kitus urėdus.
+  citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo"
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-184027
+  redaktorius: "A. Šapoka"
+  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
+  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+  citata_originali: |
+    Bet pagaliau,
+    kai Steponas Batoras, ruošdamasis į karą prieš Maskvą (1578 m.),
+    atsisakė nuo savo teismų ir įkūrė pačios bajorijos renkamą tri-
+    bunolą Lenkijoje, tai netrukus tas pats buvo padaryta ir
+    Lietuvoje.
+    Vyriausiojo Lietuvos tribunolo reikalas buvo
+    svarstytas net keliuose atskiruose Lietuvos seimuose, ir galu-
+    tinai jis buvo įkurtas 1581 m. Su mažais pakeitimais jis toks
+    pat išliko iki pat nepriklausomybės pabaigos.
+  citata_rodoma: "Su mažais pakeitimais jis toks"
+  statusas: verified
+
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+- id: c-184029
+  redaktorius: "A. Šapoka"
+  šaltinis: A. Šapoka (red.), Lietuvos istorija (1936 m.)
   indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
   citata_originali: |
     Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo
@@ -112,28 +191,31 @@ media_all_json: |-
     elekciniuose būdavo renkami pavieto arba vaivadijos urė-
     dai, ir t. t.
     **3.
+  citata_rodoma: "Seimeliuose bajorija apsvarstydavo savo reikalus, išsirinkdavo\nteismą ir kitus urėdus. Taip pat seimeliuose buvo renkami at-\nstovai į seimą ir surašomos jiems instrukcijos. Vėliau seimeliai\nbuvo šaukiami vienam kuriam reikalui, ir kiekvienas iš jų turėjo\natskirus vardus: priešseiminiuose seimeliuose bū-\ndavo renkami atstovai į seimą; reliaciniuose atstovai,\ngrįžę iš seimo, padarydavo pranešimus apie seimo darbus;\nelekciniuose būdavo renkami pavieto arba vaivadijos urė-\ndai, ir t. t.\n**3."
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72752
-    - t-72756
+    - t-200631
+    - t-200632
 
-- id: c-71124
-  redaktorius: "A. Šapoka"
-  šaltinis: "A. Šapoka (red.), Lietuvos istorija (1936 m.)"
-  indeksas: "Red. A. Šapoka, A. Šapoka (red.), Lietuvos istorija (1936 m.)."
+- id: c-184043
+  autorius: "Domininkas Burba"
+  šaltinis: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)"
+  puslapiai: "PDF 5"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.), PDF 5."
   citata_originali: |
-    Su mažais pakeitimais jis toks
-    pat išliko iki pat nepriklausomybės pabaigos. Tribunolo teisė-
-    jais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-
-    davo renkami specialiai šaukiamame Grabnyčių seimely (apie va-
-    sario 2 d.) ir darbuodavos tribunole vienus metus.
-  citata_rodoma: "Tribunolo teisė-\njais buvo visų seimelių renkami bajorijos atstovai. Jie visada bū-\ndavo renkami specialiai šaukiamame Grabnyčių seimely (apie va-\nsario 2 d.) ir darbuodavos tribunole vienus metus."
+    1749 m. J. D. Lopacinskis rašė, kad įvyko Smolensko pavieto seimelis, vėliavi-
+    ninku jame išrinktas Povilas Vladislovas Košycas / Kašicas (Paweł Władysław Koszyc /
+    Kaszyc), žemės teisėju Karolis Eidžiatovičius (Karol Ejdziatowicz), iždininku – Liudvikas
+    Dylevskis (Ludwik Dylewski) [95] arba Juozapas Anupras Kulieša, žemės raštininku –
+    Karolis Piotrovskis (Karol Piotrowski) [9]. 1752 m. J. D. Lopacinskis minėjo, kad atvyks
+    Vilniaus vaivada Mykolas Kazimieras Radvila Žuvelė ir galima bus pakalbėti, pasiderėti
+    per seimelį dėl brolio interesų.
   statusas: verified
   teiginio_tipas: faktas
   patikimumo_lygis: vidutinis
   patikimumo_saltinis: ai
   pagrindzia:
-    - t-72755
+    - t-200694

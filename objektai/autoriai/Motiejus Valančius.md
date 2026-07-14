@@ -4,14 +4,14 @@ pavadinimas: 'Motiejus Valančius'
 saltiniai:
   - 'A. Šapoka (red.), Lietuvos istorija (1936 m.)'
   - 'Alfonsas Eidintas, Alfredas Bumblauskas, Antanas Kulakauskas, Mindaugas Tamošaitis, Lietuvos istorija (2013 m.)'
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
+  - 'Mūsų tautosaka, t.4 (1931)'
   - 'Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)'
-datos: []
-date_start: ''
-date_end: ''
-aliases:
-  - 'objektai/autoriai/Vysk. Motiejus Valančius'
-variantai:
-  - 'Vysk. Motiejus Valančius'
+datos:
+  - '1848 m.'
+  - '1883 m.'
+date_start: '1848'
+date_end: '1883'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -19,8 +19,9 @@ tags:
   - mokslininkas
   - vyskupas
 amziai:
-  - 'V'
-periodo_grupes: []
+  - 'XIX'
+periodo_grupes:
+  - 'naujieji laikai'
 media_total_count: '0'
 media_primary_thumb_url: ''
 media_primary_canonical_url: ''
@@ -38,7 +39,7 @@ media_all_json: |-
 
 ## Santrauka
 
-Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio raštų autorius, bet ir kaip Žemaičių vyskupas, blaivybės skleidėjas bei lietuviškos spaudos ir slaptųjų mokyklų rėmėjas.
+Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu. Motiejaus Valančiaus „Palangos Juzė“, „Paaugusių žmonių knygelė“, „Vaikų knygelė“ ir „Pasakojimas Antano tretininko“ turėjo nemažą reikšmę. Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.
 
 ## Darbai
 
@@ -163,6 +164,27 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - susijęs iš [[objektai/zodynas/tautinė sąmonė.md#claim-t-47945|tautinė sąmonė]]: Daukantas lietuvių tautinės sąmonės raidai davė reikšmingų paskatų.
 - susijęs iš [[objektai/zodynas/šiuolaikinė tautos (nacijos) samprata.md#claim-t-22349|šiuolaikinė tautos (nacijos) samprata]]: Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.
 - susijęs iš [[objektai/paprociai/Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas.md#claim-t-195373|Šventinių vaišių ir gėrimo praktika prie bažnyčios, per vestuves ir kitas bendruomenines progas]]: Autorius rašo, kad 1858 m. Blaivybės Brolijos įvedimas nutraukė ankstesnę girtavimo tvarką.
+## Reikšmingi paminėjimai
+- c-002
+  šaltinis: Zenonas Ivinskis, Lietuvos istorija iki Vytauto Didžiojo mirties (1978 m.)
+  citata_originali: |
+    Pvz., Stanevičius
+    su pagrindu kritikavo J. Lasickio knygutę « apie Žemaičių dievus »,
+    kurioje paprasti kalbos žodžiai esą padaryti dievų vardais^41. Tik
+    prieš 20 metų, metodiškai tyrinėjant^42 , buvo akivaizdžiai matyti,
+    kad Stanevičius buvo pradėjęs moksliniu atžvilgiu teisingai statyti
+    klausimus.
+    Sveikas pažiūras ir gana kritišką nusistatymą link šaltinių
+    parodė Motiejus Valančius savo 2-jų tomų veikale « Žemaičių
+    Vyskupystėje »^43.
+  citata_rodoma: ''
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindžia:
+    - t-001
+
 ## Citatos
 
 - id: c-163227

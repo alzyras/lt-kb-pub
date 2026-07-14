@@ -1,0 +1,106 @@
+---
+tipas: ivykis
+pavadinimas: 'Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)'
+saltiniai:
+  - 'Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopacinskio asmeninę korespondenciją (straipsnis, 2015 m.)'
+datos:
+  - '1758 m.'
+date_start: '1758'
+date_end: ''
+sukurta: ''
+atnaujinta: ''
+tags:
+  - ivykis
+  - konfliktas
+amziai:
+  - 'XVIII'
+media_total_count: '0'
+media_primary_thumb_url: ''
+media_primary_canonical_url: ''
+media_primary_directness: ''
+media_primary_relation_type: ''
+media_primary_json: ''
+media_direct_json: |-
+  []
+media_contextual_json: |-
+  []
+media_all_json: |-
+  []
+---
+# Deputato Łapos ir Weysenhoffo susirėmimas Vilniuje (1758 m. rugsėjo 9 d.)
+
+## Santrauka
+
+1758 m. laiške minėta, kad įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko ir Vilniuje kapojosi kardais. Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą.
+
+## Laikotarpis ir datos
+
+- laikotarpis: XVIII a. vidurys
+- datos:
+  - 1758 m. rugsėjo 9 d.
+- periodas: ankstyvieji_naujieji_laikai
+- periodo_grupes:
+  - LDK
+- amziai:
+  - XVIII
+- date_start: 1758-09-09
+- date_end: 1758-09-09
+
+## Dalyviai ir vaidmenys
+
+- deputatas Łapa - vienas susirėmimo dalyvių.
+- Weysenhoff - vienas susirėmimo dalyvių.
+
+## Eiga
+
+Nenurodyta
+
+## Rezultatas
+
+- Łapa buvo sužeistas į galvą ir ranką.
+- Weysenhoffas buvo sužeistas į galvą, nosį ir ranką, neteko piršto.
+
+## Teiginiai
+
+<a id="claim-t-200605"></a>
+- t-001
+  global_id: t-200605
+  teiginys: "1758 m. laiške minėta, kad įkaušę bajorai Antanas Lapa ir Weysenhofas susipyko ir Vilniuje kapojosi kardais."
+  pagrindžia:
+    - c-183997
+
+<a id="claim-t-200606"></a>
+- t-002
+  global_id: t-200606
+  teiginys: "Per 1758 m. susirėmimą Antanui Lapai sužeista kakta ir ranka, o Weysenhofui - nosis, ranka ir kakta; jis prarado pirštą."
+  pagrindžia:
+    - c-183997
+
+## Data ir vieta
+
+- data: 1758 m. rugsėjo 9 d.
+- vieta: Vilnius
+
+## Citatos
+
+- id: c-183997
+  autorius: "Domininkas Burba"
+  šaltinis: Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede
+  puslapiai: "PDF 6"
+  indeksas: "Domininkas Burba, Bajorų gyvenimo peripetijos XVIII amžiaus vidurio Lietuvos Didžiosios Kunigaikštystės sostinėje pagal Vilniaus kanauninko Jono Dominyko Lopac--f1f2c60ede, PDF 6."
+  citata_originali: |
+    Laiškuose būta ir kiek pikantiškesnių temų, susijusių su teisėsauga, pvz., informacija
+    apie Vilniaus bajorų nusikaltimus ir siautėjimus. 1751 m. kanauninkas broliui rašė, kad
+    Vilniuje nieko naujo, tik žinia apie tai, kad Savickį nužudė Reška, kadais tarnavęs pas
+    vyskupą [23]. 1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai:
+    tribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir
+    Veisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka
+    (šis prarado pirštą) ir kakta [55].
+  citata_rodoma: "1758 m. laiške jis minėjo, kad susipyko ir kardais kapojosi įkaušę bajorai: \ntribunolo deputatas (pasiuntinys) nuo Starodubo pavieto Antanas Lapa (Antoni Łapa) ir \nVeisenhofas (Weysenhof); A. Lapai sužeista kakta ir ranka, kitam mušeikai nosis, ranka \n(šis prarado pirštą) ir kakta [55]."
+  statusas: verified
+  teiginio_tipas: faktas
+  patikimumo_lygis: vidutinis
+  patikimumo_saltinis: ai
+  pagrindzia:
+    - t-200605
+    - t-200606
