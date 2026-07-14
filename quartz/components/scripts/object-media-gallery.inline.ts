@@ -43,6 +43,7 @@ const FACET_VISIBLE_LIMIT: Partial<Record<MediaFacetKey, number>> = { objects: 2
 const facetVisibleLimit = (key: MediaFacetKey) => FACET_VISIBLE_LIMIT[key] ?? 10
 const catalogRequests = new Map<string, Promise<MediaEntry[]>>()
 const detailCache = new Map<string, Promise<MediaEntry>>()
+const naturalSizeCache = new Map<string, Promise<{ width: number, height: number } | null>>()
 
 const text = (value: unknown) => cleanText(value)
 const escapeHtml = (value: unknown) =>
@@ -50,6 +51,49 @@ const escapeHtml = (value: unknown) =>
     /[&<>"]/g,
     (char) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[char] ?? char,
   )
+
+function readDimension(value: unknown): number | null {
+  const dimension = Number(value)
+  return Number.isFinite(dimension) && dimension > 0 ? dimension : null
+}
+
+function normalizedDimensions(entry: MediaEntry): { width: number, height: number } {
+  const width = readDimension(entry.width)
+  const height = readDimension(entry.height)
+  if (!width || !height) return { width: 1600, height: 1200 }
+  const ratio = width / height
+  if (ratio < 0.1 || ratio > 10) return { width: 1600, height: 1200 }
+  return { width, height }
+}
+
+function mediaIdentity(entry: MediaEntry): string {
+  return text(entry.mediaId) || text(entry.sourceUrl) || text(entry.thumbUrl)
+}
+
+function applyResolvedDimensions(entry: MediaEntry, dimensions: { width: number, height: number } | null | undefined) {
+  if (!dimensions?.width || !dimensions?.height) return
+  entry.width = dimensions.width
+  entry.height = dimensions.height
+}
+
+function loadNaturalDimensions(entry: MediaEntry): Promise<{ width: number, height: number } | null> {
+  const key = mediaIdentity(entry)
+  if (!key) return Promise.resolve(null)
+  let request = naturalSizeCache.get(key)
+  if (!request) {
+    request = new Promise((resolve) => {
+      const src = text(entry.sourceUrl || entry.thumbUrl)
+      if (!src) return resolve(null)
+      const image = new Image()
+      image.decoding = "async"
+      image.onload = () => resolve(image.naturalWidth > 0 && image.naturalHeight > 0 ? { width: image.naturalWidth, height: image.naturalHeight } : null)
+      image.onerror = () => resolve(null)
+      image.src = src
+    })
+    naturalSizeCache.set(key, request)
+  }
+  return request
+}
 
 function parseBootstrap(root: HTMLElement): MediaGalleryBootstrap {
   try {
@@ -233,15 +277,38 @@ function initViewer(
   let details: HTMLElement | undefined
   let openedWithPush = false
   let openedScrollY = 0
-  const dataSource = () =>
-    getEntries().map((entry) => ({
-      src: entry.sourceUrl || entry.thumbUrl,
-      msrc: entry.thumbUrl || entry.sourceUrl,
-      width: Number(entry.width || 1600),
-      height: Number(entry.height || 1200),
-      alt: displayCaption(entry),
-      mediaId: entry.mediaId,
-    }))
+  const currentEntry = (index: number) => getEntries()[index]
+  const dataSource = () => getEntries().map((entry) => ({
+    src: entry.sourceUrl || entry.thumbUrl, msrc: entry.thumbUrl || entry.sourceUrl,
+    ...normalizedDimensions(entry),
+    alt: displayCaption(entry), mediaId: entry.mediaId,
+  }))
+  const syncSlideDimensions = (index: number, dimensions: { width: number, height: number }) => {
+    const pswp = lightbox.pswp as (PhotoSwipe & { currSlide?: { data?: { width?: number, height?: number }, width?: number, height?: number, updateContentSize?: (force?: boolean) => void } }) | undefined
+    if (!pswp || pswp.currIndex !== index) return
+    const slide = pswp.currSlide
+    if (!slide) return
+    if (slide.data) {
+      slide.data.width = dimensions.width
+      slide.data.height = dimensions.height
+    }
+    slide.width = dimensions.width
+    slide.height = dimensions.height
+    slide.updateContentSize?.(true)
+    pswp.updateSize(true)
+  }
+  const hydrateEntry = async (index: number) => {
+    const entry = currentEntry(index)
+    if (!entry) return
+    const [detail, natural] = await Promise.all([loadDetail(entry), loadNaturalDimensions(entry)])
+    if (currentEntry(index)?.mediaId !== entry.mediaId) return
+    if (detail && detail !== entry) Object.assign(entry, detail)
+    applyResolvedDimensions(entry, natural)
+    const resolved = normalizedDimensions(entry)
+    applyResolvedDimensions(entry, resolved)
+    lightbox.options.dataSource = dataSource()
+    syncSlideDimensions(index, resolved)
+  }
   const lightbox = new PhotoSwipeLightbox({
     dataSource: dataSource(),
     pswpModule: PhotoSwipe,
@@ -277,7 +344,8 @@ function initViewer(
           if (!entry) return
           const requestedId = entry.mediaId
           element.innerHTML = detailsSkeleton(entry)
-          const detail = await loadDetail(entry)
+          await hydrateEntry(pswp.currIndex)
+          const detail = getEntries()[pswp.currIndex] ?? entry
           if (getEntries()[pswp.currIndex]?.mediaId !== requestedId) return
           element.innerHTML = detailsHtml(detail)
           element
@@ -346,28 +414,40 @@ function initViewer(
     } else writeUrl(getState(), "", "replace", galleryPath)
   })
   lightbox.on("contentLoadImage", ({ content }) => {
-    if (content.element instanceof HTMLImageElement)
-      content.element.addEventListener(
-        "error",
-        () => {
-          const entry = getEntries()[lightbox.pswp?.currIndex ?? 0]
-          const original = entry?.canonicalUrl
-            ? ` <a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>`
-            : ""
-          details?.insertAdjacentHTML(
-            "afterbegin",
-            `<p class="media-viewer-error">Vaizdo nepavyko užkrauti.${original}</p>`,
-          )
-        },
-        { once: true },
+    const imageElement = content.element
+    if (!(imageElement instanceof HTMLImageElement)) return
+    const syncFromImage = () => {
+      const width = imageElement.naturalWidth
+      const height = imageElement.naturalHeight
+      if (!width || !height) return
+      const index = lightbox.pswp?.currIndex ?? 0
+      const entry = getEntries()[index]
+      if (!entry) return
+      const dimensions = { width, height }
+      applyResolvedDimensions(entry, dimensions)
+      lightbox.options.dataSource = dataSource()
+      syncSlideDimensions(index, dimensions)
+    }
+    if (imageElement.complete) syncFromImage()
+    else imageElement.addEventListener("load", syncFromImage, { once: true })
+    imageElement.addEventListener("error", () => {
+      const entry = getEntries()[lightbox.pswp?.currIndex ?? 0]
+      const original = entry?.canonicalUrl
+        ? ` <a href="${escapeHtml(entry.canonicalUrl)}" target="_blank" rel="noreferrer noopener">Atidaryti originalą</a>`
+        : ""
+      details?.insertAdjacentHTML(
+        "afterbegin",
+        `<p class="media-viewer-error">Vaizdo nepavyko užkrauti.${original}</p>`,
       )
+    }, { once: true })
   })
   lightbox.init()
-  const open = (index: number, push = false) => {
+  const open = async (index: number, push = false) => {
     if (index < 0 || index >= getEntries().length) return false
     openedWithPush = push
     openedScrollY = scrollY
     if (push) history.pushState({}, "", mediaDetailUrl(getEntries()[index]!))
+    await hydrateEntry(index)
     lightbox.loadAndOpen(index)
     return true
   }
@@ -387,7 +467,7 @@ function initViewer(
     if (index < 0) return
     event.preventDefault()
     event.stopPropagation()
-    open(index, true)
+    void open(index, true)
   }
   root.addEventListener("click", onRootClick)
   return {
@@ -704,11 +784,8 @@ function initGallery(root: HTMLElement) {
     const requested =
       new URLSearchParams(location.search).get("media") ||
       filtered.find((entry) => mediaDetailUrl(entry) === location.pathname)?.mediaId
-    if (!requested || viewer.lightbox.pswp) return false
-    return viewer.open(
-      filtered.findIndex((entry) => entry.mediaId === requested),
-      false,
-    )
+    if (!requested || viewer.lightbox.pswp) return
+    void viewer.open(filtered.findIndex((entry) => entry.mediaId === requested), false)
   }
   openRequestedMedia()
 
